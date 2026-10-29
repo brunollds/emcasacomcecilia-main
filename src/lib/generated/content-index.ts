@@ -121338,7 +121338,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Garantia vitalícia, em resumo",
         "paragraphs": [
-          "A garantia vitalícia cobre vícios de fabricação em todas as malas da marca Bagaggio compradas a partir de 29/04/2024, sem custo adicional. Mochilas, bolsas e outras marcas vendidas no site, como Travelcross, Swiss One e Samsonite, ficam fora dela.",
+          "A garantia vitalícia cobre vícios de fabricação em todas as malas da marca Bagaggio compradas a partir de 29/04/2024, sem custo adicional. Mochilas, bolsas e as outras marcas que a página da garantia cita, como Travelcross, Swiss One e Samsonite, ficam fora dela.",
           "Ela vale só no Brasil, com nota fiscal em nome do consumidor, e só para o comprador original. Desgaste das rodas, queda, sobrecarga e avarias no transporte ficam de fora. O quadro completo, com as exclusões e o passo a passo para acionar, está no [artigo da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
         ],
         "image": {
@@ -122311,7 +122311,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mochila tem garantia vitalícia?",
         "paragraphs": [
-          "Pelo texto da loja, a resposta é não. A página oficial diz que a garantia vitalícia se aplica exclusivamente às malas da marca Bagaggio. Travelcross, Swiss One e Samsonite, vendidas pela loja, ficam de fora e seguem a garantia própria de cada fabricante.",
+          "Pelo texto da loja, a resposta é não. A página oficial diz que a garantia vitalícia se aplica exclusivamente às malas da marca Bagaggio. As outras marcas que a página cita, como Travelcross, Swiss One e Samsonite, ficam de fora e seguem a garantia própria de cada fabricante.",
           "Mochilas, bolsas e carteiras não entram na vitalícia, mesmo quando são da marca. Elas seguem a garantia da etiqueta ou, sem prazo na etiqueta, a garantia legal de 90 dias, contada a partir da compra ou da entrega."
         ],
         "image": {
@@ -124741,7 +124741,7 @@ export const reviewsData: unknown[] = [
           "**Amalfi Sunset.** A Skelt diz \"Transporte-se para o verão europeu\" e descreve a fragrância como cítrica nos kits. As notas comuns às três pirâmides que a loja publica (kits e perfume para cabelos) são bergamota, jasmim e sândalo. Está em quinto na ordem de mais vendidos do site em 23/10/2026 e é a única das dez que tem perfume para cabelos, hidratante e creme para mãos da mesma fragrância. A página do Amalfi pede para não aplicar no rosto.",
           "**Unexpected Day.** A loja a chama de \"uma surpresa refrescante\". A descrição cita pera e maçã verde, violeta e laranjeira, baunilha e chantilly: começa fresca e termina em \"conforto doce\", nas palavras da Skelt. Não há pirâmide na página.",
           "**Grand Bahama.** A Skelt a descreve como solar, exótica e vibrante. Topo de abacaxi, bergamota e água de coco; meio de lírio do vale, flores solares e limão; fundo de baunilha, musk e musgo de carvalho. É a fragrância do Bifásico, o autobronzeador com perfume de body splash: veja o [guia dos autobronzeadores Skelt](/reviews/autobronzeador-skelt-qual-escolher).",
-          "**Milos Breeze.** \"Frescor com a energia do verão grego\", diz a loja, que cita a brisa do mar Egeu. Topo de água de coco e acorde aquoso; meio de frangipani, lírio do vale e mimosa; fundo de musk, cedro e patchouli. Fica neste grupo pelo topo aquoso. É a que aparece mais embaixo na ordem de mais vendidos, em 35º."
+          "**Milos Breeze.** \"Frescor com a energia do verão grego\", diz a loja, que cita a brisa do mar Egeu. Topo de água de coco e acorde aquoso; meio de frangipani, lírio do vale e mimosa; fundo de musk, cedro e patchouli. Fica neste grupo pelo topo aquoso. É a que aparece mais embaixo na ordem de mais vendidos, em 35º. As notas e os kits do Milos Breeze estão no [guia do Body Splash Milos Breeze](/reviews/body-splash-skelt-milos-breeze)."
         ],
         "postParagraphs": [
           "As quatro custam o mesmo, então a escolha é só pelas notas."
@@ -124762,14 +124762,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "São as duas que a loja descreve com palavras como gourmand e adocicado. Também aqui o agrupamento é nosso.",
           "**Velvet Milano.** A Skelt a descreve como fragrância gourmand \"para celebrar sua essência\". Topo de limão, bergamota, maçã e laranja; meio de rosa branca, jasmim e frutas vermelhas; fundo de sândalo, baunilha e musk. Um dos kits da loja a chama de gourmand cítrica. Ocupa o 12º lugar na ordem de mais vendidos em 23/10/2026.",
-          "**Solar Muse.** O perfil na página é \"Solar, Cítrico e Adocicado (Floral Frutado Solar)\", com o slogan \"Quente como você chega\". Topo de abacaxi rosa, água de coco e folhas de palmeira; meio de jasmim manga, lírio-do-vale, gardênia e floral doce; fundo de baunilha, caramelo, âmbar doce, madeiras salgadas e musgo. Só aparece em kits, junto do hidratante Amalfi Sunset ou do Hidden Flowers.",
+          "**Solar Muse.** O perfil na página é \"Solar, Cítrico e Adocicado (Floral Frutado Solar)\", com o slogan \"Quente como você chega\". Topo de abacaxi rosa, água de coco e folhas de palmeira; meio de jasmim manga, lírio-do-vale, gardênia e floral doce; fundo de baunilha, caramelo, âmbar doce, madeiras salgadas e musgo. É vendido avulso, a R$ 99,90 em 29/10/2026 ([página do Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)), e também em kits com o hidratante Amalfi Sunset ou o Hidden Flowers. Notas por camada e a conta de cada conjunto com o Solar Muse estão no [guia do Body Splash Solar Muse](/reviews/body-splash-skelt-solar-muse).",
           "Entre as duas, a diferença que a loja publica está no meio e no fundo: rosa branca e frutas vermelhas no Velvet Milano, jasmim manga e caramelo no Solar Muse."
         ]
       },
       {
         "heading": "Hidratante, creme para mãos e perfume para cabelos da mesma fragrância",
         "paragraphs": [
-          "Quem quer a mesma fragrância em mais de um produto encontra seis hidratantes de 200 g, três cremes para mãos de 75 g e um perfume para cabelos de 140 ml. Pink Sands, Grand Bahama, Solar Muse e Milos Breeze não têm hidratante avulso. Na ordem de mais vendidos do site em 23/10/2026, o perfume para cabelos Amalfi Sunset está em 2º; entre os hidratantes, o Unexpected Day está em 6º, o Amalfi Sunset em 7º e o Hidden Flowers em 10º."
+          "Quem quer a mesma fragrância em mais de um produto encontra seis hidratantes de 200 g, três cremes para mãos de 75 g e um perfume para cabelos de 140 ml. Pink Sands, Grand Bahama, Solar Muse e Milos Breeze não têm hidratante avulso. Na ordem de mais vendidos do site em 23/10/2026, o perfume para cabelos Amalfi Sunset está em 2º; entre os hidratantes, o Unexpected Day está em 6º, o Amalfi Sunset em 7º e o Hidden Flowers em 10º. Para escolher o hidratante pela fragrância, veja o [guia dos hidratantes corporais Skelt](/reviews/hidratante-corporal-skelt-qual-fragrancia)."
         ],
         "comparisonTable": {
           "headers": [
@@ -125016,7 +125016,8 @@ export const reviewsData: unknown[] = [
           "Qual a diferença entre body splash e perfume mist da Skelt? A loja não explica diferença: o catálogo chama o produto de body splash no nome e de perfume mist em algumas fotos e kits, no mesmo frasco de 100 ml. Este guia usa body splash.",
           "Qual kit de body splash sai mais barato que os avulsos? Em 23/10/2026, os Duos com hidratante saíam 10,9% mais baratos, o Duo + Creme para Mãos 16,2% e o Kit Hidratação 15,8%. Os kits com perfume para cabelos custavam um pouco mais que os avulsos.",
           "O cupom vale no kit e soma com o Pix? Sim: o cupom SKEMCASACOMCECILIA, de 10%, vale em kits e em produtos em promoção e soma com os 5% do Pix, e a Skelt aceita um cupom por pedido. O passo a passo está em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar).",
-          "Comprei no Mercado Livre, o cupom vale? Não. O cupom SKEMCASACOMCECILIA vale só no site oficial da Skelt."
+          "Comprei no Mercado Livre, o cupom vale? Não. O cupom SKEMCASACOMCECILIA vale só no site oficial da Skelt.",
+          "A Skelt tem body splash masculino? Não. Em 29/10/2026, nenhum dos 106 produtos do catálogo público da Skelt nem as categorias da loja falam em linha masculina ou para homem."
         ]
       },
       {
@@ -156115,6 +156116,1384 @@ export const reviewsData: unknown[] = [
       {
         "slug": "shein-vs-shopee-zh-hant",
         "title": "SHEIN 跟蝦皮怎麼選？運費、退貨規則與購買前要確認的事（含 AliExpress）"
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "slug": "mala-policarbonato-ou-abs-bagaggio",
+    "locale": "pt",
+    "title": "Mala de policarbonato ou ABS na Bagaggio: vale pagar mais?",
+    "seoTitle": "Mala de policarbonato ou ABS: vale pagar mais? Preço por litro",
+    "type": "Comparativo de Materiais",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mala de bordo de 10 kg em ABS, polipropileno e policarbonato na Bagaggio: preço, litros e peso de cada ficha em 29/10/2026, com a conta de reais por litro e por kg.",
+    "metaDescription": "Mala de policarbonato ou ABS? Na Bagaggio, a de policarbonato custa de 3,6 a 6 vezes a de ABS na mesma medida de 10 kg. Veja preço por litro e por kg.",
+    "publishedAt": "29 de outubro de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-capa.webp",
+    "imageAlt": "Mala de bordo de policarbonato Bahamas Branca, vendida pela Bagaggio, em foto oficial da loja, com o logo da Bagaggio",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na mesma mala de bordo de 10 kg, a de policarbonato custou de 3,6 a 6 vezes a de ABS na Bagaggio em 29/10/2026, sem ganhar litros e pesando mais. As fichas não comparam a resistência dos materiais, então a decisão fica no preço, no peso e nos litros. A conta por litro e por kg está na tabela."
+        ]
+      },
+      {
+        "heading": "ABS, polipropileno e policarbonato: os preços de 29/10",
+        "paragraphs": [
+          "A Bagaggio vende a mala de bordo de 10 kg em três materiais: ABS, polipropileno e policarbonato. Cada ficha traz o material, a medida, os litros e o peso, mas nenhuma compara um material com o outro. A tabela junta as fichas lidas em 29/10/2026, do preço mais baixo ao mais alto."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Material",
+            "Preço no cartão (29/10)",
+            "Medida (ficha)",
+            "Litros",
+            "Peso",
+            "R$ por litro",
+            "R$ por kg"
+          ],
+          "rows": [
+            [
+              "[Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "ABS",
+              "R$ 249,90",
+              "55 x 35 x 23 cm",
+              "44,2 L",
+              "2,61 kg",
+              "5,65",
+              "95,75"
+            ],
+            [
+              "[Route Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Polipropileno",
+              "R$ 299,90",
+              "55 x 35 x 22,5 cm (com rodas)",
+              "45,3 L",
+              "2,43 kg",
+              "6,62",
+              "123,42"
+            ],
+            [
+              "[Santiago Preta](https://www.bagaggio.com.br/mala-de-bordo-10kg-polipropileno-4-rodas-santiago-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Polipropileno",
+              "R$ 349,90",
+              "52,5 x 35 x 21,5 cm (com rodas)",
+              "39,5 L",
+              "2,6 kg",
+              "8,86",
+              "134,58"
+            ],
+            [
+              "[Malta Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Polipropileno",
+              "R$ 499,90",
+              "55 x 35 x 20 cm",
+              "38,5 L",
+              "2,57 kg",
+              "12,98",
+              "194,51"
+            ],
+            [
+              "[Bahamas Branca](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-bahamas-branca/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Policarbonato",
+              "R$ 899,90",
+              "55 x 35 x 22,5 cm",
+              "43,3 L",
+              "3,4 kg",
+              "20,78",
+              "264,68"
+            ],
+            [
+              "[Nova Bahamas Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Policarbonato",
+              "R$ 999,90",
+              "55 x 35 x 22,5 cm",
+              "43,4 L",
+              "3,28 kg",
+              "23,04",
+              "304,85"
+            ],
+            [
+              "[Kyoto II Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-kyoto-ii-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Policarbonato",
+              "R$ 1.499,90",
+              "55 x 35 x 23 cm",
+              "44,2 L",
+              "3,52 kg",
+              "33,93",
+              "426,11"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o CECILIA10, a Bahamas Branca saiu por R$ 809,91 e, no Pix, por R$ 769,41. A Detroit Preta saiu por R$ 224,91 com o cupom e R$ 213,66 no Pix. A Kyoto II Preta, que estava sem desconto da loja, saiu por R$ 1.349,91 com o cupom e R$ 1.282,41 no Pix. Esses valores vieram da API pública do carrinho da loja em 29/10/2026, com uma mala por vez, sem identificação e sem finalizar a compra.",
+          "Os preços são de um dia. A loja muda a promoção sem aviso, então confira o valor na ficha antes de comprar."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-tres-materiais.webp",
+          "alt": "Três malas de bordo da Bagaggio lado a lado: a Detroit Preta de ABS, a Route Preta de polipropileno e a Bahamas Branca de policarbonato",
+          "caption": "Da esquerda para a direita: Detroit Preta (ABS), Route Preta (polipropileno) e Bahamas Branca (policarbonato), todas de 10 kg. Fotos oficiais da loja, lidas em 29/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6275
+        }
+      },
+      {
+        "heading": "Como ler a tabela",
+        "paragraphs": [
+          "A medida, os litros e o peso são da ficha de cada mala. O preço por litro e o preço por kg são contas nossas: o preço no cartão dividido pelos litros da ficha, ou pelo peso da ficha.",
+          "As medidas não são todas iguais. A Route e a Santiago informam a medida com as rodas. A Malta tem 20 cm de profundidade, contra 22,5 cm ou 23 cm das outras de 55 cm. Por isso ela tem 38,5 L, menos que a Route, com a mesma altura e a mesma largura.",
+          "A tabela traz uma ou duas linhas por material. Para ver mais linhas de mala de bordo, abra a [página do cupom Bagaggio](/cupons/bagaggio), que leva ao site da loja."
+        ]
+      },
+      {
+        "heading": "O policarbonato pesa mais sem ganhar litro",
+        "paragraphs": [
+          "Segundo as fichas, a Bahamas Branca pesa 3,4 kg e tem 43,3 L. A Detroit Preta, de ABS, pesa 2,61 kg e tem 44,2 L. A Kyoto II Preta tem os mesmos 44,2 L da Detroit e pesa 3,52 kg.",
+          "Nas três malas de policarbonato da tabela, o peso vai de 3,28 kg a 3,52 kg. Nas de ABS e polipropileno, vai de 2,43 kg a 2,61 kg. Em litros, as de policarbonato ficam entre 43,3 L e 44,2 L, no meio da faixa das outras.",
+          "A imagem da ficha da Bahamas Branca diz que ela suporta até 10 kg."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-bahamas-branca.webp",
+          "alt": "Mala de bordo de policarbonato Bahamas Branca da Bagaggio, de frente, com a alça de puxar laranja estendida e quatro rodas",
+          "caption": "Mala de bordo de 10 kg Bahamas Branca, de policarbonato: 3,4 kg e 43,3 L, segundo a ficha. Foto oficial da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.56
+        }
+      },
+      {
+        "heading": "A cor muda o preço da mesma mala",
+        "paragraphs": [
+          "Na Bagaggio, a mesma mala custa preços diferentes conforme a cor. A ficha não explica a diferença: medida, litros e peso são iguais.",
+          "A Malta de 10 kg tem 55 x 35 x 20 cm, 38,5 L e 2,57 kg nas três cores. Em 29/10/2026, a [Malta Rosa Escuro](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-rosa-escuro-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custava R$ 349,90, a [Malta Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 499,90 e a [Malta Branca e Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-branca-e-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 549,90. Por litro, R$ 9,09, R$ 12,98 e R$ 14,28. A Rosa Escuro estava com uma unidade em estoque na leitura.",
+          "A Nova Bahamas, de policarbonato, segue a mesma lógica: a [Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custava R$ 999,90, a [Bege](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-bege/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 1.199,90 e a [Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 1.299,90, todas com 43,4 L e 3,28 kg.",
+          "Se a cor não importa, compare as cores da mesma linha antes de comparar materiais: a Malta Rosa Escuro custava R$ 150,00 a menos que a Malta Preta."
+        ]
+      },
+      {
+        "heading": "Vale pagar mais pelo policarbonato?",
+        "paragraphs": [
+          "Pelos números das fichas, o policarbonato não traz mais litros nem menos peso. O que muda é o material e o preço. Três perguntas apontam uma linha da tabela:"
+        ],
+        "bullets": [
+          "Quer o menor preço por litro? A [Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de ABS, saiu a R$ 5,65 por litro.",
+          "Quer a mala mais leve com mais litros? A [Route Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de polipropileno, tem 2,43 kg e 45,3 L, a mais leve e a de mais litros da tabela.",
+          "Quer policarbonato? A [Bahamas Branca](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-bahamas-branca/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) foi a mais barata do material, a R$ 20,78 por litro, com 40% abaixo do preço de lista. A Nova Bahamas Preta e a Kyoto II Preta custaram mais com litros parecidos."
+        ],
+        "postParagraphs": [
+          "Se a escolha é pelo material, a diferença de preço é o que você paga por ele. As fichas não dizem que um material aguenta mais que o outro, e este texto também não diz."
+        ]
+      },
+      {
+        "heading": "E a garantia?",
+        "paragraphs": [
+          "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, e não depende do material. As sete malas da tabela trazem o selo de garantia vitalícia na ficha. O que cobre e como acionar está no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o cupom CECILIA10. As condições vigentes ficam na [página do cupom Bagaggio](/cupons/bagaggio).",
+          "O cupom dá 10% OFF em todo o site, inclusive no Outlet e em produto já com desconto. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido. O Pix de 5% entra depois, sobre o total que já tem o cupom.",
+          "O cupom foi conferido no carrinho com uma mala por vez. Com mais de uma mala na sacola, a regra do cupom é a mesma, mas isso não foi conferido. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Mala de policarbonato é melhor que ABS? As fichas da Bagaggio não comparam a resistência dos materiais. Na mesma medida de 10 kg, a de policarbonato custou mais e pesou mais, com litros parecidos.",
+          "Qual a diferença de preço entre ABS, polipropileno e policarbonato na Bagaggio? Entre as malas de bordo de 10 kg deste texto, em 29/10/2026, a de ABS custava R$ 249,90, as de polipropileno de R$ 299,90 a R$ 549,90 e as de policarbonato de R$ 899,90 a R$ 1.499,90.",
+          "Mala de policarbonato pesa mais que a de ABS? Na Bagaggio, sim. Segundo as fichas, as de policarbonato de 10 kg pesam de 3,28 kg a 3,52 kg, e a Detroit de ABS pesa 2,61 kg.",
+          "Por que a mesma mala Malta custa preços diferentes por cor? A ficha não explica. Em 29/10/2026, a Malta de 10 kg custava R$ 349,90 na Rosa Escuro, R$ 499,90 na Preta e R$ 549,90 na Branca e Marrom, com a mesma medida e o mesmo peso.",
+          "Vale pagar mais pela mala de policarbonato? Só se o material importa para você. Pelos números das fichas, ela não traz mais litros nem menos peso que a de ABS.",
+          "Tem cupom para a mala de policarbonato Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site, inclusive em produto com desconto. Em 29/10/2026, a Bahamas Branca saiu por R$ 809,91 com o cupom. Condições na [página do cupom Bagaggio](/cupons/bagaggio)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Bagaggio pelo botão, escolha a mala e cole o CECILIA10 no campo Cupom de desconto da sacola.",
+      "label": "Ir para a Bagaggio com o cupom",
+      "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "bagaggio",
+    "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-bagaggio-como-usar",
+        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+      },
+      {
+        "slug": "bagaggio-garantia-vitalicia",
+        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      },
+      {
+        "slug": "black-friday-bagaggio",
+        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+      },
+      {
+        "slug": "bagaggio-e-confiavel",
+        "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "slug": "bagaggio-e-boa-malas-mochilas",
+    "locale": "pt",
+    "title": "Bagaggio é boa? Malas, mochilas e bolsas pelas fichas",
+    "seoTitle": "Bagaggio é boa? Malas, mochilas e bolsas pelas fichas",
+    "type": "Guia de Produto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que as fichas da Bagaggio dizem de malas, mochilas e bolsas: material, peso, medida, garantia e preço em 29/10/2026, e o que é Travelcross no site.",
+    "metaDescription": "Bagaggio é boa? Veja o que as fichas dizem de malas, mochilas e bolsas: material, peso, garantia e preço em 29/10/2026, e o que é linha Travelcross.",
+    "publishedAt": "29 de outubro de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa.webp",
+    "imageAlt": "Mochila Slim Horizonte e cadeado com chave da Bagaggio, fotos das fichas da loja, com o logo da Bagaggio e o título Bagaggio é boa?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Depende da categoria, porque as fichas da loja dizem material, peso, medida e garantia, mas não como o produto se sai no uso. Nas malas da marca, a ficha traz garantia vitalícia com regulamento; nas mochilas e bolsas, a garantia tem prazo. A Downtown PP e a Mochila Tech aparecem como Travelcross no cadastro da loja."
+        ]
+      },
+      {
+        "heading": "O que este guia lê",
+        "paragraphs": [
+          "Ninguém do site usou estas malas, mochilas ou bolsas. O texto lê as fichas do site oficial da Bagaggio em 29/10/2026 e diz o que cada uma traz. Se a mala aguenta a viagem ou se a mochila fica confortável no dia a dia, a ficha não diz, e este guia também não.",
+          "A empresa, o CNPJ e o site oficial estão em [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel). A reputação está no [artigo sobre o Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Categoria",
+            "Preço no cartão em 29/10/2026",
+            "Material na ficha",
+            "Garantia na ficha"
+          ],
+          "rows": [
+            [
+              "[Mala de Bordo Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Mala de bordo",
+              "R$ 249,90",
+              "ABS",
+              "Vitalícia, confira o regulamento"
+            ],
+            [
+              "[Mala de Bordo Route Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Mala de bordo",
+              "R$ 299,90",
+              "Polipropileno",
+              "Vitalícia"
+            ],
+            [
+              "[Mala de Bordo Kyoto II Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-kyoto-ii-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Mala de bordo",
+              "R$ 1.499,90",
+              "Policarbonato",
+              "Vitalícia, confira o regulamento"
+            ],
+            [
+              "[Mochila Slim Horizonte](https://www.bagaggio.com.br/mochila-masculina-executiva-para-notebook-horizonte/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Mochila",
+              "R$ 79,90",
+              "Poliéster",
+              "3 meses"
+            ],
+            [
+              "[Mochila de Couro Arpoador Preta](https://www.bagaggio.com.br/mochila-masculina-de-couro-para-notebook-arpoador-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Mochila",
+              "R$ 399,90",
+              "Couro",
+              "3 meses"
+            ],
+            [
+              "[Mochila de Couro Joá Café](https://www.bagaggio.com.br/mochila-masculina-executiva-de-couro-para-notebook-joa-cafe/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Mochila",
+              "R$ 699,90",
+              "Couro",
+              "90 dias"
+            ],
+            [
+              "[Bolsa de Viagem Média Vegas Preta](https://www.bagaggio.com.br/bolsa-de-viagem-masculina-media-vegas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Bolsa de viagem",
+              "R$ 99,90",
+              "Poliéster",
+              "90 dias"
+            ],
+            [
+              "[Cadeado para Mala com Chave Preto](https://www.bagaggio.com.br/cadeado-para-mala-bagaggio-com-chave-preto-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "Acessório",
+              "R$ 59,90",
+              "Não informado",
+              "Não informada"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o CECILIA10, o preço cai 10% pela regra do cupom, e o Pix tira mais 5% sobre o total já com o cupom, enquanto a loja mantiver a oferta. A seção \"Parceria e cupom\" diz o que foi testado."
+        ]
+      },
+      {
+        "heading": "Malas: o que a ficha traz",
+        "paragraphs": [
+          "Na busca do site em 29/10/2026, as malas da marca Bagaggio em estoque iam de R$ 249,90, na [Mala de Bordo Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 1.999,90, na [Kyoto Trunk Bronze](https://www.bagaggio.com.br/mala-de-viagem-grande-ultra-ampla-policarbonato-4-rodas-kyoto-trunk-bronze/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de policarbonato. Fica fora dessa faixa uma mala elétrica com patinete, a BG Motion, de R$ 3.499,90.",
+          "As fichas de mala trazem material, medida, capacidade em litros, peso e o tipo de cadeado. A Detroit é de ABS, a Route é de polipropileno e a Kyoto II é de policarbonato. As três têm 55 cm de altura com as rodas, segundo a ficha."
+        ],
+        "bullets": [
+          "Detroit Preta: ABS, 55 x 35 x 23 cm, 44,2 L, 2,61 kg, cadeado com senha embutido, 4 rodas 360° removíveis.",
+          "Route Preta: polipropileno, 55 x 35 x 22,5 cm com rodas, 45,3 L, 2,43 kg, cadeado com senha embutido, rodas duplas 360° removíveis.",
+          "Kyoto II Preta: policarbonato, 55 x 35 x 23 cm, 44,2 L, 3,52 kg, cadeado TSA, rodas duplas 360°."
+        ],
+        "postParagraphs": [
+          "Quase todas as malas da marca em estoque trazem garantia vitalícia no atributo da ficha, com a ressalva de conferir o regulamento. Quem tem direito e o que ela cobre estão no [artigo da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia).",
+          "A ficha diz que a mala de bordo vai a bordo, mas não cita a regra de nenhuma companhia aérea. Confira a medida e o peso aceitos pela sua companhia antes de comprar."
+        ]
+      },
+      {
+        "heading": "Mochilas: poliéster, couro e garantia com prazo",
+        "paragraphs": [
+          "Na mesma busca, as mochilas da marca em estoque iam de R$ 49,90, nas escolares, a R$ 999,90, na executiva Titanium. As de notebook ficam no meio: a [Mochila Slim Horizonte](https://www.bagaggio.com.br/mochila-masculina-executiva-para-notebook-horizonte/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custa R$ 79,90, a [Mochila de Couro Arpoador Preta](https://www.bagaggio.com.br/mochila-masculina-de-couro-para-notebook-arpoador-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 399,90 e a [Mochila de Couro Joá Café](https://www.bagaggio.com.br/mochila-masculina-executiva-de-couro-para-notebook-joa-cafe/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 699,90.",
+          "A ficha da Horizonte diz poliéster, 45 x 39 x 11 cm, 19,3 L, 0,46 kg e sem rodas. A descrição fala em compartimento para notebook de até 15,6\", bolso frontal com zíper e alças ajustáveis. A Joá, de couro, traz compartimento para notebook de 16\" e 0,44 kg na ficha."
+        ],
+        "postParagraphs": [
+          "Mochila não entra na garantia vitalícia. O atributo de garantia das mochilas da marca é, na maioria, de 90 dias ou 3 meses; algumas executivas, como a [Mochila Executiva Slim Kronos Preta](https://www.bagaggio.com.br/mochila-executiva-kronos-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (R$ 149,90), trazem 3 anos. Parte das fichas não traz o atributo, então confira na ficha da mochila que você escolher."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-mochila-horizonte.webp",
+          "alt": "Mochila para notebook Slim Horizonte preta, da marca Bagaggio, de frente, com bolso frontal com zíper",
+          "caption": "Mochila Slim Horizonte, da marca Bagaggio: poliéster, 0,46 kg e garantia de 3 meses na ficha lida em 29/10/2026. Foto oficial da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6289
+        }
+      },
+      {
+        "heading": "Bolsas de viagem: o essencial",
+        "paragraphs": [
+          "As bolsas da marca em estoque iam de R$ 19,90 a R$ 399,90 na busca de 29/10/2026, somando bolsas de viagem, de ombro e transversais. Entre as de viagem, a [Bolsa de Viagem Média Vegas Preta](https://www.bagaggio.com.br/bolsa-de-viagem-masculina-media-vegas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custa R$ 99,90, e a ficha diz poliéster, 42 L, 0,54 kg e garantia de 90 dias.",
+          "A [Bolsa de Viagem Crinkle 19J Roxa](https://www.bagaggio.com.br/bolsa-de-viagem-pequena-bagaggio-crinkle-19j-roxa/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) aparecia por R$ 49,90, fora de estoque. A ficha diz poliéster, estrutura semirrígida, três bolsos externos com zíper e garantia de 6 meses. Nas bolsas da marca, a garantia mais comum na ficha é de 90 dias ou 3 meses."
+        ]
+      },
+      {
+        "heading": "Cadeado e rodas",
+        "paragraphs": [
+          "A loja vende o [Cadeado para Mala com Chave Preto](https://www.bagaggio.com.br/cadeado-para-mala-bagaggio-com-chave-preto-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) à parte, por R$ 59,90, em estoque em 29/10/2026. A descrição diz que ele abre com chave, sem senha, e que serve em malas, mochilas e bolsas de viagem.",
+          "Nem toda mala precisa dele. A Detroit e a Route trazem cadeado com senha embutido, e a Kyoto II traz cadeado TSA, segundo as fichas. As malas de bordo lidas têm 4 rodas 360°; nas mochilas de notebook, a ficha traz \"Sem Rodas\"."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-cadeado.webp",
+          "alt": "Dois cadeados pretos com chave e o logo BG da Bagaggio, em foto oficial da loja",
+          "caption": "Cadeado para mala com chave, vendido à parte pela Bagaggio por R$ 59,90 em 29/10/2026. Foto oficial da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6265
+        }
+      },
+      {
+        "heading": "Bagaggio ou Travelcross?",
+        "paragraphs": [
+          "O site vende outras marcas além da Bagaggio. Duas linhas que aparecem muito nas buscas estão cadastradas como Travelcross: a [Mala de Bordo PP Downtown Preta](https://www.bagaggio.com.br/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de R$ 179,90, e a [Mochila Executiva Tech Preta](https://www.bagaggio.com.br/mochila-masculina-executiva-para-notebook-tech-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de R$ 139,90. O campo Marca dentro das duas fichas diz Bagaggio, mas o cadastro da loja as põe na Travelcross, então este guia as chama de Travelcross, vendida pela Bagaggio.",
+          "Isso pesa na garantia. A regra da vitalícia vale para as malas da marca Bagaggio e deixa a Travelcross de fora, e a ficha da Downtown não traz o atributo de garantia. Se a garantia decide a compra, prefira uma mala com a garantia vitalícia na ficha ou pergunte à loja antes."
+        ]
+      },
+      {
+        "heading": "Então, a Bagaggio é boa?",
+        "paragraphs": [
+          "Pelas fichas, a resposta muda por categoria. Nas malas, a ficha é completa, com material, peso, medida, cadeado e garantia vitalícia. Nas mochilas e bolsas, a ficha traz material e medida, mas a garantia tem prazo e falta em parte das linhas.",
+          "Para escolher, compare na ficha o material, o peso e a garantia do produto que você quer, e confira a marca da linha. Se a dúvida é a loja, e não o produto, comece por [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o CECILIA10. As condições vigentes estão na [página do cupom da Bagaggio](/cupons/bagaggio).",
+          "Pela regra da loja, o CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet e em produtos já com desconto, e a loja aceita um cupom por pedido. Ele soma com o Pix de 5%, que entra sobre o total já com o cupom, enquanto a loja mantiver a oferta.",
+          "O cupom foi testado na sacola em 22/10/2026, numa mala do Outlet. Em produto sem promoção e em conjunto de malas ele não foi testado; a regra diz que vale para todos os produtos. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Bagaggio é boa para malas? As fichas das malas da marca trazem material, peso, medida, cadeado e garantia vitalícia com regulamento. Elas não dizem como a mala se sai na viagem.",
+          "A Bagaggio é boa para mochilas? As fichas trazem material, medida e, em parte das linhas, peso e garantia. A garantia das mochilas tem prazo, na maioria de 90 dias ou 3 meses.",
+          "A mochila Bagaggio tem garantia vitalícia? Não. A garantia vitalícia vale para as malas da marca, e a mochila segue o prazo da ficha ou da etiqueta.",
+          "A Downtown é Bagaggio ou Travelcross? O cadastro da loja põe a Mala de Bordo PP Downtown na marca Travelcross, embora o campo Marca da ficha diga Bagaggio. A ficha dela não traz garantia vitalícia.",
+          "A Bagaggio vende Samsonite? Em 29/10/2026, a busca do site não trazia nenhum produto Samsonite. A marca aparece cadastrada no site, mas sem produto à venda.",
+          "A Bagaggio tem cadeado para mala? Tem. O cadeado com chave é vendido à parte por R$ 59,90, e algumas malas, como a Detroit e a Route, já trazem cadeado com senha embutido.",
+          "Tem cupom na Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site pela regra da loja. Ele soma com o Pix de 5%."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Compare a ficha do produto no site oficial da Bagaggio e use o CECILIA10 no campo de cupom do carrinho para ganhar 10% OFF.",
+      "label": "Ir para a Bagaggio com o cupom",
+      "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "bagaggio",
+    "editorialNote": "Feito com as fichas da loja. Podemos receber comissão pelas compras feitas com o CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "bagaggio-e-confiavel",
+        "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+      },
+      {
+        "slug": "bagaggio-garantia-vitalicia",
+        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      },
+      {
+        "slug": "bagaggio-reclame-aqui-nota-reputacao",
+        "title": "Bagaggio no Reclame Aqui: nota, reputação e principais reclamações"
+      },
+      {
+        "slug": "cupom-bagaggio-como-usar",
+        "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
+      }
+    ]
+  },
+  {
+    "id": 708,
+    "slug": "conjunto-de-malas-bagaggio-compensa",
+    "locale": "pt",
+    "title": "Conjunto de malas Bagaggio compensa? A soma das peças, conta por conta",
+    "seoTitle": "Conjunto de malas Bagaggio compensa? Soma das peças em 2026",
+    "type": "Comparativo de Conjuntos",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Conjunto de malas Bagaggio compensa? Somamos as peças avulsas de 32 conjuntos em 29/10/2026: 24 custam a soma exata. Veja quais têm desconto real e quanto.",
+    "metaDescription": "Conjunto de malas Bagaggio: dos 32 conferidos em 29/10/2026, 24 custam a soma das peças avulsas. Veja os 6 com desconto real e estoque, e o cupom CECILIA10.",
+    "publishedAt": "29 de outubro de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa.webp",
+    "imageAlt": "Conjunto de malas Detroit da Bagaggio, em foto oficial da loja, com o logo da Bagaggio",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na maioria, não: dos 32 conjuntos da Bagaggio que conferimos em 29/10/2026, 24 custam exatamente a soma das peças avulsas. O desconto real aparece em seis conjuntos com estoque, e o maior é o do Malta P e M Branca e Marrom, R$ 174,95 abaixo da soma. A tabela mostra a conta de cada um."
+        ]
+      },
+      {
+        "heading": "A conta de 12 conjuntos em 29/10",
+        "paragraphs": [
+          "A loja tem mais de 150 conjuntos na busca. Conferimos 32, os que usam peças da mesma linha vendidas também avulsas, e 24 deles custam a soma exata das peças. A tabela traz as linhas com diferença e um exemplo de cada tipo que não tem diferença. Os preços são do cartão, lidos nas fichas da loja em 29/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Conjunto",
+            "Preço do conjunto (cartão, 29/10)",
+            "Soma das peças avulsas",
+            "Diferença",
+            "Em estoque"
+          ],
+          "rows": [
+            [
+              "[Malta P e M Branca e Marrom](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-malta-branca-e-marrom-p-e-m/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 1.024,85",
+              "R$ 1.199,80",
+              "-R$ 174,95",
+              "Sim"
+            ],
+            [
+              "[Nova Bahamas P e G Preta](https://www.bagaggio.com.br/conjunto-de-malas-policarbonato-4-rodas-nova-bahamas-p-e-g-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 2.149,85",
+              "R$ 2.299,80",
+              "-R$ 149,95",
+              "Sim"
+            ],
+            [
+              "[Malta P e M Preta](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-malta-preta-p-e-m/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 1.024,85",
+              "R$ 1.099,80",
+              "-R$ 74,95",
+              "Sim"
+            ],
+            [
+              "[Detroit P e M Preta](https://www.bagaggio.com.br/kit-mala-detroit-preta-p-e-m-bagaggio/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 599,80",
+              "R$ 629,80",
+              "-R$ 30,00",
+              "Sim"
+            ],
+            [
+              "[Santiago P e G Azul](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-santiago-azul-p-e-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 824,85",
+              "R$ 849,80",
+              "-R$ 24,95",
+              "Sim"
+            ],
+            [
+              "[Detroit P e G Prata II](https://www.bagaggio.com.br/conjunto-de-malas-abs-detroit-p-e-g-prata-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 599,80",
+              "R$ 599,80",
+              "R$ 0",
+              "Sim"
+            ],
+            [
+              "[Downtown PP e Detroit G Preta](https://www.bagaggio.com.br/conjunto-de-malas-abs-downtown-pp-e-detroit-g-preta-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 529,80",
+              "R$ 529,80",
+              "R$ 0",
+              "Sim"
+            ],
+            [
+              "[Route P e G Vinho](https://www.bagaggio.com.br/conjunto-de-malas-4-rodas-p-e-g-route-vinho/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 699,80",
+              "R$ 699,80",
+              "R$ 0",
+              "Sim"
+            ],
+            [
+              "[Cartagena P e G Preta](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-cartagena-preta-p-e-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 849,80",
+              "R$ 849,80",
+              "R$ 0",
+              "Sim"
+            ],
+            [
+              "[3 malas de bordo Detroit 10 kg](https://www.bagaggio.com.br/conjunto-de-3-malas-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 749,70",
+              "R$ 749,70",
+              "R$ 0",
+              "Sim"
+            ],
+            [
+              "[Bahamas P e G Branca](https://www.bagaggio.com.br/conjunto-de-malas-policarbonato-4-rodas-p-e-g-bahamas-branca/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 2.199,80",
+              "R$ 2.199,80",
+              "R$ 0",
+              "Sim"
+            ],
+            [
+              "[Nova Bahamas P e G Bege](https://www.bagaggio.com.br/conjunto-de-malas-policarbonato-4-rodas-nova-bahamas-p-e-g-bege/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 2.149,85",
+              "R$ 2.699,80",
+              "-R$ 549,95",
+              "Fora de estoque"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Santiago P e G, a versão Preta tem a mesma conta da Azul: R$ 824,85 contra R$ 849,80.",
+          "O CECILIA10 dá 10% em todo o site, inclusive em produto com desconto, e o Pix tira mais 5%. Ainda não testamos o cupom num conjunto, então confira a linha de descontos no resumo do pedido antes de pagar.",
+          "O conjunto Downtown PP e Detroit G Preta também está no [guia de Black Friday da Bagaggio](/reviews/black-friday-bagaggio), com o preço de 22/10. Em 29/10, o preço era o mesmo."
+        ]
+      },
+      {
+        "heading": "Como fizemos a soma",
+        "paragraphs": [
+          "Soma é o preço de venda das peças avulsas da mesma linha, cor e medida do conjunto, lidas no mesmo dia. Diferença é o preço do conjunto menos essa soma. Zero quer dizer que o conjunto custa o mesmo que as peças compradas separadas.",
+          "Para saber qual peça vem em cada conjunto, usamos a medida e a capacidade da ficha. No Detroit P e M Preta, a ficha dá a mala M com 66 x 41,5 x 26 cm e 71,2 litros. É a medida da [Média 24\" Preta II](https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-detroit-preta-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), que avulsa custava R$ 379,90. Por isso a soma é R$ 629,80, e não R$ 599,80, que seria a conta com a Média 26\".",
+          "No Malta P e M Branca e Marrom, a ficha dá 55 x 35 x 20 cm e 38,5 litros na P, e 67 x 45 x 25 cm e 75,3 litros na M. São as medidas da [Malta 10 kg Branca e Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-branca-e-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 549,90, e da [Malta Média 23 kg Branca e Marrom](https://www.bagaggio.com.br/mala-media-23-kg-polipropileno-4-rodas-malta-branca-e-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 649,90."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-malta-branca-marrom.webp",
+            "alt": "Conjunto de malas Malta P e M Branca e Marrom da Bagaggio, uma mala média e uma mala de bordo brancas com detalhes marrons",
+            "caption": "Conjunto Malta P e M Branca e Marrom, o de maior desconto com estoque em 29/10/2026. Foto oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9533
+          },
+          {
+            "src": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-detroit-preta-p-m.webp",
+            "alt": "Conjunto de malas Detroit P e M Preta da Bagaggio, uma mala média e uma mala de bordo pretas em ABS",
+            "caption": "Conjunto Detroit P e M Preta. Pela medida da ficha, a M é a de 24 polegadas. Foto oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9202
+          }
+        ]
+      },
+      {
+        "heading": "Por que o preço riscado não ajuda",
+        "paragraphs": [
+          "Nos conjuntos com desconto, o preço de lista, o riscado, é a soma das listas das peças. No Santiago P e G Azul, por exemplo, a lista é R$ 1.049,80, igual a R$ 449,90 da P mais R$ 599,90 da G. Por isso o riscado do conjunto parece um desconto grande, mas a comparação que vale é com o preço de venda das peças avulsas."
+        ]
+      },
+      {
+        "heading": "Quando o conjunto compensa",
+        "paragraphs": [
+          "Compensa quando a diferença é negativa e o conjunto tem estoque. Em 29/10, eram seis: Malta P e M Branca e Marrom, Nova Bahamas P e G Preta, Malta P e M Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta.",
+          "Quando a diferença é zero, o conjunto não dá vantagem de preço. O que ele dá é uma compra só, com as malas da mesma cor. Duas perguntas resolvem:"
+        ],
+        "bullets": [
+          "Você precisa de todas as peças? Se só vai usar uma, a peça avulsa custa menos que o conjunto.",
+          "Você quer as malas da mesma cor? A cor de cada peça está na ficha do conjunto."
+        ],
+        "postParagraphs": [
+          "Os conjuntos de três malas que conferimos custam a soma exata das peças. O [Detroit P, M e G Preta](https://www.bagaggio.com.br/kit-mala-detroit-preta-p-m-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) sai por R$ 979,70 e o [Cartagena P, M e G Preta](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-cartagena-preta-p-m-e-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) por R$ 1.399,70, os mesmos valores das três peças compradas separadas."
+        ]
+      },
+      {
+        "heading": "P, M e G no conjunto",
+        "paragraphs": [
+          "O nome do conjunto diz quais tamanhos vêm nele. Pelas fichas, a P corresponde à mala de 10 kg, a M à de 23 kg e a G à de 32 kg. A medida da M muda de linha para linha, e até dentro da mesma linha: a Detroit tem a Média de 24 polegadas, com 66 x 41,5 x 26 cm, e a de 26, com 70,5 x 44,5 x 29 cm. Confira a medida na ficha do conjunto."
+        ]
+      },
+      {
+        "heading": "E a garantia?",
+        "paragraphs": [
+          "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, e as fichas dos conjuntos trazem \"Garantia Vitalícia *confira regulamento\". O que cobre e como acionar estão no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido. No nosso teste de 22/10/2026, numa mala avulsa, o Pix tirou 5% sobre o total que já tinha o cupom.",
+          "Pela regra, o cupom vale em todo o site, mas ainda não fizemos o teste num conjunto. As condições atualizadas ficam na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo está em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Conjunto de malas Bagaggio compensa? Na maioria, não. Dos 32 conjuntos conferidos em 29/10/2026, 24 custam a soma exata das peças avulsas.",
+          "O conjunto de malas Bagaggio tem desconto em relação às peças separadas? Só em alguns. Em 29/10/2026, seis conjuntos com estoque custavam menos que a soma das peças: Malta P e M Branca e Marrom, Malta P e M Preta, Nova Bahamas P e G Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta.",
+          "Qual conjunto Bagaggio tem o maior desconto em 2026? Entre os conjuntos com estoque em 29/10/2026, o Malta P e M Branca e Marrom, R$ 174,95 abaixo da soma das peças. O Nova Bahamas P e G Bege tinha diferença maior, mas estava fora de estoque.",
+          "Conjunto de 3 malas de bordo Bagaggio vale a pena? Pelo preço, não muda nada. O conjunto de três malas de bordo Detroit custava R$ 749,70 em 29/10/2026, o mesmo que três malas avulsas de R$ 249,90.",
+          "O cupom CECILIA10 vale para conjunto de malas? Pela regra, o CECILIA10 vale em todo o site, inclusive em produto com desconto. Ainda não testamos o cupom num conjunto, então confira o desconto no resumo do pedido.",
+          "Por que o conjunto tem preço de lista maior que a soma das peças? Porque a lista do conjunto é a soma das listas das peças, não dos preços de venda. A comparação que vale é com o preço de venda das peças avulsas."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a sua compra é na Bagaggio, entre no site oficial e cole o CECILIA10 no carrinho. Confira o desconto no resumo antes de pagar.",
+      "label": "Ir para a Bagaggio com o cupom",
+      "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "bagaggio",
+    "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-bagaggio",
+        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+      },
+      {
+        "slug": "mala-policarbonato-ou-abs-bagaggio",
+        "title": "Mala de policarbonato ou ABS na Bagaggio: vale pagar mais?"
+      },
+      {
+        "slug": "cupom-bagaggio-como-usar",
+        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+      },
+      {
+        "slug": "bagaggio-garantia-vitalicia",
+        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      }
+    ]
+  },
+  {
+    "id": 709,
+    "slug": "hidratante-corporal-skelt-qual-fragrancia",
+    "locale": "pt",
+    "title": "Hidratante corporal Skelt: qual fragrância escolher e quanto sai por 100 g",
+    "seoTitle": "Hidratante corporal Skelt: qual fragrância e preço por 100 g",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os seis hidratantes corporais da Skelt por perfil de fragrância, com o preço por 100 g no avulso, no kit de três e nos duos com body splash ou creme para mãos, em 29/10/2026.",
+    "metaDescription": "Qual hidratante corporal Skelt escolher: as seis fragrâncias por perfil e quanto sai por 100 g no avulso, no kit e nos duos, com a regra do cupom SKEMCASACOMCECILIA.",
+    "publishedAt": "29 de outubro de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-capa.webp",
+    "imageAlt": "Potes dos hidratantes corporais da Skelt em várias fragrâncias, com o logo da loja e o título Hidratante corporal Skelt: qual fragrância?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Skelt pelo botão, escolha o hidratante ou o kit e cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola.",
+      "label": "Ir para a Skelt com o cupom",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "body-splash-skelt-qual-escolher",
+        "title": "Body splash Skelt: qual escolher por fragrância, com hidratantes e kits"
+      },
+      {
+        "slug": "cupom-skelt-como-usar",
+        "title": "Como usar o cupom SKEMCASACOMCECILIA na Skelt e o que ele soma"
+      },
+      {
+        "slug": "skelt-e-confiavel",
+        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: qual hidratante corporal Skelt escolher",
+        "paragraphs": [
+          "Os seis hidratantes corporais da Skelt custam o mesmo, R$ 99,90, então a fragrância se escolhe pelo perfil: cítrico, floral, frutado ou doce. O avulso de 200 g sai a R$ 49,95 por 100 g. O kit de três hidratantes e os duos com body splash baixam essa conta, como mostra a tabela."
+        ]
+      },
+      {
+        "heading": "Quanto sai por 100 g, avulso e em conjunto",
+        "paragraphs": [
+          "Ninguém do site usou os hidratantes da Skelt. A conta parte do preço no cartão publicado no site oficial em 29/10/2026, sem cupom nem Pix. Nos conjuntos com body splash, creme para mãos ou perfume para cabelos, o outro item entra pelo preço avulso dele, e o que sobra é a parte do hidratante. O capítulo dos conjuntos explica a conta."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Conteúdo",
+            "Preço no cartão (29/10/2026)",
+            "Hidratante por 100 g"
+          ],
+          "rows": [
+            [
+              "Hidratante avulso: [Amalfi Sunset](https://www.skelt.com.br/hidratante-desodorante-corporal-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Hidden Flowers](https://www.skelt.com.br/body-cream-hidde-flowers-1/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Mystic Bloom](https://www.skelt.com.br/body-cream-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Urban Beat](https://www.skelt.com.br/hidratante-desodorante-corporal-urban-beat/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) e [Unexpected Day](https://www.skelt.com.br/hidratante-desodorante-corporal-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "200 g",
+              "R$ 99,90",
+              "R$ 49,95"
+            ],
+            [
+              "Hidratante avulso: [Velvet Milano](https://www.skelt.com.br/hidratante-corporal-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "A ficha avulsa não informa o peso",
+              "R$ 99,90",
+              "Sem conta"
+            ],
+            [
+              "[Kit Hidratação Corporal Radiante & Perfumada](https://www.skelt.com.br/kit-radiante-perfumada/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Amalfi Sunset, Urban Beat e Unexpected Day)",
+              "3 hidratantes de 200 g",
+              "R$ 252,20",
+              "R$ 42,03"
+            ],
+            [
+              "Duo hidratante + creme para mãos: [Amalfi Sunset](https://www.skelt.com.br/duoamalfisunset-bodycrem-cremeparamaos/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Hidden Flowers](https://www.skelt.com.br/duohiddenflowers-bodycream-cremeparamaos/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) e [Velvet Milano](https://www.skelt.com.br/duovelvetmilano-bodycream-cremeparamaos/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Hidratante 200 g + creme 75 g",
+              "R$ 117,33",
+              "R$ 42,22"
+            ],
+            [
+              "Duo body splash + hidratante: [Amalfi Sunset](https://www.skelt.com.br/duo-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Hidden Flowers](https://www.skelt.com.br/duo-hidden-flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Mystic Bloom](https://www.skelt.com.br/duo-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Urban Beat](https://www.skelt.com.br/duo-urban-beat/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Unexpected Day](https://www.skelt.com.br/duo-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) e [Velvet Milano](https://www.skelt.com.br/duo-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Splash 100 ml + hidratante 200 g",
+              "R$ 178,11",
+              "R$ 39,11"
+            ],
+            [
+              "Duo + Creme para Mãos: [Amalfi Sunset](https://www.skelt.com.br/duo-creme-para-maos-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Hidden Flowers](https://www.skelt.com.br/duo-creme-para-maos-hidden--flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) e [Velvet Milano](https://www.skelt.com.br/duo-creme-para-maos-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Splash 100 ml + hidratante 200 g + creme 75 g",
+              "R$ 194,96",
+              "R$ 31,08"
+            ],
+            [
+              "[Duo Body Splash Solar Muse + Body Cream Hidden Flowers](https://www.skelt.com.br/duo-bodysplash-solarmuse-bodycream-hiddenflowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Splash 100 ml + hidratante 200 g",
+              "R$ 197,90",
+              "R$ 49,00"
+            ],
+            [
+              "[Linha Completa Amalfi Sunset](https://www.skelt.com.br/linhacompleta-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Splash 100 ml + hidratante 200 g + perfume para cabelos 140 ml + creme 75 g",
+              "R$ 312,60",
+              "R$ 49,95"
+            ],
+            [
+              "Perfume para cabelos + body splash + hidratante Amalfi Sunset: [com splash Solar Muse](https://www.skelt.com.br/perfume-para-cabelo-body-cream-body-splash-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [com splash Amalfi Sunset](https://www.skelt.com.br/perfume-para-cabelos-body-splash-body-cream-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Perfume 140 ml + splash 100 ml + hidratante 200 g",
+              "R$ 282,10",
+              "R$ 51,15"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Kit Radiante estava em promoção em 29/10/2026, de R$ 296,70 por R$ 252,20. Os duos com creme para mãos estavam de R$ 130,37 por R$ 117,33, os duos com body splash de R$ 197,90 por R$ 178,11 e os Duo + Creme para Mãos de R$ 229,37 por R$ 194,96. Os avulsos, a Linha Completa e os kits com perfume para cabelos estavam sem promoção.",
+          "A ficha avulsa do Velvet Milano não traz o peso. Nos duos da mesma fragrância, a Skelt informa hidratante de 200 g, mas o guia não aplica esse número ao pote avulso sem a ficha dele dizer."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-kit-radiante.webp",
+            "alt": "Kit Hidratação Corporal Radiante & Perfumada da Skelt, com os potes dos hidratantes Urban Beat, Unexpected Day e Amalfi Sunset",
+            "caption": "Kit Radiante & Perfumada, com três hidratantes de 200 g. Foto oficial da Skelt.",
+            "objectFit": "contain",
+            "aspectRatio": 1.9909
+          }
+        ]
+      },
+      {
+        "heading": "Qual fragrância: cítrico, floral, frutado ou doce",
+        "paragraphs": [
+          "Como o preço do avulso é o mesmo nas seis, a escolha é de perfil. As notas abaixo são as que a Skelt publica na ficha do hidratante; onde a ficha não traz notas, o guia usa a página do body splash de mesmo nome. O agrupamento por perfil é nosso, não da loja, e ninguém do site sentiu as fragrâncias.",
+          "**Cítrico e fresco: Amalfi Sunset e Unexpected Day.** A ficha do [Amalfi Sunset](https://www.skelt.com.br/hidratante-desodorante-corporal-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) chama a fragrância de \"coquetel cítrico e sofisticado\" e fala num pôr do sol italiano. As notas que se repetem nas páginas da loja são bergamota, jasmim e sândalo; a pirâmide completa muda de uma página para outra, então o guia fica só com essas. O [Unexpected Day](https://www.skelt.com.br/hidratante-desodorante-corporal-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem, segundo a ficha, \"frescor combinado à cremosidade\". A página do body splash de mesmo nome cita pera e maçã verde, violeta e laranjeira, baunilha e chantilly.",
+          "**Floral: Hidden Flowers e Mystic Bloom.** São as duas com pirâmide completa na ficha do hidratante. [Hidden Flowers](https://www.skelt.com.br/body-cream-hidde-flowers-1/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz): topo de bergamota da Itália, pera, pêssego e noz-moscada; meio de rosa damascena da Turquia, lírio-do-vale e olíbano; fundo de vetiver do Haiti, âmbar, musk e baunilha. [Mystic Bloom](https://www.skelt.com.br/body-cream-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz): topo de groselha negra, morango e tangerina; meio de plumeria, flor de maçã e flor de violeta; fundo de musk, cashmeran, âmbar e marshmallow.",
+          "**Frutado e floral: Urban Beat.** A ficha do [Urban Beat](https://www.skelt.com.br/hidratante-desodorante-corporal-urban-beat/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) fala numa \"explosão de frutas vermelhas, violeta, hibisco e pralinê\". Não há pirâmide.",
+          "**Doce: Velvet Milano.** A ficha do [Velvet Milano](https://www.skelt.com.br/hidratante-corporal-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) descreve uma fragrância gourmand. Topo de limão, bergamota, maçã e laranja; meio de rosa branca, jasmim e frutas vermelhas; fundo de sândalo, baunilha e musk. É o único dos seis que, segundo a ficha, tem micropartículas iluminadoras na fórmula."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Fragrância",
+            "Perfil (do guia)",
+            "O que a ficha destaca na fórmula",
+            "Conjuntos com ela"
+          ],
+          "rows": [
+            [
+              "[Amalfi Sunset](https://www.skelt.com.br/hidratante-desodorante-corporal-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Cítrico e fresco",
+              "Niacinamida, manteiga de karité e vitamina E",
+              "Kit Radiante, duo com creme, duo com splash, Duo + Creme, Linha Completa e kits com perfume para cabelos"
+            ],
+            [
+              "[Unexpected Day](https://www.skelt.com.br/hidratante-desodorante-corporal-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Cítrico e fresco",
+              "Óleo de algodão, manteiga de cacau e Prolevis",
+              "Kit Radiante e duo com splash"
+            ],
+            [
+              "[Hidden Flowers](https://www.skelt.com.br/body-cream-hidde-flowers-1/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Floral",
+              "Ceramida e glicerina",
+              "Duo com creme, duo com splash, Duo + Creme e duo com o splash Solar Muse"
+            ],
+            [
+              "[Mystic Bloom](https://www.skelt.com.br/body-cream-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Floral",
+              "Ceramida e glicerina",
+              "Duo com splash"
+            ],
+            [
+              "[Urban Beat](https://www.skelt.com.br/hidratante-desodorante-corporal-urban-beat/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Frutado e floral",
+              "Ômega Plus e blend de óleos vegetais",
+              "Kit Radiante e duo com splash"
+            ],
+            [
+              "[Velvet Milano](https://www.skelt.com.br/hidratante-corporal-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Doce",
+              "Ceramida, glicerina e micropartículas iluminadoras",
+              "Duo com creme, duo com splash e Duo + Creme"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nas seis fichas, a Skelt declara os hidratantes dermatologicamente testados, veganos e cruelty free. O modo de uso publicado é o mesmo: aplicar no corpo todo e massagear até absorver, e reaplicar quando quiser."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-florais.webp",
+            "alt": "Potes dos hidratantes corporais Mystic Bloom e Hidden Flowers da Skelt, lado a lado",
+            "caption": "Mystic Bloom e Hidden Flowers, os dois florais. Foto oficial da Skelt.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8997
+          },
+          {
+            "src": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-velvet-milano.webp",
+            "alt": "Pote azul do hidratante corporal Velvet Milano da Skelt sobre fundo azul",
+            "caption": "Velvet Milano, a fragrância gourmand. Foto oficial da Skelt.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Conjuntos: como a conta do hidratante foi feita",
+        "paragraphs": [
+          "No Kit Radiante só há hidratante, então a conta é direta: R$ 252,20 por 600 g dá R$ 42,03 por 100 g, e o kit custa 15,8% menos que os três avulsos somados (R$ 299,70).",
+          "Nos outros conjuntos, o guia tira do preço o valor avulso dos itens que não são hidratante: R$ 99,90 do body splash, R$ 32,90 do creme para mãos de 75 g e R$ 79,90 do perfume para cabelos de 140 ml. O que sobra é dividido pelos 200 g do hidratante. No duo com body splash, R$ 178,11 menos R$ 99,90 dá R$ 78,21 para o hidratante, ou R$ 39,11 por 100 g.",
+          "O resultado muda com o desconto do conjunto. No Duo + Creme para Mãos, o desconto sobre os avulsos é de 16,2%, e todo ele cai na conta do hidratante: R$ 31,08 por 100 g, a menor da tabela. Já a Linha Completa custa exatamente a soma dos avulsos (R$ 312,60), e os kits com perfume para cabelos de R$ 282,10 custam R$ 2,40 a mais que os itens separados. Nesses, o hidratante não fica mais barato que no avulso."
+        ],
+        "postParagraphs": [
+          "Ficaram fora da tabela os conjuntos em que a ficha não informa os gramas do hidratante: o Kit Hidratantes Secret Garden Collection (dois potes, Hidden Flowers e Mystic Bloom, R$ 178,02), o Kit Body Splash Solar Muse + Body Cream Amalfi Sunset (R$ 178,11) e o Kit Secret Garden Collection (perfume mist e hidratante de cada fragrância, R$ 336,43). Os kits com autobronzeador também ficaram fora.",
+          "Para comparar os body splash da mesma fragrância e os kits para presente, veja o [guia dos body splash Skelt](/reviews/body-splash-skelt-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Cupom e Pix: o que a regra diz",
+        "paragraphs": [
+          "Pela regra da parceria, o cupom SKEMCASACOMCECILIA dá 10% em todos os produtos do site oficial, inclusive kits e combos, e soma com o Pix de 5%. No teste de 21/10/2026, ele entrou sobre produtos que já estavam em promoção e o Pix entrou depois. Não testamos o cupom num hidratante avulso nem num kit de hidratantes.",
+          "Se a regra valer na sua sacola, o avulso de 200 g sai a R$ 42,71 por 100 g com cupom e Pix, e o Kit Radiante a R$ 35,94. Confira o desconto no resumo antes de pagar. As condições estão na [página do cupom Skelt](/cupons/skelt)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "O preço não decide entre as fragrâncias: decide o perfil. O que muda o custo é o formato."
+        ],
+        "bullets": [
+          "Quer um hidratante só: cítrico, [Amalfi Sunset](https://www.skelt.com.br/hidratante-desodorante-corporal-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [Unexpected Day](https://www.skelt.com.br/hidratante-desodorante-corporal-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz); floral, [Hidden Flowers](https://www.skelt.com.br/body-cream-hidde-flowers-1/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [Mystic Bloom](https://www.skelt.com.br/body-cream-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz); frutado, [Urban Beat](https://www.skelt.com.br/hidratante-desodorante-corporal-urban-beat/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz); doce, [Velvet Milano](https://www.skelt.com.br/hidratante-corporal-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz).",
+          "Quer pagar menos por grama e topa três fragrâncias: o [Kit Hidratação Corporal Radiante & Perfumada](https://www.skelt.com.br/kit-radiante-perfumada/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), com Amalfi Sunset, Urban Beat e Unexpected Day, a R$ 42,03 por 100 g.",
+          "Quer o body splash da mesma fragrância: o [duo com body splash](https://www.skelt.com.br/duo-hidden-flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) baixa o hidratante para R$ 39,11 por 100 g, e o [Duo + Creme para Mãos](https://www.skelt.com.br/duo-creme-para-maos-hidden--flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) para R$ 31,08, se você também for usar o splash e o creme.",
+          "Quer o perfume para cabelos junto: a Linha Completa e os kits com perfume não baixam o preço do hidratante. Compre o conjunto só se quiser os itens juntos."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual hidratante corporal Skelt escolher? Pelo perfil da fragrância: Amalfi Sunset e Unexpected Day são os cítricos, Hidden Flowers e Mystic Bloom os florais, Urban Beat o frutado e Velvet Milano o doce. O preço é o mesmo nos seis avulsos.",
+          "Quanto custa o hidratante corporal Skelt? R$ 99,90 o pote avulso em 29/10/2026, o que dá R$ 49,95 por 100 g no pote de 200 g.",
+          "Qual é o jeito mais barato de comprar o hidratante Skelt por grama? Entre os conjuntos só de hidratante, o Kit Radiante, com três potes de 200 g, a R$ 42,03 por 100 g. Contando o body splash e o creme pelo preço avulso, o Duo + Creme para Mãos deixa o hidratante a R$ 31,08 por 100 g.",
+          "Compensa o duo de hidratante com body splash? Se você vai usar o splash, sim pela conta: o duo custa R$ 178,11, 10,9% menos que os dois avulsos, e o hidratante sai a R$ 39,11 por 100 g.",
+          "O kit com perfume para cabelos barateia o hidratante? Não. Em 29/10/2026, a Linha Completa custava a soma dos avulsos e os kits com perfume para cabelos custavam um pouco mais que os itens separados.",
+          "Qual o peso do hidratante Velvet Milano? A ficha avulsa não informa. Nos duos Velvet Milano, a Skelt diz que o hidratante tem 200 g.",
+          "O cupom vale no hidratante avulso? Pela regra da parceria, o SKEMCASACOMCECILIA vale em todos os produtos do site oficial, mas não testamos num hidratante avulso. Confira o desconto na sacola antes de pagar."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Ninguém do site usou os hidratantes ou os kits da Skelt. Este guia reúne o que a marca publica no site oficial (skelt.com.br): preço, peso, notas, fórmula e conteúdo dos kits, lidos em 29/10/2026. Tudo o que se diz sobre fragrância e fórmula é da Skelt.",
+          "Os perfis, a divisão do preço dos conjuntos e os valores com cupom e Pix são contas nossas sobre o preço do dia. Preço, promoção e estoque mudam, e vale o que aparece no site na hora da compra. O site recebe comissão pelas compras com o cupom SKEMCASACOMCECILIA e pelos links da Skelt. Para saber mais sobre a loja, veja [Skelt é confiável?](/reviews/skelt-e-confiavel)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 710,
+    "slug": "body-splash-skelt-solar-muse",
+    "locale": "pt",
+    "title": "Body Splash Skelt Solar Muse: notas, kits e preço",
+    "seoTitle": "Body Splash Skelt Solar Muse: notas, kits e preço",
+    "type": "Guia de Produto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O Body Splash Solar Muse da Skelt pela ficha da loja: 100 ml, as notas de topo, meio e fundo, o modo de uso e a conta dos oito conjuntos que o levam contra os avulsos, em 29/10/2026.",
+    "metaDescription": "Body Splash Skelt Solar Muse: 100 ml por R$ 99,90, as notas que a loja publica e os oito kits com o Solar comparados aos avulsos, com o cupom SKEMCASACOMCECILIA, em 29/10/2026.",
+    "publishedAt": "29 de outubro de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/body-splash-skelt-solar-muse-capa.webp",
+    "imageAlt": "Frasco vermelho do Body Splash Solar Muse da Skelt, com o logo da loja",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Skelt pelo botão, escolha o Solar Muse ou um kit e cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola.",
+      "label": "Ir para a Skelt com o cupom",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "body-splash-skelt-qual-escolher",
+        "title": "Body splash Skelt: qual escolher por fragrância, com hidratantes e kits"
+      },
+      {
+        "slug": "cupom-skelt-como-usar",
+        "title": "Como usar o cupom SKEMCASACOMCECILIA na Skelt e o que ele soma"
+      },
+      {
+        "slug": "black-friday-skelt",
+        "title": "Black Friday Skelt 2026: preços de outubro e o que a loja ainda não anunciou"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: vale o Solar Muse avulso ou em kit?",
+        "paragraphs": [
+          "O Body Splash Solar Muse é vendido avulso, em frasco de 100 ml, por R$ 99,90 em 29/10/2026, o mesmo preço dos outros body splash da Skelt. Dos oito conjuntos que o levam, o kit com o Body Cream Amalfi Sunset é o que mais economiza frente aos avulsos; a conta de cada um está em Avulso ou kit."
+        ]
+      },
+      {
+        "heading": "O que é o Body Splash Solar Muse",
+        "paragraphs": [
+          "O [Body Splash Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é um spray corporal de 100 ml, segundo a ficha da Skelt. A loja o chama de \"o novo Body Splash da Skelt\" na ficha de um dos kits, e o slogan é \"Quente como você chega\". Ninguém do site usou o produto: tudo o que este guia diz sobre a fragrância é o que a Skelt publica, lido em 29/10/2026.",
+          "O perfil olfativo da ficha é \"Solar, Cítrico e Adocicado (Floral Frutado Solar)\". A descrição fala em \"abertura luminosa e vibrante\", que \"evolui para um corpo floral quente e envolvente\" e termina num \"fundo magnético\". No campo Mood, a loja escreve que ele é \"para quem busca uma presença quente, confiante e sofisticada\" e o descreve como \"o verdadeiro cheiro da mulher brasileira\". Para comparar com as outras nove fragrâncias, veja o [guia de qual body splash Skelt escolher](/reviews/body-splash-skelt-qual-escolher).",
+          "A ficha declara o produto dermatologicamente testado, vegano, cruelty free e livre de parabenos e óleo mineral. Na Skelt não existe perfume Solar Muse: em 29/10/2026 a fragrância aparece só no body splash, avulso ou dentro dos conjuntos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/body-splash-skelt-solar-muse-frasco.webp",
+            "alt": "Frasco vermelho do Body Splash Solar Muse da Skelt, de 100 ml, com tampa vermelha e a inscrição Fine Fragrance",
+            "caption": "Foto oficial da Skelt.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7471
+          }
+        ]
+      },
+      {
+        "heading": "Notas do Solar Muse: topo, meio e fundo",
+        "paragraphs": [
+          "A página do produto traz a pirâmide em três cartões, e as fichas de cinco conjuntos repetem as mesmas notas. Segundo a Skelt:"
+        ],
+        "bullets": [
+          "Topo: abacaxi rosa, água de coco e folhas de palmeira. A loja diz que \"trazem uma abertura luminosa, fresca e tropical\".",
+          "Meio: jasmim manga (frangipani), lírio-do-vale, gardênia e floral doce. Segundo a página, \"revelam um floral quente, envolvente e solar\".",
+          "Fundo: baunilha, caramelo, âmbar doce, madeiras salgadas e musgo. A página diz que \"marcam com doçura equilibrada\"."
+        ],
+        "postParagraphs": [
+          "O Solar Muse divide algumas notas com o Milos Breeze: os dois têm água de coco no topo e frangipani e lírio-do-vale no meio. A diferença publicada está no fundo, que no Milos é de musk, cedro e patchouli. As notas e os kits do outro estão no [guia do Body Splash Milos Breeze](/reviews/body-splash-skelt-milos-breeze)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/body-splash-skelt-solar-muse-notas.webp",
+            "alt": "Frasco do Body Splash Solar Muse da Skelt entre pedaços de coco, abacaxi rosa, caramelo e flores brancas, sobre fundo laranja",
+            "caption": "Foto oficial da Skelt.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Como usar e quanto dura, segundo a ficha",
+        "paragraphs": [
+          "O modo de uso da ficha manda borrifar sobre todo o corpo, concentrando em pescoço, pulsos, dobras dos cotovelos e atrás das orelhas. A ficha sugere aplicar depois de passar um Body Cream Skelt. A Skelt não vende hidratante Solar Muse; os hidratantes e as fragrâncias de cada um estão no [guia dos hidratantes corporais Skelt](/reviews/hidratante-corporal-skelt-qual-fragrancia).",
+          "Sobre duração, a ficha fala em \"alta concentração de fragrância\", \"alta projeção\" e \"fixação prolongada\", sem tempo em horas. A página do Solar Muse não fala em uso no rosto."
+        ]
+      },
+      {
+        "heading": "Preço do avulso e dos oito conjuntos",
+        "paragraphs": [
+          "A tabela traz o preço de cada ficha em 29/10/2026, sem cupom e sem o desconto do Pix, e a soma dos mesmos produtos comprados avulsos. Os avulsos usados na conta: body splash de 100 ml a R$ 99,90, Body Cream de 200 g a R$ 99,90 e perfume para cabelos Amalfi Sunset de 140 ml a R$ 79,90."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "O que vem",
+            "Preço (29/10/2026)",
+            "Soma dos avulsos",
+            "Diferença"
+          ],
+          "rows": [
+            [
+              "[Body Splash Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Body splash Solar Muse de 100 ml",
+              "R$ 99,90",
+              "—",
+              "—"
+            ],
+            [
+              "[Kit Body Splash Solar Muse + Body Cream Amalfi Sunset](https://www.skelt.com.br/bodysplash-solarmuse-bodycream-amallfi/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Solar Muse e Body Cream Amalfi Sunset",
+              "R$ 178,11 (de R$ 197,90)",
+              "R$ 199,80",
+              "−R$ 21,69 (−10,9%)"
+            ],
+            [
+              "[Kit Fragrâncias Solar Muse e Amalfi Sunset](https://www.skelt.com.br/kitflagrancias-solarmuse-amalfisunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Body splash Solar Muse e Amalfi Sunset",
+              "R$ 178,20 (de R$ 198,00)",
+              "R$ 199,80",
+              "−R$ 19,60 (−9,8%)"
+            ],
+            [
+              "[Duo Body Splash Solar Muse + Body Cream Hidden Flowers](https://www.skelt.com.br/duo-bodysplash-solarmuse-bodycream-hiddenflowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Solar Muse e Body Cream Hidden Flowers de 200 g",
+              "R$ 197,90",
+              "R$ 199,80",
+              "−R$ 1,90 (−1,0%)"
+            ],
+            [
+              "[Duo Fragrâncias: Solar Muse + Hidden Flowers](https://www.skelt.com.br/duosolarmuse-e-splash-hidden/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Body splash Solar Muse e Hidden Flowers",
+              "R$ 198,00",
+              "R$ 199,80",
+              "−R$ 1,80 (−0,9%)"
+            ],
+            [
+              "[Kit Fragrâncias: Solar Muse + Hidden Flowers + Amalfi Sunset](https://www.skelt.com.br/kit-solarmuse-hiddenflowers-splashamalfi/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Três body splash de 100 ml",
+              "R$ 297,00",
+              "R$ 299,70",
+              "−R$ 2,70 (−0,9%)"
+            ],
+            [
+              "[Kit Solar Muse + Duo Amalfi Sunset](https://www.skelt.com.br/kit-solarmuse-duoamalfi/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Body splash Solar Muse e Amalfi Sunset e Body Cream Amalfi Sunset de 200 g",
+              "R$ 296,90",
+              "R$ 299,70",
+              "−R$ 2,80 (−0,9%)"
+            ],
+            [
+              "[Perfume para cabelo + Body Cream Amalfi + Body Splash Solar Muse](https://www.skelt.com.br/perfume-para-cabelo-body-cream-body-splash-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Perfume para cabelos Amalfi Sunset de 140 ml, Body Cream Amalfi Sunset de 200 g e Solar Muse",
+              "R$ 282,10",
+              "R$ 279,70",
+              "+R$ 2,40 (+0,9%)"
+            ],
+            [
+              "[Perfume para Cabelos + Body Splash Amalfi Sunset + Body Splash Solar Muse](https://www.skelt.com.br/perfume-para-cabelo-body-splash-amalfi-body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Perfume para cabelos Amalfi Sunset de 140 ml e body splash Amalfi Sunset e Solar Muse",
+              "R$ 282,20",
+              "R$ 279,70",
+              "+R$ 2,50 (+0,9%)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A regra do cupom SKEMCASACOMCECILIA é 10% em todo o site oficial da Skelt, inclusive kits, somando com as promoções e com os 5% do Pix. Pela conta, o avulso de R$ 99,90 sairia a R$ 85,41 com cupom e Pix, e os conjuntos ficariam entre R$ 152,28 e R$ 253,94. O teste de sacola de 21/10/2026 foi com um body splash em promoção; o cupom no Solar Muse sem promoção e nos conjuntos não foi testado, então confira o desconto no resumo da sacola. As condições estão na [página do cupom Skelt](/cupons/skelt).",
+          "Por mililitro, o avulso custa cerca de R$ 1,00 (R$ 99,90 por 100 ml). Os kits de miniaturas de 15 ml da Skelt não trazem o Solar Muse."
+        ]
+      },
+      {
+        "heading": "Avulso ou kit: o que a conta mostra",
+        "paragraphs": [
+          "Só dois conjuntos economizam de verdade em 29/10/2026, e os dois estavam em promoção. O kit com o Body Cream Amalfi Sunset sai R$ 21,69 mais barato que os dois produtos avulsos (10,9%), e o Kit Fragrâncias com o body splash Amalfi Sunset sai R$ 19,60 mais barato (9,8%). Nos dois, a segunda fragrância é a Amalfi Sunset, e não a Solar Muse.",
+          "Os dois duos com Hidden Flowers e os dois kits de três itens sem perfume para cabelos custam menos de R$ 3,00 abaixo da soma dos avulsos. A vantagem deles é a embalagem de kit, não o preço.",
+          "Os dois conjuntos com o perfume para cabelos Amalfi Sunset custam R$ 2,40 e R$ 2,50 a mais que os mesmos produtos comprados separados.",
+          "Para quem quer só o Solar Muse, o avulso de R$ 99,90 resolve. Para quem também quer um hidratante, o kit com o Body Cream Amalfi Sunset é o mais barato dos oito, sabendo que o creme tem outra fragrância. Preço e promoção mudam, então vale o que aparece na sacola."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Existe perfume Skelt Solar Muse? Não. Em 29/10/2026 a Skelt vende o Solar Muse só como body splash de 100 ml, avulso ou em conjunto; o perfume para cabelos dos kits é da fragrância Amalfi Sunset.",
+          "Qual o tamanho do Body Splash Solar Muse? 100 ml, em spray corporal, segundo a ficha. Os kits de miniaturas de 15 ml não trazem o Solar Muse.",
+          "Quanto custa o Body Splash Solar Muse? R$ 99,90 em 29/10/2026, o mesmo preço dos outros body splash da Skelt; a conta com cupom e Pix está na seção de preço.",
+          "Tem hidratante Solar Muse? Não. Os conjuntos juntam o Solar Muse com o Body Cream Amalfi Sunset ou com o Hidden Flowers, que são outras fragrâncias.",
+          "O Solar Muse lembra algum perfume importado? A Skelt não compara o body splash com perfumes de outras marcas na ficha, e este guia também não.",
+          "Quanto tempo dura o Solar Muse? A ficha fala em \"alta projeção\" e \"fixação prolongada\", sem tempo em horas.",
+          "Pode usar o Solar Muse no rosto? A ficha indica pescoço, pulsos, dobras dos cotovelos e atrás das orelhas, e não fala do rosto.",
+          "Qual a diferença entre o Solar Muse e o Milos Breeze? Os dois têm água de coco, frangipani e lírio-do-vale; o fundo do Solar é de baunilha, caramelo e madeiras salgadas, e o do Milos, de musk, cedro e patchouli.",
+          "O cupom vale no Solar Muse? A regra do SKEMCASACOMCECILIA é 10% em todo o site oficial da Skelt, inclusive kits; ele foi testado com body splash em promoção, e no Solar Muse sem promoção o desconto deve ser conferido na sacola."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Ninguém do site usou o Body Splash Solar Muse nem os kits. Este guia reúne o que a Skelt publica no site oficial (skelt.com.br): ficha do produto e dos conjuntos, com preço, volume, notas e modo de uso, lidos em 29/10/2026. Toda afirmação sobre fragrância, fixação e uso é da Skelt, e não algo que tenhamos sentido.",
+          "As somas dos avulsos, as diferenças e os valores com cupom e Pix são nossos, calculados sobre o preço do dia. O site recebe comissão pelas compras feitas com o cupom SKEMCASACOMCECILIA e pelos links da Skelt. Para saber mais sobre a loja, veja [Skelt é confiável?](/reviews/skelt-e-confiavel)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 711,
+    "slug": "body-splash-skelt-milos-breeze",
+    "locale": "pt",
+    "title": "Body Splash Skelt Milos Breeze: notas, kits e preço",
+    "seoTitle": "Body Splash Skelt Milos Breeze: notas, kits e preço",
+    "type": "Guia de Produto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O Body Splash Milos Breeze da Skelt pela ficha da loja: notas, a diferença para o Grand Bahama e a conta do frasco avulso, do Trio Exotic Trip e do kit de miniaturas, em 29/10/2026.",
+    "metaDescription": "Skelt Milos Breeze: notas de água de coco, frangipani e cedro, R$ 99,90 por 100 ml, o Trio Exotic Trip a R$ 297,70 e o kit de miniaturas, com o cupom SKEMCASACOMCECILIA.",
+    "publishedAt": "29 de outubro de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/body-splash-skelt-milos-breeze-capa.webp",
+    "imageAlt": "Frasco azul do Body Splash Milos Breeze da Skelt, com o logo da loja",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Skelt pelo botão, escolha o Milos Breeze ou o trio e cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola.",
+      "label": "Ir para a Skelt com o cupom",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Não usamos o produto. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "body-splash-skelt-qual-escolher",
+        "title": "Body splash Skelt: qual escolher por fragrância, com hidratantes e kits"
+      },
+      {
+        "slug": "cupom-skelt-como-usar",
+        "title": "Como usar o cupom SKEMCASACOMCECILIA na Skelt e o que ele soma"
+      },
+      {
+        "slug": "skelt-e-confiavel",
+        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Milos Breeze avulso, no trio ou em miniatura",
+        "paragraphs": [
+          "O Body Splash Milos Breeze custa R$ 99,90 o frasco de 100 ml. No Trio Exotic Trip, com Grand Bahama e Pink Sands, a Skelt cobra R$ 297,70, R$ 2,00 a menos que os três avulsos. Para conhecer antes, o Kit Miniaturas Exotic Set traz o Milos em 15 ml; a conta das três opções está em Como comprar."
+        ]
+      },
+      {
+        "heading": "O que é o Body Splash Milos Breeze",
+        "paragraphs": [
+          "Ninguém do site usou o Milos Breeze. Tudo o que vem abaixo é o que a Skelt publica na ficha do produto, lida em 29/10/2026, e as contas são nossas, sobre o preço do dia.",
+          "O [Body Splash Milos Breeze](https://www.skelt.com.br/body-splash-milos-breeze/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é um spray de 100 ml. A ficha resume a fragrância como \"Frescor com a energia do verão grego\" e diz que \"o mar azul da Grécia é a principal inspiração\", com \"notas aquosas e intensas\". As dez fragrâncias de body splash da Skelt, lado a lado, estão no [guia de qual body splash Skelt escolher](/reviews/body-splash-skelt-qual-escolher).",
+          "Segundo a ficha, a fragrância tem \"alta fixação e projeção duradoura\", sem tempo em horas, e é \"ideal para todos os momentos do dia\". O modo de uso da loja: \"Aplique a quantidade suficiente na área da sua escolha. Reaplique sempre que desejar.\"",
+          "A ficha declara o produto vegano, cruelty free, livre de parabenos e óleo mineral e dermatologicamente testado. A composição publicada começa por álcool etílico, seguido de água e perfume, e termina em citral."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/body-splash-skelt-milos-breeze-frasco.webp",
+            "alt": "Frasco azul de 100 ml do Body Splash Milos Breeze da Skelt, com as notas água de coco e acorde aquoso impressas no vidro",
+            "caption": "Foto: Skelt, da ficha do produto.",
+            "objectFit": "contain",
+            "aspectRatio": 0.5524
+          }
+        ]
+      },
+      {
+        "heading": "Notas do Milos Breeze e a diferença para o Grand Bahama",
+        "paragraphs": [
+          "A pirâmide que a Skelt publica para o Milos Breeze: no topo, água de coco e acorde aquoso; no meio, frangipani, lírio do vale e mimosa; no fundo, musk, cedro e patchouli. No guia de body splash, ele fica no grupo cítrico e fresco, com o Grand Bahama.",
+          "O [Grand Bahama](https://www.skelt.com.br/body-splash-grand-bahama/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é o mais próximo no papel, porque os dois têm água de coco no topo e lírio do vale no meio. Pelas duas fichas, a diferença está nas pontas:"
+        ],
+        "bullets": [
+          "Topo: o Milos fica na água de coco e no acorde aquoso; o Grand Bahama soma abacaxi e bergamota à água de coco.",
+          "Fundo: o Milos fecha em madeiras, com cedro e patchouli, além do musk; o Grand Bahama fecha em baunilha, musk e musgo de carvalho."
+        ],
+        "postParagraphs": [
+          "A terceira fragrância do trio, o [Pink Sands](https://www.skelt.com.br/body-splash-pink-sands/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), segue outro caminho na ficha: pitaya, lichia, bergamota e laranja no topo, jasmim, peônia e rosa no meio, âmbar, sândalo e baunilha no fundo. Se a dúvida é entre o Milos e a fragrância mais vendida da loja, veja o artigo do [Body Splash Solar Muse](/reviews/body-splash-skelt-solar-muse).",
+          "A Skelt não compara o Milos Breeze com perfume de outra marca, e este texto também não."
+        ]
+      },
+      {
+        "heading": "Como comprar: avulso, no trio ou em miniatura",
+        "paragraphs": [
+          "O Milos Breeze aparece em três produtos da Skelt. A tabela mostra o preço no cartão em 29/10/2026, sem cupom nem Pix, e a conta por ml."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Conteúdo",
+            "Preço (29/10/2026)",
+            "Por ml"
+          ],
+          "rows": [
+            [
+              "[Body Splash Milos Breeze](https://www.skelt.com.br/body-splash-milos-breeze/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "1 frasco de 100 ml",
+              "R$ 99,90",
+              "R$ 1,00"
+            ],
+            [
+              "[Trio Body Splash Exotic Trip Collection](https://www.skelt.com.br/trio-body-splash-exotic-trip/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Grand Bahama, Milos Breeze e Pink Sands, 100 ml cada",
+              "R$ 297,70",
+              "R$ 0,99"
+            ],
+            [
+              "[Kit Miniaturas Exotic Set](https://www.skelt.com.br/kit-miniaturas-exotic-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Grand Bahama, Pink Sands e Milos Breeze, 15 ml cada",
+              "R$ 99,90",
+              "R$ 2,22"
+            ],
+            [
+              "[Combo Kit Miniaturas (3 kits, 9 fragrâncias)](https://www.skelt.com.br/combo-kit-miniaturas-travel-size/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Exotic Set, Sellers Set e Trends Set, 135 ml no total",
+              "R$ 299,70",
+              "R$ 2,22"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na sacola, em 29/10/2026, o cupom SKEMCASACOMCECILIA tirou 10% do Milos Breeze avulso (R$ 89,91), do trio (R$ 267,93) e do Kit Miniaturas Exotic Set (R$ 89,91), sem promoção da loja nos três. Segundo o teste de carrinho de 21/10/2026, o cupom soma com os 5% do Pix: pela conta, o avulso sai a R$ 85,41 e o trio, a R$ 254,53. A loja aceita um cupom por pedido, e as condições estão na [página do cupom Skelt](/cupons/skelt).",
+          "A lista do Exotic Set está na ficha do kit e na caixa: Grand Bahama, Pink Sands e Milos Breeze. A ficha do Combo não tem texto; a foto mostra as caixas Exotic Set, Sellers Set e Trends Set. As miniaturas custam mais que o dobro por ml do frasco grande: é o preço de provar antes."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/body-splash-skelt-milos-breeze-trio-exotic-trip.webp",
+            "alt": "Os três frascos do Trio Exotic Trip da Skelt: Milos Breeze azul, Grand Bahama amarelo e Pink Sands rosa",
+            "caption": "Trio Exotic Trip Collection. Foto: Skelt, da ficha do produto.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0936
+          },
+          {
+            "src": "/images/reviews/skelt/body-splash-skelt-milos-breeze-kit-miniaturas-exotic-set.webp",
+            "alt": "Caixa roxa do Kit Miniaturas Exotic Set da Skelt, com as miniaturas Grand Bahama, Pink Sands e Milos Breeze de 15 ml",
+            "caption": "Kit Miniaturas Exotic Set. Foto: Skelt, da ficha do produto.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8167
+          }
+        ]
+      },
+      {
+        "heading": "Trio ou avulso: qual compensa",
+        "paragraphs": [
+          "Pelo preço, o trio quase empata com os avulsos: R$ 297,70 contra R$ 299,70 dos três frascos, uma diferença de R$ 2,00 (0,7%). Por ml, os dois ficam em cerca de R$ 1,00.",
+          "Então a decisão é pelas fragrâncias. Quem quer só o Milos Breeze compra o frasco avulso. Quem também quer o Grand Bahama e o Pink Sands, ou vai presentear, leva o trio e economiza R$ 2,00. Quem ainda não conhece nenhum dos três começa pelo Exotic Set, com as mesmas três fragrâncias em 15 ml."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual o tamanho do Body Splash Milos Breeze? O frasco tem 100 ml, em spray, segundo a ficha. Em 15 ml, ele vem no Kit Miniaturas Exotic Set, com Grand Bahama e Pink Sands.",
+          "Quanto custa o Skelt Milos Breeze? R$ 99,90 em 29/10/2026. Com o cupom SKEMCASACOMCECILIA e os 5% do Pix, a conta dá R$ 85,41.",
+          "O Trio Exotic Trip compensa? Sai a R$ 297,70 com Grand Bahama, Milos Breeze e Pink Sands, R$ 2,00 a menos que os três avulsos. Compensa se você quer as três fragrâncias.",
+          "Tem hidratante Skelt Milos Breeze? Não. Nenhum produto do catálogo da Skelt em 29/10/2026 traz hidratante, creme ou perfume para cabelos com a fragrância.",
+          "Qual a inspiração do Milos Breeze? Segundo a ficha, o mar azul da Grécia. A Skelt não compara o body splash com perfume de outra marca.",
+          "Quanto tempo dura o Milos Breeze? A ficha diz \"alta fixação e projeção duradoura\" e não publica tempo em horas.",
+          "Milos Breeze ou Grand Bahama? Pelas fichas, o Milos tem topo de água de coco e acorde aquoso e fundo de cedro e patchouli; o Grand Bahama tem abacaxi e bergamota no topo e baunilha e musgo de carvalho no fundo. Para comparar com o Solar Muse, veja o [artigo do Solar Muse](/reviews/body-splash-skelt-solar-muse).",
+          "O cupom vale no Milos Breeze sem promoção? Sim. Na sacola, em 29/10/2026, o SKEMCASACOMCECILIA tirou 10% do frasco avulso, de R$ 99,90 para R$ 89,91. O passo a passo está em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Ninguém do site usou o Milos Breeze, o trio ou as miniaturas. Este artigo reúne o que a Skelt publica no site oficial (skelt.com.br): ficha de cada produto, com preço, volume, notas, selos e composição, lidos em 29/10/2026, e o cupom aplicado na sacola no mesmo dia, sem finalizar a compra. Toda afirmação sobre fragrância e fixação é da Skelt.",
+          "As contas por ml e os valores com cupom e Pix são nossos. Preço, promoção e estoque mudam, e vale o que aparece no site da Skelt na hora da compra. O site recebe comissão pelas compras feitas com o cupom SKEMCASACOMCECILIA e pelos links da Skelt."
+        ]
       }
     ]
   }

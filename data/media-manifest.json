@@ -37081,6 +37081,120 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-cadeado.webp",
+      "local_url": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-cadeado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16642,
+      "sha256": "2184faf2e82b12b1140437864c77d497541313e67dddd950ce27f10343a9d695",
+      "width": 701,
+      "height": 431,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bagaggio-e-boa-malas-mochilas-cadeado.webp",
+      "storage_filename": "bagaggio-e-boa-malas-mochilas-cadeado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bagaggio-e-boa-malas-mochilas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bagaggio-e-boa-malas-mochilas.json",
+          "line": 158,
+          "column": 17,
+          "literal": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-cadeado.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2184faf2e82b12b1140437864c77d497541313e67dddd950ce27f10343a9d695/bagaggio-e-boa-malas-mochilas-cadeado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2184faf2e82b12b1140437864c77d497541313e67dddd950ce27f10343a9d695/bagaggio-e-boa-malas-mochilas-cadeado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.748Z",
+      "verification_etag_or_digest": "2184faf2e82b12b1140437864c77d497541313e67dddd950ce27f10343a9d695",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa.webp",
+      "local_url": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35256,
+      "sha256": "db544b3d5121dd5480c4761a5da07b3cdadc15e66d0680ca8b0ac0c425821bab",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bagaggio-e-boa-malas-mochilas-capa.webp",
+      "storage_filename": "bagaggio-e-boa-malas-mochilas-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bagaggio-e-boa-malas-mochilas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bagaggio-e-boa-malas-mochilas.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/db544b3d5121dd5480c4761a5da07b3cdadc15e66d0680ca8b0ac0c425821bab/bagaggio-e-boa-malas-mochilas-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/db544b3d5121dd5480c4761a5da07b3cdadc15e66d0680ca8b0ac0c425821bab/bagaggio-e-boa-malas-mochilas-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "db544b3d5121dd5480c4761a5da07b3cdadc15e66d0680ca8b0ac0c425821bab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-mochila-horizonte.webp",
+      "local_url": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-mochila-horizonte.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10832,
+      "sha256": "2401df0e2ef96153a7c19c6426323194c26d6504946af64611b85235953eb7fc",
+      "width": 566,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bagaggio-e-boa-malas-mochilas-mochila-horizonte.webp",
+      "storage_filename": "bagaggio-e-boa-malas-mochilas-mochila-horizonte.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bagaggio-e-boa-malas-mochilas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bagaggio-e-boa-malas-mochilas.json",
+          "line": 137,
+          "column": 17,
+          "literal": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-mochila-horizonte.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2401df0e2ef96153a7c19c6426323194c26d6504946af64611b85235953eb7fc/bagaggio-e-boa-malas-mochilas-mochila-horizonte.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2401df0e2ef96153a7c19c6426323194c26d6504946af64611b85235953eb7fc/bagaggio-e-boa-malas-mochilas-mochila-horizonte.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "2401df0e2ef96153a7c19c6426323194c26d6504946af64611b85235953eb7fc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/bagaggio-e-confiavel-capa.webp",
       "local_url": "/images/reviews/bagaggio/bagaggio-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -37417,6 +37531,120 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa.webp",
+      "local_url": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60518,
+      "sha256": "7f9647db5c9115ca496d11f404405d481c6f8ba596e6813c6bcac0fd39b43f46",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "conjunto-de-malas-bagaggio-compensa-capa.webp",
+      "storage_filename": "conjunto-de-malas-bagaggio-compensa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/conjunto-de-malas-bagaggio-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/conjunto-de-malas-bagaggio-compensa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7f9647db5c9115ca496d11f404405d481c6f8ba596e6813c6bcac0fd39b43f46/conjunto-de-malas-bagaggio-compensa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7f9647db5c9115ca496d11f404405d481c6f8ba596e6813c6bcac0fd39b43f46/conjunto-de-malas-bagaggio-compensa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "7f9647db5c9115ca496d11f404405d481c6f8ba596e6813c6bcac0fd39b43f46",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-detroit-preta-p-m.webp",
+      "local_url": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-detroit-preta-p-m.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40282,
+      "sha256": "2a9dbea338b3f116d8a69c695a58244d8d289565db10321797cede8c06468eff",
+      "width": 784,
+      "height": 852,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "conjunto-de-malas-bagaggio-compensa-detroit-preta-p-m.webp",
+      "storage_filename": "conjunto-de-malas-bagaggio-compensa-detroit-preta-p-m.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/conjunto-de-malas-bagaggio-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/conjunto-de-malas-bagaggio-compensa.json",
+          "line": 156,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-detroit-preta-p-m.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2a9dbea338b3f116d8a69c695a58244d8d289565db10321797cede8c06468eff/conjunto-de-malas-bagaggio-compensa-detroit-preta-p-m.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2a9dbea338b3f116d8a69c695a58244d8d289565db10321797cede8c06468eff/conjunto-de-malas-bagaggio-compensa-detroit-preta-p-m.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "2a9dbea338b3f116d8a69c695a58244d8d289565db10321797cede8c06468eff",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-malta-branca-marrom.webp",
+      "local_url": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-malta-branca-marrom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21908,
+      "sha256": "0b9e6714bcd358032d38d1351b3bf8ff33284ce393bd548b19b3fb4dd128dc56",
+      "width": 858,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "conjunto-de-malas-bagaggio-compensa-malta-branca-marrom.webp",
+      "storage_filename": "conjunto-de-malas-bagaggio-compensa-malta-branca-marrom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/conjunto-de-malas-bagaggio-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/conjunto-de-malas-bagaggio-compensa.json",
+          "line": 149,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-malta-branca-marrom.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0b9e6714bcd358032d38d1351b3bf8ff33284ce393bd548b19b3fb4dd128dc56/conjunto-de-malas-bagaggio-compensa-malta-branca-marrom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0b9e6714bcd358032d38d1351b3bf8ff33284ce393bd548b19b3fb4dd128dc56/conjunto-de-malas-bagaggio-compensa-malta-branca-marrom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "0b9e6714bcd358032d38d1351b3bf8ff33284ce393bd548b19b3fb4dd128dc56",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/cupom-bagaggio-como-usar-capa.webp",
       "local_url": "/images/reviews/bagaggio/cupom-bagaggio-como-usar-capa.webp",
       "media_kind": "image",
@@ -37638,6 +37866,120 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T22:17:12.625Z",
       "verification_etag_or_digest": "29ebe4f7bebf704e352eaa9703811d4d6954f43ebd2220b0f030ae2330584890",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-bahamas-branca.webp",
+      "local_url": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-bahamas-branca.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 11478,
+      "sha256": "91475c735f342a33d5379283ae147e025b61e17ddd8991e9221d5c1ae7250919",
+      "width": 504,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mala-policarbonato-ou-abs-bagaggio-bahamas-branca.webp",
+      "storage_filename": "mala-policarbonato-ou-abs-bagaggio-bahamas-branca.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mala-policarbonato-ou-abs-bagaggio.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mala-policarbonato-ou-abs-bagaggio.json",
+          "line": 151,
+          "column": 17,
+          "literal": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-bahamas-branca.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/91475c735f342a33d5379283ae147e025b61e17ddd8991e9221d5c1ae7250919/mala-policarbonato-ou-abs-bagaggio-bahamas-branca.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/91475c735f342a33d5379283ae147e025b61e17ddd8991e9221d5c1ae7250919/mala-policarbonato-ou-abs-bagaggio-bahamas-branca.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "91475c735f342a33d5379283ae147e025b61e17ddd8991e9221d5c1ae7250919",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-capa.webp",
+      "local_url": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47058,
+      "sha256": "99c944c7ece09e22a939b3b56f892b15e25921f168a6aa806e787cbafef497c0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mala-policarbonato-ou-abs-bagaggio-capa.webp",
+      "storage_filename": "mala-policarbonato-ou-abs-bagaggio-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mala-policarbonato-ou-abs-bagaggio.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mala-policarbonato-ou-abs-bagaggio.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/99c944c7ece09e22a939b3b56f892b15e25921f168a6aa806e787cbafef497c0/mala-policarbonato-ou-abs-bagaggio-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/99c944c7ece09e22a939b3b56f892b15e25921f168a6aa806e787cbafef497c0/mala-policarbonato-ou-abs-bagaggio-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "99c944c7ece09e22a939b3b56f892b15e25921f168a6aa806e787cbafef497c0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-tres-materiais.webp",
+      "local_url": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-tres-materiais.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22656,
+      "sha256": "35dff689edf860063bcac3c8da20b801fc8901789866e086325f5c24e03feb05",
+      "width": 900,
+      "height": 553,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mala-policarbonato-ou-abs-bagaggio-tres-materiais.webp",
+      "storage_filename": "mala-policarbonato-ou-abs-bagaggio-tres-materiais.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mala-policarbonato-ou-abs-bagaggio.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mala-policarbonato-ou-abs-bagaggio.json",
+          "line": 128,
+          "column": 17,
+          "literal": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-tres-materiais.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/35dff689edf860063bcac3c8da20b801fc8901789866e086325f5c24e03feb05/mala-policarbonato-ou-abs-bagaggio-tres-materiais.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/35dff689edf860063bcac3c8da20b801fc8901789866e086325f5c24e03feb05/mala-policarbonato-ou-abs-bagaggio-tres-materiais.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "35dff689edf860063bcac3c8da20b801fc8901789866e086325f5c24e03feb05",
       "verification_status": "verified"
     },
     {
@@ -88683,6 +89025,158 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-milos-breeze-capa.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-milos-breeze-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40280,
+      "sha256": "004e33656a638b31c85f11e90aeb3a3d55420dd7730f5b8ce99f32ae4ffe696c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-milos-breeze-capa.webp",
+      "storage_filename": "body-splash-skelt-milos-breeze-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-milos-breeze.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-milos-breeze.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/body-splash-skelt-milos-breeze-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/004e33656a638b31c85f11e90aeb3a3d55420dd7730f5b8ce99f32ae4ffe696c/body-splash-skelt-milos-breeze-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/004e33656a638b31c85f11e90aeb3a3d55420dd7730f5b8ce99f32ae4ffe696c/body-splash-skelt-milos-breeze-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "004e33656a638b31c85f11e90aeb3a3d55420dd7730f5b8ce99f32ae4ffe696c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-milos-breeze-frasco.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-milos-breeze-frasco.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7862,
+      "sha256": "0bf0837905cd42685fcf7f3d7b55c4b9d5fcda83fd1640a41b27ad458dbb9437",
+      "width": 316,
+      "height": 572,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-milos-breeze-frasco.webp",
+      "storage_filename": "body-splash-skelt-milos-breeze-frasco.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-milos-breeze.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-milos-breeze.json",
+          "line": 69,
+          "column": 19,
+          "literal": "/images/reviews/skelt/body-splash-skelt-milos-breeze-frasco.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0bf0837905cd42685fcf7f3d7b55c4b9d5fcda83fd1640a41b27ad458dbb9437/body-splash-skelt-milos-breeze-frasco.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0bf0837905cd42685fcf7f3d7b55c4b9d5fcda83fd1640a41b27ad458dbb9437/body-splash-skelt-milos-breeze-frasco.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "0bf0837905cd42685fcf7f3d7b55c4b9d5fcda83fd1640a41b27ad458dbb9437",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-milos-breeze-kit-miniaturas-exotic-set.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-milos-breeze-kit-miniaturas-exotic-set.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14660,
+      "sha256": "b1a023a5d17433c98715fab6a94d1f157da395d50b2bbb835f3c2179738e7785",
+      "width": 450,
+      "height": 551,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-milos-breeze-kit-miniaturas-exotic-set.webp",
+      "storage_filename": "body-splash-skelt-milos-breeze-kit-miniaturas-exotic-set.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-milos-breeze.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-milos-breeze.json",
+          "line": 144,
+          "column": 19,
+          "literal": "/images/reviews/skelt/body-splash-skelt-milos-breeze-kit-miniaturas-exotic-set.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b1a023a5d17433c98715fab6a94d1f157da395d50b2bbb835f3c2179738e7785/body-splash-skelt-milos-breeze-kit-miniaturas-exotic-set.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b1a023a5d17433c98715fab6a94d1f157da395d50b2bbb835f3c2179738e7785/body-splash-skelt-milos-breeze-kit-miniaturas-exotic-set.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "b1a023a5d17433c98715fab6a94d1f157da395d50b2bbb835f3c2179738e7785",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-milos-breeze-trio-exotic-trip.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-milos-breeze-trio-exotic-trip.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23984,
+      "sha256": "146f4a954e7771dedc4b29e85bfc34917caf45c5174cc2e46c63ff1f406acafc",
+      "width": 631,
+      "height": 577,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-milos-breeze-trio-exotic-trip.webp",
+      "storage_filename": "body-splash-skelt-milos-breeze-trio-exotic-trip.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-milos-breeze.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-milos-breeze.json",
+          "line": 137,
+          "column": 19,
+          "literal": "/images/reviews/skelt/body-splash-skelt-milos-breeze-trio-exotic-trip.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/146f4a954e7771dedc4b29e85bfc34917caf45c5174cc2e46c63ff1f406acafc/body-splash-skelt-milos-breeze-trio-exotic-trip.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/146f4a954e7771dedc4b29e85bfc34917caf45c5174cc2e46c63ff1f406acafc/body-splash-skelt-milos-breeze-trio-exotic-trip.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "146f4a954e7771dedc4b29e85bfc34917caf45c5174cc2e46c63ff1f406acafc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/body-splash-skelt-quadro-fragrancias.webp",
       "local_url": "/images/reviews/skelt/body-splash-skelt-quadro-fragrancias.webp",
       "media_kind": "image",
@@ -88772,6 +89266,120 @@
       "uploaded_at": null,
       "verified_at": "2026-10-23T22:31:30.577Z",
       "verification_etag_or_digest": "1448080dc1f60e4c8a5984e2f235cce288b2cf7119d604675f07bcc68fb895aa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-solar-muse-capa.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-solar-muse-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47702,
+      "sha256": "de5ff201a1cddf5cb653bd85e952192adb5d05d6687d6e0441d19a0abfd2a943",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-solar-muse-capa.webp",
+      "storage_filename": "body-splash-skelt-solar-muse-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-solar-muse.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-solar-muse.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/body-splash-skelt-solar-muse-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/de5ff201a1cddf5cb653bd85e952192adb5d05d6687d6e0441d19a0abfd2a943/body-splash-skelt-solar-muse-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/de5ff201a1cddf5cb653bd85e952192adb5d05d6687d6e0441d19a0abfd2a943/body-splash-skelt-solar-muse-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "de5ff201a1cddf5cb653bd85e952192adb5d05d6687d6e0441d19a0abfd2a943",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-solar-muse-frasco.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-solar-muse-frasco.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 8334,
+      "sha256": "238ae286c417853b397ef882402071a8bab1917ec13647d746a676959c635da3",
+      "width": 446,
+      "height": 597,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-solar-muse-frasco.webp",
+      "storage_filename": "body-splash-skelt-solar-muse-frasco.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-solar-muse.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-solar-muse.json",
+          "line": 68,
+          "column": 19,
+          "literal": "/images/reviews/skelt/body-splash-skelt-solar-muse-frasco.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/238ae286c417853b397ef882402071a8bab1917ec13647d746a676959c635da3/body-splash-skelt-solar-muse-frasco.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/238ae286c417853b397ef882402071a8bab1917ec13647d746a676959c635da3/body-splash-skelt-solar-muse-frasco.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "238ae286c417853b397ef882402071a8bab1917ec13647d746a676959c635da3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-solar-muse-notas.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-solar-muse-notas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42768,
+      "sha256": "52327b177054e8942f0a145af0f114c311547854ef307fa9e1e5f74163700868",
+      "width": 712,
+      "height": 712,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-solar-muse-notas.webp",
+      "storage_filename": "body-splash-skelt-solar-muse-notas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-solar-muse.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-solar-muse.json",
+          "line": 91,
+          "column": 19,
+          "literal": "/images/reviews/skelt/body-splash-skelt-solar-muse-notas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/52327b177054e8942f0a145af0f114c311547854ef307fa9e1e5f74163700868/body-splash-skelt-solar-muse-notas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/52327b177054e8942f0a145af0f114c311547854ef307fa9e1e5f74163700868/body-splash-skelt-solar-muse-notas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "52327b177054e8942f0a145af0f114c311547854ef307fa9e1e5f74163700868",
       "verification_status": "verified"
     },
     {
@@ -88984,6 +89592,158 @@
       "uploaded_at": null,
       "verified_at": "2026-10-21T23:21:50.752Z",
       "verification_etag_or_digest": "57cc97b87ef77a68f4954d9d14fa7c778920a89f16370dbeec224da8acd6641b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-capa.webp",
+      "local_url": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52122,
+      "sha256": "fed05ec6721bf30f129971a7237ecb0e0f6f4a7f6f265526c9dd1a4d4606fb8f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hidratante-corporal-skelt-qual-fragrancia-capa.webp",
+      "storage_filename": "hidratante-corporal-skelt-qual-fragrancia-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hidratante-corporal-skelt-qual-fragrancia.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hidratante-corporal-skelt-qual-fragrancia.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fed05ec6721bf30f129971a7237ecb0e0f6f4a7f6f265526c9dd1a4d4606fb8f/hidratante-corporal-skelt-qual-fragrancia-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fed05ec6721bf30f129971a7237ecb0e0f6f4a7f6f265526c9dd1a4d4606fb8f/hidratante-corporal-skelt-qual-fragrancia-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "fed05ec6721bf30f129971a7237ecb0e0f6f4a7f6f265526c9dd1a4d4606fb8f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-florais.webp",
+      "local_url": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-florais.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17484,
+      "sha256": "74ad426e97a4cb6e4aeb41f1861d691b87020e49242ba40d209d84d3885fe614",
+      "width": 625,
+      "height": 329,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hidratante-corporal-skelt-qual-fragrancia-florais.webp",
+      "storage_filename": "hidratante-corporal-skelt-qual-fragrancia-florais.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hidratante-corporal-skelt-qual-fragrancia.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hidratante-corporal-skelt-qual-fragrancia.json",
+          "line": 202,
+          "column": 19,
+          "literal": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-florais.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/74ad426e97a4cb6e4aeb41f1861d691b87020e49242ba40d209d84d3885fe614/hidratante-corporal-skelt-qual-fragrancia-florais.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/74ad426e97a4cb6e4aeb41f1861d691b87020e49242ba40d209d84d3885fe614/hidratante-corporal-skelt-qual-fragrancia-florais.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "74ad426e97a4cb6e4aeb41f1861d691b87020e49242ba40d209d84d3885fe614",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-kit-radiante.webp",
+      "local_url": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-kit-radiante.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24030,
+      "sha256": "f39c6138cd82f3f16a82bba44f9e64732d9d007717c9b053d3d6fff5aaee0fa1",
+      "width": 653,
+      "height": 328,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hidratante-corporal-skelt-qual-fragrancia-kit-radiante.webp",
+      "storage_filename": "hidratante-corporal-skelt-qual-fragrancia-kit-radiante.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hidratante-corporal-skelt-qual-fragrancia.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hidratante-corporal-skelt-qual-fragrancia.json",
+          "line": 134,
+          "column": 19,
+          "literal": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-kit-radiante.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f39c6138cd82f3f16a82bba44f9e64732d9d007717c9b053d3d6fff5aaee0fa1/hidratante-corporal-skelt-qual-fragrancia-kit-radiante.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f39c6138cd82f3f16a82bba44f9e64732d9d007717c9b053d3d6fff5aaee0fa1/hidratante-corporal-skelt-qual-fragrancia-kit-radiante.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "f39c6138cd82f3f16a82bba44f9e64732d9d007717c9b053d3d6fff5aaee0fa1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-velvet-milano.webp",
+      "local_url": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-velvet-milano.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15984,
+      "sha256": "142d5e9a5c3c51ffdddf9e5710002a565f631a60a5611f4c1d244ae6a43e21e1",
+      "width": 712,
+      "height": 712,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hidratante-corporal-skelt-qual-fragrancia-velvet-milano.webp",
+      "storage_filename": "hidratante-corporal-skelt-qual-fragrancia-velvet-milano.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hidratante-corporal-skelt-qual-fragrancia.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hidratante-corporal-skelt-qual-fragrancia.json",
+          "line": 209,
+          "column": 19,
+          "literal": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-velvet-milano.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/142d5e9a5c3c51ffdddf9e5710002a565f631a60a5611f4c1d244ae6a43e21e1/hidratante-corporal-skelt-qual-fragrancia-velvet-milano.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/142d5e9a5c3c51ffdddf9e5710002a565f631a60a5611f4c1d244ae6a43e21e1/hidratante-corporal-skelt-qual-fragrancia-velvet-milano.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T22:25:41.749Z",
+      "verification_etag_or_digest": "142d5e9a5c3c51ffdddf9e5710002a565f631a60a5611f4c1d244ae6a43e21e1",
       "verification_status": "verified"
     },
     {

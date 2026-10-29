@@ -1,0 +1,244 @@
+{
+  "id": 708,
+  "slug": "conjunto-de-malas-bagaggio-compensa",
+  "locale": "pt",
+  "title": "Conjunto de malas Bagaggio compensa? A soma das peças, conta por conta",
+  "seoTitle": "Conjunto de malas Bagaggio compensa? Soma das peças em 2026",
+  "type": "Comparativo de Conjuntos",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Conjunto de malas Bagaggio compensa? Somamos as peças avulsas de 32 conjuntos em 29/10/2026: 24 custam a soma exata. Veja quais têm desconto real e quanto.",
+  "metaDescription": "Conjunto de malas Bagaggio: dos 32 conferidos em 29/10/2026, 24 custam a soma das peças avulsas. Veja os 6 com desconto real e estoque, e o cupom CECILIA10.",
+  "publishedAt": "29 de outubro de 2026",
+  "publishedAtISO": "2026-10-29",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa.webp",
+  "imageAlt": "Conjunto de malas Detroit da Bagaggio, em foto oficial da loja, com o logo da Bagaggio",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Na maioria, não: dos 32 conjuntos da Bagaggio que conferimos em 29/10/2026, 24 custam exatamente a soma das peças avulsas. O desconto real aparece em seis conjuntos com estoque, e o maior é o do Malta P e M Branca e Marrom, R$ 174,95 abaixo da soma. A tabela mostra a conta de cada um."
+      ]
+    },
+    {
+      "heading": "A conta de 12 conjuntos em 29/10",
+      "paragraphs": [
+        "A loja tem mais de 150 conjuntos na busca. Conferimos 32, os que usam peças da mesma linha vendidas também avulsas, e 24 deles custam a soma exata das peças. A tabela traz as linhas com diferença e um exemplo de cada tipo que não tem diferença. Os preços são do cartão, lidos nas fichas da loja em 29/10/2026."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Conjunto",
+          "Preço do conjunto (cartão, 29/10)",
+          "Soma das peças avulsas",
+          "Diferença",
+          "Em estoque"
+        ],
+        "rows": [
+          [
+            "[Malta P e M Branca e Marrom](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-malta-branca-e-marrom-p-e-m/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 1.024,85",
+            "R$ 1.199,80",
+            "-R$ 174,95",
+            "Sim"
+          ],
+          [
+            "[Nova Bahamas P e G Preta](https://www.bagaggio.com.br/conjunto-de-malas-policarbonato-4-rodas-nova-bahamas-p-e-g-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 2.149,85",
+            "R$ 2.299,80",
+            "-R$ 149,95",
+            "Sim"
+          ],
+          [
+            "[Malta P e M Preta](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-malta-preta-p-e-m/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 1.024,85",
+            "R$ 1.099,80",
+            "-R$ 74,95",
+            "Sim"
+          ],
+          [
+            "[Detroit P e M Preta](https://www.bagaggio.com.br/kit-mala-detroit-preta-p-e-m-bagaggio/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 599,80",
+            "R$ 629,80",
+            "-R$ 30,00",
+            "Sim"
+          ],
+          [
+            "[Santiago P e G Azul](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-santiago-azul-p-e-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 824,85",
+            "R$ 849,80",
+            "-R$ 24,95",
+            "Sim"
+          ],
+          [
+            "[Detroit P e G Prata II](https://www.bagaggio.com.br/conjunto-de-malas-abs-detroit-p-e-g-prata-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 599,80",
+            "R$ 599,80",
+            "R$ 0",
+            "Sim"
+          ],
+          [
+            "[Downtown PP e Detroit G Preta](https://www.bagaggio.com.br/conjunto-de-malas-abs-downtown-pp-e-detroit-g-preta-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 529,80",
+            "R$ 529,80",
+            "R$ 0",
+            "Sim"
+          ],
+          [
+            "[Route P e G Vinho](https://www.bagaggio.com.br/conjunto-de-malas-4-rodas-p-e-g-route-vinho/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 699,80",
+            "R$ 699,80",
+            "R$ 0",
+            "Sim"
+          ],
+          [
+            "[Cartagena P e G Preta](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-cartagena-preta-p-e-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 849,80",
+            "R$ 849,80",
+            "R$ 0",
+            "Sim"
+          ],
+          [
+            "[3 malas de bordo Detroit 10 kg](https://www.bagaggio.com.br/conjunto-de-3-malas-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 749,70",
+            "R$ 749,70",
+            "R$ 0",
+            "Sim"
+          ],
+          [
+            "[Bahamas P e G Branca](https://www.bagaggio.com.br/conjunto-de-malas-policarbonato-4-rodas-p-e-g-bahamas-branca/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 2.199,80",
+            "R$ 2.199,80",
+            "R$ 0",
+            "Sim"
+          ],
+          [
+            "[Nova Bahamas P e G Bege](https://www.bagaggio.com.br/conjunto-de-malas-policarbonato-4-rodas-nova-bahamas-p-e-g-bege/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 2.149,85",
+            "R$ 2.699,80",
+            "-R$ 549,95",
+            "Fora de estoque"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Na Santiago P e G, a versão Preta tem a mesma conta da Azul: R$ 824,85 contra R$ 849,80.",
+        "O CECILIA10 dá 10% em todo o site, inclusive em produto com desconto, e o Pix tira mais 5%. Ainda não testamos o cupom num conjunto, então confira a linha de descontos no resumo do pedido antes de pagar.",
+        "O conjunto Downtown PP e Detroit G Preta também está no [guia de Black Friday da Bagaggio](/reviews/black-friday-bagaggio), com o preço de 22/10. Em 29/10, o preço era o mesmo."
+      ]
+    },
+    {
+      "heading": "Como fizemos a soma",
+      "paragraphs": [
+        "Soma é o preço de venda das peças avulsas da mesma linha, cor e medida do conjunto, lidas no mesmo dia. Diferença é o preço do conjunto menos essa soma. Zero quer dizer que o conjunto custa o mesmo que as peças compradas separadas.",
+        "Para saber qual peça vem em cada conjunto, usamos a medida e a capacidade da ficha. No Detroit P e M Preta, a ficha dá a mala M com 66 x 41,5 x 26 cm e 71,2 litros. É a medida da [Média 24\" Preta II](https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-detroit-preta-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), que avulsa custava R$ 379,90. Por isso a soma é R$ 629,80, e não R$ 599,80, que seria a conta com a Média 26\".",
+        "No Malta P e M Branca e Marrom, a ficha dá 55 x 35 x 20 cm e 38,5 litros na P, e 67 x 45 x 25 cm e 75,3 litros na M. São as medidas da [Malta 10 kg Branca e Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-branca-e-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 549,90, e da [Malta Média 23 kg Branca e Marrom](https://www.bagaggio.com.br/mala-media-23-kg-polipropileno-4-rodas-malta-branca-e-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 649,90."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-malta-branca-marrom.webp",
+          "alt": "Conjunto de malas Malta P e M Branca e Marrom da Bagaggio, uma mala média e uma mala de bordo brancas com detalhes marrons",
+          "caption": "Conjunto Malta P e M Branca e Marrom, o de maior desconto com estoque em 29/10/2026. Foto oficial da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9533
+        },
+        {
+          "src": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-detroit-preta-p-m.webp",
+          "alt": "Conjunto de malas Detroit P e M Preta da Bagaggio, uma mala média e uma mala de bordo pretas em ABS",
+          "caption": "Conjunto Detroit P e M Preta. Pela medida da ficha, a M é a de 24 polegadas. Foto oficial da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9202
+        }
+      ]
+    },
+    {
+      "heading": "Por que o preço riscado não ajuda",
+      "paragraphs": [
+        "Nos conjuntos com desconto, o preço de lista, o riscado, é a soma das listas das peças. No Santiago P e G Azul, por exemplo, a lista é R$ 1.049,80, igual a R$ 449,90 da P mais R$ 599,90 da G. Por isso o riscado do conjunto parece um desconto grande, mas a comparação que vale é com o preço de venda das peças avulsas."
+      ]
+    },
+    {
+      "heading": "Quando o conjunto compensa",
+      "paragraphs": [
+        "Compensa quando a diferença é negativa e o conjunto tem estoque. Em 29/10, eram seis: Malta P e M Branca e Marrom, Nova Bahamas P e G Preta, Malta P e M Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta.",
+        "Quando a diferença é zero, o conjunto não dá vantagem de preço. O que ele dá é uma compra só, com as malas da mesma cor. Duas perguntas resolvem:"
+      ],
+      "bullets": [
+        "Você precisa de todas as peças? Se só vai usar uma, a peça avulsa custa menos que o conjunto.",
+        "Você quer as malas da mesma cor? A cor de cada peça está na ficha do conjunto."
+      ],
+      "postParagraphs": [
+        "Os conjuntos de três malas que conferimos custam a soma exata das peças. O [Detroit P, M e G Preta](https://www.bagaggio.com.br/kit-mala-detroit-preta-p-m-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) sai por R$ 979,70 e o [Cartagena P, M e G Preta](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-cartagena-preta-p-m-e-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) por R$ 1.399,70, os mesmos valores das três peças compradas separadas."
+      ]
+    },
+    {
+      "heading": "P, M e G no conjunto",
+      "paragraphs": [
+        "O nome do conjunto diz quais tamanhos vêm nele. Pelas fichas, a P corresponde à mala de 10 kg, a M à de 23 kg e a G à de 32 kg. A medida da M muda de linha para linha, e até dentro da mesma linha: a Detroit tem a Média de 24 polegadas, com 66 x 41,5 x 26 cm, e a de 26, com 70,5 x 44,5 x 29 cm. Confira a medida na ficha do conjunto."
+      ]
+    },
+    {
+      "heading": "E a garantia?",
+      "paragraphs": [
+        "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, e as fichas dos conjuntos trazem \"Garantia Vitalícia *confira regulamento\". O que cobre e como acionar estão no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+      ]
+    },
+    {
+      "heading": "Parceria e cupom",
+      "paragraphs": [
+        "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido. No nosso teste de 22/10/2026, numa mala avulsa, o Pix tirou 5% sobre o total que já tinha o cupom.",
+        "Pela regra, o cupom vale em todo o site, mas ainda não fizemos o teste num conjunto. As condições atualizadas ficam na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo está em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Conjunto de malas Bagaggio compensa? Na maioria, não. Dos 32 conjuntos conferidos em 29/10/2026, 24 custam a soma exata das peças avulsas.",
+        "O conjunto de malas Bagaggio tem desconto em relação às peças separadas? Só em alguns. Em 29/10/2026, seis conjuntos com estoque custavam menos que a soma das peças: Malta P e M Branca e Marrom, Malta P e M Preta, Nova Bahamas P e G Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta.",
+        "Qual conjunto Bagaggio tem o maior desconto em 2026? Entre os conjuntos com estoque em 29/10/2026, o Malta P e M Branca e Marrom, R$ 174,95 abaixo da soma das peças. O Nova Bahamas P e G Bege tinha diferença maior, mas estava fora de estoque.",
+        "Conjunto de 3 malas de bordo Bagaggio vale a pena? Pelo preço, não muda nada. O conjunto de três malas de bordo Detroit custava R$ 749,70 em 29/10/2026, o mesmo que três malas avulsas de R$ 249,90.",
+        "O cupom CECILIA10 vale para conjunto de malas? Pela regra, o CECILIA10 vale em todo o site, inclusive em produto com desconto. Ainda não testamos o cupom num conjunto, então confira o desconto no resumo do pedido.",
+        "Por que o conjunto tem preço de lista maior que a soma das peças? Porque a lista do conjunto é a soma das listas das peças, não dos preços de venda. A comparação que vale é com o preço de venda das peças avulsas."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Se a sua compra é na Bagaggio, entre no site oficial e cole o CECILIA10 no carrinho. Confira o desconto no resumo antes de pagar.",
+    "label": "Ir para a Bagaggio com o cupom",
+    "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+    "sponsored": true
+  },
+  "coupon": "CECILIA10",
+  "affiliate": "bagaggio",
+  "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+  "relatedArticles": [
+    {
+      "slug": "black-friday-bagaggio",
+      "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+    },
+    {
+      "slug": "mala-policarbonato-ou-abs-bagaggio",
+      "title": "Mala de policarbonato ou ABS na Bagaggio: vale pagar mais?"
+    },
+    {
+      "slug": "cupom-bagaggio-como-usar",
+      "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+    },
+    {
+      "slug": "bagaggio-garantia-vitalicia",
+      "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+    }
+  ]
+}
