@@ -1364,6 +1364,15 @@ let endTopVideos = 0;
 let endProsCons = 0;
 let endFullRelated = 0;
 let endBrunoBoxes = 0;
+// Quem o Bruno assina: todo artigo da Hostinger (a conta do site é dele) e, fora dela, a família do guia de
+// cupons da YesStyle, a Dolce Gusto Genio S Touch e as duas poltronas da Damie. Família nova da Hostinger entra
+// sozinha; artigo que perde a assinatura por engano, ou que ganha uma fora desta regra, para aqui.
+const BRUNO_OUTSIDE_HOSTINGER = new Set([
+  'yesstyle-coupon-guide',
+  'dolce-gusto-genio-s-touch-vale-a-pena',
+  'poltrona-damie-e-boa',
+  'poltronas-reclinaveis-damie-vale-o-investimento',
+]);
 for (const url of articleUrls) {
   const pagePath = new URL(url).pathname;
   const file = builtFile(url);
@@ -1503,6 +1512,11 @@ for (const url of articleUrls) {
       : null;
   const related = pickRelatedReviews(review, publishedReviews).map(getReviewCanonicalPathname);
   const hasBrunoBox = Boolean(review.authors?.some((author) => author.slug === 'bruno-luiz'));
+  assert.equal(
+    hasBrunoBox,
+    review.affiliate === 'hostinger' || BRUNO_OUTSIDE_HOSTINGER.has(review.translationKey ?? review.slug),
+    `${pagePath}: assinatura do Bruno fora da regra (Hostinger e BRUNO_OUTSIDE_HOSTINGER)`
+  );
   assert.deepEqual(
     articleEndProblems(body, {
       locale,
@@ -1666,12 +1680,11 @@ for (const [count, name] of [
   [endGalleries, 'com galeria'],
   [endTopVideos, 'com o vídeo do topo'],
   [endProsCons, 'com prós e contras'],
+  [endBrunoBoxes, 'com a caixa do Bruno'],
 ] as const) {
   assert.ok(count > 0, `nenhum artigo ${name} no fim do artigo`);
 }
 assert.equal(endFullRelated, articleUrls.length, 'artigo com menos de 6 relacionados');
-// As duas poltronas da Damie, a Dolce Gusto Genio S Touch, o guia de cupons da YesStyle e as onze famílias da Hostinger nos 10 idiomas.
-assert.equal(endBrunoBoxes, 123, 'artigos com a caixa do Bruno');
 console.log(
   `fim dos ${articleUrls.length} artigos: ${endStoreBlocks} com o bloco da loja (${endStoreRules} com regras, ${endStoreArticleLinks} com "Todos os N artigos"), ` +
     `${endAffiliateBlocks} sem loja com o botão do cta, ${endWithoutStore} sem loja e sem cta, ${endGalleries} com galeria (${endPhotoGalleries} só de fotos), ${endTopVideos} com o vídeo do topo fora da galeria, ${endProsCons} com prós e contras, ${endFullRelated} com 6 relacionados, ${endBrunoBoxes} com a caixa do Bruno`
