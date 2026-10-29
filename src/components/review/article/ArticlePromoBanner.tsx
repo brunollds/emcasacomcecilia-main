@@ -17,7 +17,7 @@ export type ArticlePromoBannerProps = {
 // medido como coupon_store_click com o lugar do banner e sem o código da loja, que não é dele.
 export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug }: ArticlePromoBannerProps) {
   const label = getArticleCopy(locale).adLabel;
-  const { headline, text, action } = banner.copy[locale];
+  const { headline, text, action, tag } = banner.copy[locale];
 
   const aside = (
     <aside aria-label={label} data-promo-banner={banner.slot} className="text-marinho print:hidden">
@@ -32,7 +32,7 @@ export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug }: A
         placement={banner.slot === 'top' ? 'review_banner_top' : 'review_banner_mid'}
         className={`grid grid-cols-[auto_minmax(0,1fr)] items-center gap-4 rounded-2xl border-2 border-marinho bg-creme p-4 shadow-[4px_4px_0_var(--color-marinho)] md:grid-cols-[auto_minmax(0,1fr)_auto] md:gap-6 md:px-6 md:py-5 motion-safe:transition-[translate,box-shadow] motion-safe:hover:-translate-px motion-safe:hover:shadow-[5px_5px_0_var(--color-marinho)] ${FOCUS_RING}`}
       >
-        <BannerArt art={banner.art} />
+        <BannerArt art={banner.art} tag={tag} />
         <span className="min-w-0">
           <span className="block text-[13px] font-black tracking-[0.22em]">{storeBrand}</span>
           <span className="mt-1 block font-condensada text-[22px] leading-tight font-black font-stretch-extra-condensed md:text-[26px]">
@@ -51,8 +51,9 @@ export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug }: A
   return banner.endsAt ? <HideAfter until={banner.endsAt}>{aside}</HideAfter> : aside;
 }
 
-// Arte nossa, sem foto de produto: a etiqueta amarela com o número da campanha ou a sacola com a etiqueta de preço.
-function BannerArt({ art }: { art: StoreBanner['art'] }) {
+// Arte nossa, sem foto de produto: a etiqueta amarela com o "até" do idioma e o número da campanha, ou a sacola
+// com a etiqueta de preço.
+function BannerArt({ art, tag }: { art: StoreBanner['art']; tag?: string }) {
   if (art.kind === 'tag') {
     return (
       <span
@@ -61,8 +62,8 @@ function BannerArt({ art }: { art: StoreBanner['art'] }) {
       >
         <span className="absolute top-[7px] left-1/2 size-[9px] -translate-x-1/2 rounded-full border-2 border-marinho bg-creme md:top-[9px] md:size-3" />
         <span className="mt-3 text-center font-condensada leading-none font-black font-stretch-extra-condensed md:mt-4">
+          {tag && <span className="block text-[10px] tracking-[0.06em] md:text-[13px]">{tag}</span>}
           <span className="block text-[26px] md:text-[40px]">{art.value}</span>
-          <span className="block text-[10px] tracking-[0.06em] md:text-[13px]">{art.unit}</span>
         </span>
       </span>
     );

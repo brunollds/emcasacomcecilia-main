@@ -6,11 +6,11 @@ import { STORE_BANNERS, getStoreBanners, isStoreBannerLive, placeStoreBanners, t
 
 // O prazo de uma campanha com um "agora" fixo. As 23h do último dia em Brasília já são o dia seguinte em UTC:
 // o banner continua no ar.
-const window = { startsAt: '2026-11-01T00:00:00-03:00', endsAt: '2026-11-30T23:59:59-03:00' };
-assert.equal(isStoreBannerLive(window, new Date('2026-10-31T23:59:59-03:00')), false, 'antes do início');
-assert.equal(isStoreBannerLive(window, new Date('2026-11-01T00:00:00-03:00')), true, 'no início');
-assert.equal(isStoreBannerLive(window, new Date('2026-11-30T23:00:00-03:00')), true, 'às 23h do último dia');
-assert.equal(isStoreBannerLive(window, new Date('2026-12-01T00:00:00-03:00')), false, 'depois do fim');
+const campaignWindow = { startsAt: '2026-11-01T00:00:00-03:00', endsAt: '2026-11-30T23:59:59-03:00' };
+assert.equal(isStoreBannerLive(campaignWindow, new Date('2026-10-31T23:59:59-03:00')), false, 'antes do início');
+assert.equal(isStoreBannerLive(campaignWindow, new Date('2026-11-01T00:00:00-03:00')), true, 'no início');
+assert.equal(isStoreBannerLive(campaignWindow, new Date('2026-11-30T23:00:00-03:00')), true, 'às 23h do último dia');
+assert.equal(isStoreBannerLive(campaignWindow, new Date('2026-12-01T00:00:00-03:00')), false, 'depois do fim');
 assert.equal(isStoreBannerLive({}, new Date('2030-01-01T00:00:00Z')), true, 'sem datas');
 
 // Uma campanha por lugar, só as da loja e só as no prazo.
@@ -61,6 +61,10 @@ for (const banner of STORE_BANNERS) {
   }
 
   const code = store.offerMode === 'discount-code' ? store.code : undefined;
+  // A etiqueta com número leva o "até" em cada idioma: o número sozinho diria um desconto fixo.
+  if (banner.art.kind === 'tag') {
+    for (const locale of LOCALE_KEYS) assert.ok(banner.copy[locale].tag?.trim(), `${banner.id} (${locale}): etiqueta sem o "até"`);
+  }
   for (const locale of LOCALE_KEYS) {
     const copy = banner.copy[locale];
     for (const [field, value] of Object.entries(copy)) {
