@@ -48,6 +48,23 @@ Fonte: `docs/Memoria de Artigos/memreview/02_Artigos/shein-e-confiavel.md`, linh
 
 ---
 
+## Leitura no navegador (28/10/2026, à noite, horário de Brasília)
+
+Lida pelo Claude no navegador do app, sem login, sem bloqueio. Vale sobre os números de 12/10 e sobre a extração do mesmo dia, acima.
+
+**Reclame Aqui** (`https://www.reclameaqui.com.br/empresa/shein/`), aba de 6 meses (01/04/2026 a 30/09/2026):
+- Reputação **Boa**, nota **7,5**/10 (era 7,6 na leitura de 12/10).
+- 32.431 reclamações; 95,3% respondidas; 1.343 aguardando resposta.
+- 77,8% resolvidas; 70,6% voltariam a fazer negócio; 13.858 avaliadas.
+- Nota média do consumidor 6,3; tempo médio de resposta 3 dias e 5 horas.
+- Recorte de 3 anos: problema mais citado "Produto não recebido", 36,47%; Moda Feminina 19,62% (a categoria mais citada) e Blusas 9,83% (o item seguinte da lista; não classificar como categoria ou produto).
+- 8 anos no Reclame Aqui.
+
+**Trustpilot** (`https://www.trustpilot.com/review/www.shein.com`):
+- TrustScore **3,8**, "Great"; 353.435 avaliações; 22.625 nos últimos 12 meses.
+- Distribuição: 5 estrelas 59%; 4: 12%; 3: 6%; 2: 5%; 1: 18%.
+- "Claimed profile" desde outubro de 2015; respondeu a 98% das negativas, em geral em até 24 horas; a resposta pode usar IA. Sem resumo de IA.
+
 ## Autocompletar (28/10/2026)
 
 ```
