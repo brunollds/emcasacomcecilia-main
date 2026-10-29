@@ -1,0 +1,301 @@
+{
+  "id": 658,
+  "slug": "creador-ia-hostinger-vale-la-pena",
+  "locale": "es",
+  "translationKey": "hostinger-ai-builder",
+  "title": "Hostinger AI Builder (el creador con IA, antes Horizons): ¿vale la pena o WordPress?",
+  "seoTitle": "¿Hostinger Horizons vale la pena? Web sin programar",
+  "type": "Guía de elección",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edición y análisis",
+      "initials": "BL"
+    }
+  ],
+  "description": "El Hostinger AI Builder, el antiguo Horizons, sirve para una web o una app sencilla sin programar; quien quiere plugins y control sigue en WordPress. Precios en dólares del 28 de octubre de 2026, con la renovación.",
+  "metaDescription": "Hostinger Horizons pasó a ser el AI Builder. ¿Vale la pena o WordPress? Cuadro por tipo de proyecto, comparación con Wix y Lovable, créditos de IA, precio y renovación el 28 de octubre de 2026.",
+  "publishedAt": "28 de octubre de 2026",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+  "imageAlt": "Logo de Hostinger y el AI Builder, el antiguo Horizons, frente a frente con WordPress",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "El Hostinger AI Builder, el antiguo Horizons, vale la pena para quien quiere una web o una app web sencilla sin programar y acepta que la IA monte la primera versión. Quien necesita plugins, tema propio y control total sigue mejor en WordPress. Lo que decide es el tipo de proyecto; el cuadro está más abajo."
+      ]
+    },
+    {
+      "heading": "Qué es el AI Builder (el antiguo Horizons)",
+      "paragraphs": [
+        "Horizons era el constructor de webs y apps con IA de Hostinger. En 2026 se fusionó con el constructor de sitios tradicional y pasó a ser el Hostinger AI Builder: la dirección antigua redirige a la página nueva, que presenta el producto como la fusión del constructor de sitios y Horizons en un solo constructor con dos modos. Las búsquedas siguen usando el nombre antiguo, y por eso aparece aquí.",
+        "La página dice que crea sitios web y aplicaciones web a partir de una descripción en texto, sin conocimientos técnicos, en dos modos:"
+      ],
+      "bullets": [
+        "**Edición sin IA (el modo Manual):** empiezas con una web generada por la IA o con una de las plantillas y editas arrastrando y soltando. No consume créditos de IA.",
+        "**Edición con IA (el modo Agentic):** describes lo que quieres en el chat y la IA diseña y programa. Cada acción consume créditos de IA, y se pueden recargar."
+      ],
+      "postParagraphs": [
+        "Lo que sale de ahí es una web o una aplicación web, no una app para la App Store o Google Play: la propia página lo dice. El hosting, el dominio y el correo vienen en el plan, y el código fuente se puede exportar para alojarlo en otro sitio. Todo esto es la descripción de Hostinger, leída el 28 de octubre de 2026, no una prueba nuestra.",
+        "No lo confundas con los agentes de automatización de Hostinger, como OpenClaw y Hermes Agent: esos son [asistentes que corren en un servidor](/es/reviews/openclaw-o-hermes-agent) y responden por Telegram o WhatsApp. El AI Builder construye la web."
+      ]
+    },
+    {
+      "heading": "Para qué proyecto sirve: el cuadro",
+      "paragraphs": [
+        "La pregunta correcta no es «¿la IA es buena?», sino «¿qué voy a construir y quién lo va a tocar después?». El cuadro resume la elección por tipo de proyecto, según lo que dicen la página del AI Builder y la documentación de WordPress el 28 de octubre de 2026:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Proyecto",
+          "Mejor opción",
+          "Por qué"
+        ],
+        "rows": [
+          [
+            "Carta, restaurante o página de servicios",
+            "AI Builder",
+            "Pocas páginas, texto y fotos. La IA la monta, y el modo sin IA no gasta créditos para ajustar."
+          ],
+          [
+            "Portafolio o currículum",
+            "AI Builder",
+            "La galería tiene plantillas listas para eso, y el plan Premium ya basta."
+          ],
+          [
+            "Tienda pequeña, con pocos productos",
+            "AI Builder (plan Unlimited) o WordPress con WooCommerce",
+            "El AI Builder tiene tienda online integrada; WooCommerce da más control de envíos y pagos, pero pide configuración."
+          ],
+          [
+            "Blog que depende de plugins (SEO, formularios, área de miembros)",
+            "WordPress",
+            "El catálogo de plugins y temas es de WordPress; en el AI Builder, cada función nueva la hace la IA."
+          ],
+          [
+            "App web: reservas, portal de clientes, CRM sencillo",
+            "AI Builder (modo con IA)",
+            "La página promete back-end, login y base de datos integrados. En WordPress eso se convierte en plugins y un desarrollador."
+          ],
+          [
+            "Proyecto que otra persona o una agencia va a mantener",
+            "WordPress",
+            "Es el estándar del mercado: cualquier profesional sabe usarlo."
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-es.webp",
+        "alt": "Cuadro AI Builder o WordPress por tipo de proyecto: carta o página de servicios, portafolio y app web van con el AI Builder; blog que depende de plugins y proyecto que otra persona va a mantener van con WordPress; la tienda pequeña sirve en los dos",
+        "caption": "El resumen del cuadro: el AI Builder para una web sencilla, un portafolio y una app web; WordPress para plugins y para quien va a pasar la web a otra persona. Cuadro de Em Casa com Cecília, según lo que dicen las páginas el 28 de octubre de 2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.2346
+      },
+      "postParagraphs": [
+        "Si tu proyecto cabe en dos líneas, empieza por el AI Builder: tiene prueba gratis, sin tarjeta, con 5 créditos de IA. Si lo que necesitas ya tiene nombre de plugin, ve con WordPress."
+      ]
+    },
+    {
+      "heading": "AI Builder o WordPress",
+      "paragraphs": [
+        "El precio no decide: en Hostinger, el AI Builder viene en los planes de hosting, los mismos que corren WordPress, al mismo precio. Lo que cambia es quién hace el trabajo y qué controlas tú."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "",
+          "AI Builder",
+          "WordPress"
+        ],
+        "rows": [
+          [
+            "Quién monta la web",
+            "La IA, a partir de tu descripción, o tú en el editor visual",
+            "Tú, con un tema, o un profesional"
+          ],
+          [
+            "Funciones nuevas",
+            "Se piden en el chat; consumen créditos de IA",
+            "Plugins, miles de ellos, gratuitos o de pago"
+          ],
+          [
+            "Tema y apariencia",
+            "Plantillas de Hostinger y ajustes con la IA o en el editor",
+            "Cualquier tema, incluso hecho a medida"
+          ],
+          [
+            "Quién corrige un error",
+            "Tú, pidiéndoselo a la IA, o el soporte de Hostinger",
+            "Tú, el autor del plugin o un desarrollador"
+          ],
+          [
+            "Llevarlo a otro sitio",
+            "La página dice que el código se puede exportar; el back-end integrado se queda en Hostinger",
+            "La web entera va a cualquier hosting"
+          ],
+          [
+            "Tienda online",
+            "Integrada en los planes Unlimited y Cloud Startup",
+            "WooCommerce, gratis, con extensiones de pago"
+          ],
+          [
+            "Mantenimiento",
+            "Hostinger se ocupa de la plataforma",
+            "Actualizar WordPress, el tema y los plugins es cosa tuya"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "**WordPress gana** cuando el proyecto depende de un plugin concreto, de un tema que ya tienes o de alguien que va a mantener la web después. Es software libre: la web entera es tuya y va a cualquier hosting sin rehacer nada.",
+        "**El AI Builder gana** cuando no quieres instalar ni actualizar nada y quieres una app web con login y datos, lo que en WordPress se convierte en una pila de plugins. La salvedad que cambia la decisión: en el modo con IA, cada cambio gasta créditos. Según la página, una web corporativa sencilla consume de 5 a 10 créditos, y una app más compleja, 15 o más. Quien toca la web cada semana tiene que echar cuentas; quien la monta una vez y edita texto y fotos en el editor, sin prompts, no gasta."
+      ]
+    },
+    {
+      "heading": "AI Builder o Wix (y Lovable)",
+      "paragraphs": [
+        "Wix es el constructor de arrastrar y soltar tradicional, con hosting propio. Tiene plan gratis en una dirección de Wix, y el dominio propio pide plan de pago. Si quieres un editor visual puro, Wix cumple. Si lo que pesa es poder llevarte el proyecto después, compara lo que garantiza cada página: la del AI Builder dice que el código se puede exportar, y WordPress es software libre y va a cualquier hosting.",
+        "Lovable es otra herramienta de vibe coding, la misma idea del modo con IA del AI Builder: tú describes, la IA programa. La diferencia está en el paquete. Lovable cobra por créditos, por mensaje, y tiene plan gratis con pocos créditos al día; es la herramienta de crear, y el dominio y el correo los resuelves aparte. En Hostinger, el hosting, el dominio y el correo vienen en el mismo plan, y el modo sin IA no gasta créditos. Para quien ya programa y solo quiere la IA, Lovable es comparable; para quien quiere todo en un solo sitio, Hostinger."
+      ]
+    },
+    {
+      "heading": "Precio y renovación el 28 de octubre de 2026",
+      "paragraphs": [
+        "El AI Builder no tiene plan propio: viene en los planes de hosting web, de 48 meses, pagados por adelantado. Los precios de abajo son del sitio internacional de Hostinger, en dólares estadounidenses, consultados el 28 de octubre de 2026 por el enlace de referido, en campaña de Black Friday; la página muestra el descuento ya aplicado y, al lado, el precio tachado. En tu país, Hostinger puede mostrar otra moneda e impuestos, así que revisa el carrito antes de pagar. La columna de créditos de IA es la cantidad única de cada plan, el doble en Black Friday:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Plan",
+          "Con el enlace de referido",
+          "Pago por adelantado (48 meses)",
+          "Renovación",
+          "Créditos de IA incluidos"
+        ],
+        "rows": [
+          [
+            "[Premium (hasta 3 sitios)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "US$ 1,99/mes (tachado US$ 12,19)",
+            "US$ 95,52",
+            "US$ 10,99/mes",
+            "250 (500 en Black Friday)"
+          ],
+          [
+            "[Unlimited (sitios ilimitados, con tienda online)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "US$ 2,79/mes (tachado US$ 18,99)",
+            "US$ 133,92",
+            "US$ 16,99/mes",
+            "500 (1.000 en Black Friday)"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "US$ 6,39/mes",
+            "US$ 306,72",
+            "US$ 25,99/mes",
+            "1.000 (2.000 en Black Friday)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "El precio por mes es el total dividido entre 48. En la práctica:"
+      ],
+      "bullets": [
+        "**Premium, con el enlace:** 48 × US$ 1,99 = **US$ 95,52**. **Renovación, en los 48 meses siguientes:** 48 × US$ 10,99 = US$ 527,52.",
+        "**Unlimited, con el enlace:** 48 × US$ 2,79 = **US$ 133,92**. **Renovación:** 48 × US$ 16,99 = US$ 815,52.",
+        "**Los créditos de IA son un regalo único**, no mensual. Cuando se acaban, toca recargar, y el precio de la recarga no aparece en la página: míralo en el panel antes de contar con él."
+      ],
+      "emphasis": "La renovación cuesta de 4 a 6 veces el precio promocional. Mira la columna de la renovación antes de elegir el plan."
+    },
+    {
+      "heading": "Qué revisar antes de pagar",
+      "bullets": [
+        "**Los créditos.** El modo con IA gasta créditos con cada petición, y el saldo del plan no se renueva cada mes. Monta la web con la IA y haz los ajustes de texto y fotos en el editor, que no gasta.",
+        "**Qué pasa si no renuevas.** La página avisa: un plan vencido y no renovado deja el proyecto fuera de línea y borra los datos. Exporta el código antes de dejarlo vencer.",
+        "**Dominio y correo gratis solo el primer año.** Después, el dominio se renueva al precio de tarifa de Hostinger, consultado el 28 de octubre de 2026: un .com cuesta US$ 19,99 al año.",
+        "**Reembolso en 30 días**, siempre que hayas consumido menos de 30 créditos de IA.",
+        "**La tienda online** es parte de los planes Unlimited y Cloud Startup; la página internacional la indica como disponible en el checkout. Revisa ahí cuánto cuesta.",
+        "**No hay app nativa.** Lo que hace el AI Builder es una app web responsive, que se abre en el navegador del móvil. Para la App Store y Google Play, es otro camino."
+      ],
+      "postParagraphs": [
+        "Cómo cobra, renueva y devuelve el dinero Hostinger está en [¿Es confiable Hostinger?](/es/reviews/hostinger-es-confiable)."
+      ]
+    },
+    {
+      "heading": "Enlace de referido y precio con el enlace",
+      "paragraphs": [
+        "El enlace de referido ya aplica el descuento: no hay código que escribir. Es un **20 % solo en el primer período**, en planes de 12 meses o más, y el descuento **no se suma a otros cupones**. La renovación sale al precio normal. En la página del AI Builder, el 28 de octubre de 2026, los planes aparecían con el referido aplicado, con los precios de la columna «con el enlace de referido» de arriba. La regla completa y los demás productos están en [la página de Hostinger en el sitio](/es/coupons/hostinger).",
+        "Hostinger está en campaña de Black Friday, sin fecha de fin en la página, y los precios y los créditos dobles pueden cambiar. Revisa el importe en el carrito antes de pagar."
+      ]
+    },
+    {
+      "heading": "¿Vale la pena? El veredicto",
+      "paragraphs": [
+        "**Vale la pena** para quien quiere una web de pocas páginas, un portafolio, una tienda pequeña o una app web sencilla y no quiere programar ni ocuparse de plugins. La primera versión sale de la descripción, y el modo sin IA deja ajustar sin gastar créditos. Empieza por la prueba gratis; si el resultado te sirve, el plan Premium cubre una web sencilla y el Unlimited, una tienda.",
+        "**Quédate en WordPress** si el proyecto depende de plugins, de un tema tuyo, de alguien que va a mantener la web, o si quieres llevarlo todo a otro hosting sin rehacer nada. El plan de Hostinger es el mismo en los dos casos, así que la elección es solo de herramienta.",
+        "**En la duda, prueba el AI Builder antes de pagar.** Son 5 créditos gratis, sin tarjeta, suficientes para ver si la IA entiende lo que quieres. Si no lo entiende, WordPress sigue ahí."
+      ]
+    },
+    {
+      "heading": "Preguntas frecuentes",
+      "bullets": [
+        "¿Hostinger Horizons sigue existiendo? Existe con otro nombre. En 2026 Horizons se fusionó con el constructor de sitios de Hostinger y pasó a ser el Hostinger AI Builder, con un modo de arrastrar y soltar y un modo de crear por el chat. La dirección antigua redirige a la página nueva.",
+        "¿El Hostinger AI Builder hace la web solo? Monta la primera versión a partir de tu descripción, según la página. El contenido, las fotos y las decisiones de negocio siguen siendo tuyos, y cada petición en el modo con IA consume créditos.",
+        "¿Hay que saber programar para usar el AI Builder? No. La página dice que no exige conocimientos técnicos en ninguno de los dos modos. Quien sabe programar tiene un editor de código en el modo con IA.",
+        "¿Se puede migrar del AI Builder a otro hosting? La página dice que el código fuente se puede exportar y alojar en otro sitio. El back-end integrado, con base de datos y login, se queda en Hostinger, así que una app necesita reconfigurarse fuera.",
+        "¿El AI Builder sirve para una tienda online? Para una tienda pequeña, sí: la tienda online es parte de los planes Unlimited y Cloud Startup. Para una tienda grande, con reglas de envío y pago, WordPress con WooCommerce da más control.",
+        "¿Cuánto cuesta el Horizons de Hostinger en 2026? El AI Builder viene en los planes de hosting. El 28 de octubre de 2026, en el sitio internacional con el enlace de referido, el Premium costaba US$ 1,99/mes a 48 meses (US$ 95,52 por adelantado) y se renueva a US$ 10,99/mes; el Unlimited, US$ 2,79/mes (US$ 133,92) y se renueva a US$ 16,99/mes.",
+        "¿Hay cupón para el Hostinger AI Builder? No hay código que escribir. El descuento del 20 % viene por el enlace de referido, solo en el primer período y en planes de 12 meses o más, y no se suma a otros cupones."
+      ]
+    },
+    {
+      "heading": "Quién escribe",
+      "paragraphs": [
+        "Em Casa com Cecília funciona sobre el hosting gestionado de Hostinger, como Node.js Web App, y el dominio está registrado en Hostinger desde noviembre de 2024. Nadie del equipo ha usado el AI Builder ni Horizons: este texto reúne lo que dicen la página del producto de Hostinger, la documentación de WordPress y las páginas públicas de Wix y Lovable, consultadas el 28 de octubre de 2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "El código de referido ya va en el enlace: el 20 % vale solo para el primer período, en planes de 12 meses o más, y no se suma a otros cupones.",
+    "label": "Ver los planes con el enlace de referido",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Las compras con el enlace de referido pueden darle a Bruno un crédito en Hostinger, sin costo extra para ti. Nadie del equipo ha usado el AI Builder.",
+  "relatedArticles": [
+    {
+      "slug": "cupon-hostinger-codigo-de-referido",
+      "title": "Cupón Hostinger: no necesitas uno, y esto es lo que da el enlace de referido"
+    },
+    {
+      "slug": "hostinger-es-confiable",
+      "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+    },
+    {
+      "slug": "black-friday-hostinger-ofertas",
+      "title": "Black Friday Hostinger 2026: la promoción o el enlace de referido, ¿cuál sale más barato?"
+    }
+  ]
+}

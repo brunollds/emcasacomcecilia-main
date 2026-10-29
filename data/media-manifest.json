@@ -56006,6 +56006,647 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-de.webp",
+      "local_url": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41374,
+      "sha256": "49984936887f6c66e95969414c6268ee4358195c49ef792b1cc7ed84d036054f",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-de.webp",
+      "storage_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-domain-kaufen-oder-umziehen.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-domain-kaufen-oder-umziehen.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 148640,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/49984936887f6c66e95969414c6268ee4358195c49ef792b1cc7ed84d036054f/dominio-hostinger-comprar-transferir-ou-fora-caminhos-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/49984936887f6c66e95969414c6268ee4358195c49ef792b1cc7ed84d036054f/dominio-hostinger-comprar-transferir-ou-fora-caminhos-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.500Z",
+      "verification_etag_or_digest": "49984936887f6c66e95969414c6268ee4358195c49ef792b1cc7ed84d036054f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-en.webp",
+      "local_url": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38946,
+      "sha256": "fe8ab2c7bc3bce8a6f362a9e28236df02cc22bcd83940003a7d7df3c0c7d0145",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-en.webp",
+      "storage_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-domain-buy-transfer-or-elsewhere.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-domain-buy-transfer-or-elsewhere.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 147716,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fe8ab2c7bc3bce8a6f362a9e28236df02cc22bcd83940003a7d7df3c0c7d0145/dominio-hostinger-comprar-transferir-ou-fora-caminhos-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fe8ab2c7bc3bce8a6f362a9e28236df02cc22bcd83940003a7d7df3c0c7d0145/dominio-hostinger-comprar-transferir-ou-fora-caminhos-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "fe8ab2c7bc3bce8a6f362a9e28236df02cc22bcd83940003a7d7df3c0c7d0145",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-es.webp",
+      "local_url": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36566,
+      "sha256": "f3e906b92b1feb1dfe692666723097badea2eb3cb7aee5b669bab98432ee158c",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-es.webp",
+      "storage_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dominio-hostinger-comprar-o-transferir.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dominio-hostinger-comprar-o-transferir.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 147947,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f3e906b92b1feb1dfe692666723097badea2eb3cb7aee5b669bab98432ee158c/dominio-hostinger-comprar-transferir-ou-fora-caminhos-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f3e906b92b1feb1dfe692666723097badea2eb3cb7aee5b669bab98432ee158c/dominio-hostinger-comprar-transferir-ou-fora-caminhos-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "f3e906b92b1feb1dfe692666723097badea2eb3cb7aee5b669bab98432ee158c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-fr.webp",
+      "local_url": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41988,
+      "sha256": "6e502effcfece4fa4f2530ca7d59822cc2725cb5d2965a4082bca89c72ef6db3",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-fr.webp",
+      "storage_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/domaine-hostinger-acheter-ou-transferer.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/domaine-hostinger-acheter-ou-transferer.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 148178,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6e502effcfece4fa4f2530ca7d59822cc2725cb5d2965a4082bca89c72ef6db3/dominio-hostinger-comprar-transferir-ou-fora-caminhos-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6e502effcfece4fa4f2530ca7d59822cc2725cb5d2965a4082bca89c72ef6db3/dominio-hostinger-comprar-transferir-ou-fora-caminhos-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "6e502effcfece4fa4f2530ca7d59822cc2725cb5d2965a4082bca89c72ef6db3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-it.webp",
+      "local_url": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36614,
+      "sha256": "40cb05c9323fb51bd91321f7db20e68eb01622fbbcd4a744e3664da2d309afdf",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-it.webp",
+      "storage_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dominio-hostinger-comprare-o-trasferire.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dominio-hostinger-comprare-o-trasferire.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 148409,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/40cb05c9323fb51bd91321f7db20e68eb01622fbbcd4a744e3664da2d309afdf/dominio-hostinger-comprar-transferir-ou-fora-caminhos-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/40cb05c9323fb51bd91321f7db20e68eb01622fbbcd4a744e3664da2d309afdf/dominio-hostinger-comprar-transferir-ou-fora-caminhos-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "40cb05c9323fb51bd91321f7db20e68eb01622fbbcd4a744e3664da2d309afdf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ja.webp",
+      "local_url": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33652,
+      "sha256": "f646234bdc3a0215805c05b4a736a533c066d6a5584ae3416c9efe3f7a41d0b9",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-ja.webp",
+      "storage_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-domain-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-domain-ja.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 148871,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f646234bdc3a0215805c05b4a736a533c066d6a5584ae3416c9efe3f7a41d0b9/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f646234bdc3a0215805c05b4a736a533c066d6a5584ae3416c9efe3f7a41d0b9/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "f646234bdc3a0215805c05b4a736a533c066d6a5584ae3416c9efe3f7a41d0b9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ko.webp",
+      "local_url": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28450,
+      "sha256": "af937538f37b2629007e4b1673626b0f2f5570f63d6fec55e0b2359bfadf8808",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-ko.webp",
+      "storage_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-domain-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-domain-ko.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 149102,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/af937538f37b2629007e4b1673626b0f2f5570f63d6fec55e0b2359bfadf8808/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/af937538f37b2629007e4b1673626b0f2f5570f63d6fec55e0b2359bfadf8808/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "af937538f37b2629007e4b1673626b0f2f5570f63d6fec55e0b2359bfadf8808",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
+      "local_url": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34652,
+      "sha256": "65716bc9b4c76b7c0df74daff1bd2a7a6a219955e8ead78cce35349501cebdab",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
+      "storage_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dominio-hostinger-comprar-transferir-ou-fora.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dominio-hostinger-comprar-transferir-ou-fora.json",
+          "line": 63,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 147467,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/65716bc9b4c76b7c0df74daff1bd2a7a6a219955e8ead78cce35349501cebdab/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/65716bc9b4c76b7c0df74daff1bd2a7a6a219955e8ead78cce35349501cebdab/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "65716bc9b4c76b7c0df74daff1bd2a7a6a219955e8ead78cce35349501cebdab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30124,
+      "sha256": "ea61d48f39efbbe706604c37880d298005f6373398a73be018c713c8fb942ed9",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hans.webp",
+      "storage_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-domain-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-domain-zh-hans.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 149339,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ea61d48f39efbbe706604c37880d298005f6373398a73be018c713c8fb942ed9/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ea61d48f39efbbe706604c37880d298005f6373398a73be018c713c8fb942ed9/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "ea61d48f39efbbe706604c37880d298005f6373398a73be018c713c8fb942ed9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28982,
+      "sha256": "6a1bd00e1b652fe5fea5730d872ed3a56a03a8285cc0af7e14599085fd6ec291",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hant.webp",
+      "storage_filename": "dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-domain-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-domain-zh-hant.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 149576,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6a1bd00e1b652fe5fea5730d872ed3a56a03a8285cc0af7e14599085fd6ec291/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6a1bd00e1b652fe5fea5730d872ed3a56a03a8285cc0af7e14599085fd6ec291/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "6a1bd00e1b652fe5fea5730d872ed3a56a03a8285cc0af7e14599085fd6ec291",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+      "local_url": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20612,
+      "sha256": "c3ab38b18d960cbbf5797f607369064e4db0d86e2cdb184267ef5f4efa2a3905",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+      "storage_filename": "dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/domaine-hostinger-acheter-ou-transferer.json",
+        "content/reviews/dominio-hostinger-comprar-o-transferir.json",
+        "content/reviews/dominio-hostinger-comprar-transferir-ou-fora.json",
+        "content/reviews/dominio-hostinger-comprare-o-trasferire.json",
+        "content/reviews/hostinger-domain-buy-transfer-or-elsewhere.json",
+        "content/reviews/hostinger-domain-ja.json",
+        "content/reviews/hostinger-domain-kaufen-oder-umziehen.json",
+        "content/reviews/hostinger-domain-ko.json",
+        "content/reviews/hostinger-domain-zh-hans.json",
+        "content/reviews/hostinger-domain-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/domaine-hostinger-acheter-ou-transferer.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/dominio-hostinger-comprar-o-transferir.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/dominio-hostinger-comprar-transferir-ou-fora.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/dominio-hostinger-comprare-o-trasferire.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-domain-buy-transfer-or-elsewhere.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-domain-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-domain-kaufen-oder-umziehen.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-domain-ko.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-domain-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-domain-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 147443,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 147692,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 147923,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 148154,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 148385,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 148616,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 148847,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 149078,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 149315,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 149552,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c3ab38b18d960cbbf5797f607369064e4db0d86e2cdb184267ef5f4efa2a3905/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c3ab38b18d960cbbf5797f607369064e4db0d86e2cdb184267ef5f4efa2a3905/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "c3ab38b18d960cbbf5797f607369064e4db0d86e2cdb184267ef5f4efa2a3905",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
       "local_url": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
       "media_kind": "image",
@@ -56479,6 +57120,647 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T22:50:38.066Z",
       "verification_etag_or_digest": "d22da496574c4daffcdd361c9865671fea887379d2abfce6e49bcc20a8e9ae71",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21534,
+      "sha256": "f57278e7108060d93969b9ded60f50b89b29f0fa57413b7e8fbfef7b6fdb8a93",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-horizons-vale-a-pena-capa.webp",
+      "storage_filename": "hostinger-horizons-vale-a-pena-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creador-ia-hostinger-vale-la-pena.json",
+        "content/reviews/createur-ia-hostinger-avis.json",
+        "content/reviews/creatore-ia-hostinger-conviene.json",
+        "content/reviews/hostinger-ai-builder-ja.json",
+        "content/reviews/hostinger-ai-builder-ko.json",
+        "content/reviews/hostinger-ai-builder-worth-it.json",
+        "content/reviews/hostinger-ai-builder-zh-hans.json",
+        "content/reviews/hostinger-ai-builder-zh-hant.json",
+        "content/reviews/hostinger-horizons-vale-a-pena.json",
+        "content/reviews/hostinger-ki-builder-lohnt-sich.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creador-ia-hostinger-vale-la-pena.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/createur-ia-hostinger-avis.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/creatore-ia-hostinger-conviene.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-ai-builder-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-ai-builder-ko.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-ai-builder-worth-it.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-ai-builder-zh-hans.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-ai-builder-zh-hant.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-horizons-vale-a-pena.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-ki-builder-lohnt-sich.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 144446,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 144747,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 145048,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 145349,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 145650,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 145947,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 146244,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 146540,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 146841,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 147142,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f57278e7108060d93969b9ded60f50b89b29f0fa57413b7e8fbfef7b6fdb8a93/hostinger-horizons-vale-a-pena-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f57278e7108060d93969b9ded60f50b89b29f0fa57413b7e8fbfef7b6fdb8a93/hostinger-horizons-vale-a-pena-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "f57278e7108060d93969b9ded60f50b89b29f0fa57413b7e8fbfef7b6fdb8a93",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-de.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61474,
+      "sha256": "c2ba5dc0c55b9687d17d69d6422f3f08a88607d5089ca36e4b5db2fd10c768fa",
+      "width": 900,
+      "height": 729,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-horizons-vale-a-pena-quadro-de.webp",
+      "storage_filename": "hostinger-horizons-vale-a-pena-quadro-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-ki-builder-lohnt-sich.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-ki-builder-lohnt-sich.json",
+          "line": 111,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 146018,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c2ba5dc0c55b9687d17d69d6422f3f08a88607d5089ca36e4b5db2fd10c768fa/hostinger-horizons-vale-a-pena-quadro-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c2ba5dc0c55b9687d17d69d6422f3f08a88607d5089ca36e4b5db2fd10c768fa/hostinger-horizons-vale-a-pena-quadro-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "c2ba5dc0c55b9687d17d69d6422f3f08a88607d5089ca36e4b5db2fd10c768fa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-en.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55716,
+      "sha256": "441363fe48948b1c9305d69adfd46a95d0119f2ad3e82653e5c576d42a2a548e",
+      "width": 900,
+      "height": 729,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-horizons-vale-a-pena-quadro-en.webp",
+      "storage_filename": "hostinger-horizons-vale-a-pena-quadro-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-ai-builder-worth-it.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-ai-builder-worth-it.json",
+          "line": 111,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 144818,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/441363fe48948b1c9305d69adfd46a95d0119f2ad3e82653e5c576d42a2a548e/hostinger-horizons-vale-a-pena-quadro-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/441363fe48948b1c9305d69adfd46a95d0119f2ad3e82653e5c576d42a2a548e/hostinger-horizons-vale-a-pena-quadro-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "441363fe48948b1c9305d69adfd46a95d0119f2ad3e82653e5c576d42a2a548e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-es.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59046,
+      "sha256": "c40440d97ba98808a49d1ede2acd61d06c8462f1141b8c375b0c8bd6c0a7bb73",
+      "width": 900,
+      "height": 729,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-horizons-vale-a-pena-quadro-es.webp",
+      "storage_filename": "hostinger-horizons-vale-a-pena-quadro-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creador-ia-hostinger-vale-la-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creador-ia-hostinger-vale-la-pena.json",
+          "line": 111,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 145119,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c40440d97ba98808a49d1ede2acd61d06c8462f1141b8c375b0c8bd6c0a7bb73/hostinger-horizons-vale-a-pena-quadro-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c40440d97ba98808a49d1ede2acd61d06c8462f1141b8c375b0c8bd6c0a7bb73/hostinger-horizons-vale-a-pena-quadro-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "c40440d97ba98808a49d1ede2acd61d06c8462f1141b8c375b0c8bd6c0a7bb73",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-fr.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60080,
+      "sha256": "83b5903233faa5b5b1a8b768bbb8653d67d122bf7fc220695d1c4204b6ec86d7",
+      "width": 900,
+      "height": 729,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-horizons-vale-a-pena-quadro-fr.webp",
+      "storage_filename": "hostinger-horizons-vale-a-pena-quadro-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/createur-ia-hostinger-avis.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/createur-ia-hostinger-avis.json",
+          "line": 111,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 145420,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/83b5903233faa5b5b1a8b768bbb8653d67d122bf7fc220695d1c4204b6ec86d7/hostinger-horizons-vale-a-pena-quadro-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/83b5903233faa5b5b1a8b768bbb8653d67d122bf7fc220695d1c4204b6ec86d7/hostinger-horizons-vale-a-pena-quadro-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "83b5903233faa5b5b1a8b768bbb8653d67d122bf7fc220695d1c4204b6ec86d7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-it.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56590,
+      "sha256": "7f7b0b4221c9074e954ee92fa7d85aa062f6e0d43d9a21662ec9b9791f3ec61c",
+      "width": 900,
+      "height": 729,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-horizons-vale-a-pena-quadro-it.webp",
+      "storage_filename": "hostinger-horizons-vale-a-pena-quadro-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatore-ia-hostinger-conviene.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatore-ia-hostinger-conviene.json",
+          "line": 111,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 145721,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7f7b0b4221c9074e954ee92fa7d85aa062f6e0d43d9a21662ec9b9791f3ec61c/hostinger-horizons-vale-a-pena-quadro-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7f7b0b4221c9074e954ee92fa7d85aa062f6e0d43d9a21662ec9b9791f3ec61c/hostinger-horizons-vale-a-pena-quadro-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "7f7b0b4221c9074e954ee92fa7d85aa062f6e0d43d9a21662ec9b9791f3ec61c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-ja.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52434,
+      "sha256": "6d3444471f7acf16fe0215743b0d862800afbf231842269fa17aaf2d52ca377b",
+      "width": 900,
+      "height": 729,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-horizons-vale-a-pena-quadro-ja.webp",
+      "storage_filename": "hostinger-horizons-vale-a-pena-quadro-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-ai-builder-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-ai-builder-ja.json",
+          "line": 111,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 146315,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6d3444471f7acf16fe0215743b0d862800afbf231842269fa17aaf2d52ca377b/hostinger-horizons-vale-a-pena-quadro-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6d3444471f7acf16fe0215743b0d862800afbf231842269fa17aaf2d52ca377b/hostinger-horizons-vale-a-pena-quadro-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "6d3444471f7acf16fe0215743b0d862800afbf231842269fa17aaf2d52ca377b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-ko.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51880,
+      "sha256": "fc39f1167752b4e1a89931743d125a045658c82c5e9f1cf74f48c836974e24a8",
+      "width": 900,
+      "height": 729,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-horizons-vale-a-pena-quadro-ko.webp",
+      "storage_filename": "hostinger-horizons-vale-a-pena-quadro-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-ai-builder-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-ai-builder-ko.json",
+          "line": 110,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 146611,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fc39f1167752b4e1a89931743d125a045658c82c5e9f1cf74f48c836974e24a8/hostinger-horizons-vale-a-pena-quadro-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fc39f1167752b4e1a89931743d125a045658c82c5e9f1cf74f48c836974e24a8/hostinger-horizons-vale-a-pena-quadro-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "fc39f1167752b4e1a89931743d125a045658c82c5e9f1cf74f48c836974e24a8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-pt.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60700,
+      "sha256": "cd7c5342222b119647cce77c282f787b98282a6ad4a40484c2ec17ae821c1df2",
+      "width": 900,
+      "height": 729,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-horizons-vale-a-pena-quadro-pt.webp",
+      "storage_filename": "hostinger-horizons-vale-a-pena-quadro-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-horizons-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-horizons-vale-a-pena.json",
+          "line": 110,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 144517,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cd7c5342222b119647cce77c282f787b98282a6ad4a40484c2ec17ae821c1df2/hostinger-horizons-vale-a-pena-quadro-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cd7c5342222b119647cce77c282f787b98282a6ad4a40484c2ec17ae821c1df2/hostinger-horizons-vale-a-pena-quadro-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "cd7c5342222b119647cce77c282f787b98282a6ad4a40484c2ec17ae821c1df2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48618,
+      "sha256": "6e46a128048ac547cd9dc7f0a2ef2c5950fe41434e6ac73c78c43fc1258881ad",
+      "width": 900,
+      "height": 729,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-horizons-vale-a-pena-quadro-zh-hans.webp",
+      "storage_filename": "hostinger-horizons-vale-a-pena-quadro-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-ai-builder-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-ai-builder-zh-hans.json",
+          "line": 110,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 146912,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6e46a128048ac547cd9dc7f0a2ef2c5950fe41434e6ac73c78c43fc1258881ad/hostinger-horizons-vale-a-pena-quadro-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6e46a128048ac547cd9dc7f0a2ef2c5950fe41434e6ac73c78c43fc1258881ad/hostinger-horizons-vale-a-pena-quadro-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "6e46a128048ac547cd9dc7f0a2ef2c5950fe41434e6ac73c78c43fc1258881ad",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47872,
+      "sha256": "df092cf7b9484687cfc15a5018c7f7f79cb0382a4202817c2083f9caa1f9dcc1",
+      "width": 900,
+      "height": 729,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-horizons-vale-a-pena-quadro-zh-hant.webp",
+      "storage_filename": "hostinger-horizons-vale-a-pena-quadro-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-ai-builder-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-ai-builder-zh-hant.json",
+          "line": 110,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 147213,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/df092cf7b9484687cfc15a5018c7f7f79cb0382a4202817c2083f9caa1f9dcc1/hostinger-horizons-vale-a-pena-quadro-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/df092cf7b9484687cfc15a5018c7f7f79cb0382a4202817c2083f9caa1f9dcc1/hostinger-horizons-vale-a-pena-quadro-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "df092cf7b9484687cfc15a5018c7f7f79cb0382a4202817c2083f9caa1f9dcc1",
       "verification_status": "verified"
     },
     {
@@ -60319,6 +61601,647 @@
       "uploaded_at": null,
       "verified_at": "2026-10-21T21:43:07.242Z",
       "verification_etag_or_digest": "42801bbd67cf4b5ec3b3fb9007c7304c4dcac569bf22954f105b5e560501c204",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20796,
+      "sha256": "d7ef12f33bc8bba7ba510557680ba2e797c0ed2e1af7d844df0f981aa7c5d973",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-o-hosting-compartido-cual-elegir.json",
+        "content/reviews/vps-o-hosting-condiviso.json",
+        "content/reviews/vps-oder-shared-hosting.json",
+        "content/reviews/vps-or-shared-hosting-ja.json",
+        "content/reviews/vps-or-shared-hosting-ko.json",
+        "content/reviews/vps-or-shared-hosting-which-to-choose.json",
+        "content/reviews/vps-or-shared-hosting-zh-hans.json",
+        "content/reviews/vps-or-shared-hosting-zh-hant.json",
+        "content/reviews/vps-ou-hebergement-mutualise.json",
+        "content/reviews/vps-ou-hospedagem-compartilhada-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-o-hosting-compartido-cual-elegir.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vps-o-hosting-condiviso.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vps-oder-shared-hosting.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vps-or-shared-hosting-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vps-or-shared-hosting-ko.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vps-or-shared-hosting-which-to-choose.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vps-or-shared-hosting-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vps-or-shared-hosting-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vps-ou-hebergement-mutualise.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vps-ou-hospedagem-compartilhada-qual-escolher.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 149788,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 150087,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 150380,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 150673,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 150966,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 151259,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 151552,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 151845,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 152138,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 152431,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d7ef12f33bc8bba7ba510557680ba2e797c0ed2e1af7d844df0f981aa7c5d973/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d7ef12f33bc8bba7ba510557680ba2e797c0ed2e1af7d844df0f981aa7c5d973/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "d7ef12f33bc8bba7ba510557680ba2e797c0ed2e1af7d844df0f981aa7c5d973",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35500,
+      "sha256": "3fcb7e1e6539827d74ba59df0cbd49bffa29ab128d31dad5bb2a65c4d1c43111",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-oder-shared-hosting.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-oder-shared-hosting.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 151283,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3fcb7e1e6539827d74ba59df0cbd49bffa29ab128d31dad5bb2a65c4d1c43111/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3fcb7e1e6539827d74ba59df0cbd49bffa29ab128d31dad5bb2a65c4d1c43111/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "3fcb7e1e6539827d74ba59df0cbd49bffa29ab128d31dad5bb2a65c4d1c43111",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34510,
+      "sha256": "0267da46b306e90843092f826c7c8e227207c8ca9c5a2fa3ac21fabeca4c9f5e",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-or-shared-hosting-which-to-choose.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-or-shared-hosting-which-to-choose.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 150111,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0267da46b306e90843092f826c7c8e227207c8ca9c5a2fa3ac21fabeca4c9f5e/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0267da46b306e90843092f826c7c8e227207c8ca9c5a2fa3ac21fabeca4c9f5e/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "0267da46b306e90843092f826c7c8e227207c8ca9c5a2fa3ac21fabeca4c9f5e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32018,
+      "sha256": "3f4900932ed6c149adbea99a1c2e8a2369b3959678180eb5cbb6d80553b9fe8b",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-o-hosting-compartido-cual-elegir.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-o-hosting-compartido-cual-elegir.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 150404,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3f4900932ed6c149adbea99a1c2e8a2369b3959678180eb5cbb6d80553b9fe8b/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3f4900932ed6c149adbea99a1c2e8a2369b3959678180eb5cbb6d80553b9fe8b/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "3f4900932ed6c149adbea99a1c2e8a2369b3959678180eb5cbb6d80553b9fe8b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32988,
+      "sha256": "185f2e14d68726c72b7824a354c127ca9d234cf555832e19aa232d6702c2743e",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-ou-hebergement-mutualise.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-ou-hebergement-mutualise.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 150697,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/185f2e14d68726c72b7824a354c127ca9d234cf555832e19aa232d6702c2743e/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/185f2e14d68726c72b7824a354c127ca9d234cf555832e19aa232d6702c2743e/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "185f2e14d68726c72b7824a354c127ca9d234cf555832e19aa232d6702c2743e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30226,
+      "sha256": "7139a1b0722546b5ff5949669f1e053314158e2a2780eb6d7552e51501263637",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-o-hosting-condiviso.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-o-hosting-condiviso.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 150990,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7139a1b0722546b5ff5949669f1e053314158e2a2780eb6d7552e51501263637/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7139a1b0722546b5ff5949669f1e053314158e2a2780eb6d7552e51501263637/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "7139a1b0722546b5ff5949669f1e053314158e2a2780eb6d7552e51501263637",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29616,
+      "sha256": "ebc74edff06e74b4ac9328723f1eda7d85b4fc3664ac48d4dafcc89402a748d7",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-or-shared-hosting-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-or-shared-hosting-ja.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 151576,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ebc74edff06e74b4ac9328723f1eda7d85b4fc3664ac48d4dafcc89402a748d7/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ebc74edff06e74b4ac9328723f1eda7d85b4fc3664ac48d4dafcc89402a748d7/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "ebc74edff06e74b4ac9328723f1eda7d85b4fc3664ac48d4dafcc89402a748d7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26864,
+      "sha256": "db0cad7b05c95629ac07e093648991175699da2e6d33601ba1e11d7e605fdba5",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-or-shared-hosting-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-or-shared-hosting-ko.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 151869,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/db0cad7b05c95629ac07e093648991175699da2e6d33601ba1e11d7e605fdba5/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/db0cad7b05c95629ac07e093648991175699da2e6d33601ba1e11d7e605fdba5/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "db0cad7b05c95629ac07e093648991175699da2e6d33601ba1e11d7e605fdba5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33736,
+      "sha256": "8efbea93de436a2968f41e938a6b3989bb54c51d09f7f0a2aa7d4e636da007a3",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-ou-hospedagem-compartilhada-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-ou-hospedagem-compartilhada-qual-escolher.json",
+          "line": 63,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 149812,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8efbea93de436a2968f41e938a6b3989bb54c51d09f7f0a2aa7d4e636da007a3/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8efbea93de436a2968f41e938a6b3989bb54c51d09f7f0a2aa7d4e636da007a3/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "8efbea93de436a2968f41e938a6b3989bb54c51d09f7f0a2aa7d4e636da007a3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27422,
+      "sha256": "697be69b3451b2a4f25572ae979999d2dde5debdb6ca2f7c4bd6eeeaaab89429",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-or-shared-hosting-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-or-shared-hosting-zh-hans.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 152162,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/697be69b3451b2a4f25572ae979999d2dde5debdb6ca2f7c4bd6eeeaaab89429/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/697be69b3451b2a4f25572ae979999d2dde5debdb6ca2f7c4bd6eeeaaab89429/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "697be69b3451b2a4f25572ae979999d2dde5debdb6ca2f7c4bd6eeeaaab89429",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26158,
+      "sha256": "e8119e08e58b83994de93d0f8a6e01c5a04470d0b21cbd87fa5687eea34e0a8b",
+      "width": 900,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-or-shared-hosting-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-or-shared-hosting-zh-hant.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 152455,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e8119e08e58b83994de93d0f8a6e01c5a04470d0b21cbd87fa5687eea34e0a8b/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e8119e08e58b83994de93d0f8a6e01c5a04470d0b21cbd87fa5687eea34e0a8b/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "e8119e08e58b83994de93d0f8a6e01c5a04470d0b21cbd87fa5687eea34e0a8b",
       "verification_status": "verified"
     },
     {
@@ -72214,6 +74137,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/max-titanium/creatina-max-titanium-qual-pote-capa.webp",
+      "local_url": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53266,
+      "sha256": "500450f6a48e3bc8d55da31b53609108b35cdd9c806df8331994e3d690e74e6d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-max-titanium-qual-pote-capa.webp",
+      "storage_filename": "creatina-max-titanium-qual-pote-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-max-titanium-qual-pote.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-max-titanium-qual-pote.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143693,
+          "column": 15,
+          "literal": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/500450f6a48e3bc8d55da31b53609108b35cdd9c806df8331994e3d690e74e6d/creatina-max-titanium-qual-pote-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/500450f6a48e3bc8d55da31b53609108b35cdd9c806df8331994e3d690e74e6d/creatina-max-titanium-qual-pote-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "500450f6a48e3bc8d55da31b53609108b35cdd9c806df8331994e3d690e74e6d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creapure-250g.webp",
+      "local_url": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creapure-250g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36826,
+      "sha256": "9ed764899bb480a0ba1835588b2f848baaa9f14b7da3cf359c0a56f96aa276b1",
+      "width": 900,
+      "height": 1021,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-max-titanium-qual-pote-creapure-250g.webp",
+      "storage_filename": "creatina-max-titanium-qual-pote-creapure-250g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-max-titanium-qual-pote.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-max-titanium-qual-pote.json",
+          "line": 108,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creapure-250g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143778,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creapure-250g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9ed764899bb480a0ba1835588b2f848baaa9f14b7da3cf359c0a56f96aa276b1/creatina-max-titanium-qual-pote-creapure-250g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9ed764899bb480a0ba1835588b2f848baaa9f14b7da3cf359c0a56f96aa276b1/creatina-max-titanium-qual-pote-creapure-250g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "9ed764899bb480a0ba1835588b2f848baaa9f14b7da3cf359c0a56f96aa276b1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creatina-500g.webp",
+      "local_url": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creatina-500g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44862,
+      "sha256": "a9ecd8549a0a3339b98a5ac5adf12df3fda20542db4bffb69256f8f40103b225",
+      "width": 900,
+      "height": 1339,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-max-titanium-qual-pote-creatina-500g.webp",
+      "storage_filename": "creatina-max-titanium-qual-pote-creatina-500g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-max-titanium-qual-pote.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-max-titanium-qual-pote.json",
+          "line": 91,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creatina-500g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143761,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creatina-500g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a9ecd8549a0a3339b98a5ac5adf12df3fda20542db4bffb69256f8f40103b225/creatina-max-titanium-qual-pote-creatina-500g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a9ecd8549a0a3339b98a5ac5adf12df3fda20542db4bffb69256f8f40103b225/creatina-max-titanium-qual-pote-creatina-500g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "a9ecd8549a0a3339b98a5ac5adf12df3fda20542db4bffb69256f8f40103b225",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/creatina-max-titanium-qual-pote-tabela-300g.webp",
+      "local_url": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-tabela-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43232,
+      "sha256": "b1cf7af5ccc1fa424ab1869fdfd79eba2cee86d671da9aadb7dc70f2d6c63110",
+      "width": 900,
+      "height": 663,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-max-titanium-qual-pote-tabela-300g.webp",
+      "storage_filename": "creatina-max-titanium-qual-pote-tabela-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-max-titanium-qual-pote.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-max-titanium-qual-pote.json",
+          "line": 127,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-tabela-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143797,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-tabela-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b1cf7af5ccc1fa424ab1869fdfd79eba2cee86d671da9aadb7dc70f2d6c63110/creatina-max-titanium-qual-pote-tabela-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b1cf7af5ccc1fa424ab1869fdfd79eba2cee86d671da9aadb7dc70f2d6c63110/creatina-max-titanium-qual-pote-tabela-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "b1cf7af5ccc1fa424ab1869fdfd79eba2cee86d671da9aadb7dc70f2d6c63110",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/max-titanium/cupom-max-titanium-capa-discover.webp",
       "local_url": "/images/reviews/max-titanium/cupom-max-titanium-capa-discover.webp",
       "media_kind": "image",
@@ -73046,6 +75153,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46268,
+      "sha256": "f3143422ec8a126b80c8cdfcafb0eade5e4533d25c6388423192ab795bf0acc7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-integralmedica-capa.webp",
+      "storage_filename": "max-titanium-ou-integralmedica-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-integralmedica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-integralmedica.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 144173,
+          "column": 15,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f3143422ec8a126b80c8cdfcafb0eade5e4533d25c6388423192ab795bf0acc7/max-titanium-ou-integralmedica-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f3143422ec8a126b80c8cdfcafb0eade5e4533d25c6388423192ab795bf0acc7/max-titanium-ou-integralmedica-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "f3143422ec8a126b80c8cdfcafb0eade5e4533d25c6388423192ab795bf0acc7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-integralmedica-creatina-500g.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-creatina-500g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41040,
+      "sha256": "868acf742e053a8e9db8a4d5d45e7a81bd6094abc74ac3bd4afea76a3dde2c4a",
+      "width": 900,
+      "height": 1326,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-integralmedica-creatina-500g.webp",
+      "storage_filename": "max-titanium-ou-integralmedica-creatina-500g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-integralmedica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-integralmedica.json",
+          "line": 131,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-creatina-500g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 144282,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-creatina-500g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/868acf742e053a8e9db8a4d5d45e7a81bd6094abc74ac3bd4afea76a3dde2c4a/max-titanium-ou-integralmedica-creatina-500g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/868acf742e053a8e9db8a4d5d45e7a81bd6094abc74ac3bd4afea76a3dde2c4a/max-titanium-ou-integralmedica-creatina-500g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "868acf742e053a8e9db8a4d5d45e7a81bd6094abc74ac3bd4afea76a3dde2c4a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-integralmedica-tabela-whey-refil.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-tabela-whey-refil.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47242,
+      "sha256": "7997aa92e536130606da63f84129a99f3269c0066ca13cb4fe22f0876c578213",
+      "width": 900,
+      "height": 814,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-integralmedica-tabela-whey-refil.webp",
+      "storage_filename": "max-titanium-ou-integralmedica-tabela-whey-refil.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-integralmedica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-integralmedica.json",
+          "line": 116,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-tabela-whey-refil.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 144267,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-tabela-whey-refil.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7997aa92e536130606da63f84129a99f3269c0066ca13cb4fe22f0876c578213/max-titanium-ou-integralmedica-tabela-whey-refil.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7997aa92e536130606da63f84129a99f3269c0066ca13cb4fe22f0876c578213/max-titanium-ou-integralmedica-tabela-whey-refil.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "7997aa92e536130606da63f84129a99f3269c0066ca13cb4fe22f0876c578213",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58414,
+      "sha256": "a8cc1b79b3d1fce1df5e05707a6cb9cd541647cbef0a8e43cd4f41bac1d9b83e",
+      "width": 900,
+      "height": 1170,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-integralmedica-whey-refil.webp",
+      "storage_filename": "max-titanium-ou-integralmedica-whey-refil.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-integralmedica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-integralmedica.json",
+          "line": 49,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 144200,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a8cc1b79b3d1fce1df5e05707a6cb9cd541647cbef0a8e43cd4f41bac1d9b83e/max-titanium-ou-integralmedica-whey-refil.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a8cc1b79b3d1fce1df5e05707a6cb9cd541647cbef0a8e43cd4f41bac1d9b83e/max-titanium-ou-integralmedica-whey-refil.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "a8cc1b79b3d1fce1df5e05707a6cb9cd541647cbef0a8e43cd4f41bac1d9b83e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/max-titanium/max-titanium-ou-probiotica-capa.webp",
       "local_url": "/images/reviews/max-titanium/max-titanium-ou-probiotica-capa.webp",
       "media_kind": "image",
@@ -73449,6 +75740,328 @@
       "uploaded_at": null,
       "verified_at": "2026-10-15T01:19:48.458Z",
       "verification_etag_or_digest": "e45e066649f5067e43a3f6bf058cdc8439e7958a290246484cd647a18b8f25f9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa.webp",
+      "local_url": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67302,
+      "sha256": "ad8d111684ecc9b1421e8d26ccbaad0fd2df6dcf831af9a76b94fb4c29feccc8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pre-treino-max-titanium-horus-ou-egide-capa.webp",
+      "storage_filename": "pre-treino-max-titanium-horus-ou-egide-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143897,
+          "column": 15,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ad8d111684ecc9b1421e8d26ccbaad0fd2df6dcf831af9a76b94fb4c29feccc8/pre-treino-max-titanium-horus-ou-egide-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ad8d111684ecc9b1421e8d26ccbaad0fd2df6dcf831af9a76b94fb4c29feccc8/pre-treino-max-titanium-horus-ou-egide-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "ad8d111684ecc9b1421e8d26ccbaad0fd2df6dcf831af9a76b94fb4c29feccc8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-egide-300g.webp",
+      "local_url": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-egide-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47992,
+      "sha256": "519862b94d7c9cf4e35aa444b9cc42b53645a7f6b26c229569b9b62209ce8335",
+      "width": 900,
+      "height": 1020,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pre-treino-max-titanium-horus-ou-egide-egide-300g.webp",
+      "storage_filename": "pre-treino-max-titanium-horus-ou-egide-egide-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+          "line": 94,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-egide-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143968,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-egide-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/519862b94d7c9cf4e35aa444b9cc42b53645a7f6b26c229569b9b62209ce8335/pre-treino-max-titanium-horus-ou-egide-egide-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/519862b94d7c9cf4e35aa444b9cc42b53645a7f6b26c229569b9b62209ce8335/pre-treino-max-titanium-horus-ou-egide-egide-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "519862b94d7c9cf4e35aa444b9cc42b53645a7f6b26c229569b9b62209ce8335",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-horus-300g.webp",
+      "local_url": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-horus-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50636,
+      "sha256": "63412bfa5f6d019f0a65c6c91105275511948332997472363dd094ef41162236",
+      "width": 900,
+      "height": 1023,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pre-treino-max-titanium-horus-ou-egide-horus-300g.webp",
+      "storage_filename": "pre-treino-max-titanium-horus-ou-egide-horus-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+          "line": 87,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-horus-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143961,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-horus-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/63412bfa5f6d019f0a65c6c91105275511948332997472363dd094ef41162236/pre-treino-max-titanium-horus-ou-egide-horus-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/63412bfa5f6d019f0a65c6c91105275511948332997472363dd094ef41162236/pre-treino-max-titanium-horus-ou-egide-horus-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "63412bfa5f6d019f0a65c6c91105275511948332997472363dd094ef41162236",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-night-train-300g.webp",
+      "local_url": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-night-train-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36064,
+      "sha256": "a25da94ba44f5c073e502aa34deef06476f3ab6034a6068434f600fc1ac150ec",
+      "width": 900,
+      "height": 1007,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pre-treino-max-titanium-horus-ou-egide-night-train-300g.webp",
+      "storage_filename": "pre-treino-max-titanium-horus-ou-egide-night-train-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+          "line": 193,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-night-train-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 144067,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-night-train-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a25da94ba44f5c073e502aa34deef06476f3ab6034a6068434f600fc1ac150ec/pre-treino-max-titanium-horus-ou-egide-night-train-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a25da94ba44f5c073e502aa34deef06476f3ab6034a6068434f600fc1ac150ec/pre-treino-max-titanium-horus-ou-egide-night-train-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "a25da94ba44f5c073e502aa34deef06476f3ab6034a6068434f600fc1ac150ec",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-egide-300g.webp",
+      "local_url": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-egide-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80596,
+      "sha256": "2f4a4be36ce48668a42c2dd0326c2ed4d88e5b2189725dc4374b78ad6020a651",
+      "width": 900,
+      "height": 890,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pre-treino-max-titanium-horus-ou-egide-tabela-egide-300g.webp",
+      "storage_filename": "pre-treino-max-titanium-horus-ou-egide-tabela-egide-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+          "line": 119,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-egide-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143993,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-egide-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2f4a4be36ce48668a42c2dd0326c2ed4d88e5b2189725dc4374b78ad6020a651/pre-treino-max-titanium-horus-ou-egide-tabela-egide-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2f4a4be36ce48668a42c2dd0326c2ed4d88e5b2189725dc4374b78ad6020a651/pre-treino-max-titanium-horus-ou-egide-tabela-egide-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "2f4a4be36ce48668a42c2dd0326c2ed4d88e5b2189725dc4374b78ad6020a651",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-horus-300g.webp",
+      "local_url": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-horus-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90244,
+      "sha256": "f4d94a5338d1376f278d792c0a12a7487bd5392dfac7d71900740492853d47e0",
+      "width": 900,
+      "height": 1060,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pre-treino-max-titanium-horus-ou-egide-tabela-horus-300g.webp",
+      "storage_filename": "pre-treino-max-titanium-horus-ou-egide-tabela-horus-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+          "line": 112,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-horus-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143986,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-horus-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f4d94a5338d1376f278d792c0a12a7487bd5392dfac7d71900740492853d47e0/pre-treino-max-titanium-horus-ou-egide-tabela-horus-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f4d94a5338d1376f278d792c0a12a7487bd5392dfac7d71900740492853d47e0/pre-treino-max-titanium-horus-ou-egide-tabela-horus-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "f4d94a5338d1376f278d792c0a12a7487bd5392dfac7d71900740492853d47e0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-night-train-300g.webp",
+      "local_url": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-night-train-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75506,
+      "sha256": "d0082cea1714f34d4cd753ef331b7d22ae3d17e2c6df14283452d409f755f80d",
+      "width": 900,
+      "height": 865,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pre-treino-max-titanium-horus-ou-egide-tabela-night-train-300g.webp",
+      "storage_filename": "pre-treino-max-titanium-horus-ou-egide-tabela-night-train-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+          "line": 200,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-night-train-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 144074,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-night-train-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d0082cea1714f34d4cd753ef331b7d22ae3d17e2c6df14283452d409f755f80d/pre-treino-max-titanium-horus-ou-egide-tabela-night-train-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d0082cea1714f34d4cd753ef331b7d22ae3d17e2c6df14283452d409f755f80d/pre-treino-max-titanium-horus-ou-egide-tabela-night-train-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "d0082cea1714f34d4cd753ef331b7d22ae3d17e2c6df14283452d409f755f80d",
       "verification_status": "verified"
     },
     {
@@ -77859,6 +80472,328 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa.webp",
+      "local_url": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120866,
+      "sha256": "d13b87dd2dfa364e5d14437e2f2ff7d35bf48e88398991f1cd8debf92b1c4c15",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-probiotica-qual-compensa-capa.webp",
+      "storage_filename": "creatina-probiotica-qual-compensa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-probiotica-qual-compensa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-probiotica-qual-compensa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143239,
+          "column": 15,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d13b87dd2dfa364e5d14437e2f2ff7d35bf48e88398991f1cd8debf92b1c4c15/creatina-probiotica-qual-compensa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d13b87dd2dfa364e5d14437e2f2ff7d35bf48e88398991f1cd8debf92b1c4c15/creatina-probiotica-qual-compensa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "d13b87dd2dfa364e5d14437e2f2ff7d35bf48e88398991f1cd8debf92b1c4c15",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/creatina-probiotica-qual-compensa-creapure-150g-frente.webp",
+      "local_url": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-creapure-150g-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36906,
+      "sha256": "2e5451f55a23a4e021bafc607e59ab0bd02ebc9630c6d16fafa8f5423f33340d",
+      "width": 762,
+      "height": 861,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-probiotica-qual-compensa-creapure-150g-frente.webp",
+      "storage_filename": "creatina-probiotica-qual-compensa-creapure-150g-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-probiotica-qual-compensa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-probiotica-qual-compensa.json",
+          "line": 143,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-creapure-150g-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143359,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-creapure-150g-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2e5451f55a23a4e021bafc607e59ab0bd02ebc9630c6d16fafa8f5423f33340d/creatina-probiotica-qual-compensa-creapure-150g-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2e5451f55a23a4e021bafc607e59ab0bd02ebc9630c6d16fafa8f5423f33340d/creatina-probiotica-qual-compensa-creapure-150g-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "2e5451f55a23a4e021bafc607e59ab0bd02ebc9630c6d16fafa8f5423f33340d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/creatina-probiotica-qual-compensa-pote-300g.webp",
+      "local_url": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-pote-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54452,
+      "sha256": "de7b55282e447b16b5aaae5e7a05099f2d6a3268e9d68d366e34a9c5e0052613",
+      "width": 783,
+      "height": 871,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-probiotica-qual-compensa-pote-300g.webp",
+      "storage_filename": "creatina-probiotica-qual-compensa-pote-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-probiotica-qual-compensa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-probiotica-qual-compensa.json",
+          "line": 103,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-pote-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143319,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-pote-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/de7b55282e447b16b5aaae5e7a05099f2d6a3268e9d68d366e34a9c5e0052613/creatina-probiotica-qual-compensa-pote-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/de7b55282e447b16b5aaae5e7a05099f2d6a3268e9d68d366e34a9c5e0052613/creatina-probiotica-qual-compensa-pote-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "de7b55282e447b16b5aaae5e7a05099f2d6a3268e9d68d366e34a9c5e0052613",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/creatina-probiotica-qual-compensa-pure-monster-150g.webp",
+      "local_url": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-pure-monster-150g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89546,
+      "sha256": "2aafafa2142a2d8f6d91fc3a9751e410f162ffb0a552e3619af154c757eaeea0",
+      "width": 900,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-probiotica-qual-compensa-pure-monster-150g.webp",
+      "storage_filename": "creatina-probiotica-qual-compensa-pure-monster-150g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-probiotica-qual-compensa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-probiotica-qual-compensa.json",
+          "line": 171,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-pure-monster-150g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143387,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-pure-monster-150g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2aafafa2142a2d8f6d91fc3a9751e410f162ffb0a552e3619af154c757eaeea0/creatina-probiotica-qual-compensa-pure-monster-150g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2aafafa2142a2d8f6d91fc3a9751e410f162ffb0a552e3619af154c757eaeea0/creatina-probiotica-qual-compensa-pure-monster-150g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "2aafafa2142a2d8f6d91fc3a9751e410f162ffb0a552e3619af154c757eaeea0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-100g.webp",
+      "local_url": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-100g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30770,
+      "sha256": "267f7d695b285add49cebb2a1b347820c1ac97bc6f9f3778b24e20f51ee449a7",
+      "width": 900,
+      "height": 350,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-probiotica-qual-compensa-tabela-100g.webp",
+      "storage_filename": "creatina-probiotica-qual-compensa-tabela-100g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-probiotica-qual-compensa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-probiotica-qual-compensa.json",
+          "line": 126,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-100g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143342,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-100g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/267f7d695b285add49cebb2a1b347820c1ac97bc6f9f3778b24e20f51ee449a7/creatina-probiotica-qual-compensa-tabela-100g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/267f7d695b285add49cebb2a1b347820c1ac97bc6f9f3778b24e20f51ee449a7/creatina-probiotica-qual-compensa-tabela-100g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "267f7d695b285add49cebb2a1b347820c1ac97bc6f9f3778b24e20f51ee449a7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-creapure-150g.webp",
+      "local_url": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-creapure-150g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31280,
+      "sha256": "63dc3c26d367b29c93aa1a4b870ce13989b3f5c5213830e133f98c6ef60666b6",
+      "width": 900,
+      "height": 350,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-probiotica-qual-compensa-tabela-creapure-150g.webp",
+      "storage_filename": "creatina-probiotica-qual-compensa-tabela-creapure-150g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-probiotica-qual-compensa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-probiotica-qual-compensa.json",
+          "line": 150,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-creapure-150g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143366,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-creapure-150g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/63dc3c26d367b29c93aa1a4b870ce13989b3f5c5213830e133f98c6ef60666b6/creatina-probiotica-qual-compensa-tabela-creapure-150g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/63dc3c26d367b29c93aa1a4b870ce13989b3f5c5213830e133f98c6ef60666b6/creatina-probiotica-qual-compensa-tabela-creapure-150g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "63dc3c26d367b29c93aa1a4b870ce13989b3f5c5213830e133f98c6ef60666b6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-pure-monster-150g.webp",
+      "local_url": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-pure-monster-150g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44966,
+      "sha256": "57271221f3be1761c003ca3706bb73db082c9bc10d724fd2f585a8c5858a72a7",
+      "width": 900,
+      "height": 471,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-probiotica-qual-compensa-tabela-pure-monster-150g.webp",
+      "storage_filename": "creatina-probiotica-qual-compensa-tabela-pure-monster-150g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-probiotica-qual-compensa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-probiotica-qual-compensa.json",
+          "line": 178,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-pure-monster-150g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143394,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-pure-monster-150g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/57271221f3be1761c003ca3706bb73db082c9bc10d724fd2f585a8c5858a72a7/creatina-probiotica-qual-compensa-tabela-pure-monster-150g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/57271221f3be1761c003ca3706bb73db082c9bc10d724fd2f585a8c5858a72a7/creatina-probiotica-qual-compensa-tabela-pure-monster-150g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "57271221f3be1761c003ca3706bb73db082c9bc10d724fd2f585a8c5858a72a7",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/probiotica/cupom-probiotica-capa-discover.webp",
       "local_url": "/images/reviews/probiotica/cupom-probiotica-capa-discover.webp",
       "media_kind": "image",
@@ -77884,6 +80819,236 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T04:02:59.960Z",
       "verification_etag_or_digest": "2af8b96db55681b47e8474a09f178e614c227b07e1be1cf757709e8bd83f3c06",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa.webp",
+      "local_url": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71796,
+      "sha256": "2df9c42b558f1e9fcb1676fd2283a0f1b44b4bdeb43466b5514122e76aa5134a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "monodose-probiotica-sache-ou-pote-capa.webp",
+      "storage_filename": "monodose-probiotica-sache-ou-pote-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/monodose-probiotica-sache-ou-pote.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/monodose-probiotica-sache-ou-pote.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143492,
+          "column": 15,
+          "literal": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2df9c42b558f1e9fcb1676fd2283a0f1b44b4bdeb43466b5514122e76aa5134a/monodose-probiotica-sache-ou-pote-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2df9c42b558f1e9fcb1676fd2283a0f1b44b4bdeb43466b5514122e76aa5134a/monodose-probiotica-sache-ou-pote-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "2df9c42b558f1e9fcb1676fd2283a0f1b44b4bdeb43466b5514122e76aa5134a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+      "local_url": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57706,
+      "sha256": "a526cd6ed04c6a1a68db109c032f84d774c86e416c05a2ce39308ada93d4630f",
+      "width": 900,
+      "height": 888,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+      "storage_filename": "monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/monodose-probiotica-sache-ou-pote.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/monodose-probiotica-sache-ou-pote.json",
+          "line": 42,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143511,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a526cd6ed04c6a1a68db109c032f84d774c86e416c05a2ce39308ada93d4630f/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a526cd6ed04c6a1a68db109c032f84d774c86e416c05a2ce39308ada93d4630f/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "a526cd6ed04c6a1a68db109c032f84d774c86e416c05a2ce39308ada93d4630f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-pote-300g.webp",
+      "local_url": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-pote-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54452,
+      "sha256": "de7b55282e447b16b5aaae5e7a05099f2d6a3268e9d68d366e34a9c5e0052613",
+      "width": 783,
+      "height": 871,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "monodose-probiotica-sache-ou-pote-pote-300g.webp",
+      "storage_filename": "monodose-probiotica-sache-ou-pote-pote-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/monodose-probiotica-sache-ou-pote.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/monodose-probiotica-sache-ou-pote.json",
+          "line": 132,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-pote-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143601,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-pote-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/de7b55282e447b16b5aaae5e7a05099f2d6a3268e9d68d366e34a9c5e0052613/monodose-probiotica-sache-ou-pote-pote-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/de7b55282e447b16b5aaae5e7a05099f2d6a3268e9d68d366e34a9c5e0052613/monodose-probiotica-sache-ou-pote-pote-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "de7b55282e447b16b5aaae5e7a05099f2d6a3268e9d68d366e34a9c5e0052613",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-300g.webp",
+      "local_url": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31218,
+      "sha256": "290af94023af980b416e46b55723911a9fdda943660fcff27e5dc20e29c08c47",
+      "width": 900,
+      "height": 572,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "monodose-probiotica-sache-ou-pote-tabela-300g.webp",
+      "storage_filename": "monodose-probiotica-sache-ou-pote-tabela-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/monodose-probiotica-sache-ou-pote.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/monodose-probiotica-sache-ou-pote.json",
+          "line": 115,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143584,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/290af94023af980b416e46b55723911a9fdda943660fcff27e5dc20e29c08c47/monodose-probiotica-sache-ou-pote-tabela-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/290af94023af980b416e46b55723911a9fdda943660fcff27e5dc20e29c08c47/monodose-probiotica-sache-ou-pote-tabela-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "290af94023af980b416e46b55723911a9fdda943660fcff27e5dc20e29c08c47",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
+      "local_url": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26724,
+      "sha256": "6c5f7800ccd8a15aab39aed681f66cd738d0fc98fe1d90ef0f45a1636c8ba4fd",
+      "width": 900,
+      "height": 523,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
+      "storage_filename": "monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/monodose-probiotica-sache-ou-pote.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/monodose-probiotica-sache-ou-pote.json",
+          "line": 97,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143566,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6c5f7800ccd8a15aab39aed681f66cd738d0fc98fe1d90ef0f45a1636c8ba4fd/monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6c5f7800ccd8a15aab39aed681f66cd738d0fc98fe1d90ef0f45a1636c8ba4fd/monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "6c5f7800ccd8a15aab39aed681f66cd738d0fc98fe1d90ef0f45a1636c8ba4fd",
       "verification_status": "verified"
     },
     {
@@ -78550,6 +81715,144 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T02:37:57.464Z",
       "verification_etag_or_digest": "c01faf5a1e2b7bcbccf20f4360f019d71daae30e213fd61f5ba7d36d9818aacf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-ou-integralmedica-capa.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-ou-integralmedica-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88072,
+      "sha256": "d913b6c2c9374ee32d2b15eb8e6bc29602b4b0c761b31df8b58fc74ecf3b5064",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-ou-integralmedica-capa.webp",
+      "storage_filename": "probiotica-ou-integralmedica-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-ou-integralmedica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-ou-integralmedica.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/probiotica-ou-integralmedica-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 142970,
+          "column": 15,
+          "literal": "/images/reviews/probiotica/probiotica-ou-integralmedica-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d913b6c2c9374ee32d2b15eb8e6bc29602b4b0c761b31df8b58fc74ecf3b5064/probiotica-ou-integralmedica-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d913b6c2c9374ee32d2b15eb8e6bc29602b4b0c761b31df8b58fc74ecf3b5064/probiotica-ou-integralmedica-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "d913b6c2c9374ee32d2b15eb8e6bc29602b4b0c761b31df8b58fc74ecf3b5064",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-ou-integralmedica-creatina-300g.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-ou-integralmedica-creatina-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54452,
+      "sha256": "de7b55282e447b16b5aaae5e7a05099f2d6a3268e9d68d366e34a9c5e0052613",
+      "width": 783,
+      "height": 871,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-ou-integralmedica-creatina-300g.webp",
+      "storage_filename": "probiotica-ou-integralmedica-creatina-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-ou-integralmedica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-ou-integralmedica.json",
+          "line": 57,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-ou-integralmedica-creatina-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143005,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/probiotica-ou-integralmedica-creatina-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/de7b55282e447b16b5aaae5e7a05099f2d6a3268e9d68d366e34a9c5e0052613/probiotica-ou-integralmedica-creatina-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/de7b55282e447b16b5aaae5e7a05099f2d6a3268e9d68d366e34a9c5e0052613/probiotica-ou-integralmedica-creatina-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "de7b55282e447b16b5aaae5e7a05099f2d6a3268e9d68d366e34a9c5e0052613",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-ou-integralmedica-whey-900g.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-ou-integralmedica-whey-900g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47708,
+      "sha256": "aecf8b4678222da763edde74b04a8bd90afec1cf3bb76001604d370241b80a5e",
+      "width": 545,
+      "height": 916,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-ou-integralmedica-whey-900g.webp",
+      "storage_filename": "probiotica-ou-integralmedica-whey-900g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-ou-integralmedica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-ou-integralmedica.json",
+          "line": 116,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-ou-integralmedica-whey-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143064,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/probiotica-ou-integralmedica-whey-900g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/aecf8b4678222da763edde74b04a8bd90afec1cf3bb76001604d370241b80a5e/probiotica-ou-integralmedica-whey-900g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/aecf8b4678222da763edde74b04a8bd90afec1cf3bb76001604d370241b80a5e/probiotica-ou-integralmedica-whey-900g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-29T02:03:56.501Z",
+      "verification_etag_or_digest": "aecf8b4678222da763edde74b04a8bd90afec1cf3bb76001604d370241b80a5e",
       "verification_status": "verified"
     },
     {

@@ -1,0 +1,293 @@
+{
+  "id": 681,
+  "slug": "vps-oder-shared-hosting",
+  "locale": "de",
+  "translationKey": "hostinger-vps-ou-compartilhada",
+  "title": "VPS oder Shared Hosting: was sich für Ihre Website bei Hostinger lohnt",
+  "seoTitle": "VPS oder Shared Hosting: was wählen",
+  "type": "Entscheidungshilfe",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redaktion und Analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Eine normale Website ist im Shared Hosting gut aufgehoben; der VPS lohnt sich nur mit eigenem System, reservierten Ressourcen oder Root. Übersicht nach Szenario, Daten der KVM-Tarife und Dollarpreise vom 28.10.2026 mit Verlängerung.",
+  "metaDescription": "VPS oder Shared Hosting bei Hostinger: was beides ist, Übersicht nach Szenario, Daten der KVM 1 bis 8, was bei der Wartung an Ihnen hängen bleibt und die Preise vom 28.10.2026 mit der Verlängerung daneben.",
+  "publishedAt": "28. Oktober 2026",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+  "imageAlt": "Hostinger-Logo mit den Symbolen einer normalen Website und eines Servers, einander gegenüber",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Kurze Antwort",
+      "paragraphs": [
+        "Für eine normale Website, einen Blog, ein Portfolio oder einen kleinen Shop reicht Shared Hosting, und es kostet weniger. Ein VPS lohnt sich nur, wenn die Website ein System braucht, das außerhalb des Panels installiert wird, reservierte CPU und Arbeitsspeicher oder Root-Zugriff. Die Verlängerung verändert die Rechnung; Preis und Fazit stehen weiter unten."
+      ]
+    },
+    {
+      "heading": "Was beides ist",
+      "paragraphs": [
+        "**Shared Hosting** ist ein Server, den sich mehrere Kunden teilen. Hostinger kümmert sich um das System, den Webserver und die Updates; Sie gehen ins Panel, installieren WordPress oder laden die Dateien Ihrer Website hoch, fertig. Bei Hostinger sind das die Tarife Premium und Unlimited sowie Cloud Startup, dieselbe Idee mit mehr Ressourcen.",
+        "**VPS** (Virtual Private Server) ist eine virtuelle Maschine nur für Sie, mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatz. Hostinger liefert die Maschine mit Betriebssystem und Root-Zugriff, dem Benutzer, der alles darf. Ab da sind Webserver, Datenbank, Zertifikat, Updates und Sicherheit Ihre Aufgabe. Bei Hostinger sind das die Tarife KVM 1, 2, 4 und 8.",
+        "Der Unterschied ist nicht „besser oder schlechter“. Es geht darum, wer den Server betreut und wie viele Ressourcen für Sie reserviert sind."
+      ]
+    },
+    {
+      "heading": "Was wählen, nach Szenario",
+      "paragraphs": [
+        "Bevor Sie auf den Preis schauen, beantworten Sie drei Fragen. Lautet die Antwort dreimal „Nein“, reicht Shared Hosting."
+      ],
+      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+      "imageAlt": "Übersicht mit drei Fragen: muss ein System außerhalb des Panels installiert werden, werden reservierte CPU und Arbeitsspeicher gebraucht, wird Root-Zugriff gebraucht; jedes Ja zeigt auf VPS, und dreimal Nein zeigt auf Shared Hosting",
+      "imageCaption": "Die drei Fragen, die zwischen Shared Hosting und VPS entscheiden. Eigene Übersicht nach den Hostinger-Seiten, gelesen am 28.10.2026.",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.7787,
+      "comparisonTable": {
+        "headers": [
+          "Szenario",
+          "Shared Hosting",
+          "VPS"
+        ],
+        "rows": [
+          [
+            "Blog, Portfolio oder Firmenwebsite in WordPress",
+            "Ja. Das ist der typische Einsatz des Tarifs",
+            "Nicht nötig"
+          ],
+          [
+            "Kleiner Shop in WordPress (WooCommerce)",
+            "Ja, mit Blick auf den Tarif: mehr Produkte und Besuche verlangen Premium oder Unlimited",
+            "Nur wenn der Shop stark wächst"
+          ],
+          [
+            "Website in Node.js",
+            "Ja. Der Tarif Premium führt Node.js auf, und diese Website läuft so",
+            "Nicht nötig"
+          ],
+          [
+            "Mehrere Websites oder geschäftliche E-Mails",
+            "Ja. Premium führt bis zu 3 Websites auf, und Unlimited enthält E-Mail",
+            "Nicht nötig"
+          ],
+          [
+            "Eigenes System mit Programm oder Datenbank, die nicht im Panel sind",
+            "Nein",
+            "Ja. Der klassische Fall für einen VPS"
+          ],
+          [
+            "Panel, Bot oder Automatisierung, die den ganzen Tag läuft (n8n, Docker)",
+            "Nein",
+            "Ja, mit Root und Docker"
+          ],
+          [
+            "Website mit schweren Plugins oder Besucherspitzen",
+            "Cloud Startup, bevor Sie an einen VPS denken",
+            "Ja, wenn Cloud nicht reicht"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Die Leistungen der Shared-Hosting-Tarife ändern sich mit den Aktionen. Prüfen Sie auf der Hostinger-Seite, was jeder Tarif enthält, bevor Sie buchen."
+      ]
+    },
+    {
+      "heading": "Die VPS-Tarife: KVM 1 bis 8",
+      "paragraphs": [
+        "Die vier KVM-Tarife unterscheiden sich nur in der Größe. Daten von der VPS-Seite von Hostinger, gelesen am 28.10.2026; Monatspreis des 24-Monats-Tarifs mit angewendetem Empfehlungslink, die Verlängerung daneben. Es sind die Dollarpreise der internationalen Website, aufgerufen über den Empfehlungslink; je nach Land und Währung können sie abweichen."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Tarif",
+          "vCPU",
+          "RAM",
+          "Speicher",
+          "Mit Empfehlung",
+          "Verlängerung"
+        ],
+        "rows": [
+          [
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "1",
+            "4 GB",
+            "50 GB",
+            "5,19 USD/Monat",
+            "11,99 USD/Monat"
+          ],
+          [
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "2",
+            "8 GB",
+            "100 GB",
+            "7,03 USD/Monat",
+            "14,99 USD/Monat"
+          ],
+          [
+            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "4",
+            "16 GB",
+            "200 GB",
+            "10,39 USD/Monat",
+            "28,99 USD/Monat"
+          ],
+          [
+            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "8",
+            "32 GB",
+            "400 GB",
+            "20,79 USD/Monat",
+            "49,99 USD/Monat"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Für eine normale Website, die einen VPS braucht, ist der KVM 1 der Einstieg: 4 GB RAM reichen für ein WordPress oder ein kleines System. Der KVM 2 kommt ins Spiel, wenn Sie mehr als ein Programm auf derselben Maschine betreiben. KVM 4 und 8 sind für größere Systeme, große Datenbanken oder mehrere Anwendungen.",
+        "Die durchgestrichenen Normalpreise auf der Seite liegen bei 19,49, 24,49, 42,99 und 73,99 USD pro Monat (Black-Friday-Aktion). Mit dem Link gelten die 20 % **nur im ersten Zeitraum** und **lassen sich nicht mit anderen Rabattcodes kombinieren**. Die Verlängerung ist in beiden Fällen gleich."
+      ]
+    },
+    {
+      "heading": "Wartung: was an Ihnen hängen bleibt",
+      "paragraphs": [
+        "Das ist der Teil, den der Preis nicht zeigt. Im Shared Hosting hält Hostinger Server und Panel in Schuss; Sie kümmern sich um Ihre Website (Theme, Plugins, Inhalte). Der Tarif Premium führt wöchentliche Backups auf, und Unlimited enthält bevorzugten Support.",
+        "Beim VPS sagt Hostinger auf der eigenen Seite, dass mit Root-Zugriff Konfiguration, Updates und Sicherheit des Servers beim Kunden liegen. In der Praxis wird daraus Ihre Liste:"
+      ],
+      "bullets": [
+        "**Installieren und einrichten**: Webserver, Datenbank und SSL-Zertifikat.",
+        "**Aktualisieren**: Betriebssystem und Programme, in regelmäßigen Abständen.",
+        "**Absichern**: Firewall, offene Ports, Passwörter und Zugangsschlüssel.",
+        "**Backups machen** und wissen, wie man sie zurückspielt.",
+        "**Eingreifen**, wenn die Website außerhalb der Geschäftszeiten ausfällt."
+      ],
+      "postParagraphs": [
+        "Wer noch nie ein Terminal geöffnet hat, zahlt dafür: entweder mit Lernzeit oder mit jemandem, der das übernimmt. Bei einer normalen Website ist dieser Aufwand meist größer als der Preisunterschied zwischen den Tarifen."
+      ]
+    },
+    {
+      "heading": "Preis und Verlängerung: die echte Rechnung",
+      "paragraphs": [
+        "Shared Hosting wird in 48-Monats-Tarifen verkauft, der VPS in 24 Monaten. Beide berechnen den gesamten Zeitraum auf einmal. Dollarpreise der internationalen Website, gelesen am 28.10.2026 mit angewendetem Empfehlungslink, die Verlängerung daneben:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Tarif",
+          "Mit Empfehlung",
+          "Gesamt für den Zeitraum",
+          "Verlängerung"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 Monate)",
+            "1,99 USD/Monat",
+            "95,52 USD",
+            "10,99 USD/Monat"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 Monate)",
+            "2,79 USD/Monat",
+            "133,92 USD",
+            "16,99 USD/Monat"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 Monate)",
+            "6,39 USD/Monat",
+            "306,72 USD",
+            "25,99 USD/Monat"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 Monate)",
+            "5,19 USD/Monat",
+            "124,56 USD",
+            "11,99 USD/Monat"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 Monate)",
+            "7,03 USD/Monat",
+            "168,72 USD",
+            "14,99 USD/Monat"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Zwei Punkte verändern die Rechnung. Erstens: Der VPS KVM 1 kostet schon im ersten Zeitraum mehr als das Zweieinhalbfache des Premium pro Monat (5,19 gegenüber 1,99 USD); bei der Verlängerung schrumpft der Abstand (11,99 gegenüber 10,99 USD). Zweitens: Beim VPS gilt der Aktionspreis 24 Monate, beim Shared Hosting 48. Über vier Jahre kostet Premium 95,52 USD; der KVM 1 kostet 124,56 USD im ersten Zeitraum plus 287,76 USD für die Verlängerung (24 × 11,99 USD), also 412,32 USD.",
+        "Die Verlängerung ist standardmäßig aktiviert. Lesen Sie vor dem Kauf, [wie Hostinger abrechnet und verlängert](/de/reviews/ist-hostinger-serioes), und den [Black Friday bei Hostinger](/de/reviews/hostinger-black-friday-angebote) für den Vergleich zwischen Aktion und Link. Premium führt eine kostenlose Domain im ersten Jahr auf, als Bestandteil des Tarifs. Die Preise ändern sich mit den Aktionen: Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen, und die Bedingungen auf der [Hostinger-Seite hier auf der Website](/de/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Wann der VPS für einen KI-Agenten sinnvoll ist",
+      "paragraphs": [
+        "Ein Fall, in dem der VPS oft ins Spiel kommt, ist keine Website: ein KI-Assistent, der den ganzen Tag läuft, etwa OpenClaw. Dort stellt sich die Frage anders, weil Hostinger für solche Assistenten auch einen verwalteten Tarif verkauft. Wenn das Ihr Fall ist, steht der Vergleich in [OpenClaw bei Hostinger: verwaltet oder VPS](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) und die Größenwahl in [welcher KVM für OpenClaw](/de/reviews/bester-vps-fuer-openclaw). Dieser Artikel bleibt beim Server für Websites."
+      ]
+    },
+    {
+      "heading": "Fazit: VPS oder Shared Hosting",
+      "paragraphs": [
+        "**Shared Hosting** für Blog, Portfolio, Firmenwebsite, kleinen Shop und Website in Node.js. Es ist im ersten Zeitraum und bei der Verlängerung günstiger, und die Serverwartung liegt bei Hostinger. Unter den Tarifen ist Premium der Einstieg; wächst die Website, dann Unlimited oder Cloud Startup, bevor Sie an einen VPS denken.",
+        "**VPS** für ein eigenes System, ein Programm oder eine Datenbank außerhalb des Panels, einen Bot oder ein Panel, das den ganzen Tag läuft, oder wenn Sie Root brauchen. Beginnen Sie mit dem KVM 1 und gehen Sie höher, wenn der Arbeitsspeicher knapp wird. Rechnen Sie die Zeit für die Serverpflege mit ein, oder die Kosten für jemanden, der das übernimmt.",
+        "**Im Zweifel Shared Hosting.** Ein VPS wird später nicht zu Shared Hosting, aber der umgekehrte Weg ist nur ein neuer Vertrag, wenn der Bedarf da ist."
+      ]
+    },
+    {
+      "heading": "Häufige Fragen",
+      "bullets": [
+        "Ist ein VPS schneller als Shared Hosting? Wir haben es nicht gemessen. Was der VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatz gehören Ihnen, während im Shared Hosting der Server geteilt wird. Bei einer normalen Website ist das selten der Engpass.",
+        "Kann ich mit Shared Hosting anfangen und später auf einen VPS wechseln? Ja. Es sind verschiedene Produkte: Sie buchen den VPS, richten den Server ein und ziehen mit der Website um. Shared Hosting lässt sich nicht im Panel in einen VPS umwandeln.",
+        "Muss ich Linux können, um einen VPS zu haben? Ja, die Grundlagen im Terminal: Programme installieren, das System aktualisieren und ein Log lesen. Im Shared Hosting läuft alles über das Panel, und ein Terminal ist nicht Pflicht.",
+        "Läuft WordPress auf einem VPS? Ja, aber Sie installieren und pflegen Webserver, PHP und Datenbank selbst. Im Shared Hosting liegt WordPress fertig im Panel, und Hostinger betreut den Server.",
+        "Was kostet der VPS von Hostinger? Am 28.10.2026 kostet der KVM 1 auf der internationalen Website 5,19 USD pro Monat mit dem Empfehlungslink, im 24-Monats-Tarif (124,56 USD insgesamt), und verlängert sich zu 11,99 USD pro Monat. Die 20 % gelten nur im ersten Zeitraum und lassen sich nicht mit anderen Rabattcodes kombinieren."
+      ]
+    },
+    {
+      "heading": "Wer schreibt",
+      "paragraphs": [
+        "Em Casa com Cecília läuft bei Hostinger im verwalteten Hosting, als Node.js Web App, und die Domain ist seit dem 17.11.2024 bei Hostinger registriert. Dieser Text enthält keinen VPS-Test: Er fasst zusammen, was die Hostinger-Seiten sagen, gelesen am 28.10.2026, und die Erfahrung der Website beschränkt sich auf das verwaltete Hosting."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Der Empfehlungscode steckt schon im Link: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen ab 12 Monaten, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
+    "label": "Die Tarife mit Empfehlungslink ansehen",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie. Wir haben keinen VPS getestet.",
+  "relatedArticles": [
+    {
+      "slug": "openclaw-hostinger-verwaltet-oder-vps",
+      "title": "OpenClaw bei Hostinger: verwaltet oder VPS? Preis, was jede Option verlangt und für wen sie passt"
+    },
+    {
+      "slug": "ist-hostinger-serioes",
+      "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+    },
+    {
+      "slug": "hostinger-black-friday-angebote",
+      "title": "Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?"
+    }
+  ]
+}

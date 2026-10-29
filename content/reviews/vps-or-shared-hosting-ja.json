@@ -1,0 +1,293 @@
+{
+  "id": 682,
+  "slug": "vps-or-shared-hosting-ja",
+  "locale": "ja",
+  "translationKey": "hostinger-vps-ou-compartilhada",
+  "title": "VPS か共有ホスティングか：Hostinger であなたのサイトに合うのはどちら",
+  "seoTitle": "VPS か共有ホスティングか：選び方",
+  "type": "選び方ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編集・分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "普通のサイトなら共有ホスティングで十分。VPS が必要なのは、独自のシステム、専用リソース、root 権限が要るときだけです。シナリオ別の表、KVM の仕様、2026年10月28日の米ドル建て料金と更新料。",
+  "metaDescription": "Hostinger の VPS と共有ホスティングの違い、シナリオ別の選び方、KVM 1〜8 の仕様、運用で自分が担う作業、2026年10月28日の料金と更新料をまとめました。",
+  "publishedAt": "2026年10月28日",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+  "imageAlt": "Hostinger のロゴと、向かい合う普通のサイトのアイコンとサーバーのアイコン",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "クイックアンサー",
+      "paragraphs": [
+        "ブログ、ポートフォリオ、小さなショップなど普通のサイトなら、共有ホスティングで足り、費用も安くすみます。VPS が割に合うのは、コントロールパネルの外にシステムを入れる必要があるとき、CPU とメモリを専用で確保したいとき、root 権限が要るときだけです。更新料の計算で選択が変わるので、下の料金と結論を見てください。"
+      ]
+    },
+    {
+      "heading": "それぞれの仕組み",
+      "paragraphs": [
+        "**共有ホスティング**は、一台のサーバーを複数の顧客で分け合う方式です。システム、ウェブサーバー、アップデートは Hostinger が面倒を見ます。あなたはパネルに入って WordPress を入れるか、サイトのファイルをアップロードするだけです。Hostinger では Premium と Unlimited のプラン、そして同じ考え方でリソースを増やした Cloud Startup がこれにあたります。",
+        "**VPS**（仮想専用サーバー）は、プロセッサー、メモリ、ディスクが専用に確保された、あなただけの仮想マシンです。Hostinger は OS と root 権限（何でもできるユーザー）付きでマシンを渡します。そこから先、ウェブサーバー、データベース、証明書の導入、アップデート、セキュリティはあなたの仕事です。Hostinger では KVM 1、2、4、8 のプランです。",
+        "違いは「どちらが優れているか」ではありません。誰がサーバーを管理するか、どれだけのリソースがあなた専用に確保されるか、です。"
+      ]
+    },
+    {
+      "heading": "シナリオ別の選び方",
+      "paragraphs": [
+        "料金を見る前に、三つの質問に答えてください。三つとも「いいえ」なら、共有ホスティングで解決します。"
+      ],
+      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
+      "imageAlt": "三つの質問の図：パネルの外にシステムを入れる必要があるか、CPU とメモリの専用確保が必要か、root 権限が必要か。「はい」は VPS へ、三つとも「いいえ」なら共有ホスティングへ",
+      "imageCaption": "共有ホスティングと VPS を分ける三つの質問。2026年10月28日に読んだ Hostinger のページをもとにした当サイト作成の図。",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.7787,
+      "comparisonTable": {
+        "headers": [
+          "シナリオ",
+          "共有ホスティング",
+          "VPS"
+        ],
+        "rows": [
+          [
+            "WordPress のブログ、ポートフォリオ、会社サイト",
+            "はい。プランの典型的な使い方",
+            "不要"
+          ],
+          [
+            "WordPress の小さなショップ（WooCommerce）",
+            "はい。ただしプランに注意：商品と訪問者が増えると Premium か Unlimited",
+            "ショップが大きく成長したときだけ"
+          ],
+          [
+            "Node.js のサイト",
+            "はい。Premium プランは Node.js を掲載しており、このサイトもその方式",
+            "不要"
+          ],
+          [
+            "複数のサイトやビジネス用メール",
+            "はい。Premium は最大 3 サイト、Unlimited はメールを含む",
+            "不要"
+          ],
+          [
+            "パネルにないプログラムやデータベースを使う独自システム",
+            "いいえ",
+            "はい。VPS の典型的なケース"
+          ],
+          [
+            "一日中動くパネル、ボット、自動化（n8n、Docker）",
+            "いいえ",
+            "はい。root と Docker で"
+          ],
+          [
+            "重いプラグインやアクセス集中のあるサイト",
+            "VPS を考える前に Cloud Startup",
+            "Cloud で足りなければ、はい"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "共有ホスティングの各プランの内容はキャンペーンごとに変わります。契約前に Hostinger のページで、それぞれに何が含まれるかを確認してください。"
+      ]
+    },
+    {
+      "heading": "VPS のプラン：KVM 1〜8",
+      "paragraphs": [
+        "四つの KVM プランの違いはサイズだけです。仕様は 2026年10月28日に Hostinger の VPS ページで確認したもの。料金は 24 か月プランの月額で、紹介リンク適用後、隣に更新料を並べました。国際サイトの米ドル建て料金で、紹介リンクから入って確認しています。国や通貨によって変わることがあります。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "プラン",
+          "vCPU",
+          "RAM",
+          "ディスク",
+          "紹介リンク適用",
+          "更新"
+        ],
+        "rows": [
+          [
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "1",
+            "4 GB",
+            "50 GB",
+            "月 US$ 5.19",
+            "月 US$ 11.99"
+          ],
+          [
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "2",
+            "8 GB",
+            "100 GB",
+            "月 US$ 7.03",
+            "月 US$ 14.99"
+          ],
+          [
+            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "4",
+            "16 GB",
+            "200 GB",
+            "月 US$ 10.39",
+            "月 US$ 28.99"
+          ],
+          [
+            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "8",
+            "32 GB",
+            "400 GB",
+            "月 US$ 20.79",
+            "月 US$ 49.99"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "VPS が必要な普通のサイトなら、出発点は KVM 1 です。4 GB の RAM があれば WordPress や小さなシステムは動きます。同じマシンで複数のプログラムを動かすなら KVM 2。KVM 4 と 8 は、大きなシステム、大きなデータベース、複数のアプリケーション向けです。",
+        "ページで取り消し線付きで示される通常価格は、月 US$ 19.49、US$ 24.49、US$ 42.99、US$ 73.99 です（ブラックフライデーのキャンペーン）。リンクの 20% は**最初の期間だけ**で、**ほかのクーポンとは併用できません**。更新料はどちらの場合も同じです。"
+      ]
+    },
+    {
+      "heading": "運用：自分が担う作業",
+      "paragraphs": [
+        "ここは料金には表れない部分です。共有ホスティングでは、サーバーとパネルは Hostinger が維持し、あなたは自分のサイト（テーマ、プラグイン、コンテンツ）を管理します。Premium プランには週次バックアップが掲載され、Unlimited には優先サポートが含まれます。",
+        "VPS については、Hostinger 自身がページで、root 権限がある以上、サーバーの設定、アップデート、セキュリティは契約者側の責任だと書いています。実際には、次があなたのリストになります："
+      ],
+      "bullets": [
+        "**インストールと設定**：ウェブサーバー、データベース、SSL 証明書。",
+        "**アップデート**：OS とプログラムを定期的に。",
+        "**保護**：ファイアウォール、開いているポート、パスワードとアクセスキー。",
+        "**バックアップ**を取り、復元の方法を知っておく。",
+        "**対応**：営業時間外にサイトが落ちたとき。"
+      ],
+      "postParagraphs": [
+        "ターミナルを開いたことがないなら、ここにコストがかかります。学ぶ時間か、代わりにやってくれる人への支払いです。普通のサイトでは、このコストがプラン間の料金差より大きくなるのが普通です。"
+      ]
+    },
+    {
+      "heading": "料金と更新：本当の計算",
+      "paragraphs": [
+        "共有ホスティングは 48 か月プラン、VPS は 24 か月プランで販売されています。どちらも期間全体の料金を一度に請求します。国際サイトの米ドル建て料金を 2026年10月28日に紹介リンク適用で確認し、隣に更新料を並べました："
+      ],
+      "comparisonTable": {
+        "headers": [
+          "プラン",
+          "紹介リンク適用",
+          "期間の合計",
+          "更新"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 か月）",
+            "月 US$ 1.99",
+            "US$ 95.52",
+            "月 US$ 10.99"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 か月）",
+            "月 US$ 2.79",
+            "US$ 133.92",
+            "月 US$ 16.99"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 か月）",
+            "月 US$ 6.39",
+            "US$ 306.72",
+            "月 US$ 25.99"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 か月）",
+            "月 US$ 5.19",
+            "US$ 124.56",
+            "月 US$ 11.99"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 か月）",
+            "月 US$ 7.03",
+            "US$ 168.72",
+            "月 US$ 14.99"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "計算を変える点が二つあります。一つ目：VPS の KVM 1 は最初の期間から月額で Premium の 2.5 倍以上です（US$ 5.19 対 US$ 1.99）。更新では差が縮まります（US$ 11.99 対 US$ 10.99）。二つ目：VPS のキャンペーン価格は 24 か月、共有ホスティングは 48 か月続きます。4 年間で見ると、Premium は US$ 95.52。KVM 1 は最初の期間の US$ 124.56 に更新の US$ 287.76（24 × US$ 11.99）を足して、US$ 412.32 です。",
+        "更新は初期設定で有効になっています。契約前に [Hostinger の請求と更新の仕組み](/ja/reviews/hostinger-trust-guide-ja) を、キャンペーンと紹介リンクの比較は [Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) を見てください。Premium にはプランの項目として初年度無料のドメインが掲載されています。料金はキャンペーンごとに変わるので、支払う前にカートで金額を確認し、条件はサイト内の [Hostinger のページ](/ja/coupons/hostinger) でご覧ください。"
+      ]
+    },
+    {
+      "heading": "AI エージェントに VPS が向くとき",
+      "paragraphs": [
+        "VPS がよく選ばれるケースの一つはサイトではなく、OpenClaw のように一日中動く AI アシスタントです。この場合は問いが変わります。Hostinger はこうしたアシスタント向けのマネージドプランも販売しているからです。該当するなら、比較は [Hostinger の OpenClaw：マネージドか VPS か](/ja/reviews/openclaw-hostinger-managed-or-vps-ja)、サイズ選びは [OpenClaw にはどの KVM か](/ja/reviews/best-vps-for-openclaw-ja) を見てください。この記事はサイト用サーバーの話に絞ります。"
+      ]
+    },
+    {
+      "heading": "結論：VPS か共有ホスティングか",
+      "paragraphs": [
+        "**共有ホスティング**は、ブログ、ポートフォリオ、会社サイト、小さなショップ、Node.js のサイトに。最初の期間も更新も安く、サーバーの運用は Hostinger が担います。プランは Premium が出発点。サイトが成長したら、VPS を考える前に Unlimited か Cloud Startup です。",
+        "**VPS** は、独自のシステム、パネルにないプログラムやデータベース、一日中動くボットやパネル、root 権限が必要なときに。KVM 1 から始めて、メモリが足りなければ上げてください。サーバーを維持する時間か、代わりにやってくれる人の費用を計算に入れること。",
+        "**迷ったら共有ホスティング。** VPS は後から共有ホスティングにはなりませんが、その逆は必要になったときに新しく契約するだけです。"
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "VPS は共有ホスティングより速いですか？ 測っていません。VPS が保証するのは専用リソースで、CPU、メモリ、ディスクがあなたのものになります。共有ホスティングではサーバーを分け合います。普通のサイトでは、そこがボトルネックになることはまれです。",
+        "共有ホスティングで始めて、後から VPS に移れますか？ 移れます。別の製品なので、VPS を契約し、サーバーを設定して、サイトを移します。共有ホスティングをパネルの中で VPS に変換することはできません。",
+        "VPS を持つには Linux の知識が必要ですか？ はい、ターミナルの基本が要ります。プログラムのインストール、システムの更新、ログの読み方です。共有ホスティングではすべてパネル経由で、ターミナルは必須ではありません。",
+        "VPS で WordPress は動きますか？ 動きますが、ウェブサーバー、PHP、データベースはあなたがインストールして維持します。共有ホスティングではパネルに WordPress が用意され、サーバーは Hostinger が管理します。",
+        "Hostinger の VPS はいくらですか？ 2026年10月28日の国際サイトでは、KVM 1 は紹介リンク適用で 24 か月プランが月 US$ 5.19（合計 US$ 124.56）、更新は月 US$ 11.99 です。20% は最初の期間だけで、ほかのクーポンとは併用できません。"
+      ]
+    },
+    {
+      "heading": "この記事を書いた人",
+      "paragraphs": [
+        "Em Casa com Cecília は Hostinger のマネージドホスティングで Node.js Web App として動いており、ドメインは 2024年11月17日から Hostinger に登録されています。この記事に VPS のテストは含まれていません。2026年10月28日に読んだ Hostinger のページの内容をまとめたもので、サイトとしての経験はマネージドホスティングに限られます。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "紹介コードはリンクに含まれています。20% は最初の期間のみ、12 か月以上のプランで有効で、ほかのクーポンとは併用できません。",
+    "label": "紹介リンクでプランを見る",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "紹介リンクからの購入で Bruno に Hostinger のクレジットが入ることがありますが、あなたに追加の費用はかかりません。VPS はテストしていません。",
+  "relatedArticles": [
+    {
+      "slug": "openclaw-hostinger-managed-or-vps-ja",
+      "title": "Hostinger の OpenClaw：マネージドか VPS か？料金、それぞれに必要なこと、向いている人"
+    },
+    {
+      "slug": "hostinger-trust-guide-ja",
+      "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+    },
+    {
+      "slug": "hostinger-black-friday-ja",
+      "title": "2026年 Hostinger ブラックフライデー：キャンペーンか紹介リンクか、安いのはどちら？"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": 684,
+  "slug": "vps-or-shared-hosting-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "hostinger-vps-ou-compartilhada",
+  "title": "VPS 还是共享主机：在 Hostinger 上哪种更适合你的网站",
+  "seoTitle": "VPS 还是共享主机：该选哪一种",
+  "type": "选择指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "编辑与分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "普通网站用共享主机就够了；只有需要自装系统、独享资源或 root 时才值得上 VPS。按场景的表格、KVM 规格，以及 2026年10月28日的价格和续费价。",
+  "metaDescription": "Hostinger 的 VPS 与共享主机：各是什么、按场景的表格、KVM 1 到 8 的规格、维护中哪些要你自己做，以及 2026年10月28日的美元价格和旁边的续费价。",
+  "publishedAt": "2026年10月28日",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+  "imageAlt": "Hostinger 标志，配上一个普通网站图标和一个服务器图标，两者相对",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "博客、作品集或小型网店这类普通网站，共享主机就够用，也更便宜。只有当网站需要在面板之外安装系统、需要独享的 CPU 和内存，或需要 root 权限时，VPS 才划算。续费的账会改变选择，请看下面的价格和结论。"
+      ]
+    },
+    {
+      "heading": "两者各是什么",
+      "paragraphs": [
+        "**共享主机**是一台服务器由多位客户分用。系统、Web 服务器和更新由 Hostinger 负责；你进入面板，安装 WordPress 或上传网站文件，就完成了。在 Hostinger，这是 Premium 和 Unlimited 套餐，还有 Cloud Startup，思路相同，资源更多。",
+        "**VPS**（虚拟专用服务器）是一台只属于你的虚拟机，处理器、内存和硬盘都是预留的。Hostinger 交付的是带操作系统和 root 权限（什么都能做的用户）的机器。从那以后，安装 Web 服务器、数据库、证书，做更新和安全，都是你的事。在 Hostinger，这是 KVM 1、2、4 和 8 套餐。",
+        "区别不在于“谁更好”，而在于谁来照看服务器，以及有多少资源是专门留给你的。"
+      ]
+    },
+    {
+      "heading": "按场景选择",
+      "paragraphs": [
+        "看价格之前，先回答三个问题。如果三个都是“否”，共享主机就够了。"
+      ],
+      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+      "imageAlt": "三个问题的图：是否需要在面板之外安装系统、是否需要独享的 CPU 和内存、是否需要 root 权限；每个“是”都指向 VPS，三个“否”指向共享主机",
+      "imageCaption": "决定共享主机还是 VPS 的三个问题。我们自制的图，依据 2026年10月28日读取的 Hostinger 页面。",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.7787,
+      "comparisonTable": {
+        "headers": [
+          "场景",
+          "共享主机",
+          "VPS"
+        ],
+        "rows": [
+          [
+            "用 WordPress 做的博客、作品集或公司网站",
+            "可以。这是套餐的典型用途",
+            "不需要"
+          ],
+          [
+            "WordPress 小型网店（WooCommerce）",
+            "可以，但要留意套餐：商品和访问多了要用 Premium 或 Unlimited",
+            "只有店铺做大很多时才需要"
+          ],
+          [
+            "Node.js 网站",
+            "可以。Premium 套餐列有 Node.js，本站就是这样运行的",
+            "不需要"
+          ],
+          [
+            "多个网站或企业邮箱",
+            "可以。Premium 列有最多 3 个网站，Unlimited 含邮箱",
+            "不需要"
+          ],
+          [
+            "自有系统，用到面板里没有的程序或数据库",
+            "不行",
+            "可以。这是 VPS 的典型场景"
+          ],
+          [
+            "整天运行的面板、机器人或自动化（n8n、Docker）",
+            "不行",
+            "可以，有 root 和 Docker"
+          ],
+          [
+            "插件很重或访问有高峰的网站",
+            "先用 Cloud Startup，再考虑 VPS",
+            "可以，如果 Cloud 不够用"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "各个共享主机套餐的内容会随活动变化。下单前请到 Hostinger 页面确认每个套餐包含什么。"
+      ]
+    },
+    {
+      "heading": "VPS 套餐：KVM 1 到 KVM 8",
+      "paragraphs": [
+        "四个 KVM 套餐只是大小不同。规格于 2026年10月28日从 Hostinger 的 VPS 页面读取；价格是 24 个月套餐、套用推荐链接后的月费，续费价列在旁边。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "套餐",
+          "vCPU",
+          "RAM",
+          "硬盘",
+          "含推荐链接",
+          "续费"
+        ],
+        "rows": [
+          [
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "1",
+            "4 GB",
+            "50 GB",
+            "US$ 5.19/月",
+            "US$ 11.99/月"
+          ],
+          [
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "2",
+            "8 GB",
+            "100 GB",
+            "US$ 7.03/月",
+            "US$ 14.99/月"
+          ],
+          [
+            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "4",
+            "16 GB",
+            "200 GB",
+            "US$ 10.39/月",
+            "US$ 28.99/月"
+          ],
+          [
+            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "8",
+            "32 GB",
+            "400 GB",
+            "US$ 20.79/月",
+            "US$ 49.99/月"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "普通网站如果确实需要 VPS，KVM 1 是起点：4 GB 内存够跑一个 WordPress 或一个小系统。要在同一台机器上跑不止一个程序时，才用到 KVM 2。KVM 4 和 KVM 8 面向更大的系统、大数据库或多个应用。",
+        "这些是通过推荐链接进入 Hostinger 国际站看到的美元价格（2026年10月28日，黑色星期五活动期间）。不同国家和货币可能不同，付款前请到购物车确认。链接的 20% **只适用于首期**，**不能与其他优惠券叠加**。续费价用不用链接都一样。"
+      ]
+    },
+    {
+      "heading": "维护：哪些要你自己做",
+      "paragraphs": [
+        "这是价格表看不出来的部分。共享主机上，Hostinger 维护服务器和面板，你只管自己的网站（主题、插件、内容）。Premium 套餐列有每周备份，Unlimited 含优先支持。",
+        "VPS 上，Hostinger 在自己的页面上就说明：有了 root 权限，服务器的配置、更新和安全都由购买者负责。实际上，它会变成你的一张清单："
+      ],
+      "bullets": [
+        "**安装和配置** Web 服务器、数据库和 SSL 证书。",
+        "**更新**操作系统和各种程序，隔一段时间一次。",
+        "**防护**：防火墙、开放的端口、密码和访问密钥。",
+        "**做备份**，并且知道怎么恢复。",
+        "**处理故障**，包括网站在非工作时间宕机的时候。"
+      ],
+      "postParagraphs": [
+        "如果你从没打开过终端，这是有成本的：要么是学习的时间，要么是请人代劳的钱。对普通网站来说，这笔成本往往比两种套餐的差价还大。"
+      ]
+    },
+    {
+      "heading": "价格与续费：真正的账",
+      "paragraphs": [
+        "共享主机按 48 个月套餐出售，VPS 按 24 个月。两者都是整个周期一次付清。2026年10月28日套用推荐链接读取的美元价格，续费价在旁边："
+      ],
+      "comparisonTable": {
+        "headers": [
+          "套餐",
+          "含推荐链接",
+          "周期总额",
+          "续费"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 个月）",
+            "US$ 1.99/月",
+            "US$ 95.52",
+            "US$ 10.99/月"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 个月）",
+            "US$ 2.79/月",
+            "US$ 133.92",
+            "US$ 16.99/月"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 个月）",
+            "US$ 6.39/月",
+            "US$ 306.72",
+            "US$ 25.99/月"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 个月）",
+            "US$ 5.19/月",
+            "US$ 124.56",
+            "US$ 11.99/月"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 个月）",
+            "US$ 7.03/月",
+            "US$ 168.72",
+            "US$ 14.99/月"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "有两点会改变这笔账。第一，VPS KVM 1 从首期起每月就是 Premium 的两倍半以上（US$ 5.19 对 US$ 1.99）；到了续费两者几乎持平（US$ 11.99 对 US$ 10.99），VPS 仍然略贵。第二，VPS 的优惠价持续 24 个月，共享主机则是 48 个月。按四年算，Premium 是 US$ 95.52；KVM 1 是首期 US$ 124.56 加上续费 US$ 287.76（24 × US$ 11.99），合计 US$ 412.32。",
+        "续费默认开启。下单前先看[Hostinger 如何收费和续费](/zh-hans/reviews/hostinger-trust-guide-zh-hans)，活动与推荐链接的对比看[Hostinger 黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)。Premium 把首年免费域名列为套餐项目。价格随活动变动：付款前请核对购物车里的金额，条件请看[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
+      ]
+    },
+    {
+      "heading": "什么时候 VPS 适合 AI 代理",
+      "paragraphs": [
+        "VPS 经常出现的另一种情况不是网站，而是整天运行的 AI 助理，比如 OpenClaw。这时问题就变了，因为 Hostinger 也为这类助理出售托管套餐。如果你是这种情况，对比在[OpenClaw 在 Hostinger：托管还是 VPS](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)，选大小则看[OpenClaw 该选哪个 KVM](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)。本文只谈网站用的服务器。"
+      ]
+    },
+    {
+      "heading": "结论：VPS 还是共享主机",
+      "paragraphs": [
+        "**共享主机**适合博客、作品集、公司网站、小型网店和 Node.js 网站。首期便宜得多，续费也略低，而且服务器维护由 Hostinger 负责。套餐里 Premium 是起点；网站长大了，先升到 Unlimited 或 Cloud Startup，再考虑 VPS。",
+        "**VPS** 适合自有系统、面板里没有的程序或数据库、整天运行的机器人或面板，或者你需要 root 的时候。从 KVM 1 开始，内存不够再升。把维护服务器的时间，或者请人代劳的费用，也算进账里。",
+        "**拿不准，就选共享主机。** VPS 以后不能变成共享主机，反过来则只是在需要时再签一份新合同。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "VPS 比共享主机快吗？我们没有测过。VPS 保证的是预留资源：CPU、内存和硬盘都是你的，而共享主机上服务器是分用的。对普通网站来说，这很少成为瓶颈。",
+        "可以先用共享主机，以后再迁到 VPS 吗？可以。两者是不同的产品：你购买 VPS，装好服务器，再把网站搬过去。共享主机不能在面板里直接转成 VPS。",
+        "用 VPS 需要懂 Linux 吗？需要，至少是终端的基础：安装程序、更新系统、看日志。共享主机上一切都在面板里，终端不是必需的。",
+        "VPS 能跑 WordPress 吗？能，但 Web 服务器、PHP 和数据库要你自己安装和维护。共享主机上 WordPress 在面板里现成可用，服务器由 Hostinger 照看。",
+        "Hostinger 的 VPS 多少钱？2026年10月28日，KVM 1 用推荐链接、24 个月套餐是 US$ 5.19/月，续费 US$ 11.99/月。20% 只适用于首期，不能与其他优惠券叠加。"
+      ]
+    },
+    {
+      "heading": "谁在写这篇文章",
+      "paragraphs": [
+        "Em Casa com Cecília 以 Node.js Web App 的形式运行在 Hostinger 的托管主机上，域名自 2024年11月17日起注册在 Hostinger。本文没有 VPS 的测试：它整理的是 2026年10月28日读取的 Hostinger 页面所说的内容，本站的经验仅限于托管主机。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "推荐代码已经包含在链接里：20% 折扣只适用于首期和 12 个月以上的套餐，不能与其他优惠券叠加。",
+    "label": "用推荐链接查看套餐",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "通过推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，你不用多付任何费用。我们没有测试 VPS。",
+  "relatedArticles": [
+    {
+      "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
+      "title": "OpenClaw 在 Hostinger：托管还是 VPS？价格、各自要做什么，以及适合谁"
+    },
+    {
+      "slug": "hostinger-trust-guide-zh-hans",
+      "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+    },
+    {
+      "slug": "hostinger-black-friday-zh-hans",
+      "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？"
+    }
+  ]
+}

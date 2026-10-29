@@ -1,0 +1,300 @@
+{
+  "id": 656,
+  "slug": "hostinger-horizons-vale-a-pena",
+  "locale": "pt",
+  "translationKey": "hostinger-ai-builder",
+  "title": "Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress?",
+  "seoTitle": "Hostinger Horizons vale a pena? Site sem programar",
+  "type": "Guia de Escolha",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "O Criador com IA da Hostinger, o antigo Horizons, serve para site ou app simples sem programar; quem quer plugins e controle fica no WordPress. Preços de 28/10/2026, com a renovação.",
+  "metaDescription": "Hostinger Horizons virou o Criador com IA. Vale a pena ou WordPress? Quadro por tipo de projeto, comparação com Wix e Lovable, créditos de IA, preço e renovação em 28/10/2026.",
+  "publishedAt": "28 de outubro de 2026",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+  "imageAlt": "Logo da Hostinger e o Criador com IA, o antigo Horizons, frente a frente com o WordPress",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O Criador com IA da Hostinger, o antigo Horizons, vale a pena para quem quer um site ou um app web simples sem programar e aceita que a IA monte a primeira versão. Quem precisa de plugins, tema próprio e controle total segue melhor no WordPress. O que decide é o tipo de projeto; o quadro está abaixo."
+      ]
+    },
+    {
+      "heading": "O que é o Criador com IA (o antigo Horizons)",
+      "paragraphs": [
+        "O Horizons era o construtor de sites e apps com IA da Hostinger. Em 2026 ele se fundiu com o construtor de sites tradicional e virou o Criador com IA (Hostinger AI Builder): o endereço antigo redireciona para a página nova, e a página brasileira nem usa mais o nome Horizons. As buscas ainda usam, por isso o nome aparece aqui.",
+        "A página diz que ele cria sites e aplicativos web a partir de uma descrição em texto, sem conhecimento técnico, em dois modos:"
+      ],
+      "bullets": [
+        "**Edição sem IA (o modo Manual):** você começa com um site gerado pela IA ou com um dos modelos e edita arrastando e soltando. Não consome créditos de IA.",
+        "**Edição com IA (o modo Agentic):** você descreve o que quer no chat e a IA desenha e programa. Cada ação consome créditos de IA, e dá para recarregar."
+      ],
+      "postParagraphs": [
+        "O que sai de lá é um site ou um aplicativo web, não um app para a App Store ou o Google Play: a própria página diz isso. A hospedagem, o domínio e o e-mail vêm no plano, e o código-fonte pode ser exportado para hospedar em outro lugar. Tudo isso é a descrição da Hostinger, lida em 28/10/2026, não um teste nosso.",
+        "Não confunda com os agentes de automação da Hostinger, como o OpenClaw e o Hermes Agent: aqueles são [assistentes que rodam num servidor](/reviews/openclaw-ou-hermes-agent) e respondem no Telegram ou no WhatsApp. O Criador com IA constrói o site."
+      ]
+    },
+    {
+      "heading": "Para qual projeto ele serve: o quadro",
+      "paragraphs": [
+        "A pergunta certa não é \"a IA é boa?\", e sim \"o que eu vou construir e quem vai mexer nisso depois?\". O quadro resume a escolha por tipo de projeto, pelo que a página do Criador com IA e a documentação do WordPress dizem em 28/10/2026:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Projeto",
+          "Melhor opção",
+          "Por quê"
+        ],
+        "rows": [
+          [
+            "Cardápio, restaurante ou página de serviços",
+            "Criador com IA",
+            "Poucas páginas, texto e fotos. A IA monta, e o modo sem IA não gasta créditos para ajustar."
+          ],
+          [
+            "Portfólio ou currículo",
+            "Criador com IA",
+            "A galeria tem modelos prontos para isso, e o plano Premium já basta."
+          ],
+          [
+            "Loja pequena, com poucos produtos",
+            "Criador com IA (plano Unlimited) ou WordPress com WooCommerce",
+            "O Criador tem loja virtual integrada; o WooCommerce dá mais controle de frete e pagamento, mas pede configuração."
+          ],
+          [
+            "Blog que depende de plugins (SEO, formulários, área de membros)",
+            "WordPress",
+            "O catálogo de plugins e temas é do WordPress; no Criador, cada função nova é a IA que faz."
+          ],
+          [
+            "App web: agendamento, portal de clientes, CRM simples",
+            "Criador com IA (modo com IA)",
+            "A página promete back-end, login e banco de dados integrados. No WordPress isso vira plugins e um desenvolvedor."
+          ],
+          [
+            "Projeto que outra pessoa ou agência vai manter",
+            "WordPress",
+            "É o padrão do mercado: qualquer profissional sabe mexer."
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-pt.webp",
+        "alt": "Quadro Criador com IA ou WordPress por tipo de projeto: cardápio ou página de serviços, portfólio e app web ficam com o Criador com IA; blog que depende de plugins e projeto que outra pessoa vai manter ficam com o WordPress; loja pequena serve nos dois",
+        "caption": "O resumo do quadro: o Criador com IA para site simples, portfólio e app web; o WordPress para plugins e para quem vai passar o site adiante. Quadro do Em Casa com Cecília, pelo que as páginas dizem em 28/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.2346
+      },
+      "postParagraphs": [
+        "Se o seu projeto está em duas linhas, comece pelo Criador com IA: ele tem teste grátis, sem cartão, com 5 créditos de IA. Se o que você precisa já tem nome de plugin, vá de WordPress."
+      ]
+    },
+    {
+      "heading": "Criador com IA ou WordPress",
+      "paragraphs": [
+        "O preço não decide: na Hostinger, o Criador com IA vem nos planos de hospedagem, os mesmos que rodam WordPress, pelos mesmos valores. O que muda é quem faz o trabalho e o que você controla."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "",
+          "Criador com IA",
+          "WordPress"
+        ],
+        "rows": [
+          [
+            "Quem monta o site",
+            "A IA, a partir da sua descrição, ou você no editor visual",
+            "Você, com um tema, ou um profissional"
+          ],
+          [
+            "Funções novas",
+            "Pedidas no chat; consomem créditos de IA",
+            "Plugins, milhares deles, gratuitos ou pagos"
+          ],
+          [
+            "Tema e aparência",
+            "Modelos da Hostinger e ajustes pela IA ou pelo editor",
+            "Qualquer tema, inclusive feito sob medida"
+          ],
+          [
+            "Quem corrige um erro",
+            "Você, pedindo à IA, ou o suporte da Hostinger",
+            "Você, o autor do plugin ou um desenvolvedor"
+          ],
+          [
+            "Levar para outro lugar",
+            "A página diz que o código pode ser exportado; o back-end integrado fica na Hostinger",
+            "Site inteiro vai para qualquer hospedagem"
+          ],
+          [
+            "Loja virtual",
+            "Integrada nos planos Unlimited e Cloud Startup",
+            "WooCommerce, grátis, com extensões pagas"
+          ],
+          [
+            "Manutenção",
+            "A Hostinger cuida da plataforma",
+            "Atualizar WordPress, tema e plugins é com você"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "**O WordPress ganha** quando o projeto depende de um plugin específico, de um tema que você já tem, ou de alguém que vai manter o site depois. Ele é software livre: o site inteiro é seu e vai para qualquer hospedagem sem retrabalho.",
+        "**O Criador com IA ganha** quando você não quer instalar nem atualizar nada e quer um app web com login e dados, o que no WordPress vira uma pilha de plugins. A ressalva que muda a decisão: no modo com IA, cada mudança gasta créditos. Pela página, uma página institucional simples consome de 5 a 10 créditos, e um app mais complexo, 15 ou mais. Quem mexe no site toda semana precisa fazer as contas; quem monta uma vez e edita texto e foto no editor, sem prompt, não gasta."
+      ]
+    },
+    {
+      "heading": "Criador com IA ou Wix (e Lovable)",
+      "paragraphs": [
+        "O Wix é o construtor de arrastar e soltar tradicional, com hospedagem própria. Ele tem plano grátis num endereço da Wix, e domínio próprio pede plano pago. Se você quer um editor visual puro, o Wix cumpre. Se o que pesa é poder levar o projeto embora depois, compare pelo que cada página garante: a do Criador com IA diz que o código pode ser exportado, e o WordPress é software livre e vai para qualquer hospedagem.",
+        "O Lovable é outra ferramenta de vibe coding, a mesma ideia do modo com IA do Criador: você descreve, a IA programa. A diferença está no pacote. O Lovable cobra por créditos, por mensagem, e tem plano grátis com poucos créditos por dia; é a ferramenta de criar, e domínio e e-mail você resolve à parte. Na Hostinger, hospedagem, domínio e e-mail vêm no mesmo plano, e o modo sem IA não gasta crédito. Para quem já programa e quer só a IA, o Lovable é comparável; para quem quer tudo num lugar só, a Hostinger."
+      ]
+    },
+    {
+      "heading": "Preço e renovação em 28/10/2026",
+      "paragraphs": [
+        "O Criador com IA não tem plano próprio: ele vem nos planos de hospedagem de sites, de 48 meses, pagos de uma vez ou em até 12 parcelas. Os preços abaixo são da página brasileira, lidos em 28/10/2026, na campanha de Black Friday. A coluna \"com a indicação\" é o preço que a página mostra com o código de indicação aplicado:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Plano",
+          "Sem a indicação",
+          "Com a indicação",
+          "Renovação",
+          "Créditos de IA"
+        ],
+        "rows": [
+          [
+            "[Premium (até 3 sites)](https://www.hostinger.com/br/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "R$ 9,99/mês",
+            "R$ 7,99/mês",
+            "R$ 38,99/mês",
+            "250 (500 na Black Friday)"
+          ],
+          [
+            "[Unlimited (sites ilimitados, com loja virtual)](https://www.hostinger.com/br/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "R$ 12,99/mês",
+            "R$ 10,39/mês",
+            "R$ 64,99/mês",
+            "500 (1.000 na Black Friday)"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/br/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "R$ 39,99/mês",
+            "R$ 31,99/mês",
+            "R$ 129,99/mês",
+            "1.000 (2.000 na Black Friday)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O preço por mês é o total dividido por 48. Na prática:"
+      ],
+      "bullets": [
+        "**Premium, com a indicação:** 48 × R$ 7,99 = **R$ 383,52**. Sem a indicação: R$ 479,52. **Renovação, nos 48 meses seguintes:** 48 × R$ 38,99 = R$ 1.871,52.",
+        "**Unlimited, com a indicação:** 48 × R$ 10,39 = **R$ 498,72**. Sem a indicação: R$ 623,52. **Renovação:** 48 × R$ 64,99 = R$ 3.119,52.",
+        "**Créditos de IA são presente único**, não mensal. Acabaram, é recarga, e o preço da recarga não aparece na página: confira no painel antes de contar com ele."
+      ],
+      "emphasis": "A renovação custa de 4 a 6 vezes o preço promocional. Olhe a coluna da renovação antes de escolher o plano."
+    },
+    {
+      "heading": "O que conferir antes de pagar",
+      "bullets": [
+        "**Os créditos.** O modo com IA gasta créditos a cada pedido, e o saldo do plano não renova todo mês. Monte o site pela IA e faça os ajustes de texto e foto no editor, que não gasta.",
+        "**O que acontece se você não renovar.** A página avisa: plano vencido e não renovado tira o projeto do ar e apaga os dados. Exporte o código antes de deixar vencer.",
+        "**Domínio e e-mail grátis só no primeiro ano.** Depois, o domínio renova pelo preço de tabela da Hostinger, lido em 28/10/2026: .com.br R$ 64,99 por ano e .com R$ 94,99 por ano.",
+        "**Reembolso em 30 dias**, desde que você tenha consumido menos de 30 créditos de IA.",
+        "**Loja virtual** é item dos planos Unlimited e Cloud Startup; no Unlimited, a página de 28/10/2026 diz grátis por 3 meses. Confira no checkout o que custa depois.",
+        "**App nativo não existe.** O que o Criador faz é um app web responsivo, que abre no navegador do celular. Para a App Store e o Google Play, é outro caminho."
+      ],
+      "postParagraphs": [
+        "Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "Indicação e preço com o link",
+      "paragraphs": [
+        "O link de indicação já aplica o desconto: não há código para digitar. São **20% só no primeiro período**, em planos de 12 meses ou mais, e o desconto **não soma com outros cupons**. A renovação sai pelo preço normal. Na página do Criador com IA, em 28/10/2026, os planos apareciam com a indicação aplicada, com os preços da coluna \"com a indicação\" acima. A regra completa e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger).",
+        "A Hostinger está em campanha de Black Friday, sem data de fim na página, e os preços e os créditos em dobro podem mudar. Confira o valor no carrinho antes de pagar."
+      ]
+    },
+    {
+      "heading": "Vale a pena? O veredito",
+      "paragraphs": [
+        "**Vale a pena** para quem quer um site de poucas páginas, um portfólio, uma loja pequena ou um app web simples e não quer programar nem cuidar de plugin. A primeira versão sai da descrição, e o modo sem IA deixa ajustar sem gastar crédito. Comece pelo teste grátis; se o resultado servir, o plano Premium cobre site simples e o Unlimited, loja.",
+        "**Fique no WordPress** se o projeto depende de plugins, de um tema seu, de alguém que vai manter o site, ou se você quer levar tudo para outra hospedagem sem retrabalho. O plano da Hostinger é o mesmo nos dois casos, então a escolha é só de ferramenta.",
+        "**Na dúvida, teste o Criador com IA antes de pagar.** São 5 créditos grátis, sem cartão, o bastante para ver se a IA entende o que você quer. Se não entender, o WordPress continua lá."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "O Hostinger Horizons ainda existe? Existe com outro nome. Em 2026 o Horizons se fundiu com o construtor de sites da Hostinger e virou o Criador com IA (Hostinger AI Builder), com um modo de arrastar e soltar e um modo de criar pelo chat. O endereço antigo redireciona para a página nova.",
+        "O Criador com IA da Hostinger faz o site sozinho? Ele monta a primeira versão a partir da sua descrição, segundo a página. O conteúdo, as fotos e as decisões de negócio continuam sendo seus, e cada pedido no modo com IA consome créditos.",
+        "Precisa saber programar para usar o Criador com IA? Não. A página diz que não exige conhecimento técnico nos dois modos. Quem sabe programar tem um editor de código no modo com IA.",
+        "Dá para migrar do Criador com IA para outra hospedagem? A página diz que o código-fonte pode ser exportado e hospedado em outro lugar. O back-end integrado, com banco e login, fica na Hostinger, então um app precisa de reconfiguração fora dela.",
+        "O Criador com IA vale para loja virtual? Para loja pequena, sim: a loja virtual é item dos planos Unlimited e Cloud Startup. Para loja grande, com regras de frete e pagamento, o WordPress com WooCommerce dá mais controle.",
+        "Quanto custa o Horizons da Hostinger em 2026? O Criador com IA vem nos planos de hospedagem. Em 28/10/2026, o Premium custava R$ 7,99/mês com a indicação (R$ 9,99 sem) em 48 meses e renova a R$ 38,99/mês; o Unlimited, R$ 10,39/mês (R$ 12,99 sem) e renova a R$ 64,99/mês.",
+        "Tem cupom para o Criador com IA da Hostinger? Não há código para digitar. O desconto de 20% vem pelo link de indicação, só no primeiro período e em planos de 12 meses ou mais, e não soma com outros cupons."
+      ]
+    },
+    {
+      "heading": "Quem escreve",
+      "paragraphs": [
+        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde novembro de 2024. Ninguém da equipe usou o Criador com IA nem o Horizons: este texto reúne o que a página brasileira do produto, a documentação do WordPress e as páginas públicas do Wix e do Lovable dizem, lidas em 28/10/2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "O código de indicação já vai no link: os 20% valem só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons.",
+    "label": "Ver os planos com o link de indicação",
+    "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Compras pelo link de indicação podem gerar crédito na Hostinger para o Bruno, sem custo extra para você. Ninguém da equipe usou o Criador com IA.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-hostinger-indicacao",
+      "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+    },
+    {
+      "slug": "hostinger-e-confiavel",
+      "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+    },
+    {
+      "slug": "black-friday-hostinger",
+      "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": 685,
+  "slug": "vps-or-shared-hosting-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "hostinger-vps-ou-compartilhada",
+  "title": "VPS 還是共享主機：在 Hostinger 上哪種更適合你的網站",
+  "seoTitle": "VPS 還是共享主機：該選哪一種",
+  "type": "選擇指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編輯與分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "一般網站用共享主機就夠了；只有需要自行安裝系統、獨享資源或 root 時才值得上 VPS。依情境的表格、KVM 規格，以及 2026年10月28日的價格與續訂價。",
+  "metaDescription": "Hostinger 的 VPS 與共享主機：各是什麼、依情境的表格、KVM 1 到 8 的規格、維護中哪些要你自己做，以及 2026年10月28日的美元價格與旁邊的續訂價。",
+  "publishedAt": "2026年10月28日",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+  "imageAlt": "Hostinger 標誌，配上一個一般網站圖示與一個伺服器圖示，兩者相對",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "部落格、作品集或小型網路商店這類一般網站，共享主機就夠用，也比較便宜。只有當網站需要在面板之外安裝系統、需要獨享的 CPU 與記憶體，或需要 root 權限時，VPS 才划算。續訂的帳會改變選擇，請看下面的價格與結論。"
+      ]
+    },
+    {
+      "heading": "兩者各是什麼",
+      "paragraphs": [
+        "**共享主機**是一台伺服器由多位客戶分用。系統、Web 伺服器與更新由 Hostinger 負責；你進入面板，安裝 WordPress 或上傳網站檔案，就完成了。在 Hostinger，這是 Premium 與 Unlimited 方案，還有 Cloud Startup，想法相同，資源更多。",
+        "**VPS**（虛擬專屬伺服器）是一台只屬於你的虛擬機器，處理器、記憶體與硬碟都是預留的。Hostinger 交付的是帶作業系統與 root 權限（什麼都能做的使用者）的機器。從那之後，安裝 Web 伺服器、資料庫、憑證，做更新與安全，都是你的事。在 Hostinger，這是 KVM 1、2、4 與 8 方案。",
+        "差別不在於「誰比較好」，而在於誰來照顧伺服器，以及有多少資源是專門留給你的。"
+      ]
+    },
+    {
+      "heading": "依情境選擇",
+      "paragraphs": [
+        "看價格之前，先回答三個問題。如果三個都是「否」，共享主機就夠了。"
+      ],
+      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+      "imageAlt": "三個問題的圖：是否需要在面板之外安裝系統、是否需要獨享的 CPU 與記憶體、是否需要 root 權限；每個「是」都指向 VPS，三個「否」指向共享主機",
+      "imageCaption": "決定共享主機還是 VPS 的三個問題。我們自製的圖，依據 2026年10月28日讀取的 Hostinger 頁面。",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.7787,
+      "comparisonTable": {
+        "headers": [
+          "情境",
+          "共享主機",
+          "VPS"
+        ],
+        "rows": [
+          [
+            "用 WordPress 做的部落格、作品集或公司網站",
+            "可以。這是方案的典型用途",
+            "不需要"
+          ],
+          [
+            "WordPress 小型網路商店（WooCommerce）",
+            "可以，但要留意方案：商品與流量多了要用 Premium 或 Unlimited",
+            "只有商店成長很多時才需要"
+          ],
+          [
+            "Node.js 網站",
+            "可以。Premium 方案列有 Node.js，本站就是這樣運作的",
+            "不需要"
+          ],
+          [
+            "多個網站或企業信箱",
+            "可以。Premium 列有最多 3 個網站，Unlimited 含信箱",
+            "不需要"
+          ],
+          [
+            "自有系統，用到面板裡沒有的程式或資料庫",
+            "不行",
+            "可以。這是 VPS 的典型情境"
+          ],
+          [
+            "整天運作的面板、機器人或自動化（n8n、Docker）",
+            "不行",
+            "可以，有 root 與 Docker"
+          ],
+          [
+            "外掛很重或流量有高峰的網站",
+            "先用 Cloud Startup，再考慮 VPS",
+            "可以，如果 Cloud 不夠用"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "各個共享主機方案的內容會隨活動變動。下單前請到 Hostinger 頁面確認每個方案包含什麼。"
+      ]
+    },
+    {
+      "heading": "VPS 方案：KVM 1 到 KVM 8",
+      "paragraphs": [
+        "四個 KVM 方案只是大小不同。規格於 2026年10月28日從 Hostinger 的 VPS 頁面讀取；價格是 24 個月方案、套用推薦連結後的月費，續訂價列在旁邊。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "方案",
+          "vCPU",
+          "RAM",
+          "硬碟",
+          "含推薦連結",
+          "續訂"
+        ],
+        "rows": [
+          [
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "1",
+            "4 GB",
+            "50 GB",
+            "US$ 5.19/月",
+            "US$ 11.99/月"
+          ],
+          [
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "2",
+            "8 GB",
+            "100 GB",
+            "US$ 7.03/月",
+            "US$ 14.99/月"
+          ],
+          [
+            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "4",
+            "16 GB",
+            "200 GB",
+            "US$ 10.39/月",
+            "US$ 28.99/月"
+          ],
+          [
+            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "8",
+            "32 GB",
+            "400 GB",
+            "US$ 20.79/月",
+            "US$ 49.99/月"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "一般網站如果真的需要 VPS，KVM 1 是起點：4 GB 記憶體夠跑一個 WordPress 或一個小系統。要在同一台機器上跑不只一個程式時，才用到 KVM 2。KVM 4 與 KVM 8 面向更大的系統、大型資料庫或多個應用程式。",
+        "這些是透過推薦連結進入 Hostinger 國際站看到的美元價格（2026年10月28日，黑色星期五活動期間）。不同國家與貨幣可能不同，付款前請到購物車確認。連結的 20% **只適用於首期**，**不能與其他優惠券疊加**。續訂價用不用連結都一樣。"
+      ]
+    },
+    {
+      "heading": "維護：哪些要你自己做",
+      "paragraphs": [
+        "這是價格表看不出來的部分。共享主機上，Hostinger 維護伺服器與面板，你只管自己的網站（佈景主題、外掛、內容）。Premium 方案列有每週備份，Unlimited 含優先支援。",
+        "VPS 上，Hostinger 在自己的頁面就說明：有了 root 權限，伺服器的設定、更新與安全都由購買者負責。實際上，它會變成你的一張清單："
+      ],
+      "bullets": [
+        "**安裝與設定** Web 伺服器、資料庫與 SSL 憑證。",
+        "**更新**作業系統與各種程式，隔一段時間一次。",
+        "**防護**：防火牆、開放的連接埠、密碼與存取金鑰。",
+        "**做備份**，並且知道怎麼還原。",
+        "**處理故障**，包括網站在非上班時間掛掉的時候。"
+      ],
+      "postParagraphs": [
+        "如果你從沒打開過終端機，這是有成本的：要麼是學習的時間，要麼是請人代勞的錢。對一般網站來說，這筆成本往往比兩種方案的差價還大。"
+      ]
+    },
+    {
+      "heading": "價格與續訂：真正的帳",
+      "paragraphs": [
+        "共享主機以 48 個月方案販售，VPS 以 24 個月。兩者都是整個週期一次付清。2026年10月28日套用推薦連結讀取的美元價格，續訂價在旁邊："
+      ],
+      "comparisonTable": {
+        "headers": [
+          "方案",
+          "含推薦連結",
+          "週期總額",
+          "續訂"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 個月）",
+            "US$ 1.99/月",
+            "US$ 95.52",
+            "US$ 10.99/月"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 個月）",
+            "US$ 2.79/月",
+            "US$ 133.92",
+            "US$ 16.99/月"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 個月）",
+            "US$ 6.39/月",
+            "US$ 306.72",
+            "US$ 25.99/月"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 個月）",
+            "US$ 5.19/月",
+            "US$ 124.56",
+            "US$ 11.99/月"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 個月）",
+            "US$ 7.03/月",
+            "US$ 168.72",
+            "US$ 14.99/月"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "有兩點會改變這筆帳。第一，VPS KVM 1 從首期起每月就是 Premium 的兩倍半以上（US$ 5.19 對 US$ 1.99）；到了續訂兩者幾乎持平（US$ 11.99 對 US$ 10.99），VPS 仍然略貴。第二，VPS 的優惠價持續 24 個月，共享主機則是 48 個月。以四年計，Premium 是 US$ 95.52；KVM 1 是首期 US$ 124.56 加上續訂 US$ 287.76（24 × US$ 11.99），合計 US$ 412.32。",
+        "續訂預設是開啟的。下單前先看[Hostinger 如何收費與續訂](/zh-hant/reviews/hostinger-trust-guide-zh-hant)，活動與推薦連結的比較看[Hostinger 黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)。Premium 把首年免費網域列為方案項目。價格隨活動變動：付款前請核對購物車裡的金額，條件請看[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+      ]
+    },
+    {
+      "heading": "什麼時候 VPS 適合 AI 代理",
+      "paragraphs": [
+        "VPS 經常出現的另一種情況不是網站，而是整天運作的 AI 助理，例如 OpenClaw。這時問題就變了，因為 Hostinger 也為這類助理販售託管方案。如果你是這種情況，比較在[OpenClaw 在 Hostinger：託管還是 VPS](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)，選大小則看[OpenClaw 該選哪個 KVM](/zh-hant/reviews/best-vps-for-openclaw-zh-hant)。本文只談網站用的伺服器。"
+      ]
+    },
+    {
+      "heading": "結論：VPS 還是共享主機",
+      "paragraphs": [
+        "**共享主機**適合部落格、作品集、公司網站、小型網路商店與 Node.js 網站。首期便宜得多，續訂也略低，而且伺服器維護由 Hostinger 負責。方案裡 Premium 是起點；網站長大了，先升到 Unlimited 或 Cloud Startup，再考慮 VPS。",
+        "**VPS** 適合自有系統、面板裡沒有的程式或資料庫、整天運作的機器人或面板，或者你需要 root 的時候。從 KVM 1 開始，記憶體不夠再升。把維護伺服器的時間，或者請人代勞的費用，也算進帳裡。",
+        "**拿不定主意，就選共享主機。** VPS 之後不能變成共享主機，反過來則只是在需要時再簽一份新合約。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "VPS 比共享主機快嗎？我們沒有測過。VPS 保證的是預留資源：CPU、記憶體與硬碟都是你的，而共享主機上伺服器是分用的。對一般網站來說，這很少成為瓶頸。",
+        "可以先用共享主機，之後再搬到 VPS 嗎？可以。兩者是不同的產品：你購買 VPS，裝好伺服器，再把網站搬過去。共享主機不能在面板裡直接轉成 VPS。",
+        "用 VPS 需要懂 Linux 嗎？需要，至少是終端機的基礎：安裝程式、更新系統、看日誌。共享主機上一切都在面板裡，終端機不是必需的。",
+        "VPS 能跑 WordPress 嗎？能，但 Web 伺服器、PHP 與資料庫要你自己安裝和維護。共享主機上 WordPress 在面板裡現成可用，伺服器由 Hostinger 照顧。",
+        "Hostinger 的 VPS 多少錢？2026年10月28日，KVM 1 用推薦連結、24 個月方案是 US$ 5.19/月，續訂 US$ 11.99/月。20% 只適用於首期，不能與其他優惠券疊加。"
+      ]
+    },
+    {
+      "heading": "誰在寫這篇文章",
+      "paragraphs": [
+        "Em Casa com Cecília 以 Node.js Web App 的形式運作在 Hostinger 的託管主機上，網域自 2024年11月17日起註冊在 Hostinger。本文沒有 VPS 的測試：它整理的是 2026年10月28日讀取的 Hostinger 頁面所說的內容，本站的經驗僅限於託管主機。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "推薦代碼已經包含在連結裡：20% 折扣只適用於首期與 12 個月以上的方案，不能與其他優惠券疊加。",
+    "label": "用推薦連結查看方案",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "透過推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，你不用多付任何費用。我們沒有測試 VPS。",
+  "relatedArticles": [
+    {
+      "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
+      "title": "OpenClaw 在 Hostinger：託管還是 VPS？價格、各自要做什麼，以及適合誰"
+    },
+    {
+      "slug": "hostinger-trust-guide-zh-hant",
+      "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+    },
+    {
+      "slug": "hostinger-black-friday-zh-hant",
+      "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+    }
+  ]
+}

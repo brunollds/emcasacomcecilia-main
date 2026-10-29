@@ -1,0 +1,293 @@
+{
+  "id": 677,
+  "slug": "vps-or-shared-hosting-which-to-choose",
+  "locale": "en",
+  "translationKey": "hostinger-vps-ou-compartilhada",
+  "title": "VPS or shared hosting: which one pays off for your site on Hostinger",
+  "seoTitle": "VPS or shared hosting: which to choose",
+  "type": "Decision Guide",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Editing and analysis",
+      "initials": "BL"
+    }
+  ],
+  "description": "An ordinary site does fine on shared hosting; a VPS only for your own system, reserved resources or root. Scenario chart, KVM specs and US dollar prices from October 28, 2026, with renewal.",
+  "metaDescription": "VPS or shared hosting on Hostinger: what each one is, a scenario chart, KVM 1 to 8 specs, what maintenance stays with you, and the October 28, 2026 prices in US dollars with renewal alongside.",
+  "publishedAt": "October 28, 2026",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+  "imageAlt": "Hostinger logo with the icons of an ordinary site and of a server, facing each other",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "For an ordinary site, a blog, a portfolio or a small shop, shared hosting does the job and costs less. A VPS only pays off when the site needs a system installed outside the control panel, reserved CPU and memory, or root access. The renewal bill changes the choice; see the prices and the verdict below."
+      ]
+    },
+    {
+      "heading": "What each one is",
+      "paragraphs": [
+        "**Shared hosting** is one server split between several customers. Hostinger looks after the operating system, the web server and the updates; you log in to the control panel, install WordPress or upload your site's files, and that is it. On Hostinger's international site, these are the Premium and Unlimited plans, plus Cloud Startup, which is the same idea with more resources.",
+        "A **VPS** (virtual private server) is a virtual machine of your own, with reserved processor, memory and disk. Hostinger hands you the machine with the operating system and root access, the user that can do anything. From there on, installing the web server, the database and the certificate, updating and securing the server are your jobs. On Hostinger, these are the KVM 1, 2, 4 and 8 plans.",
+        "The difference is not \"better or worse\". It is who looks after the server and how much of its resources are reserved for you."
+      ]
+    },
+    {
+      "heading": "Which to choose, by scenario",
+      "paragraphs": [
+        "Before you look at prices, answer three questions. If the answer is \"no\" to all three, shared hosting will do."
+      ],
+      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+      "imageAlt": "Chart with three questions: do you need to install a system outside the control panel, do you need reserved CPU and memory, do you need root access; each yes points to VPS, and three noes point to shared hosting",
+      "imageCaption": "The three questions that decide between shared hosting and VPS. Our own chart, based on Hostinger's pages read on October 28, 2026.",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.7787,
+      "comparisonTable": {
+        "headers": [
+          "Scenario",
+          "Shared hosting",
+          "VPS"
+        ],
+        "rows": [
+          [
+            "Blog, portfolio or company site in WordPress",
+            "Yes. It is the plan's typical use",
+            "Not needed"
+          ],
+          [
+            "Small WordPress shop (WooCommerce)",
+            "Yes, minding the plan: more products and visits call for Premium or Unlimited",
+            "Only if the shop grows a lot"
+          ],
+          [
+            "Node.js site",
+            "Yes. The Premium plan lists Node.js, and this site runs that way",
+            "Not needed"
+          ],
+          [
+            "Several sites or professional email",
+            "Yes. Premium lists up to 3 sites, and Unlimited includes email",
+            "Not needed"
+          ],
+          [
+            "Your own system, with a program or database that is not in the control panel",
+            "No",
+            "Yes. It is the classic VPS case"
+          ],
+          [
+            "Dashboard, bot or automation running all day (n8n, Docker)",
+            "No",
+            "Yes, with root and Docker"
+          ],
+          [
+            "Site with a heavy plugin or traffic spikes",
+            "Cloud Startup, before thinking about a VPS",
+            "Yes, if Cloud is not enough"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "What each shared plan includes changes with each campaign. Check on Hostinger's page what each one includes before you buy."
+      ]
+    },
+    {
+      "heading": "The VPS plans: KVM 1 to 8",
+      "paragraphs": [
+        "The four KVM plans differ only in size. Specs read on Hostinger's VPS page on October 28, 2026. The prices are those of the international site, in US dollars, for 24-month plans with the referral link applied, with renewal alongside; in your country, Hostinger may show another currency and taxes, so check the cart before you pay."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Plan",
+          "vCPU",
+          "RAM",
+          "Disk",
+          "With the referral",
+          "Renewal"
+        ],
+        "rows": [
+          [
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "1",
+            "4 GB",
+            "50 GB",
+            "US$5.19/month",
+            "US$11.99/month"
+          ],
+          [
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "2",
+            "8 GB",
+            "100 GB",
+            "US$7.03/month",
+            "US$14.99/month"
+          ],
+          [
+            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "4",
+            "16 GB",
+            "200 GB",
+            "US$10.39/month",
+            "US$28.99/month"
+          ],
+          [
+            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "8",
+            "32 GB",
+            "400 GB",
+            "US$20.79/month",
+            "US$49.99/month"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "For an ordinary site that does need a VPS, KVM 1 is the starting point: 4 GB of RAM is enough for a WordPress or a small system. KVM 2 comes in when you will run more than one program on the same machine. KVM 4 and 8 are for a bigger system, a large database or several applications.",
+        "With the link, the 20% applies **only to the first period** and **does not stack with other coupons**; the page already shows the discount applied. Renewal is charged at the normal price shown next to each plan."
+      ]
+    },
+    {
+      "heading": "Maintenance: what stays with you",
+      "paragraphs": [
+        "This is the part the price does not show. On shared hosting, Hostinger maintains the server and the control panel; you look after your site (theme, plugins, content). The Premium plan lists weekly backups, and Unlimited includes priority support.",
+        "On a VPS, Hostinger says on its own page that, with root access, the server's configuration, updates and security stay with the customer. In practice, it becomes your list:"
+      ],
+      "bullets": [
+        "**Install and configure** the web server, the database and the SSL certificate.",
+        "**Update** the operating system and the programs, from time to time.",
+        "**Protect**: firewall, open ports, passwords and access keys.",
+        "**Back up**, and know how to restore.",
+        "**Fix it** when the site goes down outside business hours."
+      ],
+      "postParagraphs": [
+        "If you have never opened a terminal, this has a cost: either learning time, or someone to do it for you. For an ordinary site, that cost is usually bigger than the price gap between the plans."
+      ]
+    },
+    {
+      "heading": "Price and renewal: the real bill",
+      "paragraphs": [
+        "Shared hosting is sold as a 48-month plan; the VPS, as a 24-month plan. Both charge the whole period up front. Prices read on October 28, 2026, with the referral link applied, with renewal alongside:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Plan",
+          "With the referral",
+          "Period total",
+          "Renewal"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 months)",
+            "US$1.99/month",
+            "US$95.52",
+            "US$10.99/month"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 months)",
+            "US$2.79/month",
+            "US$133.92",
+            "US$16.99/month"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 months)",
+            "US$6.39/month",
+            "US$306.72",
+            "US$25.99/month"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 months)",
+            "US$5.19/month",
+            "US$124.56",
+            "US$11.99/month"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 months)",
+            "US$7.03/month",
+            "US$168.72",
+            "US$14.99/month"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Two points change the bill. First: KVM 1 costs about two and a half times Premium per month already in the first period (US$5.19 against US$1.99). At renewal the two almost meet (US$11.99 against US$10.99), but the second point weighs more: on the VPS, the promotional price lasts 24 months; on shared hosting, 48. Over four years, Premium costs US$95.52; KVM 1, US$124.56 in the first period plus US$287.76 at renewal (24 × US$11.99), or US$412.32.",
+        "Renewal is switched on by default. See [how Hostinger charges and renews](/en/reviews/is-hostinger-legit) before you buy, and [Hostinger's Black Friday](/en/reviews/hostinger-black-friday) for the comparison between the campaign and the link. Premium lists a free domain for the first year, as an item of the plan. Prices change with each campaign: check the amount in the cart before you pay, and see the conditions on [Hostinger's page here on the site](/en/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "When a VPS makes sense for an AI agent",
+      "paragraphs": [
+        "One case where a VPS often comes up is not a site: it is an AI assistant running all day, such as OpenClaw. There the question changes, because Hostinger also sells a managed plan for those assistants. If that is your case, the comparison is in [OpenClaw on Hostinger: managed or VPS](/en/reviews/openclaw-hostinger-managed-or-vps) and, to pick the size, in [which KVM for OpenClaw](/en/reviews/best-vps-for-openclaw). This article stays with the site server."
+      ]
+    },
+    {
+      "heading": "Verdict: VPS or shared hosting",
+      "paragraphs": [
+        "**Shared hosting** for a blog, a portfolio, a company site, a small shop and a Node.js site. It is cheaper in the first period and at renewal, and the server maintenance is Hostinger's. Among the plans, Premium is the starting point; if the site grows, Unlimited or Cloud Startup, before thinking about a VPS.",
+        "**VPS** for your own system, a program or database outside the control panel, a bot or dashboard running all day, or when you need root. Start with KVM 1 and go up if memory runs short. Count in the time to maintain the server, or the cost of someone who does it.",
+        "**When in doubt, shared hosting.** A VPS does not turn into shared hosting later, but the other way round is just a new contract when the need shows up."
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "Is a VPS faster than shared hosting? We did not measure it. What a VPS guarantees is reserved resources: CPU, memory and disk are yours, while on shared hosting the server is split. For an ordinary site, that is rarely the bottleneck.",
+        "Can I start on shared hosting and move to a VPS later? Yes. They are different products: you buy the VPS, set up the server and move the site over. Shared hosting does not convert into a VPS from inside the control panel.",
+        "Do I need to know Linux to run a VPS? Yes, the basics of the terminal: installing programs, updating the system and reading a log. On shared hosting, everything goes through the control panel and no terminal is required.",
+        "Can a VPS run WordPress? It can, but you install and maintain the web server, PHP and the database. On shared hosting, WordPress comes ready in the control panel and Hostinger looks after the server.",
+        "How much does Hostinger's VPS cost? On October 28, 2026, KVM 1 was US$5.19/month with the referral link, on a 24-month plan, renewing at US$11.99/month, on the international site in US dollars. The 20% applies only to the first period and does not stack with other coupons."
+      ]
+    },
+    {
+      "heading": "Who writes this",
+      "paragraphs": [
+        "Em Casa com Cecília runs on Hostinger on managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since November 17, 2024. This text includes no VPS test: it gathers what Hostinger's pages say, read on October 28, 2026, and the site's own experience is only with managed hosting."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "The referral code is already in the link: the 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons.",
+    "label": "See the plans with the referral link",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Purchases through the referral link may give Bruno credit with Hostinger, at no extra cost to you. We have not tested VPS.",
+  "relatedArticles": [
+    {
+      "slug": "openclaw-hostinger-managed-or-vps",
+      "title": "OpenClaw on Hostinger: managed or VPS? Price, what each one requires and who it suits"
+    },
+    {
+      "slug": "is-hostinger-legit",
+      "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+    },
+    {
+      "slug": "hostinger-black-friday",
+      "title": "Hostinger Black Friday 2026: the campaign or the referral link, which is cheaper?"
+    }
+  ]
+}

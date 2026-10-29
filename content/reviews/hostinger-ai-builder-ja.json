@@ -1,0 +1,297 @@
+{
+  "id": 662,
+  "slug": "hostinger-ai-builder-ja",
+  "locale": "ja",
+  "translationKey": "hostinger-ai-builder",
+  "hideFromPortugueseListings": true,
+  "title": "Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？",
+  "seoTitle": "Hostinger Horizons は使う価値がある？コード不要のサイト作成",
+  "type": "選び方ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編集・分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger の AI Builder（旧 Horizons）は、プログラミングなしでシンプルなサイトや Web アプリを作りたい人向け。プラグインと細かい制御が欲しいなら WordPress。2026年10月28日の米ドル建て料金と更新価格。",
+  "metaDescription": "Hostinger Horizons は AI Builder になりました。使う価値はあるか、WordPress にすべきか。プロジェクト別の早見表、Wix と Lovable との比較、AI クレジット、2026年10月28日の料金と更新価格。",
+  "publishedAt": "2026年10月28日",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+  "imageAlt": "Hostinger のロゴと AI Builder（旧 Horizons）が WordPress と向かい合う図",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "クイックアンサー",
+      "paragraphs": [
+        "Hostinger の AI Builder（旧 Horizons）は、プログラミングなしでシンプルなサイトや Web アプリを作りたくて、最初のバージョンは AI に任せてよい人に向いています。プラグイン、独自テーマ、完全な制御が必要なら WordPress のほうが向いています。決め手はプロジェクトの種類で、早見表は下にあります。"
+      ]
+    },
+    {
+      "heading": "AI Builder（旧 Horizons）とは",
+      "paragraphs": [
+        "Horizons は Hostinger の AI によるサイト・アプリ作成ツールでした。2026年に従来のウェブサイトビルダーと統合され、AI Builder（Hostinger AI Builder）になりました。旧アドレスは新しいページにリダイレクトされ、ページ自体が「ウェブサイトビルダーと Horizons を統合して生まれた」と説明しています。検索ではまだ旧名が使われるので、ここでも挙げています。",
+        "ページによると、テキストの説明からサイトと Web アプリを作り、技術的な知識は不要で、モードは二つです。"
+      ],
+      "bullets": [
+        "**AI を使わない編集（Manual モード）：** AI が生成したサイトかテンプレートから始めて、ドラッグ＆ドロップで編集します。AI クレジットは消費しません。",
+        "**AI を使う編集（Agentic モード）：** チャットで欲しいものを説明すると、AI がデザインしてコードを書きます。操作ごとに AI クレジットを消費し、追加購入もできます。"
+      ],
+      "postParagraphs": [
+        "できあがるのはサイトか Web アプリで、App Store や Google Play 向けのアプリではありません。これはページ自体に書かれています。ホスティング、ドメイン、メールはプランに含まれ、ソースコードはエクスポートして別の場所でホストできます。以上はすべて 2026年10月28日に読んだ Hostinger の説明で、私たちのテストではありません。",
+        "OpenClaw や Hermes Agent のような Hostinger の自動化エージェントと混同しないでください。あちらは[サーバーで動くアシスタント](/ja/reviews/openclaw-vs-hermes-agent-ja)で、Telegram や WhatsApp で応答します。AI Builder はサイトを作るものです。"
+      ]
+    },
+    {
+      "heading": "どんなプロジェクトに向くか：早見表",
+      "paragraphs": [
+        "正しい問いは「AI は優秀か？」ではなく、「何を作り、あとで誰が手を入れるのか？」です。早見表は、2026年10月28日時点の AI Builder のページと WordPress のドキュメントをもとに、プロジェクトの種類ごとの選択をまとめたものです。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "プロジェクト",
+          "向いている選択",
+          "理由"
+        ],
+        "rows": [
+          [
+            "メニュー、飲食店、サービス紹介ページ",
+            "AI Builder",
+            "ページ数が少なく、文章と写真が中心。AI が組み立て、AI なしのモードなら調整にクレジットを使いません。"
+          ],
+          [
+            "ポートフォリオや履歴書",
+            "AI Builder",
+            "ギャラリーに用途別のテンプレートがあり、Premium プランで足ります。"
+          ],
+          [
+            "商品数の少ない小さなショップ",
+            "AI Builder（Unlimited プラン）か WordPress + WooCommerce",
+            "AI Builder にはショップ機能が内蔵。WooCommerce は配送と決済をより細かく制御できますが、設定が必要です。"
+          ],
+          [
+            "プラグイン頼みのブログ（SEO、フォーム、会員エリア）",
+            "WordPress",
+            "プラグインとテーマのカタログは WordPress のもの。AI Builder では新機能はすべて AI が作ります。"
+          ],
+          [
+            "Web アプリ：予約、顧客ポータル、簡単な CRM",
+            "AI Builder（AI を使うモード）",
+            "ページはバックエンド、ログイン、データベースの内蔵をうたっています。WordPress ではプラグインの山と開発者が必要になります。"
+          ],
+          [
+            "他の人や制作会社が保守するプロジェクト",
+            "WordPress",
+            "業界標準なので、どのプロでも手を入れられます。"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-ja.webp",
+        "alt": "プロジェクト別の AI Builder か WordPress かの早見表：メニューやサービス紹介ページ、ポートフォリオ、Web アプリは AI Builder、プラグイン頼みのブログと他の人が保守するプロジェクトは WordPress、小さなショップはどちらでも",
+        "caption": "早見表のまとめ：シンプルなサイト、ポートフォリオ、Web アプリは AI Builder、プラグインが必要な場合と、サイトを他の人に引き継ぐ場合は WordPress。2026年10月28日時点の各ページの記述をもとにした Em Casa com Cecília の早見表。",
+        "objectFit": "contain",
+        "aspectRatio": 1.2346
+      },
+      "postParagraphs": [
+        "プロジェクトが二行で説明できるなら、まず AI Builder から。カード不要の無料トライアルがあり、AI クレジットが 5 つ付きます。必要なものにすでにプラグインの名前が付いているなら、WordPress にしましょう。"
+      ]
+    },
+    {
+      "heading": "AI Builder か WordPress か",
+      "paragraphs": [
+        "料金では決まりません。Hostinger では AI Builder はホスティングプランに含まれていて、WordPress を動かすのと同じプラン、同じ価格です。違うのは、誰が作業をするかと、何をあなたが制御できるかです。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "",
+          "AI Builder",
+          "WordPress"
+        ],
+        "rows": [
+          [
+            "サイトを作るのは誰か",
+            "あなたの説明から AI が作る、またはビジュアルエディタであなたが作る",
+            "テーマを使ってあなたが、またはプロが"
+          ],
+          [
+            "新しい機能",
+            "チャットで頼む。AI クレジットを消費",
+            "無料・有料の数千のプラグイン"
+          ],
+          [
+            "テーマと見た目",
+            "Hostinger のテンプレートと、AI かエディタでの調整",
+            "どんなテーマでも。完全オーダーメイドも可"
+          ],
+          [
+            "エラーを直すのは誰か",
+            "AI に頼むあなた、または Hostinger のサポート",
+            "あなた、プラグインの作者、または開発者"
+          ],
+          [
+            "他へ移す",
+            "ページによればコードはエクスポート可能。内蔵バックエンドは Hostinger に残る",
+            "サイト全体をどのホスティングにも移せる"
+          ],
+          [
+            "ネットショップ",
+            "Unlimited と Cloud Startup プランに内蔵",
+            "WooCommerce は無料、有料の拡張機能あり"
+          ],
+          [
+            "保守",
+            "プラットフォームは Hostinger が管理",
+            "WordPress、テーマ、プラグインの更新はあなたの仕事"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "**WordPress が勝つ**のは、特定のプラグイン、すでに持っているテーマ、あとでサイトを保守する誰かにプロジェクトが依存するときです。WordPress はフリーソフトウェアで、サイトは丸ごとあなたのもの。作り直しなしでどのホスティングにも移せます。",
+        "**AI Builder が勝つ**のは、何もインストールも更新もしたくなくて、ログインとデータを持つ Web アプリが欲しいときです。WordPress ではそれがプラグインの山になります。判断を変える注意点：AI を使うモードでは変更のたびにクレジットを消費します。ページによれば、シンプルな企業サイトで 5〜10 クレジット、より複雑なアプリで 15 以上です。毎週サイトをいじる人は計算が必要。一度作って、あとはプロンプトなしでエディタで文章と写真を直す人なら消費しません。"
+      ]
+    },
+    {
+      "heading": "AI Builder か Wix（と Lovable）か",
+      "paragraphs": [
+        "Wix は独自ホスティング付きの従来型ドラッグ＆ドロップビルダーです。Wix のアドレスで使える無料プランがあり、独自ドメインには有料プランが必要です。純粋なビジュアルエディタが欲しいなら Wix で十分です。あとでプロジェクトを持ち出せるかが重要なら、各ページが保証している内容を比べてください。AI Builder のページはコードをエクスポートできると言い、WordPress はフリーソフトウェアでどのホスティングでも動きます。",
+        "Lovable はもう一つのバイブコーディングツールで、AI Builder の AI モードと同じ発想です。あなたが説明し、AI がコードを書く。違いはパッケージにあります。Lovable はメッセージごとのクレジット課金で、1日数クレジットの無料プランがあります。作るためのツールであり、ドメインとメールは別に用意します。Hostinger ではホスティング、ドメイン、メールが同じプランに入り、AI なしのモードはクレジットを消費しません。すでにプログラミングができて AI だけが欲しいなら Lovable は比較対象になり、すべてを一か所にまとめたいなら Hostinger です。"
+      ]
+    },
+    {
+      "heading": "2026年10月28日の料金と更新価格",
+      "paragraphs": [
+        "AI Builder に専用プランはなく、48 か月の前払いのウェブホスティングプランに含まれています。下の料金は、紹介リンクから入った Hostinger の国際サイトの米ドル建て価格で、2026年10月28日、ブラックフライデーのキャンペーン中に読んだものです。ページは各プランに「紹介コード適用済み」と表示していました。お住まいの国では別の通貨や税金が表示されることがあるので、カートで金額を確認してください。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "プラン",
+          "紹介リンクあり",
+          "48 か月の合計",
+          "更新"
+        ],
+        "rows": [
+          [
+            "[Premium（最大 3 サイト）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "US$ 1.99/月（取り消し線の定価 US$ 12.19）",
+            "US$ 95.52",
+            "US$ 10.99/月"
+          ],
+          [
+            "[Unlimited（サイト数無制限、ネットショップ付き）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "US$ 2.79/月（取り消し線 US$ 18.99）",
+            "US$ 133.92",
+            "US$ 16.99/月"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "US$ 6.39/月",
+            "US$ 306.72",
+            "US$ 25.99/月"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "月額は合計を 48 で割ったものです。実際には："
+      ],
+      "bullets": [
+        "**Premium、紹介リンクあり：** 48 × 1.99 = **US$ 95.52**。**その後 48 か月の更新：** 48 × 10.99 = US$ 527.52。",
+        "**Unlimited、紹介リンクあり：** 48 × 2.79 = **US$ 133.92**。**更新：** 48 × 16.99 = US$ 815.52。",
+        "**AI クレジットは一回限りの付与**で、毎月ではありません。2026年10月28日の国際版ページには Premium 250、Unlimited 500、Cloud Startup 1,000 と書かれ、ブラックフライデー中は倍でした。使い切ったら追加購入で、その価格はページに載っていません。当てにする前に管理画面で確かめてください。"
+      ],
+      "emphasis": "更新価格はキャンペーン価格の 4〜6 倍です。プランを選ぶ前に更新の列を見てください。"
+    },
+    {
+      "heading": "支払う前に確認すること",
+      "bullets": [
+        "**クレジット。** AI を使うモードはリクエストごとにクレジットを消費し、プランの残高は毎月は補充されません。サイトは AI で組み立て、文章と写真の調整はクレジットを使わないエディタで行いましょう。",
+        "**更新しないとどうなるか。** ページの注意書きによると、期限切れで更新しないプランはプロジェクトが公開停止になり、データが削除されます。期限が切れる前にコードをエクスポートしてください。",
+        "**ドメインとメールが無料なのは最初の 1 年だけ。** その後ドメインは Hostinger の定価で更新されます。2026年10月28日に国際サイトで読んだ価格は .com が年 US$ 19.99 です。",
+        "**30 日以内の返金**は、AI クレジットの消費が 30 未満の場合に限られます。",
+        "**ネットショップ**は Unlimited と Cloud Startup プランの項目です。国際版ページでは「チェックアウトで利用可能」とされているので、料金はチェックアウトで確認してください。",
+        "**ネイティブアプリは作れません。** AI Builder が作るのはスマホのブラウザで開くレスポンシブな Web アプリです。App Store と Google Play は別の道です。"
+      ],
+      "postParagraphs": [
+        "Hostinger の課金、更新、返金の仕組みは [Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja) にあります。"
+      ]
+    },
+    {
+      "heading": "紹介リンクとリンク適用後の価格",
+      "paragraphs": [
+        "紹介リンクには割引がすでに含まれているので、コードを入力する必要はありません。割引は**最初の期間だけの 20%** で、12 か月以上のプランに適用され、**ほかのクーポンとは併用できません**。更新は通常価格です。2026年10月28日の AI Builder のページでは、各プランが紹介適用済みで、上の「紹介リンクあり」の列の価格で表示されていました。ルールの全体とほかの製品は [Hostinger のクーポンページ](/ja/coupons/hostinger) にあります。",
+        "Hostinger はブラックフライデーのキャンペーン中で、ページに終了日はなく、価格も倍増クレジットも変わる可能性があります。支払う前にカートで金額を確認してください。"
+      ]
+    },
+    {
+      "heading": "使う価値はある？結論",
+      "paragraphs": [
+        "**使う価値があるのは**、数ページのサイト、ポートフォリオ、小さなショップ、シンプルな Web アプリが欲しくて、プログラミングもプラグインの管理もしたくない人です。最初のバージョンは説明から生まれ、AI なしのモードでクレジットを使わずに調整できます。まず無料トライアルから。結果が使えそうなら、シンプルなサイトは Premium、ショップは Unlimited で足ります。",
+        "**WordPress にとどまるべきなのは**、プロジェクトがプラグイン、自分のテーマ、サイトを保守する誰かに依存する場合、または作り直しなしで別のホスティングにすべて持ち出したい場合です。Hostinger のプランはどちらも同じなので、選ぶのはツールだけです。",
+        "**迷ったら、支払う前に AI Builder を試してください。** カード不要で 5 クレジットが無料。AI があなたの望みを理解するか確かめるには十分です。理解しなければ、WordPress はそこにあります。"
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "Hostinger Horizons はまだありますか？ 別の名前で存在します。2026年に Horizons は Hostinger のウェブサイトビルダーと統合され、ドラッグ＆ドロップのモードとチャットで作るモードを持つ AI Builder（Hostinger AI Builder）になりました。旧アドレスは新しいページにリダイレクトされます。",
+        "Hostinger の AI Builder はサイトを自動で作ってくれますか？ ページによれば、あなたの説明から最初のバージョンを組み立てます。コンテンツ、写真、ビジネス上の判断はあなたのもので、AI を使うモードではリクエストごとにクレジットを消費します。",
+        "AI Builder を使うにはプログラミングの知識が必要ですか？ いいえ。ページによれば、どちらのモードでも技術的な知識は不要です。プログラミングができる人には、AI を使うモードにコードエディタがあります。",
+        "AI Builder から別のホスティングに移行できますか？ ページによれば、ソースコードをエクスポートして別の場所でホストできます。データベースとログインを持つ内蔵バックエンドは Hostinger に残るので、アプリは外で再設定が必要です。",
+        "AI Builder はネットショップに向いていますか？ 小さなショップなら向いています。ネットショップは Unlimited と Cloud Startup プランの項目です。配送や決済のルールが多い大きなショップなら、WordPress + WooCommerce のほうが制御できます。",
+        "2026年の Hostinger Horizons はいくらですか？ AI Builder はホスティングプランに含まれます。2026年10月28日、紹介リンク経由の国際サイトでは、Premium が 48 か月で US$ 1.99/月（合計 US$ 95.52）、更新は US$ 10.99/月。Unlimited は US$ 2.79/月（US$ 133.92）、更新は US$ 16.99/月でした。",
+        "Hostinger の AI Builder のクーポンはありますか？ 入力するコードはありません。20% の割引は紹介リンクから適用され、最初の期間だけ、12 か月以上のプランに限られ、ほかのクーポンとは併用できません。"
+      ]
+    },
+    {
+      "heading": "この記事を書いた人",
+      "paragraphs": [
+        "Em Casa com Cecília は Hostinger のマネージドホスティングで Node.js Web App として動いていて、ドメインは 2024年11月から Hostinger に登録されています。チームの誰も AI Builder も Horizons も使っていません。この記事は、製品ページ（ブラジル版と国際版）、WordPress のドキュメント、Wix と Lovable の公開ページの記述を、2026年10月28日に読んでまとめたものです。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "コードはすでにリンクに含まれています。20%は最初の期間のみ、12か月以上のプランで有効で、他のクーポンとは併用できません。",
+    "label": "紹介リンクでプランを見る",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "紹介リンクからの購入で、Bruno に Hostinger のクレジットが入る場合がありますが、あなたに追加の費用はかかりません。チームの誰も AI Builder は使っていません。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-referral-code-ja",
+      "title": "Hostingerのクーポンは不要です：紹介リンクで受けられるもの"
+    },
+    {
+      "slug": "hostinger-trust-guide-ja",
+      "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+    },
+    {
+      "slug": "hostinger-black-friday-ja",
+      "title": "2026年 Hostinger ブラックフライデー：キャンペーンか紹介リンクか、安いのはどちら？"
+    }
+  ]
+}

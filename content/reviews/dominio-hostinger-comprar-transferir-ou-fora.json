@@ -1,0 +1,248 @@
+{
+  "id": 666,
+  "slug": "dominio-hostinger-comprar-transferir-ou-fora",
+  "locale": "pt",
+  "translationKey": "hostinger-dominio",
+  "title": "Domínio na Hostinger: comprar ali, transferir ou registrar em outro lugar? Preço, renovação e o que checar",
+  "seoTitle": "Domínio na Hostinger: comprar, transferir ou fora",
+  "type": "Guia de Escolha",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Domínio na Hostinger: os três caminhos (comprar ali, comprar fora e apontar, transferir), o preço de registro e de renovação do .com.br e do .com em 28/10/2026 e o que checar antes de pagar.",
+  "metaDescription": "Comprar o domínio na Hostinger, registrar fora e apontar, ou transferir? Preço do .com.br e do .com com a renovação ao lado, regra dos 60 dias, quem é o dono e a checklist antes de pagar.",
+  "publishedAt": "28 de outubro de 2026",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+  "imageAlt": "Logo da Hostinger ao lado de três caminhos para o domínio: comprar na Hostinger, comprar fora e apontar, ou transferir",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio com mais de 60 dias; os preços de 28/10/2026 estão abaixo."
+      ]
+    },
+    {
+      "heading": "Domínio e hospedagem são duas contas",
+      "paragraphs": [
+        "O domínio é o endereço (o nome que a pessoa digita). A hospedagem é o computador onde o site fica. Você paga os dois separados, e eles não precisam estar na mesma empresa: o domínio registrado numa empresa pode apontar para a hospedagem de outra. A própria página da Hostinger diz que dá para apontar um domínio registrado nela para outra provedora de hospedagem.",
+        "Por isso a decisão não é \"Hostinger ou não\". É onde o registro do domínio fica, quanto custa renovar todo ano e o que acontece se um dia você trocar de hospedagem. O primeiro ano barato é o menos importante: o domínio renova enquanto o site existir."
+      ]
+    },
+    {
+      "heading": "Os três caminhos",
+      "paragraphs": [
+        "Quem monta um site tem três opções para o domínio. O quadro resume o que muda em cada uma, pelas páginas da Hostinger lidas em 28/10/2026."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
+        "alt": "Quadro com três caminhos para o domínio: comprar com a hospedagem (registro na Hostinger), transferir (o registro passa para a Hostinger) e deixar fora e apontar (o registro fica onde está); nos três o domínio é seu, o que muda é quem cobra a renovação",
+        "caption": "Os três caminhos para o domínio, pelas páginas da Hostinger lidas em 28/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7787
+      },
+      "comparisonTable": {
+        "headers": [
+          "Caminho",
+          "Quando faz sentido",
+          "Renovação",
+          "Se trocar de hospedagem",
+          "Quem é o dono"
+        ],
+        "rows": [
+          [
+            "Comprar na Hostinger",
+            "Você vai hospedar na Hostinger e quer domínio, DNS e renovação no mesmo painel",
+            "Preço de renovação da tabela da Hostinger, todo ano",
+            "O domínio continua na Hostinger; você aponta o DNS para a nova hospedagem ou transfere depois",
+            "Você, registrado no seu nome"
+          ],
+          [
+            "Comprar fora e apontar",
+            "Você já tem domínio em outro registrador ou prefere separar as contas",
+            "Preço do registrador onde ele está",
+            "Nada muda no domínio; só o apontamento",
+            "Você, no outro registrador"
+          ],
+          [
+            "Transferir para a Hostinger",
+            "Você já tem o domínio há mais de 60 dias e quer tudo num lugar só",
+            "Preço de renovação da Hostinger a partir do ano seguinte",
+            "Mesma regra do primeiro caminho",
+            "Você; os dados de propriedade não mudam na transferência"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Planos de hospedagem Premium e Ilimitado de 12 meses ou mais trazem um domínio no primeiro ano, um por conta, em extensões selecionadas; a partir do segundo ano, ele renova pelo preço normal da tabela. É um item do plano, não um motivo para escolher o caminho: o que pesa é a renovação."
+      ]
+    },
+    {
+      "heading": "Quanto custa na Hostinger",
+      "paragraphs": [
+        "Preços da página de registro de domínio da Hostinger (Brasil), lidos em 28/10/2026, em campanha de Black Friday. O preço baixo do primeiro ano vale com prazo de 3 anos; a renovação é por ano, a partir do fim do prazo pago."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Extensão",
+          "Primeiro ano",
+          "Renovação (por ano)",
+          "Transferir para a Hostinger"
+        ],
+        "rows": [
+          [
+            "[.com.br](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONARDEOFERTAS)",
+            "R$ 64,99, ou R$ 1 com prazo de 3 anos",
+            "R$ 64,99",
+            "R$ 0,99"
+          ],
+          [
+            "[.com](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONARDEOFERTAS)",
+            "R$ 94,99, ou R$ 0,01 com prazo de 3 anos",
+            "R$ 94,99",
+            "R$ 54,99"
+          ],
+          [
+            "[.org](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONARDEOFERTAS)",
+            "R$ 44,99",
+            "R$ 88,99",
+            "R$ 71,99"
+          ],
+          [
+            "[.online, .shop e .store](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONARDEOFERTAS)",
+            "R$ 5,99",
+            "De R$ 197,99 a R$ 284,99",
+            "Confira na página"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A leitura é esta: o .com.br renova pelo mesmo valor do primeiro ano cheio, R$ 64,99. O .com também, R$ 94,99. Já as extensões de R$ 5,99 renovam a mais de R$ 190 por ano: o preço de entrada não diz nada sobre o que você vai pagar no segundo ano. Olhe sempre a coluna da renovação.",
+        "No .com.br com prazo de 3 anos, o R$ 1 é só do primeiro ano; a página não mostra o total dos três anos fora do carrinho, então confira o valor antes de pagar. Para comparar, o Registro.br, que administra os domínios .br, anuncia o registro a R$ 40 por ano (lido em 28/10/2026): comprar lá é o caminho \"fora e apontar\" da tabela acima.",
+        "A privacidade dos dados de contato (RDAP, o antigo WHOIS) vem incluída nas extensões compatíveis. O .com.br é a extensão do Brasil; fora do país, cada registrador tem a sua, e o preço muda com a moeda."
+      ]
+    },
+    {
+      "heading": "Transferir: a regra dos 60 dias e o passo a passo",
+      "paragraphs": [
+        "Transferir é mudar o registro do domínio de uma empresa para outra. A página de transferência da Hostinger diz que o site e o e-mail continuam funcionando durante o processo, e que os dados de propriedade não mudam. O que muda é quem cobra a renovação e onde você mexe no DNS.",
+        "As regras, pela página da Hostinger lida em 28/10/2026:"
+      ],
+      "bullets": [
+        "**Idade do registro:** na maioria dos casos, o domínio precisa estar registrado há pelo menos 60 dias. Domínio novo na Hostinger também fica travado por 60 dias antes de poder sair.",
+        "**Desbloqueio e código:** você destrava o domínio no painel do registrador atual e pega o código de autorização (EPP, ou código de transferência).",
+        "**Confirmação:** depois de informar o código na Hostinger, chega um e-mail do registrador para confirmar. Sem a confirmação, a transferência não anda.",
+        "**Prazo:** até sete dias; mais rápido se o registrador atual liberar logo e você confirmar o e-mail na hora.",
+        "**Preço:** não é grátis. Na maioria das extensões genéricas (.com, .net, .org), a taxa de transferência já inclui um ano a mais de registro, somado ao prazo que você já tinha."
+      ],
+      "postParagraphs": [
+        "O passo a passo da página é o dos domínios genéricos, como o .com. O .com.br é administrado pelo Registro.br, e a Hostinger aparece como registrador credenciado para ele; antes de pedir o código de um .com.br, confira o procedimento no suporte da Hostinger, porque a transferência do .br tem caminho próprio.",
+        "Transferir para fora da Hostinger segue a mesma lógica ao contrário: 60 dias de registro, destravar no painel da Hostinger, pegar o código e confirmar no e-mail. A transferência que dá certo não tem reembolso; veja [as regras de reembolso e renovação da Hostinger](/reviews/hostinger-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "Quem é o dono do domínio",
+      "paragraphs": [
+        "A Hostinger diz nas duas páginas: o domínio é registrado no seu nome, e é seu, não da registradora. Ela é credenciada pela ICANN, a entidade que coordena os domínios genéricos, e a página diz que ela é acreditada para o .com.br. Se você cancelar a hospedagem, o domínio continua seu; no caso do domínio que veio com o plano, a taxa de registro é descontada do reembolso, porque já foi paga ao registro.",
+        "Três cuidados mantêm o domínio seu:"
+      ],
+      "bullets": [
+        "**A conta:** o domínio pertence à conta da Hostinger em que foi comprado. Use um e-mail que você controla, não o de um freelancer ou de uma agência. Quem registra no nome de outra pessoa depende dela para transferir depois.",
+        "**A renovação:** a Hostinger recomenda deixar a renovação automática ligada. Domínio vencido derruba o site e o e-mail. Renovação de domínio não tem reembolso, então o cartão da conta precisa estar em dia.",
+        "**O reembolso do registro:** um registro novo só pode ser devolvido em 96 horas; o .com.br e os outros .br, em 168 horas. Depois disso, o domínio é seu até o fim do prazo pago, sem devolução."
+      ]
+    },
+    {
+      "heading": "Checklist antes de pagar",
+      "bullets": [
+        "Veja a coluna da renovação, não só o primeiro ano. O domínio renova todo ano enquanto o site existir.",
+        "No prazo de 3 anos, confira no carrinho o total dos três anos: a página mostra só o primeiro.",
+        "Se vai transferir, confira a data do registro: menos de 60 dias, a transferência não começa.",
+        "Compre na conta que vai ser sua, com um e-mail seu e a renovação automática ligada.",
+        "Para .com.br, confira o caminho próprio da transferência do .br no suporte da Hostinger antes de comprar, se a ideia é sair um dia.",
+        "Se o domínio veio com o plano de hospedagem, anote o preço de renovação do segundo ano: ele aparece antes de comprar.",
+        "O desconto de indicação vale no plano de hospedagem, e os termos não listam domínio entre os serviços elegíveis; confira o valor do domínio no carrinho antes de pagar."
+      ]
+    },
+    {
+      "heading": "Qual caminho escolher",
+      "paragraphs": [
+        "**Compre na Hostinger** se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel. O .com.br renova a R$ 64,99 por ano e o .com a R$ 94,99 (28/10/2026), valores iguais ao primeiro ano cheio, sem salto no segundo ano.",
+        "**Compre fora e aponte** se já tem domínio em outro registrador, se prefere separar as contas, ou se o preço de renovação de lá for menor: o Registro.br anuncia o .com.br a R$ 40 por ano. Apontar o DNS é um ajuste no painel, e o site funciona do mesmo jeito.",
+        "**Transfira** só domínio com mais de 60 dias de registro e só se a renovação na Hostinger compensar o que você paga hoje. Na maioria das extensões genéricas, a taxa de transferência inclui um ano a mais de registro, então ela não é dinheiro perdido.",
+        "Na dúvida, não transfira: aponte o domínio e deixe o registro onde está. Dá para transferir depois, e o site não para."
+      ]
+    },
+    {
+      "heading": "Indicação e preço com o link",
+      "paragraphs": [
+        "O link de indicação já aplica o desconto no plano de hospedagem: não há código para digitar. São 20% só no primeiro período, em planos de 12 meses ou mais, e o desconto não soma com outros cupons. Os termos não listam domínio entre os serviços elegíveis; o que vale é o que aparecer no carrinho. A regra completa está em [como funciona a indicação da Hostinger](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Quanto custa o domínio na Hostinger? Em 28/10/2026, o .com.br custa R$ 64,99 no primeiro ano, ou R$ 1 com prazo de 3 anos, e renova a R$ 64,99 por ano; o .com custa R$ 94,99, ou R$ 0,01 com prazo de 3 anos, e renova a R$ 94,99 por ano.",
+        "Posso trocar de hospedagem sem perder o domínio? Sim. O domínio é seu e fica na conta da Hostinger; você aponta o DNS para a nova hospedagem ou transfere o registro depois, respeitados os 60 dias desde o registro.",
+        "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano (28/10/2026).",
+        "Preciso de domínio para ter e-mail? Sim. Para um endereço como voce@suaempresa.com.br, o domínio precisa existir; a hospedagem não é obrigatória, e a Hostinger diz que dá para usar o domínio só para e-mail ou para redirecionar para outro site.",
+        "Dá para transferir o domínio da Hostinger para outro registrador? Sim, depois de 60 dias do registro: você destrava o domínio no painel, pega o código de autorização e confirma por e-mail no registrador novo. A transferência que dá certo não tem reembolso."
+      ]
+    },
+    {
+      "heading": "Quem escreve",
+      "paragraphs": [
+        "O Em Casa com Cecília roda em hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio emcasacomcecilia.com está registrado na Hostinger desde 17/11/2024 (registro público RDAP, lido em 28/10/2026). Ninguém da equipe transferiu domínio: este texto reúne o que as páginas de domínio e de transferência da Hostinger dizem, lidas em 28/10/2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "O código de indicação já vai no link: os 20% valem no plano de hospedagem, só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons. Confira o domínio no carrinho antes de pagar.",
+    "label": "Ver os planos com o link de indicação",
+    "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Compras pelo link de indicação podem gerar crédito na Hostinger para o Bruno, sem custo extra para você.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-e-confiavel",
+      "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+    },
+    {
+      "slug": "cupom-hostinger-indicacao",
+      "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+    },
+    {
+      "slug": "black-friday-hostinger",
+      "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+    }
+  ]
+}

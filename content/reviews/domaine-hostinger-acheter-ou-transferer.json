@@ -1,0 +1,231 @@
+{
+  "id": 669,
+  "slug": "domaine-hostinger-acheter-ou-transferer",
+  "locale": "fr",
+  "translationKey": "hostinger-dominio",
+  "title": "Domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs ? Prix, renouvellement et ce qu'il faut vérifier",
+  "seoTitle": "Domaine Hostinger : acheter, transférer ou ailleurs",
+  "type": "Guide de choix",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Édition et analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Domaine chez Hostinger : les trois voies (l'acheter là, l'acheter ailleurs et le pointer, le transférer), le prix d'enregistrement et de renouvellement du .com au 28 octobre 2026 et ce qu'il faut vérifier avant de payer.",
+  "metaDescription": "Acheter le domaine chez Hostinger, l'enregistrer ailleurs et le pointer, ou le transférer ? Le prix du .com avec le renouvellement à côté, la règle des 60 jours, qui en est propriétaire et la liste à vérifier avant de payer.",
+  "publishedAt": "28 octobre 2026",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+  "imageAlt": "Logo Hostinger à côté de trois voies pour le domaine : l'acheter chez Hostinger, l'acheter ailleurs et le pointer, ou le transférer",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Le domaine est un compte séparé de l'hébergement : il peut rester chez Hostinger ou chez un autre registrar, et le site fonctionne dans les deux cas. Choisissez selon le prix de renouvellement et la facilité de partir, pas selon la première année. Achetez chez Hostinger si vous voulez tout dans un seul panneau, et ne transférez qu'un domaine enregistré depuis plus de 60 jours ; les prix du 28 octobre 2026 sont ci-dessous."
+      ]
+    },
+    {
+      "heading": "Domaine et hébergement sont deux comptes",
+      "paragraphs": [
+        "Le domaine est l'adresse (le nom que les gens tapent). L'hébergement est l'ordinateur où se trouve le site. Vous payez les deux séparément, et ils n'ont pas besoin d'être chez la même entreprise : un domaine enregistré chez l'une peut pointer vers l'hébergement d'une autre. La page de Hostinger elle-même dit qu'un domaine enregistré chez elle peut être pointé vers un autre hébergeur.",
+        "La décision n'est donc pas \"Hostinger ou non\". C'est où se trouve l'enregistrement du domaine, combien coûte son renouvellement chaque année et ce qui se passe si vous changez un jour d'hébergement. La première année bon marché est le moins important : le domaine se renouvelle tant que le site existe."
+      ]
+    },
+    {
+      "heading": "Les trois voies",
+      "paragraphs": [
+        "Qui monte un site a trois options pour le domaine. Le schéma résume ce qui change dans chacune, d'après les pages de Hostinger consultées le 28 octobre 2026."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-fr.webp",
+        "alt": "Schéma avec trois voies pour le domaine : l'acheter avec l'hébergement (enregistré chez Hostinger), le transférer (l'enregistrement passe chez Hostinger) et le laisser ailleurs et le pointer (l'enregistrement reste où il est) ; dans les trois cas le domaine est à vous, ce qui change est qui facture le renouvellement",
+        "caption": "Les trois voies pour le domaine, d'après les pages de Hostinger consultées le 28 octobre 2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7787
+      },
+      "comparisonTable": {
+        "headers": [
+          "Voie",
+          "Quand c'est logique",
+          "Renouvellement",
+          "Si vous changez d'hébergement",
+          "Qui est propriétaire"
+        ],
+        "rows": [
+          [
+            "Acheter chez Hostinger",
+            "Vous allez héberger chez Hostinger et voulez domaine, DNS et renouvellement dans le même panneau",
+            "Prix de renouvellement du tableau de Hostinger, chaque année",
+            "Le domaine reste chez Hostinger ; vous pointez le DNS vers le nouvel hébergement ou le transférez plus tard",
+            "Vous, enregistré à votre nom"
+          ],
+          [
+            "Acheter ailleurs et pointer",
+            "Vous avez déjà un domaine chez un autre registrar ou préférez séparer les comptes",
+            "Prix du registrar où il se trouve",
+            "Rien ne change pour le domaine ; seul le pointage",
+            "Vous, chez l'autre registrar"
+          ],
+          [
+            "Transférer chez Hostinger",
+            "Vous avez le domaine depuis plus de 60 jours et voulez tout au même endroit",
+            "Prix de renouvellement de Hostinger à partir de l'année suivante",
+            "Même règle que la première voie",
+            "Vous ; les données de propriété ne changent pas lors du transfert"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Les forfaits d'hébergement Premium et Unlimited de 12 mois ou plus incluent un domaine la première année, un par compte, sur des extensions sélectionnées ; à partir de la deuxième année, il se renouvelle au prix normal du tableau. C'est un élément du forfait, pas une raison de choisir la voie : ce qui pèse, c'est le renouvellement."
+      ]
+    },
+    {
+      "heading": "Combien ça coûte chez Hostinger",
+      "paragraphs": [
+        "Prix de la page internationale de domaines de Hostinger, en dollars américains, consultée le 28 octobre 2026 via le lien de parrainage, pendant la campagne du Black Friday ; ils peuvent varier selon le pays et la devise, alors vérifiez la page de votre région. Le prix bas de la première année vaut avec un engagement de 3 ans ; le renouvellement est annuel, à la fin de la période payée."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Extension",
+          "Première année",
+          "Renouvellement (par an)",
+          "Transfert chez Hostinger"
+        ],
+        "rows": [
+          [
+            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "19,99 US$, ou 0,01 US$ avec un engagement de 3 ans",
+            "19,99 US$",
+            "9,99 US$"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "La lecture est la suivante : le .com se renouvelle au même prix que la première année pleine, 19,99 US$, sans saut la deuxième année. La même page liste les autres extensions (.org, .online, .shop, .store) avec le renouvellement à côté du prix de la première année, et c'est cette colonne qu'il faut lire : sur la page brésilienne, consultée le même jour, les extensions les moins chères la première année se renouvelaient à plus de trente fois le prix d'entrée. Le prix d'entrée ne dit rien de ce que vous paierez la deuxième année.",
+        "Avec l'engagement de 3 ans, les 0,01 US$ ne valent que pour la première année ; la page n'affiche pas le total des trois ans en dehors du panier, alors vérifiez le montant avant de payer. Pour comparer, regardez le prix de renouvellement chez le registrar où se trouve votre domaine aujourd'hui : le laisser là, c'est la voie \"ailleurs et pointer\" du tableau ci-dessus.",
+        "La confidentialité des données de contact (RDAP, l'ancien WHOIS) est incluse sur les extensions compatibles. Chaque pays a sa propre extension (comme le .fr ou le .be), gérée par son propre registre avec ses propres règles, et le prix change avec la devise."
+      ]
+    },
+    {
+      "heading": "Transférer : la règle des 60 jours et la marche à suivre",
+      "paragraphs": [
+        "Transférer, c'est déplacer l'enregistrement du domaine d'une entreprise à une autre. La page de transfert de Hostinger dit que le site et l'e-mail continuent de fonctionner pendant le processus, et que les données de propriété ne changent pas. Ce qui change, c'est qui facture le renouvellement et où vous gérez le DNS.",
+        "Les règles, d'après la page de Hostinger consultée le 28 octobre 2026 :"
+      ],
+      "bullets": [
+        "**Ancienneté de l'enregistrement :** dans la plupart des cas, le domaine doit être enregistré depuis au moins 60 jours. Un domaine nouvellement enregistré chez Hostinger est lui aussi verrouillé 60 jours avant de pouvoir partir.",
+        "**Déverrouillage et code :** vous déverrouillez le domaine dans le panneau du registrar actuel et récupérez le code d'autorisation (EPP, ou code de transfert).",
+        "**Confirmation :** après avoir saisi le code chez Hostinger, vous recevez un e-mail du registrar pour confirmer. Sans la confirmation, le transfert n'avance pas.",
+        "**Délai :** jusqu'à sept jours ; plus rapide si le registrar actuel libère vite le domaine et si vous confirmez l'e-mail tout de suite.",
+        "**Prix :** ce n'est pas gratuit. Sur la plupart des extensions génériques (.com, .net, .org), les frais de transfert incluent déjà une année d'enregistrement en plus, ajoutée à la période que vous aviez déjà ; pour le .com, c'était 9,99 US$ le 28 octobre 2026."
+      ],
+      "postParagraphs": [
+        "La marche à suivre de la page est celle des domaines génériques, comme le .com. Les extensions de pays, comme le .fr ou le .be, ont leur propre registre et leur propre procédure de transfert ; avant de demander le code de l'une d'elles, vérifiez la procédure dans le support de Hostinger.",
+        "Transférer hors de Hostinger suit la même logique à l'envers : 60 jours d'enregistrement, déverrouiller dans le panneau de Hostinger, récupérer le code et confirmer par e-mail. Un transfert abouti n'est pas remboursé ; voyez [les règles de remboursement et de renouvellement de Hostinger](/fr/reviews/hostinger-est-il-fiable)."
+      ]
+    },
+    {
+      "heading": "Qui est propriétaire du domaine",
+      "paragraphs": [
+        "Hostinger le dit sur les deux pages : le domaine est enregistré à votre nom, et il est à vous, pas au registrar. Hostinger est accrédité par l'ICANN, l'organisme qui coordonne les domaines génériques. Si vous annulez l'hébergement, le domaine reste à vous ; pour le domaine venu avec le forfait, les frais d'enregistrement sont déduits du remboursement, parce qu'ils ont déjà été payés au registre.",
+        "Trois précautions gardent le domaine entre vos mains :"
+      ],
+      "bullets": [
+        "**Le compte :** le domaine appartient au compte Hostinger dans lequel il a été acheté. Utilisez un e-mail que vous contrôlez, pas celui d'un freelance ou d'une agence. Qui enregistre au nom de quelqu'un d'autre dépend de cette personne pour le transférer ensuite.",
+        "**Le renouvellement :** Hostinger recommande de laisser le renouvellement automatique activé. Un domaine expiré fait tomber le site et l'e-mail. Le renouvellement de domaine n'est pas remboursé, alors la carte du compte doit être à jour.",
+        "**Le remboursement de l'enregistrement :** un nouvel enregistrement ne peut être remboursé que sous 96 heures. Ensuite, le domaine est à vous jusqu'à la fin de la période payée, sans remboursement."
+      ]
+    },
+    {
+      "heading": "Liste à vérifier avant de payer",
+      "bullets": [
+        "Regardez la colonne du renouvellement, pas seulement la première année. Le domaine se renouvelle chaque année tant que le site existe.",
+        "Avec l'engagement de 3 ans, vérifiez dans le panier le total des trois ans : la page n'affiche que la première.",
+        "Si vous allez transférer, vérifiez la date d'enregistrement : à moins de 60 jours, le transfert ne démarre pas.",
+        "Achetez dans le compte qui sera le vôtre, avec un e-mail à vous et le renouvellement automatique activé.",
+        "Pour une extension de pays, vérifiez sa procédure de transfert propre dans le support de Hostinger avant d'acheter, si l'idée est de partir un jour.",
+        "Si le domaine est venu avec le forfait d'hébergement, notez le prix de renouvellement de la deuxième année : il s'affiche avant l'achat.",
+        "La réduction de parrainage vaut sur le forfait d'hébergement, et les conditions ne listent pas le domaine parmi les services éligibles ; vérifiez le prix du domaine dans le panier avant de payer."
+      ]
+    },
+    {
+      "heading": "Quelle voie choisir",
+      "paragraphs": [
+        "**Achetez chez Hostinger** si le site y sera hébergé et que vous voulez domaine, DNS et renouvellement dans le même panneau. Le .com se renouvelle à 19,99 US$ par an (28 octobre 2026), le même prix que la première année pleine, sans saut la deuxième année.",
+        "**Achetez ailleurs et pointez** si vous avez déjà un domaine chez un autre registrar, si vous préférez séparer les comptes, ou si le prix de renouvellement là-bas est plus bas. Pointer le DNS est un réglage dans le panneau, et le site fonctionne de la même façon.",
+        "**Transférez** seulement un domaine enregistré depuis plus de 60 jours, et seulement si le renouvellement chez Hostinger bat ce que vous payez aujourd'hui. Sur la plupart des extensions génériques, les frais de transfert incluent une année d'enregistrement en plus, donc ce n'est pas de l'argent perdu.",
+        "Dans le doute, ne transférez pas : pointez le domaine et laissez l'enregistrement où il est. Vous pourrez transférer plus tard, et le site ne s'arrête pas."
+      ]
+    },
+    {
+      "heading": "Parrainage et prix avec le lien",
+      "paragraphs": [
+        "Le lien de parrainage applique de lui-même la réduction sur le forfait d'hébergement : il n'y a aucun code à saisir. Ce sont 20 % sur la première période seulement, sur des forfaits de 12 mois ou plus, et la réduction ne se cumule pas avec d'autres codes promo. Les conditions ne listent pas le domaine parmi les services éligibles ; ce qui compte, c'est ce qui s'affiche dans le panier. La règle complète est dans [comment fonctionne le parrainage Hostinger](/fr/reviews/code-promo-hostinger-parrainage), et les forfaits, sur [la page Hostinger](/fr/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Combien coûte un domaine chez Hostinger ? Le 28 octobre 2026, sur le site international et en dollars, le .com coûtait 19,99 US$ la première année, ou 0,01 US$ avec un engagement de 3 ans, et se renouvelle à 19,99 US$ par an ; le transfert coûte 9,99 US$. Les prix peuvent varier selon le pays et la devise.",
+        "Puis-je changer d'hébergement sans perdre le domaine ? Oui. Le domaine est à vous et reste dans le compte Hostinger ; vous pointez le DNS vers le nouvel hébergement ou transférez l'enregistrement plus tard, en respectant les 60 jours depuis l'enregistrement.",
+        "Je prends un .com ou l'extension de mon pays ? Le .com est générique et vaut dans n'importe quel pays ; l'extension de pays (comme le .fr ou le .be) est gérée par le registre de ce pays, avec ses propres règles, et convient à un site qui s'adresse au public de là-bas. Chez Hostinger, le .com se renouvelle à 19,99 US$ par an (28 octobre 2026).",
+        "Faut-il un domaine pour avoir un e-mail ? Oui. Pour une adresse comme vous@votreentreprise.com, le domaine doit exister ; l'hébergement n'est pas obligatoire, et Hostinger dit qu'on peut utiliser le domaine seulement pour l'e-mail ou pour rediriger vers un autre site.",
+        "Peut-on transférer le domaine de Hostinger vers un autre registrar ? Oui, 60 jours après l'enregistrement : vous déverrouillez le domaine dans le panneau, récupérez le code d'autorisation et confirmez par e-mail chez le nouveau registrar. Un transfert abouti n'est pas remboursé."
+      ]
+    },
+    {
+      "heading": "Qui écrit",
+      "paragraphs": [
+        "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine emcasacomcecilia.com est enregistré chez Hostinger depuis le 17 novembre 2024 (enregistrement public RDAP, consulté le 28 octobre 2026). Personne dans l'équipe n'a transféré de domaine : ce texte réunit ce que disent les pages de domaine et de transfert de Hostinger, consultées le 28 octobre 2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Le code de parrainage est déjà dans le lien : les 20 % valent sur le forfait d'hébergement, pour la première période seulement, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo. Vérifiez le prix du domaine dans le panier avant de payer.",
+    "label": "Voir les forfaits avec le lien de parrainage",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Les achats faits par le lien de parrainage peuvent donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-est-il-fiable",
+      "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+    },
+    {
+      "slug": "code-promo-hostinger-parrainage",
+      "title": "Code promo Hostinger : inutile, voici ce que donne le lien de parrainage"
+    },
+    {
+      "slug": "black-friday-hostinger-offres",
+      "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+    }
+  ]
+}
