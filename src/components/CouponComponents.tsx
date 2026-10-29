@@ -93,6 +93,9 @@ type CouponStoreLinkProps = {
     | 'review_sidebar'
     | 'review_top'
     | 'review_end'
+    // Os banners de campanha da loja entre as seções do artigo (storeBanners.ts).
+    | 'review_banner_top'
+    | 'review_banner_mid'
     | 'review_mobile_drawer'
     | 'home_store_banner';
   className?: string;

@@ -5,6 +5,8 @@ import { generateSectionIds, type Review, type ReviewViewModel } from '@/lib/con
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { getCouponBySlug, getStoreCodeKind } from '@/lib/couponsData';
 import { getLocalizedCoupon } from '@/lib/couponTranslations';
+import { isFaqHeading } from '@/lib/faq';
+import { getStoreBanners, placeStoreBanners } from '@/lib/storeBanners';
 import { serializeJsonLd } from '@/lib/jsonLd';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
@@ -22,6 +24,7 @@ import { GuideTimeline } from './GuideTimeline';
 import { ArticleCodeCopyProvider } from './HighlightCoupon';
 import { ArticleHeader } from './article/ArticleHeader';
 import { ArticleEnd } from './article/ArticleEnd';
+import { ArticlePromoBanner } from './article/ArticlePromoBanner';
 
 export interface ReviewNotebookTemplateProps {
   review: Review;
@@ -159,6 +162,25 @@ export function ReviewNotebookTemplate({
   const bodySectionIds = new Set(bodySections.map(({ id }) => id));
   const unanchoredNotes = notes.filter((note) => !note.anchor || (!bodySectionIds.has(note.anchor) && !isLineAnchor(note.anchor)));
 
+  // Os banners de campanha da loja (storeBanners.ts): o `top` depois da 1ª seção do corpo, o `mid` antes do FAQ.
+  const banners = store ? getStoreBanners(store.slug, new Date()) : {};
+  const bannerPlaces = placeStoreBanners(
+    bodySections.map(({ id }) => id),
+    bodySections.findIndex(({ heading }) => isFaqHeading(heading)),
+  );
+  const bannerSlots: Record<string, { before?: React.ReactNode; after?: React.ReactNode }> = {};
+  if (store && banners.top && bannerPlaces.top) {
+    bannerSlots[bannerPlaces.top] = {
+      after: <ArticlePromoBanner banner={banners.top} locale={couponCopyLocale} storeBrand={store.brand} reviewSlug={review.slug} />,
+    };
+  }
+  if (store && banners.mid && bannerPlaces.mid) {
+    bannerSlots[bannerPlaces.mid] = {
+      ...bannerSlots[bannerPlaces.mid],
+      before: <ArticlePromoBanner banner={banners.mid} locale={couponCopyLocale} storeBrand={store.brand} reviewSlug={review.slug} />,
+    };
+  }
+
   return (
     <>
       {/* No celular o progresso de leitura fica no dock do sumário. */}
@@ -259,6 +281,7 @@ export function ReviewNotebookTemplate({
                         affiliate={review.affiliate}
                         locale={couponCopyLocale}
                         noteLabels={noteLabels}
+                        slots={bannerSlots}
                       />
                       {stepSections.length > 0 && (
                         <div className="mt-12">
@@ -287,6 +310,7 @@ export function ReviewNotebookTemplate({
                             affiliate={review.affiliate}
                             locale={couponCopyLocale}
                             noteLabels={noteLabels}
+                            slots={bannerSlots}
                           />
                         </div>
                       )}
@@ -304,6 +328,7 @@ export function ReviewNotebookTemplate({
                       affiliate={review.affiliate}
                       locale={couponCopyLocale}
                       noteLabels={noteLabels}
+                      slots={bannerSlots}
                     />
                   )}
 

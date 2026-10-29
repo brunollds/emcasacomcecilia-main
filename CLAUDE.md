@@ -38,6 +38,7 @@ npm run test:covers          # gerador de capas (scripts/media/covers/): faixas,
 npm run covers:render -- <spec.json>   # capas do Discover; modelos no Job 6 do vault (Job-6-Capa-e-Imagens.md)
 npm run covers:check -- <base> content/reviews/<slug>.json   # og:image, capa e alt das páginas que trocaram de capa
 npm run test:html-lang       # depois do build: <html lang> de cada rota
+npm run test:store-banners   # banners de campanha das lojas nos artigos: prazo (fuso de Brasília), lugar (depois da 1ª seção e antes do FAQ) e dados (loja, link que vale nos 10 idiomas, textos dos 10 idiomas sem o código da loja)
 npm run test:article-d2      # antes do build: cores antigas fora do corpo e do topo dos artigos, relacionados, regras do bloco da loja, dock e sidebar
 npm run test:build-output    # depois do build: o header marca a seção atual (uma vez no computador e uma na gaveta, nenhuma na home, textos do PT só no PT, movimento `.header-` só com o movimento liberado), CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, as peças novas do artigo (recorte do topo e bloco da loja só em artigo com loja, bloco do link de afiliado com o `cta.url` em artigo com `cta` e sem loja, 6 relacionados da mesma loja primeiro, galeria sem item repetido, código da loja copiável no texto, corpo e topo sem as cores antigas nem o fundo de caderno), a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas, com imagem e JSON-LD de lista), a /reviews/outros (a bolinha da casa por último em /reviews e em Outras lojas, os cartões, nenhum link de cupom e o sitemap), as páginas de data (imagem e JSON-LD), /videos (o destaque, a grade na ordem, os chips, o JSON-LD de lista e nenhum nome de transição no HTML), as páginas de vídeo (trilha igual ao BreadcrumbList, h1 igual ao VideoObject, o player logo depois do h1 no formato do vídeo, a origem, o botão da loja e Mais vídeos), o "Ver todos os vídeos" da home, o tamanho do player no CSS, a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …), o movimento de /cupons e das páginas de loja (o .recorte só nas caixas com botão de copiar, a tesoura que corre, o verde fora do bloco de movimento, a etiqueta e o recorte que assentam sem opacity e as prateleiras em cascata com o ímã à direita) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
 ```
@@ -257,8 +258,16 @@ vídeo, primeiras impressões e uso noturno.
   (artigo sem loja), o dock aparece na primeira seção. Na sidebar, o sumário tem altura máxima e rola
   por dentro para o recorte continuar à vista.
 - `placement` dos eventos `coupon_copy` e `coupon_store_click` dos artigos: `review_top`, `review_inline`,
-  `review_sidebar`, `review_mobile_dock`, `review_mobile_drawer` e `review_end`. `review_final_cta` e
-  `review_verdict` saíram; componente novo do artigo passa sempre um desses.
+  `review_sidebar`, `review_mobile_dock`, `review_mobile_drawer` e `review_end`, mais `review_banner_top` e
+  `review_banner_mid` (só `coupon_store_click`, sem `coupon_code`). `review_final_cta` e `review_verdict` saíram;
+  componente novo do artigo passa sempre um desses.
+- Banners de campanha da loja ("Publicidade"): as campanhas ficam em `src/lib/storeBanners.ts`, chaveadas pelo
+  `affiliate`, e entram sozinhas em todo artigo da loja, nos 10 idiomas. O `top` vai logo depois da 1ª seção do corpo
+  e o `mid` logo antes do FAQ (sem FAQ, da última), pela prop `slots` do `ReviewContentSections`. O banner
+  (`ArticlePromoBanner`, de `src/components/review/article/`) fala só da campanha: nunca cita o código da loja nem diz
+  que soma com ele. O selo vem de `adLabel` (`articleCopy.ts`). Datas com `-03:00`; campanha que vence antes do
+  próximo deploy some no navegador (`HideAfter`) e o `test:store-banners` avisa para tirá-la do arquivo. O
+  `test:build-output` confere o lugar, o link, o `rel` sponsored e os textos em todo artigo.
 - Texto que é item flex (bullets, prós e contras) precisa de `min-w-0` para quebrar endereços
   longos; o contêiner do artigo já tem `wrap-break-word`.
 
