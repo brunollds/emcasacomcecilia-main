@@ -6,9 +6,9 @@ parceiro: "[[Skelt]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Produto (proposta; o tipo é rótulo livre)"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler os preços na Black Friday de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 modo_i18n: "somente-pt"
@@ -169,3 +169,9 @@ Fatos: `body-splash-skelt-solar-muse-fatos-2910.md`, ao lado.
 1. Links (pedido do Bruno, 29/10): cada produto citado leva o link da ficha com a UTM da parceria, como já está no fatos; nas tabelas de preço, o nome do produto na 1ª célula vira esse link.
 2. Sem alegação de efeito na pele; fixação e duração só atribuídas à ficha. Ninguém do site usou os produtos: sem "resenha" no título, sem ranking e sem "lembra perfume importado" como afirmação nossa. Pendentes de ficha: os listados em "Pendentes de navegador" do briefing; a sessão de artigos confere no Chrome antes de publicar e, sem confirmação, não afirma.
 3. Artigo de produto pelas fichas; liga com [[body-splash-skelt-qual-escolher]] (sem repetir a tabela), com [[body-splash-skelt-milos-breeze]] e com [[hidratante-corporal-skelt-qual-fragrancia]]. A frase da ficha sobre a "mulher brasileira" só como citação da ficha. Título sem "tamanhos" (só existe 100 ml). Notas citadas pela ficha do kit de onde vêm (a ficha avulsa não traz a pirâmide). Camadas que duram "muito mais tempo": só "a ficha sugere". Correção no mesmo PR: o `body-splash-skelt-qual-escolher` diz que o Solar Muse "só aparece em kits", mas ele é vendido avulso a R$ 99,90 (29/10).
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 23:18 UTC: PR #355, release `505eb69a`, id 710 (PT).
+- Preços do cartão lidos em 29/10/2026; cupom e Pix numa frase fora da tabela.
+- No mesmo PR, o `body-splash-skelt-qual-escolher` passou a dizer que o Solar Muse é vendido avulso (R$ 99,90 em 29/10), com o link da ficha, e ganhou a pergunta "A Skelt tem body splash masculino?" no FAQ. Imagens do CDN: capa, frasco e foto das notas.
+- Pendente: reler os preços na Black Friday de 2026.
