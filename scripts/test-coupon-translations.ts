@@ -71,8 +71,9 @@ for (const slug of translatedSlugs) {
     for (const [path, text] of leaves(localized)) {
       assert.ok(!ptProse.has(text), `${slug}/${locale}: texto em PT sobrou em ${path}`);
     }
-    // Rótulos de uma palavra escapam da conferência acima; "oferta" também é espanhol.
-    if (locale !== 'es') {
+    // Rótulos de uma palavra escapam da conferência acima; "oferta" também é espanhol. Sem rótulo em PT (loja
+    // de código), a página usa o padrão do idioma.
+    if (locale !== 'es' && pt.offerTypeLabel) {
       assert.notEqual(localized.offerTypeLabel, pt.offerTypeLabel, `${slug}/${locale}: offerTypeLabel em PT`);
       assert.notEqual(localized.offerTypeLabelPlural, pt.offerTypeLabelPlural, `${slug}/${locale}: offerTypeLabelPlural em PT`);
     }
@@ -113,33 +114,25 @@ for (const locale of TRANSLATED_LOCALES) {
   }
 }
 
-// Hostinger fora do PT: o mesmo SONARDEOFERTAS no site internacional (o PT segue no /br, conferido em
-// test-coupon-offer-modes). O código vai no link e nenhum texto manda digitá-lo.
-const HOSTINGER_GLOBAL_LINK = 'https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS';
+// Hostinger fora do PT (29/10/2026): o SONAR20 no site internacional, com o link de indicação do mesmo código
+// (o PT segue no /br, conferido em test-coupon-offer-modes). O "Cupom testado em" fora do PT só cita o teste do
+// site global, em dólar, e o campo do carrinho é o dele, em inglês.
+const HOSTINGER_GLOBAL_LINK = 'https://www.hostinger.com/?REFERRALCODE=SONAR20';
 assert.ok(translatedSlugs.includes('hostinger'), 'Hostinger deve ter páginas em outros idiomas');
-// Como cada idioma diz "primeiro período", no aviso e nas regras.
-const HOSTINGER_FIRST_TERM: Record<TranslatedLocale, string> = {
-  en: 'first term',
-  es: 'primer período',
-  fr: 'première période',
-  de: 'erste Laufzeit',
-  it: 'primo periodo',
-  ko: '첫 이용 기간',
-  ja: '初回契約期間',
-  'zh-hant': '首期',
-  'zh-hans': '首期',
-};
 for (const locale of TRANSLATED_LOCALES) {
   const hostinger = getLocalizedCoupon('hostinger', locale);
-  assert.ok(hostinger?.offerMode === 'affiliate-link', `hostinger/${locale}: deixou de ser oferta por link`);
+  assert.ok(hostinger?.offerMode === 'discount-code', `hostinger/${locale}: deixou de ser loja de código`);
+  assert.equal(hostinger.code, 'SONAR20', `hostinger/${locale}: código diferente do PT`);
   assert.equal(hostinger.offerUrl, HOSTINGER_GLOBAL_LINK, `hostinger/${locale}: link principal não é o global`);
-  assert.equal(hostinger.referral, undefined, `hostinger/${locale}: indicação sem código de indicação na página`);
-  assert.equal(hostinger.campaigns, undefined, `hostinger/${locale}: indicação sem campanhas`);
-  for (const [field, text] of [['linkNote', hostinger.linkNote ?? ''], ['eligibleCategories', hostinger.eligibleCategories]]) {
-    assert.ok(text.toLowerCase().includes(HOSTINGER_FIRST_TERM[locale].toLowerCase()), `hostinger/${locale}: ${field} não diz que os 20% são só do primeiro período`);
-  }
+  assert.equal(hostinger.referral, undefined, `hostinger/${locale}: loja de código sem código de indicação na página`);
+  assert.equal(hostinger.campaigns, undefined, `hostinger/${locale}: sem campanhas`);
+  assert.equal(hostinger.codeFieldLabel, 'Have a coupon code?', `hostinger/${locale}: o campo é o do carrinho global, em inglês`);
+  assert.match(hostinger.testNote ?? '', /383[.,]52/, `hostinger/${locale}: testNote sem o teste do site global`);
+  assert.match(hostinger.testNote ?? '', /306[.,]82/, `hostinger/${locale}: testNote sem o total com o cupom`);
+  assert.doesNotMatch(hostinger.testNote ?? '', /R\$/, `hostinger/${locale}: testNote cita o teste em reais do /br`);
+  assert.equal(hostinger.codeInstructions?.length, 4, `hostinger/${locale}: passos do cupom`);
   for (const [path, text] of leaves(hostinger)) {
-    if (!isUrl(text)) assert.ok(!text.includes('SONARDEOFERTAS'), `hostinger/${locale}: código no texto de ${path}`);
+    assert.ok(!text.includes('SONARDEOFERTAS'), `hostinger/${locale}: código antigo em ${path}`);
   }
 }
 

@@ -156,18 +156,16 @@ assert.equal(
   'https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers'
 );
 
-// Hostinger (19/10/2026): indicação do Bruno, com o código dentro do link. É a exceção explícita à regra das
-// promoções: o desconto do link não soma com outros cupons, e só vale no primeiro período.
+// Hostinger (29/10/2026): programa de agências do Bruno. O SONAR20 vale digitado no carrinho e também vai no
+// link de indicação; o código antigo (SONARDEOFERTAS) não pode sobrar em lugar nenhum.
 const hostinger = getCouponBySlug('hostinger');
-assert.ok(hostinger && hostinger.offerMode === 'affiliate-link', 'Hostinger deve existir como affiliate-link');
-assert.equal('code' in hostinger, false, 'Hostinger: o código vai no link, não se digita');
+assert.ok(hostinger && hostinger.offerMode === 'discount-code', 'Hostinger deve existir como loja de código');
+assert.equal(hostinger.code, 'SONAR20');
+assert.equal(hostinger.discountNumber, 20);
 assert.equal(hostinger.referral, undefined);
 assert.equal(hostinger.hubCategory, 'diversos');
-assert.equal(hostinger.offerUrl, 'https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS');
-assert.match(hostinger.combinable, /^Não soma com outros cupons/, 'Hostinger: a exceção à soma aparece no texto');
-assert.match(hostinger.linkNote ?? '', /primeiro período/, 'Hostinger: o aviso diz que a renovação não tem o desconto');
-const hostingerTexts = JSON.stringify({ ...hostinger, offerUrl: undefined });
-assert.ok(!hostingerTexts.includes('SONARDEOFERTAS'), 'Hostinger: o código só vai no link, nunca no texto da página');
+assert.equal(hostinger.offerUrl, 'https://www.hostinger.com/br?REFERRALCODE=SONAR20');
+assert.ok(!JSON.stringify(hostinger).includes('SONARDEOFERTAS'), 'Hostinger: o código antigo sobrou nos dados');
 
 // "Cupom testado em" só vale com o teste registrado: toda loja com código precisa do testNote. A
 // YesStyle fica de fora porque o código é de recompensa e a página dela é outra.

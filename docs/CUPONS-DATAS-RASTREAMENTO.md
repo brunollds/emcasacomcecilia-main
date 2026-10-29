@@ -48,7 +48,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | `skelt` | Skelt | `SKEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`, faixas de frete grátis em `shipping` e na FAQ, regra do brinde na FAQ; manter `offerUrl` exatamente como veio |
 | `bagaggio` | Bagaggio | `CECILIA10` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`, regra da promoção de 50% na 2ª peça em `combinable` e na FAQ; manter `offerUrl` exatamente como veio |
 | `toda-up` | Toda Up | `MAUAD` (o mesmo da Let's Eat It e da Belive) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`, regra da promoção progressiva em `combinable` e na FAQ; manter `offerUrl` exatamente como veio |
-| `hostinger` | Hostinger | Indicação por link (o `SONARDEOFERTAS` vai no link), sem código para digitar | `lastVerified`, `metaTitle`, `metaDescription` e o percentual e as regras da indicação na FAQ, em PT e nos 9 idiomas de `couponTranslations.ts`; manter os dois links (o `/br` do PT e o global dos outros idiomas) exatamente como vieram |
+| `hostinger` | Hostinger | `SONAR20` (programa de agências, desde 29/10/2026; o mesmo código vai no link de indicação) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription` e as FAQs com data, em PT e nos 9 idiomas de `couponTranslations.ts` (fora do PT, só teste no site global); manter os dois links (o `/br` do PT e o global dos outros idiomas) exatamente como vieram |
 | `shein` | SHEIN | Oferta por link, `referral` e `campaigns` | `lastVerified`, destinos, códigos, público e `verifiedAt` de cada campanha |
 
 #### Cupons inativos (não aparecem no site, mas mantêm histórico)

@@ -185,7 +185,8 @@ for (const locale of LOCALE_HOME_LOCALES) {
     if (!LABEL_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`)) {
       assert.notEqual(store.codeLabel, getCodeTitle(getSidebarCopy('pt'), kind, pt.brand), `${locale}/${store.slug}: rótulo em português`);
     }
-    assert.doesNotMatch(store.codeLabel ?? '', COUPON_WORDS, `${locale}/${store.slug}: código chamado de cupom`);
+    // O código de recompensa e o de indicação não são cupom; o de loja de código (SONAR20) é.
+    if (kind) assert.doesNotMatch(store.codeLabel ?? '', COUPON_WORDS, `${locale}/${store.slug}: código chamado de cupom`);
   }
 }
 
@@ -245,7 +246,11 @@ const PT_ONLY_TEXTS = [
 ];
 // Loja sem código é legítima: sem código nenhum não há o que conferir.
 const CODE_AS_COUPON = codeAsCouponRegExp(
-  expectedSlugs.map((slug) => getStoreCode(getCouponBySlug(slug)!)).filter((code): code is string => Boolean(code))
+  expectedSlugs.flatMap((slug) => {
+    const store = getCouponBySlug(slug)!;
+    const code = getStoreCode(store);
+    return code && getStoreCodeKind(store, code) ? [code] : [];
+  })
 );
 const decode = (text: string) =>
   text.replace(/&#x27;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
