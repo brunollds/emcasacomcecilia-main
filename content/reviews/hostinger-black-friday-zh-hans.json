@@ -123,9 +123,10 @@
   "cta": {
     "text": "通过推荐链接查看套餐，付款前先与活动总价比较。",
     "label": "查看折扣套餐",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "通过推荐，Bruno 可能获得 Hostinger 的账户额度，你不需额外付费。活动价可能与链接价格不同，付款前请比较。",
   "relatedArticles": [

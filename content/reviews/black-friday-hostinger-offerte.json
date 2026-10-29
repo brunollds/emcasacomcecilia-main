@@ -123,9 +123,10 @@
   "cta": {
     "text": "Vedi i piani con il link di invito e confronta il totale con quello della campagna prima di pagare.",
     "label": "Vedi i piani scontati",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "L’invito può generare un credito per Bruno, senza costi extra per te. La campagna può avere un prezzo diverso dal link: confronta prima di pagare.",
   "relatedArticles": [

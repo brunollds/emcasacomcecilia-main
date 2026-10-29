@@ -271,9 +271,10 @@
   "cta": {
     "text": "Der Empfehlungslink wendet den Rabatt schon an: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
     "label": "Tarife mit Empfehlungslink ansehen",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Käufe über diesen Link können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team nutzt OpenClaw oder Hermes Agent.",
   "relatedArticles": [

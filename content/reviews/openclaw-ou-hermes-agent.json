@@ -31,7 +31,7 @@
     }
   ],
   "description": "OpenClaw ou Hermes Agent: canais, memória, aprendizado, licença e custo real na Hostinger, com preços lidos em 21/10/2026.",
-  "metaDescription": "OpenClaw ou Hermes Agent na Hostinger: qual escolher, canais, memória, modelos de IA e preço com e sem a indicação, lidos em 21/10/2026.",
+  "metaDescription": "OpenClaw ou Hermes Agent na Hostinger: qual escolher, canais, memória, modelos de IA e preço com e sem o SONAR20, lidos em 21/10/2026.",
   "publishedAt": "21 de outubro de 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -192,8 +192,8 @@
         "headers": [
           "Plano",
           "Servidor",
-          "Sem a indicação",
-          "Com a indicação",
+          "Sem o SONAR20",
+          "Com o SONAR20",
           "Renovação"
         ],
         "rows": [
@@ -241,10 +241,10 @@
       ]
     },
     {
-      "heading": "Indicação",
+      "heading": "Cupom SONAR20",
       "paragraphs": [
-        "O link de indicação já aplica o desconto: não há código para digitar. São **20% só no primeiro período**, em planos de 12 meses ou mais, e o desconto não soma com outros cupons. A renovação sai pelo preço normal. Confira o valor no carrinho antes de pagar.",
-        "A regra completa está em [como funciona a indicação da Hostinger](/reviews/cupom-hostinger-indicacao)."
+        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. A renovação sai pelo preço normal. Confira o valor no carrinho antes de pagar.",
+        "Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao)."
       ]
     },
     {
@@ -268,13 +268,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "A indicação já vai no link: os 20% valem só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons.",
-    "label": "Ver os planos com o link de indicação",
-    "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. A renovação sai pelo preço normal.",
+    "label": "Ver os planos com o SONAR20",
+    "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Compras pelo link de indicação podem gerar crédito na Hostinger para o Bruno, sem custo extra para você. Ninguém da equipe usa o OpenClaw nem o Hermes Agent.",
+  "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usa o OpenClaw nem o Hermes Agent.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-gerenciado-ou-vps",

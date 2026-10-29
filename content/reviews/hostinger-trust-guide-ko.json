@@ -199,9 +199,10 @@
   "cta": {
     "text": "20% 할인은 첫 결제 기간에만 적용되며 다른 쿠폰과 중복되지 않습니다. 링크로 요금제를 확인하세요.",
     "label": "호스팅어 요금제 보기",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "이 글에는 이 사이트를 호스팅하는 호스팅어의 추천 링크가 포함되어 있습니다. 링크로 구매하면 브루노가 호스팅어에서 크레딧을 받을 수 있지만, 여러분에게 추가 비용은 없습니다.",
   "relatedArticles": [

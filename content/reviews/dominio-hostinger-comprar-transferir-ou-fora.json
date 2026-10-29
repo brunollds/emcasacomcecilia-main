@@ -116,25 +116,25 @@
         ],
         "rows": [
           [
-            "[.com.br](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONARDEOFERTAS)",
+            "[.com.br](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONAR20)",
             "R$ 64,99, ou R$ 1 com prazo de 3 anos",
             "R$ 64,99",
             "R$ 0,99"
           ],
           [
-            "[.com](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONARDEOFERTAS)",
+            "[.com](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONAR20)",
             "R$ 94,99, ou R$ 0,01 com prazo de 3 anos",
             "R$ 94,99",
             "R$ 54,99"
           ],
           [
-            "[.org](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONARDEOFERTAS)",
+            "[.org](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONAR20)",
             "R$ 44,99",
             "R$ 88,99",
             "R$ 71,99"
           ],
           [
-            "[.online, .shop e .store](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONARDEOFERTAS)",
+            "[.online, .shop e .store](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONAR20)",
             "R$ 5,99",
             "De R$ 197,99 a R$ 284,99",
             "Confira na página"
@@ -186,7 +186,7 @@
         "Compre na conta que vai ser sua, com um e-mail seu e a renovação automática ligada.",
         "Para .com.br, confira o caminho próprio da transferência do .br no suporte da Hostinger antes de comprar, se a ideia é sair um dia.",
         "Se o domínio veio com o plano de hospedagem, anote o preço de renovação do segundo ano: ele aparece antes de comprar.",
-        "O desconto de indicação vale no plano de hospedagem, e os termos não listam domínio entre os serviços elegíveis; confira o valor do domínio no carrinho antes de pagar."
+        "O SONAR20 dá 20% no plano de hospedagem; no domínio avulso, confira no carrinho se o desconto aparece antes de pagar."
       ]
     },
     {
@@ -199,9 +199,9 @@
       ]
     },
     {
-      "heading": "Indicação e preço com o link",
+      "heading": "Cupom SONAR20 e preço",
       "paragraphs": [
-        "O link de indicação já aplica o desconto no plano de hospedagem: não há código para digitar. São 20% só no primeiro período, em planos de 12 meses ou mais, e o desconto não soma com outros cupons. Os termos não listam domínio entre os serviços elegíveis; o que vale é o que aparecer no carrinho. A regra completa está em [como funciona a indicação da Hostinger](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
+        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. A renovação sai pelo preço normal. No domínio avulso, o que vale é o que aparecer no carrinho. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
       ]
     },
     {
@@ -224,13 +224,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "O código de indicação já vai no link: os 20% valem no plano de hospedagem, só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons. Confira o domínio no carrinho antes de pagar.",
-    "label": "Ver os planos com o link de indicação",
-    "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. A renovação sai pelo preço normal. Confira o domínio no carrinho antes de pagar.",
+    "label": "Ver os planos com o SONAR20",
+    "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Compras pelo link de indicação podem gerar crédito na Hostinger para o Bruno, sem custo extra para você.",
+  "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você.",
   "relatedArticles": [
     {
       "slug": "hostinger-e-confiavel",
@@ -238,11 +239,11 @@
     },
     {
       "slug": "cupom-hostinger-indicacao",
-      "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+      "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
     },
     {
       "slug": "black-friday-hostinger",
-      "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+      "title": "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha"
     }
   ]
 }

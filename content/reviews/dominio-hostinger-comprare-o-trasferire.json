@@ -117,7 +117,7 @@
         ],
         "rows": [
           [
-            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONAR20)",
             "19,99 USD, oppure 0,01 USD con durata di 3 anni",
             "19,99 USD",
             "9,99 USD"
@@ -209,9 +209,10 @@
   "cta": {
     "text": "Il codice di invito è già nel link: il 20% vale sul piano di hosting, solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon. Controlla il dominio nel carrello prima di pagare.",
     "label": "Vedi i piani con il link di invito",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te.",
   "relatedArticles": [

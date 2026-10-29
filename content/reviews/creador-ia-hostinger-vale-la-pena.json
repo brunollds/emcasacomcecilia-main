@@ -194,21 +194,21 @@
         ],
         "rows": [
           [
-            "[Premium (hasta 3 sitios)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Premium (hasta 3 sitios)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "US$ 1,99/mes (tachado US$ 12,19)",
             "US$ 95,52",
             "US$ 10,99/mes",
             "250 (500 en Black Friday)"
           ],
           [
-            "[Unlimited (sitios ilimitados, con tienda online)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Unlimited (sitios ilimitados, con tienda online)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "US$ 2,79/mes (tachado US$ 18,99)",
             "US$ 133,92",
             "US$ 16,99/mes",
             "500 (1.000 en Black Friday)"
           ],
           [
-            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "US$ 6,39/mes",
             "US$ 306,72",
             "US$ 25,99/mes",
@@ -279,9 +279,10 @@
   "cta": {
     "text": "El código de referido ya va en el enlace: el 20 % vale solo para el primer período, en planes de 12 meses o más, y no se suma a otros cupones.",
     "label": "Ver los planes con el enlace de referido",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Las compras con el enlace de referido pueden darle a Bruno un crédito en Hostinger, sin costo extra para ti. Nadie del equipo ha usado el AI Builder.",
   "relatedArticles": [

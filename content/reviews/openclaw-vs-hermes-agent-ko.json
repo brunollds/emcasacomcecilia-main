@@ -271,9 +271,10 @@
   "cta": {
     "text": "추천 코드는 이미 링크에 들어 있습니다. 20%는 첫 기간에만, 12개월 이상 플랜에서 적용되며, 다른 할인 코드와 함께 쓸 수 없습니다.",
     "label": "추천 링크로 플랜 보기",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "이 링크로 구매하면 Bruno에게 호스팅어 크레딧이 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 OpenClaw나 Hermes Agent를 쓰지 않습니다.",
   "relatedArticles": [

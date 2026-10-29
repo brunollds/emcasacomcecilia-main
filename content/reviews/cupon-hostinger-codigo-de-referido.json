@@ -146,9 +146,10 @@
   "cta": {
     "text": "El código de referido ya va en el enlace: los 20% valen solo en el primer período y no se suman a otros cupones.",
     "label": "Ver los planes con descuento",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Las compras con el enlace de referido pueden generar crédito en Hostinger para Bruno, sin costo extra para ti. El sitio funciona con Hostinger.",
   "relatedArticles": [

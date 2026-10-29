@@ -146,9 +146,10 @@
   "cta": {
     "text": "推薦代碼已經在連結裡：20% 只適用於首期，不能與其他優惠券疊加。",
     "label": "查看享有折扣的方案",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "透過推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。本站跑在 Hostinger 上。",
   "relatedArticles": [

@@ -123,9 +123,10 @@
   "cta": {
     "text": "透過推薦連結查看方案，付款前先與活動總價比較。",
     "label": "查看折扣方案",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "透過推薦，Bruno 可能獲得 Hostinger 的帳戶額度，你不需額外付費。活動價可能與連結價格不同，付款前請比較。",
   "relatedArticles": [

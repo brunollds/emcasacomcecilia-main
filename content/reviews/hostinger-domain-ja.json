@@ -117,7 +117,7 @@
         ],
         "rows": [
           [
-            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONAR20)",
             "US$ 19.99、または3年契約でUS$ 0.01",
             "US$ 19.99",
             "US$ 9.99"
@@ -209,9 +209,10 @@
   "cta": {
     "text": "紹介コードはすでにリンクに含まれています。20%はホスティングプランに、最初の期間のみ、12か月以上のプランで有効で、他のクーポンとは併用できません。支払う前にカートでドメインを確認してください。",
     "label": "紹介リンクでプランを見る",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "紹介リンクからの購入で、Bruno に Hostinger のクレジットが入る場合がありますが、あなたに追加の費用はかかりません。",
   "relatedArticles": [

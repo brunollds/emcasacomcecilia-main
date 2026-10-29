@@ -199,9 +199,10 @@
   "cta": {
     "text": "Die 20 % gelten nur für die erste Laufzeit und lassen sich nicht mit anderen Gutscheinen kombinieren. Die Tarife finden Sie über den Link.",
     "label": "Hostinger-Tarife ansehen",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Dieser Text enthält einen Empfehlungslink von Hostinger, das diese Website hostet. Ein Kauf über den Link kann Bruno Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie.",
   "relatedArticles": [

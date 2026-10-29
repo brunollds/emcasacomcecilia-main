@@ -146,9 +146,10 @@
   "cta": {
     "text": "추천 코드는 이미 링크에 들어 있습니다. 20%는 첫 기간에만 적용되며 다른 쿠폰과 중복되지 않습니다.",
     "label": "할인 요금제 보기",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "추천 링크로 구매하면 Bruno에게 Hostinger 크레딧이 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 이 사이트는 Hostinger에서 운영됩니다.",
   "relatedArticles": [

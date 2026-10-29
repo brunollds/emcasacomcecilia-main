@@ -277,9 +277,10 @@
   "cta": {
     "text": "如果你已经决定，首个周期享 20% 折扣的套餐就在链接中。这项折扣不能与其他优惠码叠加。",
     "label": "查看折扣套餐",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "推荐链接：通过此链接购买，Bruno 可能获得 Hostinger 的账户额度，对你没有额外费用。本网站运行在 Hostinger 上。",
   "relatedArticles": [

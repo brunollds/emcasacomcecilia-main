@@ -277,9 +277,10 @@
   "cta": {
     "text": "Si vous avez déjà décidé, les offres à 20 % sur la première période sont accessibles via le lien. La réduction ne se cumule pas avec d’autres coupons.",
     "label": "Voir les offres avec réduction",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Lien de parrainage : un achat par ce lien peut donner un crédit chez Hostinger à Bruno, sans coût supplémentaire pour vous. Ce site fonctionne sur Hostinger.",
   "relatedArticles": [

@@ -199,9 +199,10 @@
   "cta": {
     "text": "20% 優惠只適用於首個計費週期，且不能與其他優惠券疊加。透過連結查看方案。",
     "label": "查看 Hostinger 方案",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "本文含有 Hostinger 的推薦連結，而 Hostinger 也是本站的主機服務商。透過連結購買，Bruno 可能獲得 Hostinger 的帳戶額度，但你不需額外付費。",
   "relatedArticles": [

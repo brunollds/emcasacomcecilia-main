@@ -271,9 +271,10 @@
   "cta": {
     "text": "Il codice di invito è già nel link: il 20% vale solo sul primo periodo, sui piani di 12 mesi o più, e non si somma con altri codici sconto.",
     "label": "Vedi i piani con il link di invito",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Gli acquisti fatti con questo link possono generare un credito Hostinger per Bruno, senza costi extra per te. Nessuno del team usa OpenClaw né Hermes Agent.",
   "relatedArticles": [

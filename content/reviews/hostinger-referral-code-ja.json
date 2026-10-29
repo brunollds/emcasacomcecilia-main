@@ -146,9 +146,10 @@
   "cta": {
     "text": "紹介コードはすでにリンクに含まれています。20%は最初の期間のみで、他のクーポンとは併用できません。",
     "label": "割引プランを見る",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "紹介リンクからの購入で、Brunoに Hostinger のクレジットが付く場合があります。あなたに追加費用はかかりません。当サイトはHostingerで運営されています。",
   "relatedArticles": [

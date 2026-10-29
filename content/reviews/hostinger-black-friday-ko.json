@@ -123,9 +123,10 @@
   "cta": {
     "text": "추천 링크로 플랜을 보고, 결제 전에 캠페인 총액과 비교하세요.",
     "label": "할인 플랜 보기",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "추천을 통해 Bruno가 크레딧을 받을 수 있지만 여러분에게 추가 비용은 없습니다. 캠페인 가격은 링크 가격과 다를 수 있으니 결제 전에 비교하세요.",
   "relatedArticles": [

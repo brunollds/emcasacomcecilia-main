@@ -123,9 +123,10 @@
   "cta": {
     "text": "Mira los planes con el enlace de referido y compara el total del primer período antes de pagar.",
     "label": "Ver planes con descuento",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "El enlace de referido puede generar crédito para Bruno, sin costo extra para ti. El precio de la campaña puede ser distinto del precio del enlace: compara antes de pagar.",
   "relatedArticles": [

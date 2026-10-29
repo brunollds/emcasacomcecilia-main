@@ -193,19 +193,19 @@
         ],
         "rows": [
           [
-            "[Premium (bis zu 3 Websites)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Premium (bis zu 3 Websites)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "1,99 USD pro Monat (durchgestrichener Listenpreis: 12,19 USD)",
             "95,52 USD",
             "10,99 USD pro Monat"
           ],
           [
-            "[Unlimited (unbegrenzt viele Websites, mit Onlineshop)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Unlimited (unbegrenzt viele Websites, mit Onlineshop)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "2,79 USD pro Monat (durchgestrichen: 18,99 USD)",
             "133,92 USD",
             "16,99 USD pro Monat"
           ],
           [
-            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "6,39 USD pro Monat",
             "306,72 USD",
             "25,99 USD pro Monat"
@@ -275,9 +275,10 @@
   "cta": {
     "text": "Der Empfehlungscode steckt schon im Link: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
     "label": "Die Tarife mit Empfehlungslink ansehen",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team hat den KI-Builder genutzt.",
   "relatedArticles": [

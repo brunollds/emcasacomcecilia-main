@@ -199,9 +199,10 @@
   "cta": {
     "text": "20% 优惠仅适用于首个计费周期，且不能与其他优惠券叠加。通过链接查看套餐。",
     "label": "查看 Hostinger 套餐",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "本文含有 Hostinger 的推荐链接，而 Hostinger 也是本站的主机服务商。通过链接购买，Bruno 可能获得 Hostinger 的账户额度，但你不需要额外付费。",
   "relatedArticles": [

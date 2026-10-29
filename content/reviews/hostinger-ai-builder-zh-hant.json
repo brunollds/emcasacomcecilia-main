@@ -193,21 +193,21 @@
         ],
         "rows": [
           [
-            "[Premium（最多 3 個網站）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Premium（最多 3 個網站）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "US$ 1.99（原價 US$ 12.19）",
             "US$ 95.52",
             "US$ 10.99/月",
             "250（黑色星期五 500）"
           ],
           [
-            "[Unlimited（網站不限，含網路商店）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Unlimited（網站不限，含網路商店）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "US$ 2.79（原價 US$ 18.99）",
             "US$ 133.92",
             "US$ 16.99/月",
             "500（黑色星期五 1,000）"
           ],
           [
-            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "US$ 6.39",
             "US$ 306.72",
             "US$ 25.99/月",
@@ -278,9 +278,10 @@
   "cta": {
     "text": "推薦代碼已經在連結裡：20% 只在首期，限 12 個月以上的方案，不能與其他優惠券疊加。",
     "label": "透過推薦連結查看方案",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "透過推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。團隊中沒有人用過 AI Builder。",
   "relatedArticles": [

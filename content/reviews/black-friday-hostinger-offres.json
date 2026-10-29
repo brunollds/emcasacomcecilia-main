@@ -123,9 +123,10 @@
   "cta": {
     "text": "Voyez les formules avec le lien de parrainage et comparez le total de la première période avant de payer.",
     "label": "Voir les formules avec réduction",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Le lien de parrainage peut donner un crédit à Bruno, sans coût supplémentaire pour vous. Le prix de la campagne peut être différent de celui du lien : comparez avant de payer.",
   "relatedArticles": [

@@ -123,9 +123,10 @@
   "cta": {
     "text": "紹介リンクでプランを見て、支払う前にキャンペーンの合計と比べてください。",
     "label": "割引つきのプランを見る",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "紹介によってBrunoにクレジットが入ることがありますが、あなたに追加費用はかかりません。キャンペーンの価格はリンクの価格と違うことがあるので、支払う前に比べてください。",
   "relatedArticles": [

@@ -123,9 +123,10 @@
   "cta": {
     "text": "Sehen Sie sich die Tarife mit dem Empfehlungslink an und vergleichen Sie den Gesamtbetrag des ersten Zeitraums, bevor Sie zahlen.",
     "label": "Tarife mit Rabatt ansehen",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Der Empfehlungslink kann Bruno eine Gutschrift einbringen, ohne Mehrkosten für Sie. Der Aktionspreis kann vom Preis über den Link abweichen: Vergleichen Sie, bevor Sie zahlen.",
   "relatedArticles": [

@@ -249,9 +249,10 @@
   "cta": {
     "text": "El código de referido ya va en el enlace: no hay nada que escribir. El 20 % vale solo para el primer período, en planes de 12 meses o más, y no se suma a otros cupones.",
     "label": "Ver los planes con el enlace de referido",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Las compras con el enlace de referido pueden darle a Bruno un crédito en Hostinger, sin costo extra para ti. Nadie del equipo usa Paperclip.",
   "relatedArticles": [

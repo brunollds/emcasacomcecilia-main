@@ -249,9 +249,10 @@
   "cta": {
     "text": "推薦碼已經在連結裡：20% 只適用於首期，限 12 個月以上的方案，不能與其他優惠券疊加。",
     "label": "透過推薦連結查看方案",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "透過這個推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。團隊中沒有人使用 Paperclip。",
   "relatedArticles": [

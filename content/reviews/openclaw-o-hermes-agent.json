@@ -272,9 +272,10 @@
   "cta": {
     "text": "El enlace de referido ya aplica el descuento: no tienes que escribir nada. Los 20 % valen solo para el primer período, en planes de 12 meses o más, y no se suman a otros códigos de descuento.",
     "label": "Ver los planes con el enlace de referido",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Las compras hechas con el enlace de referido pueden dar a Bruno un crédito en Hostinger, sin costo extra para ti. Nadie del equipo usa OpenClaw ni Hermes Agent.",
   "relatedArticles": [

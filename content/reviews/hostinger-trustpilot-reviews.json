@@ -277,9 +277,10 @@
   "cta": {
     "text": "If you have already decided, the plans with 20% off the first period are behind the link. The discount does not stack with other coupons.",
     "label": "See the discounted plans",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Referral link: buying through it may give Bruno credit with Hostinger, at no extra cost to you. This site runs on Hostinger.",
   "relatedArticles": [

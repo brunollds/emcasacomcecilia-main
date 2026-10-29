@@ -193,19 +193,19 @@
         ],
         "rows": [
           [
-            "[Premium（最大 3 サイト）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Premium（最大 3 サイト）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "US$ 1.99/月（取り消し線の定価 US$ 12.19）",
             "US$ 95.52",
             "US$ 10.99/月"
           ],
           [
-            "[Unlimited（サイト数無制限、ネットショップ付き）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Unlimited（サイト数無制限、ネットショップ付き）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "US$ 2.79/月（取り消し線 US$ 18.99）",
             "US$ 133.92",
             "US$ 16.99/月"
           ],
           [
-            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "US$ 6.39/月",
             "US$ 306.72",
             "US$ 25.99/月"
@@ -275,9 +275,10 @@
   "cta": {
     "text": "コードはすでにリンクに含まれています。20%は最初の期間のみ、12か月以上のプランで有効で、他のクーポンとは併用できません。",
     "label": "紹介リンクでプランを見る",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "紹介リンクからの購入で、Bruno に Hostinger のクレジットが入る場合がありますが、あなたに追加の費用はかかりません。チームの誰も AI Builder は使っていません。",
   "relatedArticles": [

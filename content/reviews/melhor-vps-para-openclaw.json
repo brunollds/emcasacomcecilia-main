@@ -100,7 +100,7 @@
     {
       "heading": "Qual plano KVM escolher",
       "paragraphs": [
-        "KVM é o nome dos planos de servidor virtual da Hostinger. A tabela traz os quatro, com preços de planos de 24 meses lidos em 21/10/2026, e o preço com a indicação já tem os 20%. Leia cada plano diante da documentação; é a nossa leitura dela, não uma medição:"
+        "KVM é o nome dos planos de servidor virtual da Hostinger. A tabela traz os quatro, com preços de planos de 24 meses lidos em 21/10/2026, e o preço com o SONAR20 já tem os 20% do cupom. Leia cada plano diante da documentação; é a nossa leitura dela, não uma medição:"
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
@@ -113,8 +113,8 @@
           "vCPU (processador virtual)",
           "RAM",
           "Disco NVMe",
-          "Com a indicação",
-          "Sem a indicação",
+          "Com o SONAR20",
+          "Sem o SONAR20",
           "Renovação"
         ],
         "rows": [
@@ -163,7 +163,7 @@
         "**KVM 8 (32 GB).** Faz sentido só com um modelo local maior. A documentação não diz quanta memória cada receita grande pede."
       ],
       "postParagraphs": [
-        "A indicação dá 20% só no primeiro período, em planos de 12 meses ou mais, e não soma com outros cupons. A renovação sai pelo preço normal. [Veja como funciona a indicação da Hostinger](/reviews/cupom-hostinger-indicacao) e confira o valor no carrinho antes de pagar. A Hostinger está em Black Friday, e os preços mudam: [veja a campanha](/reviews/black-friday-hostinger)."
+        "O código SONAR20 dá 20% no primeiro período, e a renovação sai pelo preço normal. [Veja como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e confira o valor no carrinho antes de pagar. A Hostinger está em Black Friday, e os preços mudam: [veja a campanha](/reviews/black-friday-hostinger)."
       ]
     },
     {
@@ -181,7 +181,7 @@
           [
             "Quer o assistente no ar sem mexer em servidor, com chave de API ou créditos da Hostinger",
             "Gerenciado",
-            "A Hostinger instala e mantém o assistente. Em 21/10/2026, R$ 19,99/mês com a indicação, em plano de 24 meses"
+            "A Hostinger instala e mantém o assistente. Em 21/10/2026, R$ 19,99/mês com o SONAR20, em plano de 24 meses"
           ],
           [
             "Quer acesso root e rodar outros programas no mesmo servidor, como um site ou o n8n",
@@ -238,12 +238,12 @@
       ]
     },
     {
-      "heading": "Indicação e preço",
+      "heading": "Cupom SONAR20 e preço",
       "paragraphs": [
-        "Preços de 21/10/2026, em plano de 24 meses, já com os 20% da indicação: gerenciado R$ 19,99/mês; VPS KVM 1 R$ 23,99/mês; VPS KVM 2 R$ 34,39/mês. Na renovação, o gerenciado e o KVM 1 vão a R$ 59,99/mês, e o KVM 2 a R$ 77,99/mês."
+        "Preços de 21/10/2026, em plano de 24 meses, já com os 20% do SONAR20: gerenciado R$ 19,99/mês; VPS KVM 1 R$ 23,99/mês; VPS KVM 2 R$ 34,39/mês. Na renovação, o gerenciado e o KVM 1 vão a R$ 59,99/mês, e o KVM 2 a R$ 77,99/mês."
       ],
       "postParagraphs": [
-        "A regra: os 20% valem só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons. Não há código para digitar, porque o desconto já vai no link. Confira o valor no carrinho antes de pagar, porque a Black Friday muda preços. Veja [como funciona a indicação da Hostinger](/reviews/cupom-hostinger-indicacao) e [a página da Hostinger no site](/cupons/hostinger)."
+        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. A renovação sai pelo preço normal. Confira o valor no carrinho antes de pagar, porque a Black Friday muda preços. Veja [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e [a página da Hostinger no site](/cupons/hostinger)."
       ]
     },
     {
@@ -253,7 +253,7 @@
         "Dá para rodar sem chave de API? Dá, com modelo local, mas aí a memória vira o problema: a documentação dá 8 GiB como piso da menor receita local, com contexto de 64K, e avisa que isso não garante que o modelo caiba nem que rode bem. Com os créditos da Hostinger, você não precisa de conta num provedor de IA, mas paga pelo uso.",
         "Oracle é de graça mesmo? É, enquanto a conta seguir o Always Free: 2 OCPUs e 12 GB no Arm A1, mais as instâncias Micro. Uma instância que fica ociosa por 7 dias, com CPU, rede e memória abaixo de 20%, pode ser recuperada pela Oracle.",
         "Mac mini ou VPS? Depende de o computador poder ficar ligado 24 horas. Se pode, rodar em casa tira a mensalidade do servidor; se não pode, escolha VPS ou gerenciado.",
-        "Tem cupom de desconto da Hostinger para VPS do OpenClaw? Não há código para digitar. Os 20% vêm pelo link de indicação, só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons."
+        "Tem cupom de desconto da Hostinger para VPS do OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. A renovação sai pelo preço normal."
       ]
     },
     {
@@ -266,13 +266,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "O link de indicação já aplica o desconto: não há código para digitar. Os 20% valem só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons.",
-    "label": "Ver os planos com o link de indicação",
-    "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. A renovação sai pelo preço normal.",
+    "label": "Ver os planos com o SONAR20",
+    "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Compras pelo link de indicação podem gerar crédito na Hostinger para o Bruno, sem custo extra para você. Ninguém da equipe usa o OpenClaw.",
+  "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usa o OpenClaw.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-gerenciado-ou-vps",
@@ -284,7 +285,7 @@
     },
     {
       "slug": "cupom-hostinger-indicacao",
-      "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+      "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
     }
   ]
 }

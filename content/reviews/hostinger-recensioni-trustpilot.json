@@ -277,9 +277,10 @@
   "cta": {
     "text": "Se hai già deciso, i piani con il 20% sul primo periodo sono nel link. Lo sconto non si cumula con altri coupon.",
     "label": "Vedi i piani scontati",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Link di invito: l'acquisto tramite il link può generare un credito Hostinger per Bruno, senza costi extra per te. Il sito gira sulla Hostinger.",
   "relatedArticles": [

@@ -117,13 +117,13 @@
         ],
         "rows": [
           [
-            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONAR20)",
             "US$ 19.99，或选 3 年期时 US$ 0.01",
             "US$ 19.99",
             "US$ 9.99"
           ],
           [
-            "[其他后缀](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "[其他后缀](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONAR20)",
             "见页面",
             "见页面",
             "见页面"
@@ -215,9 +215,10 @@
   "cta": {
     "text": "推荐代码已经在链接里：20% 用在主机套餐上，仅限首期、12 个月以上的套餐，不能与其他优惠券叠加。付款前请在购物车核对域名的金额。",
     "label": "通过推荐链接查看套餐",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "通过这个推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。",
   "relatedArticles": [

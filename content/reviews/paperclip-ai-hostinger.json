@@ -154,8 +154,8 @@
       "comparisonTable": {
         "headers": [
           "Plano",
-          "Sem a indicação",
-          "Com a indicação",
+          "Sem o SONAR20",
+          "Com o SONAR20",
           "Renovação"
         ],
         "rows": [
@@ -197,16 +197,16 @@
       ]
     },
     {
-      "heading": "Indicação",
+      "heading": "Cupom SONAR20",
       "paragraphs": [
-        "O link de indicação já aplica o desconto, e não há código para digitar. Os 20% valem só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons. A renovação sai pelo preço normal. A regra completa está em [como funciona a indicação da Hostinger](/reviews/cupom-hostinger-indicacao). Confira o valor no carrinho antes de pagar."
+        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. A renovação sai pelo preço normal. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Confira o valor no carrinho antes de pagar."
       ]
     },
     {
       "heading": "Como começar, em ordem",
       "bullets": [
         "**Rodar no seu computador.** O README oficial pede Node.js 24.11 ou mais novo. Confira a versão com o comando node -v no terminal e depois rode npx paperclipai@latest onboard --yes. A interface abre em http://localhost:3100, e o banco Postgres é criado sozinho. Não há custo de servidor, mas o Paperclip só roda enquanto o computador estiver ligado. Se você assina o Claude ou o Codex, o README também aceita entrar pela assinatura, sem chave de API, com o Python 3 e o programa do provedor instalados.",
-        "**Contratar o gerenciado.** Assine o plano “Apps de automação com IA” com 24 meses, pelo link de indicação. Depois da assinatura, a Hostinger prepara a instância e o banco. Você entra no painel, conecta seus agentes e cola as suas chaves de IA.",
+        "**Contratar o gerenciado.** Assine o plano “Apps de automação com IA” com 24 meses, com o código SONAR20 no carrinho. Depois da assinatura, a Hostinger prepara a instância e o banco. Você entra no painel, conecta seus agentes e cola as suas chaves de IA.",
         "**Ou contratar um VPS com Docker.** Escolha um plano KVM (o KVM 1 é o mais barato) e, na lista de aplicativos, o Paperclip, que a Hostinger instala com um clique. Pelo Gerenciador Docker do painel você abre o Paperclip, coloca as chaves e atualiza a versão com um botão. A segurança do servidor, as senhas e as atualizações do sistema continuam sendo suas."
       ]
     },
@@ -223,7 +223,7 @@
         "Paperclip é confiável? Não dá para dar um veredito. Dá para conferir que o código é público, que o repositório indica a equipe Paperclip (Paperclip Labs, Inc. no aviso de copyright) como responsável, e que as falhas de segurança são reportadas por um canal oficial no GitHub. Não encontramos auditoria independente nas fontes lidas em 21/10/2026.",
         "Precisa de chave de API? Sim. No gerenciado e no VPS, a página do Paperclip pede que você traga as suas. No computador, o README também aceita a assinatura de Claude ou de Codex, sem chave de API.",
         "Roda com Ollama? Depende do agente que você conecta. O README do Paperclip não cita o Ollama, um programa para rodar modelo de IA no próprio computador. O OpenClaw, por exemplo, documenta modelos locais; no Paperclip, o modelo fica com o agente que você conecta.",
-        "Dá para pegar desconto pela indicação? Sim, sem código para digitar. O link de indicação da Hostinger aplica 20% no primeiro período de planos de 12 meses ou mais, e o desconto não soma com outros cupons."
+        "Tem cupom para o Paperclip na Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. A renovação sai pelo preço normal."
       ]
     },
     {
@@ -236,13 +236,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "O código de indicação já vai no link: os 20% valem só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons.",
-    "label": "Ver os planos com o link de indicação",
-    "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. A renovação sai pelo preço normal.",
+    "label": "Ver os planos com o SONAR20",
+    "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Compras pelo link de indicação podem gerar crédito na Hostinger para o Bruno, sem custo extra para você. Ninguém da equipe usa o Paperclip.",
+  "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usa o Paperclip.",
   "relatedArticles": [
     {
       "slug": "openclaw-ou-hermes-agent",
@@ -254,7 +255,7 @@
     },
     {
       "slug": "cupom-hostinger-indicacao",
-      "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+      "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
     }
   ]
 }

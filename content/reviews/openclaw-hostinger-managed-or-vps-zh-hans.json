@@ -269,9 +269,10 @@
   "cta": {
     "text": "推荐代码已经在链接里：20% 仅适用于首期，限 12 个月以上的套餐，不能与其他优惠券叠加。",
     "label": "通过推荐链接查看套餐",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "通过这个推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。团队中没有人使用 OpenClaw。",
   "relatedArticles": [

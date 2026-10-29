@@ -130,7 +130,7 @@
         ],
         "rows": [
           [
-            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "1",
             "4 GB",
             "50 GB",
@@ -138,7 +138,7 @@
             "11,99 USD/mese"
           ],
           [
-            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "2",
             "8 GB",
             "100 GB",
@@ -146,7 +146,7 @@
             "14,99 USD/mese"
           ],
           [
-            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "4",
             "16 GB",
             "200 GB",
@@ -154,7 +154,7 @@
             "28,99 USD/mese"
           ],
           [
-            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "8",
             "32 GB",
             "400 GB",
@@ -199,31 +199,31 @@
         ],
         "rows": [
           [
-            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 mesi)",
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48 mesi)",
             "1,99 USD/mese",
             "95,52 USD",
             "10,99 USD/mese"
           ],
           [
-            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 mesi)",
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48 mesi)",
             "2,79 USD/mese",
             "133,92 USD",
             "16,99 USD/mese"
           ],
           [
-            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 mesi)",
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48 mesi)",
             "6,39 USD/mese",
             "306,72 USD",
             "25,99 USD/mese"
           ],
           [
-            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 mesi)",
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mesi)",
             "5,19 USD/mese",
             "124,56 USD",
             "11,99 USD/mese"
           ],
           [
-            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 mesi)",
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mesi)",
             "7,03 USD/mese",
             "168,72 USD",
             "14,99 USD/mese"
@@ -271,9 +271,10 @@
   "cta": {
     "text": "Il codice di invito è già dentro il link: lo sconto del 20% vale solo sul primo periodo, sui piani da 12 mesi in su, e non si somma ad altri coupon.",
     "label": "Vedi i piani con il link di invito",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te. Non abbiamo testato il VPS.",
   "relatedArticles": [

@@ -117,13 +117,13 @@
         ],
         "rows": [
           [
-            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONAR20)",
             "US$ 19.99，或選 3 年期時 US$ 0.01",
             "US$ 19.99",
             "US$ 9.99"
           ],
           [
-            "[其他後綴](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "[其他後綴](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONAR20)",
             "見頁面",
             "見頁面",
             "見頁面"
@@ -215,9 +215,10 @@
   "cta": {
     "text": "推薦代碼已經在連結裡：20% 用在主機方案上，只限首期、12 個月以上的方案，不能與其他優惠券疊加。付款前請在購物車核對網域的金額。",
     "label": "透過推薦連結查看方案",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "透過這個推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。",
   "relatedArticles": [

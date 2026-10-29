@@ -193,19 +193,19 @@
         ],
         "rows": [
           [
-            "[Premium (fino a 3 siti)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Premium (fino a 3 siti)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "1,99 USD al mese (prezzo di listino barrato: 12,19 USD)",
             "95,52 USD",
             "10,99 USD al mese"
           ],
           [
-            "[Unlimited (siti illimitati, con negozio online)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Unlimited (siti illimitati, con negozio online)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "2,79 USD al mese (barrato: 18,99 USD)",
             "133,92 USD",
             "16,99 USD al mese"
           ],
           [
-            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "6,39 USD al mese",
             "306,72 USD",
             "25,99 USD al mese"
@@ -275,9 +275,10 @@
   "cta": {
     "text": "Il codice di invito è già nel link: il 20% vale solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon.",
     "label": "Vedi i piani con il link di invito",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te. Nessuno del team ha usato l'AI Builder.",
   "relatedArticles": [

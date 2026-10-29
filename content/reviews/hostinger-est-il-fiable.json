@@ -199,9 +199,10 @@
   "cta": {
     "text": "Les 20 % ne valent que pour la première période et ne se cumulent pas avec d'autres codes promo. Voyez les forfaits via le lien.",
     "label": "Voir les forfaits Hostinger",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Ce texte contient un lien de parrainage Hostinger, qui héberge ce site. Un achat par ce lien peut donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous.",
   "relatedArticles": [

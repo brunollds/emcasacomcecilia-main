@@ -146,9 +146,10 @@
   "cta": {
     "text": "Il codice di invito è già nel link: il 20% vale solo sul primo periodo e non si somma con altri coupon.",
     "label": "Vedi i piani con lo sconto",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te. Il sito gira su Hostinger.",
   "relatedArticles": [

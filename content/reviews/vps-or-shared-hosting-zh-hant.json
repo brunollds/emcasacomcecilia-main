@@ -130,7 +130,7 @@
         ],
         "rows": [
           [
-            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "1",
             "4 GB",
             "50 GB",
@@ -138,7 +138,7 @@
             "US$ 11.99/月"
           ],
           [
-            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "2",
             "8 GB",
             "100 GB",
@@ -146,7 +146,7 @@
             "US$ 14.99/月"
           ],
           [
-            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "4",
             "16 GB",
             "200 GB",
@@ -154,7 +154,7 @@
             "US$ 28.99/月"
           ],
           [
-            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "8",
             "32 GB",
             "400 GB",
@@ -199,31 +199,31 @@
         ],
         "rows": [
           [
-            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 個月）",
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)（48 個月）",
             "US$ 1.99/月",
             "US$ 95.52",
             "US$ 10.99/月"
           ],
           [
-            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 個月）",
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)（48 個月）",
             "US$ 2.79/月",
             "US$ 133.92",
             "US$ 16.99/月"
           ],
           [
-            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 個月）",
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)（48 個月）",
             "US$ 6.39/月",
             "US$ 306.72",
             "US$ 25.99/月"
           ],
           [
-            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 個月）",
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)（24 個月）",
             "US$ 5.19/月",
             "US$ 124.56",
             "US$ 11.99/月"
           ],
           [
-            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 個月）",
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)（24 個月）",
             "US$ 7.03/月",
             "US$ 168.72",
             "US$ 14.99/月"
@@ -271,9 +271,10 @@
   "cta": {
     "text": "推薦代碼已經包含在連結裡：20% 折扣只適用於首期與 12 個月以上的方案，不能與其他優惠券疊加。",
     "label": "用推薦連結查看方案",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "透過推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，你不用多付任何費用。我們沒有測試 VPS。",
   "relatedArticles": [
