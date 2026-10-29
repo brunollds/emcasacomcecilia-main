@@ -1031,7 +1031,10 @@ function articleBodyProblems(body: string): string[] {
     // pulse-respiro, que pulsava em laranja sem parar.
     for (const [, animation] of region.matchAll(/class="[^"]*?(?<![\w:-])(animate-[\w-]+)/g)) problems.push(`animação sem guarda no ${part} (${animation})`);
   }
-  for (const background of body.match(/\b(?:review-page-bg|notebook-[\w-]+)\b/g) ?? []) problems.push(`fundo de caderno (${background})`);
+  // Só nas classes: endereço de produto pode ter "notebook-" no caminho (a mochila para notebook da Bagaggio).
+  for (const [, classes] of body.matchAll(/\sclass="([^"]*)"/g)) {
+    for (const background of classes.match(/(?<![\w-])(?:review-page-bg|notebook-[\w-]+)/g) ?? []) problems.push(`fundo de caderno (${background})`);
+  }
   return [...new Set(problems)];
 }
 // O guarda acima passa no artigo certo e falha sem o topo ou o corpo, com uma cor antiga ou uma animação sem guarda
@@ -1045,6 +1048,12 @@ function articleBodyProblems(body: string): string[] {
   assert.notDeepEqual(articleBodyProblems(ok.replace('text-marinho', 'text-[#1A4D2E]')), [], 'cor antiga no corpo passou');
   assert.notDeepEqual(articleBodyProblems(ok.replace('<h2>', '<h2 style="background-color:#ff6b35">')), [], 'cor antiga em estilo passou');
   assert.notDeepEqual(articleBodyProblems(`<article class="review-page-bg">${ok}</article>`), [], 'fundo de caderno passou');
+  assert.notDeepEqual(articleBodyProblems(`<article class="p-4 notebook-paper">${ok}</article>`), [], 'fundo notebook- passou');
+  assert.deepEqual(
+    articleBodyProblems(ok.replace('<h2>A</h2>', '<h2>A</h2><a href="https://loja.com/mochila-para-notebook-horizonte/p">M</a>')),
+    [],
+    'notebook- no endereço de um link barrado'
+  );
   assert.notDeepEqual(articleBodyProblems(ok.replace(/<section[\s\S]*<\/section>/, '')), [], 'corpo vazio passou');
   assert.notDeepEqual(articleBodyProblems(ok.replace('<h2>', '<h2 class="font-bold animate-pulse-respiro">')), [], 'animação sem guarda passou');
   assert.deepEqual(articleBodyProblems(ok.replace('<h2>', '<h2 class="motion-safe:animate-spin">')), [], 'animação com motion-safe barrada');
