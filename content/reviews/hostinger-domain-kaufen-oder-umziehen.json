@@ -106,7 +106,7 @@
     {
       "heading": "Was es bei Hostinger kostet",
       "paragraphs": [
-        "Preise der internationalen Hostinger-Website in US-Dollar, am 28.10.2026 über den Empfehlungslink gelesen, während der Black-Friday-Aktion; je nach Land und Währung können sie abweichen. Der niedrige Preis des ersten Jahres gilt bei einer Laufzeit von 3 Jahren; die Verlängerung wird jährlich fällig, ab dem Ende der bezahlten Laufzeit."
+        "Preise der internationalen Hostinger-Website in US-Dollar, am 28.10.2026 über den Link gelesen, während der Black-Friday-Aktion; je nach Land und Währung können sie abweichen. Der niedrige Preis des ersten Jahres gilt bei einer Laufzeit von 3 Jahren; die Verlängerung wird jährlich fällig, ab dem Ende der bezahlten Laufzeit."
       ],
       "comparisonTable": {
         "headers": [
@@ -117,7 +117,7 @@
         ],
         "rows": [
           [
-            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONAR20)",
             "19,99 USD, oder 0,01 USD bei 3 Jahren Laufzeit",
             "19,99 USD",
             "9,99 USD"
@@ -169,7 +169,7 @@
         "Kaufen Sie mit dem Konto, das Ihnen gehören wird, mit Ihrer eigenen E-Mail-Adresse und eingeschalteter automatischer Verlängerung.",
         "Bei einer Länderendung wie der .de klären Sie das Transferverfahren mit dem Support von Hostinger, bevor Sie kaufen, falls Sie eines Tages wegziehen wollen.",
         "Kam die Domain mit dem Hosting-Tarif, notieren Sie den Verlängerungspreis des zweiten Jahres: Er wird vor dem Kauf angezeigt.",
-        "Der Empfehlungsrabatt gilt für den Hosting-Tarif, und die Bedingungen führen die Domain nicht unter den berechtigten Leistungen auf; prüfen Sie den Domainpreis im Warenkorb, bevor Sie zahlen."
+        "Der Code SONAR20 gilt für den Hosting-Tarif. Bei der Domain allein prüfen Sie im Warenkorb, ob der Rabatt erscheint, bevor Sie zahlen."
       ]
     },
     {
@@ -182,9 +182,9 @@
       ]
     },
     {
-      "heading": "Empfehlungslink und Preis",
+      "heading": "SONAR20-Gutschein und Preis",
       "paragraphs": [
-        "Der Empfehlungslink wendet den Rabatt auf den Hosting-Tarif bereits an: Sie müssen keinen Code eingeben. Es sind 20 % nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und der Rabatt lässt sich nicht mit anderen Rabattcodes kombinieren. Die Bedingungen führen die Domain nicht unter den berechtigten Leistungen auf; es gilt, was im Warenkorb erscheint. Die vollständige Regel steht in [wie der Empfehlungslink von Hostinger funktioniert](/de/reviews/hostinger-gutschein-empfehlungscode), und die Tarife auf [der Hostinger-Seite](/de/coupons/hostinger)."
+        "Der Code SONAR20 gibt 20 % im ersten Zeitraum, bei Monats- oder Jahresplan, für Neu- und Bestandskunden. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb. Die Domain selbst gehört nicht ausdrücklich zu den Leistungen, also gilt, was im Warenkorb erscheint. Tragen Sie den Code im Gutscheinfeld des Warenkorbs ein; die vollständige Regel steht in [Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt](/de/reviews/hostinger-gutschein-empfehlungscode), und die Tarife auf [der Hostinger-Seite](/de/coupons/hostinger)."
       ]
     },
     {
@@ -207,13 +207,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Der Empfehlungscode steckt schon im Link: Die 20 % gelten für den Hosting-Tarif, nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren. Prüfen Sie die Domain im Warenkorb, bevor Sie zahlen.",
-    "label": "Die Tarife mit Empfehlungslink ansehen",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Tragen Sie SONAR20 im Gutscheinfeld des Warenkorbs ein: 20 % im ersten Zeitraum auf den Hosting-Tarif. Prüfen Sie die Domain im Warenkorb, bevor Sie zahlen.",
+    "label": "Die Tarife mit SONAR20 ansehen",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie.",
+  "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie.",
   "relatedArticles": [
     {
       "slug": "ist-hostinger-serioes",
@@ -221,11 +222,11 @@
     },
     {
       "slug": "hostinger-gutschein-empfehlungscode",
-      "title": "Hostinger-Gutschein: Brauchen Sie keinen, das bringt der Empfehlungslink"
+      "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
     },
     {
       "slug": "hostinger-black-friday-angebote",
-      "title": "Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?"
+      "title": "Hostinger Black Friday 2026: SONAR20 zieht 20 % vom Aktionspreis ab"
     }
   ]
 }

@@ -45,7 +45,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Sí, con una salvedad. El 24 de octubre de 2026, Hostinger tenía 4,6 en Trustpilot con 73.411 opiniones, pero la empresa invita a los clientes a opinar, lo que sube el promedio. Las quejas se concentran en la atención por IA, los cobros y los dominios. El capítulo Tres lecturas que cambian la cuenta explica ese efecto; el 20% del primer período llega por el [enlace de referido de Hostinger](/es/coupons/hostinger)."
+        "Sí, con una salvedad. El 24 de octubre de 2026, Hostinger tenía 4,6 en Trustpilot con 73.411 opiniones, pero la empresa invita a los clientes a opinar, lo que sube el promedio. Las quejas se concentran en la atención por IA, los cobros y los dominios. El capítulo Tres lecturas que cambian la cuenta explica ese efecto; el [cupón SONAR20 de Hostinger](/es/coupons/hostinger) da 20% en el primer período."
       ]
     },
     {
@@ -200,7 +200,7 @@
       "paragraphs": [
         "Cobros y renovación fueron el segundo tema de nuestra muestra, unas 38 de 86 quejas. En el hosting, parte de eso tiene un mecanismo conocido. Con la renovación automática activada, el producto se renueva antes del vencimiento y se cobra al medio de pago registrado. El centro de ayuda de Hostinger lo dice, y también explica que la opción se puede desactivar en cualquier momento, sin afectar el servicio hasta la fecha de vencimiento.",
         "Desactivar la renovación también tiene un riesgo: si no hay otro plan listo, el sitio puede quedar fuera de línea en la fecha de vencimiento. Por eso el propio centro de ayuda recomienda mantener la renovación activada a quien piensa seguir.",
-        "Las reglas del precio de renovación y de lo que no se suma están en el [artículo sobre el código de referido](/es/reviews/cupon-hostinger-codigo-de-referido). Aquí el punto es otro: saber dónde está la opción y cómo desactivarla."
+        "El precio de renovación y lo que cubre el SONAR20 están en el [artículo sobre el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Aquí el punto es otro: saber dónde está la opción y cómo desactivarla."
       ]
     },
     {
@@ -261,27 +261,28 @@
     {
       "heading": "Si ya decidiste",
       "paragraphs": [
-        "Si decidiste contratar, el descuento del 20 % en el primer período vale por el enlace de referido, y la [página de Hostinger](/es/coupons/hostinger) muestra los detalles. El descuento no se suma a otros cupones, y la renovación vuelve al precio normal del plan, como explica el [artículo sobre el código de referido](/es/reviews/cupon-hostinger-codigo-de-referido). Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) compara los dos precios, y el [artículo sobre confianza](/es/reviews/hostinger-es-confiable) trata del reembolso y de la seguridad de la empresa."
+        "Si decidiste contratar, usa el código **SONAR20** en el campo de cupón del carrito, o entra por el [enlace de la página de Hostinger](/es/coupons/hostinger): 20% en el primer período. No probamos la renovación con el código; el [artículo sobre el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) explica cómo el SONAR20 se suma al precio de campaña, y el [artículo sobre confianza](/es/reviews/hostinger-es-confiable) trata del reembolso y de la seguridad de la empresa."
       ]
     },
     {
       "heading": "Nota de transparencia",
       "paragraphs": [
         "Los datos de Trustpilot se leyeron el 19 y el 24 de octubre de 2026 en la página del perfil; las capturas son del 19. La muestra de 200 opiniones (las 100 de una estrella y las 100 de cinco estrellas más recientes) se leyó el 24 de octubre de 2026, y los conteos por tema son nuestra lectura de títulos y fragmentos, así que son aproximados. Los datos de Reclame Aqui vienen de capturas del 19 de octubre de 2026, con datos hasta el 30 de septiembre de 2026. El texto del centro de ayuda se leyó el 19 de octubre de 2026. Estos números cambian cada mes, así que compruébalos antes de decidir.",
-        "Este es un enlace de referido: comprar por él puede generar un crédito en Hostinger para Bruno. No hay alianza de marca, y el crédito no entra en el análisis."
+        "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno. No hay alianza de marca, y la comisión no entra en el análisis."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Si ya decidiste, los planes con 20 % de descuento en el primer período están en el enlace. El descuento no se suma a otros cupones.",
+    "text": "Si ya decidiste, usa el código SONAR20 en el carrito, o entra por el enlace: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
     "label": "Ver los planes con descuento",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Enlace de referido: comprar por el enlace puede generar un crédito en Hostinger para Bruno, sin costo extra para ti. El sitio funciona con Hostinger.",
+  "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. El sitio funciona con Hostinger.",
   "relatedArticles": [
     {
       "slug": "hostinger-es-confiable",
@@ -289,11 +290,11 @@
     },
     {
       "slug": "cupon-hostinger-codigo-de-referido",
-      "title": "Cupón Hostinger: no necesitas uno, y esto es lo que da el enlace de referido"
+      "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
     },
     {
       "slug": "black-friday-hostinger-ofertas",
-      "title": "Black Friday Hostinger 2026: la promoción o el enlace de referido, ¿cuál sale más barato?"
+      "title": "Black Friday Hostinger 2026: el SONAR20 quita 20% más del precio de la campaña"
     }
   ]
 }

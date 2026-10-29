@@ -31,7 +31,7 @@
     }
   ],
   "description": "OpenClaw or Hermes Agent: channels, memory, learning, license, security policies and the real cost on Hostinger, with US dollar prices read on October 21, 2026.",
-  "metaDescription": "OpenClaw vs Hermes Agent on Hostinger: which to choose, channels, memory, AI models, security and the price with and without the referral link, read on October 21, 2026.",
+  "metaDescription": "OpenClaw vs Hermes Agent on Hostinger: which to choose, channels, memory, AI models, security and the price with and without SONAR20, read on October 21, 2026.",
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -167,14 +167,14 @@
     {
       "heading": "Where to run it on Hostinger",
       "paragraphs": [
-        "Prices for 24-month plans from Hostinger's global page, in US dollars, read on October 21, 2026. The managed plan covers OpenClaw and Hermes Agent at the same price. For the VPS plans, the page did not show the price with the referral link; the 20% appears in the cart. Hostinger's Black Friday campaign changes the amounts, and in your country the site may show another currency and taxes, so confirm the price in the cart."
+        "Prices for 24-month plans from Hostinger's global page, in US dollars, read on October 21, 2026. The managed plan covers OpenClaw and Hermes Agent at the same price. For the VPS plans, the page did not show the price with SONAR20; the 20% appears in the cart. Hostinger's Black Friday campaign changes the amounts, and in your country the site may show another currency and taxes, so confirm the price in the cart."
       ],
       "comparisonTable": {
         "headers": [
           "Plan",
           "Server",
-          "Without the link",
-          "With the link",
+          "Without SONAR20",
+          "With SONAR20",
           "Renewal"
         ],
         "rows": [
@@ -234,7 +234,7 @@
       "bullets": [
         "**You want many channels and a phone app:** OpenClaw. The README mentions more than 20 channels and ships native apps for phone and computer, besides the Control UI on the web.",
         "**You want an agent that learns from use:** Hermes Agent. It organizes its own memory, creates and improves its own skills, and searches old conversations.",
-        "**You don't want to install or look after a server:** the managed plan, with either one. Hostinger installs and updates it, at US$3.99/month with the referral link on a 24-month plan, read on October 21, 2026.",
+        "**You don't want to install or look after a server:** the managed plan, with either one. Hostinger installs and updates it, at US$3.99/month with SONAR20 on a 24-month plan, read on October 21, 2026.",
         "**You want root access and other programs on the same server, such as a website or n8n:** the VPS, with either one. Root is the administrator account, with full control of the server. KVM 1, with 4 GB of RAM, is the starting point at US$6.49/month before the discount; a local AI model needs more memory, as the VPS guide explains."
       ],
       "postParagraphs": [
@@ -250,33 +250,34 @@
         "Do you need to know how to code? On the managed plan, no: you choose the channels and paste the token. On the VPS, you need basic server knowledge, such as root, Docker and updates. Coding only comes in if you want to change the project's code.",
         "Is it safe? It depends on how you use it. Both security policies ask for the same care: use by one trusted person, no direct exposure to the internet, and a review of whatever you install from third parties.",
         "Which one should I choose if I already use Claude Code? Claude Code is a tool for programming in the terminal and replaces neither. Both accept an Anthropic key: OpenClaw lists Anthropic among its providers, and the Hermes Agent README includes the Anthropic key among its secrets. If you want an agent that learns from use, Hermes Agent fits better. If you want many channels and a phone app, OpenClaw.",
-        "Is there a Hostinger coupon code for OpenClaw or Hermes Agent? There is no code to type. The 20% comes through the referral link, only on the first period, on plans of 12 months or more, and it does not stack with other coupons."
+        "Is there a Hostinger coupon for OpenClaw or Hermes Agent? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans, for new or existing customers."
       ]
     },
     {
       "heading": "If you have already decided",
       "paragraphs": [
-        "The referral link already applies the discount: there is no code to type. It gives **20% off the first period only**, on plans of 12 months or more, and the discount **does not stack with other coupons**. Renewal is charged at the normal price. For 24-month plans read on October 21, 2026, the managed plan is US$3.99/month with the link, and KVM 1 and KVM 2 are US$6.49 and US$8.79/month before the discount, which appears in the cart. Check the amount in the cart before you pay. The full rule is in [how Hostinger's referral link works](/en/reviews/hostinger-coupon-code-referral), and [Hostinger's page on the site](/en/coupons/hostinger) has the current conditions."
+        "Use the code SONAR20 in the coupon field of the cart, or come in through this article's link: 20% off the first period, on a monthly or annual plan, for new or existing customers. We have not tested renewal; check the renewal price in the cart. For 24-month plans read on October 21, 2026, the managed plan is US$3.99/month with SONAR20, and KVM 1 and KVM 2 are US$6.49 and US$8.79/month before the discount, which appears in the cart. Check the amount in the cart before you pay. The full rule is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and [Hostinger's page on the site](/en/coupons/hostinger) has the current conditions."
       ]
     },
     {
       "heading": "Who writes this",
       "paragraphs": [
         "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. No one on the team uses OpenClaw or Hermes Agent.",
-        "This text gathers Hostinger's pages and the official policies and documentation of both projects, read on October 21, 2026. The comparison between the two that OpenClaw publishes is written by the project itself, and appears under that name in the source column of the table. Buying through the referral link may give Bruno credit with Hostinger, at no extra cost to you."
+        "This text gathers Hostinger's pages and the official policies and documentation of both projects, read on October 21, 2026. The comparison between the two that OpenClaw publishes is written by the project itself, and appears under that name in the source column of the table. Purchases with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "The referral link already applies the discount: there is nothing to type. The 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons.",
-    "label": "See the plans with the referral link",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+    "label": "See the plans with SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Purchases through the referral link may give Bruno credit with Hostinger, at no extra cost to you. No one on the team uses OpenClaw or Hermes Agent.",
+  "editorialNote": "Purchases with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you. No one on the team uses OpenClaw or Hermes Agent.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-managed-or-vps",

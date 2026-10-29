@@ -117,7 +117,7 @@
     {
       "heading": "VPS 플랜: KVM 1부터 8까지",
       "paragraphs": [
-        "네 가지 KVM 플랜은 크기만 다릅니다. 사양은 2026년 10월 28일에 호스팅어 VPS 페이지에서 읽었고, 가격은 추천 링크를 적용한 24개월 플랜의 월 요금이며 갱신가를 옆에 두었습니다."
+        "네 가지 KVM 플랜은 크기만 다릅니다. 사양은 2026년 10월 28일에 호스팅어 VPS 페이지에서 읽었고, 가격은 SONAR20을 적용한 24개월 플랜의 월 요금이며 갱신가를 옆에 두었습니다."
       ],
       "comparisonTable": {
         "headers": [
@@ -125,12 +125,12 @@
           "vCPU",
           "RAM",
           "디스크",
-          "추천 링크 적용",
+          "SONAR20 적용",
           "갱신가"
         ],
         "rows": [
           [
-            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "1",
             "4 GB",
             "50 GB",
@@ -138,7 +138,7 @@
             "월 US$ 11.99"
           ],
           [
-            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "2",
             "8 GB",
             "100 GB",
@@ -146,7 +146,7 @@
             "월 US$ 14.99"
           ],
           [
-            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "4",
             "16 GB",
             "200 GB",
@@ -154,7 +154,7 @@
             "월 US$ 28.99"
           ],
           [
-            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "8",
             "32 GB",
             "400 GB",
@@ -165,7 +165,7 @@
       },
       "postParagraphs": [
         "VPS가 필요한 일반 사이트라면 KVM 1이 출발점입니다. RAM 4 GB면 WordPress 하나나 작은 시스템을 돌릴 수 있습니다. 같은 머신에서 프로그램을 둘 이상 돌릴 때 KVM 2가 필요하고, KVM 4와 8은 더 큰 시스템, 큰 데이터베이스, 여러 애플리케이션을 위한 플랜입니다.",
-        "이 가격은 추천 링크로 들어간 호스팅어 국제 사이트의 미국 달러 가격입니다(2026년 10월 28일, 블랙프라이데이 캠페인). 국가와 통화에 따라 달라질 수 있으니 결제 전에 장바구니를 확인하세요. 링크의 20%는 **첫 기간에만** 적용되고 **다른 쿠폰과 함께 쓸 수 없습니다**. 갱신가는 링크를 쓰든 안 쓰든 같습니다."
+        "이 가격은 SONAR20 링크로 들어간 호스팅어 국제 사이트의 미국 달러 가격입니다(2026년 10월 28일, 블랙프라이데이 캠페인). 국가와 통화에 따라 달라질 수 있으니 결제 전에 장바구니를 확인하세요. 20%는 **첫 기간에만** 적용됩니다. 갱신가는 테스트하지 않았습니다. VPS는 테스트하지 않았으니 장바구니에서 확인하세요."
       ]
     },
     {
@@ -188,42 +188,42 @@
     {
       "heading": "가격과 갱신: 실제 계산",
       "paragraphs": [
-        "공유 호스팅은 48개월 플랜으로, VPS는 24개월 플랜으로 팝니다. 둘 다 기간 전체를 한 번에 결제합니다. 2026년 10월 28일에 추천 링크를 적용해 읽은 미국 달러 가격과 그 옆의 갱신가입니다:"
+        "공유 호스팅은 48개월 플랜으로, VPS는 24개월 플랜으로 팝니다. 둘 다 기간 전체를 한 번에 결제합니다. 2026년 10월 28일에 SONAR20 링크로 읽은 미국 달러 가격과 그 옆의 갱신가입니다:"
       ],
       "comparisonTable": {
         "headers": [
           "플랜",
-          "추천 링크 적용",
+          "SONAR20 적용",
           "기간 총액",
           "갱신가"
         ],
         "rows": [
           [
-            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48개월)",
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48개월)",
             "월 US$ 1.99",
             "US$ 95.52",
             "월 US$ 10.99"
           ],
           [
-            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48개월)",
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48개월)",
             "월 US$ 2.79",
             "US$ 133.92",
             "월 US$ 16.99"
           ],
           [
-            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48개월)",
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48개월)",
             "월 US$ 6.39",
             "US$ 306.72",
             "월 US$ 25.99"
           ],
           [
-            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24개월)",
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24개월)",
             "월 US$ 5.19",
             "US$ 124.56",
             "월 US$ 11.99"
           ],
           [
-            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24개월)",
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24개월)",
             "월 US$ 7.03",
             "US$ 168.72",
             "월 US$ 14.99"
@@ -256,7 +256,7 @@
         "공유 호스팅으로 시작했다가 나중에 VPS로 옮길 수 있나요? 가능합니다. 둘은 다른 상품이라, VPS를 계약하고 서버를 설치한 뒤 사이트를 옮기면 됩니다. 공유 호스팅이 패널 안에서 VPS로 바뀌지는 않습니다.",
         "VPS를 쓰려면 리눅스를 알아야 하나요? 네, 터미널의 기본은 알아야 합니다. 프로그램 설치, 시스템 업데이트, 로그 읽기 정도입니다. 공유 호스팅에서는 모든 것이 패널을 거치고 터미널이 필수는 아닙니다.",
         "VPS에서 WordPress를 돌릴 수 있나요? 돌릴 수 있지만 웹 서버, PHP, 데이터베이스를 직접 설치하고 유지해야 합니다. 공유 호스팅에서는 WordPress가 패널에 준비되어 있고 서버는 호스팅어가 돌봅니다.",
-        "호스팅어 VPS 가격은 얼마인가요? 2026년 10월 28일 기준으로 KVM 1은 추천 링크를 적용한 24개월 플랜에서 월 US$ 5.19이고, 갱신가는 월 US$ 11.99입니다. 20%는 첫 기간에만 적용되고 다른 쿠폰과 함께 쓸 수 없습니다."
+        "호스팅어 VPS 가격은 얼마인가요? 2026년 10월 28일 기준으로 KVM 1은 SONAR20을 적용한 24개월 플랜에서 월 US$ 5.19이고, 갱신가는 월 US$ 11.99입니다. 20%는 첫 기간에만 적용됩니다."
       ]
     },
     {
@@ -269,13 +269,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "추천 코드는 링크에 이미 적용되어 있습니다. 20% 할인은 첫 기간에만, 12개월 이상 플랜에 적용되고 다른 쿠폰과 겹쳐 쓸 수 없습니다.",
-    "label": "추천 링크로 플랜 보기",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "쿠폰 코드 SONAR20을 장바구니에 넣으면 20% 할인이 첫 기간에 적용됩니다. 갱신 가격은 테스트하지 않았습니다.",
+    "label": "할인 플랜 보기",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "추천 링크로 구매하면 여러분에게 추가 비용 없이 Bruno에게 호스팅어 크레딧이 생길 수 있습니다. VPS는 테스트하지 않았습니다.",
+  "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. VPS는 테스트하지 않았습니다.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-managed-or-vps-ko",
@@ -287,7 +288,7 @@
     },
     {
       "slug": "hostinger-black-friday-ko",
-      "title": "2026 Hostinger 블랙프라이데이: 프로모션일까, 추천 링크일까? 어느 쪽이 더 저렴할까?"
+      "title": "2026 Hostinger 블랙프라이데이: SONAR20 쿠폰이 캠페인 가격에서 20% 더 할인"
     }
   ]
 }

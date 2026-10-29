@@ -44,7 +44,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Hostinger é uma empresa grande, com regras públicas de reembolso e de renovação, e na nossa experiência o serviço e o suporte funcionam. O ponto que pega é a renovação, que vem ligada por padrão e pode ter outro preço. Veja abaixo o reembolso, a renovação e a empresa cobradora; os 20% do primeiro período, em planos de 12 meses ou mais, vêm pela [indicação da Hostinger](/cupons/hostinger)."
+        "A Hostinger é uma empresa grande, com regras públicas de reembolso e de renovação, e na nossa experiência o serviço e o suporte funcionam. O ponto que pega é a renovação, que vem ligada por padrão e pode ter outro preço. Veja abaixo o reembolso, a renovação e a empresa cobradora; os 20% do primeiro período vêm do [cupom SONAR20 da Hostinger](/cupons/hostinger)."
       ]
     },
     {
@@ -120,7 +120,7 @@
       "paragraphs": [
         "Quem contrata entra na renovação automática, porque ela é a configuração padrão. A cobrança sai de 30 a 0 dias antes do fim do período, no cartão marcado como padrão, pelo valor vigente do plano na data. Os termos dizem que esse valor pode ser maior ou menor que o do primeiro período, e que a mudança de preço vale na renovação, sem aviso prévio.",
         "A Hostinger pode avisar por e-mail antes da cobrança, mas os termos dizem que ela não tem essa obrigação. Clientes com plano de um mês, por exemplo, não são avisados. Para desligar, entre na conta e desative a renovação a qualquer momento. Se você desligar e não renovar à mão antes do fim do período, o serviço é encerrado.",
-        "A cobrança é o problema mais citado nas reclamações públicas da empresa no Reclame Aqui, e o caso está no [artigo sobre a Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao). A regra do código de indicação na renovação, com o que acontece com o desconto, está no [guia do código de indicação](/reviews/cupom-hostinger-indicacao)."
+        "A cobrança é o problema mais citado nas reclamações públicas da empresa no Reclame Aqui, e o caso está no [artigo sobre a Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao). O que acontece com o desconto na renovação está no [guia do cupom SONAR20](/reviews/cupom-hostinger-indicacao)."
       ],
       "images": [
         {
@@ -167,7 +167,7 @@
     {
       "heading": "Onde ver os planos",
       "paragraphs": [
-        "Os 20% da indicação valem só no primeiro período de um plano novo e não somam com outros cupons. Se faz sentido para o seu site, os planos com o link estão na [página da Hostinger neste site](/cupons/hostinger)."
+        "O código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, para cliente novo ou antigo. Se faz sentido para o seu site, o código e os planos estão na [página da Hostinger neste site](/cupons/hostinger)."
       ]
     },
     {
@@ -177,7 +177,7 @@
         "A Hostinger tem reembolso? Sim, de 30 dias para hospedagem e VPS, com as exceções da tabela. Renovação de domínio e serviços de suporte pagos não voltam.",
         "A renovação da Hostinger é automática? Sim, por padrão. Dá para desligar na conta a qualquer momento; sem renovação manual, o serviço encerra no fim do período.",
         "Quem cobra na Hostinger? Depende do país. Para o Brasil, pela regra da seção 2 dos termos, a contratante é a Hostinger International Limited, de Chipre, mas a Hostinger Brasil também aparece entre as empresas que podem cobrar. Confira o nome no checkout.",
-        "Tem cupom Hostinger? Não é preciso cupom. O link de indicação já dá 20% no primeiro período de um plano novo, e esse desconto não soma com outros cupons."
+        "Tem cupom Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, em plano mensal ou anual. Não testamos a renovação; confira o preço no carrinho."
       ]
     },
     {
@@ -193,20 +193,21 @@
     {
       "heading": "Nota de transparência",
       "paragraphs": [
-        "Este texto tem link de indicação da Hostinger. Se você contratar pelo link, o programa pode gerar crédito na Hostinger para o Bruno. Reembolso, renovação e empresa vêm dos documentos públicos da Hostinger, lidos em 19/10/2026. A experiência é nossa e não se aplica automaticamente ao seu plano."
+        "Este texto tem o código SONAR20 e o link da Hostinger. Se você contratar com o código ou pelo link, a compra pode gerar comissão para o Bruno. Reembolso, renovação e empresa vêm dos documentos públicos da Hostinger, lidos em 19/10/2026. A experiência é nossa e não se aplica automaticamente ao seu plano."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Os 20% valem só no primeiro período e não somam com outros cupons. Veja os planos pelo link.",
+    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
     "label": "Ver os planos da Hostinger",
-    "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Este texto tem link de indicação da Hostinger, que hospeda este site. A compra pelo link pode gerar crédito na Hostinger para o Bruno, sem custo extra para você.",
+  "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. A Hostinger hospeda este site.",
   "relatedArticles": [
     {
       "slug": "hostinger-reclame-aqui-nota-reputacao",
@@ -214,11 +215,11 @@
     },
     {
       "slug": "cupom-hostinger-indicacao",
-      "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+      "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
     },
     {
       "slug": "black-friday-hostinger",
-      "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+      "title": "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha"
     }
   ]
 }

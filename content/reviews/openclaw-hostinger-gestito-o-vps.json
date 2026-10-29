@@ -31,7 +31,7 @@
     }
   ],
   "description": "OpenClaw su Hostinger: il gestito costa meno nel primo periodo, e il VPS dà root e Docker. Prezzi del 21/10/2026 e a chi serve ciascuno.",
-  "metaDescription": "Gestito o VPS per OpenClaw su Hostinger: prezzo con e senza link di invito, rinnovo, crediti IA, Telegram e WhatsApp e chi gestisce il server.",
+  "metaDescription": "Gestito o VPS per OpenClaw su Hostinger: prezzo con e senza il SONAR20, rinnovo, crediti IA, Telegram e WhatsApp e chi gestisce il server.",
   "publishedAt": "21 ottobre 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -76,12 +76,12 @@
         ],
         "rows": [
           [
-            "Primo periodo senza link di invito",
+            "Primo periodo senza il SONAR20",
             "4,99 USD al mese",
             "6,49 USD al mese"
           ],
           [
-            "Primo periodo con link di invito",
+            "Primo periodo con il SONAR20",
             "3,99 USD al mese",
             "20% di sconto, visibile nel carrello"
           ],
@@ -132,27 +132,75 @@
         "Il prezzo in pagina è mensile, ma il piano di 24 mesi si paga in un'unica soluzione:"
       ],
       "bullets": [
-        "**Gestito, con il link di invito:** 24 × 3,99 USD = **95,76 USD**. Senza link: 24 × 4,99 USD = 119,76 USD.",
-        "**VPS KVM 1 senza link:** 24 × 6,49 USD = **155,76 USD**. Con il link c'è il 20% sul primo periodo; l'importo finale lo mostra il carrello.",
+        "**Gestito, con il SONAR20:** 24 × 3,99 USD = **95,76 USD**. Senza il SONAR20: 24 × 4,99 USD = 119,76 USD.",
+        "**VPS KVM 1 senza il SONAR20:** 24 × 6,49 USD = **155,76 USD**. Con il SONAR20 c'è il 20% sul primo periodo; l'importo finale lo mostra il carrello.",
         "**Rinnovo nei 24 mesi successivi (uguale per entrambi):** 24 × 11,99 USD = 287,76 USD."
       ],
       "postParagraphs": [
-        "Senza link, il gestito costa 36 USD in meno del KVM 1 nei primi 24 mesi. Poi i due costano lo stesso. Il rinnovo è attivo di default; guarda [come Hostinger addebita e rinnova](/it/reviews/hostinger-e-affidabile).",
+        "Senza il SONAR20, il gestito costa 36 USD in meno del KVM 1 nei primi 24 mesi. Poi i due costano lo stesso. Il rinnovo è attivo di default; guarda [come Hostinger addebita e rinnova](/it/reviews/hostinger-e-affidabile).",
         "Il piano non è tutto: l'uso dell'IA è a parte. Con i crediti di Hostinger il gestito include un saldo iniziale, e ciò che lo supera è addebitato in base al consumo. Il prezzo delle ricariche non compare in nessuna pagina pubblica, quindi controllalo nel pannello prima di contarci. Con la tua chiave, il fornitore (OpenAI, Anthropic o un altro) ti addebita direttamente l'uso, in base al modello e al volume di conversazioni.",
         "Il gestito ha 30 giorni per chiedere il rimborso. Nel VPS, i 30 giorni valgono solo se l'ultimo rimborso VPS è stato richiesto più di 180 giorni fa."
       ]
     },
     {
-      "heading": "Link di invito e prezzo di ogni piano",
+      "heading": "Telegram e WhatsApp",
       "paragraphs": [
-        "Il link di invito applica già lo sconto: non c'è nessun codice da digitare. Dà **il 20% solo sul primo periodo**, su piani di 12 mesi o più, e lo sconto **non si somma ad altri coupon**. Il rinnovo costa il prezzo normale. La regola completa è in [come funziona il link di invito di Hostinger](/it/reviews/coupon-hostinger-codice-invito).",
+        "Entrambi i canali funzionano in entrambe le opzioni. La differenza è dove li configuri. Nel gestito scegli i canali nella procedura guidata di Hostinger: per WhatsApp leggi un codice QR, per Telegram incolli il token del bot. Nel VPS la configurazione ha campi facoltativi per il numero WhatsApp, con il prefisso internazionale, e per il token del bot Telegram. La documentazione non mostra dove compare il QR di WhatsApp nel VPS.",
+        "Per Telegram sono tre passaggi:"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-it.webp",
+        "alt": "Tre passaggi per collegare OpenClaw a Telegram: creare il bot con BotFather e copiare il token, incollare il token nella configurazione di OpenClaw e mandare un messaggio per approvare il primo contatto",
+        "caption": "I passaggi della documentazione ufficiale di OpenClaw, letta il 21/10/2026."
+      },
+      "bullets": [
+        "Crea il bot con BotFather, il bot ufficiale di Telegram per creare bot, e copia il token.",
+        "Incolla il token nella configurazione di OpenClaw.",
+        "Manda un messaggio al bot. Chi non è ancora stato approvato riceve un codice di abbinamento, e tu approvi il primo contatto nel pannello di OpenClaw."
+      ],
+      "postParagraphs": [
+        "Con WhatsApp, OpenClaw entra come dispositivo collegato, come WhatsApp Web, e l'accesso avviene solo con codice QR. La documentazione consiglia di usare un numero separato dal tuo numero personale."
+      ]
+    },
+    {
+      "heading": "Sicurezza: quando cambia la decisione",
+      "paragraphs": [
+        "La domanda è chi si occupa dei dati e delle credenziali. Nel gestito, Hostinger dice che ogni istanza gira isolata in un container, con un proprio gateway di sicurezza. È la descrizione di Hostinger, non un nostro test. Nel VPS, la stessa Hostinger dice che, con accesso root, configurazione, aggiornamenti e sicurezza restano a chi ha acquistato.",
+        "La politica di sicurezza di OpenClaw dice che è pensato per una persona di fiducia, non per più persone che non si conoscono: chi può parlare con l'assistente può fargli usare i suoi strumenti. Questo cambia la scelta in tre casi:"
+      ],
+      "bullets": [
+        "**Più di una persona userà l'assistente** (famiglia o team): il progetto consiglia un server per persona. Nel VPS è immediato; nel gestito chiedi a Hostinger quante istanze può avere un account.",
+        "**L'assistente avrà accesso alla tua e-mail, alla banca o ad altri account:** il progetto chiede che sul server non ci siano account personali connessi. Hostinger suggerisce una casella e-mail separata per l'assistente.",
+        "**Nel VPS, conserva il token del gateway** generato dall'installazione e non mandarlo in chat all'assistente."
+      ]
+    },
+    {
+      "heading": "Chi dovrebbe scegliere cosa",
+      "paragraphs": [
+        "La scelta dipende da quanta manutenzione del server accetti e da cos'altro deve far girare la macchina. **Scegli il gestito se:**"
+      ],
+      "bullets": [
+        "vuoi l'assistente online senza installare né configurare un server;",
+        "preferisci che Hostinger si occupi di aggiornamenti, backup e sicurezza;",
+        "non sai cos'è root né Docker;",
+        "vuoi OpenClaw, o passare a Hermes Agent o Paperclip nello stesso piano."
+      ],
+      "postParagraphs": [
+        "**Scegli il VPS se:** vuoi accesso root e far girare altri programmi sullo stesso server, come un sito o n8n; sai gestire un server o vuoi impararlo, e accetti di aggiornare e proteggere il sistema; oppure ti servono più memoria e spazio: i piani KVM vanno da 4 GB a 32 GB di RAM.",
+        "**Se hai dei dubbi, parti dal gestito.** Con i prezzi del 21/10/2026 costa 36 USD in meno del KVM 1 nei primi 24 mesi senza il SONAR20, 3,99 USD al mese con il SONAR20, e i due si rinnovano a 11,99 USD al mese. Non richiede competenze di server, e il costo dell'IA è lo stesso nei due casi."
+      ]
+    },
+    {
+      "heading": "Coupon SONAR20 e prezzo di ogni piano",
+      "paragraphs": [
+        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: **20% sul primo periodo**, in piano mensile o annuale, per cliente nuovo o già esistente. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello. Come inserirlo è spiegato in [Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre](/it/reviews/coupon-hostinger-codice-invito).",
         "Prezzi dei piani di 24 mesi, letti il 21/10/2026:"
       ],
       "comparisonTable": {
         "headers": [
           "Piano",
-          "Senza link di invito",
-          "Con link di invito",
+          "Senza il SONAR20",
+          "Con il SONAR20",
           "Rinnovo"
         ],
         "rows": [
@@ -193,67 +241,19 @@
       ]
     },
     {
-      "heading": "Telegram e WhatsApp",
-      "paragraphs": [
-        "Entrambi i canali funzionano in entrambe le opzioni. La differenza è dove li configuri. Nel gestito scegli i canali nella procedura guidata di Hostinger: per WhatsApp leggi un codice QR, per Telegram incolli il token del bot. Nel VPS la configurazione ha campi facoltativi per il numero WhatsApp, con il prefisso internazionale, e per il token del bot Telegram. La documentazione non mostra dove compare il QR di WhatsApp nel VPS.",
-        "Per Telegram sono tre passaggi:"
-      ],
-      "image": {
-        "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-it.webp",
-        "alt": "Tre passaggi per collegare OpenClaw a Telegram: creare il bot con BotFather e copiare il token, incollare il token nella configurazione di OpenClaw e mandare un messaggio per approvare il primo contatto",
-        "caption": "I passaggi della documentazione ufficiale di OpenClaw, letta il 21/10/2026."
-      },
-      "bullets": [
-        "Crea il bot con BotFather, il bot ufficiale di Telegram per creare bot, e copia il token.",
-        "Incolla il token nella configurazione di OpenClaw.",
-        "Manda un messaggio al bot. Chi non è ancora stato approvato riceve un codice di abbinamento, e tu approvi il primo contatto nel pannello di OpenClaw."
-      ],
-      "postParagraphs": [
-        "Con WhatsApp, OpenClaw entra come dispositivo collegato, come WhatsApp Web, e l'accesso avviene solo con codice QR. La documentazione consiglia di usare un numero separato dal tuo numero personale."
-      ]
-    },
-    {
-      "heading": "Sicurezza: quando cambia la decisione",
-      "paragraphs": [
-        "La domanda è chi si occupa dei dati e delle credenziali. Nel gestito, Hostinger dice che ogni istanza gira isolata in un container, con un proprio gateway di sicurezza. È la descrizione di Hostinger, non un nostro test. Nel VPS, la stessa Hostinger dice che, con accesso root, configurazione, aggiornamenti e sicurezza restano a chi ha acquistato.",
-        "La politica di sicurezza di OpenClaw dice che è pensato per una persona di fiducia, non per più persone che non si conoscono: chi può parlare con l'assistente può fargli usare i suoi strumenti. Questo cambia la scelta in tre casi:"
-      ],
-      "bullets": [
-        "**Più di una persona userà l'assistente** (famiglia o team): il progetto consiglia un server per persona. Nel VPS è immediato; nel gestito chiedi a Hostinger quante istanze può avere un account.",
-        "**L'assistente avrà accesso alla tua email, alla banca o ad altri account:** il progetto chiede che sul server non ci siano account personali connessi. Hostinger suggerisce una casella email separata per l'assistente.",
-        "**Nel VPS, conserva il token del gateway** generato dall'installazione e non mandarlo in chat all'assistente."
-      ]
-    },
-    {
-      "heading": "Chi dovrebbe scegliere cosa",
-      "paragraphs": [
-        "La scelta dipende da quanta manutenzione del server accetti e da cos'altro deve far girare la macchina. **Scegli il gestito se:**"
-      ],
-      "bullets": [
-        "vuoi l'assistente online senza installare né configurare un server;",
-        "preferisci che Hostinger si occupi di aggiornamenti, backup e sicurezza;",
-        "non sai cos'è root né Docker;",
-        "vuoi OpenClaw, o passare a Hermes Agent o Paperclip nello stesso piano."
-      ],
-      "postParagraphs": [
-        "**Scegli il VPS se:** vuoi accesso root e far girare altri programmi sullo stesso server, come un sito o n8n; sai gestire un server o vuoi impararlo, e accetti di aggiornare e proteggere il sistema; oppure ti servono più memoria e spazio: i piani KVM vanno da 4 GB a 32 GB di RAM.",
-        "**Se hai dei dubbi, parti dal gestito.** Con i prezzi del 21/10/2026 costa 36 USD in meno del KVM 1 nei primi 24 mesi senza link, 3,99 USD al mese con il link, e i due si rinnovano a 11,99 USD al mese. Non richiede competenze di server, e il costo dell'IA è lo stesso nei due casi."
-      ]
-    },
-    {
       "heading": "Domande frequenti",
       "bullets": [
         "Vale la pena OpenClaw gestito di Hostinger? Sì, per chi vuole l'assistente senza gestire un server: il 21/10/2026 costa meno del VPS nel primo periodo e si rinnova allo stesso prezzo. Chi vuole root e altri programmi sul server sta meglio con il VPS.",
         "Serve un account su OpenAI o Anthropic? No. In entrambe le opzioni puoi usare i crediti IA di Hostinger. L'account presso il fornitore serve solo se preferisci la tua chiave.",
-        "Esiste un coupon Hostinger per OpenClaw? Non c'è nessun codice da digitare. Il 20% arriva dal link di invito, solo sul primo periodo e su piani di 12 mesi o più, e non si somma ad altri coupon.",
-        "Quanto costa dopo il primo periodo? 11,99 USD al mese nel gestito e nel KVM 1, e 14,99 USD al mese nel KVM 2, con i prezzi del 21/10/2026. Lo sconto del link di invito non si ripete al rinnovo.",
+        "Esiste un coupon Hostinger per OpenClaw? Sì: il codice SONAR20 dà il 20% sul primo periodo, in piano mensile o annuale, per cliente nuovo o già esistente.",
+        "Quanto costa dopo il primo periodo? 11,99 USD al mese nel gestito e nel KVM 1, e 14,99 USD al mese nel KVM 2, con i prezzi del 21/10/2026. Il rinnovo con il codice non lo abbiamo testato.",
         "Il piano gestito vale anche per Hermes Agent o Paperclip? Sì. Tutti e tre sono nel piano «Apps di automazione IA», allo stesso prezzo. La pagina di Paperclip non elenca crediti IA, quindi porta la tua chiave."
       ]
     },
     {
       "heading": "Se hai già deciso",
       "paragraphs": [
-        "Il link di invito applica già lo sconto: non c'è nessun codice da digitare. Il 20% vale solo per il primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon; il rinnovo costa il prezzo normale. Sui piani di 24 mesi letti il 21/10/2026, il gestito costa 3,99 USD al mese con il link, e il KVM 1 costa 6,49 USD al mese prima dello sconto, che compare nel carrello; i due si rinnovano a 11,99 USD al mese. Controlla l'importo nel carrello prima di pagare. Leggi [come funziona il link di invito di Hostinger](/it/reviews/coupon-hostinger-codice-invito) e [la pagina di Hostinger sul sito](/it/coupons/hostinger)."
+        "Il SONAR20 dà il 20% sul primo periodo, in piano mensile o annuale, per cliente nuovo o già esistente; non abbiamo testato il rinnovo: controlla il prezzo nel carrello. Sui piani di 24 mesi letti il 21/10/2026, il gestito costa 3,99 USD al mese con il codice, e il KVM 1 costa 6,49 USD al mese prima dello sconto, che compare nel carrello; i due si rinnovano a 11,99 USD al mese. Controlla l'importo nel carrello prima di pagare. Leggi [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e [la pagina di Hostinger sul sito](/it/coupons/hostinger)."
       ]
     },
     {
@@ -266,17 +266,18 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Il codice di invito è già nel link: il 20% vale solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon.",
-    "label": "Vedi i piani con il link di invito",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+    "label": "Vedi i piani con il SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te. Nessuno del team usa OpenClaw.",
+  "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team usa OpenClaw.",
   "relatedArticles": [
     {
       "slug": "coupon-hostinger-codice-invito",
-      "title": "Coupon Hostinger: non serve, ecco cosa dà il link di invito"
+      "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
     },
     {
       "slug": "hostinger-e-affidabile",
@@ -284,8 +285,7 @@
     },
     {
       "slug": "black-friday-hostinger-offerte",
-      "title": "Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?"
+      "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna"
     }
-  ],
-  "hideFromPortugueseListings": true
+  ]
 }

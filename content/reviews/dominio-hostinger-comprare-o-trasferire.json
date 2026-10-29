@@ -106,7 +106,7 @@
     {
       "heading": "Quanto costa su Hostinger",
       "paragraphs": [
-        "Prezzi del sito internazionale di Hostinger in dollari USA, letti il 28/10/2026 entrando dal link di invito, durante la campagna del Black Friday; possono variare in base al paese e alla valuta. Il prezzo basso del primo anno vale con durata di 3 anni; il rinnovo è annuale, dalla fine del periodo pagato."
+        "Prezzi del sito internazionale di Hostinger in dollari USA, letti il 28/10/2026 entrando dal link di questo articolo, durante la campagna del Black Friday; possono variare in base al paese e alla valuta. Il prezzo basso del primo anno vale con durata di 3 anni; il rinnovo è annuale, dalla fine del periodo pagato."
       ],
       "comparisonTable": {
         "headers": [
@@ -117,7 +117,7 @@
         ],
         "rows": [
           [
-            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONAR20)",
             "19,99 USD, oppure 0,01 USD con durata di 3 anni",
             "19,99 USD",
             "9,99 USD"
@@ -157,7 +157,7 @@
       "bullets": [
         "**L'account:** il dominio appartiene all'account Hostinger con cui è stato comprato. Usa un'e-mail che controlli tu, non quella di un freelance o di un'agenzia. Chi registra a nome di un'altra persona dipende da lei per trasferirlo dopo.",
         "**Il rinnovo:** Hostinger consiglia di lasciare attivo il rinnovo automatico. Un dominio scaduto butta giù sito ed e-mail. Il rinnovo del dominio non è rimborsabile, quindi la carta dell'account deve essere valida.",
-        "**Il rimborso della registrazione:** una registrazione nuova si può restituire solo entro 96 ore; alcune estensioni hanno finestre diverse, elencate nella politica di rimborso. Dopo, il dominio è tuo fino alla fine del periodo pagato, senza restituzione."
+        "**Il rimborso della registrazione:** una registrazione nuova si può restituire solo entro 96 ore; il .com.br e gli altri .br, entro 168 ore. Dopo, il dominio è tuo fino alla fine del periodo pagato, senza restituzione."
       ]
     },
     {
@@ -169,7 +169,7 @@
         "Compra con l'account che sarà tuo, con una tua e-mail e il rinnovo automatico attivo.",
         "Per un'estensione nazionale, come il .it, verifica con l'assistenza di Hostinger la procedura di trasferimento prima di comprare, se l'idea è andartene un giorno.",
         "Se il dominio è arrivato con il piano di hosting, annota il prezzo di rinnovo del secondo anno: compare prima dell'acquisto.",
-        "Lo sconto del link di invito vale sul piano di hosting, e i termini non elencano il dominio tra i servizi ammessi; controlla il prezzo del dominio nel carrello prima di pagare."
+        "Nel dominio avulso, controlla nel carrello se il SONAR20 compare prima di pagare."
       ]
     },
     {
@@ -182,9 +182,9 @@
       ]
     },
     {
-      "heading": "Link di invito e prezzo",
+      "heading": "Coupon SONAR20 e prezzo",
       "paragraphs": [
-        "Il link di invito applica già lo sconto sul piano di hosting: non c'è nessun codice da digitare. È il 20% solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon. I termini non elencano il dominio tra i servizi ammessi; vale quello che compare nel carrello. La regola completa è in [come funziona il link di invito di Hostinger](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
+        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo** del piano di hosting, in piano mensile o annuale, per cliente nuovo o già esistente. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello. Nel dominio avulso, vale quello che compare nel carrello. Come inserire il codice è spiegato in [Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
       ]
     },
     {
@@ -207,13 +207,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Il codice di invito è già nel link: il 20% vale sul piano di hosting, solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon. Controlla il dominio nel carrello prima di pagare.",
-    "label": "Vedi i piani con il link di invito",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello. Controlla il dominio nel carrello prima di pagare.",
+    "label": "Vedi i piani con SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te.",
+  "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te.",
   "relatedArticles": [
     {
       "slug": "hostinger-e-affidabile",
@@ -221,11 +222,11 @@
     },
     {
       "slug": "coupon-hostinger-codice-invito",
-      "title": "Coupon Hostinger: non serve, ecco cosa dà il link di invito"
+      "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
     },
     {
       "slug": "black-friday-hostinger-offerte",
-      "title": "Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?"
+      "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna"
     }
   ]
 }
