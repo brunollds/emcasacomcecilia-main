@@ -6,6 +6,15 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
+- [ ] [[probiotica-ou-integralmedica]]: Probiótica ou Integralmédica: whey e creatina pelo rótulo e pelo preço por 100 g (série contra a Integralmédica) (PT)
+- [ ] [[creatina-probiotica-qual-compensa]]: Creatina Probiótica: qual versão compensa (300 g, 100 g, Creapure 150 g, monodose) pelo preço por 100 g e pelo rótulo (PT)
+- [ ] [[monodose-probiotica-sache-ou-pote]]: Creatina monodose da Probiótica: sachê ou pote, qual compensa por 100 g (PT)
+- [ ] [[creatina-max-titanium-qual-pote]]: Creatina Max Titanium: qual pote compensa (100, 300, 500 g) e qual é Creapure (só a de 250 g) (PT)
+- [ ] [[pre-treino-max-titanium-horus-ou-egide]]: Pré-treino Max Titanium: Hórus (150 mg de cafeína) ou Égide (200 mg), pela cafeína e pelo preço por dose; Night Train sem cafeína (PT)
+- [ ] [[max-titanium-ou-integralmedica]]: Max Titanium ou Integralmédica: whey e creatina pelo rótulo e pelo preço por 100 g (série contra a Integralmédica) (PT)
+- [ ] [[hostinger-horizons-vale-a-pena]]: Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress; vem nos planos de hospedagem (10 idiomas)
+- [ ] [[dominio-hostinger-comprar-transferir-ou-fora]]: Domínio na Hostinger: comprar, transferir ou registrar fora (.com.br R$ 1 no 1º ano com 3 anos, renova R$ 64,99) (10 idiomas)
+- [ ] [[vps-ou-hospedagem-compartilhada-qual-escolher]]: VPS ou hospedagem compartilhada: qual compensa (KVM 1 R$ 23,99, renova R$ 59,99; Single R$ 4,79, renova R$ 23,99) (10 idiomas)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---

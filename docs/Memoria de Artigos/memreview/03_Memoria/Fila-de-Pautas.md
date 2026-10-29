@@ -207,6 +207,25 @@ Descartados na Nutre pela regra de saúde: Control (diabetes), Resource (disfagi
 
 As campanhas de creators com a Cecília são diferentes destas e não entram nesta lista.
 
+## Probiótica, Max Titanium e Hostinger (Bruno, 28/10/2026)
+
+Rodada para as lojas com poucos artigos (Probiótica 6, Max Titanium 7, Hostinger 8 em PT), pelo autocompletar do Google e do Bing e pelos catálogos de 28/10.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| P1 | Probiótica ou Integralmédica | **Pauta aprovada em 28/10/2026:** [[probiotica-ou-integralmedica]] |
+| P2 | Creatina Probiótica: qual versão compensa | **Pauta aprovada em 28/10/2026:** [[creatina-probiotica-qual-compensa]] |
+| P3 | Creatina monodose: sachê ou pote | **Pauta aprovada em 28/10/2026:** [[monodose-probiotica-sache-ou-pote]] |
+| M1 | Creatina Max Titanium: qual pote | **Pauta aprovada em 28/10/2026:** [[creatina-max-titanium-qual-pote]] |
+| M2 | Pré-treino Hórus ou Égide | **Pauta aprovada em 28/10/2026:** [[pre-treino-max-titanium-horus-ou-egide]] |
+| M3 | Max Titanium ou Integralmédica | **Pauta aprovada em 28/10/2026:** [[max-titanium-ou-integralmedica]] |
+| H1 | Criador com IA (antigo Horizons) | **Pauta aprovada em 28/10/2026:** [[hostinger-horizons-vale-a-pena]] |
+| H2 | Domínio: comprar, transferir ou fora | **Pauta aprovada em 28/10/2026:** [[dominio-hostinger-comprar-transferir-ou-fora]] |
+| H3 | VPS ou hospedagem compartilhada | **Pauta aprovada em 28/10/2026:** [[vps-ou-hospedagem-compartilhada-qual-escolher]] |
+| Reserva | Probiótica: hipercalórico Massa Nitro; Max: IsoWhey, Top Whey 3W por tamanho; Hostinger: WordPress, concorrente local, e-mail ou Gmail, Next.js ou Vercel | Estoque |
+
+Descartados: colágeno e "probiótica é bom para..." (saúde e homônimo), Mass 17500 e Multimax (já nos comparativos), planos e renovação da Hostinger (já no BF e no cupom-indicação).
+
 ## Apps das lojas parceiras (Bruno, 23/10/2026)
 
 Pautas que saíram da pergunta do app nas páginas de cupom (PR #238).
