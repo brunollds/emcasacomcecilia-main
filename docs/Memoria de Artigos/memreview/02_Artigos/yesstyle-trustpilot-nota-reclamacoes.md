@@ -1,6 +1,6 @@
 ---
-status: "pauta-aprovada"
-proxima_acao: "redacao"
+status: "publicado"
+proxima_acao: "reler a Trustpilot e o Reclame Aqui na revisão mensal de novembro de 2026"
 bloqueado_por: "-"
 titulo_provisorio: "YesStyle na Trustpilot: nota, reclamações e o que os dados mostram"
 seo_title: "YesStyle na Trustpilot: nota e reclamações"
@@ -313,3 +313,10 @@ Fatos: `yesstyle-trustpilot-nota-reclamacoes-fatos-2810.md`, ao lado; autocomple
 2. Os códigos ficam só no bloco da loja, fora do corpo (artigo de reputação): CECILIA010 é código de recompensa e 4CW5Y é código de indicação da SHEIN Brasil, nunca cupom. Sem experiência própria de compra além do que o dossiê registra. A sugestão "fashion for yes" do autocompletar em zh-hant é outra marca: fora.
 3. Pendentes de navegador antes de publicar (a sessão de artigos lê no Chrome, ou pede ao Bruno): conferir o TrustScore da YesStyle (4,4 no resumo, 4,5 no gráfico) em `https://www.trustpilot.com/review/www.yesstyle.com`; confirmar no Reclame Aqui que a YesStyle não tem perfil; reler `https://www.reclameaqui.com.br/empresa/shein/` (nota de 12/10 no vault, 7,6). Números sempre datados.
 4. Correção no mesmo PR (decisão do Bruno, 28/10): `yesstyle-entrega-no-brasil-e-portugal` ganha frase datada: os envios ao Brasil voltaram em setembro de 2026 (o pedido do Bruno chegou nesse intervalo) e foram suspensos de novo; em 28/10/2026 a loja não oferecia entrega para o Brasil. `yesstyle-e-confiavel`: o registro de mudanças que diz "Envios ao Brasil retomados" passa a dizer o mesmo (retomados em setembro, suspensos de novo em outubro). Só o PT. Quando a YesStyle voltar a entregar, reverter essas duas frases (lista na memória do Claude e no dossiê).
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 04:48 UTC: PR #348, release `3c712549`, família `yesstyle-reputation`, ids 686–695 (10 idiomas, PT inclusive).
+- Trustpilot nas 10 versões: TrustScore 4,4 em 104.552 avaliações, 71% de cinco estrelas, leitura de 28/10. A versão PT fala de Portugal e diz numa frase datada que em 28/10/2026 a loja não entregava no Brasil.
+- Imagens no CDN: capa, barras de estrelas da Trustpilot, print do perfil (29/10, no navegador do app, versão celular) num celular e uma tela de rastreio desenhada sem palavras (pedido do Bruno: "mais lúdico").
+- No mesmo PR: `yesstyle-entrega-no-brasil-e-portugal` e o registro de mudanças do `yesstyle-e-confiavel` com a suspensão das entregas ao Brasil. Quando a YesStyle voltar a entregar, reverter (lista em [[YesStyle]]).
+- Pendente: reler a Trustpilot e o Reclame Aqui na revisão mensal de novembro de 2026.
