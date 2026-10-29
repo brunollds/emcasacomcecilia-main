@@ -3,9 +3,9 @@
   "slug": "cupom-hostinger-indicacao",
   "locale": "pt",
   "translationKey": "hostinger-cupom-como-funciona",
-  "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá",
-  "seoTitle": "Cupom Hostinger 2026: 20% no primeiro período, sem cupom",
-  "type": "Guia do Código de Indicação",
+  "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre",
+  "seoTitle": "Cupom Hostinger SONAR20: 20% de desconto em 2026",
+  "type": "Guia do Cupom",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
   "author": {
@@ -30,33 +30,34 @@
       "initials": "BL"
     }
   ],
-  "description": "Hostinger tem cupom? Não precisa. O link de indicação já dá 20% no primeiro período de um plano novo. Veja os preços de 19/10/2026 e o que muda na renovação.",
-  "metaDescription": "Não há código para digitar na Hostinger: o link de indicação dá 20% no primeiro período, não soma com outros cupons e a renovação volta ao preço padrão.",
+  "description": "O cupom Hostinger SONAR20 dá 20% no primeiro período, em plano mensal ou anual, para cliente novo ou antigo. Veja onde colar o código, os preços e o que muda na renovação.",
+  "metaDescription": "Cupom Hostinger SONAR20: 20% no primeiro período, em plano mensal ou anual. Veja onde colar o código no carrinho e o preço da renovação.",
   "publishedAt": "19 de outubro de 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
-  "imageAlt": "Logos do OpenClaw, do Hermes Agent e do Paperclip, com o logo da Hostinger, o desconto de 20% e um ícone de link",
+  "imageAlt": "Logos do OpenClaw, do Hermes Agent e do Paperclip, com o logo da Hostinger e o desconto de 20%",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Não precisa de cupom: a [indicação da Hostinger](/cupons/hostinger) não tem código para digitar, porque o desconto já está no link. Pelo link, um plano novo sai com 20% de desconto só no primeiro período, e a renovação volta ao preço padrão. O que pesa é o período contratado; veja abaixo a conta e a renovação."
+        "Tem cupom: o código **SONAR20** dá 20% de desconto no primeiro período de qualquer plano da [Hostinger](/cupons/hostinger), mensal ou anual, para cliente novo ou antigo. Cole o código no campo \"Tem um cupom de desconto?\" do carrinho, ou entre pelo link deste artigo. Não testamos a renovação; veja abaixo a conta."
       ]
     },
     {
-      "heading": "O que a Hostinger diz sobre cupom",
+      "heading": "O que o SONAR20 cobre",
       "paragraphs": [
-        "Na FAQ da Black Friday, a própria Hostinger escreve que \"não é necessário nenhum código de cupom para as principais ofertas\", porque os descontos são aplicados automaticamente. A mesma FAQ avisa que algumas promoções de canais específicos podem usar códigos separados. Este texto trata só do link de indicação. Não citamos códigos de outros sites, e para ver o desconto deste link você não precisa de nenhum."
+        "Pela regra da parceria, o SONAR20 vale em todos os planos, mensais e anuais, e também para quem já é cliente da Hostinger. Testamos em 29/10/2026: no site brasileiro, com o código no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o Startup de 48 meses passou de US$ 383,52 para US$ 306,82. Nos três casos, os 20% saíram do preço da Black Friday, e o código valeu sozinho, sem o link.",
+        "O link deste artigo continua valendo, com as regras dele: planos de 12 meses ou mais, para cliente novo. Nos outros casos, use o código. Não citamos códigos de outros sites."
       ]
     },
     {
-      "heading": "Onde entra o código",
+      "heading": "Onde colar o código",
       "paragraphs": [
-        "Ele já está no link, então você não digita nada. O link leva à página de preços da Hostinger, e em cada plano aparece a mensagem \"Código de indicação aplicado\". Para ver o resumo da oferta no site, veja a [página da Hostinger aqui no site](/cupons/hostinger)."
+        "Escolha o plano e o período e siga para o carrinho. No resumo do pedido, clique em \"Tem um cupom de desconto?\" (no site global, \"Have a coupon code?\"), cole **SONAR20** e aplique. O desconto de 20% aparece no total do primeiro período antes do pagamento. O código também está na [página da Hostinger aqui no site](/cupons/hostinger)."
       ]
     },
     {
@@ -66,16 +67,16 @@
       ]
     },
     {
-      "heading": "Quanto custa com e sem o link",
+      "heading": "Quanto custa com e sem o cupom",
       "paragraphs": [
-        "Os preços são os que a Hostinger mostrava em 19/10/2026, em reais e por mês. Os valores com o link são calculados sobre o preço da campanha que estiver no ar, e podem mudar a qualquer momento."
+        "Os preços são os que a Hostinger mostrava em 19/10/2026, em reais e por mês. Os valores com o SONAR20 têm os 20% sobre o preço da campanha que estiver no ar, e podem mudar a qualquer momento."
       ],
       "comparisonTable": {
         "headers": [
           "Plano",
-          "48 meses sem o link",
-          "48 meses com o link",
-          "12 meses com o link",
+          "48 meses sem o cupom",
+          "48 meses com o SONAR20",
+          "12 meses com o SONAR20",
           "Renovação (preço padrão)"
         ],
         "rows": [
@@ -110,94 +111,68 @@
         ]
       },
       "postParagraphs": [
-        "No Single, em 48 meses, o link deixa a conta R$ 57,60 mais baixa no total (R$ 229,92 contra R$ 287,52). No Premium, a diferença é de R$ 96,00 (R$ 383,52 contra R$ 479,52). A renovação não tem desconto: ela entra no preço padrão, mostrado abaixo do card de cada plano.",
-        "Para a campanha em si, com as datas e a comparação com a compra sem o link, veja a [Black Friday da Hostinger](/reviews/black-friday-hostinger)."
+        "No Single, em 48 meses, o SONAR20 deixa a conta R$ 57,60 mais baixa no total (R$ 229,92 contra R$ 287,52). No Premium, a diferença é de R$ 96,00 (R$ 383,52 contra R$ 479,52). O preço de renovação de cada plano aparece abaixo do card; não testamos a renovação com o cupom.",
+        "Para a campanha em si, com as datas e a conta com o cupom, veja a [Black Friday da Hostinger](/reviews/black-friday-hostinger)."
       ],
       "images": [
         {
           "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-precos-com-link.webp",
-          "alt": "Página de preços da Hostinger com o link de indicação, com os quatro planos e o preço mensal de 48 meses",
-          "caption": "Preço de 48 meses com o link de indicação, em 19/10/2026. Imagem: captura do Em Casa com Cecília.",
+          "alt": "Página de preços da Hostinger com os quatro planos e o preço mensal de 48 meses com 20% de desconto",
+          "caption": "Preço de 48 meses com 20% de desconto, em 19/10/2026. Imagem: captura do Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 4.079
         }
       ]
     },
     {
-      "heading": "Como funciona o desconto",
+      "heading": "Plano mensal, anual e quem já é cliente",
       "paragraphs": [
-        "A página diz que o desconto vale para \"o primeiro período de qualquer novo plano, independente do produto escolhido\". Os termos do programa, porém, limitam os serviços elegíveis e falam em assinaturas de 12 meses ou mais. Por isso este texto não diz \"qualquer plano\": confira no carrinho se o 20% aparece no plano que você escolheu. Os termos também falam em \"até 20%\" de desconto para quem chega pelo link; a página mostra 20%."
+        "O SONAR20 dá 20% no primeiro período em plano mensal ou anual, para cliente novo ou antigo. Testamos só o plano Startup de hospedagem; em VPS, e-mail, agentes de IA e domínio, confira no carrinho se o desconto aparece. Quem já é cliente usa o código num plano novo; para a renovação de um plano que você já tem, veja o preço no painel."
       ]
     },
     {
       "heading": "Renovação: o que muda depois do primeiro período",
       "paragraphs": [
         "Depois do primeiro período, o plano é renovado pelo preço padrão, o que aparece abaixo do card de cada plano. A página diz que dá para trocar o período ou cancelar a qualquer momento antes da renovação. Para desligar a renovação automática e o que fazer com uma cobrança que você não reconhece, veja a [Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao)."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-pt.webp",
-          "alt": "Quadro comparando o primeiro período com 20% pelo link e a renovação pelo preço padrão depois dele",
-          "caption": "Primeiro período com 20% pelo link de indicação, e renovação pelo preço padrão. Imagem: quadro do Em Casa com Cecília.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      ]
-    },
-    {
-      "heading": "Por que o desconto não soma com outro cupom",
-      "paragraphs": [
-        "A FAQ da página diz que \"este já é o melhor preço que podemos oferecer por este link\", e por isso outros cupons de desconto não são acumulativos. Se você encontrar um código em outro site, ele não soma com o link, e não recomendamos nenhum."
-      ]
-    },
-    {
-      "heading": "VPS, e-mail e domínio",
-      "paragraphs": [
-        "Os termos do programa listam hospedagem de sites, VPS e o e-mail da Hostinger entre os serviços elegíveis. Domínio não aparece nessa lista, então não contamos com o desconto de 20% para domínio; o que vale é o que aparecer no carrinho. A página também não usa o termo \"primeira compra\": a regra dela é o primeiro período de um plano novo."
-      ]
-    },
-    {
-      "heading": "Quem já é cliente",
-      "paragraphs": [
-        "O link não vale para renovação nem para compra que já foi feita. Os termos descrevem o programa como voltado a novos usuários. A página não diz o que a Hostinger oferece a quem já é cliente, então este texto não promete desconto para renovar. Quem já tem plano confere o valor da renovação no painel da própria Hostinger."
       ]
     },
     {
       "heading": "Antes de pagar",
       "bullets": [
-        "Abra o link pelo botão deste artigo.",
-        "Veja se o card do plano mostra \"Código de indicação aplicado\".",
-        "No carrinho, confira se o 20% aparece no primeiro período e se a renovação está listada. A página não diz se a conta precisa ser nova, então esse é o momento de conferir.",
+        "Escolha o plano e o período e siga para o carrinho.",
+        "Cole SONAR20 no campo de cupom e aplique.",
+        "Confira se os 20% aparecem no total do primeiro período e se a renovação está listada.",
         "Se o valor do carrinho for diferente da tabela, vale o valor do carrinho. A tabela é de 19/10/2026."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Hostinger tem cupom? Não é preciso. O desconto de 20% já está no link de indicação, no primeiro período de um plano novo.",
-        "O link de indicação dá desconto na renovação? Não. A renovação volta ao preço padrão, o que aparece abaixo do card de cada plano.",
-        "O desconto soma com outro cupom? Não. A página diz que outros cupons de desconto não são acumulativos com o link.",
-        "Domínio entra no desconto? Os termos não listam domínio entre os serviços elegíveis. Confira no carrinho antes de pagar.",
-        "Quem já é cliente ganha o desconto? A regra da página exclui renovação e compra já feita. Para renovar, veja o valor no painel da Hostinger."
+        "Hostinger tem cupom? Tem: o código SONAR20 dá 20% no primeiro período de qualquer plano, mensal ou anual.",
+        "Onde coloco o cupom da Hostinger? No carrinho, no campo \"Tem um cupom de desconto?\" (\"Have a coupon code?\" no site global). Cole SONAR20 e aplique antes de pagar.",
+        "O SONAR20 vale para quem já é cliente? Sim, num plano novo, pela regra da parceria. Para a renovação de um plano que você já tem, veja o preço no painel.",
+        "O cupom dá desconto na renovação? Não testamos. Confira o preço de renovação no carrinho antes de pagar.",
+        "O SONAR20 vale na Black Friday? Sim: no teste de 29/10/2026, os 20% saíram do preço da campanha."
       ]
     },
     {
       "heading": "Nota de transparência",
       "paragraphs": [
-        "Este é um artigo de indicação. As compras feitas pelo link podem gerar crédito na Hostinger para o Bruno, sem custo extra para quem compra. O site roda na Hostinger, e o Bruno é cliente desde 2024. Os preços são de 19/10/2026, mudam com a campanha, e a Hostinger pode alterá-los a qualquer momento."
+        "As compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para quem compra. O site roda na Hostinger, e o Bruno é cliente desde 2024. Os preços são de 19/10/2026, mudam com a campanha, e a Hostinger pode alterá-los a qualquer momento."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "O código de indicação já vai no link: os 20% valem só no primeiro período e não somam com outros cupons.",
+    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
     "label": "Ver os planos com desconto",
-    "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Compras pelo link de indicação podem gerar crédito na Hostinger para o Bruno, sem custo extra para você. O site roda na Hostinger.",
+  "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. O site roda na Hostinger.",
   "relatedArticles": [
     {
       "slug": "hostinger-e-confiavel",

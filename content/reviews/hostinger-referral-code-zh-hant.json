@@ -3,9 +3,9 @@
   "slug": "hostinger-referral-code-zh-hant",
   "locale": "zh-hant",
   "translationKey": "hostinger-cupom-como-funciona",
-  "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼",
-  "seoTitle": "Hostinger 優惠券 2026：首期享 20% 折扣，無需輸入代碼",
-  "type": "推薦碼指南",
+  "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍",
+  "seoTitle": "Hostinger SONAR20 優惠碼 2026：首期 20% 折扣",
+  "type": "優惠碼指南",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
   "author": {
@@ -30,127 +30,100 @@
       "initials": "BL"
     }
   ],
-  "description": "Hostinger 有優惠券嗎？不需要。透過推薦連結選購新方案，首期即享 20% 折扣，且無需輸入任何代碼。以下是方案條款的適用服務，以及續訂時會有什麼變化。",
-  "metaDescription": "Hostinger 沒有需要輸入的代碼：推薦連結的首期享 20% 折扣，不能與其他優惠券疊加，續訂會回到標準價格。",
+  "description": "Hostinger 的 SONAR20 優惠碼在購物車輸入，首期享 20% 折扣，月付或年付方案都可以，新客戶和舊客戶都適用。以下說明在哪裡輸入、適用範圍，並說明續訂要確認什麼。",
+  "metaDescription": "Hostinger SONAR20：首期享 20% 折扣，月付或年付方案，新客戶或舊客戶都可以。說明在購物車哪裡輸入、適用哪些方案，並提醒續訂價要在購物車確認。",
   "publishedAt": "2026年10月19日",
   "publishedAtISO": "2026-10-19",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
-  "imageAlt": "OpenClaw、Hermes Agent 與 Paperclip 的標誌，配上 Hostinger 標誌、20% 折扣與連結圖示",
+  "imageAlt": "OpenClaw、Hermes Agent 與 Paperclip 的標誌，配上 Hostinger 標誌、SONAR20 的 20% 折扣與連結圖示",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
     {
-      "heading": "重點速覽",
+      "heading": "快速回答",
       "paragraphs": [
-        "不需要優惠券，因為[Hostinger 推薦連結](/zh-hant/coupons/hostinger)裡沒有需要輸入的代碼，折扣已經包含在連結中。透過這個連結選購新方案，只有首期享 20% 折扣，續訂會回到標準價格。折扣金額取決於你選擇的計費期間，詳見「折扣如何運作」。"
+        "有優惠碼：**SONAR20** 在 [Hostinger](/zh-hant/coupons/hostinger) 的方案上給首期 20% 折扣，月付或年付都可以，新客戶或舊客戶都適用。在購物車的優惠碼欄位輸入，或從本文連結進入。續訂價我們沒有測試，請在購物車確認。"
       ]
     },
     {
-      "heading": "Hostinger 怎麼說優惠券",
+      "heading": "SONAR20 涵蓋什麼",
       "paragraphs": [
-        "在 Hostinger 搜尋優惠券，常常只會找到不起作用的代碼，因為公司很少使用代碼。Hostinger 在黑色星期五常見問題中寫道，主要優惠不需要任何優惠券代碼，因為折扣會自動套用。同一份常見問題也提醒，部分特定管道的促銷可能會使用另外的代碼。",
-        "本文只談推薦連結，這是本站折扣的運作方式。我們不列出其他網站的代碼，本文所述的折扣也不需要任何代碼。"
+        "SONAR20 適用於所有方案，包括月付和年付，對新客戶和現有客戶都有效。2026 年 10 月 29 日在全球站的測試中，Startup 48 個月方案在購物車輸入 SONAR20 後，從 US$ 383,52 降到 US$ 306,82：20% 是從黑色星期五的活動價算出來的。那個方案不接受推薦連結，但 SONAR20 照樣生效。",
+        "本文的連結也會帶你到打折的價格，但它有自己的條件；連結不適用時，就用優惠碼。我們不引用其他網站的代碼。"
       ]
     },
     {
-      "heading": "代碼要放在哪裡",
+      "heading": "在哪裡輸入優惠碼",
       "paragraphs": [
-        "不用放在任何地方。推薦代碼已經在連結裡，所以結帳時無需輸入任何東西。連結會開啟帶有折扣的 Hostinger 價格頁面。2026年10月24日我們開啟時，每個方案卡片都顯示「Referral code applied」（已套用推薦碼）的提示。優惠摘要請參考[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
-      ]
-    },
-    {
-      "heading": "折扣如何運作",
-      "paragraphs": [
-        "頁面寫明，20% 適用於任何新方案的首期，與產品無關。折扣按當時的活動價格計算，所以最終價格取決於你所在的地區和購買時的活動。因此本文不列價格，透過連結開啟的頁面會顯示當前價格。",
-        "影響計算的是你選擇的計費期間。20% 按整個首期計算，首期越長，總折扣越多；首期越短，折扣越少，並且會更早按標準價格續訂。",
-        "方案條款比頁面的範圍更窄。它限制了合資格的服務，以 12 個月或以上的訂閱為前提，並且條款寫的是「最高 20%」，而頁面寫的是 20%。因此本文不保證每個方案都享有折扣，請在購物車確認你選的方案是否出現 20%。",
-        "關於黑色星期五活動的日期，以及活動與推薦連結的比較，請參考[Hostinger 黑色星期五指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
-      ]
-    },
-    {
-      "heading": "續訂：首期之後會有什麼變化",
-      "paragraphs": [
-        "首期結束後，方案會按每個方案卡片下方顯示的標準價格續訂，續訂沒有折扣。頁面說明，在續訂前你可以更改週期，也可以隨時取消。",
-        "想關閉自動續訂，或了解客戶對意外扣款的反映，請閱讀[Trustpilot 上的 Hostinger 文章](/zh-hant/reviews/hostinger-trustpilot-reviews-zh-hant)，其中有 Hostinger 說明中心的分步指引。"
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-zh-hant.webp",
-          "alt": "比較連結首期 20% 與首期後以標準價格續訂的示意圖",
-          "caption": "透過推薦連結的首期 20% 折扣，以及之後以標準價格續訂。圖片：Em Casa com Cecília 製作的示意圖。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      ]
-    },
-    {
-      "heading": "為什麼折扣不能與其他優惠券疊加",
-      "paragraphs": [
-        "頁面的常見問題寫道，這已經是透過此連結能提供的最優價格，因此其他折扣優惠券無法疊加。如果你在其他網站找到代碼，它不會加到這 20% 上。我們不推薦任何代碼。"
-      ]
-    },
-    {
-      "heading": "哪些服務符合條件：主機、VPS、電郵和網域",
-      "paragraphs": [
-        "條款列出的合資格服務包括網站主機、VPS 和 Hostinger 電郵。網域不在這份清單中，所以不要指望網域能享有 20%，以購物車顯示的為準。",
-        "頁面也沒有使用「首次購買」一詞，它的規則是新方案的首期。如果你以後打算再加購其他產品，這一點很重要。"
-      ]
-    },
-    {
-      "heading": "已是客戶的情況",
-      "paragraphs": [
-        "此連結不適用於續訂，也不適用於已完成的購買。條款把此計畫描述為針對新用戶，頁面也沒有說明 Hostinger 對現有客戶提供什麼，因此本文不承諾續訂折扣。如果你已有方案，請在 Hostinger 控制台查看續訂金額。"
+        "選好方案和期間，進入購物車。在訂單摘要中點擊「Have a coupon code?」（英文版頁面的說法），貼上 **SONAR20** 並套用。20% 折扣會出現在首期總價上，付款前就能看到。優惠碼也列在[本站的 Hostinger 優惠頁](/zh-hant/coupons/hostinger)。"
       ]
     },
     {
       "heading": "本站的使用經驗",
       "paragraphs": [
         "本站跑在 Hostinger 上。本文署名人 Bruno 從 2024 年起就是客戶，使用時間超過 24 個月，用的是 Business 網站主機、KVM 2 VPS、Business 電郵和網域，全部自動續訂。每次遇到問題，客服都能解決，主要是 AI 客服代理。他說從未遇過服務中斷。",
-        "這是他的帳戶和使用情況。本文中的折扣規則來自 Hostinger 的推薦頁面和方案條款，而不是他的個人經驗。"
+        "這是他的帳戶和使用情況。本文中的折扣規則來自 Hostinger 的優惠頁和方案條款，而不是他的個人經驗。"
       ]
     },
     {
-      "heading": "推薦連結值得用嗎",
+      "heading": "價格與活動",
       "paragraphs": [
-        "我們的判斷：對於新方案，值得。使用連結不花錢，沒有會輸錯的代碼，而且首期 20% 比其他網站的優惠券更划算，因為那些優惠券無法疊加。決定你能省多少的兩件事是你選擇的計費期間和續訂價格，所以付款前請兩者都檢查："
-      ],
+        "Hostinger 的價格會隨活動和地區變動，所以本文不列金額。20% 是按購物車上的價格算的；2026 年 10 月 29 日的測試就是這樣：全球站的 Startup 48 個月方案，活動價 US$ 383,52，輸入 SONAR20 後為 US$ 306,82。付款前，請以購物車的總價為準。"
+      ]
+    },
+    {
+      "heading": "續訂：首期之後會有什麼變化",
+      "paragraphs": [
+        "首期結束後，方案會續訂。我們沒有測試續訂，請在購物車或後台確認續訂價格。頁面說明，在續訂前你可以更改週期，也可以隨時取消。",
+        "想關閉自動續訂，或了解客戶對意外扣款的反映，請閱讀[Trustpilot 上的 Hostinger 文章](/zh-hant/reviews/hostinger-trustpilot-reviews-zh-hant)，其中有 Hostinger 說明中心的分步指引。"
+      ]
+    },
+    {
+      "heading": "月付、年付與現有客戶",
+      "paragraphs": [
+        "SONAR20 給首期 20%，月付或年付方案都可以，新客戶和舊客戶都適用。我們只在網站主機方案上測過；VPS、電郵、AI 代理和網域都沒有測試，請在購物車確認 20% 是否出現。現有客戶用它購買新方案；我們沒有測試續訂，請在後台確認續訂價格。"
+      ]
+    },
+    {
+      "heading": "付款前確認什麼",
       "bullets": [
-        "使用本文按鈕開啟連結。",
-        "在價格頁面查看推薦碼已套用的提示，並比較有連結和無連結時的首期總價。",
-        "在購物車確認首期出現 20%，並且列出了續訂價格。頁面沒有說明帳戶是否必須是新帳戶，所以請在這一步確認。",
-        "如果購物車價格與你在別處看到的不同，以購物車價格為準。價格會隨活動和地區變動。"
+        "選好方案和期間，進入購物車。",
+        "輸入 SONAR20 並套用。",
+        "確認首期出現 20%，並列出了續訂價格。",
+        "如果購物車價格與你在別處看到的不同，以購物車為準。價格會隨活動和地區變動。"
       ]
     },
     {
       "heading": "常見問題",
       "bullets": [
-        "Hostinger 有優惠券嗎？不需要。20% 折扣已包含在推薦連結中，適用於新方案的首期。",
-        "推薦連結對續訂有折扣嗎？沒有。續訂會回到該方案的標準價格。",
-        "折扣可以與其他優惠券疊加嗎？不可以。頁面說明，其他折扣優惠券不能與此連結累加。",
-        "網域也算在折扣內嗎？條款沒有把網域列為合資格服務。付款前請在購物車確認。",
-        "已是客戶可以享有折扣嗎？頁面規則排除續訂和已完成的購買。續訂金額請在 Hostinger 控制台查看。"
+        "Hostinger 有優惠碼嗎？有：SONAR20 在首期給 20% 折扣，月付和年付的方案都適用。",
+        "在哪裡輸入 Hostinger 的優惠碼？在購物車的優惠碼欄位。輸入 SONAR20 並套用，付款前完成。",
+        "SONAR20 適用於現有客戶嗎？適用於新方案。我們沒有測試現有客戶的續訂，請在後台確認續訂價格。",
+        "優惠碼會影響續訂嗎？我們沒有測試續訂。請在購物車或後台確認續訂價格。",
+        "SONAR20 在黑色星期五也有效嗎？有。2026 年 10 月 29 日的測試中，20% 是從活動價算出來的。"
       ]
     },
     {
       "heading": "透明度說明",
       "paragraphs": [
-        "這是一篇推薦連結文章。透過連結的購買可能會為 Bruno 帶來 Hostinger 的帳戶額度，購買者無需額外付費。本站跑在 Hostinger 上，Bruno 從 2024 年起就是客戶。推薦頁面、其常見問題和方案條款於 2026年10月19日 閱讀。價格和活動會變動，Hostinger 也可能隨時調整。"
+        "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。本站跑在 Hostinger 上，Bruno 從 2024 年起就是客戶。價格和活動會變動，Hostinger 也可能隨時調整。"
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "推薦代碼已經在連結裡：20% 只適用於首期，不能與其他優惠券疊加。",
+    "text": "在購物車輸入 SONAR20，或從本文連結進入：首期 20%，月付或年付都可以。續訂價請在購物車確認。",
     "label": "查看享有折扣的方案",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "透過推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。本站跑在 Hostinger 上。",
+  "editorialNote": "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。本站跑在 Hostinger 上。",
   "relatedArticles": [
     {
       "slug": "hostinger-trust-guide-zh-hant",
@@ -162,7 +135,7 @@
     },
     {
       "slug": "hostinger-black-friday-zh-hant",
-      "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+      "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢"
     }
   ]
 }

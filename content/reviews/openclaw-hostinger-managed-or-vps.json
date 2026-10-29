@@ -31,7 +31,7 @@
     }
   ],
   "description": "OpenClaw on Hostinger: the managed plan costs less in the first period, and the VPS gives you root access and Docker. US dollar prices from October 21, 2026, and who each one suits.",
-  "metaDescription": "Managed or VPS for OpenClaw on Hostinger: price with and without the referral link, renewal, AI credits, Telegram and WhatsApp, and who looks after the server.",
+  "metaDescription": "Managed or VPS for OpenClaw on Hostinger: price with and without SONAR20, renewal, AI credits, Telegram and WhatsApp, and who looks after the server.",
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -77,12 +77,12 @@
         ],
         "rows": [
           [
-            "First period, without the link",
+            "First period, without SONAR20",
             "US$4.99/month",
             "US$6.49/month"
           ],
           [
-            "First period, with the referral link",
+            "First period, with SONAR20",
             "US$3.99/month",
             "20% off, shown in the cart"
           ],
@@ -133,27 +133,27 @@
         "The price on the page is per month, but the 24-month plan is paid up front:"
       ],
       "bullets": [
-        "**Managed, with the link:** 24 × US$3.99 = **US$95.76**. Without the link: 24 × US$4.99 = US$119.76.",
-        "**VPS KVM 1, without the link:** 24 × US$6.49 = **US$155.76**. The page did not show the price with the link; the 20% appears in the cart.",
+        "**Managed, with SONAR20:** 24 × US$3.99 = **US$95.76**. Without SONAR20: 24 × US$4.99 = US$119.76.",
+        "**VPS KVM 1, without SONAR20:** 24 × US$6.49 = **US$155.76**. The page did not show the price with SONAR20; the 20% appears in the cart.",
         "**Renewal, over the following 24 months (the same for both):** 24 × US$11.99 = US$287.76."
       ],
       "postParagraphs": [
-        "Over the first 24 months, the managed plan costs US$36 less than KVM 1, both without the link. After that, both cost the same. Renewal is switched on by default; see [how Hostinger charges and renews](/en/reviews/is-hostinger-legit).",
+        "Over the first 24 months, the managed plan costs US$36 less than KVM 1, both without the discount. After that, both cost the same. Renewal is switched on by default; see [how Hostinger charges and renews](/en/reviews/is-hostinger-legit).",
         "The plan is not the whole cost: AI usage is charged separately. With Hostinger's credits, the managed plan comes with a starting balance, and whatever goes beyond it is charged by use. The price of a top-up does not appear on any public page, so check the panel before you count on it. With your own key, the provider (OpenAI, Anthropic or another) charges you directly, depending on the model and the number of conversations.",
         "The managed plan has a 30-day refund window. On the VPS, the 30 days apply only if your last VPS refund was requested more than 180 days ago."
       ]
     },
     {
-      "heading": "The referral link and the price of each plan",
+      "heading": "SONAR20 and the price of each plan",
       "paragraphs": [
-        "The referral link already applies the discount: there is no code to type. It gives **20% off the first period only**, on plans of 12 months or more, and the discount **does not stack with other coupons**. Renewal is charged at the normal price. The full rule is in [how Hostinger's referral link works](/en/reviews/hostinger-coupon-code-referral).",
+        "Use the code **SONAR20** in the coupon field of the cart, or come in through this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. We have not tested renewal; check the renewal price in the cart. The full rule is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral).",
         "Prices for 24-month plans, read on October 21, 2026:"
       ],
       "comparisonTable": {
         "headers": [
           "Plan",
-          "Without the link",
-          "With the link",
+          "Without SONAR20",
+          "With SONAR20",
           "Renewal"
         ],
         "rows": [
@@ -238,7 +238,7 @@
       ],
       "postParagraphs": [
         "**Choose the VPS if:** you want root access and to run other programs on the same server, such as a website or n8n; you know how to manage a server, or want to learn, and you accept keeping the system updated and protected; or you need more memory and disk, since the KVM plans go from 4 GB to 32 GB of RAM.",
-        "**When in doubt, start with managed.** On the October 21, 2026 prices, it is US$36 cheaper than KVM 1 over the first 24 months without the link, US$3.99/month with it, and both renew at US$11.99/month. It asks for no server knowledge, and the AI cost is the same on both paths."
+        "**When in doubt, start with managed.** On the October 21, 2026 prices, it is US$36 cheaper than KVM 1 over the first 24 months without SONAR20, US$3.99/month with it, and both renew at US$11.99/month. It asks for no server knowledge, and the AI cost is the same on both paths."
       ]
     },
     {
@@ -246,38 +246,39 @@
       "bullets": [
         "Is Hostinger's managed OpenClaw plan worth it? It is for people who want the assistant without looking after a server: on October 21, 2026, it costs less than the VPS in the first period and renews at the same price. Anyone who wants root access and other programs on the server is better off with the VPS.",
         "Do you need an OpenAI or Anthropic account? No. On both options you can use Hostinger's AI credits. You only need an account with a provider if you prefer your own key.",
-        "Is there a Hostinger coupon code for OpenClaw? There is no code to type. The 20% discount comes through the referral link, only on the first period, on plans of 12 months or more, and it does not stack with other coupons.",
-        "How much does it cost after the first period? US$11.99/month on managed and on KVM 1, and US$14.99/month on KVM 2, at the October 21, 2026 prices. The referral discount does not repeat at renewal.",
+        "Is there a Hostinger coupon for OpenClaw? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans, for new or existing customers.",
+        "How much does it cost after the first period? US$11.99/month on managed and on KVM 1, and US$14.99/month on KVM 2, at the October 21, 2026 prices. We have not tested renewal with SONAR20; check the renewal price in the cart.",
         "Does the managed plan work for Hermes Agent or Paperclip? Yes. All three are on the same plan, \"AI automation apps\", at the same price. The Paperclip page does not list AI credits, so bring your own key."
       ]
     },
     {
       "heading": "If you have already decided",
       "paragraphs": [
-        "The referral link already applies the discount: there is no code to type. The 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons; renewal is charged at the normal price. On 24-month plans read on October 21, 2026, managed is US$3.99/month with the link, and KVM 1 is US$6.49/month before the discount, which appears in the cart; both renew at US$11.99/month. Check the amount in the cart before paying. See [how Hostinger's referral link works](/en/reviews/hostinger-coupon-code-referral) and [Hostinger's page on the site](/en/coupons/hostinger)."
+        "Use the code SONAR20 in the coupon field of the cart, or come in through this article's link: 20% off the first period, on a monthly or annual plan, for new or existing customers. We have not tested renewal; check the renewal price in the cart. On 24-month plans read on October 21, 2026, managed is US$3.99/month with SONAR20, and KVM 1 is US$6.49/month before the discount, which appears in the cart; both renew at US$11.99/month. Check the amount in the cart before paying. See [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and [Hostinger's page on the site](/en/coupons/hostinger)."
       ]
     },
     {
       "heading": "Who writes this",
       "paragraphs": [
-        "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. No one on the team uses OpenClaw: this text gathers what Hostinger's pages and OpenClaw's official documentation say, read on October 21, 2026. Buying through the referral link may give Bruno credit with Hostinger, at no extra cost to you."
+        "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. No one on the team uses OpenClaw: this text gathers what Hostinger's pages and OpenClaw's official documentation say, read on October 21, 2026. Purchases with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "The referral code is already in the link: there is nothing to type. The 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons.",
-    "label": "See the plans with the referral link",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+    "label": "See the plans with SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Purchases through the referral link may give Bruno credit with Hostinger, at no extra cost to you. No one on the team uses OpenClaw.",
+  "editorialNote": "Purchases with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you. No one on the team uses OpenClaw.",
   "relatedArticles": [
     {
       "slug": "hostinger-coupon-code-referral",
-      "title": "Hostinger coupon: you don't need one, and here is what the referral link gives"
+      "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
     },
     {
       "slug": "is-hostinger-legit",
@@ -285,7 +286,7 @@
     },
     {
       "slug": "hostinger-black-friday",
-      "title": "Hostinger Black Friday 2026: the campaign or the referral link, which is cheaper?"
+      "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
     }
   ]
 }

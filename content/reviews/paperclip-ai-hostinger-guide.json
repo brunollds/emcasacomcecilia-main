@@ -150,13 +150,13 @@
     {
       "heading": "How much it costs",
       "paragraphs": [
-        "Prices for 24-month plans from Hostinger's global page, in US dollars, read on October 21, 2026. The managed plan is called “AI automation apps” and costs the same for OpenClaw, Hermes Agent and Paperclip. The page showed the referral price only for the managed plan; for the VPS, the 20% appears in the cart."
+        "Prices for 24-month plans from Hostinger's global page, in US dollars, read on October 21, 2026. The managed plan is called “AI automation apps” and costs the same for OpenClaw, Hermes Agent and Paperclip. The page showed the SONAR20 price only for the managed plan; for the VPS, the 20% appears in the cart."
       ],
       "comparisonTable": {
         "headers": [
           "Plan",
-          "Without the link",
-          "With the link",
+          "Without SONAR20",
+          "With SONAR20",
           "Renewal"
         ],
         "rows": [
@@ -199,16 +199,16 @@
       ]
     },
     {
-      "heading": "Referral link",
+      "heading": "SONAR20 coupon",
       "paragraphs": [
-        "The referral link already applies the discount, and there is no code to type. It gives **20% off the first period only**, on plans of 12 months or more, and the discount **does not stack with other coupons**. Renewal is charged at the normal price. The full rule is in [how Hostinger's referral link works](/en/reviews/hostinger-coupon-code-referral). Check the amount in the cart before you pay."
+        "Use the code **SONAR20** in the coupon field of the cart, or come in through this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. We have not tested renewal; check the renewal price in the cart. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral). Check the amount in the cart before you pay."
       ]
     },
     {
       "heading": "How to start, in order",
       "bullets": [
         "**Run it on your computer.** The official README asks for Node.js 24.11 or newer. Check your version with node -v in the terminal, then run npx paperclipai@latest onboard --yes. The interface opens at http://localhost:3100, and the Postgres database is created automatically. There is no server cost, but Paperclip only runs while the computer is on. If you subscribe to Claude or Codex, the README also accepts signing in with that subscription, without an API key, provided Python 3 and the provider's program are installed.",
-        "**Subscribe to managed.** Sign up for the “AI automation apps” plan for 24 months through the referral link. After the subscription, Hostinger prepares the instance and the database. You log into the panel, connect your agents and paste in your AI keys.",
+        "**Subscribe to managed.** Sign up for the “AI automation apps” plan for 24 months, with the code SONAR20 in the cart. After the subscription, Hostinger prepares the instance and the database. You log into the panel, connect your agents and paste in your AI keys.",
         "**Or get a VPS with Docker.** Choose a KVM plan (KVM 1 is the cheapest) and, in the list of applications, Paperclip, which Hostinger installs with one click. From the Docker Manager in the panel, you open Paperclip, add your keys and update the version with a button. Server security, passwords and system updates remain your responsibility."
       ]
     },
@@ -219,7 +219,7 @@
       ],
       "bullets": [
         "**Try it on your computer first** if you are not sure a team of agents is for you. The install is one command, and the only cost is what the AI providers charge.",
-        "**Managed** if you want Paperclip online without touching a server: US$3.99/month with the referral link, US$11.99/month on renewal, with the database, updates and backups on Hostinger's side.",
+        "**Managed** if you want Paperclip online without touching a server: US$3.99/month with SONAR20, US$11.99/month on renewal, with the database, updates and backups on Hostinger's side.",
         "**VPS** if you want root access, other programs on the same server or the database under your control: KVM 1 from US$6.49/month before the discount, US$11.99/month on renewal. Server security and updates are yours.",
         "**A single agent instead of a team** if you only want one assistant, for example on Telegram or WhatsApp. For that choice, see [OpenClaw on Hostinger, managed or VPS](/en/reviews/openclaw-hostinger-managed-or-vps) and [OpenClaw vs Hermes Agent](/en/reviews/openclaw-vs-hermes-agent), which compares the two single agents."
       ],
@@ -234,7 +234,7 @@
         "Is Paperclip reliable? We cannot give a verdict. You can check that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official GitHub channel. We did not find an independent audit in the sources read on October 21, 2026.",
         "Do you need an API key? Yes. On managed and on the VPS, the Paperclip page asks you to bring your own. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
         "Does it work with Ollama? It depends on the agent you connect. The Paperclip README does not mention Ollama, a program for running an AI model on your own computer. OpenClaw, for example, documents local models; in Paperclip, the model is up to the agent you connect.",
-        "Is there a Hostinger coupon code for Paperclip? There is no code to type. The referral link takes 20% off the first period of plans of 12 months or more, and the discount does not stack with other coupons."
+        "Is there a Hostinger coupon for Paperclip? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans, for new or existing customers."
       ]
     },
     {
@@ -247,13 +247,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "The referral code is already in the link: there is nothing to type. The 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons.",
-    "label": "See the plans with the referral link",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+    "label": "See the plans with SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Purchases through the referral link may give Bruno credit with Hostinger, at no extra cost to you. No one on the team uses Paperclip.",
+  "editorialNote": "Purchases with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you. No one on the team uses Paperclip.",
   "relatedArticles": [
     {
       "slug": "openclaw-vs-hermes-agent",
@@ -265,7 +266,7 @@
     },
     {
       "slug": "hostinger-coupon-code-referral",
-      "title": "Hostinger coupon: you don't need one, and here is what the referral link gives"
+      "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
     }
   ]
 }

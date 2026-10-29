@@ -31,7 +31,7 @@
     }
   ],
   "description": "OpenClaw chez Hostinger : le géré coûte moins cher la première période, le VPS donne root et Docker. Prix du 21 octobre 2026 et à qui convient chaque option.",
-  "metaDescription": "Géré ou VPS pour OpenClaw chez Hostinger : prix avec et sans le lien de parrainage, renouvellement, crédits d'IA, Telegram et WhatsApp, et qui gère le serveur.",
+  "metaDescription": "Géré ou VPS pour OpenClaw chez Hostinger : prix avec et sans le SONAR20, renouvellement, crédits d'IA, Telegram et WhatsApp, et qui gère le serveur.",
   "publishedAt": "21 octobre 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -77,12 +77,12 @@
         ],
         "rows": [
           [
-            "Première période, sans le lien",
+            "Première période, sans le code",
             "4,99 US$/mois",
             "6,49 US$/mois"
           ],
           [
-            "Première période, avec le lien de parrainage",
+            "Première période, avec le SONAR20",
             "3,99 US$/mois",
             "20 % de réduction, affichée dans le panier"
           ],
@@ -133,27 +133,27 @@
         "Le prix affiché sur la page est mensuel, mais le forfait de 24 mois se paie en une seule fois :"
       ],
       "bullets": [
-        "**Géré, avec le lien :** 24 × 3,99 US$ = **95,76 US$**. Sans le lien : 24 × 4,99 US$ = 119,76 US$.",
-        "**VPS KVM 1, sans le lien :** 24 × 6,49 US$ = **155,76 US$**. La page n'affichait pas le prix avec le lien ; la réduction de 20 % apparaît dans le panier.",
+        "**Géré, avec le SONAR20 :** 24 × 3,99 US$ = **95,76 US$**. Sans le code : 24 × 4,99 US$ = 119,76 US$.",
+        "**VPS KVM 1, sans le code :** 24 × 6,49 US$ = **155,76 US$**. La page n'affichait pas le prix avec le SONAR20 ; la réduction de 20 % apparaît dans le panier.",
         "**Renouvellement, sur les 24 mois suivants (identique dans les deux cas) :** 24 × 11,99 US$ = 287,76 US$."
       ],
       "postParagraphs": [
-        "Sur les 24 premiers mois, l'offre gérée coûte 36 US$ de moins que le KVM 1, les deux sans le lien. Ensuite, les deux coûtent la même chose. Le renouvellement est activé par défaut ; voyez [comment Hostinger facture et renouvelle](/fr/reviews/hostinger-est-il-fiable).",
+        "Sur les 24 premiers mois, l'offre gérée coûte 36 US$ de moins que le KVM 1, les deux sans le code. Ensuite, les deux coûtent la même chose. Le renouvellement est activé par défaut ; voyez [comment Hostinger facture et renouvelle](/fr/reviews/hostinger-est-il-fiable).",
         "L'abonnement ne fait pas tout : l'usage de l'IA est facturé à part. Avec les crédits de Hostinger, l'offre gérée inclut un solde de départ, et ce qui dépasse est facturé selon la consommation. Le prix d'une recharge n'apparaît sur aucune page publique, alors vérifiez-le dans le panneau avant de compter dessus. Avec votre propre clé, le fournisseur (OpenAI, Anthropic ou un autre) vous facture directement, selon le modèle et le nombre de conversations.",
         "L'offre gérée donne 30 jours pour demander un remboursement. Sur le VPS, les 30 jours ne valent que si votre dernier remboursement de VPS a été demandé il y a plus de 180 jours."
       ]
     },
     {
-      "heading": "Lien de parrainage et prix de chaque forfait",
+      "heading": "Code SONAR20 et prix de chaque forfait",
       "paragraphs": [
-        "Le lien de parrainage applique déjà la réduction : il n'y a pas de code à saisir. Il donne **20 % seulement sur la première période**, sur des forfaits de 12 mois ou plus, et la réduction **ne se cumule pas avec d'autres codes promo**. Le renouvellement se fait au prix normal. La règle complète est expliquée dans [le fonctionnement du lien de parrainage Hostinger](/fr/reviews/code-promo-hostinger-parrainage).",
+        "Le code **SONAR20** donne **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou existant. Collez-le dans le champ de coupon du panier, ou passez par le lien de cet article. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier. Le fonctionnement du code est expliqué dans [Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre](/fr/reviews/code-promo-hostinger-parrainage).",
         "Prix des forfaits de 24 mois, relevés le 21 octobre 2026 :"
       ],
       "comparisonTable": {
         "headers": [
           "Forfait",
-          "Sans le lien",
-          "Avec le lien",
+          "Sans le code",
+          "Avec le SONAR20",
           "Renouvellement"
         ],
         "rows": [
@@ -238,7 +238,7 @@
       ],
       "postParagraphs": [
         "**Choisissez le VPS si :** vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n ; vous savez administrer un serveur, ou vous voulez apprendre, et vous acceptez de garder le système à jour et protégé ; ou vous avez besoin de plus de mémoire et d'espace disque : les forfaits KVM vont de 4 Go à 32 Go de RAM.",
-        "**Dans le doute, commencez par le géré.** Aux prix du 21 octobre 2026, il coûte 36 US$ de moins que le KVM 1 sur les 24 premiers mois sans le lien, 3,99 US$/mois avec le lien, et les deux se renouvellent à 11,99 US$/mois. Il ne demande aucune connaissance serveur, et le coût de l'IA est le même dans les deux cas."
+        "**Dans le doute, commencez par le géré.** Aux prix du 21 octobre 2026, il coûte 36 US$ de moins que le KVM 1 sur les 24 premiers mois sans le code, 3,99 US$/mois avec le SONAR20, et les deux se renouvellent à 11,99 US$/mois. Il ne demande aucune connaissance serveur, et le coût de l'IA est le même dans les deux cas."
       ]
     },
     {
@@ -246,15 +246,15 @@
       "bullets": [
         "L'offre OpenClaw gérée de Hostinger vaut-elle le coup ? Elle s'adresse à ceux qui veulent l'assistant sans s'occuper d'un serveur : le 21 octobre 2026, elle coûte moins cher que le VPS sur la première période et se renouvelle au même prix. Qui veut un accès root et d'autres programmes sur le serveur a intérêt à prendre le VPS.",
         "Faut-il un compte OpenAI ou Anthropic ? Non. Dans les deux cas, vous pouvez utiliser les crédits d'IA de Hostinger. Un compte chez le fournisseur n'est nécessaire que si vous préférez votre propre clé.",
-        "Existe-t-il un code promo Hostinger pour OpenClaw ? Il n'y a pas de code à saisir. La réduction de 20 % passe par le lien de parrainage, seulement sur la première période et sur des forfaits de 12 mois ou plus, et elle ne se cumule pas avec d'autres codes promo.",
-        "Combien coûte-t-il après la première période ? 11,99 US$/mois pour le géré et le KVM 1, et 14,99 US$/mois pour le KVM 2, aux prix du 21 octobre 2026. La réduction du parrainage ne se répète pas au renouvellement.",
+        "Existe-t-il un code promo Hostinger pour OpenClaw ? Oui : le code SONAR20 donne 20 % sur la première période, en forfait mensuel ou annuel. Collez-le dans le champ de coupon du panier.",
+        "Combien coûte-t-il après la première période ? 11,99 US$/mois pour le géré et le KVM 1, et 14,99 US$/mois pour le KVM 2, aux prix du 21 octobre 2026. Nous n'avons pas testé le renouvellement avec le code ; les prix de renouvellement ci-dessus sont ceux de la page.",
         "L'offre gérée fonctionne-t-elle pour Hermes Agent ou Paperclip ? Oui. Les trois sont dans la même offre, « Applications d'automatisation IA », au même prix. La page de Paperclip ne liste pas de crédits d'IA : apportez donc votre propre clé."
       ]
     },
     {
       "heading": "Si vous avez déjà décidé",
       "paragraphs": [
-        "Le lien de parrainage applique déjà la réduction : il n'y a pas de code à saisir. Les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo ; le renouvellement se fait au prix normal. Sur les forfaits de 24 mois relevés le 21 octobre 2026, le géré coûte 3,99 US$/mois avec le lien, et le KVM 1 coûte 6,49 US$/mois avant la réduction, qui apparaît dans le panier ; les deux se renouvellent à 11,99 US$/mois. Vérifiez le montant dans le panier avant de payer. Voyez [le fonctionnement du lien de parrainage Hostinger](/fr/reviews/code-promo-hostinger-parrainage) et [la page Hostinger du site](/fr/coupons/hostinger)."
+        "Le code **SONAR20** donne 20 % sur la première période, en forfait mensuel ou annuel, pour un client nouveau ou existant. Collez-le dans le champ de coupon du panier, ou passez par le lien de cet article. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier. Sur les forfaits de 24 mois relevés le 21 octobre 2026, le géré coûte 3,99 US$/mois avec le SONAR20, et le KVM 1 coûte 6,49 US$/mois avant la réduction, qui apparaît dans le panier ; les deux se renouvellent à 11,99 US$/mois. Vérifiez le montant dans le panier avant de payer. Voyez [le fonctionnement du code SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et [la page Hostinger du site](/fr/coupons/hostinger)."
       ]
     },
     {
@@ -267,17 +267,18 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Le code de parrainage est déjà dans le lien : rien à saisir. Les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo.",
-    "label": "Voir les forfaits avec le lien de parrainage",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+    "label": "Voir les forfaits avec le SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Les achats faits par le lien de parrainage peuvent donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous. Personne dans l'équipe n'utilise OpenClaw.",
+  "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l'équipe n'utilise OpenClaw.",
   "relatedArticles": [
     {
       "slug": "code-promo-hostinger-parrainage",
-      "title": "Code promo Hostinger : inutile, voici ce que donne le lien de parrainage"
+      "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
     },
     {
       "slug": "hostinger-est-il-fiable",
@@ -285,7 +286,7 @@
     },
     {
       "slug": "black-friday-hostinger-offres",
-      "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+      "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
     }
   ]
 }

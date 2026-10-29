@@ -117,7 +117,7 @@
         ],
         "rows": [
           [
-            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONAR20)",
             "19,99 US$, ou 0,01 US$ avec un engagement de 3 ans",
             "19,99 US$",
             "9,99 US$"
@@ -169,7 +169,7 @@
         "Achetez dans le compte qui sera le vôtre, avec un e-mail à vous et le renouvellement automatique activé.",
         "Pour une extension de pays, vérifiez sa procédure de transfert propre dans le support de Hostinger avant d'acheter, si l'idée est de partir un jour.",
         "Si le domaine est venu avec le forfait d'hébergement, notez le prix de renouvellement de la deuxième année : il s'affiche avant l'achat.",
-        "La réduction de parrainage vaut sur le forfait d'hébergement, et les conditions ne listent pas le domaine parmi les services éligibles ; vérifiez le prix du domaine dans le panier avant de payer."
+        "Le code SONAR20 donne 20 % sur le forfait d'hébergement ; sur un domaine seul, vérifiez dans le panier si la réduction apparaît avant de payer."
       ]
     },
     {
@@ -182,9 +182,9 @@
       ]
     },
     {
-      "heading": "Parrainage et prix avec le lien",
+      "heading": "Code SONAR20 et prix",
       "paragraphs": [
-        "Le lien de parrainage applique de lui-même la réduction sur le forfait d'hébergement : il n'y a aucun code à saisir. Ce sont 20 % sur la première période seulement, sur des forfaits de 12 mois ou plus, et la réduction ne se cumule pas avec d'autres codes promo. Les conditions ne listent pas le domaine parmi les services éligibles ; ce qui compte, c'est ce qui s'affiche dans le panier. La règle complète est dans [comment fonctionne le parrainage Hostinger](/fr/reviews/code-promo-hostinger-parrainage), et les forfaits, sur [la page Hostinger](/fr/coupons/hostinger)."
+        "Utilisez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**, sur un forfait mensuel ou annuel, pour un client nouveau ou existant. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier. Pour un domaine seul, c'est ce qui s'affiche dans le panier qui compte. Le fonctionnement du code est expliqué dans [Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre](/fr/reviews/code-promo-hostinger-parrainage), et les forfaits, sur [la page Hostinger](/fr/coupons/hostinger)."
       ]
     },
     {
@@ -207,13 +207,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Le code de parrainage est déjà dans le lien : les 20 % valent sur le forfait d'hébergement, pour la première période seulement, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo. Vérifiez le prix du domaine dans le panier avant de payer.",
-    "label": "Voir les forfaits avec le lien de parrainage",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement. Vérifiez le domaine dans le panier avant de payer.",
+    "label": "Voir les forfaits avec le SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Les achats faits par le lien de parrainage peuvent donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous.",
+  "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous.",
   "relatedArticles": [
     {
       "slug": "hostinger-est-il-fiable",
@@ -221,11 +222,11 @@
     },
     {
       "slug": "code-promo-hostinger-parrainage",
-      "title": "Code promo Hostinger : inutile, voici ce que donne le lien de parrainage"
+      "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
     },
     {
       "slug": "black-friday-hostinger-offres",
-      "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+      "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
     }
   ]
 }

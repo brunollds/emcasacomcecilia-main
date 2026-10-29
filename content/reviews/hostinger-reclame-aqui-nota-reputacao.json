@@ -44,7 +44,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim, com uma ressalva. Em 30/09/2026, a Hostinger tinha reputação Ótima no Reclame Aqui, respondia quase todas as reclamações e marcava a maior parte como resolvida. O problema mais citado é a cobrança indevida, que na hospedagem pede atenção com a renovação automática. Veja abaixo como desligá-la; os 20% do primeiro período, em planos de 12 meses ou mais, vêm pela [indicação da Hostinger](/cupons/hostinger)."
+        "Sim, com uma ressalva. Em 30/09/2026, a Hostinger tinha reputação Ótima no Reclame Aqui, respondia quase todas as reclamações e marcava a maior parte como resolvida. O problema mais citado é a cobrança indevida, que na hospedagem pede atenção com a renovação automática. Veja abaixo como desligá-la; os 20% do primeiro período vêm do [cupom SONAR20 da Hostinger](/cupons/hostinger)."
       ]
     },
     {
@@ -164,7 +164,7 @@
       "paragraphs": [
         "Quando a renovação automática está ligada, o produto é renovado antes do vencimento e cobrado no método de pagamento cadastrado. A central de ajuda da Hostinger diz isso, e também diz que a opção pode ser desligada a qualquer momento, sem afetar o serviço até a data de vencimento.",
         "Desligar a renovação também tem um risco: sem outro plano pronto, o site pode sair do ar na data de vencimento. Por isso a própria central recomenda manter a renovação ligada para quem pretende continuar.",
-        "As regras do preço de renovação e do que não soma estão no [artigo sobre o código de indicação](/reviews/cupom-hostinger-indicacao). Aqui, o ponto é outro: saber onde fica a opção e como desligá-la."
+        "O preço de renovação e o que o cupom cobre estão no [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Aqui, o ponto é outro: saber onde fica a opção e como desligá-la."
       ]
     },
     {
@@ -259,27 +259,28 @@
     {
       "heading": "Se você já decidiu",
       "paragraphs": [
-        "Se você decidiu contratar, o desconto de 20% no primeiro período vale pelo link de indicação, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. O desconto não soma com outros cupons, e a renovação volta ao preço normal do plano, como explica o [artigo sobre o código de indicação](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) compara os dois preços, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
+        "Se você decidiu contratar, o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. Não testamos a renovação com o cupom; confira o preço no carrinho, e veja o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
       ]
     },
     {
       "heading": "Nota de transparência",
       "paragraphs": [
         "Os números do Reclame Aqui são dos prints feitos em 19/10/2026: as abas de 6 e 12 meses e o ranking de problemas (aba geral, até 3 anos). O Trustpilot foi lido em 19/10 e em 24/10/2026, quando também lemos a amostra de 200 avaliações, e a central de ajuda da Hostinger, em 19/10/2026. Esses números mudam todo mês, então confira antes de decidir.",
-        "Este link é de indicação: a compra pode gerar crédito na Hostinger para o Bruno. Não há parceria de marca, e o crédito não entra na análise."
+        "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno. A comissão não entra na análise."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Se você já decidiu, os planos com 20% no primeiro período estão no link. O desconto não soma com outros cupons.",
+    "text": "Se você já decidiu, use o código SONAR20 no carrinho, ou entre pelo link: 20% no primeiro período.",
     "label": "Ver os planos com desconto",
-    "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Link de indicação: a compra pelo link pode gerar crédito na Hostinger para o Bruno, sem custo extra para você. O site roda na Hostinger.",
+  "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. O site roda na Hostinger.",
   "relatedArticles": [
     {
       "slug": "hostinger-e-confiavel",
@@ -287,11 +288,11 @@
     },
     {
       "slug": "cupom-hostinger-indicacao",
-      "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+      "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
     },
     {
       "slug": "black-friday-hostinger",
-      "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+      "title": "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha"
     }
   ]
 }

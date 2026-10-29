@@ -117,7 +117,7 @@
     {
       "heading": "VPS のプラン：KVM 1〜8",
       "paragraphs": [
-        "四つの KVM プランの違いはサイズだけです。仕様は 2026年10月28日に Hostinger の VPS ページで確認したもの。料金は 24 か月プランの月額で、紹介リンク適用後、隣に更新料を並べました。国際サイトの米ドル建て料金で、紹介リンクから入って確認しています。国や通貨によって変わることがあります。"
+        "四つの KVM プランの違いはサイズだけです。仕様は 2026年10月28日に Hostinger の VPS ページで確認したもの。料金は 24 か月プランの月額で、SONAR20 適用後の金額です。隣の更新料は、ページに出ていた金額です。国際サイトの米ドル建て料金で、SONAR20 のリンクから入って確認しています。国や通貨によって変わることがあります。"
       ],
       "comparisonTable": {
         "headers": [
@@ -125,12 +125,12 @@
           "vCPU",
           "RAM",
           "ディスク",
-          "紹介リンク適用",
+          "SONAR20 適用",
           "更新"
         ],
         "rows": [
           [
-            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "1",
             "4 GB",
             "50 GB",
@@ -138,7 +138,7 @@
             "月 US$ 11.99"
           ],
           [
-            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "2",
             "8 GB",
             "100 GB",
@@ -146,7 +146,7 @@
             "月 US$ 14.99"
           ],
           [
-            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "4",
             "16 GB",
             "200 GB",
@@ -154,7 +154,7 @@
             "月 US$ 28.99"
           ],
           [
-            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "8",
             "32 GB",
             "400 GB",
@@ -165,7 +165,7 @@
       },
       "postParagraphs": [
         "VPS が必要な普通のサイトなら、出発点は KVM 1 です。4 GB の RAM があれば WordPress や小さなシステムは動きます。同じマシンで複数のプログラムを動かすなら KVM 2。KVM 4 と 8 は、大きなシステム、大きなデータベース、複数のアプリケーション向けです。",
-        "ページで取り消し線付きで示される通常価格は、月 US$ 19.49、US$ 24.49、US$ 42.99、US$ 73.99 です（ブラックフライデーのキャンペーン）。リンクの 20% は**最初の期間だけ**で、**ほかのクーポンとは併用できません**。更新料はどちらの場合も同じです。"
+        "ページで取り消し線付きで示される通常価格は、月 US$ 19.49、US$ 24.49、US$ 42.99、US$ 73.99 です（ブラックフライデーのキャンペーン）。SONAR20 の 20% は**最初の期間だけ**です。更新は検証していません。"
       ]
     },
     {
@@ -188,42 +188,42 @@
     {
       "heading": "料金と更新：本当の計算",
       "paragraphs": [
-        "共有ホスティングは 48 か月プラン、VPS は 24 か月プランで販売されています。どちらも期間全体の料金を一度に請求します。国際サイトの米ドル建て料金を 2026年10月28日に紹介リンク適用で確認し、隣に更新料を並べました："
+        "共有ホスティングは 48 か月プラン、VPS は 24 か月プランで販売されています。どちらも期間全体の料金を一度に請求します。国際サイトの米ドル建て料金を 2026年10月28日に SONAR20 適用で確認し、隣に更新料を並べました："
       ],
       "comparisonTable": {
         "headers": [
           "プラン",
-          "紹介リンク適用",
+          "SONAR20 適用",
           "期間の合計",
           "更新"
         ],
         "rows": [
           [
-            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 か月）",
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)（48 か月）",
             "月 US$ 1.99",
             "US$ 95.52",
             "月 US$ 10.99"
           ],
           [
-            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 か月）",
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)（48 か月）",
             "月 US$ 2.79",
             "US$ 133.92",
             "月 US$ 16.99"
           ],
           [
-            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 か月）",
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)（48 か月）",
             "月 US$ 6.39",
             "US$ 306.72",
             "月 US$ 25.99"
           ],
           [
-            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 か月）",
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)（24 か月）",
             "月 US$ 5.19",
             "US$ 124.56",
             "月 US$ 11.99"
           ],
           [
-            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 か月）",
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)（24 か月）",
             "月 US$ 7.03",
             "US$ 168.72",
             "月 US$ 14.99"
@@ -232,7 +232,7 @@
       },
       "postParagraphs": [
         "計算を変える点が二つあります。一つ目：VPS の KVM 1 は最初の期間から月額で Premium の 2.5 倍以上です（US$ 5.19 対 US$ 1.99）。更新では差が縮まります（US$ 11.99 対 US$ 10.99）。二つ目：VPS のキャンペーン価格は 24 か月、共有ホスティングは 48 か月続きます。4 年間で見ると、Premium は US$ 95.52。KVM 1 は最初の期間の US$ 124.56 に更新の US$ 287.76（24 × US$ 11.99）を足して、US$ 412.32 です。",
-        "更新は初期設定で有効になっています。契約前に [Hostinger の請求と更新の仕組み](/ja/reviews/hostinger-trust-guide-ja) を、キャンペーンと紹介リンクの比較は [Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) を見てください。Premium にはプランの項目として初年度無料のドメインが掲載されています。料金はキャンペーンごとに変わるので、支払う前にカートで金額を確認し、条件はサイト内の [Hostinger のページ](/ja/coupons/hostinger) でご覧ください。"
+        "更新は初期設定で有効になっています。契約前に [Hostinger の請求と更新の仕組み](/ja/reviews/hostinger-trust-guide-ja) を、キャンペーンと SONAR20 の関係は [Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) を見てください。Premium にはプランの項目として初年度無料のドメインが掲載されています。料金はキャンペーンごとに変わるので、支払う前にカートで金額を確認し、条件はサイト内の [Hostinger のページ](/ja/coupons/hostinger) でご覧ください。"
       ]
     },
     {
@@ -256,7 +256,7 @@
         "共有ホスティングで始めて、後から VPS に移れますか？ 移れます。別の製品なので、VPS を契約し、サーバーを設定して、サイトを移します。共有ホスティングをパネルの中で VPS に変換することはできません。",
         "VPS を持つには Linux の知識が必要ですか？ はい、ターミナルの基本が要ります。プログラムのインストール、システムの更新、ログの読み方です。共有ホスティングではすべてパネル経由で、ターミナルは必須ではありません。",
         "VPS で WordPress は動きますか？ 動きますが、ウェブサーバー、PHP、データベースはあなたがインストールして維持します。共有ホスティングではパネルに WordPress が用意され、サーバーは Hostinger が管理します。",
-        "Hostinger の VPS はいくらですか？ 2026年10月28日の国際サイトでは、KVM 1 は紹介リンク適用で 24 か月プランが月 US$ 5.19（合計 US$ 124.56）、更新は月 US$ 11.99 です。20% は最初の期間だけで、ほかのクーポンとは併用できません。"
+        "Hostinger の VPS はいくらですか？ 2026年10月28日の国際サイトでは、KVM 1 は SONAR20 適用で 24 か月プランが月 US$ 5.19（合計 US$ 124.56）、ページに出ていた更新料は月 US$ 11.99 です。20% は最初の期間だけです。更新は検証していません。"
       ]
     },
     {
@@ -269,13 +269,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "紹介コードはリンクに含まれています。20% は最初の期間のみ、12 か月以上のプランで有効で、ほかのクーポンとは併用できません。",
-    "label": "紹介リンクでプランを見る",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。20% は最初の期間だけです。",
+    "label": "割引プランを見る",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "紹介リンクからの購入で Bruno に Hostinger のクレジットが入ることがありますが、あなたに追加の費用はかかりません。VPS はテストしていません。",
+  "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入ることがありますが、あなたに追加の費用はかかりません。VPS はテストしていません。",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-managed-or-vps-ja",
@@ -287,7 +288,7 @@
     },
     {
       "slug": "hostinger-black-friday-ja",
-      "title": "2026年 Hostinger ブラックフライデー：キャンペーンか紹介リンクか、安いのはどちら？"
+      "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%"
     }
   ]
 }

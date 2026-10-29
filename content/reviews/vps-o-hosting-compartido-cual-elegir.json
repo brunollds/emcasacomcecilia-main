@@ -117,7 +117,7 @@
     {
       "heading": "Los planes de VPS: KVM 1 a 8",
       "paragraphs": [
-        "Los cuatro planes KVM cambian solo de tamaño. Specs consultadas en la página de VPS de Hostinger el 28 de octubre de 2026. Los precios son los del sitio internacional, en dólares estadounidenses, para planes de 24 meses con el enlace de referido aplicado, y la renovación al lado; en tu país, Hostinger puede mostrar otra moneda e impuestos, así que revisa el carrito antes de pagar."
+        "Los cuatro planes KVM cambian solo de tamaño. Specs consultadas en la página de VPS de Hostinger el 28 de octubre de 2026. Los precios son los del sitio internacional, en dólares estadounidenses, para planes de 24 meses con el SONAR20 aplicado, y la renovación al lado; en tu país, Hostinger puede mostrar otra moneda e impuestos, así que revisa el carrito antes de pagar."
       ],
       "comparisonTable": {
         "headers": [
@@ -125,12 +125,12 @@
           "vCPU",
           "RAM",
           "Disco",
-          "Con el referido",
+          "Con el SONAR20",
           "Renovación"
         ],
         "rows": [
           [
-            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "1",
             "4 GB",
             "50 GB",
@@ -138,7 +138,7 @@
             "US$ 11,99/mes"
           ],
           [
-            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "2",
             "8 GB",
             "100 GB",
@@ -146,7 +146,7 @@
             "US$ 14,99/mes"
           ],
           [
-            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "4",
             "16 GB",
             "200 GB",
@@ -154,7 +154,7 @@
             "US$ 28,99/mes"
           ],
           [
-            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
             "8",
             "32 GB",
             "400 GB",
@@ -165,7 +165,7 @@
       },
       "postParagraphs": [
         "Para un sitio común que de verdad necesite VPS, el KVM 1 es el punto de partida: 4 GB de RAM alcanzan para un WordPress o un sistema pequeño. El KVM 2 entra cuando vas a ejecutar más de un programa en la misma máquina. KVM 4 y 8 son para un sistema más grande, una base de datos grande o varias aplicaciones.",
-        "Con el enlace, el 20 % vale **solo para el primer período** y **no se suma a otros cupones**; la página ya muestra el descuento aplicado. La renovación se cobra al precio normal que aparece junto a cada plan."
+        "Con el SONAR20, el 20 % vale **solo para el primer período**; la página ya muestra el descuento aplicado. No probamos la renovación con el código: revisa el precio en el carrito."
       ]
     },
     {
@@ -188,42 +188,42 @@
     {
       "heading": "Precio y renovación: la cuenta de verdad",
       "paragraphs": [
-        "El hosting compartido se vende en planes de 48 meses; el VPS, de 24 meses. Los dos cobran el período completo de una vez. Precios consultados el 28 de octubre de 2026, con el enlace de referido aplicado, y la renovación al lado:"
+        "El hosting compartido se vende en planes de 48 meses; el VPS, de 24 meses. Los dos cobran el período completo de una vez. Precios consultados el 28 de octubre de 2026, con el SONAR20 aplicado, y la renovación al lado:"
       ],
       "comparisonTable": {
         "headers": [
           "Plan",
-          "Con el referido",
+          "Con el SONAR20",
           "Total del período",
           "Renovación"
         ],
         "rows": [
           [
-            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 meses)",
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48 meses)",
             "US$ 1,99/mes",
             "US$ 95,52",
             "US$ 10,99/mes"
           ],
           [
-            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 meses)",
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48 meses)",
             "US$ 2,79/mes",
             "US$ 133,92",
             "US$ 16,99/mes"
           ],
           [
-            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 meses)",
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48 meses)",
             "US$ 6,39/mes",
             "US$ 306,72",
             "US$ 25,99/mes"
           ],
           [
-            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 meses)",
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 meses)",
             "US$ 5,19/mes",
             "US$ 124,56",
             "US$ 11,99/mes"
           ],
           [
-            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 meses)",
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 meses)",
             "US$ 7,03/mes",
             "US$ 168,72",
             "US$ 14,99/mes"
@@ -232,7 +232,7 @@
       },
       "postParagraphs": [
         "Dos puntos cambian la cuenta. El primero: el KVM 1 cuesta unas dos veces y media el Premium por mes ya en el primer período (US$ 5,19 contra US$ 1,99). En la renovación los dos casi se igualan (US$ 11,99 contra US$ 10,99), pero pesa más el segundo punto: en el VPS, el precio promocional dura 24 meses; en el compartido, 48. En cuatro años, el Premium cuesta US$ 95,52; el KVM 1, US$ 124,56 en el primer período más US$ 287,76 en la renovación (24 × US$ 11,99), o sea US$ 412,32.",
-        "La renovación viene activada por defecto. Mira [cómo Hostinger cobra y renueva](/es/reviews/hostinger-es-confiable) antes de contratar, y [la Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas) para la comparación entre la campaña y el enlace. El Premium lista dominio gratis el primer año, como parte del plan. Los precios cambian con cada campaña: confirma el importe en el carrito antes de pagar, y mira las condiciones en [la página de Hostinger aquí en el sitio](/es/coupons/hostinger)."
+        "La renovación viene activada por defecto. Mira [cómo Hostinger cobra y renueva](/es/reviews/hostinger-es-confiable) antes de contratar, y [la Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas) para la comparación entre la campaña y el SONAR20. El Premium lista dominio gratis el primer año, como parte del plan. Los precios cambian con cada campaña: confirma el importe en el carrito antes de pagar, y mira las condiciones en [la página de Hostinger aquí en el sitio](/es/coupons/hostinger)."
       ]
     },
     {
@@ -256,7 +256,7 @@
         "¿Puedo empezar en el compartido y migrar a VPS después? Sí. Son productos distintos: contratas el VPS, instalas el servidor y llevas el sitio. El hosting compartido no se convierte en VPS desde dentro del panel.",
         "¿Necesito saber Linux para tener un VPS? Sí, lo básico de la terminal: instalar programas, actualizar el sistema y leer un log. En el compartido, todo pasa por el panel y no hay terminal obligatoria.",
         "¿Un VPS soporta WordPress? Sí, pero tú instalas y mantienes el servidor web, PHP y la base de datos. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor.",
-        "¿Cuánto cuesta el VPS de Hostinger? El 28 de octubre de 2026, el KVM 1 costaba US$ 5,19/mes con el enlace de referido, en un plan de 24 meses, y se renueva a US$ 11,99/mes, en el sitio internacional en dólares. El 20 % vale solo para el primer período y no se suma a otros cupones."
+        "¿Cuánto cuesta el VPS de Hostinger? El 28 de octubre de 2026, el KVM 1 costaba US$ 5,19/mes con el SONAR20, en un plan de 24 meses, y se renueva a US$ 11,99/mes, en el sitio internacional en dólares. El SONAR20 da 20% solo en el primer período; la renovación no la probamos con el código."
       ]
     },
     {
@@ -269,13 +269,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "El código de referido ya va en el enlace: el 20 % vale solo para el primer período, en planes de 12 meses o más, y no se suma a otros cupones.",
-    "label": "Ver los planes con el enlace de referido",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+    "label": "Ver los planes con el SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Las compras con el enlace de referido pueden darle a Bruno un crédito en Hostinger, sin costo extra para ti. No probamos VPS.",
+  "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. No probamos VPS.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-gestionado-o-vps",
@@ -287,7 +288,7 @@
     },
     {
       "slug": "black-friday-hostinger-ofertas",
-      "title": "Black Friday Hostinger 2026: la promoción o el enlace de referido, ¿cuál sale más barato?"
+      "title": "Black Friday Hostinger 2026: el SONAR20 quita 20% más del precio de la campaña"
     }
   ]
 }

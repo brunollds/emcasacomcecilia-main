@@ -100,7 +100,7 @@
     {
       "heading": "Welchen KVM-Tarif wählen",
       "paragraphs": [
-        "KVM ist der Name der virtuellen Server-Tarife von Hostinger. Die Tabelle zeigt alle vier mit den Preisen für 24-Monats-Pläne von der globalen Hostinger-Seite, in US-Dollar, am 21.10.2026 gelesen. Den Preis mit Empfehlungslink hat die Seite nicht angezeigt; die 20 % erscheinen im Warenkorb. Unsere Lesart jedes Tarifs neben der Dokumentation folgt; wir haben keine Leistung gemessen."
+        "KVM ist der Name der virtuellen Server-Tarife von Hostinger. Die Tabelle zeigt alle vier mit den Preisen für 24-Monats-Pläne von der globalen Hostinger-Seite, in US-Dollar, am 21.10.2026 gelesen. Den Preis mit SONAR20 hat die Seite nicht angezeigt; die 20 % erscheinen im Warenkorb. Unsere Lesart jedes Tarifs neben der Dokumentation folgt; wir haben keine Leistung gemessen."
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-de.webp",
@@ -113,7 +113,7 @@
           "vCPU (virtueller Prozessor)",
           "RAM",
           "NVMe-Speicher",
-          "Erster Zeitraum, ohne Empfehlungslink",
+          "Erster Zeitraum, ohne SONAR20",
           "Verlängerung"
         ],
         "rows": [
@@ -158,7 +158,7 @@
         "**KVM 8 (32 GB).** Lohnt sich nur mit einem größeren lokalen Modell. Die Dokumentation sagt nicht, wie viel Speicher jedes große Rezept braucht."
       ],
       "postParagraphs": [
-        "In Ihrem Land zeigt Hostinger vielleicht eine andere Währung und andere Steuern, prüfen Sie den Warenkorb also vor dem Bezahlen. Der Empfehlungslink gibt 20 % nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lässt sich nicht mit anderen Rabattcodes kombinieren; die Verlängerung kostet den normalen Preis. [So funktioniert der Empfehlungslink von Hostinger](/de/reviews/hostinger-gutschein-empfehlungscode). Hostinger hat gerade Black Friday, und die Preise ändern sich: [zur Aktion](/de/reviews/hostinger-black-friday-angebote)."
+        "In Ihrem Land zeigt Hostinger vielleicht eine andere Währung und andere Steuern, prüfen Sie den Warenkorb also vor dem Bezahlen. Der Code SONAR20 gibt 20 % im ersten Zeitraum, bei Monats- oder Jahresplan, für Neu- und Bestandskunden; die Verlängerung haben wir mit dem Code nicht getestet. [So funktioniert der Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode). Hostinger hat gerade Black Friday, und die Preise ändern sich: [zur Aktion](/de/reviews/hostinger-black-friday-angebote)."
       ]
     },
     {
@@ -176,7 +176,7 @@
           [
             "Assistent online ohne Serverarbeit, mit API-Schlüssel oder KI-Guthaben von Hostinger",
             "Verwaltet",
-            "Hostinger installiert und pflegt den Assistenten. Am 21.10.2026: 3,99 USD pro Monat mit Empfehlungslink, im 24-Monats-Plan"
+            "Hostinger installiert und pflegt den Assistenten. Am 21.10.2026: 3,99 USD pro Monat mit SONAR20, im 24-Monats-Plan"
           ],
           [
             "Root-Zugriff und andere Programme auf demselben Server, etwa eine Website oder n8n",
@@ -225,9 +225,9 @@
         "Die Wahl des Tarifs richtet sich danach, wo das KI-Modell läuft und wie viel Serverarbeit Sie übernehmen wollen."
       ],
       "bullets": [
-        "Modell in der Cloud, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger: KVM 1 mit 4 GB als Ausgangspunkt, im 24-Monats-Plan 6,49 USD pro Monat vor dem Rabatt des Links.",
+        "Modell in der Cloud, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger: KVM 1 mit 4 GB als Ausgangspunkt, im 24-Monats-Plan 6,49 USD pro Monat vor dem Rabatt von SONAR20.",
         "Lokales Modell: KVM 4 mit 16 GB, der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB, 12,99 USD pro Monat vor dem Rabatt. KVM 8 mit 32 GB ergibt nur bei einem größeren lokalen Modell Sinn.",
-        "Wer sich nicht um einen Server kümmern will: die verwaltete Option, bei der Hostinger den Assistenten installiert und aktualisiert, mit Link 3,99 USD pro Monat.",
+        "Wer sich nicht um einen Server kümmern will: die verwaltete Option, bei der Hostinger den Assistenten installiert und aktualisiert, mit SONAR20 3,99 USD pro Monat.",
         "Zum kostenlosen Testen: Oracle Always Free, mit dem Wissen, dass Oracle eine untätige Instanz zurückfordern kann."
       ]
     },
@@ -238,32 +238,33 @@
         "Geht es ohne API-Schlüssel? Ja, mit lokalem Modell, aber dann ist der Speicher das Problem: Die Dokumentation nennt 8 GiB als Untergrenze für das kleinste lokale Rezept mit 64K Kontext und warnt, dass das weder garantiert, dass das Modell passt, noch, dass es gut läuft. Mit dem KI-Guthaben von Hostinger brauchen Sie kein Konto bei einem KI-Anbieter, zahlen aber nach Nutzung.",
         "Ist Oracle Always Free wirklich kostenlos? Ja, solange das Konto im Always-Free-Tarif bleibt: 2 OCPUs und 12 GB auf dem Arm A1, dazu die Micro-Instanzen. Eine Instanz, die 7 Tage lang untätig bleibt, mit CPU, Netz und Speicher unter 20 %, kann Oracle zurückfordern.",
         "Mac mini oder VPS? Das hängt davon ab, ob der Computer 24 Stunden am Tag laufen kann. Wenn ja, spart der Betrieb zu Hause die Servergebühr; wenn nicht, wählen Sie VPS oder die verwaltete Option.",
-        "Gibt es einen Hostinger-Gutschein für den VPS von OpenClaw? Es gibt keinen Code zum Eingeben. Die 20 % kommen über den Empfehlungslink, nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren."
+        "Gibt es einen Hostinger-Gutschein für den VPS von OpenClaw? Ja: Der Code SONAR20 gibt 20 % im ersten Zeitraum, bei Monats- oder Jahresplan, für Neu- und Bestandskunden. Tragen Sie ihn im Gutscheinfeld des Warenkorbs ein."
       ]
     },
     {
       "heading": "Wenn Sie sich schon entschieden haben",
       "paragraphs": [
-        "Der Empfehlungslink wendet den Rabatt bereits an: Es gibt keinen Code zum Eingeben. Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren; die Verlängerung kostet den normalen Preis. Bei den 24-Monats-Plänen vom 21.10.2026 kostet die verwaltete Option mit dem Link 3,99 USD pro Monat; KVM 1 und KVM 2 kosten vor dem Rabatt 6,49 und 8,79 USD pro Monat, den Endpreis sehen Sie im Warenkorb. In der Verlängerung kosten verwaltet und KVM 1 je 11,99 USD pro Monat, KVM 2 14,99 USD pro Monat. Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen, denn Black Friday ändert die Preise. Lesen Sie [wie der Empfehlungslink von Hostinger funktioniert](/de/reviews/hostinger-gutschein-empfehlungscode) und [die Hostinger-Seite bei uns](/de/coupons/hostinger)."
+        "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs, oder öffnen Sie diesen Artikel über den Link: 20 % im ersten Zeitraum, bei Monats- oder Jahresplan, für Neu- und Bestandskunden. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb. Bei den 24-Monats-Plänen vom 21.10.2026 kostet die verwaltete Option mit SONAR20 3,99 USD pro Monat; KVM 1 und KVM 2 kosten vor dem Rabatt 6,49 und 8,79 USD pro Monat, den Endpreis sehen Sie im Warenkorb. In der Verlängerung kosten verwaltet und KVM 1 je 11,99 USD pro Monat, KVM 2 14,99 USD pro Monat. Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen, denn Black Friday ändert die Preise. Lesen Sie [den Gutschein SONAR20 im Detail](/de/reviews/hostinger-gutschein-empfehlungscode) und [die Hostinger-Seite bei uns](/de/coupons/hostinger)."
       ]
     },
     {
       "heading": "Wer schreibt",
       "paragraphs": [
-        "Em Casa com Cecília läuft bei Hostinger als Node.js Web App, und Bruno ist seit 2024 Kunde, mit Hosting und einem VPS KVM 2. Niemand aus dem Team nutzt OpenClaw: Dieser Text fasst zusammen, was Hostinger, Oracle und die offizielle OpenClaw-Dokumentation sagen, am 21.10.2026 gelesen. Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie."
+        "Em Casa com Cecília läuft bei Hostinger als Node.js Web App, und Bruno ist seit 2024 Kunde mit Hosting und einem VPS KVM 2. Niemand aus dem Team nutzt OpenClaw: Dieser Text fasst zusammen, was Hostinger, Oracle und die offizielle OpenClaw-Dokumentation sagen, am 21.10.2026 gelesen. Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Der Empfehlungscode steckt schon im Link: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
-    "label": "Die Tarife mit Empfehlungslink ansehen",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+    "label": "Die Tarife mit SONAR20 ansehen",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team nutzt OpenClaw.",
+  "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team nutzt OpenClaw.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-verwaltet-oder-vps",
@@ -275,7 +276,7 @@
     },
     {
       "slug": "hostinger-gutschein-empfehlungscode",
-      "title": "Hostinger-Gutschein: Brauchen Sie keinen, das bringt der Empfehlungslink"
+      "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
     }
   ],
   "hideFromPortugueseListings": true

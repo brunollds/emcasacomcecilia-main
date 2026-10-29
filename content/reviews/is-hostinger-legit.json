@@ -45,7 +45,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Yes, as a company: Hostinger is a large host with public refund and renewal rules, a 30-day refund window on hosting, and in our experience the service and support work. The catch is automatic renewal, which is on by default and charges the plan's current price. The rules are in the chapter Automatic renewal and the new price; the 20% off the first period comes through the [Hostinger referral link](/en/coupons/hostinger)."
+        "Yes, as a company: Hostinger is a large host with public refund and renewal rules, a 30-day refund window on hosting, and in our experience the service and support work. The catch is automatic renewal, which is on by default and charges the plan's current price. The rules are in the chapter Automatic renewal and the new price; the 20% off the first period comes with the code [SONAR20](/en/coupons/hostinger)."
       ]
     },
     {
@@ -113,7 +113,7 @@
       "paragraphs": [
         "Everyone who signs up is enrolled in automatic renewal, because it is the default setting. The charge happens 30 to 0 days before the end of the period, on the card marked as default, at the plan's price on that date. The terms say that price can be higher or lower than the first period's, and that a price change applies at renewal, without advance notice.",
         "Hostinger may send an email before the charge, but the terms say it has no obligation to. Customers on a one-month plan, for example, are not notified. To turn renewal off, log into your account and disable it at any time. If you turn it off and do not renew manually before the period ends, the service is closed.",
-        "This is also where customers complain. In the 100 most recent one-star Trustpilot reviews we read on October 24, 2026, about 38 of the 86 real complaints were about billing, renewal, refunds or fees, including a price that went up after the promotional period and a renewal the customer did not expect. The full count is in the [article on Hostinger's reputation](/en/reviews/hostinger-trustpilot-reviews). What happens to the referral discount at renewal is in the [referral link guide](/en/reviews/hostinger-coupon-code-referral)."
+        "This is also where customers complain. In the 100 most recent one-star Trustpilot reviews we read on October 24, 2026, about 38 of the 86 real complaints were about billing, renewal, refunds or fees, including a price that went up after the promotional period and a renewal the customer did not expect. The full count is in the [article on Hostinger's reputation](/en/reviews/hostinger-trustpilot-reviews). The [SONAR20 coupon guide](/en/reviews/hostinger-coupon-code-referral) explains what the code covers, and we have not tested renewal; check the renewal price in the cart."
       ],
       "images": [
         {
@@ -178,32 +178,33 @@
         "Is Hostinger renewal automatic? Yes, by default. You can turn it off in your account at any time. Without a manual renewal, the service ends at the end of the period.",
         "Who bills you at Hostinger? It depends on your country. The terms say the contracting company depends on where you live, and other companies in the group may process the charge. Check the name shown at checkout and on your invoice.",
         "Does Hostinger guarantee uptime? The pricing page advertises 99.9% uptime, but the terms say the site may go offline for maintenance or for reasons outside the company's control. The commitment, where it exists, is in your plan's document.",
-        "Do I need a Hostinger coupon? No. The referral link already gives 20% off the first period of a new plan, and that discount does not stack with other coupons."
+        "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans, for new or existing customers. We have not tested renewal; check the renewal price in the cart."
       ]
     },
     {
       "heading": "Where to see the plans",
       "paragraphs": [
-        "The 20% from the referral link applies only to the first period of a new plan and does not stack with other coupons. If it makes sense for your site, the plans with the link are on the [Hostinger page on this site](/en/coupons/hostinger)."
+        "The code SONAR20 gives 20% off the first period, in the coupon field of the cart, for new or existing customers. If it makes sense for your site, the plans and the code are on the [Hostinger page on this site](/en/coupons/hostinger)."
       ]
     },
     {
       "heading": "Transparency note",
       "paragraphs": [
-        "This text has a Hostinger referral link. If you sign up through the link, the program may give Bruno credit with Hostinger. Refund, renewal and company details come from Hostinger's public documents, read on October 19, 2026. The Trustpilot figures and the sample of 100 one-star and 100 five-star reviews were read on October 24, 2026; the theme counts are our reading of titles and excerpts, so they are approximate. The Reclame Aqui figure was read on October 19, 2026, with data up to September 30, 2026. The experience is ours and does not automatically apply to your plan."
+        "This text has the code SONAR20 and Hostinger's link. Purchases with the code or through the link may earn Bruno a commission, at no extra cost to you. Refund, renewal and company details come from Hostinger's public documents, read on October 19, 2026. The Trustpilot figures and the sample of 100 one-star and 100 five-star reviews were read on October 24, 2026; the theme counts are our reading of titles and excerpts, so they are approximate. The Reclame Aqui figure was read on October 19, 2026, with data up to September 30, 2026. The experience is ours and does not automatically apply to your plan."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "The 20% applies only to the first period and does not stack with other coupons. See the plans through the link.",
+    "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
     "label": "See Hostinger plans",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "This text has a Hostinger referral link, and Hostinger hosts this site. Buying through the link may give Bruno credit with Hostinger, at no extra cost to you.",
+  "editorialNote": "This text has the code SONAR20 and Hostinger's link, and Hostinger hosts this site. Purchases with the code or through the link may earn Bruno a commission, at no extra cost to you.",
   "relatedArticles": [
     {
       "slug": "hostinger-trustpilot-reviews",
@@ -211,11 +212,11 @@
     },
     {
       "slug": "hostinger-coupon-code-referral",
-      "title": "Hostinger coupon: you don't need one, and here is what the referral link gives"
+      "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
     },
     {
       "slug": "hostinger-black-friday",
-      "title": "Hostinger Black Friday 2026: the campaign or the referral link, which is cheaper?"
+      "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
     }
   ]
 }

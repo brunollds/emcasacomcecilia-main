@@ -187,28 +187,28 @@
       "comparisonTable": {
         "headers": [
           "Forfait",
-          "Avec le lien de parrainage",
+          "Avec le SONAR20",
           "Payé d'avance (48 mois)",
           "Renouvellement",
           "Crédits IA"
         ],
         "rows": [
           [
-            "[Premium (jusqu'à 3 sites)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Premium (jusqu'à 3 sites)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "1,99 US$/mois (12,19 US$ barré)",
             "95,52 US$",
             "10,99 US$/mois",
             "250 (500 pendant la Black Friday)"
           ],
           [
-            "[Unlimited (sites illimités, avec boutique en ligne)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Unlimited (sites illimités, avec boutique en ligne)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "2,79 US$/mois (18,99 US$ barré)",
             "133,92 US$",
             "16,99 US$/mois",
             "500 (1 000 pendant la Black Friday)"
           ],
           [
-            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "6,39 US$/mois",
             "306,72 US$",
             "25,99 US$/mois",
@@ -220,8 +220,8 @@
         "Le prix par mois est le total divisé par 48. En pratique :"
       ],
       "bullets": [
-        "**Premium, avec le lien :** 48 × 1,99 US$ = **95,52 US$**. **Renouvellement, sur les 48 mois suivants :** 48 × 10,99 US$ = 527,52 US$.",
-        "**Unlimited, avec le lien :** 48 × 2,79 US$ = **133,92 US$**. **Renouvellement :** 48 × 16,99 US$ = 815,52 US$.",
+        "**Premium, avec le SONAR20 :** 48 × 1,99 US$ = **95,52 US$**. **Renouvellement, sur les 48 mois suivants :** 48 × 10,99 US$ = 527,52 US$.",
+        "**Unlimited, avec le SONAR20 :** 48 × 2,79 US$ = **133,92 US$**. **Renouvellement :** 48 × 16,99 US$ = 815,52 US$.",
         "**Les crédits IA sont un cadeau unique**, pas mensuel. Une fois épuisés, c'est une recharge, et le prix de la recharge n'apparaît pas sur la page : vérifiez-le dans le panneau avant de compter dessus."
       ],
       "emphasis": "Le renouvellement coûte 4 à 6 fois le prix promotionnel. Regardez la colonne du renouvellement avant de choisir le forfait."
@@ -241,9 +241,9 @@
       ]
     },
     {
-      "heading": "Parrainage et prix avec le lien",
+      "heading": "Code SONAR20 et prix",
       "paragraphs": [
-        "Le lien de parrainage applique déjà la réduction : il n'y a pas de code à saisir. Ce sont **20 % sur la première période seulement**, sur des forfaits de 12 mois ou plus, et la réduction **ne se cumule pas avec d'autres codes promo**. Le renouvellement se fait au prix normal. Sur la page de l'AI Builder, le 28 octobre 2026, les forfaits apparaissaient avec le parrainage appliqué, aux prix de la colonne « avec le lien de parrainage » ci-dessus. La règle complète et les autres produits sont sur [la page Hostinger du site](/fr/coupons/hostinger).",
+        "Le code **SONAR20** donne **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou existant. Collez-le dans le champ de coupon du panier, ou passez par le lien de cet article. Nous n'avons pas testé le renouvellement ni l'AI Builder avec le code : confirmez le prix dans le panier. Le 28 octobre 2026, les forfaits apparaissaient avec le lien appliqué, aux prix du tableau ci-dessus. La règle complète et les autres produits sont sur [la page Hostinger du site](/fr/coupons/hostinger).",
         "Hostinger est en campagne de Black Friday, sans date de fin sur la page, et les prix et les crédits doublés peuvent changer. Vérifiez le montant dans le panier avant de payer."
       ]
     },
@@ -263,8 +263,8 @@
         "Faut-il savoir coder pour utiliser l'AI Builder ? Non. La page dit qu'aucun des deux modes n'exige de connaissances techniques. Qui sait coder dispose d'un éditeur de code en mode avec IA.",
         "Peut-on migrer de l'AI Builder vers un autre hébergeur ? La page dit que le code source peut être exporté et hébergé ailleurs. Le back-end intégré, avec base de données et connexion, reste chez Hostinger, donc une app doit être reconfigurée en dehors.",
         "L'AI Builder convient-il à une boutique en ligne ? Pour une petite boutique, oui : la boutique en ligne fait partie des forfaits Unlimited et Cloud Startup. Pour une grande boutique, avec des règles de livraison et de paiement, WordPress avec WooCommerce donne plus de contrôle.",
-        "Combien coûte le Horizons de Hostinger en 2026 ? L'AI Builder est compris dans les forfaits d'hébergement. Le 28 octobre 2026, sur le site international avec le lien de parrainage, le Premium coûtait 1,99 US$/mois sur 48 mois (95,52 US$ d'avance) et se renouvelle à 10,99 US$/mois ; l'Unlimited, 2,79 US$/mois (133,92 US$) et se renouvelle à 16,99 US$/mois.",
-        "Y a-t-il un code promo pour le Hostinger AI Builder ? Il n'y a pas de code à saisir. La réduction de 20 % vient du lien de parrainage, sur la première période seulement et sur des forfaits de 12 mois ou plus, et ne se cumule pas avec d'autres codes promo."
+        "Combien coûte le Horizons de Hostinger en 2026 ? L'AI Builder est compris dans les forfaits d'hébergement. Le 28 octobre 2026, sur le site international, avec le SONAR20, le Premium coûtait 1,99 US$/mois sur 48 mois (95,52 US$ d'avance) et se renouvelle à 10,99 US$/mois ; l'Unlimited, 2,79 US$/mois (133,92 US$) et se renouvelle à 16,99 US$/mois.",
+        "Y a-t-il un code promo pour le Hostinger AI Builder ? Oui : le code SONAR20 donne 20 % sur la première période, en forfait mensuel ou annuel. Collez-le dans le champ de coupon du panier ; nous n'avons pas testé le renouvellement."
       ]
     },
     {
@@ -277,17 +277,18 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Le code de parrainage est déjà dans le lien : les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo.",
-    "label": "Voir les forfaits avec le lien de parrainage",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement.",
+    "label": "Voir les forfaits avec le SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Les achats faits par le lien de parrainage peuvent donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous. Personne dans l'équipe n'a utilisé l'AI Builder.",
+  "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l'équipe n'a utilisé l'AI Builder.",
   "relatedArticles": [
     {
       "slug": "code-promo-hostinger-parrainage",
-      "title": "Code promo Hostinger : inutile, voici ce que donne le lien de parrainage"
+      "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
     },
     {
       "slug": "hostinger-est-il-fiable",
@@ -295,7 +296,7 @@
     },
     {
       "slug": "black-friday-hostinger-offres",
-      "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+      "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
     }
   ]
 }

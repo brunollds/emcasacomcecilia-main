@@ -181,33 +181,33 @@
     {
       "heading": "2026年10月28日的價格與續訂",
       "paragraphs": [
-        "AI Builder 沒有單獨的方案：它包含在 48 個月的網站主機方案裡，整期一次付清。下面的價格來自 Hostinger 國際站，以美元計，透過推薦連結進入，在 2026年10月28日的黑色星期五活動期間讀取；依國家和貨幣可能有所不同。月價是預付總額除以 48："
+        "AI Builder 沒有單獨的方案：它包含在 48 個月的網站主機方案裡，整期一次付清。下面的價格來自 Hostinger 國際站，以美元計，已套用 SONAR20 的 20%，在 2026年10月28日的黑色星期五活動期間讀取；依國家和貨幣可能有所不同。月價是預付總額除以 48："
       ],
       "comparisonTable": {
         "headers": [
           "方案",
-          "用推薦連結（每月）",
+          "用 SONAR20（每月）",
           "48 個月總價",
           "續訂",
           "AI 額度"
         ],
         "rows": [
           [
-            "[Premium（最多 3 個網站）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Premium（最多 3 個網站）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "US$ 1.99（原價 US$ 12.19）",
             "US$ 95.52",
             "US$ 10.99/月",
             "250（黑色星期五 500）"
           ],
           [
-            "[Unlimited（網站不限，含網路商店）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Unlimited（網站不限，含網路商店）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "US$ 2.79（原價 US$ 18.99）",
             "US$ 133.92",
             "US$ 16.99/月",
             "500（黑色星期五 1,000）"
           ],
           [
-            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
             "US$ 6.39",
             "US$ 306.72",
             "US$ 25.99/月",
@@ -219,8 +219,8 @@
         "實際算下來："
       ],
       "bullets": [
-        "**Premium，用推薦連結：** 48 × US$ 1.99 = **US$ 95.52**。**之後 48 個月的續訂：** 48 × US$ 10.99 = US$ 527.52。",
-        "**Unlimited，用推薦連結：** 48 × US$ 2.79 = **US$ 133.92**。**續訂：** 48 × US$ 16.99 = US$ 815.52。",
+        "**Premium，用 SONAR20：** 48 × US$ 1.99 = **US$ 95.52**。**之後 48 個月的續訂：** 48 × US$ 10.99 = US$ 527.52。",
+        "**Unlimited，用 SONAR20：** 48 × US$ 2.79 = **US$ 133.92**。**續訂：** 48 × US$ 16.99 = US$ 815.52。",
         "**AI 額度是一次性贈送**，不是每月發放。用完就要加值，而加值價格頁面上沒有：指望它之前，先到控制台確認。表裡的額度數是 2026年10月28日方案頁面顯示的數值，黑色星期五期間翻倍。"
       ],
       "emphasis": "續訂價是促銷價的 4 到 6 倍。選方案之前先看續訂那一欄。"
@@ -240,9 +240,9 @@
       ]
     },
     {
-      "heading": "推薦連結與連結價格",
+      "heading": "SONAR20 優惠碼與價格",
       "paragraphs": [
-        "推薦連結會直接套用折扣，沒有要輸入的代碼。**20% 只在首期**，限 12 個月以上的方案，而且**不能與其他優惠券疊加**。續訂按正常價格。2026年10月28日，AI Builder 頁面上各方案已套用推薦，顯示的就是上表「用推薦連結」那一欄的價格。完整規則和其他產品見[Hostinger 優惠頁](/zh-hant/coupons/hostinger)。",
+        "在購物車的優惠碼欄位輸入 **SONAR20**，或從本文連結進入：**首期享 20% 折扣**，月付或年付方案都可以，新客戶和舊客戶都適用。我們沒有測試續訂，請在購物車確認續訂價。2026年10月28日，上表「用 SONAR20」那一欄就是套用這 20% 後的價格。完整規則和其他產品見[Hostinger 優惠頁](/zh-hant/coupons/hostinger)。",
         "Hostinger 正在黑色星期五活動中，頁面上沒有結束日期，價格和翻倍的額度都可能變。付款前在購物車裡核對金額。"
       ]
     },
@@ -262,8 +262,8 @@
         "用 AI Builder 需要會寫程式嗎？不需要。頁面說兩種模式都不要求技術知識。會寫程式的人在 AI 模式裡有一個程式碼編輯器。",
         "能從 AI Builder 搬到別的主機嗎？頁面說原始碼可以匯出，到別處託管。有資料庫和登入的內建後端留在 Hostinger，所以應用程式在外面需要重新設定。",
         "AI Builder 適合開網路商店嗎？小店可以：網路商店是 Unlimited 和 Cloud Startup 方案的項目。有運費和付款規則的大店，WordPress 加 WooCommerce 控制更多。",
-        "2026 年 Hostinger Horizons 多少錢？AI Builder 包含在網站主機方案裡。2026年10月28日國際站上，Premium 用推薦連結是 48 個月方案每月 US$ 1.99，續訂 US$ 10.99/月；Unlimited 每月 US$ 2.79，續訂 US$ 16.99/月。",
-        "Hostinger 的 AI Builder 有優惠券嗎？沒有要輸入的代碼。20% 的折扣透過推薦連結取得，只在首期、限 12 個月以上的方案，不能與其他優惠券疊加。"
+        "2026 年 Hostinger Horizons 多少錢？AI Builder 包含在網站主機方案裡。2026年10月28日國際站上，Premium 用 SONAR20 是 48 個月方案每月 US$ 1.99，續訂 US$ 10.99/月；Unlimited 每月 US$ 2.79，續訂 US$ 16.99/月。",
+        "Hostinger 的 AI Builder 有優惠碼嗎？有：在購物車的優惠碼欄位輸入 SONAR20，首期享 20% 折扣，月付或年付方案都可以，新客戶和舊客戶都適用。我們沒有測試續訂，請在購物車確認續訂價。"
       ]
     },
     {
@@ -276,17 +276,18 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "推薦代碼已經在連結裡：20% 只在首期，限 12 個月以上的方案，不能與其他優惠券疊加。",
-    "label": "透過推薦連結查看方案",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20%。續訂價我們沒有測試，請在購物車確認。",
+    "label": "用 SONAR20 查看方案",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "透過推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。團隊中沒有人用過 AI Builder。",
+  "editorialNote": "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。團隊中沒有人用過 AI Builder。",
   "relatedArticles": [
     {
       "slug": "hostinger-referral-code-zh-hant",
-      "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼"
+      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
     },
     {
       "slug": "hostinger-trust-guide-zh-hant",
@@ -294,7 +295,7 @@
     },
     {
       "slug": "hostinger-black-friday-zh-hant",
-      "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+      "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢"
     }
   ],
   "hideFromPortugueseListings": true

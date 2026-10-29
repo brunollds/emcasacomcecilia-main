@@ -150,13 +150,13 @@
     {
       "heading": "Combien ça coûte",
       "paragraphs": [
-        "Prix des forfaits de 24 mois, relevés sur la page mondiale de Hostinger le 21 octobre 2026, en dollars américains. L'offre gérée s'appelle « Applications d'automatisation IA » et coûte le même prix pour OpenClaw, Hermes Agent et Paperclip. La page n'affichait le prix avec le lien de parrainage que pour l'offre gérée ; pour le VPS, les 20 % apparaissent dans le panier."
+        "Prix des forfaits de 24 mois, relevés sur la page mondiale de Hostinger le 21 octobre 2026, en dollars américains. L'offre gérée s'appelle « Applications d'automatisation IA » et coûte le même prix pour OpenClaw, Hermes Agent et Paperclip. La page n'affichait le prix avec le SONAR20 que pour l'offre gérée ; pour le VPS, les 20 % apparaissent dans le panier."
       ],
       "comparisonTable": {
         "headers": [
           "Forfait",
-          "Sans le lien",
-          "Avec le lien",
+          "Sans le code",
+          "Avec le SONAR20",
           "Renouvellement"
         ],
         "rows": [
@@ -195,20 +195,20 @@
       "postParagraphs": [
         "Dans votre pays, Hostinger peut afficher une autre devise et d'autres taxes : vérifiez le panier avant de payer.",
         "La RAM est la mémoire du serveur, et le vCPU est un cœur du processeur. Plus le forfait VPS est grand, plus il a de mémoire et de puissance de calcul. Les pages de Hostinger que nous avons lues n'indiquent pas de minimum de mémoire pour Paperclip : le KVM 1 est le point de départ, et le nombre d'agents que vous faites tourner dit s'il suffit.",
-        "Le 21 octobre 2026, Hostinger mène une campagne Black Friday, et les prix changent. Voyez [Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?](/fr/reviews/black-friday-hostinger-offres) et vérifiez le montant dans le panier."
+        "Le 21 octobre 2026, Hostinger mène une campagne Black Friday, et les prix changent. Voyez [Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne](/fr/reviews/black-friday-hostinger-offres) et vérifiez le montant dans le panier."
       ]
     },
     {
-      "heading": "Lien de parrainage",
+      "heading": "Code SONAR20",
       "paragraphs": [
-        "Le lien de parrainage applique déjà la réduction, et il n'y a pas de code à saisir. Il donne **20 % seulement sur la première période**, sur des forfaits de 12 mois ou plus, et la réduction **ne se cumule pas avec d'autres codes promo**. Le renouvellement est facturé au prix normal. La règle complète se trouve dans [Code promo Hostinger : inutile, voici ce que donne le lien de parrainage](/fr/reviews/code-promo-hostinger-parrainage). Vérifiez le montant dans le panier avant de payer."
+        "Le code **SONAR20** donne **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou existant. Collez-le dans le champ de coupon du panier, ou passez par le lien de cet article. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier. Pour le VPS, nous n'avons pas testé le code. La règle est expliquée dans [Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre](/fr/reviews/code-promo-hostinger-parrainage). Vérifiez le montant dans le panier avant de payer."
       ]
     },
     {
       "heading": "Comment commencer, dans l'ordre",
       "bullets": [
         "**Le faire tourner sur votre ordinateur.** Le README officiel demande Node.js 24.11 ou plus récent. Vérifiez votre version avec la commande node -v dans le terminal, puis lancez npx paperclipai@latest onboard --yes. L'interface s'ouvre sur http://localhost:3100, et la base Postgres se crée toute seule. Il n'y a aucun coût de serveur, mais Paperclip ne tourne que tant que l'ordinateur est allumé. Si vous avez un abonnement à Claude ou à Codex, le README accepte aussi de se connecter avec cet abonnement, sans clé d'API, à condition d'avoir Python 3 et le programme du fournisseur installés.",
-        "**Souscrire le géré.** Choisissez l'offre « Applications d'automatisation IA » sur 24 mois, via le lien de parrainage. Après la souscription, Hostinger prépare l'instance et la base de données. Vous vous connectez au panneau, reliez vos agents et collez vos clés d'IA.",
+        "**Souscrire le géré.** Choisissez l'offre « Applications d'automatisation IA » sur 24 mois, avec le code SONAR20 ou via le lien de cet article. Après la souscription, Hostinger prépare l'instance et la base de données. Vous vous connectez au panneau, reliez vos agents et collez vos clés d'IA.",
         "**Ou prendre un VPS avec Docker.** Choisissez un forfait KVM (le KVM 1 est le moins cher) et, dans la liste des applications, Paperclip, que Hostinger installe en un clic. Depuis le Docker Manager du panneau, vous ouvrez Paperclip, saisissez vos clés et mettez la version à jour avec un bouton. La sécurité du serveur, les mots de passe et les mises à jour du système restent de votre responsabilité."
       ]
     },
@@ -219,7 +219,7 @@
       ],
       "bullets": [
         "**Essayez d'abord sur votre ordinateur** si vous n'êtes pas sûr qu'une équipe d'agents vous convienne. L'installation tient en une commande, et le seul coût est celui que facturent les fournisseurs d'IA.",
-        "**Géré** si vous voulez Paperclip en ligne sans toucher à un serveur : 3,99 US$/mois avec le lien de parrainage, 11,99 US$/mois au renouvellement, avec la base de données, les mises à jour et les sauvegardes prises en charge par Hostinger.",
+        "**Géré** si vous voulez Paperclip en ligne sans toucher à un serveur : 3,99 US$/mois avec le SONAR20, 11,99 US$/mois au renouvellement affiché, avec la base de données, les mises à jour et les sauvegardes prises en charge par Hostinger.",
         "**VPS** si vous voulez un accès root, d'autres logiciels sur le même serveur ou la base de données sous votre contrôle : KVM 1 à partir de 6,49 US$/mois avant la réduction, 11,99 US$/mois au renouvellement. La sécurité du serveur et les mises à jour vous reviennent.",
         "**Un agent unique plutôt qu'une équipe** si vous voulez seulement un assistant, par exemple sur Telegram ou WhatsApp. Pour ce choix, voyez [OpenClaw chez Hostinger : géré ou VPS ? Prix, ce qu'exige chaque option et à qui elle convient](/fr/reviews/openclaw-hostinger-gere-ou-vps) et [OpenClaw ou Hermes Agent : lequel choisir et comment faire tourner chacun chez Hostinger](/fr/reviews/openclaw-ou-hermes-agent-que-choisir), qui compare les deux agents uniques."
       ],
@@ -234,7 +234,7 @@
         "Paperclip est-il fiable ? Nous ne pouvons pas rendre de verdict. Vous pouvez vérifier que le code est public, que le dépôt désigne l'équipe Paperclip (Paperclip Labs, Inc. dans la mention de copyright) comme responsable, et que les failles de sécurité se signalent par un canal officiel de GitHub. Nous n'avons trouvé aucun audit indépendant dans les sources consultées le 21 octobre 2026.",
         "Faut-il une clé d'API ? Oui. Sur l'offre gérée et sur le VPS, la page de Paperclip demande que vous apportiez la vôtre. Sur votre ordinateur, le README accepte aussi l'abonnement Claude ou Codex, sans clé d'API.",
         "Fonctionne-t-il avec Ollama ? Cela dépend de l'agent que vous connectez. Le README de Paperclip ne cite pas Ollama, un logiciel qui fait tourner un modèle d'IA sur votre propre ordinateur. OpenClaw, par exemple, documente les modèles locaux ; dans Paperclip, le modèle dépend de l'agent que vous connectez.",
-        "Existe-t-il un code promo Hostinger pour Paperclip ? Il n'y a pas de code à saisir. Le lien de parrainage accorde 20 % sur la première période des forfaits de 12 mois ou plus, et la réduction ne se cumule pas avec d'autres codes promo."
+        "Existe-t-il un code promo Hostinger pour Paperclip ? Oui : le code SONAR20 donne 20 % sur la première période, en forfait mensuel ou annuel. Collez-le dans le champ de coupon du panier ; nous n'avons pas testé le renouvellement."
       ]
     },
     {
@@ -247,13 +247,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Le code de parrainage est déjà dans le lien : rien à saisir. Les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo.",
-    "label": "Voir les forfaits avec le lien de parrainage",
-    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement.",
+    "label": "Voir les forfaits avec le SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
+  "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Les achats faits par le lien de parrainage peuvent donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous. Personne dans l'équipe n'utilise Paperclip.",
+  "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l'équipe n'utilise Paperclip.",
   "relatedArticles": [
     {
       "slug": "openclaw-ou-hermes-agent-que-choisir",
@@ -265,7 +266,7 @@
     },
     {
       "slug": "code-promo-hostinger-parrainage",
-      "title": "Code promo Hostinger : inutile, voici ce que donne le lien de parrainage"
+      "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
     }
   ]
 }
