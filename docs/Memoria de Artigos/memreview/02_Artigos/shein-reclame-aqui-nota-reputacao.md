@@ -1,8 +1,8 @@
 ---
-status: "pauta-aprovada"
-proxima_acao: "redacao"
+status: "publicado"
+proxima_acao: "reler a Trustpilot e o Reclame Aqui na revisão mensal de novembro de 2026"
 bloqueado_por: "-"
-titulo_provisorio: "SHEIN na Trustpilot: nota, reclamações e o que os dados mostram"
+titulo_provisorio: "SHEIN no Reclame Aqui: nota, reclamações e o que os dados mostram"
 seo_title: "SHEIN na Trustpilot: nota e reclamações"
 slug_sugerido: "shein-reclame-aqui-nota-reputacao"
 parceiro: "[[SHEIN]]"
@@ -306,3 +306,12 @@ Fatos: `shein-reclame-aqui-nota-reputacao-fatos-2810.md`, ao lado; autocompletar
 2. A versão PT não repete a tabela do Reclame Aqui do `shein-e-confiavel`: foca no que as queixas mostram e no contraste com a Trustpilot (a nota da Trustpilot numa frase).
 3. Os códigos ficam só no bloco da loja, fora do corpo (artigo de reputação): CECILIA010 é código de recompensa e 4CW5Y é código de indicação da SHEIN Brasil, nunca cupom. Sem experiência própria de compra além do que o dossiê registra. A sugestão "fashion for yes" do autocompletar em zh-hant é outra marca: fora.
 4. Pendentes de navegador antes de publicar (a sessão de artigos lê no Chrome, ou pede ao Bruno): conferir o TrustScore da YesStyle (4,4 no resumo, 4,5 no gráfico) em `https://www.trustpilot.com/review/www.yesstyle.com`; confirmar no Reclame Aqui que a YesStyle não tem perfil; reler `https://www.reclameaqui.com.br/empresa/shein/` (nota de 12/10 no vault, 7,6). Números sempre datados.
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 04:48 UTC: PR #348, release `3c712549`, família `shein-reputation`, ids 696–705 (10 idiomas).
+- PT: "SHEIN no Reclame Aqui" (nota 7,5, leitura de 28/10); as outras 9 na Trustpilot (TrustScore 3,8 em 353.435 avaliações). Fora do PT, nenhum link da SHEIN Brasil, nem ao guia de Black Friday (imposto brasileiro) nem ao do código de indicação.
+- Decisão do Bruno (29/10): o aviso de reguladores do perfil da SHEIN na Trustpilot não entra.
+- Imagens no CDN: capa, quadro dos números do Reclame Aqui, prints dos perfis do Reclame Aqui e da Trustpilot (29/10) num celular e uma tela de rastreio e reembolso desenhada sem palavras.
+- No mesmo PR: `shein-e-confiavel` com os números do Reclame Aqui de 28/10; `shein-ou-shopee-temu` segue com a tabela de 12/10.
+- Desde 29/10 os artigos da SHEIN levam os banners de campanha (PR #349, release `e2479745`): na análise da resposta rápida, separar pela data do banner.
+- Pendente: reler a Trustpilot e o Reclame Aqui na revisão mensal de novembro de 2026.
