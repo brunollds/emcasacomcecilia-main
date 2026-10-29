@@ -108,7 +108,8 @@ function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
       : copy.offerName.link(coupon.discount, coupon.brand),
     description: coupon.longDescription,
     category: coupon.category,
-    priceCurrency: 'BRL',
+    // A moeda é a do site da loja em PT; fora dele, a loja cobra na moeda do país de quem compra.
+    ...(locale === 'pt' ? { priceCurrency: 'BRL' } : {}),
     ...(coupon.offerMode === 'discount-code' ? {
       discount: `${coupon.discountNumber}`,
       couponCode: coupon.code,

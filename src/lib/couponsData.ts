@@ -2230,95 +2230,96 @@ export const COUPONS: Coupon[] = [
     featured: false,
   },
   {
-    offerMode: 'affiliate-link',
+    offerMode: 'discount-code',
     slug: 'hostinger',
     brand: 'Hostinger',
     officialUrl: 'https://www.hostinger.com/',
-    // Link de indicação do Bruno; o código SONARDEOFERTAS vai no link e não se digita no checkout.
-    offerUrl: 'https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS',
+    // Programa de agências do Bruno (29/10/2026): o SONAR20 vale digitado no carrinho e também vai no link de
+    // indicação. Não editar o link.
+    offerUrl: 'https://www.hostinger.com/br?REFERRALCODE=SONAR20',
     brandIcon: 'H',
     brandLogo: '/images/about/partners/hostinger-icon.png',
     brandLogoAlt: 'Marca Hostinger',
     brandWatermark: '/images/logos/watermarks/hostinger.webp',
     brandColor: '#673DE6',
+    code: 'SONAR20',
     discount: '20% OFF',
-    offerTypeLabel: 'indicação',
-    offerTypeLabelPlural: 'indicações',
-    offerActionLabel: 'Clique para ter 20% OFF nos planos',
+    discountNumber: 20,
     category: 'Hospedagem de sites e domínios',
     hubCategory: 'diversos',
-    shortDescription:
-      'primeiro período de um plano novo de 12 meses ou mais, com o desconto já no link',
+    shortDescription: 'todos os planos da Hostinger, mensais ou anuais, para clientes novos e antigos',
     longDescription:
-      'O link de indicação da Hostinger dá 20% de desconto no primeiro período de um plano novo de 12 meses ou mais, já aplicado no carrinho, sem nada para digitar: hospedagem de sites, VPS, e-mail profissional ou os planos de agentes de IA (OpenClaw). No plano de 1 mês, os planos Single, Premium e Unlimited aparecem sem o desconto da indicação (só o Startup ainda mostrou); a renovação sai pelo preço normal e não soma com outros cupons. O Em Casa com Cecília roda na Hostinger desde 2024; link conferido em 24/10/2026.',
-    metaTitle: 'Desconto Hostinger: 20% OFF pelo link de indicação',
+      'O SONAR20 dá 20% OFF em todos os planos da Hostinger, mensais ou anuais, para quem está chegando e para quem já é cliente. Cole o código no campo de cupom do carrinho. Testado em 29/10/2026 no plano Startup, sobre o preço de Black Friday. O Em Casa com Cecília roda na Hostinger desde 2024.',
+    metaTitle: 'Cupom Hostinger: 20% OFF em tudo com SONAR20 (nov/2026)',
     metaDescription:
-      'Desconto Hostinger de 20% no primeiro período de planos de 12 meses ou mais, aplicado pelo link de indicação, sem cupom. Veja a renovação e o que não soma.',
-    eligibleCategories:
-      'Primeiro período de um plano novo da Hostinger de 12 meses ou mais: hospedagem de sites, VPS, e-mail e os planos de agentes de IA',
-    validity: 'Indicação ativa enquanto o programa de indicação da Hostinger estiver vigente',
-    reusable: 'Não se aplica: o desconto vem do link, não de um cupom',
+      'Cupom Hostinger testado em 29/10/2026: SONAR20 dá 20% OFF em planos mensais e anuais, para cliente novo ou antigo, inclusive na Black Friday.',
+    eligibleCategories: 'Todos os planos da Hostinger, mensais ou anuais, para clientes novos e antigos',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Vale para clientes novos e para quem já tem plano na Hostinger',
     shipping: 'Não se aplica',
     combinable:
-      'Não soma com outros cupons: segundo a Hostinger, o preço do link de indicação já é o melhor que ela oferece por ele',
-    lastVerified: '2026-10-24',
-    linkInstructions: [
-      'Abra a Hostinger pelo botão indicado: os preços da página já aparecem com o desconto da indicação.',
-      'Escolha o plano e um período de 12 meses ou mais e siga para o carrinho pelo próprio link.',
-      'Não é preciso digitar cupom: o desconto já está vinculado ao link.',
-      'Confira no carrinho o preço do primeiro período e o preço da renovação antes de pagar.',
+      'Soma com as promoções da Hostinger: no teste de 29/10/2026, os 20% entraram sobre o preço de Black Friday; a soma com outros cupons não foi testada',
+    lastVerified: '2026-10-29',
+    testNote:
+      'Aplicamos o SONAR20 no campo "Tem um cupom de desconto?" do carrinho da Hostinger com o plano Startup, que não entra no link de indicação. No período de 48 meses, o total foi de R$ 1.919,52 para R$ 1.535,62, R$ 383,90 a menos; no de 1 mês, de R$ 139,99 para R$ 111,99. Os dois deram 20% sobre o preço de Black Friday que a Hostinger já mostrava. No site global, em dólar, o mesmo plano de 48 meses caiu de US$ 383,52 para US$ 306,82.',
+    codeFieldLabel: 'Tem um cupom de desconto?',
+    codeInstructions: [
+      'Copie o código SONAR20 no card acima.',
+      'Abra a Hostinger pelo botão desta página, escolha o plano e o período e siga para o carrinho.',
+      'No resumo do pedido, clique em "Tem um cupom de desconto?", cole o SONAR20 e clique em Aplicar.',
+      'Confira o desconto e o preço da renovação no carrinho antes de pagar.',
     ],
-    linkNote:
-      'Os 20% valem só no primeiro período de um plano novo de 12 meses ou mais: a renovação sai pelo preço padrão do plano, e o desconto não vale em compras já feitas.',
     aboutBrand:
-      'A Hostinger é uma empresa de hospedagem de sites, com planos de hospedagem, criador de sites, VPS, domínios e e-mail. O Em Casa com Cecília roda na Hostinger desde 2024, como aplicação Node.js. O link desta página é uma indicação: abre o site da Hostinger com 20% de desconto no primeiro período de um plano novo de 12 meses ou mais, sem cupom para digitar.',
+      'A Hostinger é uma empresa de hospedagem de sites, com planos de hospedagem, criador de sites, VPS, domínios e e-mail. O Em Casa com Cecília roda na Hostinger desde 2024, como aplicação Node.js. O SONAR20 é o cupom da parceria: dá 20% OFF em todos os planos, para clientes novos e antigos.',
     faqs: [
       {
-        question: 'Preciso de código de indicação ou cupom da Hostinger?',
+        question: 'O cupom SONAR20 da Hostinger está funcionando hoje?',
         answer:
-          'Não. Pelo link desta página, o desconto da indicação já vem aplicado no carrinho, sem nada para digitar. É uma indicação, não um cupom.',
+          'Sim. No teste de 29/10/2026, o SONAR20 tirou 20% do plano Startup nos períodos de 1 e de 48 meses no site brasileiro, e no de 48 meses no site global. A data do teste mais recente aparece no topo desta página.',
       },
       {
-        question: 'O desconto de 20% da indicação da Hostinger é real?',
-        answer:
-          'Sim. Os termos da Hostinger falam em “até 20%”; nos planos que conferimos por este link em outubro de 2026 (hospedagem de sites nos planos de 12 e 48 meses, VPS KVM e os planos de agentes de IA), o preço mostrou 20% de desconto no primeiro período.',
+        question: 'O SONAR20 vale para quem já é cliente da Hostinger?',
+        answer: 'Sim. O cupom vale para clientes novos e para quem já tem plano na Hostinger.',
       },
       {
-        question: 'O desconto da indicação vale no plano mensal?',
+        question: 'O cupom vale no plano mensal?',
         answer:
-          'Não nos planos principais de hospedagem. Em 24/10/2026, Single, Premium e Unlimited mostraram a indicação aplicada nos períodos de 12 e 48 meses, e não no de 1 mês; só o Startup ainda mostrou a 1 mês. Escolha um período de 12 meses ou mais para garantir os 20%.',
+          'Sim. No teste de 29/10/2026, o plano Startup de 1 mês caiu de R$ 139,99 para R$ 111,99 com o SONAR20, os mesmos 20% do plano de 48 meses.',
       },
       {
-        question: 'Os 20% valem em VPS, e-mail e agentes de IA?',
+        question: 'Onde coloco o cupom na Hostinger?',
         answer:
-          'A Hostinger lista os três como elegíveis. Vimos os 20% no primeiro período do VPS KVM e dos planos de agentes de IA no período de 24 meses; e-mail e períodos mais curtos não conferimos. Domínios ficam fora da indicação.',
+          'No carrinho, no resumo do pedido: clique em "Tem um cupom de desconto?", cole o SONAR20 e clique em Aplicar. O desconto aparece na linha "Cupom aplicado".',
       },
       {
-        question: 'O desconto vale na renovação do plano?',
+        question: 'Preciso colar o cupom se eu entrar pelo link?',
         answer:
-          'Não. Os 20% valem só no primeiro período. Depois, o plano renova pelo preço padrão, que a Hostinger mostra abaixo do card de cada plano, e dá para trocar o período ou cancelar antes da renovação.',
+          'Confira o resumo do pedido: se não aparecer "Cupom aplicado", cole o SONAR20 no campo de cupom. O link desta página abre a Hostinger com a indicação do mesmo código.',
       },
       {
-        question: 'O desconto da indicação soma com outro cupom da Hostinger?',
+        question: 'O cupom vale na Black Friday da Hostinger?',
         answer:
-          'Não. A Hostinger informa que o preço do link de indicação já é o melhor que ela oferece por ele, e outros cupons não se acumulam.',
+          'Sim. No teste de 29/10/2026, os 20% do SONAR20 entraram sobre o preço de Black Friday que a Hostinger já mostrava no carrinho.',
       },
       {
-        question: 'O desconto vale para quem já é cliente da Hostinger?',
+        question: 'O desconto vale na renovação?',
         answer:
-          'Vale para um plano novo comprado pelo link. Planos já contratados e compras já feitas não ganham o desconto.',
+          'Não testamos a renovação. O carrinho mostra o preço de renovação abaixo do plano; confira esse valor antes de pagar.',
       },
       {
         question: 'O Em Casa com Cecília usa a Hostinger?',
-        answer:
-          'Sim. O site roda na Hostinger desde 2024, como aplicação Node.js.',
+        answer: 'Sim. O site roda na Hostinger desde 2024, como aplicação Node.js.',
       },
       {
-        question: 'Comprar pelo link apoia o Em Casa com Cecília?',
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
-          'Sim, a compra pela indicação pode gerar crédito para o Em Casa com Cecília, sem custo extra para você.',
+          'Sim, a compra com o SONAR20 pode gerar comissão para o Em Casa com Cecília, sem custo extra para você.',
       },
     ],
+    monthlyHighlight: {
+      scope: 'em todos os planos',
+      note: 'Vale para clientes novos e antigos, em planos mensais ou anuais',
+    },
     status: 'ativo',
     featured: false,
   },

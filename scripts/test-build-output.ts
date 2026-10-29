@@ -1868,7 +1868,10 @@ for (const locale of LOCALE_HOME_LOCALES) {
   // Sem este controle, um extrator que devolvesse a lista vazia faria a conferência de português passar à toa.
   assert.ok(shownTexts.includes(getLocaleHomeCopy(locale).storesTitle), `${pagePath}: o texto extraído da página sem o título das lojas`);
   assert.deepEqual([...new Set(shownTexts.filter((text) => ptTexts.has(text)))], [], `${pagePath}: texto em português`);
-  const codeAsCoupon = codeAsCouponRegExp(stores.flatMap((store) => (store.code ? [store.code] : [])));
+  // Só o código que não é cupom (o de recompensa e o de indicação); o SONAR20 da Hostinger é cupom de verdade.
+  const codeAsCoupon = codeAsCouponRegExp(
+    stores.flatMap((store) => (store.code && getStoreCodeKind(getCouponBySlug(store.slug), store.code) ? [store.code] : []))
+  );
   if (codeAsCoupon) assert.doesNotMatch(shownTexts.join(' '), codeAsCoupon, `${pagePath}: código chamado de cupom`);
 
   // Na lista de artigos do idioma, o logo do cabeçalho e o do rodapé levam à home do idioma. O cabeçalho é
