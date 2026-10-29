@@ -1,10 +1,12 @@
 import assert from 'node:assert/strict';
-import { getAllActiveCouponSlugs, getCouponBySlug } from '../src/lib/couponsData';
+import { getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, type CouponCodeOffer } from '../src/lib/couponsData';
 import {
   TRANSLATED_LOCALES,
   getCouponLanguageLinks,
   getLocalizedCoupon,
   getTranslatedCouponRoutes,
+  localizeCoupon,
+  type CodeOfferTranslation,
   type TranslatedLocale,
 } from '../src/lib/couponTranslations';
 import { LOCALE_KEYS } from '../src/lib/i18n/locales';
@@ -99,7 +101,7 @@ const SHEIN_BRAZIL: Record<TranslatedLocale, string> = {
 
 for (const locale of TRANSLATED_LOCALES) {
   const shein = getLocalizedCoupon('shein', locale);
-  assert.ok(shein);
+  assert.ok(shein?.offerMode === 'affiliate-link', `shein/${locale}: deixou de ser oferta por link`);
   assert.equal(shein.offerUrl, SHEIN_NEUTRAL_LINK, `shein/${locale}: link principal não é o neutro`);
   assert.ok(shein.longDescription.includes(SHEIN_BRAZIL[locale]), `shein/${locale}: longDescription sem o aviso da SHEIN Brasil`);
   assert.ok(shein.linkNote?.includes(SHEIN_BRAZIL[locale]), `shein/${locale}: linkNote sem o aviso da SHEIN Brasil`);
@@ -128,7 +130,7 @@ const HOSTINGER_FIRST_TERM: Record<TranslatedLocale, string> = {
 };
 for (const locale of TRANSLATED_LOCALES) {
   const hostinger = getLocalizedCoupon('hostinger', locale);
-  assert.ok(hostinger);
+  assert.ok(hostinger?.offerMode === 'affiliate-link', `hostinger/${locale}: deixou de ser oferta por link`);
   assert.equal(hostinger.offerUrl, HOSTINGER_GLOBAL_LINK, `hostinger/${locale}: link principal não é o global`);
   assert.equal(hostinger.referral, undefined, `hostinger/${locale}: indicação sem código de indicação na página`);
   assert.equal(hostinger.campaigns, undefined, `hostinger/${locale}: indicação sem campanhas`);
@@ -140,6 +142,106 @@ for (const locale of TRANSLATED_LOCALES) {
   }
 }
 
+// Loja de código fictícia, a partir de uma loja de código de verdade e com tudo o que só existe em PT
+// preenchido. Fora do PT, texto sem tradução some (nunca vai em português) e o código, as datas e o
+// desconto vêm do PT.
+const codeBase = getActiveCoupons().find(
+  (coupon): coupon is CouponCodeOffer =>
+    coupon.offerMode === 'discount-code' && !coupon.tiers?.length && Boolean(coupon.testNote && coupon.codeInstructions)
+);
+assert.ok(codeBase, 'É preciso uma loja de código testada, sem faixas, para montar a loja fictícia');
+const codeStore: CouponCodeOffer = {
+  ...codeBase,
+  slug: 'loja-ficticia',
+  offerActionLabel: 'Ir para a loja fictícia',
+  codeFieldLabel: 'Cupom de desconto',
+  monthlyHighlight: { scope: 'em todo o site', note: 'Soma com as promoções da loja' },
+  history: [{ date: '01/10/2026', code: 'ANTIGO10', discount: '10% OFF', note: 'Código da campanha passada' }],
+  featuredPitch: 'O código que mais rende na vitrine',
+  socialImageAlt: 'Capa do guia do cupom da loja',
+  relatedContent: [{ title: 'Como usar o cupom da loja', url: '/reviews/x', type: 'review', publishedAt: '2026-10-01' }],
+};
+const codeText = (locale: TranslatedLocale, extra: Partial<CodeOfferTranslation> = {}): CodeOfferTranslation => ({
+  discount: `${locale} 20% off`,
+  category: `${locale} category`,
+  shortDescription: `${locale} short description`,
+  longDescription: `${locale} long description`,
+  metaTitle: `${locale} meta title`,
+  metaDescription: `${locale} meta description`,
+  eligibleCategories: `${locale} eligible products`,
+  validity: `${locale} validity rule`,
+  reusable: `${locale} reuse rule`,
+  shipping: `${locale} shipping rule`,
+  combinable: `${locale} stacking rule`,
+  aboutBrand: `${locale} about the brand`,
+  brandLogoAlt: `${locale} brand logo`,
+  faqs: codeStore.faqs.map((_, index) => ({ question: `${locale} question ${index}?`, answer: `${locale} answer ${index}` })),
+  ...extra,
+});
+const codeTranslation = (extra: Partial<CodeOfferTranslation> = {}) => ({
+  offerMode: 'discount-code' as const,
+  offerUrl: 'https://example.com/?ref=GLOBAL20',
+  locales: Object.fromEntries(TRANSLATED_LOCALES.map((locale) => [locale, codeText(locale, extra)])) as Record<
+    TranslatedLocale,
+    CodeOfferTranslation
+  >,
+});
+const codeStoreProse = new Set(leaves(codeStore).map(([, text]) => text).filter((text) => /\s/.test(text) && !isUrl(text)));
+
+for (const locale of TRANSLATED_LOCALES) {
+  const localized = localizeCoupon(codeStore, codeTranslation(), locale);
+  assert.ok(localized.offerMode === 'discount-code', `loja fictícia/${locale}: deixou de ser loja de código`);
+  for (const key of ['code', 'discountNumber', 'lastVerified', 'codeKind', 'slug', 'brand', 'status'] as const) {
+    assert.equal(localized[key], codeStore[key], `loja fictícia/${locale}: ${key} diferente do PT`);
+  }
+  assert.equal(localized.offerUrl, 'https://example.com/?ref=GLOBAL20', `loja fictícia/${locale}: sem o link do idioma`);
+  for (const key of [
+    'offerTypeLabel',
+    'offerTypeLabelPlural',
+    'offerActionLabel',
+    'testNote',
+    'codeFieldLabel',
+    'codeInstructions',
+    'monthlyHighlight',
+    'history',
+    'featuredPitch',
+    'socialImageAlt',
+    'relatedContent',
+  ] as const) {
+    assert.equal(localized[key], undefined, `loja fictícia/${locale}: ${key} sem tradução não pode ir em português`);
+  }
+  for (const [path, text] of leaves(localized)) {
+    assert.ok(!codeStoreProse.has(text), `loja fictícia/${locale}: texto em PT sobrou em ${path}`);
+  }
+
+  // Com a tradução, os campos opcionais entram no idioma.
+  const translated = localizeCoupon(
+    codeStore,
+    codeTranslation({
+      testNote: `${locale} test note`,
+      codeInstructions: [`${locale} step one`],
+      codeFieldLabel: `${locale} coupon field`,
+      monthlyHighlight: { scope: `${locale} sitewide`, note: `${locale} stacks with sales` },
+    }),
+    locale
+  );
+  assert.ok(translated.offerMode === 'discount-code');
+  assert.equal(translated.testNote, `${locale} test note`, `loja fictícia/${locale}: testNote traduzido não entrou`);
+  assert.deepEqual(translated.codeInstructions, [`${locale} step one`]);
+  assert.equal(translated.codeFieldLabel, `${locale} coupon field`);
+  assert.equal(translated.monthlyHighlight?.scope, `${locale} sitewide`);
+}
+
+// Faixas trazem R$ e o aviso do Magazine Você; tradução de outro tipo de oferta é erro.
+assert.throws(
+  () => localizeCoupon({ ...codeStore, tiers: [{ code: 'FAIXA10', discount: 'R$ 10', minPurchase: 'R$ 100' }] }, codeTranslation(), 'en'),
+  /faixas de desconto/
+);
+assert.throws(
+  () => localizeCoupon(codeStore, { ...codeTranslation(), offerMode: 'affiliate-link' } as never, 'en'),
+  /a tradução é de affiliate-link/
+);
+
 console.log(
-  `✅ coupon translations: ${translatedSlugs.join(', ')} em ${TRANSLATED_LOCALES.length} idiomas além do PT; códigos, datas e campanhas iguais ao PT.`
+  `✅ coupon translations: ${translatedSlugs.join(', ')} em ${TRANSLATED_LOCALES.length} idiomas além do PT; códigos, datas e campanhas iguais ao PT; loja de código fictícia sem texto em PT.`
 );

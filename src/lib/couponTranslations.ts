@@ -1,7 +1,8 @@
 import {
   getCouponBySlug,
-  type AffiliateLinkOffer,
+  type Coupon,
   type CouponCampaign,
+  type CouponCodeOffer,
   type CouponFAQ,
   type CouponReferral,
 } from './couponsData';
@@ -14,14 +15,12 @@ export const TRANSLATED_LOCALES = LOCALE_KEYS.filter((locale): locale is Transla
 export const isTranslatedLocale = (value: string): value is TranslatedLocale =>
   (TRANSLATED_LOCALES as string[]).includes(value);
 
-// Textos de uma oferta por link em outro idioma. Códigos, datas e status continuam vindo do cupom
-// em PT, então reconferir a oferta lá vale para todos os idiomas. O link principal também, salvo
-// quando a loja tem um link internacional em COUPON_TRANSLATIONS.
-export type AffiliateOfferTranslation = {
+// Textos de uma loja em outro idioma. Códigos, datas e status continuam vindo do cupom em PT, então
+// reconferir a oferta lá vale para todos os idiomas. O link principal também, salvo quando a loja tem
+// um link internacional em COUPON_TRANSLATIONS. Texto do cupom em PT sem tradução fica fora da página
+// do idioma: nunca vai a ela em português.
+type OfferTranslationBase = {
   discount: string;
-  offerTypeLabel: string;
-  offerTypeLabelPlural: string;
-  offerActionLabel: string;
   category: string;
   shortDescription: string;
   longDescription: string;
@@ -35,12 +34,31 @@ export type AffiliateOfferTranslation = {
   aboutBrand: string;
   brandLogoAlt: string;
   faqs: CouponFAQ[];
-  linkInstructions: string[];
-  linkNote: string;
   // Só na loja com código de indicação e campanhas no cupom em PT (a SHEIN).
   referral?: Pick<CouponReferral, 'label' | 'instructions'>;
   // Na mesma ordem de campaigns no cupom em PT.
   campaigns?: Pick<CouponCampaign, 'title' | 'description' | 'eligibility'>[];
+};
+
+export type AffiliateOfferTranslation = OfferTranslationBase & {
+  offerTypeLabel: string;
+  offerTypeLabelPlural: string;
+  offerActionLabel: string;
+  linkInstructions: string[];
+  linkNote: string;
+};
+
+// Loja de código. Sem os campos opcionais, a página usa os textos padrão do idioma
+// (couponStoreCopy): "cupom", os passos, o campo do checkout e "Conferido em" no lugar de
+// "Cupom testado em".
+export type CodeOfferTranslation = OfferTranslationBase & {
+  offerTypeLabel?: string;
+  offerTypeLabelPlural?: string;
+  // Só com teste feito no site que a página do idioma abre (o global, não o /br).
+  testNote?: string;
+  codeFieldLabel?: string;
+  codeInstructions?: string[];
+  monthlyHighlight?: CouponCodeOffer['monthlyHighlight'];
 };
 
 // Francês e alemão separam o número do % com espaço, que não pode quebrar a linha.
@@ -1330,22 +1348,24 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation
   },
 };
 
-type CouponTranslation = {
-  // Link principal das páginas em outros idiomas; sem ele, vale o do cupom em PT.
-  offerUrl?: string;
-  locales: Record<TranslatedLocale, AffiliateOfferTranslation>;
-};
+// offerMode tem de ser o do cupom em PT. offerUrl é o link principal das páginas em outros idiomas;
+// sem ele, vale o do cupom em PT.
+export type CouponTranslation =
+  | { offerMode: 'affiliate-link'; offerUrl?: string; locales: Record<TranslatedLocale, AffiliateOfferTranslation> }
+  | { offerMode: 'discount-code'; offerUrl?: string; locales: Record<TranslatedLocale, CodeOfferTranslation> };
 
 const COUPON_TRANSLATIONS: Record<string, CouponTranslation> = {
   shein: {
     // Link neutro (sem br.) gerado pelo Bruno no painel da SHEIN em 05/10/2026; o PT segue no link
     // brasileiro do código 4CW5Y. Não conferir clicando: o clique registra atribuição.
+    offerMode: 'affiliate-link',
     offerUrl: 'https://onelink.shein.com/55/6463grgxf6ru',
     locales: SHEIN_TRANSLATIONS,
   },
   hostinger: {
     // O mesmo SONARDEOFERTAS no site internacional, que abre a indicação em inglês com as mesmas regras
     // (lidas em 19/10/2026); o PT segue no /br.
+    offerMode: 'affiliate-link',
     offerUrl: 'https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS',
     locales: HOSTINGER_TRANSLATIONS,
   },
@@ -1368,28 +1388,51 @@ export function getTranslatedCouponRoutes() {
     .flatMap((slug) => TRANSLATED_LOCALES.map((locale) => ({ locale, slug })));
 }
 
-export function getLocalizedCoupon(slug: string, locale: TranslatedLocale): AffiliateLinkOffer | undefined {
+export function getLocalizedCoupon(slug: string, locale: TranslatedLocale): Coupon | undefined {
   const coupon = getCouponBySlug(slug);
   const translation = COUPON_TRANSLATIONS[slug];
   if (!coupon || !translation) return undefined;
-  if (coupon.offerMode !== 'affiliate-link') {
-    throw new Error(`[couponTranslations] "${slug}" tem tradução, mas só oferta por link sabe usar uma.`);
-  }
+  return localizeCoupon(coupon, translation, locale);
+}
 
+// O cupom em PT com os textos do idioma. Separada de getLocalizedCoupon para os testes passarem uma loja
+// fictícia.
+export function localizeCoupon(coupon: Coupon, translation: CouponTranslation, locale: TranslatedLocale): Coupon {
+  const where = `[couponTranslations] "${coupon.slug}/${locale}"`;
   const text = translation.locales[locale];
   if ((coupon.referral && !text.referral) || (coupon.campaigns && text.campaigns?.length !== coupon.campaigns.length)) {
-    throw new Error(`[couponTranslations] "${slug}/${locale}": a tradução precisa de referral e campaigns como o cupom em PT.`);
+    throw new Error(`${where}: a tradução precisa de referral e campaigns como o cupom em PT.`);
   }
-  return {
-    ...coupon,
-    ...text,
+  const shared = {
     offerUrl: translation.offerUrl ?? coupon.offerUrl,
     referral: coupon.referral && { ...coupon.referral, ...text.referral },
     campaigns: coupon.campaigns?.map((campaign, index) => ({ ...campaign, ...text.campaigns?.[index] })),
     // Textos que só existem em PT; sem tradução, ficam fora da página.
     socialImageAlt: undefined,
     featuredPitch: undefined,
-    monthlyHighlight: undefined,
     relatedContent: undefined,
   };
+
+  if (coupon.offerMode === 'affiliate-link' && translation.offerMode === 'affiliate-link') {
+    return { ...coupon, ...translation.locales[locale], ...shared, monthlyHighlight: undefined };
+  }
+  if (coupon.offerMode === 'discount-code' && translation.offerMode === 'discount-code') {
+    // As faixas trazem valores em R$ e o aviso do Magazine Você, que só existem em PT.
+    if (coupon.tiers?.length) throw new Error(`${where}: loja com faixas de desconto não tem tradução.`);
+    const codeText = translation.locales[locale];
+    return {
+      ...coupon,
+      ...codeText,
+      ...shared,
+      offerTypeLabel: codeText.offerTypeLabel,
+      offerTypeLabelPlural: codeText.offerTypeLabelPlural,
+      offerActionLabel: undefined,
+      testNote: codeText.testNote,
+      codeFieldLabel: codeText.codeFieldLabel,
+      codeInstructions: codeText.codeInstructions,
+      monthlyHighlight: codeText.monthlyHighlight,
+      history: undefined,
+    };
+  }
+  throw new Error(`${where}: a tradução é de ${translation.offerMode}, e o cupom em PT, de ${coupon.offerMode}.`);
 }
