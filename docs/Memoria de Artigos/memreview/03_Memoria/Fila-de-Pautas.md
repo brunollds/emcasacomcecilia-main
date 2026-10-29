@@ -259,6 +259,23 @@ Bagaggio: sobras da rodada de 28/10. Skelt: a pauta 5 da rodada de 28/10 e uma r
 
 Descartados: "Skelt masculino" como artigo (a loja não tem linha para homem em 29/10; vira uma pergunta do FAQ de [[body-splash-skelt-qual-escolher]] quando ele for revisado), eau de parfum, colônia, sabonete, shampoo e refil (sem produto), vegano e cruelty free como pauta (vira frase só nos artigos cuja ficha declara o selo), presente e amigo secreto Skelt (canibaliza [[presente-natal-quem-treina]]), "autobronzeador que não mancha a roupa" (reforço de seção do [[autobronzeador-skelt-qual-escolher]], não artigo).
 
+## Let's Eat It: comprador de mesa posta (Bruno, 29/10/2026)
+
+Mais vendidos pelo link do Bruno no 1º período da parceria: guardanapo Poá Terracota (10), jogo americano Limone Tuut (8) e taça Sphere âmbar (4, conjunto de 6). Leitura (inferência, sem volume de busca): quem compra monta ou completa a mesa de casa, por peça; a dúvida é de cor, quantidade e tamanho, não de marca nem de loja. Pautas de busca ampla, sem o nome da loja no título, para trazer comprador novo.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| L7 | Faqueiro Laguiole La Maison: qual escolher | **Pauta aprovada em 29/10/2026:** [[faqueiro-laguiole-la-maison-qual-escolher]] |
+| L8 | Mesa posta do dia a dia: o que comprar por peça | **Pauta aprovada em 29/10/2026:** [[mesa-posta-dia-a-dia-barata]] |
+| L9 | Guardanapo de tecido: quantos e qual tamanho | **Pauta aprovada em 29/10/2026:** [[guardanapo-de-tecido-quantos-tamanho]] |
+| L10 | Jogo americano de tecido: tamanho e cor | **Pauta aprovada em 29/10/2026:** [[jogo-americano-tecido-tamanho-cor]] |
+| L11 | Paleta da mesa posta: terracota, verde, azul ou âmbar | Estoque |
+| L12 | Taça base esfera: conjunto ou unidade, e qual cor | Estoque |
+| L13 | Taça âmbar e colorida: vinho, água e champanhe | Estoque |
+| L14 | Presente de amigo secreto até R$ 100 | Estoque (dezembro; produto da loja fraco para presente) |
+
+Descartado: "Tuut: onde comprar" (leva à loja da própria marca, sem afiliado). Base: rodada de 29/10 (autocompletar do Google e do Bing e `products.json` da loja).
+
 ## Apps das lojas parceiras (Bruno, 23/10/2026)
 
 Pautas que saíram da pergunta do app nas páginas de cupom (PR #238).
