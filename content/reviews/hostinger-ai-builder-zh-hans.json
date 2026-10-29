@@ -181,12 +181,12 @@
     {
       "heading": "2026年10月28日的价格与续费",
       "paragraphs": [
-        "AI Builder 没有单独的套餐：它包含在 48 个月的网站主机套餐里，整期一次付清。下面的价格来自 Hostinger 国际站，以美元计，通过推荐链接进入，在 2026年10月28日的黑色星期五活动期间读取；按国家和货币可能有所不同。月价是预付总额除以 48："
+        "AI Builder 没有单独的套餐：它包含在 48 个月的网站主机套餐里，整期一次付清。下面的价格来自 Hostinger 国际站，以美元计，经由本文的 SONAR20 链接读取，时间是 2026年10月28日的黑色星期五活动期间；按国家和货币可能有所不同。月价是预付总额除以 48："
       ],
       "comparisonTable": {
         "headers": [
           "套餐",
-          "用推荐链接（每月）",
+          "用 SONAR20（每月）",
           "48 个月总价",
           "续费",
           "AI 额度"
@@ -219,8 +219,8 @@
         "实际算下来："
       ],
       "bullets": [
-        "**Premium，用推荐链接：** 48 × US$ 1.99 = **US$ 95.52**。**之后 48 个月的续费：** 48 × US$ 10.99 = US$ 527.52。",
-        "**Unlimited，用推荐链接：** 48 × US$ 2.79 = **US$ 133.92**。**续费：** 48 × US$ 16.99 = US$ 815.52。",
+        "**Premium，用 SONAR20：** 48 × US$ 1.99 = **US$ 95.52**。**之后 48 个月的续费：** 48 × US$ 10.99 = US$ 527.52。",
+        "**Unlimited，用 SONAR20：** 48 × US$ 2.79 = **US$ 133.92**。**续费：** 48 × US$ 16.99 = US$ 815.52。",
         "**AI 额度是一次性赠送**，不是每月发放。用完就要充值，而充值价格页面上没有：指望它之前，先到控制面板确认。表里的额度数是 2026年10月28日套餐页面显示的数值，黑色星期五期间翻倍。"
       ],
       "emphasis": "续费价是促销价的 4 到 6 倍。选套餐之前先看续费那一列。"
@@ -240,9 +240,9 @@
       ]
     },
     {
-      "heading": "推荐链接与链接价格",
+      "heading": "SONAR20 与价格",
       "paragraphs": [
-        "推荐链接会直接套用折扣，没有要输入的代码。**20% 只在首期**，限 12 个月以上的套餐，而且**不能与其他优惠券叠加**。续费按正常价格。2026年10月28日，AI Builder 页面上各套餐已套用推荐，显示的就是上表“用推荐链接”那一列的价格。完整规则和其他产品见[Hostinger 优惠页](/zh-hans/coupons/hostinger)。",
+        "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入：20% 只在首个周期，月付或年付的套餐都可以，新老客户都适用。我们没有测试续费，请在购物车确认续费价格。2026年10月28日，通过链接打开的 AI Builder 页面上各套餐已套用折扣，显示的就是上表“用 SONAR20”那一列的价格。完整规则和其他产品见[Hostinger 优惠页](/zh-hans/coupons/hostinger)。",
         "Hostinger 正在黑色星期五活动中，页面上没有结束日期，价格和翻倍的额度都可能变。付款前在购物车里核对金额。"
       ]
     },
@@ -262,8 +262,8 @@
         "用 AI Builder 需要会编程吗？不需要。页面说两种模式都不要求技术知识。会编程的人在 AI 模式里有一个代码编辑器。",
         "能从 AI Builder 迁到别的主机吗？页面说源代码可以导出，到别处托管。带数据库和登录的内置后端留在 Hostinger，所以应用在外面需要重新配置。",
         "AI Builder 适合开网店吗？小店可以：网店是 Unlimited 和 Cloud Startup 套餐的项目。有运费和支付规则的大店，WordPress 加 WooCommerce 控制更多。",
-        "2026 年 Hostinger Horizons 多少钱？AI Builder 包含在网站主机套餐里。2026年10月28日国际站上，Premium 用推荐链接是 48 个月套餐每月 US$ 1.99，续费 US$ 10.99/月；Unlimited 每月 US$ 2.79，续费 US$ 16.99/月。",
-        "Hostinger 的 AI Builder 有优惠券吗？没有要输入的代码。20% 的折扣通过推荐链接获得，只在首期、限 12 个月以上的套餐，不能与其他优惠券叠加。"
+        "2026 年 Hostinger Horizons 多少钱？AI Builder 包含在网站主机套餐里。2026年10月28日国际站上，用 SONAR20 的 Premium 是 48 个月套餐每月 US$ 1.99，续费 US$ 10.99/月；Unlimited 每月 US$ 2.79，续费 US$ 16.99/月。",
+        "Hostinger 的 AI Builder 有优惠码吗？有：SONAR20 在首个周期享 20% 折扣，月付或年付的套餐均可，新老客户都适用。我们没有测试续费，请在购物车确认续费价格。"
       ]
     },
     {
@@ -276,18 +276,18 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "推荐代码已经在链接里：20% 只在首期，限 12 个月以上的套餐，不能与其他优惠券叠加。",
-    "label": "通过推荐链接查看套餐",
+    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+    "label": "通过 SONAR20 查看套餐",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "通过推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。团队中没有人用过 AI Builder。",
+  "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你无需额外付费。团队中没有人用过 AI Builder。",
   "relatedArticles": [
     {
       "slug": "hostinger-referral-code-zh-hans",
-      "title": "Hostinger 优惠券不用找：推荐链接能拿到什么"
+      "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
     },
     {
       "slug": "hostinger-trust-guide-zh-hans",
@@ -295,7 +295,7 @@
     },
     {
       "slug": "hostinger-black-friday-zh-hans",
-      "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？"
+      "title": "2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%"
     }
   ],
   "hideFromPortugueseListings": true

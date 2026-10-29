@@ -117,7 +117,7 @@
     {
       "heading": "Die VPS-Tarife: KVM 1 bis 8",
       "paragraphs": [
-        "Die vier KVM-Tarife unterscheiden sich nur in der Größe. Daten von der VPS-Seite von Hostinger, gelesen am 28.10.2026; Monatspreis des 24-Monats-Tarifs mit angewendetem Empfehlungslink, die Verlängerung daneben. Es sind die Dollarpreise der internationalen Website, aufgerufen über den Empfehlungslink; je nach Land und Währung können sie abweichen."
+        "Die vier KVM-Tarife unterscheiden sich nur in der Größe. Daten von der VPS-Seite von Hostinger, gelesen am 28.10.2026; Monatspreis des 24-Monats-Tarifs über den Link, die Verlängerung daneben. Es sind die Dollarpreise der internationalen Website; je nach Land und Währung können sie abweichen. Den Code SONAR20 haben wir auf VPS nicht getestet."
       ],
       "comparisonTable": {
         "headers": [
@@ -125,7 +125,7 @@
           "vCPU",
           "RAM",
           "Speicher",
-          "Mit Empfehlung",
+          "Mit SONAR20",
           "Verlängerung"
         ],
         "rows": [
@@ -165,7 +165,7 @@
       },
       "postParagraphs": [
         "Für eine normale Website, die einen VPS braucht, ist der KVM 1 der Einstieg: 4 GB RAM reichen für ein WordPress oder ein kleines System. Der KVM 2 kommt ins Spiel, wenn Sie mehr als ein Programm auf derselben Maschine betreiben. KVM 4 und 8 sind für größere Systeme, große Datenbanken oder mehrere Anwendungen.",
-        "Die durchgestrichenen Normalpreise auf der Seite liegen bei 19,49, 24,49, 42,99 und 73,99 USD pro Monat (Black-Friday-Aktion). Mit dem Link gelten die 20 % **nur im ersten Zeitraum** und **lassen sich nicht mit anderen Rabattcodes kombinieren**. Die Verlängerung ist in beiden Fällen gleich."
+        "Die durchgestrichenen Normalpreise auf der Seite liegen bei 19,49, 24,49, 42,99 und 73,99 USD pro Monat (Black-Friday-Aktion). Mit dem Code SONAR20 gelten die 20 % im ersten Zeitraum; die Verlängerung haben wir nicht getestet."
       ]
     },
     {
@@ -188,12 +188,12 @@
     {
       "heading": "Preis und Verlängerung: die echte Rechnung",
       "paragraphs": [
-        "Shared Hosting wird in 48-Monats-Tarifen verkauft, der VPS in 24 Monaten. Beide berechnen den gesamten Zeitraum auf einmal. Dollarpreise der internationalen Website, gelesen am 28.10.2026 mit angewendetem Empfehlungslink, die Verlängerung daneben:"
+        "Shared Hosting wird in 48-Monats-Tarifen verkauft, der VPS in 24 Monaten. Beide berechnen den gesamten Zeitraum auf einmal. Dollarpreise der internationalen Website, gelesen am 28.10.2026 über den Link, die Verlängerung daneben:"
       ],
       "comparisonTable": {
         "headers": [
           "Tarif",
-          "Mit Empfehlung",
+          "Mit SONAR20",
           "Gesamt für den Zeitraum",
           "Verlängerung"
         ],
@@ -232,7 +232,7 @@
       },
       "postParagraphs": [
         "Zwei Punkte verändern die Rechnung. Erstens: Der VPS KVM 1 kostet schon im ersten Zeitraum mehr als das Zweieinhalbfache des Premium pro Monat (5,19 gegenüber 1,99 USD); bei der Verlängerung schrumpft der Abstand (11,99 gegenüber 10,99 USD). Zweitens: Beim VPS gilt der Aktionspreis 24 Monate, beim Shared Hosting 48. Über vier Jahre kostet Premium 95,52 USD; der KVM 1 kostet 124,56 USD im ersten Zeitraum plus 287,76 USD für die Verlängerung (24 × 11,99 USD), also 412,32 USD.",
-        "Die Verlängerung ist standardmäßig aktiviert. Lesen Sie vor dem Kauf, [wie Hostinger abrechnet und verlängert](/de/reviews/ist-hostinger-serioes), und den [Black Friday bei Hostinger](/de/reviews/hostinger-black-friday-angebote) für den Vergleich zwischen Aktion und Link. Premium führt eine kostenlose Domain im ersten Jahr auf, als Bestandteil des Tarifs. Die Preise ändern sich mit den Aktionen: Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen, und die Bedingungen auf der [Hostinger-Seite hier auf der Website](/de/coupons/hostinger)."
+        "Die Verlängerung ist standardmäßig aktiviert. Lesen Sie vor dem Kauf, [wie Hostinger abrechnet und verlängert](/de/reviews/ist-hostinger-serioes), und den [Black Friday bei Hostinger](/de/reviews/hostinger-black-friday-angebote) für die Aktion und den Code SONAR20. Premium führt eine kostenlose Domain im ersten Jahr auf, als Bestandteil des Tarifs. Die Preise ändern sich mit den Aktionen: Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen, und die Bedingungen auf der [Hostinger-Seite hier auf der Website](/de/coupons/hostinger)."
       ]
     },
     {
@@ -256,7 +256,7 @@
         "Kann ich mit Shared Hosting anfangen und später auf einen VPS wechseln? Ja. Es sind verschiedene Produkte: Sie buchen den VPS, richten den Server ein und ziehen mit der Website um. Shared Hosting lässt sich nicht im Panel in einen VPS umwandeln.",
         "Muss ich Linux können, um einen VPS zu haben? Ja, die Grundlagen im Terminal: Programme installieren, das System aktualisieren und ein Log lesen. Im Shared Hosting läuft alles über das Panel, und ein Terminal ist nicht Pflicht.",
         "Läuft WordPress auf einem VPS? Ja, aber Sie installieren und pflegen Webserver, PHP und Datenbank selbst. Im Shared Hosting liegt WordPress fertig im Panel, und Hostinger betreut den Server.",
-        "Was kostet der VPS von Hostinger? Am 28.10.2026 kostet der KVM 1 auf der internationalen Website 5,19 USD pro Monat mit dem Empfehlungslink, im 24-Monats-Tarif (124,56 USD insgesamt), und verlängert sich zu 11,99 USD pro Monat. Die 20 % gelten nur im ersten Zeitraum und lassen sich nicht mit anderen Rabattcodes kombinieren."
+        "Was kostet der VPS von Hostinger? Am 28.10.2026 kostet der KVM 1 auf der internationalen Website 5,19 USD pro Monat über den Link, im 24-Monats-Tarif (124,56 USD insgesamt), und verlängert sich laut Preisseite zu 11,99 USD pro Monat. Die 20 % des Codes SONAR20 gelten im ersten Zeitraum; für VPS haben wir den Code nicht getestet, prüfen Sie den Betrag im Warenkorb."
       ]
     },
     {
@@ -269,14 +269,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Der Empfehlungscode steckt schon im Link: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen ab 12 Monaten, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
-    "label": "Die Tarife mit Empfehlungslink ansehen",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Prüfen Sie den VPS-Preis im Warenkorb, bevor Sie zahlen.",
+    "label": "Die Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie. Wir haben keinen VPS getestet.",
+  "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Wir haben keinen VPS getestet.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-verwaltet-oder-vps",
@@ -288,7 +288,7 @@
     },
     {
       "slug": "hostinger-black-friday-angebote",
-      "title": "Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?"
+      "title": "Hostinger Black Friday 2026: SONAR20 zieht 20 % vom Aktionspreis ab"
     }
   ]
 }

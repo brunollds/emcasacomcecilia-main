@@ -117,7 +117,7 @@
     {
       "heading": "Les forfaits VPS : KVM 1 à 8",
       "paragraphs": [
-        "Les quatre forfaits KVM ne changent que de taille. Specs relevées sur la page VPS de Hostinger le 28 octobre 2026. Les prix sont ceux du site international, en dollars américains, pour des forfaits de 24 mois avec le lien de parrainage appliqué, renouvellement à côté ; dans votre pays, Hostinger peut afficher une autre devise et d'autres taxes, vérifiez donc le panier avant de payer."
+        "Les quatre forfaits KVM ne changent que de taille. Specs relevées sur la page VPS de Hostinger le 28 octobre 2026. Les prix sont ceux du site international, en dollars américains, pour des forfaits de 24 mois, relevés sur la page du lien de parrainage, renouvellement à côté. Nous n'avons pas testé le code sur le VPS. Dans votre pays, Hostinger peut afficher une autre devise et d'autres taxes, vérifiez donc le panier avant de payer."
       ],
       "comparisonTable": {
         "headers": [
@@ -125,7 +125,7 @@
           "vCPU",
           "RAM",
           "Disque",
-          "Avec le parrainage",
+          "Avec le SONAR20",
           "Renouvellement"
         ],
         "rows": [
@@ -165,7 +165,7 @@
       },
       "postParagraphs": [
         "Pour un site ordinaire qui a vraiment besoin d'un VPS, le KVM 1 est le point de départ : 4 Go de RAM suffisent pour un WordPress ou un petit système. Le KVM 2 entre en jeu quand vous ferez tourner plus d'un programme sur la même machine. KVM 4 et 8 sont pour un système plus gros, une grande base de données ou plusieurs applications.",
-        "Avec le lien, les 20 % ne valent **que pour la première période** et **ne se cumulent pas avec d'autres codes promo** ; la page affiche déjà la réduction appliquée. Le renouvellement se fait au prix normal indiqué à côté de chaque forfait."
+        "Avec le code SONAR20, les 20 % valent **pour la première période**, sur un forfait mensuel ou annuel ; nous n'avons pas testé le VPS ni le renouvellement. Le prix de renouvellement affiché à côté de chaque forfait est celui de la page."
       ]
     },
     {
@@ -188,12 +188,12 @@
     {
       "heading": "Prix et renouvellement : la vraie facture",
       "paragraphs": [
-        "L'hébergement mutualisé se vend en forfait de 48 mois ; le VPS, en 24 mois. Les deux facturent toute la période d'un coup. Prix relevés le 28 octobre 2026, avec le lien de parrainage appliqué, renouvellement à côté :"
+        "L'hébergement mutualisé se vend en forfait de 48 mois ; le VPS, en 24 mois. Les deux facturent toute la période d'un coup. Prix relevés le 28 octobre 2026 sur la page du lien de parrainage, renouvellement à côté (nous n'avons pas testé le code sur ces forfaits) :"
       ],
       "comparisonTable": {
         "headers": [
           "Forfait",
-          "Avec le parrainage",
+          "Avec le SONAR20",
           "Total de la période",
           "Renouvellement"
         ],
@@ -232,7 +232,7 @@
       },
       "postParagraphs": [
         "Deux points changent la facture. Le premier : le KVM 1 coûte environ deux fois et demie le Premium par mois dès la première période (5,19 US$ contre 1,99 US$). Au renouvellement, les deux se rejoignent presque (11,99 US$ contre 10,99 US$), mais le second point pèse plus : sur le VPS, le prix promotionnel dure 24 mois ; en mutualisé, 48. Sur quatre ans, le Premium coûte 95,52 US$ ; le KVM 1, 124,56 US$ pour la première période plus 287,76 US$ au renouvellement (24 × 11,99 US$), soit 412,32 US$.",
-        "Le renouvellement est activé par défaut. Voyez [comment Hostinger facture et renouvelle](/fr/reviews/hostinger-est-il-fiable) avant de souscrire, et [la Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres) pour la comparaison entre la campagne et le lien. Le Premium liste un domaine gratuit la première année, comme élément du forfait. Les prix changent à chaque campagne : vérifiez le montant dans le panier avant de payer, et voyez les conditions sur [la page Hostinger ici sur le site](/fr/coupons/hostinger)."
+        "Le renouvellement est activé par défaut. Voyez [comment Hostinger facture et renouvelle](/fr/reviews/hostinger-est-il-fiable) avant de souscrire, et [la Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres) pour la campagne en cours. Le Premium liste un domaine gratuit la première année, comme élément du forfait. Les prix changent à chaque campagne : vérifiez le montant dans le panier avant de payer, et voyez les conditions sur [la page Hostinger ici sur le site](/fr/coupons/hostinger)."
       ]
     },
     {
@@ -256,7 +256,7 @@
         "Puis-je commencer en mutualisé et passer au VPS plus tard ? Oui. Ce sont des produits différents : vous souscrivez le VPS, installez le serveur et déplacez le site. L'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
         "Faut-il connaître Linux pour avoir un VPS ? Oui, les bases du terminal : installer des programmes, mettre à jour le système et lire un journal. En mutualisé, tout passe par le panneau et aucun terminal n'est obligatoire.",
         "Un VPS peut-il faire tourner WordPress ? Oui, mais vous installez et entretenez le serveur web, PHP et la base de données. En mutualisé, WordPress est prêt dans le panneau et Hostinger s'occupe du serveur.",
-        "Combien coûte le VPS de Hostinger ? Le 28 octobre 2026, le KVM 1 était à 5,19 US$/mois avec le lien de parrainage, en forfait de 24 mois, et se renouvelle à 11,99 US$/mois, sur le site international en dollars. Les 20 % ne valent que pour la première période et ne se cumulent pas avec d'autres codes promo."
+        "Combien coûte le VPS de Hostinger ? Le 28 octobre 2026, le KVM 1 était à 5,19 US$/mois sur la page du lien de parrainage, en forfait de 24 mois, et se renouvelle à 11,99 US$/mois, sur le site international en dollars. Nous n'avons pas testé le code sur le VPS : confirmez le montant dans le panier."
       ]
     },
     {
@@ -269,14 +269,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Le code de parrainage est déjà dans le lien : les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo.",
-    "label": "Voir les forfaits avec le lien de parrainage",
+    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le VPS ni le renouvellement.",
+    "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Les achats faits par le lien de parrainage peuvent donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous. Nous n'avons pas testé de VPS.",
+  "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Nous n'avons pas testé de VPS.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-gere-ou-vps",
@@ -288,7 +288,7 @@
     },
     {
       "slug": "black-friday-hostinger-offres",
-      "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+      "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
     }
   ]
 }

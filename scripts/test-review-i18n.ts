@@ -90,6 +90,31 @@ function sheinLinkProblems(review: ReviewSource): string[] {
   return problems;
 }
 
+// Hostinger: desde 29/10/2026 o desconto é o cupom SONAR20 (ou o link). O código antigo de indicação
+// não volta a nenhum artigo, e os artigos da loja não dizem que não há cupom ou que o desconto vem só do link.
+const OLD_HOSTINGER_CODE = 'SONARDEOFERTAS';
+const HOSTINGER_NO_COUPON: Record<Locale, RegExp> = {
+  pt: /não (há|tem) código|sem código para digitar|não precisa de cupom|não é preciso cupom|nada para digitar|já (vai|está) no link/i,
+  en: /no code to (type|enter)|don't need (a|one|any) coupon|no coupon (is )?needed|nothing to type|already in the link/i,
+  es: /no (hay|tiene) código que escribir|no necesitas (un )?cupón|nada que escribir|ya (va|está) en el enlace/i,
+  fr: /pas de code à saisir|pas besoin de code promo|rien à saisir|déjà dans le lien/i,
+  de: /keinen code zum eintippen|brauchen keinen gutschein|nichts einzutippen|(bereits|schon) im link/i,
+  it: /(non ha un|nessun) codice da digitare|non serve (nessun )?coupon|niente da digitare|già nel link/i,
+  ja: /入力するコードがなく|クーポンは(必要ありません|不要)|(すでに)?リンクに含まれて/,
+  ko: /입력할 코드가 없|쿠폰은 필요 없|(이미 )?링크에 들어 있/,
+  'zh-hans': /不需要优惠券|没有需要输入的代码|(已经)?(包含)?在链接(中|里)/,
+  'zh-hant': /不需要優惠券|沒有需要輸入的代碼|(已經)?(包含)?在連結(中|裡)/,
+};
+
+function hostingerCopyProblems(review: ReviewSource): string[] {
+  const text = JSON.stringify(review);
+  const problems = text.includes(OLD_HOSTINGER_CODE) ? [`código antigo ${OLD_HOSTINGER_CODE}`] : [];
+  if (review.affiliate !== 'hostinger') return problems;
+  const match = text.match(HOSTINGER_NO_COUPON[resolveReviewLocale(review.locale)]);
+  if (match) problems.push(`frase de "sem cupom" ou "só no link": ${match[0]}`);
+  return problems;
+}
+
 // O rótulo do código nos artigos usa o termo que a página da loja já usa em cada idioma, e fora do
 // PT diz que o 4CW5Y é da SHEIN Brasil.
 const REFERRAL_TERM: Record<Locale, string> = {
@@ -410,6 +435,38 @@ const storeReferralLabel = (locale: Locale) =>
   for (const review of reviews) {
     assert.deepEqual(sheinLinkProblems(review), [], `${review.slug}: versão fora do PT com link ou CTA da SHEIN Brasil`);
   }
+
+  for (const review of reviews) {
+    assert.deepEqual(hostingerCopyProblems(review), [], `${review.slug}: texto do tempo da indicação sem cupom da Hostinger`);
+  }
+  const hostingerFixture = (locale: Locale, text: string): ReviewSource => ({
+    slug: 'hostinger-fixture',
+    locale,
+    affiliate: 'hostinger',
+    contentSections: [{ heading: 'x', bullets: [text] }],
+  });
+  const oldHostingerCopy: Record<Locale, string> = {
+    pt: 'Não precisa de cupom: o desconto já está no link.',
+    en: "You don't need a Hostinger coupon: there is no code to type.",
+    es: 'No necesitas cupón: el descuento ya está en el enlace.',
+    fr: "Pas besoin de code promo : l'offre n'a pas de code à saisir.",
+    de: 'Sie brauchen keinen Gutschein: der Rabatt steckt bereits im Link.',
+    it: 'Non serve nessun coupon: non ha un codice da digitare.',
+    ja: 'Hostingerのクーポンは必要ありません。',
+    ko: 'Hostinger 쿠폰은 필요 없습니다.',
+    'zh-hans': '不需要优惠券，折扣已经包含在链接中。',
+    'zh-hant': '不需要優惠券，折扣已經包含在連結中。',
+  };
+  for (const [locale, text] of Object.entries(oldHostingerCopy) as [Locale, string][]) {
+    assert.equal(hostingerCopyProblems(hostingerFixture(locale, text)).length, 1, `${locale}: frase antiga da Hostinger falha`);
+    assert.deepEqual(hostingerCopyProblems({ ...hostingerFixture(locale, text), affiliate: 'yesstyle' }), [], `${locale}: a frase só é cobrada nos artigos da Hostinger`);
+  }
+  assert.equal(
+    hostingerCopyProblems({ slug: 'x', affiliate: 'yesstyle', cta: { url: 'https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS' } }).length,
+    1,
+    'o código antigo falha em qualquer artigo'
+  );
+  assert.deepEqual(hostingerCopyProblems(hostingerFixture('pt', 'Use o código SONAR20 no campo de cupom do carrinho.')), [], 'o texto novo passa');
 
   // Ainda não há artigo da SHEIN no corpus: o guarda acima é provado em fixtures que falham e uma que passa.
   const neutralSheinUrl = getLocalizedCoupon('shein', 'en')?.offerUrl ?? '';

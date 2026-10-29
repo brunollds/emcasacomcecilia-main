@@ -106,7 +106,7 @@
     {
       "heading": "Hostinger 的價格",
       "paragraphs": [
-        "以下是 Hostinger 國際站（美元）網域搜尋頁的價格，透過推薦連結進入，於 2026年10月28日黑色星期五活動期間讀取。價格可能因國家和貨幣而不同，請以購物車為準。第一年的低價需選擇 3 年期；續訂按年計，從已付期限結束後開始。"
+        "以下是 Hostinger 國際站（美元）網域搜尋頁的價格，於 2026年10月28日黑色星期五活動期間讀取。價格可能因國家和貨幣而不同，網域是否有 SONAR20 的 20%，請以購物車為準。第一年的低價需選擇 3 年期；續訂按年計，從已付期限結束後開始。"
       ],
       "comparisonTable": {
         "headers": [
@@ -175,7 +175,7 @@
         "在將來屬於你的帳戶裡購買，用你自己的電子郵件，並開著自動續訂。",
         "國家網域如果有一天想遷走，購買前先向 Hostinger 客服確認該後綴的轉移流程。",
         "如果網域是隨主機方案附帶的，記下第二年的續訂價：下單前就會顯示。",
-        "推薦折扣用在主機方案上，條款沒有把網域列為適用服務；付款前在購物車核對網域的金額。"
+        "用 SONAR20 前，先在購物車確認網域是否出現 20%；付款前核對網域的金額。"
       ]
     },
     {
@@ -188,9 +188,9 @@
       ]
     },
     {
-      "heading": "推薦連結與價格",
+      "heading": "SONAR20 與網域價格",
       "paragraphs": [
-        "推薦連結會直接在主機方案上套用折扣，沒有要輸入的代碼。20% 只適用於首期、12 個月以上的方案，且不能與其他優惠券疊加。條款沒有把網域列為適用服務，以購物車顯示的為準。完整規則見 [Hostinger 推薦計畫是怎麼運作的](/zh-hant/reviews/hostinger-referral-code-zh-hant)，方案見本站的 [Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+        "SONAR20 給首期 20%，月付或年付的主機方案都可以，新客戶和舊客戶都適用。網域單獨購買時，我們沒有核實它是否適用，請在購物車確認 20% 是否出現，以購物車顯示的為準。完整說明見 [Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍](/zh-hant/reviews/hostinger-referral-code-zh-hant)，方案見本站的 [Hostinger 優惠頁](/zh-hant/coupons/hostinger)。"
       ]
     },
     {
@@ -213,14 +213,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "推薦代碼已經在連結裡：20% 用在主機方案上，只限首期、12 個月以上的方案，不能與其他優惠券疊加。付款前請在購物車核對網域的金額。",
-    "label": "透過推薦連結查看方案",
+    "text": "在購物車輸入 SONAR20，或從本文連結進入：主機方案首期享 20%。網域的金額，付款前在購物車核對。",
+    "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "透過這個推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。",
+  "editorialNote": "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。",
   "relatedArticles": [
     {
       "slug": "hostinger-trust-guide-zh-hant",
@@ -228,11 +228,11 @@
     },
     {
       "slug": "hostinger-referral-code-zh-hant",
-      "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼"
+      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
     },
     {
       "slug": "hostinger-black-friday-zh-hant",
-      "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+      "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢"
     }
   ]
 }

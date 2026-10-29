@@ -31,7 +31,7 @@
     }
   ],
   "description": "OpenClaw 在 Hostinger：託管方案首期更便宜，VPS 則給你 root 與 Docker。2026年10月21日的美元價格，以及各自適合誰。",
-  "metaDescription": "Hostinger 上的 OpenClaw 選託管還是 VPS：含推薦連結與不含的價格、續訂、AI 額度、Telegram 與 WhatsApp，以及由誰負責伺服器。",
+  "metaDescription": "Hostinger 上的 OpenClaw 選託管還是 VPS：含 SONAR20 與不含的價格、續訂、AI 額度、Telegram 與 WhatsApp，以及由誰負責伺服器。",
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -77,12 +77,12 @@
         ],
         "rows": [
           [
-            "首期，不含推薦連結",
+            "首期，不含 SONAR20",
             "US$ 4.99/月",
             "US$ 6.49/月"
           ],
           [
-            "首期，含推薦連結",
+            "首期，含 SONAR20",
             "US$ 3.99/月",
             "結帳時確認（首期 20%）"
           ],
@@ -133,27 +133,27 @@
         "價格頁面以每月顯示，但 24 個月方案是一次付清的："
       ],
       "bullets": [
-        "**託管，含推薦連結：** 24 × US$ 3.99 = **US$ 95.76**。不含推薦連結則為 24 × US$ 4.99 = US$ 119.76。",
-        "**VPS KVM 1，不含推薦連結：** 24 × US$ 6.49 = **US$ 155.76**。含推薦連結的金額頁面未顯示，20% 會在結帳時體現。",
+        "**託管，含 SONAR20：** 24 × US$ 3.99 = **US$ 95.76**。不含 SONAR20 則為 24 × US$ 4.99 = US$ 119.76。",
+        "**VPS KVM 1，不含 SONAR20：** 24 × US$ 6.49 = **US$ 155.76**。含 SONAR20 的金額頁面未顯示，請在購物車確認。",
         "**續訂，之後的 24 個月（兩者相同）：** 24 × US$ 11.99 = US$ 287.76。"
       ],
       "postParagraphs": [
-        "不含推薦連結時，前 24 個月託管比 KVM 1 便宜 US$ 36。之後兩者價格相同。續訂預設是開啟的。付款與續訂的方式，可以看[Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。",
+        "不含 SONAR20 時，前 24 個月託管比 KVM 1 便宜 US$ 36。之後兩者價格相同。續訂預設是開啟的。付款與續訂的方式，可以看[Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。",
         "方案價格不是全部，AI 用量另外計費。如果使用 Hostinger 的額度，託管附有起始餘額，超過的部分依實際用量收費。加值的價格沒有公開在任何頁面上，所以在依賴它之前，請先在後台確認。如果使用自己的 API 金鑰，供應商（OpenAI、Anthropic 等）會依模型與對話量直接向你收費。",
         "託管方案有 30 天可以申請退款。VPS 方案的 30 天只在上一次 VPS 退款申請距今超過 180 天時才適用。"
       ]
     },
     {
-      "heading": "推薦連結與各方案價格",
+      "heading": "SONAR20 與各方案價格",
       "paragraphs": [
-        "推薦連結已經套用折扣，不需要輸入代碼。折扣**只適用於首個計費週期**，為 20%，適用於 12 個月以上的方案，且不能與其他優惠券疊加。續訂按標準價格計算。完整規則請見[Hostinger 優惠券不用找：推薦連結能拿到什麼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。",
+        "在購物車輸入 SONAR20，或從本文連結進入：**首個計費週期享 20%**，月付或年付都可以，新客戶和舊客戶都適用。我們沒有測試續訂，續訂價以購物車為準。完整說明請見[Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍](/zh-hant/reviews/hostinger-referral-code-zh-hant)。",
         "以下是 24 個月方案的全球價格（2026年10月21日讀取，美元計價）："
       ],
       "comparisonTable": {
         "headers": [
           "方案",
-          "不含推薦連結",
-          "含推薦連結",
+          "不含 SONAR20",
+          "含 SONAR20",
           "續訂"
         ],
         "rows": [
@@ -190,7 +190,7 @@
         ]
       },
       "postParagraphs": [
-        "這些是 Hostinger 全球頁面的價格。在你所在的國家，可能顯示其他貨幣與稅金，付款前請到購物車確認。活動期間價格也會變動，請先看[2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？](/zh-hant/reviews/hostinger-black-friday-zh-hant)，並以購物車裡的金額為準。"
+        "這些是 Hostinger 全球頁面的價格。在你所在的國家，可能顯示其他貨幣與稅金，付款前請到購物車確認。活動期間價格也會變動，請先看[Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢](/zh-hant/reviews/hostinger-black-friday-zh-hant)，並以購物車裡的金額為準。"
       ]
     },
     {
@@ -238,7 +238,7 @@
       ],
       "postParagraphs": [
         "**如果你符合以下情況，選 VPS：** 你想要 root 存取，並在同一台伺服器上跑網站或 n8n 等其他程式；你熟悉伺服器，或想學習，並願意自己更新與保護系統；或者你需要更多記憶體與硬碟。KVM 方案提供 4 GB 到 32 GB 的 RAM。",
-        "**拿不定主意，先從託管開始。** 以 2026年10月21日的價格計，不含推薦連結時前 24 個月比 KVM 1 便宜 US$ 36，含推薦連結則為每月 US$ 3.99，兩者續訂都是每月 US$ 11.99。它不需要伺服器知識，兩種方式的 AI 費用也相同。"
+        "**拿不定主意，先從託管開始。** 以 2026年10月21日的價格計，不含 SONAR20 時前 24 個月比 KVM 1 便宜 US$ 36，含 SONAR20 則為每月 US$ 3.99，兩者續訂都是每月 US$ 11.99。它不需要伺服器知識，兩種方式的 AI 費用也相同。"
       ]
     },
     {
@@ -246,39 +246,39 @@
       "bullets": [
         "OpenClaw 的託管方案值得買嗎？對於不想管理伺服器的人來說值得。截至2026年10月21日，首期比 VPS 便宜，續訂價格相同。想在伺服器上跑 root 與其他程式的人，VPS 比較適合。",
         "需要 OpenAI 或 Anthropic 帳戶嗎？不需要。兩種方式都能使用 Hostinger 的 AI 額度。只有想用自己的 API 金鑰時，才需要該供應商的帳戶。",
-        "OpenClaw 有 Hostinger 優惠券嗎？不需要輸入代碼。20% 折扣會透過推薦連結自動套用，只限首期，並且只適用於 12 個月以上的方案。",
-        "首期之後要付多少？託管與 KVM 1 為 US$ 11.99/月，KVM 2 為 US$ 14.99/月（依 2026年10月21日的價格）。推薦連結的折扣不會在續訂時重複套用。",
+        "OpenClaw 有 Hostinger 優惠碼嗎？有：在購物車輸入 SONAR20，首期享 20% 折扣，月付或年付都可以，新客戶和舊客戶都適用。",
+        "首期之後要付多少？託管與 KVM 1 為 US$ 11.99/月，KVM 2 為 US$ 14.99/月（依 2026年10月21日的價格）。我們沒有測試續訂時的折扣，請在購物車確認。",
         "託管方案能用於 Hermes Agent 或 Paperclip 嗎？可以。三者都在「AI 自動化應用」這同一方案中，價格也相同。Paperclip 的頁面沒有列出 AI 額度，所以請自備金鑰。"
       ]
     },
     {
       "heading": "如果你已經決定了",
       "paragraphs": [
-        "推薦連結已經套用折扣，不需要輸入代碼。20% 只適用於首期，限 12 個月以上的方案，且不能與其他優惠券疊加；續訂按標準價格計算。以 2026年10月21日讀取的 24 個月方案價格計，託管含推薦連結為每月 US$ 3.99，KVM 1 為每月 US$ 6.49（折扣在購物車中體現）；兩者續訂都是每月 US$ 11.99。付款前請在購物車確認金額。詳情請看[Hostinger 優惠券不用找：推薦連結能拿到什麼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，以及[網站上的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+        "SONAR20 給首期 20%，月付或年付都可以，新客戶和舊客戶都適用。我們沒有測試續訂，續訂價以購物車為準。以 2026年10月21日讀取的 24 個月方案價格計，託管含 SONAR20 為每月 US$ 3.99，KVM 1 為每月 US$ 6.49（折扣在購物車中體現）；兩者續訂都是每月 US$ 11.99。付款前請在購物車確認金額。詳情請看[Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍](/zh-hant/reviews/hostinger-referral-code-zh-hant)，以及[網站上的 Hostinger 優惠頁](/zh-hant/coupons/hostinger)。"
       ]
     },
     {
       "heading": "誰在寫這篇文章",
       "paragraphs": [
-        "Em Casa com Cecília 運行在 Hostinger 上，是一個 Node.js Web App。Bruno 從 2024 年起就是客戶，使用主機與一台 VPS KVM 2。團隊中沒有人使用 OpenClaw。本文是在 2026年10月21日閱讀 Hostinger 頁面與 OpenClaw 官方文件後整理的。透過推薦連結購買，可能會為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。"
+        "Em Casa com Cecília 運行在 Hostinger 上，是一個 Node.js Web App。Bruno 從 2024 年起就是客戶，使用主機與一台 VPS KVM 2。團隊中沒有人使用 OpenClaw。本文是在 2026年10月21日閱讀 Hostinger 頁面與 OpenClaw 官方文件後整理的。使用 SONAR20 優惠碼或本文連結購買，可能會為 Bruno 帶來佣金，對你沒有額外費用。"
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "推薦代碼已經在連結裡：20% 只適用於首期，限 12 個月以上的方案，不能與其他優惠券疊加。",
-    "label": "透過推薦連結查看方案",
+    "text": "在購物車輸入 SONAR20，或從本文連結進入：首期享 20%，月付或年付都可以。",
+    "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "透過這個推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。團隊中沒有人使用 OpenClaw。",
+  "editorialNote": "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。團隊中沒有人使用 OpenClaw。",
   "relatedArticles": [
     {
       "slug": "hostinger-referral-code-zh-hant",
-      "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼"
+      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
     },
     {
       "slug": "hostinger-trust-guide-zh-hant",
@@ -286,7 +286,7 @@
     },
     {
       "slug": "hostinger-black-friday-zh-hant",
-      "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+      "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢"
     }
   ]
 }

@@ -150,13 +150,13 @@
     {
       "heading": "要花多少錢",
       "paragraphs": [
-        "以下是 24 個月方案的價格，讀取日期為 2026年10月21日。託管是「AI 自動化應用」方案，OpenClaw、Hermes Agent 和 Paperclip 的託管版是同一個方案、同一個價格。推薦價只在託管方案的頁面上顯示，VPS 的 20% 要在結帳時看到。"
+        "以下是 24 個月方案的價格，讀取日期為 2026年10月21日。託管是「AI 自動化應用」方案，OpenClaw、Hermes Agent 和 Paperclip 的託管版是同一個方案、同一個價格。用 SONAR20 的價格只在託管方案的頁面上顯示，VPS 的 20% 要在結帳時看到。"
       ],
       "comparisonTable": {
         "headers": [
           "方案",
-          "不用推薦連結",
-          "用推薦連結",
+          "不用 SONAR20",
+          "用 SONAR20",
           "續約"
         ],
         "rows": [
@@ -195,20 +195,20 @@
       "postParagraphs": [
         "以上是 Hostinger 全球頁面上以美元計價的價格。在你所在的國家，可能會顯示其他貨幣和稅金。付款前請在結帳頁面確認金額。",
         "RAM 是伺服器的記憶體，vCPU 是處理器的核心。VPS 方案越大，記憶體和運算能力越多。我們讀過的頁面沒有列出 Paperclip 的最低記憶體需求。KVM 1 是起點，夠不夠用取決於你要運行多少個代理。",
-        "讀取價格的 2026年10月21日，Hostinger 正在進行黑色星期五活動，價格會有變動。請參考 [2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？](/zh-hant/reviews/hostinger-black-friday-zh-hant)，並在付款前於結帳頁面確認金額。"
+        "讀取價格的 2026年10月21日，Hostinger 正在進行黑色星期五活動，價格會有變動。請參考 [Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢](/zh-hant/reviews/hostinger-black-friday-zh-hant)，並在付款前於結帳頁面確認金額。"
       ]
     },
     {
-      "heading": "推薦連結",
+      "heading": "SONAR20 優惠",
       "paragraphs": [
-        "使用推薦連結不需要輸入代碼。**只有首期** 享有 **20%** 折扣。適用於 12 個月或以上的方案，不能與其他優惠券疊加。續約按正常價格計算。完整規則請看 [Hostinger 優惠券不用找：推薦連結能拿到什麼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+        "在購物車輸入 SONAR20，或從本文連結進入。**只有首期** 享有 **20%** 折扣，月付或年付都可以，新客戶和舊客戶都適用。我們沒有測試續約，請在購物車確認續約價。完整規則請看 [Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
       ]
     },
     {
       "heading": "開始的步驟，依順序",
       "bullets": [
         "**在自己的電腦上運行。** 官方 README 要求 Node.js 24.11 或更新版本。先在終端機輸入 node -v 確認版本，然後執行 npx paperclipai@latest onboard --yes。介面會在 http://localhost:3100 開啟，Postgres 資料庫會自動建立。沒有伺服器費用，但電腦關機時 Paperclip 也會停止。如果你訂閱了 Claude 或 Codex，README 也說明可以不用 API 金鑰，改用訂閱登入，前提是已安裝 Python 3 和供應商的程式。",
-        "**訂購託管方案。** 透過推薦連結，選擇 24 個月的「AI 自動化應用」方案。下單後，Hostinger 會準備實例和資料庫。進入面板，連接你的代理，並貼上你的 AI 金鑰。",
+        "**訂購託管方案。** 透過 SONAR20 或本文連結，選擇 24 個月的「AI 自動化應用」方案。下單後，Hostinger 會準備實例和資料庫。進入面板，連接你的代理，並貼上你的 AI 金鑰。",
         "**或訂購附 Docker 的 VPS。** 選擇一個 KVM 方案（最便宜的是 KVM 1），然後在應用程式清單中選擇 Paperclip。Hostinger 會一鍵安裝。在面板的 Docker Manager 中開啟 Paperclip，放入金鑰，並用按鈕更新版本。伺服器安全、密碼和系統更新仍然由你負責。"
       ]
     },
@@ -219,7 +219,7 @@
       ],
       "bullets": [
         "**先在自己的電腦上試。** 如果你還不確定一支代理團隊是否適合你，就從這裡開始。安裝只需一條指令，唯一的成本是 AI 供應商的收費。",
-        "**託管。** 如果你想不碰伺服器就在線上使用 Paperclip：推薦連結下每月 US$3.99，續約每月 US$11.99，資料庫、更新和備份都由 Hostinger 負責。",
+        "**託管。** 如果你想不碰伺服器就在線上使用 Paperclip：用 SONAR20 每月 US$3.99，續約每月 US$11.99，資料庫、更新和備份都由 Hostinger 負責。",
         "**VPS。** 如果你需要 root 權限、同一台伺服器上的其他程式，或者由自己掌控資料庫：KVM 1 折前每月 US$6.49 起，續約每月 US$11.99。伺服器安全和更新由你負責。",
         "**只要一個代理，不要團隊。** 如果你只想要一個助理，例如在 Telegram 或 WhatsApp 上使用，可以參考 [OpenClaw 在 Hostinger：託管還是 VPS？價格、要做什麼，以及適合誰](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)，以及比較兩款單一代理的 [OpenClaw 還是 Hermes Agent？怎麼選，以及在 Hostinger 上各自怎麼跑](/zh-hant/reviews/openclaw-vs-hermes-agent-zh-hant)。"
       ],
@@ -234,7 +234,7 @@
         "Paperclip 可靠嗎？ 無法給出定論。我們能確認的是：程式碼是公開的；儲存庫把 Paperclip 團隊（版權聲明中為 Paperclip Labs, Inc.）列為負責方；安全問題透過 GitHub 的官方管道回報。在 2026年10月21日讀過的資料來源中，沒有找到獨立稽核。",
         "需要 API 金鑰嗎？ 需要。在託管和 VPS 上，Paperclip 頁面要求你提供自己的金鑰。在電腦上運行時，README 也允許使用 Claude 或 Codex 的訂閱登入，不需要 API 金鑰。",
         "可以用 Ollama 運行嗎？ 要看你連接的代理。Paperclip 的 README 沒有提到 Ollama（一種在自己電腦上運行 AI 模型的程式）。OpenClaw 有文件說明支援本地模型，但在 Paperclip 中，模型取決於你連接的代理。",
-        "Paperclip 有可用的 Hostinger 優惠券嗎？ 沒有需要輸入的代碼。推薦連結會在 12 個月或以上方案的首期提供 20% 折扣，不能與其他優惠券疊加。"
+        "Paperclip 有可用的 Hostinger 優惠碼嗎？ 有：在購物車輸入 SONAR20，首期享 20% 折扣，月付或年付都可以，新客戶和舊客戶都適用。"
       ]
     },
     {
@@ -247,14 +247,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "推薦碼已經在連結裡：20% 只適用於首期，限 12 個月以上的方案，不能與其他優惠券疊加。",
-    "label": "透過推薦連結查看方案",
+    "text": "在購物車輸入 SONAR20，或從本文連結進入：首期享 20%，月付或年付都可以。",
+    "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "透過這個推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。團隊中沒有人使用 Paperclip。",
+  "editorialNote": "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。團隊中沒有人使用 Paperclip。",
   "relatedArticles": [
     {
       "slug": "openclaw-vs-hermes-agent-zh-hant",
@@ -266,7 +266,7 @@
     },
     {
       "slug": "hostinger-referral-code-zh-hant",
-      "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼"
+      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
     }
   ]
 }

@@ -182,12 +182,12 @@
     {
       "heading": "Prezzo e rinnovo al 28/10/2026",
       "paragraphs": [
-        "L'AI Builder non ha un piano proprio: è compreso nei piani di hosting per siti, da 48 mesi, pagati in anticipo. I prezzi qui sotto sono del sito internazionale di Hostinger, in dollari USA, letti il 28/10/2026 entrando dal link di invito, durante la campagna di Black Friday; la pagina mostrava «codice di invito applicato» su ogni piano. Nel tuo Paese Hostinger può mostrare un'altra valuta e delle tasse: conferma l'importo nel carrello."
+        "L'AI Builder non ha un piano proprio: è compreso nei piani di hosting per siti, da 48 mesi, pagati in anticipo. I prezzi qui sotto sono del sito internazionale di Hostinger, in dollari USA, letti il 28/10/2026 entrando dal link di questo articolo, durante la campagna di Black Friday; la colonna «Con il SONAR20» mostra il prezzo con il 20% applicato. Nel tuo Paese Hostinger può mostrare un'altra valuta e delle tasse: conferma l'importo nel carrello."
       ],
       "comparisonTable": {
         "headers": [
           "Piano",
-          "Con il link di invito",
+          "Con il SONAR20",
           "Totale per 48 mesi",
           "Rinnovo"
         ],
@@ -216,8 +216,8 @@
         "Il prezzo al mese è il totale diviso per 48. In pratica:"
       ],
       "bullets": [
-        "**Premium, con il link di invito:** 48 × 1,99 = **95,52 USD**. **Rinnovo, nei 48 mesi successivi:** 48 × 10,99 = 527,52 USD.",
-        "**Unlimited, con il link di invito:** 48 × 2,79 = **133,92 USD**. **Rinnovo:** 48 × 16,99 = 815,52 USD.",
+        "**Premium, con il SONAR20:** 48 × 1,99 = **95,52 USD**. **Rinnovo, nei 48 mesi successivi:** 48 × 10,99 = 527,52 USD.",
+        "**Unlimited, con il SONAR20:** 48 × 2,79 = **133,92 USD**. **Rinnovo:** 48 × 16,99 = 815,52 USD.",
         "**I crediti IA sono un regalo una tantum**, non mensile. La pagina internazionale del 28/10/2026 ne elencava 250 nel Premium, 500 nell'Unlimited e 1.000 nel Cloud Startup, raddoppiati durante la Black Friday. Finiti, si ricarica, e il prezzo della ricarica non compare sulla pagina: verificalo nel pannello prima di contarci."
       ],
       "emphasis": "Il rinnovo costa da 4 a 6 volte il prezzo promozionale. Guarda la colonna del rinnovo prima di scegliere il piano."
@@ -237,9 +237,9 @@
       ]
     },
     {
-      "heading": "Link di invito e prezzo con il link",
+      "heading": "Coupon SONAR20 e prezzo",
       "paragraphs": [
-        "Il link di invito applica già lo sconto: non c'è nessun codice da digitare. Dà **il 20% solo sul primo periodo**, su piani di 12 mesi o più, e lo sconto **non si somma ad altri coupon**. Il rinnovo costa il prezzo normale. Sulla pagina dell'AI Builder, il 28/10/2026, i piani comparivano con l'invito applicato, ai prezzi della colonna «con il link di invito» qui sopra. La regola completa e gli altri prodotti sono nella [pagina dei coupon Hostinger](/it/coupons/hostinger).",
+        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, in piano mensile o annuale, per cliente nuovo o già esistente. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello. Sulla pagina dell'AI Builder, il 28/10/2026, i piani comparivano con il 20% applicato, ai prezzi della colonna «Con il SONAR20» qui sopra. Come inserire il codice è spiegato in [Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina dei coupon Hostinger](/it/coupons/hostinger).",
         "Hostinger è in campagna di Black Friday, senza data di fine sulla pagina, e i prezzi e i crediti raddoppiati possono cambiare. Controlla l'importo nel carrello prima di pagare."
       ]
     },
@@ -259,8 +259,8 @@
         "Serve saper programmare per usare l'AI Builder? No. La pagina dice che non richiede competenze tecniche in nessuna delle due modalità. Chi sa programmare ha un editor di codice nella modalità con IA.",
         "Si può migrare dall'AI Builder a un altro hosting? La pagina dice che il codice sorgente si può esportare e ospitare altrove. Il back-end integrato, con database e login, resta su Hostinger, quindi un'app va riconfigurata fuori.",
         "L'AI Builder va bene per un negozio online? Per un piccolo negozio sì: il negozio online è una voce dei piani Unlimited e Cloud Startup. Per un negozio grande, con regole di spedizione e pagamento, WordPress con WooCommerce dà più controllo.",
-        "Quanto costa Horizons di Hostinger nel 2026? L'AI Builder è compreso nei piani di hosting. Il 28/10/2026, sul sito internazionale con il link di invito, il Premium costava 1,99 USD al mese per 48 mesi (95,52 USD in totale) e si rinnova a 10,99 USD al mese; l'Unlimited 2,79 USD al mese (133,92 USD) e si rinnova a 16,99 USD al mese.",
-        "C'è un coupon per l'AI Builder di Hostinger? Non c'è nessun codice da digitare. Lo sconto del 20% arriva dal link di invito, solo sul primo periodo e su piani di 12 mesi o più, e non si somma ad altri coupon."
+        "Quanto costa Horizons di Hostinger nel 2026? L'AI Builder è compreso nei piani di hosting. Il 28/10/2026, sul sito internazionale con il SONAR20 applicato, il Premium costava 1,99 USD al mese per 48 mesi (95,52 USD in totale) e si rinnova a 10,99 USD al mese; l'Unlimited 2,79 USD al mese (133,92 USD) e si rinnova a 16,99 USD al mese.",
+        "C'è un coupon per l'AI Builder di Hostinger? Sì: il codice SONAR20 dà il 20% sul primo periodo, in piano mensile o annuale, per cliente nuovo o già esistente. Non abbiamo testato il rinnovo con il codice."
       ]
     },
     {
@@ -273,18 +273,18 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Il codice di invito è già nel link: il 20% vale solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon.",
-    "label": "Vedi i piani con il link di invito",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+    "label": "Vedi i piani con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te. Nessuno del team ha usato l'AI Builder.",
+  "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team ha usato l'AI Builder.",
   "relatedArticles": [
     {
       "slug": "coupon-hostinger-codice-invito",
-      "title": "Coupon Hostinger: non serve, ecco cosa dà il link di invito"
+      "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
     },
     {
       "slug": "hostinger-e-affidabile",
@@ -292,7 +292,7 @@
     },
     {
       "slug": "black-friday-hostinger-offerte",
-      "title": "Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?"
+      "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna"
     }
   ]
 }

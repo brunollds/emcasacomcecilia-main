@@ -106,7 +106,7 @@
         ]
       },
       "postParagraphs": [
-        "Os preços são de 19/10/2026, dos planos de 48 meses. Na campanha, o total do Single em 48 meses é R$ 287,52; com os 20% do SONAR20, R$ 229,92. O desconto entra sobre o preço da campanha: num teste de 29/10/2026 no site global, o plano Startup de 48 meses passou de US$ 383,52 para US$ 306,82 com o SONAR20 no carrinho. Não lemos os preços de outros períodos, então não afirmamos nada sobre eles.",
+        "Os preços são de 19/10/2026, dos planos de 48 meses. Na campanha, o total do Single em 48 meses é R$ 287,52; com os 20% do SONAR20, R$ 229,92. O desconto entra sobre o preço da campanha: num teste de 29/10/2026 no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Não lemos os preços de outros períodos, então não afirmamos nada sobre eles.",
         "Onde colar o código e o que acontece com o desconto na renovação está em [Cupom Hostinger SONAR20](/reviews/cupom-hostinger-indicacao)."
       ]
     },
@@ -116,7 +116,7 @@
         "Se você precisa do site no ar esta semana, não espere. Nos planos de 48 meses que conferimos, a campanha com o SONAR20 já é o menor preço.",
         "Se pode esperar, saiba que a campanha vai até 14/12, mas nenhum preço fica garantido até lá. Os 20% do SONAR20 saem do preço da campanha: se a campanha mudar, o total muda junto.",
         "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. O Single é o plano que a página chama de ideal para quem está começando ou tem projetos simples. Para VPS, não temos conta: o banner diz até 70%, mas não lemos o preço do VPS nem com nem sem o cupom.",
-        "Quem já é cliente entra em outra conta. A FAQ diz que clientes atuais podem receber ofertas separadas de upgrade e venda cruzada. O SONAR20 vale também para quem já é cliente, num plano novo; a renovação sai pelo preço normal. O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
+        "Quem já é cliente entra em outra conta. A FAQ diz que clientes atuais podem receber ofertas separadas de upgrade e venda cruzada. Pela regra da parceria, o SONAR20 vale também para quem já é cliente, num plano novo. O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
       ]
     },
     {
@@ -129,15 +129,6 @@
       ],
       "postParagraphs": [
         "Antes de pagar, o histórico de reclamações da empresa está em [Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao), e o que a garantia cobre e o que fica de fora está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/hostinger/black-friday-hostinger-campanha-x-link.webp",
-          "alt": "Barras com o preço por mês de 48 meses na campanha e com os 20% do SONAR20, nos planos Single, Premium, Unlimited e Cloud Startup",
-          "caption": "Preço por mês no plano de 48 meses, campanha e campanha com o SONAR20, em 19/10/2026. Quadro do Em Casa com Cecília.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
       ]
     },
     {

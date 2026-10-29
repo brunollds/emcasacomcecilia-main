@@ -149,13 +149,13 @@
     {
       "heading": "Quanto costa",
       "paragraphs": [
-        "Prezzi dei piani di 24 mesi, letti il 21/10/2026 sulla pagina globale di Hostinger, in dollari USA. Il gestito è il piano “AI automation apps”, con lo stesso prezzo per OpenClaw, Hermes Agent e Paperclip. La pagina mostrava il prezzo con il link di invito solo per il gestito; per il VPS, il 20% compare nel carrello."
+        "Prezzi dei piani di 24 mesi, letti il 21/10/2026 sulla pagina globale di Hostinger, in dollari USA. Il gestito è il piano “AI automation apps”, con lo stesso prezzo per OpenClaw, Hermes Agent e Paperclip. La pagina mostrava il prezzo con il SONAR20 solo per il gestito; per il VPS, il 20% compare nel carrello."
       ],
       "comparisonTable": {
         "headers": [
           "Piano",
-          "Senza link di invito",
-          "Con link di invito",
+          "Senza il SONAR20",
+          "Con il SONAR20",
           "Rinnovo"
         ],
         "rows": [
@@ -194,20 +194,20 @@
       "postParagraphs": [
         "Nel vostro Paese Hostinger può mostrare un'altra valuta e le tasse, quindi controllate l'importo nel carrello prima di pagare.",
         "RAM è la memoria del server, e vCPU è un core del processore. Più grande è il piano VPS, più memoria e potenza di calcolo ha. Nelle pagine lette Hostinger non indica un requisito minimo di memoria per Paperclip: il KVM 1 è il punto di partenza, e quanti agenti fate girare decide se basta.",
-        "Il 21/10/2026 Hostinger era in campagna di Black Friday, e i prezzi cambiano. Leggete [Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?](/it/reviews/black-friday-hostinger-offerte) e controllate l'importo nel carrello prima di pagare."
+        "Il 21/10/2026 Hostinger era in campagna di Black Friday, e i prezzi cambiano. Leggete [Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna](/it/reviews/black-friday-hostinger-offerte) e controllate l'importo nel carrello prima di pagare."
       ]
     },
     {
-      "heading": "Link di invito",
+      "heading": "Coupon SONAR20",
       "paragraphs": [
-        "Il link di invito applica già lo sconto e non c'è nessun codice da digitare. Il 20% vale solo sul primo periodo, per piani di 12 mesi o più, e non si somma ad altri coupon. Il rinnovo costa il prezzo pieno. La regola completa è spiegata in [Coupon Hostinger: non serve, ecco cosa dà il link di invito](/it/reviews/coupon-hostinger-codice-invito). Controllate l'importo nel carrello prima di pagare."
+        "Usate il codice **SONAR20** nel campo coupon del carrello, oppure entrate dal link di questo articolo: **20% sul primo periodo**, in piano mensile o annuale, per cliente nuovo o già esistente. Non abbiamo testato il rinnovo: controllate il prezzo nel carrello. Come inserirlo è spiegato in [Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre](/it/reviews/coupon-hostinger-codice-invito). Controllate l'importo nel carrello prima di pagare."
       ]
     },
     {
       "heading": "Come iniziare, in ordine",
       "bullets": [
         "**Farlo girare sul vostro computer.** Il README ufficiale chiede Node.js 24.11 o più recente. Controllate la versione con il comando node -v nel terminale, poi eseguite npx paperclipai@latest onboard --yes. L'interfaccia si apre su http://localhost:3100, e il database Postgres viene creato da solo. Non ci sono costi di server, ma Paperclip gira solo finché il computer è acceso. Se avete un abbonamento a Claude o a Codex, il README accetta anche di entrare con l'abbonamento, senza chiave API, con Python 3 e il programma del fornitore installati.",
-        "**Attivare il gestito.** Sottoscrivete il piano “AI automation apps” con 24 mesi, tramite il link di invito. Dopo l'acquisto, Hostinger prepara l'istanza e il database. Entrate nel pannello, collegate i vostri agenti e inserite le vostre chiavi IA.",
+        "**Attivare il gestito.** Sottoscrivete il piano “AI automation apps” con 24 mesi, con il codice SONAR20 nel carrello. Dopo l'acquisto, Hostinger prepara l'istanza e il database. Entrate nel pannello, collegate i vostri agenti e inserite le vostre chiavi IA.",
         "**Oppure attivare un VPS con Docker.** Scegliete un piano KVM (il KVM 1 è il più economico) e, nella lista delle applicazioni, Paperclip, che Hostinger installa con un clic. Dal Docker Manager del pannello aprite Paperclip, inserite le chiavi e aggiornate la versione con un pulsante. La sicurezza del server, le password e gli aggiornamenti di sistema restano a vostro carico."
       ]
     },
@@ -218,8 +218,8 @@
       ],
       "bullets": [
         "**Provatelo prima sul vostro computer** se non siete sicuri che una squadra di agenti faccia per voi. L'installazione è un solo comando, e l'unico costo è quello che addebitano i fornitori di IA.",
-        "**Gestito** se volete Paperclip online senza toccare un server: 3,99 USD al mese con il link di invito, 11,99 USD al mese al rinnovo, con database, aggiornamenti e backup a carico di Hostinger.",
-        "**VPS** se volete accesso root, altri programmi sullo stesso server o il database sotto il vostro controllo: KVM 1 da 6,49 USD al mese prima dello sconto, 11,99 USD al mese al rinnovo. Sicurezza e aggiornamenti del server sono vostri.",
+        "**Gestito** se volete Paperclip online senza toccare un server: 3,99 USD al mese con il SONAR20; il prezzo di rinnovo indicato dalla pagina è 11,99 USD al mese. Database, aggiornamenti e backup sono a carico di Hostinger.",
+        "**VPS** se volete accesso root, altri programmi sullo stesso server o il database sotto il vostro controllo: KVM 1 da 6,49 USD al mese prima dello sconto, con rinnovo indicato a 11,99 USD al mese. Sicurezza e aggiornamenti del server sono vostri.",
         "**Un agente singolo invece di una squadra** se volete solo un assistente, per esempio su Telegram o WhatsApp. Per questa scelta leggete [OpenClaw su Hostinger: gestito o VPS? Prezzo, cosa richiede ciascuno e a chi serve](/it/reviews/openclaw-hostinger-gestito-o-vps) e [OpenClaw o Hermes Agent: quale scegliere e come farli girare su Hostinger](/it/reviews/openclaw-o-hermes-agent-quale-scegliere), che confronta i due agenti singoli."
       ],
       "postParagraphs": [
@@ -233,7 +233,7 @@
         "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell'avviso di copyright) come responsabile e che le falle di sicurezza si segnalano su un canale ufficiale di GitHub. Nelle fonti lette il 21/10/2026 non abbiamo trovato un audit indipendente.",
         "Serve una chiave API? Sì. Nel gestito e nel VPS la pagina di Paperclip chiede di portare le proprie. Sul computer il README accetta anche l'abbonamento a Claude o Codex, senza chiave API.",
         "Funziona con Ollama? Dipende dall'agente che collegate. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta i modelli locali; in Paperclip il modello è a carico dell'agente che collegate.",
-        "Esiste un coupon Hostinger per Paperclip? Non c'è nessun codice da inserire. Il link di invito applica il 20% sul primo periodo di piani di 12 mesi o più, e lo sconto non si somma ad altri coupon."
+        "Esiste un coupon Hostinger per Paperclip? Sì: il codice SONAR20 dà il 20% sul primo periodo, in piano mensile o annuale, per cliente nuovo o già esistente. Non abbiamo testato il rinnovo."
       ]
     },
     {
@@ -246,14 +246,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Il codice di invito è già nel link: il 20% vale solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon.",
-    "label": "Vedi i piani con il link di invito",
+    "text": "Usate il codice SONAR20 nel campo coupon del carrello, oppure entrate dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controllate il prezzo nel carrello.",
+    "label": "Vedi i piani con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te. Nessuno del team usa Paperclip.",
+  "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team usa Paperclip.",
   "relatedArticles": [
     {
       "slug": "openclaw-o-hermes-agent-quale-scegliere",
@@ -265,7 +265,7 @@
     },
     {
       "slug": "coupon-hostinger-codice-invito",
-      "title": "Coupon Hostinger: non serve, ecco cosa dà il link di invito"
+      "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
     }
   ],
   "hideFromPortugueseListings": true

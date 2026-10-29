@@ -31,7 +31,7 @@
     }
   ],
   "description": "OpenClaw o Hermes Agent: canales, memoria, aprendizaje, licencia y costo real en Hostinger, con precios en dólares leídos el 21/10/2026.",
-  "metaDescription": "OpenClaw o Hermes Agent en Hostinger: cuál elegir, canales, memoria, modelos de IA y precio con y sin el enlace de referido, leídos el 21/10/2026.",
+  "metaDescription": "OpenClaw o Hermes Agent en Hostinger: cuál elegir, canales, memoria, modelos de IA y precio con y sin el SONAR20, leídos el 21/10/2026.",
   "publishedAt": "21 de octubre de 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -167,14 +167,14 @@
     {
       "heading": "Dónde ejecutarlo en Hostinger",
       "paragraphs": [
-        "Precios de planes de 24 meses de la página global de Hostinger, en dólares estadounidenses, leídos el 21/10/2026. El plan gestionado cubre OpenClaw y Hermes Agent al mismo precio. En los planes VPS, la página no mostró el precio con el enlace de referido; el 20 % aparece en el carrito. La campaña de Black Friday de Hostinger cambia los valores, y en tu país el sitio puede mostrar otra moneda e impuestos, así que confirma el precio en el carrito."
+        "Precios de planes de 24 meses de la página global de Hostinger, en dólares estadounidenses, leídos el 21/10/2026. El plan gestionado cubre OpenClaw y Hermes Agent al mismo precio. En los planes VPS, la página no mostró el precio con el SONAR20; el descuento se confirma en el carrito. La campaña de Black Friday de Hostinger cambia los valores, y en tu país el sitio puede mostrar otra moneda e impuestos, así que confirma el precio en el carrito."
       ],
       "comparisonTable": {
         "headers": [
           "Plan",
           "Servidor",
-          "Sin el enlace",
-          "Con el enlace",
+          "Sin el SONAR20",
+          "Con el SONAR20",
           "Renovación"
         ],
         "rows": [
@@ -189,28 +189,28 @@
             "VPS KVM 1",
             "1 vCPU, 4 GB de RAM, disco NVMe de 50 GB",
             "US$ 6,49/mes",
-            "Aparece en el carrito",
+            "Confirmar en el carrito",
             "US$ 11,99/mes"
           ],
           [
             "VPS KVM 2",
             "2 vCPU, 8 GB de RAM, disco NVMe de 100 GB",
             "US$ 8,79/mes",
-            "Aparece en el carrito",
+            "Confirmar en el carrito",
             "US$ 14,99/mes"
           ],
           [
             "VPS KVM 4",
             "4 vCPU, 16 GB de RAM, disco NVMe de 200 GB",
             "US$ 12,99/mes",
-            "Aparece en el carrito",
+            "Confirmar en el carrito",
             "US$ 28,99/mes"
           ],
           [
             "VPS KVM 8",
             "8 vCPU, 32 GB de RAM, disco NVMe de 400 GB",
             "US$ 25,99/mes",
-            "Aparece en el carrito",
+            "Confirmar en el carrito",
             "US$ 49,99/mes"
           ]
         ]
@@ -234,7 +234,7 @@
       "bullets": [
         "**Quieres muchos canales y una aplicación en el móvil:** OpenClaw. El README habla de más de 20 canales y trae aplicaciones nativas para móvil y ordenador, además de la Control UI en la web.",
         "**Quieres un agente que aprende con el uso:** Hermes Agent. Organiza su propia memoria, crea y mejora sus propias habilidades y busca en conversaciones antiguas.",
-        "**No quieres instalar ni cuidar un servidor:** el gestionado, con cualquiera de los dos. Hostinger lo instala y lo actualiza, a US$ 3,99/mes con el enlace de referido en un plan de 24 meses, leído el 21 de octubre de 2026.",
+        "**No quieres instalar ni cuidar un servidor:** el gestionado, con cualquiera de los dos. Hostinger lo instala y lo actualiza, a US$ 3,99/mes con el SONAR20 en un plan de 24 meses, leído el 21 de octubre de 2026.",
         "**Quieres acceso root y otros programas en el mismo servidor, como un sitio web o n8n:** el VPS, con cualquiera de los dos. Root es la cuenta de administrador, con control total del servidor. KVM 1, con 4 GB de RAM, es el punto de partida, a US$ 6,49/mes antes del descuento; un modelo de IA local necesita más memoria, como explica la guía del VPS."
       ],
       "postParagraphs": [
@@ -250,34 +250,34 @@
         "¿Hace falta saber programar? Para poner en marcha el gestionado, no: eliges los canales y pegas el token. En el VPS hace falta saber lo básico de servidores, como root, Docker y las actualizaciones. Programar solo hace falta si quieres modificar el código del proyecto.",
         "¿Es seguro? Depende de cómo lo uses. Las dos políticas de seguridad piden lo mismo: uso por una persona de confianza, sin exposición directa a internet y con revisión de lo que instalas de terceros.",
         "¿Cuál elegir si ya uso Claude Code? Claude Code es una herramienta para programar en la terminal y no reemplaza a ninguno de los dos. Los dos aceptan clave de Anthropic: OpenClaw lista a Anthropic entre sus proveedores, y el README de Hermes Agent incluye la clave de Anthropic entre los secretos. Si quieres un agente que aprende con el uso, Hermes Agent encaja mejor. Si quieres muchos canales y una app en el móvil, OpenClaw.",
-        "¿Hay un código de cupón de Hostinger para OpenClaw o Hermes Agent? No hay código que escribir. El 20 % llega por el enlace de referido, solo en el primer período, en planes de 12 meses o más, y no se suma a otros cupones."
+        "¿Hay un código de cupón de Hostinger para OpenClaw o Hermes Agent? Sí: el código SONAR20 da 20% en el primer período, en plan mensual o anual, para cliente nuevo o antiguo. Pégalo en el campo de cupón del carrito."
       ]
     },
     {
       "heading": "Si ya te decidiste",
       "paragraphs": [
-        "El enlace de referido ya aplica el descuento: no hay código que escribir. Da **20 % solo en el primer período**, en planes de 12 meses o más, y el descuento **no se suma a otros cupones**. La renovación se cobra al precio normal. En los planes de 24 meses consultados el 21 de octubre de 2026, el gestionado cuesta US$ 3,99/mes con el enlace, y KVM 1 y KVM 2 cuestan US$ 6,49 y US$ 8,79/mes antes del descuento, que aparece en el carrito. Revisa el importe en el carrito antes de pagar. La regla completa está en [cómo funciona el enlace de referido de Hostinger](/es/reviews/cupon-hostinger-codigo-de-referido), y [la página de Hostinger en el sitio](/es/coupons/hostinger) tiene las condiciones vigentes."
+        "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: **20% en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. No probamos la renovación; revisa el precio en el carrito. En los planes de 24 meses consultados el 21 de octubre de 2026, el gestionado cuesta US$ 3,99/mes con el SONAR20, y KVM 1 y KVM 2 cuestan US$ 6,49 y US$ 8,79/mes antes del descuento, que aparece en el carrito. Revisa el importe en el carrito antes de pagar. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido), y [la página de Hostinger en el sitio](/es/coupons/hostinger) tiene los planes vigentes."
       ]
     },
     {
       "heading": "Quién escribe",
       "paragraphs": [
         "Em Casa com Cecília funciona en Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con hosting y un VPS KVM 2. Nadie del equipo usa OpenClaw ni Hermes Agent.",
-        "Este texto reúne las páginas de Hostinger y las políticas y documentaciones oficiales de los dos proyectos, consultadas el 21/10/2026. La comparación entre los dos que publica OpenClaw la escribe el propio proyecto, y aparece con ese nombre en la columna de fuente de la tabla. Comprar con el enlace de referido puede darle a Bruno crédito con Hostinger, sin costo extra para ti."
+        "Este texto reúne las páginas de Hostinger y las políticas y documentaciones oficiales de los dos proyectos, consultadas el 21/10/2026. La comparación entre los dos que publica OpenClaw la escribe el propio proyecto, y aparece con ese nombre en la columna de fuente de la tabla. Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "El enlace de referido ya aplica el descuento: no tienes que escribir nada. Los 20 % valen solo para el primer período, en planes de 12 meses o más, y no se suman a otros códigos de descuento.",
-    "label": "Ver los planes con el enlace de referido",
+    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+    "label": "Ver los planes con el SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Las compras hechas con el enlace de referido pueden dar a Bruno un crédito en Hostinger, sin costo extra para ti. Nadie del equipo usa OpenClaw ni Hermes Agent.",
+  "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. Nadie del equipo usa OpenClaw ni Hermes Agent.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-gestionado-o-vps",

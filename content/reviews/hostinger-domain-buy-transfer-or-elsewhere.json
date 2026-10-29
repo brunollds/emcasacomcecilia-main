@@ -106,7 +106,7 @@
     {
       "heading": "What it costs at Hostinger",
       "paragraphs": [
-        "Prices from Hostinger's international domain page, in US dollars, read on October 28, 2026 through the referral link, during the Black Friday campaign; they can vary by country and currency, so check the page for your region. The low first-year price requires a 3-year term; renewal is per year, once the paid term ends."
+        "Prices from Hostinger's international domain page, in US dollars, read on October 28, 2026, during the Black Friday campaign; they can vary by country and currency, so check the page for your region. The low first-year price requires a 3-year term; renewal is per year, once the paid term ends."
       ],
       "comparisonTable": {
         "headers": [
@@ -169,7 +169,7 @@
         "Buy it in the account that will be yours, with your own email and auto-renewal on.",
         "For a country extension, check its own transfer procedure in Hostinger's support before buying, if you may want to leave one day.",
         "If the domain came with the hosting plan, note the second-year renewal price: it shows before you buy.",
-        "The referral discount applies to the hosting plan, and the terms do not list domains among the eligible services; check the domain price in the cart before paying."
+        "The SONAR20 code gives 20% on the hosting plan. On a domain on its own, check in the cart whether the 20% appears before you pay."
       ]
     },
     {
@@ -182,9 +182,9 @@
       ]
     },
     {
-      "heading": "Referral and the price with the link",
+      "heading": "SONAR20 and the price",
       "paragraphs": [
-        "The referral link applies the discount to the hosting plan on its own: there is no code to type. It is 20% off the first period only, on plans of 12 months or more, and it does not stack with other coupons. The terms do not list domains among the eligible services; what counts is what shows in the cart. The full rule is in [how Hostinger's referral works](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
+        "Use the code **SONAR20** in the coupon field of the cart, or come in through this article's link: **20% off the first period**, on a monthly or annual hosting plan, for new or existing customers. We have not tested renewal; check the renewal price in the cart. For a domain on its own, the price is the one in the cart: check whether the discount appears there before you pay. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
       ]
     },
     {
@@ -207,14 +207,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "The referral code is already in the link: the 20% applies to the hosting plan, only for the first period, on plans of 12 months or more, and does not stack with other coupons. Check the domain price in the cart before paying.",
-    "label": "See the plans with the referral link",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart. Check the domain price in the cart before paying.",
+    "label": "See plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Purchases through the referral link may give Bruno credit with Hostinger, at no extra cost to you.",
+  "editorialNote": "Purchases with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you.",
   "relatedArticles": [
     {
       "slug": "is-hostinger-legit",
@@ -222,11 +222,11 @@
     },
     {
       "slug": "hostinger-coupon-code-referral",
-      "title": "Hostinger coupon: you don't need one, and here is what the referral link gives"
+      "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
     },
     {
       "slug": "hostinger-black-friday",
-      "title": "Hostinger Black Friday 2026: the campaign or the referral link, which is cheaper?"
+      "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
     }
   ]
 }

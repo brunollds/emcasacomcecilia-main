@@ -100,7 +100,7 @@
     {
       "heading": "Quale piano KVM scegliere",
       "paragraphs": [
-        "KVM è il nome dei piani di server virtuale di Hostinger. La tabella riporta i quattro, con i prezzi dei piani di 24 mesi della pagina globale di Hostinger, in dollari USA, letti il 21/10/2026. La pagina non mostrava il prezzo con il link di invito: il 20% compare nel carrello. Segue la nostra lettura di ogni piano alla luce della documentazione; non abbiamo misurato le prestazioni."
+        "KVM è il nome dei piani di server virtuale di Hostinger. La tabella riporta i quattro, con i prezzi dei piani di 24 mesi della pagina globale di Hostinger, in dollari USA, letti il 21/10/2026. La pagina non mostrava il prezzo con il SONAR20: il 20% compare nel carrello. Segue la nostra lettura di ogni piano alla luce della documentazione; non abbiamo misurato le prestazioni."
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-it.webp",
@@ -113,7 +113,7 @@
           "vCPU (processore virtuale)",
           "RAM",
           "Disco NVMe",
-          "Primo periodo, senza link di invito",
+          "Primo periodo, senza il SONAR20",
           "Rinnovo"
         ],
         "rows": [
@@ -158,7 +158,7 @@
         "**KVM 8 (32 GB).** Ha senso solo con un modello locale più grande. La documentazione non dice quanta memoria richiede ogni ricetta grande."
       ],
       "postParagraphs": [
-        "Nel tuo paese Hostinger può mostrare un'altra valuta e altre tasse, quindi controlla il carrello prima di pagare. Il link di invito dà il 20% solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon; il rinnovo costa il prezzo normale. [Scopri come funziona il link di invito di Hostinger](/it/reviews/coupon-hostinger-codice-invito). Hostinger è in campagna Black Friday e i prezzi cambiano: [vedi la campagna](/it/reviews/black-friday-hostinger-offerte)."
+        "Nel tuo paese Hostinger può mostrare un'altra valuta e altre tasse, quindi controlla il carrello prima di pagare. Il codice SONAR20 dà il 20% sul primo periodo, in piano mensile o annuale, e non abbiamo testato il rinnovo: controlla il prezzo nel carrello. [Vedi come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito). Hostinger è in campagna Black Friday e i prezzi cambiano: [vedi la campagna](/it/reviews/black-friday-hostinger-offerte)."
       ]
     },
     {
@@ -176,7 +176,7 @@
           [
             "Vuoi l'assistente online senza toccare il server, con chiave API o crediti di Hostinger",
             "Gestito",
-            "Hostinger installa e mantiene l'assistente. Il 21/10/2026: 3,99 USD al mese con il link di invito, nel piano di 24 mesi"
+            "Hostinger installa e mantiene l'assistente. Il 21/10/2026: 3,99 USD al mese con il SONAR20, nel piano di 24 mesi"
           ],
           [
             "Vuoi accesso root e altri programmi sullo stesso server, come un sito o n8n",
@@ -225,9 +225,9 @@
         "La scelta del piano dipende da dove gira il modello IA e da quanto lavoro di server vuoi assumerti."
       ],
       "bullets": [
-        "Modello nel cloud, con la tua chiave API o i crediti di Hostinger: KVM 1, con 4 GB, come punto di partenza, a 6,49 USD al mese nel piano di 24 mesi prima dello sconto del link.",
+        "Modello nel cloud, con la tua chiave API o i crediti di Hostinger: KVM 1, con 4 GB, come punto di partenza, a 6,49 USD al mese nel piano di 24 mesi prima dello sconto del SONAR20.",
         "Modello locale: KVM 4, con 16 GB, il primo piano con margine sopra il minimo ufficiale di 8 GiB, a 12,99 USD al mese prima dello sconto. Il KVM 8, con 32 GB, ha senso solo con un modello locale più grande.",
-        "Se non vuoi occuparti di un server: l'opzione gestita, in cui Hostinger installa e aggiorna l'assistente, a 3,99 USD al mese con il link.",
+        "Se non vuoi occuparti di un server: l'opzione gestita, in cui Hostinger installa e aggiorna l'assistente, a 3,99 USD al mese con il SONAR20.",
         "Per provare senza pagare: Oracle Always Free, sapendo che Oracle può recuperare un'istanza inattiva."
       ]
     },
@@ -238,33 +238,33 @@
         "Si può usare senza chiave API? Sì, con un modello locale, ma allora la memoria diventa il problema: la documentazione indica 8 GiB come minimo per la ricetta locale più piccola, con contesto da 64K, e avverte che non garantisce né che il modello stia in memoria, né che giri bene. Con i crediti IA di Hostinger non ti serve un account presso un fornitore di IA, ma paghi in base all'uso.",
         "Oracle è davvero gratis? Sì, finché l'account resta nell'Always Free: 2 OCPU e 12 GB sulla A1 Arm, più le istanze Micro. Un'istanza inattiva per 7 giorni, con CPU, rete e memoria sotto il 20%, può essere recuperata da Oracle.",
         "Mac mini o VPS? Dipende dal fatto che il computer possa restare acceso 24 ore su 24. Se può, farlo girare a casa elimina il canone del server; se non può, scegli VPS o gestito.",
-        "Esiste un coupon Hostinger per il VPS di OpenClaw? Non c'è nessun codice da digitare. Il 20% arriva dal link di invito, solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon."
+        "Esiste un coupon Hostinger per il VPS di OpenClaw? Sì: il codice SONAR20 dà il 20% sul primo periodo, in piano mensile o annuale, e non abbiamo testato il rinnovo: controlla il prezzo nel carrello."
       ]
     },
     {
       "heading": "Se hai già deciso",
       "paragraphs": [
-        "Il link di invito applica già lo sconto: non c'è nessun codice da digitare. Il 20% vale solo per il primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon; il rinnovo costa il prezzo normale. Per i piani di 24 mesi letti il 21/10/2026, il gestito costa 3,99 USD al mese con il link, mentre KVM 1 e KVM 2 costano 6,49 e 8,79 USD al mese prima dello sconto, che compare nel carrello. Al rinnovo, gestito e KVM 1 passano a 11,99 USD al mese, e il KVM 2 a 14,99 USD al mese. Controlla l'importo nel carrello prima di pagare, perché il Black Friday cambia i prezzi. Leggi [come funziona il link di invito di Hostinger](/it/reviews/coupon-hostinger-codice-invito) e [la pagina Hostinger del nostro sito](/it/coupons/hostinger)."
+        "Il SONAR20 dà il 20% sul primo periodo, in piano mensile o annuale, per cliente nuovo o già esistente; non abbiamo testato il rinnovo: controlla il prezzo nel carrello. Per i piani di 24 mesi letti il 21/10/2026, il gestito costa 3,99 USD al mese con il codice, mentre KVM 1 e KVM 2 costano 6,49 e 8,79 USD al mese prima dello sconto, che compare nel carrello. Al rinnovo, gestito e KVM 1 passano a 11,99 USD al mese, e il KVM 2 a 14,99 USD al mese. Controlla l'importo nel carrello prima di pagare, perché il Black Friday cambia i prezzi. Leggi [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e [la pagina Hostinger del nostro sito](/it/coupons/hostinger)."
       ]
     },
     {
       "heading": "Chi scrive",
       "paragraphs": [
-        "Em Casa com Cecília gira su Hostinger, come Node.js Web App, e Bruno è cliente dal 2024, con hosting e un VPS KVM 2. Nessuno del team usa OpenClaw: questo testo riunisce ciò che dicono Hostinger, Oracle e la documentazione ufficiale di OpenClaw, lette il 21/10/2026. Gli acquisti fatti con il link di invito possono dare a Bruno un credito su Hostinger, senza costi extra per te."
+        "Em Casa com Cecília gira su Hostinger, come Node.js Web App, e Bruno è cliente dal 2024, con hosting e un VPS KVM 2. Nessuno del team usa OpenClaw: questo testo riunisce ciò che dicono Hostinger, Oracle e la documentazione ufficiale di OpenClaw, lette il 21/10/2026. Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Il codice di invito è già nel link: il 20% vale solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon.",
-    "label": "Vedi i piani con il link di invito",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+    "label": "Vedi i piani con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te. Nessuno del team usa OpenClaw.",
+  "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team usa OpenClaw.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-gestito-o-vps",
@@ -276,7 +276,7 @@
     },
     {
       "slug": "coupon-hostinger-codice-invito",
-      "title": "Coupon Hostinger: non serve, ecco cosa dà il link di invito"
+      "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
     }
   ],
   "hideFromPortugueseListings": true

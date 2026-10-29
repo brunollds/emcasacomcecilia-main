@@ -101,7 +101,7 @@
     {
       "heading": "该选哪个 KVM 套餐",
       "paragraphs": [
-        "KVM 是 Hostinger 虚拟服务器套餐的名称。表中有四个套餐，24 个月套餐的价格于 2026年10月21日从 Hostinger 全球页面读取，以美元计。页面没有显示推荐链接的价格，20% 优惠在购物车中显示。以下是我们对照文档对每个套餐的解读，我们没有测量性能。"
+        "KVM 是 Hostinger 虚拟服务器套餐的名称。表中有四个套餐，24 个月套餐的价格于 2026年10月21日从 Hostinger 全球页面读取，以美元计。页面没有显示套用 SONAR20 后的价格，20% 优惠在购物车中显示。以下是我们对照文档对每个套餐的解读，我们没有测量性能。"
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hans.webp",
@@ -114,7 +114,7 @@
           "vCPU（虚拟处理器）",
           "RAM",
           "NVMe 硬盘",
-          "首期（不用推荐链接）",
+          "首期（不用 SONAR20）",
           "续费"
         ],
         "rows": [
@@ -159,7 +159,7 @@
         "**KVM 8（32 GB）。** 只有运行更大的本地模型时才有意义。文档没有说明大型配方需要多少内存。"
       ],
       "postParagraphs": [
-        "Hostinger 可能会按你所在的国家显示其他货币和税费，付款前请在购物车确认。推荐链接只在 12 个月以上套餐的首个计费周期提供 20% 折扣，不能与其他优惠券叠加；续费按正常价格计算。请先看[Hostinger 推荐链接的运作方式](/zh-hans/reviews/hostinger-referral-code-zh-hans)。Hostinger 目前正在进行黑色星期五活动，价格可能会变动：[看活动内容](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
+        "Hostinger 可能会按你所在的国家显示其他货币和税费，付款前请在购物车确认。在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入：20% 只适用于首个计费周期，月付或年付都可以，新老客户都适用；我们没有测试续费，请在购物车确认续费价格。请先看[Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。Hostinger 目前正在进行黑色星期五活动，价格可能会变动：[看活动内容](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
       ]
     },
     {
@@ -177,7 +177,7 @@
           [
             "想让助理上线、不碰服务器，用 API 密钥或 Hostinger 额度",
             "托管",
-            "Hostinger 负责安装和维护。2026年10月21日，24 个月套餐、使用推荐链接为 US$ 3.99/月"
+            "Hostinger 负责安装和维护。2026年10月21日，24 个月套餐、使用 SONAR20 为 US$ 3.99/月"
           ],
           [
             "想要 root 权限，并在同一台服务器上运行网站或 n8n 等其他程序",
@@ -226,9 +226,9 @@
         "选套餐取决于 AI 模型在哪里运行，以及你愿意承担多少服务器工作。"
       ],
       "bullets": [
-        "模型在供应商那边，通过 API 密钥或 Hostinger 额度调用：以 4 GB 的 KVM 1 为起点，24 个月套餐在使用推荐链接之前为 US$ 6.49/月。",
+        "模型在供应商那边，通过 API 密钥或 Hostinger 额度调用：以 4 GB 的 KVM 1 为起点，24 个月套餐在使用 SONAR20 之前为 US$ 6.49/月。",
         "本地模型：高于官方 8 GiB 下限、有余量的第一个套餐是 16 GB 的 KVM 4，折扣前为 US$ 12.99/月。32 GB 的 KVM 8 只有在运行更大的本地模型时才有意义。",
-        "不想管理服务器：托管套餐，由 Hostinger 安装并更新助理，使用推荐链接为 US$ 3.99/月。",
+        "不想管理服务器：托管套餐，由 Hostinger 安装并更新助理，使用 SONAR20 为 US$ 3.99/月。",
         "免费试用：Oracle Always Free，但要知道 Oracle 可能会回收闲置实例。"
       ]
     },
@@ -239,33 +239,33 @@
         "没有 API 密钥也能用吗？可以用本地模型，但这时内存会成为问题。文档以 8 GiB 作为最小本地配方的下限（上下文 64K），并提醒这不保证模型放得下，也不保证运行良好。使用 Hostinger 的 AI 额度时，你不需要在 AI 供应商开户，但要为用量付费。",
         "Oracle Always Free 真的免费吗？是的，只要账户保持在 Always Free 范围内，包括 Arm A1 的 2 OCPU 和 12 GB，以及 Micro 实例。如果实例连续 7 天 CPU、网络和内存都低于 20%，Oracle 可能会回收它。",
         "Mac mini 还是 VPS？取决于电脑能不能 24 小时开着。如果能，在家运行就不需要服务器费用；如果不能，请选 VPS 或托管。",
-        "OpenClaw 的 VPS 有 Hostinger 优惠券吗？没有需要输入的代码。20% 通过推荐链接获得，只限首个计费周期、12 个月以上的套餐，且不能与其他优惠券叠加。"
+        "OpenClaw 的 VPS 有 Hostinger 优惠码吗？有：SONAR20 在首个计费周期享 20% 折扣，月付或年付都可以，新老客户都适用。我们没有测试续费，请在购物车确认续费价格。"
       ]
     },
     {
       "heading": "如果你已经决定了",
       "paragraphs": [
-        "推荐链接已经包含折扣，不需要输入任何代码。20% 只适用于 12 个月以上套餐的首个计费周期，不能与其他优惠券叠加；续费按正常价格计算。以 2026年10月21日读取的 24 个月套餐价格计：托管使用推荐链接为 US$ 3.99/月；KVM 1 和 KVM 2 折扣前分别为 US$ 6.49 和 US$ 8.79/月，折扣金额显示在购物车中。续费时，托管和 KVM 1 为 US$ 11.99/月，KVM 2 为 US$ 14.99/月。黑色星期五期间价格会变动，付款前请在购物车确认金额。请看[推荐链接的运作方式](/zh-hans/reviews/hostinger-referral-code-zh-hans)和 [Hostinger 在本站的页面](/zh-hans/coupons/hostinger)。"
+        "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入：20% 只适用于首个计费周期，月付或年付都可以，新老客户都适用；我们没有测试续费，请在购物车确认续费价格。以 2026年10月21日读取的 24 个月套餐价格计：托管用 SONAR20 为 US$ 3.99/月；KVM 1 和 KVM 2 折扣前分别为 US$ 6.49 和 US$ 8.79/月，折扣金额显示在购物车中。续费时，托管和 KVM 1 为 US$ 11.99/月，KVM 2 为 US$ 14.99/月。黑色星期五期间价格会变动，付款前请在购物车确认金额。请看[SONAR20 优惠码说明](/zh-hans/reviews/hostinger-referral-code-zh-hans)和 [Hostinger 在本站的页面](/zh-hans/coupons/hostinger)。"
       ]
     },
     {
       "heading": "谁在写这篇",
       "paragraphs": [
-        "Em Casa com Cecília 运行在 Hostinger 上，以 Node.js Web App 的形式运作。Bruno 自 2024 年起就是客户，使用主机服务和一台 VPS KVM 2。团队中没有人使用 OpenClaw。这篇文章汇总的是 Hostinger、Oracle 和 OpenClaw 官方文档在 2026年10月21日所说的内容。通过推荐链接购买，对你没有额外费用，但可能会为 Bruno 带来 Hostinger 的账户额度。"
+        "Em Casa com Cecília 运行在 Hostinger 上，以 Node.js Web App 的形式运作。Bruno 自 2024 年起就是客户，使用主机服务和一台 VPS KVM 2。团队中没有人使用 OpenClaw。这篇文章汇总的是 Hostinger、Oracle 和 OpenClaw 官方文档在 2026年10月21日所说的内容。使用 SONAR20 或通过本文链接购买，对你没有额外费用，但可能为 Bruno 带来佣金。"
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "推荐代码已经在链接里：20% 仅适用于首个计费周期，限 12 个月以上的套餐，不能与其他优惠券叠加。",
-    "label": "通过推荐链接查看套餐",
+    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+    "label": "通过 SONAR20 查看套餐",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "通过这个推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。团队中没有人使用 OpenClaw。",
+  "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，对你没有额外费用。团队中没有人使用 OpenClaw。",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
@@ -277,7 +277,7 @@
     },
     {
       "slug": "hostinger-referral-code-zh-hans",
-      "title": "Hostinger 优惠券不用找：推荐链接能拿到什么"
+      "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
     }
   ]
 }

@@ -117,7 +117,7 @@
     {
       "heading": "VPS 方案：KVM 1 到 KVM 8",
       "paragraphs": [
-        "四個 KVM 方案只是大小不同。規格於 2026年10月28日從 Hostinger 的 VPS 頁面讀取；價格是 24 個月方案、套用推薦連結後的月費，續訂價列在旁邊。"
+        "四個 KVM 方案只是大小不同。規格於 2026年10月28日從 Hostinger 的 VPS 頁面讀取；價格是 24 個月方案、套用 SONAR20 後的月費，續訂價列在旁邊。"
       ],
       "comparisonTable": {
         "headers": [
@@ -125,7 +125,7 @@
           "vCPU",
           "RAM",
           "硬碟",
-          "含推薦連結",
+          "含 SONAR20",
           "續訂"
         ],
         "rows": [
@@ -165,7 +165,7 @@
       },
       "postParagraphs": [
         "一般網站如果真的需要 VPS，KVM 1 是起點：4 GB 記憶體夠跑一個 WordPress 或一個小系統。要在同一台機器上跑不只一個程式時，才用到 KVM 2。KVM 4 與 KVM 8 面向更大的系統、大型資料庫或多個應用程式。",
-        "這些是透過推薦連結進入 Hostinger 國際站看到的美元價格（2026年10月28日，黑色星期五活動期間）。不同國家與貨幣可能不同，付款前請到購物車確認。連結的 20% **只適用於首期**，**不能與其他優惠券疊加**。續訂價用不用連結都一樣。"
+        "這些是套用 SONAR20 後看到的 Hostinger 國際站美元價格（2026年10月28日，黑色星期五活動期間）。不同國家與貨幣可能不同，付款前請到購物車確認。SONAR20 的 20% **只適用於首期**。續訂價我們沒有測試，請在購物車確認。"
       ]
     },
     {
@@ -188,12 +188,12 @@
     {
       "heading": "價格與續訂：真正的帳",
       "paragraphs": [
-        "共享主機以 48 個月方案販售，VPS 以 24 個月。兩者都是整個週期一次付清。2026年10月28日套用推薦連結讀取的美元價格，續訂價在旁邊："
+        "共享主機以 48 個月方案販售，VPS 以 24 個月。兩者都是整個週期一次付清。2026年10月28日套用 SONAR20 讀取的美元價格，續訂價在旁邊："
       ],
       "comparisonTable": {
         "headers": [
           "方案",
-          "含推薦連結",
+          "含 SONAR20",
           "週期總額",
           "續訂"
         ],
@@ -232,7 +232,7 @@
       },
       "postParagraphs": [
         "有兩點會改變這筆帳。第一，VPS KVM 1 從首期起每月就是 Premium 的兩倍半以上（US$ 5.19 對 US$ 1.99）；到了續訂兩者幾乎持平（US$ 11.99 對 US$ 10.99），VPS 仍然略貴。第二，VPS 的優惠價持續 24 個月，共享主機則是 48 個月。以四年計，Premium 是 US$ 95.52；KVM 1 是首期 US$ 124.56 加上續訂 US$ 287.76（24 × US$ 11.99），合計 US$ 412.32。",
-        "續訂預設是開啟的。下單前先看[Hostinger 如何收費與續訂](/zh-hant/reviews/hostinger-trust-guide-zh-hant)，活動與推薦連結的比較看[Hostinger 黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)。Premium 把首年免費網域列為方案項目。價格隨活動變動：付款前請核對購物車裡的金額，條件請看[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+        "續訂預設是開啟的。下單前先看[Hostinger 如何收費與續訂](/zh-hant/reviews/hostinger-trust-guide-zh-hant)，活動與 SONAR20 的比較看[Hostinger 黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)。Premium 把首年免費網域列為方案項目。價格隨活動變動：付款前請核對購物車裡的金額，條件請看[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
       ]
     },
     {
@@ -256,7 +256,7 @@
         "可以先用共享主機，之後再搬到 VPS 嗎？可以。兩者是不同的產品：你購買 VPS，裝好伺服器，再把網站搬過去。共享主機不能在面板裡直接轉成 VPS。",
         "用 VPS 需要懂 Linux 嗎？需要，至少是終端機的基礎：安裝程式、更新系統、看日誌。共享主機上一切都在面板裡，終端機不是必需的。",
         "VPS 能跑 WordPress 嗎？能，但 Web 伺服器、PHP 與資料庫要你自己安裝和維護。共享主機上 WordPress 在面板裡現成可用，伺服器由 Hostinger 照顧。",
-        "Hostinger 的 VPS 多少錢？2026年10月28日，KVM 1 用推薦連結、24 個月方案是 US$ 5.19/月，續訂 US$ 11.99/月。20% 只適用於首期，不能與其他優惠券疊加。"
+        "Hostinger 的 VPS 多少錢？2026年10月28日，KVM 1 用 SONAR20、24 個月方案是 US$ 5.19/月，續訂 US$ 11.99/月。20% 只適用於首期。"
       ]
     },
     {
@@ -269,14 +269,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "推薦代碼已經包含在連結裡：20% 折扣只適用於首期與 12 個月以上的方案，不能與其他優惠券疊加。",
-    "label": "用推薦連結查看方案",
+    "text": "在購物車輸入 SONAR20，或從本文連結進入：20% 折扣只適用於首期。",
+    "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "透過推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，你不用多付任何費用。我們沒有測試 VPS。",
+  "editorialNote": "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來佣金，你不用多付任何費用。我們沒有測試 VPS。",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
@@ -288,7 +288,7 @@
     },
     {
       "slug": "hostinger-black-friday-zh-hant",
-      "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+      "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢"
     }
   ]
 }

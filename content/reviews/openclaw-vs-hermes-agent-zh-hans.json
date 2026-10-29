@@ -31,7 +31,7 @@
     }
   ],
   "description": "比较 OpenClaw 与 Hermes Agent：聊天渠道、记忆、学习、许可、安全政策，以及在 Hostinger 上的实际花费。价格以美元计，于2026年10月21日查阅。",
-  "metaDescription": "OpenClaw 还是 Hermes Agent？在 Hostinger 上怎么选：聊天渠道、记忆、AI 模型、安全，以及含推荐链接与不含的价格，2026年10月21日时点比较。",
+  "metaDescription": "OpenClaw 还是 Hermes Agent？在 Hostinger 上怎么选：聊天渠道、记忆、AI 模型、安全，以及含 SONAR20 与不含的价格，2026年10月21日时点比较。",
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -178,7 +178,7 @@
         "**想要很多渠道与手机应用：** OpenClaw。README 写明支持超过 20 个渠道，并有手机与电脑的原生应用，另外还有网页版 Control UI。",
         "**想要一个会随使用而学习的代理：** Hermes Agent。它自己整理记忆，创建并改进技能，并搜索过去的对话。",
         "**想要 root，以及同一台服务器上的其他程序（例如网站或 n8n）：** VPS，两者都可以。Root 是管理员权限，能完全控制服务器。KVM 1（4 GB 内存）是起点，折扣前为 US$6.49/月；本地 AI 模型需要更多内存，VPS 指南对此有说明。",
-        "**不想安装也不想管服务器：** 两者都选托管。Hostinger 负责安装与更新；使用推荐链接的话，24 个月方案为 US$3.99/月（2026年10月21日查阅）。"
+        "**不想安装也不想管服务器：** 两者都选托管。Hostinger 负责安装与更新；使用 SONAR20 的话，24 个月方案为 US$3.99/月（2026年10月21日查阅）。"
       ],
       "postParagraphs": [
         "我们的判断：两个项目在调度器、子代理和渠道上有重叠，所以请按你真正会用的功能来挑。如果你并不需要会学习的代理，OpenClaw 是更全面的工具，界面更多，背后有非营利组织。如果学习循环正是你要的，那么两者之中只有 Hermes Agent 提供它。",
@@ -188,14 +188,14 @@
     {
       "heading": "在 Hostinger 上的运行方式与价格",
       "paragraphs": [
-        "以下是 Hostinger 全球页面的价格，采用美元计价，为 24 个月方案，于2026年10月21日查阅。托管方案对 OpenClaw 与 Hermes Agent 的价格相同。VPS 方案在页面上没有显示使用推荐链接的价格，20% 的折扣要在购物车里才看得到。Hostinger 的黑色星期五活动会改变金额；你所在的国家，网站可能显示其他货币和税费，所以请在购物车确认价格。"
+        "以下是 Hostinger 全球页面的价格，采用美元计价，为 24 个月方案，于2026年10月21日查阅。托管方案对 OpenClaw 与 Hermes Agent 的价格相同。VPS 方案在页面上没有显示使用 SONAR20 后的价格，20% 的折扣要在购物车里才看得到。Hostinger 的黑色星期五活动会改变金额；你所在的国家，网站可能显示其他货币和税费，所以请在购物车确认价格。"
       ],
       "comparisonTable": {
         "headers": [
           "方案",
           "服务器",
-          "不含推荐链接",
-          "含推荐链接",
+          "不含 SONAR20",
+          "含 SONAR20",
           "续费"
         ],
         "rows": [
@@ -239,13 +239,13 @@
       "postParagraphs": [
         "托管方案包含初始 AI 额度余额，超出的部分按使用量收费。VPS 的话，Hostinger 会用 Docker 为你安装助手，之后的更新与服务器安全由你负责。",
         "托管方案有 30 天退款申请期。VPS 只有在上一次 VPS 退款申请距今超过 180 天时，才适用 30 天期限。",
-        "如果你想在选方案前先算清楚所需配置，请阅读 [OpenClaw 最适合的 VPS：要求与该选哪个 KVM 套餐](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)。活动内容请看 [2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
+        "如果你想在选方案前先算清楚所需配置，请阅读 [OpenClaw 最适合的 VPS：要求与该选哪个 KVM 套餐](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)。活动内容请看 [2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
       ]
     },
     {
       "heading": "如果你已经决定",
       "paragraphs": [
-        "推荐链接会自动应用折扣，不需要输入代码。折扣**仅限首期 20%**，适用于 12 个月以上的方案，不能与其他优惠券叠加。续费按正常价格计算。按2026年10月21日查阅的 24 个月方案价格，托管方案使用推荐链接为 US$3.99/月；KVM 1 与 KVM 2 在折扣前为 US$6.49 与 US$8.79/月，折扣金额在购物车中显示。付款前请在购物车确认金额。完整规则见 [Hostinger 优惠券不用找：推荐链接能拿到什么](/zh-hans/reviews/hostinger-referral-code-zh-hans)，网站上的 [Hostinger 页面](/zh-hans/coupons/hostinger) 列有当前的条件。"
+        "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入：折扣**仅限首个周期的 20%**，月付或年付都可以，新老客户都适用。我们没有测试续费，请在购物车确认续费价格。按2026年10月21日查阅的 24 个月方案价格，托管方案用 SONAR20 为 US$3.99/月；KVM 1 与 KVM 2 在折扣前为 US$6.49 与 US$8.79/月，折扣金额在购物车中显示。付款前请在购物车确认金额。完整规则见 [SONAR20 优惠码说明](/zh-hans/reviews/hostinger-referral-code-zh-hans)，网站上的 [Hostinger 页面](/zh-hans/coupons/hostinger) 列有当前的条件。"
       ]
     },
     {
@@ -256,28 +256,28 @@
         "需要会编程吗？托管方案不需要：选好渠道，粘贴 token 即可。VPS 则需要懂一点服务器基础，例如 root、Docker 和更新。只有想修改项目代码时，才需要编程。",
         "安全吗？要看你怎么用。两份安全政策的要求相同：由一个可信任的人使用，不直接暴露在互联网上，并检查你安装的第三方内容。",
         "如果我已经在用 Claude Code，该选哪个？Claude Code 是在终端里写代码的工具，无法替代这两者。两者都接受 Anthropic 的密钥：OpenClaw 把 Anthropic 列为服务商之一，Hermes Agent 的 README 则把 Anthropic 密钥列在机密清单中。如果你想要会随使用而学习的代理，Hermes Agent 更合适；如果你要很多渠道和手机应用，就选 OpenClaw。",
-        "OpenClaw 或 Hermes Agent 有 Hostinger 优惠码吗？没有需要输入的代码。20% 通过推荐链接获得，只适用于首期，适用于 12 个月以上的方案，不能与其他优惠券叠加。"
+        "OpenClaw 或 Hermes Agent 有 Hostinger 优惠码吗？有：SONAR20 在首个周期享 20% 折扣，月付或年付都可以，新老客户都适用。我们没有测试续费，请在购物车确认续费价格。"
       ]
     },
     {
       "heading": "关于透明度",
       "paragraphs": [
         "Em Casa com Cecília 运行在 Hostinger 上，以 Node.js Web App 的形式运行。Bruno 自2024年起就是客户，使用虚拟主机与一台 VPS KVM 2。团队中没有人使用 OpenClaw 或 Hermes Agent。",
-        "本文是在2026年10月21日阅读了 Hostinger 的页面，以及两个项目的官方政策和文档后整理而成。OpenClaw 发布的两者比较由项目方撰写，表格的来源栏中注明了这一点。通过推荐链接购买，可能会为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。"
+        "本文是在2026年10月21日阅读了 Hostinger 的页面，以及两个项目的官方政策和文档后整理而成。OpenClaw 发布的两者比较由项目方撰写，表格的来源栏中注明了这一点。使用 SONAR20 或通过本文链接购买，可能为 Bruno 带来佣金，对你没有额外费用。"
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "推荐代码已经在链接里：20% 仅适用于首期，限 12 个月以上的套餐，不能与其他优惠券叠加。",
-    "label": "通过推荐链接查看套餐",
+    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+    "label": "通过 SONAR20 查看套餐",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "通过这个推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。团队中没有人使用 OpenClaw 或 Hermes Agent。",
+  "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，对你没有额外费用。团队中没有人使用 OpenClaw 或 Hermes Agent。",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-managed-or-vps-zh-hans",

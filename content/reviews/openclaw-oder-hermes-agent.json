@@ -31,7 +31,7 @@
     }
   ],
   "description": "OpenClaw oder Hermes Agent: Kanäle, Gedächtnis, Lernen, Lizenz und echte Kosten bei Hostinger, mit US-Dollar-Preisen vom 21.10.2026.",
-  "metaDescription": "OpenClaw oder Hermes Agent bei Hostinger: welcher passt, Kanäle, Gedächtnis, KI-Modelle und Preis mit und ohne Empfehlungslink, Stand 21.10.2026.",
+  "metaDescription": "OpenClaw oder Hermes Agent bei Hostinger: welcher passt, Kanäle, Gedächtnis, KI-Modelle und Preis mit und ohne SONAR20, Stand 21.10.2026.",
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -166,14 +166,14 @@
     {
       "heading": "Wo Sie auf Hostinger betreiben",
       "paragraphs": [
-        "Preise für 24-Monats-Tarife der globalen Seite von Hostinger, in US-Dollar, gelesen am 21.10.2026. Der verwaltete Tarif gilt für OpenClaw und Hermes Agent zum gleichen Preis. Bei den VPS-Tarifen zeigte die Seite den Preis mit Empfehlungslink nicht an; die 20 % erscheinen im Warenkorb. Die Black-Friday-Kampagne von Hostinger ändert die Beträge, und in Ihrem Land kann die Seite eine andere Währung und Steuern anzeigen. Bestätigen Sie den Preis deshalb im Warenkorb."
+        "Preise für 24-Monats-Tarife der globalen Seite von Hostinger, in US-Dollar, gelesen am 21.10.2026. Der verwaltete Tarif gilt für OpenClaw und Hermes Agent zum gleichen Preis. Bei den VPS-Tarifen zeigte die Seite den Preis mit SONAR20 nicht an; die 20 % erscheinen im Warenkorb. Die Black-Friday-Kampagne von Hostinger ändert die Beträge, und in Ihrem Land kann die Seite eine andere Währung und Steuern anzeigen. Bestätigen Sie den Preis deshalb im Warenkorb."
       ],
       "comparisonTable": {
         "headers": [
           "Plan",
           "Server",
-          "Ohne Empfehlungslink",
-          "Mit Empfehlungslink",
+          "Ohne SONAR20",
+          "Mit SONAR20",
           "Verlängerung"
         ],
         "rows": [
@@ -233,7 +233,7 @@
       "bullets": [
         "**Wer viele Kanäle und eine App auf dem Handy will:** OpenClaw. Das README nennt mehr als 20 Kanäle und bringt native Apps für Handy und Computer mit, dazu die Control UI im Web.",
         "**Wer einen Agenten will, der aus der Nutzung lernt:** Hermes Agent. Er organisiert sein Gedächtnis selbst, erstellt und verbessert eigene Fähigkeiten und durchsucht alte Gespräche.",
-        "**Wer nichts installieren und keinen Server betreuen will:** der verwaltete Tarif, mit einem der beiden. Hostinger installiert und aktualisiert, für 3,99 US$/Monat mit dem Empfehlungslink in einem 24-Monats-Tarif, gelesen am 21.10.2026.",
+        "**Wer nichts installieren und keinen Server betreuen will:** der verwaltete Tarif, mit einem der beiden. Hostinger installiert und aktualisiert, für 3,99 US$/Monat mit SONAR20 in einem 24-Monats-Tarif, gelesen am 21.10.2026.",
         "**Wer Root-Zugriff und andere Programme auf demselben Server will, etwa eine Website oder n8n:** VPS, mit einem der beiden. Root ist der Administratorzugang mit voller Kontrolle über den Server. KVM 1 mit 4 GB RAM ist der Einstieg für 6,49 US$/Monat vor dem Rabatt; ein lokales KI-Modell braucht mehr Speicher, wie der Leitfaden zum VPS erklärt."
       ],
       "postParagraphs": [
@@ -249,34 +249,34 @@
         "Muss man programmieren können? Für den verwalteten Tarif nicht: Sie wählen die Kanäle und fügen das Token ein. Beim VPS braucht es Grundkenntnisse über Server, etwa Root, Docker und Aktualisierungen. Programmieren ist nur nötig, wenn Sie am Code des Projekts arbeiten wollen.",
         "Ist es sicher? Das hängt von der Nutzung ab. Beide Sicherheitsrichtlinien verlangen dieselbe Sorgfalt: Nutzung durch eine vertrauenswürdige Person, keine direkte Öffnung zum Internet und Prüfung von Drittanbieter-Software vor der Installation.",
         "Was wähle ich, wenn ich schon Claude Code nutze? Claude Code ist ein Werkzeug zum Programmieren im Terminal und ersetzt keines der beiden. Beide akzeptieren einen Anthropic-Schlüssel: OpenClaw nennt Anthropic unter den Anbietern, und das README des Hermes Agent führt den Anthropic-Schlüssel unter den Geheimnissen auf. Wenn Sie einen Agenten wollen, der aus der Nutzung lernt, passt der Hermes Agent besser. Wenn Sie viele Kanäle und eine App auf dem Handy wollen, passt OpenClaw.",
-        "Gibt es einen Hostinger-Gutscheincode für OpenClaw oder Hermes Agent? Es gibt keinen Code zum Eingeben. Die 20 % kommen über den Empfehlungslink, nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Gutscheinen kombinieren."
+        "Gibt es einen Hostinger-Gutscheincode für OpenClaw oder Hermes Agent? Ja: Der Code SONAR20 gibt 20 % im ersten Zeitraum, bei Monats- oder Jahresplan, für Neu- und Bestandskunden. Tragen Sie ihn im Gutscheinfeld des Warenkorbs ein."
       ]
     },
     {
       "heading": "Wenn Sie sich schon entschieden haben",
       "paragraphs": [
-        "Der Empfehlungslink wendet den Rabatt bereits an: Sie müssen keinen Code eingeben. Es sind **20 % nur im ersten Zeitraum**, bei Tarifen von 12 Monaten oder mehr, und der Rabatt lässt sich **nicht mit anderen Rabattcodes kombinieren**. Die Verlängerung wird zum regulären Preis berechnet. Bei den am 21.10.2026 gelesenen 24-Monats-Tarifen kostet der verwaltete Tarif mit dem Link 3,99 US$/Monat, KVM 1 und KVM 2 kosten vor dem Rabatt 6,49 US$ und 8,79 US$/Monat, was im Warenkorb erscheint. Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen. Die vollständige Regel steht unter [so funktioniert der Empfehlungslink von Hostinger](/de/reviews/hostinger-gutschein-empfehlungscode), und [die Seite von Hostinger auf dieser Website](/de/coupons/hostinger) nennt die aktuellen Bedingungen."
+        "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs, oder öffnen Sie diesen Artikel über den Link: **20 % im ersten Zeitraum**, bei Monats- oder Jahresplan, für Neu- und Bestandskunden. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb. Bei den am 21.10.2026 gelesenen 24-Monats-Tarifen kostet der verwaltete Tarif mit SONAR20 3,99 US$/Monat, KVM 1 und KVM 2 kosten vor dem Rabatt 6,49 US$ und 8,79 US$/Monat, was im Warenkorb erscheint. Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen. Die vollständige Regel steht unter [der Gutschein SONAR20 im Detail](/de/reviews/hostinger-gutschein-empfehlungscode), und [die Seite von Hostinger auf dieser Website](/de/coupons/hostinger) nennt die aktuellen Bedingungen."
       ]
     },
     {
       "heading": "Wer schreibt",
       "paragraphs": [
         "Em Casa com Cecília läuft bei Hostinger als Node.js Web App, und Bruno ist seit 2024 Kunde mit Hosting und einem VPS KVM 2. Niemand aus dem Team nutzt OpenClaw oder Hermes Agent.",
-        "Dieser Text fasst die Seiten von Hostinger sowie die Richtlinien und Dokumentationen beider Projekte zusammen, gelesen am 21.10.2026. Der Vergleich, den OpenClaw selbst veröffentlicht, stammt vom Projekt und erscheint in der Tabelle in der Spalte Quelle unter diesem Namen. Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie."
+        "Dieser Text fasst die Seiten von Hostinger sowie die Richtlinien und Dokumentationen beider Projekte zusammen, gelesen am 21.10.2026. Der Vergleich, den OpenClaw selbst veröffentlicht, stammt vom Projekt und erscheint in der Tabelle in der Spalte Quelle unter diesem Namen. Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Der Empfehlungslink wendet den Rabatt schon an: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
-    "label": "Tarife mit Empfehlungslink ansehen",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+    "label": "Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Käufe über diesen Link können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team nutzt OpenClaw oder Hermes Agent.",
+  "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team nutzt OpenClaw oder Hermes Agent.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-verwaltet-oder-vps",

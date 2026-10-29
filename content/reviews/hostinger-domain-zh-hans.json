@@ -106,7 +106,7 @@
     {
       "heading": "Hostinger 的价格",
       "paragraphs": [
-        "以下是 Hostinger 国际站（美元）域名搜索页的价格，通过推荐链接进入，于 2026年10月28日黑色星期五活动期间读取。价格可能因国家和货币而不同，请以购物车为准。第一年的低价需选择 3 年期；续费按年计，从已付期限结束后开始。"
+        "以下是 Hostinger 国际站（美元）域名搜索页的价格，于 2026年10月28日黑色星期五活动期间读取。价格可能因国家和货币而不同，请以购物车为准。第一年的低价需选择 3 年期；续费按年计，从已付期限结束后开始。"
       ],
       "comparisonTable": {
         "headers": [
@@ -175,7 +175,7 @@
         "在将来属于你的账户里购买，用你自己的邮箱，并开着自动续费。",
         "国家域名如果有一天想迁走，购买前先向 Hostinger 客服确认该后缀的转移流程。",
         "如果域名是随主机套餐附带的，记下第二年的续费价：下单前就会显示。",
-        "推荐折扣用在主机套餐上，条款没有把域名列为适用服务；付款前在购物车核对域名的金额。"
+        "域名的金额以购物车为准：SONAR20 能否用在域名上，本文没有验证，付款前请在购物车核对。"
       ]
     },
     {
@@ -188,9 +188,9 @@
       ]
     },
     {
-      "heading": "推荐链接与价格",
+      "heading": "SONAR20 与域名",
       "paragraphs": [
-        "推荐链接会直接在主机套餐上套用折扣，没有要输入的代码。20% 只适用于首期、12 个月以上的套餐，且不能与其他优惠券叠加。条款没有把域名列为适用服务，以购物车显示的为准。完整规则见 [Hostinger 推荐计划是怎么运作的](/zh-hans/reviews/hostinger-referral-code-zh-hans)，套餐见本站的 [Hostinger 页面](/zh-hans/coupons/hostinger)。"
+        "SONAR20 是主机套餐的优惠码：在购物车的优惠码栏输入，首个周期享 20%，月付或年付都可以，新老客户都适用，我们没有测试续费，请在购物车确认续费价格。条款没有列出域名，所以域名是否也打折，请在购物车核对金额，本文不作保证。完整说明见 [Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)，套餐见本站的 [Hostinger 页面](/zh-hans/coupons/hostinger)。"
       ]
     },
     {
@@ -213,14 +213,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "推荐代码已经在链接里：20% 用在主机套餐上，仅限首期、12 个月以上的套餐，不能与其他优惠券叠加。付款前请在购物车核对域名的金额。",
-    "label": "通过推荐链接查看套餐",
+    "text": "在购物车的优惠码栏输入 SONAR20，用于主机套餐：首个周期享 20%。域名金额付款前在购物车核对。",
+    "label": "通过 SONAR20 查看套餐",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "通过这个推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。",
+  "editorialNote": "使用 SONAR20 优惠码或通过本文链接购买，可能为 Bruno 带来佣金，你无需额外付费。",
   "relatedArticles": [
     {
       "slug": "hostinger-trust-guide-zh-hans",
@@ -228,11 +228,11 @@
     },
     {
       "slug": "hostinger-referral-code-zh-hans",
-      "title": "Hostinger 优惠券不用找：推荐链接能拿到什么"
+      "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
     },
     {
       "slug": "hostinger-black-friday-zh-hans",
-      "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？"
+      "title": "2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%"
     }
   ]
 }

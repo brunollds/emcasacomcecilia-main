@@ -117,7 +117,7 @@
     {
       "heading": "I piani VPS: KVM 1 a 8",
       "paragraphs": [
-        "I quattro piani KVM cambiano solo nella taglia. Specifiche lette sulla pagina VPS di Hostinger il 28/10/2026; prezzo mensile del piano da 24 mesi, con il link di invito applicato, e il rinnovo accanto. Sono i prezzi del sito internazionale in dollari, entrando dal link di invito, e possono cambiare in base al paese e alla valuta."
+        "I quattro piani KVM cambiano solo nella taglia. Specifiche lette sulla pagina VPS di Hostinger il 28/10/2026; prezzo mensile del piano da 24 mesi, con il SONAR20 applicato, e il rinnovo accanto. Sono i prezzi del sito internazionale in dollari, entrando dal link di questo articolo, e possono cambiare in base al paese e alla valuta."
       ],
       "comparisonTable": {
         "headers": [
@@ -125,7 +125,7 @@
           "vCPU",
           "RAM",
           "Spazio disco",
-          "Con l'invito",
+          "Con il SONAR20",
           "Rinnovo"
         ],
         "rows": [
@@ -165,7 +165,7 @@
       },
       "postParagraphs": [
         "Per un sito normale che abbia bisogno di un VPS, il KVM 1 è il punto di partenza: 4 GB di RAM bastano per un WordPress o un sistema piccolo. Il KVM 2 entra quando farai girare più di un programma sulla stessa macchina. KVM 4 e 8 sono per sistemi più grandi, database grandi o più applicazioni.",
-        "I prezzi pieni, barrati sulla pagina, sono 19,49, 24,49, 42,99 e 73,99 USD al mese (campagna di Black Friday). Con il link, il 20% vale **solo sul primo periodo** e **non si somma ad altri coupon**. Il rinnovo è lo stesso con o senza il link."
+        "I prezzi pieni, barrati sulla pagina, sono 19,49, 24,49, 42,99 e 73,99 USD al mese (campagna di Black Friday). Con il SONAR20, il 20% vale **solo sul primo periodo**. Non abbiamo testato il rinnovo con il codice: i prezzi di rinnovo sono quelli che la pagina mostra."
       ]
     },
     {
@@ -188,12 +188,12 @@
     {
       "heading": "Prezzo e rinnovo: il conto vero",
       "paragraphs": [
-        "L'hosting condiviso si vende in piani da 48 mesi; il VPS, da 24. Entrambi addebitano l'intero periodo in una volta. Prezzi del sito internazionale in dollari, letti il 28/10/2026 con il link di invito applicato, e il rinnovo accanto:"
+        "L'hosting condiviso si vende in piani da 48 mesi; il VPS, da 24. Entrambi addebitano l'intero periodo in una volta. Prezzi del sito internazionale in dollari, letti il 28/10/2026 con il SONAR20 applicato, e il rinnovo accanto:"
       ],
       "comparisonTable": {
         "headers": [
           "Piano",
-          "Con l'invito",
+          "Con il SONAR20",
           "Totale del periodo",
           "Rinnovo"
         ],
@@ -232,7 +232,7 @@
       },
       "postParagraphs": [
         "Due punti cambiano il conto. Il primo: il VPS KVM 1 costa più di due volte e mezzo il Premium al mese già nel primo periodo (5,19 contro 1,99 USD); al rinnovo la distanza si riduce (11,99 contro 10,99 USD). Il secondo: nel VPS il prezzo promozionale dura 24 mesi; nel condiviso, 48. In quattro anni, il Premium costa 95,52 USD; il KVM 1, 124,56 USD nel primo periodo più 287,76 USD di rinnovo (24 × 11,99 USD), cioè 412,32 USD.",
-        "Il rinnovo è attivo di default. Guarda [come Hostinger addebita e rinnova](/it/reviews/hostinger-e-affidabile) prima di acquistare, e il [Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte) per il confronto tra la campagna e il link. Il Premium elenca il dominio gratis per il primo anno, come voce del piano. I prezzi cambiano con le campagne: controlla l'importo nel carrello prima di pagare, e vedi le condizioni sulla [pagina di Hostinger qui sul sito](/it/coupons/hostinger)."
+        "Il rinnovo è attivo di default. Guarda [come Hostinger addebita e rinnova](/it/reviews/hostinger-e-affidabile) prima di acquistare, e il [Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte) per i prezzi della campagna. Il Premium elenca il dominio gratis per il primo anno, come voce del piano. I prezzi cambiano con le campagne: controlla l'importo nel carrello prima di pagare, e vedi le condizioni sulla [pagina di Hostinger qui sul sito](/it/coupons/hostinger)."
       ]
     },
     {
@@ -256,7 +256,7 @@
         "Posso partire dal condiviso e passare al VPS dopo? Sì. Sono prodotti diversi: acquisti il VPS, installi il server e sposti il sito. L'hosting condiviso non si converte in VPS dall'interno del pannello.",
         "Devo conoscere Linux per avere un VPS? Sì, le basi del terminale: installare programmi, aggiornare il sistema e leggere un log. Nel condiviso tutto passa dal pannello e non c'è un terminale obbligatorio.",
         "Il VPS regge WordPress? Sì, ma installi e mantieni tu il server web, PHP e il database. Nel condiviso, WordPress è pronto nel pannello e Hostinger si occupa del server.",
-        "Quanto costa il VPS di Hostinger? Il 28/10/2026, sul sito internazionale, il KVM 1 costa 5,19 USD al mese con il link di invito, in un piano da 24 mesi (124,56 USD in totale), e si rinnova a 11,99 USD al mese. Il 20% vale solo sul primo periodo e non si somma ad altri coupon."
+        "Quanto costa il VPS di Hostinger? Il 28/10/2026, sul sito internazionale, il KVM 1 costa 5,19 USD al mese con il SONAR20, in un piano da 24 mesi (124,56 USD in totale), e il rinnovo indicato dalla pagina è 11,99 USD al mese. Il 20% vale solo sul primo periodo."
       ]
     },
     {
@@ -269,14 +269,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Il codice di invito è già dentro il link: lo sconto del 20% vale solo sul primo periodo, sui piani da 12 mesi in su, e non si somma ad altri coupon.",
-    "label": "Vedi i piani con il link di invito",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+    "label": "Vedi i piani con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te. Non abbiamo testato il VPS.",
+  "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Non abbiamo testato il VPS.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-gestito-o-vps",
@@ -288,7 +288,7 @@
     },
     {
       "slug": "black-friday-hostinger-offerte",
-      "title": "Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?"
+      "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna"
     }
   ]
 }
