@@ -6,15 +6,6 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[probiotica-ou-integralmedica]]: Probiótica ou Integralmédica: whey e creatina pelo rótulo e pelo preço por 100 g (série contra a Integralmédica) (PT)
-- [ ] [[creatina-probiotica-qual-compensa]]: Creatina Probiótica: qual versão compensa (300 g, 100 g, Creapure 150 g, monodose) pelo preço por 100 g e pelo rótulo (PT)
-- [ ] [[monodose-probiotica-sache-ou-pote]]: Creatina monodose da Probiótica: sachê ou pote, qual compensa por 100 g (PT)
-- [ ] [[creatina-max-titanium-qual-pote]]: Creatina Max Titanium: qual pote compensa (100, 300, 500 g) e qual é Creapure (só a de 250 g) (PT)
-- [ ] [[pre-treino-max-titanium-horus-ou-egide]]: Pré-treino Max Titanium: Hórus (150 mg de cafeína) ou Égide (200 mg), pela cafeína e pelo preço por dose; Night Train sem cafeína (PT)
-- [ ] [[max-titanium-ou-integralmedica]]: Max Titanium ou Integralmédica: whey e creatina pelo rótulo e pelo preço por 100 g (série contra a Integralmédica) (PT)
-- [ ] [[hostinger-horizons-vale-a-pena]]: Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress; vem nos planos de hospedagem (10 idiomas)
-- [ ] [[dominio-hostinger-comprar-transferir-ou-fora]]: Domínio na Hostinger: comprar, transferir ou registrar fora (.com.br R$ 1 no 1º ano com 3 anos, renova R$ 64,99) (10 idiomas)
-- [ ] [[vps-ou-hospedagem-compartilhada-qual-escolher]]: VPS ou hospedagem compartilhada: qual compensa (KVM 1 R$ 23,99, renova R$ 59,99; Single R$ 4,79, renova R$ 23,99) (10 idiomas)
 - [ ] [[yesstyle-trustpilot-nota-reclamacoes]]: YesStyle na Trustpilot: nota 4,4 com 104 mil avaliações, reclamações e respostas (10 idiomas, família yesstyle-reputation); no mesmo PR, o Brasil sem entrega em 2 artigos PT
 - [ ] [[shein-reclame-aqui-nota-reputacao]]: SHEIN: Reclame Aqui no PT e Trustpilot nos outros 9 (3,8 com 353 mil avaliações, perfil único), família shein-reputation (10 idiomas)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
@@ -51,6 +42,15 @@
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[probiotica-ou-integralmedica]]: Probiótica ou Integralmédica: whey e creatina pelo rótulo e pelo preço por 100 g (série contra a Integralmédica) (PT) (no ar em 29/10/2026 02:21 UTC, PR #343, release `b4c436fa`, id 650) 🚀
+- [x] [[creatina-probiotica-qual-compensa]]: Creatina Probiótica: qual versão compensa (300 g, 100 g, Creapure 150 g, monodose) pelo preço por 100 g e pelo rótulo (PT) (no ar em 29/10/2026 02:21 UTC, PR #343, release `b4c436fa`, id 651) 🚀
+- [x] [[monodose-probiotica-sache-ou-pote]]: Creatina monodose da Probiótica: sachê ou pote, qual compensa por 100 g (PT) (no ar em 29/10/2026 02:21 UTC, PR #343, release `b4c436fa`, id 652) 🚀
+- [x] [[creatina-max-titanium-qual-pote]]: Creatina Max Titanium: qual pote compensa (100, 300, 500 g) e qual é Creapure (só a de 250 g) (PT) (no ar em 29/10/2026 02:21 UTC, PR #343, release `b4c436fa`, id 653) 🚀
+- [x] [[pre-treino-max-titanium-horus-ou-egide]]: Pré-treino Max Titanium: Hórus (150 mg de cafeína) ou Égide (200 mg), pela cafeína e pelo preço por dose; Night Train sem cafeína (PT) (no ar em 29/10/2026 02:21 UTC, PR #343, release `b4c436fa`, id 654) 🚀
+- [x] [[max-titanium-ou-integralmedica]]: Max Titanium ou Integralmédica: whey e creatina pelo rótulo e pelo preço por 100 g (série contra a Integralmédica) (PT) (no ar em 29/10/2026 02:21 UTC, PR #343, release `b4c436fa`, id 655) 🚀
+- [x] [[hostinger-horizons-vale-a-pena]]: Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress; vem nos planos de hospedagem (10 idiomas) (no ar em 29/10/2026 02:21 UTC, PR #343, release `b4c436fa`, `hostinger-ai-builder`, ids 656–665, 10 idiomas) 🚀
+- [x] [[dominio-hostinger-comprar-transferir-ou-fora]]: Domínio na Hostinger: comprar, transferir ou registrar fora (.com.br R$ 1 no 1º ano com 3 anos, renova R$ 64,99) (10 idiomas) (no ar em 29/10/2026 02:21 UTC, PR #343, release `b4c436fa`, `hostinger-dominio`, ids 666–675, 10 idiomas) 🚀
+- [x] [[vps-ou-hospedagem-compartilhada-qual-escolher]]: VPS ou hospedagem compartilhada: qual compensa (KVM 1 R$ 23,99, renova R$ 59,99; Single R$ 4,79, renova R$ 23,99) (10 idiomas) (no ar em 29/10/2026 02:21 UTC, PR #343, release `b4c436fa`, `hostinger-vps-ou-compartilhada`, ids 676–685, 10 idiomas) 🚀
 - [x] [[shein-11-11-selecao-da-cecilia]]: SHEIN 11.11: as 19 peças escolhidas pelo Bruno, com preço, tamanhos e link da campanha (10 idiomas, preço convertido com um aviso, tamanhos internacionais fora do PT) (no ar em 28/10/2026, PRs #339 e #340, release `6598ddcf`, ids 640–649; tirar da vitrine ou marcar encerrada depois de 12/11) 🚀
 - [x] [[yesstyle-app-como-comprar-codigo-de-recompensa]]: App da YesStyle: como comprar e onde entra o código de recompensa (campo "Influencer / Rewards Code", com os prints do Bruno); PT diz que não há entrega no Brasil (10 idiomas) (no ar em 28/10/2026, PR #336, release `040fcb1b`, ids 630–639) 🚀
 - [x] [[nutren-senior-kit-combo-ou-assinatura]]: Nutren Senior: qual tamanho e qual forma compensa, por 100 g (370 g, 740 g, kit, combo, assinatura); o kit de 2 latas sai mais barato que o combo (PT) (no ar em 28/10/2026 18:56 UTC, PR #331 + #333, release `c3af3e1`, id 626) 🚀

@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler preços antes da Black Friday"
 bloqueado_por: "-"
 data_criacao: "2026-10-28"
 modo_i18n: "somente-pt"
@@ -148,3 +148,8 @@ Fatos: `creatina-max-titanium-qual-pote-fatos-2810.md`, ao lado (vale sobre o no
 
 1. Dose, número de doses, Creapure e proteína por porção só com o número lido na tabela do rótulo (imagem da ficha). Sem o rótulo, o texto compara o preço por 100 g do produto. Texto de benefício das fichas ("força", "recuperação", "massa magra") fica fora; sem alegação de saúde ou desempenho; ninguém do site usou os produtos.
 2. Creapure só a de 250 g (ficha). A 300 g tem "3g" e "5g" na ficha: doses só pelo rótulo. 7Belo (com sabor) fora, com uma frase e link para a [[creatina-com-sabor-qual-escolher]].
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 02:21 UTC: PR #343 (id 653), release `b4c436fa`.
+- Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/max-titanium/creatina-max-titanium-qual-pote-capa.webp`), no CDN.
+- Pendente: reler preços antes da Black Friday.

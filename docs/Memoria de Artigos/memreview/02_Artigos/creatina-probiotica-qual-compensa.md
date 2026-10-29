@@ -6,9 +6,9 @@ parceiro: "[[Probiotica]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler preços antes da Black Friday"
 bloqueado_por: "-"
 score_autoridade: null
 score_conversao: null
@@ -162,3 +162,8 @@ Fatos: `creatina-probiotica-qual-compensa-fatos-2810.md`, ao lado (vale sobre o 
 
 1. Dose, número de doses, Creapure e proteína por porção só com o número lido na tabela do rótulo (imagem da ficha). Sem o rótulo, o texto compara o preço por 100 g do produto. Texto de benefício das fichas ("força", "recuperação", "massa magra") fica fora; sem alegação de saúde ou desempenho; ninguém do site usou os produtos.
 2. Creatina 300 g: selo "3.000mg de Creatina por dose" e texto "5.000mg por porção" (Chrome, 28/10): o número de doses só pelo rótulo. "Creapure" só se o selo aparecer no rótulo do 150 g. Cápsulas e "Pure Monster" fora até ler peso líquido e confirmar o produto.
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 02:21 UTC: PR #343 (id 651), release `b4c436fa`.
+- Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa.webp`), no CDN.
+- Pendente: reler preços antes da Black Friday.
