@@ -226,6 +226,22 @@ Rodada para as lojas com poucos artigos (Probiótica 6, Max Titanium 7, Hostinge
 
 Descartados: colágeno e "probiótica é bom para..." (saúde e homônimo), Mass 17500 e Multimax (já nos comparativos), planos e renovação da Hostinger (já no BF e no cupom-indicação).
 
+## Skelt e Bagaggio (Bruno, 29/10/2026)
+
+Rodada pelo autocompletar do Google e do Bing e pelos catálogos públicos (VTEX) de 28–29/10.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| S1 | Bronzeado instantâneo Skelt: qual usar para hoje à noite | **Pauta aprovada em 29/10/2026:** [[bronzeado-instantaneo-skelt-ou-autobronzeador]] |
+| S2 | Como tirar o autobronzeador Skelt | **Pauta aprovada em 29/10/2026:** [[removedor-autobronzeador-skelt-como-tirar]] |
+| S3 | Iluminador corporal Skelt | **Pauta aprovada em 29/10/2026:** [[iluminador-corporal-skelt-como-usar]] |
+| S4 | Onde comprar Skelt (Renner, Sephora, Panvel) | Estoque: ler "Onde Encontrar" e as lojas antes |
+| G1 | Mochila para notebook Bagaggio | **Pauta aprovada em 29/10/2026:** [[mochila-notebook-bagaggio-qual-escolher]] |
+| G2 | Mala de bordo Bagaggio: qual compensa | **Pauta aprovada em 29/10/2026:** [[mala-de-bordo-bagaggio-qual-compensa]] |
+| G3 | Mala P, M ou G Bagaggio | **Pauta aprovada em 29/10/2026:** [[tamanho-mala-bagaggio-p-m-g]] |
+
+Descartados: Sallve e Boticário (sem sinal), protetor solar Skelt (FPS sem registro, FPS 15 e 30 esgotados), Sestini, American Tourister e outlet na Bagaggio (sem resultado ou sinal); Samsonite: sem produto à venda em 29/10.
+
 ## Apps das lojas parceiras (Bruno, 23/10/2026)
 
 Pautas que saíram da pergunta do app nas páginas de cupom (PR #238).
