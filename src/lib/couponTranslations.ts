@@ -1401,6 +1401,12 @@ export const CODE_FIELD_POLICY = {
   tiers: 'drop',
 } as const satisfies Record<keyof CouponCodeOffer, 'pt' | 'translate' | 'drop'>;
 
+// Os campos que vêm da tradução; cada um precisa existir em CodeOfferTranslation (o Pick de localizeCoupon
+// quebra o typecheck se não existir).
+type TranslatedCodeField = {
+  [K in keyof typeof CODE_FIELD_POLICY]: (typeof CODE_FIELD_POLICY)[K] extends 'translate' ? K : never;
+}[keyof typeof CODE_FIELD_POLICY];
+
 // offerMode tem de ser o do cupom em PT. offerUrl é o link principal das páginas em outros idiomas;
 // sem ele, vale o do cupom em PT.
 export type CouponTranslation =
@@ -1472,10 +1478,11 @@ export function localizeCoupon(coupon: Coupon, translation: CouponTranslation, l
   if (coupon.offerMode === 'discount-code' && translation.offerMode === 'discount-code') {
     // As faixas trazem valores em R$ e o aviso do Magazine Você, que só existem em PT.
     if (coupon.tiers?.length) throw new Error(`${where}: loja com faixas de desconto não tem tradução.`);
-    const codeText: Partial<Record<keyof CouponCodeOffer, unknown>> = translation.locales[locale];
+    const codeText: Pick<CodeOfferTranslation, TranslatedCodeField> = translation.locales[locale];
     const fields = Object.entries(CODE_FIELD_POLICY).map(([key, policy]) => {
       const field = key as keyof CouponCodeOffer;
-      return [field, policy === 'pt' ? coupon[field] : policy === 'translate' ? codeText[field] : undefined];
+      const translated = (codeText as Partial<Record<keyof CouponCodeOffer, unknown>>)[field];
+      return [field, policy === 'pt' ? coupon[field] : policy === 'translate' ? translated : undefined];
     });
     return { ...(Object.fromEntries(fields) as CouponCodeOffer), ...shared };
   }
