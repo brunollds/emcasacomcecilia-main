@@ -7,9 +7,9 @@ parceiro_slug: "bagaggio"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Materiais"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler os preços na Black Friday de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 publicado_em: null
@@ -173,3 +173,9 @@ Fatos: `mala-policarbonato-ou-abs-bagaggio-fatos-2910.md`, ao lado.
 1. Links (pedido do Bruno, 29/10): cada produto citado leva o link da ficha com a UTM da parceria, como já está no fatos; nas tabelas de preço, o nome do produto na 1ª célula vira esse link.
 2. Bagagem de mão: nenhuma medida de companhia aérea ou da ANAC (sem fonte primária). Samsonite: nenhum texto diz que a loja vende a marca (busca sem produto em 28 e 29/10). Pendentes de ficha: os listados em "Pendentes de navegador" do briefing; a sessão de artigos confere no Chrome antes de publicar e, sem confirmação, não afirma.
 3. Recomendações do briefing aceitas: a Kyoto II entra como teto da escala, sem "premium"; uma linha por material (a Malta Preta como referência, a cor como item de preço no texto); 23 kg e 32 kg ficam com [[tamanho-mala-bagaggio-p-m-g]]. Policarbonato não é dito mais leve (a Bahamas pesa 3,4 kg contra 2,61 kg da Detroit).
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 23:18 UTC: PR #355, release `505eb69a`, id 706 (PT).
+- Preços do cartão lidos em 29/10/2026; cupom e Pix numa frase fora da tabela.
+- Tabela por material com o preço do cartão de 29/10 e o preço por litro; a Kyoto II sem promoção recebeu o CECILIA10 no carrinho (teste anônimo, 29/10). Imagens do CDN: capa, Bahamas branca e as três malas lado a lado.
+- Pendente: reler os preços na Black Friday de 2026.

@@ -6,9 +6,9 @@ parceiro: "[[Skelt]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Produto (proposta; o tipo é rótulo livre)"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler os preços na Black Friday de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 modo_i18n: "somente-pt"
@@ -163,3 +163,9 @@ Fatos: `body-splash-skelt-milos-breeze-fatos-2910.md`, ao lado.
 1. Links (pedido do Bruno, 29/10): cada produto citado leva o link da ficha com a UTM da parceria, como já está no fatos; nas tabelas de preço, o nome do produto na 1ª célula vira esse link.
 2. Sem alegação de efeito na pele; fixação e duração só atribuídas à ficha. Ninguém do site usou os produtos: sem "resenha" no título, sem ranking e sem "lembra perfume importado" como afirmação nossa. Pendentes de ficha: os listados em "Pendentes de navegador" do briefing; a sessão de artigos confere no Chrome antes de publicar e, sem confirmação, não afirma.
 3. Artigo de produto pelas fichas; liga com [[body-splash-skelt-qual-escolher]] (sem repetir a tabela), com [[body-splash-skelt-solar-muse]] e com [[hidratante-corporal-skelt-qual-fragrancia]]. Artigo curto, com o trio (R$ 2,00 abaixo das peças avulsas) como parte nova. Sem os percentuais de "Resultados reais" da ficha (sem método). Miniaturas: só "com o Milos, segundo a ficha" até conferir as outras fragrâncias; se a ficha não confirmar Grand Bahama e Pink Sands, corrigir o `body-splash-skelt-qual-escolher` no mesmo PR.
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 23:18 UTC: PR #355, release `505eb69a`, id 711 (PT).
+- Preços do cartão lidos em 29/10/2026; cupom e Pix numa frase fora da tabela.
+- Miniaturas do Exotic Set conferidas na ficha em 29/10 antes de o texto citar Grand Bahama e Pink Sands. Imagens do CDN: capa, frasco, kit de miniaturas Exotic Set e trio Exotic Trip.
+- Pendente: reler os preços na Black Friday de 2026.

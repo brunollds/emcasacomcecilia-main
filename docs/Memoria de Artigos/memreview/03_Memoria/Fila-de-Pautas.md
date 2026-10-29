@@ -248,13 +248,13 @@ Bagaggio: sobras da rodada de 28/10. Skelt: a pauta 5 da rodada de 28/10 e uma r
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| G4 | Mala de policarbonato ou ABS | **Pauta aprovada em 29/10/2026:** [[mala-policarbonato-ou-abs-bagaggio]] |
-| G5 | Bagaggio é boa? (produto) | **Pauta aprovada em 29/10/2026:** [[bagaggio-e-boa-malas-mochilas]] |
-| G6 | Conjunto de malas compensa? | **Pauta aprovada em 29/10/2026:** [[conjunto-de-malas-bagaggio-compensa]] |
+| G4 | Mala de policarbonato ou ABS | **Publicado em 29/10/2026** (#355, release `505eb69a`): [[mala-policarbonato-ou-abs-bagaggio]] |
+| G5 | Bagaggio é boa? (produto) | **Publicado em 29/10/2026** (#355, release `505eb69a`): [[bagaggio-e-boa-malas-mochilas]] |
+| G6 | Conjunto de malas compensa? | **Publicado em 29/10/2026** (#355, release `505eb69a`): [[conjunto-de-malas-bagaggio-compensa]] |
 | G7 | Travelcross vale a pena? | Estoque (sinal fraco) |
-| S5 | Hidratante corporal Skelt | **Pauta aprovada em 29/10/2026:** [[hidratante-corporal-skelt-qual-fragrancia]] |
-| S6 | Body Splash Solar Muse | **Pauta aprovada em 29/10/2026:** [[body-splash-skelt-solar-muse]] |
-| S7 | Body Splash Milos Breeze | **Pauta aprovada em 29/10/2026:** [[body-splash-skelt-milos-breeze]] |
+| S5 | Hidratante corporal Skelt | **Publicado em 29/10/2026** (#355, release `505eb69a`): [[hidratante-corporal-skelt-qual-fragrancia]] |
+| S6 | Body Splash Solar Muse | **Publicado em 29/10/2026** (#355, release `505eb69a`): [[body-splash-skelt-solar-muse]] |
+| S7 | Body Splash Milos Breeze | **Publicado em 29/10/2026** (#355, release `505eb69a`): [[body-splash-skelt-milos-breeze]] |
 | S8 | Trio Exotic Trip | Estoque (sinal fraco, sobreposto ao guia de body splash) |
 
 Descartados: "Skelt masculino" como artigo (a loja não tem linha para homem em 29/10; vira uma pergunta do FAQ de [[body-splash-skelt-qual-escolher]] quando ele for revisado), eau de parfum, colônia, sabonete, shampoo e refil (sem produto), vegano e cruelty free como pauta (vira frase só nos artigos cuja ficha declara o selo), presente e amigo secreto Skelt (canibaliza [[presente-natal-quem-treina]]), "autobronzeador que não mancha a roupa" (reforço de seção do [[autobronzeador-skelt-qual-escolher]], não artigo).

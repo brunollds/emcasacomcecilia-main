@@ -7,9 +7,9 @@ parceiro_slug: "bagaggio"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Produto"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler os preços na Black Friday de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 publicado_em: null
@@ -155,3 +155,9 @@ Fatos: `bagaggio-e-boa-malas-mochilas-fatos-2910.md`, ao lado.
 1. Links (pedido do Bruno, 29/10): cada produto citado leva o link da ficha com a UTM da parceria, como já está no fatos; nas tabelas de preço, o nome do produto na 1ª célula vira esse link.
 2. Bagagem de mão: nenhuma medida de companhia aérea ou da ANAC (sem fonte primária). Samsonite: nenhum texto diz que a loja vende a marca (busca sem produto em 28 e 29/10). Pendentes de ficha: os listados em "Pendentes de navegador" do briefing; a sessão de artigos confere no Chrome antes de publicar e, sem confirmação, não afirma.
 3. Título com "é boa"; a abertura responde que depende da categoria. Travelcross entra como nota, fora da garantia vitalícia. CNPJ, Reclame Aqui e vício ficam em [[bagaggio-e-confiavel]], [[bagaggio-reclame-aqui-nota-reputacao]] e [[bagaggio-garantia-vitalicia]], com link. Publicar só depois (ou no mesmo PR) da correção da Samsonite nos dois artigos, decidida no #347. A pergunta "A Bagaggio vende Samsonite?" do esqueleto sai, ou responde que a busca não traz produto da marca, com a data.
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 23:18 UTC: PR #355, release `505eb69a`, id 707 (PT).
+- Preços do cartão lidos em 29/10/2026; cupom e Pix numa frase fora da tabela.
+- Saiu no mesmo PR da correção da Samsonite em `bagaggio-e-confiavel` e `bagaggio-garantia-vitalicia` (a lista de marcas atribuída à página de garantia). Imagens do CDN: capa, cadeado e mochila Horizonte. No mesmo PR, o teste do fundo de caderno passou a ler só as classes (os links das mochilas "para notebook" disparavam o guarda).
+- Pendente: reler os preços na Black Friday de 2026.

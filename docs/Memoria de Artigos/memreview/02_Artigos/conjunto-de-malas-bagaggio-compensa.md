@@ -7,9 +7,9 @@ parceiro_slug: "bagaggio"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Conjuntos"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler os preços na Black Friday de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 publicado_em: null
@@ -175,3 +175,9 @@ Fatos: `conjunto-de-malas-bagaggio-compensa-fatos-2910.md`, ao lado.
 1. Links (pedido do Bruno, 29/10): cada produto citado leva o link da ficha com a UTM da parceria, como já está no fatos; nas tabelas de preço, o nome do produto na 1ª célula vira esse link.
 2. Bagagem de mão: nenhuma medida de companhia aérea ou da ANAC (sem fonte primária). Samsonite: nenhum texto diz que a loja vende a marca (busca sem produto em 28 e 29/10). Pendentes de ficha: os listados em "Pendentes de navegador" do briefing; a sessão de artigos confere no Chrome antes de publicar e, sem confirmação, não afirma.
 3. Tabela com 12 conjuntos e a frase "conferimos 32 conjuntos, e 24 custam a soma exata das peças"; a lista completa fica no fatos. O Detroit P e M Preta só entra depois de ver na ficha qual é a M. Kyoto fora até as fichas. Cupom em conjunto não testado: não afirmar. Reler os preços no dia (mudam com a promoção).
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 23:18 UTC: PR #355, release `505eb69a`, id 708 (PT).
+- Preços do cartão lidos em 29/10/2026; cupom e Pix numa frase fora da tabela.
+- Cupom em conjunto e em mais de uma mala não testado: o texto diz só a regra do cupom. Imagens do CDN: capa, Detroit preta P e M e Malta branca e marrom.
+- Pendente: reler os preços na Black Friday de 2026.

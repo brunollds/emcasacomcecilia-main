@@ -6,9 +6,9 @@ parceiro: "[[Skelt]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler os preços na Black Friday de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 modo_i18n: "somente-pt"
@@ -155,3 +155,9 @@ Fatos: `hidratante-corporal-skelt-qual-fragrancia-fatos-2910.md`, ao lado.
 1. Links (pedido do Bruno, 29/10): cada produto citado leva o link da ficha com a UTM da parceria, como já está no fatos; nas tabelas de preço, o nome do produto na 1ª célula vira esse link.
 2. Sem alegação de efeito na pele; fixação e duração só atribuídas à ficha. Ninguém do site usou os produtos: sem "resenha" no título, sem ranking e sem "lembra perfume importado" como afirmação nossa. Pendentes de ficha: os listados em "Pendentes de navegador" do briefing; a sessão de artigos confere no Chrome antes de publicar e, sem confirmação, não afirma.
 3. Artigo novo; o `body-splash-skelt-qual-escolher` ganha uma frase com o link, sem reescrever a tabela. Conjuntos com splash ou perfume: o outro item entra pelo avulso de lista, e o texto diz isso. O selo "livre de óleo mineral" fica fora (três fragrâncias listam parafina líquida e vaselina); só os selos dermatologicamente testado, vegano e cruelty free. Cupom no avulso sem promoção não testado: não afirmar. Kits sem peso confirmado ficam fora da tabela. A ficha do Duo Velvet Milano cita Hidden Flowers por erro: não usar.
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 23:18 UTC: PR #355, release `505eb69a`, id 709 (PT).
+- Preços do cartão lidos em 29/10/2026; cupom e Pix numa frase fora da tabela.
+- Cupom no avulso sem promoção não testado: o texto diz só a regra. O `body-splash-skelt-qual-escolher` ganhou o link. Imagens do CDN: capa, florais, kit Radiante e Velvet Milano.
+- Pendente: reler os preços na Black Friday de 2026.
