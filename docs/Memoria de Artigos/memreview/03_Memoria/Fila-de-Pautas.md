@@ -235,12 +235,29 @@ Rodada pelo autocompletar do Google e do Bing e pelos catálogos públicos (VTEX
 | S1 | Bronzeado instantâneo Skelt: qual usar para hoje à noite | **Pauta aprovada em 29/10/2026:** [[bronzeado-instantaneo-skelt-ou-autobronzeador]] |
 | S2 | Como tirar o autobronzeador Skelt | **Pauta aprovada em 29/10/2026:** [[removedor-autobronzeador-skelt-como-tirar]] |
 | S3 | Iluminador corporal Skelt | **Pauta aprovada em 29/10/2026:** [[iluminador-corporal-skelt-como-usar]] |
-| S4 | Onde comprar Skelt (Renner, Sephora, Panvel) | Estoque: ler "Onde Encontrar" e as lojas antes |
+| S4 | Onde comprar Skelt (Renner, Sephora, Panvel) | **Descartada em 29/10/2026:** leva a compra para revendas sem afiliado; a pauta tem de levar ao cupom ou ao link do Bruno |
 | G1 | Mochila para notebook Bagaggio | **Pauta aprovada em 29/10/2026:** [[mochila-notebook-bagaggio-qual-escolher]] |
 | G2 | Mala de bordo Bagaggio: qual compensa | **Pauta aprovada em 29/10/2026:** [[mala-de-bordo-bagaggio-qual-compensa]] |
 | G3 | Mala P, M ou G Bagaggio | **Pauta aprovada em 29/10/2026:** [[tamanho-mala-bagaggio-p-m-g]] |
 
 Descartados: Sallve e Boticário (sem sinal), protetor solar Skelt (FPS sem registro, FPS 15 e 30 esgotados), Sestini, American Tourister e outlet na Bagaggio (sem resultado ou sinal); Samsonite: sem produto à venda em 29/10.
+
+## Skelt e Bagaggio, 2ª leva (Bruno, 29/10/2026)
+
+Bagaggio: sobras da rodada de 28/10. Skelt: a pauta 5 da rodada de 28/10 e uma rodada nova de 29/10 (autocompletar do Google e do Bing e catálogo VTEX).
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| G4 | Mala de policarbonato ou ABS | **Pauta aprovada em 29/10/2026:** [[mala-policarbonato-ou-abs-bagaggio]] |
+| G5 | Bagaggio é boa? (produto) | **Pauta aprovada em 29/10/2026:** [[bagaggio-e-boa-malas-mochilas]] |
+| G6 | Conjunto de malas compensa? | **Pauta aprovada em 29/10/2026:** [[conjunto-de-malas-bagaggio-compensa]] |
+| G7 | Travelcross vale a pena? | Estoque (sinal fraco) |
+| S5 | Hidratante corporal Skelt | **Pauta aprovada em 29/10/2026:** [[hidratante-corporal-skelt-qual-fragrancia]] |
+| S6 | Body Splash Solar Muse | **Pauta aprovada em 29/10/2026:** [[body-splash-skelt-solar-muse]] |
+| S7 | Body Splash Milos Breeze | **Pauta aprovada em 29/10/2026:** [[body-splash-skelt-milos-breeze]] |
+| S8 | Trio Exotic Trip | Estoque (sinal fraco, sobreposto ao guia de body splash) |
+
+Descartados: "Skelt masculino" como artigo (a loja não tem linha para homem em 29/10; vira uma pergunta do FAQ de [[body-splash-skelt-qual-escolher]] quando ele for revisado), eau de parfum, colônia, sabonete, shampoo e refil (sem produto), vegano e cruelty free como pauta (vira frase só nos artigos cuja ficha declara o selo), presente e amigo secreto Skelt (canibaliza [[presente-natal-quem-treina]]), "autobronzeador que não mancha a roupa" (reforço de seção do [[autobronzeador-skelt-qual-escolher]], não artigo).
 
 ## Apps das lojas parceiras (Bruno, 23/10/2026)
 

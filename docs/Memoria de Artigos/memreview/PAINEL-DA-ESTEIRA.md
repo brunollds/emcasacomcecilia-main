@@ -12,6 +12,12 @@
 - [ ] [[mochila-notebook-bagaggio-qual-escolher]]: Mochila para notebook da Bagaggio: qual escolher pelo tamanho do notebook e pelo preço (R$ 79,90 a R$ 699,90) (PT); no mesmo PR, a Samsonite em 2 artigos
 - [ ] [[mala-de-bordo-bagaggio-qual-compensa]]: Mala de bordo da Bagaggio: qual compensa (Downtown R$ 179,90, Detroit R$ 249,90, Route R$ 299,90, Cartagena R$ 349,90; policarbonato R$ 899,90+) (PT)
 - [ ] [[tamanho-mala-bagaggio-p-m-g]]: Mala P, M ou G da Bagaggio: qual tamanho escolher pelos kg e litros da loja (PT)
+- [ ] [[mala-policarbonato-ou-abs-bagaggio]]: Mala de policarbonato ou ABS: vale pagar mais? Preço por litro da Detroit (R$ 5,65) à Bahamas (R$ 20,78) (PT)
+- [ ] [[bagaggio-e-boa-malas-mochilas]]: Bagaggio é boa? Malas, mochilas e bolsas pelas fichas (PT); só depois da correção da Samsonite do #347
+- [ ] [[conjunto-de-malas-bagaggio-compensa]]: Conjunto de malas Bagaggio compensa? 24 de 32 custam a soma das peças; Malta, Nova Bahamas e Santiago com desconto real (PT)
+- [ ] [[hidratante-corporal-skelt-qual-fragrancia]]: Hidratante corporal Skelt: qual fragrância e quanto sai por 100 g (R$ 49,95 avulso; R$ 42,03 no kit de 3) (PT); o body splash ganha o link
+- [ ] [[body-splash-skelt-solar-muse]]: Body Splash Skelt Solar Muse: notas, tamanhos, kits e preço (PT)
+- [ ] [[body-splash-skelt-milos-breeze]]: Body Splash Skelt Milos Breeze: notas, kits e preço (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
