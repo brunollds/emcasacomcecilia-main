@@ -38257,7 +38257,7 @@ export const reviewsData: unknown[] = [
     "changelog": [
       {
         "date": "2026-09-28",
-        "text": "Envios ao Brasil retomados; incluída a política de reembolso de taxas alfandegárias da YesStyle e retirada a menção ao Remessa Conforme."
+        "text": "Envios ao Brasil retomados em setembro (suspensos de novo em outubro de 2026); incluída a política de reembolso de taxas alfandegárias da YesStyle e retirada a menção ao Remessa Conforme."
       },
       {
         "date": "2026-10-12",
@@ -65451,9 +65451,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Quem opera a SHEIN no Brasil, de que país ela é, o que ela vende, o que o Reclame Aqui mostra, como pagar, quanto demora a entrega, o imposto, a devolução e o que conferir antes de pagar.",
-    "metaDescription": "A SHEIN é confiável? Quem opera a loja no Brasil, a nota 7,6 no Reclame Aqui, de que país ela é, o prazo, a taxa, a devolução e o que conferir antes de pagar.",
+    "metaDescription": "A SHEIN é confiável? Quem opera a loja no Brasil, a nota 7,5 no Reclame Aqui, de que país ela é, o prazo, a taxa, a devolução e o que conferir antes de pagar.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-10-29",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
@@ -65505,10 +65506,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,6 de 10. Os números abaixo são dos seis meses de 1º de abril a 30 de setembro de 2026, consultados em 12/10/2026."
+          "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,5 de 10. Os números abaixo são dos seis meses de 1º de abril a 30 de setembro de 2026, consultados em 28/10/2026."
         ],
         "comparisonTable": {
-          "caption": "Perfil da SHEIN no Reclame Aqui, janela de 01/04 a 30/09/2026, consultado em 12/10/2026.",
+          "caption": "Perfil da SHEIN no Reclame Aqui, janela de 01/04 a 30/09/2026, consultado em 28/10/2026.",
           "headers": [
             "Indicador",
             "SHEIN no Reclame Aqui"
@@ -65516,36 +65517,36 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Reputação",
-              "Boa, nota 7,6 de 10"
+              "Boa, nota 7,5 de 10"
             ],
             [
               "Reclamações",
-              "32.489"
+              "32.431"
             ],
             [
               "Respondidas",
-              "95%"
+              "95,3%"
             ],
             [
               "Resolvidas",
-              "78,2%"
+              "77,8%"
             ],
             [
               "Voltariam a fazer negócio",
-              "70,9%"
+              "70,6%"
             ],
             [
               "Nota do consumidor",
-              "6,33 de 10"
+              "6,3 de 10"
             ],
             [
               "Tempo médio de resposta",
-              "3 dias e 3 horas"
+              "3 dias e 5 horas"
             ]
           ]
         },
         "postParagraphs": [
-          "A nota mede como a SHEIN atende quem reclama, não a qualidade das peças. Nas reclamações dos últimos três anos, o problema mais citado é produto não recebido (36,68%), e a categoria mais citada é moda feminina (20,19%)."
+          "A nota mede como a SHEIN atende quem reclama, não a qualidade das peças. Nas reclamações dos últimos três anos, o problema mais citado é produto não recebido (36,47%), e a categoria mais citada é moda feminina (19,62%)."
         ]
       },
       {
@@ -65613,18 +65614,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na SHEIN?",
         "paragraphs": [
-          "Sim, desde que você compre pelo site ou pelo aplicativo oficial. Nos seis meses até 30/09/2026, a SHEIN tinha reputação Boa, com nota 7,6 de 10, 95% das reclamações respondidas, 78,2% resolvidas e 70,9% de quem avaliou dizendo que voltaria a comprar.",
+          "Sim, desde que você compre pelo site ou pelo aplicativo oficial. Nos seis meses até 30/09/2026, a SHEIN tinha reputação Boa, com nota 7,5 de 10, 95,3% das reclamações respondidas, 77,8% resolvidas e 70,6% de quem avaliou dizendo que voltaria a comprar.",
           "O problema mais citado é produto não recebido, então confira o prazo na página do pedido, o imposto no resumo e guarde a confirmação da compra."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A SHEIN é confiável? É uma loja legítima, com empresa identificada no Brasil e reputação \"Boa\" no Reclame Aqui, nota 7,6 de 10 nos seis meses até 30/09/2026.",
+          "A SHEIN é confiável? É uma loja legítima, com empresa identificada no Brasil e reputação \"Boa\" no Reclame Aqui, nota 7,5 de 10 nos seis meses até 30/09/2026.",
           "É seguro comprar na SHEIN com cartão de crédito? A SHEIN aceita cartão brasileiro em até 6 vezes e diz que não coleta o número do cartão internacional. Compre só pelo site oficial ou pelo aplicativo.",
           "A SHEIN é de que país? A SHEIN nasceu na China e tem sede em Singapura, segundo o Financial Times; em fevereiro de 2026, o fundador disse que as raízes da empresa estão em Guangdong, segundo a BBC e o The Straits Times. No Brasil, quem opera a loja é a In Glow Brasil.",
           "O que a SHEIN vende? Roupa feminina, masculina e infantil, sapatos, bolsas, joias, beleza, casa e decoração, eletrônicos, brinquedos, itens para pets e até alimentos. Parte é da marca SHEIN, e parte vem de outros fornecedores.",
-          "A SHEIN tem Reclame Aqui? Tem: reputação \"Boa\", nota 7,6 de 10 e 32.489 reclamações nos seis meses até 30/09/2026, com 95% respondidas.",
+          "A SHEIN tem Reclame Aqui? Tem: reputação \"Boa\", nota 7,5 de 10 e 32.431 reclamações nos seis meses até 30/09/2026, com 95,3% respondidas.",
           "Quanto tempo demora a entrega da SHEIN no Brasil? O pedido internacional leva de 3 a 5 dias para ser processado, e o prazo de entrega aparece na página do pedido.",
           "A SHEIN cobra taxa? Toda compra internacional paga ICMS de 17% a 20%, e o imposto de importação é zero nos pedidos de até US$ 50. A tabela e o exemplo de cálculo estão no guia de Black Friday da SHEIN.",
           "O que fazer se o pedido da SHEIN não chegar? Fale com o atendimento em até 90 dias do pagamento. Se o pedido aparece como entregue e não chegou, o prazo é de 60 dias a partir da entrega.",
@@ -69219,7 +69220,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "A YesStyle entrega no Brasil e em Portugal? Prazo, frete grátis e imposto pela tabela da loja de 13/10/2026, o envio ao Brasil e o reembolso da taxa.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-10-14",
+    "updatedAt": "2026-10-29",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
@@ -69232,7 +69233,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle entrega em Portugal, com prazo e frete publicados, e enviou um pedido nosso ao Brasil, embora o Brasil não conste na tabela de frete da loja. Para o Brasil, a loja não publica prazo nem frete, e o imposto é cobrado depois que o pacote chega. Veja abaixo a tabela e o capítulo do imposto."
+          "A YesStyle entrega em Portugal, com prazo e frete publicados. Para o Brasil, os envios voltaram em setembro de 2026, quando um pedido nosso saiu, e foram suspensos de novo: em 28/10/2026, a loja não oferecia entrega para o Brasil. Veja abaixo a tabela e o capítulo do imposto."
         ]
       },
       {
@@ -69274,7 +69275,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a loja mostra sobre o Brasil",
         "paragraphs": [
           "A tabela de frete de 13 de outubro de 2026 e a lista de países atendidos não trazem o Brasil, e o seletor de endereço de entrega do site em português também não. O aviso de 3 de julho de 2026, que pausou os novos pedidos ao Brasil por atrasos na alfândega, segue na central de avisos sem um aviso de retomada.",
-          "Mesmo assim, o nosso pedido de 17/09/2026 foi enviado em 19/09/2026 pela Anjun Express. Enquanto a loja não publica a linha do Brasil, confira o frete e o prazo no checkout, antes de pagar."
+          "Mesmo assim, o nosso pedido de 17/09/2026 foi enviado em 19/09/2026 pela Anjun Express. Os envios ao Brasil voltaram nesse intervalo e foram suspensos de novo: em 28/10/2026, a loja não oferecia entrega para o Brasil. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
         ]
       },
       {
@@ -69411,8 +69412,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, um pedido nosso foi enviado em 19/09/2026 pela Anjun Express, embora o país não esteja na tabela e a loja não publique prazo.",
-          "A YesStyle voltou a entregar no Brasil? A loja não publicou aviso de retomada depois da pausa de 3 de julho de 2026, mas um pedido nosso feito em 17/09/2026 foi enviado dois dias depois.",
+          "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: os envios voltaram em setembro de 2026, quando um pedido nosso saiu em 19/09/2026, e foram suspensos de novo, e em 28/10/2026 a loja não oferecia entrega para o Brasil.",
+          "A YesStyle voltou a entregar no Brasil? Voltou em setembro de 2026, sem aviso de retomada depois da pausa de 3 de julho (um pedido nosso feito em 17/09/2026 foi enviado dois dias depois), e suspendeu de novo: em 28/10/2026, a loja não oferecia entrega para o Brasil.",
           "Quanto tempo demora a entrega da YesStyle? Em Portugal, de 11 a 18 dias úteis para um pedido só com itens em estoque: 1 a 3 para sair de Hong Kong e 10 a 15 de envio; para o Brasil, a loja não publica prazo.",
           "A partir de quanto o frete da YesStyle é grátis? Em Portugal, a partir de US$ 60, sem contar a embalagem de presente, com frete de US$ 5 abaixo disso; para o Brasil, a loja não publica o valor.",
           "A YesStyle tem taxa ou imposto? Em Portugal, o IVA de 23% já vem no preço; no Brasil, pela regra da Receita Federal para quem está fora do Remessa Conforme, o pacote paga Imposto de Importação de 60% mais ICMS depois que chega, cerca de US$ 56 a US$ 60 num pedido de US$ 60.",
@@ -152679,6 +152680,3737 @@ export const reviewsData: unknown[] = [
       {
         "slug": "hostinger-black-friday-zh-hant",
         "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+      }
+    ]
+  },
+  {
+    "id": 686,
+    "slug": "yesstyle-trustpilot-nota-reclamacoes",
+    "locale": "pt",
+    "translationKey": "yesstyle-reputation",
+    "title": "YesStyle na Trustpilot: nota, reclamações e o que os dados mostram",
+    "seoTitle": "YesStyle na Trustpilot: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A nota da YesStyle na Trustpilot em 28/10/2026: TrustScore 4,4 em 104.552 avaliações, 71% de cinco estrelas, as queixas concentradas na entrega internacional e por que a nota não diz nada sobre o seu país.",
+    "metaDescription": "YesStyle na Trustpilot em 28/10/2026: nota 4,4 em 104 mil avaliações, 71% de cinco estrelas, queixas de entrega e rastreio. Veja o que a nota não mostra.",
+    "publishedAt": "29 de outubro de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa.webp",
+    "imageAlt": "Logo da YesStyle e cinco estrelas preenchidas até a nota 4,4 da Trustpilot, lida em 28/10/2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A YesStyle tem nota boa na Trustpilot, com uma ressalva. Em 28/10/2026, o TrustScore era 4,4, com mais de 104 mil avaliações e 71% de cinco estrelas; as queixas se concentram na entrega internacional e no rastreio. A nota é global e não separa países."
+        ]
+      },
+      {
+        "heading": "O que a nota mede",
+        "paragraphs": [
+          "O TrustScore é a nota do perfil na Trustpilot. Em 28/10/2026, a YesStyle tinha 4,4, com o rótulo \"Excellent\", em 104.552 avaliações; 11.757 delas foram publicadas nos últimos 12 meses. O perfil é reivindicado pela empresa e tem assinatura paga da Trustpilot, como a própria página informa.",
+          "A distribuição por estrela, na mesma leitura: 71% de cinco estrelas, 18% de quatro, 3% de três, 1% de duas e 7% de uma. Cinco e quatro estrelas somam a maior parte; a nota de uma estrela, com 7%, pesa mais do que as de duas e três juntas, e é nela que as queixas aparecem."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
+          "alt": "Barras de cinco a uma estrela com a distribuição das avaliações da YesStyle na Trustpilot: 71%, 18%, 3%, 1% e 7%",
+          "caption": "Distribuição das avaliações da YesStyle na Trustpilot, lida em 28/10/2026. Quadro nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "A média resume tudo isso num número só. Para decidir, vale mais olhar o que as notas baixas dizem e como a loja responde a elas; é o que vem a seguir."
+        ]
+      },
+      {
+        "heading": "Quem avalia, e de onde",
+        "paragraphs": [
+          "O perfil lido, o de www.yesstyle.com, é global: ele não separa as avaliações por país, e a página não diz quantas vieram de Portugal ou de qualquer outro lugar. A nota junta compradores de países diferentes, com frete, prazo e alfândega diferentes.",
+          "Para quem compra de Portugal, isso muda a leitura: a nota diz como a loja se comporta no conjunto, não como é a entrega no seu endereço. Esse dado está no checkout e na tabela de frete da loja, não na Trustpilot.",
+          "No Reclame Aqui, a YesStyle não atende: a página que existe lá não é verificada e, em 28/10/2026, não tinha nenhuma reclamação respondida. Por isso este artigo usa a Trustpilot. Quem opera a loja, a sede em Hong Kong e a controladora estão em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "O que aparece nas queixas",
+        "paragraphs": [
+          "Lemos as avaliações negativas visíveis no perfil em 28/10/2026 e anotamos os temas, sem contar nem ranquear. Eles giram em torno da entrega internacional:"
+        ],
+        "bullets": [
+          "Atraso na entrega e espera longa, em pacote que vem de fora.",
+          "Rastreio que para de atualizar.",
+          "Pacote extraviado.",
+          "Item que chegou danificado.",
+          "Pedido retido no processamento, antes de sair."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
+          "alt": "Ilustração de uma tela de rastreio: pacote enviado, voo concluído, entrega parada e a casa ainda à espera, ao lado de um comprovante com código de barras e de um globo",
+          "caption": "Ilustração nossa do rastreio parado, um dos temas das queixas. Guarde o número do pedido e o código de rastreio.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "São os pontos em que uma compra internacional costuma falhar. Para o leitor, eles dizem onde olhar: o prazo no checkout, o rastreio depois do envio e a embalagem na chegada."
+        ]
+      },
+      {
+        "heading": "O que aparece nos elogios",
+        "paragraphs": [
+          "Nas avaliações positivas, na mesma leitura, os temas são outros:"
+        ],
+        "bullets": [
+          "Preço baixo e promoções frequentes.",
+          "Seleção grande de beleza coreana.",
+          "Embalagem cuidadosa.",
+          "Avisos de envio úteis.",
+          "Entrega que às vezes chega antes do prazo.",
+          "App e site fáceis de usar."
+        ],
+        "postParagraphs": [
+          "Elogio e queixa falam de momentos diferentes da compra: o elogio, do catálogo, do preço e do pacote que chegou; a queixa, do pacote que demorou ou não chegou. A nota junta os dois."
+        ]
+      },
+      {
+        "heading": "O que a loja responde",
+        "paragraphs": [
+          "Segundo o perfil, lido em 28/10/2026, a YesStyle respondeu a 98% das avaliações negativas, em geral em até 24 horas, e a página avisa que a resposta pode usar inteligência artificial.",
+          "Responder não é resolver. Não lemos o texto das respostas, então este artigo não diz se elas resolvem o problema de quem reclamou. Antes de comprar, vale abrir algumas avaliações de uma estrela no perfil e ler a resposta da loja embaixo de cada uma, em especial as de rastreio e extravio."
+        ]
+      },
+      {
+        "heading": "O que não dá para concluir",
+        "paragraphs": [
+          "A nota responde a uma pergunta, não a todas. Quatro coisas que a leitura de 28/10/2026 não sustenta:"
+        ],
+        "bullets": [
+          "Que a nota vale para o seu país: o perfil é global e não separa as avaliações por origem.",
+          "Que a nota mede o produto: ela junta produto, entrega e atendimento numa avaliação só, e os temas de queixa que lemos são de entrega e de processamento do pedido.",
+          "Que a loja resolve as reclamações: o perfil mostra o índice de respostas, 98%, e o prazo delas; o texto das respostas não foi lido.",
+          "O que o resumo de IA da Trustpilot diz: a página traz um resumo gerado por inteligência artificial, e este artigo não o usa como fonte."
+        ]
+      },
+      {
+        "heading": "Nossa checagem",
+        "paragraphs": [
+          "Em 28/10/2026, lemos o perfil público da YesStyle na Trustpilot, sem login: a nota, o número de avaliações, a distribuição por estrela, o índice de respostas e as avaliações visíveis, de onde saíram os temas. No mesmo dia, lemos a página da YesStyle no Reclame Aqui, para conferir se a loja atende lá.",
+          "No app da loja, num teste nosso sem compra, conferimos o checkout: ele tem o campo do código de recompensa, e, em 28/10/2026, a YesStyle não oferecia entrega para o Brasil.",
+          "Ninguém do site comprou na YesStyle para este artigo. Os números da Trustpilot mudam todo mês; confira o perfil no dia da compra."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
+          "alt": "Celular com o perfil da YesStyle na Trustpilot: nota 4,4, distribuição das estrelas e 98% das avaliações negativas respondidas",
+          "caption": "Perfil da YesStyle na Trustpilot, versão de celular, em 29/10/2026. Print do site, com dois trechos ampliados.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "Perfil da YesStyle na Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
+        ]
+      },
+      {
+        "heading": "Dá para confiar na YesStyle pela Trustpilot?",
+        "paragraphs": [
+          "Pela Trustpilot, a leitura é boa: em 28/10/2026, TrustScore 4,4, \"Excellent\", em 104.552 avaliações, 71% delas de cinco estrelas e 7% de uma, com 98% das negativas respondidas, em geral em até 24 horas.",
+          "A ressalva é de escopo, não de nota. O perfil é global, não separa países, e as queixas que lemos são de entrega internacional: atraso, rastreio e extravio. A Trustpilot mostra como a loja se comporta no conjunto; o frete e o prazo do seu endereço estão no checkout."
+        ]
+      },
+      {
+        "heading": "Antes de pagar",
+        "paragraphs": [
+          "As queixas se concentram na entrega, então o que você confere antes de pagar é o frete e o prazo do seu país, que aparecem no checkout. Para Portugal, a YesStyle publica prazo e frete na tabela dela, e o IVA já vem no preço; os valores e a contagem do prazo estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "Depois de pagar, guarde o número do pedido e o código de rastreio: é com eles que se abre um chamado no atendimento se o pacote atrasar ou o rastreio parar.",
+          "Se você decidiu comprar, a [página da YesStyle](/cupons/yesstyle) aqui do site leva à loja. O link é de afiliado: a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A YesStyle tem boa nota na Trustpilot? Em 28/10/2026, o TrustScore era 4,4, com o rótulo \"Excellent\", em 104.552 avaliações; 71% davam cinco estrelas e 7%, uma.",
+          "Quais são as reclamações mais comuns sobre a YesStyle? Nas avaliações negativas lidas em 28/10/2026, os temas são de entrega internacional: atraso e espera longa, rastreio parado, pacote extraviado, item danificado e pedido retido no processamento.",
+          "A YesStyle responde às avaliações negativas? Segundo o perfil na Trustpilot, lido em 28/10/2026, a loja respondeu a 98% das avaliações negativas, em geral em até 24 horas, e a resposta pode usar inteligência artificial.",
+          "A YesStyle entrega no Brasil? Em 28/10/2026, não: a loja não oferecia entrega para o Brasil, num teste nosso no app. Em Portugal, sim, com prazo e frete publicados na tabela de frete da loja."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Se for comprar, confira o frete e o prazo do seu país no checkout antes de pagar e guarde o número do pedido.",
+      "label": "Ir para a YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Dados públicos da Trustpilot. A YesStyle é parceira: podemos receber comissão pelas compras.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-app-como-comprar-codigo-de-recompensa",
+        "title": "App da YesStyle: como comprar e onde entra o código de recompensa CECILIA010"
+      },
+      {
+        "slug": "yesstyle-ou-olive-young",
+        "title": "YesStyle ou Olive Young: quem entrega no seu país, frete, imposto e devolução"
+      },
+      {
+        "slug": "black-friday-yesstyle",
+        "title": "Black Friday YesStyle 2026: quando começa, como funcionam os cupons e onde entra o código CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 687,
+    "slug": "yesstyle-trustpilot-reviews",
+    "locale": "en",
+    "translationKey": "yesstyle-reputation",
+    "title": "YesStyle on Trustpilot: score, complaints and what the numbers show",
+    "seoTitle": "YesStyle Trustpilot reviews: score and complaints",
+    "type": "Reputation Analysis",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyle’s Trustpilot score on October 28, 2026: a TrustScore of 4.4 from 104,552 reviews, 71% five stars, complaints concentrated on international delivery, and why the score says nothing about your country.",
+    "metaDescription": "YesStyle on Trustpilot on October 28, 2026: 4.4 from 104,000+ reviews, 71% five stars, complaints about delivery and tracking. What the score does not show.",
+    "publishedAt": "October 29, 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa.webp",
+    "imageAlt": "YesStyle logo and five stars filled up to the 4.4 Trustpilot score, read on October 28, 2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "YesStyle has a good Trustpilot score, with one caveat. On October 28, 2026, the TrustScore was 4.4 from more than 104,000 reviews, 71% of them five stars, and the complaints center on international delivery and tracking. The score is global and does not separate countries, so it says nothing about delivery to your address."
+        ]
+      },
+      {
+        "heading": "What the score measures",
+        "paragraphs": [
+          "The TrustScore is the profile’s rating on Trustpilot. On October 28, 2026, YesStyle had a 4.4, labeled “Excellent”, from 104,552 reviews; 11,757 of them were posted in the last 12 months. The profile is claimed by the company and has a paid Trustpilot subscription, as the page itself states.",
+          "The breakdown by star, in the same reading: 71% five stars, 18% four, 3% three, 1% two and 7% one. Five and four stars make up most of the total; the one-star share, at 7%, weighs more than two and three stars combined, and that is where the complaints appear."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
+          "alt": "Bars from five stars to one with the distribution of YesStyle’s Trustpilot reviews: 71%, 18%, 3%, 1% and 7%",
+          "caption": "Distribution of YesStyle’s Trustpilot reviews, read on October 28, 2026. Our chart.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "The average sums all of that up in one number. To decide, it is worth looking at what the low ratings say and how the store answers them; that is what comes next."
+        ]
+      },
+      {
+        "heading": "Who reviews, and from where",
+        "paragraphs": [
+          "The profile we read, for www.yesstyle.com, is global: it does not separate reviews by country, and the page does not say how many came from any one place. The score mixes buyers from different countries, with different shipping costs, delivery times and customs.",
+          "That changes how to read it: the score says how the store performs overall, not what delivery is like to your address. That information is at checkout and in the store’s shipping table, not on Trustpilot.",
+          "Who runs the store and where it is based are covered in [Is YesStyle legit?](/en/reviews/is-yesstyle-legit-and-safe-review)."
+        ]
+      },
+      {
+        "heading": "What shows up in the complaints",
+        "paragraphs": [
+          "We read the negative reviews visible on the profile on October 28, 2026 and noted the themes, without counting or ranking them. They revolve around international delivery:"
+        ],
+        "bullets": [
+          "Delayed delivery and a long wait, for a package shipped from abroad.",
+          "Tracking that stops updating.",
+          "Lost package.",
+          "Item that arrived damaged.",
+          "Order held in processing, before shipping."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
+          "alt": "Illustration of a tracking screen: parcel shipped, flight done, delivery stalled and the house still waiting, next to a receipt with a barcode and a globe",
+          "caption": "Our illustration of a stalled tracking page, one of the complaint themes. Keep the order number and the tracking number.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "These are the points where an international purchase usually fails. For the reader, they say where to look: the delivery time at checkout, the tracking after dispatch and the packaging on arrival."
+        ]
+      },
+      {
+        "heading": "What shows up in the praise",
+        "paragraphs": [
+          "In the positive reviews, in the same reading, the themes are different:"
+        ],
+        "bullets": [
+          "Low prices and frequent promotions.",
+          "Large selection of Korean beauty.",
+          "Careful packaging.",
+          "Useful shipping notifications.",
+          "Delivery that sometimes arrives ahead of schedule.",
+          "App and website that are easy to use."
+        ],
+        "postParagraphs": [
+          "Praise and complaints speak of different moments of the purchase: the praise, of the catalog, the price and the package that arrived; the complaint, of the package that was late or never came. The score puts the two together."
+        ]
+      },
+      {
+        "heading": "What the store replies",
+        "paragraphs": [
+          "According to the profile, read on October 28, 2026, YesStyle replied to 98% of negative reviews, usually within 24 hours, and the page notes that replies may use artificial intelligence.",
+          "Replying is not resolving. We did not read the text of the replies, so this article does not say whether they solve the problem for the person who complained. Before buying, open a few one-star reviews on the profile and read the store’s reply under each one, especially those about tracking and lost packages."
+        ]
+      },
+      {
+        "heading": "What cannot be concluded",
+        "paragraphs": [
+          "The score answers one question, not all of them. Four things the reading of October 28, 2026 does not support:"
+        ],
+        "bullets": [
+          "That the score applies to your country: the profile is global and does not separate reviews by origin.",
+          "That the score measures the product: it combines product, delivery and customer service in a single rating, and the complaint themes we read are about delivery and order processing.",
+          "That the store resolves complaints: the profile shows the response rate, 98%, and how fast the replies come; the text of the replies was not read.",
+          "What Trustpilot’s AI summary says: the page shows a summary generated by artificial intelligence, and this article does not use it as a source."
+        ]
+      },
+      {
+        "heading": "Our check",
+        "paragraphs": [
+          "On October 28, 2026, we read YesStyle’s public Trustpilot profile, without logging in: the score, the number of reviews, the distribution by star, the response rate and the visible reviews, which is where the themes came from.",
+          "In the store’s app, in a test of our own without a purchase, we checked the checkout: it has a field for the reward code.",
+          "Nobody at the site bought from YesStyle for this article. Trustpilot’s numbers change every month; check the profile on the day you buy."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
+          "alt": "Phone showing YesStyle's Trustpilot profile: a 4.4 score, the star breakdown and 98% of negative reviews answered",
+          "caption": "YesStyle's Trustpilot profile, mobile version, on October 29, 2026. Screenshot of the site, with two parts enlarged.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "YesStyle’s profile on Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
+        ]
+      },
+      {
+        "heading": "Can you trust YesStyle going by Trustpilot?",
+        "paragraphs": [
+          "Going by Trustpilot, the reading is good: on October 28, 2026, a TrustScore of 4.4, “Excellent”, from 104,552 reviews, 71% of them five stars and 7% one star, with 98% of negative reviews answered, usually within 24 hours.",
+          "The caveat is about scope, not the score. The profile is global, does not separate countries, and the complaints we read are about international delivery: delays, tracking and lost packages. Trustpilot shows how the store performs overall; the shipping cost and delivery time for your address are at checkout."
+        ]
+      },
+      {
+        "heading": "Before you pay",
+        "paragraphs": [
+          "The complaints center on delivery, so what you check before paying is the shipping cost and the delivery time for your country, which appear at checkout. For the US, the UK, Canada and Australia, delivery times, shipping costs and customs are in our [YesStyle shipping guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+          "After paying, keep the order number and the tracking code: they are what you need to open a ticket with customer service if the package is late or the tracking stops.",
+          "If you have decided to buy, the [YesStyle page](/en/coupons/yesstyle) on this site takes you to the store. The link is an affiliate link: the purchase may earn a commission for Em Casa com Cecília, at no extra cost to you."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Does YesStyle have a good Trustpilot score? On October 28, 2026, the TrustScore was 4.4, labeled “Excellent”, from 104,552 reviews; 71% gave five stars and 7% gave one.",
+          "What are the most common complaints about YesStyle? In the negative reviews read on October 28, 2026, the themes are about international delivery: delays and long waits, tracking that stops, lost packages, damaged items and orders held in processing.",
+          "Does YesStyle reply to negative reviews? According to the Trustpilot profile, read on October 28, 2026, the store replied to 98% of negative reviews, usually within 24 hours, and the replies may use artificial intelligence.",
+          "Does YesStyle ship to my country? The Trustpilot score does not say. The shipping cost and delivery time for each country are in the store’s shipping table and at checkout."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "If you buy, check the shipping cost and delivery time for your country at checkout before paying, and keep the order number.",
+      "label": "Go to YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Public Trustpilot data. YesStyle is a partner: we may earn a commission on purchases.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-app-how-to-buy-reward-code",
+        "title": "YesStyle App: How to Shop and Where the Reward Code CECILIA010 Goes"
+      },
+      {
+        "slug": "yesstyle-vs-olive-young",
+        "title": "YesStyle or Olive Young: who ships to your country, shipping, tax and returns"
+      },
+      {
+        "slug": "yesstyle-black-friday-dates-coupons",
+        "title": "YesStyle Black Friday 2026: when it starts, how the coupons work and where the CECILIA010 code goes"
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "slug": "yesstyle-opiniones-trustpilot",
+    "locale": "es",
+    "translationKey": "yesstyle-reputation",
+    "title": "YesStyle en Trustpilot: calificación, quejas y lo que muestran los datos",
+    "seoTitle": "YesStyle en Trustpilot: calificación y quejas",
+    "type": "Análisis de reputación",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "La calificación de YesStyle en Trustpilot el 28 de octubre de 2026: TrustScore 4,4 con 104.552 opiniones, un 71 % de cinco estrellas, las quejas concentradas en el envío internacional y por qué la calificación no dice nada sobre tu país.",
+    "metaDescription": "YesStyle en Trustpilot, 28 de octubre de 2026: 4,4 con más de 104.000 opiniones, 71 % de cinco estrellas y quejas de envío. Lo que la calificación no muestra.",
+    "publishedAt": "29 de octubre de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa.webp",
+    "imageAlt": "Logo de YesStyle y cinco estrellas rellenas hasta la calificación 4,4 de Trustpilot, leída el 28 de octubre de 2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "YesStyle tiene una buena calificación en Trustpilot, con una salvedad. El 28 de octubre de 2026, el TrustScore era 4,4, con más de 104.000 opiniones y un 71 % de cinco estrellas; las quejas se concentran en el envío internacional y el rastreo. La calificación es global y no separa países."
+        ]
+      },
+      {
+        "heading": "Qué mide la calificación",
+        "paragraphs": [
+          "El TrustScore es la calificación del perfil en Trustpilot. El 28 de octubre de 2026, YesStyle tenía 4,4, con la etiqueta \"Excellent\", en 104.552 opiniones; 11.757 de ellas se publicaron en los últimos 12 meses. El perfil está reclamado por la empresa y tiene suscripción de pago de Trustpilot, como informa la propia página.",
+          "La distribución por estrella, en la misma lectura: 71 % de cinco estrellas, 18 % de cuatro, 3 % de tres, 1 % de dos y 7 % de una. Cinco y cuatro estrellas suman la mayor parte; la franja de una estrella, con un 7 %, pesa más que las de dos y tres juntas, y es ahí donde aparecen las quejas."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
+          "alt": "Barras de cinco a una estrella con la distribución de las opiniones de YesStyle en Trustpilot: 71 %, 18 %, 3 %, 1 % y 7 %",
+          "caption": "Distribución de las opiniones de YesStyle en Trustpilot, leída el 28 de octubre de 2026. Gráfico nuestro.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "El promedio resume todo eso en un solo número. Para decidir, vale más mirar qué dicen las calificaciones bajas y cómo responde la tienda; es lo que viene a continuación."
+        ]
+      },
+      {
+        "heading": "Quién opina, y desde dónde",
+        "paragraphs": [
+          "El perfil que leímos, el de www.yesstyle.com, es global: no separa las opiniones por país, y la página no dice cuántas vinieron de un lugar u otro. La calificación junta a compradores de países distintos, con envíos, plazos y aduanas distintos.",
+          "Eso cambia la lectura: la calificación dice cómo se comporta la tienda en conjunto, no cómo es la entrega en tu dirección. Ese dato está en el checkout y en la tabla de envíos de la tienda, no en Trustpilot.",
+          "Quién opera la tienda y de dónde es están en [¿YesStyle es confiable?](/es/reviews/es-yesstyle-de-fiar-y-seguro)."
+        ]
+      },
+      {
+        "heading": "Qué aparece en las quejas",
+        "paragraphs": [
+          "Leímos las opiniones negativas visibles en el perfil el 28 de octubre de 2026 y anotamos los temas, sin contar ni ordenar por frecuencia. Giran en torno al envío internacional:"
+        ],
+        "bullets": [
+          "Retraso en la entrega y espera larga, en un paquete que viene del exterior.",
+          "Rastreo que deja de actualizarse.",
+          "Paquete extraviado.",
+          "Artículo que llegó dañado.",
+          "Pedido retenido en procesamiento, antes de salir."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
+          "alt": "Ilustración de una pantalla de seguimiento: paquete enviado, vuelo hecho, entrega detenida y la casa todavía esperando, junto a un comprobante con código de barras y un globo terráqueo",
+          "caption": "Ilustración nuestra del seguimiento detenido, uno de los temas de las quejas. Guarda el número de pedido y el de seguimiento.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "Son los puntos en los que una compra internacional suele fallar. Para quien lee, dicen dónde mirar: el plazo en el checkout, el rastreo después del envío y el embalaje al llegar."
+        ]
+      },
+      {
+        "heading": "Qué aparece en los elogios",
+        "paragraphs": [
+          "En las opiniones positivas, en la misma lectura, los temas son otros:"
+        ],
+        "bullets": [
+          "Precios bajos y promociones frecuentes.",
+          "Selección grande de belleza coreana.",
+          "Embalaje cuidadoso.",
+          "Avisos de envío útiles.",
+          "Entrega que a veces llega antes del plazo.",
+          "App y sitio fáciles de usar."
+        ],
+        "postParagraphs": [
+          "Elogio y queja hablan de momentos distintos de la compra: el elogio, del catálogo, del precio y del paquete que llegó; la queja, del paquete que tardó o no llegó. La calificación junta los dos."
+        ]
+      },
+      {
+        "heading": "Qué responde la tienda",
+        "paragraphs": [
+          "Según el perfil, leído el 28 de octubre de 2026, YesStyle respondió al 98 % de las opiniones negativas, por lo general en menos de 24 horas, y la página avisa de que la respuesta puede usar inteligencia artificial.",
+          "Responder no es resolver. No leímos el texto de las respuestas, así que este artículo no dice si resuelven el problema de quien se quejó. Antes de comprar, vale abrir algunas opiniones de una estrella en el perfil y leer la respuesta de la tienda debajo de cada una, en especial las de rastreo y extravío."
+        ]
+      },
+      {
+        "heading": "Lo que no se puede concluir",
+        "paragraphs": [
+          "La calificación responde a una pregunta, no a todas. Cuatro cosas que la lectura del 28 de octubre de 2026 no sostiene:"
+        ],
+        "bullets": [
+          "Que la calificación vale para tu país: el perfil es global y no separa las opiniones por origen.",
+          "Que la calificación mide el producto: junta producto, entrega y atención en una sola opinión, y los temas de queja que leímos son de entrega y de procesamiento del pedido.",
+          "Que la tienda resuelve las quejas: el perfil muestra la tasa de respuesta, 98 %, y el plazo de las respuestas; el texto de las respuestas no se leyó.",
+          "Lo que dice el resumen de IA de Trustpilot: la página trae un resumen generado por inteligencia artificial, y este artículo no lo usa como fuente."
+        ]
+      },
+      {
+        "heading": "Nuestra comprobación",
+        "paragraphs": [
+          "El 28 de octubre de 2026 leímos el perfil público de YesStyle en Trustpilot, sin iniciar sesión: la calificación, el número de opiniones, la distribución por estrella, la tasa de respuesta y las opiniones visibles, de donde salieron los temas.",
+          "En la app de la tienda, en una prueba nuestra sin compra, revisamos el checkout: tiene el campo del código de recompensa.",
+          "Nadie del sitio compró en YesStyle para este artículo. Los números de Trustpilot cambian todos los meses; revisa el perfil el día de la compra."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
+          "alt": "Móvil con el perfil de YesStyle en Trustpilot: nota 4,4, reparto de estrellas y respuesta al 98% de las reseñas negativas",
+          "caption": "Perfil de YesStyle en Trustpilot, versión móvil, el 29 de octubre de 2026. Captura del sitio, con dos partes ampliadas.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "Perfil de YesStyle en Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
+        ]
+      },
+      {
+        "heading": "¿Se puede confiar en YesStyle por Trustpilot?",
+        "paragraphs": [
+          "Por Trustpilot, la lectura es buena: el 28 de octubre de 2026, TrustScore 4,4, \"Excellent\", en 104.552 opiniones, un 71 % de cinco estrellas y un 7 % de una, con el 98 % de las negativas respondidas, por lo general en menos de 24 horas.",
+          "La salvedad es de alcance, no de calificación. El perfil es global, no separa países, y las quejas que leímos son de envío internacional: retraso, rastreo y extravío. Trustpilot muestra cómo se comporta la tienda en conjunto; el costo de envío y el plazo para tu dirección están en el checkout."
+        ]
+      },
+      {
+        "heading": "Antes de pagar",
+        "paragraphs": [
+          "Las quejas se concentran en la entrega, así que lo que revisas antes de pagar es el costo de envío y el plazo para tu país, que aparecen en el checkout. Para España, México, Chile, Perú, Argentina y Colombia, los plazos, el costo de envío y los impuestos están en la [guía de envíos de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+          "Después de pagar, guarda el número de pedido y el código de rastreo: con ellos se abre un reclamo en atención al cliente si el paquete se retrasa o el rastreo se detiene.",
+          "Si decidiste comprar, la [página de YesStyle](/es/coupons/yesstyle) aquí en el sitio lleva a la tienda. El enlace es de afiliado: la compra puede generar una comisión para Em Casa com Cecília, sin costo extra para ti."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿YesStyle tiene buena calificación en Trustpilot? El 28 de octubre de 2026, el TrustScore era 4,4, con la etiqueta \"Excellent\", en 104.552 opiniones; el 71 % daba cinco estrellas y el 7 %, una.",
+          "¿Cuáles son las quejas más comunes sobre YesStyle? En las opiniones negativas leídas el 28 de octubre de 2026, los temas son de envío internacional: retraso y espera larga, rastreo detenido, paquete extraviado, artículo dañado y pedido retenido en procesamiento.",
+          "¿YesStyle responde a las opiniones negativas? Según el perfil en Trustpilot, leído el 28 de octubre de 2026, la tienda respondió al 98 % de las opiniones negativas, por lo general en menos de 24 horas, y la respuesta puede usar inteligencia artificial.",
+          "¿YesStyle envía a mi país? La calificación de Trustpilot no lo dice. El costo de envío y el plazo de cada país están en la tabla de envíos de la tienda y en el checkout."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Si vas a comprar, revisa el costo de envío y el plazo para tu país en el checkout antes de pagar y guarda el número de pedido.",
+      "label": "Ir a YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Datos públicos de Trustpilot. YesStyle es socia del sitio: podemos recibir una comisión por las compras.",
+    "relatedArticles": [
+      {
+        "slug": "app-yesstyle-como-comprar-codigo-de-recompensa",
+        "title": "App de YesStyle: cómo comprar y dónde va el código de recompensa CECILIA010"
+      },
+      {
+        "slug": "yesstyle-o-olive-young-cual-elegir",
+        "title": "YesStyle o Olive Young: quién envía a tu país, envío, impuestos y devoluciones"
+      },
+      {
+        "slug": "black-friday-yesstyle-fechas-cupones",
+        "title": "Black Friday YesStyle 2026: cuándo empieza, cómo funcionan los cupones y dónde va el código CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 689,
+    "slug": "yesstyle-avis-trustpilot",
+    "locale": "fr",
+    "translationKey": "yesstyle-reputation",
+    "title": "YesStyle sur Trustpilot : note, plaintes et ce que montrent les chiffres",
+    "seoTitle": "YesStyle sur Trustpilot : note et plaintes",
+    "type": "Analyse de réputation",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "La note de YesStyle sur Trustpilot le 28 octobre 2026 : un TrustScore de 4,4 pour 104 552 avis, 71 % de cinq étoiles, des plaintes concentrées sur la livraison internationale, et pourquoi la note ne dit rien sur votre pays.",
+    "metaDescription": "YesStyle sur Trustpilot le 28 octobre 2026 : 4,4 pour plus de 104 000 avis, 71 % de cinq étoiles, plaintes sur la livraison. Ce que la note ne montre pas.",
+    "publishedAt": "29 octobre 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa.webp",
+    "imageAlt": "Logo YesStyle et cinq étoiles remplies jusqu’à la note 4,4 de Trustpilot, relevée le 28 octobre 2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "YesStyle a une bonne note sur Trustpilot, avec une réserve. Le 28 octobre 2026, le TrustScore était de 4,4 pour plus de 104 000 avis, dont 71 % de cinq étoiles ; les plaintes portent surtout sur la livraison internationale et le suivi du colis. La note est mondiale et ne distingue pas les pays."
+        ]
+      },
+      {
+        "heading": "Ce que mesure la note",
+        "paragraphs": [
+          "Le TrustScore est la note du profil sur Trustpilot. Le 28 octobre 2026, YesStyle affichait 4,4, avec la mention « Excellent », pour 104 552 avis ; 11 757 d’entre eux ont été publiés au cours des 12 derniers mois. Le profil est revendiqué par l’entreprise et dispose d’un abonnement payant à Trustpilot, comme la page l’indique elle-même.",
+          "La répartition par étoile, dans le même relevé : 71 % de cinq étoiles, 18 % de quatre, 3 % de trois, 1 % de deux et 7 % d’une. Cinq et quatre étoiles font l’essentiel du total ; la part d’une étoile, à 7 %, pèse plus que celles de deux et trois réunies, et c’est là que les plaintes apparaissent."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
+          "alt": "Barres de cinq à une étoile avec la répartition des avis sur YesStyle sur Trustpilot : 71 %, 18 %, 3 %, 1 % et 7 %",
+          "caption": "Répartition des avis sur YesStyle sur Trustpilot, relevée le 28 octobre 2026. Graphique de notre rédaction.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "La moyenne résume tout cela en un seul chiffre. Pour décider, mieux vaut regarder ce que disent les notes basses et comment la boutique y répond ; c’est ce qui suit."
+        ]
+      },
+      {
+        "heading": "Qui donne son avis, et d’où",
+        "paragraphs": [
+          "Le profil que nous avons lu, celui de www.yesstyle.com, est mondial : il ne sépare pas les avis par pays, et la page ne dit pas combien viennent de tel ou tel endroit. La note mélange des acheteurs de pays différents, avec des frais de port, des délais et des douanes différents.",
+          "Cela change la lecture : la note dit comment la boutique se comporte dans l’ensemble, pas comment se passe la livraison à votre adresse. Cette information se trouve au moment du paiement et dans la grille des frais de port de la boutique, pas sur Trustpilot.",
+          "Qui exploite la boutique et où elle est basée, c’est dans [YesStyle est-il fiable ?](/fr/reviews/yesstyle-est-il-fiable-et-sur)."
+        ]
+      },
+      {
+        "heading": "Ce qui ressort des plaintes",
+        "paragraphs": [
+          "Nous avons lu les avis négatifs visibles sur le profil le 28 octobre 2026 et noté les thèmes, sans les compter ni les classer. Ils tournent autour de la livraison internationale :"
+        ],
+        "bullets": [
+          "Livraison en retard et longue attente, pour un colis qui vient de l’étranger.",
+          "Suivi qui cesse de se mettre à jour.",
+          "Colis perdu.",
+          "Article arrivé abîmé.",
+          "Commande bloquée en traitement, avant l’expédition."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
+          "alt": "Illustration d’un écran de suivi : colis expédié, vol terminé, livraison bloquée et maison toujours en attente, à côté d’un reçu avec code-barres et d’un globe",
+          "caption": "Notre illustration d’un suivi bloqué, l’un des thèmes des plaintes. Gardez le numéro de commande et le numéro de suivi.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "Ce sont les points où un achat international échoue d’habitude. Pour le lecteur, ils disent où regarder : le délai au moment du paiement, le suivi après l’expédition et l’emballage à l’arrivée."
+        ]
+      },
+      {
+        "heading": "Ce qui ressort des éloges",
+        "paragraphs": [
+          "Dans les avis positifs, dans le même relevé, les thèmes sont autres :"
+        ],
+        "bullets": [
+          "Prix bas et promotions fréquentes.",
+          "Grand choix de cosmétiques coréens.",
+          "Emballage soigné.",
+          "Notifications d’expédition utiles.",
+          "Livraison qui arrive parfois avant la date prévue.",
+          "Appli et site faciles à utiliser."
+        ],
+        "postParagraphs": [
+          "Éloge et plainte parlent de moments différents de l’achat : l’éloge, du catalogue, du prix et du colis arrivé ; la plainte, du colis en retard ou jamais arrivé. La note réunit les deux."
+        ]
+      },
+      {
+        "heading": "Ce que répond la boutique",
+        "paragraphs": [
+          "D’après le profil, relevé le 28 octobre 2026, YesStyle a répondu à 98 % des avis négatifs, en général dans les 24 heures, et la page précise que la réponse peut faire appel à l’intelligence artificielle.",
+          "Répondre n’est pas résoudre. Nous n’avons pas lu le texte des réponses, donc cet article ne dit pas si elles règlent le problème de la personne qui s’est plainte. Avant d’acheter, ouvrez quelques avis à une étoile sur le profil et lisez la réponse de la boutique sous chacun, en particulier ceux qui parlent de suivi et de colis perdu."
+        ]
+      },
+      {
+        "heading": "Ce qu’on ne peut pas conclure",
+        "paragraphs": [
+          "La note répond à une question, pas à toutes. Quatre choses que le relevé du 28 octobre 2026 ne permet pas d’affirmer :"
+        ],
+        "bullets": [
+          "Que la note vaut pour votre pays : le profil est mondial et ne sépare pas les avis par origine.",
+          "Que la note mesure le produit : elle réunit produit, livraison et service client dans une seule évaluation, et les thèmes de plainte que nous avons lus concernent la livraison et le traitement de la commande.",
+          "Que la boutique résout les réclamations : le profil montre le taux de réponse, 98 %, et leur délai ; le texte des réponses n’a pas été lu.",
+          "Ce que dit le résumé par IA de Trustpilot : la page affiche un résumé généré par intelligence artificielle, et cet article ne l’utilise pas comme source."
+        ]
+      },
+      {
+        "heading": "Notre vérification",
+        "paragraphs": [
+          "Le 28 octobre 2026, nous avons lu le profil public de YesStyle sur Trustpilot, sans connexion : la note, le nombre d’avis, la répartition par étoile, le taux de réponse et les avis visibles, d’où viennent les thèmes.",
+          "Dans l’appli de la boutique, lors d’un test de notre part sans achat, nous avons vérifié le paiement : il comporte le champ du code récompense.",
+          "Personne du site n’a acheté chez YesStyle pour cet article. Les chiffres de Trustpilot changent chaque mois ; consultez le profil le jour de l’achat."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
+          "alt": "Téléphone affichant le profil Trustpilot de YesStyle : note de 4,4, répartition des étoiles et réponse à 98 % des avis négatifs",
+          "caption": "Profil Trustpilot de YesStyle, version mobile, le 29 octobre 2026. Capture du site, avec deux passages agrandis.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "Profil de YesStyle sur Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
+        ]
+      },
+      {
+        "heading": "Peut-on faire confiance à YesStyle d’après Trustpilot ?",
+        "paragraphs": [
+          "D’après Trustpilot, la lecture est bonne : le 28 octobre 2026, un TrustScore de 4,4, « Excellent », pour 104 552 avis, dont 71 % de cinq étoiles et 7 % d’une, avec 98 % des avis négatifs ayant reçu une réponse, en général dans les 24 heures.",
+          "La réserve porte sur la portée, pas sur la note. Le profil est mondial, ne sépare pas les pays, et les plaintes que nous avons lues concernent la livraison internationale : retard, suivi et colis perdu. Trustpilot montre comment la boutique se comporte dans l’ensemble ; les frais de port et le délai pour votre adresse s’affichent au moment du paiement."
+        ]
+      },
+      {
+        "heading": "Avant de payer",
+        "paragraphs": [
+          "Les plaintes se concentrent sur la livraison, donc ce que vous vérifiez avant de payer, ce sont les frais de port et le délai pour votre pays, affichés au moment du paiement. Pour la France, la Belgique et le Canada, les délais, les frais de port et les taxes sont dans notre [guide de livraison YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+          "Après le paiement, gardez le numéro de commande et le numéro de suivi : c’est avec eux qu’on ouvre une demande auprès du service client si le colis prend du retard ou si le suivi s’arrête.",
+          "Si vous avez décidé d’acheter, la [page YesStyle](/fr/coupons/yesstyle) de ce site mène à la boutique. Le lien est un lien d’affiliation : l’achat peut rapporter une commission à Em Casa com Cecília, sans coût supplémentaire pour vous."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "YesStyle a-t-il une bonne note sur Trustpilot ? Le 28 octobre 2026, le TrustScore était de 4,4, avec la mention « Excellent », pour 104 552 avis ; 71 % donnaient cinq étoiles et 7 %, une.",
+          "Quelles sont les plaintes les plus fréquentes sur YesStyle ? Dans les avis négatifs lus le 28 octobre 2026, les thèmes concernent la livraison internationale : retard et longue attente, suivi bloqué, colis perdu, article abîmé et commande bloquée en traitement.",
+          "YesStyle répond-il aux avis négatifs ? D’après le profil Trustpilot, relevé le 28 octobre 2026, la boutique a répondu à 98 % des avis négatifs, en général dans les 24 heures, et la réponse peut faire appel à l’intelligence artificielle.",
+          "YesStyle livre-t-il dans mon pays ? La note Trustpilot ne le dit pas. Les frais de port et le délai pour chaque pays sont dans la grille des frais de port de la boutique et au moment du paiement."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Si vous achetez, vérifiez les frais de port et le délai pour votre pays au moment du paiement, et gardez le numéro de commande.",
+      "label": "Aller sur YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Données publiques de Trustpilot. YesStyle est partenaire : nous pouvons percevoir une commission sur les achats.",
+    "relatedArticles": [
+      {
+        "slug": "application-yesstyle-acheter-code-recompense",
+        "title": "Appli YesStyle : comment acheter et où saisir le code récompense CECILIA010"
+      },
+      {
+        "slug": "yesstyle-ou-olive-young-que-choisir",
+        "title": "YesStyle ou Olive Young : qui livre dans votre pays, frais, taxes et retours"
+      },
+      {
+        "slug": "black-friday-yesstyle-dates-et-coupons",
+        "title": "Black Friday YesStyle 2026 : quand il commence, comment fonctionnent les coupons et où saisir le code CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 690,
+    "slug": "yesstyle-recensioni-trustpilot",
+    "locale": "it",
+    "translationKey": "yesstyle-reputation",
+    "title": "YesStyle su Trustpilot: punteggio, reclami e cosa mostrano i dati",
+    "seoTitle": "YesStyle su Trustpilot: punteggio e reclami",
+    "type": "Analisi della reputazione",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Il punteggio di YesStyle su Trustpilot al 28 ottobre 2026: TrustScore 4,4 su 104.552 recensioni, 71% di cinque stelle, reclami concentrati sulla spedizione internazionale e perché il punteggio non dice nulla sul tuo paese.",
+    "metaDescription": "YesStyle su Trustpilot, 28 ottobre 2026: 4,4 su 104 mila recensioni, 71% di cinque stelle, reclami su spedizione e tracciamento. Cosa il punteggio non dice.",
+    "publishedAt": "29 ottobre 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa.webp",
+    "imageAlt": "Logo di YesStyle e cinque stelle riempite fino al 4,4 di Trustpilot, letto il 28 ottobre 2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "YesStyle ha un buon punteggio su Trustpilot, con una riserva. Il 28 ottobre 2026 il TrustScore era 4,4, con più di 104 mila recensioni e il 71% di cinque stelle; i reclami si concentrano sulla spedizione internazionale e sul tracciamento. Il punteggio è globale e non separa i paesi."
+        ]
+      },
+      {
+        "heading": "Cosa misura il punteggio",
+        "paragraphs": [
+          "Il TrustScore è il punteggio del profilo su Trustpilot. Il 28 ottobre 2026 YesStyle aveva 4,4, con l’etichetta «Excellent», su 104.552 recensioni; 11.757 di queste sono state pubblicate negli ultimi 12 mesi. Il profilo è rivendicato dall’azienda e ha un abbonamento a pagamento su Trustpilot, come indica la pagina stessa.",
+          "La distribuzione per stella, nella stessa lettura: 71% di cinque stelle, 18% di quattro, 3% di tre, 1% di due e 7% di una. Cinque e quattro stelle fanno la maggior parte; la fascia da una stella, con il 7%, pesa più di quelle da due e tre messe insieme, ed è lì che compaiono i reclami."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
+          "alt": "Barre da cinque a una stella con la distribuzione delle recensioni di YesStyle su Trustpilot: 71%, 18%, 3%, 1% e 7%",
+          "caption": "Distribuzione delle recensioni di YesStyle su Trustpilot, letta il 28 ottobre 2026. Grafico nostro.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "La media riassume tutto questo in un numero solo. Per decidere conta di più guardare cosa dicono i voti bassi e come il negozio risponde; è quello che segue."
+        ]
+      },
+      {
+        "heading": "Chi recensisce, e da dove",
+        "paragraphs": [
+          "Il profilo letto, quello di www.yesstyle.com, è globale: non separa le recensioni per paese, e la pagina non dice quante arrivano dall’Italia o da qualsiasi altro posto. Il punteggio mette insieme acquirenti di paesi diversi, con spedizione, tempi e dogana diversi.",
+          "Per chi compra dall’Italia questo cambia la lettura: il punteggio dice come si comporta il negozio nel complesso, non com’è la consegna al tuo indirizzo. Quel dato sta nel checkout e nella tabella delle spedizioni del negozio, non su Trustpilot.",
+          "Chi gestisce il negozio, la sede a Hong Kong e la società controllante sono in [YesStyle è affidabile?](/it/reviews/yesstyle-e-affidabile-e-sicuro)."
+        ]
+      },
+      {
+        "heading": "Cosa compare nei reclami",
+        "paragraphs": [
+          "Abbiamo letto le recensioni negative visibili sul profilo il 28 ottobre 2026 e annotato i temi, senza contarli né metterli in classifica. Ruotano intorno alla spedizione internazionale:"
+        ],
+        "bullets": [
+          "Consegna in ritardo e attesa lunga, per un pacco che arriva dall’estero.",
+          "Tracciamento che smette di aggiornarsi.",
+          "Pacco smarrito.",
+          "Articolo arrivato danneggiato.",
+          "Ordine fermo in elaborazione, prima della partenza."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
+          "alt": "Illustrazione di una schermata di tracciamento: pacco spedito, volo concluso, consegna ferma e la casa ancora in attesa, accanto a una ricevuta con codice a barre e a un mappamondo",
+          "caption": "Nostra illustrazione del tracciamento fermo, uno dei temi dei reclami. Conserva il numero d’ordine e il codice di tracciamento.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "Sono i punti in cui un acquisto internazionale di solito si inceppa. Per chi legge, dicono dove guardare: i tempi nel checkout, il tracciamento dopo la spedizione e l’imballaggio all’arrivo."
+        ]
+      },
+      {
+        "heading": "Cosa compare negli elogi",
+        "paragraphs": [
+          "Nelle recensioni positive, nella stessa lettura, i temi sono altri:"
+        ],
+        "bullets": [
+          "Prezzi bassi e promozioni frequenti.",
+          "Ampia scelta di bellezza coreana.",
+          "Imballaggio curato.",
+          "Avvisi di spedizione utili.",
+          "Consegna che a volte arriva prima del previsto.",
+          "App e sito facili da usare."
+        ],
+        "postParagraphs": [
+          "Elogi e reclami parlano di momenti diversi dell’acquisto: l’elogio, del catalogo, del prezzo e del pacco arrivato; il reclamo, del pacco che ha tardato o non è arrivato. Il punteggio li somma."
+        ]
+      },
+      {
+        "heading": "Cosa risponde il negozio",
+        "paragraphs": [
+          "Secondo il profilo, letto il 28 ottobre 2026, YesStyle ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la pagina avverte che la risposta può usare l’intelligenza artificiale.",
+          "Rispondere non è risolvere. Non abbiamo letto il testo delle risposte, quindi questo articolo non dice se risolvono il problema di chi si è lamentato. Prima di comprare, vale la pena aprire alcune recensioni da una stella sul profilo e leggere la risposta del negozio sotto ciascuna, soprattutto quelle su tracciamento e smarrimento."
+        ]
+      },
+      {
+        "heading": "Cosa non si può concludere",
+        "paragraphs": [
+          "Il punteggio risponde a una domanda, non a tutte. Quattro cose che la lettura del 28 ottobre 2026 non sostiene:"
+        ],
+        "bullets": [
+          "Che il punteggio valga per il tuo paese: il profilo è globale e non separa le recensioni per origine.",
+          "Che il punteggio misuri il prodotto: mette insieme prodotto, spedizione e assistenza in una valutazione sola, e i temi di reclamo che abbiamo letto riguardano la spedizione e l’elaborazione dell’ordine.",
+          "Che il negozio risolva i reclami: il profilo mostra la quota di risposte, il 98%, e i loro tempi; il testo delle risposte non è stato letto.",
+          "Cosa dice il riepilogo IA di Trustpilot: la pagina ha un riepilogo generato dall’intelligenza artificiale, e questo articolo non lo usa come fonte."
+        ]
+      },
+      {
+        "heading": "La nostra verifica",
+        "paragraphs": [
+          "Il 28 ottobre 2026 abbiamo letto il profilo pubblico di YesStyle su Trustpilot, senza login: il punteggio, il numero di recensioni, la distribuzione per stella, la quota di risposte e le recensioni visibili, da cui sono usciti i temi.",
+          "Nell’app del negozio, in un nostro test senza acquisto, abbiamo controllato il checkout: ha il campo per il codice ricompensa.",
+          "Nessuno del sito ha comprato su YesStyle per questo articolo. I numeri di Trustpilot cambiano ogni mese; controlla il profilo il giorno dell’acquisto."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
+          "alt": "Smartphone con il profilo di YesStyle su Trustpilot: punteggio 4,4, distribuzione delle stelle e risposta al 98% delle recensioni negative",
+          "caption": "Profilo di YesStyle su Trustpilot, versione mobile, il 29 ottobre 2026. Screenshot del sito, con due parti ingrandite.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "Profilo di YesStyle su Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
+        ]
+      },
+      {
+        "heading": "Ci si può fidare di YesStyle in base a Trustpilot?",
+        "paragraphs": [
+          "In base a Trustpilot, la lettura è buona: il 28 ottobre 2026, TrustScore 4,4, «Excellent», su 104.552 recensioni, il 71% da cinque stelle e il 7% da una, con il 98% delle negative con risposta, di solito entro 24 ore.",
+          "La riserva riguarda la portata, non il punteggio. Il profilo è globale, non separa i paesi, e i reclami che abbiamo letto riguardano la spedizione internazionale: ritardi, tracciamento e smarrimenti. Trustpilot mostra come si comporta il negozio nel complesso; spedizione e tempi per il tuo indirizzo sono nel checkout."
+        ]
+      },
+      {
+        "heading": "Prima di pagare",
+        "paragraphs": [
+          "I reclami si concentrano sulla consegna, quindi quello che controlli prima di pagare sono le spese di spedizione e i tempi per il tuo paese, che compaiono nel checkout. Per l’Italia, tempi, costi e dogana sono nella [guida alla spedizione di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+          "Dopo il pagamento, conserva il numero dell’ordine e il codice di tracciamento: servono per aprire una richiesta all’assistenza se il pacco tarda o il tracciamento si ferma.",
+          "Se hai deciso di comprare, la [pagina di YesStyle](/it/coupons/yesstyle) qui sul sito porta al negozio. Il link è di affiliazione: l’acquisto può generare una commissione per Em Casa com Cecília, senza costi extra per te."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "YesStyle ha un buon punteggio su Trustpilot? Il 28 ottobre 2026 il TrustScore era 4,4, con l’etichetta «Excellent», su 104.552 recensioni; il 71% dava cinque stelle e il 7% una.",
+          "Quali sono i reclami più comuni su YesStyle? Nelle recensioni negative lette il 28 ottobre 2026, i temi riguardano la spedizione internazionale: ritardi e attese lunghe, tracciamento fermo, pacco smarrito, articolo danneggiato e ordine fermo in elaborazione.",
+          "YesStyle risponde alle recensioni negative? Secondo il profilo su Trustpilot, letto il 28 ottobre 2026, il negozio ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la risposta può usare l’intelligenza artificiale.",
+          "YesStyle spedisce nel mio paese? Il punteggio di Trustpilot non lo dice. Spese e tempi di ogni paese sono nella tabella delle spedizioni del negozio e nel checkout, prima del pagamento."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Se compri, controlla spese di spedizione e tempi per il tuo paese nel checkout prima di pagare e conserva il numero dell’ordine.",
+      "label": "Vai su YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Dati pubblici di Trustpilot. YesStyle è partner: possiamo ricevere una commissione sugli acquisti.",
+    "relatedArticles": [
+      {
+        "slug": "app-yesstyle-come-acquistare-codice-ricompensa",
+        "title": "App YesStyle: come si compra e dove va il codice ricompensa CECILIA010"
+      },
+      {
+        "slug": "yesstyle-o-olive-young-quale-scegliere",
+        "title": "YesStyle o Olive Young: chi spedisce nel tuo paese, spedizione, imposte e resi"
+      },
+      {
+        "slug": "black-friday-yesstyle-date-e-coupon",
+        "title": "Black Friday YesStyle 2026: quando inizia, come funzionano i coupon e dove inserire il codice CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 691,
+    "slug": "yesstyle-trustpilot-bewertungen",
+    "locale": "de",
+    "translationKey": "yesstyle-reputation",
+    "title": "YesStyle auf Trustpilot: Bewertung, Beschwerden und was die Zahlen zeigen",
+    "seoTitle": "YesStyle auf Trustpilot: Bewertung und Beschwerden",
+    "type": "Reputationsanalyse",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Die Bewertung von YesStyle auf Trustpilot am 28. Oktober 2026: TrustScore 4,4 bei 104.552 Bewertungen, 71 % fünf Sterne, Beschwerden vor allem über den internationalen Versand und warum die Note nichts über Ihr Land sagt.",
+    "metaDescription": "YesStyle auf Trustpilot, 28. Oktober 2026: 4,4 bei 104.000 Bewertungen, 71 % fünf Sterne, Beschwerden zu Versand und Tracking. Was die Note nicht zeigt.",
+    "publishedAt": "29. Oktober 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa.webp",
+    "imageAlt": "YesStyle-Logo und fünf Sterne, gefüllt bis zur Trustpilot-Note 4,4, gelesen am 28. Oktober 2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "YesStyle hat auf Trustpilot eine gute Note, mit einem Vorbehalt. Am 28. Oktober 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % fünf Sternen; die Beschwerden drehen sich um den internationalen Versand und die Sendungsverfolgung. Die Note ist global und trennt nicht nach Ländern."
+        ]
+      },
+      {
+        "heading": "Was die Note misst",
+        "paragraphs": [
+          "Der TrustScore ist die Note des Profils auf Trustpilot. Am 28. Oktober 2026 hatte YesStyle 4,4 mit dem Label „Excellent“, bei 104.552 Bewertungen; 11.757 davon wurden in den letzten 12 Monaten veröffentlicht. Das Profil ist vom Unternehmen beansprucht und hat ein bezahltes Trustpilot-Abonnement, wie die Seite selbst angibt.",
+          "Die Verteilung nach Sternen, in derselben Lesung: 71 % fünf Sterne, 18 % vier, 3 % drei, 1 % zwei und 7 % ein Stern. Fünf und vier Sterne machen den Großteil aus; die Ein-Stern-Bewertungen wiegen mit 7 % mehr als zwei und drei Sterne zusammen, und dort stehen die Beschwerden."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
+          "alt": "Balken von fünf bis ein Stern mit der Verteilung der YesStyle-Bewertungen auf Trustpilot: 71 %, 18 %, 3 %, 1 % und 7 %",
+          "caption": "Verteilung der YesStyle-Bewertungen auf Trustpilot, gelesen am 28. Oktober 2026. Eigene Grafik.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "Der Durchschnitt fasst all das in einer einzigen Zahl zusammen. Für die Entscheidung zählt mehr, was die schlechten Bewertungen sagen und wie der Shop darauf antwortet; darum geht es im Folgenden."
+        ]
+      },
+      {
+        "heading": "Wer bewertet, und von wo",
+        "paragraphs": [
+          "Das gelesene Profil, das von www.yesstyle.com, ist global: Es trennt die Bewertungen nicht nach Land, und die Seite sagt nicht, wie viele aus Deutschland, Österreich, der Schweiz oder von anderswo kommen. Die Note vereint Käufer aus verschiedenen Ländern, mit unterschiedlichem Versand, unterschiedlichen Lieferzeiten und unterschiedlichem Zoll.",
+          "Wer aus Deutschland, Österreich oder der Schweiz bestellt, liest die Note deshalb anders: Sie sagt, wie sich der Shop insgesamt verhält, nicht, wie die Lieferung an Ihre Adresse läuft. Diese Angabe steht im Checkout und in der Versandtabelle des Shops, nicht auf Trustpilot.",
+          "Wer den Shop betreibt, der Sitz in Hongkong und die Muttergesellschaft stehen in [Ist YesStyle seriös?](/de/reviews/ist-yesstyle-serioes-und-sicher)."
+        ]
+      },
+      {
+        "heading": "Was in den Beschwerden steht",
+        "paragraphs": [
+          "Wir haben die am 28. Oktober 2026 im Profil sichtbaren negativen Bewertungen gelesen und die Themen notiert, ohne zu zählen oder zu ordnen. Sie drehen sich um den internationalen Versand:"
+        ],
+        "bullets": [
+          "Verspätete Lieferung und langes Warten bei einem Paket aus dem Ausland.",
+          "Sendungsverfolgung, die nicht mehr aktualisiert wird.",
+          "Verlorenes Paket.",
+          "Beschädigt angekommener Artikel.",
+          "Bestellung, die in der Bearbeitung hängt, bevor sie verschickt wird."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
+          "alt": "Illustration eines Tracking-Bildschirms: Paket verschickt, Flug erledigt, Zustellung stockt und das Haus wartet noch, daneben ein Beleg mit Strichcode und ein Globus",
+          "caption": "Unsere Illustration einer stockenden Sendungsverfolgung, eines der Beschwerdethemen. Bewahren Sie Bestellnummer und Sendungsnummer auf.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "Das sind die Punkte, an denen ein internationaler Einkauf üblicherweise hakt. Für Sie als Leser zeigen sie, wohin Sie schauen sollten: auf die Lieferzeit im Checkout, die Sendungsverfolgung nach dem Versand und die Verpackung bei der Ankunft."
+        ]
+      },
+      {
+        "heading": "Was im Lob steht",
+        "paragraphs": [
+          "In den positiven Bewertungen, in derselben Lesung, sind die Themen andere:"
+        ],
+        "bullets": [
+          "Niedrige Preise und häufige Aktionen.",
+          "Große Auswahl an koreanischer Kosmetik.",
+          "Sorgfältige Verpackung.",
+          "Nützliche Versandbenachrichtigungen.",
+          "Lieferung, die manchmal vor der angegebenen Zeit ankommt.",
+          "App und Website, die leicht zu bedienen sind."
+        ],
+        "postParagraphs": [
+          "Lob und Beschwerde sprechen von verschiedenen Momenten des Kaufs: das Lob vom Katalog, vom Preis und vom angekommenen Paket; die Beschwerde vom Paket, das sich verspätet hat oder nicht ankam. Die Note fasst beides zusammen."
+        ]
+      },
+      {
+        "heading": "Was der Shop antwortet",
+        "paragraphs": [
+          "Laut dem am 28. Oktober 2026 gelesenen Profil hat YesStyle auf 98 % der negativen Bewertungen geantwortet, in der Regel innerhalb von 24 Stunden, und die Seite weist darauf hin, dass die Antwort künstliche Intelligenz nutzen kann.",
+          "Antworten heißt nicht lösen. Wir haben den Text der Antworten nicht gelesen, deshalb sagt dieser Artikel nicht, ob sie das Problem der Beschwerdeführer lösen. Vor dem Kauf lohnt es sich, einige Ein-Stern-Bewertungen im Profil zu öffnen und die Antwort des Shops darunter zu lesen, vor allem bei Sendungsverfolgung und Verlust."
+        ]
+      },
+      {
+        "heading": "Was sich nicht schließen lässt",
+        "paragraphs": [
+          "Die Note beantwortet eine Frage, nicht alle. Vier Dinge, die die Lesung vom 28. Oktober 2026 nicht stützt:"
+        ],
+        "bullets": [
+          "Dass die Note für Ihr Land gilt: Das Profil ist global und trennt die Bewertungen nicht nach Herkunft.",
+          "Dass die Note das Produkt misst: Sie vereint Produkt, Versand und Kundenservice in einer einzigen Bewertung, und die Beschwerdethemen, die wir gelesen haben, betreffen Versand und Bearbeitung der Bestellung.",
+          "Dass der Shop die Beschwerden löst: Das Profil zeigt die Antwortquote, 98 %, und die Antwortzeit; der Text der Antworten wurde nicht gelesen.",
+          "Was die KI-Zusammenfassung von Trustpilot sagt: Die Seite enthält eine von künstlicher Intelligenz erstellte Zusammenfassung, und dieser Artikel nutzt sie nicht als Quelle."
+        ]
+      },
+      {
+        "heading": "Unsere Prüfung",
+        "paragraphs": [
+          "Am 28. Oktober 2026 haben wir das öffentliche Profil von YesStyle auf Trustpilot gelesen, ohne Login: die Note, die Zahl der Bewertungen, die Verteilung nach Sternen, die Antwortquote und die sichtbaren Bewertungen, aus denen die Themen stammen.",
+          "In der App des Shops haben wir in einem eigenen Test ohne Kauf den Checkout geprüft: Er hat das Feld für den Reward Code.",
+          "Niemand von der Seite hat für diesen Artikel bei YesStyle gekauft. Die Zahlen auf Trustpilot ändern sich jeden Monat; prüfen Sie das Profil am Tag des Kaufs."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
+          "alt": "Smartphone mit dem Trustpilot-Profil von YesStyle: Bewertung 4,4, Verteilung der Sterne und Antwort auf 98 % der negativen Bewertungen",
+          "caption": "Trustpilot-Profil von YesStyle, mobile Ansicht, am 29. Oktober 2026. Screenshot der Website, zwei Ausschnitte vergrößert.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "Profil von YesStyle auf Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
+        ]
+      },
+      {
+        "heading": "Kann man YesStyle nach Trustpilot vertrauen?",
+        "paragraphs": [
+          "Nach Trustpilot fällt die Lesung gut aus: am 28. Oktober 2026 TrustScore 4,4, „Excellent“, bei 104.552 Bewertungen, 71 % davon fünf Sterne und 7 % ein Stern, mit 98 % beantworteten negativen Bewertungen, in der Regel innerhalb von 24 Stunden.",
+          "Der Vorbehalt betrifft die Reichweite, nicht die Note. Das Profil ist global, trennt nicht nach Ländern, und die Beschwerden, die wir gelesen haben, betreffen den internationalen Versand: Verspätung, Sendungsverfolgung und Verlust. Trustpilot zeigt, wie sich der Shop insgesamt verhält; Versandkosten und Lieferzeit für Ihre Adresse stehen im Checkout."
+        ]
+      },
+      {
+        "heading": "Vor dem Bezahlen",
+        "paragraphs": [
+          "Die Beschwerden konzentrieren sich auf die Lieferung, also prüfen Sie vor dem Bezahlen Versandkosten und Lieferzeit für Ihr Land, die im Checkout erscheinen. Für Deutschland, Österreich und die Schweiz stehen Lieferzeit, Versandkosten und Zoll im [Versand-Ratgeber zu YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+          "Bewahren Sie nach dem Bezahlen die Bestellnummer und die Sendungsnummer auf: Damit eröffnen Sie eine Anfrage beim Kundenservice, wenn das Paket sich verspätet oder die Sendungsverfolgung stehen bleibt.",
+          "Wenn Sie sich zum Kauf entschieden haben, führt die [YesStyle-Seite](/de/coupons/yesstyle) hier auf der Website zum Shop. Der Link ist ein Affiliate-Link: Der Kauf kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für Sie."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Hat YesStyle eine gute Note auf Trustpilot? Am 28. Oktober 2026 lag der TrustScore bei 4,4 mit dem Label „Excellent“, bei 104.552 Bewertungen; 71 % gaben fünf Sterne und 7 % einen.",
+          "Was sind die häufigsten Beschwerden über YesStyle? In den am 28. Oktober 2026 gelesenen negativen Bewertungen geht es um den internationalen Versand: Verspätung und langes Warten, stehende Sendungsverfolgung, verlorenes Paket, beschädigter Artikel und Bestellung, die in der Bearbeitung hängt.",
+          "Antwortet YesStyle auf negative Bewertungen? Laut dem am 28. Oktober 2026 gelesenen Trustpilot-Profil hat der Shop auf 98 % der negativen Bewertungen geantwortet, in der Regel innerhalb von 24 Stunden, und die Antwort kann künstliche Intelligenz nutzen.",
+          "Liefert YesStyle in mein Land? Die Trustpilot-Note sagt das nicht. Versandkosten und Lieferzeit für jedes Land stehen in der Versandtabelle des Shops und im Checkout, vor dem Bezahlen."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Wenn Sie bestellen, prüfen Sie vor dem Bezahlen Versandkosten und Lieferzeit für Ihr Land im Checkout und bewahren Sie die Bestellnummer auf.",
+      "label": "Zu YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Öffentliche Daten von Trustpilot. YesStyle ist Partner: Wir können für Käufe eine Provision erhalten.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-app-bestellen-reward-code",
+        "title": "YesStyle-App: So bestellst du und wo der Reward Code CECILIA010 hingehört"
+      },
+      {
+        "slug": "yesstyle-oder-olive-young-welcher-shop",
+        "title": "YesStyle oder Olive Young: wer in Ihr Land liefert, Versand, Steuern und Rückgabe"
+      },
+      {
+        "slug": "yesstyle-black-friday-termine-gutscheine",
+        "title": "YesStyle Black Friday 2026: Termine, Gutscheine und wo der Reward Code CECILIA010 eingegeben wird"
+      }
+    ]
+  },
+  {
+    "id": 692,
+    "slug": "yesstyle-trustpilot-reviews-ja",
+    "locale": "ja",
+    "translationKey": "yesstyle-reputation",
+    "title": "YesStyleのTrustpilot評価：スコア、苦情、データが示すこと",
+    "seoTitle": "YesStyleのTrustpilot評価：スコアと苦情",
+    "type": "評判分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "2026年10月28日時点のYesStyleのTrustpilot評価：104,552件のレビューでTrustScore 4.4、5つ星が71%、苦情は国際配送に集中。このスコアがあなたの国について何も語らない理由も解説します。",
+    "metaDescription": "2026年10月28日のYesStyleのTrustpilot評価：約104,000件のレビューで4.4、5つ星71%、配送と追跡への苦情。スコアが示さないことも解説。",
+    "publishedAt": "2026年10月29日",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa.webp",
+    "imageAlt": "YesStyleのロゴと、2026年10月28日に読んだTrustpilotのスコア4.4まで塗られた5つの星",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "結論",
+        "paragraphs": [
+          "YesStyleのTrustpilot評価は良好ですが、注意点があります。2026年10月28日時点でTrustScoreは4.4、レビューは104,000件超、5つ星が71%でした。苦情は国際配送と追跡に集中し、スコアは世界共通で国別には分かれていません。"
+        ]
+      },
+      {
+        "heading": "スコアが測っているもの",
+        "paragraphs": [
+          "TrustScoreは、Trustpilotのプロフィールに付くスコアです。2026年10月28日時点でYesStyleは4.4、ラベルは「Excellent」、レビュー数は104,552件で、そのうち11,757件が過去12か月に投稿されたものでした。プロフィールは企業が所有権を申請済みで、Trustpilotの有料プランを利用していると、ページ自体に記載があります。",
+          "同じ日の星ごとの内訳は、5つ星が71%、4つ星が18%、3つ星が3%、2つ星が1%、1つ星が7%です。5つ星と4つ星で大半を占めますが、1つ星は7%で、2つ星と3つ星を合わせた割合より大きく、苦情はここに現れます。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
+          "alt": "YesStyleのTrustpilotレビューの内訳を示す5つ星から1つ星までの棒グラフ：71%、18%、3%、1%、7%",
+          "caption": "YesStyleのTrustpilotレビューの内訳。2026年10月28日に読んだもの。図は当サイト作成。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "平均はこれらすべてを一つの数字にまとめたものです。購入を判断するには、低評価が何を語り、ショップがどう返信しているかを見るほうが役に立ちます。次の章から順に見ていきます。"
+        ]
+      },
+      {
+        "heading": "誰が、どこから評価しているか",
+        "paragraphs": [
+          "読んだのはwww.yesstyle.comのプロフィールで、全世界共通のものです。レビューは国別に分かれておらず、日本やほかの国からどれだけ投稿されたかはページに書かれていません。配送方法、日数、関税が異なる国々の購入者が、一つのスコアにまとめられています。",
+          "日本から購入する人にとって、これは読み方を変えます。スコアが示すのはショップ全体の傾向であり、あなたの住所への配送がどうなるかではありません。その情報はチェックアウト画面とショップの配送料表にあり、Trustpilotにはありません。",
+          "ショップの運営会社、香港の本社、親会社については、[YesStyleは安全？](/ja/reviews/yesstyle-trust-guide-ja)にまとめています。"
+        ]
+      },
+      {
+        "heading": "苦情に現れること",
+        "paragraphs": [
+          "2026年10月28日にプロフィールで見られた低評価レビューを読み、テーマを書き出しました。件数は数えず、順位も付けていません。テーマは国際配送に集中しています。"
+        ],
+        "bullets": [
+          "海外から届く荷物の配送遅延と長い待ち時間。",
+          "追跡情報が更新されなくなる。",
+          "荷物の紛失。",
+          "商品が破損して届いた。",
+          "発送前の処理段階で注文が止まったまま。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
+          "alt": "追跡画面のイラスト：発送済み、空輸済み、配送が止まり、家はまだ待っている状態。横にバーコード付きの控えと地球儀",
+          "caption": "当サイトのイラスト：止まった追跡は苦情のテーマの一つです。注文番号と追跡番号を保管してください。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "いずれも、海外通販でつまずきやすいポイントです。読者にとっては、どこを見るべきかの目印になります。チェックアウトでの配送日数、発送後の追跡、到着時の梱包です。"
+        ]
+      },
+      {
+        "heading": "好評に現れること",
+        "paragraphs": [
+          "同じ日の高評価レビューでは、テーマが異なります。"
+        ],
+        "bullets": [
+          "価格の安さと頻繁なセール。",
+          "韓国コスメの豊富な品揃え。",
+          "丁寧な梱包。",
+          "役に立つ発送通知。",
+          "予定より早く届くことがある配送。",
+          "使いやすいアプリとサイト。"
+        ],
+        "postParagraphs": [
+          "好評と苦情は、購入の別々の場面を語っています。好評はカタログ、価格、届いた荷物について。苦情は遅れた荷物や届かなかった荷物について。スコアはその両方を合わせたものです。"
+        ]
+      },
+      {
+        "heading": "ショップの返信",
+        "paragraphs": [
+          "2026年10月28日に読んだプロフィールによると、YesStyleは低評価レビューの98%に返信しており、通常は24時間以内です。返信にはAIを使う場合があるとページに記載されています。",
+          "返信することと解決することは別です。私たちは返信の本文を読んでいないため、この記事では、苦情を書いた人の問題が解決されたかどうかは述べません。購入前にプロフィールで1つ星のレビューをいくつか開き、その下にあるショップの返信を読んでみてください。特に追跡と紛失に関するものがおすすめです。"
+        ]
+      },
+      {
+        "heading": "このスコアから言えないこと",
+        "paragraphs": [
+          "スコアが答えるのは一つの問いであり、すべての問いではありません。2026年10月28日の読み取りからは言えないことが四つあります。"
+        ],
+        "bullets": [
+          "スコアがあなたの国にも当てはまること。プロフィールは全世界共通で、レビューを投稿元の国で分けていません。",
+          "スコアが商品の質を測っていること。商品、配送、サポートが一つの評価にまとめられており、私たちが読んだ苦情のテーマは配送と注文処理に関するものでした。",
+          "ショップが苦情を解決していること。プロフィールに表示されるのは返信率98%と返信までの時間で、返信の本文は読んでいません。",
+          "TrustpilotのAI要約が述べていること。ページにはAIが生成した要約が表示されますが、この記事では情報源として使っていません。"
+        ]
+      },
+      {
+        "heading": "当サイトの確認方法",
+        "paragraphs": [
+          "2026年10月28日、ログインせずにTrustpilotのYesStyleの公開プロフィールを読みました。スコア、レビュー数、星ごとの内訳、返信率、そして表示されていたレビューです。テーマはそこから書き出しました。",
+          "ショップのアプリでは、購入はせずにチェックアウト画面を確認しました。リワードコードの入力欄があります。",
+          "この記事のために当サイトの誰かがYesStyleで購入したわけではありません。Trustpilotの数字は毎月変わります。購入する日にプロフィールを確認してください。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
+          "alt": "スマートフォンに表示したYesStyleのTrustpilotプロフィール：スコア4.4、星の内訳、低評価レビューの98%への返信",
+          "caption": "2026年10月29日のYesStyleのTrustpilotプロフィール（モバイル表示）。サイトのスクリーンショットで、2か所を拡大しています。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "TrustpilotのYesStyleプロフィール",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
+        ]
+      },
+      {
+        "heading": "Trustpilotを見てYesStyleは信頼できる？",
+        "paragraphs": [
+          "Trustpilotを基準にすれば、読み取りは良好です。2026年10月28日時点でTrustScore 4.4、「Excellent」、レビュー104,552件、うち5つ星が71%、1つ星が7%。低評価の98%に返信があり、通常は24時間以内です。",
+          "注意点はスコアではなく、その範囲にあります。プロフィールは全世界共通で国別には分かれておらず、私たちが読んだ苦情は国際配送に関するものでした。遅延、追跡、紛失です。Trustpilotが示すのはショップ全体の傾向で、あなたの住所への送料と日数はチェックアウトにあります。"
+        ]
+      },
+      {
+        "heading": "支払う前に",
+        "paragraphs": [
+          "苦情は配送に集中しているので、支払う前に確認するのは、チェックアウトに表示されるあなたの国への送料と配送日数です。日本への日数、送料、関税は[YesStyleの日本への配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にまとめています。",
+          "支払い後は、注文番号と追跡番号を保管してください。荷物が遅れたり追跡が止まったりしたときに、サポートへ問い合わせるために必要です。",
+          "購入を決めたなら、当サイトの[YesStyleのページ](/ja/coupons/yesstyle)からショップへ移動できます。このリンクはアフィリエイトリンクです。購入によりEm Casa com Cecíliaに手数料が入ることがありますが、あなたに追加費用はかかりません。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "YesStyleのTrustpilot評価は良い？2026年10月28日時点でTrustScoreは4.4、ラベルは「Excellent」、レビュー数は104,552件で、71%が5つ星、7%が1つ星でした。",
+          "YesStyleへの苦情で多いのは？2026年10月28日に読んだ低評価レビューのテーマは国際配送に関するものでした。配送遅延と長い待ち時間、止まった追跡、荷物の紛失、商品の破損、処理段階で止まった注文です。",
+          "YesStyleは低評価レビューに返信している？2026年10月28日に読んだTrustpilotのプロフィールによると、ショップは低評価レビューの98%に返信しており、通常は24時間以内です。返信にはAIを使う場合があります。",
+          "YesStyleは私の国に配送してくれる？Trustpilotのスコアからは分かりません。国ごとの送料と配送日数は、ショップの配送料表と、支払い前のチェックアウト画面に表示されます。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "購入するなら、支払う前にチェックアウトであなたの国への送料と配送日数を確認し、注文番号を保管してください。",
+      "label": "YesStyleへ",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Trustpilotの公開データに基づく記事です。YesStyleは当サイトのパートナーで、購入により手数料を受け取ることがあります。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-app-reward-code-ja",
+        "title": "YesStyleアプリの使い方：リワードコードCECILIA010はどこに入力する？"
+      },
+      {
+        "slug": "yesstyle-vs-olive-young-ja",
+        "title": "YesStyleとOlive Youngを比較：日本への配送・送料・関税・返品"
+      },
+      {
+        "slug": "yesstyle-black-friday-ja",
+        "title": "Black Friday YesStyle 2026（ブラックフライデー）：いつ始まる？クーポンの仕組みとCECILIA010の入れ方"
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "slug": "yesstyle-trustpilot-reviews-ko",
+    "locale": "ko",
+    "translationKey": "yesstyle-reputation",
+    "title": "YesStyle의 Trustpilot 평점과 불만 사항, 그리고 숫자가 말해 주는 것",
+    "seoTitle": "YesStyle Trustpilot 평점과 불만 사항",
+    "type": "평판 분석",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "2026년 10월 28일 기준 YesStyle의 Trustpilot 평점입니다. 리뷰 104,552건에 TrustScore 4.4, 별 다섯 개 71%, 해외 배송에 몰린 불만, 그리고 이 점수가 여러분의 나라에 대해 말해 주지 않는 이유를 담았습니다.",
+    "metaDescription": "2026년 10월 28일 기준 YesStyle Trustpilot: 리뷰 104,552건에 평점 4.4, 별 다섯 개 71%, 배송과 추적 불만. 점수가 보여 주지 않는 것까지 확인하세요.",
+    "publishedAt": "2026년 10월 29일",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa.webp",
+    "imageAlt": "YesStyle 로고와 Trustpilot 평점 4.4까지 채워진 별 다섯 개, 2026년 10월 28일 기준",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "핵심 답변",
+        "paragraphs": [
+          "YesStyle의 Trustpilot 평점은 좋은 편이지만 단서가 하나 있습니다. 2026년 10월 28일 기준 TrustScore는 4.4, 리뷰는 104,000건이 넘고 71%가 별 다섯 개였습니다. 불만은 해외 배송과 배송 추적에 몰려 있고, 이 점수는 전 세계 리뷰를 합친 것이라 나라별로 나누지 않습니다."
+        ]
+      },
+      {
+        "heading": "평점이 재는 것",
+        "paragraphs": [
+          "TrustScore는 Trustpilot 프로필의 점수입니다. 2026년 10월 28일 기준 YesStyle은 리뷰 104,552건에 4.4였고, “Excellent” 표시가 붙어 있었습니다. 그중 11,757건은 최근 12개월 안에 올라온 리뷰입니다. 프로필은 회사가 인증한 것이고, 페이지에 적힌 대로 Trustpilot 유료 구독을 쓰고 있습니다.",
+          "같은 날 읽은 별점 분포는 이렇습니다. 별 다섯 개 71%, 네 개 18%, 세 개 3%, 두 개 1%, 한 개 7%. 다섯 개와 네 개가 대부분을 차지하지만, 별 한 개 7%는 두 개와 세 개를 합친 것보다 큽니다. 불만은 바로 거기에 모여 있습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
+          "alt": "YesStyle의 Trustpilot 리뷰 분포를 별 다섯 개부터 한 개까지 막대로 나타낸 그림: 71%, 18%, 3%, 1%, 7%",
+          "caption": "2026년 10월 28일에 읽은 YesStyle의 Trustpilot 리뷰 분포. 저희가 만든 그림입니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "평균은 이 모든 것을 숫자 하나로 요약합니다. 결정을 내릴 때는 낮은 별점이 무엇을 말하는지, 그리고 쇼핑몰이 거기에 어떻게 답하는지를 보는 것이 더 도움이 됩니다. 다음 장부터 그 이야기입니다."
+        ]
+      },
+      {
+        "heading": "누가, 어디에서 평가하나",
+        "paragraphs": [
+          "저희가 읽은 프로필은 www.yesstyle.com의 글로벌 프로필입니다. 리뷰를 나라별로 나누지 않고, 한국에서 온 리뷰가 몇 건인지도, 다른 어느 나라에서 왔는지도 알려 주지 않습니다. 배송비, 배송 기간, 관세가 서로 다른 여러 나라의 구매자가 한 점수에 섞여 있습니다.",
+          "한국에서 주문하는 독자에게 이 점은 읽는 방법을 바꿉니다. 점수는 쇼핑몰이 전체적으로 어떻게 움직이는지 말해 주지, 여러분의 주소로 배송이 어떻게 되는지는 말해 주지 않습니다. 그 정보는 결제 화면과 YesStyle의 배송비 안내표에 있고, Trustpilot에는 없습니다.",
+          "누가 YesStyle을 운영하는지, 홍콩 본사와 모회사는 어떤 곳인지는 [YesStyle 신뢰할 수 있을까?](/ko/reviews/yesstyle-trust-guide-ko)에 정리해 두었습니다."
+        ]
+      },
+      {
+        "heading": "불만에서 보이는 것",
+        "paragraphs": [
+          "2026년 10월 28일에 프로필에서 볼 수 있는 부정적 리뷰를 읽고, 건수를 세거나 순위를 매기지 않고 주제만 적었습니다. 주제는 해외 배송을 중심으로 돌아갑니다:"
+        ],
+        "bullets": [
+          "해외에서 오는 소포의 배송 지연과 긴 기다림.",
+          "업데이트가 멈춘 배송 추적.",
+          "분실된 소포.",
+          "파손된 상태로 도착한 상품.",
+          "발송 전 처리 단계에서 멈춰 있는 주문."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
+          "alt": "배송 조회 화면 일러스트: 발송 완료, 항공 운송 완료, 배송이 멈춘 채 집은 아직 기다리는 상태, 옆에 바코드가 있는 영수증과 지구본",
+          "caption": "저희가 만든 일러스트로, 멈춘 배송 조회는 불만 주제 중 하나입니다. 주문 번호와 운송장 번호를 보관하세요.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "해외 구매가 흔히 어긋나는 지점들입니다. 독자에게는 어디를 봐야 하는지 알려 줍니다. 결제 화면의 배송 기간, 발송 뒤의 배송 추적, 그리고 도착했을 때의 포장 상태입니다."
+        ]
+      },
+      {
+        "heading": "칭찬에서 보이는 것",
+        "paragraphs": [
+          "같은 날 읽은 긍정적 리뷰의 주제는 다릅니다:"
+        ],
+        "bullets": [
+          "저렴한 가격과 잦은 프로모션.",
+          "폭넓은 한국 뷰티 브랜드 구성.",
+          "꼼꼼한 포장.",
+          "유용한 발송 알림.",
+          "예정보다 일찍 도착하기도 하는 배송.",
+          "쓰기 쉬운 앱과 웹사이트."
+        ],
+        "postParagraphs": [
+          "칭찬과 불만은 구매의 서로 다른 순간을 말합니다. 칭찬은 상품 구성, 가격, 그리고 도착한 소포에 관한 것이고, 불만은 늦게 왔거나 오지 않은 소포에 관한 것입니다. 점수는 그 둘을 합칩니다."
+        ]
+      },
+      {
+        "heading": "쇼핑몰의 답변",
+        "paragraphs": [
+          "2026년 10월 28일에 읽은 프로필에 따르면, YesStyle은 부정적 리뷰의 98%에 답했고 대개 24시간 안에 답했습니다. 페이지에는 답변에 AI가 쓰일 수 있다는 안내도 있습니다.",
+          "답하는 것과 해결하는 것은 다릅니다. 저희는 답변의 본문을 읽지 않았으므로, 이 글은 그 답변이 불만을 제기한 사람의 문제를 해결하는지 말하지 않습니다. 구매 전에 프로필에서 별 한 개 리뷰 몇 건을 열어 보고, 각 리뷰 아래에 달린 쇼핑몰의 답변을 읽어 보세요. 특히 배송 추적과 분실에 관한 리뷰를 보세요."
+        ]
+      },
+      {
+        "heading": "이 숫자로 알 수 없는 것",
+        "paragraphs": [
+          "점수는 하나의 질문에 답하지, 모든 질문에 답하지는 않습니다. 2026년 10월 28일의 읽기로는 뒷받침할 수 없는 네 가지입니다:"
+        ],
+        "bullets": [
+          "이 점수가 여러분의 나라에도 그대로 적용된다는 것: 프로필은 글로벌이고 리뷰를 출신 국가별로 나누지 않습니다.",
+          "점수가 상품을 평가한다는 것: 상품, 배송, 고객 지원이 한 리뷰에 섞여 있고, 저희가 읽은 불만의 주제는 배송과 주문 처리였습니다.",
+          "쇼핑몰이 불만을 해결한다는 것: 프로필은 답변율 98%와 답변까지 걸린 시간을 보여 주지만, 답변 본문은 읽지 않았습니다.",
+          "Trustpilot의 AI 요약이 말하는 내용: 페이지에는 인공지능이 만든 리뷰 요약이 있지만, 이 글은 그것을 출처로 쓰지 않습니다."
+        ]
+      },
+      {
+        "heading": "저희가 확인한 것",
+        "paragraphs": [
+          "2026년 10월 28일, 로그인 없이 Trustpilot의 YesStyle 공개 프로필을 읽었습니다. 점수, 리뷰 수, 별점 분포, 답변율, 그리고 주제를 뽑아낸 공개 리뷰들입니다.",
+          "YesStyle 앱에서는 구매 없이 결제 화면을 확인했습니다. 결제 화면에는 리워드 코드를 넣는 칸이 있습니다.",
+          "이 글을 위해 저희 중 누구도 YesStyle에서 구매하지 않았습니다. Trustpilot의 숫자는 매달 바뀌니, 구매하는 날 프로필을 다시 확인하세요."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
+          "alt": "휴대폰에 표시한 YesStyle의 Trustpilot 프로필: 평점 4.4, 별점 분포, 부정적인 리뷰 98%에 대한 답변",
+          "caption": "2026년 10월 29일 YesStyle의 Trustpilot 프로필(모바일 화면)입니다. 사이트 화면을 캡처하고 두 부분을 확대했습니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "Trustpilot의 YesStyle 프로필",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
+        ]
+      },
+      {
+        "heading": "Trustpilot으로 YesStyle을 믿어도 될까요?",
+        "paragraphs": [
+          "Trustpilot 기준으로는 괜찮습니다. 2026년 10월 28일, TrustScore 4.4에 “Excellent”, 리뷰 104,552건, 그중 71%가 별 다섯 개, 7%가 별 한 개였고, 부정적 리뷰의 98%에 대개 24시간 안에 답했습니다.",
+          "단서는 점수가 아니라 범위에 있습니다. 프로필은 글로벌이어서 나라를 구분하지 않고, 저희가 읽은 불만은 해외 배송에 관한 것입니다. 지연, 배송 추적, 분실입니다. Trustpilot은 쇼핑몰이 전체적으로 어떻게 움직이는지 보여 주고, 여러분 주소의 배송비와 배송 기간은 결제 화면에 있습니다."
+        ]
+      },
+      {
+        "heading": "결제 전에",
+        "paragraphs": [
+          "불만이 배송에 몰려 있으니, 결제 전에 확인할 것은 결제 화면에 나오는 여러분 나라의 배송비와 배송 기간입니다. 한국 배송의 배송비, 배송 기간, 관세는 [YesStyle 한국 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 정리해 두었습니다.",
+          "결제 뒤에는 주문 번호와 배송 추적 번호를 보관하세요. 소포가 늦어지거나 추적이 멈추면 고객 지원에 문의할 때 그 두 가지가 필요합니다.",
+          "구매를 결정했다면, 이 사이트의 [YesStyle 페이지](/ko/coupons/yesstyle)에서 쇼핑몰로 갈 수 있습니다. 제휴 링크입니다. 이 링크로 구매하면 Em Casa com Cecília에 수수료가 생길 수 있으며, 여러분에게 추가 비용은 없습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "YesStyle의 Trustpilot 평점은 좋은가요? 2026년 10월 28일 기준 TrustScore는 4.4, “Excellent” 표시, 리뷰 104,552건이었습니다. 71%가 별 다섯 개, 7%가 별 한 개였습니다.",
+          "YesStyle에 대한 가장 흔한 불만은 무엇인가요? 2026년 10월 28일에 읽은 부정적 리뷰의 주제는 해외 배송입니다. 배송 지연과 긴 기다림, 멈춘 배송 추적, 분실된 소포, 파손된 상품, 처리 단계에서 멈춘 주문입니다.",
+          "YesStyle은 부정적 리뷰에 답하나요? 2026년 10월 28일에 읽은 Trustpilot 프로필에 따르면, 부정적 리뷰의 98%에 대개 24시간 안에 답했고, 답변에는 AI가 쓰일 수 있습니다.",
+          "YesStyle은 제 나라로 배송하나요? Trustpilot 점수는 그것을 말해 주지 않습니다. 나라별 배송비와 배송 기간은 YesStyle의 배송비 안내표와 결제 화면에 있습니다."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "구매하기로 했다면, 결제 전에 결제 화면에서 여러분 나라의 배송비와 배송 기간을 확인하고 주문 번호를 보관하세요.",
+      "label": "YesStyle로 이동",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Trustpilot 공개 데이터를 바탕으로 했습니다. YesStyle은 제휴 파트너이며, 구매 시 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-app-reward-code-ko",
+        "title": "YesStyle 앱 사용법: 구매 순서와 리워드 코드 CECILIA010 입력 위치"
+      },
+      {
+        "slug": "yesstyle-vs-olive-young-ko",
+        "title": "YesStyle vs Olive Young Global: 한국 배송, 관세, 반품 비교"
+      },
+      {
+        "slug": "yesstyle-black-friday-ko",
+        "title": "YesStyle 블랙프라이데이(Black Friday) 2026: 시작 날짜, 쿠폰 작동 방식, CECILIA010 입력 위치"
+      }
+    ]
+  },
+  {
+    "id": 694,
+    "slug": "yesstyle-trustpilot-reviews-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "yesstyle-reputation",
+    "title": "YesStyle 在 Trustpilot 的评分、投诉，以及数据说明了什么",
+    "seoTitle": "YesStyle Trustpilot 评价：评分与投诉",
+    "type": "口碑分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "2026年10月28日 YesStyle 在 Trustpilot 的评分：104,552 条评价，TrustScore 4.4，71% 为五星；投诉集中在国际配送；以及为什么这个分数说明不了你所在地区的情况。",
+    "metaDescription": "2026年10月28日 YesStyle 在 Trustpilot：104,552 条评价，评分 4.4，71% 五星，投诉多与配送和物流追踪有关。看看分数没有告诉你的事。",
+    "publishedAt": "2026年10月29日",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa.webp",
+    "imageAlt": "YesStyle 标志与五颗星，星星填充到 Trustpilot 评分 4.4，2026年10月28日读取",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "简要回答",
+        "paragraphs": [
+          "YesStyle 在 Trustpilot 的评分不错，但有一点要留意。2026年10月28日，TrustScore 为 4.4，评价超过 104,000 条，其中 71% 是五星；投诉集中在国际配送和物流追踪。这个分数是全球汇总，不按国家或地区区分。"
+        ]
+      },
+      {
+        "heading": "这个分数衡量什么",
+        "paragraphs": [
+          "TrustScore 是 Trustpilot 个人主页的分数。2026年10月28日，YesStyle 的分数是 4.4，标注为“Excellent”，共 104,552 条评价；其中 11,757 条是最近 12 个月发布的。主页由公司认领，并且按页面本身的说明，使用了 Trustpilot 的付费订阅。",
+          "同一天读到的星级分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起来还多，投诉就集中在这里。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
+          "alt": "从五星到一星的柱状图，显示 YesStyle 在 Trustpilot 的评价分布：71%、18%、3%、1% 和 7%",
+          "caption": "YesStyle 在 Trustpilot 的评价分布，2026年10月28日读取。图表由我们绘制。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "平均分把这一切压缩成一个数字。要做决定，更值得看的是低分评价在说什么，以及商店如何回应它们。接下来就是这部分。"
+        ]
+      },
+      {
+        "heading": "谁在评价，来自哪里",
+        "paragraphs": [
+          "我们读的是 www.yesstyle.com 的全球主页：它不按国家或地区拆分评价，页面也不会告诉你有多少条来自你所在的地区或其他任何地方。分数把运费、时效和关税各不相同的多国买家混在一起。",
+          "对正在考虑下单的你来说，这改变了读法：分数说明的是这家商店整体的表现，不是寄到你地址的配送体验。那部分信息在结账页面和商店的运费表里，不在 Trustpilot 上。",
+          "谁在运营 YesStyle、香港总部和母公司的情况，见[YesStyle 值得信赖吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "投诉里出现了什么",
+        "paragraphs": [
+          "我们读了 2026年10月28日主页上可见的负面评价，只记录主题，不计数也不排序。它们围绕国际配送展开："
+        ],
+        "bullets": [
+          "从海外寄出的包裹送达延迟、等待时间长。",
+          "物流追踪停止更新。",
+          "包裹丢失。",
+          "商品到手时已经损坏。",
+          "订单卡在处理环节，还没有发出。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
+          "alt": "物流追踪界面插图：已发货、航班已到、派送停住，房子还在等待，旁边是带条形码的凭证和地球仪",
+          "caption": "我们的插图：物流追踪停住，是投诉主题之一。请保存订单号和物流单号。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "这些都是跨境购物常见的出错点。对读者来说，它们指出了该看哪里：结账时的时效、发货后的物流追踪，以及收货时的包装。"
+        ]
+      },
+      {
+        "heading": "好评里出现了什么",
+        "paragraphs": [
+          "同一天读到的正面评价，主题则不同："
+        ],
+        "bullets": [
+          "价格低，促销频繁。",
+          "韩国美妆品类选择多。",
+          "包装细心。",
+          "发货通知有用。",
+          "配送有时比预计时间更早。",
+          "App 和网站好用。"
+        ],
+        "postParagraphs": [
+          "好评和投诉说的是购物的不同时刻：好评讲的是品类、价格和已经收到的包裹；投诉讲的是迟到或没到的包裹。分数把两者合在一起。"
+        ]
+      },
+      {
+        "heading": "商店怎么回应",
+        "paragraphs": [
+          "据 2026年10月28日读到的主页，YesStyle 回复了 98% 的负面评价，通常在 24 小时内，页面还提示回复可能使用人工智能。",
+          "回复不等于解决。我们没有读回复的正文，所以这篇文章不会说这些回复是否解决了投诉者的问题。下单前，不妨在主页上点开几条一星评价，读一读每条下面商店的回复，尤其是关于物流追踪和包裹丢失的。"
+        ]
+      },
+      {
+        "heading": "无法得出的结论",
+        "paragraphs": [
+          "分数回答的是一个问题，不是所有问题。以下四点，2026年10月28日的读取并不能支持："
+        ],
+        "bullets": [
+          "这个分数适用于你所在的地区：主页是全球性的，不按来源地区拆分评价。",
+          "这个分数衡量的是商品：它把商品、配送和客服合在一条评价里，而我们读到的投诉主题是配送和订单处理。",
+          "商店解决了投诉：主页显示的是回复率 98% 和回复时间，回复的正文我们没有读。",
+          "Trustpilot 的 AI 摘要说了什么：页面上有一段由人工智能生成的摘要，本文不把它当作来源。"
+        ]
+      },
+      {
+        "heading": "我们的核查",
+        "paragraphs": [
+          "2026年10月28日，我们在未登录的情况下读了 YesStyle 在 Trustpilot 的公开主页：分数、评价数量、星级分布、回复率，以及用来归纳主题的可见评价。",
+          "在 YesStyle 的 App 里，我们做了一次不下单的测试，查看了结账页面：那里有填写奖励码的栏位。",
+          "本站没有人为这篇文章在 YesStyle 购物。Trustpilot 的数字每个月都在变，下单当天请再看一次主页。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
+          "alt": "手机上的 YesStyle Trustpilot 页面：评分 4.4、星级分布，以及 98% 的差评有回复",
+          "caption": "2026年10月29日 YesStyle 在 Trustpilot 的页面（手机版）。网站截图，放大了其中两处。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "YesStyle 在 Trustpilot 的主页",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
+        ]
+      },
+      {
+        "heading": "凭 Trustpilot 能信任 YesStyle 吗？",
+        "paragraphs": [
+          "从 Trustpilot 看，结论是正面的：2026年10月28日，TrustScore 4.4，标注“Excellent”，共 104,552 条评价，其中 71% 为五星、7% 为一星，98% 的负面评价得到回复，通常在 24 小时内。",
+          "需要留意的是范围，不是分数。主页是全球性的，不区分国家或地区，而我们读到的投诉都和国际配送有关：延迟、物流追踪和丢失。Trustpilot 显示的是这家商店整体的表现；寄到你地址的运费和时效，在结账页面。"
+        ]
+      },
+      {
+        "heading": "付款前",
+        "paragraphs": [
+          "投诉集中在配送，所以付款前要确认的是你所在地区的运费和时效，它们显示在结账页面。寄往新加坡和马来西亚的运费、时效和税费，见[YesStyle 运送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+          "付款后，保存好订单号和物流追踪号：如果包裹延迟或追踪停更，联系客服时要用到它们。",
+          "如果你已经决定购买，本站的 [YesStyle 页面](/zh-hans/coupons/yesstyle)会带你去商店。这是联盟链接：通过它购买，Em Casa com Cecília 可能获得佣金，你不需要多付费用。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "YesStyle 在 Trustpilot 的评分好吗？2026年10月28日，TrustScore 为 4.4，标注“Excellent”，共 104,552 条评价；71% 给了五星，7% 给了一星。",
+          "关于 YesStyle 最常见的投诉是什么？在 2026年10月28日读到的负面评价里，主题都和国际配送有关：送达延迟和等待时间长、物流追踪停更、包裹丢失、商品损坏，以及订单卡在处理环节。",
+          "YesStyle 会回复负面评价吗？据 2026年10月28日读到的 Trustpilot 主页，商店回复了 98% 的负面评价，通常在 24 小时内，回复可能使用人工智能。",
+          "YesStyle 能寄到我所在的国家或地区吗？Trustpilot 的分数不会告诉你这一点。各地区的运费和时效在商店的运费表和结账页面里。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "如果要买，付款前请在结账页面确认你所在地区的运费和时效，并保存好订单号。",
+      "label": "前往 YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "数据来自 Trustpilot 公开页面。YesStyle 是本站的合作伙伴：你的购买可能为我们带来佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-app-reward-code-zh-hans",
+        "title": "YesStyle App 怎么买：下单步骤和奖励码 CECILIA010 填在哪里"
+      },
+      {
+        "slug": "yesstyle-vs-olive-young-zh-hans",
+        "title": "YesStyle 还是 Olive Young？新加坡与马来西亚的运送、运费、税费与退货比较"
+      },
+      {
+        "slug": "yesstyle-black-friday-zh-hans",
+        "title": "Black Friday YesStyle 2026（黑色星期五）：何时开始、优惠券怎么用，CECILIA010 填在哪里"
+      }
+    ]
+  },
+  {
+    "id": 695,
+    "slug": "yesstyle-trustpilot-reviews-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "yesstyle-reputation",
+    "title": "YesStyle 在 Trustpilot 的評分、投訴，以及數據說明了什麼",
+    "seoTitle": "YesStyle Trustpilot 評價：評分與投訴",
+    "type": "口碑分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "2026年10月28日 YesStyle 在 Trustpilot 的評分：104,552 則評價，TrustScore 4.4，71% 為五星；投訴集中在國際運送；以及為什麼這個分數說明不了你所在地區的情況。",
+    "metaDescription": "2026年10月28日 YesStyle 在 Trustpilot：104,552 則評價，評分 4.4，71% 五星，投訴多與運送和物流追蹤有關。看看分數沒有告訴你的事。",
+    "publishedAt": "2026年10月29日",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa.webp",
+    "imageAlt": "YesStyle 標誌與五顆星，星星填滿到 Trustpilot 評分 4.4，2026年10月28日讀取",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "簡要回答",
+        "paragraphs": [
+          "YesStyle 在 Trustpilot 的評分不錯，但有一點要留意。2026年10月28日，TrustScore 為 4.4，評價超過 104,000 則，其中 71% 是五星；投訴集中在國際運送和物流追蹤。這個分數是全球彙總，不按國家或地區區分。"
+        ]
+      },
+      {
+        "heading": "這個分數衡量什麼",
+        "paragraphs": [
+          "TrustScore 是 Trustpilot 個人檔案的分數。2026年10月28日，YesStyle 的分數是 4.4，標示為「Excellent」，共 104,552 則評價；其中 11,757 則是最近 12 個月發布的。檔案由公司認領，並且按頁面本身的說明，使用了 Trustpilot 的付費訂閱。",
+          "同一天讀到的星等分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起來還多，投訴就集中在這裡。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
+          "alt": "從五星到一星的長條圖，顯示 YesStyle 在 Trustpilot 的評價分布：71%、18%、3%、1% 和 7%",
+          "caption": "YesStyle 在 Trustpilot 的評價分布，2026年10月28日讀取。圖表由我們繪製。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "平均分把這一切壓縮成一個數字。要做決定，更值得看的是低分評價在說什麼，以及商店如何回應它們。接下來就是這部分。"
+        ]
+      },
+      {
+        "heading": "誰在評價，來自哪裡",
+        "paragraphs": [
+          "我們讀的是 www.yesstyle.com 的全球檔案：它不按國家或地區拆分評價，頁面也不會告訴你有多少則來自你所在的地區或其他任何地方。分數把運費、時效和關稅各不相同的多國買家混在一起。",
+          "對正在考慮下單的你來說，這改變了讀法：分數說明的是這家商店整體的表現，不是寄到你地址的運送體驗。那部分資訊在結帳頁面和商店的運費表裡，不在 Trustpilot 上。",
+          "誰在經營 YesStyle、香港總部和母公司的情況，見[YesStyle 值得信賴嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "投訴裡出現了什麼",
+        "paragraphs": [
+          "我們讀了 2026年10月28日檔案上可見的負評，只記錄主題，不計數也不排序。它們圍繞國際運送展開："
+        ],
+        "bullets": [
+          "從海外寄出的包裹送達延遲、等待時間長。",
+          "物流追蹤停止更新。",
+          "包裹遺失。",
+          "商品到手時已經損壞。",
+          "訂單卡在處理階段，還沒有寄出。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
+          "alt": "物流追蹤畫面插圖：已出貨、航班已到、配送停住，房子還在等待，旁邊是帶條碼的憑證和地球儀",
+          "caption": "我們的插圖：物流追蹤停住，是投訴主題之一。請保存訂單編號和物流單號。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "這些都是跨境購物常見的出錯點。對讀者來說，它們指出了該看哪裡：結帳時的時效、出貨後的物流追蹤，以及收貨時的包裝。"
+        ]
+      },
+      {
+        "heading": "好評裡出現了什麼",
+        "paragraphs": [
+          "同一天讀到的正面評價，主題則不同："
+        ],
+        "bullets": [
+          "價格低，促銷頻繁。",
+          "韓國美妝品項選擇多。",
+          "包裝細心。",
+          "出貨通知有用。",
+          "運送有時比預計時間更早。",
+          "App 和網站好用。"
+        ],
+        "postParagraphs": [
+          "好評和投訴說的是購物的不同時刻：好評講的是品項、價格和已經收到的包裹；投訴講的是遲到或沒到的包裹。分數把兩者合在一起。"
+        ]
+      },
+      {
+        "heading": "商店怎麼回應",
+        "paragraphs": [
+          "據 2026年10月28日讀到的檔案，YesStyle 回覆了 98% 的負評，通常在 24 小時內，頁面還提示回覆可能使用人工智慧。",
+          "回覆不等於解決。我們沒有讀回覆的內文，所以這篇文章不會說這些回覆是否解決了投訴者的問題。下單前，不妨在檔案上點開幾則一星評價，讀一讀每則下面商店的回覆，尤其是關於物流追蹤和包裹遺失的。"
+        ]
+      },
+      {
+        "heading": "無法得出的結論",
+        "paragraphs": [
+          "分數回答的是一個問題，不是所有問題。以下四點，2026年10月28日的讀取並不能支持："
+        ],
+        "bullets": [
+          "這個分數適用於你所在的地區：檔案是全球性的，不按來源地區拆分評價。",
+          "這個分數衡量的是商品：它把商品、運送和客服合在一則評價裡，而我們讀到的投訴主題是運送和訂單處理。",
+          "商店解決了投訴：檔案顯示的是回覆率 98% 和回覆時間，回覆的內文我們沒有讀。",
+          "Trustpilot 的 AI 摘要說了什麼：頁面上有一段由人工智慧生成的摘要，本文不把它當作來源。"
+        ]
+      },
+      {
+        "heading": "我們的核查",
+        "paragraphs": [
+          "2026年10月28日，我們在未登入的情況下讀了 YesStyle 在 Trustpilot 的公開檔案：分數、評價數量、星等分布、回覆率，以及用來歸納主題的可見評價。",
+          "在 YesStyle 的 App 裡，我們做了一次不下單的測試，查看了結帳頁面：那裡有填寫獎勵碼的欄位。",
+          "本站沒有人為這篇文章在 YesStyle 購物。Trustpilot 的數字每個月都在變，下單當天請再看一次檔案。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
+          "alt": "手機上的 YesStyle Trustpilot 頁面：評分 4.4、星級分布，以及 98% 的負評有回覆",
+          "caption": "2026年10月29日 YesStyle 在 Trustpilot 的頁面（手機版）。網站截圖，放大了其中兩處。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "YesStyle 在 Trustpilot 的檔案",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
+        ]
+      },
+      {
+        "heading": "憑 Trustpilot 能信任 YesStyle 嗎？",
+        "paragraphs": [
+          "從 Trustpilot 看，結論是正面的：2026年10月28日，TrustScore 4.4，標示「Excellent」，共 104,552 則評價，其中 71% 為五星、7% 為一星，98% 的負評得到回覆，通常在 24 小時內。",
+          "需要留意的是範圍，不是分數。檔案是全球性的，不區分國家或地區，而我們讀到的投訴都和國際運送有關：延遲、物流追蹤和遺失。Trustpilot 顯示的是這家商店整體的表現；寄到你地址的運費和時效，在結帳頁面。"
+        ]
+      },
+      {
+        "heading": "付款前",
+        "paragraphs": [
+          "投訴集中在運送，所以付款前要確認的是你所在地區的運費和時效，它們顯示在結帳頁面。寄送台灣、香港與澳門的運費、時效和稅費，見[YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+          "付款後，保存好訂單編號和物流追蹤號碼：如果包裹延遲或追蹤停更，聯絡客服時要用到它們。",
+          "如果你已經決定購買，本站的 [YesStyle 頁面](/zh-hant/coupons/yesstyle)會帶你去商店。這是聯盟連結：透過它購買，Em Casa com Cecília 可能獲得佣金，你不需要多付費用。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "YesStyle 在 Trustpilot 的評分好嗎？2026年10月28日，TrustScore 為 4.4，標示「Excellent」，共 104,552 則評價；71% 給了五星，7% 給了一星。",
+          "關於 YesStyle 最常見的投訴是什麼？在 2026年10月28日讀到的負評裡，主題都和國際運送有關：送達延遲和等待時間長、物流追蹤停更、包裹遺失、商品損壞，以及訂單卡在處理階段。",
+          "YesStyle 會回覆負評嗎？據 2026年10月28日讀到的 Trustpilot 檔案，商店回覆了 98% 的負評，通常在 24 小時內，回覆可能使用人工智慧。",
+          "YesStyle 能寄到我所在的國家或地區嗎？Trustpilot 的分數不會告訴你這一點。各地區的運費和時效在商店的運費表和結帳頁面裡。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "如果要買，付款前請在結帳頁面確認你所在地區的運費和時效，並保存好訂單編號。",
+      "label": "前往 YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "資料來自 Trustpilot 公開頁面。YesStyle 是本站的合作夥伴：你的購買可能為我們帶來佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-app-reward-code-zh-hant",
+        "title": "YesStyle App 怎麼買：下單步驟與獎勵碼 CECILIA010 填在哪裡"
+      },
+      {
+        "slug": "yesstyle-vs-olive-young-zh-hant",
+        "title": "YesStyle 還是 Olive Young？台灣與香港的運送、運費、稅費與退貨比較"
+      },
+      {
+        "slug": "yesstyle-black-friday-zh-hant",
+        "title": "Black Friday YesStyle 2026（黑色星期五）：何時開始、優惠券怎麼用，CECILIA010 填在哪裡"
+      }
+    ]
+  },
+  {
+    "id": 696,
+    "slug": "shein-reclame-aqui-nota-reputacao",
+    "locale": "pt",
+    "translationKey": "shein-reputation",
+    "title": "SHEIN no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "SHEIN no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "29 de outubro de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": true,
+    "description": "O que a nota 7,5 da SHEIN no Reclame Aqui mede em 28/10/2026, por que produto não recebido lidera as queixas e o que a Trustpilot acrescenta.",
+    "metaDescription": "SHEIN no Reclame Aqui em 28/10/2026: reputação Boa, nota 7,5, 95,3% respondidas e 77,8% resolvidas. Produto não recebido lidera as queixas. Veja o que fazer antes de pagar.",
+    "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Logo da SHEIN e a nota 3,8 da Trustpilot em cinco estrelas, preenchidas até a nota, na leitura de 28/10/2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se for comprar, entre pelo site ou pelo aplicativo oficial da SHEIN e guarde o comprovante e o código de rastreio do pedido.",
+      "label": "Ir para a SHEIN",
+      "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Dados públicos que mudam com o tempo. Podemos receber comissão pelas compras na SHEIN.",
+    "relatedArticles": [
+      {
+        "slug": "shein-ou-shopee-temu",
+        "title": "SHEIN, Shopee, Temu ou AliExpress: como escolher para comprar roupa (prazo, devolução e imposto)"
+      },
+      {
+        "slug": "codigo-de-indicacao-shein",
+        "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha"
+      },
+      {
+        "slug": "shein-e-confiavel",
+        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A reputação é Boa, com ressalvas. Em 28/10/2026, a SHEIN tinha nota 7,5 no Reclame Aqui nos seis meses até 30/09/2026, com 95,3% das reclamações respondidas e 77,8% resolvidas. A queixa mais citada é produto não recebido, e quase três em cada dez pessoas que avaliaram não voltariam a comprar."
+        ]
+      },
+      {
+        "heading": "O que a nota do Reclame Aqui mede",
+        "paragraphs": [
+          "A nota do Reclame Aqui mede como a loja atende quem reclama. Ela não mede a qualidade das peças nem a experiência de quem comprou e não reclamou. Entram na conta quatro indicadores do período: a parte das reclamações respondidas, a parte dada como resolvida, a parte de quem voltaria a fazer negócio e a nota que o consumidor dá ao atendimento.",
+          "Na aba de 6 meses, de 01/04/2026 a 30/09/2026, lida em 28/10/2026, a SHEIN tinha reputação Boa e nota 7,5. Foram 32.431 reclamações, 95,3% respondidas e 77,8% resolvidas; 70,6% de quem avaliou disseram que voltariam a fazer negócio, e a nota média do consumidor era 6,3.",
+          "Resolvidas, voltariam e a nota do consumidor saem só das reclamações avaliadas: 13.858 das 32.431. Quem não voltou ao site para avaliar a resposta não entra nessa parte da conta.",
+          "Na leitura de 12/10/2026, a nota era 7,6; em 28/10/2026, 7,5."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-reclame-aqui-numeros-2810.webp",
+          "alt": "Quadro com os números da SHEIN no Reclame Aqui de 01/04/2026 a 30/09/2026: nota 7,5, 95,3% das reclamações respondidas, 77,8% resolvidas e 70,6% voltariam a fazer negócio",
+          "caption": "Números do perfil da SHEIN no Reclame Aqui, aba de 6 meses, lidos em 28/10/2026. Quadro nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Três leituras que mudam a conta",
+        "paragraphs": [
+          "Primeiro, quase três em cada dez não voltariam. Entre os 13.858 que avaliaram, 70,6% disseram que voltariam a fazer negócio com a SHEIN. O resto não voltaria.",
+          "Segundo, responder não é resolver. A SHEIN respondeu a 95,3% das reclamações, mas, entre quem avaliou, 77,8% deram o problema como resolvido. A resposta é o primeiro passo; a solução é o que o consumidor confirma depois.",
+          "Terceiro, a resposta demora. O tempo médio nos 6 meses foi de 3 dias e 5 horas, e 1.343 reclamações aguardavam resposta em 28/10/2026. Quem está com um pedido que não chegou conta esses dias."
+        ]
+      },
+      {
+        "heading": "O que as pessoas reclamam",
+        "paragraphs": [
+          "A lista de principais problemas do Reclame Aqui usa as reclamações de até 3 anos, não só as dos 6 meses. Em 28/10/2026, o problema mais citado era produto não recebido, com 36,47%: mais de uma em cada três reclamações desse recorte.",
+          "Moda Feminina era a categoria mais citada, com 19,62%. Blusas vinha em seguida na lista, com 9,83%.",
+          "O rótulo não diz o motivo nem o desfecho de cada caso. E o Reclame Aqui não mostra quantos pedidos a SHEIN entrega no Brasil: 32.431 reclamações em seis meses dizem quanto a loja recebe de queixas, não a chance de o seu pedido dar problema."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+          "alt": "Ilustração de uma tela de rastreio com a entrega parada e a casa ainda à espera, ao lado de um comprovante com código de barras e de uma moeda com uma seta de volta, o reembolso",
+          "caption": "Ilustração nossa do pacote que não chega e do reembolso, os temas das queixas. Guarde o comprovante e o código de rastreio.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Trustpilot: a nota de quem avalia",
+        "paragraphs": [
+          "O Reclame Aqui é brasileiro; a Trustpilot é um site internacional de avaliações, e em 28/10/2026 a SHEIN tinha ali nota 3,8 em 5, com 353.435 avaliações de clientes de vários países. O perfil é global e não separa o Brasil: a nota fala dos clientes de todos os países, não do atendimento da SHEIN Brasil."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
+          "alt": "Celular com o perfil da SHEIN na Trustpilot: nota 3,8, distribuição das estrelas e 98% das avaliações negativas respondidas",
+          "caption": "Perfil da SHEIN na Trustpilot, versão de celular, em 29/10/2026. Print do site, com dois trechos ampliados.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Nossa checagem",
+        "paragraphs": [
+          "Ninguém do site comprou na SHEIN para este artigo. Os números vêm de leitura pública, feita em 28/10/2026, sem login, em dois perfis:"
+        ],
+        "bullets": [
+          "Reclame Aqui: a aba de 6 meses (01/04/2026 a 30/09/2026) e o recorte de 3 anos dos principais problemas.",
+          "Trustpilot: a nota, o número de avaliações e o escopo do perfil, que é global."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-reclame-aqui-perfil-2910.webp",
+          "alt": "Celular com a página da SHEIN no Reclame Aqui: reputação Boa, nota 7,5 nos últimos 6 meses e os números das reclamações",
+          "caption": "Página da SHEIN no Reclame Aqui, versão de celular, em 29/10/2026. Print do site, com dois trechos ampliados.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "O que não lemos: o texto das respostas da SHEIN e o histórico mês a mês da nota. Por isso o texto não diz se as respostas resolvem.",
+          "Os números mudam todo mês. Confira o perfil no dia da compra.",
+          "A Cecília é afiliada da SHEIN: compras pelos links do site podem gerar comissão, sem custo para você. Isso não muda os números, que são do perfil público."
+        ],
+        "links": [
+          {
+            "label": "Perfil da SHEIN no Reclame Aqui",
+            "href": "https://www.reclameaqui.com.br/empresa/shein/"
+          }
+        ]
+      },
+      {
+        "heading": "Dá para confiar na SHEIN pelo Reclame Aqui?",
+        "paragraphs": [
+          "Pelo Reclame Aqui, a SHEIN responde e resolve a maior parte. Em 28/10/2026, a reputação era Boa, com nota 7,5 nos seis meses até 30/09/2026, 95,3% das 32.431 reclamações respondidas e 77,8% dadas como resolvidas por quem avaliou.",
+          "As ressalvas são três: produto não recebido lidera as queixas do recorte de 3 anos, com 36,47%; a resposta leva em média 3 dias e 5 horas, com 1.343 reclamações na fila; e quase três em cada dez de quem avaliou não voltariam a fazer negócio."
+        ]
+      },
+      {
+        "heading": "Antes de pagar",
+        "paragraphs": [
+          "Os números apontam o que guardar. Salve o comprovante do pagamento e o código de rastreio do pedido: o problema mais citado é produto não recebido, e são esses dois que mostram o que foi pago e onde o pacote parou.",
+          "Se o pedido não chegar, peça o reembolso pelo canal da loja, no site ou no aplicativo. Se não resolver, registre a reclamação no Reclame Aqui: ela fica pública, e a resposta da SHEIN também.",
+          "O imposto do pedido internacional e a regra de devolução estão no [guia da SHEIN com o imposto e a devolução](/reviews/black-friday-shein). Para saber quem opera a SHEIN no Brasil e de que país ela é, veja [SHEIN é confiável?](/reviews/shein-e-confiavel).",
+          "Se for comprar, a [página da SHEIN](/cupons/shein) leva ao site oficial."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A SHEIN tem boa nota no Reclame Aqui? Em 28/10/2026, a reputação era Boa, com nota 7,5 nos seis meses de 01/04/2026 a 30/09/2026. Na leitura de 12/10/2026, era 7,6.",
+          "Quais são as reclamações mais comuns sobre a SHEIN? No recorte de 3 anos do Reclame Aqui, lido em 28/10/2026, o problema mais citado era produto não recebido, com 36,47%, e a categoria mais citada era Moda Feminina, com 19,62%.",
+          "A SHEIN responde às reclamações? Nos seis meses até 30/09/2026, respondeu a 95,3%, em 3 dias e 5 horas em média, e 1.343 aguardavam resposta em 28/10/2026. Entre quem avaliou, 77,8% deram o problema como resolvido.",
+          "A SHEIN tem boa nota na Trustpilot? Em 28/10/2026, a nota era 3,8 em 5, com 353.435 avaliações de clientes de vários países. O perfil é global e não separa o Brasil."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 697,
+    "slug": "shein-trustpilot-reviews",
+    "locale": "en",
+    "translationKey": "shein-reputation",
+    "title": "SHEIN on Trustpilot: score, complaints and what the numbers show",
+    "seoTitle": "SHEIN on Trustpilot: score and complaints",
+    "type": "Reputation Analysis",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN's Trustpilot score on October 28, 2026: a TrustScore of 3.8 from 353,435 reviews, 59% five stars and 18% one star, complaints about packages that never arrived and about refunds, and why a global score says nothing about your country.",
+    "metaDescription": "SHEIN on Trustpilot on October 28, 2026: TrustScore 3.8 from 353,435 reviews, 59% five stars and 18% one star, complaints about delivery and refunds. See what the score does not show.",
+    "publishedAt": "October 29, 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "SHEIN logo and five stars filled up to the 3.8 Trustpilot score, read on October 28, 2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "SHEIN scores 3.8 on Trustpilot, and the complaints have a clear theme. On October 28, 2026, that score came from 353,435 reviews by customers in many countries, and the negative ones center on packages that never arrived and on refunds that were late or denied. The profile is global and does not separate countries."
+        ]
+      },
+      {
+        "heading": "What the score measures",
+        "paragraphs": [
+          "The TrustScore is the profile's rating on Trustpilot. On October 28, 2026, SHEIN had 3.8, with the label \"Great\", from 353,435 reviews; 22,625 of them were posted in the last 12 months. The profile is claimed by the company and has a paid Trustpilot subscription, as the page itself states.",
+          "The breakdown by star, in the same reading: 59% five stars, 12% four, 6% three, 5% two and 18% one. Five and four stars make up most of the reviews; one star, at 18%, is more than two and three stars combined, and that is where the complaints appear."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
+          "alt": "Bars from five stars to one with the breakdown of SHEIN's Trustpilot reviews: 59%, 12%, 6%, 5% and 18%",
+          "caption": "Breakdown of SHEIN's Trustpilot reviews, read on October 28, 2026. Our chart.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "The average squeezes all of that into one number. To decide, it is more useful to look at what the low ratings say and how the store responds to them; that is what comes next."
+        ]
+      },
+      {
+        "heading": "Who writes the reviews, and from where",
+        "paragraphs": [
+          "The profile we read, the one for www.shein.com, is global: it does not split reviews by country, and the page does not say how many came from your country or any other. The score mixes shoppers from different countries, with different shipping, delivery times and customs rules.",
+          "Trustpilot has regional sites, and the one for the United Kingdom showed the same profile, with the same numbers. We did not open the other regional sites, so this article does not say whether any of them shows anything different.",
+          "One piece of context from Brazil, given as a Brazilian figure with its date: on Reclame Aqui, a Brazilian complaints website, SHEIN had a score of 7.5 out of 10 for the six months to September 30, 2026, in a reading on October 28, 2026. Reclame Aqui measures how a company handles the complaints filed there, in Brazil; Trustpilot gathers customer reviews from everywhere. The two numbers do not measure the same thing, and neither one describes your country on its own."
+        ]
+      },
+      {
+        "heading": "What the complaints say",
+        "paragraphs": [
+          "We read the negative reviews visible on the profile on October 28, 2026 and noted the themes, without counting or ranking them. They revolve around the package and the money:"
+        ],
+        "bullets": [
+          "A package that was lost, stolen or never delivered, sometimes with a delivery photo the customer disputes.",
+          "A refund that took a long time or was denied, including returns the store said it never received.",
+          "Customer service that was slow or answered with templated replies.",
+          "Product problems: size, quality, the wrong item or a missing item."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+          "alt": "Illustration of a tracking screen with the delivery stalled and the house still waiting, next to a receipt with a barcode and a coin with a return arrow, the refund",
+          "caption": "Our illustration of the parcel that does not arrive and of the refund, the complaint themes. Keep the receipt and the tracking number.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "These are the points where an online order most often goes wrong. For you, they say where to look: the tracking after dispatch, the proof of delivery, the return receipt and the refund request."
+        ]
+      },
+      {
+        "heading": "What the praise says",
+        "paragraphs": [
+          "The positive reviews visible in the same reading were few, so this is a small sample. Their themes are different:"
+        ],
+        "bullets": [
+          "Low prices.",
+          "A wide selection.",
+          "Reasonable quality.",
+          "Delivery that went through without problems."
+        ],
+        "postParagraphs": [
+          "Praise and complaint describe different moments of the purchase: the praise speaks of the catalog, the price and the parcel that arrived; the complaint, of the parcel that did not arrive and the refund that did not come. The score adds both together."
+        ]
+      },
+      {
+        "heading": "What the store replies",
+        "paragraphs": [
+          "According to the profile, read on October 28, 2026, SHEIN replied to 98% of negative reviews, usually within 24 hours, and the page notes that the company may use AI in its replies.",
+          "Replying is not resolving. We did not read the text of the replies, so this article does not say whether they solve the problem for the person who complained. Before buying, open a few one-star reviews on the profile and read the store's reply under each one, especially the ones about packages that did not arrive and about refunds."
+        ]
+      },
+      {
+        "heading": "What the score cannot tell you",
+        "paragraphs": [
+          "The score answers one question, not all of them. Three things the reading of October 28, 2026 does not support:"
+        ],
+        "bullets": [
+          "That the score applies to your country: the profile is global and does not split reviews by origin.",
+          "That the score measures only the product: it combines product, delivery and customer service in one rating, and the complaint themes we read are mostly about delivery and refunds.",
+          "That the store resolves the complaints: the profile shows the reply rate, 98%, and how fast the replies come; the text of the replies was not read."
+        ]
+      },
+      {
+        "heading": "Our check",
+        "paragraphs": [
+          "On October 28, 2026, we read SHEIN's public Trustpilot profile, without logging in: the score, the number of reviews, the breakdown by star, the reply rate and the visible reviews, which is where the themes came from. On the same day, we read SHEIN's page on Reclame Aqui, in Brazil, for the context paragraph above.",
+          "What we did not read: the text of the store's replies, reviews by country, and Trustpilot's other regional sites beyond the United Kingdom one.",
+          "Nobody at this site bought from SHEIN for this article. Trustpilot's numbers change every month; check the profile on the day you buy."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
+          "alt": "Phone showing SHEIN's Trustpilot profile: a 3.8 score, the star breakdown and 98% of negative reviews answered",
+          "caption": "SHEIN's Trustpilot profile, mobile version, on October 29, 2026. Screenshot of the site, with two parts enlarged.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "SHEIN's Trustpilot profile",
+            "href": "https://www.trustpilot.com/review/www.shein.com"
+          }
+        ]
+      },
+      {
+        "heading": "Can you trust SHEIN based on Trustpilot?",
+        "paragraphs": [
+          "Going by Trustpilot, the numbers are these: on October 28, 2026, a TrustScore of 3.8, \"Great\", from 353,435 reviews, 59% of them five stars and 18% one star, with 98% of negative reviews answered, usually within 24 hours.",
+          "The caveats are about scope and theme. The profile is global and does not separate countries, so it says how the store behaves overall, not how an order to your address will go. And the complaints we read are about packages that never arrived and about refunds that were late or denied: that is the part of the purchase where the risk sits, and the score alone does not tell you how often it happens."
+        ]
+      },
+      {
+        "heading": "Before you pay",
+        "paragraphs": [
+          "The complaints point to what to protect. Buy through SHEIN's official site or app for your country and keep the payment receipt and the tracking number: they show what was paid and where the parcel stopped.",
+          "If the parcel does not arrive or the item is wrong, request the refund through the store's own channel, on the site or in the app, and keep the return receipt if you send something back.",
+          "Who runs SHEIN in your country and where the company is from is in [Is SHEIN legit and safe?](/en/reviews/is-shein-legit-and-safe).",
+          "If you have decided to buy, the [SHEIN page](/en/coupons/shein) on this site takes you to the store. The link is an affiliate link: a purchase may earn Em Casa com Cecília a commission, at no extra cost to you."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Does SHEIN have a good score on Trustpilot? On October 28, 2026, the TrustScore was 3.8, with the label \"Great\", from 353,435 reviews; 59% gave five stars and 18% gave one.",
+          "What are the most common complaints about SHEIN? In the negative reviews read on October 28, 2026, the themes were packages that were lost, stolen or never arrived, sometimes with a disputed delivery photo; refunds that were late or denied, including returns the store said it never received; slow or templated customer service; and product problems such as size, quality, the wrong item or a missing item. We noted themes, without counting them.",
+          "Does SHEIN reply to negative reviews? According to the Trustpilot profile, read on October 28, 2026, the store replied to 98% of negative reviews, usually within 24 hours, and the reply may use AI. We did not read the text of the replies.",
+          "Does the Trustpilot score apply to my country? Not on its own. The profile is global and does not split reviews by country, and the United Kingdom regional site showed the same profile. The score describes the store overall; delivery times and return rules for your country are on SHEIN's official site or app."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "If you decide to buy, go through SHEIN's official site or app for your country and keep the receipt and the tracking number.",
+      "label": "Go to SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Public Trustpilot data. We may earn a commission on SHEIN purchases, at no cost to you.",
+    "relatedArticles": [
+      {
+        "slug": "is-shein-legit-and-safe",
+        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+      },
+      {
+        "slug": "shein-vs-temu-which-to-choose",
+        "title": "SHEIN vs Temu vs AliExpress: how to choose (shipping, returns and what to check before you buy)"
+      }
+    ]
+  },
+  {
+    "id": 698,
+    "slug": "shein-opiniones-trustpilot",
+    "locale": "es",
+    "translationKey": "shein-reputation",
+    "title": "SHEIN en Trustpilot: calificación, quejas y lo que muestran los datos",
+    "seoTitle": "SHEIN en Trustpilot: calificación y quejas",
+    "type": "Análisis de reputación",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "La calificación de SHEIN en Trustpilot el 28 de octubre de 2026: TrustScore 3,8 con 353.435 opiniones, 59 % de cinco estrellas y 18 % de una, las quejas por paquetes que no llegan y por reembolsos, y por qué una calificación global no dice nada de tu país.",
+    "metaDescription": "SHEIN en Trustpilot el 28 de octubre de 2026: calificación 3,8 con 353.435 opiniones, 59 % de cinco estrellas y 18 % de una, quejas por entregas y reembolsos. Lo que la nota no muestra.",
+    "publishedAt": "29 de octubre de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Logo de SHEIN y cinco estrellas rellenas hasta la calificación 3,8 de Trustpilot, leída el 28 de octubre de 2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "SHEIN tiene 3,8 en Trustpilot, y las quejas tienen un tema claro. El 28 de octubre de 2026, esa calificación salía de 353.435 opiniones de clientes de varios países, y las negativas se concentran en paquetes que no llegaron y en reembolsos tardíos o negados. El perfil es global y no separa países."
+        ]
+      },
+      {
+        "heading": "Qué mide la calificación",
+        "paragraphs": [
+          "El TrustScore es la calificación del perfil en Trustpilot. El 28 de octubre de 2026, SHEIN tenía 3,8, con la etiqueta \"Great\" en la versión en inglés del sitio, con 353.435 opiniones; 22.625 de ellas se publicaron en los últimos 12 meses. El perfil está reclamado por la empresa y tiene una suscripción paga de Trustpilot, como informa la propia página.",
+          "La distribución por estrellas, en la misma lectura: 59 % de cinco estrellas, 12 % de cuatro, 6 % de tres, 5 % de dos y 18 % de una. Cinco y cuatro estrellas suman la mayor parte; la de una estrella, con 18 %, pesa más que las de dos y tres juntas, y es ahí donde aparecen las quejas."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
+          "alt": "Barras de cinco a una estrella con la distribución de las opiniones de SHEIN en Trustpilot: 59 %, 12 %, 6 %, 5 % y 18 %",
+          "caption": "Distribución de las opiniones de SHEIN en Trustpilot, leída el 28 de octubre de 2026. Cuadro nuestro.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "El promedio resume todo eso en un solo número. Para decidir, sirve más mirar qué dicen las calificaciones bajas y cómo responde la tienda; es lo que viene a continuación."
+        ]
+      },
+      {
+        "heading": "Quién opina, y desde dónde",
+        "paragraphs": [
+          "El perfil que leímos, el de www.shein.com, es global: no separa las opiniones por país, y la página no dice cuántas vienen de tu país ni de ningún otro. La calificación junta a compradores de países distintos, con envíos, plazos y reglas de aduana distintos.",
+          "Trustpilot tiene sitios regionales, y el del Reino Unido mostraba el mismo perfil, con los mismos números. No abrimos los demás sitios regionales, así que este artículo no dice si alguno muestra algo diferente.",
+          "Un dato de contexto de Brasil, dicho como dato brasileño y con su fecha: en Reclame Aqui, un sitio brasileño de reclamaciones, SHEIN tenía una nota de 7,5 sobre 10 en los seis meses hasta el 30 de septiembre de 2026, en una lectura del 28 de octubre de 2026. Reclame Aqui mide cómo atiende una empresa las reclamaciones registradas allí, en Brasil; Trustpilot reúne opiniones de clientes de todas partes. Los dos números no miden lo mismo, y ninguno describe tu país por sí solo."
+        ]
+      },
+      {
+        "heading": "Qué aparece en las quejas",
+        "paragraphs": [
+          "Leímos las opiniones negativas visibles en el perfil el 28 de octubre de 2026 y anotamos los temas, sin contar ni ordenar. Giran en torno al paquete y al dinero:"
+        ],
+        "bullets": [
+          "Paquete perdido, robado o que nunca llegó, a veces con una foto de entrega que el cliente discute.",
+          "Reembolso que tardó o fue negado, incluidas devoluciones que la tienda dijo no haber recibido.",
+          "Atención lenta o con respuestas estandarizadas.",
+          "Problemas con el producto: talla, calidad, artículo equivocado o faltante."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+          "alt": "Ilustración de una pantalla de seguimiento con la entrega detenida y la casa todavía esperando, junto a un comprobante con código de barras y una moneda con una flecha de vuelta, el reembolso",
+          "caption": "Ilustración nuestra del paquete que no llega y del reembolso, los temas de las quejas. Guarda el comprobante y el número de seguimiento.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "Son los puntos en los que una compra en línea suele fallar. Para ti, dicen dónde mirar: el seguimiento después del envío, la prueba de entrega, el comprobante de la devolución y la solicitud de reembolso."
+        ]
+      },
+      {
+        "heading": "Qué aparece en los elogios",
+        "paragraphs": [
+          "Las opiniones positivas visibles en la misma lectura eran pocas, así que la muestra es pequeña. Sus temas son otros:"
+        ],
+        "bullets": [
+          "Precios bajos.",
+          "Mucha variedad.",
+          "Calidad razonable.",
+          "Entrega sin problemas."
+        ],
+        "postParagraphs": [
+          "Elogio y queja hablan de momentos distintos de la compra: el elogio, del catálogo, del precio y del paquete que llegó; la queja, del paquete que no llegó y del reembolso que no vino. La calificación suma los dos."
+        ]
+      },
+      {
+        "heading": "Qué responde la tienda",
+        "paragraphs": [
+          "Según el perfil, leído el 28 de octubre de 2026, SHEIN respondió al 98 % de las opiniones negativas, en general en menos de 24 horas, y la página avisa que la respuesta puede usar inteligencia artificial.",
+          "Responder no es resolver. No leímos el texto de las respuestas, así que este artículo no dice si resuelven el problema de quien se quejó. Antes de comprar, abre algunas opiniones de una estrella en el perfil y lee la respuesta de la tienda debajo de cada una, sobre todo las de paquetes que no llegaron y de reembolsos."
+        ]
+      },
+      {
+        "heading": "Lo que no se puede concluir",
+        "paragraphs": [
+          "La calificación responde a una pregunta, no a todas. Tres cosas que la lectura del 28 de octubre de 2026 no sostiene:"
+        ],
+        "bullets": [
+          "Que la calificación vale para tu país: el perfil es global y no separa las opiniones por origen.",
+          "Que la calificación mide solo el producto: junta producto, entrega y atención en una sola opinión, y los temas de queja que leímos son sobre todo de entrega y de reembolso.",
+          "Que la tienda resuelve las quejas: el perfil muestra el índice de respuestas, 98 %, y su rapidez; el texto de las respuestas no fue leído."
+        ]
+      },
+      {
+        "heading": "Nuestra verificación",
+        "paragraphs": [
+          "El 28 de octubre de 2026 leímos el perfil público de SHEIN en Trustpilot, sin iniciar sesión: la calificación, el número de opiniones, la distribución por estrellas, el índice de respuestas y las opiniones visibles, de donde salieron los temas. El mismo día leímos la página de SHEIN en Reclame Aqui, en Brasil, para el párrafo de contexto de arriba.",
+          "Lo que no leímos: el texto de las respuestas de la tienda, las opiniones por país y los demás sitios regionales de Trustpilot aparte del del Reino Unido.",
+          "Nadie de este sitio compró en SHEIN para este artículo. Los números de Trustpilot cambian todos los meses; revisa el perfil el día de la compra."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
+          "alt": "Móvil con el perfil de SHEIN en Trustpilot: nota 3,8, reparto de estrellas y respuesta al 98% de las reseñas negativas",
+          "caption": "Perfil de SHEIN en Trustpilot, versión móvil, el 29 de octubre de 2026. Captura del sitio, con dos partes ampliadas.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "Perfil de SHEIN en Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.shein.com"
+          }
+        ]
+      },
+      {
+        "heading": "¿Se puede confiar en SHEIN por Trustpilot?",
+        "paragraphs": [
+          "Por Trustpilot, los números son estos: el 28 de octubre de 2026, TrustScore 3,8, \"Great\", con 353.435 opiniones, 59 % de cinco estrellas y 18 % de una, y el 98 % de las negativas respondidas, en general en menos de 24 horas.",
+          "Las salvedades son de alcance y de tema. El perfil es global y no separa países, así que dice cómo se comporta la tienda en conjunto, no cómo irá un pedido a tu dirección. Y las quejas que leímos son de paquetes que no llegaron y de reembolsos tardíos o negados: esa es la parte de la compra donde está el riesgo, y la calificación sola no dice con qué frecuencia pasa."
+        ]
+      },
+      {
+        "heading": "Antes de pagar",
+        "paragraphs": [
+          "Las quejas señalan qué proteger. Compra por el sitio o la app oficial de SHEIN de tu país y guarda el comprobante de pago y el número de seguimiento: muestran qué se pagó y dónde quedó el paquete.",
+          "Si el paquete no llega o el artículo viene mal, pide el reembolso por el canal de la propia tienda, en el sitio o en la app, y guarda el comprobante de la devolución si envías algo de vuelta.",
+          "Quién opera SHEIN en tu país y de dónde es la empresa está en [¿SHEIN es confiable y segura?](/es/reviews/shein-es-confiable-y-seguro).",
+          "Si ya decidiste comprar, la [página de SHEIN](/es/coupons/shein) de este sitio lleva a la tienda. El enlace es de afiliado: la compra puede generar una comisión para Em Casa com Cecília, sin costo extra para ti."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿SHEIN tiene buena calificación en Trustpilot? El 28 de octubre de 2026, el TrustScore era 3,8, con la etiqueta \"Great\", con 353.435 opiniones; el 59 % daba cinco estrellas y el 18 %, una.",
+          "¿Cuáles son las quejas más comunes sobre SHEIN? En las opiniones negativas leídas el 28 de octubre de 2026, los temas eran paquetes perdidos, robados o que nunca llegaron, a veces con una foto de entrega discutida; reembolsos tardíos o negados, incluidas devoluciones que la tienda dijo no haber recibido; atención lenta o estandarizada; y problemas de producto como talla, calidad, artículo equivocado o faltante. Anotamos temas, sin contarlos.",
+          "¿SHEIN responde a las opiniones negativas? Según el perfil de Trustpilot, leído el 28 de octubre de 2026, la tienda respondió al 98 % de las opiniones negativas, en general en menos de 24 horas, y la respuesta puede usar inteligencia artificial. No leímos el texto de las respuestas.",
+          "¿La calificación de Trustpilot vale para mi país? No por sí sola. El perfil es global y no separa las opiniones por país, y el sitio regional del Reino Unido mostraba el mismo perfil. La calificación describe a la tienda en conjunto; el plazo de entrega y las reglas de devolución de tu país están en el sitio o la app oficial de SHEIN."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Si vas a comprar, entra por el sitio o la app oficial de SHEIN de tu país y guarda el comprobante y el número de seguimiento.",
+      "label": "Ir a SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Datos públicos de Trustpilot. Podemos recibir comisión por las compras en SHEIN, sin costo para ti.",
+    "relatedArticles": [
+      {
+        "slug": "shein-es-confiable-y-seguro",
+        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+      },
+      {
+        "slug": "shein-o-temu-cual-elegir",
+        "title": "SHEIN o Temu (y AliExpress): cómo elegir (envío, devoluciones y qué revisar antes de comprar)"
+      }
+    ]
+  },
+  {
+    "id": 699,
+    "slug": "shein-avis-trustpilot",
+    "locale": "fr",
+    "translationKey": "shein-reputation",
+    "title": "SHEIN sur Trustpilot : note, plaintes et ce que montrent les chiffres",
+    "seoTitle": "SHEIN sur Trustpilot : note et plaintes",
+    "type": "Analyse de réputation",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "La note de SHEIN sur Trustpilot le 28 octobre 2026 : un TrustScore de 3,8 pour 353 435 avis, 59 % de cinq étoiles et 18 % d’une étoile, des plaintes sur les colis jamais reçus et sur les remboursements, et pourquoi une note mondiale ne dit rien de votre pays.",
+    "metaDescription": "SHEIN sur Trustpilot le 28 octobre 2026 : note de 3,8 pour 353 435 avis, 59 % de cinq étoiles et 18 % d’une, des plaintes sur la livraison et les remboursements. Ce que la note ne montre pas.",
+    "publishedAt": "29 octobre 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Logo de SHEIN et cinq étoiles remplies jusqu’à la note 3,8 de Trustpilot, relevée le 28 octobre 2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "SHEIN affiche 3,8 sur Trustpilot, et les plaintes ont un thème clair. Le 28 octobre 2026, cette note venait de 353 435 avis de clients de nombreux pays, et les avis négatifs portent surtout sur des colis jamais reçus et sur des remboursements tardifs ou refusés. Le profil est mondial et ne distingue pas les pays."
+        ]
+      },
+      {
+        "heading": "Ce que mesure la note",
+        "paragraphs": [
+          "Le TrustScore est la note du profil sur Trustpilot. Le 28 octobre 2026, SHEIN avait 3,8, avec la mention « Great » sur la version anglaise du site, pour 353 435 avis ; 22 625 d’entre eux ont été publiés au cours des 12 derniers mois. Le profil est revendiqué par l’entreprise et dispose d’un abonnement payant à Trustpilot, comme la page elle-même l’indique.",
+          "La répartition par étoile, dans la même lecture : 59 % de cinq étoiles, 12 % de quatre, 6 % de trois, 5 % de deux et 18 % d’une. Cinq et quatre étoiles représentent la plus grande part ; la note d’une étoile, avec 18 %, pèse plus que celles de deux et de trois réunies, et c’est là que les plaintes apparaissent."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
+          "alt": "Barres de cinq à une étoile avec la répartition des avis sur SHEIN sur Trustpilot : 59 %, 12 %, 6 %, 5 % et 18 %",
+          "caption": "Répartition des avis sur SHEIN sur Trustpilot, relevée le 28 octobre 2026. Graphique de notre rédaction.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "La moyenne résume tout cela en un seul chiffre. Pour décider, il est plus utile de regarder ce que disent les notes basses et comment la boutique y répond ; c’est ce qui suit."
+        ]
+      },
+      {
+        "heading": "Qui donne son avis, et d’où",
+        "paragraphs": [
+          "Le profil que nous avons lu, celui de www.shein.com, est mondial : il ne sépare pas les avis par pays, et la page ne dit pas combien viennent de votre pays ni d’aucun autre. La note mélange des acheteurs de pays différents, avec des frais de port, des délais et des règles de douane différents.",
+          "Trustpilot a des sites régionaux, et celui du Royaume-Uni affichait le même profil, avec les mêmes chiffres. Nous n’avons pas ouvert les autres sites régionaux, donc cet article ne dit pas si l’un d’eux montre autre chose.",
+          "Un élément de contexte venu du Brésil, donné comme une donnée brésilienne, avec sa date : sur Reclame Aqui, un site brésilien de réclamations, SHEIN avait une note de 7,5 sur 10 pour les six mois jusqu’au 30 septembre 2026, dans une lecture du 28 octobre 2026. Reclame Aqui mesure la façon dont une entreprise traite les réclamations déposées là-bas, au Brésil ; Trustpilot rassemble des avis de clients de partout. Les deux chiffres ne mesurent pas la même chose, et aucun ne décrit votre pays à lui seul."
+        ]
+      },
+      {
+        "heading": "Ce qui ressort des plaintes",
+        "paragraphs": [
+          "Nous avons lu les avis négatifs visibles sur le profil le 28 octobre 2026 et noté les thèmes, sans les compter ni les classer. Ils tournent autour du colis et de l’argent :"
+        ],
+        "bullets": [
+          "Colis perdu, volé ou jamais reçu, parfois avec une photo de livraison que le client conteste.",
+          "Remboursement tardif ou refusé, y compris des retours que la boutique dit ne pas avoir reçus.",
+          "Service client lent ou avec des réponses standardisées.",
+          "Problèmes de produit : taille, qualité, mauvais article ou article manquant."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+          "alt": "Illustration d’un écran de suivi avec la livraison bloquée et la maison toujours en attente, à côté d’un reçu avec code-barres et d’une pièce avec une flèche de retour, le remboursement",
+          "caption": "Notre illustration du colis qui n’arrive pas et du remboursement, les thèmes des plaintes. Gardez le reçu et le numéro de suivi.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "Ce sont les points où une commande en ligne échoue le plus souvent. Pour vous, ils disent où regarder : le suivi après l’expédition, la preuve de livraison, le justificatif du retour et la demande de remboursement."
+        ]
+      },
+      {
+        "heading": "Ce qui ressort des éloges",
+        "paragraphs": [
+          "Les avis positifs visibles dans la même lecture étaient peu nombreux, donc l’échantillon est petit. Leurs thèmes sont différents :"
+        ],
+        "bullets": [
+          "Des prix bas.",
+          "Un large choix.",
+          "Une qualité correcte.",
+          "Une livraison sans problème."
+        ],
+        "postParagraphs": [
+          "Éloge et plainte parlent de moments différents de l’achat : l’éloge, du catalogue, du prix et du colis arrivé ; la plainte, du colis qui n’est pas arrivé et du remboursement qui n’est pas venu. La note additionne les deux."
+        ]
+      },
+      {
+        "heading": "Ce que répond la boutique",
+        "paragraphs": [
+          "Selon le profil, lu le 28 octobre 2026, SHEIN a répondu à 98 % des avis négatifs, en général sous 24 heures, et la page précise que la réponse peut faire appel à l’intelligence artificielle.",
+          "Répondre n’est pas résoudre. Nous n’avons pas lu le texte des réponses, donc cet article ne dit pas si elles règlent le problème de la personne qui s’est plainte. Avant d’acheter, ouvrez quelques avis à une étoile sur le profil et lisez la réponse de la boutique sous chacun, surtout ceux qui parlent de colis non reçus et de remboursements."
+        ]
+      },
+      {
+        "heading": "Ce qu’on ne peut pas conclure",
+        "paragraphs": [
+          "La note répond à une question, pas à toutes. Trois choses que la lecture du 28 octobre 2026 ne permet pas d’affirmer :"
+        ],
+        "bullets": [
+          "Que la note vaut pour votre pays : le profil est mondial et ne sépare pas les avis par origine.",
+          "Que la note mesure seulement le produit : elle mélange produit, livraison et service client dans un seul avis, et les thèmes de plainte que nous avons lus portent surtout sur la livraison et le remboursement.",
+          "Que la boutique résout les plaintes : le profil montre le taux de réponse, 98 %, et leur rapidité ; le texte des réponses n’a pas été lu."
+        ]
+      },
+      {
+        "heading": "Notre vérification",
+        "paragraphs": [
+          "Le 28 octobre 2026, nous avons lu le profil public de SHEIN sur Trustpilot, sans connexion : la note, le nombre d’avis, la répartition par étoile, le taux de réponse et les avis visibles, d’où viennent les thèmes. Le même jour, nous avons lu la page de SHEIN sur Reclame Aqui, au Brésil, pour le paragraphe de contexte ci-dessus.",
+          "Ce que nous n’avons pas lu : le texte des réponses de la boutique, les avis par pays et les autres sites régionaux de Trustpilot en dehors de celui du Royaume-Uni.",
+          "Personne de ce site n’a acheté chez SHEIN pour cet article. Les chiffres de Trustpilot changent chaque mois ; consultez le profil le jour de l’achat."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
+          "alt": "Téléphone affichant le profil Trustpilot de SHEIN : note de 3,8, répartition des étoiles et réponse à 98 % des avis négatifs",
+          "caption": "Profil Trustpilot de SHEIN, version mobile, le 29 octobre 2026. Capture du site, avec deux passages agrandis.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "Profil de SHEIN sur Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.shein.com"
+          }
+        ]
+      },
+      {
+        "heading": "Peut-on faire confiance à SHEIN d’après Trustpilot ?",
+        "paragraphs": [
+          "D’après Trustpilot, les chiffres sont ceux-ci : le 28 octobre 2026, un TrustScore de 3,8, « Great », pour 353 435 avis, dont 59 % à cinq étoiles et 18 % à une étoile, avec 98 % des avis négatifs ayant reçu une réponse, en général sous 24 heures.",
+          "Les réserves portent sur le périmètre et sur le thème. Le profil est mondial et ne distingue pas les pays : il dit comment la boutique se comporte dans l’ensemble, pas comment se passera une commande à votre adresse. Et les plaintes que nous avons lues parlent de colis jamais reçus et de remboursements tardifs ou refusés : c’est la partie de l’achat où se trouve le risque, et la note seule ne dit pas à quelle fréquence cela arrive."
+        ]
+      },
+      {
+        "heading": "Avant de payer",
+        "paragraphs": [
+          "Les plaintes indiquent ce qu’il faut protéger. Achetez sur le site ou l’application officielle de SHEIN de votre pays et conservez le reçu de paiement et le numéro de suivi : ils montrent ce qui a été payé et où le colis s’est arrêté.",
+          "Si le colis n’arrive pas ou si l’article ne correspond pas, demandez le remboursement par le canal de la boutique, sur le site ou dans l’application, et gardez le justificatif du retour si vous renvoyez quelque chose.",
+          "Qui exploite SHEIN dans votre pays et d’où vient l’entreprise, c’est dans [SHEIN est-il fiable et sûr ?](/fr/reviews/shein-est-il-fiable-et-sur).",
+          "Si vous avez décidé d’acheter, la [page SHEIN](/fr/coupons/shein) de ce site mène à la boutique. Le lien est un lien d’affiliation : un achat peut générer une commission pour Em Casa com Cecília, sans coût supplémentaire pour vous."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "La note de SHEIN sur Trustpilot est-elle bonne ? Le 28 octobre 2026, le TrustScore était de 3,8, avec la mention « Great », pour 353 435 avis ; 59 % donnaient cinq étoiles et 18 %, une seule.",
+          "Quelles sont les plaintes les plus fréquentes sur SHEIN ? Dans les avis négatifs lus le 28 octobre 2026, les thèmes étaient des colis perdus, volés ou jamais reçus, parfois avec une photo de livraison contestée ; des remboursements tardifs ou refusés, y compris des retours que la boutique dit ne pas avoir reçus ; un service client lent ou standardisé ; et des problèmes de produit comme la taille, la qualité, un mauvais article ou un article manquant. Nous avons noté des thèmes, sans les compter.",
+          "SHEIN répond-il aux avis négatifs ? Selon le profil Trustpilot, lu le 28 octobre 2026, la boutique a répondu à 98 % des avis négatifs, en général sous 24 heures, et la réponse peut faire appel à l’intelligence artificielle. Nous n’avons pas lu le texte des réponses.",
+          "La note Trustpilot vaut-elle pour mon pays ? Pas à elle seule. Le profil est mondial et ne sépare pas les avis par pays, et le site régional du Royaume-Uni affichait le même profil. La note décrit la boutique dans l’ensemble ; le délai de livraison et les règles de retour de votre pays sont sur le site ou l’application officielle de SHEIN."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Si vous achetez, passez par le site ou l’application officielle de SHEIN de votre pays et conservez le reçu et le numéro de suivi.",
+      "label": "Aller sur SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Données publiques de Trustpilot. Nous pouvons toucher une commission sur les achats SHEIN, sans frais pour vous.",
+    "relatedArticles": [
+      {
+        "slug": "shein-est-il-fiable-et-sur",
+        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+      },
+      {
+        "slug": "shein-ou-temu-comment-choisir",
+        "title": "SHEIN ou Temu (et AliExpress) : comment choisir (livraison, retours, douane et points à vérifier avant d'acheter)"
+      }
+    ]
+  },
+  {
+    "id": 700,
+    "slug": "shein-recensioni-trustpilot",
+    "locale": "it",
+    "translationKey": "shein-reputation",
+    "title": "SHEIN su Trustpilot: punteggio, reclami e cosa mostrano i numeri",
+    "seoTitle": "SHEIN su Trustpilot: punteggio e reclami",
+    "type": "Analisi della reputazione",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Il punteggio di SHEIN su Trustpilot al 28 ottobre 2026: TrustScore 3,8 su 353.435 recensioni, 59% di cinque stelle e 18% di una, i reclami concentrati su pacchi non consegnati e rimborsi, e perché il punteggio non dice nulla sul tuo paese.",
+    "metaDescription": "SHEIN su Trustpilot al 28 ottobre 2026: 3,8 su 353.435 recensioni, 59% di cinque stelle, 18% di una. Reclami su consegne e rimborsi, e cosa il punteggio non mostra.",
+    "publishedAt": "29 ottobre 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Logo di SHEIN e cinque stelle riempite fino al punteggio 3,8 di Trustpilot, letto il 28 ottobre 2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Su Trustpilot il punteggio di SHEIN è nella fascia che il sito chiama «Great», ma va letto con una riserva. Il 28 ottobre 2026 il TrustScore era 3,8, su 353.435 recensioni di clienti di molti paesi, e i reclami parlano soprattutto di pacchi non consegnati e di rimborsi. Il profilo è globale e non separa i paesi."
+        ]
+      },
+      {
+        "heading": "Cosa misura il punteggio",
+        "paragraphs": [
+          "Il TrustScore è il punteggio del profilo su Trustpilot. Il 28 ottobre 2026 SHEIN aveva 3,8, con l’etichetta «Great», su 353.435 recensioni; 22.625 di queste erano state pubblicate negli ultimi 12 mesi. Il profilo è rivendicato dall’azienda e ha un abbonamento a pagamento a Trustpilot, come indica la pagina stessa.",
+          "La distribuzione per stelle, nella stessa lettura: 59% di cinque stelle, 12% di quattro, 6% di tre, 5% di due e 18% di una. Cinque e quattro stelle insieme fanno la maggior parte; la quota di una stella, il 18%, pesa più di quelle di due e tre stelle messe insieme, ed è lì che compaiono i reclami."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
+          "alt": "Barre da cinque a una stella con la distribuzione delle recensioni di SHEIN su Trustpilot: 59%, 12%, 6%, 5% e 18%",
+          "caption": "Distribuzione delle recensioni di SHEIN su Trustpilot, letta il 28 ottobre 2026. Grafico nostro.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "La media riassume tutto questo in un numero solo. Per decidere conta di più leggere cosa dicono le valutazioni basse e come risponde il negozio; è quello che segue."
+        ]
+      },
+      {
+        "heading": "Chi recensisce, e da dove",
+        "paragraphs": [
+          "Il profilo che abbiamo letto, quello di www.shein.com, è globale: non separa le recensioni per paese, e la pagina non dice quante arrivano dall’Italia o da qualsiasi altro posto. Il punteggio mette insieme clienti di paesi diversi, con spedizioni, tempi e dogane diverse.",
+          "Il sito regionale di Trustpilot per il Regno Unito mostra lo stesso profilo, con gli stessi numeri; gli altri siti regionali non li abbiamo aperti. Per chi compra dall’Italia, questo cambia la lettura: il punteggio dice come si comporta il negozio nell’insieme, non come va la consegna al tuo indirizzo.",
+          "Un dato di contesto dal Brasile, il paese di questo sito: su Reclame Aqui, un sito brasiliano di reclami, SHEIN aveva un voto di 7,5 su 10 nei sei mesi fino al 30 settembre 2026, nella lettura del 28 ottobre 2026. È un dato del Brasile, e misura un’altra cosa: l’assistenza a chi presenta un reclamo lì, non il giudizio dei clienti di tutti i paesi."
+        ]
+      },
+      {
+        "heading": "Cosa compare nei reclami",
+        "paragraphs": [
+          "Abbiamo letto le recensioni negative visibili sul profilo il 28 ottobre 2026 e annotato i temi, senza contarli né metterli in ordine. Ruotano intorno alla consegna e al rimborso:"
+        ],
+        "bullets": [
+          "Pacco perso, rubato o non consegnato, con una foto di consegna che il cliente contesta.",
+          "Rimborso in ritardo o negato, compreso il reso che il negozio dice di non aver ricevuto.",
+          "Assistenza lenta o con risposte standard.",
+          "Problemi con il prodotto: taglia, qualità, articolo sbagliato o mancante."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+          "alt": "Illustrazione di una schermata di tracciamento con la consegna ferma e la casa ancora in attesa, accanto a una ricevuta con codice a barre e a una moneta con una freccia di ritorno, il rimborso",
+          "caption": "Nostra illustrazione del pacco che non arriva e del rimborso, i temi dei reclami. Conserva la ricevuta e il codice di tracciamento.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "Sono i punti in cui un acquisto online può incepparsi dopo il pagamento. Per chi legge, indicano dove guardare: il tracciamento dopo la spedizione, la prova di consegna e il canale del negozio per resi e rimborsi."
+        ]
+      },
+      {
+        "heading": "Cosa compare negli elogi",
+        "paragraphs": [
+          "Nelle recensioni positive, nella stessa lettura, i temi sono altri. Il campione di elogi visibile era piccolo, quindi i punti qui sotto sono un’indicazione, non una classifica:"
+        ],
+        "bullets": [
+          "Prezzo basso.",
+          "Varietà del catalogo.",
+          "Qualità ragionevole.",
+          "Consegna arrivata senza problemi."
+        ],
+        "postParagraphs": [
+          "Elogio e reclamo parlano di momenti diversi dell’acquisto: l’elogio, del catalogo, del prezzo e del pacco arrivato; il reclamo, del pacco che non è arrivato e del rimborso che non è tornato. Il punteggio li somma."
+        ]
+      },
+      {
+        "heading": "Cosa risponde il negozio",
+        "paragraphs": [
+          "Secondo il profilo, letto il 28 ottobre 2026, SHEIN ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la pagina avverte che la risposta può usare l’intelligenza artificiale.",
+          "Rispondere non è risolvere. Non abbiamo letto il testo delle risposte, quindi questo articolo non dice se risolvono il problema di chi si è lamentato. Prima di comprare, vale la pena aprire alcune recensioni a una stella sul profilo e leggere la risposta del negozio sotto ciascuna, soprattutto quelle sui pacchi non consegnati e sui rimborsi."
+        ]
+      },
+      {
+        "heading": "Cosa non si può concludere",
+        "paragraphs": [
+          "Il punteggio risponde a una domanda, non a tutte. Tre cose che la lettura del 28 ottobre 2026 non sostiene:"
+        ],
+        "bullets": [
+          "Che il punteggio valga per il tuo paese: il profilo è globale e non separa le recensioni per origine.",
+          "Che il punteggio misuri il prodotto: mette insieme prodotto, consegna e assistenza in una valutazione sola, e i temi di reclamo che abbiamo letto sono soprattutto di consegna e di rimborso.",
+          "Che il negozio risolva i reclami: il profilo mostra la quota di risposte, il 98%, e i tempi; il testo delle risposte non l’abbiamo letto."
+        ]
+      },
+      {
+        "heading": "La nostra verifica",
+        "paragraphs": [
+          "Il 28 ottobre 2026 abbiamo letto il profilo pubblico di SHEIN su Trustpilot, senza accedere con un account: il punteggio, il numero di recensioni, la distribuzione per stelle, la quota di risposte e le recensioni visibili, da cui sono usciti i temi. Abbiamo aperto anche il sito regionale del Regno Unito, che mostra lo stesso profilo.",
+          "Cosa non abbiamo letto: il testo delle risposte del negozio, le recensioni divise per paese e gli altri siti regionali di Trustpilot.",
+          "Nessuno del sito ha comprato da SHEIN per questo articolo. I numeri di Trustpilot cambiano ogni mese; controlla il profilo il giorno dell’acquisto."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
+          "alt": "Smartphone con il profilo di SHEIN su Trustpilot: punteggio 3,8, distribuzione delle stelle e risposta al 98% delle recensioni negative",
+          "caption": "Profilo di SHEIN su Trustpilot, versione mobile, il 29 ottobre 2026. Screenshot del sito, con due parti ingrandite.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "Profilo di SHEIN su Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.shein.com"
+          }
+        ]
+      },
+      {
+        "heading": "Ci si può fidare di SHEIN guardando Trustpilot?",
+        "paragraphs": [
+          "Da Trustpilot, la lettura è di un punteggio che il sito chiama «Great», con numeri grandi: il 28 ottobre 2026, TrustScore 3,8 su 353.435 recensioni, il 59% di cinque stelle e il 18% di una, con il 98% delle negative con una risposta, di solito entro 24 ore.",
+          "Le riserve sono due. La prima è di ambito: il profilo è globale, non separa i paesi, e dice come si comporta il negozio nell’insieme, non come va la consegna al tuo indirizzo. La seconda è di contenuto: i reclami che abbiamo letto parlano di pacchi non consegnati e di rimborsi, cioè di quello che succede dopo il pagamento, e il profilo mostra che il negozio risponde, non che risolve."
+        ]
+      },
+      {
+        "heading": "Prima di pagare",
+        "paragraphs": [
+          "Compra dal sito o dall’app ufficiale di SHEIN del tuo paese. Chi gestisce SHEIN nel tuo paese, da dove viene e come funziona il reso sono in [SHEIN è affidabile e sicuro?](/it/reviews/shein-e-affidabile-e-sicuro).",
+          "Dopo il pagamento, conserva la conferma dell’ordine e il codice di tracciamento: sono quelli che servono per aprire una richiesta all’assistenza se il pacco non arriva. Se il pacco arriva e qualcosa non va, chiedi il rimborso dal canale del negozio, nell’app o sul sito, e conserva la prova del reso.",
+          "Se hai deciso di comprare, la [pagina di SHEIN](/it/coupons/shein) qui sul sito porta al negozio. Il link è di affiliazione: l’acquisto può generare una commissione per Em Casa com Cecília, senza costi extra per te."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "SHEIN ha un buon punteggio su Trustpilot? Il 28 ottobre 2026 il TrustScore era 3,8, con l’etichetta «Great», su 353.435 recensioni; il 59% dava cinque stelle e il 18% una. Il profilo è globale e non separa i paesi.",
+          "Quali sono i reclami più comuni su SHEIN? Nelle recensioni negative lette il 28 ottobre 2026, i temi sono il pacco perso o non consegnato, il rimborso in ritardo o negato, l’assistenza lenta o con risposte standard e i problemi con il prodotto, come taglia, qualità o articolo sbagliato.",
+          "SHEIN risponde alle recensioni negative? Secondo il profilo su Trustpilot, letto il 28 ottobre 2026, il negozio ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la risposta può usare l’intelligenza artificiale. Non abbiamo letto il testo delle risposte.",
+          "Il punteggio di Trustpilot vale per il mio paese? Non da solo: il profilo di SHEIN è globale e non separa le recensioni per paese. Dice come si comporta il negozio nell’insieme; spedizione, tempi e reso per il tuo indirizzo sono nel checkout e nelle condizioni del negozio."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Se decidi di comprare, entra dal sito o dall’app ufficiale di SHEIN e conserva la conferma dell’ordine e il codice di tracciamento.",
+      "label": "Vai su SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Dati pubblici che cambiano nel tempo. Possiamo ricevere una commissione sugli acquisti su SHEIN.",
+    "relatedArticles": [
+      {
+        "slug": "shein-e-affidabile-e-sicuro",
+        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+      },
+      {
+        "slug": "shein-o-temu-come-scegliere",
+        "title": "SHEIN o Temu (e AliExpress): come scegliere (spedizione, resi, dogana e cosa controllare prima di comprare)"
+      }
+    ]
+  },
+  {
+    "id": 701,
+    "slug": "shein-trustpilot-bewertungen",
+    "locale": "de",
+    "translationKey": "shein-reputation",
+    "title": "SHEIN auf Trustpilot: Bewertung, Beschwerden und was die Zahlen zeigen",
+    "seoTitle": "SHEIN auf Trustpilot: Bewertung und Beschwerden",
+    "type": "Reputationsanalyse",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Die Trustpilot-Bewertung von SHEIN am 28. Oktober 2026: TrustScore 3,8 aus 353.435 Bewertungen, 59 % mit fünf Sternen und 18 % mit einem, Beschwerden vor allem über nicht zugestellte Pakete und Erstattungen, und warum die Zahl nichts über Ihr Land sagt.",
+    "metaDescription": "SHEIN auf Trustpilot am 28. Oktober 2026: 3,8 aus 353.435 Bewertungen, 59 % fünf Sterne, 18 % ein Stern. Worüber sich Kunden beschweren und was die Zahl nicht zeigt.",
+    "publishedAt": "29. Oktober 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "SHEIN-Logo und fünf Sterne, gefüllt bis zur Trustpilot-Bewertung 3,8, abgelesen am 28. Oktober 2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Auf Trustpilot liegt SHEIN in der Stufe, die die Seite „Great“ nennt, aber die Zahl braucht einen Vorbehalt. Am 28. Oktober 2026 lag der TrustScore bei 3,8 aus 353.435 Bewertungen von Kunden aus vielen Ländern, und die Beschwerden drehen sich vor allem um nicht zugestellte Pakete und Erstattungen. Das Profil ist global und trennt nicht nach Ländern."
+        ]
+      },
+      {
+        "heading": "Was die Bewertung misst",
+        "paragraphs": [
+          "Der TrustScore ist die Bewertung des Profils auf Trustpilot. Am 28. Oktober 2026 hatte SHEIN 3,8 mit dem Etikett „Great“, aus 353.435 Bewertungen; 22.625 davon wurden in den letzten 12 Monaten veröffentlicht. Das Profil ist vom Unternehmen beansprucht und hat ein kostenpflichtiges Trustpilot-Abo, wie die Seite selbst angibt.",
+          "Die Verteilung nach Sternen, in derselben Ablesung: 59 % fünf Sterne, 12 % vier, 6 % drei, 5 % zwei und 18 % ein Stern. Fünf und vier Sterne machen zusammen den größten Teil aus; der Anteil mit einem Stern, 18 %, wiegt mehr als die Anteile mit zwei und drei Sternen zusammen, und dort stehen die Beschwerden."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
+          "alt": "Balken von fünf bis ein Stern mit der Verteilung der SHEIN-Bewertungen auf Trustpilot: 59 %, 12 %, 6 %, 5 % und 18 %",
+          "caption": "Verteilung der SHEIN-Bewertungen auf Trustpilot, abgelesen am 28. Oktober 2026. Eigene Grafik.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "Der Durchschnitt fasst all das in einer einzigen Zahl zusammen. Für die Entscheidung zählt mehr, was die niedrigen Bewertungen sagen und wie der Shop darauf antwortet; darum geht es im Folgenden."
+        ]
+      },
+      {
+        "heading": "Wer bewertet, und von wo",
+        "paragraphs": [
+          "Das gelesene Profil, das von www.shein.com, ist global: Es trennt die Bewertungen nicht nach Land, und die Seite sagt nicht, wie viele aus Ihrem Land oder von anderswo kommen. Die Zahl fasst Kunden aus verschiedenen Ländern zusammen, mit unterschiedlichem Versand, unterschiedlichen Lieferzeiten und unterschiedlichem Zoll.",
+          "Die britische Regionalseite von Trustpilot zeigt dasselbe Profil mit denselben Zahlen; die anderen Regionalseiten haben wir nicht geöffnet. Für Sie ändert das die Lesart: Die Zahl sagt, wie sich der Shop insgesamt verhält, nicht, wie die Zustellung an Ihre Adresse läuft.",
+          "Ein Kontextwert aus Brasilien, dem Land dieser Website: Auf Reclame Aqui, einer brasilianischen Beschwerdeplattform, hatte SHEIN in den sechs Monaten bis zum 30. September 2026 eine Note von 7,5 von 10, abgelesen am 28. Oktober 2026. Das ist ein Wert aus Brasilien, und er misst etwas anderes: den Umgang mit den Beschwerden dort, nicht das Urteil der Kunden aus allen Ländern."
+        ]
+      },
+      {
+        "heading": "Was in den Beschwerden steht",
+        "paragraphs": [
+          "Wir haben die am 28. Oktober 2026 im Profil sichtbaren negativen Bewertungen gelesen und die Themen notiert, ohne zu zählen oder zu ordnen. Sie drehen sich um Zustellung und Erstattung:"
+        ],
+        "bullets": [
+          "Paket verloren, gestohlen oder nicht zugestellt, mit einem Zustellfoto, das der Kunde anzweifelt.",
+          "Erstattung verspätet oder abgelehnt, auch bei einer Rücksendung, die der Shop nach eigenen Angaben nicht erhalten hat.",
+          "Kundenservice langsam oder mit Standardantworten.",
+          "Probleme mit dem Produkt: Größe, Qualität, falscher oder fehlender Artikel."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+          "alt": "Illustration eines Tracking-Bildschirms mit stockender Zustellung und wartendem Haus, daneben ein Beleg mit Strichcode und eine Münze mit Rückpfeil, die Erstattung",
+          "caption": "Unsere Illustration des Pakets, das nicht ankommt, und der Erstattung, der Beschwerdethemen. Bewahren Sie Beleg und Sendungsnummer auf.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "Das sind die Stellen, an denen ein Online-Kauf nach der Zahlung hängen bleiben kann. Für Sie zeigen sie, wohin Sie schauen sollten: auf die Sendungsverfolgung nach dem Versand, auf den Zustellnachweis und auf den Weg des Shops für Rücksendung und Erstattung."
+        ]
+      },
+      {
+        "heading": "Was im Lob steht",
+        "paragraphs": [
+          "In den positiven Bewertungen, in derselben Ablesung, sind die Themen andere. Die sichtbare Stichprobe an Lob war klein, die Punkte unten sind also ein Hinweis, keine Rangliste:"
+        ],
+        "bullets": [
+          "Niedriger Preis.",
+          "Große Auswahl.",
+          "Angemessene Qualität.",
+          "Zustellung ohne Probleme."
+        ],
+        "postParagraphs": [
+          "Lob und Beschwerde sprechen von verschiedenen Momenten des Kaufs: das Lob vom Katalog, vom Preis und vom angekommenen Paket; die Beschwerde vom Paket, das nicht kam, und von der Erstattung, die ausblieb. Die Bewertung zählt beides zusammen."
+        ]
+      },
+      {
+        "heading": "Was der Shop antwortet",
+        "paragraphs": [
+          "Laut dem am 28. Oktober 2026 gelesenen Profil hat SHEIN auf 98 % der negativen Bewertungen geantwortet, meist innerhalb von 24 Stunden, und die Seite weist darauf hin, dass die Antwort KI nutzen kann.",
+          "Antworten heißt nicht lösen. Wir haben den Text der Antworten nicht gelesen, dieser Artikel sagt also nicht, ob sie das Problem der Beschwerdeführer lösen. Vor dem Kauf lohnt es sich, im Profil einige Ein-Stern-Bewertungen zu öffnen und die Antwort des Shops darunter zu lesen, vor allem bei nicht zugestellten Paketen und Erstattungen."
+        ]
+      },
+      {
+        "heading": "Was sich nicht schließen lässt",
+        "paragraphs": [
+          "Die Bewertung beantwortet eine Frage, nicht alle. Drei Dinge, die die Ablesung vom 28. Oktober 2026 nicht trägt:"
+        ],
+        "bullets": [
+          "Dass die Zahl für Ihr Land gilt: Das Profil ist global und trennt die Bewertungen nicht nach Herkunft.",
+          "Dass die Zahl das Produkt misst: Sie fasst Produkt, Zustellung und Kundenservice in einer Bewertung zusammen, und die Beschwerdethemen, die wir gelesen haben, betreffen vor allem Zustellung und Erstattung.",
+          "Dass der Shop die Beschwerden löst: Das Profil zeigt die Antwortquote, 98 %, und die Antwortzeit; den Text der Antworten haben wir nicht gelesen."
+        ]
+      },
+      {
+        "heading": "Unsere Prüfung",
+        "paragraphs": [
+          "Am 28. Oktober 2026 haben wir das öffentliche Profil von SHEIN auf Trustpilot gelesen, ohne Login: die Bewertung, die Zahl der Bewertungen, die Verteilung nach Sternen, die Antwortquote und die sichtbaren Bewertungen, aus denen die Themen stammen. Wir haben auch die britische Regionalseite geöffnet, die dasselbe Profil zeigt.",
+          "Was wir nicht gelesen haben: den Text der Antworten des Shops, die Bewertungen nach Land und die anderen Regionalseiten von Trustpilot.",
+          "Niemand von dieser Website hat für diesen Artikel bei SHEIN gekauft. Die Trustpilot-Zahlen ändern sich jeden Monat; prüfen Sie das Profil am Tag des Kaufs."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
+          "alt": "Smartphone mit dem Trustpilot-Profil von SHEIN: Bewertung 3,8, Verteilung der Sterne und Antwort auf 98 % der negativen Bewertungen",
+          "caption": "Trustpilot-Profil von SHEIN, mobile Ansicht, am 29. Oktober 2026. Screenshot der Website, zwei Ausschnitte vergrößert.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "SHEIN-Profil auf Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.shein.com"
+          }
+        ]
+      },
+      {
+        "heading": "Kann man SHEIN nach Trustpilot vertrauen?",
+        "paragraphs": [
+          "Nach Trustpilot ist die Lesart eine Bewertung in der Stufe „Great“, mit großen Zahlen: am 28. Oktober 2026 ein TrustScore von 3,8 aus 353.435 Bewertungen, 59 % mit fünf Sternen und 18 % mit einem Stern, und 98 % der negativen Bewertungen mit einer Antwort, meist innerhalb von 24 Stunden.",
+          "Die Vorbehalte sind zwei. Der erste betrifft den Rahmen: Das Profil ist global, trennt nicht nach Ländern und sagt, wie sich der Shop insgesamt verhält, nicht, wie die Zustellung an Ihre Adresse läuft. Der zweite betrifft den Inhalt: Die Beschwerden, die wir gelesen haben, handeln von nicht zugestellten Paketen und Erstattungen, also von dem, was nach der Zahlung passiert, und das Profil zeigt, dass der Shop antwortet, nicht, dass er löst."
+        ]
+      },
+      {
+        "heading": "Vor dem Bezahlen",
+        "paragraphs": [
+          "Kaufen Sie über die offizielle Website oder App von SHEIN für Ihr Land. Wer SHEIN in Ihrem Land betreibt, woher das Unternehmen kommt und wie die Rückgabe funktioniert, steht in [Ist SHEIN seriös und sicher?](/de/reviews/ist-shein-serioes-und-sicher).",
+          "Bewahren Sie nach dem Bezahlen die Bestellbestätigung und die Sendungsnummer auf: Damit eröffnen Sie beim Kundenservice einen Fall, wenn das Paket nicht ankommt. Kommt das Paket an und etwas stimmt nicht, fordern Sie die Erstattung über den Weg des Shops an, in der App oder auf der Website, und bewahren Sie den Beleg der Rücksendung auf.",
+          "Wenn Sie sich für den Kauf entschieden haben, führt die [SHEIN-Seite](/de/coupons/shein) hier auf der Website zum Shop. Der Link ist ein Affiliate-Link: Der Kauf kann eine Provision für Em Casa com Cecília einbringen, ohne Mehrkosten für Sie."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Hat SHEIN eine gute Bewertung auf Trustpilot? Am 28. Oktober 2026 lag der TrustScore bei 3,8 mit dem Etikett „Great“, aus 353.435 Bewertungen; 59 % gaben fünf Sterne und 18 % einen. Das Profil ist global und trennt nicht nach Ländern.",
+          "Was sind die häufigsten Beschwerden über SHEIN? In den am 28. Oktober 2026 gelesenen negativen Bewertungen sind die Themen das verlorene oder nicht zugestellte Paket, die verspätete oder abgelehnte Erstattung, der langsame Kundenservice mit Standardantworten und Probleme mit dem Produkt wie Größe, Qualität oder falscher Artikel.",
+          "Antwortet SHEIN auf negative Bewertungen? Laut dem am 28. Oktober 2026 gelesenen Trustpilot-Profil hat der Shop auf 98 % der negativen Bewertungen geantwortet, meist innerhalb von 24 Stunden, und die Antwort kann KI nutzen. Den Text der Antworten haben wir nicht gelesen.",
+          "Gilt die Trustpilot-Bewertung für mein Land? Nicht für sich allein: Das SHEIN-Profil ist global und trennt die Bewertungen nicht nach Land. Es sagt, wie sich der Shop insgesamt verhält; Versand, Lieferzeit und Rückgabe für Ihre Adresse stehen im Checkout und in den Bedingungen des Shops."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Wenn Sie kaufen, gehen Sie über die offizielle Website oder App von SHEIN und bewahren Sie Bestellbestätigung und Sendungsnummer auf.",
+      "label": "Zu SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Öffentliche Daten, die sich mit der Zeit ändern. Wir können für Käufe bei SHEIN eine Provision erhalten.",
+    "relatedArticles": [
+      {
+        "slug": "ist-shein-serioes-und-sicher",
+        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+      },
+      {
+        "slug": "shein-oder-temu-was-waehlen",
+        "title": "SHEIN oder Temu (und AliExpress): Was passt besser? Versand, Rückgabe, Zoll und was Sie prüfen sollten"
+      }
+    ]
+  },
+  {
+    "id": 702,
+    "slug": "shein-trustpilot-reviews-ja",
+    "locale": "ja",
+    "translationKey": "shein-reputation",
+    "title": "SHEIN の Trustpilot 評価：スコア、苦情、数字が示すこと",
+    "seoTitle": "SHEIN の Trustpilot 評価と苦情",
+    "type": "評判分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "2026年10月28日時点の SHEIN の Trustpilot 評価です。TrustScore 3.8（レビュー 353,435 件）、星 5 つが 59%、星 1 つが 18%。苦情は届かない荷物と返金に集中しています。この数字があなたの国について何も語らない理由もまとめました。",
+    "metaDescription": "2026年10月28日時点の SHEIN の Trustpilot は TrustScore 3.8、レビュー 353,435 件、星 5 つ 59%、星 1 つ 18%。配送と返金の苦情と、数字が示さないことを紹介します。",
+    "publishedAt": "2026年10月29日",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "SHEIN のロゴと、Trustpilot の評価 3.8 まで塗られた 5 つの星。2026年10月28日に確認",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "結論",
+        "paragraphs": [
+          "SHEIN の Trustpilot 評価は「Great」の帯ですが、注意が要ります。2026年10月28日の TrustScore は 3.8、各国の顧客による 353,435 件のレビューで、苦情の中心は届かない荷物と返金です。プロフィールは世界共通で、国別ではありません。"
+        ]
+      },
+      {
+        "heading": "この評価が測っているもの",
+        "paragraphs": [
+          "TrustScore は、Trustpilot 上のプロフィールの評価です。2026年10月28日時点で SHEIN は 3.8、ラベルは「Great」で、レビューは 353,435 件、そのうち 22,625 件は直近 12 か月に投稿されたものでした。プロフィールは企業が請求済みで、Trustpilot の有料契約があることがページに記載されています。",
+          "同じ日の星ごとの分布は、星 5 つが 59%、星 4 つが 12%、星 3 つが 6%、星 2 つが 5%、星 1 つが 18% でした。星 5 つと星 4 つを合わせると大半を占めます。星 1 つの 18% は、星 2 つと星 3 つを合わせた割合より大きく、苦情はそこに集まっています。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
+          "alt": "Trustpilot の SHEIN のレビュー分布を示す、星 5 つから星 1 つまでの棒グラフ：59%、12%、6%、5%、18%",
+          "caption": "2026年10月28日に確認した、Trustpilot の SHEIN のレビュー分布。図は当サイト作成。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "平均は、これらすべてを一つの数字にまとめたものです。判断のためには、低い評価が何を言っているか、店がどう返信しているかを見るほうが役に立ちます。それを次に見ていきます。"
+        ]
+      },
+      {
+        "heading": "誰が、どこから評価しているか",
+        "paragraphs": [
+          "読んだプロフィールは www.shein.com のもので、世界共通です。レビューは国別に分かれておらず、日本やほかの国から何件来ているかはページに書かれていません。この数字は、送料、配送期間、関税の条件が違う国々の顧客をまとめたものです。",
+          "Trustpilot のイギリス向け地域サイトでも、同じプロフィールと同じ数字が表示されました。ほかの地域サイトは開いていません。日本から買う人にとって、これは読み方を変えます。この数字は店が全体としてどう振る舞っているかを示すもので、あなたの住所への配送がどうなるかを示すものではありません。",
+          "ブラジルからの参考情報を一つ。このサイトの拠点であるブラジルには Reclame Aqui という苦情サイトがあり、2026年9月30日までの 6 か月間で SHEIN の評点は 10 点満点中 7.5 でした（2026年10月28日に確認）。これはブラジルの数字で、測っているものも別です。そこで苦情を出した人への対応であって、すべての国の顧客の評価ではありません。"
+        ]
+      },
+      {
+        "heading": "苦情に出てくること",
+        "paragraphs": [
+          "2026年10月28日にプロフィールで見られた否定的なレビューを読み、テーマを書き出しました。件数は数えず、順位も付けていません。テーマは配送と返金に集まっています："
+        ],
+        "bullets": [
+          "荷物の紛失、盗難、未着。顧客が納得していない配達完了の写真が添えられていることもあります。",
+          "返金の遅れや拒否。店が「受け取っていない」とする返送品のケースを含みます。",
+          "対応が遅い、または定型文の返答。",
+          "商品の問題。サイズ、品質、違う商品、足りない商品。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+          "alt": "配送が止まり、家がまだ待っている追跡画面のイラスト。横にバーコード付きの控えと、戻る矢印の付いたコイン（返金）",
+          "caption": "当サイトのイラスト：届かない荷物と返金は苦情のテーマです。控えと追跡番号を保管してください。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "いずれも、ネット通販で支払いのあとにつまずきやすい点です。読者にとっては、どこを見ればいいかの目印になります。発送後の追跡、配達完了の証明、そして返品と返金のための店の窓口です。"
+        ]
+      },
+      {
+        "heading": "称賛に出てくること",
+        "paragraphs": [
+          "同じ日に読んだ肯定的なレビューでは、テーマは別のものでした。目に入った称賛のサンプルは小さかったので、下の点は目安であり、順位ではありません："
+        ],
+        "bullets": [
+          "価格が安い。",
+          "品数が多い。",
+          "品質はまずまず。",
+          "配送に問題がなかった。"
+        ],
+        "postParagraphs": [
+          "称賛と苦情は、買い物の違う場面を語っています。称賛はカタログ、価格、届いた荷物について。苦情は届かなかった荷物と、戻ってこなかった返金について。評価はその両方を合算しています。"
+        ]
+      },
+      {
+        "heading": "店の返信について",
+        "paragraphs": [
+          "2026年10月28日に読んだプロフィールによると、SHEIN は否定的なレビューの 98% に返信しており、多くは 24 時間以内です。ページには、返信に AI を使うことがあるとも書かれています。",
+          "返信することと解決することは別です。返信の本文は読んでいないので、この記事では、返信が苦情を出した人の問題を解決しているかどうかは言えません。買う前に、プロフィールで星 1 つのレビューをいくつか開き、その下にある店の返信を読んでみてください。特に、届かない荷物と返金に関するものです。"
+        ]
+      },
+      {
+        "heading": "この数字から言えないこと",
+        "paragraphs": [
+          "評価は一つの問いに答えるもので、すべてに答えるものではありません。2026年10月28日の読み取りからは言えないことが三つあります："
+        ],
+        "bullets": [
+          "この数字があなたの国に当てはまること。プロフィールは世界共通で、レビューを国別に分けていません。",
+          "この数字が商品を測っていること。商品、配送、対応を一つの評価にまとめており、読んだ苦情のテーマは主に配送と返金でした。",
+          "店が苦情を解決していること。プロフィールが示すのは返信率の 98% と返信の速さで、返信の本文は読んでいません。"
+        ]
+      },
+      {
+        "heading": "私たちの確認方法",
+        "paragraphs": [
+          "2026年10月28日に、ログインせずに Trustpilot の SHEIN の公開プロフィールを読みました。評価、レビュー数、星ごとの分布、返信率、そして表示されていたレビューで、テーマはそこから取り出したものです。イギリス向けの地域サイトも開き、同じプロフィールが表示されることを確かめました。",
+          "読んでいないもの：店の返信の本文、国別のレビュー、Trustpilot のほかの地域サイト。",
+          "この記事のために SHEIN で買い物をした人は、当サイトにはいません。Trustpilot の数字は毎月変わります。買う日にプロフィールを確認してください。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
+          "alt": "スマートフォンに表示したSHEINのTrustpilotプロフィール：スコア3.8、星の内訳、低評価レビューの98%への返信",
+          "caption": "2026年10月29日のSHEINのTrustpilotプロフィール（モバイル表示）。サイトのスクリーンショットで、2か所を拡大しています。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "Trustpilot の SHEIN プロフィール",
+            "href": "https://www.trustpilot.com/review/www.shein.com"
+          }
+        ]
+      },
+      {
+        "heading": "Trustpilot を見て SHEIN は信頼できる？",
+        "paragraphs": [
+          "Trustpilot から読み取れるのは、サイトが「Great」と呼ぶ帯の評価と、大きな数字です。2026年10月28日時点で TrustScore 3.8、レビュー 353,435 件、星 5 つが 59%、星 1 つが 18%、否定的なレビューの 98% に返信があり、多くは 24 時間以内でした。",
+          "注意点は二つです。一つは範囲の問題。プロフィールは世界共通で国別には分かれておらず、店が全体としてどう振る舞うかを示すもので、あなたの住所への配送を示すものではありません。もう一つは中身の問題。読んだ苦情は届かない荷物と返金、つまり支払いのあとに起きることで、プロフィールが示すのは店が返信していることであって、解決していることではありません。"
+        ]
+      },
+      {
+        "heading": "支払う前に",
+        "paragraphs": [
+          "SHEIN は、あなたの国向けの公式サイトか公式アプリから買ってください。あなたの国で SHEIN を運営しているのは誰か、どこの国の会社か、返品はどう動くかは、[SHEIN は安全？信頼できる？](/ja/reviews/shein-trust-guide-ja)にまとめています。",
+          "支払いのあとは、注文確認と追跡番号を保存してください。荷物が届かないとき、サポートに問い合わせるのに必要なものです。届いた商品に問題があれば、アプリかサイトの店の窓口から返金を申請し、返送の証明を残してください。",
+          "買うと決めたなら、当サイトの [SHEIN のページ](/ja/coupons/shein)から店に行けます。このリンクはアフィリエイトリンクです。購入によって Em Casa com Cecília に手数料が入ることがありますが、あなたに追加費用はかかりません。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "SHEIN の Trustpilot の評価は良いですか？2026年10月28日時点で TrustScore は 3.8、ラベルは「Great」、レビューは 353,435 件で、星 5 つが 59%、星 1 つが 18% でした。プロフィールは世界共通で、国別には分かれていません。",
+          "SHEIN についてよくある苦情は何ですか？2026年10月28日に読んだ否定的なレビューのテーマは、荷物の紛失や未着、返金の遅れや拒否、遅いか定型文の対応、そしてサイズ、品質、違う商品といった商品の問題でした。",
+          "SHEIN は否定的なレビューに返信していますか？2026年10月28日に読んだ Trustpilot のプロフィールによると、店は否定的なレビューの 98% に返信しており、多くは 24 時間以内で、返信に AI を使うことがあります。返信の本文は読んでいません。",
+          "Trustpilot の評価は私の国にも当てはまりますか？それだけでは当てはまりません。SHEIN のプロフィールは世界共通で、レビューを国別に分けていません。示しているのは店の全体の振る舞いで、あなたの住所への送料、配送期間、返品の条件は、チェックアウト画面と店の規約で確認できます。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "買うなら、SHEIN の公式サイトか公式アプリから入り、注文確認と追跡番号を保存してください。",
+      "label": "SHEIN へ行く",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "時間とともに変わる公開データです。SHEIN での購入によって手数料を受け取ることがあります。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-ja",
+        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+      },
+      {
+        "slug": "shein-vs-temu-ja",
+        "title": "SHEIN と Temu、AliExpress どれを選ぶ？送料・返品・関税と、買う前に確認すること"
+      }
+    ]
+  },
+  {
+    "id": 703,
+    "slug": "shein-trustpilot-reviews-ko",
+    "locale": "ko",
+    "translationKey": "shein-reputation",
+    "title": "SHEIN(쉬인) Trustpilot 평점과 불만, 그리고 숫자가 보여주는 것",
+    "seoTitle": "SHEIN Trustpilot 리뷰: 평점과 불만",
+    "type": "평판 분석",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "2026년 10월 28일 기준 SHEIN의 Trustpilot 평점입니다. 리뷰 353,435건에 TrustScore 3.8, 별 다섯 개 59%와 별 한 개 18%, 받지 못한 소포와 환불에 몰린 불만, 그리고 이 평점이 내 나라에 대해 말해 주지 않는 이유를 담았습니다.",
+    "metaDescription": "2026년 10월 28일 기준 SHEIN Trustpilot: TrustScore 3.8, 리뷰 353,435건, 별 다섯 개 59%, 별 한 개 18%. 소포와 환불 불만, 그리고 평점이 보여 주지 않는 것.",
+    "publishedAt": "2026년 10월 29일",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "SHEIN 로고와 별 다섯 개, 2026년 10월 28일에 읽은 Trustpilot 평점 3.8까지 채워진 모습",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "핵심 답변",
+        "paragraphs": [
+          "SHEIN의 Trustpilot 평점은 5점 만점에 3.8이며, 단서가 있습니다. 2026년 10월 28일 기준 여러 나라 고객이 남긴 리뷰 353,435건을 바탕으로 한 하나의 글로벌 프로필이고, 나라별로 나뉘지 않습니다. 불만은 받지 못한 소포와 환불에 집중되어 있습니다."
+        ]
+      },
+      {
+        "heading": "평점이 측정하는 것",
+        "paragraphs": [
+          "TrustScore는 Trustpilot 프로필의 평점입니다. 2026년 10월 28일 기준 SHEIN의 TrustScore는 3.8이고, 사이트는 이를 \"Great\"로 표시했습니다. 리뷰는 353,435건이며, 그중 22,625건이 최근 12개월 안에 올라왔습니다. 프로필은 회사가 인증해 관리하는 프로필이고, 페이지에 적힌 대로 Trustpilot 유료 구독을 이용합니다.",
+          "같은 날의 별점 분포는 별 다섯 개 59%, 네 개 12%, 세 개 6%, 두 개 5%, 한 개 18%입니다. 다섯 개와 네 개가 전체의 대부분을 차지하고, 별 한 개는 18%로 두 개와 세 개를 합친 것보다 많습니다. 불만은 바로 이 별 한 개 리뷰에 나타납니다."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
+          "alt": "SHEIN의 Trustpilot 리뷰 분포를 별 다섯 개부터 한 개까지 막대로 나타낸 그림: 59%, 12%, 6%, 5%, 18%",
+          "caption": "2026년 10월 28일에 읽은 SHEIN의 Trustpilot 리뷰 분포. 그림은 우리가 만들었습니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "평균은 이 모든 것을 숫자 하나로 요약합니다. 결정을 내리려면 낮은 평점이 무엇을 말하는지, 그리고 회사가 어떻게 답하는지를 보는 쪽이 더 유용합니다. 다음 장부터 그 내용입니다."
+        ]
+      },
+      {
+        "heading": "누가 평가하고, 어디에서 왔나",
+        "paragraphs": [
+          "우리가 읽은 프로필은 www.shein.com의 프로필 하나로, 글로벌 프로필입니다. 리뷰를 나라별로 나누지 않고, 한국이나 다른 어느 나라에서 온 리뷰가 몇 건인지도 페이지에 나오지 않습니다. 배송비, 배송 기간, 통관이 서로 다른 여러 나라의 구매자가 한 평점에 섞여 있습니다.",
+          "Trustpilot의 영국 지역 사이트도 같은 프로필과 같은 숫자를 보여 줍니다. 다른 지역 사이트는 열어 보지 않았고, 이번 읽기에서 나라별로 분리된 프로필은 찾지 못했습니다.",
+          "한국에서 구매하는 분에게는 이것이 읽는 법을 바꿉니다. 평점은 회사가 전체적으로 어떻게 움직이는지를 말해 주지, 내 주소로 오는 배송이 어떤지를 말해 주지는 않습니다. 그 정보는 Trustpilot이 아니라 거주 국가 SHEIN 사이트의 결제 화면과 도움말에 있습니다.",
+          "브라질에는 다른 지표가 하나 더 있습니다. 브라질의 소비자 불만 사이트인 Reclame Aqui에서 SHEIN은 2026년 9월 30일까지 6개월 기준 10점 만점에 7.5점을 받았습니다(2026년 10월 28일 읽음). 이것은 브라질의 데이터이고, 측정하는 것도 다릅니다. Reclame Aqui는 브라질에서 불만을 제기한 사람에 대한 응대를 재고, Trustpilot은 모든 나라 고객의 평가를 모읍니다. 두 숫자는 서로 바꿔 쓸 수 없습니다."
+        ]
+      },
+      {
+        "heading": "불만에서 나타나는 것",
+        "paragraphs": [
+          "2026년 10월 28일에 프로필에서 볼 수 있는 부정적 리뷰를 읽고 주제를 적었습니다. 건수를 세거나 순위를 매기지는 않았습니다. 주제는 배송과 환불을 중심으로 돕니다:"
+        ],
+        "bullets": [
+          "소포가 분실되거나 도난당했거나 배송되지 않았고, 배송 완료 사진에 이의가 제기된 경우.",
+          "환불이 늦어지거나 거절된 경우. 회사가 받지 못했다고 말하는 반품도 포함됩니다.",
+          "고객 지원이 느리거나 정해진 문구로만 답하는 경우.",
+          "상품 문제: 사이즈, 품질, 잘못 온 상품이나 빠진 상품."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+          "alt": "배송이 멈춘 채 집이 아직 기다리는 배송 조회 화면 일러스트, 옆에 바코드가 있는 영수증과 되돌아가는 화살표가 있는 동전(환불)",
+          "caption": "저희가 만든 일러스트로, 도착하지 않는 소포와 환불이 불만 주제입니다. 영수증과 운송장 번호를 보관하세요.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "읽는 사람에게 이 주제들은 어디를 봐야 하는지 알려 줍니다. 발송 뒤의 배송 조회, 받을 때의 배송 증거, 반품할 때의 발송 증거입니다."
+        ]
+      },
+      {
+        "heading": "칭찬에서 나타나는 것",
+        "paragraphs": [
+          "같은 날 읽은 긍정적 리뷰의 주제는 다릅니다. 다만 눈에 보이는 칭찬 표본이 작았기 때문에, 아래는 주제일 뿐 비율이 아닙니다:"
+        ],
+        "bullets": [
+          "낮은 가격.",
+          "다양한 상품.",
+          "가격에 비해 무난한 품질.",
+          "문제없이 도착한 배송."
+        ],
+        "postParagraphs": [
+          "칭찬과 불만은 구매의 다른 순간을 말합니다. 칭찬은 가격, 선택의 폭, 도착한 소포를 말하고, 불만은 오지 않은 소포와 들어오지 않은 환불을 말합니다. 평점은 둘을 합친 것입니다."
+        ]
+      },
+      {
+        "heading": "SHEIN의 답변",
+        "paragraphs": [
+          "2026년 10월 28일에 읽은 프로필에 따르면 SHEIN은 부정적 리뷰의 98%에 답했고, 보통 24시간 이내였습니다. 페이지는 답변에 AI를 쓸 수 있다고도 알립니다. 이것은 답변 도구에 관한 안내이고, 리뷰 요약이 아닙니다.",
+          "답하는 것과 해결하는 것은 다릅니다. 우리는 답변의 본문을 읽지 않았으므로, 이 글은 그 답변이 불만을 제기한 사람의 문제를 해결했는지 말하지 않습니다. 구매 전에 프로필에서 별 한 개 리뷰 몇 건을 열어 그 아래 회사의 답변을 읽어 보세요. 특히 배송되지 않은 소포와 환불에 관한 것을요."
+        ]
+      },
+      {
+        "heading": "결론 내릴 수 없는 것",
+        "paragraphs": [
+          "평점은 질문 하나에 답할 뿐, 모든 질문에 답하지는 않습니다. 2026년 10월 28일의 읽기로는 다음 세 가지를 말할 수 없습니다:"
+        ],
+        "bullets": [
+          "평점이 내 나라에도 해당한다는 것: 프로필은 글로벌이고, 리뷰를 출처별로 나누지 않습니다.",
+          "평점이 상품만 측정한다는 것: 상품, 배송, 고객 지원이 리뷰 하나에 함께 들어가고, 우리가 읽은 불만 주제는 대부분 배송과 환불입니다.",
+          "회사가 불만을 해결한다는 것: 프로필이 보여 주는 것은 답변율 98%와 답변 시간이고, 답변의 본문은 읽지 않았습니다."
+        ]
+      },
+      {
+        "heading": "우리의 확인 방법",
+        "paragraphs": [
+          "2026년 10월 28일, 로그인하지 않은 상태에서 SHEIN의 Trustpilot 공개 프로필을 읽었습니다. 평점, 리뷰 수, 별점 분포, 답변율, 그리고 눈에 보이는 리뷰이며, 주제는 그 리뷰에서 나왔습니다. Trustpilot의 영국 사이트도 열어 같은 프로필인지 확인했습니다.",
+          "읽지 않은 것: 답변의 본문, 나라별 리뷰, Trustpilot의 다른 지역 사이트.",
+          "이 글을 위해 SHEIN에서 구매한 사람은 없습니다. Trustpilot의 숫자는 매달 바뀌므로, 구매하는 날 프로필을 확인하세요."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
+          "alt": "휴대폰에 표시한 SHEIN의 Trustpilot 프로필: 평점 3.8, 별점 분포, 부정적인 리뷰 98%에 대한 답변",
+          "caption": "2026년 10월 29일 SHEIN의 Trustpilot 프로필(모바일 화면)입니다. 사이트 화면을 캡처하고 두 부분을 확대했습니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "Trustpilot의 SHEIN 프로필",
+            "href": "https://www.trustpilot.com/review/www.shein.com"
+          }
+        ]
+      },
+      {
+        "heading": "Trustpilot으로 SHEIN을 믿을 수 있을까요?",
+        "paragraphs": [
+          "Trustpilot 기준으로 보면 3.8이고, 단서가 붙습니다. 2026년 10월 28일 TrustScore는 3.8, 사이트 표시는 \"Great\", 리뷰 353,435건 중 59%가 별 다섯 개, 18%가 별 한 개였고, 부정적 리뷰의 98%에 보통 24시간 이내로 답했습니다.",
+          "단서는 두 가지입니다. 첫째, 프로필은 글로벌이고 나라를 나누지 않아서, 배송 조건이 다른 여러 나라의 고객이 한 숫자에 들어갑니다. 둘째, 우리가 읽은 불만은 받지 못한 소포와 환불에 집중되어 있는데, 이는 구매에서 돈이 걸린 두 지점이고, 답변율은 그것이 해결되었는지를 말해 주지 않습니다. Trustpilot은 회사의 전체 모습을 보여 주고, 내 나라의 배송과 반품 규정은 거주 국가 SHEIN 사이트에 있습니다."
+        ]
+      },
+      {
+        "heading": "결제 전에",
+        "paragraphs": [
+          "불만이 소포와 환불에 몰려 있으니, 할 일도 그 두 곳에 있습니다. 거주 국가의 SHEIN 공식 사이트나 공식 앱에서 구매하세요. 누가 SHEIN을 운영하고 어느 나라 회사인지는 [SHEIN은 믿을 만한가요?](/ko/reviews/shein-trust-guide-ko)에 있습니다.",
+          "결제 뒤에는 결제 내역과 운송장 번호를 보관하세요. 소포가 늦거나 사라지거나 배송 사진에 이의가 있을 때, 회사에 문의를 열려면 이 둘이 필요합니다. 반품할 때는 발송 증거도 남겨 두세요.",
+          "소포가 오지 않거나 환불이 들어오지 않으면, 먼저 사이트나 앱의 회사 채널로 환불을 요청하세요.",
+          "구매를 결정했다면 이 사이트의 [SHEIN 페이지](/ko/coupons/shein)가 공식 스토어로 연결합니다. 제휴 링크이므로 구매가 Em Casa com Cecília에 수수료를 남길 수 있지만, 여러분에게 추가 비용은 없습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "SHEIN의 Trustpilot 평점은 좋은가요? 2026년 10월 28일 기준 TrustScore는 5점 만점에 3.8, 사이트 표시는 \"Great\"였고, 리뷰 353,435건 중 59%가 별 다섯 개, 18%가 별 한 개였습니다.",
+          "SHEIN에 대한 가장 흔한 불만은 무엇인가요? 2026년 10월 28일에 읽은 부정적 리뷰의 주제는 분실·도난·미배송 소포, 늦거나 거절된 환불, 느리거나 정형화된 고객 지원, 그리고 사이즈·품질·오배송·누락 같은 상품 문제였습니다.",
+          "SHEIN은 부정적 리뷰에 답하나요? 2026년 10월 28일에 읽은 Trustpilot 프로필에 따르면 부정적 리뷰의 98%에 보통 24시간 이내로 답했고, 답변에 AI를 쓸 수 있습니다. 답변의 본문은 읽지 않았습니다.",
+          "Trustpilot 평점이 내 나라에도 해당하나요? 꼭 그렇지는 않습니다. 프로필은 글로벌이고 리뷰를 나라별로 나누지 않습니다. 내 나라의 배송, 기간, 반품 규정은 거주 국가 SHEIN 사이트의 결제 화면과 도움말에 있습니다."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "구매하신다면 거주 국가의 SHEIN 공식 사이트나 앱에서 주문하고, 결제 내역과 운송장 번호를 보관하세요.",
+      "label": "SHEIN으로 이동",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Trustpilot의 공개 데이터입니다. SHEIN은 제휴 파트너로, 구매 시 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-ko",
+        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+      },
+      {
+        "slug": "shein-vs-temu-vs-ali-ko",
+        "title": "SHEIN(쉬인) vs 테무 vs 알리: 어떻게 고를까? 배송비, 반품 기한과 구매 전 확인할 것"
+      }
+    ]
+  },
+  {
+    "id": 704,
+    "slug": "shein-trustpilot-reviews-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "shein-reputation",
+    "title": "SHEIN 在 Trustpilot 的评分、投诉，以及数据说明了什么",
+    "seoTitle": "SHEIN Trustpilot 评价：评分与投诉",
+    "type": "口碑分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "2026年10月28日 SHEIN 在 Trustpilot 的评分：TrustScore 3.8，共 353,435 条评价，59% 五星、18% 一星；投诉集中在包裹未送达和退款，以及为什么这个分数不能说明你所在国家的情况。",
+    "metaDescription": "2026年10月28日 SHEIN 在 Trustpilot：评分 3.8，共 353,435 条评价，59% 五星、18% 一星。投诉集中在包裹未送达和退款。看看分数没有显示的东西。",
+    "publishedAt": "2026年10月29日",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "SHEIN 标志与五颗星，填充到 2026年10月28日读取的 Trustpilot 评分 3.8",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "简要回答",
+        "paragraphs": [
+          "SHEIN 在 Trustpilot 的评分是 3.8（满分 5 分），有保留。2026年10月28日，这是一个全球性的主页，共 353,435 条评价，来自多个国家的顾客，不按国家区分。投诉集中在包裹未送达和退款上。"
+        ]
+      },
+      {
+        "heading": "分数衡量的是什么",
+        "paragraphs": [
+          "TrustScore 是主页在 Trustpilot 上的评分。2026年10月28日，SHEIN 的 TrustScore 为 3.8，网站标注为“Great”，共 353,435 条评价，其中 22,625 条发布于最近 12 个月。主页由公司认领并管理，并且如页面所写，使用 Trustpilot 的付费订阅。",
+          "同一次读取的星级分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起来占了大部分；一星占 18%，比二星和三星加起来还多，投诉就出现在这里。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
+          "alt": "从五星到一星的条形图，显示 SHEIN 在 Trustpilot 的评价分布：59%、12%、6%、5% 和 18%",
+          "caption": "SHEIN 在 Trustpilot 的评价分布，2026年10月28日读取。图表由我们绘制。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "平均分把这一切压成一个数字。要做决定，更有用的是看低分评价说了什么，以及店家如何回应。下面就是这些内容。"
+        ]
+      },
+      {
+        "heading": "谁在评价，来自哪里",
+        "paragraphs": [
+          "我们读的是 www.shein.com 这一个主页，它是全球性的：不按国家区分评价，页面也没有说其中有多少来自你所在的国家或其他任何地方。来自不同国家的买家被放在同一个分数里，而他们的运费、时效和清关各不相同。",
+          "Trustpilot 的英国地区站显示的是同一个主页和同样的数字。其他地区站我们没有打开；这次读取中没有发现按国家分开的主页。",
+          "对读者来说，这改变了读法：分数说的是店家整体的表现，不是送到你地址的配送怎么样。那部分信息在你所在国家的 SHEIN 站点的结账页和帮助页上，不在 Trustpilot。",
+          "在巴西，还有另一个指标。在 Reclame Aqui，一个巴西的投诉网站，SHEIN 在截至 2026年9月30日的六个月里得分 7.5（满分 10 分），2026年10月28日读取。这是巴西的数据，衡量的东西也不同：Reclame Aqui 衡量的是店家如何处理在巴西投诉的人，Trustpilot 汇总的是所有国家顾客的评价。两个数字不能互换。"
+        ]
+      },
+      {
+        "heading": "投诉里出现了什么",
+        "paragraphs": [
+          "2026年10月28日，我们阅读了主页上可见的负面评价，记下主题，不计数也不排序。主题围绕着配送和退款："
+        ],
+        "bullets": [
+          "包裹丢失、被盗或未送达，配送完成的照片受到质疑。",
+          "退款延迟或被拒，包括店家称没有收到的退货。",
+          "客服回应慢，或只用模板式的回复。",
+          "产品问题：尺码、质量、发错货或少件。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+          "alt": "物流追踪界面插图：派送停住，房子还在等待，旁边是带条形码的凭证和一枚带返回箭头的硬币，代表退款",
+          "caption": "我们的插图：包裹没到和退款，是投诉的主题。请保存凭证和物流单号。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "对读者来说，这些主题指出了该留意的地方：发货后的物流跟踪、签收时的配送凭证，以及退货时的寄回凭证。"
+        ]
+      },
+      {
+        "heading": "好评里出现了什么",
+        "paragraphs": [
+          "同一次读取中，正面评价谈的是别的事。可见的好评样本很小，所以下面只是主题，不是比例："
+        ],
+        "bullets": [
+          "价格低。",
+          "品种多。",
+          "以这个价格来说质量尚可。",
+          "配送顺利，没有问题。"
+        ],
+        "postParagraphs": [
+          "好评和投诉说的是购物的不同时刻：好评说的是价格、选择和收到的包裹；投诉说的是没收到的包裹和没到账的退款。分数把两者合在一起。"
+        ]
+      },
+      {
+        "heading": "SHEIN 如何回复",
+        "paragraphs": [
+          "根据 2026年10月28日读取的主页，SHEIN 回复了 98% 的负面评价，通常在 24 小时内。页面还提示，公司可能在回复中使用 AI。这说的是回复工具，不是评价摘要。",
+          "回复不等于解决。我们没有阅读回复的文字，所以本文无法说明这些回复是否解决了投诉者的问题。购买前，不妨在主页上打开几条一星评价，读一读店家在下方的回复，尤其是关于包裹未送达和退款的。"
+        ]
+      },
+      {
+        "heading": "无法得出的结论",
+        "paragraphs": [
+          "分数回答的是一个问题，不是所有问题。2026年10月28日的读取不支持以下三点："
+        ],
+        "bullets": [
+          "分数适用于你所在的国家：主页是全球性的，不按来源区分评价。",
+          "分数衡量的是产品：它把产品、配送和客服合在同一条评价里，而我们读到的投诉主题主要是配送和退款。",
+          "店家解决了投诉：主页显示的是 98% 的回复率和回复时间；回复的文字我们没有读。"
+        ]
+      },
+      {
+        "heading": "我们的核查",
+        "paragraphs": [
+          "2026年10月28日，我们在未登录的情况下阅读了 SHEIN 在 Trustpilot 的公开主页：分数、评价数量、星级分布、回复率，以及可见的评价，主题就来自这些评价。我们还打开了 Trustpilot 的英国站，确认它显示的是同一个主页。",
+          "没有读的：回复的文字、按国家划分的评价，以及 Trustpilot 的其他地区站。",
+          "本站没有人为了这篇文章在 SHEIN 购物。Trustpilot 的数字每个月都在变，请在购买当天查看主页。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
+          "alt": "手机上的 SHEIN Trustpilot 页面：评分 3.8、星级分布，以及 98% 的差评有回复",
+          "caption": "2026年10月29日 SHEIN 在 Trustpilot 的页面（手机版）。网站截图，放大了其中两处。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "SHEIN 在 Trustpilot 的主页",
+            "href": "https://www.trustpilot.com/review/www.shein.com"
+          }
+        ]
+      },
+      {
+        "heading": "凭 Trustpilot 可以信任 SHEIN 吗？",
+        "paragraphs": [
+          "从 Trustpilot 来看，分数是 3.8，带有保留。2026年10月28日，TrustScore 为 3.8，网站标注为“Great”，共 353,435 条评价，其中 59% 是五星，18% 是一星；98% 的负面评价得到回复，通常在 24 小时内。",
+          "保留之处有两点。第一，主页是全球性的，不分国家，分数把运输条件各不相同的多国顾客合在一个数字里。第二，我们读到的投诉集中在包裹未送达和退款上，这是购物中最花钱的两个环节，而回复率并不说明它们是否得到解决。Trustpilot 显示的是店家整体的表现；你所在国家的配送和退货规则，在当地 SHEIN 站点上。"
+        ]
+      },
+      {
+        "heading": "付款之前",
+        "paragraphs": [
+          "投诉集中在包裹和退款上，所以要做的事也在这两处。通过你所在国家的 SHEIN 官方网站或官方应用购买。谁在运营 SHEIN、它是哪个国家的公司，见[SHEIN 可靠吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)。",
+          "付款后，保存付款凭证和物流单号：包裹延迟、丢失或配送照片有争议时，向店家开案要靠它们。退货时也请保留寄回凭证。",
+          "如果包裹没到或退款没到账，先通过店家的渠道申请退款，在网站或应用里操作。",
+          "如果你决定购买，本站的 [SHEIN 页面](/zh-hans/coupons/shein)会带你去官方商店。这是联盟链接：购买可能为 Em Casa com Cecília 带来佣金，不会增加你的花费。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "SHEIN 在 Trustpilot 上的评分好吗？2026年10月28日，TrustScore 为 3.8（满分 5 分），网站标注为“Great”，共 353,435 条评价；59% 给了五星，18% 给了一星。",
+          "关于 SHEIN 最常见的投诉是什么？在 2026年10月28日读到的负面评价里，主题是包裹丢失、被盗或未送达，退款延迟或被拒，客服回应慢或模板化，以及尺码、质量、发错货或少件等产品问题。",
+          "SHEIN 会回复负面评价吗？根据 2026年10月28日读取的 Trustpilot 主页，店家回复了 98% 的负面评价，通常在 24 小时内，回复可能使用 AI。回复的文字我们没有读。",
+          "Trustpilot 的分数适用于我所在的国家吗？不一定。主页是全球性的，不按国家区分评价。你所在国家的配送、时效和退货规则，在当地 SHEIN 站点的结账页和帮助页上。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "如果要购买，请通过你所在国家的 SHEIN 官方网站或官方应用下单，并保存付款凭证和物流单号。",
+      "label": "前往 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "数据来自 Trustpilot 的公开页面。SHEIN 是合作伙伴：购买可能为本站带来佣金。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-zh-hans",
+        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+      },
+      {
+        "slug": "shein-vs-temu-zh-hans",
+        "title": "SHEIN 还是 Temu？新加坡和马来西亚怎么选：运费、时效与退货（含 AliExpress）"
+      }
+    ]
+  },
+  {
+    "id": 705,
+    "slug": "shein-trustpilot-reviews-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "shein-reputation",
+    "title": "SHEIN 在 Trustpilot 的評分、投訴，以及數據說明了什麼",
+    "seoTitle": "SHEIN Trustpilot 評價：評分與投訴",
+    "type": "口碑分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "2026年10月28日 SHEIN 在 Trustpilot 的評分：TrustScore 3.8，共 353,435 則評價，59% 五星、18% 一星；投訴集中在包裹未送達和退款，以及為什麼這個分數不能說明你所在國家或地區的情況。",
+    "metaDescription": "2026年10月28日 SHEIN 在 Trustpilot：評分 3.8，共 353,435 則評價，59% 五星、18% 一星。投訴集中在包裹未送達和退款。看看分數沒有顯示的東西。",
+    "publishedAt": "2026年10月29日",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "SHEIN 標誌與五顆星，填滿到 2026年10月28日讀取的 Trustpilot 評分 3.8",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "簡要回答",
+        "paragraphs": [
+          "SHEIN 在 Trustpilot 的評分是 3.8（滿分 5 分），有保留。2026年10月28日，這是一個全球性的檔案，共 353,435 則評價，來自多個國家的顧客，不按國家或地區區分。投訴集中在包裹未送達和退款上。"
+        ]
+      },
+      {
+        "heading": "分數衡量的是什麼",
+        "paragraphs": [
+          "TrustScore 是檔案在 Trustpilot 上的評分。2026年10月28日，SHEIN 的 TrustScore 為 3.8，網站標示為「Great」，共 353,435 則評價，其中 22,625 則發布於最近 12 個月。檔案由公司認領並管理，而且如頁面所寫，使用 Trustpilot 的付費訂閱。",
+          "同一次讀取的星級分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起來佔了大部分；一星佔 18%，比二星和三星加起來還多，投訴就出現在這裡。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
+          "alt": "從五星到一星的長條圖，顯示 SHEIN 在 Trustpilot 的評價分布：59%、12%、6%、5% 和 18%",
+          "caption": "SHEIN 在 Trustpilot 的評價分布，2026年10月28日讀取。圖表由我們繪製。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "平均分把這一切壓成一個數字。要做決定，更有用的是看低分評價說了什麼，以及店家如何回應。下面就是這些內容。"
+        ]
+      },
+      {
+        "heading": "誰在評價，來自哪裡",
+        "paragraphs": [
+          "我們讀的是 www.shein.com 這一個檔案，它是全球性的：不按國家或地區區分評價，頁面也沒有說其中有多少來自你所在的地方或其他任何地方。來自不同國家的買家被放在同一個分數裡，而他們的運費、時效和清關各不相同。",
+          "Trustpilot 的英國地區站顯示的是同一個檔案和同樣的數字。其他地區站我們沒有打開；這次讀取中沒有發現按國家或地區分開的檔案。",
+          "對讀者來說，這改變了讀法：分數說的是店家整體的表現，不是送到你地址的配送怎麼樣。那部分資訊在你所在地的 SHEIN 站點的結帳頁和說明頁上，不在 Trustpilot。",
+          "在巴西，還有另一個指標。在 Reclame Aqui，一個巴西的投訴網站，SHEIN 在截至 2026年9月30日的六個月裡得分 7.5（滿分 10 分），2026年10月28日讀取。這是巴西的資料，衡量的東西也不同：Reclame Aqui 衡量的是店家如何處理在巴西投訴的人，Trustpilot 彙整的是所有國家顧客的評價。兩個數字不能互換。"
+        ]
+      },
+      {
+        "heading": "投訴裡出現了什麼",
+        "paragraphs": [
+          "2026年10月28日，我們閱讀了檔案上可見的負面評價，記下主題，不計數也不排序。主題圍繞著配送和退款："
+        ],
+        "bullets": [
+          "包裹遺失、被竊或未送達，配送完成的照片受到質疑。",
+          "退款延遲或被拒，包括店家稱沒有收到的退貨。",
+          "客服回應慢，或只用罐頭式的回覆。",
+          "商品問題：尺碼、品質、寄錯貨或少件。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+          "alt": "物流追蹤畫面插圖：配送停住，房子還在等待，旁邊是帶條碼的憑證和一枚帶返回箭頭的硬幣，代表退款",
+          "caption": "我們的插圖：包裹沒到和退款，是投訴的主題。請保存憑證和物流單號。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "對讀者來說，這些主題指出了該留意的地方：出貨後的物流追蹤、簽收時的配送憑證，以及退貨時的寄回憑證。"
+        ]
+      },
+      {
+        "heading": "好評裡出現了什麼",
+        "paragraphs": [
+          "同一次讀取中，正面評價談的是別的事。可見的好評樣本很小，所以下面只是主題，不是比例："
+        ],
+        "bullets": [
+          "價格低。",
+          "款式多。",
+          "以這個價格來說品質尚可。",
+          "配送順利，沒有問題。"
+        ],
+        "postParagraphs": [
+          "好評和投訴說的是購物的不同時刻：好評說的是價格、選擇和收到的包裹；投訴說的是沒收到的包裹和沒入帳的退款。分數把兩者合在一起。"
+        ]
+      },
+      {
+        "heading": "SHEIN 如何回覆",
+        "paragraphs": [
+          "根據 2026年10月28日讀取的檔案，SHEIN 回覆了 98% 的負面評價，通常在 24 小時內。頁面還提醒，公司可能在回覆中使用 AI。這說的是回覆工具，不是評價摘要。",
+          "回覆不等於解決。我們沒有閱讀回覆的文字，所以本文無法說明這些回覆是否解決了投訴者的問題。購買前，不妨在檔案上打開幾則一星評價，讀一讀店家在下方的回覆，尤其是關於包裹未送達和退款的。"
+        ]
+      },
+      {
+        "heading": "無法得出的結論",
+        "paragraphs": [
+          "分數回答的是一個問題，不是所有問題。2026年10月28日的讀取不支持以下三點："
+        ],
+        "bullets": [
+          "分數適用於你所在的國家或地區：檔案是全球性的，不按來源區分評價。",
+          "分數衡量的是商品：它把商品、配送和客服合在同一則評價裡，而我們讀到的投訴主題主要是配送和退款。",
+          "店家解決了投訴：檔案顯示的是 98% 的回覆率和回覆時間；回覆的文字我們沒有讀。"
+        ]
+      },
+      {
+        "heading": "我們的查核",
+        "paragraphs": [
+          "2026年10月28日，我們在未登入的情況下閱讀了 SHEIN 在 Trustpilot 的公開檔案：分數、評價數量、星級分布、回覆率，以及可見的評價，主題就來自這些評價。我們還打開了 Trustpilot 的英國站，確認它顯示的是同一個檔案。",
+          "沒有讀的：回覆的文字、按國家或地區劃分的評價，以及 Trustpilot 的其他地區站。",
+          "本站沒有人為了這篇文章在 SHEIN 購物。Trustpilot 的數字每個月都在變，請在購買當天查看檔案。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
+          "alt": "手機上的 SHEIN Trustpilot 頁面：評分 3.8、星級分布，以及 98% 的負評有回覆",
+          "caption": "2026年10月29日 SHEIN 在 Trustpilot 的頁面（手機版）。網站截圖，放大了其中兩處。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "SHEIN 在 Trustpilot 的檔案",
+            "href": "https://www.trustpilot.com/review/www.shein.com"
+          }
+        ]
+      },
+      {
+        "heading": "憑 Trustpilot 可以信任 SHEIN 嗎？",
+        "paragraphs": [
+          "從 Trustpilot 來看，分數是 3.8，帶有保留。2026年10月28日，TrustScore 為 3.8，網站標示為「Great」，共 353,435 則評價，其中 59% 是五星，18% 是一星；98% 的負面評價得到回覆，通常在 24 小時內。",
+          "保留之處有兩點。第一，檔案是全球性的，不分國家或地區，分數把運送條件各不相同的多國顧客合在一個數字裡。第二，我們讀到的投訴集中在包裹未送達和退款上，這是購物中最花錢的兩個環節，而回覆率並不說明它們是否得到解決。Trustpilot 顯示的是店家整體的表現；你所在地的配送和退貨規則，在當地 SHEIN 站點上。"
+        ]
+      },
+      {
+        "heading": "付款之前",
+        "paragraphs": [
+          "投訴集中在包裹和退款上，所以要做的事也在這兩處。透過你所在國家或地區的 SHEIN 官方網站或官方 App 購買。誰在營運 SHEIN、它是哪個國家的公司，見 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)。",
+          "付款後，保存付款憑證和物流單號：包裹延遲、遺失或配送照片有爭議時，向店家開案要靠它們。退貨時也請保留寄回憑證。",
+          "如果包裹沒到或退款沒入帳，先透過店家的管道申請退款，在網站或 App 裡操作。",
+          "如果你決定購買，本站的 [SHEIN 頁面](/zh-hant/coupons/shein)會帶你去官方商店。這是聯盟連結：購買可能為 Em Casa com Cecília 帶來佣金，不會增加你的花費。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "SHEIN 在 Trustpilot 上的評分好嗎？2026年10月28日，TrustScore 為 3.8（滿分 5 分），網站標示為「Great」，共 353,435 則評價；59% 給了五星，18% 給了一星。",
+          "關於 SHEIN 最常見的投訴是什麼？在 2026年10月28日讀到的負面評價裡，主題是包裹遺失、被竊或未送達，退款延遲或被拒，客服回應慢或罐頭式回覆，以及尺碼、品質、寄錯貨或少件等商品問題。",
+          "SHEIN 會回覆負面評價嗎？根據 2026年10月28日讀取的 Trustpilot 檔案，店家回覆了 98% 的負面評價，通常在 24 小時內，回覆可能使用 AI。回覆的文字我們沒有讀。",
+          "Trustpilot 的分數適用於我所在的國家或地區嗎？不一定。檔案是全球性的，不按國家或地區區分評價。你所在地的配送、時效和退貨規則，在當地 SHEIN 站點的結帳頁和說明頁上。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "如果要購買，請透過你所在國家或地區的 SHEIN 官方網站或官方 App 下單，並保存付款憑證和物流單號。",
+      "label": "前往 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "資料來自 Trustpilot 的公開頁面。SHEIN 是合作夥伴：購買可能為本站帶來佣金。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-zh-hant",
+        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+      },
+      {
+        "slug": "shein-vs-shopee-zh-hant",
+        "title": "SHEIN 跟蝦皮怎麼選？運費、退貨規則與購買前要確認的事（含 AliExpress）"
       }
     ]
   }

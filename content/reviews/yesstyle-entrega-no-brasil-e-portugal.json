@@ -19,7 +19,7 @@
   "metaDescription": "A YesStyle entrega no Brasil e em Portugal? Prazo, frete grátis e imposto pela tabela da loja de 13/10/2026, o envio ao Brasil e o reembolso da taxa.",
   "publishedAt": "13 de outubro de 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-10-29",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
@@ -32,7 +32,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A YesStyle entrega em Portugal, com prazo e frete publicados, e enviou um pedido nosso ao Brasil, embora o Brasil não conste na tabela de frete da loja. Para o Brasil, a loja não publica prazo nem frete, e o imposto é cobrado depois que o pacote chega. Veja abaixo a tabela e o capítulo do imposto."
+        "A YesStyle entrega em Portugal, com prazo e frete publicados. Para o Brasil, os envios voltaram em setembro de 2026, quando um pedido nosso saiu, e foram suspensos de novo: em 28/10/2026, a loja não oferecia entrega para o Brasil. Veja abaixo a tabela e o capítulo do imposto."
       ]
     },
     {
@@ -78,7 +78,7 @@
       "heading": "O que a loja mostra sobre o Brasil",
       "paragraphs": [
         "A tabela de frete de 13 de outubro de 2026 e a lista de países atendidos não trazem o Brasil, e o seletor de endereço de entrega do site em português também não. O aviso de 3 de julho de 2026, que pausou os novos pedidos ao Brasil por atrasos na alfândega, segue na central de avisos sem um aviso de retomada.",
-        "Mesmo assim, o nosso pedido de 17/09/2026 foi enviado em 19/09/2026 pela Anjun Express. Enquanto a loja não publica a linha do Brasil, confira o frete e o prazo no checkout, antes de pagar."
+        "Mesmo assim, o nosso pedido de 17/09/2026 foi enviado em 19/09/2026 pela Anjun Express. Os envios ao Brasil voltaram nesse intervalo e foram suspensos de novo: em 28/10/2026, a loja não oferecia entrega para o Brasil. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
       ]
     },
     {
@@ -215,8 +215,8 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, um pedido nosso foi enviado em 19/09/2026 pela Anjun Express, embora o país não esteja na tabela e a loja não publique prazo.",
-        "A YesStyle voltou a entregar no Brasil? A loja não publicou aviso de retomada depois da pausa de 3 de julho de 2026, mas um pedido nosso feito em 17/09/2026 foi enviado dois dias depois.",
+        "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: os envios voltaram em setembro de 2026, quando um pedido nosso saiu em 19/09/2026, e foram suspensos de novo, e em 28/10/2026 a loja não oferecia entrega para o Brasil.",
+        "A YesStyle voltou a entregar no Brasil? Voltou em setembro de 2026, sem aviso de retomada depois da pausa de 3 de julho (um pedido nosso feito em 17/09/2026 foi enviado dois dias depois), e suspendeu de novo: em 28/10/2026, a loja não oferecia entrega para o Brasil.",
         "Quanto tempo demora a entrega da YesStyle? Em Portugal, de 11 a 18 dias úteis para um pedido só com itens em estoque: 1 a 3 para sair de Hong Kong e 10 a 15 de envio; para o Brasil, a loja não publica prazo.",
         "A partir de quanto o frete da YesStyle é grátis? Em Portugal, a partir de US$ 60, sem contar a embalagem de presente, com frete de US$ 5 abaixo disso; para o Brasil, a loja não publica o valor.",
         "A YesStyle tem taxa ou imposto? Em Portugal, o IVA de 23% já vem no preço; no Brasil, pela regra da Receita Federal para quem está fora do Remessa Conforme, o pacote paga Imposto de Importação de 60% mais ICMS depois que chega, cerca de US$ 56 a US$ 60 num pedido de US$ 60.",

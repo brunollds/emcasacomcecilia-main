@@ -46,6 +46,24 @@ Método: WebFetch em `https://www.trustpilot.com/review/www.yesstyle.com`, uma r
 
 ---
 
+## Leitura no navegador (28/10/2026, à noite, horário de Brasília)
+
+Lida pelo Claude no navegador do app, sem login, sem bloqueio. Vale sobre a extração do mesmo dia, acima.
+
+**Trustpilot** (`https://www.trustpilot.com/review/www.yesstyle.com`):
+- TrustScore **4,4**, "Excellent". O 4,5 da extração de 28/10 não existe na página.
+- 104.552 avaliações; 11.757 nos últimos 12 meses.
+- Distribuição: 5 estrelas 71%; 4: 18%; 3: 3%; 2: 1%; 1: 7%.
+- Perfil reivindicado pela empresa (selo "Claimed profile"; a data de maio de 2013 aparece no selo, sem dizer se é a da reivindicação: não escrever "desde"); assinatura paga do Trustpilot (informada na página).
+- Respondeu a 98% das avaliações negativas, em geral em até 24 horas; a resposta pode usar IA.
+
+**Reclame Aqui** (busca por "yesstyle", página "yes style", site yesstyle.com):
+- Existe uma página, **não verificada** (aberta por consumidores, sem a empresa).
+- Reputação "Não recomendada"; 277 reclamações, **0% respondidas**, 201 aguardando resposta, 76 avaliadas; os demais índices aparecem como "--".
+- Histórico: abril e maio de 2026 "Sem índice"; junho a setembro "Não recomendada". 1 ano no Reclame Aqui.
+- Categoria mais citada: "Não encontrei meu problema", 20,68%. As recentes falam de pedido não entregue e de reembolso.
+- Decisão do Bruno (28/10/2026): a YesStyle não tem atendimento no Reclame Aqui, e o artigo PT fica com foco em Portugal. O Reclame Aqui entra, se entrar, só como "a loja não responde lá".
+
 ## Autocompletar (28/10/2026)
 
 ```
