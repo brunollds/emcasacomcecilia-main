@@ -15,6 +15,8 @@
 - [ ] [[hostinger-horizons-vale-a-pena]]: Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress; vem nos planos de hospedagem (10 idiomas)
 - [ ] [[dominio-hostinger-comprar-transferir-ou-fora]]: Domínio na Hostinger: comprar, transferir ou registrar fora (.com.br R$ 1 no 1º ano com 3 anos, renova R$ 64,99) (10 idiomas)
 - [ ] [[vps-ou-hospedagem-compartilhada-qual-escolher]]: VPS ou hospedagem compartilhada: qual compensa (KVM 1 R$ 23,99, renova R$ 59,99; Single R$ 4,79, renova R$ 23,99) (10 idiomas)
+- [ ] [[yesstyle-trustpilot-nota-reclamacoes]]: YesStyle na Trustpilot: nota 4,4 com 104 mil avaliações, reclamações e respostas (10 idiomas, família yesstyle-reputation); no mesmo PR, o Brasil sem entrega em 2 artigos PT
+- [ ] [[shein-reclame-aqui-nota-reputacao]]: SHEIN: Reclame Aqui no PT e Trustpilot nos outros 9 (3,8 com 353 mil avaliações, perfil único), família shein-reputation (10 idiomas)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
