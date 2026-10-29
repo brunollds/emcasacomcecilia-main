@@ -73,7 +73,7 @@ aconteceu:
 | Receitas e reviews | `content/receitas/*.json`, `content/reviews/*.json` + `_manifest.json` |
 | Tipos do conteúdo | `src/lib/content/types.ts` |
 | Cupons | `src/lib/couponsData.ts` (união `discount-code \| affiliate-link`) |
-| Cupons em outros idiomas (hoje a SHEIN e a Hostinger) | `src/lib/couponTranslations.ts`: só texto e, quando a loja tem, o link internacional (`offerUrl`); códigos, datas e campanhas vêm do cupom em PT. Textos da interface da página de loja em `src/components/coupons/couponStoreCopy.tsx` |
+| Cupons em outros idiomas (hoje a SHEIN e a Hostinger) | `src/lib/couponTranslations.ts`: só texto e, quando a loja tem, o link internacional (`offerUrl`); códigos, datas e campanhas vêm do cupom em PT. Aceita loja de link e de código (a de código segue a `CODE_FIELD_POLICY`, e texto sem tradução some da página do idioma). Textos da interface da página de loja em `src/components/coupons/couponStoreCopy.tsx` |
 | YesStyle: código de recompensa e cupons da loja | `data/coupons/yesstyle.json`, lido por `src/lib/yesstyleCoupons.ts`. Textos dos 10 idiomas em `src/components/coupons/yesstyleCopy.ts`, juntados aos dados em `yesstylePage.ts`. Manutenção na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
 | Locales e clusters i18n | `src/lib/i18n/locales.ts` e `src/lib/i18n/clusters/` |
 | Vídeos | `src/lib/video-metadata.js` e `src/lib/video-pages.js` (com o `aspect` de cada vídeo); `/videos` e as páginas de vídeo montadas por `src/lib/videosHub.ts`, regras do navegador em `src/lib/videosShelf.ts` |
@@ -351,8 +351,10 @@ vídeo, primeiras impressões e uso noturno.
 - `src/lib/localeHome.ts` monta tudo no servidor. Os textos vêm de
   `src/components/sections/localeHomeCopy.ts`; os fatos da Cecília e o certificado, de
   `src/lib/ceciliaCredentials.ts`. As lojas saem dos dados: a YesStyle e as de `couponTranslations.ts`
-  com loja ativa, e loja nova por link (`affiliate-link`) com página traduzida entra sozinha: o
-  `couponTranslations.ts` lança erro para loja de cupom com tradução. A home não tem link de afiliado: o
+  com loja ativa, e loja nova com página traduzida, de link ou de código, entra sozinha. A tradução declara o
+  `offerMode`, que tem de ser o do cupom em PT. Na loja de código, a `CODE_FIELD_POLICY` decide cada campo:
+  herda do PT (código, datas, desconto), vem da tradução ou nunca sai do PT; texto sem tradução some da página
+  do idioma, e campo novo sem decisão quebra o typecheck. Loja com faixas não tem tradução. A home não tem link de afiliado: o
   cartão leva a `/<locale>/coupons/<slug>`. Os dois testes (`test:locale-home` e `test:build-output`) tiram
   os hosts de loja do dado das lojas que estão nas homes (`scripts/locale-home-guards.ts`), mais uma base
   fixa (`yesstyle.com`, `shein.com`, `ystyle.co`): um link novo de afiliado de uma loja da home é barrado
