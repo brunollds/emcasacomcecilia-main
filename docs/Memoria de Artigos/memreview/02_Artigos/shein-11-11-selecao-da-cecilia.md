@@ -6,9 +6,9 @@ parceiro: "[[SHEIN]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "tirar da vitrine ou marcar encerrada depois de 12/11/2026"
 bloqueado_por: "-"
 data_criacao: "2026-10-28"
 pauta: "Campanha 11.11 da SHEIN com os links de criador do Bruno (28/10/2026)"
@@ -51,3 +51,9 @@ A SHEIN está na "Mega Promoção 11.11" ("até 85% off em mais de 600 mil produ
 4. Código: o atual, 4CW5Y, como nos outros artigos da SHEIN (código de indicação, nunca cupom; fora do PT, o aviso de que é da SHEIN Brasil). Os botões levam aos links da campanha.
 5. Grupos: Pijamas (3), Infantil (4), Feminino (4: as peças 9 a 12, que vieram sob "crianças" por engano, Bruno 28/10), Acessórios (4), Masculino (4).
 6. Prazo: a campanha termina em 12/11/2026. Ir ao ar o quanto antes; tirar da vitrine ou marcar como encerrada depois de 12/11.
+
+## Publicação (28/10/2026)
+- No ar em 28/10/2026: PR #339 (família `shein-11-11`, ids 640–649) e PR #340 (tamanhos internacionais fora do PT), release `6598ddcf`.
+- Redação: Fable 5.1 (PT e 9 idiomas), revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp`); 19 fotos das fichas em `/images/reviews/shein/shein-1111-NN-*.webp`, no CDN.
+- Fora do PT: preços convertidos pela cotação de 28/10 (tabela no fatos), um aviso só; tamanhos internacionais pela equivalência das fichas (XPP=XXS, PP=XS, P=S, M, G=L, GG=XL, EG=XXL, EEGG=XXXL). Lidos em 7 fichas antes do CAPTCHA; #11, #12, #18, #19 e #20 pela equivalência; o cardigã #10 é S–L, como a ficha mostra.
+- Pendente: depois de 12/11/2026, tirar da vitrine ou marcar a campanha como encerrada.

@@ -202,7 +202,7 @@ Descartados na Nutre pela regra de saúde: Control (diabetes), Resource (disfagi
 
 | Pauta | Situação |
 |---|---|
-| SHEIN 11.11: seleção da Cecília (19 peças com links da campanha) | **Pauta aprovada em 28/10/2026:** [[shein-11-11-selecao-da-cecilia]]; artigo único, termina em 12/11 |
+| SHEIN 11.11: seleção da Cecília (19 peças com links da campanha) | **Publicado em 28/10/2026** (#339, #340, release `6598ddcf`): [[shein-11-11-selecao-da-cecilia]]; artigo único, termina em 12/11 |
 | Página fixa de seleção da SHEIN | Depois da 11.11: se o artigo tiver boa aceitação, criar no 12.12 |
 
 As campanhas de creators com a Cecília são diferentes destas e não entram nesta lista.

@@ -6,7 +6,6 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[shein-11-11-selecao-da-cecilia]]: SHEIN 11.11: as 19 peças escolhidas pelo Bruno, com preço, tamanhos e link da campanha; termina em 12/11 (10 idiomas, preço convertido com um aviso)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
@@ -41,6 +40,7 @@
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[shein-11-11-selecao-da-cecilia]]: SHEIN 11.11: as 19 peças escolhidas pelo Bruno, com preço, tamanhos e link da campanha (10 idiomas, preço convertido com um aviso, tamanhos internacionais fora do PT) (no ar em 28/10/2026, PRs #339 e #340, release `6598ddcf`, ids 640–649; tirar da vitrine ou marcar encerrada depois de 12/11) 🚀
 - [x] [[yesstyle-app-como-comprar-codigo-de-recompensa]]: App da YesStyle: como comprar e onde entra o código de recompensa (campo "Influencer / Rewards Code", com os prints do Bruno); PT diz que não há entrega no Brasil (10 idiomas) (no ar em 28/10/2026, PR #336, release `040fcb1b`, ids 630–639) 🚀
 - [x] [[nutren-senior-kit-combo-ou-assinatura]]: Nutren Senior: qual tamanho e qual forma compensa, por 100 g (370 g, 740 g, kit, combo, assinatura); o kit de 2 latas sai mais barato que o combo (PT) (no ar em 28/10/2026 18:56 UTC, PR #331 + #333, release `c3af3e1`, id 626) 🚀
 - [x] [[cookies-sem-acucar-belive]]: Cookies sem açúcar da Belive: qual sabor e quanto sai cada um, por 100 g e pelo rótulo (maltitol); os "Sem Lactose" têm açúcar (PT) (no ar em 28/10/2026 18:56 UTC, PR #331 + #333, release `c3af3e1`, id 627) 🚀
