@@ -167515,7 +167515,7 @@ export const reviewsData: unknown[] = [
               "56 de 69; PP a XXGG"
             ],
             [
-              "Tech T-Shirt feminina",
+              "[Tech T-Shirt feminina](https://creators.insiderstore.com.br/52ZMYx2)",
               "92% modal, 8% elastano",
               "R$ 129 (de R$ 169)",
               "37 de 57; PP a XGG"
@@ -167527,7 +167527,7 @@ export const reviewsData: unknown[] = [
               "26 de 50; PP a GG"
             ],
             [
-              "Tech T-Shirt Heavy",
+              "[Tech T-Shirt Heavy](https://creators.insiderstore.com.br/Gxr7Hwp)",
               "92% modal, 8% elastano",
               "R$ 155 a R$ 199 (de R$ 199)",
               "23 de 23; PP a XGG"
@@ -167605,7 +167605,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech: masculina, feminina e Gola V",
         "paragraphs": [
-          "A Tech T-Shirt existe em três cortes com a mesma composição de 92% modal e 8% elastano: masculina, feminina e Gola V feminina. Pela descrição oficial, ela desamassa no corpo e não desbota com as lavagens. A loja atribui à peça um efeito antiodor, dado da própria marca.",
+          "A Tech T-Shirt existe em três cortes com a mesma composição de 92% modal e 8% elastano: [masculina](https://creators.insiderstore.com.br/axB7p3y), [feminina](https://creators.insiderstore.com.br/52ZMYx2) e [Gola V feminina](https://creators.insiderstore.com.br/hwvgusR). Pela descrição oficial, ela desamassa no corpo e não desbota com as lavagens. A loja atribui à peça um efeito antiodor, dado da própria marca.",
           "Na Tech masculina, a nota do produto diz que a garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, considerando uma lavagem por semana. As linhas sem essa nota não recebem o termo."
         ],
         "images": [
@@ -167635,7 +167635,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Heavy e Heavy Slim: corpo e caimento",
         "paragraphs": [
-          "Pela descrição da Heavy, a peça é 20% mais encorpada que a Tech, não marca o corpo e tem caimento mais liso. A gramatura fica entre a Tech e a Oversized, segundo a mesma página. Ela sai de R$ 155 a R$ 199, conforme a cor e o tamanho: a Preta e a Dark Blue aparecem a partir de R$ 169 e R$ 155.",
+          "Pela descrição da [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp), a peça é 20% mais encorpada que a Tech, não marca o corpo e tem caimento mais liso. A gramatura fica entre a Tech e a Oversized, segundo a mesma página. Ela sai de R$ 155 a R$ 199, conforme a cor e o tamanho: a Preta e a Dark Blue aparecem a partir de R$ 169 e R$ 155.",
           "A Heavy Slim, de 92% modal, tem gola fina, mangas levemente mais curtas e tronco ajustado, na descrição da loja. Ela sai por R$ 179 (de R$ 199), e a própria página indica a Heavy para quem quer um modelo mais solto."
         ],
         "images": [
@@ -168213,7 +168213,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Heavy avulsa vai de R$ 155 a R$ 199, conforme a cor. A conta usa R$ 169. Com R$ 155, a economia do kit de 3 cai para 5%, e a do kit de 5, para 10%.",
+          "A [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) avulsa vai de R$ 155 a R$ 199, conforme a cor. A conta usa R$ 169. Com R$ 155, a economia do kit de 3 cai para 5%, e a do kit de 5, para 10%.",
           "A loja tem dois kits de 3 Tech com nomes parecidos. O de R$ 355,50 é o que entra na tabela. O outro, de R$ 456, custa R$ 69 a mais que as três avulsas."
         ]
       },
