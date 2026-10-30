@@ -6,6 +6,8 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
+- [ ] [[shein-vale-a-pena]]: SHEIN vale a pena? Preço, prazo, imposto e devolução (10 idiomas); no mesmo PR, a data da alíquota zero (12/05) em 2 artigos
+- [ ] [[tamanho-shein-brasil]]: Tamanho SHEIN no Brasil: como ler o Guia de tamanhos de cada peça e o que fazer se não servir (10 idiomas)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---

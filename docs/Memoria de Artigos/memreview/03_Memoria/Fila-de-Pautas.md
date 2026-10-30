@@ -299,10 +299,10 @@ Estudo do cupomtiff.com.br (case da Inbazz) e rodadas com os moldes de título (
 | M1 | Presente de Natal na Bagaggio | **Publicado em 30/10/2026:** [[presente-natal-bagaggio]] (PR #369) |
 | M2 | Mochila escolar Bagaggio | **Publicado em 30/10/2026:** [[mochila-escolar-bagaggio]] (PR #369) |
 | M3 | Mala de bordo: o que pode levar | Virou seção de [[mala-de-bordo-bagaggio-qual-compensa]] (só com ANAC e companhias) |
-| M4 | SHEIN vale a pena? | Briefing em andamento (30/10) |
-| M5 | Tamanho SHEIN no Brasil | Briefing em andamento (30/10) |
-| M6 | Dr. Peanut: Mercado Livre ou site | Briefing em andamento (30/10) |
-| M7 | DAMIE: é confiável, DAMIE ou Frau, medidas de sofá e poltrona | Melhoria no subdomínio damie.emcasacomcecilia.com (repositório e agente próprios), para não concorrer; auditoria em 30/10 |
+| M4 | SHEIN vale a pena? | **Pauta aprovada em 30/10/2026:** [[shein-vale-a-pena]] |
+| M5 | Tamanho SHEIN no Brasil | **Pauta aprovada em 30/10/2026:** [[tamanho-shein-brasil]] |
+| M6 | Dr. Peanut: Mercado Livre ou site | Briefing pronto (30/10); espera o link do Mercado Livre do Bruno. Pix lido no Chrome: 3% adicional |
+| M7 | DAMIE: é confiável, DAMIE ou Frau, medidas de sofá e poltrona | Handoff mandado ao subdomínio damie.emcasacomcecilia.com em 30/10 (repositório e agente próprios). "É confiável", medidas da poltrona, limpeza e cinema já existem lá; lacunas reais: medidas do sofá modular e DAMIE ou Frau |
 | M8 | Whey Probiótica: concentrado ou isolado | Estoque |
 | M9 | Vestido de festa SHEIN | Estoque |
 | M10 | Magalu ou Mercado Livre | Estoque |
