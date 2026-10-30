@@ -276,6 +276,20 @@ Mais vendidos pelo link do Bruno no 1º período da parceria: guardanapo Poá Te
 
 Descartado: "Tuut: onde comprar" (leva à loja da própria marca, sem afiliado). Base: rodada de 29/10 (autocompletar do Google e do Bing e `products.json` da loja).
 
+## Hostinger: ofertas do hPanel (Bruno, 30/10/2026)
+
+O Bruno trouxe quatro ofertas do painel da Hostinger; rodada de 30/10 (páginas oficiais e autocompletar do Google e do Bing). Famílias de 10 idiomas.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| H4 | Hostinger Reach ou Mailchimp/Brevo | **Pauta aprovada em 30/10/2026:** [[hostinger-reach-ou-mailchimp-brevo]] |
+| H5 | Hostinger ou HostGator (era a reserva "concorrente local") | **Pauta aprovada em 30/10/2026:** [[hostinger-ou-hostgator]] |
+| H6 | WordPress na Hostinger (com o crédito do Google Ads) | **Pauta aprovada em 30/10/2026:** [[wordpress-na-hostinger]] |
+| H7 | Loja virtual na Hostinger ou Nuvemshop/Shopify (Commerce) | Estoque: o Bruno confere no hPanel preço em R$, Pix, número de canais e o nome do assistente |
+| H8 | Next.js ou Vercel; e-mail no Gmail | Estoque (reserva de 28/10) |
+
+Google Ads: promoção do Google repassada pela Hostinger; vira parágrafo, não artigo. "Implantar na Hostinger" (programa para apps de código aberto): frase no artigo de VPS.
+
 ## Apps das lojas parceiras (Bruno, 23/10/2026)
 
 Pautas que saíram da pergunta do app nas páginas de cupom (PR #238).

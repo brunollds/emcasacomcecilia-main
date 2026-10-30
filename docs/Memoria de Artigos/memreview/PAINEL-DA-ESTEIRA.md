@@ -12,6 +12,9 @@
 - [ ] [[mochila-notebook-bagaggio-qual-escolher]]: Mochila para notebook da Bagaggio: qual escolher pelo tamanho do notebook e pelo preço (R$ 79,90 a R$ 699,90) (PT); no mesmo PR, a Samsonite em 2 artigos
 - [ ] [[mala-de-bordo-bagaggio-qual-compensa]]: Mala de bordo da Bagaggio: qual compensa (Downtown R$ 179,90, Detroit R$ 249,90, Route R$ 299,90, Cartagena R$ 349,90; policarbonato R$ 899,90+) (PT)
 - [ ] [[tamanho-mala-bagaggio-p-m-g]]: Mala P, M ou G da Bagaggio: qual tamanho escolher pelos kg e litros da loja (PT)
+- [ ] [[hostinger-reach-ou-mailchimp-brevo]]: Hostinger Reach ou Mailchimp/Brevo: e-mail marketing pelo preço (10 idiomas); SONAR20 testado no Reach em 30/10
+- [ ] [[hostinger-ou-hostgator]]: Hostinger ou HostGator: qual compensa (compartilhada e VPS, promocional e preço regular) (10 idiomas; fora do PT, critérios sem a HostGator)
+- [ ] [[wordpress-na-hostinger]]: WordPress na Hostinger: qual plano e como começar (ou Horizons); crédito do Google Ads (10 idiomas)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
