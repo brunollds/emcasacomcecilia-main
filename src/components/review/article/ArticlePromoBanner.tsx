@@ -1,21 +1,24 @@
 import { ArrowUpRight } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { FOCUS_RING } from '@/components/ui/focusRing';
-import type { StoreBanner } from '@/lib/storeBanners';
+import { isArticleBannerHref, type StoreBanner } from '@/lib/storeBanners';
 import { getArticleCopy } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
-import { HideAfter } from './HideAfter';
+import { CampaignWindow } from './CampaignWindow';
 
 export type ArticlePromoBannerProps = {
   banner: StoreBanner;
   locale: CouponCopyLocale;
   storeBrand: string;
   reviewSlug: string;
+  // A campanha ainda não tinha começado no build: o HTML vem sem o banner, e o navegador o mostra no início.
+  hiddenInHtml?: boolean;
 };
 
 // Banner de campanha da loja entre as seções do artigo (storeBanners.ts). O cartão inteiro é o link de afiliado,
-// medido como coupon_store_click com o lugar do banner e sem o código da loja, que não é dele.
-export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug }: ArticlePromoBannerProps) {
+// medido como coupon_store_click com o lugar do banner e sem o código da loja, que não é dele. A campanha que só
+// vale com o código leva ao nosso artigo sobre ela, link interno e sem sponsored.
+export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug, hiddenInHtml = false }: ArticlePromoBannerProps) {
   const label = getArticleCopy(locale).adLabel;
   const { headline, text, action, tag } = banner.copy[locale];
 
@@ -28,7 +31,7 @@ export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug }: A
         href={banner.href}
         brand={storeBrand}
         contentSlug={reviewSlug}
-        sponsored
+        sponsored={!isArticleBannerHref(banner.href)}
         placement={banner.slot === 'top' ? 'review_banner_top' : 'review_banner_mid'}
         className={`grid grid-cols-[auto_minmax(0,1fr)] items-center gap-4 rounded-2xl border-2 border-marinho bg-creme p-4 shadow-[4px_4px_0_var(--color-marinho)] md:grid-cols-[auto_minmax(0,1fr)_auto] md:gap-6 md:px-6 md:py-5 motion-safe:transition-[translate,box-shadow] motion-safe:hover:-translate-px motion-safe:hover:shadow-[5px_5px_0_var(--color-marinho)] ${FOCUS_RING}`}
       >
@@ -48,7 +51,12 @@ export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug }: A
     </aside>
   );
 
-  return banner.endsAt ? <HideAfter until={banner.endsAt}>{aside}</HideAfter> : aside;
+  if (!banner.startsAt && !banner.endsAt) return aside;
+  return (
+    <CampaignWindow from={banner.startsAt} until={banner.endsAt} hiddenInHtml={hiddenInHtml}>
+      {aside}
+    </CampaignWindow>
+  );
 }
 
 // Arte nossa, sem foto de produto: a etiqueta amarela com o "até" do idioma e o número da campanha, ou a sacola

@@ -28,7 +28,7 @@ import {
 } from '../src/lib/couponTranslations';
 import { publishedReviews, recipes, type Review } from '../src/lib/data';
 import { isFaqHeading } from '../src/lib/faq';
-import { getStoreBanners, placeStoreBanners, type StoreBannerSlot } from '../src/lib/storeBanners';
+import { getArticleStoreBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, type StoreBannerSlot } from '../src/lib/storeBanners';
 import { isInternalLink } from '../src/lib/internalLinks';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
@@ -1618,8 +1618,15 @@ for (const url of articleUrls) {
 
   // Os banners de campanha da loja (storeBanners.ts): o `top` logo depois da 1ª seção do corpo e o `mid` logo antes
   // do FAQ (sem FAQ, da última), com o link da campanha, rel sponsored e os textos do idioma; nenhum em outra loja.
+  // O que leva ao nosso artigo da campanha tem link interno, sem sponsored, e não sai no próprio artigo. Campanha que
+  // ainda não começou não vem no HTML.
   const bannerStore = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
-  const banners = bannerStore ? getStoreBanners(bannerStore.slug, new Date()) : {};
+  const bannerNow = new Date();
+  const banners = Object.fromEntries(
+    Object.entries(bannerStore ? getArticleStoreBanners(bannerStore.slug, review.slug, bannerNow) : {}).filter(([, banner]) =>
+      isStoreBannerLive(banner, bannerNow)
+    )
+  );
   const articleSections = getBodySections(review.contentSections ?? [], inferReviewKind(review));
   const bannerPlaces = placeStoreBanners(
     articleSections.map(({ id }) => id),
@@ -1642,7 +1649,8 @@ for (const url of articleUrls) {
     else assert.equal(match.index + aside.length, sectionTag.index, `${pagePath}: banner mid fora do começo da seção ${bannerPlaces[slot]}`);
     const link = aside.match(/<a\b[^>]*>/)?.[0] ?? '';
     assert.ok(link.includes(` href="${banner.href}"`), `${pagePath}: banner ${slot} sem o link da campanha`);
-    assert.match(link, /\srel="[^"]*\bsponsored\b/, `${pagePath}: banner ${slot} sem rel="sponsored"`);
+    if (isArticleBannerHref(banner.href)) assert.doesNotMatch(link, /\bsponsored\b/, `${pagePath}: banner ${slot} do artigo com sponsored`);
+    else assert.match(link, /\srel="[^"]*\bsponsored\b/, `${pagePath}: banner ${slot} sem rel="sponsored"`);
     const text = textOf(aside);
     const { headline, text: bannerText, action } = banner.copy[locale];
     for (const part of [getArticleCopy(locale).adLabel, headline, bannerText, action]) {

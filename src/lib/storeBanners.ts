@@ -11,6 +11,8 @@ export type StoreBanner = {
   affiliate: string;
   slot: StoreBannerSlot;
   // Link de afiliado da campanha. Vale nos 10 idiomas, então nunca é um link da loja de um país só (br.shein.com).
+  // A exceção é a campanha que só vale com o código da loja: o banner, que não cita o código, leva ao nosso artigo
+  // que explica a campanha (`/reviews/<slug>`, da mesma loja), sem rel sponsored e nunca no próprio artigo.
   href: string;
   // A arte é desenhada no componente: a etiqueta com o número da campanha (com o `tag` do idioma em cima, o "até")
   // ou a sacola com a etiqueta de preço.
@@ -110,6 +112,67 @@ export const STORE_BANNERS: StoreBanner[] = [
       'zh-hant': { headline: 'SHEIN折扣商品', text: '店鋪的折扣頁面，價格以當天為準。', action: '查看折扣' },
     },
   },
+  {
+    id: 'skelt-brinde-30-10',
+    affiliate: 'skelt',
+    slot: 'top',
+    href: '/reviews/brinde-skelt-30-outubro-cupom',
+    art: { kind: 'bag' },
+    startsAt: '2026-10-30T00:00:00-03:00',
+    endsAt: '2026-10-30T23:59:59-03:00',
+    copy: {
+      pt: {
+        headline: 'Brinde da Skelt só hoje, 30/10',
+        text: 'Trends Set acima de R$ 219 e Body Cream acima de R$ 249. Veja como garantir os dois.',
+        action: 'Ver como garantir',
+      },
+      en: {
+        headline: 'Skelt free gifts, today only (Oct 30)',
+        text: 'Trends Set on orders over R$ 219 and Body Cream over R$ 249. See how to get both.',
+        action: 'See how',
+      },
+      es: {
+        headline: 'Regalos de Skelt solo hoy, 30/10',
+        text: 'Trends Set en compras de más de R$ 219 y Body Cream de más de R$ 249. Mira cómo conseguir los dos.',
+        action: 'Ver cómo',
+      },
+      fr: {
+        headline: 'Cadeaux Skelt aujourd’hui seulement (30/10)',
+        text: 'Trends Set dès R$ 219 d’achat et Body Cream dès R$ 249. Voir comment obtenir les deux.',
+        action: 'Voir comment',
+      },
+      it: {
+        headline: 'Omaggi Skelt solo oggi, 30/10',
+        text: 'Trends Set sopra R$ 219 e Body Cream sopra R$ 249. Ecco come averli entrambi.',
+        action: 'Scopri come',
+      },
+      de: {
+        headline: 'Skelt-Geschenke nur heute (30.10.)',
+        text: 'Trends Set ab R$ 219 Einkaufswert und Body Cream ab R$ 249. So bekommst du beide.',
+        action: 'So geht’s',
+      },
+      ja: {
+        headline: 'Skeltのプレゼントは10/30のみ',
+        text: 'R$ 219以上でTrends Set、R$ 249以上でBody Creamも。両方もらう方法はこちら。',
+        action: '方法を見る',
+      },
+      ko: {
+        headline: 'Skelt 사은품, 10/30 하루만',
+        text: 'R$ 219 이상 구매 시 Trends Set, R$ 249 이상이면 Body Cream까지. 둘 다 받는 방법을 확인하세요.',
+        action: '방법 보기',
+      },
+      'zh-hans': {
+        headline: 'Skelt赠品仅限10月30日',
+        text: '满R$ 219送Trends Set，满R$ 249再送Body Cream。看看如何两样都拿到。',
+        action: '查看方法',
+      },
+      'zh-hant': {
+        headline: 'Skelt贈品僅限10月30日',
+        text: '滿R$ 219送Trends Set，滿R$ 249再送Body Cream。看看如何兩樣都拿到。',
+        action: '查看方法',
+      },
+    },
+  },
 ];
 
 export function isStoreBannerLive(banner: Pick<StoreBanner, 'startsAt' | 'endsAt'>, now: Date): boolean {
@@ -118,14 +181,24 @@ export function isStoreBannerLive(banner: Pick<StoreBanner, 'startsAt' | 'endsAt
   return !banner.endsAt || time <= Date.parse(banner.endsAt);
 }
 
-// As campanhas no prazo da loja, uma por lugar.
-export function getStoreBanners(
+export function isArticleBannerHref(href: string): boolean {
+  return href.startsWith('/reviews/');
+}
+
+// Os banners que o artigo monta, um por lugar: os da loja que ainda não acabaram, menos o que leva ao próprio artigo.
+// O artigo é gerado no build, então a campanha que ainda não começou entra escondida no HTML e aparece no navegador
+// na hora do início (ArticlePromoBanner).
+export function getArticleStoreBanners(
   affiliate: string,
+  reviewSlug: string,
   now: Date,
   banners: StoreBanner[] = STORE_BANNERS
 ): Partial<Record<StoreBannerSlot, StoreBanner>> {
   return Object.fromEntries(
-    banners.filter((banner) => banner.affiliate === affiliate && isStoreBannerLive(banner, now)).map((banner) => [banner.slot, banner])
+    banners
+      .filter((banner) => banner.affiliate === affiliate && isStoreBannerLive({ endsAt: banner.endsAt }, now))
+      .filter((banner) => banner.href !== `/reviews/${reviewSlug}`)
+      .map((banner) => [banner.slot, banner])
   );
 }
 
