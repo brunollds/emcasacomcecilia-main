@@ -28,14 +28,14 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na Bagaggio, a faixa até R$ 100 tem carteira, nécessaire, bolsa e a mochila Horizonte para notebook. De R$ 100 a R$ 250, há nécessaires, uma carteira de couro e mochilas executivas. Acima de R$ 250, bolsas e mochilas executivas, e o kit Joá, que custa a soma das peças. Preços do cartão em 30/10/2026; o cupom CECILIA10 dá 10%."
+        "Na Bagaggio, até R$ 100 há carteira, nécessaire, bolsa e a mochila Horizonte para notebook; de R$ 100 a R$ 250, nécessaires, uma carteira de couro e mochilas executivas. Acima de R$ 250 ficam bolsas, mochilas executivas e o kit Joá, que custa a soma das peças. Preços do cartão em 30/10/2026, e o CECILIA10 dá 10%."
       ]
     },
     {
       "heading": "Como lemos os preços",
       "paragraphs": [
-        "Os preços são os do cartão, lidos na API pública da loja em 30/10/2026. O preço de lista é o valor riscado na ficha. A faixa segue o preço do cartão, e o carrinho é a referência final, porque preço e estoque mudam.",
-        "Ninguém do site usou estas peças. A lista mostra o que a loja vende e por quanto, e não qual peça é boa de uso. Quando a ficha traz medida, o texto diz que a medida é da ficha."
+        "Os preços são os do cartão, lidos na API pública da loja em 30/10/2026. O preço de lista é o valor riscado na página do produto. A faixa segue o preço do cartão, e o carrinho é a referência final, porque preço e estoque mudam.",
+        "Ninguém do site usou estas peças. A lista mostra o que a loja vende e por quanto, e não qual peça é boa de uso. Quando a página do produto traz medida, o texto diz que a medida é da loja."
       ]
     },
     {
@@ -76,13 +76,13 @@
         {
           "src": "/images/reviews/bagaggio/presente-natal-bagaggio-mochila-horizonte.webp",
           "alt": "Mochila masculina executiva Horizonte preta da Bagaggio, de frente, com bolso frontal com zíper",
-          "caption": "Mochila Slim Horizonte, preta. Segundo a ficha, cabe notebook de até 15,6 polegadas. Foto oficial da loja.",
+          "caption": "Mochila Slim Horizonte, preta, que cabe notebook de até 15,6 polegadas. Foto oficial da loja.",
           "objectFit": "contain",
           "aspectRatio": 0.6118
         }
       ],
       "postParagraphs": [
-        "Segundo a ficha, a Horizonte tem 45 × 39 × 11 cm. Para comparar as mochilas de notebook da loja por uso, veja [mochila de notebook Bagaggio: qual escolher](/reviews/mochila-notebook-bagaggio-qual-escolher)."
+        "A Horizonte tem 45 × 39 × 11 cm. Para comparar as mochilas de notebook da loja por uso, veja [mochila de notebook Bagaggio: qual escolher](/reviews/mochila-notebook-bagaggio-qual-escolher)."
       ]
     },
     {
@@ -136,7 +136,7 @@
         }
       ],
       "postParagraphs": [
-        "A Antifurto Urban é a mochila de notebook desta faixa. Segundo a ficha, ela tem 44 × 30 × 17 cm e 22,4 litros."
+        "A Antifurto Urban é a mochila de notebook desta faixa. Ela tem 44 × 30 × 17 cm e 22,4 litros."
       ]
     },
     {
@@ -215,7 +215,7 @@
     {
       "heading": "Embalagem e vale-presente",
       "paragraphs": [
-        "A loja vende a lata de alumínio para carteira, de R$ 19,90, avulsa. Segundo a ficha, ela mede 11,7 × 14,7 × 3 cm.",
+        "A loja vende a lata de alumínio para carteira, de R$ 19,90, avulsa. Ela mede 11,7 × 14,7 × 3 cm.",
         "A Bagaggio vende vale-presente. Na página vale-presente do site, há a opção de comprar o vale virtual, que leva a um site parceiro de cartões. Não conferimos valores nem regras de uso, então veja as condições na própria página antes de escolher."
       ]
     },
@@ -223,7 +223,7 @@
       "heading": "Cupom e Pix",
       "paragraphs": [
         "O CECILIA10 dá 10% no site da Bagaggio, inclusive em produto com desconto. A regra completa está na [página do cupom Bagaggio](/cupons/bagaggio). A promoção de 50% na segunda peça é um cupom e não soma com o CECILIA10.",
-        "No Pix, a ficha mostra 5% a mais. No nosso teste de carrinho de 22/10/2026, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Não testamos o cupom nesta lista de peças, então não damos valor final com cupom: confira o resumo do pedido antes de pagar."
+        "No Pix, a loja mostra 5% a mais. No nosso teste de carrinho de 22/10/2026, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Não testamos o cupom nesta lista de peças, então não damos valor final com cupom: confira o resumo do pedido antes de pagar."
       ]
     },
     {
