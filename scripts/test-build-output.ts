@@ -1648,7 +1648,7 @@ for (const url of articleUrls) {
     if (slot === 'top') assert.equal(match.index, sectionEnd, `${pagePath}: banner top fora do fim da 1ª seção`);
     else assert.equal(match.index + aside.length, sectionTag.index, `${pagePath}: banner mid fora do começo da seção ${bannerPlaces[slot]}`);
     const link = aside.match(/<a\b[^>]*>/)?.[0] ?? '';
-    assert.ok(link.includes(` href="${banner.href}"`), `${pagePath}: banner ${slot} sem o link da campanha`);
+    assert.ok(link.includes(` href="${escapeHtml(banner.href)}"`), `${pagePath}: banner ${slot} sem o link da campanha`);
     if (isArticleBannerHref(banner.href)) assert.doesNotMatch(link, /\bsponsored\b/, `${pagePath}: banner ${slot} do artigo com sponsored`);
     else assert.match(link, /\srel="[^"]*\bsponsored\b/, `${pagePath}: banner ${slot} sem rel="sponsored"`);
     const text = textOf(aside);

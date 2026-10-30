@@ -173,6 +173,76 @@ export const STORE_BANNERS: StoreBanner[] = [
       },
     },
   },
+  {
+    id: 'yesstyle-halloween-beleza',
+    affiliate: 'yesstyle',
+    slot: 'top',
+    href: 'https://www.yesstyle.com/beauty-beauty/list.html/bcc.15478_bpt.46?rco=CECILIA010&utm_term=CECILIA010&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
+    art: { kind: 'tag', value: '50%' },
+    endsAt: '2026-11-01T23:59:59-03:00',
+    copy: {
+      pt: {
+        headline: 'Especial de Halloween na YesStyle: beleza com até 50% OFF',
+        text: 'Campanha da própria YesStyle. Os preços e as condições aparecem no site da YesStyle.',
+        action: 'Ver a campanha',
+        tag: 'ATÉ',
+      },
+      en: {
+        headline: 'YesStyle Halloween Special: beauty up to 50% off',
+        text: 'Run by YesStyle itself. Prices and terms are on the YesStyle website.',
+        action: 'See the offer',
+        tag: 'UP TO',
+      },
+      es: {
+        headline: 'Especial de Halloween en YesStyle: belleza con hasta un 50 % de descuento',
+        text: 'Una campaña de la propia YesStyle. Los precios y las condiciones están en el sitio de YesStyle.',
+        action: 'Ver la oferta',
+        tag: 'HASTA',
+      },
+      fr: {
+        headline: 'Spécial Halloween chez YesStyle : beauté jusqu’à -50 %',
+        text: 'Une campagne de YesStyle. Les prix et les conditions sont sur le site de YesStyle.',
+        action: 'Voir l’offre',
+        tag: 'JUSQU’À',
+      },
+      it: {
+        headline: 'Speciale Halloween su YesStyle: bellezza fino al 50% di sconto',
+        text: 'Una campagna di YesStyle. I prezzi e le condizioni sono sul sito di YesStyle.',
+        action: 'Vedi l’offerta',
+        tag: 'FINO AL',
+      },
+      de: {
+        headline: 'Halloween-Special bei YesStyle: Beauty bis zu 50 % reduziert',
+        text: 'Eine Aktion von YesStyle. Preise und Bedingungen stehen auf der YesStyle-Website.',
+        action: 'Zum Angebot',
+        tag: 'BIS ZU',
+      },
+      ja: {
+        headline: 'YesStyleのハロウィン特集：ビューティーが最大50%オフ',
+        text: 'YesStyle公式のキャンペーンです。価格と条件はYesStyleのサイトでご確認ください。',
+        action: 'キャンペーンを見る',
+        tag: '最大',
+      },
+      ko: {
+        headline: 'YesStyle 핼러윈 특집: 뷰티 최대 50% 할인',
+        text: 'YesStyle 자체 프로모션입니다. 가격과 조건은 YesStyle 사이트에서 확인하세요.',
+        action: '혜택 보기',
+        tag: '최대',
+      },
+      'zh-hans': {
+        headline: 'YesStyle万圣节特辑：美妆低至5折',
+        text: 'YesStyle官方活动，价格和具体条件以YesStyle网站为准。',
+        action: '查看活动',
+        tag: '最高',
+      },
+      'zh-hant': {
+        headline: 'YesStyle萬聖節特輯：美妝低至5折',
+        text: 'YesStyle官方活動，價格和具體條件以YesStyle網站為準。',
+        action: '查看活動',
+        tag: '最高',
+      },
+    },
+  },
 ];
 
 export function isStoreBannerLive(banner: Pick<StoreBanner, 'startsAt' | 'endsAt'>, now: Date): boolean {
