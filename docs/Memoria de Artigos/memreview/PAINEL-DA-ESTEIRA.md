@@ -12,6 +12,8 @@
 - [ ] [[mochila-notebook-bagaggio-qual-escolher]]: Mochila para notebook da Bagaggio: qual escolher pelo tamanho do notebook e pelo preço (R$ 79,90 a R$ 699,90) (PT); no mesmo PR, a Samsonite em 2 artigos
 - [ ] [[mala-de-bordo-bagaggio-qual-compensa]]: Mala de bordo da Bagaggio: qual compensa (Downtown R$ 179,90, Detroit R$ 249,90, Route R$ 299,90, Cartagena R$ 349,90; policarbonato R$ 899,90+) (PT)
 - [ ] [[tamanho-mala-bagaggio-p-m-g]]: Mala P, M ou G da Bagaggio: qual tamanho escolher pelos kg e litros da loja (PT)
+- [ ] [[presente-natal-bagaggio]]: Presente de Natal na Bagaggio por faixa de preço (até R$ 100, R$ 100–250, acima de R$ 250) (PT); publicar até o início de dezembro
+- [ ] [[mochila-escolar-bagaggio]]: Mochila escolar Bagaggio: qual escolher por linha e preço (Bagaggio e licenciadas) (PT); volta às aulas
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---

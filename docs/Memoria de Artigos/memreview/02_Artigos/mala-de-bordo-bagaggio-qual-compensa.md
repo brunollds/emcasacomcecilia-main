@@ -168,3 +168,8 @@ Fatos: `mala-de-bordo-bagaggio-qual-compensa-fatos-2910.md`, ao lado.
 
 1. Links (pedido do Bruno, 29/10): cada produto citado leva o link da ficha com a UTM da parceria, como já está no fatos; nas tabelas de preço, o nome do produto na 1ª célula vira esse link.
 2. Bagagem de mão: nenhuma medida de companhia aérea ou da ANAC (sem fonte primária); só o selo "Vai à Bordo" e as medidas da ficha, e o texto diz que o selo varia entre fichas da mesma medida (a Detroit II Prata tem, a Detroit Preta não). Conjuntos custam a soma das peças (sem desconto de conjunto em 28/10). Downtown e Tech entram como linha Travelcross, com a nota de que a garantia vitalícia não vale para a Travelcross. Pendentes de ficha: os listados em "Pendentes de navegador" do briefing.
+
+## Acréscimo de 30/10/2026 (Bruno)
+
+1. Seção "O que pode levar na mala de bordo": a regra de bagagem de mão (medida, peso, líquidos e itens proibidos) só entra lida nas páginas oficiais da ANAC (gov.br/anac) e das companhias (LATAM, Gol, Azul), com URL e data. Em 30/10 nenhuma abriu na leitura automática (ANAC pede JavaScript, Azul 403): conferir no Chrome; sem fonte, a seção não sai. Não repetir "Padrão ANAC" do nome de um conjunto da loja.
+2. Correção do selo: a API de 30/10 mostra o selo "Vai à bordo" na Detroit Preta; a decisão anterior diz que ela não tem. Conferir na ficha e usar o que a ficha mostrar no dia.

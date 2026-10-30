@@ -290,6 +290,30 @@ O Bruno trouxe quatro ofertas do painel da Hostinger; rodada de 30/10 (páginas 
 
 Google Ads: promoção do Google repassada pela Hostinger; vira parágrafo, não artigo. "Implantar na Hostinger" (programa para apps de código aberto): frase no artigo de VPS.
 
+## Moldes do cupomtiff (Bruno, 30/10/2026)
+
+Estudo do cupomtiff.com.br (case da Inbazz) e rodadas com os moldes de título ("é boa", "vale a pena", "é confiável", "desde quando", produto, tutorial) em todas as parceiras. Não copiar deles: post de cupom por mês, hub com centenas de links, "testei" sem teste, data do mês em artigo antigo, história sem fonte. Dúvida de quem já comprou vai para o fim da fila da loja, não é descartada.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| M1 | Presente de Natal na Bagaggio | **Pauta aprovada em 30/10/2026:** [[presente-natal-bagaggio]] |
+| M2 | Mochila escolar Bagaggio | **Pauta aprovada em 30/10/2026:** [[mochila-escolar-bagaggio]] |
+| M3 | Mala de bordo: o que pode levar | Virou seção de [[mala-de-bordo-bagaggio-qual-compensa]] (só com ANAC e companhias) |
+| M4 | SHEIN vale a pena? | Briefing em andamento (30/10) |
+| M5 | Tamanho SHEIN no Brasil | Briefing em andamento (30/10) |
+| M6 | Dr. Peanut: Mercado Livre ou site | Briefing em andamento (30/10) |
+| M7 | DAMIE: é confiável, DAMIE ou Frau, medidas de sofá e poltrona | Melhoria no subdomínio damie.emcasacomcecilia.com (repositório e agente próprios), para não concorrer; auditoria em 30/10 |
+| M8 | Whey Probiótica: concentrado ou isolado | Estoque |
+| M9 | Vestido de festa SHEIN | Estoque |
+| M10 | Magalu ou Mercado Livre | Estoque |
+| M11 | Glutamina Max e Probiótica (com a B3 da Black Skull) | Estoque |
+
+**Atualizações de artigos no ar (segunda chance):** whey Mais Mu por sabor; "Cléa Store é boa?" em `clea-store-e-confiavel`; pluma de ganso no comparativo IWS × Ortobom; "IWS vale a pena" em `i-wanna-sleep-e-confiavel`; "Fita Up é boa?" em `toda-up-e-confiavel`; veredito em `belive-e-confiavel`; "YesStyle vale a pena?" como seção (com a entrega ao Brasil suspensa). Corrigir a creatina da Mais Mu (esgotada em 30/10; R$ 80,99) em `mais-mu-ou-growth` e `mais-mu-ou-dux`.
+
+**Fim da fila (pós-compra):** senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina (Black Skull, Max, Probiótica; sem "antes ou depois do treino" como promessa); como usar a pasta Dr. Peanut; primeiro uso da Genio S; como preparar o Nutren Protein e Active; entrega da Magalu no fim de semana.
+
+**Descartados:** creatina Mais Mu é boa (caso Bioghen, de novo em 30/10; fichas esgotadas); loja física da Let's Eat It (sem afiliado); Bagaggio é desde quando (sinal fraco; vira seção de `bagaggio-e-confiavel` só com fonte da data).
+
 ## Apps das lojas parceiras (Bruno, 23/10/2026)
 
 Pautas que saíram da pergunta do app nas páginas de cupom (PR #238).
