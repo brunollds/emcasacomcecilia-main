@@ -7,9 +7,9 @@ parceiro_slug: "bagaggio"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Presente"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "-"
 bloqueado_por: "-"
 data_criacao: "2026-10-30"
 publicado_em: null
@@ -173,3 +173,7 @@ Fatos: `presente-natal-bagaggio-fatos-3010.md`, ao lado.
 
 1. Links: cada produto citado leva o link da ficha com a UTM da parceria (`utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz`), como já está no fatos; nas tabelas, o nome do produto na 1ª célula vira esse link. Tabela com o preço do cartão; CECILIA10 e Pix numa frase (a "2ª peça 50%" é cupom e não soma). Ninguém do site usou. Pendentes do briefing: conferir no Chrome antes de publicar; sem confirmação, não afirma. Reler preços e disponibilidade no dia.
 2. Recomendações aceitas: vale-presente fora até o Chrome confirmar a venda em `/vale-presente`; a faixa acima de R$ 500 (7 itens) entra na de "acima de R$ 250"; mochilas de notebook com linha de preço e link para [[mochila-notebook-bagaggio-qual-escolher]]. Malas: link para [[mala-de-bordo-bagaggio-qual-compensa]], sem repetir tabela. Kit Joá custa a soma das peças: dizer, como nos conjuntos.
+
+## Publicação (30/10/2026)
+- No ar em 30/10/2026 17:02 UTC: PR #369, release `5c16b59c`, id 750 (PT).
+- Kit Dia dos Pais (carteira Lezard) fora: não está mais na loja. Vale-presente só como existente (site parceiro ilegível). Reler preços e estoque no começo de dezembro.

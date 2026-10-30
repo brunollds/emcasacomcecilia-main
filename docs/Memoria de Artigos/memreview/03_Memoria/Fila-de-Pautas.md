@@ -232,13 +232,13 @@ Rodada pelo autocompletar do Google e do Bing e pelos catálogos públicos (VTEX
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| S1 | Bronzeado instantâneo Skelt: qual usar para hoje à noite | **Pauta aprovada em 29/10/2026:** [[bronzeado-instantaneo-skelt-ou-autobronzeador]] |
-| S2 | Como tirar o autobronzeador Skelt | **Pauta aprovada em 29/10/2026:** [[removedor-autobronzeador-skelt-como-tirar]] |
-| S3 | Iluminador corporal Skelt | **Pauta aprovada em 29/10/2026:** [[iluminador-corporal-skelt-como-usar]] |
+| S1 | Bronzeado instantâneo Skelt: qual usar para hoje à noite | **Publicado em 30/10/2026:** [[bronzeado-instantaneo-skelt-ou-autobronzeador]] (PR #369) |
+| S2 | Como tirar o autobronzeador Skelt | **Publicado em 30/10/2026:** [[removedor-autobronzeador-skelt-como-tirar]] (PR #369) |
+| S3 | Iluminador corporal Skelt | **Publicado em 30/10/2026:** [[iluminador-corporal-skelt-como-usar]] (PR #369) |
 | S4 | Onde comprar Skelt (Renner, Sephora, Panvel) | **Descartada em 29/10/2026:** leva a compra para revendas sem afiliado; a pauta tem de levar ao cupom ou ao link do Bruno |
-| G1 | Mochila para notebook Bagaggio | **Pauta aprovada em 29/10/2026:** [[mochila-notebook-bagaggio-qual-escolher]] |
-| G2 | Mala de bordo Bagaggio: qual compensa | **Pauta aprovada em 29/10/2026:** [[mala-de-bordo-bagaggio-qual-compensa]] |
-| G3 | Mala P, M ou G Bagaggio | **Pauta aprovada em 29/10/2026:** [[tamanho-mala-bagaggio-p-m-g]] |
+| G1 | Mochila para notebook Bagaggio | **Publicado em 30/10/2026:** [[mochila-notebook-bagaggio-qual-escolher]] (PR #369) |
+| G2 | Mala de bordo Bagaggio: qual compensa | **Publicado em 30/10/2026:** [[mala-de-bordo-bagaggio-qual-compensa]] (PR #369) |
+| G3 | Mala P, M ou G Bagaggio | **Publicado em 30/10/2026:** [[tamanho-mala-bagaggio-p-m-g]] (PR #369) |
 
 Descartados: Sallve e Boticário (sem sinal), protetor solar Skelt (FPS sem registro, FPS 15 e 30 esgotados), Sestini, American Tourister e outlet na Bagaggio (sem resultado ou sinal); Samsonite: sem produto à venda em 29/10.
 
@@ -296,8 +296,8 @@ Estudo do cupomtiff.com.br (case da Inbazz) e rodadas com os moldes de título (
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| M1 | Presente de Natal na Bagaggio | **Pauta aprovada em 30/10/2026:** [[presente-natal-bagaggio]] |
-| M2 | Mochila escolar Bagaggio | **Pauta aprovada em 30/10/2026:** [[mochila-escolar-bagaggio]] |
+| M1 | Presente de Natal na Bagaggio | **Publicado em 30/10/2026:** [[presente-natal-bagaggio]] (PR #369) |
+| M2 | Mochila escolar Bagaggio | **Publicado em 30/10/2026:** [[mochila-escolar-bagaggio]] (PR #369) |
 | M3 | Mala de bordo: o que pode levar | Virou seção de [[mala-de-bordo-bagaggio-qual-compensa]] (só com ANAC e companhias) |
 | M4 | SHEIN vale a pena? | Briefing em andamento (30/10) |
 | M5 | Tamanho SHEIN no Brasil | Briefing em andamento (30/10) |

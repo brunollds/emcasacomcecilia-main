@@ -7,9 +7,9 @@ parceiro_slug: "bagaggio"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Tamanho"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "-"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 publicado_em: null
@@ -165,3 +165,7 @@ Fatos: `tamanho-mala-bagaggio-p-m-g-fatos-2910.md`, ao lado.
 1. Links (pedido do Bruno, 29/10): cada produto citado leva o link da ficha com a UTM da parceria, como já está no fatos; nas tabelas de preço, o nome do produto na 1ª célula vira esse link.
 2. Bagagem de mão: nenhuma medida de companhia aérea ou da ANAC (sem fonte primária); só o selo "Vai à Bordo" e as medidas da ficha, e o texto diz que o selo varia entre fichas da mesma medida (a Detroit II Prata tem, a Detroit Preta não). Conjuntos custam a soma das peças (sem desconto de conjunto em 28/10). Downtown e Tech entram como linha Travelcross, com a nota de que a garantia vitalícia não vale para a Travelcross. Pendentes de ficha: os listados em "Pendentes de navegador" do briefing.
 3. Viagem internacional fora do texto (sem fonte para limites).
+
+## Publicação (30/10/2026)
+- No ar em 30/10/2026 17:02 UTC: PR #369, release `5c16b59c`, id 748 (PT).
+- Medida da P do conjunto Route (56 × 36 × 22,5) contra a avulsa (55 × 35 × 22,5) não conferida: o texto diz isso. A ficha da Detroit não diz se a medida inclui as rodas.
