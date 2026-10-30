@@ -401,6 +401,23 @@
     "officialSourceUrl": "https://www.yesstyle.com/en/",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "witch15-promo",
+    "code": "WITCH15",
+    "type": "coupon",
+    "discount": {
+      "kind": "percentage",
+      "value": 15
+    },
+    "startsAt": "2026-10-30",
+    "expiresAt": "2026-11-01",
+    "verifiedAt": "2026-10-30",
+    "officialSourceUrl": "https://www.yesstyle.com/en/",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "membersOnly": true,
     "status": "active",
     "regions": ["GLOBAL"]
   }
