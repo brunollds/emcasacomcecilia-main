@@ -1,0 +1,263 @@
+{
+  "id": 748,
+  "slug": "tamanho-mala-bagaggio-p-m-g",
+  "locale": "pt",
+  "title": "Qual tamanho de mala comprar: 10 kg, 23 kg ou 32 kg (P, M e G) na Bagaggio",
+  "seoTitle": "Qual tamanho de mala comprar: P, M ou G na Bagaggio",
+  "type": "Guia de Tamanho",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Qual tamanho de mala comprar na Bagaggio? P, M e G são as faixas de 10, 23 e 32 kg. Veja medidas, peso e litros das fichas em 30/10/2026.",
+  "metaDescription": "Mala de 10, 23 ou 32 kg na Bagaggio: medidas e litros das fichas, a ligação entre P, M e G e a medida de mala de mão das companhias em 30/10/2026.",
+  "publishedAt": "30 de outubro de 2026",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-capa.webp",
+  "imageAlt": "Malas Bagaggio de 10, 23 e 32 kg, em foto oficial da loja, com o logo da Bagaggio",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Na Bagaggio, a mala de 10 kg é a de bordo, com 44 a 51 litros. A de 23 kg é a média, com 71 a 91 litros, e a de 32 kg é a grande, com 104 a 131 litros. P, M e G são os nomes dos conjuntos, e seguem essa mesma faixa de peso."
+      ]
+    },
+    {
+      "heading": "Medidas e litros das fichas, em 30/10/2026",
+      "paragraphs": [
+        "A tabela traz uma mala de cada linha em cada faixa. Preço e medida são das fichas lidas em 30/10/2026. Litros são da ficha lida em 29/10/2026."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Preço (cartão, 30/10)",
+          "Lista",
+          "Medida (ficha)",
+          "Litros",
+          "Faixa",
+          "Cabe nas medidas de mala de mão?"
+        ],
+        "rows": [
+          [
+            "[Mala de Bordo 10 kg ABS 4 Rodas Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 249,90",
+            "R$ 379,90",
+            "55 × 35 × 23 cm",
+            "44,2",
+            "10 kg (P no conjunto)",
+            "Sim, pela ficha (que não diz se inclui as rodas)"
+          ],
+          [
+            "[Mala de Bordo 10 kg Polipropileno 4 Rodas Route Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 299,90",
+            "R$ 449,90",
+            "55 × 35 × 22,5 cm (com rodas)",
+            "45,3",
+            "10 kg (P no conjunto)",
+            "Sim, pela ficha"
+          ],
+          [
+            "[Mala Pequena 10 kg Polipropileno 4 Rodas Cartagena Preta](https://www.bagaggio.com.br/mala-pequena-10kg-polipropileno-4-rodas-cartagena-preta-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 349,90",
+            "R$ 499,90",
+            "57,5 × 38 × 23,5 cm (com rodas)",
+            "51,3",
+            "10 kg (P no conjunto)",
+            "Não, passa da medida"
+          ],
+          [
+            "[Mala Média 23 kg ABS 4 Rodas Detroit Preta II](https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-detroit-preta-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 379,90",
+            "R$ 449,90",
+            "66 × 41,5 × 26 cm",
+            "71,2",
+            "23 kg (M no conjunto)",
+            "Não"
+          ],
+          [
+            "[Mala Média 23 kg ABS 4 Rodas 26\" Detroit Preta](https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-26--detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 349,90",
+            "R$ 449,90",
+            "70,5 × 44,5 × 29 cm",
+            "90,9",
+            "23 kg (modelo de 26\")",
+            "Não"
+          ],
+          [
+            "[Mala Média 23 kg Polipropileno 4 Rodas Route Preta](https://www.bagaggio.com.br/mala-route-media-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 449,90",
+            "R$ 499,90",
+            "66 × 43 × 27 cm",
+            "76,6",
+            "23 kg (M no conjunto)",
+            "Não"
+          ],
+          [
+            "[Mala Média 23 kg Polipropileno 4 Rodas Cartagena Preta](https://www.bagaggio.com.br/mala-media-23kg-polipropileno-4-rodas-cartagena-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 549,90",
+            "R$ 599,90",
+            "67,5 × 46 × 27 cm",
+            "83,8",
+            "23 kg (M no conjunto)",
+            "Não"
+          ],
+          [
+            "[Mala Grande 32 kg ABS 4 Rodas Detroit Vermelha](https://www.bagaggio.com.br/mala-grande-32-kg-abs-4-rodas-detroit-vermelha/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 349,90",
+            "R$ 499,90",
+            "76 × 47,5 × 29 cm",
+            "104",
+            "32 kg (G no conjunto)",
+            "Não"
+          ],
+          [
+            "[Mala de Viagem Grande 32 kg Polipropileno 4 Rodas Route Preta](https://www.bagaggio.com.br/mala-route-grande-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 399,90",
+            "R$ 549,90",
+            "76 × 49 × 30 cm",
+            "111,7",
+            "32 kg (G no conjunto)",
+            "Não"
+          ],
+          [
+            "[Mala de Viagem Grande 32 kg Polipropileno 4 Rodas Cartagena Preta](https://www.bagaggio.com.br/mala-de-viagem-grande-32kg-polipropileno-4-rodas-cartagena-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 499,90",
+            "R$ 699,90",
+            "77,5 × 52 × 32,5 cm",
+            "130,9",
+            "32 kg (G no conjunto)",
+            "Não"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Os preços são do cartão. O Pix tem 5% de desconto na loja, e o cupom está na seção de parceria."
+      ]
+    },
+    {
+      "heading": "Como ler as faixas de 10, 23 e 32 kg",
+      "paragraphs": [
+        "A mala de 10 kg é a de bordo, em nome e em medida. As faixas de 23 kg e 32 kg são o nome que a loja dá às malas maiores, e a medida muda de linha para linha. A Detroit de 23 kg aparece em duas medidas: a Detroit II, com 66 × 41,5 × 26 cm, e a de 26 polegadas, com 70,5 × 44,5 × 29 cm. Mesma faixa, medidas diferentes.",
+        "Os litros acompanham a medida. Na faixa de 23 kg, as fichas lidas vão de 71 a 91 litros, e na de 32 kg, de 104 a 131. Litros são a capacidade que a ficha declara. Não convertemos isso em número de peças de roupa, porque depende de cada peça."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-ii-media.webp",
+          "alt": "Mala média Detroit II preta da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
+          "caption": "Detroit II Preta, de 23 kg: 66 × 41,5 × 26 cm pela ficha. Foto oficial da loja, lida em 30/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 0.5889
+        },
+        {
+          "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-26.webp",
+          "alt": "Mala média Detroit de 26 polegadas preta da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
+          "caption": "Detroit de 26 polegadas, de 23 kg: 70,5 × 44,5 × 29 cm pela ficha. Foto oficial da loja, lida em 30/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 0.59
+        },
+        {
+          "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-media.webp",
+          "alt": "Mala média Route preta de polipropileno da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
+          "caption": "Route Preta, de 23 kg: 66 × 43 × 27 cm pela ficha. Foto oficial da loja, lida em 30/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6033
+        },
+        {
+          "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-grande.webp",
+          "alt": "Mala grande Route preta de polipropileno da Bagaggio, de 32 kg, de frente, em foto oficial da loja",
+          "caption": "Route Preta, de 32 kg: 76 × 49 × 30 cm pela ficha. Foto oficial da loja, lida em 30/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6033
+        }
+      ]
+    },
+    {
+      "heading": "P, M e G no conjunto",
+      "paragraphs": [
+        "Os conjuntos Detroit, Route e Cartagena trazem P, M e G no nome. Pela medida da ficha, a P é a de 10 kg, a M é a de 23 kg e a G é a de 32 kg. Essa ligação é conta nossa, feita pela medida das peças do conjunto. A loja não a publica.",
+        "A P do conjunto Route tem 56 × 36 × 22,5 cm na ficha do conjunto. A mala Route de 10 kg, vendida avulsa, tem 55 × 35 × 22,5 cm. Não conferimos se é a mesma peça. Se a medida pesa na sua escolha, confira as duas fichas.",
+        "Na Detroit e na Cartagena, a P do conjunto tem a mesma medida da mala avulsa de 10 kg."
+      ]
+    },
+    {
+      "heading": "Qual mala de 10 kg cabe na bagagem de mão",
+      "paragraphs": [
+        "LATAM, GOL e Azul citam 55 × 35 × 25 cm para a mala de mão, em 30/10/2026. A ANAC deixa o limite de medida para cada companhia. O detalhe das regras, com as fontes, está no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa).",
+        "Pela ficha, a Detroit Preta (55 × 35 × 23 cm) e a Route Preta de 10 kg (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena P, com 57,5 × 38 × 23,5 cm, passa dela. As de 23 kg e 32 kg passam da medida em todas as linhas da tabela, então não entram como mala de mão pela regra das companhias.",
+        "Cada companhia confere a medida e o peso no balcão, e as regras mudam. Confirme na sua antes de viajar."
+      ]
+    },
+    {
+      "heading": "Qual escolher por viagem",
+      "paragraphs": [
+        "Três perguntas ajudam a escolher."
+      ],
+      "bullets": [
+        "Quanto tempo você vai ficar? Para viagem curta, a de 10 kg tem 44 a 51 litros. Para mais dias, a de 23 kg tem 71 a 91 litros.",
+        "Quantas peças você leva? Os litros são a capacidade da ficha, não um número de peças. Compare com o que você costuma levar.",
+        "Vai despachar ou levar na mão? Se for levar na mão, veja a medida da mala de 10 kg e as regras das companhias no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa)."
+      ]
+    },
+    {
+      "heading": "Parceria e cupom",
+      "paragraphs": [
+        "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, segundo a regra da [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
+        "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. Os preços de 22/10 estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
+      ]
+    },
+    {
+      "heading": "E a garantia?",
+      "paragraphs": [
+        "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024. Detalhes no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? A faixa de peso define o tamanho: a de 10 kg é a de bordo, e as de 23 kg e 32 kg são as malas maiores, com mais litros.",
+        "P, M e G são o mesmo que 10, 23 e 32 kg? Nos conjuntos, sim, pela medida das fichas: P é a de 10 kg, M a de 23 kg e G a de 32 kg. Essa ligação é nossa, não da loja.",
+        "Qual tamanho de mala comprar para viagem de uma semana? Para uma semana, a de 23 kg dá mais espaço, com 71 a 91 litros. Se for só levar na mão, a de 10 kg, com 44 a 51 litros, é a opção.",
+        "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pela medida da ficha, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam em 30/10/2026. Cada companhia decide, então confira antes de viajar.",
+        "Tem cupom para a mala Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Não conferimos o valor final no carrinho nesta rodada."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Se a sua compra é na Bagaggio, entre no site oficial e cole o CECILIA10 no carrinho. Confira o desconto no resumo antes de pagar.",
+    "label": "Ir para a Bagaggio com o cupom",
+    "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+    "sponsored": true
+  },
+  "coupon": "CECILIA10",
+  "affiliate": "bagaggio",
+  "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+  "relatedArticles": [
+    {
+      "slug": "mala-de-bordo-bagaggio-qual-compensa",
+      "title": "Mala de bordo Bagaggio: qual compensa em preço, medida e selo"
+    },
+    {
+      "slug": "conjunto-de-malas-bagaggio-compensa",
+      "title": "Conjunto de malas Bagaggio compensa? A soma das peças, conta por conta"
+    },
+    {
+      "slug": "mala-policarbonato-ou-abs-bagaggio",
+      "title": "Mala de policarbonato ou ABS na Bagaggio: vale pagar mais?"
+    },
+    {
+      "slug": "black-friday-bagaggio",
+      "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+    }
+  ]
+}
