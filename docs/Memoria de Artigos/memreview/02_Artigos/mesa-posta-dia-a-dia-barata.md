@@ -6,9 +6,9 @@ parceiro: "[[Lets-Eat-It]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao"
+proxima_acao: "reler preços e estoque na Black Friday de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 i18n_cluster: null
@@ -154,3 +154,9 @@ Fatos: `mesa-posta-dia-a-dia-barata-fatos-2910.md`, ao lado.
 2. Pendentes de ficha: os listados em "Pendentes de navegador" do briefing; a sessão de artigos confere no Chrome antes de publicar e, sem confirmação, não afirma. Reler preço e disponibilidade (`available`) no dia.
 3. Objetivo (Bruno, 29/10): trazer comprador novo pela busca ampla de mesa posta. Título sem o nome da loja; a resposta serve a quem nunca ouviu falar dela, e a Let's Eat It entra como onde comprar as peças. Base: os mais vendidos pelo link do Bruno no 1º período (guardanapo Poá Terracota 10, jogo americano Limone Tuut 8, taça Sphere âmbar 4). Ninguém do site usou as peças. Sem "revenda oficial" de nenhuma marca.
 4. Recomendações aceitas: dois níveis de preço; taça fora da conta; custo por lugar do faqueiro de 12 peças para 2 pessoas, publicado. Ajuste do Claude: R$ 415 para 2 pessoas não é "barata"; o texto abre pela ordem de compra, com o tecido primeiro (jogo americano + guardanapo, a parte mais barata por lugar e a que mais vende), depois talheres e pratos, e o título evita prometer "barato" (ex.: "o que comprar por peça e em que ordem"). O slug pode mudar na redação.
+
+## Publicação (30/10/2026)
+- No ar em 30/10/2026 00:45 UTC: PR #359, release `58678313`, id 713 (PT), `/reviews/mesa-posta-dia-a-dia-o-que-comprar`.
+- Preços do cartão e estoque relidos em 29/10/2026; MAUAD e Pix numa frase, sem destaque; links de produto com a UTM da parceria.
+- Slug publicado: `mesa-posta-dia-a-dia-o-que-comprar` (sem "barata"). Ordem de compra: guardanapo, jogo americano, faqueiro La Maison 12 peças Marfim (R$ 199,00), pratos; faixas de R$ 414,80/R$ 524,10 (2 pessoas) e R$ 630,60/R$ 849,20 (4). O texto não diz que o tecido é a parte mais barata por lugar (os números não sustentam). Imagens: capa e 5 fotos das fichas.
+- Pendente: reler preços e estoque na Black Friday de 2026.

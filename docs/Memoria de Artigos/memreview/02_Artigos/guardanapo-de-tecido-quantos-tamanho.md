@@ -6,9 +6,9 @@ parceiro: "[[Lets-Eat-It]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao"
+proxima_acao: "reler preços e estoque na Black Friday de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 i18n_cluster: null
@@ -149,3 +149,9 @@ Fatos: `guardanapo-de-tecido-quantos-tamanho-fatos-2910.md`, ao lado.
 2. Pendentes de ficha: os listados em "Pendentes de navegador" do briefing; a sessão de artigos confere no Chrome antes de publicar e, sem confirmação, não afirma. Reler preço e disponibilidade (`available`) no dia.
 3. Objetivo (Bruno, 29/10): trazer comprador novo pela busca ampla de mesa posta. Título sem o nome da loja; a resposta serve a quem nunca ouviu falar dela, e a Let's Eat It entra como onde comprar as peças. Base: os mais vendidos pelo link do Bruno no 1º período (guardanapo Poá Terracota 10, jogo americano Limone Tuut 8, taça Sphere âmbar 4). Ninguém do site usou as peças. Sem "revenda oficial" de nenhuma marca.
 4. Recomendações aceitas: 1 por pessoa mais 1 de reserva por mesa, como conta nossa marcada; medida por tipo de mesa como conta nossa; festa de 50 a 100 pessoas fora. Unidade ou pacote: só afirma depois de conferir na ficha (Poá, Oliva, Duplo Bege, Ajour).
+
+## Publicação (30/10/2026)
+- No ar em 30/10/2026 00:45 UTC: PR #359, release `58678313`, id 714 (PT), `/reviews/guardanapo-de-tecido-quantos-tamanho`.
+- Preços do cartão e estoque relidos em 29/10/2026; MAUAD e Pix numa frase, sem destaque; links de produto com a UTM da parceria.
+- Chrome, 29/10: nenhuma ficha traz "Contém"; três das quatro descrevem o guardanapo como "uma peça" (o Ajour Abelha não); a conta assume um por página, marcada como conta nossa. Poá Terracota: R$ 56,00 no cartão e R$ 53,20 no Pix; a tag outlet não muda o preço. Imagens: capa e 4 fotos das fichas.
+- Pendente: reler preços e estoque na Black Friday de 2026.

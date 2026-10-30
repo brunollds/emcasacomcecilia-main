@@ -6,9 +6,9 @@ parceiro: "[[Lets-Eat-It]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao"
+proxima_acao: "reler preços e estoque na Black Friday de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 i18n_cluster: null
@@ -129,3 +129,9 @@ Fatos: `faqueiro-laguiole-la-maison-qual-escolher-fatos-2910.md`, ao lado.
 1. Links (Bruno, 29/10): cada produto citado leva o link da ficha com a UTM da parceria (`utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico`), como já está no fatos; nas tabelas, o nome do produto na 1ª célula vira esse link. Tabela com o preço do cartão; MAUAD e Pix numa frase (o MAUAD soma com o Pix 5%, teste do Bruno; conta com Pix marcada como "conta nossa", com data). MAUAD nunca em destaque.
 2. Pendentes de ficha: os listados em "Pendentes de navegador" do briefing; a sessão de artigos confere no Chrome antes de publicar e, sem confirmação, não afirma. Reler preço e disponibilidade (`available`) no dia.
 3. Recomendações do briefing aceitas: a La Maison sem "Laguiole" na ficha (12, 24 e 36 peças) só numa nota no fim; Wolff (L6) segue separado no estoque; origem só como "a ficha diz" ("design de artesãos franceses"), sem "original"; lava-louças e garantia: "a ficha não diz". Correção no mesmo PR: `mesa-posta-natal-o-que-precisa-quanto-custa` e `presente-de-casamento-ideias-por-preco` linkam o Marfim 30, esgotado em 29/10: trocar pelo Verde ou pelo Branco disponível no dia.
+
+## Publicação (30/10/2026)
+- No ar em 30/10/2026 00:45 UTC: PR #359, release `58678313`, id 712 (PT), `/reviews/faqueiro-laguiole-la-maison-qual-escolher`.
+- Preços do cartão e estoque relidos em 29/10/2026; MAUAD e Pix numa frase, sem destaque; links de produto com a UTM da parceria.
+- Tabela com 12, 18, 30 Branco e 30 Verde; Laranja e Bordeaux 30 em frase; a La Maison sem "Laguiole" (12, 24 e 36 peças) só numa nota. Lava-louças, garantia e fabricação: "a ficha não diz". No mesmo PR, o Marfim 30 esgotado virou o Verde 30 (R$ 1.099,00) em `mesa-posta-natal-o-que-precisa-quanto-custa` e `presente-de-casamento-ideias-por-preco`. Imagens: capa e 5 fotos das fichas (não há foto de fundo branco do faqueiro).
+- Pendente: reler preços e estoque na Black Friday de 2026.
