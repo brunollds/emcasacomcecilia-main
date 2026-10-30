@@ -6,9 +6,9 @@ parceiro: "[[Skelt]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Promoção"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "em 31/10/2026: título e resposta rápida com promoção encerrada; tirar a campanha do storeBanners.ts"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 modo_i18n: "somente-pt"
@@ -68,3 +68,9 @@ O banner de campanha atual (`src/lib/storeBanners.ts`) não cita o código da lo
 2. Faixa de R$ 219 e R$ 249: o Bruno imagina que seja antes do cupom, mas o e-mail não diz. O texto não afirma; usa o conselho de folga com as contas da seção 3.
 3. Banner: a regra feita na SHEIN (banner sem código, link para a loja) não serve aqui, porque a promoção só vale com o cupom. O banner só entra se levar ao artigo (seção 5).
 4. Links de produto com a UTM da parceria: `https://www.skelt.com.br/<produto>/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz`.
+
+## Publicação (30/10/2026)
+- No ar em 30/10/2026 01:25 UTC (29/10, 22h25 em Brasília): PR #362, release `27149b3e`, id 716 (PT).
+- O texto não diz se a faixa conta antes ou depois do cupom; usa o conselho de folga e as contas da seção 3, marcadas como conta nossa. Preços relidos em 29/10: Body Cream Unexpected Day R$ 99,90; a loja vende o Kit Miniaturas Trends Set por R$ 99,90. Aviso do Kit Radiante (R$ 252,20 no cartão, R$ 226,98 com o cupom, abaixo de R$ 249). Três pedidos de R$ 294,86 a R$ 298,01. Imagens: capa e 6 fotos das fichas.
+- Banner `skelt-brinde-30-10` (`src/lib/storeBanners.ts`): 30/10 00:00 a 23:59, link interno para o artigo, sem sponsored, sem o código e fora do próprio artigo. Como o deploy saiu antes da meia-noite, o banner vai no payload e o navegador o mostra a partir das 00:00 (`CampaignWindow`). Revisado pela sessão "Redesenho do site".
+- Pendente em 31/10/2026: "promoção encerrada" no título e na resposta rápida (sem apagar) e tirar a campanha do `storeBanners.ts`. Follow-up: o clique no banner mede `outbound_link_click`; separar num evento interno.
