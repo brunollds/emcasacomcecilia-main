@@ -1,0 +1,240 @@
+{
+  "id": 732,
+  "slug": "scegliere-hosting-hostinger",
+  "locale": "it",
+  "translationKey": "hostinger-ou-hostgator",
+  "hideFromPortugueseListings": true,
+  "title": "Hosting per un sito: quale conviene, guardando il rinnovo?",
+  "seoTitle": "Hosting per un sito: quale conviene? Prezzo e rinnovo",
+  "type": "Guida alla scelta",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redazione e analisi",
+      "initials": "BL"
+    }
+  ],
+  "description": "Come scegliere l'hosting per un sito: il rinnovo pesa più dello sconto del primo periodo. Prezzi Hostinger del 30/10/2026 in dollari, al mese e con il rinnovo accanto.",
+  "metaDescription": "Come scegliere l'hosting per un sito: piani, rinnovo e durata dello sconto. Prezzi Hostinger in dollari al 30/10/2026, per mese, con spazio, backup, server nel paese e VPS.",
+  "publishedAt": "30 ottobre 2026",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+  "imageAlt": "Due icone di server affiancate, con il logo di Hostinger e la parola Hosting nella fascia",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Risposta rapida",
+      "paragraphs": [
+        "Per scegliere l'hosting di un sito non conta solo il prezzo del primo periodo: conta il mese dopo lo sconto. Nella pagina internazionale di Hostinger, letta il 30/10/2026, il piano Premium, per fino a 3 siti, parte da US$ 2,49 al mese in promozione e passa a US$ 10,99 al rinnovo. Quale piano va bene dipende da quanti siti hai, da quanto spazio ti serve e da quanto ti importa sapere dove si trova il server. Il quadro qui sotto riassume i quattro criteri, poi vengono i prezzi."
+      ]
+    },
+    {
+      "heading": "I quattro criteri che decidono",
+      "paragraphs": [
+        "Quasi tutte le pagine vendono il primo periodo con uno sconto grande, ed è lì che il confronto di solito sbaglia. Quello che pesa sul conto è il mese dopo la promozione. Prima dei prezzi, i quattro criteri che usiamo per confrontare:"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-it.webp",
+        "alt": "Quadro con quattro criteri per scegliere l'hosting: rinnovo, quanto costa il mese dopo il primo periodo; durata, per quanti mesi vale lo sconto; server nel paese, se la pagina dice dove si trova il server; e VPS, se serve una risorsa garantita",
+        "caption": "I quattro criteri: rinnovo, durata, server nel paese e VPS. Quadro di Em Casa com Cecília.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4516
+      },
+      "bullets": [
+        "**Rinnovo.** Ogni piano mostra il prezzo che vale dopo il primo periodo, sulla card o nel carrello. Confronta quel numero, non quello promozionale.",
+        "**Durata.** Lo sconto della Hostinger vale per 48 mesi sul piano di hosting che abbiamo letto. Piani con durate diverse non si confrontano sul totale: si divide per mese.",
+        "**Server nel paese.** Le pagine dei piani Hostinger che abbiamo letto non dicono dove si trova il server. Se per te conta, chiedilo al supporto prima di pagare.",
+        "**VPS.** Se il sito ha bisogno di processore e memoria garantiti, il confronto è un altro, più in basso."
+      ]
+    },
+    {
+      "heading": "Prezzi Hostinger al 30/10/2026",
+      "paragraphs": [
+        "Hosting per siti sul sito internazionale della Hostinger, in dollari, con il piano di 48 mesi pagato in una volta:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Piano",
+          "Promozionale",
+          "Totale in 48 mesi",
+          "Rinnovo",
+          "Siti",
+          "Spazio"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 2,49/mese",
+            "US$ 119,52",
+            "US$ 10,99/mese",
+            "3",
+            "20 GB SSD"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 3,49/mese",
+            "US$ 167,52",
+            "US$ 16,99/mese",
+            "Illimitati",
+            "50 GB NVMe"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 7,99/mese",
+            "US$ 383,52",
+            "US$ 25,99/mese",
+            "Illimitati",
+            "100 GB NVMe"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Prezzi senza il SONAR20. Il rinnovo costa da 3 a 5 volte la promozione. Il Premium ha il backup settimanale; l'Unlimited, quello giornaliero. Sono i prezzi del sito internazionale in dollari, letti il 30/10/2026: possono cambiare per paese e valuta."
+      ]
+    },
+    {
+      "heading": "Come leggere il prezzo di qualsiasi hosting",
+      "paragraphs": [
+        "Tre numeri fanno la differenza, e valgono per ogni marca, non solo per la Hostinger:"
+      ],
+      "bullets": [
+        "**Il prezzo dopo la promozione.** È quello che paghi dal secondo periodo in poi. Se la pagina non lo mostra in modo chiaro, cercalo nel carrello prima di decidere.",
+        "**Il prezzo barrato.** Il prezzo scritto accanto a quello scontato non è il rinnovo: usa il valore che la pagina dice valere dopo il primo periodo.",
+        "**La durata dello sconto.** Un piano di 48 mesi e uno di 36 non si confrontano sul totale. Il totale del primo ciclo inganna: dividi per mese e metti il rinnovo accanto."
+      ]
+    },
+    {
+      "heading": "Quale piano per quanti siti",
+      "paragraphs": [
+        "I piani non si incontrano uno a uno. Per numero di siti, ecco i piani Hostinger che abbiamo letto:"
+      ],
+      "bullets": [
+        "**Fino a 3 siti:** Premium. Ha 20 GB SSD e backup settimanale, ed è il piano di ingresso della pagina internazionale di hosting.",
+        "**Siti illimitati:** Unlimited. Ha 50 GB NVMe e backup giornaliero.",
+        "**Il piano più alto:** Cloud Startup, con 100 GB NVMe. Ha senso solo se ti serve quello che offre in più; per molti siti comuni l'Unlimited spesso basta."
+      ],
+      "emphasis": "La promozione dura 48 mesi nella pagina che abbiamo letto. Per questo il totale del primo ciclo inganna: confronta il prezzo al mese, con il rinnovo accanto."
+    },
+    {
+      "heading": "Quello che il prezzo non mostra",
+      "bullets": [
+        "**Spazio.** Il Premium ha 20 GB SSD. L'Unlimited e il Cloud Startup passano a NVMe, con 50 GB e 100 GB.",
+        "**Backup.** Il Premium ha il backup settimanale, l'Unlimited quello giornaliero. Se perdere una settimana di modifiche ti pesa, conta più del prezzo.",
+        "**Rimborso.** Prima di pagare, controlla nel carrello fino a quando puoi chiedere il rimborso e come viene restituito. Come la Hostinger addebita, rinnova e rimborsa è spiegato in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile).",
+        "**Regali con scadenza.** Se la pagina nomina un dominio gratis, e-mail o altri vantaggi, di solito hanno un termine. Controlla nel carrello fino a quando valgono, prima di contarci per il rinnovo."
+      ]
+    },
+    {
+      "heading": "E se serve un VPS?",
+      "paragraphs": [
+        "Se non sai ancora se ti serve un VPS o un hosting condiviso, parti da [VPS o hosting condiviso: quale scegliere](/it/reviews/vps-o-hosting-condiviso). Per chi ha già deciso per il VPS, ecco i due piani di ingresso sul sito internazionale:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Piano",
+          "vCPU",
+          "Memoria",
+          "NVMe",
+          "Promozionale",
+          "Rinnovo"
+        ],
+        "rows": [
+          [
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mesi)",
+            "1",
+            "4 GB",
+            "50 GB",
+            "US$ 6,49/mese",
+            "US$ 11,99/mese"
+          ],
+          [
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mesi)",
+            "2",
+            "8 GB",
+            "100 GB",
+            "US$ 8,79/mese",
+            "US$ 14,99/mese"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "I prezzi sono quelli del sito internazionale, letti il 30/10/2026. La pagina ha anche KVM 4 e KVM 8, con più processore e memoria. Prima di firmare un periodo lungo, controlla il rinnovo nel carrello."
+      ]
+    },
+    {
+      "heading": "Coupon SONAR20 con la Hostinger",
+      "paragraphs": [
+        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**. Lo abbiamo provato nel carrello del sito brasiliano su tre prodotti: il piano Startup di e-commerce, del costruttore di negozi, il 29 ottobre 2026, e l'e-mail professionale e il Reach, il 30 ottobre 2026. Sui piani di hosting di questa tabella e sul VPS non l'abbiamo testato; controlla nel carrello. Non abbiamo testato il rinnovo. La regola completa è nella pagina dei [coupon Hostinger](/it/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Quale scegliere: il verdetto",
+      "paragraphs": [
+        "**Scegli il Premium** per fino a tre siti, come blog, portfolio o pagina aziendale: è il piano di ingresso della pagina internazionale, con 20 GB SSD e backup settimanale. Se ti servono siti illimitati e backup giornaliero, guarda l'**Unlimited**. Il Cloud Startup, con 100 GB, è per chi ha bisogno di quello che offre in più.",
+        "Se per il tuo sito serve un VPS, il confronto si fa sulle specifiche e sul rinnovo, non sul primo mese.",
+        "**In ogni caso**, guarda la colonna del rinnovo prima di pagare e controlla il valore nel carrello. Le offerte possono cambiare, e il prezzo varia per paese e valuta."
+      ]
+    },
+    {
+      "heading": "Domande frequenti",
+      "bullets": [
+        "Qual è il piano più economico per un sito solo? Il Premium, che copre fino a 3 siti: US$ 2,49 al mese in promozione e US$ 10,99 al rinnovo, su 48 mesi.",
+        "Come confronto il rinnovo di due hosting? Guarda il prezzo al mese dopo il primo periodo, e confronta piani dello stesso tipo: condiviso con condiviso, VPS con VPS. Il totale del primo ciclo non serve, perché le durate cambiano.",
+        "La Hostinger ha server nel paese? Le pagine dei piani che abbiamo letto il 30/10/2026 non dicono dove si trova il server. Chiedilo al supporto prima di pagare.",
+        "Il coupon SONAR20 vale sul VPS? Non l'abbiamo testato sul VPS: controlla nel carrello. Abbiamo provato il piano Startup di e-commerce il 29 ottobre 2026 nel sito brasiliano, e lo sconto è del 20% sul primo periodo.",
+        "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo. Fai il passaggio prima che scada il piano vecchio."
+      ]
+    },
+    {
+      "heading": "Chi scrive",
+      "paragraphs": [
+        "Il sito Em Casa com Cecília gira sull'hosting gestito della Hostinger, e il dominio è registrato presso la Hostinger dal 17/11/2024. Nessuno del team ha esperienza con altri hosting per questo articolo: il testo riunisce i criteri di scelta e quello che la Hostinger dice nelle sue pagine, lette il 30/10/2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+    "label": "Vedi i piani di hosting con il SONAR20",
+    "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team ha usato un altro hosting per questo articolo.",
+  "relatedArticles": [
+    {
+      "slug": "vps-o-hosting-condiviso",
+      "title": "VPS o hosting condiviso: quale conviene per il tuo sito su Hostinger"
+    },
+    {
+      "slug": "hostinger-e-affidabile",
+      "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+    },
+    {
+      "slug": "coupon-hostinger-codice-invito",
+      "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+    }
+  ]
+}

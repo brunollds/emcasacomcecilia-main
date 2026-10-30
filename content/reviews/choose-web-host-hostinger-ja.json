@@ -1,0 +1,240 @@
+{
+  "id": 734,
+  "slug": "choose-web-host-hostinger-ja",
+  "locale": "ja",
+  "translationKey": "hostinger-ou-hostgator",
+  "hideFromPortugueseListings": true,
+  "title": "サイトのレンタルサーバー、どれが得？ 割引ではなく更新料で比べる",
+  "seoTitle": "レンタルサーバーの選び方：更新料と月額で比較",
+  "type": "選び方ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編集・分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "サイト用のレンタルサーバーを選ぶなら、初回割引より更新料が大事です。2026年10月30日時点のHostingerの料金を、米ドルの月額と更新料で掲載しています。",
+  "metaDescription": "サイト用のレンタルサーバーの選び方。2026年10月30日時点のHostinger（米ドル）の料金を、月額と更新料、容量、バックアップ、国内サーバー、VPSとともに整理。",
+  "publishedAt": "2026年10月30日",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+  "imageAlt": "並んだ2つのサーバーのアイコン、帯に Hostinger のロゴと Hosting の文字",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "クイックアンサー",
+      "paragraphs": [
+        "レンタルサーバーは、最初の期間の料金だけでは選べません。払い続けることになるのは、割引が終わったあとの月額です。2026年10月30日に確認したHostingerの国際サイト（米ドル建て）では、3サイトまで使えるPremiumが、キャンペーン中は月額US$2.49、更新後は月額US$10.99です。どのプランが合うかは、サイト数、必要な容量、サーバーの場所をどこまで気にするかで決まります。下の図で4つの基準を整理し、そのあとに料金を並べます。"
+      ]
+    },
+    {
+      "heading": "決め手になる4つの基準",
+      "paragraphs": [
+        "どのページも最初の期間を大きく割り引いて見せるので、比べ方を間違えやすいところです。財布に響くのは、割引が終わった翌月の料金です。料金を見る前に、比べるときに使う4つの基準を挙げます。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-ja.webp",
+        "alt": "レンタルサーバーを選ぶ4つの基準の図：更新料、割引のあとの月額；契約期間、割引が何か月続くか；国内サーバー、ページにサーバーの場所があるか；VPS、保証された性能が必要か",
+        "caption": "4つの基準：更新料、契約期間、国内サーバー、VPS。Em Casa com Cecíliaの図です。",
+        "objectFit": "contain",
+        "aspectRatio": 1.4516
+      },
+      "bullets": [
+        "**更新料。** どのプランも、カードかカートに最初の期間のあとの料金が出ています。割引価格ではなく、その数字を比べてください。",
+        "**契約期間。** 今回確認したHostingerのホスティングプランでは、割引は48か月の契約に付いています。期間の違うプランは総額では比べられないので、月額に割ってください。",
+        "**国内サーバー。** 今回確認したHostingerのプランのページには、サーバーの場所が書かれていませんでした。大事なら、支払う前にサポートに聞いてください。",
+        "**VPS。** 処理能力とメモリを確実に使いたいなら、比べ方が変わります。それは後ほど説明します。"
+      ]
+    },
+    {
+      "heading": "Hostingerの料金（2026年10月30日時点）",
+      "paragraphs": [
+        "Hostingerの国際サイトにある、サイト用ホスティングの料金です。米ドル建てで、48か月プランを一括で払う場合の金額を載せています。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "プラン",
+          "割引価格",
+          "48か月の総額",
+          "更新料",
+          "サイト数",
+          "容量"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$2.49/月",
+            "US$119.52",
+            "US$10.99/月",
+            "3",
+            "20 GB SSD"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$3.49/月",
+            "US$167.52",
+            "US$16.99/月",
+            "無制限",
+            "50 GB NVMe"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$7.99/月",
+            "US$383.52",
+            "US$25.99/月",
+            "無制限",
+            "100 GB NVMe"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "SONAR20を使わない場合の料金です。更新料は割引価格の3〜5倍になります。Premiumは毎週のバックアップ、Unlimitedは毎日のバックアップです。これは米ドル建ての国際サイトの料金で、2026年10月30日に確認しました。国や通貨によって変わることがあります。"
+      ]
+    },
+    {
+      "heading": "どのレンタルサーバーでも使える料金の読み方",
+      "paragraphs": [
+        "次の3つは、Hostingerに限らず、どの会社にも当てはまります。"
+      ],
+      "bullets": [
+        "**割引後の料金。** 2回目以降に払う金額です。ページで分かりにくければ、決める前にカートで確認してください。",
+        "**取り消し線の料金。** 割引価格の横にある元の料金は、更新料ではありません。割引後の期間について書かれた金額を使ってください。",
+        "**割引の期間。** 48か月と36か月のプランは、総額では比べられません。最初の期間の総額は誤解を招きます。月額に割り、更新料を並べてください。"
+      ]
+    },
+    {
+      "heading": "サイト数で選ぶプラン",
+      "paragraphs": [
+        "プランは一対一で対応させて比べられるものではありません。サイト数で見ると、今回確認したHostingerのプランは次のとおりです。"
+      ],
+      "bullets": [
+        "**3サイトまで:** Premium。20 GB SSDと毎週のバックアップがあり、国際サイトのホスティングの入門プランです。",
+        "**サイト数が無制限:** Unlimited。50 GB NVMeと毎日のバックアップがあります。",
+        "**一番上のプラン:** Cloud Startup。100 GB NVMeです。追加の機能が必要な場合にだけ意味があります。よくある個人サイトなら、Unlimitedで足りることが多いです。"
+      ],
+      "emphasis": "今回確認したページでは、割引は48か月です。そのため、最初のサイクルの総額は誤解を招きます。月額で比べ、更新料を並べて見てください。"
+    },
+    {
+      "heading": "料金からは分からないこと",
+      "bullets": [
+        "**容量。** Premiumは20 GB SSDです。UnlimitedとCloud StartupはNVMeで、それぞれ50 GBと100 GBです。",
+        "**バックアップ。** Premiumは毎週、Unlimitedは毎日です。1週間分の更新を失うと困るなら、料金より大事になります。",
+        "**返金。** 購入前に、返金を申し出られる期間と返金の方法をカートで確認してください。Hostingerの請求、更新、返金については、[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)にまとめています。",
+        "**期間付きの特典。** ページに無料ドメインやメールなどの特典があれば、たいてい期限があります。更新を前提にする前に、カートでいつまで有効か確認してください。"
+      ]
+    },
+    {
+      "heading": "VPSの場合は？",
+      "paragraphs": [
+        "VPSと共用ホスティングのどちらが必要か、まだ分からなければ、[VPSか共有ホスティングか](/ja/reviews/vps-or-shared-hosting-ja)から読んでください。VPSに決めた人のために、国際サイトの入門プラン2つを並べます。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "プラン",
+          "vCPU",
+          "メモリ",
+          "NVMe",
+          "割引価格",
+          "更新料"
+        ],
+        "rows": [
+          [
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)（24か月）",
+            "1",
+            "4 GB",
+            "50 GB",
+            "US$6.49/月",
+            "US$11.99/月"
+          ],
+          [
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)（24か月）",
+            "2",
+            "8 GB",
+            "100 GB",
+            "US$8.79/月",
+            "US$14.99/月"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "料金は2026年10月30日に確認した国際サイトのものです。ページにはKVM 4とKVM 8もあり、処理能力とメモリがさらに多いプランです。長い期間で契約する前に、カートで更新料を確認してください。"
+      ]
+    },
+    {
+      "heading": "HostingerのクーポンSONAR20",
+      "paragraphs": [
+        "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ると、**最初の期間が20%割引**になります。ブラジルのサイトのカートで3つの商品を試しました。ショップ作成ツールのE-commerce向けStartupプランは2026年10月29日、プロ仕様のメールとReachは2026年10月30日です。この表のホスティングプランとVPSは試していません。カートで確認してください。更新料も試していません。ルールの詳細は[Hostingerのクーポン](/ja/coupons/hostinger)にあります。"
+      ]
+    },
+    {
+      "heading": "結論：どれを選ぶか",
+      "paragraphs": [
+        "**3サイトまでならPremium**がおすすめです。ブログ、ポートフォリオ、会社の紹介ページなどに向いています。国際サイトの入門プランで、20 GB SSDと毎週のバックアップがあります。サイト数が無制限で毎日のバックアップが必要なら、**Unlimited**を見てください。100 GBのCloud Startupは、その追加機能が必要な人向けです。",
+        "VPSが必要なサイトなら、比べるのは最初の月ではなく、性能と更新料です。",
+        "**どの場合も**、支払う前に更新料の欄を見て、カートで金額を確認してください。キャンペーンは変わることがあり、料金は国や通貨によって違います。"
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "一つのサイトなら、いちばん安いのはどれ？ 3サイトまで使えるPremiumです。キャンペーン中は月額US$2.49、更新後はUS$10.99で、期間は48か月です。",
+        "二つのレンタルサーバーの更新料は、どう比べればいい？ 最初の期間のあとの月額を見て、同じ種類どうし（共用同士、VPS同士）で比べてください。期間が違うので、最初のサイクルの総額は使えません。",
+        "Hostingerには国内サーバーがありますか？ 2026年10月30日に確認したプランのページには、サーバーの場所が書かれていませんでした。支払う前にサポートに聞いてください。",
+        "SONAR20はVPSでも使えますか？ VPSでは試していません。カートで確認してください。ブラジルのサイトで2026年10月29日にStartupプラン（E-commerce向け）を試しました。割引は最初の期間の20%です。",
+        "サイトを消さずにサーバーを移せますか？ はい。ファイルとデータベースを新しいサーバーに移せば可能です。古いプランの期限が切れる前に移してください。"
+      ]
+    },
+    {
+      "heading": "執筆者",
+      "paragraphs": [
+        "Em Casa com Cecíliaは、Hostingerのマネージドホスティングで運営しています。ドメインは2024年11月17日からHostingerに登録しています。チームには、この記事のために他のレンタルサーバーを使った人はいません。この記事は、選び方の基準と、2026年10月30日に確認したHostingerのページの内容をまとめたものです。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新料は確認していません。カートで料金を確かめてください。",
+    "label": "SONAR20で料金プランを見る",
+    "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "SONAR20のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も、この記事のために別のレンタルサーバーは使っていません。",
+  "relatedArticles": [
+    {
+      "slug": "vps-or-shared-hosting-ja",
+      "title": "VPS か共有ホスティングか：Hostinger であなたのサイトに合うのはどちら"
+    },
+    {
+      "slug": "hostinger-trust-guide-ja",
+      "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+    },
+    {
+      "slug": "hostinger-referral-code-ja",
+      "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+    }
+  ]
+}

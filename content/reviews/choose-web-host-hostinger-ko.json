@@ -1,0 +1,235 @@
+{
+  "id": 735,
+  "slug": "choose-web-host-hostinger-ko",
+  "locale": "ko",
+  "translationKey": "hostinger-ou-hostgator",
+  "title": "호스팅어와 다른 호스팅 중 어느 쪽이 나을까? 웹사이트 가격과 기준",
+  "seoTitle": "호스팅어와 다른 호스팅 비교: 가격과 갱신 기준",
+  "type": "선택 가이드",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "편집 및 분석",
+      "initials": "BL"
+    }
+  ],
+  "description": "호스팅어와 다른 호스팅 중 고르는 법. 2026년 10월 30일 기준 호스팅어 국제 사이트의 프로모션 가격과 갱신가를 월 단위로 비교합니다.",
+  "metaDescription": "호스팅어 가격과 갱신가를 2026년 10월 30일 기준으로 정리했습니다. 프로모션 기간, 백업, 서버 위치, VPS를 월 단위로 비교하는 방법을 소개합니다.",
+  "publishedAt": "2026년 10월 30일",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+  "imageAlt": "나란히 놓인 서버 아이콘 두 개와 띠에 적힌 호스팅어 로고, Hosting",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "빠른 답변",
+      "paragraphs": [
+        "2026년 10월 30일 호스팅어 국제 사이트에서 Premium 플랜의 프로모션 가격은 월 US$ 2.49이고, 갱신가는 월 US$ 10.99입니다. 다른 호스팅과 비교할 때는 첫 기간 가격이 아니라 갱신가를 월 단위로 나란히 놓으세요. 사이트가 하나라면 Premium으로 충분한 경우가 많고, 사이트가 여러 개이거나 공간이 더 필요하면 Unlimited를 봅니다."
+      ]
+    },
+    {
+      "heading": "네 가지 기준이 결정합니다",
+      "paragraphs": [
+        "프로모션 기간이 긴 호스팅은 처음 몇 달이 싸 보이기 쉽습니다. 실제로 돈이 빠져나가는 것은 프로모션이 끝난 뒤의 매달입니다. 가격을 보기 전에 아래 네 가지를 확인하세요."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-ko.webp",
+        "alt": "프로모션 전에 볼 네 가지 기준을 정리한 표: 갱신가, 약정 기간, 서버 위치, VPS. 각 기준마다 무엇을 확인할지 적혀 있습니다",
+        "caption": "네 가지 기준: 갱신가, 약정 기간, 서버 위치, VPS. Em Casa com Cecília가 만든 표입니다.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4516
+      },
+      "bullets": [
+        "**갱신가.** 호스팅어는 플랜 카드에 갱신가를 보여줍니다. 카드에 할인율만 있는 곳이라면 정가표를 찾아 같은 기간의 가격을 비교하세요.",
+        "**약정 기간.** 호스팅어의 프로모션 가격은 48개월 플랜 기준입니다. 기간이 다른 프로모션의 총액과 직접 비교하면 틀립니다. 월 단위로 나누세요.",
+        "**서버 위치.** 플랜 페이지에 서버가 어느 나라에 있는지 적혀 있는지 확인하세요. 없다면 결제 전에 고객 지원에 물어보세요.",
+        "**VPS.** 처리 능력과 메모리를 보장받아야 한다면 비교 기준이 달라집니다. 아래 VPS 절을 보세요."
+      ]
+    },
+    {
+      "heading": "2026년 10월 30일 호스팅어 가격",
+      "paragraphs": [
+        "웹 호스팅 플랜, 국제 사이트, 48개월 기준입니다. 가격은 미국 달러로 표시된 호스팅어 국제 사이트에서 읽은 것이며, 국가와 통화에 따라 다를 수 있습니다. 호스팅어는 블랙프라이데이 캠페인을 진행 중이라 가격이 바뀔 수 있습니다."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "플랜",
+          "프로모션",
+          "48개월 총액",
+          "갱신가",
+          "사이트",
+          "저장 공간"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 2.49/월",
+            "US$ 119.52",
+            "US$ 10.99/월",
+            "3",
+            "20 GB SSD"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 3.49/월",
+            "US$ 167.52",
+            "US$ 16.99/월",
+            "무제한",
+            "50 GB NVMe"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 7.99/월",
+            "US$ 383.52",
+            "US$ 25.99/월",
+            "무제한",
+            "100 GB NVMe"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "위 가격은 SONAR20을 적용하지 않은 것입니다. 갱신가는 프로모션 가격의 약 3배에서 5배입니다. Premium은 주간 백업, Unlimited와 Cloud Startup은 일일 백업이 있습니다."
+      ]
+    },
+    {
+      "heading": "다른 호스팅의 가격을 읽는 법",
+      "paragraphs": [
+        "다른 호스팅의 가격을 볼 때도 같은 순서로 확인하세요. 아래 네 가지를 지키면 어느 회사를 보든 같은 기준으로 비교할 수 있습니다."
+      ],
+      "bullets": [
+        "**프로모션이 아닌 정가.** '이전 가격'이나 '% 할인' 표시는 갱신가가 아닙니다. 보통 이전 가격이 정가보다 높습니다. 정가표나 갱신 조건을 찾으세요.",
+        "**같은 기간끼리.** 36개월 총액과 48개월 총액은 비교할 수 없습니다. 둘 다 월 단위로 바꾸세요.",
+        "**같은 조건끼리.** 저장 공간, 백업, 사이트 수가 같은 플랜끼리 나란히 놓으세요.",
+        "**기간이 정해진 혜택.** 무료 도메인, 무료 이메일, 무료 이전이 얼마 동안 유효한지 보세요. 이런 혜택은 플랜이 끝나기 전에 끝날 수 있습니다."
+      ]
+    },
+    {
+      "heading": "사이트 수와 프로젝트 크기로 보기",
+      "bullets": [
+        "**사이트 하나.** 호스팅어 국제 사이트에서 가장 낮은 가격의 플랜은 Premium입니다. 사이트 3개까지, 20 GB SSD입니다. 갱신가는 월 US$ 10.99입니다. 블로그, 포트폴리오, 회사 소개 페이지라면 이 플랜부터 보세요.",
+        "**여러 사이트.** Unlimited는 사이트 수가 무제한이고 50 GB NVMe입니다. 갱신가는 월 US$ 16.99입니다. 사이트가 여러 개라면 사이트당 비용을 계산해 보세요.",
+        "**가장 높은 플랜.** Cloud Startup은 사이트 무제한, 100 GB NVMe, 일일 백업과 요청할 때 하는 백업이 있습니다. 갱신가는 월 US$ 25.99입니다. 더 많은 자원이 실제로 필요할 때만 의미가 있습니다."
+      ],
+      "emphasis": "프로모션이 48개월이면 첫 주기의 총액이 실제 비용을 가립니다. 월 가격과 갱신가를 함께 보세요."
+    },
+    {
+      "heading": "가격에 안 보이는 것",
+      "bullets": [
+        "**공간.** Premium은 SSD 20 GB, Unlimited는 NVMe 50 GB, Cloud Startup은 NVMe 100 GB입니다. 사진과 영상이 많은 사이트라면 공간을 먼저 계산하세요.",
+        "**백업.** Premium은 주간 백업, Unlimited와 Cloud Startup은 일일 백업입니다. 백업 주기가 중요하다면 Premium에서 멈추지 마세요.",
+        "**서버 위치.** 플랜 페이지에서 서버 위치를 찾지 못했다면 결제 전에 고객 지원에 물어보세요. 방문자가 있는 나라와 가까운지가 중요하다면 이 질문이 특히 중요합니다.",
+        "**방문자 상한.** 플랜마다 월 방문자 상한이 있는지 플랜 설명에서 확인하세요. 상한에 가까운 사이트라면 한 단계 위의 플랜을 보세요.",
+        "**혜택의 기간.** 무료 도메인이나 이메일을 얼마 동안 주는지 주문 화면에서 확인하세요. 기간이 정해진 혜택은 플랜이 끝나기 전에 끝날 수 있습니다.",
+        "**환불.** 환불 조건은 결제 전에 읽으세요. 호스팅어의 회사, 환불, 갱신에 관한 정보는 [호스팅어는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에서 정리했습니다."
+      ]
+    },
+    {
+      "heading": "VPS라면?",
+      "paragraphs": [
+        "VPS가 필요한지, 공유 호스팅으로 충분한지 아직 모르겠다면 먼저 [VPS와 공유 호스팅: 어느 쪽을 고를까](/ko/reviews/vps-or-shared-hosting-ko)를 읽으세요. 이미 VPS로 정했다면 호스팅어의 입문 플랜을 나란히 보세요."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "플랜",
+          "프로모션 (24개월)",
+          "24개월 총액",
+          "갱신가"
+        ],
+        "rows": [
+          [
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 6.49/월",
+            "US$ 155.76",
+            "US$ 11.99/월"
+          ],
+          [
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 8.79/월",
+            "US$ 210.96",
+            "US$ 14.99/월"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "SONAR20은 VPS에서 테스트하지 않았습니다. 카트에서 확인하세요. vCPU, 메모리, 디스크는 플랜 페이지에서 확인하세요. 이 표에는 2026년 10월 30일에 읽은 가격만 넣었습니다. 긴 기간으로 결제하기 전에, 같은 vCPU와 메모리를 가진 다른 호스팅의 가격과 비교하세요."
+      ]
+    },
+    {
+      "heading": "SONAR20 쿠폰",
+      "paragraphs": [
+        "카트의 쿠폰 칸에 **SONAR20**을 입력하거나 이 글의 링크로 들어가세요. 첫 기간에 20%가 할인됩니다. 브라질 사이트의 카트에서 스토어 빌더의 Startup 이커머스 플랜(2026년 10월 29일), 전문 이메일과 Reach(2026년 10월 30일)로 테스트했습니다. 호스팅 플랜, VPS, 국제 사이트에서는 테스트하지 않았으니 카트에서 확인하세요. 갱신 가격도 테스트하지 않았습니다. 규칙 전체는 [호스팅어 쿠폰](/ko/coupons/hostinger)에 있습니다."
+      ]
+    },
+    {
+      "heading": "어떤 플랜을 고를까: 결론",
+      "paragraphs": [
+        "**사이트 하나**, 예를 들어 블로그, 포트폴리오, 회사 소개 페이지라면 Premium부터 보세요. 우리가 읽은 국제 사이트의 플랜 가운데 프로모션 가격과 갱신가가 모두 가장 낮습니다.",
+        "**사이트가 여러 개**이거나 공간과 일일 백업이 중요하다면 Unlimited를 보세요. 갱신가가 월 US$ 16.99이니, 같은 조건의 다른 호스팅 정가와 나란히 두고 고르세요.",
+        "**어느 경우든** 결제 전에 갱신가를 확인하고, 카트에서 금액을 다시 보세요. 프로모션 기간이 끝나면 금액이 크게 달라집니다."
+      ]
+    },
+    {
+      "heading": "자주 묻는 질문",
+      "bullets": [
+        "호스팅어와 다른 호스팅 중 어느 쪽이 나은가요? 플랜에 따라 다릅니다. 2026년 10월 30일 기준, 사이트 하나라면 Premium의 갱신가(월 US$ 10.99)를, 여러 사이트라면 Unlimited의 갱신가(월 US$ 16.99)를 같은 조건의 정가와 나란히 비교하세요.",
+        "호스팅어 갱신가는 얼마인가요? 국제 사이트 기준으로 Premium은 월 US$ 10.99, Unlimited는 월 US$ 16.99, Cloud Startup은 월 US$ 25.99입니다. 국가와 통화에 따라 다를 수 있으니 결제 전에 카트에서 확인하세요.",
+        "호스팅어 VPS는 얼마인가요? 24개월 기준으로 KVM 1의 프로모션 가격은 월 US$ 6.49부터이고, 갱신가는 US$ 11.99입니다. 사양은 플랜 페이지에서 확인하세요.",
+        "호스팅어 서버는 어느 나라에 있나요? 플랜 페이지에 서버 위치가 적혀 있지 않을 수 있습니다. 결제 전에 고객 지원에 문의하세요.",
+        "SONAR20은 VPS에도 적용되나요? 이 글에서는 테스트하지 않았습니다. 카트에서 확인하세요. 할인은 첫 기간에 20%입니다.",
+        "사이트를 잃지 않고 다른 호스팅으로 옮길 수 있나요? 파일과 데이터베이스를 옮기면 됩니다. 새 호스팅이 무료 이전을 제공하는지 확인하고, 기존 플랜이 끝나기 전에 옮기세요."
+      ]
+    },
+    {
+      "heading": "작성자 소개",
+      "paragraphs": [
+        "Em Casa com Cecília는 호스팅어의 관리형 호스팅에서 돌아가고, 도메인은 2024년 11월 17일부터 호스팅어에 등록되어 있습니다. 팀 중에 다른 호스팅을 직접 써 본 사람은 없습니다. 이 글은 호스팅어 페이지에 적힌 내용을 2026년 10월 30일에 읽고 정리한 것입니다."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "카트의 쿠폰 칸에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 할인됩니다. 갱신 가격은 테스트하지 않았으니 카트에서 확인하세요.",
+    "label": "할인 플랜 보기",
+    "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 이 글에서 비교한 다른 호스팅을 쓰지 않았습니다.",
+  "relatedArticles": [
+    {
+      "slug": "vps-or-shared-hosting-ko",
+      "title": "VPS와 공유 호스팅: 호스팅어에서 내 사이트에 맞는 쪽은 어디일까"
+    },
+    {
+      "slug": "hostinger-trust-guide-ko",
+      "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+    },
+    {
+      "slug": "hostinger-referral-code-ko",
+      "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+    }
+  ],
+  "hideFromPortugueseListings": true
+}

@@ -1,0 +1,233 @@
+{
+  "id": 731,
+  "slug": "choisir-hebergeur-hostinger",
+  "locale": "fr",
+  "translationKey": "hostinger-ou-hostgator",
+  "title": "Choisir un hébergeur web : Hostinger vaut-il le coup pour votre site ?",
+  "seoTitle": "Choisir un hébergeur : prix et renouvellement Hostinger, octobre 2026",
+  "type": "Guide de choix",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Édition et analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Comment choisir un hébergeur selon le renouvellement, le cycle, l'emplacement du serveur et le VPS. Prix internationaux de Hostinger en dollars, avec renouvellement, au 30 octobre 2026.",
+  "metaDescription": "Choisir un hébergeur web : renouvellement, cycle de 48 mois, emplacement du serveur et VPS. Prix du site international de Hostinger en dollars au 30 octobre 2026, avec le renouvellement à côté.",
+  "publishedAt": "30 octobre 2026",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+  "imageAlt": "Deux icônes de serveur côte à côte, avec le logo Hostinger et le mot Hosting sur le bandeau",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Avant de payer un hébergement, regardez le prix du renouvellement, pas seulement la promotion de la première période. Relevé le 30 octobre 2026, le forfait d'entrée de Hostinger est Premium, qui couvre jusqu'à 3 sites : 2,49 US$ par mois sur 48 mois, puis 10,99 US$ au renouvellement. Pour beaucoup de sites, Unlimited n'a pas de limite de sites et se renouvelle à 16,99 US$ par mois. Les promotions durent 48 mois : la comparaison juste se fait donc par mois, avec le renouvellement à côté, dans le tableau ci-dessous."
+      ]
+    },
+    {
+      "heading": "Les quatre critères qui décident",
+      "paragraphs": [
+        "Chaque hébergeur vend sa première période avec une forte réduction, et c'est là que les comparaisons déraillent. Ce qui pèse sur le budget, c'est le mois qui suit la promotion. Avant les prix, voici les quatre critères que nous utilisons pour comparer :"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-fr.webp",
+        "alt": "Tableau des quatre critères pour choisir un hébergement : renouvellement, le prix du mois après la première période ; cycle, sur combien de mois dure la promotion ; serveur dans le pays, si la page indique où se trouve le serveur ; et VPS, si vous avez besoin de ressources garanties",
+        "caption": "Les quatre critères : renouvellement, cycle, serveur dans le pays et VPS. Tableau d'Em Casa com Cecília.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4516
+      },
+      "bullets": [
+        "**Renouvellement.** Hostinger affiche le prix du renouvellement de chaque forfait sur la carte. Regardez-le avant le prix promotionnel.",
+        "**Cycle.** La promotion de Hostinger vaut pour le forfait de 48 mois. Le total sur 48 mois ne se compare pas au total d'une autre durée. Comparez par mois, pas au total.",
+        "**Serveur dans le pays.** Les pages de forfaits de Hostinger que nous avons lues le 30 octobre 2026 n'indiquent pas où se trouve le serveur. Si cela compte pour vous, demandez au support avant d'acheter.",
+        "**VPS.** Si le site a besoin d'un processeur et d'une mémoire garantis, la comparaison est différente, plus bas."
+      ]
+    },
+    {
+      "heading": "Prix de Hostinger au 30 octobre 2026",
+      "paragraphs": [
+        "Hébergement de sites sur le site international de Hostinger, en dollars américains, avec le forfait de 48 mois payé d'avance. Hostinger est en pleine campagne Black Friday, sans date de fin indiquée sur la page :"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Forfait",
+          "Promotionnel",
+          "Total sur 48 mois",
+          "Renouvellement",
+          "Sites",
+          "Stockage"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "2,49 US$/mois",
+            "119,52 US$",
+            "10,99 US$/mois",
+            "3",
+            "20 Go SSD"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "3,49 US$/mois",
+            "167,52 US$",
+            "16,99 US$/mois",
+            "Illimités",
+            "50 Go NVMe"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "7,99 US$/mois",
+            "383,52 US$",
+            "25,99 US$/mois",
+            "Illimités",
+            "100 Go NVMe"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Prix sans le SONAR20. Ce sont les prix du site international de Hostinger, en dollars ; ils peuvent varier selon le pays et la devise, vérifiez donc le panier. Le renouvellement coûte de 3 à 5 fois le prix promotionnel. Premium a des sauvegardes hebdomadaires ; Unlimited, des sauvegardes quotidiennes."
+      ]
+    },
+    {
+      "heading": "Comparer les forfaits par mois",
+      "paragraphs": [
+        "Les forfaits ne se correspondent pas un à un d'un hébergeur à l'autre, et chez Hostinger le palier monte avec le nombre de sites. Trois questions tranchent entre les forfaits, et le tableau ci-dessus y répond mois par mois :"
+      ],
+      "bullets": [
+        "**Combien de sites.** Premium couvre jusqu'à 3 sites. Unlimited et Cloud Startup n'ont pas de limite de sites sur la page. Pour un ou deux sites, Premium suffit ; pour davantage, Unlimited.",
+        "**Ce que vous payez après la promotion.** L'écart entre Premium et Unlimited est de 1 US$ par mois pendant la promotion, et de 6 US$ au renouvellement. L'écart se creuse quand la promotion se termine.",
+        "**Cloud Startup.** C'est le forfait le plus haut du site international : il se renouvelle à 25,99 US$ par mois, contre 16,99 US$ pour Unlimited, et pendant la promotion il coûte plus du double. Il offre le double de stockage (100 Go NVMe contre 50 Go). Pour beaucoup de sites courants, Unlimited suffit."
+      ],
+      "emphasis": "La promotion de Hostinger dure 48 mois : le total de la première période masque le renouvellement. Comparez le prix par mois, avec le renouvellement à côté."
+    },
+    {
+      "heading": "Ce que le prix ne montre pas",
+      "bullets": [
+        "**Stockage.** Le forfait d'entrée, Premium, a 20 Go de SSD. Le NVMe de 50 Go commence avec Unlimited.",
+        "**Sauvegarde.** Premium a des sauvegardes hebdomadaires ; Unlimited, des sauvegardes quotidiennes. Avant de choisir, vérifiez que la sauvegarde dont vous avez besoin est incluse dans le forfait voulu.",
+        "**Emplacement du serveur.** Les pages n'indiquent pas où se trouve le serveur. Si cela compte pour vous, demandez au support avant d'acheter.",
+        "**Renouvellement dans le panier.** Avant de payer, regardez le prix du renouvellement dans le panier, pas seulement le mensuel promotionnel.",
+        "**Remboursement.** Lisez la politique de remboursement avant de souscrire. La façon dont Hostinger facture, renouvelle et rembourse est expliquée dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
+      ]
+    },
+    {
+      "heading": "Et si c'est un VPS ?",
+      "paragraphs": [
+        "Si vous ne savez pas encore si vous avez besoin d'un VPS ou d'un hébergement mutualisé, commencez par [VPS ou hébergement mutualisé : lequel choisir pour votre site chez Hostinger](/fr/reviews/vps-ou-hebergement-mutualise). Pour ceux qui ont déjà choisi le VPS, voici les forfaits d'entrée, sur le site international et en dollars :"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Forfait",
+          "vCPU",
+          "Mémoire",
+          "NVMe",
+          "Promotionnel",
+          "Renouvellement"
+        ],
+        "rows": [
+          [
+            "[Hostinger KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mois)",
+            "1",
+            "4 Go",
+            "50 Go",
+            "6,49 US$/mois",
+            "11,99 US$/mois"
+          ],
+          [
+            "[Hostinger KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mois)",
+            "2",
+            "8 Go",
+            "100 Go",
+            "8,79 US$/mois",
+            "14,99 US$/mois"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Le renouvellement du VPS Hostinger est presque le double du prix promotionnel : le KVM 1 passe de 6,49 US$ à 11,99 US$ par mois, et le KVM 2, de 8,79 US$ à 14,99 US$. Ce sont les prix de la promotion sur 24 mois relevés le 30 octobre 2026. Nous n'avons pas testé le SONAR20 sur le VPS : vérifiez le prix dans le panier avant de souscrire."
+      ]
+    },
+    {
+      "heading": "Le code SONAR20 chez Hostinger",
+      "paragraphs": [
+        "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Nous l'avons testé dans le panier du site brésilien, sur trois produits : le forfait Startup e-commerce, du créateur de boutiques, le 29 octobre 2026, puis un e-mail professionnel et Reach, le 30 octobre 2026. Sur les forfaits d'hébergement de ce tableau et sur le VPS, nous ne l'avons pas testé : vérifiez dans le panier. Nous n'avons pas testé le renouvellement. La règle complète est sur [les codes promo Hostinger](/fr/coupons/hostinger).",
+        "La promotion de Hostinger n'a pas de date de fin sur la page, et les prix peuvent changer. Vérifiez le montant dans le panier avant de payer."
+      ]
+    },
+    {
+      "heading": "Lequel choisir : le verdict",
+      "paragraphs": [
+        "**Choisissez Premium** pour un site, un blog, un portfolio ou la page d'une entreprise, ou pour jusqu'à trois sites. C'est le forfait d'entrée et l'hébergement le moins cher du site international, en promotion comme au renouvellement.",
+        "**Choisissez Unlimited** pour plusieurs sites, avec des sauvegardes quotidiennes et 50 Go de NVMe. Cloud Startup, qui se renouvelle à plus de 25 US$ par mois, ne se justifie que si les 100 Go de NVMe vous sont utiles.",
+        "**Choisissez un VPS** quand le site a besoin de son propre processeur et de sa propre mémoire, et regardez d'abord le renouvellement.",
+        "**Dans tous les cas**, regardez la colonne du renouvellement avant de payer et confirmez le montant dans le panier. Les prix du site international peuvent changer."
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Quel hébergeur est le meilleur ? Cela dépend du nombre de sites et de ce qui compte le plus pour vous, la promotion ou le renouvellement. Comparez le renouvellement, le cycle, le pays du serveur et le VPS, comme plus haut.",
+        "Quel forfait Hostinger se renouvelle le moins cher ? Premium, à 10,99 US$ par mois sur le site international, après une promotion sur 48 mois à 2,49 US$.",
+        "Le VPS Hostinger vaut-il le coup ? Cela dépend de la charge du site. Comparez vCPU, mémoire et renouvellement : le KVM 1 se renouvelle à 11,99 US$ par mois sur le site international.",
+        "Hostinger a-t-il un serveur au Brésil ? Les pages de forfaits que nous avons lues le 30 octobre 2026 n'indiquent pas où se trouve le serveur. Demandez au support avant d'acheter.",
+        "Le coupon SONAR20 fonctionne-t-il sur le VPS ? Nous ne l'avons pas testé sur le VPS : vérifiez dans le panier. Nous l'avons testé sur le forfait Startup e-commerce, le 29 octobre 2026, et il a donné 20 % sur la première période.",
+        "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait."
+      ]
+    },
+    {
+      "heading": "Qui écrit",
+      "paragraphs": [
+        "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, et le domaine est enregistré chez Hostinger depuis le 17 novembre 2024. Ce texte reprend ce que disent les pages du site international de Hostinger, relevées le 30 octobre 2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
+    "label": "Voir les forfaits d'hébergement avec le SONAR20",
+    "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous.",
+  "relatedArticles": [
+    {
+      "slug": "vps-ou-hebergement-mutualise",
+      "title": "VPS ou hébergement mutualisé : lequel choisir pour votre site chez Hostinger"
+    },
+    {
+      "slug": "hostinger-est-il-fiable",
+      "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+    },
+    {
+      "slug": "code-promo-hostinger-parrainage",
+      "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+    }
+  ]
+}
