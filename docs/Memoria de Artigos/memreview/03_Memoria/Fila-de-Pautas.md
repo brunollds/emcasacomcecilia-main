@@ -165,7 +165,9 @@ Rodada de 27/10 pelo autocompletar do Google e do Bing, catálogo e artigos no a
 |---|---|---|
 | B1 | Hipercalórico Black Skull: Masstodon ou Monstrous | **Pauta aprovada em 27/10/2026:** [[hipercalorico-black-skull-qual-escolher]]; id 623 no main (#321) |
 | B4 | Black Skull no Mercado Livre ou no site | **Pauta aprovada em 27/10/2026:** [[black-skull-mercado-livre-ou-site]]; id 624 no main (#321) |
-| B2, B3, B5, B6 | Demais pautas da rodada da Black Skull | Estoque |
+| B2, B5 | Demais pautas da rodada da Black Skull | Estoque |
+| B3 | Glutamina Black Skull | **Pauta aprovada em 30/10/2026**, junto com a M11: [[glutamina-qual-escolher-black-skull-max-probiotica]] |
+| B6 | Barra de proteína Black Skull | Estoque: em 30/10 a loja vende uma barra só (caixa 12 × 45 g, 7 sabores, R$ 109,90); vira pauta se a linha crescer. Briefing em `scratchpadlote-3010barra-proteina-black-skull-qual-escolher` |
 | D1 | Pasta de amendoim sem açúcar: qual escolher | **Descartada (27/10/2026):** a Dr. Peanut não vende pasta sem açúcar (busca no site por "sem açúcar", "zero", "integral" e "natural" sem resultado, Chrome); o texto levaria a busca à concorrência |
 | D2 a D6 | Melhor marca, Doctor Bar, whey, onde comprar, alfajor | Descartadas: repetem artigos no ar. Doctor Bar por sabor pode virar seção do [[snacks-dr-peanut-qual-escolher]] |
 
@@ -270,8 +272,8 @@ Mais vendidos pelo link do Bruno no 1º período da parceria: guardanapo Poá Te
 | L9 | Guardanapo de tecido: quantos e qual tamanho | **Publicado em 30/10/2026** (#359, release `58678313`): [[guardanapo-de-tecido-quantos-tamanho]] |
 | L10 | Jogo americano de tecido: tamanho e cor | **Publicado em 30/10/2026** (#359, release `58678313`): [[jogo-americano-tecido-tamanho-cor]] |
 | L11 | Paleta da mesa posta: terracota, verde, azul ou âmbar | Estoque |
-| L12 | Taça base esfera: conjunto ou unidade, e qual cor | Estoque |
-| L13 | Taça âmbar e colorida: vinho, água e champanhe | Estoque |
+| L12 | Taça base esfera: conjunto ou unidade, e qual cor | **Pauta aprovada em 30/10/2026**, junto com a L13: [[taca-base-esfera-e-tacas-coloridas]] |
+| L13 | Taça âmbar e colorida: vinho, água e champanhe | Junto com a L12 |
 | L14 | Presente de amigo secreto até R$ 100 | Estoque (dezembro; produto da loja fraco para presente) |
 
 Descartado: "Tuut: onde comprar" (leva à loja da própria marca, sem afiliado). Base: rodada de 29/10 (autocompletar do Google e do Bing e `products.json` da loja).
@@ -303,10 +305,10 @@ Estudo do cupomtiff.com.br (case da Inbazz) e rodadas com os moldes de título (
 | M5 | Tamanho SHEIN no Brasil | **Pauta aprovada em 30/10/2026:** [[tamanho-shein-brasil]] |
 | M6 | Dr. Peanut: Mercado Livre ou site | Briefing pronto (30/10); espera o link do Mercado Livre do Bruno. Pix lido no Chrome: 3% adicional |
 | M7 | DAMIE: é confiável, DAMIE ou Frau, medidas de sofá e poltrona | Handoff mandado ao subdomínio damie.emcasacomcecilia.com em 30/10 (repositório e agente próprios). "É confiável", medidas da poltrona, limpeza e cinema já existem lá; lacunas reais: medidas do sofá modular e DAMIE ou Frau |
-| M8 | Whey Probiótica: concentrado ou isolado | Estoque |
-| M9 | Vestido de festa SHEIN | Estoque |
+| M8 | Whey Probiótica: concentrado ou isolado | **Aprovada em 30/10/2026 como seção** de `melhor-whey-qual-escolher-por-objetivo`: [[whey-probiotica-concentrado-ou-isolado]] |
+| M9 | Vestido de festa SHEIN | **Pauta aprovada em 30/10/2026:** [[vestido-de-festa-shein]] |
 | M10 | Magalu ou Mercado Livre | Estoque |
-| M11 | Glutamina Max e Probiótica (com a B3 da Black Skull) | Estoque |
+| M11 | Glutamina Max e Probiótica (com a B3 da Black Skull) | **Pauta aprovada em 30/10/2026:** [[glutamina-qual-escolher-black-skull-max-probiotica]] |
 | M12 | Kit Insider: quando compensa | **Pauta aprovada em 30/10/2026:** [[kit-insider-quando-compensa]] |
 
 **Atualizações de artigos no ar (segunda chance):** whey Mais Mu por sabor; "Cléa Store é boa?" em `clea-store-e-confiavel`; pluma de ganso no comparativo IWS × Ortobom; "IWS vale a pena" em `i-wanna-sleep-e-confiavel`; "Fita Up é boa?" em `toda-up-e-confiavel`; veredito em `belive-e-confiavel`; "YesStyle vale a pena?" como seção (com a entrega ao Brasil suspensa). Corrigir a creatina da Mais Mu (esgotada em 30/10; R$ 80,99) em `mais-mu-ou-growth` e `mais-mu-ou-dux`.
