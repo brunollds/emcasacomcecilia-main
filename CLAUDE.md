@@ -265,9 +265,12 @@ vídeo, primeiras impressões e uso noturno.
   `affiliate`, e entram sozinhas em todo artigo da loja, nos 10 idiomas. O `top` vai logo depois da 1ª seção do corpo
   e o `mid` logo antes do FAQ (sem FAQ, da última), pela prop `slots` do `ReviewContentSections`. O banner
   (`ArticlePromoBanner`, de `src/components/review/article/`) fala só da campanha: nunca cita o código da loja nem diz
-  que soma com ele. O selo vem de `adLabel` (`articleCopy.ts`). Datas com `-03:00`; campanha que vence antes do
-  próximo deploy some no navegador (`HideAfter`) e o `test:store-banners` avisa para tirá-la do arquivo. O
-  `test:build-output` confere o lugar, o link, o `rel` sponsored e os textos em todo artigo.
+  que soma com ele. O selo vem de `adLabel` (`articleCopy.ts`). Datas com `-03:00`; o artigo é gerado no build, então
+  a campanha que começa ou vence entre dois deploys aparece ou some no navegador (`CampaignWindow`): a que ainda não
+  começou vai no payload e fica fora do HTML. O `test:store-banners` avisa para tirar a vencida do arquivo. Campanha
+  que só vale com o código da loja leva ao nosso artigo sobre ela (`href` `/reviews/<slug>` da mesma loja, com
+  `endsAt`), link interno sem sponsored e fora do próprio artigo. O `test:build-output` confere o lugar, o link, o
+  `rel` e os textos em todo artigo.
 - Texto que é item flex (bullets, prós e contras) precisa de `min-w-0` para quebrar endereços
   longos; o contêiner do artigo já tem `wrap-break-word`.
 

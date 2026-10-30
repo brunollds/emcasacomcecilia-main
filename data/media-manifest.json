@@ -90395,6 +90395,328 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/brinde-skelt-30-outubro-cupom-body-cream-unexpected-day.webp",
+      "local_url": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-body-cream-unexpected-day.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 9110,
+      "sha256": "2c421c1ebaf975157ea5e08159b1ea8e0f53634a8b8114481257868e3c52aa65",
+      "width": 452,
+      "height": 492,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brinde-skelt-30-outubro-cupom-body-cream-unexpected-day.webp",
+      "storage_filename": "brinde-skelt-30-outubro-cupom-body-cream-unexpected-day.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brinde-skelt-30-outubro-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brinde-skelt-30-outubro-cupom.json",
+          "line": 83,
+          "column": 19,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-body-cream-unexpected-day.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 158578,
+          "column": 21,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-body-cream-unexpected-day.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2c421c1ebaf975157ea5e08159b1ea8e0f53634a8b8114481257868e3c52aa65/brinde-skelt-30-outubro-cupom-body-cream-unexpected-day.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2c421c1ebaf975157ea5e08159b1ea8e0f53634a8b8114481257868e3c52aa65/brinde-skelt-30-outubro-cupom-body-cream-unexpected-day.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T01:00:01.503Z",
+      "verification_etag_or_digest": "2c421c1ebaf975157ea5e08159b1ea8e0f53634a8b8114481257868e3c52aa65",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/brinde-skelt-30-outubro-cupom-capa.webp",
+      "local_url": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45772,
+      "sha256": "9b2d35144afaea0be0b36b611917465c0cbe7efcd56a85c6cae058ec67830c9b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brinde-skelt-30-outubro-cupom-capa.webp",
+      "storage_filename": "brinde-skelt-30-outubro-cupom-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brinde-skelt-30-outubro-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brinde-skelt-30-outubro-cupom.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 158518,
+          "column": 15,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9b2d35144afaea0be0b36b611917465c0cbe7efcd56a85c6cae058ec67830c9b/brinde-skelt-30-outubro-cupom-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9b2d35144afaea0be0b36b611917465c0cbe7efcd56a85c6cae058ec67830c9b/brinde-skelt-30-outubro-cupom-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T01:00:01.504Z",
+      "verification_etag_or_digest": "9b2d35144afaea0be0b36b611917465c0cbe7efcd56a85c6cae058ec67830c9b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/brinde-skelt-30-outubro-cupom-duo-creme-para-maos-hidden-flowers.webp",
+      "local_url": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-duo-creme-para-maos-hidden-flowers.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31788,
+      "sha256": "e79b6c7b2be95758a0d4da14b027cf3832342a2203a0701f0cc38afe4f60cde2",
+      "width": 900,
+      "height": 830,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brinde-skelt-30-outubro-cupom-duo-creme-para-maos-hidden-flowers.webp",
+      "storage_filename": "brinde-skelt-30-outubro-cupom-duo-creme-para-maos-hidden-flowers.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brinde-skelt-30-outubro-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brinde-skelt-30-outubro-cupom.json",
+          "line": 165,
+          "column": 19,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-duo-creme-para-maos-hidden-flowers.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 158660,
+          "column": 21,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-duo-creme-para-maos-hidden-flowers.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e79b6c7b2be95758a0d4da14b027cf3832342a2203a0701f0cc38afe4f60cde2/brinde-skelt-30-outubro-cupom-duo-creme-para-maos-hidden-flowers.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e79b6c7b2be95758a0d4da14b027cf3832342a2203a0701f0cc38afe4f60cde2/brinde-skelt-30-outubro-cupom-duo-creme-para-maos-hidden-flowers.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T01:00:01.504Z",
+      "verification_etag_or_digest": "e79b6c7b2be95758a0d4da14b027cf3832342a2203a0701f0cc38afe4f60cde2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/brinde-skelt-30-outubro-cupom-duo-unexpected-day.webp",
+      "local_url": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-duo-unexpected-day.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 12472,
+      "sha256": "638602544a0e78d1a170170b90ca933e248478003cf8b26778b88fa40e6bf374",
+      "width": 469,
+      "height": 627,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brinde-skelt-30-outubro-cupom-duo-unexpected-day.webp",
+      "storage_filename": "brinde-skelt-30-outubro-cupom-duo-unexpected-day.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brinde-skelt-30-outubro-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brinde-skelt-30-outubro-cupom.json",
+          "line": 158,
+          "column": 19,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-duo-unexpected-day.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 158653,
+          "column": 21,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-duo-unexpected-day.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/638602544a0e78d1a170170b90ca933e248478003cf8b26778b88fa40e6bf374/brinde-skelt-30-outubro-cupom-duo-unexpected-day.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/638602544a0e78d1a170170b90ca933e248478003cf8b26778b88fa40e6bf374/brinde-skelt-30-outubro-cupom-duo-unexpected-day.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T01:00:01.504Z",
+      "verification_etag_or_digest": "638602544a0e78d1a170170b90ca933e248478003cf8b26778b88fa40e6bf374",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/brinde-skelt-30-outubro-cupom-mousse-autobronzeador.webp",
+      "local_url": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-mousse-autobronzeador.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 8676,
+      "sha256": "015e807b0e2b896639b17f8d3717885348d9039fb3464ec63cf5dd0d7af272c7",
+      "width": 468,
+      "height": 624,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brinde-skelt-30-outubro-cupom-mousse-autobronzeador.webp",
+      "storage_filename": "brinde-skelt-30-outubro-cupom-mousse-autobronzeador.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brinde-skelt-30-outubro-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brinde-skelt-30-outubro-cupom.json",
+          "line": 172,
+          "column": 19,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-mousse-autobronzeador.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 158667,
+          "column": 21,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-mousse-autobronzeador.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/015e807b0e2b896639b17f8d3717885348d9039fb3464ec63cf5dd0d7af272c7/brinde-skelt-30-outubro-cupom-mousse-autobronzeador.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/015e807b0e2b896639b17f8d3717885348d9039fb3464ec63cf5dd0d7af272c7/brinde-skelt-30-outubro-cupom-mousse-autobronzeador.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T01:00:01.504Z",
+      "verification_etag_or_digest": "015e807b0e2b896639b17f8d3717885348d9039fb3464ec63cf5dd0d7af272c7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/brinde-skelt-30-outubro-cupom-trends-set-miniaturas.webp",
+      "local_url": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-trends-set-miniaturas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26330,
+      "sha256": "a57cad71e3b1b175fa631c53514477f94353fb38ceeb04be59a5e2f662dedbe1",
+      "width": 712,
+      "height": 712,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brinde-skelt-30-outubro-cupom-trends-set-miniaturas.webp",
+      "storage_filename": "brinde-skelt-30-outubro-cupom-trends-set-miniaturas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brinde-skelt-30-outubro-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brinde-skelt-30-outubro-cupom.json",
+          "line": 76,
+          "column": 19,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-trends-set-miniaturas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 158571,
+          "column": 21,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-trends-set-miniaturas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a57cad71e3b1b175fa631c53514477f94353fb38ceeb04be59a5e2f662dedbe1/brinde-skelt-30-outubro-cupom-trends-set-miniaturas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a57cad71e3b1b175fa631c53514477f94353fb38ceeb04be59a5e2f662dedbe1/brinde-skelt-30-outubro-cupom-trends-set-miniaturas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T01:00:01.504Z",
+      "verification_etag_or_digest": "a57cad71e3b1b175fa631c53514477f94353fb38ceeb04be59a5e2f662dedbe1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/brinde-skelt-30-outubro-cupom-trends-set.webp",
+      "local_url": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-trends-set.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15320,
+      "sha256": "b8e45836a11eba5c65c8218c6e1ebaef472964f28483b98c7f6b7d57f71d50bf",
+      "width": 568,
+      "height": 623,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brinde-skelt-30-outubro-cupom-trends-set.webp",
+      "storage_filename": "brinde-skelt-30-outubro-cupom-trends-set.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brinde-skelt-30-outubro-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brinde-skelt-30-outubro-cupom.json",
+          "line": 69,
+          "column": 19,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-trends-set.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 158564,
+          "column": 21,
+          "literal": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-trends-set.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b8e45836a11eba5c65c8218c6e1ebaef472964f28483b98c7f6b7d57f71d50bf/brinde-skelt-30-outubro-cupom-trends-set.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b8e45836a11eba5c65c8218c6e1ebaef472964f28483b98c7f6b7d57f71d50bf/brinde-skelt-30-outubro-cupom-trends-set.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T01:00:01.504Z",
+      "verification_etag_or_digest": "b8e45836a11eba5c65c8218c6e1ebaef472964f28483b98c7f6b7d57f71d50bf",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/cupom-skelt-capa-discover.webp",
       "local_url": "/images/reviews/skelt/cupom-skelt-capa-discover.webp",
       "media_kind": "image",
