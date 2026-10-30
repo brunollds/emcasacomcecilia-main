@@ -88,7 +88,9 @@ Pautas de decisão de compra a partir do autocompletar de 20/10/2026 e da leitur
 | I2 | Undershirt: Leve, Moderado ou Block | **Publicado em 20/10/2026 (PR #188, `d240601`):** [[undershirt-insider-qual-escolher-funciona]] |
 | I4 | Presente de Natal: kits, gift card e troca de presente | **Publicado em 20/10/2026 (PR #188, `d240601`):** [[presente-de-natal-insider-kits-gift-card]] |
 | I3 | Camiseta Insider: qual escolher (Tech, Core, Light, Heavy, oversized, polo) | **Pauta aprovada em 30/10/2026:** [[camiseta-insider-qual-escolher]] |
-| I5 | Insider feminino: Perfect Top, legging e vestido | Estoque |
+| I5 | Insider feminino: Perfect Top, legging e vestido | Estoque (o Perfect Top de alça, halter, cropped e assimétrico fica aqui) |
+| I7 | Camiseta feminina Insider | **Pauta aprovada em 30/10/2026:** [[camiseta-feminina-insider-qual-escolher]] |
+| I8 | Regata feminina Insider | Estoque (sinal forte em 30/10: "regata feminina insider", 10 sugestões) |
 | I6 | Insider no Mercado Livre ou no site | **No ar em 28/10/2026 (#325, release `2567b32`, id 625):** [[insider-mercado-livre-ou-site]]; reler os preços três dias antes da Black Friday |
 
 ## Hostinger: agentes de IA (Bruno, 21/10/2026)
