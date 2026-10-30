@@ -1,0 +1,212 @@
+{
+  "id": 744,
+  "slug": "wordpress-hostinger-ko",
+  "locale": "ko",
+  "translationKey": "hostinger-wordpress",
+  "title": "호스팅어 WordPress: 어떤 플랜을 고를지, 어떻게 시작할지",
+  "seoTitle": "호스팅어 WordPress: 플랜 고르기와 시작 방법",
+  "type": "선택 가이드",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "편집 및 분석",
+      "initials": "BL"
+    }
+  ],
+  "description": "호스팅어에서 사이트 한 개, 세 개, 여러 개 또는 스토어에 맞는 WordPress 플랜과 시작 방법. 2026년 10월 30일 기준 달러 가격과 갱신가.",
+  "metaDescription": "호스팅어 WordPress: Premium, Unlimited, Cloud Startup 중 무엇을 고를까? 프로젝트별 플랜, 2026년 10월 30일 기준 달러 가격과 갱신가, 시작 체크리스트.",
+  "publishedAt": "2026년 10월 30일",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+  "imageAlt": "호스팅어 로고와 사이트·서버 아이콘, 띠에 적힌 WordPress",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "빠른 답변",
+      "paragraphs": [
+        "WordPress를 호스팅어에서 쓰기로 했다면, Premium은 사이트 3개까지 맞고, Unlimited는 여러 사이트나 스토어에 맞으며 백업을 매일 받습니다. Cloud Startup은 트래픽이 많은 스토어와 사이트를 위한 플랜입니다. WordPress는 모든 플랜에 있으니, 고르는 기준은 사이트 수, 백업, 갱신가입니다. 아래 표를 보세요."
+      ]
+    },
+    {
+      "heading": "프로젝트별 플랜",
+      "paragraphs": [
+        "호스팅어는 WordPress만 따로 파는 플랜이 없고, WordPress는 사이트 호스팅 플랜에 들어 있습니다. 호스팅어 공식 페이지는 모든 플랜에 WordPress와 Node.js가 포함된다고 말합니다. 그러니 질문은 \"어느 플랜에 WordPress가 있나?\"가 아니라 \"사이트가 몇 개이고 백업이 얼마나 필요한가?\"입니다."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-ko.webp",
+        "alt": "프로젝트별 WordPress 플랜 표: 사이트 3개까지는 Premium, 여러 사이트나 WooCommerce 스토어는 Unlimited, 트래픽이 많은 스토어나 사이트는 Cloud Startup",
+        "caption": "표 요약: 사이트 수, 용량, 백업이 플랜을 정합니다. 2026년 10월 30일에 읽은 호스팅어 페이지를 바탕으로 Em Casa com Cecília가 만든 표입니다.",
+        "objectFit": "contain",
+        "aspectRatio": 1.6981
+      },
+      "bullets": [
+        "**사이트 1~3개: Premium.** 3개 사이트, 20 GB SSD, 주간 백업. 사이트가 하나뿐이라도 이 플랜이 국제 사이트에서 가장 낮은 단계입니다.",
+        "**여러 사이트 또는 WooCommerce 스토어: Unlimited.** 사이트 무제한, 50 GB NVMe, 매일 백업. 스토어에서는 주문과 재고가 매일 바뀌니, 주간 백업이면 일주일치가 빠집니다.",
+        "**트래픽이 많은 스토어나 사이트: Cloud Startup.** 사이트 무제한, 100 GB NVMe. 가장 비싼 플랜이고, 갱신가도 가장 큽니다."
+      ],
+      "postParagraphs": [
+        "두 플랜 사이에서 고민된다면 백업을 보세요. 사이트를 매주 손대지 않는다면 주간 백업으로 충분하고, 매일 판매하거나 게시한다면 매일 백업이 필요합니다."
+      ]
+    },
+    {
+      "heading": "2026년 10월 30일 가격과 갱신",
+      "paragraphs": [
+        "아래 가격은 호스팅어 국제 사이트의 미국 달러 가격입니다. 2026년 10월 30일 블랙프라이데이 캠페인 기간에 읽었고, 48개월 선결제 기준입니다. 국가와 통화에 따라 달라질 수 있습니다. 월 가격은 선결제 총액을 48로 나눈 값이고, 갱신가는 첫 기간이 끝난 뒤의 월 가격입니다:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "플랜",
+          "월 (48개월)",
+          "48개월 총액",
+          "갱신가",
+          "사이트와 용량",
+          "백업"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$ 2.49",
+            "US$ 119.52",
+            "월 US$ 10.99",
+            "3개 사이트, 20 GB SSD",
+            "주간"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$ 3.49",
+            "US$ 167.52",
+            "월 US$ 16.99",
+            "사이트 무제한, 50 GB NVMe",
+            "매일"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$ 7.99",
+            "US$ 383.52",
+            "월 US$ 25.99",
+            "사이트 무제한, 100 GB NVMe",
+            "장바구니에서 확인"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "계산하면 이렇습니다. Premium은 48 × US$ 2.49 = **US$ 119.52**이고 갱신은 월 US$ 10.99입니다. Unlimited는 48 × US$ 3.49 = **US$ 167.52**이고 갱신은 월 US$ 16.99입니다. Cloud Startup은 48 × US$ 7.99 = **US$ 383.52**이고 갱신은 월 US$ 25.99입니다.",
+        "페이지에서 캠페인의 끝나는 날짜는 찾지 못했고, 가격은 바뀔 수 있습니다."
+      ],
+      "emphasis": "갱신가는 프로모션 가격의 3~5배입니다. 플랜은 갱신가 열을 보고 고르세요."
+    },
+    {
+      "heading": "플랜에 이미 들어 있는 것",
+      "paragraphs": [
+        "2026년 10월 30일 호스팅어 공식 페이지 기준이며, 우리가 테스트한 것은 아닙니다."
+      ],
+      "bullets": [
+        "**WordPress와 Node.js가 모든 플랜에 있습니다.**",
+        "**원클릭 설치 도구:** 페이지의 FAQ가 언급합니다. 플랜마다 무엇이 다른지는 설명하지 않습니다.",
+        "**LiteSpeed 서버와 스마트 캐시:** 호스팅어가 WordPress 호스팅 전반에 대해 언급합니다. 어느 플랜에 해당하는지는 말하지 않습니다."
+      ]
+    },
+    {
+      "heading": "시작 체크리스트",
+      "bullets": [
+        "**1. 사이트 수를 세세요.** 하나, 세 개, 또는 그 이상. 대부분의 경우 이것만으로 플랜이 정해집니다.",
+        "**2. 도메인을 정하세요.** 이미 가진 도메인을 연결하거나 새로 등록하세요. 갱신일을 적어 두세요.",
+        "**3. 패널에서 WordPress를 설치하세요.** 호스팅어는 원클릭 설치 도구를 언급합니다. 따로 내려받을 것은 없습니다.",
+        "**4. 콘텐츠보다 테마를 먼저 고르세요.** 사이트가 다 찬 뒤에 테마를 바꾸면 손이 많이 갑니다. 단순하고 자주 업데이트되는 테마를 고르세요.",
+        "**5. 플러그인은 적게 설치하세요.** 오늘 필요한 것부터 시작하세요: 문의 양식, SEO, 스토어라면 WooCommerce. 플러그인 하나가 늘 때마다 업데이트할 것도 하나씩 늘어납니다.",
+        "**6. 손대기 전에 백업부터 확인하세요.** 테마를 바꾸거나 플러그인을 업데이트하거나 스토어를 고치기 전에, 패널에서 마지막 백업 시점을 확인하세요. 주간 백업 플랜이라면 더 중요합니다."
+      ],
+      "postParagraphs": [
+        "호스팅어가 어떻게 청구하고, 갱신하고, 환불하는지는 [호스팅어는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에 있습니다."
+      ]
+    },
+    {
+      "heading": "이미 Google에 광고하고 있다면",
+      "paragraphs": [
+        "프로모션 약관에 따르면(2026년 10월 30일 확인), 호스팅어 패널에서 Google Ads 계정을 만들거나 연결하고 처음 60일 동안 600,000원을 광고에 쓰면 600,000원의 광고 크레딧을 받을 자격이 생깁니다. 한국 기준입니다. 자격 여부는 Google이 정하고, 프로모션은 바뀔 수 있으며, 페이지에는 유효 기간이 없습니다. 원래 그 금액을 쓸 예정이었던 사람에게만 의미가 있고, 이것 때문에 광고를 시작할 이유는 아닙니다."
+      ]
+    },
+    {
+      "heading": "WordPress를 원하지 않는다면",
+      "paragraphs": [
+        "플러그인이나 테마를 설치하고 업데이트하고 싶지 않다면, 호스팅어의 AI 사이트 빌더(구 Horizons)도 있습니다. 프로젝트 유형별 비교는 [호스팅어 AI Builder(구 Horizons): 쓸 만한가, 아니면 WordPress인가?](/ko/reviews/hostinger-ai-builder-ko)에 있습니다. 필요한 기능에 이미 플러그인 이름이 붙어 있다면 WordPress에 머무르세요."
+      ]
+    },
+    {
+      "heading": "SONAR20 쿠폰과 가격",
+      "paragraphs": [
+        "쿠폰 코드 **SONAR20**을 장바구니의 쿠폰 칸에 넣거나 이 글의 링크로 들어가면 **첫 기간에 20%**가 할인됩니다. WordPress 플랜에서는 SONAR20을 테스트하지 않았습니다. 결제 전에 장바구니에서 가격을 확인하세요. 첫 기간이 끝나면 갱신가가 적용됩니다. 규칙과 다른 제품은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다."
+      ]
+    },
+    {
+      "heading": "어느 플랜을 고를까: 결론",
+      "paragraphs": [
+        "**Premium을 고르세요** 사이트가 한 개에서 세 개 사이일 때. 가장 낮은 단계이고, 백업은 주간입니다.",
+        "**Unlimited를 고르세요** 스토어가 있거나 사이트가 많을 때. 매일 백업이 핵심 이유이고, 여기서 시작하면 됩니다.",
+        "**Cloud Startup은** Unlimited로 부족할 때만 의미가 있습니다. 가장 비싸고, 월 US$ 25.99의 갱신가가 부담됩니다."
+      ]
+    },
+    {
+      "heading": "자주 묻는 질문",
+      "bullets": [
+        "WordPress 호스팅어 플랜 중 가장 저렴한 것은 무엇인가요? 국제 사이트 기준 2026년 10월 30일에는 Premium입니다. 48개월 선결제 월 US$ 2.49, 총액 US$ 119.52이고, 3개 사이트까지 쓸 수 있습니다. 갱신은 월 US$ 10.99입니다.",
+        "호스팅어에서 WordPress가 설치되어 나오나요? 호스팅어는 모든 플랜에 WordPress가 포함되고, 패널에 원클릭 설치 도구가 있다고 말합니다. 플랜별 설치 방식은 설명하지 않습니다.",
+        "호스팅어는 WordPress에 LiteSpeed를 쓰나요? 호스팅어는 WordPress 호스팅 전반에 LiteSpeed 서버와 스마트 캐시를 언급합니다. 어느 플랜에 해당하는지는 말하지 않습니다.",
+        "온라인 스토어에는 어느 WordPress 플랜이 맞나요? Unlimited입니다. 사이트 무제한과 매일 백업이 있습니다. 트래픽이 아주 많은 스토어라면 Cloud Startup을 보세요. 백업 옵션은 장바구니에서 확인하세요.",
+        "WordPress 플랜에도 SONAR20을 쓸 수 있나요? WordPress 플랜은 테스트하지 않았습니다. 장바구니에서 확인하세요. 적용된다면 20%는 첫 기간에만 적용됩니다."
+      ]
+    },
+    {
+      "heading": "작성자 소개",
+      "paragraphs": [
+        "Em Casa com Cecília는 호스팅어의 관리형 호스팅에서 Node.js Web App으로 운영되고, 도메인은 2024년 11월부터 호스팅어에 등록되어 있습니다. 이 사이트는 WordPress를 쓰지 않으며, 팀 중 누구도 호스팅어에서 WordPress를 쓴 적이 없습니다. 이 글은 2026년 10월 30일에 읽은 호스팅어의 WordPress 호스팅 페이지와 Google Ads 프로모션 약관을 정리한 것입니다."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 적용됩니다. WordPress 플랜은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+    "label": "SONAR20으로 WordPress 플랜 보기",
+    "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 호스팅어에서 WordPress를 쓰지 않았습니다.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-ai-builder-ko",
+      "title": "Hostinger AI Builder(구 Horizons): 쓸 만한가, 아니면 WordPress인가?"
+    },
+    {
+      "slug": "hostinger-referral-code-ko",
+      "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+    },
+    {
+      "slug": "hostinger-domain-ko",
+      "title": "Hostinger 도메인: 여기서 살까, 이전할까, 다른 곳에 등록할까? 가격, 갱신, 결제 전 확인할 점"
+    }
+  ],
+  "hideFromPortugueseListings": true
+}

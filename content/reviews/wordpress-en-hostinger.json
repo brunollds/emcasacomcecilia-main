@@ -1,0 +1,211 @@
+{
+  "id": 739,
+  "slug": "wordpress-en-hostinger",
+  "locale": "es",
+  "translationKey": "hostinger-wordpress",
+  "title": "WordPress en Hostinger: qué plan elegir y cómo empezar",
+  "seoTitle": "WordPress en Hostinger: qué plan y cómo empezar",
+  "type": "Guía de elección",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edición y análisis",
+      "initials": "BL"
+    }
+  ],
+  "description": "Qué plan de WordPress de Hostinger elegir para un sitio, tres sitios, varios sitios o una tienda, y cómo empezar. Precios en dólares del 30 de octubre de 2026, con la renovación.",
+  "metaDescription": "WordPress en Hostinger: ¿Premium, Unlimited o Cloud Startup? Plan por proyecto, precio y renovación el 30 de octubre de 2026, y una lista para empezar.",
+  "publishedAt": "30 de octubre de 2026",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+  "imageAlt": "Logo de Hostinger con iconos de sitio web y de servidor, y la palabra WordPress en la franja",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "Si ya decidiste usar WordPress en Hostinger, el plan Premium cubre hasta tres sitios. Unlimited sirve para varios sitios o una tienda, con backups diarios, y Cloud Startup, para mucho tráfico. Lo que decide la elección es el número de sitios, el backup y el precio de renovación, en la tabla de abajo."
+      ]
+    },
+    {
+      "heading": "Qué plan para cada proyecto",
+      "paragraphs": [
+        "Hostinger no vende un plan solo de WordPress: el hosting de WordPress se vende en planes según el número de sitios, el espacio y el backup. Así que la pregunta no es «¿qué plan tiene WordPress?», sino «¿cuántos sitios voy a tener y cuánto backup necesito?»."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-es.webp",
+        "alt": "Cuadro de WordPress en Hostinger por proyecto: hasta tres sitios van a Premium; varios sitios o una tienda con WooCommerce, a Unlimited; una tienda o un sitio con mucho tráfico, a Cloud Startup",
+        "caption": "El resumen de la elección: el número de sitios, el espacio y el backup deciden el plan. Cuadro de Em Casa com Cecília, según lo que dicen las páginas de Hostinger el 30 de octubre de 2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.6981
+      },
+      "bullets": [
+        "**Hasta 3 sitios: Premium.** Tu blog y dos proyectos más, o un sitio de prueba junto al principal. Tiene 20 GB SSD y backups semanales.",
+        "**Varios sitios o una tienda con WooCommerce: Unlimited.** Sitios ilimitados, 50 GB NVMe y backups diarios. En una tienda, los pedidos y el stock cambian todos los días, y un backup semanal deja una semana entera fuera.",
+        "**Tienda o sitio con mucho tráfico: Cloud Startup.** Sitios ilimitados y 100 GB NVMe. Es el plan más caro de la página, y también tiene la renovación más alta."
+      ],
+      "postParagraphs": [
+        "Si dudas entre dos planes, mira el backup. Quien no va a cambiar el sitio cada semana vive bien con el semanal; quien vende o publica todos los días quiere el diario."
+      ]
+    },
+    {
+      "heading": "Precio y renovación el 30 de octubre de 2026",
+      "paragraphs": [
+        "Los precios de abajo son del sitio internacional de Hostinger, en dólares estadounidenses, leídos el 30 de octubre de 2026, con el plazo de 48 meses y el precio promocional de la campaña. El precio por mes es el total dividido entre 48. La renovación es el precio por mes después del primer período. Los precios pueden variar según el país y la moneda, así que confirma en el carrito:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Plan",
+          "Por mes (48 meses)",
+          "Total",
+          "Renovación",
+          "Sitios y espacio",
+          "Backup"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$ 2,49",
+            "US$ 119,52",
+            "US$ 10,99/mes",
+            "3 sitios, 20 GB SSD",
+            "Semanal"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$ 3,49",
+            "US$ 167,52",
+            "US$ 16,99/mes",
+            "Sitios ilimitados, 50 GB NVMe",
+            "Diario"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$ 7,99",
+            "US$ 383,52",
+            "US$ 25,99/mes",
+            "Sitios ilimitados, 100 GB NVMe",
+            "Consulta el carrito"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "La página que leímos no trae fecha de fin para la campaña, y los precios pueden cambiar."
+      ],
+      "emphasis": "La renovación cuesta entre 3 y 5 veces el precio promocional. Elige el plan por la columna de renovación, no solo por el precio de entrada."
+    },
+    {
+      "heading": "Qué viene en los planes",
+      "paragraphs": [
+        "Según la página internacional de Hostinger, el 30 de octubre de 2026, sin una prueba nuestra:"
+      ],
+      "bullets": [
+        "**Sitios y espacio.** Premium: 3 sitios y 20 GB SSD. Unlimited: sitios ilimitados y 50 GB NVMe. Cloud Startup: sitios ilimitados y 100 GB NVMe.",
+        "**Backups.** Premium tiene backups semanales y Unlimited, diarios. La página que leímos no dice qué backup tiene Cloud Startup, así que confírmalo en el carrito.",
+        "**Dominio y correo.** Cambian según el plan y el período. Revisa en el carrito qué viene gratis y por cuánto tiempo."
+      ]
+    },
+    {
+      "heading": "Cómo empezar: la lista",
+      "bullets": [
+        "**1. Cuenta tus sitios.** Uno, hasta tres o más. En la mayoría de los casos, eso ya elige el plan.",
+        "**2. Resuelve el dominio.** Mira si tu plan incluye uno o apunta un dominio que ya tengas. Anota cuándo se renueva.",
+        "**3. Instala WordPress desde el panel de hosting.** No hace falta descargar los archivos a mano.",
+        "**4. Elige el tema antes que el contenido.** Cambiar de tema con el sitio lleno da trabajo. Prefiere un tema simple y que se actualice seguido.",
+        "**5. Instala pocos plugins.** Empieza por lo que el sitio necesita hoy: formulario de contacto, SEO y, en una tienda, WooCommerce. Cada plugin de más es una cosa más que actualizar.",
+        "**6. Haz un backup antes de tocar algo.** Antes de cambiar el tema, actualizar un plugin o cambiar la tienda, revisa en el panel la fecha del último backup. Con backups semanales, eso pesa más."
+      ],
+      "postParagraphs": [
+        "Cómo cobra Hostinger, renueva y devuelve el dinero se explica en [¿Es confiable Hostinger?](/es/reviews/hostinger-es-confiable)."
+      ]
+    },
+    {
+      "heading": "Si ya anuncias en Google",
+      "paragraphs": [
+        "Según los términos de la promoción, leídos el 30 de octubre de 2026, quien crea o conecta una cuenta de Google Ads por la integración del panel de Hostinger y gasta EUR 400 en anuncios en los primeros 60 días tiene derecho a EUR 400 en crédito publicitario, en España. Google decide quién es elegible, la promoción puede cambiar y los términos no traen fecha de vencimiento. Vale para quien ya iba a gastar ese monto; no es motivo para empezar a anunciar."
+      ]
+    },
+    {
+      "heading": "Si no quieres WordPress",
+      "paragraphs": [
+        "Si no quieres instalar un tema ni un plugin, ni actualizar nada, los mismos planes traen el creador de sitios con IA de Hostinger, antes Horizons. La comparación por tipo de proyecto está en [Hostinger AI Builder (el creador con IA, antes Horizons): ¿vale la pena o WordPress?](/es/reviews/creador-ia-hostinger-vale-la-pena). Si lo que necesitas ya tiene nombre de plugin, quédate con WordPress."
+      ]
+    },
+    {
+      "heading": "Cupón SONAR20 y precio",
+      "paragraphs": [
+        "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**. No probamos el SONAR20 en los planes de WordPress; confirma el precio en el carrito antes de pagar. Después del primer período, vale la columna de renovación. Las reglas del código y los otros productos están en [cupones de Hostinger](/es/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Qué plan elegir: el veredicto",
+      "paragraphs": [
+        "**Elige Premium** si es un sitio, dos o tres, y publicas de vez en cuando. Es la entrada y la renovación más baratas de la página: US$ 10,99 al mes cuando se renueva.",
+        "**Elige Unlimited** si tienes una tienda o muchos sitios. El backup diario es el motivo principal, y empieza aquí.",
+        "**Cloud Startup** solo tiene sentido si Unlimited no alcanza. Es el más caro, y la renovación de US$ 25,99 al mes pesa."
+      ]
+    },
+    {
+      "heading": "Preguntas frecuentes",
+      "bullets": [
+        "¿Cuál es el plan de WordPress más barato de Hostinger? El 30 de octubre de 2026, Premium, a US$ 2,49 al mes en 48 meses (US$ 119,52 en total), para hasta 3 sitios. Se renueva a US$ 10,99 al mes.",
+        "¿Qué plan de WordPress conviene para una tienda online? Unlimited, por sus backups diarios y los sitios ilimitados. Para una tienda con mucho tráfico, Cloud Startup.",
+        "¿Hace falta saber programar para usar WordPress en Hostinger? No. Para empezar basta con elegir un plan y un tema, y la lista de arriba explica los pasos.",
+        "¿Funciona el código SONAR20 en los planes de WordPress? No lo probamos ahí; confirma el precio en el carrito. Donde funciona, da 20% en el primer período.",
+        "¿El precio de renovación es igual al promocional? No. Después del primer período de 48 meses vale el precio de renovación: en Premium, US$ 10,99 al mes."
+      ]
+    },
+    {
+      "heading": "Quién escribe",
+      "paragraphs": [
+        "Em Casa com Cecília funciona en el hosting administrado de Hostinger, como Node.js Web App, y el dominio está registrado en Hostinger desde el 17 de noviembre de 2024. El sitio no usa WordPress, y nadie del equipo ha usado WordPress en Hostinger: este texto reúne lo que dicen las páginas de hosting de WordPress del sitio internacional, en dólares, y los términos de la promoción de Google Ads, leídos el 30 de octubre de 2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. No lo probamos en los planes de WordPress; confirma el precio en el carrito.",
+    "label": "Ver los planes de WordPress con el SONAR20",
+    "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. Nadie del equipo ha usado WordPress en Hostinger.",
+  "relatedArticles": [
+    {
+      "slug": "creador-ia-hostinger-vale-la-pena",
+      "title": "Hostinger AI Builder (el creador con IA, antes Horizons): ¿vale la pena o WordPress?"
+    },
+    {
+      "slug": "cupon-hostinger-codigo-de-referido",
+      "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+    },
+    {
+      "slug": "hostinger-es-confiable",
+      "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+    }
+  ]
+}

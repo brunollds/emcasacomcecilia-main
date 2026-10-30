@@ -1,0 +1,223 @@
+{
+  "id": 719,
+  "slug": "wordpress-na-hostinger",
+  "locale": "pt",
+  "translationKey": "hostinger-wordpress",
+  "title": "WordPress na Hostinger: qual plano pegar e como começar",
+  "seoTitle": "WordPress na Hostinger: qual plano e como começar",
+  "type": "Guia de Escolha",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Qual plano de WordPress da Hostinger pegar para um site, três sites, vários sites ou loja, e como começar. Preços de 30/10/2026, com a renovação.",
+  "metaDescription": "WordPress na Hostinger: Single, Premium, Unlimited ou Cloud Startup? Plano por projeto, preço e renovação em 30/10/2026 e o checklist para começar.",
+  "publishedAt": "30 de outubro de 2026",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+  "imageAlt": "Logo da Hostinger com os ícones de site e de servidor, e a palavra WordPress na faixa",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Para quem já decidiu usar WordPress na Hostinger, o plano Single atende um site, o Premium até três, e o Unlimited ou o Cloud Startup servem para vários sites ou loja, com backups diários. O WordPress vem em todos; o que muda a escolha é o número de sites, o backup e a renovação, na tabela abaixo."
+      ]
+    },
+    {
+      "heading": "Qual plano para qual projeto",
+      "paragraphs": [
+        "A Hostinger não vende um plano só de WordPress: ele vem nos planos de hospedagem de sites. A página brasileira diz, em 30/10/2026, que todos os planos incluem WordPress e Node.js. Então a pergunta não é \"qual plano tem WordPress\", e sim \"quantos sites eu vou ter e quanto backup eu preciso\"."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-pt.webp",
+        "alt": "Quadro do plano de WordPress da Hostinger por projeto: um site só fica no Single; até 3 sites, no Premium; vários sites ou loja com WooCommerce, no Unlimited; loja ou site com muito tráfego, no Cloud Startup",
+        "caption": "O resumo da escolha: o número de sites, o espaço e o backup decidem o plano. Quadro do Em Casa com Cecília, pelo que a página da Hostinger diz em 30/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4286
+      },
+      "bullets": [
+        "**Um site só (blog, portfólio, página de serviços): Single.** É 1 site, com 10 GB SSD e backups semanais. Se você tem certeza de que é um site só, não precisa de mais.",
+        "**Até 3 sites: Premium.** O seu blog e mais dois projetos, ou um site de teste ao lado do principal. São 20 GB SSD e backups semanais.",
+        "**Vários sites ou uma loja com WooCommerce: Unlimited.** Sites ilimitados, 50 GB NVMe e backups diários. Numa loja, pedido e estoque mudam todo dia, e backup semanal deixa uma semana inteira de fora.",
+        "**Loja ou site com muito tráfego: Cloud Startup.** Sites ilimitados, 100 GB NVMe e backups diários e sob demanda. É o plano mais caro da página, e a renovação também é a maior."
+      ],
+      "postParagraphs": [
+        "Na dúvida entre dois planos, olhe o backup. Quem não vai mexer no site toda semana vive bem com o semanal; quem vende ou publica todo dia quer o diário."
+      ]
+    },
+    {
+      "heading": "Preço e renovação em 30/10/2026",
+      "paragraphs": [
+        "Os preços abaixo são da página brasileira de hospedagem WordPress, lidos em 30/10/2026, no prazo de 48 meses e na campanha de Black Friday. O preço por mês é o total dividido por 48. A renovação é o preço por mês depois do primeiro período:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Plano",
+          "Por mês (48 meses)",
+          "Total",
+          "Renovação",
+          "Sites e espaço",
+          "Backup"
+        ],
+        "rows": [
+          [
+            "[Single](https://www.hostinger.com/br/hospedagem-wordpress?REFERRALCODE=SONAR20)",
+            "R$ 5,99",
+            "R$ 287,52",
+            "R$ 23,99/mês",
+            "1 site, 10 GB SSD",
+            "Semanal"
+          ],
+          [
+            "[Premium](https://www.hostinger.com/br/hospedagem-wordpress?REFERRALCODE=SONAR20)",
+            "R$ 9,99",
+            "R$ 479,52",
+            "R$ 38,99/mês",
+            "3 sites, 20 GB SSD",
+            "Semanal"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/br/hospedagem-wordpress?REFERRALCODE=SONAR20)",
+            "R$ 12,99",
+            "R$ 623,52",
+            "R$ 64,99/mês",
+            "Sites ilimitados, 50 GB NVMe",
+            "Diário"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/br/hospedagem-wordpress?REFERRALCODE=SONAR20)",
+            "R$ 39,99",
+            "R$ 1.919,52",
+            "R$ 129,99/mês",
+            "Sites ilimitados, 100 GB NVMe",
+            "Diário e sob demanda"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A página não traz data de fim para a campanha, e os preços podem mudar. Na Black Friday, os créditos de IA dos planos vêm em dobro: no Single, 500 em vez de 250; no Cloud Startup, 2.000 em vez de 1.000."
+      ],
+      "emphasis": "A renovação custa de 3 a 5 vezes o preço promocional. Escolha o plano pela coluna da renovação, não só pela do preço de entrada."
+    },
+    {
+      "heading": "O que já vem nos planos",
+      "paragraphs": [
+        "Pela página de 30/10/2026, sem teste nosso:"
+      ],
+      "bullets": [
+        "**WordPress e Node.js em todos os planos.**",
+        "**Instalador de 1 clique e plugins internos**, citados no FAQ da página, sem dizer o que muda de um plano para outro.",
+        "**Servidores LiteSpeed e cache inteligente**, citados para a hospedagem WordPress em geral. A página não diz em quais planos.",
+        "**E-mail:** 1 conta grátis no Single; 2 contas por site, grátis por 1 ano, no Premium; contas ilimitadas por site, por 1 ano, no Unlimited e no Cloud Startup.",
+        "**Domínio grátis** em todos os planos; do Premium para cima, por 1 ano. Confira no carrinho o prazo do seu plano.",
+        "**Assistente de IA para loja** listado no Premium, segundo a página."
+      ]
+    },
+    {
+      "heading": "Como começar: o checklist",
+      "bullets": [
+        "**1. Conte os sites.** Um, até três ou mais. Isso já escolhe o plano na maioria dos casos.",
+        "**2. Resolva o domínio.** Use o domínio grátis do plano ou aponte um que você já tem. Anote quando ele renova.",
+        "**3. Instale o WordPress pelo painel.** A página cita o instalador de 1 clique; não é preciso baixar nada.",
+        "**4. Escolha o tema antes do conteúdo.** Trocar de tema com o site cheio dá retrabalho. Prefira um tema simples e mantido com frequência.",
+        "**5. Instale poucos plugins.** Comece pelo que o site precisa hoje: formulário de contato, SEO e, numa loja, o WooCommerce. Cada plugin a mais é mais uma coisa para atualizar.",
+        "**6. Faça um backup antes de mexer.** Antes de trocar tema, atualizar plugin ou mudar a loja, confira no painel quando foi o último backup. Nos planos de backup semanal, isso pesa mais."
+      ],
+      "postParagraphs": [
+        "Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "Se você já anuncia no Google",
+      "paragraphs": [
+        "Segundo os termos da promoção, lidos em 30/10/2026, quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito de anúncios, no Brasil. Quem define a elegibilidade é a Google, a promoção pode mudar, e a página não traz data de validade. Vale para quem já ia gastar esse valor; não é motivo para começar a anunciar."
+      ]
+    },
+    {
+      "heading": "Se você não quer WordPress",
+      "paragraphs": [
+        "Se você não quer instalar tema, plugin nem atualizar nada, os mesmos planos trazem o construtor de sites com IA da Hostinger. A comparação por tipo de projeto está em [Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress?](/reviews/hostinger-horizons-vale-a-pena). Se o que você precisa já tem nome de plugin, fique no WordPress."
+      ]
+    },
+    {
+      "heading": "Cupom SONAR20 e preço",
+      "paragraphs": [
+        "O código **SONAR20** dá **20% no primeiro período**, no campo de cupom do carrinho ou pelo link deste artigo. Não testamos o SONAR20 nos planos de WordPress; confira o preço no carrinho antes de pagar. Depois do primeiro período, vale a coluna da renovação. A regra do código e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Qual plano pegar: o veredito",
+      "paragraphs": [
+        "**Pegue o Single** se é um site só e você publica de vez em quando. É o mais barato na entrada e na renovação.",
+        "**Pegue o Premium** se vai ter dois ou três sites. A diferença para o Single é o número de sites e o espaço, não o backup.",
+        "**Pegue o Unlimited** se tem loja ou muitos sites. O backup diário é o motivo principal, e ele começa aqui.",
+        "**O Cloud Startup** só faz sentido se o Unlimited já não basta. É o mais caro, e a renovação de R$ 129,99/mês pesa."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual o plano de WordPress mais barato da Hostinger? Em 30/10/2026, o Single, a R$ 5,99/mês em 48 meses (R$ 287,52 no total), para 1 site. Ele renova a R$ 23,99/mês.",
+        "O WordPress vem instalado na Hostinger? A página diz que todos os planos incluem WordPress e cita um instalador de 1 clique no painel. Ela não detalha a instalação por plano.",
+        "A Hostinger usa LiteSpeed no WordPress? A página fala em servidores LiteSpeed e cache inteligente na hospedagem WordPress, sem dizer em quais planos.",
+        "Qual plano de WordPress da Hostinger para loja virtual? O Unlimited, pelos backups diários e sites ilimitados. Para loja com muito tráfego, o Cloud Startup, com backup sob demanda.",
+        "O cupom SONAR20 vale no plano de WordPress da Hostinger? Não testamos o SONAR20 nos planos de WordPress; confira no carrinho. Onde ele vale, são 20% no primeiro período."
+      ]
+    },
+    {
+      "heading": "Quem escreve",
+      "paragraphs": [
+        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 17/11/2024. O site não usa WordPress, e ninguém da equipe usou WordPress na Hostinger: este texto reúne o que a página brasileira de hospedagem WordPress e os termos da promoção do Google Ads dizem, lidos em 30/10/2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos nos planos de WordPress; confira o preço no carrinho.",
+    "label": "Ver os planos de WordPress com o SONAR20",
+    "url": "https://www.hostinger.com/br/hospedagem-wordpress?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usou WordPress na Hostinger.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-horizons-vale-a-pena",
+      "title": "Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress?"
+    },
+    {
+      "slug": "cupom-hostinger-indicacao",
+      "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+    },
+    {
+      "slug": "dominio-hostinger-comprar-transferir-ou-fora",
+      "title": "Domínio na Hostinger: comprar ali, transferir ou registrar em outro lugar? Preço, renovação e o que checar"
+    }
+  ]
+}

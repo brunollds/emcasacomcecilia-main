@@ -158689,5 +158689,7044 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 717,
+    "slug": "hostinger-reach-ou-mailchimp-brevo",
+    "locale": "pt",
+    "translationKey": "hostinger-reach-ou-mailchimp-brevo",
+    "title": "Hostinger Reach, Mailchimp ou Brevo: qual escolher para e-mail marketing",
+    "seoTitle": "Hostinger Reach vale a pena? Comparativo com Mailchimp e Brevo",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "O Hostinger Reach compensa para quem já tem site na Hostinger e lista de até 1.000 destinatários; lista maior vai para Mailchimp ou Brevo. Preços de 30/10/2026, com a renovação.",
+    "metaDescription": "Hostinger Reach vale a pena? Quadro por perfil, planos, limites de envio, WhatsApp e renovação, comparados ao plano grátis e ao preço do Mailchimp e do Brevo em 30/10/2026.",
+    "publishedAt": "30 de outubro de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+    "imageAlt": "Logo da Hostinger com os ícones de e-mail e de gráfico, e a palavra Reach na faixa",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Hostinger Reach compensa para quem já tem site na Hostinger e uma lista de até 1.000 destinatários: o preço publicado fica abaixo do Mailchimp e do Brevo pagos. Quem está começando sem verba pode usar o plano grátis do Mailchimp ou do Brevo antes. O que decide é o limite de envio e o WhatsApp, no quadro abaixo."
+        ]
+      },
+      {
+        "heading": "Qual escolher para quem: o quadro",
+        "paragraphs": [
+          "A pergunta certa não é qual ferramenta é melhor, e sim quantas pessoas estão na sua lista, quantos e-mails você manda por mês e se precisa de WhatsApp. O quadro resume a escolha pelo que as páginas de preço da Hostinger, do Mailchimp e do Brevo diziam em 30/10/2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Perfil",
+            "Melhor opção",
+            "Por quê"
+          ],
+          "rows": [
+            [
+              "Lista pequena, começando sem verba",
+              "Plano grátis do Brevo ou do Mailchimp",
+              "O Brevo grátis manda até 300 e-mails por dia, sem cartão. O Mailchimp é grátis abaixo de 250 contatos. Na página brasileira, os três planos do Reach são pagos."
+            ],
+            [
+              "Já tem site na Hostinger e lista de até 500",
+              "Reach Grow",
+              "R$ 7,69/mês em 12 meses (renova a R$ 10,99), 3.500 e-mails por mês, sem a marca da Reach e com automações."
+            ],
+            [
+              "Precisa de WhatsApp",
+              "Reach Pro",
+              "O WhatsApp só está no Pro, a R$ 13,99/mês em 12 meses (renova a R$ 19,99). O custo por mensagem não aparece na página. No Brevo, o WhatsApp está no Professional, de R$ 2.710/mês."
+            ],
+            [
+              "Passou do limite grátis, até 1.000 contatos",
+              "Reach Grow ou Pro",
+              "Na faixa de 500 contatos, o Mailchimp Essentials custa R$ 60/mês e o Brevo Starter, R$ 40/mês. O Reach Pro vai até 1.000 destinatários por R$ 13,99/mês."
+            ],
+            [
+              "Lista acima de 1.000 contatos",
+              "Mailchimp ou Brevo",
+              "Os planos da página do Reach param em 1.000 destinatários e 7.000 e-mails por mês."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-pt.webp",
+          "alt": "Quadro Reach, Mailchimp ou Brevo por perfil: lista pequena começando sem verba fica com o plano grátis do Brevo ou do Mailchimp; quem já tem site na Hostinger e lista de até 500 fica com o Reach Grow; quem precisa de WhatsApp, com o Reach Pro; quem passou do limite grátis até 1.000 contatos, com o Reach Grow ou Pro; lista acima de 1.000 contatos, com o Mailchimp ou o Brevo",
+          "caption": "O resumo do quadro: grátis para começar, Reach até 1.000 destinatários, Mailchimp ou Brevo acima disso. Quadro do Em Casa com Cecília, pelo que as páginas de preço diziam em 30/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3846
+        },
+        "postParagraphs": [
+          "Se a sua lista cabe no plano grátis do Mailchimp ou do Brevo, comece por ele e pague quando passar do limite. Se você já tem site na Hostinger e a lista passou de algumas centenas, o Reach custa menos pelo preço publicado."
+        ]
+      },
+      {
+        "heading": "Os planos do Reach em 30/10/2026",
+        "paragraphs": [
+          "A página brasileira do Reach tem três planos: Starter, Grow e Pro. No carrinho, o Grow aparece como \"Reach 500\", pelo limite de 500 destinatários. Os preços abaixo são da página, lidos em 30/10/2026, na campanha de Black Friday, sem impostos:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plano",
+            "12 meses",
+            "Renova (12 meses)",
+            "24 meses",
+            "Renova (24 meses)"
+          ],
+          "rows": [
+            [
+              "[Starter](https://www.hostinger.com/br/reach?REFERRALCODE=SONAR20)",
+              "R$ 6,99/mês (total R$ 83,88)",
+              "R$ 6,99/mês",
+              "R$ 4,99/mês (total R$ 119,76)",
+              "R$ 4,99/mês"
+            ],
+            [
+              "[Grow (Reach 500)](https://www.hostinger.com/br/reach?REFERRALCODE=SONAR20)",
+              "R$ 7,69/mês (total R$ 92,32)",
+              "R$ 10,99/mês",
+              "R$ 6,29/mês (total R$ 151,03)",
+              "R$ 8,99/mês"
+            ],
+            [
+              "[Pro](https://www.hostinger.com/br/reach?REFERRALCODE=SONAR20)",
+              "R$ 13,99/mês (total R$ 167,92)",
+              "R$ 19,99/mês",
+              "R$ 10,49/mês (total R$ 251,83)",
+              "R$ 14,99/mês"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O preço riscado na página, o \"de\", era R$ 18,99 no Starter, R$ 32,99 no Grow e R$ 65,99 no Pro, em 12 meses. O que importa é a renovação: no Grow e no Pro, ela sobe em relação ao preço da campanha. Os preços, pela página:"
+        ],
+        "bullets": [
+          "**Starter:** 100 destinatários, 200 e-mails por mês e nenhum crédito de IA. Os e-mails levam a marca da Reach.",
+          "**Grow:** 500 destinatários, 3.500 e-mails por mês e 10 créditos de IA por mês. Tira a marca da Reach e traz personalização, agendamento e automações.",
+          "**Pro:** 1.000 destinatários, 7.000 e-mails por mês e 20 créditos de IA por mês. Soma HTML, horário de envio otimizado, campanhas de WhatsApp, campos personalizados e colegas de equipe."
+        ],
+        "emphasis": "A página dá 30 dias para pedir reembolso. Na Black Friday, ela também diz que adicionar um site dá 30% extra no Reach; não testamos essa oferta."
+      },
+      {
+        "heading": "Mailchimp e Brevo: plano grátis e preço publicado",
+        "paragraphs": [
+          "Os dois têm plano grátis, e o Reach não tem na página brasileira. Os preços abaixo são das páginas brasileiras do Mailchimp e do Brevo, em reais, lidas em 30/10/2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plano",
+            "Preço publicado",
+            "O que a página diz"
+          ],
+          "rows": [
+            [
+              "Mailchimp grátis",
+              "R$ 0",
+              "Para menos de 250 contatos. Ao passar do limite, o envio pausa."
+            ],
+            [
+              "Mailchimp Essentials",
+              "R$ 60/mês, com 50% nos primeiros 12 meses (faixa de até 500 contatos)",
+              "Envia até 10 vezes o número de contatos por mês. O preço depois dos 12 meses não aparece."
+            ],
+            [
+              "Mailchimp Standard",
+              "R$ 90/mês, com 50% nos primeiros 12 meses (faixa de até 500 contatos)",
+              "Até 6.000 e-mails por mês na faixa de 500 contatos (12 vezes os contatos)."
+            ],
+            [
+              "Brevo grátis",
+              "R$ 0",
+              "Para sempre, sem cartão, com até 300 e-mails por dia."
+            ],
+            [
+              "Brevo Starter",
+              "R$ 40/mês no mensal (R$ 36 no anual)",
+              "A partir de 5.000 e-mails por mês, com 500 contatos no simulador. Tirar o logo do Brevo custa R$ 40,50/mês a mais."
+            ],
+            [
+              "Brevo Standard",
+              "R$ 81/mês no mensal (R$ 72,92 no anual)",
+              "Automação e teste A/B, sem o logo do Brevo."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na faixa de 500 contatos, a conta é simples: o Reach Grow custa R$ 7,69/mês em 12 meses e renova a R$ 10,99/mês; o Brevo Starter, R$ 40/mês, e o Mailchimp Essentials, R$ 60/mês com o desconto do primeiro ano. Pelo preço publicado, o Reach sai mais barato. O que o Mailchimp e o Brevo oferecem a mais é o plano grátis para começar e faixas maiores de contatos, para quando a lista crescer.",
+          "Os planos mais caros dos dois ficam fora da conta de quem está começando: o Mailchimp Premium custa R$ 1.750/mês (com os 50% do primeiro ano) e o Brevo Professional, R$ 2.710/mês no mensal."
+        ]
+      },
+      {
+        "heading": "WhatsApp: só no Reach Pro",
+        "paragraphs": [
+          "Na página do Reach, as campanhas de marketing no WhatsApp só aparecem no Pro, de R$ 13,99/mês em 12 meses (renova a R$ 19,99/mês). O Starter e o Grow não têm. A página não mostra quanto custa cada mensagem de WhatsApp, então confira no painel antes de contar com esse canal.",
+          "No Brevo, o WhatsApp aparece entre os canais do Professional, de R$ 2.710/mês no mensal. Para quem precisa de WhatsApp com lista de até 1.000 contatos, o Reach Pro tem preço publicado bem abaixo do Brevo Professional."
+        ]
+      },
+      {
+        "heading": "Quando a lista cresce",
+        "paragraphs": [
+          "O limite que pesa primeiro é o de destinatários: 100 no Starter, 500 no Grow e 1.000 no Pro. Os planos da página do Reach param aí. Quem tem ou espera ter mais de 1.000 contatos vai para o Mailchimp ou o Brevo, que cobram por faixa de contatos ou de envio.",
+          "O segundo limite é o de envios. No Grow, 3.500 e-mails por mês com 500 destinatários dão 7 envios para a lista inteira no mês; no Pro, 7.000 e-mails com 1.000 destinatários também dão 7. Quem manda newsletter uma vez por semana cabe. Quem manda mais de uma vez por semana para a lista toda passa do limite."
+        ],
+        "bullets": [
+          "**Ainda não tem domínio?** Se quer o endereço do seu site no remetente, veja [domínio na Hostinger: comprar, transferir ou registrar fora](/reviews/dominio-hostinger-comprar-transferir-ou-fora).",
+          "**Vai trocar de ferramenta depois?** Exporte a lista de contatos antes de cancelar o plano antigo e confira na ferramenta nova como importar."
+        ]
+      },
+      {
+        "heading": "SONAR20 e preço do Reach",
+        "paragraphs": [
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. O Bruno testou no Reach em 30/10/2026: o carrinho mostrou o Reach 500 (o Grow) de 24 meses a R$ 8,99/mês, R$ 215,76 no total; com o SONAR20, ficou em R$ 172,61, ou R$ 7,19/mês, renovando a R$ 8,99/mês.",
+          "No mesmo dia, a página mostrava o Grow de 24 meses a R$ 6,29/mês, o preço de Black Friday. São leituras diferentes, de lugares diferentes: confira no carrinho qual preço vale para você e quanto o SONAR20 tira dele. Nos outros planos e períodos do Reach, não testamos; confira no carrinho. A regra completa do código está em [cupons da Hostinger](/cupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Vale a pena? O veredito",
+        "paragraphs": [
+          "**Vale a pena** para quem já tem site na Hostinger e uma lista de até 1.000 destinatários. Pelo preço publicado em 30/10/2026, o Grow e o Pro custam menos que os planos pagos do Mailchimp e do Brevo na mesma faixa, e a renovação do Reach (R$ 10,99/mês no Grow, R$ 19,99/mês no Pro) também fica abaixo deles. O Grow cobre lista de até 500 com automações; o Pro, lista de até 1.000 e WhatsApp.",
+          "**Fique no plano grátis do Mailchimp ou do Brevo** se a lista está começando e você ainda não sabe se vai mandar e-mail com frequência. O Reach não tem plano grátis na página brasileira.",
+          "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se você manda para a lista toda mais de uma vez por semana: os planos do Reach param em 1.000 destinatários e 7.000 e-mails por mês."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O Hostinger Reach vale a pena? Vale para quem já tem site na Hostinger e lista de até 1.000 destinatários. Em 30/10/2026, o Grow custava R$ 7,69/mês em 12 meses e renovava a R$ 10,99/mês, abaixo dos planos pagos do Mailchimp e do Brevo.",
+          "Quanto custa o Hostinger Reach? Em 30/10/2026, na página brasileira: Starter a R$ 6,99/mês, Grow a R$ 7,69/mês e Pro a R$ 13,99/mês em 12 meses, renovando a R$ 6,99, R$ 10,99 e R$ 19,99. Em 24 meses, R$ 4,99, R$ 6,29 e R$ 10,49.",
+          "O Hostinger Reach tem plano grátis? Não na página brasileira em 30/10/2026: os três planos são pagos. O Mailchimp é grátis para menos de 250 contatos e o Brevo tem plano grátis com até 300 e-mails por dia.",
+          "O Hostinger Reach tem WhatsApp? Tem, só no plano Pro. A página não mostra o custo por mensagem; confira no painel.",
+          "O que é o Reach 500? É o nome do plano Grow no carrinho da Hostinger, pelo limite de 500 destinatários. Ele manda 3.500 e-mails por mês.",
+          "Hostinger Reach ou Mailchimp? Para lista de até 1.000 destinatários, o Reach custa menos pelo preço publicado. Para começar sem pagar ou para lista maior, o Mailchimp.",
+          "O código SONAR20 vale no Hostinger Reach? Vale: no teste do Bruno em 30/10/2026, o Reach 500 de 24 meses foi de R$ 215,76 para R$ 172,61. Nos outros planos e períodos, não testamos; confira no carrinho."
+        ]
+      },
+      {
+        "heading": "Quem escreve",
+        "paragraphs": [
+          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado lá desde 17/11/2024. Ninguém da equipe usou o Reach, o Mailchimp nem o Brevo para mandar campanha: este texto reúne o que as páginas de preço dos três diziam em 30/10/2026 e o teste do SONAR20 no carrinho. Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Testamos no Reach 500 de 24 meses; nos outros planos, confira no carrinho.",
+      "label": "Ver os planos do Reach com o SONAR20",
+      "url": "https://www.hostinger.com/br/reach?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usou o Reach.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-hostinger-indicacao",
+        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+      },
+      {
+        "slug": "hostinger-e-confiavel",
+        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+      },
+      {
+        "slug": "dominio-hostinger-comprar-transferir-ou-fora",
+        "title": "Domínio na Hostinger: comprar ali, transferir ou registrar em outro lugar? Preço, renovação e o que checar"
+      }
+    ]
+  },
+  {
+    "id": 720,
+    "slug": "hostinger-reach-vs-mailchimp-brevo",
+    "locale": "en",
+    "translationKey": "hostinger-reach-ou-mailchimp-brevo",
+    "title": "Hostinger Reach, Mailchimp or Brevo: which to choose for email marketing",
+    "seoTitle": "Is Hostinger Reach worth it? Comparison with Mailchimp and Brevo",
+    "type": "Decision Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Editing and analysis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Reach is worth it for anyone with a Hostinger site and a list of up to 1,000 recipients; bigger lists go to Mailchimp or Brevo. Hostinger's global prices in US dollars on October 30, 2026, with renewal.",
+    "metaDescription": "Is Hostinger Reach worth it? Chart by profile, plans, sending limits and WhatsApp, with the global prices in US dollars and the renewal on October 30, 2026.",
+    "publishedAt": "October 30, 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+    "imageAlt": "Hostinger logo with email and chart icons, and the word Reach on the band",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Reach is worth it for anyone who already has a site on Hostinger and a list of up to 1,000 recipients. On Hostinger's global site, its plans start at US$ 1.49 a month. Anyone starting with no budget can use the free plan of Mailchimp or Brevo first. What decides it is the sending limit and WhatsApp, in the chart below."
+        ]
+      },
+      {
+        "heading": "Which one for whom: the chart",
+        "paragraphs": [
+          "The right question is not which tool is best, but how many people are on your list, how many emails you send a month and whether you need WhatsApp. The chart sums up the choice by what the pages of Hostinger, Mailchimp and Brevo said on October 30, 2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Profile",
+            "Best option",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Small list, starting with no budget",
+              "Brevo or Mailchimp free plan",
+              "Brevo's free plan sends up to 300 emails a day, with no card. Mailchimp is free below 250 contacts. On the Hostinger pages we read, the three Reach plans are paid."
+            ],
+            [
+              "Has a Hostinger site and a list of up to 500",
+              "Reach Grow",
+              "US$ 1.74 a month in the first 12 months (renews at US$ 2.49), with 3,500 emails a month."
+            ],
+            [
+              "Needs WhatsApp",
+              "Reach Pro",
+              "WhatsApp is only in Pro. The page does not show the cost per message. On Brevo, WhatsApp appears in the Professional plan, without a price here."
+            ],
+            [
+              "Past the free limit, up to 1,000 contacts",
+              "Reach Grow or Pro",
+              "Pro goes up to 1,000 recipients for US$ 2.79 a month in the first 12 months (renews at US$ 3.99). We did not read the paid Mailchimp and Brevo prices in US dollars, so they are not compared here."
+            ],
+            [
+              "List above 1,000 contacts",
+              "Mailchimp or Brevo",
+              "The Reach plans stop at 1,000 recipients and 7,000 emails a month."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-en.webp",
+          "alt": "Chart Reach, Mailchimp or Brevo by profile: a small list starting with no budget goes to the free plan of Brevo or Mailchimp; a Hostinger site with a list of up to 500 goes to Reach Grow; those who need WhatsApp go to Reach Pro; past the free limit, up to 1,000 contacts, to Reach Grow or Pro; a list above 1,000 contacts goes to Mailchimp or Brevo",
+          "caption": "The chart in short: free to start, Reach up to 1,000 recipients, Mailchimp or Brevo above that. Chart by Em Casa com Cecília, from what the pages said on October 30, 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3846
+        },
+        "postParagraphs": [
+          "If your list fits in the free plan of Mailchimp or Brevo, start there and pay when you pass the limit. If you already have a Hostinger site and the list is past a few hundred, Reach's published prices are the ones to compare first."
+        ]
+      },
+      {
+        "heading": "The Reach plans on October 30, 2026",
+        "paragraphs": [
+          "The Hostinger site has three Reach plans: Starter, Grow and Pro. At checkout, Grow shows up as “Reach 500”, for its limit of 500 recipients. The prices below are from Hostinger's global site, in US dollars, read on October 30, 2026. They can vary by country and currency, and they can change:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "First 12 months",
+            "Renewal"
+          ],
+          "rows": [
+            [
+              "[Starter](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1.49 a month",
+              "US$ 1.49 a month"
+            ],
+            [
+              "[Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1.74 a month",
+              "US$ 2.49 a month"
+            ],
+            [
+              "[Pro](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 2.79 a month",
+              "US$ 3.99 a month"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "The renewal is what matters: on Grow and Pro it goes up compared with the first year. The plans, from the same page:"
+        ],
+        "bullets": [
+          "**Starter:** 100 recipients, 200 emails a month and no AI credits.",
+          "**Grow:** 500 recipients, 3,500 emails a month and 10 AI credits a month.",
+          "**Pro:** 1,000 recipients, 7,000 emails a month and 20 AI credits a month. It is the only plan with WhatsApp marketing campaigns."
+        ]
+      },
+      {
+        "heading": "Mailchimp and Brevo: the free plans",
+        "paragraphs": [
+          "Both have a free plan, and none of the three Reach plans is free on the Hostinger pages we read. We read the Mailchimp and Brevo pages on October 30, 2026. Their paid prices are not part of this comparison, because we did not read them in US dollars:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "What the page says"
+          ],
+          "rows": [
+            [
+              "Mailchimp free",
+              "For fewer than 250 contacts. When the list goes past the limit, sending pauses."
+            ],
+            [
+              "Brevo free",
+              "Forever, with no card needed and up to 300 emails a day."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "For a list of up to 500 contacts, the comparison comes down to the price of the paid plan: check it in each tool's own simulator, with your list size and in the currency you pay."
+        ]
+      },
+      {
+        "heading": "WhatsApp: only in Reach Pro",
+        "paragraphs": [
+          "On the Reach page, WhatsApp marketing campaigns appear only in Pro, at US$ 2.79 a month in the first 12 months (renews at US$ 3.99 a month). Starter and Grow don't have them. The page does not show how much each WhatsApp message costs, so check the dashboard before you count on this channel.",
+          "On Brevo, WhatsApp appears among the channels of the Professional plan. We did not read that plan's price in US dollars, so it is not compared here."
+        ]
+      },
+      {
+        "heading": "When the list grows",
+        "paragraphs": [
+          "The first limit that matters is the number of recipients: 100 on Starter, 500 on Grow and 1,000 on Pro. The Reach plans stop there. Anyone who has or expects more than 1,000 contacts should look at Mailchimp or Brevo, which charge by contact range or by sending volume.",
+          "The second limit is sending volume. On Grow, 3,500 emails a month with 500 recipients add up to 7 sends to the whole list in a month; on Pro, 7,000 emails with 1,000 recipients also make 7. A weekly newsletter fits. Sending to the whole list more than once a week goes past the limit."
+        ],
+        "bullets": [
+          "**Still without a domain?** If you want your site's address on the sender, see [Hostinger domain: buy it there, transfer it or register elsewhere](/en/reviews/hostinger-domain-buy-transfer-or-elsewhere).",
+          "**Going to change tools later?** Export your contact list before cancelling the old plan, and check how the new tool imports it."
+        ]
+      },
+      {
+        "heading": "SONAR20 and the price of Reach",
+        "paragraphs": [
+          "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**. We tested it on the Brazilian site, on Reach 500 for 24 months, on October 30, 2026, and the discount applied in the cart. For the other Reach plans and periods, we did not test it; check the cart. The full rule for the code is in [Hostinger coupons](/en/coupons/hostinger).",
+          "The price on the page and the price in the cart can differ on the same day, so check the cart to see which price applies to you and how much SONAR20 takes off it."
+        ]
+      },
+      {
+        "heading": "Is it worth it? The verdict",
+        "paragraphs": [
+          "**Worth it** for anyone who already has a Hostinger site and a list of up to 1,000 recipients. Grow covers a list of up to 500 recipients; Pro covers up to 1,000 and WhatsApp. On the global site, the renewal of Grow (US$ 2.49 a month) and of Pro (US$ 3.99 a month) is part of the decision, so check it before you pay.",
+          "**Stay on the free Mailchimp or Brevo plan** if your list is just starting and you don't yet know whether you will send email often. Reach has no free plan on the pages we read.",
+          "**Go with Mailchimp or Brevo** if your list passes 1,000 contacts or if you send to the whole list more than once a week: the Reach plans stop at 1,000 recipients and 7,000 emails a month."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is Hostinger Reach worth it? It is, for anyone with a Hostinger site and a list of up to 1,000 recipients. On the global site on October 30, 2026, Grow cost US$ 1.74 a month in the first 12 months and renewed at US$ 2.49 a month.",
+          "How much does Hostinger Reach cost? On Hostinger's global site on October 30, 2026, in US dollars: Starter US$ 1.49, Grow US$ 1.74 and Pro US$ 2.79 a month in the first 12 months, renewing at US$ 1.49, US$ 2.49 and US$ 3.99. Prices can vary by country and currency.",
+          "Does Hostinger Reach have a free plan? Not on the pages we read: its three plans are paid. Mailchimp is free for fewer than 250 contacts, and Brevo has a free plan with up to 300 emails a day.",
+          "Does Hostinger Reach have WhatsApp? Yes, only in the Pro plan. The page does not show the cost per message; check the dashboard.",
+          "What is Reach 500? It is the name Grow takes in the Hostinger cart, after its limit of 500 recipients. It sends 3,500 emails a month.",
+          "Hostinger Reach or Mailchimp? For a list of up to 1,000 recipients with a Hostinger site, Reach is the choice to compare first. To start for free, or for a list above 1,000 contacts, go with Mailchimp or Brevo.",
+          "Does the SONAR20 code work on Hostinger Reach? It worked in our test on October 30, 2026, on the Brazilian site, with Reach 500 for 24 months. For the other plans and periods we did not test it; check the cart."
+        ]
+      },
+      {
+        "heading": "Who writes this",
+        "paragraphs": [
+          "Em Casa com Cecília runs on Hostinger's managed hosting, and the domain has been registered there since November 17, 2024. Nobody on the team has used Reach, Mailchimp or Brevo to send a campaign: this text gathers what the three pricing pages said on October 30, 2026, and the SONAR20 test in the cart. How Hostinger charges, renews and refunds is covered in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We tested it on the Brazilian site, on Reach 500 for 24 months; for the other plans, check the cart.",
+      "label": "See the Reach plans with SONAR20",
+      "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Purchases made with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you. Nobody on the team has used Reach.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-coupon-code-referral",
+        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+      },
+      {
+        "slug": "is-hostinger-legit",
+        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+      },
+      {
+        "slug": "hostinger-domain-buy-transfer-or-elsewhere",
+        "title": "Hostinger domain: buy it there, transfer it or register elsewhere? Price, renewal and what to check"
+      }
+    ]
+  },
+  {
+    "id": 721,
+    "slug": "hostinger-reach-o-mailchimp-brevo",
+    "locale": "es",
+    "translationKey": "hostinger-reach-ou-mailchimp-brevo",
+    "title": "Hostinger Reach, Mailchimp o Brevo: cuál elegir para el email marketing",
+    "seoTitle": "¿Vale la pena Hostinger Reach? Comparativa con Mailchimp y Brevo",
+    "type": "Guía de elección",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edición y análisis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Reach compensa para quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios; las listas más grandes van a Mailchimp o Brevo. Precios globales de Hostinger en dólares el 30 de octubre de 2026, con la renovación.",
+    "metaDescription": "¿Vale la pena Hostinger Reach? Cuadro por perfil, planes, límites de envío y WhatsApp, con los precios globales en dólares y la renovación del 30 de octubre de 2026.",
+    "publishedAt": "30 de octubre de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+    "imageAlt": "Logo de Hostinger con iconos de correo y de gráfico, y la palabra Reach en la franja",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Reach compensa para quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios. En el sitio global de Hostinger, sus planes empiezan en US$ 1,49 al mes. Quien empieza sin presupuesto puede usar primero el plan gratis de Mailchimp o de Brevo. Lo que decide es el límite de envío y el WhatsApp, en el cuadro de abajo."
+        ]
+      },
+      {
+        "heading": "Qué elegir según el caso: el cuadro",
+        "paragraphs": [
+          "La pregunta correcta no es qué herramienta es la mejor, sino cuántas personas hay en tu lista, cuántos correos mandas al mes y si necesitas WhatsApp. El cuadro resume la elección según lo que decían las páginas de precios de Hostinger, Mailchimp y Brevo el 30 de octubre de 2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Perfil",
+            "Mejor opción",
+            "Por qué"
+          ],
+          "rows": [
+            [
+              "Lista pequeña, empezando sin presupuesto",
+              "Plan gratis de Brevo o de Mailchimp",
+              "El plan gratis de Brevo envía hasta 300 correos al día, sin tarjeta. Mailchimp es gratis por debajo de 250 contactos. En las páginas de Hostinger que leímos, los tres planes de Reach son de pago."
+            ],
+            [
+              "Ya tiene sitio en Hostinger y una lista de hasta 500",
+              "Reach Grow",
+              "US$ 1,74 al mes en los primeros 12 meses (renueva a US$ 2,49), con 3.500 correos al mes."
+            ],
+            [
+              "Necesita WhatsApp",
+              "Reach Pro",
+              "El WhatsApp solo está en Pro. La página no muestra el costo por mensaje. En Brevo, el WhatsApp aparece en el plan Professional, sin precio aquí."
+            ],
+            [
+              "Superó el límite gratis, hasta 1.000 contactos",
+              "Reach Grow o Pro",
+              "Pro llega a 1.000 destinatarios por US$ 2,79 al mes en los primeros 12 meses (renueva a US$ 3,99). No leímos los precios pagos de Mailchimp y Brevo en dólares, así que no los comparamos aquí."
+            ],
+            [
+              "Lista de más de 1.000 contactos",
+              "Mailchimp o Brevo",
+              "Los planes de Reach llegan hasta 1.000 destinatarios y 7.000 correos al mes."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-es.webp",
+          "alt": "Cuadro Reach, Mailchimp o Brevo por perfil: una lista pequeña que empieza sin presupuesto va al plan gratis de Brevo o de Mailchimp; quien ya tiene sitio en Hostinger y una lista de hasta 500 va a Reach Grow; quien necesita WhatsApp, a Reach Pro; quien superó el límite gratis, hasta 1.000 contactos, a Reach Grow o Pro; una lista de más de 1.000 contactos, a Mailchimp o Brevo",
+          "caption": "El resumen del cuadro: gratis para empezar, Reach hasta 1.000 destinatarios, Mailchimp o Brevo por encima de eso. Cuadro del Em Casa com Cecília, según lo que decían las páginas de precios el 30 de octubre de 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3846
+        },
+        "postParagraphs": [
+          "Si tu lista cabe en el plan gratis de Mailchimp o de Brevo, empieza por ahí y paga cuando pases el límite. Si ya tienes sitio en Hostinger y la lista pasó de unos cientos, los precios publicados de Reach son los que conviene comparar primero."
+        ]
+      },
+      {
+        "heading": "Los planes de Reach el 30 de octubre de 2026",
+        "paragraphs": [
+          "El sitio de Hostinger tiene tres planes de Reach: Starter, Grow y Pro. En el carrito, Grow aparece como “Reach 500”, por su límite de 500 destinatarios. Los precios de abajo son del sitio global de Hostinger, en dólares, leídos el 30 de octubre de 2026. Pueden variar según el país y la moneda, y pueden cambiar:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "Primeros 12 meses",
+            "Renovación"
+          ],
+          "rows": [
+            [
+              "[Starter](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1,49 al mes",
+              "US$ 1,49 al mes"
+            ],
+            [
+              "[Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1,74 al mes",
+              "US$ 2,49 al mes"
+            ],
+            [
+              "[Pro](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 2,79 al mes",
+              "US$ 3,99 al mes"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Lo que importa es la renovación: en Grow y en Pro sube respecto del precio del primer año. Estos son los planes, según la página:"
+        ],
+        "bullets": [
+          "**Starter:** 100 destinatarios, 200 correos al mes y ningún crédito de IA.",
+          "**Grow:** 500 destinatarios, 3.500 correos al mes y 10 créditos de IA al mes.",
+          "**Pro:** 1.000 destinatarios, 7.000 correos al mes y 20 créditos de IA al mes. Es el único plan con campañas de WhatsApp."
+        ]
+      },
+      {
+        "heading": "Mailchimp y Brevo: los planes gratis",
+        "paragraphs": [
+          "Los dos tienen plan gratis, y en las páginas de Hostinger que leímos ninguno de los tres planes de Reach es gratis. Leímos las páginas de Mailchimp y Brevo el 30 de octubre de 2026. Sus precios pagos no entran en esta comparación, porque no los leímos en dólares:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "Lo que dice la página"
+          ],
+          "rows": [
+            [
+              "Mailchimp gratis",
+              "Para menos de 250 contactos. Al pasar el límite, el envío se pausa."
+            ],
+            [
+              "Brevo gratis",
+              "Para siempre, sin tarjeta, con hasta 300 correos al día."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para una lista de hasta 500 contactos, la comparación se reduce al precio del plan pago: revísalo en el simulador de cada herramienta, con el tamaño de tu lista y en la moneda que pagas."
+        ]
+      },
+      {
+        "heading": "WhatsApp: solo en Reach Pro",
+        "paragraphs": [
+          "En la página de Reach, las campañas de marketing por WhatsApp aparecen solo en Pro, a US$ 2,79 al mes en los primeros 12 meses (renueva a US$ 3,99 al mes). Starter y Grow no las tienen. La página no muestra cuánto cuesta cada mensaje de WhatsApp, así que revisa el panel antes de contar con ese canal.",
+          "En Brevo, el WhatsApp aparece entre los canales del plan Professional. No leímos el precio de ese plan en dólares, así que no lo comparamos aquí."
+        ]
+      },
+      {
+        "heading": "Cuando la lista crece",
+        "paragraphs": [
+          "El primer límite que pesa es el de destinatarios: 100 en Starter, 500 en Grow y 1.000 en Pro. Los planes de Reach se detienen ahí. Quien tiene o espera tener más de 1.000 contactos debe mirar Mailchimp o Brevo, que cobran según la franja de contactos o de envíos.",
+          "El segundo límite es el de envíos. En Grow, 3.500 correos al mes con 500 destinatarios dan 7 envíos a la lista entera en el mes; en Pro, 7.000 correos con 1.000 destinatarios también dan 7. Un boletín semanal cabe. Quien manda a toda la lista más de una vez por semana pasa del límite."
+        ],
+        "bullets": [
+          "**¿Todavía no tienes dominio?** Si quieres que la dirección de tu sitio aparezca como remitente, mira [dominio en Hostinger: comprarlo ahí, transferirlo o registrarlo en otro sitio](/es/reviews/dominio-hostinger-comprar-o-transferir).",
+          "**¿Vas a cambiar de herramienta después?** Exporta la lista de contactos antes de cancelar el plan viejo y revisa en la herramienta nueva cómo importarla."
+        ]
+      },
+      {
+        "heading": "Cupón SONAR20 y precio de Reach",
+        "paragraphs": [
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**. Lo probamos en el sitio brasileño, en el Reach 500 de 24 meses, el 30 de octubre de 2026, y el descuento se aplicó en el carrito. En los otros planes y períodos de Reach no lo probamos; revisa el carrito. La regla completa del código está en [cupones de Hostinger](/es/coupons/hostinger).",
+          "El precio que muestra la página y el del carrito pueden no coincidir el mismo día. Revisa el carrito para ver qué precio vale para ti y cuánto le quita el SONAR20."
+        ]
+      },
+      {
+        "heading": "¿Vale la pena? El veredicto",
+        "paragraphs": [
+          "**Vale la pena** para quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios. Grow cubre una lista de hasta 500 destinatarios; Pro, hasta 1.000 y WhatsApp. En el sitio global, la renovación de Grow (US$ 2,49 al mes) y la de Pro (US$ 3,99 al mes) también entran en la decisión, así que revísalas antes de pagar.",
+          "**Quédate con el plan gratis de Mailchimp o de Brevo** si tu lista está empezando y todavía no sabes si vas a mandar correos con frecuencia. En las páginas que leímos, Reach no tiene plan gratis.",
+          "**Ve con Mailchimp o Brevo** si la lista pasa de 1.000 contactos o si mandas a toda la lista más de una vez por semana: los planes de Reach se detienen en 1.000 destinatarios y 7.000 correos al mes."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Vale la pena Hostinger Reach? Vale la pena para quien tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios. En el sitio global, el 30 de octubre de 2026, Grow costaba US$ 1,74 al mes en los primeros 12 meses y renovaba a US$ 2,49 al mes.",
+          "¿Cuánto cuesta Hostinger Reach? En el sitio global de Hostinger, el 30 de octubre de 2026, en dólares: Starter US$ 1,49 al mes, Grow US$ 1,74 y Pro US$ 2,79 en los primeros 12 meses, con renovación a US$ 1,49, US$ 2,49 y US$ 3,99. Los precios pueden variar según el país y la moneda.",
+          "¿Hostinger Reach tiene plan gratis? No en las páginas que leímos: sus tres planes son de pago. Mailchimp es gratis para menos de 250 contactos, y Brevo tiene un plan gratis con hasta 300 correos al día.",
+          "¿Hostinger Reach tiene WhatsApp? Sí, solo en el plan Pro. La página no muestra el costo por mensaje; revisa el panel.",
+          "¿Qué es Reach 500? Es el nombre que Grow tiene en el carrito de Hostinger, por su límite de 500 destinatarios. Envía 3.500 correos al mes.",
+          "¿Hostinger Reach o Mailchimp? Para una lista de hasta 1.000 destinatarios con sitio en Hostinger, Reach es la opción que conviene comparar primero. Para empezar gratis, o para una lista de más de 1.000 contactos, Mailchimp o Brevo.",
+          "¿El código SONAR20 vale en Hostinger Reach? Funcionó en nuestra prueba del 30 de octubre de 2026, en el sitio brasileño, con el Reach 500 de 24 meses. En los otros planes y períodos no lo probamos; revisa el carrito."
+        ]
+      },
+      {
+        "heading": "Quién escribe",
+        "paragraphs": [
+          "El Em Casa com Cecília funciona en el hosting gestionado de Hostinger, y el dominio está registrado allí desde el 17 de noviembre de 2024. Nadie del equipo ha usado Reach, Mailchimp ni Brevo para enviar una campaña: este texto reúne lo que decían las tres páginas de precios el 30 de octubre de 2026 y la prueba del SONAR20 en el carrito. Cómo cobra, renueva y devuelve el dinero Hostinger está en [¿Es confiable Hostinger?](/es/reviews/hostinger-es-confiable)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. Lo probamos en el sitio brasileño, en Reach 500 de 24 meses; en los otros planes, revisa el carrito.",
+      "label": "Ver los planes de Reach con el SONAR20",
+      "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. Nadie del equipo ha usado Reach.",
+    "relatedArticles": [
+      {
+        "slug": "cupon-hostinger-codigo-de-referido",
+        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+      },
+      {
+        "slug": "hostinger-es-confiable",
+        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+      },
+      {
+        "slug": "dominio-hostinger-comprar-o-transferir",
+        "title": "Dominio en Hostinger: ¿comprarlo ahí, transferirlo o registrarlo en otro sitio? Precio, renovación y qué revisar"
+      }
+    ]
+  },
+  {
+    "id": 722,
+    "slug": "hostinger-reach-mailchimp-ou-brevo",
+    "locale": "fr",
+    "translationKey": "hostinger-reach-ou-mailchimp-brevo",
+    "title": "Hostinger Reach, Mailchimp ou Brevo : lequel choisir pour l'e-mail marketing",
+    "seoTitle": "Hostinger Reach vaut-il le coup ? Comparatif avec Mailchimp et Brevo",
+    "type": "Guide de choix",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Édition et analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Reach convient à qui a déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires ; les listes plus grandes vont vers Mailchimp ou Brevo. Prix mondiaux de Hostinger en dollars américains au 30 octobre 2026, avec le renouvellement.",
+    "metaDescription": "Hostinger Reach vaut-il le coup ? Tableau par profil, forfaits, limites d'envoi et WhatsApp, avec les prix mondiaux en dollars américains et le renouvellement au 30 octobre 2026.",
+    "publishedAt": "30 octobre 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+    "imageAlt": "Logo Hostinger avec des icônes d'e-mail et de graphique, et le mot Reach sur le bandeau",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Reach convient à qui a déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Sur le site mondial de Hostinger, ses forfaits commencent à 1,49 US$ par mois. Qui débute sans budget peut d'abord utiliser le forfait gratuit de Mailchimp ou de Brevo. Ce qui tranche, c'est la limite d'envoi et WhatsApp, dans le tableau ci-dessous."
+        ]
+      },
+      {
+        "heading": "Lequel choisir selon votre cas : le tableau",
+        "paragraphs": [
+          "La bonne question n'est pas quel outil est le meilleur, mais combien de personnes figurent sur votre liste, combien d'e-mails vous envoyez par mois et si vous avez besoin de WhatsApp. Le tableau résume le choix d'après ce que disaient les pages tarifaires de Hostinger, Mailchimp et Brevo au 30 octobre 2026 :"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Profil",
+            "Meilleure option",
+            "Pourquoi"
+          ],
+          "rows": [
+            [
+              "Petite liste, on débute sans budget",
+              "Forfait gratuit de Brevo ou de Mailchimp",
+              "Le forfait gratuit de Brevo envoie jusqu'à 300 e-mails par jour, sans carte. Mailchimp est gratuit sous 250 contacts. Sur les pages Hostinger que nous avons lues, les trois forfaits Reach sont payants."
+            ],
+            [
+              "Site chez Hostinger et liste jusqu'à 500",
+              "Reach Grow",
+              "1,74 US$ par mois les 12 premiers mois (renouvellement à 2,49 US$), avec 3 500 e-mails par mois."
+            ],
+            [
+              "Besoin de WhatsApp",
+              "Reach Pro",
+              "WhatsApp n'est que dans Pro. La page n'indique pas le coût par message. Chez Brevo, WhatsApp figure dans le forfait Professional, sans prix ici."
+            ],
+            [
+              "Limite gratuite dépassée, jusqu'à 1 000 contacts",
+              "Reach Grow ou Pro",
+              "Pro va jusqu'à 1 000 destinataires pour 2,79 US$ par mois les 12 premiers mois (renouvellement à 3,99 US$). Nous n'avons pas relevé les prix payants de Mailchimp et de Brevo en dollars : ils ne sont pas comparés ici."
+            ],
+            [
+              "Liste de plus de 1 000 contacts",
+              "Mailchimp ou Brevo",
+              "Les forfaits Reach s'arrêtent à 1 000 destinataires et 7 000 e-mails par mois."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-fr.webp",
+          "alt": "Tableau Reach, Mailchimp ou Brevo par profil : une petite liste qui débute sans budget va vers le forfait gratuit de Brevo ou de Mailchimp ; un site chez Hostinger avec une liste jusqu'à 500 va vers Reach Grow ; qui a besoin de WhatsApp, vers Reach Pro ; qui a dépassé la limite gratuite, jusqu'à 1 000 contacts, vers Reach Grow ou Pro ; une liste de plus de 1 000 contacts, vers Mailchimp ou Brevo",
+          "caption": "Le tableau en bref : gratuit pour commencer, Reach jusqu'à 1 000 destinataires, Mailchimp ou Brevo au-delà. Tableau d'Em Casa com Cecília, d'après ce que disaient les pages tarifaires au 30 octobre 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3846
+        },
+        "postParagraphs": [
+          "Si votre liste tient dans le forfait gratuit de Mailchimp ou de Brevo, commencez par lui et payez quand vous dépassez la limite. Si vous avez déjà un site chez Hostinger et que la liste a dépassé quelques centaines de contacts, les prix publiés de Reach sont ceux à comparer en premier."
+        ]
+      },
+      {
+        "heading": "Les forfaits Reach au 30 octobre 2026",
+        "paragraphs": [
+          "Le site de Hostinger propose trois forfaits Reach : Starter, Grow et Pro. Au panier, Grow apparaît sous le nom « Reach 500 », pour sa limite de 500 destinataires. Les prix ci-dessous sont ceux du site mondial de Hostinger, en dollars américains, relevés le 30 octobre 2026. Ils peuvent varier selon le pays et la devise, et changer :"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forfait",
+            "12 premiers mois",
+            "Renouvellement"
+          ],
+          "rows": [
+            [
+              "[Starter](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "1,49 US$ par mois",
+              "1,49 US$ par mois"
+            ],
+            [
+              "[Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "1,74 US$ par mois",
+              "2,49 US$ par mois"
+            ],
+            [
+              "[Pro](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "2,79 US$ par mois",
+              "3,99 US$ par mois"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Ce qui compte, c'est le renouvellement : sur Grow et Pro, il dépasse le prix de la première année. Les forfaits, d'après la page :"
+        ],
+        "bullets": [
+          "**Starter :** 100 destinataires, 200 e-mails par mois et aucun crédit d'IA.",
+          "**Grow :** 500 destinataires, 3 500 e-mails par mois et 10 crédits d'IA par mois.",
+          "**Pro :** 1 000 destinataires, 7 000 e-mails par mois et 20 crédits d'IA par mois. C'est le seul forfait avec les campagnes WhatsApp."
+        ]
+      },
+      {
+        "heading": "Mailchimp et Brevo : les forfaits gratuits",
+        "paragraphs": [
+          "Les deux ont un forfait gratuit, et sur les pages Hostinger que nous avons lues, aucun des trois forfaits Reach n'est gratuit. Nous avons lu les pages de Mailchimp et de Brevo le 30 octobre 2026. Leurs prix payants ne figurent pas dans cette comparaison, faute de les avoir relevés en dollars :"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forfait",
+            "Ce que dit la page"
+          ],
+          "rows": [
+            [
+              "Mailchimp gratuit",
+              "Pour moins de 250 contacts. Quand la liste dépasse la limite, l'envoi se met en pause."
+            ],
+            [
+              "Brevo gratuit",
+              "Pour toujours, sans carte, avec jusqu'à 300 e-mails par jour."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pour une liste allant jusqu'à 500 contacts, la comparaison se résume au prix du forfait payant : vérifiez-le dans le simulateur de chaque outil, avec la taille de votre liste et dans la devise que vous payez."
+        ]
+      },
+      {
+        "heading": "WhatsApp : seulement dans Reach Pro",
+        "paragraphs": [
+          "Sur la page Reach, les campagnes de marketing WhatsApp n'apparaissent que dans Pro, à 2,79 US$ par mois les 12 premiers mois (renouvellement à 3,99 US$ par mois). Starter et Grow n'en ont pas. La page n'indique pas combien coûte chaque message WhatsApp : vérifiez le tableau de bord avant de compter sur ce canal.",
+          "Chez Brevo, WhatsApp figure parmi les canaux du forfait Professional. Nous n'avons pas relevé le prix de ce forfait en dollars : il n'est donc pas comparé ici."
+        ]
+      },
+      {
+        "heading": "Quand la liste grandit",
+        "paragraphs": [
+          "La première limite qui compte est celle des destinataires : 100 sur Starter, 500 sur Grow et 1 000 sur Pro. Les forfaits Reach s'arrêtent là. Qui a ou attend plus de 1 000 contacts doit regarder Mailchimp ou Brevo, qui facturent selon la tranche de contacts ou le volume d'envoi.",
+          "La deuxième limite est celle des envois. Sur Grow, 3 500 e-mails par mois pour 500 destinataires donnent 7 envois à la liste entière dans le mois ; sur Pro, 7 000 e-mails pour 1 000 destinataires donnent aussi 7. Une infolettre hebdomadaire tient. Envoyer à toute la liste plus d'une fois par semaine dépasse la limite."
+        ],
+        "bullets": [
+          "**Vous n'avez pas encore de domaine ?** Si vous voulez que l'adresse de votre site apparaisse comme expéditeur, voyez [domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs](/fr/reviews/domaine-hostinger-acheter-ou-transferer).",
+          "**Vous changerez d'outil plus tard ?** Exportez la liste de contacts avant d'annuler l'ancien forfait, et vérifiez dans le nouvel outil comment l'importer."
+        ]
+      },
+      {
+        "heading": "Code SONAR20 et prix de Reach",
+        "paragraphs": [
+          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Nous l'avons testé sur le site brésilien, sur Reach 500 pour 24 mois, le 30 octobre 2026, et la réduction s'est appliquée au panier. Pour les autres forfaits et périodes de Reach, nous ne l'avons pas testé : vérifiez le panier. La règle complète du code est dans [coupons Hostinger](/fr/coupons/hostinger).",
+          "Le prix affiché sur la page et celui du panier peuvent différer le même jour : vérifiez le panier pour savoir quel prix vaut pour vous et combien le SONAR20 en retire."
+        ]
+      },
+      {
+        "heading": "Vaut-il le coup ? Le verdict",
+        "paragraphs": [
+          "**Vaut le coup** pour qui a déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Grow couvre une liste jusqu'à 500 destinataires ; Pro, jusqu'à 1 000 et WhatsApp. Sur le site mondial, le renouvellement de Grow (2,49 US$ par mois) et celui de Pro (3,99 US$ par mois) comptent dans la décision : vérifiez-les avant de payer.",
+          "**Restez sur le forfait gratuit de Mailchimp ou de Brevo** si votre liste démarre et que vous ne savez pas encore si vous enverrez souvent des e-mails. Sur les pages que nous avons lues, Reach n'a pas de forfait gratuit.",
+          "**Passez à Mailchimp ou à Brevo** si votre liste dépasse 1 000 contacts ou si vous envoyez à toute la liste plus d'une fois par semaine : les forfaits Reach s'arrêtent à 1 000 destinataires et 7 000 e-mails par mois."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Hostinger Reach vaut-il le coup ? Oui, pour qui a un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Sur le site mondial, au 30 octobre 2026, Grow coûtait 1,74 US$ par mois les 12 premiers mois, puis 2,49 US$ par mois au renouvellement.",
+          "Combien coûte Hostinger Reach ? Sur le site mondial de Hostinger, au 30 octobre 2026, en dollars américains : Starter 1,49 US$ par mois, Grow 1,74 US$ et Pro 2,79 US$ les 12 premiers mois, avec un renouvellement à 1,49 US$, 2,49 US$ et 3,99 US$. Les prix peuvent varier selon le pays et la devise.",
+          "Hostinger Reach a-t-il un forfait gratuit ? Pas sur les pages que nous avons lues : ses trois forfaits sont payants. Mailchimp est gratuit pour moins de 250 contacts, et Brevo propose un forfait gratuit jusqu'à 300 e-mails par jour.",
+          "Hostinger Reach a-t-il WhatsApp ? Oui, seulement dans le forfait Pro. La page n'indique pas le coût par message ; consultez le tableau de bord.",
+          "Qu'est-ce que Reach 500 ? C'est le nom que prend Grow dans le panier Hostinger, d'après sa limite de 500 destinataires. Il envoie 3 500 e-mails par mois.",
+          "Hostinger Reach ou Mailchimp ? Pour une liste allant jusqu'à 1 000 destinataires avec un site chez Hostinger, Reach est le choix à comparer en premier. Pour démarrer gratuitement, ou pour une liste de plus de 1 000 contacts, Mailchimp ou Brevo.",
+          "Le code SONAR20 fonctionne-t-il sur Hostinger Reach ? Il a fonctionné lors de notre test du 30 octobre 2026, sur le site brésilien, avec Reach 500 pour 24 mois. Pour les autres forfaits et périodes, nous ne l'avons pas testé : vérifiez le panier."
+        ]
+      },
+      {
+        "heading": "Qui écrit",
+        "paragraphs": [
+          "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, et le domaine y est enregistré depuis le 17 novembre 2024. Personne dans l'équipe n'a utilisé Reach, Mailchimp ni Brevo pour envoyer une campagne : ce texte rassemble ce que disaient les trois pages tarifaires au 30 octobre 2026 et le test du SONAR20 au panier. La façon dont Hostinger facture, renouvelle et rembourse est expliquée dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous l'avons testé sur Reach 500 pour 24 mois, sur le site brésilien ; pour les autres forfaits, vérifiez le panier.",
+      "label": "Voir les forfaits Reach avec le SONAR20",
+      "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l'équipe n'a utilisé Reach.",
+    "relatedArticles": [
+      {
+        "slug": "code-promo-hostinger-parrainage",
+        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+      },
+      {
+        "slug": "hostinger-est-il-fiable",
+        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      },
+      {
+        "slug": "domaine-hostinger-acheter-ou-transferer",
+        "title": "Domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs ? Prix, renouvellement et ce qu'il faut vérifier"
+      }
+    ]
+  },
+  {
+    "id": 723,
+    "slug": "hostinger-reach-mailchimp-o-brevo",
+    "locale": "it",
+    "translationKey": "hostinger-reach-ou-mailchimp-brevo",
+    "hideFromPortugueseListings": true,
+    "title": "Hostinger Reach, Mailchimp o Brevo: quale scegliere per l'email marketing",
+    "seoTitle": "Conviene Hostinger Reach? Confronto con Mailchimp e Brevo",
+    "type": "Guida alla scelta",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redazione e analisi",
+        "initials": "BL"
+      }
+    ],
+    "description": "Reach conviene a chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari; le liste più grandi vanno su Mailchimp o Brevo. Prezzi del 30/10/2026, con il rinnovo.",
+    "metaDescription": "Conviene Hostinger Reach? Scelta per profilo, piani, limiti di invio, WhatsApp e rinnovo, confrontati con i piani gratuiti di Mailchimp e Brevo al 30/10/2026.",
+    "publishedAt": "30 ottobre 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+    "imageAlt": "Logo di Hostinger con le icone di e-mail e di grafico, e la parola Reach nella fascia",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Reach fa per te se hai già un sito su Hostinger e una lista fino a 1.000 destinatari. Se parti senza budget, usa prima il piano gratuito di Mailchimp o di Brevo. A decidere sono il limite di invio e WhatsApp, come nella tabella qui sotto."
+        ]
+      },
+      {
+        "heading": "Quale scegliere per chi: il quadro",
+        "paragraphs": [
+          "La domanda giusta non è quale strumento sia il migliore, ma quante persone ci sono nella tua lista, quante email mandi al mese e se ti serve WhatsApp. Il quadro riassume la scelta con quello che le pagine dei prezzi di Hostinger, Mailchimp e Brevo dicevano il 30/10/2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Profilo",
+            "Opzione migliore",
+            "Perché"
+          ],
+          "rows": [
+            [
+              "Lista piccola, si parte senza budget",
+              "Piano gratuito di Brevo o di Mailchimp",
+              "Brevo gratis invia fino a 300 email al giorno, senza carta. Mailchimp è gratis sotto 250 contatti. La pagina di Reach non ha un piano gratuito."
+            ],
+            [
+              "Sito già su Hostinger e lista fino a 500",
+              "Reach Grow",
+              "3.500 email al mese, senza il marchio Reach e con automazioni. Per 12 mesi US$ 1,74 al mese, rinnovo a US$ 2,49."
+            ],
+            [
+              "Serve WhatsApp",
+              "Reach Pro",
+              "WhatsApp è solo nel Pro: per 12 mesi US$ 2,79 al mese, rinnovo a US$ 3,99. La pagina non indica il costo per messaggio. In Brevo WhatsApp è nel piano Professional, di cui qui non riportiamo il prezzo."
+            ],
+            [
+              "Oltre il limite gratis, fino a 1.000 contatti",
+              "Reach Grow o Pro",
+              "Pro: 1.000 destinatari e 7.000 email al mese, per 12 mesi US$ 2,79 al mese, rinnovo a US$ 3,99. Non abbiamo letto in dollari i prezzi a pagamento di Mailchimp e Brevo, quindi non li confrontiamo."
+            ],
+            [
+              "Lista oltre 1.000 contatti",
+              "Mailchimp o Brevo",
+              "I piani Reach si fermano a 1.000 destinatari e 7.000 email al mese."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-it.webp",
+          "alt": "Quadro Reach, Mailchimp o Brevo per profilo: una lista piccola che parte senza budget sceglie il piano gratuito di Brevo o di Mailchimp; chi ha già un sito su Hostinger e una lista fino a 500 sceglie Reach Grow; chi ha bisogno di WhatsApp sceglie Reach Pro; chi ha superato il limite gratis fino a 1.000 contatti sceglie Reach Grow o Pro; una lista oltre 1.000 contatti sceglie Mailchimp o Brevo",
+          "caption": "Il riassunto del quadro: gratis per iniziare, Reach fino a 1.000 destinatari, Mailchimp o Brevo oltre. Quadro dell'Em Casa com Cecília, con quello che le pagine dei prezzi dicevano il 30/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3846
+        },
+        "postParagraphs": [
+          "Se la lista sta nel piano gratuito di Mailchimp o di Brevo, parti da lì e paga quando superi il limite. Se hai già un sito su Hostinger e la lista supera le poche centinaia di contatti, guarda per prima la Reach Grow, con i prezzi indicati più sotto."
+        ]
+      },
+      {
+        "heading": "I piani Reach al 30/10/2026",
+        "paragraphs": [
+          "La pagina di Reach ha tre piani: Starter, Grow e Pro. Nel carrello brasiliano il Grow compare come «Reach 500», dal limite di 500 destinatari. I prezzi qui sotto vengono dal sito internazionale di Hostinger, in dollari statunitensi, letti il 30/10/2026 durante la campagna Black Friday. Possono variare per paese e valuta."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piano",
+            "12 mesi (al mese)",
+            "Rinnovo"
+          ],
+          "rows": [
+            [
+              "[Starter](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1,49 (totale US$ 17,88)",
+              "US$ 1,49"
+            ],
+            [
+              "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1,74 (totale US$ 20,92)",
+              "US$ 2,49"
+            ],
+            [
+              "[Pro](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 2,79 (totale US$ 33,52)",
+              "US$ 3,99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Il prezzo a 24 mesi non l'abbiamo letto sul sito internazionale, quindi non lo riportiamo. Conta il rinnovo: nel Grow e nel Pro sale in modo netto rispetto al prezzo della campagna. Ecco i piani, come li descrive la pagina:"
+        ],
+        "bullets": [
+          "**Starter:** 100 destinatari, 200 email al mese e nessun credito AI. Le email portano il marchio Reach.",
+          "**Grow:** 500 destinatari, 3.500 email al mese e 10 crediti AI al mese. Toglie il marchio Reach e include personalizzazione, programmazione e automazioni.",
+          "**Pro:** 1.000 destinatari, 7.000 email al mese e 20 crediti AI al mese. Aggiunge HTML, orario di invio ottimizzato, campagne WhatsApp, campi personalizzati e colleghi di team."
+        ],
+        "emphasis": "La pagina dà 30 giorni per chiedere il rimborso."
+      },
+      {
+        "heading": "Mailchimp e Brevo: il piano gratuito",
+        "paragraphs": [
+          "Entrambi hanno un piano gratuito, Reach no. Non riportiamo i prezzi dei piani a pagamento, perché non li abbiamo letti in dollari. Ecco i piani gratuiti, come li mostravano le pagine il 30/10/2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piano",
+            "Prezzo",
+            "Cosa dice la pagina"
+          ],
+          "rows": [
+            [
+              "Mailchimp gratis",
+              "Gratis",
+              "Per meno di 250 contatti. Superato il limite, l'invio si mette in pausa."
+            ],
+            [
+              "Brevo gratis",
+              "Gratis",
+              "Per sempre, senza carta, con fino a 300 email al giorno."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Chi supera i 1.000 contatti trova piani a pagamento di scala diversa da entrambi: conviene leggere i prezzi sulla pagina del fornitore, nella propria valuta."
+        ]
+      },
+      {
+        "heading": "WhatsApp: solo nel Reach Pro",
+        "paragraphs": [
+          "Sulla pagina di Reach le campagne WhatsApp compaiono solo nel Pro: per 12 mesi US$ 2,79 al mese, rinnovo a US$ 3,99. Starter e Grow non le hanno. La pagina non dice quanto costa ogni messaggio WhatsApp, quindi controlla nel pannello prima di contarci.",
+          "In Brevo WhatsApp compare tra i canali del piano Professional, di cui qui non riportiamo il prezzo."
+        ]
+      },
+      {
+        "heading": "Quando la lista cresce",
+        "paragraphs": [
+          "Il primo limite è quello dei destinatari: 100 nello Starter, 500 nel Grow e 1.000 nel Pro. I piani Reach si fermano lì. Chi ha o prevede più di 1.000 contatti passa a Mailchimp o a Brevo, che fatturano per fascia di contatti o di invio.",
+          "Il secondo limite è quello degli invii. Nel Grow, 3.500 email al mese con 500 destinatari danno 7 invii all'intera lista nel mese; nel Pro, 7.000 email con 1.000 destinatari danno anch'esse 7. Chi manda una newsletter a settimana ci sta. Chi scrive all'intera lista più di una volta a settimana supera il limite."
+        ],
+        "bullets": [
+          "**Non hai ancora un dominio?** Se vuoi l'indirizzo del tuo sito come mittente, leggi [Dominio su Hostinger: comprarlo lì, trasferirlo o registrarlo altrove](/it/reviews/dominio-hostinger-comprare-o-trasferire).",
+          "**Cambi strumento in seguito?** Esporta la lista dei contatti prima di disdire il piano vecchio e verifica nello strumento nuovo come si importa."
+        ]
+      },
+      {
+        "heading": "SONAR20 e il prezzo di Reach",
+        "paragraphs": [
+          "Inserisci il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: ottieni il **20% sul primo periodo**. Abbiamo testato il codice sul sito brasiliano, con il Reach 500 da 24 mesi, senza riportare qui gli importi in reais. Sugli altri piani e periodi, e sul sito internazionale, non abbiamo testato: controlla nel carrello. Le regole complete del codice sono in [coupon Hostinger](/it/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Conviene? Il verdetto",
+        "paragraphs": [
+          "**Conviene** se hai già un sito su Hostinger e una lista fino a 1.000 destinatari. Il Grow copre liste fino a 500 con automazioni; il Pro, liste fino a 1.000 e WhatsApp.",
+          "**Resta sul piano gratuito di Mailchimp o di Brevo** se la lista è agli inizi e non sai ancora quanto spesso mandare email. Reach non ha un piano gratuito sulla pagina.",
+          "**Passa a Mailchimp o Brevo** se la lista supera 1.000 contatti o se scrivi all'intera lista più di una volta a settimana: i piani Reach si fermano a 1.000 destinatari e 7.000 email al mese."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Hostinger Reach conviene? Sì, per chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari. Sul sito internazionale il Grow costa US$ 1,74 al mese per 12 mesi e rinnova a US$ 2,49.",
+          "Quanto costa Hostinger Reach? Sul sito internazionale, al 30/10/2026: Starter US$ 1,49, Grow US$ 1,74 e Pro US$ 2,79 al mese per 12 mesi. Il rinnovo è di US$ 1,49, US$ 2,49 e US$ 3,99. I prezzi possono cambiare per paese e valuta.",
+          "Hostinger Reach ha un piano gratuito? Sulla pagina no: tutti e tre i piani sono a pagamento. Mailchimp è gratis sotto 250 contatti, e Brevo ha un piano gratuito per sempre con fino a 300 email al giorno.",
+          "Hostinger Reach ha WhatsApp? Sì, ma solo nel piano Pro. La pagina non indica il costo per messaggio: controllalo nel pannello.",
+          "Cos'è il Reach 500? È il nome che il Grow ha nel carrello brasiliano di Hostinger, per il limite di 500 destinatari. Invia 3.500 email al mese.",
+          "Hostinger Reach o Mailchimp? Fino a 1.000 destinatari, se hai già un sito su Hostinger, Reach è la scelta da valutare. Per partire gratis o per una lista più grande, guarda a Mailchimp.",
+          "Il codice SONAR20 vale per Hostinger Reach? Sul sito brasiliano l'abbiamo testato con il Reach 500 da 24 mesi. Sugli altri piani e periodi, e sul sito internazionale, non abbiamo testato: controlla nel carrello."
+        ]
+      },
+      {
+        "heading": "Chi scrive",
+        "paragraphs": [
+          "L'Em Casa com Cecília gira sull'hosting gestito di Hostinger, e il dominio è registrato lì dal 17/11/2024. Nessuno del team ha usato Reach, Mailchimp o Brevo per mandare una campagna: questo testo mette insieme quello che le pagine dei prezzi dei tre dicevano il 30/10/2026 e il test del SONAR20 nel carrello. Come Hostinger addebita, rinnova e rimborsa è spiegato in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Abbiamo testato il codice sul sito brasiliano, con Reach 500 da 24 mesi; sugli altri piani controlla nel carrello.",
+      "label": "Vedi i piani Reach con il SONAR20",
+      "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team ha usato Reach, Mailchimp o Brevo.",
+    "relatedArticles": [
+      {
+        "slug": "coupon-hostinger-codice-invito",
+        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+      },
+      {
+        "slug": "hostinger-e-affidabile",
+        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+      },
+      {
+        "slug": "dominio-hostinger-comprare-o-trasferire",
+        "title": "Dominio su Hostinger: comprarlo lì, trasferirlo o registrarlo altrove? Prezzo, rinnovo e cosa controllare"
+      }
+    ]
+  },
+  {
+    "id": 724,
+    "slug": "hostinger-reach-oder-mailchimp-brevo",
+    "locale": "de",
+    "translationKey": "hostinger-reach-ou-mailchimp-brevo",
+    "hideFromPortugueseListings": true,
+    "title": "Hostinger Reach, Mailchimp oder Brevo: welches Tool für E-Mail-Marketing",
+    "seoTitle": "Lohnt sich Hostinger Reach? Vergleich mit Mailchimp und Brevo",
+    "type": "Entscheidungshilfe",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redaktion und Analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Reach passt für alle mit einer Hostinger-Website und einer Liste bis 1.000 Empfänger; größere Listen gehen zu Mailchimp oder Brevo. Preise vom 30.10.2026, mit Verlängerung.",
+    "metaDescription": "Lohnt sich Hostinger Reach? Auswahl nach Profil, Tarife in US-Dollar, Versandlimits, WhatsApp und Verlängerung, verglichen mit den kostenlosen Tarifen von Mailchimp und Brevo am 30.10.2026.",
+    "publishedAt": "30. Oktober 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+    "imageAlt": "Hostinger-Logo mit E-Mail- und Diagramm-Symbolen und dem Wort Reach im Band",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Reach passt für alle, die schon eine Website bei Hostinger haben und eine Liste bis 1.000 Empfänger. Wer ohne Budget startet, nimmt zuerst den kostenlosen Tarif von Mailchimp oder Brevo. Entscheidend sind das Versandlimit und WhatsApp, wie in der Tabelle unten."
+        ]
+      },
+      {
+        "heading": "Welches Tool für wen: die Tabelle",
+        "paragraphs": [
+          "Die richtige Frage ist nicht, welches Tool das beste ist, sondern wie viele Personen auf Ihrer Liste stehen, wie viele E-Mails Sie im Monat verschicken und ob Sie WhatsApp brauchen. Die Tabelle fasst die Wahl nach dem zusammen, was die Preis- und Tarifseiten von Hostinger, Mailchimp und Brevo am 30.10.2026 zeigten:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Profil",
+            "Beste Option",
+            "Warum"
+          ],
+          "rows": [
+            [
+              "Kleine Liste, Start ohne Budget",
+              "Kostenloser Tarif von Brevo oder Mailchimp",
+              "Brevo gratis verschickt bis zu 300 E-Mails am Tag, ohne Karte. Mailchimp ist unter 250 Kontakten kostenlos. Reach hat auf der Seite keinen kostenlosen Tarif."
+            ],
+            [
+              "Hostinger-Website vorhanden, Liste bis 500",
+              "Reach Grow",
+              "3.500 E-Mails im Monat, ohne Reach-Marke und mit Automatisierungen. In 12 Monaten US$ 1,74 im Monat, Verlängerung US$ 2,49."
+            ],
+            [
+              "Braucht WhatsApp",
+              "Reach Pro",
+              "WhatsApp gibt es nur im Pro: in 12 Monaten US$ 2,79 im Monat, Verlängerung US$ 3,99. Die Kosten pro Nachricht zeigt die Seite nicht. Bei Brevo steckt WhatsApp im Tarif Professional, dessen Preis wir hier nicht nennen."
+            ],
+            [
+              "Über das kostenlose Limit, bis 1.000 Kontakte",
+              "Reach Grow oder Pro",
+              "Pro: bis 1.000 Empfänger und 7.000 E-Mails im Monat, in 12 Monaten US$ 2,79 im Monat, Verlängerung US$ 3,99. Die bezahlten Tarife von Mailchimp und Brevo haben wir nicht in Dollar gelesen, deshalb vergleichen wir nicht."
+            ],
+            [
+              "Liste über 1.000 Kontakte",
+              "Mailchimp oder Brevo",
+              "Die Reach-Tarife enden bei 1.000 Empfängern und 7.000 E-Mails im Monat."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-de.webp",
+          "alt": "Quadro Reach, Mailchimp oder Brevo nach Profil: kleine Liste ohne Budget nimmt den kostenlosen Tarif von Brevo oder Mailchimp; wer eine Hostinger-Website und eine Liste bis 500 hat, nimmt Reach Grow; wer WhatsApp braucht, nimmt Reach Pro; wer das kostenlose Limit überschritten hat und bis 1.000 Kontakte hat, nimmt Reach Grow oder Pro; Liste über 1.000 Kontakte, Mailchimp oder Brevo",
+          "caption": "Die Kurzfassung des Quadrats: kostenlos starten, Reach bis 1.000 Empfänger, darüber Mailchimp oder Brevo. Quadrat vom Em Casa com Cecília, nach den Preisseiten vom 30.10.2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3846
+        },
+        "postParagraphs": [
+          "Passt Ihre Liste in den kostenlosen Tarif von Mailchimp oder Brevo, starten Sie dort und zahlen erst, wenn Sie die Grenze überschreiten. Haben Sie schon eine Hostinger-Website und ist die Liste über ein paar Hundert hinaus, ist Reach Grow der Tarif, den Sie sich zuerst ansehen sollten, mit den Preisen unten."
+        ]
+      },
+      {
+        "heading": "Die Reach-Tarife am 30.10.2026",
+        "paragraphs": [
+          "Reach hat drei Tarife: Starter, Grow und Pro. Im brasilianischen Warenkorb heißt der Grow „Reach 500“, nach dem Limit von 500 Empfängern. Die Preise unten stammen von der internationalen Hostinger-Seite, in US-Dollar, gelesen am 30.10.2026 während der Black-Friday-Aktion. Sie können je nach Land und Währung abweichen."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tarif",
+            "12 Monate (pro Monat)",
+            "Verlängerung"
+          ],
+          "rows": [
+            [
+              "[Starter](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1,49 (insgesamt US$ 17,88)",
+              "US$ 1,49"
+            ],
+            [
+              "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1,74 (insgesamt US$ 20,92)",
+              "US$ 2,49"
+            ],
+            [
+              "[Pro](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 2,79 (insgesamt US$ 33,52)",
+              "US$ 3,99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Auf der internationalen Seite haben wir keinen 24-Monats-Preis gelesen, deshalb nennen wir keinen. Entscheidend ist die Verlängerung: Beim Grow und beim Pro steigt sie deutlich gegenüber dem Aktionspreis. Die Tarife, wie die Seite sie beschreibt:"
+        ],
+        "bullets": [
+          "**Starter:** 100 Empfänger, 200 E-Mails im Monat und 0 KI-Credits. Die E-Mails tragen die Marke von Reach.",
+          "**Grow:** 500 Empfänger, 3.500 E-Mails im Monat und 10 KI-Credits im Monat. Entfernt die Reach-Marke und bringt Personalisierung, Terminierung und Automatisierungen.",
+          "**Pro:** 1.000 Empfänger, 7.000 E-Mails im Monat und 20 KI-Credits im Monat. Dazu kommen HTML, optimierte Versandzeit, WhatsApp-Kampagnen, eigene Felder und Teammitglieder."
+        ],
+        "emphasis": "Die Seite nennt 30 Tage, in denen Sie eine Rückerstattung verlangen können."
+      },
+      {
+        "heading": "Mailchimp und Brevo: der kostenlose Tarif",
+        "paragraphs": [
+          "Beide haben einen kostenlosen Tarif, Reach auf seiner Seite nicht. Die Preise bezahlter Tarife nennen wir hier nicht, weil wir sie nicht in US-Dollar gelesen haben. Die kostenlosen Tarife zeigten die Seiten am 30.10.2026 so:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tarif",
+            "Preis",
+            "Was die Seite sagt"
+          ],
+          "rows": [
+            [
+              "Mailchimp kostenlos",
+              "Kostenlos",
+              "Für weniger als 250 Kontakte. Wird die Grenze überschritten, pausiert der Versand."
+            ],
+            [
+              "Brevo kostenlos",
+              "Kostenlos",
+              "Dauerhaft und ohne Karte, mit bis zu 300 E-Mails am Tag."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Wer über 1.000 Kontakte hinauswächst, sollte die bezahlten Tarife beider Anbieter auf deren Preisseiten in der eigenen Währung nachsehen. Dort ändert sich die Rechnung bei dieser Größe."
+        ]
+      },
+      {
+        "heading": "WhatsApp: nur im Reach Pro",
+        "paragraphs": [
+          "Auf der Reach-Seite gibt es WhatsApp-Kampagnen nur im Pro: in 12 Monaten US$ 2,79 im Monat, Verlängerung US$ 3,99. Starter und Grow haben sie nicht. Die Seite zeigt nicht, was jede WhatsApp-Nachricht kostet. Prüfen Sie das im Dashboard, bevor Sie auf diesen Kanal setzen.",
+          "Bei Brevo ist WhatsApp Teil des Tarifs Professional; dessen Preis nennen wir hier nicht."
+        ]
+      },
+      {
+        "heading": "Wenn die Liste wächst",
+        "paragraphs": [
+          "Die erste Grenze ist die Zahl der Empfänger: 100 im Starter, 500 im Grow und 1.000 im Pro. Die Reach-Tarife enden dort. Wer mehr als 1.000 Kontakte hat oder erwartet, geht zu Mailchimp oder Brevo, die nach Kontaktzahl oder Versand abrechnen.",
+          "Die zweite Grenze sind die Versände. Im Grow ergeben 3.500 E-Mails bei 500 Empfängern 7 Versände an die ganze Liste im Monat; im Pro ergeben 7.000 E-Mails bei 1.000 Empfängern ebenfalls 7. Wer einmal pro Woche einen Newsletter verschickt, kommt hin. Wer die ganze Liste öfter als einmal pro Woche anschreibt, überschreitet das Limit."
+        ],
+        "bullets": [
+          "**Noch keine Domain?** Wenn Sie Ihre eigene Adresse als Absender wollen, lesen Sie [Domain bei Hostinger: dort kaufen, umziehen oder woanders registrieren](/de/reviews/hostinger-domain-kaufen-oder-umziehen).",
+          "**Wechseln Sie später das Tool?** Exportieren Sie die Kontaktliste, bevor Sie den alten Tarif kündigen, und prüfen Sie im neuen Tool, wie der Import funktioniert."
+        ]
+      },
+      {
+        "heading": "SONAR20 und der Preis von Reach",
+        "paragraphs": [
+          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder nutzen Sie den Link dieses Artikels: Sie sparen **20 % im ersten Zeitraum**. Wir haben den Code auf der brasilianischen Seite getestet, mit dem Reach 500 über 24 Monate, ohne die Beträge in Real hier zu nennen. Bei den anderen Tarifen und Zeiträumen und auf der internationalen Seite haben wir nicht getestet; prüfen Sie im Warenkorb. Die vollständige Regel des Codes steht bei [Hostinger-Gutscheine](/de/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Lohnt es sich? Das Fazit",
+        "paragraphs": [
+          "**Lohnt sich** für alle, die schon eine Website bei Hostinger haben und eine Liste bis 1.000 Empfänger. Der Grow deckt Listen bis 500 mit Automatisierungen ab, der Pro Listen bis 1.000 mit WhatsApp.",
+          "**Bleiben Sie beim kostenlosen Tarif von Mailchimp oder Brevo**, solange die Liste klein ist und Sie noch nicht wissen, wie oft Sie mailen. Reach hat auf seiner Seite keinen kostenlosen Tarif.",
+          "**Wechseln Sie zu Mailchimp oder Brevo**, wenn die Liste über 1.000 Kontakte wächst oder Sie die ganze Liste öfter als einmal pro Woche anschreiben: Die Reach-Tarife enden bei 1.000 Empfängern und 7.000 E-Mails im Monat."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Lohnt sich Hostinger Reach? Ja, für alle mit einer Hostinger-Website und einer Liste bis 1.000 Empfänger. Auf der internationalen Seite kostet der Grow in 12 Monaten US$ 1,74 im Monat und verlängert sich auf US$ 2,49.",
+          "Was kostet Hostinger Reach? Auf der internationalen Seite, am 30.10.2026: Starter US$ 1,49, Grow US$ 1,74 und Pro US$ 2,79 im Monat in 12 Monaten. Die Verlängerung liegt bei US$ 1,49, US$ 2,49 und US$ 3,99. Die Preise können je nach Land und Währung abweichen.",
+          "Hat Hostinger Reach einen kostenlosen Tarif? Auf der Seite nicht: alle drei Tarife sind bezahlt. Mailchimp ist für weniger als 250 Kontakte kostenlos, und Brevo bietet dauerhaft einen kostenlosen Tarif mit bis zu 300 E-Mails am Tag.",
+          "Hat Hostinger Reach WhatsApp? Ja, aber nur im Tarif Pro. Die Seite zeigt nicht, was eine Nachricht kostet; das sehen Sie im Dashboard.",
+          "Was ist Reach 500? Das ist der Name des Grow-Tarifs im brasilianischen Warenkorb, nach dem Limit von 500 Empfängern. Er verschickt 3.500 E-Mails im Monat.",
+          "Hostinger Reach oder Mailchimp? Bis 1.000 Empfänger ist Reach eine Option, wenn Sie schon bei Hostinger sind. Für einen kostenlosen Start oder eine größere Liste ist Mailchimp die Wahl.",
+          "Gilt der Code SONAR20 bei Hostinger Reach? Auf der brasilianischen Seite haben wir ihn mit dem Reach 500 über 24 Monate getestet. Bei den anderen Tarifen und auf der internationalen Seite haben wir ihn nicht getestet; prüfen Sie im Warenkorb."
+        ]
+      },
+      {
+        "heading": "Wer schreibt",
+        "paragraphs": [
+          "Der Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger, und die Domain ist dort seit 17.11.2024 registriert. Niemand aus dem Team hat Reach, Mailchimp oder Brevo für eine Kampagne genutzt: Dieser Text fasst zusammen, was die Preis- und Tarifseiten der drei am 30.10.2026 zeigten, und den Test des SONAR20 im Warenkorb. Wie Hostinger abrechnet, verlängert und Geld zurückgibt, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder nutzen Sie den Link: 20 % im ersten Zeitraum. Im Reach 500 über 24 Monate haben wir auf der brasilianischen Seite getestet; bei den anderen Tarifen prüfen Sie im Warenkorb.",
+      "label": "Die Reach-Tarife mit SONAR20 ansehen",
+      "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team hat Reach, Mailchimp oder Brevo genutzt.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-gutschein-empfehlungscode",
+        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+      },
+      {
+        "slug": "ist-hostinger-serioes",
+        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+      },
+      {
+        "slug": "hostinger-domain-kaufen-oder-umziehen",
+        "title": "Domain bei Hostinger: dort kaufen, umziehen oder woanders registrieren? Preis, Verlängerung und was Sie prüfen sollten"
+      }
+    ]
+  },
+  {
+    "id": 725,
+    "slug": "hostinger-reach-ja",
+    "locale": "ja",
+    "translationKey": "hostinger-reach-ou-mailchimp-brevo",
+    "hideFromPortugueseListings": true,
+    "title": "Hostinger Reach、Mailchimp、Brevo：メール配信にどれを選ぶか",
+    "seoTitle": "Hostinger Reach は買う価値がある？ Mailchimp・Brevo との比較",
+    "type": "選び方ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編集・分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger のサイトがあり、宛先が1,000件までなら Reach が合います。それより多いリストは Mailchimp か Brevo が向いています。2026年10月30日の価格、更新料つき。",
+    "metaDescription": "Hostinger Reach は買う価値がある？ 利用者別の選び方、プラン、送信上限、WhatsApp、更新料を、2026年10月30日時点の Mailchimp と Brevo の無料プランと比べました。",
+    "publishedAt": "2026年10月30日",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+    "imageAlt": "Hostinger のロゴとメール・グラフのアイコン、帯に Reach の文字",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "Hostinger のサイトをすでにお持ちで、宛先が1,000件までなら Reach が合っています。予算をかけずに始めるなら、先に Mailchimp か Brevo の無料プランを使うのも手です。決め手は送信上限と WhatsApp で、下の表にまとめました。"
+        ]
+      },
+      {
+        "heading": "誰にどれを選ぶか：早見表",
+        "paragraphs": [
+          "大事なのは、どのツールが一番良いかではなく、リストに何人いるか、月に何通送るか、WhatsApp が必要かです。下の表は、2026年10月30日時点の Hostinger、Mailchimp、Brevo の料金ページに書かれていた内容を、利用者別にまとめたものです。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "利用者",
+            "おすすめ",
+            "理由"
+          ],
+          "rows": [
+            [
+              "リストが小さく、予算をかけずに始める",
+              "Brevo か Mailchimp の無料プラン",
+              "Brevo の無料プランは、カード登録なしで1日最大300通まで。Mailchimp は250件未満なら無料です。Reach にはページ上に無料プランがありません。"
+            ],
+            [
+              "Hostinger のサイトがあり、リストは500件まで",
+              "Reach Grow",
+              "月3,500通、Reach のブランド表示なし、自動化あり。12か月で月 US$ 1.74 から、更新時は US$ 2.49。"
+            ],
+            [
+              "WhatsApp が必要",
+              "Reach Pro",
+              "WhatsApp は Pro のみ。12か月で月 US$ 2.79、更新時は US$ 3.99。1通ごとの料金はページに書かれていません。Brevo では WhatsApp が Professional プランにあり、その価格はここでは扱いません。"
+            ],
+            [
+              "無料の上限を超え、1,000件まで",
+              "Reach Grow か Pro",
+              "Pro は1,000件・月7,000通まで、12か月で月 US$ 2.79、更新時は US$ 3.99。Mailchimp と Brevo の有料プランの価格はドルで読んでいないので、比べていません。"
+            ],
+            [
+              "リストが1,000件を超える",
+              "Mailchimp か Brevo",
+              "Reach のプランは1,000件・月7,000通で上限に達します。"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-ja.webp",
+          "alt": "利用者別の早見表：リストが小さく予算がない人は Brevo か Mailchimp の無料プラン。Hostinger のサイトがあり、リストが500件までなら Reach Grow。WhatsApp が必要なら Reach Pro。無料の上限を超えて1,000件までなら Reach Grow か Pro。1,000件を超えるなら Mailchimp か Brevo",
+          "caption": "早見表の要約：まず無料で始め、Reach は1,000件まで、それを超えたら Mailchimp か Brevo。2026年10月30日の料金ページをもとにした Em Casa com Cecília の図です。",
+          "objectFit": "contain",
+          "aspectRatio": 1.3846
+        },
+        "postParagraphs": [
+          "リストが無料プランに収まるなら、まず Mailchimp か Brevo の無料プランから始め、上限を超えたら払うのが安全です。Hostinger のサイトがあって、リストが数百件を超えてきたら、次に見るのは Reach Grow です。価格は下の表を参照してください。"
+        ]
+      },
+      {
+        "heading": "Reach のプラン（2026年10月30日）",
+        "paragraphs": [
+          "Reach のプランは Starter、Grow、Pro の3つです。ブラジルのカートでは Grow が「Reach 500」（宛先500件の上限）と表示されていました。以下の価格は Hostinger の国際サイトで読んだもので、ドル建て、2026年10月30日のブラックフライデーキャンペーン中の価格です。国や通貨によって変わることがあります。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "プラン",
+            "12か月（月額）",
+            "更新料（月額）"
+          ],
+          "rows": [
+            [
+              "[Starter](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1.49（合計 US$ 17.88）",
+              "US$ 1.49"
+            ],
+            [
+              "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1.74（合計 US$ 20.92）",
+              "US$ 2.49"
+            ],
+            [
+              "[Pro](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 2.79（合計 US$ 33.52）",
+              "US$ 3.99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "24か月の価格は国際サイトでは読んでいないので載せていません。大事なのは更新料です。Grow と Pro は、キャンペーン価格から更新時に大きく上がります。ページの内容は次のとおりです。"
+        ],
+        "bullets": [
+          "**Starter：** 宛先100件、月200通、AIクレジットなし。メールには Reach のブランド表示が付きます。",
+          "**Grow：** 宛先500件、月3,500通、AIクレジット月10。Reach のブランド表示が消え、パーソナライズ、予約送信、自動化が使えます。",
+          "**Pro：** 宛先1,000件、月7,000通、AIクレジット月20。HTML、最適な送信時間、WhatsApp キャンペーン、カスタムフィールド、チームメンバーが加わります。"
+        ],
+        "emphasis": "ページには、30日以内なら返金を請求できると書かれています。"
+      },
+      {
+        "heading": "Mailchimp と Brevo：無料プラン",
+        "paragraphs": [
+          "両社には無料プランがあり、Reach にはページ上にありません。有料プランの価格はドルで読んでいないので載せていません。2026年10月30日にページに載っていた無料プランは次のとおりです。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "プラン",
+            "価格",
+            "ページの内容"
+          ],
+          "rows": [
+            [
+              "Mailchimp 無料",
+              "無料",
+              "連絡先250件未満向け。上限を超えると送信が一時停止されます。"
+            ],
+            [
+              "Brevo 無料",
+              "無料",
+              "カード登録なしで、1日最大300通まで。期限はありません。"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "1,000件を超えるリストでは、両社の有料プランの規模が変わってきます。現地通貨での料金は、各社の料金ページでご確認ください。"
+        ]
+      },
+      {
+        "heading": "WhatsApp は Reach Pro だけ",
+        "paragraphs": [
+          "Reach のページでは、WhatsApp のマーケティングキャンペーンは Pro にだけあります。12か月で月 US$ 2.79、更新時は US$ 3.99。Starter と Grow にはありません。1通ごとの料金はページに載っていないので、このチャネルを頼る前に管理画面で確認してください。",
+          "Brevo では WhatsApp が Professional プランのチャネルに入っています。その価格はここでは扱いません。"
+        ]
+      },
+      {
+        "heading": "リストが増えたら",
+        "paragraphs": [
+          "最初に効いてくる上限は宛先数で、Starter は100件、Grow は500件、Pro は1,000件です。Reach のプランはそこで終わります。1,000件を超える、または超える見込みなら、連絡先数や送信数で課金する Mailchimp か Brevo が向いています。",
+          "2つ目の上限は送信数です。Grow は宛先500件に対して月3,500通なので、月に7回でリスト全体に届きます。Pro は宛先1,000件に対して月7,000通で、同じく7回です。週に1回のニュースレターなら収まります。リスト全体に週1回より多く送ると上限を超えます。"
+        ],
+        "bullets": [
+          "**まだドメインがない？** 送信元に自分のサイトのアドレスを使いたいなら、[Hostingerのドメイン：そこで買う、移管する、別の場所で登録する](/ja/reviews/hostinger-domain-ja)を読んでください。",
+          "**あとでツールを変える？** 古いプランを解約する前に連絡先リストを書き出し、新しいツールでインポートの方法を確認してください。"
+        ]
+      },
+      {
+        "heading": "SONAR20 と Reach の価格",
+        "paragraphs": [
+          "**SONAR20** をカートのクーポン欄に入力するか、この記事のリンクから入ると、**最初の期間が20%割引**になります。ブラジルのサイトで、24か月の Reach 500 に対して試しました。ほかのプランや期間、国際サイトでは試していません。カートで確認してください。コードの詳しいルールは [Hostinger のクーポン](/ja/coupons/hostinger) にあります。"
+        ]
+      },
+      {
+        "heading": "使う価値はある？ 結論",
+        "paragraphs": [
+          "**使う価値あり。** Hostinger のサイトをすでにお持ちで、宛先が1,000件までなら。Grow は自動化つきで500件まで、Pro は WhatsApp つきで1,000件まで使えます。",
+          "**Mailchimp か Brevo の無料プランのままに。** リストがまだ小さく、どのくらいの頻度で送るか決めていないなら。Reach にはページ上の無料プランがありません。",
+          "**Mailchimp か Brevo へ。** リストが1,000件を超える、またはリスト全体に週1回より多く送るなら。Reach のプランは1,000件・月7,000通で終わります。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Hostinger Reach は買う価値がある？ Hostinger のサイトがあり、宛先が1,000件までなら、はいです。国際サイトでは Grow が12か月で月 US$ 1.74、更新時は US$ 2.49です。",
+          "Hostinger Reach の料金はいくら？ 国際サイト、2026年10月30日時点で、12か月の月額は Starter US$ 1.49、Grow US$ 1.74、Pro US$ 2.79です。更新時は US$ 1.49、US$ 2.49、US$ 3.99。国や通貨によって変わることがあります。",
+          "Hostinger Reach に無料プランはある？ ページにはありません。3つのプランとも有料です。Mailchimp は250件未満なら無料、Brevo は期限なしの無料プランがあり、1日最大300通までです。",
+          "Hostinger Reach に WhatsApp はある？ あります。Pro だけです。1通ごとの料金はページに書かれていないので、管理画面で確認してください。",
+          "Reach 500 とは何？ ブラジルのカートで Grow に付いている名前で、宛先500件の上限を指します。月3,500通送れます。",
+          "Hostinger Reach と Mailchimp、どちらが良い？ Hostinger のサイトがあり、宛先が1,000件までなら Reach を検討する価値があります。無料で始めたい、またはリストがもっと大きいなら Mailchimp です。",
+          "SONAR20 は Hostinger Reach でも使える？ ブラジルのサイトで、24か月の Reach 500 に対して試しました。ほかのプランや期間、国際サイトでは試していません。カートで確認してください。"
+        ]
+      },
+      {
+        "heading": "この記事を書いた人",
+        "paragraphs": [
+          "Em Casa com Cecília は Hostinger のマネージドホスティングで動いており、ドメインは2024年11月17日から Hostinger で登録されています。チームの誰も、キャンペーン送信に Reach、Mailchimp、Brevo を使ってはいません。この記事は、3社の料金ページが2026年10月30日に示していた内容と、カートでの SONAR20 のテストをまとめたものです。Hostinger の請求、更新、返金については [Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja) をご覧ください。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。ブラジルのサイトでは Reach 500 の24か月を試しました。ほかのプランはカートで確認してください。",
+      "label": "SONAR20 で Reach のプランを見る",
+      "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も Reach、Mailchimp、Brevo は使っていません。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-referral-code-ja",
+        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+      },
+      {
+        "slug": "hostinger-trust-guide-ja",
+        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+      },
+      {
+        "slug": "hostinger-domain-ja",
+        "title": "Hostingerのドメイン：そこで買う、移管する、別の場所で登録する？ 料金、更新料、確認すべきこと"
+      }
+    ]
+  },
+  {
+    "id": 726,
+    "slug": "hostinger-reach-ko",
+    "locale": "ko",
+    "translationKey": "hostinger-reach-ou-mailchimp-brevo",
+    "title": "Hostinger Reach, Mailchimp 또는 Brevo: 이메일 마케팅에는 무엇을 고를까",
+    "seoTitle": "Hostinger Reach 쓸 만한가? Mailchimp, Brevo와 비교",
+    "type": "선택 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "편집 및 분석",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger에 이미 사이트가 있고 수신자가 1,000명 이하라면 Reach가 맞습니다. 그보다 크면 Mailchimp나 Brevo로 갑니다. 2026년 10월 30일 달러 가격과 갱신가 기준.",
+    "metaDescription": "Hostinger Reach 쓸 만한가? 프로필별 표, 플랜, 발송 한도, WhatsApp, 갱신가를 Mailchimp와 Brevo 무료 플랜과 함께 2026년 10월 30일 기준으로 비교합니다.",
+    "publishedAt": "2026년 10월 30일",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+    "imageAlt": "호스팅어 로고와 이메일·그래프 아이콘, 띠에 적힌 Reach",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "Hostinger에 이미 사이트가 있고 수신자가 1,000명 이하라면 Reach가 맞습니다. 아직 리스트가 작고 사이트 밖에서 시작하는 중이라면 Mailchimp나 Brevo의 무료 플랜이 먼저입니다. 결정은 발송 한도와 WhatsApp이 합니다. 아래 표를 보세요."
+        ]
+      },
+      {
+        "heading": "어떤 사람에게 무엇이 맞나: 표",
+        "paragraphs": [
+          "질문은 어느 도구가 더 좋으냐가 아니라, 리스트에 몇 명이 있고 한 달에 몇 통을 보내며 WhatsApp이 필요한지입니다. 표는 2026년 10월 30일의 Hostinger 국제 사이트와 Mailchimp, Brevo 무료 플랜을 기준으로 정리했습니다. Mailchimp와 Brevo의 유료 가격은 달러로 읽지 못해 싣지 않았습니다:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "프로필",
+            "추천",
+            "이유"
+          ],
+          "rows": [
+            [
+              "리스트가 작고 예산 없이 시작할 때",
+              "Brevo 또는 Mailchimp 무료 플랜",
+              "Brevo 무료는 신용카드 없이 하루 300통까지 보낼 수 있습니다. Mailchimp 무료는 연락처 250명 미만입니다. 국제 사이트에서 Reach의 세 플랜은 모두 유료입니다."
+            ],
+            [
+              "이미 Hostinger에 사이트가 있고 500명 이하",
+              "Reach Grow",
+              "12개월 동안 월 US$ 1.74, 갱신 US$ 2.49. 월 3,500통, Reach 브랜드 표시 없음, 자동화 포함."
+            ],
+            [
+              "WhatsApp이 필요할 때",
+              "Reach Pro",
+              "WhatsApp은 Pro에만 있습니다. 페이지에 메시지당 비용이 나오지 않으니 패널에서 먼저 확인하세요."
+            ],
+            [
+              "무료 한도를 넘어 1,000명 이하",
+              "Reach Grow 또는 Pro",
+              "Reach Pro는 수신자 1,000명까지 월 US$ 2.79, 갱신 US$ 3.99."
+            ],
+            [
+              "리스트가 1,000명을 넘을 때",
+              "Mailchimp 또는 Brevo",
+              "Reach 플랜은 수신자 1,000명과 월 7,000통에서 멈춥니다."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-ko.webp",
+          "alt": "Reach, Mailchimp 또는 Brevo 프로필별 표: 작은 리스트는 Brevo 또는 Mailchimp 무료, 이미 Hostinger 사이트가 있고 500명 이하면 Reach Grow, WhatsApp은 Reach Pro, 무료 한도를 넘어 1,000명 이하는 Grow 또는 Pro, 1,000명 초과는 Mailchimp 또는 Brevo",
+          "caption": "표의 요약: 무료로 시작하고, 1,000명까지는 Reach, 그보다 크면 Mailchimp나 Brevo. Em Casa com Cecília가 2026년 10월 30일 가격 페이지를 보고 만든 그림입니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3846
+        },
+        "postParagraphs": [
+          "리스트가 무료 플랜 안에 들어간다면 Mailchimp나 Brevo로 시작하고, 한도를 넘으면 돈을 내세요. 이미 Hostinger에 사이트가 있고 리스트가 수백 명을 넘었다면 Reach Grow의 첫 해 가격이 시작하기 좋은 출발점입니다."
+        ]
+      },
+      {
+        "heading": "Reach 플랜: 2026년 10월 30일 가격",
+        "paragraphs": [
+          "Hostinger 국제 사이트에는 Starter, Grow, Pro 세 플랜이 있습니다. 브라질 장바구니에서는 Grow가 \"Reach 500\"으로 나옵니다. 아래 금액은 달러이며, 국가와 통화에 따라 달라질 수 있습니다:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "플랜",
+            "12개월 (월)",
+            "갱신 (월)"
+          ],
+          "rows": [
+            [
+              "[Starter](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1.49 (총 US$ 17.88)",
+              "US$ 1.49"
+            ],
+            [
+              "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20) (브라질 장바구니의 Reach 500)",
+              "US$ 1.74 (총 US$ 20.92)",
+              "US$ 2.49"
+            ],
+            [
+              "[Pro](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 2.79 (총 US$ 33.52)",
+              "US$ 3.99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "표의 금액은 12개월 기준입니다. Grow와 Pro는 갱신 때 가격이 올라가니, 첫 달이 아니라 갱신 가격으로 비교하세요. 플랜별 내용은 이렇습니다:"
+        ],
+        "bullets": [
+          "**Starter:** 수신자 100명, 월 200통, AI 크레딧 없음. 메일에 Reach 브랜드가 붙습니다.",
+          "**Grow:** 수신자 500명, 월 3,500통, AI 크레딧 월 10개. Reach 브랜드를 빼고 개인화, 예약 발송, 자동화를 씁니다.",
+          "**Pro:** 수신자 1,000명, 월 7,000통, AI 크레딧 월 20개. HTML, 최적 발송 시간, WhatsApp 캠페인, 사용자 정의 필드, 팀원 추가를 더합니다."
+        ],
+        "emphasis": "Hostinger는 지금 블랙프라이데이 캠페인 중이라 가격이 바뀔 수 있습니다. 결제 전 장바구니 금액을 기준으로 삼으세요."
+      },
+      {
+        "heading": "Mailchimp와 Brevo: 무료 플랜",
+        "paragraphs": [
+          "두 곳 모두 무료 플랜이 있습니다. Reach에는 국제 사이트에서도 무료 플랜이 없습니다. Mailchimp와 Brevo의 유료 가격은 2026년 10월 30일 기준으로 달러에서 읽지 못했기 때문에, 여기서는 무료 플랜만 다룹니다:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "플랜",
+            "가격",
+            "페이지의 설명"
+          ],
+          "rows": [
+            [
+              "Mailchimp 무료",
+              "0",
+              "연락처 250명 미만. 한도를 넘으면 발송이 멈춥니다."
+            ],
+            [
+              "Brevo 무료",
+              "0",
+              "신용카드 없이 계속 무료, 하루 300통까지."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "지금 직접 비교할 수 있는 가격은 무료 플랜뿐입니다. 리스트가 커지면 두 회사의 가격 페이지에서 내 국가와 통화에 맞는 유료 가격을 직접 확인하세요."
+        ]
+      },
+      {
+        "heading": "WhatsApp: Reach Pro에서만",
+        "paragraphs": [
+          "Reach 페이지에서 WhatsApp 마케팅 캠페인은 Pro에만 있습니다. Starter와 Grow에는 없습니다. 페이지는 메시지당 비용을 보여 주지 않으니, 이 채널을 믿기 전에 패널에서 확인하세요.",
+          "Brevo는 WhatsApp을 Professional 플랜의 채널로 소개합니다. 국제 사이트에서 가격을 읽지 못해 여기서는 금액을 싣지 않았습니다. 리스트가 1,000명 이하이고 WhatsApp이 필요하다면 Reach Pro의 가격부터 보세요."
+        ]
+      },
+      {
+        "heading": "리스트가 커질 때",
+        "paragraphs": [
+          "먼저 닿는 한도는 수신자 수입니다: Starter 100명, Grow 500명, Pro 1,000명. Reach 플랜은 여기서 멈춥니다. 1,000명을 넘었거나 곧 넘을 예정이라면 Mailchimp나 Brevo로 가세요. 두 곳은 연락처 수나 발송량에 따라 요금을 받습니다.",
+          "두 번째 한도는 발송량입니다. Grow는 월 3,500통이라 수신자 500명이면 한 달에 전체 리스트에 7번 보낼 수 있습니다. Pro는 월 7,000통이라 수신자 1,000명이면 역시 7번입니다. 주 1회 뉴스레터는 들어가지만, 전체 리스트에 주 2회 이상 보내면 한도를 넘습니다."
+        ],
+        "bullets": [
+          "**도메인이 아직 없나요?** 발신 주소에 내 사이트 주소를 쓰고 싶다면 [Hostinger 도메인 가이드](/ko/reviews/hostinger-domain-ko)를 보세요.",
+          "**도구를 나중에 바꿀 건가요?** 옛 플랜을 해지하기 전에 연락처 리스트를 내보내고, 새 도구에서 가져오는 방법을 확인하세요."
+        ]
+      },
+      {
+        "heading": "SONAR20과 Reach 가격",
+        "paragraphs": [
+          "쿠폰 코드 **SONAR20**을 장바구니의 쿠폰 칸에 넣거나 이 글의 링크로 들어가세요. **첫 기간 20%**가 할인됩니다. 브라질 사이트에서는 Reach 500 24개월 플랜으로 테스트했습니다. 다른 플랜과 기간은 테스트하지 않았으니 장바구니에서 확인하세요. 쿠폰 규칙은 [Hostinger 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다.",
+          "페이지의 가격과 장바구니의 가격은 다를 수 있습니다. 결제 전에 장바구니에서 실제 금액과 SONAR20을 넣은 뒤의 금액을 확인하세요."
+        ]
+      },
+      {
+        "heading": "쓸 만한가? 결론",
+        "paragraphs": [
+          "**쓸 만합니다.** Hostinger에 이미 사이트가 있고 수신자가 1,000명 이하라면. Grow는 500명까지 자동화를 제공하고, Pro는 1,000명과 WhatsApp을 제공합니다. 12개월 기준 가격은 Grow US$ 1.74, Pro US$ 2.79입니다.",
+          "**무료 플랜부터 쓰세요.** 리스트가 아직 작고 메일을 얼마나 자주 보낼지 모를 때는 Mailchimp나 Brevo의 무료 플랜이 낫습니다. Reach의 국제 사이트에는 무료 플랜이 없습니다.",
+          "**Mailchimp나 Brevo로 가세요.** 리스트가 1,000명을 넘거나 전체 리스트에 주 2회 이상 보낼 때. Reach 플랜은 수신자 1,000명과 월 7,000통에서 멈춥니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "Hostinger Reach 쓸 만한가요? 이미 Hostinger에 사이트가 있고 수신자가 1,000명 이하라면 그렇습니다. 2026년 10월 30일 국제 사이트에서 Grow는 12개월 동안 월 US$ 1.74, 갱신 시 월 US$ 2.49였습니다.",
+          "Hostinger Reach 가격은 얼마인가요? 2026년 10월 30일 국제 사이트 기준, 12개월 동안 Starter 월 US$ 1.49, Grow 월 US$ 1.74, Pro 월 US$ 2.79입니다. 갱신 가격은 US$ 1.49, US$ 2.49, US$ 3.99입니다. 국가와 통화에 따라 다를 수 있습니다.",
+          "Hostinger Reach에 무료 플랜이 있나요? 2026년 10월 30일 기준으로 국제 사이트와 브라질 사이트의 세 플랜은 모두 유료입니다. Mailchimp는 연락처 250명 미만에서 무료이고, Brevo는 하루 300통까지 무료입니다.",
+          "Hostinger Reach에 WhatsApp이 있나요? 있습니다. Pro 플랜에만 있습니다. 메시지당 비용은 페이지에 나오지 않으니 패널에서 확인하세요.",
+          "Reach 500은 무엇인가요? 브라질 장바구니에서 Grow 플랜을 부르는 이름입니다. 수신자 500명, 월 3,500통입니다.",
+          "Hostinger Reach 또는 Mailchimp? 사이트가 Hostinger에 있고 수신자가 1,000명 이하라면 Reach입니다. 무료로 시작하고 싶거나 리스트가 1,000명을 넘는다면 Mailchimp나 Brevo입니다.",
+          "SONAR20이 Hostinger Reach에도 적용되나요? 브라질 사이트에서 Reach 500 24개월 플랜으로 테스트했습니다. 다른 플랜과 기간은 테스트하지 않았으니 장바구니에서 확인하세요."
+        ]
+      },
+      {
+        "heading": "작성자 소개",
+        "paragraphs": [
+          "Em Casa com Cecília는 Hostinger의 관리형 호스팅에서 돌아가며, 도메인은 2024년 11월 17일부터 Hostinger에 등록되어 있습니다. 팀 중 누구도 Reach, Mailchimp, Brevo로 캠페인을 보내 본 적이 없습니다. 이 글은 2026년 10월 30일의 각 가격 페이지와 SONAR20 테스트를 모은 것입니다. Hostinger가 어떻게 청구하고 갱신하며 환불하는지는 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에서 확인하세요."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20% 할인. 브라질 사이트에서 Reach 500 24개월은 테스트했고, 다른 플랜은 테스트하지 않았으니 장바구니에서 확인하세요.",
+      "label": "SONAR20로 Reach 플랜 보기",
+      "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 Reach를 쓰지 않았습니다.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-referral-code-ko",
+        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+      },
+      {
+        "slug": "hostinger-trust-guide-ko",
+        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+      },
+      {
+        "slug": "hostinger-domain-ko",
+        "title": "Hostinger 도메인: 여기서 살까, 이전할까, 다른 곳에 등록할까? 가격, 갱신, 결제 전 확인할 점"
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 727,
+    "slug": "hostinger-reach-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "hostinger-reach-ou-mailchimp-brevo",
+    "title": "Hostinger Reach、Mailchimp 还是 Brevo：邮件营销该选哪个",
+    "seoTitle": "Hostinger Reach 值得用吗？与 Mailchimp、Brevo 对比",
+    "type": "选择指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "编辑与分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "如果你已在 Hostinger 有网站，且收件人在 1,000 人以内，Reach 适合你；名单更大就选 Mailchimp 或 Brevo。按 2026 年 10 月 30 日的美元价格与续费价。",
+    "metaDescription": "Hostinger Reach 值得用吗？按情况的表格、套餐、发送上限、WhatsApp 与续费价，并与 Mailchimp、Brevo 的免费版对比，截至 2026 年 10 月 30 日。",
+    "publishedAt": "2026年10月30日",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+    "imageAlt": "Hostinger 标志、邮件和图表图标，横条上写着 Reach",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "如果你已在 Hostinger 有网站，且收件人在 1,000 人以内，Reach 值得用。名单还在免费额度内时，可以先用 Mailchimp 或 Brevo 的免费版。真正决定选择的是发送上限和 WhatsApp，见下表。"
+        ]
+      },
+      {
+        "heading": "按情况选择：一张表",
+        "paragraphs": [
+          "关键不在于哪个工具更好，而在于你的名单有多少人、每月发多少封、是否需要 WhatsApp。下表依据 2026 年 10 月 30 日 Hostinger 国际站，以及 Mailchimp、Brevo 免费版的内容整理。我们没有读到 Mailchimp 和 Brevo 以美元显示的付费价格，所以表中不列："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "情况",
+            "推荐",
+            "原因"
+          ],
+          "rows": [
+            [
+              "名单小，预算有限，刚开始",
+              "Brevo 或 Mailchimp 免费版",
+              "Brevo 免费版不需要银行卡，每天最多 300 封。Mailchimp 免费版适用于少于 250 个联系人。国际站上，Reach 的三个套餐都是付费的。"
+            ],
+            [
+              "已在 Hostinger 有网站，名单 500 人以内",
+              "Reach Grow",
+              "首 12 个月每月 US$ 1.74，续费 US$ 2.49。每月 3,500 封邮件，没有 Reach 标志，包含自动化。"
+            ],
+            [
+              "需要 WhatsApp",
+              "Reach Pro",
+              "WhatsApp 只在 Pro 中。页面没有显示每条消息的费用，所以先在后台确认。"
+            ],
+            [
+              "超过免费额度，1,000 人以内",
+              "Reach Grow 或 Pro",
+              "Reach Pro 最多 1,000 名收件人，首 12 个月每月 US$ 2.79，续费 US$ 3.99。"
+            ],
+            [
+              "名单超过 1,000 人",
+              "Mailchimp 或 Brevo",
+              "Reach 套餐的收件人上限是 1,000 人，每月 7,000 封邮件。"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hans.webp",
+          "alt": "Reach、Mailchimp 或 Brevo 按情况选择的图：名单小、刚开始的选 Brevo 或 Mailchimp 免费版；已在 Hostinger 有网站且名单 500 人以内的选 Reach Grow；需要 WhatsApp 的选 Reach Pro；超过免费额度、1,000 人以内的选 Reach Grow 或 Pro；名单超过 1,000 人的选 Mailchimp 或 Brevo",
+          "caption": "图中的要点：先免费，1,000 人以内选 Reach，超过就选 Mailchimp 或 Brevo。这张图是 Em Casa com Cecília 依据 2026 年 10 月 30 日的价格页面制作的。",
+          "objectFit": "contain",
+          "aspectRatio": 1.3846
+        },
+        "postParagraphs": [
+          "如果名单在 Mailchimp 或 Brevo 的免费额度内，就先用免费版，超出再付费。如果你已在 Hostinger 有网站，名单已经超过几百人，Reach Grow 的首年价格是一个不错的起点。"
+        ]
+      },
+      {
+        "heading": "2026年10月30日的 Reach 套餐",
+        "paragraphs": [
+          "Hostinger 国际站上的 Reach 有三个套餐：Starter、Grow 和 Pro。在巴西站的购物车里，Grow 显示为 “Reach 500”。下面是国际站以美元显示的价格，可能因国家和货币而异："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "套餐",
+            "首 12 个月（每月）",
+            "续费（每月）"
+          ],
+          "rows": [
+            [
+              "[Starter](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1.49（合计 US$ 17.88）",
+              "US$ 1.49"
+            ],
+            [
+              "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)（购物车中的 Reach 500）",
+              "US$ 1.74（合计 US$ 20.92）",
+              "US$ 2.49"
+            ],
+            [
+              "[Pro](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 2.79（合计 US$ 33.52）",
+              "US$ 3.99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "表中是首 12 个月的价格。Grow 和 Pro 续费会上涨，所以比较时请看续费价，不要只看首月。各套餐的内容："
+        ],
+        "bullets": [
+          "**Starter：** 100 名收件人，每月 200 封邮件，没有 AI 额度。邮件带有 Reach 标志。",
+          "**Grow：** 500 名收件人，每月 3,500 封邮件，每月 10 个 AI 额度。去掉 Reach 标志，包含个性化、定时发送和自动化。",
+          "**Pro：** 1,000 名收件人，每月 7,000 封邮件，每月 20 个 AI 额度。增加 HTML、优化发送时间、WhatsApp 营销、自定义字段和团队成员。"
+        ],
+        "emphasis": "Hostinger 目前正在进行黑色星期五促销，价格可能变化。请以付款前购物车里的金额为准。"
+      },
+      {
+        "heading": "Mailchimp 与 Brevo：免费版",
+        "paragraphs": [
+          "两家都有免费版。Reach 在国际站上没有免费版。2026 年 10 月 30 日，我们没有读到 Mailchimp 和 Brevo 以美元显示的付费价格，所以这里只比较免费版："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "套餐",
+            "价格",
+            "页面说明"
+          ],
+          "rows": [
+            [
+              "Mailchimp 免费版",
+              "0",
+              "适用于少于 250 个联系人。超过上限后，发送会暂停。"
+            ],
+            [
+              "Brevo 免费版",
+              "0",
+              "永久免费，无需银行卡，每天最多 300 封。"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "免费版是目前唯一能直接比较的价格。名单变大后，请到两家的价格页面查看你所在国家和货币下的付费价格。"
+        ]
+      },
+      {
+        "heading": "WhatsApp：只在 Reach Pro 中",
+        "paragraphs": [
+          "在 Reach 页面中，WhatsApp 营销活动只出现在 Pro 中，Starter 和 Grow 没有。页面没有显示每条 WhatsApp 消息的费用，所以在依赖这个渠道之前，请先在后台确认。",
+          "Brevo 把 WhatsApp 列在 Professional 的渠道中。我们没有在国际站读到它的美元价格，所以这里不写金额。如果名单在 1,000 人以内并且需要 WhatsApp，可以先看 Reach Pro 的价格。"
+        ]
+      },
+      {
+        "heading": "名单增长之后",
+        "paragraphs": [
+          "最先碰到的上限是收件人数：Starter 100 人，Grow 500 人，Pro 1,000 人。Reach 的套餐到这里为止。如果你的名单已经超过 1,000 人，或很快会超过，就选择 Mailchimp 或 Brevo。这两家按联系人数量或发送量收费。",
+          "第二个上限是发送量。Grow 每月 3,500 封，收件人 500 人时，每月可以向整个名单发送 7 次；Pro 每月 7,000 封，收件人 1,000 人时同样是 7 次。每周发一次通讯够用；如果每周要给整个名单发送超过一次，就会超出上限。"
+        ],
+        "bullets": [
+          "**还没有域名？** 如果想让发件人使用你网站的地址，请看 [Hostinger 域名指南](/zh-hans/reviews/hostinger-domain-zh-hans)。",
+          "**以后会换工具吗？** 在取消旧套餐之前，先导出联系人名单，并在新工具里确认如何导入。"
+        ]
+      },
+      {
+        "heading": "SONAR20 与 Reach 价格",
+        "paragraphs": [
+          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可享受**首个周期 20%** 的折扣。我们在巴西站测试过 Reach 500 的 24 个月套餐。其他套餐和周期没有测试，请在购物车确认。优惠码的规则见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。",
+          "页面价格与购物车价格可能不同。付款前，请以购物车中的实际金额为准，并确认使用 SONAR20 后的价格。"
+        ]
+      },
+      {
+        "heading": "值得用吗？结论",
+        "paragraphs": [
+          "**值得用：** 如果你已在 Hostinger 有网站，且收件人在 1,000 人以内。Grow 为 500 人提供自动化，Pro 支持 1,000 人并包含 WhatsApp。首 12 个月的价格分别是 US$ 1.74 和 US$ 2.79。",
+          "**先用免费版：** 如果名单还小，而且你还不确定会频繁发邮件，就用 Mailchimp 或 Brevo 的免费版。Reach 的国际站没有免费版。",
+          "**选 Mailchimp 或 Brevo：** 如果名单超过 1,000 人，或者你每周要给整个名单发送超过一次邮件。Reach 套餐在 1,000 名收件人和每月 7,000 封邮件时停止。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Hostinger Reach 值得用吗？如果你已在 Hostinger 有网站，且收件人在 1,000 人以内，就值得。截至 2026 年 10 月 30 日，国际站上 Grow 首 12 个月为 US$ 1.74/月，续费为 US$ 2.49/月。",
+          "Hostinger Reach 多少钱？截至 2026 年 10 月 30 日，国际站以美元显示：Starter 每月 US$ 1.49，Grow 每月 US$ 1.74，Pro 每月 US$ 2.79，均为首 12 个月的价格。续费分别为 US$ 1.49、US$ 2.49 和 US$ 3.99。价格可能因国家和货币而异。",
+          "Hostinger Reach 有免费版吗？截至 2026 年 10 月 30 日，国际站和巴西站的三个套餐都是付费的。Mailchimp 对少于 250 个联系人免费，Brevo 每天最多 300 封免费。",
+          "Hostinger Reach 有 WhatsApp 吗？有，只在 Pro 套餐中。页面没有显示每条消息的费用，请在后台确认。",
+          "Reach 500 是什么？它是巴西站购物车中 Grow 套餐的名称，对应 500 名收件人、每月 3,500 封邮件。",
+          "Hostinger Reach 还是 Mailchimp？如果你的网站在 Hostinger，且收件人在 1,000 人以内，选 Reach。如果想免费开始，或名单超过 1,000 人，选 Mailchimp 或 Brevo。",
+          "SONAR20 适用于 Hostinger Reach 吗？我们在巴西站测试过 Reach 500 的 24 个月套餐，折扣生效。其他套餐和周期没有测试，请在购物车确认。"
+        ]
+      },
+      {
+        "heading": "谁在写这篇文章",
+        "paragraphs": [
+          "Em Casa com Cecília 运行在 Hostinger 的托管服务上，域名自 2024 年 11 月 17 日起就在 Hostinger 注册。团队中没有人用 Reach、Mailchimp 或 Brevo 发送过营销邮件。本文汇总了 2026 年 10 月 30 日三家的价格页面，以及我们在购物车中测试 SONAR20 的结果。Hostinger 如何收费、续费和退款，请看 [Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们在巴西站测试过 Reach 500 的 24 个月套餐；其他套餐请在购物车确认。",
+      "label": "通过 SONAR20 查看 Reach 套餐",
+      "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你无需额外付费。团队中没有人用过 Reach。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-referral-code-zh-hans",
+        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+      },
+      {
+        "slug": "hostinger-trust-guide-zh-hans",
+        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+      },
+      {
+        "slug": "hostinger-domain-zh-hans",
+        "title": "Hostinger 域名：在这里买、转入，还是在别处注册？价格、续费与下单前要确认什么"
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 728,
+    "slug": "hostinger-reach-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "hostinger-reach-ou-mailchimp-brevo",
+    "title": "Hostinger Reach、Mailchimp 還是 Brevo：郵件行銷該選哪個",
+    "seoTitle": "Hostinger Reach 值得用嗎？與 Mailchimp、Brevo 比較",
+    "type": "選擇指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編輯與分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，Reach 適合你；名單更大就選 Mailchimp 或 Brevo。依 2026 年 10 月 30 日的美元價格與續訂價。",
+    "metaDescription": "Hostinger Reach 值得用嗎？依情況的表格、方案、發送上限、WhatsApp 與續訂價，並與 Mailchimp、Brevo 的免費版比較，截至 2026 年 10 月 30 日。",
+    "publishedAt": "2026年10月30日",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+    "imageAlt": "Hostinger 標誌、郵件與圖表圖示，橫條上寫著 Reach",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，Reach 值得用。名單還在免費額度內時，可以先用 Mailchimp 或 Brevo 的免費版。真正決定選擇的是發送上限和 WhatsApp，見下表。"
+        ]
+      },
+      {
+        "heading": "依情況選擇：一張表",
+        "paragraphs": [
+          "關鍵不在於哪個工具更好，而在於你的名單有多少人、每月寄多少封、是否需要 WhatsApp。下表依據 2026 年 10 月 30 日 Hostinger 國際站，以及 Mailchimp、Brevo 免費版的內容整理。我們沒有讀到 Mailchimp 和 Brevo 以美元顯示的付費價格，所以表中不列："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "情況",
+            "推薦",
+            "原因"
+          ],
+          "rows": [
+            [
+              "名單小，預算有限，剛開始",
+              "Brevo 或 Mailchimp 免費版",
+              "Brevo 免費版不需要信用卡，每天最多 300 封。Mailchimp 免費版適用於少於 250 位聯絡人。國際站上，Reach 的三個方案都是付費的。"
+            ],
+            [
+              "已在 Hostinger 有網站，名單 500 人以內",
+              "Reach Grow",
+              "前 12 個月每月 US$ 1.74，續訂 US$ 2.49。每月 3,500 封郵件，沒有 Reach 標誌，含自動化。"
+            ],
+            [
+              "需要 WhatsApp",
+              "Reach Pro",
+              "WhatsApp 只在 Pro 裡。頁面沒有顯示每則訊息的費用，所以先在後台確認。"
+            ],
+            [
+              "超過免費額度，1,000 人以內",
+              "Reach Grow 或 Pro",
+              "Reach Pro 最多 1,000 位收件人，前 12 個月每月 US$ 2.79，續訂 US$ 3.99。"
+            ],
+            [
+              "名單超過 1,000 人",
+              "Mailchimp 或 Brevo",
+              "Reach 方案的收件人上限是 1,000 人，每月 7,000 封郵件。"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hant.webp",
+          "alt": "Reach、Mailchimp 或 Brevo 依情況選擇的圖：名單小、剛開始的選 Brevo 或 Mailchimp 免費版；已在 Hostinger 有網站且名單 500 人以內的選 Reach Grow；需要 WhatsApp 的選 Reach Pro；超過免費額度、1,000 人以內的選 Reach Grow 或 Pro；名單超過 1,000 人的選 Mailchimp 或 Brevo",
+          "caption": "圖中的重點：先免費，1,000 人以內選 Reach，超過就選 Mailchimp 或 Brevo。這張圖是 Em Casa com Cecília 依據 2026 年 10 月 30 日的價格頁面製作的。",
+          "objectFit": "contain",
+          "aspectRatio": 1.3846
+        },
+        "postParagraphs": [
+          "如果名單在 Mailchimp 或 Brevo 的免費額度內，就先用免費版，超出再付費。如果你已在 Hostinger 有網站，名單已經超過幾百人，Reach Grow 的首年價格是一個不錯的起點。"
+        ]
+      },
+      {
+        "heading": "2026年10月30日的 Reach 方案",
+        "paragraphs": [
+          "Hostinger 國際站上的 Reach 有三個方案：Starter、Grow 和 Pro。在巴西站的購物車裡，Grow 顯示為 “Reach 500”。下面是國際站以美元顯示的價格，可能因國家和幣別而異："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "方案",
+            "前 12 個月（每月）",
+            "續訂（每月）"
+          ],
+          "rows": [
+            [
+              "[Starter](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 1.49（合計 US$ 17.88）",
+              "US$ 1.49"
+            ],
+            [
+              "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)（購物車中的 Reach 500）",
+              "US$ 1.74（合計 US$ 20.92）",
+              "US$ 2.49"
+            ],
+            [
+              "[Pro](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "US$ 2.79（合計 US$ 33.52）",
+              "US$ 3.99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "表中是前 12 個月的價格。Grow 和 Pro 續訂時會上漲，所以比較時請看續訂價，不要只看首月。各方案的內容："
+        ],
+        "bullets": [
+          "**Starter：** 100 位收件人，每月 200 封郵件，沒有 AI 額度。郵件帶有 Reach 標誌。",
+          "**Grow：** 500 位收件人，每月 3,500 封郵件，每月 10 個 AI 額度。去掉 Reach 標誌，含個人化、排程寄送和自動化。",
+          "**Pro：** 1,000 位收件人，每月 7,000 封郵件，每月 20 個 AI 額度。增加 HTML、最佳寄送時間、WhatsApp 行銷、自訂欄位和團隊成員。"
+        ],
+        "emphasis": "Hostinger 目前正在進行黑色星期五促銷，價格可能變動。請以付款前購物車裡的金額為準。"
+      },
+      {
+        "heading": "Mailchimp 與 Brevo：免費版",
+        "paragraphs": [
+          "兩家都有免費版。Reach 在國際站上沒有免費版。2026 年 10 月 30 日，我們沒有讀到 Mailchimp 和 Brevo 以美元顯示的付費價格，所以這裡只比較免費版："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "方案",
+            "價格",
+            "頁面說明"
+          ],
+          "rows": [
+            [
+              "Mailchimp 免費版",
+              "0",
+              "適用於少於 250 位聯絡人。超過上限後，寄送會暫停。"
+            ],
+            [
+              "Brevo 免費版",
+              "0",
+              "永久免費，不需信用卡，每天最多 300 封。"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "免費版是目前唯一能直接比較的價格。名單變大後，請到兩家的價格頁面查看你所在國家和幣別下的付費價格。"
+        ]
+      },
+      {
+        "heading": "WhatsApp：只在 Reach Pro 裡",
+        "paragraphs": [
+          "在 Reach 頁面中，WhatsApp 行銷活動只出現在 Pro 裡，Starter 和 Grow 沒有。頁面沒有顯示每則 WhatsApp 訊息的費用，所以在依賴這個管道之前，請先在後台確認。",
+          "Brevo 把 WhatsApp 列在 Professional 的管道中。我們沒有在國際站讀到它的美元價格，所以這裡不寫金額。如果名單在 1,000 人以內並且需要 WhatsApp，可以先看 Reach Pro 的價格。"
+        ]
+      },
+      {
+        "heading": "名單成長之後",
+        "paragraphs": [
+          "最先碰到的上限是收件人數：Starter 100 人，Grow 500 人，Pro 1,000 人。Reach 的方案到這裡為止。如果你的名單已經超過 1,000 人，或很快會超過，就選擇 Mailchimp 或 Brevo。這兩家按聯絡人數量或寄送量收費。",
+          "第二個上限是寄送量。Grow 每月 3,500 封，收件人 500 人時，每月可以向整個名單寄送 7 次；Pro 每月 7,000 封，收件人 1,000 人時同樣是 7 次。每週寄一次電子報就夠用；如果每週要給整個名單寄超過一次，就會超出上限。"
+        ],
+        "bullets": [
+          "**還沒有網域？** 如果想讓寄件人使用你網站的地址，請看 [Hostinger 網域指南](/zh-hant/reviews/hostinger-domain-zh-hant)。",
+          "**以後會換工具嗎？** 在取消舊方案之前，先匯出聯絡人名單，並在新工具裡確認如何匯入。"
+        ]
+      },
+      {
+        "heading": "SONAR20 與 Reach 價格",
+        "paragraphs": [
+          "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享受**首期 20%** 的折扣。我們在巴西站測試過 Reach 500 的 24 個月方案。其他方案和期間沒有測試，請在購物車確認。優惠碼的規則見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。",
+          "頁面價格與購物車價格可能不同。付款前，請以購物車中的實際金額為準，並確認使用 SONAR20 後的價格。"
+        ]
+      },
+      {
+        "heading": "值得用嗎？結論",
+        "paragraphs": [
+          "**值得用：** 如果你已在 Hostinger 有網站，且收件人在 1,000 人以內。Grow 為 500 人提供自動化，Pro 支援 1,000 人並含 WhatsApp。前 12 個月的價格分別是 US$ 1.74 和 US$ 2.79。",
+          "**先用免費版：** 如果名單還小，而且你還不確定會頻繁寄信，就用 Mailchimp 或 Brevo 的免費版。Reach 的國際站沒有免費版。",
+          "**選 Mailchimp 或 Brevo：** 如果名單超過 1,000 人，或者你每週要給整個名單寄超過一次郵件。Reach 方案在 1,000 位收件人和每月 7,000 封郵件時停止。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Hostinger Reach 值得用嗎？如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，就值得。截至 2026 年 10 月 30 日，國際站上 Grow 前 12 個月為 US$ 1.74/月，續訂為 US$ 2.49/月。",
+          "Hostinger Reach 多少錢？截至 2026 年 10 月 30 日，國際站以美元顯示：Starter 每月 US$ 1.49，Grow 每月 US$ 1.74，Pro 每月 US$ 2.79，均為前 12 個月的價格。續訂分別為 US$ 1.49、US$ 2.49 和 US$ 3.99。價格可能因國家和幣別而異。",
+          "Hostinger Reach 有免費版嗎？截至 2026 年 10 月 30 日，國際站和巴西站的三個方案都是付費的。Mailchimp 對少於 250 位聯絡人免費，Brevo 每天最多 300 封免費。",
+          "Hostinger Reach 有 WhatsApp 嗎？有，只在 Pro 方案裡。頁面沒有顯示每則訊息的費用，請在後台確認。",
+          "Reach 500 是什麼？它是巴西站購物車中 Grow 方案的名稱，對應 500 位收件人、每月 3,500 封郵件。",
+          "Hostinger Reach 還是 Mailchimp？如果你的網站在 Hostinger，且收件人在 1,000 人以內，選 Reach。如果想免費開始，或名單超過 1,000 人，選 Mailchimp 或 Brevo。",
+          "SONAR20 適用於 Hostinger Reach 嗎？我們在巴西站測試過 Reach 500 的 24 個月方案，折扣生效。其他方案和期間沒有測試，請在購物車確認。"
+        ]
+      },
+      {
+        "heading": "誰在寫這篇文章",
+        "paragraphs": [
+          "Em Casa com Cecília 運行在 Hostinger 的託管主機上，網域自 2024 年 11 月 17 日起就註冊在 Hostinger。團隊中沒有人用 Reach、Mailchimp 或 Brevo 寄送過行銷郵件。本文彙整了 2026 年 10 月 30 日三家的價格頁面，以及我們在購物車中測試 SONAR20 的結果。Hostinger 如何收費、續訂和退款，請看 [Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們在巴西站測試過 Reach 500 的 24 個月方案；其他方案請在購物車確認。",
+      "label": "用 SONAR20 查看 Reach 方案",
+      "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，可能為 Bruno 帶來佣金，你不需額外付費。團隊中沒有人用過 Reach。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-referral-code-zh-hant",
+        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+      },
+      {
+        "slug": "hostinger-trust-guide-zh-hant",
+        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+      },
+      {
+        "slug": "hostinger-domain-zh-hant",
+        "title": "Hostinger 網域：在這裡買、轉入，還是在別處註冊？價格、續訂與下單前要確認什麼"
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 718,
+    "slug": "hostinger-ou-hostgator",
+    "locale": "pt",
+    "translationKey": "hostinger-ou-hostgator",
+    "title": "Hostinger ou HostGator: qual compensa para hospedar um site?",
+    "seoTitle": "Hostinger ou HostGator: qual compensa? Preço e recursos",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger ou HostGator: no plano de 1 site a Hostinger renova mais barato; com muitos sites, a HostGator. Preços de 30/10/2026, por mês e com a renovação.",
+    "metaDescription": "Hostinger ou HostGator? Preço promocional e renovação lado a lado em 30/10/2026, ciclos de 48 meses e 3 anos por mês, espaço, backup, servidor no Brasil e VPS.",
+    "publishedAt": "30 de outubro de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+    "imageAlt": "Dois ícones de servidor lado a lado, com o logo da Hostinger e a palavra Hosting na faixa",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pela renovação lida em 30/10/2026, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço e servidor no Brasil declarado. Os ciclos são diferentes, 48 meses e 3 anos, então a comparação justa é por mês, com a renovação ao lado, na tabela abaixo."
+        ]
+      },
+      {
+        "heading": "Os quatro critérios que decidem",
+        "paragraphs": [
+          "As duas páginas vendem o primeiro período com desconto grande, e é aí que a comparação costuma errar. O que pesa no bolso é o mês depois da promoção. Antes dos preços, os quatro critérios que usamos para comparar:"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-pt.webp",
+          "alt": "Quadro com quatro critérios para escolher a hospedagem: renovação, quanto custa o mês depois do primeiro período; ciclo, por quantos meses vale a promoção; servidor no país, se a página diz onde fica o servidor; e VPS, se você precisa de recurso garantido",
+          "caption": "Os quatro critérios: renovação, ciclo, servidor no país e VPS. Quadro do Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4516
+        },
+        "bullets": [
+          "**Renovação.** A Hostinger mostra a renovação de cada plano no cartão. A HostGator não mostra no cartão; usamos a tabela de preço regular dela, a de valores sem desconto, como referência.",
+          "**Ciclo.** O preço promocional da Hostinger vale em plano de 48 meses; o da HostGator, em plano de 3 anos. O total de um não se compara com o total do outro. Por mês, sim.",
+          "**Servidor no país.** A HostGator diz, na página, que os servidores ficam no Brasil. As páginas de planos da Hostinger que lemos não dizem onde fica o servidor.",
+          "**VPS.** Se o site precisa de processador e memória garantidos, a comparação é outra, mais abaixo."
+        ]
+      },
+      {
+        "heading": "Preços da Hostinger em 30/10/2026",
+        "paragraphs": [
+          "Hospedagem de sites, página brasileira, plano de 48 meses pago de uma vez. A Hostinger está em campanha de Black Friday, sem data de fim na página:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plano",
+            "Promocional",
+            "Total em 48 meses",
+            "Renovação",
+            "Sites",
+            "Armazenamento"
+          ],
+          "rows": [
+            [
+              "[Single](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+              "R$ 5,99/mês",
+              "R$ 287,52",
+              "R$ 23,99/mês",
+              "1",
+              "10 GB SSD"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+              "R$ 9,99/mês",
+              "R$ 479,52",
+              "R$ 38,99/mês",
+              "3",
+              "20 GB SSD"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+              "R$ 12,99/mês",
+              "R$ 623,52",
+              "R$ 64,99/mês",
+              "Ilimitados",
+              "50 GB NVMe"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+              "R$ 39,99/mês",
+              "R$ 1.919,52",
+              "R$ 129,99/mês",
+              "Ilimitados",
+              "100 GB NVMe"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Preços sem o SONAR20. A renovação da Hostinger é de 3 a 5 vezes o promocional. O Single tem backup semanal; o Unlimited, diário. Na Black Friday, a página dá créditos de IA em dobro para o criador de sites."
+        ]
+      },
+      {
+        "heading": "Preços da HostGator em 30/10/2026",
+        "paragraphs": [
+          "Hospedagem de sites, página brasileira, plano de 3 anos. A promocional é a dos cartões da página; a coluna da direita é a tabela de preço regular da HostGator, no plano trienal, que usamos como referência de renovação:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plano",
+            "Promocional",
+            "Total em 3 anos",
+            "Preço regular (trienal)",
+            "Sites",
+            "Armazenamento"
+          ],
+          "rows": [
+            [
+              "P",
+              "R$ 10,09/mês",
+              "R$ 361,61",
+              "R$ 31,39/mês (R$ 1.130,04)",
+              "1",
+              "100 GB NVMe"
+            ],
+            [
+              "M",
+              "R$ 11,49/mês",
+              "R$ 412,17",
+              "R$ 40,89/mês (R$ 1.472,04)",
+              "+60",
+              "100 GB NVMe"
+            ],
+            [
+              "Turbo",
+              "R$ 18,69/mês",
+              "R$ 670,22",
+              "R$ 66,49/mês (R$ 2.393,64)",
+              "+150",
+              "150 GB NVMe"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os cartões da HostGator mostram um preço \"De\" e um \"% OFF\". Não use esse número como renovação: no plano P, o \"De\" é R$ 1.652,04 por 3 anos, e a tabela de preço regular da própria HostGator diz R$ 1.130,04. A página também chama a campanha de \"Black November\", sem datas.",
+          "Os três planos citam backup diário, SSL, CDN, migração grátis, e-mail ilimitado por 1 ano e domínio grátis (1 no P, 2 no M, 3 no Turbo). Cada plano tem um teto de visitas por mês: até 80 mil no P, 120 mil no M e 400 mil no Turbo."
+        ]
+      },
+      {
+        "heading": "Lado a lado, por mês",
+        "paragraphs": [
+          "Os planos não batem um a um. Juntamos os mais próximos pelo número de sites, com o preço por mês no primeiro período e depois dele:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Para quem",
+            "Hostinger",
+            "HostGator"
+          ],
+          "rows": [
+            [
+              "1 site",
+              "Single: R$ 5,99/mês por 48 meses; renova a R$ 23,99/mês",
+              "P: R$ 10,09/mês por 3 anos; preço regular R$ 31,39/mês"
+            ],
+            [
+              "Vários sites",
+              "Unlimited: R$ 12,99/mês por 48 meses; renova a R$ 64,99/mês",
+              "M: R$ 11,49/mês por 3 anos; preço regular R$ 40,89/mês"
+            ],
+            [
+              "O plano mais alto",
+              "Cloud Startup: R$ 39,99/mês por 48 meses; renova a R$ 129,99/mês",
+              "Turbo: R$ 18,69/mês por 3 anos; preço regular R$ 66,49/mês"
+            ]
+          ]
+        },
+        "bullets": [
+          "**1 site:** a Hostinger é mais barata na promoção e depois dela. A HostGator dá 100 GB contra 10 GB do Single.",
+          "**Vários sites:** a HostGator é mais barata na promoção e bem mais barata depois (R$ 40,89 contra R$ 64,99 por mês). O Unlimited não tem limite de sites; o M diz mais de 60.",
+          "**O plano mais alto:** o Cloud Startup é o plano de nuvem da Hostinger e custa cerca do dobro do Turbo nas duas fases. Só compensa se você precisa do que ele entrega a mais; para muitos sites comuns, o Turbo resolve por menos.",
+          "**O Premium**, de 3 sites, não tem par na HostGator: fica entre o P e o M."
+        ],
+        "emphasis": "A promoção da Hostinger dura 48 meses e a da HostGator, 36. Por isso o total do primeiro ciclo engana: compare o preço por mês."
+      },
+      {
+        "heading": "O que o preço não mostra",
+        "bullets": [
+          "**Espaço.** A HostGator dá 100 GB já no plano de 1 site. Na Hostinger, os planos de entrada usam SSD de 10 e 20 GB; NVMe de 50 GB começa no Unlimited.",
+          "**Backup.** A HostGator cita backup diário nos três planos. Na Hostinger, o Single tem backup semanal e o Unlimited, diário.",
+          "**Servidor no Brasil.** A HostGator declara servidores no Brasil. Nas páginas de planos da Hostinger que lemos, a localização não aparece: pergunte ao suporte se isso pesa para você.",
+          "**Limite de visitas.** A HostGator põe um teto de visitas por mês em cada plano. Se o seu site está perto dele, conte com o plano de cima.",
+          "**Reembolso.** A HostGator anuncia 30 dias de garantia. Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel).",
+          "**Extras com prazo.** E-mail grátis \"por 1 ano\" e \"+3 meses grátis\" da HostGator vencem antes do plano. Na Hostinger, os créditos de IA em dobro são da campanha, e o domínio grátis vale por 1 ano do Premium para cima."
+        ]
+      },
+      {
+        "heading": "E se for VPS?",
+        "paragraphs": [
+          "Se você ainda não sabe se precisa de VPS ou de hospedagem compartilhada, comece por [VPS ou hospedagem compartilhada: qual escolher](/reviews/vps-ou-hospedagem-compartilhada-qual-escolher). Para quem já decidiu pelo VPS, os planos de entrada lado a lado:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plano",
+            "vCPU",
+            "Memória",
+            "NVMe",
+            "Promocional",
+            "Renovação"
+          ],
+          "rows": [
+            [
+              "[Hostinger KVM 1](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20) (24 meses)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "R$ 29,99/mês (lido em 30/10/2026)",
+              "R$ 59,99/mês"
+            ],
+            [
+              "[Hostinger KVM 2](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20) (24 meses)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "R$ 42,99/mês (lido em 30/10/2026)",
+              "R$ 77,99/mês"
+            ],
+            [
+              "HostGator VPS NVMe 2 (3 anos)",
+              "1",
+              "2 GB",
+              "50 GB",
+              "R$ 20,99/mês (lido em 30/10/2026)",
+              "A página não mostra"
+            ],
+            [
+              "HostGator VPS NVMe 4 (3 anos)",
+              "2",
+              "4 GB",
+              "100 GB",
+              "R$ 30,39/mês (lido em 30/10/2026)",
+              "A página não mostra"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o mesmo número de vCPU, o VPS da Hostinger traz o dobro de memória, e o da HostGator custa menos na promoção. A HostGator diz que o VPS roda na Oracle Cloud no Brasil, com cPanel disponível e 1 IP dedicado; ela tem ainda o VPS NVMe 8 (4 vCPU, 8 GB, 200 GB) a R$ 45,49/mês. A tabela de preço regular do VPS da HostGator não abriu em 30/10/2026, então não dá para comparar a renovação: pergunte antes de fechar 3 anos."
+        ]
+      },
+      {
+        "heading": "Cupom SONAR20 na Hostinger",
+        "paragraphs": [
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. Testamos no carrinho em três produtos: o plano Startup de e-commerce, do Criador de lojas, em 29/10/2026, e o e-mail profissional e o Reach, em 30/10/2026. Nos planos de hospedagem desta tabela e no VPS, não testamos; confira no carrinho. Não testamos a renovação. A regra completa está em [cupons da Hostinger](/cupons/hostinger).",
+          "Não temos código nem link da HostGator. Os preços dela neste artigo são os da página, sem desconto nosso."
+        ]
+      },
+      {
+        "heading": "Qual escolher: o veredito",
+        "paragraphs": [
+          "**Escolha a Hostinger** para um site só, como blog, portfólio ou página de empresa: o Single custa menos na promoção e na renovação, e a promoção dura 48 meses. A Hostinger também é a escolha se você quer um VPS com mais memória pelo mesmo número de vCPU.",
+          "**Escolha a HostGator** para vários sites, ou se espaço em disco, backup diário em todo plano e servidor no Brasil declarado pesam para você. No plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
+          "**Nos dois casos**, olhe a coluna da renovação antes de pagar e confira o valor no carrinho. As duas estão em campanha e os preços podem mudar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é melhor, Hostinger ou HostGator? Depende do plano. Em 30/10/2026, para 1 site, a Hostinger custa menos na promoção e na renovação; para vários sites, a HostGator custa menos nas duas fases e dá mais espaço.",
+          "Qual renova mais barato, Hostinger ou HostGator? No plano de 1 site, a Hostinger: R$ 23,99/mês contra R$ 31,39/mês do preço regular da HostGator. No plano para vários sites, a HostGator: R$ 40,89/mês contra R$ 64,99/mês do Unlimited.",
+          "Hostinger ou HostGator para VPS? Com o mesmo número de vCPU, a Hostinger traz o dobro de memória e a HostGator custa menos na promoção. A HostGator não mostra a renovação do VPS na página; pergunte antes de fechar.",
+          "A Hostinger tem servidor no Brasil? As páginas de planos que lemos em 30/10/2026 não dizem onde fica o servidor. A HostGator declara servidores no Brasil.",
+          "O cupom SONAR20 vale no VPS da Hostinger? Não testamos no VPS; confira no carrinho. Testamos no plano Startup de e-commerce, do Criador de lojas, em 29/10/2026, e o desconto é de 20% no primeiro período.",
+          "Dá para trocar de hospedagem sem perder o site? Dá, levando os arquivos e o banco de dados para a nova. A HostGator anuncia migração grátis; faça a troca antes de o plano antigo vencer."
+        ]
+      },
+      {
+        "heading": "Quem escreve",
+        "paragraphs": [
+          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado na Hostinger desde 17/11/2024. Ninguém da equipe usou a HostGator: este texto reúne o que as páginas brasileiras das duas dizem, lidas em 30/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
+      "label": "Ver os planos com o SONAR20",
+      "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno. Ninguém da equipe usou a HostGator.",
+    "relatedArticles": [
+      {
+        "slug": "vps-ou-hospedagem-compartilhada-qual-escolher",
+        "title": "VPS ou hospedagem compartilhada: qual compensa para o seu site na Hostinger"
+      },
+      {
+        "slug": "hostinger-e-confiavel",
+        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+      },
+      {
+        "slug": "cupom-hostinger-indicacao",
+        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+      }
+    ]
+  },
+  {
+    "id": 729,
+    "slug": "how-to-choose-web-host-hostinger",
+    "locale": "en",
+    "translationKey": "hostinger-ou-hostgator",
+    "title": "How to choose a web host: is Hostinger worth it for your site?",
+    "seoTitle": "Choosing a web host: Hostinger prices and renewal, October 2026",
+    "type": "Decision Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Editing and analysis",
+        "initials": "BL"
+      }
+    ],
+    "description": "How to choose a web host by renewal, cycle, server location and VPS. Hostinger's international prices in US dollars on October 30, 2026, with renewal.",
+    "metaDescription": "How to choose a web host: renewal, the 48-month cycle, server location and VPS. Hostinger's international prices in US dollars on October 30, 2026, with the renewal next to each one.",
+    "publishedAt": "October 30, 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+    "imageAlt": "Two server icons side by side, with the Hostinger logo and the word Hosting on the band",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Before you pay for web hosting, look at the renewal price, not the promotion of the first period. Read on October 30, 2026, Hostinger's entry plan is Premium, which covers up to 3 sites: US$2.49 a month on the 48-month term and US$10.99 at renewal. For many sites, the Unlimited plan has no site limit and renews at US$16.99 a month. The promotions run for 48 months, so the fair comparison is per month, with the renewal next to it, in the table below."
+        ]
+      },
+      {
+        "heading": "The four criteria that decide",
+        "paragraphs": [
+          "Every host sells its first period with a steep discount, and that is where comparisons go wrong. What weighs on the budget is the month after the promotion. Before the prices, these are the four criteria we use to compare:"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-en.webp",
+          "alt": "Chart with four criteria for choosing hosting: renewal, the monthly price after the first period; cycle, how many months the promotion lasts; server in the country, if the page says where the server is; and VPS, if you need guaranteed resources",
+          "caption": "The four criteria: renewal, cycle, server in the country and VPS. Chart by Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4516
+        },
+        "bullets": [
+          "**Renewal.** Hostinger shows each plan's renewal price on the card. Read it before the promotional price.",
+          "**Cycle.** Hostinger's promotional price applies to the 48-month plan. A 48-month total does not compare with a total for a different term. Compare per month, not by the total.",
+          "**Server in the country.** The Hostinger plan pages we read on October 30, 2026 do not say where the server is. If that matters to you, ask support before you buy.",
+          "**VPS.** If the site needs guaranteed processor and memory, it is a different comparison, further down."
+        ]
+      },
+      {
+        "heading": "Hostinger prices on October 30, 2026",
+        "paragraphs": [
+          "Web hosting, on Hostinger's international site, in US dollars, on the 48-month plan paid up front. Hostinger is running its Black Friday campaign, with no end date on the page:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "Promotional",
+            "Total in 48 months",
+            "Renewal",
+            "Sites",
+            "Storage"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$2.49/month",
+              "US$119.52",
+              "US$10.99/month",
+              "3",
+              "20 GB SSD"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$3.49/month",
+              "US$167.52",
+              "US$16.99/month",
+              "Unlimited",
+              "50 GB NVMe"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$7.99/month",
+              "US$383.52",
+              "US$25.99/month",
+              "Unlimited",
+              "100 GB NVMe"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Prices without SONAR20. These are the prices on Hostinger's international site in US dollars, and they can vary by country and currency, so check the cart. Renewal costs 3 to 5 times the promotional price. Premium has weekly backups; Unlimited, daily."
+        ]
+      },
+      {
+        "heading": "How to compare the plans, per month",
+        "paragraphs": [
+          "The plans don't line up one to one across hosts, and within Hostinger the step up follows the number of sites. Three questions decide between the plans, and the table above answers them per month:"
+        ],
+        "bullets": [
+          "**How many sites.** Premium covers up to 3 sites. Unlimited and Cloud Startup have no site limit on the page. With one or two sites, Premium is enough; for more, Unlimited.",
+          "**What you pay after the promotion.** The gap between Premium and Unlimited is US$1 a month during the promotion and US$6 at renewal. The gap widens when the promotion ends.",
+          "**Cloud Startup.** It is the top plan on the international site: it renews at US$25.99 a month, against US$16.99 for Unlimited, and during the promotion it costs more than twice as much. It doubles the storage (100 GB NVMe against 50 GB). For many ordinary sites, Unlimited is enough."
+        ],
+        "emphasis": "Hostinger's promotion lasts 48 months, so the total of the first cycle hides the renewal. Compare the monthly price, with the renewal next to it."
+      },
+      {
+        "heading": "What the price does not show",
+        "bullets": [
+          "**Storage.** The entry plan, Premium, has 20 GB of SSD. NVMe, at 50 GB, starts on Unlimited.",
+          "**Backup.** Premium has weekly backups; Unlimited, daily. Before you choose, check that the backup you need is included in the plan you want.",
+          "**Server location.** The pages do not say where the server is. If that matters to you, ask support before you buy.",
+          "**Renewal in the cart.** Before you pay, read the renewal price in the cart, not only the promotional monthly price.",
+          "**Refunds.** Read the refund policy before you buy. How Hostinger charges, renews and refunds is covered in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
+        ]
+      },
+      {
+        "heading": "What if it's a VPS?",
+        "paragraphs": [
+          "If you are not yet sure whether you need a VPS or shared hosting, start with [VPS or shared hosting: which one pays off for your site on Hostinger](/en/reviews/vps-or-shared-hosting-which-to-choose). For those who have already chosen a VPS, these are the entry plans on the international site, in US dollars:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "vCPU",
+            "Memory",
+            "NVMe",
+            "Promotional",
+            "Renewal"
+          ],
+          "rows": [
+            [
+              "[Hostinger KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 months)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "US$6.49/month",
+              "US$11.99/month"
+            ],
+            [
+              "[Hostinger KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 months)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "US$8.79/month",
+              "US$14.99/month"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "The VPS renewal is almost double the promotional price: KVM 1 goes from US$6.49 to US$11.99 a month, and KVM 2 from US$8.79 to US$14.99. These are the 24-month promotion prices read on October 30, 2026. We did not test SONAR20 on the VPS, so check the price in the cart before you sign."
+        ]
+      },
+      {
+        "heading": "SONAR20 on Hostinger",
+        "paragraphs": [
+          "Use the code **SONAR20** in the coupon field of the cart, or come in through this article's link: **20% off the first period**. We tested it in the cart of the Brazilian site on three products: the e-commerce Startup plan, from the store builder, on October 29, 2026, and a professional email plan and Reach, on October 30, 2026. On the hosting plans in this table and on the VPS, we did not test it; check in the cart. We did not test renewal. The full rule is on [Hostinger coupons](/en/coupons/hostinger).",
+          "Hostinger's promotion has no end date on the page, and prices can change. Check the amount in the cart before you pay."
+        ]
+      },
+      {
+        "heading": "Which to choose: the verdict",
+        "paragraphs": [
+          "**Choose Premium** for one site, a blog, a portfolio or a company page, or for up to three sites. It is the entry plan and the cheapest hosting on the international site, both in the promotion and at renewal.",
+          "**Choose Unlimited** for several sites, with daily backups and 50 GB of NVMe. Cloud Startup, which renews at more than US$25 a month, only pays off if you need the extra 100 GB of storage.",
+          "**Choose a VPS** when the site needs its own processor and memory, and look at the renewal first.",
+          "**In every case**, read the renewal column before you pay and confirm the amount in the cart. Prices on the international page can change."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Which web host is better? It depends on how many sites you have and on whether the promotion or the renewal matters more to you. Compare the renewal, the cycle, the server's country and the VPS, as above.",
+          "Which Hostinger plan renews for the least? Premium, at US$10.99 a month on the international site, after a 48-month promotion at US$2.49.",
+          "Is a Hostinger VPS worth it? It depends on the load the site puts on it. Compare vCPU, memory and renewal: KVM 1 renews at US$11.99 a month on the international site.",
+          "Does Hostinger say where its servers are? The plan pages we read on October 30, 2026 do not say where the server is. Ask support before you buy.",
+          "Does the SONAR20 coupon work on the VPS? We have not tested it on the VPS; check in the cart. We tested it on the e-commerce Startup plan, from the store builder, on October 29, 2026, and it gave 20% off the first period.",
+          "Can you switch hosts without losing the site? Yes, by moving the files and the database to the new host. Do the move before the old plan expires."
+        ]
+      },
+      {
+        "heading": "Who writes this",
+        "paragraphs": [
+          "Em Casa com Cecília runs on Hostinger's managed hosting, and the domain has been registered with Hostinger since November 17, 2024. This text gathers what the international pages of Hostinger say, read on October 30, 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+      "label": "See the hosting plans with SONAR20",
+      "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Purchases with the SONAR20 code or through the link may give Bruno a commission, at no extra cost to you.",
+    "relatedArticles": [
+      {
+        "slug": "vps-or-shared-hosting-which-to-choose",
+        "title": "VPS or shared hosting: which one pays off for your site on Hostinger"
+      },
+      {
+        "slug": "is-hostinger-legit",
+        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+      },
+      {
+        "slug": "hostinger-coupon-code-referral",
+        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+      }
+    ]
+  },
+  {
+    "id": 730,
+    "slug": "como-elegir-hosting-hostinger",
+    "locale": "es",
+    "translationKey": "hostinger-ou-hostgator",
+    "title": "Cómo elegir hosting para tu sitio: ¿compensa Hostinger?",
+    "seoTitle": "Cómo elegir hosting: precios y renovación de Hostinger en octubre 2026",
+    "type": "Guía de elección",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edición y análisis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Cómo elegir hosting según la renovación, el ciclo, el servidor y el VPS. Precios internacionales de Hostinger en dólares, con renovación, al 30 de octubre de 2026.",
+    "metaDescription": "Hosting para tu sitio: renovación, ciclo de 48 meses, dónde está el servidor y VPS. Precios del sitio internacional de Hostinger en dólares el 30 de octubre de 2026, con la renovación al lado.",
+    "publishedAt": "30 de octubre de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+    "imageAlt": "Dos iconos de servidor lado a lado, con el logo de Hostinger y la palabra Hosting en la franja",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Antes de pagar por hosting, mira el precio de la renovación, no solo la promoción del primer período. Leído el 30 de octubre de 2026, el plan de entrada de Hostinger es el Premium, para hasta 3 sitios: US$ 2,49 al mes en 48 meses y US$ 10,99 al renovar. Para muchos sitios, el Unlimited no tiene límite de sitios y renueva a US$ 16,99 al mes. Las promociones duran 48 meses, así que la comparación justa es por mes, con la renovación al lado, en la tabla de abajo."
+        ]
+      },
+      {
+        "heading": "Los cuatro criterios que deciden",
+        "paragraphs": [
+          "Todos los proveedores de hosting venden el primer período con un descuento grande, y ahí es donde las comparaciones se equivocan. Lo que pesa en el bolsillo es el mes después de la promoción. Antes de los precios, estos son los cuatro criterios que usamos para comparar:"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-es.webp",
+          "alt": "Cuadro con cuatro criterios para elegir hosting: renovación, cuánto cuesta el mes después del primer período; ciclo, por cuántos meses vale la promoción; servidor en el país, si la página dice dónde está el servidor; y VPS, si necesitas recursos garantizados",
+          "caption": "Los cuatro criterios: renovación, ciclo, servidor en el país y VPS. Cuadro de Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4516
+        },
+        "bullets": [
+          "**Renovación.** Hostinger muestra el precio de renovación de cada plan en la tarjeta. Míralo antes que el precio promocional.",
+          "**Ciclo.** El precio promocional de Hostinger vale para el plan de 48 meses. El total de 48 meses no se compara con el total de otro plazo. Compara por mes, no por el total.",
+          "**Servidor en el país.** Las páginas de planes de Hostinger que leímos el 30 de octubre de 2026 no dicen dónde está el servidor. Si eso te importa, pregunta al soporte antes de comprar.",
+          "**VPS.** Si el sitio necesita procesador y memoria garantizados, la comparación es otra, más abajo."
+        ]
+      },
+      {
+        "heading": "Precios de Hostinger al 30 de octubre de 2026",
+        "paragraphs": [
+          "Hosting de sitios en el sitio internacional de Hostinger, en dólares, con el plan de 48 meses pagado de una vez. Hostinger está en campaña de Black Friday, sin fecha de fin en la página:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "Promocional",
+            "Total en 48 meses",
+            "Renovación",
+            "Sitios",
+            "Almacenamiento"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2,49/mes",
+              "US$ 119,52",
+              "US$ 10,99/mes",
+              "3",
+              "20 GB SSD"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3,49/mes",
+              "US$ 167,52",
+              "US$ 16,99/mes",
+              "Ilimitados",
+              "50 GB NVMe"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7,99/mes",
+              "US$ 383,52",
+              "US$ 25,99/mes",
+              "Ilimitados",
+              "100 GB NVMe"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Precios sin el SONAR20. Son los precios del sitio internacional de Hostinger, en dólares; pueden variar según el país y la moneda, así que revisa el carrito. La renovación cuesta de 3 a 5 veces el precio promocional. El Premium tiene backup semanal; el Unlimited, diario."
+        ]
+      },
+      {
+        "heading": "Cómo comparar los planes por mes",
+        "paragraphs": [
+          "Los planes no se corresponden uno a uno entre hostings, y dentro de Hostinger el escalón sube según la cantidad de sitios. Tres preguntas deciden entre los planes, y la tabla de arriba las responde por mes:"
+        ],
+        "bullets": [
+          "**Cuántos sitios.** El Premium cubre hasta 3 sitios. El Unlimited y el Cloud Startup no tienen límite de sitios en la página. Con uno o dos sitios, el Premium alcanza; para más, el Unlimited.",
+          "**Cuánto pagas después de la promoción.** La diferencia entre Premium y Unlimited es de US$ 1 al mes durante la promoción y de US$ 6 al renovar. La distancia crece cuando termina la promoción.",
+          "**Cloud Startup.** Es el plan más alto del sitio internacional: renueva a US$ 25,99 al mes, contra US$ 16,99 del Unlimited, y durante la promoción cuesta más del doble. Ofrece el doble de almacenamiento (100 GB NVMe contra 50 GB). Para muchos sitios comunes, el Unlimited basta."
+        ],
+        "emphasis": "La promoción de Hostinger dura 48 meses, así que el total del primer ciclo esconde la renovación. Compara el precio por mes, con la renovación al lado."
+      },
+      {
+        "heading": "Lo que el precio no muestra",
+        "bullets": [
+          "**Almacenamiento.** El plan de entrada, el Premium, tiene 20 GB de SSD. El NVMe de 50 GB empieza en el Unlimited.",
+          "**Backup.** El Premium tiene backup semanal; el Unlimited, diario. Antes de elegir, confirma que el backup que necesitas viene en el plan que quieres.",
+          "**Servidor.** Las páginas no dicen dónde está el servidor. Si la ubicación te importa, pregunta al soporte antes de comprar.",
+          "**Renovación en el carrito.** Antes de pagar, mira el precio de renovación en el carrito, no solo el mensual promocional.",
+          "**Reembolso.** Lee la política de reembolso antes de contratar. Cómo Hostinger cobra, renueva y reembolsa está explicado en [¿Es confiable Hostinger?](/es/reviews/hostinger-es-confiable)."
+        ]
+      },
+      {
+        "heading": "¿Y si es VPS?",
+        "paragraphs": [
+          "Si todavía no sabes si necesitas un VPS o hosting compartido, empieza por [VPS o hosting compartido: cuál conviene para tu sitio en Hostinger](/es/reviews/vps-o-hosting-compartido-cual-elegir). Para quien ya decidió por el VPS, estos son los planes de entrada, en el sitio internacional y en dólares:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "vCPU",
+            "Memoria",
+            "NVMe",
+            "Promocional",
+            "Renovación"
+          ],
+          "rows": [
+            [
+              "[Hostinger KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 meses)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "US$ 6,49/mes",
+              "US$ 11,99/mes"
+            ],
+            [
+              "[Hostinger KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 meses)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "US$ 8,79/mes",
+              "US$ 14,99/mes"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "La renovación del VPS de Hostinger es casi el doble del precio promocional: el KVM 1 pasa de US$ 6,49 a US$ 11,99 al mes, y el KVM 2, de US$ 8,79 a US$ 14,99. Son precios de la promoción de 24 meses leídos el 30 de octubre de 2026. No probamos el SONAR20 en el VPS; confirma el precio en el carrito antes de contratar."
+        ]
+      },
+      {
+        "heading": "SONAR20 en Hostinger",
+        "paragraphs": [
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: **20% en el primer período**. Lo probamos en el carrito del sitio brasileño con tres productos: el plan Startup de e-commerce, del creador de tiendas, el 29 de octubre de 2026, y un correo profesional y el Reach, el 30 de octubre de 2026. En los planes de hosting de esta tabla y en el VPS, no lo probamos; confirma en el carrito. No probamos la renovación. La regla completa está en [cupones de Hostinger](/es/coupons/hostinger).",
+          "La promoción de Hostinger no tiene fecha de fin en la página, y los precios pueden cambiar. Revisa el monto en el carrito antes de pagar."
+        ]
+      },
+      {
+        "heading": "Cuál elegir: el veredicto",
+        "paragraphs": [
+          "**Elige el Premium** para un sitio, un blog, un portafolio o la página de una empresa, o para hasta tres sitios. Es el plan de entrada y el hosting más barato del sitio internacional, tanto en la promoción como en la renovación.",
+          "**Elige el Unlimited** para varios sitios, con backup diario y 50 GB de NVMe. El Cloud Startup, que renueva a más de US$ 25 al mes, solo compensa si necesitas el almacenamiento extra de 100 GB.",
+          "**Elige un VPS** cuando el sitio necesita procesador y memoria propios, y mira primero la renovación.",
+          "**En cualquier caso**, mira la columna de renovación antes de pagar y confirma el monto en el carrito. Los precios de la página internacional pueden cambiar."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Qué hosting es mejor? Depende de cuántos sitios tengas y de si pesa más la promoción o la renovación. Compara la renovación, el ciclo, el país del servidor y el VPS, como arriba.",
+          "¿Qué plan de Hostinger renueva más barato? El Premium, a US$ 10,99 al mes en el sitio internacional, después de una promoción de 48 meses a US$ 2,49.",
+          "¿Vale la pena el VPS de Hostinger? Depende de la carga que tenga el sitio. Compara vCPU, memoria y renovación: el KVM 1 renueva a US$ 11,99 al mes en el sitio internacional.",
+          "¿Hostinger tiene servidor en Brasil? Las páginas de planes que leímos el 30 de octubre de 2026 no dicen dónde está el servidor. Pregunta al soporte antes de comprar.",
+          "¿El cupón SONAR20 vale en el VPS? No lo probamos en el VPS; confirma en el carrito. Lo probamos en el plan Startup de e-commerce, del creador de tiendas, el 29 de octubre de 2026, y dio 20% en el primer período.",
+          "¿Se puede cambiar de hosting sin perder el sitio? Sí, pasando los archivos y la base de datos al nuevo hosting. Haz el cambio antes de que venza el plan anterior."
+        ]
+      },
+      {
+        "heading": "Quién escribe",
+        "paragraphs": [
+          "Em Casa com Cecília funciona sobre el hosting gestionado de Hostinger, y el dominio está registrado en Hostinger desde el 17 de noviembre de 2024. Este texto reúne lo que dicen las páginas del sitio internacional de Hostinger, leídas el 30 de octubre de 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "label": "Ver los planes de hosting con el SONAR20",
+      "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti.",
+    "relatedArticles": [
+      {
+        "slug": "vps-o-hosting-compartido-cual-elegir",
+        "title": "VPS o hosting compartido: cuál conviene para tu sitio en Hostinger"
+      },
+      {
+        "slug": "hostinger-es-confiable",
+        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+      },
+      {
+        "slug": "cupon-hostinger-codigo-de-referido",
+        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+      }
+    ]
+  },
+  {
+    "id": 731,
+    "slug": "choisir-hebergeur-hostinger",
+    "locale": "fr",
+    "translationKey": "hostinger-ou-hostgator",
+    "title": "Choisir un hébergeur web : Hostinger vaut-il le coup pour votre site ?",
+    "seoTitle": "Choisir un hébergeur : prix et renouvellement Hostinger, octobre 2026",
+    "type": "Guide de choix",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Édition et analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Comment choisir un hébergeur selon le renouvellement, le cycle, l'emplacement du serveur et le VPS. Prix internationaux de Hostinger en dollars, avec renouvellement, au 30 octobre 2026.",
+    "metaDescription": "Choisir un hébergeur web : renouvellement, cycle de 48 mois, emplacement du serveur et VPS. Prix du site international de Hostinger en dollars au 30 octobre 2026, avec le renouvellement à côté.",
+    "publishedAt": "30 octobre 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+    "imageAlt": "Deux icônes de serveur côte à côte, avec le logo Hostinger et le mot Hosting sur le bandeau",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Avant de payer un hébergement, regardez le prix du renouvellement, pas seulement la promotion de la première période. Relevé le 30 octobre 2026, le forfait d'entrée de Hostinger est Premium, qui couvre jusqu'à 3 sites : 2,49 US$ par mois sur 48 mois, puis 10,99 US$ au renouvellement. Pour beaucoup de sites, Unlimited n'a pas de limite de sites et se renouvelle à 16,99 US$ par mois. Les promotions durent 48 mois : la comparaison juste se fait donc par mois, avec le renouvellement à côté, dans le tableau ci-dessous."
+        ]
+      },
+      {
+        "heading": "Les quatre critères qui décident",
+        "paragraphs": [
+          "Chaque hébergeur vend sa première période avec une forte réduction, et c'est là que les comparaisons déraillent. Ce qui pèse sur le budget, c'est le mois qui suit la promotion. Avant les prix, voici les quatre critères que nous utilisons pour comparer :"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-fr.webp",
+          "alt": "Tableau des quatre critères pour choisir un hébergement : renouvellement, le prix du mois après la première période ; cycle, sur combien de mois dure la promotion ; serveur dans le pays, si la page indique où se trouve le serveur ; et VPS, si vous avez besoin de ressources garanties",
+          "caption": "Les quatre critères : renouvellement, cycle, serveur dans le pays et VPS. Tableau d'Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4516
+        },
+        "bullets": [
+          "**Renouvellement.** Hostinger affiche le prix du renouvellement de chaque forfait sur la carte. Regardez-le avant le prix promotionnel.",
+          "**Cycle.** La promotion de Hostinger vaut pour le forfait de 48 mois. Le total sur 48 mois ne se compare pas au total d'une autre durée. Comparez par mois, pas au total.",
+          "**Serveur dans le pays.** Les pages de forfaits de Hostinger que nous avons lues le 30 octobre 2026 n'indiquent pas où se trouve le serveur. Si cela compte pour vous, demandez au support avant d'acheter.",
+          "**VPS.** Si le site a besoin d'un processeur et d'une mémoire garantis, la comparaison est différente, plus bas."
+        ]
+      },
+      {
+        "heading": "Prix de Hostinger au 30 octobre 2026",
+        "paragraphs": [
+          "Hébergement de sites sur le site international de Hostinger, en dollars américains, avec le forfait de 48 mois payé d'avance. Hostinger est en pleine campagne Black Friday, sans date de fin indiquée sur la page :"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forfait",
+            "Promotionnel",
+            "Total sur 48 mois",
+            "Renouvellement",
+            "Sites",
+            "Stockage"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "2,49 US$/mois",
+              "119,52 US$",
+              "10,99 US$/mois",
+              "3",
+              "20 Go SSD"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "3,49 US$/mois",
+              "167,52 US$",
+              "16,99 US$/mois",
+              "Illimités",
+              "50 Go NVMe"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "7,99 US$/mois",
+              "383,52 US$",
+              "25,99 US$/mois",
+              "Illimités",
+              "100 Go NVMe"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Prix sans le SONAR20. Ce sont les prix du site international de Hostinger, en dollars ; ils peuvent varier selon le pays et la devise, vérifiez donc le panier. Le renouvellement coûte de 3 à 5 fois le prix promotionnel. Premium a des sauvegardes hebdomadaires ; Unlimited, des sauvegardes quotidiennes."
+        ]
+      },
+      {
+        "heading": "Comparer les forfaits par mois",
+        "paragraphs": [
+          "Les forfaits ne se correspondent pas un à un d'un hébergeur à l'autre, et chez Hostinger le palier monte avec le nombre de sites. Trois questions tranchent entre les forfaits, et le tableau ci-dessus y répond mois par mois :"
+        ],
+        "bullets": [
+          "**Combien de sites.** Premium couvre jusqu'à 3 sites. Unlimited et Cloud Startup n'ont pas de limite de sites sur la page. Pour un ou deux sites, Premium suffit ; pour davantage, Unlimited.",
+          "**Ce que vous payez après la promotion.** L'écart entre Premium et Unlimited est de 1 US$ par mois pendant la promotion, et de 6 US$ au renouvellement. L'écart se creuse quand la promotion se termine.",
+          "**Cloud Startup.** C'est le forfait le plus haut du site international : il se renouvelle à 25,99 US$ par mois, contre 16,99 US$ pour Unlimited, et pendant la promotion il coûte plus du double. Il offre le double de stockage (100 Go NVMe contre 50 Go). Pour beaucoup de sites courants, Unlimited suffit."
+        ],
+        "emphasis": "La promotion de Hostinger dure 48 mois : le total de la première période masque le renouvellement. Comparez le prix par mois, avec le renouvellement à côté."
+      },
+      {
+        "heading": "Ce que le prix ne montre pas",
+        "bullets": [
+          "**Stockage.** Le forfait d'entrée, Premium, a 20 Go de SSD. Le NVMe de 50 Go commence avec Unlimited.",
+          "**Sauvegarde.** Premium a des sauvegardes hebdomadaires ; Unlimited, des sauvegardes quotidiennes. Avant de choisir, vérifiez que la sauvegarde dont vous avez besoin est incluse dans le forfait voulu.",
+          "**Emplacement du serveur.** Les pages n'indiquent pas où se trouve le serveur. Si cela compte pour vous, demandez au support avant d'acheter.",
+          "**Renouvellement dans le panier.** Avant de payer, regardez le prix du renouvellement dans le panier, pas seulement le mensuel promotionnel.",
+          "**Remboursement.** Lisez la politique de remboursement avant de souscrire. La façon dont Hostinger facture, renouvelle et rembourse est expliquée dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
+        ]
+      },
+      {
+        "heading": "Et si c'est un VPS ?",
+        "paragraphs": [
+          "Si vous ne savez pas encore si vous avez besoin d'un VPS ou d'un hébergement mutualisé, commencez par [VPS ou hébergement mutualisé : lequel choisir pour votre site chez Hostinger](/fr/reviews/vps-ou-hebergement-mutualise). Pour ceux qui ont déjà choisi le VPS, voici les forfaits d'entrée, sur le site international et en dollars :"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forfait",
+            "vCPU",
+            "Mémoire",
+            "NVMe",
+            "Promotionnel",
+            "Renouvellement"
+          ],
+          "rows": [
+            [
+              "[Hostinger KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mois)",
+              "1",
+              "4 Go",
+              "50 Go",
+              "6,49 US$/mois",
+              "11,99 US$/mois"
+            ],
+            [
+              "[Hostinger KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mois)",
+              "2",
+              "8 Go",
+              "100 Go",
+              "8,79 US$/mois",
+              "14,99 US$/mois"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Le renouvellement du VPS Hostinger est presque le double du prix promotionnel : le KVM 1 passe de 6,49 US$ à 11,99 US$ par mois, et le KVM 2, de 8,79 US$ à 14,99 US$. Ce sont les prix de la promotion sur 24 mois relevés le 30 octobre 2026. Nous n'avons pas testé le SONAR20 sur le VPS : vérifiez le prix dans le panier avant de souscrire."
+        ]
+      },
+      {
+        "heading": "Le code SONAR20 chez Hostinger",
+        "paragraphs": [
+          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Nous l'avons testé dans le panier du site brésilien, sur trois produits : le forfait Startup e-commerce, du créateur de boutiques, le 29 octobre 2026, puis un e-mail professionnel et Reach, le 30 octobre 2026. Sur les forfaits d'hébergement de ce tableau et sur le VPS, nous ne l'avons pas testé : vérifiez dans le panier. Nous n'avons pas testé le renouvellement. La règle complète est sur [les codes promo Hostinger](/fr/coupons/hostinger).",
+          "La promotion de Hostinger n'a pas de date de fin sur la page, et les prix peuvent changer. Vérifiez le montant dans le panier avant de payer."
+        ]
+      },
+      {
+        "heading": "Lequel choisir : le verdict",
+        "paragraphs": [
+          "**Choisissez Premium** pour un site, un blog, un portfolio ou la page d'une entreprise, ou pour jusqu'à trois sites. C'est le forfait d'entrée et l'hébergement le moins cher du site international, en promotion comme au renouvellement.",
+          "**Choisissez Unlimited** pour plusieurs sites, avec des sauvegardes quotidiennes et 50 Go de NVMe. Cloud Startup, qui se renouvelle à plus de 25 US$ par mois, ne se justifie que si les 100 Go de NVMe vous sont utiles.",
+          "**Choisissez un VPS** quand le site a besoin de son propre processeur et de sa propre mémoire, et regardez d'abord le renouvellement.",
+          "**Dans tous les cas**, regardez la colonne du renouvellement avant de payer et confirmez le montant dans le panier. Les prix du site international peuvent changer."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Quel hébergeur est le meilleur ? Cela dépend du nombre de sites et de ce qui compte le plus pour vous, la promotion ou le renouvellement. Comparez le renouvellement, le cycle, le pays du serveur et le VPS, comme plus haut.",
+          "Quel forfait Hostinger se renouvelle le moins cher ? Premium, à 10,99 US$ par mois sur le site international, après une promotion sur 48 mois à 2,49 US$.",
+          "Le VPS Hostinger vaut-il le coup ? Cela dépend de la charge du site. Comparez vCPU, mémoire et renouvellement : le KVM 1 se renouvelle à 11,99 US$ par mois sur le site international.",
+          "Hostinger a-t-il un serveur au Brésil ? Les pages de forfaits que nous avons lues le 30 octobre 2026 n'indiquent pas où se trouve le serveur. Demandez au support avant d'acheter.",
+          "Le coupon SONAR20 fonctionne-t-il sur le VPS ? Nous ne l'avons pas testé sur le VPS : vérifiez dans le panier. Nous l'avons testé sur le forfait Startup e-commerce, le 29 octobre 2026, et il a donné 20 % sur la première période.",
+          "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait."
+        ]
+      },
+      {
+        "heading": "Qui écrit",
+        "paragraphs": [
+          "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, et le domaine est enregistré chez Hostinger depuis le 17 novembre 2024. Ce texte reprend ce que disent les pages du site international de Hostinger, relevées le 30 octobre 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
+      "label": "Voir les forfaits d'hébergement avec le SONAR20",
+      "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous.",
+    "relatedArticles": [
+      {
+        "slug": "vps-ou-hebergement-mutualise",
+        "title": "VPS ou hébergement mutualisé : lequel choisir pour votre site chez Hostinger"
+      },
+      {
+        "slug": "hostinger-est-il-fiable",
+        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      },
+      {
+        "slug": "code-promo-hostinger-parrainage",
+        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+      }
+    ]
+  },
+  {
+    "id": 732,
+    "slug": "scegliere-hosting-hostinger",
+    "locale": "it",
+    "translationKey": "hostinger-ou-hostgator",
+    "hideFromPortugueseListings": true,
+    "title": "Hosting per un sito: quale conviene, guardando il rinnovo?",
+    "seoTitle": "Hosting per un sito: quale conviene? Prezzo e rinnovo",
+    "type": "Guida alla scelta",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redazione e analisi",
+        "initials": "BL"
+      }
+    ],
+    "description": "Come scegliere l'hosting per un sito: il rinnovo pesa più dello sconto del primo periodo. Prezzi Hostinger del 30/10/2026 in dollari, al mese e con il rinnovo accanto.",
+    "metaDescription": "Come scegliere l'hosting per un sito: piani, rinnovo e durata dello sconto. Prezzi Hostinger in dollari al 30/10/2026, per mese, con spazio, backup, server nel paese e VPS.",
+    "publishedAt": "30 ottobre 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+    "imageAlt": "Due icone di server affiancate, con il logo di Hostinger e la parola Hosting nella fascia",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Per scegliere l'hosting di un sito non conta solo il prezzo del primo periodo: conta il mese dopo lo sconto. Nella pagina internazionale di Hostinger, letta il 30/10/2026, il piano Premium, per fino a 3 siti, parte da US$ 2,49 al mese in promozione e passa a US$ 10,99 al rinnovo. Quale piano va bene dipende da quanti siti hai, da quanto spazio ti serve e da quanto ti importa sapere dove si trova il server. Il quadro qui sotto riassume i quattro criteri, poi vengono i prezzi."
+        ]
+      },
+      {
+        "heading": "I quattro criteri che decidono",
+        "paragraphs": [
+          "Quasi tutte le pagine vendono il primo periodo con uno sconto grande, ed è lì che il confronto di solito sbaglia. Quello che pesa sul conto è il mese dopo la promozione. Prima dei prezzi, i quattro criteri che usiamo per confrontare:"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-it.webp",
+          "alt": "Quadro con quattro criteri per scegliere l'hosting: rinnovo, quanto costa il mese dopo il primo periodo; durata, per quanti mesi vale lo sconto; server nel paese, se la pagina dice dove si trova il server; e VPS, se serve una risorsa garantita",
+          "caption": "I quattro criteri: rinnovo, durata, server nel paese e VPS. Quadro di Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4516
+        },
+        "bullets": [
+          "**Rinnovo.** Ogni piano mostra il prezzo che vale dopo il primo periodo, sulla card o nel carrello. Confronta quel numero, non quello promozionale.",
+          "**Durata.** Lo sconto della Hostinger vale per 48 mesi sul piano di hosting che abbiamo letto. Piani con durate diverse non si confrontano sul totale: si divide per mese.",
+          "**Server nel paese.** Le pagine dei piani Hostinger che abbiamo letto non dicono dove si trova il server. Se per te conta, chiedilo al supporto prima di pagare.",
+          "**VPS.** Se il sito ha bisogno di processore e memoria garantiti, il confronto è un altro, più in basso."
+        ]
+      },
+      {
+        "heading": "Prezzi Hostinger al 30/10/2026",
+        "paragraphs": [
+          "Hosting per siti sul sito internazionale della Hostinger, in dollari, con il piano di 48 mesi pagato in una volta:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piano",
+            "Promozionale",
+            "Totale in 48 mesi",
+            "Rinnovo",
+            "Siti",
+            "Spazio"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2,49/mese",
+              "US$ 119,52",
+              "US$ 10,99/mese",
+              "3",
+              "20 GB SSD"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3,49/mese",
+              "US$ 167,52",
+              "US$ 16,99/mese",
+              "Illimitati",
+              "50 GB NVMe"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7,99/mese",
+              "US$ 383,52",
+              "US$ 25,99/mese",
+              "Illimitati",
+              "100 GB NVMe"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Prezzi senza il SONAR20. Il rinnovo costa da 3 a 5 volte la promozione. Il Premium ha il backup settimanale; l'Unlimited, quello giornaliero. Sono i prezzi del sito internazionale in dollari, letti il 30/10/2026: possono cambiare per paese e valuta."
+        ]
+      },
+      {
+        "heading": "Come leggere il prezzo di qualsiasi hosting",
+        "paragraphs": [
+          "Tre numeri fanno la differenza, e valgono per ogni marca, non solo per la Hostinger:"
+        ],
+        "bullets": [
+          "**Il prezzo dopo la promozione.** È quello che paghi dal secondo periodo in poi. Se la pagina non lo mostra in modo chiaro, cercalo nel carrello prima di decidere.",
+          "**Il prezzo barrato.** Il prezzo scritto accanto a quello scontato non è il rinnovo: usa il valore che la pagina dice valere dopo il primo periodo.",
+          "**La durata dello sconto.** Un piano di 48 mesi e uno di 36 non si confrontano sul totale. Il totale del primo ciclo inganna: dividi per mese e metti il rinnovo accanto."
+        ]
+      },
+      {
+        "heading": "Quale piano per quanti siti",
+        "paragraphs": [
+          "I piani non si incontrano uno a uno. Per numero di siti, ecco i piani Hostinger che abbiamo letto:"
+        ],
+        "bullets": [
+          "**Fino a 3 siti:** Premium. Ha 20 GB SSD e backup settimanale, ed è il piano di ingresso della pagina internazionale di hosting.",
+          "**Siti illimitati:** Unlimited. Ha 50 GB NVMe e backup giornaliero.",
+          "**Il piano più alto:** Cloud Startup, con 100 GB NVMe. Ha senso solo se ti serve quello che offre in più; per molti siti comuni l'Unlimited spesso basta."
+        ],
+        "emphasis": "La promozione dura 48 mesi nella pagina che abbiamo letto. Per questo il totale del primo ciclo inganna: confronta il prezzo al mese, con il rinnovo accanto."
+      },
+      {
+        "heading": "Quello che il prezzo non mostra",
+        "bullets": [
+          "**Spazio.** Il Premium ha 20 GB SSD. L'Unlimited e il Cloud Startup passano a NVMe, con 50 GB e 100 GB.",
+          "**Backup.** Il Premium ha il backup settimanale, l'Unlimited quello giornaliero. Se perdere una settimana di modifiche ti pesa, conta più del prezzo.",
+          "**Rimborso.** Prima di pagare, controlla nel carrello fino a quando puoi chiedere il rimborso e come viene restituito. Come la Hostinger addebita, rinnova e rimborsa è spiegato in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile).",
+          "**Regali con scadenza.** Se la pagina nomina un dominio gratis, e-mail o altri vantaggi, di solito hanno un termine. Controlla nel carrello fino a quando valgono, prima di contarci per il rinnovo."
+        ]
+      },
+      {
+        "heading": "E se serve un VPS?",
+        "paragraphs": [
+          "Se non sai ancora se ti serve un VPS o un hosting condiviso, parti da [VPS o hosting condiviso: quale scegliere](/it/reviews/vps-o-hosting-condiviso). Per chi ha già deciso per il VPS, ecco i due piani di ingresso sul sito internazionale:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piano",
+            "vCPU",
+            "Memoria",
+            "NVMe",
+            "Promozionale",
+            "Rinnovo"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mesi)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "US$ 6,49/mese",
+              "US$ 11,99/mese"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mesi)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "US$ 8,79/mese",
+              "US$ 14,99/mese"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "I prezzi sono quelli del sito internazionale, letti il 30/10/2026. La pagina ha anche KVM 4 e KVM 8, con più processore e memoria. Prima di firmare un periodo lungo, controlla il rinnovo nel carrello."
+        ]
+      },
+      {
+        "heading": "Coupon SONAR20 con la Hostinger",
+        "paragraphs": [
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**. Lo abbiamo provato nel carrello del sito brasiliano su tre prodotti: il piano Startup di e-commerce, del costruttore di negozi, il 29 ottobre 2026, e l'e-mail professionale e il Reach, il 30 ottobre 2026. Sui piani di hosting di questa tabella e sul VPS non l'abbiamo testato; controlla nel carrello. Non abbiamo testato il rinnovo. La regola completa è nella pagina dei [coupon Hostinger](/it/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Quale scegliere: il verdetto",
+        "paragraphs": [
+          "**Scegli il Premium** per fino a tre siti, come blog, portfolio o pagina aziendale: è il piano di ingresso della pagina internazionale, con 20 GB SSD e backup settimanale. Se ti servono siti illimitati e backup giornaliero, guarda l'**Unlimited**. Il Cloud Startup, con 100 GB, è per chi ha bisogno di quello che offre in più.",
+          "Se per il tuo sito serve un VPS, il confronto si fa sulle specifiche e sul rinnovo, non sul primo mese.",
+          "**In ogni caso**, guarda la colonna del rinnovo prima di pagare e controlla il valore nel carrello. Le offerte possono cambiare, e il prezzo varia per paese e valuta."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Qual è il piano più economico per un sito solo? Il Premium, che copre fino a 3 siti: US$ 2,49 al mese in promozione e US$ 10,99 al rinnovo, su 48 mesi.",
+          "Come confronto il rinnovo di due hosting? Guarda il prezzo al mese dopo il primo periodo, e confronta piani dello stesso tipo: condiviso con condiviso, VPS con VPS. Il totale del primo ciclo non serve, perché le durate cambiano.",
+          "La Hostinger ha server nel paese? Le pagine dei piani che abbiamo letto il 30/10/2026 non dicono dove si trova il server. Chiedilo al supporto prima di pagare.",
+          "Il coupon SONAR20 vale sul VPS? Non l'abbiamo testato sul VPS: controlla nel carrello. Abbiamo provato il piano Startup di e-commerce il 29 ottobre 2026 nel sito brasiliano, e lo sconto è del 20% sul primo periodo.",
+          "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo. Fai il passaggio prima che scada il piano vecchio."
+        ]
+      },
+      {
+        "heading": "Chi scrive",
+        "paragraphs": [
+          "Il sito Em Casa com Cecília gira sull'hosting gestito della Hostinger, e il dominio è registrato presso la Hostinger dal 17/11/2024. Nessuno del team ha esperienza con altri hosting per questo articolo: il testo riunisce i criteri di scelta e quello che la Hostinger dice nelle sue pagine, lette il 30/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+      "label": "Vedi i piani di hosting con il SONAR20",
+      "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team ha usato un altro hosting per questo articolo.",
+    "relatedArticles": [
+      {
+        "slug": "vps-o-hosting-condiviso",
+        "title": "VPS o hosting condiviso: quale conviene per il tuo sito su Hostinger"
+      },
+      {
+        "slug": "hostinger-e-affidabile",
+        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+      },
+      {
+        "slug": "coupon-hostinger-codice-invito",
+        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+      }
+    ]
+  },
+  {
+    "id": 733,
+    "slug": "webhoster-waehlen-hostinger",
+    "locale": "de",
+    "translationKey": "hostinger-ou-hostgator",
+    "hideFromPortugueseListings": true,
+    "title": "Webhosting für eine Website: Was lohnt sich, wenn man auf die Verlängerung schaut?",
+    "seoTitle": "Webhosting für eine Website: Was lohnt sich? Preis und Verlängerung",
+    "type": "Entscheidungshilfe",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redaktion und Analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Webhosting für eine Website: Die Verlängerung zählt mehr als der Startrabatt. Hostinger-Preise vom 30. Oktober 2026 in US-Dollar, pro Monat und mit Verlängerung daneben.",
+    "metaDescription": "Webhosting für eine Website wählen: Hostinger-Preise in US-Dollar vom 30. Oktober 2026, pro Monat und mit Verlängerung, dazu Speicher, Backup, Server im Land und VPS.",
+    "publishedAt": "30. Oktober 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+    "imageAlt": "Zwei Server-Symbole nebeneinander, mit dem Hostinger-Logo und dem Wort Hosting im Band",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Beim Hosting zählt nicht der Preis des ersten Zeitraums, sondern der Monat danach. Laut der internationalen Seite von Hostinger, gelesen am 30. Oktober 2026, kostet der Premium-Tarif für bis zu 3 Websites 2,49 US$ pro Monat in der Aktion und 10,99 US$ pro Monat danach. Welcher Tarif passt, hängt davon ab, wie viele Websites Sie haben, wie viel Speicher Sie brauchen und ob Ihnen wichtig ist, wo der Server steht. Die Grafik unten fasst die vier Kriterien zusammen, danach folgen die Preise."
+        ]
+      },
+      {
+        "heading": "Die vier Kriterien, die entscheiden",
+        "paragraphs": [
+          "Fast alle Seiten verkaufen den ersten Zeitraum mit einem großen Rabatt, und genau dort irrt sich der Vergleich meist. Entscheidend ist der Monat nach der Aktion. Vor den Preisen nennen wir die vier Kriterien, mit denen wir vergleichen:"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-de.webp",
+          "alt": "Grafik mit vier Kriterien für die Wahl des Hostings: Verlängerung, was der Monat nach dem ersten Zeitraum kostet; Laufzeit, wie viele Monate der Rabatt gilt; Server im Land, wenn die Seite sagt, wo der Server steht; und VPS, wenn garantierte Leistung nötig ist",
+          "caption": "Die vier Kriterien: Verlängerung, Laufzeit, Server im Land und VPS. Grafik von Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4516
+        },
+        "bullets": [
+          "**Verlängerung.** Jeder Tarif zeigt auf der Karte oder im Warenkorb den Preis, der nach dem ersten Zeitraum gilt. Vergleichen Sie diese Zahl, nicht den Aktionspreis.",
+          "**Laufzeit.** Der Aktionspreis der Hostinger gilt im Hosting-Tarif, den wir gelesen haben, für 48 Monate. Tarife mit unterschiedlichen Laufzeiten vergleicht man nicht über die Summe, sondern pro Monat.",
+          "**Server im Land.** Die Tarifseiten der Hostinger, die wir gelesen haben, sagen nicht, wo der Server steht. Wenn Ihnen das wichtig ist, fragen Sie vor dem Kauf den Support.",
+          "**VPS.** Wenn Ihre Website garantierte Prozessorleistung und Arbeitsspeicher braucht, ist der Vergleich ein anderer, weiter unten."
+        ]
+      },
+      {
+        "heading": "Preise der Hostinger am 30. Oktober 2026",
+        "paragraphs": [
+          "Hosting für Websites auf der internationalen Seite der Hostinger, in US-Dollar, mit dem Tarif für 48 Monate, einmal bezahlt:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tarif",
+            "Aktion",
+            "Summe in 48 Monaten",
+            "Verlängerung",
+            "Websites",
+            "Speicher"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "2,49 US$/Monat",
+              "119,52 US$",
+              "10,99 US$/Monat",
+              "3",
+              "20 GB SSD"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "3,49 US$/Monat",
+              "167,52 US$",
+              "16,99 US$/Monat",
+              "Unbegrenzt",
+              "50 GB NVMe"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "7,99 US$/Monat",
+              "383,52 US$",
+              "25,99 US$/Monat",
+              "Unbegrenzt",
+              "100 GB NVMe"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Preise ohne SONAR20. Die Verlängerung kostet das Drei- bis Fünffache der Aktion. Der Premium hat ein wöchentliches Backup, der Unlimited ein tägliches. Das sind die Preise der internationalen Seite in Dollar, gelesen am 30. Oktober 2026. Je nach Land und Währung können sie abweichen."
+        ]
+      },
+      {
+        "heading": "So lesen Sie den Preis jedes Hostings",
+        "paragraphs": [
+          "Drei Angaben machen den Unterschied, und sie gelten für jede Marke, nicht nur für die Hostinger:"
+        ],
+        "bullets": [
+          "**Der Preis nach der Aktion.** Das ist, was Sie ab dem zweiten Zeitraum zahlen. Zeigt die Seite ihn nicht deutlich, suchen Sie ihn im Warenkorb, bevor Sie sich entscheiden.",
+          "**Der durchgestrichene Preis.** Der Preis neben dem Aktionspreis ist nicht die Verlängerung. Nehmen Sie den Wert, den die Seite für die Zeit nach dem ersten Zeitraum angibt.",
+          "**Die Dauer der Aktion.** Ein Tarif mit 48 Monaten und einer mit 36 Monaten lassen sich nicht über die Summe vergleichen. Die Summe des ersten Zyklus täuscht: Teilen Sie durch die Monate und stellen Sie die Verlängerung daneben."
+        ]
+      },
+      {
+        "heading": "Welcher Tarif für welche Zahl an Websites",
+        "paragraphs": [
+          "Die Tarife lassen sich nicht eins zu eins vergleichen. Nach Zahl der Websites ergibt sich bei der Hostinger folgendes Bild, auf Grundlage der Seiten, die wir gelesen haben:"
+        ],
+        "bullets": [
+          "**Bis zu 3 Websites:** Premium. Er hat 20 GB SSD und ein wöchentliches Backup und ist der Einstiegstarif der internationalen Hosting-Seite.",
+          "**Unbegrenzt viele Websites:** Unlimited. Er hat 50 GB NVMe und ein tägliches Backup.",
+          "**Der höchste Tarif:** Cloud Startup mit 100 GB NVMe. Er lohnt sich nur, wenn Sie das brauchen, was er zusätzlich bietet. Für viele übliche Websites reicht der Unlimited oft."
+        ],
+        "emphasis": "Die Aktion läuft auf der Seite, die wir gelesen haben, 48 Monate. Deshalb täuscht die Summe des ersten Zyklus: Vergleichen Sie den Preis pro Monat, mit der Verlängerung daneben."
+      },
+      {
+        "heading": "Was der Preis nicht zeigt",
+        "bullets": [
+          "**Speicher.** Der Premium hat 20 GB SSD. Unlimited und Cloud Startup arbeiten mit NVMe, mit 50 GB und 100 GB.",
+          "**Backup.** Der Premium hat ein wöchentliches Backup, der Unlimited ein tägliches. Wenn Sie den Verlust einer Woche an Änderungen nicht hinnehmen wollen, wiegt das mehr als der Preis.",
+          "**Erstattung.** Prüfen Sie vor dem Kauf im Warenkorb, bis wann Sie eine Erstattung verlangen können und wie sie erfolgt. Wie die Hostinger abrechnet, verlängert und erstattet, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes).",
+          "**Vorteile mit Ablauf.** Wenn die Seite eine kostenlose Domain, E-Mail oder andere Extras nennt, haben sie meist eine Laufzeit. Prüfen Sie im Warenkorb, wie lange sie gelten, bevor Sie sie für die Verlängerung einplanen."
+        ]
+      },
+      {
+        "heading": "Und wenn es ein VPS sein soll?",
+        "paragraphs": [
+          "Wenn Sie noch nicht wissen, ob Sie einen VPS oder Shared Hosting brauchen, beginnen Sie mit [VPS oder Shared Hosting: was sich lohnt](/de/reviews/vps-oder-shared-hosting). Für alle, die sich schon für den VPS entschieden haben, die beiden Einstiegstarife auf der internationalen Seite:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tarif",
+            "vCPU",
+            "Arbeitsspeicher",
+            "NVMe",
+            "Aktion",
+            "Verlängerung"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 Monate)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "6,49 US$/Monat",
+              "11,99 US$/Monat"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 Monate)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "8,79 US$/Monat",
+              "14,99 US$/Monat"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Die Preise stammen von der internationalen Seite, gelesen am 30. Oktober 2026. Die Seite hat auch KVM 4 und KVM 8, mit mehr Prozessorleistung und Arbeitsspeicher. Prüfen Sie vor einer langen Laufzeit die Verlängerung im Warenkorb."
+        ]
+      },
+      {
+        "heading": "Gutschein SONAR20 bei Hostinger",
+        "paragraphs": [
+          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link in diesem Artikel: Sie erhalten **20 % auf den ersten Zeitraum**. Wir haben den Code im Warenkorb der brasilianischen Seite bei drei Produkten getestet: beim Startup-Tarif für E-Commerce aus dem Shop-Ersteller am 29. Oktober 2026 sowie bei der professionellen E-Mail und bei Reach am 30. Oktober 2026. Bei den Hosting-Tarifen dieser Tabelle und beim VPS haben wir nicht getestet; prüfen Sie es im Warenkorb. Die Verlängerung haben wir nicht getestet. Alle Regeln stehen auf der Seite der [Hostinger-Gutscheine](/de/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Welcher Tarif passt: das Fazit",
+        "paragraphs": [
+          "**Wählen Sie den Premium** für bis zu drei Websites, etwa für einen Blog, ein Portfolio oder eine Firmenseite: Er ist der Einstiegstarif der internationalen Seite, mit 20 GB SSD und wöchentlichem Backup. Brauchen Sie unbegrenzt viele Websites und ein tägliches Backup, sehen Sie sich den **Unlimited** an. Der Cloud Startup mit 100 GB ist für alle, die das brauchen, was er zusätzlich bietet.",
+          "Wenn für Ihre Website ein VPS nötig ist, entscheidet der Vergleich der Leistung und der Verlängerung, nicht der erste Monat.",
+          "**In jedem Fall** sehen Sie vor dem Bezahlen auf die Spalte der Verlängerung und prüfen den Preis im Warenkorb. Aktionen können sich ändern, und der Preis hängt von Land und Währung ab."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Welcher Tarif ist für eine einzelne Website am günstigsten? Der Premium, der bis zu 3 Websites abdeckt: 2,49 US$ pro Monat in der Aktion und 10,99 US$ danach, über 48 Monate.",
+          "Wie vergleiche ich die Verlängerung zweier Hostings? Schauen Sie auf den Monatspreis nach dem ersten Zeitraum und vergleichen Sie gleiche Tarifarten: Shared mit Shared, VPS mit VPS. Die Summe des ersten Zyklus hilft nicht, weil die Laufzeiten abweichen.",
+          "Hat die Hostinger einen Server im Land? Die Tarifseiten, die wir am 30. Oktober 2026 gelesen haben, sagen nicht, wo der Server steht. Fragen Sie vor dem Kauf den Support.",
+          "Gilt der Gutschein SONAR20 beim VPS? Beim VPS haben wir nicht getestet; prüfen Sie es im Warenkorb. Getestet haben wir den Startup-Tarif für E-Commerce am 29. Oktober 2026 auf der brasilianischen Seite; der Rabatt beträgt 20 % auf den ersten Zeitraum.",
+          "Kann ich den Anbieter wechseln, ohne die Website zu verlieren? Ja, wenn Sie Dateien und Datenbank zum neuen Anbieter übertragen. Machen Sie den Wechsel, bevor der alte Tarif ausläuft."
+        ]
+      },
+      {
+        "heading": "Wer schreibt",
+        "paragraphs": [
+          "Em Casa com Cecília läuft auf dem verwalteten Hosting der Hostinger, und die Domain ist seit dem 17. November 2024 bei der Hostinger registriert. Im Team gibt es keine Erfahrung mit anderen Hostings für diesen Artikel. Der Text verbindet die Auswahlkriterien mit dem, was die Hostinger auf ihren Seiten sagt, gelesen am 30. Oktober 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+      "label": "Hosting-Tarife mit SONAR20 ansehen",
+      "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Im Team hat für diesen Artikel niemand einen anderen Anbieter genutzt.",
+    "relatedArticles": [
+      {
+        "slug": "vps-oder-shared-hosting",
+        "title": "VPS oder Shared Hosting: was sich für Ihre Website bei Hostinger lohnt"
+      },
+      {
+        "slug": "ist-hostinger-serioes",
+        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+      },
+      {
+        "slug": "hostinger-gutschein-empfehlungscode",
+        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "slug": "choose-web-host-hostinger-ja",
+    "locale": "ja",
+    "translationKey": "hostinger-ou-hostgator",
+    "hideFromPortugueseListings": true,
+    "title": "サイトのレンタルサーバー、どれが得？ 割引ではなく更新料で比べる",
+    "seoTitle": "レンタルサーバーの選び方：更新料と月額で比較",
+    "type": "選び方ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編集・分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "サイト用のレンタルサーバーを選ぶなら、初回割引より更新料が大事です。2026年10月30日時点のHostingerの料金を、米ドルの月額と更新料で掲載しています。",
+    "metaDescription": "サイト用のレンタルサーバーの選び方。2026年10月30日時点のHostinger（米ドル）の料金を、月額と更新料、容量、バックアップ、国内サーバー、VPSとともに整理。",
+    "publishedAt": "2026年10月30日",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+    "imageAlt": "並んだ2つのサーバーのアイコン、帯に Hostinger のロゴと Hosting の文字",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "レンタルサーバーは、最初の期間の料金だけでは選べません。払い続けることになるのは、割引が終わったあとの月額です。2026年10月30日に確認したHostingerの国際サイト（米ドル建て）では、3サイトまで使えるPremiumが、キャンペーン中は月額US$2.49、更新後は月額US$10.99です。どのプランが合うかは、サイト数、必要な容量、サーバーの場所をどこまで気にするかで決まります。下の図で4つの基準を整理し、そのあとに料金を並べます。"
+        ]
+      },
+      {
+        "heading": "決め手になる4つの基準",
+        "paragraphs": [
+          "どのページも最初の期間を大きく割り引いて見せるので、比べ方を間違えやすいところです。財布に響くのは、割引が終わった翌月の料金です。料金を見る前に、比べるときに使う4つの基準を挙げます。"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-ja.webp",
+          "alt": "レンタルサーバーを選ぶ4つの基準の図：更新料、割引のあとの月額；契約期間、割引が何か月続くか；国内サーバー、ページにサーバーの場所があるか；VPS、保証された性能が必要か",
+          "caption": "4つの基準：更新料、契約期間、国内サーバー、VPS。Em Casa com Cecíliaの図です。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4516
+        },
+        "bullets": [
+          "**更新料。** どのプランも、カードかカートに最初の期間のあとの料金が出ています。割引価格ではなく、その数字を比べてください。",
+          "**契約期間。** 今回確認したHostingerのホスティングプランでは、割引は48か月の契約に付いています。期間の違うプランは総額では比べられないので、月額に割ってください。",
+          "**国内サーバー。** 今回確認したHostingerのプランのページには、サーバーの場所が書かれていませんでした。大事なら、支払う前にサポートに聞いてください。",
+          "**VPS。** 処理能力とメモリを確実に使いたいなら、比べ方が変わります。それは後ほど説明します。"
+        ]
+      },
+      {
+        "heading": "Hostingerの料金（2026年10月30日時点）",
+        "paragraphs": [
+          "Hostingerの国際サイトにある、サイト用ホスティングの料金です。米ドル建てで、48か月プランを一括で払う場合の金額を載せています。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "プラン",
+            "割引価格",
+            "48か月の総額",
+            "更新料",
+            "サイト数",
+            "容量"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$2.49/月",
+              "US$119.52",
+              "US$10.99/月",
+              "3",
+              "20 GB SSD"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$3.49/月",
+              "US$167.52",
+              "US$16.99/月",
+              "無制限",
+              "50 GB NVMe"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$7.99/月",
+              "US$383.52",
+              "US$25.99/月",
+              "無制限",
+              "100 GB NVMe"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SONAR20を使わない場合の料金です。更新料は割引価格の3〜5倍になります。Premiumは毎週のバックアップ、Unlimitedは毎日のバックアップです。これは米ドル建ての国際サイトの料金で、2026年10月30日に確認しました。国や通貨によって変わることがあります。"
+        ]
+      },
+      {
+        "heading": "どのレンタルサーバーでも使える料金の読み方",
+        "paragraphs": [
+          "次の3つは、Hostingerに限らず、どの会社にも当てはまります。"
+        ],
+        "bullets": [
+          "**割引後の料金。** 2回目以降に払う金額です。ページで分かりにくければ、決める前にカートで確認してください。",
+          "**取り消し線の料金。** 割引価格の横にある元の料金は、更新料ではありません。割引後の期間について書かれた金額を使ってください。",
+          "**割引の期間。** 48か月と36か月のプランは、総額では比べられません。最初の期間の総額は誤解を招きます。月額に割り、更新料を並べてください。"
+        ]
+      },
+      {
+        "heading": "サイト数で選ぶプラン",
+        "paragraphs": [
+          "プランは一対一で対応させて比べられるものではありません。サイト数で見ると、今回確認したHostingerのプランは次のとおりです。"
+        ],
+        "bullets": [
+          "**3サイトまで:** Premium。20 GB SSDと毎週のバックアップがあり、国際サイトのホスティングの入門プランです。",
+          "**サイト数が無制限:** Unlimited。50 GB NVMeと毎日のバックアップがあります。",
+          "**一番上のプラン:** Cloud Startup。100 GB NVMeです。追加の機能が必要な場合にだけ意味があります。よくある個人サイトなら、Unlimitedで足りることが多いです。"
+        ],
+        "emphasis": "今回確認したページでは、割引は48か月です。そのため、最初のサイクルの総額は誤解を招きます。月額で比べ、更新料を並べて見てください。"
+      },
+      {
+        "heading": "料金からは分からないこと",
+        "bullets": [
+          "**容量。** Premiumは20 GB SSDです。UnlimitedとCloud StartupはNVMeで、それぞれ50 GBと100 GBです。",
+          "**バックアップ。** Premiumは毎週、Unlimitedは毎日です。1週間分の更新を失うと困るなら、料金より大事になります。",
+          "**返金。** 購入前に、返金を申し出られる期間と返金の方法をカートで確認してください。Hostingerの請求、更新、返金については、[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)にまとめています。",
+          "**期間付きの特典。** ページに無料ドメインやメールなどの特典があれば、たいてい期限があります。更新を前提にする前に、カートでいつまで有効か確認してください。"
+        ]
+      },
+      {
+        "heading": "VPSの場合は？",
+        "paragraphs": [
+          "VPSと共用ホスティングのどちらが必要か、まだ分からなければ、[VPSか共有ホスティングか](/ja/reviews/vps-or-shared-hosting-ja)から読んでください。VPSに決めた人のために、国際サイトの入門プラン2つを並べます。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "プラン",
+            "vCPU",
+            "メモリ",
+            "NVMe",
+            "割引価格",
+            "更新料"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)（24か月）",
+              "1",
+              "4 GB",
+              "50 GB",
+              "US$6.49/月",
+              "US$11.99/月"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)（24か月）",
+              "2",
+              "8 GB",
+              "100 GB",
+              "US$8.79/月",
+              "US$14.99/月"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "料金は2026年10月30日に確認した国際サイトのものです。ページにはKVM 4とKVM 8もあり、処理能力とメモリがさらに多いプランです。長い期間で契約する前に、カートで更新料を確認してください。"
+        ]
+      },
+      {
+        "heading": "HostingerのクーポンSONAR20",
+        "paragraphs": [
+          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ると、**最初の期間が20%割引**になります。ブラジルのサイトのカートで3つの商品を試しました。ショップ作成ツールのE-commerce向けStartupプランは2026年10月29日、プロ仕様のメールとReachは2026年10月30日です。この表のホスティングプランとVPSは試していません。カートで確認してください。更新料も試していません。ルールの詳細は[Hostingerのクーポン](/ja/coupons/hostinger)にあります。"
+        ]
+      },
+      {
+        "heading": "結論：どれを選ぶか",
+        "paragraphs": [
+          "**3サイトまでならPremium**がおすすめです。ブログ、ポートフォリオ、会社の紹介ページなどに向いています。国際サイトの入門プランで、20 GB SSDと毎週のバックアップがあります。サイト数が無制限で毎日のバックアップが必要なら、**Unlimited**を見てください。100 GBのCloud Startupは、その追加機能が必要な人向けです。",
+          "VPSが必要なサイトなら、比べるのは最初の月ではなく、性能と更新料です。",
+          "**どの場合も**、支払う前に更新料の欄を見て、カートで金額を確認してください。キャンペーンは変わることがあり、料金は国や通貨によって違います。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "一つのサイトなら、いちばん安いのはどれ？ 3サイトまで使えるPremiumです。キャンペーン中は月額US$2.49、更新後はUS$10.99で、期間は48か月です。",
+          "二つのレンタルサーバーの更新料は、どう比べればいい？ 最初の期間のあとの月額を見て、同じ種類どうし（共用同士、VPS同士）で比べてください。期間が違うので、最初のサイクルの総額は使えません。",
+          "Hostingerには国内サーバーがありますか？ 2026年10月30日に確認したプランのページには、サーバーの場所が書かれていませんでした。支払う前にサポートに聞いてください。",
+          "SONAR20はVPSでも使えますか？ VPSでは試していません。カートで確認してください。ブラジルのサイトで2026年10月29日にStartupプラン（E-commerce向け）を試しました。割引は最初の期間の20%です。",
+          "サイトを消さずにサーバーを移せますか？ はい。ファイルとデータベースを新しいサーバーに移せば可能です。古いプランの期限が切れる前に移してください。"
+        ]
+      },
+      {
+        "heading": "執筆者",
+        "paragraphs": [
+          "Em Casa com Cecíliaは、Hostingerのマネージドホスティングで運営しています。ドメインは2024年11月17日からHostingerに登録しています。チームには、この記事のために他のレンタルサーバーを使った人はいません。この記事は、選び方の基準と、2026年10月30日に確認したHostingerのページの内容をまとめたものです。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新料は確認していません。カートで料金を確かめてください。",
+      "label": "SONAR20で料金プランを見る",
+      "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "SONAR20のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も、この記事のために別のレンタルサーバーは使っていません。",
+    "relatedArticles": [
+      {
+        "slug": "vps-or-shared-hosting-ja",
+        "title": "VPS か共有ホスティングか：Hostinger であなたのサイトに合うのはどちら"
+      },
+      {
+        "slug": "hostinger-trust-guide-ja",
+        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+      },
+      {
+        "slug": "hostinger-referral-code-ja",
+        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+      }
+    ]
+  },
+  {
+    "id": 735,
+    "slug": "choose-web-host-hostinger-ko",
+    "locale": "ko",
+    "translationKey": "hostinger-ou-hostgator",
+    "title": "호스팅어와 다른 호스팅 중 어느 쪽이 나을까? 웹사이트 가격과 기준",
+    "seoTitle": "호스팅어와 다른 호스팅 비교: 가격과 갱신 기준",
+    "type": "선택 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "편집 및 분석",
+        "initials": "BL"
+      }
+    ],
+    "description": "호스팅어와 다른 호스팅 중 고르는 법. 2026년 10월 30일 기준 호스팅어 국제 사이트의 프로모션 가격과 갱신가를 월 단위로 비교합니다.",
+    "metaDescription": "호스팅어 가격과 갱신가를 2026년 10월 30일 기준으로 정리했습니다. 프로모션 기간, 백업, 서버 위치, VPS를 월 단위로 비교하는 방법을 소개합니다.",
+    "publishedAt": "2026년 10월 30일",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+    "imageAlt": "나란히 놓인 서버 아이콘 두 개와 띠에 적힌 호스팅어 로고, Hosting",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "2026년 10월 30일 호스팅어 국제 사이트에서 Premium 플랜의 프로모션 가격은 월 US$ 2.49이고, 갱신가는 월 US$ 10.99입니다. 다른 호스팅과 비교할 때는 첫 기간 가격이 아니라 갱신가를 월 단위로 나란히 놓으세요. 사이트가 하나라면 Premium으로 충분한 경우가 많고, 사이트가 여러 개이거나 공간이 더 필요하면 Unlimited를 봅니다."
+        ]
+      },
+      {
+        "heading": "네 가지 기준이 결정합니다",
+        "paragraphs": [
+          "프로모션 기간이 긴 호스팅은 처음 몇 달이 싸 보이기 쉽습니다. 실제로 돈이 빠져나가는 것은 프로모션이 끝난 뒤의 매달입니다. 가격을 보기 전에 아래 네 가지를 확인하세요."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-ko.webp",
+          "alt": "프로모션 전에 볼 네 가지 기준을 정리한 표: 갱신가, 약정 기간, 서버 위치, VPS. 각 기준마다 무엇을 확인할지 적혀 있습니다",
+          "caption": "네 가지 기준: 갱신가, 약정 기간, 서버 위치, VPS. Em Casa com Cecília가 만든 표입니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4516
+        },
+        "bullets": [
+          "**갱신가.** 호스팅어는 플랜 카드에 갱신가를 보여줍니다. 카드에 할인율만 있는 곳이라면 정가표를 찾아 같은 기간의 가격을 비교하세요.",
+          "**약정 기간.** 호스팅어의 프로모션 가격은 48개월 플랜 기준입니다. 기간이 다른 프로모션의 총액과 직접 비교하면 틀립니다. 월 단위로 나누세요.",
+          "**서버 위치.** 플랜 페이지에 서버가 어느 나라에 있는지 적혀 있는지 확인하세요. 없다면 결제 전에 고객 지원에 물어보세요.",
+          "**VPS.** 처리 능력과 메모리를 보장받아야 한다면 비교 기준이 달라집니다. 아래 VPS 절을 보세요."
+        ]
+      },
+      {
+        "heading": "2026년 10월 30일 호스팅어 가격",
+        "paragraphs": [
+          "웹 호스팅 플랜, 국제 사이트, 48개월 기준입니다. 가격은 미국 달러로 표시된 호스팅어 국제 사이트에서 읽은 것이며, 국가와 통화에 따라 다를 수 있습니다. 호스팅어는 블랙프라이데이 캠페인을 진행 중이라 가격이 바뀔 수 있습니다."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "플랜",
+            "프로모션",
+            "48개월 총액",
+            "갱신가",
+            "사이트",
+            "저장 공간"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2.49/월",
+              "US$ 119.52",
+              "US$ 10.99/월",
+              "3",
+              "20 GB SSD"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3.49/월",
+              "US$ 167.52",
+              "US$ 16.99/월",
+              "무제한",
+              "50 GB NVMe"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7.99/월",
+              "US$ 383.52",
+              "US$ 25.99/월",
+              "무제한",
+              "100 GB NVMe"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "위 가격은 SONAR20을 적용하지 않은 것입니다. 갱신가는 프로모션 가격의 약 3배에서 5배입니다. Premium은 주간 백업, Unlimited와 Cloud Startup은 일일 백업이 있습니다."
+        ]
+      },
+      {
+        "heading": "다른 호스팅의 가격을 읽는 법",
+        "paragraphs": [
+          "다른 호스팅의 가격을 볼 때도 같은 순서로 확인하세요. 아래 네 가지를 지키면 어느 회사를 보든 같은 기준으로 비교할 수 있습니다."
+        ],
+        "bullets": [
+          "**프로모션이 아닌 정가.** '이전 가격'이나 '% 할인' 표시는 갱신가가 아닙니다. 보통 이전 가격이 정가보다 높습니다. 정가표나 갱신 조건을 찾으세요.",
+          "**같은 기간끼리.** 36개월 총액과 48개월 총액은 비교할 수 없습니다. 둘 다 월 단위로 바꾸세요.",
+          "**같은 조건끼리.** 저장 공간, 백업, 사이트 수가 같은 플랜끼리 나란히 놓으세요.",
+          "**기간이 정해진 혜택.** 무료 도메인, 무료 이메일, 무료 이전이 얼마 동안 유효한지 보세요. 이런 혜택은 플랜이 끝나기 전에 끝날 수 있습니다."
+        ]
+      },
+      {
+        "heading": "사이트 수와 프로젝트 크기로 보기",
+        "bullets": [
+          "**사이트 하나.** 호스팅어 국제 사이트에서 가장 낮은 가격의 플랜은 Premium입니다. 사이트 3개까지, 20 GB SSD입니다. 갱신가는 월 US$ 10.99입니다. 블로그, 포트폴리오, 회사 소개 페이지라면 이 플랜부터 보세요.",
+          "**여러 사이트.** Unlimited는 사이트 수가 무제한이고 50 GB NVMe입니다. 갱신가는 월 US$ 16.99입니다. 사이트가 여러 개라면 사이트당 비용을 계산해 보세요.",
+          "**가장 높은 플랜.** Cloud Startup은 사이트 무제한, 100 GB NVMe, 일일 백업과 요청할 때 하는 백업이 있습니다. 갱신가는 월 US$ 25.99입니다. 더 많은 자원이 실제로 필요할 때만 의미가 있습니다."
+        ],
+        "emphasis": "프로모션이 48개월이면 첫 주기의 총액이 실제 비용을 가립니다. 월 가격과 갱신가를 함께 보세요."
+      },
+      {
+        "heading": "가격에 안 보이는 것",
+        "bullets": [
+          "**공간.** Premium은 SSD 20 GB, Unlimited는 NVMe 50 GB, Cloud Startup은 NVMe 100 GB입니다. 사진과 영상이 많은 사이트라면 공간을 먼저 계산하세요.",
+          "**백업.** Premium은 주간 백업, Unlimited와 Cloud Startup은 일일 백업입니다. 백업 주기가 중요하다면 Premium에서 멈추지 마세요.",
+          "**서버 위치.** 플랜 페이지에서 서버 위치를 찾지 못했다면 결제 전에 고객 지원에 물어보세요. 방문자가 있는 나라와 가까운지가 중요하다면 이 질문이 특히 중요합니다.",
+          "**방문자 상한.** 플랜마다 월 방문자 상한이 있는지 플랜 설명에서 확인하세요. 상한에 가까운 사이트라면 한 단계 위의 플랜을 보세요.",
+          "**혜택의 기간.** 무료 도메인이나 이메일을 얼마 동안 주는지 주문 화면에서 확인하세요. 기간이 정해진 혜택은 플랜이 끝나기 전에 끝날 수 있습니다.",
+          "**환불.** 환불 조건은 결제 전에 읽으세요. 호스팅어의 회사, 환불, 갱신에 관한 정보는 [호스팅어는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에서 정리했습니다."
+        ]
+      },
+      {
+        "heading": "VPS라면?",
+        "paragraphs": [
+          "VPS가 필요한지, 공유 호스팅으로 충분한지 아직 모르겠다면 먼저 [VPS와 공유 호스팅: 어느 쪽을 고를까](/ko/reviews/vps-or-shared-hosting-ko)를 읽으세요. 이미 VPS로 정했다면 호스팅어의 입문 플랜을 나란히 보세요."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "플랜",
+            "프로모션 (24개월)",
+            "24개월 총액",
+            "갱신가"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+              "US$ 6.49/월",
+              "US$ 155.76",
+              "US$ 11.99/월"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+              "US$ 8.79/월",
+              "US$ 210.96",
+              "US$ 14.99/월"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SONAR20은 VPS에서 테스트하지 않았습니다. 카트에서 확인하세요. vCPU, 메모리, 디스크는 플랜 페이지에서 확인하세요. 이 표에는 2026년 10월 30일에 읽은 가격만 넣었습니다. 긴 기간으로 결제하기 전에, 같은 vCPU와 메모리를 가진 다른 호스팅의 가격과 비교하세요."
+        ]
+      },
+      {
+        "heading": "SONAR20 쿠폰",
+        "paragraphs": [
+          "카트의 쿠폰 칸에 **SONAR20**을 입력하거나 이 글의 링크로 들어가세요. 첫 기간에 20%가 할인됩니다. 브라질 사이트의 카트에서 스토어 빌더의 Startup 이커머스 플랜(2026년 10월 29일), 전문 이메일과 Reach(2026년 10월 30일)로 테스트했습니다. 호스팅 플랜, VPS, 국제 사이트에서는 테스트하지 않았으니 카트에서 확인하세요. 갱신 가격도 테스트하지 않았습니다. 규칙 전체는 [호스팅어 쿠폰](/ko/coupons/hostinger)에 있습니다."
+        ]
+      },
+      {
+        "heading": "어떤 플랜을 고를까: 결론",
+        "paragraphs": [
+          "**사이트 하나**, 예를 들어 블로그, 포트폴리오, 회사 소개 페이지라면 Premium부터 보세요. 우리가 읽은 국제 사이트의 플랜 가운데 프로모션 가격과 갱신가가 모두 가장 낮습니다.",
+          "**사이트가 여러 개**이거나 공간과 일일 백업이 중요하다면 Unlimited를 보세요. 갱신가가 월 US$ 16.99이니, 같은 조건의 다른 호스팅 정가와 나란히 두고 고르세요.",
+          "**어느 경우든** 결제 전에 갱신가를 확인하고, 카트에서 금액을 다시 보세요. 프로모션 기간이 끝나면 금액이 크게 달라집니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "호스팅어와 다른 호스팅 중 어느 쪽이 나은가요? 플랜에 따라 다릅니다. 2026년 10월 30일 기준, 사이트 하나라면 Premium의 갱신가(월 US$ 10.99)를, 여러 사이트라면 Unlimited의 갱신가(월 US$ 16.99)를 같은 조건의 정가와 나란히 비교하세요.",
+          "호스팅어 갱신가는 얼마인가요? 국제 사이트 기준으로 Premium은 월 US$ 10.99, Unlimited는 월 US$ 16.99, Cloud Startup은 월 US$ 25.99입니다. 국가와 통화에 따라 다를 수 있으니 결제 전에 카트에서 확인하세요.",
+          "호스팅어 VPS는 얼마인가요? 24개월 기준으로 KVM 1의 프로모션 가격은 월 US$ 6.49부터이고, 갱신가는 US$ 11.99입니다. 사양은 플랜 페이지에서 확인하세요.",
+          "호스팅어 서버는 어느 나라에 있나요? 플랜 페이지에 서버 위치가 적혀 있지 않을 수 있습니다. 결제 전에 고객 지원에 문의하세요.",
+          "SONAR20은 VPS에도 적용되나요? 이 글에서는 테스트하지 않았습니다. 카트에서 확인하세요. 할인은 첫 기간에 20%입니다.",
+          "사이트를 잃지 않고 다른 호스팅으로 옮길 수 있나요? 파일과 데이터베이스를 옮기면 됩니다. 새 호스팅이 무료 이전을 제공하는지 확인하고, 기존 플랜이 끝나기 전에 옮기세요."
+        ]
+      },
+      {
+        "heading": "작성자 소개",
+        "paragraphs": [
+          "Em Casa com Cecília는 호스팅어의 관리형 호스팅에서 돌아가고, 도메인은 2024년 11월 17일부터 호스팅어에 등록되어 있습니다. 팀 중에 다른 호스팅을 직접 써 본 사람은 없습니다. 이 글은 호스팅어 페이지에 적힌 내용을 2026년 10월 30일에 읽고 정리한 것입니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "카트의 쿠폰 칸에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 할인됩니다. 갱신 가격은 테스트하지 않았으니 카트에서 확인하세요.",
+      "label": "할인 플랜 보기",
+      "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 이 글에서 비교한 다른 호스팅을 쓰지 않았습니다.",
+    "relatedArticles": [
+      {
+        "slug": "vps-or-shared-hosting-ko",
+        "title": "VPS와 공유 호스팅: 호스팅어에서 내 사이트에 맞는 쪽은 어디일까"
+      },
+      {
+        "slug": "hostinger-trust-guide-ko",
+        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+      },
+      {
+        "slug": "hostinger-referral-code-ko",
+        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 736,
+    "slug": "choose-web-host-hostinger-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "hostinger-ou-hostgator",
+    "title": "Hostinger 与其他主机，哪个更适合你的网站？价格与选择标准",
+    "seoTitle": "Hostinger 与其他主机对比：价格与续费标准",
+    "type": "选择指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "编辑与分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 与其他主机怎么选。依据 2026年10月30日 的 Hostinger 国际站促销价和续费价，按月比较。",
+    "metaDescription": "2026年10月30日的 Hostinger 促销价与续费价整理，并说明如何按月比较促销周期、备份、服务器所在地和 VPS。",
+    "publishedAt": "2026年10月30日",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+    "imageAlt": "并排的两个服务器图标，横条上是 Hostinger 标志和 Hosting",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "2026年10月30日，Hostinger 国际站 Premium 套餐的促销价为每月 US$ 2.49，续费价为每月 US$ 10.99。选主机时不要只看首期价格，把续费价按月并排比较。只有一个网站，Premium 通常够用；网站多、需要更多空间，就看 Unlimited。"
+        ]
+      },
+      {
+        "heading": "四条标准决定选择",
+        "paragraphs": [
+          "促销期长的主机，前几个月总是看起来便宜。真正付出的，是促销结束后的每一个月。看价格之前，先用这四条标准："
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-zh-hans.webp",
+          "alt": "选择主机的四条标准：续费价、周期、服务器所在地和 VPS，每条标准下面写着要确认的问题",
+          "caption": "四条标准：续费价、周期、服务器所在地和 VPS。Em Casa com Cecília 制作的表。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4516
+        },
+        "bullets": [
+          "**续费价。** Hostinger 在套餐卡片上显示续费价。如果某张卡片只显示折扣，就去找它的标准价目表，按同样的周期比较。",
+          "**周期。** Hostinger 的促销价按 48 个月套餐计算。不同周期的总价不能直接比较，要除以月数。",
+          "**服务器所在地。** 查看套餐页面是否写明服务器位置。没有写的话，付款前问客服。",
+          "**VPS。** 需要保证处理器和内存的，比较方式不同，见下面的 VPS 部分。"
+        ]
+      },
+      {
+        "heading": "2026年10月30日的 Hostinger 价格",
+        "paragraphs": [
+          "以下是网站托管套餐在 Hostinger 国际站的价格，按 48 个月计算。价格以美元读取，各国和货币可能不同。Hostinger 正在做黑色星期五促销，价格可能变化。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "套餐",
+            "促销价",
+            "48 个月总价",
+            "续费价",
+            "网站数",
+            "存储"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2.49/月",
+              "US$ 119.52",
+              "US$ 10.99/月",
+              "3",
+              "20 GB SSD"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3.49/月",
+              "US$ 167.52",
+              "US$ 16.99/月",
+              "无限",
+              "50 GB NVMe"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7.99/月",
+              "US$ 383.52",
+              "US$ 25.99/月",
+              "无限",
+              "100 GB NVMe"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "以上价格未包含 SONAR20。续费价约为促销价的 3 到 5 倍。Premium 每周备份，Unlimited 和 Cloud Startup 每天备份。"
+        ]
+      },
+      {
+        "heading": "怎么读其他主机的价格",
+        "paragraphs": [
+          "比较其他主机时，用同样的顺序看价格。"
+        ],
+        "bullets": [
+          "**看标准价，不看折扣。** “原价”或“% OFF”不是续费价。原价通常高于标准价。去找标准价目表或续费条件。",
+          "**同样的周期。** 36 个月和 48 个月的总价不能直接比。换算成每月再比。",
+          "**同样的配置。** 存储、备份、网站数相同的套餐放在一起比。",
+          "**有期限的赠送。** 免费域名、免费邮箱、免费迁移可能只在一段时间内有效，周期结束前就可能失效。"
+        ]
+      },
+      {
+        "heading": "按月比较：一个网站还是多个网站",
+        "bullets": [
+          "**一个网站。** Hostinger 国际站上最低价的套餐是 Premium：3 个网站，20 GB SSD。续费价每月 US$ 10.99。博客、作品集、公司介绍页，先看这一款。",
+          "**多个网站。** Unlimited 网站数量无限，50 GB NVMe，续费价每月 US$ 16.99。网站多，就把每个网站的成本算出来。",
+          "**最高套餐。** Cloud Startup 网站数量无限，100 GB NVMe，每天备份，并可按需备份。续费价每月 US$ 25.99。只有真正需要它额外提供的资源时才值得。"
+        ],
+        "emphasis": "促销期是 48 个月时，第一个周期的总价会掩盖真实成本。请同时看每月价和续费价。"
+      },
+      {
+        "heading": "价格之外要看的",
+        "bullets": [
+          "**存储。** Premium 为 20 GB SSD，Unlimited 为 50 GB NVMe，Cloud Startup 为 100 GB NVMe。照片和视频多的网站，先算好空间。",
+          "**备份。** Premium 每周备份，Unlimited 和 Cloud Startup 每天备份。如果备份频率对你重要，就别停在 Premium。",
+          "**服务器位置。** 套餐页面找不到服务器位置，付款前问客服。如果访客所在地离服务器近不近对你很重要，这一点尤其要问。",
+          "**访问量上限。** 不少主机按套餐设置月访问量上限。请在套餐说明里查一下 Hostinger 是否有上限。",
+          "**有期限的优惠。** 免费域名、免费邮箱这类优惠，期限可能比套餐短。下单页面上确认能享受多久。",
+          "**退款。** 付款前看清退款条件。Hostinger 的公司、退款和续费情况，见 [Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "如果是 VPS",
+        "paragraphs": [
+          "还不确定要 VPS 还是共享主机，先读 [VPS 还是共享主机：哪种更合适](/zh-hans/reviews/vps-or-shared-hosting-zh-hans)。已经决定用 VPS，就把入门套餐并排看："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "套餐",
+            "促销价（24 个月）",
+            "24 个月总价",
+            "续费价"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+              "US$ 6.49/月",
+              "US$ 155.76",
+              "US$ 11.99/月"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+              "US$ 8.79/月",
+              "US$ 210.96",
+              "US$ 14.99/月"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "我们没有在 VPS 上测试 SONAR20，请在购物车确认。vCPU、内存和磁盘请看各套餐页面，这张表只列 2026年10月30日读取的价格。购买长周期之前，用同样的 vCPU 和内存去对比其他主机。"
+        ]
+      },
+      {
+        "heading": "SONAR20 优惠码",
+        "paragraphs": [
+          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，首个周期享 20% 折扣。我们在巴西站的购物车里测试过：商店建站工具的 Startup 电商套餐（2026年10月29日），以及专业邮箱和 Reach（2026年10月30日）。主机套餐、VPS 和国际站我们没有测试，请在购物车确认。续费价也没有测试。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。"
+        ]
+      },
+      {
+        "heading": "结论：怎么选",
+        "paragraphs": [
+          "**一个网站**，比如博客、作品集或公司介绍页，从 Premium 开始。在我们读取的国际站套餐里，它的促销价和续费价都最低。",
+          "**多个网站**，或者需要更多存储和每日备份，看 Unlimited。续费价每月 US$ 16.99，请和其他主机同样条件的标准价放在一起比。",
+          "**无论哪种**，付款前都看一下续费价那一栏，并在购物车确认价格。促销期结束后，金额会明显变化。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Hostinger 与其他主机哪个更好？取决于套餐。2026年10月30日，国际站 Premium 的续费价为每月 US$ 10.99，Unlimited 为每月 US$ 16.99。把它们和其他主机同样条件的标准价按月对比。",
+          "Hostinger 续费多少？国际站上，Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各国货币可能不同，请在购物车确认。",
+          "Hostinger 的 VPS 多少钱？24 个月的 KVM 1 促销价从每月 US$ 6.49 起，续费价 US$ 11.99。规格请看套餐页面。",
+          "Hostinger 的服务器在哪个国家？套餐页面可能不写服务器位置。付款前请问客服。",
+          "SONAR20 能用在 VPS 上吗？我们没有测试，请在购物车确认。优惠是首个周期 20%。",
+          "能换主机而不丢失网站吗？可以，迁移文件和数据库即可。确认新主机是否提供免费迁移，并在旧套餐到期前完成。"
+        ]
+      },
+      {
+        "heading": "写这篇文章的人",
+        "paragraphs": [
+          "Em Casa com Cecília 运行在 Hostinger 的托管服务上，域名自 2024年11月17日起就在 Hostinger 注册。团队里没有人亲自用过其他主机。本文整理的是 Hostinger 页面在 2026年10月30日的内容。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本文链接进入：首个周期享 20% 折扣。续费价我们没有测试，请在购物车确认。",
+      "label": "通过 SONAR20 查看套餐",
+      "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你无需额外付费。团队中没有人使用过本文比较的其他主机。",
+    "relatedArticles": [
+      {
+        "slug": "vps-or-shared-hosting-zh-hans",
+        "title": "VPS 还是共享主机：在 Hostinger 上哪种更适合你的网站"
+      },
+      {
+        "slug": "hostinger-trust-guide-zh-hans",
+        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+      },
+      {
+        "slug": "hostinger-referral-code-zh-hans",
+        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 737,
+    "slug": "choose-web-host-hostinger-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "hostinger-ou-hostgator",
+    "title": "Hostinger 與其他主機，哪個更適合你的網站？價格與選擇標準",
+    "seoTitle": "Hostinger 與其他主機比較：價格與續訂標準",
+    "type": "選擇指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編輯與分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 與其他主機怎麼選。依據 2026年10月30日 的 Hostinger 國際站促銷價與續訂價，按月比較。",
+    "metaDescription": "2026年10月30日的 Hostinger 促銷價與續訂價整理，並說明如何按月比較促銷週期、備份、伺服器所在地和 VPS。",
+    "publishedAt": "2026年10月30日",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+    "imageAlt": "並排的兩個伺服器圖示，橫條上是 Hostinger 標誌與 Hosting",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "2026年10月30日，Hostinger 國際站 Premium 方案的促銷價為每月 US$ 2.49，續訂價為每月 US$ 10.99。選主機時不要只看首期價格，把續訂價按月並排比較。只有一個網站，Premium 通常夠用；網站多、需要更多空間，就看 Unlimited。"
+        ]
+      },
+      {
+        "heading": "四項標準決定選擇",
+        "paragraphs": [
+          "促銷期長的主機，前幾個月總是看起來便宜。真正付出的，是促銷結束後的每一個月。看價格之前，先用這四項標準："
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-zh-hant.webp",
+          "alt": "選擇主機的四項標準：續訂價、週期、伺服器所在地和 VPS，每項標準下面寫著要確認的問題",
+          "caption": "四項標準：續訂價、週期、伺服器所在地和 VPS。Em Casa com Cecília 製作的表。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4516
+        },
+        "bullets": [
+          "**續訂價。** Hostinger 在方案卡片上顯示續訂價。如果某張卡片只顯示折扣，就去找它的標準價目表，按同樣的週期比較。",
+          "**週期。** Hostinger 的促銷價按 48 個月方案計算。不同週期的總價不能直接比較，要除以月數。",
+          "**伺服器所在地。** 查看方案頁面是否寫明伺服器位置。沒有寫的話，付款前問客服。",
+          "**VPS。** 需要保證處理器和記憶體的，比較方式不同，見下面的 VPS 部分。"
+        ]
+      },
+      {
+        "heading": "2026年10月30日的 Hostinger 價格",
+        "paragraphs": [
+          "以下是網站託管方案在 Hostinger 國際站的價格，按 48 個月計算。價格以美元讀取，各國和貨幣可能不同。Hostinger 正在做黑色星期五促銷，價格可能變動。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "方案",
+            "促銷價",
+            "48 個月總價",
+            "續訂價",
+            "網站數",
+            "儲存空間"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2.49/月",
+              "US$ 119.52",
+              "US$ 10.99/月",
+              "3",
+              "20 GB SSD"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3.49/月",
+              "US$ 167.52",
+              "US$ 16.99/月",
+              "無限",
+              "50 GB NVMe"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7.99/月",
+              "US$ 383.52",
+              "US$ 25.99/月",
+              "無限",
+              "100 GB NVMe"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "以上價格未包含 SONAR20。續訂價約為促銷價的 3 到 5 倍。Premium 每週備份，Unlimited 和 Cloud Startup 每天備份。"
+        ]
+      },
+      {
+        "heading": "怎麼讀其他主機的價格",
+        "paragraphs": [
+          "比較其他主機時，用同樣的順序看價格。"
+        ],
+        "bullets": [
+          "**看標準價，不看折扣。** 「原價」或「% OFF」不是續訂價。原價通常高於標準價。去找標準價目表或續訂條件。",
+          "**同樣的週期。** 36 個月和 48 個月的總價不能直接比。換算成每月再比。",
+          "**同樣的配置。** 儲存空間、備份、網站數相同的方案放在一起比。",
+          "**有期限的贈送。** 免費網域、免費電郵、免費遷移可能只在一段時間內有效，週期結束前就可能失效。"
+        ]
+      },
+      {
+        "heading": "按月比較：一個網站還是多個網站",
+        "bullets": [
+          "**一個網站。** Hostinger 國際站上最低價的方案是 Premium：3 個網站，20 GB SSD。續訂價每月 US$ 10.99。部落格、作品集、公司介紹頁，先看這一款。",
+          "**多個網站。** Unlimited 網站數量無限，50 GB NVMe，續訂價每月 US$ 16.99。網站多，就把每個網站的成本算出來。",
+          "**最高方案。** Cloud Startup 網站數量無限，100 GB NVMe，每天備份，並可按需備份。續訂價每月 US$ 25.99。只有真正需要它額外提供的資源時才值得。"
+        ],
+        "emphasis": "促銷期是 48 個月時，第一個週期的總價會掩蓋真實成本。請同時看每月價和續訂價。"
+      },
+      {
+        "heading": "價格之外要看的",
+        "bullets": [
+          "**儲存空間。** Premium 為 20 GB SSD，Unlimited 為 50 GB NVMe，Cloud Startup 為 100 GB NVMe。照片和影片多的網站，先算好空間。",
+          "**備份。** Premium 每週備份，Unlimited 和 Cloud Startup 每天備份。如果備份頻率對你重要，就別停在 Premium。",
+          "**伺服器位置。** 方案頁面找不到伺服器位置，付款前問客服。如果訪客所在地離伺服器近不近對你很重要，這一點尤其要問。",
+          "**造訪量上限。** 不少主機按方案設定月造訪量上限。請在方案說明裡查一下 Hostinger 是否有上限。",
+          "**有期限的優惠。** 免費網域、免費電郵這類優惠，期限可能比方案短。下單頁面上確認能享受多久。",
+          "**退款。** 付款前看清退款條件。Hostinger 的公司、退款和續訂情況，見 [Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "如果是 VPS",
+        "paragraphs": [
+          "還不確定要 VPS 還是共享主機，先讀 [VPS 還是共享主機：哪種更合適](/zh-hant/reviews/vps-or-shared-hosting-zh-hant)。已經決定用 VPS，就把入門方案並排看："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "方案",
+            "促銷價（24 個月）",
+            "24 個月總價",
+            "續訂價"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+              "US$ 6.49/月",
+              "US$ 155.76",
+              "US$ 11.99/月"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+              "US$ 8.79/月",
+              "US$ 210.96",
+              "US$ 14.99/月"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "我們沒有在 VPS 上測試 SONAR20，請在購物車確認。vCPU、記憶體和磁碟請看各方案頁面，這張表只列 2026年10月30日讀取的價格。購買長週期之前，用同樣的 vCPU 和記憶體去對比其他主機。"
+        ]
+      },
+      {
+        "heading": "SONAR20 優惠碼與價格",
+        "paragraphs": [
+          "在購物車的優惠碼欄位輸入 **SONAR20**，或從本文連結進入，首期享 20% 折扣。我們在巴西站的購物車裡測試過：商店建站工具的 Startup 電商方案（2026年10月29日），以及專業電郵和 Reach（2026年10月30日）。主機方案、VPS 和國際站我們沒有測試，請在購物車確認。續訂價也沒有測試。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。"
+        ]
+      },
+      {
+        "heading": "結論：怎麼選",
+        "paragraphs": [
+          "**一個網站**，比如部落格、作品集或公司介紹頁，從 Premium 開始。在我們讀取的國際站方案裡，它的促銷價和續訂價都最低。",
+          "**多個網站**，或者需要更多儲存空間和每日備份，看 Unlimited。續訂價每月 US$ 16.99，請和其他主機同樣條件的標準價放在一起比。",
+          "**無論哪種**，付款前都看一下續訂價那一欄，並在購物車確認價格。促銷期結束後，金額會明顯變化。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Hostinger 與其他主機哪個更好？取決於方案。2026年10月30日，國際站 Premium 的續訂價為每月 US$ 10.99，Unlimited 為每月 US$ 16.99。把它們和其他主機同樣條件的標準價按月對比。",
+          "Hostinger 續訂要多少錢？國際站上，Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各國貨幣可能不同，請在購物車確認。",
+          "Hostinger 的 VPS 多少錢？24 個月的 KVM 1 促銷價從每月 US$ 6.49 起，續訂價 US$ 11.99。規格請看方案頁面。",
+          "Hostinger 的伺服器在哪個國家？方案頁面可能不寫伺服器位置。付款前請問客服。",
+          "SONAR20 能用在 VPS 上嗎？我們沒有測試，請在購物車確認。優惠是首期 20%。",
+          "能換主機而不遺失網站嗎？可以，遷移檔案和資料庫即可。確認新主機是否提供免費遷移，並在舊方案到期前完成。"
+        ]
+      },
+      {
+        "heading": "寫這篇文章的人",
+        "paragraphs": [
+          "Em Casa com Cecília 運行在 Hostinger 的託管服務上，網域自 2024年11月17日起就在 Hostinger 註冊。團隊裡沒有人親自用過其他主機。本文整理的是 Hostinger 頁面在 2026年10月30日的內容。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。續訂價我們沒有測試，請在購物車確認。",
+      "label": "用 SONAR20 查看方案",
+      "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。團隊中沒有人使用過本文比較的其他主機。",
+    "relatedArticles": [
+      {
+        "slug": "vps-or-shared-hosting-zh-hant",
+        "title": "VPS 還是共享主機：在 Hostinger 上哪種更適合你的網站"
+      },
+      {
+        "slug": "hostinger-trust-guide-zh-hant",
+        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+      },
+      {
+        "slug": "hostinger-referral-code-zh-hant",
+        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 719,
+    "slug": "wordpress-na-hostinger",
+    "locale": "pt",
+    "translationKey": "hostinger-wordpress",
+    "title": "WordPress na Hostinger: qual plano pegar e como começar",
+    "seoTitle": "WordPress na Hostinger: qual plano e como começar",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Qual plano de WordPress da Hostinger pegar para um site, três sites, vários sites ou loja, e como começar. Preços de 30/10/2026, com a renovação.",
+    "metaDescription": "WordPress na Hostinger: Single, Premium, Unlimited ou Cloud Startup? Plano por projeto, preço e renovação em 30/10/2026 e o checklist para começar.",
+    "publishedAt": "30 de outubro de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+    "imageAlt": "Logo da Hostinger com os ícones de site e de servidor, e a palavra WordPress na faixa",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para quem já decidiu usar WordPress na Hostinger, o plano Single atende um site, o Premium até três, e o Unlimited ou o Cloud Startup servem para vários sites ou loja, com backups diários. O WordPress vem em todos; o que muda a escolha é o número de sites, o backup e a renovação, na tabela abaixo."
+        ]
+      },
+      {
+        "heading": "Qual plano para qual projeto",
+        "paragraphs": [
+          "A Hostinger não vende um plano só de WordPress: ele vem nos planos de hospedagem de sites. A página brasileira diz, em 30/10/2026, que todos os planos incluem WordPress e Node.js. Então a pergunta não é \"qual plano tem WordPress\", e sim \"quantos sites eu vou ter e quanto backup eu preciso\"."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-pt.webp",
+          "alt": "Quadro do plano de WordPress da Hostinger por projeto: um site só fica no Single; até 3 sites, no Premium; vários sites ou loja com WooCommerce, no Unlimited; loja ou site com muito tráfego, no Cloud Startup",
+          "caption": "O resumo da escolha: o número de sites, o espaço e o backup decidem o plano. Quadro do Em Casa com Cecília, pelo que a página da Hostinger diz em 30/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4286
+        },
+        "bullets": [
+          "**Um site só (blog, portfólio, página de serviços): Single.** É 1 site, com 10 GB SSD e backups semanais. Se você tem certeza de que é um site só, não precisa de mais.",
+          "**Até 3 sites: Premium.** O seu blog e mais dois projetos, ou um site de teste ao lado do principal. São 20 GB SSD e backups semanais.",
+          "**Vários sites ou uma loja com WooCommerce: Unlimited.** Sites ilimitados, 50 GB NVMe e backups diários. Numa loja, pedido e estoque mudam todo dia, e backup semanal deixa uma semana inteira de fora.",
+          "**Loja ou site com muito tráfego: Cloud Startup.** Sites ilimitados, 100 GB NVMe e backups diários e sob demanda. É o plano mais caro da página, e a renovação também é a maior."
+        ],
+        "postParagraphs": [
+          "Na dúvida entre dois planos, olhe o backup. Quem não vai mexer no site toda semana vive bem com o semanal; quem vende ou publica todo dia quer o diário."
+        ]
+      },
+      {
+        "heading": "Preço e renovação em 30/10/2026",
+        "paragraphs": [
+          "Os preços abaixo são da página brasileira de hospedagem WordPress, lidos em 30/10/2026, no prazo de 48 meses e na campanha de Black Friday. O preço por mês é o total dividido por 48. A renovação é o preço por mês depois do primeiro período:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plano",
+            "Por mês (48 meses)",
+            "Total",
+            "Renovação",
+            "Sites e espaço",
+            "Backup"
+          ],
+          "rows": [
+            [
+              "[Single](https://www.hostinger.com/br/hospedagem-wordpress?REFERRALCODE=SONAR20)",
+              "R$ 5,99",
+              "R$ 287,52",
+              "R$ 23,99/mês",
+              "1 site, 10 GB SSD",
+              "Semanal"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/br/hospedagem-wordpress?REFERRALCODE=SONAR20)",
+              "R$ 9,99",
+              "R$ 479,52",
+              "R$ 38,99/mês",
+              "3 sites, 20 GB SSD",
+              "Semanal"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/br/hospedagem-wordpress?REFERRALCODE=SONAR20)",
+              "R$ 12,99",
+              "R$ 623,52",
+              "R$ 64,99/mês",
+              "Sites ilimitados, 50 GB NVMe",
+              "Diário"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/br/hospedagem-wordpress?REFERRALCODE=SONAR20)",
+              "R$ 39,99",
+              "R$ 1.919,52",
+              "R$ 129,99/mês",
+              "Sites ilimitados, 100 GB NVMe",
+              "Diário e sob demanda"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A página não traz data de fim para a campanha, e os preços podem mudar. Na Black Friday, os créditos de IA dos planos vêm em dobro: no Single, 500 em vez de 250; no Cloud Startup, 2.000 em vez de 1.000."
+        ],
+        "emphasis": "A renovação custa de 3 a 5 vezes o preço promocional. Escolha o plano pela coluna da renovação, não só pela do preço de entrada."
+      },
+      {
+        "heading": "O que já vem nos planos",
+        "paragraphs": [
+          "Pela página de 30/10/2026, sem teste nosso:"
+        ],
+        "bullets": [
+          "**WordPress e Node.js em todos os planos.**",
+          "**Instalador de 1 clique e plugins internos**, citados no FAQ da página, sem dizer o que muda de um plano para outro.",
+          "**Servidores LiteSpeed e cache inteligente**, citados para a hospedagem WordPress em geral. A página não diz em quais planos.",
+          "**E-mail:** 1 conta grátis no Single; 2 contas por site, grátis por 1 ano, no Premium; contas ilimitadas por site, por 1 ano, no Unlimited e no Cloud Startup.",
+          "**Domínio grátis** em todos os planos; do Premium para cima, por 1 ano. Confira no carrinho o prazo do seu plano.",
+          "**Assistente de IA para loja** listado no Premium, segundo a página."
+        ]
+      },
+      {
+        "heading": "Como começar: o checklist",
+        "bullets": [
+          "**1. Conte os sites.** Um, até três ou mais. Isso já escolhe o plano na maioria dos casos.",
+          "**2. Resolva o domínio.** Use o domínio grátis do plano ou aponte um que você já tem. Anote quando ele renova.",
+          "**3. Instale o WordPress pelo painel.** A página cita o instalador de 1 clique; não é preciso baixar nada.",
+          "**4. Escolha o tema antes do conteúdo.** Trocar de tema com o site cheio dá retrabalho. Prefira um tema simples e mantido com frequência.",
+          "**5. Instale poucos plugins.** Comece pelo que o site precisa hoje: formulário de contato, SEO e, numa loja, o WooCommerce. Cada plugin a mais é mais uma coisa para atualizar.",
+          "**6. Faça um backup antes de mexer.** Antes de trocar tema, atualizar plugin ou mudar a loja, confira no painel quando foi o último backup. Nos planos de backup semanal, isso pesa mais."
+        ],
+        "postParagraphs": [
+          "Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Se você já anuncia no Google",
+        "paragraphs": [
+          "Segundo os termos da promoção, lidos em 30/10/2026, quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito de anúncios, no Brasil. Quem define a elegibilidade é a Google, a promoção pode mudar, e a página não traz data de validade. Vale para quem já ia gastar esse valor; não é motivo para começar a anunciar."
+        ]
+      },
+      {
+        "heading": "Se você não quer WordPress",
+        "paragraphs": [
+          "Se você não quer instalar tema, plugin nem atualizar nada, os mesmos planos trazem o construtor de sites com IA da Hostinger. A comparação por tipo de projeto está em [Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress?](/reviews/hostinger-horizons-vale-a-pena). Se o que você precisa já tem nome de plugin, fique no WordPress."
+        ]
+      },
+      {
+        "heading": "Cupom SONAR20 e preço",
+        "paragraphs": [
+          "O código **SONAR20** dá **20% no primeiro período**, no campo de cupom do carrinho ou pelo link deste artigo. Não testamos o SONAR20 nos planos de WordPress; confira o preço no carrinho antes de pagar. Depois do primeiro período, vale a coluna da renovação. A regra do código e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Qual plano pegar: o veredito",
+        "paragraphs": [
+          "**Pegue o Single** se é um site só e você publica de vez em quando. É o mais barato na entrada e na renovação.",
+          "**Pegue o Premium** se vai ter dois ou três sites. A diferença para o Single é o número de sites e o espaço, não o backup.",
+          "**Pegue o Unlimited** se tem loja ou muitos sites. O backup diário é o motivo principal, e ele começa aqui.",
+          "**O Cloud Startup** só faz sentido se o Unlimited já não basta. É o mais caro, e a renovação de R$ 129,99/mês pesa."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual o plano de WordPress mais barato da Hostinger? Em 30/10/2026, o Single, a R$ 5,99/mês em 48 meses (R$ 287,52 no total), para 1 site. Ele renova a R$ 23,99/mês.",
+          "O WordPress vem instalado na Hostinger? A página diz que todos os planos incluem WordPress e cita um instalador de 1 clique no painel. Ela não detalha a instalação por plano.",
+          "A Hostinger usa LiteSpeed no WordPress? A página fala em servidores LiteSpeed e cache inteligente na hospedagem WordPress, sem dizer em quais planos.",
+          "Qual plano de WordPress da Hostinger para loja virtual? O Unlimited, pelos backups diários e sites ilimitados. Para loja com muito tráfego, o Cloud Startup, com backup sob demanda.",
+          "O cupom SONAR20 vale no plano de WordPress da Hostinger? Não testamos o SONAR20 nos planos de WordPress; confira no carrinho. Onde ele vale, são 20% no primeiro período."
+        ]
+      },
+      {
+        "heading": "Quem escreve",
+        "paragraphs": [
+          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 17/11/2024. O site não usa WordPress, e ninguém da equipe usou WordPress na Hostinger: este texto reúne o que a página brasileira de hospedagem WordPress e os termos da promoção do Google Ads dizem, lidos em 30/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos nos planos de WordPress; confira o preço no carrinho.",
+      "label": "Ver os planos de WordPress com o SONAR20",
+      "url": "https://www.hostinger.com/br/hospedagem-wordpress?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usou WordPress na Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-horizons-vale-a-pena",
+        "title": "Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress?"
+      },
+      {
+        "slug": "cupom-hostinger-indicacao",
+        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+      },
+      {
+        "slug": "dominio-hostinger-comprar-transferir-ou-fora",
+        "title": "Domínio na Hostinger: comprar ali, transferir ou registrar em outro lugar? Preço, renovação e o que checar"
+      }
+    ]
+  },
+  {
+    "id": 738,
+    "slug": "wordpress-on-hostinger",
+    "locale": "en",
+    "translationKey": "hostinger-wordpress",
+    "title": "WordPress on Hostinger: which plan to pick and how to start",
+    "seoTitle": "WordPress on Hostinger: which plan and how to start",
+    "type": "Decision Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Editing and analysis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Which WordPress plan from Hostinger to pick for one site, three sites, several sites or a store, and how to start. US dollar prices from October 30, 2026, with renewal.",
+    "metaDescription": "WordPress on Hostinger: Premium, Unlimited or Cloud Startup? Plan by project, price and renewal on October 30, 2026, and a checklist to start.",
+    "publishedAt": "October 30, 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+    "imageAlt": "Hostinger logo with website and server icons, and the word WordPress on the band",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "If you have already decided to use WordPress on Hostinger, the Premium plan covers up to three sites. Unlimited serves several sites or a store, with daily backups, and Cloud Startup is for heavy traffic. What decides the choice is the number of sites, the backup and the renewal price, in the table below."
+        ]
+      },
+      {
+        "heading": "Which plan for which project",
+        "paragraphs": [
+          "Hostinger does not sell a WordPress-only plan: its WordPress hosting pages list plans by number of sites, space and backup. So the question is not \"which plan has WordPress\", but \"how many sites will I have, and how much backup do I need?\"."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-en.webp",
+          "alt": "WordPress on Hostinger chart by project: up to three sites go to Premium; several sites or a WooCommerce store go to Unlimited; a store or a site with heavy traffic goes to Cloud Startup",
+          "caption": "The summary of the choice: the number of sites, the space and the backup decide the plan. Chart by Em Casa com Cecília, from what Hostinger's pages say on October 30, 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6981
+        },
+        "bullets": [
+          "**Up to 3 sites: Premium.** Your blog and two more projects, or a test site next to the main one. It has 20 GB SSD and weekly backups.",
+          "**Several sites or a store with WooCommerce: Unlimited.** Unlimited sites, 50 GB NVMe and daily backups. In a store, orders and stock change every day, and a weekly backup leaves a whole week out.",
+          "**A store or a site with heavy traffic: Cloud Startup.** Unlimited sites and 100 GB NVMe. It is the most expensive plan on the page, and its renewal is the highest too."
+        ],
+        "postParagraphs": [
+          "When in doubt between two plans, look at the backup. If you will not change the site every week, weekly backups are enough; if you sell or publish every day, you want daily backups."
+        ]
+      },
+      {
+        "heading": "Price and renewal on October 30, 2026",
+        "paragraphs": [
+          "The prices below come from Hostinger's international site, in US dollars, read on October 30, 2026, on the 48-month term and the campaign's promotional price. The monthly price is the total divided by 48. Renewal is the monthly price after the first period. Prices can vary by country and currency, so check the cart:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "Per month (48 months)",
+            "Total",
+            "Renewal",
+            "Sites and space",
+            "Backup"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2.49",
+              "US$ 119.52",
+              "US$ 10.99/month",
+              "3 sites, 20 GB SSD",
+              "Weekly"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3.49",
+              "US$ 167.52",
+              "US$ 16.99/month",
+              "Unlimited sites, 50 GB NVMe",
+              "Daily"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7.99",
+              "US$ 383.52",
+              "US$ 25.99/month",
+              "Unlimited sites, 100 GB NVMe",
+              "Check the cart"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "The page we read gives no end date for the campaign, and prices can change."
+        ],
+        "emphasis": "Renewal costs about 3 to 5 times the promotional price. Choose the plan by the renewal column, not only by the entry price."
+      },
+      {
+        "heading": "What comes with the plans",
+        "paragraphs": [
+          "From Hostinger's international page, on October 30, 2026, without a test of our own:"
+        ],
+        "bullets": [
+          "**Sites and space.** Premium: 3 sites and 20 GB SSD. Unlimited: unlimited sites and 50 GB NVMe. Cloud Startup: unlimited sites and 100 GB NVMe.",
+          "**Backups.** Premium has weekly backups and Unlimited has daily ones. The page we read does not say which backup Cloud Startup has, so check it in the cart.",
+          "**Domain and e-mail.** They change by plan and by period. Check in the cart what comes free and for how long."
+        ]
+      },
+      {
+        "heading": "How to start: the checklist",
+        "bullets": [
+          "**1. Count your sites.** One, up to three or more. In most cases, that already picks the plan.",
+          "**2. Sort out the domain.** Check whether your plan includes one, or point a domain you already have. Note when it renews.",
+          "**3. Install WordPress from the hosting panel.** You do not need to download the files by hand.",
+          "**4. Choose the theme before the content.** Switching themes on a full site means rework. Prefer a simple theme that is updated often.",
+          "**5. Install few plugins.** Start with what the site needs today: a contact form, SEO and, in a store, WooCommerce. Each extra plugin is one more thing to update.",
+          "**6. Make a backup before changing anything.** Before changing the theme, updating a plugin or changing the store, check the panel for the date of the last backup. With weekly backups, this matters more."
+        ],
+        "postParagraphs": [
+          "How Hostinger charges, renews and refunds is covered in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
+        ]
+      },
+      {
+        "heading": "If you already advertise on Google",
+        "paragraphs": [
+          "According to the terms of the promotion, read on October 30, 2026, anyone who creates or connects a Google Ads account through the Hostinger panel integration and spends USD 500 in the first 60 days gets USD 500 in ad credit, in the United States. Google decides who is eligible, the promotion can change, and the terms give no expiry date. It is for those who would spend that amount anyway; it is not a reason to start advertising."
+        ]
+      },
+      {
+        "heading": "If you do not want WordPress",
+        "paragraphs": [
+          "If you do not want to install a theme or a plugin, or update anything, the same plans come with Hostinger's AI website builder, formerly Horizons. The comparison by type of project is in [Hostinger AI Builder (formerly Horizons): is it worth it, or WordPress?](/en/reviews/hostinger-ai-builder-worth-it). If what you need already has a plugin name, stay with WordPress."
+        ]
+      },
+      {
+        "heading": "SONAR20 code and price",
+        "paragraphs": [
+          "Enter the code **SONAR20** in the cart's coupon field, or come in through this article's link: it gives **20% off the first period**. We did not test SONAR20 on the WordPress plans; check the price in the cart before paying. After the first period, the renewal column applies. The rules for the code and the other products are in [Hostinger coupons](/en/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Which plan to pick: the verdict",
+        "paragraphs": [
+          "**Pick Premium** if you have one, two or three sites and publish now and then. It is the cheapest entry and renewal on the page, at US$ 10.99 a month when it renews.",
+          "**Pick Unlimited** if you have a store or many sites. The daily backup is the main reason, and it starts here.",
+          "**Cloud Startup** only makes sense if Unlimited is not enough. It is the most expensive, and the renewal of US$ 25.99 a month weighs on the budget."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Which is the cheapest WordPress plan on Hostinger? On October 30, 2026, Premium, at US$ 2.49 a month over 48 months (US$ 119.52 in total), for up to 3 sites. It renews at US$ 10.99 a month.",
+          "Which WordPress plan suits an online store? Unlimited, for its daily backups and unlimited sites. For a store with heavy traffic, Cloud Startup.",
+          "Do I need to know how to code to use WordPress on Hostinger? No. To start, you only need to choose a plan and a theme, and the checklist above covers the steps.",
+          "Does the SONAR20 code work on the WordPress plans? We did not test it there; check the price in the cart. Where it works, it gives 20% off the first period.",
+          "Is the renewal price the same as the promotional price? No. After the first 48-month period, the renewal price applies: for Premium, US$ 10.99 a month."
+        ]
+      },
+      {
+        "heading": "Who writes this",
+        "paragraphs": [
+          "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since November 17, 2024. The site does not use WordPress, and no one on the team has used WordPress on Hostinger: this text gathers what Hostinger's WordPress hosting pages on the international site, in US dollars, and the Google Ads promotion terms say, read on October 30, 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We did not test it on the WordPress plans; check the price in the cart.",
+      "label": "See WordPress plans with SONAR20",
+      "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Purchases with the SONAR20 code or through the link may give Bruno a commission, at no extra cost to you. No one on the team has used WordPress on Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-ai-builder-worth-it",
+        "title": "Hostinger AI Builder (formerly Horizons): is it worth it, or WordPress?"
+      },
+      {
+        "slug": "hostinger-coupon-code-referral",
+        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+      },
+      {
+        "slug": "hostinger-domain-buy-transfer-or-elsewhere",
+        "title": "Hostinger domain: buy it there, transfer it or register elsewhere? Price, renewal and what to check"
+      }
+    ]
+  },
+  {
+    "id": 739,
+    "slug": "wordpress-en-hostinger",
+    "locale": "es",
+    "translationKey": "hostinger-wordpress",
+    "title": "WordPress en Hostinger: qué plan elegir y cómo empezar",
+    "seoTitle": "WordPress en Hostinger: qué plan y cómo empezar",
+    "type": "Guía de elección",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edición y análisis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Qué plan de WordPress de Hostinger elegir para un sitio, tres sitios, varios sitios o una tienda, y cómo empezar. Precios en dólares del 30 de octubre de 2026, con la renovación.",
+    "metaDescription": "WordPress en Hostinger: ¿Premium, Unlimited o Cloud Startup? Plan por proyecto, precio y renovación el 30 de octubre de 2026, y una lista para empezar.",
+    "publishedAt": "30 de octubre de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+    "imageAlt": "Logo de Hostinger con iconos de sitio web y de servidor, y la palabra WordPress en la franja",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Si ya decidiste usar WordPress en Hostinger, el plan Premium cubre hasta tres sitios. Unlimited sirve para varios sitios o una tienda, con backups diarios, y Cloud Startup, para mucho tráfico. Lo que decide la elección es el número de sitios, el backup y el precio de renovación, en la tabla de abajo."
+        ]
+      },
+      {
+        "heading": "Qué plan para cada proyecto",
+        "paragraphs": [
+          "Hostinger no vende un plan solo de WordPress: el hosting de WordPress se vende en planes según el número de sitios, el espacio y el backup. Así que la pregunta no es «¿qué plan tiene WordPress?», sino «¿cuántos sitios voy a tener y cuánto backup necesito?»."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-es.webp",
+          "alt": "Cuadro de WordPress en Hostinger por proyecto: hasta tres sitios van a Premium; varios sitios o una tienda con WooCommerce, a Unlimited; una tienda o un sitio con mucho tráfico, a Cloud Startup",
+          "caption": "El resumen de la elección: el número de sitios, el espacio y el backup deciden el plan. Cuadro de Em Casa com Cecília, según lo que dicen las páginas de Hostinger el 30 de octubre de 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6981
+        },
+        "bullets": [
+          "**Hasta 3 sitios: Premium.** Tu blog y dos proyectos más, o un sitio de prueba junto al principal. Tiene 20 GB SSD y backups semanales.",
+          "**Varios sitios o una tienda con WooCommerce: Unlimited.** Sitios ilimitados, 50 GB NVMe y backups diarios. En una tienda, los pedidos y el stock cambian todos los días, y un backup semanal deja una semana entera fuera.",
+          "**Tienda o sitio con mucho tráfico: Cloud Startup.** Sitios ilimitados y 100 GB NVMe. Es el plan más caro de la página, y también tiene la renovación más alta."
+        ],
+        "postParagraphs": [
+          "Si dudas entre dos planes, mira el backup. Quien no va a cambiar el sitio cada semana vive bien con el semanal; quien vende o publica todos los días quiere el diario."
+        ]
+      },
+      {
+        "heading": "Precio y renovación el 30 de octubre de 2026",
+        "paragraphs": [
+          "Los precios de abajo son del sitio internacional de Hostinger, en dólares estadounidenses, leídos el 30 de octubre de 2026, con el plazo de 48 meses y el precio promocional de la campaña. El precio por mes es el total dividido entre 48. La renovación es el precio por mes después del primer período. Los precios pueden variar según el país y la moneda, así que confirma en el carrito:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "Por mes (48 meses)",
+            "Total",
+            "Renovación",
+            "Sitios y espacio",
+            "Backup"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2,49",
+              "US$ 119,52",
+              "US$ 10,99/mes",
+              "3 sitios, 20 GB SSD",
+              "Semanal"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3,49",
+              "US$ 167,52",
+              "US$ 16,99/mes",
+              "Sitios ilimitados, 50 GB NVMe",
+              "Diario"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7,99",
+              "US$ 383,52",
+              "US$ 25,99/mes",
+              "Sitios ilimitados, 100 GB NVMe",
+              "Consulta el carrito"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "La página que leímos no trae fecha de fin para la campaña, y los precios pueden cambiar."
+        ],
+        "emphasis": "La renovación cuesta entre 3 y 5 veces el precio promocional. Elige el plan por la columna de renovación, no solo por el precio de entrada."
+      },
+      {
+        "heading": "Qué viene en los planes",
+        "paragraphs": [
+          "Según la página internacional de Hostinger, el 30 de octubre de 2026, sin una prueba nuestra:"
+        ],
+        "bullets": [
+          "**Sitios y espacio.** Premium: 3 sitios y 20 GB SSD. Unlimited: sitios ilimitados y 50 GB NVMe. Cloud Startup: sitios ilimitados y 100 GB NVMe.",
+          "**Backups.** Premium tiene backups semanales y Unlimited, diarios. La página que leímos no dice qué backup tiene Cloud Startup, así que confírmalo en el carrito.",
+          "**Dominio y correo.** Cambian según el plan y el período. Revisa en el carrito qué viene gratis y por cuánto tiempo."
+        ]
+      },
+      {
+        "heading": "Cómo empezar: la lista",
+        "bullets": [
+          "**1. Cuenta tus sitios.** Uno, hasta tres o más. En la mayoría de los casos, eso ya elige el plan.",
+          "**2. Resuelve el dominio.** Mira si tu plan incluye uno o apunta un dominio que ya tengas. Anota cuándo se renueva.",
+          "**3. Instala WordPress desde el panel de hosting.** No hace falta descargar los archivos a mano.",
+          "**4. Elige el tema antes que el contenido.** Cambiar de tema con el sitio lleno da trabajo. Prefiere un tema simple y que se actualice seguido.",
+          "**5. Instala pocos plugins.** Empieza por lo que el sitio necesita hoy: formulario de contacto, SEO y, en una tienda, WooCommerce. Cada plugin de más es una cosa más que actualizar.",
+          "**6. Haz un backup antes de tocar algo.** Antes de cambiar el tema, actualizar un plugin o cambiar la tienda, revisa en el panel la fecha del último backup. Con backups semanales, eso pesa más."
+        ],
+        "postParagraphs": [
+          "Cómo cobra Hostinger, renueva y devuelve el dinero se explica en [¿Es confiable Hostinger?](/es/reviews/hostinger-es-confiable)."
+        ]
+      },
+      {
+        "heading": "Si ya anuncias en Google",
+        "paragraphs": [
+          "Según los términos de la promoción, leídos el 30 de octubre de 2026, quien crea o conecta una cuenta de Google Ads por la integración del panel de Hostinger y gasta EUR 400 en anuncios en los primeros 60 días tiene derecho a EUR 400 en crédito publicitario, en España. Google decide quién es elegible, la promoción puede cambiar y los términos no traen fecha de vencimiento. Vale para quien ya iba a gastar ese monto; no es motivo para empezar a anunciar."
+        ]
+      },
+      {
+        "heading": "Si no quieres WordPress",
+        "paragraphs": [
+          "Si no quieres instalar un tema ni un plugin, ni actualizar nada, los mismos planes traen el creador de sitios con IA de Hostinger, antes Horizons. La comparación por tipo de proyecto está en [Hostinger AI Builder (el creador con IA, antes Horizons): ¿vale la pena o WordPress?](/es/reviews/creador-ia-hostinger-vale-la-pena). Si lo que necesitas ya tiene nombre de plugin, quédate con WordPress."
+        ]
+      },
+      {
+        "heading": "Cupón SONAR20 y precio",
+        "paragraphs": [
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**. No probamos el SONAR20 en los planes de WordPress; confirma el precio en el carrito antes de pagar. Después del primer período, vale la columna de renovación. Las reglas del código y los otros productos están en [cupones de Hostinger](/es/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Qué plan elegir: el veredicto",
+        "paragraphs": [
+          "**Elige Premium** si es un sitio, dos o tres, y publicas de vez en cuando. Es la entrada y la renovación más baratas de la página: US$ 10,99 al mes cuando se renueva.",
+          "**Elige Unlimited** si tienes una tienda o muchos sitios. El backup diario es el motivo principal, y empieza aquí.",
+          "**Cloud Startup** solo tiene sentido si Unlimited no alcanza. Es el más caro, y la renovación de US$ 25,99 al mes pesa."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Cuál es el plan de WordPress más barato de Hostinger? El 30 de octubre de 2026, Premium, a US$ 2,49 al mes en 48 meses (US$ 119,52 en total), para hasta 3 sitios. Se renueva a US$ 10,99 al mes.",
+          "¿Qué plan de WordPress conviene para una tienda online? Unlimited, por sus backups diarios y los sitios ilimitados. Para una tienda con mucho tráfico, Cloud Startup.",
+          "¿Hace falta saber programar para usar WordPress en Hostinger? No. Para empezar basta con elegir un plan y un tema, y la lista de arriba explica los pasos.",
+          "¿Funciona el código SONAR20 en los planes de WordPress? No lo probamos ahí; confirma el precio en el carrito. Donde funciona, da 20% en el primer período.",
+          "¿El precio de renovación es igual al promocional? No. Después del primer período de 48 meses vale el precio de renovación: en Premium, US$ 10,99 al mes."
+        ]
+      },
+      {
+        "heading": "Quién escribe",
+        "paragraphs": [
+          "Em Casa com Cecília funciona en el hosting administrado de Hostinger, como Node.js Web App, y el dominio está registrado en Hostinger desde el 17 de noviembre de 2024. El sitio no usa WordPress, y nadie del equipo ha usado WordPress en Hostinger: este texto reúne lo que dicen las páginas de hosting de WordPress del sitio internacional, en dólares, y los términos de la promoción de Google Ads, leídos el 30 de octubre de 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. No lo probamos en los planes de WordPress; confirma el precio en el carrito.",
+      "label": "Ver los planes de WordPress con el SONAR20",
+      "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. Nadie del equipo ha usado WordPress en Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "creador-ia-hostinger-vale-la-pena",
+        "title": "Hostinger AI Builder (el creador con IA, antes Horizons): ¿vale la pena o WordPress?"
+      },
+      {
+        "slug": "cupon-hostinger-codigo-de-referido",
+        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+      },
+      {
+        "slug": "hostinger-es-confiable",
+        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+      }
+    ]
+  },
+  {
+    "id": 740,
+    "slug": "wordpress-chez-hostinger",
+    "locale": "fr",
+    "translationKey": "hostinger-wordpress",
+    "title": "WordPress chez Hostinger : quel forfait choisir et comment commencer",
+    "seoTitle": "WordPress chez Hostinger : quel forfait et comment commencer",
+    "type": "Guide de choix",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Édition et analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Quel forfait WordPress de Hostinger choisir pour un site, trois sites, plusieurs sites ou une boutique, et comment commencer. Prix en dollars au 30 octobre 2026, avec le renouvellement.",
+    "metaDescription": "WordPress chez Hostinger : Premium, Unlimited ou Cloud Startup ? Forfait par projet, prix et renouvellement au 30 octobre 2026, et une liste pour commencer.",
+    "publishedAt": "30 octobre 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+    "imageAlt": "Logo Hostinger avec des icônes de site et de serveur, et le mot WordPress sur le bandeau",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Si vous avez déjà décidé d'utiliser WordPress chez Hostinger, le forfait Premium couvre jusqu'à trois sites. Unlimited, qui inclut des sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Ce qui fait le choix, c'est le nombre de sites, la sauvegarde et le prix du renouvellement, dans le tableau ci-dessous."
+        ]
+      },
+      {
+        "heading": "Quel forfait pour quel projet",
+        "paragraphs": [
+          "Hostinger ne vend pas de forfait réservé à WordPress : l'hébergement WordPress se vend en forfaits selon le nombre de sites, l'espace et la sauvegarde. La question n'est donc pas « quel forfait a WordPress ? », mais « combien de sites vais-je avoir, et quelle sauvegarde me faut-il ? »."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-fr.webp",
+          "alt": "Tableau WordPress chez Hostinger par projet : jusqu'à trois sites vont sur Premium ; plusieurs sites ou une boutique WooCommerce, sur Unlimited ; une boutique ou un site très fréquenté, sur Cloud Startup",
+          "caption": "Le résumé du choix : le nombre de sites, l'espace et la sauvegarde décident du forfait. Tableau d'Em Casa com Cecília, d'après ce que disent les pages de Hostinger au 30 octobre 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6014
+        },
+        "bullets": [
+          "**Jusqu'à 3 sites : Premium.** Votre blog et deux autres projets, ou un site de test à côté du principal. Il a 20 Go SSD et des sauvegardes hebdomadaires.",
+          "**Plusieurs sites ou une boutique WooCommerce : Unlimited.** Sites illimités, 50 Go NVMe et sauvegardes quotidiennes. Dans une boutique, les commandes et le stock changent chaque jour, et une sauvegarde hebdomadaire laisse une semaine entière de côté.",
+          "**Boutique ou site très fréquenté : Cloud Startup.** Sites illimités et 100 Go NVMe. C'est le forfait le plus cher de la page, et son renouvellement est aussi le plus élevé."
+        ],
+        "postParagraphs": [
+          "Si vous hésitez entre deux forfaits, regardez la sauvegarde. Si vous ne modifiez pas le site chaque semaine, la sauvegarde hebdomadaire suffit ; si vous vendez ou publiez tous les jours, il vous faut la quotidienne."
+        ]
+      },
+      {
+        "heading": "Prix et renouvellement au 30 octobre 2026",
+        "paragraphs": [
+          "Les prix ci-dessous viennent du site international de Hostinger, en dollars américains, relevés le 30 octobre 2026, sur une durée de 48 mois et au prix promotionnel de la campagne. Le prix par mois est le total divisé par 48. Le renouvellement est le prix mensuel après la première période. Les prix peuvent varier selon le pays et la devise : vérifiez dans le panier :"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forfait",
+            "Par mois (48 mois)",
+            "Total",
+            "Renouvellement",
+            "Sites et espace",
+            "Sauvegarde"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2,49",
+              "US$ 119,52",
+              "US$ 10,99/mois",
+              "3 sites, 20 Go SSD",
+              "Hebdomadaire"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3,49",
+              "US$ 167,52",
+              "US$ 16,99/mois",
+              "Sites illimités, 50 Go NVMe",
+              "Quotidienne"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7,99",
+              "US$ 383,52",
+              "US$ 25,99/mois",
+              "Sites illimités, 100 Go NVMe",
+              "Voir le panier"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "La page que nous avons lue n'indique pas de date de fin pour la campagne, et les prix peuvent changer."
+        ],
+        "emphasis": "Le renouvellement coûte environ 3 à 5 fois le prix promotionnel. Choisissez le forfait selon la colonne du renouvellement, pas seulement selon le prix d'entrée."
+      },
+      {
+        "heading": "Ce qui est inclus dans les forfaits",
+        "paragraphs": [
+          "D'après la page internationale de Hostinger, au 30 octobre 2026, sans test de notre part :"
+        ],
+        "bullets": [
+          "**Sites et espace.** Premium : 3 sites et 20 Go SSD. Unlimited : sites illimités et 50 Go NVMe. Cloud Startup : sites illimités et 100 Go NVMe.",
+          "**Sauvegardes.** Premium a des sauvegardes hebdomadaires, et Unlimited des sauvegardes quotidiennes. La page lue ne dit pas quelle sauvegarde a Cloud Startup : vérifiez-le dans le panier.",
+          "**Domaine et e-mail.** Ils changent selon le forfait et la période. Vérifiez dans le panier ce qui est offert, et pour combien de temps."
+        ]
+      },
+      {
+        "heading": "Comment commencer : la liste",
+        "bullets": [
+          "**1. Comptez vos sites.** Un, jusqu'à trois ou plus. Dans la plupart des cas, cela suffit à choisir le forfait.",
+          "**2. Réglez le domaine.** Vérifiez si votre forfait en inclut un, ou pointez un domaine que vous avez déjà. Notez quand il se renouvelle.",
+          "**3. Installez WordPress depuis le panneau d'hébergement.** Inutile de télécharger les fichiers à la main.",
+          "**4. Choisissez le thème avant le contenu.** Changer de thème avec un site rempli demande du travail. Préférez un thème simple et mis à jour souvent.",
+          "**5. Installez peu d'extensions.** Commencez par ce dont le site a besoin aujourd'hui : formulaire de contact, SEO et, pour une boutique, WooCommerce. Chaque extension en plus est une chose de plus à mettre à jour.",
+          "**6. Faites une sauvegarde avant de toucher à quoi que ce soit.** Avant de changer de thème, de mettre à jour une extension ou de modifier la boutique, regardez dans le panneau la date de la dernière sauvegarde. Avec des sauvegardes hebdomadaires, cela compte davantage."
+        ],
+        "postParagraphs": [
+          "Comment Hostinger facture, renouvelle et rembourse est expliqué dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
+        ]
+      },
+      {
+        "heading": "Si vous faites déjà de la publicité sur Google",
+        "paragraphs": [
+          "Selon les conditions de la promotion, relues le 30 octobre 2026, quiconque crée ou connecte un compte Google Ads par l'intégration du panneau Hostinger et dépense 400 EUR en publicité dans les 60 premiers jours a droit à 400 EUR de crédit publicitaire, en France. Google décide de l'éligibilité, la promotion peut changer, et les conditions n'indiquent pas de date d'expiration. Elle vaut pour ceux qui allaient dépenser ce montant de toute façon ; ce n'est pas une raison pour commencer à faire de la publicité."
+        ]
+      },
+      {
+        "heading": "Si vous ne voulez pas de WordPress",
+        "paragraphs": [
+          "Si vous ne voulez ni installer de thème ni d'extension, ni rien mettre à jour, les mêmes forfaits incluent le créateur de sites avec IA de Hostinger, l'ancien Horizons. La comparaison par type de projet se trouve dans [Hostinger AI Builder (le créateur IA, ex-Horizons) : vaut-il le coup, ou WordPress ?](/fr/reviews/createur-ia-hostinger-avis). Si ce dont vous avez besoin a déjà un nom d'extension, restez sur WordPress."
+        ]
+      },
+      {
+        "heading": "Code SONAR20 et prix",
+        "paragraphs": [
+          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : cela donne **20 % sur la première période**. Nous n'avons pas testé SONAR20 sur les forfaits WordPress ; vérifiez le prix dans le panier avant de payer. Après la première période, c'est la colonne du renouvellement qui s'applique. Les règles du code et les autres produits se trouvent dans [les codes promo Hostinger](/fr/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Quel forfait choisir : le verdict",
+        "paragraphs": [
+          "**Choisissez Premium** si c'est un site, deux ou trois, et que vous publiez de temps en temps. C'est l'entrée et le renouvellement les moins chers de la page : US$ 10,99 par mois au renouvellement.",
+          "**Choisissez Unlimited** si vous avez une boutique ou plusieurs sites. La sauvegarde quotidienne est la raison principale, et elle commence ici.",
+          "**Cloud Startup** n'a de sens que si Unlimited ne suffit pas. C'est le plus cher, et le renouvellement à US$ 25,99 par mois pèse lourd."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Quel est le forfait WordPress le moins cher de Hostinger ? Au 30 octobre 2026, Premium, à US$ 2,49 par mois sur 48 mois (US$ 119,52 au total), pour jusqu'à 3 sites. Il se renouvelle à US$ 10,99 par mois.",
+          "Quel forfait WordPress pour une boutique en ligne ? Unlimited, pour ses sauvegardes quotidiennes et ses sites illimités. Pour une boutique très fréquentée, Cloud Startup.",
+          "Faut-il savoir programmer pour utiliser WordPress chez Hostinger ? Non. Pour commencer, il suffit de choisir un forfait et un thème, et la liste ci-dessus détaille les étapes.",
+          "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? Nous ne l'avons pas testé là-dessus ; vérifiez le prix dans le panier. Là où il fonctionne, il donne 20 % sur la première période.",
+          "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, US$ 10,99 par mois."
+        ]
+      },
+      {
+        "heading": "Qui écrit",
+        "paragraphs": [
+          "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine est enregistré chez Hostinger depuis le 17 novembre 2024. Le site n'utilise pas WordPress, et personne dans l'équipe n'a utilisé WordPress chez Hostinger : ce texte réunit ce que disent les pages d'hébergement WordPress du site international, en dollars, et les conditions de la promotion Google Ads, relues le 30 octobre 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Saisissez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous ne l'avons pas testé sur les forfaits WordPress ; vérifiez le prix dans le panier.",
+      "label": "Voir les forfaits WordPress avec le SONAR20",
+      "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l'équipe n'a utilisé WordPress chez Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "createur-ia-hostinger-avis",
+        "title": "Hostinger AI Builder (le créateur IA, ex-Horizons) : vaut-il le coup, ou WordPress ?"
+      },
+      {
+        "slug": "code-promo-hostinger-parrainage",
+        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+      },
+      {
+        "slug": "domaine-hostinger-acheter-ou-transferer",
+        "title": "Domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs ? Prix, renouvellement et ce qu'il faut vérifier"
+      }
+    ]
+  },
+  {
+    "id": 741,
+    "slug": "wordpress-su-hostinger",
+    "locale": "it",
+    "translationKey": "hostinger-wordpress",
+    "title": "WordPress su Hostinger: quale piano scegliere e come iniziare",
+    "seoTitle": "WordPress su Hostinger: quale piano e come iniziare",
+    "type": "Guida alla scelta",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redazione e analisi",
+        "initials": "BL"
+      }
+    ],
+    "description": "Quale piano WordPress di Hostinger scegliere per un sito, tre siti, più siti o un negozio, e come iniziare. Prezzi del 30/10/2026, con il rinnovo.",
+    "metaDescription": "WordPress su Hostinger: Premium, Unlimited o Cloud Startup? Piano per progetto, prezzo e rinnovo al 30/10/2026 e la checklist per iniziare.",
+    "publishedAt": "30 ottobre 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+    "imageAlt": "Logo di Hostinger con le icone di sito e di server, e la parola WordPress nella fascia",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Per chi ha già deciso di usare WordPress su Hostinger, il piano Premium copre fino a tre siti, mentre Unlimited o Cloud Startup servono per più siti o un negozio, con backup giornalieri. WordPress c'è in tutti i piani: a fare la differenza sono il numero di siti, il backup e il rinnovo, nella tabella qui sotto."
+        ]
+      },
+      {
+        "heading": "Quale piano per quale progetto",
+        "paragraphs": [
+          "Hostinger non vende un piano solo di WordPress: WordPress è incluso nei piani di hosting per siti. Secondo la pagina di Hostinger letta il 30/10/2026, WordPress e Node.js sono in tutti i piani. Quindi la domanda non è quale piano ha WordPress, ma quanti siti avrai e quanto backup ti serve."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-it.webp",
+          "alt": "Quadro dei piani WordPress di Hostinger per progetto: fino a 3 siti nel Premium; più siti o un negozio con WooCommerce nell'Unlimited; negozio o molto traffico nel Cloud Startup",
+          "caption": "Il riepilogo della scelta: numero di siti, spazio e backup decidono il piano. Quadro dell'Em Casa com Cecília, secondo la pagina di Hostinger del 30/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6014
+        },
+        "bullets": [
+          "**Fino a 3 siti: Premium.** Il tuo blog e altri due progetti, oppure un sito di prova accanto a quello principale. Sono 20 GB SSD e backup settimanali. Sul sito internazionale il Premium è il piano d'ingresso.",
+          "**Più siti o un negozio con WooCommerce: Unlimited.** Siti illimitati, 50 GB NVMe e backup giornalieri. In un negozio ordini e magazzino cambiano ogni giorno, e un backup settimanale lascia fuori un'intera settimana.",
+          "**Negozio o sito con molto traffico: Cloud Startup.** Siti illimitati, 100 GB NVMe, backup giornalieri e on demand. È il piano più caro della pagina, e anche il rinnovo è il più alto."
+        ],
+        "postParagraphs": [
+          "Se sei indeciso tra due piani, guarda il backup. Chi non modifica il sito ogni settimana sta bene con quello settimanale; chi vende o pubblica ogni giorno vuole quello giornaliero."
+        ]
+      },
+      {
+        "heading": "Prezzo e rinnovo al 30/10/2026",
+        "paragraphs": [
+          "I prezzi qui sotto sono quelli della pagina internazionale di Hostinger per l'hosting WordPress, in dollari statunitensi, letti il 30/10/2026, con durata di 48 mesi e nella campagna del Black Friday. Il prezzo al mese è il totale diviso per 48. Il rinnovo è il prezzo al mese dopo il primo periodo. Sono i prezzi del sito internazionale in dollari: possono cambiare per paese e valuta:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piano",
+            "Al mese (48 mesi)",
+            "Totale",
+            "Rinnovo",
+            "Siti e spazio",
+            "Backup"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2,49",
+              "US$ 119,52",
+              "US$ 10,99/mese",
+              "3 siti, 20 GB SSD",
+              "Settimanale"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3,49",
+              "US$ 167,52",
+              "US$ 16,99/mese",
+              "Siti illimitati, 50 GB NVMe",
+              "Giornaliero"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7,99",
+              "US$ 383,52",
+              "US$ 25,99/mese",
+              "Siti illimitati, 100 GB NVMe",
+              "Giornaliero e on demand"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "La pagina non riporta una data di fine per la campagna, e i prezzi possono cambiare."
+        ],
+        "emphasis": "Il rinnovo costa da 3 a 5 volte il prezzo promozionale. Scegli il piano guardando la colonna del rinnovo, non solo il prezzo d'ingresso."
+      },
+      {
+        "heading": "Cosa c'è già nei piani",
+        "paragraphs": [
+          "Dalla pagina del 30/10/2026, senza un nostro test:"
+        ],
+        "bullets": [
+          "**WordPress e Node.js in tutti i piani.**",
+          "**Installazione con un clic e plugin interni**, citati nelle FAQ della pagina, senza dire cosa cambia da un piano all'altro.",
+          "**Server LiteSpeed e cache intelligente**, citati per l'hosting WordPress in generale. La pagina non dice in quali piani."
+        ]
+      },
+      {
+        "heading": "Come iniziare: la checklist",
+        "bullets": [
+          "**1. Conta i siti.** Uno, fino a tre o più. Nella maggior parte dei casi questo sceglie già il piano.",
+          "**2. Sistema il dominio.** Usa un dominio che hai già oppure registrane uno nuovo. Annota quando si rinnova.",
+          "**3. Installa WordPress dal pannello.** La pagina cita l'installazione con un clic; non serve scaricare nulla.",
+          "**4. Scegli il tema prima dei contenuti.** Cambiare tema con il sito già pieno dà più lavoro. Preferisci un tema semplice e mantenuto con regolarità.",
+          "**5. Installa pochi plugin.** Parti da quello che il sito serve oggi: modulo di contatto, SEO e, in un negozio, WooCommerce. Ogni plugin in più è una cosa in più da aggiornare.",
+          "**6. Fai un backup prima di intervenire.** Prima di cambiare tema, aggiornare un plugin o modificare il negozio, controlla nel pannello quando è stato fatto l'ultimo backup. Con il backup settimanale conta ancora di più."
+        ],
+        "postParagraphs": [
+          "Come Hostinger fattura, rinnova e rimborsa è spiegato in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
+        ]
+      },
+      {
+        "heading": "Se già fai pubblicità su Google",
+        "paragraphs": [
+          "Secondo i termini della promozione, letti il 30/10/2026: chi crea o collega un account Google Ads tramite l'integrazione del pannello Hostinger e spende 400 EUR in annunci nei primi 60 giorni ha diritto a 400 EUR di credito pubblicitario, in Italia. Google stabilisce l'idoneità, la promozione può cambiare e la pagina non riporta una data di scadenza. Vale per chi avrebbe speso quell'importo comunque; non è un motivo per iniziare a fare pubblicità."
+        ]
+      },
+      {
+        "heading": "Se non vuoi WordPress",
+        "paragraphs": [
+          "Se non vuoi installare temi e plugin né aggiornare nulla, gli stessi piani includono il builder di siti con IA di Hostinger. Il confronto per tipo di progetto è in [AI Builder di Hostinger (ex Horizons): conviene o meglio WordPress?](/it/reviews/creatore-ia-hostinger-conviene). Se quello che ti serve ha già un nome di plugin, resta su WordPress."
+        ]
+      },
+      {
+        "heading": "Coupon SONAR20 e prezzo",
+        "paragraphs": [
+          "Il codice **SONAR20** dà il **20% sul primo periodo**, nel campo coupon del carrello o dal link di questo articolo. Non abbiamo testato SONAR20 sui piani WordPress: controlla il prezzo nel carrello prima di pagare. Dopo il primo periodo vale la colonna del rinnovo. Le regole del codice e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Quale piano prendere: il verdetto",
+        "paragraphs": [
+          "**Prendi il Premium** se avrai fino a tre siti. Il backup è settimanale, e il rinnovo è il più basso dei tre piani.",
+          "**Prendi l'Unlimited** se hai un negozio o più siti. Il backup giornaliero è il motivo principale, e parte da questo piano.",
+          "**Il Cloud Startup** ha senso solo se l'Unlimited non basta. È il più caro, e il rinnovo di 25,99 US$ al mese pesa."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Qual è il piano WordPress più economico di Hostinger? Al 30/10/2026, il Premium, a 2,49 US$ al mese per 48 mesi (119,52 US$ in totale), per fino a 3 siti. Si rinnova a 10,99 US$ al mese.",
+          "WordPress è già installato su Hostinger? La pagina dice che tutti i piani includono WordPress e cita un'installazione con un clic dal pannello. Non descrive l'installazione piano per piano.",
+          "Hostinger usa LiteSpeed con WordPress? La pagina parla di server LiteSpeed e cache intelligente nell'hosting WordPress, senza dire in quali piani.",
+          "Qual è il piano WordPress di Hostinger per un negozio online? L'Unlimited, per i backup giornalieri e i siti illimitati. Per un negozio con molto traffico, il Cloud Startup, con backup on demand.",
+          "Il coupon SONAR20 vale sul piano WordPress di Hostinger? Non abbiamo testato SONAR20 sui piani WordPress: controllalo nel carrello. Dove vale, è il 20% sul primo periodo."
+        ]
+      },
+      {
+        "heading": "Chi scrive",
+        "paragraphs": [
+          "L'Em Casa com Cecília gira sull'hosting gestito di Hostinger, come Node.js Web App, e il dominio è registrato presso Hostinger dal 17/11/2024. Il sito non usa WordPress, e nessuno del team ha usato WordPress su Hostinger: questo testo riunisce quello che le pagine di Hostinger per l'hosting WordPress (brasiliana e internazionale) e i termini della promozione Google Ads dicono, letti il 30/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Sui piani WordPress non abbiamo testato il codice: controlla il prezzo nel carrello.",
+      "label": "Vedi i piani WordPress con il SONAR20",
+      "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team ha usato WordPress su Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "creatore-ia-hostinger-conviene",
+        "title": "AI Builder di Hostinger (ex Horizons): conviene o meglio WordPress?"
+      },
+      {
+        "slug": "coupon-hostinger-codice-invito",
+        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+      },
+      {
+        "slug": "dominio-hostinger-comprare-o-trasferire",
+        "title": "Dominio su Hostinger: comprarlo lì, trasferirlo o registrarlo altrove? Prezzo, rinnovo e cosa controllare"
+      }
+    ]
+  },
+  {
+    "id": 742,
+    "slug": "wordpress-bei-hostinger",
+    "locale": "de",
+    "translationKey": "hostinger-wordpress",
+    "title": "WordPress bei Hostinger: welcher Tarif passt und wie Sie anfangen",
+    "seoTitle": "WordPress bei Hostinger: welcher Tarif und wie anfangen",
+    "type": "Entscheidungshilfe",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redaktion und Analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Welcher WordPress-Tarif bei Hostinger zu einer Website, drei Websites, mehreren Websites oder einem Shop passt, und wie Sie anfangen. Preise vom 30.10.2026, mit Verlängerung.",
+    "metaDescription": "WordPress bei Hostinger: Premium, Unlimited oder Cloud Startup? Tarif pro Projekt, Preis und Verlängerung am 30.10.2026 und die Checkliste für den Start.",
+    "publishedAt": "30. Oktober 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+    "imageAlt": "Hostinger-Logo mit Website- und Server-Symbolen und dem Wort WordPress im Band",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Wer bei Hostinger schon WordPress nutzen will, nimmt den Premium für bis zu drei Websites. Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht und enthalten tägliche Backups. WordPress ist in allen Tarifen enthalten; die Wahl hängt von der Anzahl der Websites, dem Backup und der Verlängerung ab, wie in der Tabelle unten."
+        ]
+      },
+      {
+        "heading": "Welcher Tarif für welches Projekt",
+        "paragraphs": [
+          "Hostinger verkauft WordPress nicht als eigenen Tarif, sondern in den Hosting-Tarifen für Websites. Laut der Hostinger-Seite vom 30.10.2026 gehören WordPress und Node.js zu allen Tarifen. Die Frage ist also nicht, welcher Tarif WordPress hat, sondern wie viele Websites Sie betreiben und wie viel Backup Sie brauchen."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-de.webp",
+          "alt": "Quadro der WordPress-Tarife von Hostinger nach Projekt: bis zu 3 Websites im Premium; mehrere Websites oder ein Shop mit WooCommerce im Unlimited; Shop oder viel Traffic im Cloud Startup",
+          "caption": "Die Entscheidung im Überblick: Anzahl der Websites, Speicher und Backup. Quadro des Em Casa com Cecília, nach der internationalen Hostinger-Seite vom 30.10.2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6014
+        },
+        "bullets": [
+          "**Bis zu 3 Websites: Premium.** Ihr Blog und zwei weitere Projekte, oder eine Testseite neben der Hauptseite. Das sind 20 GB SSD und wöchentliche Backups. Auf der internationalen Seite ist der Premium der Einstiegstarif.",
+          "**Mehrere Websites oder ein Shop mit WooCommerce: Unlimited.** Unbegrenzte Websites, 50 GB NVMe und tägliche Backups. In einem Shop ändern sich Bestellungen und Lagerbestand jeden Tag; ein wöchentliches Backup lässt eine ganze Woche aus.",
+          "**Shop oder Website mit viel Traffic: Cloud Startup.** Unbegrenzte Websites, 100 GB NVMe, tägliche Backups und Backups auf Abruf. Es ist der teuerste Tarif der Seite, und auch die Verlängerung ist die höchste."
+        ],
+        "postParagraphs": [
+          "Wenn Sie zwischen zwei Tarifen schwanken, schauen Sie auf das Backup. Wer die Seite nicht jede Woche ändert, kommt mit dem wöchentlichen Backup gut aus; wer jeden Tag verkauft oder veröffentlicht, will das tägliche."
+        ]
+      },
+      {
+        "heading": "Preis und Verlängerung am 30.10.2026",
+        "paragraphs": [
+          "Die Preise unten stammen von der internationalen Hostinger-Seite für WordPress-Hosting, in US-Dollar, gelesen am 30.10.2026, mit 48 Monaten Laufzeit und in der Black-Friday-Aktion. Der Preis pro Monat ist die Gesamtsumme geteilt durch 48. Die Verlängerung ist der Monatspreis nach dem ersten Zeitraum. Das sind die Preise der internationalen Seite in Dollar; sie können je nach Land und Währung abweichen:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tarif",
+            "Pro Monat (48 Monate)",
+            "Gesamt",
+            "Verlängerung",
+            "Websites und Speicher",
+            "Backup"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2,49",
+              "US$ 119,52",
+              "US$ 10,99/Monat",
+              "3 Websites, 20 GB SSD",
+              "Wöchentlich"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3,49",
+              "US$ 167,52",
+              "US$ 16,99/Monat",
+              "Unbegrenzte Websites, 50 GB NVMe",
+              "Täglich"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7,99",
+              "US$ 383,52",
+              "US$ 25,99/Monat",
+              "Unbegrenzte Websites, 100 GB NVMe",
+              "Täglich und auf Abruf"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Die Seite nennt kein Enddatum für die Aktion, und die Preise können sich ändern."
+        ],
+        "emphasis": "Die Verlängerung kostet etwa das 3- bis 5-Fache des Aktionspreises. Wählen Sie den Tarif nach der Spalte der Verlängerung, nicht nur nach dem Einstiegspreis."
+      },
+      {
+        "heading": "Was in den Tarifen schon enthalten ist",
+        "paragraphs": [
+          "Laut der Seite vom 30.10.2026, ohne eigenen Test:"
+        ],
+        "bullets": [
+          "**WordPress und Node.js in allen Tarifen.**",
+          "**Installation mit einem Klick und interne Plugins**, im FAQ der Seite genannt, ohne zu sagen, was sich zwischen den Tarifen unterscheidet.",
+          "**LiteSpeed-Server und intelligentes Caching**, für WordPress-Hosting allgemein genannt. Die Seite sagt nicht, in welchen Tarifen."
+        ]
+      },
+      {
+        "heading": "So fangen Sie an: die Checkliste",
+        "bullets": [
+          "**1. Zählen Sie die Websites.** Eine, bis zu drei oder mehr. Das entscheidet in den meisten Fällen schon den Tarif.",
+          "**2. Klären Sie die Domain.** Nutzen Sie eine Domain, die Sie schon haben, oder registrieren Sie eine neue. Notieren Sie, wann sie verlängert wird.",
+          "**3. Installieren Sie WordPress im Panel.** Die Seite nennt die Installation mit einem Klick; Sie müssen nichts herunterladen.",
+          "**4. Wählen Sie das Theme vor dem Inhalt.** Ein Theme zu wechseln, wenn die Seite schon voll ist, macht Mehrarbeit. Nehmen Sie ein einfaches, das regelmäßig gepflegt wird.",
+          "**5. Installieren Sie wenige Plugins.** Beginnen Sie mit dem, was die Seite heute braucht: Kontaktformular, SEO und im Shop WooCommerce. Jedes Plugin mehr ist eines mehr zum Aktualisieren.",
+          "**6. Machen Sie ein Backup, bevor Sie etwas ändern.** Sehen Sie vor einem Theme-Wechsel, einem Plugin-Update oder einer Shop-Änderung im Panel nach, wann das letzte Backup war. Bei wöchentlichen Backups zählt das mehr."
+        ],
+        "postParagraphs": [
+          "Wie Hostinger abrechnet, verlängert und Geld zurückgibt, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
+        ]
+      },
+      {
+        "heading": "Wenn Sie schon bei Google werben",
+        "paragraphs": [
+          "Laut den Bedingungen der Aktion, gelesen am 30.10.2026: Wer über die Integration im Hostinger-Panel ein Google-Ads-Konto erstellt oder verbindet und in den ersten 60 Tagen 400 EUR für Anzeigen ausgibt, erhält 400 EUR Anzeigenguthaben, in Deutschland. Google entscheidet über die Berechtigung, die Aktion kann sich ändern, und die Seite nennt kein Ablaufdatum. Das gilt für alle, die diesen Betrag ohnehin ausgegeben hätten; es ist kein Grund, mit Werbung anzufangen."
+        ]
+      },
+      {
+        "heading": "Wenn Sie kein WordPress wollen",
+        "paragraphs": [
+          "Wenn Sie kein Theme und kein Plugin installieren und nichts aktualisieren wollen, bringen dieselben Tarife den KI-Builder von Hostinger mit. Der Vergleich nach Projekttyp steht in [KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?](/de/reviews/hostinger-ki-builder-lohnt-sich). Wenn Ihr Projekt schon einen Plugin-Namen hat, bleiben Sie bei WordPress."
+        ]
+      },
+      {
+        "heading": "SONAR20-Gutschein und Preis",
+        "paragraphs": [
+          "Der Code **SONAR20** gibt **20 % im ersten Zeitraum**, im Gutscheinfeld des Warenkorbs oder über den Link dieses Artikels. Wir haben SONAR20 bei den WordPress-Tarifen nicht getestet; prüfen Sie den Preis im Warenkorb, bevor Sie bezahlen. Nach dem ersten Zeitraum gilt die Spalte der Verlängerung. Die Regeln des Codes und die übrigen Produkte stehen in den [Hostinger-Gutscheinen](/de/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Welchen Tarif nehmen: das Fazit",
+        "paragraphs": [
+          "**Nehmen Sie den Premium**, wenn Sie bis zu drei Websites betreiben. Das Backup ist wöchentlich, und die Verlängerung ist die niedrigste der drei Tarife.",
+          "**Nehmen Sie den Unlimited**, wenn Sie einen Shop oder mehrere Websites haben. Das tägliche Backup ist der Hauptgrund, und es beginnt hier.",
+          "**Der Cloud Startup** lohnt sich nur, wenn der Unlimited nicht reicht. Er ist der teuerste, und die Verlängerung von 25,99 US$ im Monat fällt stark ins Gewicht."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Welcher WordPress-Tarif von Hostinger ist der günstigste? Am 30.10.2026 der Premium: 2,49 US$ im Monat über 48 Monate (119,52 US$ insgesamt), für bis zu 3 Websites. Er verlängert sich auf 10,99 US$ im Monat.",
+          "Ist WordPress bei Hostinger schon installiert? Die Seite sagt, dass alle Tarife WordPress enthalten, und nennt eine Installation mit einem Klick im Panel. Wie die Installation je Tarif abläuft, beschreibt sie nicht.",
+          "Nutzt Hostinger LiteSpeed bei WordPress? Die Seite spricht von LiteSpeed-Servern und intelligentem Caching beim WordPress-Hosting, ohne zu sagen, in welchen Tarifen.",
+          "Welcher WordPress-Tarif von Hostinger eignet sich für einen Online-Shop? Der Unlimited, wegen der täglichen Backups und der unbegrenzten Websites. Für einen Shop mit viel Traffic der Cloud Startup, mit Backups auf Abruf.",
+          "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? Wir haben SONAR20 bei den WordPress-Tarifen nicht getestet; prüfen Sie es im Warenkorb. Wo er gilt, sind es 20 % im ersten Zeitraum."
+        ]
+      },
+      {
+        "heading": "Wer schreibt",
+        "paragraphs": [
+          "Der Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger als Node.js Web App, und die Domain ist seit dem 17.11.2024 bei Hostinger registriert. Die Seite nutzt kein WordPress, und niemand aus dem Team hat WordPress bei Hostinger genutzt. Dieser Text fasst zusammen, was die brasilianische und die internationale Hostinger-Seite für WordPress-Hosting und die Bedingungen der Google-Ads-Aktion sagen, gelesen am 30.10.2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Bei den WordPress-Tarifen haben wir den Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+      "label": "WordPress-Tarife mit SONAR20 ansehen",
+      "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team hat WordPress bei Hostinger genutzt.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-ki-builder-lohnt-sich",
+        "title": "KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?"
+      },
+      {
+        "slug": "hostinger-gutschein-empfehlungscode",
+        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+      },
+      {
+        "slug": "hostinger-domain-kaufen-oder-umziehen",
+        "title": "Domain bei Hostinger: dort kaufen, umziehen oder woanders registrieren? Preis, Verlängerung und was Sie prüfen sollten"
+      }
+    ]
+  },
+  {
+    "id": 743,
+    "slug": "wordpress-hostinger-ja",
+    "locale": "ja",
+    "translationKey": "hostinger-wordpress",
+    "title": "Hostinger の WordPress：どのプランを選び、どう始めるか",
+    "seoTitle": "Hostinger の WordPress：プランの選び方と始め方",
+    "type": "選び方ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編集・分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "一つのサイト、3つのサイト、複数サイト、ショップのどれに Hostinger の WordPress プランが合うか、そして始め方。2026年10月30日の料金と更新料。",
+    "metaDescription": "Hostinger の WordPress：Premium、Unlimited、Cloud Startup のどれを選ぶか。プロジェクト別のプラン、2026年10月30日の料金と更新料、始めるためのチェックリスト。",
+    "publishedAt": "2026年10月30日",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+    "imageAlt": "Hostinger のロゴとサイト・サーバーのアイコン、帯に WordPress の文字",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "すでに Hostinger で WordPress を使うと決めている人には、Premium は3サイトまで、Unlimited と Cloud Startup は複数サイトやショップ向けで、どちらも毎日のバックアップが付きます。WordPress はどのプランにも含まれ、違いはサイト数、バックアップ、更新料です。下の表で比べてください。"
+        ]
+      },
+      {
+        "heading": "プロジェクト別のプラン",
+        "paragraphs": [
+          "Hostinger は WordPress だけのプランを売っていません。WordPress はサイト向けのホスティングプランに含まれています。2026年10月30日に読んだ Hostinger のページでは、WordPress と Node.js がすべてのプランに含まれるとされています。つまり問題は「WordPress があるプランはどれか」ではなく、「サイトがいくつ必要で、どれだけバックアップが要るか」です。"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-ja.webp",
+          "alt": "Hostinger の WordPress プランをプロジェクト別に示した図：3サイトまでは Premium、複数サイトや WooCommerce のショップは Unlimited、ショップや多いアクセスは Cloud Startup",
+          "caption": "選び方の要点：サイト数、容量、バックアップでプランが決まります。Em Casa com Cecília の図。Hostinger の国際版ページ（2026年10月30日）に基づく。",
+          "objectFit": "contain",
+          "aspectRatio": 1.6981
+        },
+        "bullets": [
+          "**最大3サイト：Premium。** ブログと2つのプロジェクト、またはメインサイトの横のテスト用サイトに。20 GB SSD と毎週のバックアップです。国際版のページでは Premium が入口のプランです。",
+          "**複数サイト、またはWooCommerceのショップ：Unlimited。** サイト数無制限、50 GB NVMe、毎日のバックアップ。ショップでは注文と在庫が毎日変わるので、週1回のバックアップだと1週間分が抜けます。",
+          "**ショップ、またはアクセスの多いサイト：Cloud Startup。** サイト数無制限、100 GB NVMe、毎日とオンデマンドのバックアップ。ページで一番高いプランで、更新料も最も高くなります。"
+        ],
+        "postParagraphs": [
+          "2つのプランで迷ったら、バックアップを見てください。サイトを毎週は変えない人は毎週のバックアップで十分です。毎日販売や投稿をするなら、毎日のバックアップが必要です。"
+        ]
+      },
+      {
+        "heading": "2026年10月30日の料金と更新料",
+        "paragraphs": [
+          "以下の料金は、Hostinger の国際版 WordPress ホスティングのページから、米ドルで読んだものです（2026年10月30日、48か月プラン、ブラックフライデーのキャンペーン中）。月額は合計を48で割ったものです。更新料は最初の期間の後の月額です。これは国際版のドル建ての料金で、国や通貨によって異なる場合があります。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "プラン",
+            "月額（48か月）",
+            "合計",
+            "更新料",
+            "サイトと容量",
+            "バックアップ"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$2.49",
+              "US$119.52",
+              "US$10.99/月",
+              "3サイト、20 GB SSD",
+              "毎週"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$3.49",
+              "US$167.52",
+              "US$16.99/月",
+              "サイト数無制限、50 GB NVMe",
+              "毎日"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$7.99",
+              "US$383.52",
+              "US$25.99/月",
+              "サイト数無制限、100 GB NVMe",
+              "毎日とオンデマンド"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "このページには、キャンペーンの終了日は書かれていません。料金は変わることがあります。"
+        ],
+        "emphasis": "更新料は、プロモーション価格の約3〜5倍です。プランは入口の価格だけでなく、更新料の列で選んでください。"
+      },
+      {
+        "heading": "プランに含まれるもの",
+        "paragraphs": [
+          "2026年10月30日のページによる内容です。当サイトでは検証していません。"
+        ],
+        "bullets": [
+          "**すべてのプランに WordPress と Node.js。**",
+          "**ワンクリックインストールと、内部のプラグイン。** ページのFAQで触れられていますが、プランごとの違いは書かれていません。",
+          "**LiteSpeed サーバーとスマートキャッシュ。** WordPress ホスティング全般について書かれています。どのプランかは書かれていません。"
+        ]
+      },
+      {
+        "heading": "始め方：チェックリスト",
+        "bullets": [
+          "**1. サイト数を数える。** 1つ、3つまで、それ以上。ほとんどの場合、これでプランが決まります。",
+          "**2. ドメインを決める。** 持っているドメインを使うか、新しく取得します。更新日を控えておきましょう。",
+          "**3. パネルから WordPress をインストールする。** ページではワンクリックインストールと書かれています。何かをダウンロードする必要はありません。",
+          "**4. コンテンツの前にテーマを選ぶ。** サイトがいっぱいになってからテーマを変えると手間がかかります。シンプルで、定期的に更新されているテーマを選びましょう。",
+          "**5. プラグインは少なく。** 今必要なものから始めます：お問い合わせフォーム、SEO、ショップならWooCommerce。プラグインが増えるほど、更新する作業も増えます。",
+          "**6. 変更の前にバックアップを取る。** テーマの変更、プラグインの更新、ショップの変更の前に、パネルで最後のバックアップの日時を確認しましょう。毎週バックアップのプランでは特に重要です。"
+        ],
+        "postParagraphs": [
+          "Hostinger の料金、更新、返金の仕組みは、[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja) で説明しています。"
+        ]
+      },
+      {
+        "heading": "Google 広告を使っている場合",
+        "paragraphs": [
+          "プロモーションの規約（2026年10月30日に確認）によると、Hostinger のパネルの連携から Google 広告のアカウントを作成または接続し、最初の60日間に60,000円（JPY 60,000）を広告費として使うと、同額の60,000円の広告クレジットが得られます（日本の場合）。対象かどうかは Google が判断し、プロモーションは変更されることがあり、ページには有効期限が書かれていません。すでに使うつもりだった人向けの特典で、広告を始める理由にはなりません。"
+        ]
+      },
+      {
+        "heading": "WordPress を使わない場合",
+        "paragraphs": [
+          "インストールやテーマ、プラグインの更新をしたくない場合は、同じプランに Hostinger の AI ビルダーも含まれています。プロジェクト別の比較は、[Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？](/ja/reviews/hostinger-ai-builder-ja) にあります。必要な機能がプラグイン名で決まっているなら、WordPress を選んでください。"
+        ]
+      },
+      {
+        "heading": "SONAR20 クーポンと価格",
+        "paragraphs": [
+          "コード **SONAR20** で、**最初の期間が20%割引**になります。カートのクーポン欄に入力するか、この記事のリンクから入ってください。WordPress プランでは SONAR20 を検証していません。支払う前にカートで価格を確認してください。最初の期間の後は更新料が適用されます。コードのルールと他の商品は、[Hostinger のクーポン](/ja/coupons/hostinger) にあります。"
+        ]
+      },
+      {
+        "heading": "どのプランを選ぶか：結論",
+        "paragraphs": [
+          "**Premium を選ぶ**のは、3サイトまでの場合です。バックアップは毎週で、3つのプランの中で更新料が一番低いです。",
+          "**Unlimited を選ぶ**のは、ショップや複数のサイトがある場合です。毎日のバックアップが主な理由で、それはこのプランから始まります。",
+          "**Cloud Startup** は、Unlimited では足りない場合だけ。一番高く、25.99 US$ の更新料は大きな負担です。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Hostinger の WordPress で一番安いプランは？ 2026年10月30日時点では Premium で、48か月で月額2.49 US$（合計119.52 US$）、3サイトまで。更新料は月額10.99 US$です。",
+          "Hostinger の WordPress はインストール済みですか？ ページではすべてのプランに WordPress が含まれ、パネルからのワンクリックインストールが書かれています。プランごとのインストール方法までは説明されていません。",
+          "Hostinger は WordPress で LiteSpeed を使っていますか？ ページでは WordPress ホスティングの LiteSpeed サーバーとスマートキャッシュに触れていますが、どのプランかは書かれていません。",
+          "オンラインショップ向けの Hostinger の WordPress プランは？ Unlimited です。毎日のバックアップとサイト数無制限が理由です。アクセスの多いショップなら Cloud Startup で、オンデマンドのバックアップがあります。",
+          "SONAR20 は Hostinger の WordPress プランで使えますか？ WordPress プランでは SONAR20 を検証していません。カートで確認してください。使える場合は、最初の期間が20%割引です。"
+        ]
+      },
+      {
+        "heading": "この記事を書いた人",
+        "paragraphs": [
+          "Em Casa com Cecília は Hostinger のマネージドホスティング上で Node.js Web App として動いており、ドメインは2024年11月17日から Hostinger に登録されています。このサイトは WordPress を使っておらず、チームの誰も Hostinger の WordPress を使ったことはありません。この文章は、Hostinger の WordPress ホスティングのページ（ブラジル版と国際版）と Google 広告プロモーションの規約を、2026年10月30日に読んでまとめたものです。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。WordPress プランでは検証していません。カートで価格を確認してください。",
+      "label": "WordPress プランを SONAR20 で見る",
+      "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も Hostinger の WordPress は使っていません。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-ai-builder-ja",
+        "title": "Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？"
+      },
+      {
+        "slug": "hostinger-referral-code-ja",
+        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+      },
+      {
+        "slug": "hostinger-domain-ja",
+        "title": "Hostingerのドメイン：そこで買う、移管する、別の場所で登録する？ 料金、更新料、確認すべきこと"
+      }
+    ]
+  },
+  {
+    "id": 744,
+    "slug": "wordpress-hostinger-ko",
+    "locale": "ko",
+    "translationKey": "hostinger-wordpress",
+    "title": "호스팅어 WordPress: 어떤 플랜을 고를지, 어떻게 시작할지",
+    "seoTitle": "호스팅어 WordPress: 플랜 고르기와 시작 방법",
+    "type": "선택 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "편집 및 분석",
+        "initials": "BL"
+      }
+    ],
+    "description": "호스팅어에서 사이트 한 개, 세 개, 여러 개 또는 스토어에 맞는 WordPress 플랜과 시작 방법. 2026년 10월 30일 기준 달러 가격과 갱신가.",
+    "metaDescription": "호스팅어 WordPress: Premium, Unlimited, Cloud Startup 중 무엇을 고를까? 프로젝트별 플랜, 2026년 10월 30일 기준 달러 가격과 갱신가, 시작 체크리스트.",
+    "publishedAt": "2026년 10월 30일",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+    "imageAlt": "호스팅어 로고와 사이트·서버 아이콘, 띠에 적힌 WordPress",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "WordPress를 호스팅어에서 쓰기로 했다면, Premium은 사이트 3개까지 맞고, Unlimited는 여러 사이트나 스토어에 맞으며 백업을 매일 받습니다. Cloud Startup은 트래픽이 많은 스토어와 사이트를 위한 플랜입니다. WordPress는 모든 플랜에 있으니, 고르는 기준은 사이트 수, 백업, 갱신가입니다. 아래 표를 보세요."
+        ]
+      },
+      {
+        "heading": "프로젝트별 플랜",
+        "paragraphs": [
+          "호스팅어는 WordPress만 따로 파는 플랜이 없고, WordPress는 사이트 호스팅 플랜에 들어 있습니다. 호스팅어 공식 페이지는 모든 플랜에 WordPress와 Node.js가 포함된다고 말합니다. 그러니 질문은 \"어느 플랜에 WordPress가 있나?\"가 아니라 \"사이트가 몇 개이고 백업이 얼마나 필요한가?\"입니다."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-ko.webp",
+          "alt": "프로젝트별 WordPress 플랜 표: 사이트 3개까지는 Premium, 여러 사이트나 WooCommerce 스토어는 Unlimited, 트래픽이 많은 스토어나 사이트는 Cloud Startup",
+          "caption": "표 요약: 사이트 수, 용량, 백업이 플랜을 정합니다. 2026년 10월 30일에 읽은 호스팅어 페이지를 바탕으로 Em Casa com Cecília가 만든 표입니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6981
+        },
+        "bullets": [
+          "**사이트 1~3개: Premium.** 3개 사이트, 20 GB SSD, 주간 백업. 사이트가 하나뿐이라도 이 플랜이 국제 사이트에서 가장 낮은 단계입니다.",
+          "**여러 사이트 또는 WooCommerce 스토어: Unlimited.** 사이트 무제한, 50 GB NVMe, 매일 백업. 스토어에서는 주문과 재고가 매일 바뀌니, 주간 백업이면 일주일치가 빠집니다.",
+          "**트래픽이 많은 스토어나 사이트: Cloud Startup.** 사이트 무제한, 100 GB NVMe. 가장 비싼 플랜이고, 갱신가도 가장 큽니다."
+        ],
+        "postParagraphs": [
+          "두 플랜 사이에서 고민된다면 백업을 보세요. 사이트를 매주 손대지 않는다면 주간 백업으로 충분하고, 매일 판매하거나 게시한다면 매일 백업이 필요합니다."
+        ]
+      },
+      {
+        "heading": "2026년 10월 30일 가격과 갱신",
+        "paragraphs": [
+          "아래 가격은 호스팅어 국제 사이트의 미국 달러 가격입니다. 2026년 10월 30일 블랙프라이데이 캠페인 기간에 읽었고, 48개월 선결제 기준입니다. 국가와 통화에 따라 달라질 수 있습니다. 월 가격은 선결제 총액을 48로 나눈 값이고, 갱신가는 첫 기간이 끝난 뒤의 월 가격입니다:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "플랜",
+            "월 (48개월)",
+            "48개월 총액",
+            "갱신가",
+            "사이트와 용량",
+            "백업"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2.49",
+              "US$ 119.52",
+              "월 US$ 10.99",
+              "3개 사이트, 20 GB SSD",
+              "주간"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3.49",
+              "US$ 167.52",
+              "월 US$ 16.99",
+              "사이트 무제한, 50 GB NVMe",
+              "매일"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7.99",
+              "US$ 383.52",
+              "월 US$ 25.99",
+              "사이트 무제한, 100 GB NVMe",
+              "장바구니에서 확인"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "계산하면 이렇습니다. Premium은 48 × US$ 2.49 = **US$ 119.52**이고 갱신은 월 US$ 10.99입니다. Unlimited는 48 × US$ 3.49 = **US$ 167.52**이고 갱신은 월 US$ 16.99입니다. Cloud Startup은 48 × US$ 7.99 = **US$ 383.52**이고 갱신은 월 US$ 25.99입니다.",
+          "페이지에서 캠페인의 끝나는 날짜는 찾지 못했고, 가격은 바뀔 수 있습니다."
+        ],
+        "emphasis": "갱신가는 프로모션 가격의 3~5배입니다. 플랜은 갱신가 열을 보고 고르세요."
+      },
+      {
+        "heading": "플랜에 이미 들어 있는 것",
+        "paragraphs": [
+          "2026년 10월 30일 호스팅어 공식 페이지 기준이며, 우리가 테스트한 것은 아닙니다."
+        ],
+        "bullets": [
+          "**WordPress와 Node.js가 모든 플랜에 있습니다.**",
+          "**원클릭 설치 도구:** 페이지의 FAQ가 언급합니다. 플랜마다 무엇이 다른지는 설명하지 않습니다.",
+          "**LiteSpeed 서버와 스마트 캐시:** 호스팅어가 WordPress 호스팅 전반에 대해 언급합니다. 어느 플랜에 해당하는지는 말하지 않습니다."
+        ]
+      },
+      {
+        "heading": "시작 체크리스트",
+        "bullets": [
+          "**1. 사이트 수를 세세요.** 하나, 세 개, 또는 그 이상. 대부분의 경우 이것만으로 플랜이 정해집니다.",
+          "**2. 도메인을 정하세요.** 이미 가진 도메인을 연결하거나 새로 등록하세요. 갱신일을 적어 두세요.",
+          "**3. 패널에서 WordPress를 설치하세요.** 호스팅어는 원클릭 설치 도구를 언급합니다. 따로 내려받을 것은 없습니다.",
+          "**4. 콘텐츠보다 테마를 먼저 고르세요.** 사이트가 다 찬 뒤에 테마를 바꾸면 손이 많이 갑니다. 단순하고 자주 업데이트되는 테마를 고르세요.",
+          "**5. 플러그인은 적게 설치하세요.** 오늘 필요한 것부터 시작하세요: 문의 양식, SEO, 스토어라면 WooCommerce. 플러그인 하나가 늘 때마다 업데이트할 것도 하나씩 늘어납니다.",
+          "**6. 손대기 전에 백업부터 확인하세요.** 테마를 바꾸거나 플러그인을 업데이트하거나 스토어를 고치기 전에, 패널에서 마지막 백업 시점을 확인하세요. 주간 백업 플랜이라면 더 중요합니다."
+        ],
+        "postParagraphs": [
+          "호스팅어가 어떻게 청구하고, 갱신하고, 환불하는지는 [호스팅어는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에 있습니다."
+        ]
+      },
+      {
+        "heading": "이미 Google에 광고하고 있다면",
+        "paragraphs": [
+          "프로모션 약관에 따르면(2026년 10월 30일 확인), 호스팅어 패널에서 Google Ads 계정을 만들거나 연결하고 처음 60일 동안 600,000원을 광고에 쓰면 600,000원의 광고 크레딧을 받을 자격이 생깁니다. 한국 기준입니다. 자격 여부는 Google이 정하고, 프로모션은 바뀔 수 있으며, 페이지에는 유효 기간이 없습니다. 원래 그 금액을 쓸 예정이었던 사람에게만 의미가 있고, 이것 때문에 광고를 시작할 이유는 아닙니다."
+        ]
+      },
+      {
+        "heading": "WordPress를 원하지 않는다면",
+        "paragraphs": [
+          "플러그인이나 테마를 설치하고 업데이트하고 싶지 않다면, 호스팅어의 AI 사이트 빌더(구 Horizons)도 있습니다. 프로젝트 유형별 비교는 [호스팅어 AI Builder(구 Horizons): 쓸 만한가, 아니면 WordPress인가?](/ko/reviews/hostinger-ai-builder-ko)에 있습니다. 필요한 기능에 이미 플러그인 이름이 붙어 있다면 WordPress에 머무르세요."
+        ]
+      },
+      {
+        "heading": "SONAR20 쿠폰과 가격",
+        "paragraphs": [
+          "쿠폰 코드 **SONAR20**을 장바구니의 쿠폰 칸에 넣거나 이 글의 링크로 들어가면 **첫 기간에 20%**가 할인됩니다. WordPress 플랜에서는 SONAR20을 테스트하지 않았습니다. 결제 전에 장바구니에서 가격을 확인하세요. 첫 기간이 끝나면 갱신가가 적용됩니다. 규칙과 다른 제품은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다."
+        ]
+      },
+      {
+        "heading": "어느 플랜을 고를까: 결론",
+        "paragraphs": [
+          "**Premium을 고르세요** 사이트가 한 개에서 세 개 사이일 때. 가장 낮은 단계이고, 백업은 주간입니다.",
+          "**Unlimited를 고르세요** 스토어가 있거나 사이트가 많을 때. 매일 백업이 핵심 이유이고, 여기서 시작하면 됩니다.",
+          "**Cloud Startup은** Unlimited로 부족할 때만 의미가 있습니다. 가장 비싸고, 월 US$ 25.99의 갱신가가 부담됩니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "WordPress 호스팅어 플랜 중 가장 저렴한 것은 무엇인가요? 국제 사이트 기준 2026년 10월 30일에는 Premium입니다. 48개월 선결제 월 US$ 2.49, 총액 US$ 119.52이고, 3개 사이트까지 쓸 수 있습니다. 갱신은 월 US$ 10.99입니다.",
+          "호스팅어에서 WordPress가 설치되어 나오나요? 호스팅어는 모든 플랜에 WordPress가 포함되고, 패널에 원클릭 설치 도구가 있다고 말합니다. 플랜별 설치 방식은 설명하지 않습니다.",
+          "호스팅어는 WordPress에 LiteSpeed를 쓰나요? 호스팅어는 WordPress 호스팅 전반에 LiteSpeed 서버와 스마트 캐시를 언급합니다. 어느 플랜에 해당하는지는 말하지 않습니다.",
+          "온라인 스토어에는 어느 WordPress 플랜이 맞나요? Unlimited입니다. 사이트 무제한과 매일 백업이 있습니다. 트래픽이 아주 많은 스토어라면 Cloud Startup을 보세요. 백업 옵션은 장바구니에서 확인하세요.",
+          "WordPress 플랜에도 SONAR20을 쓸 수 있나요? WordPress 플랜은 테스트하지 않았습니다. 장바구니에서 확인하세요. 적용된다면 20%는 첫 기간에만 적용됩니다."
+        ]
+      },
+      {
+        "heading": "작성자 소개",
+        "paragraphs": [
+          "Em Casa com Cecília는 호스팅어의 관리형 호스팅에서 Node.js Web App으로 운영되고, 도메인은 2024년 11월부터 호스팅어에 등록되어 있습니다. 이 사이트는 WordPress를 쓰지 않으며, 팀 중 누구도 호스팅어에서 WordPress를 쓴 적이 없습니다. 이 글은 2026년 10월 30일에 읽은 호스팅어의 WordPress 호스팅 페이지와 Google Ads 프로모션 약관을 정리한 것입니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 적용됩니다. WordPress 플랜은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "label": "SONAR20으로 WordPress 플랜 보기",
+      "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 호스팅어에서 WordPress를 쓰지 않았습니다.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-ai-builder-ko",
+        "title": "Hostinger AI Builder(구 Horizons): 쓸 만한가, 아니면 WordPress인가?"
+      },
+      {
+        "slug": "hostinger-referral-code-ko",
+        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+      },
+      {
+        "slug": "hostinger-domain-ko",
+        "title": "Hostinger 도메인: 여기서 살까, 이전할까, 다른 곳에 등록할까? 가격, 갱신, 결제 전 확인할 점"
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 745,
+    "slug": "wordpress-hostinger-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "hostinger-wordpress",
+    "title": "Hostinger WordPress：该选哪个套餐，怎么开始",
+    "seoTitle": "Hostinger WordPress：选哪个套餐与如何开始",
+    "type": "选择指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "编辑与分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 上适合一个、三个、多个网站或网店的 WordPress 套餐，以及开始使用的步骤。2026年10月30日的美元价格与续费价。",
+    "metaDescription": "Hostinger WordPress：Premium、Unlimited 还是 Cloud Startup？按项目选套餐，2026年10月30日的美元价格与续费，以及开始使用的清单。",
+    "publishedAt": "2026年10月30日",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+    "imageAlt": "Hostinger 标志、网站和服务器图标，横条上写着 WordPress",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "如果你已经决定在 Hostinger 上使用 WordPress：Premium 可放 3 个网站；Unlimited 适合多个网站或网店，每日备份；Cloud Startup 适合流量很大的网店和网站。所有套餐都包含 WordPress，决定选择的是网站数量、备份和续费价。下面有一张表。"
+        ]
+      },
+      {
+        "heading": "按项目选套餐",
+        "paragraphs": [
+          "Hostinger 没有单独出售 WordPress 的套餐，WordPress 包含在网站主机套餐里。Hostinger 官方页面称所有套餐都包含 WordPress 和 Node.js。所以问题不是“哪个套餐有 WordPress”，而是“我会有几个网站，需要多少备份”。"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hans.webp",
+          "alt": "按项目选 WordPress 套餐的表：3 个网站以内选 Premium，多个网站或 WooCommerce 网店选 Unlimited，流量很大的网店选 Cloud Startup",
+          "caption": "表格小结：网站数量和备份决定套餐。Em Casa com Cecília 根据 2026年10月30日 Hostinger 页面上的说法制作。",
+          "objectFit": "contain",
+          "aspectRatio": 1.6981
+        },
+        "bullets": [
+          "**1 到 3 个网站：Premium。** 3 个网站，20 GB SSD，每周备份。如果只做一个网站，Premium 也是国际站页面上最低的一档。",
+          "**多个网站，或带 WooCommerce 的网店：Unlimited。** 网站不限，50 GB NVMe，每日备份。网店的订单和库存每天都在变，每周备份会漏掉整整一周的数据。",
+          "**流量很大的网店或网站：Cloud Startup。** 网站不限，100 GB NVMe。这是最贵的一档，续费也最高。"
+        ],
+        "postParagraphs": [
+          "在两个套餐之间犹豫，就看备份。不常修改网站的人，每周备份够用；每天卖货或发布内容的人，需要每日备份。"
+        ]
+      },
+      {
+        "heading": "2026年10月30日的价格与续费",
+        "paragraphs": [
+          "以下价格来自 Hostinger 国际站（美元），于 2026年10月30日读取，当时正值黑色星期五活动期间，按 48 个月预付计算。月价为预付总额除以 48。价格可能因国家和货币而异。续费是第一个周期结束后的月价："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "套餐",
+            "每月（48 个月）",
+            "48 个月总价",
+            "续费",
+            "网站与空间",
+            "备份"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2.49",
+              "US$ 119.52",
+              "US$ 10.99/月",
+              "3 个网站，20 GB SSD",
+              "每周"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3.49",
+              "US$ 167.52",
+              "US$ 16.99/月",
+              "网站不限，50 GB NVMe",
+              "每日"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7.99",
+              "US$ 383.52",
+              "US$ 25.99/月",
+              "网站不限，100 GB NVMe",
+              "在购物车确认"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "计算方式：Premium 为 48 × US$ 2.49 = **US$ 119.52**，之后续费 US$ 10.99/月。Unlimited 为 48 × US$ 3.49 = **US$ 167.52**，续费 US$ 16.99/月。Cloud Startup 为 48 × US$ 7.99 = **US$ 383.52**，续费 US$ 25.99/月。",
+          "页面上没有显示活动的结束日期，价格可能变化。"
+        ],
+        "emphasis": "续费价是促销价的 3 到 5 倍。选套餐时请看续费那一列。"
+      },
+      {
+        "heading": "套餐已包含的内容",
+        "paragraphs": [
+          "以下内容来自 Hostinger 官方页面，2026年10月30日读取，我们没有亲自测试。"
+        ],
+        "bullets": [
+          "**所有套餐都包含 WordPress 和 Node.js。**",
+          "**一键安装工具：** 页面的常见问题提到它，但没有说明各套餐之间有什么不同。",
+          "**LiteSpeed 服务器和智能缓存：** 页面针对 WordPress 主机整体提到，没有说明属于哪些套餐。"
+        ]
+      },
+      {
+        "heading": "开始使用：清单",
+        "bullets": [
+          "**1. 数一数网站。** 一个、三个，还是更多。大多数情况下，这一点就决定了套餐。",
+          "**2. 确定域名。** 用你已有的域名，或注册一个新的。记下它的续费日期。",
+          "**3. 在面板里安装 WordPress。** Hostinger 提到了一键安装工具，不需要下载任何东西。",
+          "**4. 先选主题，再写内容。** 网站内容装满后再换主题很费事。选简单、更新频繁的主题。",
+          "**5. 少装插件。** 从今天需要的开始：联系表单、SEO，网店的话加 WooCommerce。每多一个插件，就多一样要更新。",
+          "**6. 动手前先备份。** 换主题、更新插件或改网店之前，在面板里确认最近一次备份的时间。每周备份的套餐更要这样做。"
+        ],
+        "postParagraphs": [
+          "Hostinger 如何收费、续费和退款，见 [Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "如果你已经在 Google 投放广告",
+        "paragraphs": [
+          "根据推广条款（2026年10月30日查阅），通过 Hostinger 面板创建或连接 Google Ads 账户，并在前 60 天内花费人民币 3,000 元，即可获得人民币 3,000 元的广告抵用金。以上为中国的数额。资格由 Google 决定，推广可能变动，页面也没有有效期。这只适合原本就打算花这笔钱的人，不是开始投放广告的理由。"
+        ]
+      },
+      {
+        "heading": "如果你不想用 WordPress",
+        "paragraphs": [
+          "如果你不想安装主题和插件，也不想更新任何东西，Hostinger 的 AI 建站工具（原 Horizons）同样可用。按项目类型的比较见 [Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？](/zh-hans/reviews/hostinger-ai-builder-zh-hans)。如果你需要的功能已经有了插件名字，就留在 WordPress。"
+        ]
+      },
+      {
+        "heading": "SONAR20 优惠码与价格",
+        "paragraphs": [
+          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可**首个周期享 20% 折扣**。我们没有在 WordPress 套餐上测试 SONAR20，请在付款前到购物车确认价格。首个周期之后，按续费价计算。规则和其他产品见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
+        ]
+      },
+      {
+        "heading": "选哪个套餐：结论",
+        "paragraphs": [
+          "**选 Premium**，如果你有一到三个网站。它是最低一档，备份是每周一次。",
+          "**选 Unlimited**，如果你有网店或很多网站。每日备份是主要理由，从这里开始就对了。",
+          "**Cloud Startup** 只在 Unlimited 不够用时才有意义。它最贵，每月 US$ 25.99 的续费压力很大。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Hostinger 上最便宜的 WordPress 套餐是哪个？按国际站 2026年10月30日的价格，是 Premium：48 个月预付每月 US$ 2.49，总价 US$ 119.52，最多 3 个网站。续费为每月 US$ 10.99。",
+          "Hostinger 会自动安装 WordPress 吗？官方页面说所有套餐都包含 WordPress，面板里有一键安装工具。它没有说明各套餐的安装方式有何不同。",
+          "Hostinger 的 WordPress 用 LiteSpeed 吗？页面针对 WordPress 主机整体提到 LiteSpeed 服务器和智能缓存，没有说明属于哪些套餐。",
+          "网店适合哪个 WordPress 套餐？Unlimited：网站不限，每日备份。流量非常大的网店可以看 Cloud Startup，100 GB NVMe。备份选项请在购物车确认。",
+          "SONAR20 能用于 WordPress 套餐吗？我们没有测试。请在购物车确认。如果可用，20% 只适用于首个周期。"
+        ]
+      },
+      {
+        "heading": "谁在写这篇文章",
+        "paragraphs": [
+          "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App，域名自 2024 年 11 月起在 Hostinger 注册。网站本身不使用 WordPress，团队中没有人在 Hostinger 上用过 WordPress。本文整理的是 2026年10月30日查阅的 Hostinger WordPress 主机页面和 Google Ads 推广条款。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。WordPress 套餐我们没有测试，请在购物车确认价格。",
+      "label": "通过 SONAR20 查看 WordPress 套餐",
+      "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你无需额外付费。团队中没有人在 Hostinger 上用过 WordPress。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-ai-builder-zh-hans",
+        "title": "Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？"
+      },
+      {
+        "slug": "hostinger-referral-code-zh-hans",
+        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+      },
+      {
+        "slug": "hostinger-domain-zh-hans",
+        "title": "Hostinger 域名：在这里买、转入，还是在别处注册？价格、续费与下单前要确认什么"
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 746,
+    "slug": "wordpress-hostinger-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "hostinger-wordpress",
+    "title": "Hostinger WordPress：該選哪個方案，怎麼開始",
+    "seoTitle": "Hostinger WordPress：選哪個方案與如何開始",
+    "type": "選擇指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編輯與分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 上適合一個、三個、多個網站或網路商店的 WordPress 方案，以及開始使用的步驟。2026年10月30日的美元價格與續訂價。",
+    "metaDescription": "Hostinger WordPress：Premium、Unlimited 還是 Cloud Startup？按專案選方案，2026年10月30日的美元價格與續訂，以及開始使用的清單。",
+    "publishedAt": "2026年10月30日",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+    "imageAlt": "Hostinger 標誌、網站與伺服器圖示，橫條上寫著 WordPress",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "如果你已經決定在 Hostinger 上使用 WordPress：Premium 可放 3 個網站；Unlimited 適合多個網站或網路商店，每日備份；Cloud Startup 適合流量很大的商店和網站。所有方案都包含 WordPress，決定選擇的是網站數量、備份和續訂價。下面有一張表。"
+        ]
+      },
+      {
+        "heading": "按專案選方案",
+        "paragraphs": [
+          "Hostinger 沒有單獨出售 WordPress 的方案，WordPress 包含在網站主機方案裡。Hostinger 官方頁面說所有方案都包含 WordPress 和 Node.js。所以問題不是「哪個方案有 WordPress」，而是「我會有幾個網站，需要多少備份」。"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hant.webp",
+          "alt": "按專案選 WordPress 方案的表：3 個網站以內選 Premium，多個網站或 WooCommerce 網路商店選 Unlimited，流量很大的商店選 Cloud Startup",
+          "caption": "表格小結：網站數量和備份決定方案。Em Casa com Cecília 依 2026年10月30日 Hostinger 頁面上的說法製作。",
+          "objectFit": "contain",
+          "aspectRatio": 1.6981
+        },
+        "bullets": [
+          "**1 至 3 個網站：Premium。** 3 個網站，20 GB SSD，每週備份。如果只做一個網站，Premium 也是國際站頁面上最低的一檔。",
+          "**多個網站，或帶 WooCommerce 的網路商店：Unlimited。** 網站不限，50 GB NVMe，每日備份。網路商店的訂單和庫存每天都在變，每週備份會漏掉整整一週的資料。",
+          "**流量很大的商店或網站：Cloud Startup。** 網站不限，100 GB NVMe。這是最貴的一檔，續訂價也最高。"
+        ],
+        "postParagraphs": [
+          "在兩個方案之間猶豫，就看備份。不常修改網站的人，每週備份夠用；每天賣貨或發布內容的人，需要每日備份。"
+        ]
+      },
+      {
+        "heading": "2026年10月30日的價格與續訂",
+        "paragraphs": [
+          "以下價格來自 Hostinger 國際站（美元），於 2026年10月30日讀取，當時正值黑色星期五活動期間，按 48 個月預付計算。月價為預付總額除以 48。價格可能因國家和貨幣而異。續訂是第一個週期結束後的月價："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "方案",
+            "每月（48 個月）",
+            "48 個月總價",
+            "續訂",
+            "網站與空間",
+            "備份"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 2.49",
+              "US$ 119.52",
+              "US$ 10.99/月",
+              "3 個網站，20 GB SSD",
+              "每週"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 3.49",
+              "US$ 167.52",
+              "US$ 16.99/月",
+              "網站不限，50 GB NVMe",
+              "每日"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+              "US$ 7.99",
+              "US$ 383.52",
+              "US$ 25.99/月",
+              "網站不限，100 GB NVMe",
+              "在購物車確認"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "計算方式：Premium 為 48 × US$ 2.49 = **US$ 119.52**，之後續訂 US$ 10.99/月。Unlimited 為 48 × US$ 3.49 = **US$ 167.52**，續訂 US$ 16.99/月。Cloud Startup 為 48 × US$ 7.99 = **US$ 383.52**，續訂 US$ 25.99/月。",
+          "頁面上沒有顯示活動的結束日期，價格可能變化。"
+        ],
+        "emphasis": "續訂價是促銷價的 3 到 5 倍。選方案時請看續訂那一欄。"
+      },
+      {
+        "heading": "方案已包含的內容",
+        "paragraphs": [
+          "以下內容來自 Hostinger 官方頁面，2026年10月30日讀取，我們沒有親自測試。"
+        ],
+        "bullets": [
+          "**所有方案都包含 WordPress 和 Node.js。**",
+          "**一鍵安裝工具：** 頁面的常見問題提到它，但沒有說明各方案之間有什麼不同。",
+          "**LiteSpeed 伺服器與智慧快取：** 頁面針對 WordPress 主機整體提到，沒有說明屬於哪些方案。"
+        ]
+      },
+      {
+        "heading": "開始使用：清單",
+        "bullets": [
+          "**1. 數一數網站。** 一個、三個，還是更多。大多數情況下，這一點就決定了方案。",
+          "**2. 確定網域。** 用你已有的網域，或註冊一個新的。記下它的續訂日期。",
+          "**3. 在面板裡安裝 WordPress。** Hostinger 提到了一鍵安裝工具，不需要下載任何東西。",
+          "**4. 先選主題，再寫內容。** 網站內容裝滿後再換主題很費事。選簡單、更新頻繁的主題。",
+          "**5. 少裝外掛。** 從今天需要的開始：聯絡表單、SEO，商店的話加 WooCommerce。每多一個外掛，就多一樣要更新。",
+          "**6. 動手前先備份。** 換主題、更新外掛或改商店之前，在面板裡確認最近一次備份的時間。每週備份的方案更要這樣做。"
+        ],
+        "postParagraphs": [
+          "Hostinger 如何收費、續訂和退款，見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "如果你已經在 Google 投放廣告",
+        "paragraphs": [
+          "依推廣條款（2026年10月30日查閱），透過 Hostinger 面板建立或連結 Google Ads 帳戶，並在前 60 天內花費 NT$12,000，即可獲得 NT$12,000 的廣告抵用金。以上為台灣的數額。資格由 Google 決定，推廣可能變動，頁面也沒有有效期。這只適合原本就打算花這筆錢的人，不是開始投放廣告的理由。"
+        ]
+      },
+      {
+        "heading": "如果你不想用 WordPress",
+        "paragraphs": [
+          "如果你不想安裝主題和外掛，也不想更新任何東西，Hostinger 的 AI 建站工具（原 Horizons）同樣可用。按專案類型的比較見[Hostinger AI Builder（原 Horizons）：值得用，還是選 WordPress？](/zh-hant/reviews/hostinger-ai-builder-zh-hant)。如果你需要的功能已經有了外掛名字，就留在 WordPress。"
+        ]
+      },
+      {
+        "heading": "SONAR20 優惠碼與價格",
+        "paragraphs": [
+          "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可**首期享 20% 折扣**。我們沒有在 WordPress 方案上測試 SONAR20，請在付款前到購物車確認價格。首期之後，按續訂價計算。規則和其他產品見[Hostinger 優惠頁](/zh-hant/coupons/hostinger)。"
+        ]
+      },
+      {
+        "heading": "選哪個方案：結論",
+        "paragraphs": [
+          "**選 Premium**，如果你有一到三個網站。它是最低一檔，備份是每週一次。",
+          "**選 Unlimited**，如果你有網路商店或很多網站。每日備份是主要理由，從這裡開始就對了。",
+          "**Cloud Startup** 只在 Unlimited 不夠用時才有意義。它最貴，每月 US$ 25.99 的續訂壓力很大。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Hostinger 上最便宜的 WordPress 方案是哪個？按國際站 2026年10月30日的價格，是 Premium：48 個月預付每月 US$ 2.49，總價 US$ 119.52，最多 3 個網站。續訂為每月 US$ 10.99。",
+          "Hostinger 會自動安裝 WordPress 嗎？官方頁面說所有方案都包含 WordPress，面板裡有一鍵安裝工具。它沒有說明各方案的安裝方式有何不同。",
+          "Hostinger 的 WordPress 用 LiteSpeed 嗎？頁面針對 WordPress 主機整體提到 LiteSpeed 伺服器和智慧快取，沒有說明屬於哪些方案。",
+          "網路商店適合哪個 WordPress 方案？Unlimited：網站不限，每日備份。流量非常大的商店可以看 Cloud Startup，100 GB NVMe。備份選項請在購物車確認。",
+          "SONAR20 能用於 WordPress 方案嗎？我們沒有測試。請在購物車確認。如果可用，20% 只適用於首期。"
+        ]
+      },
+      {
+        "heading": "誰在寫這篇文章",
+        "paragraphs": [
+          "Em Casa com Cecília 運行在 Hostinger 的代管主機上，是一個 Node.js Web App，網域自 2024 年 11 月起在 Hostinger 註冊。網站本身不使用 WordPress，團隊中沒有人在 Hostinger 上用過 WordPress。本文彙整的是 2026年10月30日查閱的 Hostinger WordPress 主機頁面和 Google Ads 推廣條款。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。WordPress 方案我們沒有測試，請在購物車確認價格。",
+      "label": "用 SONAR20 查看 WordPress 方案",
+      "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。團隊中沒有人在 Hostinger 上用過 WordPress。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-ai-builder-zh-hant",
+        "title": "Hostinger AI Builder（原 Horizons）：值得用，還是選 WordPress？"
+      },
+      {
+        "slug": "hostinger-referral-code-zh-hant",
+        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+      },
+      {
+        "slug": "hostinger-domain-zh-hant",
+        "title": "Hostinger 網域：在這裡買、轉入，還是在別處註冊？價格、續訂與下單前要確認什麼"
+      }
+    ],
+    "hideFromPortugueseListings": true
   }
 ];

@@ -1,0 +1,327 @@
+{
+  "id": 718,
+  "slug": "hostinger-ou-hostgator",
+  "locale": "pt",
+  "translationKey": "hostinger-ou-hostgator",
+  "title": "Hostinger ou HostGator: qual compensa para hospedar um site?",
+  "seoTitle": "Hostinger ou HostGator: qual compensa? Preço e recursos",
+  "type": "Guia de Escolha",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger ou HostGator: no plano de 1 site a Hostinger renova mais barato; com muitos sites, a HostGator. Preços de 30/10/2026, por mês e com a renovação.",
+  "metaDescription": "Hostinger ou HostGator? Preço promocional e renovação lado a lado em 30/10/2026, ciclos de 48 meses e 3 anos por mês, espaço, backup, servidor no Brasil e VPS.",
+  "publishedAt": "30 de outubro de 2026",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+  "imageAlt": "Dois ícones de servidor lado a lado, com o logo da Hostinger e a palavra Hosting na faixa",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Pela renovação lida em 30/10/2026, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço e servidor no Brasil declarado. Os ciclos são diferentes, 48 meses e 3 anos, então a comparação justa é por mês, com a renovação ao lado, na tabela abaixo."
+      ]
+    },
+    {
+      "heading": "Os quatro critérios que decidem",
+      "paragraphs": [
+        "As duas páginas vendem o primeiro período com desconto grande, e é aí que a comparação costuma errar. O que pesa no bolso é o mês depois da promoção. Antes dos preços, os quatro critérios que usamos para comparar:"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-pt.webp",
+        "alt": "Quadro com quatro critérios para escolher a hospedagem: renovação, quanto custa o mês depois do primeiro período; ciclo, por quantos meses vale a promoção; servidor no país, se a página diz onde fica o servidor; e VPS, se você precisa de recurso garantido",
+        "caption": "Os quatro critérios: renovação, ciclo, servidor no país e VPS. Quadro do Em Casa com Cecília.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4516
+      },
+      "bullets": [
+        "**Renovação.** A Hostinger mostra a renovação de cada plano no cartão. A HostGator não mostra no cartão; usamos a tabela de preço regular dela, a de valores sem desconto, como referência.",
+        "**Ciclo.** O preço promocional da Hostinger vale em plano de 48 meses; o da HostGator, em plano de 3 anos. O total de um não se compara com o total do outro. Por mês, sim.",
+        "**Servidor no país.** A HostGator diz, na página, que os servidores ficam no Brasil. As páginas de planos da Hostinger que lemos não dizem onde fica o servidor.",
+        "**VPS.** Se o site precisa de processador e memória garantidos, a comparação é outra, mais abaixo."
+      ]
+    },
+    {
+      "heading": "Preços da Hostinger em 30/10/2026",
+      "paragraphs": [
+        "Hospedagem de sites, página brasileira, plano de 48 meses pago de uma vez. A Hostinger está em campanha de Black Friday, sem data de fim na página:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Plano",
+          "Promocional",
+          "Total em 48 meses",
+          "Renovação",
+          "Sites",
+          "Armazenamento"
+        ],
+        "rows": [
+          [
+            "[Single](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+            "R$ 5,99/mês",
+            "R$ 287,52",
+            "R$ 23,99/mês",
+            "1",
+            "10 GB SSD"
+          ],
+          [
+            "[Premium](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+            "R$ 9,99/mês",
+            "R$ 479,52",
+            "R$ 38,99/mês",
+            "3",
+            "20 GB SSD"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+            "R$ 12,99/mês",
+            "R$ 623,52",
+            "R$ 64,99/mês",
+            "Ilimitados",
+            "50 GB NVMe"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+            "R$ 39,99/mês",
+            "R$ 1.919,52",
+            "R$ 129,99/mês",
+            "Ilimitados",
+            "100 GB NVMe"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Preços sem o SONAR20. A renovação da Hostinger é de 3 a 5 vezes o promocional. O Single tem backup semanal; o Unlimited, diário. Na Black Friday, a página dá créditos de IA em dobro para o criador de sites."
+      ]
+    },
+    {
+      "heading": "Preços da HostGator em 30/10/2026",
+      "paragraphs": [
+        "Hospedagem de sites, página brasileira, plano de 3 anos. A promocional é a dos cartões da página; a coluna da direita é a tabela de preço regular da HostGator, no plano trienal, que usamos como referência de renovação:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Plano",
+          "Promocional",
+          "Total em 3 anos",
+          "Preço regular (trienal)",
+          "Sites",
+          "Armazenamento"
+        ],
+        "rows": [
+          [
+            "P",
+            "R$ 10,09/mês",
+            "R$ 361,61",
+            "R$ 31,39/mês (R$ 1.130,04)",
+            "1",
+            "100 GB NVMe"
+          ],
+          [
+            "M",
+            "R$ 11,49/mês",
+            "R$ 412,17",
+            "R$ 40,89/mês (R$ 1.472,04)",
+            "+60",
+            "100 GB NVMe"
+          ],
+          [
+            "Turbo",
+            "R$ 18,69/mês",
+            "R$ 670,22",
+            "R$ 66,49/mês (R$ 2.393,64)",
+            "+150",
+            "150 GB NVMe"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Os cartões da HostGator mostram um preço \"De\" e um \"% OFF\". Não use esse número como renovação: no plano P, o \"De\" é R$ 1.652,04 por 3 anos, e a tabela de preço regular da própria HostGator diz R$ 1.130,04. A página também chama a campanha de \"Black November\", sem datas.",
+        "Os três planos citam backup diário, SSL, CDN, migração grátis, e-mail ilimitado por 1 ano e domínio grátis (1 no P, 2 no M, 3 no Turbo). Cada plano tem um teto de visitas por mês: até 80 mil no P, 120 mil no M e 400 mil no Turbo."
+      ]
+    },
+    {
+      "heading": "Lado a lado, por mês",
+      "paragraphs": [
+        "Os planos não batem um a um. Juntamos os mais próximos pelo número de sites, com o preço por mês no primeiro período e depois dele:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Para quem",
+          "Hostinger",
+          "HostGator"
+        ],
+        "rows": [
+          [
+            "1 site",
+            "Single: R$ 5,99/mês por 48 meses; renova a R$ 23,99/mês",
+            "P: R$ 10,09/mês por 3 anos; preço regular R$ 31,39/mês"
+          ],
+          [
+            "Vários sites",
+            "Unlimited: R$ 12,99/mês por 48 meses; renova a R$ 64,99/mês",
+            "M: R$ 11,49/mês por 3 anos; preço regular R$ 40,89/mês"
+          ],
+          [
+            "O plano mais alto",
+            "Cloud Startup: R$ 39,99/mês por 48 meses; renova a R$ 129,99/mês",
+            "Turbo: R$ 18,69/mês por 3 anos; preço regular R$ 66,49/mês"
+          ]
+        ]
+      },
+      "bullets": [
+        "**1 site:** a Hostinger é mais barata na promoção e depois dela. A HostGator dá 100 GB contra 10 GB do Single.",
+        "**Vários sites:** a HostGator é mais barata na promoção e bem mais barata depois (R$ 40,89 contra R$ 64,99 por mês). O Unlimited não tem limite de sites; o M diz mais de 60.",
+        "**O plano mais alto:** o Cloud Startup é o plano de nuvem da Hostinger e custa cerca do dobro do Turbo nas duas fases. Só compensa se você precisa do que ele entrega a mais; para muitos sites comuns, o Turbo resolve por menos.",
+        "**O Premium**, de 3 sites, não tem par na HostGator: fica entre o P e o M."
+      ],
+      "emphasis": "A promoção da Hostinger dura 48 meses e a da HostGator, 36. Por isso o total do primeiro ciclo engana: compare o preço por mês."
+    },
+    {
+      "heading": "O que o preço não mostra",
+      "bullets": [
+        "**Espaço.** A HostGator dá 100 GB já no plano de 1 site. Na Hostinger, os planos de entrada usam SSD de 10 e 20 GB; NVMe de 50 GB começa no Unlimited.",
+        "**Backup.** A HostGator cita backup diário nos três planos. Na Hostinger, o Single tem backup semanal e o Unlimited, diário.",
+        "**Servidor no Brasil.** A HostGator declara servidores no Brasil. Nas páginas de planos da Hostinger que lemos, a localização não aparece: pergunte ao suporte se isso pesa para você.",
+        "**Limite de visitas.** A HostGator põe um teto de visitas por mês em cada plano. Se o seu site está perto dele, conte com o plano de cima.",
+        "**Reembolso.** A HostGator anuncia 30 dias de garantia. Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel).",
+        "**Extras com prazo.** E-mail grátis \"por 1 ano\" e \"+3 meses grátis\" da HostGator vencem antes do plano. Na Hostinger, os créditos de IA em dobro são da campanha, e o domínio grátis vale por 1 ano do Premium para cima."
+      ]
+    },
+    {
+      "heading": "E se for VPS?",
+      "paragraphs": [
+        "Se você ainda não sabe se precisa de VPS ou de hospedagem compartilhada, comece por [VPS ou hospedagem compartilhada: qual escolher](/reviews/vps-ou-hospedagem-compartilhada-qual-escolher). Para quem já decidiu pelo VPS, os planos de entrada lado a lado:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Plano",
+          "vCPU",
+          "Memória",
+          "NVMe",
+          "Promocional",
+          "Renovação"
+        ],
+        "rows": [
+          [
+            "[Hostinger KVM 1](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20) (24 meses)",
+            "1",
+            "4 GB",
+            "50 GB",
+            "R$ 29,99/mês (lido em 30/10/2026)",
+            "R$ 59,99/mês"
+          ],
+          [
+            "[Hostinger KVM 2](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20) (24 meses)",
+            "2",
+            "8 GB",
+            "100 GB",
+            "R$ 42,99/mês (lido em 30/10/2026)",
+            "R$ 77,99/mês"
+          ],
+          [
+            "HostGator VPS NVMe 2 (3 anos)",
+            "1",
+            "2 GB",
+            "50 GB",
+            "R$ 20,99/mês (lido em 30/10/2026)",
+            "A página não mostra"
+          ],
+          [
+            "HostGator VPS NVMe 4 (3 anos)",
+            "2",
+            "4 GB",
+            "100 GB",
+            "R$ 30,39/mês (lido em 30/10/2026)",
+            "A página não mostra"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Com o mesmo número de vCPU, o VPS da Hostinger traz o dobro de memória, e o da HostGator custa menos na promoção. A HostGator diz que o VPS roda na Oracle Cloud no Brasil, com cPanel disponível e 1 IP dedicado; ela tem ainda o VPS NVMe 8 (4 vCPU, 8 GB, 200 GB) a R$ 45,49/mês. A tabela de preço regular do VPS da HostGator não abriu em 30/10/2026, então não dá para comparar a renovação: pergunte antes de fechar 3 anos."
+      ]
+    },
+    {
+      "heading": "Cupom SONAR20 na Hostinger",
+      "paragraphs": [
+        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. Testamos no carrinho em três produtos: o plano Startup de e-commerce, do Criador de lojas, em 29/10/2026, e o e-mail profissional e o Reach, em 30/10/2026. Nos planos de hospedagem desta tabela e no VPS, não testamos; confira no carrinho. Não testamos a renovação. A regra completa está em [cupons da Hostinger](/cupons/hostinger).",
+        "Não temos código nem link da HostGator. Os preços dela neste artigo são os da página, sem desconto nosso."
+      ]
+    },
+    {
+      "heading": "Qual escolher: o veredito",
+      "paragraphs": [
+        "**Escolha a Hostinger** para um site só, como blog, portfólio ou página de empresa: o Single custa menos na promoção e na renovação, e a promoção dura 48 meses. A Hostinger também é a escolha se você quer um VPS com mais memória pelo mesmo número de vCPU.",
+        "**Escolha a HostGator** para vários sites, ou se espaço em disco, backup diário em todo plano e servidor no Brasil declarado pesam para você. No plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
+        "**Nos dois casos**, olhe a coluna da renovação antes de pagar e confira o valor no carrinho. As duas estão em campanha e os preços podem mudar."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é melhor, Hostinger ou HostGator? Depende do plano. Em 30/10/2026, para 1 site, a Hostinger custa menos na promoção e na renovação; para vários sites, a HostGator custa menos nas duas fases e dá mais espaço.",
+        "Qual renova mais barato, Hostinger ou HostGator? No plano de 1 site, a Hostinger: R$ 23,99/mês contra R$ 31,39/mês do preço regular da HostGator. No plano para vários sites, a HostGator: R$ 40,89/mês contra R$ 64,99/mês do Unlimited.",
+        "Hostinger ou HostGator para VPS? Com o mesmo número de vCPU, a Hostinger traz o dobro de memória e a HostGator custa menos na promoção. A HostGator não mostra a renovação do VPS na página; pergunte antes de fechar.",
+        "A Hostinger tem servidor no Brasil? As páginas de planos que lemos em 30/10/2026 não dizem onde fica o servidor. A HostGator declara servidores no Brasil.",
+        "O cupom SONAR20 vale no VPS da Hostinger? Não testamos no VPS; confira no carrinho. Testamos no plano Startup de e-commerce, do Criador de lojas, em 29/10/2026, e o desconto é de 20% no primeiro período.",
+        "Dá para trocar de hospedagem sem perder o site? Dá, levando os arquivos e o banco de dados para a nova. A HostGator anuncia migração grátis; faça a troca antes de o plano antigo vencer."
+      ]
+    },
+    {
+      "heading": "Quem escreve",
+      "paragraphs": [
+        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado na Hostinger desde 17/11/2024. Ninguém da equipe usou a HostGator: este texto reúne o que as páginas brasileiras das duas dizem, lidas em 30/10/2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
+    "label": "Ver os planos com o SONAR20",
+    "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno. Ninguém da equipe usou a HostGator.",
+  "relatedArticles": [
+    {
+      "slug": "vps-ou-hospedagem-compartilhada-qual-escolher",
+      "title": "VPS ou hospedagem compartilhada: qual compensa para o seu site na Hostinger"
+    },
+    {
+      "slug": "hostinger-e-confiavel",
+      "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+    },
+    {
+      "slug": "cupom-hostinger-indicacao",
+      "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+    }
+  ]
+}

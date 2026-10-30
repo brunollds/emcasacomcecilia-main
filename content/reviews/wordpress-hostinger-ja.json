@@ -1,0 +1,211 @@
+{
+  "id": 743,
+  "slug": "wordpress-hostinger-ja",
+  "locale": "ja",
+  "translationKey": "hostinger-wordpress",
+  "title": "Hostinger の WordPress：どのプランを選び、どう始めるか",
+  "seoTitle": "Hostinger の WordPress：プランの選び方と始め方",
+  "type": "選び方ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編集・分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "一つのサイト、3つのサイト、複数サイト、ショップのどれに Hostinger の WordPress プランが合うか、そして始め方。2026年10月30日の料金と更新料。",
+  "metaDescription": "Hostinger の WordPress：Premium、Unlimited、Cloud Startup のどれを選ぶか。プロジェクト別のプラン、2026年10月30日の料金と更新料、始めるためのチェックリスト。",
+  "publishedAt": "2026年10月30日",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+  "imageAlt": "Hostinger のロゴとサイト・サーバーのアイコン、帯に WordPress の文字",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "クイックアンサー",
+      "paragraphs": [
+        "すでに Hostinger で WordPress を使うと決めている人には、Premium は3サイトまで、Unlimited と Cloud Startup は複数サイトやショップ向けで、どちらも毎日のバックアップが付きます。WordPress はどのプランにも含まれ、違いはサイト数、バックアップ、更新料です。下の表で比べてください。"
+      ]
+    },
+    {
+      "heading": "プロジェクト別のプラン",
+      "paragraphs": [
+        "Hostinger は WordPress だけのプランを売っていません。WordPress はサイト向けのホスティングプランに含まれています。2026年10月30日に読んだ Hostinger のページでは、WordPress と Node.js がすべてのプランに含まれるとされています。つまり問題は「WordPress があるプランはどれか」ではなく、「サイトがいくつ必要で、どれだけバックアップが要るか」です。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-ja.webp",
+        "alt": "Hostinger の WordPress プランをプロジェクト別に示した図：3サイトまでは Premium、複数サイトや WooCommerce のショップは Unlimited、ショップや多いアクセスは Cloud Startup",
+        "caption": "選び方の要点：サイト数、容量、バックアップでプランが決まります。Em Casa com Cecília の図。Hostinger の国際版ページ（2026年10月30日）に基づく。",
+        "objectFit": "contain",
+        "aspectRatio": 1.6981
+      },
+      "bullets": [
+        "**最大3サイト：Premium。** ブログと2つのプロジェクト、またはメインサイトの横のテスト用サイトに。20 GB SSD と毎週のバックアップです。国際版のページでは Premium が入口のプランです。",
+        "**複数サイト、またはWooCommerceのショップ：Unlimited。** サイト数無制限、50 GB NVMe、毎日のバックアップ。ショップでは注文と在庫が毎日変わるので、週1回のバックアップだと1週間分が抜けます。",
+        "**ショップ、またはアクセスの多いサイト：Cloud Startup。** サイト数無制限、100 GB NVMe、毎日とオンデマンドのバックアップ。ページで一番高いプランで、更新料も最も高くなります。"
+      ],
+      "postParagraphs": [
+        "2つのプランで迷ったら、バックアップを見てください。サイトを毎週は変えない人は毎週のバックアップで十分です。毎日販売や投稿をするなら、毎日のバックアップが必要です。"
+      ]
+    },
+    {
+      "heading": "2026年10月30日の料金と更新料",
+      "paragraphs": [
+        "以下の料金は、Hostinger の国際版 WordPress ホスティングのページから、米ドルで読んだものです（2026年10月30日、48か月プラン、ブラックフライデーのキャンペーン中）。月額は合計を48で割ったものです。更新料は最初の期間の後の月額です。これは国際版のドル建ての料金で、国や通貨によって異なる場合があります。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "プラン",
+          "月額（48か月）",
+          "合計",
+          "更新料",
+          "サイトと容量",
+          "バックアップ"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$2.49",
+            "US$119.52",
+            "US$10.99/月",
+            "3サイト、20 GB SSD",
+            "毎週"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$3.49",
+            "US$167.52",
+            "US$16.99/月",
+            "サイト数無制限、50 GB NVMe",
+            "毎日"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$7.99",
+            "US$383.52",
+            "US$25.99/月",
+            "サイト数無制限、100 GB NVMe",
+            "毎日とオンデマンド"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "このページには、キャンペーンの終了日は書かれていません。料金は変わることがあります。"
+      ],
+      "emphasis": "更新料は、プロモーション価格の約3〜5倍です。プランは入口の価格だけでなく、更新料の列で選んでください。"
+    },
+    {
+      "heading": "プランに含まれるもの",
+      "paragraphs": [
+        "2026年10月30日のページによる内容です。当サイトでは検証していません。"
+      ],
+      "bullets": [
+        "**すべてのプランに WordPress と Node.js。**",
+        "**ワンクリックインストールと、内部のプラグイン。** ページのFAQで触れられていますが、プランごとの違いは書かれていません。",
+        "**LiteSpeed サーバーとスマートキャッシュ。** WordPress ホスティング全般について書かれています。どのプランかは書かれていません。"
+      ]
+    },
+    {
+      "heading": "始め方：チェックリスト",
+      "bullets": [
+        "**1. サイト数を数える。** 1つ、3つまで、それ以上。ほとんどの場合、これでプランが決まります。",
+        "**2. ドメインを決める。** 持っているドメインを使うか、新しく取得します。更新日を控えておきましょう。",
+        "**3. パネルから WordPress をインストールする。** ページではワンクリックインストールと書かれています。何かをダウンロードする必要はありません。",
+        "**4. コンテンツの前にテーマを選ぶ。** サイトがいっぱいになってからテーマを変えると手間がかかります。シンプルで、定期的に更新されているテーマを選びましょう。",
+        "**5. プラグインは少なく。** 今必要なものから始めます：お問い合わせフォーム、SEO、ショップならWooCommerce。プラグインが増えるほど、更新する作業も増えます。",
+        "**6. 変更の前にバックアップを取る。** テーマの変更、プラグインの更新、ショップの変更の前に、パネルで最後のバックアップの日時を確認しましょう。毎週バックアップのプランでは特に重要です。"
+      ],
+      "postParagraphs": [
+        "Hostinger の料金、更新、返金の仕組みは、[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja) で説明しています。"
+      ]
+    },
+    {
+      "heading": "Google 広告を使っている場合",
+      "paragraphs": [
+        "プロモーションの規約（2026年10月30日に確認）によると、Hostinger のパネルの連携から Google 広告のアカウントを作成または接続し、最初の60日間に60,000円（JPY 60,000）を広告費として使うと、同額の60,000円の広告クレジットが得られます（日本の場合）。対象かどうかは Google が判断し、プロモーションは変更されることがあり、ページには有効期限が書かれていません。すでに使うつもりだった人向けの特典で、広告を始める理由にはなりません。"
+      ]
+    },
+    {
+      "heading": "WordPress を使わない場合",
+      "paragraphs": [
+        "インストールやテーマ、プラグインの更新をしたくない場合は、同じプランに Hostinger の AI ビルダーも含まれています。プロジェクト別の比較は、[Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？](/ja/reviews/hostinger-ai-builder-ja) にあります。必要な機能がプラグイン名で決まっているなら、WordPress を選んでください。"
+      ]
+    },
+    {
+      "heading": "SONAR20 クーポンと価格",
+      "paragraphs": [
+        "コード **SONAR20** で、**最初の期間が20%割引**になります。カートのクーポン欄に入力するか、この記事のリンクから入ってください。WordPress プランでは SONAR20 を検証していません。支払う前にカートで価格を確認してください。最初の期間の後は更新料が適用されます。コードのルールと他の商品は、[Hostinger のクーポン](/ja/coupons/hostinger) にあります。"
+      ]
+    },
+    {
+      "heading": "どのプランを選ぶか：結論",
+      "paragraphs": [
+        "**Premium を選ぶ**のは、3サイトまでの場合です。バックアップは毎週で、3つのプランの中で更新料が一番低いです。",
+        "**Unlimited を選ぶ**のは、ショップや複数のサイトがある場合です。毎日のバックアップが主な理由で、それはこのプランから始まります。",
+        "**Cloud Startup** は、Unlimited では足りない場合だけ。一番高く、25.99 US$ の更新料は大きな負担です。"
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "Hostinger の WordPress で一番安いプランは？ 2026年10月30日時点では Premium で、48か月で月額2.49 US$（合計119.52 US$）、3サイトまで。更新料は月額10.99 US$です。",
+        "Hostinger の WordPress はインストール済みですか？ ページではすべてのプランに WordPress が含まれ、パネルからのワンクリックインストールが書かれています。プランごとのインストール方法までは説明されていません。",
+        "Hostinger は WordPress で LiteSpeed を使っていますか？ ページでは WordPress ホスティングの LiteSpeed サーバーとスマートキャッシュに触れていますが、どのプランかは書かれていません。",
+        "オンラインショップ向けの Hostinger の WordPress プランは？ Unlimited です。毎日のバックアップとサイト数無制限が理由です。アクセスの多いショップなら Cloud Startup で、オンデマンドのバックアップがあります。",
+        "SONAR20 は Hostinger の WordPress プランで使えますか？ WordPress プランでは SONAR20 を検証していません。カートで確認してください。使える場合は、最初の期間が20%割引です。"
+      ]
+    },
+    {
+      "heading": "この記事を書いた人",
+      "paragraphs": [
+        "Em Casa com Cecília は Hostinger のマネージドホスティング上で Node.js Web App として動いており、ドメインは2024年11月17日から Hostinger に登録されています。このサイトは WordPress を使っておらず、チームの誰も Hostinger の WordPress を使ったことはありません。この文章は、Hostinger の WordPress ホスティングのページ（ブラジル版と国際版）と Google 広告プロモーションの規約を、2026年10月30日に読んでまとめたものです。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。WordPress プランでは検証していません。カートで価格を確認してください。",
+    "label": "WordPress プランを SONAR20 で見る",
+    "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も Hostinger の WordPress は使っていません。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-ai-builder-ja",
+      "title": "Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？"
+    },
+    {
+      "slug": "hostinger-referral-code-ja",
+      "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+    },
+    {
+      "slug": "hostinger-domain-ja",
+      "title": "Hostingerのドメイン：そこで買う、移管する、別の場所で登録する？ 料金、更新料、確認すべきこと"
+    }
+  ]
+}

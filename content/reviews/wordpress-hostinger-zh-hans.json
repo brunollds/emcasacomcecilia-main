@@ -1,0 +1,212 @@
+{
+  "id": 745,
+  "slug": "wordpress-hostinger-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "hostinger-wordpress",
+  "title": "Hostinger WordPress：该选哪个套餐，怎么开始",
+  "seoTitle": "Hostinger WordPress：选哪个套餐与如何开始",
+  "type": "选择指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "编辑与分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger 上适合一个、三个、多个网站或网店的 WordPress 套餐，以及开始使用的步骤。2026年10月30日的美元价格与续费价。",
+  "metaDescription": "Hostinger WordPress：Premium、Unlimited 还是 Cloud Startup？按项目选套餐，2026年10月30日的美元价格与续费，以及开始使用的清单。",
+  "publishedAt": "2026年10月30日",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+  "imageAlt": "Hostinger 标志、网站和服务器图标，横条上写着 WordPress",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "如果你已经决定在 Hostinger 上使用 WordPress：Premium 可放 3 个网站；Unlimited 适合多个网站或网店，每日备份；Cloud Startup 适合流量很大的网店和网站。所有套餐都包含 WordPress，决定选择的是网站数量、备份和续费价。下面有一张表。"
+      ]
+    },
+    {
+      "heading": "按项目选套餐",
+      "paragraphs": [
+        "Hostinger 没有单独出售 WordPress 的套餐，WordPress 包含在网站主机套餐里。Hostinger 官方页面称所有套餐都包含 WordPress 和 Node.js。所以问题不是“哪个套餐有 WordPress”，而是“我会有几个网站，需要多少备份”。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hans.webp",
+        "alt": "按项目选 WordPress 套餐的表：3 个网站以内选 Premium，多个网站或 WooCommerce 网店选 Unlimited，流量很大的网店选 Cloud Startup",
+        "caption": "表格小结：网站数量和备份决定套餐。Em Casa com Cecília 根据 2026年10月30日 Hostinger 页面上的说法制作。",
+        "objectFit": "contain",
+        "aspectRatio": 1.6981
+      },
+      "bullets": [
+        "**1 到 3 个网站：Premium。** 3 个网站，20 GB SSD，每周备份。如果只做一个网站，Premium 也是国际站页面上最低的一档。",
+        "**多个网站，或带 WooCommerce 的网店：Unlimited。** 网站不限，50 GB NVMe，每日备份。网店的订单和库存每天都在变，每周备份会漏掉整整一周的数据。",
+        "**流量很大的网店或网站：Cloud Startup。** 网站不限，100 GB NVMe。这是最贵的一档，续费也最高。"
+      ],
+      "postParagraphs": [
+        "在两个套餐之间犹豫，就看备份。不常修改网站的人，每周备份够用；每天卖货或发布内容的人，需要每日备份。"
+      ]
+    },
+    {
+      "heading": "2026年10月30日的价格与续费",
+      "paragraphs": [
+        "以下价格来自 Hostinger 国际站（美元），于 2026年10月30日读取，当时正值黑色星期五活动期间，按 48 个月预付计算。月价为预付总额除以 48。价格可能因国家和货币而异。续费是第一个周期结束后的月价："
+      ],
+      "comparisonTable": {
+        "headers": [
+          "套餐",
+          "每月（48 个月）",
+          "48 个月总价",
+          "续费",
+          "网站与空间",
+          "备份"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$ 2.49",
+            "US$ 119.52",
+            "US$ 10.99/月",
+            "3 个网站，20 GB SSD",
+            "每周"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$ 3.49",
+            "US$ 167.52",
+            "US$ 16.99/月",
+            "网站不限，50 GB NVMe",
+            "每日"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$ 7.99",
+            "US$ 383.52",
+            "US$ 25.99/月",
+            "网站不限，100 GB NVMe",
+            "在购物车确认"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "计算方式：Premium 为 48 × US$ 2.49 = **US$ 119.52**，之后续费 US$ 10.99/月。Unlimited 为 48 × US$ 3.49 = **US$ 167.52**，续费 US$ 16.99/月。Cloud Startup 为 48 × US$ 7.99 = **US$ 383.52**，续费 US$ 25.99/月。",
+        "页面上没有显示活动的结束日期，价格可能变化。"
+      ],
+      "emphasis": "续费价是促销价的 3 到 5 倍。选套餐时请看续费那一列。"
+    },
+    {
+      "heading": "套餐已包含的内容",
+      "paragraphs": [
+        "以下内容来自 Hostinger 官方页面，2026年10月30日读取，我们没有亲自测试。"
+      ],
+      "bullets": [
+        "**所有套餐都包含 WordPress 和 Node.js。**",
+        "**一键安装工具：** 页面的常见问题提到它，但没有说明各套餐之间有什么不同。",
+        "**LiteSpeed 服务器和智能缓存：** 页面针对 WordPress 主机整体提到，没有说明属于哪些套餐。"
+      ]
+    },
+    {
+      "heading": "开始使用：清单",
+      "bullets": [
+        "**1. 数一数网站。** 一个、三个，还是更多。大多数情况下，这一点就决定了套餐。",
+        "**2. 确定域名。** 用你已有的域名，或注册一个新的。记下它的续费日期。",
+        "**3. 在面板里安装 WordPress。** Hostinger 提到了一键安装工具，不需要下载任何东西。",
+        "**4. 先选主题，再写内容。** 网站内容装满后再换主题很费事。选简单、更新频繁的主题。",
+        "**5. 少装插件。** 从今天需要的开始：联系表单、SEO，网店的话加 WooCommerce。每多一个插件，就多一样要更新。",
+        "**6. 动手前先备份。** 换主题、更新插件或改网店之前，在面板里确认最近一次备份的时间。每周备份的套餐更要这样做。"
+      ],
+      "postParagraphs": [
+        "Hostinger 如何收费、续费和退款，见 [Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "如果你已经在 Google 投放广告",
+      "paragraphs": [
+        "根据推广条款（2026年10月30日查阅），通过 Hostinger 面板创建或连接 Google Ads 账户，并在前 60 天内花费人民币 3,000 元，即可获得人民币 3,000 元的广告抵用金。以上为中国的数额。资格由 Google 决定，推广可能变动，页面也没有有效期。这只适合原本就打算花这笔钱的人，不是开始投放广告的理由。"
+      ]
+    },
+    {
+      "heading": "如果你不想用 WordPress",
+      "paragraphs": [
+        "如果你不想安装主题和插件，也不想更新任何东西，Hostinger 的 AI 建站工具（原 Horizons）同样可用。按项目类型的比较见 [Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？](/zh-hans/reviews/hostinger-ai-builder-zh-hans)。如果你需要的功能已经有了插件名字，就留在 WordPress。"
+      ]
+    },
+    {
+      "heading": "SONAR20 优惠码与价格",
+      "paragraphs": [
+        "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可**首个周期享 20% 折扣**。我们没有在 WordPress 套餐上测试 SONAR20，请在付款前到购物车确认价格。首个周期之后，按续费价计算。规则和其他产品见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
+      ]
+    },
+    {
+      "heading": "选哪个套餐：结论",
+      "paragraphs": [
+        "**选 Premium**，如果你有一到三个网站。它是最低一档，备份是每周一次。",
+        "**选 Unlimited**，如果你有网店或很多网站。每日备份是主要理由，从这里开始就对了。",
+        "**Cloud Startup** 只在 Unlimited 不够用时才有意义。它最贵，每月 US$ 25.99 的续费压力很大。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "Hostinger 上最便宜的 WordPress 套餐是哪个？按国际站 2026年10月30日的价格，是 Premium：48 个月预付每月 US$ 2.49，总价 US$ 119.52，最多 3 个网站。续费为每月 US$ 10.99。",
+        "Hostinger 会自动安装 WordPress 吗？官方页面说所有套餐都包含 WordPress，面板里有一键安装工具。它没有说明各套餐的安装方式有何不同。",
+        "Hostinger 的 WordPress 用 LiteSpeed 吗？页面针对 WordPress 主机整体提到 LiteSpeed 服务器和智能缓存，没有说明属于哪些套餐。",
+        "网店适合哪个 WordPress 套餐？Unlimited：网站不限，每日备份。流量非常大的网店可以看 Cloud Startup，100 GB NVMe。备份选项请在购物车确认。",
+        "SONAR20 能用于 WordPress 套餐吗？我们没有测试。请在购物车确认。如果可用，20% 只适用于首个周期。"
+      ]
+    },
+    {
+      "heading": "谁在写这篇文章",
+      "paragraphs": [
+        "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App，域名自 2024 年 11 月起在 Hostinger 注册。网站本身不使用 WordPress，团队中没有人在 Hostinger 上用过 WordPress。本文整理的是 2026年10月30日查阅的 Hostinger WordPress 主机页面和 Google Ads 推广条款。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。WordPress 套餐我们没有测试，请在购物车确认价格。",
+    "label": "通过 SONAR20 查看 WordPress 套餐",
+    "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你无需额外付费。团队中没有人在 Hostinger 上用过 WordPress。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-ai-builder-zh-hans",
+      "title": "Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？"
+    },
+    {
+      "slug": "hostinger-referral-code-zh-hans",
+      "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+    },
+    {
+      "slug": "hostinger-domain-zh-hans",
+      "title": "Hostinger 域名：在这里买、转入，还是在别处注册？价格、续费与下单前要确认什么"
+    }
+  ],
+  "hideFromPortugueseListings": true
+}

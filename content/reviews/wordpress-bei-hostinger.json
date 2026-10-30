@@ -1,0 +1,211 @@
+{
+  "id": 742,
+  "slug": "wordpress-bei-hostinger",
+  "locale": "de",
+  "translationKey": "hostinger-wordpress",
+  "title": "WordPress bei Hostinger: welcher Tarif passt und wie Sie anfangen",
+  "seoTitle": "WordPress bei Hostinger: welcher Tarif und wie anfangen",
+  "type": "Entscheidungshilfe",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redaktion und Analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Welcher WordPress-Tarif bei Hostinger zu einer Website, drei Websites, mehreren Websites oder einem Shop passt, und wie Sie anfangen. Preise vom 30.10.2026, mit Verlängerung.",
+  "metaDescription": "WordPress bei Hostinger: Premium, Unlimited oder Cloud Startup? Tarif pro Projekt, Preis und Verlängerung am 30.10.2026 und die Checkliste für den Start.",
+  "publishedAt": "30. Oktober 2026",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+  "imageAlt": "Hostinger-Logo mit Website- und Server-Symbolen und dem Wort WordPress im Band",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Kurze Antwort",
+      "paragraphs": [
+        "Wer bei Hostinger schon WordPress nutzen will, nimmt den Premium für bis zu drei Websites. Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht und enthalten tägliche Backups. WordPress ist in allen Tarifen enthalten; die Wahl hängt von der Anzahl der Websites, dem Backup und der Verlängerung ab, wie in der Tabelle unten."
+      ]
+    },
+    {
+      "heading": "Welcher Tarif für welches Projekt",
+      "paragraphs": [
+        "Hostinger verkauft WordPress nicht als eigenen Tarif, sondern in den Hosting-Tarifen für Websites. Laut der Hostinger-Seite vom 30.10.2026 gehören WordPress und Node.js zu allen Tarifen. Die Frage ist also nicht, welcher Tarif WordPress hat, sondern wie viele Websites Sie betreiben und wie viel Backup Sie brauchen."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-de.webp",
+        "alt": "Quadro der WordPress-Tarife von Hostinger nach Projekt: bis zu 3 Websites im Premium; mehrere Websites oder ein Shop mit WooCommerce im Unlimited; Shop oder viel Traffic im Cloud Startup",
+        "caption": "Die Entscheidung im Überblick: Anzahl der Websites, Speicher und Backup. Quadro des Em Casa com Cecília, nach der internationalen Hostinger-Seite vom 30.10.2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.6014
+      },
+      "bullets": [
+        "**Bis zu 3 Websites: Premium.** Ihr Blog und zwei weitere Projekte, oder eine Testseite neben der Hauptseite. Das sind 20 GB SSD und wöchentliche Backups. Auf der internationalen Seite ist der Premium der Einstiegstarif.",
+        "**Mehrere Websites oder ein Shop mit WooCommerce: Unlimited.** Unbegrenzte Websites, 50 GB NVMe und tägliche Backups. In einem Shop ändern sich Bestellungen und Lagerbestand jeden Tag; ein wöchentliches Backup lässt eine ganze Woche aus.",
+        "**Shop oder Website mit viel Traffic: Cloud Startup.** Unbegrenzte Websites, 100 GB NVMe, tägliche Backups und Backups auf Abruf. Es ist der teuerste Tarif der Seite, und auch die Verlängerung ist die höchste."
+      ],
+      "postParagraphs": [
+        "Wenn Sie zwischen zwei Tarifen schwanken, schauen Sie auf das Backup. Wer die Seite nicht jede Woche ändert, kommt mit dem wöchentlichen Backup gut aus; wer jeden Tag verkauft oder veröffentlicht, will das tägliche."
+      ]
+    },
+    {
+      "heading": "Preis und Verlängerung am 30.10.2026",
+      "paragraphs": [
+        "Die Preise unten stammen von der internationalen Hostinger-Seite für WordPress-Hosting, in US-Dollar, gelesen am 30.10.2026, mit 48 Monaten Laufzeit und in der Black-Friday-Aktion. Der Preis pro Monat ist die Gesamtsumme geteilt durch 48. Die Verlängerung ist der Monatspreis nach dem ersten Zeitraum. Das sind die Preise der internationalen Seite in Dollar; sie können je nach Land und Währung abweichen:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Tarif",
+          "Pro Monat (48 Monate)",
+          "Gesamt",
+          "Verlängerung",
+          "Websites und Speicher",
+          "Backup"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$ 2,49",
+            "US$ 119,52",
+            "US$ 10,99/Monat",
+            "3 Websites, 20 GB SSD",
+            "Wöchentlich"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$ 3,49",
+            "US$ 167,52",
+            "US$ 16,99/Monat",
+            "Unbegrenzte Websites, 50 GB NVMe",
+            "Täglich"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
+            "US$ 7,99",
+            "US$ 383,52",
+            "US$ 25,99/Monat",
+            "Unbegrenzte Websites, 100 GB NVMe",
+            "Täglich und auf Abruf"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Die Seite nennt kein Enddatum für die Aktion, und die Preise können sich ändern."
+      ],
+      "emphasis": "Die Verlängerung kostet etwa das 3- bis 5-Fache des Aktionspreises. Wählen Sie den Tarif nach der Spalte der Verlängerung, nicht nur nach dem Einstiegspreis."
+    },
+    {
+      "heading": "Was in den Tarifen schon enthalten ist",
+      "paragraphs": [
+        "Laut der Seite vom 30.10.2026, ohne eigenen Test:"
+      ],
+      "bullets": [
+        "**WordPress und Node.js in allen Tarifen.**",
+        "**Installation mit einem Klick und interne Plugins**, im FAQ der Seite genannt, ohne zu sagen, was sich zwischen den Tarifen unterscheidet.",
+        "**LiteSpeed-Server und intelligentes Caching**, für WordPress-Hosting allgemein genannt. Die Seite sagt nicht, in welchen Tarifen."
+      ]
+    },
+    {
+      "heading": "So fangen Sie an: die Checkliste",
+      "bullets": [
+        "**1. Zählen Sie die Websites.** Eine, bis zu drei oder mehr. Das entscheidet in den meisten Fällen schon den Tarif.",
+        "**2. Klären Sie die Domain.** Nutzen Sie eine Domain, die Sie schon haben, oder registrieren Sie eine neue. Notieren Sie, wann sie verlängert wird.",
+        "**3. Installieren Sie WordPress im Panel.** Die Seite nennt die Installation mit einem Klick; Sie müssen nichts herunterladen.",
+        "**4. Wählen Sie das Theme vor dem Inhalt.** Ein Theme zu wechseln, wenn die Seite schon voll ist, macht Mehrarbeit. Nehmen Sie ein einfaches, das regelmäßig gepflegt wird.",
+        "**5. Installieren Sie wenige Plugins.** Beginnen Sie mit dem, was die Seite heute braucht: Kontaktformular, SEO und im Shop WooCommerce. Jedes Plugin mehr ist eines mehr zum Aktualisieren.",
+        "**6. Machen Sie ein Backup, bevor Sie etwas ändern.** Sehen Sie vor einem Theme-Wechsel, einem Plugin-Update oder einer Shop-Änderung im Panel nach, wann das letzte Backup war. Bei wöchentlichen Backups zählt das mehr."
+      ],
+      "postParagraphs": [
+        "Wie Hostinger abrechnet, verlängert und Geld zurückgibt, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
+      ]
+    },
+    {
+      "heading": "Wenn Sie schon bei Google werben",
+      "paragraphs": [
+        "Laut den Bedingungen der Aktion, gelesen am 30.10.2026: Wer über die Integration im Hostinger-Panel ein Google-Ads-Konto erstellt oder verbindet und in den ersten 60 Tagen 400 EUR für Anzeigen ausgibt, erhält 400 EUR Anzeigenguthaben, in Deutschland. Google entscheidet über die Berechtigung, die Aktion kann sich ändern, und die Seite nennt kein Ablaufdatum. Das gilt für alle, die diesen Betrag ohnehin ausgegeben hätten; es ist kein Grund, mit Werbung anzufangen."
+      ]
+    },
+    {
+      "heading": "Wenn Sie kein WordPress wollen",
+      "paragraphs": [
+        "Wenn Sie kein Theme und kein Plugin installieren und nichts aktualisieren wollen, bringen dieselben Tarife den KI-Builder von Hostinger mit. Der Vergleich nach Projekttyp steht in [KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?](/de/reviews/hostinger-ki-builder-lohnt-sich). Wenn Ihr Projekt schon einen Plugin-Namen hat, bleiben Sie bei WordPress."
+      ]
+    },
+    {
+      "heading": "SONAR20-Gutschein und Preis",
+      "paragraphs": [
+        "Der Code **SONAR20** gibt **20 % im ersten Zeitraum**, im Gutscheinfeld des Warenkorbs oder über den Link dieses Artikels. Wir haben SONAR20 bei den WordPress-Tarifen nicht getestet; prüfen Sie den Preis im Warenkorb, bevor Sie bezahlen. Nach dem ersten Zeitraum gilt die Spalte der Verlängerung. Die Regeln des Codes und die übrigen Produkte stehen in den [Hostinger-Gutscheinen](/de/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Welchen Tarif nehmen: das Fazit",
+      "paragraphs": [
+        "**Nehmen Sie den Premium**, wenn Sie bis zu drei Websites betreiben. Das Backup ist wöchentlich, und die Verlängerung ist die niedrigste der drei Tarife.",
+        "**Nehmen Sie den Unlimited**, wenn Sie einen Shop oder mehrere Websites haben. Das tägliche Backup ist der Hauptgrund, und es beginnt hier.",
+        "**Der Cloud Startup** lohnt sich nur, wenn der Unlimited nicht reicht. Er ist der teuerste, und die Verlängerung von 25,99 US$ im Monat fällt stark ins Gewicht."
+      ]
+    },
+    {
+      "heading": "Häufige Fragen",
+      "bullets": [
+        "Welcher WordPress-Tarif von Hostinger ist der günstigste? Am 30.10.2026 der Premium: 2,49 US$ im Monat über 48 Monate (119,52 US$ insgesamt), für bis zu 3 Websites. Er verlängert sich auf 10,99 US$ im Monat.",
+        "Ist WordPress bei Hostinger schon installiert? Die Seite sagt, dass alle Tarife WordPress enthalten, und nennt eine Installation mit einem Klick im Panel. Wie die Installation je Tarif abläuft, beschreibt sie nicht.",
+        "Nutzt Hostinger LiteSpeed bei WordPress? Die Seite spricht von LiteSpeed-Servern und intelligentem Caching beim WordPress-Hosting, ohne zu sagen, in welchen Tarifen.",
+        "Welcher WordPress-Tarif von Hostinger eignet sich für einen Online-Shop? Der Unlimited, wegen der täglichen Backups und der unbegrenzten Websites. Für einen Shop mit viel Traffic der Cloud Startup, mit Backups auf Abruf.",
+        "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? Wir haben SONAR20 bei den WordPress-Tarifen nicht getestet; prüfen Sie es im Warenkorb. Wo er gilt, sind es 20 % im ersten Zeitraum."
+      ]
+    },
+    {
+      "heading": "Wer schreibt",
+      "paragraphs": [
+        "Der Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger als Node.js Web App, und die Domain ist seit dem 17.11.2024 bei Hostinger registriert. Die Seite nutzt kein WordPress, und niemand aus dem Team hat WordPress bei Hostinger genutzt. Dieser Text fasst zusammen, was die brasilianische und die internationale Hostinger-Seite für WordPress-Hosting und die Bedingungen der Google-Ads-Aktion sagen, gelesen am 30.10.2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Bei den WordPress-Tarifen haben wir den Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+    "label": "WordPress-Tarife mit SONAR20 ansehen",
+    "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team hat WordPress bei Hostinger genutzt.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-ki-builder-lohnt-sich",
+      "title": "KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?"
+    },
+    {
+      "slug": "hostinger-gutschein-empfehlungscode",
+      "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+    },
+    {
+      "slug": "hostinger-domain-kaufen-oder-umziehen",
+      "title": "Domain bei Hostinger: dort kaufen, umziehen oder woanders registrieren? Preis, Verlängerung und was Sie prüfen sollten"
+    }
+  ]
+}

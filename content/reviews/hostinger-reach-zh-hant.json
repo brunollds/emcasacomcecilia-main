@@ -1,0 +1,245 @@
+{
+  "id": 728,
+  "slug": "hostinger-reach-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "hostinger-reach-ou-mailchimp-brevo",
+  "title": "Hostinger Reach、Mailchimp 還是 Brevo：郵件行銷該選哪個",
+  "seoTitle": "Hostinger Reach 值得用嗎？與 Mailchimp、Brevo 比較",
+  "type": "選擇指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編輯與分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，Reach 適合你；名單更大就選 Mailchimp 或 Brevo。依 2026 年 10 月 30 日的美元價格與續訂價。",
+  "metaDescription": "Hostinger Reach 值得用嗎？依情況的表格、方案、發送上限、WhatsApp 與續訂價，並與 Mailchimp、Brevo 的免費版比較，截至 2026 年 10 月 30 日。",
+  "publishedAt": "2026年10月30日",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+  "imageAlt": "Hostinger 標誌、郵件與圖表圖示，橫條上寫著 Reach",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，Reach 值得用。名單還在免費額度內時，可以先用 Mailchimp 或 Brevo 的免費版。真正決定選擇的是發送上限和 WhatsApp，見下表。"
+      ]
+    },
+    {
+      "heading": "依情況選擇：一張表",
+      "paragraphs": [
+        "關鍵不在於哪個工具更好，而在於你的名單有多少人、每月寄多少封、是否需要 WhatsApp。下表依據 2026 年 10 月 30 日 Hostinger 國際站，以及 Mailchimp、Brevo 免費版的內容整理。我們沒有讀到 Mailchimp 和 Brevo 以美元顯示的付費價格，所以表中不列："
+      ],
+      "comparisonTable": {
+        "headers": [
+          "情況",
+          "推薦",
+          "原因"
+        ],
+        "rows": [
+          [
+            "名單小，預算有限，剛開始",
+            "Brevo 或 Mailchimp 免費版",
+            "Brevo 免費版不需要信用卡，每天最多 300 封。Mailchimp 免費版適用於少於 250 位聯絡人。國際站上，Reach 的三個方案都是付費的。"
+          ],
+          [
+            "已在 Hostinger 有網站，名單 500 人以內",
+            "Reach Grow",
+            "前 12 個月每月 US$ 1.74，續訂 US$ 2.49。每月 3,500 封郵件，沒有 Reach 標誌，含自動化。"
+          ],
+          [
+            "需要 WhatsApp",
+            "Reach Pro",
+            "WhatsApp 只在 Pro 裡。頁面沒有顯示每則訊息的費用，所以先在後台確認。"
+          ],
+          [
+            "超過免費額度，1,000 人以內",
+            "Reach Grow 或 Pro",
+            "Reach Pro 最多 1,000 位收件人，前 12 個月每月 US$ 2.79，續訂 US$ 3.99。"
+          ],
+          [
+            "名單超過 1,000 人",
+            "Mailchimp 或 Brevo",
+            "Reach 方案的收件人上限是 1,000 人，每月 7,000 封郵件。"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hant.webp",
+        "alt": "Reach、Mailchimp 或 Brevo 依情況選擇的圖：名單小、剛開始的選 Brevo 或 Mailchimp 免費版；已在 Hostinger 有網站且名單 500 人以內的選 Reach Grow；需要 WhatsApp 的選 Reach Pro；超過免費額度、1,000 人以內的選 Reach Grow 或 Pro；名單超過 1,000 人的選 Mailchimp 或 Brevo",
+        "caption": "圖中的重點：先免費，1,000 人以內選 Reach，超過就選 Mailchimp 或 Brevo。這張圖是 Em Casa com Cecília 依據 2026 年 10 月 30 日的價格頁面製作的。",
+        "objectFit": "contain",
+        "aspectRatio": 1.3846
+      },
+      "postParagraphs": [
+        "如果名單在 Mailchimp 或 Brevo 的免費額度內，就先用免費版，超出再付費。如果你已在 Hostinger 有網站，名單已經超過幾百人，Reach Grow 的首年價格是一個不錯的起點。"
+      ]
+    },
+    {
+      "heading": "2026年10月30日的 Reach 方案",
+      "paragraphs": [
+        "Hostinger 國際站上的 Reach 有三個方案：Starter、Grow 和 Pro。在巴西站的購物車裡，Grow 顯示為 “Reach 500”。下面是國際站以美元顯示的價格，可能因國家和幣別而異："
+      ],
+      "comparisonTable": {
+        "headers": [
+          "方案",
+          "前 12 個月（每月）",
+          "續訂（每月）"
+        ],
+        "rows": [
+          [
+            "[Starter](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+            "US$ 1.49（合計 US$ 17.88）",
+            "US$ 1.49"
+          ],
+          [
+            "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)（購物車中的 Reach 500）",
+            "US$ 1.74（合計 US$ 20.92）",
+            "US$ 2.49"
+          ],
+          [
+            "[Pro](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+            "US$ 2.79（合計 US$ 33.52）",
+            "US$ 3.99"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "表中是前 12 個月的價格。Grow 和 Pro 續訂時會上漲，所以比較時請看續訂價，不要只看首月。各方案的內容："
+      ],
+      "bullets": [
+        "**Starter：** 100 位收件人，每月 200 封郵件，沒有 AI 額度。郵件帶有 Reach 標誌。",
+        "**Grow：** 500 位收件人，每月 3,500 封郵件，每月 10 個 AI 額度。去掉 Reach 標誌，含個人化、排程寄送和自動化。",
+        "**Pro：** 1,000 位收件人，每月 7,000 封郵件，每月 20 個 AI 額度。增加 HTML、最佳寄送時間、WhatsApp 行銷、自訂欄位和團隊成員。"
+      ],
+      "emphasis": "Hostinger 目前正在進行黑色星期五促銷，價格可能變動。請以付款前購物車裡的金額為準。"
+    },
+    {
+      "heading": "Mailchimp 與 Brevo：免費版",
+      "paragraphs": [
+        "兩家都有免費版。Reach 在國際站上沒有免費版。2026 年 10 月 30 日，我們沒有讀到 Mailchimp 和 Brevo 以美元顯示的付費價格，所以這裡只比較免費版："
+      ],
+      "comparisonTable": {
+        "headers": [
+          "方案",
+          "價格",
+          "頁面說明"
+        ],
+        "rows": [
+          [
+            "Mailchimp 免費版",
+            "0",
+            "適用於少於 250 位聯絡人。超過上限後，寄送會暫停。"
+          ],
+          [
+            "Brevo 免費版",
+            "0",
+            "永久免費，不需信用卡，每天最多 300 封。"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "免費版是目前唯一能直接比較的價格。名單變大後，請到兩家的價格頁面查看你所在國家和幣別下的付費價格。"
+      ]
+    },
+    {
+      "heading": "WhatsApp：只在 Reach Pro 裡",
+      "paragraphs": [
+        "在 Reach 頁面中，WhatsApp 行銷活動只出現在 Pro 裡，Starter 和 Grow 沒有。頁面沒有顯示每則 WhatsApp 訊息的費用，所以在依賴這個管道之前，請先在後台確認。",
+        "Brevo 把 WhatsApp 列在 Professional 的管道中。我們沒有在國際站讀到它的美元價格，所以這裡不寫金額。如果名單在 1,000 人以內並且需要 WhatsApp，可以先看 Reach Pro 的價格。"
+      ]
+    },
+    {
+      "heading": "名單成長之後",
+      "paragraphs": [
+        "最先碰到的上限是收件人數：Starter 100 人，Grow 500 人，Pro 1,000 人。Reach 的方案到這裡為止。如果你的名單已經超過 1,000 人，或很快會超過，就選擇 Mailchimp 或 Brevo。這兩家按聯絡人數量或寄送量收費。",
+        "第二個上限是寄送量。Grow 每月 3,500 封，收件人 500 人時，每月可以向整個名單寄送 7 次；Pro 每月 7,000 封，收件人 1,000 人時同樣是 7 次。每週寄一次電子報就夠用；如果每週要給整個名單寄超過一次，就會超出上限。"
+      ],
+      "bullets": [
+        "**還沒有網域？** 如果想讓寄件人使用你網站的地址，請看 [Hostinger 網域指南](/zh-hant/reviews/hostinger-domain-zh-hant)。",
+        "**以後會換工具嗎？** 在取消舊方案之前，先匯出聯絡人名單，並在新工具裡確認如何匯入。"
+      ]
+    },
+    {
+      "heading": "SONAR20 與 Reach 價格",
+      "paragraphs": [
+        "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享受**首期 20%** 的折扣。我們在巴西站測試過 Reach 500 的 24 個月方案。其他方案和期間沒有測試，請在購物車確認。優惠碼的規則見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。",
+        "頁面價格與購物車價格可能不同。付款前，請以購物車中的實際金額為準，並確認使用 SONAR20 後的價格。"
+      ]
+    },
+    {
+      "heading": "值得用嗎？結論",
+      "paragraphs": [
+        "**值得用：** 如果你已在 Hostinger 有網站，且收件人在 1,000 人以內。Grow 為 500 人提供自動化，Pro 支援 1,000 人並含 WhatsApp。前 12 個月的價格分別是 US$ 1.74 和 US$ 2.79。",
+        "**先用免費版：** 如果名單還小，而且你還不確定會頻繁寄信，就用 Mailchimp 或 Brevo 的免費版。Reach 的國際站沒有免費版。",
+        "**選 Mailchimp 或 Brevo：** 如果名單超過 1,000 人，或者你每週要給整個名單寄超過一次郵件。Reach 方案在 1,000 位收件人和每月 7,000 封郵件時停止。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "Hostinger Reach 值得用嗎？如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，就值得。截至 2026 年 10 月 30 日，國際站上 Grow 前 12 個月為 US$ 1.74/月，續訂為 US$ 2.49/月。",
+        "Hostinger Reach 多少錢？截至 2026 年 10 月 30 日，國際站以美元顯示：Starter 每月 US$ 1.49，Grow 每月 US$ 1.74，Pro 每月 US$ 2.79，均為前 12 個月的價格。續訂分別為 US$ 1.49、US$ 2.49 和 US$ 3.99。價格可能因國家和幣別而異。",
+        "Hostinger Reach 有免費版嗎？截至 2026 年 10 月 30 日，國際站和巴西站的三個方案都是付費的。Mailchimp 對少於 250 位聯絡人免費，Brevo 每天最多 300 封免費。",
+        "Hostinger Reach 有 WhatsApp 嗎？有，只在 Pro 方案裡。頁面沒有顯示每則訊息的費用，請在後台確認。",
+        "Reach 500 是什麼？它是巴西站購物車中 Grow 方案的名稱，對應 500 位收件人、每月 3,500 封郵件。",
+        "Hostinger Reach 還是 Mailchimp？如果你的網站在 Hostinger，且收件人在 1,000 人以內，選 Reach。如果想免費開始，或名單超過 1,000 人，選 Mailchimp 或 Brevo。",
+        "SONAR20 適用於 Hostinger Reach 嗎？我們在巴西站測試過 Reach 500 的 24 個月方案，折扣生效。其他方案和期間沒有測試，請在購物車確認。"
+      ]
+    },
+    {
+      "heading": "誰在寫這篇文章",
+      "paragraphs": [
+        "Em Casa com Cecília 運行在 Hostinger 的託管主機上，網域自 2024 年 11 月 17 日起就註冊在 Hostinger。團隊中沒有人用 Reach、Mailchimp 或 Brevo 寄送過行銷郵件。本文彙整了 2026 年 10 月 30 日三家的價格頁面，以及我們在購物車中測試 SONAR20 的結果。Hostinger 如何收費、續訂和退款，請看 [Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們在巴西站測試過 Reach 500 的 24 個月方案；其他方案請在購物車確認。",
+    "label": "用 SONAR20 查看 Reach 方案",
+    "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，可能為 Bruno 帶來佣金，你不需額外付費。團隊中沒有人用過 Reach。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-referral-code-zh-hant",
+      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+    },
+    {
+      "slug": "hostinger-trust-guide-zh-hant",
+      "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+    },
+    {
+      "slug": "hostinger-domain-zh-hant",
+      "title": "Hostinger 網域：在這裡買、轉入，還是在別處註冊？價格、續訂與下單前要確認什麼"
+    }
+  ],
+  "hideFromPortugueseListings": true
+}

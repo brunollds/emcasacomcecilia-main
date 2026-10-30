@@ -58106,6 +58106,1288 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22064,
+      "sha256": "0b3d119ceeb88fe2263ad874e84478b2c84bd4c1a2a2542c07a821f9a61dac79",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-hostgator-capa.webp",
+      "storage_filename": "hostinger-ou-hostgator-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/choisir-hebergeur-hostinger.json",
+        "content/reviews/choose-web-host-hostinger-ja.json",
+        "content/reviews/choose-web-host-hostinger-ko.json",
+        "content/reviews/choose-web-host-hostinger-zh-hans.json",
+        "content/reviews/choose-web-host-hostinger-zh-hant.json",
+        "content/reviews/como-elegir-hosting-hostinger.json",
+        "content/reviews/hostinger-ou-hostgator.json",
+        "content/reviews/how-to-choose-web-host-hostinger.json",
+        "content/reviews/scegliere-hosting-hostinger.json",
+        "content/reviews/webhoster-waehlen-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/choisir-hebergeur-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/choose-web-host-hostinger-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/choose-web-host-hostinger-ko.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/choose-web-host-hostinger-zh-hans.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/choose-web-host-hostinger-zh-hant.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/como-elegir-hosting-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-ou-hostgator.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/how-to-choose-web-host-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/scegliere-hosting-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/webhoster-waehlen-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 161194,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 161522,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 161755,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 161988,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 162221,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 162461,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 162701,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 162940,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 163175,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 163410,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0b3d119ceeb88fe2263ad874e84478b2c84bd4c1a2a2542c07a821f9a61dac79/hostinger-ou-hostgator-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0b3d119ceeb88fe2263ad874e84478b2c84bd4c1a2a2542c07a821f9a61dac79/hostinger-ou-hostgator-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:05.193Z",
+      "verification_etag_or_digest": "0b3d119ceeb88fe2263ad874e84478b2c84bd4c1a2a2542c07a821f9a61dac79",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-criterios-de.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46430,
+      "sha256": "2fbd263a8f397d316ffa2464dcbb30ed114b5a6a204a72719c2844d328e47a84",
+      "width": 900,
+      "height": 620,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-hostgator-criterios-de.webp",
+      "storage_filename": "hostinger-ou-hostgator-criterios-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/webhoster-waehlen-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/webhoster-waehlen-hostinger.json",
+          "line": 57,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 162478,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2fbd263a8f397d316ffa2464dcbb30ed114b5a6a204a72719c2844d328e47a84/hostinger-ou-hostgator-criterios-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2fbd263a8f397d316ffa2464dcbb30ed114b5a6a204a72719c2844d328e47a84/hostinger-ou-hostgator-criterios-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:07.693Z",
+      "verification_etag_or_digest": "2fbd263a8f397d316ffa2464dcbb30ed114b5a6a204a72719c2844d328e47a84",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-criterios-en.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41730,
+      "sha256": "f15506b84efe65238ede73c557a397542782aab9bc873d7df6706fa1762e4fe2",
+      "width": 900,
+      "height": 620,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-hostgator-criterios-en.webp",
+      "storage_filename": "hostinger-ou-hostgator-criterios-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/how-to-choose-web-host-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/how-to-choose-web-host-hostinger.json",
+          "line": 57,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 161539,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f15506b84efe65238ede73c557a397542782aab9bc873d7df6706fa1762e4fe2/hostinger-ou-hostgator-criterios-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f15506b84efe65238ede73c557a397542782aab9bc873d7df6706fa1762e4fe2/hostinger-ou-hostgator-criterios-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:09.967Z",
+      "verification_etag_or_digest": "f15506b84efe65238ede73c557a397542782aab9bc873d7df6706fa1762e4fe2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-criterios-es.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42346,
+      "sha256": "f729ad31aeca0078e1c8bfdc32d3dd7ec0e6828eed2918fb30d9664b05c1ee85",
+      "width": 900,
+      "height": 620,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-hostgator-criterios-es.webp",
+      "storage_filename": "hostinger-ou-hostgator-criterios-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-elegir-hosting-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-elegir-hosting-hostinger.json",
+          "line": 57,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 161772,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f729ad31aeca0078e1c8bfdc32d3dd7ec0e6828eed2918fb30d9664b05c1ee85/hostinger-ou-hostgator-criterios-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f729ad31aeca0078e1c8bfdc32d3dd7ec0e6828eed2918fb30d9664b05c1ee85/hostinger-ou-hostgator-criterios-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:12.033Z",
+      "verification_etag_or_digest": "f729ad31aeca0078e1c8bfdc32d3dd7ec0e6828eed2918fb30d9664b05c1ee85",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-criterios-fr.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47876,
+      "sha256": "d7db2fb3b43004dc4aaa84de590b360f0a9fccd685466c5437f7da95b5cae4d2",
+      "width": 900,
+      "height": 620,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-hostgator-criterios-fr.webp",
+      "storage_filename": "hostinger-ou-hostgator-criterios-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/choisir-hebergeur-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/choisir-hebergeur-hostinger.json",
+          "line": 57,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 162005,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d7db2fb3b43004dc4aaa84de590b360f0a9fccd685466c5437f7da95b5cae4d2/hostinger-ou-hostgator-criterios-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d7db2fb3b43004dc4aaa84de590b360f0a9fccd685466c5437f7da95b5cae4d2/hostinger-ou-hostgator-criterios-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:14.244Z",
+      "verification_etag_or_digest": "d7db2fb3b43004dc4aaa84de590b360f0a9fccd685466c5437f7da95b5cae4d2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-criterios-it.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38282,
+      "sha256": "1dd83bbb486ccc8b83d751151e23848a8428be2fe171e7064625ac9b1bf95f16",
+      "width": 900,
+      "height": 620,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-hostgator-criterios-it.webp",
+      "storage_filename": "hostinger-ou-hostgator-criterios-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/scegliere-hosting-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/scegliere-hosting-hostinger.json",
+          "line": 57,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 162238,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1dd83bbb486ccc8b83d751151e23848a8428be2fe171e7064625ac9b1bf95f16/hostinger-ou-hostgator-criterios-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1dd83bbb486ccc8b83d751151e23848a8428be2fe171e7064625ac9b1bf95f16/hostinger-ou-hostgator-criterios-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:16.367Z",
+      "verification_etag_or_digest": "1dd83bbb486ccc8b83d751151e23848a8428be2fe171e7064625ac9b1bf95f16",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-criterios-ja.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41684,
+      "sha256": "5d35da157ef406803c41ac3a714024fb137d1c4d0e935b27489dbeb638e11391",
+      "width": 900,
+      "height": 620,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-hostgator-criterios-ja.webp",
+      "storage_filename": "hostinger-ou-hostgator-criterios-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/choose-web-host-hostinger-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/choose-web-host-hostinger-ja.json",
+          "line": 57,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 162718,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5d35da157ef406803c41ac3a714024fb137d1c4d0e935b27489dbeb638e11391/hostinger-ou-hostgator-criterios-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5d35da157ef406803c41ac3a714024fb137d1c4d0e935b27489dbeb638e11391/hostinger-ou-hostgator-criterios-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:18.342Z",
+      "verification_etag_or_digest": "5d35da157ef406803c41ac3a714024fb137d1c4d0e935b27489dbeb638e11391",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-criterios-ko.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40504,
+      "sha256": "3db09fe00299ee09cd498c283fef8a22583ae34d63f818808951946a246863f2",
+      "width": 900,
+      "height": 620,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-hostgator-criterios-ko.webp",
+      "storage_filename": "hostinger-ou-hostgator-criterios-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/choose-web-host-hostinger-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/choose-web-host-hostinger-ko.json",
+          "line": 56,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 162957,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3db09fe00299ee09cd498c283fef8a22583ae34d63f818808951946a246863f2/hostinger-ou-hostgator-criterios-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3db09fe00299ee09cd498c283fef8a22583ae34d63f818808951946a246863f2/hostinger-ou-hostgator-criterios-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:20.337Z",
+      "verification_etag_or_digest": "3db09fe00299ee09cd498c283fef8a22583ae34d63f818808951946a246863f2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-criterios-pt.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41396,
+      "sha256": "5a932bb571cc830cb3cde6264faa2ecd120c221ca254c237f4ea2e76878e74b5",
+      "width": 900,
+      "height": 620,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-hostgator-criterios-pt.webp",
+      "storage_filename": "hostinger-ou-hostgator-criterios-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-ou-hostgator.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-ou-hostgator.json",
+          "line": 56,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 161211,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5a932bb571cc830cb3cde6264faa2ecd120c221ca254c237f4ea2e76878e74b5/hostinger-ou-hostgator-criterios-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5a932bb571cc830cb3cde6264faa2ecd120c221ca254c237f4ea2e76878e74b5/hostinger-ou-hostgator-criterios-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:22.341Z",
+      "verification_etag_or_digest": "5a932bb571cc830cb3cde6264faa2ecd120c221ca254c237f4ea2e76878e74b5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-criterios-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39604,
+      "sha256": "ea7d185548dfc9af902c002c8b0ce64ebb0a2e3fc043d67c08797f50e398c0ab",
+      "width": 900,
+      "height": 620,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-hostgator-criterios-zh-hans.webp",
+      "storage_filename": "hostinger-ou-hostgator-criterios-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/choose-web-host-hostinger-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/choose-web-host-hostinger-zh-hans.json",
+          "line": 56,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 163192,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ea7d185548dfc9af902c002c8b0ce64ebb0a2e3fc043d67c08797f50e398c0ab/hostinger-ou-hostgator-criterios-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ea7d185548dfc9af902c002c8b0ce64ebb0a2e3fc043d67c08797f50e398c0ab/hostinger-ou-hostgator-criterios-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:24.340Z",
+      "verification_etag_or_digest": "ea7d185548dfc9af902c002c8b0ce64ebb0a2e3fc043d67c08797f50e398c0ab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-criterios-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36594,
+      "sha256": "4373ebe51458595d29bb9b6ee53d55d6df906ab5c5d1c89ff3904d6deea37d8d",
+      "width": 900,
+      "height": 620,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-hostgator-criterios-zh-hant.webp",
+      "storage_filename": "hostinger-ou-hostgator-criterios-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/choose-web-host-hostinger-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/choose-web-host-hostinger-zh-hant.json",
+          "line": 56,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 163427,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4373ebe51458595d29bb9b6ee53d55d6df906ab5c5d1c89ff3904d6deea37d8d/hostinger-ou-hostgator-criterios-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4373ebe51458595d29bb9b6ee53d55d6df906ab5c5d1c89ff3904d6deea37d8d/hostinger-ou-hostgator-criterios-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:26.285Z",
+      "verification_etag_or_digest": "4373ebe51458595d29bb9b6ee53d55d6df906ab5c5d1c89ff3904d6deea37d8d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19512,
+      "sha256": "e1b6b149190c36921b46db0f102ba479fad9fadb8418cf504b43f5ba4003e18b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-reach-ou-mailchimp-brevo-capa.webp",
+      "storage_filename": "hostinger-reach-ou-mailchimp-brevo-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-reach-ja.json",
+        "content/reviews/hostinger-reach-ko.json",
+        "content/reviews/hostinger-reach-mailchimp-o-brevo.json",
+        "content/reviews/hostinger-reach-mailchimp-ou-brevo.json",
+        "content/reviews/hostinger-reach-o-mailchimp-brevo.json",
+        "content/reviews/hostinger-reach-oder-mailchimp-brevo.json",
+        "content/reviews/hostinger-reach-ou-mailchimp-brevo.json",
+        "content/reviews/hostinger-reach-vs-mailchimp-brevo.json",
+        "content/reviews/hostinger-reach-zh-hans.json",
+        "content/reviews/hostinger-reach-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-reach-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-reach-ko.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-reach-mailchimp-o-brevo.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-reach-mailchimp-ou-brevo.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-reach-o-mailchimp-brevo.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-reach-oder-mailchimp-brevo.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-reach-ou-mailchimp-brevo.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-reach-vs-mailchimp-brevo.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-reach-zh-hans.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-reach-zh-hant.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 158731,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 159005,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 159246,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 159487,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 159728,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 159972,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 160216,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 160459,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 160704,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 160949,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e1b6b149190c36921b46db0f102ba479fad9fadb8418cf504b43f5ba4003e18b/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e1b6b149190c36921b46db0f102ba479fad9fadb8418cf504b43f5ba4003e18b/hostinger-reach-ou-mailchimp-brevo-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:28.423Z",
+      "verification_etag_or_digest": "e1b6b149190c36921b46db0f102ba479fad9fadb8418cf504b43f5ba4003e18b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-de.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50470,
+      "sha256": "70a5d4ca6d32286a1e806ea844c97dbf9e4af6fac8a0aacb6a1687d64fb94c75",
+      "width": 900,
+      "height": 650,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-de.webp",
+      "storage_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-reach-oder-mailchimp-brevo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-reach-oder-mailchimp-brevo.json",
+          "line": 91,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 160023,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/70a5d4ca6d32286a1e806ea844c97dbf9e4af6fac8a0aacb6a1687d64fb94c75/hostinger-reach-ou-mailchimp-brevo-quadro-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/70a5d4ca6d32286a1e806ea844c97dbf9e4af6fac8a0aacb6a1687d64fb94c75/hostinger-reach-ou-mailchimp-brevo-quadro-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:30.418Z",
+      "verification_etag_or_digest": "70a5d4ca6d32286a1e806ea844c97dbf9e4af6fac8a0aacb6a1687d64fb94c75",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-en.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43806,
+      "sha256": "b74725b3f110425b9eacaa2e5bbf549b9a8445945bb720f303e2f284648d2e61",
+      "width": 900,
+      "height": 650,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-en.webp",
+      "storage_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-reach-vs-mailchimp-brevo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-reach-vs-mailchimp-brevo.json",
+          "line": 91,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 159056,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b74725b3f110425b9eacaa2e5bbf549b9a8445945bb720f303e2f284648d2e61/hostinger-reach-ou-mailchimp-brevo-quadro-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b74725b3f110425b9eacaa2e5bbf549b9a8445945bb720f303e2f284648d2e61/hostinger-reach-ou-mailchimp-brevo-quadro-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:32.456Z",
+      "verification_etag_or_digest": "b74725b3f110425b9eacaa2e5bbf549b9a8445945bb720f303e2f284648d2e61",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-es.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47230,
+      "sha256": "1ef8a161764f9cc153dcbaf72153cfb3dd0c138160702f14693889a4c57531a9",
+      "width": 900,
+      "height": 650,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-es.webp",
+      "storage_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-reach-o-mailchimp-brevo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-reach-o-mailchimp-brevo.json",
+          "line": 91,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 159297,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1ef8a161764f9cc153dcbaf72153cfb3dd0c138160702f14693889a4c57531a9/hostinger-reach-ou-mailchimp-brevo-quadro-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1ef8a161764f9cc153dcbaf72153cfb3dd0c138160702f14693889a4c57531a9/hostinger-reach-ou-mailchimp-brevo-quadro-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:34.254Z",
+      "verification_etag_or_digest": "1ef8a161764f9cc153dcbaf72153cfb3dd0c138160702f14693889a4c57531a9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-fr.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48386,
+      "sha256": "5378629e889bc2df8e52278fafd1575b4d84746b21ef18f2344e4512eab653d3",
+      "width": 900,
+      "height": 650,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-fr.webp",
+      "storage_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-reach-mailchimp-ou-brevo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-reach-mailchimp-ou-brevo.json",
+          "line": 91,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 159538,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5378629e889bc2df8e52278fafd1575b4d84746b21ef18f2344e4512eab653d3/hostinger-reach-ou-mailchimp-brevo-quadro-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5378629e889bc2df8e52278fafd1575b4d84746b21ef18f2344e4512eab653d3/hostinger-reach-ou-mailchimp-brevo-quadro-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:36.434Z",
+      "verification_etag_or_digest": "5378629e889bc2df8e52278fafd1575b4d84746b21ef18f2344e4512eab653d3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-it.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46826,
+      "sha256": "f147b7b37c7793d4cf7c060ce53cf56e7e8bb21c62cb95d33e8c24f8619e9c65",
+      "width": 900,
+      "height": 650,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-it.webp",
+      "storage_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-reach-mailchimp-o-brevo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-reach-mailchimp-o-brevo.json",
+          "line": 91,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 159779,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f147b7b37c7793d4cf7c060ce53cf56e7e8bb21c62cb95d33e8c24f8619e9c65/hostinger-reach-ou-mailchimp-brevo-quadro-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f147b7b37c7793d4cf7c060ce53cf56e7e8bb21c62cb95d33e8c24f8619e9c65/hostinger-reach-ou-mailchimp-brevo-quadro-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:38.380Z",
+      "verification_etag_or_digest": "f147b7b37c7793d4cf7c060ce53cf56e7e8bb21c62cb95d33e8c24f8619e9c65",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-ja.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45114,
+      "sha256": "80a53a1d50464add67f9a42392cd5458b47d0ad92e6a034c80acaa0389556b01",
+      "width": 900,
+      "height": 650,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-ja.webp",
+      "storage_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-reach-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-reach-ja.json",
+          "line": 91,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 160267,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/80a53a1d50464add67f9a42392cd5458b47d0ad92e6a034c80acaa0389556b01/hostinger-reach-ou-mailchimp-brevo-quadro-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/80a53a1d50464add67f9a42392cd5458b47d0ad92e6a034c80acaa0389556b01/hostinger-reach-ou-mailchimp-brevo-quadro-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:40.526Z",
+      "verification_etag_or_digest": "80a53a1d50464add67f9a42392cd5458b47d0ad92e6a034c80acaa0389556b01",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-ko.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45288,
+      "sha256": "58e24dc32a93a5b9053ec5c6031666edf468e41d060cfff7b0c0931adb70d94d",
+      "width": 900,
+      "height": 650,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-ko.webp",
+      "storage_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-reach-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-reach-ko.json",
+          "line": 90,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 160510,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/58e24dc32a93a5b9053ec5c6031666edf468e41d060cfff7b0c0931adb70d94d/hostinger-reach-ou-mailchimp-brevo-quadro-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/58e24dc32a93a5b9053ec5c6031666edf468e41d060cfff7b0c0931adb70d94d/hostinger-reach-ou-mailchimp-brevo-quadro-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:42.570Z",
+      "verification_etag_or_digest": "58e24dc32a93a5b9053ec5c6031666edf468e41d060cfff7b0c0931adb70d94d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-pt.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48512,
+      "sha256": "b2b3c3e9f68a3d1165b1ffebed032f20614c6ac17b25be471f7a99fc124bdb98",
+      "width": 900,
+      "height": 650,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-pt.webp",
+      "storage_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-reach-ou-mailchimp-brevo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-reach-ou-mailchimp-brevo.json",
+          "line": 90,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 158782,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b2b3c3e9f68a3d1165b1ffebed032f20614c6ac17b25be471f7a99fc124bdb98/hostinger-reach-ou-mailchimp-brevo-quadro-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b2b3c3e9f68a3d1165b1ffebed032f20614c6ac17b25be471f7a99fc124bdb98/hostinger-reach-ou-mailchimp-brevo-quadro-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:44.595Z",
+      "verification_etag_or_digest": "b2b3c3e9f68a3d1165b1ffebed032f20614c6ac17b25be471f7a99fc124bdb98",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44414,
+      "sha256": "6a2058c9ea029e16dd53fb0e9fd4c024fd46b4b7361953cc86dde7cd71828957",
+      "width": 900,
+      "height": 650,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-zh-hans.webp",
+      "storage_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-reach-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-reach-zh-hans.json",
+          "line": 90,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 160755,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6a2058c9ea029e16dd53fb0e9fd4c024fd46b4b7361953cc86dde7cd71828957/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6a2058c9ea029e16dd53fb0e9fd4c024fd46b4b7361953cc86dde7cd71828957/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:46.426Z",
+      "verification_etag_or_digest": "6a2058c9ea029e16dd53fb0e9fd4c024fd46b4b7361953cc86dde7cd71828957",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42606,
+      "sha256": "299999ba8d32cfd2e8ab3d0c126811bdbda6114022e659e6768dffd7b078fb9a",
+      "width": 900,
+      "height": 650,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-zh-hant.webp",
+      "storage_filename": "hostinger-reach-ou-mailchimp-brevo-quadro-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-reach-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-reach-zh-hant.json",
+          "line": 90,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 161000,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/299999ba8d32cfd2e8ab3d0c126811bdbda6114022e659e6768dffd7b078fb9a/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/299999ba8d32cfd2e8ab3d0c126811bdbda6114022e659e6768dffd7b078fb9a/hostinger-reach-ou-mailchimp-brevo-quadro-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:48.478Z",
+      "verification_etag_or_digest": "299999ba8d32cfd2e8ab3d0c126811bdbda6114022e659e6768dffd7b078fb9a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
       "local_url": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
       "media_kind": "image",
@@ -62584,6 +63866,647 @@
       "uploaded_at": null,
       "verified_at": "2026-10-29T02:03:56.501Z",
       "verification_etag_or_digest": "e8119e08e58b83994de93d0f8a6e01c5a04470d0b21cbd87fa5687eea34e0a8b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+      "local_url": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23530,
+      "sha256": "7c217955809a96c2bcb667c3d19d78a446e34bca9f7a0e2d5e27151837f4adbc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wordpress-na-hostinger-capa.webp",
+      "storage_filename": "wordpress-na-hostinger-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wordpress-bei-hostinger.json",
+        "content/reviews/wordpress-chez-hostinger.json",
+        "content/reviews/wordpress-en-hostinger.json",
+        "content/reviews/wordpress-hostinger-ja.json",
+        "content/reviews/wordpress-hostinger-ko.json",
+        "content/reviews/wordpress-hostinger-zh-hans.json",
+        "content/reviews/wordpress-hostinger-zh-hant.json",
+        "content/reviews/wordpress-na-hostinger.json",
+        "content/reviews/wordpress-on-hostinger.json",
+        "content/reviews/wordpress-su-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wordpress-bei-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/wordpress-chez-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/wordpress-en-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/wordpress-hostinger-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/wordpress-hostinger-ko.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/wordpress-hostinger-zh-hans.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/wordpress-hostinger-zh-hant.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/wordpress-na-hostinger.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/wordpress-on-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/wordpress-su-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 163645,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 163869,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 164080,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 164291,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 164502,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 164713,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 164924,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 165134,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 165346,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 165558,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7c217955809a96c2bcb667c3d19d78a446e34bca9f7a0e2d5e27151837f4adbc/wordpress-na-hostinger-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7c217955809a96c2bcb667c3d19d78a446e34bca9f7a0e2d5e27151837f4adbc/wordpress-na-hostinger-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:50.291Z",
+      "verification_etag_or_digest": "7c217955809a96c2bcb667c3d19d78a446e34bca9f7a0e2d5e27151837f4adbc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/wordpress-na-hostinger-quadro-de.webp",
+      "local_url": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40496,
+      "sha256": "a143da9d481e389ae1dba26b179735859cef2361b7115b32be3ae920afae3f5d",
+      "width": 900,
+      "height": 562,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wordpress-na-hostinger-quadro-de.webp",
+      "storage_filename": "wordpress-na-hostinger-quadro-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wordpress-bei-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wordpress-bei-hostinger.json",
+          "line": 57,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 164730,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a143da9d481e389ae1dba26b179735859cef2361b7115b32be3ae920afae3f5d/wordpress-na-hostinger-quadro-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a143da9d481e389ae1dba26b179735859cef2361b7115b32be3ae920afae3f5d/wordpress-na-hostinger-quadro-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:52.110Z",
+      "verification_etag_or_digest": "a143da9d481e389ae1dba26b179735859cef2361b7115b32be3ae920afae3f5d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/wordpress-na-hostinger-quadro-en.webp",
+      "local_url": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34766,
+      "sha256": "f62c3688660bfb6a047fa3530fd31550a039de2559a5c9b438b219f2544c4674",
+      "width": 900,
+      "height": 530,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wordpress-na-hostinger-quadro-en.webp",
+      "storage_filename": "wordpress-na-hostinger-quadro-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wordpress-on-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wordpress-on-hostinger.json",
+          "line": 57,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 163886,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f62c3688660bfb6a047fa3530fd31550a039de2559a5c9b438b219f2544c4674/wordpress-na-hostinger-quadro-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f62c3688660bfb6a047fa3530fd31550a039de2559a5c9b438b219f2544c4674/wordpress-na-hostinger-quadro-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:53.945Z",
+      "verification_etag_or_digest": "f62c3688660bfb6a047fa3530fd31550a039de2559a5c9b438b219f2544c4674",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/wordpress-na-hostinger-quadro-es.webp",
+      "local_url": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36036,
+      "sha256": "0518894b47d6e1fcaca05dc8f7f553f276c14df5d87ba51308da49a19cbb8aa1",
+      "width": 900,
+      "height": 530,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wordpress-na-hostinger-quadro-es.webp",
+      "storage_filename": "wordpress-na-hostinger-quadro-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wordpress-en-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wordpress-en-hostinger.json",
+          "line": 57,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 164097,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0518894b47d6e1fcaca05dc8f7f553f276c14df5d87ba51308da49a19cbb8aa1/wordpress-na-hostinger-quadro-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0518894b47d6e1fcaca05dc8f7f553f276c14df5d87ba51308da49a19cbb8aa1/wordpress-na-hostinger-quadro-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:55.744Z",
+      "verification_etag_or_digest": "0518894b47d6e1fcaca05dc8f7f553f276c14df5d87ba51308da49a19cbb8aa1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/wordpress-na-hostinger-quadro-fr.webp",
+      "local_url": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38798,
+      "sha256": "0cb934c87c4132956a77db02b53390f02519a8492a4e32a35a8e4eb5eb0eec20",
+      "width": 900,
+      "height": 562,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wordpress-na-hostinger-quadro-fr.webp",
+      "storage_filename": "wordpress-na-hostinger-quadro-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wordpress-chez-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wordpress-chez-hostinger.json",
+          "line": 57,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 164308,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0cb934c87c4132956a77db02b53390f02519a8492a4e32a35a8e4eb5eb0eec20/wordpress-na-hostinger-quadro-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0cb934c87c4132956a77db02b53390f02519a8492a4e32a35a8e4eb5eb0eec20/wordpress-na-hostinger-quadro-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:57.748Z",
+      "verification_etag_or_digest": "0cb934c87c4132956a77db02b53390f02519a8492a4e32a35a8e4eb5eb0eec20",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/wordpress-na-hostinger-quadro-it.webp",
+      "local_url": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34682,
+      "sha256": "78fd7f084d281374d3704828ca2d5de4281259fd827c916d701bce723a7ee9e5",
+      "width": 900,
+      "height": 562,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wordpress-na-hostinger-quadro-it.webp",
+      "storage_filename": "wordpress-na-hostinger-quadro-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wordpress-su-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wordpress-su-hostinger.json",
+          "line": 57,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 164519,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/78fd7f084d281374d3704828ca2d5de4281259fd827c916d701bce723a7ee9e5/wordpress-na-hostinger-quadro-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/78fd7f084d281374d3704828ca2d5de4281259fd827c916d701bce723a7ee9e5/wordpress-na-hostinger-quadro-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:52:59.829Z",
+      "verification_etag_or_digest": "78fd7f084d281374d3704828ca2d5de4281259fd827c916d701bce723a7ee9e5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/wordpress-na-hostinger-quadro-ja.webp",
+      "local_url": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33586,
+      "sha256": "37a264ad1540676757e15f571347037706f6fed9191fcbb9a8a0cca3b31ad690",
+      "width": 900,
+      "height": 530,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wordpress-na-hostinger-quadro-ja.webp",
+      "storage_filename": "wordpress-na-hostinger-quadro-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wordpress-hostinger-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wordpress-hostinger-ja.json",
+          "line": 57,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 164941,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/37a264ad1540676757e15f571347037706f6fed9191fcbb9a8a0cca3b31ad690/wordpress-na-hostinger-quadro-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/37a264ad1540676757e15f571347037706f6fed9191fcbb9a8a0cca3b31ad690/wordpress-na-hostinger-quadro-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:53:02.142Z",
+      "verification_etag_or_digest": "37a264ad1540676757e15f571347037706f6fed9191fcbb9a8a0cca3b31ad690",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/wordpress-na-hostinger-quadro-ko.webp",
+      "local_url": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29524,
+      "sha256": "51d40ccd0bb74cb375b3cfbb9cb116f342015c179748149a1de0b3daa4e412fd",
+      "width": 900,
+      "height": 530,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wordpress-na-hostinger-quadro-ko.webp",
+      "storage_filename": "wordpress-na-hostinger-quadro-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wordpress-hostinger-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wordpress-hostinger-ko.json",
+          "line": 56,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 165151,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/51d40ccd0bb74cb375b3cfbb9cb116f342015c179748149a1de0b3daa4e412fd/wordpress-na-hostinger-quadro-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/51d40ccd0bb74cb375b3cfbb9cb116f342015c179748149a1de0b3daa4e412fd/wordpress-na-hostinger-quadro-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:53:04.098Z",
+      "verification_etag_or_digest": "51d40ccd0bb74cb375b3cfbb9cb116f342015c179748149a1de0b3daa4e412fd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/wordpress-na-hostinger-quadro-pt.webp",
+      "local_url": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42918,
+      "sha256": "7b2821b60d6dbe6259ceae7645c49e7e2d274a24fd1f7dd3853fcea7d7c30436",
+      "width": 900,
+      "height": 630,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wordpress-na-hostinger-quadro-pt.webp",
+      "storage_filename": "wordpress-na-hostinger-quadro-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wordpress-na-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wordpress-na-hostinger.json",
+          "line": 56,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 163662,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7b2821b60d6dbe6259ceae7645c49e7e2d274a24fd1f7dd3853fcea7d7c30436/wordpress-na-hostinger-quadro-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7b2821b60d6dbe6259ceae7645c49e7e2d274a24fd1f7dd3853fcea7d7c30436/wordpress-na-hostinger-quadro-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:53:05.984Z",
+      "verification_etag_or_digest": "7b2821b60d6dbe6259ceae7645c49e7e2d274a24fd1f7dd3853fcea7d7c30436",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32608,
+      "sha256": "0099371aad61ba7194fbd215e545f7fb7a5a92e873bd7f0ea57f9c9515ebb360",
+      "width": 900,
+      "height": 530,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wordpress-na-hostinger-quadro-zh-hans.webp",
+      "storage_filename": "wordpress-na-hostinger-quadro-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wordpress-hostinger-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wordpress-hostinger-zh-hans.json",
+          "line": 56,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 165363,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0099371aad61ba7194fbd215e545f7fb7a5a92e873bd7f0ea57f9c9515ebb360/wordpress-na-hostinger-quadro-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0099371aad61ba7194fbd215e545f7fb7a5a92e873bd7f0ea57f9c9515ebb360/wordpress-na-hostinger-quadro-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:53:07.926Z",
+      "verification_etag_or_digest": "0099371aad61ba7194fbd215e545f7fb7a5a92e873bd7f0ea57f9c9515ebb360",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32144,
+      "sha256": "2414f4f3b2542adedffdc90da21cb7875314e45178b9c5f6257f118ba21681d8",
+      "width": 900,
+      "height": 530,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wordpress-na-hostinger-quadro-zh-hant.webp",
+      "storage_filename": "wordpress-na-hostinger-quadro-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wordpress-hostinger-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wordpress-hostinger-zh-hant.json",
+          "line": 56,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 165575,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2414f4f3b2542adedffdc90da21cb7875314e45178b9c5f6257f118ba21681d8/wordpress-na-hostinger-quadro-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2414f4f3b2542adedffdc90da21cb7875314e45178b9c5f6257f118ba21681d8/wordpress-na-hostinger-quadro-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T14:53:09.912Z",
+      "verification_etag_or_digest": "2414f4f3b2542adedffdc90da21cb7875314e45178b9c5f6257f118ba21681d8",
       "verification_status": "verified"
     },
     {

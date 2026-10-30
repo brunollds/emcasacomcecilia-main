@@ -1,0 +1,240 @@
+{
+  "id": 733,
+  "slug": "webhoster-waehlen-hostinger",
+  "locale": "de",
+  "translationKey": "hostinger-ou-hostgator",
+  "hideFromPortugueseListings": true,
+  "title": "Webhosting für eine Website: Was lohnt sich, wenn man auf die Verlängerung schaut?",
+  "seoTitle": "Webhosting für eine Website: Was lohnt sich? Preis und Verlängerung",
+  "type": "Entscheidungshilfe",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redaktion und Analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Webhosting für eine Website: Die Verlängerung zählt mehr als der Startrabatt. Hostinger-Preise vom 30. Oktober 2026 in US-Dollar, pro Monat und mit Verlängerung daneben.",
+  "metaDescription": "Webhosting für eine Website wählen: Hostinger-Preise in US-Dollar vom 30. Oktober 2026, pro Monat und mit Verlängerung, dazu Speicher, Backup, Server im Land und VPS.",
+  "publishedAt": "30. Oktober 2026",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
+  "imageAlt": "Zwei Server-Symbole nebeneinander, mit dem Hostinger-Logo und dem Wort Hosting im Band",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Kurze Antwort",
+      "paragraphs": [
+        "Beim Hosting zählt nicht der Preis des ersten Zeitraums, sondern der Monat danach. Laut der internationalen Seite von Hostinger, gelesen am 30. Oktober 2026, kostet der Premium-Tarif für bis zu 3 Websites 2,49 US$ pro Monat in der Aktion und 10,99 US$ pro Monat danach. Welcher Tarif passt, hängt davon ab, wie viele Websites Sie haben, wie viel Speicher Sie brauchen und ob Ihnen wichtig ist, wo der Server steht. Die Grafik unten fasst die vier Kriterien zusammen, danach folgen die Preise."
+      ]
+    },
+    {
+      "heading": "Die vier Kriterien, die entscheiden",
+      "paragraphs": [
+        "Fast alle Seiten verkaufen den ersten Zeitraum mit einem großen Rabatt, und genau dort irrt sich der Vergleich meist. Entscheidend ist der Monat nach der Aktion. Vor den Preisen nennen wir die vier Kriterien, mit denen wir vergleichen:"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-ou-hostgator-criterios-de.webp",
+        "alt": "Grafik mit vier Kriterien für die Wahl des Hostings: Verlängerung, was der Monat nach dem ersten Zeitraum kostet; Laufzeit, wie viele Monate der Rabatt gilt; Server im Land, wenn die Seite sagt, wo der Server steht; und VPS, wenn garantierte Leistung nötig ist",
+        "caption": "Die vier Kriterien: Verlängerung, Laufzeit, Server im Land und VPS. Grafik von Em Casa com Cecília.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4516
+      },
+      "bullets": [
+        "**Verlängerung.** Jeder Tarif zeigt auf der Karte oder im Warenkorb den Preis, der nach dem ersten Zeitraum gilt. Vergleichen Sie diese Zahl, nicht den Aktionspreis.",
+        "**Laufzeit.** Der Aktionspreis der Hostinger gilt im Hosting-Tarif, den wir gelesen haben, für 48 Monate. Tarife mit unterschiedlichen Laufzeiten vergleicht man nicht über die Summe, sondern pro Monat.",
+        "**Server im Land.** Die Tarifseiten der Hostinger, die wir gelesen haben, sagen nicht, wo der Server steht. Wenn Ihnen das wichtig ist, fragen Sie vor dem Kauf den Support.",
+        "**VPS.** Wenn Ihre Website garantierte Prozessorleistung und Arbeitsspeicher braucht, ist der Vergleich ein anderer, weiter unten."
+      ]
+    },
+    {
+      "heading": "Preise der Hostinger am 30. Oktober 2026",
+      "paragraphs": [
+        "Hosting für Websites auf der internationalen Seite der Hostinger, in US-Dollar, mit dem Tarif für 48 Monate, einmal bezahlt:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Tarif",
+          "Aktion",
+          "Summe in 48 Monaten",
+          "Verlängerung",
+          "Websites",
+          "Speicher"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "2,49 US$/Monat",
+            "119,52 US$",
+            "10,99 US$/Monat",
+            "3",
+            "20 GB SSD"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "3,49 US$/Monat",
+            "167,52 US$",
+            "16,99 US$/Monat",
+            "Unbegrenzt",
+            "50 GB NVMe"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "7,99 US$/Monat",
+            "383,52 US$",
+            "25,99 US$/Monat",
+            "Unbegrenzt",
+            "100 GB NVMe"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Preise ohne SONAR20. Die Verlängerung kostet das Drei- bis Fünffache der Aktion. Der Premium hat ein wöchentliches Backup, der Unlimited ein tägliches. Das sind die Preise der internationalen Seite in Dollar, gelesen am 30. Oktober 2026. Je nach Land und Währung können sie abweichen."
+      ]
+    },
+    {
+      "heading": "So lesen Sie den Preis jedes Hostings",
+      "paragraphs": [
+        "Drei Angaben machen den Unterschied, und sie gelten für jede Marke, nicht nur für die Hostinger:"
+      ],
+      "bullets": [
+        "**Der Preis nach der Aktion.** Das ist, was Sie ab dem zweiten Zeitraum zahlen. Zeigt die Seite ihn nicht deutlich, suchen Sie ihn im Warenkorb, bevor Sie sich entscheiden.",
+        "**Der durchgestrichene Preis.** Der Preis neben dem Aktionspreis ist nicht die Verlängerung. Nehmen Sie den Wert, den die Seite für die Zeit nach dem ersten Zeitraum angibt.",
+        "**Die Dauer der Aktion.** Ein Tarif mit 48 Monaten und einer mit 36 Monaten lassen sich nicht über die Summe vergleichen. Die Summe des ersten Zyklus täuscht: Teilen Sie durch die Monate und stellen Sie die Verlängerung daneben."
+      ]
+    },
+    {
+      "heading": "Welcher Tarif für welche Zahl an Websites",
+      "paragraphs": [
+        "Die Tarife lassen sich nicht eins zu eins vergleichen. Nach Zahl der Websites ergibt sich bei der Hostinger folgendes Bild, auf Grundlage der Seiten, die wir gelesen haben:"
+      ],
+      "bullets": [
+        "**Bis zu 3 Websites:** Premium. Er hat 20 GB SSD und ein wöchentliches Backup und ist der Einstiegstarif der internationalen Hosting-Seite.",
+        "**Unbegrenzt viele Websites:** Unlimited. Er hat 50 GB NVMe und ein tägliches Backup.",
+        "**Der höchste Tarif:** Cloud Startup mit 100 GB NVMe. Er lohnt sich nur, wenn Sie das brauchen, was er zusätzlich bietet. Für viele übliche Websites reicht der Unlimited oft."
+      ],
+      "emphasis": "Die Aktion läuft auf der Seite, die wir gelesen haben, 48 Monate. Deshalb täuscht die Summe des ersten Zyklus: Vergleichen Sie den Preis pro Monat, mit der Verlängerung daneben."
+    },
+    {
+      "heading": "Was der Preis nicht zeigt",
+      "bullets": [
+        "**Speicher.** Der Premium hat 20 GB SSD. Unlimited und Cloud Startup arbeiten mit NVMe, mit 50 GB und 100 GB.",
+        "**Backup.** Der Premium hat ein wöchentliches Backup, der Unlimited ein tägliches. Wenn Sie den Verlust einer Woche an Änderungen nicht hinnehmen wollen, wiegt das mehr als der Preis.",
+        "**Erstattung.** Prüfen Sie vor dem Kauf im Warenkorb, bis wann Sie eine Erstattung verlangen können und wie sie erfolgt. Wie die Hostinger abrechnet, verlängert und erstattet, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes).",
+        "**Vorteile mit Ablauf.** Wenn die Seite eine kostenlose Domain, E-Mail oder andere Extras nennt, haben sie meist eine Laufzeit. Prüfen Sie im Warenkorb, wie lange sie gelten, bevor Sie sie für die Verlängerung einplanen."
+      ]
+    },
+    {
+      "heading": "Und wenn es ein VPS sein soll?",
+      "paragraphs": [
+        "Wenn Sie noch nicht wissen, ob Sie einen VPS oder Shared Hosting brauchen, beginnen Sie mit [VPS oder Shared Hosting: was sich lohnt](/de/reviews/vps-oder-shared-hosting). Für alle, die sich schon für den VPS entschieden haben, die beiden Einstiegstarife auf der internationalen Seite:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Tarif",
+          "vCPU",
+          "Arbeitsspeicher",
+          "NVMe",
+          "Aktion",
+          "Verlängerung"
+        ],
+        "rows": [
+          [
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 Monate)",
+            "1",
+            "4 GB",
+            "50 GB",
+            "6,49 US$/Monat",
+            "11,99 US$/Monat"
+          ],
+          [
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 Monate)",
+            "2",
+            "8 GB",
+            "100 GB",
+            "8,79 US$/Monat",
+            "14,99 US$/Monat"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Die Preise stammen von der internationalen Seite, gelesen am 30. Oktober 2026. Die Seite hat auch KVM 4 und KVM 8, mit mehr Prozessorleistung und Arbeitsspeicher. Prüfen Sie vor einer langen Laufzeit die Verlängerung im Warenkorb."
+      ]
+    },
+    {
+      "heading": "Gutschein SONAR20 bei Hostinger",
+      "paragraphs": [
+        "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link in diesem Artikel: Sie erhalten **20 % auf den ersten Zeitraum**. Wir haben den Code im Warenkorb der brasilianischen Seite bei drei Produkten getestet: beim Startup-Tarif für E-Commerce aus dem Shop-Ersteller am 29. Oktober 2026 sowie bei der professionellen E-Mail und bei Reach am 30. Oktober 2026. Bei den Hosting-Tarifen dieser Tabelle und beim VPS haben wir nicht getestet; prüfen Sie es im Warenkorb. Die Verlängerung haben wir nicht getestet. Alle Regeln stehen auf der Seite der [Hostinger-Gutscheine](/de/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Welcher Tarif passt: das Fazit",
+      "paragraphs": [
+        "**Wählen Sie den Premium** für bis zu drei Websites, etwa für einen Blog, ein Portfolio oder eine Firmenseite: Er ist der Einstiegstarif der internationalen Seite, mit 20 GB SSD und wöchentlichem Backup. Brauchen Sie unbegrenzt viele Websites und ein tägliches Backup, sehen Sie sich den **Unlimited** an. Der Cloud Startup mit 100 GB ist für alle, die das brauchen, was er zusätzlich bietet.",
+        "Wenn für Ihre Website ein VPS nötig ist, entscheidet der Vergleich der Leistung und der Verlängerung, nicht der erste Monat.",
+        "**In jedem Fall** sehen Sie vor dem Bezahlen auf die Spalte der Verlängerung und prüfen den Preis im Warenkorb. Aktionen können sich ändern, und der Preis hängt von Land und Währung ab."
+      ]
+    },
+    {
+      "heading": "Häufige Fragen",
+      "bullets": [
+        "Welcher Tarif ist für eine einzelne Website am günstigsten? Der Premium, der bis zu 3 Websites abdeckt: 2,49 US$ pro Monat in der Aktion und 10,99 US$ danach, über 48 Monate.",
+        "Wie vergleiche ich die Verlängerung zweier Hostings? Schauen Sie auf den Monatspreis nach dem ersten Zeitraum und vergleichen Sie gleiche Tarifarten: Shared mit Shared, VPS mit VPS. Die Summe des ersten Zyklus hilft nicht, weil die Laufzeiten abweichen.",
+        "Hat die Hostinger einen Server im Land? Die Tarifseiten, die wir am 30. Oktober 2026 gelesen haben, sagen nicht, wo der Server steht. Fragen Sie vor dem Kauf den Support.",
+        "Gilt der Gutschein SONAR20 beim VPS? Beim VPS haben wir nicht getestet; prüfen Sie es im Warenkorb. Getestet haben wir den Startup-Tarif für E-Commerce am 29. Oktober 2026 auf der brasilianischen Seite; der Rabatt beträgt 20 % auf den ersten Zeitraum.",
+        "Kann ich den Anbieter wechseln, ohne die Website zu verlieren? Ja, wenn Sie Dateien und Datenbank zum neuen Anbieter übertragen. Machen Sie den Wechsel, bevor der alte Tarif ausläuft."
+      ]
+    },
+    {
+      "heading": "Wer schreibt",
+      "paragraphs": [
+        "Em Casa com Cecília läuft auf dem verwalteten Hosting der Hostinger, und die Domain ist seit dem 17. November 2024 bei der Hostinger registriert. Im Team gibt es keine Erfahrung mit anderen Hostings für diesen Artikel. Der Text verbindet die Auswahlkriterien mit dem, was die Hostinger auf ihren Seiten sagt, gelesen am 30. Oktober 2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+    "label": "Hosting-Tarife mit SONAR20 ansehen",
+    "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Im Team hat für diesen Artikel niemand einen anderen Anbieter genutzt.",
+  "relatedArticles": [
+    {
+      "slug": "vps-oder-shared-hosting",
+      "title": "VPS oder Shared Hosting: was sich für Ihre Website bei Hostinger lohnt"
+    },
+    {
+      "slug": "ist-hostinger-serioes",
+      "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+    },
+    {
+      "slug": "hostinger-gutschein-empfehlungscode",
+      "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+    }
+  ]
+}
