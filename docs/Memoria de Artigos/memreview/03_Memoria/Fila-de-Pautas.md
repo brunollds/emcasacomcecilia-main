@@ -87,7 +87,7 @@ Pautas de decisão de compra a partir do autocompletar de 20/10/2026 e da leitur
 | I1 | Cueca: Comfort, Performance, Seamless Touch ou Slip | **Publicado em 20/10/2026 (PR #188, `d240601`):** [[cueca-insider-comfort-ou-performance]] (junto, corrigir os preços de cueca do `insider-vale-a-pena`) |
 | I2 | Undershirt: Leve, Moderado ou Block | **Publicado em 20/10/2026 (PR #188, `d240601`):** [[undershirt-insider-qual-escolher-funciona]] |
 | I4 | Presente de Natal: kits, gift card e troca de presente | **Publicado em 20/10/2026 (PR #188, `d240601`):** [[presente-de-natal-insider-kits-gift-card]] |
-| I3 | Camiseta Insider: qual escolher (Tech, Core, Light, Heavy, oversized, polo) | Estoque |
+| I3 | Camiseta Insider: qual escolher (Tech, Core, Light, Heavy, oversized, polo) | **Pauta aprovada em 30/10/2026:** [[camiseta-insider-qual-escolher]] |
 | I5 | Insider feminino: Perfect Top, legging e vestido | Estoque |
 | I6 | Insider no Mercado Livre ou no site | **No ar em 28/10/2026 (#325, release `2567b32`, id 625):** [[insider-mercado-livre-ou-site]]; reler os preços três dias antes da Black Friday |
 
@@ -307,6 +307,7 @@ Estudo do cupomtiff.com.br (case da Inbazz) e rodadas com os moldes de título (
 | M9 | Vestido de festa SHEIN | Estoque |
 | M10 | Magalu ou Mercado Livre | Estoque |
 | M11 | Glutamina Max e Probiótica (com a B3 da Black Skull) | Estoque |
+| M12 | Kit Insider: quando compensa | **Pauta aprovada em 30/10/2026:** [[kit-insider-quando-compensa]] |
 
 **Atualizações de artigos no ar (segunda chance):** whey Mais Mu por sabor; "Cléa Store é boa?" em `clea-store-e-confiavel`; pluma de ganso no comparativo IWS × Ortobom; "IWS vale a pena" em `i-wanna-sleep-e-confiavel`; "Fita Up é boa?" em `toda-up-e-confiavel`; veredito em `belive-e-confiavel`; "YesStyle vale a pena?" como seção (com a entrega ao Brasil suspensa). Corrigir a creatina da Mais Mu (esgotada em 30/10; R$ 80,99) em `mais-mu-ou-growth` e `mais-mu-ou-dux`.
 
@@ -338,7 +339,7 @@ pela ficha, pela política e pelo preço.
 | T5 | Sutiã de silicone invisível: como funciona e para qual roupa | **Pauta aprovada em 27/10/2026:** [[sutia-de-silicone-invisivel-como-usar]] |
 | T6 | Protetor de silicone ultrafino (adesivo de seio): como usar e quanto dura | **Pauta aprovada em 27/10/2026:** [[protetor-de-silicone-mamilo-como-usar]] |
 | T7 | Fita Up para tomara que caia e decote: como usar (sinal "fita up funciona") | **Pauta aprovada em 26/10/2026:** [[fita-up-como-usar]] |
-| T8 | Sutiã Comfort Up, Line ou Slim: qual escolher | Estoque |
+| T8 | Sutiã Comfort Up, Line ou Slim: qual escolher | **Pauta aprovada em 30/10/2026:** [[sutia-toda-up-qual-escolher]] |
 | T9 | SkinUp ou Cotton Up: segunda pele ou algodão | Estoque |
 | T10 | Kits da Toda Up (top + calcinha): quando compensam | Estoque (os 5 kits SkinUp e Comfort estavam esgotados em 26/10) |
 
