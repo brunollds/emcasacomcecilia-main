@@ -1,0 +1,265 @@
+{
+  "id": 750,
+  "slug": "presente-natal-bagaggio",
+  "locale": "pt",
+  "title": "Presente de Natal na Bagaggio por faixa de preço",
+  "seoTitle": "Presente de Natal Bagaggio por faixa de preço: o que a loja vende hoje",
+  "type": "Guia de Presente",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Presente de Natal na Bagaggio por faixa de preço: carteira, nécessaire, bolsa e mochila, com o preço de cartão de 30/10/2026 e o cupom CECILIA10.",
+  "metaDescription": "Presente de Natal na Bagaggio até R$ 100, de R$ 100 a R$ 250 e acima de R$ 250, com o preço de cartão de 30/10/2026 e o cupom CECILIA10.",
+  "publishedAt": "30 de outubro de 2026",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/bagaggio/presente-natal-bagaggio-capa.webp",
+  "imageAlt": "Carteira, nécessaire e mochila pretas da Bagaggio, em foto oficial da loja, com o logo da marca",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Na Bagaggio, a faixa até R$ 100 tem carteira, nécessaire, bolsa e a mochila Horizonte para notebook. De R$ 100 a R$ 250, há nécessaires, uma carteira de couro e mochilas executivas. Acima de R$ 250, bolsas e mochilas executivas, e o kit Joá, que custa a soma das peças. Preços do cartão em 30/10/2026; o cupom CECILIA10 dá 10%."
+      ]
+    },
+    {
+      "heading": "Como lemos os preços",
+      "paragraphs": [
+        "Os preços são os do cartão, lidos na API pública da loja em 30/10/2026. O preço de lista é o valor riscado na ficha. A faixa segue o preço do cartão, e o carrinho é a referência final, porque preço e estoque mudam.",
+        "Ninguém do site usou estas peças. A lista mostra o que a loja vende e por quanto, e não qual peça é boa de uso. Quando a ficha traz medida, o texto diz que a medida é da ficha."
+      ]
+    },
+    {
+      "heading": "Até R$ 100",
+      "paragraphs": [
+        "Esta faixa tem carteira, nécessaire, bolsa de viagem e uma mochila para notebook. Todas as peças estavam disponíveis na API da loja em 30/10/2026."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Peça",
+          "Cartão (30/10)",
+          "Lista"
+        ],
+        "rows": [
+          [
+            "[Carteira Feminina Retangular Grande Preto](https://www.bagaggio.com.br/carteira-feminina-retangular-grande-preto/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 29,90",
+            "R$ 49,90"
+          ],
+          [
+            "[Nécessaire Viagem Masculina Pequena com Alça Azul Escura](https://www.bagaggio.com.br/necessaire-viagem-masculina-pequena-com-alca-azul-escura/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 29,90",
+            "R$ 29,90"
+          ],
+          [
+            "[Bolsa de Viagem Bagaggio Nevada Azul](https://www.bagaggio.com.br/bolsa-de-viagem-bagaggio-nevada-azul/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 49,90",
+            "R$ 79,90"
+          ],
+          [
+            "[Mochila Masculina Executiva para Notebook Slim Horizonte](https://www.bagaggio.com.br/mochila-masculina-executiva-para-notebook-horizonte/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 79,90",
+            "R$ 119,90"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/bagaggio/presente-natal-bagaggio-mochila-horizonte.webp",
+          "alt": "Mochila masculina executiva Horizonte preta da Bagaggio, de frente, com bolso frontal com zíper",
+          "caption": "Mochila Slim Horizonte, preta. Segundo a ficha, cabe notebook de até 15,6 polegadas. Foto oficial da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6118
+        }
+      ],
+      "postParagraphs": [
+        "Segundo a ficha, a Horizonte tem 45 × 39 × 11 cm. Para comparar as mochilas de notebook da loja por uso, veja [mochila de notebook Bagaggio: qual escolher](/reviews/mochila-notebook-bagaggio-qual-escolher)."
+      ]
+    },
+    {
+      "heading": "De R$ 100 a R$ 250",
+      "paragraphs": [
+        "Aqui entram nécessaires, uma carteira de couro com fecho em botão e mochilas executivas para notebook. Os preços são do cartão em 30/10/2026."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Peça",
+          "Cartão (30/10)",
+          "Lista"
+        ],
+        "rows": [
+          [
+            "[Carteira Masculina de Couro com Fecho em Botão Grécia Preta](https://www.bagaggio.com.br/carteira-masculina-de-couro-com-botao-grecia-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 119,90",
+            "R$ 129,90"
+          ],
+          [
+            "[Nécessaire Viagem Pequena Bagaggio Advanced](https://www.bagaggio.com.br/necessaire-viagem-pequena-bagaggio-advanced/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 129,90",
+            "R$ 149,90"
+          ],
+          [
+            "[Mochila Masculina Executiva para Notebook Antifurto Urban Cinza](https://www.bagaggio.com.br/mochila-masculina-executiva-para-notebook-antifurto-urban-cinza/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 129,90",
+            "R$ 199,90"
+          ],
+          [
+            "[Nécessaire Viagem Bagaggio Porta Cabos de Couro Leblon Verde Escura](https://www.bagaggio.com.br/necessaire-viagem-bagaggio-porta-cabos-de-couro-leblon-bagaggio-verde-escura/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 139,90",
+            "R$ 139,90"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/bagaggio/presente-natal-bagaggio-carteira-grecia.webp",
+          "alt": "Carteira masculina de couro preta da Bagaggio, com fecho em botão e faixa gravada com desenho grego",
+          "caption": "Carteira Grécia Preta, de couro, com fecho em botão. Foto oficial da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3983
+        },
+        {
+          "src": "/images/reviews/bagaggio/presente-natal-bagaggio-necessaire-advanced.webp",
+          "alt": "Nécessaire de viagem Bagaggio Advanced preta, com zíper frontal e placa com a marca",
+          "caption": "Nécessaire Viagem Pequena Advanced. Foto oficial da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6494
+        }
+      ],
+      "postParagraphs": [
+        "A Antifurto Urban é a mochila de notebook desta faixa. Segundo a ficha, ela tem 44 × 30 × 17 cm e 22,4 litros."
+      ]
+    },
+    {
+      "heading": "Acima de R$ 250",
+      "paragraphs": [
+        "Esta faixa reúne as bolsas e as mochilas executivas mais caras da lista. Nela está também o kit Joá, que custa a soma das peças: a mochila Joá Preto, de R$ 599,90, mais a carteira vertical Joá Preta, de R$ 99,90, dá R$ 699,80, o mesmo preço do kit. O kit não tem desconto próprio."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Peça",
+          "Cartão (30/10)",
+          "Lista"
+        ],
+        "rows": [
+          [
+            "[Bolsa Feminina Média Executiva Donna Preta](https://www.bagaggio.com.br/bolsa-feminina-media-executiva-donna-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 299,90",
+            "R$ 299,90"
+          ],
+          [
+            "[Mochila Masculina Casual Vasco Preta](https://www.bagaggio.com.br/mochila-masculina-casual-vasco-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 329,90",
+            "R$ 329,90"
+          ],
+          [
+            "[Bolsa de Viagem Masculina Advanced II Preto](https://www.bagaggio.com.br/bolsa-de-viagem-masculina-advanced-ii-preto/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 399,90",
+            "R$ 399,90"
+          ],
+          [
+            "[Mochila Masculina Executiva Grande Storm Preta](https://www.bagaggio.com.br/mochila-masculina-executiva-grande-storm-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 399,90",
+            "R$ 399,90"
+          ],
+          [
+            "[Mochila Masculina Executiva de Couro Copa Preta](https://www.bagaggio.com.br/mochila-masculina-executiva-de-couro-copa-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 599,90",
+            "R$ 699,90"
+          ],
+          [
+            "[Mochila Masculina Executiva de Couro para Notebook Joá Preto](https://www.bagaggio.com.br/mochila-masculina-executiva-de-couro-para-notebook-joa-preto/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 599,90",
+            "R$ 699,90"
+          ],
+          [
+            "[Kit Mochila Joá Preto + Carteira Vertical Joá Preta](https://www.bagaggio.com.br/kit-mochila-masculina-executiva-de-couro-para-notebook-joa-preto---carteira-vertical-masculina-de-couro-joa-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 699,80",
+            "R$ 799,80"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/bagaggio/presente-natal-bagaggio-bolsa-donna.webp",
+          "alt": "Bolsa feminina média executiva Donna preta da Bagaggio, com alças de mão e alça transversal",
+          "caption": "Bolsa Donna Média Preta. Foto oficial da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9704
+        },
+        {
+          "src": "/images/reviews/bagaggio/presente-natal-bagaggio-mochila-joa.webp",
+          "alt": "Mochila masculina executiva de couro Joá preta da Bagaggio, com bolsos frontais",
+          "caption": "Mochila Joá Preto, de couro, para notebook. Foto oficial da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6708
+        }
+      ]
+    },
+    {
+      "heading": "Mochilas de notebook e malas",
+      "paragraphs": [
+        "As mochilas de notebook desta lista são a Slim Horizonte, de R$ 79,90 no cartão, a Antifurto Urban, de R$ 129,90, e a Joá Preto, de R$ 599,90. Para comparar as mochilas de notebook por uso e por preço, veja [mochila de notebook Bagaggio: qual escolher](/reviews/mochila-notebook-bagaggio-qual-escolher).",
+        "Malas não entram nas tabelas. A comparação de mala de bordo, com preço e medida, está em [mala de bordo Bagaggio: qual compensa](/reviews/mala-de-bordo-bagaggio-qual-compensa)."
+      ]
+    },
+    {
+      "heading": "Embalagem e vale-presente",
+      "paragraphs": [
+        "A loja vende a lata de alumínio para carteira, de R$ 19,90, avulsa. Segundo a ficha, ela mede 11,7 × 14,7 × 3 cm.",
+        "A Bagaggio vende vale-presente. Na página vale-presente do site, há a opção de comprar o vale virtual, que leva a um site parceiro de cartões. Não conferimos valores nem regras de uso, então veja as condições na própria página antes de escolher."
+      ]
+    },
+    {
+      "heading": "Cupom e Pix",
+      "paragraphs": [
+        "O CECILIA10 dá 10% no site da Bagaggio, inclusive em produto com desconto. A regra completa está na [página do cupom Bagaggio](/cupons/bagaggio). A promoção de 50% na segunda peça é um cupom e não soma com o CECILIA10.",
+        "No Pix, a ficha mostra 5% a mais. No nosso teste de carrinho de 22/10/2026, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Não testamos o cupom nesta lista de peças, então não damos valor final com cupom: confira o resumo do pedido antes de pagar."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Bagaggio vende vale-presente? Vende, na página vale-presente do site, com compra virtual num site parceiro de cartões. Não conferimos valores nem regras.",
+        "A Bagaggio tem embalagem para presente? Tem a lata de alumínio para carteira, de R$ 19,90, vendida avulsa no site.",
+        "O cupom CECILIA10 vale no Mercado Livre? Não. Ele vale no site oficial da Bagaggio. No Mercado Livre, vale o preço do anúncio, sem o cupom.",
+        "Qual é o presente da Bagaggio até R$ 100? Há carteira, nécessaire, bolsa de viagem e a mochila Horizonte para notebook, de R$ 29,90 a R$ 79,90 no cartão, em 30/10/2026.",
+        "O kit Joá custa menos que as peças separadas? Não. O kit de R$ 699,80 é a soma da mochila Joá Preto, de R$ 599,90, e da carteira vertical Joá Preta, de R$ 99,90."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Se a sua compra é na Bagaggio, entre no site oficial e cole o CECILIA10 no carrinho. Confira o desconto no resumo antes de pagar.",
+    "label": "Ir para a Bagaggio com o cupom",
+    "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+    "sponsored": true
+  },
+  "coupon": "CECILIA10",
+  "affiliate": "bagaggio",
+  "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+  "relatedArticles": [
+    {
+      "slug": "black-friday-bagaggio",
+      "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+    },
+    {
+      "slug": "conjunto-de-malas-bagaggio-compensa",
+      "title": "Conjunto de malas Bagaggio compensa? A soma das peças, conta por conta"
+    },
+    {
+      "slug": "cupom-bagaggio-como-usar",
+      "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+    }
+  ]
+}
