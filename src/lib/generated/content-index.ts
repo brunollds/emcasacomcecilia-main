@@ -100113,7 +100113,7 @@ export const reviewsData: unknown[] = [
           "Velas: opcionais."
         ],
         "postParagraphs": [
-          "Os três faqueiros de 30 peças servem seis pessoas com cinco talheres cada, mas cada um traz tipos diferentes. O Avalon Wolff (R$ 383,90) tem garfo de mesa, colher de mesa, faca, colher de chá e garfo de bolo, e não traz colher de sobremesa. O Berna Dourado Wolff (R$ 539,90) tem faca, garfo, garfo de sobremesa, colher de sopa e colher de chá, e também não traz colher de sobremesa. O Laguiole La Maison Luxo Marfim (R$ 1.099) tem faca, garfo, colher, colher de sobremesa e garfo de sobremesa, e não traz colher de chá. Os dois Wolff não acompanham estojo, segundo a ficha.",
+          "Os três faqueiros de 30 peças servem seis pessoas com cinco talheres cada, mas cada um traz tipos diferentes. O Avalon Wolff (R$ 383,90) tem garfo de mesa, colher de mesa, faca, colher de chá e garfo de bolo, e não traz colher de sobremesa. O Berna Dourado Wolff (R$ 539,90) tem faca, garfo, garfo de sobremesa, colher de sopa e colher de chá, e também não traz colher de sobremesa. O Laguiole La Maison Luxo Verde (R$ 1.099) tem faca, garfo, colher, colher de sobremesa e garfo de sobremesa, e não traz colher de chá. Os dois Wolff não acompanham estojo, segundo a ficha.",
           "O aparelho Porto Brasil de 30 peças (R$ 868) tem seis pratos rasos de 26,5 cm, seis de sobremesa de 19,5 cm, seis pratos fundos de 21,5 cm, seis xícaras e seis pires. São cinco peças por pessoa. Ele não traz talheres nem travessas."
         ],
         "images": [
@@ -100155,7 +100155,7 @@ export const reviewsData: unknown[] = [
               "R$ 5.250,69",
               "R$ 4.988,16",
               "R$ 875,12 / R$ 831,36",
-              "Aparelho Porto Brasil 30 peças, faqueiro Laguiole Marfim, centro Crescens, Voluspa"
+              "Aparelho Porto Brasil 30 peças, faqueiro Laguiole Verde, centro Crescens, Voluspa"
             ]
           ]
         },
@@ -100406,7 +100406,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Talheres",
-              "Faqueiro Laguiole La Maison Luxo Marfim 30 peças",
+              "Faqueiro Laguiole La Maison Luxo Verde 30 peças",
               "1",
               "R$ 1.099,00",
               "R$ 1.099,00"
@@ -100438,7 +100438,7 @@ export const reviewsData: unknown[] = [
           "O aparelho Porto Brasil é a base da mesa. São 30 peças: 6 pratos rasos de 26,5 cm, 6 pratos de sobremesa de 19,5 cm, 6 pratos fundos de 21,5 cm, 6 xícaras de café de 120 ml e 6 pires. Não vêm talheres nem travessas. A ficha diz que o conjunto serve \"com elegância e consistência até seis pessoas\", ou seja, cinco peças por pessoa. Com ele, a faixa 3 não pede pratos de casa, e os talheres vêm do faqueiro.",
           "Pela ficha, as peças vão à lava-louças, ao forno, ao freezer e ao micro-ondas, com variação térmica de até cerca de 180 °C. Para a leitura da própria marca, veja [a análise sobre a Porto Brasil](/reviews/porto-brasil-e-boa).",
           "As taças são da Bohemia e vêm em três modelos. A Eva de 350 ml, em cristal transparente, custa R$ 243,90 o jogo de seis e serve para água. A Eva de 190 ml, também em cristal transparente, custa R$ 246,90 e serve para champanhe. Para o vinho, o jogo de seis Magnum de 740 ml, em cristal, custa R$ 149,90.",
-          "O faqueiro Laguiole La Maison Luxo Marfim tem 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa. Não traz colher de chá. Pela ficha, a lâmina é de aço inox e o cabo é de ABS. A ficha não diz se pode ir à lava-louças. É a peça de maior preço da faixa.",
+          "O faqueiro Laguiole La Maison Luxo Verde tem 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa. Não traz colher de chá. Pela ficha, a lâmina é de aço inox e o cabo é de ABS. A ficha não diz se pode ir à lava-louças. É a peça de maior preço da faixa.",
           "O centro de mesa Crescens Baixo, da BTC Decor, é de metal e mármore e custa R$ 789,00. A vela Voluspa de 60 horas tem, segundo a ficha, notas de ébano, pêssego e flor de macieira, e custa R$ 440,79.",
           "Vale o conjunto completo quando a prioridade é comprar tudo de uma vez e manter a mesma linha, sem combinar louça, taça e talher de lojas diferentes. Se a casa já tem pratos brancos, taças e talheres, a faixa 3 traz peças que a mesa pode não precisar, e a faixa 2 ou a 1 podem atender. Dentro da faixa 3, o faqueiro Laguiole é o item mais caro e pode ser trocado por um dos faqueiros Wolff sem mudar a lógica da mesa."
         ],
@@ -100790,7 +100790,7 @@ export const reviewsData: unknown[] = [
               "Mesma restrição de freezer, micro-ondas, forno e fogão. Lava-louças com as recomendações. Não acompanha estojo."
             ],
             [
-              "[LaGuiole La Maison Luxo, 30 peças (azul marinho, bordeaux, branco, marfim ou verde)](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[LaGuiole La Maison Luxo Verde, 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa",
               "R$ 1.099",
               "Lâmina de aço inox e cabo de ABS. Forno, micro-ondas e lava-louças: ficha não diz."
@@ -100846,7 +100846,7 @@ export const reviewsData: unknown[] = [
           "Qual o valor de um bom presente de casamento? Não existe valor certo. O guia divide as peças em quatro faixas: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500. A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu.",
           "O que dar de presente de casamento até R$ 300? [Ramekin Formato Coração 300 ml Vermelho, Le Creuset](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 159,00; [Jogo 6 Taças Champagne Crex Optic 270 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-champagne-crex-optic-270ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 128,42; [Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-mini-pratos-chapeu-organico-latte-250ml-19x5-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 189,90; e [Moedor de Pimenta Black Onyx, Le Creuset](https://letseatit.com.br/products/moedor-de-pimenta-black-onix-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 295,20.",
           "O que dar de presente de casamento de R$ 300 a 700? [Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-pratos-chapeu-organico-preto-matte-450ml-28x6-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 322,90; [Jogo 6 Taças Champagne Ardea Verde Selva 220 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-ardea-verde-selva-220ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 329,90; [Faqueiro Aço Inox Avalon 30 peças, Wolff](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 383,90; e [Travessa Retangular Heritage Cotton 26 cm, Le Creuset](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 529,00.",
-          "O que dar de presente de casamento de R$ 700 a 1.500? [Aparelho de Jantar Arauco/Greenery 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-organico-stoneware-arauco-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 868,00; [Chaleira Tradicional com Apito 1,6 L Azure Blue, Le Creuset](https://letseatit.com.br/products/chaleira-tradicional-com-apito-1-6l-azure-blue-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 929,00; [Faqueiro LaGuiole La Maison Luxo 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.099,00; e [Skillet Coração Tradition Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.449,00.",
+          "O que dar de presente de casamento de R$ 700 a 1.500? [Aparelho de Jantar Arauco/Greenery 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-organico-stoneware-arauco-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 868,00; [Chaleira Tradicional com Apito 1,6 L Azure Blue, Le Creuset](https://letseatit.com.br/products/chaleira-tradicional-com-apito-1-6l-azure-blue-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 929,00; [Faqueiro LaGuiole La Maison Luxo Verde 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.099,00; e [Skillet Coração Tradition Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.449,00.",
           "O que dar de presente de casamento acima de R$ 1.500? [Faqueiro Aço Inox Pisa 130 peças, Wolff](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-pisa-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.699,00; [Aparelho de Jantar Shimeji Gold 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-shimeji-gold-porto-brasil-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.049,90; [Panela Redonda Signature Azure 2,4 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.329,00; e [Panela Redonda Signature Rhone 5,3 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 3.089,00.",
           "Vale dar aparelho de jantar? Pode valer quando o casal quer começar a mesa do zero ou trocar a louça, porque o conjunto completo chega de uma vez. Antes de escolher, confira o que a ficha da peça permite: o Shimeji Gold, por exemplo, não vai ao micro-ondas.",
           "O cupom vale em Le Creuset? Sim. O cupom MAUAD vale no site da Let's Eat It inteiro, inclusive nas peças da Le Creuset, com 5% sobre o subtotal, sem frete, e soma com o desconto do Pix."
@@ -157494,6 +157494,1002 @@ export const reviewsData: unknown[] = [
           "Ninguém do site usou o Milos Breeze, o trio ou as miniaturas. Este artigo reúne o que a Skelt publica no site oficial (skelt.com.br): ficha de cada produto, com preço, volume, notas, selos e composição, lidos em 29/10/2026, e o cupom aplicado na sacola no mesmo dia, sem finalizar a compra. Toda afirmação sobre fragrância e fixação é da Skelt.",
           "As contas por ml e os valores com cupom e Pix são nossos. Preço, promoção e estoque mudam, e vale o que aparece no site da Skelt na hora da compra. O site recebe comissão pelas compras feitas com o cupom SKEMCASACOMCECILIA e pelos links da Skelt."
         ]
+      }
+    ]
+  },
+  {
+    "id": 712,
+    "slug": "faqueiro-laguiole-la-maison-qual-escolher",
+    "locale": "pt",
+    "title": "Faqueiro Laguiole La Maison: qual escolher (12, 18 ou 30 peças) e se vale a pena",
+    "seoTitle": "Faqueiro Laguiole La Maison: qual escolher",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Faqueiro Laguiole La Maison Luxo de 12, 18 ou 30 peças: o que vem em cada um, as cores com estoque e o preço de cada cor na Let's Eat It, de R$ 469,00 a R$ 1.099,00, e o que a ficha não diz.",
+    "metaDescription": "Faqueiro Laguiole La Maison de 12, 18 ou 30 peças: o que vem em cada um, cores com estoque e preço por cor. Preços de 29/10/2026.",
+    "publishedAt": "29 de outubro de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-capa.webp",
+    "imageAlt": "Talheres do faqueiro Laguiole La Maison Luxo, com faca, garfo, colher, garfo e colher de sobremesa de cabo colorido",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a mesa de seis pessoas com talher de sobremesa, o faqueiro de 30 peças é o conjunto completo, e o Branco era o mais barato dele em 29/10/2026. O de 12 peças traz só faca e garfo, e o de 18 soma a colher. O que muda a escolha é a cor com estoque, na tabela abaixo."
+        ]
+      },
+      {
+        "heading": "Qual escolher: 12, 18 ou 30 peças",
+        "paragraphs": [
+          "A linha Laguiole La Maison Luxo da Let's Eat It tem faqueiro em três tamanhos. Os três servem seis pessoas. O que muda é quantos tipos de talher cada pessoa recebe. Os preços são do cartão, lidos na loja em 29/10/2026, e só entram as cores com estoque nesse dia."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Faqueiro",
+            "O que vem, segundo a ficha",
+            "Cores com estoque",
+            "Preço no cartão (29/10/2026)",
+            "Por pessoa, para 6 (conta nossa)"
+          ],
+          "rows": [
+            [
+              "[Faqueiro Laguiole La Maison Luxo 12 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "6 facas e 6 garfos",
+              "Branco, Verde, Laranja e Bordeaux",
+              "R$ 469,00",
+              "R$ 78,17"
+            ],
+            [
+              "[Faqueiro Laguiole La Maison Luxo 18 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "6 facas, 6 garfos e 6 colheres",
+              "Branco, Verde e Laranja",
+              "R$ 729,00",
+              "R$ 121,50"
+            ],
+            [
+              "[Faqueiro Laguiole La Maison Luxo Branco 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa",
+              "Branco",
+              "R$ 946,32",
+              "R$ 157,72"
+            ],
+            [
+              "[Faqueiro Laguiole La Maison Luxo Verde 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa",
+              "Verde",
+              "R$ 1.099,00",
+              "R$ 183,17"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A coluna por pessoa é conta nossa: o preço dividido por seis. A página mostra também um preço riscado, que muda de cor para cor, e por isso a tabela traz só o preço de venda. O Laranja e o Bordeaux de 30 peças estão na seção seguinte."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-verde-30-pecas.webp",
+            "alt": "Faca, garfo, colher, garfo de sobremesa e colher de sobremesa do faqueiro Laguiole La Maison Luxo de cabo verde, lado a lado sobre tábua de madeira",
+            "caption": "Faqueiro Laguiole La Maison Luxo Verde, 30 peças. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "30 peças: o conjunto completo, com o preço mudando pela cor",
+        "paragraphs": [
+          "O faqueiro de 30 peças traz, segundo a ficha, 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa. São cinco talheres por pessoa para seis pessoas. Não vem colher de chá.",
+          "A composição é a mesma em todas as cores, mas o preço muda com a cor do cabo. Em 29/10/2026, o [Branco](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custava R$ 946,32, o [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e o [Bordeaux](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-bordeaux-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custavam R$ 967,37 cada, e o [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custava R$ 1.099,00. O Marfim, o Preto, o Cinza e o Azul Marinho de 30 peças estavam esgotados nesse dia.",
+          "Se a cor não importa, o Branco é o mais barato. Se o cabo vai combinar com a toalha ou com o sousplat, a diferença do Branco para o Verde é de R$ 152,68."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-branco-30-pecas.webp",
+            "alt": "Cinco talheres do faqueiro Laguiole La Maison Luxo de cabo branco sobre tábua de madeira: garfo, faca, colher, garfo e colher de sobremesa",
+            "caption": "Faqueiro Laguiole La Maison Luxo Branco, 30 peças. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "18 peças: faca, garfo e colher",
+        "paragraphs": [
+          "O de 18 peças tem 6 facas, 6 garfos e 6 colheres, segundo a ficha. Fica de fora o talher de sobremesa. Em 29/10/2026 custava R$ 729,00 nas três cores com estoque: [Branco](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). O Marfim, o Preto, o Cinza e o Azul Marinho estavam esgotados.",
+          "Do 18 peças para o 30 peças Branco, a diferença é de R$ 217,32, e o que entra a mais são as 12 peças de sobremesa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-verde-18-pecas.webp",
+            "alt": "Garfo, faca e colher do faqueiro Laguiole La Maison Luxo de cabo verde sobre tábua de madeira, com pimentas e sal ao fundo",
+            "caption": "Faqueiro Laguiole La Maison Luxo Verde, 18 peças. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "12 peças: só faca e garfo",
+        "paragraphs": [
+          "O de 12 peças traz 6 facas e 6 garfos, segundo a ficha. Em 29/10/2026 custava R$ 469,00 em quatro cores: [Branco](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e [Bordeaux](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-bordeaux-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). O Marfim, o Preto, o Cinza e o Azul Marinho estavam esgotados.",
+          "É o tamanho para quem já tem colheres e talher de sobremesa em casa e quer só a faca e o garfo da linha."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-bordeaux-12-pecas.webp",
+            "alt": "Garfo e faca do faqueiro Laguiole La Maison Luxo de cabo bordeaux ao lado de um prato, sobre bancada de granito",
+            "caption": "Faqueiro Laguiole La Maison Luxo Bordeaux, 12 peças. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "O que a ficha diz e o que não diz",
+        "paragraphs": [
+          "As fichas dos três tamanhos dizem o mesmo sobre o material: lâmina em aço inoxidável e cabo em ABS, um tipo de plástico. A loja diz que o design é de artesãos franceses. O resto fica sem resposta na ficha:"
+        ],
+        "bullets": [
+          "País de fabricação: a ficha não diz onde o faqueiro é feito. \"Design de artesãos franceses\" fala do desenho, não da fábrica.",
+          "Lava-louças: a ficha não diz se pode.",
+          "Garantia: a ficha fala em \"garantia de utensílios de qualidade\" como texto da marca, sem prazo nem termo.",
+          "Estojo: a ficha não cita estojo nem caixa."
+        ],
+        "postParagraphs": [
+          "Se a lava-louças ou a garantia pesam na compra, pergunte à loja antes de pedir."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-detalhe-cabo.webp",
+            "alt": "Detalhe do cabo verde do garfo e da faca do faqueiro Laguiole La Maison Luxo sobre um prato branco",
+            "caption": "Detalhe do cabo do Laguiole La Maison Luxo Verde. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Para quem vale cada tamanho",
+        "paragraphs": [
+          "Para a mesa de Natal de seis pessoas com sobremesa, o 30 peças cobre todos os talheres de cada lugar. O [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) mostra o que entra na mesa além do faqueiro e quanto custa cada faixa.",
+          "Para presente de casamento, o 30 peças entrega o conjunto completo de uma vez, e o 12 ou o 18 cabem num orçamento menor. O [guia de presente de casamento por preço](/reviews/presente-de-casamento-ideias-por-preco) tem outras ideias em cada faixa.",
+          "Para o dia a dia de seis pessoas, o 18 peças já traz faca, garfo e colher. O 12 serve quem só precisa de faca e garfo."
+        ]
+      },
+      {
+        "heading": "Cupom e Pix",
+        "paragraphs": [
+          "No site da Let's Eat It, o cupom MAUAD dá 5%, vale em todas as formas de pagamento e soma com os 5% do Pix: no 30 peças Verde, R$ 1.099,00 ficam R$ 991,85 com os dois (conta nossa, com o preço de 29/10/2026). As condições estão na [página de cupons da Let's Eat It](/cupons/letseatit)."
+        ]
+      },
+      {
+        "heading": "Faqueiro La Maison sem o nome Laguiole",
+        "paragraphs": [
+          "A loja vende também faqueiros da marca La Maison que não levam o nome Laguiole na ficha. Em 29/10/2026, na cor Marfim, o [de 12 peças](https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custava R$ 199,00, o [de 24 peças](https://letseatit.com.br/products/faqueiro-24-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) R$ 389,00 e o [de 36 peças](https://letseatit.com.br/products/faqueiro-36-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) R$ 577,89. O material é outro, aço inoxidável e policarbonato, e cada um traz facas, garfos e colheres em partes iguais, sem talher de sobremesa. As três fichas dizem \"até quatro pessoas\", inclusive a de 24 e a de 36."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O faqueiro Laguiole La Maison pode ir na máquina de lavar louça? A ficha da Let's Eat It não diz. Ela informa só o material: lâmina em aço inoxidável e cabo em ABS.",
+          "O Laguiole La Maison é original francês? A ficha diz que o design é de artesãos franceses, mas não informa o país de fabricação.",
+          "Quantas peças de cada tipo tem o faqueiro Laguiole de 30 peças? São 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa, segundo a ficha. Não vem colher de chá.",
+          "Qual a cor mais barata do faqueiro Laguiole 30 peças? Em 29/10/2026, o Branco, por R$ 946,32 no cartão. O Verde custava R$ 1.099,00 e o Marfim estava esgotado.",
+          "O faqueiro Laguiole La Maison tem garantia? A ficha não traz prazo nem termo de garantia. O texto da loja fala em \"garantia de utensílios de qualidade\" só como descrição da marca."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços e o estoque deste artigo foram lidos no site da Let's Eat It em 29/10/2026. Preço e estoque de loja mudam, então confira antes de comprar. Podemos receber comissão quando alguém compra pelo link da loja ou usa o cupom MAUAD. Ninguém da equipe comprou nem usou estes faqueiros. O texto sai das fichas e das informações que a loja publica, não de experiência nossa."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, somando com o desconto do Pix.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+    "relatedArticles": [
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
+        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      },
+      {
+        "slug": "presente-de-casamento-ideias-por-preco",
+        "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+      },
+      {
+        "slug": "cupom-mauad-lets-eat-it-como-usar",
+        "title": "Como usar o código de desconto da Let's Eat It: 5% no site"
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "slug": "mesa-posta-dia-a-dia-o-que-comprar",
+    "locale": "pt",
+    "title": "Mesa posta do dia a dia: o que comprar primeiro e quanto custa por peça",
+    "seoTitle": "Mesa posta do dia a dia: o que comprar e quanto custa",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mesa posta do dia a dia para 2 e 4 pessoas, na ordem de compra: guardanapo e jogo americano de tecido, depois faqueiro e pratos, com o preço de cada peça e duas faixas, de R$ 414,80 a R$ 849,20.",
+    "metaDescription": "Mesa posta do dia a dia: o que comprar primeiro (tecido, talheres e pratos) e quanto custa para 2 e 4 pessoas. Preços de 29/10/2026.",
+    "publishedAt": "29 de outubro de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/mesa-posta-dia-a-dia-o-que-comprar-capa.webp",
+    "imageAlt": "Guardanapo Poá Terracota, jogo americano Limone, faqueiro marfim e prato raso Carnaúba sobre fundo claro",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para montar a mesa posta do dia a dia aos poucos, comece pelo tecido: um jogo americano e um guardanapo por pessoa, que já mudam a mesa com os pratos e talheres de casa. Depois vêm os talheres, a maior compra de uma vez, e por último os pratos. As duas faixas de preço estão nas tabelas abaixo."
+        ]
+      },
+      {
+        "heading": "O que vai em cada lugar",
+        "paragraphs": [
+          "A conta deste guia é nossa e usa quatro peças por lugar, sem taça e sem sobremesa:"
+        ],
+        "bullets": [
+          "1 jogo americano.",
+          "1 guardanapo de tecido.",
+          "3 talheres: faca, garfo e colher.",
+          "1 prato raso."
+        ],
+        "postParagraphs": [
+          "A ordem da lista é a ordem de compra. O jogo americano vem em 1 unidade, segundo a ficha, e o guardanapo tem na página o preço de uma peça, então você compra o número exato de pessoas e usa com o que já tem. O faqueiro é vendido em jogo e custa mais de uma vez só. Os pratos ficam por último porque quase toda casa já tem algum prato raso para começar.",
+          "Os preços são do cartão, lidos na Let's Eat It em 29/10/2026, e todas as peças estavam disponíveis nesse dia."
+        ]
+      },
+      {
+        "heading": "1º: o guardanapo de tecido",
+        "paragraphs": [
+          "Os dois guardanapos da conta são da Decortextil, de 100% algodão e 45 x 45 cm, segundo a ficha. O [Bordado Oliva](https://letseatit.com.br/products/guardanapo-100-algodao-bordado-oliva?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 36,00 e o [Poá Terracota](https://letseatit.com.br/products/guardanapo-100-algodao-poa-terracota?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 56,00.",
+          "O preço é o da página, e a ficha descreve o guardanapo como \"uma peça\". A conta por pessoa assume um guardanapo por página, o que é conta nossa.",
+          "Pela ficha, os dois pedem lavagem à mão até 40 °C, sem secadora e sem alvejante.",
+          "Quantos guardanapos ter e qual tamanho escolher estão no [guia de guardanapo de tecido](/reviews/guardanapo-de-tecido-quantos-tamanho)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-dia-a-dia-o-que-comprar-guardanapo-poa-terracota.webp",
+            "alt": "Guardanapo de tecido branco com bolinhas e borda ondulada em terracota, aberto sobre fundo branco",
+            "caption": "Guardanapo 100% Algodão Poá Terracota, Decortextil. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "2º: o jogo americano",
+        "paragraphs": [
+          "O [Gregas Bege, da Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 29,90. Pela ficha, mede 50 x 35 cm, é de 100% poliéster e vem 1 unidade. A ficha pede lavagem leve e passar do lado avesso.",
+          "O [Limone Color, da Tuut](https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 54,65. Pela ficha, mede 33 x 48 cm e vem 1 unidade. A ficha diz só que é feito em tecido, sem dizer qual.",
+          "Somando jogo americano e guardanapo, o tecido de cada lugar sai por R$ 65,90 com o Gregas e o Oliva, ou R$ 110,65 com o Limone e o Poá.",
+          "Para escolher tamanho e cor, veja o [guia de jogo americano de tecido](/reviews/jogo-americano-tecido-tamanho-cor)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-dia-a-dia-o-que-comprar-jogo-americano-limone.webp",
+            "alt": "Jogo americano de tecido branco com borda recortada de limões amarelos e folhas verdes",
+            "caption": "Jogo Americano Tecido Limone Color 33 x 48 cm, Tuut. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3595
+          }
+        ]
+      },
+      {
+        "heading": "3º: os talheres",
+        "paragraphs": [
+          "O [Faqueiro 12 Peças Marfim, da La Maison](https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 199,00. Traz 4 facas, 4 garfos e 4 colheres, de aço inoxidável e policarbonato, e a ficha diz que serve até quatro pessoas.",
+          "É a maior compra de uma vez. Para 4 pessoas, os talheres saem a R$ 49,75 por lugar. Para 2 pessoas, você paga o jogo inteiro, e o custo por lugar dobra para R$ 99,50.",
+          "Quem quer comparar com os faqueiros Laguiole da mesma marca encontra a conta em [qual faqueiro Laguiole La Maison escolher](/reviews/faqueiro-laguiole-la-maison-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-dia-a-dia-o-que-comprar-faqueiro-12-pecas-marfim.webp",
+            "alt": "Garfo, faca e colher de aço inox com cabo marfim e rebites aparentes, em pé sobre fundo cinza-claro",
+            "caption": "Faqueiro 12 Peças Marfim, La Maison. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "4º: os pratos",
+        "paragraphs": [
+          "O [prato raso de melamina Xadrez Azul, da EntreCasa](https://letseatit.com.br/products/prato-de-raso-melamina-xadrez-azul-27-8cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 42,00 e mede 27,8 cm, segundo a ficha. A ficha o indica para o dia a dia, áreas molhadas e casa de praia.",
+          "O [prato raso de porcelana Carnaúba, da Tuut](https://letseatit.com.br/products/prato-raso-porcelana-carnauba-27cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 51,90 e mede 27 cm. Pela ficha, é branco e verde, com folhagens e acabamento decorativo na borda.",
+          "Nenhuma das duas fichas diz se o prato vai à lava-louças ou ao micro-ondas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-dia-a-dia-o-que-comprar-prato-carnauba.webp",
+            "alt": "Prato raso de porcelana branco com borda verde e folhagens pintadas em círculos, sobre fundo branco",
+            "caption": "Prato Raso Porcelana Carnaúba 27 cm, Tuut. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0023
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa a mesa: faixa econômica",
+        "paragraphs": [
+          "Preços do cartão em 29/10/2026, sem frete. Para 2 pessoas, a faixa econômica soma R$ 414,80. Para 4 pessoas, R$ 630,60."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Peça",
+            "Preço (cartão)",
+            "2 pessoas",
+            "4 pessoas"
+          ],
+          "rows": [
+            [
+              "[Jogo americano Gregas Bege 35 x 50 cm, Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 29,90",
+              "R$ 59,80",
+              "R$ 119,60"
+            ],
+            [
+              "[Guardanapo 100% Algodão Bordado Oliva 45 x 45 cm, Decortextil](https://letseatit.com.br/products/guardanapo-100-algodao-bordado-oliva?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 36,00",
+              "R$ 72,00",
+              "R$ 144,00"
+            ],
+            [
+              "[Faqueiro 12 Peças Marfim, La Maison](https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 199,00",
+              "R$ 199,00 (1 jogo)",
+              "R$ 199,00 (1 jogo)"
+            ],
+            [
+              "[Prato raso de melamina Xadrez Azul 27,8 cm, EntreCasa](https://letseatit.com.br/products/prato-de-raso-melamina-xadrez-azul-27-8cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 42,00",
+              "R$ 84,00",
+              "R$ 168,00"
+            ],
+            [
+              "Total",
+              "",
+              "R$ 414,80",
+              "R$ 630,60"
+            ],
+            [
+              "Por lugar",
+              "",
+              "R$ 207,40",
+              "R$ 157,65"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sem os pratos, para quem usa os de casa, a faixa fica em R$ 330,80 para 2 pessoas e R$ 462,60 para 4."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-dia-a-dia-o-que-comprar-prato-melamina-xadrez.webp",
+            "alt": "Prato raso redondo de melamina com xadrez azul e branco, visto de cima",
+            "caption": "Prato de Raso Melamina Xadrez Azul 27,8 cm, EntreCasa. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9989
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa a mesa: faixa intermediária",
+        "paragraphs": [
+          "Preços do cartão em 29/10/2026, sem frete. Para 2 pessoas, a faixa intermediária soma R$ 524,10. Para 4 pessoas, R$ 849,20. O faqueiro é o mesmo da faixa econômica."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Peça",
+            "Preço (cartão)",
+            "2 pessoas",
+            "4 pessoas"
+          ],
+          "rows": [
+            [
+              "[Jogo americano Limone Color 33 x 48 cm, Tuut](https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 54,65",
+              "R$ 109,30",
+              "R$ 218,60"
+            ],
+            [
+              "[Guardanapo 100% Algodão Poá Terracota 45 x 45 cm, Decortextil](https://letseatit.com.br/products/guardanapo-100-algodao-poa-terracota?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 56,00",
+              "R$ 112,00",
+              "R$ 224,00"
+            ],
+            [
+              "[Faqueiro 12 Peças Marfim, La Maison](https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 199,00",
+              "R$ 199,00 (1 jogo)",
+              "R$ 199,00 (1 jogo)"
+            ],
+            [
+              "[Prato raso de porcelana Carnaúba 27 cm, Tuut](https://letseatit.com.br/products/prato-raso-porcelana-carnauba-27cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 51,90",
+              "R$ 103,80",
+              "R$ 207,60"
+            ],
+            [
+              "Total",
+              "",
+              "R$ 524,10",
+              "R$ 849,20"
+            ],
+            [
+              "Por lugar",
+              "",
+              "R$ 262,05",
+              "R$ 212,30"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Dá para subir de faixa aos poucos: o faqueiro fica, e você troca primeiro o tecido, depois os pratos. As faixas também se misturam, como o Limone com o Oliva."
+        ]
+      },
+      {
+        "heading": "Sousplat e taça ficam de fora",
+        "paragraphs": [
+          "O sousplat é opcional no dia a dia. Se quiser um, o [Sousplat Liso Verde 33 cm, da Wolff](https://letseatit.com.br/products/sousplat-liso-verde-33cm-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de plástico pela ficha, custa R$ 21,90 cada.",
+          "A taça ficou fora da conta porque a de preço mais baixo disponível em 29/10/2026 vem só em jogo: o [Conjunto 6 Taças base Esfera Âmbar Sphere 450 ml](https://letseatit.com.br/products/taca-base-esfera-ambar-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 264,00."
+        ]
+      },
+      {
+        "heading": "Frete, Pix e cupom",
+        "paragraphs": [
+          "O frete é calculado à parte, pelo CEP. O Pix dá 5% de desconto em muitos produtos, e o cupom MAUAD dá mais 5% sobre o subtotal, vale em todas as formas de pagamento e soma com o Pix.",
+          "Na faixa intermediária para 4 pessoas, R$ 849,20 viram R$ 806,74 só com o código e cerca de R$ 766,40 com o Pix por cima (conta nossa, com os preços de 29/10/2026; o valor exato aparece no checkout). As condições estão na [página de cupons da Let's Eat It](/cupons/letseatit)."
+        ]
+      },
+      {
+        "heading": "Mesa de Natal",
+        "paragraphs": [
+          "Para a ceia, com seis pessoas, sobremesa e taças, a conta é outra: veja a [mesa posta de Natal, o que precisa e quanto custa](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O que comprar primeiro para a mesa posta? O tecido: um jogo americano e um guardanapo por pessoa, que funcionam com os pratos e talheres que você já tem.",
+          "Quanto custa uma mesa posta para 2 pessoas? Com as peças deste guia, a partir de R$ 414,80 no cartão, com o faqueiro de 12 peças inteiro, pelos preços de 29/10/2026.",
+          "Quanto custa uma mesa posta para 4 pessoas? De R$ 630,60 na faixa econômica a R$ 849,20 na intermediária, no cartão e sem frete, pelos preços de 29/10/2026.",
+          "Dá para montar a mesa posta sem taça? Sim. A taça ficou fora da conta porque a opção disponível de preço mais baixo vem em jogo de 6, por R$ 264,00.",
+          "Guardanapo de tecido pode ir na máquina? Pela ficha do Poá Terracota e do Bordado Oliva, não: a lavagem é à mão, até 40 °C, sem secadora e sem alvejante."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços deste artigo foram lidos no site da Let's Eat It em 29/10/2026. Preço de loja muda com promoção, então confira antes de comprar. Podemos receber comissão quando alguém compra pelo link da loja ou usa o cupom MAUAD. Ninguém da equipe comprou nem usou estas peças. O texto sai das fichas e das informações que a loja publica, não de experiência nossa."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, somando com o desconto do Pix.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+    "relatedArticles": [
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
+        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      },
+      {
+        "slug": "presente-de-casamento-ideias-por-preco",
+        "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+      },
+      {
+        "slug": "porto-brasil-e-boa",
+        "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+      }
+    ]
+  },
+  {
+    "id": 714,
+    "slug": "guardanapo-de-tecido-quantos-tamanho",
+    "locale": "pt",
+    "title": "Guardanapo de tecido: quantos por pessoa e qual tamanho escolher",
+    "seoTitle": "Guardanapo de tecido: quantos por pessoa e qual tamanho",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quantos guardanapos de tecido comprar para 2, 4, 6 ou 8 pessoas, com um de reserva por mesa, e a diferença entre as medidas de 45 x 45 cm e 40 x 40 cm, com preços de 29/10/2026.",
+    "metaDescription": "Guardanapo de tecido: 1 por pessoa e 1 de reserva por mesa. Tabela para 2 a 8 pessoas e a diferença entre 45 e 40 cm. Preços de 29/10/2026.",
+    "publishedAt": "29 de outubro de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/guardanapo-de-tecido-quantos-tamanho-capa.webp",
+    "imageAlt": "Guardanapos de tecido brancos da Decortextil, um com poá e borda terracota, um com borda ondulada oliva, um com bordado duplo bege e um com abelhas bordadas e ponto ajour",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pela conta nossa, compre um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. Nas fichas lidas, a medida é 45 x 45 cm ou 40 x 40 cm. O de 45 serve melhor no almoço e no jantar, e o de 40 no café, como mostram as tabelas abaixo."
+        ]
+      },
+      {
+        "heading": "Quantos guardanapos de tecido por pessoa",
+        "paragraphs": [
+          "A conta deste guia é nossa, não de uma norma: um guardanapo por pessoa em cada refeição, mais um de reserva por mesa. A reserva cobre o guardanapo que cai no chão ou leva molho logo no começo, e a pessoa a mais que aparece sem aviso.",
+          "Na tabela, o preço é o do cartão, lido no site da Let's Eat It em 29/10/2026. Nenhuma das quatro fichas traz campo de quantidade, e três delas descrevem o guardanapo como \"uma peça\"; a conta assume um guardanapo por preço. Confira a quantidade no carrinho antes de fechar o pedido."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Guardanapo (Decortextil)",
+            "Medida",
+            "Preço",
+            "2 pessoas (3)",
+            "4 pessoas (5)",
+            "6 pessoas (7)",
+            "8 pessoas (9)"
+          ],
+          "rows": [
+            [
+              "[Bordado Oliva](https://letseatit.com.br/products/guardanapo-100-algodao-bordado-oliva?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "45 x 45 cm",
+              "R$ 36,00",
+              "R$ 108,00",
+              "R$ 180,00",
+              "R$ 252,00",
+              "R$ 324,00"
+            ],
+            [
+              "[Ponto Ajour Cru Abelha](https://letseatit.com.br/products/guardanapo-100-algodao-ponto-ajour-cru-abelha?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "40 x 40 cm",
+              "R$ 36,90",
+              "R$ 110,70",
+              "R$ 184,50",
+              "R$ 258,30",
+              "R$ 332,10"
+            ],
+            [
+              "[Poá Terracota](https://letseatit.com.br/products/guardanapo-100-algodao-poa-terracota?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "45 x 45 cm",
+              "R$ 56,00",
+              "R$ 168,00",
+              "R$ 280,00",
+              "R$ 392,00",
+              "R$ 504,00"
+            ],
+            [
+              "[Bordado Duplo Bege](https://letseatit.com.br/products/guardanapo-100-algodao-bordado-duplo-bege?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "45 x 45 cm",
+              "R$ 58,00",
+              "R$ 174,00",
+              "R$ 290,00",
+              "R$ 406,00",
+              "R$ 522,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Entre parênteses, o número de guardanapos com a reserva. Os totais não incluem frete, que sai pelo CEP.",
+          "O cupom MAUAD dá 5% no site, vale em todas as formas de pagamento e soma com os 5% do Pix; na conta nossa sobre os preços de 29/10/2026, os sete Poá Terracota de uma mesa de seis pessoas saem de R$ 392,00 por R$ 372,40 com o cupom e por R$ 353,78 com o cupom e o Pix, sem frete.",
+          "O [guia da mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) conta um guardanapo por pessoa, sem reserva, para uma mesa de seis. Se for seguir a conta daqui, some uma peça."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/guardanapo-de-tecido-quantos-tamanho-poa-terracota.webp",
+            "alt": "Guardanapo de tecido branco com poás terracota e borda ondulada terracota, aberto sobre fundo branco",
+            "caption": "Guardanapo 100% Algodão Poá Terracota, 45 x 45 cm, Decortextil. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9868
+          }
+        ]
+      },
+      {
+        "heading": "Qual tamanho: 45 x 45 cm ou 40 x 40 cm",
+        "paragraphs": [
+          "Nas fichas dos guardanapos de algodão lidos, há duas medidas: 45 x 45 cm e 40 x 40 cm. Nenhuma ficha chama uma delas de tamanho padrão, e este guia também não chama."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Medida (ficha)",
+            "Guardanapos lidos",
+            "Área (conta nossa)"
+          ],
+          "rows": [
+            [
+              "45 x 45 cm",
+              "Poá Terracota, Bordado Oliva, Bordado Duplo Bege",
+              "2.025 cm², cerca de 27% a mais que o de 40"
+            ],
+            [
+              "40 x 40 cm",
+              "Ponto Ajour Cru Abelha",
+              "1.600 cm², cerca de 21% a menos que o de 45"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A sugestão por refeição também é conta nossa, porque a ficha não diz. O de 45 x 45 cm cobre mais o colo, então vai melhor no almoço e no jantar, com prato principal e molho. O de 40 x 40 cm serve no café da manhã, no lanche e na sobremesa, e também ocupa menos espaço dobrado sobre o prato.",
+          "Se a casa vai usar o mesmo jogo em todas as refeições, o de 45 x 45 cm resolve as duas situações. A medida não define o preço: o Oliva de 45 cm custa R$ 0,90 a menos que o Abelha de 40 cm."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/guardanapo-de-tecido-quantos-tamanho-ajour-abelha.webp",
+            "alt": "Guardanapo de tecido cru com cinco abelhas bordadas e barra de ponto ajour, aberto sobre fundo branco",
+            "caption": "Guardanapo 100% Algodão Ponto Ajour Cru Abelha, 40 x 40 cm, Decortextil. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0045
+          }
+        ]
+      },
+      {
+        "heading": "Tecido e cuidado: o que a ficha manda",
+        "paragraphs": [
+          "Os quatro guardanapos são 100% algodão, segundo a ficha. Os cuidados também se repetem nas quatro:"
+        ],
+        "bullets": [
+          "Lavar à mão, em até 40 °C.",
+          "Não usar alvejante, como cloro ou produtos com peróxido.",
+          "Não usar secadora; a ficha pede secagem natural, à sombra.",
+          "Não lavar a seco em lavanderia.",
+          "Passar com ferro morno, até 150 °C."
+        ],
+        "postParagraphs": [],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/guardanapo-de-tecido-quantos-tamanho-bordado-oliva.webp",
+            "alt": "Guardanapo de tecido branco com borda ondulada bordada em verde-oliva, aberto sobre fundo branco",
+            "caption": "Guardanapo 100% Algodão Bordado Oliva, 45 x 45 cm, Decortextil. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0251
+          }
+        ]
+      },
+      {
+        "heading": "Qual guardanapo escolher",
+        "paragraphs": [
+          "Pelo preço de 29/10/2026 e pela ficha, a escolha fica assim:"
+        ],
+        "bullets": [
+          "Para a mesa do dia a dia no almoço e no jantar: o Bordado Oliva, de 45 x 45 cm, é o mais barato dos quatro, a R$ 36,00. A ficha descreve um bordado oliva em contorno ondulado.",
+          "Para o café da manhã e o lanche: o Ponto Ajour Cru Abelha, de 40 x 40 cm, a R$ 36,90. Segundo a ficha, o ponto ajour tira fios da trama e deixa um pequeno vazado no tecido, e a estampa é de abelhas.",
+          "Para jantar com convidados: o Poá Terracota (R$ 56,00) ou o Bordado Duplo Bege (R$ 58,00), os dois de 45 x 45 cm. A ficha do Poá descreve um bordado terracota em contorno ondulado, e a do Bege, um bordado duplo bege. Para seis pessoas com reserva, a diferença entre os dois é de R$ 14,00."
+        ],
+        "postParagraphs": [
+          "Medida e cor do jogo americano, que vai por baixo do prato, estão no [guia do jogo americano de tecido](/reviews/jogo-americano-tecido-tamanho-cor). As condições do cupom estão na [página de cupons da Let's Eat It](/cupons/letseatit)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/guardanapo-de-tecido-quantos-tamanho-duplo-bege.webp",
+            "alt": "Guardanapo de tecido branco com duas linhas bordadas em bege perto da borda, aberto sobre fundo branco",
+            "caption": "Guardanapo 100% Algodão Bordado Duplo Bege, 45 x 45 cm, Decortextil. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9815
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quantos guardanapos de tecido comprar por pessoa? Um por pessoa em cada refeição, mais um de reserva por mesa, pela conta nossa. Para quatro pessoas, são cinco; para seis, sete.",
+          "Qual o tamanho ideal de guardanapo de pano? Nas fichas lidas, as medidas são 45 x 45 cm e 40 x 40 cm, e nenhuma é chamada de padrão. Pela conta nossa, o de 45 vai melhor no almoço e no jantar, e o de 40 no café e no lanche.",
+          "Guardanapo de tecido pode ir na máquina e na secadora? A ficha dos guardanapos de algodão lidos manda lavar à mão, em até 40 °C, e não usar secadora. A secagem indicada é natural, à sombra.",
+          "Guardanapo de tecido precisa passar? A ficha diz para passar em temperatura média, com ferro morno de até 150 °C."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços e as medidas deste artigo foram lidos no site da Let's Eat It em 29/10/2026. Preço de loja muda com promoção, então confira antes de comprar. Podemos receber comissão quando alguém compra pelo link da loja ou usa o cupom MAUAD. Ninguém da equipe comprou nem usou estes guardanapos: o texto sai das fichas da loja, e as contas de quantidade e de área são nossas."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, somando com o desconto do Pix.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+    "relatedArticles": [
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
+        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      },
+      {
+        "slug": "presente-de-casamento-ideias-por-preco",
+        "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+      },
+      {
+        "slug": "cupom-mauad-lets-eat-it-como-usar",
+        "title": "Como usar o código de desconto da Let's Eat It: 5% no site"
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "slug": "jogo-americano-tecido-tamanho-cor",
+    "locale": "pt",
+    "title": "Jogo americano de tecido: qual tamanho e cor escolher",
+    "seoTitle": "Jogo americano de tecido: qual tamanho e cor escolher",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Jogo americano de tecido redondo ou retangular: a medida que cabe o seu prato, a cor e o material que cada ficha informa e sete peças da Let's Eat It de R$ 18,65 a R$ 63,00.",
+    "metaDescription": "Redondo ou retangular, qual medida cabe o prato e qual cor escolher: sete jogos americanos de tecido de 36,5 a 52 cm, de R$ 18,65. Preços de 29/10/2026.",
+    "publishedAt": "29 de outubro de 2026",
+    "publishedAtISO": "2026-10-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/jogo-americano-tecido-tamanho-cor-capa.webp",
+    "imageAlt": "Jogos americanos de tecido Limone com limões bordados, retangular de linho off white com borda verde e redondo verde sálvia com borda ondulada",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Escolha primeiro o formato: o retangular deixa espaço dos lados do prato para os talheres, e o redondo emoldura só o prato. Depois meça o seu prato, porque o jogo precisa passar o diâmetro dele com folga, e escolha a cor pelo nome que a ficha dá. A conta da borda de cada medida está logo abaixo."
+        ]
+      },
+      {
+        "heading": "Redondo ou retangular: a primeira escolha",
+        "paragraphs": [
+          "O formato vem antes da cor. Nos jogos americanos de tecido que lemos na Let's Eat It em 29/10/2026, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, e os retangulares têm 35 x 50 cm ou 38 x 52 cm. Nenhuma das fichas fala em medida padrão: o que decide é o tamanho do prato que vai em cima.",
+          "O redondo fica do tamanho do prato com uma borda em volta, e os talheres e o copo acabam na mesa, fora dele. O retangular é mais largo que fundo, então sobra tecido dos dois lados do prato, onde ficam o garfo e a faca. Numa mesa estreita, ou com muitos lugares lado a lado, a largura do retangular é o que pesa: o de 50 cm ocupa meio metro por lugar.",
+          "O [Jogo Americano Retangular Gregas Bege 35x50 cm, da Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), por exemplo, mede 50 x 35 cm e tem, segundo a ficha, corte a laser na borda. O [Corrente Bege](https://letseatit.com.br/products/jogo-americano-retangular-corrente-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), da mesma marca, tem a mesma medida, com a borda em formato de corrente."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/jogo-americano-tecido-tamanho-cor-retangular-gregas.webp",
+            "alt": "Jogo americano retangular de tecido com a borda vazada em desenho de arabescos, sobre fundo branco",
+            "caption": "Jogo Americano Retangular Gregas Bege 35x50 cm, Ori Manufatura. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3433
+          }
+        ]
+      },
+      {
+        "heading": "Medidas, material e preço de cada jogo",
+        "paragraphs": [
+          "Os preços são os do cartão, lidos em 29/10/2026, e seis das sete fichas dizem \"Contém: 1 Unidade\". Para uma mesa de quatro lugares, são quatro peças; a última coluna é essa conta, nossa."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Jogo americano",
+            "Formato e medida (ficha)",
+            "Material (ficha)",
+            "Cor (ficha)",
+            "Preço (1 peça)",
+            "Quatro lugares (conta nossa)"
+          ],
+          "rows": [
+            [
+              "[Redondo Bordado D3 Verde Sálvia 36,5 cm, Tuut](https://letseatit.com.br/products/jogo-americano-redondo-bordado-d3-verde-salvia-36-5cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "Redondo, 36,5 cm de diâmetro",
+              "Linho",
+              "Verde Sálvia",
+              "R$ 39,00",
+              "R$ 156,00"
+            ],
+            [
+              "[Bouquet Cinza 38,5 cm, Ori Manufatura](https://letseatit.com.br/products/jogo-americano-bouquet-cinza-38-5cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "Redondo, 38,5 cm de diâmetro",
+              "100% poliéster",
+              "Cinza",
+              "R$ 32,90",
+              "R$ 131,60"
+            ],
+            [
+              "[Inca Caqui 38,5 cm, Ori Manufatura](https://letseatit.com.br/products/jogo-americano-inca-off-caqui-38-5cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "Redondo, 38,5 cm de diâmetro",
+              "100% poliéster",
+              "Caqui",
+              "R$ 24,80",
+              "R$ 99,20"
+            ],
+            [
+              "[Tecido Limone Color 33x48 cm, Tuut](https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "33 x 48 cm; a ficha não diz o formato",
+              "Tecido (a ficha não diz qual)",
+              "Limone",
+              "R$ 54,65",
+              "R$ 218,60"
+            ],
+            [
+              "[Retangular Gregas Bege 35x50 cm, Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "Retangular, 50 x 35 cm",
+              "100% poliéster",
+              "Bege",
+              "R$ 29,90",
+              "R$ 119,60"
+            ],
+            [
+              "[Retangular Corrente Bege 35x50 cm, Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-corrente-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "Retangular, 50 x 35 cm",
+              "100% poliéster",
+              "Bege",
+              "R$ 18,65",
+              "R$ 74,60"
+            ],
+            [
+              "[Retangular Linho Off White Borda Verde 38x52, Decortextil](https://letseatit.com.br/products/jogo-americano-retangular-linho-off-white-borda-verde-38x52?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "Retangular, 38 x 52 cm",
+              "Linho 100% poliéster",
+              "Off White e Verde",
+              "R$ 63,00",
+              "R$ 252,00, se for uma peça"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A ficha do Linho Off White Borda Verde não diz quantas peças vêm, e a conta de quatro lugares dele supõe uma peça por compra. O Corrente Bege é o mais barato da tabela, e o Linho Off White Borda Verde, o mais caro. Estoque e preço mudam ao longo do dia; peças esgotadas em 29/10/2026 ficaram fora da tabela."
+        ]
+      },
+      {
+        "heading": "A conta do prato: quanto de borda sobra",
+        "paragraphs": [
+          "Meça o prato raso de casa de borda a borda. A borda que sobra de cada lado é a medida do jogo menos o diâmetro do prato, dividida por dois. Para um prato raso de 28 cm, a conta, nossa, fica assim:"
+        ],
+        "bullets": [
+          "Redondo de 36,5 cm: 4,25 cm de borda em volta do prato.",
+          "Redondo de 38,5 cm: 5,25 cm de borda em volta do prato.",
+          "Limone, 33 x 48 cm: 2,5 cm acima e abaixo do prato, e 10 cm de cada lado.",
+          "Retangular de 35 x 50 cm: 3,5 cm acima e abaixo, e 11 cm de cada lado.",
+          "Retangular de 38 x 52 cm: 5 cm acima e abaixo, e 12 cm de cada lado."
+        ],
+        "postParagraphs": [
+          "Com prato de 26 cm, some 1 cm de borda em cada lado. Com sousplat de 33 cm, o redondo de 36,5 cm deixa 1,75 cm em volta, e o de 38,5 cm, 2,75 cm. O [Redondo Bordado D3 Verde Sálvia](https://letseatit.com.br/products/jogo-americano-redondo-bordado-d3-verde-salvia-36-5cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), da Tuut, tem 36,5 cm e a borda bordada em camadas, segundo a ficha."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/jogo-americano-tecido-tamanho-cor-redondo-verde-salvia.webp",
+            "alt": "Jogo americano redondo verde sálvia com borda ondulada e contorno bordado em tom claro, visto de cima",
+            "caption": "Jogo Americano Redondo Bordado D3 Verde Sálvia 36,5 cm, Tuut. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0239
+          }
+        ]
+      },
+      {
+        "heading": "Cor: o que a ficha diz de cada uma",
+        "paragraphs": [
+          "A cor de cada jogo está na ficha, e é por ela que dá para escolher: Verde Sálvia, Cinza, Caqui, Bege, Off White e Verde, e Limone. Nenhuma ficha diz com que louça ou com que mesa a peça combina, então essa parte fica com você. Uma saída simples é olhar o que já está na mesa: com prato estampado, jogo liso; com prato liso, o jogo pode ter estampa.",
+          "O [Jogo Americano Tecido Limone Color 33x48 cm, da Tuut](https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem, na ficha, \"Cor: Limone\" e estampa inspirada no tema. Na foto da ficha, limões e folhas bordados contornam a peça, e a ficha não diz o formato nem o tecido. Entre as peças que lemos, é a única com desenho de fruta; os outros jogos são de uma cor só, com borda bordada ou vazada."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/jogo-americano-tecido-tamanho-cor-limone-tuut.webp",
+            "alt": "Jogo americano de tecido branco com limões amarelos e folhas verdes bordados em volta, com o contorno recortado no desenho",
+            "caption": "Jogo Americano Tecido Limone Color 33x48 cm, Tuut. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3595
+          }
+        ]
+      },
+      {
+        "heading": "Material e cuidado: linho, poliéster e a lavagem",
+        "paragraphs": [
+          "Pelas fichas, o Redondo Verde Sálvia da Tuut é de linho, e os jogos da Ori Manufatura (Bouquet, Inca, Gregas e Corrente) são 100% poliéster. A ficha dos Ori pede para passar do lado avesso e usar lavagem leve.",
+          "O [Retangular Linho Off White Borda Verde 38x52, da Decortextil](https://letseatit.com.br/products/jogo-americano-retangular-linho-off-white-borda-verde-38x52?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) é de um tecido que a ficha chama de linho, 100% poliéster. A ficha dele é a mais detalhada no cuidado: lavar à mão em até 40 °C, sem alvejante, sem secadora e sem lavagem a seco, e passar com ferro morno, até 150 °C."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/jogo-americano-tecido-tamanho-cor-linho-borda-verde.webp",
+            "alt": "Jogo americano retangular de tecido bege claro com um filete verde-escuro bordado a poucos centímetros da borda",
+            "caption": "Jogo Americano Retangular Linho Off White Borda Verde 38x52, Decortextil. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3216
+          }
+        ]
+      },
+      {
+        "heading": "Com o guardanapo",
+        "paragraphs": [
+          "O guardanapo entra na mesma conta de cor. O [Guardanapo 100% Algodão Poá Terracota, da Decortextil](https://letseatit.com.br/products/guardanapo-100-algodao-poa-terracota?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de 45 x 45 cm e R$ 56,00 no cartão em 29/10/2026, tem \"Cor: Terracota\" na ficha e pode combinar com o Limone ou com o Verde Sálvia, se você gosta de tons quentes ao lado do verde. Quantos guardanapos por pessoa e qual tamanho estão no guia de [guardanapo de tecido](/reviews/guardanapo-de-tecido-quantos-tamanho)."
+        ]
+      },
+      {
+        "heading": "Onde comprar e o desconto",
+        "paragraphs": [
+          "Todas as peças deste guia estão na Let's Eat It, com frete calculado pelo CEP. O código MAUAD tira 5% em qualquer forma de pagamento e soma com o desconto de 5% do Pix que a página do Limone mostra; pela nossa conta de 29/10/2026, o Limone de R$ 54,65 sai por R$ 51,92 com um dos dois e por R$ 49,32 com os dois. As condições estão na [página de cupons da Let's Eat It](/cupons/letseatit).",
+          "Se a mesa é para uma data, o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) soma sousplat, guardanapo, taças e talheres para seis pessoas."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual o tamanho de um jogo americano? Nas peças que lemos, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, os retangulares, 35 x 50 cm ou 38 x 52 cm, e o Limone, cujo formato a ficha não diz, 33 x 48 cm. Escolha pelo prato: com um prato raso de 28 cm, o redondo de 36,5 cm deixa 4,25 cm de borda, pela nossa conta.",
+          "Jogo americano redondo ou retangular? O retangular deixa espaço para os talheres dos lados do prato. O redondo emoldura o prato e deixa talheres e copo na mesa.",
+          "Tem jogo americano redondo de linho? Tem. O Redondo Bordado D3 Verde Sálvia 36,5 cm, da Tuut, é de linho segundo a ficha e custava R$ 39,00 no cartão em 29/10/2026.",
+          "Jogo americano de tecido pode lavar na máquina? Depende da ficha. A do Linho Off White Borda Verde manda lavar à mão em até 40 °C, a dos jogos da Ori pede lavagem leve, e a da Tuut não fala em lavagem.",
+          "Qual jogo americano combina com mesa de madeira? Nenhuma ficha diz. A escolha é de gosto: olhe a cor do prato e da madeira e use o nome da cor da ficha para comparar."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços e o estoque deste artigo foram lidos no site da Let's Eat It em 29/10/2026 e mudam com promoção. Podemos receber comissão quando alguém compra pelo link da loja ou usa o código MAUAD. Ninguém da equipe comprou nem usou estas peças: o texto sai das fichas e das fotos que a loja publica."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, somando com o desconto do Pix.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+    "relatedArticles": [
+      {
+        "slug": "guardanapo-de-tecido-quantos-tamanho",
+        "title": "Guardanapo de tecido: quantos por pessoa e qual tamanho escolher"
+      },
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
+        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      },
+      {
+        "slug": "presente-de-casamento-ideias-por-preco",
+        "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
       }
     ]
   }
