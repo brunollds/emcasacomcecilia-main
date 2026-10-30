@@ -123326,7 +123326,7 @@ export const reviewsData: unknown[] = [
           "Funciona em pele clara? A Skelt não publica um guia por tom de pele. O controle está no tempo de ação e na versão, então quem tem pouca experiência pode começar pelo Mousse comum, com o menor tempo indicado.",
           "Autobronzeador faz mal? A Skelt declara a linha vegana e cruelty-free e marca o Mousse, a Água, o Gel e o Bifásico como dermatologicamente testados. Com pele sensível, alergia ou gestação, fale com o dermatologista antes de usar.",
           "Como tirar o autobronzeador? Com o Removedor de Autobronzeador, que a Skelt indica para bronzes aplicados há mais de 3 dias, ou esperando a cor sair naturalmente.",
-          "Para hoje à noite, qual usar? O [Bronzeado Instantâneo](https://www.skelt.com.br/bronzeado-instantaneo/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), uma maquiagem corporal que dura de 12 a 24 horas, segundo a marca (R$ 99,90 em 23/10/2026). A diferença para o autobronzeador está no [guia do bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador).",
+          "Para hoje, qual usar? O [Bronzeado Instantâneo](https://www.skelt.com.br/bronzeado-instantaneo/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), uma maquiagem corporal que dura de 12 a 24 horas, segundo a marca (R$ 99,90 em 23/10/2026). A diferença para o autobronzeador está no [guia do bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador).",
           "O cupom vale nos kits e soma com o Pix? Sim: o cupom SKEMCASACOMCECILIA, de 10%, vale em kits e soma com os 5% do Pix, e a Skelt aceita um cupom por pedido. Veja as condições em [cupons da Skelt](/cupons/skelt) e o passo a passo em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar).",
           "Comprei na farmácia, o cupom vale? Não. O cupom SKEMCASACOMCECILIA vale só no site oficial da Skelt."
         ]
@@ -156359,8 +156359,8 @@ export const reviewsData: unknown[] = [
     "id": 707,
     "slug": "bagaggio-e-boa-malas-mochilas",
     "locale": "pt",
-    "title": "Bagaggio é boa? Malas, mochilas e bolsas pelas fichas",
-    "seoTitle": "Bagaggio é boa? Malas, mochilas e bolsas pelas fichas",
+    "title": "Bagaggio é boa? Malas, mochilas e bolsas pelo que a loja informa",
+    "seoTitle": "Bagaggio é boa? Malas, mochilas e bolsas pelo que a loja informa",
     "type": "Guia de Produto",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -156371,27 +156371,27 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que as fichas da Bagaggio dizem de malas, mochilas e bolsas: material, peso, medida, garantia e preço em 29/10/2026, e o que é Travelcross no site.",
-    "metaDescription": "Bagaggio é boa? Veja o que as fichas dizem de malas, mochilas e bolsas: material, peso, garantia e preço em 29/10/2026, e o que é linha Travelcross.",
+    "description": "O que a loja diz sobre malas, mochilas e bolsas: material, peso, medida, garantia e preço em 29/10/2026, e o que é Travelcross no site.",
+    "metaDescription": "Bagaggio é boa? Veja o que a marca informa sobre malas, mochilas e bolsas: material, peso, garantia e preço em 29/10/2026, e o que é linha Travelcross.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa.webp",
-    "imageAlt": "Mochila Slim Horizonte e cadeado com chave da Bagaggio, fotos das fichas da loja, com o logo da Bagaggio e o título Bagaggio é boa?",
+    "imageAlt": "Mochila Slim Horizonte e cadeado com chave da Bagaggio, fotos das páginas de produto da loja, com o logo da Bagaggio e o título Bagaggio é boa?",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende da categoria, porque as fichas da loja dizem material, peso, medida e garantia, mas não como o produto se sai no uso. Nas malas da marca, a ficha traz garantia vitalícia com regulamento; nas mochilas e bolsas, a garantia tem prazo. A Downtown PP e a Mochila Tech aparecem como Travelcross no cadastro da loja."
+          "Depende da categoria, porque a Bagaggio informa material, peso, medida e garantia, mas não como o produto se sai no uso. Nas malas da marca, a página traz garantia vitalícia com regulamento; nas mochilas e bolsas, a garantia tem prazo. A Downtown PP e a Mochila Tech aparecem como Travelcross no cadastro da loja."
         ]
       },
       {
         "heading": "O que este guia lê",
         "paragraphs": [
-          "Ninguém do site usou estas malas, mochilas ou bolsas. O texto lê as fichas do site oficial da Bagaggio em 29/10/2026 e diz o que cada uma traz. Se a mala aguenta a viagem ou se a mochila fica confortável no dia a dia, a ficha não diz, e este guia também não.",
+          "Ninguém do site usou estas malas, mochilas ou bolsas. O texto lê as fichas do site oficial da Bagaggio em 29/10/2026 e diz o que cada uma traz. Se a mala aguenta a viagem ou se a mochila fica confortável no dia a dia, a página não diz, e este guia também não.",
           "A empresa, o CNPJ e o site oficial estão em [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel). A reputação está no [artigo sobre o Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao)."
         ],
         "comparisonTable": {
@@ -156399,8 +156399,8 @@ export const reviewsData: unknown[] = [
             "Produto",
             "Categoria",
             "Preço no cartão em 29/10/2026",
-            "Material na ficha",
-            "Garantia na ficha"
+            "Material",
+            "Garantia"
           ],
           "rows": [
             [
@@ -156466,10 +156466,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Malas: o que a ficha traz",
+        "heading": "Malas: o que a marca informa",
         "paragraphs": [
           "Na busca do site em 29/10/2026, as malas da marca Bagaggio em estoque iam de R$ 249,90, na [Mala de Bordo Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 1.999,90, na [Kyoto Trunk Bronze](https://www.bagaggio.com.br/mala-de-viagem-grande-ultra-ampla-policarbonato-4-rodas-kyoto-trunk-bronze/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de policarbonato. Fica fora dessa faixa uma mala elétrica com patinete, a BG Motion, de R$ 3.499,90.",
-          "As fichas de mala trazem material, medida, capacidade em litros, peso e o tipo de cadeado. A Detroit é de ABS, a Route é de polipropileno e a Kyoto II é de policarbonato. As três têm 55 cm de altura com as rodas, segundo a ficha."
+          "Cada página de mala traz material, medida, capacidade em litros, peso e o tipo de cadeado. A Detroit é de ABS, a Route é de polipropileno e a Kyoto II é de policarbonato. As três têm 55 cm de altura com as rodas, conforme a marca."
         ],
         "bullets": [
           "Detroit Preta: ABS, 55 x 35 x 23 cm, 44,2 L, 2,61 kg, cadeado com senha embutido, 4 rodas 360° removíveis.",
@@ -156477,23 +156477,23 @@ export const reviewsData: unknown[] = [
           "Kyoto II Preta: policarbonato, 55 x 35 x 23 cm, 44,2 L, 3,52 kg, cadeado TSA, rodas duplas 360°."
         ],
         "postParagraphs": [
-          "Quase todas as malas da marca em estoque trazem garantia vitalícia no atributo da ficha, com a ressalva de conferir o regulamento. Quem tem direito e o que ela cobre estão no [artigo da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia).",
-          "A ficha diz que a mala de bordo vai a bordo, mas não cita a regra de nenhuma companhia aérea. Confira a medida e o peso aceitos pela sua companhia antes de comprar."
+          "Quase todas as malas da marca em estoque trazem garantia vitalícia no campo de garantia do produto, com a ressalva de conferir o regulamento. Quem tem direito e o que ela cobre estão no [artigo da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia).",
+          "A Bagaggio anuncia que a mala de bordo vai a bordo, mas não cita a regra de nenhuma companhia aérea. Confira a medida e o peso aceitos pela sua companhia antes de comprar."
         ]
       },
       {
         "heading": "Mochilas: poliéster, couro e garantia com prazo",
         "paragraphs": [
           "Na mesma busca, as mochilas da marca em estoque iam de R$ 49,90, nas escolares, a R$ 999,90, na executiva Titanium. As de notebook ficam no meio: a [Mochila Slim Horizonte](https://www.bagaggio.com.br/mochila-masculina-executiva-para-notebook-horizonte/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custa R$ 79,90, a [Mochila de Couro Arpoador Preta](https://www.bagaggio.com.br/mochila-masculina-de-couro-para-notebook-arpoador-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 399,90 e a [Mochila de Couro Joá Café](https://www.bagaggio.com.br/mochila-masculina-executiva-de-couro-para-notebook-joa-cafe/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 699,90.",
-          "A ficha da Horizonte diz poliéster, 45 x 39 x 11 cm, 19,3 L, 0,46 kg e sem rodas. A descrição fala em compartimento para notebook de até 15,6\", bolso frontal com zíper e alças ajustáveis. A Joá, de couro, traz compartimento para notebook de 16\" e 0,44 kg na ficha."
+          "A Horizonte é de poliéster, mede 45 x 39 x 11 cm, tem 19,3 L, pesa 0,46 kg e não tem rodas. A descrição fala em compartimento para notebook de até 15,6\", bolso frontal com zíper e alças ajustáveis. A Joá, de couro, traz compartimento para notebook de 16\" e pesa 0,44 kg."
         ],
         "postParagraphs": [
-          "Mochila não entra na garantia vitalícia. O atributo de garantia das mochilas da marca é, na maioria, de 90 dias ou 3 meses; algumas executivas, como a [Mochila Executiva Slim Kronos Preta](https://www.bagaggio.com.br/mochila-executiva-kronos-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (R$ 149,90), trazem 3 anos. Parte das fichas não traz o atributo, então confira na ficha da mochila que você escolher."
+          "Mochila não entra na garantia vitalícia. O atributo de garantia das mochilas da marca é, na maioria, de 90 dias ou 3 meses; algumas executivas, como a [Mochila Executiva Slim Kronos Preta](https://www.bagaggio.com.br/mochila-executiva-kronos-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (R$ 149,90), trazem 3 anos. Parte das páginas não traz o atributo, então confira na página da mochila que você escolher."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-mochila-horizonte.webp",
           "alt": "Mochila para notebook Slim Horizonte preta, da marca Bagaggio, de frente, com bolso frontal com zíper",
-          "caption": "Mochila Slim Horizonte, da marca Bagaggio: poliéster, 0,46 kg e garantia de 3 meses na ficha lida em 29/10/2026. Foto oficial da loja.",
+          "caption": "Mochila Slim Horizonte, da marca Bagaggio: poliéster, 0,46 kg e garantia de 3 meses, conforme a página lida em 29/10/2026. Foto oficial da loja.",
           "objectFit": "contain",
           "aspectRatio": 0.6289
         }
@@ -156501,15 +156501,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Bolsas de viagem: o essencial",
         "paragraphs": [
-          "As bolsas da marca em estoque iam de R$ 19,90 a R$ 399,90 na busca de 29/10/2026, somando bolsas de viagem, de ombro e transversais. Entre as de viagem, a [Bolsa de Viagem Média Vegas Preta](https://www.bagaggio.com.br/bolsa-de-viagem-masculina-media-vegas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custa R$ 99,90, e a ficha diz poliéster, 42 L, 0,54 kg e garantia de 90 dias.",
-          "A [Bolsa de Viagem Crinkle 19J Roxa](https://www.bagaggio.com.br/bolsa-de-viagem-pequena-bagaggio-crinkle-19j-roxa/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) aparecia por R$ 49,90, fora de estoque. A ficha diz poliéster, estrutura semirrígida, três bolsos externos com zíper e garantia de 6 meses. Nas bolsas da marca, a garantia mais comum na ficha é de 90 dias ou 3 meses."
+          "As bolsas da marca em estoque iam de R$ 19,90 a R$ 399,90 na busca de 29/10/2026, somando bolsas de viagem, de ombro e transversais. Entre as de viagem, a [Bolsa de Viagem Média Vegas Preta](https://www.bagaggio.com.br/bolsa-de-viagem-masculina-media-vegas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custa R$ 99,90. Ela é de poliéster, tem 42 L, pesa 0,54 kg e, segundo a Bagaggio, tem garantia de 90 dias.",
+          "A [Bolsa de Viagem Crinkle 19J Roxa](https://www.bagaggio.com.br/bolsa-de-viagem-pequena-bagaggio-crinkle-19j-roxa/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) aparecia por R$ 49,90, fora de estoque. Ela é de poliéster, tem estrutura semirrígida e três bolsos externos com zíper, e a Bagaggio anuncia garantia de 6 meses. Nas bolsas da marca, a garantia mais comum entre elas é de 90 dias ou 3 meses."
         ]
       },
       {
         "heading": "Cadeado e rodas",
         "paragraphs": [
           "A loja vende o [Cadeado para Mala com Chave Preto](https://www.bagaggio.com.br/cadeado-para-mala-bagaggio-com-chave-preto-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) à parte, por R$ 59,90, em estoque em 29/10/2026. A descrição diz que ele abre com chave, sem senha, e que serve em malas, mochilas e bolsas de viagem.",
-          "Nem toda mala precisa dele. A Detroit e a Route trazem cadeado com senha embutido, e a Kyoto II traz cadeado TSA, segundo as fichas. As malas de bordo lidas têm 4 rodas 360°; nas mochilas de notebook, a ficha traz \"Sem Rodas\"."
+          "Nem toda mala precisa dele. A Detroit e a Route trazem cadeado com senha embutido, e a Kyoto II traz cadeado TSA, segundo as páginas de produto. As malas de bordo lidas têm 4 rodas 360°; nas mochilas de notebook, a página traz \"Sem Rodas\"."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-cadeado.webp",
@@ -156522,15 +156522,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Bagaggio ou Travelcross?",
         "paragraphs": [
-          "O site vende outras marcas além da Bagaggio. Duas linhas que aparecem muito nas buscas estão cadastradas como Travelcross: a [Mala de Bordo PP Downtown Preta](https://www.bagaggio.com.br/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de R$ 179,90, e a [Mochila Executiva Tech Preta](https://www.bagaggio.com.br/mochila-masculina-executiva-para-notebook-tech-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de R$ 139,90. O campo Marca dentro das duas fichas diz Bagaggio, mas o cadastro da loja as põe na Travelcross, então este guia as chama de Travelcross, vendida pela Bagaggio.",
-          "Isso pesa na garantia. A regra da vitalícia vale para as malas da marca Bagaggio e deixa a Travelcross de fora, e a ficha da Downtown não traz o atributo de garantia. Se a garantia decide a compra, prefira uma mala com a garantia vitalícia na ficha ou pergunte à loja antes."
+          "O site vende outras marcas além da Bagaggio. Duas linhas que aparecem muito nas buscas estão cadastradas como Travelcross: a [Mala de Bordo PP Downtown Preta](https://www.bagaggio.com.br/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de R$ 179,90, e a [Mochila Executiva Tech Preta](https://www.bagaggio.com.br/mochila-masculina-executiva-para-notebook-tech-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de R$ 139,90. O campo Marca dentro das duas páginas diz Bagaggio, mas o cadastro da loja as põe na Travelcross, então este guia as chama de Travelcross, vendida pela Bagaggio.",
+          "Isso pesa na garantia. A regra da vitalícia vale para as malas da marca Bagaggio e deixa a Travelcross de fora, e a página da Downtown não traz o atributo de garantia. Se a garantia decide a compra, prefira uma mala com a garantia vitalícia na página ou pergunte à loja antes."
         ]
       },
       {
         "heading": "Então, a Bagaggio é boa?",
         "paragraphs": [
-          "Pelas fichas, a resposta muda por categoria. Nas malas, a ficha é completa, com material, peso, medida, cadeado e garantia vitalícia. Nas mochilas e bolsas, a ficha traz material e medida, mas a garantia tem prazo e falta em parte das linhas.",
-          "Para escolher, compare na ficha o material, o peso e a garantia do produto que você quer, e confira a marca da linha. Se a dúvida é a loja, e não o produto, comece por [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
+          "Pela descrição da marca, a resposta muda por categoria. Nas malas, a página é completa, com material, peso, medida, cadeado e garantia vitalícia. Nas mochilas e bolsas, o cadastro traz material e medida, mas a garantia tem prazo e falta em parte das linhas.",
+          "Para escolher, compare na página do produto o material, o peso e a garantia do produto que você quer, e confira a marca da linha. Se a dúvida é a loja, e não o produto, comece por [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
         ]
       },
       {
@@ -156544,10 +156544,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Bagaggio é boa para malas? As fichas das malas da marca trazem material, peso, medida, cadeado e garantia vitalícia com regulamento. Elas não dizem como a mala se sai na viagem.",
-          "A Bagaggio é boa para mochilas? As fichas trazem material, medida e, em parte das linhas, peso e garantia. A garantia das mochilas tem prazo, na maioria de 90 dias ou 3 meses.",
-          "A mochila Bagaggio tem garantia vitalícia? Não. A garantia vitalícia vale para as malas da marca, e a mochila segue o prazo da ficha ou da etiqueta.",
-          "A Downtown é Bagaggio ou Travelcross? O cadastro da loja põe a Mala de Bordo PP Downtown na marca Travelcross, embora o campo Marca da ficha diga Bagaggio. A ficha dela não traz garantia vitalícia.",
+          "A Bagaggio é boa para malas? As páginas das malas da marca trazem material, peso, medida, cadeado e garantia vitalícia com regulamento. Elas não dizem como a mala se sai na viagem.",
+          "A Bagaggio é boa para mochilas? As páginas trazem material, medida e, em parte das linhas, peso e garantia. A garantia das mochilas tem prazo, na maioria de 90 dias ou 3 meses.",
+          "A mochila Bagaggio tem garantia vitalícia? Não. A garantia vitalícia vale para as malas da marca, e a mochila segue o prazo da página ou da etiqueta.",
+          "A Downtown é Bagaggio ou Travelcross? O cadastro da loja põe a Mala de Bordo PP Downtown na marca Travelcross, embora o campo Marca da página diga Bagaggio. A página dela não traz garantia vitalícia.",
           "A Bagaggio vende Samsonite? Em 29/10/2026, a busca do site não trazia nenhum produto Samsonite. A marca aparece cadastrada no site, mas sem produto à venda.",
           "A Bagaggio tem cadeado para mala? Tem. O cadeado com chave é vendido à parte por R$ 59,90, e algumas malas, como a Detroit e a Route, já trazem cadeado com senha embutido.",
           "Tem cupom na Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site pela regra da loja. Ele soma com o Pix de 5%."
@@ -156557,14 +156557,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Compare a ficha do produto no site oficial da Bagaggio e use o CECILIA10 no campo de cupom do carrinho para ganhar 10% OFF.",
+      "text": "Compare a página do produto no site oficial da Bagaggio e use o CECILIA10 no campo de cupom do carrinho para ganhar 10% OFF.",
       "label": "Ir para a Bagaggio com o cupom",
       "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
       "sponsored": true
     },
     "coupon": "CECILIA10",
     "affiliate": "bagaggio",
-    "editorialNote": "Feito com as fichas da loja. Podemos receber comissão pelas compras feitas com o CECILIA10.",
+    "editorialNote": "Feito com os dados da própria loja. Podemos receber comissão pelas compras feitas com o CECILIA10.",
     "relatedArticles": [
       {
         "slug": "bagaggio-e-confiavel",
@@ -165745,8 +165745,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mala de bordo Bagaggio: qual compensa? Comparamos Detroit, Route, Cartagena e Downtown pelo preço, pela medida e pelo selo BORDO das fichas de 30/10/2026.",
-    "metaDescription": "Mala de bordo Bagaggio: preço, medida, peso e litros de 7 malas, o selo BORDO da ficha e a regra de bagagem de mão da ANAC, LATAM, GOL e Azul em 30/10/2026.",
+    "description": "Mala de bordo Bagaggio: qual compensa? Comparamos Detroit, Route, Cartagena e Downtown pelo preço, pela medida e pelo selo BORDO das páginas de produto de 30/10/2026.",
+    "metaDescription": "Mala de bordo Bagaggio: preço, medida, peso e litros de 7 malas, o selo BORDO informado pela loja e a regra de bagagem de mão da ANAC, LATAM, GOL e Azul em 30/10/2026.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -165759,24 +165759,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Detroit ABS Preta, de 10 kg, é a mala de bordo de marca Bagaggio mais barata da lista: R$ 249,90 no cartão, com 55 × 35 × 23 cm. A Downtown PP, de 8 kg, custa menos, mas é da Travelcross, e a garantia vitalícia não vale para ela. Confira o selo BORDO e a medida na ficha antes de comprar."
+          "A Detroit ABS Preta, de 10 kg, é a mala de bordo de marca Bagaggio mais barata da lista: R$ 249,90 no cartão, com 55 × 35 × 23 cm. A Downtown PP, de 8 kg, custa menos, mas é da Travelcross, e a garantia vitalícia não vale para ela. Confira o selo BORDO e a medida na página do produto antes de comprar."
         ]
       },
       {
         "heading": "Tabela das malas de bordo, em 30/10/2026",
         "paragraphs": [
-          "Preço é o do cartão, lido nas fichas da loja em 30/10/2026. Medida e peso são da ficha. Os litros também são da ficha, lida em 29/10/2026. O preço por litro é conta nossa: preço do cartão dividido pelos litros."
+          "Preço é o do cartão, lido nas fichas da loja em 30/10/2026. Medida e peso vêm da loja. Os litros também vêm da loja, lidos em 29/10/2026. O preço por litro é conta nossa: preço do cartão dividido pelos litros."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
             "Preço (cartão, 30/10)",
             "Lista",
-            "Medida (ficha)",
+            "Medida",
             "Peso",
             "Litros",
             "R$ por litro",
-            "Selo BORDO na ficha"
+            "Selo BORDO"
           ],
           "rows": [
             [
@@ -165856,10 +165856,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Selo BORDO: o que a ficha mostra",
+        "heading": "Selo BORDO: o que a loja informa",
         "paragraphs": [
-          "O selo BORDO, com ícone de avião, é uma informação da ficha da loja. Não é certificado de embarque, e não garante que a mala passa no balcão da companhia. Quem decide é a companhia, no dia do voo.",
-          "Em 30/10, todas as malas desta tabela trazem o selo na ficha, inclusive a Cartagena, que passa da medida de 55 × 35 cm citada pelas companhias. Por isso o selo não substitui a medida: compare a ficha com a regra da sua companhia."
+          "O selo BORDO, com ícone de avião, é uma informação da loja. Não é certificado de embarque, e não garante que a mala passa no balcão da companhia. Quem decide é a companhia, no dia do voo.",
+          "Em 30/10, todas as malas desta tabela trazem o selo na página do produto, inclusive a Cartagena, que passa da medida de 55 × 35 cm citada pelas companhias. Por isso o selo não substitui a medida: compare a medida da loja com a regra da sua companhia."
         ],
         "images": [
           {
@@ -165908,14 +165908,14 @@ export const reviewsData: unknown[] = [
           "Azul, [página de bagagens](https://www.voeazul.com.br/br/pt/sua-viagem/planeje/bagagens): bagagem de mão de 55 × 35 × 25 cm, até 10 kg. Item menor: 45 × 35 × 20 cm."
         ],
         "postParagraphs": [
-          "As três companhias citam 55 × 35 × 25 cm. O peso muda: 12 kg na LATAM e na GOL, 10 kg na Azul. Pela ficha, a Detroit Preta (55 × 35 × 23 cm) e a Route Preta (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena (57,5 × 38 × 23,5 cm) passa dela. A ficha da Detroit não diz se a medida inclui as rodas; as da Route e da Cartagena dizem que sim. As companhias contam as rodas."
+          "As três companhias citam 55 × 35 × 25 cm. O peso muda: 12 kg na LATAM e na GOL, 10 kg na Azul. A Detroit Preta (55 × 35 × 23 cm) e a Route Preta (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena (57,5 × 38 × 23,5 cm) passa dela. A página da Detroit não diz se a medida inclui as rodas; as da Route e da Cartagena dizem que sim. As companhias contam as rodas."
         ]
       },
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, segundo a regra da [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
-          "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. A ficha da Detroit ABS Preta mostra R$ 237,40 no Pix, sem cupom. Os preços de 22/10 estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
+          "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. A Detroit ABS Preta mostra R$ 237,40 no Pix, sem cupom. Os preços de 22/10 estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
         ]
       },
       {
@@ -165928,8 +165928,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é a mala de bordo mais barata da Bagaggio? Entre as de marca Bagaggio, a Detroit ABS de 10 kg, por R$ 249,90 no cartão em 30/10/2026. A Downtown PP custa menos, mas é da Travelcross.",
-          "A mala de bordo Downtown é Bagaggio ou Travelcross? Pela ficha, é da linha Travelcross. A garantia vitalícia da Bagaggio não vale para ela.",
-          "O que significa o selo BORDO da Bagaggio? É uma informação da ficha da loja, com ícone de avião. Não garante o embarque, que depende da companhia.",
+          "A mala de bordo Downtown é Bagaggio ou Travelcross? A loja a coloca na linha Travelcross. A garantia vitalícia da Bagaggio não vale para ela.",
+          "O que significa o selo BORDO da Bagaggio? É uma informação da loja, com ícone de avião. Não garante o embarque, que depende da companhia.",
           "A mala de bordo Bagaggio passa em qualquer companhia aérea? Não há garantia. A Detroit Preta e a Route Preta ficam dentro da medida de 55 × 35 × 25 cm que LATAM, GOL e Azul citam em 30/10/2026, mas cada companhia decide. Confira antes de viajar.",
           "Polipropileno ou ABS: qual mala de bordo compensa? Depende do que pesa mais para você. O ABS da Detroit pesa 2,61 kg e tem 44,2 litros; o polipropileno da Route Preta pesa 2,43 kg e tem 45,3 litros.",
           "Tem cupom para a mala de bordo Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Não conferimos o valor final no carrinho nesta rodada."
@@ -165946,7 +165946,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA10",
     "affiliate": "bagaggio",
-    "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+    "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10.",
     "relatedArticles": [
       {
         "slug": "tamanho-mala-bagaggio-p-m-g",
@@ -165982,8 +165982,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Qual tamanho de mala comprar na Bagaggio? P, M e G são as faixas de 10, 23 e 32 kg. Veja medidas, peso e litros das fichas em 30/10/2026.",
-    "metaDescription": "Mala de 10, 23 ou 32 kg na Bagaggio: medidas e litros das fichas, a ligação entre P, M e G e a medida de mala de mão das companhias em 30/10/2026.",
+    "description": "Qual tamanho de mala comprar na Bagaggio? P, M e G são as faixas de 10, 23 e 32 kg. Veja medidas e litros das malas em 30/10/2026.",
+    "metaDescription": "Mala de 10, 23 ou 32 kg na Bagaggio: medidas e litros informados pela loja, a ligação entre P, M e G e a medida de mala de mão das companhias em 30/10/2026.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -166000,16 +166000,16 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Medidas e litros das fichas, em 30/10/2026",
+        "heading": "Medidas e litros, em 30/10/2026",
         "paragraphs": [
-          "A tabela traz uma mala de cada linha em cada faixa. Preço e medida são das fichas lidas em 30/10/2026. Litros são da ficha lida em 29/10/2026."
+          "A tabela traz uma mala de cada linha em cada faixa. Preço e medida são da loja, lidos em 30/10/2026, e os litros, em 29/10/2026."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
             "Preço (cartão, 30/10)",
             "Lista",
-            "Medida (ficha)",
+            "Medida",
             "Litros",
             "Faixa",
             "Cabe nas medidas de mala de mão?"
@@ -166022,7 +166022,7 @@ export const reviewsData: unknown[] = [
               "55 × 35 × 23 cm",
               "44,2",
               "10 kg (P no conjunto)",
-              "Sim, pela ficha (que não diz se inclui as rodas)"
+              "Sim (a página não diz se inclui as rodas)"
             ],
             [
               "[Mala de Bordo 10 kg Polipropileno 4 Rodas Route Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -166031,7 +166031,7 @@ export const reviewsData: unknown[] = [
               "55 × 35 × 22,5 cm (com rodas)",
               "45,3",
               "10 kg (P no conjunto)",
-              "Sim, pela ficha"
+              "Sim"
             ],
             [
               "[Mala Pequena 10 kg Polipropileno 4 Rodas Cartagena Preta](https://www.bagaggio.com.br/mala-pequena-10kg-polipropileno-4-rodas-cartagena-preta-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -166115,34 +166115,34 @@ export const reviewsData: unknown[] = [
         "heading": "Como ler as faixas de 10, 23 e 32 kg",
         "paragraphs": [
           "A mala de 10 kg é a de bordo, em nome e em medida. As faixas de 23 kg e 32 kg são o nome que a loja dá às malas maiores, e a medida muda de linha para linha. A Detroit de 23 kg aparece em duas medidas: a Detroit II, com 66 × 41,5 × 26 cm, e a de 26 polegadas, com 70,5 × 44,5 × 29 cm. Mesma faixa, medidas diferentes.",
-          "Os litros acompanham a medida. Na faixa de 23 kg, as fichas lidas vão de 71 a 91 litros, e na de 32 kg, de 104 a 131. Litros são a capacidade que a ficha declara. Não convertemos isso em número de peças de roupa, porque depende de cada peça."
+          "Os litros acompanham a medida. Na faixa de 23 kg, as fichas lidas vão de 71 a 91 litros, e na de 32 kg, de 104 a 131. Litros são a capacidade que a loja declara. Não convertemos isso em número de peças de roupa, porque depende de cada peça."
         ],
         "images": [
           {
             "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-ii-media.webp",
             "alt": "Mala média Detroit II preta da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
-            "caption": "Detroit II Preta, de 23 kg: 66 × 41,5 × 26 cm pela ficha. Foto oficial da loja, lida em 30/10/2026.",
+            "caption": "Detroit II Preta, de 23 kg: 66 × 41,5 × 26 cm. Foto oficial da loja, lida em 30/10/2026.",
             "objectFit": "contain",
             "aspectRatio": 0.5889
           },
           {
             "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-26.webp",
             "alt": "Mala média Detroit de 26 polegadas preta da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
-            "caption": "Detroit de 26 polegadas, de 23 kg: 70,5 × 44,5 × 29 cm pela ficha. Foto oficial da loja, lida em 30/10/2026.",
+            "caption": "Detroit de 26 polegadas, de 23 kg: 70,5 × 44,5 × 29 cm. Foto oficial da loja, lida em 30/10/2026.",
             "objectFit": "contain",
             "aspectRatio": 0.59
           },
           {
             "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-media.webp",
             "alt": "Mala média Route preta de polipropileno da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
-            "caption": "Route Preta, de 23 kg: 66 × 43 × 27 cm pela ficha. Foto oficial da loja, lida em 30/10/2026.",
+            "caption": "Route Preta, de 23 kg: 66 × 43 × 27 cm. Foto oficial da loja, lida em 30/10/2026.",
             "objectFit": "contain",
             "aspectRatio": 0.6033
           },
           {
             "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-grande.webp",
             "alt": "Mala grande Route preta de polipropileno da Bagaggio, de 32 kg, de frente, em foto oficial da loja",
-            "caption": "Route Preta, de 32 kg: 76 × 49 × 30 cm pela ficha. Foto oficial da loja, lida em 30/10/2026.",
+            "caption": "Route Preta, de 32 kg: 76 × 49 × 30 cm. Foto oficial da loja, lida em 30/10/2026.",
             "objectFit": "contain",
             "aspectRatio": 0.6033
           }
@@ -166151,8 +166151,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "P, M e G no conjunto",
         "paragraphs": [
-          "Os conjuntos Detroit, Route e Cartagena trazem P, M e G no nome. Pela medida da ficha, a P é a de 10 kg, a M é a de 23 kg e a G é a de 32 kg. Essa ligação é conta nossa, feita pela medida das peças do conjunto. A loja não a publica.",
-          "A P do conjunto Route tem 56 × 36 × 22,5 cm na ficha do conjunto. A mala Route de 10 kg, vendida avulsa, tem 55 × 35 × 22,5 cm. Não conferimos se é a mesma peça. Se a medida pesa na sua escolha, confira as duas fichas.",
+          "Os conjuntos Detroit, Route e Cartagena trazem P, M e G no nome. Pela medida, a P é a de 10 kg, a M é a de 23 kg e a G é a de 32 kg. Essa ligação é conta nossa, feita pela medida das peças do conjunto. A loja não a publica.",
+          "A P do conjunto Route tem 56 × 36 × 22,5 cm na página do conjunto. A mala Route de 10 kg, vendida avulsa, tem 55 × 35 × 22,5 cm. Não conferimos se é a mesma peça. Se a medida pesa na sua escolha, confira as duas páginas.",
           "Na Detroit e na Cartagena, a P do conjunto tem a mesma medida da mala avulsa de 10 kg."
         ]
       },
@@ -166160,7 +166160,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual mala de 10 kg cabe na bagagem de mão",
         "paragraphs": [
           "LATAM, GOL e Azul citam 55 × 35 × 25 cm para a mala de mão, em 30/10/2026. A ANAC deixa o limite de medida para cada companhia. O detalhe das regras, com as fontes, está no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa).",
-          "Pela ficha, a Detroit Preta (55 × 35 × 23 cm) e a Route Preta de 10 kg (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena P, com 57,5 × 38 × 23,5 cm, passa dela. As de 23 kg e 32 kg passam da medida em todas as linhas da tabela, então não entram como mala de mão pela regra das companhias.",
+          "A Detroit Preta (55 × 35 × 23 cm) e a Route Preta de 10 kg (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena P, com 57,5 × 38 × 23,5 cm, passa dela. As de 23 kg e 32 kg passam da medida em todas as linhas da tabela, então não entram como mala de mão pela regra das companhias.",
           "Cada companhia confere a medida e o peso no balcão, e as regras mudam. Confirme na sua antes de viajar."
         ]
       },
@@ -166171,7 +166171,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Quanto tempo você vai ficar? Para viagem curta, a de 10 kg tem 44 a 51 litros. Para mais dias, a de 23 kg tem 71 a 91 litros.",
-          "Quantas peças você leva? Os litros são a capacidade da ficha, não um número de peças. Compare com o que você costuma levar.",
+          "Quantas peças você leva? Os litros são a capacidade declarada pela loja, não um número de peças. Compare com o que você costuma levar.",
           "Vai despachar ou levar na mão? Se for levar na mão, veja a medida da mala de 10 kg e as regras das companhias no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa)."
         ]
       },
@@ -166192,9 +166192,9 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? A faixa de peso define o tamanho: a de 10 kg é a de bordo, e as de 23 kg e 32 kg são as malas maiores, com mais litros.",
-          "P, M e G são o mesmo que 10, 23 e 32 kg? Nos conjuntos, sim, pela medida das fichas: P é a de 10 kg, M a de 23 kg e G a de 32 kg. Essa ligação é nossa, não da loja.",
+          "P, M e G são o mesmo que 10, 23 e 32 kg? Nos conjuntos, sim, pela medida: P é a de 10 kg, M a de 23 kg e G a de 32 kg. Essa ligação é nossa, não da loja.",
           "Qual tamanho de mala comprar para viagem de uma semana? Para uma semana, a de 23 kg dá mais espaço, com 71 a 91 litros. Se for só levar na mão, a de 10 kg, com 44 a 51 litros, é a opção.",
-          "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pela medida da ficha, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam em 30/10/2026. Cada companhia decide, então confira antes de viajar.",
+          "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pela medida, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam em 30/10/2026. Cada companhia decide, então confira antes de viajar.",
           "Tem cupom para a mala Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Não conferimos o valor final no carrinho nesta rodada."
         ]
       }
@@ -166209,7 +166209,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA10",
     "affiliate": "bagaggio",
-    "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+    "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10.",
     "relatedArticles": [
       {
         "slug": "mala-de-bordo-bagaggio-qual-compensa",
@@ -166245,8 +166245,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mochila para notebook Bagaggio: 12 modelos com preço de cartão de 30/10/2026, da faixa de R$ 79,90 ao couro de R$ 699,90, com medida, material e garantia da ficha.",
-    "metaDescription": "12 mochilas para notebook da Bagaggio com preço de cartão de 30/10/2026: medida, material e garantia de cada ficha, e o cupom CECILIA10.",
+    "description": "Mochila para notebook Bagaggio: 12 modelos com preço de cartão de 30/10/2026, da faixa de R$ 79,90 ao couro de R$ 699,90, com medida, material e garantia informados pela loja.",
+    "metaDescription": "12 mochilas para notebook da Bagaggio com preço de cartão de 30/10/2026: medida, material e garantia informados pela loja, e o cupom CECILIA10.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -166259,20 +166259,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para gastar pouco, a Horizonte Slim sai por R$ 79,90 no cartão, e a ficha diz que ela é para notebook de até 15,6 polegadas. Se você quer couro, a faixa começa em R$ 399,90. O que muda a escolha é o tamanho do seu notebook, e a tabela abaixo mostra a medida de cada modelo."
+          "Para gastar pouco, a Horizonte Slim sai por R$ 79,90 no cartão, e a descrição oficial diz que ela serve para notebook de até 15,6 polegadas. Se você quer couro, a faixa começa em R$ 399,90. O que muda a escolha é o tamanho do seu notebook, e a tabela abaixo mostra a medida de cada modelo."
         ]
       },
       {
         "heading": "Mochilas para notebook por faixa de preço",
         "paragraphs": [
-          "Dos resultados da busca 'notebook' da loja, reunimos 12 modelos, do mais barato ao mais caro. Os preços são do cartão, lidos nas fichas em 30/10/2026. Nas de poliéster, a faixa vai de R$ 79,90 a R$ 299,90. As de couro custam de R$ 399,90 a R$ 699,90.",
-          "Medida, material e etiqueta de tamanho são os que a ficha mostra."
+          "Dos resultados da busca 'notebook' da loja, reunimos 12 modelos, do mais barato ao mais caro. Os preços são do cartão, lidos nas páginas dos produtos em 30/10/2026. Nas de poliéster, a faixa vai de R$ 79,90 a R$ 299,90. As de couro custam de R$ 399,90 a R$ 699,90.",
+          "Medida, material e etiqueta de tamanho vêm da página de cada produto."
         ],
         "comparisonTable": {
           "headers": [
             "Modelo",
             "Preço (cartão, 30/10)",
-            "Medida (ficha)",
+            "Medida",
             "Material",
             "Etiqueta de tamanho"
           ],
@@ -166367,7 +166367,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/bagaggio/mochila-notebook-bagaggio-qual-escolher-horizonte.webp",
             "alt": "Mochila Horizonte Slim da Bagaggio, preta, de frente, em foto oficial da loja",
-            "caption": "Horizonte Slim: a ficha diz notebook de até 15,6 polegadas. Foto oficial da loja.",
+            "caption": "Horizonte Slim: notebook de até 15,6 polegadas, conforme a marca. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.6079
           },
@@ -166383,10 +166383,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como escolher pelo uso",
         "bullets": [
-          "Dia a dia, com orçamento curto: BG Net Branco, Horizonte Slim e BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a única em que lemos a medida do notebook na ficha.",
+          "Dia a dia, com orçamento curto: BG Net Branco, Horizonte Slim e BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a única em que o cadastro traz a medida do notebook.",
           "Trabalho, modelo executivo: Texas, Nurack e City Safe, de poliéster e com etiqueta Grande, entre R$ 179,90 e R$ 199,90.",
-          "Feminina e executiva: a Donna, de R$ 299,90, é média, com poliéster e PVC, e tem 90 dias de garantia pela ficha.",
-          "Couro: Arpoador, a R$ 399,90, ou Joá Café, a R$ 699,90, ambas com etiqueta Pequena. A ficha dá o material; nenhuma delas foi usada por nós, então não dizemos qual dura mais."
+          "Feminina e executiva: a Donna, de R$ 299,90, é média, com poliéster e PVC, e tem 90 dias de garantia, segundo a Bagaggio.",
+          "Couro: Arpoador, a R$ 399,90, ou Joá Café, a R$ 699,90, ambas com etiqueta Pequena. O material está na tabela; nenhuma delas foi usada por nós, então não dizemos qual dura mais."
         ],
         "images": [
           {
@@ -166406,22 +166406,22 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Tamanho de notebook: o que a ficha diz",
+        "heading": "Tamanho de notebook: o que a página mostra",
         "paragraphs": [
-          "Só a Horizonte Slim traz na ficha a medida do notebook que cabe: notebook de até 15,6 polegadas. Nas outras fichas que lemos, a medida do notebook não aparece, e o texto não chuta polegadas.",
-          "A etiqueta de tamanho da loja também não resolve. As marcadas como Grande têm a primeira medida da ficha entre 44 e 52,5 cm, e a Média Donna tem 44,5 cm. Antes de comprar, meça o seu notebook e compare com as medidas da ficha."
+          "Só a Horizonte Slim traz a medida do notebook que cabe: até 15,6 polegadas, na descrição da marca. Nas outras páginas que lemos, a medida do notebook não aparece, e o texto não chuta polegadas.",
+          "A etiqueta de tamanho da loja também não resolve. As marcadas como Grande têm a primeira medida entre 44 e 52,5 cm, e a Média Donna tem 44,5 cm. Antes de comprar, meça o seu notebook e compare com as medidas do produto."
         ]
       },
       {
         "heading": "A Tech é da linha Travelcross",
         "paragraphs": [
-          "A Tech Preta sai por R$ 139,90, com 45 × 34 × 15 cm e etiqueta Grande. A loja a põe na marca Travelcross, e por isso ela não tem a garantia vitalícia que vale para as malas da Bagaggio. A ficha diz 3 meses."
+          "A Tech Preta sai por R$ 139,90, com 45 × 34 × 15 cm e etiqueta Grande. A loja a põe na marca Travelcross, e por isso ela não tem a garantia vitalícia que vale para as malas da Bagaggio. A página diz 3 meses."
         ]
       },
       {
         "heading": "Garantia de mochila",
         "paragraphs": [
-          "A garantia que vale é a que a ficha diz, e muda de modelo para modelo. São três anos na BG Net Branco e na Kronos Preta; 90 dias na Texas, na Donna e na Joá Café; e 3 meses nos outros sete da tabela.",
+          "A garantia que vale é a que a loja indica para cada modelo, e ela muda de um para outro. São três anos na BG Net Branco e na Kronos Preta; 90 dias na Texas, na Donna e na Joá Café; e 3 meses nos outros sete da tabela.",
           "A garantia vitalícia que o guia da garantia descreve é para as malas da marca Bagaggio. Pelo que lemos na página em 22/10, nenhuma mochila entra nela. Veja o [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
         ]
       },
@@ -166435,10 +166435,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Se o seu notebook não está por perto para medir, a Horizonte Slim é a escolha mais simples: é a mais barata com a medida do notebook na ficha. Os outros modelos dependem do seu gosto e do seu notebook."
+          "Se o seu notebook não está por perto para medir, a Horizonte Slim é a escolha mais simples: é a mais barata com a medida do notebook informada pela loja. Os outros modelos dependem do seu gosto e do seu notebook."
         ],
         "bullets": [
-          "Até R$ 100: Horizonte Slim, BG Net Branco ou BG Quiz Marinho, todas a R$ 79,90. Se a garantia pesa, a BG Net tem três anos pela ficha.",
+          "Até R$ 100: Horizonte Slim, BG Net Branco ou BG Quiz Marinho, todas a R$ 79,90. Se a garantia pesa, a BG Net tem três anos, diz a fonte oficial.",
           "R$ 179,90 a R$ 199,90, executiva: Texas, Nurack ou City Safe, todas de poliéster e com etiqueta Grande.",
           "Feminina: Donna, a R$ 299,90, média, com 90 dias de garantia.",
           "Couro: Arpoador, a R$ 399,90, com 3 meses de garantia, ou Joá Café, a R$ 699,90, com 90 dias."
@@ -166447,10 +166447,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é a mochila para notebook mais barata da Bagaggio? Pelo cartão de 30/10/2026, a Horizonte Slim, a BG Net Branco e a BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a que a ficha diz ser para notebook de até 15,6 polegadas.",
-          "Mochila para notebook da Bagaggio tem garantia vitalícia? Não. A vitalícia do guia da garantia é para as malas da marca Bagaggio. A mochila segue a garantia da ficha, de 3 meses, 90 dias ou 3 anos, conforme o modelo.",
+          "Qual é a mochila para notebook mais barata da Bagaggio? Pelo cartão de 30/10/2026, a Horizonte Slim, a BG Net Branco e a BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a que a marca anuncia para notebook de até 15,6 polegadas.",
+          "Mochila para notebook da Bagaggio tem garantia vitalícia? Não. A vitalícia do guia da garantia é para as malas da marca Bagaggio. A mochila segue a garantia que a loja indica, de 3 meses, 90 dias ou 3 anos, conforme o modelo.",
           "Couro ou poliéster: qual mochila compensa? Depende do preço e do uso. O couro começa em R$ 399,90, e o poliéster, em R$ 79,90. Não usamos nenhuma delas, então não dizemos qual dura mais.",
-          "Qual mochila cabe notebook de 15,6 polegadas? A Horizonte Slim, segundo a ficha. Nas outras fichas que lemos, a medida do notebook não aparece.",
+          "Qual mochila cabe notebook de 15,6 polegadas? A Horizonte Slim, pela descrição oficial. Nas outras páginas que lemos, a medida do notebook não aparece.",
           "Tem cupom na Bagaggio? Sim. O CECILIA10 dá 10% em todo o site oficial, com um cupom por pedido. Confira o desconto no resumo do pedido antes de pagar."
         ]
       }
@@ -166473,7 +166473,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "bagaggio-e-boa-malas-mochilas",
-        "title": "Bagaggio é boa? Malas, mochilas e bolsas pelas fichas"
+        "title": "Bagaggio é boa? Malas, mochilas e bolsas pelo que a loja informa"
       },
       {
         "slug": "bagaggio-garantia-vitalicia",
@@ -166515,14 +166515,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Bagaggio, a faixa até R$ 100 tem carteira, nécessaire, bolsa e a mochila Horizonte para notebook. De R$ 100 a R$ 250, há nécessaires, uma carteira de couro e mochilas executivas. Acima de R$ 250, bolsas e mochilas executivas, e o kit Joá, que custa a soma das peças. Preços do cartão em 30/10/2026; o cupom CECILIA10 dá 10%."
+          "Na Bagaggio, até R$ 100 há carteira, nécessaire, bolsa e a mochila Horizonte para notebook; de R$ 100 a R$ 250, nécessaires, uma carteira de couro e mochilas executivas. Acima de R$ 250 ficam bolsas, mochilas executivas e o kit Joá, que custa a soma das peças. Preços do cartão em 30/10/2026, e o CECILIA10 dá 10%."
         ]
       },
       {
         "heading": "Como lemos os preços",
         "paragraphs": [
-          "Os preços são os do cartão, lidos na API pública da loja em 30/10/2026. O preço de lista é o valor riscado na ficha. A faixa segue o preço do cartão, e o carrinho é a referência final, porque preço e estoque mudam.",
-          "Ninguém do site usou estas peças. A lista mostra o que a loja vende e por quanto, e não qual peça é boa de uso. Quando a ficha traz medida, o texto diz que a medida é da ficha."
+          "Os preços são os do cartão, lidos na API pública da loja em 30/10/2026. O preço de lista é o valor riscado na página do produto. A faixa segue o preço do cartão, e o carrinho é a referência final, porque preço e estoque mudam.",
+          "Ninguém do site usou estas peças. A lista mostra o que a loja vende e por quanto, e não qual peça é boa de uso. Quando a página do produto traz medida, o texto diz que a medida é da loja."
         ]
       },
       {
@@ -166563,13 +166563,13 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/bagaggio/presente-natal-bagaggio-mochila-horizonte.webp",
             "alt": "Mochila masculina executiva Horizonte preta da Bagaggio, de frente, com bolso frontal com zíper",
-            "caption": "Mochila Slim Horizonte, preta. Segundo a ficha, cabe notebook de até 15,6 polegadas. Foto oficial da loja.",
+            "caption": "Mochila Slim Horizonte, preta, que cabe notebook de até 15,6 polegadas. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.6118
           }
         ],
         "postParagraphs": [
-          "Segundo a ficha, a Horizonte tem 45 × 39 × 11 cm. Para comparar as mochilas de notebook da loja por uso, veja [mochila de notebook Bagaggio: qual escolher](/reviews/mochila-notebook-bagaggio-qual-escolher)."
+          "A Horizonte tem 45 × 39 × 11 cm. Para comparar as mochilas de notebook da loja por uso, veja [mochila de notebook Bagaggio: qual escolher](/reviews/mochila-notebook-bagaggio-qual-escolher)."
         ]
       },
       {
@@ -166623,7 +166623,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "A Antifurto Urban é a mochila de notebook desta faixa. Segundo a ficha, ela tem 44 × 30 × 17 cm e 22,4 litros."
+          "A Antifurto Urban é a mochila de notebook desta faixa. Ela tem 44 × 30 × 17 cm e 22,4 litros."
         ]
       },
       {
@@ -166702,7 +166702,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Embalagem e vale-presente",
         "paragraphs": [
-          "A loja vende a lata de alumínio para carteira, de R$ 19,90, avulsa. Segundo a ficha, ela mede 11,7 × 14,7 × 3 cm.",
+          "A loja vende a lata de alumínio para carteira, de R$ 19,90, avulsa. Ela mede 11,7 × 14,7 × 3 cm.",
           "A Bagaggio vende vale-presente. Na página vale-presente do site, há a opção de comprar o vale virtual, que leva a um site parceiro de cartões. Não conferimos valores nem regras de uso, então veja as condições na própria página antes de escolher."
         ]
       },
@@ -166710,7 +166710,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom e Pix",
         "paragraphs": [
           "O CECILIA10 dá 10% no site da Bagaggio, inclusive em produto com desconto. A regra completa está na [página do cupom Bagaggio](/cupons/bagaggio). A promoção de 50% na segunda peça é um cupom e não soma com o CECILIA10.",
-          "No Pix, a ficha mostra 5% a mais. No nosso teste de carrinho de 22/10/2026, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Não testamos o cupom nesta lista de peças, então não damos valor final com cupom: confira o resumo do pedido antes de pagar."
+          "No Pix, a loja mostra 5% a mais. No nosso teste de carrinho de 22/10/2026, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Não testamos o cupom nesta lista de peças, então não damos valor final com cupom: confira o resumo do pedido antes de pagar."
         ]
       },
       {
@@ -166766,8 +166766,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mochila escolar Bagaggio: 10 modelos com preço de cartão de 30/10/2026, medida e garantia de cada ficha, e quais são de personagem licenciado.",
-    "metaDescription": "Mochila escolar Bagaggio: 10 modelos com preço de cartão, medida e garantia da ficha em 30/10/2026. Veja as licenciadas, sem faixa etária, e o cupom CECILIA10.",
+    "description": "Mochila escolar Bagaggio: 10 modelos com preço de cartão de 30/10/2026, medida e garantia informadas pela loja, e quais são de personagem licenciado.",
+    "metaDescription": "Mochila escolar Bagaggio: 10 modelos com preço de cartão, medida e garantia informadas pela loja em 30/10/2026. Veja as licenciadas, a idade, que as páginas não trazem, e o cupom CECILIA10.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -166780,20 +166780,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na linha escolar da Bagaggio, medida e garantia mudam de um modelo para outro, e a ficha é a fonte. Nos 10 modelos que reunimos aqui, os preços vão de R$ 49,90 a R$ 399,90, e só três trazem garantia na ficha, de 90 dias. Se a criança quer um personagem, veja a seção de licenciadas."
+          "Na linha escolar da Bagaggio, medida e garantia mudam de um modelo para outro, e quem informa é a loja. Nos 10 modelos que reunimos aqui, os preços vão de R$ 49,90 a R$ 399,90, e só três informam garantia, de 90 dias. Se a criança quer um personagem, veja a seção de licenciadas."
         ]
       },
       {
         "heading": "Preço, medida e garantia de 10 modelos",
         "paragraphs": [
-          "Reunimos 10 mochilas escolares disponíveis na loja em 30/10/2026, da mais barata à mais cara. Os preços são do cartão. A medida e a garantia são as da ficha; onde a ficha não traz garantia, a tabela diz 'não informada'."
+          "Reunimos 10 mochilas escolares disponíveis na loja em 30/10/2026, da mais barata à mais cara. Os preços são do cartão. A medida e a garantia são as que a loja informa; onde ela não traz garantia, a tabela diz 'não informada'."
         ],
         "comparisonTable": {
           "headers": [
             "Modelo",
             "Preço (cartão, 30/10)",
-            "Medida (ficha)",
-            "Garantia (ficha)"
+            "Medida",
+            "Garantia"
           ],
           "rows": [
             [
@@ -166862,21 +166862,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Linha Bagaggio: Star Candy e High Shape III",
         "paragraphs": [
-          "A Star Candy é juvenil e feminina. Pela ficha, tem 18,9 litros, 42 × 30 × 15 cm e 90 dias de garantia, por R$ 249,90.",
-          "A High Shape III é masculina e a ficha a indica para notebook. Sai por R$ 399,90, com 90 dias de garantia. A ficha que lemos não traz a medida do notebook que cabe, então confira o seu antes de comprar. Para mochila de notebook fora do formato escolar, veja [a mochila para notebook Bagaggio](/reviews/mochila-notebook-bagaggio-qual-escolher)."
+          "A Star Candy é juvenil e feminina. Tem 18,9 litros e 42 × 30 × 15 cm. Sai por R$ 249,90 e, nas palavras da Bagaggio, tem 90 dias de garantia.",
+          "A High Shape III é masculina, e a loja a indica para notebook. Sai por R$ 399,90 e a página oficial traz 90 dias de garantia. A página não traz a medida do notebook que cabe, então confira o seu antes de comprar. Para mochila de notebook fora do formato escolar, veja [a mochila para notebook Bagaggio](/reviews/mochila-notebook-bagaggio-qual-escolher)."
         ],
         "images": [
           {
             "src": "/images/reviews/bagaggio/mochila-escolar-bagaggio-star-candy.webp",
             "alt": "Mochila escolar juvenil Star Candy da Bagaggio, lilás com detalhes verde-água, em foto oficial da loja",
-            "caption": "Star Candy: 42 × 30 × 15 cm e 18,9 litros pela ficha. Foto oficial da loja.",
+            "caption": "Star Candy: 42 × 30 × 15 cm e 18,9 litros. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 1.0883
           },
           {
             "src": "/images/reviews/bagaggio/mochila-escolar-bagaggio-high-shape-notebook.webp",
             "alt": "Mochila escolar masculina High Shape III para notebook da Bagaggio, preta, de frente, em foto oficial da loja",
-            "caption": "High Shape III: 52,5 × 31,5 × 20,5 cm e 90 dias de garantia pela ficha. Foto oficial da loja.",
+            "caption": "High Shape III: 52,5 × 31,5 × 20,5 cm e, conforme a marca, 90 dias de garantia. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.6281
           }
@@ -166885,36 +166885,36 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Licenciadas: Disney e Marvel",
         "paragraphs": [
-          "Seis modelos da tabela são de personagem licenciado, vendidos pela Bagaggio: Mickey Grid, Minnie, Cinderela, Frozen Shine e Mickey de rodinhas, com marca Disney na ficha, e Homem Aranha, com marca Marvel. O personagem é da Disney ou da Marvel, não linha própria da Bagaggio.",
+          "Seis modelos da tabela são de personagem licenciado, vendidos pela Bagaggio: Mickey Grid, Minnie, Cinderela, Frozen Shine e Mickey de rodinhas, com a marca Disney indicada pela loja, e Homem Aranha, com a marca Marvel. O personagem é da Disney ou da Marvel, não linha própria da Bagaggio.",
           "A loja também tem modelos Star Wars e Nickelodeon na busca, fora desta tabela. Não sabemos por quanto tempo cada licença fica na loja, então confira o modelo na hora da compra."
         ],
         "images": [
           {
             "src": "/images/reviews/bagaggio/mochila-escolar-bagaggio-minnie-rodinha.webp",
             "alt": "Mochila de rodinhas da Minnie, da Disney, vendida pela Bagaggio, vermelha com a Minnie na frente, em foto oficial da loja",
-            "caption": "Minnie Vermelha: personagem Disney, 30 × 15 × 41 cm pela ficha. Foto oficial da loja.",
+            "caption": "Minnie Vermelha: personagem Disney, 30 × 15 × 41 cm. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.5989
           },
           {
             "src": "/images/reviews/bagaggio/mochila-escolar-bagaggio-homem-aranha-rodinha.webp",
             "alt": "Mochila de rodinhas do Homem-Aranha, da Marvel, vendida pela Bagaggio, em foto oficial da loja",
-            "caption": "Homem Aranha: personagem Marvel, 41 × 29 × 15 cm e 90 dias de garantia pela ficha. Foto oficial da loja.",
+            "caption": "Homem Aranha: personagem Marvel, 41 × 29 × 15 cm e, pela página da Bagaggio, 90 dias de garantia. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.5756
           }
         ]
       },
       {
-        "heading": "Idade: a ficha não diz",
+        "heading": "Idade: sem indicação na loja",
         "paragraphs": [
-          "A ficha não traz faixa etária, e este texto não diz para qual idade serve cada linha. A loja separa os modelos por infantil, juvenil, feminina e masculina, e a tabela segue esses nomes. Se a dúvida é a idade, pergunte à loja antes de comprar."
+          "Faixa etária não aparece na página, e este texto não diz para qual idade serve cada linha. A loja separa os modelos por infantil, juvenil, feminina e masculina, e a tabela segue esses nomes. Se a dúvida é a idade, pergunte à loja antes de comprar."
         ]
       },
       {
         "heading": "Garantia da linha escolar",
         "paragraphs": [
-          "A garantia é a que a ficha diz: 90 dias na Star Candy, na Homem Aranha e na High Shape III. Nos outros modelos da tabela, a ficha não informa garantia, e o texto não atribui outra. Vale conferir na ficha antes de comprar."
+          "A garantia é a que a Bagaggio anuncia: 90 dias na Star Candy, na Homem Aranha e na High Shape III. Nos outros modelos da tabela, a página não traz garantia, e o texto não atribui outra. Vale conferir na página do produto antes de comprar."
         ]
       },
       {
@@ -166927,13 +166927,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Escolha pela linha que a criança usa e pela medida da ficha. Se a garantia da ficha pesa, fique com as três que trazem 90 dias: Star Candy, Homem Aranha e High Shape III."
+          "Escolha pela linha que a criança usa e pela medida que o site oficial informa. Se a garantia pesa, fique com as três em que a descrição oficial traz 90 dias: Star Candy, Homem Aranha e High Shape III."
         ],
         "bullets": [
-          "Quer gastar menos: Listras, a R$ 49,90, ou Grid, a R$ 99,90, ambas 43 × 32 × 14 cm e sem garantia na ficha.",
-          "Quer rodinha: Minnie ou Cinderela, ambas a R$ 199,90 e 30 × 15 × 41 cm. Com o Homem Aranha, a R$ 329,90, a ficha dá 90 dias.",
-          "Juvenil feminina: Star Candy, a R$ 249,90, com 90 dias de garantia.",
-          "Notebook junto: High Shape III, a R$ 399,90, com 90 dias de garantia."
+          "Quer gastar menos: Listras, a R$ 49,90, ou Grid, a R$ 99,90, ambas 43 × 32 × 14 cm e sem garantia informada pela loja.",
+          "Quer rodinha: Minnie ou Cinderela, ambas a R$ 199,90 e 30 × 15 × 41 cm. Com o Homem Aranha, a R$ 329,90, a empresa anuncia 90 dias.",
+          "Juvenil feminina: Star Candy, a R$ 249,90, com 90 dias de garantia, segundo a Bagaggio.",
+          "Notebook junto: High Shape III, a R$ 399,90, com 90 dias de garantia, na descrição da marca."
         ]
       },
       {
@@ -166941,8 +166941,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Bagaggio tem mochila escolar com rodinha? Sim. Na tabela, quatro modelos têm rodinha, de R$ 199,90 a R$ 329,90.",
           "A Bagaggio tem linha KidGo de mochila escolar? Não. Na busca de 30/10, a KidGo aparece só numa mala de bordo.",
-          "Mochila escolar da Disney ou da Marvel é da Bagaggio? A loja vende, com a marca do personagem na ficha. Não é linha própria da Bagaggio.",
-          "Qual a garantia da mochila escolar Bagaggio? Depende do modelo: a ficha diz 90 dias em três modelos e não informa nos outros.",
+          "Mochila escolar da Disney ou da Marvel é da Bagaggio? A loja vende, com a marca do personagem informada por ela. Não é linha própria da Bagaggio.",
+          "Qual a garantia da mochila escolar Bagaggio? Depende do modelo: a Bagaggio anuncia 90 dias em três modelos e não traz garantia nos outros.",
           "Tem cupom para a mochila escolar? Sim. O CECILIA10 dá 10% em todo o site oficial, com um cupom por pedido. Confira o desconto no resumo do pedido antes de pagar."
         ]
       }
@@ -166965,7 +166965,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "bagaggio-e-boa-malas-mochilas",
-        "title": "Bagaggio é boa? Malas, mochilas e bolsas pelas fichas"
+        "title": "Bagaggio é boa? Malas, mochilas e bolsas pelo que a loja informa"
       },
       {
         "slug": "black-friday-bagaggio",
@@ -166981,7 +166981,7 @@ export const reviewsData: unknown[] = [
     "id": 752,
     "slug": "bronzeado-instantaneo-skelt-ou-autobronzeador",
     "locale": "pt",
-    "title": "Bronzeado instantâneo Skelt: qual usar para hoje à noite (e o que muda do autobronzeador)",
+    "title": "Bronzeado instantâneo Skelt: qual usar para hoje (e o que muda do autobronzeador)",
     "seoTitle": "Bronzeado instantâneo ou autobronzeador Skelt: qual usar",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
@@ -166993,8 +166993,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Bronzeado Instantâneo Skelt é uma maquiagem corporal de 12 a 24 horas, por R$ 99,90. Veja o que a ficha diz, o que muda do autobronzeador e o preço de 30/10/2026.",
-    "metaDescription": "Bronzeado instantâneo Skelt ou autobronzeador: compare duração, área, modo de uso e preço de 30/10/2026 pela ficha da marca, para hoje à noite ou para a semana.",
+    "description": "O Bronzeado Instantâneo Skelt é uma maquiagem corporal que a Skelt anuncia durar de 12 a 24 horas, por R$ 99,90. Veja o que muda do autobronzeador e o preço de 30/10/2026.",
+    "metaDescription": "Bronzeado instantâneo Skelt ou autobronzeador: compare duração, área, modo de uso e preço de 30/10/2026 segundo a marca, para hoje ou para a semana.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -167007,25 +167007,25 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para hoje à noite, o Bronzeado Instantâneo Skelt (120 ml, R$ 99,90) é uma maquiagem corporal que a ficha diz durar de 12 a 24 horas. Para a semana, o mousse ou a água, de 7 a 12 dias segundo a ficha, servem melhor. A diferença entre os dois está na seção seguinte."
+          "Para hoje, o Bronzeado Instantâneo Skelt (120 ml, R$ 99,90) é uma maquiagem corporal que a fabricante informa durar de 12 a 24 horas. Para a semana, o mousse ou a água, que a Skelt diz durar de 7 a 12 dias, servem melhor. A diferença entre os dois está na seção seguinte."
         ]
       },
       {
         "heading": "O que muda: maquiagem corporal ou autobronzeador",
         "paragraphs": [
-          "A própria ficha classifica o Bronzeado Instantâneo como maquiagem corporal, e não como autobronzeador. A descrição resumida diz “maquiagem corporal para uma pele bronzeada em segundos”. Por isso ele não substitui o autobronzeador quando a ideia é uma cor que dure dias.",
-          "A ficha do produto indica área corpo e não fala de rosto. Este texto segue a ficha.",
-          "Ninguém do site usou o produto. Tudo aqui vem da ficha oficial, lida em 30/10/2026, e o que a Skelt diz sobre resultado é atribuído a ela. Para escolher entre os autobronzeadores da linha, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
+          "A própria Skelt classifica o Bronzeado Instantâneo como maquiagem corporal, e não como autobronzeador. A descrição resumida traz a frase “maquiagem corporal para uma pele bronzeada em segundos”. Por isso ele não substitui o autobronzeador quando a ideia é uma cor que dure dias.",
+          "A área indicada é corpo, e a Skelt não fala de rosto. Este texto segue essa indicação.",
+          "Ninguém do site usou o produto. Tudo aqui vem da página oficial, lida em 30/10/2026, e o que a Skelt diz sobre resultado é atribuído a ela. Para escolher entre os autobronzeadores da linha, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Tipo (segundo a ficha)",
+            "Tipo",
             "Volume",
             "Preço (30/10/2026)",
             "Preço por ml",
-            "Duração (ficha)",
-            "Área (ficha)"
+            "Duração (segundo a Skelt)",
+            "Área"
           ],
           "rows": [
             [
@@ -167069,9 +167069,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Como usar: o modo de uso da ficha",
+        "heading": "Como usar: o modo de uso da Skelt",
         "paragraphs": [
-          "Segundo a ficha, o produto é aplicado assim:"
+          "Conforme a marca, o produto é aplicado assim:"
         ],
         "bullets": [
           "Aplique uma quantidade generosa na mão ou na [Luva Aplicadora](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz).",
@@ -167079,7 +167079,7 @@ export const reviewsData: unknown[] = [
           "Espere o produto secar antes de se vestir."
         ],
         "postParagraphs": [
-          "A ficha diz que o produto pode ser passado com as mãos ou com a luva, que a loja vende à parte por R$ 34,90 (preço de 30/10/2026). A ficha também lista uniformizar o tom da pele entre os benefícios. É o que a marca escreve, não uma promessa deste texto."
+          "O produto pode ser passado com as mãos ou com a luva, que a loja vende à parte por R$ 34,90 (preço de 30/10/2026). Entre os benefícios, a Skelt também cita uniformizar o tom da pele. É o que a marca escreve, não uma promessa deste texto."
         ],
         "image": {
           "src": "/images/reviews/skelt/bronzeado-instantaneo-skelt-ou-autobronzeador-cores.webp",
@@ -167092,8 +167092,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando escolher cada um",
         "paragraphs": [
-          "Escolha o Bronzeado Instantâneo para a noite de hoje, quando o tempo é curto e a cor precisa aparecer no mesmo dia. A ficha diz que ele dura de 12 a 24 horas.",
-          "Escolha o autobronzeador quando quiser a cor por dias. O [Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem cor-guia, segundo a ficha, e a [Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é incolor.",
+          "Escolha o Bronzeado Instantâneo para hoje, quando o tempo é curto e a cor precisa aparecer no mesmo dia. A Skelt anuncia que ele dura de 12 a 24 horas.",
+          "Escolha o autobronzeador quando quiser a cor por dias. O [Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem cor-guia, e a [Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é incolor.",
           "Se a dúvida é como tirar o autobronzeador depois de alguns dias, veja o [artigo sobre o removedor](/reviews/removedor-autobronzeador-skelt-como-tirar). Se o objetivo é um brilho por cima do bronze, o [iluminador corporal](/reviews/iluminador-corporal-skelt-como-usar) é outro produto."
         ],
         "image": {
@@ -167107,17 +167107,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O bronzeado instantâneo é autobronzeador? Não. A ficha o descreve como maquiagem corporal.",
-          "Quanto tempo dura? Entre 12 e 24 horas, segundo a ficha do produto.",
-          "Serve no rosto? A ficha indica área corpo e não fala de rosto, então este texto não afirma o uso no rosto.",
-          "Sai com o banho? A ficha lida em 30/10/2026 não traz essa informação, então este texto não afirma.",
-          "Qual dura mais, o instantâneo ou o autobronzeador? O instantâneo dura de 12 a 24 horas. O mousse e a água duram de 7 a 12 dias, segundo as fichas."
+          "O bronzeado instantâneo é autobronzeador? Não. A Skelt o descreve como maquiagem corporal.",
+          "Quanto tempo dura? Entre 12 e 24 horas, segundo a Skelt.",
+          "Serve no rosto? A Skelt indica área corpo e não fala de rosto, então este texto não afirma o uso no rosto.",
+          "Sai com o banho? A página do produto, lida em 30/10/2026, não traz essa informação, então este texto não afirma.",
+          "Qual dura mais, o instantâneo ou o autobronzeador? O instantâneo dura de 12 a 24 horas, e o mousse e a água, de 7 a 12 dias, pela descrição da marca."
         ]
       },
       {
         "heading": "Como este guia foi feito",
         "paragraphs": [
-          "Ninguém do site usou os produtos. Este texto reúne o que a Skelt publica na ficha de cada item, lida em 30/10/2026: modo de uso, área, duração e preço. O que a marca diz sobre desempenho é dela, e não resultado que tenhamos visto. Preço e estoque mudam; confira no site da Skelt antes de comprar. Podemos receber comissão pelas compras feitas pelos links da Skelt ou com o cupom SKEMCASACOMCECILIA."
+          "Ninguém do site usou os produtos. Este texto reúne o que a Skelt publica na ficha de cada item, lida em 30/10/2026: modo de uso, área, duração e preço. O que a marca anuncia sobre desempenho é dela, e não resultado que tenhamos visto. Preço e estoque mudam; confira no site da Skelt antes de comprar. Podemos receber comissão pelas compras feitas pelos links da Skelt ou com o cupom SKEMCASACOMCECILIA."
         ]
       }
     ],
@@ -167139,7 +167139,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "removedor-autobronzeador-skelt-como-tirar",
-        "title": "Como tirar o autobronzeador Skelt: removedor, banho e o que a marca diz"
+        "title": "Como tirar o autobronzeador Skelt: removedor, banho e o que a empresa anuncia"
       },
       {
         "slug": "iluminador-corporal-skelt-como-usar",
@@ -167155,8 +167155,8 @@ export const reviewsData: unknown[] = [
     "id": 753,
     "slug": "removedor-autobronzeador-skelt-como-tirar",
     "locale": "pt",
-    "title": "Como tirar o autobronzeador Skelt: removedor, banho e o que a marca diz",
-    "seoTitle": "Como tirar o autobronzeador Skelt: removedor e o que a marca diz",
+    "title": "Como tirar o autobronzeador Skelt: removedor, banho e o que a empresa anuncia",
+    "seoTitle": "Como tirar o autobronzeador Skelt: removedor e o que a fonte oficial diz",
     "type": "Guia how-to",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -167167,8 +167167,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como tirar o autobronzeador Skelt com o Removedor de Autobronzeador, de 140 ml por R$ 69,90 em 30/10/2026: o modo de uso da ficha, o prazo de 3 dias e o que a marca diz.",
-    "metaDescription": "Removedor de autobronzeador Skelt: passo a passo da ficha, prazo de 3 dias, tempo de ação de 3 minutos e preço de 30/10/2026. Veja também o que a marca diz sobre o Bifásico.",
+    "description": "Como tirar o autobronzeador Skelt com o Removedor de Autobronzeador, de 140 ml por R$ 69,90 em 30/10/2026: o modo de uso, o prazo de 3 dias e o que diz a fonte oficial.",
+    "metaDescription": "Removedor de autobronzeador Skelt: passo a passo segundo a Skelt, prazo de 3 dias, tempo de ação de 3 minutos e preço de 30/10/2026. Veja também o que a página oficial traz sobre o Bifásico.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -167185,7 +167185,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Passo a passo, segundo a ficha",
+        "heading": "Passo a passo do removedor",
         "paragraphs": [
           "O modo de uso do removedor vem da página do produto, lida em 30/10/2026. A área indicada é corpo. Para escolher o autobronzeador antes de pensar em tirar, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
         ],
@@ -167197,7 +167197,7 @@ export const reviewsData: unknown[] = [
           "Tire o excesso do produto com água."
         ],
         "postParagraphs": [
-          "O [Removedor de Autobronzeador](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é o item da ficha. A página não traz dado de quanto ele tira de bronze, e ninguém do site testou o produto."
+          "O [Removedor de Autobronzeador](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é o item que a Skelt indica para isso. A página não traz dado de quanto ele tira de bronze, e ninguém do site testou o produto."
         ],
         "image": {
           "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-frasco.webp",
@@ -167210,9 +167210,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando usar e quando esperar",
         "paragraphs": [
-          "A ficha pede pelo menos 3 dias depois da aplicação. Antes desse prazo, a página não indica o removedor. Se a ideia é um bronze para hoje à noite, o [bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) é outro produto, com ficha própria.",
-          "O [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem outra regra. Segundo a ficha dele, após o tempo de ação, o produto se retira no banho e apenas com água morna. É o procedimento da marca para esse produto, não um substituto do removedor.",
-          "Se você não tem o removedor e o autobronzeador não é o Bifásico, este texto não sugere outro método. A ficha de cada produto é que manda. Quem quer o brilho depois do bronze encontra o [iluminador corporal](/reviews/iluminador-corporal-skelt-como-usar) em outro artigo."
+          "A Skelt pede pelo menos 3 dias depois da aplicação. Antes desse prazo, a página não indica o removedor. Se a ideia é um bronze para hoje, o [bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) é outro produto, com instruções próprias.",
+          "O [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem outra regra. Pela descrição da marca, após o tempo de ação, o produto se retira no banho e apenas com água morna. É o procedimento da marca para esse produto, não um substituto do removedor.",
+          "Se você não tem o removedor e o autobronzeador não é o Bifásico, este texto não sugere outro método. A página de cada produto é que manda. Quem quer o brilho depois do bronze encontra o [iluminador corporal](/reviews/iluminador-corporal-skelt-como-usar) em outro artigo."
         ],
         "image": {
           "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-mao.webp",
@@ -167233,7 +167233,7 @@ export const reviewsData: unknown[] = [
             "Volume",
             "Preço (30/10/2026)",
             "Preço por ml",
-            "Para que serve (segundo a ficha)"
+            "Para que serve (segundo a Skelt)"
           ],
           "rows": [
             [
@@ -167266,17 +167266,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quanto tempo depois posso usar o removedor? Pelo menos 3 dias depois da aplicação, segundo a ficha.",
-          "Quanto tempo ele fica na pele? No mínimo 3 minutos, pela ficha.",
+          "Quanto tempo depois posso usar o removedor? Pelo menos 3 dias depois da aplicação, segundo a marca.",
+          "Quanto tempo ele fica na pele? No mínimo 3 minutos, como indica a marca.",
           "Preciso da luva para tirar? Não. A luva é para aplicar o autobronzeador; o removedor se usa com toalha ou esponja molhadas em água morna.",
-          "Funciona? A ficha não traz dado de eficácia, e ninguém do site testou o produto.",
-          "Posso usar no rosto? A ficha indica área corpo, então este texto não recomenda o rosto."
+          "Funciona? A página não traz dado de eficácia, e ninguém do site testou o produto.",
+          "Posso usar no rosto? A Skelt indica área corpo, então este texto não recomenda o rosto."
         ]
       },
       {
         "heading": "Como este guia foi feito",
         "paragraphs": [
-          "Ninguém do site usou o removedor. Este texto reúne o que a Skelt publica na ficha do produto e da luva, lida em 30/10/2026: modo de uso, área, prazo e preço. O que a marca diz sobre o produto é dela, e não resultado que tenhamos visto. Preço e estoque mudam; confira no site da Skelt antes de comprar. Podemos receber comissão pelas compras feitas pelos links da Skelt ou com o cupom SKEMCASACOMCECILIA."
+          "Ninguém do site usou o removedor. Este texto reúne o que a Skelt publica na ficha do produto e da luva, lida em 30/10/2026: modo de uso, área, prazo e preço. O que a marca anuncia sobre o produto é dela, e não resultado que tenhamos visto. Preço e estoque mudam; confira no site da Skelt antes de comprar. Podemos receber comissão pelas compras feitas pelos links da Skelt ou com o cupom SKEMCASACOMCECILIA."
         ]
       }
     ],
@@ -167298,7 +167298,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "bronzeado-instantaneo-skelt-ou-autobronzeador",
-        "title": "Bronzeado instantâneo Skelt: qual usar para hoje à noite (e o que muda do autobronzeador)"
+        "title": "Bronzeado instantâneo Skelt: qual usar para hoje (e o que muda do autobronzeador)"
       },
       {
         "slug": "iluminador-corporal-skelt-como-usar",
@@ -167326,8 +167326,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como usar o Iluminador Corporal Skelt, de 120 ml por R$ 99,90 em 30/10/2026: modo de uso da ficha, corpo e rosto, e a conta do Kit Bronze & Glow Mousse.",
-    "metaDescription": "Iluminador corporal Skelt: modo de uso pela ficha, duração de 12 a 24 horas e a conta do kit Bronze & Glow Mousse contra o avulso, com preços de 30/10/2026.",
+    "description": "Como usar o Iluminador Corporal Skelt, de 120 ml por R$ 99,90 em 30/10/2026: modo de uso, corpo e rosto, e a conta do Kit Bronze & Glow Mousse.",
+    "metaDescription": "Iluminador corporal Skelt: modo de uso segundo a Skelt, duração anunciada de 12 a 24 horas e a conta do kit Bronze & Glow Mousse contra o avulso, com preços de 30/10/2026.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -167340,16 +167340,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para quem já tem bronze e quer brilho, o Iluminador Corporal Skelt (120 ml, R$ 99,90) é a compra avulsa. A ficha diz que ele dura de 12 a 24 horas e indica corpo e rosto. Se a dúvida é o kit com mousse e luva, a conta está na seção de preços."
+          "Para quem já tem bronze e quer brilho, o Iluminador Corporal Skelt (120 ml, R$ 99,90) é a compra avulsa. A Skelt diz que ele dura de 12 a 24 horas e indica corpo e rosto. Se a dúvida é o kit com mousse e luva, a conta está na seção de preços."
         ]
       },
       {
-        "heading": "Como usar, pelo modo de uso da ficha",
+        "heading": "Como usar, segundo o modo de uso da Skelt",
         "paragraphs": [
-          "A ficha do produto manda aplicar uma quantidade generosa na mão ou na luva, espalhar em movimentos circulares até obter uma cor uniforme e esperar secar antes de se vestir."
+          "A página do produto manda aplicar uma quantidade generosa na mão ou na luva, espalhar em movimentos circulares até obter uma cor uniforme e esperar secar antes de se vestir."
         ],
         "postParagraphs": [
-          "A ficha diz que o produto pode ser passado com as mãos ou com a [Luva Aplicadora](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), vendida à parte. Os benefícios da ficha são pele dourada e iluminada e uniformizar o tom da pele. São o que a marca escreve, não promessas deste texto."
+          "O produto pode ser passado com as mãos ou com a [Luva Aplicadora](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), vendida à parte. A Skelt lista como benefícios pele dourada e iluminada e uniformizar o tom da pele. São o que a marca escreve, não promessas deste texto."
         ],
         "image": {
           "src": "/images/reviews/skelt/iluminador-corporal-skelt-como-usar-frasco.webp",
@@ -167360,10 +167360,10 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Corpo e rosto: o que a ficha indica",
+        "heading": "Corpo e rosto: as áreas de uso",
         "paragraphs": [
-          "A ficha do Iluminador Corporal indica área corpo e rosto, com nível de iniciante a expert. Não há variação de tom: o iluminador aparece no site como um produto só, sem cor para escolher.",
-          "Ninguém do site usou o produto no rosto. Este texto diz o que a ficha diz e não descreve resultado nenhum."
+          "A página do Iluminador Corporal indica área corpo e rosto, com nível de iniciante a expert. Não há variação de tom: o iluminador aparece no site como um produto só, sem cor para escolher.",
+          "Ninguém do site usou o produto no rosto. Este texto repete o que a Skelt indica e não descreve resultado nenhum."
         ],
         "image": {
           "src": "/images/reviews/skelt/iluminador-corporal-skelt-como-usar-pele.webp",
@@ -167412,24 +167412,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Iluminador ou bronzeado instantâneo",
         "paragraphs": [
-          "A ficha do iluminador fala em micropérolas iluminadoras e glow dourado. A do [Bronzeado Instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) fala em pele bronzeada em segundos. Os dois são maquiagem corporal, com duração de 12 a 24 horas segundo as fichas.",
+          "A página do iluminador fala em micropérolas iluminadoras e glow dourado. A do [Bronzeado Instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) fala em pele bronzeada em segundos. Os dois são maquiagem corporal, com duração de 12 a 24 horas, segundo a Skelt.",
           "Se a pergunta é cor, veja o bronzeado. Se é brilho por cima, o iluminador é o produto. Para tirar um autobronzeador de alguns dias, veja [como tirar o autobronzeador Skelt](/reviews/removedor-autobronzeador-skelt-como-tirar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como usar o iluminador? Aplique uma quantidade generosa na mão ou na luva, espalhe em movimentos circulares até uma cor uniforme e espere secar antes de se vestir, segundo a ficha.",
-          "Quanto tempo dura? De 12 a 24 horas, pela ficha.",
-          "Serve no rosto? A ficha indica corpo e rosto. Este texto segue a ficha e não diz qual é o resultado no rosto.",
-          "Precisa de luva? Não. A ficha diz que o produto pode ser passado com as mãos ou com a luva, vendida à parte por R$ 34,90.",
+          "Como usar o iluminador? Aplique uma quantidade generosa na mão ou na luva, espalhe em movimentos circulares até uma cor uniforme e espere secar antes de se vestir, conforme a marca.",
+          "Quanto tempo dura? De 12 a 24 horas, pela descrição da marca.",
+          "Serve no rosto? A Skelt indica corpo e rosto. Este texto segue essa indicação e não diz qual é o resultado no rosto.",
+          "Precisa de luva? Não. A Skelt diz que o produto pode ser passado com as mãos ou com a luva, vendida à parte por R$ 34,90.",
           "Compensa comprar no kit? Se você quer as três peças (mousse, luva e iluminador), o kit sai R$ 62,92 mais barato que comprar cada uma separada, em 30/10/2026. Se só quer o mousse e a luva, avulsos eles somam R$ 154,80, menos que o kit."
         ]
       },
       {
         "heading": "Como este guia foi feito",
         "paragraphs": [
-          "Ninguém do site usou os produtos. Este texto reúne o que a Skelt publica na ficha de cada item, lida em 30/10/2026: modo de uso, área, duração e preço. O que a marca diz sobre desempenho é dela, e não resultado que tenhamos visto. Preço e estoque mudam; confira no site da Skelt antes de comprar. Podemos receber comissão pelas compras feitas pelos links da Skelt ou com o cupom SKEMCASACOMCECILIA."
+          "Ninguém do site usou os produtos. Este texto reúne o que a Skelt publica na ficha de cada item, lida em 30/10/2026: modo de uso, área, duração e preço. O que a marca anuncia sobre desempenho é dela, e não resultado que tenhamos visto. Preço e estoque mudam; confira no site da Skelt antes de comprar. Podemos receber comissão pelas compras feitas pelos links da Skelt ou com o cupom SKEMCASACOMCECILIA."
         ]
       }
     ],
@@ -167451,11 +167451,11 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "bronzeado-instantaneo-skelt-ou-autobronzeador",
-        "title": "Bronzeado instantâneo Skelt: qual usar para hoje à noite (e o que muda do autobronzeador)"
+        "title": "Bronzeado instantâneo Skelt: qual usar para hoje (e o que muda do autobronzeador)"
       },
       {
         "slug": "removedor-autobronzeador-skelt-como-tirar",
-        "title": "Como tirar o autobronzeador Skelt: removedor, banho e o que a marca diz"
+        "title": "Como tirar o autobronzeador Skelt: removedor, banho e o que a empresa anuncia"
       },
       {
         "slug": "cupom-skelt-como-usar",

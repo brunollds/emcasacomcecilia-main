@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Qual tamanho de mala comprar na Bagaggio? P, M e G são as faixas de 10, 23 e 32 kg. Veja medidas, peso e litros das fichas em 30/10/2026.",
-  "metaDescription": "Mala de 10, 23 ou 32 kg na Bagaggio: medidas e litros das fichas, a ligação entre P, M e G e a medida de mala de mão das companhias em 30/10/2026.",
+  "description": "Qual tamanho de mala comprar na Bagaggio? P, M e G são as faixas de 10, 23 e 32 kg. Veja medidas e litros das malas em 30/10/2026.",
+  "metaDescription": "Mala de 10, 23 ou 32 kg na Bagaggio: medidas e litros informados pela loja, a ligação entre P, M e G e a medida de mala de mão das companhias em 30/10/2026.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
   "draft": false,
@@ -32,16 +32,16 @@
       ]
     },
     {
-      "heading": "Medidas e litros das fichas, em 30/10/2026",
+      "heading": "Medidas e litros, em 30/10/2026",
       "paragraphs": [
-        "A tabela traz uma mala de cada linha em cada faixa. Preço e medida são das fichas lidas em 30/10/2026. Litros são da ficha lida em 29/10/2026."
+        "A tabela traz uma mala de cada linha em cada faixa. Preço e medida são da loja, lidos em 30/10/2026, e os litros, em 29/10/2026."
       ],
       "comparisonTable": {
         "headers": [
           "Produto",
           "Preço (cartão, 30/10)",
           "Lista",
-          "Medida (ficha)",
+          "Medida",
           "Litros",
           "Faixa",
           "Cabe nas medidas de mala de mão?"
@@ -54,7 +54,7 @@
             "55 × 35 × 23 cm",
             "44,2",
             "10 kg (P no conjunto)",
-            "Sim, pela ficha (que não diz se inclui as rodas)"
+            "Sim (a página não diz se inclui as rodas)"
           ],
           [
             "[Mala de Bordo 10 kg Polipropileno 4 Rodas Route Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -63,7 +63,7 @@
             "55 × 35 × 22,5 cm (com rodas)",
             "45,3",
             "10 kg (P no conjunto)",
-            "Sim, pela ficha"
+            "Sim"
           ],
           [
             "[Mala Pequena 10 kg Polipropileno 4 Rodas Cartagena Preta](https://www.bagaggio.com.br/mala-pequena-10kg-polipropileno-4-rodas-cartagena-preta-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -147,34 +147,34 @@
       "heading": "Como ler as faixas de 10, 23 e 32 kg",
       "paragraphs": [
         "A mala de 10 kg é a de bordo, em nome e em medida. As faixas de 23 kg e 32 kg são o nome que a loja dá às malas maiores, e a medida muda de linha para linha. A Detroit de 23 kg aparece em duas medidas: a Detroit II, com 66 × 41,5 × 26 cm, e a de 26 polegadas, com 70,5 × 44,5 × 29 cm. Mesma faixa, medidas diferentes.",
-        "Os litros acompanham a medida. Na faixa de 23 kg, as fichas lidas vão de 71 a 91 litros, e na de 32 kg, de 104 a 131. Litros são a capacidade que a ficha declara. Não convertemos isso em número de peças de roupa, porque depende de cada peça."
+        "Os litros acompanham a medida. Na faixa de 23 kg, as fichas lidas vão de 71 a 91 litros, e na de 32 kg, de 104 a 131. Litros são a capacidade que a loja declara. Não convertemos isso em número de peças de roupa, porque depende de cada peça."
       ],
       "images": [
         {
           "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-ii-media.webp",
           "alt": "Mala média Detroit II preta da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
-          "caption": "Detroit II Preta, de 23 kg: 66 × 41,5 × 26 cm pela ficha. Foto oficial da loja, lida em 30/10/2026.",
+          "caption": "Detroit II Preta, de 23 kg: 66 × 41,5 × 26 cm. Foto oficial da loja, lida em 30/10/2026.",
           "objectFit": "contain",
           "aspectRatio": 0.5889
         },
         {
           "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-26.webp",
           "alt": "Mala média Detroit de 26 polegadas preta da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
-          "caption": "Detroit de 26 polegadas, de 23 kg: 70,5 × 44,5 × 29 cm pela ficha. Foto oficial da loja, lida em 30/10/2026.",
+          "caption": "Detroit de 26 polegadas, de 23 kg: 70,5 × 44,5 × 29 cm. Foto oficial da loja, lida em 30/10/2026.",
           "objectFit": "contain",
           "aspectRatio": 0.59
         },
         {
           "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-media.webp",
           "alt": "Mala média Route preta de polipropileno da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
-          "caption": "Route Preta, de 23 kg: 66 × 43 × 27 cm pela ficha. Foto oficial da loja, lida em 30/10/2026.",
+          "caption": "Route Preta, de 23 kg: 66 × 43 × 27 cm. Foto oficial da loja, lida em 30/10/2026.",
           "objectFit": "contain",
           "aspectRatio": 0.6033
         },
         {
           "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-grande.webp",
           "alt": "Mala grande Route preta de polipropileno da Bagaggio, de 32 kg, de frente, em foto oficial da loja",
-          "caption": "Route Preta, de 32 kg: 76 × 49 × 30 cm pela ficha. Foto oficial da loja, lida em 30/10/2026.",
+          "caption": "Route Preta, de 32 kg: 76 × 49 × 30 cm. Foto oficial da loja, lida em 30/10/2026.",
           "objectFit": "contain",
           "aspectRatio": 0.6033
         }
@@ -183,8 +183,8 @@
     {
       "heading": "P, M e G no conjunto",
       "paragraphs": [
-        "Os conjuntos Detroit, Route e Cartagena trazem P, M e G no nome. Pela medida da ficha, a P é a de 10 kg, a M é a de 23 kg e a G é a de 32 kg. Essa ligação é conta nossa, feita pela medida das peças do conjunto. A loja não a publica.",
-        "A P do conjunto Route tem 56 × 36 × 22,5 cm na ficha do conjunto. A mala Route de 10 kg, vendida avulsa, tem 55 × 35 × 22,5 cm. Não conferimos se é a mesma peça. Se a medida pesa na sua escolha, confira as duas fichas.",
+        "Os conjuntos Detroit, Route e Cartagena trazem P, M e G no nome. Pela medida, a P é a de 10 kg, a M é a de 23 kg e a G é a de 32 kg. Essa ligação é conta nossa, feita pela medida das peças do conjunto. A loja não a publica.",
+        "A P do conjunto Route tem 56 × 36 × 22,5 cm na página do conjunto. A mala Route de 10 kg, vendida avulsa, tem 55 × 35 × 22,5 cm. Não conferimos se é a mesma peça. Se a medida pesa na sua escolha, confira as duas páginas.",
         "Na Detroit e na Cartagena, a P do conjunto tem a mesma medida da mala avulsa de 10 kg."
       ]
     },
@@ -192,7 +192,7 @@
       "heading": "Qual mala de 10 kg cabe na bagagem de mão",
       "paragraphs": [
         "LATAM, GOL e Azul citam 55 × 35 × 25 cm para a mala de mão, em 30/10/2026. A ANAC deixa o limite de medida para cada companhia. O detalhe das regras, com as fontes, está no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa).",
-        "Pela ficha, a Detroit Preta (55 × 35 × 23 cm) e a Route Preta de 10 kg (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena P, com 57,5 × 38 × 23,5 cm, passa dela. As de 23 kg e 32 kg passam da medida em todas as linhas da tabela, então não entram como mala de mão pela regra das companhias.",
+        "A Detroit Preta (55 × 35 × 23 cm) e a Route Preta de 10 kg (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena P, com 57,5 × 38 × 23,5 cm, passa dela. As de 23 kg e 32 kg passam da medida em todas as linhas da tabela, então não entram como mala de mão pela regra das companhias.",
         "Cada companhia confere a medida e o peso no balcão, e as regras mudam. Confirme na sua antes de viajar."
       ]
     },
@@ -203,7 +203,7 @@
       ],
       "bullets": [
         "Quanto tempo você vai ficar? Para viagem curta, a de 10 kg tem 44 a 51 litros. Para mais dias, a de 23 kg tem 71 a 91 litros.",
-        "Quantas peças você leva? Os litros são a capacidade da ficha, não um número de peças. Compare com o que você costuma levar.",
+        "Quantas peças você leva? Os litros são a capacidade declarada pela loja, não um número de peças. Compare com o que você costuma levar.",
         "Vai despachar ou levar na mão? Se for levar na mão, veja a medida da mala de 10 kg e as regras das companhias no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa)."
       ]
     },
@@ -224,9 +224,9 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? A faixa de peso define o tamanho: a de 10 kg é a de bordo, e as de 23 kg e 32 kg são as malas maiores, com mais litros.",
-        "P, M e G são o mesmo que 10, 23 e 32 kg? Nos conjuntos, sim, pela medida das fichas: P é a de 10 kg, M a de 23 kg e G a de 32 kg. Essa ligação é nossa, não da loja.",
+        "P, M e G são o mesmo que 10, 23 e 32 kg? Nos conjuntos, sim, pela medida: P é a de 10 kg, M a de 23 kg e G a de 32 kg. Essa ligação é nossa, não da loja.",
         "Qual tamanho de mala comprar para viagem de uma semana? Para uma semana, a de 23 kg dá mais espaço, com 71 a 91 litros. Se for só levar na mão, a de 10 kg, com 44 a 51 litros, é a opção.",
-        "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pela medida da ficha, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam em 30/10/2026. Cada companhia decide, então confira antes de viajar.",
+        "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pela medida, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam em 30/10/2026. Cada companhia decide, então confira antes de viajar.",
         "Tem cupom para a mala Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Não conferimos o valor final no carrinho nesta rodada."
       ]
     }
@@ -241,7 +241,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+  "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
       "slug": "mala-de-bordo-bagaggio-qual-compensa",

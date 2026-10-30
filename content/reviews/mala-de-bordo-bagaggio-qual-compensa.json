@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Mala de bordo Bagaggio: qual compensa? Comparamos Detroit, Route, Cartagena e Downtown pelo preço, pela medida e pelo selo BORDO das fichas de 30/10/2026.",
-  "metaDescription": "Mala de bordo Bagaggio: preço, medida, peso e litros de 7 malas, o selo BORDO da ficha e a regra de bagagem de mão da ANAC, LATAM, GOL e Azul em 30/10/2026.",
+  "description": "Mala de bordo Bagaggio: qual compensa? Comparamos Detroit, Route, Cartagena e Downtown pelo preço, pela medida e pelo selo BORDO das páginas de produto de 30/10/2026.",
+  "metaDescription": "Mala de bordo Bagaggio: preço, medida, peso e litros de 7 malas, o selo BORDO informado pela loja e a regra de bagagem de mão da ANAC, LATAM, GOL e Azul em 30/10/2026.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
   "draft": false,
@@ -28,24 +28,24 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Detroit ABS Preta, de 10 kg, é a mala de bordo de marca Bagaggio mais barata da lista: R$ 249,90 no cartão, com 55 × 35 × 23 cm. A Downtown PP, de 8 kg, custa menos, mas é da Travelcross, e a garantia vitalícia não vale para ela. Confira o selo BORDO e a medida na ficha antes de comprar."
+        "A Detroit ABS Preta, de 10 kg, é a mala de bordo de marca Bagaggio mais barata da lista: R$ 249,90 no cartão, com 55 × 35 × 23 cm. A Downtown PP, de 8 kg, custa menos, mas é da Travelcross, e a garantia vitalícia não vale para ela. Confira o selo BORDO e a medida na página do produto antes de comprar."
       ]
     },
     {
       "heading": "Tabela das malas de bordo, em 30/10/2026",
       "paragraphs": [
-        "Preço é o do cartão, lido nas fichas da loja em 30/10/2026. Medida e peso são da ficha. Os litros também são da ficha, lida em 29/10/2026. O preço por litro é conta nossa: preço do cartão dividido pelos litros."
+        "Preço é o do cartão, lido nas fichas da loja em 30/10/2026. Medida e peso vêm da loja. Os litros também vêm da loja, lidos em 29/10/2026. O preço por litro é conta nossa: preço do cartão dividido pelos litros."
       ],
       "comparisonTable": {
         "headers": [
           "Produto",
           "Preço (cartão, 30/10)",
           "Lista",
-          "Medida (ficha)",
+          "Medida",
           "Peso",
           "Litros",
           "R$ por litro",
-          "Selo BORDO na ficha"
+          "Selo BORDO"
         ],
         "rows": [
           [
@@ -125,10 +125,10 @@
       ]
     },
     {
-      "heading": "Selo BORDO: o que a ficha mostra",
+      "heading": "Selo BORDO: o que a loja informa",
       "paragraphs": [
-        "O selo BORDO, com ícone de avião, é uma informação da ficha da loja. Não é certificado de embarque, e não garante que a mala passa no balcão da companhia. Quem decide é a companhia, no dia do voo.",
-        "Em 30/10, todas as malas desta tabela trazem o selo na ficha, inclusive a Cartagena, que passa da medida de 55 × 35 cm citada pelas companhias. Por isso o selo não substitui a medida: compare a ficha com a regra da sua companhia."
+        "O selo BORDO, com ícone de avião, é uma informação da loja. Não é certificado de embarque, e não garante que a mala passa no balcão da companhia. Quem decide é a companhia, no dia do voo.",
+        "Em 30/10, todas as malas desta tabela trazem o selo na página do produto, inclusive a Cartagena, que passa da medida de 55 × 35 cm citada pelas companhias. Por isso o selo não substitui a medida: compare a medida da loja com a regra da sua companhia."
       ],
       "images": [
         {
@@ -177,14 +177,14 @@
         "Azul, [página de bagagens](https://www.voeazul.com.br/br/pt/sua-viagem/planeje/bagagens): bagagem de mão de 55 × 35 × 25 cm, até 10 kg. Item menor: 45 × 35 × 20 cm."
       ],
       "postParagraphs": [
-        "As três companhias citam 55 × 35 × 25 cm. O peso muda: 12 kg na LATAM e na GOL, 10 kg na Azul. Pela ficha, a Detroit Preta (55 × 35 × 23 cm) e a Route Preta (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena (57,5 × 38 × 23,5 cm) passa dela. A ficha da Detroit não diz se a medida inclui as rodas; as da Route e da Cartagena dizem que sim. As companhias contam as rodas."
+        "As três companhias citam 55 × 35 × 25 cm. O peso muda: 12 kg na LATAM e na GOL, 10 kg na Azul. A Detroit Preta (55 × 35 × 23 cm) e a Route Preta (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena (57,5 × 38 × 23,5 cm) passa dela. A página da Detroit não diz se a medida inclui as rodas; as da Route e da Cartagena dizem que sim. As companhias contam as rodas."
       ]
     },
     {
       "heading": "Parceria e cupom",
       "paragraphs": [
         "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, segundo a regra da [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
-        "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. A ficha da Detroit ABS Preta mostra R$ 237,40 no Pix, sem cupom. Os preços de 22/10 estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
+        "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. A Detroit ABS Preta mostra R$ 237,40 no Pix, sem cupom. Os preços de 22/10 estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
       ]
     },
     {
@@ -197,8 +197,8 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é a mala de bordo mais barata da Bagaggio? Entre as de marca Bagaggio, a Detroit ABS de 10 kg, por R$ 249,90 no cartão em 30/10/2026. A Downtown PP custa menos, mas é da Travelcross.",
-        "A mala de bordo Downtown é Bagaggio ou Travelcross? Pela ficha, é da linha Travelcross. A garantia vitalícia da Bagaggio não vale para ela.",
-        "O que significa o selo BORDO da Bagaggio? É uma informação da ficha da loja, com ícone de avião. Não garante o embarque, que depende da companhia.",
+        "A mala de bordo Downtown é Bagaggio ou Travelcross? A loja a coloca na linha Travelcross. A garantia vitalícia da Bagaggio não vale para ela.",
+        "O que significa o selo BORDO da Bagaggio? É uma informação da loja, com ícone de avião. Não garante o embarque, que depende da companhia.",
         "A mala de bordo Bagaggio passa em qualquer companhia aérea? Não há garantia. A Detroit Preta e a Route Preta ficam dentro da medida de 55 × 35 × 25 cm que LATAM, GOL e Azul citam em 30/10/2026, mas cada companhia decide. Confira antes de viajar.",
         "Polipropileno ou ABS: qual mala de bordo compensa? Depende do que pesa mais para você. O ABS da Detroit pesa 2,61 kg e tem 44,2 litros; o polipropileno da Route Preta pesa 2,43 kg e tem 45,3 litros.",
         "Tem cupom para a mala de bordo Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Não conferimos o valor final no carrinho nesta rodada."
@@ -215,7 +215,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+  "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
       "slug": "tamanho-mala-bagaggio-p-m-g",

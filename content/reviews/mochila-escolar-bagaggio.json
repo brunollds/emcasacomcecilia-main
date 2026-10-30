@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Mochila escolar Bagaggio: 10 modelos com preço de cartão de 30/10/2026, medida e garantia de cada ficha, e quais são de personagem licenciado.",
-  "metaDescription": "Mochila escolar Bagaggio: 10 modelos com preço de cartão, medida e garantia da ficha em 30/10/2026. Veja as licenciadas, sem faixa etária, e o cupom CECILIA10.",
+  "description": "Mochila escolar Bagaggio: 10 modelos com preço de cartão de 30/10/2026, medida e garantia informadas pela loja, e quais são de personagem licenciado.",
+  "metaDescription": "Mochila escolar Bagaggio: 10 modelos com preço de cartão, medida e garantia informadas pela loja em 30/10/2026. Veja as licenciadas, a idade, que as páginas não trazem, e o cupom CECILIA10.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
   "draft": false,
@@ -28,20 +28,20 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na linha escolar da Bagaggio, medida e garantia mudam de um modelo para outro, e a ficha é a fonte. Nos 10 modelos que reunimos aqui, os preços vão de R$ 49,90 a R$ 399,90, e só três trazem garantia na ficha, de 90 dias. Se a criança quer um personagem, veja a seção de licenciadas."
+        "Na linha escolar da Bagaggio, medida e garantia mudam de um modelo para outro, e quem informa é a loja. Nos 10 modelos que reunimos aqui, os preços vão de R$ 49,90 a R$ 399,90, e só três informam garantia, de 90 dias. Se a criança quer um personagem, veja a seção de licenciadas."
       ]
     },
     {
       "heading": "Preço, medida e garantia de 10 modelos",
       "paragraphs": [
-        "Reunimos 10 mochilas escolares disponíveis na loja em 30/10/2026, da mais barata à mais cara. Os preços são do cartão. A medida e a garantia são as da ficha; onde a ficha não traz garantia, a tabela diz 'não informada'."
+        "Reunimos 10 mochilas escolares disponíveis na loja em 30/10/2026, da mais barata à mais cara. Os preços são do cartão. A medida e a garantia são as que a loja informa; onde ela não traz garantia, a tabela diz 'não informada'."
       ],
       "comparisonTable": {
         "headers": [
           "Modelo",
           "Preço (cartão, 30/10)",
-          "Medida (ficha)",
-          "Garantia (ficha)"
+          "Medida",
+          "Garantia"
         ],
         "rows": [
           [
@@ -110,21 +110,21 @@
     {
       "heading": "Linha Bagaggio: Star Candy e High Shape III",
       "paragraphs": [
-        "A Star Candy é juvenil e feminina. Pela ficha, tem 18,9 litros, 42 × 30 × 15 cm e 90 dias de garantia, por R$ 249,90.",
-        "A High Shape III é masculina e a ficha a indica para notebook. Sai por R$ 399,90, com 90 dias de garantia. A ficha que lemos não traz a medida do notebook que cabe, então confira o seu antes de comprar. Para mochila de notebook fora do formato escolar, veja [a mochila para notebook Bagaggio](/reviews/mochila-notebook-bagaggio-qual-escolher)."
+        "A Star Candy é juvenil e feminina. Tem 18,9 litros e 42 × 30 × 15 cm. Sai por R$ 249,90 e, nas palavras da Bagaggio, tem 90 dias de garantia.",
+        "A High Shape III é masculina, e a loja a indica para notebook. Sai por R$ 399,90 e a página oficial traz 90 dias de garantia. A página não traz a medida do notebook que cabe, então confira o seu antes de comprar. Para mochila de notebook fora do formato escolar, veja [a mochila para notebook Bagaggio](/reviews/mochila-notebook-bagaggio-qual-escolher)."
       ],
       "images": [
         {
           "src": "/images/reviews/bagaggio/mochila-escolar-bagaggio-star-candy.webp",
           "alt": "Mochila escolar juvenil Star Candy da Bagaggio, lilás com detalhes verde-água, em foto oficial da loja",
-          "caption": "Star Candy: 42 × 30 × 15 cm e 18,9 litros pela ficha. Foto oficial da loja.",
+          "caption": "Star Candy: 42 × 30 × 15 cm e 18,9 litros. Foto oficial da loja.",
           "objectFit": "contain",
           "aspectRatio": 1.0883
         },
         {
           "src": "/images/reviews/bagaggio/mochila-escolar-bagaggio-high-shape-notebook.webp",
           "alt": "Mochila escolar masculina High Shape III para notebook da Bagaggio, preta, de frente, em foto oficial da loja",
-          "caption": "High Shape III: 52,5 × 31,5 × 20,5 cm e 90 dias de garantia pela ficha. Foto oficial da loja.",
+          "caption": "High Shape III: 52,5 × 31,5 × 20,5 cm e, conforme a marca, 90 dias de garantia. Foto oficial da loja.",
           "objectFit": "contain",
           "aspectRatio": 0.6281
         }
@@ -133,36 +133,36 @@
     {
       "heading": "Licenciadas: Disney e Marvel",
       "paragraphs": [
-        "Seis modelos da tabela são de personagem licenciado, vendidos pela Bagaggio: Mickey Grid, Minnie, Cinderela, Frozen Shine e Mickey de rodinhas, com marca Disney na ficha, e Homem Aranha, com marca Marvel. O personagem é da Disney ou da Marvel, não linha própria da Bagaggio.",
+        "Seis modelos da tabela são de personagem licenciado, vendidos pela Bagaggio: Mickey Grid, Minnie, Cinderela, Frozen Shine e Mickey de rodinhas, com a marca Disney indicada pela loja, e Homem Aranha, com a marca Marvel. O personagem é da Disney ou da Marvel, não linha própria da Bagaggio.",
         "A loja também tem modelos Star Wars e Nickelodeon na busca, fora desta tabela. Não sabemos por quanto tempo cada licença fica na loja, então confira o modelo na hora da compra."
       ],
       "images": [
         {
           "src": "/images/reviews/bagaggio/mochila-escolar-bagaggio-minnie-rodinha.webp",
           "alt": "Mochila de rodinhas da Minnie, da Disney, vendida pela Bagaggio, vermelha com a Minnie na frente, em foto oficial da loja",
-          "caption": "Minnie Vermelha: personagem Disney, 30 × 15 × 41 cm pela ficha. Foto oficial da loja.",
+          "caption": "Minnie Vermelha: personagem Disney, 30 × 15 × 41 cm. Foto oficial da loja.",
           "objectFit": "contain",
           "aspectRatio": 0.5989
         },
         {
           "src": "/images/reviews/bagaggio/mochila-escolar-bagaggio-homem-aranha-rodinha.webp",
           "alt": "Mochila de rodinhas do Homem-Aranha, da Marvel, vendida pela Bagaggio, em foto oficial da loja",
-          "caption": "Homem Aranha: personagem Marvel, 41 × 29 × 15 cm e 90 dias de garantia pela ficha. Foto oficial da loja.",
+          "caption": "Homem Aranha: personagem Marvel, 41 × 29 × 15 cm e, pela página da Bagaggio, 90 dias de garantia. Foto oficial da loja.",
           "objectFit": "contain",
           "aspectRatio": 0.5756
         }
       ]
     },
     {
-      "heading": "Idade: a ficha não diz",
+      "heading": "Idade: sem indicação na loja",
       "paragraphs": [
-        "A ficha não traz faixa etária, e este texto não diz para qual idade serve cada linha. A loja separa os modelos por infantil, juvenil, feminina e masculina, e a tabela segue esses nomes. Se a dúvida é a idade, pergunte à loja antes de comprar."
+        "Faixa etária não aparece na página, e este texto não diz para qual idade serve cada linha. A loja separa os modelos por infantil, juvenil, feminina e masculina, e a tabela segue esses nomes. Se a dúvida é a idade, pergunte à loja antes de comprar."
       ]
     },
     {
       "heading": "Garantia da linha escolar",
       "paragraphs": [
-        "A garantia é a que a ficha diz: 90 dias na Star Candy, na Homem Aranha e na High Shape III. Nos outros modelos da tabela, a ficha não informa garantia, e o texto não atribui outra. Vale conferir na ficha antes de comprar."
+        "A garantia é a que a Bagaggio anuncia: 90 dias na Star Candy, na Homem Aranha e na High Shape III. Nos outros modelos da tabela, a página não traz garantia, e o texto não atribui outra. Vale conferir na página do produto antes de comprar."
       ]
     },
     {
@@ -175,13 +175,13 @@
     {
       "heading": "Qual escolher",
       "paragraphs": [
-        "Escolha pela linha que a criança usa e pela medida da ficha. Se a garantia da ficha pesa, fique com as três que trazem 90 dias: Star Candy, Homem Aranha e High Shape III."
+        "Escolha pela linha que a criança usa e pela medida que o site oficial informa. Se a garantia pesa, fique com as três em que a descrição oficial traz 90 dias: Star Candy, Homem Aranha e High Shape III."
       ],
       "bullets": [
-        "Quer gastar menos: Listras, a R$ 49,90, ou Grid, a R$ 99,90, ambas 43 × 32 × 14 cm e sem garantia na ficha.",
-        "Quer rodinha: Minnie ou Cinderela, ambas a R$ 199,90 e 30 × 15 × 41 cm. Com o Homem Aranha, a R$ 329,90, a ficha dá 90 dias.",
-        "Juvenil feminina: Star Candy, a R$ 249,90, com 90 dias de garantia.",
-        "Notebook junto: High Shape III, a R$ 399,90, com 90 dias de garantia."
+        "Quer gastar menos: Listras, a R$ 49,90, ou Grid, a R$ 99,90, ambas 43 × 32 × 14 cm e sem garantia informada pela loja.",
+        "Quer rodinha: Minnie ou Cinderela, ambas a R$ 199,90 e 30 × 15 × 41 cm. Com o Homem Aranha, a R$ 329,90, a empresa anuncia 90 dias.",
+        "Juvenil feminina: Star Candy, a R$ 249,90, com 90 dias de garantia, segundo a Bagaggio.",
+        "Notebook junto: High Shape III, a R$ 399,90, com 90 dias de garantia, na descrição da marca."
       ]
     },
     {
@@ -189,8 +189,8 @@
       "bullets": [
         "A Bagaggio tem mochila escolar com rodinha? Sim. Na tabela, quatro modelos têm rodinha, de R$ 199,90 a R$ 329,90.",
         "A Bagaggio tem linha KidGo de mochila escolar? Não. Na busca de 30/10, a KidGo aparece só numa mala de bordo.",
-        "Mochila escolar da Disney ou da Marvel é da Bagaggio? A loja vende, com a marca do personagem na ficha. Não é linha própria da Bagaggio.",
-        "Qual a garantia da mochila escolar Bagaggio? Depende do modelo: a ficha diz 90 dias em três modelos e não informa nos outros.",
+        "Mochila escolar da Disney ou da Marvel é da Bagaggio? A loja vende, com a marca do personagem informada por ela. Não é linha própria da Bagaggio.",
+        "Qual a garantia da mochila escolar Bagaggio? Depende do modelo: a Bagaggio anuncia 90 dias em três modelos e não traz garantia nos outros.",
         "Tem cupom para a mochila escolar? Sim. O CECILIA10 dá 10% em todo o site oficial, com um cupom por pedido. Confira o desconto no resumo do pedido antes de pagar."
       ]
     }
@@ -213,7 +213,7 @@
     },
     {
       "slug": "bagaggio-e-boa-malas-mochilas",
-      "title": "Bagaggio é boa? Malas, mochilas e bolsas pelas fichas"
+      "title": "Bagaggio é boa? Malas, mochilas e bolsas pelo que a loja informa"
     },
     {
       "slug": "black-friday-bagaggio",
