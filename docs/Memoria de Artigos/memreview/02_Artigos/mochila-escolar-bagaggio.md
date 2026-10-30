@@ -7,9 +7,9 @@ parceiro_slug: "bagaggio"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "-"
 bloqueado_por: "-"
 data_criacao: "2026-10-30"
 publicado_em: null
@@ -176,3 +176,7 @@ Fatos: `mochila-escolar-bagaggio-fatos-3010.md`, ao lado.
 
 1. Links: cada produto citado leva o link da ficha com a UTM da parceria (`utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz`), como já está no fatos; nas tabelas, o nome do produto na 1ª célula vira esse link. Tabela com o preço do cartão; CECILIA10 e Pix numa frase (a "2ª peça 50%" é cupom e não soma). Ninguém do site usou. Pendentes do briefing: conferir no Chrome antes de publicar; sem confirmação, não afirma. Reler preços e disponibilidade no dia.
 2. Recomendações aceitas: as licenciadas (Disney, Marvel, Star Wars, Nickelodeon, vendidas pela Bagaggio) em H2 próprio; KidGo fora (não há KidGo escolar); sem faixa etária (a ficha não traz). Medida da Frozen Shine só depois de conferir (dois cadastros divergem). Pode publicar já ou guardar para janeiro (volta às aulas): decisão na publicação.
+
+## Publicação (30/10/2026)
+- No ar em 30/10/2026 17:02 UTC: PR #369, release `5c16b59c`, id 751 (PT).
+- Publicado já em 30/10 (decisão do Bruno). Frozen Shine 33 × 14 × 46 cm nos dois cadastros. Garantia só pela ficha (a página de garantia não traz a regra). Reler em janeiro, para a volta às aulas.

@@ -6,9 +6,9 @@ parceiro: "[[Skelt]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "-"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 modo_i18n: "somente-pt"
@@ -114,3 +114,7 @@ Fatos: `bronzeado-instantaneo-skelt-ou-autobronzeador-fatos-2910.md`, ao lado.
 1. Links (pedido do Bruno, 29/10): cada produto citado leva o link da ficha com a UTM da parceria, como já está no fatos; nas tabelas de preço, o nome do produto na 1ª célula vira esse link.
 2. Sem alegação de efeito na pele: fora "disfarça celulites e estrias", "envelhecimento precoce", "FPS 65" e qualquer promessa; "uniformizar" e "pele dourada" só atribuídos à ficha. Ninguém do site usou os produtos. Pendentes de ficha (sessão de artigos confere no Chrome antes de publicar; sem confirmação, não afirma): os listados em "Pendentes de navegador" do briefing.
 3. "Sai com o banho" só se a ficha disser. Link cruzado com [[iluminador-corporal-skelt-como-usar]] e [[autobronzeador-skelt-qual-escolher]].
+
+## Publicação (30/10/2026)
+- No ar em 30/10/2026 17:02 UTC: PR #369, release `5c16b59c`, id 752 (PT).
+- A ficha não diz que sai com o banho e indica só corpo. No mesmo PR, a FAQ do autobronzeador-skelt-qual-escolher deixou de dizer "sai no banho".

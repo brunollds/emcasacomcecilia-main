@@ -7,9 +7,9 @@ parceiro_slug: "bagaggio"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Malas"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "-"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 publicado_em: null
@@ -173,3 +173,7 @@ Fatos: `mala-de-bordo-bagaggio-qual-compensa-fatos-2910.md`, ao lado.
 
 1. Seção "O que pode levar na mala de bordo": a regra de bagagem de mão (medida, peso, líquidos e itens proibidos) só entra lida nas páginas oficiais da ANAC (gov.br/anac) e das companhias (LATAM, Gol, Azul), com URL e data. Em 30/10 nenhuma abriu na leitura automática (ANAC pede JavaScript, Azul 403): conferir no Chrome; sem fonte, a seção não sai. Não repetir "Padrão ANAC" do nome de um conjunto da loja.
 2. Correção do selo: a API de 30/10 mostra o selo "Vai à bordo" na Detroit Preta; a decisão anterior diz que ela não tem. Conferir na ficha e usar o que a ficha mostrar no dia.
+
+## Publicação (30/10/2026)
+- No ar em 30/10/2026 17:02 UTC: PR #369, release `5c16b59c`, id 747 (PT).
+- Selo BORDO conferido em 30/10 em todas as malas da tabela (a Detroit Preta também tem). Seção "O que pode levar" com ANAC, LATAM, GOL e Azul lidas no Chrome em 30/10. Cupom no carrinho não testado nesta rodada.
