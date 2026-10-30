@@ -12,9 +12,6 @@
 - [ ] [[mochila-notebook-bagaggio-qual-escolher]]: Mochila para notebook da Bagaggio: qual escolher pelo tamanho do notebook e pelo preço (R$ 79,90 a R$ 699,90) (PT); no mesmo PR, a Samsonite em 2 artigos
 - [ ] [[mala-de-bordo-bagaggio-qual-compensa]]: Mala de bordo da Bagaggio: qual compensa (Downtown R$ 179,90, Detroit R$ 249,90, Route R$ 299,90, Cartagena R$ 349,90; policarbonato R$ 899,90+) (PT)
 - [ ] [[tamanho-mala-bagaggio-p-m-g]]: Mala P, M ou G da Bagaggio: qual tamanho escolher pelos kg e litros da loja (PT)
-- [ ] [[hostinger-reach-ou-mailchimp-brevo]]: Hostinger Reach ou Mailchimp/Brevo: e-mail marketing pelo preço (10 idiomas); SONAR20 testado no Reach em 30/10
-- [ ] [[hostinger-ou-hostgator]]: Hostinger ou HostGator: qual compensa (compartilhada e VPS, promocional e preço regular) (10 idiomas; fora do PT, critérios sem a HostGator)
-- [ ] [[wordpress-na-hostinger]]: WordPress na Hostinger: qual plano e como começar (ou Horizons); crédito do Google Ads (10 idiomas)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
@@ -49,6 +46,9 @@
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[hostinger-reach-ou-mailchimp-brevo]]: Hostinger Reach ou Mailchimp/Brevo: e-mail marketing pelo preço (10 idiomas); SONAR20 testado no Reach em 30/10 (no ar em 30/10/2026 15:15 UTC, PR #365, release `64ab17e2`) 🚀
+- [x] [[hostinger-ou-hostgator]]: Hostinger ou HostGator: qual compensa (compartilhada e VPS, promocional e preço regular) (10 idiomas; fora do PT, critérios sem a HostGator) (no ar em 30/10/2026 15:15 UTC, PR #365, release `64ab17e2`) 🚀
+- [x] [[wordpress-na-hostinger]]: WordPress na Hostinger: qual plano e como começar (ou Horizons); crédito do Google Ads (10 idiomas) (no ar em 30/10/2026 15:15 UTC, PR #365, release `64ab17e2`) 🚀
 - [x] [[brinde-skelt-30-outubro-cupom]]: URGENTE, no ar antes de 30/10: brinde da Skelt com o cupom (Trends Set acima de R$ 219, + Body Cream acima de R$ 249); banner só levando ao artigo; em 31/10 vira "promoção encerrada" (PT) (no ar em 30/10/2026 01:25 UTC, PR #362, release `27149b3e`, id 716; em 31/10 vira "encerrada") 🚀
 - [x] [[faqueiro-laguiole-la-maison-qual-escolher]]: Faqueiro Laguiole La Maison: qual escolher (12, 18 ou 30 peças; R$ 469 a R$ 1.099) (PT); no mesmo PR, trocar o Marfim 30 esgotado em 2 artigos (no ar em 30/10/2026 00:45 UTC, PR #359, release `58678313`, id 712) 🚀
 - [x] [[mesa-posta-dia-a-dia-barata]]: Mesa posta do dia a dia: o que comprar por peça e em que ordem (2 e 4 pessoas) (PT) (no ar em 30/10/2026 00:45 UTC, PR #359, release `58678313`, id 713) 🚀

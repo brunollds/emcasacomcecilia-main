@@ -6,9 +6,9 @@ parceiro: "[[Hostinger]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler os preços antes da Black Friday (27/11)"
 publicado_em: null
 bloqueado_por: "-"
 data_criacao: "2026-10-30"
@@ -158,3 +158,8 @@ Fatos: `wordpress-na-hostinger-fatos-3010.md`, ao lado.
 1. Família de 10 idiomas. Código SONAR20 (20%) e link com `?REFERRALCODE=SONAR20` mantendo o caminho (PT em `/br`). Testes do Bruno: Startup em 29/10; e-mail profissional Premium Business (48 meses, R$ 383,52 → R$ 306,82) e Reach 500 (24 meses, R$ 7,19/mês, renova a R$ 8,99/mês; R$ 215,76 → R$ 172,61) em 30/10, prints no carrinho. VPS, WordPress/hospedagem fora do Startup e renovação: "não testamos; confira no carrinho". Preços datados, promocional sempre com a renovação ao lado; fora do PT, planos e preços do site global de cada idioma (o site global não tem "Single" nem "Business" em 28/10: conferir no dia). Não analisar os termos do programa de indicação.
 2. Pendentes: os listados no briefing; a sessão de artigos confere no Chrome antes de publicar e, sem confirmação, não afirma.
 3. Ângulo de quem já quer WordPress; linka `hostinger-horizons-vale-a-pena` para quem não quer. O crédito do Google Ads entra como parágrafo datado na seção "se você já anuncia": no Brasil, segundo os termos (30/10), quem gasta R$ 1.200 em 60 dias ganha R$ 1.200 de crédito; conferir no Chrome o trecho do Brasil antes de publicar; fora do PT, valor do país só se os termos disserem, senão sem valor. LiteSpeed e instalador por plano: só o que a página do plano disser. O "Implantar na Hostinger" (botão em README que leva a VPS com Docker) pode virar uma frase no artigo de VPS, não aqui.
+
+## Publicação (30/10/2026)
+- No ar em 30/10/2026 15:15 UTC, PR #365, release `64ab17e2`, ids 719, 738–746 (10 idiomas). Capa sem texto de idioma, uma para a família, e um quadro por idioma.
+- Domínio grátis em todos os planos (do Premium para cima, por 1 ano). Fora do PT, sem Single (o site global não tem), 3 linhas no quadro, e o crédito do Google Ads com o valor de um país do idioma, segundo os termos.
+- Preços de 30/10/2026, na campanha de Black Friday: reler antes de 27/11.
