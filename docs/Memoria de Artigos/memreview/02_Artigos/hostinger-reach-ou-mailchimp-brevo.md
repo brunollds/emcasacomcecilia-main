@@ -6,9 +6,9 @@ parceiro: "[[Hostinger]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler os preços antes da Black Friday (27/11)"
 publicado_em: null
 bloqueado_por: "-"
 data_criacao: "2026-10-30"
@@ -158,3 +158,8 @@ Fatos: `hostinger-reach-ou-mailchimp-brevo-fatos-3010.md`, ao lado.
 1. Família de 10 idiomas. Código SONAR20 (20%) e link com `?REFERRALCODE=SONAR20` mantendo o caminho (PT em `/br`). Testes do Bruno: Startup em 29/10; e-mail profissional Premium Business (48 meses, R$ 383,52 → R$ 306,82) e Reach 500 (24 meses, R$ 7,19/mês, renova a R$ 8,99/mês; R$ 215,76 → R$ 172,61) em 30/10, prints no carrinho. VPS, WordPress/hospedagem fora do Startup e renovação: "não testamos; confira no carrinho". Preços datados, promocional sempre com a renovação ao lado; fora do PT, planos e preços do site global de cada idioma (o site global não tem "Single" nem "Business" em 28/10: conferir no dia). Não analisar os termos do programa de indicação.
 2. Pendentes: os listados no briefing; a sessão de artigos confere no Chrome antes de publicar e, sem confirmação, não afirma.
 3. Comparar os concorrentes só pelo plano grátis e pelo preço publicado, sem link nem cupom. Nomes dos planos: o carrinho de 30/10 mostra "Reach 500" (24 meses); o briefing usa Starter/Grow/Pro da página `/br/reach`. A sessão de artigos confere na página e no carrinho como cada plano se chama e usa o nome da página, citando o do carrinho se diferente. WhatsApp: só no plano que a página oficial disser. Brevo e a moeda dos planos pagos do Mailchimp: ler no Chrome. Fora do PT: Reach só onde a página do idioma existir; senão a versão compara pela página global em inglês.
+
+## Publicação (30/10/2026)
+- No ar em 30/10/2026 15:15 UTC, PR #365, release `64ab17e2`, ids 717, 720–728 (10 idiomas). Capa sem texto de idioma, uma para a família, e um quadro por idioma.
+- Fora do PT, preços do Reach em US$ do site global (12 meses e renovação; sem 24 meses lidos) e o Mailchimp e o Brevo só pelo plano grátis, porque os preços pagos deles não foram lidos em US$. SONAR20: "testamos no site brasileiro, no Reach 500 de 24 meses", sem os valores em R$.
+- Preços de 30/10/2026, na campanha de Black Friday: reler antes de 27/11.

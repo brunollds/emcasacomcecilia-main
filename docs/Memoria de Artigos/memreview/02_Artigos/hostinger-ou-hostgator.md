@@ -6,9 +6,9 @@ parceiro: "[[Hostinger]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler os preços antes da Black Friday (27/11)"
 publicado_em: null
 bloqueado_por: "-"
 data_criacao: "2026-10-30"
@@ -153,3 +153,8 @@ Fatos: `hostinger-ou-hostgator-fatos-3010.md`, ao lado.
 1. Família de 10 idiomas. Código SONAR20 (20%) e link com `?REFERRALCODE=SONAR20` mantendo o caminho (PT em `/br`). Testes do Bruno: Startup em 29/10; e-mail profissional Premium Business (48 meses, R$ 383,52 → R$ 306,82) e Reach 500 (24 meses, R$ 7,19/mês, renova a R$ 8,99/mês; R$ 215,76 → R$ 172,61) em 30/10, prints no carrinho. VPS, WordPress/hospedagem fora do Startup e renovação: "não testamos; confira no carrinho". Preços datados, promocional sempre com a renovação ao lado; fora do PT, planos e preços do site global de cada idioma (o site global não tem "Single" nem "Business" em 28/10: conferir no dia). Não analisar os termos do programa de indicação.
 2. Pendentes: os listados no briefing; a sessão de artigos confere no Chrome antes de publicar e, sem confirmação, não afirma.
 3. HostGator lida no Chrome em 30/10 (fatos, seção final): P R$ 10,09, M R$ 11,49, Turbo R$ 18,69/mês em 3 anos; preço regular trienal P R$ 31,39, M R$ 40,89, Turbo R$ 66,49/mês eq.; VPS NVMe 2/4/8 a R$ 20,99/30,39/45,49 em 3 anos. Comparar renovação pela tabela de preço regular da HostGator, nunca pelo "De" e o "% OFF" dos cartões (o "De" é maior que o preço regular). Testes de velocidade da HostGator contra concorrentes não entram. Concorrente sem link nem cupom. Fora do PT: a versão fala dos critérios de escolha (renovação, ciclo, servidor no país, VPS) sem nomear a HostGator, que é marca forte só no Brasil.
+
+## Publicação (30/10/2026)
+- No ar em 30/10/2026 15:15 UTC, PR #365, release `64ab17e2`, ids 718, 729–737 (10 idiomas). Capa sem texto de idioma, uma para a família, e um quadro por idioma.
+- PT com o VPS da Hostinger relido em 30/10 e o teste do SONAR20 no Startup de e-commerce (29/10), no e-mail profissional e no Reach (30/10); hospedagem e VPS sem teste. Fora do PT, slug e título sem a HostGator: a seção de preços dela e o "lado a lado" viraram critérios gerais, com Premium, Unlimited e Cloud Startup em US$.
+- Preços de 30/10/2026, na campanha de Black Friday: reler antes de 27/11.

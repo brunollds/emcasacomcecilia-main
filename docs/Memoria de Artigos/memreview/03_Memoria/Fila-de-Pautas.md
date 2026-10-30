@@ -282,9 +282,9 @@ O Bruno trouxe quatro ofertas do painel da Hostinger; rodada de 30/10 (páginas 
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| H4 | Hostinger Reach ou Mailchimp/Brevo | **Pauta aprovada em 30/10/2026:** [[hostinger-reach-ou-mailchimp-brevo]] |
-| H5 | Hostinger ou HostGator (era a reserva "concorrente local") | **Pauta aprovada em 30/10/2026:** [[hostinger-ou-hostgator]] |
-| H6 | WordPress na Hostinger (com o crédito do Google Ads) | **Pauta aprovada em 30/10/2026:** [[wordpress-na-hostinger]] |
+| H4 | Hostinger Reach ou Mailchimp/Brevo | **Publicado em 30/10/2026:** [[hostinger-reach-ou-mailchimp-brevo]] (PR #365) |
+| H5 | Hostinger ou HostGator (era a reserva "concorrente local") | **Publicado em 30/10/2026:** [[hostinger-ou-hostgator]] (PR #365) |
+| H6 | WordPress na Hostinger (com o crédito do Google Ads) | **Publicado em 30/10/2026:** [[wordpress-na-hostinger]] (PR #365) |
 | H7 | Loja virtual na Hostinger ou Nuvemshop/Shopify (Commerce) | Estoque: o Bruno confere no hPanel preço em R$, Pix, número de canais e o nome do assistente |
 | H8 | Next.js ou Vercel; e-mail no Gmail | Estoque (reserva de 28/10) |
 
