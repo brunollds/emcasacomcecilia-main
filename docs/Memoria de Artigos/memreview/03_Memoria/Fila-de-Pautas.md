@@ -265,10 +265,10 @@ Mais vendidos pelo link do Bruno no 1º período da parceria: guardanapo Poá Te
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| L7 | Faqueiro Laguiole La Maison: qual escolher | **Pauta aprovada em 29/10/2026:** [[faqueiro-laguiole-la-maison-qual-escolher]] |
-| L8 | Mesa posta do dia a dia: o que comprar por peça | **Pauta aprovada em 29/10/2026:** [[mesa-posta-dia-a-dia-barata]] |
-| L9 | Guardanapo de tecido: quantos e qual tamanho | **Pauta aprovada em 29/10/2026:** [[guardanapo-de-tecido-quantos-tamanho]] |
-| L10 | Jogo americano de tecido: tamanho e cor | **Pauta aprovada em 29/10/2026:** [[jogo-americano-tecido-tamanho-cor]] |
+| L7 | Faqueiro Laguiole La Maison: qual escolher | **Publicado em 30/10/2026** (#359, release `58678313`): [[faqueiro-laguiole-la-maison-qual-escolher]] |
+| L8 | Mesa posta do dia a dia: o que comprar por peça | **Publicado em 30/10/2026** (#359, release `58678313`): [[mesa-posta-dia-a-dia-barata]] |
+| L9 | Guardanapo de tecido: quantos e qual tamanho | **Publicado em 30/10/2026** (#359, release `58678313`): [[guardanapo-de-tecido-quantos-tamanho]] |
+| L10 | Jogo americano de tecido: tamanho e cor | **Publicado em 30/10/2026** (#359, release `58678313`): [[jogo-americano-tecido-tamanho-cor]] |
 | L11 | Paleta da mesa posta: terracota, verde, azul ou âmbar | Estoque |
 | L12 | Taça base esfera: conjunto ou unidade, e qual cor | Estoque |
 | L13 | Taça âmbar e colorida: vinho, água e champanhe | Estoque |

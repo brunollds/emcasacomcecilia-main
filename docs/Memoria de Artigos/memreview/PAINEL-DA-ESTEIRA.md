@@ -12,10 +12,6 @@
 - [ ] [[mochila-notebook-bagaggio-qual-escolher]]: Mochila para notebook da Bagaggio: qual escolher pelo tamanho do notebook e pelo preço (R$ 79,90 a R$ 699,90) (PT); no mesmo PR, a Samsonite em 2 artigos
 - [ ] [[mala-de-bordo-bagaggio-qual-compensa]]: Mala de bordo da Bagaggio: qual compensa (Downtown R$ 179,90, Detroit R$ 249,90, Route R$ 299,90, Cartagena R$ 349,90; policarbonato R$ 899,90+) (PT)
 - [ ] [[tamanho-mala-bagaggio-p-m-g]]: Mala P, M ou G da Bagaggio: qual tamanho escolher pelos kg e litros da loja (PT)
-- [ ] [[faqueiro-laguiole-la-maison-qual-escolher]]: Faqueiro Laguiole La Maison: qual escolher (12, 18 ou 30 peças; R$ 469 a R$ 1.099) (PT); no mesmo PR, trocar o Marfim 30 esgotado em 2 artigos
-- [ ] [[mesa-posta-dia-a-dia-barata]]: Mesa posta do dia a dia: o que comprar por peça e em que ordem (2 e 4 pessoas) (PT)
-- [ ] [[guardanapo-de-tecido-quantos-tamanho]]: Guardanapo de tecido: quantos por pessoa e qual tamanho (45x45 ou 40x40) (PT)
-- [ ] [[jogo-americano-tecido-tamanho-cor]]: Jogo americano de tecido: redondo ou retangular, tamanho e cor (Ø36,5 a 35x50) (PT)
 - [ ] [[brinde-skelt-30-outubro-cupom]]: URGENTE, no ar antes de 30/10: brinde da Skelt com o cupom (Trends Set acima de R$ 219, + Body Cream acima de R$ 249); banner só levando ao artigo; em 31/10 vira "promoção encerrada" (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
@@ -51,6 +47,10 @@
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[faqueiro-laguiole-la-maison-qual-escolher]]: Faqueiro Laguiole La Maison: qual escolher (12, 18 ou 30 peças; R$ 469 a R$ 1.099) (PT); no mesmo PR, trocar o Marfim 30 esgotado em 2 artigos (no ar em 30/10/2026 00:45 UTC, PR #359, release `58678313`, id 712) 🚀
+- [x] [[mesa-posta-dia-a-dia-barata]]: Mesa posta do dia a dia: o que comprar por peça e em que ordem (2 e 4 pessoas) (PT) (no ar em 30/10/2026 00:45 UTC, PR #359, release `58678313`, id 713) 🚀
+- [x] [[guardanapo-de-tecido-quantos-tamanho]]: Guardanapo de tecido: quantos por pessoa e qual tamanho (45x45 ou 40x40) (PT) (no ar em 30/10/2026 00:45 UTC, PR #359, release `58678313`, id 714) 🚀
+- [x] [[jogo-americano-tecido-tamanho-cor]]: Jogo americano de tecido: redondo ou retangular, tamanho e cor (Ø36,5 a 35x50) (PT) (no ar em 30/10/2026 00:45 UTC, PR #359, release `58678313`, id 715) 🚀
 - [x] [[mala-policarbonato-ou-abs-bagaggio]]: Mala de policarbonato ou ABS: vale pagar mais? Preço por litro da Detroit (R$ 5,65) à Bahamas (R$ 20,78) (PT) (no ar em 29/10/2026 23:18 UTC, PR #355, release `505eb69a`, id 706) 🚀
 - [x] [[bagaggio-e-boa-malas-mochilas]]: Bagaggio é boa? Malas, mochilas e bolsas pelas fichas (PT); só depois da correção da Samsonite do #347 (no ar em 29/10/2026 23:18 UTC, PR #355, release `505eb69a`, id 707) 🚀
 - [x] [[conjunto-de-malas-bagaggio-compensa]]: Conjunto de malas Bagaggio compensa? 24 de 32 custam a soma das peças; Malta, Nova Bahamas e Santiago com desconto real (PT) (no ar em 29/10/2026 23:18 UTC, PR #355, release `505eb69a`, id 708) 🚀
