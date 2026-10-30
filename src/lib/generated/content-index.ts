@@ -167462,5 +167462,1033 @@ export const reviewsData: unknown[] = [
         "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
       }
     ]
+  },
+  {
+    "id": 755,
+    "slug": "camiseta-insider-qual-escolher",
+    "title": "Camiseta Insider: qual escolher entre Tech, Heavy, Core, Daily, Polo e Henley",
+    "seoTitle": "Camiseta Insider: qual escolher (Tech, Heavy, Core, Daily)",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Qual camiseta Insider escolher entre Tech, Heavy, Core, Daily, Polo e Henley: tecido, preço e estoque de cada linha na loja em 30/10/2026, cupom, tamanho e troca.",
+    "metaDescription": "Camiseta Insider: Tech, Heavy, Core, Daily, Polo e Henley comparadas por tecido, preço em 30/10/2026, cupom EMCASACOMCECILIA e troca.",
+    "publishedAt": "30 de outubro de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/camiseta-insider-qual-escolher-capa.webp",
+    "imageAlt": "Camisetas Insider Tech, Heavy e Core, com o logo da Insider",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para o dia a dia, a Tech T-Shirt masculina é o ponto de partida: 92% modal e 8% elastano, por R$ 129 (de R$ 169) em 30/10/2026. Quer mais corpo? A Heavy, segundo a loja, é 20% mais encorpada que a Tech. A Core, de viscose, sai por R$ 179. Cada linha está na tabela abaixo."
+        ]
+      },
+      {
+        "heading": "Qual linha combina com o seu uso",
+        "paragraphs": [
+          "A tabela traz as linhas com a composição que a loja publica e o estoque lido em 30/10/2026. Cada preço é o do cartão, e cada linha usa o cadastro principal do produto, com a faixa de tamanhos que a loja mostra nele."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Tecido, segundo a loja",
+            "Preço (de)",
+            "Estoque e tamanhos"
+          ],
+          "rows": [
+            [
+              "[Tech T-Shirt masculina](https://creators.insiderstore.com.br/axB7p3y)",
+              "92% modal, 8% elastano",
+              "R$ 129 (de R$ 169)",
+              "56 de 69; PP a XXGG"
+            ],
+            [
+              "Tech T-Shirt feminina",
+              "92% modal, 8% elastano",
+              "R$ 129 (de R$ 169)",
+              "37 de 57; PP a XGG"
+            ],
+            [
+              "[Tech T-Shirt Gola V feminina](https://creators.insiderstore.com.br/hwvgusR)",
+              "92% modal, 8% elastano",
+              "R$ 129 (de R$ 169)",
+              "26 de 50; PP a GG"
+            ],
+            [
+              "Tech T-Shirt Heavy",
+              "92% modal, 8% elastano",
+              "R$ 155 a R$ 199 (de R$ 199)",
+              "23 de 23; PP a XGG"
+            ],
+            [
+              "Tech T-Shirt Heavy Slim",
+              "92% modal",
+              "R$ 179 (de R$ 199)",
+              "16 de 28; PP a XGG"
+            ],
+            [
+              "[Core](https://creators.insiderstore.com.br/QcFNdaj)",
+              "94% viscose, 6% elastano",
+              "R$ 179 (de R$ 189)",
+              "35 de 43; PP a XGG"
+            ],
+            [
+              "Polo Game Changer",
+              "94% viscose, 6% elastano",
+              "R$ 249 (de R$ 275)",
+              "31 de 46; PP a XXGG"
+            ],
+            [
+              "Henley Game Changer",
+              "94% viscose, 6% elastano",
+              "R$ 199 (de R$ 269)",
+              "28 de 40; PP a XGG"
+            ],
+            [
+              "Daily",
+              "94% viscose, 6% elastano",
+              "R$ 99 (de R$ 139)",
+              "31 de 37; P a XGG"
+            ],
+            [
+              "Premium NEXTECH masculina",
+              "92% liocel, 8% elastano",
+              "R$ 195 a R$ 215 (de R$ 215)",
+              "15 de 18; PP a GG"
+            ],
+            [
+              "Performance T-Shirt 2.0",
+              "100% poliamida",
+              "R$ 199 a R$ 259 (de R$ 259)",
+              "23 de 30; PP a XGG"
+            ],
+            [
+              "Sportee UV50+",
+              "90% poliamida, 10% elastano",
+              "R$ 149 a R$ 155 (de R$ 155)",
+              "10 de 18"
+            ],
+            [
+              "Tech T-Shirt manga longa masculina",
+              "92% modal, 8% elastano",
+              "R$ 199 (de R$ 239)",
+              "38 de 71; PP a XXGG"
+            ],
+            [
+              "Oversized",
+              "81% liocel, 15% poliamida, 4% elastano",
+              "R$ 229 (de R$ 309)",
+              "1 de 26; só PP"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Estoque é o número de variantes disponíveis sobre o total. Ele muda com as vendas, então confira o tamanho na página antes de comprar.",
+          "A loja também tem, às vezes, cadastros com sobra de PP e preço mais baixo. No caso da Polo, existe um cadastro só com PP, mais barato, que não usamos aqui e que não tem link. A tabela traz só o cadastro principal.",
+          "A Oversized aparece só na tabela, sem link: resta uma peça, em PP.",
+          "A comparação de Tech, Daily e Core com outras marcas, com a conta de cada uma, está em [Insider vale a pena?](/reviews/insider-vale-a-pena). Aqui a conversa é a linha inteira.",
+          "A Light não entra nesta lista: a linha é vendida no Mercado Livre e está sem estoque no site. Veja [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site)."
+        ]
+      },
+      {
+        "heading": "Tech: masculina, feminina e Gola V",
+        "paragraphs": [
+          "A Tech T-Shirt existe em três cortes com a mesma composição de 92% modal e 8% elastano: masculina, feminina e Gola V feminina. Pela descrição oficial, ela desamassa no corpo e não desbota com as lavagens. A loja atribui à peça um efeito antiodor, dado da própria marca.",
+          "Na Tech masculina, a nota do produto diz que a garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, considerando uma lavagem por semana. As linhas sem essa nota não recebem o termo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/camiseta-insider-qual-escolher-tech-masculina.webp",
+            "alt": "Tech T-Shirt masculina em tom escuro, de manga curta, vestida por modelo sobre fundo cinza claro",
+            "caption": "Tech T-Shirt masculina. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/camiseta-insider-qual-escolher-tech-feminina.webp",
+            "alt": "Tech T-Shirt feminina em tom escuro, de decote redondo, vestida por modelo sobre fundo cinza claro",
+            "caption": "Tech T-Shirt feminina. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/camiseta-insider-qual-escolher-gola-v-feminina.webp",
+            "alt": "Tech T-Shirt Gola V feminina preta, vestida por modelo sobre fundo cinza claro",
+            "caption": "Tech T-Shirt Gola V feminina. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Heavy e Heavy Slim: corpo e caimento",
+        "paragraphs": [
+          "Pela descrição da Heavy, a peça é 20% mais encorpada que a Tech, não marca o corpo e tem caimento mais liso. A gramatura fica entre a Tech e a Oversized, segundo a mesma página. Ela sai de R$ 155 a R$ 199, conforme a cor e o tamanho: a Preta e a Dark Blue aparecem a partir de R$ 169 e R$ 155.",
+          "A Heavy Slim, de 92% modal, tem gola fina, mangas levemente mais curtas e tronco ajustado, na descrição da loja. Ela sai por R$ 179 (de R$ 199), e a própria página indica a Heavy para quem quer um modelo mais solto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/camiseta-insider-qual-escolher-heavy.webp",
+            "alt": "Tech T-Shirt Heavy azul-marinho, de manga curta, vestida por modelo sobre fundo cinza claro",
+            "caption": "Tech T-Shirt Heavy em azul-marinho. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/camiseta-insider-qual-escolher-heavy-slim.webp",
+            "alt": "Tech T-Shirt Heavy Slim verde-militar, de gola fina e manga curta, vestida por modelo sobre fundo cinza claro",
+            "caption": "Tech T-Shirt Heavy Slim em verde-militar. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8344
+          }
+        ]
+      },
+      {
+        "heading": "Core e Daily: viscose, gramatura e encolhimento",
+        "paragraphs": [
+          "Core e Daily são de 94% viscose e 6% elastano. A Core, por R$ 179 (de R$ 189), é a linha que a loja descreve com maior gramatura, modelagem regular e leve textura.",
+          "A Daily sai por R$ 99 (de R$ 139), o menor preço da tabela. A página diz que ela pode encolher até 2 cm no comprimento após a primeira lavagem, e que já tem o desconto máximo, sem soma com cupons. Por isso, o cupom não entra na conta dela."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/camiseta-insider-qual-escolher-core.webp",
+            "alt": "Camiseta Insider Core verde-musgo, de gola redonda, vestida por modelo sobre fundo cinza claro",
+            "caption": "Camiseta Core em verde-musgo. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/camiseta-insider-qual-escolher-daily.webp",
+            "alt": "Camiseta Insider Daily preta, de gola redonda, vestida por modelo sobre fundo cinza claro",
+            "caption": "Camiseta Tech Daily em preto. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Polo, Henley e NEXTECH",
+        "paragraphs": [
+          "A Polo Game Changer, no cadastro principal, sai por R$ 249 (de R$ 275) em 30/10. A descrição fala em gola do mesmo tecido, três botões da mesma cor e um tecido macio. Existe um cadastro só com PP, mais barato, que não usamos aqui.",
+          "A Henley Game Changer sai por R$ 199 (de R$ 269), com botões frontais que a loja descreve como não aparentes.",
+          "A Premium NEXTECH masculina, de 92% liocel e 8% elastano, sai por R$ 195 a R$ 215. A página diz que o caimento é levemente encorpado para não marcar o corpo, e traz um dado da marca: 11 vezes menos bactérias do mau cheiro que o algodão."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/camiseta-insider-qual-escolher-polo.webp",
+            "alt": "Camiseta Polo Game Changer preta, com gola e três botões, vestida por modelo sobre fundo cinza claro",
+            "caption": "Polo Game Changer em preto. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/camiseta-insider-qual-escolher-henley.webp",
+            "alt": "Camiseta Henley Game Changer verde-escuro, de gola redonda com abertura de botões, vestida por modelo sobre fundo cinza claro",
+            "caption": "Henley Game Changer em verde-escuro. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/camiseta-insider-qual-escolher-nextech.webp",
+            "alt": "Camiseta Premium NEXTECH masculina verde-militar, de manga curta, vestida por modelo sobre fundo cinza claro",
+            "caption": "Premium NEXTECH masculina em verde-militar. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Esporte e manga longa",
+        "paragraphs": [
+          "A Performance T-Shirt 2.0 é de 100% poliamida e sai por R$ 199 a R$ 259 (de R$ 259). A loja fala em proteção UV50+ e em tecnologia Outlast, dado da marca. A Sportee, de 90% poliamida e 10% elastano, sai por R$ 149 a R$ 155 e também traz UV50+ na descrição oficial.",
+          "São peças de treino, outra proposta. A Tech masculina de manga longa, de 92% modal, sai por R$ 199 (de R$ 239) e é a mesma Tech em manga longa."
+        ]
+      },
+      {
+        "heading": "Preço com o cupom e o Pix",
+        "paragraphs": [
+          "O cupom EMCASACOMCECILIA dá 15% na loja online, sem valor mínimo. Ele não vale em lançamentos nem na loja física, e vale uma vez por pedido. Soma com o Pix; o percentual do Pix não entra aqui.",
+          "Conta nossa, com o cupom de 15%: a Tech masculina de R$ 129 sai por R$ 109,65, e a Core de R$ 179 sai por R$ 152,15. O valor final aparece no checkout, e a Daily não soma com cupons.",
+          "Regras e código estão em [cupom Insider: EMCASACOMCECILIA](/cupons/insider)."
+        ]
+      },
+      {
+        "heading": "Tamanho, garantia e troca",
+        "paragraphs": [
+          "Os tamanhos de cada linha estão na tabela acima. Para escolher, use a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider).",
+          "Pela central de ajuda, a troca é gratuita. O arrependimento vale por 7 dias úteis. A troca por insatisfação vale por 21 dias corridos, sem uso, com etiqueta e sem lavagem. Para defeito, o prazo é de 180 dias, com fotos. O pedido sai pelo Portal de Trocas.",
+          "A regra de troca só por defeito é da underwear: a camiseta segue os prazos acima."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Tech T-Shirt desbota? A loja diz que ela não desbota com as lavagens, e a garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, com uma lavagem por semana.",
+          "A Core encolhe? Na leitura de 30/10, a nota de encolhimento de até 2 cm aparecia na Daily, não na Core. Siga a etiqueta de cada peça.",
+          "Qual a diferença entre Tech e Heavy? Pela descrição da loja, a Heavy é 20% mais encorpada que a Tech e tem caimento mais liso. As duas são de 92% modal e 8% elastano.",
+          "O cupom vale na Daily? Não. A própria página diz que a Daily não soma com cupons.",
+          "A Insider tem camiseta feminina? Tem: Tech T-Shirt feminina e Gola V feminina, com a mesma composição da masculina.",
+          "Dá para devolver se não servir? Pela central, sim, dentro dos prazos: 7 dias úteis para desistir da compra e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os dados vêm das páginas de produto e do catálogo da Insider, lidos em 30/10/2026, e da central de ajuda, lida em 20/10/2026. Preço e estoque mudam: confira na página antes de comprar. A ficha de cada peça é a descrição da própria loja, e ninguém da equipe usou as peças. Podemos receber comissão se você comprar pelos nossos links ou usar o cupom EMCASACOMCECILIA."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a Insider faz sentido para você, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai para o carrinho. Confira o desconto em cada item antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Não testamos as peças: os dados são das páginas da loja.",
+    "relatedArticles": [
+      {
+        "slug": "insider-vale-a-pena",
+        "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+      },
+      {
+        "slug": "tabela-de-medidas-insider",
+        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+      },
+      {
+        "slug": "insider-mercado-livre-ou-site",
+        "title": "Insider no Mercado Livre ou no site: onde sai mais barato"
+      },
+      {
+        "slug": "black-friday-insider",
+        "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA"
+      }
+    ]
+  },
+  {
+    "id": 756,
+    "slug": "sutia-toda-up-qual-escolher",
+    "locale": "pt",
+    "title": "Sutiã Toda Up: Comfort Up, Comfort Line ou Comfort Slim, qual escolher",
+    "seoTitle": "Sutiã Toda Up: Comfort Up, Line ou Slim, qual escolher",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "30 de outubro de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": true,
+    "description": "Comfort Up, Comfort Line ou Comfort Slim, da Toda Up: os tamanhos de cada um, a tabela de busto da loja, o que a página diz de cada modelo e o preço de 30/10/2026.",
+    "metaDescription": "Sutiã Toda Up: Comfort Up (PP a G3), Comfort Line (do P ao G1) ou Comfort Slim (PP a GG). Tabela de medidas e preço de 30/10/2026.",
+    "image": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-capa-discover.webp",
+    "imageAlt": "Sutiãs Comfort Up, Comfort Line e Comfort Slim da Toda Up, com o logo da loja",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Toda Up pelo botão. O cupom já vem aplicado: confira a linha de desconto no resumo do pedido.",
+      "label": "Ver na Toda Up",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Podemos receber comissão na Toda Up. Feito com dados da loja; ninguém do site usou as peças.",
+    "relatedArticles": [
+      {
+        "slug": "sutia-de-silicone-invisivel-como-usar",
+        "title": "Sutiã de silicone invisível: como usar e para qual roupa"
+      },
+      {
+        "slug": "cupom-toda-up-como-usar",
+        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+      },
+      {
+        "slug": "black-friday-toda-up",
+        "title": "Black Friday Toda Up 2026: a Black Antecipada, as faixas de desconto e o cupom"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Entre os três sutiãs Comfort da Toda Up, a faixa de tamanho pesa mais: o Comfort Up vai do PP ao G3, o Comfort Line começa no P e o Comfort Slim vai do PP ao GG. Para usar em tomara que caia ou com as alças combinadas, a loja destaca o Line, e a seção dele explica como."
+        ]
+      },
+      {
+        "heading": "Os três lado a lado",
+        "paragraphs": [
+          "A tabela junta o que cada página de modelo mostra em 30/10/2026: tamanhos, estoque, cores e o preço do cartão, sem cupom."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Tamanhos na loja",
+            "Estoque em 30/10",
+            "Preço em 30/10 (de)",
+            "Cores"
+          ],
+          "rows": [
+            [
+              "Comfort Up",
+              "PP (34-36) a G3 (54-56)",
+              "36 de 40 variantes; P com 2 de 5",
+              "R$ 189,90 (de R$ 199,90)",
+              "Rose, Preto, Caramelo, Baunilha e Avelã"
+            ],
+            [
+              "Comfort Line",
+              "P (38-40) a G1 (46-48); sem PP",
+              "25 de 25 variantes",
+              "R$ 189,90 (de R$ 199,90)",
+              "Rose, Preto, Avelã, Caramelo e Baunilha"
+            ],
+            [
+              "Comfort Slim",
+              "PP (34-36) a GG (44-46)",
+              "21 de 25 variantes; PP e M com 3 de 5 cada",
+              "R$ 189,90 (de R$ 199,90)",
+              "Preto, Rose, Baunilha, Caramelo e Avelã"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Comfort Up: a faixa maior",
+        "paragraphs": [
+          "O Comfort Up é o que tem mais tamanhos: do PP (34-36) ao G3 (54-56), com G2 e G3, que os outros dois não têm. A página fala em “equilíbrio perfeito entre sustentação e bem-estar” e diz que o conforto vem “sem aros que machucam”.",
+          "A página diz que o ajuste de tamanho fica nas costas e que a peça não tem aros. A foto de costas mostra o fecho com ganchos e as alças com regulagem."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up.webp",
+            "alt": "Sutiã Comfort Up rosa da Toda Up, de frente, em foto oficial da loja",
+            "caption": "Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0253
+          },
+          {
+            "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up-costas.webp",
+            "alt": "Costas do Sutiã Comfort Up caramelo, com fecho de ganchos e alças com regulagem",
+            "caption": "Foto oficial da Toda Up. Nas costas, o fecho e as alças reguláveis.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Comfort Line: tomara que caia e alças",
+        "paragraphs": [
+          "A loja chama o Line de “o mais versátil da nossa linha”: dá para usar como tomara que caia ou combinar as alças. Ele não tem PP. A tabela começa no P (38-40) e vai até o G1 (46-48).",
+          "Uma das fotos da loja lista faixas de silicone antideslizantes, alças multiuso e fecho ajustável, e avisa que este modelo tem modelagem menor. Quem usa PP fica com o Comfort Up ou o Comfort Slim."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line.webp",
+            "alt": "Sutiã Comfort Line marrom, em modelo bandeau com alças finas, em foto oficial da loja",
+            "caption": "Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8656
+          },
+          {
+            "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line-alcas.webp",
+            "alt": "Sutiã Comfort Line preto com alças cruzadas nas costas, em quatro fotos de posições diferentes",
+            "caption": "Fotos oficiais da Toda Up: o Comfort Line em quatro fotos, com as alças cruzadas.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line-modelagem.webp",
+            "alt": "Sutiã Comfort Line rosa sem alças, com a lista de faixas de silicone e o aviso de modelagem menor da loja",
+            "caption": "Foto oficial da Toda Up. O aviso sobre a modelagem menor está na própria imagem.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9544
+          }
+        ]
+      },
+      {
+        "heading": "Comfort Slim: o minimalista, do PP ao GG",
+        "paragraphs": [
+          "A loja descreve o Slim com “leveza” e “design minimalista e atemporal”, e diz que o modelo serve tanto para esconder o sutiã quanto para aparecer em transparências. Vai do PP (34-36) ao GG (44-46).",
+          "Em 30/10, PP e M tinham 3 de 5 variantes disponíveis cada. Se a sua faixa for uma delas, confira o estoque antes de decidir, porque ele muda com as vendas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-slim.webp",
+            "alt": "Sutiã Comfort Slim marrom de frente, em foto oficial da loja",
+            "caption": "Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9844
+          },
+          {
+            "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-slim-rosa.webp",
+            "alt": "Sutiã Comfort Slim rosa, com a faixa de costura na base, em foto oficial da loja",
+            "caption": "Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Tamanho: a tabela de busto de cada modelo",
+        "paragraphs": [
+          "As faixas de número não têm o mesmo busto nos três modelos. A tabela abaixo junta o guia de medidas de cada um, em centímetros, com o sob busto e o busto de cada faixa."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tamanho",
+            "Comfort Up (sob busto / busto)",
+            "Comfort Line (sob busto / busto)",
+            "Comfort Slim (sob busto / busto)"
+          ],
+          "rows": [
+            [
+              "PP (34-36)",
+              "70-76 / 79-86",
+              "Não tem",
+              "70-76 / 79-86"
+            ],
+            [
+              "P (38-40)",
+              "74-81 / 85-92",
+              "70-74 / 76-83",
+              "74-81 / 85-92"
+            ],
+            [
+              "M (40-42)",
+              "79-87 / 91-98",
+              "75-81 / 84-91",
+              "79-87 / 91-98"
+            ],
+            [
+              "G (42-44)",
+              "84-92 / 97-105",
+              "77-83 / 92-99",
+              "84-92 / 97-105"
+            ],
+            [
+              "GG (44-46)",
+              "89-97 / 103-111",
+              "84-92 / 100-107",
+              "89-97 / 103-111"
+            ],
+            [
+              "G1",
+              "93-103 / 110-119 (46-50)",
+              "93-101 / 108-115 (46-48)",
+              "Não tem"
+            ],
+            [
+              "G2 (50-52)",
+              "100-109 / 117-126",
+              "Não tem",
+              "Não tem"
+            ],
+            [
+              "G3 (54-56)",
+              "106-115 / 124-133",
+              "Não tem",
+              "Não tem"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Se a sua medida ficar entre duas faixas, compare as duas linhas da tabela de cada modelo com a sua, sob busto e busto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-up.webp",
+            "alt": "Tabela de medidas do Sutiã Comfort Up, de PP a G3, com sob busto e busto em centímetros",
+            "caption": "Guia de medidas do Sutiã Comfort Up, em centímetros. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9967
+          },
+          {
+            "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-line.webp",
+            "alt": "Tabela de medidas do Sutiã Comfort Line, do P ao G1, com sob busto e busto em centímetros",
+            "caption": "Guia de medidas do Sutiã Comfort Line, em centímetros. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0896
+          },
+          {
+            "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-slim.webp",
+            "alt": "Tabela de medidas do Sutiã Comfort Slim, do PP ao GG, com sob busto e busto em centímetros",
+            "caption": "Guia de medidas do Sutiã Comfort Slim, em centímetros. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0896
+          }
+        ]
+      },
+      {
+        "heading": "Tecido, segundo a loja",
+        "paragraphs": [
+          "No FAQ das três páginas, a loja informa 76,6% de poliamida e 23,5% de elastano. Como a composição é a mesma, a escolha entre os modelos depende do formato, das alças e da faixa de tamanho, não do tecido."
+        ]
+      },
+      {
+        "heading": "Preço, cupom e frete",
+        "paragraphs": [
+          "Em 30/10/2026, os três estavam a R$ 189,90 no cartão, de R$ 199,90. Os preços mudam com as campanhas da loja, então confira o valor no site antes de comprar.",
+          "O cupom MAUAD dá 10% em todo o site da Toda Up, inclusive em produto que já está com desconto. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Para ver todos os cupons da loja, veja [o cupom da Toda Up](/cupons/toda-up).",
+          "O frete é calculado pelo CEP, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento, segundo a política de envio. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas."
+        ]
+      },
+      {
+        "heading": "Os outros itens do catálogo",
+        "paragraphs": [
+          "Dois produtos da Toda Up ficam de fora da comparação. O [Sutiã de Silicone Invisível](/reviews/sutia-de-silicone-invisivel-como-usar) é uma peça adesiva, com P, M e G, e tem guia próprio. O Top Segunda Pele SkinUp é outra linha, vai do P ao G1 e não é um Comfort."
+        ]
+      },
+      {
+        "heading": "Como escolher, em resumo",
+        "bullets": [
+          "Quer a maior faixa de tamanho, até o G3: Comfort Up.",
+          "Quer usar em tomara que caia ou com as alças combinadas, a partir do P: Comfort Line.",
+          "Quer o modelo mais minimalista, do PP ao GG: Comfort Slim, com menos peças em PP e M em 30/10."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual sutiã Toda Up não tem PP? O Comfort Line. A tabela da loja começa no P (38-40).",
+          "Qual Comfort tem mais tamanhos? O Comfort Up, do PP (34-36) ao G3 (54-56).",
+          "O Comfort Line serve em tomara que caia? Segundo a página, dá para usar assim ou combinar as alças. Antes de escolher, confira o busto na tabela.",
+          "O cupom da Toda Up vale nos três modelos? Vale, porque o cupom é do site inteiro e dá 10% no carrinho. A campanha da loja pode entrar antes, então confira o total.",
+          "De que é feito o tecido? Segundo o FAQ da loja, 76,6% é poliamida e 23,5% é elastano.",
+          "O Comfort Slim tem PP e M? Tem, mas em 30/10 cada um tinha 3 de 5 variantes disponíveis."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Escrevemos com o que a Toda Up publica nas páginas dos três modelos, lidas em 30/10/2026, e com as tabelas de medida da própria loja. Ninguém do site usou as peças. Quando um texto é da loja, aparece como dito por ela, e os preços e o estoque valem só para o dia da leitura."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 757,
+    "slug": "kit-insider-quando-compensa",
+    "title": "Kit Insider: quando compensa mais que comprar peças avulsas (conta por peça)",
+    "seoTitle": "Kit Insider: quando compensa (conta por peça)",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando o kit Insider compensa contra as peças avulsas: o preço do kit dividido pelas peças, com a conta de camiseta, cueca e undershirt lida em 30/10/2026.",
+    "metaDescription": "Kit Insider vale a pena? Conta por peça de Tech, Heavy, Daily, cueca e undershirt contra o avulso de 30/10/2026, com o que não compensa.",
+    "publishedAt": "30 de outubro de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": true,
+    "locale": "pt",
+    "image": "/images/reviews/insider/kit-insider-quando-compensa-capa.webp",
+    "imageAlt": "Kits Insider de camisetas Tech e Daily e de cuecas Comfort, com o logo da Insider",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Kit de camiseta Tech ou Heavy compensa, e mais quanto maior o kit: o de 5 Tech sai a R$ 108,88 por peça, contra R$ 129 da avulsa. Na cueca, só o kit de 2 Comfort, a R$ 98,01, economiza de verdade; os de 3 e 5 ficam perto do preço avulso. Números de 30/10/2026."
+        ]
+      },
+      {
+        "heading": "Como ler a conta do kit",
+        "paragraphs": [
+          "A conta é o preço do kit dividido pelo número de peças, comparado com a peça avulsa de hoje. O \"de\" que a loja mostra ao lado do preço do kit usa o preço antigo das peças, então não serve de base. O kit de 3 Tech aparece com \"de R$ 507\", mas 3 Tech avulsas custam R$ 387 em 30/10/2026, e é esse número que entra na conta.",
+          "Os preços são do cartão, sem Pix. A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) avulsa custa R$ 129 no cadastro principal, com a grade de PP a XXGG. A loja também tem cadastros com um tamanho só, em geral PP, com preços bem menores. Eles não entram aqui.",
+          "A loja pode mudar preços com a Black Friday. Antes de comprar, veja a [Black Friday Insider 2026](/reviews/black-friday-insider). A conta deste texto é de 30/10."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/kit-insider-quando-compensa-tech-avulsa.webp",
+            "alt": "Modelo de pé vestindo Tech T-Shirt de manga curta em tom escuro, sobre fundo cinza claro",
+            "caption": "Foto oficial da Insider. É a Tech T-Shirt avulsa, não o kit.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8333
+          }
+        ]
+      },
+      {
+        "heading": "Camisetas: a tabela",
+        "paragraphs": [
+          "Preços de 30/10/2026, no cartão, sem Pix e sem cupom. Cada linha compara o kit com as peças avulsas da mesma linha."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Kit",
+            "Preço do kit",
+            "Por peça",
+            "Soma das avulsas",
+            "Economia",
+            "Leitura"
+          ],
+          "rows": [
+            [
+              "Kit 3 Tech T-Shirt, versão de R$ 355,50",
+              "R$ 355,50",
+              "R$ 118,50",
+              "R$ 387 (3 × R$ 129)",
+              "R$ 31,50 (8%)",
+              "compensa pouco"
+            ],
+            [
+              "Kit 3 Tech T-Shirt, versão de R$ 456",
+              "R$ 456,00",
+              "R$ 152,00",
+              "R$ 387 (3 × R$ 129)",
+              "custa R$ 69 a mais",
+              "não compensa"
+            ],
+            [
+              "Kit 5 Tech T-Shirt",
+              "R$ 544,38",
+              "R$ 108,88",
+              "R$ 645 (5 × R$ 129)",
+              "R$ 100,62 (16%)",
+              "compensa"
+            ],
+            [
+              "Kit 10 Tech T-Shirt",
+              "R$ 989,43",
+              "R$ 98,94",
+              "R$ 1.290 (10 × R$ 129)",
+              "R$ 300,57 (23%)",
+              "compensa mais"
+            ],
+            [
+              "Kit 3 Tech Heavy",
+              "R$ 441,61",
+              "R$ 147,20",
+              "R$ 507 (3 × R$ 169)",
+              "R$ 65,39 (13%)",
+              "compensa"
+            ],
+            [
+              "Kit 5 Tech Heavy",
+              "R$ 697,89",
+              "R$ 139,58",
+              "R$ 845 (5 × R$ 169)",
+              "R$ 147,11 (17%)",
+              "compensa"
+            ],
+            [
+              "Kit 3 Daily",
+              "R$ 290,76",
+              "R$ 96,92",
+              "R$ 297 (3 × R$ 99)",
+              "R$ 6,24 (2%)",
+              "quase igual ao avulso"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Heavy avulsa vai de R$ 155 a R$ 199, conforme a cor. A conta usa R$ 169. Com R$ 155, a economia do kit de 3 cai para 5%, e a do kit de 5, para 10%.",
+          "A loja tem dois kits de 3 Tech com nomes parecidos. O de R$ 355,50 é o que entra na tabela. O outro, de R$ 456, custa R$ 69 a mais que as três avulsas."
+        ]
+      },
+      {
+        "heading": "Tech: 3, 5 e 10 peças",
+        "paragraphs": [
+          "O kit de 3 Tech economiza pouco: R$ 31,50 em três camisetas, ou 8%. A partir de 5 peças a conta muda. O kit de 5 sai a R$ 108,88 por camiseta, e o de 10, a R$ 98,94. Segundo a marca, a Tech tem 92% modal e 8% elastano.",
+          "O kit de 5 Tech tem o mesmo preço nas variantes feminina e Gola V. A grade da masculina vai de PP a XXGG."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/kit-insider-quando-compensa-kit-3-tech.webp",
+            "alt": "Três camisetas Tech T-Shirt, preta, off-white e cinza-chumbo, em fundo claro",
+            "caption": "Foto oficial da Insider, do Kit 3 Tech T-Shirt.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/kit-insider-quando-compensa-kit-5-tech.webp",
+            "alt": "Cinco camisetas Tech T-Shirt em preto, off-white, cinza-chumbo e azul-marinho, em fundo claro",
+            "caption": "Foto oficial da Insider, do Kit 5 Tech T-Shirt.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/kit-insider-quando-compensa-kit-10-tech.webp",
+            "alt": "Dez camisetas Tech T-Shirt em preto, off-white e azul-marinho, em fundo claro",
+            "caption": "Foto oficial da Insider, do Kit 10 Tech T-Shirt.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Heavy: a cor muda a conta",
+        "paragraphs": [
+          "Em 30/10, a Heavy avulsa tinha as 23 variantes disponíveis, de PP a XGG. Com a conta de R$ 169, o kit de 5 economiza 17%, e o de 3, 13%. Se a peça avulsa for a de R$ 155, as economias caem para 10% e 5%."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/kit-insider-quando-compensa-heavy-branca-avulsa.webp",
+            "alt": "Modelo vestindo camiseta Heavy branca de manga curta, com calça bege, sobre fundo cinza claro",
+            "caption": "Foto oficial da Insider. É a Heavy avulsa em branco, não o kit.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7811
+          },
+          {
+            "src": "/images/reviews/insider/kit-insider-quando-compensa-kit-3-heavy.webp",
+            "alt": "Três camisetas Heavy, duas verde-oliva e uma branca, em fundo claro",
+            "caption": "Foto oficial da Insider, do Kit 3 Tech Heavy.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Daily: o kit quase não economiza",
+        "paragraphs": [
+          "A Daily avulsa custa R$ 99 (de R$ 139) em 30/10/2026. O kit de 3 sai a R$ 96,92 por peça, uma economia de R$ 6,24 no total, ou 2%. Pela conta, o kit não compensa: quem quer a Daily leva a avulsa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/kit-insider-quando-compensa-daily-preta-avulsa.webp",
+            "alt": "Modelo vestindo camiseta Daily preta de manga curta, com calça verde-oliva, sobre fundo cinza claro",
+            "caption": "Foto oficial da Insider. É a Daily avulsa em preto, não o kit.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7922
+          },
+          {
+            "src": "/images/reviews/insider/kit-insider-quando-compensa-kit-3-daily.webp",
+            "alt": "Três camisetas Daily, duas pretas e uma off-white, em fundo claro",
+            "caption": "Foto oficial da Insider, do Kit 3 Daily.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Cuecas e undershirt: a tabela",
+        "paragraphs": [
+          "Peça avulsa de referência: Cueca Comfort a R$ 79, Cueca Performance de R$ 79 a R$ 95 conforme a variante, Cueca Slip a R$ 75 e undershirt Moderado de R$ 145 a R$ 159."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Kit",
+            "Preço do kit",
+            "Por peça",
+            "Soma das avulsas",
+            "Economia",
+            "Leitura"
+          ],
+          "rows": [
+            [
+              "Kit 2 Cuecas Comfort",
+              "R$ 98,01",
+              "R$ 49,01",
+              "R$ 158 (2 × R$ 79)",
+              "R$ 59,99 (38%)",
+              "a maior economia da tabela"
+            ],
+            [
+              "Kit 3 Cuecas Comfort",
+              "R$ 229,89",
+              "R$ 76,63",
+              "R$ 237 (3 × R$ 79)",
+              "R$ 7,11 (3%)",
+              "quase igual ao avulso"
+            ],
+            [
+              "Kit 5 Cuecas Comfort",
+              "R$ 375,25",
+              "R$ 75,05",
+              "R$ 395 (5 × R$ 79)",
+              "R$ 19,75 (5%)",
+              "pouco"
+            ],
+            [
+              "Kit 3 Cuecas Performance",
+              "R$ 229,89",
+              "R$ 76,63",
+              "R$ 237 (3 × R$ 79)",
+              "R$ 7,11 (3%)",
+              "quase igual ao avulso"
+            ],
+            [
+              "Kit 5 Cuecas Performance",
+              "R$ 375,25",
+              "R$ 75,05",
+              "R$ 395 (5 × R$ 79)",
+              "R$ 19,75 (5%)",
+              "pouco"
+            ],
+            [
+              "Kit 5 Cuecas Slip",
+              "R$ 339,00",
+              "R$ 67,80",
+              "R$ 375 (5 × R$ 75)",
+              "R$ 36 (10%)",
+              "compensa um pouco"
+            ],
+            [
+              "Kit 10 Cuecas Slip",
+              "R$ 639,00",
+              "R$ 63,90",
+              "R$ 750 (10 × R$ 75)",
+              "R$ 111 (15%)",
+              "compensa"
+            ],
+            [
+              "Kit 3 Undershirts Moderado, gola V",
+              "R$ 413,12",
+              "R$ 137,71",
+              "R$ 435 a R$ 477 (3 × R$ 145 a R$ 159)",
+              "R$ 21,88 a R$ 63,88 (5% a 13%)",
+              "compensa pouco e depende da cor"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os dois kits de 10 cuecas, Comfort e Performance, estavam esgotados em 30/10 (0 de 1 variante disponível). Por isso não entram na tabela.",
+          "Na Performance, a conta usa R$ 79. Com a peça de R$ 95, a economia do kit de 3 passa de 19%, e a do kit de 5, de 21%.",
+          "O kit de 2 Cuecas Comfort, a R$ 98,01, tem a maior economia da tabela. O preço estava disponível no cadastro lido em 30/10. Vale conferir o preço no dia da compra.",
+          "O kit de 3 Undershirts Moderado, gola V, sai a R$ 137,71 por peça. A avulsa vai de R$ 145 a R$ 159, e a economia depende da cor. Detalhes no [texto da undershirt](/reviews/undershirt-insider-qual-escolher-funciona)."
+        ]
+      },
+      {
+        "heading": "Cueca Comfort: o kit de 3 e o de 5",
+        "paragraphs": [
+          "A Cueca Comfort avulsa custa R$ 79. O kit de 3 economiza 3%, e o de 5, 5%. Para cueca do dia a dia, a conta de um kit de 3 ou de 5 quase não muda o gasto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/kit-insider-quando-compensa-cueca-comfort-avulsa.webp",
+            "alt": "Modelo de pé com camiseta branca e cueca boxer escura, sobre fundo cinza claro",
+            "caption": "Foto oficial da Insider. É a Cueca Comfort avulsa, não o kit.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/kit-insider-quando-compensa-kit-5-cuecas-comfort.webp",
+            "alt": "Cinco cuecas boxer Comfort em azul-marinho, azul-claro e preto, em fundo claro",
+            "caption": "Foto oficial da Insider, do Kit 5 Cuecas Comfort.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Cueca Slip: o kit de 5 e o de 10",
+        "paragraphs": [
+          "A Cueca Slip avulsa custa R$ 75, e as cinco variantes estavam disponíveis em 30/10. O kit de 5 sai a R$ 67,80 por peça e economiza 10%. O de 10 sai a R$ 63,90, com economia de 15%."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/kit-insider-quando-compensa-kit-5-cuecas-slip.webp",
+            "alt": "Cinco cuecas slip pretas, dobradas em diagonal, em fundo claro",
+            "caption": "Foto oficial da Insider, do Kit 5 Cuecas Slip.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Cupom no kit: o que a regra diz",
+        "paragraphs": [
+          "O cupom EMCASACOMCECILIA dá 15% na loja online, uma vez por pedido, e não vale em lançamentos nem em loja física. A regra publicada não exclui kit: ela não fala em kit, nem para dizer que entra, nem para dizer que fica de fora.",
+          "No teste de 05/10 houve desconto num kit de preço promocional. Um kit de preço cheio, como os desta tabela, ainda não foi testado no carrinho. Por isso este texto não calcula nenhum kit com cupom. Antes de pagar, confira a linha do código em cada item do resumo do pedido.",
+          "A Daily não aceitou o cupom no teste de 12/10. A loja mostrou \"desconto máximo aplicado. Não é cumulativo com cupons\".",
+          "O Pix tem desconto próprio na loja. Este texto não cita o percentual, porque a barra do site e os banners mostram valores diferentes."
+        ]
+      },
+      {
+        "heading": "Frete e troca",
+        "paragraphs": [
+          "Pela regra de frete publicada em 05/10, o frete é grátis acima de R$ 399, depois do desconto. O kit de 3 Tech, a R$ 355,50, fica abaixo desse valor e paga frete. O kit de 5 Tech, a R$ 544,38, não paga. A regra não foi lida de novo em 30/10, então confira no carrinho.",
+          "Na troca, o kit segue a regra de cada peça. A camiseta tem troca por tamanho em 21 dias corridos, por insatisfação, segundo a central de ajuda lida em 20/10. Cueca e undershirt só trocam por defeito, em 180 dias corridos."
+        ]
+      },
+      {
+        "heading": "Quando compensa e quando não",
+        "bullets": [
+          "Compensa: Tech de 5 e de 10, Heavy de 3 e de 5, Slip de 10 e Cueca Comfort de 2, com o preço lido em 30/10.",
+          "Compensa pouco: Tech de 3, cueca Comfort ou Performance de 3 e de 5, Slip de 5 e undershirt de 3.",
+          "Não compensa: Daily de 3 (2%) e o kit de 3 Tech de R$ 456, que custa R$ 69 a mais que as avulsas.",
+          "Esgotados em 30/10: os kits de 10 cuecas Comfort e Performance."
+        ]
+      },
+      {
+        "heading": "Presente: outro texto",
+        "paragraphs": [
+          "Kit para presente tem faixas de preço, gift card e sacola, e segue em outro texto: [Presente de Natal na Insider: kits, gift card, sacola e troca de presente](/reviews/presente-de-natal-insider-kits-gift-card). Este artigo fica com a conta por peça de quem compra para si."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Kit Insider compensa? Compensa em camiseta Tech de 5 ou 10 peças, Heavy de 3 ou 5 peças e Slip de 10 peças. O kit de 3 cuecas Comfort economiza 3% contra a avulsa de R$ 79.",
+          "Kit de cueca vale a pena? O de 3 Comfort ou Performance economiza 3%. O de 5 Slip economiza 10%. Compare com o preço do dia antes de montar o kit.",
+          "Kit de camiseta tem desconto? A Tech tem: o kit de 5 economiza 16%. A Daily quase não tem: 2% no kit de 3.",
+          "O cupom vale no kit? A regra publicada não exclui kit. Um kit de preço cheio ainda não foi testado no carrinho, então este texto não afirma o desconto. Confira o resumo do pedido.",
+          "Kit tem frete grátis? Pela regra de 05/10, acima de R$ 399, depois do desconto. Confira no carrinho.",
+          "Dá para trocar o tamanho do kit? A camiseta tem troca por tamanho em 21 dias por insatisfação. Cueca e undershirt só trocam por defeito."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços são de 30/10/2026, lidos nas páginas de produto da Insider no navegador. A regra de cupom vem da página da loja lida em 05/10/2026, e a de frete, da mesma data. Preço e estoque mudam, então confira a página antes de comprar. Ninguém da equipe usou os kits. Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se o kit faz sentido para você, entre pelo link da parceria. O cupom EMCASACOMCECILIA, de 15%, vale na loja online, mas confira no carrinho se ele entra no kit antes de pagar.",
+      "label": "Ir para a Insider",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Ninguém da equipe usou as peças: os dados são das páginas da loja.",
+    "relatedArticles": [
+      {
+        "slug": "cueca-insider-comfort-ou-performance",
+        "title": "Cueca Insider: Comfort, Performance, Seamless Touch ou Slip, qual escolher"
+      },
+      {
+        "slug": "undershirt-insider-qual-escolher-funciona",
+        "title": "Undershirt Insider: Leve, Moderado ou Block, qual escolher para o seu nível de suor"
+      },
+      {
+        "slug": "presente-de-natal-insider-kits-gift-card",
+        "title": "Presente de Natal na Insider: kits, gift card, sacola e troca de presente"
+      }
+    ]
   }
 ];

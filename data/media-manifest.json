@@ -65552,6 +65552,424 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53620,
+      "sha256": "88e2c87262d5ed5573176555e67251d00f5de8418f7b335d8d2164caa716b80a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-qual-escolher-capa.webp",
+      "storage_filename": "camiseta-insider-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-qual-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/camiseta-insider-qual-escolher-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/88e2c87262d5ed5573176555e67251d00f5de8418f7b335d8d2164caa716b80a/camiseta-insider-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/88e2c87262d5ed5573176555e67251d00f5de8418f7b335d8d2164caa716b80a/camiseta-insider-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:15.378Z",
+      "verification_etag_or_digest": "88e2c87262d5ed5573176555e67251d00f5de8418f7b335d8d2164caa716b80a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-core.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-core.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24906,
+      "sha256": "9935170f9b6c0f46db49f416fcb2c430f47e011e4b10d714cd47f541f3c68b62",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-qual-escolher-core.webp",
+      "storage_filename": "camiseta-insider-qual-escolher-core.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-qual-escolher.json",
+          "line": 201,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-insider-qual-escolher-core.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9935170f9b6c0f46db49f416fcb2c430f47e011e4b10d714cd47f541f3c68b62/camiseta-insider-qual-escolher-core.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9935170f9b6c0f46db49f416fcb2c430f47e011e4b10d714cd47f541f3c68b62/camiseta-insider-qual-escolher-core.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:17.512Z",
+      "verification_etag_or_digest": "9935170f9b6c0f46db49f416fcb2c430f47e011e4b10d714cd47f541f3c68b62",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-daily.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-daily.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20496,
+      "sha256": "2323c980a5e32f6d8635ce3492695dc6cc78d26720054057ed46752bd627c03f",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-qual-escolher-daily.webp",
+      "storage_filename": "camiseta-insider-qual-escolher-daily.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-qual-escolher.json",
+          "line": 208,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-insider-qual-escolher-daily.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2323c980a5e32f6d8635ce3492695dc6cc78d26720054057ed46752bd627c03f/camiseta-insider-qual-escolher-daily.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2323c980a5e32f6d8635ce3492695dc6cc78d26720054057ed46752bd627c03f/camiseta-insider-qual-escolher-daily.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:19.884Z",
+      "verification_etag_or_digest": "2323c980a5e32f6d8635ce3492695dc6cc78d26720054057ed46752bd627c03f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-gola-v-feminina.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-gola-v-feminina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26572,
+      "sha256": "24737e04390e9c9c360d9ac6c67f4efc806c330a6be5c94a1bb540071e3558fc",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-qual-escolher-gola-v-feminina.webp",
+      "storage_filename": "camiseta-insider-qual-escolher-gola-v-feminina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-qual-escolher.json",
+          "line": 162,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-insider-qual-escolher-gola-v-feminina.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/24737e04390e9c9c360d9ac6c67f4efc806c330a6be5c94a1bb540071e3558fc/camiseta-insider-qual-escolher-gola-v-feminina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/24737e04390e9c9c360d9ac6c67f4efc806c330a6be5c94a1bb540071e3558fc/camiseta-insider-qual-escolher-gola-v-feminina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:22.286Z",
+      "verification_etag_or_digest": "24737e04390e9c9c360d9ac6c67f4efc806c330a6be5c94a1bb540071e3558fc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-heavy-slim.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-heavy-slim.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24872,
+      "sha256": "0372c40e6f28fb711d39b27ca74452c30a3af48f60431dabe8769f3c051ccb46",
+      "width": 751,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-qual-escolher-heavy-slim.webp",
+      "storage_filename": "camiseta-insider-qual-escolher-heavy-slim.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-qual-escolher.json",
+          "line": 185,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-insider-qual-escolher-heavy-slim.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0372c40e6f28fb711d39b27ca74452c30a3af48f60431dabe8769f3c051ccb46/camiseta-insider-qual-escolher-heavy-slim.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0372c40e6f28fb711d39b27ca74452c30a3af48f60431dabe8769f3c051ccb46/camiseta-insider-qual-escolher-heavy-slim.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:24.449Z",
+      "verification_etag_or_digest": "0372c40e6f28fb711d39b27ca74452c30a3af48f60431dabe8769f3c051ccb46",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-heavy.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-heavy.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34578,
+      "sha256": "ea54f4971c584dd2e5a4d500561ff339e736d3f11812aa82c1a796bb32e538fc",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-qual-escolher-heavy.webp",
+      "storage_filename": "camiseta-insider-qual-escolher-heavy.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-qual-escolher.json",
+          "line": 178,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-insider-qual-escolher-heavy.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ea54f4971c584dd2e5a4d500561ff339e736d3f11812aa82c1a796bb32e538fc/camiseta-insider-qual-escolher-heavy.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ea54f4971c584dd2e5a4d500561ff339e736d3f11812aa82c1a796bb32e538fc/camiseta-insider-qual-escolher-heavy.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:26.815Z",
+      "verification_etag_or_digest": "ea54f4971c584dd2e5a4d500561ff339e736d3f11812aa82c1a796bb32e538fc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-henley.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-henley.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23438,
+      "sha256": "71ad25caba13ab07c3de8daaeb362d8ac83115423fcb572c4017674c4f8d8dfc",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-qual-escolher-henley.webp",
+      "storage_filename": "camiseta-insider-qual-escolher-henley.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-qual-escolher.json",
+          "line": 232,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-insider-qual-escolher-henley.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/71ad25caba13ab07c3de8daaeb362d8ac83115423fcb572c4017674c4f8d8dfc/camiseta-insider-qual-escolher-henley.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/71ad25caba13ab07c3de8daaeb362d8ac83115423fcb572c4017674c4f8d8dfc/camiseta-insider-qual-escolher-henley.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:29.253Z",
+      "verification_etag_or_digest": "71ad25caba13ab07c3de8daaeb362d8ac83115423fcb572c4017674c4f8d8dfc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-nextech.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-nextech.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25926,
+      "sha256": "81ad7ebeff240951fe1f512c5ee1bb0ec88425280a042fb73d4ebe64398272fb",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-qual-escolher-nextech.webp",
+      "storage_filename": "camiseta-insider-qual-escolher-nextech.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-qual-escolher.json",
+          "line": 239,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-insider-qual-escolher-nextech.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/81ad7ebeff240951fe1f512c5ee1bb0ec88425280a042fb73d4ebe64398272fb/camiseta-insider-qual-escolher-nextech.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/81ad7ebeff240951fe1f512c5ee1bb0ec88425280a042fb73d4ebe64398272fb/camiseta-insider-qual-escolher-nextech.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:31.688Z",
+      "verification_etag_or_digest": "81ad7ebeff240951fe1f512c5ee1bb0ec88425280a042fb73d4ebe64398272fb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-polo.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-polo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16982,
+      "sha256": "c98ebdc7bc24efe0bc0ebfadf7000c5f113bf054de75f9a31ac8604c0da51f7b",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-qual-escolher-polo.webp",
+      "storage_filename": "camiseta-insider-qual-escolher-polo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-qual-escolher.json",
+          "line": 225,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-insider-qual-escolher-polo.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c98ebdc7bc24efe0bc0ebfadf7000c5f113bf054de75f9a31ac8604c0da51f7b/camiseta-insider-qual-escolher-polo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c98ebdc7bc24efe0bc0ebfadf7000c5f113bf054de75f9a31ac8604c0da51f7b/camiseta-insider-qual-escolher-polo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:34.122Z",
+      "verification_etag_or_digest": "c98ebdc7bc24efe0bc0ebfadf7000c5f113bf054de75f9a31ac8604c0da51f7b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-tech-feminina.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-tech-feminina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27350,
+      "sha256": "330d0472541bb304fd2fa2e020caffdd58dd9e6f90dd6d4fb96768518428cd8d",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-qual-escolher-tech-feminina.webp",
+      "storage_filename": "camiseta-insider-qual-escolher-tech-feminina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-qual-escolher.json",
+          "line": 155,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-insider-qual-escolher-tech-feminina.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/330d0472541bb304fd2fa2e020caffdd58dd9e6f90dd6d4fb96768518428cd8d/camiseta-insider-qual-escolher-tech-feminina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/330d0472541bb304fd2fa2e020caffdd58dd9e6f90dd6d4fb96768518428cd8d/camiseta-insider-qual-escolher-tech-feminina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:36.360Z",
+      "verification_etag_or_digest": "330d0472541bb304fd2fa2e020caffdd58dd9e6f90dd6d4fb96768518428cd8d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-tech-masculina.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-tech-masculina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33884,
+      "sha256": "5f9b465774e9569e79f721b27a723c1419c7bd364f4b6e519b5e973095ff02d2",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-qual-escolher-tech-masculina.webp",
+      "storage_filename": "camiseta-insider-qual-escolher-tech-masculina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-qual-escolher.json",
+          "line": 148,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-insider-qual-escolher-tech-masculina.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5f9b465774e9569e79f721b27a723c1419c7bd364f4b6e519b5e973095ff02d2/camiseta-insider-qual-escolher-tech-masculina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5f9b465774e9569e79f721b27a723c1419c7bd364f4b6e519b5e973095ff02d2/camiseta-insider-qual-escolher-tech-masculina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:38.600Z",
+      "verification_etag_or_digest": "5f9b465774e9569e79f721b27a723c1419c7bd364f4b6e519b5e973095ff02d2",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-como-medir-camiseta.webp",
       "local_url": "/images/reviews/insider/insider-como-medir-camiseta.webp",
       "media_kind": "image",
@@ -67029,6 +67447,462 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T17:19:24.050Z",
       "verification_etag_or_digest": "85979660c117f95ff928fb5da0a7d8e9cd824c402fab90f97ea8b7f8e42994ba",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-capa.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35894,
+      "sha256": "45fae965a62ba35d84af36ebc906006744f125d43805e59931a827aab88e0380",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-capa.webp",
+      "storage_filename": "kit-insider-quando-compensa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/45fae965a62ba35d84af36ebc906006744f125d43805e59931a827aab88e0380/kit-insider-quando-compensa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/45fae965a62ba35d84af36ebc906006744f125d43805e59931a827aab88e0380/kit-insider-quando-compensa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:40.895Z",
+      "verification_etag_or_digest": "45fae965a62ba35d84af36ebc906006744f125d43805e59931a827aab88e0380",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-cueca-comfort-avulsa.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-cueca-comfort-avulsa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22750,
+      "sha256": "5e0609632dfa25f1706b723afb068c0dcf11d5588a185414f21bbd1c2742adb5",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-cueca-comfort-avulsa.webp",
+      "storage_filename": "kit-insider-quando-compensa-cueca-comfort-avulsa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 298,
+          "column": 19,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-cueca-comfort-avulsa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5e0609632dfa25f1706b723afb068c0dcf11d5588a185414f21bbd1c2742adb5/kit-insider-quando-compensa-cueca-comfort-avulsa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5e0609632dfa25f1706b723afb068c0dcf11d5588a185414f21bbd1c2742adb5/kit-insider-quando-compensa-cueca-comfort-avulsa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:42.996Z",
+      "verification_etag_or_digest": "5e0609632dfa25f1706b723afb068c0dcf11d5588a185414f21bbd1c2742adb5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-daily-preta-avulsa.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-daily-preta-avulsa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18606,
+      "sha256": "e58e48fe3ebcce4e05ebcc7e9bdedde7ae53bb21df53c2165660a8097d58d43c",
+      "width": 713,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-daily-preta-avulsa.webp",
+      "storage_filename": "kit-insider-quando-compensa-daily-preta-avulsa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 188,
+          "column": 19,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-daily-preta-avulsa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e58e48fe3ebcce4e05ebcc7e9bdedde7ae53bb21df53c2165660a8097d58d43c/kit-insider-quando-compensa-daily-preta-avulsa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e58e48fe3ebcce4e05ebcc7e9bdedde7ae53bb21df53c2165660a8097d58d43c/kit-insider-quando-compensa-daily-preta-avulsa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:45.327Z",
+      "verification_etag_or_digest": "e58e48fe3ebcce4e05ebcc7e9bdedde7ae53bb21df53c2165660a8097d58d43c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-heavy-branca-avulsa.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-heavy-branca-avulsa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16890,
+      "sha256": "9a4559f1e1a022a2b9184b866a54cf309a67aa979a9ce7e5e81ec5ea7e647ee9",
+      "width": 703,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-heavy-branca-avulsa.webp",
+      "storage_filename": "kit-insider-quando-compensa-heavy-branca-avulsa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 166,
+          "column": 19,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-heavy-branca-avulsa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9a4559f1e1a022a2b9184b866a54cf309a67aa979a9ce7e5e81ec5ea7e647ee9/kit-insider-quando-compensa-heavy-branca-avulsa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9a4559f1e1a022a2b9184b866a54cf309a67aa979a9ce7e5e81ec5ea7e647ee9/kit-insider-quando-compensa-heavy-branca-avulsa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:47.630Z",
+      "verification_etag_or_digest": "9a4559f1e1a022a2b9184b866a54cf309a67aa979a9ce7e5e81ec5ea7e647ee9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-kit-10-tech.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-kit-10-tech.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13070,
+      "sha256": "792f098cfbeba2284fbf41df5c119f2fb10ce3003f60319e74d65b58eeadf59d",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-kit-10-tech.webp",
+      "storage_filename": "kit-insider-quando-compensa-kit-10-tech.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 151,
+          "column": 19,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-kit-10-tech.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/792f098cfbeba2284fbf41df5c119f2fb10ce3003f60319e74d65b58eeadf59d/kit-insider-quando-compensa-kit-10-tech.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/792f098cfbeba2284fbf41df5c119f2fb10ce3003f60319e74d65b58eeadf59d/kit-insider-quando-compensa-kit-10-tech.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:49.822Z",
+      "verification_etag_or_digest": "792f098cfbeba2284fbf41df5c119f2fb10ce3003f60319e74d65b58eeadf59d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-kit-3-daily.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-kit-3-daily.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 8038,
+      "sha256": "66a8fe5a027e743702d04bf5d448baf91c612b80d33eaa45a42b71c37a89b8d1",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-kit-3-daily.webp",
+      "storage_filename": "kit-insider-quando-compensa-kit-3-daily.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 195,
+          "column": 19,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-kit-3-daily.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/66a8fe5a027e743702d04bf5d448baf91c612b80d33eaa45a42b71c37a89b8d1/kit-insider-quando-compensa-kit-3-daily.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/66a8fe5a027e743702d04bf5d448baf91c612b80d33eaa45a42b71c37a89b8d1/kit-insider-quando-compensa-kit-3-daily.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:51.949Z",
+      "verification_etag_or_digest": "66a8fe5a027e743702d04bf5d448baf91c612b80d33eaa45a42b71c37a89b8d1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-kit-3-heavy.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-kit-3-heavy.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 8822,
+      "sha256": "1dd3a09aa29e980c6c95659491920f593d1f509ebb6663f1b4e13f14d322a023",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-kit-3-heavy.webp",
+      "storage_filename": "kit-insider-quando-compensa-kit-3-heavy.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 173,
+          "column": 19,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-kit-3-heavy.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1dd3a09aa29e980c6c95659491920f593d1f509ebb6663f1b4e13f14d322a023/kit-insider-quando-compensa-kit-3-heavy.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1dd3a09aa29e980c6c95659491920f593d1f509ebb6663f1b4e13f14d322a023/kit-insider-quando-compensa-kit-3-heavy.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:54.096Z",
+      "verification_etag_or_digest": "1dd3a09aa29e980c6c95659491920f593d1f509ebb6663f1b4e13f14d322a023",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-kit-3-tech.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-kit-3-tech.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13500,
+      "sha256": "ff0e5ff8b3b94265f45cbfef1c4fde1bba50283e7d343dd5cf8dfc1fbdfaff84",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-kit-3-tech.webp",
+      "storage_filename": "kit-insider-quando-compensa-kit-3-tech.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 137,
+          "column": 19,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-kit-3-tech.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ff0e5ff8b3b94265f45cbfef1c4fde1bba50283e7d343dd5cf8dfc1fbdfaff84/kit-insider-quando-compensa-kit-3-tech.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ff0e5ff8b3b94265f45cbfef1c4fde1bba50283e7d343dd5cf8dfc1fbdfaff84/kit-insider-quando-compensa-kit-3-tech.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:56.447Z",
+      "verification_etag_or_digest": "ff0e5ff8b3b94265f45cbfef1c4fde1bba50283e7d343dd5cf8dfc1fbdfaff84",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-kit-5-cuecas-comfort.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-kit-5-cuecas-comfort.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 8272,
+      "sha256": "2644c9b013b897439d3c23da44d1b642df6bb2fd2bf47e1e7af4dd0e78651468",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-kit-5-cuecas-comfort.webp",
+      "storage_filename": "kit-insider-quando-compensa-kit-5-cuecas-comfort.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 305,
+          "column": 19,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-kit-5-cuecas-comfort.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2644c9b013b897439d3c23da44d1b642df6bb2fd2bf47e1e7af4dd0e78651468/kit-insider-quando-compensa-kit-5-cuecas-comfort.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2644c9b013b897439d3c23da44d1b642df6bb2fd2bf47e1e7af4dd0e78651468/kit-insider-quando-compensa-kit-5-cuecas-comfort.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:40:58.590Z",
+      "verification_etag_or_digest": "2644c9b013b897439d3c23da44d1b642df6bb2fd2bf47e1e7af4dd0e78651468",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-kit-5-cuecas-slip.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-kit-5-cuecas-slip.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7876,
+      "sha256": "82e906c5ad6e0cdb9ce0680626fcacc9bac34833d13684a69b8d046fadf6b85f",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-kit-5-cuecas-slip.webp",
+      "storage_filename": "kit-insider-quando-compensa-kit-5-cuecas-slip.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 320,
+          "column": 19,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-kit-5-cuecas-slip.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/82e906c5ad6e0cdb9ce0680626fcacc9bac34833d13684a69b8d046fadf6b85f/kit-insider-quando-compensa-kit-5-cuecas-slip.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/82e906c5ad6e0cdb9ce0680626fcacc9bac34833d13684a69b8d046fadf6b85f/kit-insider-quando-compensa-kit-5-cuecas-slip.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:00.871Z",
+      "verification_etag_or_digest": "82e906c5ad6e0cdb9ce0680626fcacc9bac34833d13684a69b8d046fadf6b85f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-kit-5-tech.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-kit-5-tech.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 11412,
+      "sha256": "b43af677c3a2c868223e9cc76e20cf3ac2cde63b7d0b8be24c6fa5d6d6c434de",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-kit-5-tech.webp",
+      "storage_filename": "kit-insider-quando-compensa-kit-5-tech.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 144,
+          "column": 19,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-kit-5-tech.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b43af677c3a2c868223e9cc76e20cf3ac2cde63b7d0b8be24c6fa5d6d6c434de/kit-insider-quando-compensa-kit-5-tech.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b43af677c3a2c868223e9cc76e20cf3ac2cde63b7d0b8be24c6fa5d6d6c434de/kit-insider-quando-compensa-kit-5-tech.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:03.013Z",
+      "verification_etag_or_digest": "b43af677c3a2c868223e9cc76e20cf3ac2cde63b7d0b8be24c6fa5d6d6c434de",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-tech-avulsa.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-tech-avulsa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31138,
+      "sha256": "1ff67b342d0c8f47e62fbd778f0fadd1d88fe82e99eb179812981e45b27c47d7",
+      "width": 750,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-tech-avulsa.webp",
+      "storage_filename": "kit-insider-quando-compensa-tech-avulsa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 43,
+          "column": 19,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-tech-avulsa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1ff67b342d0c8f47e62fbd778f0fadd1d88fe82e99eb179812981e45b27c47d7/kit-insider-quando-compensa-tech-avulsa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1ff67b342d0c8f47e62fbd778f0fadd1d88fe82e99eb179812981e45b27c47d7/kit-insider-quando-compensa-tech-avulsa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:05.498Z",
+      "verification_etag_or_digest": "1ff67b342d0c8f47e62fbd778f0fadd1d88fe82e99eb179812981e45b27c47d7",
       "verification_status": "verified"
     },
     {
@@ -96656,6 +97530,424 @@
       "uploaded_at": null,
       "verified_at": "2026-10-27T21:19:07.514Z",
       "verification_etag_or_digest": "5a0d23469a2f2d7b38011c3738706d321e026e5a77143e5403a183cb37e3ebef",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-toda-up-qual-escolher-capa-discover.webp",
+      "local_url": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76676,
+      "sha256": "3ce79ff8ee85184dad792d052c3867d9d3b8cf70be0a301b41fc6bb5d0f6d96d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-toda-up-qual-escolher-capa-discover.webp",
+      "storage_filename": "sutia-toda-up-qual-escolher-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-toda-up-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-toda-up-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3ce79ff8ee85184dad792d052c3867d9d3b8cf70be0a301b41fc6bb5d0f6d96d/sutia-toda-up-qual-escolher-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3ce79ff8ee85184dad792d052c3867d9d3b8cf70be0a301b41fc6bb5d0f6d96d/sutia-toda-up-qual-escolher-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:07.773Z",
+      "verification_etag_or_digest": "3ce79ff8ee85184dad792d052c3867d9d3b8cf70be0a301b41fc6bb5d0f6d96d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line-alcas.webp",
+      "local_url": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line-alcas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62266,
+      "sha256": "6c74cea5b78e041d5304063bfce4b487ebb3c10f2170923e5735274f825dda02",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-toda-up-qual-escolher-comfort-line-alcas.webp",
+      "storage_filename": "sutia-toda-up-qual-escolher-comfort-line-alcas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-toda-up-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-toda-up-qual-escolher.json",
+          "line": 135,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line-alcas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6c74cea5b78e041d5304063bfce4b487ebb3c10f2170923e5735274f825dda02/sutia-toda-up-qual-escolher-comfort-line-alcas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6c74cea5b78e041d5304063bfce4b487ebb3c10f2170923e5735274f825dda02/sutia-toda-up-qual-escolher-comfort-line-alcas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:09.991Z",
+      "verification_etag_or_digest": "6c74cea5b78e041d5304063bfce4b487ebb3c10f2170923e5735274f825dda02",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line-modelagem.webp",
+      "local_url": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line-modelagem.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40522,
+      "sha256": "6adf3a15c99ad617a1624f6060b734cb035de7c7f44906284fae572d4fe932bc",
+      "width": 859,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-toda-up-qual-escolher-comfort-line-modelagem.webp",
+      "storage_filename": "sutia-toda-up-qual-escolher-comfort-line-modelagem.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-toda-up-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-toda-up-qual-escolher.json",
+          "line": 142,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line-modelagem.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6adf3a15c99ad617a1624f6060b734cb035de7c7f44906284fae572d4fe932bc/sutia-toda-up-qual-escolher-comfort-line-modelagem.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6adf3a15c99ad617a1624f6060b734cb035de7c7f44906284fae572d4fe932bc/sutia-toda-up-qual-escolher-comfort-line-modelagem.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:12.104Z",
+      "verification_etag_or_digest": "6adf3a15c99ad617a1624f6060b734cb035de7c7f44906284fae572d4fe932bc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line.webp",
+      "local_url": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33042,
+      "sha256": "1539d9d258c5bf583d089df704db3ff4b9dfba3479f795d814262c25501f381f",
+      "width": 779,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-toda-up-qual-escolher-comfort-line.webp",
+      "storage_filename": "sutia-toda-up-qual-escolher-comfort-line.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-toda-up-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-toda-up-qual-escolher.json",
+          "line": 128,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1539d9d258c5bf583d089df704db3ff4b9dfba3479f795d814262c25501f381f/sutia-toda-up-qual-escolher-comfort-line.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1539d9d258c5bf583d089df704db3ff4b9dfba3479f795d814262c25501f381f/sutia-toda-up-qual-escolher-comfort-line.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:14.273Z",
+      "verification_etag_or_digest": "1539d9d258c5bf583d089df704db3ff4b9dfba3479f795d814262c25501f381f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-slim-rosa.webp",
+      "local_url": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-slim-rosa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41968,
+      "sha256": "95b25ebe2e89005968b87c478f4dfc42b544d14a4f0828fe6edd171a3318cf60",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-toda-up-qual-escolher-comfort-slim-rosa.webp",
+      "storage_filename": "sutia-toda-up-qual-escolher-comfort-slim-rosa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-toda-up-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-toda-up-qual-escolher.json",
+          "line": 165,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-slim-rosa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/95b25ebe2e89005968b87c478f4dfc42b544d14a4f0828fe6edd171a3318cf60/sutia-toda-up-qual-escolher-comfort-slim-rosa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/95b25ebe2e89005968b87c478f4dfc42b544d14a4f0828fe6edd171a3318cf60/sutia-toda-up-qual-escolher-comfort-slim-rosa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:16.651Z",
+      "verification_etag_or_digest": "95b25ebe2e89005968b87c478f4dfc42b544d14a4f0828fe6edd171a3318cf60",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-slim.webp",
+      "local_url": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-slim.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28674,
+      "sha256": "ab9d6c67718d0d4ec9e3464c70a8e7a156000ec99551f729992ed298a91811ad",
+      "width": 886,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-toda-up-qual-escolher-comfort-slim.webp",
+      "storage_filename": "sutia-toda-up-qual-escolher-comfort-slim.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-toda-up-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-toda-up-qual-escolher.json",
+          "line": 158,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-slim.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ab9d6c67718d0d4ec9e3464c70a8e7a156000ec99551f729992ed298a91811ad/sutia-toda-up-qual-escolher-comfort-slim.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ab9d6c67718d0d4ec9e3464c70a8e7a156000ec99551f729992ed298a91811ad/sutia-toda-up-qual-escolher-comfort-slim.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:19.073Z",
+      "verification_etag_or_digest": "ab9d6c67718d0d4ec9e3464c70a8e7a156000ec99551f729992ed298a91811ad",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up-costas.webp",
+      "local_url": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up-costas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44360,
+      "sha256": "3a941db4803c44fce2af369cb1ab22708b8a513b274758658862038e5748d4a9",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-toda-up-qual-escolher-comfort-up-costas.webp",
+      "storage_filename": "sutia-toda-up-qual-escolher-comfort-up-costas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-toda-up-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-toda-up-qual-escolher.json",
+          "line": 112,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up-costas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3a941db4803c44fce2af369cb1ab22708b8a513b274758658862038e5748d4a9/sutia-toda-up-qual-escolher-comfort-up-costas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3a941db4803c44fce2af369cb1ab22708b8a513b274758658862038e5748d4a9/sutia-toda-up-qual-escolher-comfort-up-costas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:21.307Z",
+      "verification_etag_or_digest": "3a941db4803c44fce2af369cb1ab22708b8a513b274758658862038e5748d4a9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up.webp",
+      "local_url": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65130,
+      "sha256": "4565277437eb7b909596237226eb21c55929e9930449bdce34ea36abd89b6fb5",
+      "width": 770,
+      "height": 751,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-toda-up-qual-escolher-comfort-up.webp",
+      "storage_filename": "sutia-toda-up-qual-escolher-comfort-up.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-toda-up-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-toda-up-qual-escolher.json",
+          "line": 105,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4565277437eb7b909596237226eb21c55929e9930449bdce34ea36abd89b6fb5/sutia-toda-up-qual-escolher-comfort-up.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4565277437eb7b909596237226eb21c55929e9930449bdce34ea36abd89b6fb5/sutia-toda-up-qual-escolher-comfort-up.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:23.485Z",
+      "verification_etag_or_digest": "4565277437eb7b909596237226eb21c55929e9930449bdce34ea36abd89b6fb5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-line.webp",
+      "local_url": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-line.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31488,
+      "sha256": "907cc95b75a76d390c0cae218fb61dea7e24147e383f802d273800131f3a0ed0",
+      "width": 900,
+      "height": 826,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-toda-up-qual-escolher-medidas-comfort-line.webp",
+      "storage_filename": "sutia-toda-up-qual-escolher-medidas-comfort-line.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-toda-up-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-toda-up-qual-escolher.json",
+          "line": 248,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-line.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/907cc95b75a76d390c0cae218fb61dea7e24147e383f802d273800131f3a0ed0/sutia-toda-up-qual-escolher-medidas-comfort-line.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/907cc95b75a76d390c0cae218fb61dea7e24147e383f802d273800131f3a0ed0/sutia-toda-up-qual-escolher-medidas-comfort-line.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:25.611Z",
+      "verification_etag_or_digest": "907cc95b75a76d390c0cae218fb61dea7e24147e383f802d273800131f3a0ed0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-slim.webp",
+      "local_url": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-slim.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30544,
+      "sha256": "3e78efcf7896e5a293cfad2e6e3416fcc4f7e9b717717efcc47e12172162c23b",
+      "width": 900,
+      "height": 826,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-toda-up-qual-escolher-medidas-comfort-slim.webp",
+      "storage_filename": "sutia-toda-up-qual-escolher-medidas-comfort-slim.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-toda-up-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-toda-up-qual-escolher.json",
+          "line": 255,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-slim.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3e78efcf7896e5a293cfad2e6e3416fcc4f7e9b717717efcc47e12172162c23b/sutia-toda-up-qual-escolher-medidas-comfort-slim.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3e78efcf7896e5a293cfad2e6e3416fcc4f7e9b717717efcc47e12172162c23b/sutia-toda-up-qual-escolher-medidas-comfort-slim.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:27.839Z",
+      "verification_etag_or_digest": "3e78efcf7896e5a293cfad2e6e3416fcc4f7e9b717717efcc47e12172162c23b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-up.webp",
+      "local_url": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-up.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38228,
+      "sha256": "9eb478f24707acafe3d61c64aee33d4035f9ba861ff062def37e071dd04d5cc5",
+      "width": 897,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-toda-up-qual-escolher-medidas-comfort-up.webp",
+      "storage_filename": "sutia-toda-up-qual-escolher-medidas-comfort-up.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-toda-up-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-toda-up-qual-escolher.json",
+          "line": 241,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-up.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9eb478f24707acafe3d61c64aee33d4035f9ba861ff062def37e071dd04d5cc5/sutia-toda-up-qual-escolher-medidas-comfort-up.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9eb478f24707acafe3d61c64aee33d4035f9ba861ff062def37e071dd04d5cc5/sutia-toda-up-qual-escolher-medidas-comfort-up.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-30T19:41:30.139Z",
+      "verification_etag_or_digest": "9eb478f24707acafe3d61c64aee33d4035f9ba861ff062def37e071dd04d5cc5",
       "verification_status": "verified"
     },
     {
