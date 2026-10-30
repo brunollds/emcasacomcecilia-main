@@ -16,6 +16,7 @@
 - [ ] [[mesa-posta-dia-a-dia-barata]]: Mesa posta do dia a dia: o que comprar por peça e em que ordem (2 e 4 pessoas) (PT)
 - [ ] [[guardanapo-de-tecido-quantos-tamanho]]: Guardanapo de tecido: quantos por pessoa e qual tamanho (45x45 ou 40x40) (PT)
 - [ ] [[jogo-americano-tecido-tamanho-cor]]: Jogo americano de tecido: redondo ou retangular, tamanho e cor (Ø36,5 a 35x50) (PT)
+- [ ] [[brinde-skelt-30-outubro-cupom]]: URGENTE, no ar antes de 30/10: brinde da Skelt com o cupom (Trends Set acima de R$ 219, + Body Cream acima de R$ 249); banner só levando ao artigo; em 31/10 vira "promoção encerrada" (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
