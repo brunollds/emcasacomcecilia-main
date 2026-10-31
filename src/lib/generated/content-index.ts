@@ -102968,6 +102968,20 @@ export const reviewsData: unknown[] = [
           "layout": "tabs",
           "items": [
             {
+              "piece": "Undershirt Antissuor Leve",
+              "url": "https://creators.insiderstore.com.br/PAFRXWt",
+              "howTo": "Por baixo de camisa social clara, com gola V; só existe em bege.",
+              "occasion": "Dia de camisa social, para suor leve, segundo a marca.",
+              "pairsWith": [
+                {
+                  "label": "camisa social branca ou azul-clara"
+                },
+                {
+                  "label": "polo clara"
+                }
+              ]
+            },
+            {
               "piece": "Undershirt Antissuor Moderado",
               "url": "https://creators.insiderstore.com.br/CZ6mgXp",
               "howTo": "Por baixo da camisa social, com gola V ou U; a camada dupla fica nas axilas, segundo a marca.",
@@ -136457,8 +136471,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-28",
     "draft": false,
     "isNew": true,
-    "description": "A seleção da Cecília na Mega Promoção 11.11 da SHEIN, que vai até 12/11/2026: 19 peças em 5 grupos (pijamas, infantil, feminino, acessórios e masculino), cada uma com o preço do dia, o riscado e o desconto da ficha, os tamanhos, a nota e o botão que leva direto à peça na campanha. Preços lidos em 28/10/2026.",
-    "metaDescription": "SHEIN 11.11 até 12/11/2026: 19 peças escolhidas pela Cecília, de pijama a camisa masculina, com preço, desconto e tamanhos lidos na ficha em 28/10.",
+    "description": "A seleção da Cecília na Mega Promoção 11.11 da SHEIN, que vai até 12/11/2026: 19 peças em 5 grupos (pijamas, infantil, feminino, acessórios e masculino), cada uma com o preço do dia, o riscado e o desconto, os tamanhos, a nota e o botão que leva direto à peça na campanha. Preços lidos em 28/10/2026.",
+    "metaDescription": "SHEIN 11.11 até 12/11/2026: 19 peças escolhidas pela Cecília, de pijama a camisa masculina, com preço, desconto e tamanhos de cada peça.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Colagem com peças da seleção 11.11 da SHEIN: pijama floral, conjunto infantil, cardigã, scarpin e camisa masculina, com a logo da SHEIN",
     "imageFit": "contain",
@@ -136466,14 +136480,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Os botões desta seleção levam às peças da Mega Promoção 11.11 da SHEIN, que vai até 12/11/2026. Confira o preço e a tabela de tamanhos na ficha antes de fechar o pedido.",
+      "text": "Os botões desta seleção levam às peças da Mega Promoção 11.11 da SHEIN, que vai até 12/11/2026. Confira o preço e a tabela de tamanhos na página da peça antes de fechar o pedido.",
       "label": "Ver a seleção na SHEIN",
       "url": "https://onelink.shein.com/58/66i60wu7xjjd",
       "sponsored": true
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Seleção da Cecília, com preços lidos na SHEIN em 28/10/2026. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y.",
+    "editorialNote": "Seleção da Cecília, com preços lidos na SHEIN no dia da publicação. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y.",
     "relatedArticles": [
       {
         "slug": "codigo-de-indicacao-shein",
@@ -136492,14 +136506,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Mega Promoção 11.11 da SHEIN vai até 12/11/2026, com até 85% off, segundo a loja. A Cecília escolheu 19 peças em 5 grupos: pijamas, infantil, feminino, acessórios e masculino. Os preços, os descontos e os tamanhos de cada uma foram lidos na ficha da SHEIN em 28/10/2026 e podem mudar."
+          "A Mega Promoção 11.11 da SHEIN vai até 12/11/2026, com até 85% off, segundo a loja. A Cecília escolheu 19 peças em 5 grupos: pijamas, infantil, feminino, acessórios e masculino. Os preços, os descontos e os tamanhos de cada uma vêm da página da peça e podem mudar."
         ]
       },
       {
         "heading": "A campanha 11.11",
         "paragraphs": [
           "A Mega Promoção 11.11 da SHEIN já começou e termina em 12/11/2026. Segundo a SHEIN, são até 85% off em mais de 600 mil produtos, e a loja puxa a campanha para o aplicativo.",
-          "A página de entrada é a de [Seleções de Vendas Globais da 11.11](https://onelink.shein.com/58/66i60wu7xjjd). As 19 peças abaixo têm botão próprio, que abre a ficha de cada uma dentro da campanha.",
+          "A página de entrada é a de [Seleções de Vendas Globais da 11.11](https://onelink.shein.com/58/66i60wu7xjjd). As 19 peças abaixo têm botão próprio, que abre a página de cada uma dentro da campanha.",
           "O 4CW5Y é o código de indicação da SHEIN Brasil: ele se procura na busca do aplicativo e não se cola no checkout, porque não é cupom. O passo a passo está em [Código de indicação SHEIN: como usar o 4CW5Y](/reviews/codigo-de-indicacao-shein)."
         ]
       },
@@ -136508,8 +136522,8 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Peça",
-            "Preço em 28/10",
-            "Desconto na ficha"
+            "Preço",
+            "Desconto"
           ],
           "rows": [
             [
@@ -136610,28 +136624,28 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "Preço e desconto são os da ficha da SHEIN em 28/10/2026. \"A partir de\" quer dizer que o preço muda por cor ou tamanho."
+          "Preços de 28/10/2026, na página de cada peça. \"A partir de\" quer dizer que o preço muda por cor ou tamanho."
         ]
       },
       {
         "heading": "Pijamas",
         "paragraphs": [
-          "Três pijamas femininos de verão, todos com short. Os três estavam com nota acima de 4,8 e mais de mil comentários na ficha em 28/10/2026."
+          "Três pijamas femininos de verão, todos com short. Os três têm nota acima de 4,8 e mais de mil comentários na loja."
         ]
       },
       {
         "heading": "Pijama floral Serenescape",
         "bullets": [
-          "Preço em 28/10: R$ 51,99 (de R$ 64,99, -20%).",
-          "Tamanhos na ficha: PP a EG.",
-          "Nota 4,91 na ficha, com mais de mil comentários."
+          "Preço: R$ 51,99 (de R$ 64,99, -20%).",
+          "Tamanhos: PP a EG.",
+          "Nota 4,91 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um conjunto de pijama floral com bolso e debrum contrastante, da linha Serenescape. Serve para quem quer um pijama de verão leve, de blusa e short."
+          "Segundo a loja, é um conjunto de pijama floral com bolso e debrum contrastante, da linha Serenescape. Serve para quem quer um pijama de verão leve, de blusa e short."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-          "alt": "Pijama floral Serenescape com debrum contrastante, foto da ficha da SHEIN",
+          "alt": "Pijama floral Serenescape com debrum contrastante, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
@@ -136658,16 +136672,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama regata e short listrado com corações",
         "bullets": [
-          "Preço em 28/10: a partir de R$ 43,95.",
-          "Tamanhos na ficha: XPP a EG.",
-          "Nota 4,86 na ficha, com mais de mil comentários."
+          "Preço: a partir de R$ 43,95.",
+          "Tamanhos: XPP a EG.",
+          "Nota 4,86 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um pijama feminino de regata e short, listrado e com estampa de corações, da marca própria da SHEIN. O preço muda por cor ou tamanho, e a ficha não mostrava riscado em 28/10."
+          "Pela descrição da SHEIN, é um pijama feminino de regata e short, listrado e com estampa de corações, da marca própria da SHEIN. O preço muda por cor ou tamanho, e a página não mostrava preço riscado."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-          "alt": "Pijama de regata e short listrado com corações, foto da ficha da SHEIN",
+          "alt": "Pijama de regata e short listrado com corações, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
@@ -136699,16 +136713,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de 3 peças com estampa de cartoon",
         "bullets": [
-          "Preço em 28/10: R$ 34,36 (de R$ 42,95, -20%).",
-          "Tamanhos na ficha: PP a EG.",
-          "Nota 4,95 na ficha, com mais de mil comentários, a maior da seleção."
+          "Preço: R$ 34,36 (de R$ 42,95, -20%).",
+          "Tamanhos: PP a EG.",
+          "Nota 4,95 na loja, com mais de mil comentários, a maior da seleção."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um conjunto Dream Adore de 3 peças com estampa de cartoon e short com laço na cintura. É o menor preço entre os pijamas da seleção."
+          "Na página da SHEIN, é um conjunto Dream Adore de 3 peças com estampa de cartoon e short com laço na cintura. É o menor preço entre os pijamas da seleção."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-          "alt": "Pijama de 3 peças com estampa de cartoon e short com laço, foto da ficha da SHEIN",
+          "alt": "Pijama de 3 peças com estampa de cartoon e short com laço, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
@@ -136735,22 +136749,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Infantil",
         "paragraphs": [
-          "Quatro peças para crianças, de 6 meses a 7 anos: um conjunto de menina, dois pijamas de menino e uma blusa de bebê. Os tamanhos abaixo são os que a ficha lista por idade."
+          "Quatro peças para crianças, de 6 meses a 7 anos: um conjunto de menina, dois pijamas de menino e uma blusa de bebê. Os tamanhos abaixo são os que a loja lista por idade."
         ]
       },
       {
         "heading": "Conjunto de menina com regata de coração e pantalona",
         "bullets": [
-          "Preço em 28/10: a partir de R$ 48,76 (de R$ 60,95, -20%).",
-          "Tamanhos na ficha: 4 a 7 anos; a ficha também lista 8 a 12 anos.",
-          "Nota 4,88 na ficha, com mais de mil comentários."
+          "Preço: a partir de R$ 48,76 (de R$ 60,95, -20%).",
+          "Tamanhos: 4 a 7 anos; a loja também tem 8 a 12 anos.",
+          "Nota 4,88 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um conjunto de menina com regata estampada de coração e calça pantalona, da marca própria da SHEIN. Serve para quem quer um look completo de verão para a menina de 4 a 7 anos."
+          "Segundo a loja, é um conjunto de menina com regata estampada de coração e calça pantalona, da marca própria da SHEIN. Serve para quem quer um look completo de verão para a menina de 4 a 7 anos."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-          "alt": "Conjunto infantil de regata com coração e calça pantalona, foto da ficha da SHEIN",
+          "alt": "Conjunto infantil de regata com coração e calça pantalona, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
@@ -136785,16 +136799,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de menino com dinossauro que brilha no escuro",
         "bullets": [
-          "Preço em 28/10: a partir de R$ 67,10 (de R$ 69,90, -4%).",
-          "Tamanhos na ficha: 4 a 7 anos.",
-          "Nota 4,36 na ficha, com 83 comentários."
+          "Preço: a partir de R$ 67,10 (de R$ 69,90, -4%).",
+          "Tamanhos: 4 a 7 anos.",
+          "Nota 4,36 na loja, com 83 comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um pijama de menino de 2 peças, com dinossauro de Natal que brilha no escuro e ajuste elástico. Serve para quem já quer o pijama das festas de fim de ano para o menino de 4 a 7 anos."
+          "Pela descrição da SHEIN, é um pijama de menino de 2 peças, com dinossauro de Natal que brilha no escuro e ajuste elástico. Serve para quem já quer o pijama das festas de fim de ano para o menino de 4 a 7 anos."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-          "alt": "Pijama infantil de 2 peças com dinossauro de Natal que brilha no escuro, foto da ficha da SHEIN",
+          "alt": "Pijama infantil de 2 peças com dinossauro de Natal que brilha no escuro, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
@@ -136821,16 +136835,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Blusa de bebê com bichos desenhados a giz",
         "bullets": [
-          "Preço em 28/10: a partir de R$ 29,52 (de R$ 36,90, -20%).",
-          "Tamanhos na ficha: 6 meses a 3 anos.",
-          "Nota 4,12 na ficha, com mais de mil comentários."
+          "Preço: a partir de R$ 29,52 (de R$ 36,90, -20%).",
+          "Tamanhos: 6 meses a 3 anos.",
+          "Nota 4,12 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é uma blusa de bebê menino com bichos desenhados a giz, como tigre, urso e bicho-preguiça. É a peça infantil mais barata da seleção, para bebês de 6 meses a 3 anos."
+          "Na página da SHEIN, é uma blusa de bebê menino com bichos desenhados a giz, como tigre, urso e bicho-preguiça. É a peça infantil mais barata da seleção, para bebês de 6 meses a 3 anos."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-          "alt": "Blusa de bebê com bichos desenhados a giz, foto da ficha da SHEIN",
+          "alt": "Blusa de bebê com bichos desenhados a giz, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
@@ -136865,16 +136879,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de menino de manga longa, estampa sortida",
         "bullets": [
-          "Preço em 28/10: R$ 45,52 (de R$ 56,90, -20%).",
-          "Tamanhos na ficha: 9 meses a 7 anos.",
-          "Nota 4,09 na ficha, com 62 comentários."
+          "Preço: R$ 45,52 (de R$ 56,90, -20%).",
+          "Tamanhos: 9 meses a 7 anos.",
+          "Nota 4,09 na loja, com 62 comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um pijama de menino de manga longa e calça comprida, com estampa inteira. A ficha vende 1 conjunto, e a estampa (dinossauro, escavadeira ou avião) é escolhida pela loja, não por quem compra."
+          "Segundo a loja, é um pijama de menino de manga longa e calça comprida, com estampa inteira. O anúncio vende 1 conjunto, e a estampa (dinossauro, escavadeira ou avião) é escolhida pela loja, não por quem compra."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-          "alt": "Pijama infantil de manga longa com estampa de dinossauro, escavadeira ou avião, foto da ficha da SHEIN",
+          "alt": "Pijama infantil de manga longa com estampa de dinossauro, escavadeira ou avião, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
@@ -136907,16 +136921,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Conjunto listrado azul de regata e pantalona",
         "bullets": [
-          "Preço em 28/10: a partir de R$ 93,56 (de R$ 116,95, -20%).",
-          "Tamanhos na ficha: XPP a EG.",
-          "Nota 4,70 na ficha, com mais de mil comentários."
+          "Preço: a partir de R$ 93,56 (de R$ 116,95, -20%).",
+          "Tamanhos: XPP a EG.",
+          "Nota 4,70 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um conjunto SHEIN Franclia de regata e calça pantalona, listrado em azul, que a loja descreve para o dia a dia, o trabalho e as férias. Serve para quem quer o look pronto num conjunto só."
+          "É um conjunto SHEIN Franclia de regata e calça pantalona, listrado em azul, que a loja descreve para o dia a dia, o trabalho e as férias. Serve para quem quer o look pronto num conjunto só."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-          "alt": "Conjunto listrado azul de regata e calça pantalona, foto da ficha da SHEIN",
+          "alt": "Conjunto listrado azul de regata e calça pantalona, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
@@ -136955,16 +136969,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cardigã esportivo slim DAZY",
         "bullets": [
-          "Preço em 28/10: R$ 45,49 (de R$ 65,99, -31%).",
-          "Tamanhos na ficha: XPP a P e Petite.",
-          "Nota 4,78 na ficha, com mais de mil comentários."
+          "Preço: R$ 45,49 (de R$ 65,99, -31%).",
+          "Tamanhos: XPP a P e Petite.",
+          "Nota 4,78 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um cardigã esportivo de manga longa e corte slim, da DAZY, que a loja descreve como uma jaqueta fina de meia-estação. Serve para quem procura uma terceira peça leve para o ar-condicionado ou o fim de tarde."
+          "É um cardigã esportivo de manga longa e corte slim, da DAZY, que a loja descreve como uma jaqueta fina de meia-estação. Serve para quem procura uma terceira peça leve para o ar-condicionado ou o fim de tarde."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-          "alt": "Cardigã esportivo slim de manga longa, foto da ficha da SHEIN",
+          "alt": "Cardigã esportivo slim de manga longa, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
@@ -137003,16 +137017,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Short estampado clochard",
         "bullets": [
-          "Preço em 28/10: R$ 16,45 (de R$ 46,99, -65%).",
-          "Tamanhos na ficha: XPP a EG, e a ficha também lista Plus.",
-          "Nota 4,88 na ficha, com mais de mil comentários."
+          "Preço: R$ 16,45 (de R$ 46,99, -65%).",
+          "Tamanhos: XPP a EG, e também Plus.",
+          "Nota 4,88 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um short estampado de cintura clochard, da linha SHEIN Frenchy, que a loja descreve no estilo \"old money\" para o verão e as férias. É a roupa mais barata da seleção e a de maior desconto na ficha."
+          "É um short estampado de cintura clochard, da linha SHEIN Frenchy, que a loja descreve no estilo \"old money\" para o verão e as férias. É a roupa mais barata da seleção e a de maior desconto."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-          "alt": "Short feminino estampado com cintura clochard, foto da ficha da SHEIN",
+          "alt": "Short feminino estampado com cintura clochard, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
@@ -137047,16 +137061,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calça jeans pantalona com cintura elástica",
         "bullets": [
-          "Preço em 28/10: R$ 131,96 (de R$ 164,95, -20%), com frete grátis na ficha.",
-          "Tamanhos na ficha: PP a G.",
-          "Nota 4,31 na ficha, com 48 comentários."
+          "Preço: R$ 131,96 (de R$ 164,95, -20%), com frete grátis.",
+          "Tamanhos: PP a G.",
+          "Nota 4,31 na loja, com 48 comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é uma calça jeans pantalona Flexra, de cintura elástica, que a loja descreve como confortável e de perna larga. É a peça mais cara da seleção, e a ficha mostrava frete grátis em 28/10/2026."
+          "É uma calça jeans pantalona Flexra, de cintura elástica, que a loja descreve como confortável e de perna larga. É a peça mais cara da seleção, e a página mostrava frete grátis."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-          "alt": "Calça jeans pantalona com cintura elástica, foto da ficha da SHEIN",
+          "alt": "Calça jeans pantalona com cintura elástica, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
@@ -137095,22 +137109,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Acessórios",
         "paragraphs": [
-          "Um scarpin, um par de brincos, um kit de relógio e bijuterias e um óculos de sol. Três dos quatro tinham mais de mil comentários na ficha em 28/10/2026."
+          "Um scarpin, um par de brincos, um kit de relógio e bijuterias e um óculos de sol. Três dos quatro têm mais de mil comentários na loja."
         ]
       },
       {
         "heading": "Scarpin slingback branco e caramelo",
         "bullets": [
-          "Preço em 28/10: R$ 62,03 (de R$ 99,70, -38%).",
-          "Tamanhos na ficha: BR34 a BR39.",
-          "Nota 4,82 na ficha, com mais de 100 comentários."
+          "Preço: R$ 62,03 (de R$ 99,70, -38%).",
+          "Tamanhos: BR34 a BR39.",
+          "Nota 4,82 na loja, com mais de 100 comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um scarpin slingback em branco e caramelo, de salto bloco, que a loja descreve como elegante e moderno. Serve para quem quer um sapato de trabalho ou de festa com salto mais firme."
+          "É um scarpin slingback em branco e caramelo, de salto bloco, que a loja descreve como elegante e moderno. Serve para quem quer um sapato de trabalho ou de festa com salto mais firme."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-          "alt": "Scarpin slingback branco e caramelo com salto bloco, foto da ficha da SHEIN",
+          "alt": "Scarpin slingback branco e caramelo com salto bloco, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
@@ -137146,16 +137160,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brincos de laço com pérola e coração",
         "bullets": [
-          "Preço em 28/10: R$ 11,12 (de R$ 13,90, -20%).",
+          "Preço: R$ 11,12 (de R$ 13,90, -20%).",
           "Tamanho: único.",
-          "Nota 4,92 na ficha, com mais de mil comentários."
+          "Nota 4,92 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um par de brincos de laço com pérola e coração, que a loja indica para festas. É o item mais barato da seleção e serve de mimo ou de presente pequeno."
+          "É um par de brincos de laço com pérola e coração, que a loja indica para festas. É o item mais barato da seleção e serve de mimo ou de presente pequeno."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-          "alt": "Par de brincos de laço com pérola e coração, foto da ficha da SHEIN",
+          "alt": "Par de brincos de laço com pérola e coração, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
@@ -137182,16 +137196,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit de relógio verde com pulseira, colar e brincos",
         "bullets": [
-          "Preço em 28/10: R$ 27,19 (de R$ 33,99, -20%).",
+          "Preço: R$ 27,19 (de R$ 33,99, -20%).",
           "Tamanho: único.",
-          "Nota 4,75 na ficha, com mais de mil comentários."
+          "Nota 4,75 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um kit de 9 peças com relógio verde, pulseira, colar e brincos, que a loja indica para o uso diário ou como presente. Serve para quem quer montar um conjunto de uma vez por menos de R$ 30."
+          "É um kit de 9 peças com relógio verde, pulseira, colar e brincos, que a loja indica para o uso diário ou como presente. Serve para quem quer montar um conjunto de uma vez por menos de R$ 30."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-          "alt": "Kit de 9 peças com relógio verde, pulseira, colar e brincos, foto da ficha da SHEIN",
+          "alt": "Kit de 9 peças com relógio verde, pulseira, colar e brincos, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
@@ -137218,16 +137232,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Óculos de lente degradê poligonal",
         "bullets": [
-          "Preço em 28/10: R$ 59,51 (de R$ 61,99, -4%).",
-          "Tamanhos: a ficha não lista tamanhos; escolhe-se só a cor.",
-          "Nota 4,88 na ficha, com mais de mil comentários."
+          "Preço: R$ 59,51 (de R$ 61,99, -4%).",
+          "Tamanhos: não há; escolhe-se só a cor.",
+          "Nota 4,88 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um óculos LINFEMAND de armação poligonal e lente degradê, em 6 cores, que a loja indica para dirigir, praia e viagem. O desconto na ficha é pequeno, de 4%."
+          "É um óculos LINFEMAND de armação poligonal e lente degradê, em 6 cores, que a loja indica para dirigir, praia e viagem. O desconto é pequeno, de 4%."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-          "alt": "Óculos de armação poligonal com lente degradê, foto da ficha da SHEIN",
+          "alt": "Óculos de armação poligonal com lente degradê, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
@@ -137254,22 +137268,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Masculino",
         "paragraphs": [
-          "Quatro peças masculinas: uma camiseta Henley, um kit de short, uma camisa de manga longa e uma regata. Duas vão além do EG na ficha: a Henley até EEGG e a regata com Plus."
+          "Quatro peças masculinas: uma camiseta Henley, um kit de short, uma camisa de manga longa e uma regata. Duas vão além do EG: a Henley até EEGG e a regata com Plus."
         ]
       },
       {
         "heading": "Camiseta Henley azul-marinho com textura de linho",
         "bullets": [
-          "Preço em 28/10: a partir de R$ 49,52 (de R$ 61,90, -20%).",
-          "Tamanhos na ficha: PP a EEGG.",
-          "Nota 4,61 na ficha, com mais de 500 comentários."
+          "Preço: a partir de R$ 49,52 (de R$ 61,90, -20%).",
+          "Tamanhos: PP a EEGG.",
+          "Nota 4,61 na loja, com mais de 500 comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é uma camiseta Henley de manga curta, azul-marinho, com textura que imita linho, que a loja descreve como casual e de caimento relaxado. Serve para quem quer uma camiseta um pouco mais arrumada que a básica."
+          "É uma camiseta Henley de manga curta, azul-marinho, com textura que imita linho, que a loja descreve como casual e de caimento relaxado. Serve para quem quer uma camiseta um pouco mais arrumada que a básica."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-          "alt": "Camiseta Henley masculina azul-marinho com textura de linho, foto da ficha da SHEIN",
+          "alt": "Camiseta Henley masculina azul-marinho com textura de linho, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
@@ -137308,16 +137322,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit de short de linho",
         "bullets": [
-          "Preço em 28/10: R$ 47,32 (de R$ 99,90, -53%).",
-          "Tamanhos na ficha: P a GG.",
-          "Nota 4,76 na ficha, com 34 comentários."
+          "Preço: R$ 47,32 (de R$ 99,90, -53%).",
+          "Tamanhos: P a GG.",
+          "Nota 4,76 na loja, com 34 comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é um kit de short de linho em cores variadas, com envio nacional, que a loja descreve como casual e moderno. A ficha não diz quantas peças vêm no kit: confira antes de comprar."
+          "É um kit de short de linho em cores variadas, com envio nacional, que a loja descreve como casual e moderno. A página não diz quantas peças vêm no kit: confira antes de comprar."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-          "alt": "Kit de short masculino de linho em cores variadas, foto da ficha da SHEIN",
+          "alt": "Kit de short masculino de linho em cores variadas, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 1,
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
@@ -137356,16 +137370,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisa masculina de manga longa Manfinity Mode",
         "bullets": [
-          "Preço em 28/10: a partir de R$ 71,16 (de R$ 88,95, -20%).",
-          "Tamanhos na ficha: PP a EG.",
-          "Nota 4,86 na ficha, com mais de mil comentários."
+          "Preço: a partir de R$ 71,16 (de R$ 88,95, -20%).",
+          "Tamanhos: PP a EG.",
+          "Nota 4,86 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é uma camisa de manga longa da Manfinity Mode, que a loja descreve como versátil, para o dia a dia e para ocasiões formais. Serve para quem precisa de uma camisa mais arrumada para o trabalho."
+          "É uma camisa de manga longa da Manfinity Mode, que a loja descreve como versátil, para o dia a dia e para ocasiões formais. Serve para quem precisa de uma camisa mais arrumada para o trabalho."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-          "alt": "Camisa masculina de manga longa Manfinity Mode, foto da ficha da SHEIN",
+          "alt": "Camisa masculina de manga longa Manfinity Mode, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
@@ -137403,16 +137417,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Regata preta estonada de caimento solto",
         "bullets": [
-          "Preço em 28/10: R$ 67,99 (de R$ 84,99, -20%).",
-          "Tamanhos na ficha: P a EG, e a ficha também lista Plus.",
-          "Nota 4,73 na ficha, com mais de 500 comentários."
+          "Preço: R$ 67,99 (de R$ 84,99, -20%).",
+          "Tamanhos: P a EG, e também Plus.",
+          "Nota 4,73 na loja, com mais de 500 comentários."
         ],
         "paragraphs": [
-          "Segundo a ficha, é uma regata preta estonada de caimento solto, que a loja descreve como streetwear de verão. Serve para quem quer uma regata de rua, e não de treino."
+          "É uma regata preta estonada de caimento solto, que a loja descreve como streetwear de verão. Serve para quem quer uma regata de rua, e não de treino."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-          "alt": "Regata masculina preta estonada de caimento solto, foto da ficha da SHEIN",
+          "alt": "Regata masculina preta estonada de caimento solto, foto da página da SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
@@ -137450,8 +137464,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de comprar",
         "bullets": [
-          "**Preço muda todo dia:** o preço e o desconto de cada peça são os da ficha da SHEIN em 28/10/2026. A SHEIN muda os preços durante a campanha, e \"a partir de\" quer dizer que o preço muda por cor ou tamanho.",
-          "**Tamanho:** confira a tabela de medidas da própria ficha antes de escolher, porque a grade muda de peça para peça.",
+          "**Preço muda todo dia:** o preço e o desconto de cada peça são os do dia da leitura. A SHEIN muda os preços durante a campanha, e \"a partir de\" quer dizer que o preço muda por cor ou tamanho.",
+          "**Tamanho:** confira a tabela de medidas da página da peça antes de escolher, porque a grade muda de peça para peça.",
           "**O 4CW5Y é código de indicação, não cupom:** ele se pesquisa na busca do aplicativo e não se cola no checkout. Veja o [código de indicação SHEIN](/reviews/codigo-de-indicacao-shein) e a [página da SHEIN](/cupons/shein), com o link principal da loja.",
           "**Vai esperar a Black Friday?** O guia da [Black Friday SHEIN](/reviews/black-friday-shein) traz o que já se sabe da campanha de novembro.",
           "**Primeira compra na SHEIN?** Leia antes o guia [SHEIN é confiável?](/reviews/shein-e-confiavel)."
@@ -137461,15 +137475,15 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Até quando vai a 11.11 da SHEIN? A Mega Promoção 11.11 termina em 12/11/2026, segundo a SHEIN.",
-          "O preço das peças pode mudar? Sim. Os preços e os descontos deste guia são os da ficha em 28/10/2026, e a SHEIN muda o preço durante a campanha e por cor ou tamanho.",
+          "O preço das peças pode mudar? Sim. Os preços e os descontos deste guia são os do dia da leitura, e a SHEIN muda o preço durante a campanha e por cor ou tamanho.",
           "O 4CW5Y é cupom? Não. É o código de indicação da SHEIN Brasil: pesquisa-se na busca do aplicativo e ele não se cola no checkout.",
-          "Os links levam direto à peça? Sim. Cada botão abre a ficha daquela peça dentro da campanha 11.11, e o link da campanha abre a página de Seleções de Vendas Globais."
+          "Os links levam direto à peça? Sim. Cada botão abre a página daquela peça dentro da campanha 11.11, e o link da campanha abre a página de Seleções de Vendas Globais."
         ]
       },
       {
         "heading": "Nota de transparência",
         "paragraphs": [
-          "As 19 peças foram escolhidas pela Cecília. Ninguém do site usou as peças: o texto descreve o que a ficha da SHEIN mostra. Preços, descontos, tamanhos e notas foram lidos na ficha em 28/10/2026 e podem mudar. Podemos receber comissão pelos links desta página e pelo código de indicação 4CW5Y."
+          "As 19 peças foram escolhidas pela Cecília. Ninguém do site usou as peças: o texto descreve o que a página de cada peça mostra. Preços, descontos, tamanhos e notas foram lidos no dia da publicação e podem mudar. Podemos receber comissão pelos links desta página e pelo código de indicação 4CW5Y."
         ]
       }
     ]
