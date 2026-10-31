@@ -136471,7 +136471,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-28",
     "draft": false,
     "isNew": true,
-    "description": "A seleção da Cecília na Mega Promoção 11.11 da SHEIN, que vai até 12/11/2026: 19 peças em 5 grupos (pijamas, infantil, feminino, acessórios e masculino), cada uma com o preço do dia, o riscado e o desconto, os tamanhos, a nota e o botão que leva direto à peça na campanha. Preços lidos em 28/10/2026.",
+    "description": "A seleção da Cecília na Mega Promoção 11.11 da SHEIN, que vai até 12/11/2026: 19 peças em 5 grupos (pijamas, infantil, feminino, acessórios e masculino), cada uma com o preço do dia, o riscado e o desconto, os tamanhos, a nota e o link direto para a peça na campanha. Preços lidos em 28/10/2026.",
     "metaDescription": "SHEIN 11.11 até 12/11/2026: 19 peças escolhidas pela Cecília, de pijama a camisa masculina, com preço, desconto e tamanhos de cada peça.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Colagem com peças da seleção 11.11 da SHEIN: pijama floral, conjunto infantil, cardigã, scarpin e camisa masculina, com a logo da SHEIN",
@@ -136480,7 +136480,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Os botões desta seleção levam às peças da Mega Promoção 11.11 da SHEIN, que vai até 12/11/2026. Confira o preço e a tabela de tamanhos na página da peça antes de fechar o pedido.",
+      "text": "Os links desta seleção levam às peças da Mega Promoção 11.11 da SHEIN, que vai até 12/11/2026. Confira o preço e a tabela de tamanhos na página da peça antes de fechar o pedido.",
       "label": "Ver a seleção na SHEIN",
       "url": "https://onelink.shein.com/58/66i60wu7xjjd",
       "sponsored": true
@@ -136513,7 +136513,7 @@ export const reviewsData: unknown[] = [
         "heading": "A campanha 11.11",
         "paragraphs": [
           "A Mega Promoção 11.11 da SHEIN já começou e termina em 12/11/2026. Segundo a SHEIN, são até 85% off em mais de 600 mil produtos, e a loja puxa a campanha para o aplicativo.",
-          "A página de entrada é a de [Seleções de Vendas Globais da 11.11](https://onelink.shein.com/58/66i60wu7xjjd). As 19 peças abaixo têm botão próprio, que abre a página de cada uma dentro da campanha.",
+          "A página de entrada é a de [Seleções de Vendas Globais da 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Nas 19 peças abaixo, a foto e o card abrem a página de cada uma dentro da campanha.",
           "O 4CW5Y é o código de indicação da SHEIN Brasil: ele se procura na busca do aplicativo e não se cola no checkout, porque não é cupom. O passo a passo está em [Código de indicação SHEIN: como usar o 4CW5Y](/reviews/codigo-de-indicacao-shein)."
         ]
       },
@@ -136650,13 +136650,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver o pijama floral na SHEIN",
-            "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -136686,13 +136679,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver o pijama listrado na SHEIN",
-            "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -136727,13 +136713,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver o pijama de 3 peças na SHEIN",
-            "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -136769,13 +136748,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver o conjunto de menina na SHEIN",
-            "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -136813,13 +136785,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver o pijama de dinossauro na SHEIN",
-            "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -136849,13 +136814,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver a blusa de bebê na SHEIN",
-            "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -136893,13 +136851,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver o pijama de manga longa na SHEIN",
-            "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -136935,13 +136886,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver o conjunto listrado na SHEIN",
-            "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -136983,13 +136927,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver o cardigã na SHEIN",
-            "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137031,13 +136968,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver o short estampado na SHEIN",
-            "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137075,13 +137005,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver a calça jeans na SHEIN",
-            "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137129,13 +137052,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver o scarpin na SHEIN",
-            "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137174,13 +137090,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver os brincos na SHEIN",
-            "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137210,13 +137119,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver o kit de relógio na SHEIN",
-            "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137246,13 +137148,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver os óculos na SHEIN",
-            "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137288,13 +137183,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver a camiseta Henley na SHEIN",
-            "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137336,13 +137224,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1,
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver o kit de short na SHEIN",
-            "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137384,13 +137265,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver a camisa de manga longa na SHEIN",
-            "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137431,13 +137305,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver a regata na SHEIN",
-            "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137477,7 +137344,7 @@ export const reviewsData: unknown[] = [
           "Até quando vai a 11.11 da SHEIN? A Mega Promoção 11.11 termina em 12/11/2026, segundo a SHEIN.",
           "O preço das peças pode mudar? Sim. Os preços e os descontos deste guia são os do dia da leitura, e a SHEIN muda o preço durante a campanha e por cor ou tamanho.",
           "O 4CW5Y é cupom? Não. É o código de indicação da SHEIN Brasil: pesquisa-se na busca do aplicativo e ele não se cola no checkout.",
-          "Os links levam direto à peça? Sim. Cada botão abre a página daquela peça dentro da campanha 11.11, e o link da campanha abre a página de Seleções de Vendas Globais."
+          "Os links levam direto à peça? Sim. A foto e o card de cada peça abrem a página dela dentro da campanha 11.11, e o link da campanha abre a página de Seleções de Vendas Globais."
         ]
       },
       {
@@ -137510,7 +137377,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília's picks from SHEIN's 11.11 Mega Sale, which runs until November 12, 2026: 19 pieces in 5 groups (pajamas, kids, women, accessories and men), each with the day's price, the crossed-out price and the discount shown on the product page, the sizes, the rating and a button that opens the piece inside the campaign. Prices read on October 28, 2026.",
+    "description": "Cecília's picks from SHEIN's 11.11 Mega Sale, which runs until November 12, 2026: 19 pieces in 5 groups (pajamas, kids, women, accessories and men), each with the day's price, the crossed-out price and the discount shown on the product page, the sizes, the rating and a direct link to the piece inside the campaign. Prices read on October 28, 2026.",
     "metaDescription": "SHEIN 11.11 runs until November 12, 2026: 19 pieces picked by Cecília, from pajamas to men's shirts, with price, discount and sizes read on the product page on October 28.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage of pieces from SHEIN's 11.11 selection: floral pajama set, kids' outfit, cardigan, slingback pumps and a men's shirt, with the SHEIN logo",
@@ -137519,7 +137386,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "The buttons in this selection open the pieces of SHEIN's 11.11 Mega Sale, which runs until November 12, 2026. Check the price and the size chart on the product page before placing your order.",
+      "text": "The links in this selection open the pieces of SHEIN's 11.11 Mega Sale, which runs until November 12, 2026. Check the price and the size chart on the product page before placing your order.",
       "label": "See the picks on SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -137552,7 +137419,7 @@ export const reviewsData: unknown[] = [
         "heading": "The 11.11 campaign",
         "paragraphs": [
           "SHEIN's 11.11 Mega Sale has already started and ends on November 12, 2026. According to SHEIN, it offers up to 85% off on more than 600,000 products, and the store pushes the campaign to its app. The prices in this guide were converted from Brazilian reais at the exchange rate of October 28, 2026 and may differ when you open the page.",
-          "The entry page is the [11.11 Global Sales Picks](https://onelink.shein.com/58/66i60wu7xjjd) page. Each of the 19 pieces below has its own button, which opens that piece's product page inside the campaign.",
+          "The entry page is the [11.11 Global Sales Picks](https://onelink.shein.com/58/66i60wu7xjjd) page. For each of the 19 pieces below, the photo and the card open that piece's product page inside the campaign.",
           "4CW5Y is SHEIN Brazil's referral code: you search for it in the app's search bar and do not paste it at checkout, because it is not a coupon. It only works on SHEIN Brazil. The step-by-step is in [SHEIN referral code: where to enter it](/en/reviews/shein-referral-code-where-to-enter)."
         ]
       },
@@ -137689,13 +137556,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the floral pajama set on SHEIN",
-            "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137725,13 +137585,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the striped pajama set on SHEIN",
-            "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137766,13 +137619,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the 3-piece pajama set on SHEIN",
-            "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137808,13 +137654,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the girls' set on SHEIN",
-            "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137852,13 +137691,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the dinosaur pajama set on SHEIN",
-            "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137888,13 +137720,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the baby top on SHEIN",
-            "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137932,13 +137757,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the long-sleeve pajama set on SHEIN",
-            "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -137974,13 +137792,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the striped set on SHEIN",
-            "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138022,13 +137833,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the cardigan on SHEIN",
-            "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138070,13 +137874,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the printed shorts on SHEIN",
-            "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138114,13 +137911,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the jeans on SHEIN",
-            "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138168,13 +137958,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the slingback pumps on SHEIN",
-            "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138213,13 +137996,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the earrings on SHEIN",
-            "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138249,13 +138025,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the watch set on SHEIN",
-            "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138285,13 +138054,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the sunglasses on SHEIN",
-            "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138327,13 +138089,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the Henley tee on SHEIN",
-            "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138375,13 +138130,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1,
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the shorts set on SHEIN",
-            "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138423,13 +138171,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the long-sleeve shirt on SHEIN",
-            "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138470,13 +138211,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "See the tank top on SHEIN",
-            "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138516,7 +138250,7 @@ export const reviewsData: unknown[] = [
           "Until when does SHEIN's 11.11 run? The 11.11 Mega Sale ends on November 12, 2026, according to SHEIN.",
           "Can the price of the pieces change? Yes. The prices and discounts in this guide are the ones shown on the product page on October 28, 2026, and SHEIN changes prices during the campaign and by color or size.",
           "Is 4CW5Y a coupon? No. It is SHEIN Brazil's referral code: you search for it in the app's search bar, and it is not pasted at checkout.",
-          "Do the links go straight to the piece? Yes. Each button opens that piece's product page inside the 11.11 campaign, and the campaign link opens the Global Sales Picks page."
+          "Do the links go straight to the piece? Yes. Each piece's photo and card open its product page inside the 11.11 campaign, and the campaign link opens the Global Sales Picks page."
         ]
       },
       {
@@ -138549,7 +138283,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "La selección de Cecília en la Mega Promoción 11.11 de SHEIN, que dura hasta el 12/11/2026: 19 prendas en 5 grupos (pijamas, infantil, mujer, accesorios y hombre), cada una con el precio del día, el tachado y el descuento de la ficha, las tallas, la nota y el botón que lleva directo a la prenda dentro de la campaña. Precios leídos el 28/10/2026.",
+    "description": "La selección de Cecília en la Mega Promoción 11.11 de SHEIN, que dura hasta el 12/11/2026: 19 prendas en 5 grupos (pijamas, infantil, mujer, accesorios y hombre), cada una con el precio del día, el tachado y el descuento de la ficha, las tallas, la nota y el enlace directo a la prenda dentro de la campaña. Precios leídos el 28/10/2026.",
     "metaDescription": "SHEIN 11.11 hasta el 12/11/2026: 19 prendas elegidas por Cecília, de pijamas a camisas de hombre, con precio, descuento y tallas leídos en la ficha el 28/10.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage con prendas de la selección 11.11 de SHEIN: pijama floral, conjunto infantil, cárdigan, zapatos slingback y camisa de hombre, con el logo de SHEIN",
@@ -138558,7 +138292,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Los botones de esta selección llevan a las prendas de la Mega Promoción 11.11 de SHEIN, que dura hasta el 12/11/2026. Revisa el precio y la tabla de tallas en la ficha antes de cerrar el pedido.",
+      "text": "Los enlaces de esta selección llevan a las prendas de la Mega Promoción 11.11 de SHEIN, que dura hasta el 12/11/2026. Revisa el precio y la tabla de tallas en la ficha antes de cerrar el pedido.",
       "label": "Ver la selección en SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -138591,7 +138325,7 @@ export const reviewsData: unknown[] = [
         "heading": "La campaña 11.11",
         "paragraphs": [
           "La Mega Promoción 11.11 de SHEIN ya empezó y termina el 12/11/2026. Según SHEIN, hay hasta un 85 % de descuento en más de 600.000 productos, y la tienda lleva la campaña a la app. Los precios de esta guía se convirtieron desde el real brasileño con el cambio del 28/10/2026 y pueden ser distintos cuando abras la página.",
-          "La página de entrada es la de [Selecciones de Ventas Globales del 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Las 19 prendas de abajo tienen botón propio, que abre la ficha de cada una dentro de la campaña.",
+          "La página de entrada es la de [Selecciones de Ventas Globales del 11.11](https://onelink.shein.com/58/66i60wu7xjjd). En las 19 prendas de abajo, la foto y la tarjeta abren la ficha de cada una dentro de la campaña.",
           "El 4CW5Y es el código de referido de SHEIN Brasil: se busca en la barra de búsqueda de la app y no se pega en el checkout, porque no es cupón. Solo vale en SHEIN Brasil. El paso a paso está en [Código de referido de SHEIN: dónde ponerlo](/es/reviews/codigo-de-referido-shein-donde-ponerlo)."
         ]
       },
@@ -138728,13 +138462,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver el pijama floral en SHEIN",
-            "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138764,13 +138491,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver el pijama a rayas en SHEIN",
-            "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138805,13 +138525,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver el pijama de 3 piezas en SHEIN",
-            "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138847,13 +138560,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver el conjunto de niña en SHEIN",
-            "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138891,13 +138597,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver el pijama de dinosaurio en SHEIN",
-            "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138927,13 +138626,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver la camiseta de bebé en SHEIN",
-            "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -138971,13 +138663,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver el pijama de manga larga en SHEIN",
-            "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139013,13 +138698,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver el conjunto a rayas en SHEIN",
-            "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139061,13 +138739,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver el cárdigan en SHEIN",
-            "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139109,13 +138780,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver el short estampado en SHEIN",
-            "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139153,13 +138817,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver los vaqueros en SHEIN",
-            "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139207,13 +138864,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver los zapatos slingback en SHEIN",
-            "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139252,13 +138902,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver los pendientes en SHEIN",
-            "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139288,13 +138931,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver el kit de reloj en SHEIN",
-            "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139324,13 +138960,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver las gafas de sol en SHEIN",
-            "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139366,13 +138995,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver la camiseta Henley en SHEIN",
-            "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139414,13 +139036,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1,
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver el kit de shorts en SHEIN",
-            "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139462,13 +139077,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver la camisa de manga larga en SHEIN",
-            "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139509,13 +139117,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ver la camiseta de tirantes en SHEIN",
-            "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139555,7 +139156,7 @@ export const reviewsData: unknown[] = [
           "¿Hasta cuándo dura el 11.11 de SHEIN? La Mega Promoción 11.11 termina el 12/11/2026, según SHEIN.",
           "¿El precio de las prendas puede cambiar? Sí. Los precios y los descuentos de esta guía son los de la ficha el 28/10/2026, y SHEIN cambia el precio durante la campaña y según el color o la talla.",
           "¿El 4CW5Y es cupón? No. Es el código de referido de SHEIN Brasil: se busca en la barra de búsqueda de la app y no se pega en el checkout.",
-          "¿Los enlaces llevan directo a la prenda? Sí. Cada botón abre la ficha de esa prenda dentro de la campaña 11.11, y el enlace de la campaña abre la página de Selecciones de Ventas Globales."
+          "¿Los enlaces llevan directo a la prenda? Sí. La foto y la tarjeta de cada prenda abren su ficha dentro de la campaña 11.11, y el enlace de la campaña abre la página de Selecciones de Ventas Globales."
         ]
       },
       {
@@ -139588,7 +139189,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "La sélection de Cecília dans la Méga Promo 11.11 de SHEIN, qui dure jusqu'au 12/11/2026 : 19 pièces en 5 groupes (pyjamas, enfant, femme, accessoires et homme), chacune avec le prix du jour, le prix barré et la remise de la fiche, les tailles, la note et le bouton qui mène directement à la pièce dans la campagne. Prix relevés le 28/10/2026.",
+    "description": "La sélection de Cecília dans la Méga Promo 11.11 de SHEIN, qui dure jusqu'au 12/11/2026 : 19 pièces en 5 groupes (pyjamas, enfant, femme, accessoires et homme), chacune avec le prix du jour, le prix barré et la remise de la fiche, les tailles, la note et le lien direct vers la pièce dans la campagne. Prix relevés le 28/10/2026.",
     "metaDescription": "SHEIN 11.11 jusqu'au 12/11/2026 : 19 pièces choisies par Cecília, du pyjama à la chemise homme, avec prix, remise et tailles relevés sur la fiche le 28/10.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage de pièces de la sélection 11.11 de SHEIN : pyjama fleuri, ensemble enfant, cardigan, escarpins slingback et chemise homme, avec le logo SHEIN",
@@ -139597,7 +139198,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Les boutons de cette sélection mènent aux pièces de la Méga Promo 11.11 de SHEIN, qui dure jusqu'au 12/11/2026. Vérifiez le prix et le guide des tailles sur la fiche avant de valider la commande.",
+      "text": "Les liens de cette sélection mènent aux pièces de la Méga Promo 11.11 de SHEIN, qui dure jusqu'au 12/11/2026. Vérifiez le prix et le guide des tailles sur la fiche avant de valider la commande.",
       "label": "Voir la sélection sur SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -139630,7 +139231,7 @@ export const reviewsData: unknown[] = [
         "heading": "La campagne 11.11",
         "paragraphs": [
           "La Méga Promo 11.11 de SHEIN a déjà commencé et se termine le 12/11/2026. Selon SHEIN, elle offre jusqu'à 85 % de remise sur plus de 600 000 produits, et la boutique oriente la campagne vers l'appli. Les prix de ce guide ont été convertis depuis le réal brésilien au taux de change du 28/10/2026 et peuvent être différents au moment où vous ouvrez la page.",
-          "La page d'entrée est celle des [Sélections des Ventes Mondiales du 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Les 19 pièces ci-dessous ont chacune leur bouton, qui ouvre la fiche de la pièce dans la campagne.",
+          "La page d'entrée est celle des [Sélections des Ventes Mondiales du 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Pour les 19 pièces ci-dessous, la photo et la carte ouvrent la fiche de chaque pièce dans la campagne.",
           "Le 4CW5Y est le code de parrainage de SHEIN Brésil : on le recherche dans la barre de recherche de l'appli et on ne le colle pas au paiement, parce que ce n'est pas un coupon. Il ne vaut que sur SHEIN Brésil. Le pas à pas est dans [Code de parrainage SHEIN : où le mettre](/fr/reviews/code-de-parrainage-shein-ou-le-mettre)."
         ]
       },
@@ -139767,13 +139368,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le pyjama fleuri sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139803,13 +139397,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le pyjama rayé sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139844,13 +139431,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le pyjama 3 pièces sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139886,13 +139466,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir l'ensemble fille sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139930,13 +139503,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le pyjama dinosaure sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -139966,13 +139532,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le haut bébé sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140010,13 +139569,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le pyjama à manches longues sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140052,13 +139604,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir l'ensemble rayé sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140100,13 +139645,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le cardigan sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140148,13 +139686,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le short imprimé sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140192,13 +139723,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le jean sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140246,13 +139770,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir les escarpins sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140291,13 +139808,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir les boucles d'oreilles sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140327,13 +139837,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le kit montre sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140363,13 +139866,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir les lunettes de soleil sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140405,13 +139901,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le t-shirt Henley sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140453,13 +139942,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1,
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le kit de shorts sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140501,13 +139983,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir la chemise à manches longues sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140548,13 +140023,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Voir le débardeur sur SHEIN",
-            "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140594,7 +140062,7 @@ export const reviewsData: unknown[] = [
           "Jusqu'à quand dure le 11.11 de SHEIN ? La Méga Promo 11.11 se termine le 12/11/2026, selon SHEIN.",
           "Le prix des pièces peut-il changer ? Oui. Les prix et les remises de ce guide sont ceux de la fiche le 28/10/2026, et SHEIN change le prix pendant la campagne et selon la couleur ou la taille.",
           "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de SHEIN Brésil : on le recherche dans la barre de recherche de l'appli et on ne le colle pas au paiement.",
-          "Les liens mènent-ils directement à la pièce ? Oui. Chaque bouton ouvre la fiche de cette pièce dans la campagne 11.11, et le lien de la campagne ouvre la page des Sélections des Ventes Mondiales."
+          "Les liens mènent-ils directement à la pièce ? Oui. La photo et la carte de chaque pièce ouvrent sa fiche dans la campagne 11.11, et le lien de la campagne ouvre la page des Sélections des Ventes Mondiales."
         ]
       },
       {
@@ -140627,7 +140095,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "La selezione di Cecília per la Mega Promozione 11.11 di SHEIN, in corso fino al 12/11/2026: 19 articoli in 5 gruppi (pigiami, bambini, donna, accessori e uomo), ognuno con il prezzo del giorno, il prezzo barrato e lo sconto della scheda, le taglie, la valutazione e il pulsante che porta direttamente all'articolo nella campagna. Prezzi letti il 28/10/2026.",
+    "description": "La selezione di Cecília per la Mega Promozione 11.11 di SHEIN, in corso fino al 12/11/2026: 19 articoli in 5 gruppi (pigiami, bambini, donna, accessori e uomo), ognuno con il prezzo del giorno, il prezzo barrato e lo sconto della scheda, le taglie, la valutazione e il link diretto all'articolo nella campagna. Prezzi letti il 28/10/2026.",
     "metaDescription": "SHEIN 11.11 fino al 12/11/2026: 19 articoli scelti da Cecília, dal pigiama alla camicia da uomo, con prezzo, sconto e taglie letti nella scheda il 28/10.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage con articoli della selezione 11.11 di SHEIN: pigiama floreale, completo da bambina, cardigan, décolleté e camicia da uomo, con il logo di SHEIN",
@@ -140636,7 +140104,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "I pulsanti di questa selezione portano agli articoli della Mega Promozione 11.11 di SHEIN, in corso fino al 12/11/2026. Controlla il prezzo e la tabella delle taglie nella scheda prima di concludere l'ordine.",
+      "text": "I link di questa selezione portano agli articoli della Mega Promozione 11.11 di SHEIN, in corso fino al 12/11/2026. Controlla il prezzo e la tabella delle taglie nella scheda prima di concludere l'ordine.",
       "label": "Vedi la selezione su SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -140670,7 +140138,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "La Mega Promozione 11.11 di SHEIN è già iniziata e termina il 12/11/2026. Secondo SHEIN, gli sconti arrivano all'85% su più di 600 mila prodotti, e il negozio spinge la campagna sull'app.",
           "I prezzi di questa guida sono stati convertiti dal real brasiliano in euro con il cambio del 28/10/2026 e possono essere diversi nel momento in cui apri la scheda.",
-          "La pagina di ingresso è quella delle [Selezioni di Vendita Globali dell'11.11](https://onelink.shein.com/58/66i60wu7xjjd). I 19 articoli qui sotto hanno ognuno il proprio pulsante, che apre la scheda dentro la campagna.",
+          "La pagina di ingresso è quella delle [Selezioni di Vendita Globali dell'11.11](https://onelink.shein.com/58/66i60wu7xjjd). Per i 19 articoli qui sotto, la foto e la scheda di stile aprono la pagina di ciascuno dentro la campagna.",
           "Il 4CW5Y è il codice invito di Cecília su SHEIN Brasile: si cerca nella barra di ricerca dell'app e non si incolla al checkout, perché non è un coupon, e potrebbe non valere nel tuo paese. I passaggi sono in [Codice invito SHEIN: dove inserirlo](/it/reviews/codice-invito-shein-dove-inserirlo)."
         ]
       },
@@ -140807,13 +140275,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi il pigiama floreale su SHEIN",
-            "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140843,13 +140304,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi il pigiama a righe su SHEIN",
-            "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140884,13 +140338,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi il pigiama 3 pezzi su SHEIN",
-            "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140926,13 +140373,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi il completo da bambina su SHEIN",
-            "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -140970,13 +140410,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi il pigiama con dinosauro su SHEIN",
-            "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141006,13 +140439,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi la maglia da neonato su SHEIN",
-            "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141050,13 +140476,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi il pigiama a maniche lunghe su SHEIN",
-            "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141092,13 +140511,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi il completo a righe su SHEIN",
-            "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141140,13 +140552,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi il cardigan su SHEIN",
-            "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141188,13 +140593,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi lo short stampato su SHEIN",
-            "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141232,13 +140630,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi il jeans su SHEIN",
-            "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141286,13 +140677,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi le décolleté su SHEIN",
-            "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141331,13 +140715,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi gli orecchini su SHEIN",
-            "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141367,13 +140744,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi il set con orologio su SHEIN",
-            "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141403,13 +140773,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi gli occhiali su SHEIN",
-            "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141445,13 +140808,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi la T-shirt Henley su SHEIN",
-            "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141493,13 +140849,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1,
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi il set di short su SHEIN",
-            "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141541,13 +140890,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi la camicia a maniche lunghe su SHEIN",
-            "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141588,13 +140930,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Vedi la canotta su SHEIN",
-            "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141634,7 +140969,7 @@ export const reviewsData: unknown[] = [
           "Fino a quando dura l'11.11 di SHEIN? La Mega Promozione 11.11 termina il 12/11/2026, secondo SHEIN.",
           "Il prezzo degli articoli può cambiare? Sì. I prezzi e gli sconti di questa guida sono quelli della scheda il 28/10/2026, convertiti in euro, e SHEIN cambia il prezzo durante la campagna e in base al colore o alla taglia.",
           "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN Brasile: si cerca nella barra di ricerca dell'app e non si incolla al checkout.",
-          "I link portano direttamente all'articolo? Sì. Ogni pulsante apre la scheda di quell'articolo dentro la campagna 11.11, e il link della campagna apre la pagina delle Selezioni di Vendita Globali."
+          "I link portano direttamente all'articolo? Sì. La foto e la scheda di stile di ogni articolo aprono la sua pagina dentro la campagna 11.11, e il link della campagna apre la pagina delle Selezioni di Vendita Globali."
         ]
       },
       {
@@ -141667,7 +141002,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecílias Auswahl für die Mega-Aktion 11.11 von SHEIN, die bis zum 12.11.2026 läuft: 19 Teile in 5 Gruppen (Pyjamas, Kinder, Damen, Accessoires und Herren), jedes mit dem Tagespreis, dem Streichpreis und dem Rabatt der Produktseite, den Größen, der Bewertung und dem Button, der direkt zum Teil in der Aktion führt. Preise vom 28.10.2026.",
+    "description": "Cecílias Auswahl für die Mega-Aktion 11.11 von SHEIN, die bis zum 12.11.2026 läuft: 19 Teile in 5 Gruppen (Pyjamas, Kinder, Damen, Accessoires und Herren), jedes mit dem Tagespreis, dem Streichpreis und dem Rabatt der Produktseite, den Größen, der Bewertung und dem direkten Link zum Teil in der Aktion. Preise vom 28.10.2026.",
     "metaDescription": "SHEIN 11.11 bis 12.11.2026: 19 Teile, von Cecília ausgewählt, vom Pyjama bis zum Herrenhemd, mit Preis, Rabatt und Größen laut Produktseite vom 28.10.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage mit Teilen aus der 11.11-Auswahl von SHEIN: Blumenpyjama, Kinderset, Cardigan, Pumps und Herrenhemd, mit dem SHEIN-Logo",
@@ -141676,7 +141011,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Die Buttons dieser Auswahl führen zu den Teilen der Mega-Aktion 11.11 von SHEIN, die bis zum 12.11.2026 läuft. Prüfen Sie Preis und Größentabelle auf der Produktseite, bevor Sie die Bestellung abschließen.",
+      "text": "Die Links dieser Auswahl führen zu den Teilen der Mega-Aktion 11.11 von SHEIN, die bis zum 12.11.2026 läuft. Prüfen Sie Preis und Größentabelle auf der Produktseite, bevor Sie die Bestellung abschließen.",
       "label": "Die Auswahl bei SHEIN ansehen",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -141710,7 +141045,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Die Mega-Aktion 11.11 von SHEIN hat schon begonnen und endet am 12.11.2026. Laut SHEIN gibt es bis zu 85 % Rabatt auf mehr als 600.000 Produkte, und der Shop lenkt die Aktion in die App.",
           "Die Preise in diesem Ratgeber wurden zum Kurs vom 28.10.2026 vom brasilianischen Real in Euro umgerechnet und können beim Aufrufen der Produktseite anders ausfallen.",
-          "Die Einstiegsseite ist die der [globalen Sale-Auswahl zum 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Die 19 Teile unten haben jeweils einen eigenen Button, der die Produktseite innerhalb der Aktion öffnet.",
+          "Die Einstiegsseite ist die der [globalen Sale-Auswahl zum 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Bei den 19 Teilen unten öffnen Foto und Karte jeweils die Produktseite innerhalb der Aktion.",
           "4CW5Y ist Cecílias Empfehlungscode bei SHEIN Brasilien: Er wird in der Suche der App gesucht und nicht an der Kasse eingegeben, weil er kein Gutschein ist, und im Ausland gilt er womöglich nicht. Die Schritte stehen in [SHEIN-Empfehlungscode: wo eingeben](/de/reviews/shein-empfehlungscode-wo-eingeben)."
         ]
       },
@@ -141847,13 +141182,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Blumenpyjama bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141883,13 +141211,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Gestreiften Pyjama bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141924,13 +141245,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "3-teiligen Pyjama bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -141966,13 +141280,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Mädchenset bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142010,13 +141317,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Dinosaurier-Pyjama bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142046,13 +141346,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Babyshirt bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142090,13 +141383,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Langarm-Pyjama bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142132,13 +141418,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Gestreiftes Set bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142180,13 +141459,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Cardigan bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142228,13 +141500,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Gemusterte Shorts bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142272,13 +141537,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Jeans bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142326,13 +141584,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Pumps bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142371,13 +141622,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Ohrringe bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142407,13 +141651,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Uhren-Set bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142443,13 +141680,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Brille bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142485,13 +141715,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Henley-Shirt bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142533,13 +141756,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1,
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Shorts-Set bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142581,13 +141797,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Langarmhemd bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142628,13 +141837,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "Tanktop bei SHEIN ansehen",
-            "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142674,7 +141876,7 @@ export const reviewsData: unknown[] = [
           "Bis wann läuft der 11.11 von SHEIN? Die Mega-Aktion 11.11 endet laut SHEIN am 12.11.2026.",
           "Kann sich der Preis der Teile ändern? Ja. Die Preise und Rabatte in diesem Ratgeber sind die der Produktseite vom 28.10.2026, in Euro umgerechnet, und SHEIN ändert den Preis während der Aktion und je nach Farbe oder Größe.",
           "Ist 4CW5Y ein Gutschein? Nein. Es ist Cecílias Empfehlungscode bei SHEIN Brasilien: Er wird in der Suche der App gesucht und nicht an der Kasse eingegeben.",
-          "Führen die Links direkt zum Teil? Ja. Jeder Button öffnet die Produktseite des jeweiligen Teils innerhalb der Aktion 11.11, und der Link der Aktion öffnet die Seite der globalen Sale-Auswahl."
+          "Führen die Links direkt zum Teil? Ja. Foto und Karte jedes Teils öffnen seine Produktseite innerhalb der Aktion 11.11, und der Link der Aktion öffnet die Seite der globalen Sale-Auswahl."
         ]
       },
       {
@@ -142707,7 +141909,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "2026年11月12日まで開催される SHEIN の 11.11 メガセールで Cecília が選んだ19アイテム。パジャマ、キッズ、レディース、アクセサリー、メンズの5グループに分け、それぞれ当日の価格、取り消し線の価格と割引率、サイズ、評価、キャンペーン内の商品ページに直接飛ぶボタンを載せています。価格は2026年10月28日に確認したものです。",
+    "description": "2026年11月12日まで開催される SHEIN の 11.11 メガセールで Cecília が選んだ19アイテム。パジャマ、キッズ、レディース、アクセサリー、メンズの5グループに分け、それぞれ当日の価格、取り消し線の価格と割引率、サイズ、評価、キャンペーン内の商品ページへの直接リンクを載せています。価格は2026年10月28日に確認したものです。",
     "metaDescription": "SHEIN の 11.11 は2026年11月12日まで。Cecília が選んだ19アイテムを、パジャマからメンズシャツまで、10月28日に商品ページで確認した価格・割引・サイズつきで紹介します。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11 セレクションのコラージュ：花柄パジャマ、キッズのセットアップ、カーディガン、パンプス、メンズシャツと SHEIN のロゴ",
@@ -142716,7 +141918,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "このセレクションのボタンは、2026年11月12日まで開催中の SHEIN 11.11 メガセールの商品ページに飛びます。注文を確定する前に、商品ページで価格とサイズ表を確認してください。",
+      "text": "このセレクションのリンクは、2026年11月12日まで開催中の SHEIN 11.11 メガセールの商品ページに飛びます。注文を確定する前に、商品ページで価格とサイズ表を確認してください。",
       "label": "SHEIN でセレクションを見る",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -142750,7 +141952,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN の 11.11 メガセールはすでに始まっていて、2026年11月12日に終わります。SHEIN によると、60万点以上の商品が最大85%オフで、キャンペーンの中心はアプリです。",
           "このガイドの価格は、2026年10月28日の為替レートでブラジルレアルから日本円に換算したもので、商品ページを開いた時点では違う場合があります。",
-          "入口になるのは [11.11 グローバルセール セレクション](https://onelink.shein.com/58/66i60wu7xjjd) のページです。下の19アイテムにはそれぞれボタンがあり、キャンペーン内の商品ページが開きます。",
+          "入口になるのは [11.11 グローバルセール セレクション](https://onelink.shein.com/58/66i60wu7xjjd) のページです。下の19アイテムは、写真とカードからキャンペーン内の商品ページが開きます。",
           "4CW5Y は SHEIN ブラジルでの Cecília の紹介コードです。アプリの検索バーで検索するもので、クーポンではないのでチェックアウトには貼り付けません。お住まいの国では使えない場合もあります。手順は [SHEIN の紹介コード：入力する場所](/ja/reviews/shein-referral-code-ja) にまとめています。"
         ]
       },
@@ -142887,13 +142089,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN で花柄パジャマを見る",
-            "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142923,13 +142118,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN でストライプのパジャマを見る",
-            "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -142964,13 +142152,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN で3点セットパジャマを見る",
-            "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143006,13 +142187,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN で女の子のセットアップを見る",
-            "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143050,13 +142224,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN で恐竜のパジャマを見る",
-            "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143086,13 +142253,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN でベビーTシャツを見る",
-            "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143130,13 +142290,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN で長袖パジャマを見る",
-            "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143172,13 +142325,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN でストライプのセットアップを見る",
-            "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143220,13 +142366,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN でカーディガンを見る",
-            "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143268,13 +142407,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN で柄ショートパンツを見る",
-            "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143312,13 +142444,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN でジーンズを見る",
-            "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143366,13 +142491,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN でパンプスを見る",
-            "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143411,13 +142529,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN でピアスを見る",
-            "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143447,13 +142558,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN で腕時計セットを見る",
-            "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143483,13 +142587,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN でサングラスを見る",
-            "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143525,13 +142622,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN でヘンリーネックTシャツを見る",
-            "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143573,13 +142663,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1,
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN でショートパンツセットを見る",
-            "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143621,13 +142704,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN で長袖シャツを見る",
-            "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143668,13 +142744,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN でタンクトップを見る",
-            "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143714,7 +142783,7 @@ export const reviewsData: unknown[] = [
           "SHEIN の 11.11 はいつまでですか？ SHEIN によると、11.11 メガセールは2026年11月12日に終わります。",
           "アイテムの価格は変わりますか？ はい。このガイドの価格と割引は2026年10月28日の商品ページのものを日本円に換算したもので、SHEIN はキャンペーン中に、また色やサイズによって価格を変えます。",
           "4CW5Y はクーポンですか？ いいえ。SHEIN ブラジルでの Cecília の紹介コードで、アプリの検索バーで検索するもので、チェックアウトには貼り付けません。",
-          "リンクは商品に直接飛びますか？ はい。各ボタンは 11.11 キャンペーン内のそのアイテムの商品ページを開き、キャンペーンのリンクはグローバルセール セレクションのページを開きます。"
+          "リンクは商品に直接飛びますか？ はい。各アイテムの写真とカードは 11.11 キャンペーン内の商品ページを開き、キャンペーンのリンクはグローバルセール セレクションのページを開きます。"
         ]
       },
       {
@@ -143747,7 +142816,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "2026년 11월 12일까지 진행되는 SHEIN 11.11 메가 세일에서 Cecília가 고른 19가지를 5개 그룹(잠옷, 아동, 여성, 액세서리, 남성)으로 정리했습니다. 상품마다 당일 가격, 원래 가격, 상품 페이지의 할인율, 사이즈, 평점, 그리고 캠페인 안의 상품 페이지로 바로 가는 버튼을 담았습니다. 가격은 2026년 10월 28일 기준입니다.",
+    "description": "2026년 11월 12일까지 진행되는 SHEIN 11.11 메가 세일에서 Cecília가 고른 19가지를 5개 그룹(잠옷, 아동, 여성, 액세서리, 남성)으로 정리했습니다. 상품마다 당일 가격, 원래 가격, 상품 페이지의 할인율, 사이즈, 평점, 그리고 캠페인 안의 상품 페이지로 바로 가는 링크를 담았습니다. 가격은 2026년 10월 28일 기준입니다.",
     "metaDescription": "SHEIN 11.11은 2026년 11월 12일까지. Cecília가 고른 19가지를 잠옷부터 남성 셔츠까지, 10월 28일 상품 페이지의 가격, 할인율, 사이즈와 함께 정리했습니다.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11 셀렉션 콜라주: 꽃무늬 잠옷, 아동 세트, 가디건, 슬링백 펌프스, 남성 셔츠와 SHEIN 로고",
@@ -143756,7 +142825,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "이 셀렉션의 버튼은 2026년 11월 12일까지 진행되는 SHEIN 11.11 메가 세일의 상품 페이지로 연결됩니다. 주문을 마치기 전에 상품 페이지에서 가격과 사이즈표를 확인하세요.",
+      "text": "이 셀렉션의 링크는 2026년 11월 12일까지 진행되는 SHEIN 11.11 메가 세일의 상품 페이지로 연결됩니다. 주문을 마치기 전에 상품 페이지에서 가격과 사이즈표를 확인하세요.",
       "label": "SHEIN에서 셀렉션 보기",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -143790,7 +142859,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN 11.11 메가 세일은 이미 시작됐고 2026년 11월 12일에 끝납니다. SHEIN에 따르면 60만 개가 넘는 상품이 최대 85% 할인이며, 캠페인은 앱 중심으로 진행됩니다.",
           "이 글의 가격은 브라질 헤알을 2026년 10월 28일 환율로 원화로 환산한 값이라, 접속하는 시점에 보이는 가격과 다를 수 있습니다.",
-          "입구 페이지는 [11.11 글로벌 세일 셀렉션](https://onelink.shein.com/58/66i60wu7xjjd)입니다. 아래 19가지에는 각각 버튼이 있고, 캠페인 안에서 그 상품의 페이지가 열립니다.",
+          "입구 페이지는 [11.11 글로벌 세일 셀렉션](https://onelink.shein.com/58/66i60wu7xjjd)입니다. 아래 19가지는 사진과 카드를 누르면 캠페인 안에서 그 상품의 페이지가 열립니다.",
           "4CW5Y는 SHEIN 브라질의 추천 코드입니다. 앱의 검색창에서 검색하는 코드이고, 쿠폰이 아니라서 결제 화면에 붙여 넣지 않습니다. 사용 방법은 [SHEIN 브라질 추천 코드: 입력하는 곳과 사용법](/ko/reviews/shein-referral-code-ko)에 있습니다."
         ]
       },
@@ -143927,13 +142996,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 꽃무늬 잠옷 보기",
-            "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -143963,13 +143025,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 스트라이프 잠옷 보기",
-            "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144004,13 +143059,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 3피스 잠옷 보기",
-            "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144046,13 +143094,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 여아 세트 보기",
-            "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144090,13 +143131,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 공룡 잠옷 보기",
-            "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144126,13 +143160,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 아기 상의 보기",
-            "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144170,13 +143197,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 긴소매 잠옷 보기",
-            "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144212,13 +143232,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 스트라이프 세트 보기",
-            "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144260,13 +143273,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 가디건 보기",
-            "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144308,13 +143314,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 프린트 쇼츠 보기",
-            "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144352,13 +143351,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 데님 팬츠 보기",
-            "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144406,13 +143398,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 펌프스 보기",
-            "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144451,13 +143436,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 귀걸이 보기",
-            "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144487,13 +143465,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 시계 세트 보기",
-            "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144523,13 +143494,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 선글라스 보기",
-            "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144565,13 +143529,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 헨리넥 티셔츠 보기",
-            "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144613,13 +143570,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1,
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 쇼츠 세트 보기",
-            "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144661,13 +143611,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 긴소매 셔츠 보기",
-            "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144708,13 +143651,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "SHEIN에서 탱크톱 보기",
-            "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -144754,7 +143690,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 11.11은 언제까지인가요? SHEIN에 따르면 11.11 메가 세일은 2026년 11월 12일에 끝납니다.",
           "상품 가격이 바뀔 수 있나요? 네. 이 가이드의 가격과 할인율은 2026년 10월 28일 상품 페이지 기준이고, SHEIN은 캠페인 중에, 그리고 색상이나 사이즈에 따라 가격을 바꿉니다.",
           "4CW5Y는 쿠폰인가요? 아니요. SHEIN 브라질의 추천 코드로, 앱의 검색창에서 검색하며 결제 화면에 붙여 넣지 않습니다.",
-          "링크를 누르면 바로 그 상품으로 가나요? 네. 각 버튼은 11.11 캠페인 안에서 그 상품의 페이지를 열고, 캠페인 링크는 글로벌 세일 셀렉션 페이지를 엽니다."
+          "링크를 누르면 바로 그 상품으로 가나요? 네. 각 상품의 사진과 카드는 11.11 캠페인 안에서 그 상품의 페이지를 열고, 캠페인 링크는 글로벌 세일 셀렉션 페이지를 엽니다."
         ]
       },
       {
@@ -144787,7 +143723,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "SHEIN 11.11 大促（到 2026 年 11 月 12 日）中 Cecília 挑的 19 件，分 5 组（睡衣、童装、女装、配饰、男装）。每件都附当天价格、原价、商品页的折扣、尺码、评分，以及直达活动中该商品的按钮。价格读取于 2026 年 10 月 28 日。",
+    "description": "SHEIN 11.11 大促（到 2026 年 11 月 12 日）中 Cecília 挑的 19 件，分 5 组（睡衣、童装、女装、配饰、男装）。每件都附当天价格、原价、商品页的折扣、尺码、评分，以及直达活动中该商品的链接。价格读取于 2026 年 10 月 28 日。",
     "metaDescription": "SHEIN 11.11 到 2026 年 11 月 12 日。Cecília 挑的 19 件，从睡衣到男士衬衫，附 10 月 28 日商品页上的价格、折扣和尺码。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11 精选拼图：碎花睡衣、儿童套装、开衫、后空高跟鞋和男士衬衫，带 SHEIN 标志",
@@ -144796,7 +143732,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "本文的按钮通往 SHEIN 11.11 大促中的各件商品，活动到 2026 年 11 月 12 日。下单前请在商品页核对价格和尺码表。",
+      "text": "本文的链接通往 SHEIN 11.11 大促中的各件商品，活动到 2026 年 11 月 12 日。下单前请在商品页核对价格和尺码表。",
       "label": "去 SHEIN 看这份精选",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -144830,7 +143766,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN 11.11 大促已经开始，2026 年 11 月 12 日结束。SHEIN 称超过 60 万件商品最低 1.5 折，活动主要在 App 里进行。",
           "本文价格由巴西雷亚尔按 2026 年 10 月 28 日汇率换算成人民币，你访问时看到的价格可能不同。",
-          "入口页面是 [11.11 全球热卖精选](https://onelink.shein.com/58/66i60wu7xjjd)。下面 19 件各有按钮，会在活动中打开该商品的页面。",
+          "入口页面是 [11.11 全球热卖精选](https://onelink.shein.com/58/66i60wu7xjjd)。下面 19 件的图片和卡片，会在活动中打开该商品的页面。",
           "4CW5Y 是 SHEIN 巴西站的推荐码：在 App 的搜索栏里搜索，不粘贴到结算页，因为它不是优惠券。步骤见 [SHEIN 巴西站推荐码：在哪里输入、怎么用](/zh-hans/reviews/shein-referral-code-zh-hans)。"
         ]
       },
@@ -144967,13 +143903,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看碎花睡衣",
-            "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145003,13 +143932,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看条纹睡衣",
-            "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145044,13 +143966,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看三件套睡衣",
-            "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145086,13 +144001,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看女童套装",
-            "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145130,13 +144038,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看恐龙睡衣",
-            "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145166,13 +144067,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看婴儿上衣",
-            "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145210,13 +144104,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看长袖睡衣",
-            "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145252,13 +144139,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看条纹套装",
-            "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145300,13 +144180,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看开衫",
-            "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145348,13 +144221,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看印花短裤",
-            "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145392,13 +144258,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看牛仔裤",
-            "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145446,13 +144305,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看高跟鞋",
-            "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145491,13 +144343,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看耳环",
-            "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145527,13 +144372,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看手表套装",
-            "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145563,13 +144401,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看太阳镜",
-            "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145605,13 +144436,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看亨利领 T 恤",
-            "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145653,13 +144477,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1,
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看短裤套装",
-            "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145701,13 +144518,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看长袖衬衫",
-            "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145748,13 +144558,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "去 SHEIN 看背心",
-            "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -145794,7 +144597,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 11.11 到什么时候？SHEIN 称 11.11 大促 2026 年 11 月 12 日结束。",
           "商品价格会变吗？会。本文的价格和折扣是 2026 年 10 月 28 日商品页上的，SHEIN 在活动期间会调价，不同颜色或尺码价格也不同。",
           "4CW5Y 是优惠券吗？不是。它是 SHEIN 巴西站的推荐码：在 App 的搜索栏里搜索，不粘贴到结算页。",
-          "链接直接到商品吗？是。每个按钮都在 11.11 活动里打开该商品的页面，活动链接打开的是全球热卖精选页面。"
+          "链接直接到商品吗？是。每件商品的图片和卡片都在 11.11 活动里打开该商品的页面，活动链接打开的是全球热卖精选页面。"
         ]
       },
       {
@@ -145827,7 +144630,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "SHEIN 11.11 大促（到 2026 年 11 月 12 日）中 Cecília 挑的 19 件，分 5 組（睡衣、童裝、女裝、配件、男裝）。每件都附當天價格、原價、商品頁的折扣、尺寸、評分，以及直達活動中該商品的按鈕。價格查看於 2026 年 10 月 28 日。",
+    "description": "SHEIN 11.11 大促（到 2026 年 11 月 12 日）中 Cecília 挑的 19 件，分 5 組（睡衣、童裝、女裝、配件、男裝）。每件都附當天價格、原價、商品頁的折扣、尺寸、評分，以及直達活動中該商品的連結。價格查看於 2026 年 10 月 28 日。",
     "metaDescription": "SHEIN 11.11 到 2026 年 11 月 12 日。Cecília 挑的 19 件，從睡衣到男士襯衫，附 10 月 28 日商品頁上的價格、折扣和尺寸。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11 精選拼貼：碎花睡衣、兒童套裝、開襟衫、後空高跟鞋和男士襯衫，帶 SHEIN 標誌",
@@ -145836,7 +144639,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "本文的按鈕通往 SHEIN 11.11 大促中的各件商品，活動到 2026 年 11 月 12 日。下單前請在商品頁核對價格和尺寸表。",
+      "text": "本文的連結通往 SHEIN 11.11 大促中的各件商品，活動到 2026 年 11 月 12 日。下單前請在商品頁核對價格和尺寸表。",
       "label": "到 SHEIN 看這份精選",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -145870,7 +144673,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN 11.11 大促已經開始，2026 年 11 月 12 日結束。SHEIN 稱超過 60 萬件商品最低 1.5 折，活動主要在 App 裡進行。",
           "本文價格由巴西雷亞爾按 2026 年 10 月 28 日匯率換算成新台幣，你瀏覽時看到的價格可能不同。",
-          "入口頁面是 [11.11 全球熱銷精選](https://onelink.shein.com/58/66i60wu7xjjd)。下面 19 件各有按鈕，會在活動中開啟該商品的頁面。",
+          "入口頁面是 [11.11 全球熱銷精選](https://onelink.shein.com/58/66i60wu7xjjd)。下面 19 件的圖片和卡片，會在活動中開啟該商品的頁面。",
           "4CW5Y 是 SHEIN 巴西站的推薦碼：在 App 的搜尋欄搜尋，不貼到結帳頁，因為它不是優惠券。步驟見 [SHEIN 巴西站推薦碼：在哪裡輸入、怎麼用](/zh-hant/reviews/shein-referral-code-zh-hant)。"
         ]
       },
@@ -146007,13 +144810,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看碎花睡衣",
-            "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146043,13 +144839,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看條紋睡衣",
-            "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146084,13 +144873,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看三件式睡衣",
-            "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146126,13 +144908,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看女童套裝",
-            "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146170,13 +144945,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看恐龍睡衣",
-            "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146206,13 +144974,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看嬰兒上衣",
-            "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146250,13 +145011,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看長袖睡衣",
-            "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146292,13 +145046,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看條紋套裝",
-            "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146340,13 +145087,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看開襟衫",
-            "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146388,13 +145128,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看印花短褲",
-            "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146432,13 +145165,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看牛仔褲",
-            "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146486,13 +145212,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看高跟鞋",
-            "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146531,13 +145250,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看耳環",
-            "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146567,13 +145279,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看手錶套組",
-            "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146603,13 +145308,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看太陽眼鏡",
-            "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146645,13 +145343,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看亨利領 T 恤",
-            "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146693,13 +145384,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1,
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看短褲套組",
-            "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146741,13 +145425,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看長袖襯衫",
-            "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146788,13 +145465,6 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
         },
-        "links": [
-          {
-            "label": "到 SHEIN 看背心",
-            "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-            "sponsored": true
-          }
-        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -146834,7 +145504,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 11.11 到什麼時候？SHEIN 稱 11.11 大促 2026 年 11 月 12 日結束。",
           "商品價格會變嗎？會。本文的價格和折扣是 2026 年 10 月 28 日商品頁上的，SHEIN 在活動期間會調價，不同顏色或尺寸價格也不同。",
           "4CW5Y 是優惠券嗎？不是。它是 SHEIN 巴西站的推薦碼：在 App 的搜尋欄搜尋，不貼到結帳頁。",
-          "連結直接到商品嗎？是。每個按鈕都在 11.11 活動裡開啟該商品的頁面，活動連結開啟的是全球熱銷精選頁面。"
+          "連結直接到商品嗎？是。每件商品的圖片和卡片都在 11.11 活動裡開啟該商品的頁面，活動連結開啟的是全球熱銷精選頁面。"
         ]
       },
       {

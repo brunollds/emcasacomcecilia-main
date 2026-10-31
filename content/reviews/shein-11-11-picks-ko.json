@@ -20,7 +20,7 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "description": "2026년 11월 12일까지 진행되는 SHEIN 11.11 메가 세일에서 Cecília가 고른 19가지를 5개 그룹(잠옷, 아동, 여성, 액세서리, 남성)으로 정리했습니다. 상품마다 당일 가격, 원래 가격, 상품 페이지의 할인율, 사이즈, 평점, 그리고 캠페인 안의 상품 페이지로 바로 가는 버튼을 담았습니다. 가격은 2026년 10월 28일 기준입니다.",
+  "description": "2026년 11월 12일까지 진행되는 SHEIN 11.11 메가 세일에서 Cecília가 고른 19가지를 5개 그룹(잠옷, 아동, 여성, 액세서리, 남성)으로 정리했습니다. 상품마다 당일 가격, 원래 가격, 상품 페이지의 할인율, 사이즈, 평점, 그리고 캠페인 안의 상품 페이지로 바로 가는 링크를 담았습니다. 가격은 2026년 10월 28일 기준입니다.",
   "metaDescription": "SHEIN 11.11은 2026년 11월 12일까지. Cecília가 고른 19가지를 잠옷부터 남성 셔츠까지, 10월 28일 상품 페이지의 가격, 할인율, 사이즈와 함께 정리했습니다.",
   "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
   "imageAlt": "SHEIN 11.11 셀렉션 콜라주: 꽃무늬 잠옷, 아동 세트, 가디건, 슬링백 펌프스, 남성 셔츠와 SHEIN 로고",
@@ -29,7 +29,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "이 셀렉션의 버튼은 2026년 11월 12일까지 진행되는 SHEIN 11.11 메가 세일의 상품 페이지로 연결됩니다. 주문을 마치기 전에 상품 페이지에서 가격과 사이즈표를 확인하세요.",
+    "text": "이 셀렉션의 링크는 2026년 11월 12일까지 진행되는 SHEIN 11.11 메가 세일의 상품 페이지로 연결됩니다. 주문을 마치기 전에 상품 페이지에서 가격과 사이즈표를 확인하세요.",
     "label": "SHEIN에서 셀렉션 보기",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true
@@ -63,7 +63,7 @@
       "paragraphs": [
         "SHEIN 11.11 메가 세일은 이미 시작됐고 2026년 11월 12일에 끝납니다. SHEIN에 따르면 60만 개가 넘는 상품이 최대 85% 할인이며, 캠페인은 앱 중심으로 진행됩니다.",
         "이 글의 가격은 브라질 헤알을 2026년 10월 28일 환율로 원화로 환산한 값이라, 접속하는 시점에 보이는 가격과 다를 수 있습니다.",
-        "입구 페이지는 [11.11 글로벌 세일 셀렉션](https://onelink.shein.com/58/66i60wu7xjjd)입니다. 아래 19가지에는 각각 버튼이 있고, 캠페인 안에서 그 상품의 페이지가 열립니다.",
+        "입구 페이지는 [11.11 글로벌 세일 셀렉션](https://onelink.shein.com/58/66i60wu7xjjd)입니다. 아래 19가지는 사진과 카드를 누르면 캠페인 안에서 그 상품의 페이지가 열립니다.",
         "4CW5Y는 SHEIN 브라질의 추천 코드입니다. 앱의 검색창에서 검색하는 코드이고, 쿠폰이 아니라서 결제 화면에 붙여 넣지 않습니다. 사용 방법은 [SHEIN 브라질 추천 코드: 입력하는 곳과 사용법](/ko/reviews/shein-referral-code-ko)에 있습니다."
       ]
     },
@@ -200,13 +200,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 꽃무늬 잠옷 보기",
-          "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -236,13 +229,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 스트라이프 잠옷 보기",
-          "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -277,13 +263,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 3피스 잠옷 보기",
-          "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -319,13 +298,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 여아 세트 보기",
-          "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -363,13 +335,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 공룡 잠옷 보기",
-          "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -399,13 +364,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 아기 상의 보기",
-          "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -443,13 +401,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 긴소매 잠옷 보기",
-          "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -485,13 +436,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 스트라이프 세트 보기",
-          "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -533,13 +477,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 가디건 보기",
-          "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -581,13 +518,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 프린트 쇼츠 보기",
-          "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -625,13 +555,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 데님 팬츠 보기",
-          "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -679,13 +602,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 펌프스 보기",
-          "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -724,13 +640,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 귀걸이 보기",
-          "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -760,13 +669,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 시계 세트 보기",
-          "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -796,13 +698,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 선글라스 보기",
-          "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -838,13 +733,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 헨리넥 티셔츠 보기",
-          "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -886,13 +774,6 @@
         "aspectRatio": 1,
         "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 쇼츠 세트 보기",
-          "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -934,13 +815,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 긴소매 셔츠 보기",
-          "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -981,13 +855,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "SHEIN에서 탱크톱 보기",
-          "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -1027,7 +894,7 @@
         "SHEIN 11.11은 언제까지인가요? SHEIN에 따르면 11.11 메가 세일은 2026년 11월 12일에 끝납니다.",
         "상품 가격이 바뀔 수 있나요? 네. 이 가이드의 가격과 할인율은 2026년 10월 28일 상품 페이지 기준이고, SHEIN은 캠페인 중에, 그리고 색상이나 사이즈에 따라 가격을 바꿉니다.",
         "4CW5Y는 쿠폰인가요? 아니요. SHEIN 브라질의 추천 코드로, 앱의 검색창에서 검색하며 결제 화면에 붙여 넣지 않습니다.",
-        "링크를 누르면 바로 그 상품으로 가나요? 네. 각 버튼은 11.11 캠페인 안에서 그 상품의 페이지를 열고, 캠페인 링크는 글로벌 세일 셀렉션 페이지를 엽니다."
+        "링크를 누르면 바로 그 상품으로 가나요? 네. 각 상품의 사진과 카드는 11.11 캠페인 안에서 그 상품의 페이지를 열고, 캠페인 링크는 글로벌 세일 셀렉션 페이지를 엽니다."
       ]
     },
     {
