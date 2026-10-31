@@ -131821,7 +131821,25 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A ficha cita vestidos de festa e frente única, e descreve a peça como um adesivo sem alças e com as costas nuas. Essa é a lista da marca: roupas em que a alça ou a faixa das costas de um sutiã comum apareceriam.",
           "O tomara que caia não está na ficha do sutiã. Para outras peças, como blusa de alça fina ou top de costas abertas, a ficha também não diz nada."
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Sutiã de Silicone Invisível",
+              "howTo": "Em roupa sem alças e de costas nuas, onde a alça ou a faixa de um sutiã comum apareceria.",
+              "occasion": "Festa e evento, com vestido de festa ou blusa frente única.",
+              "pairsWith": [
+                {
+                  "label": "vestido de festa de costas nuas"
+                },
+                {
+                  "label": "blusa frente única"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Como lavar e guardar",
@@ -168305,7 +168323,63 @@ export const reviewsData: unknown[] = [
           "Quer a maior faixa de tamanho, até o G3: [Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
           "Quer usar em tomara que caia ou com as alças combinadas, a partir do P: [Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
           "Quer o modelo mais minimalista, do PP ao GG: [Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), com menos peças em PP e M."
-        ]
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Comfort Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Com as alças reguláveis, por baixo de roupa de alça larga ou de manga.",
+              "occasion": "Dia a dia e trabalho.",
+              "pairsWith": [
+                {
+                  "label": "camiseta de malha"
+                },
+                {
+                  "label": "blusa de alça larga"
+                },
+                {
+                  "label": "vestido de manga"
+                }
+              ]
+            },
+            {
+              "piece": "Comfort Line",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Sem alças, como tomara que caia, ou com as alças cruzadas nas costas, como a loja mostra.",
+              "occasion": "Roupa de ombro de fora ou de costas cavadas.",
+              "pairsWith": [
+                {
+                  "label": "blusa tomara que caia"
+                },
+                {
+                  "label": "vestido ombro a ombro"
+                },
+                {
+                  "label": "regata nadador"
+                }
+              ]
+            },
+            {
+              "piece": "Comfort Slim",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Por baixo de roupa justa, para não marcar, ou aparecendo sob tecido transparente, como a loja sugere.",
+              "occasion": "Dia a dia e roupa de tecido fino.",
+              "pairsWith": [
+                {
+                  "label": "camiseta justa"
+                },
+                {
+                  "label": "camisa transparente"
+                },
+                {
+                  "label": "blusa de tule"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Perguntas frequentes",

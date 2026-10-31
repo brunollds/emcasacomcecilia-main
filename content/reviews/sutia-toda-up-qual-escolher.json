@@ -286,7 +286,63 @@
         "Quer a maior faixa de tamanho, até o G3: [Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
         "Quer usar em tomara que caia ou com as alças combinadas, a partir do P: [Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
         "Quer o modelo mais minimalista, do PP ao GG: [Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), com menos peças em PP e M."
-      ]
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Comfort Up",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Com as alças reguláveis, por baixo de roupa de alça larga ou de manga.",
+            "occasion": "Dia a dia e trabalho.",
+            "pairsWith": [
+              {
+                "label": "camiseta de malha"
+              },
+              {
+                "label": "blusa de alça larga"
+              },
+              {
+                "label": "vestido de manga"
+              }
+            ]
+          },
+          {
+            "piece": "Comfort Line",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Sem alças, como tomara que caia, ou com as alças cruzadas nas costas, como a loja mostra.",
+            "occasion": "Roupa de ombro de fora ou de costas cavadas.",
+            "pairsWith": [
+              {
+                "label": "blusa tomara que caia"
+              },
+              {
+                "label": "vestido ombro a ombro"
+              },
+              {
+                "label": "regata nadador"
+              }
+            ]
+          },
+          {
+            "piece": "Comfort Slim",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Por baixo de roupa justa, para não marcar, ou aparecendo sob tecido transparente, como a loja sugere.",
+            "occasion": "Dia a dia e roupa de tecido fino.",
+            "pairsWith": [
+              {
+                "label": "camiseta justa"
+              },
+              {
+                "label": "camisa transparente"
+              },
+              {
+                "label": "blusa de tule"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Perguntas frequentes",

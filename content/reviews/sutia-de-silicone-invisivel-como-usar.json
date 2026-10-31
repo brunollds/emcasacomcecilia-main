@@ -128,7 +128,25 @@
       "paragraphs": [
         "A ficha cita vestidos de festa e frente única, e descreve a peça como um adesivo sem alças e com as costas nuas. Essa é a lista da marca: roupas em que a alça ou a faixa das costas de um sutiã comum apareceriam.",
         "O tomara que caia não está na ficha do sutiã. Para outras peças, como blusa de alça fina ou top de costas abertas, a ficha também não diz nada."
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Sutiã de Silicone Invisível",
+            "howTo": "Em roupa sem alças e de costas nuas, onde a alça ou a faixa de um sutiã comum apareceria.",
+            "occasion": "Festa e evento, com vestido de festa ou blusa frente única.",
+            "pairsWith": [
+              {
+                "label": "vestido de festa de costas nuas"
+              },
+              {
+                "label": "blusa frente única"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Como lavar e guardar",
