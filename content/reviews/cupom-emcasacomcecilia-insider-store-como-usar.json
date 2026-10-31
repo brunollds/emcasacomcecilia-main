@@ -17,7 +17,7 @@
   "metaDescription": "Cupom Insider Store EMCASACOMCECILIA: 15% OFF sem valor mínimo, testado no checkout. Veja como aplicar, onde vale (Outlet e kits), as exceções e o frete grátis.",
   "publishedAt": "5 de outubro de 2026",
   "publishedAtISO": "2026-10-05",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-31",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/insider/insider-cupom-hero-oficial.webp",
@@ -40,7 +40,7 @@
     {
       "heading": "Resposta rápida: como usar o cupom da Insider",
       "paragraphs": [
-        "O [cupom Insider](/cupons/insider) é EMCASACOMCECILIA e dá 15% OFF nas compras do site, inclusive no Outlet e em kits, sem valor mínimo. Você digita o código no checkout ou entra pelo link da parceria. Ele não vale em lançamentos nem nas lojas físicas, e a loja aceita um cupom por pedido; veja abaixo como conferir o desconto."
+        "O [cupom Insider](/cupons/insider) é EMCASACOMCECILIA e dá 15% OFF nas compras do site, inclusive no Outlet e em kits, sem valor mínimo. Você digita o código no checkout ou entra pelo link da parceria. Ele não vale nas lojas físicas, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido; veja abaixo como conferir o desconto."
       ]
     },
     {
@@ -102,7 +102,7 @@
       "heading": "4. Confira o desconto em cada item antes de pagar",
       "paragraphs": [
         "Quando o cupom é aceito, aparece a mensagem **Melhor desconto ativado**, avisando que o cupom está ativo e com o melhor desconto disponível. O código fica numa etiqueta logo abaixo do campo; o **×** ao lado dela remove o cupom, caso você queira usar outro no lugar, já que a Insider aceita só um por pedido.",
-        "Em seguida, cada produto do resumo mostra a linha **Código de desconto — EMCASACOMCECILIA**, com o valor abatido, o preço original e o preço com desconto, 15% menor. Na Core T-Shirt do nosso teste, o preço passou de R$ 189,00 para R$ 160,65, com R$ 28,35 de desconto. No fim do resumo aparece a **economia total** do pedido. Se algum item ficar sem essa linha, é porque ele não entra no cupom, como acontece com os lançamentos.",
+        "Em seguida, cada produto do resumo mostra a linha **Código de desconto — EMCASACOMCECILIA**, com o valor abatido, o preço original e o preço com desconto, 15% menor. Na Core T-Shirt do nosso teste, o preço passou de R$ 189,00 para R$ 160,65, com R$ 28,35 de desconto. No fim do resumo aparece a **economia total** do pedido. Se algum item ficar sem essa linha, é porque ele não entra no cupom, como pode acontecer nos primeiros dias de um lançamento.",
         "Depois disso, é só preencher os dados de entrega e escolher o pagamento. Pelos termos de uso da loja, as opções são Pix à vista, Pix parcelado em até 4 vezes sem juros, cartão de crédito em até 3 vezes sem juros (ou de 4 a 10 vezes com juros) e boleto à vista."
       ],
       "image": "/images/reviews/insider/insider-passo-4-desconto-ativado.webp",
@@ -116,7 +116,7 @@
       "paragraphs": [
         "As regras oficiais do programa são curtas: o cupom vale nas compras da loja online, não vale para **produtos de lançamento**, não vale nas **lojas físicas** da Insider e não é cumulativo com outro cupom, porque a loja aceita só um por pedido.",
         "Para saber como isso funciona no dia a dia, testamos o cupom no checkout oficial em 5 de outubro de 2026, sem finalizar a compra. O desconto entrou numa Tech T-Shirt, numa Undershirt Antissuor, num kit com três Tech T-Shirts femininas que já estava com preço promocional e numa peça do Outlet. Também testamos uma meia de R$ 25 sozinha no carrinho, e o desconto entrou: não encontramos valor mínimo de pedido para usar o cupom. Em todos esses itens o desconto foi de 15% do preço, o que voltamos a conferir no checkout em 7 de outubro.",
-        "Num vestido marcado como lançamento, o cupom não deu desconto, como diz a regra. Um detalhe: a etiqueta de lançamento que aparece no site não é um guia confiável, porque produtos com essa marcação, como a própria Tech T-Shirt, receberam o desconto normalmente. O jeito seguro de saber é o resumo do pedido, que mostra item por item o que entrou no cupom."
+        "Num vestido marcado como lançamento, o cupom não deu desconto. Já peças com a mesma etiqueta, como a Tech T-Shirt e os sutiãs Nakedfeel do Outlet, receberam o desconto normalmente: em geral, o lançamento fica fora do cupom só nos primeiros dias. O jeito seguro de saber é o resumo do pedido, que mostra item por item o que entrou no cupom."
       ],
       "bullets": [
         "**Vale:** loja online da Insider, inclusive Outlet, kits e peças com preço promocional.",
@@ -147,7 +147,7 @@
           ["Kits de Tech T-Shirt", "Renovar várias camisetas de uma vez", "Kits de 3 e 5 peças, muitas vezes com preço de kit menor que o avulso", "No teste, o cupom entrou também no kit promocional"],
           ["Undershirt Antissuor", "Usar por baixo de camisa social", "Camada dupla nas axilas, em versões Leve, Moderado e Block, conforme o nível de transpiração", "Escolha a versão pelo quanto você transpira"],
           ["Underwear (cuecas e calcinhas)", "Peças do dia a dia", "Modelos Comfort e Performance, vendidos avulsos ou em kits", "Só tem troca em caso de defeito: confira o guia de medidas"],
-          ["Linha feminina", "Camisetas, tops, leggings, saias e vestidos", "Inclui Tech T-Shirt feminina, The Perfect Top e peças de alfaiataria tecnológica", "Muitos lançamentos ficam de fora do cupom"]
+          ["Linha feminina", "Camisetas, tops, leggings, saias e vestidos", "Inclui Tech T-Shirt feminina, The Perfect Top e peças de alfaiataria tecnológica", "Lançamentos podem ficar fora do cupom nos primeiros dias"]
         ]
       },
       "postParagraphs": [
@@ -175,7 +175,7 @@
     {
       "heading": "Vale a pena usar o cupom?",
       "paragraphs": [
-        "Para quem já decidiu comprar na Insider, sim. O EMCASACOMCECILIA dá 15% OFF e entra em quase todo o catálogo online, inclusive no Outlet e em kits que já têm preço promocional, não exige valor mínimo e mostra o desconto item por item antes do pagamento. As exceções são poucas e claras: lançamentos, lojas físicas e a soma com outro cupom.",
+        "Para quem já decidiu comprar na Insider, sim. O EMCASACOMCECILIA dá 15% OFF e entra em quase todo o catálogo online, inclusive no Outlet e em kits que já têm preço promocional, não exige valor mínimo e mostra o desconto item por item antes do pagamento. As exceções são poucas: os primeiros dias de um lançamento, as lojas físicas e a soma com outro cupom.",
         "O que eu observaria é o conjunto do pedido. Com o carrinho entre R$ 399 e R$ 469, os 15% fazem o pedido cair abaixo do frete grátis, então vale comparar o desconto com o valor do frete. E, se você tiver outro cupom da própria loja, como o de boas-vindas ou o de indicação, compare os dois antes de pagar, porque só um entra no pedido."
       ],
       "links": [
@@ -197,7 +197,7 @@
         "Quanto de desconto dá o cupom EMCASACOMCECILIA? 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. Uma Core T-Shirt de R$ 189,00, por exemplo, sai por R$ 160,65. O desconto aparece em cada item do resumo do pedido assim que o cupom é aceito.",
         "Onde digito o cupom na Insider? No campo Cupom de desconto ou Gift Card do checkout, clicando em Aplicar. Pelo link da parceria, o cupom já vem aplicado.",
         "O cupom Insider vale no Outlet? Sim. No nosso teste, o desconto entrou em peça do Outlet e em kit com preço promocional.",
-        "O cupom vale para lançamentos? Não. Produtos de lançamento ficam fora do cupom, e o resumo do pedido mostra quais itens receberam o desconto.",
+        "O cupom vale para lançamentos? Nos primeiros dias, o lançamento pode ficar fora do cupom. Depois, o desconto entra mesmo com a etiqueta de lançamento, e o resumo do pedido mostra quais itens o receberam.",
         "O cupom Insider é cumulativo? Não. A loja aceita um cupom por pedido, e descontos de cupons diferentes não se somam.",
         "Tem cupom Insider para primeira compra? Sim. O EMCASACOMCECILIA vale também na primeira compra, e a própria Insider envia um cupom de boas-vindas a quem cadastra o e-mail no pop-up do site. Quem foi indicado por um cliente pode ter ainda um cupom de R$ 150 em compras acima de R$ 399. Só um cupom entra no pedido, então compare os valores no carrinho.",
         "O cupom tem valor mínimo? Não. No nosso teste, os 15% entraram até numa meia de R$ 25 sozinha no carrinho.",
