@@ -90,6 +90,25 @@
         "caption": "As etapas que a Toda Up publica na página do produto, em 26/10/2026. Quadro nosso.",
         "objectFit": "contain",
         "aspectRatio": 1.8779
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Fita Up",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Por baixo do tomara que caia ou do decote, colada na pele limpa e seca, da base do seio para cima.",
+            "occasion": "Roupa sem alça ou de decote, em que o sutiã apareceria.",
+            "pairsWith": [
+              {
+                "label": "vestido tomara que caia"
+              },
+              {
+                "label": "blusa de decote"
+              }
+            ]
+          }
+        ]
       }
     },
     {

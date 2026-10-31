@@ -182,10 +182,10 @@
     {
       "heading": "Qual escolher para cada uso",
       "paragraphs": [
-        "**Por baixo do blazer ou de alfaiataria.** O Body Gola Alta Manga Longa é o único que a loja cita com blazer, como peça para usar sozinha ou com blazers e casacos. O Duplo e o Decote Reversível são indicados com alfaiataria. Para montar um look de trabalho com blazer, o [artigo sobre look de trabalho com alfaiataria feminina](/reviews/look-trabalho-alfaiataria-feminina-clea-store) é o caminho.",
-        "**Noite e ocasião.** O Body Frente Única é o que a loja indica para encontros e ocasiões especiais, com decote profundo e detalhes franzidos. O Ombro Único tem decote assimétrico e abertura nas costas, e a loja fala em visual moderno e sofisticado para diferentes ocasiões.",
-        "**Casual e dia a dia.** O Body Regata Cavado é descrito pela loja como peça para produções casuais ou sofisticadas. O Decote Reversível muda de look só pela troca do decote, na frente ou nas costas. O Duplo combina com jeans e shorts.",
-        "**Frio.** Só o Body Gola Alta aparece como o que a loja chama de upgrade do body clássico de frio, com gola levemente mais alta e manga longa. A loja não diz que ele aquece, e este texto também não diz."
+        "Gola Alta, Frente Única e Regata Cavado estão nas etiquetas abaixo, com o uso de cada um. Os outros três:",
+        "**Com alfaiataria.** O Duplo e o Decote Reversível são indicados com alfaiataria. Para montar um look de trabalho com blazer, o [artigo sobre look de trabalho com alfaiataria feminina](/reviews/look-trabalho-alfaiataria-feminina-clea-store) é o caminho.",
+        "**Ocasião.** O Ombro Único tem decote assimétrico e abertura nas costas, e a loja fala em visual moderno e sofisticado para diferentes ocasiões.",
+        "**Dia a dia.** O Decote Reversível muda de look pela troca do decote, na frente ou nas costas. O Duplo combina com jeans e shorts."
       ],
       "images": [
         {
@@ -195,7 +195,56 @@
           "objectFit": "contain",
           "aspectRatio": 0.6669
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Body Gola Alta Manga Longa",
+            "url": "https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047",
+            "howTo": "Sozinho ou por baixo de blazer e casaco, segundo a loja.",
+            "occasion": "Trabalho e dias frios.",
+            "pairsWith": [
+              {
+                "label": "Blazer Oversized Alfaiataria Mescla",
+                "url": "https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307",
+                "note": "o nosso look de trabalho monta os dois"
+              },
+              {
+                "label": "calça de alfaiataria"
+              }
+            ]
+          },
+          {
+            "piece": "Body Frente Única Decote Profundo",
+            "url": "https://www.cleastore.com.br/produto/body-frente-unica-decote-second-skin-design-especial-4128",
+            "howTo": "Com o decote à mostra, sem nada por cima.",
+            "occasion": "Encontros e ocasiões especiais, segundo a loja.",
+            "pairsWith": [
+              {
+                "label": "calça de alfaiataria"
+              },
+              {
+                "label": "saia midi"
+              }
+            ]
+          },
+          {
+            "piece": "Body Regata Cavado",
+            "url": "https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185",
+            "howTo": "Como regata de cava funda, com modelagem ajustada.",
+            "occasion": "Fim de semana e calor.",
+            "pairsWith": [
+              {
+                "label": "jeans"
+              },
+              {
+                "label": "shorts"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Cupom CSEMCASACOMCECILIA no body: quanto fica",

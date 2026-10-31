@@ -70,7 +70,34 @@
       "paragraphs": [
         "Nas listagens de camisetas, essenciais, mais vendidos e roupas da loja, lidas em 23/10/2026, todas as camisetas são oversized. A loja chama a oversized de camiseta básica; não há corte regular nem baby look no catálogo lido. A palavra \"oversized\" aparece na descrição de todos os modelos, inclusive no kit Essenciais, e a loja fala em caimento amplo.",
         "Todos vêm em P, M e G. Como o corte é amplo, a escolha do tamanho pede medida. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir busto, cintura e quadril e comparar com o provador da página. Para a modelagem justa dos bodies, que é outra conversa, há o [guia de escolha do body Second Skin](/reviews/body-clea-store-second-skin-qual-escolher)."
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "T-Shirt Oversized Algodão",
+            "url": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
+            "howTo": "Solta, com jeans, short ou saia, segundo a loja.",
+            "occasion": "Dia a dia; com alfaiataria, vira produção mais arrumada.",
+            "pairsWith": [
+              {
+                "label": "Shorts Alfaiataria Rosa Linho",
+                "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402",
+                "note": "a página do shorts diz que ele combina com camisetas básicas"
+              },
+              {
+                "label": "jeans"
+              },
+              {
+                "label": "saia"
+              },
+              {
+                "label": "calça de alfaiataria"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Os 6 modelos de camiseta lado a lado",
