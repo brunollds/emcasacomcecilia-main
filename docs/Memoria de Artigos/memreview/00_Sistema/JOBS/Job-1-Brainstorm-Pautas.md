@@ -43,6 +43,21 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 - Marca concorrente: sem link de afiliado e sem cupom.
 - Quando o parceiro vende mais barato no próprio marketplace, o artigo pode ter os dois botões (o link meli.la e o site com o cupom), dizendo onde cada um ganha, com a data da pesquisa em destaque e o aviso de que o mais barato hoje pode mudar em poucos dias.
 
+### Foto de produto com link de afiliado
+- Quando o produto da foto tem link de afiliado, a foto da seção leva esse link no `href` (imagem em forma de objeto, com `src`, `alt` e `href`): a foto inteira vira o link "Ver na <loja>", e o "Ampliar" fica num botão à parte. Vale em qualquer artigo, não só nos de roupa.
+- Sem link de afiliado (produto sem link de criador, esgotado, concorrente, foto de ambiente), a foto fica sem `href`.
+- O `alt` descreve o produto, porque entra no nome do link. O `href` é o mesmo link do produto no texto ou na tabela, em https.
+- O briefing lista, na seção de mídia, cada foto que leva `href` e o link dela.
+
+### Artigo de roupa: card de estilo
+- Toda pauta de roupa ou moda propõe, por seção de peça, o card "Como usar / Ocasião / Combina com" (campo `styling` da seção; formato no CLAUDE.md do repositório). O card entra no capítulo da peça, não num bloco único no fim (decisão do Bruno, 30/10/2026).
+- Por seção: o modelo (`tabs`, um card por peça com uma aba por campo, ou `tags`, as peças lado a lado com tudo à vista) e de 1 a 3 peças. Por peça: como usar, ocasião e combina com (1 a 4 itens: peça da loja com o link de afiliado dela e nota opcional, ou básico do armário sem link). Cores (`variants`, com o hex da cor) só quando a cor muda a combinação.
+- Como usar diz como vestir, não repete a ficha. Combina com só leva o que acrescenta: nada de chinelo ou meia genéricos; sem combinação útil, a peça fica só com como usar e ocasião (acessórios, pijamas, roupa íntima).
+- Sem preço e sem markdown no card. Sem dizer que alguém do site usou a peça.
+- Link da peça é o de afiliado (na Insider, o link de criador `creators.insiderstore.com.br/<código>`, conferido pelo redirecionamento até o produto certo). Peça sem link fica sem `url`; esgotada fica fora do card.
+- Família de 10 idiomas: o mesmo card e o mesmo `href` em toda versão, na mesma seção e posição; como usar, ocasião e nota traduzidos. Na SHEIN, o link de produto `onelink.shein.com` vale em todo idioma (a SHEIN leva o leitor à loja regional); `br.shein.com` e os links de cupom do PT ficam só no PT. O `test:review-i18n` barra a diferença.
+- O briefing traz o card proposto de cada seção para o Bruno aprovar junto com a pauta.
+
 ### Experiência própria e autoria
 - Pauta que depende de uso ("a camiseta é boa?") fica parada enquanto ninguém do site comprou ou recebeu o produto. Opinião sem uso só sai de ficha, composição e avaliações públicas citadas com número.
 - Quando a experiência é do Bruno (ex.: cliente da Hostinger desde 2024), o artigo sai assinado por ele, com a experiência dele.

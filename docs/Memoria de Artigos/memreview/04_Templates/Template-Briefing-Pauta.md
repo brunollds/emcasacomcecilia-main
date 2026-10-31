@@ -78,6 +78,8 @@ status_i18n: "nao-aplicavel" # nao-aplicavel | em-localizacao | completo
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Planejar compressão, origem/licença, paths locais, upload verificado e `--append`; não confundir upload com publicação nem excluir originais.
 - **Imagens Inline / Seções:** *(Tabelas, fotos do modo de uso, infográficos)*. Mínimo de 1 imagem no corpo além da capa. Propor opções com proporção; nenhuma entra sem o Bruno escolher.
 - **Galeria de Detalhes:** *(Fotos secundárias com legendas ricas)*
+- **Fotos com link de afiliado:** *(Cada foto de produto com link de afiliado leva `href` com esse link; listar foto, alt e link. Sem link, sem `href`. Job 1, seção 1.)*
+- **Card de estilo (só roupa e moda):** *(Por seção de peça: modelo `tabs` ou `tags`, peças, como usar, ocasião e combina com, com o link de cada peça da loja. Job 1, seção 1.)*
 - **Vídeo (se houver):** [ ] Primário (YouTube/MP4) | [ ] Secundário | [ ] Loop decorativo | [ ] Nenhum
 
 ---
