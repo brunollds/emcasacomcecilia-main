@@ -14,6 +14,7 @@ import { isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
 import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
 import { ReviewSectionVideo } from './ReviewSectionVideo';
 import { TrackedCouponPageLink } from './TrackedCouponPageLink';
+import { ArticleStyling } from './article/ArticleStyling';
 
 export interface ReviewSectionContentProps {
   section: ContentSection;
@@ -527,6 +528,10 @@ export function ReviewSectionContent({
             </div>
           </details>
         </div>
+      )}
+
+      {section.styling && (
+        <ArticleStyling styling={section.styling} locale={locale} affiliate={affiliate} reviewSlug={reviewSlug} />
       )}
 
       {section.postParagraphs?.map((paragraph, paragraphIndex) => (

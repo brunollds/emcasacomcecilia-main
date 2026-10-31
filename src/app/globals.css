@@ -84,6 +84,12 @@ html:lang(ja) {
 }
 
 /* 🎬 Animações */
+/* A aba do card de estilo (ArticleStyling) que entra; só com motion-safe. */
+@keyframes styling-in {
+  from { translate: 0 4px; }
+  to { translate: 0 0; }
+}
+
 @keyframes fade-in {
   from { opacity: 0; }
   to { opacity: 1; }

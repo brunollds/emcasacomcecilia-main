@@ -167677,14 +167677,63 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 1
           }
         ],
-        "bullets": [
-          "**Tech T-Shirt, como usar:** é a lisa de todo dia, sozinha ou por baixo de uma camisa aberta.",
-          "**Tech T-Shirt, ocasião:** dia a dia, viagem e trabalho sem formalidade.",
-          "**Tech T-Shirt, combina com:** [Calça Futureform](https://creators.insiderstore.com.br/BnhNLQr), que a Insider vende com a Tech no conjunto Tech Essence, ou [Bermuda Future Shorts](https://creators.insiderstore.com.br/WoER4yJ), do Kit Presente Tecnológico; do armário, jeans escuro ou calça de sarja bege.",
-          "**Tech preta, combina com:** jeans, calça cinza ou bege e tênis branco.",
-          "**Tech branca, combina com:** jeans de qualquer lavagem, calça preta ou azul-marinho e blazer por cima.",
-          "**Tech cinza, combina com:** calça preta, jeans escuro ou azul-marinho; evite calça do mesmo cinza."
-        ]
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Tech T-Shirt",
+              "howTo": "É a lisa de todo dia, sozinha ou por baixo de uma camisa aberta.",
+              "occasion": "Dia a dia, viagem e trabalho sem formalidade.",
+              "pairsWith": [
+                {
+                  "label": "Calça Futureform",
+                  "url": "https://creators.insiderstore.com.br/BnhNLQr",
+                  "note": "a Insider vende com a Tech no conjunto Tech Essence"
+                },
+                {
+                  "label": "Bermuda Future Shorts",
+                  "url": "https://creators.insiderstore.com.br/WoER4yJ",
+                  "note": "do Kit Presente Tecnológico"
+                },
+                {
+                  "label": "jeans escuro"
+                },
+                {
+                  "label": "calça de sarja bege"
+                }
+              ],
+              "variants": [
+                {
+                  "color": "Preta",
+                  "swatch": "#1b1b1d",
+                  "pairsWith": [
+                    "jeans",
+                    "calça cinza ou bege",
+                    "tênis branco"
+                  ]
+                },
+                {
+                  "color": "Branca",
+                  "swatch": "#ffffff",
+                  "pairsWith": [
+                    "jeans de qualquer lavagem",
+                    "calça preta ou azul-marinho",
+                    "blazer por cima"
+                  ]
+                },
+                {
+                  "color": "Cinza",
+                  "swatch": "#9a9ea6",
+                  "pairsWith": [
+                    "calça preta",
+                    "jeans escuro ou azul-marinho"
+                  ],
+                  "avoid": "calça do mesmo cinza"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Heavy e Heavy Slim: corpo e caimento",
@@ -167708,11 +167757,25 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.8344
           }
         ],
-        "bullets": [
-          "**Heavy e Heavy Slim, como usar:** o tecido mais encorpado marca menos o corpo; a Slim, de gola fina e tronco ajustado, fica mais rente.",
-          "**Heavy e Heavy Slim, ocasião:** por baixo de blazer ou jaqueta, em cor neutra.",
-          "**Heavy e Heavy Slim, combina com:** [Calça Director](https://creators.insiderstore.com.br/tyUZiw9) e, do armário, blazer azul-marinho ou cinza."
-        ]
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Heavy e Heavy Slim",
+              "howTo": "O tecido mais encorpado marca menos o corpo; a Slim, de gola fina e tronco ajustado, fica mais rente.",
+              "occasion": "Por baixo de blazer ou jaqueta, em cor neutra.",
+              "pairsWith": [
+                {
+                  "label": "Calça Director",
+                  "url": "https://creators.insiderstore.com.br/tyUZiw9"
+                },
+                {
+                  "label": "blazer azul-marinho ou cinza"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Core e Daily: viscose, gramatura e encolhimento",
@@ -167736,14 +167799,35 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 1
           }
         ],
-        "bullets": [
-          "**Core, como usar:** modelagem regular e textura leve, para usar sozinha.",
-          "**Core, ocasião:** fim de semana e dias de calor.",
-          "**Core, combina com:** [Bermuda Future Shorts](https://creators.insiderstore.com.br/WoER4yJ) ou, do armário, bermuda de sarja com tênis branco.",
-          "**Daily, como usar:** a de menor preço, para ficar em casa ou ir por baixo do moletom.",
-          "**Daily, ocasião:** casa e fim de semana.",
-          "**Daily, combina com:** qualquer bermuda ou jeans do armário."
-        ]
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Core",
+              "howTo": "Modelagem regular e textura leve, para usar sozinha.",
+              "occasion": "Fim de semana e dias de calor.",
+              "pairsWith": [
+                {
+                  "label": "Bermuda Future Shorts",
+                  "url": "https://creators.insiderstore.com.br/WoER4yJ"
+                },
+                {
+                  "label": "bermuda de sarja com tênis branco"
+                }
+              ]
+            },
+            {
+              "piece": "Daily",
+              "howTo": "A de menor preço, para ficar em casa ou ir por baixo do moletom.",
+              "occasion": "Casa e fim de semana.",
+              "pairsWith": [
+                {
+                  "label": "qualquer bermuda ou jeans"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Polo, Henley e NEXTECH",
@@ -167775,17 +167859,55 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 1
           }
         ],
-        "bullets": [
-          "**Polo, como usar:** a gola e os botões arrumam o visual sem chegar a ser camisa.",
-          "**Polo, ocasião:** trabalho casual e almoço; com calça social, é a escolha mais segura entre as camisetas.",
-          "**Polo, combina com:** [Bermuda Future Shorts](https://creators.insiderstore.com.br/WoER4yJ), que a Insider vende com a polo no Kit Presente Casual, e calça social ou chino do armário.",
-          "**Henley, como usar:** os botões na gola deixam a peça entre a camiseta e a polo.",
-          "**Henley, ocasião:** passeio e noite, sem formalidade.",
-          "**Henley, combina com:** [Calça Jogger Hybrid](https://creators.insiderstore.com.br/HEARAam), que a loja vende junto com a Henley, e jeans do armário.",
-          "**NEXTECH, como usar:** sozinha, como peça principal; o caimento é levemente encorpado, segundo a loja.",
-          "**NEXTECH, ocasião:** viagem e dia a dia.",
-          "**NEXTECH, combina com:** [Calça Jogger Hybrid](https://creators.insiderstore.com.br/HEARAam) e jeans do armário."
-        ]
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Polo",
+              "howTo": "A gola e os botões arrumam o visual sem chegar a ser camisa.",
+              "occasion": "Trabalho casual e almoço; com calça social, é a escolha mais segura entre as camisetas.",
+              "pairsWith": [
+                {
+                  "label": "Bermuda Future Shorts",
+                  "url": "https://creators.insiderstore.com.br/WoER4yJ",
+                  "note": "a Insider vende com a polo no Kit Presente Casual"
+                },
+                {
+                  "label": "calça social ou chino"
+                }
+              ]
+            },
+            {
+              "piece": "Henley",
+              "howTo": "Os botões na gola deixam a peça entre a camiseta e a polo.",
+              "occasion": "Passeio e noite, sem formalidade.",
+              "pairsWith": [
+                {
+                  "label": "Calça Jogger Hybrid",
+                  "url": "https://creators.insiderstore.com.br/HEARAam",
+                  "note": "a loja vende junto com a Henley"
+                },
+                {
+                  "label": "jeans"
+                }
+              ]
+            },
+            {
+              "piece": "NEXTECH",
+              "howTo": "Sozinha, como peça principal; o caimento é levemente encorpado, segundo a loja.",
+              "occasion": "Viagem e dia a dia.",
+              "pairsWith": [
+                {
+                  "label": "Calça Jogger Hybrid",
+                  "url": "https://creators.insiderstore.com.br/HEARAam"
+                },
+                {
+                  "label": "jeans"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Esporte e manga longa",
@@ -167793,13 +167915,42 @@ export const reviewsData: unknown[] = [
           "A [Performance T-Shirt 2.0](https://creators.insiderstore.com.br/2Jr6KZn) é de 100% poliamida e sai por R$ 199 a R$ 259. A loja fala em proteção UV50+ e em tecnologia Outlast. A [Sportee](https://creators.insiderstore.com.br/h9UmGZj), de 90% poliamida e 10% elastano, sai por R$ 149 a R$ 155 e também traz UV50+ na descrição. São peças de treino.",
           "A [Tech de manga longa](https://creators.insiderstore.com.br/xAZHBLg) é a mesma Tech em manga longa e sai de R$ 169 a R$ 239, conforme a cor e o tamanho."
         ],
-        "bullets": [
-          "**Performance e Sportee, ocasião:** treino e atividade ao ar livre.",
-          "**Performance T-Shirt 2.0, combina com:** [Calça Jogger Hybrid](https://creators.insiderstore.com.br/HEARAam), que a Insider vende junto com ela; a loja também vende a Tech com o [Shorts Esportivo Endorphine](https://creators.insiderstore.com.br/eWVF5vU).",
-          "**Tech manga longa, como usar:** sozinha no frio ou por baixo de jaqueta e camisa aberta.",
-          "**Tech manga longa, ocasião:** trabalho casual no inverno.",
-          "**Tech manga longa, combina com:** [Calça Jogger Hybrid](https://creators.insiderstore.com.br/HEARAam), que a loja vende junto com ela, e jeans escuro do armário."
-        ]
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Performance e Sportee",
+              "occasion": "Treino e atividade ao ar livre.",
+              "pairsWith": [
+                {
+                  "label": "Calça Jogger Hybrid",
+                  "url": "https://creators.insiderstore.com.br/HEARAam",
+                  "note": "a Insider vende junto com a Performance T-Shirt 2.0"
+                },
+                {
+                  "label": "Shorts Esportivo Endorphine",
+                  "url": "https://creators.insiderstore.com.br/eWVF5vU",
+                  "note": "a loja vende com a Tech"
+                }
+              ]
+            },
+            {
+              "piece": "Tech manga longa",
+              "howTo": "Sozinha no frio ou por baixo de jaqueta e camisa aberta.",
+              "occasion": "Trabalho casual no inverno.",
+              "pairsWith": [
+                {
+                  "label": "Calça Jogger Hybrid",
+                  "url": "https://creators.insiderstore.com.br/HEARAam",
+                  "note": "a loja vende junto com ela"
+                },
+                {
+                  "label": "jeans escuro"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Preço com o cupom e o Pix",

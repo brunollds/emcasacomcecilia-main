@@ -2,6 +2,7 @@
 // schema.org, templates e APIs externas.
 
 import type {
+  ContentSectionStyling,
   InstructionSection,
   PersonRef,
   Recipe,
@@ -185,7 +186,14 @@ export function parseMinutesFromText(timeText: string): number | null {
  * (o link vira o texto dele, o negrito perde os asteriscos); o título e o aviso a página mostra crus.
  */
 export function contentSectionsToPlainText(
-  sections: { heading?: string; paragraphs?: string[]; bullets?: string[]; emphasis?: string; notice?: string }[]
+  sections: {
+    heading?: string;
+    paragraphs?: string[];
+    bullets?: string[];
+    emphasis?: string;
+    notice?: string;
+    styling?: ContentSectionStyling;
+  }[]
 ): string {
   return sections
     .flatMap((section) => [
@@ -194,6 +202,14 @@ export function contentSectionsToPlainText(
       ...(section.bullets || []).map(inlineMarkdownToText),
       section.emphasis && inlineMarkdownToText(section.emphasis),
       section.notice,
+      // O card de estilo, sem os rótulos das abas: a peça, as duas frases e o que combina com ela.
+      ...(section.styling?.items || []).flatMap((item) => [
+        item.piece,
+        item.howTo,
+        item.occasion,
+        ...(item.pairsWith || []).map((pair) => pair.label),
+        ...(item.variants || []).flatMap((variant) => [variant.color, ...variant.pairsWith, variant.avoid]),
+      ]),
     ])
     .filter(Boolean)
     .join(' ');

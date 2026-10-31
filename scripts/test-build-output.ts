@@ -5,6 +5,7 @@ import homeEventsConfig from '../content/home-events.json';
 import { resolveYesStylePage } from '../src/components/coupons/yesstylePage';
 import { COUPON_STORE_COPY } from '../src/components/coupons/couponStoreCopy';
 import { getArticleCopy, getTemplateUi } from '../src/components/review/articleCopy';
+import { getStylingCopy } from '../src/components/review/stylingCopy';
 import { getBodySections } from '../src/components/review/bodySections';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
 import { getSearchCopy } from '../src/components/search/searchCopy';
@@ -1615,6 +1616,34 @@ for (const url of articleUrls) {
     `${pagePath}: FAQPage diferente das perguntas e respostas do acordeão`
   );
   if (visibleFaq.length) faqArticles++;
+
+  // O card de estilo (ArticleStyling): um por seção com `styling`, no modelo dela, com os rótulos do idioma, o texto de
+  // todas as peças no HTML (o das abas fechadas também) e cada link da loja com sponsored.
+  const stylingSections = (review.contentSections ?? []).flatMap((section) => (section.styling ? [section.styling] : []));
+  const stylingCards = [...body.matchAll(/<div\b[^>]*\sdata-article="styling"/g)].map(({ index }) => elementAt(body, index));
+  assert.equal(stylingCards.length, stylingSections.length, `${pagePath}: ${stylingCards.length} cards de estilo para ${stylingSections.length} seções com styling`);
+  stylingSections.forEach((styling, index) => {
+    const card = stylingCards[index];
+    assert.match(card, new RegExp(`^<div\\b[^>]*\\sdata-layout="${styling.layout ?? 'tabs'}"`), `${pagePath}: card de estilo ${index + 1} fora do modelo`);
+    const text = textOf(card);
+    const copy = getStylingCopy(locale);
+    const urls = styling.items.flatMap((item) => [item.url, ...(item.pairsWith ?? []).map((pair) => pair.url)]).filter(Boolean);
+    for (const item of styling.items) {
+      const parts = [
+        item.piece,
+        item.howTo,
+        item.occasion,
+        ...(item.pairsWith ?? []).flatMap((pair) => [pair.label, pair.note]),
+        ...(item.variants ?? []).flatMap((variant) => [variant.color, variant.avoid]),
+      ];
+      for (const part of parts) if (part) assert.ok(text.includes(part), `${pagePath}: card de estilo sem "${part}"`);
+      if (item.howTo) assert.ok(text.includes(copy.howTo), `${pagePath}: card de estilo sem o rótulo "${copy.howTo}"`);
+      if (item.occasion) assert.ok(text.includes(copy.occasion), `${pagePath}: card de estilo sem o rótulo "${copy.occasion}"`);
+    }
+    const links = card.match(/<a\b[^>]*>/g) ?? [];
+    assert.equal(links.length, urls.length, `${pagePath}: card de estilo com ${links.length} links para ${urls.length} endereços`);
+    for (const link of links) assert.match(link, /\srel="sponsored noopener noreferrer"/, `${pagePath}: link do card de estilo sem sponsored`);
+  });
 
   // Os banners de campanha da loja (storeBanners.ts): o `top` logo depois da 1ª seção do corpo e o `mid` logo antes
   // do FAQ (sem FAQ, da última), com o link da campanha, rel sponsored e os textos do idioma; nenhum em outra loja.
