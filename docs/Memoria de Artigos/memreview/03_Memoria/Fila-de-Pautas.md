@@ -91,6 +91,7 @@ Pautas de decisão de compra a partir do autocompletar de 20/10/2026 e da leitur
 | I5 | Insider feminino: Perfect Top, legging e vestido | Estoque (o Perfect Top de alça, halter, cropped e assimétrico fica aqui) |
 | I7 | Camiseta feminina Insider | **Pauta aprovada em 30/10/2026:** [[camiseta-feminina-insider-qual-escolher]] |
 | I8 | Regata feminina Insider | Estoque (sinal forte em 30/10: "regata feminina insider", 10 sugestões) |
+| I9 | Outlet Insider: vale a pena com o cupom | **Pauta aprovada em 31/10/2026:** [[outlet-insider-vale-a-pena-cupom]] |
 | I6 | Insider no Mercado Livre ou no site | **No ar em 28/10/2026 (#325, release `2567b32`, id 625):** [[insider-mercado-livre-ou-site]]; reler os preços três dias antes da Black Friday |
 
 ## Hostinger: agentes de IA (Bruno, 21/10/2026)
