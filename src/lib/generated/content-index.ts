@@ -177529,16 +177529,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual cabe como bagagem de mão",
         "paragraphs": [
-          "A companhia aérea separa a bagagem de mão em duas peças: o item pessoal, que vai debaixo do assento, e a mala pequena, que vai no compartimento de cima. A mochila pode entrar como uma ou como outra, e isso muda o que é grátis. As medidas abaixo são das páginas de bagagem da LATAM e da Azul, lidas em 31/10/2026, e da GOL, lida em 30/10/2026. Elas mudam, então confirme na sua companhia antes de viajar."
+          "A companhia aérea separa a bagagem de mão em duas peças: o item pessoal, que vai debaixo do assento, e a mala pequena, que vai no compartimento de cima. A mochila pode entrar como uma ou como outra, e isso muda o que é grátis. As medidas abaixo são das páginas de bagagem da LATAM e da Azul, lidas em 31/10/2026, e da GOL, lida um dia antes. Elas mudam, então confirme na sua companhia antes de viajar."
         ],
         "bullets": [
           "LATAM, [página de bagagem de mão](https://www.latamairlines.com/br/pt/experiencia/prepare-sua-viagem/bagagem/bagagem-de-mao): bolsa ou mochila de 45 × 35 × 20 cm, contando bolsos e alças, até 10 kg, debaixo do assento, em todas as tarifas. Mala pequena de 55 × 35 × 25 cm, até 12 kg na Economy. A tarifa Basic não inclui a mala pequena. Peça fora da medida vai ao porão, com taxa.",
           "Azul, [página de bagagens](https://www.voeazul.com.br/br/pt/sua-viagem/planeje/bagagens): artigo pessoal de 45 × 35 × 20 cm, debaixo do assento; bagagem de mão de 55 × 35 × 25 cm, até 10 kg.",
-          "GOL, [página de bagagem](https://www.voegol.com.br/informacoes/bagagem), leitura de 30/10: item debaixo do assento de 32 × 43 × 22 cm, até 10 kg; mala pequena de 55 × 35 × 25 cm, até 12 kg, exceto na tarifa Basic."
+          "GOL, [página de bagagem](https://www.voegol.com.br/informacoes/bagagem): item debaixo do assento de 32 × 43 × 22 cm, até 10 kg; mala pequena de 55 × 35 × 25 cm, até 12 kg, exceto na tarifa Basic."
         ],
         "postParagraphs": [
           "Cruzando com a medida da loja: a Vacuum Airtrack (44 × 32 × 20 cm), o kit Royale (45 × 35 × 13 cm) e a Explore fechada (45 × 34 × 10 cm) ficam dentro dos 45 × 35 × 20 cm de LATAM e Azul. Numa passagem Basic da LATAM, que não inclui a mala pequena, uma dessas três é a única bagagem que embarca sem pagar. A Voyage (48,5 cm) e a Donna Grande (48 cm) passam dos 45 cm de altura e entram só como mala pequena, que a Basic não cobre.",
-          "Na GOL, pela leitura de 30/10, nenhuma das cinco cabe no item de 32 × 43 × 22 cm: a mais baixa, a Airtrack, tem 44 cm. Lá, todas entram como mala pequena, fora da tarifa Basic da GOL.",
+          "Na GOL, nenhuma das cinco cabe no item de 32 × 43 × 22 cm: a mais baixa, a Airtrack, tem 44 cm. Lá, todas entram como mala pequena, fora da tarifa Basic da GOL.",
           "Caber na medida não é garantia de embarque. Quem decide é o funcionário no balcão ou no portão, e uma mochila cheia pode passar do que a página do produto diz. Se a sua viagem pede mala com rodinhas, o [comparativo de mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa) cruza as malas com a mesma regra."
         ],
         "images": [
@@ -177588,7 +177588,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive em produto com preço riscado, como a Explore e a Voyage. Vale um cupom por pedido, e a promoção de 50% na 2ª peça é outro cupom, que não soma com ele. No Pix, a loja tira mais 5% sobre o total com cupom: foi o que aconteceu no nosso teste de 22/10/2026, numa mala avulsa.",
+          "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive em produto com preço riscado, como a Explore e a Voyage. Vale um cupom por pedido, e a promoção de 50% na 2ª peça é outro cupom, que não soma com ele. No Pix, a loja tira mais 5% sobre o total com cupom: foi o que aconteceu no nosso teste no carrinho, numa mala avulsa.",
           "Não testamos o cupom no carrinho de uma mochila, por isso não publicamos o valor final de nenhuma delas. Confira o desconto no resumo do pedido antes de pagar. A regra está na página do [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
@@ -178276,12 +178276,6 @@ export const reviewsData: unknown[] = [
           "SkinUp é segunda pele de verdade? É como a loja descreve a linha: corte a laser, acabamento ultrafino e sem costura, para sumir na roupa.",
           "O cupom da Toda Up vale nas duas linhas? Vale, porque o cupom é do site inteiro e dá 10% no carrinho, inclusive em peça já com desconto. A campanha da loja pode entrar antes, então confira o total."
         ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Escrevemos com o que a Toda Up publica nas páginas das dez peças, lidas no dia da publicação, e com os guias de medida da própria loja. Ninguém do site usou as peças. A composição aparece só das peças cuja página a informa, e as propriedades que a loja atribui aos tecidos ficaram de fora. Quando um texto é da loja, aparece como dito por ela, e os preços e os tamanhos oferecidos valem para o dia da leitura."
-        ]
       }
     ]
   },
@@ -178634,12 +178628,6 @@ export const reviewsData: unknown[] = [
           "O Kit Invisible Up vem com a case? Vem. A página diz que acompanha a Case Protetor de Silicone tamanho P (8 cm), além do sutiã de silicone e do par de protetores.",
           "Quantos sutiãs tem o Kit Comfort Up? Três: Comfort Up, Comfort Slim e Comfort Line, na mesma cor, Preto ou Rose.",
           "O cupom da Toda Up vale nos kits? O código é de todo o site, mas não testamos nos kits desta página: aplique no carrinho e confira a linha de desconto no resumo do pedido."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Escrevemos com as páginas dos kits e das peças avulsas no site da Toda Up, lidas no dia da publicação, e a conta foi feita sobre esses preços. Ninguém do site usou os kits. O que é texto da loja aparece como dito por ela, e os preços e as opções de tamanho e cor valem para o dia da leitura."
         ]
       }
     ]
