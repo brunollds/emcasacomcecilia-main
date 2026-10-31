@@ -330,6 +330,12 @@
         "Testamos com o kit de 5 Tech. No carrinho, o kit vira cinco camisetas com o desconto do kit em cada uma, e o cupom entra por cima. O total ficou em R$ 462,75, ou R$ 92,55 por camiseta, com frete grátis.",
         "A Daily não aceita o cupom: a página avisa que o desconto dela já é o máximo.",
         "O Pix tem desconto próprio, que aparece no checkout e soma com o cupom."
+      ],
+      "links": [
+        {
+          "label": "Ver o cupom EMCASACOMCECILIA e a data do último teste",
+          "href": "/cupons/insider"
+        }
       ]
     },
     {
