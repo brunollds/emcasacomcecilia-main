@@ -8,7 +8,7 @@
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[shein-vale-a-pena]]: SHEIN vale a pena? Preço, prazo, imposto e devolução (10 idiomas); no mesmo PR, a data da alíquota zero (12/05) em 2 artigos
 - [ ] [[tamanho-shein-brasil]]: Tamanho SHEIN no Brasil: como ler o Guia de tamanhos de cada peça e o que fazer se não servir (10 idiomas)
-- [ ] [[camiseta-insider-qual-escolher]]: Camiseta Insider: qual escolher (Tech, Core, Heavy, Polo, Henley) (PT); links de criador da Heavy e da Tech feminina com o Bruno
+- [ ] [[camiseta-insider-qual-escolher]]: Camiseta Insider: qual escolher (Tech, Core, Heavy, Polo, Henley) (PT); revisão: piloto "Como usar / Ocasião / Combina com" (briefing, seção 11)
 - [ ] [[sutia-toda-up-qual-escolher]]: Sutiã Toda Up: Comfort Up, Line ou Slim (PT)
 - [ ] [[kit-insider-quando-compensa]]: Kit Insider: quando compensa contra peças avulsas (14 de 17 kits mais baratos; Tech 5 e 10 de 16% a 23%) (PT); teste do cupom em kit com o Bruno
 - [ ] [[glutamina-qual-escolher-black-skull-max-probiotica]]: Glutamina: qual escolher (Black Skull, Max e Probiótica) pelo rótulo e pelo preço por 100 g (PT)

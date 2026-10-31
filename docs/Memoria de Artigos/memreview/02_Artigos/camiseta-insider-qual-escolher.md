@@ -8,7 +8,7 @@ reviewKind: "guia"
 type: "Guia de Escolha"
 status: "pauta-aprovada"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "revisao: piloto Como usar / Ocasião / Combina com (seção 11)"
 bloqueado_por: "-"
 data_criacao: "2026-10-30"
 pauta_id: "I3"
@@ -176,3 +176,59 @@ Fatos: `camiseta-insider-qual-escolher-fatos-3010.md`, ao lado.
 
 1. Links no formato que os artigos no ar de cada loja já usam (Insider: links de criador; Toda Up: `/discount/MAUAD` como veio). MAUAD é sobrenome da Cecília: só como código em frase, nunca em destaque. Tabela com o preço do cartão de 30/10, datado; cupom e Pix numa frase. Ninguém do site usou as peças; o que a ficha promete (tecido, caimento) vai atribuído. Pendentes do briefing: conferir no Chrome antes de publicar; sem confirmação, não afirma. Reler preços no dia.
 2. Insider: cupom de 15%, não vale em lançamentos nem loja física, 1 cupom por pedido. Não repete as seções Tech/Daily/Core do `insider-vale-a-pena`: linka. Light fora (só no Mercado Livre). Core a R$ 103 em 30/10 contra R$ 179 em 12 e 15/10: ler no Chrome antes de publicar e dizer "em promoção" só se a ficha mostrar. Polo com dois produtos (R$ 151 e R$ 249): nomear cada um. **Pendente do Bruno:** links de criador da Heavy e da Tech feminina; sem eles, a peça entra sem link de compra ou fica fora.
+
+## 11. Revisão 30/10/2026: piloto "Como usar / Ocasião / Combina com"
+
+Pedido do Bruno (30/10/2026): os artigos de roupa estão "preço + composição"; falta dizer como usar, em que ocasião e com o que combina (homem tem mais dúvida). Este artigo é o piloto; o padrão só vai aos outros artigos de roupa depois que o Bruno aprovar o resultado.
+
+**Formato (decisão do Bruno e parecer da sessão "Redesenho do site"):**
+- Nada de seção nova. Cada bloco entra **no fim do capítulo da peça**, como bullets (os capítulos 2 a 6 hoje não têm bullets).
+- Formato fixo, sempre igual, para um script migrar depois para um card próprio (`styling`):
+  - "**<Peça>, como usar:** …"
+  - "**<Peça>, ocasião:** …"
+  - "**<Peça>, combina com:** [<peça da Insider>](<link de criador>) e <básico do armário>."
+- **Só link, sem preço** na peça de complemento (decisão do Bruno): o preço envelhece.
+- "Combina com" começa pela peça que a Insider vende junto com a camiseta (conjunto, kit ou "compre junto" do catálogo de 30/10, fato da loja; pode citar o nome do kit) e termina com um básico do armário, sem link e sem outra loja (orientação do guia).
+- Uma frase por rótulo. Ninguém do site usou as peças: nada de "fica ótimo", "testamos", "veste bem".
+- Brindes e "compre 1 e ganhe 1" da Insider ficam de fora (promoção sem prazo conhecido).
+
+**Links de criador das peças de complemento (Bruno, 30/10; conferidos pelo redirecionamento):**
+
+| Peça | Link |
+|---|---|
+| Calça Futureform | https://creators.insiderstore.com.br/BnhNLQr |
+| Calça Director | https://creators.insiderstore.com.br/tyUZiw9 |
+| Calça Jogger Hybrid | https://creators.insiderstore.com.br/HEARAam |
+| Bermuda Future Shorts | https://creators.insiderstore.com.br/WoER4yJ |
+| Shorts Esportivo Endorphine | https://creators.insiderstore.com.br/eWVF5vU |
+| Daily T-Shirt (a camiseta, que o artigo cita sem link) | https://creators.insiderstore.com.br/bRopqTz |
+
+Sem link (em falta, segundo o Bruno): Henley, Bermuda Ripstop Sail In, Polo Game Changer. O Bruno achou só a **Polo Grafeno Edition** (https://creators.insiderstore.com.br/WmDje65), que é outra polo; o artigo fala da Game Changer. Citar a Grafeno só se couber numa frase, sem trocar a polo do artigo.
+
+**Onde entra cada bloco (conteúdo; a redação final é da sessão de artigos):**
+
+1. *Tech T-Shirt: a base do dia a dia*
+   - Tech, como usar: a básica lisa de todo dia, sozinha ou por baixo de camisa aberta.
+   - Ocasião: dia a dia, viagem, trabalho sem formalidade.
+   - Combina com: Calça Futureform (a Insider vende as duas no conjunto Tech Essence) ou Bermuda Future Shorts (Kit Presente Tecnológico); no armário, jeans escuro ou sarja bege.
+   - Mais três bullets por cor (respondem às buscas "camiseta preta/branca/cinza combina com"): preta com jeans, calça cinza ou bege e tênis branco; branca com jeans de qualquer lavagem, calça preta ou azul-marinho, e por baixo do blazer; cinza com preta, jeans escuro ou azul-marinho, evitando calça do mesmo cinza.
+2. *Heavy e Heavy Slim: corpo e caimento* (um bloco para as duas)
+   - Como usar: mais encorpada (20%, segundo a loja), marca menos; a Slim tem gola fina e tronco ajustado.
+   - Ocasião: por baixo de blazer ou jaqueta, em cor neutra (busca "camiseta por baixo do blazer").
+   - Combina com: Calça Director; no armário, blazer azul-marinho ou cinza.
+3. *Core e Daily: viscose, gramatura e encolhimento*
+   - Core: textura leve, modelagem regular; fim de semana e calor; Bermuda Future Shorts e, no armário, bermuda de sarja e tênis branco.
+   - Daily: a de menor preço (sem cupom), pode encolher até 2 cm; casa e por baixo de moletom; qualquer bermuda ou jeans do armário. Pôr o link bRopqTz na Daily.
+4. *Polo, Henley e NEXTECH*
+   - Polo: gola e botões arrumam sem ser camisa; trabalho casual e almoço (busca "camiseta com calça social": a polo é a resposta mais segura); a Insider vende polo com a Bermuda Future Shorts no Kit Presente Casual; no armário, calça social ou chino.
+   - Henley: os botões na gola ficam entre a camiseta e a polo; casual e noite; Calça Jogger Hybrid (a loja vende as duas juntas); no armário, jeans.
+   - NEXTECH: liocel, caimento mais encorpado; viagem e dia a dia; Calça Jogger Hybrid; no armário, jeans.
+   - São 9 bullets; se pesar na leitura, avisar o Bruno (sinal a favor do card).
+5. *Esporte e manga longa*
+   - Treino: a Insider vende a Performance T-Shirt 2.0 com a Calça Jogger Hybrid e a Tech com o Shorts Esportivo Endorphine.
+   - Manga longa: a Tech no frio, sozinha ou por baixo; trabalho casual no inverno; Calça Jogger Hybrid (a loja vende as duas juntas).
+6. *Perguntas frequentes* (2 novas)
+   - "Dá para usar camiseta com calça social?" Dá, em look de trabalho menos formal: polo ou camiseta lisa de cor neutra.
+   - "Qual camiseta usar por baixo do blazer?" Lisa, de cor neutra e gola careca; entre as da Insider, a Heavy é a mais encorpada.
+
+**Card (depois):** a sessão "Redesenho do site" desenhou o card (`styling` na seção, `ArticleStylingCard`, rótulos no `articleCopy.ts`, placement `review_styling`). Só entra depois que o Bruno aprovar o padrão, num PR próprio que migra os bullets já escritos.
