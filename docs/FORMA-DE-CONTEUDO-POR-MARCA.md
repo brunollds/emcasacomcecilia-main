@@ -66,6 +66,9 @@ de validade.
 
 A página de cupom é o destino principal e o conteúdo alimenta ela. Vale investir em regras,
 validade, FAQ e histórico — a pessoa chega pela consulta de cupom e o código está no snippet.
+O mês também conta: a concorrência publica "cupom <marca> <mês seguinte>" no dia 20, então o título e
+o quadro da página passam para o mês seguinte com o teste feito a partir do dia 20 e o "testado em"
+avança no dia 1 (rotina em `docs/MANUTENCAO-MENSAL.md`).
 Conteúdo de confiança e review sustenta a marca em volta.
 
 ### Comercial perdido (caso Dolce Gusto)

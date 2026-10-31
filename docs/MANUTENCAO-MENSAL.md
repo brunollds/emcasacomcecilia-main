@@ -49,6 +49,15 @@ depende do tipo:
   Google não a pune, e ela fica sozinha nas respostas de IA na virada do mês se não antecipamos.
   Sem o teste, o título fica no mês corrente. Os de ciclo (abaixo) só antecipam com a condição do
   próximo ciclo confirmada.
+- **O mês da página segue o mesmo corte (31/10/2026):** o quadro "Cupom <Loja> atualizado: … (<mês>
+  <ano>)" das páginas de loja mostra o mês da oferta, não o do teste: `getOfferMonth`
+  (`src/lib/offerMonth.ts`) dá o mês seguinte para teste feito do dia 20 em diante, sozinho, sem
+  editar texto. O "Cupom testado em" continua com a data real. O `test:coupon-offer-modes` barra
+  título com mês diferente do mês da oferta. Nos de ciclo, teste do dia 20 em diante só com o ciclo
+  seguinte confirmado, porque ele já põe o mês seguinte na página.
+- **Dia 1 (decisão do Bruno, 31/10/2026):** a rodada de testes reais de todas as lojas com código
+  acontece no dia 1 do mês, ou no primeiro momento possível dele, com deploy no mesmo dia, para o
+  "Cupom testado em" já mostrar o mês novo desde o começo. Sem o teste, a data antiga fica.
 - **De ciclo (têm data de término real):** `dolce-gusto` e `nestle-nutre` (ambos `CECI`). Em
   26/10/2026, o Bruno confirmou o ciclo de novembro de 2026 e os dois foram testados no carrinho. Aqui a
   regra padrão vale sem atalho: só publicar a condição do próximo ciclo quando a marca ou a
@@ -63,7 +72,8 @@ depende do tipo:
 
 ### No último dia útil ou no dia 1
 
-- testar cada código no checkout ou reconfirmar a condição por fonte oficial;
+- testar cada código no checkout ou reconfirmar a condição por fonte oficial, de preferência no dia 1,
+  e fazer o deploy no mesmo dia;
 - registrar a **data real** do teste;
 - atualizar mês de title, description e texto visível somente nas ofertas reconferidas: nas páginas
   de loja, o `(out/2026)` do fim do `metaTitle` e o "testado em dd/mm/aaaa" do começo da

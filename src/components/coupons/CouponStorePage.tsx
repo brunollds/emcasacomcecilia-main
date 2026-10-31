@@ -4,6 +4,7 @@ import { CouponStoreLink } from '@/components/CouponComponents';
 import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslations';
 import { getOtherActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
+import { getOfferMonthDate } from '@/lib/offerMonth';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
 import { SITE_NAME, SITE_URL, absoluteUrl, getStoreSocialImage } from '@/lib/pageSeo';
@@ -233,7 +234,8 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
       copy.instructions.code({ code: couponCodeOffer.code, brand: coupon.brand, discount: coupon.discount })
     : affiliateLinkOffer?.linkInstructions || copy.instructions.link(coupon.brand);
   const lastVerified = formatLongDate(coupon.lastVerified);
-  const highlightDate = new Date(`${coupon.lastVerified}T12:00:00`);
+  // O mês da oferta, não o do teste: teste do dia 20 em diante já vale para o mês seguinte.
+  const highlightDate = getOfferMonthDate(coupon.lastVerified);
   const highlightMonthYear = `${highlightDate.toLocaleDateString(copy.dateLocale, {
     month: 'long',
   })} ${highlightDate.getFullYear()}`;

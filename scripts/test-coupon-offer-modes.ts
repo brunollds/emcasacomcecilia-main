@@ -7,6 +7,7 @@ import {
   getStoreCodeKind,
   type AffiliateLinkOffer,
 } from '../src/lib/couponsData';
+import { getOfferMonth } from '../src/lib/offerMonth';
 
 const shein = COUPONS.find((coupon) => coupon.slug === 'shein');
 assert.ok(shein && shein.offerMode === 'affiliate-link', 'SHEIN deve existir como affiliate-link');
@@ -239,6 +240,23 @@ try {
 } finally {
   const testIndex = COUPONS.findIndex((coupon) => coupon.slug === affiliateLinkOffer.slug);
   if (testIndex !== -1) COUPONS.splice(testIndex, 1);
+}
+
+// Mês da oferta (docs/MANUTENCAO-MENSAL.md, "Antecipar o mês"): teste do dia 20 em diante vale para o mês
+// seguinte, e o mês no fim do título é sempre o mês da oferta, nunca um mês sem teste.
+assert.deepEqual(getOfferMonth('2026-10-19'), { year: 2026, month: 10 });
+assert.deepEqual(getOfferMonth('2026-10-20'), { year: 2026, month: 11 });
+assert.deepEqual(getOfferMonth('2026-12-28'), { year: 2027, month: 1 });
+const TITLE_MONTHS = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'];
+for (const coupon of COUPONS.filter((item) => item.status === 'ativo')) {
+  const titleMonth = coupon.metaTitle?.match(/\(([a-z]{3})\/(\d{4})\)$/);
+  if (!titleMonth || !coupon.lastVerified) continue;
+  const { year, month } = getOfferMonth(coupon.lastVerified);
+  assert.equal(
+    `${titleMonth[1]}/${titleMonth[2]}`,
+    `${TITLE_MONTHS[month - 1]}/${year}`,
+    `${coupon.slug}: o mês do título não é o mês da oferta testada em ${coupon.lastVerified}`
+  );
 }
 
 console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Hostinger e prateleiras do hub conferidos.");
