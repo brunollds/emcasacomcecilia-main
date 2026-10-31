@@ -24,6 +24,7 @@ export interface ReviewSectionContentProps {
   reviewSlug?: string;
   coupon?: string;
   affiliate?: string;
+  storeBrand?: string;
   locale?: Locale;
 }
 
@@ -108,9 +109,12 @@ export function ReviewSectionContent({
   reviewSlug,
   coupon,
   affiliate,
+  storeBrand,
   locale = 'pt',
 }: ReviewSectionContentProps): React.ReactElement {
   const showDropCap = isFirst && Boolean(kind);
+  // A loja das fotos com link de produto (o "Ver na <loja>" e a medição).
+  const imageStore = affiliate && storeBrand ? { slug: affiliate, brand: storeBrand } : undefined;
   const { comparisonTable } = section;
   const comparisonCaption = comparisonTable?.caption || section.heading || `Tabela comparativa de ${reviewTitle}`;
   const comparisonScrolls = (comparisonTable?.headers.length ?? 0) >= COMPARISON_SCROLL_MIN_COLUMNS;
@@ -159,6 +163,8 @@ export function ReviewSectionContent({
             section={{ image: section.image, imageFit: section.imageFit || 'portrait', imageAlt: section.imageAlt || reviewTitle }}
             reviewTitle={reviewTitle}
             locale={locale}
+            store={imageStore}
+            reviewSlug={reviewSlug}
           />
         </div>
       )}
@@ -203,7 +209,7 @@ export function ReviewSectionContent({
       {section.emphasis && !section.emphasisAfterParagraph && renderEmphasisBlock(true)}
 
       {(section.image || (section.images && section.images.length > 0)) && (!section.emphasis || section.emphasisAfterParagraph != null) && (
-        <ReviewInlineImage section={section} reviewTitle={reviewTitle} locale={locale} />
+        <ReviewInlineImage section={section} reviewTitle={reviewTitle} locale={locale} store={imageStore} reviewSlug={reviewSlug} />
       )}
 
       {comparisonTable && (

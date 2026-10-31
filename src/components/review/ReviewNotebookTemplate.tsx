@@ -297,6 +297,7 @@ export function ReviewNotebookTemplate({
                         reviewSlug={review.slug}
                         coupon={review.coupon}
                         affiliate={review.affiliate}
+                        storeBrand={store?.brand}
                         locale={couponCopyLocale}
                         noteLabels={noteLabels}
                         slots={bannerSlots}
@@ -326,6 +327,7 @@ export function ReviewNotebookTemplate({
                             reviewSlug={review.slug}
                             coupon={review.coupon}
                             affiliate={review.affiliate}
+                            storeBrand={store?.brand}
                             locale={couponCopyLocale}
                             noteLabels={noteLabels}
                             slots={bannerSlots}
@@ -344,6 +346,7 @@ export function ReviewNotebookTemplate({
                       reviewSlug={review.slug}
                       coupon={review.coupon}
                       affiliate={review.affiliate}
+                      storeBrand={store?.brand}
                       locale={couponCopyLocale}
                       noteLabels={noteLabels}
                       slots={bannerSlots}
