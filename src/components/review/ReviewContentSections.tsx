@@ -17,6 +17,8 @@ export interface ReviewContentSectionsProps {
   reviewSlug?: string;
   coupon?: string;
   affiliate?: string;
+  // A marca da loja (couponsData), para o "Ver na <loja>" das fotos de produto.
+  storeBrand?: string;
   locale?: Locale;
   noteLabels: EditorialNoteLabels;
   // O que entra antes ou depois de uma seção, pelo id dela: os banners de campanha da loja.
@@ -52,6 +54,7 @@ export function ReviewContentSections({
   reviewSlug,
   coupon,
   affiliate,
+  storeBrand,
   locale = 'pt',
   noteLabels,
   slots = {},
@@ -113,6 +116,7 @@ export function ReviewContentSections({
                   reviewSlug={reviewSlug}
                   coupon={coupon}
                   affiliate={affiliate}
+                  storeBrand={storeBrand}
                   locale={locale}
                 />
               </MarginNoteRail>

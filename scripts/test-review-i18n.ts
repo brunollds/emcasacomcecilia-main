@@ -29,7 +29,32 @@ interface ReviewSource {
   affiliate?: string;
   coupon?: string;
   cta?: { url?: string };
-  contentSections?: Array<{ heading?: string; bullets?: string[]; links?: Array<{ href?: string }>; styling?: ContentSectionStyling }>;
+  contentSections?: Array<{
+    heading?: string;
+    bullets?: string[];
+    links?: Array<{ href?: string }>;
+    styling?: ContentSectionStyling;
+    image?: string | { href?: string };
+    images?: Array<{ href?: string }>;
+  }>;
+}
+
+// O link de produto das fotos (o `href` da imagem da seção): numa família, a mesma lista de links, seção a seção e na
+// ordem das fotos, em toda versão. Foto sem link conta como vazio, para a posição bater.
+function imageLinkFamilyProblems(family: ReviewSource[]): string[] {
+  const portuguese = family.find((review) => resolveReviewLocale(review.locale) === 'pt');
+  if (!portuguese) return [];
+  const linksOf = (review: ReviewSource) =>
+    JSON.stringify(
+      (review.contentSections ?? []).map((section) =>
+        [...(typeof section.image === 'object' && section.image ? [section.image] : []), ...(section.images ?? [])].map((image) => image.href ?? '')
+      )
+    );
+  const reference = linksOf(portuguese);
+  if (!reference.includes('http')) {
+    return family.filter((review) => linksOf(review).includes('http')).map((review) => `${review.slug}: foto com link que o português não tem`);
+  }
+  return family.filter((review) => linksOf(review) !== reference).map((review) => `${review.slug}: links das fotos diferentes do português`);
 }
 
 // O card de estilo (ArticleStyling) numa família: as mesmas seções com card, no mesmo modelo, com as mesmas peças
@@ -416,6 +441,7 @@ const storeReferralLabel = (locale: Locale) =>
       `${key}: seção de FAQ não reconhecida em ${withoutFaq.map((review) => review.locale).join(', ')}`
     );
     assert.deepEqual(stylingFamilyProblems(family), [], `${key}: card de estilo diferente entre as versões`);
+    assert.deepEqual(imageLinkFamilyProblems(family), [], `${key}: link de produto das fotos diferente entre as versões`);
     const portugueseType = family.find((review) => resolveReviewLocale(review.locale) === 'pt')?.type;
     for (const review of family) {
       assert.deepEqual(typeProblems(review, portugueseType), [], `${review.slug}: type fora do idioma do artigo`);
@@ -456,6 +482,21 @@ const storeReferralLabel = (locale: Locale) =>
   );
   assert.equal(stylingFamilyProblems(stylingFamily(stylingCard('Com calça social.', 'sold in the kit'))).length, 1, 'texto em português falha');
   assert.equal(stylingFamilyProblems(stylingFamily(stylingCard('With dress pants.', 'sold in the kit', { occasion: 'Work.' }))).length, 1, 'campo a mais falha');
+
+  // O guarda dos links das fotos, provado em famílias que falham e que passam.
+  const photoFamily = (english: ReviewSource['contentSections']): ReviewSource[] => [
+    { slug: 'pt', contentSections: [{ heading: 'A', images: [{ href: 'https://onelink.shein.com/1' }, {}] }] },
+    { slug: 'en', locale: 'en', contentSections: english },
+  ];
+  assert.deepEqual(imageLinkFamilyProblems(photoFamily([{ heading: 'A', images: [{ href: 'https://onelink.shein.com/1' }, {}] }])), [], 'mesmos links passam');
+  assert.equal(imageLinkFamilyProblems(photoFamily([{ heading: 'A', images: [{}, { href: 'https://onelink.shein.com/1' }] }])).length, 1, 'link em outra foto falha');
+  assert.equal(imageLinkFamilyProblems(photoFamily([{ heading: 'A', images: [{ href: 'https://onelink.shein.com/2' }, {}] }])).length, 1, 'outro link falha');
+  assert.equal(imageLinkFamilyProblems(photoFamily([{ heading: 'A', images: [{}, {}] }])).length, 1, 'versão sem o link falha');
+  assert.equal(
+    imageLinkFamilyProblems([{ slug: 'pt', contentSections: [] }, { slug: 'en', locale: 'en', contentSections: [{ image: { href: 'https://x.com/' } }] }]).length,
+    1,
+    'link que o português não tem falha'
+  );
 
   // O link da página da loja segue o idioma do artigo: /cupons/<marca> em português e
   // /<locale>/coupons/<marca> nos outros idiomas, que não têm hub de cupons.

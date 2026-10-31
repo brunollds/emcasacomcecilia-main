@@ -3,7 +3,9 @@
 import Image from 'next/image';
 import { createPortal } from 'react-dom';
 import { useState, useCallback, useEffect, useRef } from 'react';
-import { Maximize2, X, ChevronLeft, ChevronRight } from 'lucide-react';
+import { ArrowUpRight, Maximize2, X, ChevronLeft, ChevronRight } from 'lucide-react';
+import { CouponStoreLink } from '@/components/CouponComponents';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import { useReviewMediaBlur } from '@/components/review/useReviewMediaBlur';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
@@ -40,6 +42,7 @@ function normalizeImages(section, reviewTitle) {
       alt: (typeof section.image === 'string' ? section.imageAlt : section.image?.alt) || section.heading || reviewTitle,
       caption,
       aspectRatio,
+      href: typeof section.image === 'string' ? undefined : section.image?.href,
       fit: fit === 'portrait' ? 'portrait' : fit === 'wide' ? 'wide' : fit === 'panoramic' ? 'panoramic' : fit === 'square' ? 'square' : fit === 'contain' ? 'contain' : 'cover',
     });
   }
@@ -51,6 +54,7 @@ function normalizeImages(section, reviewTitle) {
         alt: item.alt || section.heading || reviewTitle,
         caption: item.caption,
         aspectRatio: Number.isFinite(item.aspectRatio) && item.aspectRatio > 0 ? item.aspectRatio : undefined,
+        href: item.href,
         fit: item.objectFit === 'portrait' ? 'portrait' : item.objectFit === 'wide' ? 'wide' : item.objectFit === 'panoramic' ? 'panoramic' : item.objectFit === 'square' ? 'square' : item.objectFit === 'contain' ? 'contain' : 'cover',
       });
     }
@@ -59,7 +63,7 @@ function normalizeImages(section, reviewTitle) {
   return images;
 }
 
-function InlineImageThumbnail({ image, index, onOpen, sizes, copy, normalizeCarousel = false }) {
+function InlineImageThumbnail({ image, index, onOpen, sizes, copy, normalizeCarousel = false, product }) {
   const [pendingReveal, setPendingReveal] = useState(true);
   const isPortrait = image.fit === 'portrait';
   const isContain = image.fit === 'contain';
@@ -124,6 +128,23 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, copy, normalizeCaro
     };
   }, []);
 
+  const media = (
+    <div
+      className={`relative w-full ${
+        image.aspectRatio ? '' : normalizeCarousel ? 'aspect-square bg-slate-900/5' : isPortrait ? 'aspect-[9/16] max-w-md mx-auto bg-slate-900/5' : isPanoramic ? 'aspect-[6/1]' : isWide ? 'aspect-[4/1]' : isSquare ? 'aspect-square' : 'aspect-video'
+      }`}
+      style={image.aspectRatio ? { aspectRatio: image.aspectRatio } : undefined}
+    >
+      <Image
+        src={resolveMediaUrl(image.src)}
+        alt={image.alt}
+        fill
+        className={normalizeCarousel ? 'object-contain p-1.5' : isPortrait ? 'object-contain p-1.5' : isSquare ? 'object-cover' : (isContain || isWide || isPanoramic) ? 'object-contain' : 'object-cover'}
+        sizes={sizes}
+      />
+    </div>
+  );
+
   return (
     <figure
       ref={ref}
@@ -133,32 +154,50 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, copy, normalizeCaro
         pendingReveal ? 'inline-image-reveal-pending' : 'inline-image-reveal-ready'
       }`}
     >
-      <button
-        ref={mediaRef}
-        type="button"
-        onClick={(event) => onOpen(index, event.currentTarget)}
-        className="group relative block w-full overflow-hidden rounded-[1.25rem] bg-white transition-[filter,opacity] duration-150"
-        aria-label={copy.enlargeNamed(image.alt)}
-      >
-        <div
-          className={`relative w-full ${
-            image.aspectRatio ? '' : normalizeCarousel ? 'aspect-square bg-slate-900/5' : isPortrait ? 'aspect-[9/16] max-w-md mx-auto bg-slate-900/5' : isPanoramic ? 'aspect-[6/1]' : isWide ? 'aspect-[4/1]' : isSquare ? 'aspect-square' : 'aspect-video'
-          }`}
-          style={image.aspectRatio ? { aspectRatio: image.aspectRatio } : undefined}
-        >
-          <Image
-            src={resolveMediaUrl(image.src)}
-            alt={image.alt}
-            fill
-            className={normalizeCarousel ? 'object-contain p-1.5' : isPortrait ? 'object-contain p-1.5' : isSquare ? 'object-cover' : (isContain || isWide || isPanoramic) ? 'object-contain' : 'object-cover'}
-            sizes={sizes}
-          />
+      {image.href ? (
+        // Foto de produto: a foto é o link de afiliado e o "Ampliar" é um botão à parte, irmão do link (link dentro de
+        // botão é HTML inválido).
+        <div ref={mediaRef} className="group relative block w-full overflow-hidden rounded-[1.25rem] bg-white transition-[filter,opacity] duration-150">
+          <CouponStoreLink
+            href={image.href}
+            brand={product.store?.slug}
+            contentSlug={product.reviewSlug}
+            sponsored
+            placement="review_image"
+            ariaLabel={copy.viewProductNamed(image.alt, product.store)}
+            className={`block rounded-[1.25rem] ${FOCUS_RING}`}
+          >
+            {media}
+            <span className="absolute bottom-3 left-3 inline-flex items-center gap-1 rounded-full border-2 border-marinho bg-amarelo-cupom px-3 py-1.5 text-xs font-extrabold text-marinho shadow-[2px_2px_0_var(--color-marinho)] transition-transform group-hover:-translate-y-px">
+              {copy.viewProduct(product.store)}
+              <ArrowUpRight aria-hidden="true" className="h-3.5 w-3.5" />
+            </span>
+          </CouponStoreLink>
+          <button
+            type="button"
+            onClick={(event) => onOpen(index, event.currentTarget)}
+            className={`absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity hover:opacity-100 ${FOCUS_RING}`}
+            aria-label={copy.enlargeNamed(image.alt)}
+          >
+            <Maximize2 aria-hidden="true" className="h-3.5 w-3.5" />
+            {copy.enlarge}
+          </button>
         </div>
-        <span className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity group-hover:opacity-100">
-          <Maximize2 className="h-3.5 w-3.5" />
-          {copy.enlarge}
-        </span>
-      </button>
+      ) : (
+        <button
+          ref={mediaRef}
+          type="button"
+          onClick={(event) => onOpen(index, event.currentTarget)}
+          className="group relative block w-full overflow-hidden rounded-[1.25rem] bg-white transition-[filter,opacity] duration-150"
+          aria-label={copy.enlargeNamed(image.alt)}
+        >
+          {media}
+          <span className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity group-hover:opacity-100">
+            <Maximize2 className="h-3.5 w-3.5" />
+            {copy.enlarge}
+          </span>
+        </button>
+      )}
       {image.caption && (
         <figcaption className="px-2 pt-2.5 text-sm leading-relaxed text-gray-600">
           {image.caption}
@@ -168,7 +207,7 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, copy, normalizeCaro
   );
 }
 
-function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy }) {
+function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy, product }) {
   const image = images[currentIndex];
   const dialogRef = useRef(null);
   const closeButtonRef = useRef(null);
@@ -275,6 +314,23 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy }) {
         </div>
       </div>
 
+      {image.href && (
+        <span className="mt-3 shrink-0" onClick={(e) => e.stopPropagation()}>
+          <CouponStoreLink
+            href={image.href}
+            brand={product.store?.slug}
+            contentSlug={product.reviewSlug}
+            sponsored
+            placement="review_image"
+            ariaLabel={copy.viewProductNamed(image.alt, product.store)}
+            className="inline-flex min-h-11 items-center gap-1.5 rounded-full border-2 border-marinho bg-amarelo-cupom px-5 py-2 text-sm font-extrabold text-marinho focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-black"
+          >
+            {copy.viewProduct(product.store)}
+            <ArrowUpRight aria-hidden="true" className="h-4 w-4" />
+          </CouponStoreLink>
+        </span>
+      )}
+
       {images.length > 1 && (
         <div className="mt-3 flex shrink-0 items-center gap-4 text-white">
           <button
@@ -315,8 +371,10 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy }) {
   );
 }
 
-export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt' }) {
+// `store` ({ slug, brand }) e `reviewSlug` servem às fotos com link de produto: o texto "Ver na <loja>" e a medição.
+export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt', store, reviewSlug }) {
   const copy = getGalleryCopy(locale);
+  const product = { store, reviewSlug };
   const images = normalizeImages(section, reviewTitle);
   const [openIndex, setOpenIndex] = useState(null);
   const lastTriggerRef = useRef(null);
@@ -376,6 +434,7 @@ export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt' 
                   onOpen={handleOpen}
                   sizes={thumbnailSizes}
                   copy={copy}
+                  product={product}
                   normalizeCarousel={normalizeMixedCarousel}
                 />
               </div>
@@ -416,6 +475,7 @@ export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt' 
               onOpen={handleOpen}
               sizes={thumbnailSizes}
               copy={copy}
+              product={product}
             />
           ))}
         </div>
@@ -429,6 +489,7 @@ export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt' 
           onNext={handleNext}
           onPrev={handlePrev}
           copy={copy}
+          product={product}
         />
       )}
     </>

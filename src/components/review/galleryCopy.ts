@@ -1,4 +1,5 @@
 import type { Locale } from '@/lib/i18n/locales';
+import { inStore, type StoreName } from '@/lib/storeNames';
 
 // O francês pede espaço antes de : ; ? ! e %, e ele não pode quebrar a linha.
 const NBSP = ' ';
@@ -31,6 +32,10 @@ export type GalleryCopy = {
   enlargeNamed: (alt: string) => string;
   enlargedImage: (position: number, total: number) => string;
   imageCarousel: string;
+  // A foto com link de produto (`href`): o selo na foto e no lightbox e o nome do link, que avisa a nova aba. Sem a
+  // loja do artigo, o texto fala só no produto.
+  viewProduct: (store?: StoreName) => string;
+  viewProductNamed: (alt: string, store?: StoreName) => string;
 };
 
 const galleryCopy: Record<Locale, GalleryCopy> = {
@@ -58,6 +63,8 @@ const galleryCopy: Record<Locale, GalleryCopy> = {
     enlargeNamed: (alt) => `Ampliar imagem: ${alt}`,
     enlargedImage: (position, total) => `Imagem ampliada ${position} de ${total}`,
     imageCarousel: 'Carrossel de imagens',
+    viewProduct: (store) => (store ? `Ver ${inStore(store)}` : 'Ver o produto'),
+    viewProductNamed: (alt, store) => `${store ? `Ver ${inStore(store)}` : 'Ver o produto'}: ${alt} (abre em nova aba)`,
   },
   en: {
     eyebrow: 'Gallery',
@@ -83,6 +90,8 @@ const galleryCopy: Record<Locale, GalleryCopy> = {
     enlargeNamed: (alt) => `Enlarge image: ${alt}`,
     enlargedImage: (position, total) => `Enlarged image ${position} of ${total}`,
     imageCarousel: 'Image carousel',
+    viewProduct: (store) => (store ? `View at ${store.brand}` : 'View product'),
+    viewProductNamed: (alt, store) => `${store ? `View at ${store.brand}` : 'View product'}: ${alt} (opens in a new tab)`,
   },
   es: {
     eyebrow: 'Galería',
@@ -108,6 +117,8 @@ const galleryCopy: Record<Locale, GalleryCopy> = {
     enlargeNamed: (alt) => `Ampliar imagen: ${alt}`,
     enlargedImage: (position, total) => `Imagen ampliada ${position} de ${total}`,
     imageCarousel: 'Carrusel de imágenes',
+    viewProduct: (store) => (store ? `Ver en ${store.brand}` : 'Ver el producto'),
+    viewProductNamed: (alt, store) => `${store ? `Ver en ${store.brand}` : 'Ver el producto'}: ${alt} (se abre en una pestaña nueva)`,
   },
   fr: {
     eyebrow: 'Galerie',
@@ -133,6 +144,8 @@ const galleryCopy: Record<Locale, GalleryCopy> = {
     enlargeNamed: (alt) => `Agrandir l’image${NBSP}: ${alt}`,
     enlargedImage: (position, total) => `Image agrandie ${position} sur ${total}`,
     imageCarousel: 'Carrousel d’images',
+    viewProduct: (store) => (store ? `Voir chez ${store.brand}` : 'Voir le produit'),
+    viewProductNamed: (alt, store) => `${store ? `Voir chez ${store.brand}` : 'Voir le produit'}${NBSP}: ${alt} (s’ouvre dans un nouvel onglet)`,
   },
   de: {
     eyebrow: 'Galerie',
@@ -158,6 +171,8 @@ const galleryCopy: Record<Locale, GalleryCopy> = {
     enlargeNamed: (alt) => `Bild vergrößern: ${alt}`,
     enlargedImage: (position, total) => `Vergrößertes Bild ${position} von ${total}`,
     imageCarousel: 'Bilderkarussell',
+    viewProduct: (store) => (store ? `Bei ${store.brand} ansehen` : 'Produkt ansehen'),
+    viewProductNamed: (alt, store) => `${store ? `Bei ${store.brand} ansehen` : 'Produkt ansehen'}: ${alt} (öffnet in neuem Tab)`,
   },
   it: {
     eyebrow: 'Galleria',
@@ -183,6 +198,8 @@ const galleryCopy: Record<Locale, GalleryCopy> = {
     enlargeNamed: (alt) => `Ingrandisci l’immagine: ${alt}`,
     enlargedImage: (position, total) => `Immagine ingrandita ${position} di ${total}`,
     imageCarousel: 'Carosello di immagini',
+    viewProduct: (store) => (store ? `Vedi su ${store.brand}` : 'Vedi il prodotto'),
+    viewProductNamed: (alt, store) => `${store ? `Vedi su ${store.brand}` : 'Vedi il prodotto'}: ${alt} (si apre in una nuova scheda)`,
   },
   ko: {
     eyebrow: '갤러리',
@@ -208,6 +225,8 @@ const galleryCopy: Record<Locale, GalleryCopy> = {
     enlargeNamed: (alt) => `이미지 확대: ${alt}`,
     enlargedImage: (position, total) => `확대한 이미지 ${position}/${total}`,
     imageCarousel: '이미지 캐러셀',
+    viewProduct: (store) => (store ? `${store.brand}에서 보기` : '상품 보기'),
+    viewProductNamed: (alt, store) => `${store ? `${store.brand}에서 보기` : '상품 보기'}: ${alt} (새 탭에서 열림)`,
   },
   ja: {
     eyebrow: 'ギャラリー',
@@ -233,6 +252,8 @@ const galleryCopy: Record<Locale, GalleryCopy> = {
     enlargeNamed: (alt) => `画像を拡大：${alt}`,
     enlargedImage: (position, total) => `拡大画像 ${position}/${total}`,
     imageCarousel: '画像カルーセル',
+    viewProduct: (store) => (store ? `${store.brand}で見る` : '商品を見る'),
+    viewProductNamed: (alt, store) => `${store ? `${store.brand}で見る` : '商品を見る'}：${alt}（新しいタブで開きます）`,
   },
   'zh-hant': {
     eyebrow: '圖庫',
@@ -258,6 +279,8 @@ const galleryCopy: Record<Locale, GalleryCopy> = {
     enlargeNamed: (alt) => `放大圖片：${alt}`,
     enlargedImage: (position, total) => `放大圖片 ${position}/${total}`,
     imageCarousel: '圖片輪播',
+    viewProduct: (store) => (store ? `在 ${store.brand} 查看` : '查看商品'),
+    viewProductNamed: (alt, store) => `${store ? `在 ${store.brand} 查看` : '查看商品'}：${alt}（在新分頁中開啟）`,
   },
   'zh-hans': {
     eyebrow: '图库',
@@ -283,6 +306,8 @@ const galleryCopy: Record<Locale, GalleryCopy> = {
     enlargeNamed: (alt) => `放大图片：${alt}`,
     enlargedImage: (position, total) => `放大图片 ${position}/${total}`,
     imageCarousel: '图片轮播',
+    viewProduct: (store) => (store ? `在 ${store.brand} 查看` : '查看商品'),
+    viewProductNamed: (alt, store) => `${store ? `在 ${store.brand} 查看` : '查看商品'}：${alt}（在新标签页中打开）`,
   },
 };
 

@@ -1645,6 +1645,24 @@ for (const url of articleUrls) {
     for (const link of links) assert.match(link, /\srel="sponsored noopener noreferrer"/, `${pagePath}: link do card de estilo sem sponsored`);
   });
 
+  // As fotos com link de produto (`href` da imagem da seção): cada uma vira um link sponsored com o nome "Ver na
+  // <loja>: <alt>" do idioma, e o "Ampliar" segue como botão logo depois do link, fora dele.
+  const photoLinks = (review.contentSections ?? []).flatMap((section) =>
+    [...(typeof section.image === 'object' && section.image ? [section.image] : []), ...(section.images ?? [])].flatMap((image) => (image.href ? [image.href] : []))
+  );
+  if (photoLinks.length) {
+    const photoStore = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+    const viewLabel = escapeHtml(getGalleryCopy(locale).viewProduct(photoStore ? { slug: photoStore.slug, brand: photoStore.brand } : undefined));
+    for (const href of photoLinks) {
+      const start = body.search(new RegExp(`<a\\b[^>]*\\shref="${escapeHtml(href).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"[^>]*\\saria-label="${viewLabel.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`));
+      assert.ok(start >= 0, `${pagePath}: foto sem o link de produto ${href} com o nome "${viewLabel}…"`);
+      const link = elementAt(body, start);
+      assert.match(link, /^<a\b[^>]*\srel="sponsored noopener noreferrer"/, `${pagePath}: link da foto ${href} sem sponsored`);
+      assert.doesNotMatch(link, /<button\b/, `${pagePath}: botão dentro do link da foto ${href}`);
+      assert.match(body.slice(start + link.length), /^<button\b/, `${pagePath}: foto ${href} sem o botão Ampliar logo depois do link`);
+    }
+  }
+
   // Os banners de campanha da loja (storeBanners.ts): o `top` logo depois da 1ª seção do corpo e o `mid` logo antes
   // do FAQ (sem FAQ, da última), com o link da campanha, rel sponsored e os textos do idioma; nenhum em outra loja.
   // O que leva ao nosso artigo da campanha tem link interno, sem sponsored, e não sai no próprio artigo. Campanha que

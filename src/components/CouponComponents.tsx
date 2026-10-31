@@ -82,6 +82,8 @@ type CouponStoreLinkProps = {
   contentSlug?: string;
   linkLabel?: string;
   sponsored?: boolean;
+  // Nome do link quando o conteúdo visível não basta (a foto de produto: "Ver na SHEIN: <alt>, abre em nova aba").
+  ariaLabel?: string;
   placement?:
     | 'coupon_page'
     // Link da marca no Mercado Livre, dentro do FAQ da página da loja.
@@ -98,6 +100,8 @@ type CouponStoreLinkProps = {
     | 'review_banner_mid'
     // As peças da loja no card de estilo dos artigos de roupa (ArticleStyling).
     | 'review_styling'
+    // A foto de produto com link (o `href` da imagem da seção, ReviewInlineImage).
+    | 'review_image'
     | 'review_mobile_drawer'
     | 'home_store_banner';
   className?: string;
@@ -112,6 +116,7 @@ export function CouponStoreLink({
   contentSlug,
   linkLabel,
   sponsored = true,
+  ariaLabel,
   placement = 'coupon_page',
   className = '',
 }: CouponStoreLinkProps) {
@@ -133,7 +138,7 @@ export function CouponStoreLink({
 
   if (internal) {
     return (
-      <Link href={internalHref} className={className} onClick={handleClick}>
+      <Link href={internalHref} className={className} onClick={handleClick} aria-label={ariaLabel}>
         {children ?? label}
       </Link>
     );
@@ -146,6 +151,7 @@ export function CouponStoreLink({
       rel={sponsored ? 'sponsored noopener noreferrer' : 'noopener noreferrer'}
       onClick={handleClick}
       className={className}
+      aria-label={ariaLabel}
     >
       {children ?? label}
     </a>

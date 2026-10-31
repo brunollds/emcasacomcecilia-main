@@ -273,6 +273,14 @@ vídeo, primeiras impressões e uso noturno.
   o `test:review-i18n` exige em toda versão os cards do português, na mesma ordem, com o mesmo modelo, as mesmas
   peças, links, campos e cores, e o como usar, a ocasião e a nota do link traduzidos (nome da peça e básico do
   armário podem repetir o PT); os rótulos entram na conferência de interface igual ao português.
+- Foto de produto com link: o `href` opcional da imagem da seção (`image` em forma de objeto ou item de `images`,
+  `ContentSectionImage`) faz da foto o link de afiliado do produto (`CouponStoreLink`, sponsored, nova aba,
+  `review_image`), com o selo "Ver na <loja>" na foto e no lightbox e o nome do link "Ver na <loja>: <alt>" avisando a
+  nova aba (`viewProduct` e `viewProductNamed` de `galleryCopy.ts`, nos 10 idiomas). O "Ampliar" vira um botão à
+  parte, logo depois do link e fora dele; foto sem `href` segue sendo o botão que amplia. A loja chega ao
+  `ReviewInlineImage` pelo `storeBrand` que o template passa às seções. O `validate:content` exige https, o
+  `test:review-i18n` o mesmo `href`, foto a foto, em toda versão da família, e o `test:build-output`, o link sponsored
+  com o nome do idioma e o botão fora dele.
 - Banners de campanha da loja ("Publicidade"): as campanhas ficam em `src/lib/storeBanners.ts`, chaveadas pelo
   `affiliate`, e entram sozinhas em todo artigo da loja, nos 10 idiomas. O `top` vai logo depois da 1ª seção do corpo
   e o `mid` logo antes do FAQ (sem FAQ, da última), pela prop `slots` do `ReviewContentSections`. O banner

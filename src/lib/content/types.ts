@@ -242,6 +242,8 @@ export interface ContentSectionImage {
   caption?: string;
   objectFit?: 'cover' | 'contain' | 'portrait' | 'wide' | 'panoramic' | 'square';
   aspectRatio?: number;
+  /** Link de afiliado do produto da foto: a foto vira o link (sponsored) e o "Ampliar" vira botão à parte. */
+  href?: string;
 }
 
 /** Item do "combina com": com `url` é peça da loja (link de afiliado); sem, é do armário. */
