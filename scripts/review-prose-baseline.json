@@ -1,0 +1,1027 @@
+{
+  "alfaiataria-verao-clea-store": {
+    "transparencySection": true,
+    "bodyDates": 10,
+    "datesOutsideBody": 3
+  },
+  "assinatura-dolce-gusto-como-funciona": {
+    "datesOutsideBody": 2
+  },
+  "assinatura-dolce-gusto-vale-a-pena": {
+    "bodyDates": 5,
+    "datesOutsideBody": 1
+  },
+  "autobronzeador-skelt-qual-escolher": {
+    "bodyDates": 14,
+    "datesOutsideBody": 3
+  },
+  "bagaggio-e-boa-malas-mochilas": {
+    "bodyDates": 6,
+    "datesOutsideBody": 3
+  },
+  "bagaggio-e-confiavel": {
+    "bodyDates": 5,
+    "datesOutsideBody": 3
+  },
+  "bagaggio-garantia-vitalicia": {
+    "bodyDates": 5,
+    "datesOutsideBody": 4
+  },
+  "bagaggio-reclame-aqui-nota-reputacao": {
+    "bodyDates": 21,
+    "datesOutsideBody": 4
+  },
+  "barra-de-proteina-mais-mu-qual-escolher": {
+    "transparencySection": true,
+    "bodyDates": 8,
+    "datesOutsideBody": 5
+  },
+  "belive-e-confiavel": {
+    "bodyDates": 9,
+    "datesOutsideBody": 4
+  },
+  "belive-reclame-aqui-nota-reputacao": {
+    "transparencySection": true,
+    "bodyDates": 18,
+    "datesOutsideBody": 11
+  },
+  "black-friday-bagaggio": {
+    "bodyDates": 17,
+    "datesOutsideBody": 9
+  },
+  "black-friday-belive": {
+    "transparencySection": true,
+    "bodyDates": 11,
+    "datesOutsideBody": 6
+  },
+  "black-friday-black-skull": {
+    "bodyDates": 17,
+    "datesOutsideBody": 9
+  },
+  "black-friday-clea-store": {
+    "bodyDates": 17,
+    "datesOutsideBody": 6
+  },
+  "black-friday-damie": {
+    "bodyDates": 23,
+    "datesOutsideBody": 10
+  },
+  "black-friday-dolce-gusto": {
+    "quickAnswerPrice": true,
+    "bodyDates": 17,
+    "datesOutsideBody": 7
+  },
+  "black-friday-dr-peanut": {
+    "bodyDates": 9,
+    "datesOutsideBody": 8
+  },
+  "black-friday-hostinger": {
+    "transparencySection": true,
+    "bodyDates": 7,
+    "datesOutsideBody": 4
+  },
+  "black-friday-i-wanna-sleep": {
+    "bodyDates": 17,
+    "datesOutsideBody": 9
+  },
+  "black-friday-insider": {
+    "bodyDates": 37,
+    "datesOutsideBody": 12
+  },
+  "black-friday-lejour": {
+    "bodyDates": 23,
+    "datesOutsideBody": 8
+  },
+  "black-friday-letseatit": {
+    "bodyDates": 17,
+    "datesOutsideBody": 9
+  },
+  "black-friday-magalu": {
+    "quickAnswerPrice": true,
+    "bodyDates": 12,
+    "datesOutsideBody": 8
+  },
+  "black-friday-mais-mu": {
+    "bodyDates": 7,
+    "datesOutsideBody": 4
+  },
+  "black-friday-max-titanium": {
+    "bodyDates": 16,
+    "datesOutsideBody": 5
+  },
+  "black-friday-nestle-nutre": {
+    "bodyDates": 16,
+    "datesOutsideBody": 8
+  },
+  "black-friday-probiotica": {
+    "bodyDates": 10,
+    "datesOutsideBody": 6
+  },
+  "black-friday-shein": {
+    "bodyDates": 27,
+    "datesOutsideBody": 8
+  },
+  "black-friday-skelt": {
+    "bodyDates": 12,
+    "datesOutsideBody": 10
+  },
+  "black-friday-toda-up": {
+    "bodyDates": 19,
+    "datesOutsideBody": 9
+  },
+  "black-friday-yesstyle": {
+    "bodyDates": 23,
+    "datesOutsideBody": 3
+  },
+  "black-skull-e-confiavel": {
+    "bodyDates": 11,
+    "datesOutsideBody": 3
+  },
+  "black-skull-mercado-livre-ou-site": {
+    "transparencySection": true,
+    "bodyDates": 9,
+    "datesOutsideBody": 4
+  },
+  "black-skull-ou-dark-lab": {
+    "transparencySection": true,
+    "bodyDates": 7,
+    "datesOutsideBody": 2
+  },
+  "black-skull-ou-dux": {
+    "transparencySection": true,
+    "bodyDates": 14,
+    "datesOutsideBody": 4
+  },
+  "black-skull-ou-growth": {
+    "transparencySection": true,
+    "bodyDates": 10,
+    "datesOutsideBody": 7
+  },
+  "black-skull-ou-integralmedica": {
+    "transparencySection": true,
+    "bodyDates": 9,
+    "datesOutsideBody": 3
+  },
+  "black-skull-ou-max-titanium": {
+    "transparencySection": true,
+    "bodyDates": 16,
+    "datesOutsideBody": 2
+  },
+  "black-skull-reclame-aqui-nota-reputacao": {
+    "bodyDates": 15,
+    "datesOutsideBody": 13
+  },
+  "body-clea-store-second-skin-qual-escolher": {
+    "transparencySection": true,
+    "bodyDates": 7
+  },
+  "body-splash-skelt-milos-breeze": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 6,
+    "datesOutsideBody": 3
+  },
+  "body-splash-skelt-qual-escolher": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 21,
+    "datesOutsideBody": 5
+  },
+  "body-splash-skelt-solar-muse": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 8,
+    "datesOutsideBody": 2
+  },
+  "bolinho-kids-belive-lancheira": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 3,
+    "datesOutsideBody": 1
+  },
+  "bolinho-sem-acucar-belive-ou-suavipan": {
+    "transparencySection": true,
+    "bodyDates": 5,
+    "datesOutsideBody": 5
+  },
+  "brinde-skelt-30-outubro-cupom": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 10,
+    "datesOutsideBody": 3
+  },
+  "bronzeado-instantaneo-skelt-ou-autobronzeador": {
+    "quickAnswerPrice": true,
+    "bodyDates": 5,
+    "datesOutsideBody": 1
+  },
+  "brownie-sem-acucar-belive": {
+    "transparencySection": true,
+    "bodyDates": 4,
+    "datesOutsideBody": 5
+  },
+  "cafe-au-lait-dolce-gusto": {
+    "transparencySection": true,
+    "bodyDates": 5
+  },
+  "cafeteira-escritorio-qual-escolher-custo-mes": {
+    "transparencySection": true,
+    "bodyDates": 14,
+    "datesOutsideBody": 1
+  },
+  "camiseta-clea-store-e-boa": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 10,
+    "datesOutsideBody": 4
+  },
+  "camiseta-feminina-insider-qual-escolher": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "datesOutsideBody": 1
+  },
+  "camiseta-insider-qual-escolher": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "datesOutsideBody": 1
+  },
+  "caramelo-salgado-dolce-gusto": {
+    "transparencySection": true,
+    "bodyDates": 5,
+    "datesOutsideBody": 2
+  },
+  "clea-store-aniversario-14-anos-t-shirt-brinde": {
+    "bodyDates": 8,
+    "datesOutsideBody": 3
+  },
+  "clea-store-e-confiavel": {
+    "bodyDates": 12,
+    "datesOutsideBody": 6
+  },
+  "clea-store-mercado-livre-ou-site": {
+    "transparencySection": true,
+    "bodyDates": 9,
+    "datesOutsideBody": 7
+  },
+  "clea-store-reclame-aqui-nota-reputacao": {
+    "bodyDates": 13,
+    "datesOutsideBody": 14
+  },
+  "clea-store-tabela-de-medidas-como-escolher-tamanho": {
+    "transparencySection": true,
+    "bodyDates": 6,
+    "datesOutsideBody": 1
+  },
+  "codigo-de-indicacao-shein": {
+    "datesOutsideBody": 3
+  },
+  "como-encontrar-cupons-yesstyle-validos": {
+    "datesOutsideBody": 1
+  },
+  "conjunto-de-malas-bagaggio-compensa": {
+    "quickAnswerPrice": true,
+    "bodyDates": 8,
+    "datesOutsideBody": 6
+  },
+  "cookies-sem-acucar-belive": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 3,
+    "datesOutsideBody": 1
+  },
+  "creatina-black-skull-qual-escolher": {
+    "transparencySection": true,
+    "bodyDates": 11,
+    "datesOutsideBody": 4
+  },
+  "creatina-com-sabor-qual-escolher": {
+    "transparencySection": true,
+    "bodyDates": 8,
+    "datesOutsideBody": 3
+  },
+  "creatina-max-titanium-qual-pote": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 7,
+    "datesOutsideBody": 4
+  },
+  "creatina-probiotica-qual-compensa": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 10,
+    "datesOutsideBody": 2
+  },
+  "cueca-insider-comfort-ou-performance": {
+    "transparencySection": true,
+    "bodyDates": 4,
+    "datesOutsideBody": 1
+  },
+  "cupom-bagaggio-como-usar": {
+    "bodyDates": 3,
+    "datesOutsideBody": 5
+  },
+  "cupom-belive-como-usar": {
+    "transparencySection": true,
+    "bodyDates": 6,
+    "datesOutsideBody": 3
+  },
+  "cupom-black-skull-como-usar": {
+    "bodyDates": 8,
+    "datesOutsideBody": 5
+  },
+  "cupom-ceci-nescafe-dolce-gusto-como-usar": {
+    "quickAnswerPrice": true,
+    "bodyDates": 3,
+    "datesOutsideBody": 1
+  },
+  "cupom-ceci-nestle-nutre-como-usar": {
+    "datesOutsideBody": 3
+  },
+  "cupom-clea-store-como-usar": {
+    "bodyDates": 6,
+    "datesOutsideBody": 4
+  },
+  "cupom-dr-peanut-como-usar": {
+    "bodyDates": 8,
+    "datesOutsideBody": 5
+  },
+  "cupom-emcasacomcecilia-insider-store-como-usar": {
+    "bodyDates": 4
+  },
+  "cupom-hostinger-indicacao": {
+    "transparencySection": true,
+    "bodyDates": 4,
+    "datesOutsideBody": 2
+  },
+  "cupom-magalu-em-casa-com-cecilia": {
+    "quickAnswerPrice": true,
+    "datesOutsideBody": 1
+  },
+  "cupom-mais-mu-como-usar": {
+    "datesOutsideBody": 3
+  },
+  "cupom-mauad-lets-eat-it-como-usar": {
+    "datesOutsideBody": 1
+  },
+  "cupom-max-titanium-como-usar": {
+    "bodyDates": 7,
+    "datesOutsideBody": 4
+  },
+  "cupom-probiotica-como-usar": {
+    "bodyDates": 7,
+    "datesOutsideBody": 6
+  },
+  "cupom-skelt-como-usar": {
+    "datesOutsideBody": 4
+  },
+  "cupom-toda-up-como-usar": {
+    "quickAnswerPrice": true,
+    "bodyDates": 8,
+    "datesOutsideBody": 4
+  },
+  "damie-reclame-aqui-o-que-os-dados-mostram": {
+    "transparencySection": true,
+    "datesOutsideBody": 3
+  },
+  "doces-sem-acucar-para-diabeticos": {
+    "transparencySection": true,
+    "datesOutsideBody": 3
+  },
+  "dolce-gusto-capsulas-compativeis-guia": {
+    "bodyDates": 10,
+    "datesOutsideBody": 1
+  },
+  "dolce-gusto-descalcificacao-passo-a-passo": {
+    "datesOutsideBody": 2
+  },
+  "dolce-gusto-maquinas-qual-escolher": {
+    "bodyDates": 5
+  },
+  "dolce-gusto-vs-nespresso-qual-escolher": {
+    "bodyDates": 7,
+    "datesOutsideBody": 1
+  },
+  "dolce-gusto-vs-nespresso-vs-3-coracoes": {
+    "bodyDates": 5,
+    "datesOutsideBody": 1
+  },
+  "dominio-hostinger-comprar-transferir-ou-fora": {
+    "bodyDates": 9,
+    "datesOutsideBody": 3
+  },
+  "dr-peanut-e-confiavel": {
+    "bodyDates": 10,
+    "datesOutsideBody": 4
+  },
+  "dr-peanut-e-saudavel": {
+    "transparencySection": true,
+    "bodyDates": 9,
+    "datesOutsideBody": 2
+  },
+  "dr-peanut-melhor-sabor": {
+    "bodyDates": 16,
+    "datesOutsideBody": 4
+  },
+  "dr-peanut-ou-la-ganexa": {
+    "transparencySection": true,
+    "bodyDates": 11,
+    "datesOutsideBody": 1
+  },
+  "dr-peanut-qual-tamanho-compensa": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 4,
+    "datesOutsideBody": 5
+  },
+  "dr-peanut-reclame-aqui-nota-reputacao": {
+    "bodyDates": 19,
+    "datesOutsideBody": 17
+  },
+  "espresso-dolce-gusto": {
+    "transparencySection": true,
+    "bodyDates": 6,
+    "datesOutsideBody": 1
+  },
+  "faqueiro-laguiole-la-maison-qual-escolher": {
+    "transparencySection": true,
+    "bodyDates": 9,
+    "datesOutsideBody": 1
+  },
+  "fibermais-como-usar-em-receitas-e-bebidas": {
+    "bodyDates": 3
+  },
+  "fita-up-como-usar": {
+    "bodyDates": 7,
+    "datesOutsideBody": 2
+  },
+  "glutamina-qual-escolher-black-skull-max-probiotica": {
+    "quickAnswerPrice": true,
+    "transparencySection": true
+  },
+  "guardanapo-de-tecido-quantos-tamanho": {
+    "transparencySection": true,
+    "bodyDates": 4
+  },
+  "guia-linha-ninho-nestle-leite-vs-composto-lacteo": {
+    "bodyDates": 4,
+    "datesOutsideBody": 1
+  },
+  "hidratante-corporal-skelt-qual-fragrancia": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 5,
+    "datesOutsideBody": 2
+  },
+  "hipercalorico-black-skull-qual-escolher": {
+    "transparencySection": true,
+    "bodyDates": 16,
+    "datesOutsideBody": 5
+  },
+  "hostinger-e-confiavel": {
+    "transparencySection": true,
+    "bodyDates": 5,
+    "datesOutsideBody": 1
+  },
+  "hostinger-horizons-vale-a-pena": {
+    "bodyDates": 8,
+    "datesOutsideBody": 3
+  },
+  "hostinger-ou-hostgator": {
+    "bodyDates": 10,
+    "datesOutsideBody": 5
+  },
+  "hostinger-reach-ou-mailchimp-brevo": {
+    "bodyDates": 7,
+    "datesOutsideBody": 6
+  },
+  "hostinger-reclame-aqui-nota-reputacao": {
+    "transparencySection": true,
+    "bodyDates": 15,
+    "datesOutsideBody": 10
+  },
+  "i-wanna-sleep-ou-ortobom": {
+    "bodyDates": 12
+  },
+  "i-wanna-sleep-reclame-aqui-nota-reputacao": {
+    "bodyDates": 5,
+    "datesOutsideBody": 4
+  },
+  "i-wanna-sleep-travesseiro-snow-ficha-tecnica": {
+    "datesOutsideBody": 2
+  },
+  "iluminador-corporal-skelt-como-usar": {
+    "quickAnswerPrice": true,
+    "bodyDates": 3,
+    "datesOutsideBody": 1
+  },
+  "insider-mercado-livre-ou-site": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 7,
+    "datesOutsideBody": 6
+  },
+  "insider-store-e-confiavel": {
+    "bodyDates": 7,
+    "datesOutsideBody": 1
+  },
+  "insider-store-reclame-aqui-nota-reputacao": {
+    "bodyDates": 10,
+    "datesOutsideBody": 6
+  },
+  "insider-vale-a-pena": {
+    "bodyDates": 11,
+    "datesOutsideBody": 5
+  },
+  "isosource-1-5-ou-trophic-1-5": {
+    "transparencySection": true,
+    "bodyDates": 7,
+    "datesOutsideBody": 2
+  },
+  "isosource-1-5-para-que-serve": {
+    "transparencySection": true,
+    "bodyDates": 3,
+    "datesOutsideBody": 1
+  },
+  "jogo-americano-tecido-tamanho-cor": {
+    "transparencySection": true,
+    "bodyDates": 6,
+    "datesOutsideBody": 1
+  },
+  "kit-insider-quando-compensa": {
+    "quickAnswerPrice": true,
+    "transparencySection": true
+  },
+  "kit-toda-up-quando-compensa": {
+    "transparencySection": true
+  },
+  "le-creuset-original-como-saber": {
+    "transparencySection": true,
+    "bodyDates": 6,
+    "datesOutsideBody": 5
+  },
+  "le-creuset-qual-tamanho-escolher": {
+    "transparencySection": true,
+    "bodyDates": 11,
+    "datesOutsideBody": 2
+  },
+  "le-creuset-vale-a-pena": {
+    "bodyDates": 7,
+    "datesOutsideBody": 3
+  },
+  "lejour-como-funciona": {
+    "bodyDates": 11,
+    "datesOutsideBody": 4
+  },
+  "lejour-e-confiavel": {
+    "bodyDates": 7,
+    "datesOutsideBody": 2
+  },
+  "lejour-ou-icasei": {
+    "quickAnswerPrice": true,
+    "bodyDates": 14,
+    "datesOutsideBody": 1
+  },
+  "lejour-reclame-aqui-nota-reputacao": {
+    "bodyDates": 13,
+    "datesOutsideBody": 8
+  },
+  "lets-eat-it-e-confiavel": {
+    "bodyDates": 6,
+    "datesOutsideBody": 5
+  },
+  "lets-eat-it-reclame-aqui-nota-reputacao": {
+    "bodyDates": 6,
+    "datesOutsideBody": 7
+  },
+  "lista-de-casamento-lejour-como-criar": {
+    "bodyDates": 5,
+    "datesOutsideBody": 4
+  },
+  "look-trabalho-alfaiataria-feminina-clea-store": {
+    "transparencySection": true,
+    "bodyDates": 5
+  },
+  "magazine-voce-e-confiavel": {
+    "bodyDates": 10,
+    "datesOutsideBody": 10
+  },
+  "mais-mu-e-confiavel": {
+    "bodyDates": 12,
+    "datesOutsideBody": 4
+  },
+  "mais-mu-ou-dux": {
+    "bodyDates": 8,
+    "datesOutsideBody": 3
+  },
+  "mais-mu-ou-growth": {
+    "bodyDates": 4,
+    "datesOutsideBody": 2
+  },
+  "mais-mu-reclame-aqui-nota-reputacao": {
+    "bodyDates": 13,
+    "datesOutsideBody": 10
+  },
+  "mala-de-bordo-bagaggio-qual-compensa": {
+    "quickAnswerPrice": true,
+    "bodyDates": 16,
+    "datesOutsideBody": 6
+  },
+  "mala-policarbonato-ou-abs-bagaggio": {
+    "bodyDates": 6,
+    "datesOutsideBody": 5
+  },
+  "max-titanium-e-confiavel": {
+    "bodyDates": 11,
+    "datesOutsideBody": 5
+  },
+  "max-titanium-ou-dux": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 11,
+    "datesOutsideBody": 3
+  },
+  "max-titanium-ou-growth": {
+    "transparencySection": true,
+    "bodyDates": 7,
+    "datesOutsideBody": 2
+  },
+  "max-titanium-ou-integralmedica": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 10,
+    "datesOutsideBody": 1
+  },
+  "max-titanium-ou-probiotica": {
+    "bodyDates": 19,
+    "datesOutsideBody": 3
+  },
+  "max-titanium-reclame-aqui-nota-reputacao": {
+    "bodyDates": 15,
+    "datesOutsideBody": 16
+  },
+  "melhor-vps-para-openclaw": {
+    "bodyDates": 6,
+    "datesOutsideBody": 1
+  },
+  "melhor-whey-qual-escolher-por-objetivo": {
+    "bodyDates": 35,
+    "datesOutsideBody": 6
+  },
+  "melhores-capsulas-dolce-gusto-2026": {
+    "bodyDates": 11,
+    "datesOutsideBody": 2
+  },
+  "mesa-posta-dia-a-dia-o-que-comprar": {
+    "transparencySection": true,
+    "bodyDates": 5,
+    "datesOutsideBody": 2
+  },
+  "mesa-posta-natal-o-que-precisa-quanto-custa": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 6,
+    "datesOutsideBody": 1
+  },
+  "mochaccino-canela-dolce-gusto": {
+    "transparencySection": true,
+    "bodyDates": 3,
+    "datesOutsideBody": 1
+  },
+  "mochila-de-viagem-bagaggio-qual-escolher": {
+    "bodyDates": 6
+  },
+  "mochila-escolar-bagaggio": {
+    "quickAnswerPrice": true,
+    "datesOutsideBody": 1
+  },
+  "mochila-notebook-bagaggio-qual-escolher": {
+    "quickAnswerPrice": true,
+    "bodyDates": 4,
+    "datesOutsideBody": 1
+  },
+  "monodose-probiotica-sache-ou-pote": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 7,
+    "datesOutsideBody": 4
+  },
+  "nanlac-supreme-ou-ninho-fases": {
+    "transparencySection": true,
+    "bodyDates": 6,
+    "datesOutsideBody": 2
+  },
+  "nanlac-supreme-pro-1-a-3-anos": {
+    "transparencySection": true,
+    "bodyDates": 10
+  },
+  "nanlac-supreme-pro-ou-aptanutri-profutura": {
+    "transparencySection": true,
+    "bodyDates": 8,
+    "datesOutsideBody": 1
+  },
+  "nanlac-supreme-pro-ou-comfor": {
+    "transparencySection": true,
+    "bodyDates": 14
+  },
+  "nestle-nutre-produtos-para-que-servem": {
+    "bodyDates": 3,
+    "datesOutsideBody": 2
+  },
+  "nutren-a-z-multi-para-que-serve": {
+    "transparencySection": true,
+    "bodyDates": 4
+  },
+  "nutren-a-z-ou-centrum": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 5,
+    "datesOutsideBody": 1
+  },
+  "nutren-creatina-e-boa-comparativo-growth-ftw-cimed": {
+    "bodyDates": 8,
+    "datesOutsideBody": 3
+  },
+  "nutren-protein-ou-whey": {
+    "bodyDates": 5,
+    "datesOutsideBody": 1
+  },
+  "nutren-senior-como-tomar-sem-empelotar": {
+    "bodyDates": 5
+  },
+  "nutren-senior-kit-combo-ou-assinatura": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 3,
+    "datesOutsideBody": 4
+  },
+  "nutren-senior-ou-nutridrink": {
+    "transparencySection": true,
+    "bodyDates": 6,
+    "datesOutsideBody": 1
+  },
+  "nutren-senior-zero-lactose-ficha-tecnica": {
+    "datesOutsideBody": 1
+  },
+  "openclaw-hostinger-gerenciado-ou-vps": {
+    "bodyDates": 3,
+    "datesOutsideBody": 4
+  },
+  "openclaw-ou-hermes-agent": {
+    "datesOutsideBody": 1
+  },
+  "outlet-insider-feminino-vale-a-pena": {
+    "transparencySection": true
+  },
+  "outlet-insider-masculino-vale-a-pena": {
+    "transparencySection": true
+  },
+  "pao-de-mel-sem-acucar-belive": {
+    "transparencySection": true,
+    "bodyDates": 8,
+    "datesOutsideBody": 6
+  },
+  "paperclip-ai-hostinger": {
+    "datesOutsideBody": 2
+  },
+  "poltrona-damie-e-boa": {
+    "datesOutsideBody": 2
+  },
+  "poltrona-de-amamentacao-como-escolher": {
+    "bodyDates": 3,
+    "datesOutsideBody": 3
+  },
+  "poltrona-de-amamentacao-vs-poltrona-reclinavel": {
+    "datesOutsideBody": 3
+  },
+  "porto-brasil-e-boa": {
+    "bodyDates": 4,
+    "datesOutsideBody": 3
+  },
+  "pre-treino-black-skull-bope-ou-bone-crusher": {
+    "transparencySection": true,
+    "bodyDates": 9,
+    "datesOutsideBody": 4
+  },
+  "pre-treino-exquenta-mais-mu-e-bom": {
+    "transparencySection": true,
+    "bodyDates": 4
+  },
+  "pre-treino-max-titanium-horus-ou-egide": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 10,
+    "datesOutsideBody": 2
+  },
+  "presente-de-casamento-ideias-por-preco": {
+    "transparencySection": true,
+    "bodyDates": 5
+  },
+  "presente-de-natal-insider-kits-gift-card": {
+    "transparencySection": true,
+    "bodyDates": 20
+  },
+  "presente-de-natal-para-casa-moveis": {
+    "transparencySection": true,
+    "bodyDates": 37,
+    "datesOutsideBody": 3
+  },
+  "presente-natal-bagaggio": {
+    "quickAnswerPrice": true,
+    "bodyDates": 8,
+    "datesOutsideBody": 1
+  },
+  "presente-natal-quem-gosta-de-cozinhar": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "datesOutsideBody": 1
+  },
+  "presente-natal-quem-treina": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 8,
+    "datesOutsideBody": 1
+  },
+  "probiotica-e-confiavel": {
+    "bodyDates": 12,
+    "datesOutsideBody": 5
+  },
+  "probiotica-ou-dux": {
+    "transparencySection": true,
+    "bodyDates": 9,
+    "datesOutsideBody": 3
+  },
+  "probiotica-ou-growth": {
+    "transparencySection": true,
+    "bodyDates": 7,
+    "datesOutsideBody": 2
+  },
+  "probiotica-ou-integralmedica": {
+    "transparencySection": true,
+    "bodyDates": 12,
+    "datesOutsideBody": 3
+  },
+  "probiotica-reclame-aqui-nota-reputacao": {
+    "bodyDates": 15,
+    "datesOutsideBody": 13
+  },
+  "promocao-dolce-gusto-caixas-mini-me-gratis": {
+    "bodyDates": 6
+  },
+  "promocao-insider-selecao-com-cupom": {
+    "bodyDates": 26,
+    "datesOutsideBody": 1
+  },
+  "protetor-de-silicone-mamilo-como-usar": {
+    "bodyDates": 4,
+    "datesOutsideBody": 2
+  },
+  "quanto-custa-capsula-dolce-gusto": {
+    "quickAnswerPrice": true,
+    "bodyDates": 11,
+    "datesOutsideBody": 7
+  },
+  "removedor-autobronzeador-skelt-como-tirar": {
+    "quickAnswerPrice": true,
+    "bodyDates": 4
+  },
+  "shein-11-11-selecao-da-cecilia": {
+    "transparencySection": true,
+    "bodyDates": 3,
+    "datesOutsideBody": 1
+  },
+  "shein-e-confiavel": {
+    "bodyDates": 11,
+    "datesOutsideBody": 4
+  },
+  "shein-ou-shopee-temu": {
+    "bodyDates": 10,
+    "datesOutsideBody": 4
+  },
+  "shein-reclame-aqui-nota-reputacao": {
+    "bodyDates": 15,
+    "datesOutsideBody": 11
+  },
+  "skelt-e-confiavel": {
+    "bodyDates": 6,
+    "datesOutsideBody": 3
+  },
+  "skelt-ou-best-bronze": {
+    "transparencySection": true,
+    "bodyDates": 9,
+    "datesOutsideBody": 1
+  },
+  "skelt-reclame-aqui-nota-reputacao": {
+    "bodyDates": 14,
+    "datesOutsideBody": 10
+  },
+  "skinup-ou-cotton-up-toda-up": {
+    "transparencySection": true
+  },
+  "sleepspray-kidz-iws-como-funciona-ritual-do-sono": {
+    "bodyDates": 3
+  },
+  "snack-proteico-ou-snack-de-arroz-belive": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 3
+  },
+  "snacks-dr-peanut-qual-escolher": {
+    "quickAnswerPrice": true,
+    "transparencySection": true,
+    "bodyDates": 4,
+    "datesOutsideBody": 1
+  },
+  "sofa-na-caixa-crise-reclamacoes-procon-sp": {
+    "transparencySection": true,
+    "bodyDates": 6,
+    "datesOutsideBody": 2
+  },
+  "sofa-na-caixa-inflow-ou-damie": {
+    "bodyDates": 17,
+    "datesOutsideBody": 6
+  },
+  "sofa-na-caixa-ou-sofa-montado-qual-dura-mais": {
+    "bodyDates": 5
+  },
+  "starbucks-dolce-gusto-capsulas-guia": {
+    "bodyDates": 8,
+    "datesOutsideBody": 2
+  },
+  "sutia-de-silicone-invisivel-como-usar": {
+    "quickAnswerPrice": true
+  },
+  "sutia-toda-up-qual-escolher": {
+    "transparencySection": true
+  },
+  "tabela-de-medidas-insider": {
+    "bodyDates": 18,
+    "datesOutsideBody": 4
+  },
+  "taca-base-esfera-e-tacas-coloridas": {
+    "quickAnswerPrice": true,
+    "transparencySection": true
+  },
+  "tamanho-mala-bagaggio-p-m-g": {
+    "bodyDates": 6,
+    "datesOutsideBody": 6
+  },
+  "toda-up-e-confiavel": {
+    "bodyDates": 15,
+    "datesOutsideBody": 6
+  },
+  "toda-up-reclame-aqui-nota-reputacao": {
+    "bodyDates": 23,
+    "datesOutsideBody": 4
+  },
+  "undershirt-insider-qual-escolher-funciona": {
+    "transparencySection": true,
+    "bodyDates": 4
+  },
+  "valley-inflow-ou-damie": {
+    "transparencySection": true,
+    "bodyDates": 20,
+    "datesOutsideBody": 5
+  },
+  "vestido-de-festa-shein": {
+    "bodyDates": 4
+  },
+  "vps-ou-hospedagem-compartilhada-qual-escolher": {
+    "bodyDates": 5,
+    "datesOutsideBody": 2
+  },
+  "whey-black-skull-qual-escolher": {
+    "transparencySection": true,
+    "bodyDates": 19,
+    "datesOutsideBody": 4
+  },
+  "whey-mais-mu-qual-escolher": {
+    "transparencySection": true,
+    "bodyDates": 13,
+    "datesOutsideBody": 1
+  },
+  "wordpress-na-hostinger": {
+    "bodyDates": 6,
+    "datesOutsideBody": 3
+  },
+  "yesstyle-app-como-comprar-codigo-de-recompensa": {
+    "transparencySection": true,
+    "bodyDates": 6,
+    "datesOutsideBody": 4
+  },
+  "yesstyle-entrega-no-brasil-e-portugal": {
+    "bodyDates": 11,
+    "datesOutsideBody": 11
+  },
+  "yesstyle-ou-olive-young": {
+    "bodyDates": 31,
+    "datesOutsideBody": 10
+  },
+  "yesstyle-ou-stylevana": {
+    "bodyDates": 21,
+    "datesOutsideBody": 3
+  },
+  "yesstyle-trustpilot-nota-reclamacoes": {
+    "bodyDates": 9,
+    "datesOutsideBody": 6
+  }
+}

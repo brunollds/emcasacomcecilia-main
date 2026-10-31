@@ -24,6 +24,15 @@ import {
 } from '@/lib/content';
 import { COUPONS } from '@/lib/couponsData';
 import { isFaqHeading, parseFaqBullet } from '@/lib/faq';
+import {
+  BODY_DATES_REASONS,
+  checkReviewProse,
+  findDates,
+  getProseProblems,
+  isBodyDatesReason,
+  type ProseBaselineEntry,
+} from './review-prose-checks';
+import proseBaselineJson from './review-prose-baseline.json';
 
 interface ValidationError {
   type: 'recipe' | 'review';
@@ -584,6 +593,75 @@ if (!markdownLinkReview) {
   }
   if (plainTextBody.includes(MARKDOWN_LINK_HREF)) {
     report(`plainTextBody com o endereço do link (${MARKDOWN_LINK_HREF})`);
+  }
+}
+
+// Texto sem cara de prontuário, nos artigos em português: resposta rápida sem "R$", até 2 datas no corpo (8 com
+// bodyDatesReason), nenhuma data em título, legenda ou FAQ e nenhuma seção "Nota de transparência". Os artigos
+// de antes da regra ficam em scripts/review-prose-baseline.json, que só encolhe.
+const proseBaseline: Record<string, ProseBaselineEntry> = proseBaselineJson;
+const portugueseSlugs = new Set<string>();
+for (const review of reviews) {
+  if (review.locale && review.locale !== 'pt') {
+    if (review.bodyDatesReason !== undefined) {
+      reportError({ type: 'review', id: review.id, slug: review.slug, message: 'bodyDatesReason só vale nos artigos em português' });
+    }
+    continue;
+  }
+  portugueseSlugs.add(review.slug);
+  const reason = review.bodyDatesReason;
+  if (reason !== undefined && !isBodyDatesReason(reason)) {
+    reportError({
+      type: 'review',
+      id: review.id,
+      slug: review.slug,
+      message: `bodyDatesReason "${reason}" fora da lista (${BODY_DATES_REASONS.join(', ')})`,
+    });
+    continue;
+  }
+  for (const problem of getProseProblems(checkReviewProse(review), reason, proseBaseline[review.slug])) {
+    reportError({ type: 'review', id: review.id, slug: review.slug, message: problem });
+  }
+}
+for (const slug of Object.keys(proseBaseline)) {
+  if (!portugueseSlugs.has(slug)) {
+    reportError({ type: 'review', id: -1, slug, message: 'scripts/review-prose-baseline.json cita um artigo em português que não existe' });
+  }
+}
+
+// Prova das regras de texto com artigos de mentira: o que fura sem estar na lista, a lista que tolera e a que
+// precisa encolher.
+{
+  const report = (message: string) => reportError({ type: 'review', id: -1, slug: '__review_prose__', message });
+  const expectDates = (text: string, expected: number) => {
+    const found = findDates(text);
+    if (found.length !== expected) report(`findDates("${text}") achou ${found.length} (${found.join(', ')}), esperado ${expected}`);
+  };
+  expectDates('26/10/2026, 5 de outubro de 2026, 1º de novembro, outubro de 2026 e 25/11', 5);
+  expectDates('1/2 xícara, 24/7, nota 8,4/10 e 3,5/10', 0);
+
+  const prontuario = checkReviewProse({
+    contentSections: [
+      { heading: 'Resposta rápida', paragraphs: ['Sai por R$ 99 em 26/10/2026.'] },
+      { heading: 'Preços', paragraphs: ['Lido em 27/10, 28/10 e 29/10.'], imageCaption: 'Foto de 30/10' },
+      { heading: 'Nota de transparência', paragraphs: ['Texto.'] },
+      { heading: 'Perguntas frequentes', bullets: ['Vale? Sim, testado em 31/10.'] },
+    ],
+  });
+  const expected = { quickAnswerPrice: true, transparencySection: true, bodyDates: 4, datesOutsideBody: 2 };
+  if (JSON.stringify(prontuario) !== JSON.stringify(expected)) {
+    report(`checkReviewProse: ${JSON.stringify(prontuario)}, esperado ${JSON.stringify(expected)}`);
+  }
+  if (getProseProblems(prontuario, undefined).length !== 4) report('artigo fora da lista furando as 4 regras não deu 4 problemas');
+  if (getProseProblems(prontuario, undefined, expected).length !== 0) report('a lista de pendentes não tolerou o que registra');
+  if (getProseProblems(prontuario, 'campanha', { ...expected, bodyDates: undefined }).length !== 0) {
+    report('bodyDatesReason não liberou 4 datas no corpo');
+  }
+  if (getProseProblems({ ...prontuario, bodyDates: 5 }, undefined, expected).length !== 1) {
+    report('mais datas que a lista registra não foi barrado');
+  }
+  if (!getProseProblems({ ...prontuario, quickAnswerPrice: false }, undefined, expected).some((p) => p.includes('tire "quickAnswerPrice"'))) {
+    report('a lista não pediu para encolher depois que o artigo melhorou');
   }
 }
 

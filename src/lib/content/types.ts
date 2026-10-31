@@ -356,6 +356,9 @@ export interface Cta {
 }
 
 /** Modelo canônico de review — compatível com data.ts legado + campos v1.1. */
+/** Por que um artigo em PT leva mais de 2 datas no corpo; a lista do validate:content é BODY_DATES_REASONS. */
+export type BodyDatesReason = 'campanha' | 'prazo-entrega' | 'reclame-aqui';
+
 export interface Review {
   // Identificação
   id: number;
@@ -432,6 +435,8 @@ export interface Review {
   hideFromPortugueseListings?: boolean;
   homeFeatured?: boolean;
   affiliate?: string;
+  /** Artigo em PT que precisa de mais de 2 datas no corpo (até 8): campanha, prazo de entrega ou Reclame Aqui. */
+  bodyDatesReason?: BodyDatesReason;
 
   // SEO
   seoTitle?: string;
