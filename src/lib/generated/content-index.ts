@@ -169465,7 +169465,35 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.9244
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Tech T-Shirt feminina",
+              "url": "https://creators.insiderstore.com.br/52ZMYx2",
+              "howTo": "Lisa, sozinha ou por baixo de camisa aberta e blazer.",
+              "occasion": "Dia a dia, viagem e trabalho sem formalidade.",
+              "pairsWith": [
+                {
+                  "label": "Bermuda Oversized Alfaiataria Kyoto",
+                  "url": "https://creators.insiderstore.com.br/ADkvNsc",
+                  "note": "a Insider vende com a Tech num conjunto"
+                },
+                {
+                  "label": "Saia Midi Tokyo FutureForm",
+                  "url": "https://creators.insiderstore.com.br/HG6m79S"
+                },
+                {
+                  "label": "jeans de cintura alta"
+                },
+                {
+                  "label": "tênis branco"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Gola V: a mesma linha, com outra gola",
@@ -169487,7 +169515,30 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.8456
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Tech T-Shirt Gola V",
+              "url": "https://creators.insiderstore.com.br/hwvgusR",
+              "howTo": "Sozinha ou por dentro da calça, com um colar fino na gola.",
+              "occasion": "Trabalho e saída à noite, sem formalidade.",
+              "pairsWith": [
+                {
+                  "label": "Calça FutureForm feminina",
+                  "url": "https://creators.insiderstore.com.br/xi4EYLQ"
+                },
+                {
+                  "label": "calça de alfaiataria"
+                },
+                {
+                  "label": "saia midi"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Manga longa: a Tech para o frio",
@@ -169502,7 +169553,30 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Tech T-Shirt Manga Longa",
+              "url": "https://creators.insiderstore.com.br/TQxS7si",
+              "howTo": "Sozinha no frio ou por baixo de colete, jaqueta e vestido de alça.",
+              "occasion": "Inverno e meia estação, no trabalho e no fim de semana.",
+              "pairsWith": [
+                {
+                  "label": "Calça FutureForm feminina",
+                  "url": "https://creators.insiderstore.com.br/xi4EYLQ"
+                },
+                {
+                  "label": "jeans"
+                },
+                {
+                  "label": "jaqueta jeans"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Daily e NEXTECH: viscose e premium",
@@ -169525,7 +169599,43 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Daily",
+              "howTo": "Para ficar em casa ou ir por baixo do moletom.",
+              "occasion": "Casa e fim de semana.",
+              "pairsWith": [
+                {
+                  "label": "calça de moletom"
+                },
+                {
+                  "label": "short de malha"
+                }
+              ]
+            },
+            {
+              "piece": "NEXTECH",
+              "url": "https://creators.insiderstore.com.br/PiVkjhd",
+              "howTo": "Sozinha, como peça principal; o caimento é levemente encorpado, segundo a loja.",
+              "occasion": "Viagem e dia a dia.",
+              "pairsWith": [
+                {
+                  "label": "Legging IN-ACTION Seamless",
+                  "url": "https://creators.insiderstore.com.br/vRk6X84"
+                },
+                {
+                  "label": "jeans"
+                },
+                {
+                  "label": "tênis"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "The Perfect Top T-Shirt: baby tee",
@@ -169540,7 +169650,30 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "The Perfect Top T-Shirt",
+              "url": "https://creators.insiderstore.com.br/ZxySZ23",
+              "howTo": "Curta, no formato baby tee, com peça de cintura alta.",
+              "occasion": "Fim de semana e passeio.",
+              "pairsWith": [
+                {
+                  "label": "Saia Mini Alfaiataria Kyoto",
+                  "url": "https://creators.insiderstore.com.br/jMgeL8b"
+                },
+                {
+                  "label": "jeans de cintura alta"
+                },
+                {
+                  "label": "short de alfaiataria"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Skin Cropped: cropped e manga longa",
@@ -169563,7 +169696,47 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Skin Cropped manga longa",
+              "url": "https://creators.insiderstore.com.br/HEfoAPL",
+              "howTo": "Como segunda pele, por baixo de vestido de alça ou macacão, ou sozinha.",
+              "occasion": "Dias frios.",
+              "pairsWith": [
+                {
+                  "label": "vestido de alça"
+                },
+                {
+                  "label": "macacão"
+                },
+                {
+                  "label": "jeans de cintura alta"
+                }
+              ]
+            },
+            {
+              "piece": "Skin Cropped",
+              "url": "https://creators.insiderstore.com.br/bgkXdGE",
+              "howTo": "Como segunda pele, no treino ou como peça principal, como a loja sugere.",
+              "occasion": "Treino e fim de semana.",
+              "pairsWith": [
+                {
+                  "label": "Legging IN-ACTION Seamless",
+                  "url": "https://creators.insiderstore.com.br/vRk6X84"
+                },
+                {
+                  "label": "calça de cintura alta"
+                },
+                {
+                  "label": "saia midi"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Preço com o cupom e o Pix",
