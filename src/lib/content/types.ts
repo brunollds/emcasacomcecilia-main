@@ -244,6 +244,38 @@ export interface ContentSectionImage {
   aspectRatio?: number;
 }
 
+/** Item do "combina com": com `url` é peça da loja (link de afiliado); sem, é do armário. */
+export interface StylingPair {
+  label: string;
+  url?: string;
+  note?: string;
+}
+
+/** Variação de cor da peça, só com o que combina com ela. */
+export interface StylingVariant {
+  color: string;
+  /** Cor da amostra em hex (#rrggbb); sem ela, a amostra não aparece. */
+  swatch?: string;
+  pairsWith: string[];
+  avoid?: string;
+}
+
+/** Uma peça do card de estilo; precisa de ao menos um dos três campos (como usar, ocasião, combina com). */
+export interface StylingItem {
+  piece: string;
+  url?: string;
+  howTo?: string;
+  occasion?: string;
+  pairsWith?: StylingPair[];
+  variants?: StylingVariant[];
+}
+
+/** Card de estilo dos artigos de roupa: `tabs` (um card por peça, com abas) ou `tags` (etiquetas lado a lado). */
+export interface ContentSectionStyling {
+  layout?: 'tabs' | 'tags';
+  items: StylingItem[];
+}
+
 /** Modelo legado real de contentSections em src/lib/data.ts. */
 export interface ContentSection {
   heading?: string;
@@ -279,6 +311,8 @@ export interface ContentSection {
     alt?: string;
     aspect?: 'video' | 'square' | 'portrait';
   };
+  /** Card "Como usar / Ocasião / Combina com", no fim da seção (ArticleStyling). */
+  styling?: ContentSectionStyling;
 }
 
 export interface GalleryImage {

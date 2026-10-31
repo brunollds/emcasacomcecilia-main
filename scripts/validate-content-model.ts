@@ -20,6 +20,7 @@ import {
   normalizeReview,
   resolveTotalMinutes,
   structuredIngredientToText,
+  type ContentSectionStyling,
 } from '@/lib/content';
 import { COUPONS } from '@/lib/couponsData';
 import { isFaqHeading, parseFaqBullet } from '@/lib/faq';
@@ -51,6 +52,41 @@ function reportError(error: ValidationError): void {
 
 function reportWarning(warning: ValidationWarning): void {
   warnings.push(warning);
+}
+
+// O card de estilo (ArticleStyling): o modelo, de 1 a 3 peças, cada uma com algum dos três campos, de 1 a 4 itens
+// no "combina com", links https e amostras de cor em hex. O markdown cru o plainTextBody já barra.
+function getStylingProblems(styling: ContentSectionStyling): string[] {
+  const problems: string[] = [];
+  const isHttps = (url: string) => /^https:\/\/[^\s]+$/.test(url);
+  if (styling.layout !== undefined && styling.layout !== 'tabs' && styling.layout !== 'tags') {
+    problems.push(`layout "${styling.layout}" (use "tabs" ou "tags")`);
+  }
+  const items = Array.isArray(styling.items) ? styling.items : [];
+  if (items.length < 1 || items.length > 3) problems.push(`${items.length} peças (de 1 a 3)`);
+  const pieces = new Set<string>();
+  for (const item of items) {
+    const name = item.piece?.trim();
+    if (!name) problems.push('peça sem nome (piece)');
+    else if (pieces.has(name)) problems.push(`peça repetida: ${name}`);
+    else pieces.add(name);
+    if (item.url && !isHttps(item.url)) problems.push(`${name}: link da peça sem https`);
+    const pairs = item.pairsWith ?? [];
+    if (!item.howTo?.trim() && !item.occasion?.trim() && pairs.length === 0 && !item.variants?.length) {
+      problems.push(`${name}: sem como usar, ocasião nem combina com`);
+    }
+    if (pairs.length > 4) problems.push(`${name}: ${pairs.length} itens no combina com (até 4)`);
+    for (const pair of pairs) {
+      if (!pair.label?.trim()) problems.push(`${name}: item do combina com sem label`);
+      if (pair.url && !isHttps(pair.url)) problems.push(`${name}: link de ${pair.label} sem https`);
+      if (pair.note && !pair.url) problems.push(`${name}: nota em ${pair.label}, que não é da loja (sem url)`);
+    }
+    for (const variant of item.variants ?? []) {
+      if (!variant.color?.trim() || !variant.pairsWith?.length) problems.push(`${name}: variação sem cor ou sem combina com`);
+      if (variant.swatch && !/^#[0-9a-f]{6}$/i.test(variant.swatch)) problems.push(`${name}: amostra "${variant.swatch}" fora de #rrggbb`);
+    }
+  }
+  return problems;
 }
 
 if (
@@ -411,6 +447,11 @@ for (const review of reviews) {
           slug: review.slug,
           message: `cabeçalho de tabela com markdown ("](" ou "**") em "${section.heading}": a página o mostra cru`,
         });
+      }
+      if (section.styling) {
+        for (const problem of getStylingProblems(section.styling)) {
+          reportError({ type: 'review', id: review.id, slug: review.slug, message: `card de estilo em "${section.heading}": ${problem}` });
+        }
       }
     }
     // O FAQ corta a pergunta no primeiro "?": "**Pergunta?** resposta" vira a pergunta "**Pergunta?" e a
