@@ -719,10 +719,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'diversos',
     shortDescription: 'produtos vendidos e entregues pelo Magalu na loja Magazine Você da Cecília',
     longDescription:
-      'Códigos exclusivos da parceria da Cecília com o Magalu, em 10 faixas de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Válidos apenas na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu. Confirmados ativos em 31/10/2026.',
+      'Códigos exclusivos da parceria da Cecília com o Magalu, em 10 faixas de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Válidos apenas na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu. Testado em 01/10/2026.',
     metaTitle: 'Cupom Magalu: até R$ 100 OFF com 100EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Magalu confirmado em 31/10/2026: 100EMCASACOMCECILIA dá até R$ 100 OFF na loja Magazine Você da Cecília. Vale só no navegador; veja as 10 faixas.',
+      'Cupom Magalu testado em 01/10/2026: 100EMCASACOMCECILIA dá até R$ 100 OFF na loja Magazine Você da Cecília. Vale só no navegador; veja as 10 faixas.',
     eligibleCategories:
       'Produtos vendidos e entregues pelo Magalu, conforme a faixa de valor mínimo de cada cupom',
     validity: 'Cupons ativos enquanto a parceria estiver vigente',
@@ -730,9 +730,9 @@ export const COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política do Magalu',
     combinable:
       'Soma com as promoções vigentes da loja e com o desconto do Pix; confirme o valor no checkout',
-    lastVerified: '2026-10-31',
+    lastVerified: '2026-10-01',
     testNote:
-      'Aplicamos os códigos no checkout da loja Magazine Você da Cecília, pelo navegador, em produtos vendidos e entregues pelo Magalu, e o desconto em reais da faixa alcançada apareceu no resumo do pedido. Em 31/10/2026, a Cecília, que cria e ativa os códigos na loja, confirmou as 10 faixas ativas.',
+      'Aplicamos os códigos no checkout da loja Magazine Você da Cecília, pelo navegador, em produtos vendidos e entregues pelo Magalu, e o desconto em reais da faixa alcançada apareceu no resumo do pedido.',
     aboutBrand:
       'A loja Magazine Você da Cecília faz parte do programa oficial Influenciador Magalu (antigo Magazine Você), mantido pela Magazine Luiza S/A (CNPJ 47.960.950/0001-21). O domínio magazinevoce.com.br pertence à própria Magalu desde 2011, o que significa que quem vende, cobra, entrega e faz o pós-venda é o Magalu — e o login usado na loja é a conta Magalu que você já tem no site e no app. Os códigos desta campanha são criados pela Cecília para a própria loja: estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília — não no app do Magalu nem no site principal. Comprar por essa loja pode gerar comissão para o Em Casa com Cecília, sem custo extra para você: o preço e o desconto exibidos no checkout são exatamente os da sua faixa.',
     faqs: [
@@ -784,7 +784,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'Cupom Magalu hoje: está funcionando?',
         answer:
-          'A última confirmação dos 10 códigos foi em 31 de outubro de 2026: a Cecília, que cria e ativa os códigos na loja, confirmou que todos estão ativos. Esta página é atualizada sempre que algo muda na campanha — se um código deixar de funcionar, o aviso aparece aqui.',
+          'A última confirmação dos 10 códigos foi em 1º de outubro de 2026. Todos estavam ativos. Esta página é atualizada sempre que algo muda na campanha — se um código deixar de funcionar, o aviso aparece aqui.',
       },
       {
         question: 'O cupom funciona no celular?',
