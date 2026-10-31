@@ -286,7 +286,7 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
       'O CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções. Testado em 26/10/2026 num carrinho de R$ 113,40, com R$ 11,34 de desconto.',
-    metaTitle: 'Cupom Dolce Gusto: 10% OFF com CECI na loja oficial',
+    metaTitle: 'Cupom Dolce Gusto: 10% OFF com CECI (nov/2026)',
     metaDescription:
       'Cupom Dolce Gusto testado em 26/10/2026: CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções.',
     eligibleCategories:
@@ -521,7 +521,7 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
     longDescription:
       'O CECI dá 10% OFF na loja oficial Nestlé Nutre e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado em 26/10/2026 num carrinho de R$ 283,78, com R$ 28,38 de desconto.',
-    metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI na loja oficial',
+    metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI (nov/2026)',
     metaDescription:
       'Cupom Nestlé Nutre testado em 26/10/2026: CECI dá 10% OFF e soma com as promoções. Não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.',
     eligibleCategories:
@@ -1426,7 +1426,7 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'todo o site Dr. Peanut, com todas as formas de pagamento',
     longDescription:
       'O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado em 26/10/2026 com um combo de pastas de amendoim em promoção: soma com as promoções e vale em todas as formas de pagamento.',
-    metaTitle: 'Cupom Dr. Peanut: 10% OFF em tudo com DREMCASACOMCECILIA',
+    metaTitle: 'Cupom Dr. Peanut: 10% OFF com DREMCASACOMCECILIA (nov/2026)',
     metaDescription:
       'Cupom Dr. Peanut testado em 26/10/2026: DREMCASACOMCECILIA dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Dr. Peanut',

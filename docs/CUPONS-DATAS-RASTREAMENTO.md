@@ -1,7 +1,7 @@
 # Rastreamento de datas mensais dos cupons
 
 > Documento de referência para facilitar a atualização mensal das referências de cupons no projeto.
-> Última atualização: 26/10/2026.
+> Última atualização: 31/10/2026.
 >
 > A data só deve avançar após verificação real ou confirmação direta da parceria, conforme
 > `docs/MANUTENCAO-MENSAL.md`. Este arquivo é o inventário dos locais; a rotina de verificação
@@ -15,11 +15,11 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 
 - `lastVerified` (ISO 8601: `YYYY-MM-DD`): vira "Cupom testado em" nas lojas com código
 - `testNote`: o texto do teste de checkout, que precisa continuar verdadeiro com a data nova
-- `metaTitle`: nas lojas convertidas em 24/10/2026 leva o mês no fim, como `(nov/2026)`, quando cabe
-  em 60 caracteres (I Wanna Sleep, Mais Mu, Skelt e Bagaggio convertidas na rodada de novembro; com
-  código longo, Probiótica, Max Titanium e Dr. Peanut ficam sem mês). Nos cupons de ciclo (Dolce Gusto
-  e Nestlé Nutre) e no Magalu, o título fica sem mês desde 24/10/2026: a data de teste vai só no "testado em".
-  Trocar o mês só nas ofertas reconferidas.
+- `metaTitle`: leva o mês da oferta no fim, como `(nov/2026)`, quando cabe em 60 caracteres. Desde
+  31/10/2026, Dolce Gusto, Nestlé Nutre e Dr. Peanut também (o Dr. Peanut sem o "em tudo"); com código
+  longo, Probiótica e Max Titanium ficam sem mês, e o Magalu também, até o teste das faixas. O mês é o
+  de `getOfferMonth` (`src/lib/offerMonth.ts`): teste do dia 20 em diante vale para o mês seguinte, e o
+  `test:coupon-offer-modes` barra título com outro mês. Trocar o mês só nas ofertas reconferidas.
 - `metaDescription` e `longDescription`: abrem com "Cupom <Loja> testado em dd/mm/aaaa" (a descrição)
   ou citam "testado em dd/mm/aaaa" (o texto do topo), com a data do `lastVerified`; a mesma data nos três
 - `monthlyHighlight.scope` / `monthlyHighlight.note` (quando houver regras específicas do mês)
@@ -30,7 +30,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | Slug | Marca | Código | Campos a verificar |
 |---|---|---|---|
 | `damie` | DAMIE | `CECILIA12` | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription` |
-| `dolce-gusto` | Nescafé Dolce Gusto | `CECI` (10% desde 26/10/2026, a partir de R$ 100) | `lastVerified`, `metaDescription`, `longDescription` (título sem mês); o percentual também está em 15 artigos (lista no fim de `docs/plans/2026-10-04-cupom-nutre-ceci-10.md`) |
+| `dolce-gusto` | Nescafé Dolce Gusto | `CECI` (10% desde 26/10/2026, a partir de R$ 100) | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription`; o percentual também está em 15 artigos (lista no fim de `docs/plans/2026-10-04-cupom-nutre-ceci-10.md`) |
 | `yesstyle` | YesStyle | Fonte canônica em `data/coupons/yesstyle.json` | `lastVerified` é calculado; atualizar somente o JSON factual. Os cupons da loja trocam a cada 3 dias, mais ou menos: cadência própria na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
 | `nestle-nutre` | Nestlé Nutre | `CECI` (10% desde 04/10/2026) | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription`; se o percentual mudar, usar `docs/plans/2026-10-04-cupom-nutre-ceci-10.md` |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription` |
@@ -60,7 +60,9 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 ### 2. `src/app/(pt)/cupons/[brand]/page.tsx` e `src/components/coupons/CouponStorePage.tsx`
 
 - O bloco de destaque mensal (`monthlyHighlight`) é renderizado automaticamente a partir dos dados.
-- Não há hardcode de mês/ano neste arquivo — a data exibida vem de `lastVerified`.
+- Não há hardcode de mês/ano neste arquivo. O "Cupom testado em" mostra o `lastVerified`; o mês do
+  quadro "atualizado: … (<mês> <ano>)" é o mês da oferta, `getOfferMonth(lastVerified)`
+  (`src/lib/offerMonth.ts`): teste do dia 20 em diante já mostra o mês seguinte.
 - **Não precisa editar** a menos que a estrutura do bloco mude.
 
 ### 3. `content/reviews/*.json` — artigos de cupom
@@ -143,6 +145,7 @@ grep -n -E "(Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez)\s+2026" content/re
 
 ## Checklist de atualização mensal
 
+- [ ] Testar todas as lojas com código no dia 1 (ou no primeiro momento possível do mês) e fazer o deploy no mesmo dia
 - [ ] Atualizar `lastVerified` em `src/lib/couponsData.ts` somente nas ofertas reconfirmadas
 - [ ] Atualizar o mês do `metaTitle` e a data "testado em" da `metaDescription` e da `longDescription` só nas ofertas reconfirmadas
 - [ ] Preservar `publishedAt` e `publishedAtISO` dos artigos já publicados, salvo republicação editorial real
