@@ -33,7 +33,7 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 - Contador e faixa de urgência do site são estratégia de marketing, não data de fim de promoção.
 
 ### Preço
-- Sempre com a data da pesquisa, e relido no dia de publicar.
+- A data da leitura fica no briefing e, no artigo, uma vez, na legenda da tabela de preço; o `editorialNote` não leva data (REGRAS-GLOBAIS, seção 7). A releitura no dia de publicar continua.
 - Só o preço de venda do dia. Não calcular "X% OFF" sobre o preço riscado: há catálogo que marca quase tudo como promoção.
 - Itens em pré-venda ou com dado quebrado (preço riscado menor que o preço, medida diferente do título) ficam fora.
 - Conta com pressupostos (pessoas, consumo por dia, dias úteis) vai com os pressupostos escritos, para o Bruno aprovar antes da redação.
@@ -59,8 +59,13 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 - O briefing traz o card proposto de cada seção para o Bruno aprovar junto com a pauta.
 
 ### Experiência própria e autoria
-- Pauta que depende de uso ("a camiseta é boa?") fica parada enquanto ninguém do site comprou ou recebeu o produto. Opinião sem uso só sai de ficha, composição e avaliações públicas citadas com número.
+- Pauta que depende de uso ("a camiseta é boa?") fica parada enquanto ninguém do site comprou ou recebeu o produto. Sem uso real, a opinião não sai solta: cada afirmação leva um dos rótulos da matriz de claims do briefing (Template, seção 6). "A loja informa:" para o que vem da loja; "Conta nossa:" para as contas nossas; "Regra prática, sem teste nosso:" para conhecimento geral, sempre com a premissa escrita; "Recebi:" ou "Usei:" só para experiência real.
+- O rótulo não autoriza falar de efeito no corpo: em saúde e beleza, a regra prática para antes de qualquer benefício.
 - Quando a experiência é do Bruno (ex.: cliente da Hostinger desde 2024), o artigo sai assinado por ele, com a experiência dele.
+
+### Anexo por tipo de artigo
+- Cada pauta indica no briefing (campo `anexo_tipo`) qual anexo de `00_Sistema/JOBS/Anexos/` vale para o tipo do artigo, ou "nenhum".
+- Por cima do anexo, a pauta propõe o bloco que só o site tem, na seção 10 do briefing: o julgamento por perfil (para quem serve e quando não escolher), a conta própria (a que o leitor faz com o rótulo ou a ficha, com os pressupostos escritos) e a armadilha (o erro mais comum de quem compra ou usa esse produto).
 
 ### Como a rodada roda (fluxo de 19/10/2026)
 1. Claude lê as lojas (navegador liberado ou leitura direta) e salva os dados num arquivo datado no scratchpad.
