@@ -29,7 +29,7 @@
 - **Leituras Obrigatórias:**
   1. `00_Sistema/REGRAS-GLOBAIS.md`
   2. `00_Sistema/CONTRATOS-DE-CONTEUDO.md` (nome de cada código, links e FAQ)
-  3. `00_Sistema/JOBS/Job-2-Redacao.md`
+  3. `00_Sistema/JOBS/Job-2-Redacao.md` e o anexo do tipo do artigo em `00_Sistema/JOBS/Anexos/`
   4. `01_Parceiros/[[Nome-do-Parceiro]].md`
   5. O briefing da pauta em `02_Artigos/<slug>.md`
   6. A nota do cluster, **se** `modo_i18n` for `paridade-completa`
@@ -42,7 +42,7 @@
 *Objetivo: Auditar alegações de saúde/técnicas, validar a matriz de claims, conferir disclosure e links.*
 - **Leituras Obrigatórias:**
   1. `00_Sistema/CONTRATOS-DE-CONTEUDO.md`
-  2. `00_Sistema/JOBS/Job-3-Revisao-Editorial.md`
+  2. `00_Sistema/JOBS/Job-3-Revisao-Editorial.md`, `00_Sistema/REGRAS-GLOBAIS.md` (seções 6 e 7) e o anexo do tipo em `00_Sistema/JOBS/Anexos/`
   3. `01_Parceiros/[[Nome-do-Parceiro]].md` (conferir dados voláteis e códigos ativos)
   4. O rascunho em `02_Artigos/<slug>.md`
   5. A nota do cluster, **se** `modo_i18n` for `paridade-completa`

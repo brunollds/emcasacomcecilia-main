@@ -5,18 +5,20 @@
 ---
 
 ## 1. Missão
-Auditar rigorosamente o rascunho antes da conversão técnica, garantindo integridade de fatos, tom da Cecília e segurança regulatória.
+Auditar rigorosamente o rascunho antes da conversão técnica, garantindo integridade de fatos, tom da Cecília e segurança regulatória. O texto tem de ler como uma pessoa ajudando, não como um laudo.
 
 ---
 
 ## 2. Checklist de Revisão Obrigatória
+
+### 2.1 Checagens de julgamento
 - [ ] **1. Matriz de Claims:** Todas as afirmações da tabela foram verificadas contra fontes oficiais ou experiência comprovada?
-- [ ] **2. Alerta de Saúde / Regulatório:** Em temas médicos/suplementares, há o aviso explícito de orientação profissional e ausência de claims ilegais?
-- [ ] **3. Disclosure Legal:** O `editorialNote` está presente e correto sobre comissão/parceria?
+- [ ] **2. Alerta de Saúde / Regulatório:** Em temas médicos/suplementares, há o aviso explícito de orientação profissional e ausência de claims ilegais? Rótulo nenhum libera efeito no corpo (C9).
+- [ ] **3. Disclosure Legal:** O `editorialNote` está presente e correto sobre comissão/parceria? Ele continua curto (até 3 linhas no celular, sem data): a divulgação e, se couber, "ninguém da equipe usou". A antiga seção "Nota de transparência" sai do corpo (C3); a data da leitura fica na legenda da tabela de preço e o método, no vault.
 - [ ] **4. Âncoras e Links:**
   - Os links para a página da loja são relativos e no idioma do artigo (`/cupons/<marca>` em português, `/<locale>/coupons/<marca>` nas traduções)?
   - Não há repetição mecânica de âncoras genéricas como "clique aqui"?
-- [ ] **5. Tom de Voz:** O texto soa natural, honesto e focado na vida real em casa?
+- [ ] **5. Tom de Voz:** O texto soa natural, honesto e focado na vida real em casa? Passa também no item final (leitura em voz alta).
 - [ ] **6. Escopo por Locale:** Claims universais estão separados dos fatos de
   país, moeda, entrega, catálogo ou campanha que precisam de rechecagem/localização?
 - [ ] **7. Gate i18n:** A pauta segue o modo registrado no Job 1 (`somente-pt` ou
@@ -33,5 +35,35 @@ Auditar rigorosamente o rascunho antes da conversão técnica, garantindo integr
   para o Job 6 (capa e imagens), e só depois para o Job 4.
 - [ ] **10. Resposta rápida e veredito:** a resposta rápida é um parágrafo de 2 ou 3
   frases (40 a 60 palavras), só com a decisão e a frase que aponta o que muda a
-  escolha? Tudo o que ela diz também está num capítulo? Em comparativo e guia de
-  escolha, há capítulo de veredito antes do FAQ (`REGRAS-GLOBAIS.md`, seção 6)?
+  escolha, sem preço (C1)? Tudo o que ela diz também está num capítulo? Em comparativo
+  e guia de escolha, há capítulo de veredito antes do FAQ (`REGRAS-GLOBAIS.md`, seção 6)?
+
+### 2.2 Checagens contáveis
+O revisor conta no JSON: `contentSections`, FAQ, legendas e tabelas. O `editorialNote` entra só onde a linha diz. Falha em qualquer linha volta o rascunho ao Job 2.
+
+| # | Checagem | Como conta | Passa se |
+|---|---|---|---|
+| C1 | R$ na resposta rápida | Ocorrências de "R$" e "reais" no parágrafo da resposta rápida | Zero |
+| C2 | Datas no corpo | Datas (dd/mm, dd/mm/aaaa, "dia 25 de novembro") em capítulos, FAQ, tabelas, legendas e títulos. O `editorialNote` fica fora | A data da leitura uma vez, na legenda da tabela de preço, e no máximo mais uma; sem data em legenda de foto, célula, título, FAQ ou `editorialNote`. Exceção (nota do Reclame Aqui, fim de campanha, prazo de entrega) não conta, e só vale onde o número muda de sentido sem o período |
+| C3 | "Nota de transparência" no corpo | Busca do título em qualquer bloco do corpo, inclusive FAQ | Zero. A divulgação fica no `editorialNote` (curto, sem data); a data, na legenda da tabela; o método, no vault |
+| C4 | "segundo a loja" | Ocorrências dentro de cada capítulo (cada `##`) | No máximo 1 por capítulo |
+| C5 | "ninguém usou", "ninguém do site usou", "não testamos" | Ocorrências no corpo (fora do `editorialNote`) | Zero. Uma vez só, no capítulo do cupom, e só quando a ressalva muda a compra, com o que fazer |
+| C6 | Número repetido | Cada preço, %, nota ou contagem da tabela: quantas vezes aparece no resto do artigo | O parágrafo não repete o valor da tabela e diz o que ela não diz. O veredito retoma no máximo uma vez o número decisivo. O FAQ não traz valor com centavos e aponta o capítulo |
+| C7 | Capítulo só de encaminho ou método | Capítulo de uma frase, ou só link para outro artigo, ou que explica "como lemos", "método" ou "como testamos" | Zero. Encaminho vira frase no capítulo vizinho ou item do FAQ |
+| C8 | Foto de produto | Cada produto com capítulo próprio: a foto está nesse capítulo. Se o produto tem link de afiliado, a foto tem `href` igual a ele | Todas; nenhuma foto de produto fora do capítulo dele |
+| C9 | Rótulos | Conta as 4 frases de "Rótulos permitidos" (abaixo) no corpo | Cada uma no máximo uma vez; nenhuma numa frase de efeito (benefício, saúde, beleza, desempenho); "Regra prática, sem teste nosso:" com a premissa escrita na mesma frase |
+| C10 | Anexo do tipo | O tipo é Moda, Casa-Malas, Beleza, Suplementos-Alimentos ou Tecnologia; abre `00_Sistema/JOBS/Anexos/Anexo-<Tipo>.md` | O artigo segue o anexo. Tipo fora da lista ou anexo ausente: o revisor para e avisa, sem inventar regra |
+| C11 | Briefing × REGRAS-GLOBAIS | Lê o esqueleto e a resposta rápida planejada do briefing contra `REGRAS-GLOBAIS.md`, seção 6 | Nenhum item contradiz a seção 6 (ex.: R$ ou preço com cupom na resposta rápida). Se contradiz, vale a REGRAS-GLOBAIS e o briefing é corrigido antes da redação |
+
+### 2.3 Rótulos permitidos (C9)
+Cada rótulo, com o texto exato, aparece no máximo uma vez por artigo, e só onde se aplica:
+- **"A loja informa:"** para o que vem da loja.
+- **"Conta nossa:"** para as nossas contas, com os pressupostos escritos.
+- **"Regra prática, sem teste nosso:"** para conhecimento geral, com a premissa escrita. Ex.: "Regra prática, sem teste nosso: a mala de 45 L leva de 5 a 7 dias com uma troca por dia."
+- **"Recebi:" ou "Usei:"** para experiência real declarada. Sem experiência, não aparece.
+
+### 2.4 Leitura em voz alta (item final)
+O revisor lê, em voz alta e como leitor, a resposta rápida e um capítulo do meio. Responde em uma linha: soa como pessoa ajudando ou como laudo? Se for laudo, cita a frase que pesa (ex.: lista de números sem frase que os explique) e o rascunho volta ao Job 2.
+
+### 2.5 Saída do revisor
+Uma linha por item (1 a 10, C1 a C11 e a leitura em voz alta): passou ou não, e o número contado. Falha: a frase exata e o capítulo onde ela está.

@@ -6,6 +6,7 @@ parceiro: "" # Ex: "[[Dolce-Gusto]]", "[[I-Wanna-Sleep]]", "[[Nestle-Nutre]]", "
 category: "" # guias-praticos-utilidade | produtos-experiencias | cupons-como-usar | confianca-reputacao
 reviewKind: "" # guia | produto | editorial
 type: "" # Ex: "Guia Prático", "Móveis de Luxo", etc.
+anexo_tipo: "" # nome do anexo em 00_Sistema/JOBS/Anexos/, sem .md; "nenhum" se o tipo não tem anexo
 status: "briefing" # briefing (antes das decisões do Bruno) | pauta-aprovada | em-redacao | em-revisao | em-conformacao-json | pronto-para-gates | pronto-para-deploy | publicado
 responsavel: "Claude"
 proxima_acao: "decisao-do-bruno" # depois das decisões: "redacao"
@@ -86,12 +87,15 @@ status_i18n: "nao-aplicavel" # nao-aplicavel | em-localizacao | completo
 
 ## 6. Matriz de Claims & Afirmações Planejadas
 > *Regra Inegociável: Proibido aprovar com "Fonte Exata" vazia ou genérica.*
+> Cada claim indica o rótulo que o texto vai usar: "A loja informa:", "Conta nossa:", "Regra prática, sem teste nosso:" ou "Recebi:" ou "Usei:" (só com uso real). Job 1, seção 1, "Experiência própria e autoria".
 
-| Afirmação planejada no artigo | Tipo de Dado | Fonte Exata (URL / Embalagem / Resolução) | Localização / Trecho | Data Consulta | Pode Publicar? |
-|---|---|---|---|---|---|
-| *(Ex: 13g de proteína por 15g)* | Fato oficial | Embalagem física 280g | Tabela nutricional verso | 2026-08-23 | [x] Sim |
-| *(Ex: Resolve insônia crônica)* | Alegação médica | Proibida | N/A | N/A | [ ] Não |
-| *(Ex: Testamos em nossa cozinha)* | Experiência própria | Fotos/vídeos registrados | Arquivo de mídia local | 2026-08-23 | [x] Sim |
+| Afirmação planejada no artigo | Rótulo no texto | Tipo de Dado | Fonte Exata (URL / Embalagem / Resolução) | Localização / Trecho | Data Consulta | Pode Publicar? |
+|---|---|---|---|---|---|---|
+| *(Ex: 13g de proteína por 15g)* | A loja informa: | Fato oficial | Embalagem física 280g | Tabela nutricional verso | 2026-08-23 | [x] Sim |
+| *(Ex: custo por porção calculado a partir da ficha)* | Conta nossa: | Conta própria | Ficha do produto, com os pressupostos escritos | Ficha e pressupostos no briefing | 2026-08-23 | [x] Sim, com o Bruno ter aprovado os pressupostos |
+| *(Ex: a mala de 45 L leva de 5 a 7 dias com uma troca por dia)* | Regra prática, sem teste nosso: | Conhecimento geral | Premissa escrita: uma troca por dia | N/A | 2026-08-23 | [x] Sim, com a premissa no texto |
+| *(Ex: Testamos em nossa cozinha)* | Recebi: ou Usei: | Experiência própria | Fotos/vídeos registrados | Arquivo de mídia local | 2026-08-23 | [x] Sim, só com uso real |
+| *(Ex: Resolve insônia crônica)* | — | Alegação médica | Proibida | N/A | N/A | [ ] Não |
 
 ---
 
@@ -117,7 +121,12 @@ status_i18n: "nao-aplicavel" # nao-aplicavel | em-localizacao | completo
 ---
 
 ## 9. Esqueleto do artigo
-*(Títulos reais de H2 e o que cada seção responde.)*
+*(Uma linha por capítulo, com o TEMA: o que o capítulo responde, qual dado próprio ele usa e qual orientação dá. Nunca o texto pronto. Nenhuma linha leva número, R$, conta ou preço. A linha da resposta rápida diz só a decisão e a frase que aponta o que muda a escolha. Caso real: um esqueleto trouxe "a Pantalona de R$ 179 saiu por R$ 152,15" e o artigo copiou.)*
+
+- **Resposta rápida:** a decisão e o que muda a escolha, sem número, R$ nem conta.
+- **H2 (título real do capítulo):** a pergunta que responde, o dado que a tabela ou a ficha traz e a orientação final.
+- **Veredito (comparativo e guia de escolha):** o perfil de cada escolha e o número decisivo que o sustenta.
+- **FAQ:** os temas das perguntas, cada um apontando para o capítulo que responde.
 
 ---
 
@@ -131,6 +140,15 @@ status_i18n: "nao-aplicavel" # nao-aplicavel | em-localizacao | completo
 
 ## Dados do navegador (<data da leitura>)
 *(O que foi lido no navegador ou por leitura direta, com a data. Pendências: `[PENDENTE: navegador]` com a URL exata.)*
+
+---
+
+## 10. O que só o site dá
+*(Bloco curto, por cima do anexo do tipo. Uma linha por item, sem texto pronto.)*
+
+- **Perfis:** para quem serve, e para quem não serve ou quando não escolher. Um perfil por linha, com o que muda para ele.
+- **Conta própria:** a conta que o leitor faz com o rótulo ou a ficha, com os pressupostos escritos (quem, quanto, quantas vezes). Antes da redação, o Bruno aprova os pressupostos.
+- **Armadilha:** o erro mais comum de quem compra ou usa esse produto, e como evitá-lo.
 
 ---
 
