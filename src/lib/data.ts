@@ -1,7 +1,7 @@
 import { recipesData, reviewsData } from './generated/content-index';
 import type { ReviewCategory } from './reviewDiscovery';
 import type { Locale } from '@/lib/i18n/locales';
-import type { ContentSectionStyling } from '@/lib/content/types';
+import type { BodyDatesReason, ContentSectionStyling } from '@/lib/content/types';
 
 // 📊 Dados Unificados - Em Casa com Cecília
 
@@ -174,6 +174,7 @@ export interface Review {
   hideFromPortugueseListings?: boolean;
   homeFeatured?: boolean;
   affiliate?: string;
+  bodyDatesReason?: BodyDatesReason;
   image?: string;
   imageAlt?: string;
   imageAspect?: 'landscape' | 'portrait' | 'square';
