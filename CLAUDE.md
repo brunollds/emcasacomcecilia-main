@@ -258,9 +258,18 @@ vídeo, primeiras impressões e uso noturno.
   (artigo sem loja), o dock aparece na primeira seção. Na sidebar, o sumário tem altura máxima e rola
   por dentro para o recorte continuar à vista.
 - `placement` dos eventos `coupon_copy` e `coupon_store_click` dos artigos: `review_top`, `review_inline`,
-  `review_sidebar`, `review_mobile_dock`, `review_mobile_drawer` e `review_end`, mais `review_banner_top` e
-  `review_banner_mid` (só `coupon_store_click`, sem `coupon_code`). `review_final_cta` e `review_verdict` saíram;
-  componente novo do artigo passa sempre um desses.
+  `review_sidebar`, `review_mobile_dock`, `review_mobile_drawer` e `review_end`, mais `review_banner_top`,
+  `review_banner_mid` e `review_styling` (só `coupon_store_click`, sem `coupon_code`). `review_final_cta` e
+  `review_verdict` saíram; componente novo do artigo passa sempre um desses.
+- Card de estilo dos artigos de roupa ("Como usar / Ocasião / Combina com"): o campo `styling` da seção
+  (`{ layout?: 'tabs' | 'tags', items: [...] }`, tipos em `src/lib/content/types.ts`), desenhado por
+  `ArticleStyling` (`src/components/review/article/`) no fim da seção. Cada seção escolhe o modelo: `tabs` (o padrão),
+  um card por peça com uma aba por campo, ou `tags`, as peças como etiquetas lado a lado, com tudo à vista. Por peça:
+  `piece` e ao menos um de `howTo`, `occasion` e `pairsWith` (1 a 4 itens; com `url` é peça da loja, link de
+  afiliado com sponsored e `note` opcional; sem `url`, básico do armário), mais `url` da peça e `variants` (cor,
+  `swatch` em #rrggbb, `pairsWith` e `avoid`) opcionais; de 1 a 3 peças por seção, sem markdown e sem preço. Os
+  rótulos, nos 10 idiomas, ficam em `src/components/review/stylingCopy.ts`. O `validate:content` confere o dado e o
+  `test:build-output`, o card no HTML (modelo, texto das abas fechadas, rótulos do idioma e sponsored).
 - Banners de campanha da loja ("Publicidade"): as campanhas ficam em `src/lib/storeBanners.ts`, chaveadas pelo
   `affiliate`, e entram sozinhas em todo artigo da loja, nos 10 idiomas. O `top` vai logo depois da 1ª seção do corpo
   e o `mid` logo antes do FAQ (sem FAQ, da última), pela prop `slots` do `ReviewContentSections`. O banner
