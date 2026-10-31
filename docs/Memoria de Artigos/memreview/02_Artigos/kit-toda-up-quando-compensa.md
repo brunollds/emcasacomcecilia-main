@@ -9,9 +9,9 @@ coupon: "MAUAD"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao"
+proxima_acao: "no main em 31/10/2026; aguarda deploy"
 bloqueado_por: null
 score_autoridade: 55
 score_conversao: 65

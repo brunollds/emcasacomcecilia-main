@@ -131711,9 +131711,9 @@ export const reviewsData: unknown[] = [
               "R$ 49,90"
             ],
             [
-              "Kit Top Faixa ou Triangular + Calcinha Biquíni Cotton Up",
-              "R$ 189,80",
-              "R$ 170,82"
+              "Kit Top Faixa ou Triangular + Calcinha Biquíni Cotton Up (preço de 31/10/2026)",
+              "R$ 172,80",
+              "R$ 155,52"
             ]
           ]
         },
@@ -177374,6 +177374,1273 @@ export const reviewsData: unknown[] = [
       {
         "slug": "tabela-de-medidas-insider",
         "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+      }
+    ]
+  },
+  {
+    "id": 775,
+    "slug": "mochila-de-viagem-bagaggio-qual-escolher",
+    "locale": "pt",
+    "title": "Mochila de viagem Bagaggio: qual escolher e qual vai como bagagem de mão",
+    "seoTitle": "Mochila de viagem Bagaggio: qual vai como bagagem de mão",
+    "type": "Comparativo de Mochilas de Viagem",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mochila de viagem Bagaggio: Explore, Voyage, Vacuum Airtrack, Donna Grande e Royale com preço de cartão de 31/10/2026, medida e litros da loja, cruzados com o item pessoal e a mala pequena de LATAM, Azul e GOL.",
+    "metaDescription": "Explore, Voyage, Vacuum Airtrack, Donna Grande e Royale com preço de 31/10/2026, medida e litros da loja, e qual cabe como item pessoal ou mala pequena na LATAM, na Azul e na GOL.",
+    "publishedAt": "31 de outubro de 2026",
+    "publishedAtISO": "2026-10-31",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-capa.webp",
+    "imageAlt": "Mochilas de viagem Explore e Voyage da Bagaggio, pretas, em foto oficial da loja, com o logo da Bagaggio",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para voar só com a mochila, a Vacuum Airtrack e a Explore sem expandir cabem no item pessoal de LATAM e Azul, grátis até na tarifa Basic da LATAM. A Voyage e a Donna Grande passam de 45 cm e só entram como mala pequena. O que muda a escolha é a tarifa e a expansão, cruzadas abaixo."
+        ]
+      },
+      {
+        "heading": "Os modelos e o preço de cada um",
+        "paragraphs": [
+          "A busca 'mochila viagem' da loja devolve cinco modelos, contando as cores: a Explore em quatro cores, a Voyage, a Vacuum Airtrack, a Donna Grande em preto e fendi e o kit Royale com nécessaire em preto e cinza. Os preços são do cartão, lidos nas páginas dos produtos em 31/10/2026. Medida, litros e expansão também vêm da loja.",
+          "A Explore aparece com preço riscado de R$ 399,90, e a Voyage, de R$ 649,90. As duas colunas da direita cruzam a medida da loja com o item pessoal (45 × 35 × 20 cm) e a mala pequena (55 × 35 × 25 cm) que LATAM e Azul publicam; a regra inteira está no capítulo da bagagem de mão."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Preço no cartão",
+            "Medida (loja)",
+            "Litros",
+            "Item pessoal (45 × 35 × 20)",
+            "Mala pequena (55 × 35 × 25)"
+          ],
+          "rows": [
+            [
+              "[Explore, expansível (4 cores)](https://www.bagaggio.com.br/mochila-de-viagem-grande-expansivel-explore-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 299,90",
+              "45 × 34 × 10 cm; 45 × 34 × 25 cm expandida",
+              "33 L; 42 L expandida",
+              "Sim, sem expandir",
+              "Sim, até expandida"
+            ],
+            [
+              "[Voyage para notebook, expansível](https://www.bagaggio.com.br/mochila-de-viagem-grande-para-viagem--expansivel-voyage-para-notebook-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 449,90",
+              "48,5 × 32 × 15 cm; 48,5 × 32 × 35 cm expandida",
+              "23 L; 54 L expandida",
+              "Não (48,5 cm)",
+              "Sim, só sem expandir"
+            ],
+            [
+              "[Vacuum Airtrack Preta](https://www.bagaggio.com.br/mochila-de-viagem-vacuum-airtrack-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 499,90",
+              "44 × 32 × 20 cm",
+              "28,1 L",
+              "Sim",
+              "Sim"
+            ],
+            [
+              "[Donna Grande para notebook (preta ou fendi)](https://www.bagaggio.com.br/mochila-de-viagem-feminina-executiva-para-notebook-donna-preta-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 299,90",
+              "48 × 32 × 16 cm",
+              "24,5 L",
+              "Não (48 cm)",
+              "Sim"
+            ],
+            [
+              "[Kit Royale com nécessaire (preto ou cinza)](https://www.bagaggio.com.br/kit-mochila-de-viagem-feminina-executiva-para-notebook-e-necessaire-executiva-feminina-royale-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 449,80",
+              "45 × 35 × 13 cm (mochila)",
+              "20 L; nécessaire 2,16 L",
+              "Sim",
+              "Sim"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-preta.webp",
+            "alt": "Mochila de viagem expansível Explore da Bagaggio, preta, de frente, em foto oficial da loja",
+            "caption": "Explore Preta: 45 × 34 × 10 cm fechada, 33 litros, R$ 299,90 no cartão. Foto oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6567,
+            "href": "https://www.bagaggio.com.br/mochila-de-viagem-grande-expansivel-explore-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          },
+          {
+            "src": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-voyage.webp",
+            "alt": "Mochila de viagem expansível Voyage para notebook da Bagaggio, preta, de frente, em foto oficial da loja",
+            "caption": "Voyage: 48,5 × 32 × 15 cm fechada, 23 litros, R$ 449,90 no cartão. Foto oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6682,
+            "href": "https://www.bagaggio.com.br/mochila-de-viagem-grande-para-viagem--expansivel-voyage-para-notebook-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Para que viagem serve cada uma",
+        "paragraphs": [
+          "O que separa uma da outra é o que a página de cada produto informa: litros, expansão, compartimento de notebook e o que vem junto."
+        ],
+        "bullets": [
+          "Explore, R$ 299,90: a loja a descreve para trabalho, rotina e viagens curtas. Fechada, tem 33 litros e 10 cm de profundidade; a expansão leva a 42 litros e 25 cm. A descrição cita porta-notebook de até 17,3 polegadas, abertura em 180°, entrada USB lateral e bolso traseiro antifurto. Vem em preto, rose, azul-marinho e branco com caramelo, todas ao mesmo preço.",
+          "Voyage, R$ 449,90: a de mais espaço. Fechada, 23 litros; expandida, 54 litros, com 35 cm de profundidade. A descrição cita compartimento para notebook de até 16 polegadas e alça carona para encaixar no puxador da mala. É a escolha de quem vai levar roupa de vários dias numa mochila só, mas, expandida, ela deixa de caber como mala pequena.",
+          "Vacuum Airtrack, R$ 499,90: 28,1 litros, 44 × 32 × 20 cm, com sistema de compressão a vácuo para a roupa ocupar menos espaço. A própria loja avisa que o vácuo só funciona com a Bomba de Sucção Elétrica Portátil, vendida à parte; o [kit com a bomba](https://www.bagaggio.com.br/kit-de-mochila-de-viagem-vacuum-airtrack-preta-e-bomba-de-succao-eletrica-portatil-branca/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) saía por R$ 574,85 no cartão, com riscado de R$ 649,80. Sem a bomba, ela é uma mochila de 28 litros na medida do item pessoal.",
+          "Donna Grande, R$ 299,90: executiva feminina, em poliéster e PVC, 24,5 litros, 48 × 32 × 16 cm, com divisória para notebook de até 15,6 polegadas. A loja a indica para trabalho, estudo e viagens curtas. Não confunda com a Donna Média, de 44,5 × 35 × 15 cm e outro cadastro, que está no [comparativo de mochilas para notebook](/reviews/mochila-notebook-bagaggio-qual-escolher).",
+          "Kit Royale, R$ 449,80: mochila executiva feminina de 20 litros, 45 × 35 × 13 cm, mais uma nécessaire de 12 × 20 × 9 cm. É o único da lista que já vem com a nécessaire, e o único que não traz expansão nem litragem acima de 20."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-airtrack.webp",
+            "alt": "Mochila Vacuum Airtrack da Bagaggio aberta, com o saco de roupa sendo comprimido pela bomba de sucção, em foto oficial da loja",
+            "caption": "Vacuum Airtrack aberta: o saco a vácuo só funciona com a bomba, vendida à parte ou no kit. Foto oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 1.454,
+            "href": "https://www.bagaggio.com.br/mochila-de-viagem-vacuum-airtrack-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          },
+          {
+            "src": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-donna.webp",
+            "alt": "Mochila de viagem feminina executiva Donna Grande da Bagaggio, preta, de frente, em foto oficial da loja",
+            "caption": "Donna Grande Preta: 48 × 32 × 16 cm, 24,5 litros, poliéster e PVC. Foto oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6711,
+            "href": "https://www.bagaggio.com.br/mochila-de-viagem-feminina-executiva-para-notebook-donna-preta-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          },
+          {
+            "src": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-royale.webp",
+            "alt": "Mochila executiva feminina Royale da Bagaggio, preta, de frente, em foto oficial da loja",
+            "caption": "Royale Preta, a mochila do kit com nécessaire: 45 × 35 × 13 cm, 20 litros. Foto oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8137,
+            "href": "https://www.bagaggio.com.br/kit-mochila-de-viagem-feminina-executiva-para-notebook-e-necessaire-executiva-feminina-royale-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Qual cabe como bagagem de mão",
+        "paragraphs": [
+          "A companhia aérea separa a bagagem de mão em duas peças: o item pessoal, que vai debaixo do assento, e a mala pequena, que vai no compartimento de cima. A mochila pode entrar como uma ou como outra, e isso muda o que é grátis. As medidas abaixo são das páginas de bagagem da LATAM e da Azul, lidas em 31/10/2026, e da GOL, lida em 30/10/2026. Elas mudam, então confirme na sua companhia antes de viajar."
+        ],
+        "bullets": [
+          "LATAM, [página de bagagem de mão](https://www.latamairlines.com/br/pt/experiencia/prepare-sua-viagem/bagagem/bagagem-de-mao): bolsa ou mochila de 45 × 35 × 20 cm, contando bolsos e alças, até 10 kg, debaixo do assento, em todas as tarifas. Mala pequena de 55 × 35 × 25 cm, até 12 kg na Economy. A tarifa Basic não inclui a mala pequena. Peça fora da medida vai ao porão, com taxa.",
+          "Azul, [página de bagagens](https://www.voeazul.com.br/br/pt/sua-viagem/planeje/bagagens): artigo pessoal de 45 × 35 × 20 cm, debaixo do assento; bagagem de mão de 55 × 35 × 25 cm, até 10 kg.",
+          "GOL, [página de bagagem](https://www.voegol.com.br/informacoes/bagagem), leitura de 30/10: item debaixo do assento de 32 × 43 × 22 cm, até 10 kg; mala pequena de 55 × 35 × 25 cm, até 12 kg, exceto na tarifa Basic."
+        ],
+        "postParagraphs": [
+          "Cruzando com a medida da loja: a Vacuum Airtrack (44 × 32 × 20 cm), o kit Royale (45 × 35 × 13 cm) e a Explore fechada (45 × 34 × 10 cm) ficam dentro dos 45 × 35 × 20 cm de LATAM e Azul. Numa passagem Basic da LATAM, que não inclui a mala pequena, uma dessas três é a única bagagem que embarca sem pagar. A Voyage (48,5 cm) e a Donna Grande (48 cm) passam dos 45 cm de altura e entram só como mala pequena, que a Basic não cobre.",
+          "Na GOL, pela leitura de 30/10, nenhuma das cinco cabe no item de 32 × 43 × 22 cm: a mais baixa, a Airtrack, tem 44 cm. Lá, todas entram como mala pequena, fora da tarifa Basic da GOL.",
+          "Caber na medida não é garantia de embarque. Quem decide é o funcionário no balcão ou no portão, e uma mochila cheia pode passar do que a página do produto diz. Se a sua viagem pede mala com rodinhas, o [comparativo de mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa) cruza as malas com a mesma regra."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-airtrack-h.webp",
+            "alt": "Mulher de costas com a mochila Vacuum Airtrack preta da Bagaggio, em frente a um portão, em foto oficial da loja",
+            "caption": "Vacuum Airtrack nas costas: 44 × 32 × 20 cm, dentro do item pessoal de LATAM e Azul. Foto oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.bagaggio.com.br/mochila-de-viagem-vacuum-airtrack-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Expansível: a medida muda?",
+        "paragraphs": [
+          "Muda, e a loja mostra as duas medidas. A Explore vai de 10 para 25 cm de profundidade: fechada, 45 × 34 × 10 cm e 33 litros; expandida, 45 × 34 × 25 cm e 42 litros. Expandida, ela sai do item pessoal, porque passa dos 20 cm, mas segue dentro da mala pequena de 55 × 35 × 25 cm, no limite exato dos 25 cm de profundidade.",
+          "A Voyage vai de 15 para 35 cm: fechada, 48,5 × 32 × 15 cm e 23 litros; expandida, 48,5 × 32 × 35 cm e 54 litros. Expandida, ela passa 10 cm dos 25 cm da mala pequena. Para voar com ela, a leitura é simples: só cabe fechada.",
+          "A conta vale para a medida que a loja publica. Mochila cheia estufa, e o zíper da expansão parcialmente aberto já muda a profundidade. Se a viagem depende de caber no gabarito, feche a expansão antes do embarque e deixe o excesso para a volta."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-preta-2.webp",
+            "alt": "Mochila Explore da Bagaggio, preta, de lado, mostrando o zíper da expansão e as fivelas laterais, em foto oficial da loja",
+            "caption": "Explore de lado: a expansão leva a profundidade de 10 para 25 cm. Foto oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.703,
+            "href": "https://www.bagaggio.com.br/mochila-de-viagem-grande-expansivel-explore-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          },
+          {
+            "src": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-voyage-2.webp",
+            "alt": "Mochila Voyage da Bagaggio, preta, de lado, com a fivela lateral e a entrada USB, em foto oficial da loja",
+            "caption": "Voyage de lado: expandida, a profundidade vai de 15 para 35 cm e passa da mala pequena. Foto oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.731,
+            "href": "https://www.bagaggio.com.br/mochila-de-viagem-grande-para-viagem--expansivel-voyage-para-notebook-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Garantia de cada mochila",
+        "paragraphs": [
+          "A garantia é a que a página de cada produto indica, e ela varia: 90 dias na Explore e na Vacuum Airtrack, 3 meses na Donna Grande e 3 anos na Voyage. No kit Royale, a página do preto diz 3 meses e a do cinza, 3 anos; confira a da cor que você escolher.",
+          "A garantia vitalícia da Bagaggio é para as malas da marca. Pela página da loja, mochila não entra nela. Os detalhes estão no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive em produto com preço riscado, como a Explore e a Voyage. Vale um cupom por pedido, e a promoção de 50% na 2ª peça é outro cupom, que não soma com ele. No Pix, a loja tira mais 5% sobre o total com cupom: foi o que aconteceu no nosso teste de 22/10/2026, numa mala avulsa.",
+          "Não testamos o cupom no carrinho de uma mochila, por isso não publicamos o valor final de nenhuma delas. Confira o desconto no resumo do pedido antes de pagar. A regra está na página do [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "A escolha começa pela passagem. Se a tarifa não inclui a mala pequena, como a Basic da LATAM, a mochila precisa caber em 45 × 35 × 20 cm, e sobram três. Se a mala pequena está incluída, o critério passa a ser quanto você leva."
+        ],
+        "bullets": [
+          "Só com a mochila, sem pagar bagagem: Explore fechada (33 litros, R$ 299,90) ou Vacuum Airtrack (28,1 litros, R$ 499,90). A Explore leva mais e custa menos; a Airtrack comprime a roupa, mas só com a bomba, que sobe o gasto para R$ 574,85 no kit.",
+          "Viagem mais longa, com a mala pequena incluída: Voyage, que chega a 54 litros expandida por R$ 449,90, e fechada ainda cabe no compartimento de cima.",
+          "Trabalho e viagem curta, com notebook de até 15,6 polegadas: Donna Grande, R$ 299,90, lembrando que ela só entra como mala pequena.",
+          "Quer a nécessaire junto: kit Royale, R$ 449,80, com 20 litros na mochila e medida de item pessoal."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-rose.webp",
+            "alt": "Mochila de viagem expansível Explore da Bagaggio na cor rose, de frente, em foto oficial da loja",
+            "caption": "Explore Rose: mesma medida e preço da preta. Foto oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6997,
+            "href": "https://www.bagaggio.com.br/mochila-de-viagem-grande-expansivel-explore-rose/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          },
+          {
+            "src": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-caramelo.webp",
+            "alt": "Mochila de viagem expansível Explore da Bagaggio em branco com detalhes caramelo, de frente, em foto oficial da loja",
+            "caption": "Explore Branco e Caramelo, a quarta cor da linha. Foto oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.701,
+            "href": "https://www.bagaggio.com.br/mochila-de-viagem-grande-expansivel-explore-branco-e-caramelo/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual mochila de viagem da Bagaggio vai como bagagem de mão? Todas as cinco cabem na mala pequena de 55 × 35 × 25 cm se ficarem fechadas. Como item pessoal de 45 × 35 × 20 cm, pelas regras da LATAM e da Azul, cabem a Vacuum Airtrack, o kit Royale e a Explore sem expandir.",
+          "Mochila de viagem Bagaggio cabe debaixo do assento? A Vacuum Airtrack (44 × 32 × 20 cm), a Explore fechada (45 × 34 × 10 cm) e a Royale (45 × 35 × 13 cm) ficam dentro da medida que LATAM e Azul publicam para o item debaixo do assento. A Voyage e a Donna Grande passam dos 45 cm de altura.",
+          "A mochila expansível Explore cabe no avião expandida? Expandida, ela tem 45 × 34 × 25 cm, no limite da mala pequena de 55 × 35 × 25 cm. Como item pessoal, só fechada, com 10 cm de profundidade.",
+          "Qual é a mochila de viagem mais barata da Bagaggio? No cartão, a Explore e a Donna Grande custam R$ 299,90. A Explore tem 33 litros e expande para 42; a Donna Grande tem 24,5 litros.",
+          "Mochila de viagem da Bagaggio tem garantia vitalícia? Não. A vitalícia é das malas da marca. A mochila segue a garantia da própria página: 90 dias, 3 meses ou 3 anos, conforme o modelo."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a sua compra é na Bagaggio, entre no site oficial e cole o CECILIA10 no carrinho. Confira o desconto no resumo antes de pagar.",
+      "label": "Ir para a Bagaggio com o cupom",
+      "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "bagaggio",
+    "editorialNote": "Feito com as páginas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "mala-de-bordo-bagaggio-qual-compensa",
+        "title": "Mala de bordo Bagaggio: qual compensa em preço, medida e selo"
+      },
+      {
+        "slug": "mochila-notebook-bagaggio-qual-escolher",
+        "title": "Mochila para notebook Bagaggio: qual escolher por preço e uso"
+      },
+      {
+        "slug": "bagaggio-garantia-vitalicia",
+        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      },
+      {
+        "slug": "cupom-bagaggio-como-usar",
+        "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
+      }
+    ]
+  },
+  {
+    "id": 773,
+    "slug": "skinup-ou-cotton-up-toda-up",
+    "locale": "pt",
+    "title": "SkinUp ou Cotton Up: segunda pele ou algodão, qual escolher na Toda Up",
+    "seoTitle": "Toda Up SkinUp ou Cotton Up: qual escolher",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "31 de outubro de 2026",
+    "publishedAtISO": "2026-10-31",
+    "draft": false,
+    "isNew": true,
+    "description": "SkinUp (segunda pele, sem costura) ou Cotton Up (algodão), da Toda Up: as dez peças das duas linhas, para qual roupa cada uma serve, as faixas de tamanho, as cores e o preço.",
+    "metaDescription": "SkinUp ou Cotton Up, da Toda Up: segunda pele sem costura ou algodão. Tops, sutiã e calcinhas das duas linhas, tamanhos, tabela de medidas e preço.",
+    "image": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa.webp",
+    "imageAlt": "Top Segunda Pele SkinUp e Top Faixa Cotton Up, da Toda Up, lado a lado com o logo da loja",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Toda Up pelo botão. O cupom já vem aplicado: confira a linha de desconto no resumo do pedido.",
+      "label": "Ver na Toda Up",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Podemos receber comissão na Toda Up. Feito com dados da loja; ninguém do site usou as peças.",
+    "relatedArticles": [
+      {
+        "slug": "sutia-toda-up-qual-escolher",
+        "title": "Sutiã Toda Up: Comfort Up, Comfort Line ou Comfort Slim, qual escolher"
+      },
+      {
+        "slug": "sutia-de-silicone-invisivel-como-usar",
+        "title": "Sutiã de silicone invisível: como usar e para qual roupa"
+      },
+      {
+        "slug": "cupom-toda-up-como-usar",
+        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A SkinUp é a linha de segunda pele da Toda Up: corte a laser, sem costura, feita para sumir sob roupa justa. A Cotton Up é a linha de algodão, mais barata, com dois tops e uma calcinha. O que muda a escolha é a roupa por cima e a faixa de tamanho de cada linha, na tabela abaixo."
+        ]
+      },
+      {
+        "heading": "O que é cada linha",
+        "paragraphs": [
+          "A Toda Up vende as duas linhas no mesmo site, e nenhuma página compara uma com a outra. A SkinUp é a linha de segunda pele: a loja descreve as peças com corte a laser, acabamento ultrafino e sem costura, para a peça desaparecer na roupa. Hoje ela tem o Top Segunda Pele, o Sutiã Top Alça Fina, o Sutiã Clássico e quatro calcinhas: biquíni, cós alto, fio dental e fio dental cós alto. As cores são tons de pele (Creme ou Baunilha, Caramelo, Avelã e Rose) e preto.",
+          "A Cotton Up é a linha de algodão, com o Top Faixa, o Top Triangular e a Calcinha Biquíni, em preto, branco e cinza. As páginas falam em algodão premium, toque suave e sustentação leve. Não há corte a laser nem a proposta de sumir sob a roupa: é o básico de algodão para o dia a dia.",
+          "Para o sutiã com copo da linha Comfort, veja [o guia dos sutiãs Comfort](/reviews/sutia-toda-up-qual-escolher); para a peça adesiva, [o sutiã de silicone](/reviews/sutia-de-silicone-invisivel-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-skinup-duas-cores.webp",
+            "alt": "Duas modelos com o Top Segunda Pele SkinUp, em preto e em rose, em foto oficial da Toda Up",
+            "caption": "Top Segunda Pele SkinUp, em preto e rose. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ]
+      },
+      {
+        "heading": "Como escolher pela roupa e pelo tamanho",
+        "paragraphs": [
+          "A decisão começa pela roupa que vai por cima e termina na faixa de tamanho, porque as duas linhas não vestem igual."
+        ],
+        "bullets": [
+          "Blusa de alça fina, regata ou roupa justa, e a peça tem de sumir: SkinUp. O [Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do PP ao GG e tem as alças mais finas; o [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do P ao G1 e tem alça larga, sem regulagem.",
+          "Quer efeito push-up sem aro: o [Sutiã Clássico SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), do P ao G1. É a única peça das duas linhas com bojo fixo.",
+          "Quer algodão, sustentação leve e o preço menor: Cotton Up, com o [Top Faixa](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) ou o [Top Triangular](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), do P ao G1, os dois com alças e bojo removível.",
+          "Calcinha que não marca sob legging ou vestido de malha: as quatro calcinhas SkinUp, sem costura. Calcinha de algodão para o dia a dia: a [Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
+          "Veste PP: só o Sutiã Top Alça Fina tem PP (34-36). O Top Segunda Pele, o Clássico e as peças Cotton Up começam no P, e o P de cada linha é um número diferente (38-40 na SkinUp, 36-38 na Cotton Up)."
+        ]
+      },
+      {
+        "heading": "As dez peças lado a lado",
+        "paragraphs": [
+          "Preços de 31/10/2026, no cartão e sem cupom, com o preço riscado da loja entre parênteses. O nome da peça leva à página dela."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Peça",
+            "Linha",
+            "Tamanhos",
+            "Cores",
+            "Preço (de)"
+          ],
+          "rows": [
+            [
+              "[Top Segunda Pele SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "P (38-40) a G1 (46-48)",
+              "Caramelo, Baunilha, Avelã, Rose e Preto",
+              "R$ 169,90 (de R$ 179,90)"
+            ],
+            [
+              "[Sutiã Top Alça Fina SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "PP (34-36) a GG (44-46)",
+              "Baunilha, Rose e Preto",
+              "R$ 179,90 (de R$ 199,90)"
+            ],
+            [
+              "[Sutiã Clássico SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "P (38-40) a G1 (46-48)",
+              "Preto e Caramelo",
+              "R$ 208,90 (de R$ 219,90)"
+            ],
+            [
+              "[Calcinha Biquíni SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "P a G1",
+              "Creme, Caramelo, Avelã, Preto e Rose",
+              "R$ 44,91 (de R$ 59,90)"
+            ],
+            [
+              "[Calcinha Cós Alto SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "P a G1",
+              "Creme, Caramelo, Avelã, Preto e Rose",
+              "R$ 44,91 (de R$ 59,90)"
+            ],
+            [
+              "[Calcinha Fio Dental SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "P a G1",
+              "Avelã, Caramelo, Baunilha, Rose e Preto",
+              "R$ 49,90 (de R$ 59,90)"
+            ],
+            [
+              "[Calcinha Fio Dental Cós Alto SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "P a G1",
+              "Preto, Rose, Baunilha, Caramelo e Avelã",
+              "R$ 49,90 (de R$ 59,90)"
+            ],
+            [
+              "[Top Faixa Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "Cotton Up",
+              "P (36-38) a G1 (50-52)",
+              "Preto, Branco e Cinza",
+              "R$ 132,90 (de R$ 189,90)"
+            ],
+            [
+              "[Top Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "Cotton Up",
+              "P (36-38) a G1 (50-52)",
+              "Branco, Preto e Cinza",
+              "R$ 132,90 (de R$ 189,90)"
+            ],
+            [
+              "[Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "Cotton Up",
+              "P a G1",
+              "Branco, Preto e Cinza",
+              "R$ 39,90 (de R$ 59,90)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os dois tops Cotton Up também têm a opção “Compre 2 leve 3” na própria página. Os kits ficam para [o guia dos kits da Toda Up](/reviews/kit-toda-up-quando-compensa)."
+        ]
+      },
+      {
+        "heading": "Os tops SkinUp: Segunda Pele, Alça Fina e Clássico",
+        "paragraphs": [
+          "Os três têm o mesmo tecido, segundo as páginas: 76,5% poliamida e 23,5% elastano, com corte a laser. O que muda é o formato, a alça e o apoio.",
+          "O [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é um top fixo, de alça larga e decote redondo, sem fecho e sem regulagem nas costas. A loja fala em sustentação leve e natural, bojo removível e acabamento ultrafino que desaparece na roupa. Vai do P (38-40) ao G1 (46-48), em cinco cores. É a peça para quem quer o mínimo de estrutura.",
+          "O [Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é a peça mais nova da linha e a única das duas linhas com PP (34-36); vai até o GG (44-46), em Baunilha, Rose e Preto. Segundo a página, tem alças finas e reguláveis, tecido duplo, bojo removível leve e fecho com quatro níveis, sem aro, com sustentação de leve a média. A loja o vende como top por fora e sutiã por dentro: a alça é mais fina que a alça da regata.",
+          "O [Sutiã Clássico](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é o modelo com bojo fixo leve e efeito push-up, sem aro, com alças reguláveis, fecho de quatro níveis e decote arredondado. Vai do P ao G1, só em Preto e Caramelo, e é o mais caro das duas linhas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-segunda-pele.webp",
+            "alt": "Top Segunda Pele SkinUp caramelo, de alça larga e decote redondo, em foto oficial da loja",
+            "caption": "Top Segunda Pele SkinUp: alça larga, sem fecho. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0119,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
+            "alt": "Sutiã Top Alça Fina SkinUp preto, com alças finas e decote em V, em foto oficial da loja",
+            "caption": "Sutiã Top Alça Fina SkinUp. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3194,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina-costas.webp",
+            "alt": "Costas do Sutiã Top Alça Fina SkinUp rose, com o fecho de ganchos e as alças finas reguláveis",
+            "caption": "Nas costas do Alça Fina, o fecho com quatro níveis e as alças reguláveis. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8722,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-classico.webp",
+            "alt": "Sutiã Clássico SkinUp preto, com bojo fixo e alças reguláveis, em foto oficial da loja",
+            "caption": "Sutiã Clássico SkinUp: bojo fixo e alças reguláveis. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1.2532,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-classico-bojo.webp",
+            "alt": "Detalhe do bojo do Sutiã Clássico SkinUp caramelo, vestido, em foto oficial da loja",
+            "caption": "O bojo fixo leve do Clássico, de perto. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Top Segunda Pele SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Por baixo de roupa casual ou esportiva, como um top fixo sem fecho; a alça é larga, então pede roupa que cubra o ombro.",
+              "occasion": "Dia a dia em casa, lazer e roupa de malha.",
+              "pairsWith": [
+                {
+                  "label": "camiseta de malha"
+                },
+                {
+                  "label": "legging"
+                },
+                {
+                  "label": "Calcinha Biquíni SkinUp",
+                  "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                  "note": "mesma linha, sem costura"
+                }
+              ]
+            },
+            {
+              "piece": "Sutiã Top Alça Fina SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Sob regata ou blusa de alça fina: segundo a loja, a alça regulável some debaixo da alça da roupa.",
+              "occasion": "Regata, blusa de alcinha e vestido de alça fina.",
+              "pairsWith": [
+                {
+                  "label": "regata de alça fina"
+                },
+                {
+                  "label": "vestido de alcinha"
+                },
+                {
+                  "label": "Calcinha Fio Dental SkinUp",
+                  "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                  "note": "para roupa justa"
+                }
+              ]
+            },
+            {
+              "piece": "Sutiã Clássico SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Como sutiã de todo dia, no lugar do modelo com aro: o bojo fixo leve dá o efeito push-up, segundo a loja.",
+              "occasion": "Trabalho e dia a dia com blusa de decote.",
+              "pairsWith": [
+                {
+                  "label": "blusa de decote"
+                },
+                {
+                  "label": "camisa"
+                },
+                {
+                  "label": "Calcinha Cós Alto SkinUp",
+                  "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                  "note": "cintura alta, mesma linha"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Os tops Cotton Up: Faixa e Triangular",
+        "paragraphs": [
+          "Os dois são tops fixos de algodão, com alças e bojo removível, e a loja classifica a sustentação dos dois como leve. Custam o mesmo e vão do P (36-38) ao G1 (50-52), em Preto, Branco e Cinza. A diferença é o recorte: o [Top Faixa](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é reto, como uma faixa com alças; o [Top Triangular](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) tem o decote em V, de bojo triangular.",
+          "Sobre o tecido, a página do Top Faixa fala em algodão premium com 5% de elastano. A do Top Triangular não traz a porcentagem; diz só que as alças são de poliamida e elastano. As duas páginas respondem que o algodão respira e que o top segura sem apertar nem escorregar, com a ressalva da própria loja: é sustentação leve, não alta.",
+          "A loja dá a mesma dica nas duas páginas para quem fica entre dois tamanhos: o número menor para mais firmeza, o maior para mais conforto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa.webp",
+            "alt": "Top Faixa Cotton Up preto, reto, com alças finas reguláveis, em foto oficial da loja",
+            "caption": "Top Faixa Cotton Up. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1.2196,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa-costas.webp",
+            "alt": "Costas do Top Faixa Cotton Up preto, com as alças reguláveis e sem fecho",
+            "caption": "O Top Faixa por trás: alças reguláveis, sem fecho. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8733,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-triangular.webp",
+            "alt": "Top Triangular Cotton Up branco, com decote em V e alças reguláveis, em foto oficial da loja",
+            "caption": "Top Triangular Cotton Up. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1.1258,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-triangular-cinza.webp",
+            "alt": "Modelo com o Top Triangular Cotton Up cinza, em foto oficial da loja",
+            "caption": "Top Triangular Cotton Up em cinza. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 0.87,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Top Faixa Cotton Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Como top de algodão para o dia a dia, com as alças reguladas e o bojo dentro ou fora.",
+              "occasion": "Casa, dias quentes e roupa larga.",
+              "pairsWith": [
+                {
+                  "label": "camiseta larga"
+                },
+                {
+                  "label": "pijama"
+                },
+                {
+                  "label": "Calcinha Biquíni Cotton Up",
+                  "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                  "note": "o conjunto de algodão"
+                }
+              ]
+            },
+            {
+              "piece": "Top Triangular Cotton Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Sob blusa de decote em V, acompanhando o recorte do bojo triangular.",
+              "occasion": "Dia a dia com blusa de decote em V.",
+              "pairsWith": [
+                {
+                  "label": "blusa de decote em V"
+                },
+                {
+                  "label": "vestido de malha"
+                },
+                {
+                  "label": "Calcinha Biquíni Cotton Up",
+                  "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                  "note": "mesma linha, nas mesmas cores"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "As calcinhas: quatro SkinUp e uma Cotton Up",
+        "paragraphs": [
+          "As quatro calcinhas SkinUp vão do P ao G1 e têm corte a laser, sem costura: a loja diz que elas desaparecem sob legging, calça clara e vestido de tecido leve. A [Biquíni](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e a [Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) custam o mesmo e, segundo a página, são feitas de 95% fibra de celulose regenerada (com 23,7% de grafeno) e 5% de elastano. A Cós Alto tem a modelagem um pouco mais estruturada, com o que a loja chama de sustentação suave na cintura.",
+          "A [Fio Dental](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e a [Fio Dental Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) são um pouco mais caras. A página delas separa o tecido do forro: tecido de 76,5% poliamida e 23,5% elastano, forro de 95% fibra de celulose regenerada (com 23,7% de grafeno) e 5% elastano. A diferença entre as duas é só a cobertura na cintura, segundo a loja.",
+          "A [Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é a mais barata das cinco e a única de algodão: 95% algodão e 5% elastano, em Preto, Branco e Cinza, do P ao G1. Tem o cós de elástico à mostra, como uma calcinha de algodão comum, sem o corte a laser da SkinUp."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-skinup.webp",
+            "alt": "Calcinha Biquíni SkinUp caramelo, de costas, com o corte a laser sem costura",
+            "caption": "Calcinha Biquíni SkinUp: corte a laser, sem costura. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9789,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-cos-alto-skinup.webp",
+            "alt": "Duas modelos com a Calcinha Cós Alto SkinUp, em preto e em rose, com os tops da linha",
+            "caption": "Calcinha Cós Alto SkinUp, em preto e rose. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-fio-dental-skinup.webp",
+            "alt": "Calcinha Fio Dental SkinUp preta, de costas, em foto oficial da loja",
+            "caption": "Calcinha Fio Dental SkinUp. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-cotton.webp",
+            "alt": "Calcinha Biquíni Cotton Up nas três cores, cinza, preto e branco, vestidas uma sobre a outra",
+            "caption": "Calcinha Biquíni Cotton Up: cinza, preto e branco. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Calcinha Biquíni SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Sob roupa justa, para não marcar: segundo a loja, o corte a laser some sob o tecido.",
+              "occasion": "Legging, calça clara e vestido de malha.",
+              "pairsWith": [
+                {
+                  "label": "legging"
+                },
+                {
+                  "label": "calça clara"
+                },
+                {
+                  "label": "Top Segunda Pele SkinUp",
+                  "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                  "note": "o conjunto segunda pele"
+                }
+              ]
+            },
+            {
+              "piece": "Calcinha Cós Alto SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Com a cintura alta por baixo de calça de cós alto ou vestido, sem a linha da calcinha aparecer.",
+              "occasion": "Calça de cós alto, saia e vestido.",
+              "pairsWith": [
+                {
+                  "label": "calça de cós alto"
+                },
+                {
+                  "label": "vestido justo"
+                },
+                {
+                  "label": "Sutiã Clássico SkinUp",
+                  "url": "https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                  "note": "o conjunto de todo dia"
+                }
+              ]
+            },
+            {
+              "piece": "Calcinha Biquíni Cotton Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Como calcinha de algodão do dia a dia; sem o corte a laser, não é a peça para roupa colada.",
+              "occasion": "Casa, pijama e roupa larga.",
+              "pairsWith": [
+                {
+                  "label": "pijama"
+                },
+                {
+                  "label": "calça larga"
+                },
+                {
+                  "label": "Top Faixa Cotton Up",
+                  "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                  "note": "o conjunto de algodão"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Tamanho: a mesma letra não veste igual",
+        "paragraphs": [
+          "Este é o ponto em que a comparação mais ajuda. Dentro da SkinUp, os três tops têm guias de medida diferentes para a mesma letra: o M do Top Segunda Pele é 79-87 cm de sob busto e 91-98 cm de busto; o M do Clássico, 75-81 e 84-91. Na Cotton Up, a página mostra só a numeração ao lado da letra (P 36-38, G1 50-52), sem a tabela em centímetros. A tabela abaixo junta as medidas de cada página, em centímetros."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tamanho",
+            "Top Segunda Pele (sob busto / busto)",
+            "Sutiã Top Alça Fina (sob busto / busto)",
+            "Sutiã Clássico (sob busto / busto)",
+            "Tops Cotton Up (numeração)"
+          ],
+          "rows": [
+            [
+              "PP",
+              "Não tem",
+              "62-70 / 76-83 (34-36)",
+              "Não tem",
+              "Não tem"
+            ],
+            [
+              "P",
+              "74-81 / 85-92 (38-40)",
+              "69-77 / 84-91 (38-40)",
+              "70-74 / 76-83 (38-40)",
+              "36-38"
+            ],
+            [
+              "M",
+              "79-87 / 91-98 (40-42)",
+              "75-82 / 92-99 (40-42)",
+              "75-81 / 84-91 (40-42)",
+              "40-42"
+            ],
+            [
+              "G",
+              "84-92 / 97-105 (42-44)",
+              "80-88 / 100-107 (42-44)",
+              "77-83 / 92-99 (42-44)",
+              "44-46"
+            ],
+            [
+              "GG",
+              "89-97 / 103-111 (44-46)",
+              "86-93 / 108-115 (44-46)",
+              "84-92 / 100-107 (44-46)",
+              "46-48"
+            ],
+            [
+              "G1",
+              "94-102 / 109-117 (46-48)",
+              "Não tem",
+              "93-101 / 108-115 (46-48)",
+              "50-52"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As calcinhas SkinUp têm um guia só, em centímetros de cintura e quadril: P 67-74 e 90-99; M 75-84 e 100-106; G 85-94 e 107-115; GG 95-104 e 116-124; G1 105-114 e 125-134. A página da Calcinha Biquíni Cotton Up não mostrava tabela em centímetros, só as letras do P ao G1.",
+          "Meça o sob busto e o busto antes de escolher e compare com a coluna da peça, não com o número que você usa em outra marca. Se ficar entre duas faixas, a loja indica a menor para mais firmeza e a maior para mais conforto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-top-skinup.webp",
+            "alt": "Guia de medidas do Top Skin Up, do P ao G1, com sob busto e busto em centímetros",
+            "caption": "Guia de medidas do Top Segunda Pele SkinUp. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1.1057,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-top-alca-fina.webp",
+            "alt": "Guia de medidas do Top Alça Fina SkinUp, do PP ao GG, com sob busto e busto em centímetros",
+            "caption": "Guia de medidas do Sutiã Top Alça Fina SkinUp. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0989,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-classico.webp",
+            "alt": "Guia de medidas do Sutiã Clássico SkinUp, do P ao G1, com sob busto e busto em centímetros",
+            "caption": "Guia de medidas do Sutiã Clássico SkinUp. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0976,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-calcinhas-skinup.webp",
+            "alt": "Guia de medidas das calcinhas Skin Up, do P ao G1, com cintura e quadril em centímetros",
+            "caption": "Guia de medidas das calcinhas SkinUp. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0262,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ]
+      },
+      {
+        "heading": "Preço, cupom e frete",
+        "paragraphs": [
+          "No dia da leitura, a peça mais barata da SkinUp era a calcinha, a R$ 44,91, e o top mais em conta era o Top Segunda Pele, a R$ 169,90. Na Cotton Up, a calcinha estava a R$ 39,90 e os dois tops a R$ 132,90. Todos os dez preços estavam abaixo do preço riscado da loja, e as páginas mostravam uma campanha da loja no ar, então o valor muda: confira no site antes de comprar.",
+          "O cupom MAUAD dá 10% em todo o site da Toda Up, inclusive nas peças que já estão com desconto, nas duas linhas. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Os detalhes estão na página do [cupom Toda Up](/cupons/toda-up).",
+          "O frete é calculado pelo CEP, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento, segundo a política de envio. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas da loja."
+        ]
+      },
+      {
+        "heading": "Qual escolher: o veredito por perfil",
+        "paragraphs": [
+          "Se a roupa por cima é justa, de alça fina ou clara, e a peça precisa sumir, a SkinUp é a linha: o Sutiã Top Alça Fina para regata e alcinha (e para quem veste PP), o Top Segunda Pele para o mínimo de estrutura, o Clássico para quem quer push-up sem aro. As calcinhas SkinUp seguem a mesma lógica, sem costura, do P ao G1.",
+          "Se a prioridade é algodão e preço, a Cotton Up resolve: dois tops de sustentação leve a R$ 132,90 e uma calcinha a R$ 39,90, em preto, branco e cinza, do P ao G1. É a escolha para casa, pijama e roupa larga, não para a blusa colada.",
+          "Nos dois casos, a faixa de tamanho decide o resto: meça e compare com a coluna da peça na tabela acima, porque a mesma letra muda de medida entre os tops da própria SkinUp e muda de número entre as duas linhas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa-cinza.webp",
+            "alt": "Modelo com o Top Faixa Cotton Up cinza, em foto oficial da loja",
+            "caption": "Top Faixa Cotton Up em cinza. Foto oficial da Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6378,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a diferença entre SkinUp e Cotton Up? A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura, em poliamida e elastano; a Cotton Up é a linha de algodão, sem corte a laser, mais barata e em preto, branco e cinza.",
+          "Tem SkinUp em PP? Só o Sutiã Top Alça Fina, no PP (34-36). O Top Segunda Pele, o Clássico e as calcinhas começam no P.",
+          "O top Cotton Up tem sustentação? Segundo as páginas do Top Faixa e do Top Triangular, a sustentação é leve, com bojo removível; a própria loja diz que não é alta sustentação.",
+          "SkinUp é segunda pele de verdade? É como a loja descreve a linha: corte a laser, acabamento ultrafino e sem costura, para sumir na roupa.",
+          "O cupom da Toda Up vale nas duas linhas? Vale, porque o cupom é do site inteiro e dá 10% no carrinho, inclusive em peça já com desconto. A campanha da loja pode entrar antes, então confira o total."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Escrevemos com o que a Toda Up publica nas páginas das dez peças, lidas no dia da publicação, e com os guias de medida da própria loja. Ninguém do site usou as peças. A composição aparece só das peças cuja página a informa, e as propriedades que a loja atribui aos tecidos ficaram de fora. Quando um texto é da loja, aparece como dito por ela, e os preços e os tamanhos oferecidos valem para o dia da leitura."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 774,
+    "slug": "kit-toda-up-quando-compensa",
+    "locale": "pt",
+    "title": "Kits da Toda Up: quando compensam (conta por peça)",
+    "seoTitle": "Kits Toda Up: quando compensam (conta por peça)",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "31 de outubro de 2026",
+    "publishedAtISO": "2026-10-31",
+    "draft": false,
+    "isNew": true,
+    "description": "Kits da Toda Up: o que cada um traz, o preço por conjunto ou por sutiã e a conta contra as peças avulsas, para saber quando o kit compensa.",
+    "metaDescription": "Kits Toda Up: top e calcinha SkinUp e Cotton Up, sutiã com protetor, Invisible Up e Comfort Up. A conta por peça contra o avulso e quando compensa.",
+    "image": "/images/reviews/toda-up/kit-toda-up-quando-compensa-capa.webp",
+    "imageAlt": "Kits da Toda Up: top com calcinha, sutiã com protetor e os três sutiãs Comfort, com o logo da loja",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Toda Up pelo botão. O cupom já vem aplicado: confira a linha de desconto no resumo do pedido.",
+      "label": "Ver na Toda Up",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Podemos receber comissão na Toda Up. Feito com dados da loja; ninguém do site usou os kits.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-toda-up-como-usar",
+        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+      },
+      {
+        "slug": "sutia-toda-up-qual-escolher",
+        "title": "Sutiã Toda Up: Comfort Up, Comfort Line ou Comfort Slim, qual escolher"
+      },
+      {
+        "slug": "sutia-de-silicone-invisivel-como-usar",
+        "title": "Sutiã de silicone invisível: como usar e para qual roupa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na Toda Up, compensam os kits de três conjuntos Cotton Up ou SkinUp, o Kit Comfort Up, o Kit Invisible Up e os dois kits de sutiã Comfort com protetor. O kit de um conjunto só quase não economiza. O que pesa é quantas peças você usaria de verdade; a conta de cada kit está abaixo."
+        ]
+      },
+      {
+        "heading": "Como a conta é feita",
+        "paragraphs": [
+          "A Toda Up vende as peças avulsas e também em kit: top com calcinha, sutiã com protetor de silicone e combinações de sutiãs. A página de cada kit mostra o preço do kit e um preço riscado, mas não compara com as mesmas peças compradas separadas. É essa conta que fizemos aqui.",
+          "Preços lidos em 31/10/2026, no site da loja. A economia é a soma das peças avulsas de hoje menos o preço do kit de hoje, e a porcentagem é sobre essa soma, não sobre o preço riscado. O cupom fica fora da conta, porque nenhum destes kits passou pelo carrinho com ele; a seção do cupom explica. Alguns kits aparecem mais de uma vez no site, com preços diferentes: usamos a página que estava à venda.",
+          "A régua de leitura: economia até R$ 20 é “quase não economiza”; de R$ 20 a R$ 50, “economiza pouco”; acima de R$ 50 e de 20%, “compensa”."
+        ]
+      },
+      {
+        "heading": "Os kits lado a lado",
+        "paragraphs": [
+          "A tabela traz cada kit à venda, o que vem nele, o preço do kit, a soma das mesmas peças avulsas e a diferença. O nome do kit leva à loja."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da loja, sem cupom.",
+          "headers": [
+            "Kit",
+            "Peças",
+            "Preço do kit",
+            "Peças avulsas",
+            "Economia",
+            "Leitura"
+          ],
+          "rows": [
+            [
+              "[Kit Top e Calcinha SkinUp, 3 conjuntos](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "3 tops Segunda Pele + 3 calcinhas (cós alto ou biquíni)",
+              "R$ 499,90",
+              "R$ 644,43",
+              "R$ 144,53 (22%)",
+              "Compensa: R$ 166,63 por conjunto"
+            ],
+            [
+              "[Kit Top e Calcinha SkinUp, 1 conjunto](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "top + calcinha",
+              "R$ 199,90",
+              "R$ 214,81",
+              "R$ 14,91 (7%)",
+              "Quase não economiza"
+            ],
+            [
+              "[Kit Cotton Up, 3 conjuntos](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "3 tops (faixa ou triangular) + 3 calcinhas biquíni",
+              "R$ 373,18",
+              "R$ 518,40",
+              "R$ 145,22 (28%)",
+              "Compensa: R$ 124,39 por conjunto"
+            ],
+            [
+              "[Kit Cotton Up, 1 conjunto](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "top + calcinha",
+              "R$ 155,52",
+              "R$ 172,80",
+              "R$ 17,28 (10%)",
+              "Quase não economiza"
+            ],
+            [
+              "[Kit Sutiã Comfort Up + Protetor](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "sutiã preto + par de protetores",
+              "R$ 190,90",
+              "R$ 259,80",
+              "R$ 68,90 (27%)",
+              "Compensa: o protetor sai por R$ 1,00"
+            ],
+            [
+              "[Kit Sutiã Comfort Slim + Protetor](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "sutiã preto + par de protetores",
+              "R$ 202,35",
+              "R$ 259,80",
+              "R$ 57,45 (22%)",
+              "Compensa: o protetor sai por R$ 12,45"
+            ],
+            [
+              "[Kit Invisible Up](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "sutiã de silicone + par de protetores + case",
+              "R$ 195,79",
+              "R$ 269,70",
+              "R$ 73,91 (27%)",
+              "Compensa; sem contar a case, R$ 24,01 (11%)"
+            ],
+            [
+              "[Kit Comfort Up](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "sutiãs Comfort Up, Comfort Slim e Comfort Line",
+              "R$ 398,79",
+              "R$ 569,70",
+              "R$ 170,91 (30%)",
+              "Compensa: R$ 132,93 por sutiã"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A loja também lista kits de um sutiã Comfort com uma calcinha SkinUp: Comfort Up com biquíni (R$ 205,53), Comfort Line com cós alto e Comfort Slim com biquíni (R$ 209,90). No dia da leitura eles não tinham opção de compra, e a economia seria de R$ 24,91 a R$ 29,28; por isso ficam fora da tabela."
+        ]
+      },
+      {
+        "heading": "Kits de top e calcinha SkinUp",
+        "paragraphs": [
+          "São dois kits, um com a Calcinha Cós Alto e outro com a Calcinha Biquíni, e a loja descreve os dois do mesmo jeito: “sustentação natural e leve”, com “corte a laser e acabamento ultrafino que desaparecem na roupa”. O top é o Top Segunda Pele SkinUp, que custa R$ 169,90 avulso, e cada calcinha SkinUp custa R$ 44,91: um conjunto comprado separado sai por R$ 214,81.",
+          "No kit de 1 conjunto, R$ 199,90, a diferença é de R$ 14,91. No de 3 conjuntos, R$ 499,90, cada conjunto sai por R$ 166,63, R$ 48,18 a menos do que avulso, e a economia total chega a R$ 144,53. A opção de 3 conjuntos vem em duas versões, mesma cor ou cores diferentes, pelo mesmo preço.",
+          "Cores: Baunilha, Caramelo e Avelã. Tamanhos: P, M, G, GG e G1, o mesmo número para o top e para a calcinha. Quem usa top e calcinha em tamanhos diferentes compra avulso. A página do top diz que ele foi feito “para os dias de lazer, para ficar em casa ou para usar com roupas casuais e esportivas”."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-skinup-cos-alto.webp",
+            "alt": "Kit Top e Calcinha Cós Alto SkinUp em baunilha, de frente, em foto oficial da Toda Up",
+            "caption": "Foto oficial da Toda Up: o kit com a Calcinha Cós Alto.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7356,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-skinup-biquini.webp",
+            "alt": "Kit Top e Calcinha Biquíni SkinUp em caramelo, de frente, em foto oficial da Toda Up",
+            "caption": "Foto oficial da Toda Up: o kit com a Calcinha Biquíni.",
+            "objectFit": "contain",
+            "aspectRatio": 0.56,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Top Segunda Pele SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "No lugar do sutiã, por baixo de camiseta de malha, regata ou blusa de tecido fino, onde a costura de um sutiã comum apareceria.",
+              "occasion": "Dia a dia, casa e roupa casual ou esportiva, como a loja descreve."
+            },
+            {
+              "piece": "Calcinha SkinUp (Cós Alto ou Biquíni)",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "A Cós Alto por baixo de calça de cintura alta, saia ou vestido justo; a Biquíni por baixo de calça de cintura média e da roupa de todo dia.",
+              "occasion": "Dia a dia."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Kits Cotton Up: top faixa ou triangular com calcinha",
+        "paragraphs": [
+          "O Kit Top Faixa e o Kit Top Triangular Cotton Up vêm com a Calcinha Biquíni Cotton Up, e a diferença entre eles é o decote do top: o Faixa é reto, de alça fina; o Triangular tem o bojo em triângulo. A loja descreve a linha como de “tecido em algodão”. Avulsos, o top custa R$ 132,90 e a calcinha R$ 39,90: R$ 172,80 o conjunto.",
+          "O kit de 1 conjunto custa R$ 155,52, R$ 17,28 a menos do que avulso. O de 3 conjuntos custa R$ 373,18: R$ 124,39 por conjunto, R$ 48,41 abaixo do avulso, e R$ 145,22 de economia no total, a maior porcentagem entre os kits de conjunto. Os preços são os mesmos para o Faixa e para o Triangular.",
+          "Cores: Branco, Preto e Cinza, em mesma cor ou cores diferentes no kit de 3. Tamanhos: P, M, G, GG e G1, um número só para o top e a calcinha."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-cotton-faixa.webp",
+            "alt": "Kit Top Faixa e Calcinha Biquíni Cotton Up em branco, de frente, em foto oficial da Toda Up",
+            "caption": "Foto oficial da Toda Up: o Top Faixa, de decote reto.",
+            "objectFit": "contain",
+            "aspectRatio": 0.4856,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-cotton-triangular.webp",
+            "alt": "Kit Top Triangular e Calcinha Biquíni Cotton Up em preto, de frente, em foto oficial da Toda Up",
+            "caption": "Foto oficial da Toda Up: o Top Triangular, com o bojo em triângulo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.5256,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Top Faixa Cotton Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Decote reto: por baixo de blusa de alça fina ou de gola reta, sem marcar o formato do bojo.",
+              "occasion": "Dia a dia e casa."
+            },
+            {
+              "piece": "Top Triangular Cotton Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Decote em V: por baixo de blusa decotada ou de gola V, onde o decote reto do Faixa apareceria.",
+              "occasion": "Dia a dia."
+            },
+            {
+              "piece": "Calcinha Biquíni Cotton Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Por baixo de calça ou saia de todo dia.",
+              "occasion": "Dia a dia."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Sutiã Comfort com protetor de silicone",
+        "paragraphs": [
+          "Os dois kits juntam um sutiã Comfort preto com um par de Protetores de Silicone Ultrafino. O sutiã custa R$ 189,90 avulso e o protetor R$ 69,90: R$ 259,80 os dois. No Kit Sutiã Comfort Up + Protetor, R$ 190,90, o protetor sai por R$ 1,00 a mais do que o sutiã sozinho, R$ 68,90 de economia. No Kit Sutiã Comfort Slim + Protetor, R$ 202,35, o protetor sai por R$ 12,45, R$ 57,45 de economia.",
+          "O sutiã do kit só vem em preto. O Comfort Up vai do PP (34-36) ao G3 (53-56); o Comfort Slim, do PP (34-36) ao GG (44-46). O protetor vem em Creme, Caramelo e Avelã, nos tamanhos P (8 cm), M (10 cm) e G (12 cm). A loja descreve o Comfort Up com “sustentação firme e conforto o dia todo” e o Slim como “leve e minimalista”; o protetor, segundo a página dele, é para “roupas com tecidos finos, blusas brancas ou vestidos justos”.",
+          "Para decidir entre o Up e o Slim, o [guia dos sutiãs Comfort](/reviews/sutia-toda-up-qual-escolher) compara os dois com o Line, tabela de busto incluída; a medida do protetor está no [guia do protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-comfort-up-protetor.webp",
+            "alt": "Três modelos com o Sutiã Comfort Up preto e as três cores do protetor de silicone mostradas no braço, em foto oficial da Toda Up",
+            "caption": "Foto oficial da Toda Up: o Comfort Up preto do kit e as cores do protetor, Creme, Caramelo e Avelã.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-comfort-slim-protetor.webp",
+            "alt": "Sutiã Comfort Slim preto e o par de protetores de silicone, as duas peças do kit, em imagem da Toda Up",
+            "caption": "Imagem da Toda Up: as duas peças do Kit Sutiã Comfort Slim + Protetor.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0011,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Sutiã Comfort Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Com as alças reguláveis, por baixo de camiseta, blusa de alça larga ou vestido de manga; o protetor entra nos dias de tecido fino ou blusa branca.",
+              "occasion": "Dia a dia e trabalho."
+            },
+            {
+              "piece": "Sutiã Comfort Slim",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Por baixo de roupa justa, para não marcar, ou aparecendo sob tecido transparente, como a loja sugere; o protetor completa quando o decote fica à mostra.",
+              "occasion": "Dia a dia e roupa de tecido fino."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Kit Invisible Up: três itens, com a case",
+        "paragraphs": [
+          "O Kit Invisible Up tem três itens: o Sutiã de Silicone Invisível, um par de Protetores de Silicone Ultrafino e a Case Protetor de Silicone tamanho P (8 cm), que a página do kit diz que “acompanha” para guardar os acessórios. Avulsos, custam R$ 149,90, R$ 69,90 e R$ 49,90: R$ 269,70 no total. O kit custa R$ 195,79, R$ 73,91 a menos.",
+          "Se a case não entra na sua conta, compare só com o sutiã e o protetor: R$ 219,80 avulsos, e o kit economiza R$ 24,01. Vale para quem já ia comprar o sutiã de silicone e o protetor; quem só quer o sutiã paga R$ 149,90 por ele avulso. Tamanhos do sutiã: P (38/42), M (42/44) e G (44/48); do protetor, P, M e G, em Creme, Caramelo e Avelã. Como colar e lavar o sutiã de silicone está no [guia do sutiã invisível](/reviews/sutia-de-silicone-invisivel-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-invisible-up.webp",
+            "alt": "Os três itens do Kit Invisible Up: par de protetores de silicone, sutiã de silicone invisível e a case, em imagem da Toda Up",
+            "caption": "Imagem da Toda Up: os três itens do Kit Invisible Up, a case incluída.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9944,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ]
+      },
+      {
+        "heading": "Kit Comfort Up: os três sutiãs da linha",
+        "paragraphs": [
+          "O Kit Comfort Up junta os três sutiãs da linha, Comfort Up, Comfort Slim e Comfort Line; a página diz que o kit “reúne 3 sutiãs com sustentação, modelagem anatômica, bojo removível e tecido respirável”. Cada um custa R$ 189,90 avulso, R$ 569,70 os três. O kit custa R$ 398,79: R$ 132,93 por sutiã e R$ 170,91 de economia, a maior em reais entre todos os kits.",
+          "Vem em Preto ou Rose, os três na mesma cor. O tamanho do Up e do Slim é um só, do P (38-40) ao GG (44-46); o Line tem tabela própria, do P (36-38) ao G1 (44-46), e se escolhe à parte. Quem usa PP, ou acima do GG no Up, fica fora do kit e compra avulso. As diferenças entre os três estão no mesmo guia dos sutiãs Comfort citado acima."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-kit-comfort.webp",
+            "alt": "Os três sutiãs do Kit Comfort Up em rose: Comfort Slim, Comfort Up e Comfort Line, em imagem da Toda Up",
+            "caption": "Imagem da Toda Up: os três sutiãs do Kit Comfort Up, na cor Rose.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0022,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ]
+      },
+      {
+        "heading": "Cupom no kit: o que foi testado",
+        "paragraphs": [
+          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD, 10% em todo o site, e no teste registrado em [como usar o cupom da Toda Up](/reviews/cupom-toda-up-como-usar) ele somou com os kits Leve 2 e Leve 3 da loja. Nenhum dos kits desta página passou pelo carrinho com o código.",
+          "Por isso a conta acima é sem cupom. Ponha o kit no carrinho, aplique o MAUAD e confira a linha de desconto no resumo do pedido antes de pagar; se ela não aparecer, o preço do kit é o da tabela."
+        ]
+      },
+      {
+        "heading": "Qual kit escolher",
+        "bullets": [
+          "Quer top e calcinha para o dia a dia e vai usar três conjuntos: [Kit Cotton Up de 3 conjuntos](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), R$ 124,39 por conjunto, ou [Kit SkinUp de 3 conjuntos](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), R$ 166,63 por conjunto, se prefere a segunda pele sem costura.",
+          "Quer só um conjunto: o kit de 1 conjunto economiza R$ 17,28 (Cotton Up) ou R$ 14,91 (SkinUp), e só se você já ia levar as duas peças. Avulso, você escolhe tamanho e cor de cada uma.",
+          "Precisa de sutiã e do protetor: [Kit Sutiã Comfort Up + Protetor](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), em que o protetor sai por R$ 1,00, ou [Kit Sutiã Comfort Slim + Protetor](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), por R$ 12,45. Só no preto.",
+          "Vai usar vestido de festa ou frente única: [Kit Invisible Up](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), R$ 73,91 abaixo dos três itens avulsos, R$ 24,01 se a case não conta para você.",
+          "Quer renovar a gaveta de sutiãs de uma vez: [Kit Comfort Up](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), três sutiãs por R$ 398,79, R$ 132,93 cada, do P ao GG."
+        ],
+        "postParagraphs": [
+          "Em todos, o cupom entra depois, no resumo do pedido, e o total do carrinho é a conta que vale."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Kit da Toda Up é mais barato que comprar separado? Depende do kit. Os de 3 conjuntos, os de sutiã com protetor, o Kit Invisible Up e o Kit Comfort Up saem de 22% a 30% abaixo das peças avulsas; os kits de 1 conjunto economizam menos de R$ 20.",
+          "Quanto custa cada conjunto no kit de 3? R$ 124,39 no Cotton Up e R$ 166,63 no SkinUp, contra R$ 172,80 e R$ 214,81 comprando as peças avulsas.",
+          "O Kit Invisible Up vem com a case? Vem. A página diz que acompanha a Case Protetor de Silicone tamanho P (8 cm), além do sutiã de silicone e do par de protetores.",
+          "Quantos sutiãs tem o Kit Comfort Up? Três: Comfort Up, Comfort Slim e Comfort Line, na mesma cor, Preto ou Rose.",
+          "O cupom da Toda Up vale nos kits? O código é de todo o site, mas não testamos nos kits desta página: aplique no carrinho e confira a linha de desconto no resumo do pedido."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Escrevemos com as páginas dos kits e das peças avulsas no site da Toda Up, lidas no dia da publicação, e a conta foi feita sobre esses preços. Ninguém do site usou os kits. O que é texto da loja aparece como dito por ela, e os preços e as opções de tamanho e cor valem para o dia da leitura."
+        ]
       }
     ]
   }
