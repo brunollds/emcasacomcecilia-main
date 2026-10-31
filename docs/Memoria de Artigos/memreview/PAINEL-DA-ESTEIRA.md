@@ -19,6 +19,7 @@
 - [ ] [[card-estilo-roupas-lote-3110]]: card de estilo na cueca e no undershirt Insider, na Fita Up e na camiseta, no body e na alfaiataria da Cléa (PT)
 - [ ] [[card-estilo-shein-3110]]: SHEIN, card de estilo e foto com link no vestido de festa e no 11.11 (10 idiomas; antes de 12/11; deploy junto com o #386)
 - [ ] [[outlet-insider-vale-a-pena-cupom]]: Outlet Insider, o que vale a pena e quanto sai com o cupom (PT; links de criador e teste das peças de lançamento com o Bruno)
+- [ ] [[canibalizacao-cupom-lojas-3110]]: como usar × /cupons: seoTitle/meta de 7 artigos e âncora "cupom <loja>" no corpo (PT; remedir ~14/11)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
