@@ -542,6 +542,16 @@ export const COUPONS: Coupon[] = [
           'Não para todos. O cupom vale para produtos Nestlé Nutre, com exceção de Alfamino, Alfaré e das fórmulas infantis para bebês de 0 a 12 meses, como NAN. Confirme se o desconto aparece no checkout antes de finalizar.',
       },
       {
+        question: 'A loja FamilyNes virou Nestlé Nutre? O cupom vale?',
+        answer:
+          'Sim. A loja oficial FamilyNes, da Nestlé, passou a fazer parte da Nestlé Nutre, no site nestlenutre.com.br, segundo o anúncio da própria FamilyNes. É lá que o CECI dá 10% OFF, sem valor mínimo, exceto em Alfamino, Alfaré e nas fórmulas infantis de 0 a 12 meses.',
+      },
+      {
+        question: 'O cupom CECI vale nos produtos Nutren?',
+        answer:
+          'Sim. A linha Nutren é vendida na loja Nestlé Nutre, e o CECI vale nela como nos outros produtos da loja, exceto Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses. No teste de 26/10/2026, duas latas de Nutren Fortify, de R$ 283,78, saíram por R$ 255,40.',
+      },
+      {
         question: 'O cupom CECI vale para fórmulas infantis NAN?',
         answer:
           'Não use o CECI em fórmulas infantis para bebês de 0 a 12 meses, como NAN. O art. 5º do Decreto 9.579/2018 proíbe a promoção comercial dessas fórmulas, incluindo cupons e descontos de preço, também na internet. O cupom é indicado para os demais produtos elegíveis da loja.',
@@ -868,6 +878,11 @@ export const COUPONS: Coupon[] = [
         question: "O cupom MAUAD vale para todos os produtos da Let's Eat It?",
         answer:
           "O cupom MAUAD dá 5% OFF em compras no site da Let's Eat It. Se algum item ou campanha tiver regra própria, o checkout informa; confirme o desconto no resumo do pedido antes de finalizar.",
+      },
+      {
+        question: 'O cupom vale no site letseatit.com.br?',
+        answer:
+          'Sim. O MAUAD vale no site oficial da Let\'s Eat It, o letseatit.com.br, que muita gente procura como "Lets Eat It" ou "letseatit". O código vai no campo de cupom do carrinho.',
       },
       {
         question: 'O cupom MAUAD vale no Pix e em outras formas de pagamento?',
@@ -1784,6 +1799,11 @@ export const COUPONS: Coupon[] = [
         answer: 'Sim. O MAUAD dá 10% OFF em todos os produtos do site oficial da Belive, inclusive combos e kits.',
       },
       {
+        question: 'O site oficial da Belive é belivebefree.com.br?',
+        answer:
+          'Sim. O site oficial é belivebefree.com.br, e o nome da marca é Belive, com um "e" só, não "Believe". É lá que o cupom MAUAD dá 10% OFF em todo o site.',
+      },
+      {
         question: 'O cupom MAUAD soma com o desconto do Pix?',
         answer:
           'Sim. No teste de 16/10/2026, o carrinho com o MAUAD aplicado ainda ganhou os 5% de desconto do Pix: R$ 519,14 viraram R$ 493,18.',
@@ -1999,9 +2019,9 @@ export const COUPONS: Coupon[] = [
           'Sim. O cupom vale com todas as formas de pagamento e, no Pix, a Skelt ainda tira os 5% de desconto dela.',
       },
       {
-        question: 'Posso usar o SKEMCASACOMCECILIA junto com o cupom PRIMEIRA10?',
+        question: 'O SKEMCASACOMCECILIA vale na primeira compra? Soma com o PRIMEIRA10?',
         answer:
-          'Não. A Skelt aceita um cupom por pedido: aplicar outro código troca o anterior. Na primeira compra, fique com um dos dois; os dois dão 10%.',
+          'Vale, mas não soma: a Skelt aceita um cupom por pedido, e aplicar outro código troca o anterior. Na primeira compra, fique com um dos dois; os dois dão 10%.',
       },
       {
         question: 'O cupom tira o brinde do pedido?',
@@ -2195,6 +2215,11 @@ export const COUPONS: Coupon[] = [
         question: 'O cupom MAUAD vale para todos os produtos da Toda Up?',
         answer:
           'Sim. O MAUAD dá 10% OFF em todos os produtos do site oficial da Toda Up: sutiãs, tops, calcinhas, adesivos e acessórios, inclusive os que já estão em promoção.',
+      },
+      {
+        question: 'A Toda Up é a antiga Fita Up? O cupom vale no site todaup.com?',
+        answer:
+          'Sim. A loja se chamava Fita Up e hoje é Toda Up, com o site oficial todaup.com. O cupom MAUAD dá 10% OFF em todo o site.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
