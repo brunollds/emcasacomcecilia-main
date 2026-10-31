@@ -20,7 +20,7 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "description": "SHEIN 11.11 大促（到 2026 年 11 月 12 日）中 Cecília 挑的 19 件，分 5 组（睡衣、童装、女装、配饰、男装）。每件都附当天价格、原价、商品页的折扣、尺码、评分，以及直达活动中该商品的按钮。价格读取于 2026 年 10 月 28 日。",
+  "description": "SHEIN 11.11 大促（到 2026 年 11 月 12 日）中 Cecília 挑的 19 件，分 5 组（睡衣、童装、女装、配饰、男装）。每件都附当天价格、原价、商品页的折扣、尺码、评分，以及直达活动中该商品的链接。价格读取于 2026 年 10 月 28 日。",
   "metaDescription": "SHEIN 11.11 到 2026 年 11 月 12 日。Cecília 挑的 19 件，从睡衣到男士衬衫，附 10 月 28 日商品页上的价格、折扣和尺码。",
   "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
   "imageAlt": "SHEIN 11.11 精选拼图：碎花睡衣、儿童套装、开衫、后空高跟鞋和男士衬衫，带 SHEIN 标志",
@@ -29,7 +29,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "本文的按钮通往 SHEIN 11.11 大促中的各件商品，活动到 2026 年 11 月 12 日。下单前请在商品页核对价格和尺码表。",
+    "text": "本文的链接通往 SHEIN 11.11 大促中的各件商品，活动到 2026 年 11 月 12 日。下单前请在商品页核对价格和尺码表。",
     "label": "去 SHEIN 看这份精选",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true
@@ -63,7 +63,7 @@
       "paragraphs": [
         "SHEIN 11.11 大促已经开始，2026 年 11 月 12 日结束。SHEIN 称超过 60 万件商品最低 1.5 折，活动主要在 App 里进行。",
         "本文价格由巴西雷亚尔按 2026 年 10 月 28 日汇率换算成人民币，你访问时看到的价格可能不同。",
-        "入口页面是 [11.11 全球热卖精选](https://onelink.shein.com/58/66i60wu7xjjd)。下面 19 件各有按钮，会在活动中打开该商品的页面。",
+        "入口页面是 [11.11 全球热卖精选](https://onelink.shein.com/58/66i60wu7xjjd)。下面 19 件的图片和卡片，会在活动中打开该商品的页面。",
         "4CW5Y 是 SHEIN 巴西站的推荐码：在 App 的搜索栏里搜索，不粘贴到结算页，因为它不是优惠券。步骤见 [SHEIN 巴西站推荐码：在哪里输入、怎么用](/zh-hans/reviews/shein-referral-code-zh-hans)。"
       ]
     },
@@ -200,13 +200,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看碎花睡衣",
-          "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -236,13 +229,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看条纹睡衣",
-          "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -277,13 +263,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看三件套睡衣",
-          "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -319,13 +298,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看女童套装",
-          "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -363,13 +335,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看恐龙睡衣",
-          "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -399,13 +364,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看婴儿上衣",
-          "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -443,13 +401,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看长袖睡衣",
-          "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -485,13 +436,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看条纹套装",
-          "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -533,13 +477,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看开衫",
-          "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -581,13 +518,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看印花短裤",
-          "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -625,13 +555,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看牛仔裤",
-          "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -679,13 +602,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看高跟鞋",
-          "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -724,13 +640,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看耳环",
-          "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -760,13 +669,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看手表套装",
-          "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -796,13 +698,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看太阳镜",
-          "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -838,13 +733,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看亨利领 T 恤",
-          "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -886,13 +774,6 @@
         "aspectRatio": 1,
         "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看短裤套装",
-          "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -934,13 +815,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看长袖衬衫",
-          "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -981,13 +855,6 @@
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
       },
-      "links": [
-        {
-          "label": "去 SHEIN 看背心",
-          "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-          "sponsored": true
-        }
-      ],
       "styling": {
         "layout": "tabs",
         "items": [
@@ -1027,7 +894,7 @@
         "SHEIN 11.11 到什么时候？SHEIN 称 11.11 大促 2026 年 11 月 12 日结束。",
         "商品价格会变吗？会。本文的价格和折扣是 2026 年 10 月 28 日商品页上的，SHEIN 在活动期间会调价，不同颜色或尺码价格也不同。",
         "4CW5Y 是优惠券吗？不是。它是 SHEIN 巴西站的推荐码：在 App 的搜索栏里搜索，不粘贴到结算页。",
-        "链接直接到商品吗？是。每个按钮都在 11.11 活动里打开该商品的页面，活动链接打开的是全球热卖精选页面。"
+        "链接直接到商品吗？是。每件商品的图片和卡片都在 11.11 活动里打开该商品的页面，活动链接打开的是全球热卖精选页面。"
       ]
     },
     {
