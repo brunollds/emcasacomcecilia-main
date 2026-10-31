@@ -54915,7 +54915,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Insider 2026",
         "paragraphs": [
-          "A Black Friday é em 27 de novembro, e a Insider já está no esquenta, em janelas curtas com regras que mudam a cada dia. No teste de 31 de outubro, o cupom EMCASACOMCECILIA deu 15% OFF por cima dos preços da campanha e do Outlet: a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65."
+          "A Black Friday é em 27 de novembro, e a Insider já está no esquenta, em janelas curtas que mudam a cada dia. O cupom EMCASACOMCECILIA dá 15% OFF por cima dos preços da campanha e do Outlet; o que muda a conta é a regra de cada promoção, explicada em \"o que soma\"."
         ]
       },
       {
