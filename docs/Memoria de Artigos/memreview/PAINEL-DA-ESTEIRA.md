@@ -17,6 +17,7 @@
 - [ ] [[whey-probiotica-concentrado-ou-isolado]]: Whey Probiótica: concentrado ou isolado como SEÇÃO de `melhor-whey-qual-escolher-por-objetivo` (PT); no mesmo PR, 20 g por dose em `probiotica-ou-integralmedica`
 - [ ] [[camiseta-feminina-insider-qual-escolher]]: Camiseta feminina Insider: qual escolher (Tech, Manga Longa, Perfect Top T-Shirt, NEXTECH, Skin Cropped) (PT); par do artigo masculino
 - [ ] [[card-estilo-roupas-lote-3110]]: card de estilo na cueca e no undershirt Insider, na Fita Up e na camiseta, no body e na alfaiataria da Cléa (PT)
+- [ ] [[card-estilo-shein-3110]]: SHEIN, card de estilo e foto com link no vestido de festa e no 11.11 (10 idiomas; antes de 12/11; deploy junto com o #386)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
