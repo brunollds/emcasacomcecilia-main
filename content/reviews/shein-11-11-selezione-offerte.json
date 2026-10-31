@@ -193,17 +193,31 @@
       "paragraphs": [
         "Secondo la scheda, è un completo pigiama floreale con tasca e profili a contrasto, della linea Serenescape. Va bene per chi cerca un pigiama estivo leggero, con maglia e short."
       ],
-      "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-      "imageAlt": "Pigiama floreale Serenescape con profili a contrasto, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+        "alt": "Pigiama floreale Serenescape con profili a contrasto, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi il pigiama floreale su SHEIN",
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pigiama floreale Serenescape",
+            "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+            "howTo": "Maglia e shorts per dormire o stare in casa con il caldo.",
+            "occasion": "Notti calde d'estate."
+          }
+        ]
+      }
     },
     {
       "heading": "Pigiama canotta e short a righe con cuori",
@@ -215,17 +229,36 @@
       "paragraphs": [
         "Secondo la scheda, è un pigiama da donna con canotta e short, a righe e con stampa di cuori, del marchio SHEIN. Il prezzo cambia in base al colore o alla taglia, e il 28/10 la scheda non mostrava un prezzo barrato."
       ],
-      "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-      "imageAlt": "Pigiama con canotta e short a righe con cuori, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+        "alt": "Pigiama con canotta e short a righe con cuori, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi il pigiama a righe su SHEIN",
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pigiama canotta e short a righe con cuori",
+            "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+            "howTo": "Canottiera e shorts per dormire; con una camicia aperta sopra diventa abbigliamento da casa.",
+            "occasion": "In casa, d'estate.",
+            "pairsWith": [
+              {
+                "label": "camicia di cotone aperta"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Pigiama 3 pezzi con stampa cartoon",
@@ -237,17 +270,31 @@
       "paragraphs": [
         "Secondo la scheda, è un completo Dream Adore in 3 pezzi con stampa cartoon e short con fiocco in vita. È il prezzo più basso tra i pigiami della selezione."
       ],
-      "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-      "imageAlt": "Pigiama 3 pezzi con stampa cartoon e short con fiocco, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+        "alt": "Pigiama 3 pezzi con stampa cartoon e short con fiocco, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi il pigiama 3 pezzi su SHEIN",
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pigiama 3 pezzi con stampa cartoon",
+            "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+            "howTo": "Completo intero, con lo short con fiocco in vita, per dormire o stare in casa.",
+            "occasion": "In casa, tutti i giorni."
+          }
+        ]
+      }
     },
     {
       "heading": "Bambini",
@@ -265,17 +312,39 @@
       "paragraphs": [
         "Secondo la scheda, è un completo da bambina con canotta stampata a cuore e pantalone palazzo, del marchio SHEIN. Va bene per chi cerca un look estivo completo per una bambina dai 4 ai 7 anni."
       ],
-      "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-      "imageAlt": "Completo da bambina con canotta a cuore e pantalone palazzo, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+        "alt": "Completo da bambina con canotta a cuore e pantalone palazzo, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi il completo da bambina su SHEIN",
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Completo da bambina con canotta a cuore e pantalone palazzo",
+            "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+            "howTo": "Canottiera e pantalone palazzo insieme, un look estivo pronto.",
+            "occasion": "Uscita estiva, per bambine dai 4 ai 7 anni.",
+            "pairsWith": [
+              {
+                "label": "sandali piatti"
+              },
+              {
+                "label": "cappello da sole"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Pigiama da bambino con dinosauro fluorescente",
@@ -287,17 +356,31 @@
       "paragraphs": [
         "Secondo la scheda, è un pigiama da bambino in 2 pezzi, con un dinosauro natalizio che si illumina al buio e vita elastica. Va bene per chi vuole già il pigiama delle feste di fine anno per un bambino dai 4 ai 7 anni."
       ],
-      "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-      "imageAlt": "Pigiama da bambino in 2 pezzi con dinosauro natalizio che si illumina al buio, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+        "alt": "Pigiama da bambino in 2 pezzi con dinosauro natalizio che si illumina al buio, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi il pigiama con dinosauro su SHEIN",
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pigiama da bambino con dinosauro fluorescente",
+            "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+            "howTo": "Pigiama in 2 pezzi; il dinosauro si illumina a luce spenta.",
+            "occasion": "Per la notte, bambini dai 4 ai 7 anni."
+          }
+        ]
+      }
     },
     {
       "heading": "Maglia da neonato con animali disegnati a gesso",
@@ -309,17 +392,39 @@
       "paragraphs": [
         "Secondo la scheda, è una maglia da neonato maschio con animali disegnati a gesso, come tigre, orso e bradipo. È il capo per bambini più economico della selezione, per neonati dai 6 mesi ai 3 anni."
       ],
-      "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-      "imageAlt": "Maglia da neonato con animali disegnati a gesso, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+        "alt": "Maglia da neonato con animali disegnati a gesso, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi la maglia da neonato su SHEIN",
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Maglia da neonato con animali disegnati a gesso",
+            "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+            "howTo": "Maglia per tutti i giorni, con pantaloni o shorts in maglia.",
+            "occasion": "Tutti i giorni, per neonati dai 6 mesi ai 3 anni.",
+            "pairsWith": [
+              {
+                "label": "pantaloni in maglia"
+              },
+              {
+                "label": "shorts in maglia"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Pigiama da bambino a maniche lunghe, stampa assortita",
@@ -331,17 +436,31 @@
       "paragraphs": [
         "Secondo la scheda, è un pigiama da bambino a maniche lunghe e pantalone lungo, con stampa su tutto il capo. La scheda vende 1 completo, e la stampa (dinosauro, scavatrice o aereo) la sceglie il negozio, non chi compra."
       ],
-      "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-      "imageAlt": "Pigiama da bambino a maniche lunghe con stampa di dinosauro, scavatrice o aereo, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+        "alt": "Pigiama da bambino a maniche lunghe con stampa di dinosauro, scavatrice o aereo, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi il pigiama a maniche lunghe su SHEIN",
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pigiama da bambino a maniche lunghe, stampa assortita",
+            "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+            "howTo": "Manica lunga e pantalone lungo, per notti più fresche.",
+            "occasion": "Notti fresche, dai 9 mesi ai 7 anni."
+          }
+        ]
+      }
     },
     {
       "heading": "Donna",
@@ -359,17 +478,43 @@
       "paragraphs": [
         "Secondo la scheda, è un completo SHEIN Franclia con canotta e pantalone palazzo, a righe blu, che il negozio descrive per tutti i giorni, il lavoro e le vacanze. Va bene per chi vuole il look pronto in un completo solo."
       ],
-      "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-      "imageAlt": "Completo a righe blu con canotta e pantalone palazzo, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+        "alt": "Completo a righe blu con canotta e pantalone palazzo, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi il completo a righe su SHEIN",
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Completo a righe blu con canotta e pantalone palazzo",
+            "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+            "howTo": "Canottiera e pantalone palazzo insieme, look pronto; con il cardigan sopra, va dal caldo all'aria condizionata.",
+            "occasion": "Tutti i giorni, lavoro e vacanze, secondo il negozio.",
+            "pairsWith": [
+              {
+                "label": "Cardigan sportivo slim DAZY",
+                "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+              },
+              {
+                "label": "sandali piatti"
+              },
+              {
+                "label": "tracolla"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Cardigan sportivo slim DAZY",
@@ -381,17 +526,43 @@
       "paragraphs": [
         "Secondo la scheda, è un cardigan sportivo a maniche lunghe e taglio slim, di DAZY, che il negozio descrive come una giacca leggera di mezza stagione. Va bene per chi cerca un terzo capo leggero per l'aria condizionata o la sera."
       ],
-      "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-      "imageAlt": "Cardigan sportivo slim a maniche lunghe, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+        "alt": "Cardigan sportivo slim a maniche lunghe, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi il cardigan su SHEIN",
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Cardigan sportivo slim DAZY",
+            "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+            "howTo": "Sopra una canottiera o una maglietta, come giacca leggera.",
+            "occasion": "Mezza stagione, aria condizionata e fine pomeriggio.",
+            "pairsWith": [
+              {
+                "label": "Completo a righe blu con canotta e pantalone palazzo",
+                "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+              },
+              {
+                "label": "jeans"
+              },
+              {
+                "label": "abito in maglia"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Short stampato con vita arricciata",
@@ -403,17 +574,39 @@
       "paragraphs": [
         "Secondo la scheda, è uno short stampato con vita arricciata, della linea SHEIN Frenchy, che il negozio descrive in stile \"old money\" per l'estate e le vacanze. È il capo più economico della selezione e quello con lo sconto più alto nella scheda."
       ],
-      "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-      "imageAlt": "Short da donna stampato con vita arricciata, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+        "alt": "Short da donna stampato con vita arricciata, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi lo short stampato su SHEIN",
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Short stampato con vita arricciata",
+            "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+            "howTo": "Con una maglietta liscia, così la stampa si vede.",
+            "occasion": "Estate e vacanze.",
+            "pairsWith": [
+              {
+                "label": "maglietta bianca"
+              },
+              {
+                "label": "sandali piatti"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Jeans palazzo con vita elastica",
@@ -425,17 +618,43 @@
       "paragraphs": [
         "Secondo la scheda, è un jeans palazzo Flexra, con vita elastica, che il negozio descrive come comodo e a gamba larga. È l'articolo più caro della selezione."
       ],
-      "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-      "imageAlt": "Jeans palazzo con vita elastica, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+        "alt": "Jeans palazzo con vita elastica, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi il jeans su SHEIN",
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Jeans palazzo con vita elastica",
+            "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+            "howTo": "Con décolleté o ballerine a punta, per bilanciare la gamba larga.",
+            "occasion": "Tutti i giorni e lavoro informale.",
+            "pairsWith": [
+              {
+                "label": "Décolleté slingback bianche e caramello",
+                "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+              },
+              {
+                "label": "maglietta basic"
+              },
+              {
+                "label": "cintura sottile"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Accessori",
@@ -453,17 +672,40 @@
       "paragraphs": [
         "Secondo la scheda, sono décolleté slingback in bianco e caramello, con tacco largo, che il negozio descrive come eleganti e moderne. Vanno bene per chi cerca una scarpa da lavoro o da festa con un tacco più stabile."
       ],
-      "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-      "imageAlt": "Décolleté slingback bianche e caramello con tacco largo, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+        "alt": "Décolleté slingback bianche e caramello con tacco largo, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi le décolleté su SHEIN",
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Décolleté slingback bianche e caramello",
+            "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+            "howTo": "Con pantaloni sartoriali, jeans o un abito; il tacco largo è più stabile, secondo il negozio.",
+            "occasion": "Lavoro e feste.",
+            "pairsWith": [
+              {
+                "label": "Jeans palazzo con vita elastica",
+                "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+              },
+              {
+                "label": "pochette piccola"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Orecchini a fiocco con perla e cuore",
@@ -475,17 +717,31 @@
       "paragraphs": [
         "Secondo la scheda, è un paio di orecchini a fiocco con perla e cuore, che il negozio consiglia per le feste. È l'articolo più economico della selezione e va bene come piccolo regalo o pensierino."
       ],
-      "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-      "imageAlt": "Paio di orecchini a fiocco con perla e cuore, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+        "alt": "Paio di orecchini a fiocco con perla e cuore, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi gli orecchini su SHEIN",
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Orecchini a fiocco con perla e cuore",
+            "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+            "howTo": "Con i capelli raccolti, perché si veda il fiocco.",
+            "occasion": "Festa, o come piccolo regalo."
+          }
+        ]
+      }
     },
     {
       "heading": "Set orologio verde con bracciale, collana e orecchini",
@@ -497,17 +753,31 @@
       "paragraphs": [
         "Secondo la scheda, è un set da 9 pezzi con orologio verde, bracciale, collana e orecchini, che il negozio consiglia per tutti i giorni o come regalo. Va bene per chi vuole un completo di accessori in una volta sola, per circa 5 €."
       ],
-      "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-      "imageAlt": "Set da 9 pezzi con orologio verde, bracciale, collana e orecchini, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+        "alt": "Set da 9 pezzi con orologio verde, bracciale, collana e orecchini, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi il set con orologio su SHEIN",
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Set orologio verde con bracciale, collana e orecchini",
+            "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+            "howTo": "L'orologio da solo tutti i giorni; con la collana e gli orecchini del set, per un'uscita.",
+            "occasion": "Tutti i giorni, uscite o regalo."
+          }
+        ]
+      }
     },
     {
       "heading": "Occhiali poligonali con lenti sfumate",
@@ -519,17 +789,31 @@
       "paragraphs": [
         "Secondo la scheda, sono occhiali LINFEMAND con montatura poligonale e lenti sfumate, in 6 colori, che il negozio consiglia per guidare, la spiaggia e i viaggi. Lo sconto nella scheda è piccolo, del 4%."
       ],
-      "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-      "imageAlt": "Occhiali con montatura poligonale e lenti sfumate, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+        "alt": "Occhiali con montatura poligonale e lenti sfumate, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi gli occhiali su SHEIN",
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Occhiali poligonali con lenti sfumate",
+            "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+            "howTo": "Montatura in un tono che si abbini ai vestiti che usi di più.",
+            "occasion": "Guida, spiaggia e viaggi, secondo il negozio."
+          }
+        ]
+      }
     },
     {
       "heading": "Uomo",
@@ -547,17 +831,43 @@
       "paragraphs": [
         "Secondo la scheda, è una T-shirt Henley a maniche corte, blu navy, con una trama che imita il lino, che il negozio descrive come casual e dalla vestibilità rilassata. Va bene per chi vuole una maglietta un po' più curata di quella basic."
       ],
-      "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-      "imageAlt": "T-shirt Henley da uomo blu navy effetto lino, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+        "alt": "T-shirt Henley da uomo blu navy effetto lino, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi la T-shirt Henley su SHEIN",
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "T-shirt Henley blu navy effetto lino",
+            "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+            "howTo": "Morbida, con jeans o bermuda, per un casual più curato.",
+            "occasion": "Tutti i giorni e weekend.",
+            "pairsWith": [
+              {
+                "label": "Set di short in lino",
+                "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+              },
+              {
+                "label": "jeans"
+              },
+              {
+                "label": "sneakers bianche"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Set di short in lino",
@@ -569,17 +879,43 @@
       "paragraphs": [
         "Secondo la scheda, è un set di short in lino in colori assortiti, che il negozio descrive come casual e moderno. La scheda non dice quanti pezzi ci sono nel set: controlla prima di comprare."
       ],
-      "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-      "imageAlt": "Set di short da uomo in lino in colori assortiti, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 1,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+        "alt": "Set di short da uomo in lino in colori assortiti, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi il set di short su SHEIN",
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Set di short in lino",
+            "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+            "howTo": "Con una maglietta liscia o henley, per un casual estivo.",
+            "occasion": "Estate e vacanze.",
+            "pairsWith": [
+              {
+                "label": "T-shirt Henley blu navy effetto lino",
+                "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+              },
+              {
+                "label": "canottiera bianca"
+              },
+              {
+                "label": "sneakers basse"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Camicia da uomo a maniche lunghe Manfinity Mode",
@@ -591,17 +927,42 @@
       "paragraphs": [
         "Secondo la scheda, è una camicia a maniche lunghe di Manfinity Mode, che il negozio descrive come versatile, per tutti i giorni e per le occasioni formali. Va bene per chi ha bisogno di una camicia più curata per il lavoro."
       ],
-      "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-      "imageAlt": "Camicia da uomo a maniche lunghe Manfinity Mode, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+        "alt": "Camicia da uomo a maniche lunghe Manfinity Mode, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi la camicia a maniche lunghe su SHEIN",
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Camicia da uomo a maniche lunghe Manfinity Mode",
+            "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+            "howTo": "Aperta sopra una maglietta, o infilata nei pantaloni sartoriali.",
+            "occasion": "Lavoro e occasioni formali, secondo il negozio.",
+            "pairsWith": [
+              {
+                "label": "pantaloni sartoriali"
+              },
+              {
+                "label": "jeans dritti"
+              },
+              {
+                "label": "maglietta bianca"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Canotta nera effetto lavato dalla vestibilità ampia",
@@ -613,17 +974,42 @@
       "paragraphs": [
         "Secondo la scheda, è una canotta nera effetto lavato dalla vestibilità ampia, che il negozio descrive come streetwear estivo. Va bene per chi cerca una canotta da strada, non da allenamento."
       ],
-      "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-      "imageAlt": "Canotta da uomo nera effetto lavato dalla vestibilità ampia, foto della scheda SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+        "alt": "Canotta da uomo nera effetto lavato dalla vestibilità ampia, foto della scheda SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+      },
       "links": [
         {
           "label": "Vedi la canotta su SHEIN",
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Canotta nera effetto lavato dalla vestibilità ampia",
+            "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+            "howTo": "Con bermuda o pantaloncini in felpa, per un look da strada.",
+            "occasion": "Estate e strada; non è un capo da allenamento.",
+            "pairsWith": [
+              {
+                "label": "bermuda in nylon"
+              },
+              {
+                "label": "sneakers bianche"
+              },
+              {
+                "label": "cappellino"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Prima di comprare",

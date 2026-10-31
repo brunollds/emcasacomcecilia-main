@@ -136629,17 +136629,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um conjunto de pijama floral com bolso e debrum contrastante, da linha Serenescape. Serve para quem quer um pijama de verão leve, de blusa e short."
         ],
-        "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-        "imageAlt": "Pijama floral Serenescape com debrum contrastante, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "alt": "Pijama floral Serenescape com debrum contrastante, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver o pijama floral na SHEIN",
             "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pijama floral Serenescape",
+              "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+              "howTo": "Blusa e short para dormir ou ficar em casa no calor.",
+              "occasion": "Noites quentes de verão."
+            }
+          ]
+        }
       },
       {
         "heading": "Pijama regata e short listrado com corações",
@@ -136651,17 +136665,36 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um pijama feminino de regata e short, listrado e com estampa de corações, da marca própria da SHEIN. O preço muda por cor ou tamanho, e a ficha não mostrava riscado em 28/10."
         ],
-        "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-        "imageAlt": "Pijama de regata e short listrado com corações, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "alt": "Pijama de regata e short listrado com corações, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver o pijama listrado na SHEIN",
             "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pijama regata e short listrado com corações",
+              "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+              "howTo": "Regata e short para dormir; com uma camisa aberta por cima, vira roupa de ficar em casa.",
+              "occasion": "Casa, no verão.",
+              "pairsWith": [
+                {
+                  "label": "camisa aberta de algodão"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pijama de 3 peças com estampa de cartoon",
@@ -136673,17 +136706,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um conjunto Dream Adore de 3 peças com estampa de cartoon e short com laço na cintura. É o menor preço entre os pijamas da seleção."
         ],
-        "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-        "imageAlt": "Pijama de 3 peças com estampa de cartoon e short com laço, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "alt": "Pijama de 3 peças com estampa de cartoon e short com laço, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver o pijama de 3 peças na SHEIN",
             "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pijama de 3 peças com estampa de cartoon",
+              "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+              "howTo": "Conjunto completo, com o short de laço na cintura, para dormir ou ficar em casa.",
+              "occasion": "Casa, no dia a dia."
+            }
+          ]
+        }
       },
       {
         "heading": "Infantil",
@@ -136701,17 +136748,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um conjunto de menina com regata estampada de coração e calça pantalona, da marca própria da SHEIN. Serve para quem quer um look completo de verão para a menina de 4 a 7 anos."
         ],
-        "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-        "imageAlt": "Conjunto infantil de regata com coração e calça pantalona, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "alt": "Conjunto infantil de regata com coração e calça pantalona, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver o conjunto de menina na SHEIN",
             "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Conjunto de menina com regata de coração e pantalona",
+              "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+              "howTo": "Regata e pantalona juntas, como look pronto de verão.",
+              "occasion": "Passeio de verão, para meninas de 4 a 7 anos.",
+              "pairsWith": [
+                {
+                  "label": "sandália rasteira"
+                },
+                {
+                  "label": "chapéu de sol"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pijama de menino com dinossauro que brilha no escuro",
@@ -136723,17 +136792,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um pijama de menino de 2 peças, com dinossauro de Natal que brilha no escuro e ajuste elástico. Serve para quem já quer o pijama das festas de fim de ano para o menino de 4 a 7 anos."
         ],
-        "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-        "imageAlt": "Pijama infantil de 2 peças com dinossauro de Natal que brilha no escuro, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "alt": "Pijama infantil de 2 peças com dinossauro de Natal que brilha no escuro, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver o pijama de dinossauro na SHEIN",
             "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pijama de menino com dinossauro que brilha no escuro",
+              "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+              "howTo": "Para dormir; o dinossauro aparece com a luz apagada.",
+              "occasion": "Hora de dormir, meninos de 4 a 7 anos."
+            }
+          ]
+        }
       },
       {
         "heading": "Blusa de bebê com bichos desenhados a giz",
@@ -136745,17 +136828,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é uma blusa de bebê menino com bichos desenhados a giz, como tigre, urso e bicho-preguiça. É a peça infantil mais barata da seleção, para bebês de 6 meses a 3 anos."
         ],
-        "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-        "imageAlt": "Blusa de bebê com bichos desenhados a giz, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "alt": "Blusa de bebê com bichos desenhados a giz, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver a blusa de bebê na SHEIN",
             "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Blusa de bebê com bichos desenhados a giz",
+              "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+              "howTo": "Blusa de dia a dia, para o calor.",
+              "occasion": "Dia a dia, para bebês de 6 meses a 3 anos.",
+              "pairsWith": [
+                {
+                  "label": "calça de malha"
+                },
+                {
+                  "label": "short de malha"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pijama de menino de manga longa, estampa sortida",
@@ -136767,17 +136872,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um pijama de menino de manga longa e calça comprida, com estampa inteira. A ficha vende 1 conjunto, e a estampa (dinossauro, escavadeira ou avião) é escolhida pela loja, não por quem compra."
         ],
-        "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-        "imageAlt": "Pijama infantil de manga longa com estampa de dinossauro, escavadeira ou avião, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "alt": "Pijama infantil de manga longa com estampa de dinossauro, escavadeira ou avião, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver o pijama de manga longa na SHEIN",
             "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pijama de menino de manga longa, estampa sortida",
+              "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+              "howTo": "Manga longa e calça comprida, para noites mais frescas.",
+              "occasion": "Noites frescas, de 9 meses a 7 anos."
+            }
+          ]
+        }
       },
       {
         "heading": "Feminino",
@@ -136795,17 +136914,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um conjunto SHEIN Franclia de regata e calça pantalona, listrado em azul, que a loja descreve para o dia a dia, o trabalho e as férias. Serve para quem quer o look pronto num conjunto só."
         ],
-        "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-        "imageAlt": "Conjunto listrado azul de regata e calça pantalona, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "alt": "Conjunto listrado azul de regata e calça pantalona, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver o conjunto listrado na SHEIN",
             "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Conjunto listrado azul de regata e pantalona",
+              "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+              "howTo": "Regata e pantalona juntas, como look pronto; com cardigã por cima, vai do calor ao ar-condicionado.",
+              "occasion": "Dia a dia, trabalho e férias, segundo a loja.",
+              "pairsWith": [
+                {
+                  "label": "Cardigã esportivo slim DAZY",
+                  "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+                },
+                {
+                  "label": "sandália rasteira"
+                },
+                {
+                  "label": "bolsa tiracolo"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Cardigã esportivo slim DAZY",
@@ -136817,17 +136962,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um cardigã esportivo de manga longa e corte slim, da DAZY, que a loja descreve como uma jaqueta fina de meia-estação. Serve para quem procura uma terceira peça leve para o ar-condicionado ou o fim de tarde."
         ],
-        "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-        "imageAlt": "Cardigã esportivo slim de manga longa, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "alt": "Cardigã esportivo slim de manga longa, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver o cardigã na SHEIN",
             "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Cardigã esportivo slim DAZY",
+              "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+              "howTo": "Por cima de regata ou camiseta, como casaco fino.",
+              "occasion": "Meia-estação, ar-condicionado e fim de tarde.",
+              "pairsWith": [
+                {
+                  "label": "Conjunto listrado azul de regata e pantalona",
+                  "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+                },
+                {
+                  "label": "calça jeans"
+                },
+                {
+                  "label": "vestido de malha"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Short estampado clochard",
@@ -136839,17 +137010,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um short estampado de cintura clochard, da linha SHEIN Frenchy, que a loja descreve no estilo \"old money\" para o verão e as férias. É a roupa mais barata da seleção e a de maior desconto na ficha."
         ],
-        "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-        "imageAlt": "Short feminino estampado com cintura clochard, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "alt": "Short feminino estampado com cintura clochard, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver o short estampado na SHEIN",
             "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Short estampado clochard",
+              "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+              "howTo": "Com camiseta lisa, para a estampa aparecer.",
+              "occasion": "Verão e férias.",
+              "pairsWith": [
+                {
+                  "label": "camiseta branca"
+                },
+                {
+                  "label": "sandália rasteira"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Calça jeans pantalona com cintura elástica",
@@ -136861,17 +137054,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é uma calça jeans pantalona Flexra, de cintura elástica, que a loja descreve como confortável e de perna larga. É a peça mais cara da seleção, e a ficha mostrava frete grátis em 28/10/2026."
         ],
-        "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-        "imageAlt": "Calça jeans pantalona com cintura elástica, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "alt": "Calça jeans pantalona com cintura elástica, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver a calça jeans na SHEIN",
             "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Calça jeans pantalona com cintura elástica",
+              "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+              "howTo": "Com scarpin ou sapato de bico fino, para equilibrar a perna larga.",
+              "occasion": "Dia a dia e trabalho sem formalidade.",
+              "pairsWith": [
+                {
+                  "label": "Scarpin slingback branco e caramelo",
+                  "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+                },
+                {
+                  "label": "camiseta básica"
+                },
+                {
+                  "label": "cinto fino"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Acessórios",
@@ -136889,17 +137108,40 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um scarpin slingback em branco e caramelo, de salto bloco, que a loja descreve como elegante e moderno. Serve para quem quer um sapato de trabalho ou de festa com salto mais firme."
         ],
-        "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-        "imageAlt": "Scarpin slingback branco e caramelo com salto bloco, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "alt": "Scarpin slingback branco e caramelo com salto bloco, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver o scarpin na SHEIN",
             "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Scarpin slingback branco e caramelo",
+              "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+              "howTo": "Com calça de alfaiataria, jeans ou vestido; o salto bloco é mais firme, segundo a loja.",
+              "occasion": "Trabalho e festa.",
+              "pairsWith": [
+                {
+                  "label": "Calça jeans pantalona com cintura elástica",
+                  "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+                },
+                {
+                  "label": "bolsa de mão pequena"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Brincos de laço com pérola e coração",
@@ -136911,17 +137153,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um par de brincos de laço com pérola e coração, que a loja indica para festas. É o item mais barato da seleção e serve de mimo ou de presente pequeno."
         ],
-        "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-        "imageAlt": "Par de brincos de laço com pérola e coração, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "alt": "Par de brincos de laço com pérola e coração, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver os brincos na SHEIN",
             "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Brincos de laço com pérola e coração",
+              "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+              "howTo": "Com cabelo preso, para o laço aparecer.",
+              "occasion": "Festa, ou como presente pequeno."
+            }
+          ]
+        }
       },
       {
         "heading": "Kit de relógio verde com pulseira, colar e brincos",
@@ -136933,17 +137189,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um kit de 9 peças com relógio verde, pulseira, colar e brincos, que a loja indica para o uso diário ou como presente. Serve para quem quer montar um conjunto de uma vez por menos de R$ 30."
         ],
-        "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-        "imageAlt": "Kit de 9 peças com relógio verde, pulseira, colar e brincos, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "alt": "Kit de 9 peças com relógio verde, pulseira, colar e brincos, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver o kit de relógio na SHEIN",
             "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Kit de relógio verde com pulseira, colar e brincos",
+              "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+              "howTo": "O relógio sozinho no dia a dia; com o colar e os brincos do kit, numa saída.",
+              "occasion": "Dia a dia, saída ou presente."
+            }
+          ]
+        }
       },
       {
         "heading": "Óculos de lente degradê poligonal",
@@ -136955,17 +137225,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um óculos LINFEMAND de armação poligonal e lente degradê, em 6 cores, que a loja indica para dirigir, praia e viagem. O desconto na ficha é pequeno, de 4%."
         ],
-        "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-        "imageAlt": "Óculos de armação poligonal com lente degradê, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "alt": "Óculos de armação poligonal com lente degradê, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver os óculos na SHEIN",
             "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Óculos de lente degradê poligonal",
+              "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+              "howTo": "Armação em tom que combine com as roupas que você mais usa.",
+              "occasion": "Dirigir, praia e viagem, segundo a loja."
+            }
+          ]
+        }
       },
       {
         "heading": "Masculino",
@@ -136983,17 +137267,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é uma camiseta Henley de manga curta, azul-marinho, com textura que imita linho, que a loja descreve como casual e de caimento relaxado. Serve para quem quer uma camiseta um pouco mais arrumada que a básica."
         ],
-        "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-        "imageAlt": "Camiseta Henley masculina azul-marinho com textura de linho, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "alt": "Camiseta Henley masculina azul-marinho com textura de linho, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver a camiseta Henley na SHEIN",
             "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Camiseta Henley azul-marinho com textura de linho",
+              "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+              "howTo": "Solta, com jeans ou bermuda, num casual mais arrumado.",
+              "occasion": "Dia a dia e fim de semana.",
+              "pairsWith": [
+                {
+                  "label": "Kit de short de linho",
+                  "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+                },
+                {
+                  "label": "calça jeans"
+                },
+                {
+                  "label": "tênis branco"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Kit de short de linho",
@@ -137005,17 +137315,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é um kit de short de linho em cores variadas, com envio nacional, que a loja descreve como casual e moderno. A ficha não diz quantas peças vêm no kit: confira antes de comprar."
         ],
-        "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-        "imageAlt": "Kit de short masculino de linho em cores variadas, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 1,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "alt": "Kit de short masculino de linho em cores variadas, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver o kit de short na SHEIN",
             "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Kit de short de linho",
+              "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+              "howTo": "Com camiseta lisa ou henley, num casual de verão.",
+              "occasion": "Verão e férias.",
+              "pairsWith": [
+                {
+                  "label": "Camiseta Henley azul-marinho com textura de linho",
+                  "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+                },
+                {
+                  "label": "regata branca"
+                },
+                {
+                  "label": "tênis branco"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Camisa masculina de manga longa Manfinity Mode",
@@ -137027,17 +137363,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é uma camisa de manga longa da Manfinity Mode, que a loja descreve como versátil, para o dia a dia e para ocasiões formais. Serve para quem precisa de uma camisa mais arrumada para o trabalho."
         ],
-        "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-        "imageAlt": "Camisa masculina de manga longa Manfinity Mode, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "alt": "Camisa masculina de manga longa Manfinity Mode, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver a camisa de manga longa na SHEIN",
             "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Camisa masculina de manga longa Manfinity Mode",
+              "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+              "howTo": "Aberta sobre camiseta, ou por dentro da calça de alfaiataria.",
+              "occasion": "Trabalho e ocasiões formais, segundo a loja.",
+              "pairsWith": [
+                {
+                  "label": "calça de alfaiataria"
+                },
+                {
+                  "label": "jeans reto"
+                },
+                {
+                  "label": "camiseta branca"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Regata preta estonada de caimento solto",
@@ -137049,17 +137410,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Segundo a ficha, é uma regata preta estonada de caimento solto, que a loja descreve como streetwear de verão. Serve para quem quer uma regata de rua, e não de treino."
         ],
-        "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-        "imageAlt": "Regata masculina preta estonada de caimento solto, foto da ficha da SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "alt": "Regata masculina preta estonada de caimento solto, foto da ficha da SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver a regata na SHEIN",
             "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Regata preta estonada de caimento solto",
+              "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+              "howTo": "Com bermuda ou short de moletom, num look de rua.",
+              "occasion": "Verão e rua; não é peça de treino.",
+              "pairsWith": [
+                {
+                  "label": "bermuda de tactel"
+                },
+                {
+                  "label": "tênis branco"
+                },
+                {
+                  "label": "boné"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Antes de comprar",
@@ -137282,17 +137668,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a floral pajama set with a pocket and contrast piping, from the Serenescape line. It suits anyone looking for a light summer pajama set with a top and shorts."
         ],
-        "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-        "imageAlt": "Serenescape floral pajama set with contrast piping, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "alt": "Serenescape floral pajama set with contrast piping, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the floral pajama set on SHEIN",
             "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Serenescape floral pajama set",
+              "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+              "howTo": "Top and shorts to sleep in or stay home in the heat.",
+              "occasion": "Hot summer nights."
+            }
+          ]
+        }
       },
       {
         "heading": "Striped tank and shorts pajama set with hearts",
@@ -137304,17 +137704,36 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a women's tank top and shorts pajama set, striped with a heart print, from SHEIN's own brand. The price changes by color or size, and the product page showed no crossed-out price on October 28."
         ],
-        "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-        "imageAlt": "Striped tank top and shorts pajama set with hearts, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "alt": "Striped tank top and shorts pajama set with hearts, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the striped pajama set on SHEIN",
             "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Striped tank and shorts pajama set with hearts",
+              "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+              "howTo": "Tank top and shorts to sleep in; with an open shirt over it, it becomes loungewear.",
+              "occasion": "At home, in summer.",
+              "pairsWith": [
+                {
+                  "label": "open cotton shirt"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "3-piece pajama set with cartoon print",
@@ -137326,17 +137745,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a 3-piece Dream Adore set with a cartoon print and shorts with a bow at the waist. It is the lowest price among the pajama sets in this selection."
         ],
-        "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-        "imageAlt": "3-piece pajama set with cartoon print and bow shorts, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "alt": "3-piece pajama set with cartoon print and bow shorts, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the 3-piece pajama set on SHEIN",
             "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "3-piece pajama set with cartoon print",
+              "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+              "howTo": "Full set, with the bow-waist shorts, to sleep in or stay home.",
+              "occasion": "At home, every day."
+            }
+          ]
+        }
       },
       {
         "heading": "Kids",
@@ -137354,17 +137787,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a girls' set with a heart-print tank top and wide-leg pants, from SHEIN's own brand. It suits anyone looking for a complete summer outfit for a girl aged 4 to 7."
         ],
-        "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-        "imageAlt": "Kids' set with heart tank top and wide-leg pants, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "alt": "Kids' set with heart tank top and wide-leg pants, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the girls' set on SHEIN",
             "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Girls' set with heart tank top and wide-leg pants",
+              "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+              "howTo": "Tank top and wide pants together, a ready-to-wear summer look.",
+              "occasion": "Summer outing, for girls aged 4 to 7.",
+              "pairsWith": [
+                {
+                  "label": "flat sandals"
+                },
+                {
+                  "label": "sun hat"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Boys' pajama set with glow-in-the-dark dinosaur",
@@ -137376,17 +137831,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a 2-piece boys' pajama set with a glow-in-the-dark Christmas dinosaur and an elastic fit. It suits anyone who already wants the holiday pajamas for a boy aged 4 to 7."
         ],
-        "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-        "imageAlt": "Kids' 2-piece pajama set with glow-in-the-dark Christmas dinosaur, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "alt": "Kids' 2-piece pajama set with glow-in-the-dark Christmas dinosaur, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the dinosaur pajama set on SHEIN",
             "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Boys' pajama set with glow-in-the-dark dinosaur",
+              "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+              "howTo": "Two-piece pajamas; the dinosaur glows once the lights are off.",
+              "occasion": "Bedtime, for boys aged 4 to 7."
+            }
+          ]
+        }
       },
       {
         "heading": "Baby top with chalk-drawn animals",
@@ -137398,17 +137867,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a baby boy top with chalk-drawn animals, such as a tiger, a bear and a sloth. It is the cheapest kids' piece in the selection, for babies from 6 months to 3 years."
         ],
-        "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-        "imageAlt": "Baby top with chalk-drawn animals, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "alt": "Baby top with chalk-drawn animals, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the baby top on SHEIN",
             "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Baby top with chalk-drawn animals",
+              "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+              "howTo": "Everyday top, with knit pants or shorts.",
+              "occasion": "Everyday wear, for babies from 6 months to 3 years.",
+              "pairsWith": [
+                {
+                  "label": "knit pants"
+                },
+                {
+                  "label": "knit shorts"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Boys' long-sleeve pajama set, assorted print",
@@ -137420,17 +137911,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a boys' pajama set with long sleeves and long pants, with an all-over print. The listing sells 1 set, and the print (dinosaur, excavator or airplane) is chosen by the store, not by the buyer."
         ],
-        "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-        "imageAlt": "Kids' long-sleeve pajama set with dinosaur, excavator or airplane print, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "alt": "Kids' long-sleeve pajama set with dinosaur, excavator or airplane print, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the long-sleeve pajama set on SHEIN",
             "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Boys' long-sleeve pajama set, assorted print",
+              "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+              "howTo": "Long sleeves and long pants, for cooler nights.",
+              "occasion": "Cool nights, from 9 months to 7 years."
+            }
+          ]
+        }
       },
       {
         "heading": "Women",
@@ -137448,17 +137953,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a SHEIN Franclia set with a tank top and wide-leg pants, striped in blue, which the store describes for everyday wear, work and vacations. It suits anyone who wants a ready-made look in a single set."
         ],
-        "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-        "imageAlt": "Blue striped tank top and wide-leg pants set, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "alt": "Blue striped tank top and wide-leg pants set, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the striped set on SHEIN",
             "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Blue striped tank top and wide-leg pants set",
+              "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+              "howTo": "Tank top and wide pants together, a ready-made look; with a cardigan on top, it goes from the heat to the air conditioning.",
+              "occasion": "Everyday, work and vacations, according to the store.",
+              "pairsWith": [
+                {
+                  "label": "DAZY slim sporty cardigan",
+                  "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+                },
+                {
+                  "label": "flat sandals"
+                },
+                {
+                  "label": "crossbody bag"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "DAZY slim sporty cardigan",
@@ -137470,17 +138001,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a long-sleeve, slim-cut sporty cardigan by DAZY, which the store describes as a thin mid-season jacket. It suits anyone looking for a light third layer for air conditioning or the late afternoon."
         ],
-        "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-        "imageAlt": "Slim sporty cardigan with long sleeves, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "alt": "Slim sporty cardigan with long sleeves, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the cardigan on SHEIN",
             "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "DAZY slim sporty cardigan",
+              "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+              "howTo": "Over a tank top or T-shirt, as a light jacket.",
+              "occasion": "Transitional weather, air conditioning and late afternoon.",
+              "pairsWith": [
+                {
+                  "label": "Blue striped tank top and wide-leg pants set",
+                  "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+                },
+                {
+                  "label": "jeans"
+                },
+                {
+                  "label": "knit dress"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Printed paperbag-waist shorts",
@@ -137492,17 +138049,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, these are printed shorts with a paperbag waist, from the SHEIN Frenchy line, which the store describes as \"old money\" style for summer and vacations. They are the cheapest piece of clothing in the selection and the one with the biggest discount on the product page."
         ],
-        "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-        "imageAlt": "Women's printed shorts with paperbag waist, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "alt": "Women's printed shorts with paperbag waist, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the printed shorts on SHEIN",
             "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Printed paperbag-waist shorts",
+              "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+              "howTo": "With a plain T-shirt, so the print stands out.",
+              "occasion": "Summer and vacations.",
+              "pairsWith": [
+                {
+                  "label": "white T-shirt"
+                },
+                {
+                  "label": "flat sandals"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Wide-leg jeans with elastic waist",
@@ -137514,17 +138093,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, these are Flexra wide-leg jeans with an elastic waist, which the store describes as comfortable and wide-legged. They are the most expensive piece in the selection."
         ],
-        "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-        "imageAlt": "Wide-leg jeans with elastic waist, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "alt": "Wide-leg jeans with elastic waist, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the jeans on SHEIN",
             "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Wide-leg jeans with elastic waist",
+              "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+              "howTo": "With pumps or pointed flats, to balance the wide leg.",
+              "occasion": "Everyday and relaxed work.",
+              "pairsWith": [
+                {
+                  "label": "White and caramel slingback pumps",
+                  "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+                },
+                {
+                  "label": "basic T-shirt"
+                },
+                {
+                  "label": "thin belt"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Accessories",
@@ -137542,17 +138147,40 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, these are white and caramel slingback pumps with a block heel, which the store describes as elegant and modern. They suit anyone looking for a work or party shoe with a steadier heel."
         ],
-        "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-        "imageAlt": "White and caramel slingback pumps with block heel, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "alt": "White and caramel slingback pumps with block heel, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the slingback pumps on SHEIN",
             "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "White and caramel slingback pumps",
+              "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+              "howTo": "With tailored pants, jeans or a dress; the block heel is steadier, according to the store.",
+              "occasion": "Work and parties.",
+              "pairsWith": [
+                {
+                  "label": "Wide-leg jeans with elastic waist",
+                  "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+                },
+                {
+                  "label": "small clutch"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Bow earrings with pearl and heart",
@@ -137564,17 +138192,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a pair of bow earrings with a pearl and a heart, which the store suggests for parties. It is the cheapest item in the selection and works as a treat or a small gift."
         ],
-        "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-        "imageAlt": "Pair of bow earrings with pearl and heart, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "alt": "Pair of bow earrings with pearl and heart, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the earrings on SHEIN",
             "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Bow earrings with pearl and heart",
+              "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+              "howTo": "With hair up, so the bow shows.",
+              "occasion": "Parties, or as a small gift."
+            }
+          ]
+        }
       },
       {
         "heading": "Green watch set with bracelet, necklace and earrings",
@@ -137586,17 +138228,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a 9-piece set with a green watch, a bracelet, a necklace and earrings, which the store suggests for daily wear or as a gift. It suits anyone who wants to put together a matching set in one go for about $5."
         ],
-        "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-        "imageAlt": "9-piece set with green watch, bracelet, necklace and earrings, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "alt": "9-piece set with green watch, bracelet, necklace and earrings, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the watch set on SHEIN",
             "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Green watch set with bracelet, necklace and earrings",
+              "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+              "howTo": "The watch alone for everyday; with the necklace and earrings from the set, for a night out.",
+              "occasion": "Everyday, going out or as a gift."
+            }
+          ]
+        }
       },
       {
         "heading": "Polygonal gradient-lens sunglasses",
@@ -137608,17 +138264,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, these are LINFEMAND sunglasses with a polygonal frame and gradient lenses, in 6 colors, which the store suggests for driving, the beach and travel. The discount on the product page is small, at 4%."
         ],
-        "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-        "imageAlt": "Sunglasses with polygonal frame and gradient lenses, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "alt": "Sunglasses with polygonal frame and gradient lenses, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the sunglasses on SHEIN",
             "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Polygonal gradient-lens sunglasses",
+              "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+              "howTo": "Frame in a shade that matches the clothes you wear most.",
+              "occasion": "Driving, the beach and travel, according to the store."
+            }
+          ]
+        }
       },
       {
         "heading": "Men",
@@ -137636,17 +138306,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a short-sleeve navy Henley tee with a linen-look texture, which the store describes as casual with a relaxed fit. It suits anyone who wants a tee a bit dressier than a basic one."
         ],
-        "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-        "imageAlt": "Men's navy Henley tee with linen texture, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "alt": "Men's navy Henley tee with linen texture, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the Henley tee on SHEIN",
             "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Navy Henley tee with linen texture",
+              "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+              "howTo": "Loose, with jeans or bermuda shorts, for a smarter casual look.",
+              "occasion": "Everyday and weekends.",
+              "pairsWith": [
+                {
+                  "label": "Linen shorts set",
+                  "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+                },
+                {
+                  "label": "jeans"
+                },
+                {
+                  "label": "white sneakers"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Linen shorts set",
@@ -137658,17 +138354,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a set of linen shorts in assorted colors, which the store describes as casual and modern. The product page does not say how many pieces come in the set: check before buying."
         ],
-        "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-        "imageAlt": "Men's linen shorts set in assorted colors, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 1,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "alt": "Men's linen shorts set in assorted colors, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the shorts set on SHEIN",
             "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Linen shorts set",
+              "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+              "howTo": "With a plain T-shirt or henley, for a summer casual look.",
+              "occasion": "Summer and vacations.",
+              "pairsWith": [
+                {
+                  "label": "Navy Henley tee with linen texture",
+                  "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+                },
+                {
+                  "label": "white tank top"
+                },
+                {
+                  "label": "low-top sneakers"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Manfinity Mode men's long-sleeve shirt",
@@ -137680,17 +138402,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a Manfinity Mode long-sleeve shirt, which the store describes as versatile, for everyday wear and formal occasions. It suits anyone who needs a dressier shirt for work."
         ],
-        "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-        "imageAlt": "Manfinity Mode men's long-sleeve shirt, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "alt": "Manfinity Mode men's long-sleeve shirt, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the long-sleeve shirt on SHEIN",
             "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Manfinity Mode men's long-sleeve shirt",
+              "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+              "howTo": "Open over a T-shirt, or tucked into tailored pants.",
+              "occasion": "Work and formal occasions, according to the store.",
+              "pairsWith": [
+                {
+                  "label": "tailored pants"
+                },
+                {
+                  "label": "straight jeans"
+                },
+                {
+                  "label": "white T-shirt"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Black washed loose-fit tank top",
@@ -137702,17 +138449,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "According to the product page, this is a black washed tank top with a loose fit, which the store describes as summer streetwear. It suits anyone who wants a tank top for the street, not for the gym."
         ],
-        "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-        "imageAlt": "Men's black washed loose-fit tank top, photo from the SHEIN product page",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "alt": "Men's black washed loose-fit tank top, photo from the SHEIN product page",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+        },
         "links": [
           {
             "label": "See the tank top on SHEIN",
             "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Black washed loose-fit tank top",
+              "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+              "howTo": "With bermuda shorts or sweat shorts, for a street look.",
+              "occasion": "Summer and street; not training wear.",
+              "pairsWith": [
+                {
+                  "label": "nylon shorts"
+                },
+                {
+                  "label": "white sneakers"
+                },
+                {
+                  "label": "cap"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Before you buy",
@@ -137935,17 +138707,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es un conjunto de pijama floral con bolsillo y ribete en contraste, de la línea Serenescape. Sirve para quien busca un pijama de verano ligero, de camiseta y short."
         ],
-        "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-        "imageAlt": "Pijama floral Serenescape con ribete en contraste, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "alt": "Pijama floral Serenescape con ribete en contraste, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver el pijama floral en SHEIN",
             "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pijama floral Serenescape",
+              "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+              "howTo": "Camiseta y short para dormir o quedarse en casa con calor.",
+              "occasion": "Noches calurosas de verano."
+            }
+          ]
+        }
       },
       {
         "heading": "Pijama de tirantes y short a rayas con corazones",
@@ -137957,17 +138743,36 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es un pijama de mujer de camiseta de tirantes y short, a rayas y con estampado de corazones, de la marca propia de SHEIN. El precio cambia según el color o la talla, y la ficha no mostraba tachado el 28/10."
         ],
-        "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-        "imageAlt": "Pijama de tirantes y short a rayas con corazones, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "alt": "Pijama de tirantes y short a rayas con corazones, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver el pijama a rayas en SHEIN",
             "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pijama de tirantes y short a rayas con corazones",
+              "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+              "howTo": "Camiseta de tirantes y short para dormir; con una camisa abierta por encima, sirve para estar en casa.",
+              "occasion": "En casa, en verano.",
+              "pairsWith": [
+                {
+                  "label": "camisa abierta de algodón"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pijama de 3 piezas con estampado de dibujos",
@@ -137979,17 +138784,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es un conjunto Dream Adore de 3 piezas con estampado de dibujos animados y short con lazo en la cintura. Es el precio más bajo entre los pijamas de la selección."
         ],
-        "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-        "imageAlt": "Pijama de 3 piezas con estampado de dibujos y short con lazo, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "alt": "Pijama de 3 piezas con estampado de dibujos y short con lazo, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver el pijama de 3 piezas en SHEIN",
             "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pijama de 3 piezas con estampado de dibujos",
+              "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+              "howTo": "Conjunto completo, con el short de lazo en la cintura, para dormir o estar en casa.",
+              "occasion": "En casa, a diario."
+            }
+          ]
+        }
       },
       {
         "heading": "Infantil",
@@ -138007,17 +138826,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es un conjunto de niña con top de tirantes estampado con corazón y pantalón ancho, de la marca propia de SHEIN. Sirve para quien busca un look completo de verano para una niña de 4 a 7 años."
         ],
-        "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-        "imageAlt": "Conjunto infantil de top de tirantes con corazón y pantalón ancho, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "alt": "Conjunto infantil de top de tirantes con corazón y pantalón ancho, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver el conjunto de niña en SHEIN",
             "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Conjunto de niña con top de corazón y pantalón ancho",
+              "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+              "howTo": "Camiseta de tirantes y pantalón ancho juntos, como look de verano listo para usar.",
+              "occasion": "Paseo de verano, para niñas de 4 a 7 años.",
+              "pairsWith": [
+                {
+                  "label": "sandalia plana"
+                },
+                {
+                  "label": "sombrero de sol"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pijama de niño con dinosaurio que brilla en la oscuridad",
@@ -138029,17 +138870,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es un pijama de niño de 2 piezas, con un dinosaurio navideño que brilla en la oscuridad y ajuste elástico. Sirve para quien ya quiere el pijama de las fiestas de fin de año para un niño de 4 a 7 años."
         ],
-        "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-        "imageAlt": "Pijama infantil de 2 piezas con dinosaurio navideño que brilla en la oscuridad, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "alt": "Pijama infantil de 2 piezas con dinosaurio navideño que brilla en la oscuridad, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver el pijama de dinosaurio en SHEIN",
             "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pijama de niño con dinosaurio que brilla en la oscuridad",
+              "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+              "howTo": "Pijama de 2 piezas; el dinosaurio se ilumina con la luz apagada.",
+              "occasion": "Para dormir, niños de 4 a 7 años."
+            }
+          ]
+        }
       },
       {
         "heading": "Camiseta de bebé con animales dibujados a tiza",
@@ -138051,17 +138906,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es una camiseta de bebé niño con animales dibujados a tiza, como un tigre, un oso y un perezoso. Es la prenda infantil más barata de la selección, para bebés de 6 meses a 3 años."
         ],
-        "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-        "imageAlt": "Camiseta de bebé con animales dibujados a tiza, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "alt": "Camiseta de bebé con animales dibujados a tiza, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver la camiseta de bebé en SHEIN",
             "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Camiseta de bebé con animales dibujados a tiza",
+              "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+              "howTo": "Camiseta para el día a día, con pantalón o short de punto.",
+              "occasion": "Día a día, para bebés de 6 meses a 3 años.",
+              "pairsWith": [
+                {
+                  "label": "pantalón de punto"
+                },
+                {
+                  "label": "short de punto"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pijama de niño de manga larga, estampado surtido",
@@ -138073,17 +138950,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es un pijama de niño de manga larga y pantalón largo, con estampado completo. La ficha vende 1 conjunto, y el estampado (dinosaurio, excavadora o avión) lo elige la tienda, no quien compra."
         ],
-        "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-        "imageAlt": "Pijama infantil de manga larga con estampado de dinosaurio, excavadora o avión, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "alt": "Pijama infantil de manga larga con estampado de dinosaurio, excavadora o avión, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver el pijama de manga larga en SHEIN",
             "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pijama de niño de manga larga, estampado surtido",
+              "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+              "howTo": "Manga larga y pantalón largo, para noches más frescas.",
+              "occasion": "Noches frescas, de 9 meses a 7 años."
+            }
+          ]
+        }
       },
       {
         "heading": "Mujer",
@@ -138101,17 +138992,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es un conjunto SHEIN Franclia de top de tirantes y pantalón ancho, a rayas en azul, que la tienda describe para el día a día, el trabajo y las vacaciones. Sirve para quien quiere el look listo en un solo conjunto."
         ],
-        "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-        "imageAlt": "Conjunto a rayas azul de top de tirantes y pantalón ancho, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "alt": "Conjunto a rayas azul de top de tirantes y pantalón ancho, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver el conjunto a rayas en SHEIN",
             "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Conjunto a rayas azul de top y pantalón ancho",
+              "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+              "howTo": "Camiseta de tirantes y pantalón ancho juntos como look listo; con cárdigan encima, pasa del calor al aire acondicionado.",
+              "occasion": "Día a día, trabajo y vacaciones, según la tienda.",
+              "pairsWith": [
+                {
+                  "label": "Cárdigan deportivo slim DAZY",
+                  "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+                },
+                {
+                  "label": "sandalia plana"
+                },
+                {
+                  "label": "bolso bandolera"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Cárdigan deportivo slim DAZY",
@@ -138123,17 +139040,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es un cárdigan deportivo de manga larga y corte slim, de DAZY, que la tienda describe como una chaqueta fina de entretiempo. Sirve para quien busca una tercera prenda ligera para el aire acondicionado o el final de la tarde."
         ],
-        "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-        "imageAlt": "Cárdigan deportivo slim de manga larga, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "alt": "Cárdigan deportivo slim de manga larga, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver el cárdigan en SHEIN",
             "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Cárdigan deportivo slim DAZY",
+              "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+              "howTo": "Por encima de una camiseta de tirantes o una camiseta, como chaqueta fina.",
+              "occasion": "Entretiempo, aire acondicionado y final de la tarde.",
+              "pairsWith": [
+                {
+                  "label": "Conjunto a rayas azul de top y pantalón ancho",
+                  "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+                },
+                {
+                  "label": "vaqueros"
+                },
+                {
+                  "label": "vestido de punto"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Short estampado de cintura paperbag",
@@ -138145,17 +139088,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es un short estampado de cintura paperbag, de la línea SHEIN Frenchy, que la tienda describe en estilo \"old money\" para el verano y las vacaciones. Es la prenda de ropa más barata de la selección y la de mayor descuento en la ficha."
         ],
-        "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-        "imageAlt": "Short de mujer estampado con cintura paperbag, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "alt": "Short de mujer estampado con cintura paperbag, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver el short estampado en SHEIN",
             "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Short estampado de cintura paperbag",
+              "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+              "howTo": "Con camiseta lisa, para que se vea el estampado.",
+              "occasion": "Verano y vacaciones.",
+              "pairsWith": [
+                {
+                  "label": "camiseta blanca"
+                },
+                {
+                  "label": "sandalia plana"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Vaqueros anchos con cintura elástica",
@@ -138167,17 +139132,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, son unos vaqueros anchos Flexra, de cintura elástica, que la tienda describe como cómodos y de pierna ancha. Es la prenda más cara de la selección."
         ],
-        "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-        "imageAlt": "Vaqueros anchos con cintura elástica, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "alt": "Vaqueros anchos con cintura elástica, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver los vaqueros en SHEIN",
             "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Vaqueros anchos con cintura elástica",
+              "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+              "howTo": "Con salones o zapato de punta fina, para equilibrar la pierna ancha.",
+              "occasion": "Día a día y trabajo sin formalidad.",
+              "pairsWith": [
+                {
+                  "label": "Zapatos slingback blanco y caramelo",
+                  "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+                },
+                {
+                  "label": "camiseta básica"
+                },
+                {
+                  "label": "cinturón fino"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Accesorios",
@@ -138195,17 +139186,40 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, son unos zapatos slingback en blanco y caramelo, de tacón cuadrado, que la tienda describe como elegantes y modernos. Sirven para quien busca un zapato de trabajo o de fiesta con un tacón más firme."
         ],
-        "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-        "imageAlt": "Zapatos slingback blanco y caramelo con tacón cuadrado, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "alt": "Zapatos slingback blanco y caramelo con tacón cuadrado, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver los zapatos slingback en SHEIN",
             "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Zapatos slingback blanco y caramelo",
+              "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+              "howTo": "Con pantalón de sastre, vaqueros o vestido; el tacón cuadrado es más firme, según la tienda.",
+              "occasion": "Trabajo y fiesta.",
+              "pairsWith": [
+                {
+                  "label": "Vaqueros anchos con cintura elástica",
+                  "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+                },
+                {
+                  "label": "bolso de mano pequeño"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pendientes de lazo con perla y corazón",
@@ -138217,17 +139231,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es un par de pendientes de lazo con perla y corazón, que la tienda recomienda para fiestas. Es el artículo más barato de la selección y sirve como capricho o como regalo pequeño."
         ],
-        "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-        "imageAlt": "Par de pendientes de lazo con perla y corazón, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "alt": "Par de pendientes de lazo con perla y corazón, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver los pendientes en SHEIN",
             "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pendientes de lazo con perla y corazón",
+              "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+              "howTo": "Con el pelo recogido, para que se vea el lazo.",
+              "occasion": "Fiesta, o como regalo pequeño."
+            }
+          ]
+        }
       },
       {
         "heading": "Kit de reloj verde con pulsera, collar y pendientes",
@@ -138239,17 +139267,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es un kit de 9 piezas con reloj verde, pulsera, collar y pendientes, que la tienda recomienda para el uso diario o como regalo. Sirve para quien quiere montar un conjunto de una vez por unos 5 €."
         ],
-        "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-        "imageAlt": "Kit de 9 piezas con reloj verde, pulsera, collar y pendientes, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "alt": "Kit de 9 piezas con reloj verde, pulsera, collar y pendientes, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver el kit de reloj en SHEIN",
             "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Kit de reloj verde con pulsera, collar y pendientes",
+              "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+              "howTo": "El reloj solo en el día a día; con el collar y los pendientes del kit, para una salida.",
+              "occasion": "Día a día, salida o regalo."
+            }
+          ]
+        }
       },
       {
         "heading": "Gafas de sol poligonales con lente degradada",
@@ -138261,17 +139303,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, son unas gafas LINFEMAND de montura poligonal y lente degradada, en 6 colores, que la tienda recomienda para conducir, la playa y los viajes. El descuento en la ficha es pequeño, del 4 %."
         ],
-        "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-        "imageAlt": "Gafas de sol de montura poligonal con lente degradada, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "alt": "Gafas de sol de montura poligonal con lente degradada, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver las gafas de sol en SHEIN",
             "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Gafas de sol poligonales con lente degradada",
+              "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+              "howTo": "Montura en un tono que combine con la ropa que más usas.",
+              "occasion": "Conducir, playa y viaje, según la tienda."
+            }
+          ]
+        }
       },
       {
         "heading": "Hombre",
@@ -138289,17 +139345,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es una camiseta Henley de manga corta, azul marino, con textura que imita el lino, que la tienda describe como casual y de corte relajado. Sirve para quien quiere una camiseta algo más arreglada que la básica."
         ],
-        "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-        "imageAlt": "Camiseta Henley de hombre azul marino con textura de lino, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "alt": "Camiseta Henley de hombre azul marino con textura de lino, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver la camiseta Henley en SHEIN",
             "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Camiseta Henley azul marino con textura de lino",
+              "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+              "howTo": "Suelta, con vaqueros o bermudas, para un casual más arreglado.",
+              "occasion": "Día a día y fin de semana.",
+              "pairsWith": [
+                {
+                  "label": "Kit de shorts de lino",
+                  "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+                },
+                {
+                  "label": "vaqueros"
+                },
+                {
+                  "label": "zapatillas blancas"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Kit de shorts de lino",
@@ -138311,17 +139393,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es un kit de shorts de lino en colores variados, que la tienda describe como casual y moderno. La ficha no dice cuántas piezas trae el kit: revísalo antes de comprar."
         ],
-        "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-        "imageAlt": "Kit de shorts de hombre de lino en colores variados, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 1,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "alt": "Kit de shorts de hombre de lino en colores variados, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver el kit de shorts en SHEIN",
             "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Kit de shorts de lino",
+              "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+              "howTo": "Con camiseta lisa o henley, para un casual de verano.",
+              "occasion": "Verano y vacaciones.",
+              "pairsWith": [
+                {
+                  "label": "Camiseta Henley azul marino con textura de lino",
+                  "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+                },
+                {
+                  "label": "camiseta de tirantes blanca"
+                },
+                {
+                  "label": "zapatillas bajas"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Camisa de hombre de manga larga Manfinity Mode",
@@ -138333,17 +139441,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es una camisa de manga larga de Manfinity Mode, que la tienda describe como versátil, para el día a día y para ocasiones formales. Sirve para quien necesita una camisa más arreglada para el trabajo."
         ],
-        "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-        "imageAlt": "Camisa de hombre de manga larga Manfinity Mode, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "alt": "Camisa de hombre de manga larga Manfinity Mode, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver la camisa de manga larga en SHEIN",
             "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Camisa de hombre de manga larga Manfinity Mode",
+              "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+              "howTo": "Abierta sobre una camiseta, o metida por dentro del pantalón de sastre.",
+              "occasion": "Trabajo y ocasiones formales, según la tienda.",
+              "pairsWith": [
+                {
+                  "label": "pantalón de sastre"
+                },
+                {
+                  "label": "vaqueros rectos"
+                },
+                {
+                  "label": "camiseta blanca"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Camiseta de tirantes negra lavada de corte holgado",
@@ -138355,17 +139488,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la ficha, es una camiseta de tirantes negra lavada de corte holgado, que la tienda describe como streetwear de verano. Sirve para quien quiere una camiseta de tirantes para la calle, no para entrenar."
         ],
-        "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-        "imageAlt": "Camiseta de tirantes de hombre negra lavada de corte holgado, foto de la ficha de SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "alt": "Camiseta de tirantes de hombre negra lavada de corte holgado, foto de la ficha de SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ver la camiseta de tirantes en SHEIN",
             "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Camiseta de tirantes negra lavada de corte holgado",
+              "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+              "howTo": "Con bermudas o short de chándal, para un look de calle.",
+              "occasion": "Verano y calle; no es ropa de entrenamiento.",
+              "pairsWith": [
+                {
+                  "label": "bermudas de nailon"
+                },
+                {
+                  "label": "zapatillas blancas"
+                },
+                {
+                  "label": "gorra"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Antes de comprar",
@@ -138588,17 +139746,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un ensemble pyjama fleuri avec poche et passepoil contrastant, de la ligne Serenescape. Il convient à qui cherche un pyjama d'été léger, haut et short."
         ],
-        "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-        "imageAlt": "Pyjama fleuri Serenescape avec passepoil contrastant, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "alt": "Pyjama fleuri Serenescape avec passepoil contrastant, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le pyjama fleuri sur SHEIN",
             "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pyjama fleuri Serenescape",
+              "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+              "howTo": "Haut et short pour dormir ou rester à la maison quand il fait chaud.",
+              "occasion": "Nuits chaudes d'été."
+            }
+          ]
+        }
       },
       {
         "heading": "Pyjama débardeur et short rayé à cœurs",
@@ -138610,17 +139782,36 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un pyjama femme débardeur et short, rayé avec un imprimé de cœurs, de la marque propre de SHEIN. Le prix change selon la couleur ou la taille, et la fiche n'affichait pas de prix barré le 28/10."
         ],
-        "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-        "imageAlt": "Pyjama débardeur et short rayé à cœurs, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "alt": "Pyjama débardeur et short rayé à cœurs, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le pyjama rayé sur SHEIN",
             "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pyjama débardeur et short rayé à cœurs",
+              "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+              "howTo": "Débardeur et short pour dormir ; avec une chemise ouverte par-dessus, il devient une tenue d'intérieur.",
+              "occasion": "À la maison, en été.",
+              "pairsWith": [
+                {
+                  "label": "chemise en coton ouverte"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pyjama 3 pièces à imprimé cartoon",
@@ -138632,17 +139823,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un ensemble Dream Adore de 3 pièces à imprimé cartoon, avec un short à nœud à la taille. C'est le prix le plus bas parmi les pyjamas de la sélection."
         ],
-        "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-        "imageAlt": "Pyjama 3 pièces à imprimé cartoon avec short à nœud, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "alt": "Pyjama 3 pièces à imprimé cartoon avec short à nœud, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le pyjama 3 pièces sur SHEIN",
             "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pyjama 3 pièces à imprimé cartoon",
+              "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+              "howTo": "Ensemble complet, avec le short à nœud à la taille, pour dormir ou rester chez soi.",
+              "occasion": "À la maison, au quotidien."
+            }
+          ]
+        }
       },
       {
         "heading": "Enfant",
@@ -138660,17 +139865,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un ensemble fille avec un débardeur imprimé cœur et un pantalon large, de la marque propre de SHEIN. Il convient à qui cherche une tenue d'été complète pour une fille de 4 à 7 ans."
         ],
-        "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-        "imageAlt": "Ensemble enfant débardeur à cœur et pantalon large, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "alt": "Ensemble enfant débardeur à cœur et pantalon large, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir l'ensemble fille sur SHEIN",
             "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Ensemble fille débardeur cœur et pantalon large",
+              "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+              "howTo": "Débardeur et pantalon large portés ensemble, un look d'été prêt à porter.",
+              "occasion": "Sortie d'été, pour les filles de 4 à 7 ans.",
+              "pairsWith": [
+                {
+                  "label": "sandales plates"
+                },
+                {
+                  "label": "chapeau de soleil"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pyjama garçon avec dinosaure phosphorescent",
@@ -138682,17 +139909,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un pyjama garçon 2 pièces, avec un dinosaure de Noël phosphorescent et une taille élastique. Il convient à qui veut déjà le pyjama des fêtes de fin d'année pour un garçon de 4 à 7 ans."
         ],
-        "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-        "imageAlt": "Pyjama enfant 2 pièces avec dinosaure de Noël phosphorescent, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "alt": "Pyjama enfant 2 pièces avec dinosaure de Noël phosphorescent, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le pyjama dinosaure sur SHEIN",
             "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pyjama garçon avec dinosaure phosphorescent",
+              "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+              "howTo": "Pyjama 2 pièces ; le dinosaure s'éclaire une fois la lumière éteinte.",
+              "occasion": "Pour la nuit, garçons de 4 à 7 ans."
+            }
+          ]
+        }
       },
       {
         "heading": "Haut bébé avec animaux dessinés à la craie",
@@ -138704,17 +139945,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un haut bébé garçon avec des animaux dessinés à la craie, comme un tigre, un ours et un paresseux. C'est la pièce enfant la moins chère de la sélection, pour les bébés de 6 mois à 3 ans."
         ],
-        "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-        "imageAlt": "Haut bébé avec animaux dessinés à la craie, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "alt": "Haut bébé avec animaux dessinés à la craie, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le haut bébé sur SHEIN",
             "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Haut bébé avec animaux dessinés à la craie",
+              "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+              "howTo": "Haut de tous les jours, avec un pantalon ou un short en maille.",
+              "occasion": "Au quotidien, pour les bébés de 6 mois à 3 ans.",
+              "pairsWith": [
+                {
+                  "label": "pantalon en maille"
+                },
+                {
+                  "label": "short en maille"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pyjama garçon à manches longues, imprimé assorti",
@@ -138726,17 +139989,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un pyjama garçon à manches longues et pantalon long, avec un imprimé intégral. La fiche vend 1 ensemble, et l'imprimé (dinosaure, pelleteuse ou avion) est choisi par la boutique, pas par l'acheteur."
         ],
-        "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-        "imageAlt": "Pyjama enfant à manches longues avec imprimé dinosaure, pelleteuse ou avion, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "alt": "Pyjama enfant à manches longues avec imprimé dinosaure, pelleteuse ou avion, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le pyjama à manches longues sur SHEIN",
             "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pyjama garçon à manches longues, imprimé assorti",
+              "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+              "howTo": "Manches longues et pantalon long, pour les nuits plus fraîches.",
+              "occasion": "Nuits fraîches, de 9 mois à 7 ans."
+            }
+          ]
+        }
       },
       {
         "heading": "Femme",
@@ -138754,17 +140031,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un ensemble SHEIN Franclia débardeur et pantalon large, rayé en bleu, que la boutique décrit pour tous les jours, le travail et les vacances. Il convient à qui veut une tenue prête en un seul ensemble."
         ],
-        "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-        "imageAlt": "Ensemble rayé bleu débardeur et pantalon large, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "alt": "Ensemble rayé bleu débardeur et pantalon large, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir l'ensemble rayé sur SHEIN",
             "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Ensemble rayé bleu débardeur et pantalon large",
+              "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+              "howTo": "Débardeur et pantalon large ensemble, look prêt à porter ; avec un cardigan par-dessus, il passe de la chaleur à la climatisation.",
+              "occasion": "Au quotidien, au travail et en vacances, selon la boutique.",
+              "pairsWith": [
+                {
+                  "label": "Cardigan sport slim DAZY",
+                  "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+                },
+                {
+                  "label": "sandales plates"
+                },
+                {
+                  "label": "sac bandoulière"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Cardigan sport slim DAZY",
@@ -138776,17 +140079,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un cardigan sport à manches longues et coupe slim, de DAZY, que la boutique décrit comme une veste fine de mi-saison. Il convient à qui cherche une troisième pièce légère pour la clim ou la fin d'après-midi."
         ],
-        "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-        "imageAlt": "Cardigan sport slim à manches longues, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "alt": "Cardigan sport slim à manches longues, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le cardigan sur SHEIN",
             "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Cardigan sport slim DAZY",
+              "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+              "howTo": "Par-dessus un débardeur ou un t-shirt, comme une veste légère.",
+              "occasion": "Mi-saison, climatisation et fin d'après-midi.",
+              "pairsWith": [
+                {
+                  "label": "Ensemble rayé bleu débardeur et pantalon large",
+                  "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+                },
+                {
+                  "label": "jean"
+                },
+                {
+                  "label": "robe en maille"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Short imprimé à taille paperbag",
@@ -138798,17 +140127,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un short imprimé à taille paperbag, de la ligne SHEIN Frenchy, que la boutique décrit en style « old money » pour l'été et les vacances. C'est le vêtement le moins cher de la sélection et celui avec la plus grosse remise sur la fiche."
         ],
-        "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-        "imageAlt": "Short femme imprimé à taille paperbag, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "alt": "Short femme imprimé à taille paperbag, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le short imprimé sur SHEIN",
             "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Short imprimé à taille paperbag",
+              "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+              "howTo": "Avec un t-shirt uni, pour que l'imprimé ressorte.",
+              "occasion": "L'été et les vacances.",
+              "pairsWith": [
+                {
+                  "label": "t-shirt blanc"
+                },
+                {
+                  "label": "sandales plates"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Jean large à taille élastique",
@@ -138820,17 +140171,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un jean large Flexra à taille élastique, que la boutique décrit comme confortable et à jambe large. C'est la pièce la plus chère de la sélection."
         ],
-        "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-        "imageAlt": "Jean large à taille élastique, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "alt": "Jean large à taille élastique, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le jean sur SHEIN",
             "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Jean large à taille élastique",
+              "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+              "howTo": "Avec des escarpins ou des ballerines à bout pointu, pour équilibrer la jambe large.",
+              "occasion": "Au quotidien et au travail, sans formalité.",
+              "pairsWith": [
+                {
+                  "label": "Escarpins slingback blanc et caramel",
+                  "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+                },
+                {
+                  "label": "t-shirt basique"
+                },
+                {
+                  "label": "ceinture fine"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Accessoires",
@@ -138848,17 +140225,40 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, ce sont des escarpins slingback blanc et caramel, à talon carré, que la boutique décrit comme élégants et modernes. Ils conviennent à qui cherche une chaussure de travail ou de soirée avec un talon plus stable."
         ],
-        "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-        "imageAlt": "Escarpins slingback blanc et caramel à talon carré, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "alt": "Escarpins slingback blanc et caramel à talon carré, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir les escarpins sur SHEIN",
             "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Escarpins slingback blanc et caramel",
+              "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+              "howTo": "Avec un pantalon de tailleur, un jean ou une robe ; le talon carré est plus stable, selon la boutique.",
+              "occasion": "Travail et fête.",
+              "pairsWith": [
+                {
+                  "label": "Jean large à taille élastique",
+                  "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+                },
+                {
+                  "label": "petit sac à main"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Boucles d'oreilles nœud avec perle et cœur",
@@ -138870,17 +140270,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est une paire de boucles d'oreilles nœud avec perle et cœur, que la boutique recommande pour les soirées. C'est l'article le moins cher de la sélection, un petit plaisir ou un petit cadeau."
         ],
-        "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-        "imageAlt": "Paire de boucles d'oreilles nœud avec perle et cœur, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "alt": "Paire de boucles d'oreilles nœud avec perle et cœur, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir les boucles d'oreilles sur SHEIN",
             "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Boucles d'oreilles nœud avec perle et cœur",
+              "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+              "howTo": "Cheveux attachés, pour que le nœud se voie.",
+              "occasion": "Fête, ou petit cadeau."
+            }
+          ]
+        }
       },
       {
         "heading": "Kit montre verte avec bracelet, collier et boucles d'oreilles",
@@ -138892,17 +140306,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un kit de 9 pièces avec montre verte, bracelet, collier et boucles d'oreilles, que la boutique recommande pour tous les jours ou comme cadeau. Il convient à qui veut composer une parure d'un coup pour environ 5 €."
         ],
-        "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-        "imageAlt": "Kit de 9 pièces avec montre verte, bracelet, collier et boucles d'oreilles, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "alt": "Kit de 9 pièces avec montre verte, bracelet, collier et boucles d'oreilles, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le kit montre sur SHEIN",
             "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Kit montre verte avec bracelet, collier et boucles d'oreilles",
+              "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+              "howTo": "La montre seule au quotidien ; avec le collier et les boucles d'oreilles du kit, pour une sortie.",
+              "occasion": "Au quotidien, en sortie ou en cadeau."
+            }
+          ]
+        }
       },
       {
         "heading": "Lunettes de soleil polygonales à verres dégradés",
@@ -138914,17 +140342,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, ce sont des lunettes LINFEMAND à monture polygonale et verres dégradés, en 6 coloris, que la boutique recommande pour la conduite, la plage et les voyages. La remise sur la fiche est petite, de 4 %."
         ],
-        "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-        "imageAlt": "Lunettes de soleil à monture polygonale et verres dégradés, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "alt": "Lunettes de soleil à monture polygonale et verres dégradés, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir les lunettes de soleil sur SHEIN",
             "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Lunettes de soleil polygonales à verres dégradés",
+              "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+              "howTo": "Monture dans une teinte qui va avec les vêtements que vous portez le plus.",
+              "occasion": "Conduite, plage et voyage, selon la boutique."
+            }
+          ]
+        }
       },
       {
         "heading": "Homme",
@@ -138942,17 +140384,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un t-shirt Henley à manches courtes, bleu marine, avec une texture imitation lin, que la boutique décrit comme casual et à coupe décontractée. Il convient à qui veut un t-shirt un peu plus habillé que le basique."
         ],
-        "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-        "imageAlt": "T-shirt Henley homme bleu marine à texture lin, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "alt": "T-shirt Henley homme bleu marine à texture lin, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le t-shirt Henley sur SHEIN",
             "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "T-shirt Henley bleu marine à texture lin",
+              "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+              "howTo": "Ample, avec un jean ou un bermuda, pour un look casual plus soigné.",
+              "occasion": "Au quotidien et le week-end.",
+              "pairsWith": [
+                {
+                  "label": "Kit de shorts en lin",
+                  "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+                },
+                {
+                  "label": "jean"
+                },
+                {
+                  "label": "baskets blanches"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Kit de shorts en lin",
@@ -138964,17 +140432,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un kit de shorts en lin en coloris variés, que la boutique décrit comme casual et moderne. La fiche ne dit pas combien de pièces le kit contient : vérifiez avant d'acheter."
         ],
-        "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-        "imageAlt": "Kit de shorts homme en lin en coloris variés, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 1,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "alt": "Kit de shorts homme en lin en coloris variés, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le kit de shorts sur SHEIN",
             "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Kit de shorts en lin",
+              "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+              "howTo": "Avec un t-shirt uni ou un henley, pour un casual d'été.",
+              "occasion": "L'été et les vacances.",
+              "pairsWith": [
+                {
+                  "label": "T-shirt Henley bleu marine à texture lin",
+                  "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+                },
+                {
+                  "label": "débardeur blanc"
+                },
+                {
+                  "label": "baskets basses"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Chemise homme à manches longues Manfinity Mode",
@@ -138986,17 +140480,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est une chemise à manches longues de Manfinity Mode, que la boutique décrit comme polyvalente, pour tous les jours et les occasions formelles. Elle convient à qui a besoin d'une chemise plus habillée pour le travail."
         ],
-        "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-        "imageAlt": "Chemise homme à manches longues Manfinity Mode, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "alt": "Chemise homme à manches longues Manfinity Mode, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir la chemise à manches longues sur SHEIN",
             "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Chemise homme à manches longues Manfinity Mode",
+              "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+              "howTo": "Ouverte sur un t-shirt, ou rentrée dans un pantalon de tailleur.",
+              "occasion": "Travail et occasions formelles, selon la boutique.",
+              "pairsWith": [
+                {
+                  "label": "pantalon de tailleur"
+                },
+                {
+                  "label": "jean droit"
+                },
+                {
+                  "label": "t-shirt blanc"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Débardeur noir délavé à coupe ample",
@@ -139008,17 +140527,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la fiche, c'est un débardeur noir délavé à coupe ample, que la boutique décrit comme du streetwear d'été. Il convient à qui veut un débardeur pour la rue, pas pour la salle de sport."
         ],
-        "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-        "imageAlt": "Débardeur homme noir délavé à coupe ample, photo de la fiche SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "alt": "Débardeur homme noir délavé à coupe ample, photo de la fiche SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+        },
         "links": [
           {
             "label": "Voir le débardeur sur SHEIN",
             "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Débardeur noir délavé à coupe ample",
+              "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+              "howTo": "Avec un bermuda ou un short en molleton, pour un look urbain.",
+              "occasion": "L'été et la rue ; ce n'est pas une tenue de sport.",
+              "pairsWith": [
+                {
+                  "label": "bermuda en nylon"
+                },
+                {
+                  "label": "baskets blanches"
+                },
+                {
+                  "label": "casquette"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Avant d'acheter",
@@ -139242,17 +140786,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è un completo pigiama floreale con tasca e profili a contrasto, della linea Serenescape. Va bene per chi cerca un pigiama estivo leggero, con maglia e short."
         ],
-        "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-        "imageAlt": "Pigiama floreale Serenescape con profili a contrasto, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "alt": "Pigiama floreale Serenescape con profili a contrasto, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi il pigiama floreale su SHEIN",
             "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pigiama floreale Serenescape",
+              "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+              "howTo": "Maglia e shorts per dormire o stare in casa con il caldo.",
+              "occasion": "Notti calde d'estate."
+            }
+          ]
+        }
       },
       {
         "heading": "Pigiama canotta e short a righe con cuori",
@@ -139264,17 +140822,36 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è un pigiama da donna con canotta e short, a righe e con stampa di cuori, del marchio SHEIN. Il prezzo cambia in base al colore o alla taglia, e il 28/10 la scheda non mostrava un prezzo barrato."
         ],
-        "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-        "imageAlt": "Pigiama con canotta e short a righe con cuori, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "alt": "Pigiama con canotta e short a righe con cuori, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi il pigiama a righe su SHEIN",
             "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pigiama canotta e short a righe con cuori",
+              "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+              "howTo": "Canottiera e shorts per dormire; con una camicia aperta sopra diventa abbigliamento da casa.",
+              "occasion": "In casa, d'estate.",
+              "pairsWith": [
+                {
+                  "label": "camicia di cotone aperta"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pigiama 3 pezzi con stampa cartoon",
@@ -139286,17 +140863,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è un completo Dream Adore in 3 pezzi con stampa cartoon e short con fiocco in vita. È il prezzo più basso tra i pigiami della selezione."
         ],
-        "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-        "imageAlt": "Pigiama 3 pezzi con stampa cartoon e short con fiocco, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "alt": "Pigiama 3 pezzi con stampa cartoon e short con fiocco, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi il pigiama 3 pezzi su SHEIN",
             "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pigiama 3 pezzi con stampa cartoon",
+              "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+              "howTo": "Completo intero, con lo short con fiocco in vita, per dormire o stare in casa.",
+              "occasion": "In casa, tutti i giorni."
+            }
+          ]
+        }
       },
       {
         "heading": "Bambini",
@@ -139314,17 +140905,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è un completo da bambina con canotta stampata a cuore e pantalone palazzo, del marchio SHEIN. Va bene per chi cerca un look estivo completo per una bambina dai 4 ai 7 anni."
         ],
-        "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-        "imageAlt": "Completo da bambina con canotta a cuore e pantalone palazzo, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "alt": "Completo da bambina con canotta a cuore e pantalone palazzo, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi il completo da bambina su SHEIN",
             "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Completo da bambina con canotta a cuore e pantalone palazzo",
+              "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+              "howTo": "Canottiera e pantalone palazzo insieme, un look estivo pronto.",
+              "occasion": "Uscita estiva, per bambine dai 4 ai 7 anni.",
+              "pairsWith": [
+                {
+                  "label": "sandali piatti"
+                },
+                {
+                  "label": "cappello da sole"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pigiama da bambino con dinosauro fluorescente",
@@ -139336,17 +140949,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è un pigiama da bambino in 2 pezzi, con un dinosauro natalizio che si illumina al buio e vita elastica. Va bene per chi vuole già il pigiama delle feste di fine anno per un bambino dai 4 ai 7 anni."
         ],
-        "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-        "imageAlt": "Pigiama da bambino in 2 pezzi con dinosauro natalizio che si illumina al buio, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "alt": "Pigiama da bambino in 2 pezzi con dinosauro natalizio che si illumina al buio, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi il pigiama con dinosauro su SHEIN",
             "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pigiama da bambino con dinosauro fluorescente",
+              "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+              "howTo": "Pigiama in 2 pezzi; il dinosauro si illumina a luce spenta.",
+              "occasion": "Per la notte, bambini dai 4 ai 7 anni."
+            }
+          ]
+        }
       },
       {
         "heading": "Maglia da neonato con animali disegnati a gesso",
@@ -139358,17 +140985,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è una maglia da neonato maschio con animali disegnati a gesso, come tigre, orso e bradipo. È il capo per bambini più economico della selezione, per neonati dai 6 mesi ai 3 anni."
         ],
-        "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-        "imageAlt": "Maglia da neonato con animali disegnati a gesso, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "alt": "Maglia da neonato con animali disegnati a gesso, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi la maglia da neonato su SHEIN",
             "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Maglia da neonato con animali disegnati a gesso",
+              "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+              "howTo": "Maglia per tutti i giorni, con pantaloni o shorts in maglia.",
+              "occasion": "Tutti i giorni, per neonati dai 6 mesi ai 3 anni.",
+              "pairsWith": [
+                {
+                  "label": "pantaloni in maglia"
+                },
+                {
+                  "label": "shorts in maglia"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Pigiama da bambino a maniche lunghe, stampa assortita",
@@ -139380,17 +141029,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è un pigiama da bambino a maniche lunghe e pantalone lungo, con stampa su tutto il capo. La scheda vende 1 completo, e la stampa (dinosauro, scavatrice o aereo) la sceglie il negozio, non chi compra."
         ],
-        "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-        "imageAlt": "Pigiama da bambino a maniche lunghe con stampa di dinosauro, scavatrice o aereo, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "alt": "Pigiama da bambino a maniche lunghe con stampa di dinosauro, scavatrice o aereo, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi il pigiama a maniche lunghe su SHEIN",
             "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pigiama da bambino a maniche lunghe, stampa assortita",
+              "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+              "howTo": "Manica lunga e pantalone lungo, per notti più fresche.",
+              "occasion": "Notti fresche, dai 9 mesi ai 7 anni."
+            }
+          ]
+        }
       },
       {
         "heading": "Donna",
@@ -139408,17 +141071,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è un completo SHEIN Franclia con canotta e pantalone palazzo, a righe blu, che il negozio descrive per tutti i giorni, il lavoro e le vacanze. Va bene per chi vuole il look pronto in un completo solo."
         ],
-        "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-        "imageAlt": "Completo a righe blu con canotta e pantalone palazzo, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "alt": "Completo a righe blu con canotta e pantalone palazzo, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi il completo a righe su SHEIN",
             "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Completo a righe blu con canotta e pantalone palazzo",
+              "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+              "howTo": "Canottiera e pantalone palazzo insieme, look pronto; con il cardigan sopra, va dal caldo all'aria condizionata.",
+              "occasion": "Tutti i giorni, lavoro e vacanze, secondo il negozio.",
+              "pairsWith": [
+                {
+                  "label": "Cardigan sportivo slim DAZY",
+                  "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+                },
+                {
+                  "label": "sandali piatti"
+                },
+                {
+                  "label": "tracolla"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Cardigan sportivo slim DAZY",
@@ -139430,17 +141119,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è un cardigan sportivo a maniche lunghe e taglio slim, di DAZY, che il negozio descrive come una giacca leggera di mezza stagione. Va bene per chi cerca un terzo capo leggero per l'aria condizionata o la sera."
         ],
-        "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-        "imageAlt": "Cardigan sportivo slim a maniche lunghe, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "alt": "Cardigan sportivo slim a maniche lunghe, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi il cardigan su SHEIN",
             "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Cardigan sportivo slim DAZY",
+              "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+              "howTo": "Sopra una canottiera o una maglietta, come giacca leggera.",
+              "occasion": "Mezza stagione, aria condizionata e fine pomeriggio.",
+              "pairsWith": [
+                {
+                  "label": "Completo a righe blu con canotta e pantalone palazzo",
+                  "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+                },
+                {
+                  "label": "jeans"
+                },
+                {
+                  "label": "abito in maglia"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Short stampato con vita arricciata",
@@ -139452,17 +141167,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è uno short stampato con vita arricciata, della linea SHEIN Frenchy, che il negozio descrive in stile \"old money\" per l'estate e le vacanze. È il capo più economico della selezione e quello con lo sconto più alto nella scheda."
         ],
-        "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-        "imageAlt": "Short da donna stampato con vita arricciata, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "alt": "Short da donna stampato con vita arricciata, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi lo short stampato su SHEIN",
             "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Short stampato con vita arricciata",
+              "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+              "howTo": "Con una maglietta liscia, così la stampa si vede.",
+              "occasion": "Estate e vacanze.",
+              "pairsWith": [
+                {
+                  "label": "maglietta bianca"
+                },
+                {
+                  "label": "sandali piatti"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Jeans palazzo con vita elastica",
@@ -139474,17 +141211,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è un jeans palazzo Flexra, con vita elastica, che il negozio descrive come comodo e a gamba larga. È l'articolo più caro della selezione."
         ],
-        "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-        "imageAlt": "Jeans palazzo con vita elastica, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "alt": "Jeans palazzo con vita elastica, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi il jeans su SHEIN",
             "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Jeans palazzo con vita elastica",
+              "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+              "howTo": "Con décolleté o ballerine a punta, per bilanciare la gamba larga.",
+              "occasion": "Tutti i giorni e lavoro informale.",
+              "pairsWith": [
+                {
+                  "label": "Décolleté slingback bianche e caramello",
+                  "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+                },
+                {
+                  "label": "maglietta basic"
+                },
+                {
+                  "label": "cintura sottile"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Accessori",
@@ -139502,17 +141265,40 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, sono décolleté slingback in bianco e caramello, con tacco largo, che il negozio descrive come eleganti e moderne. Vanno bene per chi cerca una scarpa da lavoro o da festa con un tacco più stabile."
         ],
-        "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-        "imageAlt": "Décolleté slingback bianche e caramello con tacco largo, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "alt": "Décolleté slingback bianche e caramello con tacco largo, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi le décolleté su SHEIN",
             "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Décolleté slingback bianche e caramello",
+              "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+              "howTo": "Con pantaloni sartoriali, jeans o un abito; il tacco largo è più stabile, secondo il negozio.",
+              "occasion": "Lavoro e feste.",
+              "pairsWith": [
+                {
+                  "label": "Jeans palazzo con vita elastica",
+                  "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+                },
+                {
+                  "label": "pochette piccola"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Orecchini a fiocco con perla e cuore",
@@ -139524,17 +141310,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è un paio di orecchini a fiocco con perla e cuore, che il negozio consiglia per le feste. È l'articolo più economico della selezione e va bene come piccolo regalo o pensierino."
         ],
-        "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-        "imageAlt": "Paio di orecchini a fiocco con perla e cuore, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "alt": "Paio di orecchini a fiocco con perla e cuore, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi gli orecchini su SHEIN",
             "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Orecchini a fiocco con perla e cuore",
+              "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+              "howTo": "Con i capelli raccolti, perché si veda il fiocco.",
+              "occasion": "Festa, o come piccolo regalo."
+            }
+          ]
+        }
       },
       {
         "heading": "Set orologio verde con bracciale, collana e orecchini",
@@ -139546,17 +141346,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è un set da 9 pezzi con orologio verde, bracciale, collana e orecchini, che il negozio consiglia per tutti i giorni o come regalo. Va bene per chi vuole un completo di accessori in una volta sola, per circa 5 €."
         ],
-        "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-        "imageAlt": "Set da 9 pezzi con orologio verde, bracciale, collana e orecchini, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "alt": "Set da 9 pezzi con orologio verde, bracciale, collana e orecchini, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi il set con orologio su SHEIN",
             "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Set orologio verde con bracciale, collana e orecchini",
+              "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+              "howTo": "L'orologio da solo tutti i giorni; con la collana e gli orecchini del set, per un'uscita.",
+              "occasion": "Tutti i giorni, uscite o regalo."
+            }
+          ]
+        }
       },
       {
         "heading": "Occhiali poligonali con lenti sfumate",
@@ -139568,17 +141382,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, sono occhiali LINFEMAND con montatura poligonale e lenti sfumate, in 6 colori, che il negozio consiglia per guidare, la spiaggia e i viaggi. Lo sconto nella scheda è piccolo, del 4%."
         ],
-        "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-        "imageAlt": "Occhiali con montatura poligonale e lenti sfumate, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "alt": "Occhiali con montatura poligonale e lenti sfumate, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi gli occhiali su SHEIN",
             "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Occhiali poligonali con lenti sfumate",
+              "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+              "howTo": "Montatura in un tono che si abbini ai vestiti che usi di più.",
+              "occasion": "Guida, spiaggia e viaggi, secondo il negozio."
+            }
+          ]
+        }
       },
       {
         "heading": "Uomo",
@@ -139596,17 +141424,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è una T-shirt Henley a maniche corte, blu navy, con una trama che imita il lino, che il negozio descrive come casual e dalla vestibilità rilassata. Va bene per chi vuole una maglietta un po' più curata di quella basic."
         ],
-        "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-        "imageAlt": "T-shirt Henley da uomo blu navy effetto lino, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "alt": "T-shirt Henley da uomo blu navy effetto lino, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi la T-shirt Henley su SHEIN",
             "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "T-shirt Henley blu navy effetto lino",
+              "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+              "howTo": "Morbida, con jeans o bermuda, per un casual più curato.",
+              "occasion": "Tutti i giorni e weekend.",
+              "pairsWith": [
+                {
+                  "label": "Set di short in lino",
+                  "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+                },
+                {
+                  "label": "jeans"
+                },
+                {
+                  "label": "sneakers bianche"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Set di short in lino",
@@ -139618,17 +141472,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è un set di short in lino in colori assortiti, che il negozio descrive come casual e moderno. La scheda non dice quanti pezzi ci sono nel set: controlla prima di comprare."
         ],
-        "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-        "imageAlt": "Set di short da uomo in lino in colori assortiti, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 1,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "alt": "Set di short da uomo in lino in colori assortiti, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi il set di short su SHEIN",
             "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Set di short in lino",
+              "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+              "howTo": "Con una maglietta liscia o henley, per un casual estivo.",
+              "occasion": "Estate e vacanze.",
+              "pairsWith": [
+                {
+                  "label": "T-shirt Henley blu navy effetto lino",
+                  "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+                },
+                {
+                  "label": "canottiera bianca"
+                },
+                {
+                  "label": "sneakers basse"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Camicia da uomo a maniche lunghe Manfinity Mode",
@@ -139640,17 +141520,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è una camicia a maniche lunghe di Manfinity Mode, che il negozio descrive come versatile, per tutti i giorni e per le occasioni formali. Va bene per chi ha bisogno di una camicia più curata per il lavoro."
         ],
-        "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-        "imageAlt": "Camicia da uomo a maniche lunghe Manfinity Mode, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "alt": "Camicia da uomo a maniche lunghe Manfinity Mode, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi la camicia a maniche lunghe su SHEIN",
             "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Camicia da uomo a maniche lunghe Manfinity Mode",
+              "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+              "howTo": "Aperta sopra una maglietta, o infilata nei pantaloni sartoriali.",
+              "occasion": "Lavoro e occasioni formali, secondo il negozio.",
+              "pairsWith": [
+                {
+                  "label": "pantaloni sartoriali"
+                },
+                {
+                  "label": "jeans dritti"
+                },
+                {
+                  "label": "maglietta bianca"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Canotta nera effetto lavato dalla vestibilità ampia",
@@ -139662,17 +141567,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la scheda, è una canotta nera effetto lavato dalla vestibilità ampia, che il negozio descrive come streetwear estivo. Va bene per chi cerca una canotta da strada, non da allenamento."
         ],
-        "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-        "imageAlt": "Canotta da uomo nera effetto lavato dalla vestibilità ampia, foto della scheda SHEIN",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "alt": "Canotta da uomo nera effetto lavato dalla vestibilità ampia, foto della scheda SHEIN",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+        },
         "links": [
           {
             "label": "Vedi la canotta su SHEIN",
             "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Canotta nera effetto lavato dalla vestibilità ampia",
+              "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+              "howTo": "Con bermuda o pantaloncini in felpa, per un look da strada.",
+              "occasion": "Estate e strada; non è un capo da allenamento.",
+              "pairsWith": [
+                {
+                  "label": "bermuda in nylon"
+                },
+                {
+                  "label": "sneakers bianche"
+                },
+                {
+                  "label": "cappellino"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Prima di comprare",
@@ -139896,17 +141826,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein Pyjama-Set mit Blumenmuster, Tasche und Kontrastpaspel aus der Linie Serenescape. Es passt für alle, die einen leichten Sommerpyjama aus Shirt und Shorts suchen."
         ],
-        "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-        "imageAlt": "Blumenpyjama Serenescape mit Kontrastpaspel, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "alt": "Blumenpyjama Serenescape mit Kontrastpaspel, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+        },
         "links": [
           {
             "label": "Blumenpyjama bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Blumenpyjama Serenescape",
+              "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+              "howTo": "Shirt und Shorts zum Schlafen oder für zu Hause bei Hitze.",
+              "occasion": "Warme Sommernächte."
+            }
+          ]
+        }
       },
       {
         "heading": "Pyjama mit Top und Shorts, gestreift mit Herzen",
@@ -139918,17 +141862,36 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein Damenpyjama aus Top und Shorts, gestreift und mit Herzmuster, von der Eigenmarke SHEIN. Der Preis hängt von Farbe oder Größe ab, und am 28.10. zeigte die Produktseite keinen Streichpreis."
         ],
-        "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-        "imageAlt": "Pyjama mit Top und Shorts, gestreift mit Herzen, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "alt": "Pyjama mit Top und Shorts, gestreift mit Herzen, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+        },
         "links": [
           {
             "label": "Gestreiften Pyjama bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Pyjama mit Top und Shorts, gestreift mit Herzen",
+              "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+              "howTo": "Top und Shorts zum Schlafen; mit einem offenen Hemd darüber wird es zur Hauskleidung.",
+              "occasion": "Zu Hause, im Sommer.",
+              "pairsWith": [
+                {
+                  "label": "offenes Baumwollhemd"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "3-teiliger Pyjama mit Cartoon-Print",
@@ -139940,17 +141903,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein 3-teiliges Set von Dream Adore mit Cartoon-Print und Shorts mit Schleife am Bund. Es ist der günstigste Pyjama der Auswahl."
         ],
-        "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-        "imageAlt": "3-teiliger Pyjama mit Cartoon-Print und Shorts mit Schleife, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "alt": "3-teiliger Pyjama mit Cartoon-Print und Shorts mit Schleife, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+        },
         "links": [
           {
             "label": "3-teiligen Pyjama bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "3-teiliger Pyjama mit Cartoon-Print",
+              "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+              "howTo": "Komplettes Set mit der Schleifen-Short an der Taille, zum Schlafen oder für zu Hause.",
+              "occasion": "Zu Hause, im Alltag."
+            }
+          ]
+        }
       },
       {
         "heading": "Kinder",
@@ -139968,17 +141945,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein Mädchenset aus Top mit Herz-Print und weiter Hose, von der Eigenmarke SHEIN. Es passt für alle, die ein komplettes Sommer-Outfit für ein Mädchen von 4 bis 7 Jahren suchen."
         ],
-        "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-        "imageAlt": "Mädchenset mit Herz-Top und weiter Hose, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "alt": "Mädchenset mit Herz-Top und weiter Hose, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+        },
         "links": [
           {
             "label": "Mädchenset bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Mädchenset mit Herz-Top und weiter Hose",
+              "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+              "howTo": "Top und weite Hose zusammen, ein fertiger Sommerlook.",
+              "occasion": "Sommerausflug, für Mädchen von 4 bis 7 Jahren.",
+              "pairsWith": [
+                {
+                  "label": "flache Sandalen"
+                },
+                {
+                  "label": "Sonnenhut"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Jungenpyjama mit Dinosaurier, der im Dunkeln leuchtet",
@@ -139990,17 +141989,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein 2-teiliger Jungenpyjama mit Weihnachtsdinosaurier, der im Dunkeln leuchtet, und elastischem Bund. Er passt für alle, die den Pyjama für die Feiertage schon jetzt für einen Jungen von 4 bis 7 Jahren kaufen wollen."
         ],
-        "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-        "imageAlt": "2-teiliger Kinderpyjama mit Weihnachtsdinosaurier, der im Dunkeln leuchtet, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "alt": "2-teiliger Kinderpyjama mit Weihnachtsdinosaurier, der im Dunkeln leuchtet, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+        },
         "links": [
           {
             "label": "Dinosaurier-Pyjama bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Jungenpyjama mit Dinosaurier, der im Dunkeln leuchtet",
+              "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+              "howTo": "Zweiteiliger Schlafanzug; der Dino leuchtet, sobald das Licht aus ist.",
+              "occasion": "Zum Schlafen, für Jungen von 4 bis 7 Jahren."
+            }
+          ]
+        }
       },
       {
         "heading": "Babyshirt mit Tieren in Kreideoptik",
@@ -140012,17 +142025,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein Shirt für Baby-Jungen mit Tieren in Kreideoptik, etwa Tiger, Bär und Faultier. Es ist das günstigste Kinderteil der Auswahl, für Babys von 6 Monaten bis 3 Jahren."
         ],
-        "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-        "imageAlt": "Babyshirt mit Tieren in Kreideoptik, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "alt": "Babyshirt mit Tieren in Kreideoptik, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+        },
         "links": [
           {
             "label": "Babyshirt bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Babyshirt mit Tieren in Kreideoptik",
+              "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+              "howTo": "Shirt für den Alltag, mit Hose oder Strick-Shorts.",
+              "occasion": "Alltag, für Babys von 6 Monaten bis 3 Jahren.",
+              "pairsWith": [
+                {
+                  "label": "Strickhose"
+                },
+                {
+                  "label": "Strick-Shorts"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Langarm-Jungenpyjama, Print nach Zufall",
@@ -140034,17 +142069,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein Jungenpyjama mit langen Ärmeln und langer Hose, durchgehend bedruckt. Verkauft wird 1 Set, und den Print (Dinosaurier, Bagger oder Flugzeug) wählt der Shop aus, nicht die Käuferin oder der Käufer."
         ],
-        "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-        "imageAlt": "Langarm-Kinderpyjama mit Dinosaurier-, Bagger- oder Flugzeug-Print, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "alt": "Langarm-Kinderpyjama mit Dinosaurier-, Bagger- oder Flugzeug-Print, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+        },
         "links": [
           {
             "label": "Langarm-Pyjama bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Langarm-Jungenpyjama, Print nach Zufall",
+              "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+              "howTo": "Langarm und lange Hose, für kühlere Nächte.",
+              "occasion": "Kühle Nächte, von 9 Monaten bis 7 Jahren."
+            }
+          ]
+        }
       },
       {
         "heading": "Damen",
@@ -140062,17 +142111,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein Set von SHEIN Franclia aus Top und weiter Hose, blau gestreift, das der Shop für Alltag, Büro und Urlaub beschreibt. Es passt für alle, die den fertigen Look in einem Set wollen."
         ],
-        "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-        "imageAlt": "Blau gestreiftes Set mit Top und weiter Hose, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "alt": "Blau gestreiftes Set mit Top und weiter Hose, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+        },
         "links": [
           {
             "label": "Gestreiftes Set bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Blau gestreiftes Set mit Top und weiter Hose",
+              "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+              "howTo": "Top und weite Hose zusammen als fertiger Look; mit Cardigan darüber geht es von der Hitze bis zur Klimaanlage.",
+              "occasion": "Alltag, Arbeit und Urlaub, laut Shop.",
+              "pairsWith": [
+                {
+                  "label": "Sportlicher Slim-Cardigan DAZY",
+                  "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+                },
+                {
+                  "label": "flache Sandalen"
+                },
+                {
+                  "label": "Umhängetasche"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Sportlicher Slim-Cardigan DAZY",
@@ -140084,17 +142159,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein sportlicher Cardigan mit langen Ärmeln und schmalem Schnitt von DAZY, den der Shop als dünne Jacke für die Übergangszeit beschreibt. Er passt für alle, die ein leichtes drittes Teil für die Klimaanlage oder den Abend suchen."
         ],
-        "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-        "imageAlt": "Sportlicher Slim-Cardigan mit langen Ärmeln, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "alt": "Sportlicher Slim-Cardigan mit langen Ärmeln, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+        },
         "links": [
           {
             "label": "Cardigan bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Sportlicher Slim-Cardigan DAZY",
+              "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+              "howTo": "Über einem Top oder T-Shirt, als dünne Jacke.",
+              "occasion": "Übergangszeit, Klimaanlage und später Nachmittag.",
+              "pairsWith": [
+                {
+                  "label": "Blau gestreiftes Set mit Top und weiter Hose",
+                  "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+                },
+                {
+                  "label": "Jeans"
+                },
+                {
+                  "label": "Strickkleid"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Gemusterte Paperbag-Shorts",
@@ -140106,17 +142207,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es eine gemusterte Shorts mit Paperbag-Bund aus der Linie SHEIN Frenchy, die der Shop im „Old Money“-Stil für Sommer und Urlaub beschreibt. Sie ist das günstigste Kleidungsstück der Auswahl und das mit dem höchsten Rabatt auf der Produktseite."
         ],
-        "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-        "imageAlt": "Gemusterte Damen-Shorts mit Paperbag-Bund, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "alt": "Gemusterte Damen-Shorts mit Paperbag-Bund, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+        },
         "links": [
           {
             "label": "Gemusterte Shorts bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Gemusterte Paperbag-Shorts",
+              "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+              "howTo": "Mit einem schlichten T-Shirt, damit der Print zur Geltung kommt.",
+              "occasion": "Sommer und Urlaub.",
+              "pairsWith": [
+                {
+                  "label": "weißes T-Shirt"
+                },
+                {
+                  "label": "flache Sandalen"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Weite Jeans mit elastischem Bund",
@@ -140128,17 +142251,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es eine weite Jeans von Flexra mit elastischem Bund, die der Shop als bequem und weit geschnitten beschreibt. Sie ist das teuerste Teil der Auswahl."
         ],
-        "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-        "imageAlt": "Weite Jeans mit elastischem Bund, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "alt": "Weite Jeans mit elastischem Bund, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+        },
         "links": [
           {
             "label": "Jeans bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Weite Jeans mit elastischem Bund",
+              "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+              "howTo": "Mit Pumps oder spitzen Ballerinas, um das weite Bein auszugleichen.",
+              "occasion": "Alltag und ungezwungene Arbeit.",
+              "pairsWith": [
+                {
+                  "label": "Slingback-Pumps in Weiß und Karamell",
+                  "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+                },
+                {
+                  "label": "Basic-T-Shirt"
+                },
+                {
+                  "label": "schmaler Gürtel"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Accessoires",
@@ -140156,17 +142305,40 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite sind es Slingback-Pumps in Weiß und Karamell mit Blockabsatz, die der Shop als elegant und modern beschreibt. Sie passen für alle, die einen Schuh für Büro oder Feier mit standfesterem Absatz suchen."
         ],
-        "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-        "imageAlt": "Slingback-Pumps in Weiß und Karamell mit Blockabsatz, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "alt": "Slingback-Pumps in Weiß und Karamell mit Blockabsatz, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+        },
         "links": [
           {
             "label": "Pumps bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Slingback-Pumps in Weiß und Karamell",
+              "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+              "howTo": "Mit Anzughose, Jeans oder Kleid; der Blockabsatz ist stabiler, laut Shop.",
+              "occasion": "Arbeit und Feiern.",
+              "pairsWith": [
+                {
+                  "label": "Weite Jeans mit elastischem Bund",
+                  "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+                },
+                {
+                  "label": "kleine Handtasche"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Schleifen-Ohrringe mit Perle und Herz",
@@ -140178,17 +142350,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein Paar Schleifen-Ohrringe mit Perle und Herz, das der Shop für Feiern empfiehlt. Es ist das günstigste Teil der Auswahl und taugt als kleine Aufmerksamkeit oder kleines Geschenk."
         ],
-        "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-        "imageAlt": "Paar Schleifen-Ohrringe mit Perle und Herz, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "alt": "Paar Schleifen-Ohrringe mit Perle und Herz, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+        },
         "links": [
           {
             "label": "Ohrringe bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Schleifen-Ohrringe mit Perle und Herz",
+              "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+              "howTo": "Mit hochgesteckten Haaren, damit die Schleife zu sehen ist.",
+              "occasion": "Party oder als kleines Geschenk."
+            }
+          ]
+        }
       },
       {
         "heading": "Set mit grüner Uhr, Armband, Kette und Ohrringen",
@@ -140200,17 +142386,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein 9-teiliges Set mit grüner Uhr, Armband, Kette und Ohrringen, das der Shop für den Alltag oder als Geschenk empfiehlt. Es passt für alle, die ein ganzes Schmuckset auf einmal für etwa 5 € haben wollen."
         ],
-        "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-        "imageAlt": "9-teiliges Set mit grüner Uhr, Armband, Kette und Ohrringen, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "alt": "9-teiliges Set mit grüner Uhr, Armband, Kette und Ohrringen, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+        },
         "links": [
           {
             "label": "Uhren-Set bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Set mit grüner Uhr, Armband, Kette und Ohrringen",
+              "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+              "howTo": "Die Uhr allein im Alltag; mit Kette und Ohrringen aus dem Set für einen Ausgang.",
+              "occasion": "Alltag, Ausgehen oder als Geschenk."
+            }
+          ]
+        }
       },
       {
         "heading": "Polygonale Brille mit Verlaufsgläsern",
@@ -140222,17 +142422,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es eine Brille von LINFEMAND mit polygonaler Fassung und Verlaufsgläsern in 6 Farben, die der Shop fürs Autofahren, den Strand und Reisen empfiehlt. Der Rabatt auf der Produktseite ist klein, 4 %."
         ],
-        "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-        "imageAlt": "Brille mit polygonaler Fassung und Verlaufsgläsern, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "alt": "Brille mit polygonaler Fassung und Verlaufsgläsern, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+        },
         "links": [
           {
             "label": "Brille bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Polygonale Brille mit Verlaufsgläsern",
+              "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+              "howTo": "Fassung in einem Ton, der zu Ihrer meistgetragenen Kleidung passt.",
+              "occasion": "Autofahren, Strand und Reisen, laut Shop."
+            }
+          ]
+        }
       },
       {
         "heading": "Herren",
@@ -140250,17 +142464,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein kurzärmeliges Henley-Shirt in Marineblau mit einer Struktur, die an Leinen erinnert, das der Shop als lässig und locker geschnitten beschreibt. Es passt für alle, die ein etwas gepflegteres Shirt als das Basic wollen."
         ],
-        "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-        "imageAlt": "Henley-Herrenshirt in Marineblau mit Leinenoptik, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "alt": "Henley-Herrenshirt in Marineblau mit Leinenoptik, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+        },
         "links": [
           {
             "label": "Henley-Shirt bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Henley-Shirt in Marineblau mit Leinenoptik",
+              "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+              "howTo": "Locker, mit Jeans oder Bermudas, für einen gepflegteren Casual-Look.",
+              "occasion": "Alltag und Wochenende.",
+              "pairsWith": [
+                {
+                  "label": "Leinen-Shorts im Set",
+                  "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+                },
+                {
+                  "label": "Jeans"
+                },
+                {
+                  "label": "weiße Sneaker"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Leinen-Shorts im Set",
@@ -140272,17 +142512,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein Set Leinen-Shorts in verschiedenen Farben, das der Shop als lässig und modern beschreibt. Die Produktseite sagt nicht, wie viele Shorts im Set sind: vor dem Kauf prüfen."
         ],
-        "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-        "imageAlt": "Leinen-Herrenshorts im Set in verschiedenen Farben, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 1,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "alt": "Leinen-Herrenshorts im Set in verschiedenen Farben, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+        },
         "links": [
           {
             "label": "Shorts-Set bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Leinen-Shorts im Set",
+              "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+              "howTo": "Mit einem schlichten T-Shirt oder Henley, für einen Sommer-Casual-Look.",
+              "occasion": "Sommer und Urlaub.",
+              "pairsWith": [
+                {
+                  "label": "Henley-Shirt in Marineblau mit Leinenoptik",
+                  "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+                },
+                {
+                  "label": "weißes Top"
+                },
+                {
+                  "label": "niedrige Sneaker"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Langarm-Herrenhemd Manfinity Mode",
@@ -140294,17 +142560,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein Langarmhemd von Manfinity Mode, das der Shop als vielseitig beschreibt, für den Alltag und für formelle Anlässe. Es passt für alle, die ein gepflegteres Hemd fürs Büro brauchen."
         ],
-        "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-        "imageAlt": "Langarm-Herrenhemd Manfinity Mode, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "alt": "Langarm-Herrenhemd Manfinity Mode, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+        },
         "links": [
           {
             "label": "Langarmhemd bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Langarm-Herrenhemd Manfinity Mode",
+              "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+              "howTo": "Offen über einem T-Shirt oder in die Anzughose gesteckt.",
+              "occasion": "Arbeit und formelle Anlässe, laut Shop.",
+              "pairsWith": [
+                {
+                  "label": "Anzughose"
+                },
+                {
+                  "label": "gerade Jeans"
+                },
+                {
+                  "label": "weißes T-Shirt"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Schwarzes Tanktop in Washed-Optik, locker geschnitten",
@@ -140316,17 +142607,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Laut Produktseite ist es ein schwarzes, locker geschnittenes Tanktop in Washed-Optik, das der Shop als Sommer-Streetwear beschreibt. Es passt für alle, die ein Tanktop für die Straße suchen, nicht fürs Training."
         ],
-        "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-        "imageAlt": "Schwarzes Herren-Tanktop in Washed-Optik, locker geschnitten, Foto der SHEIN-Produktseite",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "alt": "Schwarzes Herren-Tanktop in Washed-Optik, locker geschnitten, Foto der SHEIN-Produktseite",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+        },
         "links": [
           {
             "label": "Tanktop bei SHEIN ansehen",
             "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Schwarzes Tanktop in Washed-Optik, locker geschnitten",
+              "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+              "howTo": "Mit Bermudas oder Sweatshorts, für einen Streetlook.",
+              "occasion": "Sommer und Straße; keine Sportkleidung.",
+              "pairsWith": [
+                {
+                  "label": "Nylon-Bermudas"
+                },
+                {
+                  "label": "weiße Sneaker"
+                },
+                {
+                  "label": "Cap"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Vor dem Kauf",
@@ -140550,17 +142866,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、Serenescape ラインの花柄パジャマセットで、ポケットと配色パイピングつきです。トップスとショートパンツの軽い夏用パジャマを探している人向けです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-        "imageAlt": "配色パイピングの Serenescape 花柄パジャマ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "alt": "配色パイピングの Serenescape 花柄パジャマ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN で花柄パジャマを見る",
             "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Serenescape の花柄パジャマ",
+              "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+              "howTo": "暑い日に寝るときや家で過ごすときのトップスとショートパンツ。",
+              "occasion": "暑い夏の夜。"
+            }
+          ]
+        }
       },
       {
         "heading": "ハート柄ストライプのタンクトップ＆ショートパンツのパジャマ",
@@ -140572,17 +142902,36 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、SHEIN 自社ブランドのレディースパジャマで、タンクトップとショートパンツ、ストライプにハート柄です。価格は色やサイズで変わり、10月28日の商品ページには取り消し線の価格がありませんでした。"
         ],
-        "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-        "imageAlt": "ハート柄ストライプのタンクトップとショートパンツのパジャマ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "alt": "ハート柄ストライプのタンクトップとショートパンツのパジャマ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN でストライプのパジャマを見る",
             "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "ハート柄ストライプのタンクトップ＆ショートパンツのパジャマ",
+              "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+              "howTo": "寝るときのタンクトップとショートパンツ。上から開襟シャツを羽織れば家着になります。",
+              "occasion": "夏、家で。",
+              "pairsWith": [
+                {
+                  "label": "前開きのコットンシャツ"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "カートゥーン柄の3点セットパジャマ",
@@ -140594,17 +142943,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、Dream Adore のカートゥーン柄3点セットで、ショートパンツのウエストにリボンがついています。セレクションのパジャマの中でいちばん安い一着です。"
         ],
-        "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-        "imageAlt": "カートゥーン柄とリボンつきショートパンツの3点セットパジャマ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "alt": "カートゥーン柄とリボンつきショートパンツの3点セットパジャマ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN で3点セットパジャマを見る",
             "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "カートゥーン柄の3点セットパジャマ",
+              "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+              "howTo": "ウエストにリボンのあるショートパンツ付きのセット。寝るときや家で過ごすときに。",
+              "occasion": "家で普段使い。"
+            }
+          ]
+        }
       },
       {
         "heading": "キッズ",
@@ -140622,17 +142985,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、SHEIN 自社ブランドの女の子用セットアップで、ハート柄タンクトップとワイドパンツの組み合わせです。4〜7歳の女の子に、夏のコーディネートを一式そろえたい人向けです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-        "imageAlt": "ハート柄タンクトップとワイドパンツのキッズセットアップ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "alt": "ハート柄タンクトップとワイドパンツのキッズセットアップ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN で女の子のセットアップを見る",
             "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "ハート柄タンクトップとワイドパンツの女の子セットアップ",
+              "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+              "howTo": "タンクトップとワイドパンツを合わせた、そのまま着られる夏のスタイル。",
+              "occasion": "夏のお出かけ、4〜7歳の女の子に。",
+              "pairsWith": [
+                {
+                  "label": "フラットサンダル"
+                },
+                {
+                  "label": "つば広の帽子"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "暗闇で光る恐竜の男の子パジャマ",
@@ -140644,17 +143029,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、男の子用の2点セットパジャマで、暗闇で光るクリスマスの恐竜柄、ウエストはゴムです。4〜7歳の男の子に、年末のパジャマを早めに用意したい人向けです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-        "imageAlt": "暗闇で光るクリスマスの恐竜柄のキッズ2点セットパジャマ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "alt": "暗闇で光るクリスマスの恐竜柄のキッズ2点セットパジャマ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN で恐竜のパジャマを見る",
             "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "暗闇で光る恐竜の男の子パジャマ",
+              "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+              "howTo": "2ピースのパジャマ。電気を消すと恐竜が光ります。",
+              "occasion": "寝るときに、4〜7歳の男の子に。"
+            }
+          ]
+        }
       },
       {
         "heading": "チョーク画の動物柄ベビーTシャツ",
@@ -140666,17 +143065,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、男の子のベビー用Tシャツで、トラ、クマ、ナマケモノなどがチョーク画のタッチで描かれています。セレクションのキッズアイテムでいちばん安く、生後6か月から3歳向けです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-        "imageAlt": "チョーク画の動物柄ベビーTシャツ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "alt": "チョーク画の動物柄ベビーTシャツ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN でベビーTシャツを見る",
             "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "チョーク画の動物柄ベビーTシャツ",
+              "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+              "howTo": "普段使いのTシャツ。パンツやニットのショートパンツと合わせて。",
+              "occasion": "普段使い、6か月〜3歳の赤ちゃんに。",
+              "pairsWith": [
+                {
+                  "label": "ニットパンツ"
+                },
+                {
+                  "label": "ニットのショートパンツ"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "長袖の男の子パジャマ、柄はおまかせ",
@@ -140688,17 +143109,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、男の子用の長袖・長ズボンのパジャマで、全体に柄が入っています。販売されるのは1セットで、柄（恐竜、ショベルカー、飛行機）は買う人ではなくショップが選びます。"
         ],
-        "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-        "imageAlt": "恐竜、ショベルカー、飛行機のいずれかの柄のキッズ長袖パジャマ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "alt": "恐竜、ショベルカー、飛行機のいずれかの柄のキッズ長袖パジャマ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN で長袖パジャマを見る",
             "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "長袖の男の子パジャマ、柄はおまかせ",
+              "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+              "howTo": "長袖と長ズボンで、涼しい夜にぴったり。",
+              "occasion": "涼しい夜に、9か月〜7歳。"
+            }
+          ]
+        }
       },
       {
         "heading": "レディース",
@@ -140716,17 +143151,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、SHEIN Franclia のタンクトップとワイドパンツのセットアップで、青いストライプ柄。ショップは普段使い、仕事、休暇向けとしています。一式でコーディネートを済ませたい人向けです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-        "imageAlt": "青いストライプのタンクトップとワイドパンツのセットアップ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "alt": "青いストライプのタンクトップとワイドパンツのセットアップ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN でストライプのセットアップを見る",
             "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "青いストライプのタンクトップとワイドパンツのセットアップ",
+              "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+              "howTo": "タンクトップとワイドパンツを合わせれば、そのまま完成するスタイル。カーディガンを羽織れば、暑い外からエアコンの効いた室内まで対応できます。",
+              "occasion": "普段の日、仕事、休暇に。店舗の説明による。",
+              "pairsWith": [
+                {
+                  "label": "DAZY のスリムなスポーツカーディガン",
+                  "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+                },
+                {
+                  "label": "フラットサンダル"
+                },
+                {
+                  "label": "斜めがけバッグ"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "DAZY のスリムなスポーツカーディガン",
@@ -140738,17 +143199,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、DAZY の長袖スリムフィットのスポーツカーディガンで、ショップは季節の変わり目の薄手ジャケットとしています。冷房対策や夕方用に軽い羽織りを探している人向けです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-        "imageAlt": "長袖のスリムなスポーツカーディガン、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "alt": "長袖のスリムなスポーツカーディガン、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN でカーディガンを見る",
             "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "DAZY のスリムなスポーツカーディガン",
+              "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+              "howTo": "タンクトップやTシャツの上に羽織れば、薄手のジャケットとして使えます。",
+              "occasion": "季節の変わり目、エアコン、夕方。",
+              "pairsWith": [
+                {
+                  "label": "青いストライプのタンクトップとワイドパンツのセットアップ",
+                  "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+                },
+                {
+                  "label": "ジーンズ"
+                },
+                {
+                  "label": "ニットワンピース"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "ペーパーバッグウエストの柄ショートパンツ",
@@ -140760,17 +143247,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、SHEIN Frenchy ラインのペーパーバッグウエストの柄ショートパンツで、ショップは夏と休暇向けの「オールドマネー」スタイルとしています。セレクションの衣類でいちばん安く、商品ページの割引率も最大です。"
         ],
-        "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-        "imageAlt": "ペーパーバッグウエストのレディース柄ショートパンツ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "alt": "ペーパーバッグウエストのレディース柄ショートパンツ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN で柄ショートパンツを見る",
             "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "ペーパーバッグウエストの柄ショートパンツ",
+              "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+              "howTo": "柄が映えるように、無地のTシャツと合わせて。",
+              "occasion": "夏と休暇。",
+              "pairsWith": [
+                {
+                  "label": "白いTシャツ"
+                },
+                {
+                  "label": "フラットサンダル"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "ウエストゴムのワイドジーンズ",
@@ -140782,17 +143291,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、Flexra のウエストゴムのワイドジーンズで、ショップは楽に穿けるワイドレッグとしています。セレクションでいちばん高いアイテムです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-        "imageAlt": "ウエストゴムのワイドジーンズ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "alt": "ウエストゴムのワイドジーンズ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN でジーンズを見る",
             "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "ウエストゴムのワイドジーンズ",
+              "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+              "howTo": "幅広の脚とバランスを取るなら、パンプスや先のとがったフラットシューズと合わせて。",
+              "occasion": "普段使い、堅苦しくない仕事に。",
+              "pairsWith": [
+                {
+                  "label": "白とキャラメルのスリングバックパンプス",
+                  "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+                },
+                {
+                  "label": "ベーシックなTシャツ"
+                },
+                {
+                  "label": "細いベルト"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "アクセサリー",
@@ -140810,17 +143345,40 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、白とキャラメル色のスリングバックパンプスで、チャンキーヒール。ショップはエレガントでモダンとしています。仕事やパーティーに、安定感のあるヒールの靴を探している人向けです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-        "imageAlt": "チャンキーヒールの白とキャラメルのスリングバックパンプス、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "alt": "チャンキーヒールの白とキャラメルのスリングバックパンプス、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN でパンプスを見る",
             "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "白とキャラメルのスリングバックパンプス",
+              "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+              "howTo": "テーラードパンツ、ジーンズ、ワンピースと合わせて。ブロックヒールは安定感があると店舗の説明にあります。",
+              "occasion": "仕事とパーティー。",
+              "pairsWith": [
+                {
+                  "label": "ウエストゴムのワイドジーンズ",
+                  "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+                },
+                {
+                  "label": "小さなクラッチバッグ"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "パールとハートのリボンピアス",
@@ -140832,17 +143390,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、パールとハートのついたリボンピアスで、ショップはパーティー向けとしています。セレクションでいちばん安いアイテムで、ちょっとしたご褒美や小さなプレゼントになります。"
         ],
-        "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-        "imageAlt": "パールとハートのリボンピアス、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "alt": "パールとハートのリボンピアス、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN でピアスを見る",
             "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "パールとハートのリボンピアス",
+              "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+              "howTo": "リボンが見えるように、髪をまとめて。",
+              "occasion": "パーティーや小さなプレゼントに。"
+            }
+          ]
+        }
       },
       {
         "heading": "グリーンの腕時計とブレスレット・ネックレス・ピアスのセット",
@@ -140854,17 +143426,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、グリーンの腕時計、ブレスレット、ネックレス、ピアスの9点セットで、ショップは普段使いやプレゼント向けとしています。約810円でアクセサリーを一式そろえたい人向けです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-        "imageAlt": "グリーンの腕時計、ブレスレット、ネックレス、ピアスの9点セット、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "alt": "グリーンの腕時計、ブレスレット、ネックレス、ピアスの9点セット、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN で腕時計セットを見る",
             "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "グリーンの腕時計とブレスレット・ネックレス・ピアスのセット",
+              "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+              "howTo": "普段は時計だけ、お出かけにはセットのネックレスとピアスを合わせて。",
+              "occasion": "普段使い、お出かけやプレゼントに。"
+            }
+          ]
+        }
       },
       {
         "heading": "多角形フレームのグラデーションレンズのサングラス",
@@ -140876,17 +143462,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、LINFEMAND の多角形フレームにグラデーションレンズのサングラスで、6色展開。ショップは運転、ビーチ、旅行向けとしています。商品ページの割引は4%と小さめです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-        "imageAlt": "多角形フレームとグラデーションレンズのサングラス、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "alt": "多角形フレームとグラデーションレンズのサングラス、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN でサングラスを見る",
             "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "多角形フレームのグラデーションレンズのサングラス",
+              "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+              "howTo": "よく着る服に合わせやすい色味のフレーム。",
+              "occasion": "ドライブ、ビーチ、旅行に。店舗の説明による。"
+            }
+          ]
+        }
       },
       {
         "heading": "メンズ",
@@ -140904,17 +143504,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、リネンに似た質感のネイビーの半袖ヘンリーネックTシャツで、ショップはカジュアルでリラックスしたフィットとしています。ベーシックより少しきちんと見えるTシャツが欲しい人向けです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-        "imageAlt": "リネン風のネイビーのメンズヘンリーネックTシャツ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "alt": "リネン風のネイビーのメンズヘンリーネックTシャツ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN でヘンリーネックTシャツを見る",
             "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "リネン風のネイビーのヘンリーネックTシャツ",
+              "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+              "howTo": "ゆったり着て、ジーンズやバミューダと合わせると、きちんと感のあるカジュアルに。",
+              "occasion": "普段使いと週末。",
+              "pairsWith": [
+                {
+                  "label": "リネンのショートパンツセット",
+                  "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+                },
+                {
+                  "label": "ジーンズ"
+                },
+                {
+                  "label": "白いスニーカー"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "リネンのショートパンツセット",
@@ -140926,17 +143552,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、色違いのリネンのショートパンツセットで、ショップはカジュアルでモダンとしています。セットに何枚入っているかは商品ページに書かれていないので、買う前に確認してください。"
         ],
-        "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-        "imageAlt": "色違いのメンズリネンショートパンツセット、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 1,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "alt": "色違いのメンズリネンショートパンツセット、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN でショートパンツセットを見る",
             "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "リネンのショートパンツセット",
+              "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+              "howTo": "無地のTシャツやヘンリーネックと合わせると、夏のカジュアルに。",
+              "occasion": "夏と休暇。",
+              "pairsWith": [
+                {
+                  "label": "リネン風のネイビーのヘンリーネックTシャツ",
+                  "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+                },
+                {
+                  "label": "白いタンクトップ"
+                },
+                {
+                  "label": "ローカットのスニーカー"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Manfinity Mode の長袖メンズシャツ",
@@ -140948,17 +143600,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、Manfinity Mode の長袖シャツで、ショップは普段使いからフォーマルな場面まで使える万能なシャツとしています。仕事用に少しきちんとしたシャツが必要な人向けです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-        "imageAlt": "Manfinity Mode の長袖メンズシャツ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "alt": "Manfinity Mode の長袖メンズシャツ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN で長袖シャツを見る",
             "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Manfinity Mode の長袖メンズシャツ",
+              "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+              "howTo": "Tシャツの上に開けて羽織るか、テーラードパンツにインして。",
+              "occasion": "仕事とフォーマルな場面に。店舗の説明による。",
+              "pairsWith": [
+                {
+                  "label": "テーラードパンツ"
+                },
+                {
+                  "label": "ストレートジーンズ"
+                },
+                {
+                  "label": "白いTシャツ"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "ウォッシュ加工のゆったりした黒タンクトップ",
@@ -140970,17 +143647,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品ページによると、ウォッシュ加工のゆったりした黒のタンクトップで、ショップは夏のストリートウェアとしています。トレーニング用ではなく、街で着るタンクトップが欲しい人向けです。"
         ],
-        "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-        "imageAlt": "ウォッシュ加工のゆったりしたメンズ黒タンクトップ、SHEIN の商品ページの写真",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "alt": "ウォッシュ加工のゆったりしたメンズ黒タンクトップ、SHEIN の商品ページの写真",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN でタンクトップを見る",
             "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "ウォッシュ加工のゆったりした黒タンクトップ",
+              "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+              "howTo": "バミューダやスウェットのショートパンツと合わせると、ストリートスタイルに。",
+              "occasion": "夏と街歩きに。トレーニング用ではありません。",
+              "pairsWith": [
+                {
+                  "label": "ナイロンのバミューダ"
+                },
+                {
+                  "label": "白いスニーカー"
+                },
+                {
+                  "label": "キャップ"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "買う前に",
@@ -141204,17 +143906,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 Serenescape 라인의 꽃무늬 잠옷 세트로, 주머니와 대비색 파이핑이 있습니다. 상의와 쇼츠로 된 가벼운 여름 잠옷을 찾는 분께 맞습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-        "imageAlt": "대비색 파이핑이 있는 Serenescape 꽃무늬 잠옷, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "alt": "대비색 파이핑이 있는 Serenescape 꽃무늬 잠옷, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 꽃무늬 잠옷 보기",
             "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Serenescape 꽃무늬 잠옷",
+              "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+              "howTo": "더울 때 잠잘 때나 집에서 입는 상의와 반바지.",
+              "occasion": "더운 여름밤."
+            }
+          ]
+        }
       },
       {
         "heading": "하트 무늬 스트라이프 민소매 잠옷 세트",
@@ -141226,17 +143942,36 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 SHEIN 자체 브랜드의 여성 잠옷으로, 민소매 상의와 쇼츠에 스트라이프와 하트 프린트가 들어갑니다. 색상이나 사이즈에 따라 가격이 달라지고, 10월 28일에는 상품 페이지에 원래 가격이 표시되지 않았습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-        "imageAlt": "하트 무늬가 있는 스트라이프 민소매 잠옷 세트, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "alt": "하트 무늬가 있는 스트라이프 민소매 잠옷 세트, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 스트라이프 잠옷 보기",
             "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "하트 무늬 스트라이프 민소매 잠옷 세트",
+              "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+              "howTo": "잘 때 입는 민소매와 반바지. 그 위에 셔츠를 열어 걸치면 집에서 입기 좋은 차림이 됩니다.",
+              "occasion": "여름, 집에서.",
+              "pairsWith": [
+                {
+                  "label": "앞이 트인 면 셔츠"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "카툰 프린트 3피스 잠옷",
@@ -141248,17 +143983,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 Dream Adore의 3피스 세트로, 카툰 프린트에 허리 리본이 달린 쇼츠가 포함됩니다. 이 셀렉션의 잠옷 중 가장 저렴합니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-        "imageAlt": "카툰 프린트와 리본 쇼츠가 있는 3피스 잠옷, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "alt": "카툰 프린트와 리본 쇼츠가 있는 3피스 잠옷, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 3피스 잠옷 보기",
             "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "카툰 프린트 3피스 잠옷",
+              "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+              "howTo": "허리에 리본 장식이 있는 반바지가 포함된 세트. 잠잘 때나 집에서 입기 좋습니다.",
+              "occasion": "집에서 매일."
+            }
+          ]
+        }
       },
       {
         "heading": "아동",
@@ -141276,17 +144025,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 SHEIN 자체 브랜드의 여아 세트로, 하트 프린트 민소매 상의와 와이드 팬츠로 구성됩니다. 4~7세 여아의 여름 코디를 한 번에 맞추고 싶은 분께 맞습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-        "imageAlt": "하트 민소매 상의와 와이드 팬츠로 된 아동 세트, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "alt": "하트 민소매 상의와 와이드 팬츠로 된 아동 세트, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 여아 세트 보기",
             "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "하트 민소매 상의와 와이드 팬츠 여아 세트",
+              "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+              "howTo": "민소매와 와이드 팬츠를 함께 입은, 바로 입기 좋은 여름 룩.",
+              "occasion": "여름 나들이용, 4~7세 여아.",
+              "pairsWith": [
+                {
+                  "label": "플랫 샌들"
+                },
+                {
+                  "label": "챙 넓은 모자"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "어둠에서 빛나는 공룡 남아 잠옷",
@@ -141298,17 +144069,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 남아용 2피스 잠옷으로, 어둠에서 빛나는 크리스마스 공룡 프린트와 밴딩 허리가 특징입니다. 4~7세 남아의 연말 잠옷을 미리 준비하려는 분께 맞습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-        "imageAlt": "어둠에서 빛나는 크리스마스 공룡이 그려진 아동 2피스 잠옷, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "alt": "어둠에서 빛나는 크리스마스 공룡이 그려진 아동 2피스 잠옷, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 공룡 잠옷 보기",
             "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "어둠에서 빛나는 공룡 남아 잠옷",
+              "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+              "howTo": "2피스 잠옷. 불을 끄면 공룡이 빛납니다.",
+              "occasion": "잠잘 때, 4~7세 남아."
+            }
+          ]
+        }
       },
       {
         "heading": "분필 그림 동물 아기 상의",
@@ -141320,17 +144105,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 호랑이, 곰, 나무늘보 같은 동물을 분필로 그린 듯한 남아 아기 상의입니다. 생후 6개월부터 3세까지 입는, 이 셀렉션에서 가장 저렴한 아동 상품입니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-        "imageAlt": "분필로 그린 동물이 있는 아기 상의, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "alt": "분필로 그린 동물이 있는 아기 상의, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 아기 상의 보기",
             "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "분필 그림 동물 아기 상의",
+              "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+              "howTo": "팬츠나 니트 반바지와 함께 입는 일상용 상의.",
+              "occasion": "일상용, 6개월~3세 아기.",
+              "pairsWith": [
+                {
+                  "label": "니트 팬츠"
+                },
+                {
+                  "label": "니트 반바지"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "긴소매 남아 잠옷, 랜덤 프린트",
@@ -141342,17 +144149,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 긴소매 상의와 긴바지로 된 남아 잠옷으로, 전체에 프린트가 들어갑니다. 한 세트만 판매하며, 프린트(공룡, 굴착기, 비행기)는 구매자가 아니라 판매자가 고릅니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-        "imageAlt": "공룡, 굴착기 또는 비행기 프린트의 아동 긴소매 잠옷, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "alt": "공룡, 굴착기 또는 비행기 프린트의 아동 긴소매 잠옷, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 긴소매 잠옷 보기",
             "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "긴소매 남아 잠옷, 랜덤 프린트",
+              "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+              "howTo": "선선한 밤을 위한 긴팔과 긴바지.",
+              "occasion": "선선한 밤, 9개월~7세."
+            }
+          ]
+        }
       },
       {
         "heading": "여성",
@@ -141370,17 +144191,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 SHEIN Franclia의 민소매 상의와 와이드 팬츠 세트로, 블루 스트라이프이며 판매자는 일상, 출근, 휴가용으로 소개합니다. 세트 하나로 코디를 끝내고 싶은 분께 맞습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-        "imageAlt": "블루 스트라이프의 민소매 상의와 와이드 팬츠 세트, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "alt": "블루 스트라이프의 민소매 상의와 와이드 팬츠 세트, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 스트라이프 세트 보기",
             "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "블루 스트라이프 민소매 상의와 와이드 팬츠 세트",
+              "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+              "howTo": "민소매와 와이드 팬츠를 함께 입으면 완성된 룩이 됩니다. 그 위에 가디건을 걸치면 더위에서 에어컨 바람까지 대응할 수 있습니다.",
+              "occasion": "일상, 출근, 휴가에. 매장 설명 기준.",
+              "pairsWith": [
+                {
+                  "label": "DAZY 슬림 스포티 가디건",
+                  "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+                },
+                {
+                  "label": "플랫 샌들"
+                },
+                {
+                  "label": "크로스백"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "DAZY 슬림 스포티 가디건",
@@ -141392,17 +144239,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 DAZY의 긴소매 슬림핏 스포티 가디건으로, 판매자는 환절기용 얇은 재킷으로 소개합니다. 냉방이 센 곳이나 저녁에 걸칠 가벼운 겉옷을 찾는 분께 맞습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-        "imageAlt": "긴소매 슬림 스포티 가디건, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "alt": "긴소매 슬림 스포티 가디건, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 가디건 보기",
             "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "DAZY 슬림 스포티 가디건",
+              "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+              "howTo": "민소매나 티셔츠 위에 걸치면 얇은 재킷처럼 입을 수 있습니다.",
+              "occasion": "간절기, 에어컨, 늦은 오후.",
+              "pairsWith": [
+                {
+                  "label": "블루 스트라이프 민소매 상의와 와이드 팬츠 세트",
+                  "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+                },
+                {
+                  "label": "청바지"
+                },
+                {
+                  "label": "니트 원피스"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "페이퍼백 허리 프린트 쇼츠",
@@ -141414,17 +144287,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 SHEIN Frenchy 라인의 페이퍼백 허리 프린트 쇼츠로, 판매자는 여름과 휴가에 어울리는 \"올드 머니\" 스타일로 소개합니다. 셀렉션의 의류 중 가장 저렴하고, 상품 페이지의 할인율도 가장 큽니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-        "imageAlt": "페이퍼백 허리의 여성 프린트 쇼츠, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "alt": "페이퍼백 허리의 여성 프린트 쇼츠, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 프린트 쇼츠 보기",
             "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "페이퍼백 허리 프린트 쇼츠",
+              "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+              "howTo": "프린트가 돋보이도록 무지 티셔츠와 함께 입으세요.",
+              "occasion": "여름과 휴가.",
+              "pairsWith": [
+                {
+                  "label": "흰색 티셔츠"
+                },
+                {
+                  "label": "플랫 샌들"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "밴딩 허리 와이드 데님 팬츠",
@@ -141436,17 +144331,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 Flexra의 밴딩 허리 와이드 데님 팬츠로, 판매자는 편안한 와이드핏으로 소개합니다. 이 셀렉션에서 가장 비싼 상품입니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-        "imageAlt": "밴딩 허리의 와이드 데님 팬츠, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "alt": "밴딩 허리의 와이드 데님 팬츠, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 데님 팬츠 보기",
             "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "밴딩 허리 와이드 데님 팬츠",
+              "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+              "howTo": "넓은 다리와 균형을 맞추도록 펌프스나 뾰족한 플랫 슈즈와 함께 입으세요.",
+              "occasion": "일상과 격식 없는 직장.",
+              "pairsWith": [
+                {
+                  "label": "화이트와 카라멜 슬링백 펌프스",
+                  "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+                },
+                {
+                  "label": "기본 티셔츠"
+                },
+                {
+                  "label": "얇은 벨트"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "액세서리",
@@ -141464,17 +144385,40 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 화이트와 카라멜 색상의 슬링백 펌프스로, 블록힐이며 판매자는 우아하고 모던한 디자인으로 소개합니다. 안정적인 굽의 출근용이나 파티용 구두를 찾는 분께 맞습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-        "imageAlt": "블록힐의 화이트와 카라멜 슬링백 펌프스, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "alt": "블록힐의 화이트와 카라멜 슬링백 펌프스, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 펌프스 보기",
             "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "화이트와 카라멜 슬링백 펌프스",
+              "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+              "howTo": "슈트 팬츠, 청바지 또는 원피스와 함께. 블록 힐이 더 안정적이라고 매장에서 설명합니다.",
+              "occasion": "직장과 파티.",
+              "pairsWith": [
+                {
+                  "label": "밴딩 허리 와이드 데님 팬츠",
+                  "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+                },
+                {
+                  "label": "작은 클러치"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "진주와 하트가 달린 리본 귀걸이",
@@ -141486,17 +144430,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 진주와 하트가 달린 리본 귀걸이 한 쌍으로, 판매자는 파티용으로 소개합니다. 셀렉션에서 가장 저렴한 상품이라 작은 선물이나 나를 위한 소소한 선물로 좋습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-        "imageAlt": "진주와 하트가 달린 리본 귀걸이 한 쌍, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "alt": "진주와 하트가 달린 리본 귀걸이 한 쌍, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 귀걸이 보기",
             "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "진주와 하트가 달린 리본 귀걸이",
+              "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+              "howTo": "리본이 보이도록 머리를 묶어 주세요.",
+              "occasion": "파티나 작은 선물로."
+            }
+          ]
+        }
       },
       {
         "heading": "그린 시계와 팔찌, 목걸이, 귀걸이 세트",
@@ -141508,17 +144466,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 그린 시계, 팔찌, 목걸이, 귀걸이로 구성된 9피스 세트로, 판매자는 일상용이나 선물용으로 소개합니다. 약 6,800원으로 세트를 한 번에 갖추고 싶은 분께 맞습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-        "imageAlt": "그린 시계, 팔찌, 목걸이, 귀걸이로 된 9피스 세트, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "alt": "그린 시계, 팔찌, 목걸이, 귀걸이로 된 9피스 세트, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 시계 세트 보기",
             "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "그린 시계와 팔찌, 목걸이, 귀걸이 세트",
+              "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+              "howTo": "일상에서는 시계만, 외출할 때는 세트의 목걸이와 귀걸이를 함께 착용하세요.",
+              "occasion": "일상, 외출 또는 선물."
+            }
+          ]
+        }
       },
       {
         "heading": "다각형 그라데이션 렌즈 선글라스",
@@ -141530,17 +144502,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 LINFEMAND의 다각형 프레임 그라데이션 렌즈 선글라스로, 6가지 색상이 있고 판매자는 운전, 해변, 여행용으로 소개합니다. 상품 페이지의 할인율은 4%로 작습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-        "imageAlt": "다각형 프레임과 그라데이션 렌즈의 선글라스, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "alt": "다각형 프레임과 그라데이션 렌즈의 선글라스, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 선글라스 보기",
             "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "다각형 그라데이션 렌즈 선글라스",
+              "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+              "howTo": "평소 가장 많이 입는 옷에 어울리는 색조의 안경테.",
+              "occasion": "운전, 해변, 여행. 매장 설명 기준."
+            }
+          ]
+        }
       },
       {
         "heading": "남성",
@@ -141558,17 +144544,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 린넨 질감의 네이비 반소매 헨리넥 티셔츠로, 판매자는 캐주얼하고 여유 있는 핏으로 소개합니다. 기본 티셔츠보다 조금 단정한 티셔츠를 찾는 분께 맞습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-        "imageAlt": "린넨 질감의 네이비 남성 헨리넥 티셔츠, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "alt": "린넨 질감의 네이비 남성 헨리넥 티셔츠, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 헨리넥 티셔츠 보기",
             "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "린넨 질감 네이비 헨리넥 티셔츠",
+              "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+              "howTo": "여유 있게 입고 청바지나 버뮤다 팬츠와 함께 입으면 단정한 캐주얼 룩이 됩니다.",
+              "occasion": "일상과 주말.",
+              "pairsWith": [
+                {
+                  "label": "린넨 쇼츠 세트",
+                  "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+                },
+                {
+                  "label": "청바지"
+                },
+                {
+                  "label": "흰색 스니커즈"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "린넨 쇼츠 세트",
@@ -141580,17 +144592,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 여러 색상의 린넨 쇼츠 세트로, 판매자는 캐주얼하고 모던한 스타일로 소개합니다. 세트에 몇 장이 들어 있는지는 상품 페이지에 나와 있지 않으니 구매 전에 확인하세요."
         ],
-        "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-        "imageAlt": "여러 색상의 남성 린넨 쇼츠 세트, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 1,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "alt": "여러 색상의 남성 린넨 쇼츠 세트, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 쇼츠 세트 보기",
             "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "린넨 쇼츠 세트",
+              "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+              "howTo": "무지 티셔츠나 헨리넥과 함께 입으면 여름 캐주얼 룩이 됩니다.",
+              "occasion": "여름과 휴가.",
+              "pairsWith": [
+                {
+                  "label": "린넨 질감 네이비 헨리넥 티셔츠",
+                  "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+                },
+                {
+                  "label": "흰색 민소매"
+                },
+                {
+                  "label": "낮은 스니커즈"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Manfinity Mode 남성 긴소매 셔츠",
@@ -141602,17 +144640,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 Manfinity Mode의 긴소매 셔츠로, 판매자는 일상과 격식 있는 자리에 두루 어울린다고 소개합니다. 출근용으로 좀 더 단정한 셔츠가 필요한 분께 맞습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-        "imageAlt": "Manfinity Mode 남성 긴소매 셔츠, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "alt": "Manfinity Mode 남성 긴소매 셔츠, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 긴소매 셔츠 보기",
             "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Manfinity Mode 남성 긴소매 셔츠",
+              "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+              "howTo": "티셔츠 위에 열어 입거나, 슈트 팬츠 안에 넣어 입으세요.",
+              "occasion": "직장과 격식 있는 자리. 매장 설명 기준.",
+              "pairsWith": [
+                {
+                  "label": "슈트 팬츠"
+                },
+                {
+                  "label": "스트레이트 청바지"
+                },
+                {
+                  "label": "흰색 티셔츠"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "루즈핏 워싱 블랙 탱크톱",
@@ -141624,17 +144687,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "상품 페이지에 따르면 루즈핏의 워싱 블랙 탱크톱으로, 판매자는 여름 스트리트웨어로 소개합니다. 운동용이 아니라 평소에 입을 탱크톱을 찾는 분께 맞습니다."
         ],
-        "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-        "imageAlt": "루즈핏의 워싱 블랙 남성 탱크톱, SHEIN 상품 페이지 사진",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "alt": "루즈핏의 워싱 블랙 남성 탱크톱, SHEIN 상품 페이지 사진",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+        },
         "links": [
           {
             "label": "SHEIN에서 탱크톱 보기",
             "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "루즈핏 워싱 블랙 탱크톱",
+              "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+              "howTo": "버뮤다 팬츠나 트레이닝 반바지와 함께 입으면 스트리트 룩이 됩니다.",
+              "occasion": "여름과 거리에서. 운동복은 아닙니다.",
+              "pairsWith": [
+                {
+                  "label": "나일론 버뮤다 팬츠"
+                },
+                {
+                  "label": "흰색 스니커즈"
+                },
+                {
+                  "label": "캡 모자"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "구매 전에 확인할 것",
@@ -141858,17 +144946,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是 Serenescape 系列的碎花睡衣套装，带口袋和撞色滚边。适合想要一套上衣加短裤的轻薄夏季睡衣的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-        "imageAlt": "Serenescape 撞色滚边碎花睡衣，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "alt": "Serenescape 撞色滚边碎花睡衣，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看碎花睡衣",
             "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Serenescape 碎花睡衣",
+              "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+              "howTo": "天热时睡觉或在家穿的上衣和短裤。",
+              "occasion": "炎热的夏夜。"
+            }
+          ]
+        }
       },
       {
         "heading": "条纹爱心背心短裤睡衣",
@@ -141880,17 +144982,36 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是 SHEIN 自有品牌的女士睡衣，背心加短裤，条纹配爱心印花。价格随颜色或尺码变动，10 月 28 日商品页没有显示原价。"
         ],
-        "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-        "imageAlt": "条纹爱心印花的背心短裤睡衣，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "alt": "条纹爱心印花的背心短裤睡衣，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看条纹睡衣",
             "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "条纹爱心背心短裤睡衣",
+              "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+              "howTo": "睡觉穿的背心和短裤；外面披一件开襟衬衫，就变成居家服。",
+              "occasion": "夏天在家。",
+              "pairsWith": [
+                {
+                  "label": "棉质开襟衬衫"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "卡通印花三件套睡衣",
@@ -141902,17 +145023,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是 Dream Adore 的三件套，卡通印花，短裤腰部系蝴蝶结。它是本文睡衣里最便宜的一套。"
         ],
-        "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-        "imageAlt": "卡通印花配蝴蝶结短裤的三件套睡衣，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "alt": "卡通印花配蝴蝶结短裤的三件套睡衣，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看三件套睡衣",
             "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "卡通印花三件套睡衣",
+              "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+              "howTo": "腰间有蝴蝶结的短裤整套，适合睡觉或在家穿。",
+              "occasion": "日常在家。"
+            }
+          ]
+        }
       },
       {
         "heading": "童装",
@@ -141930,17 +145065,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是 SHEIN 自有品牌的女童套装，爱心印花背心配阔腿裤。适合想给 4 到 7 岁女孩配一整套夏装的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-        "imageAlt": "爱心背心配阔腿裤的儿童套装，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "alt": "爱心背心配阔腿裤的儿童套装，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看女童套装",
             "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "女童爱心背心阔腿裤套装",
+              "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+              "howTo": "背心和宽裤搭在一起，就是现成的夏日造型。",
+              "occasion": "夏日出游，适合 4 至 7 岁女童。",
+              "pairsWith": [
+                {
+                  "label": "平底凉鞋"
+                },
+                {
+                  "label": "遮阳帽"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "男童夜光恐龙睡衣",
@@ -141952,17 +145109,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是男童两件套睡衣，圣诞恐龙图案在黑暗中发光，松紧腰。适合想提前给 4 到 7 岁男孩备好年末节日睡衣的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-        "imageAlt": "夜光圣诞恐龙图案的儿童两件套睡衣，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "alt": "夜光圣诞恐龙图案的儿童两件套睡衣，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看恐龙睡衣",
             "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "男童夜光恐龙睡衣",
+              "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+              "howTo": "两件式睡衣，关灯后恐龙会发光。",
+              "occasion": "睡觉穿，适合 4 至 7 岁男童。"
+            }
+          ]
+        }
       },
       {
         "heading": "婴儿粉笔画动物上衣",
@@ -141974,17 +145145,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是男婴上衣，印着粉笔画风格的动物，比如老虎、熊和树懒。它是本文里最便宜的童装，适合 6 个月到 3 岁的宝宝。"
         ],
-        "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-        "imageAlt": "粉笔画动物图案的婴儿上衣，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "alt": "粉笔画动物图案的婴儿上衣，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看婴儿上衣",
             "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "婴儿粉笔画动物上衣",
+              "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+              "howTo": "日常穿的上衣，搭长裤或针织短裤都可以。",
+              "occasion": "日常穿，适合 6 个月至 3 岁婴幼儿。",
+              "pairsWith": [
+                {
+                  "label": "针织长裤"
+                },
+                {
+                  "label": "针织短裤"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "男童长袖睡衣，随机图案",
@@ -141996,17 +145189,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是男童长袖长裤睡衣，满版印花。一次只卖一套，图案（恐龙、挖掘机或飞机）由商家决定，买家不能选。"
         ],
-        "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-        "imageAlt": "恐龙、挖掘机或飞机图案的儿童长袖睡衣，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "alt": "恐龙、挖掘机或飞机图案的儿童长袖睡衣，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看长袖睡衣",
             "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "男童长袖睡衣，随机图案",
+              "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+              "howTo": "长袖加长裤，适合较凉的夜晚。",
+              "occasion": "凉爽的夜晚，适合 9 个月至 7 岁。"
+            }
+          ]
+        }
       },
       {
         "heading": "女装",
@@ -142024,17 +145231,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是 SHEIN Franclia 的背心阔腿裤套装，蓝色条纹，商家说适合日常、上班和度假。适合想一套搞定搭配的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-        "imageAlt": "蓝色条纹的背心阔腿裤套装，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "alt": "蓝色条纹的背心阔腿裤套装，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看条纹套装",
             "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "蓝色条纹背心阔腿裤套装",
+              "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+              "howTo": "背心和宽裤搭在一起就是完整造型；外面加一件开衫，从户外的热到空调房都能应付。",
+              "occasion": "日常、上班和假期，依店家说明。",
+              "pairsWith": [
+                {
+                  "label": "DAZY 修身运动开衫",
+                  "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+                },
+                {
+                  "label": "平底凉鞋"
+                },
+                {
+                  "label": "斜挎包"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "DAZY 修身运动开衫",
@@ -142046,17 +145279,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是 DAZY 的长袖修身运动开衫，商家把它描述成换季的薄外套。适合想找一件在空调房或傍晚披上的轻薄外搭的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-        "imageAlt": "长袖修身运动开衫，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "alt": "长袖修身运动开衫，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看开衫",
             "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "DAZY 修身运动开衫",
+              "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+              "howTo": "套在背心或T恤外面，就是薄外套。",
+              "occasion": "换季时、空调房和傍晚。",
+              "pairsWith": [
+                {
+                  "label": "蓝色条纹背心阔腿裤套装",
+                  "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+                },
+                {
+                  "label": "牛仔裤"
+                },
+                {
+                  "label": "针织连衣裙"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "纸袋腰印花短裤",
@@ -142068,17 +145327,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是 SHEIN Frenchy 系列的纸袋腰印花短裤，商家把它描述成夏天和度假的\"老钱风\"。它是本文里最便宜的衣服，也是商品页折扣最大的。"
         ],
-        "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-        "imageAlt": "纸袋腰的女士印花短裤，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "alt": "纸袋腰的女士印花短裤，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看印花短裤",
             "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "纸袋腰印花短裤",
+              "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+              "howTo": "搭素色T恤，让印花更突出。",
+              "occasion": "夏天和假期。",
+              "pairsWith": [
+                {
+                  "label": "白色T恤"
+                },
+                {
+                  "label": "平底凉鞋"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "松紧腰阔腿牛仔裤",
@@ -142090,17 +145371,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是 Flexra 的松紧腰阔腿牛仔裤，商家说它舒适、裤腿宽。它是本文里最贵的一件。"
         ],
-        "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-        "imageAlt": "松紧腰的阔腿牛仔裤，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "alt": "松紧腰的阔腿牛仔裤，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看牛仔裤",
             "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "松紧腰阔腿牛仔裤",
+              "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+              "howTo": "搭配高跟鞋或尖头平底鞋，能平衡宽裤腿的线条。",
+              "occasion": "日常和不拘形式的上班场合。",
+              "pairsWith": [
+                {
+                  "label": "白色焦糖色后空高跟鞋",
+                  "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+                },
+                {
+                  "label": "基本款T恤"
+                },
+                {
+                  "label": "细腰带"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "配饰",
@@ -142118,17 +145425,40 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是白色和焦糖色的后空高跟鞋，粗跟，商家说它优雅、时髦。适合想要一双鞋跟更稳的上班鞋或宴会鞋的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-        "imageAlt": "粗跟的白色焦糖色后空高跟鞋，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "alt": "粗跟的白色焦糖色后空高跟鞋，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看高跟鞋",
             "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "白色焦糖色后空高跟鞋",
+              "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+              "howTo": "搭配西装裤、牛仔裤或连衣裙都可以；粗跟比较稳，店家说明如此。",
+              "occasion": "上班和派对。",
+              "pairsWith": [
+                {
+                  "label": "松紧腰阔腿牛仔裤",
+                  "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+                },
+                {
+                  "label": "小手拿包"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "珍珠爱心蝴蝶结耳环",
@@ -142140,17 +145470,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是一对蝴蝶结耳环，带珍珠和爱心，商家推荐用于派对。它是本文里最便宜的一件，适合当小礼物或犒劳自己。"
         ],
-        "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-        "imageAlt": "带珍珠和爱心的蝴蝶结耳环一对，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "alt": "带珍珠和爱心的蝴蝶结耳环一对，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看耳环",
             "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "珍珠爱心蝴蝶结耳环",
+              "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+              "howTo": "把头发扎起来，蝴蝶结才看得到。",
+              "occasion": "派对，或作为小礼物。"
+            }
+          ]
+        }
       },
       {
         "heading": "绿色手表配手链、项链和耳环套装",
@@ -142162,17 +145506,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是 9 件套，有绿色手表、手链、项链和耳环，商家推荐日常戴或当礼物。适合想花约 34 元一次配齐一套的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-        "imageAlt": "绿色手表、手链、项链和耳环的 9 件套，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "alt": "绿色手表、手链、项链和耳环的 9 件套，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看手表套装",
             "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "绿色手表配手链、项链和耳环套装",
+              "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+              "howTo": "日常只戴手表；出门时搭配套装里的项链和耳环。",
+              "occasion": "日常、外出或送礼。"
+            }
+          ]
+        }
       },
       {
         "heading": "多边形渐变镜片太阳镜",
@@ -142184,17 +145542,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是 LINFEMAND 的多边形镜框渐变镜片太阳镜，有 6 种颜色，商家推荐用于开车、海边和旅行。商品页折扣不大，只有 4%。"
         ],
-        "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-        "imageAlt": "多边形镜框渐变镜片的太阳镜，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "alt": "多边形镜框渐变镜片的太阳镜，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看太阳镜",
             "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "多边形渐变镜片太阳镜",
+              "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+              "howTo": "选择与你最常穿的衣服同色系的镜框。",
+              "occasion": "开车、海边和旅行，依店家说明。"
+            }
+          ]
+        }
       },
       {
         "heading": "男装",
@@ -142212,17 +145584,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是藏青色短袖亨利领 T 恤，仿亚麻纹理，商家说它休闲、版型宽松。适合想要一件比基础款稍微讲究一点的 T 恤的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-        "imageAlt": "亚麻纹理的藏青色男士亨利领 T 恤，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "alt": "亚麻纹理的藏青色男士亨利领 T 恤，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看亨利领 T 恤",
             "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "藏青色亚麻纹理亨利领 T 恤",
+              "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+              "howTo": "宽松穿着，搭牛仔裤或百慕大短裤，就是更整齐的休闲风。",
+              "occasion": "日常和周末。",
+              "pairsWith": [
+                {
+                  "label": "亚麻短裤套装",
+                  "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+                },
+                {
+                  "label": "牛仔裤"
+                },
+                {
+                  "label": "白色运动鞋"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "亚麻短裤套装",
@@ -142234,17 +145632,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是多色亚麻短裤套装，商家说它休闲、时髦。商品页没写套装里有几条，下单前请先确认。"
         ],
-        "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-        "imageAlt": "多色的男士亚麻短裤套装，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 1,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "alt": "多色的男士亚麻短裤套装，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看短裤套装",
             "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "亚麻短裤套装",
+              "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+              "howTo": "搭素色T恤或亨利领上衣，就是夏日休闲风。",
+              "occasion": "夏天和假期。",
+              "pairsWith": [
+                {
+                  "label": "藏青色亚麻纹理亨利领 T 恤",
+                  "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+                },
+                {
+                  "label": "白色背心"
+                },
+                {
+                  "label": "低帮运动鞋"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Manfinity Mode 男士长袖衬衫",
@@ -142256,17 +145680,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是 Manfinity Mode 的长袖衬衫，商家说它百搭，日常和正式场合都能穿。适合需要一件更正式的上班衬衫的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-        "imageAlt": "Manfinity Mode 男士长袖衬衫，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "alt": "Manfinity Mode 男士长袖衬衫，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看长袖衬衫",
             "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Manfinity Mode 男士长袖衬衫",
+              "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+              "howTo": "敞开穿在T恤外面，或塞进西装裤里。",
+              "occasion": "上班和正式场合，依店家说明。",
+              "pairsWith": [
+                {
+                  "label": "西装裤"
+                },
+                {
+                  "label": "直筒牛仔裤"
+                },
+                {
+                  "label": "白色T恤"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "宽松水洗黑色背心",
@@ -142278,17 +145727,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品页写明，这是宽松版型的水洗黑色背心，商家把它描述成夏季街头风。适合想要一件平时穿而不是健身穿的背心的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-        "imageAlt": "宽松版型的水洗黑色男士背心，SHEIN 商品页图片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "alt": "宽松版型的水洗黑色男士背心，SHEIN 商品页图片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+        },
         "links": [
           {
             "label": "去 SHEIN 看背心",
             "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "宽松水洗黑色背心",
+              "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+              "howTo": "搭百慕大短裤或棉质运动短裤，就是街头风。",
+              "occasion": "夏天和街头；不是运动服。",
+              "pairsWith": [
+                {
+                  "label": "尼龙百慕大短裤"
+                },
+                {
+                  "label": "白色运动鞋"
+                },
+                {
+                  "label": "棒球帽"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "下单前",
@@ -142512,17 +145986,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是 Serenescape 系列的碎花睡衣套裝，有口袋和撞色滾邊。適合想要一套上衣加短褲的輕薄夏季睡衣的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-        "imageAlt": "Serenescape 撞色滾邊碎花睡衣，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "alt": "Serenescape 撞色滾邊碎花睡衣，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看碎花睡衣",
             "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Serenescape 碎花睡衣",
+              "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+              "howTo": "天熱時睡覺或在家穿的上衣和短褲。",
+              "occasion": "炎熱的夏夜。"
+            }
+          ]
+        }
       },
       {
         "heading": "條紋愛心背心短褲睡衣",
@@ -142534,17 +146022,36 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是 SHEIN 自有品牌的女士睡衣，背心加短褲，條紋配愛心印花。價格隨顏色或尺寸變動，10 月 28 日商品頁沒有顯示原價。"
         ],
-        "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-        "imageAlt": "條紋愛心印花的背心短褲睡衣，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "alt": "條紋愛心印花的背心短褲睡衣，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看條紋睡衣",
             "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "條紋愛心背心短褲睡衣",
+              "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+              "howTo": "睡覺穿的背心和短褲；外面披一件開襟襯衫，就變成居家服。",
+              "occasion": "夏天在家。",
+              "pairsWith": [
+                {
+                  "label": "棉質開襟襯衫"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "卡通印花三件式睡衣",
@@ -142556,17 +146063,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是 Dream Adore 的三件式套裝，卡通印花，短褲腰部繫蝴蝶結。它是本文睡衣裡最便宜的一套。"
         ],
-        "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-        "imageAlt": "卡通印花配蝴蝶結短褲的三件式睡衣，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "alt": "卡通印花配蝴蝶結短褲的三件式睡衣，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看三件式睡衣",
             "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "卡通印花三件式睡衣",
+              "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+              "howTo": "腰間有蝴蝶結的短褲整套，適合睡覺或在家穿。",
+              "occasion": "日常在家。"
+            }
+          ]
+        }
       },
       {
         "heading": "童裝",
@@ -142584,17 +146105,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是 SHEIN 自有品牌的女童套裝，愛心印花背心配寬褲。適合想幫 4 到 7 歲女孩搭一整套夏裝的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-        "imageAlt": "愛心背心配寬褲的兒童套裝，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "alt": "愛心背心配寬褲的兒童套裝，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看女童套裝",
             "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "女童愛心背心寬褲套裝",
+              "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+              "howTo": "背心和寬褲搭在一起，就是現成的夏日造型。",
+              "occasion": "夏日出遊，適合 4 至 7 歲女童。",
+              "pairsWith": [
+                {
+                  "label": "平底涼鞋"
+                },
+                {
+                  "label": "遮陽帽"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "男童夜光恐龍睡衣",
@@ -142606,17 +146149,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是男童兩件式睡衣，聖誕恐龍圖案會在黑暗中發光，鬆緊腰。適合想提前幫 4 到 7 歲男孩備好年末節日睡衣的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-        "imageAlt": "夜光聖誕恐龍圖案的兒童兩件式睡衣，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "alt": "夜光聖誕恐龍圖案的兒童兩件式睡衣，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看恐龍睡衣",
             "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "男童夜光恐龍睡衣",
+              "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+              "howTo": "兩件式睡衣，關燈後恐龍會發光。",
+              "occasion": "睡覺穿，適合 4 至 7 歲男童。"
+            }
+          ]
+        }
       },
       {
         "heading": "嬰兒粉筆畫動物上衣",
@@ -142628,17 +146185,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是男嬰上衣，印著粉筆畫風格的動物，像老虎、熊和樹懶。它是本文裡最便宜的童裝，適合 6 個月到 3 歲的寶寶。"
         ],
-        "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-        "imageAlt": "粉筆畫動物圖案的嬰兒上衣，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "alt": "粉筆畫動物圖案的嬰兒上衣，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看嬰兒上衣",
             "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "嬰兒粉筆畫動物上衣",
+              "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+              "howTo": "日常穿的上衣，搭長褲或針織短褲都可以。",
+              "occasion": "日常穿，適合 6 個月至 3 歲嬰幼兒。",
+              "pairsWith": [
+                {
+                  "label": "針織長褲"
+                },
+                {
+                  "label": "針織短褲"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "男童長袖睡衣，隨機圖案",
@@ -142650,17 +146229,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是男童長袖長褲睡衣，滿版印花。一次只賣一套，圖案（恐龍、挖土機或飛機）由賣家決定，買家不能選。"
         ],
-        "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-        "imageAlt": "恐龍、挖土機或飛機圖案的兒童長袖睡衣，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "alt": "恐龍、挖土機或飛機圖案的兒童長袖睡衣，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看長袖睡衣",
             "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "男童長袖睡衣，隨機圖案",
+              "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+              "howTo": "長袖加長褲，適合較涼的夜晚。",
+              "occasion": "涼爽的夜晚，適合 9 個月至 7 歲。"
+            }
+          ]
+        }
       },
       {
         "heading": "女裝",
@@ -142678,17 +146271,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是 SHEIN Franclia 的背心寬褲套裝，藍色條紋，賣家說適合日常、上班和度假。適合想一套搞定穿搭的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-        "imageAlt": "藍色條紋的背心寬褲套裝，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "alt": "藍色條紋的背心寬褲套裝，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看條紋套裝",
             "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "藍色條紋背心寬褲套裝",
+              "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+              "howTo": "背心和寬褲搭在一起就是完整造型；外面加一件開襟衫，從戶外的熱到冷氣房都能應付。",
+              "occasion": "日常、上班和假期，依店家說明。",
+              "pairsWith": [
+                {
+                  "label": "DAZY 修身運動開襟衫",
+                  "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+                },
+                {
+                  "label": "平底涼鞋"
+                },
+                {
+                  "label": "斜背包"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "DAZY 修身運動開襟衫",
@@ -142700,17 +146319,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是 DAZY 的長袖修身運動開襟衫，賣家把它描述成換季的薄外套。適合想找一件在冷氣房或傍晚披上的輕薄外搭的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-        "imageAlt": "長袖修身運動開襟衫，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "alt": "長袖修身運動開襟衫，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看開襟衫",
             "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "DAZY 修身運動開襟衫",
+              "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+              "howTo": "套在背心或T恤外面，就是薄外套。",
+              "occasion": "換季時、冷氣房和傍晚。",
+              "pairsWith": [
+                {
+                  "label": "藍色條紋背心寬褲套裝",
+                  "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+                },
+                {
+                  "label": "牛仔褲"
+                },
+                {
+                  "label": "針織洋裝"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "紙袋腰印花短褲",
@@ -142722,17 +146367,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是 SHEIN Frenchy 系列的紙袋腰印花短褲，賣家把它描述成夏天和度假的「老錢風」。它是本文裡最便宜的衣服，也是商品頁折扣最大的。"
         ],
-        "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-        "imageAlt": "紙袋腰的女士印花短褲，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "alt": "紙袋腰的女士印花短褲，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看印花短褲",
             "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "紙袋腰印花短褲",
+              "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+              "howTo": "搭素色T恤，讓印花更突出。",
+              "occasion": "夏天和假期。",
+              "pairsWith": [
+                {
+                  "label": "白色T恤"
+                },
+                {
+                  "label": "平底涼鞋"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "鬆緊腰寬褲牛仔褲",
@@ -142744,17 +146411,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是 Flexra 的鬆緊腰寬褲牛仔褲，賣家說它舒適、褲管寬。它是本文裡最貴的一件。"
         ],
-        "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-        "imageAlt": "鬆緊腰的寬褲牛仔褲，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "alt": "鬆緊腰的寬褲牛仔褲，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看牛仔褲",
             "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "鬆緊腰寬褲牛仔褲",
+              "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+              "howTo": "搭配高跟鞋或尖頭平底鞋，能平衡寬褲管的線條。",
+              "occasion": "日常和不拘形式的上班場合。",
+              "pairsWith": [
+                {
+                  "label": "白色焦糖色後空高跟鞋",
+                  "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+                },
+                {
+                  "label": "基本款T恤"
+                },
+                {
+                  "label": "細皮帶"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "配件",
@@ -142772,17 +146465,40 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是白色和焦糖色的後空高跟鞋，粗跟，賣家說它優雅、時髦。適合想要一雙鞋跟更穩的上班鞋或宴會鞋的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-        "imageAlt": "粗跟的白色焦糖色後空高跟鞋，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "alt": "粗跟的白色焦糖色後空高跟鞋，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看高跟鞋",
             "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "白色焦糖色後空高跟鞋",
+              "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+              "howTo": "搭配西裝褲、牛仔褲或洋裝都可以；粗跟比較穩，店家說明如此。",
+              "occasion": "上班和派對。",
+              "pairsWith": [
+                {
+                  "label": "鬆緊腰寬褲牛仔褲",
+                  "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+                },
+                {
+                  "label": "小手拿包"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "珍珠愛心蝴蝶結耳環",
@@ -142794,17 +146510,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是一對蝴蝶結耳環，有珍珠和愛心，賣家推薦派對時戴。它是本文裡最便宜的一件，適合當小禮物或犒賞自己。"
         ],
-        "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-        "imageAlt": "有珍珠和愛心的蝴蝶結耳環一對，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "alt": "有珍珠和愛心的蝴蝶結耳環一對，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看耳環",
             "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "珍珠愛心蝴蝶結耳環",
+              "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+              "howTo": "把頭髮綁起來，蝴蝶結才看得到。",
+              "occasion": "派對，或作為小禮物。"
+            }
+          ]
+        }
       },
       {
         "heading": "綠色手錶配手鍊、項鍊和耳環套組",
@@ -142816,17 +146546,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是 9 件套組，有綠色手錶、手鍊、項鍊和耳環，賣家推薦日常戴或當禮物。適合想花約 NT$160 一次配齊一套的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-        "imageAlt": "綠色手錶、手鍊、項鍊和耳環的 9 件套組，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "alt": "綠色手錶、手鍊、項鍊和耳環的 9 件套組，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看手錶套組",
             "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "綠色手錶配手鍊、項鍊和耳環套組",
+              "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+              "howTo": "日常只戴手錶；出門時搭配套組裡的項鍊和耳環。",
+              "occasion": "日常、外出或送禮。"
+            }
+          ]
+        }
       },
       {
         "heading": "多邊形漸層鏡片太陽眼鏡",
@@ -142838,17 +146582,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是 LINFEMAND 的多邊形鏡框漸層鏡片太陽眼鏡，有 6 種顏色，賣家推薦開車、海邊和旅遊時戴。商品頁折扣不大，只有 4%。"
         ],
-        "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-        "imageAlt": "多邊形鏡框漸層鏡片的太陽眼鏡，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "alt": "多邊形鏡框漸層鏡片的太陽眼鏡，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看太陽眼鏡",
             "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "多邊形漸層鏡片太陽眼鏡",
+              "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+              "howTo": "選擇與你最常穿的衣服同色系的鏡框。",
+              "occasion": "開車、海邊和旅行，依店家說明。"
+            }
+          ]
+        }
       },
       {
         "heading": "男裝",
@@ -142866,17 +146624,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是深藍色短袖亨利領 T 恤，仿亞麻紋理，賣家說它休閒、版型寬鬆。適合想要一件比基本款稍微講究一點的 T 恤的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-        "imageAlt": "亞麻紋理的深藍色男士亨利領 T 恤，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "alt": "亞麻紋理的深藍色男士亨利領 T 恤，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看亨利領 T 恤",
             "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "深藍色亞麻紋理亨利領 T 恤",
+              "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+              "howTo": "寬鬆穿著，搭牛仔褲或百慕達短褲，就是更整齊的休閒風。",
+              "occasion": "日常和週末。",
+              "pairsWith": [
+                {
+                  "label": "亞麻短褲套組",
+                  "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+                },
+                {
+                  "label": "牛仔褲"
+                },
+                {
+                  "label": "白色運動鞋"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "亞麻短褲套組",
@@ -142888,17 +146672,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是多色亞麻短褲套組，賣家說它休閒、時髦。商品頁沒寫套組裡有幾條，下單前請先確認。"
         ],
-        "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-        "imageAlt": "多色的男士亞麻短褲套組，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 1,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "alt": "多色的男士亞麻短褲套組，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看短褲套組",
             "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "亞麻短褲套組",
+              "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+              "howTo": "搭素色T恤或亨利領上衣，就是夏日休閒風。",
+              "occasion": "夏天和假期。",
+              "pairsWith": [
+                {
+                  "label": "深藍色亞麻紋理亨利領 T 恤",
+                  "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+                },
+                {
+                  "label": "白色背心"
+                },
+                {
+                  "label": "低筒運動鞋"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Manfinity Mode 男士長袖襯衫",
@@ -142910,17 +146720,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是 Manfinity Mode 的長袖襯衫，賣家說它百搭，日常和正式場合都能穿。適合需要一件更正式的上班襯衫的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-        "imageAlt": "Manfinity Mode 男士長袖襯衫，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "alt": "Manfinity Mode 男士長袖襯衫，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看長袖襯衫",
             "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Manfinity Mode 男士長袖襯衫",
+              "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+              "howTo": "敞開穿在T恤外面，或塞進西裝褲裡。",
+              "occasion": "上班和正式場合，依店家說明。",
+              "pairsWith": [
+                {
+                  "label": "西裝褲"
+                },
+                {
+                  "label": "直筒牛仔褲"
+                },
+                {
+                  "label": "白色T恤"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "寬鬆水洗黑色背心",
@@ -142932,17 +146767,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "商品頁寫明，這是寬鬆版型的水洗黑色背心，賣家把它描述成夏季街頭風。適合想要一件平常穿而不是健身穿的背心的人。"
         ],
-        "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-        "imageAlt": "寬鬆版型的水洗黑色男士背心，SHEIN 商品頁圖片",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.75,
+        "image": {
+          "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "alt": "寬鬆版型的水洗黑色男士背心，SHEIN 商品頁圖片",
+          "objectFit": "contain",
+          "aspectRatio": 0.75,
+          "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+        },
         "links": [
           {
             "label": "到 SHEIN 看背心",
             "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
             "sponsored": true
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "寬鬆水洗黑色背心",
+              "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+              "howTo": "搭百慕達短褲或棉質運動短褲，就是街頭風。",
+              "occasion": "夏天和街頭；不是運動服。",
+              "pairsWith": [
+                {
+                  "label": "尼龍百慕達短褲"
+                },
+                {
+                  "label": "白色運動鞋"
+                },
+                {
+                  "label": "棒球帽"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "下單前",
@@ -170139,9 +173999,63 @@ export const reviewsData: unknown[] = [
             "alt": "Modelo com vestido longo azul-marinho de lantejoulas e fenda lateral, ao ar livre",
             "caption": "Foto oficial da SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Festa de fim de ano",
+              "howTo": "Na ceia de Natal, midi de tecido leve; no Réveillon, longo ou curto, com brilho se a festa for à noite.",
+              "occasion": "Ceia de Natal e festa de Réveillon.",
+              "pairsWith": [
+                {
+                  "label": "sandália de tira fina"
+                },
+                {
+                  "label": "bolsa pequena"
+                },
+                {
+                  "label": "xale leve"
+                }
+              ]
+            },
+            {
+              "piece": "Formatura",
+              "howTo": "À noite, longo ou midi com sandália de tira fina; de dia, curto ou midi com sapato fechado.",
+              "occasion": "Colação e baile; o convite diz o traje.",
+              "pairsWith": [
+                {
+                  "label": "sandália de tira fina"
+                },
+                {
+                  "label": "clutch"
+                },
+                {
+                  "label": "brinco médio"
+                }
+              ]
+            },
+            {
+              "piece": "Convidada de casamento",
+              "howTo": "De dia, tecido leve com sapato fechado ou sandália baixa; à noite, longo com salto. O branco fica para a noiva.",
+              "occasion": "Cerimônia na igreja ou no salão, de dia ou à noite.",
+              "pairsWith": [
+                {
+                  "label": "sapato fechado de salto médio"
+                },
+                {
+                  "label": "bolsa estruturada"
+                },
+                {
+                  "label": "blazer leve"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Como ler a descrição da peça",
@@ -170160,7 +174074,8 @@ export const reviewsData: unknown[] = [
             "alt": "Modelo de perfil com vestido azul empoeirado de um ombro e saia de tule",
             "caption": "Foto oficial da SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
@@ -170212,23 +174127,82 @@ export const reviewsData: unknown[] = [
             "alt": "Modelo com vestido de um ombro azul empoeirado, com franzidos na cintura, em parede cinza",
             "caption": "Foto oficial da SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           },
           {
             "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
             "alt": "Modelo com vestido azul-marinho de manga curta e decote quadrado, em frente a um muro com hera",
             "caption": "Foto oficial da SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7792
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
           },
           {
             "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
             "alt": "Modelo com vestido longo azul-marinho de lantejoulas e fenda, em piso de mármore",
             "caption": "Foto oficial da SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Vestido longo Firerie",
+              "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+              "howTo": "O ombro de fora já é o destaque: brinco pequeno e cabelo preso.",
+              "occasion": "Casamento.",
+              "pairsWith": [
+                {
+                  "label": "sandália de salto fino"
+                },
+                {
+                  "label": "clutch pequena"
+                },
+                {
+                  "label": "brinco pequeno"
+                }
+              ]
+            },
+            {
+              "piece": "Vestido curto Via Vilarinho",
+              "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+              "howTo": "A alfaiataria pede sapato fechado e bolsa estruturada; com blazer, vai ao trabalho.",
+              "occasion": "Noite, casamento e escritório.",
+              "pairsWith": [
+                {
+                  "label": "scarpin"
+                },
+                {
+                  "label": "bolsa estruturada"
+                },
+                {
+                  "label": "blazer"
+                }
+              ]
+            },
+            {
+              "piece": "Vestido longo ADYCE",
+              "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+              "howTo": "As lantejoulas e a fenda já chamam atenção: acessório discreto e sandália de tira fina.",
+              "occasion": "Festa formal à noite.",
+              "pairsWith": [
+                {
+                  "label": "sandália de tira fina"
+                },
+                {
+                  "label": "clutch pequena"
+                },
+                {
+                  "label": "xale leve"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Tamanho: use a medida da peça",
@@ -170245,14 +174219,16 @@ export const reviewsData: unknown[] = [
             "alt": "Modelo de costas com vestido azul-marinho de manga curta e comprimento médio",
             "caption": "Foto oficial da SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7792
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
           },
           {
             "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
             "alt": "Modelo de costas com vestido longo azul empoeirado de um ombro, em parede cinza",
             "caption": "Foto oficial da SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
@@ -170268,7 +174244,8 @@ export const reviewsData: unknown[] = [
             "alt": "Modelo se olha no espelho, com vestido longo azul-marinho de lantejoulas e cauda",
             "caption": "Foto oficial da SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
         ]
       },
@@ -170304,7 +174281,8 @@ export const reviewsData: unknown[] = [
             "alt": "Modelo com vestido longo azul-marinho de lantejoulas em corredor com tapete",
             "caption": "Foto oficial da SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
         ]
       },
@@ -170393,9 +174371,63 @@ export const reviewsData: unknown[] = [
             "alt": "Model in a long navy sequin dress with a side slit, outdoors",
             "caption": "Official SHEIN photo.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Year-end party",
+              "howTo": "At the Christmas dinner, a midi in light fabric; on New Year's Eve, long or short, with shine if the party is at night.",
+              "occasion": "Christmas dinner and New Year's Eve party.",
+              "pairsWith": [
+                {
+                  "label": "strappy sandal"
+                },
+                {
+                  "label": "small bag"
+                },
+                {
+                  "label": "light shawl"
+                }
+              ]
+            },
+            {
+              "piece": "Graduation",
+              "howTo": "At night, a long or midi dress with a strappy sandal; in daytime, a short or midi dress with closed shoes.",
+              "occasion": "Ceremony and ball; the invitation sets the dress code.",
+              "pairsWith": [
+                {
+                  "label": "strappy sandal"
+                },
+                {
+                  "label": "clutch"
+                },
+                {
+                  "label": "mid-size earrings"
+                }
+              ]
+            },
+            {
+              "piece": "Wedding guest",
+              "howTo": "In daytime, light fabric with closed shoes or flat sandals; at night, a long dress with heels. White is for the bride.",
+              "occasion": "Ceremony in a church or venue, day or night.",
+              "pairsWith": [
+                {
+                  "label": "mid-heel pumps"
+                },
+                {
+                  "label": "structured bag"
+                },
+                {
+                  "label": "light jacket"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Reading the product description",
@@ -170414,14 +174446,128 @@ export const reviewsData: unknown[] = [
             "alt": "Model in profile wearing a dusty blue one-shoulder dress with a mesh skirt",
             "caption": "Official SHEIN photo.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
+        "heading": "Three dresses read on SHEIN",
+        "paragraphs": [
+          "Nobody on the team wore these dresses. Fabric, length and rating come from the product pages. Before you buy, check the price and the delivery estimate on the store page."
+        ],
+        "comparisonTable": {
+          "caption": "Three SHEIN dresses, with data from each product page.",
+          "headers": [
+            "Dress",
+            "Fabric and lining",
+            "Occasion and rating"
+          ],
+          "rows": [
+            [
+              "[Firerie long dress, one shoulder, tulle (dusty blue)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+              "95% polyester and 5% elastane. Lined, not sheer, maxi.",
+              "Wedding, per the store. Rating 4.84, with over 1,000 reviews."
+            ],
+            [
+              "[Via Vilarinho short dress, tailored, square neckline (navy)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+              "95% polyester and 5% elastane. Lining only at the top. Short in the title, midi in the description.",
+              "Night, wedding and office, per the store. Rating 4.88, with 80 reviews."
+            ],
+            [
+              "[ADYCE long dress, sequins, off-the-shoulder, slit (navy)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+              "95% polyester and 5% elastane. Lined, not sheer, long, with a slit.",
+              "Party, formal and evening, per the store. Rating 4.89, with over 1,000 reviews."
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+            "alt": "Model in a dusty blue one-shoulder dress with gathers at the waist, against a grey wall",
+            "caption": "Official SHEIN photo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+            "alt": "Model in a navy short-sleeve dress with square neckline, in front of an ivy-covered wall",
+            "caption": "Official SHEIN photo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+            "alt": "Model in a long navy sequin dress with a slit, on a marble floor",
+            "caption": "Official SHEIN photo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Firerie long dress",
+              "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+              "howTo": "The bare shoulder is the highlight: small earrings and hair up.",
+              "occasion": "Wedding, per the store.",
+              "pairsWith": [
+                {
+                  "label": "stiletto sandals"
+                },
+                {
+                  "label": "small clutch"
+                },
+                {
+                  "label": "small earrings"
+                }
+              ]
+            },
+            {
+              "piece": "Via Vilarinho short dress",
+              "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+              "howTo": "The tailoring calls for closed shoes and a structured bag; with a blazer, it works for the office.",
+              "occasion": "Night, wedding and office, per the store.",
+              "pairsWith": [
+                {
+                  "label": "pumps"
+                },
+                {
+                  "label": "structured bag"
+                },
+                {
+                  "label": "blazer"
+                }
+              ]
+            },
+            {
+              "piece": "ADYCE long dress",
+              "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+              "howTo": "The sequins and the slit already draw attention: discreet accessories and a strappy sandal.",
+              "occasion": "Formal evening party, per the store.",
+              "pairsWith": [
+                {
+                  "label": "strappy sandal"
+                },
+                {
+                  "label": "small clutch"
+                },
+                {
+                  "label": "light shawl"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
         "heading": "Size: use the measurements of the garment",
         "paragraphs": [
-          "SHEIN publishes a size guide for each product, in centimetres and inches, with instructions on how to measure. There is no single chart from PP to GG, so use the guide of the dress you chose. Plus sizes follow the same method: compare the garment's measurements with yours, not the number on the label."
+          "SHEIN publishes a size guide for each product, in centimetres and inches, with instructions on how to measure. There is no single size chart, so use the guide of the dress you chose. Plus sizes follow the same method: compare the garment's measurements with yours, not the number on the label."
         ],
         "images": [
           {
@@ -170429,20 +174575,61 @@ export const reviewsData: unknown[] = [
             "alt": "Model from behind in a navy short-sleeve dress of midi length",
             "caption": "Official SHEIN photo.",
             "objectFit": "contain",
-            "aspectRatio": 0.7792
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+            "alt": "Model from behind in a long dusty blue one-shoulder dress, against a grey wall",
+            "caption": "Official SHEIN photo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
-        "heading": "Delivery and returns",
+        "heading": "Delivery time: add it to the party date",
         "paragraphs": [
-          "Delivery times and return conditions depend on the seller, the destination and the order. The store page has the current rules, and the order summary shows the delivery estimate before you pay. To change size, return the item and place a new order."
+          "Orders take 3 to 5 days to be processed before they ship. Add that time to the delivery estimate on the order page. If the total goes past the party date, this dress is not the right purchase for that date."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+            "alt": "Model looks in the mirror, in a long navy sequin dress with a train",
+            "caption": "Official SHEIN photo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ]
+      },
+      {
+        "heading": "Taxes: check the order summary",
+        "paragraphs": [
+          "Import taxes depend on the country where the order arrives and on the order value. The order summary shows the amount before you pay."
+        ]
+      },
+      {
+        "heading": "Returns and exchanges",
+        "paragraphs": [
+          "The store page has the return rules for each seller. To change the size, return the item and place a new order."
         ]
       },
       {
         "heading": "Before you pay",
         "paragraphs": [
-          "Taxes and shipping depend on the order and the country, so check the order summary before you pay. The 4CW5Y code is SHEIN Brazil's referral code, not a coupon: you search it in the app, and it gives no discount. How it works is explained in [the referral guide](/en/reviews/shein-referral-code-where-to-enter), and current campaigns are on the [SHEIN store page](/en/coupons/shein)."
+          "Check the delivery estimate and the order summary before you pay, and keep the order confirmation. The 4CW5Y code is SHEIN Brazil's referral code, not a coupon: you search it in the app, and it gives no discount. How it works is explained in [the referral guide](/en/reviews/shein-referral-code-where-to-enter), and current campaigns are on the [SHEIN store page](/en/coupons/shein)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+            "alt": "Model in a long navy sequin dress in a corridor with a runner rug",
+            "caption": "Official SHEIN photo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
         ]
       },
       {
@@ -170529,9 +174716,63 @@ export const reviewsData: unknown[] = [
             "alt": "Modelo con vestido largo azul marino de lentejuelas y abertura lateral, al aire libre",
             "caption": "Foto oficial de SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Fiesta de fin de año",
+              "howTo": "En la cena de Navidad, midi de tela ligera; en Nochevieja, largo o corto, con brillo si la fiesta es de noche.",
+              "occasion": "Cena de Navidad y fiesta de Nochevieja.",
+              "pairsWith": [
+                {
+                  "label": "sandalia de tiras finas"
+                },
+                {
+                  "label": "bolso pequeño"
+                },
+                {
+                  "label": "chal ligero"
+                }
+              ]
+            },
+            {
+              "piece": "Graduación",
+              "howTo": "De noche, largo o midi con sandalia de tiras finas; de día, corto o midi con zapato cerrado.",
+              "occasion": "Ceremonia y baile de graduación; la invitación dice el código de vestimenta.",
+              "pairsWith": [
+                {
+                  "label": "sandalia de tiras finas"
+                },
+                {
+                  "label": "clutch"
+                },
+                {
+                  "label": "pendientes medianos"
+                }
+              ]
+            },
+            {
+              "piece": "Invitada de boda",
+              "howTo": "De día, tela ligera con zapato cerrado o sandalia plana; de noche, largo con tacón. El blanco es para la novia.",
+              "occasion": "Ceremonia en iglesia o salón, de día o de noche.",
+              "pairsWith": [
+                {
+                  "label": "zapato cerrado de tacón medio"
+                },
+                {
+                  "label": "bolso estructurado"
+                },
+                {
+                  "label": "abrigo ligero"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Cómo leer la descripción de la prenda",
@@ -170550,14 +174791,128 @@ export const reviewsData: unknown[] = [
             "alt": "Modelo de perfil con vestido azul polvo de un hombro y falda de tul",
             "caption": "Foto oficial de SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
+        "heading": "Tres vestidos leídos en SHEIN",
+        "paragraphs": [
+          "Nadie del equipo usó estas prendas. La tela, el largo y la nota vienen de las páginas de cada producto. Antes de comprar, revisa el precio y la estimación de entrega en la página de la tienda."
+        ],
+        "comparisonTable": {
+          "caption": "Tres vestidos de SHEIN, con datos de la página de cada producto.",
+          "headers": [
+            "Vestido",
+            "Tela y forro",
+            "Ocasión y nota"
+          ],
+          "rows": [
+            [
+              "[Vestido largo Firerie, un hombro, tul (azul polvo)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+              "95% poliéster y 5% elastano. Forrado, no transparente, maxi.",
+              "Boda, según la tienda. Nota 4.84, con más de 1.000 opiniones."
+            ],
+            [
+              "[Vestido corto Via Vilarinho, de corte sastre, escote cuadrado (azul marino)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+              "95% poliéster y 5% elastano. Forro solo en la parte de arriba. Corto en el título, midi en la descripción.",
+              "Noche, boda y oficina, según la tienda. Nota 4.88, con 80 opiniones."
+            ],
+            [
+              "[Vestido largo ADYCE, lentejuelas, hombros descubiertos, abertura (azul marino)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+              "95% poliéster y 5% elastano. Forrado, no transparente, largo, con abertura.",
+              "Fiesta, formal y nocturna, según la tienda. Nota 4.89, con más de 1.000 opiniones."
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+            "alt": "Modelo con vestido de un hombro azul polvo, con fruncidos en la cintura, frente a una pared gris",
+            "caption": "Foto oficial de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+            "alt": "Modelo con vestido azul marino de manga corta y escote cuadrado, frente a un muro cubierto de hiedra",
+            "caption": "Foto oficial de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+            "alt": "Modelo con vestido largo azul marino de lentejuelas y abertura, sobre un suelo de mármol",
+            "caption": "Foto oficial de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Vestido largo Firerie",
+              "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+              "howTo": "El hombro descubierto ya destaca: pendientes pequeños y pelo recogido.",
+              "occasion": "Boda, según la tienda.",
+              "pairsWith": [
+                {
+                  "label": "sandalia de tacón fino"
+                },
+                {
+                  "label": "clutch pequeño"
+                },
+                {
+                  "label": "pendientes pequeños"
+                }
+              ]
+            },
+            {
+              "piece": "Vestido corto Via Vilarinho",
+              "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+              "howTo": "El corte de sastre pide zapato cerrado y bolso estructurado; con blazer, sirve para la oficina.",
+              "occasion": "Noche, boda y oficina, según la tienda.",
+              "pairsWith": [
+                {
+                  "label": "zapato de tacón"
+                },
+                {
+                  "label": "bolso estructurado"
+                },
+                {
+                  "label": "blazer"
+                }
+              ]
+            },
+            {
+              "piece": "Vestido largo ADYCE",
+              "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+              "howTo": "Las lentejuelas y la abertura ya llaman la atención: accesorio discreto y sandalia de tiras finas.",
+              "occasion": "Fiesta formal de noche, según la tienda.",
+              "pairsWith": [
+                {
+                  "label": "sandalia de tiras finas"
+                },
+                {
+                  "label": "clutch pequeño"
+                },
+                {
+                  "label": "chal ligero"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
         "heading": "Talla: usa la medida de la prenda",
         "paragraphs": [
-          "SHEIN publica una guía de tallas para cada producto, en centímetros y pulgadas, con la forma de medir. No hay una tabla única de PP a GG, así que usa la guía del vestido que elegiste. Para tallas grandes, el método es el mismo: compara las medidas de la prenda con las tuyas, no el número de la etiqueta."
+          "SHEIN publica una guía de tallas para cada producto, en centímetros y pulgadas, con la forma de medir. No hay una tabla única de tallas, así que usa la guía del vestido que elegiste. Para tallas grandes, el método es el mismo: compara las medidas de la prenda con las tuyas, no el número de la etiqueta."
         ],
         "images": [
           {
@@ -170565,20 +174920,61 @@ export const reviewsData: unknown[] = [
             "alt": "Modelo de espaldas con vestido azul marino de manga corta y largo midi",
             "caption": "Foto oficial de SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7792
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+            "alt": "Modelo de espaldas con vestido largo azul polvo de un hombro, frente a una pared gris",
+            "caption": "Foto oficial de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
-        "heading": "Entrega y devoluciones",
+        "heading": "Plazo: suma la fecha de la fiesta",
         "paragraphs": [
-          "Los plazos y las devoluciones dependen del vendedor, del destino y del pedido. La página de la tienda tiene las reglas vigentes, y el resumen del pedido muestra la fecha de entrega antes de pagar."
+          "Los pedidos tardan de 3 a 5 días en procesarse antes del envío. Suma ese plazo a la entrega estimada de la página del pedido. Si la suma pasa de la fecha de la fiesta, este vestido no es la compra correcta para esa fecha."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+            "alt": "Modelo se mira en el espejo, con vestido largo azul marino de lentejuelas y cola",
+            "caption": "Foto oficial de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ]
+      },
+      {
+        "heading": "Impuestos: revisa el resumen del pedido",
+        "paragraphs": [
+          "Los impuestos de importación dependen del país donde llega el pedido y del valor de la compra. El resumen del pedido muestra el monto antes de pagar."
+        ]
+      },
+      {
+        "heading": "Cambios y devoluciones",
+        "paragraphs": [
+          "La página de la tienda tiene las reglas de devolución de cada vendedor. Para cambiar la talla, devuelve la prenda y haz un pedido nuevo."
         ]
       },
       {
         "heading": "Antes de pagar",
         "paragraphs": [
-          "Los impuestos y el envío dependen del pedido y del país: revísalos en el resumen antes de pagar. El código 4CW5Y es el código de referido de SHEIN Brasil, no un cupón: se busca en la aplicación y no da descuento. Cómo funciona está en [la guía del código de referido](/es/reviews/codigo-de-referido-shein-donde-ponerlo), y las campañas vigentes, en [la página de SHEIN](/es/coupons/shein)."
+          "Revisa la fecha de entrega y el resumen del pedido antes de pagar, y guarda la confirmación. El código 4CW5Y es el código de referido de SHEIN Brasil, no un cupón: se busca en la aplicación y no da descuento. Cómo funciona está en [la guía del código de referido](/es/reviews/codigo-de-referido-shein-donde-ponerlo), y las campañas vigentes, en [la página de SHEIN](/es/coupons/shein)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+            "alt": "Modelo con vestido largo azul marino de lentejuelas en un pasillo con alfombra",
+            "caption": "Foto oficial de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
         ]
       },
       {
@@ -170665,9 +175061,63 @@ export const reviewsData: unknown[] = [
             "alt": "Mannequin en robe longue bleu marine à sequins et fente latérale, en extérieur",
             "caption": "Photo officielle de SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Fête de fin d'année",
+              "howTo": "Au dîner de Noël, une mi-longue en tissu léger ; au réveillon, longue ou courte, avec de l'éclat si la fête a lieu le soir.",
+              "occasion": "Dîner de Noël et réveillon du Nouvel An.",
+              "pairsWith": [
+                {
+                  "label": "sandales à fines brides"
+                },
+                {
+                  "label": "petit sac"
+                },
+                {
+                  "label": "châle léger"
+                }
+              ]
+            },
+            {
+              "piece": "Remise de diplôme",
+              "howTo": "Le soir, longue ou mi-longue avec des sandales à fines brides ; le jour, courte ou mi-longue avec des chaussures fermées.",
+              "occasion": "Cérémonie et bal ; l'invitation indique la tenue.",
+              "pairsWith": [
+                {
+                  "label": "sandales à fines brides"
+                },
+                {
+                  "label": "pochette"
+                },
+                {
+                  "label": "boucles d'oreilles moyennes"
+                }
+              ]
+            },
+            {
+              "piece": "Invitée à un mariage",
+              "howTo": "Le jour, tissu léger avec des chaussures fermées ou des sandales plates ; le soir, longue avec des talons. Le blanc est réservé à la mariée.",
+              "occasion": "Cérémonie à l'église ou en salle, le jour ou le soir.",
+              "pairsWith": [
+                {
+                  "label": "escarpins à talon moyen"
+                },
+                {
+                  "label": "sac structuré"
+                },
+                {
+                  "label": "veste légère"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Lire la description du produit",
@@ -170686,14 +175136,128 @@ export const reviewsData: unknown[] = [
             "alt": "Mannequin de profil en robe bleu poussiéreux à une épaule et jupe en tulle",
             "caption": "Photo officielle de SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
+        "heading": "Trois robes lues sur SHEIN",
+        "paragraphs": [
+          "Personne dans l'équipe n'a porté ces robes. Le tissu, la longueur et la note viennent des pages des produits. Avant d'acheter, vérifiez le prix et le délai de livraison sur la page de la boutique."
+        ],
+        "comparisonTable": {
+          "caption": "Trois robes SHEIN, avec les données de la page de chaque produit.",
+          "headers": [
+            "Robe",
+            "Tissu et doublure",
+            "Occasion et note"
+          ],
+          "rows": [
+            [
+              "[Robe longue Firerie, une épaule, tulle (bleu poussiéreux)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+              "95 % polyester et 5 % élasthanne. Doublée, non transparente, maxi.",
+              "Mariage, selon la boutique. Note 4,84, avec plus de 1 000 avis."
+            ],
+            [
+              "[Robe courte Via Vilarinho, coupe tailleur, décolleté carré (bleu marine)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+              "95 % polyester et 5 % élasthanne. Doublure seulement sur le haut. Courte dans le titre, mi-longue dans la description.",
+              "Soirée, mariage et bureau, selon la boutique. Note 4,88, avec 80 avis."
+            ],
+            [
+              "[Robe longue ADYCE, sequins, épaules dénudées, fente (bleu marine)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+              "95 % polyester et 5 % élasthanne. Doublée, non transparente, longue, avec fente.",
+              "Fête, tenue habillée et soirée, selon la boutique. Note 4,89, avec plus de 1 000 avis."
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+            "alt": "Mannequin en robe bleu poussiéreux à une épaule, avec froncés à la taille, devant un mur gris",
+            "caption": "Photo officielle de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+            "alt": "Mannequin en robe bleu marine à manches courtes et décolleté carré, devant un mur couvert de lierre",
+            "caption": "Photo officielle de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+            "alt": "Mannequin en longue robe bleu marine à sequins et fente, sur un sol en marbre",
+            "caption": "Photo officielle de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Robe longue Firerie",
+              "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+              "howTo": "L'épaule dénudée attire déjà le regard : petites boucles d'oreilles et cheveux relevés.",
+              "occasion": "Mariage, selon la boutique.",
+              "pairsWith": [
+                {
+                  "label": "sandales à talon fin"
+                },
+                {
+                  "label": "petite pochette"
+                },
+                {
+                  "label": "petites boucles d'oreilles"
+                }
+              ]
+            },
+            {
+              "piece": "Robe courte Via Vilarinho",
+              "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+              "howTo": "La coupe tailleur appelle des chaussures fermées et un sac structuré ; avec un blazer, elle va au bureau.",
+              "occasion": "Soirée, mariage et bureau, selon la boutique.",
+              "pairsWith": [
+                {
+                  "label": "escarpins"
+                },
+                {
+                  "label": "sac structuré"
+                },
+                {
+                  "label": "blazer"
+                }
+              ]
+            },
+            {
+              "piece": "Robe longue ADYCE",
+              "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+              "howTo": "Les sequins et la fente attirent déjà l'attention : accessoire discret et sandales à fines brides.",
+              "occasion": "Soirée habillée, selon la boutique.",
+              "pairsWith": [
+                {
+                  "label": "sandales à fines brides"
+                },
+                {
+                  "label": "petite pochette"
+                },
+                {
+                  "label": "châle léger"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
         "heading": "Taille : utilisez les mesures du vêtement",
         "paragraphs": [
-          "SHEIN publie un guide des tailles pour chaque produit, en centimètres et en pouces, avec la façon de mesurer. Il n'existe pas de tableau unique de PP à GG : utilisez le guide de la robe choisie. Pour les grandes tailles, la méthode est la même : comparez les mesures du vêtement aux vôtres, pas le chiffre de l'étiquette."
+          "SHEIN publie un guide des tailles pour chaque produit, en centimètres et en pouces, avec la façon de mesurer. Il n'existe pas de tableau des tailles unique : utilisez le guide de la robe choisie. Pour les grandes tailles, la méthode est la même : comparez les mesures du vêtement aux vôtres, pas le chiffre de l'étiquette."
         ],
         "images": [
           {
@@ -170701,20 +175265,61 @@ export const reviewsData: unknown[] = [
             "alt": "Mannequin de dos en robe bleu marine à manches courtes et longueur midi",
             "caption": "Photo officielle de SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7792
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+            "alt": "Mannequin de dos en longue robe bleu poussiéreux à une épaule, devant un mur gris",
+            "caption": "Photo officielle de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
-        "heading": "Livraison et retours",
+        "heading": "Délai : ajoutez la date de la fête",
         "paragraphs": [
-          "Les délais et les retours dépendent du vendeur, de la destination et de la commande. La page de la boutique indique les règles en vigueur, et le récapitulatif de commande affiche la date de livraison avant le paiement."
+          "Les commandes sont traitées en 3 à 5 jours avant l'envoi. Ajoutez ce délai à l'estimation de livraison affichée sur la page de la commande. Si le total dépasse la date de la fête, cette robe n'est pas le bon achat pour cette date."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+            "alt": "Mannequin qui se regarde dans le miroir, en longue robe bleu marine à sequins avec traîne",
+            "caption": "Photo officielle de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ]
+      },
+      {
+        "heading": "Taxes : vérifiez le récapitulatif",
+        "paragraphs": [
+          "Les taxes à l'importation dépendent du pays de livraison et de la valeur de la commande. Le récapitulatif de commande affiche le montant avant le paiement."
+        ]
+      },
+      {
+        "heading": "Retours et échanges",
+        "paragraphs": [
+          "La page de la boutique indique les règles de retour de chaque vendeur. Pour changer de taille, renvoyez l'article et passez une nouvelle commande."
         ]
       },
       {
         "heading": "Avant de payer",
         "paragraphs": [
-          "Les taxes et les frais de port dépendent de la commande et du pays : vérifiez-les dans le récapitulatif avant de payer. Le code 4CW5Y est le code de parrainage de SHEIN Brésil, pas un coupon : il se recherche dans l'application et ne donne pas de remise. Son fonctionnement est expliqué dans [le guide du code de parrainage](/fr/reviews/code-de-parrainage-shein-ou-le-mettre), et les campagnes en cours sont sur [la page SHEIN](/fr/coupons/shein)."
+          "Vérifiez la date de livraison et le récapitulatif avant de payer, et gardez la confirmation de commande. Le code 4CW5Y est le code de parrainage de SHEIN Brésil, pas un coupon : il se recherche dans l'application et ne donne pas de remise. Son fonctionnement est expliqué dans [le guide du code de parrainage](/fr/reviews/code-de-parrainage-shein-ou-le-mettre), et les campagnes en cours sont sur [la page SHEIN](/fr/coupons/shein)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+            "alt": "Mannequin en longue robe bleu marine à sequins dans un couloir avec un tapis",
+            "caption": "Photo officielle de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
         ]
       },
       {
@@ -170801,9 +175406,63 @@ export const reviewsData: unknown[] = [
             "alt": "Model in einem langen marineblauen Paillettenkleid mit Seitenschlitz, im Freien",
             "caption": "Offizielles Foto von SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Fest zum Jahresende",
+              "howTo": "Beim Weihnachtsessen ein Midi aus leichtem Stoff; an Silvester lang oder kurz, mit Glanz, wenn die Feier abends ist.",
+              "occasion": "Weihnachtsessen und Silvesterparty.",
+              "pairsWith": [
+                {
+                  "label": "Riemchensandalen"
+                },
+                {
+                  "label": "kleine Tasche"
+                },
+                {
+                  "label": "leichter Schal"
+                }
+              ]
+            },
+            {
+              "piece": "Abschlussfeier",
+              "howTo": "Abends ein langes oder Midi-Kleid mit Riemchensandalen; tagsüber ein kurzes oder Midi-Kleid mit geschlossenen Schuhen.",
+              "occasion": "Zeremonie und Ball; die Einladung nennt den Dresscode.",
+              "pairsWith": [
+                {
+                  "label": "Riemchensandalen"
+                },
+                {
+                  "label": "Clutch"
+                },
+                {
+                  "label": "mittelgroße Ohrringe"
+                }
+              ]
+            },
+            {
+              "piece": "Hochzeitsgast",
+              "howTo": "Tagsüber leichter Stoff mit geschlossenen Schuhen oder flacher Sandale; abends lang mit Absatz. Weiß bleibt der Braut vorbehalten.",
+              "occasion": "Zeremonie in Kirche oder Saal, tagsüber oder abends.",
+              "pairsWith": [
+                {
+                  "label": "Pumps mit mittlerem Absatz"
+                },
+                {
+                  "label": "strukturierte Tasche"
+                },
+                {
+                  "label": "leichte Jacke"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Die Produktbeschreibung lesen",
@@ -170822,14 +175481,128 @@ export const reviewsData: unknown[] = [
             "alt": "Model im Profil in einem staubblauen Kleid mit einer Schulter und Tüllrock",
             "caption": "Offizielles Foto von SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
+        "heading": "Drei Kleider, auf SHEIN gelesen",
+        "paragraphs": [
+          "Niemand aus dem Team hat diese Kleider getragen. Stoff, Länge und Bewertung stammen von den Produktseiten. Prüfen Sie vor dem Kauf Preis und Lieferschätzung auf der Shop-Seite."
+        ],
+        "comparisonTable": {
+          "caption": "Drei Kleider von SHEIN, mit den Angaben der Seite jedes Produkts.",
+          "headers": [
+            "Kleid",
+            "Stoff und Futter",
+            "Anlass und Bewertung"
+          ],
+          "rows": [
+            [
+              "[Langes Firerie-Kleid, eine Schulter, Tüll (staubblau)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+              "95 % Polyester und 5 % Elasthan. Gefüttert, nicht durchsichtig, maxi.",
+              "Hochzeit, laut Shop. Bewertung 4,84, mit über 1.000 Kommentaren."
+            ],
+            [
+              "[Kurzes Via-Vilarinho-Kleid, im Tailoring-Stil, eckiger Ausschnitt (marineblau)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+              "95 % Polyester und 5 % Elasthan. Futter nur im oberen Teil. Im Titel kurz, in der Beschreibung midi.",
+              "Abend, Hochzeit und Büro, laut Shop. Bewertung 4,88, mit 80 Kommentaren."
+            ],
+            [
+              "[Langes ADYCE-Kleid, Pailletten, schulterfrei, Schlitz (marineblau)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+              "95 % Polyester und 5 % Elasthan. Gefüttert, nicht durchsichtig, lang, mit Schlitz.",
+              "Party, formell und abends, laut Shop. Bewertung 4,89, mit über 1.000 Kommentaren."
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+            "alt": "Model in einem staubblauen Kleid mit einer Schulter und Raffungen an der Taille, vor einer grauen Wand",
+            "caption": "Offizielles Foto von SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+            "alt": "Model in einem marineblauen Kleid mit kurzen Ärmeln und eckigem Ausschnitt, vor einer efeubewachsenen Mauer",
+            "caption": "Offizielles Foto von SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+            "alt": "Model in einem langen marineblauen Paillettenkleid mit Schlitz, auf einem Marmorboden",
+            "caption": "Offizielles Foto von SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Langes Firerie-Kleid",
+              "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+              "howTo": "Die freie Schulter ist schon das Highlight: kleine Ohrringe und hochgesteckte Haare.",
+              "occasion": "Hochzeit, laut Shop.",
+              "pairsWith": [
+                {
+                  "label": "Sandalette mit schmalem Absatz"
+                },
+                {
+                  "label": "kleine Clutch"
+                },
+                {
+                  "label": "kleine Ohrringe"
+                }
+              ]
+            },
+            {
+              "piece": "Kurzes Via-Vilarinho-Kleid",
+              "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+              "howTo": "Der Schnitt verlangt geschlossene Schuhe und eine strukturierte Tasche; mit Blazer passt es ins Büro.",
+              "occasion": "Abend, Hochzeit und Büro, laut Shop.",
+              "pairsWith": [
+                {
+                  "label": "Pumps"
+                },
+                {
+                  "label": "strukturierte Tasche"
+                },
+                {
+                  "label": "Blazer"
+                }
+              ]
+            },
+            {
+              "piece": "Langes ADYCE-Kleid",
+              "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+              "howTo": "Pailletten und Schlitz ziehen schon Blicke an: dezentes Accessoire und Riemchensandalen.",
+              "occasion": "Formelle Abendfeier, laut Shop.",
+              "pairsWith": [
+                {
+                  "label": "Riemchensandalen"
+                },
+                {
+                  "label": "kleine Clutch"
+                },
+                {
+                  "label": "leichter Schal"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
         "heading": "Größe: Nehmen Sie die Maße des Kleides",
         "paragraphs": [
-          "SHEIN veröffentlicht für jedes Produkt eine Größentabelle in Zentimetern und Zoll, mit Anleitung zum Messen. Es gibt keine einheitliche Tabelle von PP bis GG, also nehmen Sie die Tabelle des gewählten Kleides. Für Plus Size gilt dieselbe Methode: Vergleichen Sie die Maße des Kleides mit Ihren, nicht die Zahl auf dem Etikett."
+          "SHEIN veröffentlicht für jedes Produkt eine Größentabelle in Zentimetern und Zoll, mit Anleitung zum Messen. Es gibt keine einheitliche Größentabelle, also nehmen Sie die Tabelle des gewählten Kleides. Für Plus Size gilt dieselbe Methode: Vergleichen Sie die Maße des Kleides mit Ihren, nicht die Zahl auf dem Etikett."
         ],
         "images": [
           {
@@ -170837,20 +175610,61 @@ export const reviewsData: unknown[] = [
             "alt": "Model von hinten in einem marineblauen Kleid mit kurzen Ärmeln und Midilänge",
             "caption": "Offizielles Foto von SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7792
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+            "alt": "Model von hinten in einem langen staubblauen Kleid mit einer Schulter, vor einer grauen Wand",
+            "caption": "Offizielles Foto von SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
-        "heading": "Lieferung und Rückgabe",
+        "heading": "Lieferzeit: das Datum der Feier einrechnen",
         "paragraphs": [
-          "Liefer- und Rückgabefristen hängen von Verkäufer, Zielland und Bestellung ab. Die aktuellen Regeln stehen auf der Shopseite, und die Bestellübersicht zeigt das Lieferdatum vor der Zahlung. Für eine andere Größe senden Sie das Kleid zurück und bestellen neu."
+          "Bestellungen brauchen 3 bis 5 Tage zur Bearbeitung vor dem Versand. Rechnen Sie diese Zeit zur Lieferschätzung auf der Bestellseite dazu. Liegt die Summe nach dem Datum der Feier, ist dieses Kleid für dieses Datum nicht die richtige Wahl."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+            "alt": "Model blickt in den Spiegel, im langen marineblauen Paillettenkleid mit Schleppe",
+            "caption": "Offizielles Foto von SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ]
+      },
+      {
+        "heading": "Steuern: Bestellübersicht prüfen",
+        "paragraphs": [
+          "Einfuhrsteuern hängen vom Land ab, in das bestellt wird, und vom Bestellwert. Die Bestellübersicht zeigt den Betrag vor der Zahlung."
+        ]
+      },
+      {
+        "heading": "Rücksendung und Umtausch",
+        "paragraphs": [
+          "Die Shop-Seite nennt die Rückgaberegeln jedes Verkäufers. Um die Größe zu ändern, schicken Sie den Artikel zurück und bestellen neu."
         ]
       },
       {
         "heading": "Vor der Zahlung",
         "paragraphs": [
-          "Steuern und Versand hängen von Bestellung und Land ab; prüfen Sie beides in der Bestellübersicht. Der Code 4CW5Y ist der Empfehlungscode von SHEIN Brasilien, kein Gutschein: Er wird in der App gesucht und gibt keinen Rabatt. Wie er funktioniert, steht im [Ratgeber zum Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben), die aktuellen Aktionen stehen auf der [SHEIN-Seite](/de/coupons/shein)."
+          "Prüfen Sie Lieferdatum und Bestellübersicht vor der Zahlung und bewahren Sie die Bestellbestätigung auf. Der Code 4CW5Y ist der Empfehlungscode von SHEIN Brasilien, kein Gutschein: Er wird in der App gesucht und gibt keinen Rabatt. Wie er funktioniert, steht im [Ratgeber zum Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben), die aktuellen Aktionen stehen auf der [SHEIN-Seite](/de/coupons/shein)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+            "alt": "Model in einem langen marineblauen Paillettenkleid in einem Flur mit Läufer",
+            "caption": "Offizielles Foto von SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
         ]
       },
       {
@@ -170888,7 +175702,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-    "imageAlt": "Abiti da festa SHEIN blu notte e blu polvere, per Natale, Capodanno e una laurea",
+    "imageAlt": "Abiti da festa SHEIN blu navy e blu polvere, per Natale, Capodanno e una laurea",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -170934,12 +175748,66 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
-            "alt": "Modella con abito lungo blu notte con paillettes e spacco laterale, all'aperto",
+            "alt": "Modella con abito lungo blu navy con paillettes e spacco laterale, all'aperto",
             "caption": "Foto ufficiale di SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Festa di fine anno",
+              "howTo": "Alla cena di Natale, un midi di tessuto leggero; a Capodanno, lungo o corto, con brillantini se la festa è di sera.",
+              "occasion": "Cena di Natale e festa di Capodanno.",
+              "pairsWith": [
+                {
+                  "label": "sandalo con cinturino sottile"
+                },
+                {
+                  "label": "borsa piccola"
+                },
+                {
+                  "label": "scialle leggero"
+                }
+              ]
+            },
+            {
+              "piece": "Laurea",
+              "howTo": "La sera, lungo o midi con sandalo con cinturino sottile; di giorno, corto o midi con scarpa chiusa.",
+              "occasion": "Cerimonia e ballo; l'invito indica il dress code.",
+              "pairsWith": [
+                {
+                  "label": "sandalo con cinturino sottile"
+                },
+                {
+                  "label": "pochette"
+                },
+                {
+                  "label": "orecchini medi"
+                }
+              ]
+            },
+            {
+              "piece": "Invitata a un matrimonio",
+              "howTo": "Di giorno, tessuto leggero con scarpa chiusa o sandalo basso; la sera, lungo con tacco. Il bianco è della sposa.",
+              "occasion": "Cerimonia in chiesa o in sala, di giorno o di sera.",
+              "pairsWith": [
+                {
+                  "label": "décolleté con tacco medio"
+                },
+                {
+                  "label": "borsa strutturata"
+                },
+                {
+                  "label": "giacca leggera"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Come leggere la descrizione del prodotto",
@@ -170958,35 +175826,190 @@ export const reviewsData: unknown[] = [
             "alt": "Modella di profilo con abito blu polvere monospalla e gonna in tulle",
             "caption": "Foto ufficiale di SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
+      },
+      {
+        "heading": "Tre abiti letti su SHEIN",
+        "paragraphs": [
+          "Nessuno del team ha indossato questi abiti. Tessuto, lunghezza e voto vengono dalle pagine dei prodotti. Prima di comprare, controlla il prezzo e la stima di consegna sulla pagina del negozio."
+        ],
+        "comparisonTable": {
+          "caption": "Tre abiti SHEIN, con i dati della pagina di ogni prodotto.",
+          "headers": [
+            "Abito",
+            "Tessuto e fodera",
+            "Occasione e voto"
+          ],
+          "rows": [
+            [
+              "[Abito lungo Firerie, una spalla, tulle (blu polvere)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+              "95% poliestere e 5% elastan. Foderato, non trasparente, maxi.",
+              "Matrimonio, secondo il negozio. Voto 4,84, con oltre 1.000 recensioni."
+            ],
+            [
+              "[Abito corto Via Vilarinho, sartoriale, scollo quadrato (blu navy)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+              "95% poliestere e 5% elastan. Fodera solo nella parte alta. Corto nel titolo, midi nella descrizione.",
+              "Serata, matrimonio e ufficio, secondo il negozio. Voto 4,88, con 80 recensioni."
+            ],
+            [
+              "[Abito lungo ADYCE, paillettes, spalle scoperte, spacco (blu navy)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+              "95% poliestere e 5% elastan. Foderato, non trasparente, lungo, con spacco.",
+              "Festa, formale e serale, secondo il negozio. Voto 4,89, con oltre 1.000 recensioni."
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+            "alt": "Modella con abito blu polvere a una spalla, con arricciature in vita, davanti a un muro grigio",
+            "caption": "Foto ufficiale di SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+            "alt": "Modella con abito blu navy a maniche corte e scollo quadrato, davanti a un muro coperto di edera",
+            "caption": "Foto ufficiale di SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+            "alt": "Modella con abito lungo blu navy di paillettes con spacco, su un pavimento di marmo",
+            "caption": "Foto ufficiale di SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Abito lungo Firerie",
+              "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+              "howTo": "La spalla scoperta è già il punto forte: orecchini piccoli e capelli raccolti.",
+              "occasion": "Matrimonio, secondo il negozio.",
+              "pairsWith": [
+                {
+                  "label": "sandalo con tacco sottile"
+                },
+                {
+                  "label": "pochette piccola"
+                },
+                {
+                  "label": "orecchini piccoli"
+                }
+              ]
+            },
+            {
+              "piece": "Abito corto Via Vilarinho",
+              "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+              "howTo": "Il taglio sartoriale chiede scarpa chiusa e borsa strutturata; con il blazer va in ufficio.",
+              "occasion": "Serata, matrimonio e ufficio, secondo il negozio.",
+              "pairsWith": [
+                {
+                  "label": "décolleté"
+                },
+                {
+                  "label": "borsa strutturata"
+                },
+                {
+                  "label": "blazer"
+                }
+              ]
+            },
+            {
+              "piece": "Abito lungo ADYCE",
+              "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+              "howTo": "Paillettes e spacco attirano già lo sguardo: accessorio discreto e sandalo con cinturino sottile.",
+              "occasion": "Festa formale serale, secondo il negozio.",
+              "pairsWith": [
+                {
+                  "label": "sandalo con cinturino sottile"
+                },
+                {
+                  "label": "pochette piccola"
+                },
+                {
+                  "label": "scialle leggero"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Taglia: usa le misure del capo",
         "paragraphs": [
-          "SHEIN pubblica una guida alle taglie per ogni prodotto, in centimetri e pollici, con le istruzioni per misurarsi. Non esiste una tabella unica da PP a GG: usa quella dell'abito scelto. Per le taglie curvy il metodo è lo stesso: confronta le misure del capo con le tue, non il numero sull'etichetta."
+          "SHEIN pubblica una guida alle taglie per ogni prodotto, in centimetri e pollici, con le istruzioni per misurarsi. Non esiste una tabella taglie unica: usa quella dell'abito scelto. Per le taglie curvy il metodo è lo stesso: confronta le misure del capo con le tue, non il numero sull'etichetta."
         ],
         "images": [
           {
             "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
-            "alt": "Modella di spalle in abito blu notte a maniche corte e lunghezza media",
+            "alt": "Modella di spalle in abito blu navy a maniche corte e lunghezza media",
             "caption": "Foto ufficiale di SHEIN.",
             "objectFit": "contain",
-            "aspectRatio": 0.7792
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+            "alt": "Modella di spalle con abito lungo blu polvere a una spalla, davanti a un muro grigio",
+            "caption": "Foto ufficiale di SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
-        "heading": "Consegna e resi",
+        "heading": "Tempi: somma la data della festa",
         "paragraphs": [
-          "Tempi e resi dipendono dal venditore, dalla destinazione e dall'ordine. Le regole aggiornate sono nella pagina del negozio, e il riepilogo dell'ordine mostra la data di consegna prima del pagamento."
+          "Gli ordini richiedono da 3 a 5 giorni di lavorazione prima della spedizione. Somma questo tempo alla stima di consegna nella pagina dell'ordine. Se la somma supera la data della festa, questo abito non è l'acquisto giusto per quella data."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+            "alt": "Modella che si guarda allo specchio, con abito lungo blu navy di paillettes e strascico",
+            "caption": "Foto ufficiale di SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ]
+      },
+      {
+        "heading": "Tasse: controlla il riepilogo dell'ordine",
+        "paragraphs": [
+          "Le tasse d'importazione dipendono dal Paese di arrivo dell'ordine e dal valore dell'acquisto. Il riepilogo dell'ordine mostra l'importo prima del pagamento."
+        ]
+      },
+      {
+        "heading": "Resi e cambi",
+        "paragraphs": [
+          "La pagina del negozio indica le regole di reso di ogni venditore. Per cambiare taglia, restituisci il capo e fai un nuovo ordine."
         ]
       },
       {
         "heading": "Prima di pagare",
         "paragraphs": [
-          "Tasse e spedizione dipendono dall'ordine e dal paese: controllale nel riepilogo prima di pagare. Il codice 4CW5Y è il codice invito di SHEIN Brasile, non un coupon: si cerca nell'app e non dà sconti. Come funziona è spiegato nella [guida al codice invito](/it/reviews/codice-invito-shein-dove-inserirlo), e le campagne in corso sono nella [pagina di SHEIN](/it/coupons/shein)."
+          "Controlla la data di consegna e il riepilogo prima di pagare, e conserva la conferma dell'ordine. Il codice 4CW5Y è il codice invito di SHEIN Brasile, non un coupon: si cerca nell'app e non dà sconti. Come funziona è spiegato nella [guida al codice invito](/it/reviews/codice-invito-shein-dove-inserirlo), e le campagne in corso sono nella [pagina di SHEIN](/it/coupons/shein)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+            "alt": "Modella con abito lungo blu navy di paillettes in un corridoio con tappeto",
+            "caption": "Foto ufficiale di SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
         ]
       },
       {
@@ -171073,9 +176096,63 @@ export const reviewsData: unknown[] = [
             "alt": "야외에서 사이드 슬릿이 있는 네이비 시퀸 롱 드레스를 입은 모델",
             "caption": "SHEIN 공식 사진.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "연말 파티",
+              "howTo": "크리스마스 식사에는 가벼운 소재의 미디. 연말에는 저녁 파티라면 광택 있는 롱이나 숏.",
+              "occasion": "크리스마스 식사와 연말 파티.",
+              "pairsWith": [
+                {
+                  "label": "가느다란 스트랩 샌들"
+                },
+                {
+                  "label": "작은 백"
+                },
+                {
+                  "label": "얇은 숄"
+                }
+              ]
+            },
+            {
+              "piece": "졸업식",
+              "howTo": "저녁이면 롱이나 미디에 가느다란 스트랩 샌들. 낮이면 숏이나 미디에 앞이 막힌 구두.",
+              "occasion": "졸업식과 파티. 초대장에 드레스 코드가 적혀 있습니다.",
+              "pairsWith": [
+                {
+                  "label": "가느다란 스트랩 샌들"
+                },
+                {
+                  "label": "클러치"
+                },
+                {
+                  "label": "중간 크기 귀걸이"
+                }
+              ]
+            },
+            {
+              "piece": "결혼식 하객",
+              "howTo": "낮에는 가벼운 소재에 앞이 막힌 구두나 플랫 샌들. 저녁에는 힐이 있는 롱. 흰색은 신부의 몫입니다.",
+              "occasion": "교회나 웨딩홀에서 열리는 식, 낮이든 밤이든.",
+              "pairsWith": [
+                {
+                  "label": "중간 굽 펌프스"
+                },
+                {
+                  "label": "구조감 있는 백"
+                },
+                {
+                  "label": "얇은 재킷"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "상품 설명 읽는 법",
@@ -171083,7 +176160,7 @@ export const reviewsData: unknown[] = [
           "설명은 사진보다 많은 것을 알려 줍니다. 다음을 보세요."
         ],
         "bullets": [
-          "**소재:** 폴리에스터와 엘라스틴 혼방이 이런 드레스에 많습니다. 이름보다 성분 비율을 보세요.",
+          "**소재:** 폴리에스터와 스판덱스 혼방이 이런 드레스에 많습니다. 이름보다 성분 비율을 보세요.",
           "**안감과 비침:** 안감이 없으면 속옷 색이 비칠 수 있습니다.",
           "**길이:** 미디, 롱, 숏은 느낌이 다릅니다. 제목과 설명이 항상 같지는 않으니 센티미터 치수를 확인하세요.",
           "**세탁:** 세탁기, 손세탁, 드라이클리닝 중 무엇인지 설명에 나옵니다."
@@ -171094,14 +176171,128 @@ export const reviewsData: unknown[] = [
             "alt": "프로필 자세로 더스티 블루 원숄더 드레스와 메쉬 스커트를 입은 모델",
             "caption": "SHEIN 공식 사진.",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
+        "heading": "SHEIN에서 읽은 드레스 세 벌",
+        "paragraphs": [
+          "팀원 중에는 이 드레스를 입어본 사람이 없습니다. 원단, 길이, 평점은 상품 페이지에서 가져왔습니다. 구매 전에 상점 페이지에서 가격과 배송 예상일을 다시 확인하세요."
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN 드레스 세 벌, 각 상품 페이지의 정보를 바탕으로 했습니다.",
+          "headers": [
+            "드레스",
+            "원단과 안감",
+            "용도와 평점"
+          ],
+          "rows": [
+            [
+              "[Firerie 롱드레스, 한쪽 어깨, 튈 소재 (더스티 블루)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+              "폴리에스터 95%, 스판덱스 5%. 안감 있음, 비침 없음, 맥시 길이.",
+              "웨딩 (상점 기준). 평점 4.84, 리뷰 1,000개 이상."
+            ],
+            [
+              "[Via Vilarinho 숏드레스, 테일러드, 스퀘어 넥 (네이비)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+              "폴리에스터 95%, 스판덱스 5%. 안감은 상의에만. 제목은 숏, 설명은 미디.",
+              "저녁 모임, 웨딩, 출근 (상점 기준). 평점 4.88, 리뷰 80개."
+            ],
+            [
+              "[ADYCE 롱드레스, 시퀸, 오프숄더, 슬릿 (네이비)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+              "폴리에스터 95%, 스판덱스 5%. 안감 있음, 비침 없음, 롱, 슬릿 있음.",
+              "파티, 포멀, 저녁 행사 (상점 기준). 평점 4.89, 리뷰 1,000개 이상."
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+            "alt": "한쪽 어깨 더스티 블루 드레스를 입은 모델, 허리에 주름이 있고 회색 벽 앞",
+            "caption": "SHEIN 공식 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+            "alt": "네이비 반소매 스퀘어 넥 드레스를 입은 모델, 담쟁이가 덮인 벽 앞",
+            "caption": "SHEIN 공식 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+            "alt": "네이비 시퀸 롱드레스에 슬릿이 있는 모델, 대리석 바닥 위",
+            "caption": "SHEIN 공식 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Firerie 롱드레스",
+              "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+              "howTo": "한쪽 어깨가 드러나 그 자체로 포인트. 작은 귀걸이와 머리를 올리면 충분합니다.",
+              "occasion": "웨딩 (상점 기준).",
+              "pairsWith": [
+                {
+                  "label": "가는 굽 샌들"
+                },
+                {
+                  "label": "작은 클러치"
+                },
+                {
+                  "label": "작은 귀걸이"
+                }
+              ]
+            },
+            {
+              "piece": "Via Vilarinho 숏드레스",
+              "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+              "howTo": "테일러드라서 앞이 막힌 구두와 구조감 있는 백이 어울립니다. 블레이저를 더하면 출근용으로도.",
+              "occasion": "저녁 모임, 웨딩, 출근 (상점 기준).",
+              "pairsWith": [
+                {
+                  "label": "펌프스"
+                },
+                {
+                  "label": "구조감 있는 백"
+                },
+                {
+                  "label": "블레이저"
+                }
+              ]
+            },
+            {
+              "piece": "ADYCE 롱드레스",
+              "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+              "howTo": "시퀸과 슬릿이 이미 눈길을 끕니다. 액세서리는 절제하고 가느다란 스트랩 샌들을.",
+              "occasion": "포멀한 저녁 파티 (상점 기준).",
+              "pairsWith": [
+                {
+                  "label": "가느다란 스트랩 샌들"
+                },
+                {
+                  "label": "작은 클러치"
+                },
+                {
+                  "label": "얇은 숄"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
         "heading": "사이즈: 옷의 치수로 고르기",
         "paragraphs": [
-          "SHEIN은 상품마다 센티미터와 인치로 된 사이즈 가이드를 제공하고, 측정 방법도 안내합니다. PP부터 GG까지 하나의 표는 없으니 고른 드레스의 가이드를 보세요. 플러스 사이즈도 방법은 같습니다. 라벨의 숫자가 아니라 옷의 치수를 내 치수와 비교하세요."
+          "SHEIN은 상품마다 센티미터와 인치로 된 사이즈 가이드를 제공하고, 측정 방법도 안내합니다. 공통 사이즈표는 없으니 고른 드레스의 가이드를 보세요. 플러스 사이즈도 방법은 같습니다. 라벨의 숫자가 아니라 옷의 치수를 내 치수와 비교하세요."
         ],
         "images": [
           {
@@ -171109,20 +176300,61 @@ export const reviewsData: unknown[] = [
             "alt": "반소매의 네이비 미디 길이 드레스를 입고 뒤돌아선 모델",
             "caption": "SHEIN 공식 사진.",
             "objectFit": "contain",
-            "aspectRatio": 0.7792
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+            "alt": "한쪽 어깨 더스티 블루 롱드레스를 입고 뒤돌아선 모델, 회색 벽 앞",
+            "caption": "SHEIN 공식 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
-        "heading": "배송과 반품",
+        "heading": "배송 기간: 파티 날짜와 맞춰 보기",
         "paragraphs": [
-          "배송 기간과 반품 조건은 판매자, 배송지, 주문에 따라 다릅니다. 최신 규정은 상점 페이지에 있고, 주문 요약에서 결제 전에 배송 예상일을 볼 수 있습니다."
+          "주문은 발송 전에 3~5일의 처리 기간이 걸립니다. 그 기간을 주문 페이지에 나오는 배송 예상일에 더하세요. 합계가 파티 날짜를 넘는다면, 그 날짜에는 이 드레스가 맞지 않습니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+            "alt": "거울을 보는 모델, 네이비 시퀸 롱드레스와 트레인",
+            "caption": "SHEIN 공식 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ]
+      },
+      {
+        "heading": "세금: 주문 요약 확인",
+        "paragraphs": [
+          "수입 세금은 주문이 도착하는 국가와 주문 금액에 따라 달라집니다. 주문 요약에 결제 전 금액이 표시됩니다."
+        ]
+      },
+      {
+        "heading": "반품과 교환",
+        "paragraphs": [
+          "반품 규칙은 판매자마다 다르며 상점 페이지에 나와 있습니다. 사이즈를 바꾸려면 상품을 반송하고 새로 주문하세요."
         ]
       },
       {
         "heading": "결제 전에",
         "paragraphs": [
-          "세금과 배송비는 주문과 국가에 따라 다르니 결제 전에 주문 요약에서 확인하세요. 4CW5Y는 SHEIN 브라질의 추천 코드이며 쿠폰이 아닙니다. 앱에서 검색하며 할인을 주지 않습니다. 사용법은 [추천 코드 가이드](/ko/reviews/shein-referral-code-ko)에, 진행 중인 캠페인은 [SHEIN 상점 페이지](/ko/coupons/shein)에 있습니다."
+          "결제 전에 배송 예상일과 주문 요약을 확인하고, 주문 확인서를 보관하세요. 4CW5Y는 SHEIN 브라질의 추천 코드이며 쿠폰이 아닙니다. 앱에서 검색하며 할인을 주지 않습니다. 사용법은 [추천 코드 가이드](/ko/reviews/shein-referral-code-ko)에, 진행 중인 캠페인은 [SHEIN 상점 페이지](/ko/coupons/shein)에 있습니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+            "alt": "복도 러너 위에 선 네이비 시퀸 롱드레스 모델",
+            "caption": "SHEIN 공식 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
         ]
       },
       {
@@ -171209,9 +176441,63 @@ export const reviewsData: unknown[] = [
             "alt": "屋外で、サイドスリットのあるネイビーのスパンコールのロングドレスを着たモデル",
             "caption": "SHEIN 公式写真。",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "年末のパーティー",
+              "howTo": "クリスマスの食事なら、軽い素材のミディ。大晦日は、夜のパーティーならキラキラした素材のロングかショート。",
+              "occasion": "クリスマスの食事と大晦日のパーティー。",
+              "pairsWith": [
+                {
+                  "label": "細いストラップのサンダル"
+                },
+                {
+                  "label": "小さなバッグ"
+                },
+                {
+                  "label": "薄手のショール"
+                }
+              ]
+            },
+            {
+              "piece": "卒業式",
+              "howTo": "夜ならロングかミディに細いストラップのサンダル。昼ならショートかミディにクローズドトゥの靴。",
+              "occasion": "卒業式とパーティー。招待状にドレスコードがあります。",
+              "pairsWith": [
+                {
+                  "label": "細いストラップのサンダル"
+                },
+                {
+                  "label": "クラッチバッグ"
+                },
+                {
+                  "label": "中くらいのイヤリング"
+                }
+              ]
+            },
+            {
+              "piece": "結婚式のゲスト",
+              "howTo": "昼は軽い素材にクローズドトゥの靴かローヒールのサンダル。夜はロングにヒール。白は花嫁の色なので避けます。",
+              "occasion": "教会や会場での式、昼でも夜でも。",
+              "pairsWith": [
+                {
+                  "label": "中くらいのヒールのパンプス"
+                },
+                {
+                  "label": "かっちりしたバッグ"
+                },
+                {
+                  "label": "薄手のジャケット"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "商品説明の読み方",
@@ -171230,14 +176516,128 @@ export const reviewsData: unknown[] = [
             "alt": "横向きで、ダスティブルーのワンショルダーのドレスとメッシュのスカートを着たモデル",
             "caption": "SHEIN 公式写真。",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
+        "heading": "SHEIN で見た3着のドレス",
+        "paragraphs": [
+          "チームの誰もこれらのドレスは着ていません。生地、丈、評価は商品ページから取っています。購入前に、ストアのページで価格と配送の目安を確認してください。"
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN の3着のドレス。各商品ページの情報をもとにしています。",
+          "headers": [
+            "ドレス",
+            "生地と裏地",
+            "用途と評価"
+          ],
+          "rows": [
+            [
+              "[Firerie ロングドレス、片肩、チュール（ダスティブルー）](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+              "ポリエステル95%、ポリウレタン5%。裏地あり、透けない、マキシ丈。",
+              "ウェディング（ストアによる）。評価4.84、1,000件超のレビュー。"
+            ],
+            [
+              "[Via Vilarinho ショートドレス、テーラード、スクエアネック（ネイビー）](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+              "ポリエステル95%、ポリウレタン5%。裏地は上半身のみ。タイトルではショート、説明ではミディ。",
+              "夜の会、ウェディング、オフィス（ストアによる）。評価4.88、80件のレビュー。"
+            ],
+            [
+              "[ADYCE ロングドレス、スパンコール、オフショルダー、スリット（ネイビー）](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+              "ポリエステル95%、ポリウレタン5%。裏地あり、透けない、ロング、スリットあり。",
+              "パーティー、フォーマル、夜の会（ストアによる）。評価4.89、1,000件超のレビュー。"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+            "alt": "片肩のダスティブルーのドレスを着たモデル。ウエストにギャザーがあり、グレーの壁の前",
+            "caption": "SHEIN 公式写真。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+            "alt": "ネイビーの半袖スクエアネックのドレスを着たモデル。ツタの壁の前",
+            "caption": "SHEIN 公式写真。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+            "alt": "ネイビーのスパンコールのロングドレスを着たモデル。スリットがあり、大理石の床の上",
+            "caption": "SHEIN 公式写真。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Firerie ロングドレス",
+              "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+              "howTo": "片肩を出したデザインがすでに見どころ。小さめのイヤリングと、髪はアップに。",
+              "occasion": "ウェディング（ストアによる）。",
+              "pairsWith": [
+                {
+                  "label": "細いヒールのサンダル"
+                },
+                {
+                  "label": "小さなクラッチ"
+                },
+                {
+                  "label": "小さめのイヤリング"
+                }
+              ]
+            },
+            {
+              "piece": "Via Vilarinho ショートドレス",
+              "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+              "howTo": "テーラードなのでクローズドトゥの靴とかっちりしたバッグを。ブレザーを合わせればオフィスにも。",
+              "occasion": "夜の会、ウェディング、オフィス（ストアによる）。",
+              "pairsWith": [
+                {
+                  "label": "パンプス"
+                },
+                {
+                  "label": "かっちりしたバッグ"
+                },
+                {
+                  "label": "ブレザー"
+                }
+              ]
+            },
+            {
+              "piece": "ADYCE ロングドレス",
+              "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+              "howTo": "スパンコールとスリットで目を引くので、アクセサリーは控えめに。細いストラップのサンダルを。",
+              "occasion": "フォーマルなパーティー（ストアによる）。",
+              "pairsWith": [
+                {
+                  "label": "細いストラップのサンダル"
+                },
+                {
+                  "label": "小さなクラッチ"
+                },
+                {
+                  "label": "薄手のショール"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
         "heading": "サイズ：服の寸法で選ぶ",
         "paragraphs": [
-          "SHEIN は商品ごとに、センチメートルとインチで表記したサイズガイドを公開しています。測り方も載っています。PP から GG までの共通表はないので、選んだドレスのガイドを使ってください。大きいサイズも方法は同じです。タグの数字ではなく、服の寸法と自分の寸法を比べてください。"
+          "SHEIN は商品ごとに、センチメートルとインチで表記したサイズガイドを公開しています。測り方も載っています。共通のサイズ表はないので、選んだドレスのガイドを使ってください。大きいサイズも方法は同じです。タグの数字ではなく、服の寸法と自分の寸法を比べてください。"
         ],
         "images": [
           {
@@ -171245,20 +176645,61 @@ export const reviewsData: unknown[] = [
             "alt": "半袖のネイビーのミディ丈ドレスを着て後ろ姿のモデル",
             "caption": "SHEIN 公式写真。",
             "objectFit": "contain",
-            "aspectRatio": 0.7792
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+            "alt": "片肩のダスティブルーのロングドレスを着て、後ろを向いたモデル。グレーの壁の前",
+            "caption": "SHEIN 公式写真。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
-        "heading": "配送と返品",
+        "heading": "配送日数：パーティーの日付と照らし合わせる",
         "paragraphs": [
-          "配送期間と返品条件は、販売者、届け先、注文によって異なります。最新のルールはショップのページにあり、注文の概要で支払う前に配送予定日を確認できます。"
+          "注文は発送前に3〜5日の処理が必要です。その日数を、注文ページに出る配送の目安に足してください。合計が当日を過ぎるなら、そのドレスはその日の用途には合いません。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+            "alt": "鏡を見るモデル。ネイビーのスパンコールのロングドレスと、裾のトレーン",
+            "caption": "SHEIN 公式写真。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ]
+      },
+      {
+        "heading": "税金：注文の概要を確認",
+        "paragraphs": [
+          "輸入税は、注文の届け先の国と注文金額によって変わります。注文の概要に、支払い前の金額が表示されます。"
+        ]
+      },
+      {
+        "heading": "返品と交換",
+        "paragraphs": [
+          "返品のルールは販売者ごとに、ストアのページに書かれています。サイズを変えるなら、商品を返送して新しく注文してください。"
         ]
       },
       {
         "heading": "支払う前に",
         "paragraphs": [
-          "税金と送料は注文と国によって異なるので、支払う前に注文の概要で確認してください。4CW5Y は SHEIN ブラジルの紹介コードで、クーポンではありません。アプリで検索するもので、割引はありません。仕組みは [紹介コードのガイド](/ja/reviews/shein-referral-code-ja) で、現在のキャンペーンは [SHEIN のショップページ](/ja/coupons/shein) で確認できます。"
+          "支払う前に配送予定日と注文の概要を確認し、注文確認は保存しておいてください。4CW5Y は SHEIN ブラジルの紹介コードで、クーポンではありません。アプリで検索するもので、割引はありません。仕組みは [紹介コードのガイド](/ja/reviews/shein-referral-code-ja) で、現在のキャンペーンは [SHEIN のショップページ](/ja/coupons/shein) で確認できます。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+            "alt": "ラグの敷かれた廊下に立つ、ネイビーのスパンコールのロングドレスのモデル",
+            "caption": "SHEIN 公式写真。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
         ]
       },
       {
@@ -171345,9 +176786,63 @@ export const reviewsData: unknown[] = [
             "alt": "戶外穿著海軍藍亮片長洋裝、帶側開衩的模特",
             "caption": "SHEIN 官方圖片。",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "年末派對",
+              "howTo": "聖誕晚餐選輕薄布料的中長裙；跨年選長裙或短裙，晚上的派對可以帶點光澤。",
+              "occasion": "聖誕晚餐和跨年派對。",
+              "pairsWith": [
+                {
+                  "label": "細帶涼鞋"
+                },
+                {
+                  "label": "小手提包"
+                },
+                {
+                  "label": "輕薄披肩"
+                }
+              ]
+            },
+            {
+              "piece": "畢業典禮",
+              "howTo": "晚上穿長裙或中長裙配細帶涼鞋；白天穿短裙或中長裙配包頭鞋。",
+              "occasion": "典禮和舞會；請看邀請函上的服裝要求。",
+              "pairsWith": [
+                {
+                  "label": "細帶涼鞋"
+                },
+                {
+                  "label": "手拿包"
+                },
+                {
+                  "label": "中型耳環"
+                }
+              ]
+            },
+            {
+              "piece": "婚禮賓客",
+              "howTo": "白天選輕薄布料，配包頭鞋或低跟涼鞋；晚上穿長裙配高跟鞋。白色留給新娘。",
+              "occasion": "教堂或宴會廳的儀式，白天或晚上。",
+              "pairsWith": [
+                {
+                  "label": "中跟包頭鞋"
+                },
+                {
+                  "label": "結構感手提包"
+                },
+                {
+                  "label": "薄外套"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "讀懂商品描述",
@@ -171366,14 +176861,128 @@ export const reviewsData: unknown[] = [
             "alt": "側身站立，穿著灰藍色單肩洋裝與網紗裙襬的模特",
             "caption": "SHEIN 官方圖片。",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
+        "heading": "SHEIN 上的三件洋裝",
+        "paragraphs": [
+          "團隊裡沒有人穿過這些洋裝。布料、長度和評分來自各商品頁面。購買前，請在店家頁面再確認價格和配送預估。"
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN 三件洋裝，資料來自各商品頁面。",
+          "headers": [
+            "洋裝",
+            "布料和內裡",
+            "場合和評分"
+          ],
+          "rows": [
+            [
+              "[Firerie 長洋裝，單肩，網紗（霧藍色）](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+              "95% 聚酯纖維、5% 彈性纖維。有內裡，不透，長款。",
+              "婚禮，按店家說法。評分 4.84，超過 1,000 則評價。"
+            ],
+            [
+              "[Via Vilarinho 短洋裝，剪裁合身，方領（藏青色）](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+              "95% 聚酯纖維、5% 彈性纖維。內裡只在上身。標題寫短款，描述寫中長款。",
+              "晚宴、婚禮和辦公室，按店家說法。評分 4.88，80 則評價。"
+            ],
+            [
+              "[ADYCE 長洋裝，亮片，一字領，開衩（藏青色）](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+              "95% 聚酯纖維、5% 彈性纖維。有內裡，不透，長款，帶開衩。",
+              "派對、正式場合和夜間活動，按店家說法。評分 4.89，超過 1,000 則評價。"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+            "alt": "模特穿單肩霧藍色洋裝，腰部有抽褶，站在灰色牆前",
+            "caption": "SHEIN 官方圖片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+            "alt": "模特穿藏青色短袖方領洋裝，站在爬滿常春藤的牆前",
+            "caption": "SHEIN 官方圖片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+            "alt": "模特穿藏青色亮片長洋裝，帶開衩，站在大理石地面上",
+            "caption": "SHEIN 官方圖片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Firerie 長洋裝",
+              "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+              "howTo": "露出的肩膀本身就是亮點：配小耳環，頭髮挽起。",
+              "occasion": "婚禮，按店家說法。",
+              "pairsWith": [
+                {
+                  "label": "細跟涼鞋"
+                },
+                {
+                  "label": "小型手拿包"
+                },
+                {
+                  "label": "小耳環"
+                }
+              ]
+            },
+            {
+              "piece": "Via Vilarinho 短洋裝",
+              "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+              "howTo": "剪裁俐落，適合包頭鞋和結構感手提包；配西裝外套就能上班。",
+              "occasion": "晚宴、婚禮和辦公室，按店家說法。",
+              "pairsWith": [
+                {
+                  "label": "高跟鞋"
+                },
+                {
+                  "label": "結構感手提包"
+                },
+                {
+                  "label": "西裝外套"
+                }
+              ]
+            },
+            {
+              "piece": "ADYCE 長洋裝",
+              "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+              "howTo": "亮片和開衩已經夠醒目：配低調的飾品和細帶涼鞋。",
+              "occasion": "正式的晚間派對，按店家說法。",
+              "pairsWith": [
+                {
+                  "label": "細帶涼鞋"
+                },
+                {
+                  "label": "小型手拿包"
+                },
+                {
+                  "label": "輕薄披肩"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
         "heading": "尺碼：看衣服本身的尺寸",
         "paragraphs": [
-          "SHEIN 為每件商品提供尺碼表，單位有公分和英吋，並附測量方法。PP 到 GG 沒有統一的表，請使用所選洋裝的尺碼表。大尺碼的方法相同：比較衣服尺寸和自己的尺寸，不要只看標籤上的數字。"
+          "SHEIN 為每件商品提供尺碼表，單位有公分和英吋，並附測量方法。沒有統一的尺碼表，請使用所選洋裝的尺碼表。大尺碼的方法相同：比較衣服尺寸和自己的尺寸，不要只看標籤上的數字。"
         ],
         "images": [
           {
@@ -171381,20 +176990,61 @@ export const reviewsData: unknown[] = [
             "alt": "背對鏡頭，穿著海軍藍短袖中長洋裝的模特",
             "caption": "SHEIN 官方圖片。",
             "objectFit": "contain",
-            "aspectRatio": 0.7792
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+            "alt": "模特背對鏡頭，穿單肩霧藍色長洋裝，站在灰色牆前",
+            "caption": "SHEIN 官方圖片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
-        "heading": "配送與退貨",
+        "heading": "配送時間：算上派對日期",
         "paragraphs": [
-          "配送時間和退貨條件取決於賣家、收件地和訂單。最新規則在店家頁面，訂單摘要在付款前會顯示預計配送日期。"
+          "訂單出貨前需要 3 到 5 天的處理時間。把這段時間加到訂單頁面顯示的配送預估裡。如果加起來超過派對日期，這件洋裝就不適合那一天。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+            "alt": "模特對著鏡子，穿藏青色亮片長洋裝，裙襬拖地",
+            "caption": "SHEIN 官方圖片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ]
+      },
+      {
+        "heading": "稅費：看訂單摘要",
+        "paragraphs": [
+          "進口稅取決於訂單的收件國家和訂單金額。訂單摘要會在付款前顯示金額。"
+        ]
+      },
+      {
+        "heading": "退換貨",
+        "paragraphs": [
+          "每位賣家的退貨規則都寫在店家頁面上。要換尺寸，請退回商品並重新下單。"
         ]
       },
       {
         "heading": "付款前",
         "paragraphs": [
-          "稅費和運費取決於訂單和國家，請在付款前的訂單摘要中核對。4CW5Y 是 SHEIN 巴西站的推薦碼，不是優惠券。它要在應用程式中搜尋，也不提供折扣。使用方法見[推薦碼指南](/zh-hant/reviews/shein-referral-code-zh-hant)，目前活動見 [SHEIN 店家頁](/zh-hant/coupons/shein)。"
+          "付款前請核對配送預估和訂單摘要，並保存訂單確認。4CW5Y 是 SHEIN 巴西站的推薦碼，不是優惠券。它要在應用程式中搜尋，也不提供折扣。使用方法見[推薦碼指南](/zh-hant/reviews/shein-referral-code-zh-hant)，目前活動見 [SHEIN 店家頁](/zh-hant/coupons/shein)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+            "alt": "穿藏青色亮片長洋裝的模特，站在鋪著地毯的走廊裡",
+            "caption": "SHEIN 官方圖片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
         ]
       },
       {
@@ -171481,9 +177131,63 @@ export const reviewsData: unknown[] = [
             "alt": "户外穿着海军蓝亮片长裙、带侧开衩的模特",
             "caption": "SHEIN 官方图片。",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "年末派对",
+              "howTo": "圣诞晚餐选轻薄面料的中长裙；跨年选长裙或短裙，晚上的派对可以带点光泽。",
+              "occasion": "圣诞晚餐和跨年派对。",
+              "pairsWith": [
+                {
+                  "label": "细带凉鞋"
+                },
+                {
+                  "label": "小手包"
+                },
+                {
+                  "label": "轻薄披肩"
+                }
+              ]
+            },
+            {
+              "piece": "毕业典礼",
+              "howTo": "晚上穿长裙或中长裙配细带凉鞋；白天穿短裙或中长裙配包头鞋。",
+              "occasion": "典礼和舞会；请看请柬上的着装要求。",
+              "pairsWith": [
+                {
+                  "label": "细带凉鞋"
+                },
+                {
+                  "label": "手拿包"
+                },
+                {
+                  "label": "中等大小耳环"
+                }
+              ]
+            },
+            {
+              "piece": "婚礼宾客",
+              "howTo": "白天选轻薄面料，配包头鞋或低跟凉鞋；晚上穿长裙配高跟鞋。白色留给新娘。",
+              "occasion": "教堂或宴会厅的仪式，白天或晚上。",
+              "pairsWith": [
+                {
+                  "label": "中跟包头鞋"
+                },
+                {
+                  "label": "结构感手提包"
+                },
+                {
+                  "label": "薄外套"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "读懂商品描述",
@@ -171499,17 +177203,131 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
-            "alt": "侧身站立，穿着灰蓝色单肩连衣裙与网纱裙摆的模特",
+            "alt": "侧身站立，穿着雾蓝色单肩连衣裙与网纱裙摆的模特",
             "caption": "SHEIN 官方图片。",
             "objectFit": "contain",
-            "aspectRatio": 0.7506
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
+        "heading": "SHEIN 上的三条礼服裙",
+        "paragraphs": [
+          "团队里没有人穿过这些裙子。面料、长度和评分来自各商品页面。购买前，请在店铺页面再确认价格和配送预估。"
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN 三条连衣裙，数据来自各商品页面。",
+          "headers": [
+            "连衣裙",
+            "面料和里料",
+            "场合和评分"
+          ],
+          "rows": [
+            [
+              "[Firerie 长裙，单肩，网纱（雾蓝色）](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+              "95% 聚酯纤维、5% 氨纶。有里料，不透，长款。",
+              "婚礼，按店铺说法。评分 4.84，1000 多条评价。"
+            ],
+            [
+              "[Via Vilarinho 短款连衣裙，剪裁合体，方领（藏青色）](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+              "95% 聚酯纤维、5% 氨纶。里料只在上身。标题写短款，描述写中长款。",
+              "晚宴、婚礼和办公室，按店铺说法。评分 4.88，80 条评价。"
+            ],
+            [
+              "[ADYCE 长裙，亮片，一字肩，开衩（藏青色）](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+              "95% 聚酯纤维、5% 氨纶。有里料，不透，长款，带开衩。",
+              "派对、正式场合和夜间活动，按店铺说法。评分 4.89，1000 多条评价。"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+            "alt": "模特穿单肩雾蓝色连衣裙，腰部有褶皱，站在灰色墙前",
+            "caption": "SHEIN 官方图片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+            "alt": "模特穿藏青色短袖方领连衣裙，站在爬满常春藤的墙前",
+            "caption": "SHEIN 官方图片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+            "alt": "模特穿藏青色亮片长裙，带开衩，站在大理石地面上",
+            "caption": "SHEIN 官方图片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Firerie 长裙",
+              "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+              "howTo": "露出的肩膀本身就是亮点：配小耳环，头发挽起。",
+              "occasion": "婚礼，按店铺说法。",
+              "pairsWith": [
+                {
+                  "label": "细跟凉鞋"
+                },
+                {
+                  "label": "小号手拿包"
+                },
+                {
+                  "label": "小耳环"
+                }
+              ]
+            },
+            {
+              "piece": "Via Vilarinho 短款连衣裙",
+              "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+              "howTo": "剪裁利落，适合包头鞋和结构感手提包；配西装外套就能上班。",
+              "occasion": "晚宴、婚礼和办公室，按店铺说法。",
+              "pairsWith": [
+                {
+                  "label": "高跟鞋"
+                },
+                {
+                  "label": "结构感手提包"
+                },
+                {
+                  "label": "西装外套"
+                }
+              ]
+            },
+            {
+              "piece": "ADYCE 长裙",
+              "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+              "howTo": "亮片和开衩已经够醒目：配低调的饰品和细带凉鞋。",
+              "occasion": "正式的晚间派对，按店铺说法。",
+              "pairsWith": [
+                {
+                  "label": "细带凉鞋"
+                },
+                {
+                  "label": "小号手拿包"
+                },
+                {
+                  "label": "轻薄披肩"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
         "heading": "尺码：看衣服本身的尺寸",
         "paragraphs": [
-          "SHEIN 为每件商品提供尺码表，单位有厘米和英寸，并附有测量方法。PP 到 GG 没有统一的表，请使用所选裙装的尺码表。大码的方法相同：比较衣服的尺寸和自己的尺寸，不要只看标签上的数字。"
+          "SHEIN 为每件商品提供尺码表，单位有厘米和英寸，并附有测量方法。没有统一的尺码表，请使用所选裙装的尺码表。大码的方法相同：比较衣服的尺寸和自己的尺寸，不要只看标签上的数字。"
         ],
         "images": [
           {
@@ -171517,20 +177335,61 @@ export const reviewsData: unknown[] = [
             "alt": "背对镜头，穿着海军蓝短袖中长连衣裙的模特",
             "caption": "SHEIN 官方图片。",
             "objectFit": "contain",
-            "aspectRatio": 0.7792
+            "aspectRatio": 0.7792,
+            "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+            "alt": "模特背对镜头，穿单肩雾蓝色长裙，站在灰色墙前",
+            "caption": "SHEIN 官方图片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
           }
         ]
       },
       {
-        "heading": "配送与退货",
+        "heading": "配送时间：算上派对日期",
         "paragraphs": [
-          "配送时间和退货条件取决于卖家、收货地和订单。最新规则在店铺页面，订单摘要在付款前会显示预计配送日期。"
+          "订单发货前需要 3 到 5 天的处理时间。把这段时间加到订单页面显示的配送预估里。如果加起来超过派对日期，这条裙子就不适合那一天。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+            "alt": "模特对着镜子，穿藏青色亮片长裙，裙摆拖地",
+            "caption": "SHEIN 官方图片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
+        ]
+      },
+      {
+        "heading": "税费：看订单摘要",
+        "paragraphs": [
+          "进口税取决于订单的收货国家和订单金额。订单摘要会在付款前显示金额。"
+        ]
+      },
+      {
+        "heading": "退换货",
+        "paragraphs": [
+          "每位卖家的退货规则都写在店铺页面上。要换尺码，请退回商品并重新下单。"
         ]
       },
       {
         "heading": "付款前",
         "paragraphs": [
-          "税费和运费取决于订单和国家，请在付款前的订单摘要中核对。4CW5Y 是 SHEIN 巴西站的推荐码，不是优惠券。它要在应用里搜索，也不会提供折扣。使用方法见[推荐码指南](/zh-hans/reviews/shein-referral-code-zh-hans)，当前活动见 [SHEIN 店铺页](/zh-hans/coupons/shein)。"
+          "付款前请核对配送预估和订单摘要，并保存订单确认。4CW5Y 是 SHEIN 巴西站的推荐码，不是优惠券。它要在应用里搜索，也不会提供折扣。使用方法见[推荐码指南](/zh-hans/reviews/shein-referral-code-zh-hans)，当前活动见 [SHEIN 店铺页](/zh-hans/coupons/shein)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+            "alt": "穿藏青色亮片长裙的模特，站在铺着地毯的走廊里",
+            "caption": "SHEIN 官方图片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506,
+            "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+          }
         ]
       },
       {

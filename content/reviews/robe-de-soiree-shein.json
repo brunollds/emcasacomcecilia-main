@@ -72,9 +72,63 @@
           "alt": "Mannequin en robe longue bleu marine à sequins et fente latérale, en extérieur",
           "caption": "Photo officielle de SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Fête de fin d'année",
+            "howTo": "Au dîner de Noël, une mi-longue en tissu léger ; au réveillon, longue ou courte, avec de l'éclat si la fête a lieu le soir.",
+            "occasion": "Dîner de Noël et réveillon du Nouvel An.",
+            "pairsWith": [
+              {
+                "label": "sandales à fines brides"
+              },
+              {
+                "label": "petit sac"
+              },
+              {
+                "label": "châle léger"
+              }
+            ]
+          },
+          {
+            "piece": "Remise de diplôme",
+            "howTo": "Le soir, longue ou mi-longue avec des sandales à fines brides ; le jour, courte ou mi-longue avec des chaussures fermées.",
+            "occasion": "Cérémonie et bal ; l'invitation indique la tenue.",
+            "pairsWith": [
+              {
+                "label": "sandales à fines brides"
+              },
+              {
+                "label": "pochette"
+              },
+              {
+                "label": "boucles d'oreilles moyennes"
+              }
+            ]
+          },
+          {
+            "piece": "Invitée à un mariage",
+            "howTo": "Le jour, tissu léger avec des chaussures fermées ou des sandales plates ; le soir, longue avec des talons. Le blanc est réservé à la mariée.",
+            "occasion": "Cérémonie à l'église ou en salle, le jour ou le soir.",
+            "pairsWith": [
+              {
+                "label": "escarpins à talon moyen"
+              },
+              {
+                "label": "sac structuré"
+              },
+              {
+                "label": "veste légère"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Lire la description du produit",
@@ -93,14 +147,128 @@
           "alt": "Mannequin de profil en robe bleu poussiéreux à une épaule et jupe en tulle",
           "caption": "Photo officielle de SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
     {
+      "heading": "Trois robes lues sur SHEIN",
+      "paragraphs": [
+        "Personne dans l'équipe n'a porté ces robes. Le tissu, la longueur et la note viennent des pages des produits. Avant d'acheter, vérifiez le prix et le délai de livraison sur la page de la boutique."
+      ],
+      "comparisonTable": {
+        "caption": "Trois robes SHEIN, avec les données de la page de chaque produit.",
+        "headers": [
+          "Robe",
+          "Tissu et doublure",
+          "Occasion et note"
+        ],
+        "rows": [
+          [
+            "[Robe longue Firerie, une épaule, tulle (bleu poussiéreux)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+            "95 % polyester et 5 % élasthanne. Doublée, non transparente, maxi.",
+            "Mariage, selon la boutique. Note 4,84, avec plus de 1 000 avis."
+          ],
+          [
+            "[Robe courte Via Vilarinho, coupe tailleur, décolleté carré (bleu marine)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+            "95 % polyester et 5 % élasthanne. Doublure seulement sur le haut. Courte dans le titre, mi-longue dans la description.",
+            "Soirée, mariage et bureau, selon la boutique. Note 4,88, avec 80 avis."
+          ],
+          [
+            "[Robe longue ADYCE, sequins, épaules dénudées, fente (bleu marine)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+            "95 % polyester et 5 % élasthanne. Doublée, non transparente, longue, avec fente.",
+            "Fête, tenue habillée et soirée, selon la boutique. Note 4,89, avec plus de 1 000 avis."
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+          "alt": "Mannequin en robe bleu poussiéreux à une épaule, avec froncés à la taille, devant un mur gris",
+          "caption": "Photo officielle de SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+          "alt": "Mannequin en robe bleu marine à manches courtes et décolleté carré, devant un mur couvert de lierre",
+          "caption": "Photo officielle de SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+          "alt": "Mannequin en longue robe bleu marine à sequins et fente, sur un sol en marbre",
+          "caption": "Photo officielle de SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Robe longue Firerie",
+            "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+            "howTo": "L'épaule dénudée attire déjà le regard : petites boucles d'oreilles et cheveux relevés.",
+            "occasion": "Mariage, selon la boutique.",
+            "pairsWith": [
+              {
+                "label": "sandales à talon fin"
+              },
+              {
+                "label": "petite pochette"
+              },
+              {
+                "label": "petites boucles d'oreilles"
+              }
+            ]
+          },
+          {
+            "piece": "Robe courte Via Vilarinho",
+            "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+            "howTo": "La coupe tailleur appelle des chaussures fermées et un sac structuré ; avec un blazer, elle va au bureau.",
+            "occasion": "Soirée, mariage et bureau, selon la boutique.",
+            "pairsWith": [
+              {
+                "label": "escarpins"
+              },
+              {
+                "label": "sac structuré"
+              },
+              {
+                "label": "blazer"
+              }
+            ]
+          },
+          {
+            "piece": "Robe longue ADYCE",
+            "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+            "howTo": "Les sequins et la fente attirent déjà l'attention : accessoire discret et sandales à fines brides.",
+            "occasion": "Soirée habillée, selon la boutique.",
+            "pairsWith": [
+              {
+                "label": "sandales à fines brides"
+              },
+              {
+                "label": "petite pochette"
+              },
+              {
+                "label": "châle léger"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "heading": "Taille : utilisez les mesures du vêtement",
       "paragraphs": [
-        "SHEIN publie un guide des tailles pour chaque produit, en centimètres et en pouces, avec la façon de mesurer. Il n'existe pas de tableau unique de PP à GG : utilisez le guide de la robe choisie. Pour les grandes tailles, la méthode est la même : comparez les mesures du vêtement aux vôtres, pas le chiffre de l'étiquette."
+        "SHEIN publie un guide des tailles pour chaque produit, en centimètres et en pouces, avec la façon de mesurer. Il n'existe pas de tableau des tailles unique : utilisez le guide de la robe choisie. Pour les grandes tailles, la méthode est la même : comparez les mesures du vêtement aux vôtres, pas le chiffre de l'étiquette."
       ],
       "images": [
         {
@@ -108,20 +276,61 @@
           "alt": "Mannequin de dos en robe bleu marine à manches courtes et longueur midi",
           "caption": "Photo officielle de SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7792
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+          "alt": "Mannequin de dos en longue robe bleu poussiéreux à une épaule, devant un mur gris",
+          "caption": "Photo officielle de SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
     {
-      "heading": "Livraison et retours",
+      "heading": "Délai : ajoutez la date de la fête",
       "paragraphs": [
-        "Les délais et les retours dépendent du vendeur, de la destination et de la commande. La page de la boutique indique les règles en vigueur, et le récapitulatif de commande affiche la date de livraison avant le paiement."
+        "Les commandes sont traitées en 3 à 5 jours avant l'envoi. Ajoutez ce délai à l'estimation de livraison affichée sur la page de la commande. Si le total dépasse la date de la fête, cette robe n'est pas le bon achat pour cette date."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+          "alt": "Mannequin qui se regarde dans le miroir, en longue robe bleu marine à sequins avec traîne",
+          "caption": "Photo officielle de SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
+      ]
+    },
+    {
+      "heading": "Taxes : vérifiez le récapitulatif",
+      "paragraphs": [
+        "Les taxes à l'importation dépendent du pays de livraison et de la valeur de la commande. Le récapitulatif de commande affiche le montant avant le paiement."
+      ]
+    },
+    {
+      "heading": "Retours et échanges",
+      "paragraphs": [
+        "La page de la boutique indique les règles de retour de chaque vendeur. Pour changer de taille, renvoyez l'article et passez une nouvelle commande."
       ]
     },
     {
       "heading": "Avant de payer",
       "paragraphs": [
-        "Les taxes et les frais de port dépendent de la commande et du pays : vérifiez-les dans le récapitulatif avant de payer. Le code 4CW5Y est le code de parrainage de SHEIN Brésil, pas un coupon : il se recherche dans l'application et ne donne pas de remise. Son fonctionnement est expliqué dans [le guide du code de parrainage](/fr/reviews/code-de-parrainage-shein-ou-le-mettre), et les campagnes en cours sont sur [la page SHEIN](/fr/coupons/shein)."
+        "Vérifiez la date de livraison et le récapitulatif avant de payer, et gardez la confirmation de commande. Le code 4CW5Y est le code de parrainage de SHEIN Brésil, pas un coupon : il se recherche dans l'application et ne donne pas de remise. Son fonctionnement est expliqué dans [le guide du code de parrainage](/fr/reviews/code-de-parrainage-shein-ou-le-mettre), et les campagnes en cours sont sur [la page SHEIN](/fr/coupons/shein)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+          "alt": "Mannequin en longue robe bleu marine à sequins dans un couloir avec un tapis",
+          "caption": "Photo officielle de SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
       ]
     },
     {

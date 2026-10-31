@@ -72,9 +72,63 @@
           "alt": "戶外穿著海軍藍亮片長洋裝、帶側開衩的模特",
           "caption": "SHEIN 官方圖片。",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "年末派對",
+            "howTo": "聖誕晚餐選輕薄布料的中長裙；跨年選長裙或短裙，晚上的派對可以帶點光澤。",
+            "occasion": "聖誕晚餐和跨年派對。",
+            "pairsWith": [
+              {
+                "label": "細帶涼鞋"
+              },
+              {
+                "label": "小手提包"
+              },
+              {
+                "label": "輕薄披肩"
+              }
+            ]
+          },
+          {
+            "piece": "畢業典禮",
+            "howTo": "晚上穿長裙或中長裙配細帶涼鞋；白天穿短裙或中長裙配包頭鞋。",
+            "occasion": "典禮和舞會；請看邀請函上的服裝要求。",
+            "pairsWith": [
+              {
+                "label": "細帶涼鞋"
+              },
+              {
+                "label": "手拿包"
+              },
+              {
+                "label": "中型耳環"
+              }
+            ]
+          },
+          {
+            "piece": "婚禮賓客",
+            "howTo": "白天選輕薄布料，配包頭鞋或低跟涼鞋；晚上穿長裙配高跟鞋。白色留給新娘。",
+            "occasion": "教堂或宴會廳的儀式，白天或晚上。",
+            "pairsWith": [
+              {
+                "label": "中跟包頭鞋"
+              },
+              {
+                "label": "結構感手提包"
+              },
+              {
+                "label": "薄外套"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "讀懂商品描述",
@@ -93,14 +147,128 @@
           "alt": "側身站立，穿著灰藍色單肩洋裝與網紗裙襬的模特",
           "caption": "SHEIN 官方圖片。",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
     {
+      "heading": "SHEIN 上的三件洋裝",
+      "paragraphs": [
+        "團隊裡沒有人穿過這些洋裝。布料、長度和評分來自各商品頁面。購買前，請在店家頁面再確認價格和配送預估。"
+      ],
+      "comparisonTable": {
+        "caption": "SHEIN 三件洋裝，資料來自各商品頁面。",
+        "headers": [
+          "洋裝",
+          "布料和內裡",
+          "場合和評分"
+        ],
+        "rows": [
+          [
+            "[Firerie 長洋裝，單肩，網紗（霧藍色）](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+            "95% 聚酯纖維、5% 彈性纖維。有內裡，不透，長款。",
+            "婚禮，按店家說法。評分 4.84，超過 1,000 則評價。"
+          ],
+          [
+            "[Via Vilarinho 短洋裝，剪裁合身，方領（藏青色）](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+            "95% 聚酯纖維、5% 彈性纖維。內裡只在上身。標題寫短款，描述寫中長款。",
+            "晚宴、婚禮和辦公室，按店家說法。評分 4.88，80 則評價。"
+          ],
+          [
+            "[ADYCE 長洋裝，亮片，一字領，開衩（藏青色）](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+            "95% 聚酯纖維、5% 彈性纖維。有內裡，不透，長款，帶開衩。",
+            "派對、正式場合和夜間活動，按店家說法。評分 4.89，超過 1,000 則評價。"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+          "alt": "模特穿單肩霧藍色洋裝，腰部有抽褶，站在灰色牆前",
+          "caption": "SHEIN 官方圖片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+          "alt": "模特穿藏青色短袖方領洋裝，站在爬滿常春藤的牆前",
+          "caption": "SHEIN 官方圖片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+          "alt": "模特穿藏青色亮片長洋裝，帶開衩，站在大理石地面上",
+          "caption": "SHEIN 官方圖片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Firerie 長洋裝",
+            "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+            "howTo": "露出的肩膀本身就是亮點：配小耳環，頭髮挽起。",
+            "occasion": "婚禮，按店家說法。",
+            "pairsWith": [
+              {
+                "label": "細跟涼鞋"
+              },
+              {
+                "label": "小型手拿包"
+              },
+              {
+                "label": "小耳環"
+              }
+            ]
+          },
+          {
+            "piece": "Via Vilarinho 短洋裝",
+            "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+            "howTo": "剪裁俐落，適合包頭鞋和結構感手提包；配西裝外套就能上班。",
+            "occasion": "晚宴、婚禮和辦公室，按店家說法。",
+            "pairsWith": [
+              {
+                "label": "高跟鞋"
+              },
+              {
+                "label": "結構感手提包"
+              },
+              {
+                "label": "西裝外套"
+              }
+            ]
+          },
+          {
+            "piece": "ADYCE 長洋裝",
+            "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+            "howTo": "亮片和開衩已經夠醒目：配低調的飾品和細帶涼鞋。",
+            "occasion": "正式的晚間派對，按店家說法。",
+            "pairsWith": [
+              {
+                "label": "細帶涼鞋"
+              },
+              {
+                "label": "小型手拿包"
+              },
+              {
+                "label": "輕薄披肩"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "heading": "尺碼：看衣服本身的尺寸",
       "paragraphs": [
-        "SHEIN 為每件商品提供尺碼表，單位有公分和英吋，並附測量方法。PP 到 GG 沒有統一的表，請使用所選洋裝的尺碼表。大尺碼的方法相同：比較衣服尺寸和自己的尺寸，不要只看標籤上的數字。"
+        "SHEIN 為每件商品提供尺碼表，單位有公分和英吋，並附測量方法。沒有統一的尺碼表，請使用所選洋裝的尺碼表。大尺碼的方法相同：比較衣服尺寸和自己的尺寸，不要只看標籤上的數字。"
       ],
       "images": [
         {
@@ -108,20 +276,61 @@
           "alt": "背對鏡頭，穿著海軍藍短袖中長洋裝的模特",
           "caption": "SHEIN 官方圖片。",
           "objectFit": "contain",
-          "aspectRatio": 0.7792
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+          "alt": "模特背對鏡頭，穿單肩霧藍色長洋裝，站在灰色牆前",
+          "caption": "SHEIN 官方圖片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
     {
-      "heading": "配送與退貨",
+      "heading": "配送時間：算上派對日期",
       "paragraphs": [
-        "配送時間和退貨條件取決於賣家、收件地和訂單。最新規則在店家頁面，訂單摘要在付款前會顯示預計配送日期。"
+        "訂單出貨前需要 3 到 5 天的處理時間。把這段時間加到訂單頁面顯示的配送預估裡。如果加起來超過派對日期，這件洋裝就不適合那一天。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+          "alt": "模特對著鏡子，穿藏青色亮片長洋裝，裙襬拖地",
+          "caption": "SHEIN 官方圖片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
+      ]
+    },
+    {
+      "heading": "稅費：看訂單摘要",
+      "paragraphs": [
+        "進口稅取決於訂單的收件國家和訂單金額。訂單摘要會在付款前顯示金額。"
+      ]
+    },
+    {
+      "heading": "退換貨",
+      "paragraphs": [
+        "每位賣家的退貨規則都寫在店家頁面上。要換尺寸，請退回商品並重新下單。"
       ]
     },
     {
       "heading": "付款前",
       "paragraphs": [
-        "稅費和運費取決於訂單和國家，請在付款前的訂單摘要中核對。4CW5Y 是 SHEIN 巴西站的推薦碼，不是優惠券。它要在應用程式中搜尋，也不提供折扣。使用方法見[推薦碼指南](/zh-hant/reviews/shein-referral-code-zh-hant)，目前活動見 [SHEIN 店家頁](/zh-hant/coupons/shein)。"
+        "付款前請核對配送預估和訂單摘要，並保存訂單確認。4CW5Y 是 SHEIN 巴西站的推薦碼，不是優惠券。它要在應用程式中搜尋，也不提供折扣。使用方法見[推薦碼指南](/zh-hant/reviews/shein-referral-code-zh-hant)，目前活動見 [SHEIN 店家頁](/zh-hant/coupons/shein)。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+          "alt": "穿藏青色亮片長洋裝的模特，站在鋪著地毯的走廊裡",
+          "caption": "SHEIN 官方圖片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
       ]
     },
     {
