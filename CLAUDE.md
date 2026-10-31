@@ -269,7 +269,10 @@ vídeo, primeiras impressões e uso noturno.
   afiliado com sponsored e `note` opcional; sem `url`, básico do armário), mais `url` da peça e `variants` (cor,
   `swatch` em #rrggbb, `pairsWith` e `avoid`) opcionais; de 1 a 3 peças por seção, sem markdown e sem preço. Os
   rótulos, nos 10 idiomas, ficam em `src/components/review/stylingCopy.ts`. O `validate:content` confere o dado e o
-  `test:build-output`, o card no HTML (modelo, texto das abas fechadas, rótulos do idioma e sponsored).
+  `test:build-output`, o card no HTML (modelo, texto das abas fechadas, rótulos do idioma e sponsored). Numa família,
+  o `test:review-i18n` exige em toda versão os cards do português, na mesma ordem, com o mesmo modelo, as mesmas
+  peças, links, campos e cores, e o como usar, a ocasião e a nota do link traduzidos (nome da peça e básico do
+  armário podem repetir o PT); os rótulos entram na conferência de interface igual ao português.
 - Banners de campanha da loja ("Publicidade"): as campanhas ficam em `src/lib/storeBanners.ts`, chaveadas pelo
   `affiliate`, e entram sozinhas em todo artigo da loja, nos 10 idiomas. O `top` vai logo depois da 1ª seção do corpo
   e o `mid` logo antes do FAQ (sem FAQ, da última), pela prop `slots` do `ReviewContentSections`. O banner

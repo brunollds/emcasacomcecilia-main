@@ -5,7 +5,7 @@ import path from 'node:path';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 
-import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale } from '@/lib/content';
+import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale, type ContentSectionStyling } from '@/lib/content';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { getArticleCopy, getReviewVideoLabels } from '@/components/review/articleCopy';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
@@ -13,6 +13,7 @@ import { ReviewHeroImage } from '@/components/review/ReviewHeroImage';
 import { ReviewSectionVideo } from '@/components/review/ReviewSectionVideo';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
 import { getShareCopy } from '@/components/shared/shareCopy';
+import { getStylingCopy } from '@/components/review/stylingCopy';
 import { getCouponBySlug } from '@/lib/couponsData';
 import { getCouponStorePath, getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
@@ -28,7 +29,49 @@ interface ReviewSource {
   affiliate?: string;
   coupon?: string;
   cta?: { url?: string };
-  contentSections?: Array<{ heading?: string; bullets?: string[]; links?: Array<{ href?: string }> }>;
+  contentSections?: Array<{ heading?: string; bullets?: string[]; links?: Array<{ href?: string }>; styling?: ContentSectionStyling }>;
+}
+
+// O card de estilo (ArticleStyling) numa família: as mesmas seções com card, no mesmo modelo, com as mesmas peças
+// na mesma ordem, os mesmos links (da peça e do "combina com"), os mesmos campos preenchidos, as mesmas cores e o
+// texto traduzido (como usar, ocasião e a nota do link). Os nomes de peça e os básicos do armário podem repetir o
+// português ("Polo", "jeans").
+function stylingFamilyProblems(family: ReviewSource[]): string[] {
+  const portuguese = family.find((review) => resolveReviewLocale(review.locale) === 'pt');
+  if (!portuguese) return [];
+  const cardsOf = (review: ReviewSource) => (review.contentSections ?? []).flatMap((section) => (section.styling ? [section.styling] : []));
+  const shapeOf = (styling: ContentSectionStyling) => ({
+    layout: styling.layout ?? 'tabs',
+    items: styling.items.map((item) => ({
+      url: item.url ?? null,
+      fields: [item.howTo ? 'howTo' : '', item.occasion ? 'occasion' : ''].filter(Boolean),
+      pairs: (item.pairsWith ?? []).map((pair) => pair.url ?? 'armário'),
+      notes: (item.pairsWith ?? []).map((pair) => Boolean(pair.note)),
+      variants: (item.variants ?? []).map((variant) => [variant.swatch ?? null, variant.pairsWith.length, Boolean(variant.avoid)]),
+    })),
+  });
+  const textsOf = (styling: ContentSectionStyling) =>
+    styling.items.flatMap((item) => [item.howTo, item.occasion, ...(item.pairsWith ?? []).map((pair) => pair.note)]).filter(Boolean);
+  const reference = cardsOf(portuguese);
+  const problems: string[] = [];
+  for (const review of family) {
+    if (review === portuguese) continue;
+    const cards = cardsOf(review);
+    if (cards.length !== reference.length) {
+      problems.push(`${review.slug}: ${cards.length} cards de estilo, o português tem ${reference.length}`);
+      continue;
+    }
+    cards.forEach((card, index) => {
+      if (JSON.stringify(shapeOf(card)) !== JSON.stringify(shapeOf(reference[index]))) {
+        problems.push(`${review.slug}: card de estilo ${index + 1} com modelo, peças, links, campos ou cores diferentes do português`);
+      }
+      const portugueseTexts = new Set(textsOf(reference[index]));
+      for (const text of textsOf(card)) {
+        if (portugueseTexts.has(text)) problems.push(`${review.slug}: card de estilo ${index + 1} com texto igual ao português: "${text}"`);
+      }
+    });
+  }
+  return problems;
 }
 
 const contentReviewsDir = path.join(process.cwd(), 'content', 'reviews');
@@ -157,6 +200,7 @@ const articleUiLeaves = (locale: Locale) => [
   ...uiLeaves(getArticleCopy(locale), 'article').filter(([field]) => field !== 'article.brunoBoxLink'),
   ...uiLeaves(getGalleryCopy(locale), 'gallery'),
   ...uiLeaves(getShareCopy(locale), 'share'),
+  ...uiLeaves(getStylingCopy(locale), 'styling'),
 ];
 const SAME_AS_PORTUGUESE: Partial<Record<Locale, string[]>> = {
   en: ['article.kindLabel.editorial'],
@@ -371,6 +415,7 @@ const storeReferralLabel = (locale: Locale) =>
       withoutFaq.length === 0 || withoutFaq.length === family.length,
       `${key}: seção de FAQ não reconhecida em ${withoutFaq.map((review) => review.locale).join(', ')}`
     );
+    assert.deepEqual(stylingFamilyProblems(family), [], `${key}: card de estilo diferente entre as versões`);
     const portugueseType = family.find((review) => resolveReviewLocale(review.locale) === 'pt')?.type;
     for (const review of family) {
       assert.deepEqual(typeProblems(review, portugueseType), [], `${review.slug}: type fora do idioma do artigo`);
@@ -391,6 +436,26 @@ const storeReferralLabel = (locale: Locale) =>
   assert.deepEqual(typeProblems({ slug: 'f', locale: 'ko', type: '가이드 & 쿠폰' }, 'Guia & Cupons'), [], 'coreano passa');
   assert.deepEqual(typeProblems({ slug: 'f', type: 'Guia & Cupons' }, 'Guia & Cupons'), [], 'a versão em português não é conferida');
   assert.deepEqual(unusedTypeExceptions(new Set(['en: Editorial'])), ['es: Editorial'], 'exceção sem uso aparece');
+
+  // O guarda do card de estilo, provado em famílias que falham e que passam.
+  const stylingCard = (howTo: string, note: string, extra: Partial<ContentSectionStyling['items'][number]> = {}): ContentSectionStyling => ({
+    layout: 'tabs',
+    items: [{ piece: 'Polo', howTo, pairsWith: [{ label: 'Bermuda', url: 'https://loja.com/b', note }, { label: 'jeans' }], ...extra }],
+  });
+  const stylingFamily = (english: ContentSectionStyling | undefined): ReviewSource[] => [
+    { slug: 'pt', contentSections: [{ heading: 'A' }, { heading: 'B', styling: stylingCard('Com calça social.', 'vendida no kit') }] },
+    { slug: 'en', locale: 'en', contentSections: [{ heading: 'A' }, { heading: 'B', styling: english }] },
+  ];
+  assert.deepEqual(stylingFamilyProblems(stylingFamily(stylingCard('With dress pants.', 'sold in the kit'))), [], 'card traduzido passa');
+  assert.equal(stylingFamilyProblems(stylingFamily(undefined)).length, 1, 'versão sem o card falha');
+  assert.equal(stylingFamilyProblems(stylingFamily({ ...stylingCard('With dress pants.', 'sold in the kit'), layout: 'tags' })).length, 1, 'outro modelo falha');
+  assert.equal(
+    stylingFamilyProblems(stylingFamily(stylingCard('With dress pants.', 'sold in the kit', { pairsWith: [{ label: 'Shorts', url: 'https://loja.com/x', note: 'kit' }, { label: 'jeans' }] }))).length,
+    1,
+    'outro link falha'
+  );
+  assert.equal(stylingFamilyProblems(stylingFamily(stylingCard('Com calça social.', 'sold in the kit'))).length, 1, 'texto em português falha');
+  assert.equal(stylingFamilyProblems(stylingFamily(stylingCard('With dress pants.', 'sold in the kit', { occasion: 'Work.' }))).length, 1, 'campo a mais falha');
 
   // O link da página da loja segue o idioma do artigo: /cupons/<marca> em português e
   // /<locale>/coupons/<marca> nos outros idiomas, que não têm hub de cupons.
