@@ -542,6 +542,11 @@ export const COUPONS: Coupon[] = [
           'Não para todos. O cupom vale para produtos Nestlé Nutre, com exceção de Alfamino, Alfaré e das fórmulas infantis para bebês de 0 a 12 meses, como NAN. Confirme se o desconto aparece no checkout antes de finalizar.',
       },
       {
+        question: 'A loja FamilyNes virou Nestlé Nutre? O cupom vale?',
+        answer:
+          'Sim. A loja oficial FamilyNes, da Nestlé, passou a fazer parte da Nestlé Nutre, no site nestlenutre.com.br, segundo o anúncio da própria FamilyNes. É lá que o CECI dá 10% OFF, sem valor mínimo, exceto em Alfamino, Alfaré e nas fórmulas infantis de 0 a 12 meses.',
+      },
+      {
         question: 'O cupom CECI vale nos produtos Nutren?',
         answer:
           'Sim. A linha Nutren é vendida na loja Nestlé Nutre, e o CECI vale nela como nos outros produtos da loja, exceto Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses. No teste de 26/10/2026, duas latas de Nutren Fortify, de R$ 283,78, saíram por R$ 255,40.',
@@ -2214,7 +2219,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'A Toda Up é a antiga Fita Up? O cupom vale no site todaup.com?',
         answer:
-          'Sim. Toda Up é o nome atual da Fita Up, a marca das fitas adesivas para decote, e o site oficial é todaup.com. O cupom MAUAD dá 10% OFF em todo o site.',
+          'Sim. A loja se chamava Fita Up e hoje é Toda Up, com o site oficial todaup.com. O cupom MAUAD dá 10% OFF em todo o site.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
