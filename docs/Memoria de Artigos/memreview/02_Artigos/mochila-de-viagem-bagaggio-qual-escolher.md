@@ -6,9 +6,9 @@ parceiro: "[[Bagaggio]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Mochilas de Viagem"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao"
+proxima_acao: "no main em 31/10/2026; aguarda deploy"
 bloqueado_por: null
 score_autoridade: 62
 score_conversao: 70

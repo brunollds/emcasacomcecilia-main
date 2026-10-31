@@ -38135,6 +38135,424 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-airtrack-h.webp",
+      "local_url": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-airtrack-h.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71040,
+      "sha256": "e3614b864f38193f79ec9624bd9df29120b41079a62a95f6e536bfcfc683964f",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochila-de-viagem-bagaggio-qual-escolher-airtrack-h.webp",
+      "storage_filename": "mochila-de-viagem-bagaggio-qual-escolher-airtrack-h.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json",
+          "line": 167,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-airtrack-h.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e3614b864f38193f79ec9624bd9df29120b41079a62a95f6e536bfcfc683964f/mochila-de-viagem-bagaggio-qual-escolher-airtrack-h.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e3614b864f38193f79ec9624bd9df29120b41079a62a95f6e536bfcfc683964f/mochila-de-viagem-bagaggio-qual-escolher-airtrack-h.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.475Z",
+      "verification_etag_or_digest": "e3614b864f38193f79ec9624bd9df29120b41079a62a95f6e536bfcfc683964f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-airtrack.webp",
+      "local_url": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-airtrack.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50740,
+      "sha256": "f9d33391ffe2ed29300c98592101fc9a22ae02d8638a6ce0891cd10b9f00e38c",
+      "width": 900,
+      "height": 619,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochila-de-viagem-bagaggio-qual-escolher-airtrack.webp",
+      "storage_filename": "mochila-de-viagem-bagaggio-qual-escolher-airtrack.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json",
+          "line": 125,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-airtrack.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f9d33391ffe2ed29300c98592101fc9a22ae02d8638a6ce0891cd10b9f00e38c/mochila-de-viagem-bagaggio-qual-escolher-airtrack.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f9d33391ffe2ed29300c98592101fc9a22ae02d8638a6ce0891cd10b9f00e38c/mochila-de-viagem-bagaggio-qual-escolher-airtrack.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.475Z",
+      "verification_etag_or_digest": "f9d33391ffe2ed29300c98592101fc9a22ae02d8638a6ce0891cd10b9f00e38c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 81818,
+      "sha256": "994401ca469ad5591218d83a7ba1a017f50dae9ea56d1a6e961eb5421330bd7a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochila-de-viagem-bagaggio-qual-escolher-capa.webp",
+      "storage_filename": "mochila-de-viagem-bagaggio-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/994401ca469ad5591218d83a7ba1a017f50dae9ea56d1a6e961eb5421330bd7a/mochila-de-viagem-bagaggio-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/994401ca469ad5591218d83a7ba1a017f50dae9ea56d1a6e961eb5421330bd7a/mochila-de-viagem-bagaggio-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.475Z",
+      "verification_etag_or_digest": "994401ca469ad5591218d83a7ba1a017f50dae9ea56d1a6e961eb5421330bd7a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-donna.webp",
+      "local_url": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-donna.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15180,
+      "sha256": "fa724fac60db72442e5cdf5479707913f3caf100da3786664a66f8daad39b4fd",
+      "width": 551,
+      "height": 821,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochila-de-viagem-bagaggio-qual-escolher-donna.webp",
+      "storage_filename": "mochila-de-viagem-bagaggio-qual-escolher-donna.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json",
+          "line": 133,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-donna.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fa724fac60db72442e5cdf5479707913f3caf100da3786664a66f8daad39b4fd/mochila-de-viagem-bagaggio-qual-escolher-donna.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fa724fac60db72442e5cdf5479707913f3caf100da3786664a66f8daad39b4fd/mochila-de-viagem-bagaggio-qual-escolher-donna.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.475Z",
+      "verification_etag_or_digest": "fa724fac60db72442e5cdf5479707913f3caf100da3786664a66f8daad39b4fd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-caramelo.webp",
+      "local_url": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-caramelo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14406,
+      "sha256": "8f6a42d6b3fb2bf0497b67a155181aeb401fae14a4c806325ee20544ef435603",
+      "width": 558,
+      "height": 796,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochila-de-viagem-bagaggio-qual-escolher-explore-caramelo.webp",
+      "storage_filename": "mochila-de-viagem-bagaggio-qual-escolher-explore-caramelo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json",
+          "line": 237,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-caramelo.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8f6a42d6b3fb2bf0497b67a155181aeb401fae14a4c806325ee20544ef435603/mochila-de-viagem-bagaggio-qual-escolher-explore-caramelo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8f6a42d6b3fb2bf0497b67a155181aeb401fae14a4c806325ee20544ef435603/mochila-de-viagem-bagaggio-qual-escolher-explore-caramelo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.475Z",
+      "verification_etag_or_digest": "8f6a42d6b3fb2bf0497b67a155181aeb401fae14a4c806325ee20544ef435603",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-preta-2.webp",
+      "local_url": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-preta-2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16958,
+      "sha256": "66d8605e1a57569c716afc6f93cfa76930753793fd4d703cbbd9da415e741a38",
+      "width": 554,
+      "height": 788,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochila-de-viagem-bagaggio-qual-escolher-explore-preta-2.webp",
+      "storage_filename": "mochila-de-viagem-bagaggio-qual-escolher-explore-preta-2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json",
+          "line": 185,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-preta-2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/66d8605e1a57569c716afc6f93cfa76930753793fd4d703cbbd9da415e741a38/mochila-de-viagem-bagaggio-qual-escolher-explore-preta-2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/66d8605e1a57569c716afc6f93cfa76930753793fd4d703cbbd9da415e741a38/mochila-de-viagem-bagaggio-qual-escolher-explore-preta-2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.475Z",
+      "verification_etag_or_digest": "66d8605e1a57569c716afc6f93cfa76930753793fd4d703cbbd9da415e741a38",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-preta.webp",
+      "local_url": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-preta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 11300,
+      "sha256": "245cbd298f9a034351650c0f9ee0200fedf17c692424ccd5b91cb692c4a15d6f",
+      "width": 526,
+      "height": 801,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochila-de-viagem-bagaggio-qual-escolher-explore-preta.webp",
+      "storage_filename": "mochila-de-viagem-bagaggio-qual-escolher-explore-preta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json",
+          "line": 94,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-preta.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/245cbd298f9a034351650c0f9ee0200fedf17c692424ccd5b91cb692c4a15d6f/mochila-de-viagem-bagaggio-qual-escolher-explore-preta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/245cbd298f9a034351650c0f9ee0200fedf17c692424ccd5b91cb692c4a15d6f/mochila-de-viagem-bagaggio-qual-escolher-explore-preta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.475Z",
+      "verification_etag_or_digest": "245cbd298f9a034351650c0f9ee0200fedf17c692424ccd5b91cb692c4a15d6f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-rose.webp",
+      "local_url": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-rose.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 11022,
+      "sha256": "2a25f293e6838d6b20c7e37c39c367660cc9c9812027d7eb240a1e170b6594cd",
+      "width": 557,
+      "height": 796,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochila-de-viagem-bagaggio-qual-escolher-explore-rose.webp",
+      "storage_filename": "mochila-de-viagem-bagaggio-qual-escolher-explore-rose.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json",
+          "line": 229,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-explore-rose.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2a25f293e6838d6b20c7e37c39c367660cc9c9812027d7eb240a1e170b6594cd/mochila-de-viagem-bagaggio-qual-escolher-explore-rose.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2a25f293e6838d6b20c7e37c39c367660cc9c9812027d7eb240a1e170b6594cd/mochila-de-viagem-bagaggio-qual-escolher-explore-rose.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.475Z",
+      "verification_etag_or_digest": "2a25f293e6838d6b20c7e37c39c367660cc9c9812027d7eb240a1e170b6594cd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-royale.webp",
+      "local_url": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-royale.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16734,
+      "sha256": "07f686b4330de216e6a8d83f71e288ef869c4083f7ab841aea4e9601e6646cf9",
+      "width": 655,
+      "height": 805,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochila-de-viagem-bagaggio-qual-escolher-royale.webp",
+      "storage_filename": "mochila-de-viagem-bagaggio-qual-escolher-royale.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json",
+          "line": 141,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-royale.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/07f686b4330de216e6a8d83f71e288ef869c4083f7ab841aea4e9601e6646cf9/mochila-de-viagem-bagaggio-qual-escolher-royale.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/07f686b4330de216e6a8d83f71e288ef869c4083f7ab841aea4e9601e6646cf9/mochila-de-viagem-bagaggio-qual-escolher-royale.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.475Z",
+      "verification_etag_or_digest": "07f686b4330de216e6a8d83f71e288ef869c4083f7ab841aea4e9601e6646cf9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-voyage-2.webp",
+      "local_url": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-voyage-2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25106,
+      "sha256": "504e92c249360f127f59026844838604b368199a86fee80e9722c8526c57ff2c",
+      "width": 587,
+      "height": 803,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochila-de-viagem-bagaggio-qual-escolher-voyage-2.webp",
+      "storage_filename": "mochila-de-viagem-bagaggio-qual-escolher-voyage-2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json",
+          "line": 193,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-voyage-2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/504e92c249360f127f59026844838604b368199a86fee80e9722c8526c57ff2c/mochila-de-viagem-bagaggio-qual-escolher-voyage-2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/504e92c249360f127f59026844838604b368199a86fee80e9722c8526c57ff2c/mochila-de-viagem-bagaggio-qual-escolher-voyage-2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.475Z",
+      "verification_etag_or_digest": "504e92c249360f127f59026844838604b368199a86fee80e9722c8526c57ff2c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-voyage.webp",
+      "local_url": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-voyage.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23298,
+      "sha256": "f7e704fdeadcdbdb195def5aa5292aa406901877a88396d3aa6f7f89cbecf580",
+      "width": 588,
+      "height": 880,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochila-de-viagem-bagaggio-qual-escolher-voyage.webp",
+      "storage_filename": "mochila-de-viagem-bagaggio-qual-escolher-voyage.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json",
+          "line": 102,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-voyage.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f7e704fdeadcdbdb195def5aa5292aa406901877a88396d3aa6f7f89cbecf580/mochila-de-viagem-bagaggio-qual-escolher-voyage.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f7e704fdeadcdbdb195def5aa5292aa406901877a88396d3aa6f7f89cbecf580/mochila-de-viagem-bagaggio-qual-escolher-voyage.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.475Z",
+      "verification_etag_or_digest": "f7e704fdeadcdbdb195def5aa5292aa406901877a88396d3aa6f7f89cbecf580",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/mochila-escolar-bagaggio-capa.webp",
       "local_url": "/images/reviews/bagaggio/mochila-escolar-bagaggio-capa.webp",
       "media_kind": "image",
@@ -100967,6 +101385,348 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/toda-up/kit-toda-up-quando-compensa-capa.webp",
+      "local_url": "/images/reviews/toda-up/kit-toda-up-quando-compensa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61292,
+      "sha256": "aeb2a9551bffc0557cae1ad52fdaf108db6c199f3e36ee6dc820457595e4b1a3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-toda-up-quando-compensa-capa.webp",
+      "storage_filename": "kit-toda-up-quando-compensa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-toda-up-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-toda-up-quando-compensa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/kit-toda-up-quando-compensa-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/aeb2a9551bffc0557cae1ad52fdaf108db6c199f3e36ee6dc820457595e4b1a3/kit-toda-up-quando-compensa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/aeb2a9551bffc0557cae1ad52fdaf108db6c199f3e36ee6dc820457595e4b1a3/kit-toda-up-quando-compensa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "aeb2a9551bffc0557cae1ad52fdaf108db6c199f3e36ee6dc820457595e4b1a3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/kit-toda-up-quando-compensa-comfort-slim-protetor.webp",
+      "local_url": "/images/reviews/toda-up/kit-toda-up-quando-compensa-comfort-slim-protetor.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16562,
+      "sha256": "4330de18f333447f51a786b7162644bd42a38cea3e49fb4756fb68580c0f8b84",
+      "width": 900,
+      "height": 899,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-toda-up-quando-compensa-comfort-slim-protetor.webp",
+      "storage_filename": "kit-toda-up-quando-compensa-comfort-slim-protetor.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-toda-up-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-toda-up-quando-compensa.json",
+          "line": 262,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/kit-toda-up-quando-compensa-comfort-slim-protetor.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4330de18f333447f51a786b7162644bd42a38cea3e49fb4756fb68580c0f8b84/kit-toda-up-quando-compensa-comfort-slim-protetor.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4330de18f333447f51a786b7162644bd42a38cea3e49fb4756fb68580c0f8b84/kit-toda-up-quando-compensa-comfort-slim-protetor.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "4330de18f333447f51a786b7162644bd42a38cea3e49fb4756fb68580c0f8b84",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/kit-toda-up-quando-compensa-comfort-up-protetor.webp",
+      "local_url": "/images/reviews/toda-up/kit-toda-up-quando-compensa-comfort-up-protetor.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71484,
+      "sha256": "df73309296492c4373a815c61dd59747c22397abf428b21a60a4230c308fda22",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-toda-up-quando-compensa-comfort-up-protetor.webp",
+      "storage_filename": "kit-toda-up-quando-compensa-comfort-up-protetor.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-toda-up-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-toda-up-quando-compensa.json",
+          "line": 254,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/kit-toda-up-quando-compensa-comfort-up-protetor.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/df73309296492c4373a815c61dd59747c22397abf428b21a60a4230c308fda22/kit-toda-up-quando-compensa-comfort-up-protetor.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/df73309296492c4373a815c61dd59747c22397abf428b21a60a4230c308fda22/kit-toda-up-quando-compensa-comfort-up-protetor.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "df73309296492c4373a815c61dd59747c22397abf428b21a60a4230c308fda22",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/kit-toda-up-quando-compensa-cotton-faixa.webp",
+      "local_url": "/images/reviews/toda-up/kit-toda-up-quando-compensa-cotton-faixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25824,
+      "sha256": "ed125befcfabe2fc416d233ab62c7d688c7d5087600fa1f5ba2f76a650d401a1",
+      "width": 437,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-toda-up-quando-compensa-cotton-faixa.webp",
+      "storage_filename": "kit-toda-up-quando-compensa-cotton-faixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-toda-up-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-toda-up-quando-compensa.json",
+          "line": 205,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/kit-toda-up-quando-compensa-cotton-faixa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ed125befcfabe2fc416d233ab62c7d688c7d5087600fa1f5ba2f76a650d401a1/kit-toda-up-quando-compensa-cotton-faixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ed125befcfabe2fc416d233ab62c7d688c7d5087600fa1f5ba2f76a650d401a1/kit-toda-up-quando-compensa-cotton-faixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "ed125befcfabe2fc416d233ab62c7d688c7d5087600fa1f5ba2f76a650d401a1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/kit-toda-up-quando-compensa-cotton-triangular.webp",
+      "local_url": "/images/reviews/toda-up/kit-toda-up-quando-compensa-cotton-triangular.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23120,
+      "sha256": "0923028cd318266fc3f1776128da04fb5048c216b80713a457de14bfd2e9913c",
+      "width": 473,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-toda-up-quando-compensa-cotton-triangular.webp",
+      "storage_filename": "kit-toda-up-quando-compensa-cotton-triangular.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-toda-up-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-toda-up-quando-compensa.json",
+          "line": 213,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/kit-toda-up-quando-compensa-cotton-triangular.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0923028cd318266fc3f1776128da04fb5048c216b80713a457de14bfd2e9913c/kit-toda-up-quando-compensa-cotton-triangular.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0923028cd318266fc3f1776128da04fb5048c216b80713a457de14bfd2e9913c/kit-toda-up-quando-compensa-cotton-triangular.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "0923028cd318266fc3f1776128da04fb5048c216b80713a457de14bfd2e9913c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/kit-toda-up-quando-compensa-invisible-up.webp",
+      "local_url": "/images/reviews/toda-up/kit-toda-up-quando-compensa-invisible-up.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21630,
+      "sha256": "f6a5d2e9dd32132d8b62ae6a288b9c33686958c0f69e2e892a894d63e25bbab1",
+      "width": 895,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-toda-up-quando-compensa-invisible-up.webp",
+      "storage_filename": "kit-toda-up-quando-compensa-invisible-up.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-toda-up-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-toda-up-quando-compensa.json",
+          "line": 296,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/kit-toda-up-quando-compensa-invisible-up.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f6a5d2e9dd32132d8b62ae6a288b9c33686958c0f69e2e892a894d63e25bbab1/kit-toda-up-quando-compensa-invisible-up.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f6a5d2e9dd32132d8b62ae6a288b9c33686958c0f69e2e892a894d63e25bbab1/kit-toda-up-quando-compensa-invisible-up.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "f6a5d2e9dd32132d8b62ae6a288b9c33686958c0f69e2e892a894d63e25bbab1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/kit-toda-up-quando-compensa-kit-comfort.webp",
+      "local_url": "/images/reviews/toda-up/kit-toda-up-quando-compensa-kit-comfort.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19788,
+      "sha256": "46da60bc6cac733d46a885a4c80c000ae6c1b02534ee0c84ed84acaa928af245",
+      "width": 900,
+      "height": 898,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-toda-up-quando-compensa-kit-comfort.webp",
+      "storage_filename": "kit-toda-up-quando-compensa-kit-comfort.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-toda-up-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-toda-up-quando-compensa.json",
+          "line": 313,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/kit-toda-up-quando-compensa-kit-comfort.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/46da60bc6cac733d46a885a4c80c000ae6c1b02534ee0c84ed84acaa928af245/kit-toda-up-quando-compensa-kit-comfort.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/46da60bc6cac733d46a885a4c80c000ae6c1b02534ee0c84ed84acaa928af245/kit-toda-up-quando-compensa-kit-comfort.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "46da60bc6cac733d46a885a4c80c000ae6c1b02534ee0c84ed84acaa928af245",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/kit-toda-up-quando-compensa-skinup-biquini.webp",
+      "local_url": "/images/reviews/toda-up/kit-toda-up-quando-compensa-skinup-biquini.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24990,
+      "sha256": "500b7ecb42acf0c4fb34162cf123f9fe9d26aec7cbf2da283d39916333ced9ab",
+      "width": 504,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-toda-up-quando-compensa-skinup-biquini.webp",
+      "storage_filename": "kit-toda-up-quando-compensa-skinup-biquini.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-toda-up-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-toda-up-quando-compensa.json",
+          "line": 170,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/kit-toda-up-quando-compensa-skinup-biquini.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/500b7ecb42acf0c4fb34162cf123f9fe9d26aec7cbf2da283d39916333ced9ab/kit-toda-up-quando-compensa-skinup-biquini.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/500b7ecb42acf0c4fb34162cf123f9fe9d26aec7cbf2da283d39916333ced9ab/kit-toda-up-quando-compensa-skinup-biquini.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "500b7ecb42acf0c4fb34162cf123f9fe9d26aec7cbf2da283d39916333ced9ab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/kit-toda-up-quando-compensa-skinup-cos-alto.webp",
+      "local_url": "/images/reviews/toda-up/kit-toda-up-quando-compensa-skinup-cos-alto.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28178,
+      "sha256": "90606f494fe0d6f7bbfd21f83011a3a51ea86ddf030c5343ead0db8887585d06",
+      "width": 662,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-toda-up-quando-compensa-skinup-cos-alto.webp",
+      "storage_filename": "kit-toda-up-quando-compensa-skinup-cos-alto.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-toda-up-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-toda-up-quando-compensa.json",
+          "line": 162,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/kit-toda-up-quando-compensa-skinup-cos-alto.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/90606f494fe0d6f7bbfd21f83011a3a51ea86ddf030c5343ead0db8887585d06/kit-toda-up-quando-compensa-skinup-cos-alto.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/90606f494fe0d6f7bbfd21f83011a3a51ea86ddf030c5343ead0db8887585d06/kit-toda-up-quando-compensa-skinup-cos-alto.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "90606f494fe0d6f7bbfd21f83011a3a51ea86ddf030c5343ead0db8887585d06",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/toda-up/protetor-de-silicone-capa-discover.webp",
       "local_url": "/images/reviews/toda-up/protetor-de-silicone-capa-discover.webp",
       "media_kind": "image",
@@ -101048,6 +101808,766 @@
       "uploaded_at": null,
       "verified_at": "2026-10-27T21:19:11.273Z",
       "verification_etag_or_digest": "8daa05f4a35b1b0373fc8ab178de6a680dfd98cf6c5548f5b5e957c12d6cd96b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-cotton.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-cotton.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49242,
+      "sha256": "db84a3056eaf53ef6dfc32e9babb0985907580e6f9e0b998be2fb734030bb04a",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-calcinha-biquini-cotton.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-calcinha-biquini-cotton.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 411,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-cotton.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/db84a3056eaf53ef6dfc32e9babb0985907580e6f9e0b998be2fb734030bb04a/skinup-ou-cotton-up-toda-up-calcinha-biquini-cotton.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/db84a3056eaf53ef6dfc32e9babb0985907580e6f9e0b998be2fb734030bb04a/skinup-ou-cotton-up-toda-up-calcinha-biquini-cotton.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "db84a3056eaf53ef6dfc32e9babb0985907580e6f9e0b998be2fb734030bb04a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-skinup.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-skinup.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66004,
+      "sha256": "3f401ed54d3d9c92ebf480f18b5f44fc3451409efd12dfde58a6420eee65469f",
+      "width": 881,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-calcinha-biquini-skinup.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-calcinha-biquini-skinup.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 387,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-skinup.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3f401ed54d3d9c92ebf480f18b5f44fc3451409efd12dfde58a6420eee65469f/skinup-ou-cotton-up-toda-up-calcinha-biquini-skinup.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3f401ed54d3d9c92ebf480f18b5f44fc3451409efd12dfde58a6420eee65469f/skinup-ou-cotton-up-toda-up-calcinha-biquini-skinup.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "3f401ed54d3d9c92ebf480f18b5f44fc3451409efd12dfde58a6420eee65469f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-cos-alto-skinup.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-cos-alto-skinup.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35220,
+      "sha256": "ae609de68c2ad883307c628e513fe72e55f6832022e7fe4e9faeaecc4cfd3b3e",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-calcinha-cos-alto-skinup.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-calcinha-cos-alto-skinup.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 395,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-cos-alto-skinup.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ae609de68c2ad883307c628e513fe72e55f6832022e7fe4e9faeaecc4cfd3b3e/skinup-ou-cotton-up-toda-up-calcinha-cos-alto-skinup.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ae609de68c2ad883307c628e513fe72e55f6832022e7fe4e9faeaecc4cfd3b3e/skinup-ou-cotton-up-toda-up-calcinha-cos-alto-skinup.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "ae609de68c2ad883307c628e513fe72e55f6832022e7fe4e9faeaecc4cfd3b3e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-fio-dental-skinup.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-fio-dental-skinup.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46106,
+      "sha256": "eb4dde1898c9d47632ee56ffb5a593965c2f1c838a679f117fb2491314aec462",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-calcinha-fio-dental-skinup.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-calcinha-fio-dental-skinup.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 403,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-fio-dental-skinup.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/eb4dde1898c9d47632ee56ffb5a593965c2f1c838a679f117fb2491314aec462/skinup-ou-cotton-up-toda-up-calcinha-fio-dental-skinup.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/eb4dde1898c9d47632ee56ffb5a593965c2f1c838a679f117fb2491314aec462/skinup-ou-cotton-up-toda-up-calcinha-fio-dental-skinup.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "eb4dde1898c9d47632ee56ffb5a593965c2f1c838a679f117fb2491314aec462",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75232,
+      "sha256": "9994354bd0eb23fc94ac3777838e9b0dcfcd234f61191a09372f87584451f6dd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-capa.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9994354bd0eb23fc94ac3777838e9b0dcfcd234f61191a09372f87584451f6dd/skinup-ou-cotton-up-toda-up-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9994354bd0eb23fc94ac3777838e9b0dcfcd234f61191a09372f87584451f6dd/skinup-ou-cotton-up-toda-up-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "9994354bd0eb23fc94ac3777838e9b0dcfcd234f61191a09372f87584451f6dd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-classico-bojo.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-classico-bojo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71994,
+      "sha256": "e9c75a0f6fe2c2d3ffe8383dc91e747cb148e07b2040c8d340abbf22a0051828",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-classico-bojo.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-classico-bojo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 222,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-classico-bojo.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e9c75a0f6fe2c2d3ffe8383dc91e747cb148e07b2040c8d340abbf22a0051828/skinup-ou-cotton-up-toda-up-classico-bojo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e9c75a0f6fe2c2d3ffe8383dc91e747cb148e07b2040c8d340abbf22a0051828/skinup-ou-cotton-up-toda-up-classico-bojo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "e9c75a0f6fe2c2d3ffe8383dc91e747cb148e07b2040c8d340abbf22a0051828",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-classico.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-classico.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 11898,
+      "sha256": "880659b8404bce5efedbca1204c469c367005e5675088f47bd08ee3cf2dbeeb1",
+      "width": 792,
+      "height": 632,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-classico.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-classico.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 214,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-classico.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/880659b8404bce5efedbca1204c469c367005e5675088f47bd08ee3cf2dbeeb1/skinup-ou-cotton-up-toda-up-classico.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/880659b8404bce5efedbca1204c469c367005e5675088f47bd08ee3cf2dbeeb1/skinup-ou-cotton-up-toda-up-classico.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "880659b8404bce5efedbca1204c469c367005e5675088f47bd08ee3cf2dbeeb1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-calcinhas-skinup.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-calcinhas-skinup.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25380,
+      "sha256": "93d2f64eea51d494034ca3b576d462f9c93fc60b4c1601b3c996fb1f273bed3d",
+      "width": 900,
+      "height": 877,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-medidas-calcinhas-skinup.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-medidas-calcinhas-skinup.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 570,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-calcinhas-skinup.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/93d2f64eea51d494034ca3b576d462f9c93fc60b4c1601b3c996fb1f273bed3d/skinup-ou-cotton-up-toda-up-medidas-calcinhas-skinup.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/93d2f64eea51d494034ca3b576d462f9c93fc60b4c1601b3c996fb1f273bed3d/skinup-ou-cotton-up-toda-up-medidas-calcinhas-skinup.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "93d2f64eea51d494034ca3b576d462f9c93fc60b4c1601b3c996fb1f273bed3d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-classico.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-classico.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30826,
+      "sha256": "2aba7dcc2055eaed1e87a331315a1ffb0847301ce993a7bdb798e63610328617",
+      "width": 900,
+      "height": 820,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-medidas-classico.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-medidas-classico.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 562,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-classico.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2aba7dcc2055eaed1e87a331315a1ffb0847301ce993a7bdb798e63610328617/skinup-ou-cotton-up-toda-up-medidas-classico.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2aba7dcc2055eaed1e87a331315a1ffb0847301ce993a7bdb798e63610328617/skinup-ou-cotton-up-toda-up-medidas-classico.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "2aba7dcc2055eaed1e87a331315a1ffb0847301ce993a7bdb798e63610328617",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-top-alca-fina.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-top-alca-fina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30362,
+      "sha256": "90a0cfa10b467d2ad2188cb4eea6bcde63581654594a6f4620b25d2f2eb2f192",
+      "width": 900,
+      "height": 819,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-medidas-top-alca-fina.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-medidas-top-alca-fina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 554,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-top-alca-fina.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/90a0cfa10b467d2ad2188cb4eea6bcde63581654594a6f4620b25d2f2eb2f192/skinup-ou-cotton-up-toda-up-medidas-top-alca-fina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/90a0cfa10b467d2ad2188cb4eea6bcde63581654594a6f4620b25d2f2eb2f192/skinup-ou-cotton-up-toda-up-medidas-top-alca-fina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "90a0cfa10b467d2ad2188cb4eea6bcde63581654594a6f4620b25d2f2eb2f192",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-top-skinup.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-top-skinup.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28464,
+      "sha256": "29ff35a2fa76ad341d7ffe7e6e04b1c18d72743ad7b8fadc1ee8158f04222fb1",
+      "width": 900,
+      "height": 814,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-medidas-top-skinup.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-medidas-top-skinup.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 546,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-top-skinup.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/29ff35a2fa76ad341d7ffe7e6e04b1c18d72743ad7b8fadc1ee8158f04222fb1/skinup-ou-cotton-up-toda-up-medidas-top-skinup.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/29ff35a2fa76ad341d7ffe7e6e04b1c18d72743ad7b8fadc1ee8158f04222fb1/skinup-ou-cotton-up-toda-up-medidas-top-skinup.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "29ff35a2fa76ad341d7ffe7e6e04b1c18d72743ad7b8fadc1ee8158f04222fb1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina-costas.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina-costas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65882,
+      "sha256": "16d129cbc3b010520ef847c7ce7cb005459f3559f8b8a811509c6c8b1c1a76ec",
+      "width": 785,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-top-alca-fina-costas.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-top-alca-fina-costas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 206,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina-costas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/16d129cbc3b010520ef847c7ce7cb005459f3559f8b8a811509c6c8b1c1a76ec/skinup-ou-cotton-up-toda-up-top-alca-fina-costas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/16d129cbc3b010520ef847c7ce7cb005459f3559f8b8a811509c6c8b1c1a76ec/skinup-ou-cotton-up-toda-up-top-alca-fina-costas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "16d129cbc3b010520ef847c7ce7cb005459f3559f8b8a811509c6c8b1c1a76ec",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19694,
+      "sha256": "fbdd1cf92e339efeeecb126395882df69a459c9d070e7f37518852ca28794cc0",
+      "width": 760,
+      "height": 576,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 198,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fbdd1cf92e339efeeecb126395882df69a459c9d070e7f37518852ca28794cc0/skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fbdd1cf92e339efeeecb126395882df69a459c9d070e7f37518852ca28794cc0/skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "fbdd1cf92e339efeeecb126395882df69a459c9d070e7f37518852ca28794cc0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa-cinza.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa-cinza.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28700,
+      "sha256": "49ed0fe1c79f292f84f4e89aadb9f15a821a407c08a43c0c72e1f4903e8946d3",
+      "width": 574,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-top-faixa-cinza.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-top-faixa-cinza.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 596,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa-cinza.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/49ed0fe1c79f292f84f4e89aadb9f15a821a407c08a43c0c72e1f4903e8946d3/skinup-ou-cotton-up-toda-up-top-faixa-cinza.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/49ed0fe1c79f292f84f4e89aadb9f15a821a407c08a43c0c72e1f4903e8946d3/skinup-ou-cotton-up-toda-up-top-faixa-cinza.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "49ed0fe1c79f292f84f4e89aadb9f15a821a407c08a43c0c72e1f4903e8946d3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa-costas.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa-costas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30370,
+      "sha256": "6fca1e16b0a1e4dafb762944e030bfe42b4098168bd26073f4e43a5dfed98cca",
+      "width": 786,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-top-faixa-costas.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-top-faixa-costas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 310,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa-costas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6fca1e16b0a1e4dafb762944e030bfe42b4098168bd26073f4e43a5dfed98cca/skinup-ou-cotton-up-toda-up-top-faixa-costas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6fca1e16b0a1e4dafb762944e030bfe42b4098168bd26073f4e43a5dfed98cca/skinup-ou-cotton-up-toda-up-top-faixa-costas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "6fca1e16b0a1e4dafb762944e030bfe42b4098168bd26073f4e43a5dfed98cca",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18052,
+      "sha256": "430e09e606e83e7b2bab529528cd28890305e79a9fc74e56b5b4f8e6b536d672",
+      "width": 711,
+      "height": 583,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-top-faixa.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-top-faixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 302,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/430e09e606e83e7b2bab529528cd28890305e79a9fc74e56b5b4f8e6b536d672/skinup-ou-cotton-up-toda-up-top-faixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/430e09e606e83e7b2bab529528cd28890305e79a9fc74e56b5b4f8e6b536d672/skinup-ou-cotton-up-toda-up-top-faixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "430e09e606e83e7b2bab529528cd28890305e79a9fc74e56b5b4f8e6b536d672",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-segunda-pele.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-segunda-pele.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 37398,
+      "sha256": "b33db42fae398cec94a25a84aef822da904f0cda460df1a0d6dcad3db04c7d6b",
+      "width": 680,
+      "height": 672,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-top-segunda-pele.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-top-segunda-pele.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 190,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-segunda-pele.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b33db42fae398cec94a25a84aef822da904f0cda460df1a0d6dcad3db04c7d6b/skinup-ou-cotton-up-toda-up-top-segunda-pele.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b33db42fae398cec94a25a84aef822da904f0cda460df1a0d6dcad3db04c7d6b/skinup-ou-cotton-up-toda-up-top-segunda-pele.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "b33db42fae398cec94a25a84aef822da904f0cda460df1a0d6dcad3db04c7d6b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-skinup-duas-cores.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-skinup-duas-cores.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57550,
+      "sha256": "2fe934689fc24d1fa12f5edc92847e08d59416dff42cd20a0639ef79cd536429",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-top-skinup-duas-cores.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-top-skinup-duas-cores.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 68,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-skinup-duas-cores.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2fe934689fc24d1fa12f5edc92847e08d59416dff42cd20a0639ef79cd536429/skinup-ou-cotton-up-toda-up-top-skinup-duas-cores.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2fe934689fc24d1fa12f5edc92847e08d59416dff42cd20a0639ef79cd536429/skinup-ou-cotton-up-toda-up-top-skinup-duas-cores.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "2fe934689fc24d1fa12f5edc92847e08d59416dff42cd20a0639ef79cd536429",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-triangular-cinza.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-triangular-cinza.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26450,
+      "sha256": "22f5167a7e6956a61ad8fab167dd42c3bbbbf7badca140e4c7ffd380df4fcc69",
+      "width": 783,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-top-triangular-cinza.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-top-triangular-cinza.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 326,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-triangular-cinza.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/22f5167a7e6956a61ad8fab167dd42c3bbbbf7badca140e4c7ffd380df4fcc69/skinup-ou-cotton-up-toda-up-top-triangular-cinza.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/22f5167a7e6956a61ad8fab167dd42c3bbbbf7badca140e4c7ffd380df4fcc69/skinup-ou-cotton-up-toda-up-top-triangular-cinza.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "22f5167a7e6956a61ad8fab167dd42c3bbbbf7badca140e4c7ffd380df4fcc69",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-triangular.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-triangular.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 5718,
+      "sha256": "22e4bc0892fe13b99fbca8aef7dde9c892a0c88b52c495a30a746ee44430811d",
+      "width": 689,
+      "height": 612,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-top-triangular.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-top-triangular.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 318,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-triangular.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/22e4bc0892fe13b99fbca8aef7dde9c892a0c88b52c495a30a746ee44430811d/skinup-ou-cotton-up-toda-up-top-triangular.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/22e4bc0892fe13b99fbca8aef7dde9c892a0c88b52c495a30a746ee44430811d/skinup-ou-cotton-up-toda-up-top-triangular.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T23:15:17.476Z",
+      "verification_etag_or_digest": "22e4bc0892fe13b99fbca8aef7dde9c892a0c88b52c495a30a746ee44430811d",
       "verification_status": "verified"
     },
     {
