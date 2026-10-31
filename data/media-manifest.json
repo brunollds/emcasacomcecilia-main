@@ -69056,6 +69056,538 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/outlet-insider-feminino-vale-a-pena-capa.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52128,
+      "sha256": "c407f08a2530cab0017dbdb77c9dbb43a2e9e419629a8bba79f31a1440f3a7d2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-feminino-vale-a-pena-capa.webp",
+      "storage_filename": "outlet-insider-feminino-vale-a-pena-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-feminino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-feminino-vale-a-pena.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c407f08a2530cab0017dbdb77c9dbb43a2e9e419629a8bba79f31a1440f3a7d2/outlet-insider-feminino-vale-a-pena-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c407f08a2530cab0017dbdb77c9dbb43a2e9e419629a8bba79f31a1440f3a7d2/outlet-insider-feminino-vale-a-pena-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.678Z",
+      "verification_etag_or_digest": "c407f08a2530cab0017dbdb77c9dbb43a2e9e419629a8bba79f31a1440f3a7d2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-feminino-vale-a-pena-nakedfeel-decote-v.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-nakedfeel-decote-v.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24288,
+      "sha256": "d6ea302d73ec93d3ef0a645e2fa8e9c3efbf57b9d63e44f73a56d2ec44d45339",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-feminino-vale-a-pena-nakedfeel-decote-v.webp",
+      "storage_filename": "outlet-insider-feminino-vale-a-pena-nakedfeel-decote-v.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-feminino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-feminino-vale-a-pena.json",
+          "line": 315,
+          "column": 19,
+          "literal": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-nakedfeel-decote-v.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d6ea302d73ec93d3ef0a645e2fa8e9c3efbf57b9d63e44f73a56d2ec44d45339/outlet-insider-feminino-vale-a-pena-nakedfeel-decote-v.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d6ea302d73ec93d3ef0a645e2fa8e9c3efbf57b9d63e44f73a56d2ec44d45339/outlet-insider-feminino-vale-a-pena-nakedfeel-decote-v.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "d6ea302d73ec93d3ef0a645e2fa8e9c3efbf57b9d63e44f73a56d2ec44d45339",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-feminino-vale-a-pena-nakedfeel-top.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-nakedfeel-top.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24438,
+      "sha256": "69ec04d970f866c27d6de8e99930d274f20d4b5b4fefa705029d9d4037f4b15a",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-feminino-vale-a-pena-nakedfeel-top.webp",
+      "storage_filename": "outlet-insider-feminino-vale-a-pena-nakedfeel-top.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-feminino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-feminino-vale-a-pena.json",
+          "line": 322,
+          "column": 19,
+          "literal": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-nakedfeel-top.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/69ec04d970f866c27d6de8e99930d274f20d4b5b4fefa705029d9d4037f4b15a/outlet-insider-feminino-vale-a-pena-nakedfeel-top.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/69ec04d970f866c27d6de8e99930d274f20d4b5b4fefa705029d9d4037f4b15a/outlet-insider-feminino-vale-a-pena-nakedfeel-top.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "69ec04d970f866c27d6de8e99930d274f20d4b5b4fefa705029d9d4037f4b15a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-feminino-vale-a-pena-pantalona.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-pantalona.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18824,
+      "sha256": "1df04c5b6ffb86d71a0c3850d8fc527cce775efa3ef53aae55314e415dda543d",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-feminino-vale-a-pena-pantalona.webp",
+      "storage_filename": "outlet-insider-feminino-vale-a-pena-pantalona.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-feminino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-feminino-vale-a-pena.json",
+          "line": 345,
+          "column": 19,
+          "literal": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-pantalona.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1df04c5b6ffb86d71a0c3850d8fc527cce775efa3ef53aae55314e415dda543d/outlet-insider-feminino-vale-a-pena-pantalona.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1df04c5b6ffb86d71a0c3850d8fc527cce775efa3ef53aae55314e415dda543d/outlet-insider-feminino-vale-a-pena-pantalona.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "1df04c5b6ffb86d71a0c3850d8fc527cce775efa3ef53aae55314e415dda543d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-feminino-vale-a-pena-serotonin.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-serotonin.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17782,
+      "sha256": "a4d65e766bb4076e31b884d15873e3f88efa6a157afc2d8b2ec2f1947691920f",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-feminino-vale-a-pena-serotonin.webp",
+      "storage_filename": "outlet-insider-feminino-vale-a-pena-serotonin.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-feminino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-feminino-vale-a-pena.json",
+          "line": 42,
+          "column": 19,
+          "literal": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-serotonin.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a4d65e766bb4076e31b884d15873e3f88efa6a157afc2d8b2ec2f1947691920f/outlet-insider-feminino-vale-a-pena-serotonin.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a4d65e766bb4076e31b884d15873e3f88efa6a157afc2d8b2ec2f1947691920f/outlet-insider-feminino-vale-a-pena-serotonin.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "a4d65e766bb4076e31b884d15873e3f88efa6a157afc2d8b2ec2f1947691920f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-feminino-vale-a-pena-sutia-comfy.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-sutia-comfy.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31610,
+      "sha256": "5d398ebb15fa4d07150f73b4b7091888a41333748f7df93eca0715491b79d311",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-feminino-vale-a-pena-sutia-comfy.webp",
+      "storage_filename": "outlet-insider-feminino-vale-a-pena-sutia-comfy.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-feminino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-feminino-vale-a-pena.json",
+          "line": 361,
+          "column": 19,
+          "literal": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-sutia-comfy.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5d398ebb15fa4d07150f73b4b7091888a41333748f7df93eca0715491b79d311/outlet-insider-feminino-vale-a-pena-sutia-comfy.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5d398ebb15fa4d07150f73b4b7091888a41333748f7df93eca0715491b79d311/outlet-insider-feminino-vale-a-pena-sutia-comfy.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "5d398ebb15fa4d07150f73b4b7091888a41333748f7df93eca0715491b79d311",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-feminino-vale-a-pena-tube-dress.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-tube-dress.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16882,
+      "sha256": "e285f00edba544554d59385ef14620ff5a0e93f144106ca73252f3de8e23e95f",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-feminino-vale-a-pena-tube-dress.webp",
+      "storage_filename": "outlet-insider-feminino-vale-a-pena-tube-dress.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-feminino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-feminino-vale-a-pena.json",
+          "line": 49,
+          "column": 19,
+          "literal": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-tube-dress.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e285f00edba544554d59385ef14620ff5a0e93f144106ca73252f3de8e23e95f/outlet-insider-feminino-vale-a-pena-tube-dress.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e285f00edba544554d59385ef14620ff5a0e93f144106ca73252f3de8e23e95f/outlet-insider-feminino-vale-a-pena-tube-dress.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "e285f00edba544554d59385ef14620ff5a0e93f144106ca73252f3de8e23e95f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-feminino-vale-a-pena-vestido-rush.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-vestido-rush.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17286,
+      "sha256": "02900677e8e3dc534244cd8d8ada7c3ae47f41d0acbdcf31e00caac53d6709c7",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-feminino-vale-a-pena-vestido-rush.webp",
+      "storage_filename": "outlet-insider-feminino-vale-a-pena-vestido-rush.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-feminino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-feminino-vale-a-pena.json",
+          "line": 353,
+          "column": 19,
+          "literal": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-vestido-rush.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/02900677e8e3dc534244cd8d8ada7c3ae47f41d0acbdcf31e00caac53d6709c7/outlet-insider-feminino-vale-a-pena-vestido-rush.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/02900677e8e3dc534244cd8d8ada7c3ae47f41d0acbdcf31e00caac53d6709c7/outlet-insider-feminino-vale-a-pena-vestido-rush.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "02900677e8e3dc534244cd8d8ada7c3ae47f41d0acbdcf31e00caac53d6709c7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-masculino-vale-a-pena-capa.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53218,
+      "sha256": "7bedf4a6800912713fa59a46428d3ca1b7969d983166dc6ad541b782ed3c56e5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-masculino-vale-a-pena-capa.webp",
+      "storage_filename": "outlet-insider-masculino-vale-a-pena-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-masculino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-masculino-vale-a-pena.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7bedf4a6800912713fa59a46428d3ca1b7969d983166dc6ad541b782ed3c56e5/outlet-insider-masculino-vale-a-pena-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7bedf4a6800912713fa59a46428d3ca1b7969d983166dc6ad541b782ed3c56e5/outlet-insider-masculino-vale-a-pena-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "7bedf4a6800912713fa59a46428d3ca1b7969d983166dc6ad541b782ed3c56e5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-masculino-vale-a-pena-endorphine.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-endorphine.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26452,
+      "sha256": "353eba0f6027ed004f68b0c6556a2dcf4179f3146c7353a471c42ea87b580a9f",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-masculino-vale-a-pena-endorphine.webp",
+      "storage_filename": "outlet-insider-masculino-vale-a-pena-endorphine.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-masculino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-masculino-vale-a-pena.json",
+          "line": 143,
+          "column": 19,
+          "literal": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-endorphine.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/353eba0f6027ed004f68b0c6556a2dcf4179f3146c7353a471c42ea87b580a9f/outlet-insider-masculino-vale-a-pena-endorphine.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/353eba0f6027ed004f68b0c6556a2dcf4179f3146c7353a471c42ea87b580a9f/outlet-insider-masculino-vale-a-pena-endorphine.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "353eba0f6027ed004f68b0c6556a2dcf4179f3146c7353a471c42ea87b580a9f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-masculino-vale-a-pena-regata-intech.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-regata-intech.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21518,
+      "sha256": "f47dede0b2065422412be80f125fc168e6f1d2da4dcd3d2f8da826f1d16c00c9",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-masculino-vale-a-pena-regata-intech.webp",
+      "storage_filename": "outlet-insider-masculino-vale-a-pena-regata-intech.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-masculino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-masculino-vale-a-pena.json",
+          "line": 42,
+          "column": 19,
+          "literal": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-regata-intech.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f47dede0b2065422412be80f125fc168e6f1d2da4dcd3d2f8da826f1d16c00c9/outlet-insider-masculino-vale-a-pena-regata-intech.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f47dede0b2065422412be80f125fc168e6f1d2da4dcd3d2f8da826f1d16c00c9/outlet-insider-masculino-vale-a-pena-regata-intech.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "f47dede0b2065422412be80f125fc168e6f1d2da4dcd3d2f8da826f1d16c00c9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-masculino-vale-a-pena-tech-manga-longa.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-tech-manga-longa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28778,
+      "sha256": "3187c3c8349ba4c2d0ead18dbb7e993a246eecf8d24387d437a730f2eeb8359d",
+      "width": 883,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-masculino-vale-a-pena-tech-manga-longa.webp",
+      "storage_filename": "outlet-insider-masculino-vale-a-pena-tech-manga-longa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-masculino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-masculino-vale-a-pena.json",
+          "line": 58,
+          "column": 19,
+          "literal": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-tech-manga-longa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3187c3c8349ba4c2d0ead18dbb7e993a246eecf8d24387d437a730f2eeb8359d/outlet-insider-masculino-vale-a-pena-tech-manga-longa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3187c3c8349ba4c2d0ead18dbb7e993a246eecf8d24387d437a730f2eeb8359d/outlet-insider-masculino-vale-a-pena-tech-manga-longa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "3187c3c8349ba4c2d0ead18dbb7e993a246eecf8d24387d437a730f2eeb8359d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-masculino-vale-a-pena-tech-t-shirt-marrom.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-tech-t-shirt-marrom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30416,
+      "sha256": "6a2b66cc02a0c4ae8d09dffec9d0d5e4245c3903821ae7858f8f7bf01e9ba703",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-masculino-vale-a-pena-tech-t-shirt-marrom.webp",
+      "storage_filename": "outlet-insider-masculino-vale-a-pena-tech-t-shirt-marrom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-masculino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-masculino-vale-a-pena.json",
+          "line": 50,
+          "column": 19,
+          "literal": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-tech-t-shirt-marrom.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6a2b66cc02a0c4ae8d09dffec9d0d5e4245c3903821ae7858f8f7bf01e9ba703/outlet-insider-masculino-vale-a-pena-tech-t-shirt-marrom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6a2b66cc02a0c4ae8d09dffec9d0d5e4245c3903821ae7858f8f7bf01e9ba703/outlet-insider-masculino-vale-a-pena-tech-t-shirt-marrom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "6a2b66cc02a0c4ae8d09dffec9d0d5e4245c3903821ae7858f8f7bf01e9ba703",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-masculino-vale-a-pena-tech-t-shirt-vinho.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-tech-t-shirt-vinho.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25694,
+      "sha256": "9ba0ac4de9cc649064c1f508f58f02848b0c3fec6fc8826cc722585ff66b9a65",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-masculino-vale-a-pena-tech-t-shirt-vinho.webp",
+      "storage_filename": "outlet-insider-masculino-vale-a-pena-tech-t-shirt-vinho.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-masculino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-masculino-vale-a-pena.json",
+          "line": 127,
+          "column": 19,
+          "literal": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-tech-t-shirt-vinho.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9ba0ac4de9cc649064c1f508f58f02848b0c3fec6fc8826cc722585ff66b9a65/outlet-insider-masculino-vale-a-pena-tech-t-shirt-vinho.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9ba0ac4de9cc649064c1f508f58f02848b0c3fec6fc8826cc722585ff66b9a65/outlet-insider-masculino-vale-a-pena-tech-t-shirt-vinho.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T18:12:50.679Z",
+      "verification_etag_or_digest": "9ba0ac4de9cc649064c1f508f58f02848b0c3fec6fc8826cc722585ff66b9a65",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/selecao-insider-calca-futureform-masculina.webp",
       "local_url": "/images/reviews/insider/selecao-insider-calca-futureform-masculina.webp",
       "media_kind": "image",
