@@ -96,6 +96,8 @@ type CouponStoreLinkProps = {
     // Os banners de campanha da loja entre as seções do artigo (storeBanners.ts).
     | 'review_banner_top'
     | 'review_banner_mid'
+    // As peças da loja no card de estilo dos artigos de roupa (ArticleStyling).
+    | 'review_styling'
     | 'review_mobile_drawer'
     | 'home_store_banner';
   className?: string;
