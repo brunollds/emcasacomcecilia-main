@@ -29246,7 +29246,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Diferente do que acontece com cupons tradicionais (como o CECILIA12 na Damie ou o CECI na Dolce Gusto, que aplicam um desconto direto no carrinho), o código CECILIA010 na YesStyle funciona de maneira única como um \"Reward Code\" (Código de Recompensa).",
           "A grande sacada é que ele possui um campo exclusivo e separado no checkout. Isso significa que ele é combinável com cupons promocionais elegíveis: você pode usá-lo ao mesmo tempo com cupons promocionais elegíveis no site, somando até 5% extra aos descontos do pedido.",
-          "Se você está buscando uma compra com cupom direto (desconto na hora), confira nosso cupom YesStyle atualizado na página comercial."
+          "Se você quer desconto direto no carrinho, os cupons do momento estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
         ],
         "bullets": [
           "Código: CECILIA010",
@@ -34462,7 +34462,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "Em 24/10/2026, no site oficial, o Cobertor IWS Igloo custava R$ 997,00 no tamanho Casal/Queen (preço original de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra. Por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o cupom CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
+          "Em 24/10/2026, no site oficial, o Cobertor IWS Igloo custava R$ 997,00 no tamanho Casal/Queen (preço original de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra. Por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
         ],
         "bullets": [],
         "links": [
@@ -35133,7 +35133,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre (conferido em 04/10/2026). Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
+          "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja oficial (conferido em 04/10/2026). Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
         ],
         "links": [
           {
@@ -35372,7 +35372,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e o que o cupom altera",
         "paragraphs": [
-          "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial é R$ 211,79. O que permanece é o teste no checkout: o item entra no carrinho pelo preço vigente; o CECI, quando aceito, tira 10% dos produtos elegíveis; o frete é outra linha e não entra nessa base.",
+          "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial é R$ 211,79. O que permanece é o teste no checkout: o item entra no carrinho pelo preço vigente; o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI), quando aceito, tira 10% dos produtos elegíveis; o frete é outra linha e não entra nessa base.",
           "Em teste já registrado no passo a passo do cupom, o CECI chegou a aplicar o desconto, então de 5%, por cima de um combo que já tinha desconto de vitrine. Somar com outro código digitado no mesmo pedido não é garantido: o checkout costuma ficar com um cupom só. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses não entram."
         ],
         "links": [
@@ -40544,7 +40544,7 @@ export const reviewsData: unknown[] = [
           "O gel da máscara fica duro no freezer? A marca informa que o gel permanece flexível quando resfriado. Confira o estado do produto e use apenas se estiver confortável ao toque.",
           "Como aquecer a Aliv Head Gel no micro-ondas? A marca orienta aquecer por 15 a 30 segundos e testar a temperatura antes de encostar na pele. Não superaqueça.",
           "Como lavar a máscara Aliv Head Gel? Limpe a superfície externa com pano levemente umedecido. Não mergulhe o produto em água.",
-          "Como usar o cupom CECIEMCASA? Digite o código no carrinho da loja oficial para verificar a aplicação em produtos elegíveis, conforme as condições vigentes no checkout."
+          "Como usar o cupom CECIEMCASA? Digite o código no carrinho da loja oficial para verificar a aplicação em produtos elegíveis, conforme as condições vigentes no checkout. As regras estão na página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       }
     ],
@@ -40803,7 +40803,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comprar no site oficial com o cupom CECIEMCASA",
         "paragraphs": [
-          "O Em Casa com Cecília mantém parceria comercial com a I Wanna Sleep. No checkout da loja oficial, você pode testar o cupom **CECIEMCASA** para buscar **10% de desconto** em produtos elegíveis, incluindo a linha de nutrição do sono e os kits da Melatonina Líquida, segundo o regulamento vigente da marca.",
+          "O Em Casa com Cecília mantém parceria comercial com a I Wanna Sleep. No checkout da loja oficial, você pode testar o [cupom I Wanna Sleep](/cupons/i-wanna-sleep), o **CECIEMCASA**, para buscar **10% de desconto** em produtos elegíveis, incluindo a linha de nutrição do sono e os kits da Melatonina Líquida, segundo o regulamento vigente da marca.",
           "O uso do cupom não gera custo adicional para o comprador e funciona como uma forma de apoiar o nosso trabalho editorial independente."
         ],
         "links": [
@@ -41457,7 +41457,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Nutren Just Protein em lata de 280g é comercializado no e-commerce oficial da Nestlé Nutre no Brasil. Preço, estoque, prazo de entrega e condições comerciais devem ser confirmados no momento da compra.",
           "A embalagem informa cerca de 19 porções de 15g. O rendimento real depende da quantidade utilizada e da orientação definida para cada pessoa.",
-          "No carrinho da loja oficial, você pode testar o cupom CECI para verificar a aplicação de 10% de desconto em produtos elegíveis, conforme as regras vigentes no checkout."
+          "No carrinho da loja oficial, você pode testar o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI) para verificar a aplicação de 10% de desconto em produtos elegíveis, conforme as regras vigentes no checkout."
         ],
         "bullets": [],
         "links": [
@@ -41854,7 +41854,7 @@ export const reviewsData: unknown[] = [
           "É aqui que plataformas como a YesStyle resolvem o problema.",
           "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas, e também japonesas e de outras partes da Ásia, num carrinho só, com um frete e um prazo de entrega únicos. A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, entre elas nomes como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: uma amostra do tipo de marca disponível, não uma lista fechada, já que o catálogo muda com o tempo.",
           "A plataforma também vai além de skincare: tem moda asiática, maquiagem, acessórios e outras categorias de lifestyle, o que significa que dá para complementar uma compra de sérum com outros itens na mesma transação.",
-          "Para quem quer aproveitar um desconto na primeira compra, existe o código de recompensa CECILIA010, que garante desconto direto no checkout (maior na primeira compra, menor nas seguintes) quando aplicado no campo correto do carrinho. Tem um passo a passo específico sobre como aplicar o código linkado abaixo.",
+          "Para quem quer aproveitar um desconto na primeira compra, existe o código de recompensa CECILIA010, que garante desconto direto no checkout (maior na primeira compra, menor nas seguintes) quando aplicado no campo correto do carrinho. Tem um passo a passo específico sobre como aplicar o código linkado abaixo. Os cupons da loja mudam; a lista do momento está em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
           "Essa centralização foi o que permitiu que K-Beauty saísse de um interesse de colecionadores dedicados e virasse algo acessível para quem só quer testar se a fama é real."
         ],
         "bullets": [],
@@ -43488,7 +43488,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e como usar o cupom CECIEMCASA",
         "paragraphs": [
-          "O código de parceria CECIEMCASA oferece 10% de desconto em produtos elegíveis na loja oficial I Wanna Sleep. Como estoque, preço e possibilidade de acumular promoções podem mudar, confira o valor final antes de concluir o pedido."
+          "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep), o código de parceria CECIEMCASA, oferece 10% de desconto em produtos elegíveis na loja oficial I Wanna Sleep. Como estoque, preço e possibilidade de acumular promoções podem mudar, confira o valor final antes de concluir o pedido."
         ],
         "links": [
           {
@@ -43758,7 +43758,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preço oficial e cupom CECI",
         "paragraphs": [
           "Na consulta de 27 de agosto de 2026, o catálogo oficial Nestlé Nutre mostrava a embalagem de 300 g por R$ 59,90. A imagem abaixo registra esse momento; preço, estoque e condições podem mudar.",
-          "Na data da consulta, o CECI dava 5%: sobre R$ 59,90, o valor ficava em R$ 56,91, equivalente a R$ 18,97 por 100 g. Com o desconto atual de 10%, o mesmo preço cai para R$ 53,91, ou R$ 17,97 por 100 g. Como a elegibilidade é confirmada no checkout, verifique se o código CECI foi aceito e compare o total com frete antes de pagar."
+          "Na data da consulta, o CECI dava 5%: sobre R$ 59,90, o valor ficava em R$ 56,91, equivalente a R$ 18,97 por 100 g. Com o desconto atual de 10%, o mesmo preço cai para R$ 53,91, ou R$ 17,97 por 100 g. Como a elegibilidade é confirmada no checkout, verifique se o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) foi aceito e compare o total com frete antes de pagar."
         ],
         "bullets": [],
         "image": "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
@@ -44754,7 +44754,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e o cupom CECIEMCASA",
         "paragraphs": [
           "A linha de travesseiros e acessórios ergonômicos está disponível na loja online oficial da I Wanna Sleep, com entrega sujeita à cobertura do CEP e às condições exibidas no checkout.",
-          "No carrinho da loja oficial, você pode aplicar o cupom CECIEMCASA e conferir o desconto de 10% antes de concluir a compra. A condição é divulgada para o site da I Wanna Sleep, mas elegibilidade, validade e eventuais exceções devem ser confirmadas no checkout."
+          "No carrinho da loja oficial, você pode aplicar o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA e conferir o desconto de 10% antes de concluir a compra. A condição é divulgada para o site da I Wanna Sleep, mas elegibilidade, validade e eventuais exceções devem ser confirmadas no checkout."
         ],
         "bullets": [],
         "links": [
@@ -45527,7 +45527,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher: o cobertor certo para cada perfil",
         "paragraphs": [
-          "A escolha do cobertor ideal deve refletir o termostato corporal de quem dorme e a dinâmica do seu quarto. Veja em qual perfil você mais se reconhece; os preços de cada linha estão em Quanto custa cada linha, com o cupom CECIEMCASA aplicado:"
+          "A escolha do cobertor ideal deve refletir o termostato corporal de quem dorme e a dinâmica do seu quarto. Veja em qual perfil você mais se reconhece; os preços de cada linha estão em Quanto custa cada linha, com o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA aplicado:"
         ],
         "bullets": [
           "Perfil 1: O Casal em Conflito Térmico e Quartos com Ar-Condicionado -> Vá de Igloo™. Se um sente calor e o outro sente frio, a tecnologia dual-face resolve o dilema em uma só peça: lado Ice-Feel de frescor ativo para baixo ou lado Warm-Feel quentinho, com um simples virar de coberta. A marca informa uma sensação térmica 2 a 3°C menor no lado Ice-Feel;",
@@ -45869,7 +45869,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e como economizar com o CECILIA010",
         "paragraphs": [
           "Os três produtos são vendidos pela YesStyle, que entrega no Brasil (confira no checkout se o envio aparece para o seu CEP). Os preços são cotados em dólar e o frete é internacional, então o prazo é maior que o de uma loja nacional.",
-          "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code, e somam com o CECILIA010, inclusive aqueles cupons especiais que chegam só para a sua conta.",
+          "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code, e somam com o CECILIA010, inclusive aqueles cupons especiais que chegam só para a sua conta. Os cupons ativos da loja estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
           "Sobre impostos: a YesStyle reembolsa as taxas alfandegárias de pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete). Se houver cobrança na chegada, pague, guarde o comprovante e mande para o atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle."
         ],
         "links": [
@@ -49540,7 +49540,7 @@ export const reviewsData: unknown[] = [
           "O frasco de 60 ml custa R$ 117,00 no site oficial (consultado em 29/09/2026). Há kits: 3 frascos por R$ 234,00 (compre 2, leve 3) e 5 frascos por R$ 351,00 (compre 3, leve 5). O frete é grátis acima de R$ 150,00.",
           "Quanto rende? A marca não informa quantas borrifadas ou noites um frasco entrega, então não dá para prometer um custo por noite. Só como referência: se você usar 2 borrifadas por noite e o frasco durasse 2 meses (hipótese nossa, não dado da marca), o gasto ficaria perto de R$ 2 por noite. Anote a data em que abrir o frasco para medir na sua casa.",
           "A garantia funciona assim: a IWS oferece o \"Teste de 30 dias\". Se a criança não se adaptar, você recebe um crédito para trocar por outro produto do site, e a condição vale para compras feitas na loja oficial. É crédito de troca, não reembolso em dinheiro.",
-          "O código CECIEMCASA dá 10% OFF em compras no site da IWS. A loja pode mudar as regras por campanha, então confirme o valor final no carrinho antes de pagar, inclusive se o desconto soma com kits ou promoções."
+          "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em compras no site da IWS. A loja pode mudar as regras por campanha, então confirme o valor final no carrinho antes de pagar, inclusive se o desconto soma com kits ou promoções."
         ],
         "bullets": []
       },
@@ -49851,7 +49851,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e usar o cupom CECI",
         "paragraphs": [
           "O Nutren Senior é vendido na loja oficial Nestlé Nutre (nestlenutre.com.br). Em 30/09/2026, a página inicial da loja informava frete grátis para todo o Brasil acima de R$ 400; já na assinatura, a página do produto indicava frete grátis acima de R$ 200, 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência. As condições podem mudar, então confira no carrinho.",
-          "O código CECI dá 10% OFF em produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses, sobre o valor dos produtos (o frete não entra na conta). As regras podem variar por campanha, inclusive a soma com outras promoções, então confira o valor final no carrinho antes de pagar."
+          "O [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) dá 10% OFF em produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses, sobre o valor dos produtos (o frete não entra na conta). As regras podem variar por campanha, inclusive a soma com outras promoções, então confira o valor final no carrinho antes de pagar."
         ],
         "bullets": [],
         "links": [
@@ -50361,7 +50361,7 @@ export const reviewsData: unknown[] = [
           "A ingestão de líquidos varia com idade, condições de saúde e restrições; siga a orientação do seu médico ou nutricionista.",
           "A tabela abaixo reproduz os valores informados nas páginas oficiais em 2 de outubro de 2026, usando a porção declarada de cada apresentação. Não são valores da receita pronta: leite, café adoçado, suco, iogurte e outros ingredientes acrescentam suas próprias informações nutricionais.",
           "Para comparar embalagens, olhe a quantidade total, o preço por grama e quanto será utilizado antes do prazo indicado após a abertura. Preços e promoções podem mudar qual apresentação é mais econômica; a presença de uma colher dosadora deve ser conferida na embalagem. Na lata consultada, a fabricante orienta manter bem fechada em local fresco, seco e sem odores, consumir em até 60 dias após iniciar o uso e consumir o preparo imediatamente.",
-          "Na compra pela Nestlé Nutre, o código CECI oferece 10% de desconto em produtos elegíveis, com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses. A acumulação depende da campanha vigente. Para FiberMais, confira o desconto no carrinho e não confunda a compra no canal oficial com uma promessa de lote recém-fabricado ou validade específica."
+          "Na compra pela Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) oferece 10% de desconto em produtos elegíveis, com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses. A acumulação depende da campanha vigente. Para FiberMais, confira o desconto no carrinho e não confunda a compra no canal oficial com uma promessa de lote recém-fabricado ou validade específica."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -51474,7 +51474,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Preço e disponibilidade mudam com campanhas. Confira o valor final no checkout depois de aplicar o cupom **CECIEMCASA**."
+          "Preço e disponibilidade mudam com campanhas. Confira o valor final no checkout depois de aplicar o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) **CECIEMCASA**."
         ],
         "links": [
           {
@@ -51774,7 +51774,7 @@ export const reviewsData: unknown[] = [
           "Café, vitamina, bolo e recheio: **Leite Ninho Integral**, o leite em pó. O Integral Instantâneo também serve, e custava R$ 19,81 (lata de 380 g) na Nestlé Nutre em 4 de outubro de 2026.",
           "Criança de 1 a 3 anos: o Ninho Fases 1+ é fórmula infantil de seguimento. A partir de 3 anos, o Fases 3+ é composto lácteo. A escolha do leite da criança é conversa para ter com o pediatra ou nutricionista.",
           "Família: o Forti+ Fibras e o Zero Lactose são compostos lácteos, e o Ninho Adulto é leite semidesnatado.",
-          "Comprar com desconto: na Nestlé Nutre, o cupom **CECI** deu 10% no nosso teste de checkout, e a assinatura reduz o preço de parte da linha."
+          "Comprar com desconto: na Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (**CECI**) deu 10% no nosso teste de checkout, e a assinatura reduz o preço de parte da linha."
         ]
       },
       {
@@ -54252,7 +54252,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Let's Eat It 2026",
         "paragraphs": [
-          "A Let's Eat It ainda não anunciou Black Friday, que em 2026 é em 27 de novembro, mas a coleção Natal Let's já tem descontos. O cupom MAUAD dá 5% OFF em todo o site e soma com o Pix. O que pesa é a Le Creuset, quase toda a preço cheio; veja abaixo."
+          "A Let's Eat It ainda não anunciou Black Friday, que em 2026 é em 27 de novembro, mas a coleção Natal Let's já tem descontos. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF em todo o site e soma com o Pix. O que pesa é a Le Creuset, quase toda a preço cheio; veja abaixo."
         ]
       },
       {
@@ -54562,7 +54562,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday I Wanna Sleep 2026",
         "paragraphs": [
-          "A I Wanna Sleep ainda não anunciou campanha de Black Friday, que em 2026 é em 27 de novembro. O cupom CECIEMCASA dá 10% OFF em todo o site e soma com os preços já reduzidos. O que muda a decisão é o prazo de entrega para o Natal, no capítulo de entrega."
+          "A I Wanna Sleep ainda não anunciou campanha de Black Friday, que em 2026 é em 27 de novembro. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site e soma com os preços já reduzidos. O que muda a decisão é o prazo de entrega para o Natal, no capítulo de entrega."
         ]
       },
       {
@@ -55261,7 +55261,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Nutren 2026",
         "paragraphs": [
-          "A Nestlé Nutre ainda não anunciou Black Friday do Nutren: até 10/10/2026 não havia campanha. O cupom CECI dá 10% OFF na loja, vale com todas as formas de pagamento e soma com os preços da Black Friday. O que muda a decisão é o prazo de entrega para o Natal; veja o capítulo de entrega."
+          "A Nestlé Nutre ainda não anunciou Black Friday do Nutren: até 10/10/2026 não havia campanha. O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja, vale com todas as formas de pagamento e soma com os preços da Black Friday. O que muda a decisão é o prazo de entrega para o Natal; veja o capítulo de entrega."
         ]
       },
       {
@@ -55964,7 +55964,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom da Black Friday é o mesmo do ano todo",
         "paragraphs": [
-          "O cupom de faixa de outubro de 2025 (Mid-Season Sale) tinha exatamente as mesmas faixas do cupom da Black Friday de novembro. É o desconto que a YesStyle roda quase o ano inteiro, trocando o nome e o código a cada poucos dias."
+          "O cupom de faixa de outubro de 2025 (Mid-Season Sale) tinha exatamente as mesmas faixas do cupom da Black Friday de novembro. É o desconto que a YesStyle roda quase o ano inteiro, trocando o nome e o código a cada poucos dias. Os cupons vigentes ficam em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
         ],
         "comparisonTable": {
           "caption": "Faixas do cupom de faixa da YesStyle em 2024 e 2025, iguais fora e dentro da Black Friday. O desconto vale sobre o preço dos produtos.",
@@ -61178,7 +61178,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde entra o cupom CECI",
         "paragraphs": [
-          "Em outubro de 2026, o cupom CECI dá 10% de desconto na loja oficial da Nestlé Nutre, onde estão as versões do Nutren Senior. Ele não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.",
+          "Em outubro de 2026, o [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% de desconto na loja oficial, onde estão as versões do Nutren Senior. Ele não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.",
           "Ensure e Sustagen não são parceiros do site, e não temos código para eles. Os preços do Nutren Senior em outubro estão no nosso guia de Black Friday da Nutren."
         ],
         "links": [
@@ -61388,7 +61388,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como comprar pela Let's Eat It",
         "paragraphs": [
           "A Let's Eat It vende sobretudo o stoneware da Porto Brasil: quase todas as peças da marca no catálogo da loja são desse material. Confira o material e as indicações de uso na página de cada produto. Os preços de outubro de 2026, com os descontos da época, estão no nosso guia de Black Friday da loja.",
-          "No site da Let's Eat It, o cupom MAUAD dá 5% de desconto e soma com o desconto do Pix."
+          "No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD e soma com o desconto do Pix."
         ],
         "image": {
           "src": "/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
@@ -61661,7 +61661,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e cupom da I Wanna Sleep",
         "paragraphs": [
-          "O cupom CECIEMCASA dá 10% de desconto no site da I Wanna Sleep, e o desconto pode variar conforme a campanha. Emma e Ortobom não são parceiras do site, e não temos código para elas."
+          "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% de desconto no site da marca, e o desconto pode variar conforme a campanha. Emma e Ortobom não são parceiras do site, e não temos código para elas."
         ],
         "links": [
           {
@@ -61853,7 +61853,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar: Let's Eat It",
         "paragraphs": [
           "A Let's Eat It aparecia no localizador oficial de lojas da Le Creuset Brasil na consulta de 02/10/2026. Em 12/10/2026, a Panela Redonda Signature de 20 cm saía por R$ 2.329, e a de 28 cm, por R$ 3.429, nas cores de preço padrão; cores como Château e Flamme Dorée custam mais. Os preços por data estão no nosso guia de Black Friday da loja.",
-          "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset (regra da loja em 03/10/2026). No site, o cupom MAUAD dá 5% de desconto e vale também para a Le Creuset."
+          "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset (regra da loja em 03/10/2026). No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD e vale também para a Le Creuset."
         ],
         "images": [
           {
@@ -63661,7 +63661,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preço em 12/10/2026 e o cupom CECI",
         "paragraphs": [
           "Na loja oficial, em 12/10/2026, o Nutren Protein de 400 g (baunilha ou chocolate) custava R$ 79,72 na compra única (de R$ 93,79), e o de 800 g (baunilha), R$ 134,71 (de R$ 168,39). A garrafa de 260 ml (baunilha ou chocolate) saía por R$ 10,59, e o Nutren Just Protein 280 g, por R$ 115,91. Preço muda com promoção: confira no carrinho.",
-          "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre (conferido em 04/10/2026). Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Não temos código para a YoPRO."
+          "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja oficial (conferido em 04/10/2026). Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Não temos código para a YoPRO."
         ],
         "links": [
           {
@@ -69405,7 +69405,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e código de recompensa",
         "paragraphs": [
-          "O CECILIA010 é o código de recompensa da Cecília na YesStyle: vai no campo Reward Code do checkout e dá até 5% de desconto na primeira compra e 2% nas seguintes, somando com os cupons da loja. Os cupons do momento ficam na página da YesStyle aqui do site."
+          "O CECILIA010 é o código de recompensa da Cecília na YesStyle: vai no campo Reward Code do checkout e dá até 5% de desconto na primeira compra e 2% nas seguintes, somando com os cupons da loja. Os cupons do momento ficam em [cupons YesStyle e código de recompensa](/cupons/yesstyle) aqui do site."
         ],
         "links": [
           {
@@ -72020,7 +72020,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e código de recompensa",
         "paragraphs": [
-          "O CECILIA010 é o código de recompensa da Cecília na YesStyle: vai no campo Reward Code do checkout e dá até 5% de desconto na primeira compra e 2% nas seguintes, somando com os cupons da loja. Não há código nosso nas outras lojas deste comparativo."
+          "O CECILIA010 é o código de recompensa da Cecília na YesStyle: vai no campo Reward Code do checkout e dá até 5% de desconto na primeira compra e 2% nas seguintes, somando com os cupons da loja. Os cupons do momento estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle). Não há código nosso nas outras lojas deste comparativo."
         ],
         "links": [
           {
@@ -75312,7 +75312,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% OFF em todo o site, testado no carrinho em 13/10/2026. Passo a passo, linha Descontos, frete grátis por região, Pix, primeira compra e o que comprar.",
-    "metaDescription": "Cupom Probiótica PRO10EMCASACOMCECILIA: até 10% OFF, testado no carrinho. Veja como aplicar, a linha Descontos e o frete grátis por região.",
+    "metaDescription": "Passo a passo para aplicar o PRO10EMCASACOMCECILIA no carrinho da Probiótica: onde digitar, a linha Descontos (até 10% OFF) e o frete grátis por região.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -79199,7 +79199,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium: até 10% OFF, testado no carrinho em 14/10/2026. Passo a passo, linha Descontos, soma com promoção e com o Pix, frete grátis por região e brindes.",
-    "metaDescription": "Cupom Max Titanium MAX10EMCASACOMCECILIA: até 10% OFF, testado no carrinho. Veja como aplicar, a linha Descontos e o frete grátis por região.",
+    "metaDescription": "Passo a passo para aplicar o MAX10EMCASACOMCECILIA no carrinho da Max Titanium: onde digitar, a linha Descontos (até 10% OFF) e o frete grátis por região.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -86584,7 +86584,7 @@ export const reviewsData: unknown[] = [
           "caption": "Preços da página do produto na Nestlé Nutre em 17/10/2026, sem o cupom."
         },
         "postParagraphs": [
-          "O código CECI dá 10% OFF na loja oficial, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Nanlac Supreme Pro, de 1 a 3 anos, não está nessas exceções: o desconto aparece no resumo do pedido antes de pagar. O passo a passo do código está em [como usar o CECI na Nestlé Nutre](/reviews/cupom-ceci-nestle-nutre-como-usar), e as condições vigentes ficam na [página da Nestlé Nutre](/cupons/nestle-nutre).",
+          "O código CECI dá 10% OFF na loja oficial, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Nanlac Supreme Pro, de 1 a 3 anos, não está nessas exceções: o desconto aparece no resumo do pedido antes de pagar. O passo a passo do código está em [como usar o CECI na Nestlé Nutre](/reviews/cupom-ceci-nestle-nutre-como-usar), e as condições vigentes ficam na página do [cupom Nestlé Nutre](/cupons/nestle-nutre).",
           "Preço e desconto mudam. O valor que vale é o da loja no momento da compra."
         ]
       },
@@ -86907,7 +86907,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O código CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos, de 1 a 3 anos, não estão nessas exceções. As condições atuais estão na [página da Nestlé Nutre](/cupons/nestle-nutre).",
+          "O código CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos, de 1 a 3 anos, não estão nessas exceções. As condições atuais estão na página do [cupom Nestlé Nutre](/cupons/nestle-nutre).",
           "Preço e desconto mudam. O valor que vale é o da loja no momento da compra."
         ]
       },
@@ -87308,7 +87308,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O código CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Nanlac Supreme Pro, de 1 a 3 anos, não está nessas exceções. O CECI não vale no Aptanutri, que é de outra loja e outra marca. As condições atuais estão na [página da Nestlé Nutre](/cupons/nestle-nutre).",
+          "O código CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Nanlac Supreme Pro, de 1 a 3 anos, não está nessas exceções. O CECI não vale no Aptanutri, que é de outra loja e outra marca. As condições atuais estão na página do [cupom Nestlé Nutre](/cupons/nestle-nutre).",
           "A Danone avisa na página que a embalagem é nova e que o cliente ainda pode receber a embalagem antiga.",
           "Preço e desconto mudam. O valor que vale é o da loja no momento da compra."
         ]
@@ -87668,7 +87668,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Contas nossas: preço dividido pelo peso da lata, e depois pelas medidas do rótulo de cada produto (14,1 g por 100 ml no Nanlac, 13,8 g no Ninho). Na lata de 800 g, o Nanlac fica em R$ 11,94 por 100 g contra R$ 6,18 do Ninho, cerca de 1,9 vez. Na Nestlé Nutre, o Ninho de 800 g saiu mais caro por 100 g do que o de 400 g e o de 1,2 kg. O Nanlac tem ainda o combo \"leve 5, pague 4\" por R$ 449,56 (conta nossa: R$ 89,91 por lata).",
-          "O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos são de 1 a 3 anos e não estão nas exceções, mas confira o valor final no resumo do pedido antes de pagar. As condições vigentes ficam na [página da Nestlé Nutre](/cupons/nestle-nutre). Preço e desconto mudam, e o que vale é o da loja no momento da compra."
+          "O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos são de 1 a 3 anos e não estão nas exceções, mas confira o valor final no resumo do pedido antes de pagar. As condições vigentes ficam na página do [cupom Nestlé Nutre](/cupons/nestle-nutre). Preço e desconto mudam, e o que vale é o da loja no momento da compra."
         ]
       },
       {
@@ -88013,7 +88013,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Pelas contas, o Centrum custa cerca de 2,9 vezes o Nutren por dia nesses preços. A comparação não é de dose igual: cada um traz nutrientes e quantidades diferentes, como mostra a tabela acima. Preço de farmácia muda por loja e por dia.",
-          "O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Vale para o Nutren, e as condições vigentes ficam na [página da Nestlé Nutre](/cupons/nestle-nutre). O desconto não vale para o Centrum."
+          "O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Vale para o Nutren, e as condições vigentes ficam na página do [cupom Nestlé Nutre](/cupons/nestle-nutre). O desconto não vale para o Centrum."
         ]
       },
       {
@@ -101447,7 +101447,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar com o cupom e quando conferir",
         "paragraphs": [
           "O cupom CSEMCASACOMCECILIA vale para todo o site oficial da Cléa Store, em todas as formas de pagamento, e soma com as promoções e com o cashback da loja. Confira no carrinho se o desconto entrou antes de pagar. A alfaiataria não está no Mercado Livre, onde a loja oficial da Cléa vende só t-shirts e bodies, e o cupom não vale lá: [a comparação entre os dois canais está no artigo sobre Mercado Livre ou site](/reviews/clea-store-mercado-livre-ou-site).",
-          "O passo a passo para aplicar o código está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as regras atualizadas ficam na [página de cupons da loja](/cupons/clea-store). No teste da equipe, um kit de 3 t-shirts saiu de R$ 258,00 para R$ 232,20 no carrinho.",
+          "O passo a passo para aplicar o código está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as regras atualizadas ficam na página do [cupom Cléa Store](/cupons/clea-store). No teste da equipe, um kit de 3 t-shirts saiu de R$ 258,00 para R$ 232,20 no carrinho.",
           "A devolução é grátis. Algumas fichas, como a do Blazer Risca, dizem que a loja aceita devolução em até 30 dias.",
           "Promoção e estoque mudam, então confira no site antes de comprar. Antes de escolher o tamanho, veja a [tabela de medidas da Cléa Store, com as medidas do corpo de cada tamanho](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho)."
         ]
@@ -102190,7 +102190,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom e cashback no site",
         "paragraphs": [
           "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback da loja. Ele não vale no Mercado Livre. A equipe testou o cupom em 14/10/2026: o Kit 3 T-Shirts Oversized Classic, em promoção por R$ 258,00, saiu por R$ 232,20, e o pedido gerou R$ 23,22 de cashback, calculado sobre o valor já com o cupom.",
-          "O cashback só conta quando a loja credita. O passo a passo está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as condições atualizadas, na [página do cupom](/cupons/clea-store)."
+          "O cashback só conta quando a loja credita. O passo a passo está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as condições atualizadas estão na página do [cupom Cléa Store](/cupons/clea-store)."
         ],
         "images": [
           {
@@ -105264,7 +105264,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como usar o cupom MMEMCASACOMCECILIA no site oficial da Mais Mu: 10% OFF, passo a passo no checkout, frete grátis por região e por que ele não vale no Mercado Livre. Testado no carrinho em 20/10/2026.",
-    "metaDescription": "Cupom Mais Mu MMEMCASACOMCECILIA: 10% OFF em todo o site, soma com o Pix e não vale no Mercado Livre. Veja como aplicar no checkout e o frete.",
+    "metaDescription": "Passo a passo para aplicar o MMEMCASACOMCECILIA no checkout da Mais Mu: 10% OFF em todo o site, soma com o Pix e não vale no Mercado Livre.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -105905,7 +105905,7 @@ export const reviewsData: unknown[] = [
           "Quer um produto com o selo Creapure: as páginas da Mais Mu lidas não declaram o selo; confira o rótulo do pote."
         ],
         "postParagraphs": [
-          "O cupom [MMEMCASACOMCECILIA](/cupons/mais-mu) dá 10% em todas as formas de pagamento e soma com os 3% do Pix; a Growth não tem cupom neste site."
+          "Com o código MMEMCASACOMCECILIA, o [cupom Mais Mu](/cupons/mais-mu) dá 10% em todas as formas de pagamento e soma com os 3% do Pix; a Growth não tem cupom neste site."
         ]
       },
       {
@@ -106231,7 +106231,7 @@ export const reviewsData: unknown[] = [
           "**Dux, cupom:** nenhum cupom nosso. A Dux não é parceira do site."
         ],
         "postParagraphs": [
-          "O passo a passo do código está em [cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar), e as regras da loja, na [página do cupom](/cupons/mais-mu)."
+          "O passo a passo do código está em [cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar), e as regras da loja estão na página do [cupom Mais Mu](/cupons/mais-mu)."
         ]
       },
       {
@@ -106546,7 +106546,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Código de recompensa CECILIA010 na YesStyle",
         "paragraphs": [
-          "O CECILIA010 é código de recompensa, não cupom. No checkout da YesStyle, ele vai no campo Reward Code. Pela ficha do código aqui do site, conferida em 01/08/2026, ele dá até 5% na primeira compra e 2% nas compras seguintes, e soma com os cupons da própria loja. Os cupons da YesStyle mudam e vencem, então a lista do momento fica na página da loja: [cupons da YesStyle](/cupons/yesstyle).",
+          "O CECILIA010 é código de recompensa, não cupom. No checkout da YesStyle, ele vai no campo Reward Code. Pela ficha do código aqui do site, conferida em 01/08/2026, ele dá até 5% na primeira compra e 2% nas compras seguintes, e soma com os cupons da própria loja. Os cupons da YesStyle mudam e vencem, então a lista do momento fica na página da loja: [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
           "A Olive Young não tem código nosso neste comparativo, nem cupom. O que ela dá a membro está no programa descrito acima, e pode mudar."
         ]
       },
@@ -120948,7 +120948,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como usar o cupom SKEMCASACOMCECILIA no site oficial da Skelt: 10% OFF, passo a passo na sacola, o que ele soma com o Pix e por que não vale no Mercado Livre. Testado na sacola em 21/10/2026.",
-    "metaDescription": "Cupom Skelt SKEMCASACOMCECILIA: 10% OFF em todo o site, soma com a promoção e com os 5% do Pix. Veja onde colar o código na sacola e o que conferir no resumo.",
+    "metaDescription": "Onde colar o SKEMCASACOMCECILIA na sacola da Skelt e o que conferir no resumo: 10% OFF em todo o site, que soma com a promoção e com os 5% do Pix.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
@@ -121954,7 +121954,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como usar o cupom CECILIA10 no site oficial da Bagaggio: 10% OFF em todo o site, passo a passo na sacola, o que ele soma com o Pix e onde não vale. Testado na sacola em 22/10/2026.",
-    "metaDescription": "Cupom Bagaggio CECILIA10: 10% OFF em todo o site, inclusive no Outlet. Veja onde colar o código na sacola e o que soma com o Pix de 5%.",
+    "metaDescription": "Onde colar o CECILIA10 na sacola da Bagaggio e o que ele soma com o Pix de 5%: 10% OFF em todo o site, inclusive no Outlet.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
     "draft": false,
@@ -126195,7 +126195,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom CECILIA10",
         "paragraphs": [
           "O CECILIA10 é um cupom de 10% de desconto em todo o site da Black Skull, com todas as formas de pagamento, e soma com as promoções vigentes. No teste de checkout de 13/10/2026, o desconto valeu em todos os itens do carrinho, inclusive nos que já estavam em promoção. Vale para conta nova e antiga. O frete é calculado pela loja e fica fora do cupom. O código não vale no Mercado Livre: lá vale o preço do anúncio.",
-          "Na prática, o cupom tira R$ 15,99 do refil de 900 g (R$ 159,90 viram R$ 143,91) e R$ 27,99 do 1,8 kg e do 3W Core (R$ 279,90 viram R$ 251,91). No 80% HD sabor Banana, que saía a R$ 139,90, a conta com o cupom dá R$ 125,91, ou R$ 18,25 por 100 g de proteína. O passo a passo do código está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e as regras ficam na [página do cupom](/cupons/black-skull)."
+          "Na prática, o cupom tira R$ 15,99 do refil de 900 g (R$ 159,90 viram R$ 143,91) e R$ 27,99 do 1,8 kg e do 3W Core (R$ 279,90 viram R$ 251,91). No 80% HD sabor Banana, que saía a R$ 139,90, a conta com o cupom dá R$ 125,91, ou R$ 18,25 por 100 g de proteína. O passo a passo do código está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e as regras ficam na página do [cupom Black Skull](/cupons/black-skull)."
         ]
       },
       {
@@ -129004,7 +129004,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O Pix da loja tira 3% do preço de venda, e o cupom MMEMCASACOMCECILIA dá 10% em todo o site e soma com o Pix. As contas com os dois estão em \"Quanto custa cada dose\".",
+          "O Pix da loja tira 3% do preço de venda, e o [cupom Mais Mu](/cupons/mais-mu), com o código MMEMCASACOMCECILIA, dá 10% em todo o site e soma com o Pix. As contas com os dois estão em \"Quanto custa cada dose\".",
           "O sachê Azedinha Morango é o único sem tabela: a loja não publica a tabela deste sabor, e os 150 mg de cafeína e 400 mg de taurina da linha dele vêm da arte da caixa, na página do produto."
         ]
       },
@@ -130582,7 +130582,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e o cupom",
         "paragraphs": [
-          "A Let's Eat It vende a linha Le Creuset, e a [página da loja](/cupons/letseatit) reúne as condições. O cupom MAUAD dá 5% no site, vale em Le Creuset e soma com os 5% do Pix.",
+          "A Let's Eat It vende a linha Le Creuset, e as condições estão na página do [cupom Let's Eat It](/cupons/letseatit). O cupom MAUAD dá 5% no site, vale em Le Creuset e soma com os 5% do Pix.",
           "Exemplo com a 24 cm, conta nossa sobre o preço de 26/10/2026, sem frete: R$ 2.949 vira R$ 2.801,55 com o cupom e R$ 2.661,47 com o Pix. Aplique o cupom primeiro e depois o Pix.",
           "Para indução, forno, lava-louças e garantia, leia [Le Creuset vale a pena](/reviews/le-creuset-vale-a-pena). Para saber como conferir se a panela é original e onde comprar, veja o artigo irmão, [Le Creuset original: como saber](/reviews/le-creuset-original-como-saber)."
         ]
@@ -131265,7 +131265,7 @@ export const reviewsData: unknown[] = [
     "slug": "cupom-toda-up-como-usar",
     "locale": "pt",
     "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada",
-    "seoTitle": "Cupom Fita Up / Toda Up: 10% OFF, como usar e o que soma",
+    "seoTitle": "Como usar o cupom da Toda Up e o que ele soma no carrinho",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -131281,7 +131281,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Como usar o cupom da Toda Up no site oficial: 10% OFF em todo o site, inclusive em promoção, o passo a passo no carrinho e o que ele somou com a Black Antecipada no teste de 26/10/2026.",
-    "metaDescription": "Cupom Toda Up: 10% OFF em todo o site, vale em produto em promoção e somou com a progressiva da Black Antecipada no carrinho (26/10/2026). Veja o passo a passo.",
+    "metaDescription": "Passo a passo para usar o cupom da Toda Up no carrinho: 10% OFF em todo o site, vale em produto em promoção e somou com a progressiva da Black Antecipada.",
     "image": "/images/reviews/toda-up/cupom-toda-up-capa-discover.webp",
     "imageAlt": "Modelo com o Sutiã Comfort Up rosa da Toda Up, com o logo da loja e o desconto de 10% do cupom da Cecília",
     "imageFit": "contain",
@@ -131955,7 +131955,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e preço",
         "paragraphs": [
-          "A Fita Up se compra no site oficial da Toda Up, na categoria Adesivos. Os preços de 26/10/2026, da unidade e do kit Leve 2, estão na seção \"O que é a Fita Up\" e podem mudar. O [cupom da Toda Up](/reviews/cupom-toda-up-como-usar) somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026, no carrinho, sem finalizar a compra. O botão desta página abre o site da Toda Up."
+          "A Fita Up se compra no site oficial da Toda Up, na categoria Adesivos. Os preços de 26/10/2026, da unidade e do kit Leve 2, estão na seção \"O que é a Fita Up\" e podem mudar. O [cupom Toda Up](/cupons/toda-up) somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026, no carrinho, sem finalizar a compra. O botão desta página abre o site da Toda Up."
         ]
       },
       {
@@ -132191,7 +132191,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e preço",
         "paragraphs": [
-          "O sutiã se compra no site oficial da Toda Up, na categoria Adesivos, pelo botão desta página. O [cupom da Toda Up](/reviews/cupom-toda-up-como-usar) dá 10% e somou com os kits Leve 2 e Leve 3 no carrinho."
+          "O sutiã se compra no site oficial da Toda Up, na categoria Adesivos, pelo botão desta página. O [cupom Toda Up](/cupons/toda-up) dá 10% e somou com os kits Leve 2 e Leve 3 no carrinho."
         ]
       },
       {
@@ -132355,7 +132355,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e preço",
         "paragraphs": [
           "O protetor se compra no site oficial da Toda Up, a marca nova da mesma empresa da Fita Up, como explica [Toda Up é confiável?](/reviews/toda-up-e-confiavel). O preço de 27/10/2026 está na seção \"O que é o protetor de silicone\" e pode mudar. Na mesma data, a página oferecia o kit \"Leve 3\" por R$ 139,80 (de R$ 299,70) e, em \"Leve junto\", sugeria o Case Protetor de Silicone, a R$ 49,90 (de R$ 79,90).",
-          "O [cupom da Toda Up](/reviews/cupom-toda-up-como-usar) somou com os kits Leve 2 e Leve 3 no teste de carrinho de 26/10/2026, sem finalizar a compra; confira no carrinho. O botão desta página abre o site da Toda Up."
+          "O [cupom Toda Up](/cupons/toda-up) somou com os kits Leve 2 e Leve 3 no teste de carrinho de 26/10/2026, sem finalizar a compra; confira no carrinho. O botão desta página abre o site da Toda Up."
         ]
       },
       {
@@ -132977,7 +132977,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom, Pix e frete no site",
         "paragraphs": [
-          "O CECILIA10 tira 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Vale para conta nova e antiga. No teste de 24/10/2026, o desconto entrou num kit de whey em promoção e num whey a preço cheio. Nas páginas que lemos, o site não mostra desconto próprio no Pix: o que baixa o preço é o cupom, no Pix ou no cartão. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar), e as condições do mês, na [página do cupom](/cupons/black-skull).",
+          "O CECILIA10 tira 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Vale para conta nova e antiga. No teste de 24/10/2026, o desconto entrou num kit de whey em promoção e num whey a preço cheio. Nas páginas que lemos, o site não mostra desconto próprio no Pix: o que baixa o preço é o cupom, no Pix ou no cartão. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar), e as condições do mês estão na página do [cupom Black Skull](/cupons/black-skull).",
           "O frete do site é grátis acima de R$ 199,90 no Sul e no Sudeste. A regra olha o total do carrinho depois do desconto: um whey de 900 g sozinho, a R$ 152,91 com o cupom, fica abaixo do limite e paga frete. Para chegar aos R$ 199,90, o pedido precisa de mais um item que, com o cupom, some pelo menos R$ 46,99: um pré-treino de 300 g serve (o whey com o B.O.P.E 300 g, os dois com o cupom, dá R$ 211,32); uma creatina sozinha não chega (com a Creatine Turbo 300 g, R$ 188,82)."
         ]
       },
@@ -133528,7 +133528,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde entra o cupom CECI",
         "paragraphs": [
-          "O CECI dá 10% na loja oficial da Nestlé Nutre. Não testamos o CECI com o kit nem com a assinatura, então confira no carrinho antes de pagar.",
+          "O [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI) dá 10% na loja oficial. Não testamos o CECI com o kit nem com a assinatura, então confira no carrinho antes de pagar.",
           "O CECI não vale em Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses.",
           "O passo a passo para usar o cupom está em [como usar o cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar).",
           "A loja também tem um programa de cupom mensal, com cadastro. Ele fica fora desta comparação."
@@ -134526,7 +134526,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pontos YS e o cupom do app",
         "paragraphs": [
           "Quem entra na conta pelo app ganha 50 pontos YS, uma vez. Reinstalar não dá os pontos de novo. Os pontos não são o código de recompensa: eles se aplicam na etapa \"Payment Information\" do checkout, e o CECILIA010 entra na tela \"Enter Code\". Um não substitui o outro.",
-          "A loja diz que lança, uma vez por mês e em horário aleatório, um cupom de 24 horas que só vale em pedido feito pelo app; na conferência de 28/10/2026 não havia um ativo, e o cupom em destaque no app era o mesmo do site. Os cupons ativos da loja ficam na [página da YesStyle](/cupons/yesstyle)."
+          "A loja diz que lança, uma vez por mês e em horário aleatório, um cupom de 24 horas que só vale em pedido feito pelo app; na conferência de 28/10/2026 não havia um ativo, e o cupom em destaque no app era o mesmo do site. Os cupons ativos da loja ficam em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
         ]
       },
       {
@@ -155439,7 +155439,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "As queixas se concentram na entrega, então o que você confere antes de pagar é o frete e o prazo do seu país, que aparecem no checkout. Para Portugal, a YesStyle publica prazo e frete na tabela dela, e o IVA já vem no preço; os valores e a contagem do prazo estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Depois de pagar, guarde o número do pedido e o código de rastreio: é com eles que se abre um chamado no atendimento se o pacote atrasar ou o rastreio parar.",
-          "Se você decidiu comprar, a [página da YesStyle](/cupons/yesstyle) aqui do site leva à loja. O link é de afiliado: a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você."
+          "Se você decidiu comprar, a página de [cupons YesStyle e código de recompensa](/cupons/yesstyle) aqui do site leva à loja. O link é de afiliado: a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você."
         ]
       },
       {
@@ -161097,7 +161097,7 @@ export const reviewsData: unknown[] = [
           "Para jantar com convidados: o Poá Terracota (R$ 56,00) ou o Bordado Duplo Bege (R$ 58,00), os dois de 45 x 45 cm. A ficha do Poá descreve um bordado terracota em contorno ondulado, e a do Bege, um bordado duplo bege. Para seis pessoas com reserva, a diferença entre os dois é de R$ 14,00."
         ],
         "postParagraphs": [
-          "Medida e cor do jogo americano, que vai por baixo do prato, estão no [guia do jogo americano de tecido](/reviews/jogo-americano-tecido-tamanho-cor). As condições do cupom estão na [página de cupons da Let's Eat It](/cupons/letseatit)."
+          "Medida e cor do jogo americano, que vai por baixo do prato, estão no [guia do jogo americano de tecido](/reviews/jogo-americano-tecido-tamanho-cor). As condições estão na página do [cupom Let's Eat It](/cupons/letseatit)."
         ],
         "images": [
           {
@@ -161344,7 +161344,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e o desconto",
         "paragraphs": [
-          "Todas as peças deste guia estão na Let's Eat It, com frete calculado pelo CEP. O código MAUAD tira 5% em qualquer forma de pagamento e soma com o desconto de 5% do Pix que a página do Limone mostra; pela nossa conta de 29/10/2026, o Limone de R$ 54,65 sai por R$ 51,92 com um dos dois e por R$ 49,32 com os dois. As condições estão na [página de cupons da Let's Eat It](/cupons/letseatit).",
+          "Todas as peças deste guia estão na Let's Eat It, com frete calculado pelo CEP. O código MAUAD tira 5% em qualquer forma de pagamento e soma com o desconto de 5% do Pix que a página do Limone mostra; pela nossa conta de 29/10/2026, o Limone de R$ 54,65 sai por R$ 51,92 com um dos dois e por R$ 49,32 com os dois. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "Se a mesa é para uma data, o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) soma sousplat, guardanapo, taças e talheres para seis pessoas."
         ]
       },
@@ -169956,7 +169956,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Preço de cartão lido na loja em 30/10/2026. Pix e cupom: o SKEMCASACOMCECILIA dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só. Não calculamos o valor final com o cupom nesta leitura: confira no resumo do pedido."
+          "Preço de cartão lido na loja em 30/10/2026. Pix e cupom: o SKEMCASACOMCECILIA, o [cupom Skelt](/cupons/skelt), dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só. Não calculamos o valor final com o cupom nesta leitura: confira no resumo do pedido."
         ],
         "image": {
           "src": "/images/reviews/skelt/bronzeado-instantaneo-skelt-ou-autobronzeador-frasco.webp",
@@ -170151,7 +170151,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Pix e cupom: o SKEMCASACOMCECILIA dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só. Não calculamos o valor final com o cupom nesta leitura, então confira no resumo do pedido."
+          "Pix e cupom: o SKEMCASACOMCECILIA, o [cupom Skelt](/cupons/skelt), dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só. Não calculamos o valor final com o cupom nesta leitura, então confira no resumo do pedido."
         ],
         "image": {
           "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-luva.webp",
@@ -170297,7 +170297,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Comprados separados, o [Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 119,90), a [Luva Aplicadora](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 34,90) e o iluminador (R$ 99,90) somam R$ 254,70. O kit sai por R$ 191,78, R$ 62,92 a menos, em 30/10/2026. Se quer só o brilho, o iluminador avulso é a conta.",
-          "O cupom SKEMCASACOMCECILIA dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só. Os valores acima são de cartão, sem cupom."
+          "O [cupom Skelt](/cupons/skelt), o SKEMCASACOMCECILIA, dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só. Os valores acima são de cartão, sem cupom."
         ],
         "image": {
           "src": "/images/reviews/skelt/iluminador-corporal-skelt-como-usar-kit.webp",
@@ -172017,7 +172017,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O Pix dá 5% de desconto em muitos produtos, e o código MAUAD dá mais 5% em qualquer forma de pagamento, somado ao Pix.",
+          "O Pix dá 5% de desconto em muitos produtos, e o [cupom Let's Eat It](/cupons/letseatit), com o código MAUAD, dá mais 5% em qualquer forma de pagamento, somado ao Pix.",
           "Para a mesa inteira, com guardanapo, jogo americano, talheres e pratos, veja o [guia de mesa posta do dia a dia](/reviews/mesa-posta-dia-a-dia-o-que-comprar)."
         ]
       },

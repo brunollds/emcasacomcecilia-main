@@ -1,9 +1,9 @@
 ---
 titulo_provisorio: "Artigo de como usar × página de cupons: a mesma busca, um resultado só"
 parceiro: "várias"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao: seoTitle/meta dos 7 artigos de como usar e âncora 'cupom <loja>' no corpo dos artigos da lista; remedir ~14/11"
+proxima_acao: "remedir no GSC ~14/11 (aplicado em 31/10, PR claude/canibalizacao-cupom)"
 bloqueado_por: null
 data_criacao: "2026-10-31"
 modo_i18n: "somente-pt"
