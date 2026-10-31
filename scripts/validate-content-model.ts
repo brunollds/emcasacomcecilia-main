@@ -448,6 +448,13 @@ for (const review of reviews) {
           message: `cabeçalho de tabela com markdown ("](" ou "**") em "${section.heading}": a página o mostra cru`,
         });
       }
+      // O link de produto da foto (ReviewInlineImage) vai para a loja, então só https.
+      const sectionImages = [...(typeof section.image === 'object' && section.image ? [section.image] : []), ...(section.images ?? [])];
+      for (const image of sectionImages) {
+        if (image.href !== undefined && !/^https:\/\/[^\s]+$/.test(image.href)) {
+          reportError({ type: 'review', id: review.id, slug: review.slug, message: `foto com link fora de https em "${section.heading}": ${image.href}` });
+        }
+      }
       if (section.styling) {
         for (const problem of getStylingProblems(section.styling)) {
           reportError({ type: 'review', id: review.id, slug: review.slug, message: `card de estilo em "${section.heading}": ${problem}` });
