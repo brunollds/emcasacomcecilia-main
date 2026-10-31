@@ -193,17 +193,31 @@
       "paragraphs": [
         "商品ページによると、Serenescape ラインの花柄パジャマセットで、ポケットと配色パイピングつきです。トップスとショートパンツの軽い夏用パジャマを探している人向けです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-      "imageAlt": "配色パイピングの Serenescape 花柄パジャマ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+        "alt": "配色パイピングの Serenescape 花柄パジャマ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN で花柄パジャマを見る",
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Serenescape の花柄パジャマ",
+            "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+            "howTo": "暑い日に寝るときや家で過ごすときのトップスとショートパンツ。",
+            "occasion": "暑い夏の夜。"
+          }
+        ]
+      }
     },
     {
       "heading": "ハート柄ストライプのタンクトップ＆ショートパンツのパジャマ",
@@ -215,17 +229,36 @@
       "paragraphs": [
         "商品ページによると、SHEIN 自社ブランドのレディースパジャマで、タンクトップとショートパンツ、ストライプにハート柄です。価格は色やサイズで変わり、10月28日の商品ページには取り消し線の価格がありませんでした。"
       ],
-      "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-      "imageAlt": "ハート柄ストライプのタンクトップとショートパンツのパジャマ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+        "alt": "ハート柄ストライプのタンクトップとショートパンツのパジャマ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN でストライプのパジャマを見る",
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "ハート柄ストライプのタンクトップ＆ショートパンツのパジャマ",
+            "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+            "howTo": "寝るときのタンクトップとショートパンツ。上から開襟シャツを羽織れば家着になります。",
+            "occasion": "夏、家で。",
+            "pairsWith": [
+              {
+                "label": "前開きのコットンシャツ"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "カートゥーン柄の3点セットパジャマ",
@@ -237,17 +270,31 @@
       "paragraphs": [
         "商品ページによると、Dream Adore のカートゥーン柄3点セットで、ショートパンツのウエストにリボンがついています。セレクションのパジャマの中でいちばん安い一着です。"
       ],
-      "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-      "imageAlt": "カートゥーン柄とリボンつきショートパンツの3点セットパジャマ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+        "alt": "カートゥーン柄とリボンつきショートパンツの3点セットパジャマ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN で3点セットパジャマを見る",
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "カートゥーン柄の3点セットパジャマ",
+            "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+            "howTo": "ウエストにリボンのあるショートパンツ付きのセット。寝るときや家で過ごすときに。",
+            "occasion": "家で普段使い。"
+          }
+        ]
+      }
     },
     {
       "heading": "キッズ",
@@ -265,17 +312,39 @@
       "paragraphs": [
         "商品ページによると、SHEIN 自社ブランドの女の子用セットアップで、ハート柄タンクトップとワイドパンツの組み合わせです。4〜7歳の女の子に、夏のコーディネートを一式そろえたい人向けです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-      "imageAlt": "ハート柄タンクトップとワイドパンツのキッズセットアップ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+        "alt": "ハート柄タンクトップとワイドパンツのキッズセットアップ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN で女の子のセットアップを見る",
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "ハート柄タンクトップとワイドパンツの女の子セットアップ",
+            "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+            "howTo": "タンクトップとワイドパンツを合わせた、そのまま着られる夏のスタイル。",
+            "occasion": "夏のお出かけ、4〜7歳の女の子に。",
+            "pairsWith": [
+              {
+                "label": "フラットサンダル"
+              },
+              {
+                "label": "つば広の帽子"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "暗闇で光る恐竜の男の子パジャマ",
@@ -287,17 +356,31 @@
       "paragraphs": [
         "商品ページによると、男の子用の2点セットパジャマで、暗闇で光るクリスマスの恐竜柄、ウエストはゴムです。4〜7歳の男の子に、年末のパジャマを早めに用意したい人向けです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-      "imageAlt": "暗闇で光るクリスマスの恐竜柄のキッズ2点セットパジャマ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+        "alt": "暗闇で光るクリスマスの恐竜柄のキッズ2点セットパジャマ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN で恐竜のパジャマを見る",
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "暗闇で光る恐竜の男の子パジャマ",
+            "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+            "howTo": "2ピースのパジャマ。電気を消すと恐竜が光ります。",
+            "occasion": "寝るときに、4〜7歳の男の子に。"
+          }
+        ]
+      }
     },
     {
       "heading": "チョーク画の動物柄ベビーTシャツ",
@@ -309,17 +392,39 @@
       "paragraphs": [
         "商品ページによると、男の子のベビー用Tシャツで、トラ、クマ、ナマケモノなどがチョーク画のタッチで描かれています。セレクションのキッズアイテムでいちばん安く、生後6か月から3歳向けです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-      "imageAlt": "チョーク画の動物柄ベビーTシャツ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+        "alt": "チョーク画の動物柄ベビーTシャツ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN でベビーTシャツを見る",
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "チョーク画の動物柄ベビーTシャツ",
+            "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+            "howTo": "普段使いのTシャツ。パンツやニットのショートパンツと合わせて。",
+            "occasion": "普段使い、6か月〜3歳の赤ちゃんに。",
+            "pairsWith": [
+              {
+                "label": "ニットパンツ"
+              },
+              {
+                "label": "ニットのショートパンツ"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "長袖の男の子パジャマ、柄はおまかせ",
@@ -331,17 +436,31 @@
       "paragraphs": [
         "商品ページによると、男の子用の長袖・長ズボンのパジャマで、全体に柄が入っています。販売されるのは1セットで、柄（恐竜、ショベルカー、飛行機）は買う人ではなくショップが選びます。"
       ],
-      "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-      "imageAlt": "恐竜、ショベルカー、飛行機のいずれかの柄のキッズ長袖パジャマ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+        "alt": "恐竜、ショベルカー、飛行機のいずれかの柄のキッズ長袖パジャマ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN で長袖パジャマを見る",
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "長袖の男の子パジャマ、柄はおまかせ",
+            "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+            "howTo": "長袖と長ズボンで、涼しい夜にぴったり。",
+            "occasion": "涼しい夜に、9か月〜7歳。"
+          }
+        ]
+      }
     },
     {
       "heading": "レディース",
@@ -359,17 +478,43 @@
       "paragraphs": [
         "商品ページによると、SHEIN Franclia のタンクトップとワイドパンツのセットアップで、青いストライプ柄。ショップは普段使い、仕事、休暇向けとしています。一式でコーディネートを済ませたい人向けです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-      "imageAlt": "青いストライプのタンクトップとワイドパンツのセットアップ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+        "alt": "青いストライプのタンクトップとワイドパンツのセットアップ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN でストライプのセットアップを見る",
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "青いストライプのタンクトップとワイドパンツのセットアップ",
+            "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+            "howTo": "タンクトップとワイドパンツを合わせれば、そのまま完成するスタイル。カーディガンを羽織れば、暑い外からエアコンの効いた室内まで対応できます。",
+            "occasion": "普段の日、仕事、休暇に。店舗の説明による。",
+            "pairsWith": [
+              {
+                "label": "DAZY のスリムなスポーツカーディガン",
+                "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+              },
+              {
+                "label": "フラットサンダル"
+              },
+              {
+                "label": "斜めがけバッグ"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "DAZY のスリムなスポーツカーディガン",
@@ -381,17 +526,43 @@
       "paragraphs": [
         "商品ページによると、DAZY の長袖スリムフィットのスポーツカーディガンで、ショップは季節の変わり目の薄手ジャケットとしています。冷房対策や夕方用に軽い羽織りを探している人向けです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-      "imageAlt": "長袖のスリムなスポーツカーディガン、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+        "alt": "長袖のスリムなスポーツカーディガン、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN でカーディガンを見る",
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "DAZY のスリムなスポーツカーディガン",
+            "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+            "howTo": "タンクトップやTシャツの上に羽織れば、薄手のジャケットとして使えます。",
+            "occasion": "季節の変わり目、エアコン、夕方。",
+            "pairsWith": [
+              {
+                "label": "青いストライプのタンクトップとワイドパンツのセットアップ",
+                "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+              },
+              {
+                "label": "ジーンズ"
+              },
+              {
+                "label": "ニットワンピース"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "ペーパーバッグウエストの柄ショートパンツ",
@@ -403,17 +574,39 @@
       "paragraphs": [
         "商品ページによると、SHEIN Frenchy ラインのペーパーバッグウエストの柄ショートパンツで、ショップは夏と休暇向けの「オールドマネー」スタイルとしています。セレクションの衣類でいちばん安く、商品ページの割引率も最大です。"
       ],
-      "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-      "imageAlt": "ペーパーバッグウエストのレディース柄ショートパンツ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+        "alt": "ペーパーバッグウエストのレディース柄ショートパンツ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN で柄ショートパンツを見る",
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "ペーパーバッグウエストの柄ショートパンツ",
+            "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+            "howTo": "柄が映えるように、無地のTシャツと合わせて。",
+            "occasion": "夏と休暇。",
+            "pairsWith": [
+              {
+                "label": "白いTシャツ"
+              },
+              {
+                "label": "フラットサンダル"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "ウエストゴムのワイドジーンズ",
@@ -425,17 +618,43 @@
       "paragraphs": [
         "商品ページによると、Flexra のウエストゴムのワイドジーンズで、ショップは楽に穿けるワイドレッグとしています。セレクションでいちばん高いアイテムです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-      "imageAlt": "ウエストゴムのワイドジーンズ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+        "alt": "ウエストゴムのワイドジーンズ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN でジーンズを見る",
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "ウエストゴムのワイドジーンズ",
+            "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+            "howTo": "幅広の脚とバランスを取るなら、パンプスや先のとがったフラットシューズと合わせて。",
+            "occasion": "普段使い、堅苦しくない仕事に。",
+            "pairsWith": [
+              {
+                "label": "白とキャラメルのスリングバックパンプス",
+                "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+              },
+              {
+                "label": "ベーシックなTシャツ"
+              },
+              {
+                "label": "細いベルト"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "アクセサリー",
@@ -453,17 +672,40 @@
       "paragraphs": [
         "商品ページによると、白とキャラメル色のスリングバックパンプスで、チャンキーヒール。ショップはエレガントでモダンとしています。仕事やパーティーに、安定感のあるヒールの靴を探している人向けです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-      "imageAlt": "チャンキーヒールの白とキャラメルのスリングバックパンプス、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+        "alt": "チャンキーヒールの白とキャラメルのスリングバックパンプス、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN でパンプスを見る",
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "白とキャラメルのスリングバックパンプス",
+            "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+            "howTo": "テーラードパンツ、ジーンズ、ワンピースと合わせて。ブロックヒールは安定感があると店舗の説明にあります。",
+            "occasion": "仕事とパーティー。",
+            "pairsWith": [
+              {
+                "label": "ウエストゴムのワイドジーンズ",
+                "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+              },
+              {
+                "label": "小さなクラッチバッグ"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "パールとハートのリボンピアス",
@@ -475,17 +717,31 @@
       "paragraphs": [
         "商品ページによると、パールとハートのついたリボンピアスで、ショップはパーティー向けとしています。セレクションでいちばん安いアイテムで、ちょっとしたご褒美や小さなプレゼントになります。"
       ],
-      "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-      "imageAlt": "パールとハートのリボンピアス、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+        "alt": "パールとハートのリボンピアス、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN でピアスを見る",
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "パールとハートのリボンピアス",
+            "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+            "howTo": "リボンが見えるように、髪をまとめて。",
+            "occasion": "パーティーや小さなプレゼントに。"
+          }
+        ]
+      }
     },
     {
       "heading": "グリーンの腕時計とブレスレット・ネックレス・ピアスのセット",
@@ -497,17 +753,31 @@
       "paragraphs": [
         "商品ページによると、グリーンの腕時計、ブレスレット、ネックレス、ピアスの9点セットで、ショップは普段使いやプレゼント向けとしています。約810円でアクセサリーを一式そろえたい人向けです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-      "imageAlt": "グリーンの腕時計、ブレスレット、ネックレス、ピアスの9点セット、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+        "alt": "グリーンの腕時計、ブレスレット、ネックレス、ピアスの9点セット、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN で腕時計セットを見る",
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "グリーンの腕時計とブレスレット・ネックレス・ピアスのセット",
+            "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+            "howTo": "普段は時計だけ、お出かけにはセットのネックレスとピアスを合わせて。",
+            "occasion": "普段使い、お出かけやプレゼントに。"
+          }
+        ]
+      }
     },
     {
       "heading": "多角形フレームのグラデーションレンズのサングラス",
@@ -519,17 +789,31 @@
       "paragraphs": [
         "商品ページによると、LINFEMAND の多角形フレームにグラデーションレンズのサングラスで、6色展開。ショップは運転、ビーチ、旅行向けとしています。商品ページの割引は4%と小さめです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-      "imageAlt": "多角形フレームとグラデーションレンズのサングラス、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+        "alt": "多角形フレームとグラデーションレンズのサングラス、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN でサングラスを見る",
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "多角形フレームのグラデーションレンズのサングラス",
+            "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+            "howTo": "よく着る服に合わせやすい色味のフレーム。",
+            "occasion": "ドライブ、ビーチ、旅行に。店舗の説明による。"
+          }
+        ]
+      }
     },
     {
       "heading": "メンズ",
@@ -547,17 +831,43 @@
       "paragraphs": [
         "商品ページによると、リネンに似た質感のネイビーの半袖ヘンリーネックTシャツで、ショップはカジュアルでリラックスしたフィットとしています。ベーシックより少しきちんと見えるTシャツが欲しい人向けです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-      "imageAlt": "リネン風のネイビーのメンズヘンリーネックTシャツ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+        "alt": "リネン風のネイビーのメンズヘンリーネックTシャツ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN でヘンリーネックTシャツを見る",
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "リネン風のネイビーのヘンリーネックTシャツ",
+            "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+            "howTo": "ゆったり着て、ジーンズやバミューダと合わせると、きちんと感のあるカジュアルに。",
+            "occasion": "普段使いと週末。",
+            "pairsWith": [
+              {
+                "label": "リネンのショートパンツセット",
+                "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+              },
+              {
+                "label": "ジーンズ"
+              },
+              {
+                "label": "白いスニーカー"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "リネンのショートパンツセット",
@@ -569,17 +879,43 @@
       "paragraphs": [
         "商品ページによると、色違いのリネンのショートパンツセットで、ショップはカジュアルでモダンとしています。セットに何枚入っているかは商品ページに書かれていないので、買う前に確認してください。"
       ],
-      "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-      "imageAlt": "色違いのメンズリネンショートパンツセット、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 1,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+        "alt": "色違いのメンズリネンショートパンツセット、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN でショートパンツセットを見る",
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "リネンのショートパンツセット",
+            "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+            "howTo": "無地のTシャツやヘンリーネックと合わせると、夏のカジュアルに。",
+            "occasion": "夏と休暇。",
+            "pairsWith": [
+              {
+                "label": "リネン風のネイビーのヘンリーネックTシャツ",
+                "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+              },
+              {
+                "label": "白いタンクトップ"
+              },
+              {
+                "label": "ローカットのスニーカー"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Manfinity Mode の長袖メンズシャツ",
@@ -591,17 +927,42 @@
       "paragraphs": [
         "商品ページによると、Manfinity Mode の長袖シャツで、ショップは普段使いからフォーマルな場面まで使える万能なシャツとしています。仕事用に少しきちんとしたシャツが必要な人向けです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-      "imageAlt": "Manfinity Mode の長袖メンズシャツ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+        "alt": "Manfinity Mode の長袖メンズシャツ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN で長袖シャツを見る",
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Manfinity Mode の長袖メンズシャツ",
+            "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+            "howTo": "Tシャツの上に開けて羽織るか、テーラードパンツにインして。",
+            "occasion": "仕事とフォーマルな場面に。店舗の説明による。",
+            "pairsWith": [
+              {
+                "label": "テーラードパンツ"
+              },
+              {
+                "label": "ストレートジーンズ"
+              },
+              {
+                "label": "白いTシャツ"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "ウォッシュ加工のゆったりした黒タンクトップ",
@@ -613,17 +974,42 @@
       "paragraphs": [
         "商品ページによると、ウォッシュ加工のゆったりした黒のタンクトップで、ショップは夏のストリートウェアとしています。トレーニング用ではなく、街で着るタンクトップが欲しい人向けです。"
       ],
-      "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-      "imageAlt": "ウォッシュ加工のゆったりしたメンズ黒タンクトップ、SHEIN の商品ページの写真",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+        "alt": "ウォッシュ加工のゆったりしたメンズ黒タンクトップ、SHEIN の商品ページの写真",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN でタンクトップを見る",
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "ウォッシュ加工のゆったりした黒タンクトップ",
+            "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+            "howTo": "バミューダやスウェットのショートパンツと合わせると、ストリートスタイルに。",
+            "occasion": "夏と街歩きに。トレーニング用ではありません。",
+            "pairsWith": [
+              {
+                "label": "ナイロンのバミューダ"
+              },
+              {
+                "label": "白いスニーカー"
+              },
+              {
+                "label": "キャップ"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "買う前に",

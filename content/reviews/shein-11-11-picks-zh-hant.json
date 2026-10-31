@@ -193,17 +193,31 @@
       "paragraphs": [
         "商品頁寫明，這是 Serenescape 系列的碎花睡衣套裝，有口袋和撞色滾邊。適合想要一套上衣加短褲的輕薄夏季睡衣的人。"
       ],
-      "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-      "imageAlt": "Serenescape 撞色滾邊碎花睡衣，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+        "alt": "Serenescape 撞色滾邊碎花睡衣，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看碎花睡衣",
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Serenescape 碎花睡衣",
+            "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+            "howTo": "天熱時睡覺或在家穿的上衣和短褲。",
+            "occasion": "炎熱的夏夜。"
+          }
+        ]
+      }
     },
     {
       "heading": "條紋愛心背心短褲睡衣",
@@ -215,17 +229,36 @@
       "paragraphs": [
         "商品頁寫明，這是 SHEIN 自有品牌的女士睡衣，背心加短褲，條紋配愛心印花。價格隨顏色或尺寸變動，10 月 28 日商品頁沒有顯示原價。"
       ],
-      "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-      "imageAlt": "條紋愛心印花的背心短褲睡衣，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+        "alt": "條紋愛心印花的背心短褲睡衣，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看條紋睡衣",
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "條紋愛心背心短褲睡衣",
+            "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+            "howTo": "睡覺穿的背心和短褲；外面披一件開襟襯衫，就變成居家服。",
+            "occasion": "夏天在家。",
+            "pairsWith": [
+              {
+                "label": "棉質開襟襯衫"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "卡通印花三件式睡衣",
@@ -237,17 +270,31 @@
       "paragraphs": [
         "商品頁寫明，這是 Dream Adore 的三件式套裝，卡通印花，短褲腰部繫蝴蝶結。它是本文睡衣裡最便宜的一套。"
       ],
-      "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-      "imageAlt": "卡通印花配蝴蝶結短褲的三件式睡衣，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+        "alt": "卡通印花配蝴蝶結短褲的三件式睡衣，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看三件式睡衣",
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "卡通印花三件式睡衣",
+            "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+            "howTo": "腰間有蝴蝶結的短褲整套，適合睡覺或在家穿。",
+            "occasion": "日常在家。"
+          }
+        ]
+      }
     },
     {
       "heading": "童裝",
@@ -265,17 +312,39 @@
       "paragraphs": [
         "商品頁寫明，這是 SHEIN 自有品牌的女童套裝，愛心印花背心配寬褲。適合想幫 4 到 7 歲女孩搭一整套夏裝的人。"
       ],
-      "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-      "imageAlt": "愛心背心配寬褲的兒童套裝，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+        "alt": "愛心背心配寬褲的兒童套裝，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看女童套裝",
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "女童愛心背心寬褲套裝",
+            "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+            "howTo": "背心和寬褲搭在一起，就是現成的夏日造型。",
+            "occasion": "夏日出遊，適合 4 至 7 歲女童。",
+            "pairsWith": [
+              {
+                "label": "平底涼鞋"
+              },
+              {
+                "label": "遮陽帽"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "男童夜光恐龍睡衣",
@@ -287,17 +356,31 @@
       "paragraphs": [
         "商品頁寫明，這是男童兩件式睡衣，聖誕恐龍圖案會在黑暗中發光，鬆緊腰。適合想提前幫 4 到 7 歲男孩備好年末節日睡衣的人。"
       ],
-      "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-      "imageAlt": "夜光聖誕恐龍圖案的兒童兩件式睡衣，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+        "alt": "夜光聖誕恐龍圖案的兒童兩件式睡衣，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看恐龍睡衣",
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "男童夜光恐龍睡衣",
+            "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+            "howTo": "兩件式睡衣，關燈後恐龍會發光。",
+            "occasion": "睡覺穿，適合 4 至 7 歲男童。"
+          }
+        ]
+      }
     },
     {
       "heading": "嬰兒粉筆畫動物上衣",
@@ -309,17 +392,39 @@
       "paragraphs": [
         "商品頁寫明，這是男嬰上衣，印著粉筆畫風格的動物，像老虎、熊和樹懶。它是本文裡最便宜的童裝，適合 6 個月到 3 歲的寶寶。"
       ],
-      "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-      "imageAlt": "粉筆畫動物圖案的嬰兒上衣，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+        "alt": "粉筆畫動物圖案的嬰兒上衣，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看嬰兒上衣",
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "嬰兒粉筆畫動物上衣",
+            "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+            "howTo": "日常穿的上衣，搭長褲或針織短褲都可以。",
+            "occasion": "日常穿，適合 6 個月至 3 歲嬰幼兒。",
+            "pairsWith": [
+              {
+                "label": "針織長褲"
+              },
+              {
+                "label": "針織短褲"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "男童長袖睡衣，隨機圖案",
@@ -331,17 +436,31 @@
       "paragraphs": [
         "商品頁寫明，這是男童長袖長褲睡衣，滿版印花。一次只賣一套，圖案（恐龍、挖土機或飛機）由賣家決定，買家不能選。"
       ],
-      "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-      "imageAlt": "恐龍、挖土機或飛機圖案的兒童長袖睡衣，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+        "alt": "恐龍、挖土機或飛機圖案的兒童長袖睡衣，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看長袖睡衣",
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "男童長袖睡衣，隨機圖案",
+            "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+            "howTo": "長袖加長褲，適合較涼的夜晚。",
+            "occasion": "涼爽的夜晚，適合 9 個月至 7 歲。"
+          }
+        ]
+      }
     },
     {
       "heading": "女裝",
@@ -359,17 +478,43 @@
       "paragraphs": [
         "商品頁寫明，這是 SHEIN Franclia 的背心寬褲套裝，藍色條紋，賣家說適合日常、上班和度假。適合想一套搞定穿搭的人。"
       ],
-      "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-      "imageAlt": "藍色條紋的背心寬褲套裝，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+        "alt": "藍色條紋的背心寬褲套裝，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看條紋套裝",
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "藍色條紋背心寬褲套裝",
+            "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+            "howTo": "背心和寬褲搭在一起就是完整造型；外面加一件開襟衫，從戶外的熱到冷氣房都能應付。",
+            "occasion": "日常、上班和假期，依店家說明。",
+            "pairsWith": [
+              {
+                "label": "DAZY 修身運動開襟衫",
+                "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+              },
+              {
+                "label": "平底涼鞋"
+              },
+              {
+                "label": "斜背包"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "DAZY 修身運動開襟衫",
@@ -381,17 +526,43 @@
       "paragraphs": [
         "商品頁寫明，這是 DAZY 的長袖修身運動開襟衫，賣家把它描述成換季的薄外套。適合想找一件在冷氣房或傍晚披上的輕薄外搭的人。"
       ],
-      "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-      "imageAlt": "長袖修身運動開襟衫，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+        "alt": "長袖修身運動開襟衫，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看開襟衫",
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "DAZY 修身運動開襟衫",
+            "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+            "howTo": "套在背心或T恤外面，就是薄外套。",
+            "occasion": "換季時、冷氣房和傍晚。",
+            "pairsWith": [
+              {
+                "label": "藍色條紋背心寬褲套裝",
+                "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+              },
+              {
+                "label": "牛仔褲"
+              },
+              {
+                "label": "針織洋裝"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "紙袋腰印花短褲",
@@ -403,17 +574,39 @@
       "paragraphs": [
         "商品頁寫明，這是 SHEIN Frenchy 系列的紙袋腰印花短褲，賣家把它描述成夏天和度假的「老錢風」。它是本文裡最便宜的衣服，也是商品頁折扣最大的。"
       ],
-      "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-      "imageAlt": "紙袋腰的女士印花短褲，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+        "alt": "紙袋腰的女士印花短褲，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看印花短褲",
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "紙袋腰印花短褲",
+            "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+            "howTo": "搭素色T恤，讓印花更突出。",
+            "occasion": "夏天和假期。",
+            "pairsWith": [
+              {
+                "label": "白色T恤"
+              },
+              {
+                "label": "平底涼鞋"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "鬆緊腰寬褲牛仔褲",
@@ -425,17 +618,43 @@
       "paragraphs": [
         "商品頁寫明，這是 Flexra 的鬆緊腰寬褲牛仔褲，賣家說它舒適、褲管寬。它是本文裡最貴的一件。"
       ],
-      "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-      "imageAlt": "鬆緊腰的寬褲牛仔褲，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+        "alt": "鬆緊腰的寬褲牛仔褲，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看牛仔褲",
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "鬆緊腰寬褲牛仔褲",
+            "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+            "howTo": "搭配高跟鞋或尖頭平底鞋，能平衡寬褲管的線條。",
+            "occasion": "日常和不拘形式的上班場合。",
+            "pairsWith": [
+              {
+                "label": "白色焦糖色後空高跟鞋",
+                "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+              },
+              {
+                "label": "基本款T恤"
+              },
+              {
+                "label": "細皮帶"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "配件",
@@ -453,17 +672,40 @@
       "paragraphs": [
         "商品頁寫明，這是白色和焦糖色的後空高跟鞋，粗跟，賣家說它優雅、時髦。適合想要一雙鞋跟更穩的上班鞋或宴會鞋的人。"
       ],
-      "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-      "imageAlt": "粗跟的白色焦糖色後空高跟鞋，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+        "alt": "粗跟的白色焦糖色後空高跟鞋，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看高跟鞋",
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "白色焦糖色後空高跟鞋",
+            "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+            "howTo": "搭配西裝褲、牛仔褲或洋裝都可以；粗跟比較穩，店家說明如此。",
+            "occasion": "上班和派對。",
+            "pairsWith": [
+              {
+                "label": "鬆緊腰寬褲牛仔褲",
+                "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+              },
+              {
+                "label": "小手拿包"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "珍珠愛心蝴蝶結耳環",
@@ -475,17 +717,31 @@
       "paragraphs": [
         "商品頁寫明，這是一對蝴蝶結耳環，有珍珠和愛心，賣家推薦派對時戴。它是本文裡最便宜的一件，適合當小禮物或犒賞自己。"
       ],
-      "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-      "imageAlt": "有珍珠和愛心的蝴蝶結耳環一對，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+        "alt": "有珍珠和愛心的蝴蝶結耳環一對，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看耳環",
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "珍珠愛心蝴蝶結耳環",
+            "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+            "howTo": "把頭髮綁起來，蝴蝶結才看得到。",
+            "occasion": "派對，或作為小禮物。"
+          }
+        ]
+      }
     },
     {
       "heading": "綠色手錶配手鍊、項鍊和耳環套組",
@@ -497,17 +753,31 @@
       "paragraphs": [
         "商品頁寫明，這是 9 件套組，有綠色手錶、手鍊、項鍊和耳環，賣家推薦日常戴或當禮物。適合想花約 NT$160 一次配齊一套的人。"
       ],
-      "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-      "imageAlt": "綠色手錶、手鍊、項鍊和耳環的 9 件套組，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+        "alt": "綠色手錶、手鍊、項鍊和耳環的 9 件套組，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看手錶套組",
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "綠色手錶配手鍊、項鍊和耳環套組",
+            "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+            "howTo": "日常只戴手錶；出門時搭配套組裡的項鍊和耳環。",
+            "occasion": "日常、外出或送禮。"
+          }
+        ]
+      }
     },
     {
       "heading": "多邊形漸層鏡片太陽眼鏡",
@@ -519,17 +789,31 @@
       "paragraphs": [
         "商品頁寫明，這是 LINFEMAND 的多邊形鏡框漸層鏡片太陽眼鏡，有 6 種顏色，賣家推薦開車、海邊和旅遊時戴。商品頁折扣不大，只有 4%。"
       ],
-      "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-      "imageAlt": "多邊形鏡框漸層鏡片的太陽眼鏡，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+        "alt": "多邊形鏡框漸層鏡片的太陽眼鏡，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看太陽眼鏡",
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "多邊形漸層鏡片太陽眼鏡",
+            "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+            "howTo": "選擇與你最常穿的衣服同色系的鏡框。",
+            "occasion": "開車、海邊和旅行，依店家說明。"
+          }
+        ]
+      }
     },
     {
       "heading": "男裝",
@@ -547,17 +831,43 @@
       "paragraphs": [
         "商品頁寫明，這是深藍色短袖亨利領 T 恤，仿亞麻紋理，賣家說它休閒、版型寬鬆。適合想要一件比基本款稍微講究一點的 T 恤的人。"
       ],
-      "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-      "imageAlt": "亞麻紋理的深藍色男士亨利領 T 恤，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+        "alt": "亞麻紋理的深藍色男士亨利領 T 恤，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看亨利領 T 恤",
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "深藍色亞麻紋理亨利領 T 恤",
+            "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+            "howTo": "寬鬆穿著，搭牛仔褲或百慕達短褲，就是更整齊的休閒風。",
+            "occasion": "日常和週末。",
+            "pairsWith": [
+              {
+                "label": "亞麻短褲套組",
+                "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+              },
+              {
+                "label": "牛仔褲"
+              },
+              {
+                "label": "白色運動鞋"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "亞麻短褲套組",
@@ -569,17 +879,43 @@
       "paragraphs": [
         "商品頁寫明，這是多色亞麻短褲套組，賣家說它休閒、時髦。商品頁沒寫套組裡有幾條，下單前請先確認。"
       ],
-      "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-      "imageAlt": "多色的男士亞麻短褲套組，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 1,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+        "alt": "多色的男士亞麻短褲套組，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看短褲套組",
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "亞麻短褲套組",
+            "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+            "howTo": "搭素色T恤或亨利領上衣，就是夏日休閒風。",
+            "occasion": "夏天和假期。",
+            "pairsWith": [
+              {
+                "label": "深藍色亞麻紋理亨利領 T 恤",
+                "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+              },
+              {
+                "label": "白色背心"
+              },
+              {
+                "label": "低筒運動鞋"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Manfinity Mode 男士長袖襯衫",
@@ -591,17 +927,42 @@
       "paragraphs": [
         "商品頁寫明，這是 Manfinity Mode 的長袖襯衫，賣家說它百搭，日常和正式場合都能穿。適合需要一件更正式的上班襯衫的人。"
       ],
-      "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-      "imageAlt": "Manfinity Mode 男士長袖襯衫，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+        "alt": "Manfinity Mode 男士長袖襯衫，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看長袖襯衫",
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Manfinity Mode 男士長袖襯衫",
+            "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+            "howTo": "敞開穿在T恤外面，或塞進西裝褲裡。",
+            "occasion": "上班和正式場合，依店家說明。",
+            "pairsWith": [
+              {
+                "label": "西裝褲"
+              },
+              {
+                "label": "直筒牛仔褲"
+              },
+              {
+                "label": "白色T恤"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "寬鬆水洗黑色背心",
@@ -613,17 +974,42 @@
       "paragraphs": [
         "商品頁寫明，這是寬鬆版型的水洗黑色背心，賣家把它描述成夏季街頭風。適合想要一件平常穿而不是健身穿的背心的人。"
       ],
-      "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-      "imageAlt": "寬鬆版型的水洗黑色男士背心，SHEIN 商品頁圖片",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+        "alt": "寬鬆版型的水洗黑色男士背心，SHEIN 商品頁圖片",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+      },
       "links": [
         {
           "label": "到 SHEIN 看背心",
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "寬鬆水洗黑色背心",
+            "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+            "howTo": "搭百慕達短褲或棉質運動短褲，就是街頭風。",
+            "occasion": "夏天和街頭；不是運動服。",
+            "pairsWith": [
+              {
+                "label": "尼龍百慕達短褲"
+              },
+              {
+                "label": "白色運動鞋"
+              },
+              {
+                "label": "棒球帽"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "下單前",

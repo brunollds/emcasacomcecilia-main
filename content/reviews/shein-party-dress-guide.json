@@ -72,9 +72,63 @@
           "alt": "Model in a long navy sequin dress with a side slit, outdoors",
           "caption": "Official SHEIN photo.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Year-end party",
+            "howTo": "At the Christmas dinner, a midi in light fabric; on New Year's Eve, long or short, with shine if the party is at night.",
+            "occasion": "Christmas dinner and New Year's Eve party.",
+            "pairsWith": [
+              {
+                "label": "strappy sandal"
+              },
+              {
+                "label": "small bag"
+              },
+              {
+                "label": "light shawl"
+              }
+            ]
+          },
+          {
+            "piece": "Graduation",
+            "howTo": "At night, a long or midi dress with a strappy sandal; in daytime, a short or midi dress with closed shoes.",
+            "occasion": "Ceremony and ball; the invitation sets the dress code.",
+            "pairsWith": [
+              {
+                "label": "strappy sandal"
+              },
+              {
+                "label": "clutch"
+              },
+              {
+                "label": "mid-size earrings"
+              }
+            ]
+          },
+          {
+            "piece": "Wedding guest",
+            "howTo": "In daytime, light fabric with closed shoes or flat sandals; at night, a long dress with heels. White is for the bride.",
+            "occasion": "Ceremony in a church or venue, day or night.",
+            "pairsWith": [
+              {
+                "label": "mid-heel pumps"
+              },
+              {
+                "label": "structured bag"
+              },
+              {
+                "label": "light jacket"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Reading the product description",
@@ -93,14 +147,128 @@
           "alt": "Model in profile wearing a dusty blue one-shoulder dress with a mesh skirt",
           "caption": "Official SHEIN photo.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
     {
+      "heading": "Three dresses read on SHEIN",
+      "paragraphs": [
+        "Nobody on the team wore these dresses. Fabric, length and rating come from the product pages. Before you buy, check the price and the delivery estimate on the store page."
+      ],
+      "comparisonTable": {
+        "caption": "Three SHEIN dresses, with data from each product page.",
+        "headers": [
+          "Dress",
+          "Fabric and lining",
+          "Occasion and rating"
+        ],
+        "rows": [
+          [
+            "[Firerie long dress, one shoulder, tulle (dusty blue)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+            "95% polyester and 5% elastane. Lined, not sheer, maxi.",
+            "Wedding, per the store. Rating 4.84, with over 1,000 reviews."
+          ],
+          [
+            "[Via Vilarinho short dress, tailored, square neckline (navy)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+            "95% polyester and 5% elastane. Lining only at the top. Short in the title, midi in the description.",
+            "Night, wedding and office, per the store. Rating 4.88, with 80 reviews."
+          ],
+          [
+            "[ADYCE long dress, sequins, off-the-shoulder, slit (navy)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+            "95% polyester and 5% elastane. Lined, not sheer, long, with a slit.",
+            "Party, formal and evening, per the store. Rating 4.89, with over 1,000 reviews."
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+          "alt": "Model in a dusty blue one-shoulder dress with gathers at the waist, against a grey wall",
+          "caption": "Official SHEIN photo.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+          "alt": "Model in a navy short-sleeve dress with square neckline, in front of an ivy-covered wall",
+          "caption": "Official SHEIN photo.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+          "alt": "Model in a long navy sequin dress with a slit, on a marble floor",
+          "caption": "Official SHEIN photo.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Firerie long dress",
+            "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+            "howTo": "The bare shoulder is the highlight: small earrings and hair up.",
+            "occasion": "Wedding, per the store.",
+            "pairsWith": [
+              {
+                "label": "stiletto sandals"
+              },
+              {
+                "label": "small clutch"
+              },
+              {
+                "label": "small earrings"
+              }
+            ]
+          },
+          {
+            "piece": "Via Vilarinho short dress",
+            "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+            "howTo": "The tailoring calls for closed shoes and a structured bag; with a blazer, it works for the office.",
+            "occasion": "Night, wedding and office, per the store.",
+            "pairsWith": [
+              {
+                "label": "pumps"
+              },
+              {
+                "label": "structured bag"
+              },
+              {
+                "label": "blazer"
+              }
+            ]
+          },
+          {
+            "piece": "ADYCE long dress",
+            "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+            "howTo": "The sequins and the slit already draw attention: discreet accessories and a strappy sandal.",
+            "occasion": "Formal evening party, per the store.",
+            "pairsWith": [
+              {
+                "label": "strappy sandal"
+              },
+              {
+                "label": "small clutch"
+              },
+              {
+                "label": "light shawl"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "heading": "Size: use the measurements of the garment",
       "paragraphs": [
-        "SHEIN publishes a size guide for each product, in centimetres and inches, with instructions on how to measure. There is no single chart from PP to GG, so use the guide of the dress you chose. Plus sizes follow the same method: compare the garment's measurements with yours, not the number on the label."
+        "SHEIN publishes a size guide for each product, in centimetres and inches, with instructions on how to measure. There is no single size chart, so use the guide of the dress you chose. Plus sizes follow the same method: compare the garment's measurements with yours, not the number on the label."
       ],
       "images": [
         {
@@ -108,20 +276,61 @@
           "alt": "Model from behind in a navy short-sleeve dress of midi length",
           "caption": "Official SHEIN photo.",
           "objectFit": "contain",
-          "aspectRatio": 0.7792
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+          "alt": "Model from behind in a long dusty blue one-shoulder dress, against a grey wall",
+          "caption": "Official SHEIN photo.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
     {
-      "heading": "Delivery and returns",
+      "heading": "Delivery time: add it to the party date",
       "paragraphs": [
-        "Delivery times and return conditions depend on the seller, the destination and the order. The store page has the current rules, and the order summary shows the delivery estimate before you pay. To change size, return the item and place a new order."
+        "Orders take 3 to 5 days to be processed before they ship. Add that time to the delivery estimate on the order page. If the total goes past the party date, this dress is not the right purchase for that date."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+          "alt": "Model looks in the mirror, in a long navy sequin dress with a train",
+          "caption": "Official SHEIN photo.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
+      ]
+    },
+    {
+      "heading": "Taxes: check the order summary",
+      "paragraphs": [
+        "Import taxes depend on the country where the order arrives and on the order value. The order summary shows the amount before you pay."
+      ]
+    },
+    {
+      "heading": "Returns and exchanges",
+      "paragraphs": [
+        "The store page has the return rules for each seller. To change the size, return the item and place a new order."
       ]
     },
     {
       "heading": "Before you pay",
       "paragraphs": [
-        "Taxes and shipping depend on the order and the country, so check the order summary before you pay. The 4CW5Y code is SHEIN Brazil's referral code, not a coupon: you search it in the app, and it gives no discount. How it works is explained in [the referral guide](/en/reviews/shein-referral-code-where-to-enter), and current campaigns are on the [SHEIN store page](/en/coupons/shein)."
+        "Check the delivery estimate and the order summary before you pay, and keep the order confirmation. The 4CW5Y code is SHEIN Brazil's referral code, not a coupon: you search it in the app, and it gives no discount. How it works is explained in [the referral guide](/en/reviews/shein-referral-code-where-to-enter), and current campaigns are on the [SHEIN store page](/en/coupons/shein)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+          "alt": "Model in a long navy sequin dress in a corridor with a runner rug",
+          "caption": "Official SHEIN photo.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
       ]
     },
     {

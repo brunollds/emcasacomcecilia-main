@@ -193,17 +193,31 @@
       "paragraphs": [
         "상품 페이지에 따르면 Serenescape 라인의 꽃무늬 잠옷 세트로, 주머니와 대비색 파이핑이 있습니다. 상의와 쇼츠로 된 가벼운 여름 잠옷을 찾는 분께 맞습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-      "imageAlt": "대비색 파이핑이 있는 Serenescape 꽃무늬 잠옷, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+        "alt": "대비색 파이핑이 있는 Serenescape 꽃무늬 잠옷, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 꽃무늬 잠옷 보기",
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Serenescape 꽃무늬 잠옷",
+            "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+            "howTo": "더울 때 잠잘 때나 집에서 입는 상의와 반바지.",
+            "occasion": "더운 여름밤."
+          }
+        ]
+      }
     },
     {
       "heading": "하트 무늬 스트라이프 민소매 잠옷 세트",
@@ -215,17 +229,36 @@
       "paragraphs": [
         "상품 페이지에 따르면 SHEIN 자체 브랜드의 여성 잠옷으로, 민소매 상의와 쇼츠에 스트라이프와 하트 프린트가 들어갑니다. 색상이나 사이즈에 따라 가격이 달라지고, 10월 28일에는 상품 페이지에 원래 가격이 표시되지 않았습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-      "imageAlt": "하트 무늬가 있는 스트라이프 민소매 잠옷 세트, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+        "alt": "하트 무늬가 있는 스트라이프 민소매 잠옷 세트, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 스트라이프 잠옷 보기",
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "하트 무늬 스트라이프 민소매 잠옷 세트",
+            "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+            "howTo": "잘 때 입는 민소매와 반바지. 그 위에 셔츠를 열어 걸치면 집에서 입기 좋은 차림이 됩니다.",
+            "occasion": "여름, 집에서.",
+            "pairsWith": [
+              {
+                "label": "앞이 트인 면 셔츠"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "카툰 프린트 3피스 잠옷",
@@ -237,17 +270,31 @@
       "paragraphs": [
         "상품 페이지에 따르면 Dream Adore의 3피스 세트로, 카툰 프린트에 허리 리본이 달린 쇼츠가 포함됩니다. 이 셀렉션의 잠옷 중 가장 저렴합니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-      "imageAlt": "카툰 프린트와 리본 쇼츠가 있는 3피스 잠옷, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+        "alt": "카툰 프린트와 리본 쇼츠가 있는 3피스 잠옷, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 3피스 잠옷 보기",
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "카툰 프린트 3피스 잠옷",
+            "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+            "howTo": "허리에 리본 장식이 있는 반바지가 포함된 세트. 잠잘 때나 집에서 입기 좋습니다.",
+            "occasion": "집에서 매일."
+          }
+        ]
+      }
     },
     {
       "heading": "아동",
@@ -265,17 +312,39 @@
       "paragraphs": [
         "상품 페이지에 따르면 SHEIN 자체 브랜드의 여아 세트로, 하트 프린트 민소매 상의와 와이드 팬츠로 구성됩니다. 4~7세 여아의 여름 코디를 한 번에 맞추고 싶은 분께 맞습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-      "imageAlt": "하트 민소매 상의와 와이드 팬츠로 된 아동 세트, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+        "alt": "하트 민소매 상의와 와이드 팬츠로 된 아동 세트, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 여아 세트 보기",
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "하트 민소매 상의와 와이드 팬츠 여아 세트",
+            "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+            "howTo": "민소매와 와이드 팬츠를 함께 입은, 바로 입기 좋은 여름 룩.",
+            "occasion": "여름 나들이용, 4~7세 여아.",
+            "pairsWith": [
+              {
+                "label": "플랫 샌들"
+              },
+              {
+                "label": "챙 넓은 모자"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "어둠에서 빛나는 공룡 남아 잠옷",
@@ -287,17 +356,31 @@
       "paragraphs": [
         "상품 페이지에 따르면 남아용 2피스 잠옷으로, 어둠에서 빛나는 크리스마스 공룡 프린트와 밴딩 허리가 특징입니다. 4~7세 남아의 연말 잠옷을 미리 준비하려는 분께 맞습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-      "imageAlt": "어둠에서 빛나는 크리스마스 공룡이 그려진 아동 2피스 잠옷, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+        "alt": "어둠에서 빛나는 크리스마스 공룡이 그려진 아동 2피스 잠옷, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 공룡 잠옷 보기",
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "어둠에서 빛나는 공룡 남아 잠옷",
+            "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+            "howTo": "2피스 잠옷. 불을 끄면 공룡이 빛납니다.",
+            "occasion": "잠잘 때, 4~7세 남아."
+          }
+        ]
+      }
     },
     {
       "heading": "분필 그림 동물 아기 상의",
@@ -309,17 +392,39 @@
       "paragraphs": [
         "상품 페이지에 따르면 호랑이, 곰, 나무늘보 같은 동물을 분필로 그린 듯한 남아 아기 상의입니다. 생후 6개월부터 3세까지 입는, 이 셀렉션에서 가장 저렴한 아동 상품입니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-      "imageAlt": "분필로 그린 동물이 있는 아기 상의, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+        "alt": "분필로 그린 동물이 있는 아기 상의, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 아기 상의 보기",
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "분필 그림 동물 아기 상의",
+            "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+            "howTo": "팬츠나 니트 반바지와 함께 입는 일상용 상의.",
+            "occasion": "일상용, 6개월~3세 아기.",
+            "pairsWith": [
+              {
+                "label": "니트 팬츠"
+              },
+              {
+                "label": "니트 반바지"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "긴소매 남아 잠옷, 랜덤 프린트",
@@ -331,17 +436,31 @@
       "paragraphs": [
         "상품 페이지에 따르면 긴소매 상의와 긴바지로 된 남아 잠옷으로, 전체에 프린트가 들어갑니다. 한 세트만 판매하며, 프린트(공룡, 굴착기, 비행기)는 구매자가 아니라 판매자가 고릅니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-      "imageAlt": "공룡, 굴착기 또는 비행기 프린트의 아동 긴소매 잠옷, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+        "alt": "공룡, 굴착기 또는 비행기 프린트의 아동 긴소매 잠옷, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 긴소매 잠옷 보기",
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "긴소매 남아 잠옷, 랜덤 프린트",
+            "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+            "howTo": "선선한 밤을 위한 긴팔과 긴바지.",
+            "occasion": "선선한 밤, 9개월~7세."
+          }
+        ]
+      }
     },
     {
       "heading": "여성",
@@ -359,17 +478,43 @@
       "paragraphs": [
         "상품 페이지에 따르면 SHEIN Franclia의 민소매 상의와 와이드 팬츠 세트로, 블루 스트라이프이며 판매자는 일상, 출근, 휴가용으로 소개합니다. 세트 하나로 코디를 끝내고 싶은 분께 맞습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-      "imageAlt": "블루 스트라이프의 민소매 상의와 와이드 팬츠 세트, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+        "alt": "블루 스트라이프의 민소매 상의와 와이드 팬츠 세트, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 스트라이프 세트 보기",
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "블루 스트라이프 민소매 상의와 와이드 팬츠 세트",
+            "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+            "howTo": "민소매와 와이드 팬츠를 함께 입으면 완성된 룩이 됩니다. 그 위에 가디건을 걸치면 더위에서 에어컨 바람까지 대응할 수 있습니다.",
+            "occasion": "일상, 출근, 휴가에. 매장 설명 기준.",
+            "pairsWith": [
+              {
+                "label": "DAZY 슬림 스포티 가디건",
+                "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+              },
+              {
+                "label": "플랫 샌들"
+              },
+              {
+                "label": "크로스백"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "DAZY 슬림 스포티 가디건",
@@ -381,17 +526,43 @@
       "paragraphs": [
         "상품 페이지에 따르면 DAZY의 긴소매 슬림핏 스포티 가디건으로, 판매자는 환절기용 얇은 재킷으로 소개합니다. 냉방이 센 곳이나 저녁에 걸칠 가벼운 겉옷을 찾는 분께 맞습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-      "imageAlt": "긴소매 슬림 스포티 가디건, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+        "alt": "긴소매 슬림 스포티 가디건, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 가디건 보기",
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "DAZY 슬림 스포티 가디건",
+            "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+            "howTo": "민소매나 티셔츠 위에 걸치면 얇은 재킷처럼 입을 수 있습니다.",
+            "occasion": "간절기, 에어컨, 늦은 오후.",
+            "pairsWith": [
+              {
+                "label": "블루 스트라이프 민소매 상의와 와이드 팬츠 세트",
+                "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+              },
+              {
+                "label": "청바지"
+              },
+              {
+                "label": "니트 원피스"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "페이퍼백 허리 프린트 쇼츠",
@@ -403,17 +574,39 @@
       "paragraphs": [
         "상품 페이지에 따르면 SHEIN Frenchy 라인의 페이퍼백 허리 프린트 쇼츠로, 판매자는 여름과 휴가에 어울리는 \"올드 머니\" 스타일로 소개합니다. 셀렉션의 의류 중 가장 저렴하고, 상품 페이지의 할인율도 가장 큽니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-      "imageAlt": "페이퍼백 허리의 여성 프린트 쇼츠, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+        "alt": "페이퍼백 허리의 여성 프린트 쇼츠, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 프린트 쇼츠 보기",
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "페이퍼백 허리 프린트 쇼츠",
+            "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+            "howTo": "프린트가 돋보이도록 무지 티셔츠와 함께 입으세요.",
+            "occasion": "여름과 휴가.",
+            "pairsWith": [
+              {
+                "label": "흰색 티셔츠"
+              },
+              {
+                "label": "플랫 샌들"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "밴딩 허리 와이드 데님 팬츠",
@@ -425,17 +618,43 @@
       "paragraphs": [
         "상품 페이지에 따르면 Flexra의 밴딩 허리 와이드 데님 팬츠로, 판매자는 편안한 와이드핏으로 소개합니다. 이 셀렉션에서 가장 비싼 상품입니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-      "imageAlt": "밴딩 허리의 와이드 데님 팬츠, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+        "alt": "밴딩 허리의 와이드 데님 팬츠, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 데님 팬츠 보기",
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "밴딩 허리 와이드 데님 팬츠",
+            "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+            "howTo": "넓은 다리와 균형을 맞추도록 펌프스나 뾰족한 플랫 슈즈와 함께 입으세요.",
+            "occasion": "일상과 격식 없는 직장.",
+            "pairsWith": [
+              {
+                "label": "화이트와 카라멜 슬링백 펌프스",
+                "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+              },
+              {
+                "label": "기본 티셔츠"
+              },
+              {
+                "label": "얇은 벨트"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "액세서리",
@@ -453,17 +672,40 @@
       "paragraphs": [
         "상품 페이지에 따르면 화이트와 카라멜 색상의 슬링백 펌프스로, 블록힐이며 판매자는 우아하고 모던한 디자인으로 소개합니다. 안정적인 굽의 출근용이나 파티용 구두를 찾는 분께 맞습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-      "imageAlt": "블록힐의 화이트와 카라멜 슬링백 펌프스, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+        "alt": "블록힐의 화이트와 카라멜 슬링백 펌프스, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 펌프스 보기",
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "화이트와 카라멜 슬링백 펌프스",
+            "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+            "howTo": "슈트 팬츠, 청바지 또는 원피스와 함께. 블록 힐이 더 안정적이라고 매장에서 설명합니다.",
+            "occasion": "직장과 파티.",
+            "pairsWith": [
+              {
+                "label": "밴딩 허리 와이드 데님 팬츠",
+                "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+              },
+              {
+                "label": "작은 클러치"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "진주와 하트가 달린 리본 귀걸이",
@@ -475,17 +717,31 @@
       "paragraphs": [
         "상품 페이지에 따르면 진주와 하트가 달린 리본 귀걸이 한 쌍으로, 판매자는 파티용으로 소개합니다. 셀렉션에서 가장 저렴한 상품이라 작은 선물이나 나를 위한 소소한 선물로 좋습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-      "imageAlt": "진주와 하트가 달린 리본 귀걸이 한 쌍, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+        "alt": "진주와 하트가 달린 리본 귀걸이 한 쌍, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 귀걸이 보기",
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "진주와 하트가 달린 리본 귀걸이",
+            "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+            "howTo": "리본이 보이도록 머리를 묶어 주세요.",
+            "occasion": "파티나 작은 선물로."
+          }
+        ]
+      }
     },
     {
       "heading": "그린 시계와 팔찌, 목걸이, 귀걸이 세트",
@@ -497,17 +753,31 @@
       "paragraphs": [
         "상품 페이지에 따르면 그린 시계, 팔찌, 목걸이, 귀걸이로 구성된 9피스 세트로, 판매자는 일상용이나 선물용으로 소개합니다. 약 6,800원으로 세트를 한 번에 갖추고 싶은 분께 맞습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-      "imageAlt": "그린 시계, 팔찌, 목걸이, 귀걸이로 된 9피스 세트, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+        "alt": "그린 시계, 팔찌, 목걸이, 귀걸이로 된 9피스 세트, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 시계 세트 보기",
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "그린 시계와 팔찌, 목걸이, 귀걸이 세트",
+            "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+            "howTo": "일상에서는 시계만, 외출할 때는 세트의 목걸이와 귀걸이를 함께 착용하세요.",
+            "occasion": "일상, 외출 또는 선물."
+          }
+        ]
+      }
     },
     {
       "heading": "다각형 그라데이션 렌즈 선글라스",
@@ -519,17 +789,31 @@
       "paragraphs": [
         "상품 페이지에 따르면 LINFEMAND의 다각형 프레임 그라데이션 렌즈 선글라스로, 6가지 색상이 있고 판매자는 운전, 해변, 여행용으로 소개합니다. 상품 페이지의 할인율은 4%로 작습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-      "imageAlt": "다각형 프레임과 그라데이션 렌즈의 선글라스, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+        "alt": "다각형 프레임과 그라데이션 렌즈의 선글라스, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 선글라스 보기",
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "다각형 그라데이션 렌즈 선글라스",
+            "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+            "howTo": "평소 가장 많이 입는 옷에 어울리는 색조의 안경테.",
+            "occasion": "운전, 해변, 여행. 매장 설명 기준."
+          }
+        ]
+      }
     },
     {
       "heading": "남성",
@@ -547,17 +831,43 @@
       "paragraphs": [
         "상품 페이지에 따르면 린넨 질감의 네이비 반소매 헨리넥 티셔츠로, 판매자는 캐주얼하고 여유 있는 핏으로 소개합니다. 기본 티셔츠보다 조금 단정한 티셔츠를 찾는 분께 맞습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-      "imageAlt": "린넨 질감의 네이비 남성 헨리넥 티셔츠, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+        "alt": "린넨 질감의 네이비 남성 헨리넥 티셔츠, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 헨리넥 티셔츠 보기",
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "린넨 질감 네이비 헨리넥 티셔츠",
+            "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+            "howTo": "여유 있게 입고 청바지나 버뮤다 팬츠와 함께 입으면 단정한 캐주얼 룩이 됩니다.",
+            "occasion": "일상과 주말.",
+            "pairsWith": [
+              {
+                "label": "린넨 쇼츠 세트",
+                "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+              },
+              {
+                "label": "청바지"
+              },
+              {
+                "label": "흰색 스니커즈"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "린넨 쇼츠 세트",
@@ -569,17 +879,43 @@
       "paragraphs": [
         "상품 페이지에 따르면 여러 색상의 린넨 쇼츠 세트로, 판매자는 캐주얼하고 모던한 스타일로 소개합니다. 세트에 몇 장이 들어 있는지는 상품 페이지에 나와 있지 않으니 구매 전에 확인하세요."
       ],
-      "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-      "imageAlt": "여러 색상의 남성 린넨 쇼츠 세트, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 1,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+        "alt": "여러 색상의 남성 린넨 쇼츠 세트, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 쇼츠 세트 보기",
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "린넨 쇼츠 세트",
+            "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+            "howTo": "무지 티셔츠나 헨리넥과 함께 입으면 여름 캐주얼 룩이 됩니다.",
+            "occasion": "여름과 휴가.",
+            "pairsWith": [
+              {
+                "label": "린넨 질감 네이비 헨리넥 티셔츠",
+                "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+              },
+              {
+                "label": "흰색 민소매"
+              },
+              {
+                "label": "낮은 스니커즈"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Manfinity Mode 남성 긴소매 셔츠",
@@ -591,17 +927,42 @@
       "paragraphs": [
         "상품 페이지에 따르면 Manfinity Mode의 긴소매 셔츠로, 판매자는 일상과 격식 있는 자리에 두루 어울린다고 소개합니다. 출근용으로 좀 더 단정한 셔츠가 필요한 분께 맞습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-      "imageAlt": "Manfinity Mode 남성 긴소매 셔츠, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+        "alt": "Manfinity Mode 남성 긴소매 셔츠, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 긴소매 셔츠 보기",
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Manfinity Mode 남성 긴소매 셔츠",
+            "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+            "howTo": "티셔츠 위에 열어 입거나, 슈트 팬츠 안에 넣어 입으세요.",
+            "occasion": "직장과 격식 있는 자리. 매장 설명 기준.",
+            "pairsWith": [
+              {
+                "label": "슈트 팬츠"
+              },
+              {
+                "label": "스트레이트 청바지"
+              },
+              {
+                "label": "흰색 티셔츠"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "루즈핏 워싱 블랙 탱크톱",
@@ -613,17 +974,42 @@
       "paragraphs": [
         "상품 페이지에 따르면 루즈핏의 워싱 블랙 탱크톱으로, 판매자는 여름 스트리트웨어로 소개합니다. 운동용이 아니라 평소에 입을 탱크톱을 찾는 분께 맞습니다."
       ],
-      "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-      "imageAlt": "루즈핏의 워싱 블랙 남성 탱크톱, SHEIN 상품 페이지 사진",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+        "alt": "루즈핏의 워싱 블랙 남성 탱크톱, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+      },
       "links": [
         {
           "label": "SHEIN에서 탱크톱 보기",
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "루즈핏 워싱 블랙 탱크톱",
+            "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+            "howTo": "버뮤다 팬츠나 트레이닝 반바지와 함께 입으면 스트리트 룩이 됩니다.",
+            "occasion": "여름과 거리에서. 운동복은 아닙니다.",
+            "pairsWith": [
+              {
+                "label": "나일론 버뮤다 팬츠"
+              },
+              {
+                "label": "흰색 스니커즈"
+              },
+              {
+                "label": "캡 모자"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "구매 전에 확인할 것",

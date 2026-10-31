@@ -71,9 +71,63 @@
           "alt": "Modelo com vestido longo azul-marinho de lantejoulas e fenda lateral, ao ar livre",
           "caption": "Foto oficial da SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Festa de fim de ano",
+            "howTo": "Na ceia de Natal, midi de tecido leve; no Réveillon, longo ou curto, com brilho se a festa for à noite.",
+            "occasion": "Ceia de Natal e festa de Réveillon.",
+            "pairsWith": [
+              {
+                "label": "sandália de tira fina"
+              },
+              {
+                "label": "bolsa pequena"
+              },
+              {
+                "label": "xale leve"
+              }
+            ]
+          },
+          {
+            "piece": "Formatura",
+            "howTo": "À noite, longo ou midi com sandália de tira fina; de dia, curto ou midi com sapato fechado.",
+            "occasion": "Colação e baile; o convite diz o traje.",
+            "pairsWith": [
+              {
+                "label": "sandália de tira fina"
+              },
+              {
+                "label": "clutch"
+              },
+              {
+                "label": "brinco médio"
+              }
+            ]
+          },
+          {
+            "piece": "Convidada de casamento",
+            "howTo": "De dia, tecido leve com sapato fechado ou sandália baixa; à noite, longo com salto. O branco fica para a noiva.",
+            "occasion": "Cerimônia na igreja ou no salão, de dia ou à noite.",
+            "pairsWith": [
+              {
+                "label": "sapato fechado de salto médio"
+              },
+              {
+                "label": "bolsa estruturada"
+              },
+              {
+                "label": "blazer leve"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Como ler a descrição da peça",
@@ -92,7 +146,8 @@
           "alt": "Modelo de perfil com vestido azul empoeirado de um ombro e saia de tule",
           "caption": "Foto oficial da SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
@@ -144,23 +199,82 @@
           "alt": "Modelo com vestido de um ombro azul empoeirado, com franzidos na cintura, em parede cinza",
           "caption": "Foto oficial da SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         },
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
           "alt": "Modelo com vestido azul-marinho de manga curta e decote quadrado, em frente a um muro com hera",
           "caption": "Foto oficial da SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7792
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
         },
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
           "alt": "Modelo com vestido longo azul-marinho de lantejoulas e fenda, em piso de mármore",
           "caption": "Foto oficial da SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Vestido longo Firerie",
+            "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+            "howTo": "O ombro de fora já é o destaque: brinco pequeno e cabelo preso.",
+            "occasion": "Casamento.",
+            "pairsWith": [
+              {
+                "label": "sandália de salto fino"
+              },
+              {
+                "label": "clutch pequena"
+              },
+              {
+                "label": "brinco pequeno"
+              }
+            ]
+          },
+          {
+            "piece": "Vestido curto Via Vilarinho",
+            "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+            "howTo": "A alfaiataria pede sapato fechado e bolsa estruturada; com blazer, vai ao trabalho.",
+            "occasion": "Noite, casamento e escritório.",
+            "pairsWith": [
+              {
+                "label": "scarpin"
+              },
+              {
+                "label": "bolsa estruturada"
+              },
+              {
+                "label": "blazer"
+              }
+            ]
+          },
+          {
+            "piece": "Vestido longo ADYCE",
+            "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+            "howTo": "As lantejoulas e a fenda já chamam atenção: acessório discreto e sandália de tira fina.",
+            "occasion": "Festa formal à noite.",
+            "pairsWith": [
+              {
+                "label": "sandália de tira fina"
+              },
+              {
+                "label": "clutch pequena"
+              },
+              {
+                "label": "xale leve"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Tamanho: use a medida da peça",
@@ -177,14 +291,16 @@
           "alt": "Modelo de costas com vestido azul-marinho de manga curta e comprimento médio",
           "caption": "Foto oficial da SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7792
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
         },
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
           "alt": "Modelo de costas com vestido longo azul empoeirado de um ombro, em parede cinza",
           "caption": "Foto oficial da SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
@@ -200,7 +316,8 @@
           "alt": "Modelo se olha no espelho, com vestido longo azul-marinho de lantejoulas e cauda",
           "caption": "Foto oficial da SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
       ]
     },
@@ -236,7 +353,8 @@
           "alt": "Modelo com vestido longo azul-marinho de lantejoulas em corredor com tapete",
           "caption": "Foto oficial da SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
       ]
     },

@@ -191,17 +191,31 @@
       "paragraphs": [
         "Segundo a ficha, é um conjunto de pijama floral com bolso e debrum contrastante, da linha Serenescape. Serve para quem quer um pijama de verão leve, de blusa e short."
       ],
-      "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-      "imageAlt": "Pijama floral Serenescape com debrum contrastante, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+        "alt": "Pijama floral Serenescape com debrum contrastante, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver o pijama floral na SHEIN",
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pijama floral Serenescape",
+            "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+            "howTo": "Blusa e short para dormir ou ficar em casa no calor.",
+            "occasion": "Noites quentes de verão."
+          }
+        ]
+      }
     },
     {
       "heading": "Pijama regata e short listrado com corações",
@@ -213,17 +227,36 @@
       "paragraphs": [
         "Segundo a ficha, é um pijama feminino de regata e short, listrado e com estampa de corações, da marca própria da SHEIN. O preço muda por cor ou tamanho, e a ficha não mostrava riscado em 28/10."
       ],
-      "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-      "imageAlt": "Pijama de regata e short listrado com corações, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+        "alt": "Pijama de regata e short listrado com corações, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver o pijama listrado na SHEIN",
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pijama regata e short listrado com corações",
+            "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+            "howTo": "Regata e short para dormir; com uma camisa aberta por cima, vira roupa de ficar em casa.",
+            "occasion": "Casa, no verão.",
+            "pairsWith": [
+              {
+                "label": "camisa aberta de algodão"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Pijama de 3 peças com estampa de cartoon",
@@ -235,17 +268,31 @@
       "paragraphs": [
         "Segundo a ficha, é um conjunto Dream Adore de 3 peças com estampa de cartoon e short com laço na cintura. É o menor preço entre os pijamas da seleção."
       ],
-      "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-      "imageAlt": "Pijama de 3 peças com estampa de cartoon e short com laço, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+        "alt": "Pijama de 3 peças com estampa de cartoon e short com laço, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver o pijama de 3 peças na SHEIN",
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pijama de 3 peças com estampa de cartoon",
+            "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+            "howTo": "Conjunto completo, com o short de laço na cintura, para dormir ou ficar em casa.",
+            "occasion": "Casa, no dia a dia."
+          }
+        ]
+      }
     },
     {
       "heading": "Infantil",
@@ -263,17 +310,39 @@
       "paragraphs": [
         "Segundo a ficha, é um conjunto de menina com regata estampada de coração e calça pantalona, da marca própria da SHEIN. Serve para quem quer um look completo de verão para a menina de 4 a 7 anos."
       ],
-      "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-      "imageAlt": "Conjunto infantil de regata com coração e calça pantalona, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+        "alt": "Conjunto infantil de regata com coração e calça pantalona, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver o conjunto de menina na SHEIN",
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Conjunto de menina com regata de coração e pantalona",
+            "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+            "howTo": "Regata e pantalona juntas, como look pronto de verão.",
+            "occasion": "Passeio de verão, para meninas de 4 a 7 anos.",
+            "pairsWith": [
+              {
+                "label": "sandália rasteira"
+              },
+              {
+                "label": "chapéu de sol"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Pijama de menino com dinossauro que brilha no escuro",
@@ -285,17 +354,31 @@
       "paragraphs": [
         "Segundo a ficha, é um pijama de menino de 2 peças, com dinossauro de Natal que brilha no escuro e ajuste elástico. Serve para quem já quer o pijama das festas de fim de ano para o menino de 4 a 7 anos."
       ],
-      "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-      "imageAlt": "Pijama infantil de 2 peças com dinossauro de Natal que brilha no escuro, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+        "alt": "Pijama infantil de 2 peças com dinossauro de Natal que brilha no escuro, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver o pijama de dinossauro na SHEIN",
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pijama de menino com dinossauro que brilha no escuro",
+            "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+            "howTo": "Para dormir; o dinossauro aparece com a luz apagada.",
+            "occasion": "Hora de dormir, meninos de 4 a 7 anos."
+          }
+        ]
+      }
     },
     {
       "heading": "Blusa de bebê com bichos desenhados a giz",
@@ -307,17 +390,39 @@
       "paragraphs": [
         "Segundo a ficha, é uma blusa de bebê menino com bichos desenhados a giz, como tigre, urso e bicho-preguiça. É a peça infantil mais barata da seleção, para bebês de 6 meses a 3 anos."
       ],
-      "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-      "imageAlt": "Blusa de bebê com bichos desenhados a giz, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+        "alt": "Blusa de bebê com bichos desenhados a giz, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver a blusa de bebê na SHEIN",
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Blusa de bebê com bichos desenhados a giz",
+            "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+            "howTo": "Blusa de dia a dia, para o calor.",
+            "occasion": "Dia a dia, para bebês de 6 meses a 3 anos.",
+            "pairsWith": [
+              {
+                "label": "calça de malha"
+              },
+              {
+                "label": "short de malha"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Pijama de menino de manga longa, estampa sortida",
@@ -329,17 +434,31 @@
       "paragraphs": [
         "Segundo a ficha, é um pijama de menino de manga longa e calça comprida, com estampa inteira. A ficha vende 1 conjunto, e a estampa (dinossauro, escavadeira ou avião) é escolhida pela loja, não por quem compra."
       ],
-      "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-      "imageAlt": "Pijama infantil de manga longa com estampa de dinossauro, escavadeira ou avião, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+        "alt": "Pijama infantil de manga longa com estampa de dinossauro, escavadeira ou avião, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver o pijama de manga longa na SHEIN",
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pijama de menino de manga longa, estampa sortida",
+            "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+            "howTo": "Manga longa e calça comprida, para noites mais frescas.",
+            "occasion": "Noites frescas, de 9 meses a 7 anos."
+          }
+        ]
+      }
     },
     {
       "heading": "Feminino",
@@ -357,17 +476,43 @@
       "paragraphs": [
         "Segundo a ficha, é um conjunto SHEIN Franclia de regata e calça pantalona, listrado em azul, que a loja descreve para o dia a dia, o trabalho e as férias. Serve para quem quer o look pronto num conjunto só."
       ],
-      "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-      "imageAlt": "Conjunto listrado azul de regata e calça pantalona, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+        "alt": "Conjunto listrado azul de regata e calça pantalona, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver o conjunto listrado na SHEIN",
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Conjunto listrado azul de regata e pantalona",
+            "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+            "howTo": "Regata e pantalona juntas, como look pronto; com cardigã por cima, vai do calor ao ar-condicionado.",
+            "occasion": "Dia a dia, trabalho e férias, segundo a loja.",
+            "pairsWith": [
+              {
+                "label": "Cardigã esportivo slim DAZY",
+                "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+              },
+              {
+                "label": "sandália rasteira"
+              },
+              {
+                "label": "bolsa tiracolo"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Cardigã esportivo slim DAZY",
@@ -379,17 +524,43 @@
       "paragraphs": [
         "Segundo a ficha, é um cardigã esportivo de manga longa e corte slim, da DAZY, que a loja descreve como uma jaqueta fina de meia-estação. Serve para quem procura uma terceira peça leve para o ar-condicionado ou o fim de tarde."
       ],
-      "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-      "imageAlt": "Cardigã esportivo slim de manga longa, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+        "alt": "Cardigã esportivo slim de manga longa, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver o cardigã na SHEIN",
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Cardigã esportivo slim DAZY",
+            "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+            "howTo": "Por cima de regata ou camiseta, como casaco fino.",
+            "occasion": "Meia-estação, ar-condicionado e fim de tarde.",
+            "pairsWith": [
+              {
+                "label": "Conjunto listrado azul de regata e pantalona",
+                "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+              },
+              {
+                "label": "calça jeans"
+              },
+              {
+                "label": "vestido de malha"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Short estampado clochard",
@@ -401,17 +572,39 @@
       "paragraphs": [
         "Segundo a ficha, é um short estampado de cintura clochard, da linha SHEIN Frenchy, que a loja descreve no estilo \"old money\" para o verão e as férias. É a roupa mais barata da seleção e a de maior desconto na ficha."
       ],
-      "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-      "imageAlt": "Short feminino estampado com cintura clochard, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+        "alt": "Short feminino estampado com cintura clochard, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver o short estampado na SHEIN",
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Short estampado clochard",
+            "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+            "howTo": "Com camiseta lisa, para a estampa aparecer.",
+            "occasion": "Verão e férias.",
+            "pairsWith": [
+              {
+                "label": "camiseta branca"
+              },
+              {
+                "label": "sandália rasteira"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Calça jeans pantalona com cintura elástica",
@@ -423,17 +616,43 @@
       "paragraphs": [
         "Segundo a ficha, é uma calça jeans pantalona Flexra, de cintura elástica, que a loja descreve como confortável e de perna larga. É a peça mais cara da seleção, e a ficha mostrava frete grátis em 28/10/2026."
       ],
-      "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-      "imageAlt": "Calça jeans pantalona com cintura elástica, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+        "alt": "Calça jeans pantalona com cintura elástica, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver a calça jeans na SHEIN",
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Calça jeans pantalona com cintura elástica",
+            "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+            "howTo": "Com scarpin ou sapato de bico fino, para equilibrar a perna larga.",
+            "occasion": "Dia a dia e trabalho sem formalidade.",
+            "pairsWith": [
+              {
+                "label": "Scarpin slingback branco e caramelo",
+                "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+              },
+              {
+                "label": "camiseta básica"
+              },
+              {
+                "label": "cinto fino"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Acessórios",
@@ -451,17 +670,40 @@
       "paragraphs": [
         "Segundo a ficha, é um scarpin slingback em branco e caramelo, de salto bloco, que a loja descreve como elegante e moderno. Serve para quem quer um sapato de trabalho ou de festa com salto mais firme."
       ],
-      "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-      "imageAlt": "Scarpin slingback branco e caramelo com salto bloco, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+        "alt": "Scarpin slingback branco e caramelo com salto bloco, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver o scarpin na SHEIN",
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Scarpin slingback branco e caramelo",
+            "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+            "howTo": "Com calça de alfaiataria, jeans ou vestido; o salto bloco é mais firme, segundo a loja.",
+            "occasion": "Trabalho e festa.",
+            "pairsWith": [
+              {
+                "label": "Calça jeans pantalona com cintura elástica",
+                "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+              },
+              {
+                "label": "bolsa de mão pequena"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Brincos de laço com pérola e coração",
@@ -473,17 +715,31 @@
       "paragraphs": [
         "Segundo a ficha, é um par de brincos de laço com pérola e coração, que a loja indica para festas. É o item mais barato da seleção e serve de mimo ou de presente pequeno."
       ],
-      "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-      "imageAlt": "Par de brincos de laço com pérola e coração, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+        "alt": "Par de brincos de laço com pérola e coração, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver os brincos na SHEIN",
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Brincos de laço com pérola e coração",
+            "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+            "howTo": "Com cabelo preso, para o laço aparecer.",
+            "occasion": "Festa, ou como presente pequeno."
+          }
+        ]
+      }
     },
     {
       "heading": "Kit de relógio verde com pulseira, colar e brincos",
@@ -495,17 +751,31 @@
       "paragraphs": [
         "Segundo a ficha, é um kit de 9 peças com relógio verde, pulseira, colar e brincos, que a loja indica para o uso diário ou como presente. Serve para quem quer montar um conjunto de uma vez por menos de R$ 30."
       ],
-      "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-      "imageAlt": "Kit de 9 peças com relógio verde, pulseira, colar e brincos, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+        "alt": "Kit de 9 peças com relógio verde, pulseira, colar e brincos, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver o kit de relógio na SHEIN",
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Kit de relógio verde com pulseira, colar e brincos",
+            "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+            "howTo": "O relógio sozinho no dia a dia; com o colar e os brincos do kit, numa saída.",
+            "occasion": "Dia a dia, saída ou presente."
+          }
+        ]
+      }
     },
     {
       "heading": "Óculos de lente degradê poligonal",
@@ -517,17 +787,31 @@
       "paragraphs": [
         "Segundo a ficha, é um óculos LINFEMAND de armação poligonal e lente degradê, em 6 cores, que a loja indica para dirigir, praia e viagem. O desconto na ficha é pequeno, de 4%."
       ],
-      "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-      "imageAlt": "Óculos de armação poligonal com lente degradê, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+        "alt": "Óculos de armação poligonal com lente degradê, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver os óculos na SHEIN",
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Óculos de lente degradê poligonal",
+            "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+            "howTo": "Armação em tom que combine com as roupas que você mais usa.",
+            "occasion": "Dirigir, praia e viagem, segundo a loja."
+          }
+        ]
+      }
     },
     {
       "heading": "Masculino",
@@ -545,17 +829,43 @@
       "paragraphs": [
         "Segundo a ficha, é uma camiseta Henley de manga curta, azul-marinho, com textura que imita linho, que a loja descreve como casual e de caimento relaxado. Serve para quem quer uma camiseta um pouco mais arrumada que a básica."
       ],
-      "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-      "imageAlt": "Camiseta Henley masculina azul-marinho com textura de linho, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+        "alt": "Camiseta Henley masculina azul-marinho com textura de linho, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver a camiseta Henley na SHEIN",
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Camiseta Henley azul-marinho com textura de linho",
+            "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+            "howTo": "Solta, com jeans ou bermuda, num casual mais arrumado.",
+            "occasion": "Dia a dia e fim de semana.",
+            "pairsWith": [
+              {
+                "label": "Kit de short de linho",
+                "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+              },
+              {
+                "label": "calça jeans"
+              },
+              {
+                "label": "tênis branco"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Kit de short de linho",
@@ -567,17 +877,43 @@
       "paragraphs": [
         "Segundo a ficha, é um kit de short de linho em cores variadas, com envio nacional, que a loja descreve como casual e moderno. A ficha não diz quantas peças vêm no kit: confira antes de comprar."
       ],
-      "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-      "imageAlt": "Kit de short masculino de linho em cores variadas, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 1,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+        "alt": "Kit de short masculino de linho em cores variadas, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver o kit de short na SHEIN",
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Kit de short de linho",
+            "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+            "howTo": "Com camiseta lisa ou henley, num casual de verão.",
+            "occasion": "Verão e férias.",
+            "pairsWith": [
+              {
+                "label": "Camiseta Henley azul-marinho com textura de linho",
+                "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+              },
+              {
+                "label": "regata branca"
+              },
+              {
+                "label": "tênis branco"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Camisa masculina de manga longa Manfinity Mode",
@@ -589,17 +925,42 @@
       "paragraphs": [
         "Segundo a ficha, é uma camisa de manga longa da Manfinity Mode, que a loja descreve como versátil, para o dia a dia e para ocasiões formais. Serve para quem precisa de uma camisa mais arrumada para o trabalho."
       ],
-      "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-      "imageAlt": "Camisa masculina de manga longa Manfinity Mode, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+        "alt": "Camisa masculina de manga longa Manfinity Mode, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver a camisa de manga longa na SHEIN",
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Camisa masculina de manga longa Manfinity Mode",
+            "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+            "howTo": "Aberta sobre camiseta, ou por dentro da calça de alfaiataria.",
+            "occasion": "Trabalho e ocasiões formais, segundo a loja.",
+            "pairsWith": [
+              {
+                "label": "calça de alfaiataria"
+              },
+              {
+                "label": "jeans reto"
+              },
+              {
+                "label": "camiseta branca"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Regata preta estonada de caimento solto",
@@ -611,17 +972,42 @@
       "paragraphs": [
         "Segundo a ficha, é uma regata preta estonada de caimento solto, que a loja descreve como streetwear de verão. Serve para quem quer uma regata de rua, e não de treino."
       ],
-      "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-      "imageAlt": "Regata masculina preta estonada de caimento solto, foto da ficha da SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+        "alt": "Regata masculina preta estonada de caimento solto, foto da ficha da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ver a regata na SHEIN",
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Regata preta estonada de caimento solto",
+            "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+            "howTo": "Com bermuda ou short de moletom, num look de rua.",
+            "occasion": "Verão e rua; não é peça de treino.",
+            "pairsWith": [
+              {
+                "label": "bermuda de tactel"
+              },
+              {
+                "label": "tênis branco"
+              },
+              {
+                "label": "boné"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Antes de comprar",

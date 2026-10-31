@@ -72,9 +72,63 @@
           "alt": "户外穿着海军蓝亮片长裙、带侧开衩的模特",
           "caption": "SHEIN 官方图片。",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "年末派对",
+            "howTo": "圣诞晚餐选轻薄面料的中长裙；跨年选长裙或短裙，晚上的派对可以带点光泽。",
+            "occasion": "圣诞晚餐和跨年派对。",
+            "pairsWith": [
+              {
+                "label": "细带凉鞋"
+              },
+              {
+                "label": "小手包"
+              },
+              {
+                "label": "轻薄披肩"
+              }
+            ]
+          },
+          {
+            "piece": "毕业典礼",
+            "howTo": "晚上穿长裙或中长裙配细带凉鞋；白天穿短裙或中长裙配包头鞋。",
+            "occasion": "典礼和舞会；请看请柬上的着装要求。",
+            "pairsWith": [
+              {
+                "label": "细带凉鞋"
+              },
+              {
+                "label": "手拿包"
+              },
+              {
+                "label": "中等大小耳环"
+              }
+            ]
+          },
+          {
+            "piece": "婚礼宾客",
+            "howTo": "白天选轻薄面料，配包头鞋或低跟凉鞋；晚上穿长裙配高跟鞋。白色留给新娘。",
+            "occasion": "教堂或宴会厅的仪式，白天或晚上。",
+            "pairsWith": [
+              {
+                "label": "中跟包头鞋"
+              },
+              {
+                "label": "结构感手提包"
+              },
+              {
+                "label": "薄外套"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "读懂商品描述",
@@ -90,17 +144,131 @@
       "images": [
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
-          "alt": "侧身站立，穿着灰蓝色单肩连衣裙与网纱裙摆的模特",
+          "alt": "侧身站立，穿着雾蓝色单肩连衣裙与网纱裙摆的模特",
           "caption": "SHEIN 官方图片。",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
     {
+      "heading": "SHEIN 上的三条礼服裙",
+      "paragraphs": [
+        "团队里没有人穿过这些裙子。面料、长度和评分来自各商品页面。购买前，请在店铺页面再确认价格和配送预估。"
+      ],
+      "comparisonTable": {
+        "caption": "SHEIN 三条连衣裙，数据来自各商品页面。",
+        "headers": [
+          "连衣裙",
+          "面料和里料",
+          "场合和评分"
+        ],
+        "rows": [
+          [
+            "[Firerie 长裙，单肩，网纱（雾蓝色）](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+            "95% 聚酯纤维、5% 氨纶。有里料，不透，长款。",
+            "婚礼，按店铺说法。评分 4.84，1000 多条评价。"
+          ],
+          [
+            "[Via Vilarinho 短款连衣裙，剪裁合体，方领（藏青色）](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+            "95% 聚酯纤维、5% 氨纶。里料只在上身。标题写短款，描述写中长款。",
+            "晚宴、婚礼和办公室，按店铺说法。评分 4.88，80 条评价。"
+          ],
+          [
+            "[ADYCE 长裙，亮片，一字肩，开衩（藏青色）](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+            "95% 聚酯纤维、5% 氨纶。有里料，不透，长款，带开衩。",
+            "派对、正式场合和夜间活动，按店铺说法。评分 4.89，1000 多条评价。"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+          "alt": "模特穿单肩雾蓝色连衣裙，腰部有褶皱，站在灰色墙前",
+          "caption": "SHEIN 官方图片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+          "alt": "模特穿藏青色短袖方领连衣裙，站在爬满常春藤的墙前",
+          "caption": "SHEIN 官方图片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+          "alt": "模特穿藏青色亮片长裙，带开衩，站在大理石地面上",
+          "caption": "SHEIN 官方图片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Firerie 长裙",
+            "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+            "howTo": "露出的肩膀本身就是亮点：配小耳环，头发挽起。",
+            "occasion": "婚礼，按店铺说法。",
+            "pairsWith": [
+              {
+                "label": "细跟凉鞋"
+              },
+              {
+                "label": "小号手拿包"
+              },
+              {
+                "label": "小耳环"
+              }
+            ]
+          },
+          {
+            "piece": "Via Vilarinho 短款连衣裙",
+            "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+            "howTo": "剪裁利落，适合包头鞋和结构感手提包；配西装外套就能上班。",
+            "occasion": "晚宴、婚礼和办公室，按店铺说法。",
+            "pairsWith": [
+              {
+                "label": "高跟鞋"
+              },
+              {
+                "label": "结构感手提包"
+              },
+              {
+                "label": "西装外套"
+              }
+            ]
+          },
+          {
+            "piece": "ADYCE 长裙",
+            "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+            "howTo": "亮片和开衩已经够醒目：配低调的饰品和细带凉鞋。",
+            "occasion": "正式的晚间派对，按店铺说法。",
+            "pairsWith": [
+              {
+                "label": "细带凉鞋"
+              },
+              {
+                "label": "小号手拿包"
+              },
+              {
+                "label": "轻薄披肩"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "heading": "尺码：看衣服本身的尺寸",
       "paragraphs": [
-        "SHEIN 为每件商品提供尺码表，单位有厘米和英寸，并附有测量方法。PP 到 GG 没有统一的表，请使用所选裙装的尺码表。大码的方法相同：比较衣服的尺寸和自己的尺寸，不要只看标签上的数字。"
+        "SHEIN 为每件商品提供尺码表，单位有厘米和英寸，并附有测量方法。没有统一的尺码表，请使用所选裙装的尺码表。大码的方法相同：比较衣服的尺寸和自己的尺寸，不要只看标签上的数字。"
       ],
       "images": [
         {
@@ -108,20 +276,61 @@
           "alt": "背对镜头，穿着海军蓝短袖中长连衣裙的模特",
           "caption": "SHEIN 官方图片。",
           "objectFit": "contain",
-          "aspectRatio": 0.7792
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+          "alt": "模特背对镜头，穿单肩雾蓝色长裙，站在灰色墙前",
+          "caption": "SHEIN 官方图片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
     {
-      "heading": "配送与退货",
+      "heading": "配送时间：算上派对日期",
       "paragraphs": [
-        "配送时间和退货条件取决于卖家、收货地和订单。最新规则在店铺页面，订单摘要在付款前会显示预计配送日期。"
+        "订单发货前需要 3 到 5 天的处理时间。把这段时间加到订单页面显示的配送预估里。如果加起来超过派对日期，这条裙子就不适合那一天。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+          "alt": "模特对着镜子，穿藏青色亮片长裙，裙摆拖地",
+          "caption": "SHEIN 官方图片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
+      ]
+    },
+    {
+      "heading": "税费：看订单摘要",
+      "paragraphs": [
+        "进口税取决于订单的收货国家和订单金额。订单摘要会在付款前显示金额。"
+      ]
+    },
+    {
+      "heading": "退换货",
+      "paragraphs": [
+        "每位卖家的退货规则都写在店铺页面上。要换尺码，请退回商品并重新下单。"
       ]
     },
     {
       "heading": "付款前",
       "paragraphs": [
-        "税费和运费取决于订单和国家，请在付款前的订单摘要中核对。4CW5Y 是 SHEIN 巴西站的推荐码，不是优惠券。它要在应用里搜索，也不会提供折扣。使用方法见[推荐码指南](/zh-hans/reviews/shein-referral-code-zh-hans)，当前活动见 [SHEIN 店铺页](/zh-hans/coupons/shein)。"
+        "付款前请核对配送预估和订单摘要，并保存订单确认。4CW5Y 是 SHEIN 巴西站的推荐码，不是优惠券。它要在应用里搜索，也不会提供折扣。使用方法见[推荐码指南](/zh-hans/reviews/shein-referral-code-zh-hans)，当前活动见 [SHEIN 店铺页](/zh-hans/coupons/shein)。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+          "alt": "穿藏青色亮片长裙的模特，站在铺着地毯的走廊里",
+          "caption": "SHEIN 官方图片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
       ]
     },
     {

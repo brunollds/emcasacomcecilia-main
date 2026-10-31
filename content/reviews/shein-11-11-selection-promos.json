@@ -192,17 +192,31 @@
       "paragraphs": [
         "Selon la fiche, c'est un ensemble pyjama fleuri avec poche et passepoil contrastant, de la ligne Serenescape. Il convient à qui cherche un pyjama d'été léger, haut et short."
       ],
-      "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-      "imageAlt": "Pyjama fleuri Serenescape avec passepoil contrastant, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+        "alt": "Pyjama fleuri Serenescape avec passepoil contrastant, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le pyjama fleuri sur SHEIN",
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pyjama fleuri Serenescape",
+            "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+            "howTo": "Haut et short pour dormir ou rester à la maison quand il fait chaud.",
+            "occasion": "Nuits chaudes d'été."
+          }
+        ]
+      }
     },
     {
       "heading": "Pyjama débardeur et short rayé à cœurs",
@@ -214,17 +228,36 @@
       "paragraphs": [
         "Selon la fiche, c'est un pyjama femme débardeur et short, rayé avec un imprimé de cœurs, de la marque propre de SHEIN. Le prix change selon la couleur ou la taille, et la fiche n'affichait pas de prix barré le 28/10."
       ],
-      "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-      "imageAlt": "Pyjama débardeur et short rayé à cœurs, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+        "alt": "Pyjama débardeur et short rayé à cœurs, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le pyjama rayé sur SHEIN",
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pyjama débardeur et short rayé à cœurs",
+            "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+            "howTo": "Débardeur et short pour dormir ; avec une chemise ouverte par-dessus, il devient une tenue d'intérieur.",
+            "occasion": "À la maison, en été.",
+            "pairsWith": [
+              {
+                "label": "chemise en coton ouverte"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Pyjama 3 pièces à imprimé cartoon",
@@ -236,17 +269,31 @@
       "paragraphs": [
         "Selon la fiche, c'est un ensemble Dream Adore de 3 pièces à imprimé cartoon, avec un short à nœud à la taille. C'est le prix le plus bas parmi les pyjamas de la sélection."
       ],
-      "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-      "imageAlt": "Pyjama 3 pièces à imprimé cartoon avec short à nœud, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+        "alt": "Pyjama 3 pièces à imprimé cartoon avec short à nœud, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le pyjama 3 pièces sur SHEIN",
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pyjama 3 pièces à imprimé cartoon",
+            "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+            "howTo": "Ensemble complet, avec le short à nœud à la taille, pour dormir ou rester chez soi.",
+            "occasion": "À la maison, au quotidien."
+          }
+        ]
+      }
     },
     {
       "heading": "Enfant",
@@ -264,17 +311,39 @@
       "paragraphs": [
         "Selon la fiche, c'est un ensemble fille avec un débardeur imprimé cœur et un pantalon large, de la marque propre de SHEIN. Il convient à qui cherche une tenue d'été complète pour une fille de 4 à 7 ans."
       ],
-      "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-      "imageAlt": "Ensemble enfant débardeur à cœur et pantalon large, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+        "alt": "Ensemble enfant débardeur à cœur et pantalon large, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir l'ensemble fille sur SHEIN",
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Ensemble fille débardeur cœur et pantalon large",
+            "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+            "howTo": "Débardeur et pantalon large portés ensemble, un look d'été prêt à porter.",
+            "occasion": "Sortie d'été, pour les filles de 4 à 7 ans.",
+            "pairsWith": [
+              {
+                "label": "sandales plates"
+              },
+              {
+                "label": "chapeau de soleil"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Pyjama garçon avec dinosaure phosphorescent",
@@ -286,17 +355,31 @@
       "paragraphs": [
         "Selon la fiche, c'est un pyjama garçon 2 pièces, avec un dinosaure de Noël phosphorescent et une taille élastique. Il convient à qui veut déjà le pyjama des fêtes de fin d'année pour un garçon de 4 à 7 ans."
       ],
-      "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-      "imageAlt": "Pyjama enfant 2 pièces avec dinosaure de Noël phosphorescent, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+        "alt": "Pyjama enfant 2 pièces avec dinosaure de Noël phosphorescent, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le pyjama dinosaure sur SHEIN",
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pyjama garçon avec dinosaure phosphorescent",
+            "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+            "howTo": "Pyjama 2 pièces ; le dinosaure s'éclaire une fois la lumière éteinte.",
+            "occasion": "Pour la nuit, garçons de 4 à 7 ans."
+          }
+        ]
+      }
     },
     {
       "heading": "Haut bébé avec animaux dessinés à la craie",
@@ -308,17 +391,39 @@
       "paragraphs": [
         "Selon la fiche, c'est un haut bébé garçon avec des animaux dessinés à la craie, comme un tigre, un ours et un paresseux. C'est la pièce enfant la moins chère de la sélection, pour les bébés de 6 mois à 3 ans."
       ],
-      "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-      "imageAlt": "Haut bébé avec animaux dessinés à la craie, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+        "alt": "Haut bébé avec animaux dessinés à la craie, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le haut bébé sur SHEIN",
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Haut bébé avec animaux dessinés à la craie",
+            "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+            "howTo": "Haut de tous les jours, avec un pantalon ou un short en maille.",
+            "occasion": "Au quotidien, pour les bébés de 6 mois à 3 ans.",
+            "pairsWith": [
+              {
+                "label": "pantalon en maille"
+              },
+              {
+                "label": "short en maille"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Pyjama garçon à manches longues, imprimé assorti",
@@ -330,17 +435,31 @@
       "paragraphs": [
         "Selon la fiche, c'est un pyjama garçon à manches longues et pantalon long, avec un imprimé intégral. La fiche vend 1 ensemble, et l'imprimé (dinosaure, pelleteuse ou avion) est choisi par la boutique, pas par l'acheteur."
       ],
-      "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-      "imageAlt": "Pyjama enfant à manches longues avec imprimé dinosaure, pelleteuse ou avion, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+        "alt": "Pyjama enfant à manches longues avec imprimé dinosaure, pelleteuse ou avion, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le pyjama à manches longues sur SHEIN",
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pyjama garçon à manches longues, imprimé assorti",
+            "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+            "howTo": "Manches longues et pantalon long, pour les nuits plus fraîches.",
+            "occasion": "Nuits fraîches, de 9 mois à 7 ans."
+          }
+        ]
+      }
     },
     {
       "heading": "Femme",
@@ -358,17 +477,43 @@
       "paragraphs": [
         "Selon la fiche, c'est un ensemble SHEIN Franclia débardeur et pantalon large, rayé en bleu, que la boutique décrit pour tous les jours, le travail et les vacances. Il convient à qui veut une tenue prête en un seul ensemble."
       ],
-      "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-      "imageAlt": "Ensemble rayé bleu débardeur et pantalon large, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+        "alt": "Ensemble rayé bleu débardeur et pantalon large, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir l'ensemble rayé sur SHEIN",
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Ensemble rayé bleu débardeur et pantalon large",
+            "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+            "howTo": "Débardeur et pantalon large ensemble, look prêt à porter ; avec un cardigan par-dessus, il passe de la chaleur à la climatisation.",
+            "occasion": "Au quotidien, au travail et en vacances, selon la boutique.",
+            "pairsWith": [
+              {
+                "label": "Cardigan sport slim DAZY",
+                "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+              },
+              {
+                "label": "sandales plates"
+              },
+              {
+                "label": "sac bandoulière"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Cardigan sport slim DAZY",
@@ -380,17 +525,43 @@
       "paragraphs": [
         "Selon la fiche, c'est un cardigan sport à manches longues et coupe slim, de DAZY, que la boutique décrit comme une veste fine de mi-saison. Il convient à qui cherche une troisième pièce légère pour la clim ou la fin d'après-midi."
       ],
-      "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-      "imageAlt": "Cardigan sport slim à manches longues, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+        "alt": "Cardigan sport slim à manches longues, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le cardigan sur SHEIN",
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Cardigan sport slim DAZY",
+            "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+            "howTo": "Par-dessus un débardeur ou un t-shirt, comme une veste légère.",
+            "occasion": "Mi-saison, climatisation et fin d'après-midi.",
+            "pairsWith": [
+              {
+                "label": "Ensemble rayé bleu débardeur et pantalon large",
+                "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+              },
+              {
+                "label": "jean"
+              },
+              {
+                "label": "robe en maille"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Short imprimé à taille paperbag",
@@ -402,17 +573,39 @@
       "paragraphs": [
         "Selon la fiche, c'est un short imprimé à taille paperbag, de la ligne SHEIN Frenchy, que la boutique décrit en style « old money » pour l'été et les vacances. C'est le vêtement le moins cher de la sélection et celui avec la plus grosse remise sur la fiche."
       ],
-      "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-      "imageAlt": "Short femme imprimé à taille paperbag, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+        "alt": "Short femme imprimé à taille paperbag, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le short imprimé sur SHEIN",
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Short imprimé à taille paperbag",
+            "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+            "howTo": "Avec un t-shirt uni, pour que l'imprimé ressorte.",
+            "occasion": "L'été et les vacances.",
+            "pairsWith": [
+              {
+                "label": "t-shirt blanc"
+              },
+              {
+                "label": "sandales plates"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Jean large à taille élastique",
@@ -424,17 +617,43 @@
       "paragraphs": [
         "Selon la fiche, c'est un jean large Flexra à taille élastique, que la boutique décrit comme confortable et à jambe large. C'est la pièce la plus chère de la sélection."
       ],
-      "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-      "imageAlt": "Jean large à taille élastique, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+        "alt": "Jean large à taille élastique, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le jean sur SHEIN",
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Jean large à taille élastique",
+            "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+            "howTo": "Avec des escarpins ou des ballerines à bout pointu, pour équilibrer la jambe large.",
+            "occasion": "Au quotidien et au travail, sans formalité.",
+            "pairsWith": [
+              {
+                "label": "Escarpins slingback blanc et caramel",
+                "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+              },
+              {
+                "label": "t-shirt basique"
+              },
+              {
+                "label": "ceinture fine"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Accessoires",
@@ -452,17 +671,40 @@
       "paragraphs": [
         "Selon la fiche, ce sont des escarpins slingback blanc et caramel, à talon carré, que la boutique décrit comme élégants et modernes. Ils conviennent à qui cherche une chaussure de travail ou de soirée avec un talon plus stable."
       ],
-      "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-      "imageAlt": "Escarpins slingback blanc et caramel à talon carré, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+        "alt": "Escarpins slingback blanc et caramel à talon carré, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir les escarpins sur SHEIN",
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Escarpins slingback blanc et caramel",
+            "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+            "howTo": "Avec un pantalon de tailleur, un jean ou une robe ; le talon carré est plus stable, selon la boutique.",
+            "occasion": "Travail et fête.",
+            "pairsWith": [
+              {
+                "label": "Jean large à taille élastique",
+                "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+              },
+              {
+                "label": "petit sac à main"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Boucles d'oreilles nœud avec perle et cœur",
@@ -474,17 +716,31 @@
       "paragraphs": [
         "Selon la fiche, c'est une paire de boucles d'oreilles nœud avec perle et cœur, que la boutique recommande pour les soirées. C'est l'article le moins cher de la sélection, un petit plaisir ou un petit cadeau."
       ],
-      "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-      "imageAlt": "Paire de boucles d'oreilles nœud avec perle et cœur, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+        "alt": "Paire de boucles d'oreilles nœud avec perle et cœur, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir les boucles d'oreilles sur SHEIN",
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Boucles d'oreilles nœud avec perle et cœur",
+            "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+            "howTo": "Cheveux attachés, pour que le nœud se voie.",
+            "occasion": "Fête, ou petit cadeau."
+          }
+        ]
+      }
     },
     {
       "heading": "Kit montre verte avec bracelet, collier et boucles d'oreilles",
@@ -496,17 +752,31 @@
       "paragraphs": [
         "Selon la fiche, c'est un kit de 9 pièces avec montre verte, bracelet, collier et boucles d'oreilles, que la boutique recommande pour tous les jours ou comme cadeau. Il convient à qui veut composer une parure d'un coup pour environ 5 €."
       ],
-      "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-      "imageAlt": "Kit de 9 pièces avec montre verte, bracelet, collier et boucles d'oreilles, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+        "alt": "Kit de 9 pièces avec montre verte, bracelet, collier et boucles d'oreilles, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le kit montre sur SHEIN",
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Kit montre verte avec bracelet, collier et boucles d'oreilles",
+            "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+            "howTo": "La montre seule au quotidien ; avec le collier et les boucles d'oreilles du kit, pour une sortie.",
+            "occasion": "Au quotidien, en sortie ou en cadeau."
+          }
+        ]
+      }
     },
     {
       "heading": "Lunettes de soleil polygonales à verres dégradés",
@@ -518,17 +788,31 @@
       "paragraphs": [
         "Selon la fiche, ce sont des lunettes LINFEMAND à monture polygonale et verres dégradés, en 6 coloris, que la boutique recommande pour la conduite, la plage et les voyages. La remise sur la fiche est petite, de 4 %."
       ],
-      "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-      "imageAlt": "Lunettes de soleil à monture polygonale et verres dégradés, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+        "alt": "Lunettes de soleil à monture polygonale et verres dégradés, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir les lunettes de soleil sur SHEIN",
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Lunettes de soleil polygonales à verres dégradés",
+            "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+            "howTo": "Monture dans une teinte qui va avec les vêtements que vous portez le plus.",
+            "occasion": "Conduite, plage et voyage, selon la boutique."
+          }
+        ]
+      }
     },
     {
       "heading": "Homme",
@@ -546,17 +830,43 @@
       "paragraphs": [
         "Selon la fiche, c'est un t-shirt Henley à manches courtes, bleu marine, avec une texture imitation lin, que la boutique décrit comme casual et à coupe décontractée. Il convient à qui veut un t-shirt un peu plus habillé que le basique."
       ],
-      "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-      "imageAlt": "T-shirt Henley homme bleu marine à texture lin, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+        "alt": "T-shirt Henley homme bleu marine à texture lin, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le t-shirt Henley sur SHEIN",
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "T-shirt Henley bleu marine à texture lin",
+            "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+            "howTo": "Ample, avec un jean ou un bermuda, pour un look casual plus soigné.",
+            "occasion": "Au quotidien et le week-end.",
+            "pairsWith": [
+              {
+                "label": "Kit de shorts en lin",
+                "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+              },
+              {
+                "label": "jean"
+              },
+              {
+                "label": "baskets blanches"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Kit de shorts en lin",
@@ -568,17 +878,43 @@
       "paragraphs": [
         "Selon la fiche, c'est un kit de shorts en lin en coloris variés, que la boutique décrit comme casual et moderne. La fiche ne dit pas combien de pièces le kit contient : vérifiez avant d'acheter."
       ],
-      "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-      "imageAlt": "Kit de shorts homme en lin en coloris variés, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 1,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+        "alt": "Kit de shorts homme en lin en coloris variés, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le kit de shorts sur SHEIN",
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Kit de shorts en lin",
+            "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+            "howTo": "Avec un t-shirt uni ou un henley, pour un casual d'été.",
+            "occasion": "L'été et les vacances.",
+            "pairsWith": [
+              {
+                "label": "T-shirt Henley bleu marine à texture lin",
+                "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+              },
+              {
+                "label": "débardeur blanc"
+              },
+              {
+                "label": "baskets basses"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Chemise homme à manches longues Manfinity Mode",
@@ -590,17 +926,42 @@
       "paragraphs": [
         "Selon la fiche, c'est une chemise à manches longues de Manfinity Mode, que la boutique décrit comme polyvalente, pour tous les jours et les occasions formelles. Elle convient à qui a besoin d'une chemise plus habillée pour le travail."
       ],
-      "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-      "imageAlt": "Chemise homme à manches longues Manfinity Mode, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+        "alt": "Chemise homme à manches longues Manfinity Mode, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir la chemise à manches longues sur SHEIN",
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Chemise homme à manches longues Manfinity Mode",
+            "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+            "howTo": "Ouverte sur un t-shirt, ou rentrée dans un pantalon de tailleur.",
+            "occasion": "Travail et occasions formelles, selon la boutique.",
+            "pairsWith": [
+              {
+                "label": "pantalon de tailleur"
+              },
+              {
+                "label": "jean droit"
+              },
+              {
+                "label": "t-shirt blanc"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Débardeur noir délavé à coupe ample",
@@ -612,17 +973,42 @@
       "paragraphs": [
         "Selon la fiche, c'est un débardeur noir délavé à coupe ample, que la boutique décrit comme du streetwear d'été. Il convient à qui veut un débardeur pour la rue, pas pour la salle de sport."
       ],
-      "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-      "imageAlt": "Débardeur homme noir délavé à coupe ample, photo de la fiche SHEIN",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+        "alt": "Débardeur homme noir délavé à coupe ample, photo de la fiche SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+      },
       "links": [
         {
           "label": "Voir le débardeur sur SHEIN",
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Débardeur noir délavé à coupe ample",
+            "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+            "howTo": "Avec un bermuda ou un short en molleton, pour un look urbain.",
+            "occasion": "L'été et la rue ; ce n'est pas une tenue de sport.",
+            "pairsWith": [
+              {
+                "label": "bermuda en nylon"
+              },
+              {
+                "label": "baskets blanches"
+              },
+              {
+                "label": "casquette"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Avant d'acheter",

@@ -193,17 +193,31 @@
       "paragraphs": [
         "Laut Produktseite ist es ein Pyjama-Set mit Blumenmuster, Tasche und Kontrastpaspel aus der Linie Serenescape. Es passt für alle, die einen leichten Sommerpyjama aus Shirt und Shorts suchen."
       ],
-      "image": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
-      "imageAlt": "Blumenpyjama Serenescape mit Kontrastpaspel, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+        "alt": "Blumenpyjama Serenescape mit Kontrastpaspel, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C"
+      },
       "links": [
         {
           "label": "Blumenpyjama bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Blumenpyjama Serenescape",
+            "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
+            "howTo": "Shirt und Shorts zum Schlafen oder für zu Hause bei Hitze.",
+            "occasion": "Warme Sommernächte."
+          }
+        ]
+      }
     },
     {
       "heading": "Pyjama mit Top und Shorts, gestreift mit Herzen",
@@ -215,17 +229,36 @@
       "paragraphs": [
         "Laut Produktseite ist es ein Damenpyjama aus Top und Shorts, gestreift und mit Herzmuster, von der Eigenmarke SHEIN. Der Preis hängt von Farbe oder Größe ab, und am 28.10. zeigte die Produktseite keinen Streichpreis."
       ],
-      "image": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
-      "imageAlt": "Pyjama mit Top und Shorts, gestreift mit Herzen, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+        "alt": "Pyjama mit Top und Shorts, gestreift mit Herzen, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C"
+      },
       "links": [
         {
           "label": "Gestreiften Pyjama bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pyjama mit Top und Shorts, gestreift mit Herzen",
+            "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
+            "howTo": "Top und Shorts zum Schlafen; mit einem offenen Hemd darüber wird es zur Hauskleidung.",
+            "occasion": "Zu Hause, im Sommer.",
+            "pairsWith": [
+              {
+                "label": "offenes Baumwollhemd"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "3-teiliger Pyjama mit Cartoon-Print",
@@ -237,17 +270,31 @@
       "paragraphs": [
         "Laut Produktseite ist es ein 3-teiliges Set von Dream Adore mit Cartoon-Print und Shorts mit Schleife am Bund. Es ist der günstigste Pyjama der Auswahl."
       ],
-      "image": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
-      "imageAlt": "3-teiliger Pyjama mit Cartoon-Print und Shorts mit Schleife, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+        "alt": "3-teiliger Pyjama mit Cartoon-Print und Shorts mit Schleife, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C"
+      },
       "links": [
         {
           "label": "3-teiligen Pyjama bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "3-teiliger Pyjama mit Cartoon-Print",
+            "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
+            "howTo": "Komplettes Set mit der Schleifen-Short an der Taille, zum Schlafen oder für zu Hause.",
+            "occasion": "Zu Hause, im Alltag."
+          }
+        ]
+      }
     },
     {
       "heading": "Kinder",
@@ -265,17 +312,39 @@
       "paragraphs": [
         "Laut Produktseite ist es ein Mädchenset aus Top mit Herz-Print und weiter Hose, von der Eigenmarke SHEIN. Es passt für alle, die ein komplettes Sommer-Outfit für ein Mädchen von 4 bis 7 Jahren suchen."
       ],
-      "image": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
-      "imageAlt": "Mädchenset mit Herz-Top und weiter Hose, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+        "alt": "Mädchenset mit Herz-Top und weiter Hose, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C"
+      },
       "links": [
         {
           "label": "Mädchenset bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Mädchenset mit Herz-Top und weiter Hose",
+            "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
+            "howTo": "Top und weite Hose zusammen, ein fertiger Sommerlook.",
+            "occasion": "Sommerausflug, für Mädchen von 4 bis 7 Jahren.",
+            "pairsWith": [
+              {
+                "label": "flache Sandalen"
+              },
+              {
+                "label": "Sonnenhut"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Jungenpyjama mit Dinosaurier, der im Dunkeln leuchtet",
@@ -287,17 +356,31 @@
       "paragraphs": [
         "Laut Produktseite ist es ein 2-teiliger Jungenpyjama mit Weihnachtsdinosaurier, der im Dunkeln leuchtet, und elastischem Bund. Er passt für alle, die den Pyjama für die Feiertage schon jetzt für einen Jungen von 4 bis 7 Jahren kaufen wollen."
       ],
-      "image": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
-      "imageAlt": "2-teiliger Kinderpyjama mit Weihnachtsdinosaurier, der im Dunkeln leuchtet, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+        "alt": "2-teiliger Kinderpyjama mit Weihnachtsdinosaurier, der im Dunkeln leuchtet, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C"
+      },
       "links": [
         {
           "label": "Dinosaurier-Pyjama bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Jungenpyjama mit Dinosaurier, der im Dunkeln leuchtet",
+            "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
+            "howTo": "Zweiteiliger Schlafanzug; der Dino leuchtet, sobald das Licht aus ist.",
+            "occasion": "Zum Schlafen, für Jungen von 4 bis 7 Jahren."
+          }
+        ]
+      }
     },
     {
       "heading": "Babyshirt mit Tieren in Kreideoptik",
@@ -309,17 +392,39 @@
       "paragraphs": [
         "Laut Produktseite ist es ein Shirt für Baby-Jungen mit Tieren in Kreideoptik, etwa Tiger, Bär und Faultier. Es ist das günstigste Kinderteil der Auswahl, für Babys von 6 Monaten bis 3 Jahren."
       ],
-      "image": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
-      "imageAlt": "Babyshirt mit Tieren in Kreideoptik, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+        "alt": "Babyshirt mit Tieren in Kreideoptik, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C"
+      },
       "links": [
         {
           "label": "Babyshirt bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Babyshirt mit Tieren in Kreideoptik",
+            "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
+            "howTo": "Shirt für den Alltag, mit Hose oder Strick-Shorts.",
+            "occasion": "Alltag, für Babys von 6 Monaten bis 3 Jahren.",
+            "pairsWith": [
+              {
+                "label": "Strickhose"
+              },
+              {
+                "label": "Strick-Shorts"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Langarm-Jungenpyjama, Print nach Zufall",
@@ -331,17 +436,31 @@
       "paragraphs": [
         "Laut Produktseite ist es ein Jungenpyjama mit langen Ärmeln und langer Hose, durchgehend bedruckt. Verkauft wird 1 Set, und den Print (Dinosaurier, Bagger oder Flugzeug) wählt der Shop aus, nicht die Käuferin oder der Käufer."
       ],
-      "image": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-      "imageAlt": "Langarm-Kinderpyjama mit Dinosaurier-, Bagger- oder Flugzeug-Print, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+        "alt": "Langarm-Kinderpyjama mit Dinosaurier-, Bagger- oder Flugzeug-Print, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
+      },
       "links": [
         {
           "label": "Langarm-Pyjama bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Langarm-Jungenpyjama, Print nach Zufall",
+            "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
+            "howTo": "Langarm und lange Hose, für kühlere Nächte.",
+            "occasion": "Kühle Nächte, von 9 Monaten bis 7 Jahren."
+          }
+        ]
+      }
     },
     {
       "heading": "Damen",
@@ -359,17 +478,43 @@
       "paragraphs": [
         "Laut Produktseite ist es ein Set von SHEIN Franclia aus Top und weiter Hose, blau gestreift, das der Shop für Alltag, Büro und Urlaub beschreibt. Es passt für alle, die den fertigen Look in einem Set wollen."
       ],
-      "image": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
-      "imageAlt": "Blau gestreiftes Set mit Top und weiter Hose, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+        "alt": "Blau gestreiftes Set mit Top und weiter Hose, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+      },
       "links": [
         {
           "label": "Gestreiftes Set bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Blau gestreiftes Set mit Top und weiter Hose",
+            "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
+            "howTo": "Top und weite Hose zusammen als fertiger Look; mit Cardigan darüber geht es von der Hitze bis zur Klimaanlage.",
+            "occasion": "Alltag, Arbeit und Urlaub, laut Shop.",
+            "pairsWith": [
+              {
+                "label": "Sportlicher Slim-Cardigan DAZY",
+                "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+              },
+              {
+                "label": "flache Sandalen"
+              },
+              {
+                "label": "Umhängetasche"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Sportlicher Slim-Cardigan DAZY",
@@ -381,17 +526,43 @@
       "paragraphs": [
         "Laut Produktseite ist es ein sportlicher Cardigan mit langen Ärmeln und schmalem Schnitt von DAZY, den der Shop als dünne Jacke für die Übergangszeit beschreibt. Er passt für alle, die ein leichtes drittes Teil für die Klimaanlage oder den Abend suchen."
       ],
-      "image": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
-      "imageAlt": "Sportlicher Slim-Cardigan mit langen Ärmeln, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+        "alt": "Sportlicher Slim-Cardigan mit langen Ärmeln, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
+      },
       "links": [
         {
           "label": "Cardigan bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Sportlicher Slim-Cardigan DAZY",
+            "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
+            "howTo": "Über einem Top oder T-Shirt, als dünne Jacke.",
+            "occasion": "Übergangszeit, Klimaanlage und später Nachmittag.",
+            "pairsWith": [
+              {
+                "label": "Blau gestreiftes Set mit Top und weiter Hose",
+                "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C"
+              },
+              {
+                "label": "Jeans"
+              },
+              {
+                "label": "Strickkleid"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Gemusterte Paperbag-Shorts",
@@ -403,17 +574,39 @@
       "paragraphs": [
         "Laut Produktseite ist es eine gemusterte Shorts mit Paperbag-Bund aus der Linie SHEIN Frenchy, die der Shop im „Old Money“-Stil für Sommer und Urlaub beschreibt. Sie ist das günstigste Kleidungsstück der Auswahl und das mit dem höchsten Rabatt auf der Produktseite."
       ],
-      "image": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-      "imageAlt": "Gemusterte Damen-Shorts mit Paperbag-Bund, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+        "alt": "Gemusterte Damen-Shorts mit Paperbag-Bund, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
+      },
       "links": [
         {
           "label": "Gemusterte Shorts bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Gemusterte Paperbag-Shorts",
+            "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
+            "howTo": "Mit einem schlichten T-Shirt, damit der Print zur Geltung kommt.",
+            "occasion": "Sommer und Urlaub.",
+            "pairsWith": [
+              {
+                "label": "weißes T-Shirt"
+              },
+              {
+                "label": "flache Sandalen"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Weite Jeans mit elastischem Bund",
@@ -425,17 +618,43 @@
       "paragraphs": [
         "Laut Produktseite ist es eine weite Jeans von Flexra mit elastischem Bund, die der Shop als bequem und weit geschnitten beschreibt. Sie ist das teuerste Teil der Auswahl."
       ],
-      "image": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
-      "imageAlt": "Weite Jeans mit elastischem Bund, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+        "alt": "Weite Jeans mit elastischem Bund, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+      },
       "links": [
         {
           "label": "Jeans bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Weite Jeans mit elastischem Bund",
+            "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
+            "howTo": "Mit Pumps oder spitzen Ballerinas, um das weite Bein auszugleichen.",
+            "occasion": "Alltag und ungezwungene Arbeit.",
+            "pairsWith": [
+              {
+                "label": "Slingback-Pumps in Weiß und Karamell",
+                "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+              },
+              {
+                "label": "Basic-T-Shirt"
+              },
+              {
+                "label": "schmaler Gürtel"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Accessoires",
@@ -453,17 +672,40 @@
       "paragraphs": [
         "Laut Produktseite sind es Slingback-Pumps in Weiß und Karamell mit Blockabsatz, die der Shop als elegant und modern beschreibt. Sie passen für alle, die einen Schuh für Büro oder Feier mit standfesterem Absatz suchen."
       ],
-      "image": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-      "imageAlt": "Slingback-Pumps in Weiß und Karamell mit Blockabsatz, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+        "alt": "Slingback-Pumps in Weiß und Karamell mit Blockabsatz, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
+      },
       "links": [
         {
           "label": "Pumps bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Slingback-Pumps in Weiß und Karamell",
+            "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
+            "howTo": "Mit Anzughose, Jeans oder Kleid; der Blockabsatz ist stabiler, laut Shop.",
+            "occasion": "Arbeit und Feiern.",
+            "pairsWith": [
+              {
+                "label": "Weite Jeans mit elastischem Bund",
+                "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C"
+              },
+              {
+                "label": "kleine Handtasche"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Schleifen-Ohrringe mit Perle und Herz",
@@ -475,17 +717,31 @@
       "paragraphs": [
         "Laut Produktseite ist es ein Paar Schleifen-Ohrringe mit Perle und Herz, das der Shop für Feiern empfiehlt. Es ist das günstigste Teil der Auswahl und taugt als kleine Aufmerksamkeit oder kleines Geschenk."
       ],
-      "image": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-      "imageAlt": "Paar Schleifen-Ohrringe mit Perle und Herz, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+        "alt": "Paar Schleifen-Ohrringe mit Perle und Herz, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
+      },
       "links": [
         {
           "label": "Ohrringe bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Schleifen-Ohrringe mit Perle und Herz",
+            "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
+            "howTo": "Mit hochgesteckten Haaren, damit die Schleife zu sehen ist.",
+            "occasion": "Party oder als kleines Geschenk."
+          }
+        ]
+      }
     },
     {
       "heading": "Set mit grüner Uhr, Armband, Kette und Ohrringen",
@@ -497,17 +753,31 @@
       "paragraphs": [
         "Laut Produktseite ist es ein 9-teiliges Set mit grüner Uhr, Armband, Kette und Ohrringen, das der Shop für den Alltag oder als Geschenk empfiehlt. Es passt für alle, die ein ganzes Schmuckset auf einmal für etwa 5 € haben wollen."
       ],
-      "image": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-      "imageAlt": "9-teiliges Set mit grüner Uhr, Armband, Kette und Ohrringen, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+        "alt": "9-teiliges Set mit grüner Uhr, Armband, Kette und Ohrringen, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
+      },
       "links": [
         {
           "label": "Uhren-Set bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Set mit grüner Uhr, Armband, Kette und Ohrringen",
+            "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
+            "howTo": "Die Uhr allein im Alltag; mit Kette und Ohrringen aus dem Set für einen Ausgang.",
+            "occasion": "Alltag, Ausgehen oder als Geschenk."
+          }
+        ]
+      }
     },
     {
       "heading": "Polygonale Brille mit Verlaufsgläsern",
@@ -519,17 +789,31 @@
       "paragraphs": [
         "Laut Produktseite ist es eine Brille von LINFEMAND mit polygonaler Fassung und Verlaufsgläsern in 6 Farben, die der Shop fürs Autofahren, den Strand und Reisen empfiehlt. Der Rabatt auf der Produktseite ist klein, 4 %."
       ],
-      "image": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
-      "imageAlt": "Brille mit polygonaler Fassung und Verlaufsgläsern, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+        "alt": "Brille mit polygonaler Fassung und Verlaufsgläsern, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C"
+      },
       "links": [
         {
           "label": "Brille bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Polygonale Brille mit Verlaufsgläsern",
+            "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
+            "howTo": "Fassung in einem Ton, der zu Ihrer meistgetragenen Kleidung passt.",
+            "occasion": "Autofahren, Strand und Reisen, laut Shop."
+          }
+        ]
+      }
     },
     {
       "heading": "Herren",
@@ -547,17 +831,43 @@
       "paragraphs": [
         "Laut Produktseite ist es ein kurzärmeliges Henley-Shirt in Marineblau mit einer Struktur, die an Leinen erinnert, das der Shop als lässig und locker geschnitten beschreibt. Es passt für alle, die ein etwas gepflegteres Shirt als das Basic wollen."
       ],
-      "image": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
-      "imageAlt": "Henley-Herrenshirt in Marineblau mit Leinenoptik, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+        "alt": "Henley-Herrenshirt in Marineblau mit Leinenoptik, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+      },
       "links": [
         {
           "label": "Henley-Shirt bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Henley-Shirt in Marineblau mit Leinenoptik",
+            "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
+            "howTo": "Locker, mit Jeans oder Bermudas, für einen gepflegteren Casual-Look.",
+            "occasion": "Alltag und Wochenende.",
+            "pairsWith": [
+              {
+                "label": "Leinen-Shorts im Set",
+                "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+              },
+              {
+                "label": "Jeans"
+              },
+              {
+                "label": "weiße Sneaker"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Leinen-Shorts im Set",
@@ -569,17 +879,43 @@
       "paragraphs": [
         "Laut Produktseite ist es ein Set Leinen-Shorts in verschiedenen Farben, das der Shop als lässig und modern beschreibt. Die Produktseite sagt nicht, wie viele Shorts im Set sind: vor dem Kauf prüfen."
       ],
-      "image": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-      "imageAlt": "Leinen-Herrenshorts im Set in verschiedenen Farben, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 1,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+        "alt": "Leinen-Herrenshorts im Set in verschiedenen Farben, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
+      },
       "links": [
         {
           "label": "Shorts-Set bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Leinen-Shorts im Set",
+            "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
+            "howTo": "Mit einem schlichten T-Shirt oder Henley, für einen Sommer-Casual-Look.",
+            "occasion": "Sommer und Urlaub.",
+            "pairsWith": [
+              {
+                "label": "Henley-Shirt in Marineblau mit Leinenoptik",
+                "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
+              },
+              {
+                "label": "weißes Top"
+              },
+              {
+                "label": "niedrige Sneaker"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Langarm-Herrenhemd Manfinity Mode",
@@ -591,17 +927,42 @@
       "paragraphs": [
         "Laut Produktseite ist es ein Langarmhemd von Manfinity Mode, das der Shop als vielseitig beschreibt, für den Alltag und für formelle Anlässe. Es passt für alle, die ein gepflegteres Hemd fürs Büro brauchen."
       ],
-      "image": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
-      "imageAlt": "Langarm-Herrenhemd Manfinity Mode, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+        "alt": "Langarm-Herrenhemd Manfinity Mode, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C"
+      },
       "links": [
         {
           "label": "Langarmhemd bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Langarm-Herrenhemd Manfinity Mode",
+            "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
+            "howTo": "Offen über einem T-Shirt oder in die Anzughose gesteckt.",
+            "occasion": "Arbeit und formelle Anlässe, laut Shop.",
+            "pairsWith": [
+              {
+                "label": "Anzughose"
+              },
+              {
+                "label": "gerade Jeans"
+              },
+              {
+                "label": "weißes T-Shirt"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Schwarzes Tanktop in Washed-Optik, locker geschnitten",
@@ -613,17 +974,42 @@
       "paragraphs": [
         "Laut Produktseite ist es ein schwarzes, locker geschnittenes Tanktop in Washed-Optik, das der Shop als Sommer-Streetwear beschreibt. Es passt für alle, die ein Tanktop für die Straße suchen, nicht fürs Training."
       ],
-      "image": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-      "imageAlt": "Schwarzes Herren-Tanktop in Washed-Optik, locker geschnitten, Foto der SHEIN-Produktseite",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.75,
+      "image": {
+        "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+        "alt": "Schwarzes Herren-Tanktop in Washed-Optik, locker geschnitten, Foto der SHEIN-Produktseite",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
+      },
       "links": [
         {
           "label": "Tanktop bei SHEIN ansehen",
           "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
           "sponsored": true
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Schwarzes Tanktop in Washed-Optik, locker geschnitten",
+            "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
+            "howTo": "Mit Bermudas oder Sweatshorts, für einen Streetlook.",
+            "occasion": "Sommer und Straße; keine Sportkleidung.",
+            "pairsWith": [
+              {
+                "label": "Nylon-Bermudas"
+              },
+              {
+                "label": "weiße Sneaker"
+              },
+              {
+                "label": "Cap"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Vor dem Kauf",

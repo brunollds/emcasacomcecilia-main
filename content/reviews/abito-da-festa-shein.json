@@ -23,7 +23,7 @@
   "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-  "imageAlt": "Abiti da festa SHEIN blu notte e blu polvere, per Natale, Capodanno e una laurea",
+  "imageAlt": "Abiti da festa SHEIN blu navy e blu polvere, per Natale, Capodanno e una laurea",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -69,12 +69,66 @@
       "images": [
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
-          "alt": "Modella con abito lungo blu notte con paillettes e spacco laterale, all'aperto",
+          "alt": "Modella con abito lungo blu navy con paillettes e spacco laterale, all'aperto",
           "caption": "Foto ufficiale di SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Festa di fine anno",
+            "howTo": "Alla cena di Natale, un midi di tessuto leggero; a Capodanno, lungo o corto, con brillantini se la festa è di sera.",
+            "occasion": "Cena di Natale e festa di Capodanno.",
+            "pairsWith": [
+              {
+                "label": "sandalo con cinturino sottile"
+              },
+              {
+                "label": "borsa piccola"
+              },
+              {
+                "label": "scialle leggero"
+              }
+            ]
+          },
+          {
+            "piece": "Laurea",
+            "howTo": "La sera, lungo o midi con sandalo con cinturino sottile; di giorno, corto o midi con scarpa chiusa.",
+            "occasion": "Cerimonia e ballo; l'invito indica il dress code.",
+            "pairsWith": [
+              {
+                "label": "sandalo con cinturino sottile"
+              },
+              {
+                "label": "pochette"
+              },
+              {
+                "label": "orecchini medi"
+              }
+            ]
+          },
+          {
+            "piece": "Invitata a un matrimonio",
+            "howTo": "Di giorno, tessuto leggero con scarpa chiusa o sandalo basso; la sera, lungo con tacco. Il bianco è della sposa.",
+            "occasion": "Cerimonia in chiesa o in sala, di giorno o di sera.",
+            "pairsWith": [
+              {
+                "label": "décolleté con tacco medio"
+              },
+              {
+                "label": "borsa strutturata"
+              },
+              {
+                "label": "giacca leggera"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Come leggere la descrizione del prodotto",
@@ -93,35 +147,190 @@
           "alt": "Modella di profilo con abito blu polvere monospalla e gonna in tulle",
           "caption": "Foto ufficiale di SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
+    },
+    {
+      "heading": "Tre abiti letti su SHEIN",
+      "paragraphs": [
+        "Nessuno del team ha indossato questi abiti. Tessuto, lunghezza e voto vengono dalle pagine dei prodotti. Prima di comprare, controlla il prezzo e la stima di consegna sulla pagina del negozio."
+      ],
+      "comparisonTable": {
+        "caption": "Tre abiti SHEIN, con i dati della pagina di ogni prodotto.",
+        "headers": [
+          "Abito",
+          "Tessuto e fodera",
+          "Occasione e voto"
+        ],
+        "rows": [
+          [
+            "[Abito lungo Firerie, una spalla, tulle (blu polvere)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+            "95% poliestere e 5% elastan. Foderato, non trasparente, maxi.",
+            "Matrimonio, secondo il negozio. Voto 4,84, con oltre 1.000 recensioni."
+          ],
+          [
+            "[Abito corto Via Vilarinho, sartoriale, scollo quadrato (blu navy)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+            "95% poliestere e 5% elastan. Fodera solo nella parte alta. Corto nel titolo, midi nella descrizione.",
+            "Serata, matrimonio e ufficio, secondo il negozio. Voto 4,88, con 80 recensioni."
+          ],
+          [
+            "[Abito lungo ADYCE, paillettes, spalle scoperte, spacco (blu navy)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+            "95% poliestere e 5% elastan. Foderato, non trasparente, lungo, con spacco.",
+            "Festa, formale e serale, secondo il negozio. Voto 4,89, con oltre 1.000 recensioni."
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+          "alt": "Modella con abito blu polvere a una spalla, con arricciature in vita, davanti a un muro grigio",
+          "caption": "Foto ufficiale di SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+          "alt": "Modella con abito blu navy a maniche corte e scollo quadrato, davanti a un muro coperto di edera",
+          "caption": "Foto ufficiale di SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+          "alt": "Modella con abito lungo blu navy di paillettes con spacco, su un pavimento di marmo",
+          "caption": "Foto ufficiale di SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Abito lungo Firerie",
+            "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+            "howTo": "La spalla scoperta è già il punto forte: orecchini piccoli e capelli raccolti.",
+            "occasion": "Matrimonio, secondo il negozio.",
+            "pairsWith": [
+              {
+                "label": "sandalo con tacco sottile"
+              },
+              {
+                "label": "pochette piccola"
+              },
+              {
+                "label": "orecchini piccoli"
+              }
+            ]
+          },
+          {
+            "piece": "Abito corto Via Vilarinho",
+            "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+            "howTo": "Il taglio sartoriale chiede scarpa chiusa e borsa strutturata; con il blazer va in ufficio.",
+            "occasion": "Serata, matrimonio e ufficio, secondo il negozio.",
+            "pairsWith": [
+              {
+                "label": "décolleté"
+              },
+              {
+                "label": "borsa strutturata"
+              },
+              {
+                "label": "blazer"
+              }
+            ]
+          },
+          {
+            "piece": "Abito lungo ADYCE",
+            "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+            "howTo": "Paillettes e spacco attirano già lo sguardo: accessorio discreto e sandalo con cinturino sottile.",
+            "occasion": "Festa formale serale, secondo il negozio.",
+            "pairsWith": [
+              {
+                "label": "sandalo con cinturino sottile"
+              },
+              {
+                "label": "pochette piccola"
+              },
+              {
+                "label": "scialle leggero"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Taglia: usa le misure del capo",
       "paragraphs": [
-        "SHEIN pubblica una guida alle taglie per ogni prodotto, in centimetri e pollici, con le istruzioni per misurarsi. Non esiste una tabella unica da PP a GG: usa quella dell'abito scelto. Per le taglie curvy il metodo è lo stesso: confronta le misure del capo con le tue, non il numero sull'etichetta."
+        "SHEIN pubblica una guida alle taglie per ogni prodotto, in centimetri e pollici, con le istruzioni per misurarsi. Non esiste una tabella taglie unica: usa quella dell'abito scelto. Per le taglie curvy il metodo è lo stesso: confronta le misure del capo con le tue, non il numero sull'etichetta."
       ],
       "images": [
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
-          "alt": "Modella di spalle in abito blu notte a maniche corte e lunghezza media",
+          "alt": "Modella di spalle in abito blu navy a maniche corte e lunghezza media",
           "caption": "Foto ufficiale di SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7792
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+          "alt": "Modella di spalle con abito lungo blu polvere a una spalla, davanti a un muro grigio",
+          "caption": "Foto ufficiale di SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
     {
-      "heading": "Consegna e resi",
+      "heading": "Tempi: somma la data della festa",
       "paragraphs": [
-        "Tempi e resi dipendono dal venditore, dalla destinazione e dall'ordine. Le regole aggiornate sono nella pagina del negozio, e il riepilogo dell'ordine mostra la data di consegna prima del pagamento."
+        "Gli ordini richiedono da 3 a 5 giorni di lavorazione prima della spedizione. Somma questo tempo alla stima di consegna nella pagina dell'ordine. Se la somma supera la data della festa, questo abito non è l'acquisto giusto per quella data."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+          "alt": "Modella che si guarda allo specchio, con abito lungo blu navy di paillettes e strascico",
+          "caption": "Foto ufficiale di SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
+      ]
+    },
+    {
+      "heading": "Tasse: controlla il riepilogo dell'ordine",
+      "paragraphs": [
+        "Le tasse d'importazione dipendono dal Paese di arrivo dell'ordine e dal valore dell'acquisto. Il riepilogo dell'ordine mostra l'importo prima del pagamento."
+      ]
+    },
+    {
+      "heading": "Resi e cambi",
+      "paragraphs": [
+        "La pagina del negozio indica le regole di reso di ogni venditore. Per cambiare taglia, restituisci il capo e fai un nuovo ordine."
       ]
     },
     {
       "heading": "Prima di pagare",
       "paragraphs": [
-        "Tasse e spedizione dipendono dall'ordine e dal paese: controllale nel riepilogo prima di pagare. Il codice 4CW5Y è il codice invito di SHEIN Brasile, non un coupon: si cerca nell'app e non dà sconti. Come funziona è spiegato nella [guida al codice invito](/it/reviews/codice-invito-shein-dove-inserirlo), e le campagne in corso sono nella [pagina di SHEIN](/it/coupons/shein)."
+        "Controlla la data di consegna e il riepilogo prima di pagare, e conserva la conferma dell'ordine. Il codice 4CW5Y è il codice invito di SHEIN Brasile, non un coupon: si cerca nell'app e non dà sconti. Come funziona è spiegato nella [guida al codice invito](/it/reviews/codice-invito-shein-dove-inserirlo), e le campagne in corso sono nella [pagina di SHEIN](/it/coupons/shein)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+          "alt": "Modella con abito lungo blu navy di paillettes in un corridoio con tappeto",
+          "caption": "Foto ufficiale di SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
       ]
     },
     {

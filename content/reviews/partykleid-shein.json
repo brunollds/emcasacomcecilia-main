@@ -72,9 +72,63 @@
           "alt": "Model in einem langen marineblauen Paillettenkleid mit Seitenschlitz, im Freien",
           "caption": "Offizielles Foto von SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Fest zum Jahresende",
+            "howTo": "Beim Weihnachtsessen ein Midi aus leichtem Stoff; an Silvester lang oder kurz, mit Glanz, wenn die Feier abends ist.",
+            "occasion": "Weihnachtsessen und Silvesterparty.",
+            "pairsWith": [
+              {
+                "label": "Riemchensandalen"
+              },
+              {
+                "label": "kleine Tasche"
+              },
+              {
+                "label": "leichter Schal"
+              }
+            ]
+          },
+          {
+            "piece": "Abschlussfeier",
+            "howTo": "Abends ein langes oder Midi-Kleid mit Riemchensandalen; tagsüber ein kurzes oder Midi-Kleid mit geschlossenen Schuhen.",
+            "occasion": "Zeremonie und Ball; die Einladung nennt den Dresscode.",
+            "pairsWith": [
+              {
+                "label": "Riemchensandalen"
+              },
+              {
+                "label": "Clutch"
+              },
+              {
+                "label": "mittelgroße Ohrringe"
+              }
+            ]
+          },
+          {
+            "piece": "Hochzeitsgast",
+            "howTo": "Tagsüber leichter Stoff mit geschlossenen Schuhen oder flacher Sandale; abends lang mit Absatz. Weiß bleibt der Braut vorbehalten.",
+            "occasion": "Zeremonie in Kirche oder Saal, tagsüber oder abends.",
+            "pairsWith": [
+              {
+                "label": "Pumps mit mittlerem Absatz"
+              },
+              {
+                "label": "strukturierte Tasche"
+              },
+              {
+                "label": "leichte Jacke"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Die Produktbeschreibung lesen",
@@ -93,14 +147,128 @@
           "alt": "Model im Profil in einem staubblauen Kleid mit einer Schulter und Tüllrock",
           "caption": "Offizielles Foto von SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7506
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
     {
+      "heading": "Drei Kleider, auf SHEIN gelesen",
+      "paragraphs": [
+        "Niemand aus dem Team hat diese Kleider getragen. Stoff, Länge und Bewertung stammen von den Produktseiten. Prüfen Sie vor dem Kauf Preis und Lieferschätzung auf der Shop-Seite."
+      ],
+      "comparisonTable": {
+        "caption": "Drei Kleider von SHEIN, mit den Angaben der Seite jedes Produkts.",
+        "headers": [
+          "Kleid",
+          "Stoff und Futter",
+          "Anlass und Bewertung"
+        ],
+        "rows": [
+          [
+            "[Langes Firerie-Kleid, eine Schulter, Tüll (staubblau)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+            "95 % Polyester und 5 % Elasthan. Gefüttert, nicht durchsichtig, maxi.",
+            "Hochzeit, laut Shop. Bewertung 4,84, mit über 1.000 Kommentaren."
+          ],
+          [
+            "[Kurzes Via-Vilarinho-Kleid, im Tailoring-Stil, eckiger Ausschnitt (marineblau)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+            "95 % Polyester und 5 % Elasthan. Futter nur im oberen Teil. Im Titel kurz, in der Beschreibung midi.",
+            "Abend, Hochzeit und Büro, laut Shop. Bewertung 4,88, mit 80 Kommentaren."
+          ],
+          [
+            "[Langes ADYCE-Kleid, Pailletten, schulterfrei, Schlitz (marineblau)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+            "95 % Polyester und 5 % Elasthan. Gefüttert, nicht durchsichtig, lang, mit Schlitz.",
+            "Party, formell und abends, laut Shop. Bewertung 4,89, mit über 1.000 Kommentaren."
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+          "alt": "Model in einem staubblauen Kleid mit einer Schulter und Raffungen an der Taille, vor einer grauen Wand",
+          "caption": "Offizielles Foto von SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+          "alt": "Model in einem marineblauen Kleid mit kurzen Ärmeln und eckigem Ausschnitt, vor einer efeubewachsenen Mauer",
+          "caption": "Offizielles Foto von SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+          "alt": "Model in einem langen marineblauen Paillettenkleid mit Schlitz, auf einem Marmorboden",
+          "caption": "Offizielles Foto von SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Langes Firerie-Kleid",
+            "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
+            "howTo": "Die freie Schulter ist schon das Highlight: kleine Ohrringe und hochgesteckte Haare.",
+            "occasion": "Hochzeit, laut Shop.",
+            "pairsWith": [
+              {
+                "label": "Sandalette mit schmalem Absatz"
+              },
+              {
+                "label": "kleine Clutch"
+              },
+              {
+                "label": "kleine Ohrringe"
+              }
+            ]
+          },
+          {
+            "piece": "Kurzes Via-Vilarinho-Kleid",
+            "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
+            "howTo": "Der Schnitt verlangt geschlossene Schuhe und eine strukturierte Tasche; mit Blazer passt es ins Büro.",
+            "occasion": "Abend, Hochzeit und Büro, laut Shop.",
+            "pairsWith": [
+              {
+                "label": "Pumps"
+              },
+              {
+                "label": "strukturierte Tasche"
+              },
+              {
+                "label": "Blazer"
+              }
+            ]
+          },
+          {
+            "piece": "Langes ADYCE-Kleid",
+            "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
+            "howTo": "Pailletten und Schlitz ziehen schon Blicke an: dezentes Accessoire und Riemchensandalen.",
+            "occasion": "Formelle Abendfeier, laut Shop.",
+            "pairsWith": [
+              {
+                "label": "Riemchensandalen"
+              },
+              {
+                "label": "kleine Clutch"
+              },
+              {
+                "label": "leichter Schal"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "heading": "Größe: Nehmen Sie die Maße des Kleides",
       "paragraphs": [
-        "SHEIN veröffentlicht für jedes Produkt eine Größentabelle in Zentimetern und Zoll, mit Anleitung zum Messen. Es gibt keine einheitliche Tabelle von PP bis GG, also nehmen Sie die Tabelle des gewählten Kleides. Für Plus Size gilt dieselbe Methode: Vergleichen Sie die Maße des Kleides mit Ihren, nicht die Zahl auf dem Etikett."
+        "SHEIN veröffentlicht für jedes Produkt eine Größentabelle in Zentimetern und Zoll, mit Anleitung zum Messen. Es gibt keine einheitliche Größentabelle, also nehmen Sie die Tabelle des gewählten Kleides. Für Plus Size gilt dieselbe Methode: Vergleichen Sie die Maße des Kleides mit Ihren, nicht die Zahl auf dem Etikett."
       ],
       "images": [
         {
@@ -108,20 +276,61 @@
           "alt": "Model von hinten in einem marineblauen Kleid mit kurzen Ärmeln und Midilänge",
           "caption": "Offizielles Foto von SHEIN.",
           "objectFit": "contain",
-          "aspectRatio": 0.7792
+          "aspectRatio": 0.7792,
+          "href": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C"
+        },
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+          "alt": "Model von hinten in einem langen staubblauen Kleid mit einer Schulter, vor einer grauen Wand",
+          "caption": "Offizielles Foto von SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C"
         }
       ]
     },
     {
-      "heading": "Lieferung und Rückgabe",
+      "heading": "Lieferzeit: das Datum der Feier einrechnen",
       "paragraphs": [
-        "Liefer- und Rückgabefristen hängen von Verkäufer, Zielland und Bestellung ab. Die aktuellen Regeln stehen auf der Shopseite, und die Bestellübersicht zeigt das Lieferdatum vor der Zahlung. Für eine andere Größe senden Sie das Kleid zurück und bestellen neu."
+        "Bestellungen brauchen 3 bis 5 Tage zur Bearbeitung vor dem Versand. Rechnen Sie diese Zeit zur Lieferschätzung auf der Bestellseite dazu. Liegt die Summe nach dem Datum der Feier, ist dieses Kleid für dieses Datum nicht die richtige Wahl."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+          "alt": "Model blickt in den Spiegel, im langen marineblauen Paillettenkleid mit Schleppe",
+          "caption": "Offizielles Foto von SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
+      ]
+    },
+    {
+      "heading": "Steuern: Bestellübersicht prüfen",
+      "paragraphs": [
+        "Einfuhrsteuern hängen vom Land ab, in das bestellt wird, und vom Bestellwert. Die Bestellübersicht zeigt den Betrag vor der Zahlung."
+      ]
+    },
+    {
+      "heading": "Rücksendung und Umtausch",
+      "paragraphs": [
+        "Die Shop-Seite nennt die Rückgaberegeln jedes Verkäufers. Um die Größe zu ändern, schicken Sie den Artikel zurück und bestellen neu."
       ]
     },
     {
       "heading": "Vor der Zahlung",
       "paragraphs": [
-        "Steuern und Versand hängen von Bestellung und Land ab; prüfen Sie beides in der Bestellübersicht. Der Code 4CW5Y ist der Empfehlungscode von SHEIN Brasilien, kein Gutschein: Er wird in der App gesucht und gibt keinen Rabatt. Wie er funktioniert, steht im [Ratgeber zum Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben), die aktuellen Aktionen stehen auf der [SHEIN-Seite](/de/coupons/shein)."
+        "Prüfen Sie Lieferdatum und Bestellübersicht vor der Zahlung und bewahren Sie die Bestellbestätigung auf. Der Code 4CW5Y ist der Empfehlungscode von SHEIN Brasilien, kein Gutschein: Er wird in der App gesucht und gibt keinen Rabatt. Wie er funktioniert, steht im [Ratgeber zum Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben), die aktuellen Aktionen stehen auf der [SHEIN-Seite](/de/coupons/shein)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+          "alt": "Model in einem langen marineblauen Paillettenkleid in einem Flur mit Läufer",
+          "caption": "Offizielles Foto von SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506,
+          "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
+        }
       ]
     },
     {
