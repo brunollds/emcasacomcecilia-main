@@ -101673,10 +101673,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher para cada uso",
         "paragraphs": [
-          "**Por baixo do blazer ou de alfaiataria.** O Body Gola Alta Manga Longa é o único que a loja cita com blazer, como peça para usar sozinha ou com blazers e casacos. O Duplo e o Decote Reversível são indicados com alfaiataria. Para montar um look de trabalho com blazer, o [artigo sobre look de trabalho com alfaiataria feminina](/reviews/look-trabalho-alfaiataria-feminina-clea-store) é o caminho.",
-          "**Noite e ocasião.** O Body Frente Única é o que a loja indica para encontros e ocasiões especiais, com decote profundo e detalhes franzidos. O Ombro Único tem decote assimétrico e abertura nas costas, e a loja fala em visual moderno e sofisticado para diferentes ocasiões.",
-          "**Casual e dia a dia.** O Body Regata Cavado é descrito pela loja como peça para produções casuais ou sofisticadas. O Decote Reversível muda de look só pela troca do decote, na frente ou nas costas. O Duplo combina com jeans e shorts.",
-          "**Frio.** Só o Body Gola Alta aparece como o que a loja chama de upgrade do body clássico de frio, com gola levemente mais alta e manga longa. A loja não diz que ele aquece, e este texto também não diz."
+          "Gola Alta, Frente Única e Regata Cavado estão nas etiquetas abaixo, com o uso de cada um. Os outros três:",
+          "**Com alfaiataria.** O Duplo e o Decote Reversível são indicados com alfaiataria. Para montar um look de trabalho com blazer, o [artigo sobre look de trabalho com alfaiataria feminina](/reviews/look-trabalho-alfaiataria-feminina-clea-store) é o caminho.",
+          "**Ocasião.** O Ombro Único tem decote assimétrico e abertura nas costas, e a loja fala em visual moderno e sofisticado para diferentes ocasiões.",
+          "**Dia a dia.** O Decote Reversível muda de look pela troca do decote, na frente ou nas costas. O Duplo combina com jeans e shorts."
         ],
         "images": [
           {
@@ -101686,7 +101686,56 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.6669
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Body Gola Alta Manga Longa",
+              "url": "https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047",
+              "howTo": "Sozinho ou por baixo de blazer e casaco, segundo a loja.",
+              "occasion": "Trabalho e dias frios.",
+              "pairsWith": [
+                {
+                  "label": "Blazer Oversized Alfaiataria Mescla",
+                  "url": "https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307",
+                  "note": "o nosso look de trabalho monta os dois"
+                },
+                {
+                  "label": "calça de alfaiataria"
+                }
+              ]
+            },
+            {
+              "piece": "Body Frente Única Decote Profundo",
+              "url": "https://www.cleastore.com.br/produto/body-frente-unica-decote-second-skin-design-especial-4128",
+              "howTo": "Com o decote à mostra, sem nada por cima.",
+              "occasion": "Encontros e ocasiões especiais, segundo a loja.",
+              "pairsWith": [
+                {
+                  "label": "calça de alfaiataria"
+                },
+                {
+                  "label": "saia midi"
+                }
+              ]
+            },
+            {
+              "piece": "Body Regata Cavado",
+              "url": "https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185",
+              "howTo": "Como regata de cava funda, com modelagem ajustada.",
+              "occasion": "Fim de semana e calor.",
+              "pairsWith": [
+                {
+                  "label": "jeans"
+                },
+                {
+                  "label": "shorts"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Cupom CSEMCASACOMCECILIA no body: quanto fica",
@@ -102613,7 +102662,24 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "A diferença que a página sustenta é de uso. A Performance é a de esporte, com a parte de fora em poliamida. A Comfort é a de dia a dia, com modal e TENCEL. A página não diz qual absorve mais suor. Quem quer proteção extra atrás deve olhar a versão Anti Suor de cada modelo.",
           "A marca descreve a Performance como \"ultra resistente\" e que \"absorve e evapora rápido o suor\". Esses trechos são da marca, não de um teste nosso."
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Cueca Performance",
+              "url": "https://creators.insiderstore.com.br/nD3bAuj",
+              "howTo": "Por baixo de roupa de treino e de calça justa.",
+              "occasion": "Treino, corrida, musculação e ciclismo, segundo a marca."
+            },
+            {
+              "piece": "Cueca Comfort",
+              "url": "https://creators.insiderstore.com.br/ptFyZqS",
+              "howTo": "Por baixo de jeans ou de calça de alfaiataria, no dia a dia.",
+              "occasion": "Dia a dia e trabalho."
+            }
+          ]
+        }
       },
       {
         "heading": "Simples ou Anti Suor: o que muda e o que o preço não mostra",
@@ -102649,7 +102715,24 @@ export const reviewsData: unknown[] = [
             "caption": "Slip, hoje só na cor preta. Imagem: Insider.",
             "objectFit": "square"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Cueca Seamless Touch",
+              "url": "https://creators.insiderstore.com.br/N9gT2aU",
+              "howTo": "Por baixo de calça justa ou de tecido fino, onde a costura poderia marcar; a marca a descreve como sem costura.",
+              "occasion": "Dia a dia."
+            },
+            {
+              "piece": "Cueca Slip",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-slip?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Para quem prefere slip a boxer.",
+              "occasion": "Dia a dia, por baixo de bermuda e short curto."
+            }
+          ]
+        }
       },
       {
         "heading": "Preço por unidade: 1, 3 e 5 peças",
@@ -102880,7 +102963,59 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O bege existe nas três e é a única cor da Leve. O Moderado também sai em preta e branca; o Block, em branca. A Leve tem só gola V. A gola U existe no Moderado e no Block.",
           "Sob a camisa social, a loja diz que as peças não marcam por baixo da roupa e que a modelagem é discreta sob camisas sociais. São frases da marca, sem teste independente."
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Undershirt Antissuor Moderado",
+              "url": "https://creators.insiderstore.com.br/CZ6mgXp",
+              "howTo": "Por baixo da camisa social, com gola V ou U; a camada dupla fica nas axilas, segundo a marca.",
+              "occasion": "Dia de camisa social.",
+              "pairsWith": [
+                {
+                  "label": "Camisa Social Alfaiataria Tech FutureForm",
+                  "url": "https://creators.insiderstore.com.br/KRptrd4",
+                  "note": "a camisa social da Insider"
+                },
+                {
+                  "label": "polo de malha clara"
+                },
+                {
+                  "label": "camiseta clara de gola V"
+                }
+              ],
+              "variants": [
+                {
+                  "color": "Bege",
+                  "swatch": "#d9c7aa",
+                  "pairsWith": [
+                    "camisa social branca ou azul-clara",
+                    "polo clara"
+                  ]
+                },
+                {
+                  "color": "Preta",
+                  "swatch": "#1b1b1d",
+                  "pairsWith": [
+                    "camisa social escura ou azul-marinho",
+                    "camiseta preta"
+                  ],
+                  "avoid": "camisa social branca ou clara"
+                },
+                {
+                  "color": "Branca",
+                  "swatch": "#ffffff",
+                  "pairsWith": [
+                    "camisa social branca",
+                    "polo branca"
+                  ],
+                  "avoid": "camisa de cor escura"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Preço, kit e cupom",
@@ -125172,7 +125307,34 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Nas listagens de camisetas, essenciais, mais vendidos e roupas da loja, lidas em 23/10/2026, todas as camisetas são oversized. A loja chama a oversized de camiseta básica; não há corte regular nem baby look no catálogo lido. A palavra \"oversized\" aparece na descrição de todos os modelos, inclusive no kit Essenciais, e a loja fala em caimento amplo.",
           "Todos vêm em P, M e G. Como o corte é amplo, a escolha do tamanho pede medida. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir busto, cintura e quadril e comparar com o provador da página. Para a modelagem justa dos bodies, que é outra conversa, há o [guia de escolha do body Second Skin](/reviews/body-clea-store-second-skin-qual-escolher)."
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "T-Shirt Oversized Algodão",
+              "url": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
+              "howTo": "Solta, com jeans, short ou saia, segundo a loja.",
+              "occasion": "Dia a dia; com alfaiataria, vira produção mais arrumada.",
+              "pairsWith": [
+                {
+                  "label": "Shorts Alfaiataria Rosa Linho",
+                  "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402",
+                  "note": "a página do shorts diz que ele combina com camisetas básicas"
+                },
+                {
+                  "label": "jeans"
+                },
+                {
+                  "label": "saia"
+                },
+                {
+                  "label": "calça de alfaiataria"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Os 6 modelos de camiseta lado a lado",
@@ -127047,7 +127209,56 @@ export const reviewsData: unknown[] = [
           "O oversized de mescla (4307) é de 70% poliéster e 30% viscose, com forro de 97% poliéster e 3% elastano. Custa R$ 524,30, de R$ 749,00, mas só tem P.",
           "Os dois blazers esgotados, o risca de giz (4282) e o bordô (4305), não entram nas montagens: no dia da leitura, nenhum dos dois tinha tamanho disponível.",
           "Se a pergunta é qual tecido usar no calor, a ficha só diz a composição. Veja o capítulo Calor: o que a ficha permite dizer."
-        ]
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Blazer Alfaiataria Rosa Linho",
+              "url": "https://www.cleastore.com.br/produto/blazer-alfaiataria-rosa-linho-4404",
+              "howTo": "Sozinho sobre looks do dia a dia ou em conjunto com o shorts, segundo a loja.",
+              "occasion": "Dia a dia e calor.",
+              "pairsWith": [
+                {
+                  "label": "Shorts Alfaiataria Rosa Linho",
+                  "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402",
+                  "note": "as páginas do blazer e do shorts indicam o conjunto"
+                }
+              ]
+            },
+            {
+              "piece": "Blazer Curto Alfaiataria Rosa",
+              "url": "https://www.cleastore.com.br/produto/blazer-curto-alfaiataria-rosa-4348",
+              "howTo": "Cropped, com botões na frente, com short ou calça da mesma cor.",
+              "occasion": "Diversas ocasiões, segundo a loja.",
+              "pairsWith": [
+                {
+                  "label": "Shorts Alfaiataria Rosa Linho",
+                  "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402"
+                },
+                {
+                  "label": "calça rosa"
+                }
+              ]
+            },
+            {
+              "piece": "Blazer Oversized Alfaiataria Mescla",
+              "url": "https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307",
+              "howTo": "Por cima de uma t-shirt oversized, em look casual.",
+              "occasion": "Dia a dia em diferentes ocasiões, segundo a loja.",
+              "pairsWith": [
+                {
+                  "label": "T-Shirt Oversized Algodão",
+                  "url": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
+                  "note": "a página da camiseta diz que ela combina com alfaiataria"
+                },
+                {
+                  "label": "jeans"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Colete: linho bege ou vermelho",
@@ -127063,7 +127274,38 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.6667
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Colete Frente Única Linho Bege",
+              "url": "https://www.cleastore.com.br/produto/colete-frente-unica-linho-bege-4221",
+              "howTo": "Em conjunto com a calça de linho caqui, no mesmo tom neutro.",
+              "occasion": "Looks sofisticados e leves, segundo a loja.",
+              "pairsWith": [
+                {
+                  "label": "Calça Alfaiataria Linho Caqui",
+                  "url": "https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-caqui-4416",
+                  "note": "a página da calça fala em conjunto com colete"
+                }
+              ]
+            },
+            {
+              "piece": "Colete Alfaiataria Trespasse Vermelho",
+              "url": "https://www.cleastore.com.br/produto/colete-alfaiataria-trespasse-vermelho-4393",
+              "howTo": "Em conjunto com a calça de linho vermelha, na mesma cor.",
+              "occasion": "Dia a dia e ocasiões especiais, segundo a loja.",
+              "pairsWith": [
+                {
+                  "label": "Calça Alfaiataria Linho Vermelha",
+                  "url": "https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-em-linho-vermelha-4414",
+                  "note": "a página da calça fala em conjunto com colete"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Montar um conjunto (monte o seu)",
@@ -131621,6 +131863,25 @@ export const reviewsData: unknown[] = [
           "caption": "As etapas que a Toda Up publica na página do produto, em 26/10/2026. Quadro nosso.",
           "objectFit": "contain",
           "aspectRatio": 1.8779
+        },
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Fita Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Por baixo do tomara que caia ou do decote, colada na pele limpa e seca, da base do seio para cima.",
+              "occasion": "Roupa sem alça ou de decote, em que o sutiã apareceria.",
+              "pairsWith": [
+                {
+                  "label": "vestido tomara que caia"
+                },
+                {
+                  "label": "blusa de decote"
+                }
+              ]
+            }
+          ]
         }
       },
       {

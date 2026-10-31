@@ -33,10 +33,6 @@
     {
       "heading": "Qual nível escolher",
       "paragraphs": [
-        "A Insider indica as três undershirts por nível de suor: Leve, Moderado (Anti Suor) e Block. Os preços e a ficha desta página são da loja, lidos em 20/10/2026.",
-        "Se o Block continuar esgotado quando você ler, a indicação para transpiração excessiva continua sendo a dele."
-      ],
-      "paragraphs": [
         "A tabela resume o que a loja publica para cada peça. Os estoques são do dia da leitura."
       ],
       "comparisonTable": {
@@ -98,7 +94,59 @@
       "paragraphs": [
         "O bege existe nas três e é a única cor da Leve. O Moderado também sai em preta e branca; o Block, em branca. A Leve tem só gola V. A gola U existe no Moderado e no Block.",
         "Sob a camisa social, a loja diz que as peças não marcam por baixo da roupa e que a modelagem é discreta sob camisas sociais. São frases da marca, sem teste independente."
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Undershirt Antissuor Moderado",
+            "url": "https://creators.insiderstore.com.br/CZ6mgXp",
+            "howTo": "Por baixo da camisa social, com gola V ou U; a camada dupla fica nas axilas, segundo a marca.",
+            "occasion": "Dia de camisa social.",
+            "pairsWith": [
+              {
+                "label": "Camisa Social Alfaiataria Tech FutureForm",
+                "url": "https://creators.insiderstore.com.br/KRptrd4",
+                "note": "a camisa social da Insider"
+              },
+              {
+                "label": "polo de malha clara"
+              },
+              {
+                "label": "camiseta clara de gola V"
+              }
+            ],
+            "variants": [
+              {
+                "color": "Bege",
+                "swatch": "#d9c7aa",
+                "pairsWith": [
+                  "camisa social branca ou azul-clara",
+                  "polo clara"
+                ]
+              },
+              {
+                "color": "Preta",
+                "swatch": "#1b1b1d",
+                "pairsWith": [
+                  "camisa social escura ou azul-marinho",
+                  "camiseta preta"
+                ],
+                "avoid": "camisa social branca ou clara"
+              },
+              {
+                "color": "Branca",
+                "swatch": "#ffffff",
+                "pairsWith": [
+                  "camisa social branca",
+                  "polo branca"
+                ],
+                "avoid": "camisa de cor escura"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Preço, kit e cupom",

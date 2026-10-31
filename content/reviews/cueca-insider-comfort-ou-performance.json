@@ -63,7 +63,24 @@
       "postParagraphs": [
         "A diferença que a página sustenta é de uso. A Performance é a de esporte, com a parte de fora em poliamida. A Comfort é a de dia a dia, com modal e TENCEL. A página não diz qual absorve mais suor. Quem quer proteção extra atrás deve olhar a versão Anti Suor de cada modelo.",
         "A marca descreve a Performance como \"ultra resistente\" e que \"absorve e evapora rápido o suor\". Esses trechos são da marca, não de um teste nosso."
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Cueca Performance",
+            "url": "https://creators.insiderstore.com.br/nD3bAuj",
+            "howTo": "Por baixo de roupa de treino e de calça justa.",
+            "occasion": "Treino, corrida, musculação e ciclismo, segundo a marca."
+          },
+          {
+            "piece": "Cueca Comfort",
+            "url": "https://creators.insiderstore.com.br/ptFyZqS",
+            "howTo": "Por baixo de jeans ou de calça de alfaiataria, no dia a dia.",
+            "occasion": "Dia a dia e trabalho."
+          }
+        ]
+      }
     },
     {
       "heading": "Simples ou Anti Suor: o que muda e o que o preço não mostra",
@@ -99,7 +116,24 @@
           "caption": "Slip, hoje só na cor preta. Imagem: Insider.",
           "objectFit": "square"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Cueca Seamless Touch",
+            "url": "https://creators.insiderstore.com.br/N9gT2aU",
+            "howTo": "Por baixo de calça justa ou de tecido fino, onde a costura poderia marcar; a marca a descreve como sem costura.",
+            "occasion": "Dia a dia."
+          },
+          {
+            "piece": "Cueca Slip",
+            "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-slip?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "howTo": "Para quem prefere slip a boxer.",
+            "occasion": "Dia a dia, por baixo de bermuda e short curto."
+          }
+        ]
+      }
     },
     {
       "heading": "Preço por unidade: 1, 3 e 5 peças",

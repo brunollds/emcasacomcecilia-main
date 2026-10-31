@@ -53,15 +53,78 @@
           "Situação"
         ],
         "rows": [
-          ["Blazer Alfaiataria Rosa Linho (4404)", "100% linho", "não informa", "R$ 899,00", "M e G", "sem P"],
-          ["Blazer Curto Rosa (4348)", "95% poliéster e 5% elastano, cropped", "não informa", "R$ 428,00", "P e M", "disponível"],
-          ["Blazer Oversized Mescla (4307)", "70% poliéster e 30% viscose", "97% poliéster e 3% elastano", "R$ 524,30 (de R$ 749,00)", "P", "só P"],
-          ["Colete Frente Única Linho Bege (4221)", "100% linho", "não informa", "R$ 299,40 (de R$ 499,00)", "PP e P", "grade quebrada"],
-          ["Colete Alfaiataria Trespasse Vermelho (4393)", "100% linho", "não informa", "R$ 799,00", "P e G", "grade quebrada"],
-          ["Calça Caqui Linho (4416)", "70/30 linho e algodão, wide leg", "não informa", "R$ 559,00", "36 e 38", "pré-venda"],
-          ["Calça Linho Vermelha (4414)", "70/30 linho e algodão, wide leg", "não informa", "R$ 559,00", "36 e 38", "pré-venda"],
-          ["Bermuda Vermelha (4395)", "100% linho", "não informa", "R$ 599,00", "40", "só 40"],
-          ["Shorts Rosa Linho (4402)", "100% linho", "não informa", "R$ 579,00", "36, 38 e 40", "disponível"]
+          [
+            "Blazer Alfaiataria Rosa Linho (4404)",
+            "100% linho",
+            "não informa",
+            "R$ 899,00",
+            "M e G",
+            "sem P"
+          ],
+          [
+            "Blazer Curto Rosa (4348)",
+            "95% poliéster e 5% elastano, cropped",
+            "não informa",
+            "R$ 428,00",
+            "P e M",
+            "disponível"
+          ],
+          [
+            "Blazer Oversized Mescla (4307)",
+            "70% poliéster e 30% viscose",
+            "97% poliéster e 3% elastano",
+            "R$ 524,30 (de R$ 749,00)",
+            "P",
+            "só P"
+          ],
+          [
+            "Colete Frente Única Linho Bege (4221)",
+            "100% linho",
+            "não informa",
+            "R$ 299,40 (de R$ 499,00)",
+            "PP e P",
+            "grade quebrada"
+          ],
+          [
+            "Colete Alfaiataria Trespasse Vermelho (4393)",
+            "100% linho",
+            "não informa",
+            "R$ 799,00",
+            "P e G",
+            "grade quebrada"
+          ],
+          [
+            "Calça Caqui Linho (4416)",
+            "70/30 linho e algodão, wide leg",
+            "não informa",
+            "R$ 559,00",
+            "36 e 38",
+            "pré-venda"
+          ],
+          [
+            "Calça Linho Vermelha (4414)",
+            "70/30 linho e algodão, wide leg",
+            "não informa",
+            "R$ 559,00",
+            "36 e 38",
+            "pré-venda"
+          ],
+          [
+            "Bermuda Vermelha (4395)",
+            "100% linho",
+            "não informa",
+            "R$ 599,00",
+            "40",
+            "só 40"
+          ],
+          [
+            "Shorts Rosa Linho (4402)",
+            "100% linho",
+            "não informa",
+            "R$ 579,00",
+            "36, 38 e 40",
+            "disponível"
+          ]
         ]
       },
       "postParagraphs": [
@@ -86,7 +149,56 @@
         "O oversized de mescla (4307) é de 70% poliéster e 30% viscose, com forro de 97% poliéster e 3% elastano. Custa R$ 524,30, de R$ 749,00, mas só tem P.",
         "Os dois blazers esgotados, o risca de giz (4282) e o bordô (4305), não entram nas montagens: no dia da leitura, nenhum dos dois tinha tamanho disponível.",
         "Se a pergunta é qual tecido usar no calor, a ficha só diz a composição. Veja o capítulo Calor: o que a ficha permite dizer."
-      ]
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Blazer Alfaiataria Rosa Linho",
+            "url": "https://www.cleastore.com.br/produto/blazer-alfaiataria-rosa-linho-4404",
+            "howTo": "Sozinho sobre looks do dia a dia ou em conjunto com o shorts, segundo a loja.",
+            "occasion": "Dia a dia e calor.",
+            "pairsWith": [
+              {
+                "label": "Shorts Alfaiataria Rosa Linho",
+                "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402",
+                "note": "as páginas do blazer e do shorts indicam o conjunto"
+              }
+            ]
+          },
+          {
+            "piece": "Blazer Curto Alfaiataria Rosa",
+            "url": "https://www.cleastore.com.br/produto/blazer-curto-alfaiataria-rosa-4348",
+            "howTo": "Cropped, com botões na frente, com short ou calça da mesma cor.",
+            "occasion": "Diversas ocasiões, segundo a loja.",
+            "pairsWith": [
+              {
+                "label": "Shorts Alfaiataria Rosa Linho",
+                "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402"
+              },
+              {
+                "label": "calça rosa"
+              }
+            ]
+          },
+          {
+            "piece": "Blazer Oversized Alfaiataria Mescla",
+            "url": "https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307",
+            "howTo": "Por cima de uma t-shirt oversized, em look casual.",
+            "occasion": "Dia a dia em diferentes ocasiões, segundo a loja.",
+            "pairsWith": [
+              {
+                "label": "T-Shirt Oversized Algodão",
+                "url": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
+                "note": "a página da camiseta diz que ela combina com alfaiataria"
+              },
+              {
+                "label": "jeans"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Colete: linho bege ou vermelho",
@@ -102,7 +214,38 @@
           "objectFit": "contain",
           "aspectRatio": 0.6667
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Colete Frente Única Linho Bege",
+            "url": "https://www.cleastore.com.br/produto/colete-frente-unica-linho-bege-4221",
+            "howTo": "Em conjunto com a calça de linho caqui, no mesmo tom neutro.",
+            "occasion": "Looks sofisticados e leves, segundo a loja.",
+            "pairsWith": [
+              {
+                "label": "Calça Alfaiataria Linho Caqui",
+                "url": "https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-caqui-4416",
+                "note": "a página da calça fala em conjunto com colete"
+              }
+            ]
+          },
+          {
+            "piece": "Colete Alfaiataria Trespasse Vermelho",
+            "url": "https://www.cleastore.com.br/produto/colete-alfaiataria-trespasse-vermelho-4393",
+            "howTo": "Em conjunto com a calça de linho vermelha, na mesma cor.",
+            "occasion": "Dia a dia e ocasiões especiais, segundo a loja.",
+            "pairsWith": [
+              {
+                "label": "Calça Alfaiataria Linho Vermelha",
+                "url": "https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-em-linho-vermelha-4414",
+                "note": "a página da calça fala em conjunto com colete"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Montar um conjunto (monte o seu)",
@@ -148,18 +291,78 @@
           "Situação"
         ],
         "rows": [
-          ["Blazer Risca de Giz (4282)", "R$ 538,30", "nenhuma", "esgotado"],
-          ["Blazer Oversized Bordô (4305)", "R$ 524,30", "nenhuma", "esgotado"],
-          ["Blazer Alfaiataria Rosa Linho (4404)", "R$ 899,00", "M e G", "sem P"],
-          ["Blazer Curto Rosa (4348)", "R$ 428,00", "P e M", "disponível"],
-          ["Blazer Oversized Mescla (4307)", "R$ 524,30", "P", "só P"],
-          ["Colete Frente Única Linho Bege (4221)", "R$ 299,40", "PP e P", "grade quebrada"],
-          ["Colete Alfaiataria Trespasse Vermelho (4393)", "R$ 799,00", "P e G", "grade quebrada"],
-          ["Bermuda Vermelha (4395)", "R$ 599,00", "40", "grade quebrada"],
-          ["Shorts Rosa Linho (4402)", "R$ 579,00", "36, 38 e 40", "disponível"],
-          ["Calça Caqui Linho (4416)", "R$ 559,00", "36 e 38", "pré-venda"],
-          ["Calça Linho Vermelha (4414)", "R$ 559,00", "36 e 38", "pré-venda"],
-          ["Calça Wide Leg Areia (4382)", "R$ 756,00", "36, 38, 40 e 42", "disponível"]
+          [
+            "Blazer Risca de Giz (4282)",
+            "R$ 538,30",
+            "nenhuma",
+            "esgotado"
+          ],
+          [
+            "Blazer Oversized Bordô (4305)",
+            "R$ 524,30",
+            "nenhuma",
+            "esgotado"
+          ],
+          [
+            "Blazer Alfaiataria Rosa Linho (4404)",
+            "R$ 899,00",
+            "M e G",
+            "sem P"
+          ],
+          [
+            "Blazer Curto Rosa (4348)",
+            "R$ 428,00",
+            "P e M",
+            "disponível"
+          ],
+          [
+            "Blazer Oversized Mescla (4307)",
+            "R$ 524,30",
+            "P",
+            "só P"
+          ],
+          [
+            "Colete Frente Única Linho Bege (4221)",
+            "R$ 299,40",
+            "PP e P",
+            "grade quebrada"
+          ],
+          [
+            "Colete Alfaiataria Trespasse Vermelho (4393)",
+            "R$ 799,00",
+            "P e G",
+            "grade quebrada"
+          ],
+          [
+            "Bermuda Vermelha (4395)",
+            "R$ 599,00",
+            "40",
+            "grade quebrada"
+          ],
+          [
+            "Shorts Rosa Linho (4402)",
+            "R$ 579,00",
+            "36, 38 e 40",
+            "disponível"
+          ],
+          [
+            "Calça Caqui Linho (4416)",
+            "R$ 559,00",
+            "36 e 38",
+            "pré-venda"
+          ],
+          [
+            "Calça Linho Vermelha (4414)",
+            "R$ 559,00",
+            "36 e 38",
+            "pré-venda"
+          ],
+          [
+            "Calça Wide Leg Areia (4382)",
+            "R$ 756,00",
+            "36, 38, 40 e 42",
+            "disponível"
+          ]
         ]
       },
       "postParagraphs": [
