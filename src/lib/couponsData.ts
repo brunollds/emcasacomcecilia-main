@@ -946,19 +946,19 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'compras online na Insider, exceto lançamentos',
     longDescription:
-      'O EMCASACOMCECILIA dá 15% OFF na loja online da Insider, sem valor mínimo e também no Outlet e nos kits em promoção (testado em 26/10/2026); não vale em lançamentos nem na loja física.',
+      'O EMCASACOMCECILIA dá 15% OFF na loja online da Insider, sem valor mínimo, também sobre os preços de Black Friday, no Outlet e nos kits em promoção (testado em 31/10/2026); não vale em lançamentos nem na loja física.',
     metaTitle: 'Cupom Insider: 15% OFF com EMCASACOMCECILIA (nov/2026)',
     metaDescription:
-      'Cupom Insider testado em 26/10/2026: EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, inclusive no Outlet e nos kits. Não vale em lançamentos.',
+      'Cupom Insider testado em 31/10/2026: EMCASACOMCECILIA dá 15% OFF que soma com os preços de Black Friday e do Outlet, sem mínimo. Não vale em lançamentos.',
     eligibleCategories: 'Produtos da loja online da Insider, exceto lançamentos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
-      'Soma com as promoções vigentes da loja online, como o Outlet e os kits com preço promocional (testes de 05/10 e 26/10/2026); não acumula com outro cupom: a loja aceita um cupom por pedido',
-    lastVerified: '2026-10-26',
+      'Soma com as promoções vigentes da loja online, inclusive os preços de Black Friday, o Outlet e os kits com preço promocional (testes de 05/10, 26/10 e 31/10/2026); não acumula com outro cupom: a loja aceita um cupom por pedido',
+    lastVerified: '2026-10-31',
     testNote:
-      'Em 26/10/2026, uma Cueca Boxer Performance em promoção, de R$ 95,00 por R$ 79,00, saiu por R$ 67,15 com o EMCASACOMCECILIA: os 15% valeram sobre o preço promocional. Nos testes de 5 e 7 de outubro, o cupom também valeu em peças do Outlet, em kits com preço promocional e numa meia sozinha no carrinho, sem valor mínimo.',
+      'Em 31/10/2026, no esquenta de Black Friday da Insider, o EMCASACOMCECILIA deu os 15% sobre o preço já reduzido: a Tech T-Shirt, de R$ 169,00 por R$ 129,00, saiu por R$ 109,65, e uma Calça Pantalona InLounge do Outlet, de R$ 299,00 por R$ 179,00, saiu por R$ 152,15. O checkout fechou em R$ 261,80 com o cupom aplicado. Em 26/10, o cupom também valeu numa cueca em promoção e, nos testes de outubro, numa meia sozinha no carrinho, sem valor mínimo.',
     codeInstructions: [
       'Copie o código EMCASACOMCECILIA no card acima.',
       'Acesse a loja online da Insider pelo botão indicado: o link já leva o cupom para o carrinho.',
@@ -982,7 +982,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No último teste de checkout, em 26/10/2026, o EMCASACOMCECILIA aplicou os 15% em cada item elegível. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No último teste de checkout, em 31/10/2026, o EMCASACOMCECILIA aplicou os 15% em cada item elegível, sobre os preços de Black Friday. A data do teste mais recente aparece no topo desta página.',
       },
       {
         question: 'O cupom vale na primeira compra na Insider?',
@@ -997,7 +997,12 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom acumula com produtos em promoção?',
         answer:
-          'Sim. Em 26/10/2026, o EMCASACOMCECILIA deu os 15% numa cueca que já estava em promoção; em 05/10/2026, valeu também em peças do Outlet e em kits com preço promocional. Lançamentos podem ficar de fora.',
+          'Sim. Em 31/10/2026, o EMCASACOMCECILIA deu os 15% numa calça do Outlet que já estava 40% mais barata, de R$ 179,00 por R$ 152,15; em 26/10, numa cueca em promoção, e em 05/10, em kits com preço promocional. Lançamentos podem ficar de fora.',
+      },
+      {
+        question: 'O cupom vale na Black Friday da Insider?',
+        answer:
+          'Sim. Em 31/10/2026, no esquenta de Black Friday, os 15% entraram sobre os preços já reduzidos: a Tech T-Shirt de R$ 129,00 saiu por R$ 109,65. Como a loja aceita um cupom por pedido, compare os 15% com o cupom da campanha da própria Insider antes de pagar.',
       },
       {
         question: 'O cupom vale nas lojas físicas da Insider?',
