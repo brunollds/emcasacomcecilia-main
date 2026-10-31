@@ -256,7 +256,8 @@ Bagaggio: sobras da rodada de 28/10. Skelt: a pauta 5 da rodada de 28/10 e uma r
 | G4 | Mala de policarbonato ou ABS | **Publicado em 29/10/2026** (#355, release `505eb69a`): [[mala-policarbonato-ou-abs-bagaggio]] |
 | G5 | Bagaggio é boa? (produto) | **Publicado em 29/10/2026** (#355, release `505eb69a`): [[bagaggio-e-boa-malas-mochilas]] |
 | G6 | Conjunto de malas compensa? | **Publicado em 29/10/2026** (#355, release `505eb69a`): [[conjunto-de-malas-bagaggio-compensa]] |
-| G7 | Travelcross vale a pena? | Estoque (sinal fraco) |
+| G7 | Travelcross vale a pena? | Estoque (sinal fraco; a linha toda esgotada em 31/10) |
+| G8 | Mochila de viagem Bagaggio: qual vai como bagagem de mão | **Pauta aprovada em 31/10/2026:** [[mochila-de-viagem-bagaggio-qual-escolher]] |
 | S5 | Hidratante corporal Skelt | **Publicado em 29/10/2026** (#355, release `505eb69a`): [[hidratante-corporal-skelt-qual-fragrancia]] |
 | S6 | Body Splash Solar Muse | **Publicado em 29/10/2026** (#355, release `505eb69a`): [[body-splash-skelt-solar-muse]] |
 | S7 | Body Splash Milos Breeze | **Publicado em 29/10/2026** (#355, release `505eb69a`): [[body-splash-skelt-milos-breeze]] |
@@ -345,8 +346,8 @@ pela ficha, pela política e pelo preço.
 | T6 | Protetor de silicone ultrafino (adesivo de seio): como usar e quanto dura | **Pauta aprovada em 27/10/2026:** [[protetor-de-silicone-mamilo-como-usar]] |
 | T7 | Fita Up para tomara que caia e decote: como usar (sinal "fita up funciona") | **Pauta aprovada em 26/10/2026:** [[fita-up-como-usar]] |
 | T8 | Sutiã Comfort Up, Line ou Slim: qual escolher | **Pauta aprovada em 30/10/2026:** [[sutia-toda-up-qual-escolher]] |
-| T9 | SkinUp ou Cotton Up: segunda pele ou algodão | Estoque |
-| T10 | Kits da Toda Up (top + calcinha): quando compensam | Estoque (os 5 kits SkinUp e Comfort estavam esgotados em 26/10) |
+| T9 | SkinUp ou Cotton Up: segunda pele ou algodão | **Pauta aprovada em 31/10/2026:** [[skinup-ou-cotton-up-toda-up]] |
+| T10 | Kits da Toda Up (top + calcinha): quando compensam | **Pauta aprovada em 31/10/2026:** [[kit-toda-up-quando-compensa]] |
 
 Checar também "toda up loja fisica" no autocompletar antes da próxima rodada.
 
