@@ -42307,6 +42307,650 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29662,
+      "sha256": "557af4533ab9e96cfd180099f6e96e143be34ad01551fc4ca8ea9f6506658855",
+      "width": 785,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 184,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168721,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/557af4533ab9e96cfd180099f6e96e143be34ad01551fc4ca8ea9f6506658855/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/557af4533ab9e96cfd180099f6e96e143be34ad01551fc4ca8ea9f6506658855/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.911Z",
+      "verification_etag_or_digest": "557af4533ab9e96cfd180099f6e96e143be34ad01551fc4ca8ea9f6506658855",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-tabela.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-tabela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48090,
+      "sha256": "4057ff571077c9cdb44d9a361b1b4e9e6f147b19be5cf4b0f91caf65519cfab8",
+      "width": 623,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-bs-300-tabela.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-bs-300-tabela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 191,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-tabela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168728,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-tabela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4057ff571077c9cdb44d9a361b1b4e9e6f147b19be5cf4b0f91caf65519cfab8/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-tabela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4057ff571077c9cdb44d9a361b1b4e9e6f147b19be5cf4b0f91caf65519cfab8/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-tabela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "4057ff571077c9cdb44d9a361b1b4e9e6f147b19be5cf4b0f91caf65519cfab8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-frente.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52006,
+      "sha256": "be1dc51a65447b556fce9934314eeafea98f14bfae95a810d18cf5af17a09e1d",
+      "width": 773,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-frente.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 198,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168735,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/be1dc51a65447b556fce9934314eeafea98f14bfae95a810d18cf5af17a09e1d/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/be1dc51a65447b556fce9934314eeafea98f14bfae95a810d18cf5af17a09e1d/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "be1dc51a65447b556fce9934314eeafea98f14bfae95a810d18cf5af17a09e1d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-tabela.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-tabela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49490,
+      "sha256": "4f71890b215d72f3f9901019b38c578499e8f7c845be263afa3452cccd17da1f",
+      "width": 619,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-tabela.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-tabela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 131,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-tabela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168668,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-tabela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4f71890b215d72f3f9901019b38c578499e8f7c845be263afa3452cccd17da1f/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-tabela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4f71890b215d72f3f9901019b38c578499e8f7c845be263afa3452cccd17da1f/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-tabela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "4f71890b215d72f3f9901019b38c578499e8f7c845be263afa3452cccd17da1f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 81946,
+      "sha256": "90b39d50fd8b6f121fed046e1c5d6875a57645e32d9e4b9ea8f81543a526a195",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-capa.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168560,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/90b39d50fd8b6f121fed046e1c5d6875a57645e32d9e4b9ea8f81543a526a195/glutamina-qual-escolher-black-skull-max-probiotica-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/90b39d50fd8b6f121fed046e1c5d6875a57645e32d9e4b9ea8f81543a526a195/glutamina-qual-escolher-black-skull-max-probiotica-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "90b39d50fd8b6f121fed046e1c5d6875a57645e32d9e4b9ea8f81543a526a195",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-frente.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33122,
+      "sha256": "003ab2ffbc50b990eb016a126bd1ebd7cf6929e66aa8e50f29ff69f16bf7a574",
+      "width": 796,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-max-150-frente.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-max-150-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 219,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168756,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/003ab2ffbc50b990eb016a126bd1ebd7cf6929e66aa8e50f29ff69f16bf7a574/glutamina-qual-escolher-black-skull-max-probiotica-max-150-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/003ab2ffbc50b990eb016a126bd1ebd7cf6929e66aa8e50f29ff69f16bf7a574/glutamina-qual-escolher-black-skull-max-probiotica-max-150-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "003ab2ffbc50b990eb016a126bd1ebd7cf6929e66aa8e50f29ff69f16bf7a574",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-tabela.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-tabela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73332,
+      "sha256": "7b6a811f59f14cd89c1fd3e83eb04a968c343847b90c976cda827067fddf65be",
+      "width": 900,
+      "height": 766,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-max-150-tabela.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-max-150-tabela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 226,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-tabela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168763,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-tabela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7b6a811f59f14cd89c1fd3e83eb04a968c343847b90c976cda827067fddf65be/glutamina-qual-escolher-black-skull-max-probiotica-max-150-tabela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7b6a811f59f14cd89c1fd3e83eb04a968c343847b90c976cda827067fddf65be/glutamina-qual-escolher-black-skull-max-probiotica-max-150-tabela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "7b6a811f59f14cd89c1fd3e83eb04a968c343847b90c976cda827067fddf65be",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31628,
+      "sha256": "ddc00fe49d6f7fda171434ec89fd33193aaf0651eb3fbe94222ae72fe64d9eae",
+      "width": 795,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 205,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168742,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ddc00fe49d6f7fda171434ec89fd33193aaf0651eb3fbe94222ae72fe64d9eae/glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ddc00fe49d6f7fda171434ec89fd33193aaf0651eb3fbe94222ae72fe64d9eae/glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "ddc00fe49d6f7fda171434ec89fd33193aaf0651eb3fbe94222ae72fe64d9eae",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-tabela.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-tabela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72454,
+      "sha256": "25120104ce89da499c61e1a72f15f9f2b6b97a2f1598c91a09e9aece65afa81a",
+      "width": 900,
+      "height": 766,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-max-300-tabela.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-max-300-tabela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 145,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-tabela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168682,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-tabela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/25120104ce89da499c61e1a72f15f9f2b6b97a2f1598c91a09e9aece65afa81a/glutamina-qual-escolher-black-skull-max-probiotica-max-300-tabela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/25120104ce89da499c61e1a72f15f9f2b6b97a2f1598c91a09e9aece65afa81a/glutamina-qual-escolher-black-skull-max-probiotica-max-300-tabela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "25120104ce89da499c61e1a72f15f9f2b6b97a2f1598c91a09e9aece65afa81a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-verso.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-verso.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56948,
+      "sha256": "00ea842060b5ac6f7eb2dab9ff91f8631d3eceac9a2505670431d0e03d6b7e85",
+      "width": 793,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-max-300-verso.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-max-300-verso.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 212,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-verso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168749,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-verso.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/00ea842060b5ac6f7eb2dab9ff91f8631d3eceac9a2505670431d0e03d6b7e85/glutamina-qual-escolher-black-skull-max-probiotica-max-300-verso.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/00ea842060b5ac6f7eb2dab9ff91f8631d3eceac9a2505670431d0e03d6b7e85/glutamina-qual-escolher-black-skull-max-probiotica-max-300-verso.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "00ea842060b5ac6f7eb2dab9ff91f8631d3eceac9a2505670431d0e03d6b7e85",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-frente.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34890,
+      "sha256": "f4085ce8a41c1bf8fcc234e08d385c0806baeeab6440a7619cdb892de3601402",
+      "width": 794,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-prob-120-frente.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-prob-120-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 240,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168777,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f4085ce8a41c1bf8fcc234e08d385c0806baeeab6440a7619cdb892de3601402/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f4085ce8a41c1bf8fcc234e08d385c0806baeeab6440a7619cdb892de3601402/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "f4085ce8a41c1bf8fcc234e08d385c0806baeeab6440a7619cdb892de3601402",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-tabela.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-tabela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45764,
+      "sha256": "f12d2048e8db187b9a2331eb99532088d7479ed7e9b0cc3983b091090bf0c385",
+      "width": 900,
+      "height": 486,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-prob-120-tabela.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-prob-120-tabela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 247,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-tabela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168784,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-tabela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f12d2048e8db187b9a2331eb99532088d7479ed7e9b0cc3983b091090bf0c385/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-tabela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f12d2048e8db187b9a2331eb99532088d7479ed7e9b0cc3983b091090bf0c385/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-tabela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "f12d2048e8db187b9a2331eb99532088d7479ed7e9b0cc3983b091090bf0c385",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36772,
+      "sha256": "572bef2c3b353637e53d8e3e3f3a81498d2a7a32880486012c5b792ad556dde0",
+      "width": 794,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 233,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168770,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/572bef2c3b353637e53d8e3e3f3a81498d2a7a32880486012c5b792ad556dde0/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/572bef2c3b353637e53d8e3e3f3a81498d2a7a32880486012c5b792ad556dde0/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "572bef2c3b353637e53d8e3e3f3a81498d2a7a32880486012c5b792ad556dde0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-tabela.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-tabela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45702,
+      "sha256": "0ba5e31ca249c0495a333cc9e20858382523320803b322cf8a74152e10b03a88",
+      "width": 900,
+      "height": 486,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-prob-300-tabela.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-prob-300-tabela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 118,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-tabela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168655,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-tabela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0ba5e31ca249c0495a333cc9e20858382523320803b322cf8a74152e10b03a88/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-tabela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0ba5e31ca249c0495a333cc9e20858382523320803b322cf8a74152e10b03a88/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-tabela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "0ba5e31ca249c0495a333cc9e20858382523320803b322cf8a74152e10b03a88",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/growth-creatina-250g-pagina-2026-10-19.webp",
       "local_url": "/images/reviews/black-skull/growth-creatina-250g-pagina-2026-10-19.webp",
       "media_kind": "image",
@@ -65552,6 +66196,512 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68596,
+      "sha256": "24721fc96fd419be5c94aae93b2d52dbc03ba002c5fa6f5c4a86ac1156f0258f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-feminina-insider-qual-escolher-capa.webp",
+      "storage_filename": "camiseta-feminina-insider-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169104,
+          "column": 15,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/24721fc96fd419be5c94aae93b2d52dbc03ba002c5fa6f5c4a86ac1156f0258f/camiseta-feminina-insider-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/24721fc96fd419be5c94aae93b2d52dbc03ba002c5fa6f5c4a86ac1156f0258f/camiseta-feminina-insider-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "24721fc96fd419be5c94aae93b2d52dbc03ba002c5fa6f5c4a86ac1156f0258f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-daily.webp",
+      "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-daily.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21128,
+      "sha256": "a6fae70beaeaed71f5385c44828788cbba29f096f64e8bf69eb081b5f78fb2c7",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-feminina-insider-qual-escolher-daily.webp",
+      "storage_filename": "camiseta-feminina-insider-qual-escolher-daily.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+          "line": 169,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-daily.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169250,
+          "column": 21,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-daily.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a6fae70beaeaed71f5385c44828788cbba29f096f64e8bf69eb081b5f78fb2c7/camiseta-feminina-insider-qual-escolher-daily.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a6fae70beaeaed71f5385c44828788cbba29f096f64e8bf69eb081b5f78fb2c7/camiseta-feminina-insider-qual-escolher-daily.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "a6fae70beaeaed71f5385c44828788cbba29f096f64e8bf69eb081b5f78fb2c7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-gola-v-feminina-indigo.webp",
+      "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-gola-v-feminina-indigo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62396,
+      "sha256": "b8b7f704cd70069579ab2c923ae1f54eb97b88cc86f1e516dc8ce539707cf8f9",
+      "width": 789,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-feminina-insider-qual-escolher-gola-v-feminina-indigo.webp",
+      "storage_filename": "camiseta-feminina-insider-qual-escolher-gola-v-feminina-indigo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+          "line": 131,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-gola-v-feminina-indigo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169212,
+          "column": 21,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-gola-v-feminina-indigo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b8b7f704cd70069579ab2c923ae1f54eb97b88cc86f1e516dc8ce539707cf8f9/camiseta-feminina-insider-qual-escolher-gola-v-feminina-indigo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b8b7f704cd70069579ab2c923ae1f54eb97b88cc86f1e516dc8ce539707cf8f9/camiseta-feminina-insider-qual-escolher-gola-v-feminina-indigo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "b8b7f704cd70069579ab2c923ae1f54eb97b88cc86f1e516dc8ce539707cf8f9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-gola-v-feminina-preta.webp",
+      "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-gola-v-feminina-preta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25968,
+      "sha256": "f38627ea1de15f013c8dd1fb6e652e693c1333f78017e431c0de9c5143c6733c",
+      "width": 761,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-feminina-insider-qual-escolher-gola-v-feminina-preta.webp",
+      "storage_filename": "camiseta-feminina-insider-qual-escolher-gola-v-feminina-preta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+          "line": 138,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-gola-v-feminina-preta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169219,
+          "column": 21,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-gola-v-feminina-preta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f38627ea1de15f013c8dd1fb6e652e693c1333f78017e431c0de9c5143c6733c/camiseta-feminina-insider-qual-escolher-gola-v-feminina-preta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f38627ea1de15f013c8dd1fb6e652e693c1333f78017e431c0de9c5143c6733c/camiseta-feminina-insider-qual-escolher-gola-v-feminina-preta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "f38627ea1de15f013c8dd1fb6e652e693c1333f78017e431c0de9c5143c6733c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-manga-longa-preta.webp",
+      "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-manga-longa-preta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25648,
+      "sha256": "71716337345f64a78f49dede3eaf9c3efb6636d1e6b944bd792d618aa7a5fc45",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-feminina-insider-qual-escolher-manga-longa-preta.webp",
+      "storage_filename": "camiseta-feminina-insider-qual-escolher-manga-longa-preta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+          "line": 153,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-manga-longa-preta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169234,
+          "column": 21,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-manga-longa-preta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/71716337345f64a78f49dede3eaf9c3efb6636d1e6b944bd792d618aa7a5fc45/camiseta-feminina-insider-qual-escolher-manga-longa-preta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/71716337345f64a78f49dede3eaf9c3efb6636d1e6b944bd792d618aa7a5fc45/camiseta-feminina-insider-qual-escolher-manga-longa-preta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "71716337345f64a78f49dede3eaf9c3efb6636d1e6b944bd792d618aa7a5fc45",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-nextech.webp",
+      "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-nextech.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29444,
+      "sha256": "2949025a0d95b8e623905a18a4598ff066635b4d16a8ecc696797d03d128dfdb",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-feminina-insider-qual-escolher-nextech.webp",
+      "storage_filename": "camiseta-feminina-insider-qual-escolher-nextech.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+          "line": 176,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-nextech.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169257,
+          "column": 21,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-nextech.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2949025a0d95b8e623905a18a4598ff066635b4d16a8ecc696797d03d128dfdb/camiseta-feminina-insider-qual-escolher-nextech.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2949025a0d95b8e623905a18a4598ff066635b4d16a8ecc696797d03d128dfdb/camiseta-feminina-insider-qual-escolher-nextech.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "2949025a0d95b8e623905a18a4598ff066635b4d16a8ecc696797d03d128dfdb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-perfect-top.webp",
+      "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-perfect-top.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20206,
+      "sha256": "5d97db57ce4bc33edcba44ecdc21b41f34e1dab5e4182646569cab9052fc1802",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-feminina-insider-qual-escolher-perfect-top.webp",
+      "storage_filename": "camiseta-feminina-insider-qual-escolher-perfect-top.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+          "line": 191,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-perfect-top.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169272,
+          "column": 21,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-perfect-top.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5d97db57ce4bc33edcba44ecdc21b41f34e1dab5e4182646569cab9052fc1802/camiseta-feminina-insider-qual-escolher-perfect-top.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5d97db57ce4bc33edcba44ecdc21b41f34e1dab5e4182646569cab9052fc1802/camiseta-feminina-insider-qual-escolher-perfect-top.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "5d97db57ce4bc33edcba44ecdc21b41f34e1dab5e4182646569cab9052fc1802",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-skin-cropped-manga-longa.webp",
+      "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-skin-cropped-manga-longa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17510,
+      "sha256": "9d08c5be5beaeba212b3f0eb4df9a093ec89375c70840310d67997e2de6db057",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-feminina-insider-qual-escolher-skin-cropped-manga-longa.webp",
+      "storage_filename": "camiseta-feminina-insider-qual-escolher-skin-cropped-manga-longa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+          "line": 214,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-skin-cropped-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169295,
+          "column": 21,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-skin-cropped-manga-longa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9d08c5be5beaeba212b3f0eb4df9a093ec89375c70840310d67997e2de6db057/camiseta-feminina-insider-qual-escolher-skin-cropped-manga-longa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9d08c5be5beaeba212b3f0eb4df9a093ec89375c70840310d67997e2de6db057/camiseta-feminina-insider-qual-escolher-skin-cropped-manga-longa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "9d08c5be5beaeba212b3f0eb4df9a093ec89375c70840310d67997e2de6db057",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-skin-cropped.webp",
+      "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-skin-cropped.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30172,
+      "sha256": "e268c7034d08d609c3fc56fd3d6eea5a4ba9b1b00103662f72850c4fa463dffe",
+      "width": 803,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-feminina-insider-qual-escolher-skin-cropped.webp",
+      "storage_filename": "camiseta-feminina-insider-qual-escolher-skin-cropped.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+          "line": 207,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-skin-cropped.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169288,
+          "column": 21,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-skin-cropped.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e268c7034d08d609c3fc56fd3d6eea5a4ba9b1b00103662f72850c4fa463dffe/camiseta-feminina-insider-qual-escolher-skin-cropped.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e268c7034d08d609c3fc56fd3d6eea5a4ba9b1b00103662f72850c4fa463dffe/camiseta-feminina-insider-qual-escolher-skin-cropped.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "e268c7034d08d609c3fc56fd3d6eea5a4ba9b1b00103662f72850c4fa463dffe",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-tech-feminina-beetroot.webp",
+      "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-tech-feminina-beetroot.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16896,
+      "sha256": "85af47d5268ad4a2bc24529314301f22d2d14ab9099ee3ff9f3e6d0617e4620b",
+      "width": 832,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-feminina-insider-qual-escolher-tech-feminina-beetroot.webp",
+      "storage_filename": "camiseta-feminina-insider-qual-escolher-tech-feminina-beetroot.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+          "line": 116,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-tech-feminina-beetroot.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169197,
+          "column": 21,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-tech-feminina-beetroot.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/85af47d5268ad4a2bc24529314301f22d2d14ab9099ee3ff9f3e6d0617e4620b/camiseta-feminina-insider-qual-escolher-tech-feminina-beetroot.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/85af47d5268ad4a2bc24529314301f22d2d14ab9099ee3ff9f3e6d0617e4620b/camiseta-feminina-insider-qual-escolher-tech-feminina-beetroot.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "85af47d5268ad4a2bc24529314301f22d2d14ab9099ee3ff9f3e6d0617e4620b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-tech-feminina.webp",
+      "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-tech-feminina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26614,
+      "sha256": "3eedbf1362f4e52fd59bc702fa52ded16e235a8998916e0349727b48a45984ce",
+      "width": 684,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-feminina-insider-qual-escolher-tech-feminina.webp",
+      "storage_filename": "camiseta-feminina-insider-qual-escolher-tech-feminina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-feminina-insider-qual-escolher.json",
+          "line": 109,
+          "column": 19,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-tech-feminina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169190,
+          "column": 21,
+          "literal": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-tech-feminina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3eedbf1362f4e52fd59bc702fa52ded16e235a8998916e0349727b48a45984ce/camiseta-feminina-insider-qual-escolher-tech-feminina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3eedbf1362f4e52fd59bc702fa52ded16e235a8998916e0349727b48a45984ce/camiseta-feminina-insider-qual-escolher-tech-feminina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "3eedbf1362f4e52fd59bc702fa52ded16e235a8998916e0349727b48a45984ce",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-capa.webp",
       "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-capa.webp",
       "media_kind": "image",
@@ -75977,6 +77127,512 @@
       "uploaded_at": null,
       "verified_at": "2026-10-03T02:50:39.050Z",
       "verification_etag_or_digest": "6965e73b98eaa6c67bf46d9b5f96991773a4978c02d8b2ff5a2c040b86b282fb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-allure-laranja.webp",
+      "local_url": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-allure-laranja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54716,
+      "sha256": "b8be30a9bca1fe883abbc0d91c3a963387d0f5451abf21be4e603775ababe415",
+      "width": 900,
+      "height": 899,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-base-esfera-e-tacas-coloridas-allure-laranja.webp",
+      "storage_filename": "taca-base-esfera-e-tacas-coloridas-allure-laranja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 146,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-allure-laranja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168966,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-allure-laranja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b8be30a9bca1fe883abbc0d91c3a963387d0f5451abf21be4e603775ababe415/taca-base-esfera-e-tacas-coloridas-allure-laranja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b8be30a9bca1fe883abbc0d91c3a963387d0f5451abf21be4e603775ababe415/taca-base-esfera-e-tacas-coloridas-allure-laranja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "b8be30a9bca1fe883abbc0d91c3a963387d0f5451abf21be4e603775ababe415",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-capa.webp",
+      "local_url": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83038,
+      "sha256": "0c6793870494efcb9e13e7a05d5b269a420723500c58eed748b62d0d6ac43a07",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-base-esfera-e-tacas-coloridas-capa.webp",
+      "storage_filename": "taca-base-esfera-e-tacas-coloridas-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168843,
+          "column": 15,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0c6793870494efcb9e13e7a05d5b269a420723500c58eed748b62d0d6ac43a07/taca-base-esfera-e-tacas-coloridas-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0c6793870494efcb9e13e7a05d5b269a420723500c58eed748b62d0d6ac43a07/taca-base-esfera-e-tacas-coloridas-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "0c6793870494efcb9e13e7a05d5b269a420723500c58eed748b62d0d6ac43a07",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul-mesa.webp",
+      "local_url": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul-mesa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28686,
+      "sha256": "24d1f5db523eab9d42ea9bdd8458f121aa48ff5d07682725a7e21c54719548ea",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul-mesa.webp",
+      "storage_filename": "taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul-mesa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 190,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul-mesa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169010,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul-mesa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/24d1f5db523eab9d42ea9bdd8458f121aa48ff5d07682725a7e21c54719548ea/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul-mesa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/24d1f5db523eab9d42ea9bdd8458f121aa48ff5d07682725a7e21c54719548ea/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul-mesa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "24d1f5db523eab9d42ea9bdd8458f121aa48ff5d07682725a7e21c54719548ea",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul.webp",
+      "local_url": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39274,
+      "sha256": "69b2ddd5bebd45a4ba7da5cdcb50a8a7ad317dd0c46256a8f5d41233b10b32be",
+      "width": 565,
+      "height": 749,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul.webp",
+      "storage_filename": "taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 183,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169003,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/69b2ddd5bebd45a4ba7da5cdcb50a8a7ad317dd0c46256a8f5d41233b10b32be/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/69b2ddd5bebd45a4ba7da5cdcb50a8a7ad317dd0c46256a8f5d41233b10b32be/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "69b2ddd5bebd45a4ba7da5cdcb50a8a7ad317dd0c46256a8f5d41233b10b32be",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde-mesa.webp",
+      "local_url": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde-mesa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25804,
+      "sha256": "40b01e3d1a6284a1d5bff48dfa3acf00157a3d85004c0847dcf1b1942fc4c722",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde-mesa.webp",
+      "storage_filename": "taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde-mesa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 212,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde-mesa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169032,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde-mesa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/40b01e3d1a6284a1d5bff48dfa3acf00157a3d85004c0847dcf1b1942fc4c722/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde-mesa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/40b01e3d1a6284a1d5bff48dfa3acf00157a3d85004c0847dcf1b1942fc4c722/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde-mesa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "40b01e3d1a6284a1d5bff48dfa3acf00157a3d85004c0847dcf1b1942fc4c722",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde.webp",
+      "local_url": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25176,
+      "sha256": "fd0b6d6be1bb434438f2d69caf0e68c6655cf79e9d5dbcd84d8dd382f27c9c03",
+      "width": 500,
+      "height": 747,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde.webp",
+      "storage_filename": "taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 205,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169025,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fd0b6d6be1bb434438f2d69caf0e68c6655cf79e9d5dbcd84d8dd382f27c9c03/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fd0b6d6be1bb434438f2d69caf0e68c6655cf79e9d5dbcd84d8dd382f27c9c03/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "fd0b6d6be1bb434438f2d69caf0e68c6655cf79e9d5dbcd84d8dd382f27c9c03",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul-mesa.webp",
+      "local_url": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul-mesa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 126906,
+      "sha256": "70b87cd8f6b742cee74a72eb792528db20abe540364b3b73010aab3e09f85a2d",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul-mesa.webp",
+      "storage_filename": "taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul-mesa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 176,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul-mesa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168996,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul-mesa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/70b87cd8f6b742cee74a72eb792528db20abe540364b3b73010aab3e09f85a2d/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul-mesa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/70b87cd8f6b742cee74a72eb792528db20abe540364b3b73010aab3e09f85a2d/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul-mesa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "70b87cd8f6b742cee74a72eb792528db20abe540364b3b73010aab3e09f85a2d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul.webp",
+      "local_url": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58584,
+      "sha256": "512f82ae730bce564832a78a38baff4d6cfde43eda4ef7d1bcc8aac1869c6465",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul.webp",
+      "storage_filename": "taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 169,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168989,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/512f82ae730bce564832a78a38baff4d6cfde43eda4ef7d1bcc8aac1869c6465/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/512f82ae730bce564832a78a38baff4d6cfde43eda4ef7d1bcc8aac1869c6465/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "512f82ae730bce564832a78a38baff4d6cfde43eda4ef7d1bcc8aac1869c6465",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sante-flute-coral-mesa.webp",
+      "local_url": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sante-flute-coral-mesa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 113922,
+      "sha256": "70831ab34f8eaadf52226f81c2d0cdd69f5008d2d01bf349ce7c51c71ae8aebf",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-base-esfera-e-tacas-coloridas-sante-flute-coral-mesa.webp",
+      "storage_filename": "taca-base-esfera-e-tacas-coloridas-sante-flute-coral-mesa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 139,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sante-flute-coral-mesa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168959,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sante-flute-coral-mesa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/70831ab34f8eaadf52226f81c2d0cdd69f5008d2d01bf349ce7c51c71ae8aebf/taca-base-esfera-e-tacas-coloridas-sante-flute-coral-mesa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/70831ab34f8eaadf52226f81c2d0cdd69f5008d2d01bf349ce7c51c71ae8aebf/taca-base-esfera-e-tacas-coloridas-sante-flute-coral-mesa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "70831ab34f8eaadf52226f81c2d0cdd69f5008d2d01bf349ce7c51c71ae8aebf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sante-flute-coral.webp",
+      "local_url": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sante-flute-coral.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23158,
+      "sha256": "a4acd3a68e0851a3f805f5a85b8a840c88f73f83fb3e7c37dba6fc54901bc602",
+      "width": 261,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-base-esfera-e-tacas-coloridas-sante-flute-coral.webp",
+      "storage_filename": "taca-base-esfera-e-tacas-coloridas-sante-flute-coral.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 132,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sante-flute-coral.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168952,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sante-flute-coral.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a4acd3a68e0851a3f805f5a85b8a840c88f73f83fb3e7c37dba6fc54901bc602/taca-base-esfera-e-tacas-coloridas-sante-flute-coral.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a4acd3a68e0851a3f805f5a85b8a840c88f73f83fb3e7c37dba6fc54901bc602/taca-base-esfera-e-tacas-coloridas-sante-flute-coral.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "a4acd3a68e0851a3f805f5a85b8a840c88f73f83fb3e7c37dba6fc54901bc602",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sommelier-hastes-coloridas.webp",
+      "local_url": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sommelier-hastes-coloridas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25848,
+      "sha256": "87b6e2deedd0040462991a260081c78893977d1659567fa6843627f8188c2751",
+      "width": 773,
+      "height": 773,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-base-esfera-e-tacas-coloridas-sommelier-hastes-coloridas.webp",
+      "storage_filename": "taca-base-esfera-e-tacas-coloridas-sommelier-hastes-coloridas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 153,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sommelier-hastes-coloridas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 168973,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sommelier-hastes-coloridas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/87b6e2deedd0040462991a260081c78893977d1659567fa6843627f8188c2751/taca-base-esfera-e-tacas-coloridas-sommelier-hastes-coloridas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/87b6e2deedd0040462991a260081c78893977d1659567fa6843627f8188c2751/taca-base-esfera-e-tacas-coloridas-sommelier-hastes-coloridas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "87b6e2deedd0040462991a260081c78893977d1659567fa6843627f8188c2751",
       "verification_status": "verified"
     },
     {
@@ -93136,6 +94792,1006 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+      "local_url": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 219394,
+      "sha256": "5e252c27367de3b0a65a344be00ac4ff078d811f29c26850f9907b30b5d21bd7",
+      "width": 900,
+      "height": 1199,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vestido-de-festa-shein-adyce-cauda.webp",
+      "storage_filename": "vestido-de-festa-shein-adyce-cauda.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vestido-de-festa-shein.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vestido-de-festa-shein.json",
+          "line": 199,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169568,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5e252c27367de3b0a65a344be00ac4ff078d811f29c26850f9907b30b5d21bd7/vestido-de-festa-shein-adyce-cauda.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5e252c27367de3b0a65a344be00ac4ff078d811f29c26850f9907b30b5d21bd7/vestido-de-festa-shein-adyce-cauda.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "5e252c27367de3b0a65a344be00ac4ff078d811f29c26850f9907b30b5d21bd7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+      "local_url": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 153642,
+      "sha256": "cb0707657771dd51a1f8fb3172f43f9b12fed2f369fdf475a7fa1bd77cadf995",
+      "width": 900,
+      "height": 1199,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vestido-de-festa-shein-adyce-corredor.webp",
+      "storage_filename": "vestido-de-festa-shein-adyce-corredor.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vestido-de-festa-shein.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vestido-de-festa-shein.json",
+          "line": 235,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169604,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cb0707657771dd51a1f8fb3172f43f9b12fed2f369fdf475a7fa1bd77cadf995/vestido-de-festa-shein-adyce-corredor.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cb0707657771dd51a1f8fb3172f43f9b12fed2f369fdf475a7fa1bd77cadf995/vestido-de-festa-shein-adyce-corredor.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "cb0707657771dd51a1f8fb3172f43f9b12fed2f369fdf475a7fa1bd77cadf995",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+      "local_url": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 164116,
+      "sha256": "a63fe28d1a198a258111473ff093cf9b57dff2d55b013d2ed2e7d442d404b634",
+      "width": 900,
+      "height": 1199,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vestido-de-festa-shein-adyce-fenda.webp",
+      "storage_filename": "vestido-de-festa-shein-adyce-fenda.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/abito-da-festa-shein.json",
+        "content/reviews/partykleid-shein.json",
+        "content/reviews/robe-de-soiree-shein.json",
+        "content/reviews/shein-party-dress-guide-ja.json",
+        "content/reviews/shein-party-dress-guide-ko.json",
+        "content/reviews/shein-party-dress-guide-zh-hans.json",
+        "content/reviews/shein-party-dress-guide-zh-hant.json",
+        "content/reviews/shein-party-dress-guide.json",
+        "content/reviews/vestido-de-festa-shein.json",
+        "content/reviews/vestido-de-fiesta-shein.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/abito-da-festa-shein.json",
+          "line": 71,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/partykleid-shein.json",
+          "line": 71,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/robe-de-soiree-shein.json",
+          "line": 71,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-ja.json",
+          "line": 71,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-ko.json",
+          "line": 71,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-zh-hans.json",
+          "line": 71,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-zh-hant.json",
+          "line": 71,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide.json",
+          "line": 71,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vestido-de-festa-shein.json",
+          "line": 70,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vestido-de-fiesta-shein.json",
+          "line": 71,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169439,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169693,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169829,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169965,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170101,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170237,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170373,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170509,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170645,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170781,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a63fe28d1a198a258111473ff093cf9b57dff2d55b013d2ed2e7d442d404b634/vestido-de-festa-shein-adyce-fenda.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a63fe28d1a198a258111473ff093cf9b57dff2d55b013d2ed2e7d442d404b634/vestido-de-festa-shein-adyce-fenda.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "a63fe28d1a198a258111473ff093cf9b57dff2d55b013d2ed2e7d442d404b634",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+      "local_url": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 217128,
+      "sha256": "000e2e9f0a759574050fe286f5d53f82a7494d9145c29cf06084a899b70b3efc",
+      "width": 900,
+      "height": 1199,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vestido-de-festa-shein-adyce-frente.webp",
+      "storage_filename": "vestido-de-festa-shein-adyce-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vestido-de-festa-shein.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vestido-de-festa-shein.json",
+          "line": 157,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169526,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/000e2e9f0a759574050fe286f5d53f82a7494d9145c29cf06084a899b70b3efc/vestido-de-festa-shein-adyce-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/000e2e9f0a759574050fe286f5d53f82a7494d9145c29cf06084a899b70b3efc/vestido-de-festa-shein-adyce-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "000e2e9f0a759574050fe286f5d53f82a7494d9145c29cf06084a899b70b3efc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+      "local_url": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 113694,
+      "sha256": "5d025af9f09732a7e6f5df7e6eb7ec89d4e1e63c19ae9c3307be2d8eff3d7f65",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vestido-de-festa-shein-capa.webp",
+      "storage_filename": "vestido-de-festa-shein-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/abito-da-festa-shein.json",
+        "content/reviews/partykleid-shein.json",
+        "content/reviews/robe-de-soiree-shein.json",
+        "content/reviews/shein-party-dress-guide-ja.json",
+        "content/reviews/shein-party-dress-guide-ko.json",
+        "content/reviews/shein-party-dress-guide-zh-hans.json",
+        "content/reviews/shein-party-dress-guide-zh-hant.json",
+        "content/reviews/shein-party-dress-guide.json",
+        "content/reviews/vestido-de-festa-shein.json",
+        "content/reviews/vestido-de-fiesta-shein.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/abito-da-festa-shein.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/partykleid-shein.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/robe-de-soiree-shein.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vestido-de-festa-shein.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vestido-de-fiesta-shein.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169393,
+          "column": 15,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169647,
+          "column": 15,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169783,
+          "column": 15,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169919,
+          "column": 15,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170055,
+          "column": 15,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170191,
+          "column": 15,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170327,
+          "column": 15,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170463,
+          "column": 15,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170599,
+          "column": 15,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170735,
+          "column": 15,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5d025af9f09732a7e6f5df7e6eb7ec89d4e1e63c19ae9c3307be2d8eff3d7f65/vestido-de-festa-shein-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5d025af9f09732a7e6f5df7e6eb7ec89d4e1e63c19ae9c3307be2d8eff3d7f65/vestido-de-festa-shein-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "5d025af9f09732a7e6f5df7e6eb7ec89d4e1e63c19ae9c3307be2d8eff3d7f65",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+      "local_url": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 103886,
+      "sha256": "2b77d25cdb0658b633662d284d403ee735505273c3612af2b1c9e902ebd2c37e",
+      "width": 900,
+      "height": 1199,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vestido-de-festa-shein-firerie-costas.webp",
+      "storage_filename": "vestido-de-festa-shein-firerie-costas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vestido-de-festa-shein.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vestido-de-festa-shein.json",
+          "line": 183,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169552,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2b77d25cdb0658b633662d284d403ee735505273c3612af2b1c9e902ebd2c37e/vestido-de-festa-shein-firerie-costas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2b77d25cdb0658b633662d284d403ee735505273c3612af2b1c9e902ebd2c37e/vestido-de-festa-shein-firerie-costas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "2b77d25cdb0658b633662d284d403ee735505273c3612af2b1c9e902ebd2c37e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+      "local_url": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 116002,
+      "sha256": "9a4f1a27f5f48d11e7ebbbfc9f4788b25b03bac8272b9b4495094c460572c345",
+      "width": 900,
+      "height": 1199,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vestido-de-festa-shein-firerie-frente.webp",
+      "storage_filename": "vestido-de-festa-shein-firerie-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vestido-de-festa-shein.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vestido-de-festa-shein.json",
+          "line": 143,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169512,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9a4f1a27f5f48d11e7ebbbfc9f4788b25b03bac8272b9b4495094c460572c345/vestido-de-festa-shein-firerie-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9a4f1a27f5f48d11e7ebbbfc9f4788b25b03bac8272b9b4495094c460572c345/vestido-de-festa-shein-firerie-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "9a4f1a27f5f48d11e7ebbbfc9f4788b25b03bac8272b9b4495094c460572c345",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+      "local_url": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 104432,
+      "sha256": "e865e96c54d91be0d556f2d00d1a685a690edff9eaf9ce5f692f4e3f3fb7c270",
+      "width": 900,
+      "height": 1199,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vestido-de-festa-shein-firerie-lado.webp",
+      "storage_filename": "vestido-de-festa-shein-firerie-lado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/abito-da-festa-shein.json",
+        "content/reviews/partykleid-shein.json",
+        "content/reviews/robe-de-soiree-shein.json",
+        "content/reviews/shein-party-dress-guide-ja.json",
+        "content/reviews/shein-party-dress-guide-ko.json",
+        "content/reviews/shein-party-dress-guide-zh-hans.json",
+        "content/reviews/shein-party-dress-guide-zh-hant.json",
+        "content/reviews/shein-party-dress-guide.json",
+        "content/reviews/vestido-de-festa-shein.json",
+        "content/reviews/vestido-de-fiesta-shein.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/abito-da-festa-shein.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/partykleid-shein.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/robe-de-soiree-shein.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-ja.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-ko.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-zh-hans.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-zh-hant.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vestido-de-festa-shein.json",
+          "line": 91,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vestido-de-fiesta-shein.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169460,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169714,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169850,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169986,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170122,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170258,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170394,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170530,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170666,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170802,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e865e96c54d91be0d556f2d00d1a685a690edff9eaf9ce5f692f4e3f3fb7c270/vestido-de-festa-shein-firerie-lado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e865e96c54d91be0d556f2d00d1a685a690edff9eaf9ce5f692f4e3f3fb7c270/vestido-de-festa-shein-firerie-lado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "e865e96c54d91be0d556f2d00d1a685a690edff9eaf9ce5f692f4e3f3fb7c270",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+      "local_url": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24236,
+      "sha256": "45ecd71af2594098a74265823551a656ec4135ad7379638bde57c4852a1b272e",
+      "width": 900,
+      "height": 1155,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vestido-de-festa-shein-via-costas.webp",
+      "storage_filename": "vestido-de-festa-shein-via-costas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/abito-da-festa-shein.json",
+        "content/reviews/partykleid-shein.json",
+        "content/reviews/robe-de-soiree-shein.json",
+        "content/reviews/shein-party-dress-guide-ja.json",
+        "content/reviews/shein-party-dress-guide-ko.json",
+        "content/reviews/shein-party-dress-guide-zh-hans.json",
+        "content/reviews/shein-party-dress-guide-zh-hant.json",
+        "content/reviews/shein-party-dress-guide.json",
+        "content/reviews/vestido-de-festa-shein.json",
+        "content/reviews/vestido-de-fiesta-shein.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/abito-da-festa-shein.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/partykleid-shein.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/robe-de-soiree-shein.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-ja.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-ko.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-zh-hans.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-zh-hant.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vestido-de-festa-shein.json",
+          "line": 176,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vestido-de-fiesta-shein.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169545,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169729,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169865,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170001,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170137,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170273,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170409,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170545,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170681,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 170817,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/45ecd71af2594098a74265823551a656ec4135ad7379638bde57c4852a1b272e/vestido-de-festa-shein-via-costas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/45ecd71af2594098a74265823551a656ec4135ad7379638bde57c4852a1b272e/vestido-de-festa-shein-via-costas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "45ecd71af2594098a74265823551a656ec4135ad7379638bde57c4852a1b272e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+      "local_url": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41454,
+      "sha256": "026c9e8655eb8883d85d787181175ae75125f047a6e19c005a7438fc6503a038",
+      "width": 900,
+      "height": 1155,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vestido-de-festa-shein-via-frente.webp",
+      "storage_filename": "vestido-de-festa-shein-via-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vestido-de-festa-shein.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vestido-de-festa-shein.json",
+          "line": 150,
+          "column": 19,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 169519,
+          "column": 21,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/026c9e8655eb8883d85d787181175ae75125f047a6e19c005a7438fc6503a038/vestido-de-festa-shein-via-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/026c9e8655eb8883d85d787181175ae75125f047a6e19c005a7438fc6503a038/vestido-de-festa-shein-via-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "026c9e8655eb8883d85d787181175ae75125f047a6e19c005a7438fc6503a038",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/autobronzeador-agua-dark.webp",
       "local_url": "/images/reviews/skelt/autobronzeador-agua-dark.webp",
       "media_kind": "image",
@@ -98762,6 +101418,144 @@
       "uploaded_at": null,
       "verified_at": "2026-10-23T19:59:38.871Z",
       "verification_etag_or_digest": "266664d61726b5888e17e95a192c76a5a66002f3d0055dbfa72b4f9dc35dd2b6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/whey/probiotica-100-pure-whey-baunilha.webp",
+      "local_url": "/images/reviews/whey/probiotica-100-pure-whey-baunilha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46750,
+      "sha256": "1ac6860ab53db09f9e7dfb260da73fd264c9bbb5a0d4c30e81610e2951c885bb",
+      "width": 528,
+      "height": 898,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-100-pure-whey-baunilha.webp",
+      "storage_filename": "probiotica-100-pure-whey-baunilha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melhor-whey-qual-escolher-por-objetivo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melhor-whey-qual-escolher-por-objetivo.json",
+          "line": 300,
+          "column": 19,
+          "literal": "/images/reviews/whey/probiotica-100-pure-whey-baunilha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123667,
+          "column": 21,
+          "literal": "/images/reviews/whey/probiotica-100-pure-whey-baunilha.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1ac6860ab53db09f9e7dfb260da73fd264c9bbb5a0d4c30e81610e2951c885bb/probiotica-100-pure-whey-baunilha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1ac6860ab53db09f9e7dfb260da73fd264c9bbb5a0d4c30e81610e2951c885bb/probiotica-100-pure-whey-baunilha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "1ac6860ab53db09f9e7dfb260da73fd264c9bbb5a0d4c30e81610e2951c885bb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/whey/probiotica-iso-pro-baunilha.webp",
+      "local_url": "/images/reviews/whey/probiotica-iso-pro-baunilha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43914,
+      "sha256": "94bd2bce5e6f99e352ec2d78886e443e7c7a2df743f7d6fe036579c68dc05374",
+      "width": 542,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-iso-pro-baunilha.webp",
+      "storage_filename": "probiotica-iso-pro-baunilha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melhor-whey-qual-escolher-por-objetivo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melhor-whey-qual-escolher-por-objetivo.json",
+          "line": 307,
+          "column": 19,
+          "literal": "/images/reviews/whey/probiotica-iso-pro-baunilha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123674,
+          "column": 21,
+          "literal": "/images/reviews/whey/probiotica-iso-pro-baunilha.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/94bd2bce5e6f99e352ec2d78886e443e7c7a2df743f7d6fe036579c68dc05374/probiotica-iso-pro-baunilha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/94bd2bce5e6f99e352ec2d78886e443e7c7a2df743f7d6fe036579c68dc05374/probiotica-iso-pro-baunilha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "94bd2bce5e6f99e352ec2d78886e443e7c7a2df743f7d6fe036579c68dc05374",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/whey/probiotica-iso-protein-blend-morango.webp",
+      "local_url": "/images/reviews/whey/probiotica-iso-protein-blend-morango.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48686,
+      "sha256": "a96a748879b98fb45226b3254893be7560a19b114d3b36f1569e2b2e449186e9",
+      "width": 528,
+      "height": 898,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-iso-protein-blend-morango.webp",
+      "storage_filename": "probiotica-iso-protein-blend-morango.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melhor-whey-qual-escolher-por-objetivo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melhor-whey-qual-escolher-por-objetivo.json",
+          "line": 314,
+          "column": 19,
+          "literal": "/images/reviews/whey/probiotica-iso-protein-blend-morango.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123681,
+          "column": 21,
+          "literal": "/images/reviews/whey/probiotica-iso-protein-blend-morango.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a96a748879b98fb45226b3254893be7560a19b114d3b36f1569e2b2e449186e9/probiotica-iso-protein-blend-morango.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a96a748879b98fb45226b3254893be7560a19b114d3b36f1569e2b2e449186e9/probiotica-iso-protein-blend-morango.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-31T00:31:43.912Z",
+      "verification_etag_or_digest": "a96a748879b98fb45226b3254893be7560a19b114d3b36f1569e2b2e449186e9",
       "verification_status": "verified"
     },
     {
