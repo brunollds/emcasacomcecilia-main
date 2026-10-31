@@ -131711,8 +131711,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-27",
     "draft": false,
     "isNew": true,
-    "description": "O que a Toda Up publica do sutiã de silicone invisível: como colar, o tamanho pelo busto, para qual roupa, como lavar e o quadro com a Fita Up e o protetor.",
-    "metaDescription": "Sutiã de silicone invisível da Toda Up: o passo a passo que a marca publica, os tamanhos P, M e G, para qual roupa serve e como lavar. Preço de 27/10/2026.",
+    "description": "Sutiã de silicone invisível da Toda Up: como colar, o tamanho pelo busto, para qual roupa, como lavar e a diferença para a Fita Up e o protetor.",
+    "metaDescription": "Sutiã de silicone invisível da Toda Up: como colar, os tamanhos P, M e G pelo busto, para qual roupa serve, como lavar e o preço.",
     "image": "/images/reviews/toda-up/sutia-de-silicone-invisivel-capa-discover.webp",
     "imageAlt": "Modelo com o Sutiã de Silicone Invisível da Toda Up, com o logo da loja e o título Sutiã de silicone: como usar",
     "imageFit": "contain",
@@ -131746,15 +131746,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O sutiã de silicone invisível da Toda Up é uma peça adesiva pronta, em P, M e G, a R$ 149,90 em 27/10/2026. Pela ficha, ele se cola sobre o seio com a pele seca e serve para vestido de festa e frente única, sem alças e com as costas nuas. Quantas vezes dá para usar, a marca não informa."
+          "O sutiã de silicone invisível da Toda Up é uma peça adesiva pronta, em P, M e G, que se cola sobre o seio com a pele seca. A marca indica para vestido de festa e frente única, roupas sem alças e de costas nuas. Custa R$ 149,90 e se lava com água e sabão neutro."
         ]
       },
       {
         "heading": "O que é o sutiã de silicone invisível",
         "paragraphs": [
-          "O Sutiã de Silicone Invisível é um dos três adesivos da categoria Adesivos da Toda Up, a marca que antes se chamava Fita Up. A loja diz que a mudança foi só de nome e visual; quem quer confirmar que é a mesma empresa encontra a resposta em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
-          "A ficha o descreve como um adesivo que adere à pele, modela os seios de forma discreta e some na roupa, sem alças e com as costas nuas. As tags da página são adesivo, efeito lifting, hipoalergênico e sutiã invisível. Ele não é a [Fita Up](/reviews/fita-up-como-usar): a fita se corta na medida e se cola por partes, e o sutiã é a peça inteira, com fecho.",
-          "Em 27/10/2026, o sutiã custava R$ 149,90 (de R$ 159,90), nos tamanhos P, M e G, sem opção de cor. Na mesma data, a página oferecia o kit \"Leve 2 com 16% OFF + brinde\" por R$ 269,90, com uma calcinha da loja de brinde. Quanto tempo o sutiã fica no corpo, a Toda Up não publica na página do produto."
+          "O Sutiã de Silicone Invisível é um dos três adesivos da Toda Up, a marca que antes se chamava Fita Up. A loja diz que a mudança foi só de nome e visual; a empresa está em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
+          "Pela descrição da loja, ele adere à pele, modela os seios de forma discreta e some na roupa. A página o marca como hipoalergênico e com efeito lifting. Ele não é a [Fita Up](/reviews/fita-up-como-usar): a fita se corta na medida e se cola por partes, e o sutiã é a peça inteira, com fecho.",
+          "Preços de 27/10/2026, no cartão: R$ 149,90 (de R$ 159,90), sem opção de cor. O kit Leve 2 saía por R$ 269,90, com uma calcinha da loja de brinde."
         ],
         "image": {
           "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
@@ -131767,7 +131767,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar: o passo a passo da Toda Up",
         "paragraphs": [
-          "O FAQ da página traz a aplicação em etapas: primeiro a pele, depois a peça, e o fecho só se une com os dois lados colados. Resumindo as instruções da marca com as nossas palavras:"
+          "A aplicação vai em etapas: primeiro a pele, depois a peça, e o fecho só se une com os dois lados colados. O resumo das instruções da marca:"
         ],
         "bullets": [
           "Seque bem a pele da região, sem hidratante, sérum, perfume ou qualquer produto oleoso.",
@@ -131777,12 +131777,12 @@ export const reviewsData: unknown[] = [
           "Para tirar, remova devagar, de cima para baixo."
         ],
         "postParagraphs": [
-          "A Toda Up diz que o sutiã é hipoalergênico e, mesmo assim, pede um pré-teste antes da aplicação. Para tirar, ela não indica hidratante nem óleo, como faz na Fita Up."
+          "A Toda Up diz que o sutiã é hipoalergênico e, mesmo assim, pede um pré-teste antes da primeira aplicação."
         ],
         "image": {
           "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-passo-a-passo-2710.webp",
           "alt": "Quadro com o passo a passo do sutiã de silicone segundo a Toda Up: pele seca sem hidratante, sérum, perfume ou óleo; aplicar sobre o seio; repetir no outro na mesma altura; fechar o fecho e pressionar; tirar de cima para baixo",
-          "caption": "As etapas do FAQ da Toda Up, em 27/10/2026. Quadro nosso.",
+          "caption": "As etapas de aplicação, pela Toda Up. Quadro nosso.",
           "objectFit": "contain",
           "aspectRatio": 2.1314
         }
@@ -131790,7 +131790,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual tamanho: P, M ou G",
         "paragraphs": [
-          "O tamanho segue o busto, pelo FAQ da marca:"
+          "O tamanho segue o busto, pela tabela da marca:"
         ],
         "comparisonTable": {
           "headers": [
@@ -131813,27 +131813,44 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os três estavam disponíveis em 27/10/2026. A tabela é da Toda Up, lida em 27/10/2026, e pode mudar; o 42 e o 44 aparecem em duas faixas, e na dúvida entre dois tamanhos a página do produto é a referência."
+          "O 42 e o 44 aparecem em duas faixas. Se o seu busto cair numa delas, a página do produto é a referência."
         ]
       },
       {
         "heading": "Para qual roupa",
         "paragraphs": [
-          "A ficha cita vestidos de festa e frente única, e descreve a peça como um adesivo sem alças e com as costas nuas. Essa é a lista da marca: roupas em que a alça ou a faixa das costas de um sutiã comum apareceriam.",
-          "O tomara que caia não está na ficha do sutiã. Para outras peças, como blusa de alça fina ou top de costas abertas, a ficha também não diz nada."
-        ]
+          "A loja indica o sutiã para vestido de festa e frente única: roupas em que a alça ou a faixa das costas de um sutiã comum apareceriam. Para tomara que caia, a Toda Up indica a [Fita Up](/reviews/fita-up-como-usar)."
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Sutiã de Silicone Invisível",
+              "howTo": "Em roupa sem alças e de costas nuas, onde a alça ou a faixa de um sutiã comum apareceria.",
+              "occasion": "Festa e evento, com vestido de festa ou blusa frente única.",
+              "pairsWith": [
+                {
+                  "label": "vestido de festa de costas nuas"
+                },
+                {
+                  "label": "blusa frente única"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Como lavar e guardar",
         "paragraphs": [
-          "Pelo FAQ da Toda Up, o sutiã se lava com água e sabão neutro e seca ao natural. A marca orienta higienizar quando houver sujeira e guardar a peça como indica a embalagem, \"para uma vida útil maior\".",
-          "Quantas vezes o sutiã pode ser usado, a Toda Up não informa, e \"reutilizável\" não está na ficha dele: na categoria Adesivos, a marca só usa a palavra no protetor de silicone, como mostra o quadro abaixo."
+          "Pela orientação da Toda Up, o sutiã se lava com água e sabão neutro e seca ao natural, sempre que houver sujeira. Guardado como indica a embalagem, ele dura mais, segundo a marca.",
+          "A marca não diz quantas vezes ele pode ser usado. Entre os três adesivos, só o protetor de silicone traz número de usos."
         ]
       },
       {
         "heading": "Sutiã, Fita Up ou protetor de silicone",
         "paragraphs": [
-          "Os três adesivos da Toda Up têm funções diferentes, e a ficha de cada um diz para que serve. O quadro abaixo junta o que a marca publica; os dados da Fita Up são de 26/10/2026 e os do sutiã e do protetor, de 27/10/2026."
+          "Os três adesivos da Toda Up servem para coisas diferentes. O quadro junta o que a loja publica de cada um."
         ],
         "comparisonTable": {
           "headers": [
@@ -131869,8 +131886,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Reutilização, pela marca",
-              "A página não diz",
-              "Não diz quantas vezes; guardar como indica a embalagem",
+              "Sem número de usos",
+              "Sem número de usos",
               "\"Reutilizável\", \"até 30 vezes\""
             ],
             [
@@ -131888,25 +131905,25 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O protetor tem guia próprio em [protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar), com o tamanho pelo número do sutiã, a lavagem e o número de usos que a marca publica para ele. Pelas fichas, a marca indica a fita para sustentar e o protetor para o seio não marcar no tecido; o sutiã é a única das três peças que a marca descreve como uma peça pronta, com fecho e tamanho pelo busto. Qual dos três escolher depende da roupa e do que a pessoa quer da peça; os preços e os kits do quadro mudam com as campanhas da loja."
+          "A fita sustenta e se ajusta ao decote, o protetor evita que o seio marque no tecido, e o sutiã é a peça pronta, com fecho e tamanho pelo busto. O protetor tem guia próprio em [protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar). Preços e kits mudam com as campanhas da loja."
         ]
       },
       {
         "heading": "Onde comprar e preço",
         "paragraphs": [
-          "O sutiã de silicone invisível se compra no site oficial da Toda Up, na categoria Adesivos. Os preços de 27/10/2026, da unidade e do kit Leve 2, estão na seção \"O que é o sutiã de silicone invisível\" e podem mudar. O [cupom da Toda Up](/reviews/cupom-toda-up-como-usar) somou com os kits Leve 2 e Leve 3 da loja no teste de 26/10/2026, sem finalizar a compra; confira no carrinho. O botão desta página abre o site da Toda Up."
+          "O sutiã se compra no site oficial da Toda Up, na categoria Adesivos, pelo botão desta página. O [cupom da Toda Up](/reviews/cupom-toda-up-como-usar) dá 10% e somou com os kits Leve 2 e Leve 3 no carrinho."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O sutiã de silicone invisível pode ser usado mais de uma vez? A Toda Up não informa quantas vezes. A ficha só diz que lavar e guardar como indica a embalagem dá uma vida útil maior.",
-          "Qual tamanho escolher? Pelo FAQ da marca, P para busto de 38 a 42, M de 42 a 44 e G de 44 a 48.",
-          "Para qual roupa serve? A ficha cita vestido de festa e frente única, sem alças e com as costas nuas. O tomara que caia não está na ficha do sutiã.",
+          "O sutiã de silicone invisível pode ser usado mais de uma vez? A marca não diz quantas vezes. Lavar e guardar como indica a embalagem aumenta a vida útil, segundo a Toda Up.",
+          "Qual tamanho escolher? P para busto de 38 a 42, M de 42 a 44 e G de 44 a 48, pela tabela da marca.",
+          "Para qual roupa serve? Vestido de festa e frente única, sem alças e com as costas nuas. Para tomara que caia, a Toda Up indica a Fita Up.",
           "O sutiã de silicone invisível é hipoalergênico? A Toda Up diz que sim e pede um pré-teste antes da aplicação.",
-          "O cupom vale no sutiã? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026; confira no carrinho.",
-          "É a mesma coisa que a Fita Up? Não: a Fita Up é a fita que se corta e o sutiã é a peça pronta com fecho, os dois da Toda Up.",
-          "Como lavar o sutiã de silicone? Pelo FAQ da Toda Up, com água e sabão neutro, secando ao natural; higienizar quando houver sujeira e guardar como indica a embalagem."
+          "O cupom vale no sutiã? Vale: o cupom da Toda Up dá 10% e somou com os kits Leve 2 e Leve 3 no carrinho.",
+          "É a mesma coisa que a Fita Up? Não. A Fita Up é a fita que se corta, e o sutiã é a peça pronta, com fecho.",
+          "Como lavar o sutiã de silicone? Com água e sabão neutro, secando ao natural, pela orientação da Toda Up."
         ]
       }
     ]
@@ -168305,7 +168322,63 @@ export const reviewsData: unknown[] = [
           "Quer a maior faixa de tamanho, até o G3: [Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
           "Quer usar em tomara que caia ou com as alças combinadas, a partir do P: [Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
           "Quer o modelo mais minimalista, do PP ao GG: [Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), com menos peças em PP e M."
-        ]
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Comfort Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Com as alças reguláveis, por baixo de roupa de alça larga ou de manga.",
+              "occasion": "Dia a dia e trabalho.",
+              "pairsWith": [
+                {
+                  "label": "camiseta de malha"
+                },
+                {
+                  "label": "blusa de alça larga"
+                },
+                {
+                  "label": "vestido de manga"
+                }
+              ]
+            },
+            {
+              "piece": "Comfort Line",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Sem alças, como tomara que caia, ou com as alças cruzadas nas costas, como a loja mostra.",
+              "occasion": "Roupa de ombro de fora ou de costas cavadas.",
+              "pairsWith": [
+                {
+                  "label": "blusa tomara que caia"
+                },
+                {
+                  "label": "vestido ombro a ombro"
+                },
+                {
+                  "label": "regata nadador"
+                }
+              ]
+            },
+            {
+              "piece": "Comfort Slim",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Por baixo de roupa justa, para não marcar, ou aparecendo sob tecido transparente, como a loja sugere.",
+              "occasion": "Dia a dia e roupa de tecido fino.",
+              "pairsWith": [
+                {
+                  "label": "camiseta justa"
+                },
+                {
+                  "label": "camisa transparente"
+                },
+                {
+                  "label": "blusa de tule"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Perguntas frequentes",
