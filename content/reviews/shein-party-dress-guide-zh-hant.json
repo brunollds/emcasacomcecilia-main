@@ -1,0 +1,136 @@
+{
+  "id": 769,
+  "slug": "shein-party-dress-guide-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "shein-vestido-festa",
+  "title": "SHEIN 巴西站派對禮服：按場合與布料怎麼選",
+  "seoTitle": "SHEIN 巴西站派對禮服：聖誕與畢業典禮怎麼選",
+  "type": "購買指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "在 SHEIN 巴西站為畢業典禮、婚禮賓客或年末派對選購禮服：場合、布料、尺碼和配送。",
+  "metaDescription": "SHEIN 巴西站派對禮服指南：場合、布料、尺碼與配送，適用於聖誕、跨年與畢業典禮。",
+  "publishedAt": "2026年10月30日",
+  "publishedAtISO": "2026-10-30",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+  "imageAlt": "SHEIN 派對禮服，海軍藍與灰藍兩款，適合聖誕、跨年和畢業典禮",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [
+    "逐項檢查布料、裡襯和長度的清單",
+    "每件商品以公分為單位的尺碼表",
+    "說明推薦碼，避免與優惠券混淆"
+  ],
+  "cons": [
+    "配送和稅費取決於訂單和國家",
+    "標題和描述中的長度資訊可能不一致",
+    "促銷價格會變動"
+  ],
+  "cta": {
+    "text": "在 SHEIN 依名稱搜尋洋裝，付款前請在訂單摘要中核對稅費和運費。",
+    "label": "前往 SHEIN",
+    "url": "https://onelink.shein.com/55/6463grgxf6ru",
+    "sponsored": true
+  },
+  "coupon": "4CW5Y",
+  "affiliate": "shein",
+  "editorialNote": "依據 SHEIN 巴西站的商品頁面與規則，於發布當天核對。購買及推薦碼 4CW5Y 可能為我們帶來佣金。",
+  "relatedArticles": [
+    {
+      "slug": "shein-trust-guide-zh-hant",
+      "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "快速解答",
+      "paragraphs": [
+        "在 SHEIN 巴西站選派對禮服，主要看三件事：場合、布料和到貨日期。聖誕和跨年時，配送時間比剪裁更重要。畢業典禮或以婚禮賓客身分出席，要看顏色、長度和活動氛圍。本指南用店家提供的資訊，逐項說明。"
+      ]
+    },
+    {
+      "heading": "按場合選擇",
+      "paragraphs": [
+        "年末派對，時間是第一位。配送日期只顯示在訂單頁面，若派對只剩幾週，付款前請先確認。",
+        "畢業典禮：顏色和長度決定造型。看看邀請函和典禮時間。晚上適合長版或中長版，白天可以選較短的長度。",
+        "婚禮賓客：活動氛圍比款式重要。白天還是晚上，教堂還是宴會廳。選顏色前先看邀請函。",
+        "婚紗和伴娘禮服不在本指南範圍內。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+          "alt": "戶外穿著海軍藍亮片長洋裝、帶側開衩的模特",
+          "caption": "SHEIN 官方圖片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506
+        }
+      ]
+    },
+    {
+      "heading": "讀懂商品描述",
+      "paragraphs": [
+        "描述裡的資訊比圖片多。請留意："
+      ],
+      "bullets": [
+        "**布料：** 聚酯纖維加彈性纖維在這類洋裝中很常見。看成分比例，不只看名稱。",
+        "**裡襯與透明度：** 沒有裡襯時，內搭的顏色可能透出來。",
+        "**長度：** 中長、長版和短版的感覺不同。標題和描述有時不一致，請以公分為單位的尺寸為準。",
+        "**洗護：** 描述會說明是機洗、手洗還是只能乾洗。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+          "alt": "側身站立，穿著灰藍色單肩洋裝與網紗裙襬的模特",
+          "caption": "SHEIN 官方圖片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506
+        }
+      ]
+    },
+    {
+      "heading": "尺碼：看衣服本身的尺寸",
+      "paragraphs": [
+        "SHEIN 為每件商品提供尺碼表，單位有公分和英吋，並附測量方法。PP 到 GG 沒有統一的表，請使用所選洋裝的尺碼表。大尺碼的方法相同：比較衣服尺寸和自己的尺寸，不要只看標籤上的數字。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+          "alt": "背對鏡頭，穿著海軍藍短袖中長洋裝的模特",
+          "caption": "SHEIN 官方圖片。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7792
+        }
+      ]
+    },
+    {
+      "heading": "配送與退貨",
+      "paragraphs": [
+        "配送時間和退貨條件取決於賣家、收件地和訂單。最新規則在店家頁面，訂單摘要在付款前會顯示預計配送日期。"
+      ]
+    },
+    {
+      "heading": "付款前",
+      "paragraphs": [
+        "稅費和運費取決於訂單和國家，請在付款前的訂單摘要中核對。4CW5Y 是 SHEIN 巴西站的推薦碼，不是優惠券。它要在應用程式中搜尋，也不提供折扣。使用方法見[推薦碼指南](/zh-hant/reviews/shein-referral-code-zh-hant)，目前活動見 [SHEIN 店家頁](/zh-hant/coupons/shein)。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "SHEIN 派對禮服趕得上聖誕嗎？ 取決於下單日期和訂單頁面顯示的配送時間。把這個日期和派對日期比較一下。",
+        "怎麼判斷是長版還是中長版？ 看商品描述中的長度，以及尺碼表中以公分為單位的尺寸。",
+        "4CW5Y 能打折嗎？ 不能。它是推薦碼，不是優惠券，也不提供折扣。"
+      ]
+    }
+  ]
+}

@@ -123458,8 +123458,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Melhor whey zero lactose",
         "paragraphs": [
-          "Para quem quer whey sem lactose, o que mais compensa é o 100% Pure Whey Zero Lactose 900 g da Probiótica. Em 23/10/2026 custava R$ 241,97, com 22 g de proteína em 30 g (73%), 30 porções e R$ 36,66 por 100 g. O rótulo diz que é produzido com WPC sem lactose, e o alergênico traz \"derivados de leite\". Tem 3 sabores: Chocolate, Morango e Baunilha. Foi o único whey declarado sem lactose nas cinco lojas em 23/10/2026.",
-          "A alternativa é o Iso Pro Whey da Probiótica, um isolado (WPI) com 26 g de proteína em 30 g (87%), 1,3 g de carboidrato por dose, R$ 346,28 e R$ 44,40 por 100 g. A loja não o declara como zero lactose, e o alergênico cita derivados de leite e soja: por isso ele entra como alternativa de proteína, não como whey sem lactose.",
+          "Para quem quer whey sem lactose, o que mais compensa é o 100% Pure Whey Zero Lactose 900 g da Probiótica. Em 23/10/2026 custava R$ 241,97, com 21 g de proteína em 30 g (70%, na tabela do chocolate), 30 porções e R$ 38,41 por 100 g. O rótulo diz que é produzido com WPC sem lactose, e o alergênico traz \"derivados de leite\". Tem 3 sabores: Chocolate, Morango e Baunilha. Foi o único whey declarado sem lactose nas cinco lojas em 23/10/2026.",
+          "A alternativa é o Iso Pro Whey da Probiótica, um isolado (WPI) com 26 g de proteína em 30 g (87%), 1,3 g de carboidrato por dose, R$ 346,28 e R$ 44,39 por 100 g. A loja não o declara como zero lactose, e o alergênico cita derivados de leite e soja: por isso ele entra como alternativa de proteína, não como whey sem lactose.",
           "Nas outras marcas, nada declara \"sem lactose\" nesta leitura. A Max não tem whey zero lactose: o \"Zero Lactose\" do menu dela é o Mass Titanium 17500, um hipercalórico. Na Black Skull, todos os wheys contêm lactose. No Whey Dr. Peanut, o rótulo diz que contém lactose, e nos wheys da Mais Mu a página diz que contém lactose ou não declara nada."
         ],
         "postParagraphs": [
@@ -123477,7 +123477,7 @@ export const reviewsData: unknown[] = [
         "heading": "Melhor whey isolado",
         "paragraphs": [
           "Para quem quer um isolado, o que mais compensa é o IsoWhey 900 g da Max Titanium. Em 23/10/2026 custava R$ 326,18 (R$ 316,39 no Pix), com 26 g de proteína em 30 g (87%), 30 porções e R$ 41,82 por 100 g de proteína. Tem 2,3 g de carboidrato por dose, 3 sabores, e contém lactose (alergênicos: leite e soja).",
-          "A alternativa é o Iso Pro Whey 900 g da Probiótica: R$ 346,28, 26 g em 30 g (87%), 30 porções e R$ 44,40 por 100 g de proteína, R$ 2,58 a mais que o IsoWhey. A tabela dele traz também vitaminas e minerais, e o carboidrato é de 1,3 g por dose.",
+          "A alternativa é o Iso Pro Whey 900 g da Probiótica: R$ 346,28, 26 g em 30 g (87%), 30 porções e R$ 44,39 por 100 g de proteína, R$ 2,57 a mais que o IsoWhey. A tabela dele traz também vitaminas e minerais, e o carboidrato é de 1,3 g por dose.",
           "A Black Skull não tinha whey isolado no site em 23/10/2026: a busca por \"isolado\" voltou sem resultado. A Mais Mu vende um isolado em pote de 450 g, mas a lista de ingredientes traz isolada, concentrada e hidrolisada do soro, e a conta dá R$ 85,22 por 100 g de proteína: está no quadro-mestre."
         ],
         "postParagraphs": [
@@ -123616,6 +123616,77 @@ export const reviewsData: unknown[] = [
         }
       },
       {
+        "heading": "Probiótica: concentrado ou isolado",
+        "paragraphs": [
+          "Preços de 30/10/2026, no cartão. A proteína por dose é a da tabela nutricional do sabor indicado em cada linha."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Tipo de proteína",
+            "Proteína por dose",
+            "Preço no cartão",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[100% Pure Whey pote, baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "Concentrado (WPC)",
+              "20 g em 30 g",
+              "R$ 252,49",
+              "R$ 42,08"
+            ],
+            [
+              "[Iso Pro Whey pote, baunilha](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "Isolado (WPI)",
+              "26 g em 30 g",
+              "R$ 346,28",
+              "R$ 44,39"
+            ],
+            [
+              "[100% Pure Whey Zero Lactose pote, chocolate](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "Concentrado sem lactose (WPC)",
+              "21 g em 30 g",
+              "R$ 241,97",
+              "R$ 38,41"
+            ],
+            [
+              "[Iso Protein Blend, morango](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "Isolado de soja + concentrado do soro",
+              "25 g em 40 g",
+              "R$ 79,00 (promoção, de R$ 121,99)",
+              "R$ 13,74 (R$ 21,22 sem a promoção)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Iso Pro é o isolado de soro: 26 g por dose e 1,3 g de carboidrato, pelo maior preço por proteína da tabela. Para whey sem lactose, o zero lactose de chocolate sai abaixo do pote de baunilha. O Iso Protein Blend é soja isolada com concentrado do soro, não isolado de soro: na promoção ele sai mais barato, mas a proteína é outra."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/whey/probiotica-100-pure-whey-baunilha.webp",
+            "alt": "Pote azul de 900 g do 100% Pure Whey da Probiótica, sabor Baunilha, de frente",
+            "caption": "Foto oficial da Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 0.588
+          },
+          {
+            "src": "/images/reviews/whey/probiotica-iso-pro-baunilha.webp",
+            "alt": "Pote azul de 900 g do Iso Pro Whey da Probiótica, sabor Baunilha, de frente",
+            "caption": "Foto oficial da Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6022
+          },
+          {
+            "src": "/images/reviews/whey/probiotica-iso-protein-blend-morango.webp",
+            "alt": "Pote azul de 900 g do Iso Protein Blend da Probiótica, sabor Morango, de frente",
+            "caption": "Foto oficial da Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 0.588
+          }
+        ]
+      },
+      {
         "heading": "Quadro-mestre: todos os wheys das cinco lojas",
         "paragraphs": [
           "Todos os wheys em pó das cinco lojas que tiveram a proteína por dose lida, na mesma régua. O quadro não ordena nem pontua: o número mais baixo não é, sozinho, a melhor compra, porque a dose, o tipo de proteína e a lactose mudam de produto para produto."
@@ -123721,8 +123792,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Probiótica 100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "22 g em 30 g",
-              "R$ 36,66",
+              "21 g em 30 g",
+              "R$ 38,41",
               "R$ 241,97",
               "Concentrado sem lactose (WPC)",
               "Declara \"sem lactose\"; o alergênico cita derivados de leite"
@@ -123746,7 +123817,7 @@ export const reviewsData: unknown[] = [
             [
               "[Probiótica Iso Pro Whey 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "26 g em 30 g",
-              "R$ 44,40",
+              "R$ 44,39",
               "R$ 346,28",
               "Isolado (WPI)",
               "Não declara"
@@ -123860,14 +123931,14 @@ export const reviewsData: unknown[] = [
             [
               "Whey sem lactose",
               "[Probiótica 100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "R$ 36,66",
-              "[Probiótica Iso Pro Whey 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 44,40 (a loja não declara zero lactose)"
+              "R$ 38,41",
+              "[Probiótica Iso Pro Whey 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 44,39 (a loja não declara zero lactose)"
             ],
             [
               "Whey isolado",
               "[Max Titanium IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
               "R$ 41,82",
-              "Probiótica Iso Pro Whey 900 g, R$ 44,40"
+              "Probiótica Iso Pro Whey 900 g, R$ 44,39"
             ],
             [
               "Whey 3W (concentrado, isolado e hidrolisado)",
@@ -123960,7 +124031,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual o melhor whey custo-benefício em 2026? Não existe um só: pelo preço por 100 g de proteína lido em 23/10/2026, o Whey 80% HD Refil da Black Skull saía a R$ 23,17 e o Hiper 100% Whey da Probiótica, em promoção, a R$ 23,61. O capítulo de custo-benefício traz os dois.",
-          "Whey concentrado ou isolado: qual o melhor? Depende do que você procura. Pelas tabelas, o isolado tem 26 g de proteína em dose de 30 g, contra 20 g a 23 g do concentrado, e custa mais por proteína: R$ 41,82 a R$ 44,40 por 100 g, contra R$ 23,17 do concentrado mais barato do guia.",
+          "Whey concentrado ou isolado: qual o melhor? Depende do que você procura. Pelas tabelas, o isolado tem 26 g de proteína em dose de 30 g, contra 20 g a 23 g do concentrado, e custa mais por proteína: R$ 41,82 a R$ 44,39 por 100 g, contra R$ 23,17 do concentrado mais barato do guia.",
           "Whey 3W ou 100%: qual escolher? O \"100%\" não é um tipo de proteína: o 100% Whey da Max é só concentrado, e o 100% HD da Black Skull mistura concentrado, isolado e hidrolisado. O Top Whey 3W \"+ Sabor\" da Max saía a R$ 33,60 por 100 g de proteína em promoção em 23/10/2026, perto dos R$ 31,17 do 100% Whey Refil.",
           "Qual whey não tem lactose? Entre as cinco lojas, só o 100% Pure Whey Zero Lactose da Probiótica declara \"sem lactose\" (R$ 241,97 em 23/10/2026), e o alergênico dele cita derivados de leite. O Iso Pro Whey não declara lactose, mas a loja não o vende como zero lactose; quem tem intolerância ou alergia deve conferir o rótulo.",
           "Qual whey é melhor para iniciantes? Para começar sem comprar 900 g, as opções lidas são o pote de 450 g e a caixa de sachês da Mais Mu e o Gourmet 450 g da Black Skull, com só 12 g de proteína por dose. Este guia não indica quantidade: quem tem dúvida sobre dose deve falar com nutricionista.",
@@ -157965,7 +158036,7 @@ export const reviewsData: unknown[] = [
         "heading": "Sousplat e taça ficam de fora",
         "paragraphs": [
           "O sousplat é opcional no dia a dia. Se quiser um, o [Sousplat Liso Verde 33 cm, da Wolff](https://letseatit.com.br/products/sousplat-liso-verde-33cm-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de plástico pela ficha, custa R$ 21,90 cada.",
-          "A taça ficou fora da conta porque a de preço mais baixo disponível em 29/10/2026 vem só em jogo: o [Conjunto 6 Taças base Esfera Âmbar Sphere 450 ml](https://letseatit.com.br/products/taca-base-esfera-ambar-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 264,00."
+          "A taça ficou fora da conta porque a Sphere só é vendida em jogo de 6: o [Conjunto 6 Taças base Esfera Âmbar Sphere 450 ml](https://letseatit.com.br/products/taca-base-esfera-ambar-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 298,00."
         ]
       },
       {
@@ -157987,7 +158058,7 @@ export const reviewsData: unknown[] = [
           "O que comprar primeiro para a mesa posta? O tecido: um jogo americano e um guardanapo por pessoa, que funcionam com os pratos e talheres que você já tem.",
           "Quanto custa uma mesa posta para 2 pessoas? Com as peças deste guia, a partir de R$ 414,80 no cartão, com o faqueiro de 12 peças inteiro, pelos preços de 29/10/2026.",
           "Quanto custa uma mesa posta para 4 pessoas? De R$ 630,60 na faixa econômica a R$ 849,20 na intermediária, no cartão e sem frete, pelos preços de 29/10/2026.",
-          "Dá para montar a mesa posta sem taça? Sim. A taça ficou fora da conta porque a opção disponível de preço mais baixo vem em jogo de 6, por R$ 264,00.",
+          "Dá para montar a mesa posta sem taça? Sim. A taça ficou fora da conta porque a Sphere só é vendida em jogo de 6, de R$ 289,00 a R$ 298,00.",
           "Guardanapo de tecido pode ir na máquina? Pela ficha do Poá Terracota e do Bordado Oliva, não: a lavagem é à mão, até 40 °C, sem secadora e sem alvejante."
         ]
       },
@@ -167545,7 +167616,7 @@ export const reviewsData: unknown[] = [
               "28 de 40; PP a XGG"
             ],
             [
-              "Daily",
+              "[Daily](https://creators.insiderstore.com.br/bRopqTz)",
               "94% viscose, 6% elastano",
               "R$ 99 (de R$ 139)",
               "31 de 37; P a XGG"
@@ -167594,7 +167665,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) é de 92% modal e 8% elastano e custa R$ 129. Pela descrição oficial, ela desamassa no corpo e não desbota com as lavagens, e a marca diz que a peça tem efeito antiodor.",
           "A garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, considerando uma lavagem por semana. As outras linhas não trazem essa garantia.",
-          "Quem leva mais de uma pode olhar o kit: o de 5 Tech sai a R$ 108,88 por peça, e o cupom entra por cima. A conta está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa)."
+          "Quem leva mais de uma pode olhar o kit: o de 5 Tech sai a R$ 108,88 por peça, e o cupom entra por cima. A conta está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
+          "As versões femininas, com a Tech, a Gola V e a manga longa, estão em [Camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher)."
         ],
         "images": [
           {
@@ -167604,6 +167676,14 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
+        ],
+        "bullets": [
+          "**Tech T-Shirt, como usar:** é a lisa de todo dia, sozinha ou por baixo de uma camisa aberta.",
+          "**Tech T-Shirt, ocasião:** dia a dia, viagem e trabalho sem formalidade.",
+          "**Tech T-Shirt, combina com:** [Calça Futureform](https://creators.insiderstore.com.br/BnhNLQr), que a Insider vende com a Tech no conjunto Tech Essence, ou [Bermuda Future Shorts](https://creators.insiderstore.com.br/WoER4yJ), do Kit Presente Tecnológico; do armário, jeans escuro ou calça de sarja bege.",
+          "**Tech preta, combina com:** jeans, calça cinza ou bege e tênis branco.",
+          "**Tech branca, combina com:** jeans de qualquer lavagem, calça preta ou azul-marinho e blazer por cima.",
+          "**Tech cinza, combina com:** calça preta, jeans escuro ou azul-marinho; evite calça do mesmo cinza."
         ]
       },
       {
@@ -167627,13 +167707,18 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.8344
           }
+        ],
+        "bullets": [
+          "**Heavy e Heavy Slim, como usar:** o tecido mais encorpado marca menos o corpo; a Slim, de gola fina e tronco ajustado, fica mais rente.",
+          "**Heavy e Heavy Slim, ocasião:** por baixo de blazer ou jaqueta, em cor neutra.",
+          "**Heavy e Heavy Slim, combina com:** [Calça Director](https://creators.insiderstore.com.br/tyUZiw9) e, do armário, blazer azul-marinho ou cinza."
         ]
       },
       {
         "heading": "Core e Daily: viscose, gramatura e encolhimento",
         "paragraphs": [
           "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), por R$ 179 (de R$ 189), é a que a loja descreve com maior gramatura, modelagem regular e textura leve.",
-          "A Daily custa R$ 99 (de R$ 139), o menor preço da tabela. A página avisa que ela pode encolher até 2 cm no comprimento depois da primeira lavagem e que já tem o desconto máximo, por isso não aceita cupom."
+          "A [Daily](https://creators.insiderstore.com.br/bRopqTz) custa R$ 99 (de R$ 139), o menor preço da tabela. A página avisa que ela pode encolher até 2 cm no comprimento depois da primeira lavagem e que já tem o desconto máximo, por isso não aceita cupom."
         ],
         "images": [
           {
@@ -167650,6 +167735,14 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
+        ],
+        "bullets": [
+          "**Core, como usar:** modelagem regular e textura leve, para usar sozinha.",
+          "**Core, ocasião:** fim de semana e dias de calor.",
+          "**Core, combina com:** [Bermuda Future Shorts](https://creators.insiderstore.com.br/WoER4yJ) ou, do armário, bermuda de sarja com tênis branco.",
+          "**Daily, como usar:** a de menor preço, para ficar em casa ou ir por baixo do moletom.",
+          "**Daily, ocasião:** casa e fim de semana.",
+          "**Daily, combina com:** qualquer bermuda ou jeans do armário."
         ]
       },
       {
@@ -167681,6 +167774,17 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
+        ],
+        "bullets": [
+          "**Polo, como usar:** a gola e os botões arrumam o visual sem chegar a ser camisa.",
+          "**Polo, ocasião:** trabalho casual e almoço; com calça social, é a escolha mais segura entre as camisetas.",
+          "**Polo, combina com:** [Bermuda Future Shorts](https://creators.insiderstore.com.br/WoER4yJ), que a Insider vende com a polo no Kit Presente Casual, e calça social ou chino do armário.",
+          "**Henley, como usar:** os botões na gola deixam a peça entre a camiseta e a polo.",
+          "**Henley, ocasião:** passeio e noite, sem formalidade.",
+          "**Henley, combina com:** [Calça Jogger Hybrid](https://creators.insiderstore.com.br/HEARAam), que a loja vende junto com a Henley, e jeans do armário.",
+          "**NEXTECH, como usar:** sozinha, como peça principal; o caimento é levemente encorpado, segundo a loja.",
+          "**NEXTECH, ocasião:** viagem e dia a dia.",
+          "**NEXTECH, combina com:** [Calça Jogger Hybrid](https://creators.insiderstore.com.br/HEARAam) e jeans do armário."
         ]
       },
       {
@@ -167688,6 +167792,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A [Performance T-Shirt 2.0](https://creators.insiderstore.com.br/2Jr6KZn) é de 100% poliamida e sai por R$ 199 a R$ 259. A loja fala em proteção UV50+ e em tecnologia Outlast. A [Sportee](https://creators.insiderstore.com.br/h9UmGZj), de 90% poliamida e 10% elastano, sai por R$ 149 a R$ 155 e também traz UV50+ na descrição. São peças de treino.",
           "A [Tech de manga longa](https://creators.insiderstore.com.br/xAZHBLg) é a mesma Tech em manga longa e sai de R$ 169 a R$ 239, conforme a cor e o tamanho."
+        ],
+        "bullets": [
+          "**Performance e Sportee, ocasião:** treino e atividade ao ar livre.",
+          "**Performance T-Shirt 2.0, combina com:** [Calça Jogger Hybrid](https://creators.insiderstore.com.br/HEARAam), que a Insider vende junto com ela; a loja também vende a Tech com o [Shorts Esportivo Endorphine](https://creators.insiderstore.com.br/eWVF5vU).",
+          "**Tech manga longa, como usar:** sozinha no frio ou por baixo de jaqueta e camisa aberta.",
+          "**Tech manga longa, ocasião:** trabalho casual no inverno.",
+          "**Tech manga longa, combina com:** [Calça Jogger Hybrid](https://creators.insiderstore.com.br/HEARAam), que a loja vende junto com ela, e jeans escuro do armário."
         ]
       },
       {
@@ -167711,6 +167822,8 @@ export const reviewsData: unknown[] = [
           "A Tech T-Shirt desbota? A loja diz que não, e a garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, com uma lavagem por semana.",
           "A Core encolhe? A página da Core não traz aviso de encolhimento. O aviso de até 2 cm é da Daily.",
           "Qual a diferença entre Tech e Heavy? Pela descrição da loja, a Heavy é 20% mais encorpada que a Tech e tem caimento mais liso. As duas são de 92% modal e 8% elastano.",
+          "Dá para usar camiseta com calça social? Dá, num visual de trabalho menos formal: a polo ou uma camiseta lisa de cor neutra.",
+          "Qual camiseta usar por baixo do blazer? Lisa, de cor neutra e gola careca. Entre as da Insider, a Heavy é mais encorpada que a Tech e marca menos o corpo.",
           "O cupom vale na Daily? Não. A página diz que a Daily já tem o desconto máximo.",
           "Kit de camiseta compensa? O kit de 5 Tech sai a R$ 108,88 por peça, e o cupom entra por cima. A conta está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
           "Dá para devolver se não servir? Sim, dentro dos prazos: 7 dias úteis para desistir da compra e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem."
@@ -168460,6 +168573,2315 @@ export const reviewsData: unknown[] = [
       {
         "slug": "presente-de-natal-insider-kits-gift-card",
         "title": "Presente de Natal na Insider: kits, gift card, sacola e troca de presente"
+      }
+    ]
+  },
+  {
+    "id": 758,
+    "slug": "glutamina-qual-escolher-black-skull-max-probiotica",
+    "locale": "pt",
+    "title": "Glutamina: Black Skull, Max Titanium ou Probiótica, qual compensa pelo rótulo e pelo preço por 100 g",
+    "seoTitle": "Glutamina: qual compensa, Black Skull, Max ou Probiótica",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Glutamina da Black Skull, da Max Titanium e da Probiótica comparada pelo rótulo e pelo preço por 100 g, com a Turbo e os potes de 120 g e 150 g.",
+    "metaDescription": "Glutamina: Black Skull, Max ou Probiótica? Rótulo, preço por 100 g e por dose, e o cupom de cada loja.",
+    "publishedAt": "30 de outubro de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa.webp",
+    "imageAlt": "Potes de 300 g de glutamina da Black Skull, da Max Titanium e da Probiótica, com os logos das três lojas",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para pagar menos por grama de glutamina, o pote de 300 g da Max Titanium ou o da Probiótica sai a R$ 23,30 por 100 g, abaixo dos R$ 26,63 da Black Skull. Os potes de 120 g e 150 g custam cerca de 40% mais por grama. A Turbo, da Black Skull, leva maltodextrina na fórmula e estava sem estoque no dia da publicação."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Usamos só o que as lojas publicam: rótulo, preço de venda e tamanho do pote. Comparamos os potes de glutamina das lojas oficiais, sem marketplace. Ninguém da equipe usou estes produtos.",
+          "As contas são nossas, arredondadas no centavo:"
+        ],
+        "bullets": [
+          "**R$ por 100 g:** preço ÷ peso do pote × 100.",
+          "**R$ por dose:** preço ÷ doses do rótulo."
+        ]
+      },
+      {
+        "heading": "Os seis potes pelo preço",
+        "paragraphs": [
+          "Preços de 30/10/2026, no cartão. Peso, doses e glutamina são do rótulo; as contas por 100 g e por dose são nossas."
+        ],
+        "comparisonTable": {
+          "caption": "Seis potes de glutamina, do maior para o menor, com preço no cartão e a conta por grama.",
+          "headers": [
+            "Produto",
+            "Peso",
+            "Doses",
+            "Preço no cartão",
+            "R$ por 100 g",
+            "R$ por dose"
+          ],
+          "rows": [
+            [
+              "[Max Titanium L-G 300 g](https://www.maxtitanium.com.br/glutamina-l-g-pote-300g/p)",
+              "300 g",
+              "60",
+              "R$ 69,90",
+              "R$ 23,30",
+              "R$ 1,17"
+            ],
+            [
+              "[Probiótica L-Glutamine 300 g](https://www.probiotica.com.br/l-glutamine-pote-300/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "300 g",
+              "60",
+              "R$ 69,90",
+              "R$ 23,30",
+              "R$ 1,17"
+            ],
+            [
+              "[Black Skull Glutamine 300 g](https://www.blackskullusa.com.br/glutamine-caveira-preta--glutamina--300g/p)",
+              "300 g",
+              "60",
+              "R$ 79,90",
+              "R$ 26,63",
+              "R$ 1,33"
+            ],
+            [
+              "[Black Skull Glutamine Turbo 300 g](https://www.blackskullusa.com.br/glutamine-turbo-caveira-preta--glutamina--300g/p)",
+              "300 g",
+              "60",
+              "R$ 49,90 (sem estoque)",
+              "R$ 16,63 (R$ 33,27 de glutamina)",
+              "R$ 0,83"
+            ],
+            [
+              "[Max Titanium L-G 150 g](https://www.maxtitanium.com.br/glutamina-l-g-pote-150g/p)",
+              "150 g",
+              "30",
+              "R$ 49,27",
+              "R$ 32,85",
+              "R$ 1,64"
+            ],
+            [
+              "[Probiótica L-Glutamine 120 g](https://www.probiotica.com.br/l-glutamine-pote-120g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "120 g",
+              "24",
+              "R$ 39,41",
+              "R$ 32,84",
+              "R$ 1,64"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "O rótulo de cada pote",
+        "paragraphs": [
+          "Black Skull Glutamine, Max L-G e Probiótica L-Glutamine declaram a mesma coisa: L-glutamina, 5.000 mg por dose de 5 g. A Probiótica escreve “pura” na frente do pote, mas a lista de ingredientes diz só L-Glutamina."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-tabela.webp",
+          "alt": "Tabela nutricional do pote de 300 g da Probiótica L-Glutamine, com 60 porções de 5 g e 5.000 mg de glutamina",
+          "caption": "Tabela nutricional oficial do pote de 300 g da Probiótica.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8519
+        }
+      },
+      {
+        "heading": "A Turbo não é só glutamina",
+        "paragraphs": [
+          "A Turbo declara 2.500 mg de glutamina e 2,5 g de maltodextrina em cada dose de 5 g. Metade da porção é carboidrato. Por isso a conta por 100 g de glutamina é a que compara com os potes puros: R$ 33,27, contra R$ 23,30 do pote de 300 g da Max ou da Probiótica."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-tabela.webp",
+          "alt": "Tabela nutricional da Black Skull Glutamine Turbo, com 2.500 mg de glutamina e 2,5 g de carboidrato por porção de 5 g",
+          "caption": "Tabela nutricional oficial da Black Skull Glutamine Turbo.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6878
+        }
+      },
+      {
+        "heading": "Pote de 300 g ou menor",
+        "paragraphs": [
+          "Os potes de 300 g da Max e da Probiótica empatam: 60 doses por R$ 69,90. Segundo a Max, a matéria-prima da L-G é de fonte vegetal.",
+          "Os potes menores saem mais caros por grama. O de 120 g da Probiótica tem 24 doses e o de 150 g da Max tem 30, ambos a R$ 32,8 por 100 g, cerca de 40% mais que o de 300 g da mesma marca."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-tabela.webp",
+          "alt": "Tabela nutricional do pote de 300 g da Max Titanium L-G, com 60 porções de 5 g e 5.000 mg de glutamina",
+          "caption": "Tabela nutricional oficial do pote de 300 g da Max Titanium L-G.",
+          "objectFit": "contain",
+          "aspectRatio": 1.1749
+        }
+      },
+      {
+        "heading": "Quem escolhe o quê",
+        "bullets": [
+          "**Menor preço por grama de glutamina pura:** Max Titanium ou Probiótica, pote de 300 g.",
+          "**Marca da Black Skull:** o pote de 300 g, R$ 26,63 por 100 g.",
+          "**Quer testar antes de comprar o pote grande:** o de 120 g da Probiótica ou o de 150 g da Max, com o preço por grama mais alto."
+        ]
+      },
+      {
+        "heading": "Cupom de cada loja",
+        "paragraphs": [
+          "Os três cupons valem em todas as formas de pagamento: CECILIA10 dá 10% em todo o site da Black Skull, e MAX10EMCASACOMCECILIA e PRO10EMCASACOMCECILIA dão até 10%, com o percentual variando por item."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A glutamina da Black Skull é pura? A lista de ingredientes diz só L-Glutamina, e a Turbo é a exceção, porque leva maltodextrina.",
+          "A Turbo tem glutamina? Tem: 2.500 mg por dose de 5 g, junto com 2,5 g de maltodextrina.",
+          "A Black Skull tem pote de 500 g? Não no catálogo do dia da publicação, que traz só o de 300 g e a Turbo.",
+          "Qual é a porção? Os rótulos dos três indicam 5 g por porção, com 5.000 mg de L-glutamina; na Turbo, metade é maltodextrina."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Podemos receber comissão pela Black Skull, pela Max Titanium e pela Probiótica. Preços e estoque são os do dia da publicação e mudam com as promoções. Ninguém da equipe usou os produtos."
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
+        "alt": "Pote de 300 g da Black Skull Glutamine, frente",
+        "caption": "Foto oficial da Black Skull.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8722
+      },
+      {
+        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-tabela.webp",
+        "alt": "Tabela nutricional da Black Skull Glutamine 300 g",
+        "caption": "Foto oficial da Black Skull.",
+        "objectFit": "contain",
+        "aspectRatio": 0.6922
+      },
+      {
+        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-frente.webp",
+        "alt": "Pote de 300 g da Black Skull Glutamine Turbo, frente",
+        "caption": "Foto oficial da Black Skull.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8589
+      },
+      {
+        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
+        "alt": "Pote de 300 g da Max Titanium L-G, frente",
+        "caption": "Foto oficial da Max Titanium.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8833
+      },
+      {
+        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-verso.webp",
+        "alt": "Pote de 300 g da Max Titanium L-G, verso",
+        "caption": "Foto oficial da Max Titanium.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8811
+      },
+      {
+        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-frente.webp",
+        "alt": "Pote de 150 g da Max Titanium L-G, frente",
+        "caption": "Foto oficial da Max Titanium.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8844
+      },
+      {
+        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-tabela.webp",
+        "alt": "Tabela nutricional do pote de 150 g da Max Titanium L-G, com 30 porções de 5 g",
+        "caption": "Foto oficial da Max Titanium.",
+        "objectFit": "contain",
+        "aspectRatio": 1.1749
+      },
+      {
+        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
+        "alt": "Pote de 300 g da Probiótica L-Glutamine, frente",
+        "caption": "Foto oficial da Probiótica.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8822
+      },
+      {
+        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-frente.webp",
+        "alt": "Pote de 120 g da Probiótica L-Glutamine, frente",
+        "caption": "Foto oficial da Probiótica.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8822
+      },
+      {
+        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-tabela.webp",
+        "alt": "Tabela nutricional do pote de 120 g da Probiótica L-Glutamine, com 24 porções de 5 g",
+        "caption": "Foto oficial da Probiótica.",
+        "objectFit": "contain",
+        "aspectRatio": 1.8519
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "editorialNote": "Podemos receber comissão pela Black Skull, pela Max Titanium e pela Probiótica. Guia pelo rótulo e pelo preço do dia; não usamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "creatina-black-skull-qual-escolher",
+        "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa"
+      },
+      {
+        "slug": "creatina-max-titanium-qual-pote",
+        "title": "Creatina Max Titanium: qual pote compensa (100 g, 300 g, 500 g) e se é Creapure"
+      },
+      {
+        "slug": "creatina-probiotica-qual-compensa",
+        "title": "Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo"
+      },
+      {
+        "slug": "cupom-black-skull-como-usar",
+        "title": "Como usar o cupom CECILIA10 na Black Skull: 10% em todo o site"
+      },
+      {
+        "slug": "cupom-max-titanium-como-usar",
+        "title": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium: até 10% de desconto"
+      },
+      {
+        "slug": "cupom-probiotica-como-usar",
+        "title": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% de desconto"
+      }
+    ]
+  },
+  {
+    "id": 759,
+    "slug": "taca-base-esfera-e-tacas-coloridas",
+    "locale": "pt",
+    "title": "Taça base esfera: conjunto ou unidade, e qual cor escolher",
+    "seoTitle": "Taça base esfera: conjunto ou unidade, qual cor e qual tamanho",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A taça base esfera da Let's Eat It só sai em conjunto. Veja as cores, a diferença entre 450 ml e 250 ml, o preço por taça e as opções coloridas para champanhe, água e vinho.",
+    "metaDescription": "Taça base esfera só em conjunto: cores, tamanhos, preço por taça e opções coloridas para champanhe, água e vinho, com o preço do cartão.",
+    "publishedAt": "30 de outubro de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-capa.webp",
+    "imageAlt": "Taças coloridas de champanhe, água e vinho vendidas pela Let's Eat It, com o logo da loja",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A taça base esfera da Let's Eat It vem só em conjunto: 6 peças, 6 + 6 ou 12 + 12, nas cores âmbar, azul, verde e rosa. O conjunto de 450 ml custa R$ 298,00 no cartão, e o de champanhe, de 250 ml, R$ 289,00. Antes de escolher, conte quantas pessoas vão à mesa e qual bebida elas vão servir."
+        ]
+      },
+      {
+        "heading": "Conjunto ou unidade: só conjunto",
+        "paragraphs": [
+          "A loja não vende a taça Sphere avulsa. Toda peça da linha sai em jogo de 6, no kit com 6 taças de vinho e 6 de champanhe, ou no kit de 12 + 12.",
+          "Para 4 pessoas que servem vinho e champanhe, o kit 6 + 6 cobre a mesa. Se a mesa recebe só um tipo de bebida, um jogo de 6 basta."
+        ]
+      },
+      {
+        "heading": "Qual cor",
+        "paragraphs": [
+          "A linha tem quatro cores: âmbar, azul, verde e rosa. O âmbar é o mais fácil de combinar com madeira, linho e louça clara. Azul e verde dão contraste com o branco. O rosa é o que mais muda o clima da mesa."
+        ]
+      },
+      {
+        "heading": "Qual tamanho: 450 ml ou 250 ml",
+        "paragraphs": [
+          "A taça de 450 ml mede 15 cm de altura e 8,5 cm de diâmetro, segundo a loja. É de vidro, transparente, com base colorida.",
+          "A de 250 ml tem o nome de taça para champanhe. A descrição da loja não diz para qual bebida serve a de 450 ml."
+        ]
+      },
+      {
+        "heading": "Quanto custa cada taça Sphere",
+        "paragraphs": [
+          "Preços de 30/10/2026, no cartão, sem frete."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Conjunto",
+            "Preço (cartão)",
+            "Por taça"
+          ],
+          "rows": [
+            [
+              "[Conjunto 6 taças base esfera 450 ml, âmbar](https://letseatit.com.br/products/taca-base-esfera-ambar-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 298,00",
+              "R$ 49,67"
+            ],
+            [
+              "[Conjunto 6 taças base esfera 450 ml, azul](https://letseatit.com.br/products/taca-base-esfera-azul-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 298,00",
+              "R$ 49,67"
+            ],
+            [
+              "[Conjunto 6 taças base esfera 450 ml, verde](https://letseatit.com.br/products/taca-base-esfera-verde-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 298,00",
+              "R$ 49,67"
+            ],
+            [
+              "[Conjunto 6 taças base esfera 450 ml, rosa](https://letseatit.com.br/products/taca-base-esfera-rosa-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 298,00",
+              "R$ 49,67"
+            ],
+            [
+              "[Conjunto 6 taças para champanhe base esfera 250 ml, âmbar](https://letseatit.com.br/products/taca-para-champagne-base-esfera-ambar-sphere-250ml-1?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 289,00",
+              "R$ 48,17"
+            ],
+            [
+              "[Conjunto 6 taças para champanhe base esfera 250 ml, azul](https://letseatit.com.br/products/taca-para-champagne-base-esfera-azul-sphere-250ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 289,00",
+              "R$ 48,17"
+            ],
+            [
+              "[Conjunto 6 taças para champanhe base esfera 250 ml, verde](https://letseatit.com.br/products/taca-para-champagne-base-esfera-verde-sphere-250ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 289,00",
+              "R$ 48,17"
+            ],
+            [
+              "[Conjunto 6 taças para champanhe base esfera 250 ml, rosa](https://letseatit.com.br/products/taca-para-champagne-base-esfera-rosa-sphere-250ml-1?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 289,00",
+              "R$ 48,17"
+            ],
+            [
+              "[Kit 6 taças de vinho e 6 de champanhe base esfera, âmbar](https://letseatit.com.br/products/kit-6-tacas-vinho-e-6-tacas-champagne-esfera-ambar-sphere?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 557,00",
+              "R$ 46,42"
+            ],
+            [
+              "[Kit 12 taças de vinho e 12 de champanhe base esfera, âmbar](https://letseatit.com.br/products/kit-12-tacas-vinho-e-12-tacas-champagne-base-esfera-ambar-sphere?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 998,00",
+              "R$ 41,58"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Pix dá 5% de desconto em muitos produtos, e o código MAUAD dá mais 5% em qualquer forma de pagamento, somado ao Pix.",
+          "Para a mesa inteira, com guardanapo, jogo americano, talheres e pratos, veja o [guia de mesa posta do dia a dia](/reviews/mesa-posta-dia-a-dia-o-que-comprar)."
+        ]
+      },
+      {
+        "heading": "Champanhe colorido",
+        "paragraphs": [
+          "A Santé Flute, da Studio Blossom, tem desenho de coral vermelho e 220 ml. O [jogo de 6 taças](https://letseatit.com.br/products/jogo-6-tacas-champanhe-sante-flute-em-cristal-ecologico-220ml-coral-vermelho?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) sai por R$ 199,90 no cartão.",
+          "A Allure Sparkling, também da Studio Blossom, vem em laranja, com 220 ml. O [jogo de 6 taças](https://letseatit.com.br/products/jogo-6-tacas-champanhe-allure-sparkling-em-cristal-ecologico-220ml-laranja?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 219,90, e o modelo limão tem o mesmo preço.",
+          "O [kit de 6 taças para espumante da Sommelier](https://letseatit.com.br/products/kit-com-6-tacas-para-espumante-em-cristal-sommelier-210ml-hastes-coloridas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de 210 ml com hastes coloridas, sai por R$ 149,00 no cartão. A loja o lista como outlet."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sante-flute-coral.webp",
+            "alt": "Taça de champanhe de vidro transparente com desenho de coral vermelho no bojo, sobre fundo branco",
+            "caption": "Taça para Champanhe Santé Flute 220 ml, coral vermelho, Studio Blossom. Foto oficial da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 0.29
+          },
+          {
+            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sante-flute-coral-mesa.webp",
+            "alt": "Três taças de champanhe com desenho vermelho de coral sobre uma mesa posta com toalha listrada",
+            "caption": "Taça Santé Flute, coral vermelho, em mesa posta. Foto oficial da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-allure-laranja.webp",
+            "alt": "Taças de champanhe transparentes com detalhes de laranjas e folhas, ao lado de frutas cítricas numa bandeja de palha",
+            "caption": "Taça Allure Sparkling 220 ml, laranja, Studio Blossom. Foto oficial da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0011
+          },
+          {
+            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sommelier-hastes-coloridas.webp",
+            "alt": "Seis taças de champanhe de cristal enfileiradas, com hastes coloridas, sobre fundo cinza",
+            "caption": "Kit de 6 taças para espumante Sommelier 210 ml, hastes coloridas. Foto oficial da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Água colorida",
+        "paragraphs": [
+          "A Lyor vende o [jogo de 6 taças de água Bico de Abacaxi, azul, de 325 ml](https://letseatit.com.br/products/jogo-6-tacas-de-vidro-para-agua-bico-de-abacaxi-azul-325ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) por R$ 88,30 no cartão (antes, R$ 147,20). É a opção colorida mais barata desta lista.",
+          "A Coloratta tem um [kit de 6 copos para água em cristal, azul, de 450 ml](https://letseatit.com.br/products/kit-com-6-copos-para-agua-em-cristal-coloratta-450ml-azul?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), por R$ 405,95 (antes, R$ 677,00). Pelo nome, é copo, não taça."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul.webp",
+            "alt": "Taça de água azul de vidro com textura de losangos e base alta, sobre fundo branco",
+            "caption": "Jogo de 6 taças para água Bico de Abacaxi 325 ml, azul, Lyor. Foto oficial da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul-mesa.webp",
+            "alt": "Duas taças azuis de vidro texturizado com água respingando e fatias de limão, sobre uma superfície clara",
+            "caption": "Taças Bico de Abacaxi azuis, Lyor, com limão. Foto oficial da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul.webp",
+            "alt": "Copo de cristal azul escuro com bolinhas claras em relevo, sobre fundo branco",
+            "caption": "Kit de 6 copos para água em cristal 450 ml, azul, Coloratta. Foto oficial da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7543
+          },
+          {
+            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul-mesa.webp",
+            "alt": "Copo de cristal azul com bolinhas claras sobre uma mesa clara, ao lado de uma tigela de frutas",
+            "caption": "Copo de cristal azul, Coloratta, em ambiente de mesa. Foto oficial da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Vinho colorido",
+        "paragraphs": [
+          "Para vinho, a Coloratta tem um [kit de 6 taças em cristal, verde, de 300 ml](https://letseatit.com.br/products/kit-com-6-tacas-para-vinho-em-cristal-coloratta-300ml-verde?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), por R$ 508,95 no cartão (antes, R$ 849,00). É a taça colorida mais cara desta lista."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde.webp",
+            "alt": "Taça de vinho de vidro transparente com pontilhados verdes e base com esfera, sobre fundo branco",
+            "caption": "Kit de 6 taças para vinho em cristal 300 ml, verde, Coloratta. Foto oficial da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6693
+          },
+          {
+            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde-mesa.webp",
+            "alt": "Taça verde-água de vidro com pontilhados sobre uma mesa clara, com tigela de frutas ao fundo",
+            "caption": "Taça para vinho verde, Coloratta, em ambiente de mesa. Foto oficial da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A taça Sphere é de vidro? Sim. A loja descreve vidro transparente com base colorida.",
+          "A taça Sphere serve para vinho e para água? A descrição da loja não diz para qual bebida serve a de 450 ml. A de 250 ml se chama taça para champanhe.",
+          "Pode ir na lava-louças? A descrição da loja não diz.",
+          "O que fazer se a taça chegar quebrada? A loja repõe a peça com avaria sem custo, com fotos do problema."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços deste artigo são do cartão, no dia da publicação. Preço de loja muda com promoção, então confira antes de comprar. Podemos receber comissão quando alguém compra pelo link da loja ou usa o cupom MAUAD. Ninguém da equipe comprou nem usou estas taças. O texto sai das informações que a loja publica."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja as cores e os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, somando com o desconto do Pix.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo link e pelo cupom da loja.",
+    "relatedArticles": [
+      {
+        "slug": "mesa-posta-dia-a-dia-o-que-comprar",
+        "title": "Mesa posta do dia a dia: o que comprar primeiro e quanto custa por peça"
+      },
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
+        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      },
+      {
+        "slug": "presente-de-casamento-ideias-por-preco",
+        "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+      }
+    ]
+  },
+  {
+    "id": 760,
+    "slug": "camiseta-feminina-insider-qual-escolher",
+    "locale": "pt",
+    "title": "Camiseta feminina Insider: qual escolher entre Tech, Gola V, Manga Longa, Daily, NEXTECH e Perfect Top",
+    "seoTitle": "Camiseta feminina Insider: qual escolher (Tech, Gola V, Daily)",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Qual camiseta feminina da Insider escolher entre Tech, Gola V, Manga Longa, Daily, NEXTECH, Perfect Top e Skin Cropped: tecido, preço, tamanhos, cupom e troca.",
+    "metaDescription": "Camiseta feminina Insider: Tech, Gola V, Manga Longa, Daily, NEXTECH, Perfect Top e Skin Cropped comparadas por tecido e preço, com o cupom EMCASACOMCECILIA e a troca.",
+    "publishedAt": "30 de outubro de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-capa.webp",
+    "imageAlt": "Camisetas femininas Insider Tech, Gola V e Manga Longa, com o logo da Insider",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para o dia a dia, a Tech T-Shirt feminina é o ponto de partida: R$ 129 (de R$ 169), em PP a XGG. A Gola V sai pelo mesmo preço, com gola levemente alongada, e a Tech de manga longa custa R$ 199 para o frio. O guia da linha masculina está em [Camiseta masculina Insider: qual escolher](/reviews/camiseta-insider-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Qual linha combina com o seu uso",
+        "paragraphs": [
+          "Preços de 30/10/2026, no cartão. Nome com link leva à página da peça."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Tecido, segundo a loja",
+            "Preço (de)",
+            "Estoque e tamanhos"
+          ],
+          "rows": [
+            [
+              "[Tech T-Shirt feminina](https://creators.insiderstore.com.br/52ZMYx2)",
+              "Tecido INTECH",
+              "R$ 129 (de R$ 169)",
+              "36 de 57; PP a XGG"
+            ],
+            [
+              "[Tech T-Shirt Gola V feminina](https://creators.insiderstore.com.br/hwvgusR)",
+              "92% modal, 8% elastano",
+              "R$ 129 (de R$ 169)",
+              "26 de 50; PP a GG"
+            ],
+            [
+              "[Tech T-Shirt Manga Longa feminina](https://creators.insiderstore.com.br/TQxS7si)",
+              "92% TENCEL™ Modal, 8% elastano",
+              "R$ 199 (de R$ 239)",
+              "25 de 37; PP a XGG"
+            ],
+            [
+              "Camiseta Básica Tech Daily feminina",
+              "94% viscose, 6% elastano",
+              "R$ 99 (de R$ 139)",
+              "23 de 28; PP a XGG"
+            ],
+            [
+              "[Camiseta Premium NEXTECH feminina](https://creators.insiderstore.com.br/PiVkjhd)",
+              "92% liocel, 8% elastano",
+              "R$ 129 (de R$ 215)",
+              "11 de 12; P a GG"
+            ],
+            [
+              "[The Perfect Top T-Shirt](https://creators.insiderstore.com.br/ZxySZ23)",
+              "87,5% poliamida biodegradável, 12,5% elastano",
+              "R$ 129 a R$ 149 (de R$ 149)",
+              "9 de 12; P a GG"
+            ],
+            [
+              "[Blusa Skin Cropped](https://creators.insiderstore.com.br/bgkXdGE)",
+              "88% modal, 12% elastano",
+              "R$ 99 (de R$ 119)",
+              "17 de 21; PP a XGG"
+            ],
+            [
+              "[Blusa Segunda Pele Manga Longa Skin Cropped](https://creators.insiderstore.com.br/HEfoAPL)",
+              "88% modal, 12% elastano",
+              "R$ 145 a R$ 165 (de R$ 165)",
+              "13 de 16; P a GG"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Estoque é o número de tamanhos disponíveis sobre o total. Ele muda com as vendas, então confira o tamanho antes de comprar.",
+          "Os modelos sem alça de cada linha estão aqui. Regatas e tops de alça têm outro guia."
+        ]
+      },
+      {
+        "heading": "Tech T-Shirt feminina: a base do dia a dia",
+        "paragraphs": [
+          "A [Tech T-Shirt feminina](https://creators.insiderstore.com.br/52ZMYx2) sai por R$ 129 (de R$ 169), em PP a XGG. A marca diz que ela desamassa no corpo e tem efeito antiodor. A garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, com uma lavagem por semana. A loja descreve o tecido como INTECH, sem a composição."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-tech-feminina.webp",
+            "alt": "Tech T-Shirt feminina preta, de manga curta, vestida por modelo sobre fundo cinza claro",
+            "caption": "Tech T-Shirt feminina em preto. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 0.76
+          },
+          {
+            "src": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-tech-feminina-beetroot.webp",
+            "alt": "Tech T-Shirt feminina cor beetroot, de manga curta, vestida por modelo sobre fundo cinza claro",
+            "caption": "Tech T-Shirt feminina em beetroot. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9244
+          }
+        ]
+      },
+      {
+        "heading": "Gola V: a mesma linha, com outra gola",
+        "paragraphs": [
+          "A [Gola V](https://creators.insiderstore.com.br/hwvgusR) tem gola levemente alongada e sai pelo mesmo preço, R$ 129 (de R$ 169). Segundo a loja, é de 92% modal e 8% elastano e não desbota com o tempo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-gola-v-feminina-indigo.webp",
+            "alt": "Tech T-Shirt Gola V feminina azul-indigo, de decote em V, vestida por modelo sobre fundo cinza claro",
+            "caption": "Tech T-Shirt Gola V em indigo. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8767
+          },
+          {
+            "src": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-gola-v-feminina-preta.webp",
+            "alt": "Tech T-Shirt Gola V feminina preta, de decote em V, vestida por modelo sobre fundo cinza claro",
+            "caption": "Tech T-Shirt Gola V em preto. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8456
+          }
+        ]
+      },
+      {
+        "heading": "Manga longa: a Tech para o frio",
+        "paragraphs": [
+          "A [Tech T-Shirt Manga Longa feminina](https://creators.insiderstore.com.br/TQxS7si) é de 92% TENCEL™ Modal e 8% elastano. A loja a indica para o inverno e a meia estação e fala em conforto térmico. Sai por R$ 199 (de R$ 239), em PP a XGG."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-manga-longa-preta.webp",
+            "alt": "Tech T-Shirt manga longa feminina preta, vestida por modelo sobre fundo cinza claro",
+            "caption": "Tech T-Shirt Manga Longa em preto. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Daily e NEXTECH: viscose e premium",
+        "paragraphs": [
+          "A Camiseta Básica Tech Daily feminina é a mais barata da lista: R$ 99 (de R$ 139), com 94% viscose e 6% elastano, segundo a loja. A página avisa que ela pode encolher até 2 cm no comprimento depois da primeira lavagem.",
+          "A [Premium NEXTECH feminina](https://creators.insiderstore.com.br/PiVkjhd) é de 92% liocel e 8% elastano, e sai por R$ 129 (de R$ 215), em P a GG. A loja fala em caimento levemente encorpado, para não marcar o corpo, e traz um dado da marca: até 11 vezes menos bactérias do mau cheiro que o algodão."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-daily.webp",
+            "alt": "Camiseta Básica Tech Daily feminina verde-oliva, de gola redonda, com calça verde-escura, sobre fundo cinza claro",
+            "caption": "Camiseta Básica Tech Daily feminina. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-nextech.webp",
+            "alt": "Camiseta Premium NEXTECH feminina verde-militar, de manga curta, vestida por modelo sobre fundo cinza claro",
+            "caption": "Premium NEXTECH feminina em verde-militar. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "The Perfect Top T-Shirt: baby tee",
+        "paragraphs": [
+          "A [The Perfect Top T-Shirt](https://creators.insiderstore.com.br/ZxySZ23) é de 87,5% poliamida biodegradável e 12,5% elastano. A loja fala em formato baby tee, sem bojo e com gola U, e em proteção UV+50, que é da marca. Sai por R$ 129 a R$ 149 (de R$ 149), conforme a cor e o tamanho. A loja marca estoque baixo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-perfect-top.webp",
+            "alt": "The Perfect Top T-Shirt preta, de manga curta e gola U, vestida por modelo sobre fundo cinza claro",
+            "caption": "The Perfect Top T-Shirt em preto. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Skin Cropped: cropped e manga longa",
+        "paragraphs": [
+          "A [Blusa Segunda Pele Manga Longa Skin Cropped](https://creators.insiderstore.com.br/HEfoAPL) é de 88% modal e 12% elastano. A loja diz que é uma segunda pele de manga longa, com gola média e modelagem justa. Sai por R$ 145 a R$ 165 (de R$ 165).",
+          "A [Blusa Skin Cropped](https://creators.insiderstore.com.br/bgkXdGE), também de 88% modal e 12% elastano, sai por R$ 99 (de R$ 119). A loja a descreve como cropped para usar como segunda pele, no treino ou como peça principal, com toque ultra macio."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-skin-cropped.webp",
+            "alt": "Blusa Skin Cropped preta, vestida por modelo sobre fundo cinza claro",
+            "caption": "Blusa Skin Cropped em preto. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8922
+          },
+          {
+            "src": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-skin-cropped-manga-longa.webp",
+            "alt": "Blusa Segunda Pele Manga Longa Skin Cropped preta, vestida por modelo sobre fundo cinza claro",
+            "caption": "Blusa Segunda Pele Manga Longa Skin Cropped em preto. Foto oficial da Insider.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Preço com o cupom e o Pix",
+        "paragraphs": [
+          "O cupom EMCASACOMCECILIA dá 15% na loja online, sem valor mínimo, um por pedido. Vale em todas as formas de pagamento e soma com o desconto do Pix. Não vale em lançamentos nem na loja física.",
+          "A Insider lista como lançamento a Tech T-Shirt feminina, a NEXTECH, a The Perfect Top T-Shirt e as duas Skin Cropped. Nessas peças, o cupom pode não entrar: confira no carrinho.",
+          "Sem essa tag, a Gola V, de R$ 129, sai por R$ 109,65 com o cupom, e a Manga Longa, de R$ 199, por R$ 169,15.",
+          "Regras e código estão em [cupom Insider: EMCASACOMCECILIA](/cupons/insider)."
+        ]
+      },
+      {
+        "heading": "Tamanho, garantia e troca",
+        "paragraphs": [
+          "Os tamanhos de cada linha estão na tabela acima. Para escolher, use a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider), que já traz as seções da Tech feminina, da Gola V, da Manga Longa e da Daily.",
+          "Pela central de ajuda, a troca é gratuita. O arrependimento vale por 7 dias úteis. A troca por insatisfação vale por 21 dias corridos, sem uso, com etiqueta e sem lavagem. Para defeito, o prazo é de 180 dias, com fotos. O pedido sai pelo Portal de Trocas."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Tech T-Shirt feminina desbota? A marca diz que não, e a garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, com uma lavagem por semana.",
+          "Qual a diferença entre Tech e Gola V? A gola. A Gola V tem gola levemente alongada, e a loja diz que o tecido é o mesmo.",
+          "A Daily encolhe? A página diz que pode encolher até 2 cm no comprimento depois da primeira lavagem.",
+          "O cupom vale na Daily feminina? Na Daily masculina, a página diz que o item já tem desconto máximo e não é cumulativo com cupom. Na feminina, confira no carrinho.",
+          "Dá para devolver se não servir? Sim, dentro dos prazos: 7 dias úteis para desistir da compra e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os dados vêm das páginas de produto da Insider, lidas no dia da publicação, e da central de ajuda. Preço e estoque mudam: confira na página antes de comprar. Ninguém da equipe usou as peças. Podemos receber comissão se você comprar pelos nossos links ou usar o cupom EMCASACOMCECILIA."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a Insider faz sentido para você, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai para o carrinho. Confira o desconto em cada item antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Não testamos as peças: os dados são das páginas da loja.",
+    "relatedArticles": [
+      {
+        "slug": "camiseta-insider-qual-escolher",
+        "title": "Camiseta masculina Insider: qual escolher entre Tech, Heavy, Core, Daily, Polo e Henley"
+      },
+      {
+        "slug": "insider-vale-a-pena",
+        "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+      },
+      {
+        "slug": "tabela-de-medidas-insider",
+        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+      },
+      {
+        "slug": "insider-mercado-livre-ou-site",
+        "title": "Insider no Mercado Livre ou no site: onde sai mais barato"
+      },
+      {
+        "slug": "black-friday-insider",
+        "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA"
+      }
+    ]
+  },
+  {
+    "id": 761,
+    "slug": "vestido-de-festa-shein",
+    "locale": "pt",
+    "translationKey": "shein-vestido-festa",
+    "title": "Vestido de festa na SHEIN: como escolher pela ocasião, pelo tecido e pelo prazo",
+    "seoTitle": "Vestido de festa SHEIN: como escolher para Natal, Réveillon e formatura",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como escolher vestido de festa na SHEIN para formatura, casamento como convidada e fim de ano: ocasião, tecido, tamanho, prazo e imposto, com três vestidos lidos na loja.",
+    "metaDescription": "Vestido de festa SHEIN: ocasião, tecido, tamanho e prazo para Natal e formatura, com preço e imposto de três vestidos da loja.",
+    "publishedAt": "30 de outubro de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+    "imageAlt": "Vestidos de festa da SHEIN em azul-marinho e azul empoeirado, para Natal, Réveillon e formatura",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Três vestidos com preço, envio e tecido lidos na página de cada produto",
+      "Guia de tamanho em centímetros para cada peça",
+      "Devolução em 20 dias, com a primeira de cada pedido grátis"
+    ],
+    "cons": [
+      "Pedido internacional acima de US$ 50 volta a pagar imposto de importação",
+      "A entrega precisa caber na data da festa",
+      "O preço de promoção muda"
+    ],
+    "cta": {
+      "text": "Busque o vestido pelo nome na SHEIN e confira o prazo na página do pedido antes de pagar.",
+      "label": "Ir para a SHEIN",
+      "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Preços e regras conferidos no dia da publicação na SHEIN Brasil. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y.",
+    "relatedArticles": [
+      {
+        "slug": "shein-e-confiavel",
+        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Vestido de festa na SHEIN se escolhe por três coisas: a ocasião, o tecido e a data de chegada. Para Natal e Réveillon, o prazo pesa mais que o modelo. Para formatura e convidada de casamento, a dúvida é de cor, comprimento e tom. Abaixo, três vestidos da loja com preço, envio e tecido."
+        ]
+      },
+      {
+        "heading": "Como escolher pela ocasião",
+        "paragraphs": [
+          "Festa de fim de ano: o prazo manda. Pedido internacional leva de 3 a 5 dias para ser processado antes do envio, e a entrega aparece só na página do pedido. Se a festa cai na semana do Natal ou do Réveillon, feche o pedido só depois de ver a previsão de entrega.",
+          "Formatura: cor e comprimento decidem. Olhe o convite e o horário. À noite, o longo e o midi costumam funcionar. De dia, um modelo curto ou médio cabe melhor.",
+          "Casamento como convidada: o tom do evento vem antes do modelo. Dia ou noite, igreja ou salão. Vale ver o convite e a hora da cerimônia antes de escolher a cor.",
+          "Vestido de noiva e de madrinha ficam fora deste guia."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+            "alt": "Modelo com vestido longo azul-marinho de lantejoulas e fenda lateral, ao ar livre",
+            "caption": "Foto oficial da SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Como ler a descrição da peça",
+        "paragraphs": [
+          "Antes de pagar, leia a descrição da peça, não só a foto. Ela traz composição, forro, transparência, comprimento, fecho e lavagem."
+        ],
+        "bullets": [
+          "**Tecido:** poliéster com elastano aparece muito nesses vestidos. Veja a porcentagem de cada material, não só o nome.",
+          "**Forro e transparência:** sem forro, a cor da roupa de baixo pode aparecer.",
+          "**Comprimento:** midi, longo e curto mudam o look. Título e descrição nem sempre coincidem, então confira a medida em centímetros.",
+          "**Lavagem:** a descrição diz se a peça vai à máquina, à mão ou só a seco. Se for só a seco, conte com a lavanderia."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+            "alt": "Modelo de perfil com vestido azul empoeirado de um ombro e saia de tule",
+            "caption": "Foto oficial da SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Três vestidos lidos na SHEIN Brasil",
+        "paragraphs": [
+          "Preços de 30/10/2026, no cartão. A promoção muda o valor, então confira de novo antes de pagar. Ninguém da equipe usou essas peças. Tecido, comprimento e nota vêm das páginas dos produtos."
+        ],
+        "comparisonTable": {
+          "caption": "Três vestidos da SHEIN Brasil, com dados da página de cada produto.",
+          "headers": [
+            "Vestido",
+            "Preço",
+            "Envio e prazo",
+            "Tecido e forro",
+            "Ocasião e nota"
+          ],
+          "rows": [
+            [
+              "[Vestido longo Firerie, um ombro, tule (azul empoeirado)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+              "R$ 153,99",
+              "Internacional, frete grátis. Previsão de 7 a 17 de novembro.",
+              "95% poliéster e 5% elastano. Forrado, não transparente, maxi.",
+              "Casamento, pela loja. Nota 4,84, com mais de 1.000 comentários."
+            ],
+            [
+              "[Vestido curto Via Vilarinho, alfaiataria, decote quadrado (azul-marinho)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+              "R$ 99,21 (54% de desconto)",
+              "Envio Nacional, frete grátis. A página mostra 4 a 7 dias, sem contar fins de semana e feriados.",
+              "95% poliéster e 5% elastano. Forro só na parte de cima. Curto no título, midi na descrição.",
+              "Noite, casamento e escritório, pela loja. Nota 4,88, com 80 comentários."
+            ],
+            [
+              "[Vestido longo ADYCE, lantejoulas, ombro a ombro, fenda (azul-marinho)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
+              "R$ 303,12 (em promoção)",
+              "Internacional, frete grátis. Previsão de 7 a 17 de novembro.",
+              "95% poliéster e 5% elastano. Forrado, não transparente, longo, com fenda.",
+              "Festa, formal e noturno, pela loja. Nota 4,89, com mais de 1.000 comentários."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os dois vestidos internacionais seguem a regra de US$ 50, que soma produto e frete. O de lantejoulas, de R$ 303,12, fica acima desse valor, e o resumo do pedido mostra o imposto antes de pagar.",
+          "O curto da Via Vilarinho é de Envio Nacional, e a regra de importação não entra na conta dele."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
+            "alt": "Modelo com vestido de um ombro azul empoeirado, com franzidos na cintura, em parede cinza",
+            "caption": "Foto oficial da SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
+            "alt": "Modelo com vestido azul-marinho de manga curta e decote quadrado, em frente a um muro com hera",
+            "caption": "Foto oficial da SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
+            "alt": "Modelo com vestido longo azul-marinho de lantejoulas e fenda, em piso de mármore",
+            "caption": "Foto oficial da SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Tamanho: use a medida da peça",
+        "paragraphs": [
+          "A SHEIN publica o guia de tamanho de cada peça, em centímetros e em polegadas, com o jeito de medir. Não existe tabela única de PP a GG, então use a tabela do vestido que você escolheu.",
+          "Os três vão de PP a GG. A Firerie se descreve como slim fit, o que pede medida mais precisa no busto e na cintura."
+        ],
+        "postParagraphs": [
+          "Para plus size, o método é o mesmo: compare a medida da peça com a sua, não o número da etiqueta."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+            "alt": "Modelo de costas com vestido azul-marinho de manga curta e comprimento médio",
+            "caption": "Foto oficial da SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792
+          },
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
+            "alt": "Modelo de costas com vestido longo azul empoeirado de um ombro, em parede cinza",
+            "caption": "Foto oficial da SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Prazo: some a data da festa",
+        "paragraphs": [
+          "O pedido internacional é processado em 3 a 5 dias antes do envio. Some esse prazo à entrega que a página do pedido mostra. Se a soma passar da data da festa, esse vestido não é a compra certa para aquela data.",
+          "Cada vendedor de Envio Nacional tem prazo próprio. A página do produto mostra o seu."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
+            "alt": "Modelo se olha no espelho, com vestido longo azul-marinho de lantejoulas e cauda",
+            "caption": "Foto oficial da SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Imposto: o limite de US$ 50",
+        "paragraphs": [
+          "Compra internacional de até US$ 50, somando produto e frete, não paga imposto de importação. Acima disso, a alíquota é de 60%, com desconto de US$ 30 no valor do imposto. O ICMS, de 17% a 20% conforme o estado, continua em toda compra internacional.",
+          "A conta usa o que você paga pelo produto e pelo frete, já com desconto e cupom. A regra começou em maio de 2026 e pode mudar de novo. Para o quadro completo de prazo, devolução e imposto, leia [SHEIN é confiável?](/reviews/shein-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Trocas e devolução",
+        "paragraphs": [
+          "A devolução é em até 20 dias depois do recebimento. A primeira de cada pedido é grátis; as seguintes descontam R$ 45 do reembolso.",
+          "Para trocar de tamanho, conte com devolução e reembolso, e faça um pedido novo com a medida certa."
+        ]
+      },
+      {
+        "heading": "Antes de pagar",
+        "bullets": [
+          "O nome do pedido precisa ser igual ao do CPF.",
+          "A previsão de entrega aparece na página do pedido. Confira antes de pagar.",
+          "Se o total passar de US$ 50 no pedido internacional, o imposto aparece no resumo.",
+          "Guarde a confirmação do pedido."
+        ],
+        "postParagraphs": [
+          "Um cupom da plataforma vale por pedido, em todas as formas de pagamento.",
+          "O 4CW5Y não é cupom. É o código de indicação da SHEIN Brasil: pesquisa-se na barra de busca do aplicativo, não se cola no checkout, e não dá desconto nem soma com nada. Como funciona, veja [o código de indicação](/reviews/codigo-de-indicacao-shein). As campanhas da loja ficam na [página da SHEIN](/cupons/shein)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
+            "alt": "Modelo com vestido longo azul-marinho de lantejoulas em corredor com tapete",
+            "caption": "Foto oficial da SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Vestido de festa da SHEIN chega a tempo para o Natal? Depende da data do pedido. Some os dias de processamento e a previsão de entrega da página, e compare com a data da festa.",
+          "Como saber se o vestido é longo ou midi? Pelo comprimento que a descrição declara e pela medida em centímetros no guia de tamanho da peça.",
+          "A SHEIN cobra imposto no vestido? Não, em pedido internacional de até US$ 50 com o frete. Acima disso, o imposto de importação volta, e o ICMS continua em toda compra internacional.",
+          "Dá para usar o 4CW5Y para ganhar desconto? Não. É código de indicação: não dá desconto e não é cupom."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 762,
+    "slug": "shein-party-dress-guide",
+    "locale": "en",
+    "translationKey": "shein-vestido-festa",
+    "title": "SHEIN Brazil party dress: how to choose by occasion, fabric and delivery time",
+    "seoTitle": "SHEIN Brazil party dress: how to choose for Christmas, New Year and graduation",
+    "type": "Buying Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "How to choose a party dress on SHEIN Brazil for a graduation, a wedding guest look or the year-end party: occasion, fabric, size and returns.",
+    "metaDescription": "SHEIN Brazil party dress guide: occasion, fabric, size, delivery and returns for Christmas, New Year and graduation.",
+    "publishedAt": "October 30, 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+    "imageAlt": "SHEIN party dresses in navy and dusty blue, for Christmas, New Year and graduation events",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "A checklist for fabric, lining and length",
+      "A size guide for each product, in centimetres",
+      "The referral code explained, so it is not mistaken for a coupon"
+    ],
+    "cons": [
+      "Delivery and taxes depend on the order and the country",
+      "Titles and descriptions may not agree on length",
+      "Sale prices change, so check the price before buying"
+    ],
+    "cta": {
+      "text": "Search for the dress by name on SHEIN and check the shipping and taxes in the order summary before you pay.",
+      "label": "Go to SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Based on SHEIN Brazil's product pages and rules, checked on the publication day. We may earn a commission from purchases and from the 4CW5Y referral code.",
+    "relatedArticles": [
+      {
+        "slug": "is-shein-legit-and-safe",
+        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "A party dress on SHEIN Brazil comes down to three things: the occasion, the fabric and the arrival date. For Christmas and New Year's Eve, delivery time matters more than the cut. For a graduation or a wedding guest look, the choice is about colour, length and the tone of the event. This guide explains each point with the store's own product details."
+        ]
+      },
+      {
+        "heading": "Choosing by occasion",
+        "paragraphs": [
+          "Year-end parties: the deadline comes first. The delivery estimate appears only on the order page, so confirm it before you pay if the party is a few weeks away.",
+          "Graduation: colour and length decide. Check the invitation and the time of the ceremony. An evening event suits a long or midi dress; in daytime, a shorter length works better.",
+          "Wedding guest: the tone of the event comes before the model. Day or evening, church or venue. Check the invitation before you choose the colour.",
+          "Wedding dresses and bridesmaid dresses are not covered here."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+            "alt": "Model in a long navy sequin dress with a side slit, outdoors",
+            "caption": "Official SHEIN photo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Reading the product description",
+        "paragraphs": [
+          "The product description tells you more than the photo. Look at:"
+        ],
+        "bullets": [
+          "**Fabric:** polyester with elastane is common in these dresses. Check the percentages, not just the name.",
+          "**Lining and sheerness:** without lining, the colour of your underwear can show.",
+          "**Length:** midi, long and short change the look. Titles and descriptions do not always agree, so check the measurement in centimetres.",
+          "**Care:** the description says whether the dress is machine washed, hand washed or dry cleaned only."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+            "alt": "Model in profile wearing a dusty blue one-shoulder dress with a mesh skirt",
+            "caption": "Official SHEIN photo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Size: use the measurements of the garment",
+        "paragraphs": [
+          "SHEIN publishes a size guide for each product, in centimetres and inches, with instructions on how to measure. There is no single chart from PP to GG, so use the guide of the dress you chose. Plus sizes follow the same method: compare the garment's measurements with yours, not the number on the label."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+            "alt": "Model from behind in a navy short-sleeve dress of midi length",
+            "caption": "Official SHEIN photo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792
+          }
+        ]
+      },
+      {
+        "heading": "Delivery and returns",
+        "paragraphs": [
+          "Delivery times and return conditions depend on the seller, the destination and the order. The store page has the current rules, and the order summary shows the delivery estimate before you pay. To change size, return the item and place a new order."
+        ]
+      },
+      {
+        "heading": "Before you pay",
+        "paragraphs": [
+          "Taxes and shipping depend on the order and the country, so check the order summary before you pay. The 4CW5Y code is SHEIN Brazil's referral code, not a coupon: you search it in the app, and it gives no discount. How it works is explained in [the referral guide](/en/reviews/shein-referral-code-where-to-enter), and current campaigns are on the [SHEIN store page](/en/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Can a SHEIN party dress arrive in time for Christmas? It depends on the order date and the delivery estimate on the order page. Compare that date with the date of the party.",
+          "How do I know if a dress is long or midi? By the length in the product description and the centimetre measurements in the size guide.",
+          "Does the 4CW5Y code give a discount? No. It is a referral code, not a coupon, and it gives no discount."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 763,
+    "slug": "vestido-de-fiesta-shein",
+    "locale": "es",
+    "translationKey": "shein-vestido-festa",
+    "title": "Vestido de fiesta en SHEIN Brasil: cómo elegirlo según la ocasión y la tela",
+    "seoTitle": "Vestido de fiesta en SHEIN Brasil: cómo elegir para Navidad y graduación",
+    "type": "Guía de compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Cómo elegir un vestido de fiesta en SHEIN Brasil para una graduación, una boda como invitada o la fiesta de fin de año: ocasión, tela, talla y entrega.",
+    "metaDescription": "Vestido de fiesta en SHEIN Brasil: ocasión, tela, talla y entrega para Navidad, Año Nuevo y graduación.",
+    "publishedAt": "30 de octubre de 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+    "imageAlt": "Vestidos de fiesta de SHEIN en azul marino y azul polvo, para Navidad, Año Nuevo y graduación",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Una lista clara para revisar tela, forro y largo",
+      "Guía de tallas en centímetros para cada producto",
+      "El código de referido explicado, para no confundirlo con un cupón"
+    ],
+    "cons": [
+      "La entrega y los impuestos dependen del pedido y del país",
+      "El título y la descripción no siempre coinciden en el largo",
+      "Los precios de oferta cambian"
+    ],
+    "cta": {
+      "text": "Busca el vestido por su nombre en SHEIN y revisa los impuestos y el envío en el resumen del pedido antes de pagar.",
+      "label": "Ir a SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Basado en las páginas de producto y las reglas de SHEIN Brasil, revisadas el día de la publicación. Podemos recibir comisión por las compras y por el código de referido 4CW5Y.",
+    "relatedArticles": [
+      {
+        "slug": "shein-es-confiable-y-seguro",
+        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Un vestido de fiesta en SHEIN Brasil se elige por tres cosas: la ocasión, la tela y la fecha de llegada. En Navidad y Nochevieja, el plazo pesa más que el corte. En una graduación o como invitada de boda, la duda es el color, el largo y el tono del evento. Esta guía explica cada punto con los datos de la propia tienda."
+        ]
+      },
+      {
+        "heading": "Cómo elegir según la ocasión",
+        "paragraphs": [
+          "Fiestas de fin de año: manda el plazo. La fecha de entrega aparece solo en la página del pedido, así que confírmala antes de pagar si la fiesta es en pocas semanas.",
+          "Graduación: el color y el largo deciden. Mira la invitación y la hora de la ceremonia. Un evento de noche pide un vestido largo o midi; uno de día admite modelos más cortos.",
+          "Invitada de boda: el tono del evento va antes que el modelo. De día o de noche, iglesia o salón. Revisa la invitación antes de elegir el color.",
+          "El vestido de novia y el de dama de honor quedan fuera de esta guía."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+            "alt": "Modelo con vestido largo azul marino de lentejuelas y abertura lateral, al aire libre",
+            "caption": "Foto oficial de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Cómo leer la descripción de la prenda",
+        "paragraphs": [
+          "La descripción dice más que la foto. Mira:"
+        ],
+        "bullets": [
+          "**Tela:** el poliéster con elastano es común en estos vestidos. Revisa el porcentaje de cada material, no solo el nombre.",
+          "**Forro y transparencia:** sin forro, puede verse el color de la ropa interior.",
+          "**Largo:** midi, largo y corto cambian el look. El título y la descripción no siempre coinciden; revisa la medida en centímetros.",
+          "**Lavado:** la descripción indica si va a máquina, a mano o solo en seco."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+            "alt": "Modelo de perfil con vestido azul polvo de un hombro y falda de tul",
+            "caption": "Foto oficial de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Talla: usa la medida de la prenda",
+        "paragraphs": [
+          "SHEIN publica una guía de tallas para cada producto, en centímetros y pulgadas, con la forma de medir. No hay una tabla única de PP a GG, así que usa la guía del vestido que elegiste. Para tallas grandes, el método es el mismo: compara las medidas de la prenda con las tuyas, no el número de la etiqueta."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+            "alt": "Modelo de espaldas con vestido azul marino de manga corta y largo midi",
+            "caption": "Foto oficial de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792
+          }
+        ]
+      },
+      {
+        "heading": "Entrega y devoluciones",
+        "paragraphs": [
+          "Los plazos y las devoluciones dependen del vendedor, del destino y del pedido. La página de la tienda tiene las reglas vigentes, y el resumen del pedido muestra la fecha de entrega antes de pagar."
+        ]
+      },
+      {
+        "heading": "Antes de pagar",
+        "paragraphs": [
+          "Los impuestos y el envío dependen del pedido y del país: revísalos en el resumen antes de pagar. El código 4CW5Y es el código de referido de SHEIN Brasil, no un cupón: se busca en la aplicación y no da descuento. Cómo funciona está en [la guía del código de referido](/es/reviews/codigo-de-referido-shein-donde-ponerlo), y las campañas vigentes, en [la página de SHEIN](/es/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Un vestido de fiesta de SHEIN llega a tiempo para Navidad? Depende de la fecha del pedido y de la entrega que muestre la página. Compara esa fecha con la de la fiesta.",
+          "¿Cómo sé si el vestido es largo o midi? Por el largo que indica la descripción y por la medida en centímetros de la guía de tallas.",
+          "¿El código 4CW5Y da descuento? No. Es un código de referido, no un cupón, y no da descuento."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 764,
+    "slug": "robe-de-soiree-shein",
+    "locale": "fr",
+    "translationKey": "shein-vestido-festa",
+    "title": "Robe de soirée sur SHEIN Brésil : comment choisir selon l'occasion et le tissu",
+    "seoTitle": "Robe de soirée SHEIN Brésil : comment choisir pour Noël et la remise de diplôme",
+    "type": "Guide d'achat",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Comment choisir une robe de soirée sur SHEIN Brésil pour une remise de diplôme, un mariage en invitée ou la fête de fin d'année : occasion, tissu, taille et retours.",
+    "metaDescription": "Robe de soirée SHEIN Brésil : occasion, tissu, taille et livraison pour Noël, le Nouvel An et la remise de diplôme.",
+    "publishedAt": "30 octobre 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+    "imageAlt": "Robes de soirée SHEIN bleu marine et bleu poussiéreux, pour Noël, le Nouvel An et une remise de diplôme",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Une liste claire pour vérifier le tissu, la doublure et la longueur",
+      "Un guide des tailles en centimètres pour chaque produit",
+      "Le code de parrainage expliqué, pour ne pas le confondre avec un coupon"
+    ],
+    "cons": [
+      "La livraison et les taxes dépendent de la commande et du pays",
+      "Titre et description ne concordent pas toujours sur la longueur",
+      "Les prix promotionnels changent"
+    ],
+    "cta": {
+      "text": "Recherchez la robe par son nom sur SHEIN et vérifiez les taxes et les frais de port dans le récapitulatif avant de payer.",
+      "label": "Aller sur SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Basé sur les pages produit et les règles de SHEIN Brésil, vérifiées le jour de la publication. Nous pouvons toucher une commission sur les achats et sur le code de parrainage 4CW5Y.",
+    "relatedArticles": [
+      {
+        "slug": "shein-est-il-fiable-et-sur",
+        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Une robe de soirée sur SHEIN Brésil se choisit selon trois critères : l'occasion, le tissu et la date d'arrivée. Pour Noël et le réveillon, le délai compte plus que la coupe. Pour une remise de diplôme ou un mariage en invitée, la question porte sur la couleur, la longueur et le ton de l'événement. Ce guide détaille chaque point avec les informations de la boutique."
+        ]
+      },
+      {
+        "heading": "Choisir selon l'occasion",
+        "paragraphs": [
+          "Fêtes de fin d'année : le délai passe en premier. La date de livraison n'apparaît que sur la page de commande, donc confirmez-la avant de payer si la fête approche.",
+          "Remise de diplôme : la couleur et la longueur décident. Regardez l'invitation et l'heure de la cérémonie. Le soir, une robe longue ou midi convient ; en journée, une longueur plus courte passe mieux.",
+          "Invitée de mariage : le ton de l'événement compte avant le modèle. Jour ou soir, église ou salle. Vérifiez l'invitation avant de choisir la couleur.",
+          "Les robes de mariée et de demoiselle d'honneur ne sont pas traitées ici."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+            "alt": "Mannequin en robe longue bleu marine à sequins et fente latérale, en extérieur",
+            "caption": "Photo officielle de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Lire la description du produit",
+        "paragraphs": [
+          "La description en dit plus que la photo. Regardez :"
+        ],
+        "bullets": [
+          "**Tissu :** le polyester avec élasthanne est courant sur ces robes. Vérifiez les pourcentages, pas seulement le nom.",
+          "**Doublure et transparence :** sans doublure, la couleur des sous-vêtements peut se voir.",
+          "**Longueur :** midi, longue et courte changent le style. Le titre et la description ne concordent pas toujours ; vérifiez la mesure en centimètres.",
+          "**Entretien :** la description indique si le lavage se fait en machine, à la main ou seulement à sec."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+            "alt": "Mannequin de profil en robe bleu poussiéreux à une épaule et jupe en tulle",
+            "caption": "Photo officielle de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Taille : utilisez les mesures du vêtement",
+        "paragraphs": [
+          "SHEIN publie un guide des tailles pour chaque produit, en centimètres et en pouces, avec la façon de mesurer. Il n'existe pas de tableau unique de PP à GG : utilisez le guide de la robe choisie. Pour les grandes tailles, la méthode est la même : comparez les mesures du vêtement aux vôtres, pas le chiffre de l'étiquette."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+            "alt": "Mannequin de dos en robe bleu marine à manches courtes et longueur midi",
+            "caption": "Photo officielle de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792
+          }
+        ]
+      },
+      {
+        "heading": "Livraison et retours",
+        "paragraphs": [
+          "Les délais et les retours dépendent du vendeur, de la destination et de la commande. La page de la boutique indique les règles en vigueur, et le récapitulatif de commande affiche la date de livraison avant le paiement."
+        ]
+      },
+      {
+        "heading": "Avant de payer",
+        "paragraphs": [
+          "Les taxes et les frais de port dépendent de la commande et du pays : vérifiez-les dans le récapitulatif avant de payer. Le code 4CW5Y est le code de parrainage de SHEIN Brésil, pas un coupon : il se recherche dans l'application et ne donne pas de remise. Son fonctionnement est expliqué dans [le guide du code de parrainage](/fr/reviews/code-de-parrainage-shein-ou-le-mettre), et les campagnes en cours sont sur [la page SHEIN](/fr/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Une robe de soirée SHEIN arrive-t-elle à temps pour Noël ? Cela dépend de la date de commande et de la livraison affichée sur la page. Comparez cette date avec celle de la fête.",
+          "Comment savoir si la robe est longue ou midi ? Par la longueur indiquée dans la description et par la mesure en centimètres du guide des tailles.",
+          "Le code 4CW5Y donne-t-il une remise ? Non. C'est un code de parrainage, pas un coupon, et il ne donne pas de remise."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 765,
+    "slug": "partykleid-shein",
+    "locale": "de",
+    "translationKey": "shein-vestido-festa",
+    "title": "Partykleid bei SHEIN Brasilien: so wählen Sie nach Anlass und Stoff",
+    "seoTitle": "Partykleid bei SHEIN Brasilien: Auswahl für Weihnachten und Abschlussfeier",
+    "type": "Kaufratgeber",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "So wählen Sie ein Partykleid bei SHEIN Brasilien für eine Abschlussfeier, eine Hochzeit als Gast oder die Silvesterparty: Anlass, Stoff, Größe und Rückgabe.",
+    "metaDescription": "Partykleid bei SHEIN Brasilien: Anlass, Stoff, Größe und Lieferung für Weihnachten, Silvester und Abschlussfeier.",
+    "publishedAt": "30. Oktober 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+    "imageAlt": "Partykleider von SHEIN in Marineblau und Staubblau, für Weihnachten, Silvester und eine Abschlussfeier",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Eine klare Checkliste für Stoff, Futter und Länge",
+      "Ein Größenratgeber in Zentimetern für jedes Produkt",
+      "Der Empfehlungscode erklärt, damit er nicht mit einem Gutschein verwechselt wird"
+    ],
+    "cons": [
+      "Lieferung und Steuern hängen von Bestellung und Land ab",
+      "Titel und Beschreibung stimmen bei der Länge nicht immer überein",
+      "Aktionspreise ändern sich"
+    ],
+    "cta": {
+      "text": "Suchen Sie das Kleid bei SHEIN nach seinem Namen und prüfen Sie Steuern und Versand in der Bestellübersicht, bevor Sie bezahlen.",
+      "label": "Zu SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Basierend auf den Produktseiten und Regeln von SHEIN Brasilien, am Tag der Veröffentlichung geprüft. Wir können für Käufe und für den Empfehlungscode 4CW5Y eine Provision erhalten.",
+    "relatedArticles": [
+      {
+        "slug": "ist-shein-serioes-und-sicher",
+        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Die Antwort in Kürze",
+        "paragraphs": [
+          "Ein Partykleid bei SHEIN Brasilien wählen Sie nach drei Punkten: Anlass, Stoff und Ankunftsdatum. Zu Weihnachten und Silvester zählt die Lieferzeit mehr als der Schnitt. Bei Abschlussfeier oder als Hochzeitsgast geht es um Farbe, Länge und den Ton der Veranstaltung. Dieser Ratgeber erklärt jeden Punkt mit den Angaben des Shops."
+        ]
+      },
+      {
+        "heading": "Die Wahl nach Anlass",
+        "paragraphs": [
+          "Feiertage zum Jahresende: Die Frist kommt zuerst. Das Lieferdatum steht erst auf der Bestellseite, also prüfen Sie es vor dem Bezahlen, wenn die Feier in wenigen Wochen ist.",
+          "Abschlussfeier: Farbe und Länge entscheiden. Schauen Sie auf die Einladung und die Uhrzeit. Am Abend passen lange Kleider oder Midi-Längen; tagsüber wirken kürzere Längen besser.",
+          "Hochzeitsgast: Der Ton der Feier kommt vor dem Modell. Tag oder Abend, Kirche oder Saal. Prüfen Sie die Einladung, bevor Sie die Farbe wählen.",
+          "Brautkleider und Kleider für Brautjungfern sind nicht Thema dieses Ratgebers."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+            "alt": "Model in einem langen marineblauen Paillettenkleid mit Seitenschlitz, im Freien",
+            "caption": "Offizielles Foto von SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Die Produktbeschreibung lesen",
+        "paragraphs": [
+          "Die Beschreibung sagt mehr als das Foto. Achten Sie auf:"
+        ],
+        "bullets": [
+          "**Stoff:** Polyester mit Elasthan ist bei diesen Kleidern üblich. Prüfen Sie die Anteile, nicht nur den Namen.",
+          "**Futter und Transparenz:** Ohne Futter kann die Farbe der Unterwäsche durchscheinen.",
+          "**Länge:** Midi, lang und kurz verändern den Look. Titel und Beschreibung stimmen nicht immer überein; prüfen Sie das Maß in Zentimetern.",
+          "**Pflege:** Die Beschreibung nennt, ob Maschinenwäsche, Handwäsche oder nur Reinigung erlaubt ist."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+            "alt": "Model im Profil in einem staubblauen Kleid mit einer Schulter und Tüllrock",
+            "caption": "Offizielles Foto von SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Größe: Nehmen Sie die Maße des Kleides",
+        "paragraphs": [
+          "SHEIN veröffentlicht für jedes Produkt eine Größentabelle in Zentimetern und Zoll, mit Anleitung zum Messen. Es gibt keine einheitliche Tabelle von PP bis GG, also nehmen Sie die Tabelle des gewählten Kleides. Für Plus Size gilt dieselbe Methode: Vergleichen Sie die Maße des Kleides mit Ihren, nicht die Zahl auf dem Etikett."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+            "alt": "Model von hinten in einem marineblauen Kleid mit kurzen Ärmeln und Midilänge",
+            "caption": "Offizielles Foto von SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792
+          }
+        ]
+      },
+      {
+        "heading": "Lieferung und Rückgabe",
+        "paragraphs": [
+          "Liefer- und Rückgabefristen hängen von Verkäufer, Zielland und Bestellung ab. Die aktuellen Regeln stehen auf der Shopseite, und die Bestellübersicht zeigt das Lieferdatum vor der Zahlung. Für eine andere Größe senden Sie das Kleid zurück und bestellen neu."
+        ]
+      },
+      {
+        "heading": "Vor der Zahlung",
+        "paragraphs": [
+          "Steuern und Versand hängen von Bestellung und Land ab; prüfen Sie beides in der Bestellübersicht. Der Code 4CW5Y ist der Empfehlungscode von SHEIN Brasilien, kein Gutschein: Er wird in der App gesucht und gibt keinen Rabatt. Wie er funktioniert, steht im [Ratgeber zum Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben), die aktuellen Aktionen stehen auf der [SHEIN-Seite](/de/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Kommt ein Partykleid von SHEIN rechtzeitig zu Weihnachten an? Das hängt vom Bestelldatum und von der Lieferangabe auf der Bestellseite ab. Vergleichen Sie diese Angabe mit dem Datum der Feier.",
+          "Woran erkenne ich, ob ein Kleid lang oder Midi ist? An der Länge in der Produktbeschreibung und an den Zentimeter-Maßen der Größentabelle.",
+          "Gibt der Code 4CW5Y Rabatt? Nein. Er ist ein Empfehlungscode, kein Gutschein, und gibt keinen Rabatt."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 766,
+    "slug": "abito-da-festa-shein",
+    "locale": "it",
+    "translationKey": "shein-vestido-festa",
+    "title": "Abito da festa su SHEIN Brasile: come sceglierlo per occasione e tessuto",
+    "seoTitle": "Abito da festa SHEIN Brasile: come scegliere per Natale e laurea",
+    "type": "Guida all'acquisto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Come scegliere un abito da festa su SHEIN Brasile per una laurea, un matrimonio come invitata o la festa di fine anno: occasione, tessuto, taglia e resi.",
+    "metaDescription": "Abito da festa SHEIN Brasile: occasione, tessuto, taglia e consegna per Natale, Capodanno e laurea.",
+    "publishedAt": "30 ottobre 2026",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+    "imageAlt": "Abiti da festa SHEIN blu notte e blu polvere, per Natale, Capodanno e una laurea",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Una lista chiara per controllare tessuto, fodera e lunghezza",
+      "Una guida alle taglie in centimetri per ogni prodotto",
+      "Il codice invito spiegato, per non confonderlo con un coupon"
+    ],
+    "cons": [
+      "Consegna e tasse dipendono dall'ordine e dal paese",
+      "Titolo e descrizione non sempre coincidono sulla lunghezza",
+      "I prezzi in promozione cambiano"
+    ],
+    "cta": {
+      "text": "Cerca l'abito per nome su SHEIN e controlla tasse e spedizione nel riepilogo dell'ordine prima di pagare.",
+      "label": "Vai su SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Basato sulle pagine prodotto e sulle regole di SHEIN Brasile, verificate il giorno della pubblicazione. Possiamo ricevere commissioni sugli acquisti e sul codice invito 4CW5Y.",
+    "relatedArticles": [
+      {
+        "slug": "shein-e-affidabile-e-sicuro",
+        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Un abito da festa su SHEIN Brasile si sceglie in base a tre cose: l'occasione, il tessuto e la data di arrivo. Per Natale e Capodanno conta più il tempo di consegna che il taglio. Per una laurea o un matrimonio come invitata, la scelta riguarda colore, lunghezza e tono dell'evento. Questa guida spiega ogni punto con i dati del negozio."
+        ]
+      },
+      {
+        "heading": "Come scegliere in base all'occasione",
+        "paragraphs": [
+          "Feste di fine anno: prima viene la scadenza. La data di consegna compare solo nella pagina dell'ordine, quindi controllala prima di pagare se la festa è tra poche settimane.",
+          "Laurea: contano colore e lunghezza. Guarda l'invito e l'orario della cerimonia. Di sera stanno bene un abito lungo o midi; di giorno funzionano meglio lunghezze più corte.",
+          "Invitata a un matrimonio: il tono dell'evento viene prima del modello. Giorno o sera, chiesa o sala. Controlla l'invito prima di scegliere il colore.",
+          "Abiti da sposa e da damigella restano fuori da questa guida."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+            "alt": "Modella con abito lungo blu notte con paillettes e spacco laterale, all'aperto",
+            "caption": "Foto ufficiale di SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Come leggere la descrizione del prodotto",
+        "paragraphs": [
+          "La descrizione dice più della foto. Controlla:"
+        ],
+        "bullets": [
+          "**Tessuto:** il poliestere con elastan è comune in questi abiti. Guarda le percentuali, non solo il nome.",
+          "**Fodera e trasparenza:** senza fodera può vedersi il colore della biancheria.",
+          "**Lunghezza:** midi, lungo e corto cambiano il look. Titolo e descrizione non sempre coincidono; controlla la misura in centimetri.",
+          "**Lavaggio:** la descrizione indica se va in lavatrice, a mano o solo a secco."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+            "alt": "Modella di profilo con abito blu polvere monospalla e gonna in tulle",
+            "caption": "Foto ufficiale di SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Taglia: usa le misure del capo",
+        "paragraphs": [
+          "SHEIN pubblica una guida alle taglie per ogni prodotto, in centimetri e pollici, con le istruzioni per misurarsi. Non esiste una tabella unica da PP a GG: usa quella dell'abito scelto. Per le taglie curvy il metodo è lo stesso: confronta le misure del capo con le tue, non il numero sull'etichetta."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+            "alt": "Modella di spalle in abito blu notte a maniche corte e lunghezza media",
+            "caption": "Foto ufficiale di SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792
+          }
+        ]
+      },
+      {
+        "heading": "Consegna e resi",
+        "paragraphs": [
+          "Tempi e resi dipendono dal venditore, dalla destinazione e dall'ordine. Le regole aggiornate sono nella pagina del negozio, e il riepilogo dell'ordine mostra la data di consegna prima del pagamento."
+        ]
+      },
+      {
+        "heading": "Prima di pagare",
+        "paragraphs": [
+          "Tasse e spedizione dipendono dall'ordine e dal paese: controllale nel riepilogo prima di pagare. Il codice 4CW5Y è il codice invito di SHEIN Brasile, non un coupon: si cerca nell'app e non dà sconti. Come funziona è spiegato nella [guida al codice invito](/it/reviews/codice-invito-shein-dove-inserirlo), e le campagne in corso sono nella [pagina di SHEIN](/it/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Un abito da festa SHEIN arriva in tempo per Natale? Dipende dalla data dell'ordine e dalla consegna indicata nella pagina. Confronta quella data con quella della festa.",
+          "Come capisco se l'abito è lungo o midi? Dalla lunghezza nella descrizione e dalla misura in centimetri nella guida alle taglie.",
+          "Il codice 4CW5Y dà uno sconto? No. È un codice invito, non un coupon, e non dà sconti."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 767,
+    "slug": "shein-party-dress-guide-ko",
+    "locale": "ko",
+    "translationKey": "shein-vestido-festa",
+    "title": "SHEIN 브라질 파티 드레스: 행사와 소재로 고르는 법",
+    "seoTitle": "SHEIN 브라질 파티 드레스: 크리스마스와 졸업식에 고르는 법",
+    "type": "구매 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 브라질에서 졸업식, 결혼식 하객, 연말 파티에 입을 드레스를 고르는 법: 행사, 소재, 사이즈, 배송.",
+    "metaDescription": "SHEIN 브라질 파티 드레스 가이드: 행사, 소재, 사이즈, 배송을 크리스마스, 새해, 졸업식 기준으로 정리했습니다.",
+    "publishedAt": "2026년 10월 30일",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+    "imageAlt": "SHEIN 파티 드레스 네이비와 더스티 블루 두 벌, 크리스마스, 새해, 졸업식용",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "소재, 안감, 길이를 확인하는 체크리스트",
+      "상품마다 센티미터 단위 사이즈 가이드",
+      "추천 코드를 쿠폰으로 착각하지 않도록 설명"
+    ],
+    "cons": [
+      "배송과 세금은 주문과 국가에 따라 다릅니다",
+      "제목과 설명의 길이 정보가 다를 수 있습니다",
+      "할인 가격은 자주 바뀝니다"
+    ],
+    "cta": {
+      "text": "SHEIN에서 이름으로 드레스를 검색하고, 결제 전에 주문 요약에서 세금과 배송비를 확인하세요.",
+      "label": "SHEIN으로 이동",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEIN 브라질의 상품 페이지와 규정을 기준으로, 게재일에 확인했습니다. 구매와 추천 코드 4CW5Y로 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-ko",
+        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "답변 요약",
+        "paragraphs": [
+          "SHEIN 브라질에서 파티 드레스는 행사, 소재, 도착 날짜로 고릅니다. 크리스마스와 연말에는 디자인보다 배송 기간이 더 중요합니다. 졸업식이나 결혼식 하객이라면 색, 길이, 행사의 분위기를 봐야 합니다. 이 가이드는 상점이 제공하는 정보로 각 항목을 설명합니다."
+        ]
+      },
+      {
+        "heading": "행사에 맞춰 고르기",
+        "paragraphs": [
+          "연말 파티는 기한이 먼저입니다. 배송 예상일은 주문 페이지에만 나오니, 파티가 몇 주 안에 있다면 결제 전에 확인하세요.",
+          "졸업식: 색과 길이가 결정합니다. 초대장과 식의 시간을 보세요. 저녁이라면 롱이나 미디가 어울리고, 낮이라면 짧은 길이도 괜찮습니다.",
+          "결혼식 하객: 모델보다 행사의 분위기가 먼저입니다. 낮인지 밤인지, 성당인지 연회장인지 보세요. 색을 고르기 전에 초대장을 확인하세요.",
+          "웨딩드레스와 들러리 드레스는 이 가이드에서 다루지 않습니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+            "alt": "야외에서 사이드 슬릿이 있는 네이비 시퀸 롱 드레스를 입은 모델",
+            "caption": "SHEIN 공식 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "상품 설명 읽는 법",
+        "paragraphs": [
+          "설명은 사진보다 많은 것을 알려 줍니다. 다음을 보세요."
+        ],
+        "bullets": [
+          "**소재:** 폴리에스터와 엘라스틴 혼방이 이런 드레스에 많습니다. 이름보다 성분 비율을 보세요.",
+          "**안감과 비침:** 안감이 없으면 속옷 색이 비칠 수 있습니다.",
+          "**길이:** 미디, 롱, 숏은 느낌이 다릅니다. 제목과 설명이 항상 같지는 않으니 센티미터 치수를 확인하세요.",
+          "**세탁:** 세탁기, 손세탁, 드라이클리닝 중 무엇인지 설명에 나옵니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+            "alt": "프로필 자세로 더스티 블루 원숄더 드레스와 메쉬 스커트를 입은 모델",
+            "caption": "SHEIN 공식 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "사이즈: 옷의 치수로 고르기",
+        "paragraphs": [
+          "SHEIN은 상품마다 센티미터와 인치로 된 사이즈 가이드를 제공하고, 측정 방법도 안내합니다. PP부터 GG까지 하나의 표는 없으니 고른 드레스의 가이드를 보세요. 플러스 사이즈도 방법은 같습니다. 라벨의 숫자가 아니라 옷의 치수를 내 치수와 비교하세요."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+            "alt": "반소매의 네이비 미디 길이 드레스를 입고 뒤돌아선 모델",
+            "caption": "SHEIN 공식 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792
+          }
+        ]
+      },
+      {
+        "heading": "배송과 반품",
+        "paragraphs": [
+          "배송 기간과 반품 조건은 판매자, 배송지, 주문에 따라 다릅니다. 최신 규정은 상점 페이지에 있고, 주문 요약에서 결제 전에 배송 예상일을 볼 수 있습니다."
+        ]
+      },
+      {
+        "heading": "결제 전에",
+        "paragraphs": [
+          "세금과 배송비는 주문과 국가에 따라 다르니 결제 전에 주문 요약에서 확인하세요. 4CW5Y는 SHEIN 브라질의 추천 코드이며 쿠폰이 아닙니다. 앱에서 검색하며 할인을 주지 않습니다. 사용법은 [추천 코드 가이드](/ko/reviews/shein-referral-code-ko)에, 진행 중인 캠페인은 [SHEIN 상점 페이지](/ko/coupons/shein)에 있습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "SHEIN 파티 드레스가 크리스마스 전에 도착하나요? 주문 날짜와 주문 페이지의 배송 예상일에 따라 다릅니다. 그 날짜를 파티 날짜와 비교하세요.",
+          "드레스가 롱인지 미디인지 어떻게 알 수 있나요? 상품 설명의 길이와 사이즈 가이드의 센티미터 치수로 알 수 있습니다.",
+          "4CW5Y 코드로 할인을 받을 수 있나요? 아니요. 추천 코드이며 쿠폰이 아니고 할인을 주지 않습니다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 768,
+    "slug": "shein-party-dress-guide-ja",
+    "locale": "ja",
+    "translationKey": "shein-vestido-festa",
+    "title": "SHEIN ブラジルのパーティードレス：用途と生地で選ぶ方法",
+    "seoTitle": "SHEIN ブラジルのパーティードレス：クリスマスと卒業式の選び方",
+    "type": "購入ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN ブラジルで卒業式、結婚式のゲスト、年末のパーティー向けのドレスを選ぶ方法：用途、生地、サイズ、配送。",
+    "metaDescription": "SHEIN ブラジルのパーティードレス・ガイド：クリスマス、大晦日、卒業式に向けた用途・生地・サイズ・配送。",
+    "publishedAt": "2026年10月30日",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+    "imageAlt": "SHEIN のパーティードレス、ネイビーとダスティブルー。クリスマス、年越し、卒業式向け",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "生地、裏地、丈を確認するチェックリスト",
+      "商品ごとのセンチメートル表記のサイズガイド",
+      "紹介コードをクーポンと混同しないための説明"
+    ],
+    "cons": [
+      "配送と税金は注文と国によって異なります",
+      "タイトルと説明文で丈の情報が一致しないことがあります",
+      "セール価格は変わります"
+    ],
+    "cta": {
+      "text": "SHEIN で名前からドレスを検索し、支払う前に注文の概要で税金と送料を確認してください。",
+      "label": "SHEIN へ進む",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEIN ブラジルの商品ページとルールをもとに、公開日に確認しています。購入と紹介コード 4CW5Y により報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-ja",
+        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "SHEIN ブラジルでパーティードレスを選ぶポイントは、用途、生地、届く日の三つです。クリスマスや大晦日は、デザインより配送期間が大切です。卒業式や結婚式のゲストなら、色、丈、会の雰囲気を確認します。このガイドでは、ショップの情報をもとに一つずつ説明します。"
+        ]
+      },
+      {
+        "heading": "用途から選ぶ",
+        "paragraphs": [
+          "年末のパーティーは期限が先です。配送予定日は注文ページにしか出ないので、パーティーが数週間以内なら支払う前に確認してください。",
+          "卒業式：色と丈が決め手です。招待状と式の時間を見てください。夜ならロングかミディが合います。昼なら、短めの丈も合わせやすいです。",
+          "結婚式のゲスト：会の雰囲気がデザインより先です。昼か夜か、教会か会場か。色を決める前に招待状を見てください。",
+          "ウェディングドレスとブライズメイド用のドレスは、このガイドの対象外です。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+            "alt": "屋外で、サイドスリットのあるネイビーのスパンコールのロングドレスを着たモデル",
+            "caption": "SHEIN 公式写真。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "商品説明の読み方",
+        "paragraphs": [
+          "写真よりも説明文に多くの情報があります。次の点を見てください。"
+        ],
+        "bullets": [
+          "**生地：** ポリエステルとポリウレタンの混紡はこの種のドレスによくあります。素材名だけでなく、混率を見てください。",
+          "**裏地と透け感：** 裏地がないと、下着の色が透けることがあります。",
+          "**丈：** ミディ、ロング、ショートで印象が変わります。タイトルと説明文が一致しないこともあるので、センチメートルの寸法を確認してください。",
+          "**洗濯：** 洗濯機、手洗い、ドライクリーニングのどれかが説明文に書かれています。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+            "alt": "横向きで、ダスティブルーのワンショルダーのドレスとメッシュのスカートを着たモデル",
+            "caption": "SHEIN 公式写真。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "サイズ：服の寸法で選ぶ",
+        "paragraphs": [
+          "SHEIN は商品ごとに、センチメートルとインチで表記したサイズガイドを公開しています。測り方も載っています。PP から GG までの共通表はないので、選んだドレスのガイドを使ってください。大きいサイズも方法は同じです。タグの数字ではなく、服の寸法と自分の寸法を比べてください。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+            "alt": "半袖のネイビーのミディ丈ドレスを着て後ろ姿のモデル",
+            "caption": "SHEIN 公式写真。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792
+          }
+        ]
+      },
+      {
+        "heading": "配送と返品",
+        "paragraphs": [
+          "配送期間と返品条件は、販売者、届け先、注文によって異なります。最新のルールはショップのページにあり、注文の概要で支払う前に配送予定日を確認できます。"
+        ]
+      },
+      {
+        "heading": "支払う前に",
+        "paragraphs": [
+          "税金と送料は注文と国によって異なるので、支払う前に注文の概要で確認してください。4CW5Y は SHEIN ブラジルの紹介コードで、クーポンではありません。アプリで検索するもので、割引はありません。仕組みは [紹介コードのガイド](/ja/reviews/shein-referral-code-ja) で、現在のキャンペーンは [SHEIN のショップページ](/ja/coupons/shein) で確認できます。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "SHEIN のパーティードレスはクリスマスに間に合いますか？ 注文日と注文ページの配送予定日によります。その日付をパーティーの日と比べてください。",
+          "ドレスがロングかミディか、どうやって分かりますか？ 商品説明の丈と、サイズガイドのセンチメートルの寸法で分かります。",
+          "4CW5Y で割引になりますか？ いいえ。紹介コードでありクーポンではなく、割引はありません。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 769,
+    "slug": "shein-party-dress-guide-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "shein-vestido-festa",
+    "title": "SHEIN 巴西站派對禮服：按場合與布料怎麼選",
+    "seoTitle": "SHEIN 巴西站派對禮服：聖誕與畢業典禮怎麼選",
+    "type": "購買指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "在 SHEIN 巴西站為畢業典禮、婚禮賓客或年末派對選購禮服：場合、布料、尺碼和配送。",
+    "metaDescription": "SHEIN 巴西站派對禮服指南：場合、布料、尺碼與配送，適用於聖誕、跨年與畢業典禮。",
+    "publishedAt": "2026年10月30日",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+    "imageAlt": "SHEIN 派對禮服，海軍藍與灰藍兩款，適合聖誕、跨年和畢業典禮",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "逐項檢查布料、裡襯和長度的清單",
+      "每件商品以公分為單位的尺碼表",
+      "說明推薦碼，避免與優惠券混淆"
+    ],
+    "cons": [
+      "配送和稅費取決於訂單和國家",
+      "標題和描述中的長度資訊可能不一致",
+      "促銷價格會變動"
+    ],
+    "cta": {
+      "text": "在 SHEIN 依名稱搜尋洋裝，付款前請在訂單摘要中核對稅費和運費。",
+      "label": "前往 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "依據 SHEIN 巴西站的商品頁面與規則，於發布當天核對。購買及推薦碼 4CW5Y 可能為我們帶來佣金。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-zh-hant",
+        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "在 SHEIN 巴西站選派對禮服，主要看三件事：場合、布料和到貨日期。聖誕和跨年時，配送時間比剪裁更重要。畢業典禮或以婚禮賓客身分出席，要看顏色、長度和活動氛圍。本指南用店家提供的資訊，逐項說明。"
+        ]
+      },
+      {
+        "heading": "按場合選擇",
+        "paragraphs": [
+          "年末派對，時間是第一位。配送日期只顯示在訂單頁面，若派對只剩幾週，付款前請先確認。",
+          "畢業典禮：顏色和長度決定造型。看看邀請函和典禮時間。晚上適合長版或中長版，白天可以選較短的長度。",
+          "婚禮賓客：活動氛圍比款式重要。白天還是晚上，教堂還是宴會廳。選顏色前先看邀請函。",
+          "婚紗和伴娘禮服不在本指南範圍內。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+            "alt": "戶外穿著海軍藍亮片長洋裝、帶側開衩的模特",
+            "caption": "SHEIN 官方圖片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "讀懂商品描述",
+        "paragraphs": [
+          "描述裡的資訊比圖片多。請留意："
+        ],
+        "bullets": [
+          "**布料：** 聚酯纖維加彈性纖維在這類洋裝中很常見。看成分比例，不只看名稱。",
+          "**裡襯與透明度：** 沒有裡襯時，內搭的顏色可能透出來。",
+          "**長度：** 中長、長版和短版的感覺不同。標題和描述有時不一致，請以公分為單位的尺寸為準。",
+          "**洗護：** 描述會說明是機洗、手洗還是只能乾洗。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+            "alt": "側身站立，穿著灰藍色單肩洋裝與網紗裙襬的模特",
+            "caption": "SHEIN 官方圖片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "尺碼：看衣服本身的尺寸",
+        "paragraphs": [
+          "SHEIN 為每件商品提供尺碼表，單位有公分和英吋，並附測量方法。PP 到 GG 沒有統一的表，請使用所選洋裝的尺碼表。大尺碼的方法相同：比較衣服尺寸和自己的尺寸，不要只看標籤上的數字。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+            "alt": "背對鏡頭，穿著海軍藍短袖中長洋裝的模特",
+            "caption": "SHEIN 官方圖片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792
+          }
+        ]
+      },
+      {
+        "heading": "配送與退貨",
+        "paragraphs": [
+          "配送時間和退貨條件取決於賣家、收件地和訂單。最新規則在店家頁面，訂單摘要在付款前會顯示預計配送日期。"
+        ]
+      },
+      {
+        "heading": "付款前",
+        "paragraphs": [
+          "稅費和運費取決於訂單和國家，請在付款前的訂單摘要中核對。4CW5Y 是 SHEIN 巴西站的推薦碼，不是優惠券。它要在應用程式中搜尋，也不提供折扣。使用方法見[推薦碼指南](/zh-hant/reviews/shein-referral-code-zh-hant)，目前活動見 [SHEIN 店家頁](/zh-hant/coupons/shein)。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "SHEIN 派對禮服趕得上聖誕嗎？ 取決於下單日期和訂單頁面顯示的配送時間。把這個日期和派對日期比較一下。",
+          "怎麼判斷是長版還是中長版？ 看商品描述中的長度，以及尺碼表中以公分為單位的尺寸。",
+          "4CW5Y 能打折嗎？ 不能。它是推薦碼，不是優惠券，也不提供折扣。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 770,
+    "slug": "shein-party-dress-guide-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "shein-vestido-festa",
+    "title": "SHEIN 巴西站派对礼服：按场合与面料怎么选",
+    "seoTitle": "SHEIN 巴西站派对礼服：圣诞与毕业典礼怎么选",
+    "type": "购买指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "在 SHEIN 巴西站为毕业典礼、婚礼宾客或年末派对选购礼服：场合、面料、尺码和配送。",
+    "metaDescription": "SHEIN 巴西站派对礼服指南：场合、面料、尺码与配送，适用于圣诞、新年与毕业典礼。",
+    "publishedAt": "2026年10月30日",
+    "publishedAtISO": "2026-10-30",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
+    "imageAlt": "SHEIN 派对礼服，海军蓝与灰蓝两款，适合圣诞、新年和毕业典礼",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "逐项检查面料、里衬和长度的清单",
+      "每件商品以厘米为单位的尺码表",
+      "说明推荐码，避免与优惠券混淆"
+    ],
+    "cons": [
+      "配送和税费取决于订单和国家",
+      "标题和描述中的长度信息可能不一致",
+      "促销价格会变化"
+    ],
+    "cta": {
+      "text": "在 SHEIN 按名称搜索礼服，付款前请在订单摘要中核对税费和运费。",
+      "label": "前往 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "依据 SHEIN 巴西站的商品页面和规则，于发布当天核对。购买及推荐码 4CW5Y 可能为我们带来佣金。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-zh-hans",
+        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "在 SHEIN 巴西站选派对礼服，主要看三件事：场合、面料和到货日期。圣诞和跨年时，配送时间比剪裁更重要。毕业典礼或作为婚礼宾客出席，要看颜色、长度和活动的氛围。本指南用店铺提供的信息，逐条说明。"
+        ]
+      },
+      {
+        "heading": "按场合选择",
+        "paragraphs": [
+          "年末派对，时间是第一位。配送日期只显示在订单页面，如果派对只剩几周，付款前请先确认。",
+          "毕业典礼：颜色和长度决定造型。看看邀请函和典礼时间。晚上适合长款或中长款，白天可以选较短的长度。",
+          "婚礼宾客：活动氛围比款式更重要。白天还是晚上，教堂还是宴会厅。选颜色前先看邀请函。",
+          "婚纱和伴娘礼服不在本指南范围内。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
+            "alt": "户外穿着海军蓝亮片长裙、带侧开衩的模特",
+            "caption": "SHEIN 官方图片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "读懂商品描述",
+        "paragraphs": [
+          "描述里的信息比图片多。请留意："
+        ],
+        "bullets": [
+          "**面料：** 聚酯纤维加弹性纤维在这类裙装中很常见。看成分比例，不只看名称。",
+          "**里衬与透明度：** 没有里衬时，内搭的颜色可能透出来。",
+          "**长度：** 中长、长款和短款的感觉不同。标题和描述有时不一致，请以厘米为单位的尺寸为准。",
+          "**洗护：** 描述会说明是机洗、手洗还是只能干洗。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
+            "alt": "侧身站立，穿着灰蓝色单肩连衣裙与网纱裙摆的模特",
+            "caption": "SHEIN 官方图片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "尺码：看衣服本身的尺寸",
+        "paragraphs": [
+          "SHEIN 为每件商品提供尺码表，单位有厘米和英寸，并附有测量方法。PP 到 GG 没有统一的表，请使用所选裙装的尺码表。大码的方法相同：比较衣服的尺寸和自己的尺寸，不要只看标签上的数字。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
+            "alt": "背对镜头，穿着海军蓝短袖中长连衣裙的模特",
+            "caption": "SHEIN 官方图片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7792
+          }
+        ]
+      },
+      {
+        "heading": "配送与退货",
+        "paragraphs": [
+          "配送时间和退货条件取决于卖家、收货地和订单。最新规则在店铺页面，订单摘要在付款前会显示预计配送日期。"
+        ]
+      },
+      {
+        "heading": "付款前",
+        "paragraphs": [
+          "税费和运费取决于订单和国家，请在付款前的订单摘要中核对。4CW5Y 是 SHEIN 巴西站的推荐码，不是优惠券。它要在应用里搜索，也不会提供折扣。使用方法见[推荐码指南](/zh-hans/reviews/shein-referral-code-zh-hans)，当前活动见 [SHEIN 店铺页](/zh-hans/coupons/shein)。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "SHEIN 派对礼服能赶上圣诞吗？ 取决于下单日期和订单页面显示的配送时间。把这个日期和派对日期对比一下。",
+          "怎么判断是长款还是中长款？ 看商品描述里的长度，以及尺码表中以厘米为单位的尺寸。",
+          "4CW5Y 能打折吗？ 不能。它是推荐码，不是优惠券，也不提供折扣。"
+        ]
       }
     ]
   }

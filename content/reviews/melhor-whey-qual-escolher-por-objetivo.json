@@ -91,8 +91,8 @@
     {
       "heading": "Melhor whey zero lactose",
       "paragraphs": [
-        "Para quem quer whey sem lactose, o que mais compensa é o 100% Pure Whey Zero Lactose 900 g da Probiótica. Em 23/10/2026 custava R$ 241,97, com 22 g de proteína em 30 g (73%), 30 porções e R$ 36,66 por 100 g. O rótulo diz que é produzido com WPC sem lactose, e o alergênico traz \"derivados de leite\". Tem 3 sabores: Chocolate, Morango e Baunilha. Foi o único whey declarado sem lactose nas cinco lojas em 23/10/2026.",
-        "A alternativa é o Iso Pro Whey da Probiótica, um isolado (WPI) com 26 g de proteína em 30 g (87%), 1,3 g de carboidrato por dose, R$ 346,28 e R$ 44,40 por 100 g. A loja não o declara como zero lactose, e o alergênico cita derivados de leite e soja: por isso ele entra como alternativa de proteína, não como whey sem lactose.",
+        "Para quem quer whey sem lactose, o que mais compensa é o 100% Pure Whey Zero Lactose 900 g da Probiótica. Em 23/10/2026 custava R$ 241,97, com 21 g de proteína em 30 g (70%, na tabela do chocolate), 30 porções e R$ 38,41 por 100 g. O rótulo diz que é produzido com WPC sem lactose, e o alergênico traz \"derivados de leite\". Tem 3 sabores: Chocolate, Morango e Baunilha. Foi o único whey declarado sem lactose nas cinco lojas em 23/10/2026.",
+        "A alternativa é o Iso Pro Whey da Probiótica, um isolado (WPI) com 26 g de proteína em 30 g (87%), 1,3 g de carboidrato por dose, R$ 346,28 e R$ 44,39 por 100 g. A loja não o declara como zero lactose, e o alergênico cita derivados de leite e soja: por isso ele entra como alternativa de proteína, não como whey sem lactose.",
         "Nas outras marcas, nada declara \"sem lactose\" nesta leitura. A Max não tem whey zero lactose: o \"Zero Lactose\" do menu dela é o Mass Titanium 17500, um hipercalórico. Na Black Skull, todos os wheys contêm lactose. No Whey Dr. Peanut, o rótulo diz que contém lactose, e nos wheys da Mais Mu a página diz que contém lactose ou não declara nada."
       ],
       "postParagraphs": [
@@ -110,7 +110,7 @@
       "heading": "Melhor whey isolado",
       "paragraphs": [
         "Para quem quer um isolado, o que mais compensa é o IsoWhey 900 g da Max Titanium. Em 23/10/2026 custava R$ 326,18 (R$ 316,39 no Pix), com 26 g de proteína em 30 g (87%), 30 porções e R$ 41,82 por 100 g de proteína. Tem 2,3 g de carboidrato por dose, 3 sabores, e contém lactose (alergênicos: leite e soja).",
-        "A alternativa é o Iso Pro Whey 900 g da Probiótica: R$ 346,28, 26 g em 30 g (87%), 30 porções e R$ 44,40 por 100 g de proteína, R$ 2,58 a mais que o IsoWhey. A tabela dele traz também vitaminas e minerais, e o carboidrato é de 1,3 g por dose.",
+        "A alternativa é o Iso Pro Whey 900 g da Probiótica: R$ 346,28, 26 g em 30 g (87%), 30 porções e R$ 44,39 por 100 g de proteína, R$ 2,57 a mais que o IsoWhey. A tabela dele traz também vitaminas e minerais, e o carboidrato é de 1,3 g por dose.",
         "A Black Skull não tinha whey isolado no site em 23/10/2026: a busca por \"isolado\" voltou sem resultado. A Mais Mu vende um isolado em pote de 450 g, mas a lista de ingredientes traz isolada, concentrada e hidrolisada do soro, e a conta dá R$ 85,22 por 100 g de proteína: está no quadro-mestre."
       ],
       "postParagraphs": [
@@ -249,6 +249,77 @@
       }
     },
     {
+      "heading": "Probiótica: concentrado ou isolado",
+      "paragraphs": [
+        "Preços de 30/10/2026, no cartão. A proteína por dose é a da tabela nutricional do sabor indicado em cada linha."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Tipo de proteína",
+          "Proteína por dose",
+          "Preço no cartão",
+          "Por 100 g de proteína"
+        ],
+        "rows": [
+          [
+            "[100% Pure Whey pote, baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+            "Concentrado (WPC)",
+            "20 g em 30 g",
+            "R$ 252,49",
+            "R$ 42,08"
+          ],
+          [
+            "[Iso Pro Whey pote, baunilha](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+            "Isolado (WPI)",
+            "26 g em 30 g",
+            "R$ 346,28",
+            "R$ 44,39"
+          ],
+          [
+            "[100% Pure Whey Zero Lactose pote, chocolate](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+            "Concentrado sem lactose (WPC)",
+            "21 g em 30 g",
+            "R$ 241,97",
+            "R$ 38,41"
+          ],
+          [
+            "[Iso Protein Blend, morango](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+            "Isolado de soja + concentrado do soro",
+            "25 g em 40 g",
+            "R$ 79,00 (promoção, de R$ 121,99)",
+            "R$ 13,74 (R$ 21,22 sem a promoção)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O Iso Pro é o isolado de soro: 26 g por dose e 1,3 g de carboidrato, pelo maior preço por proteína da tabela. Para whey sem lactose, o zero lactose de chocolate sai abaixo do pote de baunilha. O Iso Protein Blend é soja isolada com concentrado do soro, não isolado de soro: na promoção ele sai mais barato, mas a proteína é outra."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/whey/probiotica-100-pure-whey-baunilha.webp",
+          "alt": "Pote azul de 900 g do 100% Pure Whey da Probiótica, sabor Baunilha, de frente",
+          "caption": "Foto oficial da Probiótica.",
+          "objectFit": "contain",
+          "aspectRatio": 0.588
+        },
+        {
+          "src": "/images/reviews/whey/probiotica-iso-pro-baunilha.webp",
+          "alt": "Pote azul de 900 g do Iso Pro Whey da Probiótica, sabor Baunilha, de frente",
+          "caption": "Foto oficial da Probiótica.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6022
+        },
+        {
+          "src": "/images/reviews/whey/probiotica-iso-protein-blend-morango.webp",
+          "alt": "Pote azul de 900 g do Iso Protein Blend da Probiótica, sabor Morango, de frente",
+          "caption": "Foto oficial da Probiótica.",
+          "objectFit": "contain",
+          "aspectRatio": 0.588
+        }
+      ]
+    },
+    {
       "heading": "Quadro-mestre: todos os wheys das cinco lojas",
       "paragraphs": [
         "Todos os wheys em pó das cinco lojas que tiveram a proteína por dose lida, na mesma régua. O quadro não ordena nem pontua: o número mais baixo não é, sozinho, a melhor compra, porque a dose, o tipo de proteína e a lactose mudam de produto para produto."
@@ -354,8 +425,8 @@
           ],
           [
             "[Probiótica 100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-            "22 g em 30 g",
-            "R$ 36,66",
+            "21 g em 30 g",
+            "R$ 38,41",
             "R$ 241,97",
             "Concentrado sem lactose (WPC)",
             "Declara \"sem lactose\"; o alergênico cita derivados de leite"
@@ -379,7 +450,7 @@
           [
             "[Probiótica Iso Pro Whey 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "26 g em 30 g",
-            "R$ 44,40",
+            "R$ 44,39",
             "R$ 346,28",
             "Isolado (WPI)",
             "Não declara"
@@ -493,14 +564,14 @@
           [
             "Whey sem lactose",
             "[Probiótica 100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-            "R$ 36,66",
-            "[Probiótica Iso Pro Whey 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 44,40 (a loja não declara zero lactose)"
+            "R$ 38,41",
+            "[Probiótica Iso Pro Whey 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 44,39 (a loja não declara zero lactose)"
           ],
           [
             "Whey isolado",
             "[Max Titanium IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
             "R$ 41,82",
-            "Probiótica Iso Pro Whey 900 g, R$ 44,40"
+            "Probiótica Iso Pro Whey 900 g, R$ 44,39"
           ],
           [
             "Whey 3W (concentrado, isolado e hidrolisado)",
@@ -593,7 +664,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual o melhor whey custo-benefício em 2026? Não existe um só: pelo preço por 100 g de proteína lido em 23/10/2026, o Whey 80% HD Refil da Black Skull saía a R$ 23,17 e o Hiper 100% Whey da Probiótica, em promoção, a R$ 23,61. O capítulo de custo-benefício traz os dois.",
-        "Whey concentrado ou isolado: qual o melhor? Depende do que você procura. Pelas tabelas, o isolado tem 26 g de proteína em dose de 30 g, contra 20 g a 23 g do concentrado, e custa mais por proteína: R$ 41,82 a R$ 44,40 por 100 g, contra R$ 23,17 do concentrado mais barato do guia.",
+        "Whey concentrado ou isolado: qual o melhor? Depende do que você procura. Pelas tabelas, o isolado tem 26 g de proteína em dose de 30 g, contra 20 g a 23 g do concentrado, e custa mais por proteína: R$ 41,82 a R$ 44,39 por 100 g, contra R$ 23,17 do concentrado mais barato do guia.",
         "Whey 3W ou 100%: qual escolher? O \"100%\" não é um tipo de proteína: o 100% Whey da Max é só concentrado, e o 100% HD da Black Skull mistura concentrado, isolado e hidrolisado. O Top Whey 3W \"+ Sabor\" da Max saía a R$ 33,60 por 100 g de proteína em promoção em 23/10/2026, perto dos R$ 31,17 do 100% Whey Refil.",
         "Qual whey não tem lactose? Entre as cinco lojas, só o 100% Pure Whey Zero Lactose da Probiótica declara \"sem lactose\" (R$ 241,97 em 23/10/2026), e o alergênico dele cita derivados de leite. O Iso Pro Whey não declara lactose, mas a loja não o vende como zero lactose; quem tem intolerância ou alergia deve conferir o rótulo.",
         "Qual whey é melhor para iniciantes? Para começar sem comprar 900 g, as opções lidas são o pote de 450 g e a caixa de sachês da Mais Mu e o Gourmet 450 g da Black Skull, com só 12 g de proteína por dose. Este guia não indica quantidade: quem tem dúvida sobre dose deve falar com nutricionista.",
