@@ -286,7 +286,7 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
       'O CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções. Testado em 26/10/2026 num carrinho de R$ 113,40, com R$ 11,34 de desconto.',
-    metaTitle: 'Cupom Dolce Gusto: 10% OFF com CECI (nov/2026)',
+    metaTitle: 'Código CECI Dolce Gusto: 10% OFF testado (nov/2026)',
     metaDescription:
       'Cupom Dolce Gusto testado em 26/10/2026: CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções.',
     eligibleCategories:
