@@ -16,7 +16,7 @@ estava desatualizada:
 
 ```bash
 npm run typecheck            # tsc --noEmit — gate mais rápido que o build
-npm run validate:content     # modelo de conteúdo
+npm run validate:content     # modelo de conteúdo e o texto dos artigos em PT (roda no build)
 npm run validate:video       # metadados e páginas de exibição de vídeo
 npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
@@ -210,6 +210,13 @@ vídeo, primeiras impressões e uso noturno.
   mostra crus, e não levam marcação. Formato novo de marcação entra nesse módulo, nunca num regex à
   parte. O `test:build-output` compara as perguntas e as respostas do acordeão com o `FAQPage` de cada
   artigo, e o `validate:content` barra `](` e `**` no `plainTextBody` de todo artigo.
+- Texto sem cara de prontuário nos artigos em português (`validate:content`, que roda no build; regras em
+  `scripts/review-prose-checks.ts`): resposta rápida sem "R$", no máximo 2 datas no corpo (8 com
+  `bodyDatesReason`: `campanha`, `prazo-entrega` ou `reclame-aqui`; o `editorialNote` não conta), nenhuma data em
+  título de seção, legenda de foto ou FAQ e nenhuma seção "Nota de transparência" (a nota sai no cabeçalho). Os
+  artigos de antes da regra (31/10/2026) estão em `scripts/review-prose-baseline.json`, que só encolhe: artigo fora
+  dela que fura a regra, ou artigo dela que piora, quebra o build, e quem corrige um artigo baixa ou tira a entrada
+  dele, como o erro pede.
 - O processo editorial (pauta, redação, revisão, JSON e gates) está no vault
   `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
 
