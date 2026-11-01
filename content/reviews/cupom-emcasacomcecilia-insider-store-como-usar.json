@@ -31,7 +31,7 @@
     "O checkout mostra o desconto em cada item antes do pagamento"
   ],
   "cons": [
-    "Não vale para lançamentos nem nas lojas físicas",
+    "Pode não entrar nos primeiros dias de um lançamento e não vale nas lojas físicas",
     "A loja aceita um cupom por pedido",
     "O frete grátis depende do valor do pedido depois do desconto",
     "Underwear e beachwear só têm troca em caso de defeito"
@@ -114,13 +114,13 @@
     {
       "heading": "Onde o cupom vale: o que o nosso teste mostrou",
       "paragraphs": [
-        "As regras oficiais do programa são curtas: o cupom vale nas compras da loja online, não vale para **produtos de lançamento**, não vale nas **lojas físicas** da Insider e não é cumulativo com outro cupom, porque a loja aceita só um por pedido.",
+        "As regras oficiais do programa são curtas: o cupom vale nas compras da loja online, pode não entrar nos primeiros dias de um **lançamento**, não vale nas **lojas físicas** da Insider e não é cumulativo com outro cupom, porque a loja aceita só um por pedido.",
         "Para saber como isso funciona no dia a dia, testamos o cupom no checkout oficial em 5 de outubro de 2026, sem finalizar a compra. O desconto entrou numa Tech T-Shirt, numa Undershirt Antissuor, num kit com três Tech T-Shirts femininas que já estava com preço promocional e numa peça do Outlet. Também testamos uma meia de R$ 25 sozinha no carrinho, e o desconto entrou: não encontramos valor mínimo de pedido para usar o cupom. Em todos esses itens o desconto foi de 15% do preço, o que voltamos a conferir no checkout dias depois.",
         "Num vestido marcado como lançamento, o cupom não deu desconto. Já peças com a mesma etiqueta, como a Tech T-Shirt e os sutiãs Nakedfeel do Outlet, receberam o desconto normalmente: em geral, o lançamento fica fora do cupom só nos primeiros dias. O jeito seguro de saber é o resumo do pedido, que mostra item por item o que entrou no cupom."
       ],
       "bullets": [
         "**Vale:** loja online da Insider, inclusive Outlet, kits e peças com preço promocional.",
-        "**Não vale:** produtos de lançamento e compras nas lojas físicas.",
+        "**Não vale:** compras nas lojas físicas. Em lançamento, pode não entrar nos primeiros dias.",
         "**Não soma:** com outro cupom no mesmo pedido.",
         "**Marketplaces:** o EMCASACOMCECILIA é usado no checkout do site da Insider; em outras lojas e marketplaces o código não se aplica."
       ]
@@ -129,7 +129,7 @@
       "heading": "Frete grátis, primeira compra e outros cupons",
       "paragraphs": [
         "O cupom dá desconto nos produtos, não no frete. Pela política de frete da Insider, a entrega é grátis em compras **acima de R$ 399**, e esse valor é conferido **depois** do desconto do cupom. Se o desconto deixar o pedido abaixo de R$ 399, o frete passa a ser cobrado: um carrinho de R$ 450, por exemplo, cai para R$ 382,50 com os 15% e fica sem frete grátis. O carrinho mostra quanto falta para o frete grátis, então vale olhar esse aviso antes de finalizar.",
-        "Quem procura **cupom Insider para primeira compra** pode usar o EMCASACOMCECILIA normalmente: ele não exige cadastro anterior nem conta na loja, e funcionou no nosso teste sem login. A própria Insider também oferece um **cupom de boas-vindas** para a primeira compra online: o código chega depois que você cadastra o e-mail no pop-up que aparece ao entrar no site. Segundo a central de ajuda da loja, se o pop-up não aparecer, vale conferir se ele não está bloqueado no navegador ou abrir o site numa aba anônima.",
+        "Quem procura **cupom Insider para primeira compra** pode usar o EMCASACOMCECILIA normalmente: ele não exige cadastro anterior nem conta na loja, e funcionou no nosso teste sem login. A Insider também oferece um **cupom de boas-vindas** para a primeira compra online: o código chega depois que você cadastra o e-mail no pop-up do site. Se o pop-up não aparecer, a central de ajuda manda conferir o bloqueador do navegador ou abrir o site numa aba anônima.",
         "Há ainda o programa de indicação, o Member Get Member: a cada compra, o cliente recebe um cupom de R$ 150 para passar a alguém que nunca comprou na loja. Esse cupom vale em compras acima de R$ 399.",
         "Como a loja aceita só um cupom por pedido, nenhum deles se soma ao outro. Se você tiver mais de um, a conta é simples: aplique um, veja o total, troque pelo outro e fique com o que deixar o pedido mais barato. Lembre que o cupom de indicação só entra em pedidos acima de R$ 399, e que o cupom de boas-vindas vale apenas na primeira compra."
       ]
@@ -151,7 +151,7 @@
         ]
       },
       "postParagraphs": [
-        "A Tech T-Shirt é o produto mais conhecido da marca, e a garantia contra desbotamento é o argumento mais concreto da Insider: segundo os termos da loja, ela vale por 2 anos, desde que a lavagem siga a etiqueta, com ciclo delicado em até 30 °C, sem deixar de molho, sem alvejante, sem amaciante e com secagem à sombra.",
+        "A Tech T-Shirt é o produto mais conhecido, e a garantia contra desbotamento é o argumento mais concreto: 2 anos, pelos termos da loja, se a lavagem seguir a etiqueta — ciclo delicado até 30 °C, sem molho, sem alvejante, sem amaciante e secagem à sombra.",
         "Os kits costumam ser a forma mais econômica de comprar várias peças, porque o preço por unidade já é menor. Com o cupom por cima e o pedido acima de R$ 399, o frete também sai grátis."
       ],
       "image": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",

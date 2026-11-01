@@ -61,7 +61,7 @@
     {
       "heading": "O que o rótulo da Nutren Creatina confirma",
       "paragraphs": [
-        "A frente e o verso da embalagem fornecem os dados necessários para avaliar esta apresentação sem extrapolar o que a marca declarou."
+        "Frente e verso da embalagem: o que a marca declara, sem extrapolar."
       ],
       "bullets": [
         "Ingrediente: creatina monohidratada;",
@@ -80,7 +80,7 @@
     {
       "heading": "Comparativo auditável: Nutren, Growth, FTW e Lavitan",
       "paragraphs": [
-        "Os preços vêm das páginas oficiais: Nutren, FTW e Lavitan em 27 de agosto de 2026, e Growth em 18 de outubro de 2026. A tabela põe as quatro marcas lado a lado, com preço por 100 g onde havia oferta oficial ativa.",
+        "Na tabela, as quatro marcas lado a lado pelo custo por 100 g, com Nutren e FTW empatadas à vista.",
         "Não atribuímos superioridade de pureza, eficácia ou controle de qualidade sem laudo comparável dos mesmos lotes. A expressão “100% monohidratada” descreve a composição declarada; não substitui ensaio laboratorial independente."
       ],
       "comparisonTable": {
@@ -163,7 +163,9 @@
         "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth usa porção de 5 g e embalagem de 250 g, então rende menos doses; vale para quem já compra na loja dela. A FTW oferece pote de 300 g e chega ao mesmo custo por 100 g da Nutren com CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
         "Em qualquer marca, confirme no rótulo o ingrediente, a porção, o lacre, o lote, a validade e as advertências. Compare o preço final depois de frete e desconto, não apenas o número em destaque na vitrine."
       ],
-      "bullets": []
+      "bullets": [],
+      "emphasis": "Pelos números da tabela, para quem já compra na Nestlé Nutre a escolha é a Nutren, porque ela empata no menor custo por 100 g com o CECI.",
+      "emphasisAfterParagraph": 2
     },
     {
       "heading": "Como preparar e quais cuidados observar",
@@ -177,9 +179,9 @@
     {
       "heading": "Creatina engorda, incha ou serve para idosos?",
       "paragraphs": [
-        "A tabela nutricional informa que a porção não contém quantidades significativas de valor energético. Isso, isoladamente, não permite prometer ausência de mudança no peso corporal nem afirmar que qualquer retenção será exclusivamente dentro do músculo; respostas individuais e o restante da rotina também importam.",
+        "A porção não tem valor energético significativo, mas isso não promete peso igual na balança: o resto da rotina também conta.",
         "Para pessoas idosas, a resposta não deve começar por “sim”. A embalagem indica uso adulto, mas idade, doenças, função renal, alimentação e medicamentos podem mudar a decisão. A avaliação deve ser individualizada por um profissional de saúde.",
-        "Também não usamos a Nutren Creatina para prometer tratamento de sarcopenia, melhora cognitiva ou saúde óssea. Essas seriam alegações médicas que vão além da finalidade autorizada para o suplemento."
+        "A Nutren Creatina também não promete tratar sarcopenia nem entregar melhora cognitiva ou saúde óssea. Essas seriam alegações médicas que vão além da finalidade autorizada para o suplemento."
       ],
       "bullets": []
     },
@@ -227,6 +229,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você quer creatina monohidratada sem mistura, pelo rótulo.",
+      "Você escolhe pelo menor custo por 100 g e confere o preço final depois de frete e desconto."
+    ],
+    "skipIf": [
+      "Você espera que a marca Nestlé torne a creatina mais eficaz ou mais pura: sem laudo comparável dos mesmos lotes, isso não dá para afirmar.",
+      "Você é idoso, tem doença ou usa medicamentos: a decisão fica com médico ou nutricionista."
+    ]
+  },
   "cta": {
     "text": "Consulte a Nutren Creatina na loja oficial e confira se o cupom CECI se aplica ao carrinho",
     "label": "Ver creatina na loja oficial",

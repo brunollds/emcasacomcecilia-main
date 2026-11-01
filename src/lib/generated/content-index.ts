@@ -38741,7 +38741,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O Adaptador NEO Start: entendendo o sistema",
         "paragraphs": [
-          "Se você possui uma máquina de café NESCAFÉ Dolce Gusto da linha tradicional (ORIGINAL) e deseja experimentar as cápsulas de papel compostáveis da linha NEO, o Adaptador NEO Start é a ponte criada pela marca para viabilizar essa compatibilidade.",
+          "Tem uma Dolce Gusto ORIGINAL e quer provar as cápsulas NEO de papel compostável? O Adaptador NEO Start é a ponte entre os dois sistemas.",
           "No Brasil, a Dolce Gusto opera com dois ecossistemas de bebidas: o sistema ORIGINAL e o sistema NEO. O adaptador permite preparar cápsulas NEO selecionadas em modelos compatíveis da linha ORIGINAL sem comprar uma máquina NEO dedicada."
         ],
         "bullets": [],
@@ -38759,7 +38759,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual é a diferença entre cápsulas ORIGINAL e NEO?",
         "paragraphs": [
-          "A diferença fundamental está no formato, no sistema de encaixe e na tecnologia das cápsulas. A linha NEO usa cápsulas de papel compostável, enquanto a linha ORIGINAL utiliza outro formato de cápsula e porta-cápsula.",
+          "O que separa as linhas é o formato e o encaixe: a NEO é de papel compostável, a ORIGINAL usa outro porta-cápsula.",
           "Do ponto de vista prático, máquinas NEO já vêm preparadas para as cápsulas NEO. Máquinas ORIGINAL compatíveis precisam do adaptador para preparar cápsulas NEO selecionadas."
         ],
         "bullets": [
@@ -38778,7 +38778,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona o Adaptador NEO Start",
         "paragraphs": [
-          "O Adaptador NEO Start é um acessório de encaixe que substitui temporariamente o porta-cápsulas padrão da sua máquina ORIGINAL. O manual oficial do produto estabelece quatro recomendações de uso e segurança essenciais para a operação.",
+          "O adaptador entra no lugar do porta-cápsulas da ORIGINAL e libera as NEO de café preto, só com água quente. O manual oficial do produto estabelece quatro recomendações de uso e segurança essenciais para a operação.",
           "Como preparar a bebida por tipo de máquina: nas máquinas Flow Stop, selecione o volume em tracinhos normalmente. Nas máquinas manuais, mova a alavanca para a posição de água quente e retorne-a manualmente para a posição central neutra quando atingir o volume desejado na xícara.",
           "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force: auxilie o fechamento aplicando leve pressão com a palma da mão.",
           "Atenção ao resfriamento: Após a extração, aguarde alguns segundos e retire o adaptador segurando estritamente pela pega/haste de manuseio dedicada, pois o acessório fica muito quente durante a passagem de água."
@@ -38829,7 +38829,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cápsulas NEO compatíveis com o adaptador",
         "paragraphs": [
-          "O Adaptador NEO Start é compatível com uma seleção oficial de cafés pretos da linha NEO (variedades de Espresso e Lungo). Bebidas com leite, chás ou receitas mistas não são suportadas pelo adaptador.",
+          "Só café preto passa pelo adaptador: Espresso e Lungo da linha NEO, nada de leite, chá ou receita mista.",
           "Estes são os cafés pretos citados no FAQ oficial da NESCAFÉ Dolce Gusto:"
         ],
         "bullets": [
@@ -38879,7 +38879,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar?",
         "paragraphs": [
-          "Essa é uma pergunta que depende do seu caso específico. Para quem já tem uma máquina ORIGINAL compatível e quer experimentar cápsulas NEO selecionadas, o adaptador pode evitar a compra imediata de outra máquina. Mas vale avaliar:"
+          "Depende do seu consumo: quem já tem uma ORIGINAL compatível prova a NEO sem trocar de máquina. Mas vale avaliar:"
         ],
         "bullets": [
           "Se você bebe café regularmente e se interessa pela proposta das cápsulas NEO, o acessório pode fazer sentido para uso contínuo.",
@@ -38982,7 +38982,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os 5 sabores Starbucks para Dolce Gusto",
         "paragraphs": [
-          "O catálogo Starbucks by NESCAFÉ Dolce Gusto varia conforme a disponibilidade na loja oficial. Abaixo estão os sabores documentados em 30 de julho de 2026, com preços e status de estoque verificados naquela data. Lembre-se de que preços, ofertas e disponibilidade mudam — sempre confira na loja oficial antes de finalizar a compra."
+          "São 5 sabores: 3 cafés puros em caixa de 10 e 2 de leite no 5+5. Abaixo estão os sabores documentados em 30 de julho de 2026, com preços e status de estoque verificados naquela data. Lembre-se de que preços, ofertas e disponibilidade mudam — sempre confira na loja oficial antes de finalizar a compra."
         ],
         "bullets": []
       },
@@ -39119,7 +39119,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o Sleeptest",
         "paragraphs": [
           "O Sleeptest é a política de teste de conforto da I Wanna Sleep — basicamente, você compra um colchão, travesseiro ou outro item e tem um período para testar em casa antes de decidir se mantém ou troca. Parece simples, mas a realidade tem camadas: prazos diferentes dependendo do produto, custos que você precisa pagar em algumas categorias, e regras bem específicas sobre embalagem e estado do item.",
-          "A gente mantém uma parceria com a marca e já recebemos alguns produtos aqui em casa (como o Cobertor IWS Igloo), mas nunca acionamos uma troca via Sleeptest. As informações que você encontra neste artigo vêm diretamente da política oficial publicada em suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Sleeptest, conferida de novo em 12 de outubro de 2026. Por isso, resolvemos traduzir tudo para PT limpo: o que a gente sabe, as pegadinhas, e o que você precisa conferir antes de comprar."
+          "A gente mantém uma parceria com a marca e já recebemos alguns produtos aqui em casa (como o Cobertor IWS Igloo), mas nunca acionamos uma troca via Sleeptest. As informações que você encontra neste artigo vêm diretamente da política oficial publicada em suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Sleeptest, conferida de novo em 12 de outubro de 2026. O que você encontra abaixo: prazos, custos e as regras de embalagem para conferir antes de comprar."
         ]
       },
       {
@@ -39162,7 +39162,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cobertores: confira a página do produto antes de comprar",
         "paragraphs": [
-          "Aqui entra uma pegadinha importante. A política oficial do Sleeptest que capturamos da central de ajuda não lista cobertores como categoria — ela cobre colchões, travesseiros, pillow tops e nutrição.",
+          "Cobertor não entra na regra de travesseiro: a política oficial não lista cobertores como categoria.",
           "Mas produtos específicos como o Cobertor IWS Igloo (que a gente tem aqui em casa) anunciam suas próprias políticas de teste na página do produto. No caso do Igloo, a marca anuncia \"teste de 30 noites com reembolso em crédito\".",
           "A lição: não suponha que cobertor segue a regra de travesseiro só porque parecem similares. Cada produto tem sua política anunciada na página. Confira lá antes de adicionar ao carrinho — e se tiver dúvida, mande mensagem pro atendimento da marca para confirmar antes de comprar."
         ],
@@ -39182,7 +39182,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Letras miúdas que todo comprador precisa saber",
         "paragraphs": [
-          "Além das regras por categoria, aqui estão os detalhes que costumam passar batido e depois geram frustração:"
+          "O que mais tira o direito à troca: etiqueta arrancada, embalagem perdida e segunda troca no mesmo CPF."
         ],
         "bullets": [
           "Etiqueta intacta é obrigatória: Se você remover a etiqueta de fábrica, perde o direito à troca. Mesmo que o colchão/travesseiro esteja perfeito.",
@@ -39196,7 +39196,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Crédito ou reembolso? (Spoiler: geralmente é crédito)",
         "paragraphs": [
-          "Essa é a pergunta mais frequente. Na prática:",
+          "Na prática, é quase sempre crédito na loja.",
           "Para travesseiros e pillow tops: O cliente recebe crédito automaticamente — não há devolução em dinheiro. O crédito fica na sua conta da loja e pode ser usado para comprar outro travesseiro, pillow top, lençol, sleepwear ou acessórios.",
           "Para colchões com diferença de preço: Se o novo colchão for mais barato, você também recebe crédito — não reembolso. Se for mais caro, você paga a diferença.",
           "Em resumo: a política prioriza o crédito na loja, não a devolução em dinheiro. A exceção são as compras feitas no site, que podem ser devolvidas em até 7 dias, como prevê o Código de Defesa do Consumidor."
@@ -39207,7 +39207,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Sleeptest é uma ótima garantia de conforto — você não está comprando \"gato por lebre\" nem ficando preso a um colchão que não dorme bem. Mas não é tão \"sem risco\" quanto parece à primeira vista.",
           "Para colchões, os R$300 de taxa de logística reversa são um custo real. Em Belo Horizonte pode não parecer muito, mas é algo que você precisa contabilizar antes de comprar — se o colchão vai ser devolvido, você já desconta esses R$300 do valor que pagou. Fora de Belo Horizonte e da região metropolitana, a política não publica o valor: é preciso consultar o pós-vendas.",
-          "Para travesseiros, aí sim: sem custo, 30 dias, crédito. É um incentivo real para você testar em casa com calma, o que é legal.",
+          "Para travesseiros, sim: sem custo, 30 dias e crédito para testar em casa com calma.",
           "A grande pegadinha é a etiqueta intacta e a embalagem original completa — muita gente abre tudo para limpar/lavar antes de dormir pela primeira vez e depois descobre que não pode trocar. Leia essa parte do contrato antes de rasgar a embalagem."
         ]
       },
@@ -39297,7 +39297,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A linha do tempo da crise",
         "paragraphs": [
-          "O que aconteceu, segundo fontes oficiais e reportagens já publicadas:"
+          "Da fundação à fiscalização, quatro marcos entre 2024 e 2025, segundo fontes oficiais e reportagens:"
         ],
         "bullets": [
           "2024 — A empresa é fundada e expande suas operações de vendas nas redes sociais",
@@ -39370,8 +39370,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que fazer se você comprou da Sofá na Caixa e está com problema",
         "paragraphs": [
-          "Para consumidores que compraram e enfrentam atraso na entrega ou falta de estorno, os órgãos de defesa recomendam guardar todos os comprovantes, notas fiscais e conversas registradas.",
-          "Conforme o Código de Defesa do Consumidor (CDC), o comprador pode exigir o cumprimento forçado da entrega, a aceitação de produto equivalente ou a rescisão do contrato com restituição dos valores pagos.",
+          "Comprou e está com atraso ou sem estorno? Os órgãos de defesa recomendam guardar comprovantes, notas fiscais e conversas.",
+          "O Código de Defesa do Consumidor (CDC) permite exigir a entrega forçada, produto equivalente ou a rescisão com restituição dos valores.",
           "Se decidir ir ao Juizado Especial Cível da sua cidade, leve os comprovantes e peça orientação sobre os documentos.",
           "Se o valor for alto, fale com um advogado antes de ir ao Juizado."
         ],
@@ -39386,7 +39386,7 @@ export const reviewsData: unknown[] = [
         "heading": "Procon-SP (2026): comparação de registros no painel 'Empresas Reclamadas'",
         "paragraphs": [
           "Transparência comercial: O Em Casa com Cecília mantém link de afiliado com a fabricante Damie. Ao pesquisar marcas de estofados modulares online em 2026, analisamos os registros públicos do Procon-SP para comparar o volume de demandas abertas no órgão.",
-          "Na consulta realizada em 2026 no painel de busca 'Empresas Reclamadas' do Procon-SP, a diferença no volume absoluto de queixas registradas no órgão estadual é marcante.",
+          "No painel 'Empresas Reclamadas' do Procon-SP, a Sofá na Caixa soma 1.125 queixas contra 6 da Damie.",
           "A pesquisa 'Empresas Reclamadas' quantifica os atendimentos abertos no Procon-SP. Ela não se confunde com a lista 'Evite Estes Sites', que é uma consulta administrativa separada."
         ],
         "bullets": [
@@ -40553,7 +40553,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é a máscara Aliv Head Gel IWS",
         "paragraphs": [
           "A Aliv Head Gel IWS é uma máscara térmica reutilizável da I Wanna Sleep, criada para aplicação fria ou quente na cabeça e na região dos olhos.",
-          "Em formato de touca elástica com gel térmico em 360 graus, ela cobre a testa, as têmporas e os olhos para oferecer conforto térmico e reduzir a luz durante uma pausa ou descanso. Este guia resume as informações públicas da marca; ele não substitui orientação profissional de saúde."
+          "Em touca elástica com gel em 360 graus, ela cobre testa, têmporas e olhos para a pausa ou o descanso. Não substitui orientação profissional de saúde."
         ],
         "bullets": [
           "Design 360 graus em formato de touca elástica sem velcros ou fivelas.",
@@ -40582,7 +40582,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Uso frio: siga o tempo de resfriamento indicado pela marca.",
           "Uso quente: aqueça por 15 a 30 segundos e teste antes de usar.",
-          "O gel permanece maleável quando resfriado, segundo a marca.",
+          "A marca diz que o gel segue maleável depois de resfriado.",
           "Limpe apenas a parte externa com pano úmido; não mergulhe o produto em água."
         ],
         "images": [
@@ -40616,7 +40616,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena? Para quem serve",
         "paragraphs": [
-          "A máscara pode ser uma opção de conforto térmico em casa, no trabalho ou durante uma pausa. Ela não substitui diagnóstico, tratamento ou medicamentos prescritos.",
+          "Vale para a pausa com compressa em casa ou no trabalho; não para quem espera blackout total. Ela não substitui diagnóstico, tratamento ou medicamentos prescritos.",
           "Pode fazer sentido para quem procura uma compressa reutilizável que cubra olhos e têmporas. Para dores frequentes ou incapacitantes, procure orientação profissional antes de depender de qualquer medida caseira."
         ],
         "bullets": [
@@ -40747,11 +40747,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que fazer antes de comprar",
         "paragraphs": [
-          "Com base nesse padrão, estas são as verificações que valem a pena antes de fechar o pedido:"
+          "Pelo padrão das queixas: canal oficial, leitura atenta e comprovante guardado."
         ],
         "bullets": [
           "Compre pelo site oficial (iwannasleep.com.br), que é o canal avaliado neste artigo e onde o cupom vale.",
-          "Leia a ficha técnica completa do produto, incluindo materiais, dimensões e tecnologias, antes de comprar — para evitar expectativa desalinhada com o que chega.",
+          "Leia a página do produto com atenção — materiais, medidas e tecnologias — para o que chegar não frustrar a expectativa.",
           "Guarde comprovante de pagamento e número do pedido para rastreamento e eventual contato com o suporte.",
           "Se o produto chegar com problema, acione o suporte dentro do prazo de arrependimento (7 dias) ou de defeito (30 dias) e não descarte a embalagem original antes da resolução.",
           "Consulte o perfil atualizado no Reclame Aqui no dia da sua compra — a nota muda com o tempo."
@@ -40760,7 +40760,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
-          "O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Por meio dessa parceria, os leitores podem utilizar o cupom CECIEMCASA para obter 10% de desconto nos produtos elegíveis do site oficial. A utilização do cupom não gera custo adicional para o leitor."
+          "O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Com o cupom CECIEMCASA, 10% nos elegíveis do site oficial, sem custo a mais para você."
         ],
         "bullets": [],
         "links": [
@@ -40837,7 +40837,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é a Melatonina Líquida IWS",
         "paragraphs": [
-          "É um suplemento alimentar em gotas, sabor natural de maracujá, da marca brasileira I Wanna Sleep. Na linha de nutrição do sono da marca, é a **Melatonina Líquida IWS 30ml**.",
+          "É o suplemento alimentar em gotas da linha de sono da I Wanna Sleep: sabor maracujá, frasco de 30 ml.",
           "A apresentação em gotas permite contar a porção gota a gota e dispensa engolir comprimido ou cápsula."
         ],
         "image": "/images/reviews/iwannasleep/melatonina-liquida-maracuja.webp",
@@ -40848,7 +40848,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ficha técnica: concentração, rendimento e ingredientes",
         "paragraphs": [
-          "A Melatonina Líquida IWS vem em frasco conta-gotas de 30 ml, com cerca de **750 gotas** por unidade. Segundo a rotulagem e os dados da fabricante:"
+          "A Melatonina Líquida IWS vem em frasco conta-gotas de 30 ml, com cerca de **750 gotas** por unidade. Diz o rótulo:"
         ],
         "image": "/images/reviews/iwannasleep/melatonina-liquida-splash.webp",
         "imageAlt": "Frasco conta-gotas da Melatonina Líquida IWS 30ml, sabor maracujá",
@@ -40858,7 +40858,7 @@ export const reviewsData: unknown[] = [
           "**Porção:** 1 gota, com 0,21 mg de melatonina.",
           "**Modo de uso:** 1 gota por via oral antes de dormir, ou conforme orientação médica ou nutricional. A página oficial não fixa um intervalo de minutos antes de deitar e não indica reter o líquido sob a língua nem diluí-lo.",
           "**Ingredientes:** água purificada, melatonina, agente de massa glicerina vegetal, aromatizante natural de maracujá e acidulante ácido cítrico.",
-          "**Perfil:** sem glúten, sem lactose, sem adição de açúcares e vegano, segundo o fabricante.",
+          "**Perfil:** sem glúten, sem lactose, sem adição de açúcares e vegano, diz o fabricante.",
           "**Validade e conservação:** conferir na embalagem, inclusive os cuidados depois de aberto. As cerca de 750 gotas do frasco dependem disso."
         ]
       },
@@ -40872,7 +40872,7 @@ export const reviewsData: unknown[] = [
           "**Atividades de atenção:** não consumir antes de dirigir, operar máquinas ou fazer tarefas que exigem atenção constante.",
           "**Doenças e medicamentos:** quem tem enfermidade ou usa medicamento deve consultar um profissional de saúde antes de consumir.",
           "**Porção:** não exceder a recomendação da embalagem nem associar outros produtos com melatonina.",
-          "**Dúvidas:** procure um médico ou nutricionista. A ficha não define quantidade nem horário para ninguém."
+          "**Dúvidas:** quantidade e horário são com um médico ou nutricionista."
         ]
       },
       {
@@ -40901,8 +40901,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comprar no site oficial com o cupom CECIEMCASA",
         "paragraphs": [
-          "O Em Casa com Cecília mantém parceria comercial com a I Wanna Sleep. No checkout da loja oficial, você pode testar o [cupom I Wanna Sleep](/cupons/i-wanna-sleep), o **CECIEMCASA**, para buscar **10% de desconto** em produtos elegíveis, incluindo a linha de nutrição do sono e os kits da Melatonina Líquida, segundo o regulamento vigente da marca.",
-          "O uso do cupom não gera custo adicional para o comprador e funciona como uma forma de apoiar o nosso trabalho editorial independente."
+          "O site é parceiro da I Wanna Sleep: no checkout oficial, teste o [cupom I Wanna Sleep](/cupons/i-wanna-sleep), o **CECIEMCASA**, para 10% nos elegíveis, incluindo a nutrição do sono e os kits.",
+          "O cupom não custa nada a mais e ajuda a manter o site."
         ],
         "links": [
           {
@@ -41040,14 +41040,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Design Terracota e controles da Mini Me 2.0",
         "paragraphs": [
-          "Quando buscamos montar um cantinho do café funcional para quem passa o dia trabalhando no computador, espaço de bancada e praticidade de uso são determinantes. No nosso teste real com a NESCAFÉ Dolce Gusto Mini Me 2.0, avaliamos o acabamento na cor Terracota: um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
+          "Para o cantinho do café de quem trabalha no computador, o que decide é bancada livre e praticidade. No nosso teste real com a NESCAFÉ Dolce Gusto Mini Me 2.0, avaliamos o acabamento na cor Terracota: um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
           "Em relação à Mini Me clássica, que usa uma alavanca para alternar entre água quente e fria, a versão 2.0 a substitui por controles superiores. No painel, há dois controles principais: um botão para selecionar a temperatura da bebida e outro para iniciar o preparo. A dosagem automática segue o número de barras indicado na cápsula, e o reservatório transparente de 0,8 litro fica na parte traseira."
         ]
       },
       {
         "heading": "Minha experiência: considerações e rotina de uso",
         "paragraphs": [
-          "A Mini Me 2.0 chega em 2026 como uma atualização muito bem-vinda do modelo de entrada da Dolce Gusto. Achei o design mais compacto e bonito, e os controles são intuitivos no dia a dia. Ela prepara uma grande variedade de bebidas quentes e frias de forma rápida e descomplicada; para mim, é uma boa escolha para quem quer ir além do café e ter bebidas em cápsula sem abrir mão da praticidade no preparo.",
+          "Para quem quer ir além do café sem complicar o preparo, a 2.0 é a entrada atualizada. Achei o design mais compacto e bonito, e os controles são intuitivos no dia a dia. Ela prepara uma grande variedade de bebidas quentes e frias de forma rápida e descomplicada; para mim, é uma boa escolha para quem quer ir além do café e ter bebidas em cápsula sem abrir mão da praticidade no preparo.",
           "Na rotina de trabalho, as bebidas que mais preparo na Mini Me 2.0 são o **Lungo** (nível 4 de dosagem, ~120 ml) e o **Café Matinal** (níveis 6 a 7, ~180 a 200 ml). São opções que rendem uma xícara maior para acompanhar períodos mais longos de foco, sem a necessidade de interromper o trabalho para preparar outra bebida tão cedo.",
           "O funcionamento é simples: você seleciona a temperatura desejada, ajusta o número de barras na escala conforme a indicação da cápsula (ou pela nossa [tabela de medidas em ml por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)) e inicia o preparo. A máquina realiza a extração automática com pressão de 15 bar e interrompe o fluxo ao atingir o volume selecionado."
         ],
@@ -41067,14 +41067,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pontos reais de atenção: o que observar no uso prático",
         "paragraphs": [
-          "Como fazemos em todas as nossas análises no Em Casa com Cecília, trazemos os detalhes práticos que só aparecem na rotina de uso contínuo:"
+          "O que só aparece no uso contínuo: aquecimento, plugue, pingamento e o Eco de 1 minuto."
         ],
         "bullets": [
           "**Dois controles no painel:** Um botão seleciona a temperatura da bebida; o outro inicia o preparo com a dosagem automática definida pelas barras da cápsula.",
-          "**Modo Eco (1 minuto de inatividade):** Segundo especificações da fabricante, a máquina conta com desligamento automático inteligente após 1 minuto sem uso, que, segundo a fabricante, reduz o consumo de energia em até 20%.",
+          "**Modo Eco (1 minuto sem uso):** desliga sozinha após 1 minuto parada; a economia de até 20% é número da fabricante.",
           "**Tempo de aquecimento inicial (20 a 30 segundos):** Ao ligar a máquina, o LED pisca em vermelho durante o pré-aquecimento do termobloco, levando entre 20 e 30 segundos até ficar verde contínuo.",
           "**Plugue de 20 Amperes (127V):** Na unidade 127V testada em nossa bancada, o cabo elétrico conta com o plugue de 20A (pinos de 4,8mm mais grossos). É recomendável confirmar a voltagem e o padrão da tomada na sua residência antes da compra.",
-          "**Pingamento pós-preparo:** Após a interrupção do fluxo de água, a cápsula perfurada pode continuar liberando líquido por um período prolongado. Por isso, vale manter limpa a bandeja removível que apoia xícaras e copos e retém esse excedente."
+          "**Pingamento pós-preparo:** depois que o fluxo para, a cápsula pode continuar pingando por um tempo. Por isso, mantenha limpa a bandeja removível das xícaras."
         ],
         "links": [
           {
@@ -41093,8 +41093,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e cupom de desconto",
         "paragraphs": [
-          "A Dolce Gusto Mini Me 2.0 pode ser adquirida no e-commerce oficial da marca, onde eventualmente integra campanhas promocionais de volume de cápsulas e cores exclusivas. O preço de tabela individual varia de acordo com a cor e as ofertas ativas.",
-          "No checkout da loja oficial, o consumidor pode testar o cupom CECI para verificar elegibilidade a 10% de desconto em compras a partir de R$ 100, segundo o regulamento vigente na loja oficial.",
+          "A compra é na loja oficial, com campanhas de cápsulas e cores exclusivas. O preço de tabela individual varia de acordo com a cor e as ofertas ativas.",
+          "No checkout da loja oficial, teste o cupom CECI: 10% em compras a partir de R$ 100, nas regras do checkout.",
           "Assista também ao vídeo especial do Bruno no canal Em Casa com Cecília no YouTube Shorts, gravado para a campanha de Dia dos Pais com a NESCAFÉ Dolce Gusto Mini Me 2.0, mostrando a máquina em ação."
         ],
         "links": [
@@ -41323,7 +41323,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O sufoco do encanamento e a instalação na lavanderia",
         "paragraphs": [
-          "A mangueira de drenagem (que expele a água usada) já vem com uma curva plástica rígida de direcionamento, acessório que serve tanto para encaixar em instalações de saída padrão preparadas na parede quanto para apoiar com segurança na borda de um tanque convencional. Na nossa lavanderia nós temos o ponto de esgoto embutido, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
+          "A mangueira de drenagem já vem com uma curva plástica rígida: encaixa na saída da parede ou apoia na borda do tanque. Na nossa lavanderia nós temos o ponto de esgoto embutido, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
           "O Bruno precisou forçar o encaixe da mangueira no cano da parede com bastante pressão. Na teoria ficou preso, mas ficamos com aquele medo se o primeiro jato de água da bomba de drenagem iria soltar tudo ou causar vazamento no chão. Fica a dica de ouro: verifique a rosca e a tubulação da sua parede *antes* da instalação.",
           "Com a máquina no lugar e nivelada pelos pezinhos reguláveis, veio a melhor parte de todo o processo: puxar a película adesiva dos plásticos brilhantes da carcaça e do painel digital."
         ],
@@ -41335,8 +41335,8 @@ export const reviewsData: unknown[] = [
         "heading": "App SmartThings, calibração do tambor e a gaveta de sabão",
         "paragraphs": [
           "Ligamos a máquina na tomada e fizemos o pareamento pelo QR code com o aplicativo **Samsung SmartThings** no smartphone. Enquanto o aplicativo conectava, a máquina realizou a calibração automática do tambor vazio, ajustando os sensores inteligentes de detecção de peso da carga antes da primeira lavagem.",
-          "Pelo aplicativo dá para acompanhar o tempo restante do ciclo, checar diagnósticos de funcionamento, ver o aviso de autolimpeza do tambor (que deve ser feita a cada 40 ciclos) e consultar as estimativas e valores de consumo de energia elétrica (em kWh) e água (em litros) registrados pelo SmartThings.",
-          "A gaveta de sabão é dividida em três compartimentos claros: **1** para pré-lavagem, **2** para a lavagem principal (que conta com uma pecinha plástica dosadora azul que você encaixa para o sabão líquido não escorrer imediatamente) e o compartimento do meio com o ícone de florzinha para o amaciante.",
+          "Pelo aplicativo dá para ver o tempo restante, os diagnósticos, o aviso de autolimpeza (a cada 40 ciclos) e o consumo de energia e água.",
+          "A gaveta tem três partes: 1 para pré-lavagem, 2 para lavagem principal e a do meio para amaciante. A parte 2 traz pecinha azul para sabão líquido.",
           "Uma grande surpresa de quem vem de lavadoras de abertura superior: a lava e seca consome muito menos insumo! Como a lavagem frontal funciona por tombamento da roupa (e não enchendo 100 litros de água no tanque), uma única tampinha de sabão líquido foi mais que suficiente. Já o amaciante concentrado pede diluição prévia em um pouco de água para não grudar no dispenser."
         ]
       },
@@ -41345,7 +41345,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Para estrear a Dona Amélia, escolhi quatro toalhas de banho de diferentes estados: duas brancas limpas, uma com uso normal e uma toalha bastante encardida que estava no fundo do cesto.",
           "Selecionei no painel o programa **Toalhas**, temperatura ajustada em **60 °C**, nível de enxágue 4 e centrifugação em **800 RPM**. Fiquei nos 800 RPM neste primeiro teste: na rotação máxima, tive a impressão de que o cheiro do amaciante fixa menos nas peças.",
-          "Coloquei as toalhas ocupando cerca de **metade do tambor**. Em lavadoras frontais e especialmente em ciclos com secagem combinada, manter a carga entre metade e no máximo três quartos do cesto garante o espaço aéreo ideal para a roupa subir com a rotação e tombar, fazendo com que o ar quente e a água penetrem uniformemente em todas as fibras.",
+          "Coloquei as toalhas ocupando cerca de **metade do tambor**. Em ciclo com secagem, mantenha a carga entre metade e três quartos do cesto: a roupa precisa de espaço para tombar e secar por igual.",
           "A porta travou com trava de segurança, a máquina fez o sensoriamento inteligente de peso (AI sensing) e estimou inicialmente 2h26, recalculando logo depois para **2h04**. O molhamento é gradual e inteligente: a água entra aos poucos em jatos enquanto a máquina gira, molhando o contorno externo antes de ensopar o miolo."
         ],
         "image": "/images/reviews/samsung/minha-primeira-lava-e-seca-capa.webp",
@@ -41486,8 +41486,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é e para que serve o Nutren Just Protein?",
         "paragraphs": [
-          "O Nutren Just Protein é um suplemento alimentar em pó da Nestlé Health Science. Sua fórmula contém proteína isolada do soro do leite e emulsificante lecitina; uma porção de 15g fornece 13g de proteína.",
-          "O produto é apresentado como sem sabor, sem glúten e sem adição de açúcares. Ele contém lactose e derivados de leite e soja, informações importantes para pessoas com alergias ou intolerâncias. Por ser sem sabor, pode ser testado em diferentes preparações, mas o resultado de sabor e textura varia conforme a receita."
+          "É o suplemento de proteína neutra da Nestlé Health Science para a comida: isolada do soro do leite, 13 g de proteína em 15 g de pó.",
+          "A embalagem diz: sem sabor, sem glúten e sem açúcares adicionados. Ele contém lactose e derivados de leite e soja, informações importantes para pessoas com alergias ou intolerâncias. Por ser sem sabor, pode ser testado em diferentes preparações, mas o resultado de sabor e textura varia conforme a receita."
         ],
         "bullets": [],
         "image": "/images/reviews/nutren/nutren-just-protein-banner.avif",
@@ -41502,7 +41502,7 @@ export const reviewsData: unknown[] = [
           "Suplemento alimentar não é medicamento. Quem tem uma condição clínica ou necessidades específicas de proteína deve procurar um médico ou nutricionista."
         ],
         "bullets": [
-          "Cada porção de 15g fornece 13g de proteína, conforme a tabela nutricional da embalagem;",
+          "Cada porção de 15 g fornece 13 g de proteína, diz a embalagem;",
           "A recomendação do rótulo para adultos é consumir uma porção ao dia;",
           "O produto não é adequado para uso como única fonte de nutrição."
         ]
@@ -41542,7 +41542,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual a diferença entre Nutren Just Protein, Nutren Senior e Whey tradicional?",
         "paragraphs": [
-          "Cada produto da Nestlé atende a um perfil e momento diferente:"
+          "O que separa os três é o objetivo: comida, complemento ou shake."
         ],
         "bullets": [
           "Nutren Just Protein: suplemento de proteína isolada do soro do leite, sem sabor, com 13g de proteína por porção e sem vitaminas adicionadas;",
@@ -41553,9 +41553,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar com desconto e como usar o cupom CECI",
         "paragraphs": [
-          "O Nutren Just Protein em lata de 280g é comercializado no e-commerce oficial da Nestlé Nutre no Brasil. Preço, estoque, prazo de entrega e condições comerciais devem ser confirmados no momento da compra.",
+          "A lata de 280 g sai no e-commerce oficial da Nestlé Nutre; confirme preço, estoque e prazo no dia da compra.",
           "A embalagem informa cerca de 19 porções de 15g. O rendimento real depende da quantidade utilizada e da orientação definida para cada pessoa.",
-          "No carrinho da loja oficial, você pode testar o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI) para verificar a aplicação de 10% de desconto em produtos elegíveis, conforme as regras vigentes no checkout."
+          "No carrinho oficial, teste o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI): 10% nos elegíveis, pelas regras do checkout."
         ],
         "bullets": [],
         "links": [
@@ -41665,7 +41665,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A família Genio S: por que tanta confusão?",
         "paragraphs": [
-          "Se você está de olho numa Dolce Gusto compacta e curvilínea, a linha Genio S, feita pela Arno, é a primeira que aparece.",
+          "De olho numa Dolce Gusto compacta? A Genio S da Arno é a primeira que aparece.",
           "No entanto, existem três versões no mercado brasileiro com carcaças semelhantes: Genio S Basic (também anunciada apenas como Genio S), Genio S Plus e Genio S Touch. Os preços mudam conforme cor, voltagem e campanha, por isso a comparação deve partir dos recursos de cada modelo e do valor exibido no checkout.",
           "Para quem está decidindo a compra, a dúvida é comum: a versão mais cara muda a extração ou principalmente a interface? Abaixo, comparamos as fichas oficiais da Basic, Plus e Touch. As observações de uso próprio se referem à Genio S Touch que utilizamos em casa; Basic e Plus não foram testadas por nós."
         ],
@@ -41694,7 +41694,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela comparativa: Genio S Basic vs Plus vs Touch",
         "paragraphs": [
-          "O que separa os três modelos, pelas fichas oficiais:"
+          "O que separa os três modelos, pelos dados da Arno:"
         ],
         "bullets": [
           "Tipo de painel: Basic e Plus usam seletor físico; a Touch utiliza painel sensível ao toque;",
@@ -41727,9 +41727,9 @@ export const reviewsData: unknown[] = [
           "O que cada recurso muda na xícara:"
         ],
         "bullets": [
-          "Espresso Boost (pré-umectação): presente na Plus e na Touch. Segundo a fabricante, a função pré-umedece o café antes da extração para entregar uma bebida mais intensa e concentrada; o resultado percebido também depende da cápsula, da água e do volume escolhido;",
+          "Espresso Boost (pré-umectação): presente na Plus e na Touch. A fabricante diz que a função pré-umedece o café para uma bebida mais intensa; o resultado também depende da cápsula, da água e do volume;",
           "Controle de 4 temperaturas: presente na Plus e na Touch. O primeiro nível é o Modo Frio, sem aquecimento, e os outros três permitem ajustar a bebida de morna a bem quente. A temperatura final varia conforme o recipiente, o ambiente e o preparo;",
-          "Painel sensível ao toque vs seletor físico: Basic e Plus mantêm controle físico; a Touch concentra os comandos em um painel sensível ao toque. A bandeja de metal vem na Plus e na Touch, conforme a ficha da fabricante."
+          "Painel sensível ao toque vs seletor físico: Basic e Plus mantêm controle físico; a Touch concentra os comandos num painel touch. A bandeja de metal vem na Plus e na Touch, diz a fabricante."
         ],
         "image": "/images/reviews/dolcegusto/genio-s-touch-lateral.webp",
         "imageAlt": "Vista lateral da Genio S Touch mostrando a estrutura compacta e vertical da linha",
@@ -41739,7 +41739,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que os três modelos têm em comum?",
         "paragraphs": [
-          "O que as fichas oficiais repetem nos três modelos:"
+          "O que se repete nos três modelos:"
         ],
         "bullets": [
           "Pressão máxima de 15 bar: informada pela fabricante para os três modelos; o sabor e a temperatura percebidos também dependem da cápsula, da água, do volume e dos ajustes disponíveis;",
@@ -41751,8 +41751,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veredito editorial: qual modelo vale mais a pena comprar?",
         "paragraphs": [
-          "A recomendação de compra varia conforme a prioridade de uso e orçamento de cada casa:"
+          "A recomendação muda com a prioridade de uso e o orçamento da casa:"
         ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a Plus, porque ela reúne o Boost, as quatro temperaturas e a bandeja de metal sem cobrar o painel touch.",
+        "emphasisAfterParagraph": 1,
         "bullets": [
           "Melhor equilíbrio de recursos (Genio S Plus): reúne Espresso Boost, quatro temperaturas e bandeja de metal sem exigir o painel touch. Vale comparar o preço vigente com o da Touch antes da compra;",
           "Para priorizar o menor preço (Genio S Basic): indicada para quem busca dosagem automática, modos quente e frio, função XL e os recursos básicos da linha;",
@@ -41776,7 +41778,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar com desconto e como usar o cupom CECI",
         "paragraphs": [
-          "As cafeteiras da linha Genio S podem ser adquiridas na loja oficial da NESCAFÉ Dolce Gusto Brasil, com garantia oficial Arno de 1 ano e versões 127V ou 220V, conforme disponibilidade.",
+          "A linha Genio S sai na loja oficial da NESCAFÉ Dolce Gusto Brasil, com garantia Arno de 1 ano e versões 127V ou 220V, quando disponíveis.",
           "No carrinho da loja oficial, o cupom CECI pode conceder 10% de desconto em produtos elegíveis, em compras a partir de R$ 100. Confirme a aplicação e as regras vigentes antes de concluir o pedido."
         ],
         "bullets": [],
@@ -41818,6 +41820,15 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você quer o Espresso Boost e as quatro temperaturas, com o seletor físico."
+      ],
+      "skipIf": [
+        "Você quer o menor preço e se contenta com dosagem automática, modos quente e frio e função XL: fique na Basic.",
+        "Você prefere comandos sensíveis ao toque no lugar do seletor físico: vá de Touch."
+      ]
+    },
     "cta": {
       "text": "Confira os modelos da linha Genio S na loja oficial e aplique o cupom CECI no checkout",
       "label": "Ver cafeteiras na loja oficial",
@@ -41902,7 +41913,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é K-Beauty",
         "paragraphs": [
-          "K-Beauty é mais do que um rótulo de origem: é uma filosofia de cuidados com a pele que nasceu na Coreia do Sul e se tornou sinônimo de inovação, ritmo acelerado de lançamentos e uma abordagem bem diferente da que muita gente aprendeu a ter com skincare.",
+          "K-Beauty é a rotina coreana em camadas, com lançamento novo todo mês.",
           "A raiz dessa filosofia está na ideia de que uma rotina de cuidados com a pele não precisa ser simples e direta. Enquanto em muitos lugares predomina a lógica de \"limpar, tonificar e hidratar\" em três passos, a abordagem coreana trabalha com o conceito de layering: aplicar múltiplas camadas de produtos que se complementam, cada uma com uma função específica. Essa rotina pode incluir dupla limpeza (um demaquilante em óleo seguido de um limpador em gel ou espuma), tônico, essência, sérum, ampola e creme: cada etapa pensada para preparar a pele para próxima.",
           "Essa filosofia vem de uma ideia cultural: o cuidado com a pele é tratado como autocuidado essencial, não como vaidade. É por isso que a indústria de beleza coreana é um dos motores mais dinâmicos do setor no mundo, com uma quantidade de lançamentos e formulações novas que impressiona quem está acostumado com o ritmo mais lento de outras regiões."
         ],
@@ -41915,7 +41926,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ingredientes e formatos que a K-Beauty popularizou",
         "paragraphs": [
-          "Em termos de ingredientes, K-Beauty é conhecida por explorar ativos que nem sempre são comuns em outras regiões: centella asiática e niacinamida (muito presentes em séruns e cremes), mucina de caracol ou snail mucin (um dos ingredientes mais associados à categoria, ainda que também seja um dos mais controversos para quem prefere fórmulas veganas), PDRN (um ativo mais recente), própolis e ingredientes fermentados, que a indústria coreana popularizou. K-Beauty também popularizou formatos como o cushion compact (uma esponja embebida em base ou BB cream dentro de um estojo com espelho), as sheet masks de tecido com soro concentrado, e as ampolas serológicas.",
+          "Nos ingredientes, a fama vem de centella asiática, niacinamida, mucina de caracol (não vegana), PDRN, própolis e fermentados. Nos formatos, de cushion, sheet mask e ampola.",
           "Um termo muito associado à categoria é \"glass skin\": a ideia de uma pele tão uniforme e luminosa que parece vidro. É um ideal estético, não uma promessa literal, mas resume bem o que boa parte das rotinas K-Beauty persegue: uma pele com textura uniforme e aquele brilho que normalmente associamos a pele bem cuidada."
         ],
         "bullets": []
@@ -41927,7 +41938,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Nas ruas da Coreia, lançamentos de K-Beauty viram vitrine, e parte da atração de quem visita o país.",
         "imageFit": "cover",
         "paragraphs": [
-          "A explosão de K-Beauty fora da Ásia nas últimas duas décadas não é acidental. Alguns fatores se somaram para criar essa onda de curiosidade e adoção em massa.",
+          "Três fatores empurraram a onda: k-dramas e k-pop, o ritmo de lançamentos e a internet.",
           "O primeiro é a influência cultural dos k-dramas e do k-pop. Os dois fenômenos conquistaram audiências globais enormes e funcionam como uma vitrine viva da cultura de beleza coreana: quando cenas de novelas mostram personagens em suas rotinas de skincare em casa, ou quando artistas de k-pop aparecem com pele impecável em palco após palco, a pergunta natural que surge é \"como eles fazem isso?\". A resposta quase sempre aponta para os produtos que usam.",
           "O segundo fator é a própria cultura das marcas coreanas de beleza. Diferente de indústrias que se acomodam num catálogo estável por anos, as marcas coreanas de skincare mantêm um ritmo de lançamento e de inovação de ingredientes que chama atenção internacionalmente: a cada mês aparecem novos séruns, novos ativos, novos formatos de máscara. Combinado a preços geralmente mais competitivos que marcas de luxo ocidentais com propostas parecidas, isso criou a percepção de que a tecnologia de skincare mais nova do mundo está saindo da Coreia.",
           "O terceiro fator é puramente de internet: comunidades de entusiastas de skincare cresceram em plataformas como TikTok, YouTube e Reddit, influenciadores passaram a mostrar unboxings de produtos coreanos com entusiasmo genuíno, resenhas se multiplicaram, e a dinâmica viral transformou K-Beauty de um interesse de nicho em um fenômeno mainstream.",
@@ -41940,8 +41951,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se K-Beauty é tão relevante, por que não é tão simples encontrar num shopping ou farmácia? A resposta está na distribuição.",
           "A maioria das marcas coreanas de skincare não tem lojas próprias em boa parte do mundo. Uma marca conhecida internacionalmente pode vender oficialmente só através do e-commerce coreano ou de poucos distribuidores autorizados em mercados específicos. Isso cria um problema real para quem quer montar uma rotina completa: digamos, um limpador, um tônico, um sérum e um creme, cada um de uma marca diferente.",
-          "Se cada marca só vende no próprio site (ou nem vende internacionalmente de forma oficial), a alternativa vira: fazer vários checkouts separados, pagar frete internacional várias vezes, esperar entregas em datas diferentes, e ainda lidar com câmbio e eventuais taxas de importação conforme a legislação de cada país de destino, que varia bastante e muda com frequência, então vale sempre conferir a regra vigente na sua região antes de comprar.",
-          "Para muita gente, essa fricção logística, não o preço nem a qualidade dos produtos, é o que afasta da ideia de experimentar K-Beauty. Navegar por vários sites em idiomas diferentes, pagar frete internacional repetidas vezes e não ter um único lugar para acompanhar o pedido é cansativo.",
+          "A alternativa vira vários checkouts, fretes repetidos, entregas em datas diferentes, câmbio e taxas de importação. Confira a regra vigente na sua região antes de comprar.",
+          "Para muita gente, é essa trabalheira — não o preço nem a qualidade — que afasta da ideia de experimentar. Navegar por vários sites em idiomas diferentes, pagar frete internacional repetidas vezes e não ter um único lugar para acompanhar o pedido é cansativo.",
           "Além disso, nem toda marca coreana vende direto para fora da Ásia. Algumas vendem só dentro da Coreia, o que levaria à opção de recorrer a revendedores terceiros, nem sempre confiáveis, ou a serviços de reenvio postal internacional, que adicionam custo e tempo extra."
         ],
         "bullets": []
@@ -43227,7 +43238,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comparação rápida: sofá retrátil vs modular",
         "paragraphs": [
-          "Veja o que muda na prática em cada critério, sem tratar um tipo como vencedor em todas as casas:"
+          "No dia a dia, o retrátil fecha para circular; o modular desmonta para entrar."
         ],
         "comparisonTable": {
           "caption": "Comparação entre sofá retrátil e sofá modular por espaço, conforto, entrega, layout, manutenção e ampliação",
@@ -43282,6 +43293,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A melhor escolha aparece quando você identifica qual problema realmente pesa na sua casa:"
         ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o modular, porque ele entra em partes e muda de layout sem trocar o sofá.",
+        "emphasisAfterParagraph": 1,
         "bullets": [
           "Para assistir TV todos os dias: o retrátil é mais direto, porque a extensão das pernas já faz parte do assento.",
           "Para entrar em apartamento com elevador pequeno, escada com curva ou corredor estreito: o modular tende a facilitar a entrega por chegar em partes.",
@@ -43309,7 +43322,7 @@ export const reviewsData: unknown[] = [
         "heading": "Caso real: como puffs, baú e acessórios mudam o modular",
         "paragraphs": [
           "Na prática, a flexibilidade do modular não vem apenas de separar os assentos. Puffs, baús e acessórios mudam a função da composição sem exigir a troca do sofá inteiro.",
-          "Opcionais — baú de apoio central: diferente de um módulo fixo, o baú é reposicionável dentro da composição, não fica preso a um único lugar do conjunto. Você pode mudar a posição do baú de acordo com a ocasião."
+          "Opcionais — baú de apoio central: diferente de um módulo fixo, o baú se reposiciona na composição a cada ocasião."
         ],
         "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
         "imageAlt": "Cecília demonstra o baú de apoio central azul ao lado do sofá modular Damie",
@@ -43317,7 +43330,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "portrait",
         "postParagraphs": [
           "Puffs: um puff para cada assento cria apoio para as pernas e uma superfície ampla de descanso. Em sala espaçosa ou integrada, os puffs também podem ficar atrás dos módulos e ajudar a formar uma composição em ilha.",
-          "Acessórios opcionais integrados aos braços: carregador USB, luminária, porta-taça, mesa de apoio lateral, suporte para smartphone/tablet com carregamento por indução e um case 3 em 1 — tudo acoplado ao braço do módulo, não são acessórios avulsos que ocupam espaço à parte. No recorte de concorrentes modulares analisado para esta pauta, esse conjunto integrado apareceu apenas na Damie; por isso, tratamos como um diferencial da linha, sem afirmar exclusividade permanente sobre todo o mercado."
+          "Acessórios opcionais integrados aos braços: carregador USB, luminária, porta-taça, mesa de apoio lateral, suporte para smartphone/tablet com carregamento por indução e um case 3 em 1 — tudo acoplado ao braço do módulo, não são acessórios avulsos que ocupam espaço à parte. Entre os concorrentes modulares comparados, esse conjunto integrado só apareceu na Damie; trate como diferencial da linha, sem exclusividade garantida."
         ]
       },
       {
@@ -43357,6 +43370,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você precisa passar por elevador pequeno, escada com curva ou corredor estreito: o modular chega em partes.",
+        "Você quer mudar o layout ou aumentar o sofá depois, numa linha que venda módulos separados."
+      ],
+      "skipIf": [
+        "Você assiste TV todos os dias e quer a extensão das pernas já no assento: aí o retrátil é mais direto.",
+        "Você quer o chão livre quando a extensão não está em uso: no modular, o puff fica na composição ou precisa de outro lugar na sala."
+      ]
+    },
     "cta": {
       "text": "Explore as opções de sofá modular e aplique o cupom CECILIA12 para 12% OFF",
       "label": "Ver sofás modulares na loja oficial",
@@ -43473,7 +43496,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como tomar a Melatonina Gummy IWS e qual é o melhor horário",
         "paragraphs": [
-          "Para este produto, siga a instrução publicada pela I Wanna Sleep: consumir 1 goma ao dia, de 1 a 2 horas antes de dormir, ou conforme orientação médica. Não antecipe nem aumente a quantidade tentando obter um efeito mais forte.",
+          "A I Wanna Sleep orienta 1 goma ao dia, de 1 a 2 horas antes de dormir, ou como o médico orientar. Não antecipe nem aumente a quantidade tentando obter um efeito mais forte.",
           "Uma goma já fornece os 0,21 mg que correspondem ao limite máximo diário autorizado pela Anvisa em suplementos para adultos. A regra é para a recomendação diária inteira — não é 0,21 mg por tomada repetida ao longo da noite."
         ],
         "bullets": [
@@ -43497,14 +43520,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Melatonina vicia?",
         "paragraphs": [
-          "A melatonina não pertence à mesma classe dos benzodiazepínicos e sedativos hipnóticos associados à dependência. Essa diferença, porém, não justifica escrever que qualquer suplemento de melatonina “não vicia” em qualquer pessoa ou por uso indefinido.",
+          "A melatonina não é da classe dos sedativos associados à dependência, mas “não vicia” é absoluto demais para qualquer pessoa e qualquer tempo de uso.",
           "Na prática, também existe diferença entre dependência farmacológica e hábito de acreditar que só é possível dormir após consumir algo. Se houver receio de interromper o uso ou necessidade crescente de suplementação, converse com um profissional de saúde em vez de aumentar a dose por conta própria."
         ]
       },
       {
         "heading": "Quem não deve consumir e quais cuidados seguir",
         "paragraphs": [
-          "As advertências abaixo reproduzem as condições oficiais para suplementos de melatonina e a orientação publicada pela IWS:"
+          "As regras de quem não consome, oficiais e da IWS:"
         ],
         "bullets": [
           "Não deve ser consumido por gestantes, lactantes e crianças.",
@@ -43567,7 +43590,7 @@ export const reviewsData: unknown[] = [
         "heading": "Melatonina em goma ou em gotas: qual formato escolher?",
         "paragraphs": [
           "A principal diferença prática é a forma de medir e consumir. A gummy entrega uma porção fechada em cada unidade e dispensa conta-gotas. O formato líquido exige seguir a quantidade indicada no rótulo daquele produto e pode ser preferível para quem não quer mastigar uma goma.",
-          "Não escolha pela ideia de que um formato é automaticamente “mais forte” ou “melhor para dormir”. Compare a recomendação diária, os ingredientes, as restrições e a facilidade de manter o uso correto. Na IWS, consulte a ficha da versão líquida antes de decidir."
+          "Não escolha pela ideia de que um formato é automaticamente “mais forte” ou “melhor para dormir”. Compare recomendação diária, ingredientes, restrições e facilidade de uso. Na IWS, compare com a versão líquida antes de decidir."
         ],
         "links": [
           {
@@ -43580,7 +43603,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que vem na compra e como funciona o Sleeptest",
         "paragraphs": [
           "A unidade do produto corresponde a 1 pote com 30 gummies sabor maracujá doce. A loja também pode oferecer conjuntos com mais potes, mas preço, estoque e composição dos kits são condições comerciais variáveis; confirme tudo no carrinho.",
-          "Para compras feitas no site oficial, a IWS informa um Sleeptest de 30 dias. Caso a pessoa não se adapte, a solicitação é para troca por outro produto do site, conforme o regulamento da campanha — não descrevemos isso como reembolso em dinheiro."
+          "No site oficial, a IWS informa Sleeptest de 30 dias: se não se adaptar, a troca é por outro produto do site, não reembolso em dinheiro."
         ]
       },
       {
@@ -43730,7 +43753,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o rótulo da Nutren Creatina confirma",
         "paragraphs": [
-          "A frente e o verso da embalagem fornecem os dados necessários para avaliar esta apresentação sem extrapolar o que a marca declarou."
+          "Frente e verso da embalagem: o que a marca declara, sem extrapolar."
         ],
         "bullets": [
           "Ingrediente: creatina monohidratada;",
@@ -43749,7 +43772,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comparativo auditável: Nutren, Growth, FTW e Lavitan",
         "paragraphs": [
-          "Os preços vêm das páginas oficiais: Nutren, FTW e Lavitan em 27 de agosto de 2026, e Growth em 18 de outubro de 2026. A tabela põe as quatro marcas lado a lado, com preço por 100 g onde havia oferta oficial ativa.",
+          "Na tabela, as quatro marcas lado a lado pelo custo por 100 g, com Nutren e FTW empatadas à vista.",
           "Não atribuímos superioridade de pureza, eficácia ou controle de qualidade sem laudo comparável dos mesmos lotes. A expressão “100% monohidratada” descreve a composição declarada; não substitui ensaio laboratorial independente."
         ],
         "comparisonTable": {
@@ -43832,7 +43855,9 @@ export const reviewsData: unknown[] = [
           "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth usa porção de 5 g e embalagem de 250 g, então rende menos doses; vale para quem já compra na loja dela. A FTW oferece pote de 300 g e chega ao mesmo custo por 100 g da Nutren com CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
           "Em qualquer marca, confirme no rótulo o ingrediente, a porção, o lacre, o lote, a validade e as advertências. Compare o preço final depois de frete e desconto, não apenas o número em destaque na vitrine."
         ],
-        "bullets": []
+        "bullets": [],
+        "emphasis": "Pelos números da tabela, para quem já compra na Nestlé Nutre a escolha é a Nutren, porque ela empata no menor custo por 100 g com o CECI.",
+        "emphasisAfterParagraph": 2
       },
       {
         "heading": "Como preparar e quais cuidados observar",
@@ -43846,9 +43871,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina engorda, incha ou serve para idosos?",
         "paragraphs": [
-          "A tabela nutricional informa que a porção não contém quantidades significativas de valor energético. Isso, isoladamente, não permite prometer ausência de mudança no peso corporal nem afirmar que qualquer retenção será exclusivamente dentro do músculo; respostas individuais e o restante da rotina também importam.",
+          "A porção não tem valor energético significativo, mas isso não promete peso igual na balança: o resto da rotina também conta.",
           "Para pessoas idosas, a resposta não deve começar por “sim”. A embalagem indica uso adulto, mas idade, doenças, função renal, alimentação e medicamentos podem mudar a decisão. A avaliação deve ser individualizada por um profissional de saúde.",
-          "Também não usamos a Nutren Creatina para prometer tratamento de sarcopenia, melhora cognitiva ou saúde óssea. Essas seriam alegações médicas que vão além da finalidade autorizada para o suplemento."
+          "A Nutren Creatina também não promete tratar sarcopenia nem entregar melhora cognitiva ou saúde óssea. Essas seriam alegações médicas que vão além da finalidade autorizada para o suplemento."
         ],
         "bullets": []
       },
@@ -43896,6 +43921,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você quer creatina monohidratada sem mistura, pelo rótulo.",
+        "Você escolhe pelo menor custo por 100 g e confere o preço final depois de frete e desconto."
+      ],
+      "skipIf": [
+        "Você espera que a marca Nestlé torne a creatina mais eficaz ou mais pura: sem laudo comparável dos mesmos lotes, isso não dá para afirmar.",
+        "Você é idoso, tem doença ou usa medicamentos: a decisão fica com médico ou nutricionista."
+      ]
+    },
     "cta": {
       "text": "Consulte a Nutren Creatina na loja oficial e confira se o cupom CECI se aplica ao carrinho",
       "label": "Ver creatina na loja oficial",
@@ -43981,8 +44016,8 @@ export const reviewsData: unknown[] = [
         "heading": "O dilema das cápsulas: por que é tão difícil decidir?",
         "paragraphs": [
           "Comprar uma cafeteira de cápsulas é escolher onde você vai comprar cápsula pelos próximos anos, não só um aparelho para a bancada.",
-          "No Brasil, três marcas concentram a preferência do público: NESCAFÉ Dolce Gusto, Nespresso e 3 Corações (sistema TRES). Cada uma foi concebida para perfis de paladar e hábitos distintos, e compreender essas diferenças evita deixar a máquina parada sem uso.",
-          "O aspecto crucial antes de avaliar o design dos modelos é a incompatibilidade mecânica: as cápsulas desses três sistemas não são intercambiáveis. Além disso, Dolce Gusto e Nespresso têm dois formatos próprios dentro de suas marcas: Clássica e NEO na primeira, Original e Vertuo na segunda, e esses pares também não se cruzam."
+          "No Brasil, três marcas concentram a preferência do público: NESCAFÉ Dolce Gusto, Nespresso e 3 Corações (sistema TRES). Cada uma mira um paladar e um hábito; entender a diferença evita deixar a máquina parada.",
+          "Antes do design, o que trava é a incompatibilidade: as cápsulas dos três sistemas não se misturam. Além disso, Dolce Gusto e Nespresso têm dois formatos próprios dentro de suas marcas: Clássica e NEO na primeira, Original e Vertuo na segunda, e esses pares também não se cruzam."
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
@@ -43993,7 +44028,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nossa opinião: onde a Dolce Gusto ganha e onde a Nespresso se destaca",
         "paragraphs": [
-          "Comparar ficha técnica e preço é importante, mas a escolha também passa pelo uso. Em casa usamos as Dolce Gusto, como mostram os nossos textos sobre a Genio S Touch e a Mini Me 2.0. A parte da Nespresso e da TRES deste comparativo vem das páginas e fichas oficiais, não de um teste nosso.",
+          "Preço e recursos contam, mas a escolha também passa pelo uso. Em casa usamos as Dolce Gusto, como mostram os nossos textos sobre a Genio S Touch e a Mini Me 2.0. Da Nespresso e da TRES, valem os dados das páginas oficiais.",
           "Priorizamos a Dolce Gusto por custo-benefício e conveniência. A parceria comercial com a marca também pesa, e preferimos dizer isso abertamente.",
           "A Nespresso se destaca em um ponto: para quem busca uma experiência premium de café em cápsula, as coleções limitadas e sazonais oferecem perfis que dificilmente aparecem nos outros sistemas. Essa exclusividade também aparece no preço das cápsulas.",
           "A Dolce Gusto segue outro caminho e ganha na variedade de bebidas e combinações. Mochaccino Canela, Caramelo Salgado e Moça® Pistachio Latte fazem parte do catálogo, e entre os três sistemas ela é a única com cafés NESCAFÉ Gold nas versões Espresso e Lungo.",
@@ -44013,7 +44048,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comparativo rápido: Dolce Gusto, Nespresso e TRES",
         "paragraphs": [
-          "Resumo técnico e de custo dos três sistemas, com preços coletados nos sites oficiais e na Amazon em agosto de 2026 (sujeitos a variação por promoção):"
+          "Os três sistemas lado a lado: Dolce Gusto e TRES com cápsula mais barata, Nespresso com café premium."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -44127,7 +44162,7 @@ export const reviewsData: unknown[] = [
           "Dolce Gusto clássica: o espresso sai bem mais caro por 100 ml que a média da linha, porque as bebidas longas puxam a conta para baixo; os números estão na tabela acima.",
           "Dolce Gusto NEO: média de ~R$ 3,53 por 100 ml nos seis cafés com volume identificado. Os espressos de 45 ml ficam em ~R$ 4,87–5,78; Caseiro e Americano reduzem a média por entregarem mais bebida.",
           "Nespresso Original: média de ~R$ 9,67 por 100 ml quando os 13 produtos disponíveis da amostra são preparados como espresso de 40 ml. A faixa observada foi de ~R$ 9,25 a R$ 10,50. A conta considera apenas cápsulas Nespresso; Farmers Origins e outras compatíveis ficam de fora para não misturar marcas.",
-          "Para economizar na Nespresso Original, Farmers Origins é uma alternativa particularmente coerente: vem da NESCAFÉ/Nestlé, oferece diferentes origens e entra no mesmo sistema de cápsula. A R$ 16,99 por 10, custa cerca de R$ 1,70 por cápsula ou R$ 4,25 por 100 ml quando preparada como espresso de 40 ml: aproximadamente 56% abaixo da média das cápsulas Nespresso Original da amostra. Ela continua fora da média da Nespresso porque é outra marca.",
+          "Para economizar na Nespresso Original, a Farmers Origins é a saída coerente: NESCAFÉ/Nestlé, várias origens, mesma cápsula. A R$ 16,99 por 10, custa cerca de R$ 1,70 por cápsula ou R$ 4,25 por 100 ml quando preparada como espresso de 40 ml: aproximadamente 56% abaixo da média das cápsulas Nespresso Original da amostra. Ela continua fora da média da Nespresso porque é outra marca.",
           "Nespresso Vertuo: média de ~R$ 6,74 por 100 ml nos nove produtos com preço e volume informados. O espresso de 40 ml continua caro, em ~R$ 9,75–10; Gran Lungo e Coffee reduzem a média para ~R$ 3,47 e ~R$ 2,74 por 100 ml.",
           "3 Corações: média de ~R$ 3,08 por 100 ml nos nove produtos avaliados, misturando doses de 50, 80 e 100 ml. Nos espressos com preço completo, a faixa ficou em ~R$ 3,48–3,59 por 100 ml."
         ],
@@ -44184,6 +44219,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: veredito por perfil e os números",
+        "emphasis": "Se fosse para a minha casa, eu levaria a Dolce Gusto clássica, porque a cápsula custa menos e a máquina serve a família toda.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Os números abaixo são da amostra e mudam com promoção e estoque. Veja qual perfil é o seu:"
         ],
@@ -44213,6 +44250,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "A máquina vai servir a família toda, com chá, chocolate e cappuccino além do café.",
+        "Você quer o menor custo por cápsula entre os três sistemas."
+      ],
+      "skipIf": [
+        "Você quer café premium e edições sazonais: aí a Nespresso atende melhor.",
+        "Você toma café filtrado longo e prefere comprar cápsula na padaria ou no mercadinho: aí vale a 3 Corações (TRES).",
+        "Você pretende misturar cápsulas entre as marcas: os três sistemas não são intercambiáveis."
+      ]
+    },
     "cta": {
       "text": "Conheça os modelos Dolce Gusto na loja oficial e use o cupom CECI no checkout",
       "label": "Ver cafeteiras na loja oficial",
@@ -44369,7 +44417,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Aurora é uma poltrona reclinável manual da DAMIE: a página do produto informa acionamento por alavanca, puff independente incluso, base 360° e opções de couro bovino ou tecido linho. É uma proposta coerente para quem quer decidir a posição do apoio para os pés separadamente e prefere não depender de tomada no local escolhido.",
           "Na decoração, o puff deixa a composição mais móvel: ele pode acompanhar a poltrona no descanso ou ser recuado para liberar passagem. Isso não elimina a necessidade de medir a sala; ao contrário, a área do puff deve entrar na planta desde o começo.",
-          "Como ainda não tive a oportunidade de testar pessoalmente a Aurora, uso as informações de mecanismo e materiais da página oficial. Pela proposta e pela semelhança entre os modelos, minha expectativa é encontrar um acolhimento próximo ao que já conheço da Levita, mas essa impressão ainda precisa de um teste, especialmente porque os mecanismos são diferentes."
+          "A Aurora segue sem teste próprio: valem o mecanismo e os materiais da página oficial. Como os mecanismos são diferentes, só um teste diz se o acolhimento se parece com o da Levita."
         ],
         "bullets": [],
         "image": "/images/reviews/damie/poltrona-aurora-castanho-lateral-deitada.webp",
@@ -44449,12 +44497,14 @@ export const reviewsData: unknown[] = [
               "Couro ou linho"
             ]
           ]
-        }
+        },
+        "emphasis": "Se fosse para a minha casa, eu levaria a Levita, porque o ajuste elétrico de encosto e apoio resolve leitura e TV sem levantar.",
+        "emphasisAfterParagraph": 2
       },
       {
         "heading": "Cupom e transparência da parceria DAMIE",
         "paragraphs": [
-          "Este guia tem parceria comercial com a DAMIE. O código CECILIA12 pode ser inserido no checkout para verificar 12% de desconto em itens elegíveis; elegibilidade, condições e disponibilidade devem ser conferidas no carrinho antes de concluir o pedido.",
+          "Este guia tem parceria comercial com a DAMIE. Teste o CECILIA12 no checkout para 12% nos elegíveis; confirme elegibilidade, condições e disponibilidade no carrinho antes de fechar.",
           "Os links para a Aurora e para a DAMIE podem gerar comissão para o Em Casa com Cecília, sem custo adicional ao leitor. A parceria não substitui a conferência de medidas, revestimento, prazo e política aplicável à sua compra."
         ],
         "bullets": [],
@@ -44604,7 +44654,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As linhas de travesseiro da I Wanna Sleep",
         "paragraphs": [
-          "A I Wanna Sleep (IWS) organiza o catálogo em famílias de produtos com diferentes formatos, materiais e alturas: Cervical/Ergonômica, Memory Foam, Antialérgico, Látex, Fibra, Pluma Natural, Anti-rugas e Viagem. É esse mapa que este guia percorre a seguir.",
+          "Dormir de lado, de costas ou com calor: a IWS tem uma linha para cada caso, e este guia percorre todas.",
           "Um travesseiro adequado pode ajudar a manter a cabeça e o pescoço em posição neutra em relação ao restante da coluna. Modelos muito altos ou baixos podem deixar o pescoço inclinado e contribuir para desconforto durante o sono. Para quem dorme de lado, a altura deve preencher o espaço entre o ombro e a cabeça sem forçar a inclinação cervical.",
           "Por isso a pergunta \"qual o melhor travesseiro\" não tem uma resposta única. Um modelo confortável para quem dorme de bruços pode não oferecer a altura adequada para quem dorme de lado; a melhor marca de travesseiro não é necessariamente a que mais vende, mas aquela que oferece material e altura compatíveis com o seu jeito de dormir.",
           "Um adiantamento antes de começar: o cupom CECIEMCASA está divulgado com 10% de desconto no site oficial da I Wanna Sleep, não apenas nos travesseiros. Como condições comerciais podem mudar, confirme o percentual e a elegibilidade no carrinho; voltamos ao cupom com mais detalhes no capítulo final."
@@ -44619,7 +44669,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A linha Cervical e Ergonômica: formato e apoio",
         "paragraphs": [
-          "Durante o repouso, um travesseiro com altura e formato adequados pode ajudar a sustentar a cabeça e o pescoço em posição neutra. Quem tem dor persistente deve procurar um profissional de saúde.",
+          "A linha Cervical é para quem dorme de costas ou de lado e quer apoio no pescoço. Com dor persistente, procure um profissional de saúde.",
           "Quem procura um travesseiro ortopédico pode ter dificuldade para encontrar uma combinação confortável de formato e altura. Como a posição muda ao longo da noite, vale observar se o modelo oferece apoio adequado nas posições em que você costuma dormir."
         ],
         "bullets": [
@@ -44691,11 +44741,11 @@ export const reviewsData: unknown[] = [
         "heading": "A linha Antialérgica: materiais e higiene",
         "paragraphs": [
           "Um travesseiro lavável e o uso de capas protetoras facilitam a higiene da cama, mas não substituem a orientação de um profissional de saúde em caso de alergia.",
-          "Travesseiros acumulam suor, poeira e resíduos ao longo do uso, enquanto as instruções de lavagem variam conforme o material. A linha antialérgica da IWS procura facilitar essa rotina de higiene com modelos e materiais apresentados pela marca como adequados a pessoas sensíveis a agentes alergênicos, segundo a fabricante."
+          "Travesseiros acumulam suor, poeira e resíduos com o uso, e a lavagem muda com o material. A linha antialérgica facilita a higiene com modelos que a marca indica para pessoas sensíveis a agentes alergênicos."
         ],
         "bullets": [
           "Airgelly® 2.0: o único travesseiro 100% lavável do catálogo, com material hipoalergênico e 30 dias de teste em casa (alegações da fabricante);",
-          "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico da linha Cervical ao carvão ativado, com carvão ativado, também alegado contra odores."
+          "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico ao carvão ativado, que a marca alega contra odores."
         ],
         "links": [
           {
@@ -44846,7 +44896,9 @@ export const reviewsData: unknown[] = [
           "Dorme de lado e busca firmeza elástica: escolha o Original Látex®;",
           "Gosta de travesseiro fofo e moldável: escolha o Magnum Pluma AirFiber;",
           "Viaja com frequência e quer levar seu travesseiro: escolha o Snow® Mini ou o Travel Pillow U."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o Snow regulável, porque a altura se ajusta em casa.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Onde comprar e o cupom CECIEMCASA",
@@ -44893,6 +44945,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você não sabe a altura certa e quer ajustá-la em casa, retirando enchimento.",
+        "Você dorme de lado ou de costas e sente calor na cabeça durante a noite."
+      ],
+      "skipIf": [
+        "Você já sabe a altura certa e prefere não ajustar nada: aí o Original Látex vem pronto em P, M ou G.",
+        "Você não gosta da sensação de afundar do viscoelástico: nesse caso, olhe látex ou fibra.",
+        "Você tem dor persistente ou alergia: o guia não substitui um profissional de saúde."
+      ]
+    },
     "cta": {
       "text": "Explore a coleção de travesseiros na loja oficial IWS e use o cupom CECIEMCASA",
       "label": "Ver travesseiros na loja oficial",
@@ -45038,7 +45101,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dolce Gusto em casa e Nespresso nas fichas oficiais",
         "paragraphs": [
-          "Comparar ficha técnica é importante, mas a escolha também passa pelo uso. Em casa usamos a Dolce Gusto, como mostram os nossos textos sobre a Genio S Touch e a Mini Me 2.0. A parte da Nespresso deste comparativo vem das páginas e fichas oficiais da marca, não de um teste nosso.",
+          "Preço e recursos contam, mas a escolha também passa pelo uso. Em casa usamos a Dolce Gusto, como mostram os nossos textos sobre a Genio S Touch e a Mini Me 2.0. Da Nespresso, valem os dados das páginas oficiais.",
           "A Dolce Gusto é a nossa preferência no dia a dia por custo-benefício e conveniência. A parceria comercial com a marca também pesa nessa escolha, e preferimos deixar isso explícito em vez de apresentar a preferência como neutra.",
           "A Nespresso se destaca em um ponto: para quem busca uma experiência premium, as coleções sazonais e limitadas de café oferecem perfis que não aparecem de forma parecida na Dolce Gusto. Essa exclusividade também aparece no preço das cápsulas.",
           "A Dolce Gusto ganha em variedade: Mochaccino Canela, Caramelo Salgado e Moça® Pistachio Latte estão no catálogo, e ela é a única das duas com café NESCAFÉ Gold em Espresso e Lungo.",
@@ -45063,7 +45126,7 @@ export const reviewsData: unknown[] = [
         "heading": "Proposta central: cafeteria multibebidas vs. boutique de espresso",
         "paragraphs": [
           "A Dolce Gusto atua como uma cafeteria multibebidas na bancada. O catálogo brasileiro reúne cafés pretos, lattes, achocolatados e chás, com disponibilidade que pode mudar ao longo do ano.",
-          "Nas bebidas lácteas de duas cápsulas, uma cápsula prepara a parte de leite e a outra prepara o café ou o chocolate. O tempo e a sequência variam conforme a bebida indicada na embalagem, sem que leite líquido seja armazenado dentro da máquina.",
+          "Nas bebidas lácteas de duas cápsulas, uma cápsula prepara a parte de leite e a outra prepara o café ou o chocolate. O tempo e a sequência seguem a bebida indicada na embalagem, sem leite líquido armazenado na máquina.",
           "A Nespresso Original concentra o catálogo em cafés e em duas dosagens programadas nas máquinas de entrada consultadas: Espresso (40 ml) e Lungo (110 ml). Receitas com leite dependem de um espumador separado ou de um modelo Nespresso com sistema de leite."
         ],
         "bullets": [
@@ -45093,7 +45156,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mecânica de extração: 19 bar vs. 15 bar e o alerta Original vs. Vertuo",
         "paragraphs": [
-          "A pressão da bomba é o número que mais confunde compradores nas fichas técnicas.",
+          "A pressão da bomba é o número que mais confunde quem compra.",
           "A Nespresso informa pressão máxima de 19 bar para a Essenza Mini e outros modelos da linha Original. Esse é o valor nominal da bomba; sozinho, ele não permite concluir que toda bebida terá mais crema ou melhor sabor.",
           "A Dolce Gusto informa pressão de até 15 bar para máquinas da linha clássica. Como cápsulas, volumes e receitas são diferentes entre os sistemas, a comparação de pressão não substitui a avaliação do tipo de bebida que cada pessoa pretende preparar.",
           "Na compra, confira o sistema: Nespresso Original e Nespresso Vertuo usam cápsulas diferentes."
@@ -45235,7 +45298,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "No dia a dia da cozinha: espaço, descarte e canecas",
         "paragraphs": [
-          "A experiência prática do café da manhã mostra detalhes que a ficha técnica não mostra:",
+          "Na bancada, o que pesa é espaço, descarte e caneca:",
           "Espaço e visual: na largura, quase empatam, como mostra a tabela acima. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.",
           "Descarte diário: A Nespresso ganha com folga: você levanta a alavanca e a cápsula cai na gaveta interna, que na Essenza Mini comporta 5 a 6 unidades (varia conforme o modelo Original). A Dolce Gusto exige tirar o porta-cápsulas pingando manualmente após cada xícara.",
           "Canecas grandes: modelos Genio S com função XL podem preparar até 300 ml. Na Essenza Mini, o espaço disponível depende da posição ou remoção da bandeja de gotejamento."
@@ -45261,7 +45324,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e cupons ativos",
         "paragraphs": [
-          "Confira as opções oficiais e links de varejo com condições verificadas para a sua compra. Como associado da Amazon, ganhamos com compras qualificadas."
+          "Dolce Gusto sai no site oficial com cupom; Nespresso, na Amazon. Como associado da Amazon, ganhamos com compras qualificadas."
         ],
         "bullets": [],
         "links": [
@@ -45304,6 +45367,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: os 4 perfis e os números",
+        "emphasis": "Se fosse para a minha casa, eu levaria a Dolce Gusto, porque a cápsula custa menos e faz cappuccino e chá na mesma máquina.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "O custo da cápsula pesa tanto quanto a máquina. Na amostra de preços (sujeita a estoque e promoções), a cápsula oficial da Dolce Gusto Clássica custou de R$ 1,69 a R$ 2,10, e a da Nespresso Original, de R$ 3,70 a R$ 4,20. Veja qual perfil é o seu:"
         ],
@@ -45324,6 +45389,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "A casa quer cappuccino, achocolatado e chá na mesma máquina, sem espumador separado.",
+        "Você toma café em caneca grande: o recurso XL da Genio S chega a 300 ml."
+      ],
+      "skipIf": [
+        "Você bebe só espresso curto e lungo: aí a Nespresso Original atende melhor.",
+        "Você compra cápsula no supermercado e quer a maior oferta de compatíveis: aí a vantagem é da Nespresso."
+      ]
+    },
     "cta": {
       "text": "Confira os modelos e cápsulas na loja oficial Dolce Gusto e use o cupom CECI",
       "label": "Ver cafeteiras na loja oficial Dolce Gusto",
@@ -45421,7 +45496,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As quatro linhas de cobertor da I Wanna Sleep",
         "paragraphs": [
-          "A I Wanna Sleep (IWS) tem quatro linhas de cobertor, cada uma pensada para um problema: Igloo, Huggy, Puffer Ultralight e Cozy. Abaixo, o que a marca informa de cada uma, uma tabela comparativa e o veredito por perfil."
+          "Cada linha resolve um problema: calor e frio na mesma cama, inverno, peso ou toque. Abaixo, cada uma e o veredito por perfil."
         ]
       },
       {
@@ -45430,10 +45505,10 @@ export const reviewsData: unknown[] = [
           "Se você divide a cama com alguém, é quase certo que já vivenciou a clássica guerra do cobertor: de um lado do colchão, alguém deita reclamando que o quarto está abafado, liga o ventilador ou joga a coberta para fora; do outro lado, a outra pessoa se encolhe batendo o queixo, puxa o edredom até o pescoço e reclama de qualquer fresta de vento.",
           "Esse desencontro de termostatos é comum entre casais. Com um edredom único, um acorda com calor e o outro com frio nas pontas descobertas.",
           "Foi para pacificar essa disputa na cama que a I Wanna Sleep projetou a Linha Igloo, introduzindo no mercado brasileiro o conceito de cobertor dupla face com gerenciamento térmico inteligente.",
-          "A proposta do Cobertor IWS Igloo utiliza engenharia têxtil aplicada à termorregulação. Em vez de utilizar o mesmo tecido em toda a peça, ele integra dois lados com condutividades térmicas opostas:"
+          "Em vez do mesmo tecido na peça inteira, o Igloo tem dois lados: um que esfria, outro que aquece:"
         ],
         "bullets": [
-          "O Lado Ice-Feel (toque frio imediato): fibras com alta capacidade de absorção e dissipação de calor por contato direto, reduzindo a sensação térmica percebida em 2 a 3°C, conforme medição da própria marca com termômetro infravermelho. Perfeito para quem transpira à noite ou para meia-estação com ar-condicionado ligado;",
+          "O Lado Ice-Feel (toque frio imediato): fibras que dissipam o calor do contato, reduzindo a sensação térmica em 2 a 3°C, na medição da própria marca com termômetro infravermelho. Para quem transpira à noite ou dorme de ar-condicionado ligado;",
           "O Lado Warm-Feel (aconchego térmico respirável): face aconchegante que retém o calor corporal natural de forma suave e respirável para madrugadas frias, sem transformar a cama em um forno abafado;",
           "Acabamento Silk-Glide Surface™: acabamento acetinado de alta densidade que faz o cobertor deslizar com facilidade sobre o lençol e sobre o corpo, sem prender quem se mexe durante o sono;",
           "Trama Air-Flow System™: circulação de ar microscópica constante entre as duas faces, impedindo acúmulo de umidade e mantendo a peça fresca e arejada;",
@@ -45484,7 +45559,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Puffer Ultralight: aquecimento leve que vira almofada",
         "paragraphs": [
-          "Muitas pessoas sofrem com o chamado 'peso opressivo' das roupas de cama convencionais: os pés ficam travados apontando para baixo, mudar de posição na cama exige esforço físico e surge uma sensação quase claustrofóbica de sufocamento térmico. O cobertor até aquece, mas cobra um pedágio pesado no descanso.",
+          "Cobertor pesado prende os pés, dificulta virar na cama e sufoca. O Puffer resolve no ar preso em fibras ocas, não no peso.",
           "Para romper com o paradigma de que cobertor bom precisa pesar uma tonelada, a I Wanna Sleep foi buscar inspiração no vestuário técnico de montanhismo para conceber a Linha Puffer Ultralight. Em vez de aquecer pela sobreposição maciça de camadas, o modelo utiliza o princípio termodinâmico do ar aprisionado.",
           "O coração do Puffer Ultralight é o enchimento exclusivo AirFiber™ IWS: microfibras microscópicas ocas, como minúsculos tubos transparentes. O calor corporal penetra na fibra e aquece o ar preso dentro de cada microduto, gerando uma barreira térmica altamente eficiente com uma fração minúscula do peso de uma colcha comum."
         ],
@@ -45535,7 +45610,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela comparativa da I Wanna Sleep",
         "paragraphs": [
-          "Para sintetizar as diferenças fundamentais entre os quatro modelos e apoiar a sua decisão de compra, organizamos o comparativo com base nas especificações do catálogo da marca:"
+          "Os quatro modelos lado a lado pelas especificações do catálogo:"
         ],
         "bullets": [],
         "comparisonTable": {
@@ -45624,8 +45699,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: o cobertor certo para cada perfil",
+        "emphasis": "Se fosse para a minha casa, eu levaria o Igloo, porque resolve o calor e o frio na mesma cama.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "A escolha do cobertor ideal deve refletir o termostato corporal de quem dorme e a dinâmica do seu quarto. Veja em qual perfil você mais se reconhece; os preços de cada linha estão em Quanto custa cada linha, com o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA aplicado:"
+          "Escolha pelo frio que você sente e por quem divide a cama. Veja em qual perfil você mais se reconhece; os preços de cada linha estão em Quanto custa cada linha, com o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA aplicado:"
         ],
         "bullets": [
           "Perfil 1: O Casal em Conflito Térmico e Quartos com Ar-Condicionado -> Vá de Igloo™. Se um sente calor e o outro sente frio, a tecnologia dual-face resolve o dilema em uma só peça: lado Ice-Feel de frescor ativo para baixo ou lado Warm-Feel quentinho, com um simples virar de coberta. A marca informa uma sensação térmica 2 a 3°C menor no lado Ice-Feel;",
@@ -45715,6 +45792,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Quem divide a cama sente temperaturas diferentes: um lado esfria e o outro aquece.",
+        "O quarto fica com ar-condicionado ligado e você transpira à noite."
+      ],
+      "skipIf": [
+        "Você passa noites de inverno rigoroso com os pés demorando a aquecer: aí o Huggy atende melhor.",
+        "Você quer um cobertor fofinho e volumoso, de cama de revista: aí a linha é a Cozy.",
+        "Sua lavadora tem menos de 11 kg e você pensa no Huggy ou no Cozy em Casal/Queen ou King: eles pedem máquina de 11 a 13 kg."
+      ]
+    },
     "cta": {
       "text": "Explore a coleção de cobertores na loja oficial IWS e use o cupom CECIEMCASA",
       "label": "Ver cobertores na loja oficial IWS",
@@ -45899,7 +45987,7 @@ export const reviewsData: unknown[] = [
         "heading": "Booster Crème 2.5: textura de pomada que vira veludo",
         "paragraphs": [
           "Enquanto o adesivo agia, passei o creme. Ele sai da bisnaga com textura de pomada: você passa e sente ele escorregar pela pele.",
-          "Aí acontece a parte que eu mais gostei: depois de espalhar, a pele fica com um toque aveludado, como se virasse veludo na hora. E espalha muito bem.",
+          "A parte que eu mais gostei vem depois de espalhar: a pele fica com um toque aveludado, como se virasse veludo na hora. E espalha muito bem.",
           "Na fórmula, a Abib destaca PDRN e Volufiline (ingrediente usado para dar sensação de preenchimento), além de retinal, peptídeos, niacinamida e cafeína. A Abib indica o creme para firmeza e linhas finas, ou seja, um trabalho de longo prazo."
         ],
         "bullets": [
@@ -49218,10 +49306,10 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A luz laranja no botão da Dolce Gusto não quer dizer que a máquina quebrou. É um aviso de manutenção: a cafeteira conta as extrações e, no manual da Genio S, o fabricante indica descalcificar depois de cerca de 300 preparos.",
           "Na prática, isso costuma cair entre alguns meses e um ano, dependendo de quantas bebidas você faz por dia e de quão dura é a água da sua casa. Ela pede uma limpeza interna, e a boa notícia é que dá para fazer em casa em poucos minutos.",
-          "Vale saber que a luz acompanha um contador, não um sensor de sujeira: por isso ela não some sozinha nem depois de desligar da tomada. Ela só apaga quando a máquina registra o ciclo de descalcificação concluído."
+          "A luz acompanha um contador, não um sensor de sujeira: por isso ela não some sozinha nem depois de desligar da tomada. Ela só apaga quando a máquina registra o ciclo de descalcificação concluído."
         ],
         "bullets": [
-          "Quando descalcificar: quando a luz laranja aparecer ou, no máximo, a cada 3 a 4 meses, segundo o manual da Genio S (com água dura, o intervalo tende a ser menor);",
+          "Quando descalcificar: quando a luz aparecer ou, no máximo, a cada 3 a 4 meses, como pede o manual da Genio S (com água dura, antecipe);",
           "Pode continuar usando enquanto isso? Em geral a máquina segue funcionando por um tempo, mas quanto mais você adia, mais crosta se acumula por dentro."
         ]
       },
@@ -49247,7 +49335,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vinagre, bicarbonato e outros truques: o que o fabricante diz",
         "paragraphs": [
           "Na internet circula muita receita caseira, e o vinagre é a mais famosa. O próprio guia de descalcificação da Nescafé Dolce Gusto Brasil traz a recomendação em destaque: não usar vinagre, e sim uma solução descalcificante própria para cafeteiras. O manual da Genio S Touch repete o alerta logo na primeira linha de avisos.",
-          "O motivo geral é que ácidos fortes, misturados com calor e pressão, podem ressecar as borrachas de vedação e deixar cheiro e gosto no circuito. Como o reparo costuma custar mais do que a economia, o mais seguro é usar um produto feito para esse fim.",
+          "Ácidos fortes com calor e pressão ressecam as borrachas e deixam cheiro e gosto no circuito. Como o reparo costuma custar mais do que a economia, o mais seguro é usar um produto feito para esse fim.",
           "Sobre o bicarbonato: ele é básico, e o calcário é um sal que se dissolve em meio ácido, então não é um bom candidato para essa função. Em vez de arriscar, use o produto certo."
         ],
         "bullets": [
@@ -49260,7 +49348,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Separe um recipiente grande para coletar o líquido (o guia da NEO pede 0,7 litro, e outros manuais indicam 1 litro ou mais), o acessório de enxágue que veio com a máquina, se ela tiver, e o descalcificante líquido.",
           "O descalcificante não precisa ser da Dolce Gusto: produtos de outras marcas, feitos para cafeteiras espresso e de cápsula, resolvem o problema do calcário do mesmo jeito. Leia o rótulo, confira que ele se destina a esse tipo de máquina e siga a diluição indicada na embalagem, que pode variar entre marcas.",
-          "Se preferir o da marca, o manual da Genio S Touch orienta pedir pelo telefone da assistência NESCAFÉ Dolce Gusto (o SAC, no guia oficial da NEO, é 0800 776 2233). Conferimos em 29/09/2026 que ele não aparece na loja online oficial, então a compra costuma ser em varejistas, marketplaces ou pelo SAC."
+          "Se preferir o da marca, peça pelo SAC (0800 776 2233): ele não aparece na loja online oficial, então a compra sai em varejistas, marketplaces ou pelo SAC."
         ],
         "bullets": [
           "Recipiente coletor de 1 litro ou mais, colocado sob a saída;",
@@ -49271,12 +49359,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Passo a passo da descalcificação por modelo",
         "paragraphs": [
-          "A lógica é a mesma em todas as máquinas: misturar a água com o descalcificante no reservatório (os manuais da Dolce Gusto pedem 0,5 litro), ativar o modo de descalcificação, deixar a máquina rodar com pausas para a solução agir e, no fim, enxaguar bem. O que muda de um modelo para o outro é o gesto para ativar esse modo. Resumimos abaixo com base nos manuais e guias oficiais; confirme sempre o do seu modelo."
+          "A lógica é a mesma em todas as máquinas: misturar a água com o descalcificante no reservatório (os manuais da Dolce Gusto pedem 0,5 litro), ativar o modo de descalcificação, deixar a máquina rodar com pausas para a solução agir e, no fim, enxaguar bem. O que muda é o gesto para ativar o modo, no quadro abaixo; confirme sempre o manual do seu modelo."
         ],
         "bullets": [
           "1. Esvazie a bandeja, retire cápsulas usadas, encaixe o acessório de enxágue (se houver) e posicione o recipiente grande sob a saída;",
           "2. Coloque 0,5 litro de água fresca e o descalcificante no reservatório (siga a proporção do rótulo, se o produto for de outra marca) e encaixe-o na máquina;",
-          "3. Ative o modo de descalcificação conforme o seu modelo (tabela abaixo);",
+          "3. Ative o modo de descalcificação do seu modelo (tabela abaixo);",
           "4. Deixe o ciclo rodar. A máquina alterna fluxo e pausa, com uma espera de cerca de 2 minutos para a solução agir; não desligue no meio do processo;",
           "5. Quando o reservatório esvaziar, lave-o, encha com água fresca e rode o enxágue até o tanque esvaziar de novo;",
           "6. Descarte o líquido coletado, recoloque a bandeja e confirme se a luz laranja apagou."
@@ -49320,7 +49408,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O manual da Genio S Touch, em fotos",
         "paragraphs": [
-          "Como o gesto para ativar o modo muda de modelo, deixamos aqui as páginas de descalcificação do manual da Genio S Touch, para você comparar com a sua máquina. Elas mostram, em ordem, o aviso de manutenção, o preparo da solução, a ativação do modo, a pausa de cerca de 2 minutos e o enxágue.",
+          "O gesto muda por modelo: compare as fotos do manual da Genio S Touch com a sua máquina. Elas mostram, em ordem, o aviso de manutenção, o preparo da solução, a ativação do modo, a pausa de cerca de 2 minutos e o enxágue.",
           "As fotos são do manual que temos em casa, tiradas com o celular e comprimidas para carregar rápido: toque em Ampliar para ler os textos. O conteúdo é do fabricante, então o manual da sua máquina continua sendo a referência final."
         ],
         "bullets": [
@@ -49361,7 +49449,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Confira se realmente entrou no modo: a luz ou o indicador precisa piscar depois do gesto de ativação; se ficou fixa, o comando não foi aceito;",
           "Não interrompa o ciclo: os guias oficiais pedem para não desligar a máquina, nem tirar o cabo da tomada, durante a descalcificação;",
-          "Na Genio S Touch, o fim do processo é sinalizado quando o indicador de descalcificação apaga e a seleção de temperatura acende: se isso não aconteceu, o ciclo provavelmente não terminou;",
+          "Na Genio S Touch, o fim chega quando o indicador apaga e a seleção de temperatura acende: se isso não aconteceu, o ciclo não terminou;",
           "Refaça com calma seguindo o manual do seu modelo, com reservatório bem encaixado e água suficiente;",
           "Ainda não apagou? Chame o SAC da marca (0800 776 2233) ou uma assistência autorizada, em vez de tentar truques de tomada ou reset de internet."
         ]
@@ -49380,7 +49468,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Aproveite a manutenção para reabastecer sem pagar caro",
         "paragraphs": [
-          "Manutenção em dia é um bom momento para conferir o estoque de cápsulas. Na loja oficial da NESCAFÉ Dolce Gusto Brasil, o cupom CECI aplica 10% OFF em compras a partir de R$ 100, conforme conferimos na última verificação do cupom; confirme o desconto no resumo do carrinho antes de finalizar.",
+          "Manutenção em dia é um bom momento para conferir o estoque de cápsulas. Na loja oficial, o cupom CECI aplica 10% OFF a partir de R$ 100; confirme o desconto no resumo do carrinho antes de finalizar.",
           "Se a sua máquina é antiga e vem exigindo limpeza cada vez mais seguida, vale conhecer também as gerações atuais: veja o comparativo da Genio S e a nossa análise da Mini Me antes de decidir trocar."
         ],
         "bullets": [],
@@ -49527,9 +49615,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lavanda, camomila e laranja doce: o que diz o rótulo",
         "paragraphs": [
-          "A lista de ingredientes (INCI) do site traz água, propanodiol, glicerina, extrato de flor de camomila, óleo de flor de lavanda-inglesa, extrato de lavanda, óleo da casca de laranja doce, conservantes (benzoato de sódio, sorbato de potássio e ácido benzoico), um tensoativo (cocamidopropil betaína) e perfume. Ou seja: a camomila entra como extrato, os óleos são de lavanda e de laranja doce, e há fragrância na fórmula.",
+          "No rótulo: camomila como extrato, lavanda como óleo e extrato, laranja doce como óleo da casca, mais conservantes, tensoativo e perfume.",
           "O que cada ingrediente é na fórmula:",
-          "Na prática, o valor do produto está mais na combinação de aroma agradável com repetição do que em um efeito químico de cada planta.",
+          "Na prática, o que vale é o aroma combinado à repetição, não o efeito de cada planta isolada.",
           "Atenção à fragrância: a lista inclui componentes como linalol, limoneno, geraniol, cânfora e mentol, comuns em óleos essenciais e perfumes e que podem causar reação em pessoas sensíveis. Se a criança tem asma, rinite alérgica ou dermatite atópica, converse com o pediatra antes de usar e comece com uma única borrifada."
         ],
         "bullets": [
@@ -49625,7 +49713,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena? Nosso veredito",
         "paragraphs": [
-          "Não testamos o SleepSpray Kidz. Este guia se baseia no rótulo, na página oficial e em recomendações gerais de sono infantil, por isso não dizemos que ele \"funciona\": dizemos em que situação ele faz sentido.",
+          "Este guia parte do rótulo, da página oficial e de recomendações gerais de sono infantil: por isso diz em que situação o spray faz sentido, não que ele \"funciona\".",
           "Faz sentido se você já tem (ou quer montar) uma rotina de dormir, gosta da ideia de um marcador de cheiro suave, a criança tem 2 anos ou mais e não tem alergia respiratória, e você aceita gastar R$ 117,00 por 60 ml com um item de conforto. A loja oferece 30 dias de teste, com crédito de troca se a criança não se adaptar. É um jeito simples de repetir um sinal sensorial no fim do dia.",
           "Não faz sentido se a expectativa é um produto que faça a criança dormir sozinha com as telas ligadas e o horário desorganizado, nem como tratamento para insônia. Para despertares frequentes ou sonolência excessiva de dia, procure o pediatra: o problema pode não ser de rotina.",
           "O que há de mais sólido neste guia não está no frasco: luz baixa, sem telas, horários regulares, banho e um momento calmo com um adulto. O spray é o marcador; o ritual é o que faz o trabalho."
@@ -49797,7 +49885,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual utensílio ajuda a desfazer os grumos",
         "paragraphs": [
-          "A marca não indica utensílio; as sugestões abaixo são de cozinha, não de teste: o que importa é cortar e amassar o pó molhado no passo 2, quando a pasta ainda está grossa."
+          "A marca não indica utensílio; as sugestões abaixo são de cozinha: o que importa é cortar e amassar o pó molhado no passo 2, quando a pasta ainda está grossa."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -49834,8 +49922,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Água ou leite? O que muda na conta",
         "paragraphs": [
-          "A Nestlé orienta que as versões com sabor sejam preparadas com leite desnatado, e que o Sem Sabor seja preparado em água ou usado em receitas doces e salgadas. Por isso a tabela abaixo compara o sabor Café com Leite (porção de 31,5 g) com água e com 180 ml de leite desnatado, segundo a tabela nutricional da página do produto. Os outros sabores variam um pouco: o Mix de Frutas, por exemplo, tem 133 kcal por porção.",
-          "No Sem Sabor Zero Lactose, a porção de 27,5 g tem 113 kcal e 10 g de proteína, também segundo a página oficial.",
+          "A Nestlé orienta sabor com leite desnatado e Sem Sabor com água ou em receitas. Por isso a tabela compara o Café com Leite (31,5 g) com água e com 180 ml de leite desnatado, pelos números da página do produto. Os outros sabores variam um pouco: o Mix de Frutas, por exemplo, tem 133 kcal por porção.",
+          "No Sem Sabor Zero Lactose, a porção de 27,5 g tem 113 kcal e 10 g de proteína, pelos números oficiais.",
           "A marca não traz tabela para leite integral. Se preferir usá-lo, a gordura e as calorias do copo ficam maiores do que as da tabela, e vale conversar com o nutricionista se a pessoa controla peso, colesterol ou glicemia."
         ],
         "bullets": [],
@@ -49889,7 +49977,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Quanto tomar por dia é decisão do médico ou do nutricionista que acompanha a pessoa. O rótulo pede para não exceder a recomendação diária indicada na embalagem, e a ficha do Zero Lactose diz que o consumo deve ser, preferencialmente, sob orientação de nutricionista ou médico.",
           "Um detalhe que confunde: no Sem Sabor, a lata destaca 20 g de proteína na porção diária, que equivale a duas preparações de 3 colheres. A página do Zero Lactose mostra a tabela por 27,5 g (3 colheres), com 10 g de proteína. Os números são os mesmos; só muda a porção usada na conta.",
-          "Quanto dura: a lata de 740 g rende cerca de 27 porções de 27,5 g (Zero Lactose) ou cerca de 23 porções de 31,5 g (Mix de Frutas), segundo as tabelas dos produtos. Depois de aberta, a marca recomenda consumir em até 30 dias: uma porção por dia cabe nessa janela, mas duas por dia fazem a lata acabar em cerca de duas semanas.",
+          "Quanto dura: a lata de 740 g rende cerca de 27 porções de 27,5 g (Zero Lactose) ou 23 de 31,5 g (Mix de Frutas), pelas tabelas dos produtos. Depois de aberta, a marca recomenda consumir em até 30 dias: uma porção por dia cabe nessa janela, mas duas por dia fazem a lata acabar em cerca de duas semanas.",
           "Como guardar: lata sempre bem fechada, em local fresco, seco e sem cheiro, como diz o rótulo. Bebida pronta: a marca pede para consumir imediatamente após o preparo, então prepare só a porção que vai ser tomada.",
           "Horário: a marca não define. Se a pessoa come pouco, vale perguntar ao nutricionista se o copo deve ser tomado longe das refeições principais, para não tirar o apetite do prato."
         ],
@@ -50054,7 +50142,7 @@ export const reviewsData: unknown[] = [
           "Na dúvida, a regra é combinar a cápsula com o sistema da sua máquina. Alguns pontos ajudam a não errar:"
         ],
         "bullets": [
-          "Máquina Original sem adaptador: na loja oficial, as cápsulas que servem são as da linha Original. Máquina NEO: só cápsulas NEO, segundo a página oficial.",
+          "Máquina Original sem adaptador: na loja oficial, as cápsulas que servem são as da linha Original. Máquina NEO: só cápsulas NEO, diz a página oficial.",
           "Em dúvida sobre o modelo, a página \"Conheça os sistemas\" da loja oficial compara os dois sistemas.",
           "As cápsulas NEO trazem NEO no nome do produto, como em \"NEO Espresso Sul de Minas Orgânico\".",
           "Na loja oficial, a página de cafés traz o subtítulo \"Cápsulas para máquinas ORIGINAL\" e um filtro \"Compatíveis NEO Start\"."
@@ -50115,11 +50203,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cápsula NEO na máquina Original: só com o Adaptador NEO Start",
         "paragraphs": [
-          "Vale acertar o sentido: o Adaptador NEO Start é um acessório para máquinas Original (Geração 1). Segundo a página oficial, ele permite usar uma seleção de cápsulas NEO na máquina que você já tem. Ele não é um acessório para a máquina NEO.",
+          "Vale acertar o sentido: o Adaptador NEO Start é para máquinas Original (Geração 1). A página oficial diz que ele permite usar uma seleção de cápsulas NEO na máquina que você já tem. Ele não é um acessório para a máquina NEO.",
           "O adaptador não libera todas as cápsulas NEO: a seleção é de espressos e lungos. A página oficial listava cinco como compatíveis: NEO Espresso Sul de Minas Orgânico, NEO Espresso Delicate, NEO Espresso Serras do Alto Paranaíba, NEO Lungo Chapada Diamantina e NEO Lungo Cerrado Orgânico."
         ],
         "bullets": [
-          "Máquinas compatíveis, segundo a página oficial: Genio S, Genio S Touch, Genio S Plus, Infinissima, Infinissima Touch, Piccolo, Piccolo XS e Mini Me.",
+          "Máquinas compatíveis, pela página oficial: Genio S, Genio S Touch, Genio S Plus, Infinissima, Infinissima Touch, Piccolo, Piccolo XS e Mini Me.",
           "Como usar: remova o suporte de cápsula regular, insira o adaptador e coloque a cápsula NEO; para espresso, use 1 \"tracinho\" de água e, para lungo, 4 \"tracinhos\". Tracinho é cada nível de volume; o guia do adaptador explica o preparo por máquina.",
           "Preço na loja oficial: R$ 69,90 (de R$ 89,90)."
         ],
@@ -50172,7 +50260,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Nem sempre. Em 30/09/2026, a caixa Baggio de 10 cápsulas custava R$ 25,90, ou R$ 2,59 por cápsula (R$ 22,02 na assinatura, cerca de R$ 2,20 por cápsula). Na loja oficial, as caixas de café Original de 10 cápsulas tinham preço de lista de R$ 25,90 a R$ 28,90 e estavam em promoção de R$ 17,90 a R$ 21,99, o que dá de R$ 1,79 a R$ 2,20 por cápsula. As caixas NEO de 10 saíam de R$ 2,19 a R$ 2,39 por cápsula em promoção.",
           "Ou seja: em promoção, a Original saía mais barata que a Baggio avulsa e empatava com a assinatura; no preço de lista, ficava igual ou um pouco acima. Compare sempre o valor por cápsula do dia.",
-          "Atenção também às bebidas de duas cápsulas: no verso de uma caixa Original (foto nesta seção), bebidas como Cappuccino, Latte Macchiato, Chococino, Mocha e Chai Tea Latte aparecem com duas cápsulas, então o custo por xícara soma as duas. Os preços mudam o tempo todo, por isso compare sempre o valor por cápsula do dia (e, nas bebidas de duas cápsulas, por xícara), não só o da caixa: as caixas das marcas compatíveis trazem quantidades diferentes (a Gimoka vende caixas de 16)."
+          "Atenção às bebidas de duas cápsulas: Cappuccino, Latte Macchiato, Chococino, Mocha e Chai Tea Latte usam duas, então o custo por xícara soma as duas. Compare o valor por xícara, não só o da caixa: as marcas compatíveis trazem quantidades diferentes (a Gimoka vende caixas de 16)."
         ],
         "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
         "imageAlt": "Verso de caixa de cápsulas Dolce Gusto com a tabela \"Como preparar sua bebida\", dividida em cafés, lattes, chocolates e chás",
@@ -50194,7 +50282,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a garantia da máquina?",
         "paragraphs": [
-          "Segundo os Termos e Condições da loja oficial, atualizados em 03/09/2020, as máquinas vendidas no site são garantidas pela Arno de acordo com os termos da documentação original do produto. Nas páginas oficiais que consultamos, não encontramos uma regra específica sobre cápsulas de outras marcas.",
+          "Não há regra específica sobre cápsulas de outras marcas nas páginas oficiais: os Termos da loja dizem que as máquinas são garantidas pela Arno.",
           "Para saber como a garantia da sua máquina trata o uso de cápsulas de outras marcas ou de acessórios de terceiros, leia o manual ou pergunte antes à assistência técnica da Arno, pelo telefone (11) 2060-9777, que a Dolce Gusto indica para defeitos em máquinas Geração 1. Guarde o número de protocolo do atendimento."
         ]
       },
@@ -50216,7 +50304,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar cápsulas Dolce Gusto e usar o cupom CECI",
         "paragraphs": [
           "A loja oficial (nescafe-dolcegusto.com.br) vende as cápsulas Original e NEO. A opção \"Monte sua caixa\", com 50 ou 100 cápsulas escolhidas por você, era anunciada com frete grátis. A loja exibe duas faixas de frete grátis, válidas só para pedidos de bebidas (não para máquinas): uma sem valor mínimo, na página do adaptador, e outra para pedidos acima de R$ 100, na página de sabores. As condições mudam, então confira no carrinho.",
-          "O cupom CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, segundo a ficha do cupom aqui no site. Confira no carrinho se o desconto entrou antes de pagar: a soma com combos e outras campanhas pode variar."
+          "O cupom CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, confira na página do cupom aqui no site. Confira no carrinho se o desconto entrou antes de pagar: a soma com combos e outras campanhas pode variar."
         ],
         "links": [
           {
@@ -50345,9 +50433,9 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Nem sempre é simples conciliar a rotina da cozinha com o consumo adequado de fibras. Frutas, verduras, leguminosas e cereais continuam importantes na alimentação; um suplemento não substitui a variedade que esses alimentos oferecem. Quando há indicação de suplementação, uma opção sem sabor pode facilitar a inclusão do produto nas preparações que já fazem parte do dia a dia.",
           "Este guia trata do FiberMais Sem Sabor, nas apresentações de lata de 260 g e sachês de 5 g. A Nestlé descreve a fórmula como uma combinação de goma guar parcialmente hidrolisada, também conhecida pela sigla PHGG, e inulina. São fibras de origem vegetal. As versões com sabor ou com colágeno têm características próprias e não devem receber automaticamente as mesmas medidas e informações nutricionais.",
-          "Segundo a fabricante, a versão Sem Sabor pode ser misturada a alimentos e bebidas sem alterar sabor, cheiro ou textura. Essa é uma característica declarada do produto, não o resultado de um teste sensorial realizado para este artigo. No preparo, a referência é mexer até a dissolução completa, em vez de prometer que qualquer mistura ficará pronta em um número fixo de segundos.",
+          "A fabricante diz que o Sem Sabor mistura a alimentos e bebidas sem alterar sabor, cheiro ou textura — característica declarada, não testada aqui. No preparo, a referência é mexer até a dissolução completa, em vez de prometer que qualquer mistura ficará pronta em um número fixo de segundos.",
           "A classificação como fibra solúvel também não permite concluir, por si só, que o produto suporta qualquer temperatura ou substitui uma avaliação nutricional. Para usar na cozinha, as informações mais úteis são a apresentação correta, a quantidade indicada no rótulo e o momento de incorporar à receita.",
-          "As páginas oficiais foram consultadas para este guia. Elas informam medidas diferentes para lata e sachês; por isso, não tratamos uma colher de sopa como equivalente universal a um sachê. Confira também o rótulo da unidade adquirida, especialmente se houver mudança de formulação ou embalagem."
+          "Lata e sachês têm medidas diferentes: uma colher de sopa não equivale a um sachê. Confira também o rótulo da unidade adquirida, especialmente se houver mudança de formulação ou embalagem."
         ],
         "bullets": [],
         "links": [
@@ -50368,14 +50456,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A fabricante inclui bebidas quentes e frias entre os usos do FiberMais Sem Sabor. Isso permite pensar no café já servido, no chá pronto ou em uma sopa na hora de comer. Mas colocar em um alimento quente não é o mesmo que cozinhar o suplemento por longos períodos.",
           "No artigo culinário oficial consultado, a orientação é acrescentar o produto ao final da preparação, sem levá-lo à fervura. Para o café, prepare a bebida primeiro e incorpore depois. Para sopas e molhos, termine o cozimento, retire do fogo e misture na porção que será consumida.",
-          "Nas referências consultadas, não encontramos um limite universal de temperatura para forno e freezer nem uma garantia de conservação integral das propriedades após congelar, descongelar ou reaquecer. Para essas preparações, é importante distinguir uma receita específica da fabricante de uma adaptação feita por conta própria.",
+          "Não há limite universal de temperatura para forno e freezer, nem garantia de que as propriedades se conservem após congelar, descongelar ou reaquecer. Para essas preparações, é importante distinguir uma receita específica da fabricante de uma adaptação feita por conta própria.",
           "Para bolos, pães ou outras preparações que voltem ao calor, siga uma receita específica da fabricante, observando quantidade, etapas e rendimento. A simples indicação de que o produto pode entrar em receitas não autoriza acrescentar colheres livremente a qualquer massa nem garantir que o resultado será idêntico."
         ],
         "bullets": [
           "Café, chá e chocolate quente: prepare a bebida e acrescente o produto ao final, sem ferver novamente a mistura.",
           "Sopas, purês e molhos: incorpore depois do cozimento, preferencialmente na porção individual que será consumida.",
           "Refeições que precisam ser reaquecidas: aqueça o alimento primeiro e acrescente o suplemento depois.",
-          "Bebidas e alimentos frios: misture até incorporar completamente, conforme o rótulo da apresentação escolhida.",
+          "Bebidas e alimentos frios: misture até incorporar completamente, como pede o rótulo da apresentação.",
           "Planejamento de marmitas: uma alternativa é guardar a refeição sem o suplemento e adicioná-lo na hora de consumir, sem presumir que congelamento e reaquecimento foram validados para toda receita."
         ],
         "links": [
@@ -50394,7 +50482,7 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 3.8533333333333335,
         "paragraphs": [
           "A ideia não é trocar o cardápio por receitas complicadas, mas identificar em qual preparação o produto pode ser incluído, quando houver indicação de uso. Café, iogurte, purê ou uma porção de feijão podem ser mais fáceis de organizar do que acrescentar o suplemento à panela inteira.",
-          "As sugestões abaixo são aplicações culinárias baseadas nas orientações públicas da fabricante, não relatos de testes próprios. A quantidade deve seguir o rótulo e a orientação individual. Se o produto aparecer em mais de uma refeição, some o que foi consumido no dia; a referência diária não se reinicia a cada xícara ou prato.",
+          "As sugestões abaixo aplicam as orientações públicas da fabricante à cozinha. A quantidade segue o rótulo e a orientação individual. Se o produto aparecer em mais de uma refeição, some o que foi consumido no dia; a referência diária não se reinicia a cada xícara ou prato.",
           "Em uma receita compartilhada, o rendimento e a quantidade por porção precisam ser conhecidos. Acrescentar várias colheres à panela não permite saber quanto cada pessoa receberá. Para crianças, a orientação profissional deve preceder a inclusão, e não se limitar a uma conta de colheres por peso."
         ],
         "bullets": [
@@ -50454,12 +50542,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lata ou sachê: medidas, informação nutricional e cuidados de uso",
         "paragraphs": [
-          "As informações oficiais consultadas para a lata Sem Sabor de 260 g indicam 3 colheres de chá, totalizando 7,6 g ao dia. Para os sachês de 5 g, a página informa 1 sachê duas vezes ao dia, totalizando 10 g. São recomendações de apresentações distintas, não medidas equivalentes. A necessidade individual deve ser discutida com um profissional de saúde.",
+          "A lata (260 g) indica 3 colheres de chá (7,6 g) ao dia; os sachês (5 g), 1 sachê duas vezes ao dia (10 g no total). São recomendações de apresentações distintas, não medidas equivalentes. A necessidade individual deve ser discutida com um profissional de saúde.",
           "A necessidade e a tolerância ao suplemento são individuais. Siga o rótulo e a orientação profissional, sem aumentar a quantidade por conta própria.",
           "A ingestão de líquidos varia com idade, condições de saúde e restrições; siga a orientação do seu médico ou nutricionista.",
           "A tabela abaixo reproduz os valores informados nas páginas oficiais, usando a porção declarada de cada apresentação. Não são valores da receita pronta: leite, café adoçado, suco, iogurte e outros ingredientes acrescentam suas próprias informações nutricionais.",
           "Para comparar embalagens, olhe a quantidade total, o preço por grama e quanto será utilizado antes do prazo indicado após a abertura. Preços e promoções podem mudar qual apresentação é mais econômica; a presença de uma colher dosadora deve ser conferida na embalagem. Na lata consultada, a fabricante orienta manter bem fechada em local fresco, seco e sem odores, consumir em até 60 dias após iniciar o uso e consumir o preparo imediatamente.",
-          "Na compra pela Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) oferece 10% de desconto em produtos elegíveis, com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses. A acumulação depende da campanha vigente. Para FiberMais, confira o desconto no carrinho e não confunda a compra no canal oficial com uma promessa de lote recém-fabricado ou validade específica."
+          "Na compra pela Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) oferece 10% de desconto em produtos elegíveis, com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses. A soma com outras promoções depende da campanha; confira o desconto no carrinho."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -50798,7 +50886,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Let's Eat It tem uma loja física em São Paulo, a Casa Let's, na Avenida Pacaembu, 1105, no bairro do Pacaembu. Ela abre de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h, e não precisa de agendamento.",
           "Pela página oficial, a proposta é mais de casa decorada do que de loja: os ambientes mostram as peças em uso, e dá para montar a mesa posta com a equipe antes de levar. As compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi. Um detalhe prático: não é possível retirar na Casa Let's um pedido feito pelo site, que sempre vai para o endereço de entrega.",
-          "Para quem compra online, o atendimento funciona de segunda a sexta, das 9h às 18h, pelo WhatsApp e pelo e-mail de suporte. Quem mora em São Paulo também pode, segundo a política da loja, fazer trocas presencialmente na Casa Let's."
+          "Para quem compra online, o atendimento funciona de segunda a sexta, das 9h às 18h, pelo WhatsApp e pelo e-mail de suporte. Quem mora em São Paulo também pode trocar presencialmente na Casa Let's, diz a política da loja."
         ],
         "image": "/images/reviews/letseatit/casa-lets-fachada.webp",
         "imageAlt": "Fachada da Casa Let's, a loja física da Let's Eat It na Avenida Pacaembu, em São Paulo, com o aviso de 15% de desconto nas compras presenciais",
@@ -51004,7 +51092,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A nota 7,6 bate com a fórmula pública do Reclame Aqui, que dá mais peso à solução e à nota do consumidor. É também uma janela móvel: os números mudam conforme novas reclamações entram e antigas saem do período, então vale abrir o perfil no dia da sua compra."
+          "A nota 7,6 bate com a fórmula pública do Reclame Aqui, que dá mais peso à solução e à nota do consumidor. É uma janela móvel: os números mudam quando novas reclamações entram e antigas saem, então abra o perfil no dia da compra."
         ],
         "links": [
           {
@@ -51206,7 +51294,7 @@ export const reviewsData: unknown[] = [
         "heading": "Introdução",
         "paragraphs": [
           "A Let's Eat It entrou para as parcerias do Em Casa com Cecília com uma proposta que tem tudo a ver com a nossa cozinha: panelas de ferro esmaltado, aparelhos de jantar, taças, xícaras e aquelas peças de mesa posta que fazem um almoço de domingo parecer ocasião especial. O código da parceria é MAUAD — o meu sobrenome — e dá 5% de desconto no site da loja (que muita gente procura como “lets eat it”, sem o apóstrofo).",
-          "Antes de escrever este guia, testamos o cupom no checkout da Let's Eat It em 2 de outubro de 2026. Os prints abaixo são desse teste, e o que não conseguimos confirmar está dito com todas as letras. A ficha resumida, com regras e validade, fica na página de cupons."
+          "Antes de escrever este guia, testamos o cupom no checkout da Let's Eat It em 2 de outubro de 2026. Os prints abaixo são desse teste, e o que não confirmamos está dito com todas as letras. O resumo, com regras e validade, fica na página de cupons."
         ],
         "links": [
           {
@@ -51320,7 +51408,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pix, cashback, frete e primeira compra: o que mais existe na loja",
         "paragraphs": [
-          "Além do MAUAD, a Let's Eat It tem outros mecanismos de desconto. Vale entender cada um antes de fechar o pedido:"
+          "O que soma com o MAUAD: Pix soma, cashback tem mínimo e frete não tem grátis."
         ],
         "bullets": [
           "Pix: muitos produtos mostram um preço com 5% de desconto no Pix — o jogo de xícaras do nosso teste saía por R$ 59,76 no Pix. Esse desconto soma com o MAUAD: pela nossa conta, aplicando um desconto sobre o outro, o jogo sairia por R$ 56,77 no Pix com o cupom, sem o frete.",
@@ -51458,7 +51546,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "10 cm de altura e enchimento gomo a gomo",
         "paragraphs": [
-          "Muito protetor de colchão vendido como pillow top tem poucos centímetros e achata rápido. O Magnum tem **10 cm de altura quando afofado**, segundo a marca. O detalhe do \"quando afofado\" importa: ele chega embalado e precisa ser aberto e descansar antes de ganhar o volume total (os passos estão logo abaixo).",
+          "Muito protetor vendido como pillow top tem poucos centímetros e achata rápido. O Magnum tem **10 cm de altura quando afofado**, diz a marca. O detalhe do \"quando afofado\" importa: ele chega embalado e precisa ser aberto e descansar antes de ganhar o volume total (os passos estão logo abaixo).",
           "O enchimento é feito gomo a gomo: cada quadrado costurado recebe sua própria porção de AirFiber. A I Wanna Sleep compara com a manta acrílica comum, que é uma camada contínua, e diz que os gomos distribuem a fibra sem acumular em um canto da cama."
         ],
         "image": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-altura.webp",
@@ -51469,7 +51557,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "AirFiber e capa 100% algodão: o que muda no toque",
         "paragraphs": [
-          "AirFiber é o nome que a I Wanna Sleep dá a uma fibra acrílica especial, exclusiva da marca no Brasil. A promessa é um toque parecido com o da pluma de ganso, mas sem pena de animal: o produto leva o selo **Animal Friendly**.",
+          "O toque promete parecer pluma de ganso, sem pena de animal, com selo **Animal Friendly**: AirFiber é a fibra acrílica exclusiva da marca no Brasil.",
           "Por fora, a capa é de tecido 100% algodão, e a marca informa certificação OEKO-TEX®. Sobre calor, a I Wanna Sleep afirma que a combinação de AirFiber com algodão melhora a ventilação e evita que o pillow top esquente. Quem dorme com muito calor tira a dúvida na própria cama, com os 30 dias de Sleeptest."
         ],
         "image": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-tecido.webp",
@@ -51534,7 +51622,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanhos e preços do Pillow Top Magnum",
         "paragraphs": [
-          "O Magnum é vendido em quatro tamanhos no site da I Wanna Sleep. Os valores abaixo são os preços à vista exibidos na página do produto em 3 de outubro de 2026; a coluna com cupom é uma estimativa com os 10% do CECIEMCASA."
+          "Escolha pelo colchão: o Magnum sai em quatro medidas no site da I Wanna Sleep. Os valores abaixo são os preços à vista exibidos na página do produto em 3 de outubro de 2026; a coluna com cupom é uma estimativa com os 10% do CECIEMCASA."
         ],
         "comparisonTable": {
           "caption": "Pillow Top Magnum IWS: tamanhos e preços no site oficial",
@@ -51690,7 +51778,7 @@ export const reviewsData: unknown[] = [
         "heading": "Leite Ninho, composto lácteo ou fórmula: como ler o rótulo",
         "paragraphs": [
           "Muita gente pega a lata amarela achando que todo Ninho é leite. Não é: a linha reúne três tipos de produto, e o nome técnico vem escrito na frente da embalagem, logo abaixo da marca.",
-          "**Leite em pó** é leite desidratado. Ele pode ser enriquecido com vitaminas e minerais e continua sendo leite: o Ninho Integral é rico em cálcio e fonte de ferro, zinco e vitaminas A, C, D e E, segundo a Nestlé.",
+          "**Leite em pó** é leite desidratado. Ele pode ser enriquecido com vitaminas e minerais e continua sendo leite: o Ninho Integral é rico em cálcio e fonte de ferro, zinco e vitaminas A, C, D e E, informa a Nestlé.",
           "**Composto lácteo** é uma mistura de leite com outros ingredientes, como óleos vegetais, fibras ou maltodextrina. Pela regra do Ministério da Agricultura, pelo menos 51% dos ingredientes precisam ser lácteos. Por isso o rótulo avisa: \"composto lácteo não é leite em pó\".",
           "**Fórmula infantil de seguimento para crianças de primeira infância** é uma categoria própria, para crianças de 1 a 3 anos. É o caso do Ninho Fases 1+.",
           "Os rótulos de leite, composto e fórmula Ninho avisam que o produto não deve ser usado para alimentar crianças menores de 1 ano."
@@ -51718,8 +51806,8 @@ export const reviewsData: unknown[] = [
         "heading": "Ninho Forti+, Zero Lactose e Adulto: as versões da família",
         "paragraphs": [
           "O **Ninho Forti+ Fibras** é um composto lácteo com fibras vendido em sachê de 750 g. A Nestlé o descreve como rico em cálcio, ferro, zinco e vitaminas A, C, D e E, e fonte de fibras.",
-          "O **Ninho Zero Lactose** é um composto lácteo com maltodextrina para quem não consome lactose. O **Ninho Adulto** é um leite em pó semidesnatado com 43% menos gordura total que o Ninho Integral, segundo a marca.",
-          "Há ainda o **Ninho NutriAdvance**, um suplemento alimentar em pó com arroz e aveia para crianças de 4 a 8 anos, segundo a embalagem."
+          "O **Ninho Zero Lactose** é um composto lácteo com maltodextrina para quem não consome lactose. O **Ninho Adulto** é um leite em pó semidesnatado com 43% menos gordura total que o Ninho Integral, informa a marca.",
+          "Há ainda o **Ninho NutriAdvance**, um suplemento alimentar em pó com arroz e aveia para crianças de 4 a 8 anos, diz a embalagem."
         ],
         "image": "/images/reviews/nutren/ninho-forti-fibras-oficial.webp",
         "imageAlt": "Foto oficial da Nestlé: sachê de Ninho Forti+ Composto Lácteo com Fibras de 750 g",
@@ -51743,7 +51831,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Quando uma receita de bolo de Ninho ou recheio de Ninho pede \"leite Ninho\", ela está falando do **Leite Ninho Integral**, o leite em pó. É ele que dá o sabor e a cor clara que todo mundo procura.",
           "Composto lácteo e fórmula têm outros ingredientes e custam mais por quilo; para cozinhar, o leite em pó integral é a escolha mais simples e mais barata.",
-          "O Ninho Integral Instantâneo também serve: é leite em pó integral que dissolve em qualquer temperatura, segundo a Nestlé. Para polvilhar o bolo pronto, peneire o leite em pó por cima na hora de servir."
+          "O Ninho Integral Instantâneo também serve: leite em pó integral que dissolve em qualquer temperatura, diz a Nestlé. Para polvilhar o bolo pronto, peneire o leite em pó por cima na hora de servir."
         ],
         "image": "/images/reviews/nutren/ninho-bolo-receitas-nestle-oficial.webp",
         "imageAlt": "Foto oficial da Nestlé: bolinhos com cobertura cremosa e Leite Ninho polvilhado por cima",
@@ -51866,8 +51954,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual Ninho comprar",
         "paragraphs": [
-          "A escolha depende do uso, e o nome técnico na frente da embalagem diz o que o produto é:"
+          "A escolha depende do uso, e o nome técnico na frente da embalagem diz o que o produto é."
         ],
+        "emphasis": "Pelos números da tabela, para a cozinha a escolha é o Integral Instantâneo, porque os compostos custam mais por pacote e não são leite.",
         "bullets": [
           "Café, vitamina, bolo e recheio: **Leite Ninho Integral**, o leite em pó. O Integral Instantâneo também serve, e custava R$ 19,81 (lata de 380 g) na Nestlé Nutre.",
           "Criança de 1 a 3 anos: o Ninho Fases 1+ é fórmula infantil de seguimento. A partir de 3 anos, o Fases 3+ é composto lácteo. A escolha do leite da criança é conversa para ter com o pediatra ou nutricionista.",
@@ -51889,6 +51978,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você usa Ninho em café, vitamina, bolo ou recheio e quer o leite em pó de verdade.",
+        "Você já compra Ninho todo mês e quer o preço da loja oficial da Nestlé, com cupom e assinatura."
+      ],
+      "skipIf": [
+        "A compra é para criança pequena: o leite dela é conversa para ter com o pediatra ou nutricionista, e menor de 1 ano não usa nenhum produto da linha.",
+        "Você espera desconto extra na assinatura do Ninho Fases 1+: ele não tem."
+      ]
+    },
     "cta": {
       "text": "Veja a linha Ninho na loja oficial Nestlé Nutre e use o cupom CECI para ter desconto no checkout.",
       "label": "Ver Ninho na Nestlé Nutre",
@@ -52066,7 +52165,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Assinatura ou promoção avulsa: o que sai mais barato?",
         "paragraphs": [
-          "Este é o ponto que quase ninguém explica. Os 25% da assinatura são calculados sobre o **preço cheio**, e o regulamento diz que as promoções do site não se somam às compras da assinatura. Então, quando a loja coloca caixas em promoção na compra avulsa, o preço de vitrine pode ficar abaixo do preço da assinatura.",
+          "A assinatura nem sempre tem o menor preço: os 25% saem do **preço cheio**, e o regulamento diz que as promoções do site não se somam às compras da assinatura. Então, quando a loja coloca caixas em promoção na compra avulsa, o preço de vitrine pode ficar abaixo do preço da assinatura.",
           "Foi o que aconteceu no dia da leitura dos preços. Na página de Sabores, o Espresso de 10 cápsulas estava de R$ 25,90 por R$ 17,90 na compra avulsa, e o combo de 8 caixas de Espresso saía com 32% de desconto:"
         ],
         "comparisonTable": {
@@ -52350,7 +52449,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Segundo a própria marca, a operação começou em 2017, a empresa já passou de 800 mil clientes e cita no seu histórico o Shark Tank, a Y Combinator e a Forbes. A Insider também afirma que as peças são criadas e desenvolvidas em São Paulo e que entrega em todo o Brasil e no exterior. São informações institucionais da empresa; o que conferimos de forma independente foram os dados do CNPJ acima.",
+          "A própria marca diz que opera desde 2017, passou de 800 mil clientes e cita Shark Tank, Y Combinator e Forbes no histórico. A Insider também afirma que as peças são criadas e desenvolvidas em São Paulo e que entrega em todo o Brasil e no exterior. São informações institucionais da empresa; o que conferimos de forma independente foram os dados do CNPJ acima.",
           "Além da loja para o consumidor, a marca tem a Insider Business, uma frente de vendas para empresas, com uniformes, kits de boas-vindas para funcionários e brindes corporativos."
         ]
       },
@@ -52359,13 +52458,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Marcas conhecidas viram alvo de páginas falsas, e a Insider não é exceção. O endereço oficial é **insiderstore.com.br**. Antes de pagar, confira se é exatamente esse o domínio na barra do navegador, principalmente quando você chegou por um anúncio.",
           "No rodapé do site oficial aparecem o CNPJ e a razão social da tabela acima, além dos links para a política de trocas, os termos de uso e a central de ajuda, que fica em suporte.insiderstore.com.br. Se uma página promete preços muito abaixo dos praticados no site e não mostra esses dados, desconfie.",
-          "Vale lembrar também que, segundo a central de ajuda, o canal oficial de atendimento é exclusivamente o WhatsApp, de segunda a sexta, das 9h às 18h. Por isso, mensagens em outros canais pedindo pagamento ou dados pessoais em nome da Insider merecem cuidado redobrado."
+          "Vale lembrar que o canal oficial de atendimento é só o WhatsApp, de segunda a sexta, das 9h às 18h, diz a central de ajuda. Por isso, mensagens em outros canais pedindo pagamento ou dados pessoais em nome da Insider merecem cuidado redobrado."
         ]
       },
       {
         "heading": "O que a Insider vende",
         "paragraphs": [
-          "Os efeitos das peças abaixo são alegações da marca: o produto mais conhecido é a **Tech T-Shirt**, que ela apresenta como \"a original desde 2019\", com versões masculina e feminina. O tecido tem tratamento antiodor e desamassa com o calor do corpo. No dia da nossa checagem, a peça avulsa custava R$ 129 no site, e várias camisetas também são vendidas em kits de 2, 3 ou 5 unidades.",
+          "O produto mais conhecido é a **Tech T-Shirt**, a original desde 2019 na versão da marca, em modelo masculino e feminino. O tecido promete tratamento antiodor e desamassar com o calor do corpo. No dia da nossa checagem, a peça avulsa custava R$ 129 no site, e várias camisetas também são vendidas em kits de 2, 3 ou 5 unidades.",
           "A loja vai além das camisetas. Há a **Undershirt Antissuor**, feita para usar por baixo da camisa social, nas versões Leve, Moderado e Block (para quem sua mais), cuecas das linhas Comfort e Performance, roupas esportivas, como a Performance T-Shirt 2.0, com a tecnologia Outlast de regulação térmica, e uma linha feminina com tops, leggings e saias.",
           "Na página de sustentabilidade, a marca afirma produção 100% nacional e Tech T-Shirt carbono negativa."
         ],
@@ -52402,7 +52501,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Insider tem loja física?",
         "paragraphs": [
-          "Tem. A loja fica no **MorumbiShopping**, em São Paulo (Av. Roque Petroni Júnior, 1089, lojas 108/109-S, piso superior). Segundo a central de ajuda, a operação provisória que funcionava ali encerrou, e a nova Concept Store Insider abre ao público de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
+          "Tem. A loja fica no **MorumbiShopping**, em São Paulo (Av. Roque Petroni Júnior, 1089, lojas 108/109-S, piso superior). A provisória que funcionava ali encerrou, diz a central de ajuda, e a nova Concept Store abre de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
           "É uma boa opção para quem quer provar antes de comprar, principalmente as peças de underwear, que não têm troca por tamanho. A loja aceita Pix, dinheiro e cartão de débito ou crédito, com parcelamento em até 3 vezes sem juros, e emite nota fiscal na hora.",
           "Alguns detalhes funcionam de outro jeito na loja física. Os cupons de desconto e o cashback são exclusivos do site, então o EMCASACOMCECILIA não vale lá; as compras presenciais acumulam pontos no programa de fidelidade da marca, mas o resgate é feito pelo site. Não dá para retirar na loja um pedido feito online, e a troca precisa ser feita no mesmo canal da compra. Para quem compra na loja, a central informa 7 dias para devolução por arrependimento e 30 dias para troca por insatisfação."
         ]
@@ -52560,7 +52659,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Insider Store no Reclame Aqui",
         "paragraphs": [
-          "Estes são os indicadores da aba de 6 meses, que é a janela usada para a reputação exibida no topo do perfil:"
+          "A reputação do topo do perfil sai da janela de 6 meses: estes são os indicadores dela:"
         ],
         "comparisonTable": {
           "caption": "Perfil da Insider Store no Reclame Aqui, aba de 6 meses (dados de 01/04/2026 a 30/09/2026).",
@@ -52693,7 +52792,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais aparece nas reclamações",
         "paragraphs": [
-          "O Reclame Aqui agrupa as reclamações dos últimos três anos por tipo de problema e por produto. Na Insider Store, a lista de problemas é liderada, com folga, pela entrega:"
+          "No Reclame Aqui, nos últimos três anos, a lista de problemas da Insider é liderada, com folga, pela entrega:"
         ],
         "bullets": [
           "Produto não recebido: 2.745 reclamações, o problema mais citado.",
@@ -52726,7 +52825,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Alerta 1: cupons vazados e pedidos cancelados",
         "paragraphs": [
-          "Entre as reclamações mais recentes há clientes que fizeram pedidos em setembro e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom de R$ 250 de uso pessoal, criado para um grupo específico de clientes, que acabou divulgado em sites de cupons sem autorização da marca. Segundo a empresa, todos os pedidos feitos com esse código foram cancelados e o valor pago foi estornado.",
+          "Entre as reclamações mais recentes há clientes que fizeram pedidos em setembro e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom pessoal de R$ 250, criado para um grupo específico de clientes e vazado em sites de cupons sem autorização. A empresa diz que todos esses pedidos foram cancelados e os valores, estornados.",
           "A Insider afirmou ainda que as promoções oficiais são divulgadas nos próprios canais da marca: site, e-mails da Insider e redes sociais verificadas. A lição é simples: desconfie de cupons com desconto alto demais encontrados em sites de cupons, porque o pedido pode ser cancelado depois de pago. O EMCASACOMCECILIA é um cupom de criador do programa oficial de parceria da Insider, feito para ser divulgado."
         ]
       },
@@ -52753,7 +52852,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O Em Casa com Cecília tem parceria com a Insider e pode receber comissão pelas compras feitas com o cupom **EMCASACOMCECILIA**. Isso não muda os números deste artigo, que são todos do perfil público da empresa no Reclame Aqui.",
+          "O Em Casa com Cecília tem parceria com a Insider e pode receber comissão pelo cupom **EMCASACOMCECILIA**; os números acima são do perfil público no Reclame Aqui.",
           "O cupom dá 15% OFF e vale nas compras do site oficial, inclusive no Outlet, mas não vale na loja física nem se soma a outros cupons, e pode não entrar nos primeiros dias de um lançamento. Pelo link da parceria, ele já entra aplicado no carrinho, e cada produto mostra no checkout se o desconto foi aceito."
         ],
         "links": [
@@ -52847,7 +52946,7 @@ export const reviewsData: unknown[] = [
       "O checkout mostra o desconto em cada item antes do pagamento"
     ],
     "cons": [
-      "Não vale para lançamentos nem nas lojas físicas",
+      "Pode não entrar nos primeiros dias de um lançamento e não vale nas lojas físicas",
       "A loja aceita um cupom por pedido",
       "O frete grátis depende do valor do pedido depois do desconto",
       "Underwear e beachwear só têm troca em caso de defeito"
@@ -52930,13 +53029,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde o cupom vale: o que o nosso teste mostrou",
         "paragraphs": [
-          "As regras oficiais do programa são curtas: o cupom vale nas compras da loja online, não vale para **produtos de lançamento**, não vale nas **lojas físicas** da Insider e não é cumulativo com outro cupom, porque a loja aceita só um por pedido.",
+          "As regras oficiais do programa são curtas: o cupom vale nas compras da loja online, pode não entrar nos primeiros dias de um **lançamento**, não vale nas **lojas físicas** da Insider e não é cumulativo com outro cupom, porque a loja aceita só um por pedido.",
           "Para saber como isso funciona no dia a dia, testamos o cupom no checkout oficial em 5 de outubro de 2026, sem finalizar a compra. O desconto entrou numa Tech T-Shirt, numa Undershirt Antissuor, num kit com três Tech T-Shirts femininas que já estava com preço promocional e numa peça do Outlet. Também testamos uma meia de R$ 25 sozinha no carrinho, e o desconto entrou: não encontramos valor mínimo de pedido para usar o cupom. Em todos esses itens o desconto foi de 15% do preço, o que voltamos a conferir no checkout dias depois.",
           "Num vestido marcado como lançamento, o cupom não deu desconto. Já peças com a mesma etiqueta, como a Tech T-Shirt e os sutiãs Nakedfeel do Outlet, receberam o desconto normalmente: em geral, o lançamento fica fora do cupom só nos primeiros dias. O jeito seguro de saber é o resumo do pedido, que mostra item por item o que entrou no cupom."
         ],
         "bullets": [
           "**Vale:** loja online da Insider, inclusive Outlet, kits e peças com preço promocional.",
-          "**Não vale:** produtos de lançamento e compras nas lojas físicas.",
+          "**Não vale:** compras nas lojas físicas. Em lançamento, pode não entrar nos primeiros dias.",
           "**Não soma:** com outro cupom no mesmo pedido.",
           "**Marketplaces:** o EMCASACOMCECILIA é usado no checkout do site da Insider; em outras lojas e marketplaces o código não se aplica."
         ]
@@ -52945,7 +53044,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frete grátis, primeira compra e outros cupons",
         "paragraphs": [
           "O cupom dá desconto nos produtos, não no frete. Pela política de frete da Insider, a entrega é grátis em compras **acima de R$ 399**, e esse valor é conferido **depois** do desconto do cupom. Se o desconto deixar o pedido abaixo de R$ 399, o frete passa a ser cobrado: um carrinho de R$ 450, por exemplo, cai para R$ 382,50 com os 15% e fica sem frete grátis. O carrinho mostra quanto falta para o frete grátis, então vale olhar esse aviso antes de finalizar.",
-          "Quem procura **cupom Insider para primeira compra** pode usar o EMCASACOMCECILIA normalmente: ele não exige cadastro anterior nem conta na loja, e funcionou no nosso teste sem login. A própria Insider também oferece um **cupom de boas-vindas** para a primeira compra online: o código chega depois que você cadastra o e-mail no pop-up que aparece ao entrar no site. Segundo a central de ajuda da loja, se o pop-up não aparecer, vale conferir se ele não está bloqueado no navegador ou abrir o site numa aba anônima.",
+          "Quem procura **cupom Insider para primeira compra** pode usar o EMCASACOMCECILIA normalmente: ele não exige cadastro anterior nem conta na loja, e funcionou no nosso teste sem login. A Insider também oferece um **cupom de boas-vindas** para a primeira compra online: o código chega depois que você cadastra o e-mail no pop-up do site. Se o pop-up não aparecer, a central de ajuda manda conferir o bloqueador do navegador ou abrir o site numa aba anônima.",
           "Há ainda o programa de indicação, o Member Get Member: a cada compra, o cliente recebe um cupom de R$ 150 para passar a alguém que nunca comprou na loja. Esse cupom vale em compras acima de R$ 399.",
           "Como a loja aceita só um cupom por pedido, nenhum deles se soma ao outro. Se você tiver mais de um, a conta é simples: aplique um, veja o total, troque pelo outro e fique com o que deixar o pedido mais barato. Lembre que o cupom de indicação só entra em pedidos acima de R$ 399, e que o cupom de boas-vindas vale apenas na primeira compra."
         ]
@@ -52997,7 +53096,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Tech T-Shirt é o produto mais conhecido da marca, e a garantia contra desbotamento é o argumento mais concreto da Insider: segundo os termos da loja, ela vale por 2 anos, desde que a lavagem siga a etiqueta, com ciclo delicado em até 30 °C, sem deixar de molho, sem alvejante, sem amaciante e com secagem à sombra.",
+          "A Tech T-Shirt é o produto mais conhecido, e a garantia contra desbotamento é o argumento mais concreto: 2 anos, pelos termos da loja, se a lavagem seguir a etiqueta — ciclo delicado até 30 °C, sem molho, sem alvejante, sem amaciante e secagem à sombra.",
           "Os kits costumam ser a forma mais econômica de comprar várias peças, porque o preço por unidade já é menor. Com o cupom por cima e o pedido acima de R$ 399, o frete também sai grátis."
         ],
         "image": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
