@@ -59,7 +59,14 @@ O Muse revisou, só lendo e sobre a main b62629bedb, os 40 artigos PT com mais i
 9. **F (foto):** o Muse não fez varredura de foto na camada 1. Por ora aplique só os F que ele apontou; a varredura de foto fica para outra rodada.
 
 ## Achado à parte
-cueca-insider-comfort-ou-performance usa links diretos da insiderstore.com.br nas cuecas. Os links de criador são Performance `creators.insiderstore.com.br/nD3bAuj` e Comfort `creators.insiderstore.com.br/ptFyZqS`, os mesmos do card de estilo. Trocar no mesmo PR. A Slip segue com o link direto até o Bruno mandar o de criador.
+`cueca-insider-comfort-ou-performance` usa links diretos (`www.insiderstore.com.br/products/...`, sem parceria) no texto e na tabela. Trocar no mesmo PR pelos links de parceria que o Bruno mandou em 31/10. Eles já aplicam o cupom.
+- **Performance:** `https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-performance?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA`
+- **Comfort:** `https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-comfort?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA`
+- **Boxer Performance:** `https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-boxer-performance?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA`, se o artigo citar a peça.
+- **Slip:** manter o `https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-slip?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA`, que o card já usa. O link que veio aponta para `cueca-slip-teste-back-in-stock-copia`, um cadastro de cópia (como os `-pp`); não usar.
+- **Todas as cuecas:** `https://creators.insiderstore.com.br/N9gT2aU`. Hoje ele está no card como link da Seamless Touch. No card, a Seamless passa a `https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-seamless-touch-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA`, e o N9gT2aU vai para o link geral do artigo ("ver todas as cuecas").
+- **Kits (3 e 5 cuecas):** o mesmo formato, com o handle do kit em `redirect=/products/<handle>`.
+- Os links de criador do card (Performance `nD3bAuj`, Comfort `ptFyZqS`) ficam como estão.
 
 ## Ordem
 Por loja, das que somam mais impressões: Nestlé Nutre, Dolce Gusto, SHEIN, Insider, Magalu e YesStyle; depois as outras. Um PR por loja, com o Gate 1 verde.
