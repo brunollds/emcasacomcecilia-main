@@ -61,7 +61,7 @@
         {
           "src": "/images/reviews/mais-mu/mais-mu-cupom-01-sem-cupom.webp",
           "alt": "Resumo do pedido no checkout da Mais Mu sem cupom: creatina refil 500 g a R$ 79,90 e whey paçoquita 450 g a R$ 159,99, total de R$ 239,89 e o botão Adicionar cupom de desconto",
-          "caption": "Checkout da Mais Mu em 20/10/2026, antes do cupom.",
+          "caption": "Checkout da Mais Mu, antes do cupom.",
           "objectFit": "contain",
           "aspectRatio": 0.9018
         }
@@ -91,7 +91,7 @@
         {
           "src": "/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp",
           "alt": "Resumo do pedido com o cupom aplicado: subtotal de R$ 239,89, Desconto do cupom de R$ 23,99, total de R$ 215,90 e Cupom MMEMCASACOMCECILIA",
-          "caption": "Cupom aplicado no checkout da Mais Mu em 20/10/2026: R$ 23,99 de desconto.",
+          "caption": "Cupom aplicado no checkout da Mais Mu: R$ 23,99 de desconto.",
           "objectFit": "contain",
           "aspectRatio": 1.017
         }
@@ -136,7 +136,7 @@
     {
       "heading": "Frete grátis com o cupom",
       "paragraphs": [
-        "A Mais Mu dá frete grátis a partir de um valor que depende da região. Na faixa do topo do site, em 20/10/2026, estavam estes valores:"
+        "A Mais Mu dá frete grátis a partir de um valor que depende da região. Na faixa do topo do site, estavam estes valores:"
       ],
       "comparisonTable": {
         "headers": [
@@ -190,7 +190,7 @@
         "Qual é o cupom da Mais Mu? O cupom é MMEMCASACOMCECILIA, com 10% OFF em todo o site oficial, lojamaismu.com.br.",
         "O cupom da Mais Mu vale na primeira compra? Sim. Ele vale na primeira compra e também para quem já comprou. O desconto de boas-vindas da loja não soma com ele.",
         "O cupom vale em todas as formas de pagamento? Sim. Ele vale em todas as formas de pagamento da loja e soma com os 3% de desconto do Pix.",
-        "O cupom soma com produto em promoção? Sim. No teste de 20/10/2026, os 10% entraram também na creatina que já estava em oferta.",
+        "O cupom soma com produto em promoção? Sim. No teste no carrinho, os 10% entraram também na creatina que já estava em oferta.",
         "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial. No Mercado Livre, vale o preço do anúncio.",
         "O cupom da Mais Mu dá frete grátis? Não necessariamente. O frete grátis depende do valor do pedido e da região: acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste. Se o cupom deixar o total abaixo do mínimo, o frete pode ser cobrado.",
         "Dá para usar o cashback junto com o cupom? Não. A loja não acumula cupons, e o crédito do cashback entra como cupom.",

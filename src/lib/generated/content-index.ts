@@ -78775,7 +78775,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Max Titanium pertence ao grupo **Supley**. No site da Supley, a empresa diz que renova diariamente o seu compromisso com o mercado \"com MAX Titanium, Probiótica, Dr. Peanut e Znack That\". São quatro marcas do mesmo grupo.",
           "O site da Max Titanium não tem uma página \"Quem somos\", e o rodapé mostra só \"Supley\" como razão social, sem dizer que ela é o grupo da marca. A ligação vem de duas fontes públicas, consultadas em 14/10/2026: o rodapé da loja e o site da Supley.",
-          "Nos dados públicos da Receita Federal, o CNPJ do rodapé é o de uma filial ativa da Supley. É o mesmo CNPJ do rodapé da Probiótica: as duas lojas são operadas pela mesma empresa. A matriz da Supley fica em Matão (SP), está ativa desde 5 de setembro de 2005 e tem como atividade a fabricação de alimentos dietéticos e complementos alimentares. O endereço que o rodapé mostra, Avenida José Pilo, 161, em Matão, também é de uma unidade da Supley, ativa desde 2015 e com a mesma atividade de fabricação.",
+          "Nos dados públicos da Receita Federal, o CNPJ do rodapé é o de uma filial ativa da Supley. É o mesmo CNPJ do rodapé da Probiótica: as duas lojas são operadas pela mesma empresa. A matriz da Supley fica em Matão (SP), está ativa desde 2005 e tem como atividade a fabricação de alimentos dietéticos e complementos alimentares. O endereço que o rodapé mostra, Avenida José Pilo, 161, em Matão, também é de uma unidade da Supley, ativa desde 2015 e com a mesma atividade de fabricação.",
           "A Supley diz que iniciou a trajetória em 2006. O site não informa desde quando existe a marca Max Titanium.",
           "Para conhecer as marcas irmãs, veja [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel) e [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel). A Znack That aparece no nosso teste do cupom: os dois brindes que o site pôs no carrinho eram dessa quarta marca do grupo."
         ]
@@ -78784,7 +78784,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como saber se você está no site oficial",
         "paragraphs": [
           "O endereço oficial é **maxtitanium.com.br**. Antes de pagar, confira na barra do navegador se o domínio é exatamente esse, sem nenhuma letra trocada, principalmente quando você chegou por um anúncio ou por uma mensagem.",
-          "O segundo teste é o rodapé. No site oficial, em 14/10/2026, ele traz:"
+          "O segundo teste é o rodapé. No site oficial, ele traz:"
         ],
         "bullets": [
           "a razão social: Supley Lab. de Alimentos e Suplementos Nutricionais Ltda;",
@@ -78798,7 +78798,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/max-titanium/max-titanium-rodape-cnpj.webp",
         "imageAlt": "Rodapé do site maxtitanium.com.br com a razão social da Supley, o endereço em Matão (SP) e o CNPJ 07.578.713/0004-29 marcados em amarelo",
-        "imageCaption": "Rodapé de maxtitanium.com.br em 14/10/2026, com razão social, endereço e CNPJ. O marca-texto amarelo é nosso.",
+        "imageCaption": "Rodapé de maxtitanium.com.br, com razão social, endereço e CNPJ. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 4.125
       },
@@ -78810,8 +78810,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/max-titanium/max-titanium-confiavel-capa.webp",
-          "alt": "Página inicial do site maxtitanium.com.br em 14/10/2026, com a campanha Semana Max Economia",
-          "caption": "A página inicial da Max Titanium em 14/10/2026, com a campanha Semana Max Economia.",
+          "alt": "Página inicial do site maxtitanium.com.br, com a campanha Semana Max Economia",
+          "caption": "A página inicial da Max Titanium, com a campanha Semana Max Economia.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -78819,10 +78819,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e defeito",
         "paragraphs": [
-          "As regras ficam nas páginas de Termos e Condições e de Troca e Devolução do site. O que valia em 14/10/2026 está no quadro:"
+          "As regras ficam nas páginas de Termos e Condições e de Troca e Devolução do site. O que valia na nossa consulta está no quadro:"
         ],
         "comparisonTable": {
-          "caption": "Prazos de arrependimento e de defeito da Max Titanium, segundo as páginas de Termos e Condições e de Troca e Devolução do site em 14/10/2026",
+          "caption": "Prazos de arrependimento e de defeito da Max Titanium, segundo as páginas de Termos e Condições e de Troca e Devolução do site",
           "headers": [
             "Situação",
             "Prazo",
@@ -78859,10 +78859,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazo e formas de pagamento",
         "paragraphs": [
-          "O banner do topo do site diz \"frete grátis em todo o país\", com asterisco. O asterisco é a política de frete: a entrega sai sem custo a partir de um valor de pedido que muda conforme a região do CEP. Os valores abaixo são os que a página de frete mostrava em 14/10/2026:"
+          "O banner do topo do site diz \"frete grátis em todo o país\", com asterisco. O asterisco é a política de frete: a entrega sai sem custo a partir de um valor de pedido que muda conforme a região do CEP. Os valores abaixo são os que a página de frete mostrava na nossa consulta:"
         ],
         "comparisonTable": {
-          "caption": "Valor de pedido para frete grátis da Max Titanium por região, segundo a política do site em 14/10/2026",
+          "caption": "Valor de pedido para frete grátis da Max Titanium por região, segundo a política do site",
           "headers": [
             "Região",
             "Frete grátis a partir de"
@@ -78903,7 +78903,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação da Max Titanium no Reclame Aqui?",
         "paragraphs": [
-          "Em 14/10/2026, o perfil \"Max Titanium Suplementos\" no Reclame Aqui mostrava reputação **Boa**, com nota 7,6 nos últimos seis meses (de 1º de abril a 30 de setembro de 2026), 97,5% das reclamações respondidas e 82,6% resolvidas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão em [Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/max-titanium-reclame-aqui-nota-reputacao)."
+          "Na nossa consulta, o perfil \"Max Titanium Suplementos\" no Reclame Aqui mostrava reputação **Boa**, com nota 7,6 nos últimos seis meses, 97,5% das reclamações respondidas e 82,6% resolvidas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão em [Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/max-titanium-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -78919,7 +78919,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Max Titanium e pode receber comissão pelas compras feitas com o cupom **MAX10EMCASACOMCECILIA**. No carrinho do site, o campo onde ele entra se chama \"Cupom de Desconto\".",
           "O desconto chega a 10% OFF, mas o percentual pode ser menor em alguns produtos, então confira o desconto no carrinho antes de pagar. O cupom vale em todas as formas de pagamento, funciona para conta nova e para quem já comprou na loja, soma com as promoções do site e soma com o desconto de até 5% do Pix e do boleto. As regras completas e as condições atualizadas ficam na [página do cupom da Max Titanium](/cupons/max-titanium).",
-          "Testamos o cupom no carrinho em 14/10/2026. O passo a passo, com o que mudou no resumo, está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar)."
+          "Testamos o cupom no carrinho. O passo a passo, com o que mudou no resumo, está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar)."
         ]
       },
       {
@@ -78932,19 +78932,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Max Titanium é confiável? Sim. A loja é operada pela Supley, com CNPJ ativo, trocas publicadas no site e reputação Boa no Reclame Aqui, com 97,5% das reclamações dos últimos seis meses respondidas, em consulta de 14/10/2026.",
+          "A Max Titanium é confiável? Sim. A loja é operada pela Supley, com CNPJ ativo, trocas publicadas no site e reputação Boa no Reclame Aqui, com 97,5% das reclamações dos últimos seis meses respondidas.",
           "A Max Titanium é da Supley? Sim. A própria Supley lista a Max Titanium entre as marcas do grupo, ao lado de Probiótica, Dr. Peanut e Znack That, e o rodapé da loja traz a razão social da Supley.",
           "Quem é o dono da Max Titanium? A marca pertence ao grupo Supley, que é a empresa que aparece no rodapé do site, com o CNPJ 07.578.713/0004-29. O site da Supley diz que a trajetória do grupo começou em 2006.",
           "O site da Max Titanium é seguro? O endereço oficial é maxtitanium.com.br, e o rodapé mostra razão social, CNPJ e endereço. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
-          "Qual é o CNPJ da Max Titanium? O rodapé do site traz o CNPJ 07.578.713/0004-29, da Supley Lab. de Alimentos e Suplementos Nutricionais Ltda., que consta como ativo nos dados públicos em 14/10/2026.",
+          "Qual é o CNPJ da Max Titanium? O rodapé do site traz o CNPJ 07.578.713/0004-29, da Supley Lab. de Alimentos e Suplementos Nutricionais Ltda., que consta como ativo nos dados públicos.",
           "Quanto tempo tenho para trocar um produto da Max Titanium? São 7 dias corridos a partir do recebimento para o arrependimento, com embalagem original e lacre intacto, e 30 dias corridos para comunicar defeito em suplementos (90 dias em duráveis, como coqueteleiras). No arrependimento, o pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
-          "A Max Titanium tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte, em 14/10/2026. Vale na forma de envio mais barata, não no Sedex.",
+          "A Max Titanium tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte. Vale na forma de envio mais barata, não no Sedex.",
           "Tem cupom de primeira compra na Max Titanium? Nosso cupom é o MAX10EMCASACOMCECILIA: dá até 10% OFF, com desconto menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho e veja as condições na [página do cupom](/cupons/max-titanium)."
         ]
       }
     ]
   },
   {
+    "bodyDatesReason": "reclame-aqui",
     "id": 431,
     "slug": "max-titanium-reclame-aqui-nota-reputacao",
     "title": "Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram",
@@ -79017,10 +79018,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Max Titanium no Reclame Aqui",
         "paragraphs": [
-          "O perfil se chama \"Max Titanium Suplementos\". Em 14/10/2026, a reputação era **Boa** nas três janelas que o Reclame Aqui mostra: 6 meses, 12 meses e o ano de 2025. A tabela põe as três lado a lado, cada uma com o seu período:"
+          "O perfil se chama \"Max Titanium Suplementos\". A reputação era **Boa** nas três janelas que o Reclame Aqui mostra: 6 meses, 12 meses e o ano de 2025. A tabela põe as três lado a lado, cada uma com o seu período:"
         ],
         "comparisonTable": {
-          "caption": "Perfil Max Titanium Suplementos no Reclame Aqui, abas de 6 meses (01/04 a 30/09/2026), de 12 meses (01/10/2025 a 30/09/2026) e de 2025, consultado em 14/10/2026",
+          "caption": "Perfil Max Titanium Suplementos no Reclame Aqui, abas de 6 meses, de 12 meses e de 2025",
           "headers": [
             "Indicador",
             "6 meses (01/04 a 30/09/2026)",
@@ -79085,21 +79086,21 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-6-meses.webp",
             "alt": "Aba de 6 meses do perfil Max Titanium Suplementos no Reclame Aqui, com reputação Boa, nota 7,6 e os números marcados em amarelo",
-            "caption": "Aba de 6 meses (01/04 a 30/09/2026) do perfil \"Max Titanium Suplementos\", consultada em 14/10/2026. O marca-texto amarelo é nosso.",
+            "caption": "Aba de 6 meses do perfil \"Max Titanium Suplementos\". O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.3055
           },
           {
             "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-12-meses.webp",
             "alt": "Aba de 12 meses do perfil Max Titanium Suplementos no Reclame Aqui, com reputação Boa, nota 7,2 e os números marcados em amarelo",
-            "caption": "Aba de 12 meses (01/10/2025 a 30/09/2026) do perfil \"Max Titanium Suplementos\", consultada em 14/10/2026. O marca-texto amarelo é nosso.",
+            "caption": "Aba de 12 meses do perfil \"Max Titanium Suplementos\". O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.3094
           },
           {
             "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-2025.webp",
             "alt": "Aba de 2025 do perfil Max Titanium Suplementos no Reclame Aqui, com reputação Boa, nota 7,6 e os números marcados em amarelo",
-            "caption": "Aba de 2025 (01/01 a 31/12/2025) do perfil \"Max Titanium Suplementos\", consultada em 14/10/2026. O marca-texto amarelo é nosso.",
+            "caption": "Aba de 2025 do perfil \"Max Titanium Suplementos\". O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.3063
           }
@@ -79108,7 +79109,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais aparece nas reclamações",
         "paragraphs": [
-          "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. Em 14/10/2026, a lista era esta:"
+          "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. A lista era esta:"
         ],
         "bullets": [
           "**Categoria:** Suplementos Alimentares, com 68,55%.",
@@ -79121,21 +79122,21 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-principais-problemas.webp",
         "imageAlt": "Principais problemas comentados no perfil Max Titanium Suplementos no Reclame Aqui: categoria Suplementos Alimentares com 68,55%, atraso na entrega com 29,43% e Whey Protein com 37,17%",
-        "imageCaption": "Principais problemas comentados no perfil \"Max Titanium Suplementos\", com reclamações de até 3 anos na aba geral (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+        "imageCaption": "Principais problemas comentados no perfil \"Max Titanium Suplementos\", com reclamações de até 3 anos na aba geral. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.2292
       },
       {
         "heading": "Como a Max Titanium responde às reclamações",
         "paragraphs": [
-          "Responde quase todas: em 14/10/2026, 97,5% estavam respondidas nos últimos 6 meses e 99% nos últimos 12, com 11 aguardando em cada janela. O tempo médio de resposta ficou em 7 dias e 9 horas nos 6 meses e em 8 dias e 8 horas nos 12 meses.",
+          "Responde quase todas: 97,5% estavam respondidas nos últimos 6 meses e 99% nos últimos 12, com 11 aguardando em cada janela. O tempo médio de resposta ficou em 7 dias e 9 horas nos 6 meses e em 8 dias e 8 horas nos 12 meses.",
           "Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 82,6% das reclamações, e 62,3% de quem avaliou voltaria a fazer negócio. Em outras palavras, perto de 4 em cada 10 consumidores que avaliaram não voltariam.",
           "Só 207 das 446 reclamações dos últimos 6 meses foram avaliadas, então o \"voltariam\" e a nota do consumidor (6,32) falam de uma parte delas. Esses números mostram como a Max Titanium foi vista por quem usou o Reclame Aqui, não como é a experiência de todos os compradores."
         ],
         "image": {
           "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp",
           "alt": "Perfil Max Titanium Suplementos no Reclame Aqui em 14/10/2026: abas de 6 meses, 12 meses e 2025, todas com reputação Boa",
-          "caption": "As abas de 6 meses, 12 meses e 2025 da Max Titanium no Reclame Aqui, todas com reputação Boa, consultadas em 14/10/2026.",
+          "caption": "As abas de 6 meses, 12 meses e 2025 da Max Titanium no Reclame Aqui, todas com reputação Boa.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -79143,7 +79144,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o seu pedido der problema: o que fazer",
         "paragraphs": [
-          "A política da loja está em Troca e Devolução, no site, e o atendimento é da Supley, empresa que opera a loja. Em 14/10/2026, o rodapé trazia o SAC 4004-2696, os telefones (16) 3506-2045 e (16) 3506-2046, o e-mail sac@supley.com.br e o portal `atendimento.maxtitanium.com.br`. Os prazos e as regras estão detalhados em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Em resumo, o caminho é este:"
+          "A política da loja está em Troca e Devolução, no site, e o atendimento é da Supley, empresa que opera a loja. O rodapé trazia o SAC 4004-2696, os telefones (16) 3506-2045 e (16) 3506-2046, o e-mail sac@supley.com.br e o portal `atendimento.maxtitanium.com.br`. Os prazos e as regras estão detalhados em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Em resumo, o caminho é este:"
         ],
         "bullets": [
           "**Pedido atrasado:** acompanhe o rastreio e guarde o número do pedido. Quando o prazo informado na compra vencer, abra um chamado em \"Problemas com seu pedido\", no portal de atendimento, ou fale com o SAC pelos telefones e pelo e-mail.",
@@ -79164,16 +79165,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Max Titanium?",
         "paragraphs": [
-          "Em 14/10/2026, a nota era 7,6 e a reputação Boa nos últimos 6 meses, com 97,5% das reclamações respondidas e 82,6% resolvidas. Os pontos de atenção são o tempo médio de resposta, de 7 dias e 9 horas, e o \"voltariam\", de 62,3%.",
+          "Na consulta, a nota era 7,6 e a reputação Boa nos últimos 6 meses, com 97,5% das reclamações respondidas e 82,6% resolvidas. Os pontos de atenção são o tempo médio de resposta, de 7 dias e 9 horas, e o \"voltariam\", de 62,3%.",
           "Quem compra pode confiar no básico, mas deve acompanhar o rastreio e abrir chamado cedo se o pedido atrasar, que é o problema mais citado. Sobre quem opera a loja e as trocas, veja [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Max Titanium é confiável segundo o Reclame Aqui? Em 14/10/2026, o perfil Max Titanium Suplementos mostrava reputação Boa, com nota 7,6 nos últimos 6 meses e 82,6% das reclamações resolvidas. Os pontos fracos são o tempo médio de resposta, de 7 dias e 9 horas, e o \"voltariam\", de 62,3%.",
-          "Qual a nota da Max Titanium no Reclame Aqui? Nota 7,6 nos últimos 6 meses (de 01/04 a 30/09/2026), 7,2 nos últimos 12 meses e 7,6 em 2025, todas na faixa Boa, em consulta de 14/10/2026. A nota do consumidor, dada por quem avaliou o atendimento, era 6,32, 5,68 e 6,01.",
-          "A Max Titanium responde às reclamações? Sim. Em 14/10/2026, o perfil mostrava 97,5% das reclamações respondidas nos últimos 6 meses e 99% nos últimos 12, com resposta em cerca de uma semana ou mais (7 dias e 9 horas nos 6 meses).",
+          "A Max Titanium é confiável segundo o Reclame Aqui? Na consulta, o perfil Max Titanium Suplementos mostrava reputação Boa, com nota 7,6 nos últimos 6 meses e 82,6% das reclamações resolvidas. Os pontos fracos são o tempo médio de resposta, de 7 dias e 9 horas, e o \"voltariam\", de 62,3%.",
+          "Qual a nota da Max Titanium no Reclame Aqui? Nota 7,6 nos últimos 6 meses, 7,2 nos últimos 12 meses e 7,6 em 2025, todas na faixa Boa. A nota do consumidor, dada por quem avaliou o atendimento, era 6,32, 5,68 e 6,01.",
+          "A Max Titanium responde às reclamações? Sim. Na consulta, o perfil mostrava 97,5% das reclamações respondidas nos últimos 6 meses e 99% nos últimos 12, com resposta em cerca de uma semana ou mais (7 dias e 9 horas nos 6 meses).",
           "O que fazer se o pedido da Max Titanium atrasar? Acompanhe o rastreio e, quando o prazo informado na compra vencer, abra um chamado em \"Problemas com seu pedido\" no portal de atendimento ou fale com o SAC pelo 4004-2696 ou por sac@supley.com.br. Se não resolver, abra uma reclamação no Reclame Aqui.",
           "Como pedir troca ou reembolso na Max Titanium? No arrependimento, são 7 dias corridos, com embalagem original e lacre intacto, e o reembolso é integral, com o frete pago na compra. Em caso de defeito, são 30 dias corridos para suplementos e 90 para duráveis, com coleta e reenvio por conta da Max Titanium."
         ]
@@ -79261,12 +79262,12 @@ export const reviewsData: unknown[] = [
         "heading": "2. Monte o carrinho",
         "paragraphs": [
           "Escolha os produtos no site e abra o carrinho. Na tela do carrinho, cada item mostra a foto, o nome, a quantidade e o preço, e no resumo do pedido fica o campo \"Cupom de Desconto\", com o botão \"Adicionar\".",
-          "No nosso teste, de 14/10/2026, o carrinho tinha um Top Whey 3W + Sabor 900G Brigadeiro que já estava em promoção: de R$ 273,55 por R$ 189,00. O carrinho também mostrava dois brindes da Znack That, de 40 g cada, marcados como \"Brinde escolhido!\".",
+          "No nosso teste, o carrinho tinha um Top Whey 3W + Sabor 900G Brigadeiro que já estava em promoção: de R$ 273,55 por R$ 189,00. O carrinho também mostrava dois brindes da Znack That, de 40 g cada, marcados como \"Brinde escolhido!\".",
           "Antes de digitar qualquer coisa, olhe o subtotal e compare com o mínimo de frete grátis da sua região, na tabela abaixo."
         ],
         "image": "/images/reviews/max-titanium/max-titanium-cupom-01-carrinho-sem-cupom.webp",
         "imageAlt": "Carrinho da Max Titanium antes do cupom, com o Top Whey 3W em promoção, dois brindes Znack That e o campo Cupom de Desconto marcado em amarelo",
-        "imageCaption": "Carrinho da Max Titanium em 14/10/2026, antes do cupom: o Top Whey 3W em promoção, os dois brindes e o campo \"Cupom de Desconto\". O marca-texto amarelo é nosso.",
+        "imageCaption": "Carrinho da Max Titanium antes do cupom: o Top Whey 3W em promoção, os dois brindes e o campo \"Cupom de Desconto\". O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.2713
       },
@@ -79293,7 +79294,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Carrinho da Max Titanium depois do cupom, com o código no resumo e no item, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25",
-        "imageCaption": "Depois do cupom, em 14/10/2026: o código no resumo e no item, a linha \"Descontos\" com R$ -16,75 e o total de R$ 172,25. O marca-texto amarelo é nosso.",
+        "imageCaption": "Depois do cupom: o código no resumo e no item, a linha \"Descontos\" com R$ -16,75 e o total de R$ 172,25. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 2.6757
       },
@@ -79303,7 +79304,7 @@ export const reviewsData: unknown[] = [
           "Em 14/10/2026, testamos o cupom no carrinho:"
         ],
         "comparisonTable": {
-          "caption": "Teste do cupom MAX10EMCASACOMCECILIA no carrinho da Max Titanium em 14/10/2026",
+          "caption": "Teste do cupom MAX10EMCASACOMCECILIA no carrinho da Max Titanium",
           "headers": [
             "Item",
             "Valor"
@@ -79338,10 +79339,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis com o cupom: confira o mínimo da sua região",
         "paragraphs": [
-          "A Max Titanium dá frete grátis a partir de um valor de pedido que depende da região do CEP. Em 14/10/2026, a política de frete do site trazia estes valores:"
+          "A Max Titanium dá frete grátis a partir de um valor de pedido que depende da região do CEP. A política de frete do site trazia estes valores:"
         ],
         "comparisonTable": {
-          "caption": "Valor de pedido para frete grátis da Max Titanium por região, segundo a política do site em 14/10/2026",
+          "caption": "Valor de pedido para frete grátis da Max Titanium por região, segundo a política do site",
           "headers": [
             "Região",
             "Frete grátis a partir de"
@@ -79382,7 +79383,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Formas de pagamento, primeira compra e promoções",
         "paragraphs": [
-          "O MAX10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. Em 14/10/2026, a página inicial da Max Titanium anunciava Pix e boleto com até 5% OFF e 1x no cartão também com até 5% OFF, e os cards de produto mostravam parcelamento em até 6x. O cupom **soma com o desconto de até 5% do Pix e do boleto**. O percentual de pagamento é da loja e pode mudar: confira na hora de pagar.",
+          "O MAX10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. A página inicial da Max Titanium anunciava Pix e boleto com até 5% OFF e 1x no cartão também com até 5% OFF, e os cards de produto mostravam parcelamento em até 6x. O cupom **soma com o desconto de até 5% do Pix e do boleto**. O percentual de pagamento é da loja e pode mudar: confira na hora de pagar.",
           "Também não importa se é a sua primeira compra. O cupom funciona para quem está abrindo uma conta nova e para quem já comprou na Max Titanium. Ele vale na primeira compra e continua valendo nos pedidos seguintes.",
           "O cupom soma com as promoções vigentes do site, como mostrou o teste com o whey em promoção."
         ]
@@ -79397,7 +79398,7 @@ export const reviewsData: unknown[] = [
         "heading": "Se precisar trocar um produto comprado com cupom",
         "paragraphs": [
           "O cupom não muda o direito de troca: a compra segue as regras da loja. O quadro de trocas, devoluções e defeito está em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Os números da loja no Reclame Aqui estão em [Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/max-titanium-reclame-aqui-nota-reputacao).",
-          "Sobre o brinde, os Termos e Condições da loja, em 14/10/2026, dizem que ele é liberado conforme o valor mínimo da compra, definido no site, e que não se troca por outro modelo, cor ou tamanho, salvo defeito."
+          "Sobre o brinde, os Termos e Condições da loja dizem que ele é liberado conforme o valor mínimo da compra, definido no site, e que não se troca por outro modelo, cor ou tamanho, salvo defeito."
         ]
       },
       {
@@ -79413,9 +79414,9 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Max Titanium? O cupom da nossa parceria é o MAX10EMCASACOMCECILIA, que dá até 10% OFF no site oficial, maxtitanium.com.br. Em alguns produtos o desconto é menor, então confira a linha \"Descontos\" no carrinho antes de pagar.",
           "Tem cupom de primeira compra na Max Titanium? Sim. O MAX10EMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\".",
           "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja e soma com o desconto de até 5% do Pix e do boleto.",
-          "O cupom soma com produto em promoção? Sim. No nosso teste de 14/10/2026, o cupom deu R$ 16,75 de desconto num whey que já estava com preço promocional, e os brindes continuaram no carrinho.",
+          "O cupom soma com produto em promoção? Sim. No nosso teste, o cupom deu R$ 16,75 de desconto num whey que já estava com preço promocional, e os brindes continuaram no carrinho.",
           "Por que o cupom não deu 10% em todos os produtos? Porque o desconto varia por produto: o cupom dá até 10% OFF, e em alguns itens o percentual é menor. No nosso teste, foram cerca de 9% sobre o whey, e a linha \"Descontos\" mostra o valor abatido no seu pedido.",
-          "O cupom da Max Titanium dá frete grátis? Não necessariamente. O frete grátis é uma regra da loja, que depende do valor do pedido e da região, de R$ 104 na capital de São Paulo a R$ 599 no Norte em 14/10/2026, e não vale no Sedex. Se o cupom deixar o total abaixo do mínimo da sua região, o frete pode ser cobrado.",
+          "O cupom da Max Titanium dá frete grátis? Não necessariamente. O frete grátis é uma regra da loja, que depende do valor do pedido e da região, de R$ 104 na capital de São Paulo a R$ 599 no Norte, e não vale no Sedex. Se o cupom deixar o total abaixo do mínimo da sua região, o frete pode ser cobrado.",
           "Tem cupom para whey da Max Titanium? Sim: o MAX10EMCASACOMCECILIA vale no site oficial, e o nosso teste foi justamente num Top Whey 3W de 900 g. O desconto chega a 10% e é menor em alguns produtos; confira a linha \"Descontos\" no carrinho."
         ]
       }
@@ -80416,6 +80417,7 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
+    "bodyDatesReason": "campanha",
     "id": 437,
     "slug": "black-friday-max-titanium",
     "title": "Black Friday Max Titanium 2026: preços de outubro, o cupom MAX10EMCASACOMCECILIA e o que a loja já anunciou",
@@ -80479,27 +80481,27 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Max Titanium 2026",
         "paragraphs": [
-          "A Max Titanium ainda não anunciou Black Friday: até 14/10/2026 não havia campanha, só o Max November, que em 2024 durou o mês todo. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF e soma com o Pix e com as promoções do site. O que muda a decisão é o preço de hoje; veja abaixo."
+          "A Max Titanium ainda não anunciou Black Friday: na nossa última consulta não havia campanha, só o Max November, que em 2024 durou o mês todo. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF e soma com o Pix e com as promoções do site. O que muda a decisão é o preço de hoje; veja abaixo."
         ]
       },
       {
         "heading": "Quando começa a Black Friday da Max Titanium?",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. Em 2026, a Max Titanium ainda não tinha dito nada até 14 de outubro. A home do site não trazia campanha de novembro, e a loja não tem página de Black Friday no site. O que existe é o **Max November**, que em 2024 durou de 2 a 30 de novembro, não só a sexta-feira.",
-          "Em 2024, o Max November foi uma promoção com sorteio, \"Max te leva pra Roma\". Cada compra de qualquer valor no site, de 2 a 30 de novembro de 2024, dava um número da sorte para concorrer a uma viagem. O regulamento ficou publicado no próprio site da loja.",
-          "Em 2025, a home de 16 de novembro trazia banners do Max November de Boneco + Creatina, Whey Pro e Termogênicos, sem desconto legível. Este guia não cita percentual de 2025.",
-          "Em 2024, a campanha começou em 2 de novembro. É só uma referência, não uma promessa da loja. Quando a Max Titanium anunciar, a data e as regras entram aqui."
+          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. Em 2026, a Max Titanium ainda não tinha dito nada na nossa última consulta. A home do site não trazia campanha de novembro, e a loja não tem página de Black Friday no site. O que existe é o **Max November**, que em 2024 durou o mês inteiro, não só a sexta-feira.",
+          "Em 2024, o Max November foi uma promoção com sorteio, \"Max te leva pra Roma\". Cada compra de qualquer valor no site, durante a campanha, dava um número da sorte para concorrer a uma viagem. O regulamento ficou publicado no próprio site da loja.",
+          "Em 2025, a home em meados de novembro trazia banners do Max November de Boneco + Creatina, Whey Pro e Termogênicos, sem desconto legível. Este guia não cita percentual de 2025.",
+          "Em 2024, a campanha começou logo no início do mês. É só uma referência, não uma promessa da loja. Quando a Max Titanium anunciar, a data e as regras entram aqui."
         ]
       },
       {
         "heading": "Preços de outubro: whey e creatina para comparar",
         "paragraphs": [
-          "O jeito mais seguro de saber se uma oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em 14 de outubro de 2026, antes do cupom e do desconto de Pix e boleto. Onde o site mostra dois valores, aparece o preço de lista (riscado) e o preço de venda do dia. Produtos sem estoque na consulta, como a Creatina Creapure 250g, a Creatina 100g e alguns kits, ficaram de fora."
+          "O jeito mais seguro de saber se uma oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava na consulta de outubro, antes do cupom e do desconto de Pix e boleto. Onde o site mostra dois valores, aparece o preço de lista (riscado) e o preço de venda do dia. Produtos sem estoque na consulta, como a Creatina Creapure 250g, a Creatina 100g e alguns kits, ficaram de fora."
         ],
         "image": {
           "src": "/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
-          "alt": "Página inicial do site da Max Titanium em 14/10/2026, com o banner da Semana Max Economia (28% OFF no kit de 2 creatinas e Whey Pro)",
-          "caption": "A página inicial da Max Titanium em 14/10/2026, com a Semana Max Economia: 28% OFF no kit de 2 creatinas e Whey Pro.",
+          "alt": "Página inicial do site da Max Titanium na consulta de outubro, com o banner da Semana Max Economia (28% OFF no kit de 2 creatinas e Whey Pro)",
+          "caption": "A página inicial da Max Titanium na consulta de outubro, com a Semana Max Economia: 28% OFF no kit de 2 creatinas e Whey Pro.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -80508,7 +80510,7 @@ export const reviewsData: unknown[] = [
           "headers": [
             "Produto",
             "Preço de lista",
-            "Em 14/10/2026",
+            "Preço de venda",
             "Por 100 g do produto (nossa conta)"
           ],
           "rows": [
@@ -80579,15 +80581,15 @@ export const reviewsData: unknown[] = [
         "heading": "O cupom MAX10EMCASACOMCECILIA, o Pix e a promoção: o que soma",
         "paragraphs": [
           "O cupom da parceria é o **MAX10EMCASACOMCECILIA** (até 10% OFF). Em alguns produtos o percentual é menor que 10%, e a linha \"Descontos\" do resumo do pedido mostra o valor que o cupom abateu de verdade.",
-          "No nosso teste de checkout de 14/10/2026, o cupom entrou em cima do preço promocional do site. O Top Whey 3W + Sabor 900G Brigadeiro estava em promoção:"
+          "No nosso teste de checkout, o cupom entrou em cima do preço promocional do site. O Top Whey 3W + Sabor 900G Brigadeiro estava em promoção:"
         ],
         "image": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
-        "imageAlt": "Carrinho da Max Titanium com o código MAX10EMCASACOMCECILIA aplicado, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25 em 14/10/2026",
-        "imageCaption": "Carrinho da Max Titanium em 14/10/2026 depois do cupom: a linha \"Descontos\" com R$ -16,75 e o total de R$ 172,25. O marca-texto amarelo é nosso.",
+        "imageAlt": "Carrinho da Max Titanium com o código MAX10EMCASACOMCECILIA aplicado, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25",
+        "imageCaption": "Carrinho da Max Titanium depois do cupom: a linha \"Descontos\" com R$ -16,75 e o total de R$ 172,25. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 2.6757,
         "comparisonTable": {
-          "caption": "Teste de checkout com o Top Whey 3W + Sabor 900G Brigadeiro em 14 de outubro de 2026.",
+          "caption": "Teste de checkout com o Top Whey 3W + Sabor 900G Brigadeiro.",
           "headers": [
             "Etapa",
             "Valor"
@@ -80617,7 +80619,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**O cupom abateu cerca de 9% sobre a promoção.** É por isso que o texto diz \"até 10%\": no whey do teste, o percentual ficou abaixo disso.",
-          "**O Pix é \"até 5%\".** A home anunciava, em 14/10/2026, Pix e boleto com até 5% OFF e 1x no cartão também com até 5% OFF."
+          "**O Pix é \"até 5%\".** A home anunciava Pix e boleto com até 5% OFF e 1x no cartão também com até 5% OFF."
         ],
         "postParagraphs": [
           "Para o passo a passo do carrinho, veja [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar). As condições atualizadas ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
@@ -80626,10 +80628,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis e prazo: o que conferir antes de novembro",
         "paragraphs": [
-          "O banner da loja diz \"frete grátis em todo o país\", com asterisco. O asterisco é a política de frete: a entrega sai sem custo a partir de um valor de pedido que depende da região do CEP. Em 14/10/2026, a política do site trazia estes valores:"
+          "O banner da loja diz \"frete grátis em todo o país\", com asterisco. O asterisco é a política de frete: a entrega sai sem custo a partir de um valor de pedido que depende da região do CEP. A política do site trazia estes valores:"
         ],
         "comparisonTable": {
-          "caption": "Valor mínimo do pedido para frete grátis por região, segundo a política do site em 14 de outubro de 2026.",
+          "caption": "Valor mínimo do pedido para frete grátis por região, segundo a política do site na consulta de outubro.",
           "headers": [
             "Região",
             "Frete grátis a partir de"
@@ -80673,10 +80675,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom da Max Titanium vale na Black Friday? O MAX10EMCASACOMCECILIA é o mesmo código do resto do ano, e a loja não anunciou campanha de Black Friday em 14/10/2026. Ele vale em todas as formas de pagamento e soma com as promoções do site. Se a campanha de novembro tiver uma regra própria, o carrinho mostra antes de pagar.",
-          "O cupom vale com produto em promoção? Sim. No teste de 14/10/2026, o cupom abateu R$ 16,75 de um Top Whey 3W que já estava com preço promocional. Se a campanha de novembro tiver regra própria, o carrinho mostra antes de pagar.",
+          "O cupom da Max Titanium vale na Black Friday? O MAX10EMCASACOMCECILIA é o mesmo código do resto do ano, e a loja não anunciou campanha de Black Friday na nossa última consulta. Ele vale em todas as formas de pagamento e soma com as promoções do site. Se a campanha de novembro tiver uma regra própria, o carrinho mostra antes de pagar.",
+          "O cupom vale com produto em promoção? Sim. No teste no carrinho, o cupom abateu R$ 16,75 de um Top Whey 3W que já estava com preço promocional. Se a campanha de novembro tiver regra própria, o carrinho mostra antes de pagar.",
           "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de até 5% do Pix e do boleto. O Pix e o boleto são \"até 5%\", segundo o banner da loja.",
-          "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, segundo a política do site em 14/10/2026. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
+          "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, segundo a política do site na consulta de outubro. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
           "O cupom pode tirar o frete grátis? Pode. Se o total depois do cupom ficar abaixo do mínimo da sua região, o frete pode ser cobrado. Confira o total no carrinho antes de pagar.",
           "Posso usar o cupom na primeira compra? Pode. O código vale para conta nova e para quem já comprou, e depois o resumo do pedido mostra a linha \"Descontos\"."
         ]
@@ -82868,7 +82870,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "São marcas do mesmo grupo Supley, mas não vendem os mesmos potes. Pelos rótulos e preços de 16/10/2026, a Max ganha no whey concentrado e no 3W, com mais proteína por porção; a Probiótica tem mais sabores e uma versão zero lactose, e a creatina de 300 g empata. Veja o veredito por produto em Qual escolher."
+          "São marcas do mesmo grupo Supley, mas não vendem os mesmos potes. Pelos rótulos e preços, a Max ganha no whey concentrado e no 3W, com mais proteína por porção; a Probiótica tem mais sabores e uma versão zero lactose, e a creatina de 300 g empata. Veja o veredito por produto em Qual escolher."
         ]
       },
       {
@@ -82888,9 +82890,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comparamos",
         "bullets": [
-          "**Rótulo:** lemos a tabela nutricional que cada loja publica na página do produto, em 16/10/2026.",
+          "**Rótulo:** lemos a tabela nutricional que cada loja publica na página do produto.",
           "**Um sabor por produto:** a proteína por porção muda um pouco de sabor para sabor. Usamos o sabor da tabela lida, em geral Baunilha, e ele aparece indicado quando é outro.",
-          "**Preço:** o preço à vista do site oficial em 16/10/2026, sem cupom e sem o desconto do Pix. Quando a loja mostra um preço \"de\", ele vem entre parênteses.",
+          "**Preço:** o preço à vista do site oficial, sem cupom e sem o desconto do Pix. Quando a loja mostra um preço \"de\", ele vem entre parênteses.",
           "**Preço por 100 g de proteína (conta nossa):** dividimos o peso do pote pela porção, multiplicamos pela proteína de cada porção e dividimos o preço por esse total de proteína.",
           "**Preço por dose da creatina (conta nossa):** o preço dividido pelo número de porções da tabela."
         ],
@@ -83011,11 +83013,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: qual escolher",
         "paragraphs": [
-          "No pote de 300 g, as duas creatinas empatam no rótulo e no preço. A tabela das duas traz porção de 5 g, com 5.000 mg de creatina, e 60 porções por pote. As duas custavam R$ 59,90 (de R$ 75,10) em 16/10/2026, ou **R$ 1,00 por dose**.",
+          "No pote de 300 g, as duas creatinas empatam no rótulo e no preço. A tabela das duas traz porção de 5 g, com 5.000 mg de creatina, e 60 porções por pote. As duas custavam R$ 59,90 (de R$ 75,10), ou **R$ 1,00 por dose**.",
           "A diferença está nos outros tamanhos e formatos:"
         ],
         "comparisonTable": {
-          "caption": "Preços dos sites oficiais em 16/10/2026, que mudam com as promoções; o preço por dose é conta nossa (preço dividido pelas porções da tabela).",
+          "caption": "Preços dos sites oficiais, que mudam com as promoções; o preço por dose é conta nossa (preço dividido pelas porções da tabela).",
           "headers": [
             "Loja",
             "Produto",
@@ -83101,16 +83103,16 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O concentrado da Max Titanium é o **100% Whey**. O da Probiótica é o **100% Pure Whey**. Os dois vêm em pote e em refil de 900 g, com porção de 30 g e 30 porções.",
           "Na tabela de Baunilha, o 100% Whey tem 1 g de proteína a mais por porção. A proteína muda com o sabor: a página da Max fala em 20 g a 21 g, e a da Probiótica em 20 g a 24 g. Em alguns sabores, o Pure Whey passa o 100% Whey na dose. Antes de comprar, confira a tabela do sabor que você quer na página do produto.",
-          "A diferença maior está no preço: em 16/10/2026, o pote da Probiótica custava R$ 42,10 a mais, e o refil, R$ 39,26 a mais.",
+          "A diferença maior está no preço: o pote da Probiótica custava R$ 42,10 a mais, e o refil, R$ 39,26 a mais.",
           "A vantagem da Probiótica está nos sabores e na lactose. São 13 sabores: Baunilha, Cookies & Cream, Chocolate Branco, Doce de Leite, Chocolate com Avelã, Leite, Caramelo Salgado, Cappuccino, Chocolate, Iogurte com Coco, Iogurte com Limão, Iogurte com Morango e Morango. A Max tem 7: Baunilha, Chocolate, Cookies & Cream, Morango, Chocolate Maltado, Pistache com Chocolate Branco e Leite.",
-          "A Probiótica também vende o **100% Pure Whey Zero Lactose**, em 3 sabores. A tabela de Baunilha traz 22 g de proteína em 30 g, e o pote custava R$ 241,97 em 16/10/2026. Por 100 g de proteína, ele sai mais barato que o 100% Pure Whey comum. A busca da loja da Max não mostrou whey zero lactose."
+          "A Probiótica também vende o **100% Pure Whey Zero Lactose**, em 3 sabores. A tabela de Baunilha traz 22 g de proteína em 30 g, e o pote custava R$ 241,97. Por 100 g de proteína, ele sai mais barato que o 100% Pure Whey comum. A busca da loja da Max não mostrou whey zero lactose."
         ]
       },
       {
         "heading": "Whey isolado: IsoWhey ou Iso Pro Whey",
         "paragraphs": [
           "O isolado da Max Titanium é o **IsoWhey**. O da Probiótica é o **Iso Pro Whey**. Os dois têm 26 g de proteína em 30 g, 30 porções por pote de 900 g e 3 sabores à venda.",
-          "A diferença está na tabela e no preço. A tabela da Iso Pro Whey traz também vitaminas e minerais; a do IsoWhey, não. Em 16/10/2026, a Iso Pro Whey custava R$ 20,10 a mais.",
+          "A diferença está na tabela e no preço. A tabela da Iso Pro Whey traz também vitaminas e minerais; a do IsoWhey, não. A Iso Pro Whey custava R$ 20,10 a mais.",
           "Pela mesma proteína por dose, a escolha fica entre pagar menos (IsoWhey) ou levar as vitaminas e os minerais na tabela (Iso Pro Whey)."
         ]
       },
@@ -83119,10 +83121,10 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Aqui as duas lojas têm porções diferentes, e a comparação precisa olhar o pote inteiro.",
           "O **Top Whey 3W + Performance**, da Max Titanium, tem 32 g de proteína em 40 g e vitaminas e minerais na tabela. O **3 Whey Protein**, da Probiótica, tem 24 g em 32 g; a lista de ingredientes traz os três tipos de whey: concentrado (WPC), isolado (WPI) e hidrolisado (WPH).",
-          "Os dois custavam R$ 273,55 em 16/10/2026, mas o pote da Max rende mais proteína no total (conta nossa: porções do pote vezes a proteína de cada uma):"
+          "Os dois custavam R$ 273,55, mas o pote da Max rende mais proteína no total (conta nossa: porções do pote vezes a proteína de cada uma):"
         ],
         "comparisonTable": {
-          "caption": "Porções, proteína no pote (conta nossa) e sabores à venda em 16/10/2026.",
+          "caption": "Porções, proteína no pote (conta nossa) e sabores à venda.",
           "headers": [
             "3W (900 g)",
             "Porções por pote",
@@ -83151,17 +83153,17 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O **Top Whey 3W + Sabor** é a outra versão da Max: menos proteína por porção que o + Performance, mais sabores e, em 16/10/2026, preço de promoção. Com esse preço, era o 3W mais barato por 100 g de proteína das duas lojas. Se a promoção acabar e ele voltar a R$ 273,55, a conta muda. No + Performance, o sabor Vitamina de Frutas estava sem estoque."
+          "O **Top Whey 3W + Sabor** é a outra versão da Max: menos proteína por porção que o + Performance, mais sabores e preço de promoção. Com esse preço, era o 3W mais barato por 100 g de proteína das duas lojas. Se a promoção acabar e ele voltar a R$ 273,55, a conta muda. No + Performance, o sabor Vitamina de Frutas estava sem estoque."
         ]
       },
       {
         "heading": "Blend e opções de entrada: os dois blends",
         "paragraphs": [
-          "O **Whey Blend Nova Fórmula** (Max Titanium) e o **Iso Protein Blend** (Probiótica) são o par mais parecido das duas lojas. Os dois têm 900 g, 25 g de proteína em 40 g e custavam R$ 79,00 (de R$ 121,99) em 16/10/2026, o menor preço por 100 g de proteína deste comparativo.",
+          "O **Whey Blend Nova Fórmula** (Max Titanium) e o **Iso Protein Blend** (Probiótica) são o par mais parecido das duas lojas. Os dois têm 900 g, 25 g de proteína em 40 g e custavam R$ 79,00 (de R$ 121,99), o menor preço por 100 g de proteína deste comparativo.",
           "As tabelas são quase iguais. Lemos a de Baunilha da Max e a de Chocolate da Probiótica:"
         ],
         "comparisonTable": {
-          "caption": "Valores por porção de 40 g, lidos nas tabelas publicadas pelas lojas em 16/10/2026.",
+          "caption": "Valores por porção de 40 g, lidos nas tabelas publicadas pelas lojas.",
           "headers": [
             "Por porção de 40 g",
             "Whey Blend Nova Fórmula (Max, Baunilha)",
@@ -83196,7 +83198,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Quase iguais não quer dizer o mesmo produto: os sabores são outros e as fórmulas não são declaradas iguais. Na prática, a escolha é pelo sabor que está em estoque. Em 16/10/2026, a Max tinha só Baunilha, e a Probiótica tinha Cookies & Cream, Morango e Chocolate."
+          "Quase iguais não quer dizer o mesmo produto: os sabores são outros e as fórmulas não são declaradas iguais. Na prática, a escolha é pelo sabor que está em estoque. Na nossa consulta, a Max tinha só Baunilha, e a Probiótica tinha Cookies & Cream, Morango e Chocolate."
         ]
       },
       {
@@ -83238,14 +83240,14 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Nosso teste de checkout",
-              "R$ 16,75 de desconto num Top Whey 3W em promoção, de R$ 189,00, em 14/10/2026",
-              "R$ 54,75 de desconto num carrinho de R$ 659,35, em 13/10/2026"
+              "R$ 16,75 de desconto num Top Whey 3W em promoção, de R$ 189,00",
+              "R$ 54,75 de desconto num carrinho de R$ 659,35"
             ]
           ]
         },
         "postParagraphs": [
-          "Na Max Titanium, o cupom também soma com o desconto de **até 5% no Pix e no boleto**. O desconto do Pix muda por produto nas duas lojas: em 16/10/2026, a home da Max mostrava faixas de 3%, 5% e 6,47% no Pix, e a da Probiótica, 3% nas proteínas e até 5% no Pix e no boleto no resto do site. A página de cada produto mostra o valor. Os códigos e as regras ficam na [página do cupom da Max Titanium](/cupons/max-titanium) e na [página do cupom da Probiótica](/cupons/probiotica).",
-          "O frete grátis segue a mesma tabela nas duas lojas. Em 14/10/2026, a entrega saía sem custo a partir destes valores de pedido: R$ 104 em São Paulo (capital), R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte. São dois sites com carrinhos separados, então cada pedido precisa chegar ao mínimo sozinho."
+          "Na Max Titanium, o cupom também soma com o desconto de **até 5% no Pix e no boleto**. O desconto do Pix muda por produto nas duas lojas: a home da Max mostrava faixas de 3%, 5% e 6,47% no Pix, e a da Probiótica, 3% nas proteínas e até 5% no Pix e no boleto no resto do site. A página de cada produto mostra o valor. Os códigos e as regras ficam na [página do cupom da Max Titanium](/cupons/max-titanium) e na [página do cupom da Probiótica](/cupons/probiotica).",
+          "O frete grátis segue a mesma tabela nas duas lojas. A entrega saía sem custo a partir destes valores de pedido: R$ 104 em São Paulo (capital), R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte. São dois sites com carrinhos separados, então cada pedido precisa chegar ao mínimo sozinho."
         ]
       },
       {
@@ -83268,9 +83270,9 @@ export const reviewsData: unknown[] = [
           "Qual a diferença entre Probiótica e Max Titanium? Mudam as linhas, o número de sabores e as porções. No whey concentrado, a Max tem 21 g em 30 g e a Probiótica 20 g em 30 g (sabor Baunilha), com 13 sabores e versão zero lactose.",
           "Qual a melhor creatina, Max Titanium ou Probiótica? O pote de 300 g tem a mesma porção de 5 g e o mesmo preço nas duas lojas; a diferença está nos outros tamanhos e formatos de cada uma.",
           "Qual o melhor whey, Max Titanium ou Probiótica? Depende do tipo de whey: compare a proteína por porção e o preço por 100 g de proteína de cada par.",
-          "Whey isolado: Probiótica ou Max Titanium? Os dois têm 26 g de proteína em 30 g. A Iso Pro Whey traz vitaminas e minerais na tabela e custava R$ 20,10 a mais em 16/10/2026.",
-          "100% Pure Whey da Probiótica ou 100% Whey da Max? No sabor Baunilha, 20 g contra 21 g por porção de 30 g, e R$ 252,49 contra R$ 210,39 em 16/10/2026. O Pure Whey tem mais sabores e versão zero lactose.",
-          "A Max Titanium tem whey zero lactose? A busca da loja não mostrou nenhum em 16/10/2026. A Probiótica tem o 100% Pure Whey Zero Lactose, com 22 g de proteína por porção de 30 g no sabor Baunilha.",
+          "Whey isolado: Probiótica ou Max Titanium? Os dois têm 26 g de proteína em 30 g. A Iso Pro Whey traz vitaminas e minerais na tabela e custava R$ 20,10 a mais.",
+          "100% Pure Whey da Probiótica ou 100% Whey da Max? No sabor Baunilha, 20 g contra 21 g por porção de 30 g, e R$ 252,49 contra R$ 210,39. O Pure Whey tem mais sabores e versão zero lactose.",
+          "A Max Titanium tem whey zero lactose? A busca da loja não mostrou nenhum. A Probiótica tem o 100% Pure Whey Zero Lactose, com 22 g de proteína por porção de 30 g no sabor Baunilha.",
           "O cupom vale nas duas lojas? Cada loja tem o seu: MAX10EMCASACOMCECILIA na Max Titanium e PRO10EMCASACOMCECILIA na Probiótica, os dois de até 10%. O passo a passo está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar) e em [Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-probiotica-como-usar).",
           "O cupom soma com o Pix? Na Max Titanium, sim: soma com o desconto de até 5% do Pix e do boleto. Na Probiótica, confira o total no carrinho antes de pagar.",
           "Quanto whey ou creatina tomar por dia? A quantidade depende de cada pessoa. Quem define é um nutricionista."
@@ -104698,7 +104700,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/mais-mu/mais-mu-rodape-cnpj.webp",
             "alt": "Rodapé do site lojamaismu.com.br com o logo +Mu, o CNPJ 21.526.148/0001-34, os links de suporte e o e-mail fala.ai@maismu.com.br",
-            "caption": "Rodapé do site oficial em 20/10/2026, com o CNPJ e o e-mail de atendimento.",
+            "caption": "Rodapé do site oficial, com o CNPJ e o e-mail de atendimento.",
             "objectFit": "contain",
             "aspectRatio": 4.7087
           }
@@ -104724,7 +104726,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas e devolução",
         "paragraphs": [
-          "As regras de troca e devolução estão na FAQ da loja (lida em 20/10/2026):"
+          "As regras de troca e devolução estão na FAQ da loja:"
         ],
         "comparisonTable": {
           "headers": [
@@ -104771,7 +104773,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e pagamento",
         "paragraphs": [
-          "O frete grátis depende da região. Em 20/10/2026, o site dava frete grátis a partir dos valores abaixo:"
+          "O frete grátis depende da região. O site dava frete grátis a partir dos valores abaixo:"
         ],
         "comparisonTable": {
           "headers": [
@@ -104797,8 +104799,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Nos últimos 6 meses (01/04/2026 a 30/09/2026), a Mais Mu está como Regular no Reclame Aqui, com nota 6,4 em 10. Nesse período, 95,5% das 112 reclamações foram respondidas, 67,9% foram resolvidas e 47,2% dos consumidores que avaliaram disseram que voltariam a fazer negócio. Nos 12 meses até 30/09/2026 (01/10/2025 a 30/09/2026), a reputação é Boa, com nota 7,2 e 98,3% das reclamações respondidas. A queda veio no meio dos últimos 6 meses.",
-          "Na aba geral (21/10/2023 a 20/10/2026), as queixas mais citadas são produto não recebido e atraso na entrega, seguidas de produto com defeito. A loja é real e tem CNPJ ativo desde 2014. O que mudou foi a reputação recente, e a entrega é onde ela pesa.",
+          "Nos últimos 6 meses, a Mais Mu está como Regular no Reclame Aqui, com nota 6,4 em 10. Nesse período, 95,5% das 112 reclamações foram respondidas, 67,9% foram resolvidas e 47,2% dos consumidores que avaliaram disseram que voltariam a fazer negócio. Nos últimos 12 meses, a reputação é Boa, com nota 7,2 e 98,3% das reclamações respondidas. A queda veio no meio dos últimos 6 meses.",
+          "Na aba geral, as queixas mais citadas são produto não recebido e atraso na entrega, seguidas de produto com defeito. A loja é real e tem CNPJ ativo desde 2014. O que mudou foi a reputação recente, e a entrega é onde ela pesa.",
           "Na prática, acompanhe o rastreio desde a postagem e guarde o número do pedido. Se o prazo estourar, é com esses dados que você abre o chamado. Os números completos, aba por aba, estão em [Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/mais-mu-reclame-aqui-nota-reputacao)."
         ]
       },
@@ -104806,7 +104808,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Mais Mu e pode receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA. Veja [as regras e a validade do cupom da Mais Mu](/cupons/mais-mu).",
-          "O cupom dá 10% OFF em todo o site, para conta nova e antiga, com qualquer forma de pagamento. Ele soma com as promoções do site e com os 3% do Pix. No teste de 20/10/2026, com um whey e uma creatina em oferta, o cupom tirou R$ 23,99 do subtotal de R$ 239,89.",
+          "O cupom dá 10% OFF em todo o site, para conta nova e antiga, com qualquer forma de pagamento. Ele soma com as promoções do site e com os 3% do Pix. No teste, com um whey e uma creatina em oferta, o cupom tirou R$ 23,99 do subtotal de R$ 239,89.",
           "Para aplicar, clique em \"Iniciar compra\" no carrinho. No checkout, clique em \"Adicionar cupom de desconto\", cole o código e confira a linha \"Desconto do cupom\" no resumo antes de seguir para a entrega.",
           "A loja não acumula cupons. O crédito do cashback e o desconto de boas-vindas contam como cupom e não somam com o nosso. O cashback é um programa da própria loja: compras acima de R$ 250 devolvem 5% como crédito para a próxima compra. Ele é da loja, não é vantagem do cupom.",
           "O cupom não vale no Mercado Livre. Lá vale o preço do anúncio. Se preferir comprar por lá, use o [anúncio da Mais Mu no Mercado Livre](https://meli.la/24RjvdP).",
@@ -104825,12 +104827,12 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Mais Mu é confiável? A loja é operada por empresa registrada, com CNPJ ativo desde 2014 e trocas publicadas no site. A reputação recente no Reclame Aqui é Regular nos últimos 6 meses, com nota 6,4, e a entrega é a principal queixa.",
           "De qual empresa é a Mais Mu? A loja é operada pela MAIS MU COMÉRCIO DE ALIMENTOS E BEBIDAS S.A., nome que aparece na política de privacidade do site.",
-          "Qual é o CNPJ da Mais Mu? O CNPJ é 21.526.148/0001-34. Na consulta pública de 20/10/2026, ele aparece como ativo desde 05/12/2014.",
+          "Qual é o CNPJ da Mais Mu? O CNPJ é 21.526.148/0001-34. Na consulta pública, ele aparece como ativo desde 2014.",
           "O site da Mais Mu é o oficial e como conferir? O endereço oficial é lojamaismu.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública.",
           "A Mais Mu tem telefone de atendimento? Não. A loja não publica telefone no site. O contato é pelo formulário da página de contato ou pelo e-mail fala.ai@maismu.com.br, do rodapé.",
           "Quanto tempo tenho para trocar ou devolver um produto da Mais Mu? A compra pela internet tem 7 dias de arrependimento pela lei (CDC, art. 49), e a FAQ da loja não publica prazo próprio. Para troca ou devolução, o produto precisa estar na embalagem original, fechado e sem sinais de uso.",
           "Quando o reembolso cai no Pix e no cartão? No Pix e no boleto, em até 7 dias úteis depois do envio dos dados bancários. No cartão, o estorno sai em até 48 horas úteis, creditado em até duas faturas.",
-          "A Mais Mu tem frete grátis? Sim. Em 20/10/2026, o frete era grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste. Abaixo disso, o frete é calculado no checkout.",
+          "A Mais Mu tem frete grátis? Sim. O frete era grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste. Abaixo disso, o frete é calculado no checkout.",
           "Tem cupom de primeira compra na Mais Mu? O nosso cupom é o MMEMCASACOMCECILIA, com 10% OFF em todo o site, para conta nova e antiga. A loja não acumula cupons, então o cashback e o desconto de boas-vindas não somam com ele."
         ]
       }
@@ -104862,6 +104864,7 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
+    "bodyDatesReason": "reclame-aqui",
     "id": 529,
     "slug": "mais-mu-reclame-aqui-nota-reputacao",
     "title": "Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram",
@@ -104903,13 +104906,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Mais Mu no Reclame Aqui",
         "paragraphs": [
-          "O perfil aparece como Mais Mu, na categoria Suplementos Alimentares e Fórmulas. Em 20/10/2026, a reputação nas três abas do Reclame Aqui era esta:"
+          "O perfil aparece como Mais Mu, na categoria Suplementos Alimentares e Fórmulas. A reputação nas três abas do Reclame Aqui era esta, na leitura de 20/10/2026:"
         ],
         "images": [
           {
             "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-abas.webp",
             "alt": "Três abas de desempenho da Mais Mu no Reclame Aqui: 6 meses Regular com nota 6,4 e 112 reclamações; 12 meses Boa com nota 7,2 e 290 reclamações; Geral Boa com nota 7,7 e 770 reclamações",
-            "caption": "Abas de 6 meses, 12 meses e Geral do perfil da Mais Mu no Reclame Aqui, lidas em 20/10/2026.",
+            "caption": "Abas de 6 meses, 12 meses e Geral do perfil da Mais Mu no Reclame Aqui.",
             "objectFit": "contain",
             "aspectRatio": 1.0302
           }
@@ -104993,13 +104996,13 @@ export const reviewsData: unknown[] = [
         "heading": "Como a reputação mudou",
         "paragraphs": [
           "No gráfico de histórico dos últimos 6 meses, os dois primeiros pontos estão em Boa e os quatro seguintes em Regular. A reputação saiu de Boa para Regular no meio desse período.",
-          "A aba de 12 meses segue em Boa, com nota 7,2, porque inclui também os seis meses anteriores, de 01/10/2025 a 31/03/2026. O gráfico não mostra as causas da mudança. Ele mostra só quando a faixa mudou."
+          "A aba de 12 meses segue em Boa, com nota 7,2, porque inclui também os seis meses anteriores, do período anterior. O gráfico não mostra as causas da mudança. Ele mostra só quando a faixa mudou."
         ],
         "images": [
           {
             "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-historico.webp",
             "alt": "Gráfico de histórico da reputação da Mais Mu no Reclame Aqui nos últimos 6 meses: dois pontos em Boa e quatro em Regular",
-            "caption": "Histórico da reputação nos últimos 6 meses, no Reclame Aqui em 20/10/2026.",
+            "caption": "Histórico da reputação nos últimos 6 meses, no Reclame Aqui.",
             "objectFit": "contain",
             "aspectRatio": 1.0697
           }
@@ -105014,7 +105017,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-principais-problemas.webp",
             "alt": "Bloco Principais problemas comentados do Reclame Aqui: Problemas na Loja com 15,32% nas categorias, Produto não recebido com 17,01% nos problemas e Entrega com 18,57% nos produtos",
-            "caption": "Principais problemas da aba geral do Reclame Aqui, em 20/10/2026.",
+            "caption": "Principais problemas da aba geral do Reclame Aqui.",
             "objectFit": "contain",
             "aspectRatio": 1.1841
           }
@@ -105036,8 +105039,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa.webp",
-          "alt": "Perfil da Mais Mu no Reclame Aqui em 20/10/2026: reputação Regular, avaliações de compra 4,7 de 5 e 67,9% das reclamações resolvidas",
-          "caption": "O perfil da Mais Mu no Reclame Aqui em 20/10/2026: reputação Regular, avaliações de compra 4,7 e 67,9% das reclamações resolvidas.",
+          "alt": "Perfil da Mais Mu no Reclame Aqui: reputação Regular, avaliações de compra 4,7 de 5 e 67,9% das reclamações resolvidas",
+          "caption": "O perfil da Mais Mu no Reclame Aqui: reputação Regular, avaliações de compra 4,7 e 67,9% das reclamações resolvidas.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -105052,7 +105055,7 @@ export const reviewsData: unknown[] = [
           "Troca ou devolução: o produto precisa estar na embalagem original, fechada e sem sinais de uso. Peça pelo e-mail. A loja cobre o recolhimento, e o reembolso ou o reenvio saem em até 7 dias úteis depois da avaliação na unidade.",
           "Pedido devolvido pela transportadora: a loja faz o reenvio sem custo para você, depois do e-mail com o número do pedido, o rastreio e o endereço.",
           "Reembolso: volta na mesma forma de pagamento. No Pix e no boleto, em até 7 dias úteis depois do envio dos dados. No cartão, em até 48 horas úteis; no crédito, pode levar até duas faturas.",
-          "Arrependimento: em compra pela internet, o Código de Defesa do Consumidor dá 7 dias para desistir (art. 49). Em 20/10/2026, o FAQ da loja não traz prazo próprio para isso."
+          "Arrependimento: em compra pela internet, o Código de Defesa do Consumidor dá 7 dias para desistir (art. 49). O FAQ da loja não traz prazo próprio para isso."
         ],
         "postParagraphs": [
           "Se o atendimento não resolver, o Reclame Aqui registra a queixa e mostra a resposta da empresa no perfil."
@@ -105065,22 +105068,22 @@ export const reviewsData: unknown[] = [
           "O cupom dá 10% OFF em todo o site, para conta nova e antiga, com qualquer forma de pagamento. Ele soma com os 3% de desconto do Pix. Não vale no [Mercado Livre da Mais Mu](https://meli.la/24RjvdP): lá vale o preço do anúncio.",
           "No site, aplique o cupom no checkout, em \"Adicionar cupom de desconto\", depois de iniciar a compra no carrinho. Confira a linha \"Desconto do cupom\" no resumo antes de pagar.",
           "A loja não acumula cupons. O crédito de cashback e o desconto de boas-vindas contam como cupom, então não somam com o MMEMCASACOMCECILIA. O cashback é um programa da própria loja, não uma vantagem do cupom.",
-          "O frete grátis vale acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste, segundo o site em 20/10/2026. Não testamos o frete grátis junto com o cupom: confira no checkout.",
+          "O frete grátis vale acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste, segundo o site. Não testamos o frete grátis junto com o cupom: confira no checkout.",
           "Compre pelo [site oficial da Mais Mu](https://www.lojamaismu.com.br/). Os detalhes estão na [página do cupom da Mais Mu](/cupons/mais-mu), e o passo a passo, no artigo [Cupom Mais Mu: como usar o desconto de 10%](/reviews/cupom-mais-mu-como-usar)."
         ]
       },
       {
         "heading": "Dá para confiar na Mais Mu?",
         "paragraphs": [
-          "Em 20/10/2026, a reputação recente da Mais Mu no Reclame Aqui era Regular, com nota 6,4, enquanto a janela de 12 meses seguia Boa, com nota 7,2. A loja responde quase todas as reclamações (95,5% nos últimos 6 meses), mas resolveu 67,9% delas, e 47,2% de quem avaliou disse que voltaria a comprar.",
+          "Na última leitura, a reputação recente da Mais Mu no Reclame Aqui era Regular, com nota 6,4, enquanto a janela de 12 meses seguia Boa, com nota 7,2. A loja responde quase todas as reclamações (95,5% nos últimos 6 meses), mas resolveu 67,9% delas, e 47,2% de quem avaliou disse que voltaria a comprar.",
           "Dá para comprar com atenção: guarde o número do pedido, acompanhe o rastreio e, se algo atrasar, escreva para o canal de atendimento da loja. Para a visão geral da empresa, veja [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Mais Mu é confiável segundo o Reclame Aqui? Em 20/10/2026, o perfil mostrava reputação Regular nos últimos 6 meses, com nota 6,4, e Boa nos 12 meses, com nota 7,2. Veja a análise completa em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
-          "Qual a nota da Mais Mu no Reclame Aqui? Em 20/10/2026, nota 6,4 nos últimos 6 meses (de 01/04/2026 a 30/09/2026), 7,2 nos últimos 12 meses (de 01/10/2025 a 30/09/2026) e 7,7 na aba geral.",
+          "A Mais Mu é confiável segundo o Reclame Aqui? O perfil mostrava reputação Regular nos últimos 6 meses, com nota 6,4, e Boa nos 12 meses, com nota 7,2. Veja a análise completa em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
+          "Qual a nota da Mais Mu no Reclame Aqui? Nota 6,4 nos últimos 6 meses, 7,2 nos últimos 12 meses e 7,7 na aba geral.",
           "A Mais Mu responde às reclamações? Sim, na maior parte. Nos últimos 6 meses, 95,5% das reclamações foram respondidas, e 67,9% foram resolvidas.",
           "O que fazer se o pedido da Mais Mu atrasar? Acompanhe o rastreio no rastreae.com.br e escreva para fala.ai@maismu.com.br com o número do pedido.",
           "Como pedir troca ou reembolso na Mais Mu? Escreva para fala.ai@maismu.com.br com o número do pedido. O produto precisa estar na embalagem original, fechada e sem sinais de uso, e o reembolso sai na mesma forma de pagamento."
@@ -105176,7 +105179,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/mais-mu/mais-mu-cupom-01-sem-cupom.webp",
             "alt": "Resumo do pedido no checkout da Mais Mu sem cupom: creatina refil 500 g a R$ 79,90 e whey paçoquita 450 g a R$ 159,99, total de R$ 239,89 e o botão Adicionar cupom de desconto",
-            "caption": "Checkout da Mais Mu em 20/10/2026, antes do cupom.",
+            "caption": "Checkout da Mais Mu, antes do cupom.",
             "objectFit": "contain",
             "aspectRatio": 0.9018
           }
@@ -105206,7 +105209,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp",
             "alt": "Resumo do pedido com o cupom aplicado: subtotal de R$ 239,89, Desconto do cupom de R$ 23,99, total de R$ 215,90 e Cupom MMEMCASACOMCECILIA",
-            "caption": "Cupom aplicado no checkout da Mais Mu em 20/10/2026: R$ 23,99 de desconto.",
+            "caption": "Cupom aplicado no checkout da Mais Mu: R$ 23,99 de desconto.",
             "objectFit": "contain",
             "aspectRatio": 1.017
           }
@@ -105251,7 +105254,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis com o cupom",
         "paragraphs": [
-          "A Mais Mu dá frete grátis a partir de um valor que depende da região. Na faixa do topo do site, em 20/10/2026, estavam estes valores:"
+          "A Mais Mu dá frete grátis a partir de um valor que depende da região. Na faixa do topo do site, estavam estes valores:"
         ],
         "comparisonTable": {
           "headers": [
@@ -105305,7 +105308,7 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Mais Mu? O cupom é MMEMCASACOMCECILIA, com 10% OFF em todo o site oficial, lojamaismu.com.br.",
           "O cupom da Mais Mu vale na primeira compra? Sim. Ele vale na primeira compra e também para quem já comprou. O desconto de boas-vindas da loja não soma com ele.",
           "O cupom vale em todas as formas de pagamento? Sim. Ele vale em todas as formas de pagamento da loja e soma com os 3% de desconto do Pix.",
-          "O cupom soma com produto em promoção? Sim. No teste de 20/10/2026, os 10% entraram também na creatina que já estava em oferta.",
+          "O cupom soma com produto em promoção? Sim. No teste no carrinho, os 10% entraram também na creatina que já estava em oferta.",
           "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial. No Mercado Livre, vale o preço do anúncio.",
           "O cupom da Mais Mu dá frete grátis? Não necessariamente. O frete grátis depende do valor do pedido e da região: acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste. Se o cupom deixar o total abaixo do mínimo, o frete pode ser cobrado.",
           "Dá para usar o cashback junto com o cupom? Não. A loja não acumula cupons, e o crédito do cashback entra como cupom.",
@@ -105340,6 +105343,7 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
+    "bodyDatesReason": "campanha",
     "id": 531,
     "slug": "black-friday-mais-mu",
     "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou",
@@ -105368,19 +105372,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Até 20/10/2026, a Mais Mu não tinha anunciado data, regra nem desconto de Black Friday para novembro. O cupom MMEMCASACOMCECILIA, com 10% OFF em todo o site, já vale hoje e soma com o desconto do Pix. O que muda a decisão é o preço de referência de outubro; veja a tabela abaixo."
+          "Até a última leitura, a Mais Mu não tinha anunciado data, regra nem desconto de Black Friday para novembro. O cupom MMEMCASACOMCECILIA, com 10% OFF em todo o site, já vale hoje e soma com o desconto do Pix. O que muda a decisão é o preço de referência de outubro; veja a tabela abaixo."
         ]
       },
       {
         "heading": "Quando começa a Black Friday da Mais Mu?",
         "paragraphs": [
-          "A loja não tem data de Black Friday. Até 20/10/2026, a home do site não traz campanha de novembro. Também não encontramos página de campanha nos endereços do sitemap que conferimos.",
+          "A loja não tem data de Black Friday. Até a última leitura, a home do site não traz campanha de novembro. Também não encontramos página de campanha nos endereços do sitemap que conferimos.",
           "O calendário é outro assunto: a Black Friday de 2026 cai em 27/11/2026, e a Cyber Monday, em 30/11/2026. São as datas do calendário, não da loja.",
           "Se a Mais Mu anunciar uma campanha, a data, as regras e o que o cupom faz nela entram aqui, com a data da atualização."
         ]
       },
       {
-        "heading": "Preços de 20/10/2026 para comparar",
+        "heading": "Preços para comparar",
         "paragraphs": [
           "Estes são os preços que as páginas dos produtos mostravam em 20/10/2026, antes do cupom. Quando a página mostra dois valores, a tabela traz o preço riscado e o preço do dia."
         ],
@@ -105429,13 +105433,13 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, Pix e o que soma",
         "paragraphs": [
           "O cupom é o **MMEMCASACOMCECILIA**. Ele dá 10% OFF em todo o site, com todas as formas de pagamento, para conta nova e para quem já comprou. No checkout, depois de \"Iniciar compra\", clique em \"Adicionar cupom de desconto\", cole o código e confira a linha \"Desconto do cupom\" no resumo.",
-          "No teste de 20/10/2026, sem finalizar a compra, o cupom entrou sobre um carrinho de R$ 239,89, com um whey de R$ 159,99 e uma creatina que já estava em oferta, de R$ 79,90. O desconto foi de R$ 23,99, e o total caiu para R$ 215,90."
+          "No teste, sem finalizar a compra, o cupom entrou sobre um carrinho de R$ 239,89, com um whey de R$ 159,99 e uma creatina que já estava em oferta, de R$ 79,90. O desconto foi de R$ 23,99, e o total caiu para R$ 215,90."
         ],
         "images": [
           {
             "src": "/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp",
             "alt": "Resumo do pedido com o cupom MMEMCASACOMCECILIA aplicado: desconto de R$ 23,99 e total de R$ 215,90",
-            "caption": "O cupom no checkout da Mais Mu em 20/10/2026, com a creatina em oferta no carrinho.",
+            "caption": "O cupom no checkout da Mais Mu, com a creatina em oferta no carrinho.",
             "objectFit": "contain",
             "aspectRatio": 1.017
           }
@@ -105453,7 +105457,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis e entrega",
         "paragraphs": [
-          "A Mais Mu tem frete grátis com valor mínimo por região. Em 20/10/2026, o site mostrava:"
+          "A Mais Mu tem frete grátis com valor mínimo por região. O site mostrava:"
         ],
         "bullets": [
           "Sul, Sudeste e Centro-Oeste: frete grátis acima de R$ 299.",
@@ -105468,8 +105472,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom da Mais Mu vale na Black Friday? Até 20/10/2026, a loja não anunciou regra especial para novembro. O MMEMCASACOMCECILIA vale enquanto a parceria estiver vigente, e o carrinho mostra o desconto antes de pagar.",
-          "O cupom vale com produto em promoção? Sim. No teste de 20/10/2026, os 10% entraram também na creatina que já estava em oferta.",
+          "O cupom da Mais Mu vale na Black Friday? Até a última leitura, a loja não anunciou regra especial para novembro. O MMEMCASACOMCECILIA vale enquanto a parceria estiver vigente, e o carrinho mostra o desconto antes de pagar.",
+          "O cupom vale com produto em promoção? Sim. No teste no carrinho, os 10% entraram também na creatina que já estava em oferta.",
           "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de 3% que a loja dá no Pix.",
           "Posso usar o cupom junto com o crédito do cashback? Não. A loja não acumula cupons, e o crédito do cashback conta como cupom.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio, sem o cupom.",
@@ -105549,14 +105553,14 @@ export const reviewsData: unknown[] = [
         "heading": "Como comparamos",
         "paragraphs": [
           "Este texto compara a Mais Mu e a Growth no whey concentrado, no whey isolado e na creatina: quem sai mais barata por proteína e por grama, com e sem cupom e Pix.",
-          "Comparamos o que as duas lojas publicam: a dose e a proteína por dose do rótulo ou da tabela nutricional, o preço no site e as regras de cupom e de Pix. Os preços são de 21/10/2026, sem frete. Os da Mais Mu saem das páginas de produto; os da Growth, do site dela lido no navegador, com os mesmos valores de 18/10/2026.",
+          "Comparamos o que as duas lojas publicam: a dose e a proteína por dose do rótulo ou da tabela nutricional, o preço no site e as regras de cupom e de Pix. Os preços são de 21/10/2026, sem frete. Os da Mais Mu saem das páginas de produto; os da Growth, do site dela lido no navegador.",
           "A série contra a Growth tem outros três textos: [Black Skull ou Growth](/reviews/black-skull-ou-growth), [Max Titanium ou Growth](/reviews/max-titanium-ou-growth) e [Probiótica ou Growth](/reviews/probiotica-ou-growth). Quem quer a comparação com a Dux lê [Mais Mu ou Dux](/reviews/mais-mu-ou-dux).",
           "As contas são nossas, arredondadas no centavo:"
         ],
         "image": {
           "src": "/images/reviews/mais-mu/mais-mu-ou-growth-capa.webp",
           "alt": "Quadro com o preço por 100 g no cartão em 21/10/2026: whey Mais Mu concentrado refil 1,8 kg R$ 50,00 e isolado refil 900 g R$ 71,63, Growth concentrado 1 kg R$ 29,26 e isolado 1 kg R$ 43,63; creatina Mais Mu refil 500 g R$ 15,98 e 200 g R$ 32,45, Growth refil 500 g R$ 16,64 e pote 500 g R$ 18,87",
-          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 21/10/2026, sem frete.",
+          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais, sem frete.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -105750,7 +105754,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creapure, pureza e alérgenos",
         "paragraphs": [
-          "As páginas da Mais Mu lidas em 21/10/2026 não declaram Creapure nem laudo. Quem procura o selo deve conferir o rótulo do pote antes de comprar.",
+          "As páginas da Mais Mu não declaram Creapure nem laudo. Quem procura o selo deve conferir o rótulo do pote antes de comprar.",
           "O nome da creatina sem sabor diz 100% Pura, e o rótulo lista só creatina monohidratada. A Growth lista, nas páginas lidas, só creatina monohidratada e diz que não contém glúten.",
           "No whey concentrado de baunilha, a página da Mais Mu declara derivados do leite e da soja e lactose, e diz que não contém glúten. Além da proteína concentrada do soro do leite, a lista traz aroma, goma xantana, cloreto de potássio e sucralose. O concentrado da Growth tem proteína de soro do leite concentrada e emulsificante lecitina, segundo a página dela.",
           "O whey concentrado paçoquita tem \"contém glúten\" na página da Mais Mu; por isso a tabela usa o baunilha, que a página diz não conter glúten. O isolado baunilha da Mais Mu também diz \"não contém glúten\" e \"contém lactose\"."
@@ -105759,7 +105763,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escolhe o quê",
         "paragraphs": [
-          "Pelos rótulos e pelos preços de 21/10/2026:"
+          "Pelos rótulos e pelos preços:"
         ],
         "bullets": [
           "Quer o menor preço por 100 g de proteína no whey: a Growth concentrado de 1 kg, a R$ 26,34 no Pix. Na Mais Mu, o [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 43,65 com cupom e Pix.",
@@ -105780,7 +105784,7 @@ export const reviewsData: unknown[] = [
           "Qual whey tem o menor preço por 100 g de proteína? A Growth concentrado de 1 kg, a R$ 26,34 no Pix; entre os da Mais Mu, o [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 43,65 com cupom e Pix.",
           "A Mais Mu é boa? Esta comparação responde só pelo rótulo, pela dose e pelo preço; a reputação e as reclamações da loja estão no [artigo sobre a confiança na Mais Mu](/reviews/mais-mu-e-confiavel).",
           "A creatina da Mais Mu é pura? O nome do produto diz 100% Pura, e o rótulo do sem sabor lista só creatina monohidratada.",
-          "Tem selo Creapure? As páginas da Mais Mu lidas em 21/10/2026 não declaram Creapure nem laudo; confira o rótulo do pote.",
+          "Tem selo Creapure? As páginas da Mais Mu não declaram Creapure nem laudo; confira o rótulo do pote.",
           "O cupom soma com o Pix? Sim. O cupom de 10% soma com os 3% do Pix, em sequência, e vale em todas as formas de pagamento. Não soma com o crédito do cashback nem com o desconto de boas-vindas.",
           "Dá para usar o cupom no Mercado Livre? Não. O cupom vale só no site da Mais Mu; no [Mercado Livre](https://meli.la/24RjvdP) vale o preço do anúncio."
         ]
@@ -105848,14 +105852,14 @@ export const reviewsData: unknown[] = [
         "heading": "Como comparamos",
         "paragraphs": [
           "Este texto compara a Mais Mu e a Dux no whey concentrado, no whey isolado e na creatina: quem sai mais barata por proteína e por grama, e o que cada uma leva a mais.",
-          "Comparamos o que as duas lojas publicam: o rótulo nutricional de cada linha, o preço no site e as regras de pagamento e de frete. Os preços são de 21/10/2026, sem frete; os rótulos da Mais Mu foram lidos em 20/10/2026. As tabelas usam o preço no cartão, e o Pix e o cupom vêm numa frase logo abaixo de cada uma. Ninguém da equipe provou os produtos: sabor, dissolução e digestão ficam de fora. Dúvida sobre suplemento, alergia ou dieta: fale antes com um médico ou um nutricionista.",
+          "Comparamos o que as duas lojas publicam: o rótulo nutricional de cada linha, o preço no site e as regras de pagamento e de frete. Os preços são de 21/10/2026, sem frete. As tabelas usam o preço no cartão, e o Pix e o cupom vêm numa frase logo abaixo de cada uma. Ninguém da equipe provou os produtos: sabor, dissolução e digestão ficam de fora. Dúvida sobre suplemento, alergia ou dieta: fale antes com um médico ou um nutricionista.",
           "A série contra a Dux tem outros três textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Mais Mu ou Growth](/reviews/mais-mu-ou-growth).",
           "As contas são estas, arredondadas no centavo:"
         ],
         "image": {
           "src": "/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp",
           "alt": "Quadro com o preço por 100 g no cartão em 21/10/2026: whey concentrado Mais Mu refil 1,8 kg R$ 50,00 e refil 900 g R$ 56,00, Dux 1,8 kg R$ 53,99 e 900 g R$ 61,48; creatina Mais Mu refil 500 g R$ 15,98 e 200 g R$ 32,45, Dux monohidratada 300 g R$ 21,63 e Creapure 300 g R$ 91,63",
-          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 21/10/2026, sem frete.",
+          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais, sem frete.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -105881,7 +105885,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey concentrado: proteína por dose e preço por 100 g",
         "paragraphs": [
-          "Preços de 21/10/2026 no cartão, sem cupom. As três linhas da Mais Mu têm a mesma dose, de 36 g de pó com 20 g de proteína. A Dux tem dose de 30 g, com 20 g de proteína."
+          "Preços no cartão, sem cupom. As três linhas da Mais Mu têm a mesma dose, de 36 g de pó com 20 g de proteína. A Dux tem dose de 30 g, com 20 g de proteína."
         ],
         "comparisonTable": {
           "headers": [
@@ -105939,7 +105943,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey isolado: proteína por dose e preço por 100 g",
         "paragraphs": [
-          "Preços de 21/10/2026 no cartão, sem cupom. A dose da Mais Mu é de 27 g com 22 g de proteína, exceto no sem sabor de 450 g, que tem 25 g de dose pelo rótulo. A Dux declara 24 g de proteína por dose, mas não o número de doses do isolado; a conta usa 30 g por dose, dose inferida."
+          "Preços no cartão, sem cupom. A dose da Mais Mu é de 27 g com 22 g de proteína, exceto no sem sabor de 450 g, que tem 25 g de dose pelo rótulo. A Dux declara 24 g de proteína por dose, mas não o número de doses do isolado; a conta usa 30 g por dose, dose inferida."
         ],
         "comparisonTable": {
           "headers": [
@@ -105997,7 +106001,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g e por dose",
         "paragraphs": [
-          "Preços de 21/10/2026 no cartão, sem cupom. A dose vem do rótulo de cada pote: 3 g na Mais Mu sem sabor, 3,5 g na limonada e na melancia, 5 g na monohidratada da Dux e 3 g na Creapure da Dux."
+          "Preços no cartão, sem cupom. A dose vem do rótulo de cada pote: 3 g na Mais Mu sem sabor, 3,5 g na limonada e na melancia, 5 g na monohidratada da Dux e 3 g na Creapure da Dux."
         ],
         "comparisonTable": {
           "headers": [
@@ -106077,7 +106081,7 @@ export const reviewsData: unknown[] = [
         "heading": "Creapure e pureza",
         "paragraphs": [
           "A Dux diz que a linha de 300 g é \"100% Creapure\", com 3 g por dose e 100 doses. O selo é declaração da Dux; este texto não checou o selo por fora.",
-          "As páginas da Mais Mu lidas em 21/10/2026 não declaram Creapure nem laudo. Laudos de terceiros não foram lidos para nenhuma das duas lojas, e o texto não afirma que o produto da Mais Mu não é Creapure.",
+          "As páginas da Mais Mu não declaram Creapure nem laudo. Laudos de terceiros não foram lidos para nenhuma das duas lojas, e o texto não afirma que o produto da Mais Mu não é Creapure.",
           "No preço, a diferença é grande. Por 100 g, a Creapure da Dux sai a R$ 91,63 no cartão e R$ 87,05 no Pix. O [refil de 500 g da Mais Mu](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/) sai a R$ 15,98 e R$ 15,50 no Pix. Quem quer o selo declarado pela Dux paga por ele; quem compara por grama de creatina, não.",
           "Esta comparação é de rótulo e de preço. Ela não trata de efeito no corpo."
         ]
@@ -106085,7 +106089,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom, Pix e frete",
         "paragraphs": [
-          "Cupom e pagamento mudam a conta. As regras, lidas em 21/10/2026:"
+          "Cupom e pagamento mudam a conta. As regras, lidas na mesma data:"
         ],
         "bullets": [
           "**Mais Mu, cupom:** MMEMCASACOMCECILIA dá 10% em todo o site, inclusive em produto em oferta, em todas as formas de pagamento. Não soma com o crédito do cashback nem com o desconto de boas-vindas.",
@@ -106120,7 +106124,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escolhe o quê",
         "paragraphs": [
-          "Pelos rótulos e pelos preços de 21/10/2026:"
+          "Pelos rótulos e pelos preços:"
         ],
         "bullets": [
           "Quer o menor preço por 100 g de proteína no whey: o [Whey Concentrado Mais Mu Baunilha Refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 50,00 no cartão, R$ 48,50 no Pix e R$ 43,65 com cupom e Pix.",
@@ -106142,9 +106146,9 @@ export const reviewsData: unknown[] = [
           "A Dux tem cupom? Não. A Dux não é parceira do site, e o MMEMCASACOMCECILIA vale só na Mais Mu.",
           "A Mais Mu é boa? Este texto não responde a isso. Reputação e confiança da loja estão em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
           "Creatina Mais Mu é pura? A página diz \"100% Pura\", monohidratada e \"não é de origem animal\". É o que o texto da loja diz; não há laudo de terceiros neste texto.",
-          "Creatina Mais Mu tem selo Creapure? As páginas da Mais Mu lidas em 21/10/2026 não declaram Creapure nem laudo.",
+          "Creatina Mais Mu tem selo Creapure? As páginas da Mais Mu não declaram Creapure nem laudo.",
           "O cupom vale com Pix? Sim. O cupom soma com os 3% do Pix, em sequência: cartão × 0,873.",
-          "Vale esperar a Black Friday? Os preços de data estão em [Black Friday com a Mais Mu](/reviews/black-friday-mais-mu). A conta deste texto é de 21/10/2026."
+          "Vale esperar a Black Friday? Os preços de data estão em [Black Friday com a Mais Mu](/reviews/black-friday-mais-mu). A conta deste texto é da data dos preços."
         ]
       }
     ],
@@ -128626,7 +128630,7 @@ export const reviewsData: unknown[] = [
             "Porção",
             "Cafeína por dose",
             "Taurina por dose",
-            "Venda (25/10/2026)",
+            "Venda",
             "Por dose"
           ],
           "rows": [
@@ -128897,18 +128901,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Código e onde comprar",
         "bullets": [
-          "**Código:** MMEMCASACOMCECILIA, cupom de 10% em todo o site. Soma com o Pix de 3% e vale também em produto já em oferta, pelo teste de 20/10/2026.",
+          "**Código:** MMEMCASACOMCECILIA, cupom de 10% em todo o site. Soma com o Pix de 3% e vale também em produto já em oferta, pelo teste no carrinho.",
           "**Mercado Livre:** o cupom não vale lá. O link da marca no Mercado Livre é o [meli.la/24RjvdP](https://meli.la/24RjvdP).",
           "**Regras do cupom:** [página da Mais Mu no site](/cupons/mais-mu).",
           "**Como usar o cupom:** [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar).",
           "**Confiança:** [Leia se a Mais Mu é confiável](/reviews/mais-mu-e-confiavel).",
           "**Loja oficial:** [Ir para a loja oficial](https://www.lojamaismu.com.br)."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Não usamos os produtos. Os números vêm do rótulo e do site da loja, lidos em 25/10/2026. Podemos receber comissão pelo cupom MMEMCASACOMCECILIA."
         ]
       }
     ],
@@ -128974,7 +128972,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como lemos a loja",
         "paragraphs": [
           "A Mais Mu vende o whey concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês, além do isolado e da proteína vegetal. A diferença entre eles está no preço por dose, nos sabores de cada formato e no que cabe na sua rotina.",
-          "Lemos as 48 páginas de whey e de proteína vegetal da Mais Mu no site oficial, em 25/10/2026. Ninguém do site usou os produtos. Tudo o que segue sai da loja: preço, estoque, formato, sabor, ingredientes e a contagem de doses que ela publica.",
+          "Lemos as 48 páginas de whey e de proteína vegetal da Mais Mu no site oficial. Ninguém do site usou os produtos. Tudo o que segue sai da loja: preço, estoque, formato, sabor, ingredientes e a contagem de doses que ela publica.",
           "A loja escreve “cerca de N doses” em 30 das 48 páginas, sempre na legenda da galeria. Gramas por dose aparecem pouco: no texto de cada sabor de sachê e numa tabela nutricional, a do Baunilha de 450 g, com porção de 36 g e cerca de 13 porções. Por isso as contas usam a contagem da loja, com a margem do “cerca de”. Onde a loja não publica a contagem, este texto não faz conta.",
           "A proteína por dose também vem da loja: 20 g no concentrado e 22 g no isolado e no vegetal.",
           "As contas são estas, com os preços de 25/10/2026:"
@@ -129008,7 +129006,7 @@ export const reviewsData: unknown[] = [
             "Preço no cartão",
             "R$ por dose",
             "R$ por 100 g de proteína (conta nossa)",
-            "Disponível em 25/10/2026"
+            "Disponível"
           ],
           "rows": [
             [
@@ -129059,7 +129057,7 @@ export const reviewsData: unknown[] = [
             "Preço no cartão",
             "R$ por dose",
             "R$ por 100 g de proteína (conta nossa)",
-            "Disponível em 25/10/2026"
+            "Disponível"
           ],
           "rows": [
             [
@@ -129121,7 +129119,7 @@ export const reviewsData: unknown[] = [
             "Peso de cada sachê (texto do sabor)",
             "Preço no cartão (caixa de 15)",
             "R$ por sachê",
-            "Disponível em 25/10/2026"
+            "Disponível"
           ],
           "rows": [
             [
@@ -129193,7 +129191,7 @@ export const reviewsData: unknown[] = [
             "Preço no cartão",
             "R$ por dose",
             "R$ por 100 g de proteína (conta nossa)",
-            "Disponível em 25/10/2026"
+            "Disponível"
           ],
           "rows": [
             [
@@ -129228,7 +129226,7 @@ export const reviewsData: unknown[] = [
             "Preço no cartão",
             "R$ por dose",
             "R$ por 100 g de proteína (conta nossa)",
-            "Disponível em 25/10/2026"
+            "Disponível"
           ],
           "rows": [
             [
@@ -129281,7 +129279,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sabores: o que a loja mostra",
         "paragraphs": [
-          "A loja publica estes sabores em cada formato, em 25/10/2026. Não há degustação deste texto, e a loja não diz qual sabor é o melhor."
+          "A loja publica estes sabores em cada formato. Não há degustação deste texto, e a loja não diz qual sabor é o melhor."
         ],
         "bullets": [
           "**Concentrado, pote de 450 g:** Baunilha, Chocolate, Chocolate com avelã, Chocolate com coco, Cookies'n Cream, Morango e Paçoquita, com contagem. Brownie, esgotado. Doce de leite, sem contagem.",
@@ -129291,7 +129289,7 @@ export const reviewsData: unknown[] = [
           "**Proteína vegetal:** Caramel Macchiato, Chocolate com avelã e Torta de banana com canela, nos dois tamanhos."
         ],
         "postParagraphs": [
-          "O Brownie de 450 g estava esgotado em 25/10/2026. No refil de 900 g, o mesmo sabor segue disponível.",
+          "O Brownie de 450 g estava esgotado na leitura. No refil de 900 g, o mesmo sabor segue disponível.",
           "A loja marca Paçoquita e Chocolate com coco como “novo sabor” e o Doce de leite como “lançamento”, sem data. A categoria de whey também tem uma ordenação padrão com nome de ranking, sem critério nem data publicados. Por isso este texto não diz que um sabor vende mais que outro."
         ]
       },
@@ -129307,7 +129305,7 @@ export const reviewsData: unknown[] = [
           "**Paçoquita:** parceria, segundo a loja, nos formatos de concentrado (pote de 450 g, sachê, refil de 900 g e 1,8 kg)."
         ],
         "postParagraphs": [
-          "Os três potes de 418 e 420 g custam R$ 159,99 cada no cartão (R$ 155,19 no Pix; R$ 139,67 com o cupom e o Pix), o mesmo preço do pote de 450 g, e estavam disponíveis em 25/10/2026. A loja não publica a contagem de doses deles, então ficam fora da conta por dose e por proteína. Os textos dos três dizem “contém lactose” e “não contém glúten”."
+          "Os três potes de 418 e 420 g custam R$ 159,99 cada no cartão (R$ 155,19 no Pix; R$ 139,67 com o cupom e o Pix), o mesmo preço do pote de 450 g, e estavam disponíveis. A loja não publica a contagem de doses deles, então ficam fora da conta por dose e por proteína. Os textos dos três dizem “contém lactose” e “não contém glúten”."
         ]
       },
       {
@@ -129323,10 +129321,10 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom e Pix: quanto cai em cada formato",
         "paragraphs": [
           "O código MMEMCASACOMCECILIA dá 10% em todo o site da Mais Mu e soma com o desconto de 3% do Pix. Ele não soma com outro cupom. O crédito do cashback da loja e o desconto de boas-vindas também entram como cupom, então não somam com o nosso. O cashback é um programa da loja, não uma vantagem do código. O código não vale no Mercado Livre, onde vale o preço do anúncio. As regras estão na página da [Mais Mu](/cupons/mais-mu).",
-          "Com os dois descontos, o pote de 450 g concentrado sai por R$ 139,67, o refil de 900 g por R$ 244,43, a caixa de sachês de R$ 239,85 por R$ 209,39, o isolado de 450 g por R$ 261,89 e o de 900 g por R$ 453,96, com os preços de 25/10/2026."
+          "Com os dois descontos, o pote de 450 g concentrado sai por R$ 139,67, o refil de 900 g por R$ 244,43, a caixa de sachês de R$ 239,85 por R$ 209,39, o isolado de 450 g por R$ 261,89 e o de 900 g por R$ 453,96, com os mesmos preços."
         ],
         "postParagraphs": [
-          "**Esperar a Black Friday?** Até 20/10/2026, a Mais Mu não tinha anunciado data nem desconto para novembro. O que se sabe está em [Black Friday da Mais Mu](/reviews/black-friday-mais-mu).",
+          "**Esperar a Black Friday?** Até a última leitura, a Mais Mu não tinha anunciado data nem desconto para novembro. O que se sabe está em [Black Friday da Mais Mu](/reviews/black-friday-mais-mu).",
           "Antes de comprar, a dúvida pode ser a loja em si: [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel)"
         ]
       },
@@ -129345,8 +129343,8 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/mais-mu/whey-mais-mu-qual-escolher-quadro-formatos.webp",
-            "alt": "Quadro dos formatos do whey Mais Mu com doses, preço por dose e preço por 100 g de proteína em 25/10/2026",
-            "caption": "Doses pela contagem da loja, com “cerca de”. Preços no cartão em 25/10/2026.",
+            "alt": "Quadro dos formatos do whey Mais Mu com doses, preço por dose e preço por 100 g de proteína",
+            "caption": "Doses pela contagem da loja, com “cerca de”. Preços no cartão.",
             "objectFit": "contain",
             "aspectRatio": 0.8475
           }
@@ -129361,12 +129359,6 @@ export const reviewsData: unknown[] = [
           "Sachê compensa? Depende do que você precisa. Cada sachê custa R$ 15,99 ou R$ 16,99 no cartão, e uma dose do pote ou do refil com contagem sai de R$ 10,77 a R$ 13,33. Ele compensa quando levar o pó pesa mais que essa diferença.",
           "O cupom vale no Mercado Livre? Não. O MMEMCASACOMCECILIA vale no site da Mais Mu. No Mercado Livre vale o preço do anúncio. O passo a passo do código está em [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar).",
           "Whey ajuda a emagrecer ou a ganhar massa? Este texto não trata desse objetivo: ele compara rótulo, dose e preço. Quem tem uma meta de saúde, de peso ou de treino deve conversar com um nutricionista."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Ninguém do site usou os produtos desta lista. O texto reúne o que a loja publica, lido em 25/10/2026: preços, estoque, contagem de doses, ingredientes e textos de cada página. As contas de R$ por dose e por 100 g de proteína são nossas, com a contagem da loja. O Em Casa com Cecília é afiliado da Mais Mu e recebe comissão pelas compras feitas com o código MMEMCASACOMCECILIA, sem custo extra para você. Preço e estoque mudam: confira na loja antes de comprar."
         ]
       }
     ],
@@ -146004,20 +145996,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pote de 500 g é o mais barato por grama e por dose: R$ 17,51 por 100 g e R$ 0,88 por dose de 5 g, em 28/10/2026. O selo Creapure só existe no pote de 250 g, que custa mais de 3 vezes isso por grama. A conta de cada pote está em \"Qual pote compensa\"."
+          "O pote de 500 g é o mais barato por grama e por dose. O selo Creapure só existe no pote de 250 g, que custa mais de 3 vezes isso por grama. A conta de cada pote está em \"Qual pote compensa\"."
         ]
       },
       {
         "heading": "Os quatro potes de creatina da Max",
         "paragraphs": [
           "No site da Max Titanium, a creatina sem sabor vem em três potes, de 100 g, 300 g e 500 g, e há um quarto pote, a Creatina Creapure de 250 g. Os quatro são creatina monohidratada em pó e têm a mesma tabela nutricional por dose: porção de 5 g (1 dosador) com 5.000 mg de creatina, sem quantidade significativa de calorias, carboidratos, proteínas, gorduras ou sódio. O que muda entre eles é o tamanho, o número de porções, o preço por grama e, no de 250 g, o selo Creapure.",
-          "A Max também vende a Creatina 7Belo de 300 g, com sabor, que fica fora deste guia: a conta dela, ao lado das creatinas com sabor de outras marcas, está no [guia de creatina com sabor](/reviews/creatina-com-sabor-qual-escolher). A creatina em cápsulas (120 unidades) estava sem estoque em 28/10/2026 e por isso não entra na tabela."
+          "A Max também vende a Creatina 7Belo de 300 g, com sabor, que fica fora deste guia: a conta dela, ao lado das creatinas com sabor de outras marcas, está no [guia de creatina com sabor](/reviews/creatina-com-sabor-qual-escolher). A creatina em cápsulas (120 unidades) estava sem estoque na consulta e por isso não entra na tabela."
         ]
       },
       {
-        "heading": "Preço por 100 g e por dose em 28/10/2026",
+        "heading": "Preço por 100 g e por dose",
         "paragraphs": [
-          "Preços do site oficial da Max em 28/10/2026, sem cupom e sem frete. O preço de lista aparece entre parênteses quando o pote estava em promoção. A porção e o número de porções vêm da tabela nutricional de cada pote, publicada na página do produto."
+          "Preços do site oficial da Max em 28/10/2026, sem cupom e sem frete. Preço, estoque e promoções mudam; vale o que aparece no site na hora da compra. O preço de lista aparece entre parênteses quando o pote estava em promoção. A porção e o número de porções vêm da tabela nutricional de cada pote, publicada na página do produto."
         ],
         "comparisonTable": {
           "headers": [
@@ -146066,7 +146058,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creatina-500g.webp",
             "alt": "Pote de 500 g da Creatine da Max Titanium, suplemento alimentar de creatina em pó",
-            "caption": "O pote de 500 g, o mais barato por grama em 28/10/2026. Imagem: Max Titanium.",
+            "caption": "O pote de 500 g, o mais barato por grama. Imagem: Max Titanium.",
             "objectFit": "contain",
             "aspectRatio": 0.6721
           }
@@ -146075,9 +146067,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creapure: em qual pote está e quanto custa a mais",
         "paragraphs": [
-          "Só a Creatina Creapure de 250 g traz o selo Creapure, na embalagem e na página do produto. A ficha diz que a matéria-prima é produzida na Alemanha pela Alzchem, dona da marca Creapure. As páginas dos potes de 100 g, 300 g e 500 g, lidas em 28/10/2026, não citam Creapure: são creatina monohidratada sem o selo.",
+          "Só a Creatina Creapure de 250 g traz o selo Creapure, na embalagem e na página do produto. A ficha diz que a matéria-prima é produzida na Alemanha pela Alzchem, dona da marca Creapure. As páginas dos potes de 100 g, 300 g e 500 g, lidas por nós, não citam Creapure: são creatina monohidratada sem o selo.",
           "Pela tabela nutricional, a dose é a mesma nos quatro potes: 5 g com 5.000 mg de creatina. O que a Creapure acrescenta, segundo a Max, é a origem da matéria-prima e os testes de pureza do fabricante alemão. Este texto não afirma que uma creatina faz mais efeito que a outra: as fichas não comprovam isso, e ninguém do site usou os produtos.",
-          "A diferença é de preço. Em 28/10/2026, a Creapure custava R$ 139,89 por 250 g, ou R$ 2,80 por dose. O pote de 500 g sem o selo custava R$ 87,53 pelo dobro de produto, ou R$ 0,88 por dose. Quem quer o selo paga cerca de R$ 1,92 a mais por dose, ou R$ 96 a mais a cada 50 doses."
+          "A diferença é de preço. Pela tabela de preços, a Creapure custava R$ 139,89 por 250 g, ou R$ 2,80 por dose. O pote de 500 g sem o selo custava R$ 87,53 pelo dobro de produto, ou R$ 0,88 por dose. Quem quer o selo paga cerca de R$ 1,92 a mais por dose, ou R$ 96 a mais a cada 50 doses."
         ],
         "images": [
           {
@@ -146126,7 +146118,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual pote compensa",
         "bullets": [
-          "**Menor preço por grama:** o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 17,51 por 100 g e R$ 0,88 por dose em 28/10/2026. Rende 100 porções, pouco mais de três meses com uma dose por dia. É a escolha para quem já sabe que vai tomar todo dia.",
+          "**Menor preço por grama:** o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 17,51 por 100 g e R$ 0,88 por dose. Rende 100 porções, pouco mais de três meses com uma dose por dia. É a escolha para quem já sabe que vai tomar todo dia.",
           "**Primeiro pote ou pouco espaço:** o [pote de 100 g](https://www.maxtitanium.com.br/creatina-pote-100g/p), a R$ 33,89. Custa quase o dobro por grama do de 500 g, mas é o menor valor para começar e rende 20 porções.",
           "**Meio-termo:** o [pote de 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p), a R$ 59,90 e R$ 1,00 por dose. Dois meses de uso por 12% a mais por grama que o de 500 g.",
           "**Quer o selo Creapure:** só a [Creatina Creapure de 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a R$ 139,89 e R$ 2,80 por dose. É o único pote da Max com o selo, e custa 3,2 vezes o de 500 g por grama, com a mesma dose de 5.000 mg na tabela."
@@ -146139,16 +146131,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A creatina da Max Titanium é boa? Pelo rótulo, os quatro potes são creatina monohidratada com 5.000 mg por porção de 5 g, e os sem sabor levam só o antiumectante dióxido de silício além da creatina. Ninguém do site usou o produto, e as fichas não comprovam efeito: o que dá para comparar é o rótulo e o preço por grama.",
-          "A creatina da Max Titanium é Creapure? Só a Creatina Creapure de 250 g, que traz o selo na embalagem e na página e, segundo a ficha, é produzida na Alemanha pela Alzchem. Os potes de 100 g, 300 g e 500 g não declaram o selo nas páginas lidas em 28/10/2026.",
+          "A creatina da Max Titanium é Creapure? Só a Creatina Creapure de 250 g, que traz o selo na embalagem e na página e, segundo a ficha, é produzida na Alemanha pela Alzchem. Os potes de 100 g, 300 g e 500 g não declaram o selo nas páginas lidas.",
           "A creatina da Max Titanium é pura? As fichas dizem creatina monohidratada; os potes sem sabor têm dióxido de silício como antiumectante, e a Creapure traz só creatina monohidratada na lista. \"Pura\" como garantia de qualidade não é algo que a ficha comprove, e este texto não afirma.",
-          "Qual pote de creatina da Max rende mais? O de 500 g: 100 porções de 5 g, a R$ 0,88 por dose em 28/10/2026. O de 300 g rende 60 porções, a Creapure de 250 g rende 50 e o de 100 g rende 20.",
+          "Qual pote de creatina da Max rende mais? O de 500 g: 100 porções de 5 g, a R$ 0,88 por dose. O de 300 g rende 60 porções, a Creapure de 250 g rende 50 e o de 100 g rende 20.",
           "A creatina de 300 g e a de 500 g da Max são iguais? Pela ficha, sim: os mesmos ingredientes, a mesma porção de 5 g com 5.000 mg de creatina e nenhum dos dois declara Creapure. Muda o número de porções (60 e 100) e o preço por grama, mais baixo no de 500 g."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada com a Max Titanium. Podemos receber comissão pelas compras feitas com o cupom MAX10EMCASACOMCECILIA. Ninguém do site usou as creatinas: o texto lê a ficha, a tabela nutricional e o preço de 28/10/2026 no site oficial. Não é orientação de nutricionista nem de médico. Preço, estoque e promoções mudam; vale o que aparece no site na hora da compra."
         ]
       }
     ],
@@ -146208,7 +146194,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Hórus ou Égide",
         "paragraphs": [
-          "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g é o mais barato por dose, R$ 2,20 em 28/10/2026, porque rende 50 doses de 6 g. Quem não quer cafeína tem o Night Train, e os números e o fechamento estão abaixo."
+          "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g é o mais barato por dose, porque rende 50 doses de 6 g. Quem não quer cafeína tem o Night Train, e os números e o fechamento estão abaixo."
         ]
       },
       {
@@ -146260,7 +146246,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O Hórus de 300 g e o de 150 g têm a mesma tabela, e o Égide de 300 g e o de 150 g também. A tabela do Night Train não traz linha de cafeína, e a lista de ingredientes não cita cafeína; o título da página diz \"sem cafeína\".",
           "O carboidrato por dose muda entre eles. O Hórus tem 3,3 g de carboidrato e 1,8 g de açúcares adicionados por dose, e a lista de ingredientes traz isomaltulose. O Égide tem 0,8 g de carboidrato e a tabela diz que não contém quantidade significativa de açúcares. O Night Train tem 3,9 g de carboidrato e 0,1 g de açúcares adicionados.",
-          "Sabores à venda em 28/10/2026, pelas páginas dos produtos: o Hórus de 300 g em amora, frutas vermelhas, maçã verde, citrus, Blue Ice, limão yuzu e cotton candy; o Égide de 300 g em frutas vermelhas, açaí com guaraná, limão, frutas silvestres e dois sabores com o nome do Ramon Dino, abacaxi e manga e abacaxi com hortelã; o Égide de 150 g em frutas vermelhas, açaí com guaraná, frutas silvestres e limão; o Night Train em frutas vermelhas e citrus. Todos declaram não conter glúten, e todos levam sucralose e corante artificial."
+          "Sabores à venda, pelas páginas dos produtos: o Hórus de 300 g em amora, frutas vermelhas, maçã verde, citrus, Blue Ice, limão yuzu e cotton candy; o Égide de 300 g em frutas vermelhas, açaí com guaraná, limão, frutas silvestres e dois sabores com o nome do Ramon Dino, abacaxi e manga e abacaxi com hortelã; o Égide de 150 g em frutas vermelhas, açaí com guaraná, frutas silvestres e limão; o Night Train em frutas vermelhas e citrus. Todos declaram não conter glúten, e todos levam sucralose e corante artificial."
         ],
         "images": [
           {
@@ -146313,7 +146299,7 @@ export const reviewsData: unknown[] = [
           "headers": [
             "Produto",
             "Dose e doses",
-            "Preço em 28/10/2026",
+            "Preço no site",
             "Por dose",
             "Por dose com o cupom no teto"
           ],
@@ -146357,8 +146343,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O pote do Égide de 300 g custa R$ 21,00 a mais que o do Hórus de 300 g, mas rende 14 doses a mais. Por isso o Égide sai R$ 0,27 mais barato por dose: R$ 2,20 contra R$ 2,47. Quem compara só o preço do pote vê o contrário.",
-          "Dentro de cada linha, o pote de 300 g sai mais barato por dose que o de 150 g: R$ 2,47 contra R$ 2,61 no Hórus e R$ 2,20 contra R$ 2,32 no Égide. O Night Train é o mais caro por dose, R$ 3,05, e o único sem preço riscado em 28/10/2026. Em 28/10/2026, parte dos sabores do Hórus de 150 g estava sem estoque.",
-          "O Hórus de 300 g também sai no sabor 7Belo, por R$ 93,52 em 28/10/2026. Ele fica fora da tabela porque não lemos a tabela nutricional dele.",
+          "Dentro de cada linha, o pote de 300 g sai mais barato por dose que o de 150 g: R$ 2,47 contra R$ 2,61 no Hórus e R$ 2,20 contra R$ 2,32 no Égide. O Night Train é o mais caro por dose, R$ 3,05, e o único sem preço riscado. Na consulta, parte dos sabores do Hórus de 150 g estava sem estoque.",
+          "O Hórus de 300 g também sai no sabor 7Belo, por R$ 93,52. Ele fica fora da tabela porque não lemos a tabela nutricional dele.",
           "Com o cupom no teto, o Égide de 300 g cai de R$ 109,89 para R$ 98,90, e o Hórus de 300 g, de R$ 88,89 para R$ 80,00. O cupom vale com todas as formas de pagamento e soma com as promoções do site, segundo a página da loja. O código e as regras estão na [página do cupom da Max Titanium](/cupons/max-titanium)."
         ]
       },
@@ -146366,7 +146352,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pré-treino da Max Titanium sem cafeína existe?",
         "paragraphs": [
           "Sim. O [Night Train](https://www.maxtitanium.com.br/night-train-/p) é o pré-treino sem cafeína da Max Titanium. O título da página diz \"sem cafeína\", a tabela nutricional não traz linha de cafeína e a lista de ingredientes não a cita: a dose de 8,4 g tem 2 g de beta-alanina, 1.000 mg de taurina e 1.000 mg de arginina, os mesmos números do Hórus sem a cafeína.",
-          "Ele custa mais por dose que os outros dois, R$ 3,05 em 28/10/2026, e vem em dois sabores, frutas vermelhas e citrus. Para conferir qualquer pré-treino, veja a tabela nutricional e a lista de ingredientes na página do produto: a quantidade de cafeína por dose fica na tabela."
+          "Ele custa mais por dose que os outros dois, R$ 3,05, e vem em dois sabores, frutas vermelhas e citrus. Para conferir qualquer pré-treino, veja a tabela nutricional e a lista de ingredientes na página do produto: a quantidade de cafeína por dose fica na tabela."
         ],
         "images": [
           {
@@ -146395,7 +146381,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher: Hórus ou Égide",
         "paragraphs": [
-          "A escolha segue o que pesa para você no rótulo e no preço por dose, com os números de 28/10/2026."
+          "A escolha segue o que pesa para você no rótulo e no preço por dose, com os números da tabela acima."
         ],
         "bullets": [
           "Menos cafeína por dose: Hórus, com 150 mg. O Égide tem 200 mg.",
@@ -146412,20 +146398,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Hórus ou Égide: qual é melhor? Pelo rótulo e pelo preço de 28/10/2026, o Hórus tem menos cafeína por dose, 150 mg contra 200 mg, e o Égide de 300 g custa menos por dose, R$ 2,20 contra R$ 2,47, porque rende 50 doses de 6 g. Qual pesa mais é uma conta sua.",
+          "Hórus ou Égide: qual é melhor? Pelo rótulo e pelo preço, o Hórus tem menos cafeína por dose, 150 mg contra 200 mg, e o Égide de 300 g custa menos por dose, R$ 2,20 contra R$ 2,47, porque rende 50 doses de 6 g. Qual pesa mais é uma conta sua.",
           "Pré-treino Max Titanium tem cafeína? O Hórus e o Égide têm: 150 mg e 200 mg por dose, pela tabela do rótulo. O Night Train não tem cafeína na tabela nem na lista de ingredientes.",
           "Qual pré-treino da Max Titanium tem mais cafeína? O Égide, com 200 mg por dose de 6 g. O Hórus tem 150 mg por dose de 8,4 g.",
           "Pré-treino Max Titanium sem cafeína existe? Sim, o Night Train, de 300 g, em frutas vermelhas e citrus. A página o chama de pré-treino sem cafeína, e a tabela do rótulo não traz linha de cafeína.",
           "Quantas doses tem cada pote? O Hórus rende cerca de 36 doses no pote de 300 g e cerca de 18 no de 150 g. O Égide rende 50 doses no de 300 g e 25 no de 150 g. O Night Train rende cerca de 36.",
-          "Hórus da Max Titanium é bom? Ninguém do site usou o produto. O rótulo declara 150 mg de cafeína, 2.000 mg de beta-alanina, 1.000 mg de taurina e 1.000 mg de arginina por dose de 8,4 g, a R$ 2,47 por dose no pote de 300 g em 28/10/2026.",
+          "Hórus da Max Titanium é bom? Ninguém do site usou o produto. O rótulo declara 150 mg de cafeína, 2.000 mg de beta-alanina, 1.000 mg de taurina e 1.000 mg de arginina por dose de 8,4 g, a R$ 2,47 por dose no pote de 300 g.",
           "Qual o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, de até 10%, com o percentual variando por produto. Veja as condições na [página do cupom](/cupons/max-titanium)."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "A Max Titanium é parceira do Em Casa com Cecília. Se você compra com o MAX10EMCASACOMCECILIA, o site recebe uma comissão, sem custo a mais para você. Ninguém do site usou os pré-treinos: o guia reúne a ficha, a tabela nutricional e o preço de cada produto no site oficial da Max Titanium, lidos em 28/10/2026. As contas por dose, com e sem cupom, são nossas, sobre o preço do dia.",
-          "Preço, estoque e promoção mudam, então vale o que aparece no carrinho na hora da compra. Sobre a loja, veja [Max Titanium é confiável?](/reviews/max-titanium-e-confiavel)."
         ]
       }
     ],
@@ -146484,14 +146463,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No whey, a Max sai mais barata por 100 g de proteína: R$ 31,17 no 100% Whey Refil, contra R$ 36,03 no pouch de 900 g da Integralmédica, pelos preços de 28/10/2026. Na creatina, a Integralmédica fica abaixo no cartão em todos os tamanhos. O cupom da Max muda parte dessa conta, e o veredito por perfil está em Qual escolher."
+          "No whey, a Max sai mais barata por 100 g de proteína, no 100% Whey Refil, contra o pouch de 900 g da Integralmédica. Na creatina, a Integralmédica fica abaixo no cartão em todos os tamanhos. O cupom da Max muda parte dessa conta, e o veredito por perfil está em Qual escolher."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
           "Este guia compara whey e creatina da Max Titanium, parceira do site, com os da Integralmédica, que não é parceira. A base é o que as duas lojas publicam: a tabela nutricional da ficha, a lista de ingredientes e o preço do site lido em 28/10/2026, no cartão, sem frete e sem desconto de Pix. Entram os tamanhos que mais se parecem: whey de 900 g contra 900 g, com o pouch de 1,8 kg da Integralmédica e o Whey Pro de 1 kg da Max como linhas extras, e creatina de 300 g, 500 g e 1 kg. Os isolados e as Creapure ficam numa frase cada.",
-          "As contas são duas. No whey, o preço dividido pela proteína total da embalagem, que é a proteína de cada dose vezes o número de porções do rótulo. Na creatina, o preço dividido pelos gramas do pote. Dose, porções e proteína por dose só entram quando a tabela do rótulo foi lida na ficha em 28/10; sem a tabela, o produto entra só pelo preço por 100 g de produto, e o texto avisa.",
+          "As contas são duas. No whey, o preço dividido pela proteína total da embalagem, que é a proteína de cada dose vezes o número de porções do rótulo. Na creatina, o preço dividido pelos gramas do pote. Dose, porções e proteína por dose só entram quando a tabela do rótulo foi lida na ficha; sem a tabela, o produto entra só pelo preço por 100 g de produto, e o texto avisa.",
           "Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
           "A série compara a Max com uma marca por vez: [Max Titanium ou Growth](/reviews/max-titanium-ou-growth), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica) seguem o mesmo método. A Integralmédica já apareceu em [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica)."
         ]
@@ -146558,15 +146537,15 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Com o MAX10EMCASACOMCECILIA no teto de 10%, o Refil sai por R$ 28,06 por 100 g de proteína, o Pote por R$ 30,06 e o Whey Pro por R$ 30,29. O cupom é da Max e o desconto varia por produto; este texto não traz cupom da Integralmédica. Por dose, no cartão, o Refil fica em R$ 6,55, o Pote em R$ 7,01 e o Whey Pro em R$ 5,05, porque a dose dele tem menos proteína; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg).",
-          "O Whey Pro é o pote mais barato da tabela, R$ 12,62 por 100 g de produto, mas por 100 g de proteína ele fica atrás do Refil: a dose de 40 g traz 15 g de proteína e 18 g de açúcares, segundo a tabela da ficha. O pote de 900 g da Integralmédica custava R$ 240,00 em 28/10, R$ 26,67 por 100 g de produto; a tabela dele não foi lida nesse dia, e por isso ele fica fora da conta por proteína. Nos sabores chocolate e cookies and cream, a tabela da Integralmédica traz 20 g de proteína por porção: o pouch de 900 g sobe para R$ 37,83 por 100 g de proteína e o de 1,8 kg, para R$ 33,67.",
-          "Nos isolados, o [IsoWhey de 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) custava R$ 326,18, com 26 g de proteína em 30 g e 30 porções: R$ 41,82 por 100 g de proteína, ou R$ 37,64 com o cupom no teto. O Whey Protein Isolado de 900 g da Integralmédica custava R$ 483,00, R$ 53,67 por 100 g de produto contra R$ 36,24 do IsoWhey; a tabela dele não foi lida em 28/10. A comparação do IsoWhey com outro isolado está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
+          "O Whey Pro é o pote mais barato da tabela, R$ 12,62 por 100 g de produto, mas por 100 g de proteína ele fica atrás do Refil: a dose de 40 g traz 15 g de proteína e 18 g de açúcares, segundo a tabela da ficha. O pote de 900 g da Integralmédica custava R$ 240,00, R$ 26,67 por 100 g de produto; a tabela dele não foi lida, e por isso ele fica fora da conta por proteína. Nos sabores chocolate e cookies and cream, a tabela da Integralmédica traz 20 g de proteína por porção: o pouch de 900 g sobe para R$ 37,83 por 100 g de proteína e o de 1,8 kg, para R$ 33,67.",
+          "Nos isolados, o [IsoWhey de 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) custava R$ 326,18, com 26 g de proteína em 30 g e 30 porções: R$ 41,82 por 100 g de proteína, ou R$ 37,64 com o cupom no teto. O Whey Protein Isolado de 900 g da Integralmédica custava R$ 483,00, R$ 53,67 por 100 g de produto contra R$ 36,24 do IsoWhey; a tabela dele não foi lida. A comparação do IsoWhey com outro isolado está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
         ]
       },
       {
         "heading": "O que o rótulo diz",
         "paragraphs": [
           "Os três wheys concentrados da Max desta tabela listam proteína concentrada do soro do leite (WPC), aromatizante, emulsificante lecitina de soja e edulcorante sucralose, e a ficha diz que não contêm glúten. O pouch de 900 g da Integralmédica, no sabor baunilha, lista proteína de soro do leite concentrada, aromatizante e edulcorante sucralose; o rótulo diz que contém leite, derivados de leite e soja, contém lactose e não contém glúten. No adoçante, as duas marcas se igualam, e a conta de preço não muda por isso.",
-          "Na creatina, os potes de 300 g e de 500 g da Max listam creatina monohidratada e antiumectante dióxido de silício, sem glúten, com dose de 5 g (5.000 mg) e 60 ou 100 porções. A Creatina 100% Pura pouch de 1 kg da Integralmédica lista só creatina monohidratada, sem glúten, com a mesma dose de 5 g. \"100% Pura\" é o nome do produto, não um selo de pureza, e o texto não usa a palavra como qualidade. A tabela dos potes de 300 g e de 500 g da Integralmédica não foi lida em 28/10."
+          "Na creatina, os potes de 300 g e de 500 g da Max listam creatina monohidratada e antiumectante dióxido de silício, sem glúten, com dose de 5 g (5.000 mg) e 60 ou 100 porções. A Creatina 100% Pura pouch de 1 kg da Integralmédica lista só creatina monohidratada, sem glúten, com a mesma dose de 5 g. \"100% Pura\" é o nome do produto, não um selo de pureza, e o texto não usa a palavra como qualidade. A tabela dos potes de 300 g e de 500 g da Integralmédica não foi lida."
         ],
         "images": [
           {
@@ -146581,7 +146560,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g de produto",
         "paragraphs": [
-          "A tabela compara as creatinas monohidratadas por 100 g de produto, nos tamanhos de 300 g, 500 g e 1 kg. Os preços são do site de cada marca, lidos em 28/10/2026, no cartão. O pouch de 1 kg da Integralmédica custava R$ 156,00 em 25/10 e R$ 125,00 em 28/10, então a diferença para a Max mudou de uma leitura para a outra: confira o preço do dia antes de comprar."
+          "A tabela compara as creatinas monohidratadas por 100 g de produto, nos tamanhos de 300 g, 500 g e 1 kg. Os preços são do site de cada marca, lidos no cartão. O pouch de 1 kg da Integralmédica custava R$ 156,00 e passou a R$ 125,00 entre duas leituras nossas, então a diferença para a Max mudou de uma leitura para a outra: confira o preço do dia antes de comprar."
         ],
         "images": [
           {
@@ -146667,17 +146646,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Max Titanium ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína em 28/10/2026, o 100% Whey Refil da Max: R$ 31,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. Com o cupom no teto, o Refil cai para R$ 28,06. O sabor fica de fora, porque ninguém da equipe provou os produtos.",
+          "Max Titanium ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína, o 100% Whey Refil da Max: R$ 31,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. Com o cupom no teto, o Refil cai para R$ 28,06. O sabor fica de fora, porque ninguém da equipe provou os produtos.",
           "Creatina Max Titanium ou Integralmédica, qual é melhor? Pelo preço por 100 g de produto no cartão, a Integralmédica: o pouch de 1 kg sai por R$ 12,50 e o Hardcore de 500 g por R$ 16,60, contra R$ 17,51 do pote de 500 g da Max. Com o cupom da Max no teto, o pote de 500 g cai para R$ 15,76, abaixo do Hardcore e acima do pouch de 1 kg. Os dois rótulos lidos declaram creatina monohidratada e dose de 5 g.",
           "O whey da Integralmédica tem sucralose? Sim. A lista de ingredientes do pouch de 900 g, sabor baunilha, traz edulcorante sucralose. Os wheys concentrados da Max desta comparação também listam sucralose.",
           "Quantas gramas de proteína tem o whey da Max e o da Integralmédica? O 100% Whey da Max, no Refil e no Pote de 900 g, traz 21 g em cada porção de 30 g, e o Whey Pro de 1 kg, 15 g em 40 g. O pouch da Integralmédica, no sabor baunilha, traz 21 g em 30 g; no chocolate e no cookies and cream, 20 g.",
           "A Integralmédica tem cupom? Não neste site. A Integralmédica não é parceira, e o MAX10EMCASACOMCECILIA vale só na Max Titanium."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Podemos receber comissão pelas compras feitas com o cupom MAX10EMCASACOMCECILIA. A Integralmédica não é parceira: não há link, cupom, foto nem print dela neste texto. Não provamos os produtos; a comparação usa o que as lojas publicam, com a data da leitura, 28/10/2026."
         ]
       }
     ],
@@ -146691,7 +146664,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAX10EMCASACOMCECILIA",
     "affiliate": "max-titanium",
-    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom MAX10EMCASACOMCECILIA.",
+    "editorialNote": "Podemos receber comissão pelo cupom MAX10EMCASACOMCECILIA. A Integralmédica não é parceira, e ninguém da equipe provou os produtos.",
     "relatedArticles": [
       {
         "slug": "black-skull-ou-integralmedica",
