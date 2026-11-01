@@ -8,6 +8,7 @@ import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
+import { assertBuildChainFiles } from './build-chain.mjs';
 import { checkArchiveSize, DEFAULT_MAX_BYTES, DEFAULT_WARNING_BYTES } from './check-archive-size.mjs';
 import { assertDeployPreflight, assertProductionSha, assertProductionTar } from './preflight.mjs';
 import { parseReleaseIdentity } from '../content/release-identity.mjs';
@@ -81,6 +82,7 @@ export function createAttestedArchive({
       cwd: temp,
       stdio: 'inherit',
     });
+    assertBuildChainFiles(path.join(staging, 'emcasacomcecilia'));
     assertArchiveMedia(path.join(staging, 'emcasacomcecilia'));
     assertGitMediaRecovery(path.join(staging, 'emcasacomcecilia'), repoDir, targetSha);
     writeFileSync(
