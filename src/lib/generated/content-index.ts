@@ -120693,7 +120693,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/skelt/cupom-skelt-preco-mousse.webp",
             "alt": "Página do Mousse Autobronzeador na Skelt com o preço De R$ 119,90 e por R$ 102,51 no Pix",
-            "caption": "Preço do mousse na página do produto em 21/10/2026, antes do cupom.",
+            "caption": "Preço do mousse na página do produto, antes do cupom.",
             "objectFit": "contain",
             "aspectRatio": 2.8655
           }
@@ -120708,7 +120708,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/skelt/cupom-skelt-sacola-com-cupom.webp",
             "alt": "Sacola da Skelt com o cupom SKEMCASACOMCECILIA aplicado no campo Cupom de desconto, com a linha do produto já com o desconto e o resumo ao lado",
-            "caption": "Sacola em 21/10/2026, com o cupom aplicado.",
+            "caption": "Sacola com o cupom aplicado.",
             "objectFit": "contain",
             "aspectRatio": 1.8203
           }
@@ -120717,13 +120717,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confira o resumo antes de escolher o pagamento",
         "paragraphs": [
-          "O resumo mostra a linha de descontos, que junta a promoção do site, o cupom e o Pix. No teste, os descontos foram de R$ 17,39 sem o cupom para R$ 27,64 com ele. Veja a conta completa mais abaixo."
+          "O resumo mostra a linha de descontos, que junta a promoção do site, o cupom e o Pix. Confira se a linha de descontos sobe depois do OK; a conta completa está mais abaixo."
         ],
         "images": [
           {
             "src": "/images/reviews/skelt/cupom-skelt-sem-e-com-cupom.webp",
             "alt": "Dois resumos da sacola lado a lado: sem o cupom, Descontos de R$ 17,39; com o cupom SKEMCASACOMCECILIA, Descontos de R$ 27,64",
-            "caption": "Mesmo recorte da sacola, sem e com o cupom, em 21/10/2026.",
+            "caption": "Mesmo recorte da sacola, sem e com o cupom.",
             "objectFit": "contain",
             "aspectRatio": 1.738
           }
@@ -120733,13 +120733,13 @@ export const reviewsData: unknown[] = [
         "heading": "5. Escolha o Pix ou o cartão",
         "paragraphs": [
           "No Pix, a loja tira mais 5% sobre o total que já tem o cupom: no teste, R$ 97,12 caíram para R$ 92,26. No cartão, a sacola mostra R$ 97,12 com o cupom aplicado.",
-          "Não testamos Apple Pay, Vale ou Pagaleve, por isso o texto fala só em Pix e cartão. Também não citamos número de parcelas, porque o parcelamento muda por produto."
+          "Não testamos Apple Pay, Vale ou Pagaleve, e o parcelamento muda por produto: se for pagar assim, confira o resumo antes de fechar."
         ]
       },
       {
         "heading": "O que aconteceu no nosso teste",
         "paragraphs": [
-          "Em 21/10/2026, montamos um carrinho com um mousse autobronzeador até a sacola, sem identificação e sem finalizar a compra. Não houve compra."
+          "Em 21/10/2026, montamos um carrinho com um mousse autobronzeador até a sacola, sem identificação e sem finalizar a compra."
         ],
         "comparisonTable": {
           "headers": [
@@ -120781,7 +120781,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/skelt/cupom-skelt-capa.webp",
           "alt": "Desenho do caminho do cupom SKEMCASACOMCECILIA na Skelt em três passos: campo Cupom de desconto, botão OK e resumo com o total, com as contas do teste de 21/10/2026",
-          "caption": "O caminho do cupom em três passos, com as contas do teste de 21/10/2026.",
+          "caption": "O caminho do cupom em três passos, com as contas do teste.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -120789,7 +120789,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis e o cupom",
         "paragraphs": [
-          "A Skelt dá frete grátis conforme a região e o valor final do pedido. Segundo a política de frete lida em 21/10/2026:"
+          "A Skelt dá frete grátis conforme a região e o valor final do pedido. Segundo a política de frete da loja:"
         ],
         "comparisonTable": {
           "headers": [
@@ -120812,7 +120812,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Como o mínimo vale sobre o valor final, um desconto pode deixar o pedido abaixo da faixa da sua região. Não conferimos na sacola de teste como o frete aparece antes do CEP, então não comparamos o frete com e sem o cupom. Antes de pagar, veja o frete no resumo."
+          "Como o mínimo vale sobre o valor final, um desconto pode deixar o pedido abaixo da faixa da sua região. Se o pedido está perto do mínimo da sua região, confira o frete no resumo depois de aplicar o cupom."
         ]
       },
       {
@@ -120820,13 +120820,6 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O valor mínimo dos brindes da Skelt conta o pedido depois dos descontos, segundo a política de brindes. Por isso, o cupom e o Pix podem tirar o brinde da sacola. O brinde muda com a campanha, e na sacola do teste com o mousse não apareceu nenhuma linha de brinde.",
           "O cupom soma com as promoções vigentes do site. Confira o carrinho antes de pagar."
-        ]
-      },
-      {
-        "heading": "O que não testamos",
-        "paragraphs": [
-          "Não testamos o cupom com conta já cadastrada nem com conta nova, então não dizemos se ele vale para os dois casos: confira no checkout, depois de aplicar o código.",
-          "Também não testamos kits e combos na tela da sacola, nem Apple Pay, Vale ou Pagaleve. Não finalizamos nenhuma compra."
         ]
       },
       {
@@ -120845,7 +120838,7 @@ export const reviewsData: unknown[] = [
           "O cupom soma com o PRIMEIRA10? Não. A Skelt aceita um cupom por pedido: no nosso teste, aplicar o PRIMEIRA10 trocou o SKEMCASACOMCECILIA.",
           "O cupom tira o brinde? Pode tirar. O valor mínimo dos brindes conta o pedido depois dos descontos, então o cupom e o Pix podem deixar o total abaixo da faixa.",
           "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial da Skelt. No Mercado Livre, vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link de compra da marca](https://meli.la/2unTb7k), que abre antes a página da Cecília no Mercado Livre, como todo link meli.la.",
-          "O cupom dá frete grátis? Depende da região e do valor final do pedido, já com o cupom: sem mínimo em 12 cidades, a partir de R$ 199 no Sul, Sudeste e Centro-Oeste e a partir de R$ 299 no Norte e Nordeste.",
+          "O cupom dá frete grátis? Depende da região e do valor final do pedido, já com o cupom: veja a tabela de frete acima antes de pagar.",
           "Onde coloco o cupom na Skelt? Na sacola, no campo \"Cupom de desconto\", abaixo do CEP, e depois clique em OK, antes de escolher a forma de pagamento.",
           "O cupom vale para quem já tem conta? Não testamos. Confira no checkout, depois de aplicar o código."
         ]
