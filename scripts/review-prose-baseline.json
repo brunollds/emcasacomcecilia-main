@@ -1,8 +1,4 @@
 {
-  "autobronzeador-skelt-qual-escolher": {
-    "bodyDates": 14,
-    "datesOutsideBody": 3
-  },
   "barra-de-proteina-mais-mu-qual-escolher": {
     "transparencySection": true,
     "bodyDates": 8,
@@ -27,10 +23,6 @@
     "bodyDates": 27,
     "datesOutsideBody": 8
   },
-  "black-friday-skelt": {
-    "bodyDates": 12,
-    "datesOutsideBody": 10
-  },
   "black-friday-toda-up": {
     "bodyDates": 19,
     "datesOutsideBody": 9
@@ -48,35 +40,6 @@
     "transparencySection": true,
     "bodyDates": 16,
     "datesOutsideBody": 2
-  },
-  "body-splash-skelt-milos-breeze": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 6,
-    "datesOutsideBody": 3
-  },
-  "body-splash-skelt-qual-escolher": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 21,
-    "datesOutsideBody": 5
-  },
-  "body-splash-skelt-solar-muse": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 8,
-    "datesOutsideBody": 2
-  },
-  "brinde-skelt-30-outubro-cupom": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 10,
-    "datesOutsideBody": 3
-  },
-  "bronzeado-instantaneo-skelt-ou-autobronzeador": {
-    "quickAnswerPrice": true,
-    "bodyDates": 5,
-    "datesOutsideBody": 1
   },
   "cafe-au-lait-dolce-gusto": {
     "transparencySection": true,
@@ -154,17 +117,6 @@
   },
   "guia-linha-ninho-nestle-leite-vs-composto-lacteo": {
     "bodyDates": 4,
-    "datesOutsideBody": 1
-  },
-  "hidratante-corporal-skelt-qual-fragrancia": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 5,
-    "datesOutsideBody": 2
-  },
-  "iluminador-corporal-skelt-como-usar": {
-    "quickAnswerPrice": true,
-    "bodyDates": 3,
     "datesOutsideBody": 1
   },
   "insider-store-e-confiavel": {
@@ -251,10 +203,6 @@
     "bodyDates": 4,
     "datesOutsideBody": 2
   },
-  "removedor-autobronzeador-skelt-como-tirar": {
-    "quickAnswerPrice": true,
-    "bodyDates": 4
-  },
   "shein-11-11-selecao-da-cecilia": {
     "transparencySection": true,
     "bodyDates": 3,
@@ -267,19 +215,6 @@
   "shein-ou-shopee-temu": {
     "bodyDates": 10,
     "datesOutsideBody": 4
-  },
-  "skelt-e-confiavel": {
-    "bodyDates": 6,
-    "datesOutsideBody": 3
-  },
-  "skelt-ou-best-bronze": {
-    "transparencySection": true,
-    "bodyDates": 9,
-    "datesOutsideBody": 1
-  },
-  "skelt-reclame-aqui-nota-reputacao": {
-    "bodyDates": 14,
-    "datesOutsideBody": 10
   },
   "sofa-na-caixa-crise-reclamacoes-procon-sp": {
     "transparencySection": true,
