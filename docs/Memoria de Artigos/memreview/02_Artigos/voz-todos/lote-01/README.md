@@ -1,4 +1,4 @@
-# Rodada de voz, lote 01 (35 artigos, ids 8 a 43)
+# Rodada de voz, lote 01 (35 artigos, ids 8 a 245)
 
 Primeiro dos 8 lotes da rodada de voz em todos os 275 artigos PT, do mais antigo ao mais novo. A régua é o `Anexo-Voz-da-Cecilia.md`, o Job 2 seção 5 (primeira frase decide, veredito pessoal com a trava por tipo) e o Job 3 (C12, C13).
 
