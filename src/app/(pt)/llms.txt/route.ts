@@ -17,15 +17,18 @@ function cleanText(value: unknown): string {
   return String(value ?? '')
     .replace(/\s+/g, ' ')
     .replace(/\|/g, '-')
+    .replace(/\[/g, '(')
+    .replace(/\]/g, ')')
     .trim();
 }
 
+// Link em markdown, `- [nome](url): descrição`, o formato da especificação do llms.txt.
 function formatLink(label: string, href: string, description?: string): string {
   const safeLabel = cleanText(label);
   const safeDescription = cleanText(description);
-  const suffix = safeDescription ? ` - ${safeDescription}` : '';
+  const suffix = safeDescription ? `: ${safeDescription}` : '';
 
-  return `- ${safeLabel}: ${href}${suffix}`;
+  return `- [${safeLabel}](${href})${suffix}`;
 }
 
 function buildLlmsText(): string {

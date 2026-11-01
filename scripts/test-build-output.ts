@@ -523,15 +523,30 @@ assert.deepEqual(
   'sitemap.xml sem uma das lojas traduzidas'
 );
 
-const llmsUrls = [...read(path.join(APP_DIR, 'llms.txt.body')).matchAll(/https:\/\/emcasacomcecilia\.com\S*/g)].map(
+const llmsUrls = [...read(path.join(APP_DIR, 'llms.txt.body')).matchAll(/https:\/\/emcasacomcecilia\.com[^\s)]*/g)].map(
   ([url]) => url
 );
 assert.deepEqual(withoutPage(llmsUrls), [], 'llms.txt com URL sem página no build');
 // "Reviews e guias recentes": os 20 artigos PT listados mais novos, com o id desempatando o mesmo dia
 // (num dia com 10+ artigos, sem o desempate o corte caía pela ordem do manifesto).
 const llmsBody = read(path.join(APP_DIR, 'llms.txt.body'));
+// Todo item com URL é link em markdown, `- [nome](url)`, com a descrição depois de ": ".
+const llmsBadLinks = llmsBody
+  .split('\n')
+  .filter((line) => line.startsWith('- ') && line.includes('https://'))
+  .filter((line) => !/^- \[[^[\]]+\]\(https:\/\/[^\s)]+\)(: .+)?$/.test(line));
+assert.deepEqual(llmsBadLinks.slice(0, 3), [], 'llms.txt: link fora do formato markdown');
+
+// Contato da Organization: e-mail e Telegram, sem telefone nem endereço (o único endereço é residencial).
+const homeOrganization = jsonLdOf(read(path.join(APP_DIR, 'index.html'))).find((schema) => schema['@type'] === 'Organization');
+assert.deepEqual(
+  homeOrganization?.contactPoint?.map(({ email, url }) => email ?? url),
+  [brandLinks.contactEmail, brandLinks.telegram],
+  'Organization: contatos da home'
+);
+assert.ok(!('telephone' in homeOrganization) && !('address' in homeOrganization), 'Organization com telefone ou endereço');
 const llmsRecentReviews = [
-  ...(llmsBody.split('## Reviews e guias recentes')[1]?.split('\n## ')[0] ?? '').matchAll(/https:\/\/emcasacomcecilia\.com\S*/g),
+  ...(llmsBody.split('## Reviews e guias recentes')[1]?.split('\n## ')[0] ?? '').matchAll(/https:\/\/emcasacomcecilia\.com[^\s)]*/g),
 ].map(([url]) => url);
 const expectedRecentReviews = publishedReviews
   .filter((review) => (review.locale ?? 'pt') === 'pt' && !review.draft && !review.hideFromListings && !review.hideFromPortugueseListings)
@@ -543,7 +558,7 @@ assert.deepEqual(llmsRecentReviews, expectedRecentReviews, 'llms.txt: reviews re
 for (const locale of LOCALE_KEYS.filter((key) => key !== 'pt')) {
   const heading = `## Artigos recentes em ${LOCALES[locale].label} (${locale})`;
   const section = llmsBody.split(heading)[1]?.split('\n## ')[0] ?? '';
-  const sectionReviews = [...section.matchAll(/https:\/\/emcasacomcecilia\.com\S*/g)]
+  const sectionReviews = [...section.matchAll(/https:\/\/emcasacomcecilia\.com[^\s)]*/g)]
     .map(([url]) => url)
     .filter((url) => url.includes('/reviews/'));
   const expected = publishedReviews
