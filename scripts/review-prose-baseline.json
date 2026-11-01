@@ -9,11 +9,6 @@
     "bodyDates": 7,
     "datesOutsideBody": 4
   },
-  "black-friday-magalu": {
-    "quickAnswerPrice": true,
-    "bodyDates": 12,
-    "datesOutsideBody": 8
-  },
   "black-skull-ou-growth": {
     "transparencySection": true,
     "bodyDates": 10,
@@ -44,10 +39,6 @@
     "bodyDates": 6,
     "datesOutsideBody": 3
   },
-  "cupom-magalu-em-casa-com-cecilia": {
-    "quickAnswerPrice": true,
-    "datesOutsideBody": 1
-  },
   "cupom-skelt-como-usar": {
     "datesOutsideBody": 4
   },
@@ -71,10 +62,6 @@
   "lets-eat-it-reclame-aqui-nota-reputacao": {
     "bodyDates": 6,
     "datesOutsideBody": 7
-  },
-  "magazine-voce-e-confiavel": {
-    "bodyDates": 10,
-    "datesOutsideBody": 10
   },
   "max-titanium-ou-dux": {
     "quickAnswerPrice": true,
