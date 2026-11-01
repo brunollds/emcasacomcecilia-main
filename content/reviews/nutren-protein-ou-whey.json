@@ -110,8 +110,8 @@
     {
       "heading": "Nutren Protein ou YoPRO",
       "paragraphs": [
-        "Aqui a comparação direta é entre bebidas prontas. As duas bebidas prontas têm a mesma proteína na embalagem, mas a YoPRO de chocolate pesa mais em calorias e açúcares (números na tabela acima). Nas duas tabelas os açúcares adicionados são 0 g, e as duas trazem lactose 0 g. Pelas páginas oficiais, a linha de 15 g da YoPRO tem chocolate, morango e coco com batata doce.",
-        "O pó do Nutren Protein é outra coisa: você prepara, ele tem cafeína e o número de 20 g depende do leite. A linha UHT da YoPRO, segundo a marca, não precisa de refrigeração."
+        "Entre as bebidas prontas, as duas têm a mesma proteína, mas a YoPRO de chocolate pesa mais em calorias e açúcares. Nas duas tabelas os açúcares adicionados são 0 g, e as duas trazem lactose 0 g. Pelas páginas oficiais, a linha de 15 g da YoPRO tem chocolate, morango e coco com batata doce.",
+        "O pó do Nutren Protein é outra coisa: você prepara, ele tem cafeína e o número de 20 g depende do leite. A linha UHT da YoPRO não precisa de refrigeração, informa a marca."
       ]
     },
     {
@@ -181,6 +181,7 @@
       "paragraphs": [
         "Não existe um melhor no rótulo: cada produto serve a uma necessidade diferente, e a quantidade certa é assunto para o médico ou o nutricionista."
       ],
+      "emphasis": "Pelos números da tabela, para quem quer só a proteína do soro a escolha é o Just Protein, porque ele traz 13 g de proteína em 15 g com açúcares em 0 g.",
       "bullets": [
         "Quer só a proteína do soro do leite, com carboidratos e açúcares em 0 g na tabela: o Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", com 13 g de proteína em 15 g.",
         "Quer um suplemento com vitaminas e minerais: o Nutren Protein em pó, com 14 g de proteína em 31,5 g, mas também 80 mg de cafeína, lactose e glúten.",
@@ -217,6 +218,17 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
+  "decision": {
+    "takeIf": [
+      "Você quer só a proteína do soro, sem sabor, com carboidratos e açúcares em 0 g na tabela.",
+      "Você quer evitar cafeína e glúten: a tabela do Just Protein não lista cafeína e a loja o marca como sem glúten."
+    ],
+    "skipIf": [
+      "Você quer vitaminas e minerais junto da proteína: aí é o Nutren Protein em pó.",
+      "Você quer bebida pronta: a garrafa de 260 ml do Nutren Protein ou a YoPRO.",
+      "Você tem 50 anos ou mais: veja a linha Nutren Senior e confirme na embalagem."
+    ]
+  },
   "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas oficiais informam.",
   "relatedArticles": [
     {

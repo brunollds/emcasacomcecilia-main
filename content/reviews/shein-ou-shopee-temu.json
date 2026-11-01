@@ -37,7 +37,7 @@
     {
       "heading": "SHEIN, Shopee, Temu e AliExpress lado a lado",
       "paragraphs": [
-        "Este artigo não mede preço nem testa entregas: a tabela abaixo junta o que cada loja publica e o que o Reclame Aqui mostra, para você decidir pela sua compra.",
+        "O que separa as quatro é devolução e prazo: a tabela junta as regras que cada loja publica e a nota no Reclame Aqui.",
         "Os números vêm das regras que cada loja publica no Brasil e do Reclame Aqui dos últimos seis meses. A nota do Reclame Aqui mede o atendimento a quem reclama, não a qualidade do produto."
       ],
       "comparisonTable": {
@@ -91,7 +91,7 @@
     {
       "heading": "O imposto não decide a escolha",
       "paragraphs": [
-        "A SHEIN, a Shopee e o AliExpress publicam a mesma regra para compra internacional: ICMS de 17% a 20% conforme o estado e imposto de importação zero nos pedidos de até US$ 50. Acima disso, ele volta.",
+        "A SHEIN, a Shopee e o AliExpress publicam a mesma regra para compra internacional: ICMS de 17% a 20%, variando por estado, e imposto de importação zero nos pedidos de até US$ 50. Acima disso, ele volta.",
         "O que muda o imposto é de onde a peça sai. Produto que já está no Brasil, como o Envio Nacional da SHEIN, não paga imposto de importação. A Temu não publica a alíquota nas páginas de envio e de devolução, e avisa que o imposto de importação não volta no reembolso. A tabela do imposto e um exemplo de cálculo estão no guia de Black Friday da SHEIN."
       ],
       "links": [
@@ -123,7 +123,7 @@
     {
       "heading": "O que o Reclame Aqui mostra",
       "paragraphs": [
-        "A tabela traz a nota e o volume de reclamações de cada loja; abaixo dela, o que muda a leitura."
+        "A SHEIN lidera e a Temu fecha a fila, mas a nota mede atendimento, não qualidade do produto."
       ],
       "comparisonTable": {
         "caption": "Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress, nos seis meses até 30/09/2026.",
@@ -188,6 +188,7 @@
     },
     {
       "heading": "Qual escolher, conforme a compra",
+      "emphasis": "Pelos números da tabela, para quem compra roupa sem provar a escolha é a Temu, porque dá 90 dias para devolver.",
       "bullets": [
         "**Quer poder devolver com folga:** Temu, com 90 dias da compra, ou SHEIN, com 20 dias do recebimento; Shopee e AliExpress dão 7 dias.",
         "**Precisa receber até uma data:** confira o prazo na página do produto ou do pedido. Na Shopee, ele muda de vendedor para vendedor; no AliExpress, a página da peça traz a data estimada e o reembolso se o pedido não chegar em 50 dias.",

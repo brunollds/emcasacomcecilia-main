@@ -33,7 +33,7 @@
     {
       "heading": "Os travesseiros lado a lado",
       "paragraphs": [
-        "Comparamos o Snow, o Coluna Relax e o Original Látex da I Wanna Sleep, quatro modelos da Emma e dois da Ortobom. Não testamos os travesseiros: preços e condições são dos sites oficiais em 12/10/2026 e mudam com as promoções, então confira o teste e a troca no site de cada marca antes de comprar."
+        "Comparamos o Snow, o Coluna Relax e o Original Látex da I Wanna Sleep, quatro modelos da Emma e dois da Ortobom. Preços e condições são dos sites oficiais em 12/10/2026 e mudam com as promoções, então confira o teste e a troca no site de cada marca antes de comprar."
       ],
       "comparisonTable": {
         "caption": "Dados dos sites oficiais em 12/10/2026, sem códigos de desconto. Na Emma, é o preço exibido na lista de travesseiros.",
@@ -166,7 +166,7 @@
     {
       "heading": "Ortobom: preço menor, teste não informado",
       "paragraphs": [
-        "Na categoria de travesseiros viscoelásticos da Ortobom, o Viscopur custa R$ 169 e o Conforto Regulável, R$ 159. O Viscopur é de espuma viscoelástica, com conforto firme. O Conforto Regulável, apesar de estar na mesma categoria, é de fibra siliconada, macio e com altura regulável.",
+        "A Ortobom é a mais barata dos três e não informa teste em casa: o Viscopur custa R$ 169 e o Conforto Regulável, R$ 159. O Viscopur é de espuma viscoelástica, com conforto firme. O Conforto Regulável, apesar de estar na mesma categoria, é de fibra siliconada, macio e com altura regulável.",
         "As páginas dos dois informam garantia de 90 dias e não falam em noites de teste. A categoria tem outros modelos; olhamos só estes dois."
       ]
     },
@@ -174,7 +174,7 @@
       "heading": "Teste, troca e garantia",
       "bullets": [
         "I Wanna Sleep: 30 dias de teste nos travesseiros, com pelo menos 15 dias de uso. Se você não se adaptar, recebe crédito para trocar por outro produto do site, sem custo de frete. Vale só para compras no site oficial, com a nota fiscal.",
-        "Emma: 14 noites de teste e 6 meses de garantia. Se você não se adaptar, a Emma recolhe o travesseiro e devolve o valor total, segundo o site.",
+        "Emma: 14 noites de teste e 6 meses de garantia. Se você não se adaptar, a Emma recolhe o travesseiro e devolve o valor total, informa o site.",
         "Ortobom: garantia de 90 dias nas páginas do Viscopur e do Conforto Regulável; as páginas não informam noites de teste."
       ],
       "image": {
@@ -193,12 +193,13 @@
         "Quer poder devolver e receber o dinheiro: Emma, com 14 noites.",
         "Quer gastar menos: Ortobom, que não informa teste em casa nos dois modelos que consultamos.",
         "Dorme de lado: a Emma lembra que essa posição costuma pedir travesseiro mais alto. Dá para deixar mais enchimento no Snow ou escolher o Antiestress, que a Emma indica para quem dorme de lado."
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria o Snow, porque a altura se ajusta tirando o enchimento e o teste é de 30 dias."
     },
     {
       "heading": "Preço e cupom da I Wanna Sleep",
       "paragraphs": [
-        "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% de desconto no site da marca, e o desconto pode variar conforme a campanha. Emma e Ortobom não são parceiras do site, e não temos código para elas."
+        "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% de desconto no site da marca, e o desconto pode variar de uma campanha para outra. Emma e Ortobom não são parceiras do site, e não temos código para elas."
       ],
       "links": [
         {
@@ -241,7 +242,18 @@
   },
   "coupon": "CECIEMCASA",
   "affiliate": "i-wanna-sleep",
-  "editorialNote": "Podemos receber comissão pela I Wanna Sleep. Emma e Ortobom não são parceiras.",
+  "decision": {
+    "takeIf": [
+      "Você quer ajustar a altura em casa, tirando enchimento ou camadas.",
+      "Você quer um teste de 30 dias, com crédito para troca no site da marca."
+    ],
+    "skipIf": [
+      "Você quer teste com o dinheiro de volta: a Emma recolhe e reembolsa em 14 noites.",
+      "Você quer gastar menos e abre mão do teste em casa: os dois modelos da Ortobom consultados não informam teste.",
+      "Você tem dor no pescoço que não passa: procure um ortopedista ou fisioterapeuta antes da troca."
+    ]
+  },
+  "editorialNote": "Podemos receber comissão pela I Wanna Sleep. Emma e Ortobom não são parceiras. Sem teste próprio: preços e condições dos sites oficiais.",
   "relatedArticles": [
     {
       "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",

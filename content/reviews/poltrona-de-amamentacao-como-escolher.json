@@ -48,7 +48,7 @@
     {
       "heading": "O que observar no corpo da poltrona",
       "paragraphs": [
-        "Dá para avaliar quase tudo com uma fita métrica e alguns minutos sentada, na loja ou na ficha técnica do anúncio. Estes são os pontos que fazem diferença no dia a dia:"
+        "O que decide é o apoio de braço, costas, cabeça e pés ao mesmo tempo: dá para avaliar quase tudo com uma fita métrica e alguns minutos sentada. Estes são os pontos que fazem diferença no dia a dia:"
       ],
       "bullets": [
         "Braços firmes e na altura certa. O antebraço apoiado sustenta o peso do bebê. Braço baixo demais ou macio demais faz o ombro e o pescoço trabalharem a mamada inteira. Almofada de amamentação ajuda, mas não substitui um braço bem posicionado.",
@@ -98,10 +98,10 @@
     {
       "heading": "Poltrona de amamentação para quarto pequeno",
       "paragraphs": [
-        "Quarto de bebê costuma ser o menor da casa, e a poltrona disputa espaço com berço, cômoda e trocador. Antes de comprar, marque no chão com fita crepe o espaço que ela ocupa aberta, não fechada.",
+        "Quarto de bebê costuma ser o menor da casa: marque no chão com fita crepe o espaço que a poltrona ocupa aberta, não fechada.",
         "Na poltrona com puff, o puff solto fica no chão o tempo todo e vira obstáculo no escuro, na hora de levar o bebê ao berço. Uma poltrona compacta com puff que mostramos abaixo mede 90 cm de largura e 68 cm de profundidade, e o puff soma mais 45 por 38 cm.",
         "Na reclinável, o apoio de pés sai da própria poltrona e recolhe quando fechada, mas aberta ela pede bem mais espaço. A DAMIE 2.0 mede 106 cm de altura, 89 cm de largura e 95 cm de profundidade, e totalmente reclinada chega a 174 cm de comprimento. A versão com giro precisa ainda de folga nas laterais para girar sem bater na parede ou na cômoda.",
-        "Confira também a passagem. Segundo a DAMIE, a poltrona chega em caixa e, se a porta tiver menos de 80 cm, dá para passar primeiro o encosto e depois a base, o que funciona em portas a partir de 65 cm. E as reclináveis elétricas precisam de tomada perto: planeje o lugar para o fio não atravessar o caminho."
+        "Confira também a passagem. A DAMIE diz que a poltrona chega em caixa e, se a porta tiver menos de 80 cm, dá para passar primeiro o encosto e depois a base, o que funciona em portas a partir de 65 cm. E as reclináveis elétricas precisam de tomada perto: planeje o lugar para o fio não atravessar o caminho."
       ],
       "image": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
       "imageAlt": "Desenho com as medidas da poltrona reclinável DAMIE 2.0 fechada e totalmente reclinada",
@@ -112,7 +112,7 @@
     {
       "heading": "As três faixas de preço, da poltrona barata à reclinável elétrica",
       "paragraphs": [
-        "No mercado, a poltrona de amamentação se divide em três grupos. Não existe um certo para todo mundo: depende do orçamento, do espaço e de quanto tempo você pretende usar a poltrona depois que a fase de amamentação passar. Os preços abaixo mudam com frequência.",
+        "A poltrona de amamentação se divide em três grupos, e nenhum é certo para todo mundo: depende do orçamento, do espaço e do uso depois da amamentação. Os preços abaixo mudam com frequência.",
         "Poltrona fixa com puff. É a porta de entrada. Um exemplo é a poltrona com puff da Dreamy House vendida na Amazon: estrutura de eucalipto, revestimento em suede, puff com pés de rosca, sem balanço, por R$ 469 (R$ 445,55 no Pix). Atende quem precisa gastar pouco, mas a garantia do fabricante é de 3 meses, e há avaliações de compradores relatando assento que deforma rápido. Leia as avaliações antes de decidir.",
         "Poltrona com balanço e puff. É a mais procurada nos marketplaces. No Mercado Livre, a maioria dos modelos com balanço e puff estava entre R$ 550 e R$ 1.000. A Áquila, com balanço e puff, é um dos modelos mais conhecidos e custava R$ 862 na versão bege. Antes de comprar, compare medidas, revestimento, prazo de garantia e as avaliações sobre barulho no balanço.",
         "Reclinável elétrica com giro e balanço. É o grupo da DAMIE, que vende a reclinável elétrica com base de giro e balanço nas versões 1.0 e 2.0, de R$ 4.299 a R$ 5.699 conforme o revestimento. Você reclina o encosto e levanta o apoio de pés por botão, sem fazer força, até 145°, e ainda tem giro de 180° e balanço. A marca dá 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. Custa bem mais, e a lógica é outra. A poltrona de amamentação tradicional costuma ser usada por um ou dois anos e depois fica no quarto da criança como decoração. A reclinável continua na sala depois da amamentação e, com opcionais como mesa de apoio, luminária e carregador de celular, vira canto de trabalho, leitura ou cinema."
@@ -262,6 +262,8 @@
         "Se você quer uma poltrona para continuar usando depois, na sala, para ler, trabalhar ou ver filme, ou se reclinar sem esforço é importante para você, a reclinável elétrica com giro e balanço é a escolha que vai durar mais na casa.",
         "Antes de fechar a compra, passe por este checklist:"
       ],
+      "emphasis": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela vira poltrona de sala depois da amamentação.",
+      "emphasisAfterParagraph": 3,
       "bullets": [
         "Medi o espaço com a poltrona aberta, contando o puff ou o apoio de pés?",
         "O braço fica na altura certa para apoiar o bebê no peito?",
@@ -299,6 +301,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você quer uma poltrona que continue útil na sala depois da amamentação, para ler, trabalhar ou ver filme.",
+      "Você quer apoio de braço, costas, cabeça e pés ao mesmo tempo nas mamadas longas.",
+      "O quarto comporta a poltrona aberta, contando o puff ou o apoio de pés."
+    ],
+    "skipIf": [
+      "O uso vai ser só na fase de amamentação e o orçamento está apertado: uma poltrona fixa ou com balanço e puff cumpre o papel.",
+      "Não há tomada perto do lugar escolhido: a elétrica fica de fora."
+    ]
+  },
   "cta": {
     "text": "Se a reclinável com giro e balanço é a sua escolha, monte a sua no site da DAMIE e use o cupom CECILIA12 para ter 12% OFF.",
     "label": "Ver o cupom CECILIA12 e ir para a DAMIE",

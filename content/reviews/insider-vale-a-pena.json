@@ -76,7 +76,7 @@
       "heading": "Tech T-Shirt: o que a Insider publica",
       "paragraphs": [
         "A Tech T-Shirt é de 92% modal e 8% elastano (a cor Índigo tem 62% modal, 30% viscose e 8% elastano), num tecido que a Insider chama de INTECH. A gramatura, 185 g/m², não está no texto da página: aparece na imagem que abre no botão \"Compare entre peças Insider\".",
-        "A garantia é de 2 anos contra desbotamento, para peças compradas desde 06/09/2024, \"desde que seguidas as instruções da etiqueta, considerando uma lavagem por semana\", e, segundo a página, cobre só o desbotamento por lavagem. Os cuidados pedidos são ciclo delicado até 30 °C, sabão neutro, sem deixar de molho, sem torcer, sem alvejante, secar no varal à sombra, sem secadora e evitando amaciante.",
+        "A garantia é de 2 anos contra desbotamento, para peças compradas desde 06/09/2024, \"desde que seguidas as instruções da etiqueta, considerando uma lavagem por semana\", e cobre só o desbotamento por lavagem. Os cuidados pedidos são ciclo delicado até 30 °C, sabão neutro, sem deixar de molho, sem torcer, sem alvejante, secar no varal à sombra, sem secadora e evitando amaciante.",
         "A marca diz que a camiseta é antiodor e que isso \"permite usar mais e lavar menos\", mas não informa por quantas lavagens o efeito dura."
       ],
       "image": {
@@ -90,8 +90,8 @@
     {
       "heading": "Tech, Daily ou Core: qual camiseta da Insider",
       "paragraphs": [
-        "A Daily e a Core são de 94% viscose e 6% elastano, não de modal. A Daily, de tecido DAYON, tem 225 g/m² na comparação oficial e custava R$ 79 (de R$ 139). A página avisa que o preço já tem o desconto máximo e não soma com cupons, e no teste do cupom no checkout o EMCASACOMCECILIA não se aplicou a ela.",
-        "Segundo a Insider, a Core é um pouco mais encorpada e texturizada que a Tech, e a gramatura dela não está publicada; o preço está na tabela acima. Nas páginas da Daily e da Core, a marca avisa que o tecido pode encolher até 2 cm no comprimento depois da primeira lavagem.",
+        "Na Insider, a escolha é modal na Tech ou viscose na Daily e na Core, que são de 94% viscose e 6% elastano. A Daily, de tecido DAYON, tem 225 g/m² na comparação oficial e custava R$ 79 (de R$ 139). A página avisa que o preço já tem o desconto máximo e não soma com cupons, e no teste do cupom no checkout o EMCASACOMCECILIA não se aplicou a ela.",
+        "A Core é um pouco mais encorpada e texturizada que a Tech, informa a Insider, e a gramatura dela não está publicada; o preço está na tabela acima. Nas páginas da Daily e da Core, a marca avisa que o tecido pode encolher até 2 cm no comprimento depois da primeira lavagem.",
         "A garantia de cor publicada é a da Tech T-Shirt. As medidas de cada linha estão no nosso guia de tamanhos da Insider."
       ],
       "images": [
@@ -164,13 +164,13 @@
       },
       "postParagraphs": [
         "Para escolher o modelo, com o preço de cada kit e os cuidados de lavagem, veja [qual cueca Insider escolher](/reviews/cueca-insider-comfort-ou-performance).",
-        "Cueca só tem troca ou devolução por defeito de fabricação, por higiene e segurança, segundo a central de ajuda. Minimal Club, Hering e Alpha Co também não trocam cueca, salvo defeito (a Alpha Co aceita a devolução em 7 dias). Confira a tabela de medidas antes de comprar o kit."
+        "Cueca só tem troca ou devolução por defeito de fabricação, por higiene e segurança, informa a central de ajuda. Minimal Club, Hering e Alpha Co também não trocam cueca, salvo defeito (a Alpha Co aceita a devolução em 7 dias). Confira a tabela de medidas antes de comprar o kit."
       ]
     },
     {
       "heading": "Troca e devolução na Insider",
       "paragraphs": [
-        "Na compra online, a Insider aceita o arrependimento em até 7 dias úteis, a troca por insatisfação em até 21 dias corridos, pelo mesmo modelo em outra cor ou tamanho (conforme o estoque) ou com estorno, com a peça sem uso, com etiqueta e sem sinais de lavagem, e o defeito em até 180 dias, com fotos. O processo é gratuito. O passo a passo e a reputação da loja estão no nosso guia de confiança."
+        "Na compra online, a Insider aceita o arrependimento em até 7 dias úteis, a troca por insatisfação em até 21 dias corridos, pelo mesmo modelo em outra cor ou tamanho (se houver estoque) ou com estorno, com a peça sem uso, com etiqueta e sem sinais de lavagem, e o defeito em até 180 dias, com fotos. O processo é gratuito. O passo a passo e a reputação da loja estão no nosso guia de confiança."
       ],
       "image": {
         "src": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
@@ -205,6 +205,7 @@
     },
     {
       "heading": "Para quem vale e para quem não vale",
+      "emphasis": "Se fosse para a minha casa, eu levaria a Tech T-Shirt, porque é a única com garantia de cor por escrito.",
       "bullets": [
         "Vale olhar a Insider se você quer camiseta de modal com garantia de cor por escrito e defeito coberto por até 180 dias, o maior prazo da tabela, e topa pagar mais por isso.",
         "Se o preço pesa mais, a Mirante e a Basicamente vendem camiseta de modal por menos, e a Hering tem a Super Cotton, de algodão, a R$ 89,99 e a Malha H+, de mistura, a R$ 31,99.",
@@ -241,6 +242,16 @@
   },
   "coupon": "EMCASACOMCECILIA",
   "affiliate": "insider",
+  "decision": {
+    "takeIf": [
+      "Você quer camiseta de modal com garantia de cor por escrito.",
+      "Você quer defeito coberto por até 180 dias, o maior prazo da tabela."
+    ],
+    "skipIf": [
+      "O preço pesa mais: a Mirante e a Basicamente vendem camiseta de modal por menos.",
+      "Você prefere algodão: a Minimal Club e a Alpha Co são outra categoria de camiseta."
+    ]
+  },
   "editorialNote": "Podemos receber comissão pela Insider. As outras marcas não são parceiras, e não testamos as peças.",
   "relatedArticles": [
     {

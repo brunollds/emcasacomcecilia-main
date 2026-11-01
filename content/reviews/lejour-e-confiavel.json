@@ -46,7 +46,7 @@
     {
       "heading": "Quem está por trás da Lejour",
       "paragraphs": [
-        "A Lejour é uma plataforma brasileira de casamento: o casal monta um site com as informações da festa e uma lista de presentes em dinheiro, e os convidados presenteiam pelo próprio site. Na página inicial, a empresa diz que \"mais de 300 mil casais já usaram a Lejour\". É um número da própria Lejour, que não conseguimos conferir de forma independente.",
+        "A Lejour é uma plataforma brasileira de casamento, com CNPJ ativo desde 2017: o casal monta o site da festa com uma lista de presentes em dinheiro, e os convidados presenteiam por ele. Na página inicial, a empresa diz que \"mais de 300 mil casais já usaram a Lejour\". É um número da própria Lejour, que não conseguimos conferir de forma independente.",
         "O que dá para conferir é o cadastro da empresa. Consultamos o CNPJ na BrasilAPI, que espelha os dados da Receita Federal, e comparamos com o rodapé do site."
       ],
       "postParagraphs": [
@@ -103,7 +103,7 @@
     {
       "heading": "Como o dinheiro dos presentes chega até vocês",
       "paragraphs": [
-        "Na Lejour, todos os presentes da lista são virtuais. O convidado escolhe um presente, paga, e o valor entra como crédito em dinheiro no painel do casal. Do crédito, o casal saca por Pix. O caminho completo, segundo a central de ajuda da Lejour, é este:"
+        "Na Lejour, todos os presentes da lista são virtuais. O convidado escolhe um presente, paga, e o valor entra como crédito em dinheiro no painel do casal. Do crédito, o casal saca por Pix. O caminho completo, pela central de ajuda da Lejour, é este:"
       ],
       "postParagraphs": [
         "Se vocês contam com o dinheiro para uma data, como o sinal do buffet, lembrem que o presente pago no cartão só vira crédito 15 dias corridos depois da compra.",
@@ -153,7 +153,7 @@
       "bullets": [
         "**Saque só para o CPF de quem publicou a lista.** A chave Pix informada deve pertencer ao mesmo CPF responsável pela publicação da lista. Ou seja, o saque não vai para uma conta de outra pessoa.",
         "**Validação de identidade antes do primeiro saque.** A Lejour pede documento com foto e selfie. É a etapa que liga a lista a uma pessoa real antes de o dinheiro sair.",
-        "**Painel e saldo sem prazo para sumir.** O site do casal fica público até 90 dias depois do casamento. Depois disso, os convidados não acessam mais o site, mas o painel de administração \"permanece ativo por tempo indeterminado\", segundo a central de ajuda, e dá para resgatar o saldo por ele."
+        "**Painel e saldo sem prazo para sumir.** O site do casal fica público até 90 dias depois do casamento. Depois disso, os convidados não acessam mais o site, mas o painel de administração \"permanece ativo por tempo indeterminado\", informa a central de ajuda, e dá para resgatar o saldo por ele."
       ],
       "postParagraphs": [
         "Não encontramos certificação de segurança nem o nome do processador de pagamento publicados. A página \"É seguro utilizar a Lejour?\" da central de ajuda é genérica e diz só que a empresa leva a segurança a sério.",
@@ -163,7 +163,7 @@
     {
       "heading": "Quanto custa usar a Lejour",
       "paragraphs": [
-        "Criar a lista é grátis no plano Basic. A Lejour cobra uma taxa sobre os presentes, de 2,99% a 3,89% conforme o plano (3,89% no Basic), e o casal escolhe se ela sai do valor que recebe ou é somada ao que o convidado paga. Os planos pagos, Premium e Pro, baixam a taxa e são pagos uma vez. A comparação entre os planos está em:"
+        "Criar a lista é grátis no plano Basic. A Lejour cobra uma taxa sobre os presentes, de 2,99% a 3,89%, variando por plano (3,89% no Basic), e o casal escolhe se ela sai do valor que recebe ou é somada ao que o convidado paga. Os planos pagos, Premium e Pro, baixam a taxa e são pagos uma vez. A comparação entre os planos está em:"
       ],
       "links": [
         {
@@ -205,7 +205,7 @@
       "heading": "Vale a pena usar a Lejour?",
       "paragraphs": [
         "Do ponto de vista da confiança, sim. É uma empresa com CNPJ ativo desde 2017, trabalha com a Fast Shop, libera o saque só por Pix para o CPF de quem publicou a lista, depois de confirmar a identidade, e tem reputação Ótima no Reclame Aqui nos últimos 12 meses. O plano Basic permite começar sem pagar nada e ver se o formato serve ao casal.",
-        "Os cuidados são de conta, não de confiança. A taxa de 3,89% do Basic pesa mais conforme a lista cresce, e vale comparar com os planos Premium e Pro se a expectativa de presentes em dinheiro for alta. No cartão, o dinheiro só fica disponível 15 dias corridos depois da compra, então quem precisa do valor logo deve pensar nisso. E, como o presente é crédito em dinheiro e não produto enviado, a Lejour serve a casais que querem receber em Pix, e não a quem quer ver cada item chegar em casa."
+        "Os cuidados são de conta, não de confiança. A taxa de 3,89% do Basic pesa mais quanto maior a lista, e vale comparar com os planos Premium e Pro se a expectativa de presentes em dinheiro for alta. No cartão, o dinheiro só fica disponível 15 dias corridos depois da compra, então quem precisa do valor logo deve pensar nisso. E, como o presente é crédito em dinheiro e não produto enviado, a Lejour serve a casais que querem receber em Pix, e não a quem quer ver cada item chegar em casa."
       ]
     },
     {

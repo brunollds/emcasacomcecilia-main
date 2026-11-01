@@ -33,7 +33,7 @@
     {
       "heading": "Como comparar os três rótulos",
       "paragraphs": [
-        "O que muda de um rótulo para o outro é a base dos números, e é isso que este capítulo explica antes da tabela.","Cada marca escolhe uma base. A Nutren publica a tabela por porção (27,5 g, 31,5 g ou 55 g, conforme a versão), a Sustagen usa a porção de 40 g, e a página do Ensure fala em 6 medidas por porção, sem dizer quantos gramas são.",
+        "O que muda de um rótulo para o outro é a base dos números, e é isso que este capítulo explica antes da tabela.","Cada marca escolhe uma base. A Nutren publica a tabela por porção (27,5 g, 31,5 g ou 55 g, variando por versão), a Sustagen usa a porção de 40 g, e a página do Ensure fala em 6 medidas por porção, sem dizer quantos gramas são.",
         "Para comparar, olhe a mesma coisa nos três: o tamanho da porção, a proteína por dose, o cálcio, a vitamina D, a lactose e o glúten. A tabela abaixo junta o que cada página oficial informa; o glúten fica na seção Lactose e glúten."
       ],
       "image": {
@@ -114,7 +114,7 @@
     {
       "heading": "Nutren Senior: as três versões",
       "paragraphs": [
-        "O Sem Sabor Zero Lactose usa 3 colheres de sopa rasas (27,5 g) em 180 ml de água, e a lata de 740 g rende cerca de 27 porções. O rótulo se apresenta como \"composto lácteo com cálcio, proteínas, vitamina D e outros nutrientes essenciais. Zero lactose.\"",
+        "O Zero Lactose usa 3 colheres de sopa rasas (27,5 g) em 180 ml de água, a lata de 740 g rende cerca de 27 porções e ele é o único que informa 0 g de lactose. O rótulo se apresenta como \"composto lácteo com cálcio, proteínas, vitamina D e outros nutrientes essenciais. Zero lactose.\"",
         "O Café com Leite também é composto lácteo e usa 3 colheres de sopa (31,5 g) por porção, com 11 g de proteína e 25 µg de vitamina D.",
         "O Sem Sabor comum, sem a indicação zero lactose, é vendido como suplemento alimentar. A tabela dele usa a porção de 55 g (6 colheres de sopa), com 20 g de proteína, e a sugestão de uso prepara 27,5 g por vez.",
         "Quem ficar com o Zero Lactose encontra o preparo no guia sem empelotar e a ficha completa no guia do Zero Lactose."
@@ -140,15 +140,15 @@
     {
       "heading": "Ensure Baunilha Pó: o que a Abbott informa",
       "paragraphs": [
-        "A página oficial do Ensure informa 17 g de proteína em duas porções diárias e 28 vitaminas e minerais, \"com alto teor de vitamina C, D, e Cálcio\". Ela diz também que o produto não contém glúten e que a lata vem em 400 g e 850 g.",
-        "O preparo é de 6 medidas em 195 ml de água, e a lata de 400 g rende cerca de 7 porções. Segundo a Abbott, o Ensure pó contém lactose; só o Ensure Protein não contém.",
+        "O Ensure não publica a tabela por porção: a página informa 17 g de proteína em duas porções diárias e 28 vitaminas e minerais, \"com alto teor de vitamina C, D, e Cálcio\". Ela diz também que o produto não contém glúten e que a lata vem em 400 g e 850 g.",
+        "O preparo é de 6 medidas em 195 ml de água, e a lata de 400 g rende cerca de 7 porções. A Abbott informa que o Ensure pó contém lactose; só o Ensure Protein não contém.",
         "O texto da página não traz a tabela por porção. Sem ela, o cálcio e a vitamina D do Ensure não entram na comparação em números: vale o que está impresso na lata."
       ]
     },
     {
       "heading": "Sustagen Senior Sem Sabor: o que a Sustagen informa",
       "paragraphs": [
-        "A porção é de 3 colheres de sopa cheias em 180 ml de água, e os números dela estão na tabela acima, segundo a página oficial. A marca destaca 22 g de proteína em duas porções e diz que duas porções preparadas fornecem 80% da recomendação diária de cálcio.",
+        "A porção é de 3 colheres de sopa cheias em 180 ml de água, informa a página oficial, e os números dela estão na tabela acima. A marca destaca 22 g de proteína em duas porções e diz que duas porções preparadas fornecem 80% da recomendação diária de cálcio.",
         "O rótulo informa que o produto não contém glúten, contém lactose e derivados de leite, e pode conter peixe e soja. A página lembra que ele não substitui uma alimentação saudável e balanceada."
       ]
     },
@@ -205,6 +205,8 @@
       "paragraphs": [
         "Não há vencedor entre os três: a escolha segue o que cada pessoa precisa e a orientação do médico ou do nutricionista."
       ],
+      "emphasis": "Pelos números da tabela, para quem precisa evitar lactose a escolha é o Nutren Senior Zero Lactose, porque é o único que informa 0 g de lactose por porção.",
+      "emphasisAfterParagraph": 1,
       "bullets": [
         "Quem precisa evitar lactose: só o Nutren Senior Sem Sabor Zero Lactose informa 0 g de lactose por porção na tabela oficial; o Sustagen Senior avisa que contém lactose, e a Abbott diz o mesmo do Ensure pó.",
         "Quem quer a tabela completa para comparar: Nutren Senior e Sustagen Senior publicam tudo por porção, e o Ensure não publica a tabela por porção.",
@@ -236,6 +238,17 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
+  "decision": {
+    "takeIf": [
+      "Você precisa evitar lactose e quer o rótulo que informa 0 g por porção na tabela oficial.",
+      "Você quer comparar proteína, cálcio e vitamina D pela tabela completa por porção.",
+      "Você vai levar a comparação à consulta com o médico ou o nutricionista."
+    ],
+    "skipIf": [
+      "Você espera comparar o Ensure em números: a página dele não publica a tabela por porção.",
+      "Você decide dose ou troca sem o médico ou o nutricionista: leve o rótulo à consulta."
+    ]
+  },
   "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas oficiais informam.",
   "relatedArticles": [
     {

@@ -35,10 +35,8 @@
     {
       "heading": "Como contar: cápsula, caixa e bebida",
       "paragraphs": [
-        "Na loja oficial, a cápsula Dolce Gusto Original custava de R$ 1,79 a R$ 2,89, conforme o sabor e a promoção do dia. No preço cheio, sem promoção, a caixa de 10 sai a R$ 2,59 ou R$ 2,89 por cápsula.",
-        "O preço da xícara depende de quantas cápsulas a bebida usa. Os cafés pretos, o Café au Lait, chocolates como o Nescau e chás como o Nestea usam uma cápsula por bebida. Cappuccino, Latte Macchiato, Chococino Nestlé e Chai Tea Latte usam duas e custam o dobro por xícara."
-      ],
-      "paragraphs": [
+        "Na loja oficial, a cápsula Dolce Gusto Original custava de R$ 1,79 a R$ 2,89, variando por sabor e promoção do dia. No preço cheio, sem promoção, a caixa de 10 sai a R$ 2,59 ou R$ 2,89 por cápsula.",
+        "O preço da xícara depende de quantas cápsulas a bebida usa. Os cafés pretos, o Café au Lait, chocolates como o Nescau e chás como o Nestea usam uma cápsula por bebida. Cappuccino, Latte Macchiato, Chococino Nestlé e Chai Tea Latte usam duas e custam o dobro por xícara.",
         "A loja vende caixas de 10 cápsulas; só a Starbucks Toffee Nut Latte vem com 12. Na página de cada sabor, o campo \"Cápsulas\" mostra \"x10\" quando cada cápsula faz uma bebida e \"x5 + x5\" quando a caixa traz dois tipos de cápsula, cinco de cada.",
         "No \"x5 + x5\", cada bebida usa as duas cápsulas, e a caixa faz 5 bebidas. É o caso do Cappuccino: a cápsula clara tem o leite em pó, e a escura, o café.",
         "Para chegar ao preço da xícara, divida o preço da caixa pelo número de bebidas. Cappuccino a R$ 17,90: R$ 17,90 ÷ 5 = R$ 3,58 por xícara. Espresso a R$ 17,90: R$ 17,90 ÷ 10 = R$ 1,79."
@@ -191,7 +189,7 @@
         "Duas cápsulas por bebida, caixa de 12 e 6 bebidas: Starbucks Toffee Nut Latte."
       ],
       "postParagraphs": [
-        "Atenção ao nome: o Cappuccino Moça Doce de Leite e o Caramelo Salgado, que a loja também chama de cappuccino, usam uma cápsula só, ao contrário do Cappuccino. Para escolher o sabor pelo seu jeito de tomar café, veja o nosso guia de sabores."
+        "Não confunda pelo nome: o Cappuccino Moça Doce de Leite e o Caramelo Salgado, que a loja também chama de cappuccino, usam uma cápsula só. Para escolher o sabor pelo seu jeito de tomar café, veja o nosso guia de sabores."
       ],
       "links": [
         {
@@ -331,6 +329,7 @@
       "paragraphs": [
         "A conta muda com o dia, mas a ordem da leitura foi esta: o combo de caixas teve o menor preço por bebida, a caixa de 10 no preço do dia veio logo depois, e a assinatura ficou mais cara por bebida com a caixa a R$ 17,90."
       ],
+      "emphasis": "Pelos números da tabela, para quem bebe sempre os mesmos sabores a escolha é o combo de caixas, porque teve o menor preço por bebida.",
       "bullets": [
         "Quem bebe sempre os mesmos sabores: o combo de 6 ou 8 caixas, que teve o menor preço por bebida.",
         "Quem quer misturar sabores numa caixa só: o DGusta, que no Espresso empata com a caixa do dia e no Cappuccino fica mais caro.",
@@ -366,6 +365,15 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
+  "decision": {
+    "takeIf": [
+      "Você bebe sempre os mesmos sabores e quer o menor preço por bebida."
+    ],
+    "skipIf": [
+      "Você quer misturar sabores numa caixa só: aí é o DGusta, que no Espresso empata com a caixa do dia e no Cappuccino fica mais caro.",
+      "Você quer frete grátis e 25% OFF em todo pedido: aí é a assinatura, que não soma com outras promoções do site."
+    ]
+  },
   "editorialNote": "Podemos receber comissão da Dolce Gusto. Preços das páginas oficiais da loja.",
   "relatedArticles": [
     {

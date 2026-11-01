@@ -34,7 +34,7 @@
     {
       "heading": "Qual a diferença entre poltrona de amamentação e poltrona reclinável",
       "paragraphs": [
-        "A poltrona de amamentação é pensada para os primeiros meses do bebê. O assento tem altura média, os braços são largos para apoiar o antebraço e o encosto fica numa inclinação fixa, mais reta. Muitos modelos têm base de balanço e vêm com um puff separado para os pés. É o móvel que costuma aparecer no quarto do bebê nas listas de enxoval.",
+        "A poltrona de amamentação é a dos primeiros meses do bebê; a reclinável, a do descanso de anos. O assento tem altura média, os braços são largos para apoiar o antebraço e o encosto fica numa inclinação fixa, mais reta. Muitos modelos têm base de balanço e vêm com um puff separado para os pés. É o móvel que costuma aparecer no quarto do bebê nas listas de enxoval.",
         "A poltrona reclinável foi feita para descansar. O encosto deita e o apoio de pés sobe da própria estrutura, por alavanca ou por motor. Existem reclináveis de base fixa, que só reclinam, e reclináveis com base de giro e balanço, que juntam as duas coisas. Elas costumam ficar na sala, mas muita gente leva uma para o quarto do bebê ou amamenta na da sala, como foi o nosso caso.",
         "No meio do caminho existem poltronas de amamentação reclináveis, vendidas nos marketplaces com encosto de algumas posições e puff. São mais baratas que as reclináveis de sala, mas a reclinação costuma ser manual. Antes de comprar uma delas, leia as avaliações procurando por barulho, trava e firmeza do encosto."
       ]
@@ -114,7 +114,7 @@
     {
       "heading": "Qual reclinável da DAMIE escolher para amamentar",
       "paragraphs": [
-        "A DAMIE vende a mesma poltrona reclinável com quatro bases diferentes, nas versões 1.0 e 2.0. Para amamentar, a escolha está mais na base do que no modelo. Os preços abaixo variam conforme o revestimento."
+        "A DAMIE vende a mesma poltrona em quatro bases, e para amamentar a escolha está na base, não no modelo. Os preços abaixo variam por revestimento."
       ],
       "comparisonTable": {
         "caption": "Bases da reclinável DAMIE, segundo a tabela da marca, com preços consultados em 7 de outubro de 2026.",
@@ -152,9 +152,9 @@
         ]
       },
       "postParagraphs": [
-        "Na data da consulta, as versões 1.0 e 2.0 tinham a mesma faixa de preço. A 2.0 traz quatro melhorias, segundo a marca: almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos fazem diferença na amamentação, porque guardam paninho, fralda e garrafa de água ao alcance da mão.",
+        "Na data da consulta, as versões 1.0 e 2.0 tinham a mesma faixa de preço. A 2.0 traz quatro melhorias, informa a marca: almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos fazem diferença na amamentação, porque guardam paninho, fralda e garrafa de água ao alcance da mão.",
         "Aqui em casa, a primeira reclinável foi elétrica, em linho bege, e acompanhou toda a amamentação do Ian. Hoje temos também a 2.0 elétrica com giro e balanço, em corino caramelo. O giro foi o recurso que eu mais subestimei, e o balanço tem ajudado a acalmar as crianças.",
-        "Todas as reclináveis da DAMIE têm 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. A poltrona chega em caixa e, segundo a marca, passa em portas a partir de 65 cm se você levar primeiro o encosto e depois a base."
+        "Todas as reclináveis da DAMIE têm 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. A poltrona chega em caixa e passa em portas a partir de 65 cm, informa a marca, se você levar primeiro o encosto e depois a base."
       ],
       "links": [
         {
@@ -261,6 +261,7 @@
     },
     {
       "heading": "Qual poltrona escolher para amamentação",
+      "emphasis": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela descansa nas madrugadas e continua na sala depois.",
       "bullets": [
         "Escolha a poltrona de amamentação com balanço e puff se o orçamento está apertado, se o quarto do bebê tem espaço para o puff e se a poltrona vai ser usada só nessa fase.",
         "Escolha uma poltrona de amamentação reclinável de marketplace se você quer reclinar um pouco sem pagar o preço de uma reclinável de sala, sabendo que a reclinação costuma ser manual.",
@@ -296,6 +297,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você quer descansar de verdade nas madrugadas e ninar sem levantar.",
+      "Você quer uma poltrona que continue na sala depois da amamentação.",
+      "Você prefere reclinar e fechar o apoio de pés pelo botão, sem esforço de pernas."
+    ],
+    "skipIf": [
+      "O orçamento só cobre a fase de amamentação: a poltrona de amamentação com balanço e puff custa menos.",
+      "Você quer levantar direto, sem fechar o apoio de pés antes: a poltrona de amamentação é mais simples nessa hora."
+    ]
+  },
   "cta": {
     "text": "Se a reclinável elétrica com giro e balanço é a sua escolha, monte a sua no site da DAMIE e use o cupom CECILIA12 para ter 12% OFF.",
     "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
