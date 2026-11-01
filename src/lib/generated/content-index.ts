@@ -76292,7 +76292,7 @@ export const reviewsData: unknown[] = [
         "heading": "A Black Skull é brasileira? E por que \"USA\"?",
         "paragraphs": [
           "Segundo a própria marca, sim. No \"Sobre nós\" do site oficial, a Black Skull se define como \"uma marca brasileira de suplementos\", inaugurada no Brasil em 2015, que trabalha \"através da Grow Dietary Supplements Labs USA (GDS)\". A sede da marca no Brasil fica em Embu das Artes, na Grande São Paulo, e o texto fala em mais de 12.000 m². São afirmações institucionais da empresa.",
-          "O que dá para conferir por fora bate com isso. A razão social que aparece no rodapé do site é GDS Grow Dietary Supplements do Brasil S/A, com o CNPJ 19.897.687/0001-38 e o endereço Av. João Paulo I, 1795, Jardim Sao Luiz, Embu das Artes (SP). Na base pública de CNPJ (BrasilAPI, consultada em 14/10/2026), a empresa consta como ativa desde 18/03/2014, matriz, sociedade anônima fechada, com atividade de fabricação de alimentos dietéticos e complementos alimentares.",
+          "O que dá para conferir por fora bate com isso. A razão social que aparece no rodapé do site é GDS Grow Dietary Supplements do Brasil S/A, com o CNPJ 19.897.687/0001-38 e o endereço Av. João Paulo I, 1795, Jardim Sao Luiz, Embu das Artes (SP). Na base pública de CNPJ (BrasilAPI), a empresa consta como ativa desde 18/03/2014, matriz, sociedade anônima fechada, com atividade de fabricação de alimentos dietéticos e complementos alimentares.",
           "Então, de onde vem o \"USA\"? O nome do site e o da loja no carrinho (\"BLACKSKULL USA\") repetem a sigla que a marca usa ao descrever a GDS, mas o \"Sobre nós\" não explica o motivo em uma frase. O que importa para quem compra: a empresa do rodapé tem CNPJ brasileiro, e as trocas, o frete e o atendimento seguem regras publicadas no site e telefones do Brasil."
         ]
       },
@@ -76321,12 +76321,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Black Skull vende",
         "paragraphs": [
-          "A Black Skull se apresenta como uma marca de suplementos para treino (\"Heavy Sports Nutrition\"). Em 14/10/2026, o menu da página inicial tinha Produtos, Whey Protein, Creatina, Exclusivos e Promoções. Entre os produtos da loja estão:"
+          "A Black Skull se apresenta como uma marca de suplementos para treino (\"Heavy Sports Nutrition\"). O menu da página inicial tinha Produtos, Whey Protein, Creatina, Exclusivos e Promoções. Entre os produtos da loja estão:"
         ],
         "image": {
           "src": "/images/reviews/black-skull/black-skull-confiavel-capa.webp",
           "alt": "Página inicial do site oficial da Black Skull, blackskullusa.com.br, em 14/10/2026",
-          "caption": "A página inicial do site oficial da Black Skull, blackskullusa.com.br, em 14/10/2026.",
+          "caption": "A página inicial do site oficial da Black Skull, blackskullusa.com.br.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -76344,10 +76344,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e defeito",
         "paragraphs": [
-          "As regras estão na política de trocas publicada no site. Resumo, conferido em 14/10/2026:"
+          "As regras estão na política de trocas publicada no site. Resumo:"
         ],
         "comparisonTable": {
-          "caption": "Regras de troca e devolução da Black Skull, conferidas em 14/10/2026",
+          "caption": "Regras de troca e devolução da Black Skull",
           "headers": [
             "Situação",
             "Prazo",
@@ -76379,10 +76379,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis, entrega e pagamento",
         "paragraphs": [
-          "A Black Skull tem frete grátis, mas o valor mínimo muda conforme a região de entrega. Pela política de entrega do site, lida em 14/10/2026, as faixas são estas:"
+          "A Black Skull tem frete grátis, mas o valor mínimo muda conforme a região de entrega. Pela política de entrega do site, as faixas são estas:"
         ],
         "comparisonTable": {
-          "caption": "Frete grátis da Black Skull por região de entrega, conforme a política de entrega lida em 14/10/2026",
+          "caption": "Frete grátis da Black Skull por região de entrega, conforme a política de entrega",
           "headers": [
             "Região de entrega",
             "Frete grátis em compras acima de"
@@ -76420,7 +76420,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como falar com o atendimento da Black Skull",
         "paragraphs": [
-          "A página \"Entre em contato\" do site e a política de trocas trazem os canais oficiais, conferidos em 14/10/2026:"
+          "A página \"Entre em contato\" do site e a política de trocas trazem os canais oficiais:"
         ],
         "bullets": [
           "SAC pelo 0800-770 4260.",
@@ -76431,13 +76431,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Para guardar o registro do que foi combinado, o e-mail serve melhor: você tem o texto do pedido e a resposta da loja por escrito.",
           "Um detalhe da página de contato: ela mostra um número de WhatsApp, mas ele é de revenda, para quem quer vender os produtos, e não um canal de atendimento ao cliente. Se você precisa resolver um pedido, use o SAC, o telefone ou o e-mail acima.",
-          "As políticas (entrega, trocas e devoluções, pagamento e contato) ficam em páginas da área institucional do site. Em 14/10/2026, alguns links do rodapé, como \"Trocas e Devoluções\", \"Sobre Nós\" e \"Fale Conosco\", não abriam a página certa. Se acontecer com você, fale com o SAC."
+          "As políticas (entrega, trocas e devoluções, pagamento e contato) ficam em páginas da área institucional do site. Quando conferimos, alguns links do rodapé, como \"Trocas e Devoluções\", \"Sobre Nós\" e \"Fale Conosco\", não abriam a página certa. Se acontecer com você, fale com o SAC."
         ]
       },
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Em 14/10/2026, a Black Skull aparece no Reclame Aqui com reputação Regular nos últimos 6 meses, nota 6,8, e Boa nos últimos 12 meses, nota 7,1. O artigo de reputação explica o que está por trás de cada selo, a taxa de solução e o que fazer se o pedido der problema."
+          "Em 14/10/2026, a Black Skull aparecia no Reclame Aqui com reputação Regular nos últimos 6 meses, nota 6,8, e Boa nos últimos 12 meses, nota 7,1. O artigo de reputação explica o que está por trás de cada selo, a taxa de solução e o que fazer se o pedido der problema."
         ],
         "links": [
           {
@@ -76468,7 +76468,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Testamos o cupom num pedido real em 13/10/2026: o desconto de 10% entrou em todos os itens do carrinho, inclusive nos que já estavam com preço promocional. O passo a passo, com os prints do checkout, está no artigo de como usar. As condições atuais ficam na [página da loja](/cupons/black-skull)."
+          "Testamos o cupom num pedido real: o desconto de 10% entrou em todos os itens do carrinho, inclusive nos que já estavam com preço promocional. O passo a passo, com os prints do checkout, está no artigo de como usar. As condições atuais ficam na [página da loja](/cupons/black-skull)."
         ]
       },
       {
@@ -76489,13 +76489,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Black Skull é confiável? Sim, do ponto de vista da empresa e das regras de compra. A GDS, dona da loja, tem CNPJ ativo desde 2014, e o site publica as políticas de entrega, pagamento, trocas e atendimento. No Reclame Aqui, em 14/10/2026, a reputação é Regular nos últimos 6 meses (nota 6,8) e Boa nos últimos 12 meses (nota 7,1).",
+          "A Black Skull é confiável? Sim, do ponto de vista da empresa e das regras de compra. A GDS, dona da loja, tem CNPJ ativo desde 2014, e o site publica as políticas de entrega, pagamento, trocas e atendimento. No Reclame Aqui, a reputação é Regular nos últimos 6 meses (nota 6,8) e Boa nos últimos 12 meses (nota 7,1).",
           "A Black Skull é brasileira? Segundo a própria marca, sim: ela se descreve como uma marca brasileira, inaugurada no Brasil em 2015, com sede em Embu das Artes (SP). O \"Sobre nós\" cita a Grow Dietary Supplements Labs USA (GDS), mas não explica a sigla do nome.",
           "A Black Skull é da Integralmédica? O CNPJ e o site apontam a GDS, e nenhuma fonte oficial liga a marca à Integralmédica.",
           "O site da Black Skull é seguro? O endereço oficial é blackskullusa.com.br, e o antigo blackskull.com.br redireciona para ele. Confira o domínio na barra do navegador e o CNPJ no rodapé antes de pagar, e lembre que a loja não cobra nenhuma taxa depois que o pedido é feito.",
           "Qual é o CNPJ da Black Skull? É 19.897.687/0001-38, da GDS Grow Dietary Supplements do Brasil S/A, com matriz em Embu das Artes (SP). O número aparece no rodapé do site.",
           "Posso trocar um produto da Black Skull? Sim. Por arrependimento, são 7 dias corridos do recebimento, com a postagem paga pela loja e sem devolução parcial. A troca comum precisa ser pedida em até 30 dias da entrega, com produto lacrado e sem uso, e a postagem e o reenvio são por sua conta. Em caso de defeito, a loja paga a postagem e devolve o valor total.",
-          "A Black Skull tem frete grátis? Tem, a partir de um valor mínimo por região: acima de R$ 199,90 no Sul e no Sudeste, acima de R$ 249,90 no Centro-Oeste e acima de R$ 299,90 nas demais regiões, em consulta de 14/10/2026. O valor considerado é o do carrinho já com desconto.",
+          "A Black Skull tem frete grátis? Tem, a partir de um valor mínimo por região: acima de R$ 199,90 no Sul e no Sudeste, acima de R$ 249,90 no Centro-Oeste e acima de R$ 299,90 nas demais regiões. O valor considerado é o do carrinho já com desconto.",
           "Qual o telefone do SAC da Black Skull? O SAC é 0800-770 4260, e também há o telefone (11) 4189-7000, de segunda a sexta, das 8h às 18h. Para trocas, o e-mail é sac@blackskullusa.com.",
           "Tem cupom de primeira compra na Black Skull? O cupom da nossa parceria é o CECILIA10, que dá 10% de desconto em todo o site e vale para conta nova e antiga, então serve na primeira compra e nas seguintes. Ele soma com as promoções do site e vale em todas as formas de pagamento."
         ]
@@ -76571,22 +76571,22 @@ export const reviewsData: unknown[] = [
         "heading": "Por que olhar o Reclame Aqui antes de comprar na Black Skull",
         "paragraphs": [
           "Na Black Skull você compra pelo site e recebe em casa. Se o pedido não chegar, alguém resolve? O Reclame Aqui mostra quantas pessoas reclamaram, se a empresa respondeu e quanto resolveu.",
-          "Toda loja que vende pela internet recebe reclamações, então a pergunta útil não é se existem queixas. É quanto a empresa responde, quanto resolve, quanto demora e quais problemas se repetem. Em 14/10/2026, o perfil \"BLACKSKULL USA\" mostrava as abas de 6 meses, 12 meses, 2025, 2024 e Geral, mais a lista de principais problemas. As abas de 2024 e Geral não entram aqui.",
+          "Toda loja que vende pela internet recebe reclamações, então a pergunta útil não é se existem queixas. É quanto a empresa responde, quanto resolve, quanto demora e quais problemas se repetem. Quando conferimos, o perfil \"BLACKSKULL USA\" mostrava as abas de 6 meses, 12 meses, 2025, 2024 e Geral, mais a lista de principais problemas. As abas de 2024 e Geral não entram aqui.",
           "Os números do Reclame Aqui podem mudar. Abra o perfil de novo no dia da sua compra e compare com o que está aqui."
         ]
       },
       {
         "heading": "Os números da Black Skull no Reclame Aqui",
         "paragraphs": [
-          "O perfil mostra um quadro de desempenho para cada período. A tabela reúne as três abas lidas em 14/10/2026, cada uma com as datas que o Reclame Aqui informa embaixo do quadro:"
+          "O perfil mostra um quadro de desempenho para cada período. A tabela reúne as três abas lidas em 14/10/2026, cada uma com o período que o Reclame Aqui informa embaixo do quadro. A aba de 6 meses vai de abril a setembro; a de 12 meses, de outubro do ano anterior a setembro; a de 2025 cobre o ano inteiro."
         ],
         "comparisonTable": {
-          "caption": "Perfil da Black Skull no Reclame Aqui, abas de 6 meses, 12 meses e 2025, lidas em 14/10/2026",
+          "caption": "Perfil da Black Skull no Reclame Aqui, abas de 6 meses, 12 meses e 2025",
           "headers": [
             "Indicador",
-            "6 meses (01/04/2026 a 30/09/2026)",
-            "12 meses (01/10/2025 a 30/09/2026)",
-            "2025 (01/01/2025 a 31/12/2025)"
+            "6 meses",
+            "12 meses",
+            "2025"
           ],
           "rows": [
             [
@@ -76649,21 +76649,21 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-6-meses.webp",
             "alt": "Aba de 6 meses do perfil da Black Skull no Reclame Aqui, com reputação Regular, nota 6,8 e dados de 01/04/2026 a 30/09/2026, com números destacados em amarelo",
-            "caption": "Aba de 6 meses do perfil da Black Skull no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026 (print de 14/10/2026). O marca-texto amarelo é nosso.",
+            "caption": "Aba de 6 meses do perfil da Black Skull no Reclame Aqui. O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.3164
           },
           {
             "src": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-12-meses.webp",
             "alt": "Aba de 12 meses do perfil da Black Skull no Reclame Aqui, com reputação Boa, nota 7,1 e dados de 01/10/2025 a 30/09/2026, com números destacados em amarelo",
-            "caption": "Aba de 12 meses do perfil, com dados de 01/10/2025 a 30/09/2026 (print de 14/10/2026). O marca-texto amarelo é nosso.",
+            "caption": "Aba de 12 meses do perfil. O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.319
           },
           {
             "src": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-2025.webp",
             "alt": "Aba de 2025 do perfil da Black Skull no Reclame Aqui, com reputação Regular, nota 6,6 e dados de 01/01/2025 a 31/12/2025, com números destacados em amarelo",
-            "caption": "Aba de 2025 do perfil, com dados de 01/01/2025 a 31/12/2025 (print de 14/10/2026). O marca-texto amarelo é nosso.",
+            "caption": "Aba de 2025 do perfil. O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.3202
           }
@@ -76685,7 +76685,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/black-skull/black-skull-reclame-aqui-capa.webp",
           "alt": "Perfil BLACKSKULL USA no Reclame Aqui, com a reputação Regular e o selo de empresa verificada, ao lado do quadro de desempenho dos últimos 6 meses, em print de 14/10/2026",
-          "caption": "O perfil BLACKSKULL USA no Reclame Aqui, com o quadro de desempenho dos últimos 6 meses, consultado em 14/10/2026.",
+          "caption": "O perfil BLACKSKULL USA no Reclame Aqui, com o quadro de desempenho dos últimos 6 meses.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -76693,10 +76693,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais aparece nas reclamações da Black Skull",
         "paragraphs": [
-          "No quadro \"Principais problemas comentados\", o Reclame Aqui reúne as reclamações de até 3 anos registradas na aba geral do perfil. Em 14/10/2026, o quadro mostrava três recortes:"
+          "No quadro \"Principais problemas comentados\", o Reclame Aqui reúne as reclamações de até 3 anos registradas na aba geral do perfil. O quadro mostrava três recortes:"
         ],
         "comparisonTable": {
-          "caption": "Principais problemas comentados no perfil da Black Skull no Reclame Aqui, em 14/10/2026",
+          "caption": "Principais problemas comentados no perfil da Black Skull no Reclame Aqui",
           "headers": [
             "Recorte",
             "Item mais citado",
@@ -76722,7 +76722,7 @@ export const reviewsData: unknown[] = [
         },
         "image": "/images/reviews/black-skull/black-skull-reclame-aqui-principais-problemas.webp",
         "imageAlt": "Quadro Principais problemas comentados do perfil da Black Skull no Reclame Aqui: Suplementos Alimentares com 66,76% na categoria, Produto não recebido com 19,39% nos problemas e Whey Protein com 32,96% nos produtos",
-        "imageCaption": "Quadro \"Principais problemas comentados\" do perfil da Black Skull em 14/10/2026. O marca-texto amarelo é nosso.",
+        "imageCaption": "Quadro \"Principais problemas comentados\" do perfil da Black Skull. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.2261,
         "postParagraphs": [
@@ -76734,10 +76734,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o seu pedido da Black Skull der problema: o que fazer",
         "paragraphs": [
-          "Os prazos e os canais abaixo são os da política de entrega e da página de contato da loja, conferidos em 14/10/2026. Eles estão explicados com mais detalhe em [Black Skull é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/black-skull-e-confiavel)."
+          "Os prazos e os canais abaixo são os da política de entrega e da página de contato da loja. Eles estão explicados com mais detalhe em [Black Skull é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/black-skull-e-confiavel)."
         ],
         "comparisonTable": {
-          "caption": "O que a Black Skull prevê quando a entrega dá problema, conforme a política de entrega conferida em 14/10/2026",
+          "caption": "O que a Black Skull prevê quando a entrega dá problema, conforme a política de entrega",
           "headers": [
             "Situação",
             "O que a loja prevê"
@@ -76773,13 +76773,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Black Skull e pode receber comissão pelas compras feitas com o código **CECILIA10**. Ele dá 10% de desconto em todo o site, vale em todas as formas de pagamento, soma com as promoções que já estiverem no site e funciona em conta nova e em conta antiga.",
           "Testamos o cupom num pedido real. O passo a passo, com os prints do checkout, está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar). As condições atuais ficam na [página do cupom da Black Skull](/cupons/black-skull).",
-          "A parceria não muda os números deste artigo. Eles vêm do perfil público da loja no Reclame Aqui, lido em 14/10/2026, e podem mudar."
+          "A parceria não muda os números deste artigo. Eles vêm do perfil público da loja no Reclame Aqui, e podem mudar."
         ]
       },
       {
         "heading": "Dá para confiar na Black Skull?",
         "paragraphs": [
-          "Dá, com cuidado. Em 14/10/2026, a reputação era Regular nos últimos 6 meses e Boa nos 12. A loja responde a tudo, mas uma parte das reclamações não aparece como resolvida."
+          "Dá, com cuidado. Na leitura, a reputação era Regular nos últimos 6 meses e Boa nos 12. A loja responde a tudo, mas uma parte das reclamações não aparece como resolvida."
         ],
         "bullets": [
           "Nota: 6,8 nos 6 meses (Regular) e 7,1 nos 12 meses (Boa).",
@@ -76793,8 +76793,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Black Skull é confiável segundo o Reclame Aqui? A resposta é mista. Em 14/10/2026, o perfil mostrava reputação Regular nos últimos 6 meses (nota 6,8) e Boa nos últimos 12 meses (nota 7,1). A loja respondeu a 100% das reclamações dos últimos 6 meses e 61,5% aparecem como resolvidas.",
-          "Qual a nota da Black Skull no Reclame Aqui? Em 14/10/2026, a nota era 6,8 nos últimos 6 meses (Regular), 7,1 nos últimos 12 meses (Boa) e 6,6 em 2025 (Regular). A nota média do consumidor era 6,08 nos últimos 6 meses.",
+          "A Black Skull é confiável segundo o Reclame Aqui? A resposta é mista. O perfil mostrava reputação Regular nos últimos 6 meses (nota 6,8) e Boa nos últimos 12 meses (nota 7,1). A loja respondeu a 100% das reclamações dos últimos 6 meses e 61,5% aparecem como resolvidas.",
+          "Qual a nota da Black Skull no Reclame Aqui? A nota era 6,8 nos últimos 6 meses (Regular), 7,1 nos últimos 12 meses (Boa) e 6,6 em 2025 (Regular). A nota média do consumidor era 6,08 nos últimos 6 meses.",
           "A Black Skull responde às reclamações? Sim. Nos últimos 6 meses, 100% foram respondidas e nenhuma estava aguardando resposta. O tempo médio de resposta era de 6 dias e 11 horas.",
           "O que fazer se o pedido da Black Skull não chegar? Guarde o número do pedido, fale com o SAC (0800-770 4260) ou pelo e-mail sac@blackskullusa.com e peça o protocolo. Em caso de extravio, a loja reenvia o pedido sem custo, e uma entrega que você não reconhece deve ser contestada em até 10 dias.",
           "Qual o SAC da Black Skull? O SAC é 0800-770 4260 e (11) 4189-7000, de segunda a sexta, das 8h às 18h, e o e-mail é sac@blackskullusa.com."
@@ -76882,7 +76882,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/black-skull/black-skull-cupom-capa.webp",
           "alt": "Sacola da Black Skull com o código CECILIA10 digitado no campo Cupom de Desconto e, ao lado, o código aplicado, no nosso teste de 13/10/2026",
-          "caption": "A sacola do nosso teste de 13/10/2026: o CECILIA10 digitado e, ao lado, já aplicado.",
+          "caption": "A sacola do nosso teste: o CECILIA10 digitado e, ao lado, já aplicado.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -76897,11 +76897,11 @@ export const reviewsData: unknown[] = [
         "heading": "2. Monte a sacola",
         "paragraphs": [
           "Adicione os produtos que você quer e abra a sacola. É a primeira das quatro etapas da compra: Sacola, Identificação, Entrega e Pagamento. O campo do cupom fica nessa primeira etapa, no quadro à direita, acima do subtotal e do total.",
-          "No nosso teste, em 13/10/2026, a sacola tinha uma regata, um kit de whey, creatina e pré-treino e uma glutamina, num subtotal de R$ 364,33. Dois dos itens já apareciam com o preço antigo riscado, ou seja, em promoção. O quadro do cupom aparece com o título \"Cupom de Desconto\", um campo \"Código\" e o botão \"Adicionar\"."
+          "No nosso teste, a sacola tinha uma regata, um kit de whey, creatina e pré-treino e uma glutamina, num subtotal de R$ 364,33. Dois dos itens já apareciam com o preço antigo riscado, ou seja, em promoção. O quadro do cupom aparece com o título \"Cupom de Desconto\", um campo \"Código\" e o botão \"Adicionar\"."
         ],
         "image": "/images/reviews/black-skull/black-skull-cupom-01-carrinho-sem-cupom.webp",
         "imageAlt": "Sacola da Black Skull antes do cupom, com itens de preço promocional riscado e, à direita, o campo Cupom de Desconto com o botão Adicionar",
-        "imageCaption": "Sacola da Black Skull em 13/10/2026, antes do cupom: itens com preço promocional riscado e, à direita, o campo \"Cupom de Desconto\" com o botão \"Adicionar\". O marca-texto amarelo é nosso.",
+        "imageCaption": "Sacola da Black Skull antes do cupom: itens com preço promocional riscado e, à direita, o campo \"Cupom de Desconto\" com o botão \"Adicionar\". O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.4203
       },
@@ -76920,28 +76920,28 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confira a linha \"Descontos\" antes de finalizar",
         "paragraphs": [
-          "Depois do \"Adicionar\", o quadro à direita passa a mostrar três valores: \"Subtotal\", \"Descontos\" e \"Total\". O desconto do cupom aparece como valor negativo na linha \"Descontos\", e o total já vem abatido. No nosso teste de 13/10/2026, o subtotal de R$ 364,33 teve R$ 36,44 de desconto e o total ficou em R$ 327,89, os 10% do cupom.",
+          "Depois do \"Adicionar\", o quadro à direita passa a mostrar três valores: \"Subtotal\", \"Descontos\" e \"Total\". O desconto do cupom aparece como valor negativo na linha \"Descontos\", e o total já vem abatido. No nosso teste, o subtotal de R$ 364,33 teve R$ 36,44 de desconto e o total ficou em R$ 327,89, os 10% do cupom.",
           "Antes de clicar em \"Finalizar Compra\", confira que a linha \"Descontos\" existe e que o total é o que você espera pagar. Depois, siga para Identificação, Entrega e Pagamento."
         ],
         "image": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Quadro da sacola da Black Skull depois do Adicionar, com CECILIA10 aplicado, Descontos de R$ -36,44 e total de R$ 327,89",
-        "imageCaption": "Quadro da sacola depois do \"Adicionar\", em 13/10/2026: CECILIA10 aplicado, \"Descontos\" de R$ -36,44 e total de R$ 327,89. O marca-texto amarelo é nosso.",
+        "imageCaption": "Quadro da sacola depois do \"Adicionar\": CECILIA10 aplicado, \"Descontos\" de R$ -36,44 e total de R$ 327,89. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 0.8481
       },
       {
         "heading": "O cupom vale em produto em promoção?",
         "paragraphs": [
-          "Sim. O CECILIA10 soma com as promoções do site, e o nosso teste de 13/10/2026 mostrou isso no checkout: a regata aparecia de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47, antes mesmo do código. O cupom tirou 10% do subtotal, que já trazia esses preços: o desconto vem em cima do preço promocional, sem substituí-lo."
+          "Sim. O CECILIA10 soma com as promoções do site, e o nosso teste mostrou isso no checkout: a regata aparecia de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47, antes mesmo do código. O cupom tirou 10% do subtotal, que já trazia esses preços: o desconto vem em cima do preço promocional, sem substituí-lo."
         ]
       },
       {
         "heading": "Frete grátis com o cupom: confira o mínimo da sua região",
         "paragraphs": [
-          "O CECILIA10 não é um cupom de frete grátis. O frete grátis da Black Skull vem do valor mínimo do pedido, que muda conforme a região de entrega. Em 14/10/2026, a loja informava estes mínimos:"
+          "O CECILIA10 não é um cupom de frete grátis. O frete grátis da Black Skull vem do valor mínimo do pedido, que muda conforme a região de entrega. A loja informava estes mínimos:"
         ],
         "comparisonTable": {
-          "caption": "Frete grátis da Black Skull por região de entrega, em 14/10/2026",
+          "caption": "Frete grátis da Black Skull por região de entrega",
           "headers": [
             "Região de entrega",
             "Frete grátis acima de"
@@ -76968,14 +76968,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que comprar com o cupom",
         "paragraphs": [
-          "O CECILIA10 vale em todo o site. Na sacola do nosso teste, em 13/10/2026, havia whey, creatina e pré-treino (no kit), glutamina e uma regata. A página da loja cita também aminoácidos e roupas de treino.",
+          "O CECILIA10 vale em todo o site. Na sacola do nosso teste, havia whey, creatina e pré-treino (no kit), glutamina e uma regata. A página da loja cita também aminoácidos e roupas de treino.",
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
         ]
       },
       {
         "heading": "Se precisar trocar",
         "paragraphs": [
-          "A troca comum não é gratuita. Em 14/10/2026, a política da loja funcionava assim:"
+          "A troca comum não é gratuita. A política da loja funcionava assim:"
         ],
         "bullets": [
           "**Arrependimento:** em até 7 dias corridos do recebimento, com a loja pagando a postagem. Não há devolução parcial do pedido.",
@@ -76992,9 +76992,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Black Skull? O cupom é o CECILIA10, com 10% de desconto em todo o site oficial, digitado no campo \"Cupom de Desconto\" da sacola.",
           "Tem cupom de primeira compra na Black Skull? Sim. O CECILIA10 vale na primeira compra e também para quem já comprou, em conta nova ou antiga.",
-          "O cupom da Black Skull vale em produto em promoção? Sim. Os 10% valem também nos itens que já estão com preço promocional, como no nosso teste de 13/10/2026.",
+          "O cupom da Black Skull vale em produto em promoção? Sim. Os 10% valem também nos itens que já estão com preço promocional, como no nosso teste.",
           "O cupom vale em todas as formas de pagamento? Sim. O CECILIA10 vale em qualquer forma de pagamento, e a loja oferece cartão em até 8x sem juros (parcela mínima de R$ 50), Pix, Pix parcelado em 4x sem juros e boleto.",
-          "O cupom da Black Skull dá frete grátis? Não, o CECILIA10 é desconto de 10%. O frete grátis vem do valor mínimo do pedido (R$ 199,90 no Sul e Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, em 14/10/2026), contado sobre o total já com o desconto.",
+          "O cupom da Black Skull dá frete grátis? Não, o CECILIA10 é desconto de 10%. O frete grátis vem do valor mínimo do pedido (R$ 199,90 no Sul e Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões), contado sobre o total já com o desconto.",
           "Tem cupom para whey e creatina da Black Skull? Sim, o CECILIA10 vale em todo o site, então vale também em whey e creatina.",
           "O cupom vale no Mercado Livre, na Shopee ou na Amazon? O CECILIA10 é o código do site oficial da Black Skull, o blackskullusa.com.br, onde é digitado no campo \"Cupom de Desconto\" da sacola."
         ]
@@ -80026,7 +80026,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
         "imageAlt": "Checkout da Cléa Store antes do cupom, com o Kit 3 T-Shirts em promoção, o cashback de até R$ 25,80 e a linha Cupom de desconto marcados em amarelo",
-        "imageCaption": "Checkout da Cléa Store em 14/10/2026, antes do cupom: o kit em promoção, o cashback previsto e o \"Cupom de desconto\" com o link \"Adicionar\". O marca-texto amarelo é nosso.",
+        "imageCaption": "Checkout da Cléa Store, antes do cupom: o kit em promoção, o cashback previsto e o \"Cupom de desconto\" com o link \"Adicionar\". O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.1486
       },
@@ -80052,7 +80052,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Checkout da Cléa Store depois do cupom, com a linha Desconto de menos R$ 25,80, o Cupom aplicado CSEMCASACOMCECILIA e o cashback de até R$ 23,22",
-        "imageCaption": "Depois do cupom, em 14/10/2026: a linha \"Desconto\" com -R$ 25,80, o \"Cupom aplicado\" e o cashback recalculado para até R$ 23,22. O marca-texto amarelo é nosso.",
+        "imageCaption": "Depois do cupom: a linha \"Desconto\" com -R$ 25,80, o \"Cupom aplicado\" e o cashback recalculado para até R$ 23,22. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 0.9308
       },
@@ -80061,7 +80061,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Antes do cupom, a tela mostrava \"Receba até R$ 25,80 de cashback\". Depois, passou a mostrar \"Receba até R$ 23,22 de cashback\". O resumo seguiu com o aviso \"Seu pedido vai gerar cashback!\".",
           "No teste, R$ 23,22 é 10% de R$ 232,20: o cashback saiu sobre o valor já com o cupom, e por isso o número caiu de R$ 25,80 para R$ 23,22.",
-          "A página de cashback da loja, lida em 14/10/2026, diz como ele funciona:"
+          "A página de cashback da loja, diz como ele funciona:"
         ],
         "bullets": [
           "Equivale a 10% em créditos, concedidos automaticamente ao comprar no site.",
@@ -80080,7 +80080,7 @@ export const reviewsData: unknown[] = [
           "No nosso teste, os três valeram no mesmo pedido, nesta ordem:"
         ],
         "comparisonTable": {
-          "caption": "Teste do cupom CSEMCASACOMCECILIA no carrinho da Cléa Store em 14/10/2026",
+          "caption": "Teste do cupom CSEMCASACOMCECILIA no carrinho da Cléa Store",
           "headers": [
             "Etapa",
             "O que a loja mostrou"
@@ -80112,9 +80112,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis e pagamento",
         "paragraphs": [
-          "A faixa do site, em 14/10/2026, anunciava \"frete grátis acima de R$ 599\". O cupom em si não dá frete grátis: o frete grátis é uma regra da loja. O pedido do nosso teste, de R$ 232,20, ficou abaixo desse valor.",
+          "A faixa do site anunciava \"frete grátis acima de R$ 599\". O cupom em si não dá frete grátis: o frete grátis é uma regra da loja. O pedido do nosso teste, de R$ 232,20, ficou abaixo desse valor.",
           "Se o seu carrinho está perto dos R$ 599, confira o frete no carrinho antes de pagar.",
-          "O CSEMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. O rodapé do site, em 14/10/2026, listava cartão em até 6x sem juros ou Pix."
+          "O CSEMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. O rodapé do site listava cartão em até 6x sem juros ou Pix."
         ]
       },
       {
@@ -80126,7 +80126,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se precisar devolver um produto comprado com cupom",
         "paragraphs": [
-          "A Cléa Store tem devolução grátis. O cupom, o cashback e o frete grátis não são reembolsados em caso de devolução, segundo a política de troca e devolução da loja em 14/10/2026.",
+          "A Cléa Store tem devolução grátis. O cupom, o cashback e o frete grátis não são reembolsados em caso de devolução, segundo a política de troca e devolução da loja.",
           "O quadro completo de prazos e do passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel). Os números da loja no Reclame Aqui estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
         ]
       },
@@ -80143,10 +80143,10 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Cléa Store? O cupom da nossa parceria é o CSEMCASACOMCECILIA, que dá 10% OFF em todo o site oficial, o cleastore.com.br. Digite o código no campo \"Cupom de desconto\" do resumo do pedido e clique em \"Adicionar\".",
           "Tem cupom de primeira compra na Cléa Store? Sim. O CSEMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou na loja.",
           "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja.",
-          "O cupom da Cléa Store soma com as promoções? Sim. No nosso teste de 14/10/2026, o 10% valeu sobre o preço promocional.",
+          "O cupom da Cléa Store soma com as promoções? Sim. No nosso teste, o 10% valeu sobre o preço promocional.",
           "O cupom da Cléa Store soma com o cashback? Sim. No nosso teste, o resumo do pedido continuou mostrando cashback, de até R$ 23,22.",
           "Posso usar dois cupons no mesmo pedido? Não. Os termos da loja dizem que cada cliente pode usar apenas um voucher por pedido.",
-          "O cupom dá frete grátis? Não. O frete grátis é uma regra da loja, que anunciava frete grátis acima de R$ 599 em 14/10/2026. O frete é calculado pelo CEP, no carrinho."
+          "O cupom dá frete grátis? Não. O frete grátis é uma regra da loja, que anunciava frete grátis acima de R$ 599. O frete é calculado pelo CEP, no carrinho."
         ]
       }
     ]
@@ -80194,15 +80194,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Black Skull 2026",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, mas a Black Skull não informou data de início nem de fim e diz que as ofertas ficam no ar o mês todo. O cupom CECILIA10 dá 10% em todo o site e soma com as promoções. Compare com os preços de outubro, mais abaixo."
+          "A Black Friday de 2026 cai na última sexta-feira de novembro, mas a Black Skull não informou data de início nem de fim e diz que as ofertas ficam no ar o mês todo. O cupom CECILIA10 dá 10% em todo o site e soma com as promoções. Compare com os preços de antes, mais abaixo."
         ]
       },
       {
         "heading": "Quando é a Black Friday da Black Skull?",
         "paragraphs": [
           "A página da campanha diz que a Black Friday \"acontece na última sexta-feira de novembro\". Em 2026, essa sexta é 27 de novembro. A mesma página afirma que as ofertas ficam disponíveis durante todo o mês e que podem chegar a \"até 50% off\". Esse é o texto da loja: ela não diz quais produtos chegam a esse percentual, e não conferimos o número em nenhum item.",
-          "A Black Skull não informa data de início nem de fim. Em 14 de outubro, não achamos a página `/black-friday` no menu nem na home do site. Por isso, o texto dela não quer dizer que a campanha já começou.",
-          "Em 2024, a campanha já estava na home 10 dias antes da sexta; em 2025, 12 dias antes. Nos registros da home guardados no web.archive.org, em 19 de novembro de 2024 o site já tinha a seção \"Black Friday Suplementos\" e o banner principal de Black Friday. Em 16 de novembro de 2025, o banner dizia \"BLACK FRIDAY BLACKSKULL | 50% OFF Whey, Creatina e Mais\". As datas de início e fim dessas campanhas não aparecem nos registros."
+          "A Black Skull não informa data de início nem de fim. Quando conferimos, não achamos a página `/black-friday` no menu nem na home do site. Por isso, o texto dela não quer dizer que a campanha já começou.",
+          "Em 2024, a campanha já estava na home 10 dias antes da sexta; em 2025, 12 dias antes. Nos registros da home guardados no web.archive.org, em 2024 o site já tinha a seção \"Black Friday Suplementos\" e o banner principal de Black Friday. Em 2025, o banner dizia \"BLACK FRIDAY BLACKSKULL | 50% OFF Whey, Creatina e Mais\". As datas de início e fim dessas campanhas não aparecem nos registros."
         ]
       },
       {
@@ -80213,16 +80213,16 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
           "alt": "Página inicial do site da Black Skull em 14/10/2026, com o banner do Whey Protein Concentrado a partir de R$ 139,90",
-          "caption": "A página inicial da Black Skull em 14/10/2026, com o Whey Protein Concentrado a partir de R$ 139,90.",
+          "caption": "A página inicial da Black Skull, com o Whey Protein Concentrado a partir de R$ 139,90.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "Preços da Black Skull em 14 de outubro de 2026: preço de lista e preço do dia, antes do cupom CECILIA10.",
+          "caption": "Preços da Black Skull: preço de lista e preço do dia, antes do cupom CECILIA10.",
           "headers": [
             "Produto",
             "Preço de lista",
-            "Em 14/10/2026"
+            "Preço do dia"
           ],
           "rows": [
             [
@@ -80297,25 +80297,25 @@ export const reviewsData: unknown[] = [
         "heading": "O CECILIA10 vale em produto em promoção?",
         "paragraphs": [
           "Vale. O **CECILIA10** dá 10% de desconto em todo o site da Black Skull, vale com todas as formas de pagamento e soma com as promoções vigentes. O desconto vem em cima do preço já reduzido, sem substituí-lo.",
-          "No nosso teste na sacola, em 13/10/2026, havia uma regata, um kit de whey, creatina e pré-treino e uma glutamina. Dois itens já apareciam com o preço antigo riscado: a regata, de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47. O subtotal era de R$ 364,33. O cupom tirou R$ 36,44, e o total ficou em **R$ 327,89**.",
+          "No nosso teste na sacola, havia uma regata, um kit de whey, creatina e pré-treino e uma glutamina. Dois itens já apareciam com o preço antigo riscado: a regata, de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47. O subtotal era de R$ 364,33. O cupom tirou R$ 36,44, e o total ficou em **R$ 327,89**.",
           "Esse teste foi feito em itens em promoção, não em item da campanha de Black Friday, que ainda não tem data na loja. Para a Black Friday, a informação que temos é a de hoje: o cupom soma com as promoções vigentes. Ainda não testamos num item da campanha.",
           "A conta pode ser feita no próprio carrinho, na linha \"Descontos\", antes de finalizar.",
           "O passo a passo do campo do cupom está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar). As condições do dia ficam na [página do cupom da Black Skull](/cupons/black-skull)."
         ],
         "image": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
-        "imageAlt": "Sacola da Black Skull em 13/10/2026 com o CECILIA10 aplicado sobre itens em promoção: desconto de R$ 36,44 e total de R$ 327,89",
-        "imageCaption": "Sacola da Black Skull em 13/10/2026, depois do \"Adicionar\": CECILIA10 aplicado sobre itens em promoção, \"Descontos\" de R$ -36,44 e total de R$ 327,89. O marca-texto amarelo é nosso.",
+        "imageAlt": "Sacola da Black Skull com o CECILIA10 aplicado sobre itens em promoção: desconto de R$ 36,44 e total de R$ 327,89",
+        "imageCaption": "Sacola da Black Skull depois do \"Adicionar\": CECILIA10 aplicado sobre itens em promoção, \"Descontos\" de R$ -36,44 e total de R$ 327,89. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 0.8481
       },
       {
         "heading": "Frete grátis, Pix e parcelamento",
         "paragraphs": [
-          "O frete grátis depende da região de entrega e do valor final do carrinho. A loja conta o total já com os descontos, inclusive o do cupom. A tabela traz a política de entrega lida em 14/10/2026.",
-          "Os mínimos abaixo valem para o total já com o CECILIA10. Pela nossa conta, o whey 100% HD 1,8 kg baunilha, que estava a R$ 279,90 em 14/10/2026, sai por R$ 251,91 com o CECILIA10. Esse valor passa do mínimo do Sul, do Sudeste e do Centro-Oeste, mas fica abaixo dos R$ 299,90 das demais regiões. Em pedido que passa do mínimo por pouco, confira o total com o cupom aplicado antes de pagar."
+          "O frete grátis depende da região de entrega e do valor final do carrinho. A loja conta o total já com os descontos, inclusive o do cupom. A tabela traz a política de entrega.",
+          "Os mínimos abaixo valem para o total já com o CECILIA10. Pela nossa conta, o whey 100% HD 1,8 kg baunilha, que estava a R$ 279,90, sai por R$ 251,91 com o CECILIA10. Esse valor passa do mínimo do Sul, do Sudeste e do Centro-Oeste, mas fica abaixo dos R$ 299,90 das demais regiões. Em pedido que passa do mínimo por pouco, confira o total com o cupom aplicado antes de pagar."
         ],
         "comparisonTable": {
-          "caption": "Frete grátis da Black Skull por região de entrega, conforme a política de entrega lida em 14 de outubro de 2026.",
+          "caption": "Frete grátis da Black Skull por região de entrega, conforme a política de entrega.",
           "headers": [
             "Região de entrega",
             "Frete grátis em compras acima de"
@@ -80348,10 +80348,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas e compra de Natal",
         "paragraphs": [
-          "A Black Friday cai antes do Natal, e muita gente compra suplemento ou roupa de treino para dar de presente. Vale conhecer o prazo antes. Regras da política de trocas, conferidas em 14/10/2026:"
+          "A Black Friday cai antes do Natal, e muita gente compra suplemento ou roupa de treino para dar de presente. Vale conhecer o prazo antes. Regras da política de trocas:"
         ],
         "comparisonTable": {
-          "caption": "Política de trocas da Black Skull, conferida em 14 de outubro de 2026.",
+          "caption": "Política de trocas da Black Skull.",
           "headers": [
             "Situação",
             "Prazo",
@@ -80376,21 +80376,21 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os prazos contam do recebimento, não do Natal. Um pedido entregue em 1º de dezembro tem arrependimento até 8 de dezembro e pedido de troca comum até 31 de dezembro.",
+          "Os prazos contam do recebimento, não do Natal. Um pedido entregue no começo de dezembro tem arrependimento até uma semana depois e pedido de troca comum até o fim do mês.",
           "O ponto que mais pesa para quem dá presente é o sabor errado: a troca comum não é gratuita, e o frete de ida e de volta sai do bolso de quem comprou. Se o presente for suplemento, escolher o sabor com a pessoa antes evita essa conta. O pedido de troca vai para o e-mail da loja, e os detalhes, junto com CNPJ e site oficial, estão em [Black Skull é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/black-skull-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Black Friday da Black Skull é em novembro? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda-feira, 30 de novembro. A página de Black Friday da loja diz que as ofertas ficam disponíveis durante todo o mês, mas a loja não informa data de início nem de fim.",
-          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: no teste na sacola de 13/10/2026, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado.",
+          "A Black Friday da Black Skull é em novembro? A Black Friday de 2026 é na última sexta-feira de novembro, e a Cyber Monday, na segunda-feira seguinte. A página de Black Friday da loja diz que as ofertas ficam disponíveis durante todo o mês, mas a loja não informa data de início nem de fim.",
+          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: no teste na sacola, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado.",
           "O CECILIA10 vale em qualquer forma de pagamento? Vale em todas as formas de pagamento da loja: cartão em até 8 vezes sem juros (parcela mínima de R$ 50), Pix, Pix parcelado em 4 vezes sem juros e boleto à vista.",
-          "O frete da Black Skull é grátis? Depende da região. Em 14/10/2026, o frete grátis valia acima de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contado sobre o total já com o desconto do cupom.",
+          "O frete da Black Skull é grátis? Depende da região. O frete grátis valia acima de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contado sobre o total já com o desconto do cupom.",
           "A Black Skull tem desconto no Pix? A loja não anuncia desconto próprio no Pix. O Pix e o Pix parcelado em 4 vezes sem juros são formas de pagamento, e o CECILIA10 vale nelas.",
           "Dá para trocar um produto comprado na Black Friday? Dá. O arrependimento vale 7 dias corridos depois do recebimento, com a loja pagando a postagem. A troca comum pode ser pedida em até 30 dias corridos da entrega, com frete pago por você e produto lacrado. Defeito fica por conta da loja.",
-          "Compro na Black Friday e dou de Natal: o prazo de troca dá? Conta da entrega: um pedido recebido em 1º de dezembro pode ter troca comum pedida até 31 de dezembro. O arrependimento, de 7 dias, é de quem comprou.",
-          "Vale a pena esperar a Black Friday para comprar? Depende do que você já tem em vista. O CECILIA10 vale hoje e dá 10% em cima do preço do dia, então ele não é motivo para esperar. A espera só compensa se o preço de novembro ficar abaixo do preço de outubro; por isso o guia traz os preços de 14/10/2026 para comparar."
+          "Compro na Black Friday e dou de Natal: o prazo de troca dá? Conta da entrega: um pedido recebido no começo de dezembro pode ter troca comum pedida até o fim do mês. O arrependimento, de 7 dias, é de quem comprou.",
+          "Vale a pena esperar a Black Friday para comprar? Depende do que você já tem em vista. O CECILIA10 vale hoje e dá 10% em cima do preço do dia, então ele não é motivo para esperar. A espera só compensa se o preço de novembro ficar abaixo do preço de outubro; por isso o guia traz os preços de outubro para comparar."
         ]
       }
     ],
@@ -81073,6 +81073,7 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
+    "bodyDatesReason": "campanha",
     "id": 440,
     "slug": "black-friday-clea-store",
     "title": "Black Friday Cléa Store 2026: campanha ainda não anunciada, preços de outubro e o cupom CSEMCASACOMCECILIA",
@@ -81114,23 +81115,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Cléa Store 2026",
         "paragraphs": [
-          "A Cléa Store ainda não anunciou a Black Friday de 2026, que cai em 27 de novembro. O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site e valeu até sobre kit em promoção no nosso teste. Use os preços de outubro como régua; o capítulo sobre o cupom no kit mostra a conta."
+          "A Cléa Store ainda não anunciou a Black Friday de 2026. O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site e valeu até sobre kit em promoção no nosso teste. Use os preços de outubro como régua; o capítulo sobre o cupom no kit mostra a conta."
         ]
       },
       {
         "heading": "Como foi a Black Friday da Cléa Store em 2025?",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. Em 14/10/2026, a Cléa Store ainda não tinha anunciado a campanha deste ano: o site tem a categoria Black Friday no menu, sem data nem percentual.",
-          "Em 2025, a Black Friday da Cléa foi anunciada na própria loja. Na home de 18/11/2025, conforme o registro do Internet Archive, o menu trazia \"BLACK FRIDAY - ATÉ 75% OFF\" e \"KIT LEVE 3 PAGUE 2\". A faixa do topo dizia: \"BLACK FRIDAY CLÉA • ATÉ 75% OFF • KITS LEVE 3 PAGUE 2 • 10% DE CASHBACK\".",
+          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. Até agora, a Cléa Store não anunciou a campanha deste ano: o site tem a categoria Black Friday no menu, sem data nem percentual.",
+          "Em 2025, a Black Friday da Cléa foi anunciada na própria loja. Na home de novembro de 2025, conforme o registro do Internet Archive, o menu trazia \"BLACK FRIDAY - ATÉ 75% OFF\" e \"KIT LEVE 3 PAGUE 2\". A faixa do topo dizia: \"BLACK FRIDAY CLÉA • ATÉ 75% OFF • KITS LEVE 3 PAGUE 2 • 10% DE CASHBACK\".",
           "São três regras que a loja destacou:"
         ],
         "bullets": [
           "**Até 75% OFF:** o teto do desconto. A faixa não diz em quais peças nem quanto era o desconto das demais.",
           "**Kits \"leve 3 pague 2\":** você leva três peças e paga duas.",
-          "**10% de cashback:** em créditos, segundo a página de cashback da loja em 14/10/2026. As regras estão mais abaixo, na seção sobre frete, devolução e cashback."
+          "**10% de cashback:** em créditos, segundo a página de cashback da loja. As regras estão mais abaixo, na seção sobre frete, devolução e cashback."
         ],
         "postParagraphs": [
-          "O registro de 18/11/2025 não traz as datas de início e fim da campanha. Na home de 09/11/2024, o Internet Archive não mostra texto de Black Friday. É histórico: a loja não confirmou que repete o formato em 2026."
+          "O registro de 2025 não traz as datas de início e fim da campanha. Na home de novembro de 2024, o Internet Archive não mostra texto de Black Friday. É histórico: a loja não confirmou que repete o formato em 2026."
         ]
       },
       {
@@ -81141,16 +81142,16 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
           "alt": "Categoria Body do site da Cléa Store em 14/10/2026, com o Body Gola Alta Manga Longa de R$ 169,00 por R$ 135,20 e os bodies Tule Gola Alta e Regata Second Skin Duplo de R$ 159,00 por R$ 127,20",
-          "caption": "A categoria Body da Cléa Store em 14/10/2026, com o Body Gola Alta Manga Longa de R$ 169,00 por R$ 135,20.",
+          "caption": "A categoria Body da Cléa Store, com o Body Gola Alta Manga Longa de R$ 169,00 por R$ 135,20.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "Preços na Cléa Store em 14/10/2026: preço de tabela e preço mostrado no site, sem cupom e sem campanha de Black Friday.",
+          "caption": "Preços na Cléa Store: preço de tabela e preço mostrado no site, sem cupom e sem campanha de Black Friday.",
           "headers": [
             "Produto",
             "Preço de tabela",
-            "Preço no site em 14/10/2026"
+            "Preço no site"
           ],
           "rows": [
             [
@@ -81176,20 +81177,20 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os bodies já tinham desconto em outubro, então o preço de tabela não serve de referência. Em novembro, só é desconto novo o que ficar abaixo do preço no site em 14/10. Se aparecer no mesmo valor, o selo de Black Friday não mudou o preço. O kit se compara com os R$ 258,00."
+          "Os bodies já tinham desconto em outubro, então o preço de tabela não serve de referência. Em novembro, só é desconto novo o que ficar abaixo do preço no site em outubro. Se aparecer no mesmo valor, o selo de Black Friday não mudou o preço. O kit se compara com os R$ 258,00."
         ]
       },
       {
         "heading": "O cupom vale no kit em promoção?",
         "paragraphs": [
-          "Os termos da Cléa Store dizem que o voucher não vale em \"produtos já remarcados, salvo exceção comunicada pela loja\". Por isso fizemos o teste no checkout. Em 14/10/2026, o cupom **CSEMCASACOMCECILIA** valeu num kit que já estava em promoção.",
+          "Os termos da Cléa Store dizem que o voucher não vale em \"produtos já remarcados, salvo exceção comunicada pela loja\". Por isso fizemos o teste no checkout. No checkout, o cupom **CSEMCASACOMCECILIA** valeu num kit que já estava em promoção.",
           "No nosso teste, o carrinho tinha só o Kit 3 T-Shirts Oversized Classic. O cupom de 10% incidiu sobre o preço promocional, não sobre os R$ 387,00."
         ],
         "comparisonTable": {
-          "caption": "Teste do cupom CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic, em 14/10/2026.",
+          "caption": "Teste do cupom CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic.",
           "headers": [
             "Etapa",
-            "O que a loja mostrou em 14/10/2026"
+            "O que a loja mostrou"
           ],
           "rows": [
             [
@@ -81219,14 +81220,14 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
             "alt": "Checkout da Cléa Store em 14/10/2026 com o Kit 3 T-Shirts Oversized Classic em promoção, de R$ 387,00 por R$ 258,00, antes do cupom, com o cashback de até R$ 25,80 e a linha Cupom de desconto marcados em amarelo",
-            "caption": "Checkout da Cléa Store em 14/10/2026, antes do cupom: o kit em promoção por R$ 258,00 e o total de R$ 258,00. O marca-texto amarelo é nosso.",
+            "caption": "Checkout da Cléa Store, antes do cupom: o kit em promoção por R$ 258,00 e o total de R$ 258,00. O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 1.1486
           },
           {
             "src": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
             "alt": "Checkout da Cléa Store em 14/10/2026 depois do cupom, com a linha Desconto de menos R$ 25,80, o Cupom aplicado CSEMCASACOMCECILIA e o total de R$ 232,20",
-            "caption": "Depois do cupom, em 14/10/2026: desconto de R$ 25,80 sobre os R$ 258,00 e total de R$ 232,20. O marca-texto amarelo é nosso.",
+            "caption": "Depois do cupom: desconto de R$ 25,80 sobre os R$ 258,00 e total de R$ 232,20. O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.9308
           }
@@ -81238,9 +81239,9 @@ export const reviewsData: unknown[] = [
           "Três regras da loja mudam a conta do pedido."
         ],
         "bullets": [
-          "**Frete grátis acima de R$ 599.** A faixa do site, em 14/10/2026, anunciava \"frete grátis acima de R$ 599\". O cupom não dá frete grátis: a regra é da loja. O pedido do nosso teste, de R$ 232,20, ficou R$ 366,80 abaixo desse valor. Abaixo de R$ 599, o frete é calculado pelo CEP, no link \"Calcular\" da linha \"Entrega\" do resumo do pedido. Perto desse valor, confira o total do carrinho depois do cupom.",
+          "**Frete grátis acima de R$ 599.** A faixa do site anunciava \"frete grátis acima de R$ 599\". O cupom não dá frete grátis: a regra é da loja. O pedido do nosso teste, de R$ 232,20, ficou R$ 366,80 abaixo desse valor. Abaixo de R$ 599, o frete é calculado pelo CEP, no link \"Calcular\" da linha \"Entrega\" do resumo do pedido. Perto desse valor, confira o total do carrinho depois do cupom.",
           "**Devolução grátis.** A devolução é grátis sempre: a postagem não é cobrada do cliente. O prazo é de 30 dias corridos depois do recebimento, com a peça sem uso, na embalagem original e com a nota fiscal. Cashback, cupons e frete grátis não são reembolsados. O passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel).",
-          "**Cashback de 10% em créditos.** A página de cashback da loja, lida em 14/10/2026, diz que o benefício equivale a 10% em créditos, concedidos automaticamente ao comprar no site. Os créditos ficam disponíveis em até 1 dia útil, valem por 30 dias e são acumulativos. O saldo é usado no checkout, no campo \"Utilize seu saldo de créditos\", na etapa de pagamento. A página não cita valor mínimo nem exclusões."
+          "**Cashback de 10% em créditos.** A página de cashback da loja diz que o benefício equivale a 10% em créditos, concedidos automaticamente ao comprar no site. Os créditos ficam disponíveis em até 1 dia útil, valem por 30 dias e são acumulativos. O saldo é usado no checkout, no campo \"Utilize seu saldo de créditos\", na etapa de pagamento. A página não cita valor mínimo nem exclusões."
         ],
         "postParagraphs": [
           "O cupom e o cashback valem no mesmo pedido. No nosso teste, o checkout mostrava um cashback previsto de até R$ 25,80 antes do cupom e de até R$ 23,22 depois. Os R$ 23,22 são 10% dos R$ 232,20: a previsão é sobre o valor já com o cupom."
@@ -81250,13 +81251,13 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Cléa Store na Black Friday? O cupom da nossa parceria é o CSEMCASACOMCECILIA, com 10% OFF em todo o site, em todas as formas de pagamento.",
-          "O cupom vale em kit em promoção? No nosso teste de 14/10/2026, sim: o 10% incidiu sobre os R$ 258,00 do Kit 3 T-Shirts em promoção e o total ficou em R$ 232,20. Os termos da loja preveem exceções, então vamos reconferir no checkout em novembro.",
+          "O cupom vale em kit em promoção? No nosso teste, sim: o 10% incidiu sobre os R$ 258,00 do Kit 3 T-Shirts em promoção e o total ficou em R$ 232,20. Os termos da loja preveem exceções, então vamos reconferir no checkout em novembro.",
           "O cupom soma com o cashback? Sim. No nosso teste, o checkout mostrou cashback previsto de até R$ 23,22, calculado sobre o valor com o cupom.",
           "Posso usar dois cupons no mesmo pedido? Não. Pelos termos da loja, cada cliente usa um voucher por pedido.",
-          "O cupom dá frete grátis? Não. O frete grátis é regra da loja e, em 14/10/2026, valia acima de R$ 599. Abaixo disso, o frete é calculado pelo CEP no carrinho.",
+          "O cupom dá frete grátis? Não. O frete grátis é regra da loja e valia acima de R$ 599. Abaixo disso, o frete é calculado pelo CEP no carrinho.",
           "A Cléa Store tem devolução grátis? Sim, sempre: a postagem não é cobrada. O prazo é de 30 dias corridos depois do recebimento, com a peça sem uso e com a nota fiscal.",
           "Como funciona o cashback da Cléa Store? É de 10% em créditos, concedidos automaticamente na compra pelo site. Ficam disponíveis em até 1 dia útil, valem por 30 dias, são acumulativos e são usados no campo \"Utilize seu saldo de créditos\" do checkout.",
-          "A Black Friday de 2026 da Cléa Store já tem data? Não. Em 14/10/2026, a loja não tinha publicado a campanha."
+          "A Black Friday de 2026 da Cléa Store já tem data? Não. A loja ainda não tinha publicado a campanha quando lemos o site."
         ]
       }
     ],
@@ -81579,10 +81580,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona o brinde dos 14 anos",
         "paragraphs": [
-          "A Cléa Store comemora 14 anos com uma T-Shirt Oversized de brinde em qualquer compra, até 31/10/2026, e o cupom CSEMCASACOMCECILIA vale junto. Veja como pegar o brinde.",
+          "A Cléa Store comemora 14 anos com uma T-Shirt Oversized de brinde em qualquer compra, até o fim de outubro, e o cupom CSEMCASACOMCECILIA vale junto. Veja como pegar o brinde.",
           "Você escolhe a T-Shirt numa janela do site. Com o carrinho vazio, a loja avisa: \"Adicione mais 1 item(ns) para ganhar um brinde\". Depois da primeira peça, o brinde fica liberado.",
           "A janela se chama **\"Escolha entre os brindes disponíveis\"**. O título diz \"A Cléa faz 14 anos. O presente é seu!\". Logo abaixo, a loja explica: \"Em qualquer compra, você ganha uma T-Shirt Oversized. Escolha a cor e o tamanho do seu brinde entre as opções disponíveis.\"",
-          "O passo a passo, como fizemos no nosso teste de 15/10/2026:"
+          "O passo a passo, como fizemos no nosso teste:"
         ],
         "bullets": [
           "Adicione uma peça ao carrinho. Pode ser um kit: um kit de 3 conta como uma peça.",
@@ -81593,7 +81594,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Segundo a própria loja, a T-Shirt Oversized é o best-seller da marca, feita em 100% algodão penteado premium.",
-          "Fora da promoção, a T-Shirts Oversized Algodão é vendida por **R$ 129,00**. Em 15/10/2026, o site tinha 10 cores à venda: azul claro, azul marinho, caramelo, marrom, off white, preto, rosa claro, verde oliva, vermelho e vinho, nos tamanhos P, M e G. As cores e os tamanhos do brinde são os disponíveis na janela, que podem ser menos que os da peça vendida."
+          "Fora da promoção, a T-Shirts Oversized Algodão é vendida por **R$ 129,00**. No teste, o site tinha 10 cores à venda: azul claro, azul marinho, caramelo, marrom, off white, preto, rosa claro, verde oliva, vermelho e vinho, nos tamanhos P, M e G. As cores e os tamanhos do brinde são os disponíveis na janela, que podem ser menos que os da peça vendida."
         ]
       },
       {
@@ -81602,7 +81603,7 @@ export const reviewsData: unknown[] = [
           "Como uma peça basta, o pedido mais barato é o da peça mais barata do site. Estes eram os preços em 15/10/2026, do preço de tabela ao valor com o cupom de 10%, que incide sobre o preço já promocional:"
         ],
         "comparisonTable": {
-          "caption": "Peças da Cléa Store em 15/10/2026: preço de tabela, preço no site e valor com o cupom CSEMCASACOMCECILIA (10%), sem o frete. A T-Shirt de brinde vem em qualquer um desses pedidos.",
+          "caption": "Peças da Cléa Store: preço de tabela, preço no site e valor com o cupom CSEMCASACOMCECILIA (10%), sem o frete. A T-Shirt de brinde vem em qualquer um desses pedidos.",
           "headers": [
             "Peça",
             "Tabela",
@@ -81649,7 +81650,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom vale junto com o brinde?",
         "paragraphs": [
-          "Sim. No nosso teste de 15/10/2026, o cupom **CSEMCASACOMCECILIA** valeu com a T-Shirt de brinde no carrinho.",
+          "Sim. No nosso teste, o cupom **CSEMCASACOMCECILIA** valeu com a T-Shirt de brinde no carrinho.",
           "O carrinho tinha dois itens. A Calça Cargo Marrom (P), de R$ 589,00 por R$ 530,10 na promoção do site. E a T-Shirts Oversized Algodão (Preto, P), escolhida na janela de brindes, de R$ 129,00 por R$ 0,00. Com o código digitado, o resumo do pedido mostrou \"Cupom adicionado CSEMCASACOMCECILIA\". A conta:"
         ],
         "bullets": [
@@ -81665,7 +81666,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/clea-store/clea-store-aniversario-14-anos-carrinho.webp",
         "imageAlt": "Carrinho da Cléa Store com a Calça Cargo Marrom de R$ 589,00 por R$ 530,10, a T-Shirts Oversized Algodão de brinde de R$ 129,00 por R$ 0,00, o cupom CSEMCASACOMCECILIA adicionado, o desconto de R$ -53,01 e o total de R$ 477,09, com a barra Faltam R$ 121,91 para frete grátis",
-        "imageCaption": "Carrinho do nosso teste em 15/10/2026: a T-Shirt de brinde a R$ 0,00, o cupom adicionado e o desconto só sobre a calça. O marca-texto amarelo é nosso.",
+        "imageCaption": "Carrinho do nosso teste: a T-Shirt de brinde a R$ 0,00, o cupom adicionado e o desconto só sobre a calça. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 0.7766
       },
@@ -81676,16 +81677,16 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Frete grátis acima de R$ 599.** No nosso teste, com o total de R$ 477,09, a barra do topo dizia \"Faltam R$ 121,91 para frete grátis\". 599,00 − 477,09 = 121,91: a loja conta o total **depois do cupom**, não o preço de tabela nem o subtotal. Abaixo de R$ 599, o frete é calculado pelo CEP, no link \"Calcular\" do resumo do pedido. Se o carrinho está perto dos R$ 599, aplique o cupom primeiro e confira a barra depois.",
-          "**Cashback de 10% em créditos.** A página de cashback da loja, lida em 14/10/2026, diz que os créditos são concedidos automaticamente na compra pelo site, ficam disponíveis em até 1 dia útil e valem por 30 dias. O saldo é usado no checkout, no campo \"Utilize seu saldo de créditos\". O cupom e o cashback valem no mesmo pedido.",
+          "**Cashback de 10% em créditos.** A página de cashback da loja, diz que os créditos são concedidos automaticamente na compra pelo site, ficam disponíveis em até 1 dia útil e valem por 30 dias. O saldo é usado no checkout, no campo \"Utilize seu saldo de créditos\". O cupom e o cashback valem no mesmo pedido.",
           "**Devolução grátis.** O prazo é de 30 dias corridos depois do recebimento, e a postagem não é cobrada. Cupom, cashback e frete grátis não são reembolsados na devolução. O passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Até quando vai a T-Shirt de brinde da Cléa Store? Até 31/10/2026. A promoção é da loja e vale para qualquer cliente. Depois dessa data, o cupom de 10% continua valendo.",
+          "Até quando vai a T-Shirt de brinde da Cléa Store? Até o último dia de outubro. A promoção é da loja e vale para qualquer cliente. Depois dessa data, o cupom de 10% continua valendo.",
           "Quanto preciso gastar para ganhar a T-Shirt? Basta uma peça no carrinho. A loja diz \"na compra de qualquer peça\", sem valor mínimo.",
-          "Um kit conta como uma peça para o brinde? Sim. Um kit de 3 T-Shirts conta como uma peça e libera o brinde, como conferimos no carrinho em 15/10/2026.",
+          "Um kit conta como uma peça para o brinde? Sim. Um kit de 3 T-Shirts conta como uma peça e libera o brinde, como conferimos no carrinho.",
           "O cupom CSEMCASACOMCECILIA vale junto com o brinde? Sim. No teste, o cupom deu R$ -53,01 sobre a calça, e a T-Shirt seguiu a R$ 0,00.",
           "Posso escolher a cor e o tamanho da T-Shirt de brinde? Sim. Você escolhe na janela \"Escolha entre os brindes disponíveis\", entre as cores e os tamanhos que a loja tiver naquele momento.",
           "O brinde ajuda a chegar ao frete grátis de R$ 599? Não. A T-Shirt entra a R$ 0,00 e não soma no total. No nosso teste, o total de R$ 477,09 não incluía o brinde, e a barra pedia mais R$ 121,91 para o frete grátis.",
@@ -101324,7 +101325,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Para a sexta mais leve, a t-shirt oversized de algodão troca a camisa. A [T-Shirt Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189) custa R$ 129,00, vem em 10 cores e nos tamanhos P, M e G. Segundo a ficha, o corpo é 100% algodão penteado premium, e a página do produto mostra nota 4,8 com 1.007 avaliações.",
           "Por cima, o Blazer Oversized Alfaiataria Mescla (R$ 524,30) dá o toque de alfaiataria sem pesar o visual. Se o blazer não servir no seu tamanho, o Colete Alfaiataria Trespasse Vermelho (R$ 799,00) entra no lugar dele.",
-          "Quem quer mais de uma camiseta pode levar o kit de 3 t-shirts a R$ 258,00 (preço cheio R$ 387,00). Com o cupom, o kit sai por R$ 232,20, valor testado pela equipe em 14/10/2026."
+          "Quem quer mais de uma camiseta pode levar o kit de 3 t-shirts a R$ 258,00 (preço cheio R$ 387,00). Com o cupom, o kit sai por R$ 232,20, valor testado pela equipe."
         ],
         "images": [
           {
@@ -101412,12 +101413,6 @@ export const reviewsData: unknown[] = [
           "A Cléa vende conjunto de blazer e calça? Não. O único conjunto do catálogo é o Conjunto Crochê Preto, que não é de alfaiataria. Blazer e calça aparecem separados.",
           "O cupom vale nas peças de alfaiataria? Vale. O CSEMCASACOMCECILIA dá 10% em todo o site oficial, e as peças de alfaiataria estão lá. Ele não vale no Mercado Livre, onde a alfaiataria não aparece."
         ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços, o estoque e as avaliações foram lidos no site oficial da Cléa Store em 20/10/2026, exceto a avaliação do Body Duplo e a da t-shirt, de 19/10/2026, e mudam; confira antes de comprar. Podemos receber comissão quando a compra sai pelo cupom ou pelos links da loja, e isso não muda o preço para quem compra. Ninguém do site vestiu nem usou as peças citadas: os looks são montagens feitas com as fichas e os preços da loja. O cupom foi testado pela equipe em 14/10/2026."
-        ]
       }
     ],
     "pros": [],
@@ -101430,7 +101425,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CSEMCASACOMCECILIA",
     "affiliate": "clea-store",
-    "editorialNote": "Preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA e pelos links da loja.",
+    "editorialNote": "Preços lidos no site da Cléa Store; os looks são montagens com as fichas da loja. Podemos receber comissão pelo CSEMCASACOMCECILIA e pelos links da loja.",
     "relatedArticles": [
       {
         "slug": "body-clea-store-second-skin-qual-escolher",
@@ -101599,7 +101594,7 @@ export const reviewsData: unknown[] = [
         "heading": "Kit de 3 bodies: quanto sai cada peça",
         "paragraphs": [
           "O Gola Alta e o Duplo têm kit de três peças no seletor \"3 unid.\" da própria página. Cada peça do Gola Alta sai por R$ 101,40 (R$ 304,20 as três) e cada peça do Duplo sai por R$ 95,40 (R$ 286,20 as três). Segundo a página, o kit cheio de três custa R$ 507,00 no Gola Alta e R$ 477,00 no Duplo. Nos outros modelos, a página não mostra preço de três peças.",
-          "Para ver os preços desses bodies na Black Friday, veja o [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). Os valores de lá são de 14/10/2026."
+          "Para ver os preços desses bodies na Black Friday, veja o [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). Os valores de lá são de outubro."
         ]
       },
       {
@@ -101623,7 +101618,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avaliações públicas dos bodies Second Skin",
         "paragraphs": [
-          "Na página do Body Gola Alta Manga Longa Second Skin, a avaliação da loja, feita pela Trustvox, mostrava na leitura de 20/10/2026 nota 4,7 de 5, com 225 avaliações e 94% de recomendação. No Body Regata Second Skin Duplo, a mesma fonte mostrava nota 4,7 de 5, com 169 avaliações e 92% de recomendação, na leitura de 19/10/2026.",
+          "Na página do Body Gola Alta Manga Longa Second Skin, a avaliação da loja, feita pela Trustvox, mostrava na leitura nota 4,7 de 5, com 225 avaliações e 94% de recomendação. No Body Regata Second Skin Duplo, a mesma fonte mostrava nota 4,7 de 5, com 169 avaliações e 92% de recomendação, em leitura do dia anterior.",
           "Esses números são de clientes, publicados pela própria loja, e não conferimos avaliação por avaliação. Nos outros quatro modelos (Frente Única, Decote Reversível, Cavado e Ombro Único), a nota não apareceu na leitura, então este texto não traz número para eles."
         ]
       },
@@ -101726,12 +101721,6 @@ export const reviewsData: unknown[] = [
           "Qual tamanho escolher? Pela tabela de medidas do corpo da loja, o P serve para busto de 82 a 90 cm, o M de 88 a 96 cm e o G de 98 a 106 cm. Entre dois tamanhos, vale olhar a modelagem da peça, que no body é justa.",
           "A devolução é grátis? Sim, a devolução é grátis. Este texto não confirma troca direta de tamanho nem reembolso de uma compra feita com o cupom, então confira a regra no site antes de comprar."
         ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços são de 20/10/2026, exceto a avaliação do Duplo, que é de 19/10/2026, e podem mudar até a compra. Podemos receber comissão quando a compra sai pelo cupom CSEMCASACOMCECILIA ou pelo link da loja, e isso não muda o preço para quem compra. Ninguém da equipe do site vestiu ou usou os bodies: o que está aqui vem da ficha da loja, da descrição dela e das avaliações públicas. O cupom foi testado pela equipe em 14/10/2026."
-        ]
       }
     ],
     "pros": [],
@@ -101744,7 +101733,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CSEMCASACOMCECILIA",
     "affiliate": "clea-store",
-    "editorialNote": "Preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "editorialNote": "Preços lidos no site da Cléa Store; ninguém da equipe vestiu os bodies. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
         "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
@@ -101796,7 +101785,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como a Cléa mostra a tabela",
         "paragraphs": [
           "A Cléa não tem uma tabela de medidas única para o site. Cada página de produto tem o botão \"Tabela de Medidas\", que abre o provador da Sizebay com a tabela por tamanho. Nas peças de cima, ela traz busto, cintura e quadril; na t-shirt e no blazer, só busto e cintura. Na calça, a tabela traz cintura e quadril, com a numeração 36 a 42.",
-          "Nas peças de cima que lemos em 20/10/2026 (t-shirt oversized, bodies e blazer oversized bordô), a tabela é a mesma. O P, o M e o G têm a mesma faixa de medidas em todas elas.",
+          "Nas peças de cima que lemos (t-shirt oversized, bodies e blazer oversized bordô), a tabela é a mesma. O P, o M e o G têm a mesma faixa de medidas em todas elas.",
           "O mesmo botão abre o \"Provador Virtual\", também da Sizebay. A loja não diz que ele acerta o caimento, então use como apoio, não como medida."
         ]
       },
@@ -101863,7 +101852,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
             "alt": "Quadro com a tabela de medidas da Cléa Store: peças de cima em P, M e G e calça de 36 a 42, com busto, cintura e quadril em centímetros",
-            "caption": "Tabela de medidas lida em 20/10/2026. Quadro do Em Casa com Cecília.",
+            "caption": "Tabela de medidas lida no site. Quadro do Em Casa com Cecília.",
             "objectFit": "contain",
             "aspectRatio": 2.1053
           }
@@ -101872,7 +101861,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela da calça",
         "paragraphs": [
-          "A calça usa numeração de 36 a 42, e a tabela traz cintura e quadril, sem busto. Os números são da página da Calça New Baggy Areia, lida em 20/10/2026."
+          "A calça usa numeração de 36 a 42, e a tabela traz cintura e quadril, sem busto. Os números são da página da Calça New Baggy Areia, lida na mesma leitura."
         ],
         "comparisonTable": {
           "headers": [
@@ -101941,7 +101930,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o tamanho não servir",
         "paragraphs": [
-          "A devolução é grátis, sem custo de postagem para quem devolve. Pela página de troca e devolução da loja (lida em 14/10/2026), o prazo é de 30 dias corridos após o recebimento, com a peça na embalagem original, sem uso e com a nota fiscal.",
+          "A devolução é grátis, sem custo de postagem para quem devolve. Pela página de troca e devolução da loja, o prazo é de 30 dias corridos após o recebimento, com a peça na embalagem original, sem uso e com a nota fiscal.",
           "O texto não afirma troca direta por outro tamanho: a regra de troca que a loja descreve fala em vale no valor da peça, não em outra letra. Também não afirma quanto volta quando a compra teve cupom. Antes de devolver, leia a página de troca da loja. O que a loja informa e o que ainda não está claro nas políticas está em [a página sobre se a Cléa Store é confiável](/reviews/clea-store-e-confiavel)."
         ]
       },
@@ -101952,12 +101941,6 @@ export const reviewsData: unknown[] = [
           "O oversized é maior? Na medida do corpo, não: a tabela da t-shirt e do blazer oversized usa os mesmos números das peças justas. A folga vem do corte, que a loja descreve como caimento amplo.",
           "Posso devolver se não servir? Sim, a devolução é grátis e tem prazo de 30 dias corridos após o recebimento, pela página de troca da loja. A troca direta por outro tamanho não está confirmada.",
           "O provador acerta o tamanho? A loja não diz que sim e não garante o caimento; use a tabela como base e confira a descrição da peça."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "As tabelas e o provador foram lidos no site da Cléa Store em 20/10/2026, na página de cada peça. A equipe testou o cupom em 14/10/2026. Podemos receber comissão quando a compra sai pelo cupom ou pelo link da loja. Ninguém do site vestiu, mediu ou devolveu as peças: o que está aqui é o que a loja publica e o que a tabela mede, sem experiência própria."
         ]
       }
     ],
@@ -101971,7 +101954,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CSEMCASACOMCECILIA",
     "affiliate": "clea-store",
-    "editorialNote": "Medidas e preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "editorialNote": "Medidas lidas no site da Cléa Store; ninguém da equipe vestiu as peças. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
         "slug": "body-clea-store-second-skin-qual-escolher",
@@ -102016,13 +101999,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para quase todo o essencial (t-shirts e bodies), o Mercado Livre sai mais barato que o site com o cupom em 20/10/2026; para variedade, cupom e cashback, o site é melhor. Os preços do Mercado Livre mudam rápido, então confira os dois; a tabela abaixo mostra a comparação do dia."
+          "Para quase todo o essencial (t-shirts e bodies), o Mercado Livre sai mais barato que o site com o cupom; para variedade, cupom e cashback, o site é melhor. Os preços do Mercado Livre mudam rápido, então confira os dois; a tabela abaixo mostra a comparação do dia."
         ]
       },
       {
         "heading": "Os 7 anúncios do Mercado Livre e as 41 peças do site",
         "paragraphs": [
-          "Este guia compara o preço da Cléa Store no Mercado Livre e no site, onde vale o cupom CSEMCASACOMCECILIA, com os dados de 20/10/2026. A loja oficial no Mercado Livre tem só 7 anúncios, os kits de t-shirt e os bodies mais vendidos; nas categorias que lemos, o site tem 41 peças, com toda a alfaiataria. A conclusão está em Como escolher, no fim do texto.",
+          "Este guia compara o preço da Cléa Store no Mercado Livre e no site, onde vale o cupom CSEMCASACOMCECILIA, com os dados lidos nos dois lugares. A loja oficial no Mercado Livre tem só 7 anúncios, os kits de t-shirt e os bodies mais vendidos; nas categorias que lemos, o site tem 41 peças, com toda a alfaiataria. A conclusão está em Como escolher, no fim do texto.",
           "Na loja oficial da Cléa no Mercado Livre (vendedor Clea Oficial, reputação 4,9), estes eram os anúncios em 20/10/2026:"
         ],
         "bullets": [
@@ -102041,7 +102024,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que só o site tem",
         "paragraphs": [
-          "Nas categorias do site que lemos em 20/10/2026, contamos 41 peças. Destas, só as 7 acima aparecem no Mercado Livre. O que está só no site:"
+          "Nas categorias do site que lemos, contamos 41 peças. Destas, só as 7 acima aparecem no Mercado Livre. O que está só no site:"
         ],
         "bullets": [
           "Alfaiataria: blazers, entre eles o [Risca de Giz Cinza](https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282) e os oversized [Bordô](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-bordo-4305) e [Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307), coletes, bermuda e calças de alfaiataria.",
@@ -102071,7 +102054,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O essencial: preço no Mercado Livre e no site em 20/10/2026",
+        "heading": "O essencial: preço no Mercado Livre e no site",
         "paragraphs": [
           "A comparação vale só para as peças que estão nos dois lados. No Mercado Livre, o primeiro número é o menor preço do anúncio, que em alguns casos pede pagamento com saldo no Mercado Pago. No site, é o preço de venda menos os 10% do cupom."
         ],
@@ -102123,7 +102106,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No site, o preço de venda era R$ 258,00 em cada kit, R$ 129,00 na t-shirt avulsa, R$ 127,20 no Body Duplo e R$ 135,20 no Gola Alta. O Body Tule fica fora da tabela: no site, uma das variantes está em pré-venda e o preço não fecha.",
-          "Os anúncios do Mercado Livre tinham frete grátis. No site, o frete é grátis acima de R$ 599 (valor lido em 14/10/2026). Abaixo disso, o frete é calculado no carrinho e não entra nesta conta."
+          "Os anúncios do Mercado Livre tinham frete grátis. No site, o frete é grátis acima de R$ 599. Abaixo disso, o frete é calculado no carrinho e não entra nesta conta."
         ],
         "links": [
           {
@@ -102141,14 +102124,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom e cashback no site",
         "paragraphs": [
-          "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback da loja. Ele não vale no Mercado Livre. A equipe testou o cupom em 14/10/2026: o Kit 3 T-Shirts Oversized Classic, em promoção por R$ 258,00, saiu por R$ 232,20, e o pedido gerou R$ 23,22 de cashback, calculado sobre o valor já com o cupom.",
+          "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback da loja. Ele não vale no Mercado Livre. A equipe testou o cupom: o Kit 3 T-Shirts Oversized Classic, em promoção por R$ 258,00, saiu por R$ 232,20, e o pedido gerou R$ 23,22 de cashback, calculado sobre o valor já com o cupom.",
           "O cashback só conta quando a loja credita. O passo a passo está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as condições atualizadas estão na página do [cupom Cléa Store](/cupons/clea-store)."
         ],
         "images": [
           {
             "src": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
             "alt": "Resumo do pedido no site da Cléa Store com o cupom aplicado e R$ 25,80 de desconto num kit de R$ 258",
-            "caption": "Cupom aplicado no teste de 14/10/2026. Print do Em Casa com Cecília.",
+            "caption": "Cupom aplicado no teste. Print do Em Casa com Cecília.",
             "objectFit": "contain",
             "aspectRatio": 0.9308
           }
@@ -102164,7 +102147,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como escolher",
         "bullets": [
-          "Quer só a t-shirt avulsa, o Kit Intense, o Kit Colorful, o Body Duplo ou o Body Gola Alta: compare com o Mercado Livre, que em 20/10/2026 saía mais barato que o site com o cupom.",
+          "Quer só a t-shirt avulsa, o Kit Intense, o Kit Colorful, o Body Duplo ou o Body Gola Alta: compare com o Mercado Livre, que na leitura saía mais barato que o site com o cupom.",
           "Quer o Kit Classic: o site saía R$ 154,80 mais barato.",
           "Quer outro modelo de body, outra cor, o Kit Brazil Edition, o Monte Seu Kit ou qualquer peça de alfaiataria: site, porque essas peças não estão no Mercado Livre.",
           "Quer cupom, cashback e devolução grátis no mesmo pedido: site."
@@ -102177,17 +102160,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "O cupom CSEMCASACOMCECILIA vale no Mercado Livre? Não. Ele só vale no site oficial da Cléa Store; no Mercado Livre vale o preço do anúncio.",
-          "Quais peças da Cléa Store estão no Mercado Livre? Em 20/10/2026 eram 7: a t-shirt avulsa, os kits Intense, Colorful e Classic e os bodies Gola Alta, Duplo e Tule. Alfaiataria, os outros bodies e os outros kits estão só no site.",
-          "O Mercado Livre é sempre mais barato? Não. Em 20/10/2026, a t-shirt, dois kits e dois bodies saíam mais baratos lá, e o Kit Classic saía mais barato no site. O preço do Mercado Livre muda em poucos dias, então confira os dois antes de comprar.",
-          "A Cléa Store tem frete grátis? No site, acima de R$ 599, segundo o valor lido em 14/10/2026. Os anúncios do Mercado Livre lidos em 20/10/2026 tinham frete grátis.",
-          "O cashback soma com o cupom? Sim. No teste de 14/10/2026, o cashback saiu sobre o valor já com o desconto do cupom."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços foram lidos no site da Cléa Store e na loja oficial do Mercado Livre em 20/10/2026, e mudam de um dia para o outro. Confira antes de comprar.",
-          "Podemos receber comissão quando você compra no site com o cupom ou pelo link do Mercado Livre. Isso não muda o preço para você. Ninguém do site vestiu as peças citadas. O cupom foi testado em 14/10/2026."
+          "Quais peças da Cléa Store estão no Mercado Livre? Na leitura eram 7: a t-shirt avulsa, os kits Intense, Colorful e Classic e os bodies Gola Alta, Duplo e Tule. Alfaiataria, os outros bodies e os outros kits estão só no site.",
+          "O Mercado Livre é sempre mais barato? Não. Na leitura, a t-shirt, dois kits e dois bodies saíam mais baratos lá, e o Kit Classic saía mais barato no site. O preço do Mercado Livre muda em poucos dias, então confira os dois antes de comprar.",
+          "A Cléa Store tem frete grátis? No site, acima de R$ 599, segundo o valor lido. Os anúncios do Mercado Livre lidos tinham frete grátis.",
+          "O cashback soma com o cupom? Sim. No teste, o cashback saiu sobre o valor já com o desconto do cupom."
         ]
       }
     ],
@@ -103671,13 +103647,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Skull sai mais barata que a Dux no whey e na creatina, pelo preço no cartão de 20/10/2026. Só a Dux declara o selo Creapure e vende isolado. O que muda a decisão é o tipo de whey e de creatina que você quer; veja em Quem escolhe o quê."
+          "A Black Skull sai mais barata que a Dux no whey e na creatina, pelo preço no cartão. Só a Dux declara o selo Creapure e vende isolado. O que muda a decisão é o tipo de whey e de creatina que você quer; veja em Quem escolhe o quê."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "Este guia compara whey e creatina da Black Skull (parceira do site, com o CECILIA10) e da Dux (que não é parceira), pelos rótulos e pelos preços de 20/10/2026.",
+          "Este guia compara whey e creatina da Black Skull (parceira do site, com o CECILIA10) e da Dux (que não é parceira), pelos rótulos e pelos preços que as lojas publicam.",
           "A comparação de whey e creatina começou com a Growth. A partir desta, a base é a Dux, que não é parceira do site. O comparativo com a Growth está em [Black Skull ou Growth](/reviews/black-skull-ou-growth). A série contra a Dux tem outros dois textos: [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux).",
           "Comparamos só o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficaram de fora: ninguém da equipe provou os produtos.",
           "As contas são estas, arredondadas no centavo:"
@@ -103685,7 +103661,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/black-skull/black-skull-ou-dux-capa.webp",
           "alt": "Quadro com o preço por 100 g em 20/10/2026: whey Black Skull 80% HD R$ 23,17 e 100% HD R$ 26,66, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41 no Pix; creatina Black Skull Creator refil R$ 7,98 e 300 g R$ 9,97, Dux Monohidratada R$ 20,55 e Creapure R$ 87,05 no Pix",
-          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 20/10/2026, sem frete.",
+          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais, sem frete.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -103701,7 +103677,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 20/10/2026 no cartão, sem o cupom. A Black Skull não dá desconto no Pix nas páginas que lemos."
+          "Preços no cartão, sem o cupom. A Black Skull não dá desconto no Pix nas páginas que lemos."
         ],
         "comparisonTable": {
           "headers": [
@@ -103750,7 +103726,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/black-skull/black-skull-ou-dux-proteina-por-dose.webp",
             "alt": "Barras com a proteína por dose: Black Skull Whey 80% HD 23 g em 30 g, Dux Whey Protein Concentrado 20 g em 30 g e Black Skull Whey 100% HD 21 g em 35 g",
-            "caption": "Proteína por dose nas tabelas nutricionais das páginas oficiais, lidas em 20/10/2026.",
+            "caption": "Proteína por dose nas tabelas nutricionais das páginas oficiais, lidas nos sites.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
@@ -103791,7 +103767,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g nas duas lojas",
         "paragraphs": [
-          "Preços de 20/10/2026 no cartão, sem o cupom. Todas as creatinas desta tabela têm dose de 5 g, exceto a Creapure da Dux, de 3 g. As creatinas comparadas são monohidratadas."
+          "Preços no cartão, sem o cupom. Todas as creatinas desta tabela têm dose de 5 g, exceto a Creapure da Dux, de 3 g. As creatinas comparadas são monohidratadas."
         ],
         "images": [
           {
@@ -103838,7 +103814,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, a Dux sai a R$ 20,55 (monohidratada) e R$ 87,05 (Creapure) por 100 g. Com o CECILIA10, o Creator refil cai para R$ 7,18 e o de 300 g, para R$ 8,97.",
-          "Os dois Creators, o [refil de 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p) e o [pote de 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p), estavam em promoção em 20/10/2026. Sem a promoção, o refil de 500 g sai a R$ 11,98 por 100 g, e o de 300 g, a R$ 16,63. As duas ficam abaixo da monohidratada da Dux, de R$ 21,63 no cartão. A contagem de 100 doses do refil vem da página do produto.",
+          "Os dois Creators, o [refil de 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p) e o [pote de 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p), estavam em promoção. Sem a promoção, o refil de 500 g sai a R$ 11,98 por 100 g, e o de 300 g, a R$ 16,63. As duas ficam abaixo da monohidratada da Dux, de R$ 21,63 no cartão. A contagem de 100 doses do refil vem da página do produto.",
           "A Creator refil de 500 g é a creatina mais barata desta comparação por grama. Por dose, sai a R$ 0,40; a monohidratada da Dux, a R$ 1,08."
         ]
       },
@@ -103869,7 +103845,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom, Pix e frete",
         "paragraphs": [
-          "O CECILIA10 foi conferido num carrinho de teste em 13/10/2026. Com R$ 364,33 em itens (whey, creatina, pré-treino, glutamina e regata), o cupom deu R$ 36,44 de desconto, e o total foi R$ 327,89. O 10% valeu também sobre itens que já estavam em promoção."
+          "O CECILIA10 foi conferido num carrinho de teste. Com R$ 364,33 em itens (whey, creatina, pré-treino, glutamina e regata), o cupom deu R$ 36,44 de desconto, e o total foi R$ 327,89. O 10% valeu também sobre itens que já estavam em promoção."
         ],
         "comparisonTable": {
           "headers": [
@@ -103885,12 +103861,12 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Pix",
-              "Sem desconto de Pix nas páginas lidas em 18/10",
+              "Sem desconto de Pix nas páginas lidas",
               "5% no Pix, não acumulável com algumas promoções; no cartão, sem desconto"
             ],
             [
               "Frete grátis",
-              "A partir de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contando o total depois do desconto (política lida em 14/10/2026)",
+              "A partir de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contando o total depois do desconto (política de entrega da loja)",
               "A partir de R$ 250 no Sul, no Sudeste e no Centro-Oeste, R$ 300 no Nordeste e R$ 400 no Norte"
             ]
           ]
@@ -103919,7 +103895,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escolhe o quê",
         "paragraphs": [
-          "Pelos rótulos e pelos preços de 20/10/2026:"
+          "Pelos rótulos e pelos preços lidos:"
         ],
         "bullets": [
           "Quer o menor preço por 100 g de proteína: [Whey 80% HD da Black Skull](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p), a R$ 23,17 sem cupom e R$ 20,86 com o CECILIA10.",
@@ -103943,17 +103919,9 @@ export const reviewsData: unknown[] = [
           "A Black Skull é boa marca? Não provamos os produtos, e este texto não diz se a marca é boa. Ele mostra o rótulo, o preço e as regras de cupom e frete.",
           "A Dux tem cupom? Não. A Dux não é parceira do site, e o CECILIA10 vale só na Black Skull.",
           "A Dux tem Creapure? A Dux diz que a linha 100% Creapure usa creatina Creapure, produzida pela AlzChem. A Black Skull não declara Creapure nas páginas que lemos.",
-          "O CECILIA10 soma com promoção? Sim, na Black Skull. No teste de 13/10/2026, o 10% valeu também sobre itens em promoção.",
-          "Os preços deste texto valem hoje? Eles são de 20/10/2026 e mudam com as promoções. Confira no site da Black Skull e no da Dux antes de comprar.",
+          "O CECILIA10 soma com promoção? Sim, na Black Skull. No nosso teste, o 10% valeu também sobre itens em promoção.",
+          "Os preços deste texto valem hoje? Eles mudam com as promoções. Confira no site da Black Skull e no da Dux antes de comprar.",
           "Vale esperar a Black Friday? Este texto não prevê preço de novembro. O que dá para fazer é refazer a conta com o preço do dia."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada com a Black Skull. Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Dux não é parceira do site: não há link, cupom nem recomendação dela.",
-          "Fontes: tabelas nutricionais, listas de ingredientes e preços das páginas oficiais da Black Skull (blackskullusa.com.br), lidos em 20/10/2026; a política de frete da Black Skull, lida em 14/10/2026; o teste de carrinho de 13/10/2026; e as páginas do Whey Protein Concentrado de 900 g e de 1,8 kg, do Whey Protein Isolado de 900 g e das creatinas Monohidratada e 100% Creapure de 300 g da Dux (duxhumanhealth.com), com preços, forma de pagamento, frete e tabela nutricional, lidas em 20/10/2026.",
-          "Ninguém da equipe provou os produtos. Este texto mostra o que o rótulo e o preço dizem; não é orientação de nutricionista nem de médico. Preço e estoque mudam: confira no site antes de comprar. Dúvidas sobre intolerância à lactose, alergia ou dieta: fale com um nutricionista ou um médico."
         ]
       }
     ],
@@ -124551,7 +124519,7 @@ export const reviewsData: unknown[] = [
           "headers": [
             "Produto",
             "Doses (creatina por dose)",
-            "Preço em 23/10/2026",
+            "Preço no site",
             "Por 100 g de creatina",
             "Por dose"
           ],
@@ -124623,14 +124591,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Com o CECILIA10 (10% sobre o preço de venda), o preço por 100 g de creatina fica: Creator refil 500 g, R$ 7,18; Creator 300 g, R$ 8,97; Creatine 300 g, R$ 12,57; Creatine refil 500 g, R$ 14,20; Turbo refil 500 g, R$ 17,96; Turbo 150 g, R$ 21,53; Turbo 300 g e Creatine 150 g, R$ 23,94 cada; Caps, R$ 59,90. Por dose, o Creator refil cai de R$ 0,40 para R$ 0,36.",
-          "Em promoção em 23/10/2026: Creator refil 500 g, de R$ 59,90 por R$ 39,90; Creator 300 g, de R$ 49,90 por R$ 29,90; Creatine 300 g, de R$ 49,90 por R$ 41,90; Turbo 150 g sem sabor, de R$ 29,90 por R$ 17,94. Os preços mudam com as promoções da loja.",
+          "Em promoção: Creator refil 500 g, de R$ 59,90 por R$ 39,90; Creator 300 g, de R$ 49,90 por R$ 29,90; Creatine 300 g, de R$ 49,90 por R$ 41,90; Turbo 150 g sem sabor, de R$ 29,90 por R$ 17,94. Os preços mudam com as promoções da loja.",
           "Os sabores laranja e limão do Creatine 300 g estavam ao mesmo preço do sem sabor, mas o pote com sabor rende 50 doses, contra 60 do sem sabor. Do Turbo, estavam à venda os sabores laranja e uva no pote de 300 g e só o sem sabor no pote de 150 g."
         ],
         "images": [
           {
             "src": "/images/reviews/black-skull/creatina-black-skull-preco-por-100g.webp",
             "alt": "Quadro com o preço por 100 g de creatina de cada produto da Black Skull em 23/10/2026, do Creator refil de 500 g, R$ 7,98, à Creatine Caps, R$ 66,56",
-            "caption": "Quadro: Em Casa com Cecília, com os preços de 23/10/2026.",
+            "caption": "Quadro: Em Casa com Cecília, com os preços do site.",
             "objectFit": "wide",
             "aspectRatio": 1.7778
           }
@@ -124676,15 +124644,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Creator: o refil de 500 g.** O [refil de 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p) sai a R$ 7,98 por 100 g de creatina, contra R$ 9,97 no [pote de 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p), 20% menos por grama. São 100 doses de 5 g, ou 100 dias no uso de uma dose ao dia da ficha. O pote de 300 g só ganha no preço de entrada: R$ 29,90 contra R$ 39,90.",
           "**Creatine: o pote de 300 g.** Aqui a conta inverte. O pote de 300 g sai a R$ 13,97 por 100 g de creatina e o refil de 500 g, a R$ 15,78. O [de 150 g](https://www.blackskullusa.com.br/creatine--creatina-monohidratada--150g/p), a R$ 26,60, é o mais caro por grama das três gramagens.",
-          "**Turbo: o refil de 500 g.** O [Creatine Turbo refil de 500 g](https://www.blackskullusa.com.br/creatine-turbo-refil--500g/p) sai a R$ 19,96 por 100 g de creatina, contra R$ 26,60 do pote de 300 g e R$ 23,92 do de 150 g sem sabor, que estava em promoção em 23/10/2026.",
+          "**Turbo: o refil de 500 g.** O [Creatine Turbo refil de 500 g](https://www.blackskullusa.com.br/creatine-turbo-refil--500g/p) sai a R$ 19,96 por 100 g de creatina, contra R$ 26,60 do pote de 300 g e R$ 23,92 do de 150 g sem sabor, que estava em promoção.",
           "**Caps: a mais cara por grama.** A Creatine Caps tem 90 cápsulas, e a ficha indica 3 cápsulas (3,5 g) por dia, com 3 g de creatina por porção e 30 porções. Sai a R$ 66,56 por 100 g de creatina, mais de oito vezes o Creator refil. A página não explica os 0,5 g a mais por porção em relação à creatina.",
-          "**E 1 kg?** O kit mais próximo é o [Combo Creatina Creator com 2 refis de 500 g](https://www.blackskullusa.com.br/2-creatina-monohidratada-refil-500g/p), R$ 75,81 (em promoção em 23/10/2026, de R$ 119,80 por R$ 75,81). Dá 1.000 g de creatina a R$ 7,58 por 100 g, ou R$ 6,82 com o CECILIA10. Dois refis avulsos custam R$ 79,80, então o kit sai R$ 3,99 mais barato. O [kit de 2 refis com coqueteleira](https://www.blackskullusa.com.br/kit-2-unidades-creatina-monohidratada-500g/p), R$ 94,72 (em promoção em 23/10/2026, de R$ 139,70 por R$ 94,72), leva a coqueteleira no preço e sai a R$ 9,47 por 100 g. O [kit com 3 potes de Creatine de 150 g](https://www.blackskullusa.com.br/kit-3-unidades-creatina-150g/p), R$ 113,72 (em promoção em 23/10/2026, de R$ 119,70 por R$ 113,72), sai a R$ 25,27 por 100 g pela tabela nutricional, que traz 5 g por porção; a descrição curta do kit diz 3.000 mg por dose, e a conta usa a tabela."
+          "**E 1 kg?** O kit mais próximo é o [Combo Creatina Creator com 2 refis de 500 g](https://www.blackskullusa.com.br/2-creatina-monohidratada-refil-500g/p), R$ 75,81 (em promoção, de R$ 119,80 por R$ 75,81). Dá 1.000 g de creatina a R$ 7,58 por 100 g, ou R$ 6,82 com o CECILIA10. Dois refis avulsos custam R$ 79,80, então o kit sai R$ 3,99 mais barato. O [kit de 2 refis com coqueteleira](https://www.blackskullusa.com.br/kit-2-unidades-creatina-monohidratada-500g/p), R$ 94,72 (em promoção, de R$ 139,70 por R$ 94,72), leva a coqueteleira no preço e sai a R$ 9,47 por 100 g. O [kit com 3 potes de Creatine de 150 g](https://www.blackskullusa.com.br/kit-3-unidades-creatina-150g/p), R$ 113,72 (em promoção, de R$ 119,70 por R$ 113,72), sai a R$ 25,27 por 100 g pela tabela nutricional, que traz 5 g por porção; a descrição curta do kit diz 3.000 mg por dose, e a conta usa a tabela."
         ]
       },
       {
         "heading": "Creapure, laudo e pureza: o que a página declara",
         "paragraphs": [
-          "Creapure é um dos termos que mais aparecem no autocompletar junto com a Black Skull. Nenhuma página de creatina da loja lida em 23/10/2026 declara o selo, e a busca por \"creapure\" no site da Black Skull não devolve nenhum produto. Isso não quer dizer que a creatina da marca seja ou não seja Creapure: quer dizer que a loja não informa.",
+          "Creapure é um dos termos que mais aparecem no autocompletar junto com a Black Skull. Nenhuma página de creatina da loja lida declara o selo, e a busca por \"creapure\" no site da Black Skull não devolve nenhum produto. Isso não quer dizer que a creatina da marca seja ou não seja Creapure: quer dizer que a loja não informa.",
           "Também não há laudo de pureza, análise de terceiros ou certificado de lote nas páginas. A lista de ingredientes do Creator diz \"creatina monohidratada\", e a tabela mostra 5.000 mg por porção de 5 g. É isso que o rótulo permite afirmar. Se você precisa de um selo específico, confirme com o SAC da Black Skull antes de comprar.",
           "Quem quer comparar com outras marcas já tem a conta feita nos nossos comparativos: [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium), [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Black Skull ou Dux](/reviews/black-skull-ou-dux). Neste guia, só entram produtos da Black Skull."
         ]
@@ -124692,7 +124660,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom CECILIA10 nas creatinas",
         "paragraphs": [
-          "O CECILIA10 é um cupom de 10% de desconto em todo o site da Black Skull, válido em todas as formas de pagamento e em itens que já estão em promoção. Num carrinho de teste do dia 13/10/2026, com R$ 364,33 em itens, o cupom deu R$ 36,44 de desconto. Cole o código no campo de cupom da sacola e confira a linha \"Descontos\" antes de pagar. No Creator refil de 500 g, o cupom leva o preço a R$ 35,91, ou R$ 7,18 por 100 g de creatina. As regras e a conta completa estão na [página do cupom Black Skull](/cupons/black-skull)."
+          "O CECILIA10 é um cupom de 10% de desconto em todo o site da Black Skull, válido em todas as formas de pagamento e em itens que já estão em promoção. Num carrinho de teste, com R$ 364,33 em itens, o cupom deu R$ 36,44 de desconto. Cole o código no campo de cupom da sacola e confira a linha \"Descontos\" antes de pagar. No Creator refil de 500 g, o cupom leva o preço a R$ 35,91, ou R$ 7,18 por 100 g de creatina. As regras e a conta completa estão na [página do cupom Black Skull](/cupons/black-skull)."
         ]
       },
       {
@@ -124708,22 +124676,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a diferença entre a creatina Creator e a Creatine da Black Skull? As páginas trazem os mesmos ingredientes e a mesma porção de 5 g, e o refil de 500 g da Creatine custa quase o dobro do Creator (R$ 78,90 contra R$ 39,90 em 23/10/2026). A página da loja não explica a diferença.",
+          "Qual a diferença entre a creatina Creator e a Creatine da Black Skull? As páginas trazem os mesmos ingredientes e a mesma porção de 5 g, e o refil de 500 g da Creatine custa quase o dobro do Creator (R$ 78,90 contra R$ 39,90). A página da loja não explica a diferença.",
           "Creatina Black Skull Turbo ou monohidratada: qual escolher? Quem quer só creatina fica com a monohidratada (Creator ou Creatine); o Turbo traz 5 g de creatina e 5 g de carboidrato em cada dose de 10 g e sai bem mais caro por grama de creatina.",
           "A creatina Black Skull Turbo é pura? Não é só creatina: a lista de ingredientes diz \"creatina monohidratada e maltodextrina\", e a tabela mostra 5 g de creatina e 5 g de carboidratos por porção de 10 g.",
           "A creatina Black Skull Turbo engorda? A página não faz essa afirmação, e a tabela mostra 20 kcal e 5 g de carboidratos por porção de 10 g. Se você tem meta de peso ou de dieta, fale com um nutricionista.",
           "A creatina da Black Skull tem selo Creapure? A página não declara o selo, e a busca por \"creapure\" no site da loja não devolve produto.",
-          "A creatina de 1 kg da Black Skull compensa? O kit com 2 refis de 500 g do Creator sai a R$ 75,81 em 23/10/2026, R$ 7,58 por 100 g de creatina, R$ 3,99 menos do que dois refis avulsos.",
-          "Qual a creatina da Black Skull mais barata? Pela conta do rótulo e do preço, o Creator refil de 500 g, a R$ 7,98 por 100 g de creatina em 23/10/2026, ou R$ 7,18 com o CECILIA10.",
+          "A creatina de 1 kg da Black Skull compensa? O kit com 2 refis de 500 g do Creator sai a R$ 75,81, R$ 7,58 por 100 g de creatina, R$ 3,99 menos do que dois refis avulsos.",
+          "Qual a creatina da Black Skull mais barata? Pela conta do rótulo e do preço, o Creator refil de 500 g, a R$ 7,98 por 100 g de creatina, ou R$ 7,18 com o CECILIA10.",
           "Quantas doses tem o pote de 300 g da creatina Black Skull? 60 doses de 5 g no Creator e no Creatine sem sabor, e 30 doses de 10 g no Turbo, segundo as fichas.",
           "Como usar o cupom CECILIA10 na Black Skull? Cole o código na sacola do site oficial. O passo a passo, com os prints do carrinho, está em [Cupom Black Skull: como usar](/reviews/cupom-black-skull-como-usar)."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada com a Black Skull. Podemos receber comissão pelas compras feitas com o cupom CECILIA10. Ninguém do site usou as creatinas: o texto mostra o que o rótulo e o preço dizem, e não é orientação de nutricionista nem de médico.",
-          "Fontes: páginas oficiais das creatinas e dos kits da Black Skull (blackskullusa.com.br), com ficha, ingredientes, tabela nutricional, modo de consumo e preço, e também a busca \"creapure\" e a ordem de mais vendidos do site, lidos em 23/10/2026; o teste de carrinho de 13/10/2026. Preço, estoque e sabores à venda mudam: vale o que aparece no site na hora da compra. A conta por 100 g e por dose é nossa."
         ]
       }
     ],
@@ -125262,7 +125223,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A ficha da loja descreve uma camiseta oversized de corpo 100% algodão penteado, a R$ 129,00 avulsa ou R$ 86,00 por peça no kit de três. Ninguém do site comprou nem vestiu, então toque, caimento e durabilidade ficam sem opinião. O que pesa na escolha é a cor e a quantidade; veja o capítulo final."
+          "A ficha da loja descreve uma camiseta oversized de corpo 100% algodão penteado, vendida avulsa ou em kit de três. Ninguém do site comprou nem vestiu, então toque, caimento e durabilidade ficam sem opinião. O que pesa na escolha é a cor e a quantidade; veja o capítulo final."
         ]
       },
       {
@@ -125278,7 +125239,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Modelagem: só existe oversized",
         "paragraphs": [
-          "Nas listagens de camisetas, essenciais, mais vendidos e roupas da loja, lidas em 23/10/2026, todas as camisetas são oversized. A loja chama a oversized de camiseta básica; não há corte regular nem baby look no catálogo lido. A palavra \"oversized\" aparece na descrição de todos os modelos, inclusive no kit Essenciais, e a loja fala em caimento amplo.",
+          "Nas listagens de camisetas, essenciais, mais vendidos e roupas da loja, todas as camisetas são oversized. A loja chama a oversized de camiseta básica; não há corte regular nem baby look no catálogo lido. A palavra \"oversized\" aparece na descrição de todos os modelos, inclusive no kit Essenciais, e a loja fala em caimento amplo.",
           "Todos vêm em P, M e G. Como o corte é amplo, a escolha do tamanho pede medida. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir busto, cintura e quadril e comparar com o provador da página. Para a modelagem justa dos bodies, que é outra conversa, há o [guia de escolha do body Second Skin](/reviews/body-clea-store-second-skin-qual-escolher)."
         ],
         "styling": {
@@ -125312,7 +125273,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os 6 modelos de camiseta lado a lado",
         "paragraphs": [
-          "São uma peça avulsa e cinco kits de três camisetas. Preços de venda do site em 23/10/2026, sem cupom. Nos kits, o preço cheio de R$ 387,00 aparece entre parênteses."
+          "São uma peça avulsa e cinco kits de três camisetas. Preços de venda do site, sem cupom. Nos kits, o preço cheio de R$ 387,00 aparece entre parênteses."
         ],
         "comparisonTable": {
           "headers": [
@@ -125368,7 +125329,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os kits estão em promoção em 23/10/2026, de R$ 387,00 por R$ 258,00. O kit Classic aparece na ficha com dois nomes: \"Classic\" na página e \"Kit 3 T-Shirts Básica Algodão\" nas variantes. Aqui vale o nome da página."
+          "Os kits estão em promoção, de R$ 387,00 por R$ 258,00. O kit Classic aparece na ficha com dois nomes: \"Classic\" na página e \"Kit 3 T-Shirts Básica Algodão\" nas variantes. Aqui vale o nome da página."
         ],
         "images": [
           {
@@ -125381,7 +125342,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/clea-store/camiseta-clea-store-quadro-modelos.webp",
             "alt": "Quadro com os seis modelos de camiseta da Cléa Store: a peça avulsa e os cinco kits de três, com cores e preço por peça em 23/10/2026",
-            "caption": "Os seis modelos e o preço por peça no site oficial, em 23/10/2026.",
+            "caption": "Os seis modelos e o preço por peça no site oficial.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
@@ -125390,7 +125351,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avulsa ou kit: quanto sai cada peça",
         "paragraphs": [
-          "A conta é direta, com os preços de 23/10/2026. Três avulsas custam R$ 387,00. O kit de três custa R$ 258,00. A diferença é de R$ 129,00, o preço de uma camiseta avulsa. Por peça, a avulsa sai por R$ 129,00 e o kit por R$ 86,00.",
+          "A conta é direta, com os preços do dia. Três avulsas custam R$ 387,00. O kit de três custa R$ 258,00. A diferença é de R$ 129,00, o preço de uma camiseta avulsa. Por peça, a avulsa sai por R$ 129,00 e o kit por R$ 86,00.",
           "Com o cupom CSEMCASACOMCECILIA, de 10% sobre o preço do dia, a conta fica assim:"
         ],
         "bullets": [
@@ -125399,7 +125360,7 @@ export const reviewsData: unknown[] = [
           "Kit de três: R$ 232,20, ou R$ 77,40 por peça."
         ],
         "postParagraphs": [
-          "O cupom soma com as promoções do site, em todas as formas de pagamento. No teste de checkout de 14/10/2026, o kit de três saiu de R$ 258,00 por R$ 232,20 com o cupom. O valor final aparece no carrinho, e o preço do dia pode mudar. Veja as regras na [página de cupons da Cléa Store](/cupons/clea-store).",
+          "O cupom soma com as promoções do site, em todas as formas de pagamento. No teste de checkout, o kit de três saiu de R$ 258,00 por R$ 232,20 com o cupom. O valor final aparece no carrinho, e o preço do dia pode mudar. Veja as regras na [página de cupons da Cléa Store](/cupons/clea-store).",
           "Até 31/10/2026, a Cléa Store dá uma T-Shirt Oversized de brinde em qualquer pedido. As regras estão no [guia da promoção dos 14 anos](/reviews/clea-store-aniversario-14-anos-t-shirt-brinde).",
           "A diferença entre os kits é só a combinação de cores. O Classic é off white, preto e marrom, o Colorful é rosa claro, verde oliva e caramelo, o Intense é chumbo, bege e vinho e o Brazil Edition é azul marinho, verde oliva e off white. No Essenciais, você monta as três cores. A avulsa é a opção para uma cor só ou para completar um kit."
         ],
@@ -125421,9 +125382,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Mais vendidos da loja em 23/10/2026",
+        "heading": "Mais vendidos da loja",
         "paragraphs": [
-          "Na página Mais Vendidos da Cléa Store, em 23/10/2026, as camisetas aparecem nesta ordem: Kit Classic, Kit Colorful, Kit Intense, Kit Essenciais e, por último entre elas, a T-Shirts Oversized Algodão avulsa. É a ordem da página do site naquele dia. A loja não informa número de vendas, e este guia também não."
+          "Na página Mais Vendidos da Cléa Store, as camisetas aparecem nesta ordem: Kit Classic, Kit Colorful, Kit Intense, Kit Essenciais e, por último entre elas, a T-Shirts Oversized Algodão avulsa. É a ordem da página do site naquele dia. A loja não informa número de vendas, e este guia também não."
         ]
       },
       {
@@ -125466,16 +125427,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Camiseta Cléa Store é boa? Este guia responde pela ficha da loja, não por opinião: corpo 100% algodão penteado premium, modelagem oversized e cuidados simples. Ninguém do site comprou nem vestiu a peça.",
-          "Kit camiseta Cléa Store vale a pena? Em 23/10/2026, o kit de três sai a R$ 86,00 por peça, contra R$ 129,00 da avulsa; com o cupom, R$ 77,40 por peça.",
-          "A Cléa Store tem camiseta básica? Tem, mas a \"básica\" da loja é a própria oversized: no catálogo lido em 23/10/2026 não há corte regular nem baby look.",
+          "Kit camiseta Cléa Store vale a pena? No preço do site, o kit de três sai a R$ 86,00 por peça, contra R$ 129,00 da avulsa; com o cupom, R$ 77,40 por peça.",
+          "A Cléa Store tem camiseta básica? Tem, mas a \"básica\" da loja é a própria oversized: no catálogo lido não há corte regular nem baby look.",
           "Como lavar a camiseta Cléa Store? Segundo a loja, até 30 °C, com sabão para roupa delicada, sem alvejante, secando no varal e passando até 150 °C.",
           "Qual a composição da camiseta Cléa Store? Segundo a ficha, o corpo é 100% algodão penteado premium, e a ribana da gola tem 97% algodão e 3% elastano."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Fontes: as páginas oficiais dos seis modelos, as listagens de camisetas, essenciais, mais vendidos e roupas e a política de troca e devolução do site cleastore.com.br, todas lidas em 23/10/2026. Os preços podem mudar até a compra. Podemos receber comissão quando a compra sai pelo cupom CSEMCASACOMCECILIA ou pelo link da loja, e isso não muda o preço para quem compra. Ninguém da equipe do site comprou nem vestiu as camisetas: o que está aqui vem da ficha da loja. O cupom foi testado pela equipe em 14/10/2026."
         ]
       }
     ]
@@ -125515,7 +125470,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os pré-treinos da Black Skull pelo rótulo",
         "paragraphs": [
-          "A categoria Pré-treino da Black Skull tinha seis itens em 23/10/2026: o [Bone Crusher de 300 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula-300g/p) e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula--150g/p), o [BOPE de 300 g](https://www.blackskullusa.com.br/pre-treino-bope-300g/p) e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bope-150g/p), o [kit de três BOPE de 150 g](https://www.blackskullusa.com.br/combo-pre-treino-bope-c-3-unid/p) e o [Legacy](https://www.blackskullusa.com.br/pre-treino-legacy/p). A diferença entre BOPE e Bone Crusher está principalmente em três números do rótulo: beta-alanina, arginina e carboidrato.",
+          "A categoria Pré-treino da Black Skull tinha seis itens: o [Bone Crusher de 300 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula-300g/p) e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula--150g/p), o [BOPE de 300 g](https://www.blackskullusa.com.br/pre-treino-bope-300g/p) e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bope-150g/p), o [kit de três BOPE de 150 g](https://www.blackskullusa.com.br/combo-pre-treino-bope-c-3-unid/p) e o [Legacy](https://www.blackskullusa.com.br/pre-treino-legacy/p). A diferença entre BOPE e Bone Crusher está principalmente em três números do rótulo: beta-alanina, arginina e carboidrato.",
           "A tabela traz os valores por dose, como estão na tabela nutricional da página de cada produto. A creatina é de 3000 mg por dose no BOPE e no Bone Crusher 150 g, e de 2000 mg no Legacy. O carboidrato é de 2,2 a 2,3 g por dose no BOPE (a lista de ingredientes inclui maltodextrina), 0,9 g no Bone Crusher 150 g e 1,5 g no Legacy."
         ],
         "comparisonTable": {
@@ -125552,7 +125507,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O BOPE de 300 g e o de 150 g têm a mesma tabela, e o Bone Crusher de 150 g tem a mesma tabela nos quatro sabores. No Bone Crusher 300 g, a página mostra a tabela nutricional só como imagem, e não conseguimos confirmar essa imagem com a marca. Por isso, o texto usa dele apenas o que a página traz escrito: dose de 7,5 g, 40 doses por pote e a lista de ingredientes, que inclui beta-alanina, creatina, arginina, taurina e cafeína anidra.",
-          "Sabores à venda em 23/10/2026: o BOPE, em frutas amarelas, limão e frutas vermelhas; o Bone Crusher 300 g, em frutas vermelhas, limão, frutas amarelas e laranja com pimenta; o Legacy, em tropical mango."
+          "Sabores à venda: o BOPE, em frutas amarelas, limão e frutas vermelhas; o Bone Crusher 300 g, em frutas vermelhas, limão, frutas amarelas e laranja com pimenta; o Legacy, em tropical mango."
         ],
         "images": [
           {
@@ -125586,7 +125541,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/black-skull/pre-treino-black-skull-quadro-bope-bone-crusher.webp",
             "alt": "Quadro comparando BOPE e Bone Crusher da Black Skull: dose de 7,5 g, cafeína por dose e preço por dose em 23/10/2026",
-            "caption": "Quadro: Em Casa com Cecília, com os preços de 23/10/2026.",
+            "caption": "Quadro: Em Casa com Cecília, com os preços do site.",
             "objectFit": "wide",
             "aspectRatio": 1.7778
           }
@@ -125601,7 +125556,7 @@ export const reviewsData: unknown[] = [
           "headers": [
             "Produto",
             "Porção e doses",
-            "Preço em 23/10/2026",
+            "Preço no site",
             "Por dose",
             "Por dose com cupom"
           ],
@@ -125652,7 +125607,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Dentro de cada linha, o pote maior sai mais barato por dose: o BOPE de 300 g custa R$ 1,62 contra R$ 1,75 do de 150 g, e o Bone Crusher de 300 g, R$ 1,75 contra R$ 2,25. No mesmo tamanho, o BOPE custa menos por dose: R$ 0,13 a menos no 300 g e R$ 0,50 a menos no 150 g.",
-          "O kit de três BOPE de 150 g estava em promoção em 23/10/2026, de R$ 89,70 por R$ 85,22. Três potes de 150 g comprados avulsos custariam R$ 104,70, ou seja, R$ 19,48 a mais.",
+          "O kit de três BOPE de 150 g estava em promoção, de R$ 89,70 por R$ 85,22. Três potes de 150 g comprados avulsos custariam R$ 104,70, ou seja, R$ 19,48 a mais.",
           "Com o cupom, o BOPE 300 g vai de R$ 64,90 para R$ 58,41, e o Bone Crusher 300 g, de R$ 69,90 para R$ 62,91. O código vale também em produto em promoção, em qualquer forma de pagamento, e soma com as promoções do site. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar).",
           "Edição limitada: a [Promopack](https://www.blackskullusa.com.br/kit-pre-treino-bone-crusher-300g-coqueteleira/p) traz dois potes de Bone Crusher de 300 g e uma coqueteleira de brinde, por R$ 139,90, com 80 doses (dois potes de 40). Ela fica fora da conta por dose, porque a página não traz tabela própria."
         ]
@@ -125660,14 +125615,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pré-treino da Black Skull sem cafeína existe?",
         "paragraphs": [
-          "Não. Em 23/10/2026, a Black Skull não vendia nenhum pré-treino sem cafeína: a busca do site por \"sem cafeina\" volta \"não encontrado\", e os seis itens da categoria Pré-treino têm cafeína no rótulo. As buscas por \"caffeine free\" ou por um Bone Crusher sem cafeína não correspondem a produto à venda em 23/10/2026.",
+          "Não. A Black Skull não vendia nenhum pré-treino sem cafeína: a busca do site por \"sem cafeina\" volta \"não encontrado\", e os seis itens da categoria Pré-treino têm cafeína no rótulo. As buscas por \"caffeine free\" ou por um Bone Crusher sem cafeína não correspondem a produto à venda.",
           "Para conferir qualquer pré-treino, veja a tabela nutricional e a lista de ingredientes da página do produto. Nos da Black Skull, a cafeína aparece na lista como cafeína anidra ou apenas cafeína, e a quantidade por dose está na tabela."
         ]
       },
       {
         "heading": "Legacy, Uva e Xtreme: o resto da loja",
         "paragraphs": [
-          "Legacy 300 g: dose de 10 g (dois dosadores), 30 doses, R$ 71,30 em 23/10/2026. O rótulo declara, por dose: cafeína 200 mg, beta-alanina 2 g, arginina 1200 mg, taurina 1000 mg, creatina 2000 mg, L-carnitina 250 mg, coenzima Q10 35 mg, L-citrulinilarginina 52,8 mg, niacina 25 mg (167% do VD) e vitamina B6 42 mg (3231% do VD).",
+          "Legacy 300 g: dose de 10 g (dois dosadores), 30 doses, R$ 71,30. O rótulo declara, por dose: cafeína 200 mg, beta-alanina 2 g, arginina 1200 mg, taurina 1000 mg, creatina 2000 mg, L-carnitina 250 mg, coenzima Q10 35 mg, L-citrulinilarginina 52,8 mg, niacina 25 mg (167% do VD) e vitamina B6 42 mg (3231% do VD).",
           "Bone Crusher Uva 150 g: o rótulo em imagem diz 30 porções de 5 g, com 1200 mg de creatina e 140 mg de cafeína; a página do produto diz 7,5 g e 20 doses. Como as duas leituras divergem, ele não entra na tabela principal. Confirme no pote antes de calcular a dose.",
           "Fora da comparação: a loja também vende o Xtreme Energy Caps, na categoria Termogênico, com L-carnitina e cafeína anidra na composição e 174 mg de cafeína por dose de duas cápsulas ([página do produto](https://www.blackskullusa.com.br/pre-treino-em-capsulas-xtreme-energ/p))."
         ]
@@ -125702,20 +125657,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "BOPE ou Bone Crusher: qual é melhor? Pelo rótulo do 150 g e pelo preço de 23/10/2026, o BOPE custa menos por dose e o Bone Crusher traz mais beta-alanina, mais arginina e menos carboidrato. Qual pesa mais é uma conta sua.",
+          "BOPE ou Bone Crusher: qual é melhor? Pelo rótulo do 150 g e pelo preço, o BOPE custa menos por dose e o Bone Crusher traz mais beta-alanina, mais arginina e menos carboidrato. Qual pesa mais é uma conta sua.",
           "Bone Crusher é bom? Ninguém do site usou o produto. O rótulo do 150 g declara 140 mg de cafeína, 2 g de beta-alanina e 3000 mg de creatina por dose de 7,5 g, com açúcar zero.",
-          "BOPE da Black Skull é bom? Ninguém do site usou o produto. O rótulo declara 135 mg de cafeína, 750 mg de beta-alanina e 3000 mg de creatina por dose de 7,5 g, a R$ 1,62 por dose no pote de 300 g em 23/10/2026.",
-          "A Black Skull tem pré-treino sem cafeína? Não. Em 23/10/2026 nenhum item da categoria Pré-treino era sem cafeína, e a busca do site por \"sem cafeina\" não achava produto.",
+          "BOPE da Black Skull é bom? Ninguém do site usou o produto. O rótulo declara 135 mg de cafeína, 750 mg de beta-alanina e 3000 mg de creatina por dose de 7,5 g, a R$ 1,62 por dose no pote de 300 g.",
+          "A Black Skull tem pré-treino sem cafeína? Não. Nenhum item da categoria Pré-treino era sem cafeína, e a busca do site por \"sem cafeina\" não achava produto.",
           "Qual pré-treino da Black Skull tem menos cafeína? Pelo rótulo, o BOPE, com 135 mg por dose de 7,5 g, contra 140 mg do Bone Crusher 150 g e 200 mg do Legacy, de 10 g.",
           "Quantas doses tem cada pote? O BOPE e o Bone Crusher têm 40 doses no pote de 300 g e 20 no de 150 g, e o Legacy de 300 g tem 30 doses.",
           "Qual o cupom da Black Skull? É o CECILIA10, de 10% em todo o site, inclusive em itens em promoção. Veja as condições na [página do cupom](/cupons/black-skull)."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "A Black Skull é parceira do Em Casa com Cecília. Se você compra com o CECILIA10, o site recebe uma comissão, sem custo a mais para você. Ninguém do site usou os pré-treinos: o guia reúne a ficha, a tabela nutricional e o preço de cada produto no site oficial da Black Skull, lidos em 23/10/2026. As contas por dose, com e sem cupom, são nossas, sobre o preço do dia.",
-          "Preço, estoque e promoção mudam, então vale o que aparece no carrinho na hora da compra. Sobre a loja, veja [Black Skull é confiável?](/reviews/black-skull-e-confiavel)."
         ]
       }
     ],
@@ -125761,7 +125709,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Os wheys da Black Skull lado a lado: 80% HD, 100% HD, 3W Core, Gourmet e Turbo, com dose, proteína por dose e preço por 100 g de proteína em 23/10/2026, mais os sabores com estoque e o cupom CECILIA10.",
-    "metaDescription": "Qual whey da Black Skull comprar: compare 80% HD, 100% HD, 3W Core, Gourmet e Turbo pela proteína por dose e pelo preço por 100 g, com os preços de 23/10/2026.",
+    "metaDescription": "Qual whey da Black Skull comprar: compare 80% HD, 100% HD, 3W Core, Gourmet e Turbo pela proteína por dose e pelo preço por 100 g, com os preços do site.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -125807,22 +125755,22 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Black Skull vende 11 wheys e um kit de Turbo, e a diferença entre eles está em quatro coisas: quanto de proteína vem em cada dose, quanto custa a proteína (não o pote), o que a lista de ingredientes diz e o sabor, que só você escolhe.",
           "O preço do pote engana porque dois potes de 900 g não têm a mesma quantidade de proteína dentro. A régua deste artigo é o preço por 100 g de proteína: preço ÷ (porções × proteína por porção) × 100, com a tabela nutricional do rótulo e o preço de venda de 23/10/2026. Exemplo com o 80% HD: o refil de 900 g tem 30 porções de 23 g de proteína, ou seja, 690 g de proteína. R$ 159,90 ÷ 690 × 100 = R$ 23,17 por 100 g de proteína.",
-          "Todos os wheys da linha declaram \"Contém lactose\", e a Black Skull não tem whey isolado nem sem lactose no site: a busca por \"isolado\" voltou sem resultado em 23/10/2026."
+          "Todos os wheys da linha declaram \"Contém lactose\", e a Black Skull não tem whey isolado nem sem lactose no site: a busca por \"isolado\" voltou sem resultado."
         ]
       },
       {
         "heading": "A linha 100% HD: pote, refil, 1,8 kg e 450 g",
         "paragraphs": [
           "O Whey 100% HD tem quatro tamanhos, e a dose e a proteína por dose são as mesmas nos três maiores: 21 g em 35 g (60% do pó). A lista de ingredientes traz proteína concentrada do soro do leite, peptídeos hidrolisados, proteína concentrada de leite, proteína isolada do soro e proteína hidrolisada do soro (WPC, WPI e WPH). Contém lactose.",
-          "O que muda de um tamanho para o outro é a embalagem e o preço por proteína. O refil de 450 g tem rótulo próprio, com dose de 30 g, e estava sem estoque nos quatro sabores em 23/10/2026."
+          "O que muda de um tamanho para o outro é a embalagem e o preço por proteína. O refil de 450 g tem rótulo próprio, com dose de 30 g, e estava sem estoque nos quatro sabores."
         ],
         "comparisonTable": {
-          "caption": "Preços de venda do site oficial em 23/10/2026, antes do cupom. Proteína e porções da tabela nutricional de cada tamanho.",
+          "caption": "Preços de venda do site oficial, antes do cupom. Proteína e porções da tabela nutricional de cada tamanho.",
           "headers": [
             "Tamanho",
             "Proteína por dose",
             "Porções",
-            "Preço (23/10/2026)",
+            "Preço",
             "R$ por 100 g de proteína"
           ],
           "rows": [
@@ -125848,7 +125796,7 @@ export const reviewsData: unknown[] = [
               "R$ 26,66"
             ],
             [
-              "[Refil 450 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull--450g-wpc-wpi-e-wph/p) (esgotado em 23/10/2026)",
+              "[Refil 450 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull--450g-wpc-wpi-e-wph/p) (esgotado)",
               "21 g em 30 g",
               "15",
               "R$ 89,90",
@@ -125871,7 +125819,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "80% HD: o mais barato por proteína da linha",
         "paragraphs": [
-          "O [Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p) custava R$ 159,90 em 23/10/2026, com 23 g de proteína em cada dose de 30 g (77%) e 30 porções. A conta dá R$ 23,17 por 100 g de proteína, o menor número da linha. A lista de ingredientes traz só WPC (proteína concentrada do soro do leite), e o produto contém lactose.",
+          "O [Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p) custava R$ 159,90, com 23 g de proteína em cada dose de 30 g (77%) e 30 porções. A conta dá R$ 23,17 por 100 g de proteína, o menor número da linha. A lista de ingredientes traz só WPC (proteína concentrada do soro do leite), e o produto contém lactose.",
           "É o único whey da linha com preço diferente por sabor: o Banana saía a R$ 139,90, ou R$ 20,28 por 100 g de proteína. Morango e Cookies saíam a R$ 159,90. Chocolate e Baunilha estavam sem estoque.",
           "O \"80\" do nome também não é o teor exato do pó: a tabela mostra 23 g em 30 g, cerca de 77%, e é essa conta que vale."
         ],
@@ -125901,11 +125849,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sabor: o que a loja mostra e o que não mostra",
         "paragraphs": [
-          "A Black Skull não publica venda por sabor. O que o site mostra, em 23/10/2026, é a lista de sabores de cada whey, quais têm estoque e uma ordem de produtos mais vendidos, que ordena produtos e não sabores. Por isso este artigo não escolhe sabor: escolha o que você gosta. Ninguém do site provou nenhum deles.",
-          "Na ordem de produtos do site em 23/10/2026, considerando só wheys e o kit de Turbo, o 80% HD Refil 900 g vinha em primeiro, o 100% HD Refil 900 g em segundo e o 100% HD pote de 900 g em terceiro."
+          "A Black Skull não publica venda por sabor. O que o site mostra é a lista de sabores de cada whey, quais têm estoque e uma ordem de produtos mais vendidos, que ordena produtos e não sabores. Por isso este artigo não escolhe sabor: escolha o que você gosta. Ninguém do site provou nenhum deles.",
+          "Na ordem de produtos do site, considerando só wheys e o kit de Turbo, o 80% HD Refil 900 g vinha em primeiro, o 100% HD Refil 900 g em segundo e o 100% HD pote de 900 g em terceiro."
         ],
         "comparisonTable": {
-          "caption": "Sabores com estoque no site oficial em 23/10/2026. A ordem dos sabores é a do cadastro da loja.",
+          "caption": "Sabores com estoque no site oficial. A ordem dos sabores é a do cadastro da loja.",
           "headers": [
             "Produto",
             "Sabores com estoque",
@@ -125966,14 +125914,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Atenção ao nome: wheys que não são o que parecem",
         "paragraphs": [
-          "O nome do pote nem sempre diz o que está dentro. Estes são os casos que mudam a conta, com os números da tabela nutricional ou da lista de ingredientes lidos em 23/10/2026."
+          "O nome do pote nem sempre diz o que está dentro. Estes são os casos que mudam a conta, com os números da tabela nutricional ou da lista de ingredientes lidos no site."
         ],
         "bullets": [
           "[Whey 100% HD Gourmet 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-900/p): não é o 100% HD com outro sabor. A tabela traz 12 g de proteína em dose de 30 g (40%), contra 21 g em 35 g (60%) do 100% HD comum. O pote de 900 g custava R$ 129,90, ou R$ 36,08 por 100 g de proteína. O [refil de 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-refil-900/p) custava R$ 119,90 (R$ 33,31) e o [pote de 450 g](https://www.blackskullusa.com.br/whey-100-gourmet-450/p), R$ 84,90 (R$ 47,17, o maior número do quadro da linha).",
           "[Whey Protein (WPI, WPC, WPH) Refil 900 g](https://www.blackskullusa.com.br/whey-protein-refil-black-skull--900g-wpi-wpc-wph/p): o nome lembra o 3W Core, mas a tabela traz 11 g de proteína em dose de 25 g (44%), a menor proteína por dose da linha, e a lista não tem peptídeos. O 3W Core tem 31 g em 40 g. O refil custava R$ 99,90 (R$ 25,23 por 100 g de proteína), com 36 porções, e só o sabor Chocolate estava com estoque.",
           "[Whey Turbo Refil 907 g](https://www.blackskullusa.com.br/whey-turbo-refil--907g/p): é um hipercalórico, não um whey como os outros. A dose é de 120 g (12 colheres) e traz 30 g de proteína, 75 g de carboidrato e 479 kcal, com 7 doses. O refil custava R$ 79,90, e o [kit com 2 refis](https://www.blackskullusa.com.br/kit-2-unidades-whey-protein-907g-whey-turbo/p), R$ 132,81 (preço de tabela R$ 139,80). A conta por 100 g de proteína dá R$ 38,05 no refil e R$ 31,62 no kit, mas é só de referência: junto com a proteína, o que você compra é carboidrato.",
           "\"100%\" no nome: não é 100% de proteína. O 100% HD tem 21 g em 35 g (60%) no pote e no refil de 900 g, e 21 g em 30 g (70%) no refil de 450 g.",
-          "Colágeno no 100% HD: o texto de venda da loja diz que o \"Blend Duo Protein\" integra as proteínas do soro do leite aos \"peptídeos hidrolisados de colágeno\" (refil de 900 g) e \"Whey + Colágeno Hidrolisado\" (1,8 kg), e as páginas do Gourmet repetem a descrição do blend. A lista de ingredientes diz só \"peptídeos hidrolisados\", sem origem, e a Black Skull não publica a quantidade (lido em 23/10/2026). Por isso não fazemos conta de colágeno nem estimamos a parte dele na dose. O 80% HD e o 3W Core não têm peptídeos na lista.",
+          "Colágeno no 100% HD: o texto de venda da loja diz que o \"Blend Duo Protein\" integra as proteínas do soro do leite aos \"peptídeos hidrolisados de colágeno\" (refil de 900 g) e \"Whey + Colágeno Hidrolisado\" (1,8 kg), e as páginas do Gourmet repetem a descrição do blend. A lista de ingredientes diz só \"peptídeos hidrolisados\", sem origem, e a Black Skull não publica a quantidade (lido no site). Por isso não fazemos conta de colágeno nem estimamos a parte dele na dose. O 80% HD e o 3W Core não têm peptídeos na lista.",
           "Dose da ficha e dose do rótulo: a ficha do 100% HD Refil 900 g na loja diz \"Dose: 30\", e a tabela nutricional do rótulo diz 35 g. As contas deste artigo usam o rótulo."
         ],
         "postParagraphs": [
@@ -125983,22 +125931,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quadro da linha: os 11 wheys e o kit de Turbo do site",
         "paragraphs": [
-          "Os 11 wheys e o kit de Turbo do site na mesma régua, com o preço de 23/10/2026. Todos declaram \"Contém lactose\". O número mais baixo não decide a compra sozinho: a dose, o tipo de proteína e o sabor mudam de produto para produto."
+          "Os 11 wheys e o kit de Turbo do site na mesma régua, com o preço do site. Todos declaram \"Contém lactose\". O número mais baixo não decide a compra sozinho: a dose, o tipo de proteína e o sabor mudam de produto para produto."
         ],
         "image": {
           "src": "/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp",
           "alt": "Quadro desenhado com o preço por 100 g de proteína dos wheys da Black Skull em 23/10/2026, do 80% HD Refil (R$ 23,17) ao Gourmet 450 g (R$ 47,17)",
-          "caption": "Quadro: Em Casa com Cecília, com os preços de 23/10/2026.",
+          "caption": "Quadro: Em Casa com Cecília, com os preços do site.",
           "objectFit": "wide",
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "Preços de venda do site oficial em 23/10/2026, antes do cupom. R$ por 100 g de proteína: preço ÷ (porções × proteína por dose) × 100, com a tabela nutricional. O Turbo é hipercalórico: a conta é só de referência.",
+          "caption": "Preços de venda do site oficial, antes do cupom. R$ por 100 g de proteína: preço ÷ (porções × proteína por dose) × 100, com a tabela nutricional. O Turbo é hipercalórico: a conta é só de referência.",
           "headers": [
             "Produto",
             "Dose e proteína por dose",
             "Porções",
-            "Preço (23/10/2026)",
+            "Preço",
             "R$ por 100 g de proteína"
           ],
           "rows": [
@@ -126095,11 +126043,11 @@ export const reviewsData: unknown[] = [
           "Cada objetivo de compra leva um whey diferente. O R$ por 100 g de proteína é a conta que usamos no artigo inteiro, e a última coluna mostra o mesmo número com o cupom CECILIA10."
         ],
         "comparisonTable": {
-          "caption": "Preços de venda do site oficial em 23/10/2026, antes do cupom. R$ por 100 g de proteína: conta nossa, com a proteína por dose e as porções da tabela nutricional de cada rótulo. Com CECILIA10: preço menos 10%.",
+          "caption": "Preços de venda do site oficial, antes do cupom. R$ por 100 g de proteína: conta nossa, com a proteína por dose e as porções da tabela nutricional de cada rótulo. Com CECILIA10: preço menos 10%.",
           "headers": [
             "Se você quer…",
             "Leve…",
-            "Preço (23/10/2026)",
+            "Preço",
             "R$ por 100 g de proteína",
             "Com CECILIA10"
           ],
@@ -126148,25 +126096,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom CECILIA10",
         "paragraphs": [
-          "O CECILIA10 é um cupom de 10% de desconto em todo o site da Black Skull, com todas as formas de pagamento, e soma com as promoções vigentes. No teste de checkout de 13/10/2026, o desconto valeu em todos os itens do carrinho, inclusive nos que já estavam em promoção. Vale para conta nova e antiga. O frete é calculado pela loja e fica fora do cupom. O código não vale no Mercado Livre: lá vale o preço do anúncio.",
+          "O CECILIA10 é um cupom de 10% de desconto em todo o site da Black Skull, com todas as formas de pagamento, e soma com as promoções vigentes. No teste de checkout, o desconto valeu em todos os itens do carrinho, inclusive nos que já estavam em promoção. Vale para conta nova e antiga. O frete é calculado pela loja e fica fora do cupom. O código não vale no Mercado Livre: lá vale o preço do anúncio.",
           "Na prática, o cupom tira R$ 15,99 do refil de 900 g (R$ 159,90 viram R$ 143,91) e R$ 27,99 do 1,8 kg e do 3W Core (R$ 279,90 viram R$ 251,91). No 80% HD sabor Banana, que saía a R$ 139,90, a conta com o cupom dá R$ 125,91, ou R$ 18,25 por 100 g de proteína. O passo a passo do código está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e as regras ficam na página do [cupom Black Skull](/cupons/black-skull)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual whey da Black Skull é o mais barato por proteína? Em 23/10/2026, o Whey 80% HD Refil 900 g: R$ 23,17 por 100 g de proteína, ou R$ 20,28 no sabor Banana. Entre os 100% HD, o de 1,8 kg, com R$ 26,66.",
-          "A Black Skull tem whey isolado ou sem lactose? Não em 23/10/2026: todos os wheys da linha declaram \"Contém lactose\", e a busca por \"isolado\" no site voltou sem resultado.",
+          "Qual whey da Black Skull é o mais barato por proteína? O Whey 80% HD Refil 900 g: R$ 23,17 por 100 g de proteína, ou R$ 20,28 no sabor Banana. Entre os 100% HD, o de 1,8 kg, com R$ 26,66.",
+          "A Black Skull tem whey isolado ou sem lactose? Não: todos os wheys da linha declaram \"Contém lactose\", e a busca por \"isolado\" no site voltou sem resultado.",
           "O 100% HD tem colágeno? O texto de venda da loja fala em \"peptídeos hidrolisados de colágeno\", e a lista de ingredientes diz só \"peptídeos hidrolisados\". A quantidade não é publicada.",
-          "Qual sabor da Black Skull é o melhor? A loja não publica venda por sabor e ninguém do site provou os wheys, então não escolhemos sabor. A lista dos sabores com estoque em 23/10/2026 está no capítulo de sabor.",
+          "Qual sabor da Black Skull é o melhor? A loja não publica venda por sabor e ninguém do site provou os wheys, então não escolhemos sabor. A lista dos sabores com estoque está no capítulo de sabor.",
           "Whey ajuda a emagrecer ou a ganhar massa? Este artigo compara rótulo, tabela e preço, e não trata desse objetivo. Quem tem objetivo de saúde ou de dieta deve falar com nutricionista."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Ninguém do site tomou os wheys da Black Skull. Este artigo reúne o que a loja publica: tabela nutricional, lista de ingredientes, ficha, sabores com estoque, ordem de produtos e preço de venda, lidos no site oficial da Black Skull (blackskullusa.com.br) em 23/10/2026. As contas de R$ por 100 g de proteína e do desconto do cupom são nossas.",
-          "O Em Casa com Cecília é afiliado da Black Skull e recebe comissão pelas compras feitas com o código CECILIA10 e pelos links da loja, sem custo extra para você. Preço e estoque mudam toda semana: vale o que aparecer no site da loja na hora da compra."
         ]
       }
     ]
@@ -126200,20 +126141,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço de 24/10/2026, a Black Skull sai mais barata que a Dark Lab na creatina em todos os tamanhos. No whey, as duas quase empatam por 100 g de proteína, e a Black Skull 80% HD passa à frente com o cupom CECILIA10. O que pesa é a dose e a proteína de cada rótulo; veja em Qual escolher."
+          "Pelo preço do site, a Black Skull sai mais barata que a Dark Lab na creatina em todos os tamanhos. No whey, as duas quase empatam por 100 g de proteína, e a Black Skull 80% HD passa à frente com o cupom CECILIA10. O que pesa é a dose e a proteína de cada rótulo; veja em Qual escolher."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "Este guia compara whey e creatina da Black Skull, parceira do site, e da Dark Lab, que não é parceira, pelo que as duas lojas publicam: o rótulo, a ficha do produto e o preço do site em 24/10/2026, sem frete e sem desconto de Pix. Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
+          "Este guia compara whey e creatina da Black Skull, parceira do site, e da Dark Lab, que não é parceira, pelo que as duas lojas publicam: o rótulo, a ficha do produto e o preço do site, sem frete e sem desconto de Pix. Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
           "A série compara a Black Skull com uma marca por vez: [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Black Skull ou Dux](/reviews/black-skull-ou-dux) seguem o mesmo método."
         ]
       },
       {
         "heading": "De onde vem cada marca",
         "paragraphs": [
-          "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. Segundo o \"Sobre nós\" do site, o produto é desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O cadastro de CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, CNPJ 19.897.687/0001-38, ativa desde 18/03/2014 segundo a BrasilAPI, consultada em 24/10/2026. O \"USA\" aparece no endereço do site e no nome que a marca cita; a empresa do cadastro é brasileira.",
+          "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. Segundo o \"Sobre nós\" do site, o produto é desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O cadastro de CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, CNPJ 19.897.687/0001-38, ativa desde 18/03/2014 segundo a BrasilAPI. O \"USA\" aparece no endereço do site e no nome que a marca cita; a empresa do cadastro é brasileira.",
           "O rodapé do site da Dark Lab cita a American Product LTDA, CNPJ 18.744.639/0001-47. A BrasilAPI registra a razão social AMERICAN PRODUCT LTDA, aberta em 2013. O endereço não entra aqui, porque o do rodapé e o do cadastro não coincidem."
         ]
       },
@@ -126225,8 +126166,8 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/black-skull/black-skull-ou-dark-lab-tabela-preco-100g.webp",
-            "alt": "Tabela com o preço por 100 g de creatina e de proteína da Black Skull e da Dark Lab, com e sem o CECILIA10, em reais, com preços de 24/10/2026.",
-            "caption": "Preços do site em 24/10/2026, sem desconto de Pix.",
+            "alt": "Tabela com o preço por 100 g de creatina e de proteína da Black Skull e da Dark Lab, com e sem o CECILIA10, em reais, com os preços do site.",
+            "caption": "Preços do site, sem desconto de Pix.",
             "objectFit": "contain",
             "aspectRatio": 0.8581
           },
@@ -126291,7 +126232,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: preço por 100 g de proteína",
         "paragraphs": [
-          "A conta é o preço dividido pela proteína total do pote, que é a proteína por dose vezes o número de doses. Na Black Skull 100% HD, o rótulo traz 25 porções de 35 g; a página diz 30, e a conta usa as 25 do rótulo. A Black Skull 80% HD tem sabores com preços diferentes: a conta usa R$ 159,90, o preço de Morango e Cookies; o sabor Banana saía por R$ 139,90 na ficha de 23/10/2026. Os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher)."
+          "A conta é o preço dividido pela proteína total do pote, que é a proteína por dose vezes o número de doses. Na Black Skull 100% HD, o rótulo traz 25 porções de 35 g; a página diz 30, e a conta usa as 25 do rótulo. A Black Skull 80% HD tem sabores com preços diferentes: a conta usa R$ 159,90, o preço de Morango e Cookies; o sabor Banana saía por R$ 139,90 na ficha do produto. Os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher)."
         ],
         "images": [
           {
@@ -126357,7 +126298,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Código e onde comprar",
         "paragraphs": [
-          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Um teste de checkout em 24/10/2026 aplicou o cupom num kit de whey já em promoção e num whey a preço cheio, e os 10% valeram nos dois. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/), com link comissionado."
+          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Um teste de checkout aplicou o cupom num kit de whey já em promoção e num whey a preço cheio, e os 10% valeram nos dois. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/), com link comissionado."
         ]
       },
       {
@@ -126378,15 +126319,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Black Skull é brasileira? A própria marca diz que sim: o site fala em marca brasileira, sede em Embu das Artes (SP) e presença no Brasil desde 2015. O CNPJ da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, está ativo desde 18/03/2014, segundo a BrasilAPI.",
+          "Black Skull é brasileira? A própria marca diz que sim: o site fala em marca brasileira, sede em Embu das Artes (SP) e presença no Brasil desde 2015. O CNPJ da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, está ativo desde 2014, segundo a BrasilAPI.",
           "Black Skull é da Integralmédica? Não há fonte oficial que ligue as duas marcas. O site não cita a Integralmédica, e ela não aparece no quadro de sócios (QSA) da empresa do CNPJ. O texto não afirma o contrário: o que se pode dizer é o que a própria marca declara sobre a origem.",
           "Creatina Black Skull ou Dark Lab, qual compensa mais? Pelo preço por 100 g, a Black Skull. A Creator refil 500 g sai por R$ 7,98 no site, e a Dark Lab de 500 g por R$ 8,87. A Dark Lab não publica a tabela da creatina, então a pergunta sobre a forma da creatina não tem resposta neste texto."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Dark Lab não é parceira: não há link, cupom, foto nem print dela neste texto. Não provamos os produtos; a comparação usa o que as lojas publicam, com a data da leitura."
         ]
       }
     ],
@@ -126400,7 +126335,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA10",
     "affiliate": "black-skull",
-    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10.",
+    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Dark Lab não é parceira.",
     "relatedArticles": [
       {
         "slug": "black-skull-ou-growth",
@@ -127066,9 +127001,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A loja não vende conjunto de alfaiataria",
         "paragraphs": [
-          "A Cléa Store vende peças avulsas. No catálogo lido em 24/10/2026, não há conjunto de alfaiataria. O único \"conjunto\" da loja é de crochê, por R$ 1.490. Também não há pantalona de alfaiataria fora de duas calças, que aparecem mais abaixo.",
+          "A Cléa Store vende peças avulsas. No catálogo lido, não há conjunto de alfaiataria. O único \"conjunto\" da loja é de crochê, por R$ 1.490. Também não há pantalona de alfaiataria fora de duas calças, que aparecem mais abaixo.",
           "Para ter um conjunto de alfaiataria de verão, a saída é juntar um blazer ou colete com uma calça ou short da mesma cor e do mesmo tecido. O capítulo Montar um conjunto mostra três combinações desse tipo, com a conta e o cupom.",
-          "Não compramos nem testamos nenhuma destas peças. O que está aqui vem das fichas e das páginas da loja, lidas em 24/10/2026."
+          "Não compramos nem testamos nenhuma destas peças. O que está aqui vem das fichas e das páginas da loja."
         ]
       },
       {
@@ -127167,7 +127102,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/clea-store/alfaiataria-verao-clea-store-tabela-tecido.webp",
             "alt": "Tabela com composição, forro, preço e grade das peças de linho e alfaiataria da Cléa Store, lidas em 24/10/2026.",
-            "caption": "Dados da ficha e do site em 24/10/2026, sem cupom.",
+            "caption": "Dados da ficha e do site, sem cupom.",
             "objectFit": "contain",
             "aspectRatio": 0.798
           }
@@ -127283,11 +127218,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Montar um conjunto (monte o seu)",
         "paragraphs": [
-          "A loja não vende estes conjuntos prontos. As três combinações abaixo usam peças da mesma cor e do mesmo tecido. Os preços são de 24/10/2026, e o cupom de 10% sai sobre o preço do dia.",
+          "A loja não vende estes conjuntos prontos. As três combinações abaixo usam peças da mesma cor e do mesmo tecido. Os preços são os da tabela acima, e o cupom de 10% sai sobre o preço do dia.",
           "**Rosa linho.** Blazer Rosa Linho (4404), R$ 899,00, M e G, mais Shorts Rosa Linho (4402), R$ 579,00, com 36, 38 e 40. Tudo em linho. Total de R$ 1.478,00, ou R$ 1.330,20 com o cupom. O blazer não tem P.",
-          "**Bege linho.** Colete Bege Linho (4221), R$ 299,40, com PP e P, mais Calça Caqui Linho (4416), R$ 559,00, com 36 e 38. Total de R$ 858,40, ou R$ 772,56 com o cupom. A calça aparece como pré-venda, mas dá para comprar; a página diz que a entrega conta a partir de 08/10/2026.",
+          "**Bege linho.** Colete Bege Linho (4221), R$ 299,40, com PP e P, mais Calça Caqui Linho (4416), R$ 559,00, com 36 e 38. Total de R$ 858,40, ou R$ 772,56 com o cupom. A calça aparece como pré-venda, mas dá para comprar; confira o prazo de entrega na página.",
           "**Vermelho linho.** Colete Vermelho (4393), R$ 799,00, com P e G, mais Bermuda Vermelha (4395), R$ 599,00, só no 40. Total de R$ 1.398,00, ou R$ 1.258,20 com o cupom. A bermuda é 100% linho, segundo a ficha. Se preferir calça, a Calça Linho Vermelha (4414), R$ 559,00, com 36 e 38, leva o total a R$ 1.358,00, ou R$ 1.222,20 com o cupom. Ela também aparece como pré-venda, nas mesmas condições da caqui, e a ficha sugere usá-la com o colete.",
-          "As três montagens passam de R$ 599, valor da faixa de frete grátis do site em 24/10/2026.",
+          "As três montagens passam de R$ 599, valor da faixa de frete grátis do site.",
           "As grades usam letra nas peças de cima e número nas de baixo. Antes de escolher, abra o botão Tabela de Medidas na página de cada peça."
         ],
         "images": [
@@ -127303,7 +127238,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pantalona ou wide leg de alfaiataria",
         "paragraphs": [
-          "Só duas calças de alfaiataria aparecem no catálogo lido em 24/10/2026. A Calça Caqui Linho (4416), de linho e algodão 70/30, tem 36 e 38, e a ficha a descreve como wide leg. A Calça Linho Vermelha (4414), também 70/30, tem 36 e 38 e também é wide leg segundo a ficha. As duas estão em pré-venda.",
+          "Só duas calças de alfaiataria aparecem no catálogo lido. A Calça Caqui Linho (4416), de linho e algodão 70/30, tem 36 e 38, e a ficha a descreve como wide leg. A Calça Linho Vermelha (4414), também 70/30, tem 36 e 38 e também é wide leg segundo a ficha. As duas estão em pré-venda.",
           "A Calça Wide Leg Areia (4382), R$ 756,00, de 36 a 42, é de algodão, mas a ficha a chama de calça jeans. Por isso ela não entra como alfaiataria. Serve só como alternativa de algodão, com essa ressalva."
         ]
       },
@@ -127319,7 +127254,7 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Peça",
-            "Preço em 24/10",
+            "Preço no site",
             "Grade",
             "Situação"
           ],
@@ -127420,17 +127355,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Cléa Store vende conjunto de alfaiataria? Não. No catálogo lido em 24/10/2026, o único conjunto é de crochê, por R$ 1.490.",
+          "A Cléa Store vende conjunto de alfaiataria? Não. No catálogo lido, o único conjunto é de crochê, por R$ 1.490.",
           "A calça é wide leg? Sim, segundo a ficha, nas duas: a Calça Caqui Linho (4416) e a Calça Linho Vermelha (4414).",
           "O blazer tem forro? Só o Blazer Oversized Mescla (4307) e o Bordô (4305) declaram forro, de 97% poliéster e 3% elastano. Nos outros, a ficha não informa.",
           "Qual tamanho escolher? Use o botão Tabela de Medidas da página de cada peça. A loja também tem um Provador Virtual na mesma página, e o [guia da tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir.",
-          "O frete é grátis? Sim, acima de R$ 599, na faixa do site em 24/10/2026."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Podemos receber comissão por compras feitas com o cupom e o link deste texto. Nossa equipe não comprou nem testou as peças. Os dados vêm das fichas e das páginas da loja, lidas em 24/10/2026, e a grade muda todo dia."
+          "O frete é grátis? Sim, acima de R$ 599, na faixa do site."
         ]
       }
     ],
@@ -127480,7 +127409,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Creatina com sabor da Black Skull, da Max Titanium e da Probiótica: a creatina por dose no rótulo, o preço por 100 g de creatina e o carboidrato de cada pote, com os preços de 25/10/2026.",
+    "description": "Creatina com sabor da Black Skull, da Max Titanium e da Probiótica: a creatina por dose no rótulo, o preço por 100 g de creatina e o carboidrato de cada pote, com os preços do site.",
     "metaDescription": "Creatina com sabor: Black Skull, Max Titanium e Probiótica pelo rótulo, com o preço por 100 g de creatina e o carboidrato de cada pote, nos preços de 25/10/2026.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
@@ -127583,7 +127512,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/black-skull/creatina-com-sabor-qual-escolher-quadro-preco-100g.webp",
             "alt": "Quadro com o preço por 100 g de creatina de seis potes de 300 g, de R$ 16,76 a R$ 27,29, em 25/10/2026",
-            "caption": "Quadro: Em Casa com Cecília, com os preços de 25/10/2026.",
+            "caption": "Quadro: Em Casa com Cecília, com os preços do site.",
             "objectFit": "contain",
             "aspectRatio": 1.1256
           }
@@ -127607,7 +127536,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/black-skull/creatina-com-sabor-qual-escolher-tabela-black-skull-saborizada.webp",
             "alt": "Tabela nutricional da Creatine 300 g saborizada da Black Skull: porção de 6 g, 5.000 mg de creatina e 0,4 g de carboidrato",
-            "caption": "Tabela da própria Black Skull, na página do produto (25/10/2026).",
+            "caption": "Tabela da própria Black Skull, na página do produto.",
             "objectFit": "contain",
             "aspectRatio": 0.6856
           }
@@ -127623,7 +127552,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Probiótica: sem sabor no catálogo",
         "paragraphs": [
-          "Não encontramos creatina com sabor no catálogo da Probiótica em 25/10/2026: a busca por creatina, creatine e monohidratada não traz nenhum produto com aromatizante. Por isso a Probiótica entra só na linha sem sabor, com dois potes de 300 g:"
+          "Não encontramos creatina com sabor no catálogo da Probiótica: a busca por creatina, creatine e monohidratada não traz nenhum produto com aromatizante. Por isso a Probiótica entra só na linha sem sabor, com dois potes de 300 g:"
         ],
         "bullets": [
           "**Creatina Monohidratada Pura, 300 g:** R$ 59,90 (de R$ 75,10), 5 g por dose, 60 porções e 5.000 mg por porção. Sai a R$ 19,97 por 100 g de creatina.",
@@ -127644,15 +127573,15 @@ export const reviewsData: unknown[] = [
           "**Mix Pro:** a página diz 5 g por dose; a tabela diz 6 g de porção com 3.000 mg de creatina. A conta usa a tabela, e a diferença fica registrada aqui.",
           "**Max Creatina 300 g:** a página manda encher o dosador até a marcação de 3 g; a tabela traz porção de 5 g com 5.000 mg. A conta usa a tabela. Confira a marcação na embalagem antes de preparar.",
           "**Max Creatina 7Belo:** a porção de 6 g vem só da tabela, e a página não traz modo de preparo nem marcação de dosador.",
-          "**Creatine Turbo de 150 g:** fica fora desta tabela. A ficha da página diz 2 dosadores (10 g) e a tabela traz 6 g de porção. Em 25/10, os sabores laranja, limão e uva estavam sem estoque, e só o sem sabor aparecia, a R$ 17,94."
+          "**Creatine Turbo de 150 g:** fica fora desta tabela. A ficha da página diz 2 dosadores (10 g) e a tabela traz 6 g de porção. Os sabores laranja, limão e uva estavam sem estoque, e só o sem sabor aparecia, a R$ 17,94."
         ]
       },
       {
         "heading": "Cupons e Pix",
         "paragraphs": [
-          "**Black Skull:** o CECILIA10 dá 10% em todo o site, soma com as promoções da loja e vale em todas as formas de pagamento (teste de 13/10 e decisão de 14/10). Na página, a Black Skull não mostra desconto no Pix. As regras estão na [página do cupom Black Skull](/cupons/black-skull).",
-          "**Max Titanium:** o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto: nem todo item recebe 10%. Soma com as promoções do site. O site anuncia PIX e boleto com até 5% OFF; na 7Belo, o Pix sai a R$ 64,18 contra R$ 66,17 no cartão. O cupom vale em todas as formas de pagamento, Pix inclusive (teste de 14/10); se o desconto do Pix também se mantém junto com o cupom, não conferimos. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium).",
-          "**Probiótica:** o PRO10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto, soma com as promoções do site e vale em todas as formas de pagamento (teste de 13/10). Na página, a Pura 300 g sai R$ 56,90 no Pix (5% de desconto) contra R$ 59,90 no cartão."
+          "**Black Skull:** o CECILIA10 dá 10% em todo o site, soma com as promoções da loja e vale em todas as formas de pagamento (conferido por nós). Na página, a Black Skull não mostra desconto no Pix. As regras estão na [página do cupom Black Skull](/cupons/black-skull).",
+          "**Max Titanium:** o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto: nem todo item recebe 10%. Soma com as promoções do site. O site anuncia PIX e boleto com até 5% OFF; na 7Belo, o Pix sai a R$ 64,18 contra R$ 66,17 no cartão. O cupom vale em todas as formas de pagamento, Pix inclusive (conferido por nós); se o desconto do Pix também se mantém junto com o cupom, não conferimos. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium).",
+          "**Probiótica:** o PRO10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto, soma com as promoções do site e vale em todas as formas de pagamento (conferido por nós). Na página, a Pura 300 g sai R$ 56,90 no Pix (5% de desconto) contra R$ 59,90 no cartão."
         ]
       },
       {
@@ -127673,13 +127602,7 @@ export const reviewsData: unknown[] = [
           "Creatina com sabor tem o mesmo efeito? Pelo rótulo, a creatina por dose é a mesma com e sem sabor na mesma marca. Nenhuma ficha lida diz que o sabor muda o que a creatina faz, e este texto também não diz.",
           "Creatina com sabor engorda? O rótulo mostra calorias e carboidrato por porção, e são esses números que servem para ler. A Turbo traz 20 kcal e 5 g de carboidrato por dose de 10 g. A Creatine de 300 g da Black Skull com sabor traz 2 kcal e 0,4 g por dose de 6 g. A Max 7Belo declara carboidrato zero. Quem tem meta de peso fala com um nutricionista.",
           "Creatina com sabor é pura? \"Pura\" não é uma qualidade que as fichas comprovem. O que vale é a lista de ingredientes: a Turbo tem maltodextrina, e a 7Belo e a Creatine com sabor da Black Skull têm aromatizante, ácido málico, sucralose e corantes.",
-          "A creatina com sabor tem Creapure? A Black Skull e a Max 7Belo não declaram o selo Creapure nas fichas lidas em 25/10/2026. A busca por \"creapure\" no site da Black Skull não traz nenhum produto. Quem precisa do selo confirma com a loja antes de comprar."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada com Black Skull, Max Titanium e Probiótica. Podemos receber comissão pelas compras feitas com os cupons das marcas. Ninguém do site usou as creatinas: o texto lê a ficha, a tabela nutricional e o preço de 25/10/2026. Não é orientação de nutricionista nem de médico. Preço, estoque e sabores mudam; vale o que aparece no site na hora da compra."
+          "A creatina com sabor tem Creapure? A Black Skull e a Max 7Belo não declaram o selo Creapure nas fichas lidas. A busca por \"creapure\" no site da Black Skull não traz nenhum produto. Quem precisa do selo confirma com a loja antes de comprar."
         ]
       }
     ],
@@ -127738,7 +127661,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Skull tem a creatina mais barata por 100 g de produto e a whey 80% HD mais barata por 100 g de proteína, entre os tamanhos comparados. O menor preço da Integralmédica fica acima nas duas contas. Nas fontes oficiais lidas em 25/10, são empresas diferentes; o veredito por perfil está em Qual escolher."
+          "A Black Skull tem a creatina mais barata por 100 g de produto e a whey 80% HD mais barata por 100 g de proteína, entre os tamanhos comparados. O menor preço da Integralmédica fica acima nas duas contas. Nas fontes oficiais, são empresas diferentes; o veredito por perfil está em Qual escolher."
         ]
       },
       {
@@ -127752,15 +127675,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "De onde vem cada marca",
         "paragraphs": [
-          "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. Segundo o \"Sobre nós\" do site, o produto é desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, ativa desde 18/03/2014 segundo a BrasilAPI, consultada em 25/10/2026.",
-          "O rodapé do site da Integralmédica diz que a loja é operada pela After Click, CNPJ 58.450.630/0001-48, de Extrema (MG). A BrasilAPI registra a razão social AFTERCLICK SERVICOS INTEGRADOS LTDA como ativa, aberta em 13/12/2024. O \"Sobre nós\" da Integralmédica diz que a marca tem mais de 40 anos de história e que o Grupo BRG reúne a Integralmédica e outras marcas. A Black Skull não está entre elas.",
-          "Nas fontes oficiais lidas em 25/10, são empresas diferentes. A leitura não achou o cadastro do Grupo BRG, então o texto não vai além do que as fontes dizem. Sobre a confiança da loja, veja [Black Skull é confiável?](/reviews/black-skull-e-confiavel)."
+          "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. Segundo o \"Sobre nós\" do site, o produto é desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, ativa desde 2014 segundo a BrasilAPI.",
+          "O rodapé do site da Integralmédica diz que a loja é operada pela After Click, CNPJ 58.450.630/0001-48, de Extrema (MG). A BrasilAPI registra a razão social AFTERCLICK SERVICOS INTEGRADOS LTDA como ativa, aberta em 2024. O \"Sobre nós\" da Integralmédica diz que a marca tem mais de 40 anos de história e que o Grupo BRG reúne a Integralmédica e outras marcas. A Black Skull não está entre elas.",
+          "Nas fontes oficiais, são empresas diferentes. A leitura não achou o cadastro do Grupo BRG, então o texto não vai além do que as fontes dizem. Sobre a confiança da loja, veja [Black Skull é confiável?](/reviews/black-skull-e-confiavel)."
         ]
       },
       {
         "heading": "Creatina: preço por 100 g de produto",
         "paragraphs": [
-          "A tabela compara as creatinas por 100 g de produto, nos tamanhos de 500 g e de 1 kg. A dose é de 5 g nos dois rótulos, com creatina monohidratada. \"100% Pura\" é o nome do produto da Integralmédica, não um selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, lidos em 25/10/2026, sem desconto de Pix. A Creator de 300 g e as outras creatinas da Black Skull estão em [Creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher)."
+          "A tabela compara as creatinas por 100 g de produto, nos tamanhos de 500 g e de 1 kg. A dose é de 5 g nos dois rótulos, com creatina monohidratada. \"100% Pura\" é o nome do produto da Integralmédica, não um selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, lidos no site, sem desconto de Pix. A Creator de 300 g e as outras creatinas da Black Skull estão em [Creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher)."
         ],
         "images": [
           {
@@ -127812,13 +127735,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: preço por 100 g de proteína",
         "paragraphs": [
-          "A conta é o preço dividido pela proteína total da embalagem: a proteína de cada dose vezes o número de porções do rótulo. A Black Skull 80% HD tem sabores com preços diferentes: em 25/10, baunilha, chocolate, morango e cookies custavam R$ 159,90, e banana, R$ 139,90. A conta usa R$ 159,90; no sabor banana, ela cai para R$ 20,28 por 100 g de proteína. A 100% HD de 1,8 kg custava R$ 279,90 em todos os sabores. O refil de 900 g da 100% HD e os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher)."
+          "A conta é o preço dividido pela proteína total da embalagem: a proteína de cada dose vezes o número de porções do rótulo. A Black Skull 80% HD tem sabores com preços diferentes: no site, baunilha, chocolate, morango e cookies custavam R$ 159,90, e banana, R$ 139,90. A conta usa R$ 159,90; no sabor banana, ela cai para R$ 20,28 por 100 g de proteína. A 100% HD de 1,8 kg custava R$ 279,90 em todos os sabores. O refil de 900 g da 100% HD e os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher)."
         ],
         "images": [
           {
             "src": "/images/reviews/black-skull/black-skull-ou-integralmedica-quadro-preco-100g-proteina.webp",
             "alt": "Quadro com o preço por 100 g de proteína dos wheys da Black Skull e da Integralmédica, com preços de 25/10/2026.",
-            "caption": "Preços do site em 25/10/2026, sem desconto de Pix.",
+            "caption": "Preços do site, sem desconto de Pix.",
             "objectFit": "contain",
             "aspectRatio": 1.5492
           }
@@ -127863,7 +127786,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Com o CECILIA10, a Black Skull 80% HD sai por R$ 20,86 por 100 g de proteína e a 100% HD de 1,8 kg por R$ 23,99. Este texto não traz cupom da Integralmédica. Por dose, no cartão, a 80% HD fica em R$ 5,33 e a 100% HD de 1,8 kg em R$ 5,60; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg). Com o cupom, a dose da Black Skull cai para R$ 4,80 e R$ 5,04. Na coleção de mais vendidos do site da Integralmédica, em 25/10, o pouch de 1,8 kg aparece em primeiro."
+          "Com o CECILIA10, a Black Skull 80% HD sai por R$ 20,86 por 100 g de proteína e a 100% HD de 1,8 kg por R$ 23,99. Este texto não traz cupom da Integralmédica. Por dose, no cartão, a 80% HD fica em R$ 5,33 e a 100% HD de 1,8 kg em R$ 5,60; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg). Com o cupom, a dose da Black Skull cai para R$ 4,80 e R$ 5,04. Na coleção de mais vendidos do site da Integralmédica, o pouch de 1,8 kg aparece em primeiro."
         ]
       },
       {
@@ -127906,16 +127829,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Black Skull é da Integralmédica? Nas fontes oficiais lidas em 25/10, são empresas diferentes. O site da Integralmédica lista as marcas do grupo dela, e a Black Skull não está entre elas. A Black Skull diz que é uma marca brasileira, desenvolvida através da GDS.",
+          "Black Skull é da Integralmédica? Nas fontes oficiais, são empresas diferentes. O site da Integralmédica lista as marcas do grupo dela, e a Black Skull não está entre elas. A Black Skull diz que é uma marca brasileira, desenvolvida através da GDS.",
           "Creatina Black Skull ou Integralmédica, qual compensa? Pelo preço por 100 g de produto, a Black Skull. O kit de 1 kg da Black Skull sai por R$ 7,58, e o pouch de 1 kg da Integralmédica, por R$ 15,60. Com o CECILIA10, a diferença fica maior.",
           "Whey Integralmédica ou Black Skull, qual melhor? Pelo preço por 100 g de proteína, a Black Skull 80% HD: R$ 23,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. O sabor fica de fora, porque ninguém da equipe provou os produtos.",
-          "Black Skull é brasileira? A própria marca diz que sim: sede em Embu das Artes (SP) e presença no Brasil desde 2015. O CNPJ da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, está ativo desde 18/03/2014, segundo a BrasilAPI."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Integralmédica não é parceira: não há link, cupom, foto nem print dela neste texto. Não provamos os produtos; a comparação usa o que as lojas publicam, com a data da leitura."
+          "Black Skull é brasileira? A própria marca diz que sim: sede em Embu das Artes (SP) e presença no Brasil desde 2015. O CNPJ da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, está ativo desde 2014, segundo a BrasilAPI."
         ]
       }
     ],
@@ -127929,7 +127846,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA10",
     "affiliate": "black-skull",
-    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10.",
+    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Integralmédica não é parceira.",
     "relatedArticles": [
       {
         "slug": "black-skull-ou-dark-lab",
@@ -132380,7 +132297,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual hipercalórico da Black Skull comprar",
         "paragraphs": [
-          "Pelo rótulo e pelo preço de 27/10/2026, o Masstodon Refil 3 kg é o que custa menos por 100 g de proteína, e o cupom CECILIA10 tira 10% dos dois. O Monstrous 2,7 kg tem mais proteína e menos carboidrato por 100 g do pó, e é isso que muda a escolha: as contas estão no quadro abaixo."
+          "Pelo rótulo e pelo preço, o Masstodon Refil 3 kg é o que custa menos por 100 g de proteína, e o cupom CECILIA10 tira 10% dos dois. O Monstrous 2,7 kg tem mais proteína e menos carboidrato por 100 g do pó, e é isso que muda a escolha: as contas estão no quadro abaixo."
         ]
       },
       {
@@ -132396,7 +132313,7 @@ export const reviewsData: unknown[] = [
           "Preço por 1.000 kcal: a mesma lógica com as kcal da porção. Masstodon: 618 kcal em 160 g dão 386 kcal por 100 g; R$ 4,33 ÷ 386 × 1.000 = R$ 11,21."
         ],
         "postParagraphs": [
-          "A mesma conta no Monstrous dá R$ 12,96 por 100 g do pó, 19,6 g de proteína por 100 g, R$ 66,07 por 100 g de proteína e R$ 34,35 por 1.000 kcal. Toda conta usa o preço de 27/10/2026 e a porção do rótulo, em gramas."
+          "A mesma conta no Monstrous dá R$ 12,96 por 100 g do pó, 19,6 g de proteína por 100 g, R$ 66,07 por 100 g de proteína e R$ 34,35 por 1.000 kcal. Toda conta usa esse preço e a porção do rótulo, em gramas."
         ]
       },
       {
@@ -132484,7 +132401,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/black-skull/hipercalorico-black-skull-tabelas-2710.webp",
           "alt": "Tabelas nutricionais oficiais do Masstodon Refil 3 kg e do Monstrous 2,7 kg, lado a lado",
-          "caption": "As tabelas publicadas pela Black Skull nas fichas do Masstodon (à esquerda) e do Monstrous, lidas em 27/10/2026.",
+          "caption": "As tabelas publicadas pela Black Skull nas fichas do Masstodon (à esquerda) e do Monstrous, lidas no site.",
           "objectFit": "contain",
           "aspectRatio": 1.6837
         }
@@ -132492,7 +132409,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Masstodon Refil 3 kg: o que o rótulo diz",
         "paragraphs": [
-          "O [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p) custava R$ 129,90 em 27/10/2026, nos quatro sabores, todos com estoque. É uma embalagem refil, e a ficha avisa que não acompanha medidor. O que o rótulo e a ficha mostram:"
+          "O [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p) custava R$ 129,90, nos quatro sabores, todos com estoque. É uma embalagem refil, e a ficha avisa que não acompanha medidor. O que o rótulo e a ficha mostram:"
         ],
         "bullets": [
           "Porção de 160 g, 18 porções por embalagem (aprox.).",
@@ -132500,7 +132417,7 @@ export const reviewsData: unknown[] = [
           "Lista de ingredientes: maltodextrina, proteína concentrada do soro de leite, aromatizante e sucralose. O chocolate leva cacau em pó; o morango, corante de beterraba.",
           "Sem caseína na lista.",
           "Alergênicos: \"Contém lactose. Não contém glúten.\"",
-          "Sabores com estoque em 27/10/2026: baunilha, morango, chocolate e banana."
+          "Sabores com estoque: baunilha, morango, chocolate e banana."
         ],
         "postParagraphs": [
           "Na conta do artigo, o Masstodon sai a R$ 4,33 por 100 g do pó, R$ 57,73 por 100 g de proteína e R$ 11,21 por 1.000 kcal. Em proteína, o pote inteiro tem 225 g."
@@ -132509,7 +132426,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Monstrous 2,7 kg: o que o rótulo diz",
         "paragraphs": [
-          "O [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p) custava R$ 349,90 em 27/10/2026. O seletor da ficha mostra três sabores: chocolate, morango e baunilha, e o morango estava esgotado nessa data. A descrição da ficha fala em \"1000 calorias por porção\"; o texto usa o rótulo, que diz 981 kcal por 260 g. O que o rótulo e a ficha mostram:"
+          "O [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p) custava R$ 349,90. O seletor da ficha mostra três sabores: chocolate, morango e baunilha, e o morango estava esgotado nessa data. A descrição da ficha fala em \"1000 calorias por porção\"; o texto usa o rótulo, que diz 981 kcal por 260 g. O que o rótulo e a ficha mostram:"
         ],
         "bullets": [
           "Porção de 260 g, 10 porções por embalagem. A conta por 100 g usa os 2,7 kg do nome do produto; 10 porções de 260 g dão 2.600 g, e a tabela não traz o peso líquido.",
@@ -132517,7 +132434,7 @@ export const reviewsData: unknown[] = [
           "Lista de ingredientes (chocolate): maltodextrina, proteína isolada do soro de leite, amido de milho, amido de batata modificada, caseína micelar, caseinato de cálcio, proteína concentrada do soro de leite, cacau em pó, aromatizante e sucralose. A baunilha acrescenta acesulfame de potássio e sal; o morango, corante de beterraba e lecitina de soja.",
           "Alergênicos: \"Contém lactose. Não contém glúten.\"",
           "Modo de consumo do rótulo: \"Recomendação para adultos acima de 19 anos de idade.\"",
-          "Sabores com estoque em 27/10/2026: chocolate e baunilha. Morango esgotado."
+          "Sabores com estoque: chocolate e baunilha. Morango esgotado."
         ],
         "postParagraphs": [
           "Na conta do artigo, o Monstrous sai a R$ 12,96 por 100 g do pó, R$ 66,07 por 100 g de proteína e R$ 34,35 por 1.000 kcal. Em proteína, o pote inteiro tem 529 g, 2,4 vezes o do Masstodon, por 2,7 vezes o preço."
@@ -132526,13 +132443,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sabor: o que a loja mostra e o quadro por sabor",
         "paragraphs": [
-          "A Black Skull não publica venda por sabor, e ninguém do site provou nenhum deles. O que o site mostra, em 27/10/2026, é a lista de sabores de cada produto e quais têm estoque. Sabor é escolha sua. O quadro traz os sete sabores do catálogo, com o preço do dia e a conta do artigo; a tabela nutricional é a mesma dentro de cada produto, então o número não muda de um sabor para o outro."
+          "A Black Skull não publica venda por sabor, e ninguém do site provou nenhum deles. O que o site mostra é a lista de sabores de cada produto e quais têm estoque. Sabor é escolha sua. O quadro traz os sete sabores do catálogo, com o preço do dia e a conta do artigo; a tabela nutricional é a mesma dentro de cada produto, então o número não muda de um sabor para o outro."
         ],
         "comparisonTable": {
           "headers": [
             "Produto e sabor",
-            "Estoque em 27/10/2026",
-            "Preço (27/10/2026)",
+            "Estoque",
+            "Preço",
             "R$ por 100 g do pó",
             "R$ por 100 g de proteína"
           ],
@@ -132589,18 +132506,18 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Não há hipercalórico de 4 kg nem em balde no catálogo de 27/10/2026: os dois tamanhos são o refil de 3 kg e o pote de 2,7 kg."
+          "Não há hipercalórico de 4 kg nem em balde no catálogo: os dois tamanhos são o refil de 3 kg e o pote de 2,7 kg."
         ]
       },
       {
         "heading": "Cupom CECILIA10 nos dois",
         "paragraphs": [
-          "O CECILIA10 é um cupom de 10% em todo o site da Black Skull, em toda forma de pagamento, e soma com as promoções vigentes: no teste de checkout de 24/10/2026, o desconto valeu em todos os itens do carrinho. O frete é calculado pela loja e fica fora do cupom. A loja não mostra preço de Pix nem desconto no Pix em 27/10/2026, então a conta é uma só, seja qual for o pagamento. As regras completas estão na [página do cupom](/cupons/black-skull), e o passo a passo em [Cupom Black Skull CECILIA10: como usar](/reviews/cupom-black-skull-como-usar)."
+          "O CECILIA10 é um cupom de 10% em todo o site da Black Skull, em toda forma de pagamento, e soma com as promoções vigentes: no teste de checkout, o desconto valeu em todos os itens do carrinho. O frete é calculado pela loja e fica fora do cupom. A loja não mostra preço de Pix nem desconto no Pix, então a conta é uma só, seja qual for o pagamento. As regras completas estão na [página do cupom](/cupons/black-skull), e o passo a passo em [Cupom Black Skull CECILIA10: como usar](/reviews/cupom-black-skull-como-usar)."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Preço (27/10/2026)",
+            "Preço",
             "Com CECILIA10",
             "R$ por 100 g de proteína com o cupom",
             "R$ por 1.000 kcal com o cupom"
@@ -132635,7 +132552,7 @@ export const reviewsData: unknown[] = [
           "headers": [
             "Se o critério é…",
             "Leve…",
-            "O número (27/10/2026, sem cupom)"
+            "O número (sem cupom)"
           ],
           "rows": [
             [
@@ -132676,7 +132593,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/black-skull/hipercalorico-black-skull-quadro-2710.webp",
           "alt": "Quadro com porção, kcal, carboidrato, proteína e preço por 100 g de proteína do Masstodon e do Monstrous",
-          "caption": "Quadro nosso com o rótulo e o preço de 27/10/2026; em amarelo, quem leva vantagem em cada linha.",
+          "caption": "Quadro nosso com o rótulo e o preço; em amarelo, quem leva vantagem em cada linha.",
           "objectFit": "contain",
           "aspectRatio": 1.4423
         }
@@ -132685,17 +132602,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual hipercalórico da Black Skull tem menos carboidrato por grama de proteína? O Monstrous 2,7 kg: 3,8 g de carboidrato por grama de proteína (195 g e 51 g por porção de 260 g). O Masstodon Refil 3 kg tem 11,5 g (138 g e 12 g por porção de 160 g).",
-          "Qual hipercalórico da Black Skull é o mais barato por proteína? Em 27/10/2026, o Masstodon Refil 3 kg: R$ 57,73 por 100 g de proteína, ou R$ 51,96 com o CECILIA10. O Monstrous sai a R$ 66,07, ou R$ 59,46 com o cupom.",
-          "A Black Skull tem hipercalórico de 4 kg ou em balde? Não no catálogo de 27/10/2026. Os dois tamanhos são o Masstodon Refil 3 kg e o Monstrous 2,7 kg.",
+          "Qual hipercalórico da Black Skull é o mais barato por proteína? O Masstodon Refil 3 kg: R$ 57,73 por 100 g de proteína, ou R$ 51,96 com o CECILIA10. O Monstrous sai a R$ 66,07, ou R$ 59,46 com o cupom.",
+          "A Black Skull tem hipercalórico de 4 kg ou em balde? Não no catálogo. Os dois tamanhos são o Masstodon Refil 3 kg e o Monstrous 2,7 kg.",
           "A Black Skull tem hipercalórico sem lactose? Não: o Masstodon e o Monstrous declaram \"Contém lactose\" no rótulo. Os dois declaram \"Não contém glúten\".",
-          "Quais sabores do Monstrous estão à venda? O seletor da ficha mostra chocolate, morango e baunilha; em 27/10/2026 o morango estava esgotado. O Masstodon tem baunilha, morango, chocolate e banana, todos com estoque na mesma data."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Ninguém do site usou o Masstodon nem o Monstrous. Este artigo reúne o que a loja publica: tabela nutricional, lista de ingredientes, ficha, sabores com estoque e preço de venda, lidos no site oficial da Black Skull (blackskullusa.com.br) em 27/10/2026. As contas por 100 g do pó, por 100 g de proteína, por 1.000 kcal e do desconto do cupom são nossas.",
-          "O Em Casa com Cecília é afiliado da Black Skull e recebe comissão pelas compras feitas com o código CECILIA10 e pelos links da loja, sem custo extra para você. Preço e estoque mudam: vale o que aparecer no site da loja na hora da compra. Veja se a Black Skull é confiável em [Black Skull é confiável?](/reviews/black-skull-e-confiavel)."
+          "Quais sabores do Monstrous estão à venda? O seletor da ficha mostra chocolate, morango e baunilha; o morango estava esgotado. O Masstodon tem baunilha, morango, chocolate e banana, todos com estoque na mesma data."
         ]
       }
     ]
@@ -132736,7 +132646,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA10",
     "affiliate": "black-skull",
-    "editorialNote": "Preços lidos no site da Black Skull e na loja oficial do Mercado Livre. Podemos receber comissão pelo CECILIA10 e pelo link do Mercado Livre.",
+    "editorialNote": "Preços lidos no site da Black Skull e na loja oficial do Mercado Livre. Podemos receber comissão pelo CECILIA10 e pelo link do Mercado Livre. Ninguém da equipe usou os produtos.",
     "relatedArticles": [
       {
         "slug": "cupom-black-skull-como-usar",
@@ -132755,11 +132665,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na maioria dos produtos, o site da Black Skull com o cupom CECILIA10 sai mais barato que o Mercado Livre: em 27/10/2026, o site ganhou em 13 de 15 comparações. O Mercado Livre só venceu no Whey 100% HD de 900 g e no Refil de 900 g. O que muda a conta é o produto e, no whey de 900 g, o sabor: a tabela abaixo mostra peça a peça."
+          "Na maioria dos produtos, o site da Black Skull com o cupom CECILIA10 sai mais barato que o Mercado Livre: o site ganhou em 13 de 15 comparações. O Mercado Livre só venceu no Whey 100% HD de 900 g e no Refil de 900 g. O que muda a conta é o produto e, no whey de 900 g, o sabor: a tabela abaixo mostra peça a peça."
         ]
       },
       {
-        "heading": "Os 15 produtos: preço no Mercado Livre e no site em 27/10/2026",
+        "heading": "Os 15 produtos: preço no Mercado Livre e no site",
         "paragraphs": [
           "Este guia compara o preço da Black Skull na loja oficial do Mercado Livre e no site, onde vale o cupom CECILIA10, com os dados de 27/10/2026. Entram só produtos que existem nos dois lados, no mesmo tamanho. \"Site com cupom\" é o preço do site menos 10%. O cupom não vale no Mercado Livre: lá vale o preço do anúncio."
         ],
@@ -132886,7 +132796,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-quadro-2710.webp",
           "alt": "Quadro com o preço de 15 produtos da Black Skull no site com o CECILIA10 e no Mercado Livre",
-          "caption": "Quadro nosso com os preços de 27/10/2026; em amarelo, onde cada produto sai mais barato.",
+          "caption": "Quadro nosso com os preços lidos; em amarelo, onde cada produto sai mais barato.",
           "objectFit": "contain",
           "aspectRatio": 1.1152
         },
@@ -132906,7 +132816,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O whey de 900 g: onde o Mercado Livre ganha",
         "paragraphs": [
-          "O Whey 100% HD de 900 g é a exceção da tabela. No site, ele custa R$ 169,90 nos 11 sabores, e R$ 152,91 com o CECILIA10. Na loja oficial do Mercado Livre, o preço muda por sabor: de R$ 121,90 a R$ 149,90 em 27/10/2026. O chocolate estava a R$ 137,90, e a baunilha, de R$ 129,90 a R$ 149,90, conforme o anúncio.",
+          "O Whey 100% HD de 900 g é a exceção da tabela. No site, ele custa R$ 169,90 nos 11 sabores, e R$ 152,91 com o CECILIA10. Na loja oficial do Mercado Livre, o preço muda por sabor: de R$ 121,90 a R$ 149,90. O chocolate estava a R$ 137,90, e a baunilha, de R$ 129,90 a R$ 149,90, conforme o anúncio.",
           "Ou seja, o Mercado Livre saía de R$ 3,01 a R$ 31,01 mais barato que o site com o cupom, dependendo do sabor e do anúncio. O Refil de 900 g segue a mesma lógica, com folga menor: R$ 139,90 no Mercado Livre contra R$ 143,91 no site com o cupom, R$ 4,01 de diferença.",
           "A conta muda se o pedido tiver mais itens. Dois wheys de 900 g no site com o cupom somam R$ 305,82, acima do limite de frete grátis do Sul e do Sudeste; no Mercado Livre, o frete depende do anúncio e da sua conta. Compare o total do carrinho, não só o preço do pote."
         ],
@@ -132921,17 +132831,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que só um lado tem",
         "bullets": [
-          "Só no site: o cupom CECILIA10, o Thermo Flame de 120 tabletes (R$ 49,90 em 27/10/2026, sem par no Mercado Livre) e a política de troca da própria loja.",
+          "Só no site: o cupom CECILIA10, o Thermo Flame de 120 tabletes (R$ 49,90, sem par no Mercado Livre) e a política de troca da própria loja.",
           "Só no Mercado Livre: o whey de 900 g abaixo do site com o cupom, com preço que muda por sabor e por anúncio."
         ],
         "postParagraphs": [
-          "A loja oficial no Mercado Livre tinha 70 anúncios em 27/10/2026, e lemos os 47 da primeira página. O que não achamos nos dois lados no mesmo tamanho ficou fora da tabela."
+          "A loja oficial no Mercado Livre tinha 70 anúncios, e lemos os 47 da primeira página. O que não achamos nos dois lados no mesmo tamanho ficou fora da tabela."
         ]
       },
       {
         "heading": "Cupom, Pix e frete no site",
         "paragraphs": [
-          "O CECILIA10 tira 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Vale para conta nova e antiga. No teste de 24/10/2026, o desconto entrou num kit de whey em promoção e num whey a preço cheio. Nas páginas que lemos, o site não mostra desconto próprio no Pix: o que baixa o preço é o cupom, no Pix ou no cartão. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar), e as condições do mês estão na página do [cupom Black Skull](/cupons/black-skull).",
+          "O CECILIA10 tira 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Vale para conta nova e antiga. No nosso teste, o desconto entrou num kit de whey em promoção e num whey a preço cheio. Nas páginas que lemos, o site não mostra desconto próprio no Pix: o que baixa o preço é o cupom, no Pix ou no cartão. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar), e as condições do mês estão na página do [cupom Black Skull](/cupons/black-skull).",
           "O frete do site é grátis acima de R$ 199,90 no Sul e no Sudeste. A regra olha o total do carrinho depois do desconto: um whey de 900 g sozinho, a R$ 152,91 com o cupom, fica abaixo do limite e paga frete. Para chegar aos R$ 199,90, o pedido precisa de mais um item que, com o cupom, some pelo menos R$ 46,99: um pré-treino de 300 g serve (o whey com o B.O.P.E 300 g, os dois com o cupom, dá R$ 211,32); uma creatina sozinha não chega (com a Creatine Turbo 300 g, R$ 188,82)."
         ]
       },
@@ -132945,7 +132855,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como escolher",
         "bullets": [
-          "Quer só o Whey 100% HD de 900 g ou o Refil de 900 g: compare com o Mercado Livre, que em 27/10/2026 saía de R$ 3,01 a R$ 31,01 mais barato que o site com o cupom, conforme o sabor.",
+          "Quer só o Whey 100% HD de 900 g ou o Refil de 900 g: compare com o Mercado Livre, que saía de R$ 3,01 a R$ 31,01 mais barato que o site com o cupom, conforme o sabor.",
           "Quer o whey de 1,8 kg, a linha Gourmet, as creatinas, os pré-treinos, o Thermo Flame ou o Kit 2 Whey Turbo: site com o CECILIA10, de R$ 3,49 a R$ 40,27 mais barato por produto.",
           "Quer frete grátis no site: monte um carrinho acima de R$ 199,90 depois do cupom (Sul e Sudeste).",
           "Quer a política de troca da própria loja: site."
@@ -132958,17 +132868,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "O cupom CECILIA10 vale no Mercado Livre? Não. Ele só vale no site oficial da Black Skull; no Mercado Livre vale o preço do anúncio. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar).",
-          "A Black Skull é mais barata no Mercado Livre ou no site? Depende do produto. Em 27/10/2026, o site com o cupom ganhou em 13 de 15 comparações, e o Mercado Livre só no Whey 100% HD de 900 g e no Refil de 900 g.",
+          "A Black Skull é mais barata no Mercado Livre ou no site? Depende do produto. O site com o cupom ganhou em 13 de 15 comparações, e o Mercado Livre só no Whey 100% HD de 900 g e no Refil de 900 g.",
           "O site da Black Skull tem frete grátis? No Sul e no Sudeste, sim, acima de R$ 199,90, contado depois do desconto.",
           "O Pix tem desconto no site da Black Skull? Nas páginas que lemos, não há desconto próprio no Pix. O CECILIA10 tira 10% em qualquer forma de pagamento.",
-          "Quanto custa o whey da Black Skull no Mercado Livre? O Whey 100% HD de 900 g ia de R$ 121,90 a R$ 149,90 na loja oficial em 27/10/2026, conforme o sabor. No site, R$ 169,90, ou R$ 152,91 com o cupom."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços foram lidos no site da Black Skull e na loja oficial do Mercado Livre em 27/10/2026, e mudam de um dia para o outro. Confira antes de comprar.",
-          "Podemos receber comissão quando você compra no site com o cupom ou pelo link do Mercado Livre. Isso não muda o preço para você. Ninguém do site usou os produtos citados; este texto fala só de preço, tamanho e regras das lojas. O cupom foi testado em 24/10/2026."
+          "Quanto custa o whey da Black Skull no Mercado Livre? O Whey 100% HD de 900 g ia de R$ 121,90 a R$ 149,90 na loja oficial, conforme o sabor. No site, R$ 169,90, ou R$ 152,91 com o cupom."
         ]
       }
     ]
