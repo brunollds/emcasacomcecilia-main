@@ -50810,7 +50810,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/letseatit/reclame-aqui-hero-perfil.webp",
           "alt": "Perfil da Let's Eat It no Reclame Aqui, na categoria Móveis e Decoração, com reputação Boa",
-          "caption": "Perfil da Let's Eat It no Reclame Aqui, consultado em 02/10/2026.",
+          "caption": "Perfil da Let's Eat It no Reclame Aqui.",
           "objectFit": "contain",
           "aspectRatio": 1.777
         }
@@ -50818,10 +50818,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Let's Eat It no Reclame Aqui",
         "paragraphs": [
-          "Estes são os indicadores do perfil da Let's Eat It na aba de 6 meses, que é a janela usada para a reputação exibida no topo da página:"
+          "Estes são os indicadores do perfil da Let's Eat It na aba de 6 meses, que é a janela usada para a reputação exibida no topo da página (dados até 30/09/2026, consulta de 02/10/2026):"
         ],
         "comparisonTable": {
-          "caption": "Perfil da Let's Eat It no Reclame Aqui, aba de 6 meses (dados de 01/04/2026 a 30/09/2026), consultado em 02/10/2026.",
+          "caption": "Perfil da Let's Eat It no Reclame Aqui, aba de 6 meses.",
           "headers": [
             "Indicador",
             "Resultado",
@@ -50880,22 +50880,22 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/letseatit/reclame-aqui-reputacao-6-meses-2026-09.webp",
         "imageAlt": "Painel do Reclame Aqui da Let's Eat It nos últimos 6 meses: reputação Boa, nota 7,6/10, 115 reclamações, 99,1% respondidas, 94% resolvidas, 54% voltariam a fazer negócio e nota do consumidor 5,6, com dados de 01/04/2026 a 30/09/2026",
-        "imageCaption": "Painel de reputação da aba de 6 meses (dados de 01/04/2026 a 30/09/2026).",
+        "imageCaption": "Painel de reputação da aba de 6 meses.",
         "imageFit": "portrait",
         "imageAspectRatio": 0.4928
       },
       {
         "heading": "O lado forte: quase tudo é respondido e resolvido",
         "paragraphs": [
-          "O dado que mais pesa a favor da Let's Eat It é a constância. Das 115 reclamações do período, só uma ainda esperava resposta quando consultei o perfil. E, entre as reclamações que os consumidores voltaram para avaliar, 94% foram marcadas como resolvidas — quem marca é o próprio cliente, não a empresa.",
-          "O histórico mensal ajuda a ler isso como padrão, e não como um bom mês isolado: a reputação ficou em Boa em todos os meses de abril a setembro de 2026. A loja também aparece em 13º lugar no ranking de melhores empresas da categoria lojas de decoração e está no Reclame Aqui há 6 anos, com CNPJ e telefone de contato no perfil.",
+          "O dado que mais pesa a favor da Let's Eat It é a constância. Quase nada ficou sem resposta no período, e quem marca o caso como resolvido é o próprio cliente, não a empresa.",
+          "O histórico mensal ajuda a ler isso como padrão, e não como um bom mês isolado: a reputação ficou em Boa em todos os meses da janela de 6 meses. A loja também aparece em 13º lugar no ranking de melhores empresas da categoria lojas de decoração e está no Reclame Aqui há 6 anos, com CNPJ e telefone de contato no perfil.",
           "Na prática, isso diz o mais importante para quem tem receio de comprar numa loja online que ainda não conhece: quando o pedido dá problema, a Let's Eat It aparece e costuma encerrar o caso."
         ]
       },
       {
         "heading": "O lado que pede atenção: resolvido nem sempre é satisfeito",
         "paragraphs": [
-          "Os três índices de satisfação saem do mesmo grupo de 50 reclamações avaliadas. Fazendo a conta aproximada, cerca de 47 consumidores disseram que o problema foi resolvido, mas só uns 27 disseram que voltariam a comprar. Ou seja, um grupo relevante teve o caso encerrado e, ainda assim, saiu insatisfeito — o que puxa a nota média do consumidor para 5,6.",
+          "Os três índices de satisfação saem do mesmo grupo de 50 reclamações avaliadas. Conta nossa, pelos percentuais do quadro: cerca de 47 consumidores disseram que o problema foi resolvido, mas só uns 27 disseram que voltariam a comprar. Ou seja, um grupo relevante teve o caso encerrado e, ainda assim, saiu insatisfeito — o que puxa a nota média do consumidor para 5,6.",
           "Os números não dizem o motivo, mas os relatos recentes dão pistas. Aparecem pedidos com item faltando, peças que chegaram quebradas e pedidos de estorno que demoraram a cair. A minha leitura, e é uma hipótese, não um dado: em parte desses casos, o cliente queria o produto e recebeu o reembolso no lugar, ou recebeu a solução depois de muita espera. O próprio tempo médio de resposta, de 16 dias e 7 horas, é longo para quem está esperando uma encomenda.",
           "Isso não muda a conclusão de que a loja resolve, mas muda a expectativa: vale comprar sabendo que, se algo der errado, pode levar alguns dias para o caso andar."
         ]
@@ -50912,13 +50912,13 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/letseatit/reclame-aqui-principais-problemas-v2.webp",
         "imageAlt": "Quadro Principais problemas comentados da Let's Eat It no Reclame Aqui: Utilidades domésticas 56,68%, Produto não recebido 39,38% e Taças 20,11%",
-        "imageCaption": "Principais problemas comentados no perfil da Let's Eat It, com reclamações de até 3 anos (consulta em 02/10/2026).",
+        "imageCaption": "Principais problemas comentados no perfil da Let's Eat It, com reclamações de até 3 anos.",
         "imageFit": "square"
       },
       {
         "heading": "E as reclamações sobre produto falsificado?",
         "paragraphs": [
-          "Procurando no perfil, aparecem algumas reclamações com títulos como \"produtos falsificados\" ou \"produto falso\", incluindo uma de dezembro de 2023 sobre peças de marcas conhecidas, que ficou marcada como não resolvida. São alegações de consumidores: não encontrei nenhuma decisão ou apuração oficial que confirme falsificação, e também não consigo descartá-la só pelos relatos.",
+          "Procurando no perfil, aparecem algumas reclamações com títulos como \"produtos falsificados\" ou \"produto falso\", incluindo uma antiga sobre peças de marcas conhecidas, que ficou marcada como não resolvida. São alegações de consumidores: não encontrei nenhuma decisão ou apuração oficial que confirme falsificação, e também não consigo descartá-la só pelos relatos.",
           "O que encontrei a favor da loja é que a Let's Eat It aparece no localizador de lojas oficial da Le Creuset Brasil, a marca de panelas mais cara do catálogo. Detalhei isso, junto com CNPJ e políticas, no artigo sobre se a loja é confiável. Para quem vai comprar uma peça de alto valor, a orientação é a mesma de qualquer loja: guarde a nota fiscal e confira a peça assim que receber."
         ],
         "links": [
@@ -50931,7 +50931,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a loja promete quando algo dá errado",
         "paragraphs": [
-          "Ajuda comparar as reclamações com o que a própria Let's Eat It publica nas políticas de frete e de trocas (ambas atualizadas em abril de 2026):"
+          "Ajuda comparar as reclamações com o que a própria Let's Eat It publica nas políticas de frete e de trocas:"
         ],
         "bullets": [
           "Produto danificado no transporte: reposição gratuita, mediante contato pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br com fotos do produto e da embalagem.",
@@ -50981,7 +50981,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Let's Eat It?",
         "paragraphs": [
-          "Pelo Reclame Aqui, sim, com uma ressalva. A reputação é Boa, com nota 7,6 de 10, 99,1% das reclamações respondidas e 94% das avaliadas marcadas como resolvidas.",
+          "Pelo Reclame Aqui, sim, com uma ressalva. A reputação é Boa porque a loja responde e resolve quase tudo, como mostra o quadro acima.",
           "O que pede atenção é a satisfação: 54% voltariam a fazer negócio e a nota média do consumidor é 5,6, além de um tempo médio de resposta longo. Quem compra deve esperar que o problema seja resolvido, mas talvez com mais demora e menos conforto do que gostaria."
         ]
       },
@@ -50989,8 +50989,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A loja Let's Eat It é confiável segundo o Reclame Aqui? A reputação é Boa, com nota 7,6/10 nos últimos 6 meses, 99,1% das reclamações respondidas e 94% resolvidas. O ponto fraco é a satisfação: 54% voltariam a fazer negócio.",
-          "Qual a nota da Let's Eat It no Reclame Aqui? 7,6 de 10, com reputação Boa, considerando o período de 01/04/2026 a 30/09/2026 (consulta em 02/10/2026). A nota média dada pelos consumidores nas avaliações é 5,6.",
-          "A Let's Eat It responde as reclamações? Sim. Respondeu 99,1% das 115 reclamações do período; na consulta, só uma aguardava resposta.",
+          "Qual a nota da Let's Eat It no Reclame Aqui? 7,6 de 10, com reputação Boa, considerando os últimos 6 meses. A nota média dada pelos consumidores nas avaliações é 5,6.",
+          "A Let's Eat It responde as reclamações? Sim: responde quase todas, como mostra o quadro acima; na consulta, só uma aguardava resposta.",
           "Por que 94% foram resolvidas, mas só 54% voltariam a comprar? Os dois índices vêm das mesmas 50 avaliações. Muitos consumidores consideraram o problema resolvido, mas não ficaram satisfeitos com a forma ou o tempo da solução.",
           "Quanto tempo a Let's Eat It demora para responder no Reclame Aqui? O tempo médio de resposta no período foi de 16 dias e 7 horas.",
           "O que mais gera reclamação na Let's Eat It? Produto não recebido é o problema mais citado (39,38% no histórico de até 3 anos), seguido de relatos com taças e peças frágeis.",
@@ -61721,7 +61721,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Le Creuset diz sobre o ferro fundido: indução, forno, lava-louças, micro-ondas e uso",
         "paragraphs": [
-          "A panela serve no fogão, inclusive de indução, e no forno, com cuidado com o esmalte, e a garantia é vitalícia. Não testamos as panelas: as regras abaixo vêm da página de uso e cuidado da Le Creuset Brasil e da página de cuidados da Zwilling sobre a Staub."
+          "A panela serve no fogão, inclusive de indução, e no forno, com cuidado com o esmalte, e a garantia é vitalícia; as regras abaixo vêm das páginas de cuidado das marcas."
         ],
         "bullets": [
           "Indução: o ferro fundido pode ser usado em todas as fontes de calor, incluindo a indução.",
@@ -61745,7 +61745,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le Creuset ou Staub",
         "comparisonTable": {
-          "caption": "Pelo que cada marca publica: Le Creuset na página de uso e cuidado da Le Creuset Brasil (lida em 11/10/2026) e Staub na página de cuidados do site da Zwilling em Portugal (lida em 11 e 12/10/2026).",
+          "caption": "Pelo que cada marca publica: Le Creuset na página de uso e cuidado da Le Creuset Brasil e Staub na página de cuidados do site da Zwilling em Portugal.",
           "headers": [
             "Uso",
             "Le Creuset (ferro fundido esmaltado)",
@@ -61780,18 +61780,12 @@ export const reviewsData: unknown[] = [
             [
               "Na Let's Eat It",
               "Sim",
-              "Não encontramos no catálogo (busca de 12/10/2026)"
+              "Não encontramos no catálogo"
             ]
           ]
         },
         "postParagraphs": [
-          "As duas vão à indução e ao forno, e as duas excluem a alça de madeira. O limite de temperatura muda com o puxador e a linha, como mostra a tabela. Não comparamos preço, e na Let's Eat It não encontramos a Staub no catálogo."
-        ]
-      },
-      {
-        "heading": "Ceraflame e Tramontina: fora do comparativo",
-        "paragraphs": [
-          "A Ceraflame faz panelas de cerâmica, outro material. A Tramontina tem panelas de ferro fundido esmaltado com revestimento interno antiaderente. Não lemos as regras de indução, forno e garantia de nenhuma das duas, por isso elas ficam fora do comparativo."
+          "As duas vão à indução e ao forno, e as duas excluem a alça de madeira. O limite de temperatura muda com o puxador e a linha, no detalhe da tabela. Se o preço decidir, compare na data da compra: a Staub não aparece no catálogo da Let's Eat It. Ceraflame (cerâmica) e Tramontina (ferro com antiaderente interno) ficam fora do comparativo por serem outro material e revestimento."
         ]
       },
       {
@@ -61818,20 +61812,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar: Let's Eat It",
         "paragraphs": [
-          "A Let's Eat It aparecia no localizador oficial de lojas da Le Creuset Brasil na consulta de 02/10/2026. Em 12/10/2026, a Panela Redonda Signature de 20 cm saía por R$ 2.329, e a de 28 cm, por R$ 3.429, nas cores de preço padrão; cores como Château e Flamme Dorée custam mais. Os preços por data estão no nosso guia de Black Friday da loja.",
-          "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset (regra da loja em 03/10/2026). No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD e vale também para a Le Creuset."
+          "A Let's Eat It aparece no localizador oficial de lojas da Le Creuset Brasil. Em 12/10/2026, a Panela Redonda Signature de 20 cm saía por R$ 2.329, e a de 28 cm, por R$ 3.429, nas cores de preço padrão; cores como Château e Flamme Dorée custam mais. Os preços por data estão no nosso guia de Black Friday da loja.",
+          "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset. No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD e vale também para a Le Creuset."
         ],
         "images": [
           {
             "src": "/images/reviews/letseatit/lets-eat-it-le-creuset-pagina.webp",
             "alt": "Página da Le Creuset na Let's Eat It, com as categorias de panelas, utensílios e canecas e a escolha por cor",
-            "caption": "A página da Le Creuset na Let's Eat It. Print de 12/10/2026.",
+            "caption": "A página da Le Creuset na Let's Eat It.",
             "objectFit": "contain"
           },
           {
             "src": "/images/reviews/letseatit/le-creuset-localizador-lets-eat-it.webp",
             "alt": "Página do localizador de lojas da Le Creuset Brasil mostrando a Let's Eat It na Serra, ES",
-            "caption": "A Let's Eat It no localizador de lojas oficial da Le Creuset Brasil (consulta em 02/10/2026).",
+            "caption": "A Let's Eat It no localizador de lojas oficial da Le Creuset Brasil.",
             "objectFit": "contain"
           }
         ],
@@ -61856,9 +61850,9 @@ export const reviewsData: unknown[] = [
           "Pelo que a marca publica, vale para quem cozinha no fogão ou na indução, usa o forno e aceita os cuidados: calor médio ou baixo, nada de micro-ondas e nada de água fria na panela quente, porque a garantia vitalícia não cobre choque térmico nem queda."
         ],
         "bullets": [
-          "Vale: quer uma panela para fogão, indução e forno, e vai respeitar o limite do puxador (250 °C no fenólico da Signature, 200 °C na Tradicional, qualquer temperatura com alça de ferro ou puxador de inox).",
+          "Vale: quer uma panela para fogão, indução e forno e vai respeitar o limite do puxador. Se o seu forno passa de 200 °C, prefira a Signature (fenólico até 250 °C) ou o puxador de inox (qualquer temperatura), porque o fenólico da Tradicional vai só até 200 °C.",
           "Pense melhor: quer usar no micro-ondas, ou vai à lava-louças sempre e não aceita que o acabamento possa desbotar.",
-          "O preço pesa: em 12/10/2026, a Redonda Signature de 20 cm saía por R$ 2.329 e a de 28 cm, por R$ 3.429, nas cores de preço padrão."
+          "O preço pesa: a Redonda Signature de 20 cm saía por R$ 2.329 e a de 28 cm, por R$ 3.429, nas cores de preço padrão."
         ]
       },
       {
@@ -61866,12 +61860,12 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Le Creuset vale a pena? Vale para quem vai usar a panela no fogão e no forno e aceita os cuidados: melhores resultados no calor médio ou baixo, nada de micro-ondas e uma garantia vitalícia que não cobre choque térmico nem queda.",
           "Le Creuset pode ir na indução? Sim: a marca diz que o ferro fundido pode ser usado em todas as fontes de calor, incluindo a indução.",
-          "Le Creuset pode ir no forno? Depende do puxador: o fenólico preto vai até 250 °C na linha Signature e até 200 °C na Tradicional; alça de ferro ou puxador de inox, em qualquer temperatura; madeira não vai.",
+          "Le Creuset pode ir no forno? Depende do puxador: o limite de cada linha e material está na tabela do comparativo acima.",
           "Le Creuset pode ir na lava-louças? Pode, segundo a marca: a lavagem constante pode desbotar o acabamento do esmalte, o que a marca diz não ser prejudicial; alça de madeira não vai.",
           "Le Creuset pode ir no micro-ondas? Não: a marca diz que o ferro fundido não deve ser usado no micro-ondas.",
           "Como limpar panela Le Creuset queimada? Não mergulhe a panela quente em água fria; encha com água morna, deixe agir de 15 a 20 minutos e lave sem palha de aço nem produto abrasivo.",
-          "Le Creuset ou Staub: qual escolher? Pelo que as marcas publicam, as duas vão à indução e ao forno, e o limite de temperatura depende do puxador. Não comparamos preço, e a Staub não apareceu no catálogo da Let's Eat It na busca de 12/10/2026.",
-          "As panelas Staub são boas? Não testamos; pela marca, a Staub vai à indução e ao forno até 250 °C, ou 200 °C com alças de silicone."
+          "Le Creuset ou Staub: qual escolher? Pelo que as marcas publicam, as duas vão à indução e ao forno, e o limite de temperatura depende do puxador. Se o preço decidir, compare na data da compra, porque a Staub não aparece no catálogo da Let's Eat It.",
+          "As panelas Staub são boas? Pela marca, a Staub vai à indução e ao forno até 250 °C, ou 200 °C com alças de silicone; o comparativo acima mostra o que cada marca publica."
         ]
       }
     ],
