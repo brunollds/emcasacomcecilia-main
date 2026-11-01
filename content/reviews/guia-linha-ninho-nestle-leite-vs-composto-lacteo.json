@@ -45,7 +45,7 @@
       "heading": "Leite Ninho, composto lácteo ou fórmula: como ler o rótulo",
       "paragraphs": [
         "Muita gente pega a lata amarela achando que todo Ninho é leite. Não é: a linha reúne três tipos de produto, e o nome técnico vem escrito na frente da embalagem, logo abaixo da marca.",
-        "**Leite em pó** é leite desidratado. Ele pode ser enriquecido com vitaminas e minerais e continua sendo leite: o Ninho Integral é rico em cálcio e fonte de ferro, zinco e vitaminas A, C, D e E, segundo a Nestlé.",
+        "**Leite em pó** é leite desidratado. Ele pode ser enriquecido com vitaminas e minerais e continua sendo leite: o Ninho Integral é rico em cálcio e fonte de ferro, zinco e vitaminas A, C, D e E, informa a Nestlé.",
         "**Composto lácteo** é uma mistura de leite com outros ingredientes, como óleos vegetais, fibras ou maltodextrina. Pela regra do Ministério da Agricultura, pelo menos 51% dos ingredientes precisam ser lácteos. Por isso o rótulo avisa: \"composto lácteo não é leite em pó\".",
         "**Fórmula infantil de seguimento para crianças de primeira infância** é uma categoria própria, para crianças de 1 a 3 anos. É o caso do Ninho Fases 1+.",
         "Os rótulos de leite, composto e fórmula Ninho avisam que o produto não deve ser usado para alimentar crianças menores de 1 ano."
@@ -73,8 +73,8 @@
       "heading": "Ninho Forti+, Zero Lactose e Adulto: as versões da família",
       "paragraphs": [
         "O **Ninho Forti+ Fibras** é um composto lácteo com fibras vendido em sachê de 750 g. A Nestlé o descreve como rico em cálcio, ferro, zinco e vitaminas A, C, D e E, e fonte de fibras.",
-        "O **Ninho Zero Lactose** é um composto lácteo com maltodextrina para quem não consome lactose. O **Ninho Adulto** é um leite em pó semidesnatado com 43% menos gordura total que o Ninho Integral, segundo a marca.",
-        "Há ainda o **Ninho NutriAdvance**, um suplemento alimentar em pó com arroz e aveia para crianças de 4 a 8 anos, segundo a embalagem."
+        "O **Ninho Zero Lactose** é um composto lácteo com maltodextrina para quem não consome lactose. O **Ninho Adulto** é um leite em pó semidesnatado com 43% menos gordura total que o Ninho Integral, informa a marca.",
+        "Há ainda o **Ninho NutriAdvance**, um suplemento alimentar em pó com arroz e aveia para crianças de 4 a 8 anos, diz a embalagem."
       ],
       "image": "/images/reviews/nutren/ninho-forti-fibras-oficial.webp",
       "imageAlt": "Foto oficial da Nestlé: sachê de Ninho Forti+ Composto Lácteo com Fibras de 750 g",
@@ -98,7 +98,7 @@
       "paragraphs": [
         "Quando uma receita de bolo de Ninho ou recheio de Ninho pede \"leite Ninho\", ela está falando do **Leite Ninho Integral**, o leite em pó. É ele que dá o sabor e a cor clara que todo mundo procura.",
         "Composto lácteo e fórmula têm outros ingredientes e custam mais por quilo; para cozinhar, o leite em pó integral é a escolha mais simples e mais barata.",
-        "O Ninho Integral Instantâneo também serve: é leite em pó integral que dissolve em qualquer temperatura, segundo a Nestlé. Para polvilhar o bolo pronto, peneire o leite em pó por cima na hora de servir."
+        "O Ninho Integral Instantâneo também serve: leite em pó integral que dissolve em qualquer temperatura, diz a Nestlé. Para polvilhar o bolo pronto, peneire o leite em pó por cima na hora de servir."
       ],
       "image": "/images/reviews/nutren/ninho-bolo-receitas-nestle-oficial.webp",
       "imageAlt": "Foto oficial da Nestlé: bolinhos com cobertura cremosa e Leite Ninho polvilhado por cima",
@@ -221,8 +221,9 @@
     {
       "heading": "Qual Ninho comprar",
       "paragraphs": [
-        "A escolha depende do uso, e o nome técnico na frente da embalagem diz o que o produto é:"
+        "A escolha depende do uso, e o nome técnico na frente da embalagem diz o que o produto é."
       ],
+      "emphasis": "Pelos números da tabela, para a cozinha a escolha é o Integral Instantâneo, porque os compostos custam mais por pacote e não são leite.",
       "bullets": [
         "Café, vitamina, bolo e recheio: **Leite Ninho Integral**, o leite em pó. O Integral Instantâneo também serve, e custava R$ 19,81 (lata de 380 g) na Nestlé Nutre.",
         "Criança de 1 a 3 anos: o Ninho Fases 1+ é fórmula infantil de seguimento. A partir de 3 anos, o Fases 3+ é composto lácteo. A escolha do leite da criança é conversa para ter com o pediatra ou nutricionista.",
@@ -244,6 +245,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você usa Ninho em café, vitamina, bolo ou recheio e quer o leite em pó de verdade.",
+      "Você já compra Ninho todo mês e quer o preço da loja oficial da Nestlé, com cupom e assinatura."
+    ],
+    "skipIf": [
+      "A compra é para criança pequena: o leite dela é conversa para ter com o pediatra ou nutricionista, e menor de 1 ano não usa nenhum produto da linha.",
+      "Você espera desconto extra na assinatura do Ninho Fases 1+: ele não tem."
+    ]
+  },
   "cta": {
     "text": "Veja a linha Ninho na loja oficial Nestlé Nutre e use o cupom CECI para ter desconto no checkout.",
     "label": "Ver Ninho na Nestlé Nutre",

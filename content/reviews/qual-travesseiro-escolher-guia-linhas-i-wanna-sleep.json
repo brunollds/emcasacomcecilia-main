@@ -35,7 +35,7 @@
     {
       "heading": "As linhas de travesseiro da I Wanna Sleep",
       "paragraphs": [
-        "A I Wanna Sleep (IWS) organiza o catálogo em famílias de produtos com diferentes formatos, materiais e alturas: Cervical/Ergonômica, Memory Foam, Antialérgico, Látex, Fibra, Pluma Natural, Anti-rugas e Viagem. É esse mapa que este guia percorre a seguir.",
+        "Dormir de lado, de costas ou com calor: a IWS tem uma linha para cada caso, e este guia percorre todas.",
         "Um travesseiro adequado pode ajudar a manter a cabeça e o pescoço em posição neutra em relação ao restante da coluna. Modelos muito altos ou baixos podem deixar o pescoço inclinado e contribuir para desconforto durante o sono. Para quem dorme de lado, a altura deve preencher o espaço entre o ombro e a cabeça sem forçar a inclinação cervical.",
         "Por isso a pergunta \"qual o melhor travesseiro\" não tem uma resposta única. Um modelo confortável para quem dorme de bruços pode não oferecer a altura adequada para quem dorme de lado; a melhor marca de travesseiro não é necessariamente a que mais vende, mas aquela que oferece material e altura compatíveis com o seu jeito de dormir.",
         "Um adiantamento antes de começar: o cupom CECIEMCASA está divulgado com 10% de desconto no site oficial da I Wanna Sleep, não apenas nos travesseiros. Como condições comerciais podem mudar, confirme o percentual e a elegibilidade no carrinho; voltamos ao cupom com mais detalhes no capítulo final."
@@ -50,7 +50,7 @@
     {
       "heading": "A linha Cervical e Ergonômica: formato e apoio",
       "paragraphs": [
-        "Durante o repouso, um travesseiro com altura e formato adequados pode ajudar a sustentar a cabeça e o pescoço em posição neutra. Quem tem dor persistente deve procurar um profissional de saúde.",
+        "A linha Cervical é para quem dorme de costas ou de lado e quer apoio no pescoço. Com dor persistente, procure um profissional de saúde.",
         "Quem procura um travesseiro ortopédico pode ter dificuldade para encontrar uma combinação confortável de formato e altura. Como a posição muda ao longo da noite, vale observar se o modelo oferece apoio adequado nas posições em que você costuma dormir."
       ],
       "bullets": [
@@ -122,11 +122,11 @@
       "heading": "A linha Antialérgica: materiais e higiene",
       "paragraphs": [
         "Um travesseiro lavável e o uso de capas protetoras facilitam a higiene da cama, mas não substituem a orientação de um profissional de saúde em caso de alergia.",
-        "Travesseiros acumulam suor, poeira e resíduos ao longo do uso, enquanto as instruções de lavagem variam conforme o material. A linha antialérgica da IWS procura facilitar essa rotina de higiene com modelos e materiais apresentados pela marca como adequados a pessoas sensíveis a agentes alergênicos, segundo a fabricante."
+        "Travesseiros acumulam suor, poeira e resíduos com o uso, e a lavagem muda com o material. A linha antialérgica facilita a higiene com modelos que a marca indica para pessoas sensíveis a agentes alergênicos."
       ],
       "bullets": [
         "Airgelly® 2.0: o único travesseiro 100% lavável do catálogo, com material hipoalergênico e 30 dias de teste em casa (alegações da fabricante);",
-        "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico da linha Cervical ao carvão ativado, com carvão ativado, também alegado contra odores."
+        "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico ao carvão ativado, que a marca alega contra odores."
       ],
       "links": [
         {
@@ -277,7 +277,9 @@
         "Dorme de lado e busca firmeza elástica: escolha o Original Látex®;",
         "Gosta de travesseiro fofo e moldável: escolha o Magnum Pluma AirFiber;",
         "Viaja com frequência e quer levar seu travesseiro: escolha o Snow® Mini ou o Travel Pillow U."
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria o Snow regulável, porque a altura se ajusta em casa.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Onde comprar e o cupom CECIEMCASA",
@@ -324,6 +326,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você não sabe a altura certa e quer ajustá-la em casa, retirando enchimento.",
+      "Você dorme de lado ou de costas e sente calor na cabeça durante a noite."
+    ],
+    "skipIf": [
+      "Você já sabe a altura certa e prefere não ajustar nada: aí o Original Látex vem pronto em P, M ou G.",
+      "Você não gosta da sensação de afundar do viscoelástico: nesse caso, olhe látex ou fibra.",
+      "Você tem dor persistente ou alergia: o guia não substitui um profissional de saúde."
+    ]
+  },
   "cta": {
     "text": "Explore a coleção de travesseiros na loja oficial IWS e use o cupom CECIEMCASA",
     "label": "Ver travesseiros na loja oficial",

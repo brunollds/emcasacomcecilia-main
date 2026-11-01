@@ -173,7 +173,7 @@
     {
       "heading": "O sufoco do encanamento e a instalação na lavanderia",
       "paragraphs": [
-        "A mangueira de drenagem (que expele a água usada) já vem com uma curva plástica rígida de direcionamento, acessório que serve tanto para encaixar em instalações de saída padrão preparadas na parede quanto para apoiar com segurança na borda de um tanque convencional. Na nossa lavanderia nós temos o ponto de esgoto embutido, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
+        "A mangueira de drenagem já vem com uma curva plástica rígida: encaixa na saída da parede ou apoia na borda do tanque. Na nossa lavanderia nós temos o ponto de esgoto embutido, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
         "O Bruno precisou forçar o encaixe da mangueira no cano da parede com bastante pressão. Na teoria ficou preso, mas ficamos com aquele medo se o primeiro jato de água da bomba de drenagem iria soltar tudo ou causar vazamento no chão. Fica a dica de ouro: verifique a rosca e a tubulação da sua parede *antes* da instalação.",
         "Com a máquina no lugar e nivelada pelos pezinhos reguláveis, veio a melhor parte de todo o processo: puxar a película adesiva dos plásticos brilhantes da carcaça e do painel digital."
       ],
@@ -185,8 +185,8 @@
       "heading": "App SmartThings, calibração do tambor e a gaveta de sabão",
       "paragraphs": [
         "Ligamos a máquina na tomada e fizemos o pareamento pelo QR code com o aplicativo **Samsung SmartThings** no smartphone. Enquanto o aplicativo conectava, a máquina realizou a calibração automática do tambor vazio, ajustando os sensores inteligentes de detecção de peso da carga antes da primeira lavagem.",
-        "Pelo aplicativo dá para acompanhar o tempo restante do ciclo, checar diagnósticos de funcionamento, ver o aviso de autolimpeza do tambor (que deve ser feita a cada 40 ciclos) e consultar as estimativas e valores de consumo de energia elétrica (em kWh) e água (em litros) registrados pelo SmartThings.",
-        "A gaveta de sabão é dividida em três compartimentos claros: **1** para pré-lavagem, **2** para a lavagem principal (que conta com uma pecinha plástica dosadora azul que você encaixa para o sabão líquido não escorrer imediatamente) e o compartimento do meio com o ícone de florzinha para o amaciante.",
+        "Pelo aplicativo dá para ver o tempo restante, os diagnósticos, o aviso de autolimpeza (a cada 40 ciclos) e o consumo de energia e água.",
+        "A gaveta tem três partes: 1 para pré-lavagem, 2 para lavagem principal e a do meio para amaciante. A parte 2 traz pecinha azul para sabão líquido.",
         "Uma grande surpresa de quem vem de lavadoras de abertura superior: a lava e seca consome muito menos insumo! Como a lavagem frontal funciona por tombamento da roupa (e não enchendo 100 litros de água no tanque), uma única tampinha de sabão líquido foi mais que suficiente. Já o amaciante concentrado pede diluição prévia em um pouco de água para não grudar no dispenser."
       ]
     },
@@ -195,7 +195,7 @@
       "paragraphs": [
         "Para estrear a Dona Amélia, escolhi quatro toalhas de banho de diferentes estados: duas brancas limpas, uma com uso normal e uma toalha bastante encardida que estava no fundo do cesto.",
         "Selecionei no painel o programa **Toalhas**, temperatura ajustada em **60 °C**, nível de enxágue 4 e centrifugação em **800 RPM**. Fiquei nos 800 RPM neste primeiro teste: na rotação máxima, tive a impressão de que o cheiro do amaciante fixa menos nas peças.",
-        "Coloquei as toalhas ocupando cerca de **metade do tambor**. Em lavadoras frontais e especialmente em ciclos com secagem combinada, manter a carga entre metade e no máximo três quartos do cesto garante o espaço aéreo ideal para a roupa subir com a rotação e tombar, fazendo com que o ar quente e a água penetrem uniformemente em todas as fibras.",
+        "Coloquei as toalhas ocupando cerca de **metade do tambor**. Em ciclo com secagem, mantenha a carga entre metade e três quartos do cesto: a roupa precisa de espaço para tombar e secar por igual.",
         "A porta travou com trava de segurança, a máquina fez o sensoriamento inteligente de peso (AI sensing) e estimou inicialmente 2h26, recalculando logo depois para **2h04**. O molhamento é gradual e inteligente: a água entra aos poucos em jatos enquanto a máquina gira, molhando o contorno externo antes de ensopar o miolo."
       ],
       "image": "/images/reviews/samsung/minha-primeira-lava-e-seca-capa.webp",

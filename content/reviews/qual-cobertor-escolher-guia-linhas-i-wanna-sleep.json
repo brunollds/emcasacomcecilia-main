@@ -35,7 +35,7 @@
     {
       "heading": "As quatro linhas de cobertor da I Wanna Sleep",
       "paragraphs": [
-        "A I Wanna Sleep (IWS) tem quatro linhas de cobertor, cada uma pensada para um problema: Igloo, Huggy, Puffer Ultralight e Cozy. Abaixo, o que a marca informa de cada uma, uma tabela comparativa e o veredito por perfil."
+        "Cada linha resolve um problema: calor e frio na mesma cama, inverno, peso ou toque. Abaixo, cada uma e o veredito por perfil."
       ]
     },
     {
@@ -44,10 +44,10 @@
         "Se você divide a cama com alguém, é quase certo que já vivenciou a clássica guerra do cobertor: de um lado do colchão, alguém deita reclamando que o quarto está abafado, liga o ventilador ou joga a coberta para fora; do outro lado, a outra pessoa se encolhe batendo o queixo, puxa o edredom até o pescoço e reclama de qualquer fresta de vento.",
         "Esse desencontro de termostatos é comum entre casais. Com um edredom único, um acorda com calor e o outro com frio nas pontas descobertas.",
         "Foi para pacificar essa disputa na cama que a I Wanna Sleep projetou a Linha Igloo, introduzindo no mercado brasileiro o conceito de cobertor dupla face com gerenciamento térmico inteligente.",
-        "A proposta do Cobertor IWS Igloo utiliza engenharia têxtil aplicada à termorregulação. Em vez de utilizar o mesmo tecido em toda a peça, ele integra dois lados com condutividades térmicas opostas:"
+        "Em vez do mesmo tecido na peça inteira, o Igloo tem dois lados: um que esfria, outro que aquece:"
       ],
       "bullets": [
-        "O Lado Ice-Feel (toque frio imediato): fibras com alta capacidade de absorção e dissipação de calor por contato direto, reduzindo a sensação térmica percebida em 2 a 3°C, conforme medição da própria marca com termômetro infravermelho. Perfeito para quem transpira à noite ou para meia-estação com ar-condicionado ligado;",
+        "O Lado Ice-Feel (toque frio imediato): fibras que dissipam o calor do contato, reduzindo a sensação térmica em 2 a 3°C, na medição da própria marca com termômetro infravermelho. Para quem transpira à noite ou dorme de ar-condicionado ligado;",
         "O Lado Warm-Feel (aconchego térmico respirável): face aconchegante que retém o calor corporal natural de forma suave e respirável para madrugadas frias, sem transformar a cama em um forno abafado;",
         "Acabamento Silk-Glide Surface™: acabamento acetinado de alta densidade que faz o cobertor deslizar com facilidade sobre o lençol e sobre o corpo, sem prender quem se mexe durante o sono;",
         "Trama Air-Flow System™: circulação de ar microscópica constante entre as duas faces, impedindo acúmulo de umidade e mantendo a peça fresca e arejada;",
@@ -98,7 +98,7 @@
     {
       "heading": "Puffer Ultralight: aquecimento leve que vira almofada",
       "paragraphs": [
-        "Muitas pessoas sofrem com o chamado 'peso opressivo' das roupas de cama convencionais: os pés ficam travados apontando para baixo, mudar de posição na cama exige esforço físico e surge uma sensação quase claustrofóbica de sufocamento térmico. O cobertor até aquece, mas cobra um pedágio pesado no descanso.",
+        "Cobertor pesado prende os pés, dificulta virar na cama e sufoca. O Puffer resolve no ar preso em fibras ocas, não no peso.",
         "Para romper com o paradigma de que cobertor bom precisa pesar uma tonelada, a I Wanna Sleep foi buscar inspiração no vestuário técnico de montanhismo para conceber a Linha Puffer Ultralight. Em vez de aquecer pela sobreposição maciça de camadas, o modelo utiliza o princípio termodinâmico do ar aprisionado.",
         "O coração do Puffer Ultralight é o enchimento exclusivo AirFiber™ IWS: microfibras microscópicas ocas, como minúsculos tubos transparentes. O calor corporal penetra na fibra e aquece o ar preso dentro de cada microduto, gerando uma barreira térmica altamente eficiente com uma fração minúscula do peso de uma colcha comum."
       ],
@@ -149,7 +149,7 @@
     {
       "heading": "Tabela comparativa da I Wanna Sleep",
       "paragraphs": [
-        "Para sintetizar as diferenças fundamentais entre os quatro modelos e apoiar a sua decisão de compra, organizamos o comparativo com base nas especificações do catálogo da marca:"
+        "Os quatro modelos lado a lado pelas especificações do catálogo:"
       ],
       "bullets": [],
       "comparisonTable": {
@@ -184,8 +184,10 @@
     },
     {
       "heading": "Qual escolher: o cobertor certo para cada perfil",
+      "emphasis": "Se fosse para a minha casa, eu levaria o Igloo, porque resolve o calor e o frio na mesma cama.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
-        "A escolha do cobertor ideal deve refletir o termostato corporal de quem dorme e a dinâmica do seu quarto. Veja em qual perfil você mais se reconhece; os preços de cada linha estão em Quanto custa cada linha, com o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA aplicado:"
+        "Escolha pelo frio que você sente e por quem divide a cama. Veja em qual perfil você mais se reconhece; os preços de cada linha estão em Quanto custa cada linha, com o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA aplicado:"
       ],
       "bullets": [
         "Perfil 1: O Casal em Conflito Térmico e Quartos com Ar-Condicionado -> Vá de Igloo™. Se um sente calor e o outro sente frio, a tecnologia dual-face resolve o dilema em uma só peça: lado Ice-Feel de frescor ativo para baixo ou lado Warm-Feel quentinho, com um simples virar de coberta. A marca informa uma sensação térmica 2 a 3°C menor no lado Ice-Feel;",
@@ -243,6 +245,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Quem divide a cama sente temperaturas diferentes: um lado esfria e o outro aquece.",
+      "O quarto fica com ar-condicionado ligado e você transpira à noite."
+    ],
+    "skipIf": [
+      "Você passa noites de inverno rigoroso com os pés demorando a aquecer: aí o Huggy atende melhor.",
+      "Você quer um cobertor fofinho e volumoso, de cama de revista: aí a linha é a Cozy.",
+      "Sua lavadora tem menos de 11 kg e você pensa no Huggy ou no Cozy em Casal/Queen ou King: eles pedem máquina de 11 a 13 kg."
+    ]
+  },
   "cta": {
     "text": "Explore a coleção de cobertores na loja oficial IWS e use o cupom CECIEMCASA",
     "label": "Ver cobertores na loja oficial IWS",
