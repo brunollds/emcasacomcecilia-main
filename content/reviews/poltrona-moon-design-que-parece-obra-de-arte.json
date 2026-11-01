@@ -11,6 +11,45 @@
     "recommendation": "recomendo",
     "summary": "Design escultural com base giratória 360° que funciona como peça de destaque na decoração, sem abrir mão do conforto."
   },
+  "productSpec": [
+    {
+      "key": "Marca",
+      "value": "Damie"
+    },
+    {
+      "key": "Modelo",
+      "value": "Poltrona Moon, giratória decorativa"
+    },
+    {
+      "key": "Base",
+      "value": "Giratória 360°, preto fosco"
+    },
+    {
+      "key": "Espuma e estrutura",
+      "value": "Espuma D33, madeira e compensado naval"
+    },
+    {
+      "key": "Revestimentos",
+      "value": "Bouclé (5 cores) e Linho (3 cores)"
+    },
+    {
+      "key": "Peso suportado",
+      "value": "Até 130 kg"
+    },
+    {
+      "key": "Garantia",
+      "value": "1 ano, com 30 dias para testar e devolver"
+    },
+    {
+      "key": "Cupom disponível",
+      "value": "CECILIA12, 12% off",
+      "highlight": true
+    },
+    {
+      "key": "Onde comprar",
+      "value": "Site oficial Damie"
+    }
+  ],
   "description": "Minha análise da Poltrona Moon da Damie: design escultural, base giratória 360°, tecidos premium e por que ela funciona como peça de destaque na decoração.",
   "publishedAt": "18 Abr 2026",
   "publishedAtISO": "2026-04-18",
@@ -123,16 +162,17 @@
       "paragraphs": [
         "A Poltrona Moon vale mais para quem enxerga decoração como parte da experiência da casa. Ela não é a escolha para quem procura uma poltrona reclinável cheia de funções, mas para quem quer uma peça bonita, giratória, confortável e capaz de transformar visualmente um canto do ambiente.",
         "O investimento se justifica quando você compara a Moon com móveis decorativos de alto impacto. Ela entrega acabamento, textura, base giratória, estrutura interna e uma estética que parece mais próxima de projeto de interiores do que de móvel genérico.",
-        "Se a prioridade é relaxar por horas vendo filme, vá de reclinável. Se a prioridade é criar um ambiente elegante, com uma peça confortável e visualmente forte, a Moon entra muito bem."
-      ],
-      "emphasis": "A Moon não é só visual: espuma D33 e estrutura de madeira com compensado naval buscam equilíbrio entre conforto e firmeza, para usar no dia a dia, não só admirar."
+        "Se a prioridade é relaxar por horas vendo filme, vá de reclinável. Se a prioridade é criar um ambiente elegante, com uma peça confortável e visualmente forte, a Moon entra muito bem.",
+        "A Moon não é só visual: espuma D33 e estrutura de madeira com compensado naval buscam equilíbrio entre conforto e firmeza, para usar no dia a dia, não só admirar."
+      ]
     },
     {
       "heading": "Veredito",
       "paragraphs": [
         "A Poltrona Moon é uma escolha forte para quem quer elevar o visual da casa com uma peça de design. Ela une formato escultural, base giratória 360°, tecidos nobres e uma proposta clara: ser confortável, mas também ser protagonista na decoração.",
         "Não é uma poltrona para quem busca reclinação, massagem ou funções elétricas. É uma poltrona decorativa premium. Dentro dessa proposta, faz sentido para salas, quartos, cantos de leitura e ambientes onde estética e conforto precisam andar juntos."
-      ]
+      ],
+      "emphasis": "A Moon é para quem quer uma peça de design que também sirva para sentar, na sala, no quarto ou no canto de leitura; para relaxar por horas vendo filme, a escolha é uma reclinável."
     },
     {
       "heading": "Cupom CECILIA12",
