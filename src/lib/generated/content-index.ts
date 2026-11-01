@@ -52143,6 +52143,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 325,
     "slug": "insider-store-e-confiavel",
+    "bodyDatesReason": "reclame-aqui",
     "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação",
     "seoTitle": "Insider Store é confiável? O que checamos antes de comprar",
     "type": "Editorial",
@@ -52192,7 +52193,7 @@ export const reviewsData: unknown[] = [
         "heading": "Por que checamos a Insider antes de indicar",
         "paragraphs": [
           "A Insider vende quase tudo pela internet e aparece muito em anúncios e em vídeos de criadores de conteúdo, com a promessa de camisetas que não amassam, não desbotam e seguram o cheiro do suor. As peças custam mais que uma camiseta básica de algodão, então a dúvida é justa: a loja é séria e, se algo der errado, a troca funciona?",
-          "Para responder, consultamos o CNPJ nos dados públicos da Receita Federal, lemos a política de trocas, a política de frete e os termos de uso do site, percorremos a central de ajuda da marca e conferimos a página da empresa no Reclame Aqui. Também testamos o cupom da parceria no checkout oficial, sem finalizar compra. Este artigo não traz avaliação de uso das roupas: o que está aqui é o que dá para verificar antes de comprar."
+          "Para responder, consultamos o CNPJ nos dados públicos da Receita Federal, lemos a política de trocas, a política de frete e os termos de uso do site, percorremos a central de ajuda da marca e conferimos a página da empresa no Reclame Aqui. Também testamos o cupom da parceria no checkout oficial, sem finalizar compra. Abaixo vai o que dá para verificar antes de comprar: empresa, regras, frete e reputação."
         ]
       },
       {
@@ -52242,16 +52243,16 @@ export const reviewsData: unknown[] = [
         "heading": "Como saber se você está no site oficial",
         "paragraphs": [
           "Marcas conhecidas viram alvo de páginas falsas, e a Insider não é exceção. O endereço oficial é **insiderstore.com.br**. Antes de pagar, confira se é exatamente esse o domínio na barra do navegador, principalmente quando você chegou por um anúncio.",
-          "No rodapé do site oficial aparecem o CNPJ 26.520.188/0001-92 e a razão social da empresa, além dos links para a política de trocas, os termos de uso e a central de ajuda, que fica em suporte.insiderstore.com.br. Se uma página promete preços muito abaixo dos praticados no site e não mostra esses dados, desconfie.",
+          "No rodapé do site oficial aparecem o CNPJ e a razão social da tabela acima, além dos links para a política de trocas, os termos de uso e a central de ajuda, que fica em suporte.insiderstore.com.br. Se uma página promete preços muito abaixo dos praticados no site e não mostra esses dados, desconfie.",
           "Vale lembrar também que, segundo a central de ajuda, o canal oficial de atendimento é exclusivamente o WhatsApp, de segunda a sexta, das 9h às 18h. Por isso, mensagens em outros canais pedindo pagamento ou dados pessoais em nome da Insider merecem cuidado redobrado."
         ]
       },
       {
         "heading": "O que a Insider vende",
         "paragraphs": [
-          "O produto mais conhecido é a **Tech T-Shirt**, que a marca apresenta como \"a original desde 2019\", com versões masculina e feminina. Segundo a Insider, o tecido tem tratamento antiodor e desamassa com o calor do corpo. No dia da nossa checagem, a peça avulsa custava R$ 129 no site, e várias camisetas também são vendidas em kits de 2, 3 ou 5 unidades.",
-          "A loja vai além das camisetas. Há a **Undershirt Antissuor**, feita para usar por baixo da camisa social, nas versões Leve, Moderado e Block (para quem sua mais), cuecas das linhas Comfort e Performance, roupas esportivas, como a Performance T-Shirt 2.0, que a marca diz usar a tecnologia Outlast de regulação térmica, e uma linha feminina com tops, leggings e saias.",
-          "Na página de sustentabilidade, a Insider diz que a produção é 100% nacional, que usa modal e liocel de origem vegetal certificada e que a Tech T-Shirt é carbono negativa. São afirmações da marca, que não conseguimos verificar de forma independente."
+          "Os efeitos das peças abaixo são alegações da marca: o produto mais conhecido é a **Tech T-Shirt**, que ela apresenta como \"a original desde 2019\", com versões masculina e feminina. O tecido tem tratamento antiodor e desamassa com o calor do corpo. No dia da nossa checagem, a peça avulsa custava R$ 129 no site, e várias camisetas também são vendidas em kits de 2, 3 ou 5 unidades.",
+          "A loja vai além das camisetas. Há a **Undershirt Antissuor**, feita para usar por baixo da camisa social, nas versões Leve, Moderado e Block (para quem sua mais), cuecas das linhas Comfort e Performance, roupas esportivas, como a Performance T-Shirt 2.0, com a tecnologia Outlast de regulação térmica, e uma linha feminina com tops, leggings e saias.",
+          "Na página de sustentabilidade, a marca afirma produção 100% nacional e Tech T-Shirt carbono negativa."
         ],
         "image": "/images/reviews/insider/insider-tech-t-shirt-vinho-oficial.webp",
         "imageAlt": "Foto oficial da Insider de um homem vestindo a Tech T-Shirt em tom vinho, de frente, com fundo cinza-claro",
@@ -52261,7 +52262,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e garantia",
         "paragraphs": [
-          "Este é o ponto em que a Insider se sai melhor do que o mínimo exigido por lei. Pela política de troca e devolução e pela central de ajuda, atualizada em setembro de 2026, os prazos dependem do motivo:"
+          "Este é o ponto em que a Insider se sai melhor do que o mínimo exigido por lei. Pela política de troca e devolução e pela central de ajuda, os prazos dependem do motivo:"
         ],
         "bullets": [
           "Arrependimento: até 7 dias úteis após o recebimento, com o produto sem uso e etiqueta intacta.",
@@ -52279,14 +52280,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazos e formas de pagamento",
         "paragraphs": [
-          "Pela política de frete do site, a entrega é grátis em compras acima de R$ 399, valor conferido depois dos descontos. O carrinho mostra quanto falta para chegar lá, o que ajuda a decidir se vale incluir mais uma peça ou se o frete compensa.",
+          "Pela política de frete do site, a entrega é grátis em compras acima de R$ 399, valor conferido depois dos descontos. Conta nossa, sem desconto nenhum: 3 Tech T-Shirts avulsas (3 x R$ 129 = R$ 387) ficam R$ 12 abaixo do frete grátis; confira no carrinho se o kit ou uma quarta peça compensam mais que o frete.",
           "Os termos de uso listam como formas de pagamento o Pix à vista, o Pix parcelado em até 4 vezes sem juros (pela Pagaleve), o cartão de crédito em até 3 vezes sem juros ou de 4 a 10 vezes com juros, e o boleto à vista. Alguns produtos aparecem como compra antecipada, com envio a partir de uma data futura indicada no carrinho; nesse caso, o prazo de entrega é maior que o normal."
         ]
       },
       {
         "heading": "A Insider tem loja física?",
         "paragraphs": [
-          "Tem. A loja fica no **MorumbiShopping**, em São Paulo (Av. Roque Petroni Júnior, 1089, lojas 108/109-S, piso superior). Segundo a central de ajuda, a operação provisória que funcionava ali encerrou em 17 de setembro, e a nova Concept Store Insider abre ao público em 9 de outubro de 2026, de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
+          "Tem. A loja fica no **MorumbiShopping**, em São Paulo (Av. Roque Petroni Júnior, 1089, lojas 108/109-S, piso superior). Segundo a central de ajuda, a operação provisória que funcionava ali encerrou, e a nova Concept Store Insider abre ao público de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
           "É uma boa opção para quem quer provar antes de comprar, principalmente as peças de underwear, que não têm troca por tamanho. A loja aceita Pix, dinheiro e cartão de débito ou crédito, com parcelamento em até 3 vezes sem juros, e emite nota fiscal na hora.",
           "Alguns detalhes funcionam de outro jeito na loja física. Os cupons de desconto e o cashback são exclusivos do site, então o EMCASACOMCECILIA não vale lá; as compras presenciais acumulam pontos no programa de fidelidade da marca, mas o resgate é feito pelo site. Não dá para retirar na loja um pedido feito online, e a troca precisa ser feita no mesmo canal da compra. Para quem compra na loja, a central informa 7 dias para devolução por arrependimento e 30 dias para troca por insatisfação."
         ]
@@ -52308,7 +52309,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que eu observaria antes de comprar",
         "bullets": [
           "Confira se está em insiderstore.com.br antes de digitar qualquer dado de pagamento.",
-          "Use o Guia de medidas da página do produto, principalmente em cuecas, calcinhas e moda praia, que não têm troca por tamanho.",
+          "Se estiver em dúvida entre dois tamanhos, confira o Guia de medidas da página do produto antes de pedir, principalmente em cuecas, calcinhas e moda praia, que só trocam por defeito.",
           "Experimente a peça sem tirar a etiqueta. Sem ela, a troca por insatisfação não é aceita.",
           "Acompanhe o rastreio e, se o pedido atrasar, chame o atendimento pelo WhatsApp logo, sem esperar o prazo de troca acabar.",
           "Na Tech T-Shirt, siga a etiqueta de lavagem: é a condição da garantia de 2 anos contra desbotamento.",
@@ -52346,7 +52347,7 @@ export const reviewsData: unknown[] = [
           "A Insider Store é confiável? Sim. A empresa tem CNPJ ativo desde 2016, publica suas políticas no site, oferece troca e devolução gratuitas e tem reputação RA1000 no Reclame Aqui, a mais alta da plataforma.",
           "Qual é o CNPJ da Insider Store? É 26.520.188/0001-92, da Insider Comércio e Confecção de Peças do Vestuário Ltda., com sede em São Paulo.",
           "Qual é o site oficial da Insider? É insiderstore.com.br. A central de ajuda fica em suporte.insiderstore.com.br.",
-          "A Insider tem loja física? Sim, no MorumbiShopping, em São Paulo. A nova Concept Store abre em 9 de outubro de 2026, de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
+          "A Insider tem loja física? Sim, no MorumbiShopping, em São Paulo. A nova Concept Store abre ao público de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
           "Como falar com a Insider? Pelo WhatsApp, que é o canal oficial de atendimento, de segunda a sexta, das 9h às 18h. O link fica na central de ajuda do site.",
           "A troca na Insider é grátis? Sim. Segundo a central de ajuda, a troca e a devolução são gratuitas, com código de postagem nos Correios, armário inteligente ou coleta em casa.",
           "Quanto tempo tenho para trocar na Insider? São 7 dias úteis para arrependimento, 21 dias corridos para insatisfação com tamanho, cor ou modelo, e 180 dias para defeito, sempre contados a partir do recebimento.",
@@ -52366,7 +52367,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASACOMCECILIA",
     "affiliate": "insider",
-    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo cupom EMCASACOMCECILIA.",
+    "editorialNote": "Feito com fontes públicas; não avaliamos o uso das roupas. Podemos receber comissão pelo cupom EMCASACOMCECILIA.",
     "relatedArticles": [
       {
         "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
@@ -61978,7 +61979,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/insider/insider-guia-de-medidas-menu.webp",
           "alt": "Menu de tamanho da página da Tech T-Shirt da Insider, com Assistente de Tamanho Inteligente, Provador Virtual, Tabela de Medidas da Peça em destaque e Compare entre peças Insider",
-          "caption": "O menu \"Ficou com dúvidas sobre o seu tamanho?\" na página da Tech T-Shirt, aberto em 13/10/2026. O destaque em amarelo é nosso.",
+          "caption": "O menu \"Ficou com dúvidas sobre o seu tamanho?\" na página da Tech T-Shirt. O destaque em amarelo é nosso.",
           "objectFit": "contain",
           "aspectRatio": 1.3287
         }
@@ -62000,16 +62001,16 @@ export const reviewsData: unknown[] = [
           "Altura: do ponto mais alto da peça, sem contar a gola, até a barra.",
           "Largura: na horizontal, de uma lateral à outra. Na feminina, meça duas vezes: na altura do busto (busto) e na parte mais baixa da peça (largura).",
           "Manga: da costura do ombro até a ponta da manga.",
-          "Compare com a tabela da mesma linha. Pela nossa regra de leitura (a Insider não publica uma), o tamanho com largura e altura mais perto das da sua peça deve dar um caimento parecido."
+          "Compare com a tabela da mesma linha: o tamanho com largura e altura mais perto das da sua peça deve dar um caimento parecido. A regra de leitura é nossa, a Insider não publica uma."
         ]
       },
       {
         "heading": "Tech T-Shirt masculina e Gola V masculina",
         "paragraphs": [
-          "As duas golas têm a mesma tabela. A Insider descreve a Tech T-Shirt masculina como de \"elasticidade muito alta e caimento ajustado ao corpo sem apertar\". No desenho oficial, a seta da largura fica na barra da camiseta, e a marca avisa que as medidas podem variar cerca de 2 cm para mais ou para menos."
+          "As duas golas têm a mesma tabela. A Tech T-Shirt masculina tem tecido bem elástico e corte ajustado sem apertar. No desenho oficial, a seta da largura fica na barra da camiseta, e a marca avisa que as medidas podem variar cerca de 2 cm para mais ou para menos."
         ],
         "comparisonTable": {
-          "caption": "Tabela oficial da Tech T-Shirt masculina (gola redonda e gola V), em cm, com a peça deitada. Consultada em 12/10/2026.",
+          "caption": "Tabela oficial da Tech T-Shirt masculina (gola redonda e gola V), em cm, com a peça deitada.",
           "headers": [
             "Tamanho",
             "Altura",
@@ -62068,7 +62069,7 @@ export const reviewsData: unknown[] = [
           "A largura é a medida que mais muda de uma linha para outra. Pelas tabelas oficiais, a Core e a Daily têm a mesma largura da Tech; a Heavy Slim é 2 cm mais estreita; a Manga Longa, meio centímetro mais larga; e a Oversized, de 6 a 8 cm mais larga."
         ],
         "comparisonTable": {
-          "caption": "Largura em cm, peça deitada, pelas tabelas oficiais de cada camiseta (12/10/2026). Travessão: a tabela não traz o tamanho.",
+          "caption": "Largura em cm, peça deitada, pelas tabelas oficiais de cada camiseta. Travessão: a tabela não traz o tamanho.",
           "headers": [
             "Tamanho",
             "Tech e Gola V",
@@ -62151,7 +62152,7 @@ export const reviewsData: unknown[] = [
           "A Core tem 1 cm a mais de altura que a Tech em todos os tamanhos, e a Daily, de 2,5 a 3 cm a mais. A Insider diz que o corte da Core \"já considera uma leve redução natural após as primeiras lavagens\" e descreve a modelagem dela como regular."
         ],
         "comparisonTable": {
-          "caption": "Altura em cm, do ponto mais alto da peça (sem a gola) até a barra, pelas tabelas oficiais (12/10/2026). Travessão: a tabela não traz o tamanho.",
+          "caption": "Altura em cm, do ponto mais alto da peça (sem a gola) até a barra, pelas tabelas oficiais. Travessão: a tabela não traz o tamanho.",
           "headers": [
             "Tamanho",
             "Tech e Gola V",
@@ -62231,7 +62232,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisetas masculinas: a manga",
         "comparisonTable": {
-          "caption": "Manga em cm, da costura do ombro até a barra da manga, pelas tabelas oficiais (12/10/2026). Na Manga Longa, é o comprimento da manga inteira. Travessão: a tabela não traz o tamanho.",
+          "caption": "Manga em cm, da costura do ombro até a barra da manga, pelas tabelas oficiais. Na Manga Longa, é o comprimento da manga inteira. Travessão: a tabela não traz o tamanho.",
           "headers": [
             "Tamanho",
             "Tech, Gola V e Core",
@@ -62303,17 +62304,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech T-Shirt feminina",
         "paragraphs": [
-          "A Insider descreve a feminina como de \"caimento levemente ajustado, sem comprimir\". A tabela vai do PP ao XGG e mede o busto na altura do busto e a largura na parte mais baixa da peça."
+          "A feminina tem corte levemente ajustado, sem comprimir. A tabela vai do PP ao XGG e mede o busto na altura do busto e a largura na parte mais baixa da peça."
         ],
         "image": {
           "src": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-feminina.webp",
           "alt": "Tabela oficial de medidas da Tech T-Shirt feminina da Insider, com o desenho da camiseta e altura, busto, largura e manga do PP ao XGG",
-          "caption": "Fonte: Insider, insiderstore.com.br, consultado em 12/10/2026. Tabela oficial da Tech T-Shirt feminina.",
+          "caption": "Fonte: Insider, insiderstore.com.br. Tabela oficial da Tech T-Shirt feminina.",
           "objectFit": "contain",
           "aspectRatio": 2.0759
         },
         "comparisonTable": {
-          "caption": "Tabela oficial da Tech T-Shirt feminina (gola redonda), em cm, com a peça deitada. Consultada em 12/10/2026.",
+          "caption": "Tabela oficial da Tech T-Shirt feminina (gola redonda), em cm, com a peça deitada.",
           "headers": [
             "Tamanho",
             "Altura",
@@ -62370,10 +62371,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech T-Shirt Gola V feminina",
         "paragraphs": [
-          "A tabela termina no XGG. A página lista também o XXGG, mas em 12/10/2026 o XGG estava esgotado em todas as cores e o XXGG, nas duas em que aparece."
+          "A tabela termina no XGG. A página lista também o XXGG."
         ],
         "comparisonTable": {
-          "caption": "Tabela oficial da Tech T-Shirt Gola V feminina, em cm, com a peça deitada. Consultada em 12/10/2026.",
+          "caption": "Tabela oficial da Tech T-Shirt Gola V feminina, em cm, com a peça deitada.",
           "headers": [
             "Tamanho",
             "Altura",
@@ -62430,7 +62431,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech T-Shirt Manga Longa feminina",
         "comparisonTable": {
-          "caption": "Tabela oficial da Tech T-Shirt Manga Longa feminina, em cm, com a peça deitada. A manga é o comprimento inteiro, do ombro ao punho. Consultada em 12/10/2026.",
+          "caption": "Tabela oficial da Tech T-Shirt Manga Longa feminina, em cm, com a peça deitada. A manga é o comprimento inteiro, do ombro ao punho.",
           "headers": [
             "Tamanho",
             "Altura",
@@ -62490,7 +62491,7 @@ export const reviewsData: unknown[] = [
           "No mesmo tamanho, a Daily feminina tem o busto 4 cm menor que o da Tech feminina, e a largura da barra é meio centímetro menor. A altura do GG está como a tabela oficial imprime: 63,7 cm."
         ],
         "comparisonTable": {
-          "caption": "Tabela oficial da Daily T-Shirt feminina, em cm, com a peça deitada, e o busto da Tech feminina para comparar. Consultada em 12/10/2026.",
+          "caption": "Tabela oficial da Daily T-Shirt feminina, em cm, com a peça deitada, e o busto da Tech feminina para comparar.",
           "headers": [
             "Tamanho",
             "Altura",
@@ -62554,20 +62555,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuecas Comfort e Performance: a mesma tabela",
         "paragraphs": [
-          "As duas cuecas boxer têm a mesma tabela. A cintura é medida com o cós reto, de uma lateral à outra, no ponto mais alto do cós. Dobrando esse número, você tem o contorno do cós sem esticar (conta nossa): 70 cm no M e 86 cm no XXGG. O cós é elástico, e a Insider não publica a faixa de cintura do corpo para cada tamanho.",
+          "As duas cuecas boxer têm a mesma tabela. A cintura é medida com o cós reto, de uma lateral à outra, no ponto mais alto do cós. Conta nossa, dobrando essa medida: o contorno do cós sem esticar é 70 cm no M e 86 cm no XXGG. O cós é elástico, e a Insider não publica a faixa de cintura do corpo para cada tamanho.",
           "Para comparar, estenda uma cueca sua que veste bem, meça a cintura de lateral a lateral no alto do cós e procure o número mais perto na coluna da cintura (regra nossa, não da Insider)."
         ],
         "images": [
           {
             "src": "/images/reviews/insider/insider-tabela-medidas-cueca-comfort-performance.webp",
             "alt": "Tabela oficial de medidas da cueca Comfort da Insider, com o desenho da cueca e cintura, quadril e barra do PP ao XXGG",
-            "caption": "Fonte: Insider, insiderstore.com.br, consultado em 12/10/2026. Tabela oficial da cueca Comfort, igual à da Performance.",
+            "caption": "Fonte: Insider, insiderstore.com.br. Tabela oficial da cueca Comfort, igual à da Performance.",
             "objectFit": "contain",
             "aspectRatio": 2.0759
           }
         ],
         "comparisonTable": {
-          "caption": "Tabela oficial das cuecas Comfort e Performance, em cm, com a peça deitada. A última coluna é conta nossa. Consultada em 12/10/2026.",
+          "caption": "Tabela oficial das cuecas Comfort e Performance, em cm, com a peça deitada. A última coluna é conta nossa.",
           "headers": [
             "Tamanho",
             "Cintura",
@@ -62637,7 +62638,7 @@ export const reviewsData: unknown[] = [
           "A Slip mede a cintura e a lateral, da cintura até o início da barra (13 cm em todos os tamanhos). A calcinha Biquíni Brief mede a cintura e a altura, da cintura até o fundo da peça. Na loja, a Slip vai do P ao XGG, embora a tabela traga também PP e XXGG, e a Brief vai do PP ao XGG. As duas seguem a regra de troca das cuecas: só por defeito."
         ],
         "comparisonTable": {
-          "caption": "Tabelas oficiais da Cueca Slip e da Calcinha Biquíni Brief, em cm, com a peça deitada. Travessão: a tabela não traz o tamanho. Consultadas em 12/10/2026.",
+          "caption": "Tabelas oficiais da Cueca Slip e da Calcinha Biquíni Brief, em cm, com a peça deitada. Travessão: a tabela não traz o tamanho.",
           "headers": [
             "Tamanho",
             "Slip: cintura",
@@ -62705,7 +62706,7 @@ export const reviewsData: unknown[] = [
           "A central de ajuda restringe a troca das linhas Underwear e Beachwear e não diz se a undershirt entra nessa regra. Em dúvida entre dois tamanhos, pergunte ao atendimento antes de comprar."
         ],
         "comparisonTable": {
-          "caption": "Tabelas oficiais da Undershirt Anti Suor (gola U) e da Undershirt Simples (gola V), em cm, com a peça deitada. Consultadas em 12/10/2026.",
+          "caption": "Tabelas oficiais da Undershirt Anti Suor (gola U) e da Undershirt Simples (gola V), em cm, com a peça deitada.",
           "headers": [
             "Tamanho",
             "Anti Suor: altura",
@@ -62776,80 +62777,66 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanhos grandes: o que existe de XGG e XXGG",
         "paragraphs": [
-          "A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG; as tabelas femininas, até o XGG (a Gola V feminina lista também o XXGG, esgotado em 12/10/2026). Na prática, o XXGG tinha pouco estoque em 12/10/2026: confira a cor e o tamanho na página antes de contar com ele."
+          "A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG; as tabelas femininas, até o XGG (a Gola V feminina lista também o XXGG). Confira a cor e o tamanho na página do produto antes de comprar."
         ],
         "comparisonTable": {
-          "caption": "Tamanhos à venda na loja em 12/10/2026, pela lista de cada produto. O estoque muda todo dia.",
+          "caption": "Tamanhos que a loja lista em cada produto.",
           "headers": [
             "Linha",
-            "Tamanhos",
-            "Estoque em 12/10/2026"
+            "Tamanhos"
           ],
           "rows": [
             [
               "Tech T-Shirt masculina",
-              "PP a XXGG",
-              "XXGG só na cor preta"
+              "PP a XXGG"
             ],
             [
               "Tech T-Shirt Gola V masculina",
-              "PP a XXGG",
-              "XXGG esgotado em todas as cores"
+              "PP a XXGG"
             ],
             [
               "Tech T-Shirt Manga Longa masculina",
-              "PP a XXGG",
-              "XXGG só na cor preta"
+              "PP a XXGG"
             ],
             [
               "Core T-Shirt",
-              "PP a XXGG",
-              "XXGG só na cor Rain Forest"
+              "PP a XXGG"
             ],
             [
               "Tech T-Shirt Heavy Slim",
-              "PP a XXGG",
-              "XXGG esgotado em todas as cores"
+              "PP a XXGG"
             ],
             [
               "Daily T-Shirt masculina",
-              "PP a XXGG (a tabela vai até o XGG)",
-              "PP e XXGG esgotados"
+              "PP a XXGG (a tabela vai até o XGG)"
             ],
             [
               "Tech T-Shirt feminina",
-              "PP a XGG",
-              "Todos os tamanhos com alguma cor disponível"
+              "PP a XGG"
             ],
             [
               "Tech T-Shirt Gola V feminina",
-              "PP a XXGG (a tabela vai até o XGG)",
-              "XGG e XXGG esgotados"
+              "PP a XXGG (a tabela vai até o XGG)"
             ],
             [
               "Tech T-Shirt Manga Longa feminina",
-              "PP a XGG",
-              "PP só na cor Carmenere"
+              "PP a XGG"
             ],
             [
               "Daily T-Shirt feminina",
-              "PP a XGG",
-              "PP em duas cores e XGG só na preta"
+              "PP a XGG"
             ],
             [
               "Cuecas Comfort e Performance",
-              "PP a XXGG",
-              "Comfort: PP só na Beetroot e XXGG só na preta; Performance: PP em duas cores e XXGG em três"
+              "PP a XXGG"
             ],
             [
               "Cueca Slip e undershirts",
-              "P a XGG",
-              "Varia por versão"
+              "P a XGG"
             ],
             [
               "Calcinha Biquíni Brief",
-              "PP a XGG",
-              "—"
+              "PP a XGG"
             ]
           ]
         }
@@ -62857,11 +62844,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Encolhimento: o que a Insider diz e por que pesa na troca",
         "paragraphs": [
-          "Os artigos de lavagem da central de ajuda dizem até quanto cada linha pode encolher. Nas páginas da Core e da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\". Os dois números são da Insider, e a marca não explica como se relacionam; citamos os dois, sem converter.",
+          "Os artigos de lavagem da central de ajuda dizem até quanto cada linha pode encolher. Nas páginas da Core e da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\". Os dois números são da Insider, e a marca não explica como se relacionam; valem os dois.",
           "Isso pesa na troca: a troca por tamanho exige peça sem uso e sem sinais de lavagem. Não dá para lavar para ver se encolhe e depois trocar. Escolha o tamanho pela tabela e siga as instruções de lavagem da etiqueta."
         ],
         "comparisonTable": {
-          "caption": "\"Pode encolher até\", segundo os artigos de lavagem da central de ajuda da Insider, consultados em 12/10/2026.",
+          "caption": "\"Pode encolher até\", segundo os artigos de lavagem da central de ajuda da Insider.",
           "headers": [
             "Linha",
             "Pode encolher até",
@@ -62923,7 +62910,7 @@ export const reviewsData: unknown[] = [
         "heading": "Provador Virtual e assistente: o que a Insider diz",
         "paragraphs": [
           "O Provador Virtual pede altura, peso e as medidas de busto, cintura e quadril. A própria Insider avisa: \"como cada corpo é único, pode haver variações. Recomendamos conferir a tabela de medidas da peça\".",
-          "Para medir o corpo, a marca orienta: busto na parte mais cheia, cintura na parte mais estreita e quadril na parte mais larga, com a fita métrica reta e justa, sem apertar. Não testamos o Provador nem o assistente."
+          "Para medir o corpo, a marca orienta: busto na parte mais cheia, cintura na parte mais estreita e quadril na parte mais larga, com a fita métrica reta e justa, sem apertar."
         ]
       },
       {
@@ -62955,7 +62942,7 @@ export const reviewsData: unknown[] = [
           "Qual a tabela de medidas da cueca Insider? Para as cuecas Comfort e Performance a tabela é a mesma e traz cintura, quadril e barra do PP ao XXGG, com cintura de 31 a 43 cm, medida de lateral a lateral.",
           "Como é a Daily T-Shirt em relação à Tech T-Shirt? No masculino, a largura é a mesma e a altura é de 2,5 a 3 cm maior; no feminino, o busto da Daily é 4 cm menor que o da Tech em cada tamanho.",
           "A Tech T-Shirt veste justa? A Insider descreve a masculina como de \"caimento ajustado ao corpo sem apertar\" e a feminina como de \"caimento levemente ajustado, sem comprimir\"; a Core tem modelagem regular, segundo a marca.",
-          "A Insider tem tamanhos grandes? A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG, e as tabelas femininas até o XGG, mas em 12/10/2026 o XXGG tinha pouco estoque.",
+          "A Insider tem tamanhos grandes? A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG, e as tabelas femininas até o XGG; confira a cor e o tamanho na página do produto.",
           "A roupa da Insider encolhe? Segundo a central de ajuda, a Tech T-Shirt e a Core podem encolher até 8%, a Daily até 4% e a cueca Comfort até 7%.",
           "Posso trocar a cueca da Insider se errar o tamanho? Não: cuecas, calcinhas e outras peças das linhas Underwear e Beachwear só têm troca ou devolução por defeito de fabricação.",
           "Quanto tempo tenho para trocar uma camiseta que não serviu? Até 21 dias corridos depois do recebimento, com a peça sem uso, com etiqueta e sem sinais de lavagem, e a troca é gratuita.",
@@ -63036,18 +63023,18 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Este guia põe a camiseta e a cueca da Insider ao lado de Minimal Club, Mirante, Basicamente, Hering e Alpha Co, em composição, preço, troca e garantia, para dizer se ela vale mais que as outras.",
           "Usamos só o que o site oficial de cada marca publica, lido em 12/10/2026: composição, gramatura quando existe, preço exibido e regras de troca. Esta comparação não parte de teste das peças, então não comparamos caimento, maciez nem durabilidade.",
-          "O que aparece entre aspas ou como \"segundo a marca\" é afirmação da marca, não verificada por nós. Quando o site não informa um dado, a tabela diz isso. Preço muda com promoção; confira na loja antes de comprar."
+          "Preço muda com promoção; confira na loja antes de comprar."
         ]
       },
       {
         "heading": "Camiseta básica das seis marcas lado a lado",
         "comparisonTable": {
-          "caption": "Dados dos sites oficiais em 12/10/2026. \"Não informada\" quer dizer que a página consultada não publica o dado. Troca: prazo para trocar ou devolver sem defeito / prazo para defeito; na Insider, 21 dias corridos por insatisfação (7 dias úteis por arrependimento). O preço da Insider não inclui o desconto do Pix anunciado no site.",
+          "caption": "Dados dos sites oficiais. \"Não informada\" quer dizer que a página consultada não publica o dado. Troca: prazo para trocar ou devolver sem defeito / prazo para defeito; na Insider, 21 dias corridos por insatisfação (7 dias úteis por arrependimento). O preço da Insider não inclui o desconto do Pix anunciado no site.",
           "headers": [
             "Marca e modelo",
             "Composição",
             "Gramatura",
-            "Preço em 12/10/2026",
+            "Preço",
             "Troca / defeito",
             "Garantia ou promessa da marca"
           ],
@@ -63177,8 +63164,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech, Daily ou Core: qual camiseta da Insider",
         "paragraphs": [
-          "A Daily e a Core são de 94% viscose e 6% elastano, não de modal. A Daily, de tecido DAYON, tem 225 g/m² na comparação oficial e custava R$ 79 (de R$ 139) em 12/10/2026. A página avisa que o preço já tem o desconto máximo e não soma com cupons, e no teste do cupom no checkout, nesse dia, o EMCASACOMCECILIA não se aplicou a ela.",
-          "A Core custava R$ 179 (de R$ 189) e, segundo a Insider, é \"levemente mais encorpada e texturizada\" que a Tech. A gramatura dela não está publicada. Nas páginas da Daily e da Core, a marca avisa que o tecido pode encolher até 2 cm no comprimento depois da primeira lavagem.",
+          "A Daily e a Core são de 94% viscose e 6% elastano, não de modal. A Daily, de tecido DAYON, tem 225 g/m² na comparação oficial e custava R$ 79 (de R$ 139). A página avisa que o preço já tem o desconto máximo e não soma com cupons, e no teste do cupom no checkout o EMCASACOMCECILIA não se aplicou a ela.",
+          "Segundo a Insider, a Core é um pouco mais encorpada e texturizada que a Tech, e a gramatura dela não está publicada; o preço está na tabela acima. Nas páginas da Daily e da Core, a marca avisa que o tecido pode encolher até 2 cm no comprimento depois da primeira lavagem.",
           "A garantia de cor publicada é a da Tech T-Shirt. As medidas de cada linha estão no nosso guia de tamanhos da Insider."
         ],
         "images": [
@@ -63206,7 +63193,7 @@ export const reviewsData: unknown[] = [
         "heading": "Insider ou Minimal Club",
         "paragraphs": [
           "São tecidos diferentes. A Tech T-Shirt é de modal; a Camiseta Minimal e a Minimal 2.0 são de algodão egípcio com elastano, com 150 e 160 g/m², e custam R$ 169,90.",
-          "A comparação mais direta é com a Tech Modal da Minimal Club: 91% modal e 9% elastano, 200 g/m², por R$ 109,90 (R$ 106,60 no Pix). A Tech T-Shirt da Insider tem 185 g/m² e custava R$ 129 em 12/10/2026, ou R$ 109,65 com o cupom, antes do desconto do Pix.",
+          "A comparação mais direta é com a Tech Modal da Minimal Club, de modal com elastano e tecido um pouco mais pesado, por menos que a Tech mesmo antes do cupom. A Tech T-Shirt da Insider custava R$ 129, ou R$ 109,65 com o cupom (conta nossa, com 15%), antes do desconto do Pix.",
           "A Minimal Club dá 30 dias para devolver ou trocar por arrependimento, tamanho ou expectativa, contra 21 dias por insatisfação (7 dias úteis por arrependimento) da Insider. Só a Insider publica garantia contra desbotamento."
         ]
       },
@@ -63214,13 +63201,13 @@ export const reviewsData: unknown[] = [
         "heading": "Insider, Mirante ou Basicamente",
         "paragraphs": [
           "A Mirante informa a mesma composição da Tech T-Shirt, 92% modal e 8% elastano, com 200 g/m², e cobra R$ 94,90 no Pix. Composição igual não quer dizer camiseta igual: fio, malha e acabamento podem mudar. A Mirante dá 7 dias para troca ou devolução e 30 dias para defeito.",
-          "A Basicamente, marca da Malwee, vende a Tech T-Shirt Modal, de 95% modal e 5% elastano, por R$ 99,90, e diz que o acabamento antiodor dura até 30 lavagens. A devolução é em 30 dias (90 para defeito), com a peça não lavada e não usada."
+          "A Basicamente, marca da Malwee, é a única que dá prazo ao antiodor: até 30 lavagens. Preço e composição estão na tabela acima. A devolução é em 30 dias (90 para defeito), com a peça não lavada e não usada."
         ]
       },
       {
         "heading": "Insider ou Hering, e onde entra a Alpha Co",
         "paragraphs": [
-          "A Hering vende camiseta básica de algodão. Em 12/10/2026, a Super Cotton (100% algodão, 210 g/m²) custava R$ 89,99 nas cores preta e branca, e a Malha H+ (algodão, viscose e poliéster, 156 g/m²), R$ 31,99. A troca é em até 15 dias, e a política não dá prazo de defeito para roupa.",
+          "A Hering vende camiseta básica de algodão. A Super Cotton (100% algodão, 210 g/m²) custava R$ 89,99 nas cores preta e branca, e a Malha H+ (algodão, viscose e poliéster, 156 g/m²), R$ 31,99. A troca é em até 15 dias, e a política não dá prazo de defeito para roupa.",
           "A Alpha Co tem a Camiseta Pima, de algodão Pima peruano, por R$ 99,99, e camisetas dry fit de poliéster, como a Vector, por R$ 29,94. A dry fit é camiseta esportiva, outra categoria. A Alpha Co troca em até 7 dias, uma vez só, e cobre defeito por 90 dias."
         ]
       },
@@ -63238,12 +63225,12 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
-          "caption": "Material e construção das páginas da Insider em 12/10/2026; preços lidos em 20/10/2026. Preço da unidade, salvo os kits.",
+          "caption": "Material e construção das páginas da Insider. Preço da unidade, salvo os kits.",
           "headers": [
             "Modelo",
             "Material informado",
             "Construção informada",
-            "Preço em 20/10/2026"
+            "Preço"
           ],
           "rows": [
             [
@@ -63278,7 +63265,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Slip Comfort",
-              "88% modal, 12% elastano na descrição; a ficha da página mostra 87,5% poliamida e 12,5% elastano",
+              "88% modal, 12% elastano na descrição; o quadro técnico da página mostra 87,5% poliamida e 12,5% elastano",
               "Slip",
               "R$ 75, só na cor preta"
             ]
@@ -63311,8 +63298,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa de verdade",
         "paragraphs": [
-          "O cupom EMCASACOMCECILIA dá 15% OFF na loja online da Insider: a Tech T-Shirt de R$ 129 sai por R$ 109,65. Ele soma com o desconto do Pix e vale com todas as formas de pagamento, não vale nas lojas físicas, pode não entrar nos primeiros dias de um lançamento e é um cupom por pedido. A Daily fica de fora, como a própria página avisa.",
-          "Em 12/10/2026, o frete era grátis a partir de R$ 399, e o site anunciava desconto no Pix. Os kits e a Black Friday estão no nosso guia da Black Friday da Insider."
+          "Conta nossa, pelo preço da tabela: com o cupom EMCASACOMCECILIA (15% OFF na loja online), a Tech T-Shirt de R$ 129 sai por R$ 109,65. Ele soma com o desconto do Pix e vale com todas as formas de pagamento, não vale nas lojas físicas, pode não entrar nos primeiros dias de um lançamento e é um cupom por pedido. A Daily fica de fora, como a própria página avisa.",
+          "O frete era grátis a partir de R$ 399, e o site anunciava desconto no Pix. Os kits e a Black Friday estão no nosso guia da Black Friday da Insider."
         ],
         "links": [
           {
@@ -63338,20 +63325,20 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Insider vale a pena? Depende do que você compara: no site, a Tech T-Shirt custa mais que as camisetas da Mirante e da Basicamente e que a Super Cotton da Hering, e o diferencial que ela publica é a garantia de 2 anos contra desbotamento da Tech T-Shirt, com condições.",
-          "Insider ou Minimal Club: qual escolher? São tecidos diferentes: a Tech T-Shirt é de modal (92%, com elastano) e a Camiseta Minimal é de algodão egípcio (93%, 150 g/m²); a Minimal também vende uma Tech Modal (91% modal, 200 g/m²) por R$ 109,90.",
-          "Insider ou Mirante: qual escolher? As duas informam 92% modal e 8% elastano; a Mirante tem 200 g/m² e cobrava R$ 94,90 no Pix, a Tech T-Shirt tem 185 g/m² e custava R$ 129 em 12/10/2026 (a Insider também anunciava desconto no Pix), e só a Insider publica garantia de cor.",
+          "Insider ou Minimal Club: qual escolher? São tecidos diferentes: a Tech T-Shirt é de modal e a Camiseta Minimal é de algodão egípcio; preços e gramaturas estão na tabela acima.",
+          "Insider ou Mirante: qual escolher? As duas informam 92% modal e 8% elastano; a Mirante tem 200 g/m² e cobrava R$ 94,90 no Pix, a Tech T-Shirt tem 185 g/m² e custava R$ 129 (a Insider também anunciava desconto no Pix), e só a Insider publica garantia de cor.",
           "Insider ou Basicamente: qual é melhor? Pelo site não dá para dizer: a Basicamente usa 95% modal e 5% elastano e diz que o antiodor dura até 30 lavagens, e a Insider não informa por quantas lavagens o antiodor dela dura.",
-          "Hering ou Insider? A Hering vende a Super Cotton, 100% algodão, por R$ 89,99 e a Malha H+, de algodão com viscose e poliéster, por R$ 31,99, com gramatura informada; a Insider vende modal e viscose, com a Tech T-Shirt a R$ 129 e a Daily a R$ 79 em 12/10/2026.",
+          "Hering ou Insider? A Hering vende a Super Cotton, 100% algodão, por R$ 89,99 e a Malha H+, de algodão com viscose e poliéster, por R$ 31,99, com gramatura informada; a Insider vende modal e viscose, com a Tech T-Shirt a R$ 129 e a Daily a R$ 79.",
           "Insider ou Alpha Co? A Alpha Co tem camiseta de algodão Pima (R$ 99,99) e camisetas esportivas dry fit de poliéster (R$ 29,94), que são outra categoria.",
           "A Tech T-Shirt da Insider é de quê? De 92% modal e 8% elastano, exceto a cor Índigo (62% modal, 30% viscose e 8% elastano), segundo a página do produto.",
-          "A Tech T-Shirt tem garantia? Tem garantia de 2 anos contra desbotamento para peças compradas desde 06/09/2024, seguindo a etiqueta e considerando uma lavagem por semana.",
+          "A Tech T-Shirt tem garantia? Tem garantia de 2 anos contra desbotamento para peças compradas depois do início da garantia, em 2024, seguindo a etiqueta e considerando uma lavagem por semana.",
           "Tech T-Shirt, Daily ou Core: qual é a diferença? A Tech é de modal; a Daily e a Core são de 94% viscose e 6% elastano, e a Core é mais encorpada, segundo a marca.",
           "A cueca Insider é boa? Não testamos; a marca publica o tecido de cada modelo (modal na Comfort, poliamida por fora na Performance), e a troca só vale por defeito.",
           "Cueca Insider Comfort ou Performance? A Comfort é de modal e elastano; a Performance tem a parte de fora de poliamida e a de dentro de modal.",
           "Cueca Insider Simples ou Anti Suor? A Anti Suor tem uma camada extra de tecido atrás na Comfort e forro duplo atrás na Performance, segundo a página.",
-          "Cueca Insider Seamless é boa? É de poliamida, elastano e polipropileno, sem costura, e custava R$ 59 em 20/10/2026; não testamos.",
+          "Cueca Insider Seamless é boa? É de poliamida, elastano e polipropileno, sem costura, e custava R$ 59; não testamos.",
           "Dá para trocar cueca da Insider? Só em caso de defeito de fabricação, por higiene e segurança, segundo a central de ajuda.",
-          "O cupom EMCASACOMCECILIA vale em tudo? Não em tudo: dá 15% OFF na loja online, fora as lojas físicas e os primeiros dias de um lançamento, um por pedido; a Daily avisa na página que não soma com cupons, e no teste do checkout de 12/10/2026 o cupom não entrou nela."
+          "O cupom EMCASACOMCECILIA vale em tudo? Não em tudo: dá 15% OFF na loja online, fora as lojas físicas, e pode não entrar nos primeiros dias de um lançamento; é um por pedido, a Daily avisa na página que não soma com cupons, e no teste do checkout o cupom não entrou nela."
         ]
       }
     ],
@@ -102459,14 +102446,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para treino, a Performance; para o dia a dia, a Comfort. A escolha sai do tecido e do uso que a própria marca indica, com os preços da loja lidos em 20/10/2026. O que pode mudar a decisão é a cor e o tamanho, que mexem no preço; veja em Qual escolher."
+          "Para treino, a Performance; para o dia a dia, a Comfort. A escolha sai do tecido e do uso que a própria marca indica. O que pode mudar a decisão é a cor e o tamanho, que mexem no preço; veja em Qual escolher."
         ]
       },
       {
         "heading": "Comfort ou Performance: tecido, uso e costura",
         "paragraphs": [
-          "A Insider vende 4 cuecas: as boxers Comfort e Performance, a Seamless Touch e a Slip. Este guia escolhe por uso, com os dados da loja de 20/10/2026, e a página da loja não compara as duas boxers diretamente.",
-          "A [Performance](https://www.insiderstore.com.br/products/cueca-performance) e a [Comfort](https://www.insiderstore.com.br/products/cueca-comfort) são as duas boxers da linha. Os dados abaixo são das páginas de produto da loja."
+          "A Insider vende 4 cuecas: as boxers Comfort e Performance, a Seamless Touch e a Slip. Este guia escolhe por uso, com os dados das páginas da loja, que não comparam as duas boxers diretamente.",
+          "A [Performance](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-performance?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) e a [Comfort](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-comfort?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) são as duas boxers da linha, e a diferença entre elas é de uso: esporte de um lado, dia a dia do outro."
         ],
         "comparisonTable": {
           "headers": [
@@ -102493,8 +102480,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A diferença que a página sustenta é de uso. A Performance é a de esporte, com a parte de fora em poliamida. A Comfort é a de dia a dia, com modal e TENCEL. A página não diz qual absorve mais suor. Quem quer proteção extra atrás deve olhar a versão Anti Suor de cada modelo.",
-          "A marca descreve a Performance como \"ultra resistente\" e que \"absorve e evapora rápido o suor\". Esses trechos são da marca, não de um teste nosso."
+          "A diferença que a página sustenta é de uso. A Performance é a de esporte, com a parte de fora em poliamida. A Comfort é a de dia a dia, com modal e TENCEL. Quem sua atrás ou quer proteção extra deve olhar a versão Anti Suor de cada modelo, com tecido a mais na parte de trás.",
+          "A marca diz que a Performance absorve e evapora o suor rápido; leia como promessa da loja, não como resultado medido."
         ],
         "styling": {
           "layout": "tabs",
@@ -102532,8 +102519,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Seamless Touch e Slip: quando fazem sentido",
         "paragraphs": [
-          "A [Seamless Touch](https://www.insiderstore.com.br/products/cueca-seamless-touch-masculino) é a boxer que a marca descreve como \"sem costura\", com \"design anatômico\" e que \"não enrola\". Essas são afirmações da marca. A composição é 95% poliamida, 4% elastano e 1% polipropileno, ou seja, não é de modal. Ela custa R$ 59, em tamanhos de P a XXGG, sem PP. Faz sentido para quem quer a construção sem costura e a composição sintética. Não tem kit.",
-          "A [Slip](https://www.insiderstore.com.br/products/cueca-slip) hoje só existe na cor preta, de P a XGG, por R$ 75. A composição é 88% modal e 12% elastano, como a Comfort. Faz sentido para quem usa slip. Não é a opção de boxer."
+          "A [Seamless Touch](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-seamless-touch-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) é a boxer que a marca descreve como \"sem costura\", com \"design anatômico\" e que \"não enrola\". Essas são afirmações da marca. A composição é 95% poliamida, 4% elastano e 1% polipropileno, ou seja, não é de modal. Ela custa R$ 59, em tamanhos de P a XXGG, sem PP. Faz sentido para quem quer a construção sem costura e a composição sintética. Não tem kit.",
+          "A [Slip](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-slip?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) existe só na cor preta, de P a XGG, com a mesma composição da Comfort (modal e elastano); os preços estão na tabela abaixo. Faz sentido para quem usa slip. Não é a opção de boxer."
         ],
         "images": [
           {
@@ -102554,7 +102541,7 @@ export const reviewsData: unknown[] = [
           "items": [
             {
               "piece": "Cueca Seamless Touch",
-              "url": "https://creators.insiderstore.com.br/N9gT2aU",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-seamless-touch-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
               "howTo": "Por baixo de calça justa ou de tecido fino, onde a costura poderia marcar; a marca a descreve como sem costura.",
               "occasion": "Dia a dia."
             },
@@ -102570,7 +102557,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por unidade: 1, 3 e 5 peças",
         "paragraphs": [
-          "A coluna \"com cupom\" é conta nossa: 15% sobre o preço de cada item. Confira o valor no checkout antes de pagar."
+          "Preços lidos em 20/10/2026. Conta nossa, na coluna \"com cupom\", com 15% sobre o preço de cada item: confira o valor no checkout antes de pagar."
         ],
         "comparisonTable": {
           "headers": [
@@ -102582,32 +102569,32 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Boxer Performance](https://www.insiderstore.com.br/products/cueca-performance)",
+              "[Boxer Performance](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-performance?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
               "R$ 79 a R$ 95, conforme cor e tamanho",
               "R$ 67,15 a R$ 80,75",
-              "[R$ 229,89](https://www.insiderstore.com.br/products/kit-3-cuecas-boxer-performance), R$ 76,63 cada",
-              "[R$ 375,25](https://www.insiderstore.com.br/products/kit-5-cuecas-performance), R$ 75,05 cada"
+              "[R$ 229,89](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-cuecas-boxer-performance?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA), R$ 76,63 cada",
+              "[R$ 375,25](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-cuecas-performance?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA), R$ 75,05 cada"
             ],
             [
-              "[Boxer Comfort](https://www.insiderstore.com.br/products/cueca-comfort)",
+              "[Boxer Comfort](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-comfort?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
               "R$ 79",
               "R$ 67,15",
-              "[R$ 229,89](https://www.insiderstore.com.br/products/kit-3-cuecas-confortaveis-boxer-comfort), R$ 76,63 cada",
-              "[R$ 375,25](https://www.insiderstore.com.br/products/kit-5-cuecas-comfort), R$ 75,05 cada"
+              "[R$ 229,89](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-cuecas-confortaveis-boxer-comfort?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA), R$ 76,63 cada",
+              "[R$ 375,25](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-cuecas-comfort?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA), R$ 75,05 cada"
             ],
             [
-              "[Boxer Seamless Touch](https://www.insiderstore.com.br/products/cueca-seamless-touch-masculino)",
+              "[Boxer Seamless Touch](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-seamless-touch-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
               "R$ 59",
               "R$ 50,15",
               "Sem kit",
               "Sem kit"
             ],
             [
-              "[Slip](https://www.insiderstore.com.br/products/cueca-slip) (preta)",
+              "[Slip](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-slip?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) (preta)",
               "R$ 75",
               "R$ 63,75",
               "Sem kit",
-              "[R$ 339](https://www.insiderstore.com.br/products/kit-5-cuecas-slip), R$ 67,80 cada"
+              "[R$ 339](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-cuecas-slip?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA), R$ 67,80 cada"
             ]
           ]
         },
@@ -102660,26 +102647,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A cueca Insider é boa? Não testamos. A marca diz que a Performance absorve e evapora rápido o suor, e que a Comfort é \"ultramacia\". Na página da loja, a Performance tem nota 4,9 em 5 com 5.633 avaliações, e a Comfort, 4,9 em 5 com 5.854 São avaliações da loja, não uma prova independente.",
+          "A cueca Insider é boa? A marca diz que a Performance absorve e evapora rápido o suor, e que a Comfort é ultramacia. Na página da loja, a Performance tem nota 4,9 em 5 com 5.633 avaliações, e a Comfort, 4,9 em 5 com 5.854. São avaliações da loja, não uma prova independente.",
           "A cueca Insider é igual à de algodão? Não. A Comfort é de TENCEL Modal e elastano. A Performance tem a parte de fora em poliamida e a de dentro em modal, com elastano nas duas partes.",
           "Qual cueca Insider para treino? A Performance. A página indica esporte, como corrida, musculação e ciclismo.",
           "Dá para trocar cueca Insider por tamanho? Não. Underwear só tem troca ou devolução por defeito de fabricação, segundo a central de ajuda da loja.",
-          "Cupom vale em kit? Em teste de 05/10/2026, o desconto apareceu em kit com preço promocional. Confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout antes de pagar."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços, a composição, o uso indicado e os cuidados de lavagem vêm das páginas de produto da Insider, lidas em 20/10/2026. A regra de troca vem da central de ajuda da loja, consultada na mesma data. Rótulo, preço, estoque e avaliações mudam: confira na loja antes de comprar. Ninguém da equipe usou ou testou estas cuecas. As avaliações citadas são da página da loja e não são prova independente. Podemos receber comissão pelas compras feitas pelos nossos links e pelo cupom EMCASACOMCECILIA; isso não muda o preço para você."
+          "Cupom vale em kit? Em teste nosso, o desconto apareceu em kit com preço promocional. Confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout antes de pagar."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Se a Insider faz sentido para você, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai para o carrinho. Confira o desconto em cada item antes de pagar.",
-      "label": "Ir para a Insider com o cupom",
-      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "text": "Se a Insider faz sentido para você, veja todas as cuecas pelo link da parceria. Use o cupom EMCASACOMCECILIA, de 15% OFF, e confira o desconto em cada item antes de pagar.",
+      "label": "Ver todas as cuecas na Insider",
+      "url": "https://creators.insiderstore.com.br/N9gT2aU",
       "sponsored": true
     },
     "coupon": "EMCASACOMCECILIA",
