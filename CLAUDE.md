@@ -16,7 +16,7 @@ estava desatualizada:
 
 ```bash
 npm run typecheck            # tsc --noEmit — gate mais rápido que o build
-npm run validate:content     # modelo de conteúdo e o texto dos artigos em PT (roda no build)
+npm run validate:content     # modelo de conteúdo e o texto dos artigos em PT (roda no build); chave repetida no mesmo objeto de content/reviews e content/receitas, com o caminho
 npm run validate:video       # metadados e páginas de exibição de vídeo
 npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
