@@ -47,14 +47,14 @@
       "heading": "Quem está por trás da Lejour",
       "paragraphs": [
         "A Lejour é uma plataforma brasileira de casamento: o casal monta um site com as informações da festa e uma lista de presentes em dinheiro, e os convidados presenteiam pelo próprio site. Na página inicial, a empresa diz que \"mais de 300 mil casais já usaram a Lejour\". É um número da própria Lejour, que não conseguimos conferir de forma independente.",
-        "O que dá para conferir é o cadastro da empresa. Consultamos o CNPJ na BrasilAPI, que espelha os dados da Receita Federal, e comparamos com o rodapé do site em 14/10/2026."
+        "O que dá para conferir é o cadastro da empresa. Consultamos o CNPJ na BrasilAPI, que espelha os dados da Receita Federal, e comparamos com o rodapé do site."
       ],
       "postParagraphs": [
         "Para checar por conta própria, basta pesquisar o CNPJ em uma consulta pública de cadastro de empresas, como a da Receita Federal, e ver a situação cadastral e a data de abertura."
       ],
       "image": "/images/reviews/lejour/lejour-rodape-cnpj.webp",
       "imageAlt": "Rodapé do site lejour.com.br com o endereço da empresa e o CNPJ 29.009.811/0001-35 destacados",
-      "imageCaption": "Rodapé de lejour.com.br em 14/10/2026, com o endereço e o CNPJ 29.009.811/0001-35 destacados",
+      "imageCaption": "Rodapé de lejour.com.br, com o endereço e o CNPJ 29.009.811/0001-35 destacados",
       "imageFit": "contain",
       "imageAspectRatio": 2.3333,
       "comparisonTable": {
@@ -86,7 +86,7 @@
     {
       "heading": "A Lejour é da Fast Shop?",
       "paragraphs": [
-        "Não. A Lejour e a Fast Shop são parceiras, e não há fonte oficial de compra da Lejour pela Fast Shop. Em 14/10/2026, a parceria aparece nos dois sites:"
+        "Não. A Lejour e a Fast Shop são parceiras, e não há fonte oficial de compra da Lejour pela Fast Shop. A parceria aparece nos dois sites:"
       ],
       "image": {
         "src": "/images/reviews/lejour/lejour-confiavel-capa.webp",
@@ -110,7 +110,7 @@
         "Prazos e regras podem mudar, então confira os da central de ajuda no momento de criar a sua lista."
       ],
       "comparisonTable": {
-        "caption": "Etapas do presente até o saque por Pix, segundo a central de ajuda da Lejour (14/10/2026)",
+        "caption": "Etapas do presente até o saque por Pix, segundo a central de ajuda da Lejour",
         "headers": [
           "Etapa",
           "O que acontece",
@@ -163,7 +163,7 @@
     {
       "heading": "Quanto custa usar a Lejour",
       "paragraphs": [
-        "Criar a lista é grátis no plano Basic. A Lejour cobra uma taxa sobre os presentes, de 2,99% a 3,89% conforme o plano (3,89% no Basic, em 14/10/2026), e o casal escolhe se ela sai do valor que recebe ou é somada ao que o convidado paga. Os planos pagos, Premium e Pro, baixam a taxa e são pagos uma vez. A comparação entre os planos está em:"
+        "Criar a lista é grátis no plano Basic. A Lejour cobra uma taxa sobre os presentes, de 2,99% a 3,89% conforme o plano (3,89% no Basic), e o casal escolhe se ela sai do valor que recebe ou é somada ao que o convidado paga. Os planos pagos, Premium e Pro, baixam a taxa e são pagos uma vez. A comparação entre os planos está em:"
       ],
       "links": [
         {
@@ -175,7 +175,7 @@
     {
       "heading": "E a reputação no Reclame Aqui?",
       "paragraphs": [
-        "Em 14/10/2026, a Lejour tinha reputação Ótima no Reclame Aqui nos últimos 12 meses, com nota 9,5 e 22 reclamações no período, todas respondidas. Por que as abas de 6 meses e de 2025 aparecem como \"Sem Reputação\" e o que mais aparece nas queixas estão no artigo sobre a Lejour no Reclame Aqui."
+        "A Lejour tinha reputação Ótima no Reclame Aqui nos últimos 12 meses, com nota 9,5 e 22 reclamações no período, todas respondidas. Por que as abas de 6 meses e de 2025 aparecem como \"Sem Reputação\" e o que mais aparece nas queixas estão no artigo sobre a Lejour no Reclame Aqui."
       ],
       "links": [
         {
@@ -216,7 +216,7 @@
         "O site de casamento da Lejour é seguro? A Lejour só libera o saque por Pix para uma chave do mesmo CPF que publicou a lista, com documento com foto e selfie antes do primeiro saque. A página de segurança da empresa é genérica, e não encontramos certificação nem o nome do processador de pagamento publicados.",
         "Em quanto tempo o dinheiro dos presentes cai na conta? Presentes pagos por Pix ou boleto ficam disponíveis depois da confirmação do pagamento, e os pagos no cartão, 15 dias corridos depois da compra. O saque por Pix sai em até 1 dia útil.",
         "O site some depois do casamento, e o saldo também? O site fica público até 90 dias depois do casamento. O painel e o saldo continuam acessíveis depois disso.",
-        "Qual é o CNPJ da Lejour? É 29.009.811/0001-35, ativo desde 07/11/2017, e aparece no rodapé do site."
+        "Qual é o CNPJ da Lejour? É 29.009.811/0001-35, ativo desde 2017, e aparece no rodapé do site."
       ]
     }
   ],

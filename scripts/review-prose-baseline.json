@@ -18,14 +18,6 @@
     "bodyDates": 7,
     "datesOutsideBody": 4
   },
-  "black-friday-i-wanna-sleep": {
-    "bodyDates": 17,
-    "datesOutsideBody": 9
-  },
-  "black-friday-lejour": {
-    "bodyDates": 23,
-    "datesOutsideBody": 8
-  },
   "black-friday-magalu": {
     "quickAnswerPrice": true,
     "bodyDates": 12,
@@ -219,16 +211,6 @@
     "bodyDates": 5,
     "datesOutsideBody": 2
   },
-  "i-wanna-sleep-ou-ortobom": {
-    "bodyDates": 12
-  },
-  "i-wanna-sleep-reclame-aqui-nota-reputacao": {
-    "bodyDates": 5,
-    "datesOutsideBody": 4
-  },
-  "i-wanna-sleep-travesseiro-snow-ficha-tecnica": {
-    "datesOutsideBody": 2
-  },
   "iluminador-corporal-skelt-como-usar": {
     "quickAnswerPrice": true,
     "bodyDates": 3,
@@ -260,26 +242,9 @@
     "bodyDates": 11,
     "datesOutsideBody": 4
   },
-  "lejour-e-confiavel": {
-    "bodyDates": 7,
-    "datesOutsideBody": 2
-  },
-  "lejour-ou-icasei": {
-    "quickAnswerPrice": true,
-    "bodyDates": 14,
-    "datesOutsideBody": 1
-  },
-  "lejour-reclame-aqui-nota-reputacao": {
-    "bodyDates": 13,
-    "datesOutsideBody": 8
-  },
   "lets-eat-it-reclame-aqui-nota-reputacao": {
     "bodyDates": 6,
     "datesOutsideBody": 7
-  },
-  "lista-de-casamento-lejour-como-criar": {
-    "bodyDates": 5,
-    "datesOutsideBody": 4
   },
   "magazine-voce-e-confiavel": {
     "bodyDates": 10,
@@ -481,9 +446,6 @@
   "skelt-reclame-aqui-nota-reputacao": {
     "bodyDates": 14,
     "datesOutsideBody": 10
-  },
-  "sleepspray-kidz-iws-como-funciona-ritual-do-sono": {
-    "bodyDates": 3
   },
   "sofa-na-caixa-crise-reclamacoes-procon-sp": {
     "transparencySection": true,

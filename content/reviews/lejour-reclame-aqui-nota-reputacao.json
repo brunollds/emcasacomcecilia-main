@@ -1,4 +1,5 @@
 {
+  "bodyDatesReason": "reclame-aqui",
   "id": 425,
   "slug": "lejour-reclame-aqui-nota-reputacao",
   "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram",
@@ -59,12 +60,12 @@
     {
       "heading": "Os números da Lejour no Reclame Aqui",
       "paragraphs": [
-        "O Reclame Aqui mostra o desempenho por período. O perfil da Lejour tinha cinco abas em 14/10/2026: 6 meses, 12 meses, 2025, 2024 e Geral. Estas são três delas, cada uma com o intervalo de datas que aparece no rodapé do quadro:"
+        "O Reclame Aqui mostra o desempenho por período. O perfil da Lejour tinha cinco abas: 6 meses, 12 meses, 2025, 2024 e Geral. Estas são três delas, cada uma com o intervalo de datas que aparece no rodapé do quadro:"
       ],
       "image": {
         "src": "/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
         "alt": "Perfil da Lejour no Reclame Aqui: reputação Ótima, empresa verificada, avaliações de compra 5,0 e o quadro de desempenho dos últimos 12 meses",
-        "caption": "O topo do perfil da Lejour no Reclame Aqui e o quadro de desempenho dos últimos 12 meses, consultados em 14/10/2026.",
+        "caption": "O topo do perfil da Lejour no Reclame Aqui e o quadro de desempenho dos últimos 12 meses.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
@@ -73,12 +74,12 @@
         "Há dois cuidados na leitura. O primeiro é que \"100% resolvidas\" e \"84,6% voltariam\" valem só para as 13 reclamações avaliadas, e quem não volta ao Reclame Aqui para avaliar não entra na conta. O segundo é que 22 reclamações em 12 meses não bastam para afirmar como a Lejour trata qualquer pedido. O que os números mostram é que, nos casos registrados, todos foram respondidos e nenhum estava aguardando resposta."
       ],
       "comparisonTable": {
-        "caption": "Lejour no Reclame Aqui por período, consulta de 14/10/2026",
+        "caption": "Lejour no Reclame Aqui por período",
         "headers": [
           "Indicador",
           "12 meses (01/10/2025 a 30/09/2026)",
           "6 meses (01/04 a 30/09/2026)",
-          "2025 (01/01 a 31/12/2025)"
+          "2025 (ano inteiro)"
         ],
         "rows": [
           [
@@ -146,14 +147,14 @@
       ],
       "image": "/images/reviews/lejour/lejour-reclame-aqui-aba-6-meses.webp",
       "imageAlt": "Aba de 6 meses do perfil da Lejour no Reclame Aqui: Sem Reputação, 13 reclamações recebidas e 5 avaliadas",
-      "imageCaption": "Aba de 6 meses do perfil da Lejour no Reclame Aqui em 14/10/2026: \"Sem Reputação\", 13 reclamações recebidas e 5 avaliadas. O marca-texto amarelo é nosso.",
+      "imageCaption": "Aba de 6 meses do perfil da Lejour no Reclame Aqui: \"Sem Reputação\", 13 reclamações recebidas e 5 avaliadas. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 0.3221
     },
     {
       "heading": "O que mais aparece nas reclamações da Lejour",
       "paragraphs": [
-        "Em 14/10/2026, o Reclame Aqui destacava três itens no perfil da Lejour, todos de reclamações registradas em até 3 anos na aba geral:"
+        "O Reclame Aqui destacava três itens no perfil da Lejour, todos de reclamações registradas em até 3 anos na aba geral:"
       ],
       "postParagraphs": [
         "A leitura é sobre a plataforma e o atendimento: \"Mau Atendimento\" é o problema mais marcado. Nos três itens que o perfil destaca, não aparece saque, pagamento ou estorno. O print mostra um item de cada grupo, e não a lista completa, então isso não quer dizer que nenhuma reclamação tenha tratado de dinheiro.",
@@ -161,11 +162,11 @@
       ],
       "image": "/images/reviews/lejour/lejour-reclame-aqui-principais-problemas.webp",
       "imageAlt": "Principais problemas comentados no perfil da Lejour no Reclame Aqui: Sites e portais, Mau Atendimento e Conteúdo",
-      "imageCaption": "Principais problemas comentados no perfil da Lejour no Reclame Aqui, com reclamações de até 3 anos (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+      "imageCaption": "Principais problemas comentados no perfil da Lejour no Reclame Aqui, com reclamações de até 3 anos. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.225,
       "comparisonTable": {
-        "caption": "Principais agrupamentos de reclamações da Lejour no Reclame Aqui, consulta de 14/10/2026",
+        "caption": "Principais agrupamentos de reclamações da Lejour no Reclame Aqui",
         "headers": [
           "Agrupamento",
           "O que mais aparece",
@@ -193,13 +194,13 @@
     {
       "heading": "Se o saque ou um presente der problema: o que fazer",
       "paragraphs": [
-        "Antes de abrir qualquer reclamação, confira o que costuma explicar a demora. Os prazos e as regras abaixo são os da central de ajuda da Lejour em 14/10/2026."
+        "Antes de abrir qualquer reclamação, confira o que costuma explicar a demora. Os prazos e as regras abaixo são os da central de ajuda da Lejour."
       ],
       "bullets": [
         "**O presente foi pago, mas o crédito não aparece.** No Pix e no boleto, o crédito fica disponível depois da confirmação do pagamento. No cartão, só 15 dias corridos depois da compra.",
         "**O saque não caiu.** O saque sai por Pix em até 1 dia útil, mas só para uma chave do mesmo CPF de quem publicou a lista, e só depois de a Lejour validar a identidade com documento com foto e selfie. Se a chave estiver em nome de outra pessoa, ou se a validação ainda não foi concluída, o dinheiro não sai.",
         "**Nada disso explica.** Fale com a Lejour pela opção \"Fale com a gente\", que leva ao atendimento por WhatsApp, e tenha à mão o CPF do titular da lista, a chave Pix usada e a data do pedido de saque ou do presente.",
-        "**O atendimento não resolveu.** O Reclame Aqui é o passo seguinte. Em 14/10/2026, a Lejour tinha 100% das reclamações dos últimos 12 meses respondidas. Depois da resposta, você pode avaliar se o problema foi resolvido."
+        "**O atendimento não resolveu.** O Reclame Aqui é o passo seguinte. A Lejour tinha 100% das reclamações dos últimos 12 meses respondidas. Depois da resposta, você pode avaliar se o problema foi resolvido."
       ],
       "postParagraphs": [
         "Guarde o comprovante de cada pagamento de presente e a captura da tela do pedido de saque. Com eles, a reclamação, se precisar chegar ao Reclame Aqui, fica documentada."
@@ -232,10 +233,10 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Lejour é confiável segundo o Reclame Aqui? Em 14/10/2026, o perfil tinha reputação Ótima nos últimos 12 meses, com 100% das reclamações respondidas e 100% das avaliadas resolvidas. As reclamações são poucas e a nota se apoia em 13 avaliações, então o número não garante como a empresa trata cada caso. Nem todos os que avaliaram voltariam a fazer negócio (84,6%).",
-        "Qual a nota da Lejour no Reclame Aqui? A reputação é Ótima, com nota 9,5 de 10, na aba de 12 meses (01/10/2025 a 30/09/2026). A nota média do consumidor nas reclamações avaliadas é 9,38, e 84,6% dizem que voltariam a fazer negócio. A consulta é de 14/10/2026, e os números mudam com o tempo.",
+        "A Lejour é confiável segundo o Reclame Aqui? O perfil tinha reputação Ótima nos últimos 12 meses, com 100% das reclamações respondidas e 100% das avaliadas resolvidas. As reclamações são poucas e a nota se apoia em 13 avaliações, então o número não garante como a empresa trata cada caso. Nem todos os que avaliaram voltariam a fazer negócio (84,6%).",
+        "Qual a nota da Lejour no Reclame Aqui? A reputação é Ótima, com nota 9,5 de 10, na aba de 12 meses. A nota média do consumidor nas reclamações avaliadas é 9,38, e 84,6% dizem que voltariam a fazer negócio. Os números mudam com o tempo.",
         "Por que a Lejour aparece \"Sem Reputação\"? Nas abas de 6 meses e de 2025, o Reclame Aqui só dá reputação a perfis com 10 reclamações avaliadas ou mais. A Lejour teve menos que isso nas duas janelas, e por isso elas ficam sem nota.",
-        "A Lejour responde às reclamações? Sim: em 14/10/2026, o perfil mostrava 100% das reclamações respondidas nas três abas, com resposta média de 2 dias e 5 horas em 12 meses, 2 dias e 22 horas em 6 meses e 23 horas em 2025.",
+        "A Lejour responde às reclamações? Sim: o perfil mostrava 100% das reclamações respondidas nas três abas, com resposta média de 2 dias e 5 horas em 12 meses, 2 dias e 22 horas em 6 meses e 23 horas em 2025.",
         "O que fazer se o saque da Lejour não cair? O saque sai em até 1 dia útil, então confira se a chave Pix é do mesmo CPF de quem publicou a lista e se a validação de identidade foi concluída. Se estiver tudo certo, fale com a Lejour por \"Fale com a gente\" e, sem solução, abra a reclamação no Reclame Aqui."
       ]
     }

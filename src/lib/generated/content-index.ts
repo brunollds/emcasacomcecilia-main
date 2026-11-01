@@ -34289,7 +34289,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Acessórios complementares",
         "paragraphs": [
-          "Para quem compra o Snow, a marca vende acessórios que protegem o travesseiro ou completam a hora de dormir. O Protetor de Travesseiro Protex Bamboo, que serve de barreira contra umidade e ácaros, custava R$ 134 no tamanho 50x70 cm em 11 de outubro de 2026. A Orb Sleep Mask, máscara de dormir que bloqueia a luz, custava R$ 155."
+          "Para quem compra o Snow, a marca vende acessórios que protegem o travesseiro ou completam a hora de dormir. O Protetor de Travesseiro Protex Bamboo, que serve de barreira contra umidade e ácaros, custava R$ 134 no tamanho 50x70 cm. A Orb Sleep Mask, máscara de dormir que bloqueia a luz, custava R$ 155."
         ],
         "bullets": []
       },
@@ -34297,11 +34297,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "O Travesseiro IWS Snow tem regulagem de altura? Sim. Ele chega com 18 cm, e você tira os flocos de espuma do enchimento até achar a altura certa.",
-          "Qual o preço do Travesseiro IWS Snow? Em 11 de outubro de 2026, o Regular custava R$ 347, de R$ 419, e o Plus, R$ 390, de R$ 459, no site oficial. Os valores mudam com as promoções.",
+          "Qual o preço do Travesseiro IWS Snow? O Regular custava R$ 347, de R$ 419, e o Plus, R$ 390, de R$ 459, no site oficial. Os valores mudam com as promoções.",
           "O cupom CECIEMCASA vale para o IWS Snow? Sim, o CECIEMCASA dá 10% de desconto na loja online da I Wanna Sleep. Confira o desconto no resumo do pedido antes de pagar.",
           "Onde comprar o Travesseiro IWS Snow com segurança? Pelo site oficial iwannasleep.com.br ou pelas lojas físicas listadas na seção \"Nossas lojas\" da marca.",
           "O Travesseiro IWS Snow é bom para quem tem dor cervical? A marca diz que os flocos de espuma com gel distribuem a pressão da cabeça e do pescoço e ajudam a aliviar dores causadas por pontos de tensão. A altura ajustável permite procurar a posição mais confortável. Quem tem dor persistente ou alguma condição médica deve procurar um ortopedista ou fisioterapeuta.",
-          "Qual a diferença entre o Travesseiro IWS Snow e o IWS Airgelly 2.0? O Snow tem altura ajustável e enchimento de flocos de espuma com gel. O Airgelly 2.0 é o modelo que a marca apresenta como antialérgico e 100% lavável, indicado para quem tem rinite ou outra alergia respiratória. Em 11 de outubro de 2026, o Snow Regular custava R$ 347 e o Airgelly 2.0, R$ 472.",
+          "Qual a diferença entre o Travesseiro IWS Snow e o IWS Airgelly 2.0? O Snow tem altura ajustável e enchimento de flocos de espuma com gel. O Airgelly 2.0 é o modelo que a marca apresenta como antialérgico e 100% lavável, indicado para quem tem rinite ou outra alergia respiratória. O Snow Regular custava R$ 347 e o Airgelly 2.0, R$ 472.",
           "O Travesseiro IWS Snow é firme ou macio? A página oficial não classifica a firmeza. O que muda é a altura e o volume: com todos os flocos, ele fica mais alto e cheio; tirando flocos, fica mais baixo.",
           "O Travesseiro IWS Snow esquenta durante a noite? A marca diz que as partículas de gel ajudam a manter a temperatura agradável e que a capa de viscose de bambu ajuda a reduzir a temperatura do travesseiro. Ainda não testamos o Snow em casa.",
           "Qual a altura ideal do IWS Snow para quem dorme de lado? Quem dorme de lado costuma precisar de mais altura, para a cabeça ficar alinhada com o pescoço. No Snow, isso quer dizer manter mais flocos no enchimento. Uma referência é a distância entre o ombro e a base do pescoço, e a altura ajustável permite testar."
@@ -40588,7 +40588,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A loja online da I Wanna Sleep tem reputação RA1000 no Reclame Aqui, a mais alta do site, com nota 8,5 entre abril e setembro de 2026. Respondeu 100% das 189 reclamações e resolveu 90,6%; a queixa mais comum é atraso na entrega. Dá para confiar; para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "A loja online da I Wanna Sleep tem reputação RA1000 no Reclame Aqui, a mais alta do site, com nota 8,5 nos últimos seis meses. Respondeu 100% das 189 reclamações e resolveu 90,6%; a queixa mais comum é atraso na entrega. Dá para confiar; para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       },
       {
@@ -40601,7 +40601,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os dados atuais no Reclame Aqui",
         "paragraphs": [
-          "Os números abaixo são do perfil da loja online (iwannasleep.com.br), o canal do site oficial, consultado em 24 de outubro de 2026, com dados de 1º de abril a 30 de setembro de 2026.",
+          "Os números abaixo são do perfil da loja online (iwannasleep.com.br), o canal do site oficial, consultado em 24 de outubro de 2026, com dados de abril a setembro.",
           "A reputação é RA1000, a mais alta do Reclame Aqui, com nota 8,5/10 nos últimos seis meses. No período, a loja recebeu 189 reclamações, respondeu 100% delas, resolveu 90,6% e não tinha nenhuma aguardando resposta. Das 139 reclamações avaliadas por quem reclamou, a nota média foi 7,5, e 74,8% disseram que voltariam a fazer negócio. O tempo médio de resposta é de 1 dia e 1 hora.",
           "A loja aparece em 5º lugar no ranking de melhores empresas da categoria Cama, mesa e banho do Reclame Aqui. A nota é calculada em janela móvel e muda com o tempo: confira o perfil no dia da sua compra."
         ],
@@ -40614,13 +40614,13 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-perfil-2026-10.webp",
         "imageAlt": "Painel de desempenho da IWS - I wanna sleep (Loja Online) no Reclame Aqui: reputação RA1000, nota 8,5 em seis meses, 189 reclamações recebidas, 100% respondidas e 90,6% resolvidas",
-        "imageCaption": "O painel da loja online no Reclame Aqui, consultado em 24 de outubro de 2026 (dados de abril a setembro de 2026).",
+        "imageCaption": "O painel da loja online no Reclame Aqui (dados de abril a setembro).",
         "imageFit": "contain"
       },
       {
         "heading": "Como a reputação chegou ao RA1000",
         "paragraphs": [
-          "O RA1000 é o selo que o Reclame Aqui dá às empresas com os melhores índices de atendimento no período: reclamações respondidas, índice de solução, nota dos consumidores e quantos voltariam a fazer negócio. No histórico dos últimos seis meses, a loja online da I Wanna Sleep teve reputação Boa de abril a julho, Ótima em agosto e chegou ao RA1000 em setembro de 2026."
+          "O RA1000 é o selo que o Reclame Aqui dá às empresas com os melhores índices de atendimento no período: reclamações respondidas, índice de solução, nota dos consumidores e quantos voltariam a fazer negócio. No histórico dos últimos seis meses, a loja online da I Wanna Sleep teve reputação Boa de abril a julho, Ótima em agosto e chegou ao RA1000 em setembro."
         ],
         "bullets": []
       },
@@ -40664,8 +40664,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a nota da I Wanna Sleep no Reclame Aqui? A loja online tem reputação RA1000 e nota 8,5/10 nos últimos seis meses (abril a setembro de 2026), com 90,6% das reclamações resolvidas e 74,8% dos consumidores dizendo que voltariam a fazer negócio.",
-          "O que é o selo RA1000? É a reputação mais alta do Reclame Aqui, dada às empresas com os melhores índices de resposta, solução e avaliação dos consumidores no período. A loja online da I Wanna Sleep chegou a ele em setembro de 2026.",
+          "Qual a nota da I Wanna Sleep no Reclame Aqui? A loja online tem reputação RA1000 e nota 8,5/10 nos últimos seis meses (abril a setembro), com 90,6% das reclamações resolvidas e 74,8% dos consumidores dizendo que voltariam a fazer negócio.",
+          "O que é o selo RA1000? É a reputação mais alta do Reclame Aqui, dada às empresas com os melhores índices de resposta, solução e avaliação dos consumidores no período. A loja online da I Wanna Sleep chegou a ele em setembro.",
           "O que mais aparece nas reclamações da I Wanna Sleep? Atraso na entrega é o problema mais citado no painel do Reclame Aqui (25,19% das reclamações dos últimos três anos), e travesseiros são o produto mais citado.",
           "A I Wanna Sleep resolve as reclamações? Sim: segundo o Reclame Aqui, a loja online respondeu 100% das reclamações dos últimos seis meses e resolveu 90,6%, com tempo médio de resposta de 1 dia e 1 hora.",
           "O cupom CECIEMCASA muda o preço final do produto? Não. O desconto de 10% é concedido pela marca por meio da parceria com o Em Casa com Cecília, sem custo adicional para quem compra."
@@ -49396,7 +49396,7 @@ export const reviewsData: unknown[] = [
           "Indicação: crianças a partir de 2 anos;",
           "Alegações da marca: 100% livre de álcool, melatonina e parabenos; dermatologicamente testado; vegano;",
           "Validade: 36 meses a partir da fabricação;",
-          "Preço na loja oficial: R$ 117,00 (consultado em 29/09/2026)."
+          "Preço na loja oficial: R$ 117,00."
         ],
         "image": "/images/reviews/iwannasleep/sleepspray-kidz-ingredientes-naturais.webp",
         "imageAlt": "Frasco do SleepSpray Kidz cercado por lavanda, camomila e laranja doce sobre fundo rosa",
@@ -49474,7 +49474,7 @@ export const reviewsData: unknown[] = [
         "heading": "SleepSpray Kidz x SleepSpray adulto: o que muda",
         "paragraphs": [
           "Dá para borrifar o SleepSpray adulto no travesseiro do seu filho? Pelas páginas oficiais, não é o indicado: o adulto tem melatonina na composição e a página dele não traz faixa etária nem orientação para crianças. O Kidz foi feito e é indicado para crianças a partir de 2 anos.",
-          "A comparação abaixo usa só o que as páginas oficiais da IWS informam (consultadas em 29/09/2026)."
+          "A comparação abaixo usa só o que as páginas oficiais da IWS informam."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -54515,6 +54515,7 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
+    "bodyDatesReason": "campanha",
     "id": 333,
     "slug": "black-friday-i-wanna-sleep",
     "title": "Black Friday I Wanna Sleep 2026: Pillow Top Magnum, travesseiros e cobertores com o cupom CECIEMCASA",
@@ -54561,7 +54562,7 @@ export const reviewsData: unknown[] = [
         "heading": "A I Wanna Sleep tem Black Friday?",
         "paragraphs": [
           "Não encontramos campanha oficial de Black Friday da I Wanna Sleep nos últimos anos: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
-          "O que dá para mostrar é o que a loja já oferecia em outubro de 2026: o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
+          "O que dá para mostrar é o que a loja já oferecia: o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
           "Quando a I Wanna Sleep anunciar a campanha de 2026, as condições entram aqui, com o que mudou em relação a outubro."
         ]
       },
@@ -54577,11 +54578,11 @@ export const reviewsData: unknown[] = [
           "objectFit": "square"
         },
         "comparisonTable": {
-          "caption": "Pillow Top Magnum e kits na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
+          "caption": "Pillow Top Magnum e kits na I Wanna Sleep: preço riscado na página e preço do dia, lidos em 9 de outubro de 2026. No Pix, a página do produto mostra mais 5% de desconto.",
           "headers": [
             "Produto",
             "Preço riscado",
-            "Em 9/10/2026"
+            "Preço do dia"
           ],
           "rows": [
             [
@@ -54638,11 +54639,11 @@ export const reviewsData: unknown[] = [
           "objectFit": "square"
         },
         "comparisonTable": {
-          "caption": "Travesseiros e cobertores na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
+          "caption": "Travesseiros e cobertores na I Wanna Sleep: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
           "headers": [
             "Produto",
             "Preço riscado",
-            "Em 9/10/2026"
+            "Preço do dia"
           ],
           "rows": [
             [
@@ -54772,51 +54773,51 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega e prazo para o Natal",
         "paragraphs": [
-          "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Em 9 de outubro, simulamos o frete do Pillow Top Magnum casal com o CEP do centro de 12 capitais, e ele saiu grátis em todas.",
+          "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Simulamos o frete do Pillow Top Magnum casal com o CEP do centro de 12 capitais, e ele saiu grátis em todas.",
           "Somando um dia útil de folga ao prazo do carrinho, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
         ],
         "comparisonTable": {
-          "caption": "Prazo mostrado no carrinho da I Wanna Sleep em 9 de outubro de 2026, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "caption": "Prazo mostrado no carrinho da I Wanna Sleep, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
           "headers": [
             "Capital",
             "Prazo no carrinho",
-            "Pagar até (estimativa)"
+            "Pagar até (estimativa, dezembro)"
           ],
           "rows": [
             [
               "Belo Horizonte",
               "3 dias úteis",
-              "18 de dezembro"
+              "dia 18"
             ],
             [
               "São Paulo e Rio de Janeiro",
               "6 dias úteis",
-              "15 de dezembro"
+              "dia 15"
             ],
             [
               "Curitiba, Brasília e Goiânia",
               "7 dias úteis",
-              "14 de dezembro"
+              "dia 14"
             ],
             [
               "Porto Alegre e Salvador",
               "8 dias úteis",
-              "11 de dezembro"
+              "dia 11"
             ],
             [
               "Belém e Manaus",
               "10 dias úteis",
-              "9 de dezembro"
+              "dia 9"
             ],
             [
               "Fortaleza",
               "11 dias úteis",
-              "8 de dezembro"
+              "dia 8"
             ],
             [
               "Recife",
               "12 dias úteis",
-              "7 de dezembro"
+              "dia 7"
             ]
           ]
         },
@@ -54828,15 +54829,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando é a Black Friday da I Wanna Sleep? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro. Até 9 de outubro de 2026, a I Wanna Sleep ainda não tinha anunciado campanha.",
+          "Quando é a Black Friday da I Wanna Sleep? A Black Friday de 2026 é na última sexta-feira de novembro, e a Cyber Monday, na segunda seguinte. Na última conferência, a I Wanna Sleep ainda não tinha anunciado campanha.",
           "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
-          "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848 em outubro de 2026, sai por R$ 1.580,04.",
+          "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848 na leitura de preços, sai por R$ 1.580,04.",
           "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
-          "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Na nossa simulação de 9 de outubro, o Pillow Top Magnum saiu com frete grátis para as 12 capitais testadas.",
+          "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Na nossa simulação, o Pillow Top Magnum saiu com frete grátis para as 12 capitais testadas.",
           "Tem cupom de primeira compra na I Wanna Sleep? Use o CECIEMCASA, que dá 10% OFF em todo o site, com todas as formas de pagamento.",
           "A I Wanna Sleep tem loja física? Tem sete lojas em Belo Horizonte, entre elas as do BH Shopping, do Del Rey e do Ponteio. É nelas que se compram colchões e box. Compras feitas no site não são trocadas nas lojas.",
-          "O Pillow Top Magnum fica mais barato na Black Friday? Em outubro de 2026, ele já estava com cerca de 14% de desconto, a R$ 1.848 no casal. Se em novembro o preço do dia ficar abaixo disso, o desconto é maior que o de outubro.",
-          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos que o carrinho mostrou em outubro e um dia útil de folga, até 15 de dezembro em São Paulo e no Rio de Janeiro, até 18 de dezembro em Belo Horizonte e até 7 de dezembro em Recife."
+          "O Pillow Top Magnum fica mais barato na Black Friday? Na leitura de preços, ele já estava com cerca de 14% de desconto, a R$ 1.848 no casal. Se em novembro o preço do dia ficar abaixo disso, o desconto é maior que o de outubro.",
+          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos que o carrinho mostrou em outubro e um dia útil de folga, até o dia 15 em São Paulo e no Rio de Janeiro, até o dia 18 em Belo Horizonte e até o dia 7 em Recife."
         ]
       }
     ],
@@ -77063,14 +77064,14 @@ export const reviewsData: unknown[] = [
         "heading": "Quem está por trás da Lejour",
         "paragraphs": [
           "A Lejour é uma plataforma brasileira de casamento: o casal monta um site com as informações da festa e uma lista de presentes em dinheiro, e os convidados presenteiam pelo próprio site. Na página inicial, a empresa diz que \"mais de 300 mil casais já usaram a Lejour\". É um número da própria Lejour, que não conseguimos conferir de forma independente.",
-          "O que dá para conferir é o cadastro da empresa. Consultamos o CNPJ na BrasilAPI, que espelha os dados da Receita Federal, e comparamos com o rodapé do site em 14/10/2026."
+          "O que dá para conferir é o cadastro da empresa. Consultamos o CNPJ na BrasilAPI, que espelha os dados da Receita Federal, e comparamos com o rodapé do site."
         ],
         "postParagraphs": [
           "Para checar por conta própria, basta pesquisar o CNPJ em uma consulta pública de cadastro de empresas, como a da Receita Federal, e ver a situação cadastral e a data de abertura."
         ],
         "image": "/images/reviews/lejour/lejour-rodape-cnpj.webp",
         "imageAlt": "Rodapé do site lejour.com.br com o endereço da empresa e o CNPJ 29.009.811/0001-35 destacados",
-        "imageCaption": "Rodapé de lejour.com.br em 14/10/2026, com o endereço e o CNPJ 29.009.811/0001-35 destacados",
+        "imageCaption": "Rodapé de lejour.com.br, com o endereço e o CNPJ 29.009.811/0001-35 destacados",
         "imageFit": "contain",
         "imageAspectRatio": 2.3333,
         "comparisonTable": {
@@ -77102,7 +77103,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Lejour é da Fast Shop?",
         "paragraphs": [
-          "Não. A Lejour e a Fast Shop são parceiras, e não há fonte oficial de compra da Lejour pela Fast Shop. Em 14/10/2026, a parceria aparece nos dois sites:"
+          "Não. A Lejour e a Fast Shop são parceiras, e não há fonte oficial de compra da Lejour pela Fast Shop. A parceria aparece nos dois sites:"
         ],
         "image": {
           "src": "/images/reviews/lejour/lejour-confiavel-capa.webp",
@@ -77126,7 +77127,7 @@ export const reviewsData: unknown[] = [
           "Prazos e regras podem mudar, então confira os da central de ajuda no momento de criar a sua lista."
         ],
         "comparisonTable": {
-          "caption": "Etapas do presente até o saque por Pix, segundo a central de ajuda da Lejour (14/10/2026)",
+          "caption": "Etapas do presente até o saque por Pix, segundo a central de ajuda da Lejour",
           "headers": [
             "Etapa",
             "O que acontece",
@@ -77179,7 +77180,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa usar a Lejour",
         "paragraphs": [
-          "Criar a lista é grátis no plano Basic. A Lejour cobra uma taxa sobre os presentes, de 2,99% a 3,89% conforme o plano (3,89% no Basic, em 14/10/2026), e o casal escolhe se ela sai do valor que recebe ou é somada ao que o convidado paga. Os planos pagos, Premium e Pro, baixam a taxa e são pagos uma vez. A comparação entre os planos está em:"
+          "Criar a lista é grátis no plano Basic. A Lejour cobra uma taxa sobre os presentes, de 2,99% a 3,89% conforme o plano (3,89% no Basic), e o casal escolhe se ela sai do valor que recebe ou é somada ao que o convidado paga. Os planos pagos, Premium e Pro, baixam a taxa e são pagos uma vez. A comparação entre os planos está em:"
         ],
         "links": [
           {
@@ -77191,7 +77192,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Em 14/10/2026, a Lejour tinha reputação Ótima no Reclame Aqui nos últimos 12 meses, com nota 9,5 e 22 reclamações no período, todas respondidas. Por que as abas de 6 meses e de 2025 aparecem como \"Sem Reputação\" e o que mais aparece nas queixas estão no artigo sobre a Lejour no Reclame Aqui."
+          "A Lejour tinha reputação Ótima no Reclame Aqui nos últimos 12 meses, com nota 9,5 e 22 reclamações no período, todas respondidas. Por que as abas de 6 meses e de 2025 aparecem como \"Sem Reputação\" e o que mais aparece nas queixas estão no artigo sobre a Lejour no Reclame Aqui."
         ],
         "links": [
           {
@@ -77232,7 +77233,7 @@ export const reviewsData: unknown[] = [
           "O site de casamento da Lejour é seguro? A Lejour só libera o saque por Pix para uma chave do mesmo CPF que publicou a lista, com documento com foto e selfie antes do primeiro saque. A página de segurança da empresa é genérica, e não encontramos certificação nem o nome do processador de pagamento publicados.",
           "Em quanto tempo o dinheiro dos presentes cai na conta? Presentes pagos por Pix ou boleto ficam disponíveis depois da confirmação do pagamento, e os pagos no cartão, 15 dias corridos depois da compra. O saque por Pix sai em até 1 dia útil.",
           "O site some depois do casamento, e o saldo também? O site fica público até 90 dias depois do casamento. O painel e o saldo continuam acessíveis depois disso.",
-          "Qual é o CNPJ da Lejour? É 29.009.811/0001-35, ativo desde 07/11/2017, e aparece no rodapé do site."
+          "Qual é o CNPJ da Lejour? É 29.009.811/0001-35, ativo desde 2017, e aparece no rodapé do site."
         ]
       }
     ],
@@ -77260,6 +77261,7 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
+    "bodyDatesReason": "reclame-aqui",
     "id": 425,
     "slug": "lejour-reclame-aqui-nota-reputacao",
     "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram",
@@ -77320,12 +77322,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Lejour no Reclame Aqui",
         "paragraphs": [
-          "O Reclame Aqui mostra o desempenho por período. O perfil da Lejour tinha cinco abas em 14/10/2026: 6 meses, 12 meses, 2025, 2024 e Geral. Estas são três delas, cada uma com o intervalo de datas que aparece no rodapé do quadro:"
+          "O Reclame Aqui mostra o desempenho por período. O perfil da Lejour tinha cinco abas: 6 meses, 12 meses, 2025, 2024 e Geral. Estas são três delas, cada uma com o intervalo de datas que aparece no rodapé do quadro:"
         ],
         "image": {
           "src": "/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
           "alt": "Perfil da Lejour no Reclame Aqui: reputação Ótima, empresa verificada, avaliações de compra 5,0 e o quadro de desempenho dos últimos 12 meses",
-          "caption": "O topo do perfil da Lejour no Reclame Aqui e o quadro de desempenho dos últimos 12 meses, consultados em 14/10/2026.",
+          "caption": "O topo do perfil da Lejour no Reclame Aqui e o quadro de desempenho dos últimos 12 meses.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -77334,12 +77336,12 @@ export const reviewsData: unknown[] = [
           "Há dois cuidados na leitura. O primeiro é que \"100% resolvidas\" e \"84,6% voltariam\" valem só para as 13 reclamações avaliadas, e quem não volta ao Reclame Aqui para avaliar não entra na conta. O segundo é que 22 reclamações em 12 meses não bastam para afirmar como a Lejour trata qualquer pedido. O que os números mostram é que, nos casos registrados, todos foram respondidos e nenhum estava aguardando resposta."
         ],
         "comparisonTable": {
-          "caption": "Lejour no Reclame Aqui por período, consulta de 14/10/2026",
+          "caption": "Lejour no Reclame Aqui por período",
           "headers": [
             "Indicador",
             "12 meses (01/10/2025 a 30/09/2026)",
             "6 meses (01/04 a 30/09/2026)",
-            "2025 (01/01 a 31/12/2025)"
+            "2025 (ano inteiro)"
           ],
           "rows": [
             [
@@ -77407,14 +77409,14 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/lejour/lejour-reclame-aqui-aba-6-meses.webp",
         "imageAlt": "Aba de 6 meses do perfil da Lejour no Reclame Aqui: Sem Reputação, 13 reclamações recebidas e 5 avaliadas",
-        "imageCaption": "Aba de 6 meses do perfil da Lejour no Reclame Aqui em 14/10/2026: \"Sem Reputação\", 13 reclamações recebidas e 5 avaliadas. O marca-texto amarelo é nosso.",
+        "imageCaption": "Aba de 6 meses do perfil da Lejour no Reclame Aqui: \"Sem Reputação\", 13 reclamações recebidas e 5 avaliadas. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 0.3221
       },
       {
         "heading": "O que mais aparece nas reclamações da Lejour",
         "paragraphs": [
-          "Em 14/10/2026, o Reclame Aqui destacava três itens no perfil da Lejour, todos de reclamações registradas em até 3 anos na aba geral:"
+          "O Reclame Aqui destacava três itens no perfil da Lejour, todos de reclamações registradas em até 3 anos na aba geral:"
         ],
         "postParagraphs": [
           "A leitura é sobre a plataforma e o atendimento: \"Mau Atendimento\" é o problema mais marcado. Nos três itens que o perfil destaca, não aparece saque, pagamento ou estorno. O print mostra um item de cada grupo, e não a lista completa, então isso não quer dizer que nenhuma reclamação tenha tratado de dinheiro.",
@@ -77422,11 +77424,11 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/lejour/lejour-reclame-aqui-principais-problemas.webp",
         "imageAlt": "Principais problemas comentados no perfil da Lejour no Reclame Aqui: Sites e portais, Mau Atendimento e Conteúdo",
-        "imageCaption": "Principais problemas comentados no perfil da Lejour no Reclame Aqui, com reclamações de até 3 anos (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+        "imageCaption": "Principais problemas comentados no perfil da Lejour no Reclame Aqui, com reclamações de até 3 anos. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.225,
         "comparisonTable": {
-          "caption": "Principais agrupamentos de reclamações da Lejour no Reclame Aqui, consulta de 14/10/2026",
+          "caption": "Principais agrupamentos de reclamações da Lejour no Reclame Aqui",
           "headers": [
             "Agrupamento",
             "O que mais aparece",
@@ -77454,13 +77456,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o saque ou um presente der problema: o que fazer",
         "paragraphs": [
-          "Antes de abrir qualquer reclamação, confira o que costuma explicar a demora. Os prazos e as regras abaixo são os da central de ajuda da Lejour em 14/10/2026."
+          "Antes de abrir qualquer reclamação, confira o que costuma explicar a demora. Os prazos e as regras abaixo são os da central de ajuda da Lejour."
         ],
         "bullets": [
           "**O presente foi pago, mas o crédito não aparece.** No Pix e no boleto, o crédito fica disponível depois da confirmação do pagamento. No cartão, só 15 dias corridos depois da compra.",
           "**O saque não caiu.** O saque sai por Pix em até 1 dia útil, mas só para uma chave do mesmo CPF de quem publicou a lista, e só depois de a Lejour validar a identidade com documento com foto e selfie. Se a chave estiver em nome de outra pessoa, ou se a validação ainda não foi concluída, o dinheiro não sai.",
           "**Nada disso explica.** Fale com a Lejour pela opção \"Fale com a gente\", que leva ao atendimento por WhatsApp, e tenha à mão o CPF do titular da lista, a chave Pix usada e a data do pedido de saque ou do presente.",
-          "**O atendimento não resolveu.** O Reclame Aqui é o passo seguinte. Em 14/10/2026, a Lejour tinha 100% das reclamações dos últimos 12 meses respondidas. Depois da resposta, você pode avaliar se o problema foi resolvido."
+          "**O atendimento não resolveu.** O Reclame Aqui é o passo seguinte. A Lejour tinha 100% das reclamações dos últimos 12 meses respondidas. Depois da resposta, você pode avaliar se o problema foi resolvido."
         ],
         "postParagraphs": [
           "Guarde o comprovante de cada pagamento de presente e a captura da tela do pedido de saque. Com eles, a reclamação, se precisar chegar ao Reclame Aqui, fica documentada."
@@ -77493,10 +77495,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Lejour é confiável segundo o Reclame Aqui? Em 14/10/2026, o perfil tinha reputação Ótima nos últimos 12 meses, com 100% das reclamações respondidas e 100% das avaliadas resolvidas. As reclamações são poucas e a nota se apoia em 13 avaliações, então o número não garante como a empresa trata cada caso. Nem todos os que avaliaram voltariam a fazer negócio (84,6%).",
-          "Qual a nota da Lejour no Reclame Aqui? A reputação é Ótima, com nota 9,5 de 10, na aba de 12 meses (01/10/2025 a 30/09/2026). A nota média do consumidor nas reclamações avaliadas é 9,38, e 84,6% dizem que voltariam a fazer negócio. A consulta é de 14/10/2026, e os números mudam com o tempo.",
+          "A Lejour é confiável segundo o Reclame Aqui? O perfil tinha reputação Ótima nos últimos 12 meses, com 100% das reclamações respondidas e 100% das avaliadas resolvidas. As reclamações são poucas e a nota se apoia em 13 avaliações, então o número não garante como a empresa trata cada caso. Nem todos os que avaliaram voltariam a fazer negócio (84,6%).",
+          "Qual a nota da Lejour no Reclame Aqui? A reputação é Ótima, com nota 9,5 de 10, na aba de 12 meses. A nota média do consumidor nas reclamações avaliadas é 9,38, e 84,6% dizem que voltariam a fazer negócio. Os números mudam com o tempo.",
           "Por que a Lejour aparece \"Sem Reputação\"? Nas abas de 6 meses e de 2025, o Reclame Aqui só dá reputação a perfis com 10 reclamações avaliadas ou mais. A Lejour teve menos que isso nas duas janelas, e por isso elas ficam sem nota.",
-          "A Lejour responde às reclamações? Sim: em 14/10/2026, o perfil mostrava 100% das reclamações respondidas nas três abas, com resposta média de 2 dias e 5 horas em 12 meses, 2 dias e 22 horas em 6 meses e 23 horas em 2025.",
+          "A Lejour responde às reclamações? Sim: o perfil mostrava 100% das reclamações respondidas nas três abas, com resposta média de 2 dias e 5 horas em 12 meses, 2 dias e 22 horas em 6 meses e 23 horas em 2025.",
           "O que fazer se o saque da Lejour não cair? O saque sai em até 1 dia útil, então confira se a chave Pix é do mesmo CPF de quem publicou a lista e se a validação de identidade foi concluída. Se estiver tudo certo, fale com a Lejour por \"Fale com a gente\" e, sem solução, abra a reclamação no Reclame Aqui."
         ]
       }
@@ -77888,7 +77890,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de começar: decidam no CPF de quem a lista fica",
         "paragraphs": [
-          "O cadastro da lista tem 3 passos e começa sem login. Refizemos o cadastro em 14/10/2026, com dados de teste, até o painel; da lista de presentes em diante, os passos seguem a central de ajuda da Lejour.",
+          "O cadastro da lista tem 3 passos e começa sem login. Refizemos o cadastro com dados de teste, até o painel; da lista de presentes em diante, os passos seguem a central de ajuda da Lejour.",
           "O dinheiro dos presentes só sai por Pix para uma chave do mesmo CPF de quem publicou a lista, e a Lejour pede validação de identidade, com documento com foto e selfie, antes do primeiro saque. Por isso, combinem antes quem vai criar a conta e publicar a lista: ela deve ficar no CPF da pessoa que vai receber o dinheiro.",
           "Os detalhes de prazo e segurança do saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
         ]
@@ -77900,7 +77902,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
         "imageAlt": "Passo 1 do cadastro na Lejour: tela Queremos conhecer vocês, com os campos de nome do casal e o progresso 1/3",
-        "imageCaption": "Passo 1 do cadastro na Lejour em 14/10/2026 (recorte do formulário): \"Queremos conhecer vocês\", com os campos de nome do casal e o progresso 1/3. O marca-texto amarelo é nosso.",
+        "imageCaption": "Passo 1 do cadastro na Lejour (recorte do formulário): \"Queremos conhecer vocês\", com os campos de nome do casal e o progresso 1/3. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 2.2945
       },
@@ -77911,7 +77913,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/lejour/lejour-cadastro-02-data-do-casamento.webp",
         "imageAlt": "Passo 2 do cadastro na Lejour: tela Quando será o grande dia, com o campo da data e o aviso de que ela pode ser alterada",
-        "imageCaption": "Passo 2 do cadastro na Lejour em 14/10/2026: \"Quando será o grande dia?\", com o aviso de que a data pode ser alterada depois. O marca-texto amarelo é nosso.",
+        "imageCaption": "Passo 2 do cadastro na Lejour: \"Quando será o grande dia?\", com o aviso de que a data pode ser alterada depois. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 2.6432
       },
@@ -77950,7 +77952,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/lejour/lejour-cadastro-04-painel-personalizar-site.webp",
         "imageAlt": "Painel da Lejour sem login, com a faixa Criar conta grátis, o menu lateral e a lista de seções do site do casal",
-        "imageCaption": "Painel da Lejour em 14/10/2026, ainda sem login: a faixa \"Criar conta grátis\", o menu e a lista de seções do site. O marca-texto amarelo é nosso.",
+        "imageCaption": "Painel da Lejour, ainda sem login: a faixa \"Criar conta grátis\", o menu e a lista de seções do site. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.107
       },
@@ -77973,14 +77975,14 @@ export const reviewsData: unknown[] = [
         "heading": "6. Configure antes de divulgar: quem paga a taxa e o que acontece com o presente comprado",
         "paragraphs": [
           "Segundo a central de ajuda da Lejour, antes de mandar o link para os convidados, abra Configurações e entre em \"Sobre site e lista\". Duas escolhas ficam ali, e vale decidi-las agora.",
-          "**Quem paga a taxa.** A Lejour cobra uma taxa sobre cada presente: 3,89% no plano Basic, 3,29% no Premium e 2,99% no Pro (valores em 14/10/2026). O casal decide quem arca com ela, e são duas opções:"
+          "**Quem paga a taxa.** A Lejour cobra uma taxa sobre cada presente: 3,89% no plano Basic, 3,29% no Premium e 2,99% no Pro. O casal decide quem arca com ela, e são duas opções:"
         ],
         "postParagraphs": [
           "Conta nossa, com os preços de 14/10/2026: num presente de R$ 200 no plano Basic, a taxa é de R$ 7,78. As taxas dos três planos e a diferença entre eles estão em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona).",
           "**O que acontece com o presente depois de comprado.** A mesma tela traz as opções \"Sair da lista\" e \"Permanecer na lista\": o casal escolhe o que acontece com o presente depois que um convidado o compra."
         ],
         "comparisonTable": {
-          "caption": "Quem paga a taxa da lista de presentes na Lejour (14/10/2026)",
+          "caption": "Quem paga a taxa da lista de presentes na Lejour",
           "headers": [
             "Opção",
             "O que acontece"
@@ -78007,7 +78009,7 @@ export const reviewsData: unknown[] = [
         "heading": "Depois do casamento: saque, validação e os 90 dias do site",
         "paragraphs": [
           "O dinheiro dos presentes fica como crédito no painel do casal. Pagamentos por Pix e boleto ficam disponíveis depois da confirmação do pagamento, e os de cartão, 15 dias corridos depois da compra.",
-          "O saque sai por Pix, em até 1 dia útil, depois da validação de identidade do primeiro saque. Em 14/10/2026, no plano Basic, os dois primeiros saques eram grátis e os seguintes custavam R$ 5 cada; Premium e Pro têm saques ilimitados.",
+          "O saque sai por Pix, em até 1 dia útil, depois da validação de identidade do primeiro saque. No plano Basic, os dois primeiros saques eram grátis e os seguintes custavam R$ 5 cada; Premium e Pro têm saques ilimitados.",
           "O site do casal fica público até 90 dias depois do casamento. Passado esse prazo, os convidados deixam de acessá-lo, mas o painel de administração e o saldo continuam acessíveis. O que protege o saque e o saldo está em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
         ]
       },
@@ -78021,7 +78023,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Como criar a lista de casamento na Lejour? Pelo link de cadastro, informe os nomes do casal, a data do casamento e o tema do site; o painel abre em seguida, mesmo sem login. Depois crie a conta grátis para guardar o que foi feito e monte a lista de presentes no menu \"Lista de presentes\".",
-          "Precisa pagar para criar a lista na Lejour? Não. O plano Basic é grátis, e a Lejour cobra uma taxa sobre cada presente recebido, de 3,89% no Basic em 14/10/2026. O casal escolhe se a taxa sai do valor que recebe ou se é somada ao que o convidado paga.",
+          "Precisa pagar para criar a lista na Lejour? Não. O plano Basic é grátis, e a Lejour cobra uma taxa sobre cada presente recebido, de 3,89% no Basic. O casal escolhe se a taxa sai do valor que recebe ou se é somada ao que o convidado paga.",
           "Dá para começar sem cadastro? Sim. Depois dos três passos, o painel abre com o aviso \"Você está navegando sem login\". Para guardar o que foi feito, é preciso criar uma conta gratuita.",
           "Posso mudar a data e o tema depois? Sim. A própria Lejour avisa no cadastro que a data pode ser alterada se for preciso e que o tema pode ser trocado quando vocês quiserem.",
           "Posso criar um presente com o valor que eu quiser? Pelo presente próprio, sim: segundo a central de ajuda da Lejour, o casal cria o presente com imagem, nome e valor.",
@@ -81282,6 +81284,7 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
+    "bodyDatesReason": "campanha",
     "id": 441,
     "slug": "black-friday-lejour",
     "title": "Black Friday Lejour 2026: sem promoção anunciada, o que a Lejour fez em 2025 e vale esperar?",
@@ -81354,29 +81357,29 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como foi a Black Friday da Lejour em 2025",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. Em 14 de outubro de 2026, a Lejour ainda não tinha anunciado promoção para este ano: a home não trazia faixa de campanha. Este guia é atualizado quando a Lejour anunciar o que muda.",
+          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, na segunda seguinte. Na última conferência, a Lejour ainda não tinha anunciado promoção para este ano: a home não trazia faixa de campanha. Este guia é atualizado quando a Lejour anunciar o que muda.",
           "Em 2025, a Lejour não fez uma promoção só. A faixa do topo do site mudou de oferta ao longo do segundo semestre, segundo os registros do site guardados no Internet Archive:"
         ],
         "bullets": [
-          "Nas capturas de 21 de maio a 2 de novembro de 2025, a faixa era o \"Natal Lejour\": Plano Premium por R$ 99,90.",
-          "Na captura de 16 de novembro de 2025, a faixa era o \"Black Month Lejour\": Plano Premium de R$ 179,90 por R$ 59,90.",
-          "Na captura de 16 de dezembro de 2025, a faixa dizia \"Black Friday Lejour\": Lista de Presentes com taxa reduzida de 1,99%. No rodapé da mesma página, a oferta aparecia como \"Black Month Lejour\"."
+          "Nas capturas de maio ao início de novembro de 2025, a faixa era o \"Natal Lejour\": Plano Premium por R$ 99,90.",
+          "Na captura de meados de novembro de 2025, a faixa era o \"Black Month Lejour\": Plano Premium de R$ 179,90 por R$ 59,90.",
+          "Na captura de meados de dezembro de 2025, a faixa dizia \"Black Friday Lejour\": Lista de Presentes com taxa reduzida de 1,99%. No rodapé da mesma página, a oferta aparecia como \"Black Month Lejour\"."
         ],
         "postParagraphs": [
-          "A diferença para o preço de hoje é grande. Em 13 de outubro de 2026, o Premium custava R$ 99,90, ou seja, R$ 40 a mais que os R$ 59,90 de novembro de 2025. A taxa de 1,99% seria 1,9 ponto percentual menor que a do Basic (3,89%) e 1 ponto menor que a do Pro (2,99%), a menor entre os planos de hoje.",
-          "Três limites valem para esse histórico. O asterisco das faixas de 2025 leva a um rodapé que cita cadastros de 02/05/2025 a 31/05/2025, então a Lejour não divulgou as datas de início e de fim das promoções. Também não se sabe se a taxa de 1,99% valia para listas criadas antes da campanha nem se somava com o plano pago. E em 2024 não houve nada parecido: os registros de 3 de novembro e de 4 de dezembro de 2024 não mostram faixa de promoção na home.",
+          "A diferença para o preço de hoje é grande. O Premium custava R$ 99,90, ou seja, R$ 40 a mais que os R$ 59,90 cobrados em novembro do ano passado. A taxa de 1,99% seria 1,9 ponto percentual menor que a do Basic (3,89%) e 1 ponto menor que a do Pro (2,99%), a menor entre os planos de hoje.",
+          "Três limites valem para esse histórico. O asterisco das faixas de 2025 leva a um rodapé que cita cadastros feitos em maio, então a Lejour não divulgou as datas de início e de fim das promoções. Também não se sabe se a taxa de 1,99% valia para listas criadas antes da campanha nem se somava com o plano pago. E em 2024 não houve nada parecido: os registros do fim de 2024 (novembro e dezembro) não mostram faixa de promoção na home.",
           "Os registros de 2025 mostram o que a Lejour fez naquele ano, não o que fará em 2026."
         ]
       },
       {
         "heading": "Planos e taxas da Lejour hoje",
         "paragraphs": [
-          "A Lejour tem três planos. O Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour em 13 de outubro de 2026, sem preço de campanha. O Premium já aparecia com desconto sobre o preço cheio, e esse preço pode mudar."
+          "A Lejour tem três planos. O Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour na leitura de preços, sem preço de campanha. O Premium já aparecia com desconto sobre o preço cheio, e esse preço pode mudar."
         ],
         "comparisonTable": {
           "headers": [
             "Plano",
-            "Preço em 13/10/2026",
+            "Preço",
             "Taxa por presente",
             "Taxa num presente de R$ 200"
           ],
@@ -81417,8 +81420,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale esperar a Black Friday para abrir a lista?",
         "paragraphs": [
-          "Em 14/10/2026, a Lejour não tinha anunciado promoção para este ano, e não dá para saber se haverá desconto no Premium ou taxa reduzida.",
-          "A decisão depende de quanto a taxa pesa. A Lejour cobra um percentual sobre cada presente, e o casal escolhe se paga a taxa ou se os convidados pagam por cima. A conta abaixo vale para o casal que paga. Ela usa uma lista de exemplo com R$ 20.000 em presentes e as taxas de 13/10/2026: 3,89% no Basic, 3,29% no Premium e 2,99% no Pro. A última linha é uma hipótese: a taxa de 1,99% que a Lejour anunciou na faixa do site em dezembro de 2025, sem garantia de que volte. Todas as contas são nossas."
+          "A Lejour não tinha anunciado promoção para este ano, e não dá para saber se haverá desconto no Premium ou taxa reduzida.",
+          "A decisão depende de quanto a taxa pesa. A Lejour cobra um percentual sobre cada presente, e o casal escolhe se paga a taxa ou se os convidados pagam por cima. A conta abaixo vale para o casal que paga. Ela usa uma lista de exemplo com R$ 20.000 em presentes e as taxas da tabela anterior: 3,89% no Basic, 3,29% no Premium e 2,99% no Pro. A última linha é uma hipótese: a taxa de 1,99% que a Lejour anunciou na faixa do site no fim de 2025, sem garantia de que volte. Todas as contas são nossas."
         ],
         "comparisonTable": {
           "headers": [
@@ -81465,12 +81468,12 @@ export const reviewsData: unknown[] = [
               "R$ 398,00 mais o plano, se houver"
             ]
           ],
-          "caption": "Taxa e preço do plano numa lista de exemplo de R$ 20.000 em presentes, com as taxas de 13/10/2026 e uma hipótese de 1,99%. Todas as contas são nossas."
+          "caption": "Taxa e preço do plano numa lista de exemplo de R$ 20.000 em presentes, com as taxas atuais e uma hipótese de 1,99%. Todas as contas são nossas."
         },
         "bullets": [
           "**Lista de R$ 20.000:** o Premium a R$ 99,90 fecha R$ 20,10 abaixo do Basic. O Pro sai R$ 19,90 acima. Com o Premium a R$ 179,90, o plano pago sai R$ 59,90 acima do Basic.",
           "**Lista menor:** pela taxa, o Premium só compensa a partir de cerca de R$ 16.650 em presentes (R$ 99,90 divididos por 0,60 ponto percentual de diferença entre as taxas). Abaixo disso, só pela taxa, o Basic sai mais barato. Se o preço do Premium voltar a R$ 179,90, o ponto sobe para cerca de R$ 29.983.",
-          "**Se a taxa de 1,99% voltar:** ela tiraria R$ 380 da taxa do Basic nessa lista, mais do que a queda de taxa de qualquer plano (R$ 120 no Premium e R$ 180 no Pro, antes do preço do plano). Não sabemos se valeria para listas já criadas, por quanto tempo nem se vale em todos os planos. Quem espera pode não achar promoção em novembro: em 14/10/2026 não há promoção anunciada.",
+          "**Se a taxa de 1,99% voltar:** ela tiraria R$ 380 da taxa do Basic nessa lista, mais do que a queda de taxa de qualquer plano (R$ 120 no Premium e R$ 180 no Pro, antes do preço do plano). Não sabemos se valeria para listas já criadas, por quanto tempo nem se vale em todos os planos. Quem espera pode não achar promoção em novembro: hoje não há promoção anunciada.",
           "**Quando o convidado paga a taxa:** nada disso muda o valor que o casal recebe. Nesse caso, o plano pago só vale pelos outros recursos, como saques ilimitados e domínio incluso."
         ],
         "postParagraphs": [
@@ -81481,13 +81484,13 @@ export const reviewsData: unknown[] = [
         "heading": "Fast Shop: o crédito da lista e o cashback",
         "paragraphs": [
           "O crédito dos presentes não precisa virar dinheiro. O casal pode sacar por Pix, usar em produtos da Fast Shop ou dividir entre os dois, e o painel da Lejour tem uma área só para os produtos da Fast Shop. A Lejour e a Fast Shop são parceiras: o logo do site é \"Fast Shop + le jour\".",
-          "Em 14/10/2026, a página de lista de casamento da Fast Shop diz que as compras feitas com o crédito da lista dão cashback mínimo de 4% para as próximas compras. Pela nossa conta, num crédito de R$ 5.000 usado na loja, 4% são R$ 200 de cashback, e o cashback é para as próximas compras na Fast Shop, não para saque.",
+          "A página de lista de casamento da Fast Shop diz que as compras feitas com o crédito da lista dão cashback mínimo de 4% para as próximas compras. Pela nossa conta, num crédito de R$ 5.000 usado na loja, 4% são R$ 200 de cashback, e o cashback é para as próximas compras na Fast Shop, não para saque.",
           "A condição é da Fast Shop, não da Lejour; qualquer oferta maior só vale depois de a loja publicar. Compare o preço do produto na Fast Shop com o de outras lojas antes de usar o crédito, porque o cashback só compensa se o produto não custar mais caro. A segurança dessa parceria e as regras de saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
         ],
         "image": {
           "src": "/images/reviews/lejour/black-friday-lejour-home.webp",
-          "alt": "Página inicial do site da Lejour em 14/10/2026, com a chamada Crie seu site de casamento e lista de presentes em um só lugar e o logo da parceria Fast Shop + Lejour",
-          "caption": "A página inicial da Lejour em 14/10/2026, com o logo da parceria Fast Shop + Lejour no cabeçalho.",
+          "alt": "Página inicial do site da Lejour, com a chamada Crie seu site de casamento e lista de presentes em um só lugar e o logo da parceria Fast Shop + Lejour",
+          "caption": "A página inicial da Lejour, com o logo da parceria Fast Shop + Lejour no cabeçalho.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -81495,13 +81498,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Lejour terá Black Friday em 2026? Em 14/10/2026, a Lejour ainda não tinha confirmado promoção para este ano. A Black Friday é em 27/11/2026.",
-          "Vale esperar a Black Friday para assinar o Premium? Em 13/10/2026, o Premium estava a R$ 99,90, riscado de R$ 179,90. Pela taxa e pelo preço dessa data, compensa a partir de cerca de R$ 16.650 em presentes; a conta completa está na seção anterior. Em 2025, o plano chegou a R$ 59,90 em novembro, mas a Lejour não garante que se repita.",
-          "A taxa da lista fica menor na Black Friday? Em dezembro de 2025, a Lejour anunciou taxa reduzida de 1,99% numa faixa do site, sem informar o período. Em 13/10/2026, as taxas eram de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro.",
-          "Quanto a taxa pesa numa lista de R$ 20.000? No Basic, R$ 778,00; no Premium, R$ 658,00; no Pro, R$ 598,00, pelas taxas de 13/10/2026. As contas são nossas, e valem quando o casal paga a taxa.",
+          "A Lejour terá Black Friday em 2026? Na última conferência, a Lejour ainda não tinha confirmado promoção para este ano. A Black Friday é na última sexta-feira de novembro.",
+          "Vale esperar a Black Friday para assinar o Premium? Na leitura de preços, o Premium estava a R$ 99,90, riscado de R$ 179,90. Pela taxa e pelo preço dessa leitura, compensa a partir de cerca de R$ 16.650 em presentes; a conta completa está na seção anterior. Em 2025, o plano chegou a R$ 59,90 em novembro, mas a Lejour não garante que se repita.",
+          "A taxa da lista fica menor na Black Friday? No fim de 2025, a Lejour anunciou taxa reduzida de 1,99% numa faixa do site, sem informar o período. Na leitura de preços, as taxas eram de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro.",
+          "Quanto a taxa pesa numa lista de R$ 20.000? No Basic, R$ 778,00; no Premium, R$ 658,00; no Pro, R$ 598,00, pelas taxas da tabela. As contas são nossas, e valem quando o casal paga a taxa.",
           "A taxa reduzida valeria para uma lista já criada? Não sabemos. A Lejour não explicou isso em 2025, e não há regulamento de 2026. Se a promoção sair, confira o regulamento dela antes de decidir.",
           "A Lejour tem desconto pelo link do Em Casa com Cecília para a Black Friday? Não. O link é uma indicação: o cadastro e os planos são os mesmos do site da Lejour. Se a Lejour fizer promoção, ela vale para qualquer casal, com ou sem o nosso link. As condições do link estão na [página da Lejour no Em Casa com Cecília](/cupons/lejour).",
-          "Dá para usar o crédito da lista na Fast Shop? Dá. Em 14/10/2026, a Fast Shop informava cashback mínimo de 4% nas compras com o crédito."
+          "Dá para usar o crédito da lista na Fast Shop? Dá. A Fast Shop informava cashback mínimo de 4% nas compras com o crédito."
         ]
       }
     ]
@@ -83878,14 +83881,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Em taxa, Lejour, iCasei e Casar.com ficam perto, então a escolha não se resolve só pelo percentual: o que separa as três é o tempo do site no ar, os saques, o prazo do cartão e a confirmação de presença. Veja abaixo a conta de uma lista de R$ 20.000 e o capítulo Qual escolher, por perfil."
+          "Em taxa, Lejour, iCasei e Casar.com ficam perto, então a escolha não se resolve só pelo percentual: o que separa as três é o tempo do site no ar, os saques, o prazo do cartão e a confirmação de presença. Veja abaixo a conta de uma lista de exemplo e o capítulo Qual escolher, por perfil."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
           "Comparamos três plataformas de lista de casamento, Lejour, iCasei e Casar.com, em taxa, saque, prazo do dinheiro, tempo do site no ar e confirmação de presença.",
-          "Usamos só os sites oficiais das três plataformas: páginas de planos e de tarifas e a central de ajuda de cada uma, consultadas em 16/10/2026. Os preços dos planos da Lejour são os da página de planos dela na mesma data.",
+          "Usamos só os sites oficiais das três plataformas: páginas de planos e de tarifas e a central de ajuda de cada uma. Os preços dos planos da Lejour são os da página de planos dela.",
           "Não fizemos lista de casamento real em nenhuma delas. As contas em reais são nossas, a partir das taxas publicadas.",
           "A Lejour é parceira do Em Casa com Cecília **só por indicação**. O casal não ganha desconto pelo nosso link: os planos e as taxas são os mesmos para qualquer casal. O iCasei e o Casar.com não são parceiros."
         ]
@@ -83958,7 +83961,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Dados dos sites oficiais em 16/10/2026. O Premium da Lejour está em promoção, e os preços do iCasei mudam com o período contratado."
+          "Dados dos sites oficiais. O Premium da Lejour está em promoção, e os preços do iCasei mudam com o período contratado."
         ]
       },
       {
@@ -83970,7 +83973,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
         "imageAlt": "Tabela de planos do painel da Lejour com Basic, Premium e Pro: preço, taxa da lista de presentes, saques, domínio e recursos de cada plano",
-        "imageCaption": "Tabela de planos do painel da Lejour em 14/10/2026. O marca-texto amarelo é nosso.",
+        "imageCaption": "Tabela de planos do painel da Lejour. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.3563
       },
@@ -83979,7 +83982,7 @@ export const reviewsData: unknown[] = [
           "No **iCasei**, a taxa depende do plano e de quanto a lista já arrecadou. É uma tarifa regressiva: ela cai quando a lista passa de R$ 4.000 e de novo quando passa de R$ 8.000."
         ],
         "comparisonTable": {
-          "caption": "Tarifa regressiva do iCasei por plano e valor arrecadado, 16/10/2026",
+          "caption": "Tarifa regressiva do iCasei por plano e valor arrecadado",
           "headers": [
             "Valor arrecadado na lista",
             "Basic",
@@ -84008,7 +84011,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Tarifas do iCasei em 16/10/2026. Segundo a página de tarifas, a taxa menor vale só para os presentes que chegam depois de cada faixa. Os primeiros R$ 4.000 seguem com a taxa da primeira faixa, mesmo que a lista passe de R$ 8.000.",
+          "Tarifas do iCasei. Segundo a página de tarifas, a taxa menor vale só para os presentes que chegam depois de cada faixa. Os primeiros R$ 4.000 seguem com a taxa da primeira faixa, mesmo que a lista passe de R$ 8.000.",
           "As três deixam o casal escolher **quem paga a taxa**. Se o casal assume, ela sai do valor de cada presente. Se repassa, ela é somada ao presente, e o convidado paga a mais."
         ]
       },
@@ -84033,7 +84036,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "comparisonTable": {
-          "caption": "Simulação de uma lista de R$ 20.000 nas três plataformas, 16/10/2026",
+          "caption": "Simulação de uma lista de R$ 20.000 nas três plataformas",
           "headers": [
             "Plataforma e plano",
             "Taxa",
@@ -84094,7 +84097,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Simulação nossa, com as taxas e os preços de 16/10/2026.",
+          "Simulação nossa, com as taxas e os preços da tabela anterior.",
           "Nessa lista, quem fica com mais é o Premium da Lejour, e quem fica com menos é o Black do iCasei de 12 meses. A diferença é de R$ 196,40, perto de 1% da lista.",
           "Os planos pagos do iCasei deixam menos que o Basic grátis: a taxa menor não cobre o preço do plano numa lista desse tamanho.",
           "O Pro da Lejour só deixa mais que o Premium quando a lista passa de R$ 33.333, pela nossa conta: são R$ 100 a mais de plano para 0,30 ponto a menos de taxa. A partir de quanto o Premium compensa sobre o Basic está em [O que é a Lejour e como funciona](/reviews/lejour-como-funciona).",
@@ -84104,10 +84107,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prazo para o dinheiro cair na conta",
         "paragraphs": [
-          "O dinheiro passa por duas etapas: a liberação do presente, que depende de como o convidado pagou, e o saque para a conta do casal. Os prazos abaixo são dos sites oficiais em 16/10/2026."
+          "O dinheiro passa por duas etapas: a liberação do presente, que depende de como o convidado pagou, e o saque para a conta do casal. Os prazos abaixo são dos sites oficiais."
         ],
         "comparisonTable": {
-          "caption": "Prazos de liberação e saque, 16/10/2026",
+          "caption": "Prazos de liberação e saque",
           "headers": [
             "Etapa",
             "Lejour",
@@ -84156,7 +84159,7 @@ export const reviewsData: unknown[] = [
           "As três tratam o tempo de jeitos diferentes. Na Lejour, o plano é pago uma vez. No iCasei, o plano tem prazo. No Casar.com, o prazo é a data do casamento."
         ],
         "comparisonTable": {
-          "caption": "Tempo no ar do site e custo para manter, 16/10/2026",
+          "caption": "Tempo no ar do site e custo para manter",
           "headers": [
             "Plataforma",
             "Por quanto tempo o site fica aberto aos convidados",
@@ -84181,8 +84184,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na **Lejour**, a regra vem da central de ajuda (artigo de 24/10/2025). O painel do casal fica ativo por tempo indeterminado. Passados os 90 dias, o site sai do ar para os convidados, e o casal continua no painel, inclusive para resgatar o saldo. Quem quiser guardar o site tem um produto adicional que salva tudo em PDF.",
-          "No **iCasei**, o Basic é grátis apenas na contratação de 6 meses, e renovar é pago. O iCasei não publica o valor da renovação do Basic. Em 16/10/2026, o Classic custava R$ 79,90 (3 meses), R$ 89,90 (4), R$ 109,90 (6), R$ 129,90 (9) e R$ 149,90 (12). O Black custava R$ 149,90 (3 meses), R$ 159,90 (4), R$ 179,90 (6), R$ 199,90 (9) e R$ 209,90 (12). O Tailor Made custava R$ 1.999,90 por 12 meses. O Classic e o Black saem em até 6x, e o Tailor Made, em até 10x.",
+          "Na **Lejour**, a regra vem da central de ajuda . O painel do casal fica ativo por tempo indeterminado. Passados os 90 dias, o site sai do ar para os convidados, e o casal continua no painel, inclusive para resgatar o saldo. Quem quiser guardar o site tem um produto adicional que salva tudo em PDF.",
+          "No **iCasei**, o Basic é grátis apenas na contratação de 6 meses, e renovar é pago. O iCasei não publica o valor da renovação do Basic. O Classic custava R$ 79,90 (3 meses), R$ 89,90 (4), R$ 109,90 (6), R$ 129,90 (9) e R$ 149,90 (12). O Black custava R$ 149,90 (3 meses), R$ 159,90 (4), R$ 179,90 (6), R$ 199,90 (9) e R$ 209,90 (12). O Tailor Made custava R$ 1.999,90 por 12 meses. O Classic e o Black saem em até 6x, e o Tailor Made, em até 10x.",
           "Na prática, um casamento a mais de 6 meses de distância já não cabe no Basic: o plano vence antes da festa. Depois do vencimento, o casal ainda resgata o saldo sem custo por até 1 ano. O iCasei devolve o valor integral da assinatura se o cancelamento for pedido em até 7 dias do pagamento.",
           "No **Casar.com**, o site fica ativo até 30 dias depois do casamento, e o prazo se estende se a data mudar. Uma cópia do site para baixar custa R$ 39,90."
         ]
@@ -84193,7 +84196,7 @@ export const reviewsData: unknown[] = [
           "Quem quer receber produtos, e não só dinheiro, encontra três caminhos diferentes."
         ],
         "comparisonTable": {
-          "caption": "Como entram os presentes físicos em cada plataforma, 16/10/2026",
+          "caption": "Como entram os presentes físicos em cada plataforma",
           "headers": [
             "Plataforma",
             "Como entram os produtos",
@@ -84243,7 +84246,7 @@ export const reviewsData: unknown[] = [
           "Além do presente, o convidado pode pagar juros e, no iCasei, o cartão de mensagens."
         ],
         "comparisonTable": {
-          "caption": "O que o convidado paga no parcelamento, 16/10/2026",
+          "caption": "O que o convidado paga no parcelamento",
           "headers": [
             "Plataforma",
             "Parcelamento no cartão",
@@ -84369,16 +84372,16 @@ export const reviewsData: unknown[] = [
         "heading": "Como comparamos",
         "paragraphs": [
           "Este guia compara os travesseiros da I Wanna Sleep e da Ortobom em preço, teste e garantia, material, altura e pillow top, para quem quer gastar menos, testar em casa ou acertar a altura.",
-          "Usamos o que as duas marcas publicam nos próprios sites: lista de modelos, fichas de produto, garantia, troca e entrega. A Ortobom não é parceira do site: não entra com link nem código. Não testamos os travesseiros: os dados são dos sites oficiais em 16/10/2026.",
+          "Usamos o que as duas marcas publicam nos próprios sites: lista de modelos, fichas de produto, garantia, troca e entrega. A Ortobom não é parceira do site: não entra com link nem código. Não testamos os travesseiros: os dados são dos sites oficiais.",
           "Firmeza é só a que cada marca declara. Não medimos nada, e as avaliações de clientes não entram como prova.",
-          "O preço da Ortobom é o da página do produto, com São Paulo (capital) como cidade, porque o site muda o valor conforme a região. Consulta de 16/10/2026.",
-          "Lemos os 16 modelos de travesseiro da lista da Ortobom, com 12 fichas de produto, e as páginas de sete travesseiros da I Wanna Sleep. Nápoles, Amore e Soneca aparecem em buscas, mas não estão no catálogo online da Ortobom em 16/10/2026, então ficam de fora."
+          "O preço da Ortobom é o da página do produto, com São Paulo (capital) como cidade, porque o site muda o valor conforme a região.",
+          "Lemos os 16 modelos de travesseiro da lista da Ortobom, com 12 fichas de produto, e as páginas de sete travesseiros da I Wanna Sleep. Nápoles, Amore e Soneca aparecem em buscas, mas não estão no catálogo online da Ortobom, então ficam de fora."
         ]
       },
       {
         "heading": "Par a par por material",
         "paragraphs": [
-          "Cada linha põe o modelo da I Wanna Sleep ao lado do modelo da Ortobom de material parecido. Preços de 16/10/2026."
+          "Cada linha põe o modelo da I Wanna Sleep ao lado do modelo da Ortobom de material parecido."
         ],
         "comparisonTable": {
           "caption": "Dados dos sites oficiais em 16/10/2026, sem códigos de desconto. Preços da Ortobom com São Paulo (capital) como cidade.",
@@ -84439,7 +84442,7 @@ export const reviewsData: unknown[] = [
           "A ficha do Pró Látex, da Ortobom (14 × 40 × 60 cm, firme, R$ 259), traz os dois campos abaixo."
         ],
         "comparisonTable": {
-          "caption": "Campos da ficha do Pró Látex na Ortobom, consulta de 16/10/2026",
+          "caption": "Campos da ficha do Pró Látex na Ortobom",
           "headers": [
             "Campo da ficha",
             "Texto da ficha"
@@ -84462,7 +84465,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Escolha pelo jeito de dormir",
         "comparisonTable": {
-          "caption": "Só o que as marcas declaram nas páginas, consulta de 16/10/2026",
+          "caption": "Só o que as marcas declaram nas páginas",
           "headers": [
             "Posição",
             "I Wanna Sleep",
@@ -84514,10 +84517,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Teste, troca, garantia e frete",
         "paragraphs": [
-          "Dados dos sites oficiais em 16/10/2026. A I Wanna Sleep dá o teste mais claro: 30 dias nos travesseiros, com crédito para troca. A Ortobom não informa teste nas páginas de travesseiro; o que ela dá é garantia de 90 dias."
+          "A I Wanna Sleep dá o teste mais claro: 30 dias nos travesseiros, com crédito para troca. A Ortobom não informa teste nas páginas de travesseiro; o que ela dá é garantia de 90 dias."
         ],
         "comparisonTable": {
-          "caption": "Dados dos sites oficiais em 16/10/2026",
+          "caption": "Dados dos sites oficiais",
           "headers": [
             "Ponto",
             "I Wanna Sleep",
@@ -84561,7 +84564,7 @@ export const reviewsData: unknown[] = [
           "O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep, em todas as formas de pagamento. A página da loja diz que o desconto pode variar conforme a campanha. As regras estão na [página do cupom da I Wanna Sleep](/cupons/i-wanna-sleep)."
         ],
         "comparisonTable": {
-          "caption": "Conta nossa sobre o preço da página, sem frete, em 16/10/2026",
+          "caption": "Conta nossa sobre o preço da página, sem frete",
           "headers": [
             "Modelo I Wanna Sleep",
             "Com CECIEMCASA (conta nossa)"
@@ -84587,13 +84590,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A conta é nossa: 10% sobre o preço da página, sem frete. O valor final aparece no carrinho.",
-          "A Ortobom não tem cupom nosso: a marca não é parceira, e não temos código dela. O preço da Ortobom muda conforme a cidade informada no site. Em Belo Horizonte, consultados em 16/10/2026, os 11 modelos com preço na página tiveram os mesmos valores de São Paulo. O Essence Plus não trouxe preço nessa consulta."
+          "A Ortobom não tem cupom nosso: a marca não é parceira, e não temos código dela. O preço da Ortobom muda conforme a cidade informada no site. Em Belo Horizonte, consultados na mesma leitura, os 11 modelos com preço na página tiveram os mesmos valores de São Paulo. O Essence Plus não trouxe preço nessa consulta."
         ]
       },
       {
         "heading": "Pillow top: Magnum ou HR Gel",
         "paragraphs": [
-          "A I Wanna Sleep vende o Pillow Top Magnum Pluma AirFiber: 10 cm de altura quando afofado, segundo a marca, e R$ 1.947 no casal. A Ortobom vende o Pillow Top HR Gel: 6 cm de altura, com lâmina de espuma gel de 5 cm, e R$ 719 no casal, em 16/10/2026.",
+          "A I Wanna Sleep vende o Pillow Top Magnum Pluma AirFiber: 10 cm de altura quando afofado, segundo a marca, e R$ 1.947 no casal. A Ortobom vende o Pillow Top HR Gel: 6 cm de altura, com lâmina de espuma gel de 5 cm, e R$ 719 no casal.",
           "A diferença está na altura e no preço. O HR Gel custa pouco mais de um terço do Magnum e tem 4 cm a menos.",
           "Para tamanhos, instalação e cuidados do Magnum, leia [Pillow Top Magnum IWS vale a pena? Guia para colchão duro](/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas)."
         ]
