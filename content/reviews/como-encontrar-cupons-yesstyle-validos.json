@@ -106,7 +106,8 @@
     {
       "heading": "Entendendo os 2 campos de desconto no checkout (Coupon Code vs Reward Code)",
       "paragraphs": [
-        "O checkout da YesStyle tem dois campos separados, e o erro é trocar um pelo outro:"
+        "O checkout da YesStyle tem dois campos separados, e o erro é trocar um pelo outro:",
+        "Como o checkout tem campos separados, descontos elegíveis podem se somar se a campanha permitir. Confirme ambos no resumo do pedido."
       ],
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "imageAlt": "Tela de checkout da YesStyle exibindo os campos Coupon Code e Reward Code.",
@@ -115,8 +116,7 @@
       "bullets": [
         "1. Campo \"Coupon Code\" (Código de Cupom): É onde você insere os cupons promocionais do site da YesStyle (como cupons de liquidação ou campanhas de 10% a 15% OFF).",
         "2. Campo \"Reward Code\" / \"Influencer Code\" (Código de Recompensa): É onde você insere o código oficial de influenciadora CECILIA010, garantindo até 5% OFF extra."
-      ],
-      "emphasis": "Como o checkout tem campos separados, descontos elegíveis podem se somar se a campanha permitir. Confirme ambos no resumo do pedido."
+      ]
     },
     {
       "heading": "Como funciona o código CECILIA010: até 5% OFF extra",

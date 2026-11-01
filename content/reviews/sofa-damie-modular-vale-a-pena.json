@@ -11,6 +11,33 @@
     "recommendation": "recomendo",
     "summary": "Comprei, usei no dia a dia e recomendo: modularidade e conforto que justificam a escolha, com os pontos que eu observaria de novo antes de fechar a compra."
   },
+  "productSpec": [
+    {
+      "key": "Marca",
+      "value": "Damie"
+    },
+    {
+      "key": "Modelo testado",
+      "value": "Sofá modular de três lugares com puff"
+    },
+    {
+      "key": "Tempo de uso",
+      "value": "Primeiros meses de uso diário"
+    },
+    {
+      "key": "Teste em casa",
+      "value": "30 dias para devolver"
+    },
+    {
+      "key": "Cupom disponível",
+      "value": "CECILIA12, 12% off",
+      "highlight": true
+    },
+    {
+      "key": "Onde comprar",
+      "value": "Site oficial Damie"
+    }
+  ],
   "description": "Comprei o sofá modular Damie e usei no dia a dia. Aqui está o que me fez escolher, e o que eu observaria de novo antes de fechar a compra.",
   "metaDescription": "Sofá que chega na caixa, puff incluso, modular de verdade. O que levou a Cecília a escolher e o que observar antes de comprar.",
   "publishedAt": "26 Jun 2026",

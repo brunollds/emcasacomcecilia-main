@@ -173,7 +173,8 @@
     {
       "heading": "O que fazer se o cupom não funcionar?",
       "paragraphs": [
-        "Na maioria dos casos, o problema está em um dos pontos abaixo."
+        "Na maioria dos casos, o problema está em um dos pontos abaixo.",
+        "Se nada resolver, me avisa pelos comentários ou pelo grupo de promoções: eu testo o código na hora e atualizo este guia se algo tiver mudado."
       ],
       "bullets": [
         "Tentou no app do Magalu? É esperado não funcionar: estes códigos da Cecília só valem no navegador, na loja Magazine Você da Cecília. Abra a loja pelo navegador e tente de novo.",
@@ -181,8 +182,7 @@
         "Produto não vendido e entregue pelo Magalu: itens de lojistas parceiros do marketplace não aceitam o cupom. Verifique a informação de venda e entrega na página do produto.",
         "Código com erro de digitação: digite sem espaços, com letras maiúsculas e o número correto da faixa (10, 20, 30... até 100).",
         "Cache do navegador: limpe o cache, abra uma aba anônima ou teste outro navegador e refaça o login na loja."
-      ],
-      "emphasis": "Se nada resolver, me avisa pelos comentários ou pelo grupo de promoções: eu testo o código na hora e atualizo este guia se algo tiver mudado."
+      ]
     },
     {
       "heading": "Regras dos cupons da Cecília",

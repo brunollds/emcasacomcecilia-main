@@ -29102,6 +29102,33 @@ export const reviewsData: unknown[] = [
       "recommendation": "recomendo",
       "summary": "Comprei, usei no dia a dia e recomendo: modularidade e conforto que justificam a escolha, com os pontos que eu observaria de novo antes de fechar a compra."
     },
+    "productSpec": [
+      {
+        "key": "Marca",
+        "value": "Damie"
+      },
+      {
+        "key": "Modelo testado",
+        "value": "Sofá modular de três lugares com puff"
+      },
+      {
+        "key": "Tempo de uso",
+        "value": "Primeiros meses de uso diário"
+      },
+      {
+        "key": "Teste em casa",
+        "value": "30 dias para devolver"
+      },
+      {
+        "key": "Cupom disponível",
+        "value": "CECILIA12, 12% off",
+        "highlight": true
+      },
+      {
+        "key": "Onde comprar",
+        "value": "Site oficial Damie"
+      }
+    ],
     "description": "Comprei o sofá modular Damie e usei no dia a dia. Aqui está o que me fez escolher, e o que eu observaria de novo antes de fechar a compra.",
     "metaDescription": "Sofá que chega na caixa, puff incluso, modular de verdade. O que levou a Cecília a escolher e o que observar antes de comprar.",
     "publishedAt": "26 Jun 2026",
@@ -29245,7 +29272,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Diferente do CECILIA12 e do CECI, que descontam direto no carrinho, o CECILIA010 é um Reward Code, com campo próprio no checkout.",
           "A grande sacada é que ele possui um campo exclusivo e separado no checkout. Isso significa que ele é combinável com cupons promocionais elegíveis: você pode usá-lo ao mesmo tempo com cupons promocionais elegíveis no site, somando até 5% extra aos descontos do pedido.",
-          "Se você quer desconto direto no carrinho, os cupons do momento estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
+          "Se você quer desconto direto no carrinho, os cupons do momento estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
+          "O CECILIA010 não anula os cupons mensais da YesStyle: ele soma até 5% extra (5% na 1ª compra, 2% nas seguintes) aos cupons elegíveis. Use sempre os dois campos no checkout."
         ],
         "bullets": [
           "Código: CECILIA010",
@@ -29261,8 +29289,7 @@ export const reviewsData: unknown[] = [
             "label": "Ver cupom YesStyle atualizado",
             "href": "/cupons/yesstyle"
           }
-        ],
-        "emphasis": "Dica da Cecília: O CECILIA010 não anula os cupons de desconto mensais da YesStyle: ele soma até 5% extra (5% 1ª compra / 2% recorrente) a cupons elegíveis! Use sempre os dois campos no checkout para maximizar sua economia."
+        ]
       },
       {
         "heading": "Código de Recompensa vs. Cupom: a diferença crucial para economizar",
@@ -29323,9 +29350,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. Revise os descontos e finalize o pedido",
         "paragraphs": [
-          "Confirme se as duas camadas de desconto (código de recompensa + cupom) foram aplicadas com sucesso no subtotal do pedido. Preencha seus dados de entrega no Brasil, selecione a forma de pagamento (cartão ou PayPal) e confirme a compra."
-        ],
-        "emphasis": "Atenção: Garanta que você colocou o CECILIA010 e o cupom ativo em seus respectivos campos. Se você tentar colocar o código de influenciador no campo de cupom, o site dará erro."
+          "Confirme se as duas camadas de desconto (código de recompensa + cupom) foram aplicadas com sucesso no subtotal do pedido. Preencha seus dados de entrega no Brasil, selecione a forma de pagamento (cartão ou PayPal) e confirme a compra.",
+          "Confira se o CECILIA010 e o cupom ativo estão cada um no seu campo: o código de recompensa colocado no campo de cupom dá erro."
+        ]
       },
       {
         "heading": "Como combinar o código com cupons: o guia do stacking",
@@ -29377,7 +29404,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "K-Beauty no Brasil: o que as brasileiras buscam",
         "paragraphs": [
-          "A K-beauty (beleza coreana) se transformou em uma verdadeira febre de consumo no Brasil. O que começou como uma curiosidade de nicho impulsionada por fãs de K-pop e K-dramas se consolidou como uma das tendências mais fortes de cuidados com a pele no mercado brasileiro de cosméticos."
+          "A K-beauty (beleza coreana) se transformou em uma verdadeira febre de consumo no Brasil. O que começou como uma curiosidade de nicho impulsionada por fãs de K-pop e K-dramas se consolidou como uma das tendências mais fortes de cuidados com a pele no mercado brasileiro de cosméticos.",
+          "Comprar na YesStyle é uma das formas mais seguras de adquirir K-beauty original, pois o site compra direto das marcas e tem um portfólio muito maior do que os revendedores locais no Brasil."
         ],
         "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
         "imageAlt": "Seção de regiões da YesStyle com categorias de beleza japonesa, beleza chinesa e beleza do sudeste asiático.",
@@ -29387,8 +29415,7 @@ export const reviewsData: unknown[] = [
           "Glass skin: pele intensamente hidratada, luminosa e uniforme",
           "Rotina coreana: foco em etapas como double cleansing (limpeza dupla), tônicos hidratantes e essências nutritivas",
           "Ingredientes consagrados: centella asiática (calmante), snail mucin (baba de caracol para regeneração), propólis e ácido hialurônico"
-        ],
-        "emphasis": "Dica da Cecília: Comprar na YesStyle é uma das formas mais seguras de adquirir K-beauty originais, pois o site compra direto das marcas e possui um portfólio muito maior do que os revendedores locais no Brasil."
+        ]
       },
       {
         "heading": "O que comprar na YesStyle: guia por categoria",
@@ -29421,7 +29448,8 @@ export const reviewsData: unknown[] = [
         "heading": "Taxas e importação: o que pode ser cobrado",
         "paragraphs": [
           "Compras internacionais podem passar por análise alfandegária no Brasil e podem gerar impostos, taxas de importação, cobranças administrativas ou outras despesas relacionadas à liberação do pedido. Por isso, além de calcular produto e frete, vale considerar a possibilidade de custo extra antes de comprar.",
-          "A YesStyle diz que pedidos abaixo de US$ 1.000 podem ter reembolso de taxas alfandegárias, se você pagar primeiro, guardar o comprovante e pedir em até 30 dias. Esse reembolso, quando aprovado, é emitido como Crédito da Loja YesStyle."
+          "A YesStyle diz que pedidos abaixo de US$ 1.000 podem ter reembolso de taxas alfandegárias, se você pagar primeiro, guardar o comprovante e pedir em até 30 dias. Esse reembolso, quando aprovado, é emitido como Crédito da Loja YesStyle.",
+          "Antes de comprar, confira a página oficial de ajuda da YesStyle sobre reembolso de impostos e taxas alfandegárias, porque regras de importação e políticas da loja podem mudar."
         ],
         "bullets": [
           "Guarde o comprovante de pagamento de qualquer taxa alfandegária paga no Brasil",
@@ -29429,8 +29457,7 @@ export const reviewsData: unknown[] = [
           "O reembolso não é automático: depende da análise e das regras da política vigente da YesStyle",
           "Pedidos de US$ 1.000 ou mais não entram nessa política de reembolso informada pela marca",
           "O reembolso é feito como Crédito da Loja YesStyle, não necessariamente como dinheiro de volta no cartão"
-        ],
-        "emphasis": "Dica da Cecília: antes de comprar, confira a página oficial de ajuda da YesStyle sobre reembolso de impostos e taxas alfandegárias, porque regras de importação e políticas da loja podem mudar."
+        ]
       },
       {
         "heading": "Dicas para comprar na YesStyle: como encontrar as melhores ofertas",
@@ -29603,7 +29630,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entendendo os 2 campos de desconto no checkout (Coupon Code vs Reward Code)",
         "paragraphs": [
-          "O checkout da YesStyle tem dois campos separados, e o erro é trocar um pelo outro:"
+          "O checkout da YesStyle tem dois campos separados, e o erro é trocar um pelo outro:",
+          "Como o checkout tem campos separados, descontos elegíveis podem se somar se a campanha permitir. Confirme ambos no resumo do pedido."
         ],
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Tela de checkout da YesStyle exibindo os campos Coupon Code e Reward Code.",
@@ -29612,8 +29640,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "1. Campo \"Coupon Code\" (Código de Cupom): É onde você insere os cupons promocionais do site da YesStyle (como cupons de liquidação ou campanhas de 10% a 15% OFF).",
           "2. Campo \"Reward Code\" / \"Influencer Code\" (Código de Recompensa): É onde você insere o código oficial de influenciadora CECILIA010, garantindo até 5% OFF extra."
-        ],
-        "emphasis": "Como o checkout tem campos separados, descontos elegíveis podem se somar se a campanha permitir. Confirme ambos no resumo do pedido."
+        ]
       },
       {
         "heading": "Como funciona o código CECILIA010: até 5% OFF extra",
@@ -31976,6 +32003,45 @@ export const reviewsData: unknown[] = [
       "recommendation": "recomendo",
       "summary": "O topo da linha da Damie: dois motores independentes, ajuste de pescoço e conforto premium que justificam o investimento."
     },
+    "productSpec": [
+      {
+        "key": "Marca",
+        "value": "Damie"
+      },
+      {
+        "key": "Modelo",
+        "value": "Poltrona Levita, reclinável elétrica"
+      },
+      {
+        "key": "Mecanismo",
+        "value": "Dois motores independentes, ajuste de pescoço, bivolt"
+      },
+      {
+        "key": "Base",
+        "value": "Giratória, preto fosco"
+      },
+      {
+        "key": "Revestimentos",
+        "value": "Couro Bovino (6 cores) e Linho italiano (4 cores)"
+      },
+      {
+        "key": "Peso suportado",
+        "value": "Até 130 kg"
+      },
+      {
+        "key": "Garantia",
+        "value": "1 ano, com 30 dias para testar e devolver"
+      },
+      {
+        "key": "Cupom disponível",
+        "value": "CECILIA12, 12% off",
+        "highlight": true
+      },
+      {
+        "key": "Onde comprar",
+        "value": "Site oficial Damie"
+      }
+    ],
     "description": "Minha análise da Poltrona Levita Elétrica Damie: dois motores independentes, ajuste de pescoço, base giratória e conforto premium para quem busca o topo da linha.",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
@@ -32075,9 +32141,9 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Levita é produto premium: entenda isso antes de olhar o preço. O valor não está apenas na aparência, mas na soma de mecanismo elétrico, motores independentes, revestimento, estrutura, ergonomia e acabamento.",
           "Para decoração bonita, vá de Moon. Para descanso diário com ajustes precisos, a Levita justifica o investimento.",
-          "É o tipo de produto em que a pergunta não deve ser só “é caro?”, mas “vou usar de verdade?”. Se a resposta for sim, principalmente para TV, leitura, jogos, descanso ou rotina de relaxamento, ela entrega uma experiência bem acima do básico."
-        ],
-        "emphasis": "A Levita é uma poltrona para quem quer conforto como prioridade máxima. O investimento alto faz mais sentido quando ela vira parte real da rotina: assistir, jogar, ler, descansar, recuperar energia e transformar um canto da casa em espaço de relaxamento premium."
+          "É o tipo de produto em que a pergunta não deve ser só “é caro?”, mas “vou usar de verdade?”. Se a resposta for sim, principalmente para TV, leitura, jogos, descanso ou rotina de relaxamento, ela entrega uma experiência bem acima do básico.",
+          "A Levita é uma poltrona para quem quer conforto como prioridade máxima. O investimento alto faz mais sentido quando ela vira parte real da rotina: assistir, jogar, ler, descansar, recuperar energia e transformar um canto da casa em espaço de relaxamento premium."
+        ]
       },
       {
         "heading": "Sobre a Damie",
@@ -32115,7 +32181,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Poltrona Levita é o topo da linha para quem busca conforto, tecnologia e acabamento premium. O grande diferencial está nos dois motores independentes, no ajuste de pescoço e na possibilidade de encontrar posições mais personalizadas para relaxar.",
           "Ela não é a escolha mais barata, nem tenta ser. É uma poltrona para quem quer investir em conforto de alto nível e realmente vai usar esse conforto no dia a dia. Para esse público, a Levita vale o investimento."
-        ]
+        ],
+        "emphasis": "A Levita vale o investimento para quem vai usar o conforto todo dia; para quem quer só uma poltrona bonita pelo menor preço, ela não é a escolha."
       },
       {
         "heading": "Transparência",
@@ -32138,6 +32205,37 @@ export const reviewsData: unknown[] = [
       "recommendation": "recomendo",
       "summary": "Entrega em caixas, montagem simples e flexibilidade modular: conforto que vale o investimento para casas reais."
     },
+    "productSpec": [
+      {
+        "key": "Marca",
+        "value": "Damie"
+      },
+      {
+        "key": "Modelo",
+        "value": "Sofá Modular 3 lugares com puff"
+      },
+      {
+        "key": "Configurações",
+        "value": "De 2 a 6 lugares, em módulos"
+      },
+      {
+        "key": "Entrega",
+        "value": "Módulos em caixas, por transportadora"
+      },
+      {
+        "key": "Revestimentos",
+        "value": "Suede, Bouclé, Linho, Corino Importado e Couro Bovino"
+      },
+      {
+        "key": "Cupom disponível",
+        "value": "CECILIA12, 12% off",
+        "highlight": true
+      },
+      {
+        "key": "Onde comprar",
+        "value": "Site oficial Damie"
+      }
+    ],
     "description": "Uma análise do Sofá Damie Modular 3 Lugares com puff: entrega em caixas, montagem, flexibilidade, conforto e por que ele pode valer o investimento para casas reais.",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
@@ -32305,6 +32403,45 @@ export const reviewsData: unknown[] = [
       "recommendation": "recomendo",
       "summary": "Design escultural com base giratória 360° que funciona como peça de destaque na decoração, sem abrir mão do conforto."
     },
+    "productSpec": [
+      {
+        "key": "Marca",
+        "value": "Damie"
+      },
+      {
+        "key": "Modelo",
+        "value": "Poltrona Moon, giratória decorativa"
+      },
+      {
+        "key": "Base",
+        "value": "Giratória 360°, preto fosco"
+      },
+      {
+        "key": "Espuma e estrutura",
+        "value": "Espuma D33, madeira e compensado naval"
+      },
+      {
+        "key": "Revestimentos",
+        "value": "Bouclé (5 cores) e Linho (3 cores)"
+      },
+      {
+        "key": "Peso suportado",
+        "value": "Até 130 kg"
+      },
+      {
+        "key": "Garantia",
+        "value": "1 ano, com 30 dias para testar e devolver"
+      },
+      {
+        "key": "Cupom disponível",
+        "value": "CECILIA12, 12% off",
+        "highlight": true
+      },
+      {
+        "key": "Onde comprar",
+        "value": "Site oficial Damie"
+      }
+    ],
     "description": "Minha análise da Poltrona Moon da Damie: design escultural, base giratória 360°, tecidos premium e por que ela funciona como peça de destaque na decoração.",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
@@ -32417,16 +32554,17 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Poltrona Moon vale mais para quem enxerga decoração como parte da experiência da casa. Ela não é a escolha para quem procura uma poltrona reclinável cheia de funções, mas para quem quer uma peça bonita, giratória, confortável e capaz de transformar visualmente um canto do ambiente.",
           "O investimento se justifica quando você compara a Moon com móveis decorativos de alto impacto. Ela entrega acabamento, textura, base giratória, estrutura interna e uma estética que parece mais próxima de projeto de interiores do que de móvel genérico.",
-          "Se a prioridade é relaxar por horas vendo filme, vá de reclinável. Se a prioridade é criar um ambiente elegante, com uma peça confortável e visualmente forte, a Moon entra muito bem."
-        ],
-        "emphasis": "A Moon não é só visual: espuma D33 e estrutura de madeira com compensado naval buscam equilíbrio entre conforto e firmeza, para usar no dia a dia, não só admirar."
+          "Se a prioridade é relaxar por horas vendo filme, vá de reclinável. Se a prioridade é criar um ambiente elegante, com uma peça confortável e visualmente forte, a Moon entra muito bem.",
+          "A Moon não é só visual: espuma D33 e estrutura de madeira com compensado naval buscam equilíbrio entre conforto e firmeza, para usar no dia a dia, não só admirar."
+        ]
       },
       {
         "heading": "Veredito",
         "paragraphs": [
           "A Poltrona Moon é uma escolha forte para quem quer elevar o visual da casa com uma peça de design. Ela une formato escultural, base giratória 360°, tecidos nobres e uma proposta clara: ser confortável, mas também ser protagonista na decoração.",
           "Não é uma poltrona para quem busca reclinação, massagem ou funções elétricas. É uma poltrona decorativa premium. Dentro dessa proposta, faz sentido para salas, quartos, cantos de leitura e ambientes onde estética e conforto precisam andar juntos."
-        ]
+        ],
+        "emphasis": "A Moon é para quem quer uma peça de design que também sirva para sentar, na sala, no quarto ou no canto de leitura; para relaxar por horas vendo filme, a escolha é uma reclinável."
       },
       {
         "heading": "Cupom CECILIA12",
@@ -32794,15 +32932,15 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o cupom CECI da NESCAFÉ Dolce Gusto?",
         "paragraphs": [
           "O CECI dá 10% em produtos elegíveis no site oficial da DOLCE GUSTO no Brasil. Como regras comerciais podem mudar, o código é reconfirmado mensalmente e o valor exibido no checkout é sempre a referência final.",
-          "O código funciona em praticamente todo o catálogo do site, como detalham os itens abaixo."
+          "O código funciona em praticamente todo o catálogo do site, como detalham os itens abaixo.",
+          "Mesmo em promoções como Black Friday ou Dia das Mães, teste o cupom CECI no carrinho: em alguns períodos, ele pode somar com outras ofertas do site."
         ],
         "bullets": [
           "Cápsulas de café (todos os sabores e intensidades)",
           "Máquinas e cafeteiras DOLCE GUSTO",
           "Acessórios e peças de reposição",
           "Kits e combos promocionais"
-        ],
-        "emphasis": "Dica da Cecília: Mesmo durante promoções como Black Friday ou Dia das Mães, teste o cupom CECI no carrinho. Em alguns períodos, ele pode ser combinado com outras ofertas do site!"
+        ]
       },
       {
         "heading": "1. Escolha o produto no site oficial",
@@ -32849,7 +32987,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que fazer se o cupom CECI não funcionar?",
         "paragraphs": [
-          "Se o CECI não aplicar, o motivo está numa destas situações:"
+          "Se o CECI não aplicar, o motivo está numa destas situações:",
+          "O cupom CECI é verificado e atualizado regularmente. Se encontrar algum problema, avise nos comentários ou no WhatsApp do grupo de promoções para validarmos."
         ],
         "bullets": [
           "Código digitado incorretamente: Verifique se digitou CECI sem espaços ou caracteres extras.",
@@ -32858,8 +32997,7 @@ export const reviewsData: unknown[] = [
           "Produto excluído da promoção: Alguns produtos em oferta relâmpago ou liquidação podem não aceitar cupons adicionais.",
           "Cupom expirado: o código é reconfirmado todo mês. Se não funcionar, volte aqui para conferir o cupom válido do mês atual.",
           "Problema técnico no site: Limpe o cache do navegador, tente outro navegador ou entre em contato com o suporte da NESCAFÉ."
-        ],
-        "emphasis": "Importante: O cupom NESCAFÉ DOLCE GUSTO CECI é verificado e atualizado regularmente. Se você encontrar qualquer problema, nos avise nos comentários ou pelo WhatsApp do grupo de promoções para que possamos validar a situação."
+        ]
       },
       {
         "heading": "Regras e observações do cupom CECI",
@@ -32961,14 +33099,14 @@ export const reviewsData: unknown[] = [
         "heading": "Como funciona o Clube Dolce Gusto",
         "paragraphs": [
           "Se você já compra cápsulas todo mês, o Clube transforma caixa vazia em pontos: é o programa de fidelidade oficial da marca. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embalagens da Geração 1 ou preparando cápsulas NEO via aplicativo. Depois, esses pontos podem ser trocados por novas cápsulas, acessórios e prêmios na loja do clube.",
-          "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Em vez de jogar as caixas fora, registre os códigos das compras da rotina. Quem já tem cadastro ou já comprou na loja oficial tem a participação vinculada à mesma conta."
+          "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Em vez de jogar as caixas fora, registre os códigos das compras da rotina. Quem já tem cadastro ou já comprou na loja oficial tem a participação vinculada à mesma conta.",
+          "Os pontos expiram após 6 meses de inatividade na conta. Para mantê-los ativos, registre ao menos um código ou resgate um prêmio nesse período."
         ],
         "bullets": [
           "Quem pode participar: residentes do Brasil com 18 anos ou mais, com limite de uma conta por CPF.",
           "Como pontuar Geração 1: cadastrando os códigos alfanuméricos de 12 dígitos presentes no interior das embalagens.",
           "Como pontuar NEO: extraindo cápsulas na máquina NEO pareada com o aplicativo oficial da Dolce Gusto."
         ],
-        "emphasis": "Atenção às regras de validade: seus pontos expiram após 6 meses de inatividade na conta. Para mantê-los ativos, você precisa registrar pelo menos um código ou resgatar um prêmio dentro desse período.",
         "links": [
           {
             "label": "Acessar site oficial Dolce Gusto",
@@ -35744,7 +35882,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que fazer se o cupom não funcionar?",
         "paragraphs": [
-          "Na maioria dos casos, o problema está em um dos pontos abaixo."
+          "Na maioria dos casos, o problema está em um dos pontos abaixo.",
+          "Se nada resolver, me avisa pelos comentários ou pelo grupo de promoções: eu testo o código na hora e atualizo este guia se algo tiver mudado."
         ],
         "bullets": [
           "Tentou no app do Magalu? É esperado não funcionar: estes códigos da Cecília só valem no navegador, na loja Magazine Você da Cecília. Abra a loja pelo navegador e tente de novo.",
@@ -35752,8 +35891,7 @@ export const reviewsData: unknown[] = [
           "Produto não vendido e entregue pelo Magalu: itens de lojistas parceiros do marketplace não aceitam o cupom. Verifique a informação de venda e entrega na página do produto.",
           "Código com erro de digitação: digite sem espaços, com letras maiúsculas e o número correto da faixa (10, 20, 30... até 100).",
           "Cache do navegador: limpe o cache, abra uma aba anônima ou teste outro navegador e refaça o login na loja."
-        ],
-        "emphasis": "Se nada resolver, me avisa pelos comentários ou pelo grupo de promoções: eu testo o código na hora e atualizo este guia se algo tiver mudado."
+        ]
       },
       {
         "heading": "Regras dos cupons da Cecília",

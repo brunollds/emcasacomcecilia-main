@@ -11,6 +11,37 @@
     "recommendation": "recomendo",
     "summary": "Entrega em caixas, montagem simples e flexibilidade modular: conforto que vale o investimento para casas reais."
   },
+  "productSpec": [
+    {
+      "key": "Marca",
+      "value": "Damie"
+    },
+    {
+      "key": "Modelo",
+      "value": "Sofá Modular 3 lugares com puff"
+    },
+    {
+      "key": "Configurações",
+      "value": "De 2 a 6 lugares, em módulos"
+    },
+    {
+      "key": "Entrega",
+      "value": "Módulos em caixas, por transportadora"
+    },
+    {
+      "key": "Revestimentos",
+      "value": "Suede, Bouclé, Linho, Corino Importado e Couro Bovino"
+    },
+    {
+      "key": "Cupom disponível",
+      "value": "CECILIA12, 12% off",
+      "highlight": true
+    },
+    {
+      "key": "Onde comprar",
+      "value": "Site oficial Damie"
+    }
+  ],
   "description": "Uma análise do Sofá Damie Modular 3 Lugares com puff: entrega em caixas, montagem, flexibilidade, conforto e por que ele pode valer o investimento para casas reais.",
   "publishedAt": "18 Abr 2026",
   "publishedAtISO": "2026-04-18",

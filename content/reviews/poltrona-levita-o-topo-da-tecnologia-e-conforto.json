@@ -12,6 +12,45 @@
     "recommendation": "recomendo",
     "summary": "O topo da linha da Damie: dois motores independentes, ajuste de pescoço e conforto premium que justificam o investimento."
   },
+  "productSpec": [
+    {
+      "key": "Marca",
+      "value": "Damie"
+    },
+    {
+      "key": "Modelo",
+      "value": "Poltrona Levita, reclinável elétrica"
+    },
+    {
+      "key": "Mecanismo",
+      "value": "Dois motores independentes, ajuste de pescoço, bivolt"
+    },
+    {
+      "key": "Base",
+      "value": "Giratória, preto fosco"
+    },
+    {
+      "key": "Revestimentos",
+      "value": "Couro Bovino (6 cores) e Linho italiano (4 cores)"
+    },
+    {
+      "key": "Peso suportado",
+      "value": "Até 130 kg"
+    },
+    {
+      "key": "Garantia",
+      "value": "1 ano, com 30 dias para testar e devolver"
+    },
+    {
+      "key": "Cupom disponível",
+      "value": "CECILIA12, 12% off",
+      "highlight": true
+    },
+    {
+      "key": "Onde comprar",
+      "value": "Site oficial Damie"
+    }
+  ],
   "description": "Minha análise da Poltrona Levita Elétrica Damie: dois motores independentes, ajuste de pescoço, base giratória e conforto premium para quem busca o topo da linha.",
   "publishedAt": "18 Abr 2026",
   "publishedAtISO": "2026-04-18",
@@ -111,9 +150,9 @@
       "paragraphs": [
         "A Levita é produto premium: entenda isso antes de olhar o preço. O valor não está apenas na aparência, mas na soma de mecanismo elétrico, motores independentes, revestimento, estrutura, ergonomia e acabamento.",
         "Para decoração bonita, vá de Moon. Para descanso diário com ajustes precisos, a Levita justifica o investimento.",
-        "É o tipo de produto em que a pergunta não deve ser só “é caro?”, mas “vou usar de verdade?”. Se a resposta for sim, principalmente para TV, leitura, jogos, descanso ou rotina de relaxamento, ela entrega uma experiência bem acima do básico."
-      ],
-      "emphasis": "A Levita é uma poltrona para quem quer conforto como prioridade máxima. O investimento alto faz mais sentido quando ela vira parte real da rotina: assistir, jogar, ler, descansar, recuperar energia e transformar um canto da casa em espaço de relaxamento premium."
+        "É o tipo de produto em que a pergunta não deve ser só “é caro?”, mas “vou usar de verdade?”. Se a resposta for sim, principalmente para TV, leitura, jogos, descanso ou rotina de relaxamento, ela entrega uma experiência bem acima do básico.",
+        "A Levita é uma poltrona para quem quer conforto como prioridade máxima. O investimento alto faz mais sentido quando ela vira parte real da rotina: assistir, jogar, ler, descansar, recuperar energia e transformar um canto da casa em espaço de relaxamento premium."
+      ]
     },
     {
       "heading": "Sobre a Damie",
@@ -151,7 +190,8 @@
       "paragraphs": [
         "A Poltrona Levita é o topo da linha para quem busca conforto, tecnologia e acabamento premium. O grande diferencial está nos dois motores independentes, no ajuste de pescoço e na possibilidade de encontrar posições mais personalizadas para relaxar.",
         "Ela não é a escolha mais barata, nem tenta ser. É uma poltrona para quem quer investir em conforto de alto nível e realmente vai usar esse conforto no dia a dia. Para esse público, a Levita vale o investimento."
-      ]
+      ],
+      "emphasis": "A Levita vale o investimento para quem vai usar o conforto todo dia; para quem quer só uma poltrona bonita pelo menor preço, ela não é a escolha."
     },
     {
       "heading": "Transparência",
