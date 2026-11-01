@@ -32,9 +32,6 @@
     "bodyDates": 13,
     "datesOutsideBody": 14
   },
-  "como-encontrar-cupons-yesstyle-validos": {
-    "datesOutsideBody": 1
-  },
   "cupom-bagaggio-como-usar": {
     "bodyDates": 3,
     "datesOutsideBody": 5
@@ -99,13 +96,5 @@
     "transparencySection": true,
     "bodyDates": 6,
     "datesOutsideBody": 2
-  },
-  "yesstyle-entrega-no-brasil-e-portugal": {
-    "bodyDates": 11,
-    "datesOutsideBody": 11
-  },
-  "yesstyle-ou-stylevana": {
-    "bodyDates": 21,
-    "datesOutsideBody": 3
   }
 }
