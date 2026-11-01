@@ -120,7 +120,7 @@
     {
       "heading": "Quanto custa a mesa: faixa econômica",
       "paragraphs": [
-        "Preços do cartão em 29/10/2026, sem frete. Para 2 pessoas, a faixa econômica soma R$ 414,80. Para 4 pessoas, R$ 630,60."
+        "Preços do cartão, sem frete. Para 2 pessoas, a faixa econômica soma R$ 414,80. Para 4 pessoas, R$ 630,60."
       ],
       "comparisonTable": {
         "headers": [
@@ -184,7 +184,7 @@
     {
       "heading": "Quanto custa a mesa: faixa intermediária",
       "paragraphs": [
-        "Preços do cartão em 29/10/2026, sem frete. Para 2 pessoas, a faixa intermediária soma R$ 524,10. Para 4 pessoas, R$ 849,20. O faqueiro é o mesmo da faixa econômica."
+        "Preços do cartão, sem frete. Para 2 pessoas, a faixa intermediária soma R$ 524,10. Para 4 pessoas, R$ 849,20. O faqueiro é o mesmo da faixa econômica."
       ],
       "comparisonTable": {
         "headers": [
@@ -247,7 +247,7 @@
       "heading": "Frete, Pix e cupom",
       "paragraphs": [
         "O frete é calculado à parte, pelo CEP. O Pix dá 5% de desconto em muitos produtos, e o cupom MAUAD dá mais 5% sobre o subtotal, vale em todas as formas de pagamento e soma com o Pix.",
-        "Na faixa intermediária para 4 pessoas, R$ 849,20 viram R$ 806,74 só com o código e cerca de R$ 766,40 com o Pix por cima (conta nossa, com os preços de 29/10/2026; o valor exato aparece no checkout). As condições estão na [página de cupons da Let's Eat It](/cupons/letseatit)."
+        "Na faixa intermediária para 4 pessoas, R$ 849,20 viram R$ 806,74 só com o código e cerca de R$ 766,40 com o Pix por cima (conta nossa, com os mesmos preços; o valor exato aparece no checkout). As condições estão na [página de cupons da Let's Eat It](/cupons/letseatit)."
       ]
     },
     {
@@ -260,16 +260,10 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "O que comprar primeiro para a mesa posta? O tecido: um jogo americano e um guardanapo por pessoa, que funcionam com os pratos e talheres que você já tem.",
-        "Quanto custa uma mesa posta para 2 pessoas? Com as peças deste guia, a partir de R$ 414,80 no cartão, com o faqueiro de 12 peças inteiro, pelos preços de 29/10/2026.",
-        "Quanto custa uma mesa posta para 4 pessoas? De R$ 630,60 na faixa econômica a R$ 849,20 na intermediária, no cartão e sem frete, pelos preços de 29/10/2026.",
+        "Quanto custa uma mesa posta para 2 pessoas? Com as peças deste guia, a partir de R$ 414,80 no cartão, com o faqueiro de 12 peças inteiro, pelos preços do guia.",
+        "Quanto custa uma mesa posta para 4 pessoas? De R$ 630,60 na faixa econômica a R$ 849,20 na intermediária, no cartão e sem frete, pelos preços do guia.",
         "Dá para montar a mesa posta sem taça? Sim. A taça ficou fora da conta porque a Sphere só é vendida em jogo de 6, de R$ 289,00 a R$ 298,00.",
         "Guardanapo de tecido pode ir na máquina? Pela ficha do Poá Terracota e do Bordado Oliva, não: a lavagem é à mão, até 40 °C, sem secadora e sem alvejante."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Os preços deste artigo foram lidos no site da Let's Eat It em 29/10/2026. Preço de loja muda com promoção, então confira antes de comprar. Podemos receber comissão quando alguém compra pelo link da loja ou usa o cupom MAUAD. Ninguém da equipe comprou nem usou estas peças. O texto sai das fichas e das informações que a loja publica, não de experiência nossa."
       ]
     }
   ],
@@ -283,7 +277,7 @@
   },
   "coupon": "MAUAD",
   "affiliate": "letseatit",
-  "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+  "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estas peças.",
   "relatedArticles": [
     {
       "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",

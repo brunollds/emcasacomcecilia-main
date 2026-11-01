@@ -1,6 +1,7 @@
 {
   "id": 332,
   "slug": "black-friday-letseatit",
+  "bodyDatesReason": "campanha",
   "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto",
   "seoTitle": "Black Friday Let's Eat It 2026: Le Creuset e mesa posta",
   "type": "Guia de Black Friday",
@@ -46,7 +47,7 @@
       "heading": "A Let's Eat It tem Black Friday?",
       "paragraphs": [
         "Não encontramos anúncio oficial de Black Friday da Let's Eat It em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
-        "O que dá para mostrar é o que a loja já oferecia em outubro de 2026: a coleção Natal Let's, com 40% de desconto na maior parte das peças; a Porto Brasil com \"até 60% OFF\"; uma seleção de Le Creuset com desconto; e o Outlet's, com cerca de 750 produtos, a maioria entre 40% e 60% abaixo do preço riscado.",
+        "O que dá para mostrar é o que a loja já oferecia em outubro: a coleção Natal Let's, com 40% de desconto na maior parte das peças; a Porto Brasil com \"até 60% OFF\"; uma seleção de Le Creuset com desconto; e o Outlet's, com cerca de 750 produtos, a maioria entre 40% e 60% abaixo do preço riscado.",
         "Quando a Let's Eat It anunciar a campanha de 2026, as condições entram aqui, com o que mudou em relação a outubro."
       ],
       "image": {
@@ -60,7 +61,7 @@
     {
       "heading": "Le Creuset na Black Friday: preços de outubro para comparar",
       "paragraphs": [
-        "Em 8 de outubro de 2026, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica, e muitas delas estavam esgotadas."
+        "Em outubro, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica, e muitas delas estavam esgotadas."
       ],
       "image": {
         "src": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
@@ -71,7 +72,7 @@
       },
       "comparisonTable": {
         "caption": "Le Creuset na Let's Eat It em 8 de outubro de 2026. O preço cheio vale para a maioria das cores; o desconto, só para a cor indicada. No Pix, a página do produto mostra mais 5% de desconto.",
-        "headers": ["Peça", "Preço cheio", "Com desconto em 8/10/2026"],
+        "headers": ["Peça", "Preço cheio", "Com desconto"],
         "rows": [
           ["Panela Redonda Signature 20 cm, 2,4 L", "R$ 2.329", "Sem desconto"],
           ["Panela Redonda Signature 24 cm, 4,2 L", "R$ 2.949", "Sem desconto"],
@@ -107,8 +108,8 @@
         "aspectRatio": 1.7778
       },
       "comparisonTable": {
-        "caption": "Porto Brasil na Let's Eat It em 8 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
-        "headers": ["Peça", "Preço riscado", "Em 8/10/2026"],
+        "caption": "Porto Brasil na Let's Eat It em outubro: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
+        "headers": ["Peça", "Preço riscado", "Preço do dia"],
         "rows": [
           ["Aparelho de jantar Stoneware Orgânico, 30 peças (Preto Matte, Petroleum ou Arauco)", "R$ 1.446,67", "R$ 868"],
           ["Aparelho de jantar Stoneware Bio Oceano, 30 peças", "R$ 1.398,33", "R$ 839"],
@@ -126,8 +127,8 @@
       "bullets": [
         "**Pix:** 5% de desconto nas compras por Pix, segundo a página do produto.",
         "**Cashback de 30%:** depois da compra, a loja manda pelo WhatsApp um cupom de 30% do valor, válido por 30 dias. Ele só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 300 pede uma compra de R$ 2.100 e vira cerca de 14% de desconto nela.",
-        "**Cashback na Black Friday:** como o cupom vale 30 dias a partir da compra, uma compra feita a partir de 28 de outubro gera um cashback que ainda vale em 27 de novembro.",
-        "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. No nosso teste de 2 de outubro, ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
+        "**Cashback na Black Friday:** como o cupom vale 30 dias a partir da compra, uma compra feita a partir de 28 de outubro gera um cashback que ainda vale na Black Friday.",
+        "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. No nosso teste, ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
         "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 2.329, o MAUAD tira R$ 116,45, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 2.101,92, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
         "**O que não confirmamos:** se o cupom do cashback e o MAUAD entram no mesmo pedido. A página do cashback manda consultar as condições do dia, e o checkout mostra o total antes de pagar.",
         "**Frete:** não há frete grátis na compra. Ele é calculado pelo CEP e pelo peso do pedido."
@@ -146,10 +147,10 @@
     {
       "heading": "Presente de Natal: até quando pedir",
       "paragraphs": [
-        "A Let's Eat It conta o prazo de entrega a partir da confirmação do pagamento. Somando um dia útil de folga ao prazo mais longo de cada região, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+        "A Let's Eat It conta o prazo de entrega a partir da confirmação do pagamento. Somando um dia útil de folga ao prazo mais longo de cada região, fizemos a conta de até quando pagar para o pedido chegar antes do Natal."
       ],
       "comparisonTable": {
-        "caption": "Prazos da política de frete da Let's Eat It (atualizada em abril de 2026) e a nossa estimativa de data limite. A loja avisa que, em períodos promocionais, os prazos podem mudar.",
+        "caption": "Prazos da política de frete da Let's Eat It e a nossa estimativa de data limite. A loja avisa que, em períodos promocionais, os prazos podem mudar.",
         "headers": ["Região", "Prazo da loja", "Pagar até (estimativa)"],
         "rows": [
           ["São Paulo capital", "3 a 5 dias úteis", "16 de dezembro"],
@@ -189,15 +190,15 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quando é a Black Friday da Let's Eat It? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro. Até 8 de outubro de 2026, a Let's Eat It ainda não tinha anunciado campanha.",
-        "Le Creuset fica mais barata na Black Friday? Na Let's Eat It, em outubro de 2026, quase toda a Le Creuset estava pelo preço cheio, como a panela Redonda Signature de 20 cm a R$ 2.329. Se em novembro o preço ficar abaixo disso, o desconto é de verdade.",
+        "Quando é a Black Friday da Let's Eat It? A Black Friday de 2026 é na última sexta-feira de novembro, e a Cyber Monday, na segunda seguinte. Na nossa leitura de outubro, a Let's Eat It ainda não tinha anunciado campanha.",
+        "Le Creuset fica mais barata na Black Friday? Na Let's Eat It, em outubro, quase toda a Le Creuset estava pelo preço cheio, como a panela Redonda Signature de 20 cm a R$ 2.329. Se em novembro o preço ficar abaixo disso, o desconto é de verdade.",
         "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores.",
         "A Let's Eat It tem frete grátis? Não na compra: o frete é calculado pelo CEP e pelo peso do pedido. O envio da devolução é que sai por conta da loja.",
         "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
-        "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, de R$ 2.329 em outubro de 2026, sai por R$ 2.101,92, sem o frete.",
-        "O cashback da Let's Eat It vale na Black Friday? Vale se estiver dentro dos 30 dias: uma compra feita a partir de 28 de outubro gera um cupom que ainda vale em 27 de novembro, desde que a nova compra seja de pelo menos 7 vezes o valor do cupom.",
+        "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, de R$ 2.329 em outubro, sai por R$ 2.101,92, sem o frete.",
+        "O cashback da Let's Eat It vale na Black Friday? Vale se estiver dentro dos 30 dias: uma compra feita até 30 dias antes da Black Friday gera um cupom que ainda vale nela, desde que a nova compra seja de pelo menos 7 vezes o valor do cupom.",
         "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
-        "Até quando comprar para chegar antes do Natal? Pela nossa conta com o prazo mais longo da loja e um dia útil de folga, até 16 de dezembro em São Paulo capital e até 7 de dezembro no Norte e no Nordeste."
+        "Até quando comprar para chegar antes do Natal? Pela nossa conta com o prazo mais longo da loja e um dia útil de folga, a data limite vai de meados de dezembro em São Paulo capital ao começo de dezembro no Norte e no Nordeste; a tabela do guia traz cada região."
       ]
     }
   ],
