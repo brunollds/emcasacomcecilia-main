@@ -107,6 +107,28 @@ test('archive acima da guarda falha e é removido', (t) => {
   assert.equal(existsSync(archivePath), false);
 });
 
+test('script do build com export-ignore bloqueia o archive', (t) => {
+  const { root, repoDir } = fixture(t);
+  mkdirSync(path.join(repoDir, 'scripts'));
+  writeFileSync(path.join(repoDir, 'package.json'), '{"scripts":{"build":"tsx scripts/validate.ts"}}\n');
+  writeFileSync(path.join(repoDir, 'scripts', 'validate.ts'), 'export {};\n');
+  writeFileSync(path.join(repoDir, '.gitattributes'), 'scripts/validate.ts export-ignore\n');
+  execFileSync('git', ['add', '.'], { cwd: repoDir });
+  execFileSync(
+    'git',
+    ['-c', 'user.name=Test', '-c', 'user.email=test@example.invalid', 'commit', '--quiet', '-m', 'ignora'],
+    { cwd: repoDir },
+  );
+  const targetSha = execFileSync('git', ['rev-parse', 'HEAD'], { cwd: repoDir, encoding: 'utf8' }).trim();
+  const archivePath = path.join(root, 'blocked.tar.gz');
+
+  assert.throws(
+    () => createAttestedArchive({ targetSha, deployUuid: DEPLOY_UUID, archivePath, repoDir }),
+    /DEPLOY BLOQUEADO[\s\S]*scripts\/validate\.ts \(chamado pelo build\)/,
+  );
+  assert.equal(existsSync(archivePath), false);
+});
+
 test('falha de cleanup não mascara a causa original da montagem', (t) => {
   const { root, repoDir, targetSha } = fixture(t);
   const archivePath = path.join(root, 'archive-as-directory');
