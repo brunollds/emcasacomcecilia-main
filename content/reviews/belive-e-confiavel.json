@@ -45,7 +45,7 @@
   },
   "coupon": "MAUAD",
   "affiliate": "belive",
-  "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo MAUAD.",
+  "editorialNote": "Feito com fontes públicas. Não avaliamos sabor nem dieta. Podemos receber comissão pelo MAUAD.",
   "relatedArticles": [
     "belive-reclame-aqui-nota-reputacao",
     "cupom-belive-como-usar",
@@ -61,16 +61,16 @@
     {
       "heading": "De quem é a Belive?",
       "paragraphs": [
-        "Sim, a Belive é vendida por uma empresa registrada e ativa, segundo os dados públicos de CNPJ consultados em 16/10/2026.",
-        "A loja é operada pela NHD Foods Indústria, Comércio, Importação e Exportação Ltda., segundo o rodapé do site e o cadastro público de CNPJ.",
+        "Sim: empresa registrada e ativa, com o CNPJ ativo nos dados públicos consultados em 16/10/2026.",
+        "O rodapé do site e o cadastro público de CNPJ apontam a NHD Foods Indústria, Comércio, Importação e Exportação Ltda. como operadora da loja.",
         "O rodapé traz o CNPJ da filial, 21.541.988/0002-57, ativa desde 2015. A matriz é o CNPJ 21.541.988/0001-76, ativa desde 2014, o mesmo citado na política de privacidade. As duas unidades ficam em Uberaba (MG), segundo o cadastro público.",
-        "Segundo o site, a marca existe **desde 2015**."
+        "A marca existe **desde 2015**, diz o site."
       ]
     },
     {
       "heading": "Como saber se você está no site oficial",
       "paragraphs": [
-        "Antes de pagar, confira três coisas:"
+        "Confira domínio, CNPJ e https."
       ],
       "bullets": [
         "O domínio, na barra do navegador, é **belivebefree.com.br**, sem letra trocada. Isso importa mais quando o link chegou por anúncio ou mensagem.",
@@ -89,7 +89,7 @@
     {
       "heading": "O que a Belive vende",
       "paragraphs": [
-        "A loja vende pães, bisnaguinhas, doces, brownies, bolinhos, snacks e combos. Não avaliamos sabor nem dieta.",
+        "A loja vende pães, bisnaguinhas, doces, brownies, bolinhos, snacks e combos.",
         "Parte dos produtos é anunciada como **sem glúten** e **zero açúcar**. São declarações da loja e da embalagem, produto a produto. Se você é celíaco, diabético ou tem outra condição de saúde, converse com um médico ou nutricionista antes de comprar."
       ],
       "image": {
@@ -103,7 +103,7 @@
     {
       "heading": "Trocas, devoluções e defeito",
       "paragraphs": [
-        "As regras de troca e devolução do site, lidas no site:"
+        "As regras de troca e devolução, para decidir antes de pagar:"
       ],
       "comparisonTable": {
         "caption": "Regras de arrependimento e de defeito da Belive, segundo a FAQ do site",
@@ -135,7 +135,7 @@
     {
       "heading": "Frete, prazo e pagamento",
       "paragraphs": [
-        "O frete grátis depende do valor do pedido e da região. Segundo a página de regras de frete do site:"
+        "O frete grátis depende do valor do pedido e da região:"
       ],
       "comparisonTable": {
         "caption": "Valor de pedido para frete grátis da Belive por região, segundo a página de regras de frete",

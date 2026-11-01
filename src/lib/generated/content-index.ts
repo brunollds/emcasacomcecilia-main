@@ -77852,7 +77852,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Lejour é uma plataforma brasileira de casamento que faz o site do casal e a lista de presentes. Os presentes são virtuais: o convidado paga e o valor vira crédito em dinheiro ou em produtos da Fast Shop. Criar a lista é grátis no plano Basic, e os planos pagos baixam a taxa; veja abaixo qual escolher."
+          "Vai casar e precisa de site e lista de presentes? A Lejour é uma plataforma brasileira que junta os dois: os presentes são virtuais e viram crédito em dinheiro ou em produtos da Fast Shop. Criar a lista é grátis no plano Basic, e os planos pagos baixam a taxa; veja abaixo qual escolher."
         ]
       },
       {
@@ -77880,7 +77880,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona a lista de presentes da Lejour",
         "paragraphs": [
-          "Todos os presentes da lista são virtuais, segundo a central de ajuda da Lejour. O convidado entra no site do casal, escolhe um presente e paga. O valor vira crédito em dinheiro no painel do casal, e nada é entregue em casa.",
+          "Todos os presentes da lista são virtuais. O convidado entra no site do casal, escolhe um presente e paga. O valor vira crédito em dinheiro no painel do casal, e nada é entregue em casa.",
           "O convidado paga por Pix, boleto ou cartão. No cartão, pode parcelar em até 12x, com juros de 3,49% ao mês pagos por ele, e não pelo casal.",
           "Do lado do casal, o crédito fica no painel, e é de lá que sai o saque."
         ]
@@ -78022,7 +78022,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando o dinheiro cai na conta",
         "paragraphs": [
-          "Depende de como o convidado paga e de quando você pede o saque. Segundo a central de ajuda da Lejour, o caminho do presente até o seu Pix tem quatro etapas:"
+          "Depende de como o convidado paga e de quando você pede o saque. Do presente até o seu Pix são quatro etapas:"
         ],
         "postParagraphs": [
           "Na prática, o presente pago no cartão só pode ser sacado 15 dias corridos depois da compra, e o Pix chega em até 1 dia útil depois do pedido de saque.",
@@ -78058,7 +78058,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto tempo o site fica no ar",
         "paragraphs": [
           "O site do casal fica público até 90 dias depois do casamento. Depois disso, os convidados deixam de acessá-lo.",
-          "O painel de administração e o saldo continuam acessíveis depois disso, segundo a central de ajuda da Lejour."
+          "O painel de administração e o saldo continuam acessíveis depois disso."
         ]
       },
       {
@@ -78067,7 +78067,7 @@ export const reviewsData: unknown[] = [
           "**Basic:** casais que querem começar sem pagar ou esperam poucos presentes. Se você espera muitos presentes ou mais de 2 saques, compare com o Premium na tabela de planos acima.",
           "**Premium:** casais que esperam um volume maior de presentes ou fariam mais de 2 saques (preço, taxa e itens inclusos na tabela de planos acima).",
           "**Pro:** casais com convidados de vários países ou que querem todos os recursos (detalhes na tabela de planos acima).",
-          "Pelos recursos da tabela de planos do painel:"
+          "Na dúvida, comece no Basic: o Premium se paga a partir de R$ 16.650 em presentes."
         ],
         "postParagraphs": [
           "Para saber a partir de quanto a taxa menor paga o preço do plano, a conta é simples: o preço do plano dividido pela diferença entre as taxas. É uma conta nossa, feita com os números acima, e serve como orientação, não como promessa de economia:",
@@ -78125,6 +78125,15 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Vocês querem site, lista de presentes e confirmação de presença num lugar só, começando de graça.",
+        "Vocês topam receber os presentes como crédito em dinheiro ou em produtos da Fast Shop."
+      ],
+      "skipIf": [
+        "Vocês esperam que os presentes cheguem em casa, não como crédito."
+      ]
+    },
     "cta": {
       "text": "Crie o site e a lista grátis no plano Basic.",
       "label": "Criar a lista na Lejour",
@@ -78254,7 +78263,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. Monte a lista de presentes",
         "paragraphs": [
-          "A lista de presentes fica no menu \"Lista de presentes\". Segundo a central de ajuda da Lejour, há três jeitos de montar a lista:"
+          "A lista de presentes fica no menu \"Lista de presentes\". Há três jeitos de montar a lista:"
         ],
         "bullets": [
           "**Lista pronta.** São mais de 35 listas prontas, e dá para adicionar todos os itens de uma delas num clique.",
@@ -78269,7 +78278,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "6. Configure antes de divulgar: quem paga a taxa e o que acontece com o presente comprado",
         "paragraphs": [
-          "Segundo a central de ajuda da Lejour, antes de mandar o link para os convidados, abra Configurações e entre em \"Sobre site e lista\". Duas escolhas ficam ali, e vale decidi-las agora.",
+          "Antes de mandar o link para os convidados, abra Configurações e entre em \"Sobre site e lista\". A central de ajuda da Lejour lista duas escolhas ali, e vale decidi-las agora.",
           "**Quem paga a taxa.** A Lejour cobra uma taxa sobre cada presente: 3,89% no plano Basic, 3,29% no Premium e 2,99% no Pro. O casal decide quem arca com ela, e são duas opções:"
         ],
         "postParagraphs": [
@@ -78297,7 +78306,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "7. Ligue a confirmação de presença",
         "paragraphs": [
-          "A confirmação de presença é uma das seções do site que se ligam e desligam em \"Personalizar site\", como mostra o passo 4. Segundo a central de ajuda da Lejour, ela pode ser restrita aos convidados da lista de convidados. Se vocês usam essa restrição, confiram antes quem está na lista de convidados do painel."
+          "A confirmação de presença é uma das seções do site que se ligam e desligam em \"Personalizar site\", como mostra o passo 4. Ela pode ser restrita aos convidados da lista de convidados. Se vocês usam essa restrição, confiram antes quem está na lista de convidados do painel."
         ]
       },
       {
@@ -78411,7 +78420,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Inflow é a Sofá na Caixa?",
         "paragraphs": [
-          "Este guia compara Sofá na Caixa, Inflow e DAMIE em quatro pontos: teste em casa, garantia, preço e reputação no Reclame Aqui, com os dados que cada marca publica no próprio site. Começamos pela dúvida mais comum: Inflow e Sofá na Caixa são a mesma empresa?",
+          "Sofá na Caixa, Inflow e DAMIE são três empresas diferentes, comparadas aqui em teste, garantia, preço e Reclame Aqui. Começamos pela dúvida mais comum: Inflow e Sofá na Caixa são a mesma empresa?",
           "Não. São duas empresas diferentes, com CNPJ, cidade e data de abertura próprios. Os dados saem do rodapé de cada site e da consulta pública de CNPJ:"
         ],
         "bullets": [
@@ -78724,7 +78733,8 @@ export const reviewsData: unknown[] = [
           "**Quem quer o melhor atendimento segundo o Reclame Aqui:** Inflow, com RA1000 e 94% de reclamações resolvidas, lembrando que o histórico dela é curto.",
           "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste. Em qualquer uma, confira o frete no carrinho com o seu CEP.",
           "**Quem também está olhando a Valley Modular:** a comparação com ela está em [Valley Modular, Inflow ou DAMIE](/reviews/valley-inflow-ou-damie)."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a DAMIE, porque é a única com 30 dias de teste e 1 ano de garantia."
       },
       {
         "heading": "A experiência da Cecília com o sofá da DAMIE",
@@ -78762,7 +78772,17 @@ export const reviewsData: unknown[] = [
           "Qual entrega no Norte e no Nordeste? A DAMIE atende Norte e Nordeste pelo Mercado Livre, e o frete grátis dela vale no Sul e no Sudeste. A Inflow publica frete grátis só no Sul e no Sudeste. Confira o frete com o seu CEP no carrinho antes de fechar."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer testar o sofá em casa por 30 dias, com coleta e reembolso integral.",
+        "A garantia de 1 ano pesa mais para você do que o menor preço."
+      ],
+      "skipIf": [
+        "O menor preço decide sozinho, mesmo com 10 dias de teste e 3 meses de garantia.",
+        "Você prefere o atendimento melhor avaliado no Reclame Aqui e topa decidir antes de abrir a caixa."
+      ]
+    }
   },
   {
     "id": 429,
@@ -78825,7 +78845,7 @@ export const reviewsData: unknown[] = [
         "heading": "\"Na caixa\" quer dizer duas coisas diferentes",
         "paragraphs": [
           "Quem pergunta se sofá na caixa dura está juntando dois produtos que chegam do mesmo jeito e são feitos de formas diferentes.",
-          "O primeiro é a **espuma compactada**. A Inflow descreve o sofá assim: a espuma \"chega compactada na caixa e ganha forma diante dos seus olhos\". Você abre a embalagem, a espuma se expande e o sofá toma forma, sem montagem e sem ferramentas, segundo a marca. A Sofá na Caixa também vende sofás modulares entregues compactados em caixas.",
+          "O primeiro é a **espuma compactada**. A Inflow descreve o sofá assim: a espuma \"chega compactada na caixa e ganha forma diante dos seus olhos\". Você abre a embalagem, a espuma se expande e o sofá toma forma; a marca diz: sem montagem e sem ferramentas. A Sofá na Caixa também vende sofás modulares entregues compactados em caixas.",
           "O segundo são **módulos pré-estruturados para encaixar**. É o caso da DAMIE: a página do sofá modular fala em módulos \"pré-estruturados\", enviados em \"caixas reforçadas compactas\" e ligados por encaixe, em menos de 10 minutos. Na DAMIE, o que vem na caixa é um módulo com estrutura de madeira e molas, que não depende de a espuma voltar ao tamanho original.",
           "Não há número confiável de anos para nenhum dos dois tipos, nem sinal publicado de que a espuma compactada perca volume. O que dá para fazer é comparar a ficha. Para ver as marcas lado a lado, com regras de teste, devolução e preço, o comparativo é [Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher](/reviews/sofa-na-caixa-inflow-ou-damie)."
         ]
@@ -78943,7 +78963,7 @@ export const reviewsData: unknown[] = [
           "Depende da marca e do tipo de sofá na caixa:"
         ],
         "bullets": [
-          "**Modular com módulos pré-estruturados:** vem em módulos prontos. Na DAMIE, eles se encaixam em menos de 10 minutos, segundo a ficha. Você não parafusa um sofá do zero, só junta as peças.",
+          "**Modular com módulos pré-estruturados:** vem em módulos prontos. Na DAMIE, eles se encaixam em menos de 10 minutos. Você não parafusa um sofá do zero, só junta as peças.",
           "**Espuma compactada:** vem inteiro, mas comprimido. Na Inflow, a espuma ganha forma depois que a caixa é aberta, sem montagem nem ferramentas."
         ],
         "postParagraphs": [
@@ -78972,7 +78992,8 @@ export const reviewsData: unknown[] = [
           "**Apartamento com porta ou elevador estreito:** o sofá na caixa tem vantagem real, porque o que precisa passar é uma caixa, não o sofá inteiro.",
           "**Quem quer sentar antes de comprar:** o sofá montado de loja física leva vantagem. Entre os sofás na caixa, o teste em casa faz esse papel, e a DAMIE dá 30 dias.",
           "**Quem muda de casa ou de layout:** o sofá modular facilita, porque os módulos se separam e se reorganizam. Se a dúvida é o formato, veja [Sofá Modular ou Retrátil: Qual Escolher em 2026? Comparativo Real de Espaço e Conforto](/reviews/sofa-modular-ou-retratil-qual-escolher)."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o modular na caixa, porque são módulos de madeira com encaixe e 1 ano de garantia."
       },
       {
         "heading": "Cupom CECILIA12 para o sofá da DAMIE",
@@ -78998,7 +79019,16 @@ export const reviewsData: unknown[] = [
           "Qual a garantia de um sofá na caixa? Depende da marca. A DAMIE dá 1 ano e suporte vitalício com peças a preço de custo, a Sofá na Caixa dá 3 meses e a Inflow, 90 dias. Pelo Código de Defesa do Consumidor, o mínimo para reclamar de defeito em produto durável é 90 dias."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "A porta, o elevador ou a escada são estreitos para passar um sofá inteiro.",
+        "Você muda de casa ou de layout com frequência e quer módulos que se reorganizam."
+      ],
+      "skipIf": [
+        "Você quer sentar e ver o tecido de perto antes de pagar, sem depender de teste em casa."
+      ]
+    }
   },
   {
     "id": 430,
@@ -79047,7 +79077,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAX10EMCASACOMCECILIA",
     "affiliate": "max-titanium",
-    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo MAX10EMCASACOMCECILIA.",
+    "editorialNote": "Feito com fontes públicas, sem laudo nem teste dos produtos. Podemos receber comissão pelo MAX10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
         "slug": "max-titanium-reclame-aqui-nota-reputacao",
@@ -79101,7 +79131,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a Max Titanium vende",
         "paragraphs": [
           "A loja é de suplementos e de itens ligados a eles: whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos. Também há roupas, acessórios e coqueteleiras, que a política de trocas trata como produtos duráveis.",
-          "Este artigo não avalia os produtos. Dizer se um whey ou uma creatina é bom pediria laudo ou teste, e não temos nenhum dos dois. O que dá para verificar é quem vende, se o site é o oficial e o que acontece se você precisar trocar. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+          "Este artigo não avalia os produtos. O que dá para verificar é quem vende, se o site é o oficial e o que acontece se você precisar trocar. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
         ],
         "image": {
           "src": "/images/reviews/max-titanium/max-titanium-confiavel-capa.webp",
@@ -79147,7 +79177,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No arrependimento, a Max Titanium dá os meios para devolver o produto sem custo. O pedido vai para o e-mail do SAC, sac@supley.com.br, o mesmo do rodapé. Na troca por defeito, depois da análise, você escolhe entre a troca por um produto igual, o dinheiro de volta ou um cupom.",
-          "O reembolso é integral e inclui o frete pago na compra, na mesma forma de pagamento usada. A análise leva até 30 dias corridos a partir do recebimento do produto no Centro de Distribuição. Quando o pagamento foi no cartão, o estorno vem na fatura seguinte ou na outra, conforme a administradora.",
+          "O reembolso é integral e inclui o frete pago na compra, na mesma forma de pagamento usada. A análise leva até 30 dias corridos a partir do recebimento do produto no Centro de Distribuição. Quando o pagamento foi no cartão, o estorno vem na fatura seguinte ou na outra, no prazo da administradora.",
           "Para não perder o prazo, guarde a nota fiscal e abra o pedido assim que perceber o problema: os 7 dias correm do recebimento, e não da data da compra. Os Termos e Condições falam em 90 dias só para produtos duráveis; é a página de Troca e Devolução que separa os 30 dias dos suplementos dos 90 dias dos duráveis."
         ]
       },
@@ -79306,14 +79336,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar na Max Titanium",
         "paragraphs": [
-          "A Max Titanium vende pela internet suplementos como whey, creatina e pré-treinos. Quem compra pela primeira vez costuma ter duas dúvidas: o pedido chega no prazo, e o que acontece se vier algo errado ou se der problema depois? Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
+          "Quem compra suplemento pela internet tem duas dúvidas: o pedido chega no prazo, e o que acontece se der problema? O Reclame Aqui responde às duas com números. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
           "Toda loja que vende pela internet recebe reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. Os números abaixo são de 14/10/2026 e mudam todo dia: vale abrir o perfil de novo no dia da compra."
         ]
       },
       {
         "heading": "Os números da Max Titanium no Reclame Aqui",
         "paragraphs": [
-          "O perfil se chama \"Max Titanium Suplementos\". A reputação era **Boa** nas três janelas que o Reclame Aqui mostra: 6 meses, 12 meses e o ano de 2025. A tabela põe as três lado a lado, cada uma com o seu período:"
+          "A reputação era **Boa** nas três janelas do perfil \"Max Titanium Suplementos\": 6 meses, 12 meses e 2025. A tabela põe as três lado a lado, cada uma com o seu período:"
         ],
         "comparisonTable": {
           "caption": "Perfil Max Titanium Suplementos no Reclame Aqui, abas de 6 meses, de 12 meses e de 2025",
@@ -79404,7 +79434,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais aparece nas reclamações",
         "paragraphs": [
-          "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. A lista era esta:"
+          "Na aba geral, com reclamações de até 3 anos, o atraso lidera as queixas. A lista era esta:"
         ],
         "bullets": [
           "**Categoria:** Suplementos Alimentares, com 68,55%.",
@@ -79439,7 +79469,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o seu pedido der problema: o que fazer",
         "paragraphs": [
-          "A política da loja está em Troca e Devolução, no site, e o atendimento é da Supley, empresa que opera a loja. O rodapé trazia o SAC 4004-2696, os telefones (16) 3506-2045 e (16) 3506-2046, o e-mail sac@supley.com.br e o portal `atendimento.maxtitanium.com.br`. Os prazos e as regras estão detalhados em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Em resumo, o caminho é este:"
+          "Se o pedido der problema, o caminho é o atendimento da Supley, que opera a loja. O rodapé trazia o SAC 4004-2696, os telefones (16) 3506-2045 e (16) 3506-2046, o e-mail sac@supley.com.br e o portal `atendimento.maxtitanium.com.br`. Os prazos e as regras estão detalhados em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Em resumo, o caminho é este:"
         ],
         "bullets": [
           "**Pedido atrasado:** acompanhe o rastreio e guarde o número do pedido. Quando o prazo informado na compra vencer, abra um chamado em \"Problemas com seu pedido\", no portal de atendimento, ou fale com o SAC pelos telefones e pelo e-mail.",
@@ -79460,7 +79490,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Max Titanium?",
         "paragraphs": [
-          "Na consulta, a nota era 7,6 e a reputação Boa nos últimos 6 meses, com 97,5% das reclamações respondidas e 82,6% resolvidas. Os pontos de atenção são o tempo médio de resposta, de 7 dias e 9 horas, e o \"voltariam\", de 62,3%.",
+          "Os números sustentam a compra, com atenção ao prazo de entrega. Os pontos de atenção são o tempo médio de resposta, de 7 dias e 9 horas, e o \"voltariam\", de 62,3%.",
           "Quem compra pode confiar no básico, mas deve acompanhar o rastreio e abrir chamado cedo se o pedido atrasar, que é o problema mais citado. Sobre quem opera a loja e as trocas, veja [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel)."
         ]
       },
@@ -79569,7 +79599,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Digite MAX10EMCASACOMCECILIA em \"Cupom de Desconto\" e clique em \"Adicionar\"",
         "paragraphs": [
-          "No resumo do pedido está o campo \"Cupom de Desconto\", com o botão \"Adicionar\" ao lado. Digite o código **MAX10EMCASACOMCECILIA** e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
+          "No resumo do pedido, digite **MAX10EMCASACOMCECILIA** no campo \"Cupom de Desconto\" e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
           "Até clicar em \"Adicionar\", nada muda: o preço do item e o total seguem iguais. O desconto só entra depois do clique."
         ],
         "image": {
@@ -79583,7 +79613,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confira o desconto no resumo antes de pagar",
         "paragraphs": [
-          "Depois do clique, o resumo do pedido muda. O código aparece no resumo e também como etiqueta no item, e surge uma linha nova, \"Descontos\", com o valor abatido em reais e com sinal de menos.",
+          "Depois do clique, o resumo ganha a linha \"Descontos\", com o valor abatido em reais. O código aparece no resumo e como etiqueta no item.",
           "No nosso teste, a linha mostrou **R$ -16,75**, o preço do item foi para R$ 172,25 e o total ficou em R$ 172,25. Isso é cerca de 9% sobre os R$ 189,00 do whey, abaixo dos 10% do título. É por isso que o texto diz \"até 10%\": o percentual varia por produto, e não dá para tratar esse número como regra.",
           "A regra prática é: **confira a linha \"Descontos\" e o total antes de pagar**. Se o valor for menor do que você esperava, é porque o desconto daquele carrinho é menor do que 10%."
         ],
@@ -79693,7 +79723,7 @@ export const reviewsData: unknown[] = [
         "heading": "Se precisar trocar um produto comprado com cupom",
         "paragraphs": [
           "O cupom não muda o direito de troca: a compra segue as regras da loja. O quadro de trocas, devoluções e defeito está em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Os números da loja no Reclame Aqui estão em [Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/max-titanium-reclame-aqui-nota-reputacao).",
-          "Sobre o brinde, os Termos e Condições da loja dizem que ele é liberado conforme o valor mínimo da compra, definido no site, e que não se troca por outro modelo, cor ou tamanho, salvo defeito."
+          "Sobre o brinde, os Termos e Condições da loja dizem que a liberação segue o valor mínimo da compra, definido no site, e que não se troca por outro modelo, cor ou tamanho, salvo defeito."
         ]
       },
       {
@@ -79813,7 +79843,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Cléa Store vende",
         "paragraphs": [
-          "A Cléa Store é uma loja de moda feminina. O site reúne alfaiataria, blusas, camisas, vestidos, conjuntos, t-shirts e acessórios."
+          "A loja vende moda feminina: alfaiataria, blusas, camisas, vestidos, conjuntos, t-shirts e acessórios."
         ],
         "image": {
           "src": "/images/reviews/clea-store/clea-store-confiavel-capa.webp",
@@ -79826,7 +79856,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Devolução, defeito, arrependimento e troca",
         "paragraphs": [
-          "As regras estão em duas páginas do site, \"Troca e devolução\" e \"Termos de uso\", e cada uma cobre uma parte. As regras de cada situação estão no quadro:"
+          "Devolução grátis em 30 dias corridos; os prazos de defeito, arrependimento e troca estão no quadro:"
         ],
         "comparisonTable": {
           "caption": "Prazos de devolução, defeito, arrependimento e troca da Cléa Store, segundo as páginas de Troca e devolução e de Termos de uso do site",
@@ -79897,8 +79927,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazo e pagamento",
         "paragraphs": [
-          "Os dados desta seção são da faixa do topo, do rodapé e da política de entrega do site.",
-          "A faixa do topo da loja anuncia **frete grátis acima de R$ 599**. A política de entrega não traz esse valor, então confira no carrinho se ele ainda vale para o seu pedido.",
+          "A faixa do topo anuncia **frete grátis acima de R$ 599**. A política de entrega não traz esse valor, então confira no carrinho se ele ainda vale para o seu pedido.",
           "O prazo de entrega não é fixo: ele aparece no checkout, depois que você informa o CEP. As entregas saem pelos Correios e por transportadoras, de segunda a sexta, das 8h às 18h. Se ninguém atender, há até 3 tentativas de entrega. A loja entrega só no Brasil. Depois da compra, o rastreio fica no seu perfil no site.",
           "No pagamento, o rodapé informa cartão de crédito em até **6x sem juros** ou Pix. O site não informa desconto para pagamento no Pix."
         ]
@@ -79906,7 +79935,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cashback da Cléa Store",
         "paragraphs": [
-          "A página de cashback da loja explica o programa. As regras:"
+          "O cashback devolve 10% da compra em créditos, válidos por 30 dias:"
         ],
         "comparisonTable": {
           "caption": "Regras do cashback da Cléa Store, segundo a página de cashback do site",
@@ -80052,7 +80081,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar na Cléa Store",
         "paragraphs": [
-          "A Cléa Store é uma loja de moda feminina. Quem compra pela primeira vez costuma ter duas dúvidas: a peça chega, e o que acontece se vier algo errado ou se for preciso devolver?",
+          "Quem compra pela primeira vez costuma ter duas dúvidas: a peça chega, e o que acontece se vier algo errado ou se for preciso devolver?",
           "O Reclame Aqui ajuda a medir se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. O próprio site da loja liga ao perfil: o item \"Reviews\" do rodapé abre a página de avaliações da Cléa Store no Reclame Aqui.",
           "Os números abaixo são de 14/10/2026 e mudam todo dia: vale abrir o perfil de novo no dia da compra."
         ]
@@ -80060,7 +80089,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Cléa Store no Reclame Aqui",
         "paragraphs": [
-          "O perfil da Cléa Store fica na categoria Moda, e-commerce. O topo mostrava reputação **Boa**, o selo de **Empresa Verificada** e avaliações de compra de 4,8 em 5.",
+          "O perfil, na categoria Moda e e-commerce, tinha reputação **Boa**, selo de **Empresa Verificada** e 4,8 em 5 nas avaliações de compra.",
           "O selo de Empresa Verificada, nas palavras do Reclame Aqui, é dado a \"empresas aprovadas na nossa verificação mensal, que assegura que a empresa existe e é mais confiável\". O selo não avalia as peças.",
           "A tabela põe lado a lado as abas de 6 e de 12 meses, as duas até 30/09/2026:"
         ],
@@ -80192,7 +80221,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o seu pedido der problema: o que fazer",
         "paragraphs": [
-          "O atendimento da Cléa Store é pelo botão \"Fale com Atendente\" do site. Se é a primeira compra, acompanhe o rastreio desde o início; se tem pressa, fale com a loja assim que o prazo vencer. As regras de devolução, defeito e arrependimento estão nas páginas de política da loja. Em resumo, o caminho é este:"
+          "Se o pedido der problema, fale no botão \"Fale com Atendente\" do site. Se é a primeira compra, acompanhe o rastreio desde o início; se tem pressa, fale com a loja assim que o prazo vencer. As regras de devolução, defeito e arrependimento estão nas páginas de política da loja. Em resumo, o caminho é este:"
         ],
         "bullets": [
           "**Pedido atrasado ou não recebido:** guarde o número do pedido e acompanhe o rastreio no seu perfil do site. O prazo de entrega aparece no checkout. Quando ele vencer, escreva para o atendimento da loja, pelo botão \"Fale com Atendente\", com o número do pedido.",
@@ -80203,7 +80232,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O Em Casa com Cecília tem parceria com a Cléa Store e pode receber comissão pelas compras feitas com o cupom **CSEMCASACOMCECILIA**. Isso não mexe nos números deste artigo, que são todos do perfil público da empresa no Reclame Aqui.",
+          "O Em Casa com Cecília tem parceria com a Cléa Store e pode receber comissão pelas compras feitas com o cupom **CSEMCASACOMCECILIA**.",
           "O cupom dá 10% OFF em todo o site, vale em todas as formas de pagamento e funciona para conta nova e para quem já comprou na loja. Ele soma com as promoções e com o cashback, e não soma com outro cupom: a loja aceita um voucher por pedido. Os detalhes atualizados estão na [página do cupom da Cléa Store](/cupons/clea-store), e o passo a passo no carrinho, no artigo [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar)."
         ]
       },
@@ -80271,6 +80300,16 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CSEMCASACOMCECILIA",
     "affiliate": "clea-store",
+    "decision": {
+      "takeIf": [
+        "Você já ia comprar na Cléa Store e quer 10% OFF em todo o site",
+        "Você compra item em promoção e quer o desconto por cima, com o cashback junto"
+      ],
+      "skipIf": [
+        "Você espera frete grátis só com o cupom",
+        "Você quer somar dois cupons no mesmo pedido"
+      ]
+    },
     "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
@@ -80326,13 +80365,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Digite CSEMCASACOMCECILIA no campo do cupom",
         "paragraphs": [
-          "No \"Resumo do pedido\", ao lado de \"Cupom de desconto\", está o link \"Adicionar\". Clique nele, digite **CSEMCASACOMCECILIA** e confirme. Copiar o código pelo botão desta página evita erro de digitação."
+          "No \"Resumo do pedido\", clique em \"Adicionar\" ao lado de \"Cupom de desconto\", digite **CSEMCASACOMCECILIA** e confirme. Copiar o código pelo botão desta página evita erro de digitação."
         ]
       },
       {
         "heading": "4. Confira o desconto antes de pagar",
         "paragraphs": [
-          "Depois de aceito, o resumo muda. A loja mostra \"Cupom aplicado CSEMCASACOMCECILIA -R$ 25,80\" e uma linha \"Desconto\" com o mesmo valor, -R$ 25,80.",
+          "Depois de aceito, confira a linha \"Desconto\". A loja mostra \"Cupom aplicado CSEMCASACOMCECILIA -R$ 25,80\" e uma linha \"Desconto\" com o mesmo valor, -R$ 25,80.",
           "A conta do nosso teste:"
         ],
         "bullets": [
@@ -80354,7 +80393,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Antes do cupom, a tela mostrava \"Receba até R$ 25,80 de cashback\". Depois, passou a mostrar \"Receba até R$ 23,22 de cashback\". O resumo seguiu com o aviso \"Seu pedido vai gerar cashback!\".",
           "No teste, R$ 23,22 é 10% de R$ 232,20: o cashback saiu sobre o valor já com o cupom, e por isso o número caiu de R$ 25,80 para R$ 23,22.",
-          "A página de cashback da loja, diz como ele funciona:"
+          "A página de cashback da loja diz como ele funciona:"
         ],
         "bullets": [
           "Equivale a 10% em créditos, concedidos automaticamente ao comprar no site.",
@@ -80419,7 +80458,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se precisar devolver um produto comprado com cupom",
         "paragraphs": [
-          "A Cléa Store tem devolução grátis. O cupom, o cashback e o frete grátis não são reembolsados em caso de devolução, segundo a política de troca e devolução da loja.",
+          "A Cléa Store tem devolução grátis. Em caso de devolução, a política da loja não reembolsa cupom, cashback nem frete grátis.",
           "O quadro completo de prazos e do passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel). Os números da loja no Reclame Aqui estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
         ]
       },
@@ -80493,7 +80532,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando é a Black Friday da Black Skull?",
         "paragraphs": [
-          "A página da campanha diz que a Black Friday \"acontece na última sexta-feira de novembro\". Em 2026, essa sexta é 27 de novembro. A mesma página afirma que as ofertas ficam disponíveis durante todo o mês e que podem chegar a \"até 50% off\". Esse é o texto da loja: ela não diz quais produtos chegam a esse percentual, e não conferimos o número em nenhum item.",
+          "A página da campanha diz que a Black Friday \"acontece na última sexta-feira de novembro\". Em 2026, essa sexta é 27 de novembro. A mesma página afirma que as ofertas ficam disponíveis durante todo o mês e que podem chegar a \"até 50% off\". A loja não diz quais produtos chegam a esse percentual, e não conferimos o número em nenhum item.",
           "A Black Skull não informa data de início nem de fim. Quando conferimos, não achamos a página `/black-friday` no menu nem na home do site. Por isso, o texto dela não quer dizer que a campanha já começou.",
           "Em 2024, a campanha já estava na home 10 dias antes da sexta; em 2025, 12 dias antes. Nos registros da home guardados no web.archive.org, em 2024 o site já tinha a seção \"Black Friday Suplementos\" e o banner principal de Black Friday. Em 2025, o banner dizia \"BLACK FRIDAY BLACKSKULL | 50% OFF Whey, Creatina e Mais\". As datas de início e fim dessas campanhas não aparecem nos registros."
         ]
@@ -80629,7 +80668,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**Cartão de crédito:** em até 8 vezes sem juros, com parcela mínima de R$ 50. Com a parcela mínima de R$ 50, os R$ 251,91 do exemplo dão até 5 parcelas, de cerca de R$ 50 cada.",
+          "**Cartão de crédito:** em até 8 vezes sem juros, com parcela mínima de R$ 50. Com os R$ 251,91 do exemplo, dá até 5 parcelas, de cerca de R$ 50 cada.",
           "**Pix:** à vista.",
           "**Pix parcelado:** em 4 vezes sem juros.",
           "**Boleto:** só à vista."
@@ -80782,7 +80821,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando começa a Black Friday da Max Titanium?",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. Em 2026, a Max Titanium ainda não tinha dito nada na nossa última consulta. A home do site não trazia campanha de novembro, e a loja não tem página de Black Friday no site. O que existe é o **Max November**, que em 2024 durou o mês inteiro, não só a sexta-feira.",
+          "A Max Titanium ainda não anunciou a Black Friday de 2026. A sexta cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. A home do site não trazia campanha de novembro, e a loja não tem página de Black Friday no site. O que existe é o **Max November**, que em 2024 durou o mês inteiro, não só a sexta-feira.",
           "Em 2024, o Max November foi uma promoção com sorteio, \"Max te leva pra Roma\". Cada compra de qualquer valor no site, durante a campanha, dava um número da sorte para concorrer a uma viagem. O regulamento ficou publicado no próprio site da loja.",
           "Em 2025, a home em meados de novembro trazia banners do Max November de Boneco + Creatina, Whey Pro e Termogênicos, sem desconto legível. Este guia não cita percentual de 2025.",
           "Em 2024, a campanha começou logo no início do mês. É só uma referência, não uma promessa da loja. Quando a Max Titanium anunciar, a data e as regras entram aqui."
@@ -80869,7 +80908,7 @@ export const reviewsData: unknown[] = [
           "Os preços de lista só aparecem nos itens que a loja já vendia com desconto. Pela nossa conta, o Whey Blend estava 35% abaixo do preço de lista, o Top Whey 3W + Sabor, 31%, a Creatina 500g, 24%, e a Creatina 300 g, 20%. O Top Whey 3W + Sabor e o Top Whey 3W + Performance têm o mesmo preço de lista, R$ 273,55, mas em outubro o primeiro custava R$ 84,55 a menos.",
           "Na creatina, o pote maior saía mais barato por grama: R$ 17,51 por 100 g na de 500g, contra R$ 19,97 na de 300 g. Na linha de whey, a diferença entre o mais barato e o mais caro, por 100 g, passava de quatro vezes.",
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
-          "Um desconto de novembro só é vantagem se o preço do dia ficar abaixo desta tabela. O preço do site muda sem aviso; refaremos a consulta no fim de outubro."
+          "Um desconto de novembro só é vantagem se o preço do dia ficar abaixo desta tabela. O preço do site muda sem aviso, então confira no dia."
         ]
       },
       {
@@ -80913,8 +80952,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**O cupom abateu cerca de 9% sobre a promoção.** É por isso que o texto diz \"até 10%\": no whey do teste, o percentual ficou abaixo disso.",
-          "**O Pix é \"até 5%\".** A home anunciava Pix e boleto com até 5% OFF e 1x no cartão também com até 5% OFF."
+          "**O cupom abateu cerca de 9% sobre a promoção.** No whey do teste, o percentual ficou abaixo dos 10%.",
+          "**O Pix é \"até 5%\".** A home anunciava esse teto no Pix, no boleto e no 1x no cartão."
         ],
         "postParagraphs": [
           "Para o passo a passo do carrinho, veja [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar). As condições atualizadas ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
@@ -81066,7 +81105,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como o cupom entra na Black Friday",
         "paragraphs": [
-          "O **DREMCASACOMCECILIA** dá 10% OFF em todo o site oficial, com qualquer forma de pagamento. Ele soma com as promoções que estiverem no ar. A conferência é no carrinho, antes de pagar.",
+          "O **DREMCASACOMCECILIA** soma com as promoções: 10% OFF em todo o site, em qualquer pagamento. A conferência é no carrinho, antes de pagar.",
           "Os descontos entram no carrinho nesta ordem:"
         ],
         "bullets": [
@@ -81087,7 +81126,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis por região: a conta com o cupom",
         "paragraphs": [
-          "O frete grátis da Dr. Peanut depende de onde você mora, e a loja confere o mínimo sobre o **total já com o cupom**. A política era esta. O frete grátis vale na opção de entrega mais barata. Como o DREMCASACOMCECILIA tira 10%, o carrinho precisa passar do mínimo antes do desconto. A coluna da direita é a nossa conta: o valor mínimo dividido por 0,9, arredondado para cima."
+          "O frete grátis da Dr. Peanut depende de onde você mora, e a loja confere o mínimo sobre o **total já com o cupom**. O frete grátis vale na opção de entrega mais barata: Como o DREMCASACOMCECILIA tira 10%, o carrinho precisa passar do mínimo antes do desconto. A coluna da direita é a nossa conta: o valor mínimo dividido por 0,9, arredondado para cima."
         ],
         "comparisonTable": {
           "caption": "Frete grátis da Dr. Peanut por região: mínimo da loja, com o cupom já aplicado, e o subtotal mínimo antes do cupom pela nossa conta.",
@@ -81186,7 +81225,7 @@ export const reviewsData: unknown[] = [
     "cons": [
       "Em 14 de outubro, a Probiótica não tinha publicado página nem data de Black Friday",
       "O percentual do cupom varia por produto, e em alguns é menor que 10%",
-      "Kit não recebe promoção, segundo os termos da loja",
+      "Kit não recebe promoção, dizem os termos da loja",
       "O cupom pode derrubar o total abaixo do mínimo do frete grátis",
       "As promoções podem sair do site sem aviso prévio quando o estoque acaba"
     ],
@@ -81214,7 +81253,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de outubro para comparar",
         "paragraphs": [
-          "Estes são os preços do catálogo público do site, antes do cupom e do Pix. Não são preços de Black Friday. O preço da loja muda, então use a tabela como régua: se em novembro o preço do dia ficar abaixo do dela, o produto está mais barato que em outubro."
+          "A régua é o catálogo público do site, antes do cupom e do Pix. Não são preços de Black Friday. O preço da loja muda, então use a tabela como régua: se em novembro o preço do dia ficar abaixo do dela, o produto está mais barato que em outubro."
         ],
         "comparisonTable": {
           "caption": "Preços da Probiótica em 14 de outubro de 2026: preço do dia e preço riscado, antes do cupom e do Pix.",
@@ -81416,14 +81455,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como foi a Black Friday da Cléa Store em 2025?",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. Até agora, a Cléa Store não anunciou a campanha deste ano: o site tem a categoria Black Friday no menu, sem data nem percentual.",
-          "Em 2025, a Black Friday da Cléa foi anunciada na própria loja. Na home de novembro de 2025, conforme o registro do Internet Archive, o menu trazia \"BLACK FRIDAY - ATÉ 75% OFF\" e \"KIT LEVE 3 PAGUE 2\". A faixa do topo dizia: \"BLACK FRIDAY CLÉA • ATÉ 75% OFF • KITS LEVE 3 PAGUE 2 • 10% DE CASHBACK\".",
+          "A Cléa Store ainda não anunciou a campanha deste ano: o menu tem a categoria Black Friday, sem data nem percentual. A sexta de 2026 cai em 27 de novembro, e a Cyber Monday, em 30 de novembro.",
+          "Em 2025, a Black Friday da Cléa foi anunciada na própria loja. Na home de novembro de 2025, no registro do Internet Archive, o menu trazia \"BLACK FRIDAY - ATÉ 75% OFF\" e \"KIT LEVE 3 PAGUE 2\". A faixa do topo dizia: \"BLACK FRIDAY CLÉA • ATÉ 75% OFF • KITS LEVE 3 PAGUE 2 • 10% DE CASHBACK\".",
           "São três regras que a loja destacou:"
         ],
         "bullets": [
           "**Até 75% OFF:** o teto do desconto. A faixa não diz em quais peças nem quanto era o desconto das demais.",
           "**Kits \"leve 3 pague 2\":** você leva três peças e paga duas.",
-          "**10% de cashback:** em créditos, segundo a página de cashback da loja. As regras estão mais abaixo, na seção sobre frete, devolução e cashback."
+          "**10% de cashback:** em créditos, diz a página de cashback da loja. As regras estão mais abaixo, na seção sobre frete, devolução e cashback."
         ],
         "postParagraphs": [
           "O registro de 2025 não traz as datas de início e fim da campanha. Na home de novembro de 2024, o Internet Archive não mostra texto de Black Friday. É histórico: a loja não confirmou que repete o formato em 2026."
@@ -81655,7 +81694,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como foi a Black Friday da Lejour em 2025",
         "paragraphs": [
           "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, na segunda seguinte. Na última conferência, a Lejour ainda não tinha anunciado promoção para este ano: a home não trazia faixa de campanha. Este guia é atualizado quando a Lejour anunciar o que muda.",
-          "Em 2025, a Lejour não fez uma promoção só. A faixa do topo do site mudou de oferta ao longo do segundo semestre, segundo os registros do site guardados no Internet Archive:"
+          "Em 2025, a Lejour não fez uma promoção só. Os registros do site no Internet Archive mostram a faixa do topo mudando de oferta ao longo do segundo semestre:"
         ],
         "bullets": [
           "Nas capturas de maio ao início de novembro de 2025, a faixa era o \"Natal Lejour\": Plano Premium por R$ 99,90.",
@@ -81671,7 +81710,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Planos e taxas da Lejour hoje",
         "paragraphs": [
-          "A Lejour tem três planos. O Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour na leitura de preços, sem preço de campanha. O Premium já aparecia com desconto sobre o preço cheio, e esse preço pode mudar."
+          "São três planos, e o Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour na leitura de preços, sem preço de campanha. O Premium já aparecia com desconto sobre o preço cheio, e esse preço pode mudar."
         ],
         "comparisonTable": {
           "headers": [
@@ -81889,7 +81928,7 @@ export const reviewsData: unknown[] = [
           "Confira o carrinho: a T-Shirt aparece como item, com R$ 129,00 riscado e R$ 0,00. No nosso teste, ela entrou na cor Preto, tamanho P."
         ],
         "postParagraphs": [
-          "Segundo a própria loja, a T-Shirt Oversized é o best-seller da marca, feita em 100% algodão penteado premium.",
+          "A loja chama a T-Shirt Oversized de best-seller da marca: 100% algodão penteado premium.",
           "Fora da promoção, a T-Shirts Oversized Algodão é vendida por **R$ 129,00**. No teste, o site tinha 10 cores à venda: azul claro, azul marinho, caramelo, marrom, off white, preto, rosa claro, verde oliva, vermelho e vinho, nos tamanhos P, M e G. As cores e os tamanhos do brinde são os disponíveis na janela, que podem ser menos que os da peça vendida."
         ]
       },
@@ -81969,7 +82008,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, cashback e devolução",
         "paragraphs": [
-          "A faixa do site traz mais três regras da loja, além do brinde. Elas valem no mesmo pedido."
+          "Além do brinde, três regras da faixa valem no mesmo pedido: frete, cashback e devolução."
         ],
         "bullets": [
           "**Frete grátis acima de R$ 599.** No nosso teste, com o total de R$ 477,09, a barra do topo dizia \"Faltam R$ 121,91 para frete grátis\". 599,00 − 477,09 = 121,91: a loja conta o total **depois do cupom**, não o preço de tabela nem o subtotal. Abaixo de R$ 599, o frete é calculado pelo CEP, no link \"Calcular\" do resumo do pedido. Se o carrinho está perto dos R$ 599, aplique o cupom primeiro e confira a barra depois.",
@@ -82194,13 +82233,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Roupas íntimas",
         "paragraphs": [
-          "São duas calcinhas e duas cuecas, e as duas calcinhas estão entre as maiores quedas da seleção. Segundo a Insider, a Boxer Comfort é a cueca macia e respirável para o dia a dia, e a Boxer Performance foi feita para o esporte, com secagem rápida e proteção contra atrito e assaduras."
+          "São duas calcinhas e duas cuecas, e as duas calcinhas estão entre as maiores quedas da seleção. A página da Insider apresenta a Boxer Comfort como a cueca macia e respirável do dia a dia, e a Boxer Performance como a do esporte, com secagem rápida e proteção contra atrito e assaduras."
         ]
       },
       {
         "heading": "Calcinha Biquíni Brief",
         "paragraphs": [
-          "A versão da Insider para a calcinha biquíni tradicional, com design minimalista que, segundo a loja, não marca na pele. O forro é de fibra de origem natural, e a loja destaca a respirabilidade, a evaporação rápida do suor e o tecido antiodor."
+          "A versão da Insider para a calcinha biquíni tradicional, com design minimalista que não marca na pele, diz a página. O forro é de fibra de origem natural, e a loja destaca a respirabilidade, a evaporação rápida do suor e o tecido antiodor."
         ],
         "bullets": [
           "Preço: de R$ 69,00 por R$ 41,40 no site; com o cupom, **R$ 35,19** (49% abaixo da tabela).",
@@ -82222,7 +82261,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calcinha Hot Pant Safe",
         "paragraphs": [
-          "A hot pant da Insider tem mais cobertura que a Brief. Segundo a loja, o forro é de fibra de origem natural ultramacia e com alta absorção, e o tecido é respirável e antiodor."
+          "A hot pant da Insider tem mais cobertura que a Brief. O forro é de fibra de origem natural ultramacia e com alta absorção, e o tecido é respirável e antiodor, diz a página."
         ],
         "bullets": [
           "Preço: de R$ 79,00 por R$ 47,40 no site; com o cupom, **R$ 40,29** (49% abaixo da tabela).",
@@ -82244,7 +82283,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cueca Confortável Boxer Comfort",
         "paragraphs": [
-          "Um dos best-sellers da Insider, segundo a própria loja, feita com o tecido SOFTOUCH™ para maciez e respirabilidade no dia a dia. A loja diz que ela não aperta nem enrola nas pernas, e a versão antissuor tem uma camada extra de tecido na parte de trás."
+          "O site lista a Boxer Comfort entre os best-sellers: tecido SOFTOUCH™, macia e respirável no dia a dia. A loja diz que ela não aperta nem enrola nas pernas, e a versão antissuor tem uma camada extra de tecido na parte de trás."
         ],
         "bullets": [
           "Preço: de R$ 85,00 por R$ 79,00 no site; com o cupom, **R$ 67,15** (21% abaixo da tabela).",
@@ -82265,7 +82304,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cueca Boxer Performance",
         "paragraphs": [
-          "A cueca da Insider para esportes. Segundo a loja, é ultrarresistente, evita atrito e assaduras entre as pernas e tem elastano com alta resistência ao cloro."
+          "A cueca da Insider para esportes: a página diz que é ultrarresistente, evita atrito e assaduras entre as pernas e tem elastano com alta resistência ao cloro."
         ],
         "bullets": [
           "Preço: de R$ 95,00 por R$ 79,00 no site; com o cupom, **R$ 67,15** (29% abaixo da tabela). Os R$ 79,00 valem na Branca (P ao XGG) e na Preta modelo Anti Suor em PP, P, XGG e XXGG; nas outras opções, de R$ 85,00 a R$ 95,00.",
@@ -82293,7 +82332,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Blusa de Alça Feminina The Perfect Top",
         "paragraphs": [
-          "Segundo a Insider, é uma blusa de alça para o dia a dia, de tecido tecnológico e modelo ajustado ao corpo. Tem forro duplo no busto e bojo removível, com sustentação leve a média. A loja também cita proteção UV+50 e evaporação muito rápida do suor."
+          "Blusa de alça para o dia a dia, de tecido tecnológico e modelo ajustado ao corpo. Tem forro duplo no busto e bojo removível, com sustentação leve a média. A loja também cita proteção UV+50 e evaporação muito rápida do suor."
         ],
         "bullets": [
           "Preço: de R$ 139,00 por R$ 135,00 no site; com o cupom, **R$ 114,75** (17% abaixo da tabela).",
@@ -82314,7 +82353,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech T-Shirt®",
         "paragraphs": [
-          "É a camiseta mais conhecida da Insider, feita com o tecido INTECH®, com a maciez do modal. Segundo a loja, a tecnologia antiodor permite usar mais e lavar menos, e a peça desamassa no corpo. É a única da marca com garantia de 2 anos contra desbotamento, para peças lavadas conforme a etiqueta. Para comparar com outras marcas, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
+          "É a camiseta mais conhecida da Insider, feita com o tecido INTECH®, com a maciez do modal. A tecnologia antiodor permite usar mais e lavar menos, e a peça desamassa no corpo, diz a página. É a única da marca com garantia de 2 anos contra desbotamento, para peças lavadas conforme a etiqueta. Para comparar com outras marcas, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
         ],
         "bullets": [
           "Preço: de R$ 169,00 por R$ 139,00 no site; com o cupom, **R$ 118,15** (30% abaixo da tabela).",
@@ -82357,7 +82396,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Blusa Skin Cropped",
         "paragraphs": [
-          "É um cropped para usar como segunda pele, no treino ou como peça principal. Segundo a Insider, o tecido SOFTOUCH™ tem toque ultramacio, é respirável, seca rápido e é antiodor."
+          "É um cropped para usar como segunda pele, no treino ou como peça principal. A página do produto promete tecido SOFTOUCH™ ultramacio, respirável, de secagem rápida e antiodor."
         ],
         "bullets": [
           "Preço: de R$ 119,00 por R$ 99,00 no site; com o cupom, **R$ 84,15** (29% abaixo da tabela). Os R$ 99,00 valem na Preta em P, G, GG e XGG (o M sai a R$ 119,00); nas outras cores, de R$ 109,00 a R$ 119,00, conforme o tamanho.",
@@ -82650,7 +82689,7 @@ export const reviewsData: unknown[] = [
           "**Pelos botões desta seleção:** a página do produto já abre com o cupom aplicado, e o preço aparece com a indicação \"com cupom EMCASACOMCECILIA\".",
           "**Um cupom por pedido:** o EMCASACOMCECILIA não soma com outro código.",
           "**Fora do cupom:** compras na loja física e, nos primeiros dias, alguns lançamentos.",
-          "**Kits \"Compre 1, ganhe 1\":** segundo a página do kit, essa promoção da loja não soma com cupom.",
+          "**Kits \"Compre 1, ganhe 1\":** a página do kit diz que essa promoção da loja não soma com cupom.",
           "**Tamanho:** algumas peças têm modelagem justa. Confira a [tabela de medidas da Insider](/reviews/tabela-de-medidas-insider) antes de escolher.",
           "**Onde digitar o código:** veja [Como usar o cupom EMCASACOMCECILIA na Insider](/reviews/cupom-emcasacomcecilia-insider-store-como-usar)."
         ]
@@ -82742,7 +82781,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: proteína, porção e preço por dose",
         "paragraphs": [
-          "Oito opções das duas lojas, pela mesma régua. Preços do catálogo em 16/10/2026, antes do cupom; as contas por dose e por proteína são nossas."
+          "Oito opções das duas lojas, comparadas pelo preço por 100 g de proteína. Preços do catálogo em 16/10/2026, antes do cupom."
         ],
         "comparisonTable": {
           "caption": "Oito opções das duas lojas, pela mesma régua. Preços do catálogo, antes do cupom; as contas por dose e por proteína são nossas.",
@@ -83076,6 +83115,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
+        "emphasis": "Pelos números da tabela, para o perfil de menor preço a escolha é a Black Skull, porque o Whey 80% HD e o Creator têm o menor preço por proteína e por dose. Para mais proteína por dose, a Max Titanium leva.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "A escolha aqui é por critério de compra, com os números do rótulo e os preços:"
         ],
@@ -83105,6 +83146,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você decide pelo menor preço por 100 g de proteína no whey ou pelo menor preço por dose de creatina."
+      ],
+      "skipIf": [
+        "Você quer mais proteína por dose e aceita pagar mais por ela: aí é a Max Titanium.",
+        "Você quer creatina Creapure: só a Max Titanium vende.",
+        "Você decide pelo sabor, pela dissolução ou pela digestão: a comparação é só de rótulo e preço."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -83187,7 +83238,7 @@ export const reviewsData: unknown[] = [
           "**Preço por dose da creatina (conta nossa):** o preço dividido pelo número de porções da tabela."
         ],
         "postParagraphs": [
-          "Não houve teste nem degustação. Por isso o texto diz quantos sabores cada linha tem, sem comparar o gosto."
+          "Gosto, só provando: compare pelo número de sabores de cada linha."
         ]
       },
       {
@@ -83542,6 +83593,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
+        "emphasis": "Pelos números da tabela, para quem decide por proteína por porção a escolha é a Max, porque o concentrado e o 3W dela têm mais proteína por porção. Para mais sabores, zero lactose ou sachês e cápsulas de creatina, a escolha é a Probiótica.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "O veredito por tipo de produto, com os números de cada capítulo acima."
         ],
@@ -83575,6 +83628,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você quer o concentrado ou o 3W com mais proteína por porção."
+      ],
+      "skipIf": [
+        "Você quer mais sabores, versão zero lactose ou creatina em sachês e cápsulas: aí é a Probiótica.",
+        "Você decide pelo gosto: o artigo compara só rótulo, preço e número de sabores.",
+        "Você espera fórmulas iguais por serem do mesmo grupo: os potes e as tabelas diferem."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -83585,7 +83648,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAX10EMCASACOMCECILIA",
     "affiliate": "max-titanium",
-    "editorialNote": "Podemos receber comissão pela Max Titanium e pela Probiótica, que são do mesmo grupo.",
+    "editorialNote": "Podemos receber comissão pela Max Titanium e pela Probiótica, que são do mesmo grupo. Não provamos os produtos.",
     "relatedArticles": [
       {
         "slug": "max-titanium-e-confiavel",
@@ -83927,7 +83990,7 @@ export const reviewsData: unknown[] = [
           "Pistache: contém amendoim, pistache, derivados de leite e soja."
         ],
         "postParagraphs": [
-          "Todos os 12 trazem ainda um \"pode conter\" com outras castanhas e aveia, e todos menos o Brownie incluem ovos nesse aviso. A ficha do Caramelo Salgado lista também corantes, extrato de urucum, vermelho allura AC, tartrazina e azul brilhante FCF, e um biscoito triturado de farinha de arroz e fécula de mandioca. Quem tem intolerância à lactose ou alergia a leite tira a dúvida sobre o consumo com um nutricionista."
+          "Todos os 12 trazem ainda um \"pode conter\" com outras castanhas e aveia, e todos menos o Brownie incluem ovos nesse aviso. A página do Caramelo Salgado lista também corantes, extrato de urucum, vermelho allura AC, tartrazina e azul brilhante FCF, e um biscoito triturado de farinha de arroz e fécula de mandioca. Quem tem intolerância à lactose ou alergia a leite tira a dúvida sobre o consumo com um nutricionista."
         ]
       },
       {
@@ -84018,6 +84081,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual sabor escolher pelo seu perfil",
+        "emphasis": "Pelos números da tabela, para quem quer menos açúcar com menos poliol a escolha é o Brownie, porque é o único com menos de 5 g de açúcares e menos de 7 g de polióis por 100 g.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelo rótulo por 100 g, comece pelo trio do Combo Best Sellers e ajuste por proteína, açúcar ou sódio nos itens abaixo. Na colher, o arredondamento do rótulo embaralha a ordem."
         ],
@@ -84105,6 +84170,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você quer pouco açúcar e poucos polióis no mesmo pote.",
+        "Você quer o sabor com menos sódio da linha."
+      ],
+      "skipIf": [
+        "Você quer o máximo de proteína: aí são o Avelã e o Leite em Pó, com 20 g por 100 g.",
+        "Você quer saber qual sabor é mais gostoso: o artigo compara só o rótulo.",
+        "Você precisa de versão sem lactose: os 12 sabores contêm lactose."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -84171,7 +84247,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Comparamos três plataformas de lista de casamento, Lejour, iCasei e Casar.com, em taxa, saque, prazo do dinheiro, tempo do site no ar e confirmação de presença.",
           "Usamos só os sites oficiais das três plataformas: páginas de planos e de tarifas e a central de ajuda de cada uma. Os preços dos planos da Lejour são os da página de planos dela.",
-          "Não fizemos lista de casamento real em nenhuma delas. As contas em reais são nossas, a partir das taxas publicadas.",
+          "As contas em reais são nossas, a partir das taxas publicadas.",
           "A Lejour é parceira do Em Casa com Cecília **só por indicação**. O casal não ganha desconto pelo nosso link: os planos e as taxas são os mesmos para qualquer casal. O iCasei e o Casar.com não são parceiros."
         ]
       },
@@ -84249,7 +84325,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taxa da lista: fixa, por plano ou regressiva",
         "paragraphs": [
-          "Cada plataforma calcula a taxa de um jeito.",
+          "As três partem de 3,89% no grátis; o Casar.com mantém a taxa, e a Lejour e o iCasei a baixam.",
           "O **Casar.com** cobra 3,89% de cada presente, sempre. Não há plano pago para baixar a taxa.",
           "Na **Lejour**, a taxa depende do plano. O Basic é grátis e cobra 3,89%. O Premium custa R$ 99,90 e cobra 3,29%. O Pro custa R$ 199,90 e cobra 2,99%. Os planos pagos são de pagamento único, sem mensalidade."
         ],
@@ -84300,7 +84376,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o casal recebe de R$ 20.000",
         "paragraphs": [
-          "Fizemos a conta para uma lista que arrecada R$ 20.000. As premissas:"
+          "Numa lista de R$ 20.000, o Premium deixa mais. As premissas:"
         ],
         "image": {
           "src": "/images/reviews/lejour/lejour-ou-icasei-capa.webp",
@@ -84389,7 +84465,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prazo para o dinheiro cair na conta",
         "paragraphs": [
-          "O dinheiro passa por duas etapas: a liberação do presente, que depende de como o convidado pagou, e o saque para a conta do casal. Os prazos abaixo são dos sites oficiais."
+          "O dinheiro passa por duas etapas: a liberação do presente, que depende de como o convidado pagou, e o saque para a conta do casal."
         ],
         "comparisonTable": {
           "caption": "Prazos de liberação e saque",
@@ -84438,7 +84514,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por quanto tempo o site fica no ar e quanto custa manter",
         "paragraphs": [
-          "As três tratam o tempo de jeitos diferentes. Na Lejour, o plano é pago uma vez. No iCasei, o plano tem prazo. No Casar.com, o prazo é a data do casamento."
+          "Na Lejour, o plano é pago uma vez. No iCasei, o plano tem prazo. No Casar.com, o prazo é a data do casamento."
         ],
         "comparisonTable": {
           "caption": "Tempo no ar do site e custo para manter",
@@ -84466,7 +84542,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na **Lejour**, a regra vem da central de ajuda . O painel do casal fica ativo por tempo indeterminado. Passados os 90 dias, o site sai do ar para os convidados, e o casal continua no painel, inclusive para resgatar o saldo. Quem quiser guardar o site tem um produto adicional que salva tudo em PDF.",
+          "Na **Lejour**, o painel do casal fica ativo por tempo indeterminado. Passados os 90 dias, o site sai do ar para os convidados, e o casal continua no painel, inclusive para resgatar o saldo. Quem quiser guardar o site tem um produto adicional que salva tudo em PDF.",
           "No **iCasei**, o Basic é grátis apenas na contratação de 6 meses, e renovar é pago. O iCasei não publica o valor da renovação do Basic. O Classic custava R$ 79,90 (3 meses), R$ 89,90 (4), R$ 109,90 (6), R$ 129,90 (9) e R$ 149,90 (12). O Black custava R$ 149,90 (3 meses), R$ 159,90 (4), R$ 179,90 (6), R$ 199,90 (9) e R$ 209,90 (12). O Tailor Made custava R$ 1.999,90 por 12 meses. O Classic e o Black saem em até 6x, e o Tailor Made, em até 10x.",
           "Na prática, um casamento a mais de 6 meses de distância já não cabe no Basic: o plano vence antes da festa. Depois do vencimento, o casal ainda resgata o saldo sem custo por até 1 ano. O iCasei devolve o valor integral da assinatura se o cancelamento for pedido em até 7 dias do pagamento.",
           "No **Casar.com**, o site fica ativo até 30 dias depois do casamento, e o prazo se estende se a data mudar. Uma cópia do site para baixar custa R$ 39,90."
@@ -84560,6 +84636,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher, por perfil",
+        "emphasis": "Se fosse para o meu casamento, eu levaria o Premium da Lejour, porque na lista de R$ 20.000 ele deixa mais que os outros.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Não há uma plataforma certa para todo casal. O que decide é o tamanho da lista, a data e o que vocês querem receber."
         ],
@@ -84602,7 +84680,18 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "lejour",
-    "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal. iCasei e Casar.com não são parceiros.",
+    "decision": {
+      "takeIf": [
+        "Você quer pagar o plano uma vez só e manter o site no ar depois da festa: na Lejour o plano é pago uma vez, e o site fica aberto por 90 dias após o casamento.",
+        "A lista é grande e a taxa menor do plano pago compensa o preço dele."
+      ],
+      "skipIf": [
+        "Você quer produtos de várias lojas na mesma lista: o Casar.com reúne seis lojas, e a Lejour concentra na Fast Shop.",
+        "Você quer sacar sem limite e sem pagar plano: no iCasei e no Casar.com os saques são ilimitados, e no Basic da Lejour só 2 são grátis.",
+        "Seu casamento é a mais de 6 meses e você não quer pagar plano: o Casar.com é grátis até 30 dias depois do casamento, e o Basic do iCasei vence antes da festa."
+      ]
+    },
+    "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal. iCasei e Casar.com não são parceiros. Não fizemos lista de casamento real em nenhuma das três.",
     "relatedArticles": [
       {
         "slug": "lejour-como-funciona",
@@ -84654,7 +84743,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como comparamos",
         "paragraphs": [
           "Este guia compara os travesseiros da I Wanna Sleep e da Ortobom em preço, teste e garantia, material, altura e pillow top, para quem quer gastar menos, testar em casa ou acertar a altura.",
-          "Usamos o que as duas marcas publicam nos próprios sites: lista de modelos, fichas de produto, garantia, troca e entrega. A Ortobom não é parceira do site: não entra com link nem código. Não testamos os travesseiros: os dados são dos sites oficiais.",
+          "Usamos o que as duas marcas publicam nos próprios sites: lista de modelos, fichas de produto, garantia, troca e entrega. A Ortobom não é parceira do site: não entra com link nem código.",
           "Firmeza é só a que cada marca declara. Não medimos nada, e as avaliações de clientes não entram como prova.",
           "O preço da Ortobom é o da página do produto, com São Paulo (capital) como cidade, porque o site muda o valor conforme a região.",
           "Lemos os 16 modelos de travesseiro da lista da Ortobom, com 12 fichas de produto, e as páginas de sete travesseiros da I Wanna Sleep. Nápoles, Amore e Soneca aparecem em buscas, mas não estão no catálogo online da Ortobom, então ficam de fora."
@@ -84663,7 +84752,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Par a par por material",
         "paragraphs": [
-          "Cada linha põe o modelo da I Wanna Sleep ao lado do modelo da Ortobom de material parecido."
+          "A Ortobom ganha no preço; a I Wanna Sleep, no ajuste e no látex natural. Cada linha põe o modelo da I Wanna Sleep ao lado do modelo da Ortobom de material parecido."
         ],
         "comparisonTable": {
           "caption": "Dados dos sites oficiais em 16/10/2026, sem códigos de desconto. Preços da Ortobom com São Paulo (capital) como cidade.",
@@ -84721,7 +84810,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que tem dentro do Pró Látex",
         "paragraphs": [
-          "A ficha do Pró Látex, da Ortobom (14 × 40 × 60 cm, firme, R$ 259), traz os dois campos abaixo."
+          "A página do Pró Látex, da Ortobom (14 × 40 × 60 cm, firme, R$ 259), traz os dois campos abaixo."
         ],
         "comparisonTable": {
           "caption": "Campos da ficha do Pró Látex na Ortobom",
@@ -84741,7 +84830,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Quem procura látex natural encontra a palavra na ficha da I Wanna Sleep: o Original Látex é \"feito em 100% látex natural Tailandês\"."
+          "Quem procura látex natural encontra a palavra na página da I Wanna Sleep: o Original Látex é \"feito em 100% látex natural Tailandês\"."
         ]
       },
       {
@@ -84784,7 +84873,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lavagem e cuidados",
         "paragraphs": [
-          "Na Ortobom, a ficha define a lavagem de cada modelo. Aceitam lavagem até 40 °C:"
+          "Na Ortobom, a página de cada modelo define a lavagem. Aceitam lavagem até 40 °C:"
         ],
         "bullets": [
           "Conforto Regulável, Royal Pillow e Essence Plus (fibra siliconada);",
@@ -84872,13 +84961,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A conta é nossa: 10% sobre o preço da página, sem frete. O valor final aparece no carrinho.",
-          "A Ortobom não tem cupom nosso: a marca não é parceira, e não temos código dela. O preço da Ortobom muda conforme a cidade informada no site. Em Belo Horizonte, consultados na mesma leitura, os 11 modelos com preço na página tiveram os mesmos valores de São Paulo. O Essence Plus não trouxe preço nessa consulta."
+          "A Ortobom não tem cupom nosso: a marca não é parceira, e não temos código dela. O preço da Ortobom muda conforme a cidade informada no site. Em Belo Horizonte, os 11 modelos com preço na página tiveram os mesmos valores de São Paulo. O Essence Plus não trouxe preço."
         ]
       },
       {
         "heading": "Pillow top: Magnum ou HR Gel",
         "paragraphs": [
-          "A I Wanna Sleep vende o Pillow Top Magnum Pluma AirFiber: 10 cm de altura quando afofado, segundo a marca, e R$ 1.947 no casal. A Ortobom vende o Pillow Top HR Gel: 6 cm de altura, com lâmina de espuma gel de 5 cm, e R$ 719 no casal.",
+          "A I Wanna Sleep vende o Pillow Top Magnum Pluma AirFiber: 10 cm de altura quando afofado, diz a marca, e R$ 1.947 no casal. A Ortobom vende o Pillow Top HR Gel: 6 cm de altura, com lâmina de espuma gel de 5 cm, e R$ 719 no casal.",
           "A diferença está na altura e no preço. O HR Gel custa pouco mais de um terço do Magnum e tem 4 cm a menos.",
           "Para tamanhos, instalação e cuidados do Magnum, leia [Pillow Top Magnum IWS vale a pena? Guia para colchão duro](/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas)."
         ]
@@ -84891,10 +84980,11 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
+        "emphasis": "Se fosse para a minha casa, eu levaria o Snow, porque a altura ajustável até 18 cm resolve para quem não sabe a altura.",
         "bullets": [
           "**Para gastar menos:** Ortobom. Viscopur a R$ 169; Royal Pillow e Conforto Regulável a R$ 159. Todos com 90 dias de garantia e sem teste em casa informado.",
           "**Para testar em casa:** I Wanna Sleep, com 30 dias de teste e crédito para troca.",
-          "**Para látex natural:** o Original Látex da I Wanna Sleep. O Pró Látex da Ortobom tem enchimento de espuma de alta resiliência 100% poliuretano, segundo a ficha.",
+          "**Para látex natural:** o Original Látex da I Wanna Sleep. O Pró Látex da Ortobom tem enchimento de espuma de alta resiliência 100% poliuretano, diz a página.",
           "**Para acertar a altura:** o Snow da I Wanna Sleep, ajustável até 18 cm, ou um dos reguláveis da Ortobom, com duas alturas.",
           "**Pillow top:** a I Wanna Sleep vende pillow top para colchão. Não é travesseiro. A comparação com o HR Gel, da Ortobom, está no capítulo Pillow top."
         ]
@@ -84923,6 +85013,17 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
+    "decision": {
+      "takeIf": [
+        "Você quer testar o travesseiro em casa, com 30 dias e crédito para troca.",
+        "Você quer látex natural."
+      ],
+      "skipIf": [
+        "Você quer gastar menos: a Ortobom tem os travesseiros mais baratos, com 90 dias de garantia e sem teste em casa informado.",
+        "Você procura um modelo que a marca indique para quem dorme de costas ou de bruços: o Viscopur, da Ortobom.",
+        "Você procura Nápoles, Amore ou Soneca: não estão no catálogo online da Ortobom."
+      ]
+    },
     "editorialNote": "Podemos receber comissão pela I Wanna Sleep, a única parceira comissionada deste artigo. A Ortobom não é parceira: não há link comissionado nem código nosso para ela. Não testamos nenhum dos travesseiros; as contas e comparações são nossas, sobre o que os sites oficiais informam.",
     "relatedArticles": [
       {
@@ -84986,7 +85087,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAUAD",
     "affiliate": "belive",
-    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo MAUAD.",
+    "editorialNote": "Feito com fontes públicas. Não avaliamos sabor nem dieta. Podemos receber comissão pelo MAUAD.",
     "relatedArticles": [
       "belive-reclame-aqui-nota-reputacao",
       "cupom-belive-como-usar",
@@ -85002,16 +85103,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "De quem é a Belive?",
         "paragraphs": [
-          "Sim, a Belive é vendida por uma empresa registrada e ativa, segundo os dados públicos de CNPJ consultados em 16/10/2026.",
-          "A loja é operada pela NHD Foods Indústria, Comércio, Importação e Exportação Ltda., segundo o rodapé do site e o cadastro público de CNPJ.",
+          "Sim: empresa registrada e ativa, com o CNPJ ativo nos dados públicos consultados em 16/10/2026.",
+          "O rodapé do site e o cadastro público de CNPJ apontam a NHD Foods Indústria, Comércio, Importação e Exportação Ltda. como operadora da loja.",
           "O rodapé traz o CNPJ da filial, 21.541.988/0002-57, ativa desde 2015. A matriz é o CNPJ 21.541.988/0001-76, ativa desde 2014, o mesmo citado na política de privacidade. As duas unidades ficam em Uberaba (MG), segundo o cadastro público.",
-          "Segundo o site, a marca existe **desde 2015**."
+          "A marca existe **desde 2015**, diz o site."
         ]
       },
       {
         "heading": "Como saber se você está no site oficial",
         "paragraphs": [
-          "Antes de pagar, confira três coisas:"
+          "Confira domínio, CNPJ e https."
         ],
         "bullets": [
           "O domínio, na barra do navegador, é **belivebefree.com.br**, sem letra trocada. Isso importa mais quando o link chegou por anúncio ou mensagem.",
@@ -85030,7 +85131,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Belive vende",
         "paragraphs": [
-          "A loja vende pães, bisnaguinhas, doces, brownies, bolinhos, snacks e combos. Não avaliamos sabor nem dieta.",
+          "A loja vende pães, bisnaguinhas, doces, brownies, bolinhos, snacks e combos.",
           "Parte dos produtos é anunciada como **sem glúten** e **zero açúcar**. São declarações da loja e da embalagem, produto a produto. Se você é celíaco, diabético ou tem outra condição de saúde, converse com um médico ou nutricionista antes de comprar."
         ],
         "image": {
@@ -85044,7 +85145,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e defeito",
         "paragraphs": [
-          "As regras de troca e devolução do site, lidas no site:"
+          "As regras de troca e devolução, para decidir antes de pagar:"
         ],
         "comparisonTable": {
           "caption": "Regras de arrependimento e de defeito da Belive, segundo a FAQ do site",
@@ -85076,7 +85177,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazo e pagamento",
         "paragraphs": [
-          "O frete grátis depende do valor do pedido e da região. Segundo a página de regras de frete do site:"
+          "O frete grátis depende do valor do pedido e da região:"
         ],
         "comparisonTable": {
           "caption": "Valor de pedido para frete grátis da Belive por região, segundo a página de regras de frete",
@@ -85208,7 +85309,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar na Belive",
         "paragraphs": [
-          "A Belive vende alimentos pela internet, como combos de doces e brownies proteicos. Para quem compra pela primeira vez, o Reclame Aqui mostra se a empresa responde, quantas reclamações ela resolve e se quem reclamou voltaria a comprar. Os números abaixo mudam todo dia, então vale abrir o perfil de novo antes de pagar."
+          "Para quem compra pela primeira vez, o Reclame Aqui mostra se a Belive responde, quantas reclamações ela resolve e se quem reclamou voltaria a comprar. Os números abaixo mudam todo dia, então vale abrir o perfil de novo antes de pagar."
         ]
       },
       {
@@ -85326,7 +85427,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o seu pedido der problema: o que fazer",
         "paragraphs": [
-          "Estes são os caminhos que o site descreve, lidos no site:"
+          "Se o pedido der problema, estes são os caminhos:"
         ],
         "bullets": [
           "**Caixa violada, aberta, rasgada ou muito amassada:** recuse o recebimento na entrega. Com a caixa recusada, a troca sai mais rápido.",
@@ -85430,7 +85531,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o cupom MAUAD da Belive",
         "paragraphs": [
-          "O MAUAD é o código de desconto da Belive, digitado no carrinho do site oficial, belivebefree.com.br. O desconto vale no site inteiro. No nosso teste, os quatro itens eram combos de doces e um kit de brownies proteicos.",
+          "O MAUAD é o código da Belive e vale no site inteiro, digitado no carrinho do site oficial, belivebefree.com.br. No nosso teste, os quatro itens eram combos de doces e um kit de brownies proteicos.",
           "O cupom vale para conta nova e para quem já comprou na loja."
         ]
       },
@@ -85529,13 +85630,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O 5% do Pix soma com o cupom",
         "paragraphs": [
-          "O site oferece 5% de desconto no Pix. Os dois descontos somam: o Pix entrou sobre o valor que já tinha os 10% do cupom, e o total final ficou R$ 83,64 abaixo do subtotal, como mostra a tabela acima (conta nossa)."
+          "Os dois descontos somam: o Pix entrou sobre o valor que já tinha os 10% do cupom. O total final ficou R$ 83,64 abaixo do subtotal, como mostra a tabela acima (conta nossa)."
         ]
       },
       {
         "heading": "Frete grátis: o valor que conta é o de antes do cupom",
         "paragraphs": [
-          "O frete grátis da Belive depende do valor do pedido e da região. Na página de regras de frete do site, em 16/10/2026, os valores eram:"
+          "O frete grátis da Belive depende do valor do pedido e da região. A página de regras de frete dava estes valores em 16/10/2026:"
         ],
         "comparisonTable": {
           "caption": "Valor de pedido para frete grátis da Belive por região, segundo a página de regras de frete",
@@ -85717,7 +85818,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de referência",
         "paragraphs": [
-          "Estes são os preços que a página de cada produto mostrava no dia da leitura. O maior desconto que conferimos nas oito páginas de produto foi de 20%. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
+          "Use estes preços de página como régua: o maior desconto nas oito páginas foi de 20%. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
         ],
         "image": {
           "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
@@ -85796,7 +85897,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Um desconto de novembro só vale a pena se o preço do dia ficar abaixo desta tabela. Os preços da página mudam sem aviso.",
-          "Os nomes dos produtos declaram sem glúten, sem leite, sem lactose e sem açúcar, conforme cada página. Quem tem intolerância, doença celíaca ou segue dieta deve falar com um nutricionista ou médico antes de comprar."
+          "Os nomes dos produtos declaram sem glúten, sem leite, sem lactose e sem açúcar, na página de cada um. Quem tem intolerância, doença celíaca ou segue dieta deve falar com um nutricionista ou médico antes de comprar."
         ]
       },
       {
@@ -85844,7 +85945,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis e pagamento",
         "paragraphs": [
-          "O frete grátis depende do estado. Segundo a página de regras de frete, o valor mínimo do pedido é:"
+          "O frete grátis depende do estado. A página de regras de frete dá o valor mínimo do pedido:"
         ],
         "image": {
           "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
@@ -85937,13 +86038,13 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Na lateral está a advertência: \"Usar somente sob orientação médica ou de nutricionista\". A página da loja acrescenta: \"Proibido o uso por via parenteral\".",
-          "Atenção ao nome: este SKU não é a apresentação \"Sistema Fechado\". A Nestlé lista outras versões de 1 L de Isosource 1.5 com esse nome, e o rótulo que lemos é o da caixa com tampa."
+          "Não confunda com a apresentação \"Sistema Fechado\": a Nestlé lista outras versões de 1 L com esse nome, e os dados deste guia são os da caixa com tampa."
         ]
       },
       {
-        "heading": "Para que serve o Isosource 1.5, segundo o rótulo e a loja",
+        "heading": "Para que serve o Isosource 1.5",
         "paragraphs": [
-          "O rótulo o define como fórmula padrão para nutrição enteral e oral: pode ser dada por sonda (enteral) ou tomada pela boca (oral), conforme a prescrição.",
+          "O rótulo o define como fórmula padrão para nutrição enteral e oral: por sonda (enteral) ou pela boca (oral), na via que a prescrição indicar.",
           "A alta densidade energética, 1,5 kcal por mL, é o que permite entregar mais energia em menos volume. Quem decide se essa fórmula é a adequada em cada caso é o médico ou o nutricionista."
         ]
       },
@@ -86241,7 +86342,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Para que serve o Nutren A-Z Multi, segundo o rótulo",
+        "heading": "Para que serve o Nutren A-Z Multi",
         "paragraphs": [
           "O Nutren A-Z Multi é um suplemento alimentar em cápsulas da Nestlé, com 13 vitaminas e 7 minerais. A dose do rótulo é 1 cápsula por dia, para maiores de 19 anos (adultos). Veja a frente do frasco e, abaixo, o que o rótulo diz que ele faz.",
           "O rótulo traz três alegações, e cada uma vem com os nutrientes que a sustentam:"
@@ -86419,7 +86520,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Multi, Mulher e Senior: o que muda na linha",
         "paragraphs": [
-          "A linha Nutren de multivitamínicos em cápsula tem três versões. A tabela vem da imagem oficial da linha, na loja da Nestlé Nutre. Aqui comparamos público, dose, frasco e preço. A composição das outras duas está nos rótulos delas."
+          "A linha Nutren de multivitamínicos em cápsula tem três versões. A tabela compara público, dose, frasco e preço, da imagem oficial da linha. A composição das outras duas está nos rótulos delas."
         ],
         "comparisonTable": {
           "headers": [
@@ -86591,7 +86692,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Composição e tabela nutricional",
         "paragraphs": [
-          "Segundo a Nestlé, são quatro HMOs (oligossacarídeos do leite humano, na sigla em inglês): 2'-FL, LNT, 3'-SL e 6'-SL. A lata traz também ARA e DHA, obtidos de óleos de microrganismos.",
+          "A Nestlé lista quatro HMOs (oligossacarídeos do leite humano, na sigla em inglês): 2'-FL, LNT, 3'-SL e 6'-SL. A lata traz também ARA e DHA, obtidos de óleos de microrganismos.",
           "**Ingredientes, pela ordem do rótulo:** lactose, soro de leite desmineralizado, oleína de palma, leite desnatado, proteína concentrada do soro de leite, óleo de palmiste, óleo de canola com baixo teor erúcico, óleo de milho, minerais, óleo de Mortierella alpina (ARA), óleo de Schizochytrium sp. (DHA), 2'-O-fucosilactose, lacto-N-tetraose, 6'-sialilactose, 3'-sialilactose, vitaminas, emulsificante lecitina de soja e reguladores de acidez ácido cítrico e hidróxido de potássio."
         ],
         "comparisonTable": {
@@ -86790,7 +86891,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O Nanlac Supreme Pro foi recolhido? Como conferir o lote",
         "paragraphs": [
-          "Em parte. Em 5 de janeiro de 2026, a Nestlé comunicou à Anvisa o recolhimento voluntário de lotes de fórmulas infantis. A Anvisa publicou a Resolução RE nº 32/2026, que proibiu a comercialização, a distribuição e o uso dos lotes listados. O motivo, segundo a Nota Técnica Conjunta nº 17/2026 do Ministério da Saúde e da Anvisa, foi a presença de cereulida, toxina produzida pela bactéria Bacillus cereus, vinda de um óleo ARA usado na produção. A nota diz que a medida é preventiva e que só os lotes informados oficialmente estão sendo recolhidos.",
+          "Em parte. Em 5 de janeiro de 2026, a Nestlé comunicou à Anvisa o recolhimento voluntário de lotes de fórmulas infantis. A Anvisa publicou a Resolução RE nº 32/2026, que proibiu a comercialização, a distribuição e o uso dos lotes listados. A Nota Técnica Conjunta nº 17/2026 do Ministério da Saúde e da Anvisa aponta como motivo a cereulida, toxina da bactéria Bacillus cereus vinda de um óleo ARA usado na produção. A nota diz que a medida é preventiva e que só os lotes informados oficialmente estão sendo recolhidos.",
           "Do Nanlac Supreme Pro 1 a 3 anos, a lista tem cinco lotes: 5301046041, 5302046041, 5338046041, 5339046041 e 5340046041.",
           "**Como conferir a sua lata:**"
         ],
@@ -86907,13 +87008,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nanlac Supreme Pro e o Nanlac Comfor HMO são fórmulas da Nestlé para crianças de 1 a 3 anos, e os dois contêm leite, lactose e soja. O Supreme Pro declara quatro HMOs e o Comfor, um. O que pesa é o número de HMOs declarados de um lado e GOS, FOS e o menor preço do outro, como detalha o capítulo \"Para quem cada uma faz sentido, pelo rótulo\"."
+          "Na dúvida entre o Nanlac Supreme Pro e o Nanlac Comfor HMO, fórmulas da Nestlé para crianças de 1 a 3 anos, as duas contêm leite, lactose e soja. O Supreme Pro declara quatro HMOs e o Comfor, um. O que pesa é o número de HMOs declarados de um lado e GOS, FOS e o menor preço do outro, como detalha o capítulo \"Para quem cada uma faz sentido, pelo rótulo\"."
         ]
       },
       {
         "heading": "Duas latas da Nestlé para a mesma faixa",
         "paragraphs": [
-          "As duas são fórmulas infantis de primeira infância, vendidas na Nestlé Nutre e com o mesmo aviso: não devem ser usadas para alimentar crianças menores de 1 (um) ano de idade. Não são leite em pó nem composto lácteo.",
+          "As duas são fórmulas de 1 a 3 anos vendidas na Nestlé Nutre, e nenhuma deve ser usada por menores de 1 ano. Não são leite em pó nem composto lácteo.",
           "O Comfor declara um HMO, o 2'-FL, com 0,2 g por 100 g de pó. O Supreme Pro declara quatro: 2'-FL, LNT, 3'-SL e 6'-SL."
         ],
         "comparisonTable": {
@@ -86951,14 +87052,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A ficha completa do Supreme Pro está no guia do produto. Aqui ficam só as diferenças."
+          "O detalhe do Supreme Pro está no guia do produto. Aqui ficam só as diferenças."
         ],
         "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
       },
       {
         "heading": "O que cada rótulo declara",
         "paragraphs": [
-          "Os números são os do rótulo: o do Supreme Pro, lido na página da Nestlé Nutre, e o do Comfor, impresso no verso da lata de 800 g, lido na galeria de fotos da loja (a tabela em texto da página traz valores um pouco diferentes). A comparação é só do que está declarado no rótulo, e a escolha entre as fórmulas é do pediatra ou nutricionista."
+          "Os números são os do rótulo: o do Supreme Pro, da página da Nestlé Nutre, e o do Comfor, do verso da lata de 800 g, na galeria de fotos da loja (a tabela em texto da página traz valores um pouco diferentes). A comparação é só do que está declarado no rótulo, e a escolha entre as fórmulas é do pediatra ou nutricionista."
         ],
         "comparisonTable": {
           "headers": [
@@ -87045,13 +87146,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Alérgenos",
         "paragraphs": [
-          "A lata do Comfor diz: \"CONTÉM LEITE E DERIVADOS E DERIVADOS DE SOJA. CONTÉM LACTOSE. NÃO CONTÉM GLÚTEN.\" As duas fórmulas contêm leite, lactose e derivados de soja. No Comfor, o DHA vem de óleo de Schizochytrium sp. (alga) e o ARA de óleo de Mortierella alpina, segundo a lista de ingredientes. No Supreme Pro, o DHA e o ARA vêm de óleos de microrganismos, segundo a lista de ingredientes. Quem tem alergia ou intolerância deve ler o rótulo da lata e falar com o pediatra. Nenhuma das duas é sem lactose."
+          "A lata do Comfor diz: \"CONTÉM LEITE E DERIVADOS E DERIVADOS DE SOJA. CONTÉM LACTOSE. NÃO CONTÉM GLÚTEN.\" As duas fórmulas contêm leite, lactose e derivados de soja. No Comfor, a lista de ingredientes traz o DHA de óleo de Schizochytrium sp. (alga) e o ARA de óleo de Mortierella alpina. No Supreme Pro, ela traz DHA e ARA de óleos de microrganismos. Quem tem alergia ou intolerância deve ler o rótulo da lata e falar com o pediatra. Nenhuma das duas é sem lactose."
         ]
       },
       {
         "heading": "Preparo e rendimento",
         "paragraphs": [
-          "O preparo é o mesmo nos dois, e as medidas estão na tabela abaixo.",
+          "O preparo é o mesmo nos dois: 7 medidas rasas para um copo de 210 ml.",
           "Nos dois, a água é fervida por 5 minutos e esfriada até 70 °C na hora de misturar. A lata do Comfor manda conferir a temperatura no punho, em cerca de 40 °C, antes de oferecer."
         ],
         "comparisonTable": {
@@ -87122,7 +87223,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem cada uma faz sentido, pelo rótulo",
         "paragraphs": [
-          "A decisão é do pediatra ou nutricionista. Olhando só o que cada rótulo declara:"
+          "A decisão é do pediatra ou nutricionista. Pelo rótulo, quem procura mais HMOs declarados encontra quatro no Supreme Pro; o Comfor declara um. Na dúvida, a decisão é do pediatra. Olhando só o que cada rótulo declara:"
         ],
         "bullets": [
           "Quem procura mais HMOs declarados na tabela encontra quatro no Supreme Pro. O Comfor declara um, o 2'-FL.",
@@ -87242,7 +87343,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Duas fórmulas de 1 a 3 anos, de fabricantes diferentes",
         "paragraphs": [
-          "As duas são fórmulas infantis de seguimento para a primeira infância. Não são leite em pó nem composto lácteo. A Nestlé Nutre vende o Nanlac Supreme Pro como \"fórmula infantil de primeira infância\", e a Danone descreve o Aptanutri Profutura 3 como \"fórmula infantil de seguimento em pó, à base de proteínas lácteas intactas\".",
+          "No rótulo, a diferença é HMO (Nanlac) contra prebióticos (Aptanutri). Não são leite em pó nem composto lácteo. A Nestlé Nutre vende o Nanlac Supreme Pro como \"fórmula infantil de primeira infância\", e a Danone descreve o Aptanutri Profutura 3 como \"fórmula infantil de seguimento em pó, à base de proteínas lácteas intactas\".",
           "As duas páginas oficiais trazem o aviso de que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade. Este comparativo fala só das latas de 1 a 3 anos."
         ],
         "comparisonTable": {
@@ -87280,14 +87381,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A ficha completa do Nanlac está no guia do produto. Aqui ficam só as diferenças."
+          "O detalhe do Nanlac está no guia do produto. Aqui ficam só as diferenças."
         ],
         "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
       },
       {
         "heading": "Profutura 3 ou Profutura Gold 3: qual versão entra na comparação",
         "paragraphs": [
-          "A Danone vende duas latas de 800 g para a mesma faixa. A **Profutura 3** é a de preço menor e a mais citada nas buscas. A **Profutura Gold 3** traz o HMO 2'FL adicionado, segundo a página da Danone, que não informa a quantidade. Na tabela publicada, as duas têm 9,2 g de proteínas e prebióticos GOS e FOS na mesma proporção. Mudam, por exemplo, as calorias, os açúcares adicionados e as vitaminas."
+          "A Danone vende duas latas de 800 g para a mesma faixa. A **Profutura 3** é a de preço menor e a mais citada nas buscas. A **Profutura Gold 3** traz o HMO 2'FL adicionado, e a página da Danone não informa a quantidade. Na tabela publicada, as duas têm 9,2 g de proteínas e prebióticos GOS e FOS na mesma proporção. Mudam, por exemplo, as calorias, os açúcares adicionados e as vitaminas."
         ],
         "comparisonTable": {
           "headers": [
@@ -87335,7 +87436,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que cada rótulo declara",
         "paragraphs": [
-          "Todos os números abaixo vêm das páginas dos fabricantes, lidas para este guia: Nestlé Nutre (Nanlac) e Danone (Aptanutri Profutura 3, na página do produto na Mundo Danone, loja oficial da Danone; Gold 3 e rendimento, na página de profissionais de saúde da Danone). A comparação é só do que está impresso. Não diz qual fórmula \"faz mais\" por uma criança."
+          "Os números abaixo vêm das páginas dos fabricantes: Nestlé Nutre, Mundo Danone e a página da Danone para profissionais de saúde. A comparação é só do que está impresso. Não diz qual fórmula \"faz mais\" por uma criança."
         ],
         "comparisonTable": {
           "headers": [
@@ -87438,7 +87539,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preparo: o que cada lata manda",
         "paragraphs": [
-          "O Nanlac usa 14,1 g de pó para 90 ml de água, que rendem 100 ml, com colher-medida de 4,7 g. O Aptanutri usa uma colher-medida de cerca de 5,0 g para cada 30 ml de água. Segundo a página da Danone, a água é previamente fervida, a 70 °C. Siga a temperatura que está na lata."
+          "O Nanlac usa 14,1 g de pó para 90 ml de água, que rendem 100 ml, com colher-medida de 4,7 g. O Aptanutri usa uma colher-medida de cerca de 5,0 g para cada 30 ml de água. A página da Danone pede água previamente fervida, a 70 °C. Siga a temperatura da lata."
         ],
         "comparisonTable": {
           "headers": [
@@ -87480,7 +87581,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto rende a lata e quanto custa o litro",
         "paragraphs": [
-          "A Danone informa que a lata de 800 g da Profutura 3 rende 5.333 ml. Pela proporção de 14,1 g a cada 100 ml, o Nanlac rende cerca de 5,7 litros (conta nossa). Dividindo o preço da lata pelo rendimento (conta nossa):"
+          "A Danone informa que a lata de 800 g da Profutura 3 rende 5.333 ml. Pela proporção de 14,1 g a cada 100 ml, o Nanlac rende cerca de 5,7 litros. Conta nossa: dividindo o preço da lata pelo rendimento:"
         ],
         "comparisonTable": {
           "headers": [
@@ -87511,7 +87612,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem cada uma faz sentido, pelo rótulo",
         "paragraphs": [
-          "A decisão sobre qual fórmula dar a uma criança é do pediatra ou nutricionista. Olhando só o que cada rótulo declara:"
+          "A decisão sobre qual fórmula dar a uma criança é do pediatra ou nutricionista. Pelo rótulo, quem procura HMO declarado encontra quatro no Nanlac Supreme Pro; a Profutura 3 não declara nenhum. Na dúvida, a decisão é do pediatra. Olhando só o que cada rótulo declara:"
         ],
         "bullets": [
           "Quem procura HMO no rótulo encontra quatro no Nanlac Supreme Pro. No Aptanutri, procure a versão Profutura Gold 3, que declara o 2'FL.",
@@ -87632,13 +87733,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nanlac Supreme Pro e o Ninho Fases 1+ são fórmulas da Nestlé para crianças de 1 a 3 anos. O que pesa é HMO, DHA e ARA no Nanlac contra prebióticos, menos açúcar adicionado e cerca da metade do preço por 100 g no Ninho. O capítulo Para quem cada um faz sentido, pelo rótulo detalha a escolha."
+          "Na dúvida entre o Nanlac Supreme Pro e o Ninho Fases 1+, fórmulas da Nestlé para crianças de 1 a 3 anos, a diferença está no rótulo. O que pesa é HMO, DHA e ARA no Nanlac contra prebióticos, menos açúcar adicionado e cerca da metade do preço por 100 g no Ninho. O capítulo Para quem cada um faz sentido, pelo rótulo detalha a escolha."
         ]
       },
       {
         "heading": "Os dois produtos lado a lado",
         "paragraphs": [
-          "Os dois são de primeira infância e nenhum deve ser usado para alimentar crianças menores de 1 ano. Segundo a lata, o Ninho Fases 1+ é \"fórmula infantil de seguimento para crianças de primeira infância\", de 1 a 3 anos. Para entender como a Nestlé separa leite, composto lácteo e fórmula na linha Ninho, veja o [guia da linha Ninho](/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo)."
+          "Os dois são de primeira infância e nenhum deve ser usado para alimentar crianças menores de 1 ano. A lata chama o Ninho Fases 1+ de \"fórmula infantil de seguimento para crianças de primeira infância\", de 1 a 3 anos. Para entender como a Nestlé separa leite, composto lácteo e fórmula na linha Ninho, veja o [guia da linha Ninho](/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo)."
         ],
         "comparisonTable": {
           "headers": [
@@ -87682,7 +87783,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "HMO, DHA e ARA contra prebióticos: o que cada rótulo declara",
         "paragraphs": [
-          "O Nanlac Supreme Pro declara quatro oligossacarídeos do leite humano (HMOs): 2'-FL, LNT, 3'-SL e 6'-SL. Declara também ARA e DHA, obtidos de óleos de microrganismos, nos valores da tabela abaixo.",
+          "O Nanlac declara HMOs, DHA e ARA; o Ninho declara prebióticos. Os quatro oligossacarídeos do leite humano (HMOs) são 2'-FL, LNT, 3'-SL e 6'-SL; DHA e ARA vêm de óleos de microrganismos, nos valores da tabela abaixo.",
           "O Ninho Fases 1+ declara dois prebióticos: fruto-oligossacarídeos (FOS), 2,7 g por 100 g, e inulina, 1,2 g por 100 g. A Nestlé descreve prebióticos como fibras não digeríveis. O rótulo do Ninho não traz DHA, ARA nem HMO."
         ],
         "comparisonTable": {
@@ -87850,7 +87951,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O rótulo do Nanlac manda não guardar o que sobra e, se for absolutamente necessário, refrigerar abaixo de 5 °C por no máximo 24 horas. O Ninho segue a mesma orientação na página da Nestlé. Depois de aberta, a lata do Nanlac pede consumo em até 30 dias, e a do Ninho, em até 4 semanas, segundo a lata."
+          "O rótulo do Nanlac manda não guardar o que sobra e, se for absolutamente necessário, refrigerar abaixo de 5 °C por no máximo 24 horas. O Ninho segue a mesma orientação na página da Nestlé. A lata do Nanlac pede consumo em até 30 dias depois de aberta; a do Ninho, em até 4 semanas."
         ],
         "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
         "imageAlt": "Lateral da lata do Nanlac Supreme Pro com o modo de preparo em oito passos e a tabela de medidas",
@@ -87865,7 +87966,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Nanlac Supreme Pro: lactose, soro de leite desmineralizado, leite desnatado, proteína concentrada do soro de leite, óleos de palma, palmiste, canola e milho, óleos de ARA e DHA, quatro HMOs, lecitina de soja.",
-          "Ninho Fases 1+, segundo a lata: leite parcialmente desnatado, permeado de soro de leite desmineralizado, maltodextrina, soro de leite, óleo de soja, oleína de palma, FOS, concentrado proteico de soro de leite, inulina, óleo de canola com baixo teor erúcico, vitaminas e minerais, lecitina."
+          "Ninho Fases 1+ (lata): leite parcialmente desnatado, permeado de soro de leite desmineralizado, maltodextrina, soro de leite, óleo de soja, oleína de palma, FOS, concentrado proteico de soro de leite, inulina, óleo de canola com baixo teor erúcico, vitaminas e minerais, lecitina."
         ]
       },
       {
@@ -87920,7 +88021,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem cada um faz sentido, pelo rótulo",
         "paragraphs": [
-          "A escolha entre as duas é do pediatra e da família. Pelo que cada rótulo mostra, estes são os perfis:"
+          "A escolha entre as duas é do pediatra e da família. Pelo rótulo, quem procura HMOs, DHA e ARA declarados encontra os três no Nanlac Supreme Pro; o Ninho não declara nenhum. Na dúvida, a decisão é do pediatra. Pelo que cada rótulo mostra, estes são os perfis:"
         ],
         "bullets": [
           "Quem quer uma fórmula com HMOs, DHA e ARA declarados no rótulo: o Nanlac Supreme Pro é o que traz esses itens.",
@@ -88005,7 +88106,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os dois produtos lado a lado",
         "paragraphs": [
-          "Os dois têm 60 unidades por frasco e dose de uma por dia, para adultos. A comparação é por unidade, e a unidade não é igual: uma cápsula de 0,75 g contra um comprimido de 1,32 g. Para a ficha completa do Nutren, veja o [guia do Nutren A-Z Multi](/reviews/nutren-a-z-multi-para-que-serve). Aqui ficam só as diferenças."
+          "A comparação é por unidade, e a unidade não é igual: uma cápsula de 0,75 g contra um comprimido de 1,32 g. Os dois têm 60 unidades por frasco e dose de uma por dia, para adultos. O detalhe do Nutren está no [guia do Nutren A-Z Multi](/reviews/nutren-a-z-multi-para-que-serve). Aqui ficam só as diferenças."
         ],
         "comparisonTable": {
           "headers": [
@@ -88180,7 +88281,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O Nutren tem a dose maior de vitaminas A e E, ácido fólico, ferro, selênio, cobre, cromo e molibdênio. O Centrum traz cálcio, fósforo, magnésio e iodo, que não aparecem na tabela do Nutren, e um pouco mais de manganês. Várias vitaminas do complexo B, a D, a K, a C, a biotina e o zinco têm a mesma dose nos dois. A vitamina A do Centrum vem como betacaroteno mais retinol, segundo a bula."
+          "O Nutren tem a dose maior de vitaminas A e E, ácido fólico, ferro, selênio, cobre, cromo e molibdênio. O Centrum traz cálcio, fósforo, magnésio e iodo, que não aparecem na tabela do Nutren, e um pouco mais de manganês. Várias vitaminas do complexo B, a D, a K, a C, a biotina e o zinco têm a mesma dose nos dois. No Centrum, a bula traz a vitamina A como betacaroteno mais retinol."
         ],
         "image": "/images/reviews/nutren/nutren-a-z-multi-tabela-ingredientes.webp",
         "imageAlt": "Rótulo do Nutren A-Z Multi com a informação nutricional por cápsula, os ingredientes e o aviso de que não contém glúten",
@@ -88198,7 +88299,7 @@ export const reviewsData: unknown[] = [
           "As vitaminas C, E e o zinco auxiliam na proteção dos danos causados pelos radicais livres."
         ],
         "postParagraphs": [
-          "Do Centrum, a página da Drogasil informa a tabela, zero calorias, sem açúcares e \"não contém glúten\". A página também traz frases de loja, mas não reproduzimos as frases de lojas."
+          "Do Centrum, a página da Drogasil informa a tabela, zero calorias, sem açúcares e \"não contém glúten\". O resto é frase de loja."
         ],
         "image": "/images/reviews/nutren/nutren-a-z-multi-alegacoes-uso.webp",
         "imageAlt": "Lateral do frasco do Nutren A-Z Multi com as três alegações do rótulo e as recomendações de uso",
@@ -88208,7 +88309,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ingredientes e alérgenos",
         "paragraphs": [
-          "No Nutren, os ingredientes além dos nutrientes são óleo de girassol, água purificada, gelatina, glicerol, lecitina, corantes (carbonato de cálcio, carmins e clorofilina cúprica) e cera de abelha. O rótulo diz que contém derivados de soja e não contém glúten. Por ter gelatina, carmim e cera de abelha, não é vegano. O ferro, o manganês e o selênio vêm em formas quelatadas (bisglicinato de ferro, bisglicinato de manganês e selenometionina), segundo o rótulo.",
+          "No Nutren, os ingredientes além dos nutrientes são óleo de girassol, água purificada, gelatina, glicerol, lecitina, corantes (carbonato de cálcio, carmins e clorofilina cúprica) e cera de abelha. O rótulo diz que contém derivados de soja e não contém glúten. Por ter gelatina, carmim e cera de abelha, não é vegano. O rótulo traz ferro, manganês e selênio em formas quelatadas: bisglicinato de ferro, bisglicinato de manganês e selenometionina.",
           "No Centrum, a Drogasil lista como excipientes celulose microcristalina, croscarmelose sódica, polivinilpirrolidona insolúvel, hidroxipropilmetilcelulose, dióxido de titânio, triacetina, corante amarelo crepúsculo, polisorbato 80, ácido esteárico e dióxido de silício (a Extrafarma traz a mesma lista). A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose. A Drogasil também informa que o Centrum contém itens de origem animal: vitamina A de origem suína e vitamina D3 de origem bovina e ovina. Quem precisa evitar um desses itens deve ler o rótulo do frasco."
         ]
       },
@@ -88258,11 +88359,12 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Para quem cada um faz sentido, pelo rótulo",
+        "emphasis": "Pelos números da tabela, para o perfil que procura cálcio, fósforo, magnésio e iodo no mesmo frasco a escolha é o Centrum, porque o Nutren não lista nenhum dos quatro.",
         "bullets": [
           "Quem quer cálcio, fósforo, magnésio e iodo no mesmo multivitamínico: o Centrum é o que traz esses nutrientes na tabela.",
           "Quem prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitamina A, vitamina E, selênio, cobre, cromo e molibdênio, ou menor preço por dia: o Nutren A-Z Multi.",
           "Quem quer evitar glúten: os dois declaram não conter.",
-          "Quem segue dieta sem produtos de origem animal: o Nutren tem gelatina, carmim e cera de abelha; o Centrum, segundo a Drogasil, tem vitamina A de origem suína e vitamina D3 de origem bovina e ovina."
+          "Quem segue dieta sem produtos de origem animal: o Nutren tem gelatina, carmim e cera de abelha; no Centrum, a Drogasil lista vitamina A suína e vitamina D3 bovina e ovina."
         ],
         "postParagraphs": [
           "Dúvida sobre dose, uso com outros remédios ou gravidez e amamentação (a Drogasil avisa que gestantes e lactantes só devem usar o Centrum com orientação médica): fale com médico ou nutricionista."
@@ -88281,6 +88383,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você quer cálcio, fósforo, magnésio e iodo no mesmo multivitamínico."
+      ],
+      "skipIf": [
+        "Você prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitaminas A e E, ou menor preço por dia: nesse caso, o Nutren A-Z Multi.",
+        "Você segue dieta sem produtos de origem animal: os dois têm itens de origem animal.",
+        "Você está grávida ou amamentando: a Drogasil avisa que o Centrum só deve ser usado com orientação médica."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -88342,9 +88454,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual versão de cada lado",
         "paragraphs": [
-          "Do lado da Nutren, usamos o Nutren Senior Baunilha, lata de 740 g, da loja oficial da Nestlé Nutre. A página o apresenta como composto lácteo, \"reduzido em açúcares\". Os outros sabores de 740 g são Café com leite, Chocolate e Mix de Frutas.",
-          "Do lado da Danone, usamos o Nutridrink Protein Senior em pó, lata de 750 g, sabor Café com Leite, que é a versão com página no Mundo Danone, a loja da fabricante. A versão líquida de 200 ml não entra: pó e bebida pronta não se comparam de forma justa.",
-          "A ficha do Nutren Senior em três versões está em [Nutren Senior, Ensure ou Sustagen Senior](/reviews/nutren-senior-ensure-ou-sustagen-senior).",
+          "Do lado da Nutren, entra o Nutren Senior Baunilha, lata de 740 g, da loja oficial da Nestlé Nutre. A página o apresenta como composto lácteo, \"reduzido em açúcares\". Os outros sabores de 740 g são Café com leite, Chocolate e Mix de Frutas.",
+          "Do lado da Danone, entra o Nutridrink Protein Senior em pó, lata de 750 g, sabor Café com Leite, com página no Mundo Danone, a loja da fabricante. A versão líquida de 200 ml não entra: pó e bebida pronta não se comparam de forma justa.",
+          "O Nutren Senior em três versões está em [Nutren Senior, Ensure ou Sustagen Senior](/reviews/nutren-senior-ensure-ou-sustagen-senior).",
           "Este texto compara só as diferenças entre os dois."
         ],
         "image": "/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
@@ -88425,7 +88537,7 @@ export const reviewsData: unknown[] = [
         "heading": "A conta da proteína",
         "paragraphs": [
           "A página do Nutridrink também fala em 25 g de proteína \"na porção diária recomendada\", sem explicar de onde vem essa base. Por isso comparamos pela porção da tabela, que o rótulo informa: 11 g de proteína em 31,5 g de pó no Nutren e 7,2 g em 30 g de pó no Nutridrink.",
-          "Como a porção é diferente, olhe também a conta por 100 g de pó. Por 100 g de pó, o Nutren traz mais dos três, e a distância maior é na vitamina D; os valores estão na tabela acima. Mas o que vale é a quantidade que o profissional indicar.",
+          "Como a porção é diferente, olhe também a conta por 100 g de pó. Nessa conta, o Nutren traz mais proteína, cálcio e vitamina D, e a distância maior é na vitamina D. Mas o que vale é a quantidade que o profissional indicar.",
           "As duas instruções da página do Nutridrink (porção de 30 g na tabela e 50 g em 170 ml de leite no preparo) não batem entre si. No preparo do Nutridrink, siga as instruções da lata e confira a embalagem que chegar. O preparo do Nutren Senior está em [Como tomar Nutren Senior sem empelotar](/reviews/nutren-senior-como-tomar-sem-empelotar)."
         ]
       },
@@ -88447,6 +88559,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pela leitura dos rótulos, e não por condição de saúde:"
         ],
+        "emphasis": "Pelos números da tabela, para o perfil que olha proteína, cálcio e vitamina D por porção a escolha é o Nutren Senior Baunilha, porque a tabela dele traz mais dos três.",
+        "emphasisAfterParagraph": 1,
         "bullets": [
           "Quem precisa de lactose zero declarada: o Nutren Senior tem a versão Sem Sabor Zero Lactose, com 0 g de lactose na tabela, a R$ 190,61 na Nestlé Nutre. O Nutridrink Protein Senior contém lactose.",
           "Quem olha o preço por porção: o Nutridrink sai mais barato por porção, com porção menor e menos proteína por porção.",
@@ -88454,7 +88568,7 @@ export const reviewsData: unknown[] = [
           "Quem quer menos açúcares totais: o Nutren Senior Baunilha traz 5,7 g na porção, contra 11 g no Nutridrink."
         ],
         "postParagraphs": [
-          "Em qualquer caso, fale com o médico ou o nutricionista antes de trocar um produto pelo outro ou de definir a quantidade por dia. A ficha do Zero Lactose está em [Nutren Senior Zero Lactose: o que saber antes de comprar](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
+          "Em qualquer caso, fale com o médico ou o nutricionista antes de trocar um produto pelo outro ou de definir a quantidade por dia. O Zero Lactose está em [Nutren Senior Zero Lactose: o que saber antes de comprar](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
         ]
       },
       {
@@ -88477,6 +88591,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você olha proteína, cálcio e vitamina D por porção.",
+        "Você quer menos açúcares totais: o Nutren Senior Baunilha traz 5,7 g na porção, contra 11 g no Nutridrink."
+      ],
+      "skipIf": [
+        "Você olha o preço por porção: nesse caso, o Nutridrink, que sai mais barato por porção, com porção menor e menos proteína.",
+        "Você precisa de lactose zero declarada: a versão do Nutren é a Zero Lactose, e o Nutridrink contém lactose.",
+        "Você quer comparar com a versão líquida: ela não entra aqui, porque pó e bebida pronta não se comparam de forma justa."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {

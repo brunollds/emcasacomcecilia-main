@@ -33,9 +33,9 @@
     {
       "heading": "Qual versão de cada lado",
       "paragraphs": [
-        "Do lado da Nutren, usamos o Nutren Senior Baunilha, lata de 740 g, da loja oficial da Nestlé Nutre. A página o apresenta como composto lácteo, \"reduzido em açúcares\". Os outros sabores de 740 g são Café com leite, Chocolate e Mix de Frutas.",
-        "Do lado da Danone, usamos o Nutridrink Protein Senior em pó, lata de 750 g, sabor Café com Leite, que é a versão com página no Mundo Danone, a loja da fabricante. A versão líquida de 200 ml não entra: pó e bebida pronta não se comparam de forma justa.",
-        "A ficha do Nutren Senior em três versões está em [Nutren Senior, Ensure ou Sustagen Senior](/reviews/nutren-senior-ensure-ou-sustagen-senior).",
+        "Do lado da Nutren, entra o Nutren Senior Baunilha, lata de 740 g, da loja oficial da Nestlé Nutre. A página o apresenta como composto lácteo, \"reduzido em açúcares\". Os outros sabores de 740 g são Café com leite, Chocolate e Mix de Frutas.",
+        "Do lado da Danone, entra o Nutridrink Protein Senior em pó, lata de 750 g, sabor Café com Leite, com página no Mundo Danone, a loja da fabricante. A versão líquida de 200 ml não entra: pó e bebida pronta não se comparam de forma justa.",
+        "O Nutren Senior em três versões está em [Nutren Senior, Ensure ou Sustagen Senior](/reviews/nutren-senior-ensure-ou-sustagen-senior).",
         "Este texto compara só as diferenças entre os dois."
       ],
       "image": "/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
@@ -116,7 +116,7 @@
       "heading": "A conta da proteína",
       "paragraphs": [
         "A página do Nutridrink também fala em 25 g de proteína \"na porção diária recomendada\", sem explicar de onde vem essa base. Por isso comparamos pela porção da tabela, que o rótulo informa: 11 g de proteína em 31,5 g de pó no Nutren e 7,2 g em 30 g de pó no Nutridrink.",
-        "Como a porção é diferente, olhe também a conta por 100 g de pó. Por 100 g de pó, o Nutren traz mais dos três, e a distância maior é na vitamina D; os valores estão na tabela acima. Mas o que vale é a quantidade que o profissional indicar.",
+        "Como a porção é diferente, olhe também a conta por 100 g de pó. Nessa conta, o Nutren traz mais proteína, cálcio e vitamina D, e a distância maior é na vitamina D. Mas o que vale é a quantidade que o profissional indicar.",
         "As duas instruções da página do Nutridrink (porção de 30 g na tabela e 50 g em 170 ml de leite no preparo) não batem entre si. No preparo do Nutridrink, siga as instruções da lata e confira a embalagem que chegar. O preparo do Nutren Senior está em [Como tomar Nutren Senior sem empelotar](/reviews/nutren-senior-como-tomar-sem-empelotar)."
       ]
     },
@@ -138,6 +138,8 @@
       "paragraphs": [
         "Pela leitura dos rótulos, e não por condição de saúde:"
       ],
+      "emphasis": "Pelos números da tabela, para o perfil que olha proteína, cálcio e vitamina D por porção a escolha é o Nutren Senior Baunilha, porque a tabela dele traz mais dos três.",
+      "emphasisAfterParagraph": 1,
       "bullets": [
         "Quem precisa de lactose zero declarada: o Nutren Senior tem a versão Sem Sabor Zero Lactose, com 0 g de lactose na tabela, a R$ 190,61 na Nestlé Nutre. O Nutridrink Protein Senior contém lactose.",
         "Quem olha o preço por porção: o Nutridrink sai mais barato por porção, com porção menor e menos proteína por porção.",
@@ -145,7 +147,7 @@
         "Quem quer menos açúcares totais: o Nutren Senior Baunilha traz 5,7 g na porção, contra 11 g no Nutridrink."
       ],
       "postParagraphs": [
-        "Em qualquer caso, fale com o médico ou o nutricionista antes de trocar um produto pelo outro ou de definir a quantidade por dia. A ficha do Zero Lactose está em [Nutren Senior Zero Lactose: o que saber antes de comprar](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
+        "Em qualquer caso, fale com o médico ou o nutricionista antes de trocar um produto pelo outro ou de definir a quantidade por dia. O Zero Lactose está em [Nutren Senior Zero Lactose: o que saber antes de comprar](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
       ]
     },
     {
@@ -168,6 +170,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você olha proteína, cálcio e vitamina D por porção.",
+      "Você quer menos açúcares totais: o Nutren Senior Baunilha traz 5,7 g na porção, contra 11 g no Nutridrink."
+    ],
+    "skipIf": [
+      "Você olha o preço por porção: nesse caso, o Nutridrink, que sai mais barato por porção, com porção menor e menos proteína.",
+      "Você precisa de lactose zero declarada: a versão do Nutren é a Zero Lactose, e o Nutridrink contém lactose.",
+      "Você quer comparar com a versão líquida: ela não entra aqui, porque pó e bebida pronta não se comparam de forma justa."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

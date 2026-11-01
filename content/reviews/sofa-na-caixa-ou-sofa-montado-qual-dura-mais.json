@@ -59,7 +59,7 @@
       "heading": "\"Na caixa\" quer dizer duas coisas diferentes",
       "paragraphs": [
         "Quem pergunta se sofá na caixa dura está juntando dois produtos que chegam do mesmo jeito e são feitos de formas diferentes.",
-        "O primeiro é a **espuma compactada**. A Inflow descreve o sofá assim: a espuma \"chega compactada na caixa e ganha forma diante dos seus olhos\". Você abre a embalagem, a espuma se expande e o sofá toma forma, sem montagem e sem ferramentas, segundo a marca. A Sofá na Caixa também vende sofás modulares entregues compactados em caixas.",
+        "O primeiro é a **espuma compactada**. A Inflow descreve o sofá assim: a espuma \"chega compactada na caixa e ganha forma diante dos seus olhos\". Você abre a embalagem, a espuma se expande e o sofá toma forma; a marca diz: sem montagem e sem ferramentas. A Sofá na Caixa também vende sofás modulares entregues compactados em caixas.",
         "O segundo são **módulos pré-estruturados para encaixar**. É o caso da DAMIE: a página do sofá modular fala em módulos \"pré-estruturados\", enviados em \"caixas reforçadas compactas\" e ligados por encaixe, em menos de 10 minutos. Na DAMIE, o que vem na caixa é um módulo com estrutura de madeira e molas, que não depende de a espuma voltar ao tamanho original.",
         "Não há número confiável de anos para nenhum dos dois tipos, nem sinal publicado de que a espuma compactada perca volume. O que dá para fazer é comparar a ficha. Para ver as marcas lado a lado, com regras de teste, devolução e preço, o comparativo é [Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher](/reviews/sofa-na-caixa-inflow-ou-damie)."
       ]
@@ -177,7 +177,7 @@
         "Depende da marca e do tipo de sofá na caixa:"
       ],
       "bullets": [
-        "**Modular com módulos pré-estruturados:** vem em módulos prontos. Na DAMIE, eles se encaixam em menos de 10 minutos, segundo a ficha. Você não parafusa um sofá do zero, só junta as peças.",
+        "**Modular com módulos pré-estruturados:** vem em módulos prontos. Na DAMIE, eles se encaixam em menos de 10 minutos. Você não parafusa um sofá do zero, só junta as peças.",
         "**Espuma compactada:** vem inteiro, mas comprimido. Na Inflow, a espuma ganha forma depois que a caixa é aberta, sem montagem nem ferramentas."
       ],
       "postParagraphs": [
@@ -206,7 +206,8 @@
         "**Apartamento com porta ou elevador estreito:** o sofá na caixa tem vantagem real, porque o que precisa passar é uma caixa, não o sofá inteiro.",
         "**Quem quer sentar antes de comprar:** o sofá montado de loja física leva vantagem. Entre os sofás na caixa, o teste em casa faz esse papel, e a DAMIE dá 30 dias.",
         "**Quem muda de casa ou de layout:** o sofá modular facilita, porque os módulos se separam e se reorganizam. Se a dúvida é o formato, veja [Sofá Modular ou Retrátil: Qual Escolher em 2026? Comparativo Real de Espaço e Conforto](/reviews/sofa-modular-ou-retratil-qual-escolher)."
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria o modular na caixa, porque são módulos de madeira com encaixe e 1 ano de garantia."
     },
     {
       "heading": "Cupom CECILIA12 para o sofá da DAMIE",
@@ -232,5 +233,14 @@
         "Qual a garantia de um sofá na caixa? Depende da marca. A DAMIE dá 1 ano e suporte vitalício com peças a preço de custo, a Sofá na Caixa dá 3 meses e a Inflow, 90 dias. Pelo Código de Defesa do Consumidor, o mínimo para reclamar de defeito em produto durável é 90 dias."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "A porta, o elevador ou a escada são estreitos para passar um sofá inteiro.",
+      "Você muda de casa ou de layout com frequência e quer módulos que se reorganizam."
+    ],
+    "skipIf": [
+      "Você quer sentar e ver o tecido de perto antes de pagar, sem depender de teste em casa."
+    ]
+  }
 }

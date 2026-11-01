@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Lejour é uma plataforma brasileira de casamento que faz o site do casal e a lista de presentes. Os presentes são virtuais: o convidado paga e o valor vira crédito em dinheiro ou em produtos da Fast Shop. Criar a lista é grátis no plano Basic, e os planos pagos baixam a taxa; veja abaixo qual escolher."
+        "Vai casar e precisa de site e lista de presentes? A Lejour é uma plataforma brasileira que junta os dois: os presentes são virtuais e viram crédito em dinheiro ou em produtos da Fast Shop. Criar a lista é grátis no plano Basic, e os planos pagos baixam a taxa; veja abaixo qual escolher."
       ]
     },
     {
@@ -57,7 +57,7 @@
     {
       "heading": "Como funciona a lista de presentes da Lejour",
       "paragraphs": [
-        "Todos os presentes da lista são virtuais, segundo a central de ajuda da Lejour. O convidado entra no site do casal, escolhe um presente e paga. O valor vira crédito em dinheiro no painel do casal, e nada é entregue em casa.",
+        "Todos os presentes da lista são virtuais. O convidado entra no site do casal, escolhe um presente e paga. O valor vira crédito em dinheiro no painel do casal, e nada é entregue em casa.",
         "O convidado paga por Pix, boleto ou cartão. No cartão, pode parcelar em até 12x, com juros de 3,49% ao mês pagos por ele, e não pelo casal.",
         "Do lado do casal, o crédito fica no painel, e é de lá que sai o saque."
       ]
@@ -199,7 +199,7 @@
     {
       "heading": "Quando o dinheiro cai na conta",
       "paragraphs": [
-        "Depende de como o convidado paga e de quando você pede o saque. Segundo a central de ajuda da Lejour, o caminho do presente até o seu Pix tem quatro etapas:"
+        "Depende de como o convidado paga e de quando você pede o saque. Do presente até o seu Pix são quatro etapas:"
       ],
       "postParagraphs": [
         "Na prática, o presente pago no cartão só pode ser sacado 15 dias corridos depois da compra, e o Pix chega em até 1 dia útil depois do pedido de saque.",
@@ -235,7 +235,7 @@
       "heading": "Quanto tempo o site fica no ar",
       "paragraphs": [
         "O site do casal fica público até 90 dias depois do casamento. Depois disso, os convidados deixam de acessá-lo.",
-        "O painel de administração e o saldo continuam acessíveis depois disso, segundo a central de ajuda da Lejour."
+        "O painel de administração e o saldo continuam acessíveis depois disso."
       ]
     },
     {
@@ -244,7 +244,7 @@
         "**Basic:** casais que querem começar sem pagar ou esperam poucos presentes. Se você espera muitos presentes ou mais de 2 saques, compare com o Premium na tabela de planos acima.",
         "**Premium:** casais que esperam um volume maior de presentes ou fariam mais de 2 saques (preço, taxa e itens inclusos na tabela de planos acima).",
         "**Pro:** casais com convidados de vários países ou que querem todos os recursos (detalhes na tabela de planos acima).",
-        "Pelos recursos da tabela de planos do painel:"
+        "Na dúvida, comece no Basic: o Premium se paga a partir de R$ 16.650 em presentes."
       ],
       "postParagraphs": [
         "Para saber a partir de quanto a taxa menor paga o preço do plano, a conta é simples: o preço do plano dividido pela diferença entre as taxas. É uma conta nossa, feita com os números acima, e serve como orientação, não como promessa de economia:",
@@ -302,6 +302,15 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Vocês querem site, lista de presentes e confirmação de presença num lugar só, começando de graça.",
+      "Vocês topam receber os presentes como crédito em dinheiro ou em produtos da Fast Shop."
+    ],
+    "skipIf": [
+      "Vocês esperam que os presentes cheguem em casa, não como crédito."
+    ]
+  },
   "cta": {
     "text": "Crie o site e a lista grátis no plano Basic.",
     "label": "Criar a lista na Lejour",
