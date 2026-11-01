@@ -7,6 +7,7 @@ export interface BrandLinks {
   mediaKit: string;
   whatsappGroup: string;
   whatsapp: string;
+  telegram: string;
   instagram: string;
   youtube: string;
   tiktok: string;
@@ -33,6 +34,7 @@ export const brandLinks: BrandLinks = {
   mediaKit: 'https://mk.emcasacomcecilia.com',
   whatsappGroup: 'https://chat.whatsapp.com/GwouQfaZMrj32j7pKOIZbQ',
   whatsapp: 'https://wa.me/5511999999999',
+  telegram: 'https://t.me/brunollds',
   instagram: 'https://instagram.com/emcasacomcecilia',
   youtube: 'https://youtube.com/@emcasacomcecilia',
   tiktok: 'https://tiktok.com/@emcasacomcecilia',

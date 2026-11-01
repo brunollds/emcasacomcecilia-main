@@ -10,6 +10,7 @@ import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import { LOCALES, findLocaleByHtmlLang, type Locale } from '@/lib/i18n/locales';
 import { SEARCH_ACTION_URL_TEMPLATE } from '@/lib/siteSearch.mjs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { brandLinks } from '@/lib/brandLinks';
 
 const SITE_BASE_URL = 'https://emcasacomcecilia.com';
 const SITE_LOGO_URL = new URL(
@@ -123,6 +124,8 @@ export function RootLayoutShell({
     'zh-hans': 'Simplified Chinese',
   };
 
+  const contactLanguages = Array.from(new Set(['Portuguese', languageNames[loc]]));
+
   const organizationSchema = {
     '@context': 'https://schema.org',
     '@type': 'Organization',
@@ -135,12 +138,21 @@ export function RootLayoutShell({
       'https://tiktok.com/@emcasacomcecilia',
       'https://facebook.com/emcasacomcecilia',
     ],
-    contactPoint: {
-      '@type': 'ContactPoint',
-      email: 'contato@emcasacomcecilia.com',
-      contactType: 'customer support',
-      availableLanguage: Array.from(new Set(['Portuguese', languageNames[loc]])),
-    },
+    // Sem telefone nem endereço: o único endereço é residencial.
+    contactPoint: [
+      {
+        '@type': 'ContactPoint',
+        email: brandLinks.contactEmail,
+        contactType: 'customer support',
+        availableLanguage: contactLanguages,
+      },
+      {
+        '@type': 'ContactPoint',
+        url: brandLinks.telegram,
+        contactType: 'customer support',
+        availableLanguage: contactLanguages,
+      },
+    ],
   };
 
   const websiteSchema = {
