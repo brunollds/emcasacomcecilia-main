@@ -16,6 +16,13 @@ Identificar dores reais, dúvidas técnicas de pós-compra e lacunas de informa�
 
 **Prioridade:** temas de decisão de compra (X ou Y, vale a pena, qual escolher). Outros temas não são descartados, só não são prioridade.
 
+### Banco de perguntas reais (31/10/2026)
+Os capítulos saem das dúvidas que as pessoas têm, não da ordem da ficha da loja.
+- **Onde fica:** no dossiê do parceiro (`01_Parceiros/<Parceiro>.md`), seção "Perguntas reais". Cada linha traz a pergunta palavra por palavra e a fonte: consulta do Search Console ou do Bing, PAA, autocompletar, comentário de vídeo ou de leitora. Pergunta parafraseada ou inventada não entra.
+- **Na pauta:** cada capítulo do esqueleto aponta a pergunta do banco que ele responde, ou diz "título direto". A ordem dos capítulos segue a ordem das dúvidas mais fortes.
+- **Título em forma de pergunta:** só quando a pergunta existe literalmente no banco. Sem cota mínima. Tabela comparativa e passo a passo ficam com título direto. Pergunta fabricada para parecer busca promete uma resposta que o capítulo não dá.
+- **Manutenção:** a rodada de pautas acrescenta ao banco as consultas novas do parceiro que encontrou.
+
 ### Antes da pauta: o que já foi decidido
 Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parceiro>.md`) e a `03_Memoria/Fila-de-Pautas.md`. Toda decisão do Bruno que vale para mais de um artigo do parceiro (o que pode ser dito sobre devolução, marketplace, loja física, regras do código) vai para o dossiê, não só para o briefing. Em 19/10/2026, sete briefings da Cléa saíram contradizendo uma decisão de 14/10 que só estava na memória da sessão.
 

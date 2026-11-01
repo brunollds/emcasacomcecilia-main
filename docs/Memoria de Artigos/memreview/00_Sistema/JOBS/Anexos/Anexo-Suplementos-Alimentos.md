@@ -18,6 +18,7 @@ Vale junto com o Job 2 e com as decisões de 31/10/2026. Este anexo aplica essas
 
 ## O que este tipo nunca faz
 
+- Fecha o veredito com "eu levaria", "eu tomaria" ou "eu usaria". O veredito é "Pelos números da tabela, para o perfil X a escolha é Y, porque Z" (Job 2, seção 5).
 - Escreve "ajuda a", "melhora", "indicado para", "é seguro para", "não faz mal" ou qualquer efeito no corpo, mesmo atribuído ao rótulo como efeito de uso.
 - Diz "testamos" sem teste; o teste de cupom registrado conta como teste.
 - Põe a data da leitura em título de capítulo, em célula, em legenda de foto ou no FAQ.
