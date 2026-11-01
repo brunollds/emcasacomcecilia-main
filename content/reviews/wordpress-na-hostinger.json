@@ -50,12 +50,12 @@
     {
       "heading": "Qual plano para qual projeto",
       "paragraphs": [
-        "A Hostinger não vende um plano só de WordPress: ele vem nos planos de hospedagem de sites. A página brasileira diz, em 30/10/2026, que todos os planos incluem WordPress e Node.js. Então a pergunta não é \"qual plano tem WordPress\", e sim \"quantos sites eu vou ter e quanto backup eu preciso\"."
+        "A Hostinger não vende um plano só de WordPress: ele vem nos planos de hospedagem de sites. A página brasileira diz que todos os planos incluem WordPress e Node.js. Então a pergunta não é \"qual plano tem WordPress\", e sim \"quantos sites eu vou ter e quanto backup eu preciso\"."
       ],
       "image": {
         "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-pt.webp",
         "alt": "Quadro do plano de WordPress da Hostinger por projeto: um site só fica no Single; até 3 sites, no Premium; vários sites ou loja com WooCommerce, no Unlimited; loja ou site com muito tráfego, no Cloud Startup",
-        "caption": "O resumo da escolha: o número de sites, o espaço e o backup decidem o plano. Quadro do Em Casa com Cecília, pelo que a página da Hostinger diz em 30/10/2026.",
+        "caption": "O resumo da escolha: o número de sites, o espaço e o backup decidem o plano. Quadro do Em Casa com Cecília, pelo que a página da Hostinger diz.",
         "objectFit": "contain",
         "aspectRatio": 1.4286
       },
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "heading": "Preço e renovação em 30/10/2026",
+      "heading": "Preço e renovação",
       "paragraphs": [
         "Os preços abaixo são da página brasileira de hospedagem WordPress, lidos em 30/10/2026, no prazo de 48 meses e na campanha de Black Friday. O preço por mês é o total dividido por 48. A renovação é o preço por mês depois do primeiro período:"
       ],
@@ -126,7 +126,7 @@
     {
       "heading": "O que já vem nos planos",
       "paragraphs": [
-        "Pela página de 30/10/2026, sem teste nosso:"
+        "Pela página da Hostinger, sem teste nosso:"
       ],
       "bullets": [
         "**WordPress e Node.js em todos os planos.**",
@@ -154,7 +154,7 @@
     {
       "heading": "Se você já anuncia no Google",
       "paragraphs": [
-        "Segundo os termos da promoção, lidos em 30/10/2026, quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito de anúncios, no Brasil. Quem define a elegibilidade é a Google, a promoção pode mudar, e a página não traz data de validade. Vale para quem já ia gastar esse valor; não é motivo para começar a anunciar."
+        "Segundo os termos da promoção, quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito de anúncios, no Brasil. Quem define a elegibilidade é a Google, a promoção pode mudar, e a página não traz data de validade. Vale para quem já ia gastar esse valor; não é motivo para começar a anunciar."
       ]
     },
     {
@@ -181,7 +181,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual o plano de WordPress mais barato da Hostinger? Em 30/10/2026, o Single, a R$ 5,99/mês em 48 meses (R$ 287,52 no total), para 1 site. Ele renova a R$ 23,99/mês.",
+        "Qual o plano de WordPress mais barato da Hostinger? O Single, a R$ 5,99/mês em 48 meses (R$ 287,52 no total), para 1 site. Ele renova a R$ 23,99/mês.",
         "O WordPress vem instalado na Hostinger? A página diz que todos os planos incluem WordPress e cita um instalador de 1 clique no painel. Ela não detalha a instalação por plano.",
         "A Hostinger usa LiteSpeed no WordPress? A página fala em servidores LiteSpeed e cache inteligente na hospedagem WordPress, sem dizer em quais planos.",
         "Qual plano de WordPress da Hostinger para loja virtual? O Unlimited, pelos backups diários e sites ilimitados. Para loja com muito tráfego, o Cloud Startup, com backup sob demanda.",
@@ -191,7 +191,7 @@
     {
       "heading": "Quem escreve",
       "paragraphs": [
-        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 17/11/2024. O site não usa WordPress, e ninguém da equipe usou WordPress na Hostinger: este texto reúne o que a página brasileira de hospedagem WordPress e os termos da promoção do Google Ads dizem, lidos em 30/10/2026."
+        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. O site não usa WordPress, e ninguém da equipe usou WordPress na Hostinger: este texto reúne o que a página brasileira de hospedagem WordPress e os termos da promoção do Google Ads dizem."
       ]
     }
   ],

@@ -91595,13 +91595,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem está por trás da Hostinger",
         "paragraphs": [
-          "Os termos de serviço dizem que a empresa contratante depende do país do cliente. Para quem mora no Brasil, pela regra da seção 2 dos termos (revisados em 09/10/2026), a contratante é a Hostinger International Limited, de Chipre. Os mesmos termos citam a Hostinger Brasil Hospedagem de Sites Ltda entre as empresas do grupo que podem fazer a cobrança. Na prática, vale o nome que aparece no checkout e na fatura: confira os dois antes de pagar."
+          "Os termos de serviço dizem que a empresa contratante depende do país do cliente. Para quem mora no Brasil, pela regra da seção 2 dos termos, a contratante é a Hostinger International Limited, de Chipre. Os mesmos termos citam a Hostinger Brasil Hospedagem de Sites Ltda entre as empresas do grupo que podem fazer a cobrança. Na prática, vale o nome que aparece no checkout e na fatura: confira os dois antes de pagar."
         ]
       },
       {
         "heading": "Reembolso: 30 dias, com exceções",
         "paragraphs": [
-          "A política de reembolso da Hostinger (versão de 15/10/2026, lida em 19/10/2026) dá 30 dias para pedir o dinheiro de volta, contados da data da transação. Pela própria política, a renovação também é uma transação: cada cobrança recomeça o prazo. A tabela mostra o que ela lista:"
+          "A política de reembolso da Hostinger (versão de 15/10/2026) dá 30 dias para pedir o dinheiro de volta, contados da data da transação. Pela própria política, a renovação também é uma transação: cada cobrança recomeça o prazo. A tabela mostra o que ela lista:"
         ],
         "comparisonTable": {
           "headers": [
@@ -91654,7 +91654,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/hostinger/hostinger-e-confiavel-politica-reembolso.webp",
             "alt": "Trecho da política de reembolso da Hostinger com a lista de produtos reembolsáveis em 30 dias",
-            "caption": "Política de reembolso da Hostinger: os produtos que entram no reembolso padrão. Imagem: site da Hostinger, print de 19/10/2026",
+            "caption": "Política de reembolso da Hostinger: os produtos que entram no reembolso padrão. Imagem: print do site da Hostinger",
             "objectFit": "contain",
             "aspectRatio": 1.75
           }
@@ -91680,7 +91680,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Queda do site e garantia de disponibilidade",
         "paragraphs": [
-          "Os termos dizem que o site pode ficar fora do ar \"de tempos em tempos\", por manutenção ou por fatores fora do controle da empresa, e que a Hostinger não assume responsabilidade por isso. A tabela de planos da página de preços anuncia \"99,9% de uptime garantido\" (lida em 19/10/2026). É o que a Hostinger anuncia; o compromisso de disponibilidade, quando existe, fica no documento de cada serviço.",
+          "Os termos dizem que o site pode ficar fora do ar \"de tempos em tempos\", por manutenção ou por fatores fora do controle da empresa, e que a Hostinger não assume responsabilidade por isso. A tabela de planos da página de preços anuncia \"99,9% de uptime garantido\". É o que a Hostinger anuncia; o compromisso de disponibilidade, quando existe, fica no documento de cada serviço.",
           "Se o seu site não pode sair do ar, procure o documento do seu plano antes de pagar. A frase da página não basta."
         ]
       },
@@ -91733,12 +91733,6 @@ export const reviewsData: unknown[] = [
           "Desligue a renovação automática logo depois da compra, se não quiser que ela siga.",
           "Confira no checkout e na fatura qual empresa aparece como cobradora.",
           "Procure a garantia de disponibilidade no documento do seu plano."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este texto tem o código SONAR20 e o link da Hostinger. Se você contratar com o código ou pelo link, a compra pode gerar comissão para o Bruno. Reembolso, renovação e empresa vêm dos documentos públicos da Hostinger, lidos em 19/10/2026. A experiência é nossa e não se aplica automaticamente ao seu plano."
         ]
       }
     ],
@@ -93776,6 +93770,7 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
+    "bodyDatesReason": "reclame-aqui",
     "id": 483,
     "slug": "hostinger-reclame-aqui-nota-reputacao",
     "locale": "pt",
@@ -93821,7 +93816,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com uma ressalva. Em 30/09/2026, a Hostinger tinha reputação Ótima no Reclame Aqui, respondia quase todas as reclamações e marcava a maior parte como resolvida. O problema mais citado é a cobrança indevida, que na hospedagem pede atenção com a renovação automática. Veja abaixo como desligá-la; os 20% do primeiro período vêm do [cupom SONAR20 da Hostinger](/cupons/hostinger)."
+          "Sim, com uma ressalva. No período lido, a Hostinger tinha reputação Ótima no Reclame Aqui, respondia quase todas as reclamações e marcava a maior parte como resolvida. O problema mais citado é a cobrança indevida, que na hospedagem pede atenção com a renovação automática. Veja abaixo como desligá-la; os 20% do primeiro período vêm do [cupom SONAR20 da Hostinger](/cupons/hostinger)."
         ]
       },
       {
@@ -93891,14 +93886,14 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-perfil.webp",
             "alt": "Topo do perfil da Hostinger no Reclame Aqui, com reputação Ótima e empresa verificada",
-            "caption": "Perfil da Hostinger no Reclame Aqui, lido em 19/10/2026.",
+            "caption": "Perfil da Hostinger no Reclame Aqui.",
             "objectFit": "contain",
             "aspectRatio": 3.5556
           },
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-montagem-6-e-12-meses.webp",
             "alt": "Abas de 6 meses e de 12 meses do perfil da Hostinger no Reclame Aqui, lado a lado, com as datas de cada período",
-            "caption": "Aba de 6 meses (01/04 a 30/09/2026) e de 12 meses (01/10/2025 a 30/09/2026), lidas em 19/10/2026.",
+            "caption": "Aba de 6 meses e de 12 meses do Reclame Aqui.",
             "objectFit": "contain",
             "aspectRatio": 0.6521
           }
@@ -93927,7 +93922,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-principais-problemas.webp",
             "alt": "Quadro de principais problemas comentados da Hostinger no Reclame Aqui, com cobrança indevida em 21,72%",
-            "caption": "Principais problemas comentados, aba geral do Reclame Aqui (até 3 anos), lido em 19/10/2026.",
+            "caption": "Principais problemas comentados, aba geral do Reclame Aqui (até 3 anos).",
             "objectFit": "contain",
             "aspectRatio": 1.2188
           }
@@ -93947,7 +93942,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como desligar a renovação automática",
         "paragraphs": [
-          "Segundo a central de ajuda da Hostinger, lida em 19/10/2026, o caminho é este:"
+          "Segundo a central de ajuda da Hostinger, o caminho é este:"
         ],
         "bullets": [
           "No hPanel, abra o menu **Faturas**.",
@@ -93972,11 +93967,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: a nota de quem avalia",
         "paragraphs": [
-          "O Reclame Aqui é só brasileiro. O Trustpilot é um site internacional de avaliações, e na leitura de 24/10/2026, a Hostinger tinha TrustScore 4,6 (\"Excelente\") com 73.411 avaliações. Cinco estrelas somam 87,1%; uma estrela, 6,9%, cerca de 5,1 mil avaliações.",
+          "O Reclame Aqui é só brasileiro. O Trustpilot é um site internacional de avaliações, e na leitura, a Hostinger tinha TrustScore 4,6 (\"Excelente\") com 73.411 avaliações. Cinco estrelas somam 87,1%; uma estrela, 6,9%, cerca de 5,1 mil avaliações.",
           "Antes de usar esse número, veja o que a própria página mostra:"
         ],
         "bullets": [
-          "O perfil é reivindicado desde maio de 2017, ou seja, a empresa administra a página.",
+          "O perfil é reivindicado desde 2017, ou seja, a empresa administra a página.",
           "A empresa tem assinatura paga do Trustpilot.",
           "A página diz que a Hostinger convida os clientes a avaliar, tanto as positivas quanto as negativas. Um convite amplo puxa a média para cima e não mostra quem ficou de fora.",
           "A empresa responde 99% das avaliações negativas, em geral em até 24 horas, e pode usar IA nas respostas.",
@@ -93986,20 +93981,20 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
             "alt": "Topo do perfil da Hostinger no Trustpilot, com nota 4,6, 73.316 avaliações, perfil reivindicado, assinatura paga e o aviso de que a empresa convida os clientes a avaliar",
-            "caption": "Perfil da Hostinger no Trustpilot em 19/10/2026. Imagem: print do Bruno.",
+            "caption": "Perfil da Hostinger no Trustpilot. Imagem: print do Bruno.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
           },
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
             "alt": "Barras de avaliação da Hostinger no Trustpilot, de 5 a 1 estrela, com os percentuais",
-            "caption": "Distribuição das avaliações da Hostinger no Trustpilot, lida em 19/10/2026.",
+            "caption": "Distribuição das avaliações da Hostinger no Trustpilot.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
         ],
         "postParagraphs": [
-          "Em 24/10/2026, lemos as 100 avaliações de 5 estrelas e as 100 de 1 estrela mais recentes. Das de 5 estrelas, 78 foram convidadas pela empresa; das de 1 estrela, 92 foram espontâneas. Entre as 86 queixas de verdade (14 eram elogios com a nota errada), os temas mais citados foram o atendimento por IA sem chegar a uma pessoa (cerca de 45), cobrança e renovação (cerca de 38) e domínios (cerca de 27). A cobrança aparece nos dois sites; o atendimento por IA aparece mais no Trustpilot."
+          "Lemos as 100 avaliações de 5 estrelas e as 100 de 1 estrela mais recentes. Das de 5 estrelas, 78 foram convidadas pela empresa; das de 1 estrela, 92 foram espontâneas. Entre as 86 queixas de verdade (14 eram elogios com a nota errada), os temas mais citados foram o atendimento por IA sem chegar a uma pessoa (cerca de 45), cobrança e renovação (cerca de 38) e domínios (cerca de 27). A cobrança aparece nos dois sites; o atendimento por IA aparece mais no Trustpilot."
         ]
       },
       {
@@ -94019,7 +94014,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Hostinger?",
         "paragraphs": [
-          "Pelo Reclame Aqui, sim. Em 30/09/2026, a reputação era Ótima (nota 8,6 em 6 meses e 8,4 em 12 meses). A empresa respondeu 99,3% das 1.352 reclamações dos 6 meses e marcou 88,6% como resolvidas, e 80,3% de quem avaliou voltaria a fazer negócio.",
+          "Pelo Reclame Aqui, sim. No período lido, a reputação era Ótima (nota 8,6 em 6 meses e 8,4 em 12 meses). A empresa respondeu 99,3% das 1.352 reclamações dos 6 meses e marcou 88,6% como resolvidas, e 80,3% de quem avaliou voltaria a fazer negócio.",
           "A ressalva é o tipo de queixa. A cobrança indevida lidera o ranking de problemas, com 21,72%, e a resposta leva em média 8 dias e 1 hora. Na hospedagem, a renovação automática cobra sozinha antes do vencimento, e a ligação entre as duas coisas é uma leitura nossa.",
           "Na prática: confira a data de renovação, desligue a renovação automática se não quiser continuar e abra o perfil no Reclame Aqui antes de contratar, porque os números mudam todo mês."
         ]
@@ -94027,7 +94022,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Hostinger tem nota boa no Reclame Aqui? Em 30/09/2026, a reputação era Ótima: nota 8,6 nos últimos 6 meses e 8,4 nos últimos 12 meses.",
+          "A Hostinger tem nota boa no Reclame Aqui? No período lido, a reputação era Ótima: nota 8,6 nos últimos 6 meses e 8,4 nos últimos 12 meses.",
           "Quais são as reclamações mais comuns da Hostinger? No ranking de problemas do Reclame Aqui (aba geral, até 3 anos), cobrança indevida aparece com 21,72%, o item mais citado.",
           "A Hostinger responde reclamações? Sim. 99,3% das reclamações dos últimos 6 meses foram respondidas, e 10 aguardavam resposta.",
           "Como desligar a renovação automática da Hostinger? No hPanel, abra Faturas, vá em Serviços, clique nos três pontinhos do produto, escolha Configurações de Renovação e desmarque a opção. O produto segue ativo até o vencimento."
@@ -94037,13 +94032,6 @@ export const reviewsData: unknown[] = [
         "heading": "Se você já decidiu",
         "paragraphs": [
           "Se você decidiu contratar, o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. Não testamos a renovação com o cupom; confira o preço no carrinho, e veja o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os números do Reclame Aqui são dos prints feitos em 19/10/2026: as abas de 6 e 12 meses e o ranking de problemas (aba geral, até 3 anos). O Trustpilot foi lido em 19/10 e em 24/10/2026, quando também lemos a amostra de 200 avaliações, e a central de ajuda da Hostinger, em 19/10/2026. Esses números mudam todo mês, então confira antes de decidir.",
-          "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno. A comissão não entra na análise."
         ]
       }
     ],
@@ -96825,7 +96813,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o SONAR20 cobre",
         "paragraphs": [
-          "Pela regra da parceria, o SONAR20 vale em todos os planos, mensais e anuais, e também para quem já é cliente da Hostinger. Testamos em 29/10/2026: no site brasileiro, com o código no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o Startup de 48 meses passou de US$ 383,52 para US$ 306,82. Nos três casos, os 20% saíram do preço da Black Friday, e o código valeu sozinho, sem o link.",
+          "Pela regra da parceria, o SONAR20 vale em todos os planos, mensais e anuais, e também para quem já é cliente da Hostinger. Testamos no carrinho: no site brasileiro, com o código no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o Startup de 48 meses passou de US$ 383,52 para US$ 306,82. Nos três casos, os 20% saíram do preço da Black Friday, e o código valeu sozinho, sem o link.",
           "O link deste artigo continua valendo, com as regras dele: planos de 12 meses ou mais, para cliente novo. Nos outros casos, use o código. Não citamos códigos de outros sites."
         ]
       },
@@ -96893,7 +96881,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-precos-com-link.webp",
             "alt": "Página de preços da Hostinger com os quatro planos e o preço mensal de 48 meses com 20% de desconto",
-            "caption": "Preço de 48 meses com 20% de desconto, em 19/10/2026. Imagem: captura do Em Casa com Cecília.",
+            "caption": "Preço de 48 meses com 20% de desconto. Imagem: captura do Em Casa com Cecília.",
             "objectFit": "contain",
             "aspectRatio": 4.079
           }
@@ -96917,7 +96905,7 @@ export const reviewsData: unknown[] = [
           "Escolha o plano e o período e siga para o carrinho.",
           "Cole SONAR20 no campo de cupom e aplique.",
           "Confira se os 20% aparecem no total do primeiro período e se a renovação está listada.",
-          "Se o valor do carrinho for diferente da tabela, vale o valor do carrinho. A tabela é de 19/10/2026."
+          "Se o valor do carrinho for diferente da tabela, vale o valor do carrinho."
         ]
       },
       {
@@ -96927,13 +96915,7 @@ export const reviewsData: unknown[] = [
           "Onde coloco o cupom da Hostinger? No carrinho, no campo \"Tem um cupom de desconto?\" (\"Have a coupon code?\" no site global). Cole SONAR20 e aplique antes de pagar.",
           "O SONAR20 vale para quem já é cliente? Sim, num plano novo, pela regra da parceria. Para a renovação de um plano que você já tem, veja o preço no painel.",
           "O cupom dá desconto na renovação? Não testamos. Confira o preço de renovação no carrinho antes de pagar.",
-          "O SONAR20 vale na Black Friday? Sim: no teste de 29/10/2026, os 20% saíram do preço da campanha."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "As compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para quem compra. O site roda na Hostinger, e o Bruno é cliente desde 2024. Os preços são de 19/10/2026, mudam com a campanha, e a Hostinger pode alterá-los a qualquer momento."
+          "O SONAR20 vale na Black Friday? Sim: no teste no carrinho, os 20% saíram do preço da campanha."
         ]
       }
     ],
@@ -109024,12 +109006,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gerenciado ou VPS: a tabela",
         "paragraphs": [
-          "O OpenClaw gerenciado é o plano \"Apps de automação com IA\", o mesmo do Hermes Agent e do Paperclip gerenciados, pelo mesmo preço. Os valores são de plano de 24 meses, lidos em 21/10/2026."
+          "O OpenClaw gerenciado é o plano \"Apps de automação com IA\", o mesmo do Hermes Agent e do Paperclip gerenciados, pelo mesmo preço. Os valores são de plano de 24 meses."
         ],
         "image": {
           "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
           "alt": "Quadro com duas colunas, Gerenciado e VPS: a Hostinger instala nos dois; atualizações e segurança do servidor ficam com a Hostinger no gerenciado e com você no VPS; créditos de IA ou chave própria você escolhe nos dois",
-          "caption": "Quem cuida de quê em cada opção, pela página da Hostinger e pela documentação do OpenClaw lidas em 21/10/2026."
+          "caption": "Quem cuida de quê em cada opção, pela página da Hostinger e pela documentação do OpenClaw."
         },
         "comparisonTable": {
           "headers": [
@@ -109109,7 +109091,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-pt.webp",
           "alt": "Três passos para ligar o OpenClaw ao Telegram: criar o bot no BotFather e copiar o token, colar o token na configuração do OpenClaw e mandar uma mensagem para aprovar o primeiro contato",
-          "caption": "Os passos da documentação oficial do OpenClaw, lida em 21/10/2026."
+          "caption": "Os passos da documentação oficial do OpenClaw."
         },
         "bullets": [
           "Crie o bot no BotFather, o bot oficial do Telegram para criar bots, e copie o token.",
@@ -109201,17 +109183,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Vale a pena o OpenClaw gerenciado da Hostinger? Vale para quem quer o assistente sem cuidar de servidor: em 21/10/2026, ele sai mais barato que o VPS no primeiro período e renova pelo mesmo preço. Quem quer root e outros programas no servidor fica melhor com o VPS.",
+          "Vale a pena o OpenClaw gerenciado da Hostinger? Vale para quem quer o assistente sem cuidar de servidor: ele sai mais barato que o VPS no primeiro período e renova pelo mesmo preço. Quem quer root e outros programas no servidor fica melhor com o VPS.",
           "Precisa de conta na OpenAI ou na Anthropic? Não. Nas duas opções dá para usar os créditos de IA da Hostinger. A conta no provedor só é preciso se você preferir a sua própria chave.",
           "Tem cupom de desconto da Hostinger para o OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período.",
-          "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços de 21/10/2026. Não testamos a renovação com o SONAR20; confira o preço no carrinho.",
+          "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços da tabela. Não testamos a renovação com o SONAR20; confira o preço no carrinho.",
           "O plano gerenciado serve para o Hermes Agent ou o Paperclip? Sim. Os três estão no mesmo plano, \"Apps de automação com IA\", pelo mesmo preço. A página do Paperclip não lista créditos de IA, então leve a sua chave."
         ]
       },
       {
         "heading": "Quem escreve",
         "paragraphs": [
-          "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw: este texto reúne o que as páginas da Hostinger e a documentação oficial do OpenClaw dizem, lidas em 21/10/2026."
+          "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw: este texto reúne o que as páginas da Hostinger e a documentação oficial do OpenClaw dizem."
         ]
       }
     ],
@@ -114185,7 +114167,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a documentação oficial diz (e não diz) sobre requisitos",
         "paragraphs": [
           "O OpenClaw pode usar um modelo de IA que fica no provedor, pela sua chave de API ou pelos créditos de IA da Hostinger, ou um modelo local, que roda no próprio servidor. Chave de API é a senha que o OpenClaw usa para pedir respostas a um provedor, que cobra pelo uso. Com o modelo no provedor, o pedido vai para a empresa de IA e o servidor só roda o programa.",
-          "As páginas oficiais de instalação e de modelos locais, lidas em 21/10/2026, dizem o seguinte:"
+          "As páginas oficiais de instalação e de modelos locais dizem o seguinte:"
         ],
         "bullets": [
           "**Versão do Node.** O OpenClaw pede Node 24.16 ou mais novo, ou Node 26.1 ou mais novo. O Node é o programa que executa o OpenClaw, e a instalação por npm exige essa versão. A página recomenda o Node 26. Se o Node não estiver instalado, o instalador oficial traz a versão (Node 26 no macOS e Node 24 LTS no Linux).",
@@ -114239,7 +114221,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
           "alt": "Quadro com três linhas: modelo fora do servidor (chave de API ou créditos) leva ao KVM 1; modelo local pequeno leva ao KVM 2, no limite, ou ao KVM 4; modelo local com mais contexto ou outros programas leva ao KVM 4 ou ao KVM 8",
-          "caption": "Pela documentação do OpenClaw lida em 21/10/2026; não medimos desempenho."
+          "caption": "Pela documentação do OpenClaw; não medimos desempenho."
         },
         "comparisonTable": {
           "headers": [
@@ -114315,7 +114297,7 @@ export const reviewsData: unknown[] = [
             [
               "Quer o assistente no ar sem mexer em servidor, com chave de API ou créditos da Hostinger",
               "Gerenciado",
-              "A Hostinger instala e mantém o assistente. Em 21/10/2026, R$ 19,99/mês com o SONAR20, em plano de 24 meses"
+              "A Hostinger instala e mantém o assistente. R$ 19,99/mês com o SONAR20, em plano de 24 meses"
             ],
             [
               "Quer acesso root e rodar outros programas no mesmo servidor, como um site ou o n8n",
@@ -114347,7 +114329,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O VPS grátis: Oracle Always Free",
         "paragraphs": [
-          "A Oracle tem um plano gratuito, o Always Free. Ele não é da Hostinger e não substitui o VPS pago. Pela documentação da Oracle, lida em 21/10/2026:"
+          "A Oracle tem um plano gratuito, o Always Free. Ele não é da Hostinger e não substitui o VPS pago. Pela documentação da Oracle:"
         ],
         "bullets": [
           "Até duas instâncias Micro (processador AMD), com 1/8 de OCPU e 1 GB de memória cada.",
@@ -114393,7 +114375,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escreve",
         "paragraphs": [
-          "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw: este texto reúne o que a Hostinger, a Oracle e a documentação oficial do OpenClaw dizem, lidas em 21/10/2026."
+          "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw: este texto reúne o que a Hostinger, a Oracle e a documentação oficial do OpenClaw dizem."
         ]
       }
     ],
@@ -116059,7 +116041,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-pt.webp",
           "alt": "Quadro com quatro perfis e a resposta de cada um: muitos canais e app no celular leva ao OpenClaw; agente que aprende e cria as próprias habilidades leva ao Hermes Agent; não quer cuidar de servidor leva ao gerenciado; quer root e outros programas leva ao VPS",
-          "caption": "Pela documentação de cada projeto, lida em 21/10/2026."
+          "caption": "Pela documentação de cada projeto."
         },
         "bullets": [
           "**Quer muitos canais e um aplicativo no celular:** OpenClaw. O README fala em mais de 20 canais e traz apps nativos para celular e computador, além da Control UI na web.",
@@ -119886,7 +119868,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
           "alt": "Quadro com um Objetivo no topo, um CEO abaixo dele e três agentes (Engenharia, Marketing e Suporte), com a faixa Orçamento e aprovação embaixo",
-          "caption": "Como o Paperclip organiza os agentes, pela documentação oficial lida em 21/10/2026."
+          "caption": "Como o Paperclip organiza os agentes, pela documentação oficial."
         },
         "bullets": [
           "**Organograma:** a estrutura de quem reporta a quem. Um agente de marketing responde a quem cuida da estratégia, e assim por diante.",
@@ -120051,7 +120033,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Paperclip é grátis? O programa é de código aberto, com licença MIT, e dá para instalar no seu computador sem pagar a Hostinger. O uso dos modelos de IA é cobrado pelo provedor, e o gerenciado e o VPS são planos pagos.",
-          "Paperclip é confiável? Não dá para dar um veredito. Dá para conferir que o código é público, que o repositório indica a equipe Paperclip (Paperclip Labs, Inc. no aviso de copyright) como responsável, e que as falhas de segurança são reportadas por um canal oficial no GitHub. Não encontramos auditoria independente nas fontes lidas em 21/10/2026.",
+          "Paperclip é confiável? Não dá para dar um veredito. Dá para conferir que o código é público, que o repositório indica a equipe Paperclip (Paperclip Labs, Inc. no aviso de copyright) como responsável, e que as falhas de segurança são reportadas por um canal oficial no GitHub. Não encontramos auditoria independente nas fontes lidas.",
           "Precisa de chave de API? Sim. No gerenciado e no VPS, a página do Paperclip pede que você traga as suas. No computador, o README também aceita a assinatura de Claude ou de Codex, sem chave de API.",
           "Roda com Ollama? Depende do agente que você conecta. O README do Paperclip não cita o Ollama, um programa para rodar modelo de IA no próprio computador. O OpenClaw, por exemplo, documenta modelos locais; no Paperclip, o modelo fica com o agente que você conecta.",
           "Tem cupom para o Paperclip na Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho."
@@ -146832,14 +146814,14 @@ export const reviewsData: unknown[] = [
           "**Edição com IA (o modo Agentic):** você descreve o que quer no chat e a IA desenha e programa. Cada ação consome créditos de IA, e dá para recarregar."
         ],
         "postParagraphs": [
-          "O que sai de lá é um site ou um aplicativo web, não um app para a App Store ou o Google Play: a própria página diz isso. A hospedagem, o domínio e o e-mail vêm no plano, e o código-fonte pode ser exportado para hospedar em outro lugar. Tudo isso é a descrição da Hostinger, lida em 28/10/2026, não um teste nosso.",
+          "O que sai de lá é um site ou um aplicativo web, não um app para a App Store ou o Google Play: a própria página diz isso. A hospedagem, o domínio e o e-mail vêm no plano, e o código-fonte pode ser exportado para hospedar em outro lugar. Tudo isso é a descrição da Hostinger, não um teste nosso.",
           "Não confunda com os agentes de automação da Hostinger, como o OpenClaw e o Hermes Agent: aqueles são [assistentes que rodam num servidor](/reviews/openclaw-ou-hermes-agent) e respondem no Telegram ou no WhatsApp. O Criador com IA constrói o site."
         ]
       },
       {
         "heading": "Para qual projeto ele serve: o quadro",
         "paragraphs": [
-          "A pergunta certa não é \"a IA é boa?\", e sim \"o que eu vou construir e quem vai mexer nisso depois?\". O quadro resume a escolha por tipo de projeto, pelo que a página do Criador com IA e a documentação do WordPress dizem em 28/10/2026:"
+          "A pergunta certa não é \"a IA é boa?\", e sim \"o que eu vou construir e quem vai mexer nisso depois?\". O quadro resume a escolha por tipo de projeto, pelo que a página do Criador com IA e a documentação do WordPress dizem:"
         ],
         "comparisonTable": {
           "headers": [
@@ -146883,7 +146865,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-pt.webp",
           "alt": "Quadro Criador com IA ou WordPress por tipo de projeto: cardápio ou página de serviços, portfólio e app web ficam com o Criador com IA; blog que depende de plugins e projeto que outra pessoa vai manter ficam com o WordPress; loja pequena serve nos dois",
-          "caption": "O resumo do quadro: o Criador com IA para site simples, portfólio e app web; o WordPress para plugins e para quem vai passar o site adiante. Quadro do Em Casa com Cecília, pelo que as páginas dizem em 28/10/2026.",
+          "caption": "O resumo do quadro: o Criador com IA para site simples, portfólio e app web; o WordPress para plugins e para quem vai passar o site adiante. Quadro do Em Casa com Cecília, pelo que as páginas dizem.",
           "objectFit": "contain",
           "aspectRatio": 1.2346
         },
@@ -146953,7 +146935,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Preço e renovação em 28/10/2026",
+        "heading": "Preço e renovação",
         "paragraphs": [
           "O Criador com IA não tem plano próprio: ele vem nos planos de hospedagem de sites, de 48 meses, pagos de uma vez ou em até 12 parcelas. Os preços abaixo são da página brasileira, lidos em 28/10/2026, na campanha de Black Friday. A coluna \"com o SONAR20\" é o preço com os 20% do cupom:"
         ],
@@ -147004,9 +146986,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Os créditos.** O modo com IA gasta créditos a cada pedido, e o saldo do plano não renova todo mês. Monte o site pela IA e faça os ajustes de texto e foto no editor, que não gasta.",
           "**O que acontece se você não renovar.** A página avisa: plano vencido e não renovado tira o projeto do ar e apaga os dados. Exporte o código antes de deixar vencer.",
-          "**Domínio e e-mail grátis só no primeiro ano.** Depois, o domínio renova pelo preço de tabela da Hostinger, lido em 28/10/2026: .com.br R$ 64,99 por ano e .com R$ 94,99 por ano.",
+          "**Domínio e e-mail grátis só no primeiro ano.** Depois, o domínio renova pelo preço de tabela da Hostinger: .com.br R$ 64,99 por ano e .com R$ 94,99 por ano.",
           "**Reembolso em 30 dias**, desde que você tenha consumido menos de 30 créditos de IA.",
-          "**Loja virtual** é item dos planos Unlimited e Cloud Startup; no Unlimited, a página de 28/10/2026 diz grátis por 3 meses. Confira no checkout o que custa depois.",
+          "**Loja virtual** é item dos planos Unlimited e Cloud Startup; no Unlimited, a página diz grátis por 3 meses. Confira no checkout o que custa depois.",
           "**App nativo não existe.** O que o Criador faz é um app web responsivo, que abre no navegador do celular. Para a App Store e o Google Play, é outro caminho."
         ],
         "postParagraphs": [
@@ -147016,7 +146998,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Não testamos a renovação; confira o preço no carrinho. Em 28/10/2026, os preços com os 20% eram os da coluna \"com o SONAR20\" acima. A regra completa e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger).",
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Não testamos a renovação; confira o preço no carrinho. Os preços com os 20% eram os da coluna \"com o SONAR20\" acima. A regra completa e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger).",
           "A Hostinger está em campanha de Black Friday, sem data de fim na página, e os preços e os créditos em dobro podem mudar. Confira o valor no carrinho antes de pagar."
         ]
       },
@@ -147036,14 +147018,14 @@ export const reviewsData: unknown[] = [
           "Precisa saber programar para usar o Criador com IA? Não. A página diz que não exige conhecimento técnico nos dois modos. Quem sabe programar tem um editor de código no modo com IA.",
           "Dá para migrar do Criador com IA para outra hospedagem? A página diz que o código-fonte pode ser exportado e hospedado em outro lugar. O back-end integrado, com banco e login, fica na Hostinger, então um app precisa de reconfiguração fora dela.",
           "O Criador com IA vale para loja virtual? Para loja pequena, sim: a loja virtual é item dos planos Unlimited e Cloud Startup. Para loja grande, com regras de frete e pagamento, o WordPress com WooCommerce dá mais controle.",
-          "Quanto custa o Horizons da Hostinger em 2026? O Criador com IA vem nos planos de hospedagem. Em 28/10/2026, o Premium custava R$ 7,99/mês com o SONAR20 (R$ 9,99 sem) em 48 meses e renova a R$ 38,99/mês; o Unlimited, R$ 10,39/mês (R$ 12,99 sem) e renova a R$ 64,99/mês.",
+          "Quanto custa o Horizons da Hostinger em 2026? O Criador com IA vem nos planos de hospedagem. O Premium custava R$ 7,99/mês com o SONAR20 (R$ 9,99 sem) em 48 meses e renova a R$ 38,99/mês; o Unlimited, R$ 10,39/mês (R$ 12,99 sem) e renova a R$ 64,99/mês.",
           "Tem cupom para o Criador com IA da Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho."
         ]
       },
       {
         "heading": "Quem escreve",
         "paragraphs": [
-          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde novembro de 2024. Ninguém da equipe usou o Criador com IA nem o Horizons: este texto reúne o que a página brasileira do produto, a documentação do WordPress e as páginas públicas do Wix e do Lovable dizem, lidas em 28/10/2026."
+          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. Ninguém da equipe usou o Criador com IA nem o Horizons: este texto reúne o que a página brasileira do produto, a documentação do WordPress e as páginas públicas do Wix e do Lovable dizem."
         ]
       }
     ],
@@ -149825,7 +149807,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio com mais de 60 dias; os preços de 28/10/2026 estão abaixo."
+          "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio com mais de 60 dias; os preços estão abaixo."
         ]
       },
       {
@@ -149838,12 +149820,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os três caminhos",
         "paragraphs": [
-          "Quem monta um site tem três opções para o domínio. O quadro resume o que muda em cada uma, pelas páginas da Hostinger lidas em 28/10/2026."
+          "Quem monta um site tem três opções para o domínio. O quadro resume o que muda em cada uma, pelas páginas da Hostinger."
         ],
         "image": {
           "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
           "alt": "Quadro com três caminhos para o domínio: comprar com a hospedagem (registro na Hostinger), transferir (o registro passa para a Hostinger) e deixar fora e apontar (o registro fica onde está); nos três o domínio é seu, o que muda é quem cobra a renovação",
-          "caption": "Os três caminhos para o domínio, pelas páginas da Hostinger lidas em 28/10/2026.",
+          "caption": "Os três caminhos para o domínio, pelas páginas da Hostinger.",
           "objectFit": "contain",
           "aspectRatio": 1.7787
         },
@@ -149924,7 +149906,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A leitura é esta: o .com.br renova pelo mesmo valor do primeiro ano cheio, R$ 64,99. O .com também, R$ 94,99. Já as extensões de R$ 5,99 renovam a mais de R$ 190 por ano: o preço de entrada não diz nada sobre o que você vai pagar no segundo ano. Olhe sempre a coluna da renovação.",
-          "No .com.br com prazo de 3 anos, o R$ 1 é só do primeiro ano; a página não mostra o total dos três anos fora do carrinho, então confira o valor antes de pagar. Para comparar, o Registro.br, que administra os domínios .br, anuncia o registro a R$ 40 por ano (lido em 28/10/2026): comprar lá é o caminho \"fora e apontar\" da tabela acima.",
+          "No .com.br com prazo de 3 anos, o R$ 1 é só do primeiro ano; a página não mostra o total dos três anos fora do carrinho, então confira o valor antes de pagar. Para comparar, o Registro.br, que administra os domínios .br, anuncia o registro a R$ 40 por ano: comprar lá é o caminho \"fora e apontar\" da tabela acima.",
           "A privacidade dos dados de contato (RDAP, o antigo WHOIS) vem incluída nas extensões compatíveis. O .com.br é a extensão do Brasil; fora do país, cada registrador tem a sua, e o preço muda com a moeda."
         ]
       },
@@ -149932,7 +149914,7 @@ export const reviewsData: unknown[] = [
         "heading": "Transferir: a regra dos 60 dias e o passo a passo",
         "paragraphs": [
           "Transferir é mudar o registro do domínio de uma empresa para outra. A página de transferência da Hostinger diz que o site e o e-mail continuam funcionando durante o processo, e que os dados de propriedade não mudam. O que muda é quem cobra a renovação e onde você mexe no DNS.",
-          "As regras, pela página da Hostinger lida em 28/10/2026:"
+          "As regras, pela página da Hostinger:"
         ],
         "bullets": [
           "**Idade do registro:** na maioria dos casos, o domínio precisa estar registrado há pelo menos 60 dias. Domínio novo na Hostinger também fica travado por 60 dias antes de poder sair.",
@@ -149973,7 +149955,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual caminho escolher",
         "paragraphs": [
-          "**Compre na Hostinger** se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel. O .com.br renova a R$ 64,99 por ano e o .com a R$ 94,99 (28/10/2026), valores iguais ao primeiro ano cheio, sem salto no segundo ano.",
+          "**Compre na Hostinger** se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel. O .com.br renova a R$ 64,99 por ano e o .com a R$ 94,99, valores iguais ao primeiro ano cheio, sem salto no segundo ano.",
           "**Compre fora e aponte** se já tem domínio em outro registrador, se prefere separar as contas, ou se o preço de renovação de lá for menor: o Registro.br anuncia o .com.br a R$ 40 por ano. Apontar o DNS é um ajuste no painel, e o site funciona do mesmo jeito.",
           "**Transfira** só domínio com mais de 60 dias de registro e só se a renovação na Hostinger compensar o que você paga hoje. Na maioria das extensões genéricas, a taxa de transferência inclui um ano a mais de registro, então ela não é dinheiro perdido.",
           "Na dúvida, não transfira: aponte o domínio e deixe o registro onde está. Dá para transferir depois, e o site não para."
@@ -149988,9 +149970,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quanto custa o domínio na Hostinger? Em 28/10/2026, o .com.br custa R$ 64,99 no primeiro ano, ou R$ 1 com prazo de 3 anos, e renova a R$ 64,99 por ano; o .com custa R$ 94,99, ou R$ 0,01 com prazo de 3 anos, e renova a R$ 94,99 por ano.",
+          "Quanto custa o domínio na Hostinger? O .com.br custa R$ 64,99 no primeiro ano, ou R$ 1 com prazo de 3 anos, e renova a R$ 64,99 por ano; o .com custa R$ 94,99, ou R$ 0,01 com prazo de 3 anos, e renova a R$ 94,99 por ano.",
           "Posso trocar de hospedagem sem perder o domínio? Sim. O domínio é seu e fica na conta da Hostinger; você aponta o DNS para a nova hospedagem ou transfere o registro depois, respeitados os 60 dias desde o registro.",
-          "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano (28/10/2026).",
+          "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano.",
           "Preciso de domínio para ter e-mail? Sim. Para um endereço como voce@suaempresa.com.br, o domínio precisa existir; a hospedagem não é obrigatória, e a Hostinger diz que dá para usar o domínio só para e-mail ou para redirecionar para outro site.",
           "Dá para transferir o domínio da Hostinger para outro registrador? Sim, depois de 60 dias do registro: você destrava o domínio no painel, pega o código de autorização e confirma por e-mail no registrador novo. A transferência que dá certo não tem reembolso."
         ]
@@ -149998,7 +149980,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escreve",
         "paragraphs": [
-          "O Em Casa com Cecília roda em hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio emcasacomcecilia.com está registrado na Hostinger desde 17/11/2024 (registro público RDAP, lido em 28/10/2026). Ninguém da equipe transferiu domínio: este texto reúne o que as páginas de domínio e de transferência da Hostinger dizem, lidas em 28/10/2026."
+          "O Em Casa com Cecília roda em hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio emcasacomcecilia.com está registrado na Hostinger desde 2024 (registro público RDAP). Ninguém da equipe transferiu domínio: este texto reúne o que as páginas de domínio e de transferência da Hostinger dizem."
         ]
       }
     ],
@@ -152198,7 +152180,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
         "imageAlt": "Quadro com três perguntas: precisa instalar um sistema fora do painel, precisa de CPU e memória reservadas, precisa de acesso root; cada sim aponta para VPS, e três não apontam para hospedagem compartilhada",
-        "imageCaption": "As três perguntas que decidem entre compartilhada e VPS. Quadro nosso, a partir das páginas da Hostinger lidas em 28/10/2026.",
+        "imageCaption": "As três perguntas que decidem entre compartilhada e VPS. Quadro nosso, a partir das páginas da Hostinger.",
         "imageFit": "contain",
         "imageAspectRatio": 1.7787,
         "comparisonTable": {
@@ -152300,7 +152282,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Para um site comum que precise de VPS, o KVM 1 é o ponto de partida: 4 GB de RAM dão para um WordPress ou um sistema pequeno. O KVM 2 entra quando você vai rodar mais de um programa na mesma máquina. KVM 4 e 8 são para sistema maior, banco grande ou várias aplicações.",
-          "Sem o cupom, os mesmos planos saem a R$ 29,99, R$ 42,99, R$ 59,99 e R$ 119,99 por mês (página lida em 28/10/2026, campanha de Black Friday). Com o SONAR20, os 20% valem **só no primeiro período**. A renovação é a mesma nos dois casos."
+          "Sem o cupom, os mesmos planos saem a R$ 29,99, R$ 42,99, R$ 59,99 e R$ 119,99 por mês (campanha de Black Friday). Com o SONAR20, os 20% valem **só no primeiro período**. A renovação é a mesma nos dois casos."
         ]
       },
       {
@@ -152397,13 +152379,13 @@ export const reviewsData: unknown[] = [
           "Posso começar na compartilhada e migrar para VPS depois? Pode. São produtos diferentes: você contrata o VPS, instala o servidor e leva o site. A hospedagem compartilhada não se converte em VPS por dentro do painel.",
           "Preciso saber Linux para ter um VPS? Sim, o básico de terminal: instalar programas, atualizar o sistema e ler um log. Na compartilhada, tudo passa pelo painel e não há terminal obrigatório.",
           "VPS aguenta WordPress? Aguenta, mas você instala e mantém o servidor web, o PHP e o banco. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
-          "Qual é o preço do VPS da Hostinger? Em 28/10/2026, o KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês. Sem o cupom, R$ 29,99/mês. Os 20% valem só no primeiro período."
+          "Qual é o preço do VPS da Hostinger? O KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês. Sem o cupom, R$ 29,99/mês. Os 20% valem só no primeiro período."
         ]
       },
       {
         "heading": "Quem escreve",
         "paragraphs": [
-          "O Em Casa com Cecília roda na Hostinger em hospedagem gerenciada, como Node.js Web App, e o domínio está registrado na Hostinger desde 17/11/2024. Este texto não traz teste de VPS: ele reúne o que as páginas da Hostinger dizem, lidas em 28/10/2026, e a experiência do site é só a da hospedagem gerenciada."
+          "O Em Casa com Cecília roda na Hostinger em hospedagem gerenciada, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. Este texto não traz teste de VPS: ele reúne o que as páginas da Hostinger dizem, e a experiência do site é só a da hospedagem gerenciada."
         ]
       }
     ],
@@ -161433,7 +161415,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher para quem: o quadro",
         "paragraphs": [
-          "A pergunta certa não é qual ferramenta é melhor, e sim quantas pessoas estão na sua lista, quantos e-mails você manda por mês e se precisa de WhatsApp. O quadro resume a escolha pelo que as páginas de preço da Hostinger, do Mailchimp e do Brevo diziam em 30/10/2026:"
+          "A pergunta certa não é qual ferramenta é melhor, e sim quantas pessoas estão na sua lista, quantos e-mails você manda por mês e se precisa de WhatsApp. O quadro resume a escolha pelo que as páginas de preço da Hostinger, do Mailchimp e do Brevo diziam:"
         ],
         "comparisonTable": {
           "headers": [
@@ -161472,7 +161454,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-pt.webp",
           "alt": "Quadro Reach, Mailchimp ou Brevo por perfil: lista pequena começando sem verba fica com o plano grátis do Brevo ou do Mailchimp; quem já tem site na Hostinger e lista de até 500 fica com o Reach Grow; quem precisa de WhatsApp, com o Reach Pro; quem passou do limite grátis até 1.000 contatos, com o Reach Grow ou Pro; lista acima de 1.000 contatos, com o Mailchimp ou o Brevo",
-          "caption": "O resumo do quadro: grátis para começar, Reach até 1.000 destinatários, Mailchimp ou Brevo acima disso. Quadro do Em Casa com Cecília, pelo que as páginas de preço diziam em 30/10/2026.",
+          "caption": "O resumo do quadro: grátis para começar, Reach até 1.000 destinatários, Mailchimp ou Brevo acima disso. Quadro do Em Casa com Cecília, pelo que as páginas de preço diziam.",
           "objectFit": "contain",
           "aspectRatio": 1.3846
         },
@@ -161481,7 +161463,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Os planos do Reach em 30/10/2026",
+        "heading": "Os planos do Reach",
         "paragraphs": [
           "A página brasileira do Reach tem três planos: Starter, Grow e Pro. No carrinho, o Grow aparece como \"Reach 500\", pelo limite de 500 destinatários. Os preços abaixo são da página, lidos em 30/10/2026, na campanha de Black Friday, sem impostos:"
         ],
@@ -161597,14 +161579,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 e preço do Reach",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. O Bruno testou no Reach em 30/10/2026: o carrinho mostrou o Reach 500 (o Grow) de 24 meses a R$ 8,99/mês, R$ 215,76 no total; com o SONAR20, ficou em R$ 172,61, ou R$ 7,19/mês, renovando a R$ 8,99/mês.",
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. O Bruno testou no Reach: o carrinho mostrou o Reach 500 (o Grow) de 24 meses a R$ 8,99/mês, R$ 215,76 no total; com o SONAR20, ficou em R$ 172,61, ou R$ 7,19/mês, renovando a R$ 8,99/mês.",
           "No mesmo dia, a página mostrava o Grow de 24 meses a R$ 6,29/mês, o preço de Black Friday. São leituras diferentes, de lugares diferentes: confira no carrinho qual preço vale para você e quanto o SONAR20 tira dele. Nos outros planos e períodos do Reach, não testamos; confira no carrinho. A regra completa do código está em [cupons da Hostinger](/cupons/hostinger)."
         ]
       },
       {
         "heading": "Vale a pena? O veredito",
         "paragraphs": [
-          "**Vale a pena** para quem já tem site na Hostinger e uma lista de até 1.000 destinatários. Pelo preço publicado em 30/10/2026, o Grow e o Pro custam menos que os planos pagos do Mailchimp e do Brevo na mesma faixa, e a renovação do Reach (R$ 10,99/mês no Grow, R$ 19,99/mês no Pro) também fica abaixo deles. O Grow cobre lista de até 500 com automações; o Pro, lista de até 1.000 e WhatsApp.",
+          "**Vale a pena** para quem já tem site na Hostinger e uma lista de até 1.000 destinatários. Pelo preço publicado, o Grow e o Pro custam menos que os planos pagos do Mailchimp e do Brevo na mesma faixa, e a renovação do Reach (R$ 10,99/mês no Grow, R$ 19,99/mês no Pro) também fica abaixo deles. O Grow cobre lista de até 500 com automações; o Pro, lista de até 1.000 e WhatsApp.",
           "**Fique no plano grátis do Mailchimp ou do Brevo** se a lista está começando e você ainda não sabe se vai mandar e-mail com frequência. O Reach não tem plano grátis na página brasileira.",
           "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se você manda para a lista toda mais de uma vez por semana: os planos do Reach param em 1.000 destinatários e 7.000 e-mails por mês."
         ]
@@ -161612,19 +161594,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O Hostinger Reach vale a pena? Vale para quem já tem site na Hostinger e lista de até 1.000 destinatários. Em 30/10/2026, o Grow custava R$ 7,69/mês em 12 meses e renovava a R$ 10,99/mês, abaixo dos planos pagos do Mailchimp e do Brevo.",
-          "Quanto custa o Hostinger Reach? Em 30/10/2026, na página brasileira: Starter a R$ 6,99/mês, Grow a R$ 7,69/mês e Pro a R$ 13,99/mês em 12 meses, renovando a R$ 6,99, R$ 10,99 e R$ 19,99. Em 24 meses, R$ 4,99, R$ 6,29 e R$ 10,49.",
-          "O Hostinger Reach tem plano grátis? Não na página brasileira em 30/10/2026: os três planos são pagos. O Mailchimp é grátis para menos de 250 contatos e o Brevo tem plano grátis com até 300 e-mails por dia.",
+          "O Hostinger Reach vale a pena? Vale para quem já tem site na Hostinger e lista de até 1.000 destinatários. O Grow custava R$ 7,69/mês em 12 meses e renovava a R$ 10,99/mês, abaixo dos planos pagos do Mailchimp e do Brevo.",
+          "Quanto custa o Hostinger Reach? Na página brasileira: Starter a R$ 6,99/mês, Grow a R$ 7,69/mês e Pro a R$ 13,99/mês em 12 meses, renovando a R$ 6,99, R$ 10,99 e R$ 19,99. Em 24 meses, R$ 4,99, R$ 6,29 e R$ 10,49.",
+          "O Hostinger Reach tem plano grátis? Não na página brasileira: os três planos são pagos. O Mailchimp é grátis para menos de 250 contatos e o Brevo tem plano grátis com até 300 e-mails por dia.",
           "O Hostinger Reach tem WhatsApp? Tem, só no plano Pro. A página não mostra o custo por mensagem; confira no painel.",
           "O que é o Reach 500? É o nome do plano Grow no carrinho da Hostinger, pelo limite de 500 destinatários. Ele manda 3.500 e-mails por mês.",
           "Hostinger Reach ou Mailchimp? Para lista de até 1.000 destinatários, o Reach custa menos pelo preço publicado. Para começar sem pagar ou para lista maior, o Mailchimp.",
-          "O código SONAR20 vale no Hostinger Reach? Vale: no teste do Bruno em 30/10/2026, o Reach 500 de 24 meses foi de R$ 215,76 para R$ 172,61. Nos outros planos e períodos, não testamos; confira no carrinho."
+          "O código SONAR20 vale no Hostinger Reach? Vale: no teste do Bruno, o Reach 500 de 24 meses foi de R$ 215,76 para R$ 172,61. Nos outros planos e períodos, não testamos; confira no carrinho."
         ]
       },
       {
         "heading": "Quem escreve",
         "paragraphs": [
-          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado lá desde 17/11/2024. Ninguém da equipe usou o Reach, o Mailchimp nem o Brevo para mandar campanha: este texto reúne o que as páginas de preço dos três diziam em 30/10/2026 e o teste do SONAR20 no carrinho. Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
+          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado lá desde 2024. Ninguém da equipe usou o Reach, o Mailchimp nem o Brevo para mandar campanha: este texto reúne o que as páginas de preço dos três diziam e o teste do SONAR20 no carrinho. Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
         ]
       }
     ],
@@ -163890,7 +163872,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pela renovação lida em 30/10/2026, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço e servidor no Brasil declarado. Os ciclos são diferentes, 48 meses e 3 anos, então a comparação justa é por mês, com a renovação ao lado, na tabela abaixo."
+          "Pela renovação, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço e servidor no Brasil declarado. Os ciclos são diferentes, 48 meses e 3 anos, então a comparação justa é por mês, com a renovação ao lado, na tabela abaixo."
         ]
       },
       {
@@ -163913,9 +163895,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Preços da Hostinger em 30/10/2026",
+        "heading": "Preços da Hostinger",
         "paragraphs": [
-          "Hospedagem de sites, página brasileira, plano de 48 meses pago de uma vez. A Hostinger está em campanha de Black Friday, sem data de fim na página:"
+          "Hospedagem de sites, página brasileira, plano de 48 meses pago de uma vez, com preços lidos em 30/10/2026. A Hostinger está em campanha de Black Friday, sem data de fim na página:"
         ],
         "comparisonTable": {
           "headers": [
@@ -163966,7 +163948,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Preços da HostGator em 30/10/2026",
+        "heading": "Preços da HostGator",
         "paragraphs": [
           "Hospedagem de sites, página brasileira, plano de 3 anos. A promocional é a dos cartões da página; a coluna da direita é a tabela de preço regular da HostGator, no plano trienal, que usamos como referência de renovação:"
         ],
@@ -164079,7 +164061,7 @@ export const reviewsData: unknown[] = [
               "1",
               "4 GB",
               "50 GB",
-              "R$ 29,99/mês (lido em 30/10/2026)",
+              "R$ 29,99/mês",
               "R$ 59,99/mês"
             ],
             [
@@ -164087,7 +164069,7 @@ export const reviewsData: unknown[] = [
               "2",
               "8 GB",
               "100 GB",
-              "R$ 42,99/mês (lido em 30/10/2026)",
+              "R$ 42,99/mês",
               "R$ 77,99/mês"
             ],
             [
@@ -164095,7 +164077,7 @@ export const reviewsData: unknown[] = [
               "1",
               "2 GB",
               "50 GB",
-              "R$ 20,99/mês (lido em 30/10/2026)",
+              "R$ 20,99/mês",
               "A página não mostra"
             ],
             [
@@ -164103,19 +164085,19 @@ export const reviewsData: unknown[] = [
               "2",
               "4 GB",
               "100 GB",
-              "R$ 30,39/mês (lido em 30/10/2026)",
+              "R$ 30,39/mês",
               "A página não mostra"
             ]
           ]
         },
         "postParagraphs": [
-          "Com o mesmo número de vCPU, o VPS da Hostinger traz o dobro de memória, e o da HostGator custa menos na promoção. A HostGator diz que o VPS roda na Oracle Cloud no Brasil, com cPanel disponível e 1 IP dedicado; ela tem ainda o VPS NVMe 8 (4 vCPU, 8 GB, 200 GB) a R$ 45,49/mês. A tabela de preço regular do VPS da HostGator não abriu em 30/10/2026, então não dá para comparar a renovação: pergunte antes de fechar 3 anos."
+          "Com o mesmo número de vCPU, o VPS da Hostinger traz o dobro de memória, e o da HostGator custa menos na promoção. A HostGator diz que o VPS roda na Oracle Cloud no Brasil, com cPanel disponível e 1 IP dedicado; ela tem ainda o VPS NVMe 8 (4 vCPU, 8 GB, 200 GB) a R$ 45,49/mês. A tabela de preço regular do VPS da HostGator não abriu na leitura, então não dá para comparar a renovação: pergunte antes de fechar 3 anos."
         ]
       },
       {
         "heading": "Cupom SONAR20 na Hostinger",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. Testamos no carrinho em três produtos: o plano Startup de e-commerce, do Criador de lojas, em 29/10/2026, e o e-mail profissional e o Reach, em 30/10/2026. Nos planos de hospedagem desta tabela e no VPS, não testamos; confira no carrinho. Não testamos a renovação. A regra completa está em [cupons da Hostinger](/cupons/hostinger).",
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. Testamos no carrinho em três produtos: o plano Startup de e-commerce, do Criador de lojas, o e-mail profissional e o Reach. Nos planos de hospedagem desta tabela e no VPS, não testamos; confira no carrinho. Não testamos a renovação. A regra completa está em [cupons da Hostinger](/cupons/hostinger).",
           "Não temos código nem link da HostGator. Os preços dela neste artigo são os da página, sem desconto nosso."
         ]
       },
@@ -164130,18 +164112,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é melhor, Hostinger ou HostGator? Depende do plano. Em 30/10/2026, para 1 site, a Hostinger custa menos na promoção e na renovação; para vários sites, a HostGator custa menos nas duas fases e dá mais espaço.",
+          "Qual é melhor, Hostinger ou HostGator? Depende do plano. Para 1 site, a Hostinger custa menos na promoção e na renovação; para vários sites, a HostGator custa menos nas duas fases e dá mais espaço.",
           "Qual renova mais barato, Hostinger ou HostGator? No plano de 1 site, a Hostinger: R$ 23,99/mês contra R$ 31,39/mês do preço regular da HostGator. No plano para vários sites, a HostGator: R$ 40,89/mês contra R$ 64,99/mês do Unlimited.",
           "Hostinger ou HostGator para VPS? Com o mesmo número de vCPU, a Hostinger traz o dobro de memória e a HostGator custa menos na promoção. A HostGator não mostra a renovação do VPS na página; pergunte antes de fechar.",
-          "A Hostinger tem servidor no Brasil? As páginas de planos que lemos em 30/10/2026 não dizem onde fica o servidor. A HostGator declara servidores no Brasil.",
-          "O cupom SONAR20 vale no VPS da Hostinger? Não testamos no VPS; confira no carrinho. Testamos no plano Startup de e-commerce, do Criador de lojas, em 29/10/2026, e o desconto é de 20% no primeiro período.",
+          "A Hostinger tem servidor no Brasil? As páginas de planos que lemos não dizem onde fica o servidor. A HostGator declara servidores no Brasil.",
+          "O cupom SONAR20 vale no VPS da Hostinger? Não testamos no VPS; confira no carrinho. Testamos no plano Startup de e-commerce, do Criador de lojas, e o desconto é de 20% no primeiro período.",
           "Dá para trocar de hospedagem sem perder o site? Dá, levando os arquivos e o banco de dados para a nova. A HostGator anuncia migração grátis; faça a troca antes de o plano antigo vencer."
         ]
       },
       {
         "heading": "Quem escreve",
         "paragraphs": [
-          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado na Hostinger desde 17/11/2024. Ninguém da equipe usou a HostGator: este texto reúne o que as páginas brasileiras das duas dizem, lidas em 30/10/2026."
+          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado na Hostinger desde 2024. Ninguém da equipe usou a HostGator: este texto reúne o que as páginas brasileiras das duas dizem."
         ]
       }
     ],
@@ -166347,12 +166329,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual plano para qual projeto",
         "paragraphs": [
-          "A Hostinger não vende um plano só de WordPress: ele vem nos planos de hospedagem de sites. A página brasileira diz, em 30/10/2026, que todos os planos incluem WordPress e Node.js. Então a pergunta não é \"qual plano tem WordPress\", e sim \"quantos sites eu vou ter e quanto backup eu preciso\"."
+          "A Hostinger não vende um plano só de WordPress: ele vem nos planos de hospedagem de sites. A página brasileira diz que todos os planos incluem WordPress e Node.js. Então a pergunta não é \"qual plano tem WordPress\", e sim \"quantos sites eu vou ter e quanto backup eu preciso\"."
         ],
         "image": {
           "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-pt.webp",
           "alt": "Quadro do plano de WordPress da Hostinger por projeto: um site só fica no Single; até 3 sites, no Premium; vários sites ou loja com WooCommerce, no Unlimited; loja ou site com muito tráfego, no Cloud Startup",
-          "caption": "O resumo da escolha: o número de sites, o espaço e o backup decidem o plano. Quadro do Em Casa com Cecília, pelo que a página da Hostinger diz em 30/10/2026.",
+          "caption": "O resumo da escolha: o número de sites, o espaço e o backup decidem o plano. Quadro do Em Casa com Cecília, pelo que a página da Hostinger diz.",
           "objectFit": "contain",
           "aspectRatio": 1.4286
         },
@@ -166367,7 +166349,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Preço e renovação em 30/10/2026",
+        "heading": "Preço e renovação",
         "paragraphs": [
           "Os preços abaixo são da página brasileira de hospedagem WordPress, lidos em 30/10/2026, no prazo de 48 meses e na campanha de Black Friday. O preço por mês é o total dividido por 48. A renovação é o preço por mês depois do primeiro período:"
         ],
@@ -166423,7 +166405,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que já vem nos planos",
         "paragraphs": [
-          "Pela página de 30/10/2026, sem teste nosso:"
+          "Pela página da Hostinger, sem teste nosso:"
         ],
         "bullets": [
           "**WordPress e Node.js em todos os planos.**",
@@ -166451,7 +166433,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se você já anuncia no Google",
         "paragraphs": [
-          "Segundo os termos da promoção, lidos em 30/10/2026, quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito de anúncios, no Brasil. Quem define a elegibilidade é a Google, a promoção pode mudar, e a página não traz data de validade. Vale para quem já ia gastar esse valor; não é motivo para começar a anunciar."
+          "Segundo os termos da promoção, quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito de anúncios, no Brasil. Quem define a elegibilidade é a Google, a promoção pode mudar, e a página não traz data de validade. Vale para quem já ia gastar esse valor; não é motivo para começar a anunciar."
         ]
       },
       {
@@ -166478,7 +166460,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual o plano de WordPress mais barato da Hostinger? Em 30/10/2026, o Single, a R$ 5,99/mês em 48 meses (R$ 287,52 no total), para 1 site. Ele renova a R$ 23,99/mês.",
+          "Qual o plano de WordPress mais barato da Hostinger? O Single, a R$ 5,99/mês em 48 meses (R$ 287,52 no total), para 1 site. Ele renova a R$ 23,99/mês.",
           "O WordPress vem instalado na Hostinger? A página diz que todos os planos incluem WordPress e cita um instalador de 1 clique no painel. Ela não detalha a instalação por plano.",
           "A Hostinger usa LiteSpeed no WordPress? A página fala em servidores LiteSpeed e cache inteligente na hospedagem WordPress, sem dizer em quais planos.",
           "Qual plano de WordPress da Hostinger para loja virtual? O Unlimited, pelos backups diários e sites ilimitados. Para loja com muito tráfego, o Cloud Startup, com backup sob demanda.",
@@ -166488,7 +166470,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escreve",
         "paragraphs": [
-          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 17/11/2024. O site não usa WordPress, e ninguém da equipe usou WordPress na Hostinger: este texto reúne o que a página brasileira de hospedagem WordPress e os termos da promoção do Google Ads dizem, lidos em 30/10/2026."
+          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. O site não usa WordPress, e ninguém da equipe usou WordPress na Hostinger: este texto reúne o que a página brasileira de hospedagem WordPress e os termos da promoção do Google Ads dizem."
         ]
       }
     ],

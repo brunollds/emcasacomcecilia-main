@@ -62,7 +62,7 @@
       ],
       "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
       "imageAlt": "Quadro com três perguntas: precisa instalar um sistema fora do painel, precisa de CPU e memória reservadas, precisa de acesso root; cada sim aponta para VPS, e três não apontam para hospedagem compartilhada",
-      "imageCaption": "As três perguntas que decidem entre compartilhada e VPS. Quadro nosso, a partir das páginas da Hostinger lidas em 28/10/2026.",
+      "imageCaption": "As três perguntas que decidem entre compartilhada e VPS. Quadro nosso, a partir das páginas da Hostinger.",
       "imageFit": "contain",
       "imageAspectRatio": 1.7787,
       "comparisonTable": {
@@ -164,7 +164,7 @@
       },
       "postParagraphs": [
         "Para um site comum que precise de VPS, o KVM 1 é o ponto de partida: 4 GB de RAM dão para um WordPress ou um sistema pequeno. O KVM 2 entra quando você vai rodar mais de um programa na mesma máquina. KVM 4 e 8 são para sistema maior, banco grande ou várias aplicações.",
-        "Sem o cupom, os mesmos planos saem a R$ 29,99, R$ 42,99, R$ 59,99 e R$ 119,99 por mês (página lida em 28/10/2026, campanha de Black Friday). Com o SONAR20, os 20% valem **só no primeiro período**. A renovação é a mesma nos dois casos."
+        "Sem o cupom, os mesmos planos saem a R$ 29,99, R$ 42,99, R$ 59,99 e R$ 119,99 por mês (campanha de Black Friday). Com o SONAR20, os 20% valem **só no primeiro período**. A renovação é a mesma nos dois casos."
       ]
     },
     {
@@ -261,13 +261,13 @@
         "Posso começar na compartilhada e migrar para VPS depois? Pode. São produtos diferentes: você contrata o VPS, instala o servidor e leva o site. A hospedagem compartilhada não se converte em VPS por dentro do painel.",
         "Preciso saber Linux para ter um VPS? Sim, o básico de terminal: instalar programas, atualizar o sistema e ler um log. Na compartilhada, tudo passa pelo painel e não há terminal obrigatório.",
         "VPS aguenta WordPress? Aguenta, mas você instala e mantém o servidor web, o PHP e o banco. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
-        "Qual é o preço do VPS da Hostinger? Em 28/10/2026, o KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês. Sem o cupom, R$ 29,99/mês. Os 20% valem só no primeiro período."
+        "Qual é o preço do VPS da Hostinger? O KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês. Sem o cupom, R$ 29,99/mês. Os 20% valem só no primeiro período."
       ]
     },
     {
       "heading": "Quem escreve",
       "paragraphs": [
-        "O Em Casa com Cecília roda na Hostinger em hospedagem gerenciada, como Node.js Web App, e o domínio está registrado na Hostinger desde 17/11/2024. Este texto não traz teste de VPS: ele reúne o que as páginas da Hostinger dizem, lidas em 28/10/2026, e a experiência do site é só a da hospedagem gerenciada."
+        "O Em Casa com Cecília roda na Hostinger em hospedagem gerenciada, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. Este texto não traz teste de VPS: ele reúne o que as páginas da Hostinger dizem, e a experiência do site é só a da hospedagem gerenciada."
       ]
     }
   ],

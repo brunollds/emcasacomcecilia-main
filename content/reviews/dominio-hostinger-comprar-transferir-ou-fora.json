@@ -44,7 +44,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio com mais de 60 dias; os preços de 28/10/2026 estão abaixo."
+        "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio com mais de 60 dias; os preços estão abaixo."
       ]
     },
     {
@@ -57,12 +57,12 @@
     {
       "heading": "Os três caminhos",
       "paragraphs": [
-        "Quem monta um site tem três opções para o domínio. O quadro resume o que muda em cada uma, pelas páginas da Hostinger lidas em 28/10/2026."
+        "Quem monta um site tem três opções para o domínio. O quadro resume o que muda em cada uma, pelas páginas da Hostinger."
       ],
       "image": {
         "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
         "alt": "Quadro com três caminhos para o domínio: comprar com a hospedagem (registro na Hostinger), transferir (o registro passa para a Hostinger) e deixar fora e apontar (o registro fica onde está); nos três o domínio é seu, o que muda é quem cobra a renovação",
-        "caption": "Os três caminhos para o domínio, pelas páginas da Hostinger lidas em 28/10/2026.",
+        "caption": "Os três caminhos para o domínio, pelas páginas da Hostinger.",
         "objectFit": "contain",
         "aspectRatio": 1.7787
       },
@@ -143,7 +143,7 @@
       },
       "postParagraphs": [
         "A leitura é esta: o .com.br renova pelo mesmo valor do primeiro ano cheio, R$ 64,99. O .com também, R$ 94,99. Já as extensões de R$ 5,99 renovam a mais de R$ 190 por ano: o preço de entrada não diz nada sobre o que você vai pagar no segundo ano. Olhe sempre a coluna da renovação.",
-        "No .com.br com prazo de 3 anos, o R$ 1 é só do primeiro ano; a página não mostra o total dos três anos fora do carrinho, então confira o valor antes de pagar. Para comparar, o Registro.br, que administra os domínios .br, anuncia o registro a R$ 40 por ano (lido em 28/10/2026): comprar lá é o caminho \"fora e apontar\" da tabela acima.",
+        "No .com.br com prazo de 3 anos, o R$ 1 é só do primeiro ano; a página não mostra o total dos três anos fora do carrinho, então confira o valor antes de pagar. Para comparar, o Registro.br, que administra os domínios .br, anuncia o registro a R$ 40 por ano: comprar lá é o caminho \"fora e apontar\" da tabela acima.",
         "A privacidade dos dados de contato (RDAP, o antigo WHOIS) vem incluída nas extensões compatíveis. O .com.br é a extensão do Brasil; fora do país, cada registrador tem a sua, e o preço muda com a moeda."
       ]
     },
@@ -151,7 +151,7 @@
       "heading": "Transferir: a regra dos 60 dias e o passo a passo",
       "paragraphs": [
         "Transferir é mudar o registro do domínio de uma empresa para outra. A página de transferência da Hostinger diz que o site e o e-mail continuam funcionando durante o processo, e que os dados de propriedade não mudam. O que muda é quem cobra a renovação e onde você mexe no DNS.",
-        "As regras, pela página da Hostinger lida em 28/10/2026:"
+        "As regras, pela página da Hostinger:"
       ],
       "bullets": [
         "**Idade do registro:** na maioria dos casos, o domínio precisa estar registrado há pelo menos 60 dias. Domínio novo na Hostinger também fica travado por 60 dias antes de poder sair.",
@@ -192,7 +192,7 @@
     {
       "heading": "Qual caminho escolher",
       "paragraphs": [
-        "**Compre na Hostinger** se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel. O .com.br renova a R$ 64,99 por ano e o .com a R$ 94,99 (28/10/2026), valores iguais ao primeiro ano cheio, sem salto no segundo ano.",
+        "**Compre na Hostinger** se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel. O .com.br renova a R$ 64,99 por ano e o .com a R$ 94,99, valores iguais ao primeiro ano cheio, sem salto no segundo ano.",
         "**Compre fora e aponte** se já tem domínio em outro registrador, se prefere separar as contas, ou se o preço de renovação de lá for menor: o Registro.br anuncia o .com.br a R$ 40 por ano. Apontar o DNS é um ajuste no painel, e o site funciona do mesmo jeito.",
         "**Transfira** só domínio com mais de 60 dias de registro e só se a renovação na Hostinger compensar o que você paga hoje. Na maioria das extensões genéricas, a taxa de transferência inclui um ano a mais de registro, então ela não é dinheiro perdido.",
         "Na dúvida, não transfira: aponte o domínio e deixe o registro onde está. Dá para transferir depois, e o site não para."
@@ -207,9 +207,9 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quanto custa o domínio na Hostinger? Em 28/10/2026, o .com.br custa R$ 64,99 no primeiro ano, ou R$ 1 com prazo de 3 anos, e renova a R$ 64,99 por ano; o .com custa R$ 94,99, ou R$ 0,01 com prazo de 3 anos, e renova a R$ 94,99 por ano.",
+        "Quanto custa o domínio na Hostinger? O .com.br custa R$ 64,99 no primeiro ano, ou R$ 1 com prazo de 3 anos, e renova a R$ 64,99 por ano; o .com custa R$ 94,99, ou R$ 0,01 com prazo de 3 anos, e renova a R$ 94,99 por ano.",
         "Posso trocar de hospedagem sem perder o domínio? Sim. O domínio é seu e fica na conta da Hostinger; você aponta o DNS para a nova hospedagem ou transfere o registro depois, respeitados os 60 dias desde o registro.",
-        "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano (28/10/2026).",
+        "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano.",
         "Preciso de domínio para ter e-mail? Sim. Para um endereço como voce@suaempresa.com.br, o domínio precisa existir; a hospedagem não é obrigatória, e a Hostinger diz que dá para usar o domínio só para e-mail ou para redirecionar para outro site.",
         "Dá para transferir o domínio da Hostinger para outro registrador? Sim, depois de 60 dias do registro: você destrava o domínio no painel, pega o código de autorização e confirma por e-mail no registrador novo. A transferência que dá certo não tem reembolso."
       ]
@@ -217,7 +217,7 @@
     {
       "heading": "Quem escreve",
       "paragraphs": [
-        "O Em Casa com Cecília roda em hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio emcasacomcecilia.com está registrado na Hostinger desde 17/11/2024 (registro público RDAP, lido em 28/10/2026). Ninguém da equipe transferiu domínio: este texto reúne o que as páginas de domínio e de transferência da Hostinger dizem, lidas em 28/10/2026."
+        "O Em Casa com Cecília roda em hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio emcasacomcecilia.com está registrado na Hostinger desde 2024 (registro público RDAP). Ninguém da equipe transferiu domínio: este texto reúne o que as páginas de domínio e de transferência da Hostinger dizem."
       ]
     }
   ],

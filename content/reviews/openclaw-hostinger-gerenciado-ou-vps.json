@@ -61,12 +61,12 @@
     {
       "heading": "Gerenciado ou VPS: a tabela",
       "paragraphs": [
-        "O OpenClaw gerenciado é o plano \"Apps de automação com IA\", o mesmo do Hermes Agent e do Paperclip gerenciados, pelo mesmo preço. Os valores são de plano de 24 meses, lidos em 21/10/2026."
+        "O OpenClaw gerenciado é o plano \"Apps de automação com IA\", o mesmo do Hermes Agent e do Paperclip gerenciados, pelo mesmo preço. Os valores são de plano de 24 meses."
       ],
       "image": {
         "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
         "alt": "Quadro com duas colunas, Gerenciado e VPS: a Hostinger instala nos dois; atualizações e segurança do servidor ficam com a Hostinger no gerenciado e com você no VPS; créditos de IA ou chave própria você escolhe nos dois",
-        "caption": "Quem cuida de quê em cada opção, pela página da Hostinger e pela documentação do OpenClaw lidas em 21/10/2026."
+        "caption": "Quem cuida de quê em cada opção, pela página da Hostinger e pela documentação do OpenClaw."
       },
       "comparisonTable": {
         "headers": [
@@ -146,7 +146,7 @@
       "image": {
         "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-pt.webp",
         "alt": "Três passos para ligar o OpenClaw ao Telegram: criar o bot no BotFather e copiar o token, colar o token na configuração do OpenClaw e mandar uma mensagem para aprovar o primeiro contato",
-        "caption": "Os passos da documentação oficial do OpenClaw, lida em 21/10/2026."
+        "caption": "Os passos da documentação oficial do OpenClaw."
       },
       "bullets": [
         "Crie o bot no BotFather, o bot oficial do Telegram para criar bots, e copie o token.",
@@ -238,17 +238,17 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Vale a pena o OpenClaw gerenciado da Hostinger? Vale para quem quer o assistente sem cuidar de servidor: em 21/10/2026, ele sai mais barato que o VPS no primeiro período e renova pelo mesmo preço. Quem quer root e outros programas no servidor fica melhor com o VPS.",
+        "Vale a pena o OpenClaw gerenciado da Hostinger? Vale para quem quer o assistente sem cuidar de servidor: ele sai mais barato que o VPS no primeiro período e renova pelo mesmo preço. Quem quer root e outros programas no servidor fica melhor com o VPS.",
         "Precisa de conta na OpenAI ou na Anthropic? Não. Nas duas opções dá para usar os créditos de IA da Hostinger. A conta no provedor só é preciso se você preferir a sua própria chave.",
         "Tem cupom de desconto da Hostinger para o OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período.",
-        "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços de 21/10/2026. Não testamos a renovação com o SONAR20; confira o preço no carrinho.",
+        "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços da tabela. Não testamos a renovação com o SONAR20; confira o preço no carrinho.",
         "O plano gerenciado serve para o Hermes Agent ou o Paperclip? Sim. Os três estão no mesmo plano, \"Apps de automação com IA\", pelo mesmo preço. A página do Paperclip não lista créditos de IA, então leve a sua chave."
       ]
     },
     {
       "heading": "Quem escreve",
       "paragraphs": [
-        "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw: este texto reúne o que as páginas da Hostinger e a documentação oficial do OpenClaw dizem, lidas em 21/10/2026."
+        "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw: este texto reúne o que as páginas da Hostinger e a documentação oficial do OpenClaw dizem."
       ]
     }
   ],

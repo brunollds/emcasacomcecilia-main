@@ -50,13 +50,13 @@
     {
       "heading": "Quem está por trás da Hostinger",
       "paragraphs": [
-        "Os termos de serviço dizem que a empresa contratante depende do país do cliente. Para quem mora no Brasil, pela regra da seção 2 dos termos (revisados em 09/10/2026), a contratante é a Hostinger International Limited, de Chipre. Os mesmos termos citam a Hostinger Brasil Hospedagem de Sites Ltda entre as empresas do grupo que podem fazer a cobrança. Na prática, vale o nome que aparece no checkout e na fatura: confira os dois antes de pagar."
+        "Os termos de serviço dizem que a empresa contratante depende do país do cliente. Para quem mora no Brasil, pela regra da seção 2 dos termos, a contratante é a Hostinger International Limited, de Chipre. Os mesmos termos citam a Hostinger Brasil Hospedagem de Sites Ltda entre as empresas do grupo que podem fazer a cobrança. Na prática, vale o nome que aparece no checkout e na fatura: confira os dois antes de pagar."
       ]
     },
     {
       "heading": "Reembolso: 30 dias, com exceções",
       "paragraphs": [
-        "A política de reembolso da Hostinger (versão de 15/10/2026, lida em 19/10/2026) dá 30 dias para pedir o dinheiro de volta, contados da data da transação. Pela própria política, a renovação também é uma transação: cada cobrança recomeça o prazo. A tabela mostra o que ela lista:"
+        "A política de reembolso da Hostinger (versão de 15/10/2026) dá 30 dias para pedir o dinheiro de volta, contados da data da transação. Pela própria política, a renovação também é uma transação: cada cobrança recomeça o prazo. A tabela mostra o que ela lista:"
       ],
       "comparisonTable": {
         "headers": [
@@ -109,7 +109,7 @@
         {
           "src": "/images/reviews/hostinger/hostinger-e-confiavel-politica-reembolso.webp",
           "alt": "Trecho da política de reembolso da Hostinger com a lista de produtos reembolsáveis em 30 dias",
-          "caption": "Política de reembolso da Hostinger: os produtos que entram no reembolso padrão. Imagem: site da Hostinger, print de 19/10/2026",
+          "caption": "Política de reembolso da Hostinger: os produtos que entram no reembolso padrão. Imagem: print do site da Hostinger",
           "objectFit": "contain",
           "aspectRatio": 1.75
         }
@@ -135,7 +135,7 @@
     {
       "heading": "Queda do site e garantia de disponibilidade",
       "paragraphs": [
-        "Os termos dizem que o site pode ficar fora do ar \"de tempos em tempos\", por manutenção ou por fatores fora do controle da empresa, e que a Hostinger não assume responsabilidade por isso. A tabela de planos da página de preços anuncia \"99,9% de uptime garantido\" (lida em 19/10/2026). É o que a Hostinger anuncia; o compromisso de disponibilidade, quando existe, fica no documento de cada serviço.",
+        "Os termos dizem que o site pode ficar fora do ar \"de tempos em tempos\", por manutenção ou por fatores fora do controle da empresa, e que a Hostinger não assume responsabilidade por isso. A tabela de planos da página de preços anuncia \"99,9% de uptime garantido\". É o que a Hostinger anuncia; o compromisso de disponibilidade, quando existe, fica no documento de cada serviço.",
         "Se o seu site não pode sair do ar, procure o documento do seu plano antes de pagar. A frase da página não basta."
       ]
     },
@@ -188,12 +188,6 @@
         "Desligue a renovação automática logo depois da compra, se não quiser que ela siga.",
         "Confira no checkout e na fatura qual empresa aparece como cobradora.",
         "Procure a garantia de disponibilidade no documento do seu plano."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Este texto tem o código SONAR20 e o link da Hostinger. Se você contratar com o código ou pelo link, a compra pode gerar comissão para o Bruno. Reembolso, renovação e empresa vêm dos documentos públicos da Hostinger, lidos em 19/10/2026. A experiência é nossa e não se aplica automaticamente ao seu plano."
       ]
     }
   ],
