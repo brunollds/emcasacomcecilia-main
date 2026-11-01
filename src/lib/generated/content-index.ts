@@ -79456,7 +79456,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quem está por trás da Cléa Store",
         "paragraphs": [
           "A loja é operada pela **Clea Store Ltda.**, CNPJ **27.310.985/0001-08**. A razão social aparece na política de privacidade do site. O rodapé mostra só o nome da marca e o CNPJ.",
-          "Nos dados públicos de CNPJ, consultados em 14/10/2026, a empresa está **ativa**. É a matriz, aberta em 15/03/2017, enquadrada como microempresa, e a atividade principal é a confecção de peças do vestuário.",
+          "Nos dados públicos de CNPJ, consultados em 14/10/2026, a empresa está **ativa**. É a matriz, aberta em 2017, enquadrada como microempresa, e a atividade principal é a confecção de peças do vestuário.",
           "O endereço publicado na política de privacidade e nos termos de uso é Rua Erwino Menegotti, 1589, bairro Água Verde, Jaraguá do Sul (SC), CEP 89254-565. É o mesmo endereço do cadastro do CNPJ.",
           "Na página \"Nossa História\", a marca diz que estreou em 2014 \"ressignificando ideias artesanais com peças exclusivas em crochê\" e que hoje trabalha entre o minimalismo e o maximalismo. A página não cita fundador. O CNPJ atual é de 2017."
         ]
@@ -79465,7 +79465,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como saber se você está no site oficial",
         "paragraphs": [
           "O endereço oficial é **cleastore.com.br**. Antes de pagar, confira na barra do navegador se o domínio é exatamente esse, sem letra trocada, principalmente quando você chegou por um anúncio ou por uma mensagem.",
-          "O segundo teste é o CNPJ. O rodapé do site, em 14/10/2026, mostra o nome \"CLÉA STORE\" e o CNPJ 27.310.985/0001-08. A razão social e o endereço completo estão na política de privacidade. Cruze o CNPJ numa consulta pública e veja se a situação aparece como ativa e se o nome bate.",
+          "O segundo teste é o CNPJ. O rodapé do site mostra o nome \"CLÉA STORE\" e o CNPJ 27.310.985/0001-08. A razão social e o endereço completo estão na política de privacidade. Cruze o CNPJ numa consulta pública e veja se a situação aparece como ativa e se o nome bate.",
           "O terceiro são os perfis oficiais. A página \"Perfil oficial\" da loja lista:"
         ],
         "bullets": [
@@ -79478,7 +79478,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/clea-store/clea-store-rodape-cnpj.webp",
         "imageAlt": "Rodapé do site cleastore.com.br com o CNPJ 27.310.985/0001-08 e a linha de pagamento em cartão em até 6x sem juros ou Pix marcados em amarelo",
-        "imageCaption": "Rodapé de cleastore.com.br em 14/10/2026, com o CNPJ e as formas de pagamento. O marca-texto amarelo é nosso.",
+        "imageCaption": "Rodapé de cleastore.com.br, com o CNPJ e as formas de pagamento. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.848
       },
@@ -79490,7 +79490,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/clea-store/clea-store-confiavel-capa.webp",
           "alt": "Página inicial do site cleastore.com.br em 14/10/2026, com a campanha de 14 anos da Cléa (\"Ganhe uma t-shirt\")",
-          "caption": "A página inicial da Cléa Store em 14/10/2026, com a campanha de 14 anos da loja.",
+          "caption": "A página inicial da Cléa Store, com a campanha de 14 anos da loja.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -79498,10 +79498,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Devolução, defeito, arrependimento e troca",
         "paragraphs": [
-          "As regras estão em duas páginas do site, \"Troca e devolução\" e \"Termos de uso\", e cada uma cobre uma parte. O que valia em 14/10/2026 está no quadro:"
+          "As regras estão em duas páginas do site, \"Troca e devolução\" e \"Termos de uso\", e cada uma cobre uma parte. As regras de cada situação estão no quadro:"
         ],
         "comparisonTable": {
-          "caption": "Prazos de devolução, defeito, arrependimento e troca da Cléa Store, segundo as páginas de Troca e devolução e de Termos de uso do site em 14/10/2026",
+          "caption": "Prazos de devolução, defeito, arrependimento e troca da Cléa Store, segundo as páginas de Troca e devolução e de Termos de uso do site",
           "headers": [
             "Situação",
             "Prazo",
@@ -79569,7 +79569,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazo e pagamento",
         "paragraphs": [
-          "Os dados desta seção são da faixa do topo, do rodapé e da política de entrega do site, lidos em 14/10/2026.",
+          "Os dados desta seção são da faixa do topo, do rodapé e da política de entrega do site.",
           "A faixa do topo da loja anuncia **frete grátis acima de R$ 599**. A política de entrega não traz esse valor, então confira no carrinho se ele ainda vale para o seu pedido.",
           "O prazo de entrega não é fixo: ele aparece no checkout, depois que você informa o CEP. As entregas saem pelos Correios e por transportadoras, de segunda a sexta, das 8h às 18h. Se ninguém atender, há até 3 tentativas de entrega. A loja entrega só no Brasil. Depois da compra, o rastreio fica no seu perfil no site.",
           "No pagamento, o rodapé informa cartão de crédito em até **6x sem juros** ou Pix. O site não informa desconto para pagamento no Pix."
@@ -79578,10 +79578,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cashback da Cléa Store",
         "paragraphs": [
-          "A página de cashback da loja explica o programa. O que valia em 14/10/2026:"
+          "A página de cashback da loja explica o programa. As regras:"
         ],
         "comparisonTable": {
-          "caption": "Regras do cashback da Cléa Store, segundo a página de cashback do site em 14/10/2026",
+          "caption": "Regras do cashback da Cléa Store, segundo a página de cashback do site",
           "headers": [
             "Regra",
             "Como funciona"
@@ -79618,13 +79618,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A página não informa valor mínimo de compra nem exclusões. Como a validade é curta, use o saldo dentro dos 30 dias. O cashback também soma com o nosso cupom, explicado mais abaixo."
+          "A página não traz valor mínimo de compra nem exclusões; se o seu pedido for pequeno, confirme no checkout se o saldo aplica. Como a validade é curta, use o saldo dentro dos 30 dias. O cashback também soma com o nosso cupom, explicado mais abaixo."
         ]
       },
       {
         "heading": "E a reputação da Cléa Store no Reclame Aqui?",
         "paragraphs": [
-          "Em 14/10/2026, o perfil da Cléa Store no Reclame Aqui mostrava reputação **Boa**, com nota 7,1 nos últimos seis meses (de 1º de abril a 30 de setembro de 2026), 100% das reclamações respondidas, 83,3% resolvidas e o selo de **Empresa Verificada**, que o Reclame Aqui descreve como aprovada na verificação mensal, que assegura que a empresa existe e é mais confiável. A tabela de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
+          "Em consulta de 14/10/2026, a Cléa Store tinha reputação **Boa** no Reclame Aqui, com selo de **Empresa Verificada** e todas as reclamações respondidas. A tabela de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -79632,25 +79632,25 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Cléa Store e pode receber comissão pelas compras feitas com o cupom **CSEMCASACOMCECILIA**.",
           "O cupom dá **10% OFF em todo o site** e vale em todas as formas de pagamento, tanto para conta nova quanto para quem já comprou na loja. Ele soma com as promoções do site, e no nosso teste valeu num kit que já estava em promoção. Soma também com o cashback. Não soma com outro cupom: os termos da loja falam em um voucher por pedido. As regras e as condições atualizadas ficam na [página do cupom da Cléa Store](/cupons/clea-store).",
-          "Testamos o cupom no carrinho em 14/10/2026. O passo a passo, com o que mudou no resumo do pedido, está em [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar)."
+          "Testamos o cupom no carrinho. O passo a passo, com o que mudou no resumo do pedido, está em [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar)."
         ]
       },
       {
         "heading": "Vale a pena comprar no site da Cléa Store?",
         "paragraphs": [
-          "Do ponto de vista da confiança, sim. A loja tem CNPJ ativo, razão social e endereço publicados, política de devolução com 30 dias e reputação Boa no Reclame Aqui, com o selo de Empresa Verificada e 100% das reclamações respondidas nos últimos seis meses.",
+          "Do ponto de vista da confiança, sim: CNPJ ativo, devolução grátis em 30 dias e reputação Boa no Reclame Aqui.",
           "Há dois pontos que mudam a conta. O frete grátis só começa acima de R$ 599, então pedidos menores pagam o frete. E o \"voltariam a fazer negócio\" no Reclame Aqui ficou em 55,6% nos últimos seis meses, o ponto mais fraco do perfil; os detalhes estão no artigo de reputação."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Cléa Store é confiável? Sim. A loja tem CNPJ ativo, razão social e endereço publicados, política de devolução no site e reputação Boa no Reclame Aqui, com 100% das reclamações respondidas nos últimos seis meses, em consulta de 14/10/2026.",
+          "A Cléa Store é confiável? Sim. A loja tem CNPJ ativo, razão social e endereço publicados, política de devolução no site e reputação Boa no Reclame Aqui, com todas as reclamações respondidas.",
           "O site da Cléa Store é seguro? O endereço oficial é cleastore.com.br, e o pagamento é feito somente no site. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio ou mensagem.",
-          "De onde é a Cléa Store? A empresa fica em Jaraguá do Sul (SC), segundo os dados públicos de CNPJ de 14/10/2026. A Clea Store Ltda. está no endereço Rua Erwino Menegotti, 1589, bairro Água Verde.",
-          "Qual é o CNPJ da Cléa Store? O CNPJ é 27.310.985/0001-08, da Clea Store Ltda., que consta como ativo nos dados públicos em 14/10/2026. Ele aparece no rodapé do site e na política de privacidade.",
-          "Quanto tempo tenho para devolver um produto da Cléa Store? São 30 dias corridos após o recebimento para a devolução e 90 dias corridos para defeito de fabricação. Pelos termos de uso, o arrependimento tem 7 dias corridos. A devolução é grátis: a postagem não é cobrada de você.",
-          "A Cléa Store tem frete grátis? Tem, segundo a faixa do site, em pedidos acima de R$ 599 (consulta de 14/10/2026). Abaixo desse valor, o frete é calculado no checkout.",
+          "De onde é a Cléa Store? A empresa fica em Jaraguá do Sul (SC), segundo os dados públicos de CNPJ. A Clea Store Ltda. está no endereço Rua Erwino Menegotti, 1589, bairro Água Verde.",
+          "Qual é o CNPJ da Cléa Store? O CNPJ é 27.310.985/0001-08, da Clea Store Ltda., que consta como ativo nos dados públicos. Ele aparece no rodapé do site e na política de privacidade.",
+          "Quanto tempo tenho para devolver um produto da Cléa Store? São 30 dias corridos após o recebimento, 90 para defeito de fabricação e 7 para arrependimento, com devolução grátis: a postagem não é cobrada de você. O passo a passo está no capítulo Como pedir a devolução.",
+          "A Cléa Store tem frete grátis? Tem, segundo a faixa do site, em pedidos acima de R$ 599. Abaixo desse valor, o frete é calculado no checkout.",
           "Como funciona o cashback da Cléa Store? Você recebe 10% da compra em créditos, automaticamente, liberados em até 1 dia útil e com validade de 30 dias. O saldo acumula e é usado no campo \"Utilize seu saldo de créditos\", na etapa de pagamento.",
           "Tem cupom de primeira compra na Cléa Store? O nosso cupom, CSEMCASACOMCECILIA, dá 10% OFF em todo o site e vale também para quem já comprou na loja. Veja as regras na [página do cupom da Cléa Store](/cupons/clea-store)."
         ]
@@ -79732,16 +79732,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Cléa Store no Reclame Aqui",
         "paragraphs": [
-          "O perfil da Cléa Store fica na categoria Moda, e-commerce. Em 14/10/2026, o topo mostrava reputação **Boa**, o selo de **Empresa Verificada** e avaliações de compra de 4,8 em 5.",
+          "O perfil da Cléa Store fica na categoria Moda, e-commerce. O topo mostrava reputação **Boa**, o selo de **Empresa Verificada** e avaliações de compra de 4,8 em 5.",
           "O selo de Empresa Verificada, nas palavras do Reclame Aqui, é dado a \"empresas aprovadas na nossa verificação mensal, que assegura que a empresa existe e é mais confiável\". O selo não avalia as peças.",
-          "A tabela põe lado a lado as abas de 6 e de 12 meses, cada uma com o seu período:"
+          "A tabela põe lado a lado as abas de 6 e de 12 meses, as duas até 30/09/2026:"
         ],
         "comparisonTable": {
-          "caption": "Perfil da Cléa Store no Reclame Aqui, abas de 6 meses (01/04 a 30/09/2026) e de 12 meses (01/10/2025 a 30/09/2026), consultado em 14/10/2026",
+          "caption": "Perfil da Cléa Store no Reclame Aqui, abas de 6 e de 12 meses",
           "headers": [
             "Indicador",
-            "6 meses (01/04 a 30/09/2026)",
-            "12 meses (01/10/2025 a 30/09/2026)"
+            "6 meses",
+            "12 meses"
           ],
           "rows": [
             [
@@ -79787,27 +79787,27 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A nota de reputação dos últimos 6 meses (7,1) é menor que a dos 12 meses (7,5), e o tempo médio de resposta é de 3 dias e 5 horas na aba de 6 meses e de 2 dias e 4 horas na de 12. As taxas de resolvidas, respondidas e de \"voltariam\" ficam em patamares parecidos nas duas janelas. A leitura mais direta é que a Cléa Store responde a tudo, resolve a maior parte dos casos, e mesmo assim cerca de 4 em cada 10 consumidores que avaliaram não voltariam a fazer negócio."
+          "Na janela de 6 meses a nota cai e a resposta demora mais, e as taxas ficam em patamares parecidos nas duas. A leitura mais direta é que a Cléa Store responde a tudo, resolve a maior parte dos casos, e mesmo assim cerca de 4 em cada 10 consumidores que avaliaram não voltariam a fazer negócio."
         ],
         "images": [
           {
             "src": "/images/reviews/clea-store/clea-store-reclame-aqui-aba-6-meses.webp",
             "alt": "Aba de 6 meses do perfil da Cléa Store no Reclame Aqui, com reputação Boa, nota 7,1 e os números marcados em amarelo",
-            "caption": "Aba de 6 meses (01/04 a 30/09/2026) do perfil da Cléa Store, consultada em 14/10/2026. O marca-texto amarelo é nosso.",
+            "caption": "Aba de 6 meses do perfil da Cléa Store. O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.3153
           },
           {
             "src": "/images/reviews/clea-store/clea-store-reclame-aqui-aba-12-meses.webp",
             "alt": "Aba de 12 meses do perfil da Cléa Store no Reclame Aqui, com reputação Boa, nota 7,5 e os números marcados em amarelo",
-            "caption": "Aba de 12 meses (01/10/2025 a 30/09/2026) do perfil da Cléa Store, consultada em 14/10/2026. O marca-texto amarelo é nosso.",
+            "caption": "Aba de 12 meses do perfil da Cléa Store. O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.3137
           },
           {
             "src": "/images/reviews/clea-store/clea-store-reclame-aqui-empresa-verificada.webp",
             "alt": "Selo de Empresa verificada no perfil da Cléa Store no Reclame Aqui, com a explicação da verificação mensal",
-            "caption": "O selo de Empresa verificada no perfil da Cléa Store, em 14/10/2026.",
+            "caption": "O selo de Empresa verificada no perfil da Cléa Store.",
             "objectFit": "contain",
             "aspectRatio": 1.3797
           }
@@ -79821,7 +79821,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/clea-store/clea-store-reclame-aqui-capa.webp",
           "alt": "Perfil da Cléa Store no Reclame Aqui em 14/10/2026: topo com reputação Boa, Empresa Verificada e avaliações de compra 4,8, ao lado da aba de 6 meses",
-          "caption": "O topo do perfil e a aba de 6 meses da Cléa Store no Reclame Aqui, consultados em 14/10/2026.",
+          "caption": "O topo do perfil e a aba de 6 meses da Cléa Store no Reclame Aqui.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -79836,7 +79836,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais aparece nas reclamações",
         "paragraphs": [
-          "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. Em 14/10/2026, a lista era esta:"
+          "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. A lista era esta:"
         ],
         "bullets": [
           "**Categoria:** Moda Feminina, com 6,67%.",
@@ -79844,27 +79844,27 @@ export const reviewsData: unknown[] = [
           "**Produto:** Blusas, com 12,67%."
         ],
         "postParagraphs": [
-          "O produto não recebido é o problema que mais se repete. Por isso, depois de pagar, acompanhe o rastreio e fale com a loja assim que o prazo mostrado no checkout vencer, sem esperar semanas.",
-          "Blusas é o produto mais citado, mas isso não quer dizer que seja a peça com mais problemas: os números do perfil não permitem concluir isso. Esses percentuais também cobrem até 3 anos de reclamações, uma janela maior que as das abas de 6 e de 12 meses da tabela."
+          "O produto não recebido é o problema que mais se repete. Por isso, acompanhe o rastreio depois de pagar e, vencido o prazo do checkout, fale com a loja na hora, sem esperar semanas.",
+          "Blusas é só a peça mais citada: os números do perfil não dizem que seja a que mais dá problema. Esses percentuais também cobrem até 3 anos de reclamações, uma janela maior que as das abas de 6 e de 12 meses da tabela."
         ],
         "image": "/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas.webp",
         "imageAlt": "Principais problemas comentados no perfil da Cléa Store no Reclame Aqui: categoria Moda Feminina com 6,67%, produto não recebido com 27,33% e Blusas com 12,67%",
-        "imageCaption": "Principais problemas comentados no perfil da Cléa Store, com reclamações de até 3 anos na aba geral (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+        "imageCaption": "Principais problemas comentados no perfil da Cléa Store, com reclamações de até 3 anos na aba geral. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.185
       },
       {
         "heading": "Como a Cléa Store responde",
         "paragraphs": [
-          "Responde a todas: em 14/10/2026, 100% das reclamações dos últimos 6 e dos últimos 12 meses estavam respondidas, e nenhuma aguardava resposta. O tempo médio de resposta foi de 3 dias e 5 horas nos 6 meses e de 2 dias e 4 horas nos 12 meses.",
-          "Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 83,3% das reclamações (cerca de 5 em cada 6). Nos 12 meses, foram 83,6%.",
-          "Só 36 das 65 reclamações dos últimos 6 meses foram avaliadas, e 73 das 137 nos 12 meses. O \"voltariam\" (55,6% e 58,9%) e a nota do consumidor (5,06 e 5,89) falam dessa parte. Esses números mostram como a Cléa Store foi vista por quem avaliou no Reclame Aqui, não como é a experiência de todas as compradoras."
+          "A loja responde a tudo nas duas janelas, como mostra a tabela; o gargalo não é responder, é resolver e fidelizar.",
+          "Resolver é outra conta: nas duas janelas, cerca de 5 em cada 6 reclamações foram resolvidas.",
+          "Só pouco mais da metade das reclamações foi avaliada, e o \"voltariam\" e a nota do consumidor, no quadro, falam só dessa parte. Esses números mostram como a Cléa Store foi vista por quem avaliou no Reclame Aqui, não como é a experiência de todas as compradoras."
         ]
       },
       {
         "heading": "Se o seu pedido der problema: o que fazer",
         "paragraphs": [
-          "O atendimento da Cléa Store é pelo botão \"Fale com Atendente\" do site. As regras de devolução, defeito e arrependimento estão nas páginas de política da loja. Em resumo, o caminho é este:"
+          "O atendimento da Cléa Store é pelo botão \"Fale com Atendente\" do site. Se é a primeira compra, acompanhe o rastreio desde o início; se tem pressa, fale com a loja assim que o prazo vencer. As regras de devolução, defeito e arrependimento estão nas páginas de política da loja. Em resumo, o caminho é este:"
         ],
         "bullets": [
           "**Pedido atrasado ou não recebido:** guarde o número do pedido e acompanhe o rastreio no seu perfil do site. O prazo de entrega aparece no checkout. Quando ele vencer, escreva para o atendimento da loja, pelo botão \"Fale com Atendente\", com o número do pedido.",
@@ -79882,16 +79882,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Cléa Store?",
         "paragraphs": [
-          "Pelo Reclame Aqui, sim, com uma ressalva. A reputação é Boa, com nota 7,1 nos últimos 6 meses e 7,5 nos 12 meses, 100% das reclamações respondidas e 83,3% resolvidas nos últimos 6 meses, além do selo de Empresa Verificada.",
-          "A ressalva é que só 55,6% dos consumidores que avaliaram voltariam a fazer negócio, e o problema mais citado é o produto não recebido (27,33% das reclamações de até 3 anos). Quem compra deve guardar o comprovante e acionar a loja pelos canais oficiais se o pedido atrasar."
+          "Pelo Reclame Aqui, sim, com uma ressalva. A reputação é Boa, com selo de Empresa Verificada; a loja responde a tudo e resolve a maior parte, como mostra a tabela.",
+          "A ressalva é que só 55,6% dos consumidores que avaliaram voltariam a fazer negócio, e o problema mais citado é o produto não recebido (mais de um quarto das reclamações de até 3 anos). Quem compra deve guardar o comprovante e acionar a loja pelos canais oficiais se o pedido atrasar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Cléa Store é confiável segundo o Reclame Aqui? Em 14/10/2026, o perfil mostrava reputação Boa e o selo de Empresa Verificada, com nota 7,1 nos últimos 6 meses. O ponto fraco é que só 55,6% dos consumidores que avaliaram voltariam a fazer negócio.",
-          "Qual a nota da Cléa Store no Reclame Aqui? Nota 7,1 nos últimos 6 meses (de 01/04 a 30/09/2026) e 7,5 nos últimos 12 meses, ambas na faixa Boa, em consulta de 14/10/2026. A nota do consumidor era 5,06 e 5,89. As avaliações de compra, de 4,8 em 5, são outra métrica.",
-          "A Cléa Store responde às reclamações? Sim. Em 14/10/2026, o perfil mostrava 100% das reclamações respondidas nos últimos 6 e nos últimos 12 meses, com resposta em 3 dias e 5 horas, em média, nos 6 meses.",
+          "A Cléa Store é confiável segundo o Reclame Aqui? Sim: o perfil mostra reputação Boa e o selo de Empresa Verificada. O ponto fraco é o percentual de quem voltaria a fazer negócio, que está na tabela de 6 e 12 meses.",
+          "Qual a nota da Cléa Store no Reclame Aqui? Nota 7,1 nos últimos 6 meses e 7,5 nos últimos 12 meses, ambas na faixa Boa; a nota do consumidor está na tabela. As avaliações de compra, de 4,8 em 5, são outra métrica.",
+          "A Cléa Store responde às reclamações? Sim. A tabela mostra todas as reclamações respondidas nos últimos 6 e nos últimos 12 meses, com resposta em poucos dias, em média.",
           "O que fazer se o pedido da Cléa Store atrasar? Acompanhe o rastreio e, quando o prazo mostrado no checkout vencer, escreva para o atendimento da loja, pelo botão \"Fale com Atendente\" do site, com o número do pedido. Se não resolver, abra uma reclamação no Reclame Aqui.",
           "Como pedir devolução ou troca na Cléa Store? A devolução tem 30 dias corridos a partir do recebimento, pelo formulário cleastore.troquefacil.com.br, e a postagem é grátis. Em caso de defeito de fabricação, o prazo é de 90 dias corridos, com foto e descrição."
         ]

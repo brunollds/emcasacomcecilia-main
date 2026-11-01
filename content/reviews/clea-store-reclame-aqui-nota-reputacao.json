@@ -73,16 +73,16 @@
     {
       "heading": "Os números da Cléa Store no Reclame Aqui",
       "paragraphs": [
-        "O perfil da Cléa Store fica na categoria Moda, e-commerce. Em 14/10/2026, o topo mostrava reputação **Boa**, o selo de **Empresa Verificada** e avaliações de compra de 4,8 em 5.",
+        "O perfil da Cléa Store fica na categoria Moda, e-commerce. O topo mostrava reputação **Boa**, o selo de **Empresa Verificada** e avaliações de compra de 4,8 em 5.",
         "O selo de Empresa Verificada, nas palavras do Reclame Aqui, é dado a \"empresas aprovadas na nossa verificação mensal, que assegura que a empresa existe e é mais confiável\". O selo não avalia as peças.",
-        "A tabela põe lado a lado as abas de 6 e de 12 meses, cada uma com o seu período:"
+        "A tabela põe lado a lado as abas de 6 e de 12 meses, as duas até 30/09/2026:"
       ],
       "comparisonTable": {
-        "caption": "Perfil da Cléa Store no Reclame Aqui, abas de 6 meses (01/04 a 30/09/2026) e de 12 meses (01/10/2025 a 30/09/2026), consultado em 14/10/2026",
+        "caption": "Perfil da Cléa Store no Reclame Aqui, abas de 6 e de 12 meses",
         "headers": [
           "Indicador",
-          "6 meses (01/04 a 30/09/2026)",
-          "12 meses (01/10/2025 a 30/09/2026)"
+          "6 meses",
+          "12 meses"
         ],
         "rows": [
           [
@@ -128,27 +128,27 @@
         ]
       },
       "postParagraphs": [
-        "A nota de reputação dos últimos 6 meses (7,1) é menor que a dos 12 meses (7,5), e o tempo médio de resposta é de 3 dias e 5 horas na aba de 6 meses e de 2 dias e 4 horas na de 12. As taxas de resolvidas, respondidas e de \"voltariam\" ficam em patamares parecidos nas duas janelas. A leitura mais direta é que a Cléa Store responde a tudo, resolve a maior parte dos casos, e mesmo assim cerca de 4 em cada 10 consumidores que avaliaram não voltariam a fazer negócio."
+        "Na janela de 6 meses a nota cai e a resposta demora mais, e as taxas ficam em patamares parecidos nas duas. A leitura mais direta é que a Cléa Store responde a tudo, resolve a maior parte dos casos, e mesmo assim cerca de 4 em cada 10 consumidores que avaliaram não voltariam a fazer negócio."
       ],
       "images": [
         {
           "src": "/images/reviews/clea-store/clea-store-reclame-aqui-aba-6-meses.webp",
           "alt": "Aba de 6 meses do perfil da Cléa Store no Reclame Aqui, com reputação Boa, nota 7,1 e os números marcados em amarelo",
-          "caption": "Aba de 6 meses (01/04 a 30/09/2026) do perfil da Cléa Store, consultada em 14/10/2026. O marca-texto amarelo é nosso.",
+          "caption": "Aba de 6 meses do perfil da Cléa Store. O marca-texto amarelo é nosso.",
           "objectFit": "contain",
           "aspectRatio": 0.3153
         },
         {
           "src": "/images/reviews/clea-store/clea-store-reclame-aqui-aba-12-meses.webp",
           "alt": "Aba de 12 meses do perfil da Cléa Store no Reclame Aqui, com reputação Boa, nota 7,5 e os números marcados em amarelo",
-          "caption": "Aba de 12 meses (01/10/2025 a 30/09/2026) do perfil da Cléa Store, consultada em 14/10/2026. O marca-texto amarelo é nosso.",
+          "caption": "Aba de 12 meses do perfil da Cléa Store. O marca-texto amarelo é nosso.",
           "objectFit": "contain",
           "aspectRatio": 0.3137
         },
         {
           "src": "/images/reviews/clea-store/clea-store-reclame-aqui-empresa-verificada.webp",
           "alt": "Selo de Empresa verificada no perfil da Cléa Store no Reclame Aqui, com a explicação da verificação mensal",
-          "caption": "O selo de Empresa verificada no perfil da Cléa Store, em 14/10/2026.",
+          "caption": "O selo de Empresa verificada no perfil da Cléa Store.",
           "objectFit": "contain",
           "aspectRatio": 1.3797
         }
@@ -162,7 +162,7 @@
       "image": {
         "src": "/images/reviews/clea-store/clea-store-reclame-aqui-capa.webp",
         "alt": "Perfil da Cléa Store no Reclame Aqui em 14/10/2026: topo com reputação Boa, Empresa Verificada e avaliações de compra 4,8, ao lado da aba de 6 meses",
-        "caption": "O topo do perfil e a aba de 6 meses da Cléa Store no Reclame Aqui, consultados em 14/10/2026.",
+        "caption": "O topo do perfil e a aba de 6 meses da Cléa Store no Reclame Aqui.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
@@ -177,7 +177,7 @@
     {
       "heading": "O que mais aparece nas reclamações",
       "paragraphs": [
-        "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. Em 14/10/2026, a lista era esta:"
+        "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. A lista era esta:"
       ],
       "bullets": [
         "**Categoria:** Moda Feminina, com 6,67%.",
@@ -185,27 +185,27 @@
         "**Produto:** Blusas, com 12,67%."
       ],
       "postParagraphs": [
-        "O produto não recebido é o problema que mais se repete. Por isso, depois de pagar, acompanhe o rastreio e fale com a loja assim que o prazo mostrado no checkout vencer, sem esperar semanas.",
-        "Blusas é o produto mais citado, mas isso não quer dizer que seja a peça com mais problemas: os números do perfil não permitem concluir isso. Esses percentuais também cobrem até 3 anos de reclamações, uma janela maior que as das abas de 6 e de 12 meses da tabela."
+        "O produto não recebido é o problema que mais se repete. Por isso, acompanhe o rastreio depois de pagar e, vencido o prazo do checkout, fale com a loja na hora, sem esperar semanas.",
+        "Blusas é só a peça mais citada: os números do perfil não dizem que seja a que mais dá problema. Esses percentuais também cobrem até 3 anos de reclamações, uma janela maior que as das abas de 6 e de 12 meses da tabela."
       ],
       "image": "/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas.webp",
       "imageAlt": "Principais problemas comentados no perfil da Cléa Store no Reclame Aqui: categoria Moda Feminina com 6,67%, produto não recebido com 27,33% e Blusas com 12,67%",
-      "imageCaption": "Principais problemas comentados no perfil da Cléa Store, com reclamações de até 3 anos na aba geral (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+      "imageCaption": "Principais problemas comentados no perfil da Cléa Store, com reclamações de até 3 anos na aba geral. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.185
     },
     {
       "heading": "Como a Cléa Store responde",
       "paragraphs": [
-        "Responde a todas: em 14/10/2026, 100% das reclamações dos últimos 6 e dos últimos 12 meses estavam respondidas, e nenhuma aguardava resposta. O tempo médio de resposta foi de 3 dias e 5 horas nos 6 meses e de 2 dias e 4 horas nos 12 meses.",
-        "Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 83,3% das reclamações (cerca de 5 em cada 6). Nos 12 meses, foram 83,6%.",
-        "Só 36 das 65 reclamações dos últimos 6 meses foram avaliadas, e 73 das 137 nos 12 meses. O \"voltariam\" (55,6% e 58,9%) e a nota do consumidor (5,06 e 5,89) falam dessa parte. Esses números mostram como a Cléa Store foi vista por quem avaliou no Reclame Aqui, não como é a experiência de todas as compradoras."
+        "A loja responde a tudo nas duas janelas, como mostra a tabela; o gargalo não é responder, é resolver e fidelizar.",
+        "Resolver é outra conta: nas duas janelas, cerca de 5 em cada 6 reclamações foram resolvidas.",
+        "Só pouco mais da metade das reclamações foi avaliada, e o \"voltariam\" e a nota do consumidor, no quadro, falam só dessa parte. Esses números mostram como a Cléa Store foi vista por quem avaliou no Reclame Aqui, não como é a experiência de todas as compradoras."
       ]
     },
     {
       "heading": "Se o seu pedido der problema: o que fazer",
       "paragraphs": [
-        "O atendimento da Cléa Store é pelo botão \"Fale com Atendente\" do site. As regras de devolução, defeito e arrependimento estão nas páginas de política da loja. Em resumo, o caminho é este:"
+        "O atendimento da Cléa Store é pelo botão \"Fale com Atendente\" do site. Se é a primeira compra, acompanhe o rastreio desde o início; se tem pressa, fale com a loja assim que o prazo vencer. As regras de devolução, defeito e arrependimento estão nas páginas de política da loja. Em resumo, o caminho é este:"
       ],
       "bullets": [
         "**Pedido atrasado ou não recebido:** guarde o número do pedido e acompanhe o rastreio no seu perfil do site. O prazo de entrega aparece no checkout. Quando ele vencer, escreva para o atendimento da loja, pelo botão \"Fale com Atendente\", com o número do pedido.",
@@ -223,16 +223,16 @@
     {
       "heading": "Dá para confiar na Cléa Store?",
       "paragraphs": [
-        "Pelo Reclame Aqui, sim, com uma ressalva. A reputação é Boa, com nota 7,1 nos últimos 6 meses e 7,5 nos 12 meses, 100% das reclamações respondidas e 83,3% resolvidas nos últimos 6 meses, além do selo de Empresa Verificada.",
-        "A ressalva é que só 55,6% dos consumidores que avaliaram voltariam a fazer negócio, e o problema mais citado é o produto não recebido (27,33% das reclamações de até 3 anos). Quem compra deve guardar o comprovante e acionar a loja pelos canais oficiais se o pedido atrasar."
+        "Pelo Reclame Aqui, sim, com uma ressalva. A reputação é Boa, com selo de Empresa Verificada; a loja responde a tudo e resolve a maior parte, como mostra a tabela.",
+        "A ressalva é que só 55,6% dos consumidores que avaliaram voltariam a fazer negócio, e o problema mais citado é o produto não recebido (mais de um quarto das reclamações de até 3 anos). Quem compra deve guardar o comprovante e acionar a loja pelos canais oficiais se o pedido atrasar."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Cléa Store é confiável segundo o Reclame Aqui? Em 14/10/2026, o perfil mostrava reputação Boa e o selo de Empresa Verificada, com nota 7,1 nos últimos 6 meses. O ponto fraco é que só 55,6% dos consumidores que avaliaram voltariam a fazer negócio.",
-        "Qual a nota da Cléa Store no Reclame Aqui? Nota 7,1 nos últimos 6 meses (de 01/04 a 30/09/2026) e 7,5 nos últimos 12 meses, ambas na faixa Boa, em consulta de 14/10/2026. A nota do consumidor era 5,06 e 5,89. As avaliações de compra, de 4,8 em 5, são outra métrica.",
-        "A Cléa Store responde às reclamações? Sim. Em 14/10/2026, o perfil mostrava 100% das reclamações respondidas nos últimos 6 e nos últimos 12 meses, com resposta em 3 dias e 5 horas, em média, nos 6 meses.",
+        "A Cléa Store é confiável segundo o Reclame Aqui? Sim: o perfil mostra reputação Boa e o selo de Empresa Verificada. O ponto fraco é o percentual de quem voltaria a fazer negócio, que está na tabela de 6 e 12 meses.",
+        "Qual a nota da Cléa Store no Reclame Aqui? Nota 7,1 nos últimos 6 meses e 7,5 nos últimos 12 meses, ambas na faixa Boa; a nota do consumidor está na tabela. As avaliações de compra, de 4,8 em 5, são outra métrica.",
+        "A Cléa Store responde às reclamações? Sim. A tabela mostra todas as reclamações respondidas nos últimos 6 e nos últimos 12 meses, com resposta em poucos dias, em média.",
         "O que fazer se o pedido da Cléa Store atrasar? Acompanhe o rastreio e, quando o prazo mostrado no checkout vencer, escreva para o atendimento da loja, pelo botão \"Fale com Atendente\" do site, com o número do pedido. Se não resolver, abra uma reclamação no Reclame Aqui.",
         "Como pedir devolução ou troca na Cléa Store? A devolução tem 30 dias corridos a partir do recebimento, pelo formulário cleastore.troquefacil.com.br, e a postagem é grátis. Em caso de defeito de fabricação, o prazo é de 90 dias corridos, com foto e descrição."
       ]
