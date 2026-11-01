@@ -77554,11 +77554,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dinheiro ou Fast Shop: como usar o crédito",
         "paragraphs": [
-          "O crédito é flexível: o casal pode usar tudo em dinheiro, tudo em produtos da Fast Shop, ou dividir entre os dois. A central de ajuda da Lejour descreve o resgate como \"100% flexível\"."
+          "O crédito é flexível: o casal pode usar tudo em dinheiro, tudo em produtos da Fast Shop, ou dividir entre os dois."
         ],
         "bullets": [
           "**Em dinheiro:** o casal saca o crédito por Pix.",
-          "**Na Fast Shop:** o menu do painel tem a área Produtos Fast Shop, e o crédito vale em compras na loja. Em 14/10/2026, a página de lista de casamento da Fast Shop diz que as compras feitas com o crédito dão cashback mínimo de 4% para as próximas compras. A condição é da Fast Shop e pode mudar; confira na página dela antes de contar com o valor."
+          "**Na Fast Shop:** o menu do painel tem a área Produtos Fast Shop, e o crédito vale em compras na loja. A página de lista de casamento da Fast Shop diz que as compras feitas com o crédito dão cashback mínimo de 4% para as próximas compras. A condição é da Fast Shop e pode mudar; confira na página dela antes de contar com o valor."
         ],
         "postParagraphs": [
           "A Lejour e a Fast Shop são parceiras: o logo do site é \"Fast Shop + le jour\". Mais sobre essa parceria está em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
@@ -77575,7 +77575,7 @@ export const reviewsData: unknown[] = [
           "Fora a taxa, há custos que dependem do plano: no Basic, os saques são gratuitos só até o segundo, e depois custam R$ 5 cada; o domínio personalizado .site custa R$ 69,90. No Premium e no Pro, os saques são ilimitados e o domínio está incluso."
         ],
         "comparisonTable": {
-          "caption": "Taxa por presente em cada plano da Lejour, 14/10/2026",
+          "caption": "Taxa por presente em cada plano da Lejour",
           "headers": [
             "Plano",
             "Taxa por presente",
@@ -77610,11 +77610,11 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
         "imageAlt": "Tabela de planos do painel da Lejour com Basic, Premium e Pro: preço, taxa da lista de presentes, saques, domínio e recursos de cada plano",
-        "imageCaption": "Tabela de planos do painel da Lejour em 14/10/2026. O marca-texto amarelo é nosso.",
+        "imageCaption": "Tabela de planos do painel da Lejour. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.3563,
         "comparisonTable": {
-          "caption": "Comparação dos planos Basic, Premium e Pro da Lejour, 14/10/2026",
+          "caption": "Comparação dos planos Basic, Premium e Pro da Lejour",
           "headers": [
             "",
             "Basic",
@@ -77688,14 +77688,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando o dinheiro cai na conta",
         "paragraphs": [
-          "Depende de como o convidado paga e de quando você pede o saque. Segundo a central de ajuda da Lejour, em 14/10/2026, o caminho do presente até o seu Pix tem quatro etapas:"
+          "Depende de como o convidado paga e de quando você pede o saque. Segundo a central de ajuda da Lejour, o caminho do presente até o seu Pix tem quatro etapas:"
         ],
         "postParagraphs": [
           "Na prática, o presente pago no cartão só pode ser sacado 15 dias corridos depois da compra, e o Pix chega em até 1 dia útil depois do pedido de saque.",
           "A validação de identidade é feita uma única vez, antes do primeiro saque, e o conselho é validar cedo. A segurança do saldo e as regras de saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
         ],
         "comparisonTable": {
-          "caption": "Prazos do presente até o Pix, segundo a central de ajuda da Lejour (14/10/2026)",
+          "caption": "Prazos do presente até o Pix, segundo a central de ajuda da Lejour",
           "headers": [
             "Etapa",
             "Prazo"
@@ -77730,18 +77730,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual plano escolher",
         "paragraphs": [
-          "**Basic:** casais que querem começar sem pagar, testar o formato ou esperam poucos presentes em dinheiro. Tem taxa de 3,89% por presente, até 2 saques grátis e domínio .site por R$ 69,90 à parte.",
-          "**Premium:** casais que esperam um volume maior de presentes ou fariam mais de 2 saques. Custa R$ 99,90 (de R$ 179,90) uma vez, tem taxa de 3,29%, saques ilimitados, domínio incluso, tradução do site em inglês e espanhol e atendimento prioritário.",
-          "**Pro:** casais com convidados de vários países ou que querem todos os recursos. Custa R$ 199,90 uma vez, tem taxa de 2,99%, saques ilimitados, domínio incluso, tradução em vários idiomas, inteligência artificial e o Capture ilimitado, o recurso de fotos dos convidados.",
-          "Pelos recursos da tabela de planos do painel em 14/10/2026:"
+          "**Basic:** casais que querem começar sem pagar ou esperam poucos presentes. Se você espera muitos presentes ou mais de 2 saques, compare com o Premium na tabela de planos acima.",
+          "**Premium:** casais que esperam um volume maior de presentes ou fariam mais de 2 saques (preço, taxa e itens inclusos na tabela de planos acima).",
+          "**Pro:** casais com convidados de vários países ou que querem todos os recursos (detalhes na tabela de planos acima).",
+          "Pelos recursos da tabela de planos do painel:"
         ],
         "postParagraphs": [
-          "Para saber a partir de quanto a taxa menor paga o preço do plano, a conta é simples: o preço do plano dividido pela diferença entre as taxas. É uma conta nossa, feita com os números de 14/10/2026, e serve como orientação, não como promessa de economia:",
+          "Para saber a partir de quanto a taxa menor paga o preço do plano, a conta é simples: o preço do plano dividido pela diferença entre as taxas. É uma conta nossa, feita com os números acima, e serve como orientação, não como promessa de economia:",
           "Conferindo o primeiro caso: em R$ 16.650 de presentes, a taxa do Basic é de R$ 647,69 e a do Premium, de R$ 547,79. A diferença é de R$ 99,90, o preço do Premium.",
-          "Três cuidados sobre essa conta. Primeiro, a conta só favorece o casal se ele paga a taxa; se os convidados pagam, quem economiza é o convidado. Segundo, o Premium estava em preço promocional em 14/10/2026 (de R$ 179,90 por R$ 99,90), então refaça a conta com o preço que aparecer no painel. Terceiro, a conta não inclui os extras de cada plano: no Basic, o domínio .site custa R$ 69,90 e cada saque depois do 2º custa R$ 5, itens que os planos pagos já cobrem."
+          "Três cuidados sobre essa conta. Primeiro, a conta só favorece o casal se ele paga a taxa; se os convidados pagam, a economia vai para o convidado, e o plano pago só compensa pelo saque ilimitado e pelo domínio. Segundo, o Premium estava em preço promocional (de R$ 179,90 por R$ 99,90), então refaça a conta com o preço que aparecer no painel. Terceiro, a conta não inclui os extras de cada plano: no Basic, o domínio .site custa R$ 69,90 e cada saque depois do 2º custa R$ 5, itens que os planos pagos já cobrem."
         ],
         "comparisonTable": {
-          "caption": "A partir de quanto em presentes a taxa menor paga o plano (conta nossa, 14/10/2026)",
+          "caption": "A partir de quanto em presentes a taxa menor paga o plano (conta nossa)",
           "headers": [
             "Comparação",
             "Diferença na taxa",
@@ -77781,11 +77781,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "O que é a Lejour? É uma plataforma brasileira de casamento que faz o site do casal e a lista de presentes, com lista de convidados e confirmação de presença.",
-          "A Lejour é gratuita? Criar o site e a lista é grátis no plano Basic, que cobra uma taxa de 3,89% por presente. Os planos Premium (R$ 99,90) e Pro (R$ 199,90) são pagos uma vez e têm taxa menor, em 14/10/2026.",
-          "Qual a taxa da Lejour? Em 14/10/2026, a taxa por presente é de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro. Num presente de R$ 200 no Basic, a taxa é de R$ 7,78, conta nossa.",
+          "A Lejour é gratuita? Criar o site e a lista é grátis no plano Basic, que cobra uma taxa de 3,89% por presente. Os planos Premium (R$ 99,90) e Pro (R$ 199,90) são pagos uma vez e têm taxa menor.",
+          "Qual a taxa da Lejour? Depende do plano; os percentuais estão na tabela de taxas acima. Num presente de R$ 200 no Basic, cerca de R$ 8 pela nossa conta.",
           "Quem paga a taxa da lista de presentes? O casal escolhe: a taxa pode sair do valor que o casal recebe ou ser paga pelos convidados. A opção fica em Configurações, em \"Sobre site e lista\".",
           "Os presentes da Lejour são entregues em casa? Não. Todos os presentes da lista são virtuais: o convidado dá um valor, que vira crédito em dinheiro para o casal usar por Pix ou em produtos da Fast Shop.",
-          "Dá para usar o dinheiro da lista na Fast Shop? Sim. O casal pode usar o crédito em dinheiro, em produtos da Fast Shop ou nos dois. A Fast Shop informa cashback mínimo de 4% nas compras com o crédito, em 14/10/2026.",
+          "Dá para usar o dinheiro da lista na Fast Shop? Sim. O casal pode usar o crédito em dinheiro, em produtos da Fast Shop ou nos dois. A Fast Shop informa cashback mínimo de 4% nas compras com o crédito.",
           "Em quanto tempo o dinheiro cai na conta? Presentes pagos por Pix ou boleto viram crédito depois da confirmação do pagamento, e os pagos no cartão, em 15 dias corridos. O saque por Pix sai em até 1 dia útil, depois da validação de identidade.",
           "O convidado pode parcelar o presente? Sim. No cartão, o convidado parcela em até 12x, com juros de 3,49% ao mês pagos por ele, e também pode pagar por Pix ou boleto."
         ]
