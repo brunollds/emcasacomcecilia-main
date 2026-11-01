@@ -10,4 +10,4 @@
 - `hostinger-horizons-vale-a-pena`, `hostinger-reach-ou-mailchimp-brevo`, `hostinger-ou-hostgator` e `wordpress-na-hostinger`: o cartão traz dado de loja (renovação, reembolso, duração da promoção). O dado volta ao parágrafo, e o cartão leva a frase de veredito.
 
 ## Pedido à sessão "Redesenho do site" (01/11/2026)
-Quadro "Leve se / Passe se" para guias: o equivalente seguro dos pontos fortes e de atenção, sem estrelas nem nota. Quando existir, o Job 2 ganha o campo e esta rodada o preenche.
+Quadro "Leve se / Passe se" para guias: no main desde 01/11/2026 (#455), regra no Job 2, seção 5. A partir do lote 02, a rodada propõe o `decision` para todo guia de escolha e comparativo do lote **que não é de família**. Os artigos de família ficam numa lista no README do lote, para a rodada das traduções, porque o quadro no PT exige o quadro nas 9 versões.
