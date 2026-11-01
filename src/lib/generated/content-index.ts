@@ -58692,7 +58692,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A SHEIN ainda não anunciou a Black Friday de 2026, que cai em 27 de novembro. Pelo histórico, as ofertas começam antes, junto com o 11.11, e vão até 30 de novembro. No pedido internacional de até US$ 50 não há imposto de importação, só ICMS; veja abaixo a conta, o cupom e o código 4CW5Y."
+          "A SHEIN ainda não anunciou a Black Friday de 2026, que cai em 27 de novembro. Pelo histórico, as ofertas começam antes, junto com o 11.11, e vão até o fim do mês. No pedido internacional de até US$ 50 não há imposto de importação, só ICMS; veja abaixo a conta, o cupom e o código 4CW5Y."
         ]
       },
       {
@@ -58710,29 +58710,29 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "2023",
-              "11/11 a 25/11",
-              "até 80% de 11 a 19/11, até 85% de 20 a 23/11 e até 90% em 24 e 25/11, com 48 horas de frete grátis na semana da Black Friday"
+              "11 a 25/11",
+              "até 80% no começo, até 85% na semana anterior e até 90% na Black Friday e no sábado seguinte, com 48 horas de frete grátis na semana da Black Friday"
             ],
             [
               "2024",
               "21/10 a 30/11",
-              "11.11: até 85% de 21/10 a 4/11, até 90% de 5 a 10/11 e até 95% de 11 a 13/11. Black Friday: até 90% de 13 a 25/11 e até 95% de 26 a 30/11"
+              "11.11: até 85% no começo, 90% na semana anterior e 95% nos dias do 11.11. Black Friday: até 90%, subindo para 95% nos últimos cinco dias do mês"
             ],
             [
               "2025",
-              "já no ar em 3/11, até 30/11",
-              "até 90% em mais de 800 mil itens até 9/11, com frete grátis em várias categorias; em 24/11, até 95% em mais de 800 mil itens"
+              "no ar desde 3/11, até 30/11",
+              "até 90% em mais de 800 mil itens na primeira fase, com frete grátis em várias categorias; na semana da Black Friday, até 95% em mais de 800 mil itens"
             ]
           ]
         },
         "postParagraphs": [
-          "Em 2026, o 11.11 cai numa quarta-feira e a Black Friday numa sexta, 27 de novembro. Se a SHEIN repetir o padrão, as ofertas devem começar entre o fim de outubro e o começo de novembro e ir até 30 de novembro. É uma estimativa pelo histórico, e este guia é atualizado quando a SHEIN anunciar a campanha de 2026.",
-          "Nos três anos, o desconto máximo subiu perto do fim: 90% em 24 e 25/11 de 2023, 95% de 26 a 30/11 de 2024 e 95% a partir de 24/11 de 2025."
+          "Em 2026, o 11.11 cai numa quarta-feira e a Black Friday numa sexta. Se a SHEIN repetir o padrão, as ofertas devem começar entre o fim de outubro e o começo de novembro e ir até o fim do mês. É uma estimativa pelo histórico, e este guia é atualizado quando a SHEIN anunciar a campanha de 2026.",
+          "Nos três anos, o desconto máximo subiu perto do fim: quem pode esperar ganha, e quem precisa de tamanho difícil não espera a última fase."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
           "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-          "caption": "A página inicial da SHEIN Brasil em 12/10/2026. A campanha da Black Friday de 2026 ainda não tinha sido anunciada.",
+          "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -58752,11 +58752,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O imposto na Black Friday: o que mudou em 2026",
         "paragraphs": [
-          "A SHEIN faz parte do Remessa Conforme, o programa da Receita Federal para compras internacionais. Por isso, os impostos são cobrados no checkout, junto com o pedido. Em regra, não há cobrança extra na entrega, mas a Receita Federal pode reavaliar o valor do pacote, e isso muda o imposto devido. Em 13 de maio de 2026, o imposto de importação das compras de até US$ 50 foi zerado. A Lei 15.502, de 10 de setembro de 2026, confirmou que o governo pode manter a alíquota zero nessa faixa.",
+          "A SHEIN está no Remessa Conforme, então o imposto aparece no checkout, junto do pedido, e em regra não há cobrança extra na entrega, mas a Receita Federal pode reavaliar o valor do pacote, e isso muda o imposto devido. Em 13 de maio de 2026, o imposto de importação das compras de até US$ 50 foi zerado. A Lei 15.502/2026 confirmou que o governo pode manter a alíquota zero nessa faixa.",
           "A conta vale por pedido e usa o valor do produto mais o frete, já com os descontos e o cupom. Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
         ],
         "comparisonTable": {
-          "caption": "Pela página de impostos da SHEIN Brasil, atualizada em 23/05/2026. O ICMS de 17% vale para a maioria dos estados; Amapá tem 18%, Pará 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe têm 20%.",
+          "caption": "Pela página de impostos da SHEIN Brasil. O ICMS de 17% vale para a maioria dos estados; Amapá tem 18%, Pará 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe têm 20%.",
           "headers": [
             "Pedido (produto + frete)",
             "Imposto de importação",
@@ -58800,7 +58800,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pela política de cupons da SHEIN, vale um cupom da plataforma por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para usar também o cupom da loja desse vendedor: no máximo dois cupons, um de cada tipo. Cada cupom tem validade, e o que não foi usado a tempo fica indisponível.",
           "Os pontos SHEIN valem US$ 1 a cada 100 pontos e abatem até 30% do valor dos produtos, sem contar frete e impostos. Eles não valem em itens de vendedores nacionais.",
-          "O 4CW5Y não é cupom: é o código de indicação da Cecília. Você pesquisa 4CW5Y no aplicativo da SHEIN e confere as condições que aparecem para a sua conta. As campanhas da SHEIN mudam toda hora, por isso ficam na página da loja aqui do site, com a data em que foram conferidas."
+          "O 4CW5Y não é cupom: é o código de indicação da Cecília. Você pesquisa 4CW5Y no aplicativo da SHEIN e confere as condições que aparecem para a sua conta. As campanhas da SHEIN mudam toda hora: confira as vigentes na página da loja aqui do site antes de fechar o pedido."
         ],
         "image": {
           "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
@@ -58823,7 +58823,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como pagar na Black Friday",
         "paragraphs": [
-          "A SHEIN aceita Pix, cartão de crédito brasileiro em até 6 parcelas, boleto, PayPal e Pagaleve. O boleto precisa ser pago em até 3 dias, e a própria SHEIN sugere cartão ou PayPal para evitar falta de estoque ou atraso na confirmação do pagamento, o que pesa numa promoção com estoque curto.",
+          "A SHEIN aceita Pix, cartão de crédito brasileiro em até 6 parcelas, boleto, PayPal e Pagaleve. O boleto leva até 3 dias para compensar, e nesse tempo a peça pode esgotar: na Black Friday, prefira cartão ou PayPal.",
           "Se precisar de reembolso, o Pix é o mais rápido: a SHEIN processa em até 24 horas, e o banco leva de 1 a 3 dias úteis. No cartão de crédito, o banco leva de 3 a 8 dias úteis, às vezes até 30 dias."
         ]
       },
@@ -58832,7 +58832,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
           "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
-          "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas em 12 e 13/10/2026.",
+          "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
           "objectFit": "contain",
           "aspectRatio": 1.5
         },
@@ -58840,7 +58840,7 @@ export const reviewsData: unknown[] = [
           "**Prazo:** até 20 dias depois de receber, mesmo que você só não tenha gostado da peça.",
           "**Itens que só voltam em 7 dias:** bodies, moda praia, roupa íntima, brincos e piercings e produtos para pets, e cosméticos, artigos de festa e de artesanato com o lacre aberto. Esses só podem ser devolvidos no prazo de arrependimento de 7 dias, contado da entrega.",
           "**Frete da devolução:** a primeira devolução de cada pedido é grátis, pelos Correios, pela Jadlog ou pela Total Express. Da segunda em diante, a SHEIN desconta R$ 45 do reembolso a cada devolução.",
-          "**Cupom:** em devolução parcial, o cupom conta como usado e não volta para a conta. Se o pedido ficar abaixo do valor mínimo do cupom, a SHEIN desconta do reembolso a parte do desconto que deixou de valer.",
+          "**Cupom:** em devolução parcial, o cupom conta como usado e não volta; se o pedido ficar abaixo do mínimo, a diferença sai do reembolso.",
           "**Imposto:** o imposto de importação pago não volta depois que o pedido foi enviado."
         ]
       },
@@ -58858,15 +58858,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa a Black Friday da SHEIN em 2026? A SHEIN ainda não anunciou. Em 2024 as ofertas começaram em 21 de outubro, junto com o 11.11, e em 2025 já estavam no ar em 3 de novembro. A Black Friday de 2026 é em 27 de novembro.",
-          "A Black Friday da SHEIN vai até quando? Em 2024 e 2025, até 30 de novembro. Em 2023, até 25 de novembro, o sábado depois da Black Friday.",
-          "O que é o 11.11 da SHEIN? É a promoção do Dia dos Solteiros, em 11 de novembro. A SHEIN junta o 11.11 e a Black Friday numa campanha só, com fases de desconto até o fim do mês.",
+          "Quando começa a Black Friday da SHEIN em 2026? A SHEIN ainda não anunciou. Em 2024 as ofertas começaram junto com o 11.11, no fim de outubro, e em 2025 já estavam no ar no começo de novembro. A Black Friday de 2026 cai na última sexta de novembro.",
+          "A Black Friday da SHEIN vai até quando? Em 2024 e 2025, até o fim de novembro. Em 2023, até o sábado depois da Black Friday.",
+          "O que é o 11.11 da SHEIN? É a promoção do Dia dos Solteiros, no dia 11 do mês 11. A SHEIN junta o 11.11 e a Black Friday numa campanha só, com fases de desconto até o fim do mês.",
           "Tem imposto nas compras da SHEIN na Black Friday? Tem ICMS, de 17% a 20% conforme o estado, em toda compra internacional. O imposto de importação é zero nos pedidos de até US$ 50 e de 60%, menos US$ 30 no valor do imposto, acima disso.",
           "O imposto zero da SHEIN vale para qualquer compra? Vale para o pedido internacional de até US$ 50, contando produto e frete, já com os descontos. Acima disso, o imposto de importação volta.",
           "Produto de Envio Nacional paga imposto de importação? Não. Os produtos de Envio Nacional já estão no Brasil e não pagam imposto de importação.",
           "Posso usar mais de um cupom na SHEIN? Um cupom da SHEIN por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para somar o cupom da loja desse vendedor.",
           "O 4CW5Y é cupom de desconto? Não. É o código de indicação da Cecília: você pesquisa o código no aplicativo da SHEIN e vê as condições para a sua conta.",
-          "Tem frete grátis na Black Friday da SHEIN? Nos últimos anos, teve em momentos da campanha: 48 horas em 2023 e frete grátis em várias categorias no começo da campanha de 2025. O frete do seu pedido aparece no carrinho.",
+          "Tem frete grátis na Black Friday da SHEIN? O frete grátis muda a cada fase da campanha: confira o do seu pedido no carrinho antes de pagar.",
           "Quanto tempo tenho para devolver o que comprei na Black Friday? Até 20 dias depois de receber. Roupa íntima, moda praia, bodies, brincos e alguns outros itens só voltam no prazo de 7 dias."
         ]
       }
@@ -58878,6 +58878,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "coupon": "4CW5Y",
+    "bodyDatesReason": "campanha",
     "affiliate": "shein",
     "editorialNote": "Regras das páginas oficiais da SHEIN Brasil e da Lei 15.502/2026. Podemos receber comissão pelas compras.",
     "relatedArticles": [
@@ -64132,7 +64133,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde colocar o código de indicação da SHEIN",
         "paragraphs": [
-          "A SHEIN manda pesquisar o código na busca do aplicativo. As telas abaixo são do site da SHEIN Brasil no celular, sem login:"
+          "Pesquise o código na busca do aplicativo da SHEIN. As telas abaixo são do site da SHEIN Brasil no celular, sem login:"
         ],
         "bullets": [
           "**Passo 1:** toque na barra de busca da SHEIN.",
@@ -64158,20 +64159,20 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "Página da SHEIN Brasil aberta depois da pesquisa, com o título \"Acho que você pode gostar\" e dois produtos com preço em reais",
-            "caption": "Passo 3: a página que a pesquisa pelo 4CW5Y abriu em 12/10/2026.",
+            "caption": "Passo 3: a página que a pesquisa pelo 4CW5Y abriu.",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
         ],
         "postParagraphs": [
-          "Não use o código como cupom: a SHEIN manda pesquisá-lo na caixa de busca."
+          "Não use o código como cupom: ele vai na caixa de busca."
         ]
       },
       {
         "heading": "O que aparece depois da pesquisa e o que você ganha",
         "paragraphs": [
-          "Segundo a SHEIN, quem pesquisa o código de um afiliado vê a página de seleções dele. Se a pessoa ainda não escolheu produtos, aparece a página padrão de seleções da SHEIN. Em 12/10/2026, a pesquisa pelo 4CW5Y abriu uma página de recomendações com o título \"Acho que você pode gostar\".",
-          "Não há um desconto fixo ligado ao código. A SHEIN diz que quem chega pelo afiliado pode receber as vantagens mostradas nas páginas de campanha ou de produto, e que atualiza essas ofertas com frequência. As campanhas em vigor, conferidas com data, ficam na página da SHEIN aqui do site."
+          "Segundo a SHEIN, quem pesquisa o código de um afiliado vê a página de seleções dele. Se quem divulgou o código ainda não escolheu produtos, aparece a página padrão de seleções da SHEIN. Em 12/10/2026, a pesquisa pelo 4CW5Y abriu uma página de recomendações com o título \"Acho que você pode gostar\".",
+          "Não há um desconto fixo ligado ao código. Quem chega pelo afiliado pode receber as vantagens mostradas nas páginas de campanha ou de produto, atualizadas com frequência. As campanhas em vigor ficam na página da SHEIN aqui do site."
         ],
         "links": [
           {
@@ -64206,10 +64207,10 @@ export const reviewsData: unknown[] = [
           "O código de indicação da SHEIN dá desconto? Não há um desconto fixo: você pode receber as ofertas que a SHEIN mostrar na página que o código abre.",
           "O código de indicação é a mesma coisa que cupom? Não. Segundo a SHEIN, o código vai na caixa de busca, e não como cupom.",
           "Como saber meu código de indicação da SHEIN? O código de indicação sai do programa de afiliados da SHEIN. Depois do cadastro, feito pela busca \"afiliado\" no aplicativo, ele aparece na página inicial de afiliado.",
-          "O código de indicação de 2024 ou 2025 ainda vale? Os códigos do programa antigo, que acabou em 29 de agosto de 2024, foram desativados junto com o cupom de R$ 10. No programa atual, o código leva à página do afiliado, sem desconto fixo, e o 4CW5Y é o código atual da Cecília.",
+          "O código de indicação de 2024 ou 2025 ainda vale? Os códigos do programa antigo, que acabou em 2024, foram desativados junto com o cupom de R$ 10. No programa atual, o código leva à página do afiliado, sem desconto fixo, e o 4CW5Y é o código atual da Cecília.",
           "O 4CW5Y funciona fora do Brasil? A SHEIN não diz. O código é da SHEIN Brasil e pode não valer na SHEIN de outro país.",
-          "Preciso criar uma conta nova para usar o código? Não: em 12/10/2026, a pesquisa abriu a página mesmo sem login. Ofertas só para novos usuários, quando existem, aparecem marcadas na campanha.",
-          "Dá para usar o código de indicação no computador? A SHEIN fala em pesquisar o código no aplicativo, e as telas deste guia são do site no celular. No computador, não conferimos."
+          "Preciso criar uma conta nova para usar o código? Não: quando conferimos, a pesquisa abriu a página mesmo sem login. Ofertas só para novos usuários, quando existem, aparecem marcadas na campanha.",
+          "Dá para usar o código de indicação no computador? A SHEIN fala em pesquisar o código no aplicativo; o guia mostra o site no celular, e no computador não conferimos."
         ]
       }
     ],
@@ -65466,13 +65467,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A SHEIN se descreve como uma varejista global online de moda e lifestyle. Cada país tem o seu site, e a política de privacidade de cada um nomeia a empresa responsável.",
           "No Brasil, essa empresa é a In Glow Brasil Intermediação de Negócios Ltda., com endereço em São Paulo, e o Reclame Aqui lista a SHEIN com o mesmo nome. O site do grupo, o sheingroup.com, é da Roadget Business Pte. Ltd., de Singapura.",
-          "A SHEIN nasceu na China, segundo o Financial Times. Em 24 de fevereiro de 2026, num evento do governo de Guangdong, o fundador, Xu Yangtian, disse que a província é onde estão as raízes da SHEIN, segundo a BBC e o The Straits Times. As três reportagens registram que a sede da empresa fica em Singapura.",
+          "A SHEIN nasceu na China, segundo o Financial Times. Em 2026, num evento do governo de Guangdong, o fundador, Xu Yangtian, disse que a província é onde estão as raízes da SHEIN, segundo a BBC e o The Straits Times. As três reportagens registram que a sede da empresa fica em Singapura.",
           "Sobre o ano de fundação, a SHEIN dá duas datas: 2012 na página \"Sobre nós\" do site brasileiro e 2008 no texto que ela mesma publicou no Reclame Aqui. A SHEIN também diz que produz sob demanda, em lotes pequenos."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
           "alt": "Montagem com a página inicial da SHEIN em dez mercados, cada uma com o endereço do site: Brasil, Reino Unido, Espanha, França, Alemanha, Itália, Coreia do Sul, Japão, Taiwan e Singapura",
-          "caption": "A página inicial da SHEIN em dez mercados, capturada em 12/10/2026. Cada mercado tem o seu site, e a política de privacidade de cada um diz qual empresa responde por ele.",
+          "caption": "A página inicial da SHEIN em dez mercados, capturada para este guia. Cada mercado tem o seu site, e a política de privacidade de cada um diz qual empresa responde por ele.",
           "objectFit": "contain",
           "aspectRatio": 2.8571
         }
@@ -65480,7 +65481,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a SHEIN vende",
         "paragraphs": [
-          "A SHEIN vende bem mais que roupa. Parte dos produtos é da marca SHEIN, e parte vem de uma rede global de fornecedores. Em 13/10/2026, o menu do site brasileiro tinha estas seções:"
+          "A SHEIN vende bem mais que roupa. Parte dos produtos é da marca SHEIN, e parte vem de uma rede global de fornecedores. O menu do site brasileiro tem estas seções:"
         ],
         "bullets": [
           "Roupa feminina, masculina e infantil, tamanhos grandes, moda praia, pijamas e roupa íntima.",
@@ -65497,10 +65498,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,5 de 10. Os números abaixo são dos seis meses de 1º de abril a 30 de setembro de 2026, consultados em 28/10/2026."
+          "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,5 de 10. Os números abaixo são dos seis meses até 30 de setembro de 2026, consultados em 28/10/2026."
         ],
         "comparisonTable": {
-          "caption": "Perfil da SHEIN no Reclame Aqui, janela de 01/04 a 30/09/2026, consultado em 28/10/2026.",
+          "caption": "Perfil da SHEIN no Reclame Aqui, na janela de seis meses descrita acima; as duas últimas linhas são dos últimos três anos.",
           "headers": [
             "Indicador",
             "SHEIN no Reclame Aqui"
@@ -65533,18 +65534,26 @@ export const reviewsData: unknown[] = [
             [
               "Tempo médio de resposta",
               "3 dias e 5 horas"
+            ],
+            [
+              "Problema mais citado (últimos 3 anos)",
+              "Produto não recebido, 36,47%"
+            ],
+            [
+              "Categoria mais citada (últimos 3 anos)",
+              "Moda feminina, 19,62%"
             ]
           ]
         },
         "postParagraphs": [
-          "A nota mede como a SHEIN atende quem reclama, não a qualidade das peças. Nas reclamações dos últimos três anos, o problema mais citado é produto não recebido (36,47%), e a categoria mais citada é moda feminina (19,62%)."
+          "A nota mede como a SHEIN atende quem reclama, não a qualidade das peças. Nos últimos três anos, o problema mais citado é produto não recebido, e a categoria mais citada é moda feminina, como mostra o quadro acima."
         ]
       },
       {
         "heading": "É seguro pagar na SHEIN?",
         "paragraphs": [
           "A SHEIN Brasil aceita Pix, cartão de crédito brasileiro em até 6 vezes, boleto (pago em até 3 dias), cartão virtual e internacional, PayPal e Pagaleve. No pagamento com cartão internacional, a SHEIN diz que não coleta o número do cartão.",
-          "A empresa afirma que seus sistemas e controles estão alinhados aos padrões ISO, NIST e PCI DSS e diz que não vende dados de clientes. A política de privacidade da SHEIN Brasil diz que, quando o pedido é de um vendedor no exterior, os dados do pedido e da entrega vão para o país do vendedor.",
+          "A empresa diz que segue padrões internacionais de segurança e que não vende dados de clientes. A política de privacidade da SHEIN Brasil diz que, quando o pedido é de um vendedor no exterior, os dados do pedido e da entrega vão para o país do vendedor.",
           "Para não cair em site falso, compre pelo endereço br.shein.com ou pelo aplicativo da SHEIN baixado da loja oficial do seu celular."
         ]
       },
@@ -65552,14 +65561,14 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto tempo demora a entrega",
         "paragraphs": [
           "No pedido internacional, a SHEIN leva de 3 a 5 dias para processar a compra antes de enviar. O prazo e o frete aparecem na página do pedido, e o nome do pedido precisa ser igual ao do CPF.",
-          "Em 12/10/2026, a página de envio da SHEIN Brasil estimava entregas entre 5 e 30 dias, com 60% de chance de chegar em até 11 dias, e frete de R$ 15 nos pedidos abaixo de R$ 69, grátis acima. A estimativa muda: o prazo que vale é o que aparece no seu pedido.",
+          "A página de envio da SHEIN Brasil estima entregas entre 5 e 30 dias, com 60% de chance de chegar em até 11 dias, e frete de R$ 15 nos pedidos abaixo de R$ 69, grátis acima. A estimativa muda: o prazo que vale é o que aparece no seu pedido.",
           "Se o pedido não chegar até a data prevista, a Entrega no Prazo da SHEIN dá 200 pontos ou R$ 10 em créditos. Para reclamar de atraso, você tem 90 dias a partir do pagamento. Se o pedido aparece como entregue e não chegou, ou veio um item trocado, o prazo é de 60 dias a partir da entrega."
         ]
       },
       {
         "heading": "Taxa, imposto e devolução",
         "paragraphs": [
-          "Toda compra internacional paga ICMS, de 17% a 20% conforme o estado. Desde 13 de maio de 2026, o imposto de importação é zero nos pedidos de até US$ 50; acima disso, ele volta. Os produtos de Envio Nacional, que já estão no Brasil, não pagam imposto de importação.",
+          "Toda compra internacional paga ICMS, de 17% a 20% conforme o estado. Desde maio, o imposto de importação é zero nos pedidos de até US$ 50; acima disso, ele volta. Os produtos de Envio Nacional, que já estão no Brasil, não pagam imposto de importação.",
           "A devolução pode ser feita em até 20 dias depois de receber. O frete da primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso em cada devolução. Alguns itens, como roupa íntima e roupa de banho, só voltam no prazo de 7 dias. A tabela do imposto, um exemplo de cálculo e a lista completa desses itens estão no guia de Black Friday da SHEIN."
         ],
         "links": [
@@ -65605,18 +65614,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na SHEIN?",
         "paragraphs": [
-          "Sim, desde que você compre pelo site ou pelo aplicativo oficial. Nos seis meses até 30/09/2026, a SHEIN tinha reputação Boa, com nota 7,5 de 10, 95,3% das reclamações respondidas, 77,8% resolvidas e 70,6% de quem avaliou dizendo que voltaria a comprar.",
+          "Sim, desde que você compre pelo site ou pelo aplicativo oficial. Nos últimos seis meses, a SHEIN tinha reputação Boa, com nota 7,5 de 10; os percentuais de resposta e solução estão no quadro acima.",
           "O problema mais citado é produto não recebido, então confira o prazo na página do pedido, o imposto no resumo e guarde a confirmação da compra."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A SHEIN é confiável? É uma loja legítima, com empresa identificada no Brasil e reputação \"Boa\" no Reclame Aqui, nota 7,5 de 10 nos seis meses até 30/09/2026.",
+          "A SHEIN é confiável? É uma loja legítima, com empresa identificada no Brasil e reputação \"Boa\" no Reclame Aqui; os números estão no quadro acima.",
           "É seguro comprar na SHEIN com cartão de crédito? A SHEIN aceita cartão brasileiro em até 6 vezes e diz que não coleta o número do cartão internacional. Compre só pelo site oficial ou pelo aplicativo.",
-          "A SHEIN é de que país? A SHEIN nasceu na China e tem sede em Singapura, segundo o Financial Times; em fevereiro de 2026, o fundador disse que as raízes da empresa estão em Guangdong, segundo a BBC e o The Straits Times. No Brasil, quem opera a loja é a In Glow Brasil.",
+          "A SHEIN é de que país? A SHEIN nasceu na China e tem sede em Singapura, segundo o Financial Times; em 2026, o fundador disse que as raízes da empresa estão em Guangdong, segundo a BBC e o The Straits Times. No Brasil, quem opera a loja é a In Glow Brasil.",
           "O que a SHEIN vende? Roupa feminina, masculina e infantil, sapatos, bolsas, joias, beleza, casa e decoração, eletrônicos, brinquedos, itens para pets e até alimentos. Parte é da marca SHEIN, e parte vem de outros fornecedores.",
-          "A SHEIN tem Reclame Aqui? Tem: reputação \"Boa\", nota 7,5 de 10 e 32.431 reclamações nos seis meses até 30/09/2026, com 95,3% respondidas.",
+          "A SHEIN tem Reclame Aqui? Tem, com reputação \"Boa\"; os números da janela estão no quadro 'O que o Reclame Aqui mostra', acima.",
           "Quanto tempo demora a entrega da SHEIN no Brasil? O pedido internacional leva de 3 a 5 dias para ser processado, e o prazo de entrega aparece na página do pedido.",
           "A SHEIN cobra taxa? Toda compra internacional paga ICMS de 17% a 20%, e o imposto de importação é zero nos pedidos de até US$ 50. A tabela e o exemplo de cálculo estão no guia de Black Friday da SHEIN.",
           "O que fazer se o pedido da SHEIN não chegar? Fale com o atendimento em até 90 dias do pagamento. Se o pedido aparece como entregue e não chegou, o prazo é de 60 dias a partir da entrega.",
@@ -67230,11 +67239,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN, Shopee, Temu e AliExpress lado a lado",
         "paragraphs": [
-          "Não existe uma loja melhor para todo mundo: depende do que você vai comprar e de quanto pesa poder devolver. Este artigo não mede preço nem testa entregas; a tabela junta o que cada loja publica e o que o Reclame Aqui mostra.",
-          "Fontes, consultadas em 12 e 13/10/2026: as páginas de envio, devolução e impostos da SHEIN Brasil; a Garantia Shopee e a página de impostos da Shopee; as páginas de envio e de devolução da Temu; a política de devolução do AliExpress e as páginas das peças que abrimos nele; e o Reclame Aqui das quatro lojas, nos seis meses até 30/09/2026. A nota do Reclame Aqui mede o atendimento a quem reclama, não a qualidade do produto."
+          "Este artigo não mede preço nem testa entregas: a tabela abaixo junta o que cada loja publica e o que o Reclame Aqui mostra, para você decidir pela sua compra.",
+          "Os números vêm das regras que cada loja publica no Brasil e do Reclame Aqui dos últimos seis meses. A nota do Reclame Aqui mede o atendimento a quem reclama, não a qualidade do produto."
         ],
         "comparisonTable": {
-          "caption": "Frete, prazo, devolução, imposto e Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress no Brasil, em 12 e 13/10/2026.",
+          "caption": "Frete, prazo, devolução, imposto e Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress no Brasil, conferidos em 13/10/2026.",
           "headers": [
             "Critério",
             "SHEIN",
@@ -67284,7 +67293,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O imposto não decide a escolha",
         "paragraphs": [
-          "A SHEIN, a Shopee e o AliExpress publicam a mesma regra para compra internacional: ICMS de 17% a 20% conforme o estado e, desde 13 de maio de 2026, imposto de importação zero nos pedidos de até US$ 50. Acima disso, ele volta.",
+          "A SHEIN, a Shopee e o AliExpress publicam a mesma regra para compra internacional: ICMS de 17% a 20% conforme o estado e imposto de importação zero nos pedidos de até US$ 50. Acima disso, ele volta.",
           "O que muda o imposto é de onde a peça sai. Produto que já está no Brasil, como o Envio Nacional da SHEIN, não paga imposto de importação. A Temu não publica a alíquota nas páginas de envio e de devolução, e avisa que o imposto de importação não volta no reembolso. A tabela do imposto e um exemplo de cálculo estão no guia de Black Friday da SHEIN."
         ],
         "links": [
@@ -67302,7 +67311,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
           "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias para desistir da compra, a partir do recebimento",
-          "caption": "Prazo de devolução publicado por cada loja no Brasil, em 12 e 13/10/2026: a Temu conta da compra; a SHEIN, a Shopee e o AliExpress, do recebimento.",
+          "caption": "Prazo de devolução publicado por cada loja no Brasil: a Temu conta da compra; a SHEIN, a Shopee e o AliExpress, do recebimento.",
           "objectFit": "contain",
           "aspectRatio": 1.5
         },
@@ -67316,10 +67325,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "Números dos seis meses de 1º de abril a 30 de setembro de 2026, consultados no Reclame Aqui em 12/10/2026."
+          "A tabela traz a nota e o volume de reclamações de cada loja; abaixo dela, o que muda a leitura."
         ],
         "comparisonTable": {
-          "caption": "Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress, janela de 01/04 a 30/09/2026, consultado em 12/10/2026.",
+          "caption": "Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress, nos seis meses até 30/09/2026.",
           "headers": [
             "Loja",
             "Reputação e nota",
@@ -67360,7 +67369,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Duas ressalvas mudam a leitura. A nota mede o atendimento a quem reclama, não a qualidade do produto. E o número de reclamações depende do tamanho da loja: a Shopee é um marketplace de vendedores e tem de 4 a 16 vezes o volume das outras.",
-          "Nas reclamações dos últimos três anos, o problema mais citado é produto não recebido na SHEIN (36,68%) e no AliExpress (27,05%), e propaganda enganosa na Temu (30,54%). Na Shopee, produto não recebido aparece em 15,32%. Quem opera a SHEIN e o que pesa na reputação dela está no artigo sobre a confiança na loja."
+          "Nas reclamações dos últimos três anos, o problema mais citado é produto não recebido na SHEIN (37%) e no AliExpress (27%), e propaganda enganosa na Temu (31%). Na Shopee, produto não recebido aparece em 15%. Guarde o comprovante e o rastreio de qualquer compra internacional. Quem opera a SHEIN e o que pesa na reputação dela está no artigo sobre a confiança na loja."
         ],
         "links": [
           {
@@ -67382,7 +67391,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher, conforme a compra",
         "bullets": [
-          "**Quer poder devolver com folga:** compare o prazo de devolução, e não só o preço.",
+          "**Quer poder devolver com folga:** Temu, com 90 dias da compra, ou SHEIN, com 20 dias do recebimento; Shopee e AliExpress dão 7 dias.",
           "**Precisa receber até uma data:** confira o prazo na página do produto ou do pedido. Na Shopee, ele muda de vendedor para vendedor; no AliExpress, a página da peça traz a data estimada e o reembolso se o pedido não chegar em 50 dias.",
           "**Vai comprar do exterior:** veja no checkout o valor do ICMS e, acima de US$ 50, do imposto de importação.",
           "**Prefere vendedor do Brasil:** procure o Envio Nacional na SHEIN, que não paga imposto de importação, ou os vendedores brasileiros na Shopee.",
@@ -67427,12 +67436,12 @@ export const reviewsData: unknown[] = [
           "SHEIN ou Shopee: qual escolher? Depende do que você vai comprar e de quanto pesa poder devolver: a SHEIN dá 20 dias para devolução e a Shopee 7, e o prazo de entrega da Shopee muda de vendedor para vendedor.",
           "Qual é mais barato, SHEIN ou Shopee? Este artigo não mede preço. Compare o preço final de cada peça, com frete e imposto, na hora de pagar em cada loja.",
           "Qual chega mais rápido, SHEIN ou Shopee? A SHEIN publica, no Envio Global, de 3 a 5 dias para processar o pedido e uma estimativa de entrega; na Shopee, o prazo depende do vendedor e aparece na página do produto.",
-          "SHEIN ou Temu: qual a diferença? A Temu dá 90 dias para devolução, contados da compra, e a SHEIN 20, contados do recebimento. Em 12/10/2026, as duas publicavam o mesmo frete: R$ 15 abaixo de R$ 69 e grátis acima.",
-          "SHEIN ou AliExpress? A SHEIN dá 20 dias para devolução, e o AliExpress, 7 para desistir, mas as peças que abrimos nele mostravam devolução grátis até 15 dias. As duas publicam a mesma regra de imposto. No Reclame Aqui, que mede o atendimento e não a qualidade do produto, a SHEIN tem nota 7,6 e o AliExpress 6,0 nos seis meses até 30/09/2026.",
+          "SHEIN ou Temu: qual a diferença? A Temu dá mais prazo para devolver e a SHEIN tem nota melhor no Reclame Aqui; frete e prazos estão na tabela acima.",
+          "SHEIN ou AliExpress? A SHEIN dá 20 dias para devolução, e o AliExpress, 7 para desistir, mas as peças que abrimos nele mostravam devolução grátis até 15 dias. As duas publicam a mesma regra de imposto. No Reclame Aqui, que mede o atendimento e não a qualidade do produto, a SHEIN tem nota 7,6 e o AliExpress 6,0 nos últimos seis meses.",
           "SHEIN ou Shopee para roupas? Para roupa, pese a devolução: a SHEIN dá 20 dias e a Shopee 7, e na Shopee cada peça vem de um vendedor.",
           "SHEIN, Shopee e Temu pagam imposto? Nas compras do exterior, a SHEIN, a Shopee e o AliExpress publicam a mesma regra: ICMS de 17% a 20% e imposto de importação zero até US$ 50. A Temu não publica a alíquota nas páginas de envio e de devolução, e o imposto de importação não volta no reembolso.",
           "A SHEIN e a Temu são a mesma coisa? Não. São lojas diferentes, cada uma com as suas regras de frete, prazo e devolução.",
-          "Qual a nota de cada loja no Reclame Aqui? Nos seis meses até 30/09/2026: SHEIN 7,6 (Boa), Shopee 6,7 (Regular), AliExpress 6,0 (Regular) e Temu 5,8 (Ruim). A nota mede o atendimento a quem reclama, não a qualidade do produto.",
+          "Qual a nota de cada loja no Reclame Aqui? Nos últimos seis meses: SHEIN 7,6 (Boa), Shopee 6,7 (Regular), AliExpress 6,0 (Regular) e Temu 5,8 (Ruim). A nota mede o atendimento a quem reclama, não a qualidade do produto.",
           "O 4CW5Y é cupom? Não. É o código de indicação da Cecília na SHEIN, que se pesquisa na busca da loja."
         ]
       }
@@ -136112,7 +136121,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Seleção da Cecília, com preços lidos na SHEIN no dia da publicação. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y.",
+    "editorialNote": "Seleção da Cecília, com preços lidos na SHEIN no dia da publicação; ninguém do site usou as peças. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y.",
     "relatedArticles": [
       {
         "slug": "codigo-de-indicacao-shein",
@@ -136137,7 +136146,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A campanha 11.11",
         "paragraphs": [
-          "A Mega Promoção 11.11 da SHEIN já começou e termina em 12/11/2026. Segundo a SHEIN, são até 85% off em mais de 600 mil produtos, e a loja puxa a campanha para o aplicativo.",
+          "A Mega Promoção 11.11 da SHEIN já começou. Segundo a SHEIN, são até 85% off em mais de 600 mil produtos, e a loja puxa a campanha para o aplicativo.",
           "A página de entrada é a de [Seleções de Vendas Globais da 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Nas 19 peças abaixo, a foto e o card abrem a página de cada uma dentro da campanha.",
           "O 4CW5Y é o código de indicação da SHEIN Brasil: ele se procura na busca do aplicativo e não se cola no checkout, porque não é cupom. O passo a passo está em [Código de indicação SHEIN: como usar o 4CW5Y](/reviews/codigo-de-indicacao-shein)."
         ]
@@ -136295,7 +136304,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,86 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Pela descrição da SHEIN, é um pijama feminino de regata e short, listrado e com estampa de corações, da marca própria da SHEIN. O preço muda por cor ou tamanho, e a página não mostrava preço riscado."
+          "É o pijama listrado de corações para quem quer regata e short no calor. O preço muda por cor ou tamanho; confira o seu na página da peça."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
@@ -136329,7 +136338,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,95 na loja, com mais de mil comentários, a maior da seleção."
         ],
         "paragraphs": [
-          "Na página da SHEIN, é um conjunto Dream Adore de 3 peças com estampa de cartoon e short com laço na cintura. É o menor preço entre os pijamas da seleção."
+          "Na página da SHEIN, é um conjunto Dream Adore de 3 peças com estampa de cartoon e short com laço na cintura. Serve para quem quer o conjunto de 3 peças mais barato entre os pijamas da seleção."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
@@ -136467,7 +136476,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,09 na loja, com 62 comentários."
         ],
         "paragraphs": [
-          "Segundo a loja, é um pijama de menino de manga longa e calça comprida, com estampa inteira. O anúncio vende 1 conjunto, e a estampa (dinossauro, escavadeira ou avião) é escolhida pela loja, não por quem compra."
+          "Segundo a loja, é um pijama de menino de manga longa e calça comprida, com estampa inteira. O anúncio vende 1 conjunto, e a estampa (dinossauro, escavadeira ou avião) é escolhida pela loja, não por quem compra. Serve para quem aceita a estampa sorteada."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
@@ -136491,7 +136500,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Feminino",
         "paragraphs": [
-          "Quatro peças femininas para o dia a dia: um conjunto, um cardigã, um short e uma calça jeans. Aqui está o maior desconto da seleção, o short a -65%."
+          "Quatro peças femininas para o dia a dia: um conjunto, um cardigã, um short e uma calça jeans. Aqui está o maior desconto da seleção, no short estampado."
         ]
       },
       {
@@ -136584,7 +136593,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,88 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "É um short estampado de cintura clochard, da linha SHEIN Frenchy, que a loja descreve no estilo \"old money\" para o verão e as férias. É a roupa mais barata da seleção e a de maior desconto."
+          "É o short de cintura clochard para quem quer uma peça barata de verão e férias. É a roupa mais barata da seleção e a de maior desconto."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -136621,7 +136630,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,31 na loja, com 48 comentários."
         ],
         "paragraphs": [
-          "É uma calça jeans pantalona Flexra, de cintura elástica, que a loja descreve como confortável e de perna larga. É a peça mais cara da seleção, e a página mostrava frete grátis."
+          "É uma calça jeans pantalona Flexra, de cintura elástica, que a loja descreve como confortável e de perna larga. Serve para quem quer uma calça de perna larga e cintura elástica. É a peça mais cara da seleção, e a página mostrava frete grátis."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
@@ -136764,7 +136773,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,88 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "É um óculos LINFEMAND de armação poligonal e lente degradê, em 6 cores, que a loja indica para dirigir, praia e viagem. O desconto é pequeno, de 4%."
+          "É um óculos de armação poligonal e lente degradê, em 6 cores. Serve para quem quer um óculos de sol para dirigir e viajar; o desconto aqui é pequeno."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
@@ -136840,7 +136849,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,76 na loja, com 34 comentários."
         ],
         "paragraphs": [
-          "É um kit de short de linho em cores variadas, com envio nacional, que a loja descreve como casual e moderno. A página não diz quantas peças vêm no kit: confira antes de comprar."
+          "É um kit de short de linho em cores variadas, para quem quer renovar o básico de verão de uma vez. A página não diz quantas peças vêm no kit: confira antes de comprar."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
@@ -136957,7 +136966,7 @@ export const reviewsData: unknown[] = [
         "heading": "Antes de comprar",
         "bullets": [
           "**Preço muda todo dia:** o preço e o desconto de cada peça são os do dia da leitura. A SHEIN muda os preços durante a campanha, e \"a partir de\" quer dizer que o preço muda por cor ou tamanho.",
-          "**Tamanho:** confira a tabela de medidas da página da peça antes de escolher, porque a grade muda de peça para peça.",
+          "**Tamanho:** se você está entre dois tamanhos, confira a tabela de medidas da peça antes de escolher, porque a grade muda de peça para peça.",
           "**O 4CW5Y é código de indicação, não cupom:** ele se pesquisa na busca do aplicativo e não se cola no checkout. Veja o [código de indicação SHEIN](/reviews/codigo-de-indicacao-shein) e a [página da SHEIN](/cupons/shein), com o link principal da loja.",
           "**Vai esperar a Black Friday?** O guia da [Black Friday SHEIN](/reviews/black-friday-shein) traz o que já se sabe da campanha de novembro.",
           "**Primeira compra na SHEIN?** Leia antes o guia [SHEIN é confiável?](/reviews/shein-e-confiavel)."
@@ -136966,16 +136975,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Até quando vai a 11.11 da SHEIN? A Mega Promoção 11.11 termina em 12/11/2026, segundo a SHEIN.",
+          "Até quando vai a 11.11 da SHEIN? Termina no dia seguinte ao 11.11, segundo a SHEIN; a data está na resposta rápida acima.",
           "O preço das peças pode mudar? Sim. Os preços e os descontos deste guia são os do dia da leitura, e a SHEIN muda o preço durante a campanha e por cor ou tamanho.",
           "O 4CW5Y é cupom? Não. É o código de indicação da SHEIN Brasil: pesquisa-se na busca do aplicativo e ele não se cola no checkout.",
           "Os links levam direto à peça? Sim. A foto e o card de cada peça abrem a página dela dentro da campanha 11.11, e o link da campanha abre a página de Seleções de Vendas Globais."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "As 19 peças foram escolhidas pela Cecília. Ninguém do site usou as peças: o texto descreve o que a página de cada peça mostra. Preços, descontos, tamanhos e notas foram lidos no dia da publicação e podem mudar. Podemos receber comissão pelos links desta página e pelo código de indicação 4CW5Y."
         ]
       }
     ]
@@ -137877,12 +137880,6 @@ export const reviewsData: unknown[] = [
           "Is 4CW5Y a coupon? No. It is SHEIN Brazil's referral code: you search for it in the app's search bar, and it is not pasted at checkout.",
           "Do the links go straight to the piece? Yes. Each piece's photo and card open its product page inside the 11.11 campaign, and the campaign link opens the Global Sales Picks page."
         ]
-      },
-      {
-        "heading": "Transparency note",
-        "paragraphs": [
-          "The 19 pieces were chosen by Cecília. Nobody on the site has used the pieces: the text describes what SHEIN's product page shows. Prices, discounts, sizes and ratings were read on the product page on October 28, 2026 and may change. We may earn a commission from the links on this page and from the 4CW5Y referral code."
-        ]
       }
     ]
   },
@@ -138783,12 +138780,6 @@ export const reviewsData: unknown[] = [
           "¿El 4CW5Y es cupón? No. Es el código de referido de SHEIN Brasil: se busca en la barra de búsqueda de la app y no se pega en el checkout.",
           "¿Los enlaces llevan directo a la prenda? Sí. La foto y la tarjeta de cada prenda abren su ficha dentro de la campaña 11.11, y el enlace de la campaña abre la página de Selecciones de Ventas Globales."
         ]
-      },
-      {
-        "heading": "Nota de transparencia",
-        "paragraphs": [
-          "Las 19 prendas las eligió Cecília. Nadie del sitio usó las prendas: el texto describe lo que muestra la ficha de SHEIN. Precios, descuentos, tallas y notas se leyeron en la ficha el 28/10/2026 y pueden cambiar. Podemos recibir comisión por los enlaces de esta página y por el código de referido 4CW5Y."
-        ]
       }
     ]
   },
@@ -139688,12 +139679,6 @@ export const reviewsData: unknown[] = [
           "Le prix des pièces peut-il changer ? Oui. Les prix et les remises de ce guide sont ceux de la fiche le 28/10/2026, et SHEIN change le prix pendant la campagne et selon la couleur ou la taille.",
           "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de SHEIN Brésil : on le recherche dans la barre de recherche de l'appli et on ne le colle pas au paiement.",
           "Les liens mènent-ils directement à la pièce ? Oui. La photo et la carte de chaque pièce ouvrent sa fiche dans la campagne 11.11, et le lien de la campagne ouvre la page des Sélections des Ventes Mondiales."
-        ]
-      },
-      {
-        "heading": "Note de transparence",
-        "paragraphs": [
-          "Les 19 pièces ont été choisies par Cecília. Personne sur le site n'a porté les pièces : le texte décrit ce que la fiche SHEIN affiche. Prix, remises, tailles et notes ont été relevés sur la fiche le 28/10/2026 et peuvent changer. Nous pouvons toucher une commission sur les liens de cette page et sur le code de parrainage 4CW5Y."
         ]
       }
     ]
@@ -140596,12 +140581,6 @@ export const reviewsData: unknown[] = [
           "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN Brasile: si cerca nella barra di ricerca dell'app e non si incolla al checkout.",
           "I link portano direttamente all'articolo? Sì. La foto e la scheda di stile di ogni articolo aprono la sua pagina dentro la campagna 11.11, e il link della campagna apre la pagina delle Selezioni di Vendita Globali."
         ]
-      },
-      {
-        "heading": "Nota di trasparenza",
-        "paragraphs": [
-          "I 19 articoli sono stati scelti da Cecília. Nessuno del sito li ha usati: il testo descrive quello che mostra la scheda di SHEIN. Prezzi, sconti, taglie e valutazioni sono stati letti nella scheda il 28/10/2026, e i prezzi sono stati convertiti dal real brasiliano in euro; tutto può cambiare. Possiamo ricevere commissioni dai link di questa pagina e dal codice invito 4CW5Y."
-        ]
       }
     ]
   },
@@ -141502,12 +141481,6 @@ export const reviewsData: unknown[] = [
           "Kann sich der Preis der Teile ändern? Ja. Die Preise und Rabatte in diesem Ratgeber sind die der Produktseite vom 28.10.2026, in Euro umgerechnet, und SHEIN ändert den Preis während der Aktion und je nach Farbe oder Größe.",
           "Ist 4CW5Y ein Gutschein? Nein. Es ist Cecílias Empfehlungscode bei SHEIN Brasilien: Er wird in der Suche der App gesucht und nicht an der Kasse eingegeben.",
           "Führen die Links direkt zum Teil? Ja. Foto und Karte jedes Teils öffnen seine Produktseite innerhalb der Aktion 11.11, und der Link der Aktion öffnet die Seite der globalen Sale-Auswahl."
-        ]
-      },
-      {
-        "heading": "Transparenzhinweis",
-        "paragraphs": [
-          "Die 19 Teile hat Cecília ausgewählt. Niemand von dieser Website hat sie benutzt: Der Text beschreibt, was die SHEIN-Produktseite zeigt. Preise, Rabatte, Größen und Bewertungen wurden am 28.10.2026 auf der Produktseite abgelesen, die Preise vom brasilianischen Real in Euro umgerechnet; alles kann sich ändern. Wir können über die Links dieser Seite und den Empfehlungscode 4CW5Y eine Provision erhalten."
         ]
       }
     ]
@@ -142410,12 +142383,6 @@ export const reviewsData: unknown[] = [
           "4CW5Y はクーポンですか？ いいえ。SHEIN ブラジルでの Cecília の紹介コードで、アプリの検索バーで検索するもので、チェックアウトには貼り付けません。",
           "リンクは商品に直接飛びますか？ はい。各アイテムの写真とカードは 11.11 キャンペーン内の商品ページを開き、キャンペーンのリンクはグローバルセール セレクションのページを開きます。"
         ]
-      },
-      {
-        "heading": "透明性に関するお知らせ",
-        "paragraphs": [
-          "19アイテムは Cecília が選びました。このサイトの誰も実際に使ってはいません。本文は SHEIN の商品ページに書かれていることを説明しています。価格、割引、サイズ、評価は2026年10月28日に商品ページで確認し、価格はブラジルレアルから日本円に換算したもので、いずれも変わることがあります。このページのリンクと紹介コード 4CW5Y を通じてアフィリエイト報酬を受け取る場合があります。"
-        ]
       }
     ]
   },
@@ -143316,12 +143283,6 @@ export const reviewsData: unknown[] = [
           "상품 가격이 바뀔 수 있나요? 네. 이 가이드의 가격과 할인율은 2026년 10월 28일 상품 페이지 기준이고, SHEIN은 캠페인 중에, 그리고 색상이나 사이즈에 따라 가격을 바꿉니다.",
           "4CW5Y는 쿠폰인가요? 아니요. SHEIN 브라질의 추천 코드로, 앱의 검색창에서 검색하며 결제 화면에 붙여 넣지 않습니다.",
           "링크를 누르면 바로 그 상품으로 가나요? 네. 각 상품의 사진과 카드는 11.11 캠페인 안에서 그 상품의 페이지를 열고, 캠페인 링크는 글로벌 세일 셀렉션 페이지를 엽니다."
-        ]
-      },
-      {
-        "heading": "투명성 안내",
-        "paragraphs": [
-          "19가지는 Cecília가 골랐습니다. 사이트의 누구도 이 상품들을 사용해 보지 않았고, 글은 SHEIN 상품 페이지에 나온 내용을 설명합니다. 가격, 할인율, 사이즈, 평점은 2026년 10월 28일 상품 페이지에서 확인했으며 바뀔 수 있습니다. 이 페이지의 링크와 추천 코드 4CW5Y를 통해 수수료를 받을 수 있습니다."
         ]
       }
     ]
@@ -144224,12 +144185,6 @@ export const reviewsData: unknown[] = [
           "4CW5Y 是优惠券吗？不是。它是 SHEIN 巴西站的推荐码：在 App 的搜索栏里搜索，不粘贴到结算页。",
           "链接直接到商品吗？是。每件商品的图片和卡片都在 11.11 活动里打开该商品的页面，活动链接打开的是全球热卖精选页面。"
         ]
-      },
-      {
-        "heading": "透明声明",
-        "paragraphs": [
-          "这 19 件由 Cecília 挑选。本站没有人用过这些商品，文中描述的是 SHEIN 商品页显示的内容。价格、折扣、尺码和评分于 2026 年 10 月 28 日在商品页读取，可能变动。我们可能通过本页链接和推荐码 4CW5Y 获得佣金。"
-        ]
       }
     ]
   },
@@ -145130,12 +145085,6 @@ export const reviewsData: unknown[] = [
           "商品價格會變嗎？會。本文的價格和折扣是 2026 年 10 月 28 日商品頁上的，SHEIN 在活動期間會調價，不同顏色或尺寸價格也不同。",
           "4CW5Y 是優惠券嗎？不是。它是 SHEIN 巴西站的推薦碼：在 App 的搜尋欄搜尋，不貼到結帳頁。",
           "連結直接到商品嗎？是。每件商品的圖片和卡片都在 11.11 活動裡開啟該商品的頁面，活動連結開啟的是全球熱銷精選頁面。"
-        ]
-      },
-      {
-        "heading": "透明聲明",
-        "paragraphs": [
-          "這 19 件由 Cecília 挑選。本站沒有人用過這些商品，文中描述的是 SHEIN 商品頁顯示的內容。價格、折扣、尺寸和評分於 2026 年 10 月 28 日在商品頁查看，可能變動。我們可能透過本頁連結和推薦碼 4CW5Y 獲得佣金。"
         ]
       }
     ]

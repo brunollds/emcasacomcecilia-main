@@ -37,11 +37,11 @@
     {
       "heading": "SHEIN, Shopee, Temu e AliExpress lado a lado",
       "paragraphs": [
-        "Não existe uma loja melhor para todo mundo: depende do que você vai comprar e de quanto pesa poder devolver. Este artigo não mede preço nem testa entregas; a tabela junta o que cada loja publica e o que o Reclame Aqui mostra.",
-        "Fontes, consultadas em 12 e 13/10/2026: as páginas de envio, devolução e impostos da SHEIN Brasil; a Garantia Shopee e a página de impostos da Shopee; as páginas de envio e de devolução da Temu; a política de devolução do AliExpress e as páginas das peças que abrimos nele; e o Reclame Aqui das quatro lojas, nos seis meses até 30/09/2026. A nota do Reclame Aqui mede o atendimento a quem reclama, não a qualidade do produto."
+        "Este artigo não mede preço nem testa entregas: a tabela abaixo junta o que cada loja publica e o que o Reclame Aqui mostra, para você decidir pela sua compra.",
+        "Os números vêm das regras que cada loja publica no Brasil e do Reclame Aqui dos últimos seis meses. A nota do Reclame Aqui mede o atendimento a quem reclama, não a qualidade do produto."
       ],
       "comparisonTable": {
-        "caption": "Frete, prazo, devolução, imposto e Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress no Brasil, em 12 e 13/10/2026.",
+        "caption": "Frete, prazo, devolução, imposto e Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress no Brasil, conferidos em 13/10/2026.",
         "headers": [
           "Critério",
           "SHEIN",
@@ -91,7 +91,7 @@
     {
       "heading": "O imposto não decide a escolha",
       "paragraphs": [
-        "A SHEIN, a Shopee e o AliExpress publicam a mesma regra para compra internacional: ICMS de 17% a 20% conforme o estado e, desde 13 de maio de 2026, imposto de importação zero nos pedidos de até US$ 50. Acima disso, ele volta.",
+        "A SHEIN, a Shopee e o AliExpress publicam a mesma regra para compra internacional: ICMS de 17% a 20% conforme o estado e imposto de importação zero nos pedidos de até US$ 50. Acima disso, ele volta.",
         "O que muda o imposto é de onde a peça sai. Produto que já está no Brasil, como o Envio Nacional da SHEIN, não paga imposto de importação. A Temu não publica a alíquota nas páginas de envio e de devolução, e avisa que o imposto de importação não volta no reembolso. A tabela do imposto e um exemplo de cálculo estão no guia de Black Friday da SHEIN."
       ],
       "links": [
@@ -109,7 +109,7 @@
       "image": {
         "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
         "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias para desistir da compra, a partir do recebimento",
-        "caption": "Prazo de devolução publicado por cada loja no Brasil, em 12 e 13/10/2026: a Temu conta da compra; a SHEIN, a Shopee e o AliExpress, do recebimento.",
+        "caption": "Prazo de devolução publicado por cada loja no Brasil: a Temu conta da compra; a SHEIN, a Shopee e o AliExpress, do recebimento.",
         "objectFit": "contain",
         "aspectRatio": 1.5
       },
@@ -123,10 +123,10 @@
     {
       "heading": "O que o Reclame Aqui mostra",
       "paragraphs": [
-        "Números dos seis meses de 1º de abril a 30 de setembro de 2026, consultados no Reclame Aqui em 12/10/2026."
+        "A tabela traz a nota e o volume de reclamações de cada loja; abaixo dela, o que muda a leitura."
       ],
       "comparisonTable": {
-        "caption": "Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress, janela de 01/04 a 30/09/2026, consultado em 12/10/2026.",
+        "caption": "Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress, nos seis meses até 30/09/2026.",
         "headers": [
           "Loja",
           "Reputação e nota",
@@ -167,7 +167,7 @@
       },
       "postParagraphs": [
         "Duas ressalvas mudam a leitura. A nota mede o atendimento a quem reclama, não a qualidade do produto. E o número de reclamações depende do tamanho da loja: a Shopee é um marketplace de vendedores e tem de 4 a 16 vezes o volume das outras.",
-        "Nas reclamações dos últimos três anos, o problema mais citado é produto não recebido na SHEIN (36,68%) e no AliExpress (27,05%), e propaganda enganosa na Temu (30,54%). Na Shopee, produto não recebido aparece em 15,32%. Quem opera a SHEIN e o que pesa na reputação dela está no artigo sobre a confiança na loja."
+        "Nas reclamações dos últimos três anos, o problema mais citado é produto não recebido na SHEIN (37%) e no AliExpress (27%), e propaganda enganosa na Temu (31%). Na Shopee, produto não recebido aparece em 15%. Guarde o comprovante e o rastreio de qualquer compra internacional. Quem opera a SHEIN e o que pesa na reputação dela está no artigo sobre a confiança na loja."
       ],
       "links": [
         {
@@ -189,7 +189,7 @@
     {
       "heading": "Qual escolher, conforme a compra",
       "bullets": [
-        "**Quer poder devolver com folga:** compare o prazo de devolução, e não só o preço.",
+        "**Quer poder devolver com folga:** Temu, com 90 dias da compra, ou SHEIN, com 20 dias do recebimento; Shopee e AliExpress dão 7 dias.",
         "**Precisa receber até uma data:** confira o prazo na página do produto ou do pedido. Na Shopee, ele muda de vendedor para vendedor; no AliExpress, a página da peça traz a data estimada e o reembolso se o pedido não chegar em 50 dias.",
         "**Vai comprar do exterior:** veja no checkout o valor do ICMS e, acima de US$ 50, do imposto de importação.",
         "**Prefere vendedor do Brasil:** procure o Envio Nacional na SHEIN, que não paga imposto de importação, ou os vendedores brasileiros na Shopee.",
@@ -234,12 +234,12 @@
         "SHEIN ou Shopee: qual escolher? Depende do que você vai comprar e de quanto pesa poder devolver: a SHEIN dá 20 dias para devolução e a Shopee 7, e o prazo de entrega da Shopee muda de vendedor para vendedor.",
         "Qual é mais barato, SHEIN ou Shopee? Este artigo não mede preço. Compare o preço final de cada peça, com frete e imposto, na hora de pagar em cada loja.",
         "Qual chega mais rápido, SHEIN ou Shopee? A SHEIN publica, no Envio Global, de 3 a 5 dias para processar o pedido e uma estimativa de entrega; na Shopee, o prazo depende do vendedor e aparece na página do produto.",
-        "SHEIN ou Temu: qual a diferença? A Temu dá 90 dias para devolução, contados da compra, e a SHEIN 20, contados do recebimento. Em 12/10/2026, as duas publicavam o mesmo frete: R$ 15 abaixo de R$ 69 e grátis acima.",
-        "SHEIN ou AliExpress? A SHEIN dá 20 dias para devolução, e o AliExpress, 7 para desistir, mas as peças que abrimos nele mostravam devolução grátis até 15 dias. As duas publicam a mesma regra de imposto. No Reclame Aqui, que mede o atendimento e não a qualidade do produto, a SHEIN tem nota 7,6 e o AliExpress 6,0 nos seis meses até 30/09/2026.",
+        "SHEIN ou Temu: qual a diferença? A Temu dá mais prazo para devolver e a SHEIN tem nota melhor no Reclame Aqui; frete e prazos estão na tabela acima.",
+        "SHEIN ou AliExpress? A SHEIN dá 20 dias para devolução, e o AliExpress, 7 para desistir, mas as peças que abrimos nele mostravam devolução grátis até 15 dias. As duas publicam a mesma regra de imposto. No Reclame Aqui, que mede o atendimento e não a qualidade do produto, a SHEIN tem nota 7,6 e o AliExpress 6,0 nos últimos seis meses.",
         "SHEIN ou Shopee para roupas? Para roupa, pese a devolução: a SHEIN dá 20 dias e a Shopee 7, e na Shopee cada peça vem de um vendedor.",
         "SHEIN, Shopee e Temu pagam imposto? Nas compras do exterior, a SHEIN, a Shopee e o AliExpress publicam a mesma regra: ICMS de 17% a 20% e imposto de importação zero até US$ 50. A Temu não publica a alíquota nas páginas de envio e de devolução, e o imposto de importação não volta no reembolso.",
         "A SHEIN e a Temu são a mesma coisa? Não. São lojas diferentes, cada uma com as suas regras de frete, prazo e devolução.",
-        "Qual a nota de cada loja no Reclame Aqui? Nos seis meses até 30/09/2026: SHEIN 7,6 (Boa), Shopee 6,7 (Regular), AliExpress 6,0 (Regular) e Temu 5,8 (Ruim). A nota mede o atendimento a quem reclama, não a qualidade do produto.",
+        "Qual a nota de cada loja no Reclame Aqui? Nos últimos seis meses: SHEIN 7,6 (Boa), Shopee 6,7 (Regular), AliExpress 6,0 (Regular) e Temu 5,8 (Ruim). A nota mede o atendimento a quem reclama, não a qualidade do produto.",
         "O 4CW5Y é cupom? Não. É o código de indicação da Cecília na SHEIN, que se pesquisa na busca da loja."
       ]
     }
