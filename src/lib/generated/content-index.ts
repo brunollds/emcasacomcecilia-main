@@ -90778,19 +90778,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço no cartão em 18/10/2026, a Growth sai mais barata no whey concentrado e na creatina, e a Max, no whey isolado e no hipercalórico. O Pix da Growth e o cupom da Max mudam as contas, e o capítulo Para quem cada um faz sentido mostra o veredito por perfil."
+          "Pelo preço no cartão, a Growth sai mais barata no whey concentrado e na creatina, e a Max, no whey isolado e no hipercalórico. O Pix da Growth e o cupom da Max mudam as contas, e o capítulo Para quem cada um faz sentido mostra o veredito por perfil."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
           "Esta comparação cobre whey (concentrado e isolado), creatina e hipercalórico da Max Titanium, parceira do site, e da Growth, que não é parceira. Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No cartão, usamos o total que cada página mostra: o parcelamento não muda esse total.",
-          "As contas são nossas, arredondadas no centavo:"
+          "Conta nossa, pelos preços do cartão e pelas tabelas das lojas, arredondada no centavo:"
         ],
         "image": {
           "src": "/images/reviews/max-titanium/max-titanium-ou-growth-capa.webp",
           "alt": "Quadro com o preço no Pix em 18/10/2026: whey por 100 g de proteína, Growth Concentrado R$ 26,34 e Max 100% Whey Refil R$ 30,24; creatina por 100 g, Growth refil R$ 14,98, Max 500 g R$ 16,98 e Max 300 g R$ 18,67; hipercalórico por 1.000 kcal, Max Mass Titanium 3 kg R$ 9,81 e Growth Big Mass Pro 3 kg R$ 15,04",
-          "caption": "O preço de whey, creatina e hipercalórico nas duas lojas, no Pix, nos sites oficiais em 18/10/2026, sem frete.",
+          "caption": "O preço de whey, creatina e hipercalórico nas duas lojas, no Pix, nos sites oficiais, sem frete.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -90803,7 +90803,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "A conta com cupom é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto.",
           "A série de comparações da Growth tem um texto para cada marca: [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Probiótica ou Growth](/reviews/probiotica-ou-growth).",
-          "Ficaram de fora sabor, dissolução e digestão: não provamos nenhum produto, e não usamos avaliações de clientes. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
+          "Sabor, dissolução e digestão ficam de fora: escolha aqui pelo rótulo e pelo preço por dose. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
         ]
       },
       {
@@ -90844,8 +90844,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No Pix, a conta por 100 g de proteína fica em R$ 30,24 no Refil, R$ 36,05 no 3W e R$ 26,34 na Growth. Com o cupom no teto, sobre o Pix, o Refil cai para R$ 27,21 e o 3W, para R$ 32,45.",
-          "A dose muda de uma loja para a outra: na Max, 30 g dão 21 g de proteína no Refil e 40 g dão 32 g no 3W; na Growth, 30 g dão 23 g. Por isso a conta é por 100 g de proteína, e não pelo preço do pote. As porções são as da tabela: a Growth diz \"cerca de 33\" em 1 kg.",
+          "No Pix, a ordem não muda: a Growth segue à frente e o 3W segue como o mais caro por 100 g de proteína (R$ 36,05 contra R$ 26,34), mesmo com o cupom da Max no teto (R$ 32,45).",
+          "A dose muda de uma loja para a outra, por isso a conta certa é por 100 g de proteína, e não pelo preço do pote. As porções são as da tabela: a Growth diz \"cerca de 33\" em 1 kg.",
           "O Top Whey 3W + Performance mistura WPC, isolado e hidrolisado e entrega mais proteína por dose, mas sai mais caro por 100 g de proteína. A comparação da Max com a Probiótica está em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
         ],
         "images": [
@@ -90862,7 +90862,7 @@ export const reviewsData: unknown[] = [
         "heading": "Whey concentrado: 100% Whey Refil da Max ou Whey Concentrado da Growth",
         "paragraphs": [
           "Essa é a comparação direta: no 100% Whey Refil e no Whey Concentrado da Growth, a proteína é só a concentrada do soro do leite (WPC), e a dose é de 30 g. Sem cupom, a Growth sai R$ 3,90 mais barata por 100 g de proteína no Pix (R$ 26,34 contra R$ 30,24). Com o cupom no teto, a Max cai para R$ 27,21, ainda R$ 0,87 acima. No cartão, a diferença fica em R$ 29,26 da Growth contra R$ 31,17 da Max.",
-          "A Growth tem também o sabor Natural, com 24 g de proteína por dose: R$ 25,24 por 100 g no Pix, sem cupom. O preço é o mesmo do sabor de 23 g, então a conta muda só pela proteína."
+          "Na Growth, o sabor Natural entrega 1 g a mais de proteína por dose pelo mesmo preço do pote: R$ 25,24 por 100 g no Pix, sem cupom. Quem compra pelo menor custo por grama prefere o Natural."
         ],
         "images": [
           {
@@ -90920,7 +90920,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por grama nas duas lojas",
         "paragraphs": [
-          "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de 18/10/2026 no cartão, sem o cupom."
+          "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços no cartão, sem o cupom."
         ],
         "comparisonTable": {
           "headers": [
@@ -90970,7 +90970,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Sem cupom, a Growth refil de 500 g é a menor conta por grama (R$ 14,98 no Pix). O pote de 500 g da Max empata com o pote da Growth no Pix (R$ 16,98) e, com o cupom, cai para R$ 15,28. A Max de 300 g com o cupom (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96), que tem a mesma dose de 5 g.",
-          "A Max Titanium também vende a Creatina Creapure 250 g, e a loja declara o selo Creapure. A página da Growth lida em 18/10/2026 não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix). A diferença é de preço, não de dose."
+          "A Max Titanium também vende a Creatina Creapure 250 g, e a loja declara o selo Creapure. A página da Growth não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix). A diferença é de preço, não de dose."
         ],
         "images": [
           {
@@ -91035,7 +91035,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, as contas ficam em R$ 12,17 (1,4 kg) e R$ 9,81 (3 kg) na Max e em R$ 14,88 e R$ 15,04 na Growth. Com o cupom no teto, sobre o Pix, a Max cai para R$ 10,95 e R$ 8,82.",
-          "As contas usam as calorias de cada porção e o número de porções que a embalagem informa (\"cerca de\" na Max e na Growth), por isso são aproximadas. O Mass Titanium declara 11 g de açúcar adicionado por porção, e a loja indica o produto para maiores de 19 anos. O TOP Hipercalórico 1 kg da Growth, fora da tabela, tem 344 kcal por porção de 90,5 g e sai a R$ 20,32 por 1.000 kcal no Pix."
+          "As contas são aproximadas, porque cada embalagem informa \"cerca de\" porções. O Mass Titanium declara 11 g de açúcar adicionado por porção, e a loja indica o produto para maiores de 19 anos. O TOP Hipercalórico 1 kg da Growth, fora da tabela, tem 344 kcal por porção de 90,5 g e sai a R$ 20,32 por 1.000 kcal no Pix."
         ],
         "images": [
           {
@@ -91105,7 +91105,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O cupom vale com todas as formas de pagamento e soma com as promoções do site. No teste do cupom de 14/10, um Top Whey 3W Mais Sabor 900 g, por R$ 189,00 naquele dia, teve R$ 16,75 de desconto (8,9%). Por isso o texto diz \"até 10%\": o teto é o que a conta com cupom mostra, e o carrinho mostra quanto cada item recebeu. O passo a passo está em [como usar o cupom da Max Titanium](/reviews/cupom-max-titanium-como-usar), e o código fica na [página do cupom da Max Titanium](/cupons/max-titanium).",
-          "Os valores de frete são de 18/10/2026. O frete grátis é calculado no carrinho."
+          "Os valores de frete são os do dia da leitura dos preços. O frete grátis é calculado no carrinho. Preço e estoque mudam: confira no carrinho."
         ]
       },
       {
@@ -91129,14 +91129,8 @@ export const reviewsData: unknown[] = [
           "Max Titanium ou Growth: qual é melhor? Depende do produto. Sem cupom, a Growth tem o whey concentrado e a creatina refil de 500 g mais baratos por grama; a Max leva o hipercalórico nos dois tamanhos e, com o cupom, também o isolado.",
           "O cupom da Max vale na creatina? Vale. O cupom dá até 10% em produtos do site oficial, e o percentual varia por item. A conta com cupom deste texto é o teto.",
           "A Growth tem cupom? Não. A Growth não é parceira do site, então não há cupom nem link de afiliado dela aqui.",
-          "A Max tem creatina Creapure? Sim. A Creatina Creapure 250 g traz o selo declarado pela loja. A página da Growth lida em 18/10/2026 não declara o selo.",
+          "A Max tem creatina Creapure? Sim. A Creatina Creapure 250 g traz o selo declarado pela loja. A página da Growth não declara o selo.",
           "Vale esperar a Black Friday? O cupom vale hoje e soma com as promoções do site. Quando começa a Black Friday da Max e o que soma com o cupom estão no guia da [Black Friday Max Titanium](/reviews/black-friday-max-titanium)."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada com a Max Titanium: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAX10EMCASACOMCECILIA. A Growth não é parceira, e não há link de afiliado nem cupom dela aqui. Fontes: tabelas nutricionais, listas de ingredientes, preços e políticas de frete dos sites oficiais da Max Titanium e da Growth Supplements (gsuplementos.com.br), lidos em 18/10/2026. Não provamos os produtos. Preço e estoque mudam: confira no carrinho."
         ]
       }
     ],
@@ -103821,20 +103815,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço no cartão em 20/10/2026, a Max sai mais barata no whey, na creatina e no pré-treino, e a Dux, no multivitamínico. No whey: R$ 31,17 por 100 g de proteína na Max contra R$ 61,48 na Dux. Pix e cupom mudam as contas, e o capítulo Quem escolhe o quê traz o veredito por perfil."
+          "Pelo preço no cartão, a Max sai mais barata no whey, na creatina e no pré-treino, e a Dux, no multivitamínico. Pix e cupom mudam as contas, e quem quer a resposta por objetivo pode ir direto a Quem escolhe o quê."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "Esta comparação cobre whey, creatina, multivitamínico e pré-treino da Max Titanium, parceira do site, e da Dux, que não é parceira. Comparamos o que as duas lojas publicam: a tabela nutricional de cada produto, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No Pix, a Dux fica 5% abaixo do cartão, e a Max, cerca de 3%.",
+          "Esta comparação cobre whey, creatina, multivitamínico e pré-treino da Max Titanium, parceira do site, e da Dux, que não é parceira. Comparamos o que as duas lojas publicam: a tabela nutricional de cada produto, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são os dos sites oficiais, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No Pix, a Dux fica 5% abaixo do cartão, e a Max, cerca de 3%.",
           "A série contra a Dux tem outros dois textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth).",
           "As contas são estas, arredondadas no centavo:"
         ],
         "image": {
           "src": "/images/reviews/max-titanium/max-titanium-ou-dux-capa.webp",
           "alt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Max 100% Whey Refil R$ 30,24 e IsoWhey R$ 40,56, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Max 500 g R$ 16,98 e 300 g R$ 18,67, Dux 300 g R$ 20,55 e 600 g R$ 21,83",
-          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 20/10/2026, sem frete.",
+          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais, sem frete.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -103846,7 +103840,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "A conta com cupom é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto. Pelo preço do pote, a comparação engana: a dose da Max é de 30 g no Refil e de 40 g no 3W, e a da Dux, de 30 g. O preço por 100 g de proteína iguala essas diferenças.",
-          "Ninguém da equipe provou os produtos. Sabor, dissolução e digestão ficam fora deste texto, que usa só rótulo, preço e regras de compra. Quem tem alguma condição de saúde ou dúvida sobre suplemento deve falar antes com o médico ou o nutricionista."
+          "Sabor, dissolução e digestão ficam fora deste texto, que usa só rótulo, preço e regras de compra. Quem tem alguma condição de saúde ou dúvida sobre suplemento deve falar antes com o médico ou o nutricionista."
         ]
       },
       {
@@ -103923,7 +103917,7 @@ export const reviewsData: unknown[] = [
         "heading": "Whey concentrado: 100% Whey Refil ou Whey Concentrado de 900 g",
         "paragraphs": [
           "Os dois são só proteína concentrada do soro do leite. A dose do [Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) tem 21 g de proteína em 30 g de pó, segundo o rótulo da Max. A do concentrado da Dux tem 20 g em 30 g. Pelo Pix, o Refil sai a R$ 30,24 por 100 g de proteína, e o concentrado da Dux, a R$ 58,41: a diferença é de 48%.",
-          "Com o cupom no teto, o Refil sai a R$ 27,21. Pelo cartão, a diferença continua grande: R$ 31,17 contra R$ 61,48.",
+          "Com o cupom no teto, o Refil fica ainda abaixo do valor do Pix, e no cartão a diferença para a Dux continua grande, como mostra a tabela acima.",
           "O Refil leva aromatizante, lecitina de soja e sucralose. O concentrado da Dux leva sucralose e acessulfame de potássio, e a página da Dux diz que ele é \"sem blends ou adição de outras proteínas\"."
         ],
         "images": [
@@ -103965,13 +103959,13 @@ export const reviewsData: unknown[] = [
           "Dux Whey Protein Isolado: WPI, aromatizantes, sucralose e acessulfame de potássio. A tabela tem 11 sabores."
         ],
         "postParagraphs": [
-          "Sabor é experiência, e nenhum sabor entra na conta. A tabela do pote de 1,8 kg da Dux traz \"contém glúten\" e \"contém lactose\" nos sabores; a do pote de 900 g do concentrado não traz essa linha. Os rótulos de cada sabor dizem o que cada um contém. Quem tem alergia ou intolerância deve ler o rótulo na hora da compra."
+          "Sabor é experiência, e nenhum sabor entra na conta. Para desempatar potes com o mesmo preço, olhe só o rótulo: a lista mais curta é a do Neutro da Dux, só com WPC. A tabela do pote de 1,8 kg da Dux traz \"contém glúten\" e \"contém lactose\" nos sabores; a do pote de 900 g do concentrado não traz essa linha. Os rótulos de cada sabor dizem o que cada um contém. Quem tem alergia ou intolerância deve ler o rótulo na hora da compra."
         ]
       },
       {
         "heading": "Creatina: preço por 100 g e por dose",
         "paragraphs": [
-          "Preços de 20/10/2026 no cartão, sem o cupom. Todas as creatinas da tabela são monohidratadas. A Max usa dose de 5 g nos potes desta comparação. A Dux usa 5 g na monohidratada e 3 g na linha Creapure."
+          "Preços no cartão, sem o cupom. Todas as creatinas da tabela são monohidratadas. A Max usa dose de 5 g nos potes desta comparação. A Dux usa 5 g na monohidratada e 3 g na linha Creapure."
         ],
         "images": [
           {
@@ -104069,7 +104063,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Preços de 20/10/2026 no cartão. No Pix, o [Multimax](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p) sai a R$ 1,85 por dia (R$ 1,66 com o cupom no teto), e o da Dux, a R$ 0,84.",
+          "Preços no cartão. No Pix, o [Multimax](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p) sai a R$ 1,85 por dia (R$ 1,66 com o cupom no teto), e o da Dux, a R$ 0,84.",
           "Uma cápsula da Dux chega a 100% do valor diário de vitamina A, D e C, segundo a própria tabela. A Max pede três cápsulas para chegar aos percentuais da tabela dela. A tabela da Max traz mais minerais, como cálcio, magnésio e fósforo. A tabela da Dux traz cinco minerais: cobre, cromo, ferro, selênio e zinco."
         ]
       },
@@ -104111,14 +104105,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Preços de 20/10/2026 no cartão. O sabor Uva do Shook está disponível no site; o Manga e Pêssego estava sem estoque no dia.",
+          "Preços no cartão. O sabor Uva do Shook está disponível no site; o Manga e Pêssego estava sem estoque no dia.",
           "No Pix, o Shook sai a R$ 2,81 por dose (R$ 2,52 com o cupom no teto), o Pre Workout Original, a R$ 6,41, e o Stim Free, a R$ 5,68. Quem evita cafeína deve olhar o rótulo: a Stim Free é a única linha desta comparação sem cafeína na tabela e na lista de ingredientes."
         ],
         "images": [
           {
             "src": "/images/reviews/max-titanium/max-titanium-ou-dux-multivitaminico-e-pre-treino.webp",
             "alt": "Barras com o preço no Pix: multivitamínico por dia, Dux R$ 0,84 e Max Multimax Complex R$ 1,85 (R$ 1,66 com cupom); pré-treino por dose, Max Shook R$ 2,81, Dux Stim Free R$ 5,68 e Dux Pre Workout Original R$ 6,41",
-            "caption": "Multivitamínico por dia e pré-treino por dose, no Pix, com os preços das páginas oficiais em 20/10/2026.",
+            "caption": "Multivitamínico por dia e pré-treino por dose, no Pix, com os preços das páginas oficiais.",
             "objectFit": "contain",
             "aspectRatio": 2.1053
           }
@@ -104159,7 +104153,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Regras lidas em 20/10/2026. O cupom vale com todas as formas de pagamento e soma com as promoções do site, segundo a página da loja. O código e as regras estão na [página do cupom da Max Titanium](/cupons/max-titanium). A Dux não tem cupom nosso: o desconto de 5% no Pix é da própria página da Dux."
+          "Regras lidas junto com os preços. O cupom vale com todas as formas de pagamento e soma com as promoções do site, segundo a página da loja. O código e as regras estão na [página do cupom da Max Titanium](/cupons/max-titanium). A Dux não tem cupom nosso: o desconto de 5% no Pix é da própria página da Dux."
         ]
       },
       {
@@ -104181,7 +104175,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escolhe o quê",
         "paragraphs": [
-          "Pelos rótulos e pelos preços de 20/10/2026:"
+          "Pelos rótulos e pelos preços:"
         ],
         "bullets": [
           "Quer o menor preço por 100 g de proteína no whey: o [100% Whey Refil 900 g da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p), a R$ 30,24 no Pix, ou R$ 27,21 com o cupom no teto.",
@@ -104199,21 +104193,13 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Max Titanium ou Dux: qual é melhor? Depende da linha. Whey e creatina saem mais baratos na Max. O multivitamínico por dia sai mais barato na Dux, e o FreshWhey tem o adoçante que a Max não usa nesses produtos.",
-          "Qual é o whey mais barato por 100 g de proteína? O [100% Whey Refil da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p), a R$ 30,24 no Pix, ou R$ 27,21 com o cupom no teto. O Whey Protein Concentrado de 900 g da Dux sai a R$ 58,41 no Pix.",
+          "Qual é o whey mais barato por 100 g de proteína? O [100% Whey Refil da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p); os valores no Pix e com cupom estão no capítulo de whey concentrado. O Whey Protein Concentrado de 900 g da Dux sai a R$ 58,41 no Pix.",
           "Qual é a creatina mais barata? O [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 16,98 por 100 g no Pix. Entre as monohidratadas da Dux, a de 600 g sai a R$ 21,83 por 100 g no Pix.",
           "A Dux é boa marca? Esta comparação responde só pelo rótulo, pela fórmula que a Dux declara e pelo preço. A Dux diz que o concentrado é \"sem blends ou adição de outras proteínas\", com 20 g de proteína em 30 g. O de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
           "A Dux tem cupom? Não. A Dux não é parceira do site, e o MAX10EMCASACOMCECILIA vale só na Max.",
           "A Dux tem Creapure? A Dux diz que a linha 100% Creapure usa creatina Creapure. A Max também declara o selo na [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p).",
           "O cupom da Max vale no Pix? A página da loja diz que o cupom vale com todas as formas de pagamento. A conta com cupom deste texto é o teto: 10% sobre o preço do Pix.",
-          "Os preços valem hoje? Eles são de 20/10/2026 e mudam com as promoções. Confira no site de cada loja antes de comprar."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada com a Max Titanium. O Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAX10EMCASACOMCECILIA, sem custo extra para quem compra. A Dux não é parceira do site: não há link, cupom nem recomendação dela.",
-          "Fontes: tabelas nutricionais, listas de ingredientes, preços e políticas de frete dos sites oficiais da Max Titanium (maxtitanium.com.br) e da Dux (duxhumanhealth.com), lidos em 20/10/2026. O checkout com o cupom de 14/10/2026 aparece em print guardado pela equipe.",
-          "Ninguém da equipe provou os produtos. Este texto mostra o que o rótulo e o preço dizem; não é orientação de nutricionista nem de médico. Preço e estoque mudam: confira no site antes de comprar. Dúvidas sobre alergia, intolerância ou dieta: fale com um nutricionista ou um médico."
+          "Os preços valem hoje? Eles mudam com as promoções. Confira no site de cada loja antes de comprar."
         ]
       }
     ],

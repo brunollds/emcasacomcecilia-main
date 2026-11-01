@@ -44,17 +44,6 @@
     "bodyDates": 11,
     "datesOutsideBody": 4
   },
-  "max-titanium-ou-dux": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 11,
-    "datesOutsideBody": 3
-  },
-  "max-titanium-ou-growth": {
-    "transparencySection": true,
-    "bodyDates": 7,
-    "datesOutsideBody": 2
-  },
   "probiotica-ou-growth": {
     "transparencySection": true,
     "bodyDates": 7,
