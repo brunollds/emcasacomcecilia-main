@@ -4,13 +4,6 @@
     "bodyDates": 10,
     "datesOutsideBody": 3
   },
-  "assinatura-dolce-gusto-como-funciona": {
-    "datesOutsideBody": 2
-  },
-  "assinatura-dolce-gusto-vale-a-pena": {
-    "bodyDates": 5,
-    "datesOutsideBody": 1
-  },
   "autobronzeador-skelt-qual-escolher": {
     "bodyDates": 14,
     "datesOutsideBody": 3
@@ -224,11 +217,6 @@
     "transparencySection": true,
     "bodyDates": 5
   },
-  "cafeteira-escritorio-qual-escolher-custo-mes": {
-    "transparencySection": true,
-    "bodyDates": 14,
-    "datesOutsideBody": 1
-  },
   "camiseta-clea-store-e-boa": {
     "quickAnswerPrice": true,
     "transparencySection": true,
@@ -391,12 +379,6 @@
     "bodyDates": 10,
     "datesOutsideBody": 1
   },
-  "dolce-gusto-descalcificacao-passo-a-passo": {
-    "datesOutsideBody": 2
-  },
-  "dolce-gusto-maquinas-qual-escolher": {
-    "bodyDates": 5
-  },
   "dolce-gusto-vs-nespresso-qual-escolher": {
     "bodyDates": 7,
     "datesOutsideBody": 1
@@ -436,11 +418,6 @@
   "dr-peanut-reclame-aqui-nota-reputacao": {
     "bodyDates": 19,
     "datesOutsideBody": 17
-  },
-  "espresso-dolce-gusto": {
-    "transparencySection": true,
-    "bodyDates": 6,
-    "datesOutsideBody": 1
   },
   "faqueiro-laguiole-la-maison-qual-escolher": {
     "transparencySection": true,
@@ -664,10 +641,6 @@
     "bodyDates": 35,
     "datesOutsideBody": 6
   },
-  "melhores-capsulas-dolce-gusto-2026": {
-    "bodyDates": 11,
-    "datesOutsideBody": 2
-  },
   "mesa-posta-dia-a-dia-o-que-comprar": {
     "transparencySection": true,
     "bodyDates": 5,
@@ -858,9 +831,6 @@
     "bodyDates": 15,
     "datesOutsideBody": 13
   },
-  "promocao-dolce-gusto-caixas-mini-me-gratis": {
-    "bodyDates": 6
-  },
   "promocao-insider-selecao-com-cupom": {
     "bodyDates": 26,
     "datesOutsideBody": 1
@@ -868,11 +838,6 @@
   "protetor-de-silicone-mamilo-como-usar": {
     "bodyDates": 4,
     "datesOutsideBody": 2
-  },
-  "quanto-custa-capsula-dolce-gusto": {
-    "quickAnswerPrice": true,
-    "bodyDates": 11,
-    "datesOutsideBody": 7
   },
   "removedor-autobronzeador-skelt-como-tirar": {
     "quickAnswerPrice": true,
@@ -933,10 +898,6 @@
   },
   "sofa-na-caixa-ou-sofa-montado-qual-dura-mais": {
     "bodyDates": 5
-  },
-  "starbucks-dolce-gusto-capsulas-guia": {
-    "bodyDates": 8,
-    "datesOutsideBody": 2
   },
   "sutia-de-silicone-invisivel-como-usar": {
     "quickAnswerPrice": true

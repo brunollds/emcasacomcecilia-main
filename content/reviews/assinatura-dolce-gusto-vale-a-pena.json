@@ -57,7 +57,7 @@
         "aspectRatio": 1.7778
       },
       "comparisonTable": {
-        "caption": "Preço por caixa de 10 cápsulas no montador da assinatura, conferido em 13 de outubro de 2026",
+        "caption": "Preço por caixa de 10 cápsulas no montador da assinatura, conferido no montador",
         "headers": [
           "Linha",
           "Preço cheio",
@@ -152,10 +152,10 @@
       "heading": "Assinatura ou promoção avulsa: o que sai mais barato?",
       "paragraphs": [
         "Este é o ponto que quase ninguém explica. Os 25% da assinatura são calculados sobre o **preço cheio**, e o regulamento diz que as promoções do site não se somam às compras da assinatura. Então, quando a loja coloca caixas em promoção na compra avulsa, o preço de vitrine pode ficar abaixo do preço da assinatura.",
-        "Foi o que aconteceu em 5 de outubro de 2026. Na página de Sabores, o Espresso de 10 cápsulas estava de R$ 25,90 por R$ 17,90 na compra avulsa, e o combo de 8 caixas de Espresso saía com 32% de desconto:"
+        "Foi o que aconteceu no dia da leitura dos preços. Na página de Sabores, o Espresso de 10 cápsulas estava de R$ 25,90 por R$ 17,90 na compra avulsa, e o combo de 8 caixas de Espresso saía com 32% de desconto:"
       ],
       "comparisonTable": {
-        "caption": "Espresso Geração I, caixa de 10 cápsulas, preços do site oficial em 5 de outubro de 2026",
+        "caption": "Espresso Geração I, caixa de 10 cápsulas, preços do site oficial",
         "headers": [
           "Forma de compra",
           "Preço por caixa",
@@ -204,7 +204,7 @@
       "heading": "O cupom CECI soma com a assinatura?",
       "paragraphs": [
         "Somou. Essa era uma dúvida nossa também, porque o item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O **CECI**, porém, não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
-        "No dia 4 de outubro de 2026 fechamos um pedido de assinatura com 4 caixas de R$ 29,90 e o cupom CECI. O resumo do checkout ficou assim:"
+        "Num dos nossos testes fechamos um pedido de assinatura com 4 caixas de R$ 29,90 e o cupom CECI. O resumo do checkout ficou assim:"
       ],
       "image": {
         "src": "/images/reviews/cupons/nescafe-dolce-gusto-passo-1.webp",
@@ -214,7 +214,7 @@
         "aspectRatio": 2.9777
       },
       "comparisonTable": {
-        "caption": "Resumo do checkout da assinatura em 4 de outubro de 2026. A diferença de 1 centavo no total é arredondamento do próprio site.",
+        "caption": "Resumo do checkout da assinatura. A diferença de 1 centavo no total é arredondamento do próprio site.",
         "headers": [
           "Linha do resumo",
           "Valor"
@@ -306,7 +306,7 @@
         "Qual é a assinatura mais barata da Dolce Gusto? O pedido mínimo, de 3 caixas de Geração I regulares, fica em cerca de R$ 58 por entrega.",
         "A assinatura mostra o preço com desconto? Sim: no montador, cada caixa já aparece com os 25%, e o preço cheio fica riscado ao lado.",
         "A assinatura Dolce Gusto dá máquina grátis? Não. O plano de 2018 com máquina grátis foi encerrado, e hoje a Mini Me de brinde vem da promoção por volume de caixas.",
-        "O cupom CECI acumula com a assinatura Dolce Gusto? No nosso teste de 4 de outubro de 2026, sim: o CECI somou com os 25% da assinatura. Hoje ele dá 10%.",
+        "O cupom CECI acumula com a assinatura Dolce Gusto? No nosso teste, sim: o CECI somou com os 25% da assinatura. Hoje ele dá 10%.",
         "A promoção de caixas com Mini Me vale na assinatura? Não. O regulamento diz que promoções do site não se somam às compras da assinatura.",
         "Dá para pagar a assinatura parcelado? Não. A assinatura aceita só cartão de crédito Visa, Mastercard ou Elo, sem parcelamento."
       ]

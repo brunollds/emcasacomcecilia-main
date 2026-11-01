@@ -33156,7 +33156,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Não existe um melhor sabor, existe o que combina com o seu jeito de tomar café. Antes de escolher o sabor, veja qual linha de cápsulas serve na sua máquina.",
           "A loja tem duas linhas de cápsulas. As Original, quase todo o catálogo, só servem nas máquinas Original, como a Mini Me 2.0 e as Genio S. As NEO, de papel, são para as máquinas NEO.",
-          "A NEO tem só cafés pretos: oito na loja em 12/10/2026, dois deles sem estoque. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start."
+          "A NEO tem só cafés pretos: oito na loja, dois deles sem estoque. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start."
         ],
         "links": [
           {
@@ -33198,7 +33198,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "cover"
         },
         "comparisonTable": {
-          "caption": "Intensidade informada na página de cada café da loja oficial, lida em 12/10/2026. Todos usam uma cápsula por bebida.",
+          "caption": "Intensidade informada na página de cada café da loja oficial. Todos usam uma cápsula por bebida.",
           "headers": [
             "Intensidade",
             "Cafés"
@@ -33210,7 +33210,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "6",
-              "Lungo, Café Caseiro, Espresso Nescafé Gold, Lungo Chapada Diamantina (sem estoque em 12/10)"
+              "Lungo, Café Caseiro, Espresso Nescafé Gold, Lungo Chapada Diamantina (sem estoque)"
             ],
             [
               "7",
@@ -33250,7 +33250,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "cover"
         },
         "comparisonTable": {
-          "caption": "Cápsulas por bebida informadas na loja oficial em 12/10/2026.",
+          "caption": "Cápsulas por bebida informadas na loja oficial.",
           "headers": [
             "Cápsulas por bebida",
             "Sabores"
@@ -33262,7 +33262,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "2 (5 bebidas por caixa)",
-              "Cappuccino, Latte Macchiato, Vanilla Latte Macchiato, Frappe, Kopenhagen Cappuccino, Starbucks Cappuccino, Starbucks Caramel Macchiato (sem estoque em 12/10)"
+              "Cappuccino, Latte Macchiato, Vanilla Latte Macchiato, Frappe, Kopenhagen Cappuccino, Starbucks Cappuccino, Starbucks Caramel Macchiato (sem estoque)"
             ],
             [
               "2, caixa de 12 (6 bebidas)",
@@ -33303,7 +33303,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Starbucks e Kopenhagen",
         "paragraphs": [
-          "A Starbucks tem cinco sabores na loja: Espresso Colombia (intensidade 7), Americano House Blend (8), Cappuccino, de duas cápsulas, Caramel Macchiato, sem estoque em 12/10/2026, e o Toffee Nut Latte, edição limitada em caixa de 12.",
+          "A Starbucks tem cinco sabores na loja: Espresso Colombia (intensidade 7), Americano House Blend (8), Cappuccino, de duas cápsulas, Caramel Macchiato, sem estoque na leitura, e o Toffee Nut Latte, edição limitada em caixa de 12.",
           "A Kopenhagen tem cinco: Espresso, Cappuccino, Lajotinha, Língua de Gato e Chococino Cereja."
         ],
         "image": {
@@ -33316,7 +33316,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mais vendidas: o que a loja mostra",
         "paragraphs": [
-          "A loja tem a ordem \"Mais Vendidos\", mas não diz o período nem o critério. Em 12/10/2026, ela punha na frente os combos, a Toffee Nut Latte, de edição limitada, e dois cafés NEO, e os clássicos no fim: o Mochaccino Canela, o sabor com mais avaliações de clientes na loja (85), aparecia entre os últimos. Por isso este guia não faz ranking.",
+          "A loja tem a ordem \"Mais Vendidos\", mas não diz o período nem o critério. Na leitura, ela punha na frente os combos, a Toffee Nut Latte, de edição limitada, e dois cafés NEO, e os clássicos no fim: o Mochaccino Canela, o sabor com mais avaliações de clientes na loja (85), aparecia entre os últimos. Por isso este guia não faz ranking.",
           "A seleção que a loja chama de \"Nossos Favoritos!\", no DGusta, junta Café Caseiro, Mochaccino Canela, Pingado, Nescau e KitKat."
         ]
       },
@@ -33337,7 +33337,7 @@ export const reviewsData: unknown[] = [
             "Kit",
             "O que vem",
             "Cápsulas",
-            "Preço em 12/10"
+            "Preço"
           ],
           "rows": [
             [
@@ -33403,7 +33403,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e o cupom CECI",
         "paragraphs": [
-          "Na loja oficial, o cupom CECI dá 10% OFF em compras a partir de R$ 100. Em 12/10/2026, a loja também dava frete grátis em pedidos de bebidas acima de R$ 100. Quantas caixas fecham esse valor está no nosso guia de custo."
+          "Na loja oficial, o cupom CECI dá 10% OFF em compras a partir de R$ 100. Na leitura dos preços, a loja também dava frete grátis em pedidos de bebidas acima de R$ 100. Quantas caixas fecham esse valor está no nosso guia de custo."
         ],
         "links": [
           {
@@ -33423,7 +33423,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual sabor escolher",
         "paragraphs": [
-          "Um sabor para cada perfil, pelo catálogo da loja oficial em 12/10/2026:"
+          "Um sabor para cada perfil, pelo catálogo da loja oficial:"
         ],
         "bullets": [
           "Café puro, de menor intensidade: Espresso (5), Lungo ou Café Caseiro (6).",
@@ -33448,7 +33448,7 @@ export const reviewsData: unknown[] = [
           "Qual é o melhor sabor de cápsula Dolce Gusto? Depende do perfil: o capítulo Qual sabor escolher separa café puro, café forte, com leite, chocolate, chá, gelado, Starbucks, Kopenhagen e NEO.",
           "Qual é a cápsula Dolce Gusto mais vendida? A loja tem a ordem \"Mais Vendidos\", mas não informa o critério, então não há ranking oficial e este guia não faz um.",
           "Qual o café mais gostoso da Dolce Gusto? Depende do seu gosto: compare pela intensidade que a loja informa e pelo leite ou chocolate da bebida.",
-          "Quais são os sabores das cápsulas Dolce Gusto? Em 12/10/2026, a loja listava 52 caixas Original (19 cafés, 19 cappuccinos e lattes, 9 chocolates e 5 chás) e 8 cafés NEO.",
+          "Quais são os sabores das cápsulas Dolce Gusto? Na leitura do catálogo, a loja listava 52 caixas Original (19 cafés, 19 cappuccinos e lattes, 9 chocolates e 5 chás) e 8 cafés NEO.",
           "Qual a melhor cápsula de cappuccino da Dolce Gusto? Não há uma melhor. O Cappuccino, o Kopenhagen Cappuccino e o Starbucks Cappuccino usam duas cápsulas por bebida; o Cappuccino Moça Doce de Leite e o Caramelo Salgado usam uma.",
           "Qual a melhor cápsula de chocolate da Dolce Gusto? Não há uma melhor. Nescau, Galak, KitKat e Chococino Alpino usam uma cápsula por bebida; Chococino Nestlé e Kopenhagen Língua de Gato usam duas.",
           "Quais cápsulas dão certo na Dolce Gusto? As Original nas máquinas Original e as NEO nas máquinas NEO. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start.",
@@ -33456,7 +33456,7 @@ export const reviewsData: unknown[] = [
           "Quantas bebidas faz uma caixa de cápsulas Dolce Gusto? A caixa tem 10 cápsulas: 10 bebidas nos sabores de uma cápsula e 5 nos de duas, como o Cappuccino.",
           "Existe kit de cápsulas Dolce Gusto? Sim: a loja oficial tem as seleções prontas do DGusta, combos de 6 e 8 caixas e combos com xícara.",
           "Existe cápsula Dolce Gusto sortida? A loja chama de seleções do DGusta: Nossos Favoritos, Cafés, Lattes e Chocolates, com 50 cápsulas cada.",
-          "Tem leve 3 pague 2 na Dolce Gusto? Não encontramos na loja oficial em 12/10/2026: os descontos são em porcentagem.",
+          "Tem leve 3 pague 2 na Dolce Gusto? Não encontramos na loja oficial: os descontos são em porcentagem.",
           "Tem cápsula Dolce Gusto descafeinada? Sim, a loja tem o Espresso Descafeinado, de intensidade 5.",
           "O cupom CECI vale para cápsulas? Sim: 10% OFF em compras a partir de R$ 100 na loja oficial."
         ]
@@ -33667,7 +33667,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As cinco máquinas à venda na loja oficial",
         "paragraphs": [
-          "Em outubro de 2026, a loja oficial vende cinco máquinas: a Mini Me 2.0 e as três Genio S (Basic, Plus e Touch), todas do sistema Original, e a NEO, que usa outra cápsula. Infinissima, Piccolo, Piccolo XS e Lumio não estão à venda no site.",
+          "A loja oficial vende cinco máquinas: a Mini Me 2.0 e as três Genio S (Basic, Plus e Touch), todas do sistema Original, e a NEO, que usa outra cápsula. Infinissima, Piccolo, Piccolo XS e Lumio não estão à venda no site.",
           "As quatro do sistema Original aceitam as mesmas cápsulas, com mais de 30 bebidas quentes ou frias, entre cafés, lattes, cappuccinos, chocolates e chás. Elas trabalham com 15 bar de pressão e, no comparativo oficial, aparecem com tomada de 20 A.",
           "A NEO aceita só as cápsulas NEO compostáveis, trabalha com até 15 bar e tem o maior reservatório entre as cinco, com 1 litro."
         ],
@@ -33682,7 +33682,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço, tamanho e recursos lado a lado",
         "comparisonTable": {
-          "caption": "Preços de venda na loja oficial em 12/10/2026. Medidas e recursos do comparativo oficial de máquinas, relido em 12/10/2026, que não inclui a NEO.",
+          "caption": "Preços de venda na loja oficial em 12/10/2026. Medidas e recursos do comparativo oficial de máquinas, relido na mesma data, que não inclui a NEO.",
           "headers": [
             "Recurso",
             "Mini Me 2.0",
@@ -33771,7 +33771,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cápsulas: Original, NEO e o adaptador",
         "paragraphs": [
           "A Mini Me 2.0 e as três Genio S usam as cápsulas do sistema Original. A NEO usa só as cápsulas NEO compostáveis, e as do sistema Original não entram nela.",
-          "O Adaptador NEO Start, vendido por R$ 89,90 na loja oficial em 12/10/2026, põe alguns cafés NEO, só espresso e lungo, nos modelos do sistema Original que a loja lista como compatíveis. A lista cita, entre outras, a Mini Me, sem dizer se é a 2.0, a Genio S, a Genio S Plus e a Genio S Touch: confira na página do adaptador.",
+          "O Adaptador NEO Start, vendido por R$ 89,90 na loja oficial, põe alguns cafés NEO, só espresso e lungo, nos modelos do sistema Original que a loja lista como compatíveis. A lista cita, entre outras, a Mini Me, sem dizer se é a 2.0, a Genio S, a Genio S Plus e a Genio S Touch: confira na página do adaptador.",
           "Cápsulas de outras marcas que se dizem compatíveis com a Dolce Gusto estão no nosso guia de cápsulas compatíveis, que reúne o que cada fabricante informa; não testamos essas cápsulas."
         ],
         "images": [
@@ -33852,7 +33852,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e o cupom CECI",
         "paragraphs": [
-          "Os preços deste guia são da loja oficial da NESCAFÉ Dolce Gusto em 12/10/2026 e mudam com as promoções. A ficha da loja informa garantia de 1 ano para a máquina.",
+          "Os preços deste guia são da loja oficial da NESCAFÉ Dolce Gusto e mudam com as promoções. A ficha da loja informa garantia de 1 ano para a máquina.",
           "O cupom CECI dá 10% de desconto em compras a partir de R$ 100 na loja oficial. Confira o desconto no carrinho antes de pagar.",
           "Se você ainda está em dúvida entre Dolce Gusto e Nespresso, o nosso comparativo das duas marcas ajuda a decidir antes."
         ],
@@ -35529,7 +35529,7 @@ export const reviewsData: unknown[] = [
         "heading": "Combo com 20 caixas ou Mini Me avulsa",
         "paragraphs": [
           "A comparação é direta. No combo, você paga R$ 797,00 por máquina e 20 caixas. Avulsa, a máquina sai por R$ 419,90 e as caixas são compradas à parte.",
-          "Para saber o custo real da máquina no combo, subtraia as caixas: R$ 797,00 menos 20 vezes o preço da caixa no carrinho. A diferença para a avulsa é de R$ 377,10, então o combo compensa quando a caixa custa mais de R$ 18,86. Com o preço de R$ 25 por caixa que este artigo usava em junho de 2026, as 20 caixas somam R$ 500,00 e a máquina sairia por R$ 297,00. Releia o preço da caixa antes de decidir."
+          "Para saber o custo real da máquina no combo, subtraia as caixas: R$ 797,00 menos 20 vezes o preço da caixa no carrinho. A diferença para a avulsa é de R$ 377,10, então o combo compensa quando a caixa custa mais de R$ 18,86. Com a caixa a R$ 25, as 20 caixas somam R$ 500,00 e a máquina sairia por R$ 297,00. Releia o preço da caixa antes de decidir."
         ],
         "bullets": [
           "Combo Mini Me 2.0 + 20 caixas: R$ 797,00.",
@@ -35540,7 +35540,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O gatilho de 50 a 70 caixas ficou no histórico",
         "paragraphs": [
-          "Em junho de 2026, a promoção exigia 55 caixas ORIGINAL para ganhar a Mini Me; em 16 de julho de 2026, eram 60. Na leitura de 24/10/2026, esse gatilho não aparecia mais na loja. A promoção é temporária e pode mudar sem aviso, por isso o número vigente é o do seu carrinho."
+          "A promoção exigiu 55 caixas ORIGINAL para ganhar a Mini Me e, depois, 60. Na última leitura da loja, esse gatilho não aparecia mais na loja. A promoção é temporária e pode mudar sem aviso, por isso o número vigente é o do seu carrinho."
         ]
       },
       {
@@ -38508,7 +38508,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom CECI na assinatura",
         "paragraphs": [
           "O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os cupons direcionados a assinantes. O **CECI** não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
-          "No nosso teste de 4 de outubro de 2026, o checkout aplicou os 25% da assinatura e mais o desconto do **CECI** num pedido de 4 caixas. Hoje o CECI dá 10%. O CECI vale a partir de R$ 100 em produtos, e o pedido mínimo da assinatura, de 3 caixas, pode ficar abaixo disso. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com os 25% normalmente."
+          "No nosso teste no carrinho, o checkout aplicou os 25% da assinatura e mais o desconto do **CECI** num pedido de 4 caixas. Hoje o CECI dá 10%. O CECI vale a partir de R$ 100 em produtos, e o pedido mínimo da assinatura, de 3 caixas, pode ficar abaixo disso. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com os 25% normalmente."
         ],
         "links": [
           {
@@ -38553,7 +38553,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Quem assinou antes de 12 de agosto de 2025",
+        "heading": "Quem assinou no formato antigo",
         "paragraphs": [
           "As assinaturas feitas até 12/08/2025 seguem o formato antigo: **30% de desconto**, frete grátis e a **Trilha do Assinante**, que dá brindes quando as compras na assinatura somam R$ 100, R$ 250, R$ 500 e R$ 750.",
           "Para esses assinantes, o mínimo de 3 caixas só passa a valer se os produtos forem alterados. Compras feitas fora da assinatura não contam para a Trilha."
@@ -38566,7 +38566,7 @@ export const reviewsData: unknown[] = [
           "A assinatura Dolce Gusto tem mensalidade? Não. Não há mensalidade, taxa de adesão ou taxa de cancelamento: você paga só as caixas do pedido.",
           "Qual é o pedido mínimo da assinatura Dolce Gusto? São 3 caixas de bebidas por entrega.",
           "Posso misturar cápsulas Geração 1 e NEO na mesma assinatura? Sim. O FAQ oficial diz que as duas linhas podem estar na mesma assinatura.",
-          "O cupom CECI funciona na assinatura Dolce Gusto? No nosso teste de 4 de outubro de 2026, sim: o CECI somou com os 25% da assinatura, num pedido de 4 caixas. Hoje ele dá 10% e vale a partir de R$ 100 em produtos.",
+          "O cupom CECI funciona na assinatura Dolce Gusto? No nosso teste, sim: o CECI somou com os 25% da assinatura, num pedido de 4 caixas. Hoje ele dá 10% e vale a partir de R$ 100 em produtos.",
           "Como cancelar a assinatura Dolce Gusto? Pela área Minha Assinatura no site oficial ou pelo e-mail atendimento.dolcegusto@nestle.com.br, até 1 dia antes do próximo pedido.",
           "Se eu cancelar e assinar de novo, ganho os 1.000 pontos outra vez? Não. A nova assinatura tem 25% e frete grátis, mas os 1.000 pontos são uma vez por CPF.",
           "O que acontece se o cartão for recusado? A loja tenta cobrar 3 vezes em 3 dias seguidos, e três erros consecutivos na recorrência cancelam a assinatura.",
@@ -38843,7 +38843,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este é um guia de pesquisa baseado no catálogo oficial da NESCAFÉ Dolce Gusto em 30 de julho de 2026. Preços e estoque mudam conforme o site da marca. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto.",
+    "editorialNote": "Este é um guia de pesquisa baseado no catálogo oficial da NESCAFÉ Dolce Gusto. Preços e estoque mudam conforme o site da marca. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto.",
     "cta": {
       "text": "Conheça as cápsulas Starbucks na loja oficial e aproveite o cupom CECI",
       "label": "Ver na loja oficial",
@@ -38883,7 +38883,7 @@ export const reviewsData: unknown[] = [
         "heading": "1. STARBUCKS Espresso Colombia",
         "paragraphs": [
           "Um café de origem única com notas equilibradas, apresentado em cápsula de 10 unidades. Intensidade 7 (moderada-alta na escala Dolce Gusto), indicada para quem aprecia um espresso com corpo sem extremos. O perfil é descrito como 'Uma viagem de sabor'.",
-          "Preço verificado em 30/07/2026: R$ 27,90 com desconto para R$ 21,99 (cliente Clube Dolce Gusto com 2.500 pontos). Essa promoção pode variar — a loja oficial sempre mostra o preço e condição vigentes no momento do acesso."
+          "Preço verificado: R$ 27,90 com desconto para R$ 21,99 (cliente Clube Dolce Gusto com 2.500 pontos). Essa promoção pode variar — a loja oficial sempre mostra o preço e condição vigentes no momento do acesso."
         ],
         "bullets": []
       },
@@ -38891,7 +38891,7 @@ export const reviewsData: unknown[] = [
         "heading": "2. STARBUCKS Cappuccino",
         "paragraphs": [
           "O Cappuccino é apresentado no formato especial 5+5, com 5 cápsulas de café e 5 cápsulas de leite cremoso. Este é um dos dois sabores Starbucks que requer duas cápsulas por bebida: você prepara uma de café + uma de leite para atingir a consistência cremosa característica do cappuccino. O resultado é descrito como 'Rico e cremoso'.",
-          "Preço verificado em 30/07/2026: R$ 27,90 com desconto para R$ 21,99 (promoção variável). O valor pode parecer alto pela quantidade de cápsulas, mas cada caixa rende 5 bebidas completas de cappuccino."
+          "Preço verificado: R$ 27,90 com desconto para R$ 21,99 (promoção variável). O valor pode parecer alto pela quantidade de cápsulas, mas cada caixa rende 5 bebidas completas de cappuccino."
         ],
         "bullets": []
       },
@@ -38899,7 +38899,7 @@ export const reviewsData: unknown[] = [
         "heading": "3. STARBUCKS Caramel Macchiato",
         "paragraphs": [
           "Outra bebida de 2 cápsulas, o Caramel Macchiato vem no formato 5+5 (5 de café, 5 de leite). O perfil é 'Doce, cremoso e único', capturando a assinatura Starbucks de doçura equilibrada com crema de café. Como no cappuccino, você usa uma cápsula de leite + uma de café por preparação, totalizando 5 bebidas por caixa.",
-          "Preço verificado em 30/07/2026: R$ 27,90 reduzido para R$ 17,90 — este era o menor preço entre os sabores Starbucks disponíveis na data."
+          "Preço verificado: R$ 27,90 reduzido para R$ 17,90 — este era o menor preço entre os sabores Starbucks disponíveis na coleta."
         ],
         "bullets": []
       },
@@ -38907,7 +38907,7 @@ export const reviewsData: unknown[] = [
         "heading": "4. STARBUCKS Espresso Roast",
         "paragraphs": [
           "Um café clássico Starbucks com intensidade 11 (a mais alta na escala Dolce Gusto), apresentado em cápsula de 10 unidades. O Espresso Roast é para quem prefere um café encorpado e intenso, sem atenuantes. Descrito como 'Um clássico Starbucks'.",
-          "Status em 30/07/2026: SEM ESTOQUE na loja oficial. Não há preço ativo na data da coleta. Este sabor pode retornar conforme a reposição de estoque — acompanhe o site oficial ou registre-se para notificações de disponibilidade se estiver interessado."
+          "Status: SEM ESTOQUE na loja oficial. Não há preço ativo na data da coleta. Este sabor pode retornar conforme a reposição de estoque — acompanhe o site oficial ou registre-se para notificações de disponibilidade se estiver interessado."
         ],
         "bullets": []
       },
@@ -38915,7 +38915,7 @@ export const reviewsData: unknown[] = [
         "heading": "5. STARBUCKS Americano House Blend",
         "paragraphs": [
           "Um café equilibrado com intensidade 8 (moderada-alta), apresentado em formato de 10 cápsulas. O House Blend é um clássico Starbucks pensado como um café de consumo diário, não extremamente intenso nem suave. Descrito como 'Um clássico equilibrado'.",
-          "Status em 30/07/2026: SEM ESTOQUE na loja oficial. Assim como o Espresso Roast, este sabor pode estar em processo de reposição — verifique a página oficial /starbucks para acompanhar o retorno da disponibilidade."
+          "Status: SEM ESTOQUE na loja oficial. Assim como o Espresso Roast, este sabor pode estar em processo de reposição — verifique a página oficial /starbucks para acompanhar o retorno da disponibilidade."
         ],
         "bullets": []
       },
@@ -38940,8 +38940,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços, estoque e hedge do cupom CECI",
         "paragraphs": [
-          "Os valores apresentados neste guia foram verificados no site oficial da NESCAFÉ Dolce Gusto em 30 de julho de 2026. Preços são dinâmicos e refletem promoções vigentes naquela data — eles podem subir, descer, ou ser oferecidos em pack promocional sem pré-aviso.",
-          "Da mesma forma, o estoque de um sabor (como Espresso Roast e Americano House Blend em 30/07) muda conforme a reposição. Não há garantia de que um produto indisponível será reabastecido ou quando isso ocorrerá.",
+          "Os valores apresentados neste guia foram verificados no site oficial da NESCAFÉ Dolce Gusto na data da coleta. Preços são dinâmicos e refletem promoções vigentes naquela data — eles podem subir, descer, ou ser oferecidos em pack promocional sem pré-aviso.",
+          "Da mesma forma, o estoque de um sabor (como Espresso Roast e Americano House Blend na coleta) muda conforme a reposição. Não há garantia de que um produto indisponível será reabastecido ou quando isso ocorrerá.",
           "Para comprar com segurança e aproveitando desconto real, use o cupom CECI no checkout: aplique o código na loja oficial antes de finalizar, garantindo 10% OFF em cápsulas, máquinas e acessórios a partir de R$ 100 de compra. Como todo cupom, o CECI tem prazo de validade e pode ser alterado pela marca — se não estiver disponível no momento da sua compra, o link da loja oficial abaixo leva direto aos produtos com o preço e condições vigentes."
         ],
         "bullets": []
@@ -38973,8 +38973,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Cápsula Starbucks funciona na Dolce Gusto? Sim, as cápsulas Starbucks by NESCAFÉ Dolce Gusto são oficiais e compatíveis com todas as máquinas do sistema ORIGINAL (Genio S, Genio S Touch, Mini Me, Piccolo XS, Infinissima, Eclipse). Não funcionam em máquinas NEO sem adaptador.",
-          "Quais sabores Starbucks tem na Dolce Gusto? Em 30 de julho de 2026, estão disponíveis: Espresso Colombia (intensidade 7, 10 cáps), Cappuccino (5+5 cáps), Caramel Macchiato (5+5 cáps). Os sabores Espresso Roast (intensidade 11) e Americano House Blend (intensidade 8) estavam sem estoque na data. O catálogo pode variar.",
-          "Cápsula Starbucks Dolce Gusto preço: quanto custa? Os preços variam conforme promoção e data. Em 30/07/2026, os sabores disponíveis custavam entre R$ 17,90 e R$ 27,90 (R$ 21,99 com promoção/Clube). Sempre confira na loja oficial antes de comprar — o preço é dinâmico.",
+          "Quais sabores Starbucks tem na Dolce Gusto? Na data da coleta, estavam disponíveis: Espresso Colombia (intensidade 7, 10 cáps), Cappuccino (5+5 cáps), Caramel Macchiato (5+5 cáps). Os sabores Espresso Roast (intensidade 11) e Americano House Blend (intensidade 8) estavam sem estoque na data. O catálogo pode variar.",
+          "Cápsula Starbucks Dolce Gusto preço: quanto custa? Os preços variam conforme promoção e data. Na coleta, os sabores disponíveis custavam entre R$ 17,90 e R$ 27,90 (R$ 21,99 com promoção/Clube). Sempre confira na loja oficial antes de comprar — o preço é dinâmico.",
           "Como usar o cupom CECI nas cápsulas Starbucks? Adicione os produtos ao carrinho no site oficial (nescafe-dolcegusto.com.br), procure a seção de cupons no checkout, insira o código CECI e confirme o desconto de 10% — válido a partir de R$ 100 em compras.",
           "Posso cadastrar cápsulas Starbucks no Clube Dolce Gusto? Sim. As cápsulas Starbucks vêm com o código de 12 dígitos na embalagem interna. Cadastre-o no painel do clube para ganhar 100 pontos por caixa.",
           "Quanto ml sai de uma cápsula Starbucks? As cápsulas de café preto (Espresso Colombia, Espresso Roast, Americano House Blend) seguem o padrão de níveis da máquina. As cápsulas de leite (no formato 5+5) entregam cerca de 200 ml por extração. O resultado final é definido pelo nível selecionado no painel ou botões da sua máquina.",
@@ -49106,7 +49106,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "O gesto para ativar o modo de descalcificação muda de modelo para modelo: confirme sempre no manual da sua máquina",
-      "O descalcificante líquido não é vendido na loja oficial online (conferido em 29/09/2026), mas dá para usar o da marca pedido pelo SAC ou um de outra marca própria para cafeteiras"
+      "O descalcificante líquido não é vendido na loja oficial online (conferido na loja), mas dá para usar o da marca pedido pelo SAC ou um de outra marca própria para cafeteiras"
     ],
     "contentSections": [
       {
@@ -49320,8 +49320,8 @@ export const reviewsData: unknown[] = [
           "A luz laranja da Dolce Gusto significa que a máquina quebrou? Não. É um aviso de manutenção baseado na contagem de extrações, indicando que é hora de descalcificar.",
           "De quanto em quanto tempo devo descalcificar a Dolce Gusto? O manual da Genio S indica descalcificar pelo menos a cada 3 a 4 meses, ou quando a luz laranja acender; com água muito dura, o intervalo tende a ser menor.",
           "Posso usar vinagre para descalcificar a Dolce Gusto? Não. O guia oficial da Nescafé Dolce Gusto Brasil e o manual da Genio S Touch pedem para não usar vinagre; use um descalcificante próprio para cafeteiras.",
-          "Preciso usar o descalcificante da própria Dolce Gusto? Não necessariamente. Pode ser um descalcificante líquido de outra marca, desde que seja próprio para cafeteiras espresso ou de cápsula e você siga a diluição do rótulo. O da marca pode ser pedido pelo SAC (0800 776 2233) e, em 29/09/2026, não aparecia na loja online oficial.",
-          "Onde comprar descalcificante para cafeteira? Em varejistas de eletrodomésticos e marketplaces, na versão da Dolce Gusto ou de outras marcas; a loja online oficial não listava o produto em 29/09/2026.",
+          "Preciso usar o descalcificante da própria Dolce Gusto? Não necessariamente. Pode ser um descalcificante líquido de outra marca, desde que seja próprio para cafeteiras espresso ou de cápsula e você siga a diluição do rótulo. O da marca pode ser pedido pelo SAC (0800 776 2233) e não aparece na loja online oficial.",
+          "Onde comprar descalcificante para cafeteira? Em varejistas de eletrodomésticos e marketplaces, na versão da Dolce Gusto ou de outras marcas; a loja online oficial não lista o produto.",
           "A água mineral ou o filtro de casa evitam o calcário? Não totalmente. Filtros comuns não removem cálcio e magnésio, e a água mineral também tem minerais; o que muda é a dureza da água, que define a velocidade com que o calcário se forma.",
           "O calcário acontece só na Dolce Gusto? Não. Ele se forma em qualquer aparelho que aquece água, como chaleiras, cafeteiras elétricas e máquinas espresso."
         ]
@@ -51874,7 +51874,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "Preço por caixa de 10 cápsulas no montador da assinatura, conferido em 13 de outubro de 2026",
+          "caption": "Preço por caixa de 10 cápsulas no montador da assinatura, conferido no montador",
           "headers": [
             "Linha",
             "Preço cheio",
@@ -51969,10 +51969,10 @@ export const reviewsData: unknown[] = [
         "heading": "Assinatura ou promoção avulsa: o que sai mais barato?",
         "paragraphs": [
           "Este é o ponto que quase ninguém explica. Os 25% da assinatura são calculados sobre o **preço cheio**, e o regulamento diz que as promoções do site não se somam às compras da assinatura. Então, quando a loja coloca caixas em promoção na compra avulsa, o preço de vitrine pode ficar abaixo do preço da assinatura.",
-          "Foi o que aconteceu em 5 de outubro de 2026. Na página de Sabores, o Espresso de 10 cápsulas estava de R$ 25,90 por R$ 17,90 na compra avulsa, e o combo de 8 caixas de Espresso saía com 32% de desconto:"
+          "Foi o que aconteceu no dia da leitura dos preços. Na página de Sabores, o Espresso de 10 cápsulas estava de R$ 25,90 por R$ 17,90 na compra avulsa, e o combo de 8 caixas de Espresso saía com 32% de desconto:"
         ],
         "comparisonTable": {
-          "caption": "Espresso Geração I, caixa de 10 cápsulas, preços do site oficial em 5 de outubro de 2026",
+          "caption": "Espresso Geração I, caixa de 10 cápsulas, preços do site oficial",
           "headers": [
             "Forma de compra",
             "Preço por caixa",
@@ -52021,7 +52021,7 @@ export const reviewsData: unknown[] = [
         "heading": "O cupom CECI soma com a assinatura?",
         "paragraphs": [
           "Somou. Essa era uma dúvida nossa também, porque o item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O **CECI**, porém, não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
-          "No dia 4 de outubro de 2026 fechamos um pedido de assinatura com 4 caixas de R$ 29,90 e o cupom CECI. O resumo do checkout ficou assim:"
+          "Num dos nossos testes fechamos um pedido de assinatura com 4 caixas de R$ 29,90 e o cupom CECI. O resumo do checkout ficou assim:"
         ],
         "image": {
           "src": "/images/reviews/cupons/nescafe-dolce-gusto-passo-1.webp",
@@ -52031,7 +52031,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 2.9777
         },
         "comparisonTable": {
-          "caption": "Resumo do checkout da assinatura em 4 de outubro de 2026. A diferença de 1 centavo no total é arredondamento do próprio site.",
+          "caption": "Resumo do checkout da assinatura. A diferença de 1 centavo no total é arredondamento do próprio site.",
           "headers": [
             "Linha do resumo",
             "Valor"
@@ -52123,7 +52123,7 @@ export const reviewsData: unknown[] = [
           "Qual é a assinatura mais barata da Dolce Gusto? O pedido mínimo, de 3 caixas de Geração I regulares, fica em cerca de R$ 58 por entrega.",
           "A assinatura mostra o preço com desconto? Sim: no montador, cada caixa já aparece com os 25%, e o preço cheio fica riscado ao lado.",
           "A assinatura Dolce Gusto dá máquina grátis? Não. O plano de 2018 com máquina grátis foi encerrado, e hoje a Mini Me de brinde vem da promoção por volume de caixas.",
-          "O cupom CECI acumula com a assinatura Dolce Gusto? No nosso teste de 4 de outubro de 2026, sim: o CECI somou com os 25% da assinatura. Hoje ele dá 10%.",
+          "O cupom CECI acumula com a assinatura Dolce Gusto? No nosso teste, sim: o CECI somou com os 25% da assinatura. Hoje ele dá 10%.",
           "A promoção de caixas com Mini Me vale na assinatura? Não. O regulamento diz que promoções do site não se somam às compras da assinatura.",
           "Dá para pagar a assinatura parcelado? Não. A assinatura aceita só cartão de crédito Visa, Mastercard ou Elo, sem parcelamento."
         ]
@@ -63758,7 +63758,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: quanto custa cada bebida",
         "paragraphs": [
-          "Na loja oficial, em 12/10/2026, a bebida de uma cápsula Dolce Gusto Original custava de R$ 1,79 a R$ 2,89, e a de duas cápsulas, o dobro. O que decide o preço da xícara é quantas cápsulas a bebida usa e se a caixa está em promoção. Veja abaixo a conta e a forma de compra mais barata."
+          "Na loja oficial, a bebida de duas cápsulas Dolce Gusto custa o dobro da bebida de uma. O que decide o preço da xícara é quantas cápsulas a bebida usa e se a caixa está em promoção, e o combo de várias caixas foi a forma mais barata de comprar."
         ]
       },
       {
@@ -63787,7 +63787,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por bebida, tipo a tipo",
         "paragraphs": [
-          "Uma caixa de cada tipo, com o preço cheio e o preço da promoção do dia, lidos na loja oficial em 12/10/2026."
+          "Uma caixa de cada tipo, com o preço cheio e o preço da promoção do dia, lidos na loja oficial."
         ],
         "comparisonTable": {
           "caption": "Loja oficial, 12/10/2026. Por bebida = preço da caixa ÷ bebidas da caixa, arredondado. O preço do dia é de promoção e pode mudar sem aviso.",
@@ -63928,7 +63928,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Caixa de 16 e cápsula XL: o que existe hoje",
         "paragraphs": [
-          "O regulamento da loja fala em caixas de 10, 12 ou 16 cápsulas, mas em 12/10/2026 não havia caixa de 16 à venda: só as de 10 e a de 12 da Toffee Nut Latte. Para levar mais cápsulas de uma vez, a loja tem o DGusta, de 50 ou 100 cápsulas, e os combos de várias caixas.",
+          "O regulamento da loja fala em caixas de 10, 12 ou 16 cápsulas, mas na leitura não havia caixa de 16 à venda: só as de 10 e a de 12 da Toffee Nut Latte. Para levar mais cápsulas de uma vez, a loja tem o DGusta, de 50 ou 100 cápsulas, e os combos de várias caixas.",
           "Cápsula XL também não consta do catálogo de hoje: nenhum produto vem marcado com a xícara XL. O XL é uma função de algumas máquinas, não um tipo de cápsula."
         ],
         "links": [
@@ -63941,8 +63941,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Original ou NEO: quanto custa a bebida",
         "paragraphs": [
-          "A NEO só tem cafés pretos, com uma cápsula por bebida. Em 12/10/2026, a caixa de 10 custava de R$ 21,90 a R$ 30,90, ou R$ 2,19 a R$ 3,09 por bebida, e o combo de 5 caixas de NEO Americano saía por R$ 108,15, R$ 2,16 por cápsula. No mesmo dia, o café preto Original custava a partir de R$ 1,79 por bebida.",
-          "Sem adaptador, as cápsulas de uma linha não servem na máquina da outra, então quem decide a cápsula é a sua máquina. O Adaptador NEO Start, que em 12/10/2026 custava R$ 89,90 na loja, põe alguns cafés NEO em parte das máquinas Original."
+          "A NEO só tem cafés pretos, com uma cápsula por bebida. Na leitura, a caixa de 10 custava de R$ 21,90 a R$ 30,90, ou R$ 2,19 a R$ 3,09 por bebida, e o combo de 5 caixas de NEO Americano saía por R$ 108,15, R$ 2,16 por cápsula. No mesmo dia, o café preto Original custava a partir de R$ 1,79 por bebida.",
+          "Sem adaptador, as cápsulas de uma linha não servem na máquina da outra, então quem decide a cápsula é a sua máquina. O Adaptador NEO Start, que na leitura custava R$ 89,90 na loja, põe alguns cafés NEO em parte das máquinas Original."
         ],
         "image": {
           "src": "/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
@@ -63973,7 +63973,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain"
         },
         "comparisonTable": {
-          "caption": "Loja oficial, 12/10/2026. Por bebida = preço ÷ bebidas, arredondado. Promoções e combos mudam sem aviso.",
+          "caption": "Loja oficial. Por bebida = preço ÷ bebidas, arredondado. Promoções e combos mudam sem aviso.",
           "headers": [
             "Forma de compra",
             "Preço",
@@ -64014,7 +64014,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "O combo de caixas teve o menor preço por bebida em 12/10/2026.",
+          "O combo de caixas teve o menor preço por bebida na leitura.",
           "O DGusta não sai mais barato por cápsula: no Espresso, empata com a caixa do dia, e no Cappuccino fica mais caro. Ele serve para misturar sabores numa caixa só.",
           "Com a caixa a R$ 17,90, a assinatura ficou mais cara por bebida. Ela dá 25% OFF e frete grátis em todo pedido, mas não soma com outras promoções do site."
         ],
@@ -64028,7 +64028,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como chegar aos R$ 100 do frete grátis e do cupom CECI",
         "paragraphs": [
-          "Em 12/10/2026, a loja dava frete grátis em pedidos de bebidas acima de R$ 100; abaixo disso, o frete é calculado no carrinho. O cupom CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial: R$ 10 a cada R$ 100.",
+          "Na leitura, a loja dava frete grátis em pedidos de bebidas acima de R$ 100; abaixo disso, o frete é calculado no carrinho. O cupom CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial: R$ 10 a cada R$ 100.",
           "Com a caixa a R$ 17,90, são 6 caixas (R$ 107,40). Com a caixa a R$ 25,90, 4 caixas (R$ 103,60). Cinco caixas de R$ 19,99 somam R$ 99,95 e ficam abaixo, assim como o combo de 6 caixas de Espresso Intenso, de R$ 99,90."
         ],
         "links": [
@@ -64041,7 +64041,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que muda de um dia para o outro",
         "paragraphs": [
-          "Os preços do dia das caixas Original e do DGusta vêm da promoção \"Bebidas com até 30% OFF\", em vigor desde a 01h de 12/10/2026. Pelo regulamento, ela não vale para NEO nem para máquinas, não soma com combos nem com resgate de pontos e pode acabar sem aviso. NEO, combos e assinatura têm desconto próprio.",
+          "Os preços do dia das caixas Original e do DGusta vêm da promoção \"Bebidas com até 30% OFF\", em vigor na leitura. Pelo regulamento, ela não vale para NEO nem para máquinas, não soma com combos nem com resgate de pontos e pode acabar sem aviso. NEO, combos e assinatura têm desconto próprio.",
           "Item no carrinho não segura o preço se a promoção acabar. Para refazer a conta em outro dia, divida o preço da caixa pelo número de bebidas: 10 nas de uma cápsula e 5 nas de duas."
         ],
         "links": [
@@ -64054,7 +64054,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual forma de compra escolher",
         "paragraphs": [
-          "A conta muda com o dia, mas a ordem de 12/10/2026 foi esta: o combo de caixas teve o menor preço por bebida, a caixa de 10 no preço do dia veio logo depois, e a assinatura ficou mais cara por bebida com a caixa a R$ 17,90."
+          "A conta muda com o dia, mas a ordem da leitura foi esta: o combo de caixas teve o menor preço por bebida, a caixa de 10 no preço do dia veio logo depois, e a assinatura ficou mais cara por bebida com a caixa a R$ 17,90."
         ],
         "bullets": [
           "Quem bebe sempre os mesmos sabores: o combo de 6 ou 8 caixas, que teve o menor preço por bebida.",
@@ -64066,16 +64066,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quanto custa uma cápsula Dolce Gusto? Na loja oficial, em 12/10/2026, a cápsula Original custava de R$ 1,79 a R$ 2,89, em caixas de 10 de R$ 17,90 a R$ 28,90. No preço cheio, R$ 2,59 ou R$ 2,89.",
-          "Quanto custa a cápsula da Dolce Gusto NEO? De R$ 2,19 a R$ 3,09 em 12/10/2026, em caixas de 10 de R$ 21,90 a R$ 30,90.",
+          "Quanto custa uma cápsula Dolce Gusto? Na loja oficial, a cápsula Original custava de R$ 1,79 a R$ 2,89, em caixas de 10 de R$ 17,90 a R$ 28,90. No preço cheio, R$ 2,59 ou R$ 2,89.",
+          "Quanto custa a cápsula da Dolce Gusto NEO? De R$ 2,19 a R$ 3,09 na leitura, em caixas de 10 de R$ 21,90 a R$ 30,90.",
           "Quanto rende uma cápsula Dolce Gusto? Nas bebidas de uma cápsula, cada cápsula faz uma bebida; nas de duas, como o Cappuccino, a bebida usa as duas. O volume em ml de cada nível está na nossa tabela de medidas.",
           "Qual cápsula Dolce Gusto rende mais? Em bebidas por caixa, as de uma cápsula: 10 por caixa, contra 5 nas de duas cápsulas.",
           "Quantas bebidas faz uma caixa de Cappuccino Dolce Gusto? Cinco: a caixa traz 5 cápsulas de leite e 5 de café.",
-          "Quanto custa um Cappuccino Dolce Gusto por xícara? R$ 3,58 com a caixa a R$ 17,90, o preço do dia em 12/10/2026, e R$ 5,18 no preço cheio de R$ 25,90.",
-          "Qual é a cápsula Dolce Gusto mais barata? Em 12/10/2026, R$ 1,79 por bebida na caixa de 10 do Espresso, do Lungo, do Caffè Matinal, do Café Caseiro e de outros cafés, e R$ 1,67 no combo de 6 caixas de Espresso Intenso.",
-          "Existe cápsula Dolce Gusto XL? Não no catálogo de 12/10/2026: nenhum produto vem marcado como XL. O XL é uma função de algumas máquinas.",
-          "O DGusta é mais barato que a caixa? Por cápsula, não: em 12/10/2026, o Espresso custava R$ 1,79 nos dois. O DGusta serve para misturar sabores em 50 ou 100 cápsulas.",
-          "Onde é mais barato comprar cápsulas Dolce Gusto? Entre as opções da loja oficial, o combo de várias caixas teve o menor preço por bebida em 12/10/2026: R$ 1,67 a R$ 1,69 no café e R$ 3,39 no Cappuccino.",
+          "Quanto custa um Cappuccino Dolce Gusto por xícara? R$ 3,58 com a caixa a R$ 17,90, o preço do dia, e R$ 5,18 no preço cheio de R$ 25,90.",
+          "Qual é a cápsula Dolce Gusto mais barata? Na leitura, R$ 1,79 por bebida na caixa de 10 do Espresso, do Lungo, do Caffè Matinal, do Café Caseiro e de outros cafés, e R$ 1,67 no combo de 6 caixas de Espresso Intenso.",
+          "Existe cápsula Dolce Gusto XL? Não no catálogo lido: nenhum produto vem marcado como XL. O XL é uma função de algumas máquinas.",
+          "O DGusta é mais barato que a caixa? Por cápsula, não: na leitura, o Espresso custava R$ 1,79 nos dois. O DGusta serve para misturar sabores em 50 ou 100 cápsulas.",
+          "Onde é mais barato comprar cápsulas Dolce Gusto? Entre as opções da loja oficial, o combo de várias caixas teve o menor preço por bebida na leitura: R$ 1,67 a R$ 1,69 no café e R$ 3,39 no Cappuccino.",
           "Onde comprar 50 ou 100 cápsulas Dolce Gusto? No DGusta da loja oficial, que monta caixas de 50 ou 100 cápsulas, sabor a sabor.",
           "Quais cápsulas dão certo na Dolce Gusto? As Original nas máquinas Original e as NEO nas máquinas NEO. Com o Adaptador NEO Start, alguns cafés NEO funcionam em parte das máquinas Original.",
           "Qual é a cápsula Dolce Gusto mais vendida? A loja tem a ordem \"Mais Vendidos\", mas não informa o critério, então não há ranking oficial. Para escolher o sabor, veja o nosso guia de sabores.",
@@ -88731,12 +88731,12 @@ export const reviewsData: unknown[] = [
               "10"
             ],
             [
-              "Preço em 17/10/2026",
+              "Preço",
               "de R$ 25,90 por R$ 22,50",
               "de R$ 25,90 por R$ 22,50"
             ],
             [
-              "Avaliação na loja (17/10/2026)",
+              "Avaliação na loja",
               "94% (34 avaliações)",
               "97% (19 avaliações)"
             ]
@@ -88791,7 +88791,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "É bom? O que dizem as avaliações da loja",
         "paragraphs": [
-          "Em 17/10/2026, a página do Espresso mostrava avaliação de 94%, com 34 avaliações. A do Espresso Intenso mostrava 97%, com 19 avaliações. É a nota da própria loja, de quem comprou lá. Para ver o Espresso ao lado de outros sabores, leia as [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026)."
+          "A página do Espresso mostrava avaliação de 94%, com 34 avaliações. A do Espresso Intenso mostrava 97%, com 19 avaliações. É a nota da própria loja, de quem comprou lá. Para ver o Espresso ao lado de outros sabores, leia as [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026)."
         ]
       },
       {
@@ -88803,7 +88803,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher: Espresso ou Espresso Intenso",
         "paragraphs": [
-          "A decisão é de intensidade, porque o resto é igual: as duas caixas têm 10 cápsulas, só café torrado moído, xícara pequena e o mesmo preço, R$ 22,50 em 17/10/2026."
+          "A decisão é de intensidade, porque o resto é igual: as duas caixas têm 10 cápsulas, só café torrado moído, xícara pequena e o mesmo preço, R$ 22,50 na leitura."
         ],
         "bullets": [
           "Prefere um café mais suave: o Espresso, intensidade 5, que a marca descreve como \"delicado e frutado\". A nota na loja era 94%, com 34 avaliações.",
@@ -88820,14 +88820,8 @@ export const reviewsData: unknown[] = [
           "Espresso Dolce Gusto tem cafeína? O ingrediente é café torrado moído. A loja não informa a quantidade de cafeína em miligramas.",
           "Quantos ml faz o Espresso Dolce Gusto? A loja mostra xícara pequena. Na foto da tabela impressa numa embalagem, que reunimos na tabela de medidas, o Espresso e o Espresso Intenso aparecem com 50 ml.",
           "Espresso Dolce Gusto tem glúten? Não. A página da loja diz \"NÃO CONTÉM GLÚTEN\" e lista só café torrado moído.",
-          "Quanto custa o Espresso Dolce Gusto? Em 17/10/2026, a caixa de 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial, ou R$ 2,25 por cápsula pela nossa conta.",
+          "Quanto custa o Espresso Dolce Gusto? Na leitura de preços, a caixa de 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial, ou R$ 2,25 por cápsula pela nossa conta.",
           "Espresso Dolce Gusto tem tabela nutricional? A página da loja não traz tabela nutricional do Espresso nem do Espresso Intenso, e por isso não informamos calorias."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Esta é uma ficha de leitura das páginas do produto na loja oficial da NESCAFÉ Dolce Gusto, lidas em 17/10/2026, sem teste próprio. O Em Casa com Cecília tem parceria comercial com a NESCAFÉ Dolce Gusto e pode receber comissão pelas compras feitas com o CECI. Preço e condições mudam: confira no carrinho."
         ]
       }
     ],
@@ -99677,7 +99671,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantas bebidas o escritório toma por mês",
         "paragraphs": [
-          "Este guia responde qual sistema de máquina serve para cada tamanho de escritório e quanto o café custa por mês para 5, 10 e 20 pessoas. A conta é sem cupom e sem a máquina, com os preços lidos em 19/10/2026.",
+          "Este guia responde qual sistema de máquina serve para cada tamanho de escritório e quanto o café custa por mês para 5, 10 e 20 pessoas. A conta é sem cupom e sem a máquina.",
           "A conta é pessoas × 2 bebidas por dia × 22 dias úteis. Cada pessoa toma 44 bebidas no mês, e a equipe toma:"
         ],
         "bullets": [
@@ -99686,7 +99680,7 @@ export const reviewsData: unknown[] = [
           "20 pessoas: 880 bebidas por mês"
         ],
         "postParagraphs": [
-          "Os 22 dias úteis são a média de um mês. Outubro de 2026 tem 22 dias úteis, e 21 com o feriado de 12/10. As duas bebidas por dia são uma suposição deste texto; troque pelos números da sua equipe, porque a fórmula continua valendo.",
+          "Os 22 dias úteis são a média de um mês. Num mês com feriado, são 21. As duas bebidas por dia são uma suposição deste texto; troque pelos números da sua equipe, porque a fórmula continua valendo.",
           "Bebida com leite conta em dobro. Na linha Dolce Gusto, cappuccino, latte macchiato, chococino e chai tea latte usam duas cápsulas, e café, Nescau, Nestea e Mochaccino Canela usam uma. A tabela da seção de custo considera só bebidas de uma cápsula, então um escritório que pede muito cappuccino gasta mais do que ela mostra."
         ]
       },
@@ -99700,7 +99694,7 @@ export const reviewsData: unknown[] = [
             "Perfil",
             "Máquina que faz sentido",
             "Por que",
-            "Custo mensal (19/10/2026, sem cupom)"
+            "Custo mensal (sem cupom)"
           ],
           "rows": [
             [
@@ -99725,7 +99719,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Para quem não quer cápsula, a opção é a cafeteira elétrica de filtro. A Oster lista três modelos: a 2Day Inox 2 em 1, com copo térmico, por R$ 179,90; a Black, com jarra térmica de inox de 0,7 L, por R$ 309,90; e a Coffee To Go de 600 ml, por R$ 179,90. A listagem não traz a capacidade em xícaras de cada modelo, então o texto não compara volumes. O café de filtro usado na conta é o Melitta Tradicional, pacote de 500 g a R$ 27,46, com a dose da embalagem de 80 g por litro. A Melitta não vende cafeteira de filtro no site; só a Amano, a R$ 1.149,00.",
-          "Grão, em kit, aparece com o Melitta Spresso em grão, quatro pacotes de 500 g por R$ 234,60 (19/10/2026). O texto não calcula o custo por xícara de grão, porque a dose da embalagem não está na leitura que fizemos. A superautomática de grãos fica fora da tabela, porque não temos preço de nenhuma superautomática.",
+          "Grão, em kit, aparece com o Melitta Spresso em grão, quatro pacotes de 500 g por R$ 234,60. O texto não calcula o custo por xícara de grão, porque a dose da embalagem não está na leitura que fizemos. A superautomática de grãos fica fora da tabela, porque não temos preço de nenhuma superautomática.",
           "Na cápsula de terceiros, a L'OR é compatível com Nespresso Original, não com Dolce Gusto, e a marca não vende máquina própria no site. A Baggio vende caixa de 10 cápsulas para Dolce Gusto a R$ 25,90; sobre compatibilidade, vale o que já diz o [guia de cápsulas compatíveis](/reviews/dolce-gusto-capsulas-compativeis-guia). Se a equipe usa a Dolce Gusto NEO, a máquina aceita só cápsula NEO."
         ]
       },
@@ -99812,7 +99806,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/dolcegusto/cafeteira-escritorio-custo-por-bebida.webp",
             "alt": "Barras com o custo por bebida de cada opção em 19/10/2026, do filtro Melitta a R$ 0,44 à Nespresso Original a R$ 3,70–4,20",
-            "caption": "Custo por bebida em 19/10/2026, sem cupom. Quadro do Em Casa com Cecília.",
+            "caption": "Custo por bebida, sem cupom. Quadro do Em Casa com Cecília.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
@@ -99824,14 +99818,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mais que café: chocolate, chá gelado e bebidas com leite",
         "paragraphs": [
-          "Num escritório, nem todo mundo toma café. A Dolce Gusto faz as bebidas da tabela abaixo com a mesma máquina. O preço por bebida é o da caixa de 10 cápsulas, dividido pelo número de bebidas que ela rende, com o preço do dia de 19/10/2026. A lista completa de sabores e preços está em [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
+          "Num escritório, nem todo mundo toma café. A Dolce Gusto faz as bebidas da tabela abaixo com a mesma máquina. O preço por bebida é o da caixa de 10 cápsulas, dividido pelo número de bebidas que ela rende, com o preço do dia. A lista completa de sabores e preços está em [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
         ],
         "comparisonTable": {
           "headers": [
             "Bebida",
             "Cápsulas por bebida",
             "Bebidas por caixa",
-            "Preço da caixa (19/10/2026)",
+            "Preço da caixa",
             "Por bebida"
           ],
           "rows": [
@@ -99910,11 +99904,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dolce Gusto Negócios: os combos para escritório",
         "paragraphs": [
-          "A Dolce Gusto tem uma linha para compra em volume, a Dolce Gusto Negócios, com combos de 20, 30 e 50 caixas de 10 cápsulas. Quanto maior o combo, maior o desconto. Os preços são da loja oficial, lidos em 19/10/2026 sem login, e mudam com a promoção do dia."
+          "A Dolce Gusto tem uma linha para compra em volume, a Dolce Gusto Negócios, com combos de 20, 30 e 50 caixas de 10 cápsulas. Quanto maior o combo, maior o desconto. Os preços são da loja oficial, lidos sem login, e mudam com a promoção do dia."
         ],
         "comparisonTable": {
           "headers": [
-            "Combo (preço de 19/10/2026)",
+            "Combo",
             "Sabores no combo",
             "Cápsulas",
             "Preço do dia",
@@ -99993,7 +99987,7 @@ export const reviewsData: unknown[] = [
         "heading": "Escritório de advocacia, consultório e escritório grande: o que muda",
         "paragraphs": [
           "No que lemos, nenhuma das marcas fala de escritório de advocacia, e não sugerimos modelo específico para isso. A conta é a mesma das outras equipes: pessoas, vezes 2 bebidas, vezes 22 dias úteis. Consultório e MEI costumam caber no perfil de 2 a 5 pessoas. Se a equipe bebe só café preto, o filtro é mais barato por xícara; se pede leite e chá, a cápsula da Dolce Gusto atende o grupo inteiro.",
-          "Para quem prefere cafeteira elétrica sem cápsula, as Oster citadas acima custam de R$ 179,90 a R$ 309,90 (19/10/2026). A máquina é pagamento único, e o custo que se repete é o do pó: com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44.",
+          "Para quem prefere cafeteira elétrica sem cápsula, as Oster citadas acima custam de R$ 179,90 a R$ 309,90. A máquina é pagamento único, e o custo que se repete é o do pó: com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44.",
           "Escritório de 15 pessoas ou mais entra na conta de 20 pessoas da tabela mensal. Com 20 pessoas, a caixa avulsa da Dolce Gusto sai por R$ 2.191,20 no mês e o combo de 50 caixas por R$ 1.424,28."
         ]
       },
@@ -100007,13 +100001,13 @@ export const reviewsData: unknown[] = [
         "heading": "Quando a cápsula não vale",
         "paragraphs": [
           "Se a equipe só toma café preto, a cápsula perde para o filtro por xícara. Na Dolce Gusto, uma bebida de uma cápsula custa de R$ 1,62 a R$ 2,49 no combo ou na caixa avulsa. No filtro, com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44. A Melitta vende o café, mas o site dela não vende cafeteira elétrica de filtro, só a Amano, a R$ 1.149,00, então a máquina de filtro vem de outra marca, como a Oster.",
-          "Se o escritório quer espresso com leite fresco em volume, a cápsula de consumo não é a resposta. A linha profissional da Nespresso, com Momento 200 e Aguila 220, faz bebidas com leite e tem refrigerador de leite integrado, mas o preço é sob contato. As cápsulas Nespresso Original custam R$ 3,70 a R$ 4,20 cada no preço de 19/10/2026."
+          "Se o escritório quer espresso com leite fresco em volume, a cápsula de consumo não é a resposta. A linha profissional da Nespresso, com Momento 200 e Aguila 220, faz bebidas com leite e tem refrigerador de leite integrado, mas o preço é sob contato. As cápsulas Nespresso Original custam R$ 3,70 a R$ 4,20 cada no preço lido."
         ]
       },
       {
         "heading": "Qual escolher para o escritório",
         "paragraphs": [
-          "A escolha depende de quem toma o quê. Os valores são de 19/10/2026, sem cupom e sem a máquina, e a conta supõe duas bebidas por pessoa por dia, cada uma de uma cápsula."
+          "A escolha depende de quem toma o quê. Os valores são sem cupom e sem a máquina, e a conta supõe duas bebidas por pessoa por dia, cada uma de uma cápsula."
         ],
         "bullets": [
           "5 pessoas (220 bebidas por mês): Dolce Gusto, no preço por bebida do combo para negócios de 50 caixas, R$ 356,07 por mês; no de 20 caixas, R$ 410,85. Quem só toma café preto paga menos com filtro: R$ 96,66 por mês, sem contar a máquina.",
@@ -100033,13 +100027,6 @@ export const reviewsData: unknown[] = [
           "O cupom CECI vale nos combos para negócios? Vale, na loja oficial da Dolce Gusto, com 10% OFF sobre o preço do dia em compras a partir de R$ 100; o combo de 50 caixas sai por R$ 728,33.",
           "Quanto gasta uma cafeteira de cápsula por mês? Depende das pessoas e das bebidas: com 5 pessoas e 44 bebidas cada no mês, o combo de 20 caixas da Dolce Gusto sai a R$ 410,85, e a tabela mensal tem as contas para 5, 10 e 20 pessoas."
         ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços e as condições deste texto foram lidos nas lojas oficiais em 19/10/2026, sem login. Preço de loja muda com promoção e pode sair do ar sem aviso, então confira antes de comprar.",
-          "Podemos receber comissão da Dolce Gusto pelos links da loja e pelo uso do cupom CECI. Nenhuma outra marca citada tem link de compra neste texto nem paga comissão ao site. Não temos experiência própria com essas máquinas num escritório: os números vêm das fichas e dos preços das lojas, e este texto não relata uso."
-        ]
       }
     ],
     "pros": [],
@@ -100052,7 +100039,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Podemos receber comissão da Dolce Gusto pelo cupom CECI e pelos links da loja. As outras marcas não têm link.",
+    "editorialNote": "Podemos receber comissão da Dolce Gusto pelo cupom CECI e pelos links da loja. As outras marcas não têm link. Ninguém da equipe usou essas máquinas num escritório.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
