@@ -34390,7 +34390,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ficha técnica e tecnologias",
         "paragraphs": [
-          "Segundo o site oficial, o Cobertor IWS Igloo reúne seis tecnologias próprias da marca:"
+          "O site oficial diz que o Cobertor IWS Igloo reúne seis tecnologias próprias da marca:"
         ],
         "bullets": [
           "ICE-FEEL FIBER SYSTEM: fibras de poliamida no lado frio, que a marca descreve como capazes de dissipar o calor corporal a até 3°C abaixo da temperatura ambiente.",
@@ -34408,7 +34408,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Materiais e composição",
         "paragraphs": [
-          "O lado frio é composto por 90% poliamida e 10% elastano. O lado quente é composto por 92% poliéster e 8% elastano. Essa diferença de composição entre as duas faces é o que sustenta, segundo a marca, a diferença de sensação térmica entre elas."
+          "O lado frio é composto por 90% poliamida e 10% elastano. O lado quente é composto por 92% poliéster e 8% elastano. Essa troca de tecido entre as faces é o que muda a sensação térmica, diz a marca."
         ],
         "bullets": []
       },
@@ -34425,7 +34425,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como lavar e cuidar do cobertor",
         "paragraphs": [
-          "As instruções de cuidado informadas pela marca recomendam lavagem a no máximo 30°C, à mão ou à máquina, sem uso de alvejante e sem passar a ferro. O produto também não deve ir à lavagem a seco. A secagem recomendada é natural, pendurado à sombra, sem uso de secadora."
+          "Lave o cobertor a no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco. Seque pendurado à sombra, sem secadora, como a marca recomenda."
         ],
         "bullets": []
       },
@@ -34444,7 +34444,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "Em 24/10/2026, no site oficial, o Cobertor IWS Igloo custava R$ 997,00 no tamanho Casal/Queen (preço original de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra. Por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
+          "Em 24/10/2026, no site oficial, o Cobertor IWS Igloo custava R$ 997,00 no tamanho Casal/Queen (preço original de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Preço e estoque mudam com as promoções, então confira a disponibilidade no site antes de fechar o pedido. No checkout, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
         ],
         "bullets": [],
         "links": [
@@ -34459,10 +34459,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM): basta virar o cobertor para trocar de sensação.",
           "O lado gelado do cobertor Igloo funciona? Na nossa primeira noite, sim: o toque frio é imediato e, quando esquentou de madrugada, bastou virar o cobertor. Não medimos com termômetro e ainda é cedo para falar de durabilidade.",
-          "O cobertor Igloo tem tamanho casal ou queen? Sim: Casal/Queen (220×240cm, ~2,06kg); também há King/Super King (240×260cm, ~2,4kg).",
+          "O cobertor Igloo tem tamanho casal ou queen? Sim, no tamanho Casal/Queen; há também King/Super King. As medidas e os pesos estão no capítulo Tamanhos disponíveis.",
           "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco, com secagem natural, à sombra.",
           "O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.",
-          "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? O Igloo é projetado para ser usado o ano todo graças à tecnologia Dual-Face. No verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM), segundo a marca, dissipa o calor corporal. No inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. A proposta é dispensar a troca de cobertor entre as estações, sendo uma solução prática para casais com temperaturas corporais diferentes.",
+          "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? Sim, o ano todo, graças à tecnologia Dual-Face. No verão ou para quem esquenta, use o lado frio (ICE-FEEL FIBER SYSTEM), que dissipa o calor do corpo, diz a marca. No inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. A proposta é dispensar a troca de cobertor entre as estações, sendo uma solução prática para casais com temperaturas corporais diferentes.",
           "O Cobertor IWS Igloo funciona para casais com temperaturas diferentes? Essa é uma das propostas principais do produto. Como o cobertor tem lado frio e lado quente, cada pessoa pode posicionar sua metade do corpo sobre a face que preferir. Além disso, o Balance System distribui o peso de forma uniforme, evitando que o cobertor se acumule de um lado só. Segundo a marca, a tecnologia Air-Flow também reduz a sensação de 'abafamento' comum em cobertores tradicionais.",
           "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? Não. O peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem causar pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg, distribuídos em uma área grande, o que resulta em uma pressão leve e reconfortante, sem a sensação de esmagamento de cobertores muito pesados.",
           "Posso usar o Cobertor IWS Igloo com lençol ou é melhor em contato direto com a pele? O fabricante recomenda usar o cobertor sobre o lençol, como cobertor final, para proteger as fibras tecnológicas das duas faces. No entanto, a superfície Silk-Glide é sedosa e confortável, então o uso direto sobre a pele não causa irritação. Para prolongar a vida útil e manter as propriedades térmicas intactas, a melhor prática é usar com lençol e lavar o Igloo apenas quando necessário.",
@@ -44497,7 +44497,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Cervical Coluna Relax®: modelo de destaque com formato côncavo central e curvas onduladas projetadas para apoiar a curvatura cervical de quem dorme de costas ou de lado;",
           "Cervical Original Neck Plus Gel™: une o contorno anatômico a partículas de gel. A fabricante divulga uma sensação térmica até 5°C mais fresca, voltada a quem muda de posição e sente calor durante a noite;",
-          "Neck Plus Charcoal™: mantém o contorno anatômico e incorpora carvão ativado à espuma. Segundo a ficha da fabricante, a estrutura microporosa foi desenvolvida para capturar alérgenos e ácaros e reduzir odores; é a opção da linha voltada também a pessoas sensíveis a agentes alergênicos."
+          "Neck Plus Charcoal™: mantém o contorno anatômico e incorpora carvão ativado à espuma. Segundo a fabricante, a estrutura microporosa foi desenvolvida para capturar alérgenos e ácaros e reduzir odores; é a opção da linha voltada também a pessoas sensíveis a agentes alergênicos."
         ],
         "links": [
           {
@@ -44528,10 +44528,10 @@ export const reviewsData: unknown[] = [
           "Quem pesquisa por travesseiro viscoelástico ou qual o melhor travesseiro nasa está, na prática, comparando variações de densidade e capa térmica dentro dessa mesma família de produto; a IWS tem quatro:"
         ],
         "bullets": [
-          "Snow®: viscoelástico de alta densidade com capa de toque frio que, segundo a fabricante, ajuda na troca térmica, uma alternativa para quem dorme de lado ou de costas e sente calor à noite;",
-          "Ergoblu™: perfil baixo com capa FrostyCover e núcleo TitanPro Gel. Segundo a ficha da fabricante, o formato pode reduzir pontos de pressão em até 60% e foi desenvolvido para quem sente calor durante a noite;",
-          "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. A fabricante apresenta esses recursos como auxiliares no conforto térmico, no controle de odores e no apoio em diferentes posições de sono;",
-          "Skin®: linha Anti-rugas que usa tecnologia Airgelly® na capa para reduzir o atrito e distribuir a pressão do rosto. A fabricante apresenta esse efeito como auxílio para suavizar as marcas verticais de sono conhecidas como \"sleep lines\"."
+          "Snow®: viscoelástico de alta densidade com capa de toque frio que ajuda na troca térmica, uma alternativa para quem dorme de lado ou de costas e sente calor à noite;",
+          "Ergoblu™: perfil baixo com capa FrostyCover e núcleo TitanPro Gel. O formato pode reduzir pontos de pressão em até 60% e foi pensado para quem sente calor durante a noite;",
+          "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. Ajudam no conforto térmico, no controle de odores e no apoio em diferentes posições de sono;",
+          "Skin®: para quem se incomoda com as marcas de sono no rosto (\"sleep lines\"), com capa Airgelly® que reduz o atrito. Não é a escolha por apoio cervical ou altura."
         ],
         "links": [
           {
@@ -44563,11 +44563,11 @@ export const reviewsData: unknown[] = [
         "heading": "A linha Antialérgica: materiais e higiene",
         "paragraphs": [
           "Um travesseiro lavável e o uso de capas protetoras facilitam a higiene da cama, mas não substituem a orientação de um profissional de saúde em caso de alergia.",
-          "Travesseiros acumulam suor, poeira e resíduos ao longo do uso, enquanto as instruções de lavagem variam conforme o material. A linha antialérgica da IWS procura facilitar essa rotina de higiene com modelos e materiais apresentados pela marca como adequados a pessoas sensíveis a agentes alergênicos, segundo a ficha."
+          "Travesseiros acumulam suor, poeira e resíduos ao longo do uso, enquanto as instruções de lavagem variam conforme o material. A linha antialérgica da IWS procura facilitar essa rotina de higiene com modelos e materiais apresentados pela marca como adequados a pessoas sensíveis a agentes alergênicos, segundo a fabricante."
         ],
         "bullets": [
-          "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável do catálogo, com material hipoalergênico, segundo a ficha. A marca oferece 30 dias de teste em casa;",
-          "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico da linha Cervical ao carvão ativado, cuja ação contra odores é uma alegação da ficha da fabricante."
+          "Airgelly® 2.0: o único travesseiro 100% lavável do catálogo, com material hipoalergênico e 30 dias de teste em casa (alegações da fabricante);",
+          "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico da linha Cervical ao carvão ativado, com carvão ativado, também alegado contra odores."
         ],
         "links": [
           {
@@ -44594,7 +44594,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Para quem dorme de lado, a altura do travesseiro deve preencher o espaço entre o ombro e a lateral da cabeça, ajudando a manter o pescoço em posição neutra.",
           "Se o travesseiro for muito baixo, a cabeça pode tombar em direção ao colchão; se for alto demais, o pescoço pode ficar inclinado para cima e causar desconforto.",
-          "A procura por travesseiro para dormir de lado costuma envolver justamente essa dúvida de altura. A solução nem sempre é comprar um modelo mais alto: um travesseiro regulável permite testar ajustes até encontrar uma posição confortável."
+          "A procura por travesseiro para dormir de lado costuma envolver justamente essa dúvida de altura. A solução nem sempre é comprar um modelo mais alto: se você não sabe sua altura, prefira o Snow® regulável ao Látex fixo, porque você ajusta em casa retirando o enchimento em vez de trocar de tamanho."
         ],
         "bullets": [
           "Snow®: chega em casa na altura máxima (18cm) e você mesmo retira porções do enchimento de memory foam flakes até achar o ponto certo para o seu biotipo e posição. É o principal modelo de cama da família Snow com ajuste por retirada de enchimento e vem em dois tamanhos de base (Regular 50x70cm e Plus 50x90cm, para camas King/Super King);",
@@ -44699,7 +44699,7 @@ export const reviewsData: unknown[] = [
           "A durabilidade de um travesseiro depende do material, da frequência de uso e dos cuidados com sujeira, suor e oleosidade no dia a dia."
         ],
         "bullets": [
-          "Nos modelos de viscoelástico citados neste guia, a fabricante orienta não lavar o enchimento; lave somente as capas removíveis conforme a etiqueta. Produtos de látex e outros materiais podem ter instruções diferentes, por isso consulte sempre a ficha do modelo;",
+          "Nos modelos de viscoelástico citados neste guia, a fabricante orienta não lavar o enchimento; lave somente as capas removíveis conforme a etiqueta. Produtos de látex e outros materiais podem ter instruções diferentes, por isso consulte sempre a página do modelo;",
           "Protex Bamboo™: capa protetora respirável apresentada pela fabricante como barreira física contra suor, oleosidade e ácaros, preservando a ventilação do travesseiro;",
           "Momento de reavaliar a troca: quando o travesseiro perder sustentação, mantiver deformações, apresentar danos ou deixar de oferecer conforto e higiene adequados, em vez de depender apenas de um prazo fixo."
         ]
@@ -44713,8 +44713,8 @@ export const reviewsData: unknown[] = [
           "Quer apoio cervical: considere a linha Cervical (Cervical Coluna Relax®); com dor persistente, procure um profissional de saúde;",
           "Quer um travesseiro fácil de higienizar: considere o Airgelly® 2.0 (100% lavável); com alergia ou rinite, fale com um profissional de saúde;",
           "Sente calor na cabeça durante a noite: considere o Travesseiro Snow® ou o Ergoblu™;",
-          "Quer ajustar a altura você mesmo até achar o ponto certo: escolha o Snow® (chega com 18 cm; retire o enchimento até a altura ideal);",
-          "Já sabe a altura certa e prefere não ajustar nada: escolha o Original Látex® (P com 11 cm, M com 13 cm ou G com 15 cm);",
+          "Quer ajustar a altura você mesmo até achar o ponto certo: escolha o Snow® (chega alto e você retira o enchimento até o ponto, como no capítulo de regulagem de altura);",
+          "Já sabe a altura certa e prefere não ajustar nada: escolha o Original Látex® no tamanho P, M ou G, com as alturas do mesmo capítulo;",
           "Dorme de lado e busca firmeza elástica: escolha o Original Látex®;",
           "Gosta de travesseiro fofo e moldável: escolha o Magnum Pluma AirFiber;",
           "Viaja com frequência e quer levar seu travesseiro: escolha o Snow® Mini ou o Travel Pillow U."
@@ -44797,7 +44797,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
         "alt": "Travesseiro Snow com tecido de toque frio",
-        "caption": "Travesseiro Snow: enchimento regulável e capa de toque frio, segundo a ficha da fabricante."
+        "caption": "Travesseiro Snow: enchimento regulável e capa de toque frio, segundo a fabricante."
       },
       {
         "image": "/images/reviews/iwannasleep/iws-missao-dormir-melhor.webp",
@@ -51342,11 +51342,11 @@ export const reviewsData: unknown[] = [
         "heading": "AirFiber e capa 100% algodão: o que muda no toque",
         "paragraphs": [
           "AirFiber é o nome que a I Wanna Sleep dá a uma fibra acrílica especial, exclusiva da marca no Brasil. A promessa é um toque parecido com o da pluma de ganso, mas sem pena de animal: o produto leva o selo **Animal Friendly**.",
-          "Por fora, a capa é de tecido 100% algodão, e a marca informa certificação OEKO-TEX®. Sobre calor, a I Wanna Sleep afirma que a combinação de AirFiber com algodão melhora a ventilação e evita que o pillow top esquente. É uma informação da marca: quem dorme com muito calor deve contar com o Sleeptest para avaliar na própria cama."
+          "Por fora, a capa é de tecido 100% algodão, e a marca informa certificação OEKO-TEX®. Sobre calor, a I Wanna Sleep afirma que a combinação de AirFiber com algodão melhora a ventilação e evita que o pillow top esquente. Quem dorme com muito calor tira a dúvida na própria cama, com os 30 dias de Sleeptest."
         ],
         "image": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-tecido.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep: detalhe do tecido do Pillow Top Magnum com gomos costurados e acabamento dourado",
-        "imageCaption": "Gomos costurados um a um e capa de algodão, segundo a ficha da marca.",
+        "imageCaption": "Gomos costurados um a um e capa de algodão, segundo a marca.",
         "imageFit": "square"
       },
       {
@@ -51406,10 +51406,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanhos e preços do Pillow Top Magnum",
         "paragraphs": [
-          "O Magnum aparece em quatro tamanhos no site da I Wanna Sleep. Os valores abaixo são os preços à vista exibidos na página do produto em 3 de outubro de 2026; a coluna com cupom é uma estimativa com os 10% do CECIEMCASA."
+          "O Magnum é vendido em quatro tamanhos no site da I Wanna Sleep. Os valores abaixo são os preços à vista exibidos na página do produto em 3 de outubro de 2026; a coluna com cupom é uma estimativa com os 10% do CECIEMCASA."
         ],
         "comparisonTable": {
-          "caption": "Pillow Top Magnum IWS: tamanhos e preços no site oficial (3 de outubro de 2026)",
+          "caption": "Pillow Top Magnum IWS: tamanhos e preços no site oficial",
           "headers": [
             "Tamanho",
             "Medidas",
@@ -51487,7 +51487,7 @@ export const reviewsData: unknown[] = [
           "O Pillow Top Magnum esquenta? Segundo a I Wanna Sleep, a combinação de AirFiber com capa 100% algodão melhora a ventilação e evita que ele esquente. Quem sente muito calor pode testar pelo Sleeptest.",
           "Pode lavar pillow top na máquina? O Magnum deve ser lavado a seco ou em lavanderia profissional, segundo a marca. Use capa protetora por cima para lavar só ela no dia a dia.",
           "Quanto tempo o pillow top leva para encher? A marca orienta afofar gomo a gomo e deixar descansar por 6 horas antes do primeiro uso.",
-          "Tem cupom para o Pillow Top Magnum? Sim. O cupom CECIEMCASA dá 10% de desconto no site oficial da I Wanna Sleep. Confira o valor no checkout antes de pagar."
+          "Tem cupom para o Pillow Top Magnum? Sim: o CECIEMCASA dá 10% no site oficial da I Wanna Sleep, com o valor final no checkout."
         ]
       }
     ],
