@@ -10,8 +10,6 @@ scripts/deploy/** export-ignore
 scripts/generate-migration-reports.ts export-ignore
 scripts/harmonize-reward-articles.mjs export-ignore
 scripts/migrate-categories.mjs export-ignore
-scripts/test-yesstyle-mutation.ts export-ignore
-scripts/validate-content-model.ts export-ignore
 scripts/validate-pretext.ts export-ignore
 
 # Duplicata byte a byte do logo canônico, sem consumidor no código ou conteúdo.
