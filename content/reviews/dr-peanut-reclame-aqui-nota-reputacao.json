@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Os números da Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12 meses, 95,6% das reclamações respondidas, 84,2% resolvidas, o que mais gera queixa e o que fazer se o pedido der problema.",
-  "metaDescription": "Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12. Veja respostas, solução, recompra e as queixas mais comuns.",
+  "description": "Os números da Dr. Peanut no Reclame Aqui: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12 meses, 95,6% das reclamações respondidas, 84,2% resolvidas, o que mais gera queixa e o que fazer se o pedido der problema.",
+  "metaDescription": "Dr. Peanut no Reclame Aqui: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12. Veja respostas, solução, recompra e as queixas mais comuns.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
   "draft": false,
@@ -37,6 +37,7 @@
     "Pedido não recebido e entrega lideram as queixas de até 3 anos",
     "Uma semana de resposta ainda é tempo para quem espera um pedido"
   ],
+  "bodyDatesReason": "reclame-aqui",
   "contentSections": [
     {
       "heading": "Resposta rápida",
@@ -49,16 +50,16 @@
       "paragraphs": [
         "A Dr. Peanut vende pelo próprio site, e a empresa é uma fábrica de Curitiba (PR). Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista; aqui o assunto é a loja.",
         "O perfil mostra, com data, a reputação da empresa, quantas reclamações recebeu, quantas respondeu, quantas o consumidor considerou resolvidas e quantos voltariam a fazer negócio. São essas medidas que usamos aqui.",
-        "Em 14/10/2026, o perfil \"Dr. Peanut\" aparecia na categoria Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Os números do Reclame Aqui mudam com o tempo e cada aba do perfil cobre um período próprio, por isso todos os dados abaixo trazem a data da consulta e o intervalo de cada aba. Vale abrir o perfil de novo no dia da sua compra."
+        "Em 14/10/2026, o perfil \"Dr. Peanut\" aparecia na categoria Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Os números do Reclame Aqui mudam com o tempo e cada aba do perfil cobre um período próprio, por isso todos os dados abaixo trazem o intervalo de cada aba. Vale abrir o perfil de novo no dia da sua compra."
       ]
     },
     {
       "heading": "Os números da Dr. Peanut no Reclame Aqui",
       "paragraphs": [
-        "O perfil tem abas por período. Estas são as três que consultamos em 14/10/2026: os últimos 6 meses, os últimos 12 meses e o ano de 2025. Cada aba conta só as reclamações abertas dentro do próprio intervalo."
+        "O perfil tem abas por período. Estas são as três que consultamos: os últimos 6 meses, os últimos 12 meses e o ano de 2025. Cada aba conta só as reclamações abertas dentro do próprio intervalo."
       ],
       "comparisonTable": {
-        "caption": "Perfil da Dr. Peanut no Reclame Aqui, abas de 6 meses, 12 meses e 2025, consultadas em 14/10/2026.",
+        "caption": "Perfil da Dr. Peanut no Reclame Aqui, abas de 6 meses, 12 meses e 2025.",
         "headers": [
           "Indicador",
           "6 meses (01/04 a 30/09/2026)",
@@ -128,22 +129,22 @@
       "images": [
         {
           "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-6-meses.webp",
-          "alt": "Aba de 6 meses do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026",
-          "caption": "Aba de 6 meses do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+          "alt": "Aba de 6 meses do perfil da Dr. Peanut no Reclame Aqui",
+          "caption": "Aba de 6 meses do perfil da Dr. Peanut no Reclame Aqui. O marca-texto amarelo é nosso.",
           "objectFit": "contain",
           "aspectRatio": 0.3093
         },
         {
           "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-12-meses.webp",
-          "alt": "Aba de 12 meses do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/10/2025 a 30/09/2026",
-          "caption": "Aba de 12 meses do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/10/2025 a 30/09/2026 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+          "alt": "Aba de 12 meses do perfil da Dr. Peanut no Reclame Aqui",
+          "caption": "Aba de 12 meses do perfil da Dr. Peanut no Reclame Aqui. O marca-texto amarelo é nosso.",
           "objectFit": "contain",
           "aspectRatio": 0.309
         },
         {
           "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-2025.webp",
-          "alt": "Aba de 2025 do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/01 a 31/12/2025",
-          "caption": "Aba de 2025 do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/01 a 31/12/2025 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+          "alt": "Aba de 2025 do perfil da Dr. Peanut no Reclame Aqui",
+          "caption": "Aba de 2025 do perfil da Dr. Peanut no Reclame Aqui. O marca-texto amarelo é nosso.",
           "objectFit": "contain",
           "aspectRatio": 0.3101
         }
@@ -152,16 +153,16 @@
     {
       "heading": "O que os números mostram",
       "paragraphs": [
-        "**Menos reclamações.** Como os 6 meses estão dentro dos 12, os 6 meses anteriores (de 01/10/2025 a 31/03/2026) somam cerca de 121 reclamações, contra as 68 mais recentes. O volume vem caindo de um período para o outro.",
+        "**Menos reclamações.** Como os 6 meses estão dentro dos 12, os 6 meses anteriores somam cerca de 121 reclamações, contra as 68 mais recentes. O volume vem caindo de um período para o outro.",
         "**Resposta mais rápida.** O tempo médio caiu em relação aos períodos mais longos, mas uma semana ainda é tempo para quem espera um pedido.",
         "**Mais resolvidas que em 2025, menos recompra.** A solução e a nota média do consumidor subiram em relação a 2025. A recompra dos últimos 6 meses (52,6%) ficou abaixo da de 2025 (57,1%). A nota média do consumidor segue abaixo de 7 nos três períodos (6,21; 6,94; 5,41).",
-        "**Por que a reputação caiu.** A reputação foi de Boa em 2025 para Ótima em 12 meses e voltou a Boa em 6 meses. A conta é do período: a aba de 6 meses olha só as reclamações de abril a setembro de 2026, e a de 12 meses também inclui os 6 meses anteriores, que tiveram mais reclamações. No recorte de abril a setembro de 2026, a solução (84,2%), a recompra (52,6%) e a nota do consumidor (6,21) ficaram abaixo dos de 12 meses. O volume de reclamações não aumentou: caiu.",
+        "**Por que a reputação caiu.** A reputação foi de Boa em 2025 para Ótima em 12 meses e voltou a Boa em 6 meses. A conta é do período: a aba de 6 meses olha só as reclamações de abril a setembro, e a de 12 meses também inclui os 6 meses anteriores, que tiveram mais reclamações. No recorte de abril a setembro, a solução (84,2%), a recompra (52,6%) e a nota do consumidor (6,21) ficaram abaixo dos de 12 meses. O volume de reclamações não aumentou: caiu.",
         "Também vale não exagerar na leitura. Poucas reclamações, e poucas avaliadas, não provam qualidade. A reputação Boa é a de uma empresa que responde e resolve a maior parte dos casos, e em que quase metade de quem avaliou nos últimos 6 meses não voltaria a fazer negócio."
       ],
       "image": {
         "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp",
-        "alt": "Perfil da Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa, avaliações de compra 4,6 de 5 e o quadro da aba de 6 meses",
-        "caption": "O topo do perfil da Dr. Peanut no Reclame Aqui e a aba de 6 meses, consultados em 14/10/2026.",
+        "alt": "Perfil da Dr. Peanut no Reclame Aqui: reputação Boa, avaliações de compra 4,6 de 5 e o quadro da aba de 6 meses",
+        "caption": "O topo do perfil da Dr. Peanut no Reclame Aqui e a aba de 6 meses.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
@@ -169,10 +170,10 @@
     {
       "heading": "O que mais aparece nas reclamações da Dr. Peanut",
       "paragraphs": [
-        "O Reclame Aqui reúne as reclamações de até 3 anos, da aba geral, em três listas: categoria, problema e produto. Em 14/10/2026, as três apontam para o mesmo lugar, a entrega:"
+        "O Reclame Aqui reúne as reclamações de até 3 anos, da aba geral, em três listas: categoria, problema e produto. As três apontam para o mesmo lugar, a entrega:"
       ],
       "comparisonTable": {
-        "caption": "Principais problemas no perfil da Dr. Peanut no Reclame Aqui, reclamações de até 3 anos (consulta em 14/10/2026)",
+        "caption": "Principais problemas no perfil da Dr. Peanut no Reclame Aqui, reclamações de até 3 anos",
         "headers": [
           "Lista",
           "Item que lidera",
@@ -202,14 +203,14 @@
       ],
       "image": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-principais-problemas.webp",
       "imageAlt": "Principais problemas comentados no perfil da Dr. Peanut no Reclame Aqui, com reclamações de até 3 anos da aba geral",
-      "imageCaption": "Principais problemas comentados no perfil da Dr. Peanut no Reclame Aqui, com reclamações de até 3 anos da aba geral (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+      "imageCaption": "Principais problemas comentados no perfil da Dr. Peanut no Reclame Aqui, com reclamações de até 3 anos da aba geral. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.224
     },
     {
       "heading": "O selo do site e o perfil do Reclame Aqui",
       "paragraphs": [
-        "O rodapé do site da Dr. Peanut, no bloco \"Segurança e Qualidade\", mostra um selo \"RA 4.7 Ótimo\". Em 14/10/2026, o perfil da empresa no Reclame Aqui mostrava Boa (7,4) em 6 meses, Ótima (8,1) em 12 meses e 4,6 de 5 nas avaliações de compra.",
+        "O rodapé do site da Dr. Peanut, no bloco \"Segurança e Qualidade\", mostra um selo \"RA 4.7 Ótimo\". O perfil da empresa no Reclame Aqui mostrava Boa (7,4) em 6 meses, Ótima (8,1) em 12 meses e 4,6 de 5 nas avaliações de compra.",
         "O rodapé não informa a que período ou medida o selo se refere. Para decidir, abra o perfil direto no Reclame Aqui, no dia da compra."
       ]
     },
@@ -217,7 +218,7 @@
       "heading": "Se o seu pedido da Dr. Peanut der problema: o que fazer",
       "paragraphs": [
         "Se o pedido atrasar ou não chegar, acompanhe o rastreio e escreva para o SAC com o número do pedido assim que o prazo informado passar.",
-        "O atendimento é pelo e-mail sac@supley.com.br; a Política de Trocas e Devoluções, em 14/10/2026, define prazos e custos nestes casos:"
+        "O atendimento é pelo e-mail sac@supley.com.br; a Política de Trocas e Devoluções define prazos e custos nestes casos:"
       ],
       "bullets": [
         "**Caixa avariada, embalagem violada ou item errado na entrega:** você pode recusar a encomenda e escrever o motivo no verso da nota fiscal.",
@@ -239,18 +240,18 @@
     {
       "heading": "Dá para confiar na Dr. Peanut?",
       "paragraphs": [
-        "Dá para comprar com cautela. O Reclame Aqui mostra uma empresa que responde quase tudo (95,6% nos últimos 6 meses) e resolve a maior parte entre as reclamações avaliadas (84,2%), com reputação Boa em 6 meses (nota 7,4) e Ótima em 12 meses (nota 8,1). Em 14/10/2026, as avaliações de compra do perfil estavam em 4,6 de 5.",
-        "A tendência ajuda: foram 510 reclamações em 2025, 189 nos 12 meses até setembro de 2026 e 68 nos últimos 6 meses, e a resposta ficou mais rápida (7 dias e 7 horas).",
+        "Dá para comprar com cautela. O Reclame Aqui mostra uma empresa que responde quase tudo (95,6% nos últimos 6 meses) e resolve a maior parte entre as reclamações avaliadas (84,2%), com reputação Boa em 6 meses (nota 7,4) e Ótima em 12 meses (nota 8,1). As avaliações de compra do perfil estavam em 4,6 de 5.",
+        "A tendência ajuda: foram 510 reclamações em 2025, 189 nos 12 meses até setembro e 68 nos últimos 6 meses, e a resposta ficou mais rápida (7 dias e 7 horas).",
         "Os pontos de atenção são dois. Só 52,6% de quem avaliou nos últimos 6 meses voltaria a fazer negócio, e o que mais aparece nas queixas é pedido não recebido e entrega. Por isso, acompanhe o rastreio, guarde o número do pedido e abra o perfil no Reclame Aqui no dia da compra."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Dr. Peanut é confiável segundo o Reclame Aqui? Em 14/10/2026, a reputação era Boa nos últimos 6 meses e Ótima nos últimos 12. A empresa responde quase todas as reclamações e resolve a maior parte, mas só cerca de metade de quem avaliou nos últimos 6 meses voltaria a comprar.",
-        "Qual a nota da Dr. Peanut no Reclame Aqui? Em 14/10/2026: 7,4 nos últimos 6 meses, 8,1 nos últimos 12 meses e 7,1 em 2025. As avaliações de compra do topo do perfil estavam em 4,6 de 5.",
+        "A Dr. Peanut é confiável segundo o Reclame Aqui? A reputação era Boa nos últimos 6 meses e Ótima nos últimos 12. A empresa responde quase todas as reclamações e resolve a maior parte, mas só cerca de metade de quem avaliou nos últimos 6 meses voltaria a comprar.",
+        "Qual a nota da Dr. Peanut no Reclame Aqui? Eram 7,4 nos últimos 6 meses, 8,1 nos últimos 12 meses e 7,1 em 2025. As avaliações de compra do topo do perfil estavam em 4,6 de 5.",
         "A Dr. Peanut responde às reclamações? Responde. Nos últimos 6 meses, 95,6% das reclamações foram respondidas, em média em 7 dias e 7 horas.",
-        "Por que a reputação é \"Boa\" em 6 meses e \"Ótima\" em 12 meses? Cada aba conta só as reclamações do próprio período: a de 6 meses vai de 01/04 a 30/09/2026 e a de 12 meses, de 01/10/2025 a 30/09/2026. Nos últimos 6 meses, a nota ficou em 7,4, abaixo dos 8,1 de 12 meses.",
+        "Por que a reputação é \"Boa\" em 6 meses e \"Ótima\" em 12 meses? Cada aba conta só as reclamações do próprio período: a de 6 meses cobre só os seis meses mais recentes e a de 12 meses inclui os seis anteriores. Nos últimos 6 meses, a nota ficou em 7,4, abaixo dos 8,1 de 12 meses.",
         "O que fazer se o pedido da Dr. Peanut atrasar ou chegar avariado? Se atrasar, acompanhe o rastreio e escreva para sac@supley.com.br com o número do pedido. Se a caixa chegar avariada, você pode recusar na entrega e escrever o motivo no verso da nota fiscal."
       ]
     }

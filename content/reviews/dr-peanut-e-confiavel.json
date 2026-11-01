@@ -72,27 +72,27 @@
       ],
       "bullets": [
         "**Endereço.** O botão da loja leva a https://www.drpeanut.com.br/. Confira o endereço na barra do navegador antes de colocar qualquer dado.",
-        "**Rodapé com CNPJ e endereço.** Em 14/10/2026 o rodapé traz \"DR. PEANUT - CNPJ 28.324.667/0001-69 - RUA MARTHA GEMBAROSKI TULESKI, 320 - CIC. CURITIBA/PR\". Se o CNPJ do rodapé for outro, desconfie.",
+        "**Rodapé com CNPJ e endereço.** O rodapé traz \"DR. PEANUT - CNPJ 28.324.667/0001-69 - RUA MARTHA GEMBAROSKI TULESKI, 320 - CIC. CURITIBA/PR\". Se o CNPJ do rodapé for outro, desconfie.",
         "**Selo de segurança.** O rodapé mostra \"Site Seguro SSL\" e indica que a loja roda na plataforma VTEX. O selo é uma informação do próprio site: ele indica conexão criptografada, mas não prova sozinho que a loja é a oficial. Use junto com os outros pontos.",
         "**Formas de pagamento.** O rodapé mostra os ícones de pagamento (cartões, boleto, débito online pelos bancos e Pix), listados na seção de frete e pagamento.",
         "**Quem vende.** No carrinho, os produtos aparecem como \"Produto fornecido e entregue por Dr. Peanut\". Se o vendedor for outro, você está num marketplace e não na loja oficial.",
         "**Cupom.** Na loja oficial, o cupom vai no campo \"Insira o seu cupom abaixo\", no carrinho."
       ],
       "image": "/images/reviews/dr-peanut/dr-peanut-rodape-cnpj.webp",
-      "imageAlt": "Rodapé do site da Dr. Peanut em 14/10/2026, com CNPJ, endereço, formas de pagamento e o selo Site Seguro SSL",
-      "imageCaption": "Rodapé do site da Dr. Peanut em 14/10/2026, com CNPJ, endereço, formas de pagamento e o selo Site Seguro SSL. O destaque amarelo no CNPJ é nosso.",
+      "imageAlt": "Rodapé do site da Dr. Peanut, com CNPJ, endereço, formas de pagamento e o selo Site Seguro SSL",
+      "imageCaption": "Rodapé do site da Dr. Peanut, com CNPJ, endereço, formas de pagamento e o selo Site Seguro SSL. O destaque amarelo no CNPJ é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 8.205
     },
     {
       "heading": "O que a Dr. Peanut vende",
       "paragraphs": [
-        "A Dr. Peanut é conhecida pelas pastas de amendoim e tem mais categorias na loja. Em 14/10/2026, o menu do site traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores:"
+        "A Dr. Peanut é conhecida pelas pastas de amendoim e tem mais categorias na loja. O menu do site traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores:"
       ],
       "image": {
         "src": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
-        "alt": "Página inicial do site da Dr. Peanut (drpeanut.com.br) em 14/10/2026",
-        "caption": "A página inicial do site da Dr. Peanut, drpeanut.com.br, em 14/10/2026.",
+        "alt": "Página inicial do site da Dr. Peanut (drpeanut.com.br)",
+        "caption": "A página inicial do site da Dr. Peanut, drpeanut.com.br.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
@@ -110,10 +110,10 @@
     {
       "heading": "Trocas, devoluções e defeito na Dr. Peanut",
       "paragraphs": [
-        "A \"Política de Trocas e Devoluções\" está publicada no site. Em 14/10/2026, ela separa três situações, e o que muda de uma para outra é o prazo e quem paga o frete:"
+        "A \"Política de Trocas e Devoluções\" está publicada no site. Ela separa três situações, e o que muda de uma para outra é o prazo e quem paga o frete:"
       ],
       "comparisonTable": {
-        "caption": "Política de Trocas e Devoluções da Dr. Peanut em 14/10/2026",
+        "caption": "Política de Trocas e Devoluções da Dr. Peanut",
         "headers": [
           "Situação",
           "Prazo",
@@ -148,10 +148,10 @@
     {
       "heading": "Frete grátis e formas de pagamento",
       "paragraphs": [
-        "A Dr. Peanut dá frete grátis a partir de um valor mínimo, que depende da região. Em 14/10/2026, a política era esta:"
+        "A Dr. Peanut dá frete grátis a partir de um valor mínimo, que depende da região. A política era esta:"
       ],
       "comparisonTable": {
-        "caption": "Frete grátis da Dr. Peanut por região em 14/10/2026",
+        "caption": "Frete grátis da Dr. Peanut por região",
         "headers": [
           "Região",
           "Frete grátis a partir de"
@@ -175,7 +175,7 @@
     {
       "heading": "E a reputação no Reclame Aqui?",
       "paragraphs": [
-        "No Reclame Aqui, a Dr. Peanut aparece com reputação **Boa** nos últimos 6 meses (nota 7,4) e **Ótima** nos últimos 12 meses (nota 8,1), em 14/10/2026. Os números, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no nosso artigo sobre o assunto."
+        "No Reclame Aqui, a Dr. Peanut aparece com reputação **Boa** nos últimos 6 meses (nota 7,4) e **Ótima** nos últimos 12 meses (nota 8,1). Os números, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no nosso artigo sobre o assunto."
       ],
       "links": [
         {
@@ -188,7 +188,7 @@
       "heading": "Parceria e cupom",
       "paragraphs": [
         "O Em Casa com Cecília tem parceria com a Dr. Peanut e pode receber comissão pelas compras feitas com o cupom **DREMCASACOMCECILIA**. Ele dá 10% OFF em todo o site, vale em todas as formas de pagamento e se soma às promoções que estiverem no ar. Também vale tanto para quem já tem conta na loja quanto para quem cria uma agora.",
-        "O cupom entra no campo \"Insira o seu cupom abaixo\", no carrinho. Em 13/10/2026, testamos o cupom num pedido real, e o desconto de 10% entrou em todos os itens, inclusive na pasta de amendoim que já estava em promoção. O passo a passo, com o que apareceu em cada tela, está no artigo do cupom. Os termos atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut)."
+        "O cupom entra no campo \"Insira o seu cupom abaixo\", no carrinho. Testamos o cupom num pedido real, e o desconto de 10% entrou em todos os itens, inclusive na pasta de amendoim que já estava em promoção. O passo a passo, com o que apareceu em cada tela, está no artigo do cupom. Os termos atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut)."
       ],
       "links": [
         {
@@ -207,14 +207,14 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Dr. Peanut é confiável? Sim. É uma fábrica de alimentos de Curitiba com CNPJ ativo desde 2017, a Supley é sócia da empresa, as políticas de troca e de frete têm prazos e valores escritos, e o Reclame Aqui mostra reputação Boa em 6 meses e Ótima em 12 meses (em 14/10/2026).",
+        "A Dr. Peanut é confiável? Sim. É uma fábrica de alimentos de Curitiba com CNPJ ativo desde 2017, a Supley é sócia da empresa, as políticas de troca e de frete têm prazos e valores escritos, e o Reclame Aqui mostra reputação Boa em 6 meses e Ótima em 12 meses.",
         "A Dr. Peanut é brasileira? Sim. A empresa é a Body Food Fabricantes de Alimentos Saudáveis Ltda., com matriz em Curitiba (PR) e atividade de fabricação de produtos alimentícios no CNPJ.",
         "A Dr. Peanut é da Max Titanium? Não: as duas são marcas irmãs, ligadas à mesma empresa, a Supley. O site da Dr. Peanut chega a vender um whey que leva o nome das duas.",
         "De quem é a Dr. Peanut? A empresa é a Body Food Fabricantes de Alimentos Saudáveis Ltda., e a Supley Laboratório de Alimentos e Suplementos Nutricionais aparece como sócia no CNPJ. A Supley reúne também Max Titanium, Probiótica e Znack That.",
         "O site da Dr. Peanut é seguro? O site oficial, drpeanut.com.br, mostra o selo \"Site Seguro SSL\", roda na plataforma VTEX e traz CNPJ e endereço no rodapé. Confira sempre o endereço antes de pagar.",
         "Qual é o CNPJ da Dr. Peanut? É 28.324.667/0001-69, da Body Food Fabricantes de Alimentos Saudáveis Ltda., com sede na Rua Martha Gembaroski Tuleski, 320, no bairro CIC, em Curitiba (PR).",
         "Posso trocar um produto da Dr. Peanut? Pode. Por arrependimento, são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. Por defeito, são 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras. Na troca por outro produto, o frete de ida e de volta é seu.",
-        "A Dr. Peanut tem frete grátis? Tem. O mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom (em 14/10/2026).",
+        "A Dr. Peanut tem frete grátis? Tem. O mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom.",
         "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA dá 10% OFF em todo o site e vale na primeira compra e nas seguintes, em todas as formas de pagamento e somando com as promoções. A [página do cupom da Dr. Peanut](/cupons/dr-peanut) traz as condições atuais."
       ]
     }

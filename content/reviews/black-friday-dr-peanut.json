@@ -58,6 +58,7 @@
       "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram"
     }
   ],
+  "bodyDatesReason": "campanha",
   "contentSections": [
     {
       "heading": "Resposta rápida: Black Friday Dr. Peanut 2026",
@@ -69,13 +70,13 @@
       "heading": "A Dr. Peanut faz Black Friday?",
       "paragraphs": [
         "Para 2026, a loja não publicou nada até 14/10/2026. Na home, o que aparecia era o aviso de frete grátis por região e banners de combos (Flavor Fusion, Favoritos da Galera e a assinatura Pro), sem preço no texto e sem menção à Black Friday. Também não havia datas de início e fim nem lista de produtos da campanha.",
-        "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM de 18/02/2025, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha.",
-        "Da Black Friday de 2025, em 14/10/2026 não encontramos anúncio oficial da Dr. Peanut. Por isso este guia não usa ofertas de anos anteriores como régua de preço."
+        "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha.",
+        "Da Black Friday de 2025, não encontramos anúncio oficial da Dr. Peanut. Por isso este guia não usa ofertas de anos anteriores como régua de preço."
       ],
       "image": {
         "src": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
-        "alt": "Página inicial do site da Dr. Peanut em 14/10/2026, com o banner da assinatura Assinou, economizou! e até 15% OFF",
-        "caption": "A página inicial da Dr. Peanut em 14/10/2026, com o banner da assinatura Assinou, economizou! e até 15% OFF.",
+        "alt": "Página inicial do site da Dr. Peanut com o banner da assinatura Assinou, economizou! e até 15% OFF",
+        "caption": "A página inicial da Dr. Peanut, com o banner da assinatura Assinou, economizou! e até 15% OFF.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
@@ -92,22 +93,22 @@
       ],
       "postParagraphs": [
         "A loja dá 5% de desconto no Pix. Se esse desconto soma com o cupom, só o resumo do carrinho mostra.",
-        "O teste de 13/10/2026 mostra a soma do cupom com a promoção. O carrinho tinha três itens, entre eles uma pasta de amendoim em promoção, de R$ 64,90 por R$ 59,89. O subtotal era de R$ 440,16. Com o cupom, a linha \"Descontos\" abateu R$ 44,02, que são 10% do subtotal, e o total ficou em **R$ 396,14**.",
+        "O teste no carrinho mostra a soma do cupom com a promoção. O carrinho tinha três itens, entre eles uma pasta de amendoim em promoção, de R$ 64,90 por R$ 59,89. O subtotal era de R$ 440,16. Com o cupom, a linha \"Descontos\" abateu R$ 44,02, que são 10% do subtotal, e o total ficou em **R$ 396,14**.",
         "Se a linha \"Descontos\" não aparecer no resumo do carrinho, o cupom não foi aplicado. Confira se o código está escrito igual, sem letra faltando."
       ],
       "image": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
-      "imageAlt": "Resumo do carrinho da Dr. Peanut em 13/10/2026 com o código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14",
-      "imageCaption": "Resumo do carrinho em 13/10/2026 com o código DREMCASACOMCECILIA aceito: Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14. O marca-texto amarelo é nosso.",
+      "imageAlt": "Resumo do carrinho da Dr. Peanut com o código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14",
+      "imageCaption": "Resumo do carrinho com o código DREMCASACOMCECILIA aceito: Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.0423
     },
     {
       "heading": "Frete grátis por região: a conta com o cupom",
       "paragraphs": [
-        "O frete grátis da Dr. Peanut depende de onde você mora, e a loja confere o mínimo sobre o **total já com o cupom**. Em 14/10/2026, a política era esta. O frete grátis vale na opção de entrega mais barata. Como o DREMCASACOMCECILIA tira 10%, o carrinho precisa passar do mínimo antes do desconto. A coluna da direita é a nossa conta: o valor mínimo dividido por 0,9, arredondado para cima."
+        "O frete grátis da Dr. Peanut depende de onde você mora, e a loja confere o mínimo sobre o **total já com o cupom**. A política era esta. O frete grátis vale na opção de entrega mais barata. Como o DREMCASACOMCECILIA tira 10%, o carrinho precisa passar do mínimo antes do desconto. A coluna da direita é a nossa conta: o valor mínimo dividido por 0,9, arredondado para cima."
       ],
       "comparisonTable": {
-        "caption": "Frete grátis da Dr. Peanut por região em 14/10/2026: mínimo da loja, com o cupom já aplicado, e o subtotal mínimo antes do cupom pela nossa conta.",
+        "caption": "Frete grátis da Dr. Peanut por região: mínimo da loja, com o cupom já aplicado, e o subtotal mínimo antes do cupom pela nossa conta.",
         "headers": [
           "Região",
           "Frete grátis a partir de (total com o cupom)",
@@ -131,8 +132,8 @@
         "Os valores são de 14/10/2026. Reconfira o aviso do carrinho em novembro: ele mostra o mínimo da sua região no momento da compra."
       ],
       "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
-      "imageAlt": "Carrinho da Dr. Peanut em 13/10/2026, antes do cupom, com a faixa do frete grátis no topo, três itens e Total de R$ 440,16",
-      "imageCaption": "Carrinho da Dr. Peanut em 13/10/2026, antes do cupom: a faixa laranja no topo diz que o frete grátis conta o total já com o cupom, a partir de R$ 149,90. O marca-texto amarelo é nosso.",
+      "imageAlt": "Carrinho da Dr. Peanut antes do cupom, com a faixa do frete grátis no topo, três itens e Total de R$ 440,16",
+      "imageCaption": "Carrinho da Dr. Peanut antes do cupom: a faixa laranja no topo diz que o frete grátis conta o total já com o cupom, a partir de R$ 149,90. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.6075
     },
@@ -157,9 +158,9 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Dr. Peanut tem Black Friday? Em 14/10/2026 a loja ainda não tinha anunciado datas, produtos nem preços da campanha de 2026. A Black Friday é em 27 de novembro, e a Cyber Monday, em 30 de novembro.",
-        "O cupom DREMCASACOMCECILIA soma com promoção? Soma. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e valeu também sobre a pasta de amendoim que já estava em promoção no nosso teste de 13/10/2026.",
-        "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido sobre o total já com o cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte (política em 14/10/2026).",
+        "A Dr. Peanut tem Black Friday? Até a última conferência a loja ainda não tinha anunciado datas, produtos nem preços da campanha de 2026. A Black Friday é na última sexta-feira de novembro, e a Cyber Monday, na segunda-feira seguinte.",
+        "O cupom DREMCASACOMCECILIA soma com promoção? Soma. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e valeu também sobre a pasta de amendoim que já estava em promoção no nosso teste.",
+        "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido sobre o total já com o cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
         "Quanto o carrinho precisa ter antes do cupom para ter frete grátis? Pela nossa conta, R$ 166,56 em São Paulo capital, Sudeste e Sul e R$ 222,12 no Centro-Oeste, Nordeste e Norte. O aviso do carrinho confirma depois de aplicar o código.",
         "A Dr. Peanut tem desconto no Pix? Tem, de 5%. O cupom vale em todas as formas de pagamento, inclusive no Pix.",
         "Dá para trocar um produto da Dr. Peanut? Dá. Por arrependimento, são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. Na troca por outro produto, o frete de ida e de volta é seu. Por defeito, são 30 dias para alimentos.",

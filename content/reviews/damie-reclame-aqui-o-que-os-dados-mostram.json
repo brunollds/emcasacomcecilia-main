@@ -61,7 +61,7 @@
       "image": {
         "src": "/images/reviews/damie-reclame-aqui-hero.webp",
         "alt": "Painel do Reclame Aqui da Damie Móveis mostrando nota 8.0 e reputação Ótimo.",
-        "caption": "Painel da Damie Móveis no Reclame Aqui, consultado em junho de 2026.",
+        "caption": "Painel da Damie Móveis no Reclame Aqui.",
         "objectFit": "contain",
         "aspectRatio": 0.8664
       }
@@ -138,10 +138,10 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual a nota da Damie no Reclame Aqui? A Damie Móveis tem nota 8,0/10 no Reclame Aqui (consultado em junho de 2026), com classificação Ótimo. A empresa responde 100% das reclamações recebidas e resolve 81,7% delas. A nota é calculada com janela móvel de 6 meses e pode variar.",
+        "Qual a nota da Damie no Reclame Aqui? A Damie Móveis tem nota 8,0/10 no Reclame Aqui, com classificação Ótimo. A empresa responde 100% das reclamações recebidas e resolve 81,7% delas. A nota é calculada com janela móvel de 6 meses e pode variar.",
         "O que aparece nas reclamações da Damie? A maioria dos 324 casos registrados envolve logística de transportadoras terceirizadas — atraso ou dificuldade de subir volumes grandes em escadas e elevadores pequenos. Em menor escala, há relatos de variação de odor ou textura em revestimentos de couro bovino original.",
         "A nota 8,0 da Damie é boa para o setor de móveis online? Sim. No setor de móveis e estofados vendidos pela internet, é comum encontrar marcas com notas na faixa de regular ou insuficiente no Reclame Aqui. A nota 8,0 com classificação Ótimo, resposta de 100% e tempo médio de resposta de 14 horas coloca a Damie acima da média do setor.",
-        "A Damie resolve reclamações? Segundo os dados do Reclame Aqui de junho de 2026, a Damie responde 100% das reclamações e resolve 81,7% delas, com 70,9% dos consumidores afirmando que voltariam a fazer negócio com a marca.",
+        "A Damie resolve reclamações? Segundo os dados do Reclame Aqui, a Damie responde 100% das reclamações e resolve 81,7% delas, com 70,9% dos consumidores afirmando que voltariam a fazer negócio com a marca.",
         "É possível desistir ou cancelar uma compra da Damie? Sim. Além dos 30 dias de teste garantidos por lei e pela própria política da empresa, a taxa de arrependimento, cancelamento ou desistência registrada no Reclame Aqui é praticamente nula. Isso indica que a maioria dos consumidores que compram pelo site ficam satisfeitos e não acionam a devolução.",
         "A Damie é confiável para comprar sofá pela internet? Sim, com ressalvas de planejamento. A Damie possui nota 8,0/10 no Reclame Aqui, classificação 'Ótimo', responde 100% das reclamações e resolve mais de 80% dos casos. O principal risco não é fraude, mas a logística de entrega: móveis grandes dependem de transportadoras terceirizadas e exigem que o cliente meça corredores e elevadores antes da compra.",
         "Quanto tempo a Damie demora para entregar? O prazo varia conforme a região e o tipo de produto. Para capitais e regiões metropolitanas, a entrega costuma ocorrer em 7 a 15 dias úteis. Para cidades do interior, pode ultrapassar 20 dias úteis. A Damie trabalha com transportadora especializada e o rastreamento é enviado por e-mail após o despacho.",
@@ -151,18 +151,7 @@
         "Cupom Damie 15: existe cupom de 15%? O CECILIA12 garante 12% de desconto sem limitação de data ou evento, enquanto cupons de 15% podem ser sazonais e limitados. Recomendamos sempre testar o CECILIA12 no checkout para comparar qual oferece o maior desconto naquele momento.",
         "Cupom Damie primeira compra: o CECILIA12 funciona? Sim, o cupom CECILIA12 funciona para primeira compra e compras subsequentes no site oficial da Damie, sem limite de uso por CPF, desde que esteja dentro das condições vigentes."
       ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Este artigo contém promoção afiliada. Se você já decidiu comprar e quiser usar nosso cupom, ele está disponível na página de cupom da Cecília. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
-      ],
-      "links": [
-        {
-          "label": "Ver cupom CECILIA12",
-          "href": "/cupons/damie"
-        }
-      ]
     }
-  ]
+  ],
+  "editorialNote": "Dados do painel público do Reclame Aqui. A DAMIE é parceira: podemos receber comissão pelo CECILIA12."
 }
