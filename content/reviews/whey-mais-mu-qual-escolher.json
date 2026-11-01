@@ -34,7 +34,7 @@
       "heading": "Como lemos a loja",
       "paragraphs": [
         "A Mais Mu vende o whey concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês, além do isolado e da proteína vegetal. A diferença entre eles está no preço por dose, nos sabores de cada formato e no que cabe na sua rotina.",
-        "Lemos as 48 páginas de whey e de proteína vegetal da Mais Mu no site oficial, em 25/10/2026. Ninguém do site usou os produtos. Tudo o que segue sai da loja: preço, estoque, formato, sabor, ingredientes e a contagem de doses que ela publica.",
+        "Lemos as 48 páginas de whey e de proteína vegetal da Mais Mu no site oficial. Ninguém do site usou os produtos. Tudo o que segue sai da loja: preço, estoque, formato, sabor, ingredientes e a contagem de doses que ela publica.",
         "A loja escreve “cerca de N doses” em 30 das 48 páginas, sempre na legenda da galeria. Gramas por dose aparecem pouco: no texto de cada sabor de sachê e numa tabela nutricional, a do Baunilha de 450 g, com porção de 36 g e cerca de 13 porções. Por isso as contas usam a contagem da loja, com a margem do “cerca de”. Onde a loja não publica a contagem, este texto não faz conta.",
         "A proteína por dose também vem da loja: 20 g no concentrado e 22 g no isolado e no vegetal.",
         "As contas são estas, com os preços de 25/10/2026:"
@@ -68,7 +68,7 @@
           "Preço no cartão",
           "R$ por dose",
           "R$ por 100 g de proteína (conta nossa)",
-          "Disponível em 25/10/2026"
+          "Disponível"
         ],
         "rows": [
           ["Baunilha e Cookies'n Cream", "13", "R$ 159,99", "12,31", "61,53", "sim"],
@@ -91,7 +91,7 @@
           "Preço no cartão",
           "R$ por dose",
           "R$ por 100 g de proteína (conta nossa)",
-          "Disponível em 25/10/2026"
+          "Disponível"
         ],
         "rows": [
           ["Brownie e Cookies'n Cream", "26", "R$ 279,99", "10,77", "53,84", "sim"],
@@ -125,7 +125,7 @@
           "Peso de cada sachê (texto do sabor)",
           "Preço no cartão (caixa de 15)",
           "R$ por sachê",
-          "Disponível em 25/10/2026"
+          "Disponível"
         ],
         "rows": [
           ["Baunilha", "36 g", "R$ 239,85", "15,99", "sim"],
@@ -155,7 +155,7 @@
           "Preço no cartão",
           "R$ por dose",
           "R$ por 100 g de proteína (conta nossa)",
-          "Disponível em 25/10/2026"
+          "Disponível"
         ],
         "rows": [
           ["Pote de 450 g: Baunilha, Brownie, Chocolate, Cookies'n Cream, Morango e Sem sabor", "16", "R$ 299,99", "18,75", "85,22", "sim"],
@@ -176,7 +176,7 @@
           "Preço no cartão",
           "R$ por dose",
           "R$ por 100 g de proteína (conta nossa)",
-          "Disponível em 25/10/2026"
+          "Disponível"
         ],
         "rows": [
           ["Pote de 450 g: Caramel Macchiato e Chocolate com avelã", "13", "R$ 199,00", "15,31", "69,58", "sim"],
@@ -194,7 +194,7 @@
     {
       "heading": "Sabores: o que a loja mostra",
       "paragraphs": [
-        "A loja publica estes sabores em cada formato, em 25/10/2026. Não há degustação deste texto, e a loja não diz qual sabor é o melhor."
+        "A loja publica estes sabores em cada formato. Não há degustação deste texto, e a loja não diz qual sabor é o melhor."
       ],
       "bullets": [
         "**Concentrado, pote de 450 g:** Baunilha, Chocolate, Chocolate com avelã, Chocolate com coco, Cookies'n Cream, Morango e Paçoquita, com contagem. Brownie, esgotado. Doce de leite, sem contagem.",
@@ -204,7 +204,7 @@
         "**Proteína vegetal:** Caramel Macchiato, Chocolate com avelã e Torta de banana com canela, nos dois tamanhos."
       ],
       "postParagraphs": [
-        "O Brownie de 450 g estava esgotado em 25/10/2026. No refil de 900 g, o mesmo sabor segue disponível.",
+        "O Brownie de 450 g estava esgotado na leitura. No refil de 900 g, o mesmo sabor segue disponível.",
         "A loja marca Paçoquita e Chocolate com coco como “novo sabor” e o Doce de leite como “lançamento”, sem data. A categoria de whey também tem uma ordenação padrão com nome de ranking, sem critério nem data publicados. Por isso este texto não diz que um sabor vende mais que outro."
       ]
     },
@@ -220,7 +220,7 @@
         "**Paçoquita:** parceria, segundo a loja, nos formatos de concentrado (pote de 450 g, sachê, refil de 900 g e 1,8 kg)."
       ],
       "postParagraphs": [
-        "Os três potes de 418 e 420 g custam R$ 159,99 cada no cartão (R$ 155,19 no Pix; R$ 139,67 com o cupom e o Pix), o mesmo preço do pote de 450 g, e estavam disponíveis em 25/10/2026. A loja não publica a contagem de doses deles, então ficam fora da conta por dose e por proteína. Os textos dos três dizem “contém lactose” e “não contém glúten”."
+        "Os três potes de 418 e 420 g custam R$ 159,99 cada no cartão (R$ 155,19 no Pix; R$ 139,67 com o cupom e o Pix), o mesmo preço do pote de 450 g, e estavam disponíveis. A loja não publica a contagem de doses deles, então ficam fora da conta por dose e por proteína. Os textos dos três dizem “contém lactose” e “não contém glúten”."
       ]
     },
     {
@@ -236,10 +236,10 @@
       "heading": "Cupom e Pix: quanto cai em cada formato",
       "paragraphs": [
         "O código MMEMCASACOMCECILIA dá 10% em todo o site da Mais Mu e soma com o desconto de 3% do Pix. Ele não soma com outro cupom. O crédito do cashback da loja e o desconto de boas-vindas também entram como cupom, então não somam com o nosso. O cashback é um programa da loja, não uma vantagem do código. O código não vale no Mercado Livre, onde vale o preço do anúncio. As regras estão na página da [Mais Mu](/cupons/mais-mu).",
-        "Com os dois descontos, o pote de 450 g concentrado sai por R$ 139,67, o refil de 900 g por R$ 244,43, a caixa de sachês de R$ 239,85 por R$ 209,39, o isolado de 450 g por R$ 261,89 e o de 900 g por R$ 453,96, com os preços de 25/10/2026."
+        "Com os dois descontos, o pote de 450 g concentrado sai por R$ 139,67, o refil de 900 g por R$ 244,43, a caixa de sachês de R$ 239,85 por R$ 209,39, o isolado de 450 g por R$ 261,89 e o de 900 g por R$ 453,96, com os mesmos preços."
       ],
       "postParagraphs": [
-        "**Esperar a Black Friday?** Até 20/10/2026, a Mais Mu não tinha anunciado data nem desconto para novembro. O que se sabe está em [Black Friday da Mais Mu](/reviews/black-friday-mais-mu).",
+        "**Esperar a Black Friday?** Até a última leitura, a Mais Mu não tinha anunciado data nem desconto para novembro. O que se sabe está em [Black Friday da Mais Mu](/reviews/black-friday-mais-mu).",
         "Antes de comprar, a dúvida pode ser a loja em si: [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel)"
       ]
     },
@@ -258,8 +258,8 @@
       "images": [
         {
           "src": "/images/reviews/mais-mu/whey-mais-mu-qual-escolher-quadro-formatos.webp",
-          "alt": "Quadro dos formatos do whey Mais Mu com doses, preço por dose e preço por 100 g de proteína em 25/10/2026",
-          "caption": "Doses pela contagem da loja, com “cerca de”. Preços no cartão em 25/10/2026.",
+          "alt": "Quadro dos formatos do whey Mais Mu com doses, preço por dose e preço por 100 g de proteína",
+          "caption": "Doses pela contagem da loja, com “cerca de”. Preços no cartão.",
           "objectFit": "contain",
           "aspectRatio": 0.8475
         }
@@ -274,12 +274,6 @@
         "Sachê compensa? Depende do que você precisa. Cada sachê custa R$ 15,99 ou R$ 16,99 no cartão, e uma dose do pote ou do refil com contagem sai de R$ 10,77 a R$ 13,33. Ele compensa quando levar o pó pesa mais que essa diferença.",
         "O cupom vale no Mercado Livre? Não. O MMEMCASACOMCECILIA vale no site da Mais Mu. No Mercado Livre vale o preço do anúncio. O passo a passo do código está em [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar).",
         "Whey ajuda a emagrecer ou a ganhar massa? Este texto não trata desse objetivo: ele compara rótulo, dose e preço. Quem tem uma meta de saúde, de peso ou de treino deve conversar com um nutricionista."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Ninguém do site usou os produtos desta lista. O texto reúne o que a loja publica, lido em 25/10/2026: preços, estoque, contagem de doses, ingredientes e textos de cada página. As contas de R$ por dose e por 100 g de proteína são nossas, com a contagem da loja. O Em Casa com Cecília é afiliado da Mais Mu e recebe comissão pelas compras feitas com o código MMEMCASACOMCECILIA, sem custo extra para você. Preço e estoque mudam: confira na loja antes de comprar."
       ]
     }
   ],

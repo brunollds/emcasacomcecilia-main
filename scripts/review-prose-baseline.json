@@ -23,14 +23,6 @@
     "bodyDates": 12,
     "datesOutsideBody": 8
   },
-  "black-friday-mais-mu": {
-    "bodyDates": 7,
-    "datesOutsideBody": 4
-  },
-  "black-friday-max-titanium": {
-    "bodyDates": 16,
-    "datesOutsideBody": 5
-  },
   "black-friday-nestle-nutre": {
     "bodyDates": 16,
     "datesOutsideBody": 8
@@ -117,12 +109,6 @@
   "como-encontrar-cupons-yesstyle-validos": {
     "datesOutsideBody": 1
   },
-  "creatina-max-titanium-qual-pote": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 7,
-    "datesOutsideBody": 4
-  },
   "creatina-probiotica-qual-compensa": {
     "quickAnswerPrice": true,
     "transparencySection": true,
@@ -154,13 +140,6 @@
   "cupom-magalu-em-casa-com-cecilia": {
     "quickAnswerPrice": true,
     "datesOutsideBody": 1
-  },
-  "cupom-mais-mu-como-usar": {
-    "datesOutsideBody": 3
-  },
-  "cupom-max-titanium-como-usar": {
-    "bodyDates": 7,
-    "datesOutsideBody": 4
   },
   "cupom-probiotica-como-usar": {
     "bodyDates": 7,
@@ -250,26 +229,6 @@
     "bodyDates": 10,
     "datesOutsideBody": 10
   },
-  "mais-mu-e-confiavel": {
-    "bodyDates": 12,
-    "datesOutsideBody": 4
-  },
-  "mais-mu-ou-dux": {
-    "bodyDates": 8,
-    "datesOutsideBody": 3
-  },
-  "mais-mu-ou-growth": {
-    "bodyDates": 4,
-    "datesOutsideBody": 2
-  },
-  "mais-mu-reclame-aqui-nota-reputacao": {
-    "bodyDates": 13,
-    "datesOutsideBody": 10
-  },
-  "max-titanium-e-confiavel": {
-    "bodyDates": 11,
-    "datesOutsideBody": 5
-  },
   "max-titanium-ou-dux": {
     "quickAnswerPrice": true,
     "transparencySection": true,
@@ -280,20 +239,6 @@
     "transparencySection": true,
     "bodyDates": 7,
     "datesOutsideBody": 2
-  },
-  "max-titanium-ou-integralmedica": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 10,
-    "datesOutsideBody": 1
-  },
-  "max-titanium-ou-probiotica": {
-    "bodyDates": 19,
-    "datesOutsideBody": 3
-  },
-  "max-titanium-reclame-aqui-nota-reputacao": {
-    "bodyDates": 15,
-    "datesOutsideBody": 16
   },
   "melhor-whey-qual-escolher-por-objetivo": {
     "bodyDates": 35,
@@ -368,16 +313,6 @@
     "datesOutsideBody": 1
   },
   "poltrona-damie-e-boa": {
-    "datesOutsideBody": 2
-  },
-  "pre-treino-exquenta-mais-mu-e-bom": {
-    "transparencySection": true,
-    "bodyDates": 4
-  },
-  "pre-treino-max-titanium-horus-ou-egide": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 10,
     "datesOutsideBody": 2
   },
   "presente-natal-quem-treina": {
@@ -472,11 +407,6 @@
   },
   "vestido-de-festa-shein": {
     "bodyDates": 4
-  },
-  "whey-mais-mu-qual-escolher": {
-    "transparencySection": true,
-    "bodyDates": 13,
-    "datesOutsideBody": 1
   },
   "yesstyle-app-como-comprar-codigo-de-recompensa": {
     "transparencySection": true,
