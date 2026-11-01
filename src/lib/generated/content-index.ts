@@ -96682,7 +96682,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o SONAR20 cobre",
         "paragraphs": [
-          "Pela regra da parceria, o SONAR20 vale em todos os planos, mensais e anuais, e também para quem já é cliente da Hostinger. Testamos no carrinho: no site brasileiro, com o código no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o Startup de 48 meses passou de US$ 383,52 para US$ 306,82. Nos três casos, os 20% saíram do preço da Black Friday, e o código valeu sozinho, sem o link.",
+          "Pela regra da parceria, o SONAR20 vale em todos os planos, mensais e anuais, e também para quem já é cliente da Hostinger. Testamos no carrinho: no site brasileiro, com o código no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,52, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o Startup de 48 meses passou de US$ 383,52 para US$ 306,82. Nos três casos, os 20% saíram do preço da Black Friday, e o código valeu sozinho, sem o link.",
           "O link deste artigo continua valendo, com as regras dele: planos de 12 meses ou mais, para cliente novo. Nos outros casos, use o código. Não citamos códigos de outros sites."
         ]
       },
@@ -98107,14 +98107,14 @@ export const reviewsData: unknown[] = [
         "heading": "A Black Friday da Hostinger já começou?",
         "paragraphs": [
           "Já começou. A FAQ oficial da Hostinger diz: \"A promoção Black Friday da Hostinger acontece de 19 de outubro a 14 de dezembro de 2026.\" A página global em inglês diz a mesma data.",
-          "O banner da página de hospedagem de sites diz \"Até 82% off\". Esse é o teto do banner, não o desconto de todo plano: no Single de 48 meses o desconto é de 80%, de R$ 29,99 para R$ 5,99 por mês. O banner de VPS diz \"Até 70% off\", e o VPS fica de fora da conta deste texto, como explicamos mais abaixo.",
-          "Este texto trata só da campanha de 2026. As edições anteriores não entram aqui: as fontes que consultamos davam datas e percentuais diferentes, e nenhuma era da própria Hostinger."
+          "O banner da página de hospedagem de sites diz \"Até 82% off\". Esse é o teto do banner, não o desconto de todo plano: no Single de 48 meses o desconto é de 80%, e o preço por plano está na tabela abaixo. O banner de VPS diz \"Até 70% off\", e o VPS fica de fora da conta deste texto, como explicamos mais abaixo.",
+          "Os números abaixo são só da campanha de 2026, lidos na página oficial."
         ],
         "images": [
           {
             "src": "/images/reviews/hostinger/black-friday-hostinger-pagina-2026.webp",
             "alt": "Topo da página da Black Friday da Hostinger, com o título \"Construa mais, pague menos nesta Black Friday\" e a garantia de 30 dias para pedir reembolso",
-            "caption": "Página da Black Friday da Hostinger, capturada em 19/10/2026. Imagem: site da Hostinger.",
+            "caption": "Página da Black Friday da Hostinger. Imagem: site da Hostinger.",
             "objectFit": "contain",
             "aspectRatio": 1.5102
           }
@@ -98162,7 +98162,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os preços são de 19/10/2026, dos planos de 48 meses. Na campanha, o total do Single em 48 meses é R$ 287,52; com os 20% do SONAR20, R$ 229,92. O desconto entra sobre o preço da campanha: num teste de 29/10/2026 no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Não lemos os preços de outros períodos, então não afirmamos nada sobre eles.",
+          "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para o valor da tabela com o SONAR20. Num teste no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,52, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82.",
           "Onde colar o código e o que acontece com o desconto na renovação está em [Cupom Hostinger SONAR20](/reviews/cupom-hostinger-indicacao)."
         ]
       },
@@ -98170,9 +98170,9 @@ export const reviewsData: unknown[] = [
         "heading": "Quem deve esperar e quem não deve",
         "paragraphs": [
           "Se você precisa do site no ar esta semana, não espere. Nos planos de 48 meses que conferimos, a campanha com o SONAR20 já é o menor preço.",
-          "Se pode esperar, saiba que a campanha vai até 14/12, mas nenhum preço fica garantido até lá. Os 20% do SONAR20 saem do preço da campanha: se a campanha mudar, o total muda junto.",
-          "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. O Single é o plano que a página chama de ideal para quem está começando ou tem projetos simples. Para VPS, não temos conta: o banner diz até 70%, mas não lemos o preço do VPS nem com nem sem o cupom.",
-          "Quem já é cliente entra em outra conta. A FAQ diz que clientes atuais podem receber ofertas separadas de upgrade e venda cruzada. Pela regra da parceria, o SONAR20 vale também para quem já é cliente, num plano novo. O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
+          "Se pode esperar, saiba que a campanha vai até meados de dezembro, mas nenhum preço fica garantido até lá. Os 20% do SONAR20 saem do preço da campanha: se a campanha mudar, o total muda junto.",
+          "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. O Single é o plano que a página chama de ideal para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner diz até 70%, e a conta deste texto não cobre esse plano.",
+          "Se você já é cliente, confira as ofertas de upgrade da sua conta: a FAQ diz que clientes atuais podem receber ofertas separadas. O SONAR20 vale também para um plano novo. O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
         ]
       },
       {
@@ -98181,7 +98181,7 @@ export const reviewsData: unknown[] = [
           "Abra a [Hostinger na página da loja deste site](/cupons/hostinger) e copie o código SONAR20.",
           "No carrinho, cole o SONAR20 no campo de cupom e veja o desconto de 20% aparecer sobre o preço da campanha.",
           "Compare o total do primeiro período, não só o preço por mês. O total mostra a diferença real.",
-          "Confira o preço da renovação antes de finalizar. A Hostinger o mostra antes do pagamento, e ele não é o da campanha."
+          "Confira o preço da renovação antes de finalizar. A Hostinger o mostra antes do pagamento, e ele não é o da campanha. Os 20% do SONAR20 também valem só no primeiro período."
         ],
         "postParagraphs": [
           "Antes de pagar, o histórico de reclamações da empresa está em [Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao), e o que a garantia cobre e o que fica de fora está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
@@ -98191,16 +98191,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Black Friday da Hostinger tem cupom? O preço da campanha entra sozinho, e o código SONAR20, no campo de cupom do carrinho, tira mais 20% dele. Não citamos códigos de outros sites.",
-          "Até quando vai a Black Friday da Hostinger? Até 14 de dezembro de 2026, segundo a FAQ oficial lida em 19/10/2026.",
+          "Até quando vai a Black Friday da Hostinger? Até meados de dezembro, segundo a FAQ oficial; a data exata está no começo do artigo.",
           "O preço da Black Friday continua na renovação? Não. Ele vale para o período inicial da assinatura. A renovação sai pelo preço normal do plano.",
-          "O SONAR20 vale junto com o preço da Black Friday? Sim: no teste de 29/10/2026, os 20% saíram do preço da campanha. Como o preço muda, confira o total no carrinho.",
+          "O SONAR20 vale junto com o preço da Black Friday? Sim: no nosso teste, os 20% saíram do preço da campanha. Como o preço muda, confira o total no carrinho.",
           "A garantia de reembolso vale na Black Friday? A FAQ diz que os planos elegíveis têm garantia de 30 dias, com termos e exclusões. O que fica de fora está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este artigo usa o código SONAR20 e o link da Hostinger, a empresa que hospeda o site Em Casa com Cecília. As compras com o código ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Lemos os preços em 19/10/2026 na página pública da Hostinger, sem login e sem carrinho. Preço e campanha mudam, e os números deste texto não são garantia: confira no carrinho."
         ]
       }
     ],
@@ -98214,7 +98208,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Confira o total no carrinho antes de pagar.",
+    "editorialNote": "A Hostinger hospeda este site. Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Confira o total no carrinho antes de pagar.",
     "relatedArticles": [
       {
         "slug": "hostinger-e-confiavel",
@@ -98228,7 +98222,8 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-hostinger-indicacao",
         "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 504,
