@@ -60,6 +60,13 @@ Um capítulo completo responde uma pergunta da busca, tem um dado próprio e ter
 
 **Ficha, estrelas, prós e contras:** só aparecem em artigo `reviewKind: "produto"`, que exige uso real. Guia não preenche `verdict`, `pros`, `cons` nem `productSpec`: nas guias, a ficha vai na tabela e o "para quem / quando não" no texto.
 
+**Quadro "Leve se / Passe se" (campo `decision` do artigo, desde 01/11/2026):** a decisão num relance, para guia, comparativo e editorial. Artigo de produto não leva (tem prós e contras; o `validate:content` barra).
+- **Formato:** `"decision": { "takeIf": ["…"], "skipIf": ["…"] }`, no nível do artigo. De 1 a 3 frases em cada lista, sem markdown e sem "R$". Os rótulos vêm do site, não do JSON.
+- **Lugar:** o site põe o quadro sozinho, logo antes do FAQ (sem FAQ, depois da última seção). Não entra no sumário, no áudio nem no JSON-LD.
+- **De onde sai:** das frases de "para quem / quando não" dos capítulos, ditas como perfil ou situação do leitor ("Leve se você usa a mala em voo nacional com bagagem de mão"). Nada que o artigo não diga; sem primeira pessoa; em Beleza e Suplementos-Alimentos, sem efeito no corpo.
+- **Não repete o veredito:** o cartão de destaque traz a escolha; o quadro diz para quem ela serve e para quem não.
+- **Família de 10 idiomas:** se o PT tem o quadro, todas as versões têm, com o mesmo número de frases e nenhuma igual à do PT (`test:review-i18n`). Quadro novo num artigo de família só entra junto com as 9 traduções.
+
 **Para quem / quando não:** cada produto com capítulo próprio tem uma frase de para quem serve e uma de quando não escolher. Julgamento por perfil é o que a loja não faz: "a Heavy é para quem não quer a camiseta marcando o corpo; se usa por baixo do blazer no calor, fique na Tech".
 
 **Armadilha (o bloco que só o site tem):** diga o que a página deixa de fora e em que o leitor cai: o preço riscado de um kit, a comparação com o avulso, o cupom que não soma com a promoção. Mostre a conta em uma frase.
