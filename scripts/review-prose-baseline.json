@@ -26,10 +26,6 @@
     "bodyDates": 23,
     "datesOutsideBody": 8
   },
-  "black-friday-letseatit": {
-    "bodyDates": 17,
-    "datesOutsideBody": 9
-  },
   "black-friday-magalu": {
     "quickAnswerPrice": true,
     "bodyDates": 12,
@@ -170,9 +166,6 @@
   "cupom-mais-mu-como-usar": {
     "datesOutsideBody": 3
   },
-  "cupom-mauad-lets-eat-it-como-usar": {
-    "datesOutsideBody": 1
-  },
   "cupom-max-titanium-como-usar": {
     "bodyDates": 7,
     "datesOutsideBody": 4
@@ -205,11 +198,6 @@
     "bodyDates": 16,
     "datesOutsideBody": 4
   },
-  "faqueiro-laguiole-la-maison-qual-escolher": {
-    "transparencySection": true,
-    "bodyDates": 9,
-    "datesOutsideBody": 1
-  },
   "fibermais-como-usar-em-receitas-e-bebidas": {
     "bodyDates": 3
   },
@@ -220,10 +208,6 @@
   "glutamina-qual-escolher-black-skull-max-probiotica": {
     "quickAnswerPrice": true,
     "transparencySection": true
-  },
-  "guardanapo-de-tecido-quantos-tamanho": {
-    "transparencySection": true,
-    "bodyDates": 4
   },
   "guia-linha-ninho-nestle-leite-vs-composto-lacteo": {
     "bodyDates": 4,
@@ -268,21 +252,6 @@
     "bodyDates": 3,
     "datesOutsideBody": 1
   },
-  "jogo-americano-tecido-tamanho-cor": {
-    "transparencySection": true,
-    "bodyDates": 6,
-    "datesOutsideBody": 1
-  },
-  "le-creuset-original-como-saber": {
-    "transparencySection": true,
-    "bodyDates": 6,
-    "datesOutsideBody": 5
-  },
-  "le-creuset-qual-tamanho-escolher": {
-    "transparencySection": true,
-    "bodyDates": 11,
-    "datesOutsideBody": 2
-  },
   "le-creuset-vale-a-pena": {
     "bodyDates": 7,
     "datesOutsideBody": 3
@@ -303,10 +272,6 @@
   "lejour-reclame-aqui-nota-reputacao": {
     "bodyDates": 13,
     "datesOutsideBody": 8
-  },
-  "lets-eat-it-e-confiavel": {
-    "bodyDates": 6,
-    "datesOutsideBody": 5
   },
   "lets-eat-it-reclame-aqui-nota-reputacao": {
     "bodyDates": 6,
@@ -368,17 +333,6 @@
   "melhor-whey-qual-escolher-por-objetivo": {
     "bodyDates": 35,
     "datesOutsideBody": 6
-  },
-  "mesa-posta-dia-a-dia-o-que-comprar": {
-    "transparencySection": true,
-    "bodyDates": 5,
-    "datesOutsideBody": 2
-  },
-  "mesa-posta-natal-o-que-precisa-quanto-custa": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 6,
-    "datesOutsideBody": 1
   },
   "mochaccino-canela-dolce-gusto": {
     "transparencySection": true,
@@ -451,10 +405,6 @@
   "poltrona-damie-e-boa": {
     "datesOutsideBody": 2
   },
-  "porto-brasil-e-boa": {
-    "bodyDates": 4,
-    "datesOutsideBody": 3
-  },
   "pre-treino-exquenta-mais-mu-e-bom": {
     "transparencySection": true,
     "bodyDates": 4
@@ -464,15 +414,6 @@
     "transparencySection": true,
     "bodyDates": 10,
     "datesOutsideBody": 2
-  },
-  "presente-de-casamento-ideias-por-preco": {
-    "transparencySection": true,
-    "bodyDates": 5
-  },
-  "presente-natal-quem-gosta-de-cozinhar": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "datesOutsideBody": 1
   },
   "presente-natal-quem-treina": {
     "quickAnswerPrice": true,
@@ -558,10 +499,6 @@
   "tabela-de-medidas-insider": {
     "bodyDates": 18,
     "datesOutsideBody": 4
-  },
-  "taca-base-esfera-e-tacas-coloridas": {
-    "quickAnswerPrice": true,
-    "transparencySection": true
   },
   "toda-up-e-confiavel": {
     "bodyDates": 15,

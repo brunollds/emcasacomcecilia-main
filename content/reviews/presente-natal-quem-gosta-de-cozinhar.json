@@ -27,7 +27,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O melhor presente para quem gosta de cozinhar depende do que a pessoa faz na cozinha e de quanto você quer gastar. A Let's Eat It tem ideias em quatro faixas, de até R$ 150 a acima de R$ 1.000, e o cupom MAUAD reduz o preço. O capítulo sobre o perfil de quem cozinha ajuda a escolher."
+        "O melhor presente para quem gosta de cozinhar depende do que a pessoa faz na cozinha e de quanto você quer gastar. A Let's Eat It tem ideias em quatro faixas de preço, e o cupom MAUAD reduz o preço. O capítulo sobre o perfil de quem cozinha ajuda a escolher."
       ]
     },
     {
@@ -304,14 +304,8 @@
       "bullets": [
         "Qual é o prazo de entrega para chegar antes do Natal? Conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, pela política de frete da loja. A data-limite de pedido está no guia de Black Friday da Let's Eat It.",
         "Posso trocar um presente? A loja troca por outro produto de valor equivalente em até 30 dias contados do recebimento, ou devolve o valor integral, no meio de pagamento original ou em crédito na loja. Guarde a nota fiscal e confirme o prazo com a loja antes de presentear com data marcada.",
-        "O cupom MAUAD vale em promoção? Sim. Pelo teste de 02/10/2026, ele soma com as promoções vigentes do site e com o desconto do Pix. O checkout mostra o valor final antes do pagamento.",
+        "O cupom MAUAD vale em promoção? Sim. Pelo nosso teste, ele soma com as promoções vigentes do site e com o desconto do Pix. O checkout mostra o valor final antes do pagamento.",
         "Qual presente para quem já tem tudo na cozinha? Para quem já tem panela e utensílio básico, a saída é uma peça de uso específico: um conjunto de churrasco, como o L'Hermitage de R$ 232,90, ou um eletroportátil, como a Chaleira Elétrica Positano de R$ 649,00 (127 V)."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Os preços são do site da Let's Eat It, consultados em 20/10/2026. Eles mudam com promoção e estoque, e o checkout é a referência final. Podemos receber comissão pelas compras feitas com o cupom MAUAD ou pelo link da loja, sem custo extra para quem compra. Ninguém do Em Casa com Cecília comprou nem usou os produtos citados aqui. As descrições vêm da ficha de cada item e das políticas públicas da loja, e nenhuma opinião é de experiência própria."
       ]
     }
   ],
@@ -325,7 +319,7 @@
   },
   "coupon": "MAUAD",
   "affiliate": "letseatit",
-  "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+  "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou os produtos citados.",
   "relatedArticles": [
     {
       "slug": "black-friday-letseatit",

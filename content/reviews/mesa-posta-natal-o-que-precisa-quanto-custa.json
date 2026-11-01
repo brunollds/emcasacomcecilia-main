@@ -27,7 +27,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para seis pessoas, a mesa posta de Natal sai de R$ 968,91 (faixa básica) a R$ 4.988,16 (faixa completa) com o cupom MAUAD, sem frete. O que pesa é o que você já tem em casa, principalmente pratos e talheres. Veja abaixo a tabela das três faixas e a conta de cada uma."
+        "Para seis pessoas, a mesa posta de Natal tem três faixas, da básica à completa, e o cupom MAUAD tira 5% do subtotal, sem frete. O que pesa é o que você já tem em casa, principalmente pratos e talheres. Veja abaixo a tabela das três faixas e a conta de cada uma."
       ]
     },
     {
@@ -95,13 +95,13 @@
         ]
       },
       "postParagraphs": [
-        "Os preços são de venda em 20/10/2026 e mudam com promoção. Os totais não incluem frete, que é calculado por CEP. O cupom MAUAD dá 5% sobre o subtotal e vale em todas as formas de pagamento."
+        "Os preços são de venda e mudam com promoção. Os totais não incluem frete, que é calculado por CEP. O cupom MAUAD dá 5% sobre o subtotal e vale em todas as formas de pagamento."
       ],
       "images": [
         {
           "src": "/images/reviews/letseatit/mesa-posta-natal-tres-faixas.webp",
           "alt": "Quadro com as três faixas da mesa posta de Natal para seis pessoas: R$ 1.019,90, R$ 2.138,32 e R$ 5.250,69, com o valor com o cupom MAUAD e por pessoa",
-          "caption": "As três faixas em 20/10/2026, sem frete. Quadro do Em Casa com Cecília.",
+          "caption": "As três faixas, sem frete. Quadro do Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -110,7 +110,7 @@
     {
       "heading": "Faixa 1: mesa básica para seis pessoas",
       "paragraphs": [
-        "A faixa básica custa R$ 1.019,90 sem cupom, ou R$ 968,91 com o cupom MAUAD (5% sobre o subtotal, confira no checkout). São R$ 169,98 por pessoa sem o cupom, ou R$ 161,49 com ele. Os preços são de venda em 20/10/2026."
+        "A faixa básica custa R$ 1.019,90 sem cupom, ou R$ 968,91 com o cupom MAUAD (5% sobre o subtotal, confira no checkout). São R$ 169,98 por pessoa sem o cupom, ou R$ 161,49 com ele."
       ],
       "comparisonTable": {
         "headers": [
@@ -187,7 +187,7 @@
     {
       "heading": "Faixa 2: mesa intermediária, com o tema Natal opcional",
       "paragraphs": [
-        "A faixa intermediária custa R$ 2.138,32 sem cupom, ou R$ 2.031,40 com o cupom MAUAD. São R$ 356,39 por pessoa sem o cupom, ou R$ 338,57 com ele. Os preços são de venda em 20/10/2026."
+        "A faixa intermediária custa R$ 2.138,32 sem cupom, ou R$ 2.031,40 com o cupom MAUAD. São R$ 356,39 por pessoa sem o cupom, ou R$ 338,57 com ele."
       ],
       "comparisonTable": {
         "headers": [
@@ -279,7 +279,7 @@
     {
       "heading": "Faixa 3: o que vem no conjunto completo",
       "paragraphs": [
-        "Os preços desta faixa são de venda, lidos na Let's Eat It em 20/10/2026, e mudam com promoção. Para seis pessoas, a faixa 3 soma R$ 5.250,69 sem frete. Mais da metade desse valor está em três peças: o aparelho de jantar, o faqueiro Laguiole e o centro de mesa. Por isso vale olhar item por item."
+        "Os preços desta faixa são de venda, lidos na Let's Eat It, e mudam com promoção. Para seis pessoas, a faixa 3 soma R$ 5.250,69 sem frete. Mais da metade desse valor está em três peças: o aparelho de jantar, o faqueiro Laguiole e o centro de mesa. Por isso vale olhar item por item."
       ],
       "comparisonTable": {
         "headers": [
@@ -431,12 +431,6 @@
         "Vale comprar o faqueiro completo? Vale se a mesa precisa de talheres para seis pessoas, porque o faqueiro de 30 peças já traz cinco talheres por pessoa. Entre os três faqueiros de 30 peças lidos, o Avalon é o mais barato, com R$ 383,90. O Berna Dourado custa R$ 539,90 e troca o garfo de bolo pelo garfo de sobremesa. O Laguiole custa R$ 1.099,00 e é da linha luxo, com lâmina de aço inox e cabo de ABS, segundo a ficha.",
         "Dá para fazer uma mesa posta de Natal barata? A faixa 1 soma R$ 1.019,90 sem cupom, com sousplat, guardanapo e centro em cores que combinam, talheres completos e os pratos de casa. Na faixa 1, o faqueiro Avalon é o item mais caro, e o centro de mesa Duna retangular custa R$ 74,00."
       ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Os preços deste artigo foram lidos no site da Let's Eat It em 20/10/2026. Preço de loja muda com promoção, então confira antes de comprar. Podemos receber comissão quando alguém compra pelo link da loja ou usa o cupom MAUAD. Ninguém da equipe comprou nem usou estas peças. O texto sai das fichas e das informações que a loja publica, não de experiência nossa."
-      ]
     }
   ],
   "pros": [],
@@ -449,7 +443,7 @@
   },
   "coupon": "MAUAD",
   "affiliate": "letseatit",
-  "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+  "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estas peças.",
   "relatedArticles": [
     {
       "slug": "presente-natal-quem-gosta-de-cozinhar",

@@ -34,7 +34,7 @@
   },
   "coupon": "MAUAD",
   "affiliate": "letseatit",
-  "editorialNote": "A Let's Eat It é parceira: podemos receber comissão pelas compras no site.",
+  "editorialNote": "A Let's Eat It é parceira: podemos receber comissão pelas compras no site. Ninguém da equipe usou as panelas citadas.",
   "relatedArticles": [
     {
       "slug": "le-creuset-original-como-saber",
@@ -66,7 +66,7 @@
         "headers": [
           "Diâmetro",
           "Capacidade (ficha da loja)",
-          "Cores disponíveis em 26/10/2026"
+          "Cores disponíveis"
         ],
         "rows": [
           [
@@ -122,7 +122,7 @@
       "image": {
         "src": "/images/reviews/letseatit/le-creuset-redonda-signature-litros-por-tamanho.webp",
         "alt": "Quadro com a capacidade da Panela Redonda Signature da Le Creuset de 16 a 34 cm, com 20 cm (2,4 L) e 24 cm (4,2 L) em destaque",
-        "caption": "Capacidade de cada tamanho pela ficha da Let's Eat It, em 26/10/2026. Quadro nosso.",
+        "caption": "Capacidade de cada tamanho pela ficha da Let's Eat It. Quadro nosso.",
         "objectFit": "contain",
         "aspectRatio": 1.4118
       }
@@ -130,7 +130,7 @@
     {
       "heading": "Le Creuset 20 ou 24 cm: a diferença lado a lado",
       "paragraphs": [
-        "A 24 cm tem 1,8 L a mais que a 20 cm: 4,2 L contra 2,4 L, ou 75% de capacidade extra. No preço cheio de 26/10/2026, o acréscimo é de R$ 620, cerca de 27%. Por isso a conta por litro favorece a maior."
+        "A 24 cm tem 1,8 L a mais que a 20 cm: 4,2 L contra 2,4 L, ou 75% de capacidade extra. No preço cheio, o acréscimo é de R$ 620, cerca de 27%. Por isso a conta por litro favorece a maior."
       ],
       "comparisonTable": {
         "headers": [
@@ -147,7 +147,7 @@
             "+1,8 L (+75%)"
           ],
           [
-            "Preço cheio em 26/10/2026",
+            "Preço cheio",
             "R$ 2.329",
             "R$ 2.949",
             "+R$ 620 (+26,6%)"
@@ -159,13 +159,13 @@
             "-28% por litro"
           ],
           [
-            "Cores disponíveis em 26/10/2026",
+            "Cores disponíveis",
             "Azure Blue, Berry, Cool Mint (preço cheio); Laranja e Vermelha (15% de desconto)",
             "Berry, Cotton (preço cheio); Vermelha (15% de desconto)",
             "—"
           ],
           [
-            "Cores esgotadas em 26/10/2026",
+            "Cores esgotadas",
             "Chambray, Cotton, Rhône",
             "Azure Blue, Laranja, Rhône",
             "—"
@@ -203,7 +203,7 @@
       "heading": "Caçarola buffet: quando faz sentido",
       "paragraphs": [
         "A caçarola buffet é a Le Creuset de formato baixo e largo. A loja a descreve como uma peça de formato amplo e baixo, tão desejável para servir quanto indispensável para cozinhar. A marca fala em levá-la do forno para a mesa como peça de servir. É esse o papel dela: ir direto à mesa, sem trocar de travessa.",
-        "Em 26/10/2026, a Let's Eat It tinha estes tamanhos, pela ficha da loja:"
+        "A Let's Eat It tinha estes tamanhos, pela ficha da loja:"
       ],
       "bullets": [
         "26 cm, 2,2 L: Petal Branco e Sea Salt a R$ 2.949, e Vermelha e Laranja a R$ 2.345,15 (de R$ 2.759, com 15%).",
@@ -225,7 +225,7 @@
     {
       "heading": "Outros formatos da Le Creuset na loja",
       "paragraphs": [
-        "Uma linha por formato, com tamanho e litros pelo título e pela ficha da loja em 26/10/2026. Para comparar preço de vários tamanhos, o guia de Black Friday já tem a tabela."
+        "Uma linha por formato, com tamanho e litros pelo título e pela ficha da loja. Para comparar preço de vários tamanhos, o guia de Black Friday já tem a tabela."
       ],
       "bullets": [
         "**Redonda Funda:** 24 cm, 5,2 L, esgotada na única cor que a loja tinha.",
@@ -248,31 +248,25 @@
       "postParagraphs": [
         "Pelo preço, a 24 cm sai mais barata por litro; quem não precisa dos litros a mais não ganha nada com essa conta, e a 20 cm custa R$ 620 a menos.",
         "A buffet entra para quem leva a panela do forno à mesa. Ela serve a esse uso, mas leva menos que a redonda: 2,2 L no 26 cm e 3,5 L no 30 cm.",
-        "Os números que sustentam a decisão: 20 cm com 2,4 L por R$ 2.329, 24 cm com 4,2 L por R$ 2.949, 26 cm com 5,3 L por R$ 3.089 e buffet de 26 cm com 2,2 L. Todos são preços cheios de 26/10/2026."
+        "Os números que sustentam a decisão: 20 cm com 2,4 L por R$ 2.329, 24 cm com 4,2 L por R$ 2.949, 26 cm com 5,3 L por R$ 3.089 e buffet de 26 cm com 2,2 L. Todos são preços cheios."
       ]
     },
     {
       "heading": "Onde comprar e o cupom",
       "paragraphs": [
         "A Let's Eat It vende a linha Le Creuset, e as condições estão na página do [cupom Let's Eat It](/cupons/letseatit). O cupom MAUAD dá 5% no site, vale em Le Creuset e soma com os 5% do Pix.",
-        "Exemplo com a 24 cm, conta nossa sobre o preço de 26/10/2026, sem frete: R$ 2.949 vira R$ 2.801,55 com o cupom e R$ 2.661,47 com o Pix. Aplique o cupom primeiro e depois o Pix.",
+        "Exemplo com a 24 cm, conta nossa sobre o preço cheio, sem frete: R$ 2.949 vira R$ 2.801,55 com o cupom e R$ 2.661,47 com o Pix. Aplique o cupom primeiro e depois o Pix.",
         "Para indução, forno, lava-louças e garantia, leia [Le Creuset vale a pena](/reviews/le-creuset-vale-a-pena). Para saber como conferir se a panela é original e onde comprar, veja o artigo irmão, [Le Creuset original: como saber](/reviews/le-creuset-original-como-saber)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual a diferença entre a Le Creuset 20 e 24 cm? A 20 cm tem 2,4 L e a 24 cm tem 4,2 L, 1,8 L a mais pela ficha da loja. No preço cheio de 26/10, são R$ 2.329 e R$ 2.949.",
+        "Qual a diferença entre a Le Creuset 20 e 24 cm? A 20 cm tem 2,4 L e a 24 cm tem 4,2 L, 1,8 L a mais pela ficha da loja. No preço cheio, são R$ 2.329 e R$ 2.949.",
         "Quantos litros tem a Le Creuset 24 cm? A Redonda Signature de 24 cm tem 4,2 L, pela ficha da loja. A Redonda Funda de 24 cm tem 5,2 L.",
         "Qual o tamanho da caçarola buffet Le Creuset 30 cm? Ela tem 3,5 L, pela ficha da loja. O diâmetro é de 30 cm e o formato é baixo e largo.",
         "A caçarola buffet Le Creuset vai ao forno? A loja a põe entre o fogão, o forno e a mesa, e a marca a descreve para ir do forno para a mesa como peça de servir. Os cuidados de forno da linha estão no artigo sobre indução e forno, citado acima.",
         "Le Creuset 24 cm serve para fogão de indução? Sim, a marca diz que o ferro fundido serve em todas as fontes de calor. Os detalhes estão em [Le Creuset vale a pena](/reviews/le-creuset-vale-a-pena)."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Ninguém do site usou as panelas citadas. Os dados vêm da ficha da loja e do site da marca, lidos em 26/10/2026, e preços e estoque mudam. A Let's Eat It é parceira do site, e podemos receber comissão por compras feitas pelos nossos links."
       ]
     }
   ]
