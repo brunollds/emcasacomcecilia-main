@@ -40,6 +40,8 @@ não pelo título, slug ou marca.
 ---
 
 ## 5. Como escrever um capítulo
+**Voz:** todo artigo segue `Anexos/Anexo-Voz-da-Cecilia.md`, as 18 regras tiradas da fala dela nos vídeos: o ritmo e o vocabulário, nunca a primeira pessoa de experiência sem uso real.
+
 Um capítulo completo responde uma pergunta da busca, tem um dado próprio e termina numa orientação. Na ordem:
 - **Situação primeiro:** uma ou duas frases de para quem e para quando serve, antes de qualquer ficha.
 - **Julgamento:** o que a peça é, dito em frase nossa, e o que ela faz diferente da vizinha ou do concorrente.

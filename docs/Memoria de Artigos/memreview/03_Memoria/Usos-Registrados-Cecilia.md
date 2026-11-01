@@ -1,0 +1,108 @@
+# Usos registrados da Cecília (vídeos)
+
+Produtos que a Cecília mostra usando nos vídeos dela, com a frase e o arquivo `.srt`. Sai do corpus do Muse de 31/10/2026 (126 `.srt`, citações conferidas palavra por palavra). Serve para o Job 1 saber onde pode haver experiência real; não libera nada sozinho.
+
+## Como usar
+- **"Usei:" ou "Recebi:" só com o Bruno confirmando** no briefing que é o mesmo produto (mesmo modelo) do artigo e que a fala vale.
+- **`[publi]` = parceria paga.** O uso é real, mas o produto veio da parceria: o rótulo é "Recebi:", e o tom do vídeo não é modelo de voz. Os vídeos da Itatiaia foram todos parceria paga (Bruno, 31/10/2026).
+- **`[saúde]` = fala sobre efeito no corpo, saúde ou beleza.** Nunca entra em artigo, nem com rótulo.
+- A voz dela, sem experiência, está em `00_Sistema/JOBS/Anexos/Anexo-Voz-da-Cecilia.md`.
+
+## Lista (97 âncoras)
+- Panela elétrica de arroz · `0105 (1).srt` — "depois eu coloquei as lentilhas na minha panela elétrica de arroz".
+- Cafeteira · `0108.srt` `[publi]` — "uma das minhas compras favoritas foi essa cafeteira".
+- Air fryer oven Itatiaia · `0114.srt` `[publi]` — "na bandeja da minha air fryer oven da itatiaia".
+- Aspirador 2 em 1 Itatiaia · `0117 (2).srt` `[publi]` — "é o novo aspirador dois em um da Itatiaia".
+- Air Fryer oven Itatiaia · `0119 (1).srt` `[publi]` — "isso porque a gente vai colocar tudo pra assar na minha Air Fryer oven da Itatiaia".
+- Panela elétrica Itatiaia · `0128(1).srt` `[publi]` — "com a minha panela elétrica da Itatiaia eu preparo tudo sem me preocupar".
+- Mixer de mão Itatiaia · `0128(2).srt` `[publi]` — "esse mixer de mão da itatiaia facilita muito o processo".
+- Cafeteira Itatiaia · `0128.srt` `[publi]` — "com a cafeteira o café fica pronto rapidinho e ainda se mantém quente por mais tempo".
+- Escrivaninha industrial · `0211.srt` `[publi]` — "como eu já tava doida por essa escrivaninha eu fui eu mesma montar".
+- Mix 3 em 1 Itatiaia · `0216.srt` `[publi]` — "e nessa hora você vai agradecer por ter um mix três em um de itatiaia".
+- Brigadeirão de Air Fryer (forma de furo) · `0302.srt` — "eu deixei gelando de um dia para o outro e desenformei".
+- Triturador manual de alho · `0304.srt` — "aí eu fiz bem pouquinho".
+- Panela de ferro Mollycook · `0309.srt` `[saúde]` — "ou seja deixa a nossa refeição muito mais nutritiva".
+- Tapete de pedra WolyCasa · `0312.srt` `[publi]` — "eu tenho lá na minha casa".
+- Magazine Luiza (convite) · `0312.srt` `[publi]` — "e o Magazine Luiza me convidou pra tá aqui hoje".
+- Bolo de cookie reaproveitado · `0319.srt` — "e aí eu vou fazer um bolo com ele".
+- Calda de caramelo caseira · `0319(1).srt` — "com a minha calda de caramelo que não endurece e dura três meses na geladeira".
+- Ovo KitKat · `0330(1).srt` — "eu gosto muito desse clássico ovo".
+- Placa de porcionar brigadeiro · `0330(11).srt` — "eu acho que eu nunca fiz um brigadeiro tão rápido".
+- Nesquik (não usado) · `0330(11).srt` — "claro que eu não usei Nesquik".
+- Pudim tradicional pronto · `0330(12).srt` — "não é um pudim de mãe mas assim das opções que a gente tem eu achei bom".
+- Copenhague (cupom) · `0330(13).srt` `[publi]` — "porque não pode usar o meu cupom de desconto na copenhague".
+- Cookies de massa de bolo · `0330(14).srt` — "ficou diferente dos outros sabores que eu já fiz".
+- Lanche congelado caseiro · `0330(15).srt` — "pra semana lanche que eu vou congelar agora".
+- Sabão de lava-louças barato · `0330(16).srt` — "eu gostei bastante do resultado acho que foi uma troca válida".
+- Tábua inox/plástico · `0330(17).srt` — "essa tábua aqui é uma tábua nova que o Bruno comprou".
+- Geladeira Panasonic · `0330(18).srt` — "tenho geladeira da Panasonic que é ótimo e custo benefício é sensacional".
+- Baú de brinquedos · `0330(19).srt` — "a gente vai ganhar mais espaço".
+- Ovo Lacta caramelo salgado · `0330(2).srt` — "eu eu achei muito gostoso".
+- Air Fryer Itatiaia 8L · `0330(20).srt` `[publi]` — "e aqui a Itatiaia oito litros entregou tudo".
+- Ovo Lacta Oreo · `0330(3).srt` — "eu prefiro o de ontem do que esse".
+- Polpa de morango Frute Press · `0330(4).srt` — "essas são da frute press que você encontra no marte minas".
+- Geleia de morango caseira · `0330(5).srt` — "depois eu adicionei o açúcar e o limão".
+- Travessa de vidro Mercado Livre · `0330(7).srt` `[publi]` — "e sim essa travessa pode ir na Air Fryer".
+- Poltrona Levita Damie · `0330(8).srt` `[publi]` — "e eu simplesmente encontrei uma poltrona que faz isso dentro de casa".
+- Geleia de morango caseira · `0330.srt` — "as quantidades eu vou deixar na legenda".
+- Sanduíche do Elvis (manteiga de amendoim) · `0607 (1).srt` — "o Elvis comia todos os dias esse sanduíche que é banana" (fala dela no fecho; vídeo lado B, Bruno cozinha).
+- Marshmallow com chocolate · `0622.srt` — "meio sem gracinha sabe não achei nada demais não".
+- Multiprocessador · `0825.srt` — "que não me estrague o multiprocessador nossa senhora vamo meu filho".
+- Multiprocessador · `0831.srt` — "a vantagem de fazer no multi processador é que a gente consegue limpar".
+- Beijinho de lata anos 90 · `0904.srt` — "eu particularmente não gosto muito de beijinho".
+- YesStyle skincare coreano · `0927.srt` — "eu recebi esses três produtos da yes style".
+- YesStyle skincare (efeito) · `0927.srt` `[saúde]` — "o efeito deles é bem levinho mesmo".
+- Máscara sabonete facial (TikTok Shop) · `1022.srt` `[saúde]` `[publi]` — "e o melhor é que ele não dá efeito rebote".
+- Frango meal prep (potinhos) · `10kg de frango.srt` — "eu gosto de congelar nesses potinhos aqui ó".
+- Tempero do Anjo · `1124 (1).srt` `[legenda duvidosa]` — "porque eu usei o tempero completo de tempero do ódio" ("ódio" = erro para "Anjo"; descrições do vídeo confirmam).
+- Pipoca Yoki Stranger Things · `1126(1).srt` — "já pronta misturei e vou provar pra ver se é bom se é azedo né".
+- Chocotone Fini mini · `1130.srt` — "eu comprei esse aqui é o mini então ele não vem recheio".
+- Massa de empanar (frango empanado) · `1203 (1).srt` — "mas essa massa que eu vou te mostrar".
+- Pastel assado 3 ingredientes · `1208.srt` — "depois de cortar eu recheei aí com peito de peru ralado".
+- Tempero do Anjo · `1215.srt` — "tempero completo tempero do anjo nele já tem sal".
+- Air Fryer Itatiaia 8L · `1219(1).srt` `[publi]` — "coloquei o saco dentro da minha Air Fryer de oito litros de Itatiaia".
+- Air Fryer Oven Itatiaia · `1219(2).srt` `[publi]` — "porque a gente vai colocar pra gratinar na nossa Air Fryer oven da itáia".
+- Mixer de mão · `1219(3).srt` — "eu usei um mixer de mão".
+- Air Fryer Oven Itatiaia · `1219(4).srt` `[publi]` — "e aí eu vou fazer na minha Air Fryer oven da Itatiaia".
+- Tempero do Anjo sal de ervas · `1219.srt` — "o segredo especial tá aí sal de ervas do tempero do anjo".
+- Descascador Tupperware · `2906.srt` — "com esse descascador aqui esse aqui é da Tupperware".
+- Bclean · `Bclean alternativo.srt` — "vou colocar cem ml de baclin eu vou usar no borrifador".
+- Bclean · `Bclean.srt` — "e por último aqui vou colocar aqui o biclin puro".
+- Boia para filtro de barro · `Boia para filtro.srt` — "e agora eu não preciso mais encher o filtro todos os dias".
+- Bolo reaproveitado (chocolate) · `bolo fora.srt` — "porque eu queria que a massa fosse de chocolate e o meu bolo não era de chocolate".
+- Air Fryer Oven Itatiaia 12L · `bolo salgado caneca.srt` `[publi]` — "e levei pra minha Air Fryer oven de doze litros da Itatiaia".
+- Carne (Márcio Frios) · `carne de natal.srt` — "a gente encontra ela lá no Márcio frios".
+- Feijão branco em lata · `chilli branco.srt` — "e a gente tá usando o de lata porque esse pelo menos não vem bicho".
+- Air Fryer (cookies) · `Cookies de bolo.srt` — "eu vou assar na Air Fryer".
+- Faquinha fatiadora Shopee · `couve.srt` — "peguei a minha faquinha de fatiada Shopee".
+- Cubo mágico labirinto · `cubo magico.srt` — "ele tem as cores pra gente organizar".
+- Dolce Gusto (cupom ceci) · `dgusta promo ceci.srt` `[publi]` — "e você pode usar o meu cupom ceci".
+- Leite condensado flor de laranjeira · `doce de leite.srt` — "provar o doce de leite que eu fiz".
+- ChatGPT (buquê) · `flores.srt` — "e eu acabei concordando com ele".
+- BPF desengordurante · `Flotador.srt` — "eu só borrifei e ela já começou a escorrer".
+- Blusa Insider · `Insider lavagem.srt` — "eu coloquei essa blusa aqui da insider pra lavar".
+- Air Fryer Itatiaia (Dia das Mães) · `itatiaia dia das  maes.srt` `[publi]` — "e eu tenho uma teoria de que esse coque nos conecta algum tipo de sabedoria ancestral".
+- Cobertor One Sleep · `iwannasleep vovo.srt` `[publi]` — "e eu mostrei pra ela o meu cobertor da One Sleep".
+- Travesseiro de joelhos One Sleep · `iwannasleep vovo.srt` `[saúde]` `[publi]` — "…eu tivesse tido 1 noite mais confortável" (continuação de frase).
+- Panela de pressão elétrica Itatiaia · `Lasanha na panela.srt` `[publi]` — "tampar e deixar a nossa panela de pressão elétrica da Itatiaia fazer o serviço dela".
+- Lava e seca Samsung · `Minha primeira lava e seca.srt` — "eu nunca usei 1 lave seca".
+- Mussarela peça · `mussarela.srt` — "comprei uma peça de mussarela porque isso é mais barato".
+- Mixer Itatiaia · `nugget saudavel.srt` `[publi]` — "é porque eu tô usando o mixer da Itatiaia".
+- Frigideira antiaderente · `panelawolff.srt` — "eu vou colocar aqui no fogão e vou colocar um fiozinho de óleo".
+- Air fryer Itatiaia 8L · `peixe itatiaia.srt` `[publi]` — "essa minha air fryer é a de oito litros da itatiaia".
+- Poltrona reclinável Damie · `poltrona reclinavel 2.srt` `[publi]` — "essa é a nova poltrona reclinável da damie".
+- Paçoca cremosa (pasta de amendoim) · `pacoca cremosa.srt` — "ah mas eu faço pasta de amendoim".
+- Liquidificador novo · `Pudim de maracuja.srt` — "vou testar o liquidificador também que eu não usei ainda este liquidificador novo".
+- Caramelo caseiro · `pudim de garfo.srt` — "caramelizar a forma com meu caramelo que não endurece e dura até três meses na geladeira".
+- Amazon Prime Day · `prime day.srt` — "e aqui a gente ainda acumulou as promoções do prime day".
+- Sorveteira Ninja Creami · `romeu e julieta.srt` — "e é isso que eu vou fazer agora só que eu já tô com uma base aqui feita de ontem".
+- Sassami (frango) · `sassami.srt` — sem frase em 1ª pessoa no vídeo (só o fecho padrão); sem entrada B.
+- Secador Wap Travel · `SECACADOR WAP TRAVEL.srt` — "ó demorei 2 minutos e 20 pra secar meu cabelo".
+- SodaStream Gaia · `sodastream gaia 1.srt` — "comprei essa máquina de fazer água com gás em casa".
+- Sofá modular Damie · `sofa modular.srt` `[publi]` — "usando meu cupom Cecília doze".
+- Tábua de cedro (descartável) · `tilapia na tabua  de cedro.srt` — "e inclusive eu já vou até falar que ela é descartável".
+- Jaqueta de brechó · `Tingir jaqueta.srt` — "eu comprei faz uns dois anos num brechó".
+- Air Fryer Oven Itatiaia · `Torta de bacon itatiaia.srt` `[publi]` — "eu já vou colocar a minha Air Fryer para esquentar".
+- Massa de bolo pronta · `torta de banana preguicosa.srt` — "aí eu tô usando a de leite condensado".
+- Bombons Ouro Branco · `travessa de ouro branco.srt` — "coloquei por cima do nosso creme branco e finalizei com os bombons picados por cima".
+- Vaporizador · `vaporizador 1.srt` — "eu testei de todas as maneiras possíveis comecei pelo banheiro".

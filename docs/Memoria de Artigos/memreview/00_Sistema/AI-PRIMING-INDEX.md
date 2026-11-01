@@ -29,7 +29,7 @@
 - **Leituras Obrigatórias:**
   1. `00_Sistema/REGRAS-GLOBAIS.md`
   2. `00_Sistema/CONTRATOS-DE-CONTEUDO.md` (nome de cada código, links e FAQ)
-  3. `00_Sistema/JOBS/Job-2-Redacao.md` e o anexo do tipo do artigo em `00_Sistema/JOBS/Anexos/`
+  3. `00_Sistema/JOBS/Job-2-Redacao.md`, o anexo do tipo do artigo em `00_Sistema/JOBS/Anexos/` e o `Anexo-Voz-da-Cecilia.md`, que vale para todos
   4. `01_Parceiros/[[Nome-do-Parceiro]].md`
   5. O briefing da pauta em `02_Artigos/<slug>.md`
   6. A nota do cluster, **se** `modo_i18n` for `paridade-completa`

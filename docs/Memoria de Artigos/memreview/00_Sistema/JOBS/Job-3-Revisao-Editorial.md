@@ -18,7 +18,7 @@ Auditar rigorosamente o rascunho antes da conversão técnica, garantindo integr
 - [ ] **4. Âncoras e Links:**
   - Os links para a página da loja são relativos e no idioma do artigo (`/cupons/<marca>` em português, `/<locale>/coupons/<marca>` nas traduções)?
   - Não há repetição mecânica de âncoras genéricas como "clique aqui"?
-- [ ] **5. Tom de Voz:** O texto soa natural, honesto e focado na vida real em casa? Passa também no item final (leitura em voz alta).
+- [ ] **5. Tom de Voz:** O texto segue as 18 regras de `Anexos/Anexo-Voz-da-Cecilia.md`? Aponte a frase que fere uma regra e o número dela. Primeira pessoa de experiência só com "Usei:" ou "Recebi:" e uso confirmado em `03_Memoria/Usos-Registrados-Cecilia.md`. Passa também no item final (leitura em voz alta).
 - [ ] **6. Escopo por Locale:** Claims universais estão separados dos fatos de
   país, moeda, entrega, catálogo ou campanha que precisam de rechecagem/localização?
 - [ ] **7. Gate i18n:** A pauta segue o modo registrado no Job 1 (`somente-pt` ou
