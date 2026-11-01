@@ -27,23 +27,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Não provamos os sabores e este guia não elege o mais gostoso: compara os 12 de pasta e os 5 de whey por rótulo e preço. A loja destaca Avelã, Bueníssimo e Cookies & Cream no Combo Best Sellers. O que pesa é o que você procura, mais proteína, menos açúcar ou menos sódio; veja o capítulo de perfil."
-      ]
-    },
-    {
-      "heading": "Como comparamos, sem degustação",
-      "paragraphs": [
-        "São 12 sabores de pasta de amendoim à venda, em 20 potes somando os dois tamanhos, e 5 de whey. Como não houve degustação, o guia compara pela tabela nutricional de cada um e pelo que a loja mostra sobre preferência: os três sabores vendidos juntos no Combo Best Sellers, Avelã, Bueníssimo e Cookies & Cream, e a ordem da vitrine \"Mais Vendidos\" da home.",
-        "Os dados são da loja oficial em 27/10/2026: preço, catálogo e tabela nutricional mudam, então confira no site antes de comprar.",
-        "A base é a tabela nutricional que a Dr. Peanut publica na galeria de fotos de cada sabor. As 11 tabelas que já estavam no guia foram relidas em 27/10/2026 e conferem número a número; a do Caramelo Salgado, que entrou na loja depois, foi lida na mesma data. As tabelas trazem a porção de 15 g, que é 1 colher de sopa, com 40 porções por embalagem, a conta do pote de 600 g; a do Caramelo Salgado é a do pote de 250 g, com cerca de 17 porções. Copiamos os números de cada imagem para um quadro só, com as mesmas colunas para todos os sabores.",
-        "Preços e tamanhos vêm da listagem de pastas de amendoim e da página de combos do site, na mesma data. O preço por 100 g e o preço com o cupom são contas nossas.",
-        "Gosto é pessoal. Por isso o texto não diz qual sabor é melhor de comer. O que ele diz sobre preferência é o que a loja mostra: quais sabores ela põe no combo de mais vendidos e em que ordem a vitrine \"Mais Vendidos\" aparece, sem número de vendas. As páginas de produto não mostram nota nem número de avaliações em texto, e o guia não usa esses dados."
+        "Pelo rótulo e pelo preço por 100 g, o melhor sabor depende do que você procura: Avelã e Leite em Pó têm mais proteína, Cookies & Cream e Brownie têm menos açúcar, e o Brownie tem menos sódio. Para começar sem pensar, o trio que a loja destaca no Combo Best Sellers é Avelã, Bueníssimo e Cookies & Cream. O capítulo de perfil detalha cada critério."
       ]
     },
     {
       "heading": "Todos os sabores e o preço por 100 g",
       "paragraphs": [
-        "Em 27/10/2026, a listagem da loja trazia 20 potes de pasta de amendoim, que somam **12 sabores** em dois tamanhos: 9 potes de 250 g e 11 de 600 g. Desde a primeira versão deste guia, em 16/10/2026, o Caramelo Salgado entrou, o Chocolate Branco, fora de venda em 25/10/2026, voltou ao pote de 600 g, e o Doce de Leite ganhou o pote de 600 g. Nem todo sabor aparece nos dois tamanhos:"
+        "A base é a tabela de cada sabor e o preço por 100 g, com os sabores que a loja destaca; gosto, só provando. Em 27/10/2026, a listagem da loja trazia 20 potes de pasta de amendoim, que somam **12 sabores** em dois tamanhos: 9 potes de 250 g e 11 de 600 g. Nem todo sabor aparece nos dois tamanhos:"
       ],
       "bullets": [
         "Nos dois tamanhos: Avelã, Bombom Italiano, Brownie, Bueníssimo, Cookies & Cream, Doce de Leite, Leite em Pó e Pistache.",
@@ -54,7 +44,7 @@
         "headers": [
           "Opção",
           "Peso",
-          "Preço em 27/10/2026",
+          "Preço",
           "Com o cupom de 10% (conta nossa)",
           "Preço por 100 g, sem cupom (conta nossa)"
         ],
@@ -144,7 +134,7 @@
       "image": {
         "src": "/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
         "alt": "Potes de pasta de amendoim Dr. Peanut nos 12 sabores vendidos em 27/10/2026, em fotos oficiais da loja",
-        "caption": "Os 12 sabores que a Dr. Peanut vendia em 27/10/2026; o Caramelo Salgado só existe no pote de 250 g. Fotos oficiais da loja.",
+        "caption": "Os 12 sabores que a Dr. Peanut vende; o Caramelo Salgado só existe no pote de 250 g. Fotos oficiais da loja.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
@@ -297,7 +287,7 @@
             "602 / 19 g / 7,6 g / 16 g"
           ]
         ],
-        "caption": "Tabelas publicadas pela loja, lidas em 27/10/2026: 40 porções por embalagem, salvo o Caramelo Salgado, com cerca de 17."
+        "caption": "Tabelas publicadas pela loja: 40 porções por embalagem, salvo o Caramelo Salgado, com cerca de 17."
       },
       "postParagraphs": [
         "Para comparar proteína, use a coluna por 100 g. Na colher, o Chocolate Branco aparece com 3 g e o Avelã com 2,9 g, mas por 100 g são 17 g contra 20 g. A diferença na colher vem do arredondamento do rótulo. Por 100 g, a proteína vai de **17 g** (Banoffee, Bombom Italiano, Caramelo Salgado, Chocolate Branco e Cookies & Cream) a **20 g** (Avelã e Leite em Pó).",
@@ -308,12 +298,12 @@
       "heading": "Dr. Peanut é zero açúcar?",
       "paragraphs": [
         "Não. A Dr. Peanut é **sem adição de açúcares**, que é outra coisa. O pote diz \"ZERO adição de açúcares\", e a linha \"Açúcares adicionados\" marca 0 g nos 12 sabores. Mas todos têm açúcares na tabela: de 4,6 g por 100 g, no Cookies & Cream, a 10 g, no Beijinho. Na colher de 15 g, são 0,7 a 1,5 g.",
-        "O doce vem também de **polióis** e de edulcorantes. Os 12 sabores levam maltitol, xilitol, sucralose e acessulfame de potássio. Brownie e Banoffee levam também glicosídeos de esteviol. A quantidade de polióis por 100 g separa os sabores em três grupos:"
+        "O doce vem também de **polióis** e de edulcorantes. Os 12 sabores levam maltitol, xilitol, sucralose e acessulfame de potássio. Brownie e Banoffee levam também glicosídeos de esteviol. A quantidade de polióis por 100 g separa os sabores em três faixas (os gramas de cada um estão no quadro acima):"
       ],
       "bullets": [
-        "Até 8,4 g: Avelã (6,4 g), Brownie (6,7 g), Bueníssimo (6,7 g), Beijinho (8 g) e Leite em Pó (8,4 g).",
-        "Doce de Leite, com 12 g.",
-        "De 16 a 20 g: Pistache (16 g), Bombom Italiano (17 g), Banoffee (18 g), Caramelo Salgado (19 g), Chocolate Branco (19 g) e Cookies & Cream (20 g)."
+        "Mais leve, até 8,4 g: Avelã, Brownie, Bueníssimo, Beijinho e Leite em Pó.",
+        "No meio, com 12 g: Doce de Leite.",
+        "Mais alta, de 16 a 20 g: Pistache, Bombom Italiano, Banoffee, Caramelo Salgado, Chocolate Branco e Cookies & Cream."
       ],
       "postParagraphs": [
         "Menos açúcar não quer dizer menos poliol. O Cookies & Cream tem os menores açúcares totais e a maior quantidade de polióis dos 12. O Brownie é o único com açúcares totais abaixo de 5 g e polióis abaixo de 7 g por 100 g."
@@ -322,7 +312,7 @@
     {
       "heading": "Tem Dr. Peanut zero lactose?",
       "paragraphs": [
-        "Não. Em 27/10/2026, as páginas dos 12 sabores diziam **\"CONTÉM LACTOSE\"**, e a loja não vendia versão sem lactose. Todas as pastas levam proteína concentrada do soro do leite. Todos os sabores trazem também **\"NÃO CONTÉM GLÚTEN\"**.",
+        "Não. As páginas dos 12 sabores dizem **\"CONTÉM LACTOSE\"**, e a loja não vendia versão sem lactose. Todas as pastas levam proteína concentrada do soro do leite. Todos os sabores trazem também **\"NÃO CONTÉM GLÚTEN\"**.",
         "Nos alérgicos, as páginas de produto trazem:"
       ],
       "bullets": [
@@ -348,7 +338,7 @@
     {
       "heading": "Whey Dr. Peanut: qual sabor escolher",
       "paragraphs": [
-        "O whey da Dr. Peanut tem **5 sabores**: Avelã, Bombom Italiano, Bueníssimo, Doce de Leite e Paçoca. Todos vêm em pote de 900 g, a R$ 224,39 cada em 27/10/2026, ou R$ 201,95 com o cupom (conta nossa). A porção é de 40 g (2 dosadores), com cerca de 23 porções por pote. As tabelas abaixo são as lidas em 16/10/2026; em 27/10/2026 conferimos só o preço e os sabores."
+        "O whey da Dr. Peanut tem **5 sabores**: Avelã, Bombom Italiano, Bueníssimo, Doce de Leite e Paçoca. Todos vêm em pote de 900 g, a R$ 224,39 cada, ou R$ 201,95 com o cupom (conta nossa). A porção é de 40 g (2 dosadores), com cerca de 23 porções por pote. A tabela nutricional abaixo é da leitura de 16/10/2026, anterior à dos preços."
       ],
       "comparisonTable": {
         "headers": [
@@ -413,7 +403,7 @@
             "229 mg"
           ]
         ],
-        "caption": "Porção de 40 g, tabela publicada pela loja em 16/10/2026."
+        "caption": "Porção de 40 g, tabela publicada pela loja."
       },
       "postParagraphs": [
         "Preço e proteína não decidem entre os sabores: todos custam o mesmo e têm **20 g de proteína** por porção. Pela nossa conta, com 900 g divididos em porções de 40 g, a porção sai a R$ 9,97, ou R$ 8,98 com o cupom. O pote soma 450 g de proteína, e cada 100 g de proteína sai a R$ 49,86, ou R$ 44,88 com o cupom.",
@@ -426,10 +416,10 @@
     {
       "heading": "Qual sabor escolher pelo seu perfil",
       "paragraphs": [
-        "Sem prova de sabor, a escolha sai do que dá para conferir: o que a loja destaca como mais vendido e o que o rótulo mostra. Para proteína e açúcar, compare por 100 g: na colher, o arredondamento do rótulo embaralha a ordem."
+        "Pelo rótulo por 100 g, comece pelo trio do Combo Best Sellers e ajuste por proteína, açúcar ou sódio nos itens abaixo. Na colher, o arredondamento do rótulo embaralha a ordem."
       ],
       "bullets": [
-        "**Quer o sabor que a loja mais destaca:** Avelã, Bueníssimo e Cookies & Cream, os três do Combo Best Sellers. A vitrine \"Mais Vendidos\" da home, em 27/10/2026, abria com Bombom Italiano, Bueníssimo e Avelã, nessa ordem, e a listagem de pastas, na ordem padrão \"Mais vendidos\", começava do mesmo jeito. É a ordem que a loja mostra, sem número de vendas.",
+        "**Quer o sabor que a loja mais destaca:** Avelã, Bueníssimo e Cookies & Cream, os três do Combo Best Sellers. A vitrine \"Mais Vendidos\" da home abria com Bombom Italiano, Bueníssimo e Avelã, nessa ordem, e a listagem de pastas, na ordem padrão \"Mais vendidos\", começava do mesmo jeito. É a ordem que a loja mostra, sem número de vendas.",
         "**Quer menos açúcar total:** Cookies & Cream (4,6 g por 100 g), Brownie (4,7 g) e Chocolate Branco (5,1 g). Se você também quer menos polióis, o Brownie tem 6,7 g por 100 g, contra 20 g do Cookies & Cream e 19 g do Chocolate Branco.",
         "**Quer mais proteína:** Avelã e Leite em Pó, com 20 g por 100 g. Beijinho, Brownie, Bueníssimo e Pistache vêm logo atrás, com 19 g.",
         "**Quer menos gordura saturada:** Bombom Italiano e Cookies & Cream, com 1,1 g por colher. O Chocolate Branco vem logo depois, com 1,2 g.",
@@ -442,8 +432,8 @@
     {
       "heading": "Preço e cupom da Dr. Peanut",
       "paragraphs": [
-        "O cupom **DREMCASACOMCECILIA** dá 10% de desconto em todo o site da Dr. Peanut. Vale em todas as formas de pagamento e soma com as promoções do site. No nosso teste de 26/10/2026, os 10% valeram num combo de três pastas que já estava em promoção: de R$ 68,35, o total caiu para R$ 61,51. Nas condições de pagamento da página do produto, em 27/10/2026, o Pix tinha 3% de desconto adicional.",
-        "O frete grátis conta o total já com o cupom. Pela faixa do site em 27/10/2026, ele vale no Sul e no Sudeste em compras acima de R$ 149,90 e, nas demais regiões, acima de R$ 199,90. Com os preços com cupom do quadro de preços, alguns carrinhos ficam abaixo do mínimo:"
+        "O cupom **DREMCASACOMCECILIA** dá 10% de desconto em todo o site da Dr. Peanut. Vale em todas as formas de pagamento e soma com as promoções do site. No nosso teste, os 10% valeram num combo de três pastas que já estava em promoção: de R$ 68,35, o total caiu para R$ 61,51. Nas condições de pagamento da página do produto, o Pix tinha 3% de desconto adicional.",
+        "O frete grátis conta o total já com o cupom. Pela faixa do site, ele vale no Sul e no Sudeste em compras acima de R$ 149,90 e, nas demais regiões, acima de R$ 199,90. Com os preços com cupom do quadro de preços, alguns carrinhos ficam abaixo do mínimo:"
       ],
       "comparisonTable": {
         "headers": [
@@ -502,10 +492,10 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual o melhor sabor da Dr. Peanut? Não provamos os sabores, então não elegemos um. Pelo rótulo, depende do que você procura: Avelã e Leite em Pó têm mais proteína por 100 g, e Cookies & Cream e Brownie, menos açúcar total.",
-        "Qual o sabor mais vendido da Dr. Peanut? A loja não publica número de vendas. O Combo Best Sellers junta Avelã, Bueníssimo e Cookies & Cream, e a vitrine \"Mais Vendidos\" da home, em 27/10/2026, abria com Bombom Italiano, Bueníssimo e Avelã.",
+        "Qual o melhor sabor da Dr. Peanut? Pelo rótulo, depende do seu perfil: o capítulo de perfil indica quem prioriza proteína, menos açúcar ou menos sódio.",
+        "Qual o sabor mais vendido da Dr. Peanut? A loja não publica número de vendas. O Combo Best Sellers junta Avelã, Bueníssimo e Cookies & Cream, e a vitrine \"Mais Vendidos\" da home abria com Bombom Italiano, Bueníssimo e Avelã.",
         "Dr. Peanut é zero açúcar? Não. As pastas não têm açúcar adicionado, mas o rótulo mostra de 4,6 a 10 g de açúcares totais por 100 g, além de polióis.",
-        "Tem Dr. Peanut zero lactose? Não. Em 27/10/2026, os 12 sabores de pasta diziam \"contém lactose\"; as páginas do whey diziam o mesmo em 16/10/2026.",
+        "Tem Dr. Peanut zero lactose? Não. Os 12 sabores de pasta dizem \"contém lactose\", e as páginas do whey dizem o mesmo.",
         "Quantas calorias tem uma colher de Dr. Peanut? De 83 a 90 kcal por colher de sopa de 15 g, conforme o sabor. Banoffee e Caramelo Salgado têm menos; Beijinho e Pistache, mais.",
         "Qual o melhor sabor do whey Dr. Peanut? Os 5 sabores têm 20 g de proteína por porção e o mesmo preço. Mudam os açúcares totais (de 8,5 a 11 g) e o sódio, que na Paçoca é o dobro dos outros.",
         "O whey Dr. Peanut é da Max Titanium? A página do produto o apresenta como Max Titanium em colaboração com a Dr. Peanut. As duas são marcas irmãs, do mesmo grupo."
