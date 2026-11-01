@@ -115,7 +115,7 @@
       "heading": "Onde o cupom vale: o que o nosso teste mostrou",
       "paragraphs": [
         "As regras oficiais do programa são curtas: o cupom vale nas compras da loja online, não vale para **produtos de lançamento**, não vale nas **lojas físicas** da Insider e não é cumulativo com outro cupom, porque a loja aceita só um por pedido.",
-        "Para saber como isso funciona no dia a dia, testamos o cupom no checkout oficial em 5 de outubro de 2026, sem finalizar a compra. O desconto entrou numa Tech T-Shirt, numa Undershirt Antissuor, num kit com três Tech T-Shirts femininas que já estava com preço promocional e numa peça do Outlet. Também testamos uma meia de R$ 25 sozinha no carrinho, e o desconto entrou: não encontramos valor mínimo de pedido para usar o cupom. Em todos esses itens o desconto foi de 15% do preço, o que voltamos a conferir no checkout em 7 de outubro.",
+        "Para saber como isso funciona no dia a dia, testamos o cupom no checkout oficial em 5 de outubro de 2026, sem finalizar a compra. O desconto entrou numa Tech T-Shirt, numa Undershirt Antissuor, num kit com três Tech T-Shirts femininas que já estava com preço promocional e numa peça do Outlet. Também testamos uma meia de R$ 25 sozinha no carrinho, e o desconto entrou: não encontramos valor mínimo de pedido para usar o cupom. Em todos esses itens o desconto foi de 15% do preço, o que voltamos a conferir no checkout dias depois.",
         "Num vestido marcado como lançamento, o cupom não deu desconto. Já peças com a mesma etiqueta, como a Tech T-Shirt e os sutiãs Nakedfeel do Outlet, receberam o desconto normalmente: em geral, o lançamento fica fora do cupom só nos primeiros dias. O jeito seguro de saber é o resumo do pedido, que mostra item por item o que entrou no cupom."
       ],
       "bullets": [
@@ -140,7 +140,7 @@
         "Como o cupom entra em quase todo o catálogo online, a escolha depende mais da necessidade da casa do que da regra. Estas são as linhas mais procuradas da marca, com o que a própria Insider informa sobre cada uma:"
       ],
       "comparisonTable": {
-        "caption": "Linhas da Insider e o que a marca informa (site oficial, consultado em 5 de outubro de 2026)",
+        "caption": "Linhas da Insider e o que a marca informa (site oficial)",
         "headers": ["Linha", "Para quê", "O que a Insider informa", "Antes de comprar"],
         "rows": [
           ["Tech T-Shirt (masculina e feminina)", "Camiseta básica do dia a dia, trabalho e viagem", "Tecido de modal com tecnologia antiodor, desamassa no corpo e tem garantia de 2 anos contra desbotamento", "A garantia exige seguir a etiqueta: ciclo delicado, sem amaciante e secagem à sombra"],
@@ -151,7 +151,7 @@
         ]
       },
       "postParagraphs": [
-        "A Tech T-Shirt é o produto mais conhecido da marca, e a garantia contra desbotamento é o argumento mais concreto da Insider: segundo os termos da loja, ela vale por 2 anos para peças compradas a partir de setembro de 2024, desde que a lavagem siga a etiqueta, com ciclo delicado em até 30 °C, sem deixar de molho, sem alvejante, sem amaciante e com secagem à sombra.",
+        "A Tech T-Shirt é o produto mais conhecido da marca, e a garantia contra desbotamento é o argumento mais concreto da Insider: segundo os termos da loja, ela vale por 2 anos, desde que a lavagem siga a etiqueta, com ciclo delicado em até 30 °C, sem deixar de molho, sem alvejante, sem amaciante e com secagem à sombra.",
         "Os kits costumam ser a forma mais econômica de comprar várias peças, porque o preço por unidade já é menor. Com o cupom por cima e o pedido acima de R$ 399, o frete também sai grátis."
       ],
       "image": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",

@@ -52387,6 +52387,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 326,
     "slug": "insider-store-reclame-aqui-nota-reputacao",
+    "bodyDatesReason": "reclame-aqui",
     "title": "Insider Store no Reclame Aqui: nota, reclamações e o que os dados mostram",
     "seoTitle": "Insider Store no Reclame Aqui: nota, reclamações e pós-venda",
     "type": "Análise de Reputação",
@@ -52441,7 +52442,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/insider/insider-reclame-aqui-hero-perfil.webp",
           "alt": "Perfil da Insider Store no Reclame Aqui, na categoria Moda - E-commerce - Moda, com selo de empresa verificada e reputação RA 1000",
-          "caption": "Perfil da Insider Store no Reclame Aqui, consultado em 05/10/2026.",
+          "caption": "Perfil da Insider Store no Reclame Aqui.",
           "objectFit": "contain",
           "aspectRatio": 1.7757
         }
@@ -52452,7 +52453,7 @@ export const reviewsData: unknown[] = [
           "Estes são os indicadores da aba de 6 meses, que é a janela usada para a reputação exibida no topo do perfil:"
         ],
         "comparisonTable": {
-          "caption": "Perfil da Insider Store no Reclame Aqui, aba de 6 meses (dados de 01/04/2026 a 30/09/2026), consultado em 05/10/2026.",
+          "caption": "Perfil da Insider Store no Reclame Aqui, aba de 6 meses (dados de 01/04/2026 a 30/09/2026).",
           "headers": [
             "Indicador",
             "Resultado",
@@ -52512,7 +52513,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/insider/insider-reclame-aqui-reputacao-6-meses-2026-09.webp",
         "imageAlt": "Painel do Reclame Aqui da Insider Store nos últimos 6 meses: reputação RA1000, nota 9.0/10, 1.593 reclamações recebidas, 99,4% respondidas, 10 aguardando resposta, 92,6% resolvidas, 86% voltariam a fazer negócio, 994 avaliadas, nota do consumidor 8,27 e tempo médio de resposta de 2 dias e 3 horas, com dados de 01/04/2026 a 30/09/2026",
-        "imageCaption": "Painel de reputação da aba de 6 meses (dados de 01/04/2026 a 30/09/2026).",
+        "imageCaption": "Painel de reputação da aba de 6 meses.",
         "imageFit": "portrait",
         "imageAspectRatio": 0.7354
       },
@@ -52522,7 +52523,7 @@ export const reviewsData: unknown[] = [
           "Olhar só os últimos seis meses pode esconder a sazonalidade. Por isso, comparamos todas as abas do perfil:"
         ],
         "comparisonTable": {
-          "caption": "Abas de desempenho da Insider Store no Reclame Aqui, consultadas em 05/10/2026. A aba de 12 meses cobre de 01/10/2025 a 30/09/2026.",
+          "caption": "Abas de desempenho da Insider Store no Reclame Aqui. A aba de 12 meses cobre de 01/10/2025 a 30/09/2026.",
           "headers": [
             "Período",
             "Nota",
@@ -52576,7 +52577,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A reputação ficou no nível máximo em todos os períodos, mas a tabela mostra duas coisas. A primeira é o volume: as reclamações passaram de 3.826 em 2024 para 5.637 em 2025, sem queda nos índices de solução, que ficaram acima de 94% nos dois anos. O atendimento também ficou mais rápido: o tempo médio de resposta caiu de 4 dias e 10 horas em 2024 para 2 dias e 3 horas no último semestre.",
-          "A segunda é a sazonalidade. Das 5.013 reclamações dos últimos 12 meses, só 1.593 são do semestre mais recente; as outras cerca de 3.400, mais de dois terços, vieram de outubro de 2025 a março de 2026, o período que inclui Black Friday e Natal. Fazendo a conta com os números do perfil, a nota média dada pelos consumidores nesse semestre de pico ficou em torno de 7,7, abaixo dos 8,27 do semestre seguinte. Na prática, quem compra nas grandes datas tem mais chance de enfrentar atraso e uma fila maior no atendimento."
+          "A segunda é a sazonalidade. Das 5.013 reclamações dos últimos 12 meses, só 1.593 são do semestre mais recente; as outras cerca de 3.400, mais de dois terços, vieram de outubro a março, o período que inclui Black Friday e Natal. Fazendo a conta com os números do perfil, a nota média dada pelos consumidores nesse semestre de pico ficou em torno de 7,7, abaixo dos 8,27 do semestre seguinte. Na prática, quem compra nas grandes datas tem mais chance de enfrentar atraso e uma fila maior no atendimento."
         ]
       },
       {
@@ -52600,7 +52601,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/insider/insider-reclame-aqui-principais-problemas.webp",
         "imageAlt": "Principais problemas comentados no perfil da Insider Store no Reclame Aqui: Moda Masculina com 34,2% na categoria, Produto não recebido com 20,5% nos problemas e Camisetas com 36,34% nos produtos",
-        "imageCaption": "Principais problemas no perfil da Insider Store, com reclamações de até 3 anos (consulta em 05/10/2026).",
+        "imageCaption": "Principais problemas no perfil da Insider Store, com reclamações de até 3 anos.",
         "imageFit": "contain",
         "imageAspectRatio": 1.7561
       },
@@ -52615,7 +52616,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Alerta 1: cupons vazados e pedidos cancelados",
         "paragraphs": [
-          "Entre as reclamações mais recentes há clientes que fizeram pedidos em setembro de 2026 e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom de R$ 250 de uso pessoal, criado para um grupo específico de clientes, que acabou divulgado em sites de cupons sem autorização da marca. Segundo a empresa, todos os pedidos feitos com esse código foram cancelados e o valor pago foi estornado.",
+          "Entre as reclamações mais recentes há clientes que fizeram pedidos em setembro e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom de R$ 250 de uso pessoal, criado para um grupo específico de clientes, que acabou divulgado em sites de cupons sem autorização da marca. Segundo a empresa, todos os pedidos feitos com esse código foram cancelados e o valor pago foi estornado.",
           "A Insider afirmou ainda que as promoções oficiais são divulgadas nos próprios canais da marca: site, e-mails da Insider e redes sociais verificadas. A lição é simples: desconfie de cupons com desconto alto demais encontrados em sites de cupons, porque o pedido pode ser cancelado depois de pago. O EMCASACOMCECILIA é um cupom de criador do programa oficial de parceria da Insider, feito para ser divulgado."
         ]
       },
@@ -52671,11 +52672,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é a nota da Insider Store no Reclame Aqui? A Insider Store tem reputação RA1000, com nota 9,0 nos últimos seis meses (abril a setembro de 2026) e 8,7 nos últimos 12 meses.",
+          "Qual é a nota da Insider Store no Reclame Aqui? A Insider Store tem reputação RA1000, com nota 9,0 nos últimos seis meses (abril a setembro) e 8,7 nos últimos 12 meses.",
           "A Insider Store é confiável segundo o Reclame Aqui? Os dados indicam que sim: a empresa respondeu 99,4% das reclamações dos últimos seis meses, resolveu 92,6% das avaliadas e mantém a reputação máxima em todos os períodos do perfil.",
           "Qual é a reclamação mais comum contra a Insider? Produto não recebido, com 2.745 reclamações em três anos, seguido de atraso na entrega, com 1.933.",
           "Quanto tempo a Insider demora para responder no Reclame Aqui? A média dos últimos seis meses foi de 2 dias e 3 horas. A própria empresa informa um prazo de até 3 dias úteis.",
-          "Por que a Insider cancelou meu pedido feito com cupom? No fim de setembro de 2026, a Insider cancelou e estornou pedidos feitos com um cupom pessoal de R$ 250 que vazou em sites de cupons. Segundo a empresa, as promoções oficiais saem só nos canais da marca.",
+          "Por que a Insider cancelou meu pedido feito com cupom? No fim de setembro, a Insider cancelou e estornou pedidos feitos com um cupom pessoal de R$ 250 que vazou em sites de cupons. Segundo a empresa, as promoções oficiais saem só nos canais da marca.",
           "A Insider vende roupa que desbota? A categoria \"desbotou\" tem apenas 9 reclamações em três anos no Reclame Aqui. A Tech T-Shirt tem garantia de 2 anos contra desbotamento, desde que a etiqueta de lavagem seja seguida.",
           "Como reclamar da Insider? Comece pelo WhatsApp oficial da loja, em dias úteis, das 9h às 18h. Se não resolver, abra uma reclamação no Reclame Aqui, que exige cadastro, e acompanhe a resposta também pelo e-mail.",
           "Qual é o prazo de garantia para defeito na Insider? A política de trocas da loja dá até 180 dias corridos após o recebimento para defeito, com envio de fotos. Em algumas respostas, a equipe citou o prazo legal de 90 dias do CDC.",
@@ -52820,7 +52821,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde o cupom vale: o que o nosso teste mostrou",
         "paragraphs": [
           "As regras oficiais do programa são curtas: o cupom vale nas compras da loja online, não vale para **produtos de lançamento**, não vale nas **lojas físicas** da Insider e não é cumulativo com outro cupom, porque a loja aceita só um por pedido.",
-          "Para saber como isso funciona no dia a dia, testamos o cupom no checkout oficial em 5 de outubro de 2026, sem finalizar a compra. O desconto entrou numa Tech T-Shirt, numa Undershirt Antissuor, num kit com três Tech T-Shirts femininas que já estava com preço promocional e numa peça do Outlet. Também testamos uma meia de R$ 25 sozinha no carrinho, e o desconto entrou: não encontramos valor mínimo de pedido para usar o cupom. Em todos esses itens o desconto foi de 15% do preço, o que voltamos a conferir no checkout em 7 de outubro.",
+          "Para saber como isso funciona no dia a dia, testamos o cupom no checkout oficial em 5 de outubro de 2026, sem finalizar a compra. O desconto entrou numa Tech T-Shirt, numa Undershirt Antissuor, num kit com três Tech T-Shirts femininas que já estava com preço promocional e numa peça do Outlet. Também testamos uma meia de R$ 25 sozinha no carrinho, e o desconto entrou: não encontramos valor mínimo de pedido para usar o cupom. Em todos esses itens o desconto foi de 15% do preço, o que voltamos a conferir no checkout dias depois.",
           "Num vestido marcado como lançamento, o cupom não deu desconto. Já peças com a mesma etiqueta, como a Tech T-Shirt e os sutiãs Nakedfeel do Outlet, receberam o desconto normalmente: em geral, o lançamento fica fora do cupom só nos primeiros dias. O jeito seguro de saber é o resumo do pedido, que mostra item por item o que entrou no cupom."
         ],
         "bullets": [
@@ -52845,7 +52846,7 @@ export const reviewsData: unknown[] = [
           "Como o cupom entra em quase todo o catálogo online, a escolha depende mais da necessidade da casa do que da regra. Estas são as linhas mais procuradas da marca, com o que a própria Insider informa sobre cada uma:"
         ],
         "comparisonTable": {
-          "caption": "Linhas da Insider e o que a marca informa (site oficial, consultado em 5 de outubro de 2026)",
+          "caption": "Linhas da Insider e o que a marca informa (site oficial)",
           "headers": [
             "Linha",
             "Para quê",
@@ -52886,7 +52887,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Tech T-Shirt é o produto mais conhecido da marca, e a garantia contra desbotamento é o argumento mais concreto da Insider: segundo os termos da loja, ela vale por 2 anos para peças compradas a partir de setembro de 2024, desde que a lavagem siga a etiqueta, com ciclo delicado em até 30 °C, sem deixar de molho, sem alvejante, sem amaciante e com secagem à sombra.",
+          "A Tech T-Shirt é o produto mais conhecido da marca, e a garantia contra desbotamento é o argumento mais concreto da Insider: segundo os termos da loja, ela vale por 2 anos, desde que a lavagem siga a etiqueta, com ciclo delicado em até 30 °C, sem deixar de molho, sem alvejante, sem amaciante e com secagem à sombra.",
           "Os kits costumam ser a forma mais econômica de comprar várias peças, porque o preço por unidade já é menor. Com o cupom por cima e o pedido acima de R$ 399, o frete também sai grátis."
         ],
         "image": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
@@ -54865,6 +54866,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 334,
     "slug": "black-friday-insider",
+    "bodyDatesReason": "campanha",
     "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA",
     "seoTitle": "Black Friday Insider 2026: esquenta, preços e cupom",
     "type": "Guia de Black Friday",
@@ -54905,17 +54907,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Insider 2026",
         "paragraphs": [
-          "A Black Friday é em 27 de novembro, e a Insider já está no esquenta, em janelas curtas que mudam a cada dia. O cupom EMCASACOMCECILIA dá 15% OFF por cima dos preços da campanha e do Outlet; o que muda a conta é a regra de cada promoção, explicada em \"o que soma\"."
+          "A Black Friday está chegando, e a Insider já está no esquenta, em janelas curtas que mudam a cada dia. O cupom EMCASACOMCECILIA dá 15% OFF por cima dos preços da campanha e do Outlet; o que muda a conta é a regra de cada promoção, explicada em \"o que soma\"."
         ]
       },
       {
         "heading": "Quando começa a Black Friday da Insider?",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. A Insider já abriu a coleção Black Friday Insider 2026: em 9 de outubro, ela tinha 129 produtos e uma chamada com brindes, desconto no Pix e \"até 40% OFF\", sem datas de início e fim.",
-          "Em 2026, a Insider não esperou novembro: a coleção Black Friday Insider 2026 já estava no site em 9 de outubro, com o convite para aproveitar a Black Friday \"antes de todo mundo\". A loja não publicou datas de início e fim nem o que muda perto de 27 de novembro.",
-          "Enquanto isso, ela faz promoções curtas, cada uma com regra própria. A de 10 de outubro dava R$ 100 OFF em itens selecionados, aplicados automaticamente, e avisava na página do produto que esse desconto não somava com cupons; nos outros produtos do carrinho, o cupom continuava valendo.",
-          "No fim de outubro, a loja abriu o esquenta da Black Friday em janelas curtas, com um \"último dia\" anunciado para 2 de novembro. Em 31 de outubro, a home trazia frete grátis em qualquer pedido, +2% OFF no Pix e brindes cumulativos: meias a partir de R$ 399, underwear a partir de R$ 599 e boné ou sutiã a partir de R$ 799. As condições mudam de uma janela para a outra; confira a home da loja no dia da compra.",
-          "Nos anos anteriores, a campanha mudou de nome. Em 2024, foi a \"Loucos por conforto\", com a Narcisa Tamborindeguy, segundo reportagem do site Nosso Meio de 28 de novembro de 2024, com declarações do CEO da marca. Percentuais de anos anteriores publicados por sites de cupom ficam fora deste guia, porque a loja não os confirma."
+          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. A Insider já abriu a coleção Black Friday Insider 2026: em outubro, ela tinha 129 produtos e uma chamada com brindes, desconto no Pix e \"até 40% OFF\", sem datas de início e fim.",
+          "Em 2026, a Insider não esperou novembro: a coleção Black Friday Insider 2026 já estava no site em outubro, com o convite para aproveitar a Black Friday \"antes de todo mundo\". A loja não publicou datas de início e fim nem o que muda perto da Black Friday.",
+          "Enquanto isso, ela faz promoções curtas, cada uma com regra própria. Uma delas dava R$ 100 OFF em itens selecionados, aplicados automaticamente, e avisava na página do produto que esse desconto não somava com cupons; nos outros produtos do carrinho, o cupom continuava valendo.",
+          "No fim de outubro, a loja abriu o esquenta da Black Friday em janelas curtas, com um \"último dia\" anunciado para 2 de novembro. Na leitura mais recente, a home trazia frete grátis em qualquer pedido, +2% OFF no Pix e brindes cumulativos: meias a partir de R$ 399, underwear a partir de R$ 599 e boné ou sutiã a partir de R$ 799. As condições mudam de uma janela para a outra; confira a home da loja no dia da compra.",
+          "Nos anos anteriores, a campanha mudou de nome. Em 2024, foi a \"Loucos por conforto\", com a Narcisa Tamborindeguy, segundo reportagem do site Nosso Meio, com declarações do CEO da marca. Percentuais de anos anteriores publicados por sites de cupom ficam fora deste guia, porque a loja não os confirma."
         ],
         "image": {
           "src": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
@@ -54942,7 +54944,7 @@ export const reviewsData: unknown[] = [
           "headers": [
             "Produto",
             "Preço riscado",
-            "Em 9/10/2026"
+            "Preço do dia"
           ],
           "rows": [
             [
@@ -54983,7 +54985,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Compare o kit com a peça avulsa: em 9 de outubro, três Tech T-Shirts avulsas saíam por R$ 387, menos que o kit de três, a R$ 456. Em 31 de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas, e a Tech T-Shirt Gola V saía a R$ 119 na promoção do dia; a conta de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa). Na Core T-Shirt foi o contrário: no kit de cinco, cada camiseta saía por R$ 161,10, abaixo do preço da avulsa.",
+          "Compare o kit com a peça avulsa: no preço de outubro, três Tech T-Shirts avulsas saíam por R$ 387, menos que o kit de três, a R$ 456. Na leitura mais recente, o kit de três mais barato estava a R$ 356, abaixo das três avulsas, e a Tech T-Shirt Gola V saía a R$ 119 na promoção do dia; a conta de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa). Na Core T-Shirt foi o contrário: no kit de cinco, cada camiseta saía por R$ 161,10, abaixo do preço da avulsa.",
           "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
         ]
       },
@@ -54999,11 +55001,11 @@ export const reviewsData: unknown[] = [
           "objectFit": "square"
         },
         "comparisonTable": {
-          "caption": "Underwear na Insider em 9 de outubro de 2026: preço riscado na página e preço do dia, antes do cupom e do Pix.",
+          "caption": "Underwear na Insider, na mesma leitura: preço riscado na página e preço do dia, antes do cupom e do Pix.",
           "headers": [
             "Produto",
             "Preço riscado",
-            "Em 9/10/2026"
+            "Preço do dia"
           ],
           "rows": [
             [
@@ -55046,12 +55048,12 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, Pix e frete grátis: o que soma",
         "bullets": [
           "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido.",
-          "**Esquenta (teste de 31/10):** o cupom entrou por cima dos preços da campanha. A Tech T-Shirt, de R$ 169 por R$ 129 no site, saiu por R$ 109,65; a Calça Pantalona InLounge do Outlet, de R$ 299 por R$ 179, saiu por R$ 152,15. A loja aceita um cupom por pedido e também oferece cupons da própria campanha: compare os 15% com o cupom da campanha da própria Insider antes de fechar o pedido.",
-          "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na promoção de 10 de outubro, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
-          "**Lançamentos:** nos primeiros dias, o lançamento pode ficar fora do cupom. Depois, mesmo com a etiqueta de lançamento, o desconto entra: no nosso teste de 5 de outubro, a Tech T-Shirt recebeu os 15%. O resumo do pedido mostra a linha do cupom em cada item que entrou nele.",
-          "**Pix:** em outubro, a loja anunciava desconto no Pix, também na coleção da Black Friday, mas o percentual mudava entre a barra do site e os banners; em 31 de outubro, a barra dizia +2% OFF no Pix. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
+          "**Esquenta (teste no carrinho):** o cupom entrou por cima dos preços da campanha. A Tech T-Shirt, de R$ 169 por R$ 129 no site, saiu por R$ 109,65; a Calça Pantalona InLounge do Outlet, de R$ 299 por R$ 179, saiu por R$ 152,15. A loja aceita um cupom por pedido e também oferece cupons da própria campanha: compare os 15% com o cupom da campanha da própria Insider antes de fechar o pedido.",
+          "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na promoção de R$ 100 OFF, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
+          "**Lançamentos:** nos primeiros dias, o lançamento pode ficar fora do cupom. Depois, mesmo com a etiqueta de lançamento, o desconto entra: no nosso teste, a Tech T-Shirt recebeu os 15%. O resumo do pedido mostra a linha do cupom em cada item que entrou nele.",
+          "**Pix:** em outubro, a loja anunciava desconto no Pix, também na coleção da Black Friday, mas o percentual mudava entre a barra do site e os banners; na leitura mais recente, a barra dizia +2% OFF no Pix. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
           "**Cartão e boleto:** cartão em até 3 vezes sem juros, ou de 4 a 10 vezes com juros, e boleto à vista.",
-          "**Frete grátis:** a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas do esquenta, como a de 31 de outubro, o frete foi grátis em qualquer pedido.",
+          "**Frete grátis:** a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas do esquenta, como a mais recente, o frete foi grátis em qualquer pedido.",
           "**Exemplo:** quatro Tech T-Shirts e duas cuecas Comfort somavam R$ 674 em outubro. O cupom tira R$ 101,10, e o pedido fica em R$ 572,90, ainda acima dos R$ 399 do frete grátis. No Pix, entra também o desconto da loja, que o resumo do checkout mostra antes de pagar."
         ],
         "links": [
@@ -55103,65 +55105,65 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Insider não publica prazos por região: o carrinho mostra as opções de entrega depois do CEP, e o prazo começa a contar quando o pagamento é aprovado. A central de ajuda avisa que os prazos podem mudar em períodos de alta demanda, como a Black Friday.",
           "Vale levar o aviso a sério: no Reclame Aqui, mais de dois terços das reclamações dos últimos 12 meses contra a Insider vieram do semestre que inclui a Black Friday e o Natal, e a entrega é o problema mais citado.",
-          "Em 9 de outubro, simulamos o frete de quatro Tech T-Shirts (R$ 516, acima do frete grátis) com o CEP do centro de 12 capitais. Somando um dia útil de folga ao prazo do frete grátis, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+          "Simulamos no carrinho o frete de quatro Tech T-Shirts (R$ 516, acima do frete grátis) com o CEP do centro de 12 capitais. Somando um dia útil de folga ao prazo do frete grátis, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
         ],
         "comparisonTable": {
-          "caption": "Prazo do frete grátis no carrinho da Insider em 9 de outubro de 2026, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "caption": "Prazo do frete grátis no carrinho da Insider, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
           "headers": [
             "Capital",
             "Frete grátis no carrinho",
-            "Pagar até (estimativa)"
+            "Pagar até (estimativa, dia de dezembro)"
           ],
           "rows": [
             [
               "São Paulo",
               "5 dias úteis",
-              "16 de dezembro"
+              "16"
             ],
             [
               "Curitiba, Porto Alegre e Goiânia",
               "6 dias úteis",
-              "15 de dezembro"
+              "15"
             ],
             [
               "Rio de Janeiro e Belo Horizonte",
               "7 dias úteis",
-              "14 de dezembro"
+              "14"
             ],
             [
               "Brasília",
               "8 dias úteis",
-              "11 de dezembro"
+              "11"
             ],
             [
               "Salvador",
               "9 dias úteis",
-              "10 de dezembro"
+              "10"
             ],
             [
               "Fortaleza",
               "11 dias úteis",
-              "8 de dezembro"
+              "8"
             ],
             [
               "Belém",
               "12 dias úteis",
-              "7 de dezembro"
+              "7"
             ],
             [
               "Recife",
               "13 dias úteis",
-              "4 de dezembro"
+              "4"
             ],
             [
               "Manaus",
               "19 dias úteis",
-              "26 de novembro"
+              "26 (novembro)"
             ]
           ]
         },
         "postParagraphs": [
-          "O carrinho também mostrou uma entrega paga mais rápida: R$ 19,90 e 2 dias úteis em São Paulo, e R$ 19,90 e 3 dias úteis no Rio de Janeiro, em Belo Horizonte, Curitiba, Porto Alegre, Salvador, Recife e Fortaleza. Com ela, pela mesma conta, dá para pagar até 21 de dezembro em São Paulo e até 18 de dezembro nas outras sete. Em Belém e Manaus, a opção mais rápida levava 10 e 9 dias úteis e custava mais de R$ 60 nesse carrinho. Se o pedido é presente, peça com folga."
+          "O carrinho também mostrou uma entrega paga mais rápida: R$ 19,90 e 2 dias úteis em São Paulo, e R$ 19,90 e 3 dias úteis no Rio de Janeiro, em Belo Horizonte, Curitiba, Porto Alegre, Salvador, Recife e Fortaleza. Com ela, pela mesma conta, dá para pagar até o dia 21 em São Paulo e até o dia 18 nas outras sete. Em Belém e Manaus, a opção mais rápida levava 10 e 9 dias úteis e custava mais de R$ 60 nesse carrinho. Se o pedido é presente, peça com folga."
         ],
         "links": [
           {
@@ -55173,16 +55175,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa a Black Friday da Insider? A Black Friday de 2026 é na sexta-feira, 27 de novembro, mas a Insider abriu a coleção Black Friday Insider 2026 antes: em 9 de outubro, ela já estava no site, sem datas de início e fim.",
+          "Quando começa a Black Friday da Insider? A Black Friday de 2026 é na última sexta-feira de novembro, mas a Insider abriu a coleção Black Friday Insider 2026 antes: em outubro, ela já estava no site, sem datas de início e fim.",
           "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale na loja física, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido.",
-          "O cupom soma com o esquenta da Black Friday da Insider? Soma. No teste de 31 de outubro, a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65 com o cupom, e a Calça Pantalona InLounge do Outlet, a R$ 179, por R$ 152,15. A loja aceita um cupom por pedido: compare os 15% com o cupom da campanha da própria Insider.",
-          "Quanto custa a Tech T-Shirt na Black Friday? Em 9 de outubro de 2026, ela estava a R$ 129, contra R$ 169 do preço riscado. Com o cupom EMCASACOMCECILIA, sai por R$ 109,65. Se em novembro o preço do dia ficar abaixo de R$ 129, o desconto é maior que o de outubro.",
-          "O kit de Tech T-Shirt compensa? Depende do dia e do kit. Em 9 de outubro de 2026, não: três Tech T-Shirts avulsas saíam por R$ 387, e o kit de três, por R$ 456. Em 31 de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas. Nos kits de cueca, de calcinha e de Core T-Shirt, o preço por peça era menor que o da avulsa.",
-          "A Insider tem desconto no Pix? Tem: em outubro de 2026, a loja anunciava desconto no Pix, que soma com o cupom EMCASACOMCECILIA. O percentual mudava entre a barra do site e os banners, então confira no checkout. Em 31 de outubro, a barra do site dizia +2%.",
-          "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas do esquenta, como a de 31 de outubro, o frete foi grátis em qualquer pedido.",
+          "O cupom soma com o esquenta da Black Friday da Insider? Soma. No teste de fim de outubro, a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65 com o cupom, e a Calça Pantalona InLounge do Outlet, a R$ 179, por R$ 152,15. A loja aceita um cupom por pedido: compare os 15% com o cupom da campanha da própria Insider.",
+          "Quanto custa a Tech T-Shirt na Black Friday? No preço de outubro, ela estava a R$ 129, contra R$ 169 do preço riscado. Com o cupom EMCASACOMCECILIA, sai por R$ 109,65. Se em novembro o preço do dia ficar abaixo de R$ 129, o desconto é maior que o de outubro.",
+          "O kit de Tech T-Shirt compensa? Depende do dia e do kit. No preço de outubro, não: três Tech T-Shirts avulsas saíam por R$ 387, e o kit de três, por R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas. Nos kits de cueca, de calcinha e de Core T-Shirt, o preço por peça era menor que o da avulsa.",
+          "A Insider tem desconto no Pix? Tem: em outubro, a loja anunciava desconto no Pix, que soma com o cupom EMCASACOMCECILIA. O percentual mudava entre a barra do site e os banners, então confira no checkout. No fim de outubro, a barra do site dizia +2%.",
+          "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas do esquenta, como a mais recente, o frete foi grátis em qualquer pedido.",
           "Dá para trocar presente da Insider? Dá. Quem ganhou pede a troca, sem nota fiscal, e recebe um vale-troca no valor do item, em até 21 dias corridos depois da entrega. Underwear e moda praia só têm troca por defeito.",
           "O cupom vale na loja física da Insider? Não. Cupons e cashback valem só no site, e pedidos do site não podem ser retirados nem trocados na Concept Store do MorumbiShopping.",
-          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos do frete grátis que o carrinho mostrou em outubro e um dia útil de folga, até 16 de dezembro em São Paulo, até 14 de dezembro no Rio de Janeiro e em Belo Horizonte e até 26 de novembro em Manaus."
+          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos do frete grátis que o carrinho mostrou em outubro e um dia útil de folga, a data limite varia por capital: a tabela da seção Entrega e prazo para o Natal traz o dia de cada uma, de meados de dezembro em São Paulo ao fim de novembro em Manaus."
         ]
       }
     ],
@@ -81738,13 +81740,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: promoção Insider com o cupom",
         "paragraphs": [
-          "O cupom EMCASACOMCECILIA dá 15% OFF sobre o preço que o site da Insider já mostra, sem valor mínimo, nas 20 peças da seleção da Cecília. As promoções do site valem até 31/10/2026, e a loja aceita um cupom por pedido. O quadro abaixo traz o preço de cada peça com o cupom."
+          "O cupom EMCASACOMCECILIA dá 15% OFF sobre o preço que o site da Insider já mostra, sem valor mínimo, nas 20 peças da seleção da Cecília. As promoções do site valem até o fim de outubro, e a loja aceita um cupom por pedido. O quadro abaixo traz o preço de cada peça com o cupom."
         ]
       },
       {
         "heading": "Como ler os preços desta seleção",
         "paragraphs": [
-          "Os preços foram conferidos em 15/10/2026. Em algumas peças, o preço muda conforme a cor, e a seção de cada uma diz em quais cores vale o menor. Cores e tamanhos em estoque também são de 15/10. Para acertar o tamanho, veja a [Tabela de medidas Insider: como escolher o tamanho](/reviews/tabela-de-medidas-insider)."
+          "Os preços foram conferidos em 15/10/2026. Em algumas peças, o preço muda conforme a cor, e a seção de cada uma diz em quais cores vale o menor. Cores e tamanhos em estoque são da mesma data. Para acertar o tamanho, veja a [Tabela de medidas Insider: como escolher o tamanho](/reviews/tabela-de-medidas-insider)."
         ],
         "bullets": [
           "**Preço de tabela:** o preço riscado na página do produto.",
@@ -81756,7 +81758,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As 20 peças num quadro só",
         "comparisonTable": {
-          "caption": "As 20 peças da seleção: preço no site, com o cupom e quanto fica abaixo da tabela, em 15/10/2026",
+          "caption": "As 20 peças da seleção: preço no site, com o cupom e quanto fica abaixo da tabela",
           "headers": [
             "Peça",
             "No site",
@@ -81900,7 +81902,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 69,00 por R$ 41,40 no site; com o cupom, **R$ 35,19** (49% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: grade completa (PP ao XGG) só na Preta; Woodsmoke do P ao XGG. As outras cores têm poucos tamanhos: Emerald Green e Icy Blue em PP, GG e XGG; Azul e Aster Purple em P e GG; Branco em PP e XGG; Cinnamon Pink e Rust Brown em GG e XGG; New Grey só em XGG. A Beetroot estava esgotada.",
+          "Cores e tamanhos: grade completa (PP ao XGG) só na Preta; Woodsmoke do P ao XGG. As outras cores têm poucos tamanhos: Emerald Green e Icy Blue em PP, GG e XGG; Azul e Aster Purple em P e GG; Branco em PP e XGG; Cinnamon Pink e Rust Brown em GG e XGG; New Grey só em XGG. A Beetroot estava esgotada.",
           "Composição, segundo a loja: 87,5% poliamida e 12,5% elastano por fora; forro com 88% modal e 12% elastano."
         ],
         "image": "/images/reviews/insider/selecao-insider-calcinha-brief.webp",
@@ -81922,7 +81924,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 79,00 por R$ 47,40 no site; com o cupom, **R$ 40,29** (49% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: Woodsmoke com a grade completa (PP ao XGG); Preta e Cinnamon Pink do P ao XGG. Azul em P, GG e XGG; Rust Brown e Aster Purple em P e M; Emerald Green, Icy Blue e Branca só em PP. New Grey e Beetroot estavam esgotadas.",
+          "Cores e tamanhos: Woodsmoke com a grade completa (PP ao XGG); Preta e Cinnamon Pink do P ao XGG. Azul em P, GG e XGG; Rust Brown e Aster Purple em P e M; Emerald Green, Icy Blue e Branca só em PP. New Grey e Beetroot estavam esgotadas.",
           "Composição, segundo a loja: 87,5% poliamida e 12,5% elastano por fora; forro com 88% modal e 12% elastano."
         ],
         "image": "/images/reviews/insider/selecao-insider-calcinha-safe.webp",
@@ -81944,7 +81946,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 85,00 por R$ 79,00 no site; com o cupom, **R$ 67,15** (21% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: Preta do P ao XXGG; Cinza do P ao XGG; Azul em P, M, G e XGG (sem GG); Beetroot só em PP. A Emerald Green estava esgotada."
+          "Cores e tamanhos: Preta do P ao XXGG; Cinza do P ao XGG; Azul em P, M, G e XGG (sem GG); Beetroot só em PP. A Emerald Green estava esgotada."
         ],
         "image": "/images/reviews/insider/selecao-insider-cueca-comfort.webp",
         "imageAlt": "Cueca Confortável Boxer Comfort, foto oficial da Insider",
@@ -81965,7 +81967,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 95,00 por R$ 79,00 no site; com o cupom, **R$ 67,15** (29% abaixo da tabela). Os R$ 79,00 valem na Branca (P ao XGG) e na Preta modelo Anti Suor em PP, P, XGG e XXGG; nas outras opções, de R$ 85,00 a R$ 95,00.",
-          "Cores e tamanhos em 15/10/2026: Preta do PP ao XXGG; Azul do P ao XXGG; Cinza e Branca do P ao XGG; Beetroot só em PP e XXGG.",
+          "Cores e tamanhos: Preta do PP ao XXGG; Azul do P ao XXGG; Cinza e Branca do P ao XGG; Beetroot só em PP e XXGG.",
           "Dois modelos, segundo a loja: a Simples não tem costura na lateral; a Anti Suor tem forro duplo na parte de trás e costura na lateral."
         ],
         "image": "/images/reviews/insider/selecao-insider-cueca-performance.webp",
@@ -81993,7 +81995,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 139,00 por R$ 135,00 no site; com o cupom, **R$ 114,75** (17% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: Rust Brown e Branca de P a GG; Azul e Woodsmoke de P a GG, sem PP. Na Preta, só PP, P e GG: M e G já tinham esgotado."
+          "Cores e tamanhos: Rust Brown e Branca de P a GG; Azul e Woodsmoke de P a GG, sem PP. Na Preta, só PP, P e GG: M e G já tinham esgotado."
         ],
         "image": "/images/reviews/insider/selecao-insider-the-perfect-top.webp",
         "imageAlt": "Blusa de Alça Feminina The Perfect Top, foto oficial da Insider",
@@ -82010,11 +82012,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech T-Shirt®",
         "paragraphs": [
-          "É a camiseta mais conhecida da Insider, feita com o tecido INTECH®, com a maciez do modal. Segundo a loja, a tecnologia antiodor permite usar mais e lavar menos, e a peça desamassa no corpo. É a única da marca com garantia de 2 anos contra desbotamento, para peças compradas a partir de 06/09/2024 e lavadas conforme a etiqueta. Para comparar com outras marcas, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
+          "É a camiseta mais conhecida da Insider, feita com o tecido INTECH®, com a maciez do modal. Segundo a loja, a tecnologia antiodor permite usar mais e lavar menos, e a peça desamassa no corpo. É a única da marca com garantia de 2 anos contra desbotamento, para peças lavadas conforme a etiqueta. Para comparar com outras marcas, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
         ],
         "bullets": [
           "Preço: de R$ 169,00 por R$ 139,00 no site; com o cupom, **R$ 118,15** (30% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: Preta, Azul e Mescla de PP a XXGG; Maple Brown, Indigo e Carmenere de PP a XGG; Evergreen de PP a GG; Off White de P a XGG; Walnut Brown de P a GG. Na Nori Green, só PP e P; na Dark Powder, só XGG."
+          "Cores e tamanhos: Preta, Azul e Mescla de PP a XXGG; Maple Brown, Indigo e Carmenere de PP a XGG; Evergreen de PP a GG; Off White de P a XGG; Walnut Brown de P a GG. Na Nori Green, só PP e P; na Dark Powder, só XGG."
         ],
         "image": "/images/reviews/insider/selecao-insider-tech-t-shirt.webp",
         "imageAlt": "Tech T-Shirt®, foto oficial da Insider",
@@ -82035,7 +82037,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 169,00 por R$ 139,00 no site; com o cupom, **R$ 118,15** (30% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: Azul, Carmenere, Preta e Off White de P a GG (XGG esgotado); Evergreen de PP a GG. Na Maple Brown, só PP, P e GG; na Beetroot, só PP e P; na Indigo, só P. A Nori Green estava esgotada.",
+          "Cores e tamanhos: Azul, Carmenere, Preta e Off White de P a GG (XGG esgotado); Evergreen de PP a GG. Na Maple Brown, só PP, P e GG; na Beetroot, só PP e P; na Indigo, só P. A Nori Green estava esgotada.",
           "Composição: 92% modal e 8% elastano; na cor Indigo, 62% modal, 30% viscose e 8% elastano."
         ],
         "image": "/images/reviews/insider/selecao-insider-tech-t-shirt-gola-v-feminina.webp",
@@ -82057,7 +82059,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 119,00 por R$ 99,00 no site; com o cupom, **R$ 84,15** (29% abaixo da tabela). Os R$ 99,00 valem na Preta em P, G, GG e XGG (o M sai a R$ 119,00); nas outras cores, de R$ 109,00 a R$ 119,00, conforme o tamanho.",
-          "Cores e tamanhos em 15/10/2026: Preta de P a XGG; Cinnamon Pink de P a GG; Rust Brown em PP, P, M e GG; Woodsmoke só em PP, GG e XGG.",
+          "Cores e tamanhos: Preta de P a XGG; Cinnamon Pink de P a GG; Rust Brown em PP, P, M e GG; Woodsmoke só em PP, GG e XGG.",
           "A loja avisa que a modelagem é justa: para o caimento da foto, o ideal é um número maior. Composição: 88% modal e 12% elastano."
         ],
         "image": "/images/reviews/insider/selecao-insider-skin-cropped.webp",
@@ -82079,7 +82081,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 129,00 por R$ 109,00 no site; com o cupom, **R$ 92,65** (28% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: Eletric Blue e Rust Brown de PP a XGG; Espresso, Preta e Cream de PP a GG; Foliage Green de PP a XGG, sem M. A Purple estava esgotada.",
+          "Cores e tamanhos: Eletric Blue e Rust Brown de PP a XGG; Espresso, Preta e Cream de PP a GG; Foliage Green de PP a XGG, sem M. A Purple estava esgotada.",
           "A loja avisa que a modelagem é justa: para o caimento da foto, o ideal é um número maior. Composição: 91% viscose e 9% elastano."
         ],
         "image": "/images/reviews/insider/selecao-insider-structure-cropped.webp",
@@ -82101,7 +82103,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 139,00 por R$ 119,00 no site; com o cupom, **R$ 101,15** (27% abaixo da tabela). Os R$ 119,00 valem no Preto PP, no Nori Green P e no Azul Marinho GG; nos outros tamanhos e na Milk, de R$ 125,00 a R$ 139,00. O preço aparece ao escolher cor e tamanho.",
-          "Cores e tamanhos em 15/10/2026: Preto e Nori Green de PP a XXGG; Milk de PP a XGG; Azul Marinho de P a XGG. Na Flame Red, só PP.",
+          "Cores e tamanhos: Preto e Nori Green de PP a XXGG; Milk de PP a XGG; Azul Marinho de P a XGG. Na Flame Red, só PP.",
           "Composição: 92% modal e 8% elastano."
         ],
         "image": "/images/reviews/insider/selecao-insider-regata-intech-masculino.webp",
@@ -82123,7 +82125,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 189,00 por R$ 179,00 no site; com o cupom, **R$ 152,15** (19% abaixo da tabela). Na Wine, alguns tamanhos custam R$ 189,00.",
-          "Cores e tamanhos em 15/10/2026: Preta, Branca, Wine e Blueish de PP a XGG; Navy de P a XGG; Vulcano de PP a XGG, sem P. Na Rain Forest, só PP, P e XGG.",
+          "Cores e tamanhos: Preta, Branca, Wine e Blueish de PP a XGG; Navy de P a XGG; Vulcano de PP a XGG, sem P. Na Rain Forest, só PP, P e XGG.",
           "A loja diz que o tamanho já considera 2 cm a mais no comprimento, pelo encolhimento que pode haver depois da primeira lavagem. Composição: 94% viscose e 6% elastano."
         ],
         "image": "/images/reviews/insider/selecao-insider-core-t-shirt-masculino.webp",
@@ -82145,7 +82147,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 485,00 por R$ 415,00 no site; com o cupom, **R$ 352,75** (27% abaixo da tabela). Nas cores Ocean Blue e Urban Brown, alguns tamanhos custam R$ 485,00.",
-          "Cores e tamanhos em 15/10/2026: Off White, Preto, Ocean Blue e Urban Brown de P a XGG. Na Sahara, só P, G e XGG.",
+          "Cores e tamanhos: Off White, Preto, Ocean Blue e Urban Brown de P a XGG. Na Sahara, só P, G e XGG.",
           "Composição: 85% poliamida e 15% elastano."
         ],
         "image": "/images/reviews/insider/selecao-insider-camisa-futureform-masculino.webp",
@@ -82167,7 +82169,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 519,00 por R$ 449,00 no site; com o cupom, **R$ 381,65** (26% abaixo da tabela). Nas cores Urban Brown, Ocean Blue e Sahara, alguns tamanhos custam R$ 519,00.",
-          "Cores e tamanhos em 15/10/2026: Sahara de PP a XGG; Preto, Urban Brown e Ocean Blue de PP a GG; Off White de P a GG.",
+          "Cores e tamanhos: Sahara de PP a XGG; Preto, Urban Brown e Ocean Blue de PP a GG; Off White de P a GG.",
           "Composição: 85% poliamida e 15% elastano."
         ],
         "image": "/images/reviews/insider/selecao-insider-camisa-futureform-feminino.webp",
@@ -82195,7 +82197,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 279,00 por R$ 167,00 no site; com o cupom, **R$ 141,95** (49% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: Earth Brown, Preto, Deep Blue e Mist Green do P ao XGG. O Flame Red tinha só PP, G e XGG, e o Beetroot, só PP. O Marinho estava esgotado.",
+          "Cores e tamanhos: Earth Brown, Preto, Deep Blue e Mist Green do P ao XGG. O Flame Red tinha só PP, G e XGG, e o Beetroot, só PP. O Marinho estava esgotado.",
           "Composição, segundo a Insider: 85% poliamida e 15% elastano por fora; 89% poliamida e 11% elastano no forro."
         ],
         "image": "/images/reviews/insider/selecao-insider-shorts-esportivo-endorphine-masculino.webp",
@@ -82217,7 +82219,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 359,00 por R$ 215,00 no site; com o cupom, **R$ 182,75** (49% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: Preto, Deep Blue, Earth Brown e Flame Red do PP ao XGG. Em 15/10, o Mist Green já não tinha P e GG, e o Marinho tinha só PP."
+          "Cores e tamanhos: Preto, Deep Blue, Earth Brown e Flame Red do PP ao XGG. Na leitura, o Mist Green já não tinha P e GG, e o Marinho tinha só PP."
         ],
         "image": "/images/reviews/insider/selecao-insider-shorts-esportivo-serotonin-feminino.webp",
         "imageAlt": "Short Fitness Serotonin, foto oficial da Insider",
@@ -82238,7 +82240,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 349,00 por R$ 209,00 no site; com o cupom, **R$ 177,65** (49% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: Preto do PP ao XGG. O Rust Brown já não tinha PP e P, e o Winewood estava esgotado.",
+          "Cores e tamanhos: Preto do PP ao XGG. O Rust Brown já não tinha PP e P, e o Winewood estava esgotado.",
           "Composição, segundo a Insider: 66% viscose de reflorestamento, 31% poliéster reciclado e 3% elastano."
         ],
         "image": "/images/reviews/insider/selecao-insider-vestido-curto-tube-dress-feminino.webp",
@@ -82261,7 +82263,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Preço: de R$ 275,00 por R$ 249,00 no site; com o cupom, **R$ 211,65** (23% abaixo da tabela).",
           "O preço muda com a cor e o tamanho. Os R$ 249,00 são do Deep Blue e do Mist Green. O Preto sai por R$ 235,00 (R$ 199,75 com o cupom) e, no XGG, por R$ 209,00 (R$ 177,65 com o cupom). O Earth Brown sai por R$ 235,00, ou R$ 259,00 no P. O Marinho, só no GG, está a R$ 275,00, o preço de tabela.",
-          "Cores e tamanhos em 15/10/2026: Preto e Earth Brown do PP ao XGG. O Deep Blue já não tinha P, o Mist Green tinha só GG e XGG, e o Marinho, só GG. Flame Red e Beetroot estavam esgotados."
+          "Cores e tamanhos: Preto e Earth Brown do PP ao XGG. O Deep Blue já não tinha P, o Mist Green tinha só GG e XGG, e o Marinho, só GG. Flame Red e Beetroot estavam esgotados."
         ],
         "image": "/images/reviews/insider/selecao-insider-vestido-esportivo-rush-feminino.webp",
         "imageAlt": "Vestido Curto Rush, foto oficial da Insider",
@@ -82282,7 +82284,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 409,00 por R$ 359,00 no site; com o cupom, **R$ 305,15** (25% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: Olive Green, Preto e Space Blue do PP ao XGG. O tamanho M, nas três cores, e o P e o G do Preto custam R$ 409,00, o preço de tabela.",
+          "Cores e tamanhos: Olive Green, Preto e Space Blue do PP ao XGG. O tamanho M, nas três cores, e o P e o G do Preto custam R$ 409,00, o preço de tabela.",
           "Composição, segundo a Insider: 94% poliamida e 6% elastano."
         ],
         "image": "/images/reviews/insider/selecao-insider-maxi-saia-nyin-feminino.webp",
@@ -82304,7 +82306,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 545,00 por R$ 454,00 no site; com o cupom, **R$ 385,90** (29% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: Ocean Blue, Preto, Sahara e Urban Brown do PP ao XGG. No Urban Brown, o M custa R$ 545,00, o preço de tabela.",
+          "Cores e tamanhos: Ocean Blue, Preto, Sahara e Urban Brown do PP ao XGG. No Urban Brown, o M custa R$ 545,00, o preço de tabela.",
           "Composição, segundo a Insider: 85% poliamida e 15% elastano."
         ],
         "image": "/images/reviews/insider/selecao-insider-calca-futureform-masculina.webp",
@@ -82326,7 +82328,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 499,00 por R$ 479,00 no site; com o cupom, **R$ 407,15** (18% abaixo da tabela).",
-          "Cores e tamanhos em 15/10/2026: Imperial Blue, Ivory, Soft Peach, Mineral Blue e Clay Red do P ao GG. Off White, Preta, Gray Cloud e Bright Red do P ao G, sem GG. No Imperial Blue, o G custa R$ 499,00, o preço de tabela."
+          "Cores e tamanhos: Imperial Blue, Ivory, Soft Peach, Mineral Blue e Clay Red do P ao GG. Off White, Preta, Gray Cloud e Bright Red do P ao G, sem GG. No Imperial Blue, o G custa R$ 499,00, o preço de tabela."
         ],
         "image": "/images/reviews/insider/selecao-insider-wingsuit.webp",
         "imageAlt": "Casaco Feminino Wingsuit, foto oficial da Insider",
@@ -82354,7 +82356,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Até quando valem esses preços? As promoções do site valem até 31/10/2026. Quem prefere esperar novembro encontra os preços de outubro para comparar no guia da [Black Friday Insider](/reviews/black-friday-insider).",
+          "Até quando valem esses preços? As promoções do site valem até o fim de outubro. Quem prefere esperar novembro encontra os preços de outubro para comparar no guia da [Black Friday Insider](/reviews/black-friday-insider).",
           "O cupom EMCASACOMCECILIA vale nas 20 peças da seleção? Sim. As 20 peças aceitam o cupom de 15% OFF, sem valor mínimo e com todas as formas de pagamento.",
           "O cupom soma com o preço promocional do site? Sim. Os 15% saem sobre o preço que o site já mostra, e não sobre o preço de tabela.",
           "Posso usar dois cupons no mesmo pedido? Não. A Insider aceita um cupom por pedido. As regras e a data do último teste estão na [página do cupom Insider](/cupons/insider).",
@@ -102970,7 +102972,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Sem cupom, cada peça do kit sai por R$ 137,71 (R$ 413,12 divididos por três). A conta por peça é nossa, feita sobre o preço do próprio kit.",
           "O cupom EMCASACOMCECILIA dá 15% na loja online. Ele vale uma vez por pedido e soma com o Pix e com as outras formas de pagamento. O Pix tem desconto próprio na loja, mas o percentual muda entre a barra do site e os banners, então não o citamos aqui.",
-          "No teste de 05/10/2026, o desconto apareceu num kit de cuecas com preço promocional. Antes de pagar, confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout. Se o pedido junta undershirt e cueca boxer, cada item tem a sua linha.",
+          "No teste no checkout, o desconto apareceu num kit de cuecas com preço promocional. Antes de pagar, confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout. Se o pedido junta undershirt e cueca boxer, cada item tem a sua linha.",
           "A página do Moderado também mostra desconto por quantidade no seletor. Os valores mudam; confira no produto.",
           "Regras e código do cupom estão em [cupom Insider: EMCASACOMCECILIA](/cupons/insider).",
           "Se achar a undershirt em outro anúncio, como no Mercado Livre, confira o preço do dia. Este texto não compara com esses anúncios."
@@ -102995,7 +102997,7 @@ export const reviewsData: unknown[] = [
           "Block: não temos a medida aqui. Confira a tabela na página do produto antes de escolher."
         ],
         "postParagraphs": [
-          "As medidas são da tabela oficial da Insider, lida em 12/10/2026. A página do Moderado diz que o modelo veste M e tem 1,91 m. Para as outras linhas da loja, veja a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider)."
+          "As medidas são da tabela oficial da Insider. A página do Moderado diz que o modelo veste M e tem 1,91 m. Para as outras linhas da loja, veja a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider)."
         ]
       },
       {
@@ -103042,12 +103044,6 @@ export const reviewsData: unknown[] = [
           "A undershirt Insider encolhe? Segundo a central de ajuda, pode encolher até 7%. Siga a etiqueta.",
           "O cupom vale na undershirt? Vale na loja online, uma vez por pedido, e soma com o Pix. Confira a linha do código de cada item no checkout.",
           "A undershirt Insider resolve o suor excessivo? Não. A peça não trata nem elimina o suor. Se o suor é excessivo ou persistente, procure um dermatologista."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os dados vêm das páginas de produto da Insider, do catálogo da loja e da central de ajuda, lidos em 20/10/2026. As medidas vêm da tabela oficial, lida em 12/10/2026. Preço, estoque e avaliações mudam, então confira a página antes de comprar. Ninguém da equipe usou as undershirts. Podemos receber comissão se você comprar pelos nossos links ou usar o cupom EMCASACOMCECILIA."
         ]
       }
     ],
@@ -103112,7 +103108,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale presente na Insider: como funciona o gift card",
         "paragraphs": [
-          "Há três caminhos para presentear com a Insider neste Natal: um kit de presente, um gift card virtual ou o kit mais uma sacola ou envelope. Os preços e as regras deste guia foram lidos nas páginas da loja em 20/10/2026, e os prazos vêm da simulação de frete do carrinho de 09/10/2026. Começamos pelo gift card.",
+          "Há três caminhos para presentear com a Insider neste Natal: um kit de presente, um gift card virtual ou o kit mais uma sacola ou envelope. Os preços e as regras deste guia foram lidos nas páginas da loja em 20/10/2026, e os prazos vêm da simulação de frete do carrinho. Começamos pelo gift card.",
           "O [gift card da Insider](https://www.insiderstore.com.br/products/cartao-presente-insider) é virtual. A página do produto lista 12 valores: R$ 50, R$ 80, R$ 100, R$ 150, R$ 200, R$ 350, R$ 500, R$ 600, R$ 700, R$ 800, R$ 900 e R$ 1.000.",
           "As regras, pela própria página do cartão:"
         ],
@@ -103449,75 +103445,75 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Até quando pedir para chegar antes do Natal",
         "paragraphs": [
-          "A loja diz que os prazos podem mudar em alta demanda, como Black Friday ou lançamentos. Ela não garante entrega até o Natal. A tabela abaixo é a nossa conta, a partir da simulação de frete grátis do carrinho em 09/10/2026, com o CEP do centro de cada capital.",
-          "A conta parte de dias úteis contados a partir da aprovação do pagamento, com chegada em 23/12, uma quarta-feira, sem contar feriados locais. Assim, sobra um dia antes de 24/12."
+          "A loja diz que os prazos podem mudar em alta demanda, como Black Friday ou lançamentos. Ela não garante entrega até o Natal. A tabela abaixo é a nossa conta, a partir da simulação de frete grátis do carrinho, com o CEP do centro de cada capital.",
+          "A conta parte de dias úteis contados a partir da aprovação do pagamento, com chegada na quarta-feira, dia 23, sem contar feriados locais. Assim, sobra um dia antes da véspera de Natal."
         ],
         "comparisonTable": {
           "headers": [
             "Cidade",
             "Frete grátis (dias úteis na simulação)",
-            "Pedido aprovado até"
+            "Pedido aprovado até (dia de dezembro)"
           ],
           "rows": [
             [
               "São Paulo",
               "5",
-              "16/12"
+              "16"
             ],
             [
               "Curitiba",
               "6",
-              "15/12"
+              "15"
             ],
             [
               "Porto Alegre",
               "6",
-              "15/12"
+              "15"
             ],
             [
               "Goiânia",
               "6",
-              "15/12"
+              "15"
             ],
             [
               "Rio de Janeiro",
               "7",
-              "14/12"
+              "14"
             ],
             [
               "Belo Horizonte",
               "7",
-              "14/12"
+              "14"
             ],
             [
               "Brasília",
               "8",
-              "11/12"
+              "11"
             ],
             [
               "Salvador",
               "9",
-              "10/12"
+              "10"
             ],
             [
               "Fortaleza",
               "11",
-              "08/12"
+              "8"
             ],
             [
               "Belém",
               "12",
-              "07/12"
+              "7"
             ],
             [
               "Recife",
               "13",
-              "04/12"
+              "4"
             ],
             [
               "Manaus",
               "19",
-              "26/11"
+              "26 (novembro)"
             ]
           ]
         },
@@ -103530,7 +103526,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom EMCASACOMCECILIA no presente",
         "paragraphs": [
           "O cupom EMCASACOMCECILIA dá 15% de desconto na loja online. Ele vale para um pedido por vez e não soma com outro cupom. Vale com todas as formas de pagamento, inclusive o Pix, e soma com as promoções, salvo quando a promoção disser o contrário. Na loja física, ele não vale. A [página do cupom](/cupons/insider) tem o código para copiar.",
-          "Quem presenteia costuma perguntar se o cupom entra no kit. Num teste de checkout de 5 de outubro de 2026, a linha do código apareceu em kit com preço promocional. Por isso, a regra é conferir a linha de cada item no checkout, não confiar na etiqueta do produto. O [passo a passo do cupom](/reviews/cupom-emcasacomcecilia-insider-store-como-usar) mostra onde ele aparece.",
+          "Quem presenteia costuma perguntar se o cupom entra no kit. Num teste de checkout, a linha do código apareceu em kit com preço promocional. Por isso, a regra é conferir a linha de cada item no checkout, não confiar na etiqueta do produto. O [passo a passo do cupom](/reviews/cupom-emcasacomcecilia-insider-store-como-usar) mostra onde ele aparece.",
           "O cupom não entra em pedido pago com gift card, como visto acima.",
           "Não sabemos de cupom de Natal separado. Para o presente, o código que temos é o EMCASACOMCECILIA.",
           "Algumas promoções dão brinde em compras acima de um valor. A loja diz que a regra muda sem aviso e que a promoção pode acabar a qualquer momento. O brinde não é trocado separadamente, e o gift card fica fora dessa campanha."
@@ -103552,12 +103548,6 @@ export const reviewsData: unknown[] = [
           "Chega a tempo do Natal? Depende da cidade e da data da aprovação do pagamento. A tabela da seção \"Até quando pedir\" traz a data limite de cada capital, e a loja diz que os prazos podem mudar em alta demanda.",
           "A Insider tem kit de presente com cueca? Tem: o Kit Presente Performance Masculino e o Kit Presente Básico Masculino levam cueca, e há outros três kits com cueca fora do rótulo Kit Presente.",
           "A Insider vende sacola de presente? Vende a Insider Gift Bag, de R$ 9,00, e uma embalagem prateada em envelope, de R$ 13,90."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços e as regras de kits, gift card e embalagem foram lidos nas páginas da Insider em 20/10/2026. Os prazos vêm da simulação de frete do carrinho de 09/10/2026, e a regra de troca de presente, da central de ajuda da loja. Os valores com cupom são conta nossa: 15% sobre o preço do dia, arredondados para centavos. Ninguém da equipe comprou ou usou os produtos deste texto. Podemos receber comissão pelas compras feitas pelos links deste artigo ou com o cupom EMCASACOMCECILIA. Preços, prazos e regras mudam: confira o pedido no checkout antes de pagar."
         ]
       }
     ],
@@ -132871,11 +132861,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o cupom EMCASACOMCECILIA, o site ganha em 13 de 17 peças, com preços de 27/10/2026. No Mercado Livre o cupom não vale, e a Daily sai mais barata por lá. O que muda a conta são a Daily e a regra de frete grátis acima de R$ 399 do site, veja abaixo."
+          "Com o cupom EMCASACOMCECILIA, o site ganha em 13 de 17 peças. No Mercado Livre o cupom não vale, e a Daily sai mais barata por lá. O que muda a conta são a Daily e a regra de frete grátis do site, veja abaixo."
         ]
       },
       {
-        "heading": "Masculino: preço no site e no Mercado Livre em 27/10/2026",
+        "heading": "Masculino: preço no site e no Mercado Livre",
         "paragraphs": [
           "Os produtos abaixo existem nos dois lados. As colunas Site e Mercado Livre trazem o preço no cartão, sem frete; no Mercado Livre, o da loja oficial da Insider. A última coluna diz onde cada peça sai mais barata depois do cupom EMCASACOMCECILIA, que tira 15% no site, e o nome do produto leva direto a esse lugar."
         ],
@@ -132973,7 +132963,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/insider/insider-mercado-livre-ou-site-masculino-2810.webp",
           "alt": "Quadro com o preço de 13 peças masculinas e unissex da Insider no site e no Mercado Livre, e onde cada uma sai mais barata com o cupom",
-          "caption": "Quadro nosso com os preços de 27/10/2026; a última coluna considera o EMCASACOMCECILIA no site.",
+          "caption": "Quadro nosso com os preços lidos; a última coluna considera o EMCASACOMCECILIA no site.",
           "objectFit": "contain",
           "aspectRatio": 1.2725
         },
@@ -132991,7 +132981,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Feminino: preço no site e no Mercado Livre em 27/10/2026",
+        "heading": "Feminino: preço no site e no Mercado Livre",
         "paragraphs": [
           "O mesmo critério da tabela masculina: preço no cartão nos dois lados e, na última coluna, onde a peça sai mais barata com o cupom."
         ],
@@ -133035,7 +133025,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/insider/insider-mercado-livre-ou-site-feminino-2810.webp",
           "alt": "Quadro com o preço de 4 peças femininas da Insider no site e no Mercado Livre, e onde cada uma sai mais barata com o cupom",
-          "caption": "Quadro nosso com os preços de 27/10/2026; a última coluna considera o EMCASACOMCECILIA no site.",
+          "caption": "Quadro nosso com os preços lidos; a última coluna considera o EMCASACOMCECILIA no site.",
           "objectFit": "contain",
           "aspectRatio": 2.3904
         }
@@ -133067,8 +133057,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Daily e Light: onde o Mercado Livre ganha",
         "paragraphs": [
-          "A Daily sai mais barata no Mercado Livre porque no site ela não aceita o cupom. A página do produto mostra \"desconto máximo aplicado\", e o teste de 12/10/2026 confirmou isso.",
-          "Em 27/10/2026, a Camiseta Tech Daily masculina sai por R$ 99 no site e por R$ 69 a R$ 79 no Mercado Livre. A Daily feminina sai por R$ 99 no site e por R$ 56,05 a R$ 79 no Mercado Livre. O Kit 3 Daily feminina sai por R$ 290,76 no site e por R$ 179,69 no Mercado Livre.",
+          "A Daily sai mais barata no Mercado Livre porque no site ela não aceita o cupom. A página do produto mostra \"desconto máximo aplicado\", e o teste no site confirmou isso.",
+          "A Camiseta Tech Daily masculina sai por R$ 99 no site e por R$ 69 a R$ 79 no Mercado Livre. A Daily feminina sai por R$ 99 no site e por R$ 56,05 a R$ 79 no Mercado Livre. O Kit 3 Daily feminina sai por R$ 290,76 no site e por R$ 179,69 no Mercado Livre.",
           "A Light só aparece no Mercado Livre: não achamos no site nenhum produto com esse nome, então ela fica fora da tabela."
         ],
         "image": {
@@ -133099,7 +133089,7 @@ export const reviewsData: unknown[] = [
           "**Daily e Light:** Mercado Livre. A Daily sai mais barata lá, e a Light só existe lá.",
           "**Cuecas, kits de cueca e undershirt:** site com o cupom. Para escolher entre a Comfort e a Performance, veja [a comparação de cuecas Insider](/reviews/cueca-insider-comfort-ou-performance).",
           "**Tech, Core, Heavy, Perfect Top, Polo e Sportee:** site com o cupom.",
-          "**Sutiã Comfy:** site, mesmo sem cupom (R$ 99 contra R$ 132,05 no Mercado Livre, em 27/10/2026).",
+          "**Sutiã Comfy:** site, mesmo sem cupom (R$ 99 contra R$ 132,05 no Mercado Livre).",
           "**Meia Spectrum Mid:** empate. Compare os dois preços no dia da compra.",
           "**Frete grátis no site:** monte um carrinho acima de R$ 399 depois do desconto."
         ],
@@ -133123,17 +133113,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "O cupom EMCASACOMCECILIA vale no Mercado Livre? Não. Ele só vale no site da Insider; no Mercado Livre vale o preço do anúncio.",
-          "A Insider é mais barata no Mercado Livre ou no site? Depende do produto. Em 27/10/2026, com o cupom, o site ganhou em 13 dos 17 produtos; as três Daily ficam mais baratas no Mercado Livre.",
-          "A Daily aceita o cupom no site? Não. A página mostra \"desconto máximo aplicado\", e o teste de 12/10/2026 confirmou isso.",
+          "A Insider é mais barata no Mercado Livre ou no site? Depende do produto. Com o cupom, o site ganhou em 13 dos 17 produtos; as três Daily ficam mais baratas no Mercado Livre.",
+          "A Daily aceita o cupom no site? Não. A página mostra \"desconto máximo aplicado\", e o teste no site confirmou isso.",
           "O site da Insider tem frete grátis? Sim, em compras acima de R$ 399, contadas depois do desconto. Uma peça sozinha paga frete.",
           "A loja do Mercado Livre é oficial? O botão deste texto leva à loja oficial da Insider no Mercado Livre. Confira o nome do vendedor no anúncio antes de pagar."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços foram lidos no site da Insider e na loja oficial do Mercado Livre em 27/10/2026, e mudam de um dia para o outro. Confira antes de comprar.",
-          "Podemos receber comissão quando você compra no site com o cupom EMCASACOMCECILIA ou pelo link do Mercado Livre. Isso não muda o preço para você. Ninguém da equipe usou os produtos citados; o texto fala só de preço, tamanho e regras das lojas. O cupom foi testado no checkout em 26/10/2026."
         ]
       }
     ]
@@ -170165,7 +170148,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para o dia a dia, a Tech T-Shirt é o ponto de partida: 92% modal e 8% elastano, por R$ 129. Quer mais corpo? A Heavy, segundo a loja, é 20% mais encorpada que a Tech. A Core, de viscose e com textura leve, sai por R$ 179. Cada linha está na tabela abaixo."
+          "Para o dia a dia, a Tech T-Shirt é o ponto de partida, de 92% modal e 8% elastano. Quer mais corpo? A Heavy, segundo a loja, é 20% mais encorpada que a Tech. A Core, de viscose e com textura leve, é a opção mais leve. Cada linha está na tabela abaixo."
         ]
       },
       {
@@ -170572,7 +170555,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Tech T-Shirt desbota? A loja diz que não, e a garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, com uma lavagem por semana.",
+          "A Tech T-Shirt desbota? A loja diz que não, e a garantia de 2 anos contra desbotamento vale com uma lavagem por semana.",
           "A Core encolhe? A página da Core não traz aviso de encolhimento. O aviso de até 2 cm é da Daily.",
           "Qual a diferença entre Tech e Heavy? Pela descrição da loja, a Heavy é 20% mais encorpada que a Tech e tem caimento mais liso. As duas são de 92% modal e 8% elastano.",
           "Dá para usar camiseta com calça social? Dá, num visual de trabalho menos formal: a polo ou uma camiseta lisa de cor neutra.",
@@ -170580,12 +170563,6 @@ export const reviewsData: unknown[] = [
           "O cupom vale na Daily? Não. A página diz que a Daily já tem o desconto máximo.",
           "Kit de camiseta compensa? O kit de 5 Tech sai a R$ 108,88 por peça, e o cupom entra por cima. A conta está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
           "Dá para devolver se não servir? Sim, dentro dos prazos: 7 dias úteis para desistir da compra e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os dados vêm das páginas de produto da Insider, lidas no dia da publicação, e da central de ajuda. Preço e estoque mudam: confira na página antes de comprar. Ninguém da equipe usou as peças. Podemos receber comissão se você comprar pelos nossos links ou usar o cupom EMCASACOMCECILIA."
         ]
       }
     ],
@@ -171014,7 +170991,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Kit de camiseta Tech ou Heavy compensa, e mais quanto maior o kit: o de 5 Tech sai a R$ 108,88 por peça, contra R$ 129 da avulsa, e com o cupom EMCASACOMCECILIA chegou a R$ 92,55 no carrinho. Na cueca, só o kit de 2 Comfort economiza de verdade."
+          "Kit de camiseta Tech ou Heavy compensa, e mais quanto maior o kit: o de 5 Tech sai bem mais barato por peça que a avulsa, e com o cupom EMCASACOMCECILIA o carrinho baixou ainda mais. Na cueca, só o kit de 2 Comfort economiza de verdade."
         ]
       },
       {
@@ -171356,12 +171333,6 @@ export const reviewsData: unknown[] = [
           "Kit tem frete grátis? Acima de R$ 399, depois do desconto. O kit de 5 Tech com o cupom ficou com frete grátis.",
           "Dá para escolher cor e tamanho no kit? Dá. Cada peça do kit tem cor e tamanho próprios.",
           "Dá para trocar o tamanho do kit? A camiseta troca por tamanho em 21 dias. Cueca e undershirt só trocam por defeito."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços foram lidos nas páginas da Insider no dia da publicação, e o cupom foi testado no carrinho com o kit de 5 Tech, sem finalizar a compra. Preço e estoque mudam: confira a página antes de comprar. Ninguém da equipe usou as peças. Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA."
         ]
       }
     ],
@@ -171965,7 +171936,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para o dia a dia, a Tech T-Shirt feminina é o ponto de partida: R$ 129 (de R$ 169), em PP a XGG. A Gola V sai pelo mesmo preço, com gola levemente alongada, e a Tech de manga longa custa R$ 199 para o frio. O guia da linha masculina está em [Camiseta masculina Insider: qual escolher](/reviews/camiseta-insider-qual-escolher)."
+          "Para o dia a dia, a Tech T-Shirt feminina é o ponto de partida, em PP a XGG. A Gola V tem gola levemente alongada, e a Tech de manga longa é a opção para o frio. O guia da linha masculina está em [Camiseta masculina Insider: qual escolher](/reviews/camiseta-insider-qual-escolher)."
         ]
       },
       {
@@ -172348,17 +172319,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Tech T-Shirt feminina desbota? A marca diz que não, e a garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, com uma lavagem por semana.",
+          "A Tech T-Shirt feminina desbota? A marca diz que não, e a garantia de 2 anos contra desbotamento vale com uma lavagem por semana.",
           "Qual a diferença entre Tech e Gola V? A gola. A Gola V tem gola levemente alongada, e a loja diz que o tecido é o mesmo.",
           "A Daily encolhe? A página diz que pode encolher até 2 cm no comprimento depois da primeira lavagem.",
           "O cupom vale na Daily feminina? Na Daily masculina, a página diz que o item já tem desconto máximo e não é cumulativo com cupom. Na feminina, confira no carrinho.",
           "Dá para devolver se não servir? Sim, dentro dos prazos: 7 dias úteis para desistir da compra e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os dados vêm das páginas de produto da Insider, lidas no dia da publicação, e da central de ajuda. Preço e estoque mudam: confira na página antes de comprar. Ninguém da equipe usou as peças. Podemos receber comissão se você comprar pelos nossos links ou usar o cupom EMCASACOMCECILIA."
         ]
       }
     ],
@@ -176756,12 +176721,6 @@ export const reviewsData: unknown[] = [
           "Dá para trocar uma peça do Outlet? Roupas trocam em 21 dias corridos, novas e com etiqueta; sutiãs, calcinhas e moda praia só trocam por defeito.",
           "Alguma peça feminina do Outlet já esgotou? Sim: a Camiseta Oversized Comfy InLounge e o Perfect Body Decote U aparecem na página, mas sem tamanho à venda."
         ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços foram lidos nas páginas da Insider no dia da publicação, e o cupom foi testado no carrinho, sem finalizar a compra. Preço e estoque mudam: confira a página antes de comprar. Ninguém da equipe usou as peças. Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA."
-        ]
       }
     ],
     "pros": [],
@@ -177109,12 +177068,6 @@ export const reviewsData: unknown[] = [
           "Tem peça masculina sem desconto no Outlet? Não. As cinco à venda têm entre 40% e 41% de desconto sobre o preço riscado.",
           "A Camiseta Oversized Comfy InLounge masculina ainda está à venda? Não, está esgotada no Outlet.",
           "Dá para trocar peça do Outlet? Sim. Segundo a política da Insider, a roupa troca por tamanho ou insatisfação em 21 dias corridos, com a peça nova e com a etiqueta."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços foram lidos nas páginas da Insider no dia da publicação, e o cupom foi testado no carrinho, sem finalizar a compra. Preço e estoque mudam: confira a página antes de comprar. Ninguém da equipe usou as peças. Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA."
         ]
       }
     ],

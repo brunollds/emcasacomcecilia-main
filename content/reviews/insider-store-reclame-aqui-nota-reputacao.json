@@ -1,6 +1,7 @@
 {
   "id": 326,
   "slug": "insider-store-reclame-aqui-nota-reputacao",
+  "bodyDatesReason": "reclame-aqui",
   "title": "Insider Store no Reclame Aqui: nota, reclamações e o que os dados mostram",
   "seoTitle": "Insider Store no Reclame Aqui: nota, reclamações e pós-venda",
   "type": "Análise de Reputação",
@@ -55,7 +56,7 @@
       "image": {
         "src": "/images/reviews/insider/insider-reclame-aqui-hero-perfil.webp",
         "alt": "Perfil da Insider Store no Reclame Aqui, na categoria Moda - E-commerce - Moda, com selo de empresa verificada e reputação RA 1000",
-        "caption": "Perfil da Insider Store no Reclame Aqui, consultado em 05/10/2026.",
+        "caption": "Perfil da Insider Store no Reclame Aqui.",
         "objectFit": "contain",
         "aspectRatio": 1.7757
       }
@@ -66,7 +67,7 @@
         "Estes são os indicadores da aba de 6 meses, que é a janela usada para a reputação exibida no topo do perfil:"
       ],
       "comparisonTable": {
-        "caption": "Perfil da Insider Store no Reclame Aqui, aba de 6 meses (dados de 01/04/2026 a 30/09/2026), consultado em 05/10/2026.",
+        "caption": "Perfil da Insider Store no Reclame Aqui, aba de 6 meses (dados de 01/04/2026 a 30/09/2026).",
         "headers": [
           "Indicador",
           "Resultado",
@@ -126,7 +127,7 @@
       ],
       "image": "/images/reviews/insider/insider-reclame-aqui-reputacao-6-meses-2026-09.webp",
       "imageAlt": "Painel do Reclame Aqui da Insider Store nos últimos 6 meses: reputação RA1000, nota 9.0/10, 1.593 reclamações recebidas, 99,4% respondidas, 10 aguardando resposta, 92,6% resolvidas, 86% voltariam a fazer negócio, 994 avaliadas, nota do consumidor 8,27 e tempo médio de resposta de 2 dias e 3 horas, com dados de 01/04/2026 a 30/09/2026",
-      "imageCaption": "Painel de reputação da aba de 6 meses (dados de 01/04/2026 a 30/09/2026).",
+      "imageCaption": "Painel de reputação da aba de 6 meses.",
       "imageFit": "portrait",
       "imageAspectRatio": 0.7354
     },
@@ -136,7 +137,7 @@
         "Olhar só os últimos seis meses pode esconder a sazonalidade. Por isso, comparamos todas as abas do perfil:"
       ],
       "comparisonTable": {
-        "caption": "Abas de desempenho da Insider Store no Reclame Aqui, consultadas em 05/10/2026. A aba de 12 meses cobre de 01/10/2025 a 30/09/2026.",
+        "caption": "Abas de desempenho da Insider Store no Reclame Aqui. A aba de 12 meses cobre de 01/10/2025 a 30/09/2026.",
         "headers": [
           "Período",
           "Nota",
@@ -190,7 +191,7 @@
       },
       "postParagraphs": [
         "A reputação ficou no nível máximo em todos os períodos, mas a tabela mostra duas coisas. A primeira é o volume: as reclamações passaram de 3.826 em 2024 para 5.637 em 2025, sem queda nos índices de solução, que ficaram acima de 94% nos dois anos. O atendimento também ficou mais rápido: o tempo médio de resposta caiu de 4 dias e 10 horas em 2024 para 2 dias e 3 horas no último semestre.",
-        "A segunda é a sazonalidade. Das 5.013 reclamações dos últimos 12 meses, só 1.593 são do semestre mais recente; as outras cerca de 3.400, mais de dois terços, vieram de outubro de 2025 a março de 2026, o período que inclui Black Friday e Natal. Fazendo a conta com os números do perfil, a nota média dada pelos consumidores nesse semestre de pico ficou em torno de 7,7, abaixo dos 8,27 do semestre seguinte. Na prática, quem compra nas grandes datas tem mais chance de enfrentar atraso e uma fila maior no atendimento."
+        "A segunda é a sazonalidade. Das 5.013 reclamações dos últimos 12 meses, só 1.593 são do semestre mais recente; as outras cerca de 3.400, mais de dois terços, vieram de outubro a março, o período que inclui Black Friday e Natal. Fazendo a conta com os números do perfil, a nota média dada pelos consumidores nesse semestre de pico ficou em torno de 7,7, abaixo dos 8,27 do semestre seguinte. Na prática, quem compra nas grandes datas tem mais chance de enfrentar atraso e uma fila maior no atendimento."
       ]
     },
     {
@@ -214,7 +215,7 @@
       ],
       "image": "/images/reviews/insider/insider-reclame-aqui-principais-problemas.webp",
       "imageAlt": "Principais problemas comentados no perfil da Insider Store no Reclame Aqui: Moda Masculina com 34,2% na categoria, Produto não recebido com 20,5% nos problemas e Camisetas com 36,34% nos produtos",
-      "imageCaption": "Principais problemas no perfil da Insider Store, com reclamações de até 3 anos (consulta em 05/10/2026).",
+      "imageCaption": "Principais problemas no perfil da Insider Store, com reclamações de até 3 anos.",
       "imageFit": "contain",
       "imageAspectRatio": 1.7561
     },
@@ -229,7 +230,7 @@
     {
       "heading": "Alerta 1: cupons vazados e pedidos cancelados",
       "paragraphs": [
-        "Entre as reclamações mais recentes há clientes que fizeram pedidos em setembro de 2026 e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom de R$ 250 de uso pessoal, criado para um grupo específico de clientes, que acabou divulgado em sites de cupons sem autorização da marca. Segundo a empresa, todos os pedidos feitos com esse código foram cancelados e o valor pago foi estornado.",
+        "Entre as reclamações mais recentes há clientes que fizeram pedidos em setembro e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom de R$ 250 de uso pessoal, criado para um grupo específico de clientes, que acabou divulgado em sites de cupons sem autorização da marca. Segundo a empresa, todos os pedidos feitos com esse código foram cancelados e o valor pago foi estornado.",
         "A Insider afirmou ainda que as promoções oficiais são divulgadas nos próprios canais da marca: site, e-mails da Insider e redes sociais verificadas. A lição é simples: desconfie de cupons com desconto alto demais encontrados em sites de cupons, porque o pedido pode ser cancelado depois de pago. O EMCASACOMCECILIA é um cupom de criador do programa oficial de parceria da Insider, feito para ser divulgado."
       ]
     },
@@ -285,11 +286,11 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é a nota da Insider Store no Reclame Aqui? A Insider Store tem reputação RA1000, com nota 9,0 nos últimos seis meses (abril a setembro de 2026) e 8,7 nos últimos 12 meses.",
+        "Qual é a nota da Insider Store no Reclame Aqui? A Insider Store tem reputação RA1000, com nota 9,0 nos últimos seis meses (abril a setembro) e 8,7 nos últimos 12 meses.",
         "A Insider Store é confiável segundo o Reclame Aqui? Os dados indicam que sim: a empresa respondeu 99,4% das reclamações dos últimos seis meses, resolveu 92,6% das avaliadas e mantém a reputação máxima em todos os períodos do perfil.",
         "Qual é a reclamação mais comum contra a Insider? Produto não recebido, com 2.745 reclamações em três anos, seguido de atraso na entrega, com 1.933.",
         "Quanto tempo a Insider demora para responder no Reclame Aqui? A média dos últimos seis meses foi de 2 dias e 3 horas. A própria empresa informa um prazo de até 3 dias úteis.",
-        "Por que a Insider cancelou meu pedido feito com cupom? No fim de setembro de 2026, a Insider cancelou e estornou pedidos feitos com um cupom pessoal de R$ 250 que vazou em sites de cupons. Segundo a empresa, as promoções oficiais saem só nos canais da marca.",
+        "Por que a Insider cancelou meu pedido feito com cupom? No fim de setembro, a Insider cancelou e estornou pedidos feitos com um cupom pessoal de R$ 250 que vazou em sites de cupons. Segundo a empresa, as promoções oficiais saem só nos canais da marca.",
         "A Insider vende roupa que desbota? A categoria \"desbotou\" tem apenas 9 reclamações em três anos no Reclame Aqui. A Tech T-Shirt tem garantia de 2 anos contra desbotamento, desde que a etiqueta de lavagem seja seguida.",
         "Como reclamar da Insider? Comece pelo WhatsApp oficial da loja, em dias úteis, das 9h às 18h. Se não resolver, abra uma reclamação no Reclame Aqui, que exige cadastro, e acompanhe a resposta também pelo e-mail.",
         "Qual é o prazo de garantia para defeito na Insider? A política de trocas da loja dá até 180 dias corridos após o recebimento para defeito, com envio de fotos. Em algumas respostas, a equipe citou o prazo legal de 90 dias do CDC.",
