@@ -1,4 +1,5 @@
 {
+  "bodyDatesReason": "campanha",
   "id": 333,
   "slug": "black-friday-i-wanna-sleep",
   "title": "Black Friday I Wanna Sleep 2026: Pillow Top Magnum, travesseiros e cobertores com o cupom CECIEMCASA",
@@ -45,7 +46,7 @@
       "heading": "A I Wanna Sleep tem Black Friday?",
       "paragraphs": [
         "Não encontramos campanha oficial de Black Friday da I Wanna Sleep nos últimos anos: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
-        "O que dá para mostrar é o que a loja já oferecia em outubro de 2026: o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
+        "O que dá para mostrar é o que a loja já oferecia: o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
         "Quando a I Wanna Sleep anunciar a campanha de 2026, as condições entram aqui, com o que mudou em relação a outubro."
       ]
     },
@@ -61,8 +62,8 @@
         "objectFit": "square"
       },
       "comparisonTable": {
-        "caption": "Pillow Top Magnum e kits na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
-        "headers": ["Produto", "Preço riscado", "Em 9/10/2026"],
+        "caption": "Pillow Top Magnum e kits na I Wanna Sleep: preço riscado na página e preço do dia, lidos em 9 de outubro de 2026. No Pix, a página do produto mostra mais 5% de desconto.",
+        "headers": ["Produto", "Preço riscado", "Preço do dia"],
         "rows": [
           ["Pillow Top Magnum, solteiro (1,00 x 2,00 m)", "R$ 1.489", "R$ 1.280"],
           ["Pillow Top Magnum, casal (1,40 x 2,00 m)", "R$ 2.149", "R$ 1.848"],
@@ -94,8 +95,8 @@
         "objectFit": "square"
       },
       "comparisonTable": {
-        "caption": "Travesseiros e cobertores na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
-        "headers": ["Produto", "Preço riscado", "Em 9/10/2026"],
+        "caption": "Travesseiros e cobertores na I Wanna Sleep: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
+        "headers": ["Produto", "Preço riscado", "Preço do dia"],
         "rows": [
           ["Travesseiro Snow, regular (50 x 70 cm)", "R$ 419", "R$ 347"],
           ["Travesseiro Snow, plus (50 x 90 cm)", "R$ 459", "R$ 390"],
@@ -180,20 +181,20 @@
     {
       "heading": "Entrega e prazo para o Natal",
       "paragraphs": [
-        "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Em 9 de outubro, simulamos o frete do Pillow Top Magnum casal com o CEP do centro de 12 capitais, e ele saiu grátis em todas.",
+        "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Simulamos o frete do Pillow Top Magnum casal com o CEP do centro de 12 capitais, e ele saiu grátis em todas.",
         "Somando um dia útil de folga ao prazo do carrinho, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
       ],
       "comparisonTable": {
-        "caption": "Prazo mostrado no carrinho da I Wanna Sleep em 9 de outubro de 2026, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
-        "headers": ["Capital", "Prazo no carrinho", "Pagar até (estimativa)"],
+        "caption": "Prazo mostrado no carrinho da I Wanna Sleep, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+        "headers": ["Capital", "Prazo no carrinho", "Pagar até (estimativa, dezembro)"],
         "rows": [
-          ["Belo Horizonte", "3 dias úteis", "18 de dezembro"],
-          ["São Paulo e Rio de Janeiro", "6 dias úteis", "15 de dezembro"],
-          ["Curitiba, Brasília e Goiânia", "7 dias úteis", "14 de dezembro"],
-          ["Porto Alegre e Salvador", "8 dias úteis", "11 de dezembro"],
-          ["Belém e Manaus", "10 dias úteis", "9 de dezembro"],
-          ["Fortaleza", "11 dias úteis", "8 de dezembro"],
-          ["Recife", "12 dias úteis", "7 de dezembro"]
+          ["Belo Horizonte", "3 dias úteis", "dia 18"],
+          ["São Paulo e Rio de Janeiro", "6 dias úteis", "dia 15"],
+          ["Curitiba, Brasília e Goiânia", "7 dias úteis", "dia 14"],
+          ["Porto Alegre e Salvador", "8 dias úteis", "dia 11"],
+          ["Belém e Manaus", "10 dias úteis", "dia 9"],
+          ["Fortaleza", "11 dias úteis", "dia 8"],
+          ["Recife", "12 dias úteis", "dia 7"]
         ]
       },
       "postParagraphs": [
@@ -204,15 +205,15 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quando é a Black Friday da I Wanna Sleep? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro. Até 9 de outubro de 2026, a I Wanna Sleep ainda não tinha anunciado campanha.",
+        "Quando é a Black Friday da I Wanna Sleep? A Black Friday de 2026 é na última sexta-feira de novembro, e a Cyber Monday, na segunda seguinte. Na última conferência, a I Wanna Sleep ainda não tinha anunciado campanha.",
         "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
-        "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848 em outubro de 2026, sai por R$ 1.580,04.",
+        "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848 na leitura de preços, sai por R$ 1.580,04.",
         "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
-        "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Na nossa simulação de 9 de outubro, o Pillow Top Magnum saiu com frete grátis para as 12 capitais testadas.",
+        "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Na nossa simulação, o Pillow Top Magnum saiu com frete grátis para as 12 capitais testadas.",
         "Tem cupom de primeira compra na I Wanna Sleep? Use o CECIEMCASA, que dá 10% OFF em todo o site, com todas as formas de pagamento.",
         "A I Wanna Sleep tem loja física? Tem sete lojas em Belo Horizonte, entre elas as do BH Shopping, do Del Rey e do Ponteio. É nelas que se compram colchões e box. Compras feitas no site não são trocadas nas lojas.",
-        "O Pillow Top Magnum fica mais barato na Black Friday? Em outubro de 2026, ele já estava com cerca de 14% de desconto, a R$ 1.848 no casal. Se em novembro o preço do dia ficar abaixo disso, o desconto é maior que o de outubro.",
-        "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos que o carrinho mostrou em outubro e um dia útil de folga, até 15 de dezembro em São Paulo e no Rio de Janeiro, até 18 de dezembro em Belo Horizonte e até 7 de dezembro em Recife."
+        "O Pillow Top Magnum fica mais barato na Black Friday? Na leitura de preços, ele já estava com cerca de 14% de desconto, a R$ 1.848 no casal. Se em novembro o preço do dia ficar abaixo disso, o desconto é maior que o de outubro.",
+        "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos que o carrinho mostrou em outubro e um dia útil de folga, até o dia 15 em São Paulo e no Rio de Janeiro, até o dia 18 em Belo Horizonte e até o dia 7 em Recife."
       ]
     }
   ],
