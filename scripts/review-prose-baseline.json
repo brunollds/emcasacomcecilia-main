@@ -22,10 +22,6 @@
     "bodyDates": 17,
     "datesOutsideBody": 9
   },
-  "black-friday-insider": {
-    "bodyDates": 37,
-    "datesOutsideBody": 12
-  },
   "black-friday-lejour": {
     "bodyDates": 23,
     "datesOutsideBody": 8
@@ -114,16 +110,6 @@
     "transparencySection": true,
     "bodyDates": 5
   },
-  "camiseta-feminina-insider-qual-escolher": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "datesOutsideBody": 1
-  },
-  "camiseta-insider-qual-escolher": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "datesOutsideBody": 1
-  },
   "caramelo-salgado-dolce-gusto": {
     "transparencySection": true,
     "bodyDates": 5,
@@ -176,9 +162,6 @@
   },
   "cupom-ceci-nestle-nutre-como-usar": {
     "datesOutsideBody": 3
-  },
-  "cupom-emcasacomcecilia-insider-store-como-usar": {
-    "bodyDates": 4
   },
   "cupom-magalu-em-casa-com-cecilia": {
     "quickAnswerPrice": true,
@@ -267,19 +250,9 @@
     "bodyDates": 3,
     "datesOutsideBody": 1
   },
-  "insider-mercado-livre-ou-site": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 7,
-    "datesOutsideBody": 6
-  },
   "insider-store-e-confiavel": {
     "bodyDates": 7,
     "datesOutsideBody": 1
-  },
-  "insider-store-reclame-aqui-nota-reputacao": {
-    "bodyDates": 10,
-    "datesOutsideBody": 6
   },
   "insider-vale-a-pena": {
     "bodyDates": 11,
@@ -299,10 +272,6 @@
     "transparencySection": true,
     "bodyDates": 6,
     "datesOutsideBody": 1
-  },
-  "kit-insider-quando-compensa": {
-    "quickAnswerPrice": true,
-    "transparencySection": true
   },
   "le-creuset-original-como-saber": {
     "transparencySection": true,
@@ -479,12 +448,6 @@
   "nutren-senior-zero-lactose-ficha-tecnica": {
     "datesOutsideBody": 1
   },
-  "outlet-insider-feminino-vale-a-pena": {
-    "transparencySection": true
-  },
-  "outlet-insider-masculino-vale-a-pena": {
-    "transparencySection": true
-  },
   "poltrona-damie-e-boa": {
     "datesOutsideBody": 2
   },
@@ -505,10 +468,6 @@
   "presente-de-casamento-ideias-por-preco": {
     "transparencySection": true,
     "bodyDates": 5
-  },
-  "presente-de-natal-insider-kits-gift-card": {
-    "transparencySection": true,
-    "bodyDates": 20
   },
   "presente-natal-quem-gosta-de-cozinhar": {
     "quickAnswerPrice": true,
@@ -543,10 +502,6 @@
   "probiotica-reclame-aqui-nota-reputacao": {
     "bodyDates": 15,
     "datesOutsideBody": 13
-  },
-  "promocao-insider-selecao-com-cupom": {
-    "bodyDates": 26,
-    "datesOutsideBody": 1
   },
   "protetor-de-silicone-mamilo-como-usar": {
     "bodyDates": 4,
@@ -615,10 +570,6 @@
   "toda-up-reclame-aqui-nota-reputacao": {
     "bodyDates": 23,
     "datesOutsideBody": 4
-  },
-  "undershirt-insider-qual-escolher-funciona": {
-    "transparencySection": true,
-    "bodyDates": 4
   },
   "vestido-de-festa-shein": {
     "bodyDates": 4
