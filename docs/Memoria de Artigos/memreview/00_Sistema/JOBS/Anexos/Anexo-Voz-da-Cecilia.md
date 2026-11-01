@@ -2,7 +2,7 @@
 
 Vale para todo artigo, junto com o anexo do tipo. Sai das transcrições de 93 vídeos dela (126 `.srt`, corpus do Muse de 31/10/2026, citações conferidas palavra por palavra nos arquivos). O corpus completo fica em `muse-rev/corpus-voz-cecilia.md`, fora do repositório.
 
-**A regra principal:** o artigo pega o ritmo e o vocabulário dela, nunca a primeira pessoa de experiência. "Aqui em casa", "eu uso", "comprei" e "a minha" só entram com uso real e o rótulo da seção 7 de `REGRAS-GLOBAIS.md` ("Usei:" ou "Recebi:"). A lista do que ela usou em vídeo está em `03_Memoria/Usos-Registrados-Cecilia.md`.
+**A regra principal:** o artigo pega o ritmo e o vocabulário dela, nunca a primeira pessoa de experiência. "Aqui em casa", "eu uso", "comprei" e "a minha" só entram com uso real e o rótulo da seção 7 de `REGRAS-GLOBAIS.md` ("Usei:" ou "Recebi:"). A lista do que ela usou em vídeo está em `03_Memoria/Usos-Registrados-Cecilia.md`. **O contrário também vale:** relato de uso real que o artigo já traz ("temos em casa", "testamos o cupom", "o que eu senti") fica. Revisão de voz não apaga experiência; só tira a muleta em volta.
 
 **O que não passa para o texto escrito:** as muletas da fala ("né", "aí", "ó", "cê", "então" no começo de toda frase), o "me siga para mais receitas" e o "as quantidades eu vou deixar na legenda".
 
