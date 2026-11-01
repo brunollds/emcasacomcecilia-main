@@ -24,6 +24,7 @@
 - [ ] [[kit-toda-up-quando-compensa]]: Toda Up, kits quando compensam (PT; conta por peça)
 - [ ] [[mochila-de-viagem-bagaggio-qual-escolher]]: Bagaggio, mochila de viagem e bagagem de mão (PT)
 - [ ] [[retrofit-catraca-lista-3110]]: retrofit mecânico de 182 artigos PT pela catraca do #407 (lote 0: os 3 do #405)
+- [ ] [[voz-muse-3110/README|voz-muse-3110]]: voz dos 62 artigos de maior impressão (Muse conferido) + conserto mecânico da catraca, por loja
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
