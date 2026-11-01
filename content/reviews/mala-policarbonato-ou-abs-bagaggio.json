@@ -28,11 +28,11 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na mesma mala de bordo de 10 kg, a de policarbonato custou de 3,6 a 6 vezes a de ABS na Bagaggio em 29/10/2026, sem ganhar litros e pesando mais. As fichas não comparam a resistência dos materiais, então a decisão fica no preço, no peso e nos litros. A conta por litro e por kg está na tabela."
+        "Na mesma mala de bordo de 10 kg, a de policarbonato custou de 3,6 a 6 vezes a de ABS na Bagaggio, sem ganhar litros e pesando mais. As fichas não comparam a resistência dos materiais, então a decisão fica no preço, no peso e nos litros. A conta por litro e por kg está na tabela."
       ]
     },
     {
-      "heading": "ABS, polipropileno e policarbonato: os preços de 29/10",
+      "heading": "ABS, polipropileno e policarbonato: os preços",
       "paragraphs": [
         "A Bagaggio vende a mala de bordo de 10 kg em três materiais: ABS, polipropileno e policarbonato. Cada ficha traz o material, a medida, os litros e o peso, mas nenhuma compara um material com o outro. A tabela junta as fichas lidas em 29/10/2026, do preço mais baixo ao mais alto."
       ],
@@ -40,7 +40,7 @@
         "headers": [
           "Produto",
           "Material",
-          "Preço no cartão (29/10)",
+          "Preço no cartão",
           "Medida (ficha)",
           "Litros",
           "Peso",
@@ -121,13 +121,13 @@
         ]
       },
       "postParagraphs": [
-        "Com o CECILIA10, a Bahamas Branca saiu por R$ 809,91 e, no Pix, por R$ 769,41. A Detroit Preta saiu por R$ 224,91 com o cupom e R$ 213,66 no Pix. A Kyoto II Preta, que estava sem desconto da loja, saiu por R$ 1.349,91 com o cupom e R$ 1.282,41 no Pix. Esses valores vieram da API pública do carrinho da loja em 29/10/2026, com uma mala por vez, sem identificação e sem finalizar a compra.",
+        "Com o CECILIA10, a Bahamas Branca saiu por R$ 809,91 e, no Pix, por R$ 769,41. A Detroit Preta saiu por R$ 224,91 com o cupom e R$ 213,66 no Pix. A Kyoto II Preta, que estava sem desconto da loja, saiu por R$ 1.349,91 com o cupom e R$ 1.282,41 no Pix. Esses valores vieram da API pública do carrinho da loja, com uma mala por vez, sem identificação e sem finalizar a compra.",
         "Os preços são de um dia. A loja muda a promoção sem aviso, então confira o valor na ficha antes de comprar."
       ],
       "image": {
         "src": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-tres-materiais.webp",
         "alt": "Três malas de bordo da Bagaggio lado a lado: a Detroit Preta de ABS, a Route Preta de polipropileno e a Bahamas Branca de policarbonato",
-        "caption": "Da esquerda para a direita: Detroit Preta (ABS), Route Preta (polipropileno) e Bahamas Branca (policarbonato), todas de 10 kg. Fotos oficiais da loja, lidas em 29/10/2026.",
+        "caption": "Da esquerda para a direita: Detroit Preta (ABS), Route Preta (polipropileno) e Bahamas Branca (policarbonato), todas de 10 kg. Fotos oficiais da loja.",
         "objectFit": "contain",
         "aspectRatio": 1.6275
       }
@@ -159,7 +159,7 @@
       "heading": "A cor muda o preço da mesma mala",
       "paragraphs": [
         "Na Bagaggio, a mesma mala custa preços diferentes conforme a cor. A ficha não explica a diferença: medida, litros e peso são iguais.",
-        "A Malta de 10 kg tem 55 x 35 x 20 cm, 38,5 L e 2,57 kg nas três cores. Em 29/10/2026, a [Malta Rosa Escuro](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-rosa-escuro-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custava R$ 349,90, a [Malta Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 499,90 e a [Malta Branca e Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-branca-e-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 549,90. Por litro, R$ 9,09, R$ 12,98 e R$ 14,28. A Rosa Escuro estava com uma unidade em estoque na leitura.",
+        "A Malta de 10 kg tem 55 x 35 x 20 cm, 38,5 L e 2,57 kg nas três cores. Na leitura, a [Malta Rosa Escuro](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-rosa-escuro-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custava R$ 349,90, a [Malta Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 499,90 e a [Malta Branca e Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-branca-e-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 549,90. Por litro, R$ 9,09, R$ 12,98 e R$ 14,28. A Rosa Escuro estava com uma unidade em estoque na leitura.",
         "A Nova Bahamas, de policarbonato, segue a mesma lógica: a [Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custava R$ 999,90, a [Bege](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-bege/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 1.199,90 e a [Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 1.299,90, todas com 43,4 L e 3,28 kg.",
         "Se a cor não importa, compare as cores da mesma linha antes de comparar materiais: a Malta Rosa Escuro custava R$ 150,00 a menos que a Malta Preta."
       ]
@@ -196,11 +196,11 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Mala de policarbonato é melhor que ABS? As fichas da Bagaggio não comparam a resistência dos materiais. Na mesma medida de 10 kg, a de policarbonato custou mais e pesou mais, com litros parecidos.",
-        "Qual a diferença de preço entre ABS, polipropileno e policarbonato na Bagaggio? Entre as malas de bordo de 10 kg deste texto, em 29/10/2026, a de ABS custava R$ 249,90, as de polipropileno de R$ 299,90 a R$ 549,90 e as de policarbonato de R$ 899,90 a R$ 1.499,90.",
+        "Qual a diferença de preço entre ABS, polipropileno e policarbonato na Bagaggio? Entre as malas de bordo de 10 kg deste texto, a de ABS custava R$ 249,90, as de polipropileno de R$ 299,90 a R$ 549,90 e as de policarbonato de R$ 899,90 a R$ 1.499,90.",
         "Mala de policarbonato pesa mais que a de ABS? Na Bagaggio, sim. Segundo as fichas, as de policarbonato de 10 kg pesam de 3,28 kg a 3,52 kg, e a Detroit de ABS pesa 2,61 kg.",
-        "Por que a mesma mala Malta custa preços diferentes por cor? A ficha não explica. Em 29/10/2026, a Malta de 10 kg custava R$ 349,90 na Rosa Escuro, R$ 499,90 na Preta e R$ 549,90 na Branca e Marrom, com a mesma medida e o mesmo peso.",
+        "Por que a mesma mala Malta custa preços diferentes por cor? A ficha não explica. A Malta de 10 kg custava R$ 349,90 na Rosa Escuro, R$ 499,90 na Preta e R$ 549,90 na Branca e Marrom, com a mesma medida e o mesmo peso.",
         "Vale pagar mais pela mala de policarbonato? Só se o material importa para você. Pelos números das fichas, ela não traz mais litros nem menos peso que a de ABS.",
-        "Tem cupom para a mala de policarbonato Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site, inclusive em produto com desconto. Em 29/10/2026, a Bahamas Branca saiu por R$ 809,91 com o cupom. Condições na [página do cupom Bagaggio](/cupons/bagaggio)."
+        "Tem cupom para a mala de policarbonato Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site, inclusive em produto com desconto. A Bahamas Branca saiu por R$ 809,91 com o cupom. Condições na [página do cupom Bagaggio](/cupons/bagaggio)."
       ]
     }
   ],

@@ -8,44 +8,10 @@
     "bodyDates": 14,
     "datesOutsideBody": 3
   },
-  "bagaggio-e-boa-malas-mochilas": {
-    "bodyDates": 6,
-    "datesOutsideBody": 3
-  },
-  "bagaggio-e-confiavel": {
-    "bodyDates": 5,
-    "datesOutsideBody": 3
-  },
-  "bagaggio-garantia-vitalicia": {
-    "bodyDates": 5,
-    "datesOutsideBody": 4
-  },
-  "bagaggio-reclame-aqui-nota-reputacao": {
-    "bodyDates": 21,
-    "datesOutsideBody": 4
-  },
   "barra-de-proteina-mais-mu-qual-escolher": {
     "transparencySection": true,
     "bodyDates": 8,
     "datesOutsideBody": 5
-  },
-  "belive-e-confiavel": {
-    "bodyDates": 9,
-    "datesOutsideBody": 4
-  },
-  "belive-reclame-aqui-nota-reputacao": {
-    "transparencySection": true,
-    "bodyDates": 18,
-    "datesOutsideBody": 11
-  },
-  "black-friday-bagaggio": {
-    "bodyDates": 17,
-    "datesOutsideBody": 9
-  },
-  "black-friday-belive": {
-    "transparencySection": true,
-    "bodyDates": 11,
-    "datesOutsideBody": 6
   },
   "black-friday-black-skull": {
     "bodyDates": 17,
@@ -186,17 +152,6 @@
     "bodyDates": 8,
     "datesOutsideBody": 2
   },
-  "bolinho-kids-belive-lancheira": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 3,
-    "datesOutsideBody": 1
-  },
-  "bolinho-sem-acucar-belive-ou-suavipan": {
-    "transparencySection": true,
-    "bodyDates": 5,
-    "datesOutsideBody": 5
-  },
   "brinde-skelt-30-outubro-cupom": {
     "quickAnswerPrice": true,
     "transparencySection": true,
@@ -207,11 +162,6 @@
     "quickAnswerPrice": true,
     "bodyDates": 5,
     "datesOutsideBody": 1
-  },
-  "brownie-sem-acucar-belive": {
-    "transparencySection": true,
-    "bodyDates": 4,
-    "datesOutsideBody": 5
   },
   "cafe-au-lait-dolce-gusto": {
     "transparencySection": true,
@@ -264,17 +214,6 @@
     "datesOutsideBody": 3
   },
   "como-encontrar-cupons-yesstyle-validos": {
-    "datesOutsideBody": 1
-  },
-  "conjunto-de-malas-bagaggio-compensa": {
-    "quickAnswerPrice": true,
-    "bodyDates": 8,
-    "datesOutsideBody": 6
-  },
-  "cookies-sem-acucar-belive": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 3,
     "datesOutsideBody": 1
   },
   "creatina-black-skull-qual-escolher": {
@@ -368,10 +307,6 @@
     "datesOutsideBody": 4
   },
   "damie-reclame-aqui-o-que-os-dados-mostram": {
-    "transparencySection": true,
-    "datesOutsideBody": 3
-  },
-  "doces-sem-acucar-para-diabeticos": {
     "transparencySection": true,
     "datesOutsideBody": 3
   },
@@ -595,15 +530,6 @@
     "bodyDates": 13,
     "datesOutsideBody": 10
   },
-  "mala-de-bordo-bagaggio-qual-compensa": {
-    "quickAnswerPrice": true,
-    "bodyDates": 16,
-    "datesOutsideBody": 6
-  },
-  "mala-policarbonato-ou-abs-bagaggio": {
-    "bodyDates": 6,
-    "datesOutsideBody": 5
-  },
   "max-titanium-e-confiavel": {
     "bodyDates": 11,
     "datesOutsideBody": 5
@@ -655,15 +581,6 @@
   "mochaccino-canela-dolce-gusto": {
     "transparencySection": true,
     "bodyDates": 3,
-    "datesOutsideBody": 1
-  },
-  "mochila-escolar-bagaggio": {
-    "quickAnswerPrice": true,
-    "datesOutsideBody": 1
-  },
-  "mochila-notebook-bagaggio-qual-escolher": {
-    "quickAnswerPrice": true,
-    "bodyDates": 4,
     "datesOutsideBody": 1
   },
   "monodose-probiotica-sache-ou-pote": {
@@ -742,11 +659,6 @@
   "outlet-insider-masculino-vale-a-pena": {
     "transparencySection": true
   },
-  "pao-de-mel-sem-acucar-belive": {
-    "transparencySection": true,
-    "bodyDates": 8,
-    "datesOutsideBody": 6
-  },
   "paperclip-ai-hostinger": {
     "datesOutsideBody": 2
   },
@@ -791,11 +703,6 @@
     "transparencySection": true,
     "bodyDates": 37,
     "datesOutsideBody": 3
-  },
-  "presente-natal-bagaggio": {
-    "quickAnswerPrice": true,
-    "bodyDates": 8,
-    "datesOutsideBody": 1
   },
   "presente-natal-quem-gosta-de-cozinhar": {
     "quickAnswerPrice": true,
@@ -876,11 +783,6 @@
   "sleepspray-kidz-iws-como-funciona-ritual-do-sono": {
     "bodyDates": 3
   },
-  "snack-proteico-ou-snack-de-arroz-belive": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 3
-  },
   "snacks-dr-peanut-qual-escolher": {
     "quickAnswerPrice": true,
     "transparencySection": true,
@@ -912,10 +814,6 @@
   "taca-base-esfera-e-tacas-coloridas": {
     "quickAnswerPrice": true,
     "transparencySection": true
-  },
-  "tamanho-mala-bagaggio-p-m-g": {
-    "bodyDates": 6,
-    "datesOutsideBody": 6
   },
   "toda-up-e-confiavel": {
     "bodyDates": 15,

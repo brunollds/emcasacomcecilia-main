@@ -84722,7 +84722,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Sim, a Belive é vendida por uma empresa registrada e ativa, segundo os dados públicos de CNPJ consultados em 16/10/2026.",
           "A loja é operada pela NHD Foods Indústria, Comércio, Importação e Exportação Ltda., segundo o rodapé do site e o cadastro público de CNPJ.",
-          "O rodapé traz o CNPJ da filial, 21.541.988/0002-57, ativa desde 19/10/2015. A matriz é o CNPJ 21.541.988/0001-76, ativa desde 09/12/2014, o mesmo citado na política de privacidade. As duas unidades ficam em Uberaba (MG), segundo o cadastro público.",
+          "O rodapé traz o CNPJ da filial, 21.541.988/0002-57, ativa desde 2015. A matriz é o CNPJ 21.541.988/0001-76, ativa desde 2014, o mesmo citado na política de privacidade. As duas unidades ficam em Uberaba (MG), segundo o cadastro público.",
           "Segundo o site, a marca existe **desde 2015**."
         ]
       },
@@ -84741,7 +84741,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/belive/belive-e-confiavel-rodape-cnpj.webp",
         "imageAlt": "Rodapé do site belivebefree.com.br com a razão social NHD Foods e o CNPJ 21.541.988/0002-57 marcados em amarelo",
-        "imageCaption": "Rodapé de belivebefree.com.br em 16/10/2026, com razão social e CNPJ. O marca-texto amarelo é nosso.",
+        "imageCaption": "Rodapé de belivebefree.com.br, com razão social e CNPJ. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 3.2
       },
@@ -84753,8 +84753,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
-          "alt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten",
-          "caption": "A página inicial da Belive em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten.",
+          "alt": "Página inicial do site belivebefree.com.br, com a vitrine de doces, snacks e pães sem glúten",
+          "caption": "A página inicial da Belive, com a vitrine de doces, snacks e pães sem glúten.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -84762,10 +84762,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e defeito",
         "paragraphs": [
-          "As regras de troca e devolução do site, lidas em 16/10/2026:"
+          "As regras de troca e devolução do site, lidas no site:"
         ],
         "comparisonTable": {
-          "caption": "Regras de arrependimento e de defeito da Belive, segundo a FAQ do site em 16/10/2026",
+          "caption": "Regras de arrependimento e de defeito da Belive, segundo a FAQ do site",
           "headers": [
             "Situação",
             "Prazo",
@@ -84794,10 +84794,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazo e pagamento",
         "paragraphs": [
-          "O frete grátis depende do valor do pedido e da região. Segundo a página de regras de frete do site, em 16/10/2026:"
+          "O frete grátis depende do valor do pedido e da região. Segundo a página de regras de frete do site:"
         ],
         "comparisonTable": {
-          "caption": "Valor de pedido para frete grátis da Belive por região, segundo a página de regras de frete em 16/10/2026",
+          "caption": "Valor de pedido para frete grátis da Belive por região, segundo a página de regras de frete",
           "headers": [
             "Região",
             "Frete grátis a partir de"
@@ -84825,7 +84825,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "No Reclame Aqui, o perfil \"Belive Be Free\" tem selo **Ótima** nos últimos seis meses e nota **8,1**, em consulta de 16/10/2026. Os números completos estão no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
+          "No Reclame Aqui, o perfil \"Belive Be Free\" tem selo **Ótima** nos últimos seis meses e nota **8,1**, na consulta mais recente. Os números completos estão no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -84840,7 +84840,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom **MAUAD**. No carrinho, ele entra no campo \"Código do cupom\", com o botão \"Aplicar cupom\".",
           "O desconto é de 10% OFF em todo o site, em todas as formas de pagamento. Vale na primeira compra, soma com as ofertas do site e com os 5% do Pix. Não vale no Mercado Livre.",
-          "Fizemos o teste de carrinho do cupom em 16/10/2026. O passo a passo, com os números do teste, está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar). As regras do cupom ficam na [página do cupom da Belive](/cupons/belive)."
+          "Fizemos o teste de carrinho do cupom. O passo a passo, com os números do teste, está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar). As regras do cupom ficam na [página do cupom da Belive](/cupons/belive)."
         ]
       },
       {
@@ -84853,12 +84853,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Belive é confiável? Sim, do ponto de vista cadastral: a loja tem CNPJ ativo, razão social no rodapé, trocas publicadas e reputação Ótima no Reclame Aqui, em consulta de 16/10/2026.",
+          "A Belive é confiável? Sim, do ponto de vista cadastral: a loja tem CNPJ ativo, razão social no rodapé, trocas publicadas e reputação Ótima no Reclame Aqui.",
           "A Belive é uma empresa de verdade? Sim. A NHD Foods Indústria, Comércio, Importação e Exportação Ltda. tem matriz e filial ativas nos dados públicos de CNPJ.",
           "Qual é o CNPJ da Belive? O do rodapé do site é 21.541.988/0002-57, da filial. A matriz é 21.541.988/0001-76.",
           "O site da Belive é seguro? O endereço oficial é belivebefree.com.br e usa conexão segura. Ainda assim, confira o domínio antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
           "Quanto tempo tenho para devolver um produto da Belive? São 7 dias corridos a partir do recebimento, com embalagem original, sem uso e com nota fiscal. Para defeito, o site não publica prazo.",
-          "A Belive tem frete grátis? Tem: a partir de R$ 170 em SP, MG, RJ, DF e GO, R$ 250 no Sul e R$ 300 nos demais estados, sem contar o cupom (16/10/2026).",
+          "A Belive tem frete grátis? Tem: a partir de R$ 170 em SP, MG, RJ, DF e GO, R$ 250 no Sul e R$ 300 nos demais estados, sem contar o cupom.",
           "Tem cupom de primeira compra na Belive? Tem o MAUAD: 10% OFF no carrinho, em todas as formas de pagamento, válido na primeira compra. Não vale no Mercado Livre."
         ]
       }
@@ -84867,6 +84867,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 450,
     "slug": "belive-reclame-aqui-nota-reputacao",
+    "bodyDatesReason": "reclame-aqui",
     "title": "Belive no Reclame Aqui: nota e reputação",
     "seoTitle": "Belive no Reclame Aqui: nota e reclamações",
     "type": "Análise de Reputação",
@@ -84931,10 +84932,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Belive no Reclame Aqui",
         "paragraphs": [
-          "O perfil se chama Belive Be Free e está na categoria Alimentos e Bebidas, Alimentos Diet e Light. Em 16/10/2026, o selo de reputação era Ótima. A tabela traz as três abas que o perfil mostra, cada uma com o seu período:"
+          "O perfil se chama Belive Be Free e está na categoria Alimentos e Bebidas, Alimentos Diet e Light. O selo de reputação era Ótima. A tabela traz as três abas que o perfil mostra, cada uma com o seu período:"
         ],
         "comparisonTable": {
-          "caption": "Perfil Belive Be Free no Reclame Aqui, abas de 6 meses (01/04 a 30/09/2026), de 12 meses (01/10/2025 a 30/09/2026) e de 2025 (01/01 a 31/12/2025), consultado em 16/10/2026",
+          "caption": "Perfil Belive Be Free no Reclame Aqui, abas de 6 meses, de 12 meses e de 2025, consultado em 16/10/2026",
           "headers": [
             "Indicador",
             "6 meses (01/04 a 30/09/2026)",
@@ -85004,7 +85005,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/belive/belive-reclame-aqui-6-e-12-meses.webp",
         "imageAlt": "Abas de 6 e 12 meses do perfil Belive Be Free no Reclame Aqui: 6 meses com reputação Ótima e nota 8,1, 12 meses com reputação Boa e nota 7,8, com os números marcados em amarelo",
-        "imageCaption": "Abas de 6 meses (01/04 a 30/09/2026) e de 12 meses (01/10/2025 a 30/09/2026) do perfil \"Belive Be Free\", consultadas em 16/10/2026. O marca-texto amarelo é nosso.",
+        "imageCaption": "Abas de 6 e de 12 meses do perfil \"Belive Be Free\". O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 0.679
       },
@@ -85022,7 +85023,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/belive/belive-reclame-aqui-principais-problemas.webp",
         "imageAlt": "Principais problemas comentados no perfil Belive Be Free no Reclame Aqui: categoria \"Não encontrei meu problema\" com 30,67% e atraso na entrega com 4,29%",
-        "imageCaption": "Principais problemas comentados no perfil \"Belive Be Free\", com reclamações de até 3 anos (consulta em 16/10/2026). O marca-texto amarelo é nosso.",
+        "imageCaption": "Principais problemas comentados no perfil \"Belive Be Free\", com reclamações de até 3 anos. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.5242
       },
@@ -85034,8 +85035,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/belive/belive-reclame-aqui-capa.webp",
-          "alt": "Topo do perfil Belive Be Free no Reclame Aqui em 16/10/2026, com o selo de reputação Ótima e a aba de 6 meses com nota 8,1",
-          "caption": "O topo do perfil da Belive no Reclame Aqui e a aba de 6 meses, com nota 8,1, consultados em 16/10/2026.",
+          "alt": "Topo do perfil Belive Be Free no Reclame Aqui, com o selo de reputação Ótima e a aba de 6 meses com nota 8,1",
+          "caption": "O topo do perfil da Belive no Reclame Aqui e a aba de 6 meses, com nota 8,1.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -85043,7 +85044,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o seu pedido der problema: o que fazer",
         "paragraphs": [
-          "Estes são os caminhos que o site descreve, lidos em 16/10/2026:"
+          "Estes são os caminhos que o site descreve, lidos no site:"
         ],
         "bullets": [
           "**Caixa violada, aberta, rasgada ou muito amassada:** recuse o recebimento na entrega. Com a caixa recusada, a troca sai mais rápido.",
@@ -85062,7 +85063,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Belive?",
         "paragraphs": [
-          "Sim, com a leitura certa. Em 16/10/2026, a reputação era Ótima nos últimos 6 meses e a loja responde a tudo. O limite é a amostra pequena e a resolução, que fica em 80%."
+          "Sim, com a leitura certa. A reputação era Ótima nos últimos 6 meses e a loja responde a tudo. O limite é a amostra pequena e a resolução, que fica em 80%."
         ],
         "bullets": [
           "Nota: 8,1 nos 6 meses (Ótima) e 7,8 nos 12 meses (Boa).",
@@ -85077,18 +85078,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Belive é confiável segundo o Reclame Aqui? Em 16/10/2026, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. A nota não diz tudo: só 15 das 39 reclamações dos 6 meses foram avaliadas.",
-          "Qual a nota da Belive no Reclame Aqui? Nota 8,1 nos últimos 6 meses (de 01/04 a 30/09/2026), 7,8 nos últimos 12 meses e 7,5 em 2025, em consulta de 16/10/2026.",
+          "A Belive é confiável segundo o Reclame Aqui? O perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. A nota não diz tudo: só 15 das 39 reclamações dos 6 meses foram avaliadas.",
+          "Qual a nota da Belive no Reclame Aqui? Nota 8,1 nos últimos 6 meses , 7,8 nos últimos 12 meses e 7,5 em 2025.",
           "A Belive responde às reclamações? Sim, segundo o perfil: 100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025. Responder não é o mesmo que resolver, e as resolvidas ficaram entre 75% e 80%.",
           "O que fazer se o pedido da Belive vier violado ou com defeito? Recuse a caixa violada na entrega. Com defeito, fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br.",
           "Como pedir troca ou devolução na Belive? No arrependimento, são 7 dias corridos a partir do recebimento, com a embalagem original e a nota fiscal, por pedido formal ao SAC. Outros problemas do pedido vão pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/.",
           "O pedido da Belive pode ser cancelado? Pode, quando o pagamento não é autorizado ou não é identificado no prazo, nos casos de boleto ou Pix. Nesse caso, peça a revisão ao SAC."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este artigo é de parceria comissionada: o Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom MAUAD. Os números são do perfil público Belive Be Free no Reclame Aqui, consultados em 16/10/2026, nas abas de 6 meses, 12 meses e 2025. A parceria não altera esses números. As regras de atendimento, devolução e defeito são do site oficial belivebefree.com.br, lidas em 16/10/2026."
         ]
       }
     ]
@@ -85421,32 +85416,32 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Belive 2026",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, mas a Belive ainda não anunciou data nem regra para a campanha. O cupom MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas do site. A tabela de preços de 16/10 é a régua; o capítulo final mostra o que conferir antes de novembro."
+          "A Black Friday de 2026 é em 27 de novembro, mas a Belive ainda não anunciou data nem regra para a campanha. O cupom MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas do site. A tabela de preços é a régua; o capítulo final mostra o que conferir antes de novembro."
         ]
       },
       {
         "heading": "O que a Belive já publicou",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, e a Belive não anunciou data nem regra para a campanha.",
-          "A página Black November, em belivebefree.com.br, mostrava em 16/10/2026 o título \"Receba ofertas exclusivas na Black November da Belive!\" e um formulário de cadastro com e-mail e nome. Não trazia banners, percentuais nem datas."
+          "A Belive não anunciou data nem regra para a campanha da Black Friday.",
+          "A página Black November, em belivebefree.com.br, mostrava o título \"Receba ofertas exclusivas na Black November da Belive!\" e um formulário de cadastro com e-mail e nome. Não trazia banners, percentuais nem datas."
         ],
         "image": {
           "src": "/images/reviews/belive/belive-black-november-pagina-2026-10-19.webp",
           "alt": "Página Black November do site da Belive, com o logo e a faixa Receba ofertas exclusivas na Black November da Belive",
-          "caption": "A página Black November da Belive em 19/10/2026: o convite para receber as ofertas, sem preços nem datas.",
+          "caption": "A página Black November da Belive: o convite para receber as ofertas, sem preços nem datas.",
           "objectFit": "contain",
           "aspectRatio": 3.3333
         },
         "postParagraphs": [
           "A loja não divulgou datas de início nem de fim. Não dá para saber quando a campanha começa ou termina.",
-          "Em 16/10/2026, a busca por panetone e chocotone no site voltava vazia. Por isso este guia não traz preço de panetone.",
-          "Em 2024, a mesma página tinha uma seção de panetones e frete grátis para todo o Brasil acima de R$ 150, por tempo limitado. A informação vem do Arquivo da Web (captura de 05/11/2024). Não encontramos registro público da campanha de 2025."
+          "A busca por panetone e chocotone no site voltava vazia. Por isso este guia não traz preço de panetone.",
+          "Em 2024, a mesma página tinha uma seção de panetones e frete grátis para todo o Brasil acima de R$ 150, por tempo limitado. A informação vem do Arquivo da Web (captura de 2024). Não encontramos registro público da campanha de 2025."
         ]
       },
       {
-        "heading": "Preços de referência em 16/10/2026",
+        "heading": "Preços de referência",
         "paragraphs": [
-          "Estes são os preços que a página de cada produto mostrava em 16/10/2026. O maior desconto que conferimos nas oito páginas de produto foi de 20%. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
+          "Estes são os preços que a página de cada produto mostrava no dia da leitura. O maior desconto que conferimos nas oito páginas de produto foi de 20%. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
         ],
         "image": {
           "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
@@ -85532,17 +85527,17 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto fica com o MAUAD e com o Pix",
         "paragraphs": [
           "O cupom **MAUAD** dá 10% em todo o site, em qualquer forma de pagamento. Ele soma com as ofertas do site e com o Pix de 5%. Vale na primeira compra. Não vale no Mercado Livre, onde a Belive também vende.",
-          "No teste de checkout de 16/10/2026, o carrinho tinha quatro combos e kits com selo de oferta:"
+          "No teste de checkout, o carrinho tinha quatro combos e kits com selo de oferta:"
         ],
         "image": {
           "src": "/images/reviews/belive/cupom-belive-resumo-desconto.webp",
           "alt": "Resumo do pedido da Belive depois do cupom, com o desconto de R$ 57,68, o total de R$ 519,14 e o total no Pix de R$ 493,18 marcados em amarelo",
-          "caption": "O resumo do pedido do teste de 16/10/2026: desconto de R$ 57,68, total de R$ 519,14 e Pix de R$ 493,18. O marca-texto amarelo é nosso.",
+          "caption": "O resumo do pedido do teste: desconto de R$ 57,68, total de R$ 519,14 e Pix de R$ 493,18. O marca-texto amarelo é nosso.",
           "objectFit": "contain",
           "aspectRatio": 1.2403
         },
         "comparisonTable": {
-          "caption": "Teste de checkout na Belive em 16 de outubro de 2026, com quatro combos e kits em oferta.",
+          "caption": "Teste de checkout na Belive, com quatro combos e kits em oferta.",
           "headers": [
             "Etapa",
             "Valor"
@@ -85578,7 +85573,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
           "alt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a faixa de frete grátis e a vitrine de doces, snacks e pães sem glúten",
-          "caption": "A página inicial da Belive em 16/10/2026, com a faixa do frete grátis acima de R$ 170 e dos 5% extra no Pix.",
+          "caption": "A página inicial da Belive, com a faixa do frete grátis acima de R$ 170 e dos 5% extra no Pix.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -85612,17 +85607,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "O MAUAD vale na Black Friday? Hoje ele soma com as ofertas do site. A Belive não publicou regra para novembro; conferimos na campanha e atualizamos este guia.",
-          "O MAUAD soma com o Pix? Sim. No teste de 16/10/2026, o Pix de 5% entrou depois do cupom.",
+          "O MAUAD soma com o Pix? Sim. No teste de checkout, o Pix de 5% entrou depois do cupom.",
           "O MAUAD vale no Mercado Livre? Não. Lá a Belive também vende, mas o cupom não vale.",
           "A Belive já anunciou a data da Black Friday? Não. A página Black November é um cadastro para receber ofertas e não traz datas de início nem de fim.",
-          "Tem panetone à venda? Em 16/10/2026, não havia panetone no site.",
+          "Tem panetone à venda? Não havia panetone no site.",
           "O cupom tira o frete grátis? Não. O limite de frete conta o valor sem o cupom."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este artigo é de parceria comissionada com a Belive: podemos receber comissão pelo uso do cupom MAUAD, sem custo para você. Preços, cupom e condições foram conferidos no site oficial da loja (belivebefree.com.br: página Black November, regras de frete, FAQ e páginas de produto) e em teste de checkout, em 16/10/2026."
         ]
       }
     ]
@@ -89364,7 +89353,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel.webp",
           "alt": "Aba Tabela Nutricional da página do pão de mel da Belive, com a informação nutricional por 100 g e por porção de 45 g: 163 kcal, 23 g de carboidratos e 0 g de açúcares totais e adicionados",
-          "caption": "A tabela nutricional do pão de mel da Belive, com a porção de 45 g e os açúcares totais e adicionados. Print da página do produto, 19/10/2026.",
+          "caption": "A tabela nutricional do pão de mel da Belive, com a porção de 45 g e os açúcares totais e adicionados. Print da página do produto.",
           "objectFit": "contain",
           "aspectRatio": 0.9479
         },
@@ -89437,7 +89426,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel.webp",
           "alt": "Aba Ingredientes da página do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
-          "caption": "A lista de ingredientes do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol. Print de 19/10/2026; o destaque em amarelo é nosso.",
+          "caption": "A lista de ingredientes do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol. O destaque em amarelo é nosso.",
           "objectFit": "contain",
           "aspectRatio": 2.7088
         }
@@ -89577,7 +89566,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
           "alt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten",
-          "caption": "A página inicial da Belive em 16/10/2026, com a vitrine de doces sem açúcar.",
+          "caption": "A página inicial da Belive, com a vitrine de doces sem açúcar.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -89591,12 +89580,6 @@ export const reviewsData: unknown[] = [
           "Diet quer dizer sem açúcar? Não necessariamente. Diet é o alimento feito para uma dieta com restrição de algum nutriente, que pode ser o açúcar, a gordura ou o sódio.",
           "Doce sem açúcar tem menos calorias? Nem sempre. Compare as calorias da tabela pela mesma porção. O brownie de chocolate da Belive tem 124 kcal em 40 g.",
           "Onde comprar os doces sem açúcar da Belive? No site oficial, com o cupom MAUAD de 10% OFF em todo o site. As condições estão na página do cupom da Belive."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD na Belive. Fontes: tabelas nutricionais, listas de ingredientes e preços das páginas de produto do site oficial da Belive, lidos em 17/10/2026, e o texto oficial da regra de rotulagem nutricional dos alimentos embalados. Não provamos os doces. Rótulo e preço mudam: confira na embalagem e no carrinho."
         ]
       }
     ],
@@ -89681,14 +89664,14 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-chocolate.webp",
             "alt": "Aba Tabela Nutricional da página do brownie de chocolate da Belive, com 124 kcal, 18 g de carboidratos, 1,8 g de proteínas e 5 g de fibras por porção de 40 g",
-            "caption": "Brownie de chocolate comum: 124 kcal, 1,8 g de proteína e 5 g de fibras por unidade de 40 g. Print da página da Belive, 19/10/2026.",
+            "caption": "Brownie de chocolate comum: 124 kcal, 1,8 g de proteína e 5 g de fibras por unidade de 40 g. Print da página da Belive.",
             "objectFit": "contain",
             "aspectRatio": 0.9479
           },
           {
             "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-proteico-double-chocolate.webp",
             "alt": "Aba Tabela Nutricional da página do brownie proteico Double Chocolate da Belive, com 122 kcal, 13 g de carboidratos, 6 g de proteínas e 5,2 g de fibras por porção de 40 g",
-            "caption": "Brownie proteico Double Chocolate: 122 kcal, 6 g de proteína e 5,2 g de fibras por unidade de 40 g. Print da página da Belive, 19/10/2026.",
+            "caption": "Brownie proteico Double Chocolate: 122 kcal, 6 g de proteína e 5,2 g de fibras por unidade de 40 g. Print da página da Belive.",
             "objectFit": "contain",
             "aspectRatio": 0.9479
           }
@@ -89697,7 +89680,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O rótulo dos oito sabores",
         "paragraphs": [
-          "Valores por unidade de 40 g, lidos nas tabelas nutricionais das páginas de produto em 17/10/2026."
+          "Valores por unidade de 40 g, lidos nas tabelas nutricionais das páginas de produto."
         ],
         "comparisonTable": {
           "headers": [
@@ -89787,7 +89770,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/belive/belive-kit-10-brownies-chocolate-pagina-2026-10-19.webp",
           "alt": "Página do Kit 10 Brownies de Chocolate da Belive com a caixa de brownies, o preço riscado de R$ 69,70, R$ 61,58 no Pix e R$ 64,82 em até 2x",
-          "caption": "O kit de 10 brownies de chocolate no site da Belive: R$ 61,58 no Pix ou R$ 64,82 no cartão, o preço da tabela. Print de 19/10/2026.",
+          "caption": "O kit de 10 brownies de chocolate no site da Belive: R$ 61,58 no Pix ou R$ 64,82 no cartão, o preço da tabela.",
           "objectFit": "contain",
           "aspectRatio": 1.9417
         },
@@ -89831,7 +89814,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sem lactose não é sem açúcar",
         "paragraphs": [
-          "O **Brownie Proteico Double Chocolate Sem Glúten Sem Lactose** tem nome parecido com o Proteico Double Chocolate Sem Açúcar, mas não é sem açúcar. A lista de ingredientes começa por açúcar e tem também açúcar mascavo e glucose. A unidade custava R$ 7,49, e o kit de 10, R$ 69,66, em 17/10/2026."
+          "O **Brownie Proteico Double Chocolate Sem Glúten Sem Lactose** tem nome parecido com o Proteico Double Chocolate Sem Açúcar, mas não é sem açúcar. A lista de ingredientes começa por açúcar e tem também açúcar mascavo e glucose. A unidade custava R$ 7,49, e o kit de 10, R$ 69,66."
         ],
         "comparisonTable": {
           "headers": [
@@ -89891,7 +89874,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/belive/belive-ingredientes-brownie-chocolate.webp",
           "alt": "Aba Ingredientes da página do brownie de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
-          "caption": "A lista de ingredientes do brownie de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol. Print de 19/10/2026; o destaque em amarelo é nosso.",
+          "caption": "A lista de ingredientes do brownie de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol. O destaque em amarelo é nosso.",
           "objectFit": "contain",
           "aspectRatio": 3.0151
         },
@@ -89910,16 +89893,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quais brownies da Belive são sem açúcar? Oito: Chocolate, Fit Chocolate com Coco, Chocolate com Nozes, Doce de Leite e os proteicos Double Chocolate, Chocolate com Avelã, Cappuccino e Caramelo Salgado.",
           "Quantas calorias tem o brownie sem açúcar da Belive? De 121 kcal a 144 kcal por unidade de 40 g, conforme o sabor. O de chocolate tem 124 kcal.",
-          "Quanto custa o brownie sem açúcar da Belive? Em 17/10/2026, de R$ 6,97 a R$ 7,97 a unidade. No kit de 10, de R$ 6,48 a R$ 7,41 por unidade, e de R$ 5,54 a R$ 6,34 com o MAUAD e o Pix.",
+          "Quanto custa o brownie sem açúcar da Belive? De R$ 6,97 a R$ 7,97 a unidade. No kit de 10, de R$ 6,48 a R$ 7,41 por unidade, e de R$ 5,54 a R$ 6,34 com o MAUAD e o Pix.",
           "Quanta proteína tem o brownie proteico da Belive? De 5 g a 6 g por unidade de 40 g. Os comuns têm de 1,6 g a 2 g.",
           "O brownie sem açúcar da Belive pode ser comido por quem tem diabetes? O rótulo mostra 0 g de açúcares e de 13 g a 22 g de carboidratos por unidade. A quantidade, quem tem diabetes combina com o médico ou o nutricionista.",
           "Qual adoçante o brownie da Belive usa? Maltitol e glicosídeos de esteviol, nos oito sabores sem açúcar. Os proteicos também levam sorbitol."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD na Belive. Fontes: tabelas nutricionais, listas de ingredientes e preços das páginas de produto do site oficial da Belive, lidos em 17/10/2026. Não provamos os brownies. Rótulo, preço e estoque mudam: confira na embalagem e no carrinho."
         ]
       }
     ],
@@ -89997,12 +89974,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os dois lado a lado",
         "paragraphs": [
-          "Dados das páginas oficiais e, no caso da Suavipan, da página do produto na Drogasil, lidos em 17/10/2026."
+          "Dados das páginas oficiais e, no caso da Suavipan, da página do produto na Drogasil."
         ],
         "image": {
           "src": "/images/reviews/suavipan/suavipan-kit-12-bolinhos-zero-chocolate-pagina-2026-10-19.webp",
           "alt": "Página do Kit 12 Bolinhos Zero Adição de Açúcar sabor Chocolate no site da Suavipan, com as fotos da embalagem, o preço de R$ 62,90 e o botão Comprar",
-          "caption": "A página do kit de 12 bolinhos Zero de chocolate no site da Suavipan, por R$ 62,90. Print de 19/10/2026.",
+          "caption": "A página do kit de 12 bolinhos Zero de chocolate no site da Suavipan, por R$ 62,90.",
           "objectFit": "contain",
           "aspectRatio": 2.459
         },
@@ -90070,12 +90047,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O rótulo da Belive por bolinho",
         "paragraphs": [
-          "Tabela nutricional da página do produto, porção de 40 g (1 unidade), lida em 17/10/2026."
+          "Tabela nutricional da página do produto, porção de 40 g (1 unidade)."
         ],
         "image": {
           "src": "/images/reviews/belive/belive-tabela-nutricional-bolinho-chocolate.webp",
           "alt": "Aba Tabela Nutricional da página do bolinho de chocolate da Belive, com a informação nutricional por 100 g e por porção de 40 g: 123 kcal, 16 g de carboidratos e 0 g de açúcares totais e adicionados",
-          "caption": "A tabela nutricional do bolinho de chocolate na página do produto da Belive: 123 kcal e 0 g de açúcares por unidade de 40 g. Print de 19/10/2026.",
+          "caption": "A tabela nutricional do bolinho de chocolate na página do produto da Belive: 123 kcal e 0 g de açúcares por unidade de 40 g.",
           "objectFit": "contain",
           "aspectRatio": 0.9479
         },
@@ -90135,7 +90112,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/belive/belive-ingredientes-bolinho-chocolate.webp",
           "alt": "Aba Ingredientes da página do bolinho de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol e os umectantes sorbitol e glicerol marcados em amarelo",
-          "caption": "A lista de ingredientes do bolinho de chocolate da Belive: maltitol e glicosídeos de esteviol como edulcorantes, sorbitol e glicerol como umectantes. Print de 19/10/2026; o destaque em amarelo é nosso.",
+          "caption": "A lista de ingredientes do bolinho de chocolate da Belive: maltitol e glicosídeos de esteviol como edulcorantes, sorbitol e glicerol como umectantes. O destaque em amarelo é nosso.",
           "objectFit": "contain",
           "aspectRatio": 2.4641
         },
@@ -90154,7 +90131,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/belive/belive-tabela-alergenicos-bolinhos-e-bolos.webp",
           "alt": "Recorte da tabela de alergênicos da Belive com as linhas dos bolinhos e dos bolos marcadas em ovo e soja e vazias em glúten, leite, amendoim e castanhas",
-          "caption": "Recorte da tabela de alergênicos da Belive, nas linhas dos bolinhos e bolos: contêm ovo e soja, sem glúten e sem leite. Print de 19/10/2026; o recorte é nosso.",
+          "caption": "Recorte da tabela de alergênicos da Belive, nas linhas dos bolinhos e bolos: contêm ovo e soja, sem glúten e sem leite. O recorte é nosso.",
           "objectFit": "contain",
           "aspectRatio": 1.6438
         }
@@ -90230,7 +90207,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Pelos rótulos e pelos preços de 17/10/2026:"
+          "Pelos rótulos e pelos preços da tabela:"
         ],
         "bullets": [
           "Quer um bolinho sem açúcar, sem glúten e sem leite: o da Belive. O da Suavipan é zero adição de açúcar, leva farinha de trigo e leite em pó, e o rótulo avisa que ele contém açúcares próprios dos ingredientes.",
@@ -90244,14 +90221,8 @@ export const reviewsData: unknown[] = [
           "Qual bolinho sem açúcar não tem glúten nem leite, Belive ou Suavipan? O da Belive. A loja declara o bolinho sem glúten, sem leite e sem lactose. O da Suavipan leva farinha de trigo e leite em pó desnatado.",
           "O bolinho da Suavipan é zero açúcar? A embalagem diz \"zero adição de açúcar\", e a lista de ingredientes traz a frase \"contém açúcares próprios dos ingredientes\". A marca não publica a tabela nutricional no site.",
           "Quantas calorias tem o bolinho sem açúcar da Belive? O de chocolate tem 123 kcal por unidade de 40 g, com 16 g de carboidratos e 0 g de açúcares.",
-          "Qual bolinho sai mais barato? Na farmácia, o da Suavipan: R$ 3,09 a unidade na Drogasil em 17/10/2026. A unidade da Belive estava a R$ 4,58 em oferta relâmpago, ou R$ 3,92 com o MAUAD e o Pix.",
+          "Qual bolinho sai mais barato? Na farmácia, o da Suavipan: R$ 3,09 a unidade na Drogasil. A unidade da Belive estava a R$ 4,58 em oferta relâmpago, ou R$ 3,92 com o MAUAD e o Pix.",
           "Bolinho sem açúcar pode ser comido por quem tem diabetes? O rótulo da Belive mostra 0 g de açúcares e 16 g de carboidratos por bolinho. A quantidade, quem tem diabetes combina com o médico ou o nutricionista."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada com a Belive: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD. Não temos parceria com a Suavipan. Fontes: página do bolinho de chocolate no site oficial da Belive (tabela, ingredientes e preço), página do kit de 12 bolinhos no site oficial da Suavipan e página do bolinho Suavipan na Drogasil, lidas em 17/10/2026. Não provamos os bolinhos. Preço, rótulo e estoque mudam: confira na embalagem e no carrinho."
         ]
       }
     ],
@@ -90329,20 +90300,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O rótulo lado a lado",
         "paragraphs": [
-          "Tabelas nutricionais das páginas de produto, lidas em 17/10/2026. Porção de 45 g (1 unidade), com a coluna de 100 g entre parênteses."
+          "Tabelas nutricionais das páginas de produto. Porção de 45 g (1 unidade), com a coluna de 100 g entre parênteses."
         ],
         "images": [
           {
             "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel.webp",
             "alt": "Aba Tabela Nutricional da página do pão de mel da Belive, com a informação nutricional por 100 g e por porção de 45 g: 163 kcal, 23 g de carboidratos e 0 g de açúcares totais e adicionados",
-            "caption": "Pão de mel comum: 163 kcal, 2 g de proteína e 0 g de açúcares por unidade de 45 g. Print da página da Belive, 19/10/2026.",
+            "caption": "Pão de mel comum: 163 kcal, 2 g de proteína e 0 g de açúcares por unidade de 45 g. Print da página da Belive.",
             "objectFit": "contain",
             "aspectRatio": 0.9479
           },
           {
             "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel-proteico.webp",
             "alt": "Tabela nutricional do Pão de Mel Protein Zero da Belive: por porção de 45 g, 162 kcal, 16 g de carboidratos, 0 g de açúcares totais e adicionados, 6 g de proteínas e 6,2 g de fibras",
-            "caption": "Pão de mel proteico (Protein Zero): 162 kcal, 6 g de proteína e 0 g de açúcares por unidade de 45 g. Print da página da Belive, 19/10/2026.",
+            "caption": "Pão de mel proteico (Protein Zero): 162 kcal, 6 g de proteína e 0 g de açúcares por unidade de 45 g. Print da página da Belive.",
             "objectFit": "contain",
             "aspectRatio": 1.0213
           }
@@ -90415,14 +90386,14 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel.webp",
             "alt": "Aba Ingredientes da página do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
-            "caption": "Ingredientes do pão de mel comum, com os edulcorantes maltitol e glicosídeos de esteviol. Print de 19/10/2026; o destaque em amarelo é nosso.",
+            "caption": "Ingredientes do pão de mel comum, com os edulcorantes maltitol e glicosídeos de esteviol. O destaque em amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 2.7088
           },
           {
             "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel-proteico.webp",
             "alt": "Lista de ingredientes do pão de mel proteico da Belive, com os edulcorantes maltitol e glicosídeos de esteviol e os umectantes sorbitol e glicerol marcados em amarelo",
-            "caption": "Ingredientes do pão de mel proteico: os mesmos edulcorantes, mais os umectantes sorbitol e glicerol. Print de 19/10/2026; o destaque em amarelo é nosso.",
+            "caption": "Ingredientes do pão de mel proteico: os mesmos edulcorantes, mais os umectantes sorbitol e glicerol. O destaque em amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 3.2698
           }
@@ -90455,7 +90426,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/belive/belive-kit-10-pao-de-mel-pagina-2026-10-19.webp",
           "alt": "Página do Kit 10 Pão de Mel Sem Glúten Sem Açúcar Sem Leite da Belive, com a caixa de pães de mel, o preço riscado de R$ 79,70, R$ 70,41 no Pix e R$ 74,12 em até 2x",
-          "caption": "O kit de 10 pães de mel no site da Belive: R$ 74,12 no cartão, o preço da tabela, ou R$ 70,41 com os 5% do Pix. Print de 19/10/2026.",
+          "caption": "O kit de 10 pães de mel no site da Belive: R$ 74,12 no cartão, o preço da tabela, ou R$ 70,41 com os 5% do Pix.",
           "objectFit": "contain",
           "aspectRatio": 2.0725
         },
@@ -90492,7 +90463,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que dizem as avaliações da loja",
         "paragraphs": [
-          "Na página do comum, em 17/10/2026, havia 13 avaliações de clientes, de fevereiro de 2024 a junho de 2025, todas com 5 de 5. As palavras que mais aparecem são \"delícia\", \"saboroso\" e \"molhadinho\". Na do proteico, havia 4 avaliações, de março a outubro de 2024, também todas com 5 de 5, que falam em \"macio\" e \"saboroso\".",
+          "Na página do comum, havia 13 avaliações de clientes, de 2024 e 2025, todas com 5 de 5. As palavras que mais aparecem são \"delícia\", \"saboroso\" e \"molhadinho\". Na do proteico, havia 4 avaliações, de 2024, também todas com 5 de 5, que falam em \"macio\" e \"saboroso\".",
           "São avaliações de quem comprou, mostradas pela própria loja, não a nossa opinião. O proteico tem poucas para tirar uma média que diga muita coisa.",
           "Para ver os outros doces da linha pelo rótulo, há os guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
         ]
@@ -90501,7 +90472,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher: comum ou proteico",
         "paragraphs": [
           "O proteico serve a quem quer mais proteína e menos carboidrato por unidade: 6 g de proteína e 16 g de carboidratos, contra 2 g e 23 g do comum. Nas calorias a diferença some, com 162 kcal no proteico e 163 kcal no comum. O comum serve a quem não precisa dessa proteína e paga um pouco menos pelo kit.",
-          "Em 17/10/2026, o kit de 10 custava R$ 78,96 no proteico e R$ 74,12 no comum, ou R$ 7,90 e R$ 7,41 por unidade. Nos dois, o rótulo mostra 0 g de açúcares, mas não diz se o doce cabe na sua dieta: essa conta é com o nutricionista ou o médico."
+          "O kit de 10 custava R$ 78,96 no proteico e R$ 74,12 no comum, ou R$ 7,90 e R$ 7,41 por unidade. Nos dois, o rótulo mostra 0 g de açúcares, mas não diz se o doce cabe na sua dieta: essa conta é com o nutricionista ou o médico."
         ]
       },
       {
@@ -90510,14 +90481,8 @@ export const reviewsData: unknown[] = [
           "Quantas calorias tem o pão de mel sem açúcar da Belive? O comum tem 163 kcal e o proteico, 162 kcal, por unidade de 45 g.",
           "Qual a diferença entre o pão de mel comum e o proteico da Belive? O proteico tem 6 g de proteína e 16 g de carboidratos por unidade. O comum tem 2 g de proteína e 23 g de carboidratos.",
           "O pão de mel da Belive tem açúcar? O rótulo mostra 0 g de açúcares totais e adicionados nas duas versões. Os adoçantes são maltitol e glicosídeos de esteviol.",
-          "Quanto custa o kit de pão de mel da Belive? Em 17/10/2026, R$ 74,12 o comum e R$ 78,96 o proteico, com 10 unidades. Com o MAUAD e o Pix, R$ 6,34 e R$ 6,75 por unidade.",
+          "Quanto custa o kit de pão de mel da Belive? R$ 74,12 o comum e R$ 78,96 o proteico, com 10 unidades. Com o MAUAD e o Pix, R$ 6,34 e R$ 6,75 por unidade.",
           "O pão de mel da Belive tem glúten ou leite? A lista diz que não contém glúten, e a loja declara as duas versões sem leite e sem lactose. As duas contêm derivados de soja e ovo."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD na Belive. Fontes: tabelas nutricionais, listas de ingredientes, preços e avaliações das páginas de produto do site oficial da Belive, lidos em 17/10/2026. Não provamos os pães de mel. Rótulo, preço e estoque mudam: confira na embalagem e no carrinho."
         ]
       }
     ],
@@ -121412,7 +121377,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quem opera a Bagaggio",
         "paragraphs": [
           "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo. Antes dos detalhes, um aviso: o site traz três datas que se misturam, e a loja não explica a ligação entre elas, como mostra o capítulo seguinte.",
-          "O rodapé do site e o do checkout repetem a mesma razão social e o mesmo CNPJ. Na consulta pública de 22/10/2026, esse CNPJ aparece como ativo e matriz, de sociedade empresária limitada, com início de atividade em 27/07/2007. A atividade principal cadastrada é comércio varejista de artigos de viagem. O endereço é o mesmo no site e na Receita: Rua Dezesseis, s/n, quadra 17, lotes 1 e 2, Xerém, Duque de Caxias (RJ), CEP 25250-614."
+          "O rodapé do site e o do checkout repetem a mesma razão social e o mesmo CNPJ. Na consulta pública, esse CNPJ aparece como ativo e matriz, de sociedade empresária limitada, com início de atividade em 27/07/2007. A atividade principal cadastrada é comércio varejista de artigos de viagem. O endereço é o mesmo no site e na Receita: Rua Dezesseis, s/n, quadra 17, lotes 1 e 2, Xerém, Duque de Caxias (RJ), CEP 25250-614."
         ],
         "postParagraphs": [
           "Para conferir, compare o CNPJ do rodapé com o número que aparece na nota fiscal da sua compra."
@@ -121421,7 +121386,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/bagaggio/bagaggio-e-confiavel-rodape-cnpj.webp",
             "alt": "Rodapé do checkout de bagaggio.com.br com a razão social BAG-ONLINE COMERCIO DE BOLSAS LTDA, o CNPJ 08.956.394/0001-68 e o endereço em Xerém, Duque de Caxias",
-            "caption": "Rodapé do checkout de bagaggio.com.br, capturado em 22/10/2026. O destaque nos dados da empresa é nosso.",
+            "caption": "Rodapé do checkout de bagaggio.com.br, capturado por nós. O destaque nos dados da empresa é nosso.",
             "objectFit": "contain",
             "aspectRatio": 4.3048
           }
@@ -121485,7 +121450,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp",
           "alt": "Ficha da Mala de Bordo Detroit Preta no site da Bagaggio: cadeado embutido, rodas 360°, bolsos internos, feita em ABS, suporta até 10 kg e selo de garantia vitalícia, com as medidas de 55 x 35 x 23 cm",
-          "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja, lida em 22/10/2026. O selo de garantia vitalícia vale para as malas da marca.",
+          "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja. O selo de garantia vitalícia vale para as malas da marca.",
           "objectFit": "square",
           "aspectRatio": 1
         }
@@ -121572,7 +121537,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Na leitura de 22/10/2026, o perfil Bagaggio - Loja Virtual no Reclame Aqui tinha o selo \"Empresa Verificada\", mas a nota muda bastante conforme o período, e os números estão no [artigo sobre a reputação no Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao).",
+          "Na leitura que fizemos, o perfil Bagaggio - Loja Virtual no Reclame Aqui tinha o selo \"Empresa Verificada\", mas a nota muda bastante conforme o período, e os números estão no [artigo sobre a reputação no Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao).",
           "Frases de ranking que aparecem no site também não batem com a reputação pública da loja, então este texto não as repete."
         ]
       },
@@ -121597,7 +121562,7 @@ export const reviewsData: unknown[] = [
           "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o CECILIA10. Veja a [página do cupom da Bagaggio](/cupons/bagaggio) para as condições vigentes.",
           "O CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet e em produtos já com desconto. Vale para clientes novos e antigos, em todas as formas de pagamento, e a loja aceita um cupom por pedido. Ele soma com o Pix de 5%, que entra sobre o total já com o cupom, enquanto a loja mantiver a oferta.",
           "Para aplicar, cole o código no campo \"Cupom de desconto\" do resumo do pedido. O campo \"Código de vendedor(a) ou influenciador(a)\" não é o lugar do CECILIA10.",
-          "Em 22/10/2026, testamos no carrinho, sem finalizar a compra: uma mala do Outlet, de R$ 249,90 por R$ 179,90, ficou em R$ 161,91 com o cupom. No Pix, o teste pela API pública do checkout deu R$ 153,81. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
+          "Testamos no carrinho, sem finalizar a compra: uma mala do Outlet, de R$ 249,90 por R$ 179,90, ficou em R$ 161,91 com o cupom. No Pix, o teste pela API pública do checkout deu R$ 153,81. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
           "O cupom não vale no Mercado Livre, onde vale o preço do anúncio. O link da marca no Mercado Livre está nas perguntas frequentes, no fim do texto."
         ]
       },
@@ -121608,7 +121573,7 @@ export const reviewsData: unknown[] = [
           "De qual país é a Bagaggio? A própria marca diz que é brasileira e que foi fundada em 1942 no Rio de Janeiro. A empresa que opera o site está registrada no Brasil, com sede em Duque de Caxias (RJ).",
           "Qual é o CNPJ da Bagaggio? O CNPJ do rodapé do site é 08.956.394/0001-68, da BAG-ONLINE COMERCIO DE BOLSAS LTDA. Confira o número na consulta pública da Receita.",
           "O site bagaggio.com.br é seguro e oficial? O endereço oficial é bagaggio.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a Receita.",
-          "A garantia vitalícia da Bagaggio vale para todas as malas? Não. Ela vale só para as malas da marca Bagaggio compradas a partir de 29/04/2024. Mochilas, bolsas e outras marcas ficam de fora.",
+          "A garantia vitalícia da Bagaggio vale para todas as malas? Não. Ela vale só para as malas da marca Bagaggio compradas depois do início do programa. Mochilas, bolsas e outras marcas ficam de fora.",
           "Posso trocar ou devolver um produto da Bagaggio? Sim, dentro das regras da loja. Na compra pelo site, a lei dá 7 dias corridos depois do recebimento para desistir, e a devolução é feita pelo Troque Fácil.",
           "Quando o reembolso cai? No cartão, o estorno pode aparecer em até duas faturas. No boleto, o crédito sai em até 10 dias úteis depois do recebimento do produto.",
           "A Bagaggio tem frete grátis? O site não publica uma política de frete grátis. O valor do frete aparece pelo CEP no carrinho.",
@@ -121692,7 +121657,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual perfil olhar",
         "paragraphs": [
           "Há mais de um perfil com o nome Bagaggio no Reclame Aqui. O que mostra quem compra no site é o Bagaggio - Loja Virtual. Ele tem o CNPJ 08.956.394/0001-68, o mesmo do rodapé do site, e está no Reclame Aqui há 18 anos.",
-          "O perfil tem o selo Empresa Verificada. O selo indica que a empresa passou pela verificação mensal do Reclame Aqui, que confere se ela existe e é a dona do perfil; ele não mede a reputação. No ranking Melhor empresa, na categoria Bolsas, Malas e Mochilas, o perfil estava em 19º lugar na leitura de 22/10/2026.",
+          "O perfil tem o selo Empresa Verificada. O selo indica que a empresa passou pela verificação mensal do Reclame Aqui, que confere se ela existe e é a dona do perfil; ele não mede a reputação. No ranking Melhor empresa, na categoria Bolsas, Malas e Mochilas, o perfil estava em 19º lugar na nossa leitura.",
           "O selo RA1000 dos últimos 6 meses, com nota 8,6, é do perfil Bagaggio - Loja Física, e não deste. Antes de ler os números, confira o nome e o CNPJ no topo do perfil. Para a confiança geral na loja, veja [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
         ]
       },
@@ -121708,7 +121673,7 @@ export const reviewsData: unknown[] = [
             "12 meses (01/10/2025 a 30/09/2026)",
             "2025",
             "2024",
-            "Geral (22/10/2023 a 21/10/2026)"
+            "Geral (últimos 3 anos)"
           ],
           "rows": [
             [
@@ -121778,12 +121743,12 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nos últimos 6 meses, a reputação é Boa. Nos últimos 12 meses, ela ainda está Ruim, porque essa aba inclui os seis meses de outubro de 2025 a março de 2026."
+          "Nos últimos 6 meses, a reputação é Boa. Nos últimos 12 meses, ela ainda está Ruim, porque essa aba inclui os seis meses anteriores, de outubro a março."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-reclame-aqui-6-e-12-meses.webp",
           "alt": "Quadro com os números do perfil Bagaggio - Loja Virtual no Reclame Aqui em 22/10/2026: nos últimos 6 meses, reputação Boa, nota 7,7, 1.137 reclamações e 90,4% resolvidas; nos últimos 12 meses, reputação Ruim, nota 5,8, 5.757 reclamações e 72,8% resolvidas",
-          "caption": "Quadro nosso com as abas de 6 e de 12 meses do perfil Bagaggio - Loja Virtual, lidas no Reclame Aqui em 22/10/2026.",
+          "caption": "Quadro nosso com as abas de 6 e de 12 meses do perfil Bagaggio - Loja Virtual, lidas no Reclame Aqui.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -121791,13 +121756,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a reputação mudou",
         "paragraphs": [
-          "O histórico dos últimos 6 meses mostra a reputação mês a mês: Ruim em abril, maio e junho de 2026; Regular em julho; Boa em agosto e setembro.",
+          "O histórico dos últimos 6 meses mostra a reputação mês a mês: Ruim em abril, maio e junho; Regular em julho; Boa em agosto e setembro.",
           "O Reclame Aqui não mostra quantas reclamações entraram em cada mês. Mostra só a faixa de reputação. Por isso, o histórico confirma a melhora recente, mas não diz o que a causou."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-reclame-aqui-historico-6-meses.webp",
-          "alt": "Quadro com a reputação mês a mês do Bagaggio - Loja Virtual no Reclame Aqui: Ruim em abril, maio e junho de 2026; Regular em julho; Boa em agosto e setembro de 2026",
-          "caption": "Quadro nosso com o histórico de reputação do perfil Bagaggio - Loja Virtual, lido no Reclame Aqui em 22/10/2026. O RA não mostra o número de reclamações por mês.",
+          "alt": "Quadro com a reputação mês a mês do Bagaggio - Loja Virtual no Reclame Aqui: Ruim em abril, maio e junho; Regular em julho; Boa em agosto e setembro de 2026",
+          "caption": "Quadro nosso com o histórico de reputação do perfil Bagaggio - Loja Virtual, lido no Reclame Aqui. O RA não mostra o número de reclamações por mês.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -121805,7 +121770,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a conta de reclamações mostra",
         "paragraphs": [
-          "Entre 01/10/2025 e 30/09/2026, a aba de 12 meses soma 5.757 reclamações. A aba de 6 meses, de 01/04/2026 a 30/09/2026, soma 1.137. A diferença, 4.620, corresponde ao período de 01/10/2025 a 31/03/2026: cerca de 770 por mês. De abril a setembro de 2026, a média caiu para cerca de 190 por mês. A conta é nossa, feita com as duas abas do Reclame Aqui.",
+          "A aba de 12 meses soma 5.757 reclamações. A aba de 6 meses soma 1.137. A diferença, 4.620, corresponde aos seis meses de outubro a março: cerca de 770 por mês. De abril a setembro, a média caiu para cerca de 190 por mês. A conta é nossa, feita com as duas abas do Reclame Aqui.",
           "O Reclame Aqui não explica por que esse período teve mais reclamações. Uma hipótese é a Black Friday de 2025 e o Natal, que caem nele. Não temos a contagem mês a mês para confirmar isso. Se a campanha pesa nessa conta, o [calendário da Black Friday da Bagaggio](/reviews/black-friday-bagaggio) está lá."
         ]
       },
@@ -121865,7 +121830,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o cupom CECILIA10. Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
           "O cupom dá 10% OFF em todo o site, inclusive no Outlet e em produtos que já estão em promoção. Ele vale com todas as formas de pagamento e soma com o desconto de 5% do Pix. Vale um cupom por pedido.",
-          "No nosso teste de 22/10/2026, montamos a sacola no site, sem finalizar a compra. Uma Mala de Bordo PP Downtown Preta, do Outlet, saiu de R$ 249,90 para R$ 179,90. Com o cupom, o total foi para R$ 161,91. No Pix, o total ficou em R$ 153,81 no mesmo teste.",
+          "No nosso teste, montamos a sacola no site, sem finalizar a compra. Uma Mala de Bordo PP Downtown Preta, do Outlet, saiu de R$ 249,90 para R$ 179,90. Com o cupom, o total foi para R$ 161,91. No Pix, o total ficou em R$ 153,81 no mesmo teste.",
           "Na sacola, cole o código no campo Cupom de desconto, e não no campo de código de vendedor ou influenciador. Confira o desconto no resumo antes de escolher a forma de pagamento.",
           "Os detalhes estão na [página da Bagaggio](/cupons/bagaggio), e o passo a passo, no artigo [Cupom Bagaggio: como usar o CECILIA10 e o que ele soma](/reviews/cupom-bagaggio-como-usar)."
         ]
@@ -121873,7 +121838,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Bagaggio?",
         "paragraphs": [
-          "Dá para comprar, com atenção. Em 22/10/2026, a Loja Virtual tinha reputação Boa nos últimos 6 meses, mas a janela de 12 meses ainda está Ruim, então a melhora é recente."
+          "Dá para comprar, com atenção. Na nossa leitura, a Loja Virtual tinha reputação Boa nos últimos 6 meses, mas a janela de 12 meses ainda está Ruim, então a melhora é recente."
         ],
         "bullets": [
           "Nota: 7,7 nos 6 meses (Boa) e 5,8 nos 12 meses (Ruim).",
@@ -121887,10 +121852,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Bagaggio é confiável segundo o Reclame Aqui? Em 22/10/2026, o perfil Loja Virtual mostrava reputação Boa nos últimos 6 meses, com nota 7,7, e Ruim nos últimos 12 meses, com nota 5,8. Esses números vêm das reclamações registradas no Reclame Aqui e não medem a qualidade das malas.",
+          "A Bagaggio é confiável segundo o Reclame Aqui? O perfil Loja Virtual mostrava reputação Boa nos últimos 6 meses, com nota 7,7, e Ruim nos últimos 12 meses, com nota 5,8. Esses números vêm das reclamações registradas no Reclame Aqui e não medem a qualidade das malas.",
           "Qual perfil da Bagaggio é o da loja? O Bagaggio - Loja Virtual, com o CNPJ 08.956.394/0001-68, que é o mesmo do rodapé do site bagaggio.com.br.",
           "O que fazer se o pedido da Bagaggio atrasar? Guarde o número do pedido e o CPF, registre a data em que o prazo venceu e fale pelo chat do site, de segunda a sexta, das 9h às 18h.",
-          "A garantia vitalícia vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas a partir de 29/04/2024. Mochilas, bolsas e outras marcas vendidas pela loja ficam de fora.",
+          "A garantia vitalícia vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas depois do início do programa. Mochilas, bolsas e outras marcas vendidas pela loja ficam de fora.",
           "A Bagaggio responde às reclamações? Nos últimos 6 meses, o perfil Loja Virtual respondeu a 100% das reclamações, em 9 dias e 10 horas, em média. Nos últimos 12 meses, respondeu a 91,3%."
         ]
       }
@@ -121923,7 +121888,8 @@ export const reviewsData: unknown[] = [
         "slug": "bagaggio-garantia-vitalicia",
         "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
       }
-    ]
+    ],
+    "bodyDatesReason": "reclame-aqui"
   },
   {
     "id": 590,
@@ -122200,7 +122166,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Bagaggio ainda não anunciou Black Friday com percentual nem data de início. O calendário marca 27 de novembro, e o cupom CECILIA10 segue valendo em todo o site, inclusive no Outlet. Use a tabela de preços de 22/10 como régua; o capítulo \"Vale esperar novembro?\" mostra o que muda a decisão."
+          "A Bagaggio ainda não anunciou Black Friday com percentual nem data de início. O calendário marca 27 de novembro, e o cupom CECILIA10 segue valendo em todo o site, inclusive no Outlet. Use a tabela de preços abaixo como régua; o capítulo \"Vale esperar novembro?\" mostra o que muda a decisão."
         ]
       },
       {
@@ -122214,18 +122180,18 @@ export const reviewsData: unknown[] = [
         "heading": "Calendário de novembro",
         "paragraphs": [
           "A Black Friday de 2026 cai na sexta, 27/11/2026. A Cyber Monday, na segunda, 30/11/2026, é outra data do calendário do varejo. A Bagaggio não anunciou nenhuma das duas.",
-          "Dá para se preparar sem esperar o anúncio: ter um preço de referência em 22/10, reler a página no fim de outubro e, na semana da campanha, conferir o total com o cupom e o Pix antes de pagar."
+          "Dá para se preparar sem esperar o anúncio: ter um preço de referência, reler a página no fim de outubro e, na semana da campanha, conferir o total com o cupom e o Pix antes de pagar."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bf-linha-do-tempo.webp",
           "alt": "Linha do tempo da Black Friday Bagaggio 2026: preços lidos em 22/10, releitura no fim de outubro, Black Friday em 27/11 e Cyber Monday em 30/11",
-          "caption": "As datas da Black Friday Bagaggio 2026: preços lidos em 22/10, releitura no fim de outubro, Black Friday em 27/11 e Cyber Monday em 30/11, a confirmar.",
+          "caption": "As datas da Black Friday Bagaggio 2026: preços lidos, releitura no fim de outubro, Black Friday e Cyber Monday, a confirmar.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
       },
       {
-        "heading": "Preços de 22/10/2026 para comparar",
+        "heading": "Preços para comparar",
         "paragraphs": [
           "Estes são os preços de venda do site da Bagaggio lidos em 22/10/2026, sem cupom. Quando o produto mostra preço cheio, a tabela traz os dois valores."
         ],
@@ -122279,14 +122245,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na leitura de 22/10, a mala Route de 32 kg saiu por menos que a de 23 kg. É assim que o catálogo mostra, e a tabela traz os dois valores como foram lidos. Confira os dois antes de comparar.",
+          "Na leitura, a mala Route de 32 kg saiu por menos que a de 23 kg. É assim que o catálogo mostra, e a tabela traz os dois valores como foram lidos. Confira os dois antes de comparar.",
           "A Detroit de 32 kg apareceu em três cores (vermelha, prata e rosé), todas pelo mesmo preço. As malas do Outlet ficam fora desta tabela, porque o Outlet tem regra própria.",
           "O preço do site muda sem aviso. Confira o produto no dia da compra."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bf-malas-da-tabela.webp",
           "alt": "Três itens da tabela de preços da Bagaggio: o conjunto de malas Downtown e Detroit pretas, a mala de bordo Route preta e a mala Detroit de 32 kg vermelha",
-          "caption": "Três itens da tabela de 22/10/2026: o conjunto Downtown + Detroit, a Route de 10 kg e a Detroit de 32 kg. Fotos oficiais da loja.",
+          "caption": "Três itens da tabela: o conjunto Downtown + Detroit, a Route de 10 kg e a Detroit de 32 kg. Fotos oficiais da loja.",
           "objectFit": "contain",
           "aspectRatio": 2.1053
         }
@@ -122294,7 +122260,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom na sacola: a conta com o Pix",
         "paragraphs": [
-          "Montamos a sacola no site, sem finalizar a compra, em 22/10/2026. Com a Mala de Bordo PP Downtown Preta, que estava por R$ 179,90, o CECILIA10, que dá 10% OFF em todo o site, tirou mais R$ 17,99 e o total ficou em R$ 161,91. No Pix, a loja deu mais 5% sobre esse total, e o valor caiu para R$ 153,81.",
+          "Montamos a sacola no site, sem finalizar a compra. Com a Mala de Bordo PP Downtown Preta, que estava por R$ 179,90, o CECILIA10, que dá 10% OFF em todo o site, tirou mais R$ 17,99 e o total ficou em R$ 161,91. No Pix, a loja deu mais 5% sobre esse total, e o valor caiu para R$ 153,81.",
           "O cupom entra no campo \"Cupom de desconto\" do resumo do pedido. O outro campo, \"Código de vendedor(a) ou influenciador(a)\", não é para ele. O passo a passo está em [Cupom Bagaggio: como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
         ],
         "bullets": [
@@ -122310,7 +122276,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-downtown-preta.webp",
           "alt": "Mala de Bordo PP Downtown Preta, de frente, com a alça puxada",
-          "caption": "Mala de Bordo PP Downtown Preta, a do teste de 22/10/2026. Foto oficial da loja.",
+          "caption": "Mala de Bordo PP Downtown Preta, a do teste. Foto oficial da loja.",
           "objectFit": "portrait",
           "aspectRatio": 0.5057
         }
@@ -122324,7 +122290,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/bagaggio/bf-mochila-floral-camelia.webp",
           "alt": "Foto oficial da Mochila Feminina Floral Camélia Rosa da Bagaggio, no site da loja",
-          "caption": "Mochila Feminina Floral Camélia Rosa, foto oficial do site lida em 22/10/2026: de R$ 79,90 por R$ 69,90, sem cupom.",
+          "caption": "Mochila Feminina Floral Camélia Rosa, foto oficial do site: de R$ 79,90 por R$ 69,90, sem cupom.",
           "objectFit": "portrait",
           "aspectRatio": 0.7219
         }
@@ -122347,8 +122313,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "Na leitura de 22/10/2026, o perfil \"Bagaggio - Loja Virtual\" no Reclame Aqui tinha nota Boa nos últimos 6 meses (7,7, com 1.137 reclamações, de 01/04 a 30/09/2026) e nota Ruim nos últimos 12 meses (5,8, com 5.757 reclamações, de 01/10/2025 a 30/09/2026).",
-          "Pela conta entre os dois períodos, são cerca de 4.620 reclamações entre outubro de 2025 e março de 2026, período que inclui a Black Friday e o Natal de 2025. Os motivos mais citados na base do perfil são atraso na entrega (29,95%) e produto não recebido (18,87%).",
+          "Na mesma leitura, o perfil \"Bagaggio - Loja Virtual\" no Reclame Aqui tinha nota Boa nos últimos 6 meses (7,7, com 1.137 reclamações) e nota Ruim nos últimos 12 meses (5,8, com 5.757 reclamações).",
+          "Pela conta entre os dois períodos, são cerca de 4.620 reclamações entre outubro e março, período que inclui a Black Friday e o Natal de 2025. Os motivos mais citados na base do perfil são atraso na entrega (29,95%) e produto não recebido (18,87%).",
           "Ao procurar a loja no Reclame Aqui, confira se o perfil tem o CNPJ 08.956.394/0001-68, que é o do site."
         ],
         "postParagraphs": [
@@ -122358,7 +122324,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale esperar novembro?",
         "paragraphs": [
-          "Não há base pública para prometer que novembro será mais barato. A loja não anunciou percentual nem data, e a tabela de 22/10 é o que dá para comparar hoje.",
+          "Não há base pública para prometer que novembro será mais barato. A loja não anunciou percentual nem data, e a tabela acima é o que dá para comparar hoje.",
           "Se você precisa agora, o cupom e o Pix já funcionam. Se pode esperar, compare o preço que a loja mostrar em novembro com a tabela deste guia antes de pagar. As condições atuais do cupom estão na [página da Bagaggio](/cupons/bagaggio)."
         ],
         "image": {
@@ -122372,9 +122338,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Bagaggio tem Black Friday? A página /black-friday existe, mas traz texto da campanha anterior, sem data. Até 22/10/2026, a loja não anunciou percentual para 2026.",
+          "A Bagaggio tem Black Friday? A página /black-friday existe, mas traz texto da campanha anterior, sem data. Na leitura do site, a loja não anunciou percentual para 2026.",
           "O cupom CECILIA10 vale na Black Friday? Hoje ele vale em todo o site, com o Pix. Se soma com as ofertas de novembro, ainda não sabemos: vamos testar quando a campanha abrir.",
-          "Garantia vitalícia vale para mochila? Não. Ela vale só para malas da marca compradas a partir de 29/04/2024.",
+          "Garantia vitalícia vale para mochila? Não. Ela vale só para malas da marca compradas depois do início do programa.",
           "Dá para retirar na loja? Sim, quando há loja perto. A retirada é em até 3 horas e precisa do titular da compra, com documento original com foto.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2KeydkG)."
         ]
@@ -122416,7 +122382,8 @@ export const reviewsData: unknown[] = [
         "slug": "bagaggio-garantia-vitalicia",
         "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 592,
@@ -122470,19 +122437,19 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Ser da marca Bagaggio, e não de outra marca vendida pela loja.",
-          "Ter sido comprada a partir de 29/04/2024, com nota fiscal em nome do consumidor.",
+          "Ter sido comprada depois do início do programa, com nota fiscal em nome do consumidor.",
           "Estar no Brasil. A garantia não vale fora do território nacional.",
           "Ser do comprador original. A garantia não passa para outra pessoa."
         ],
         "postParagraphs": [
           "A garantia vem na mala, sem custo adicional. A página diz que vale para todas as malas da marca \"independentemente do período informado na TAG\". Ou seja, a etiqueta de prazo não limita essas malas.",
-          "A página não diz o que vale para malas compradas antes de 29/04/2024. Este texto dá só a data. Se a sua mala é anterior, vale perguntar à loja antes de contar com a garantia vitalícia."
+          "A página não diz o que vale para malas compradas antes dessa data. Se a sua mala é anterior, vale perguntar à loja antes de contar com a garantia vitalícia."
         ],
         "images": [
           {
             "src": "/images/reviews/bagaggio/garantia-print-pagina-oficial.webp",
             "alt": "Print da página oficial Garantia Vitalícia Bagaggio, com o título, a frase sobre vícios de fabricação e a regra de que a garantia vale só para malas da marca, a partir de 29/04/2024",
-            "caption": "Página oficial da garantia, lida em 22/10/2026.",
+            "caption": "Página oficial da garantia, lida no site.",
             "objectFit": "contain",
             "aspectRatio": 1.7131
           }
@@ -122546,7 +122513,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/bagaggio/garantia-quadro-cobre-nao-cobre.webp",
             "alt": "Quadro com duas colunas: à esquerda, o que a garantia cobre, como falha de fabricação e defeito de montagem; à direita, o que não cobre, como queda, desgaste das rodas, zíper danificado por uso, manchas e dano no voo",
-            "caption": "Quadro feito por nós, com base na página de garantia lida em 22/10/2026.",
+            "caption": "Quadro feito por nós, com base na página de garantia lida no site.",
             "objectFit": "contain",
             "aspectRatio": 1.3333
           }
@@ -122602,7 +122569,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp",
           "alt": "Ficha da Mala de Bordo Detroit Preta no site da Bagaggio: cadeado embutido, rodas 360°, bolsos internos, feita em ABS, suporta até 10 kg e selo de garantia vitalícia, com as medidas de 55 x 35 x 23 cm",
-          "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja, lida em 22/10/2026. O selo de garantia vitalícia vale para as malas da marca.",
+          "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja. O selo de garantia vitalícia vale para as malas da marca.",
           "objectFit": "square",
           "aspectRatio": 1
         }
@@ -122671,7 +122638,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o cupom CECILIA10. Veja a [página do cupom da Bagaggio](/cupons/bagaggio) para as condições vigentes.",
           "O cupom dá 10% OFF em todo o site, inclusive no Outlet e em produto já com desconto. O Pix de 5% entra depois, sobre o total que já tem o cupom. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido.",
-          "Ele vai no campo \"Cupom de desconto\" do resumo, e não no campo de vendedor ou influenciador. Confira as parcelas no checkout. Em 22/10/2026, montamos a sacola no site, sem finalizar, e o desconto apareceu no resumo.",
+          "Ele vai no campo \"Cupom de desconto\" do resumo, e não no campo de vendedor ou influenciador. Confira as parcelas no checkout. Montamos a sacola no site, sem finalizar, e o desconto apareceu no resumo.",
           "O passo a passo do cupom e os números do teste estão em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
@@ -122679,7 +122646,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A mochila Bagaggio tem garantia vitalícia? Não, pelo texto da loja. A garantia vitalícia vale só para malas da marca Bagaggio. Mochila e bolsa seguem a garantia da etiqueta ou, sem prazo, 90 dias.",
-          "A garantia vitalícia Bagaggio vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas a partir de 29/04/2024. Travelcross e Swiss One seguem a garantia do fabricante.",
+          "A garantia vitalícia Bagaggio vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas depois do início do programa. Travelcross e Swiss One seguem a garantia do fabricante.",
           "A garantia cobre dano causado pela companhia aérea? Não. A página diz que o dano no voo é responsabilidade da companhia, e orienta a registrar a reclamação no balcão, com o RIB ou PIR.",
           "Como acionar a garantia da Bagaggio? Na compra online, pelo Troque Fácil, com o número do pedido e o CPF. Na compra em loja física, na loja da compra ou pelo e-mail atendimento@bagaggio.com.br.",
           "A garantia vale se eu estiver fora do Brasil? Não. Ela é restrita ao território brasileiro, e o acionamento só começa depois do retorno ao país.",
@@ -133587,7 +133554,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAUAD",
     "affiliate": "belive",
-    "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD.",
+    "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os cookies.",
     "relatedArticles": [
       {
         "slug": "brownie-sem-acucar-belive",
@@ -133606,7 +133573,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os quatro cookies sem açúcar da Belive custam R$ 8,97 o pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g; veja abaixo."
+          "Os quatro cookies sem açúcar da Belive são vendidos por pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g; veja abaixo."
         ]
       },
       {
@@ -133679,7 +133646,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto sai cada um",
         "paragraphs": [
           "Preços lidos na ficha da loja em 28/10/2026, no cartão. Cada pacote custa R$ 8,97, nos quatro sabores. O kit de 10 de cada sabor custa R$ 83,42 no cartão: a ficha mostra R$ 89,70 riscado, e no Pix o kit fica em R$ 79,25. A página do kit não informa quantos pacotes vêm, então este texto não calcula preço por unidade.",
-          "O cupom MAUAD tira mais 10% do pacote e do kit. O site anuncia Black November com \"até 30%\". Os preços deste texto são de 28/10/2026 e podem mudar; confira o total no carrinho."
+          "O cupom MAUAD tira mais 10% do pacote e do kit. O site anuncia Black November com \"até 30%\". Os preços podem mudar; confira o total no carrinho."
         ]
       },
       {
@@ -133740,7 +133707,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/belive/cookies-sem-acucar-belive-tabelas-2810.webp",
           "alt": "Tabelas nutricionais oficiais dos quatro cookies sem açúcar da Belive, por 30 g",
-          "caption": "As tabelas publicadas pela Belive nas fichas dos quatro cookies, lidas em 27/10/2026.",
+          "caption": "As tabelas publicadas pela Belive nas fichas dos quatro cookies.",
           "objectFit": "contain",
           "aspectRatio": 1
         }
@@ -133821,12 +133788,6 @@ export const reviewsData: unknown[] = [
           "Qual tem menos calorias por 30 g? O de chocolate, com 108 kcal.",
           "Tem castanha? Sim, os quatro trazem outras castanhas, segundo a tabela de alérgenos do site."
         ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços e os rótulos foram lidos na loja oficial da Belive em 28/10/2026, e podem mudar. Podemos receber comissão quando você compra com o cupom MAUAD. Ninguém da equipe provou os cookies: este texto fala de preço, rótulo e ingredientes, não de sabor."
-        ]
       }
     ]
   },
@@ -133866,7 +133827,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAUAD",
     "affiliate": "belive",
-    "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD.",
+    "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os snacks.",
     "relatedArticles": [
       {
         "slug": "cupom-belive-como-usar",
@@ -133885,7 +133846,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O snack proteico da Belive custa R$ 2,78 a mais por pacote que o de arroz, mas traz 10 g de proteína contra 3 g. Por grama de proteína, a conta fica perto de R$ 0,80 contra R$ 1,73 a R$ 1,79. Se proteína não é o que você busca, o de arroz tem, em média, menos sódio."
+          "O snack proteico da Belive custa mais por pacote que o de arroz, mas traz 10 g de proteína contra 3 g, e por grama de proteína sai bem mais barato. Se proteína não é o que você busca, o de arroz tem, em média, menos sódio."
         ]
       },
       {
@@ -134031,7 +133992,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A proteína do snack proteico é proteína isolada de soja. Não é whey. Além dela, a base tem farinha de milho, óleo vegetal de palma e soja, extrato de levedura e aromatizante. No sabor Barbecue, o aromatizante vem descrito como aroma natural. No Cebola e Salsa, a lista acrescenta sal light, cebola tostada em pó e salsa.",
           "Os snacks de arroz partem de um mix de farinha de arroz, lentilha e quinoa (no queijo), com óleo vegetal de palma e soja e extrato de levedura. O queijo leva sal light, aromatizante e corante natural de urucum. A pizza segue a mesma base do queijo; o churrasco é igual, sem o sal light. O Cebola e Salsa soma cebola tostada e salsa à base.",
-          "Os oito contêm derivados de soja, segundo a tabela de alergênicos da loja, de julho de 2026. A loja informa que todos são sem glúten.",
+          "Os oito contêm derivados de soja, segundo a tabela de alergênicos da loja. A loja informa que todos são sem glúten.",
           "Sobre leite e lactose, a loja declara que os snacks proteicos são sem leite e sem lactose, e a lista de ingredientes não traz leite. No arroz, a loja diz sem leite e sem lactose também. É a declaração da loja, não um teste nosso.",
           "Na tabela de alergênicos, só a soja aparece marcada. As demais colunas, como ovo, amendoim e castanhas, ficaram em branco, e nenhum snack traz a marcação de \"pode conter\"."
         ]
@@ -134062,13 +134023,6 @@ export const reviewsData: unknown[] = [
           "O snack de arroz da Belive tem açúcar? Os quatro sabores declaram 0 g de açúcares totais na tabela da loja.",
           "O snack proteico é sem leite? A loja declara que é sem leite e sem lactose, e a lista de ingredientes não traz leite. Não é um teste nosso.",
           "O combo compensa? Economiza entre 6% e 8% sobre o pacote avulso, e a conta por grama de proteína quase não muda."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços são de 28/10/2026, lidos nas fichas da loja da Belive, no cartão e no Pix. O total com o cupom aparece no checkout. A loja anuncia Black November com até 30%, e os preços mudam; confira antes de comprar.",
-          "Podemos receber comissão quando você compra pelo cupom MAUAD. Isso não muda o preço para você. Ninguém da equipe provou os snacks: o texto fala de preço, rótulo e ingredientes, não de sabor. Proteína, sódio e energia são os números publicados pela loja; a tabela do arroz vem de imagens de 2020 e pode estar desatualizada."
         ]
       }
     ]
@@ -134109,7 +134063,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAUAD",
     "affiliate": "belive",
-    "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD.",
+    "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os bolinhos.",
     "relatedArticles": [
       {
         "slug": "bolinho-sem-acucar-belive-ou-suavipan",
@@ -134128,7 +134082,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O bolinho kids da Belive é o de 45 g, sabor brigadeiro com cobertura, a R$ 6,97 por unidade no cartão. O rótulo declara 157 kcal e 0,5 g de açúcares totais por unidade, sem açúcar adicionado; a lista de ingredientes traz maltitol, sorbitol e esteviol. O Kit Lanche Escolar de 25 não tem bolinho kids, veja abaixo."
+          "O bolinho kids da Belive é o de 45 g, sabor brigadeiro com cobertura. O rótulo declara 157 kcal e 0,5 g de açúcares totais por unidade, sem açúcar adicionado; a lista de ingredientes traz maltitol, sorbitol e esteviol. O Kit Lanche Escolar de 25 não tem bolinho kids, veja abaixo."
         ]
       },
       {
@@ -134292,7 +134246,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/belive/bolinho-kids-belive-fotos-2810.webp",
           "alt": "Fotos oficiais da Belive do bolinho kids de brigadeiro e do bolinho kids de morango, de 45 g",
-          "caption": "Bolinho kids de brigadeiro e de morango, os dois a R$ 6,97 em 28/10/2026. Fotos oficiais da Belive.",
+          "caption": "Bolinho kids de brigadeiro e de morango, os dois a R$ 6,97. Fotos oficiais da Belive.",
           "objectFit": "contain",
           "aspectRatio": 1.9781
         }
@@ -134326,14 +134280,6 @@ export const reviewsData: unknown[] = [
           "O Kit Lanche Escolar de 25 tem bolinho kids? Não. Os 25 são bolinhos adultos de 40 g, nos sabores chocolate, laranja, baunilha, coco e banana.",
           "O adoçante é só stévia? Não. A lista de ingredientes traz maltitol e glicosídeos de esteviol como edulcorantes, e sorbitol como umectante.",
           "O bolinho kids tem leite? Pela lista de ingredientes e pela tabela de alergênicos da loja, não. A linha marca ovo e soja."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços de cartão e do Pix foram lidos nas fichas do site da Belive em 28/10/2026. Os rótulos e a lista de ingredientes foram lidos em 27/10/2026. Os preços mudam, e a loja anuncia uma Black November: confira antes de comprar.",
-          "Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os bolinhos, e este texto trata de preço, rótulo e ingredientes, não de sabor.",
-          "A tabela do sabor morango não entra: a imagem publicada pela loja traz outro nome de sabor."
         ]
       }
     ]
@@ -159034,11 +158980,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na mesma mala de bordo de 10 kg, a de policarbonato custou de 3,6 a 6 vezes a de ABS na Bagaggio em 29/10/2026, sem ganhar litros e pesando mais. As fichas não comparam a resistência dos materiais, então a decisão fica no preço, no peso e nos litros. A conta por litro e por kg está na tabela."
+          "Na mesma mala de bordo de 10 kg, a de policarbonato custou de 3,6 a 6 vezes a de ABS na Bagaggio, sem ganhar litros e pesando mais. As fichas não comparam a resistência dos materiais, então a decisão fica no preço, no peso e nos litros. A conta por litro e por kg está na tabela."
         ]
       },
       {
-        "heading": "ABS, polipropileno e policarbonato: os preços de 29/10",
+        "heading": "ABS, polipropileno e policarbonato: os preços",
         "paragraphs": [
           "A Bagaggio vende a mala de bordo de 10 kg em três materiais: ABS, polipropileno e policarbonato. Cada ficha traz o material, a medida, os litros e o peso, mas nenhuma compara um material com o outro. A tabela junta as fichas lidas em 29/10/2026, do preço mais baixo ao mais alto."
         ],
@@ -159046,7 +158992,7 @@ export const reviewsData: unknown[] = [
           "headers": [
             "Produto",
             "Material",
-            "Preço no cartão (29/10)",
+            "Preço no cartão",
             "Medida (ficha)",
             "Litros",
             "Peso",
@@ -159127,13 +159073,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Com o CECILIA10, a Bahamas Branca saiu por R$ 809,91 e, no Pix, por R$ 769,41. A Detroit Preta saiu por R$ 224,91 com o cupom e R$ 213,66 no Pix. A Kyoto II Preta, que estava sem desconto da loja, saiu por R$ 1.349,91 com o cupom e R$ 1.282,41 no Pix. Esses valores vieram da API pública do carrinho da loja em 29/10/2026, com uma mala por vez, sem identificação e sem finalizar a compra.",
+          "Com o CECILIA10, a Bahamas Branca saiu por R$ 809,91 e, no Pix, por R$ 769,41. A Detroit Preta saiu por R$ 224,91 com o cupom e R$ 213,66 no Pix. A Kyoto II Preta, que estava sem desconto da loja, saiu por R$ 1.349,91 com o cupom e R$ 1.282,41 no Pix. Esses valores vieram da API pública do carrinho da loja, com uma mala por vez, sem identificação e sem finalizar a compra.",
           "Os preços são de um dia. A loja muda a promoção sem aviso, então confira o valor na ficha antes de comprar."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-tres-materiais.webp",
           "alt": "Três malas de bordo da Bagaggio lado a lado: a Detroit Preta de ABS, a Route Preta de polipropileno e a Bahamas Branca de policarbonato",
-          "caption": "Da esquerda para a direita: Detroit Preta (ABS), Route Preta (polipropileno) e Bahamas Branca (policarbonato), todas de 10 kg. Fotos oficiais da loja, lidas em 29/10/2026.",
+          "caption": "Da esquerda para a direita: Detroit Preta (ABS), Route Preta (polipropileno) e Bahamas Branca (policarbonato), todas de 10 kg. Fotos oficiais da loja.",
           "objectFit": "contain",
           "aspectRatio": 1.6275
         }
@@ -159165,7 +159111,7 @@ export const reviewsData: unknown[] = [
         "heading": "A cor muda o preço da mesma mala",
         "paragraphs": [
           "Na Bagaggio, a mesma mala custa preços diferentes conforme a cor. A ficha não explica a diferença: medida, litros e peso são iguais.",
-          "A Malta de 10 kg tem 55 x 35 x 20 cm, 38,5 L e 2,57 kg nas três cores. Em 29/10/2026, a [Malta Rosa Escuro](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-rosa-escuro-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custava R$ 349,90, a [Malta Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 499,90 e a [Malta Branca e Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-branca-e-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 549,90. Por litro, R$ 9,09, R$ 12,98 e R$ 14,28. A Rosa Escuro estava com uma unidade em estoque na leitura.",
+          "A Malta de 10 kg tem 55 x 35 x 20 cm, 38,5 L e 2,57 kg nas três cores. Na leitura, a [Malta Rosa Escuro](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-rosa-escuro-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custava R$ 349,90, a [Malta Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 499,90 e a [Malta Branca e Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-branca-e-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 549,90. Por litro, R$ 9,09, R$ 12,98 e R$ 14,28. A Rosa Escuro estava com uma unidade em estoque na leitura.",
           "A Nova Bahamas, de policarbonato, segue a mesma lógica: a [Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custava R$ 999,90, a [Bege](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-bege/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 1.199,90 e a [Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 1.299,90, todas com 43,4 L e 3,28 kg.",
           "Se a cor não importa, compare as cores da mesma linha antes de comparar materiais: a Malta Rosa Escuro custava R$ 150,00 a menos que a Malta Preta."
         ]
@@ -159202,11 +159148,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Mala de policarbonato é melhor que ABS? As fichas da Bagaggio não comparam a resistência dos materiais. Na mesma medida de 10 kg, a de policarbonato custou mais e pesou mais, com litros parecidos.",
-          "Qual a diferença de preço entre ABS, polipropileno e policarbonato na Bagaggio? Entre as malas de bordo de 10 kg deste texto, em 29/10/2026, a de ABS custava R$ 249,90, as de polipropileno de R$ 299,90 a R$ 549,90 e as de policarbonato de R$ 899,90 a R$ 1.499,90.",
+          "Qual a diferença de preço entre ABS, polipropileno e policarbonato na Bagaggio? Entre as malas de bordo de 10 kg deste texto, a de ABS custava R$ 249,90, as de polipropileno de R$ 299,90 a R$ 549,90 e as de policarbonato de R$ 899,90 a R$ 1.499,90.",
           "Mala de policarbonato pesa mais que a de ABS? Na Bagaggio, sim. Segundo as fichas, as de policarbonato de 10 kg pesam de 3,28 kg a 3,52 kg, e a Detroit de ABS pesa 2,61 kg.",
-          "Por que a mesma mala Malta custa preços diferentes por cor? A ficha não explica. Em 29/10/2026, a Malta de 10 kg custava R$ 349,90 na Rosa Escuro, R$ 499,90 na Preta e R$ 549,90 na Branca e Marrom, com a mesma medida e o mesmo peso.",
+          "Por que a mesma mala Malta custa preços diferentes por cor? A ficha não explica. A Malta de 10 kg custava R$ 349,90 na Rosa Escuro, R$ 499,90 na Preta e R$ 549,90 na Branca e Marrom, com a mesma medida e o mesmo peso.",
           "Vale pagar mais pela mala de policarbonato? Só se o material importa para você. Pelos números das fichas, ela não traz mais litros nem menos peso que a de ABS.",
-          "Tem cupom para a mala de policarbonato Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site, inclusive em produto com desconto. Em 29/10/2026, a Bahamas Branca saiu por R$ 809,91 com o cupom. Condições na [página do cupom Bagaggio](/cupons/bagaggio)."
+          "Tem cupom para a mala de policarbonato Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site, inclusive em produto com desconto. A Bahamas Branca saiu por R$ 809,91 com o cupom. Condições na [página do cupom Bagaggio](/cupons/bagaggio)."
         ]
       }
     ],
@@ -159276,7 +159222,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que este guia lê",
         "paragraphs": [
-          "Ninguém do site usou estas malas, mochilas ou bolsas. O texto lê as fichas do site oficial da Bagaggio em 29/10/2026 e diz o que cada uma traz. Se a mala aguenta a viagem ou se a mochila fica confortável no dia a dia, a página não diz, e este guia também não.",
+          "Ninguém do site usou estas malas, mochilas ou bolsas. O texto lê as fichas do site oficial da Bagaggio e diz o que cada uma traz. Se a mala aguenta a viagem ou se a mochila fica confortável no dia a dia, a página não diz, e este guia também não.",
           "A empresa, o CNPJ e o site oficial estão em [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel). A reputação está no [artigo sobre o Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao)."
         ],
         "comparisonTable": {
@@ -159353,7 +159299,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Malas: o que a marca informa",
         "paragraphs": [
-          "Na busca do site em 29/10/2026, as malas da marca Bagaggio em estoque iam de R$ 249,90, na [Mala de Bordo Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 1.999,90, na [Kyoto Trunk Bronze](https://www.bagaggio.com.br/mala-de-viagem-grande-ultra-ampla-policarbonato-4-rodas-kyoto-trunk-bronze/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de policarbonato. Fica fora dessa faixa uma mala elétrica com patinete, a BG Motion, de R$ 3.499,90.",
+          "Na busca do site, as malas da marca Bagaggio em estoque iam de R$ 249,90, na [Mala de Bordo Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 1.999,90, na [Kyoto Trunk Bronze](https://www.bagaggio.com.br/mala-de-viagem-grande-ultra-ampla-policarbonato-4-rodas-kyoto-trunk-bronze/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de policarbonato. Fica fora dessa faixa uma mala elétrica com patinete, a BG Motion, de R$ 3.499,90.",
           "Cada página de mala traz material, medida, capacidade em litros, peso e o tipo de cadeado. A Detroit é de ABS, a Route é de polipropileno e a Kyoto II é de policarbonato. As três têm 55 cm de altura com as rodas, conforme a marca."
         ],
         "bullets": [
@@ -159378,7 +159324,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-mochila-horizonte.webp",
           "alt": "Mochila para notebook Slim Horizonte preta, da marca Bagaggio, de frente, com bolso frontal com zíper",
-          "caption": "Mochila Slim Horizonte, da marca Bagaggio: poliéster, 0,46 kg e garantia de 3 meses, conforme a página lida em 29/10/2026. Foto oficial da loja.",
+          "caption": "Mochila Slim Horizonte, da marca Bagaggio: poliéster, 0,46 kg e garantia de 3 meses, conforme a página lida. Foto oficial da loja.",
           "objectFit": "contain",
           "aspectRatio": 0.6289
         }
@@ -159386,20 +159332,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Bolsas de viagem: o essencial",
         "paragraphs": [
-          "As bolsas da marca em estoque iam de R$ 19,90 a R$ 399,90 na busca de 29/10/2026, somando bolsas de viagem, de ombro e transversais. Entre as de viagem, a [Bolsa de Viagem Média Vegas Preta](https://www.bagaggio.com.br/bolsa-de-viagem-masculina-media-vegas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custa R$ 99,90. Ela é de poliéster, tem 42 L, pesa 0,54 kg e, segundo a Bagaggio, tem garantia de 90 dias.",
+          "As bolsas da marca em estoque iam de R$ 19,90 a R$ 399,90 na busca, somando bolsas de viagem, de ombro e transversais. Entre as de viagem, a [Bolsa de Viagem Média Vegas Preta](https://www.bagaggio.com.br/bolsa-de-viagem-masculina-media-vegas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custa R$ 99,90. Ela é de poliéster, tem 42 L, pesa 0,54 kg e, segundo a Bagaggio, tem garantia de 90 dias.",
           "A [Bolsa de Viagem Crinkle 19J Roxa](https://www.bagaggio.com.br/bolsa-de-viagem-pequena-bagaggio-crinkle-19j-roxa/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) aparecia por R$ 49,90, fora de estoque. Ela é de poliéster, tem estrutura semirrígida e três bolsos externos com zíper, e a Bagaggio anuncia garantia de 6 meses. Nas bolsas da marca, a garantia mais comum entre elas é de 90 dias ou 3 meses."
         ]
       },
       {
         "heading": "Cadeado e rodas",
         "paragraphs": [
-          "A loja vende o [Cadeado para Mala com Chave Preto](https://www.bagaggio.com.br/cadeado-para-mala-bagaggio-com-chave-preto-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) à parte, por R$ 59,90, em estoque em 29/10/2026. A descrição diz que ele abre com chave, sem senha, e que serve em malas, mochilas e bolsas de viagem.",
+          "A loja vende o [Cadeado para Mala com Chave Preto](https://www.bagaggio.com.br/cadeado-para-mala-bagaggio-com-chave-preto-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) à parte, por R$ 59,90, em estoque. A descrição diz que ele abre com chave, sem senha, e que serve em malas, mochilas e bolsas de viagem.",
           "Nem toda mala precisa dele. A Detroit e a Route trazem cadeado com senha embutido, e a Kyoto II traz cadeado TSA, segundo as páginas de produto. As malas de bordo lidas têm 4 rodas 360°; nas mochilas de notebook, a página traz \"Sem Rodas\"."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-cadeado.webp",
           "alt": "Dois cadeados pretos com chave e o logo BG da Bagaggio, em foto oficial da loja",
-          "caption": "Cadeado para mala com chave, vendido à parte pela Bagaggio por R$ 59,90 em 29/10/2026. Foto oficial da loja.",
+          "caption": "Cadeado para mala com chave, vendido à parte pela Bagaggio por R$ 59,90. Foto oficial da loja.",
           "objectFit": "contain",
           "aspectRatio": 1.6265
         }
@@ -159423,7 +159369,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o CECILIA10. As condições vigentes estão na [página do cupom da Bagaggio](/cupons/bagaggio).",
           "Pela regra da loja, o CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet e em produtos já com desconto, e a loja aceita um cupom por pedido. Ele soma com o Pix de 5%, que entra sobre o total já com o cupom, enquanto a loja mantiver a oferta.",
-          "O cupom foi testado na sacola em 22/10/2026, numa mala do Outlet. Em produto sem promoção e em conjunto de malas ele não foi testado; a regra diz que vale para todos os produtos. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+          "O cupom foi testado na sacola, numa mala do Outlet. Em produto sem promoção e em conjunto de malas ele não foi testado; a regra diz que vale para todos os produtos. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
       {
@@ -159433,7 +159379,7 @@ export const reviewsData: unknown[] = [
           "A Bagaggio é boa para mochilas? As páginas trazem material, medida e, em parte das linhas, peso e garantia. A garantia das mochilas tem prazo, na maioria de 90 dias ou 3 meses.",
           "A mochila Bagaggio tem garantia vitalícia? Não. A garantia vitalícia vale para as malas da marca, e a mochila segue o prazo da página ou da etiqueta.",
           "A Downtown é Bagaggio ou Travelcross? O cadastro da loja põe a Mala de Bordo PP Downtown na marca Travelcross, embora o campo Marca da página diga Bagaggio. A página dela não traz garantia vitalícia.",
-          "A Bagaggio vende Samsonite? Em 29/10/2026, a busca do site não trazia nenhum produto Samsonite. A marca aparece cadastrada no site, mas sem produto à venda.",
+          "A Bagaggio vende Samsonite? A busca do site não trazia nenhum produto Samsonite. A marca aparece cadastrada no site, mas sem produto à venda.",
           "A Bagaggio tem cadeado para mala? Tem. O cadeado com chave é vendido à parte por R$ 59,90, e algumas malas, como a Detroit e a Route, já trazem cadeado com senha embutido.",
           "Tem cupom na Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site pela regra da loja. Ele soma com o Pix de 5%."
         ]
@@ -159499,18 +159445,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na maioria, não: dos 32 conjuntos da Bagaggio que conferimos em 29/10/2026, 24 custam exatamente a soma das peças avulsas. O desconto real aparece em seis conjuntos com estoque, e o maior é o do Malta P e M Branca e Marrom, R$ 174,95 abaixo da soma. A tabela mostra a conta de cada um."
+          "Na maioria, não: dos 32 conjuntos da Bagaggio que conferimos, 24 custam exatamente a soma das peças avulsas. O desconto real aparece em seis conjuntos com estoque, e o maior é o do Malta P e M Branca e Marrom. A tabela mostra a conta de cada um."
         ]
       },
       {
-        "heading": "A conta de 12 conjuntos em 29/10",
+        "heading": "A conta de 12 conjuntos",
         "paragraphs": [
           "A loja tem mais de 150 conjuntos na busca. Conferimos 32, os que usam peças da mesma linha vendidas também avulsas, e 24 deles custam a soma exata das peças. A tabela traz as linhas com diferença e um exemplo de cada tipo que não tem diferença. Os preços são do cartão, lidos nas fichas da loja em 29/10/2026."
         ],
         "comparisonTable": {
           "headers": [
             "Conjunto",
-            "Preço do conjunto (cartão, 29/10)",
+            "Preço do conjunto (cartão)",
             "Soma das peças avulsas",
             "Diferença",
             "Em estoque"
@@ -159605,7 +159551,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Na Santiago P e G, a versão Preta tem a mesma conta da Azul: R$ 824,85 contra R$ 849,80.",
           "O CECILIA10 dá 10% em todo o site, inclusive em produto com desconto, e o Pix tira mais 5%. Ainda não testamos o cupom num conjunto, então confira a linha de descontos no resumo do pedido antes de pagar.",
-          "O conjunto Downtown PP e Detroit G Preta também está no [guia de Black Friday da Bagaggio](/reviews/black-friday-bagaggio), com o preço de 22/10. Em 29/10, o preço era o mesmo."
+          "O conjunto Downtown PP e Detroit G Preta também está no [guia de Black Friday da Bagaggio](/reviews/black-friday-bagaggio), com o mesmo preço."
         ]
       },
       {
@@ -159619,7 +159565,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-malta-branca-marrom.webp",
             "alt": "Conjunto de malas Malta P e M Branca e Marrom da Bagaggio, uma mala média e uma mala de bordo brancas com detalhes marrons",
-            "caption": "Conjunto Malta P e M Branca e Marrom, o de maior desconto com estoque em 29/10/2026. Foto oficial da loja.",
+            "caption": "Conjunto Malta P e M Branca e Marrom, o de maior desconto com estoque. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.9533
           },
@@ -159641,7 +159587,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando o conjunto compensa",
         "paragraphs": [
-          "Compensa quando a diferença é negativa e o conjunto tem estoque. Em 29/10, eram seis: Malta P e M Branca e Marrom, Nova Bahamas P e G Preta, Malta P e M Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta.",
+          "Compensa quando a diferença é negativa e o conjunto tem estoque. Na leitura, eram seis: Malta P e M Branca e Marrom, Nova Bahamas P e G Preta, Malta P e M Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta. O maior desconto é o do Malta P e M Branca e Marrom, R$ 174,95 abaixo da soma.",
           "Quando a diferença é zero, o conjunto não dá vantagem de preço. O que ele dá é uma compra só, com as malas da mesma cor. Duas perguntas resolvem:"
         ],
         "bullets": [
@@ -159667,17 +159613,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido. No nosso teste de 22/10/2026, numa mala avulsa, o Pix tirou 5% sobre o total que já tinha o cupom.",
+          "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido. No nosso teste, numa mala avulsa, o Pix tirou 5% sobre o total que já tinha o cupom.",
           "Pela regra, o cupom vale em todo o site, mas ainda não fizemos o teste num conjunto. As condições atualizadas ficam na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo está em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Conjunto de malas Bagaggio compensa? Na maioria, não. Dos 32 conjuntos conferidos em 29/10/2026, 24 custam a soma exata das peças avulsas.",
-          "O conjunto de malas Bagaggio tem desconto em relação às peças separadas? Só em alguns. Em 29/10/2026, seis conjuntos com estoque custavam menos que a soma das peças: Malta P e M Branca e Marrom, Malta P e M Preta, Nova Bahamas P e G Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta.",
-          "Qual conjunto Bagaggio tem o maior desconto em 2026? Entre os conjuntos com estoque em 29/10/2026, o Malta P e M Branca e Marrom, R$ 174,95 abaixo da soma das peças. O Nova Bahamas P e G Bege tinha diferença maior, mas estava fora de estoque.",
-          "Conjunto de 3 malas de bordo Bagaggio vale a pena? Pelo preço, não muda nada. O conjunto de três malas de bordo Detroit custava R$ 749,70 em 29/10/2026, o mesmo que três malas avulsas de R$ 249,90.",
+          "Conjunto de malas Bagaggio compensa? Na maioria, não. Dos 32 conjuntos conferidos, 24 custam a soma exata das peças avulsas.",
+          "O conjunto de malas Bagaggio tem desconto em relação às peças separadas? Só em alguns. Seis conjuntos com estoque custavam menos que a soma das peças: Malta P e M Branca e Marrom, Malta P e M Preta, Nova Bahamas P e G Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta.",
+          "Qual conjunto Bagaggio tem o maior desconto em 2026? Entre os conjuntos com estoque, o Malta P e M Branca e Marrom, R$ 174,95 abaixo da soma das peças. O Nova Bahamas P e G Bege tinha diferença maior, mas estava fora de estoque.",
+          "Conjunto de 3 malas de bordo Bagaggio vale a pena? Pelo preço, não muda nada. O conjunto de três malas de bordo Detroit custava R$ 749,70, o mesmo que três malas avulsas de R$ 249,90.",
           "O cupom CECILIA10 vale para conjunto de malas? Pela regra, o CECILIA10 vale em todo o site, inclusive em produto com desconto. Ainda não testamos o cupom num conjunto, então confira o desconto no resumo do pedido.",
           "Por que o conjunto tem preço de lista maior que a soma das peças? Porque a lista do conjunto é a soma das listas das peças, não dos preços de venda. A comparação que vale é com o preço de venda das peças avulsas."
         ]
@@ -168644,18 +168590,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Detroit ABS Preta, de 10 kg, é a mala de bordo de marca Bagaggio mais barata da lista: R$ 249,90 no cartão, com 55 × 35 × 23 cm. A Downtown PP, de 8 kg, custa menos, mas é da Travelcross, e a garantia vitalícia não vale para ela. Confira o selo BORDO e a medida na página do produto antes de comprar."
+          "A Detroit ABS Preta, de 10 kg, é a mala de bordo de marca Bagaggio mais barata da lista, com 55 × 35 × 23 cm. A Downtown PP, de 8 kg, custa menos, mas é da Travelcross, e a garantia vitalícia não vale para ela. Confira o selo BORDO e a medida na página do produto antes de comprar."
         ]
       },
       {
-        "heading": "Tabela das malas de bordo, em 30/10/2026",
+        "heading": "Tabela das malas de bordo",
         "paragraphs": [
-          "Preço é o do cartão, lido nas fichas da loja em 30/10/2026. Medida e peso vêm da loja. Os litros também vêm da loja, lidos em 29/10/2026. O preço por litro é conta nossa: preço do cartão dividido pelos litros."
+          "Preço é o do cartão, lido nas fichas da loja em 30/10/2026. Medida e peso vêm da loja. Os litros também vêm da loja. O preço por litro é conta nossa: preço do cartão dividido pelos litros."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Preço (cartão, 30/10)",
+            "Preço (cartão)",
             "Lista",
             "Medida",
             "Peso",
@@ -168672,7 +168618,7 @@ export const reviewsData: unknown[] = [
               "2,61 kg",
               "44,2",
               "5,65",
-              "Sim (30/10)"
+              "Sim"
             ],
             [
               "[Mala de Bordo 10 kg ABS 4 Rodas Detroit II Prata](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-prata-1/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -168682,7 +168628,7 @@ export const reviewsData: unknown[] = [
               "2,61 kg",
               "44,2",
               "5,65",
-              "Sim (30/10)"
+              "Sim"
             ],
             [
               "[Mala de Bordo 10 kg Polipropileno 4 Rodas Route Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -168692,7 +168638,7 @@ export const reviewsData: unknown[] = [
               "2,43 kg",
               "45,3",
               "6,62",
-              "Sim (30/10)"
+              "Sim"
             ],
             [
               "[Mala de Bordo 10 kg Polipropileno 4 Rodas Route Vinho](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-vinho/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -168702,7 +168648,7 @@ export const reviewsData: unknown[] = [
               "2,43 kg",
               "45,3",
               "6,62",
-              "Sim (30/10)"
+              "Sim"
             ],
             [
               "[Mala Pequena 10 kg Polipropileno 4 Rodas Cartagena Preta](https://www.bagaggio.com.br/mala-pequena-10kg-polipropileno-4-rodas-cartagena-preta-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -168712,7 +168658,7 @@ export const reviewsData: unknown[] = [
               "2,98 kg",
               "51,3",
               "6,82",
-              "Sim (30/10)"
+              "Sim"
             ],
             [
               "[Mala Pequena 10 kg Polipropileno 4 Rodas Cartagena Amarela](https://www.bagaggio.com.br/mala-de-bordo10kg-polipropileno-4-rodas-cartagena-amarela/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -168722,7 +168668,7 @@ export const reviewsData: unknown[] = [
               "2,77 kg",
               "51,3",
               "6,82",
-              "Sim (30/10)"
+              "Sim"
             ],
             [
               "[Mala de Bordo PP 8 kg ABS 4 Rodas Downtown Preta (linha Travelcross)](https://www.bagaggio.com.br/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -168732,7 +168678,7 @@ export const reviewsData: unknown[] = [
               "2,06 kg",
               "34,8",
               "5,17",
-              "Sim (30/10)"
+              "Sim"
             ]
           ]
         },
@@ -168744,27 +168690,27 @@ export const reviewsData: unknown[] = [
         "heading": "Selo BORDO: o que a loja informa",
         "paragraphs": [
           "O selo BORDO, com ícone de avião, é uma informação da loja. Não é certificado de embarque, e não garante que a mala passa no balcão da companhia. Quem decide é a companhia, no dia do voo.",
-          "Em 30/10, todas as malas desta tabela trazem o selo na página do produto, inclusive a Cartagena, que passa da medida de 55 × 35 cm citada pelas companhias. Por isso o selo não substitui a medida: compare a medida da loja com a regra da sua companhia."
+          "Na leitura, todas as malas desta tabela trazem o selo na página do produto, inclusive a Cartagena, que passa da medida de 55 × 35 cm citada pelas companhias. Por isso o selo não substitui a medida: compare a medida da loja com a regra da sua companhia."
         ],
         "images": [
           {
             "src": "/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-detroit-preta.webp",
             "alt": "Mala de bordo Detroit ABS preta da Bagaggio, de 10 kg, de frente, em foto oficial da loja",
-            "caption": "Detroit ABS Preta, de 10 kg. Foto oficial da loja, lida em 30/10/2026.",
+            "caption": "Detroit ABS Preta, de 10 kg. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.5078
           },
           {
             "src": "/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-detroit-ii-prata.webp",
             "alt": "Mala de bordo Detroit II ABS prata da Bagaggio, de 10 kg, de frente, em foto oficial da loja",
-            "caption": "Detroit II Prata, de 10 kg. Foto oficial da loja, lida em 30/10/2026.",
+            "caption": "Detroit II Prata, de 10 kg. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.5056
           },
           {
             "src": "/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-route-preta.webp",
             "alt": "Mala de bordo Route preta de polipropileno da Bagaggio, de 10 kg, de frente, em foto oficial da loja",
-            "caption": "Route Preta, de 10 kg, em polipropileno. Foto oficial da loja, lida em 29/10/2026.",
+            "caption": "Route Preta, de 10 kg, em polipropileno. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.5144
           }
@@ -168784,10 +168730,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que pode levar na mala de bordo",
         "paragraphs": [
-          "As regras abaixo são das páginas oficiais da ANAC e de três companhias, lidas em 30/10/2026. Elas mudam, e cada companhia confere a própria medida. Confirme no site da sua antes de viajar."
+          "As regras abaixo são das páginas oficiais da ANAC e de três companhias. Elas mudam, e cada companhia confere a própria medida. Confirme no site da sua antes de viajar."
         ],
         "bullets": [
-          "ANAC, [Bagagem, em gov.br/anac](https://www.gov.br/anac/pt-br/assuntos/passageiros/bagagem), atualizada em 01/10/2026: o passageiro tem direito a levar até 10 kg de bagagem de mão sem custo extra. A companhia pode fixar limites de altura, largura e comprimento, e cobrar excesso acima de 10 kg ou dessas medidas. A companhia também pode restringir peso e conteúdo por segurança, e às vezes é preciso despachar. Objetos cortantes, inflamáveis e explosivos, em regra, não vão na bagagem de mão. Em voo internacional, líquido acima de 100 ml não é admitido.",
+          "ANAC, [Bagagem, em gov.br/anac](https://www.gov.br/anac/pt-br/assuntos/passageiros/bagagem): o passageiro tem direito a levar até 10 kg de bagagem de mão sem custo extra. A companhia pode fixar limites de altura, largura e comprimento, e cobrar excesso acima de 10 kg ou dessas medidas. A companhia também pode restringir peso e conteúdo por segurança, e às vezes é preciso despachar. Objetos cortantes, inflamáveis e explosivos, em regra, não vão na bagagem de mão. Em voo internacional, líquido acima de 100 ml não é admitido.",
           "LATAM, [página de bagagem de mão](https://www.latamairlines.com/br/pt/experiencia/prepare-sua-viagem/bagagem/bagagem-de-mao): mala pequena de 55 × 35 × 25 cm, incluindo bolsos, rodas e alça, até 12 kg na Economy. A tarifa Basic não inclui a mala pequena, que pode ser adicionada até 6 horas antes do voo. Bolsa ou mochila debaixo do assento: 45 × 35 × 20 cm, até 10 kg.",
           "GOL, [página de bagagem](https://www.voegol.com.br/informacoes/bagagem), aba Bagagem de mão: mala pequena de 55 × 35 × 25 cm, incluindo as rodas, até 12 kg para emissões a partir de 14/10/2025, exceto na tarifa Basic. Pode ser despachada no portão de embarque. Bolsa ou mochila debaixo do assento: 32 × 43 × 22 cm, até 10 kg.",
           "Azul, [página de bagagens](https://www.voeazul.com.br/br/pt/sua-viagem/planeje/bagagens): bagagem de mão de 55 × 35 × 25 cm, até 10 kg. Item menor: 45 × 35 × 20 cm."
@@ -168800,22 +168746,22 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, segundo a regra da [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
-          "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. A Detroit ABS Preta mostra R$ 237,40 no Pix, sem cupom. Os preços de 22/10 estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
+          "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. A Detroit ABS Preta mostra R$ 237,40 no Pix, sem cupom. Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
         ]
       },
       {
         "heading": "E a garantia?",
         "paragraphs": [
-          "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024. A Downtown, vendida como Travelcross, fica fora. Detalhes no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+          "A garantia vitalícia vale para as malas da marca Bagaggio compradas depois do início do programa. A Downtown, vendida como Travelcross, fica fora. Detalhes no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é a mala de bordo mais barata da Bagaggio? Entre as de marca Bagaggio, a Detroit ABS de 10 kg, por R$ 249,90 no cartão em 30/10/2026. A Downtown PP custa menos, mas é da Travelcross.",
+          "Qual é a mala de bordo mais barata da Bagaggio? Entre as de marca Bagaggio, a Detroit ABS de 10 kg, por R$ 249,90 no cartão. A Downtown PP custa menos, mas é da Travelcross.",
           "A mala de bordo Downtown é Bagaggio ou Travelcross? A loja a coloca na linha Travelcross. A garantia vitalícia da Bagaggio não vale para ela.",
           "O que significa o selo BORDO da Bagaggio? É uma informação da loja, com ícone de avião. Não garante o embarque, que depende da companhia.",
-          "A mala de bordo Bagaggio passa em qualquer companhia aérea? Não há garantia. A Detroit Preta e a Route Preta ficam dentro da medida de 55 × 35 × 25 cm que LATAM, GOL e Azul citam em 30/10/2026, mas cada companhia decide. Confira antes de viajar.",
+          "A mala de bordo Bagaggio passa em qualquer companhia aérea? Não há garantia. A Detroit Preta e a Route Preta ficam dentro da medida de 55 × 35 × 25 cm que LATAM, GOL e Azul citam, mas cada companhia decide. Confira antes de viajar.",
           "Polipropileno ou ABS: qual mala de bordo compensa? Depende do que pesa mais para você. O ABS da Detroit pesa 2,61 kg e tem 44,2 litros; o polipropileno da Route Preta pesa 2,43 kg e tem 45,3 litros.",
           "Tem cupom para a mala de bordo Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Não conferimos o valor final no carrinho nesta rodada."
         ]
@@ -168885,14 +168831,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Medidas e litros, em 30/10/2026",
+        "heading": "Medidas e litros",
         "paragraphs": [
-          "A tabela traz uma mala de cada linha em cada faixa. Preço e medida são da loja, lidos em 30/10/2026, e os litros, em 29/10/2026."
+          "A tabela traz uma mala de cada linha em cada faixa. Preço e medida são da loja, lidos em 30/10/2026. Os litros também vêm da loja."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Preço (cartão, 30/10)",
+            "Preço (cartão)",
             "Lista",
             "Medida",
             "Litros",
@@ -169006,28 +168952,28 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-ii-media.webp",
             "alt": "Mala média Detroit II preta da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
-            "caption": "Detroit II Preta, de 23 kg: 66 × 41,5 × 26 cm. Foto oficial da loja, lida em 30/10/2026.",
+            "caption": "Detroit II Preta, de 23 kg: 66 × 41,5 × 26 cm. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.5889
           },
           {
             "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-26.webp",
             "alt": "Mala média Detroit de 26 polegadas preta da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
-            "caption": "Detroit de 26 polegadas, de 23 kg: 70,5 × 44,5 × 29 cm. Foto oficial da loja, lida em 30/10/2026.",
+            "caption": "Detroit de 26 polegadas, de 23 kg: 70,5 × 44,5 × 29 cm. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.59
           },
           {
             "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-media.webp",
             "alt": "Mala média Route preta de polipropileno da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
-            "caption": "Route Preta, de 23 kg: 66 × 43 × 27 cm. Foto oficial da loja, lida em 30/10/2026.",
+            "caption": "Route Preta, de 23 kg: 66 × 43 × 27 cm. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.6033
           },
           {
             "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-grande.webp",
             "alt": "Mala grande Route preta de polipropileno da Bagaggio, de 32 kg, de frente, em foto oficial da loja",
-            "caption": "Route Preta, de 32 kg: 76 × 49 × 30 cm. Foto oficial da loja, lida em 30/10/2026.",
+            "caption": "Route Preta, de 32 kg: 76 × 49 × 30 cm. Foto oficial da loja.",
             "objectFit": "contain",
             "aspectRatio": 0.6033
           }
@@ -169044,7 +168990,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual mala de 10 kg cabe na bagagem de mão",
         "paragraphs": [
-          "LATAM, GOL e Azul citam 55 × 35 × 25 cm para a mala de mão, em 30/10/2026. A ANAC deixa o limite de medida para cada companhia. O detalhe das regras, com as fontes, está no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa).",
+          "LATAM, GOL e Azul citam 55 × 35 × 25 cm para a mala de mão. A ANAC deixa o limite de medida para cada companhia. O detalhe das regras, com as fontes, está no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa).",
           "A Detroit Preta (55 × 35 × 23 cm) e a Route Preta de 10 kg (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena P, com 57,5 × 38 × 23,5 cm, passa dela. As de 23 kg e 32 kg passam da medida em todas as linhas da tabela, então não entram como mala de mão pela regra das companhias.",
           "Cada companhia confere a medida e o peso no balcão, e as regras mudam. Confirme na sua antes de viajar."
         ]
@@ -169064,7 +169010,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, segundo a regra da [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
-          "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. Os preços de 22/10 estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
+          "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
         ]
       },
       {
@@ -169079,7 +169025,7 @@ export const reviewsData: unknown[] = [
           "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? A faixa de peso define o tamanho: a de 10 kg é a de bordo, e as de 23 kg e 32 kg são as malas maiores, com mais litros.",
           "P, M e G são o mesmo que 10, 23 e 32 kg? Nos conjuntos, sim, pela medida: P é a de 10 kg, M a de 23 kg e G a de 32 kg. Essa ligação é nossa, não da loja.",
           "Qual tamanho de mala comprar para viagem de uma semana? Para uma semana, a de 23 kg dá mais espaço, com 71 a 91 litros. Se for só levar na mão, a de 10 kg, com 44 a 51 litros, é a opção.",
-          "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pela medida, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam em 30/10/2026. Cada companhia decide, então confira antes de viajar.",
+          "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pela medida, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam. Cada companhia decide, então confira antes de viajar.",
           "Tem cupom para a mala Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Não conferimos o valor final no carrinho nesta rodada."
         ]
       }
@@ -169144,7 +169090,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para gastar pouco, a Horizonte Slim sai por R$ 79,90 no cartão, e a descrição oficial diz que ela serve para notebook de até 15,6 polegadas. Se você quer couro, a faixa começa em R$ 399,90. O que muda a escolha é o tamanho do seu notebook, e a tabela abaixo mostra a medida de cada modelo."
+          "Para gastar pouco, a Horizonte Slim é a mais barata, e a descrição oficial diz que ela serve para notebook de até 15,6 polegadas. Se você quer couro, a faixa de preço é bem mais alta. O que muda a escolha é o tamanho do seu notebook, e a tabela abaixo mostra a medida de cada modelo."
         ]
       },
       {
@@ -169156,7 +169102,7 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Modelo",
-            "Preço (cartão, 30/10)",
+            "Preço (cartão)",
             "Medida",
             "Material",
             "Etiqueta de tamanho"
@@ -169307,13 +169253,13 @@ export const reviewsData: unknown[] = [
         "heading": "Garantia de mochila",
         "paragraphs": [
           "A garantia que vale é a que a loja indica para cada modelo, e ela muda de um para outro. São três anos na BG Net Branco e na Kronos Preta; 90 dias na Texas, na Donna e na Joá Café; e 3 meses nos outros sete da tabela.",
-          "A garantia vitalícia que o guia da garantia descreve é para as malas da marca Bagaggio. Pelo que lemos na página em 22/10, nenhuma mochila entra nela. Veja o [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+          "A garantia vitalícia que o guia da garantia descreve é para as malas da marca Bagaggio. Pelo que lemos na página, nenhuma mochila entra nela. Veja o [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
         ]
       },
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto. Vale um cupom por pedido. A promoção de 50% na 2ª peça é outro cupom e não soma com o CECILIA10. No Pix, a loja tira mais 5% sobre o total com cupom: foi o que aconteceu no nosso teste de 22/10/2026, numa mala avulsa.",
+          "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto. Vale um cupom por pedido. A promoção de 50% na 2ª peça é outro cupom e não soma com o CECILIA10. No Pix, a loja tira mais 5% sobre o total com cupom: foi o que aconteceu no nosso teste, numa mala avulsa.",
           "Não testamos o cupom no carrinho de uma mochila nesta rodada, então confira o desconto no resumo do pedido antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
@@ -169332,7 +169278,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é a mochila para notebook mais barata da Bagaggio? Pelo cartão de 30/10/2026, a Horizonte Slim, a BG Net Branco e a BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a que a marca anuncia para notebook de até 15,6 polegadas.",
+          "Qual é a mochila para notebook mais barata da Bagaggio? Pelo cartão, a Horizonte Slim, a BG Net Branco e a BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a que a marca anuncia para notebook de até 15,6 polegadas.",
           "Mochila para notebook da Bagaggio tem garantia vitalícia? Não. A vitalícia do guia da garantia é para as malas da marca Bagaggio. A mochila segue a garantia que a loja indica, de 3 meses, 90 dias ou 3 anos, conforme o modelo.",
           "Couro ou poliéster: qual mochila compensa? Depende do preço e do uso. O couro começa em R$ 399,90, e o poliéster, em R$ 79,90. Não usamos nenhuma delas, então não dizemos qual dura mais.",
           "Qual mochila cabe notebook de 15,6 polegadas? A Horizonte Slim, pela descrição oficial. Nas outras páginas que lemos, a medida do notebook não aparece.",
@@ -169400,7 +169346,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Bagaggio, até R$ 100 há carteira, nécessaire, bolsa e a mochila Horizonte para notebook; de R$ 100 a R$ 250, nécessaires, uma carteira de couro e mochilas executivas. Acima de R$ 250 ficam bolsas, mochilas executivas e o kit Joá, que custa a soma das peças. Preços do cartão em 30/10/2026, e o CECILIA10 dá 10%."
+          "Na Bagaggio, a faixa mais barata tem carteira, nécessaire, bolsa e a mochila Horizonte para notebook; a do meio, nécessaires, uma carteira de couro e mochilas executivas. A mais cara tem bolsas, mochilas executivas e o kit Joá, que custa a soma das peças. O CECILIA10 dá 10%."
         ]
       },
       {
@@ -169413,12 +169359,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Até R$ 100",
         "paragraphs": [
-          "Esta faixa tem carteira, nécessaire, bolsa de viagem e uma mochila para notebook. Todas as peças estavam disponíveis na API da loja em 30/10/2026."
+          "Esta faixa tem carteira, nécessaire, bolsa de viagem e uma mochila para notebook. Todas as peças estavam disponíveis na API da loja."
         ],
         "comparisonTable": {
           "headers": [
             "Peça",
-            "Cartão (30/10)",
+            "Cartão",
             "Lista"
           ],
           "rows": [
@@ -169460,12 +169406,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "De R$ 100 a R$ 250",
         "paragraphs": [
-          "Aqui entram nécessaires, uma carteira de couro com fecho em botão e mochilas executivas para notebook. Os preços são do cartão em 30/10/2026."
+          "Aqui entram nécessaires, uma carteira de couro com fecho em botão e mochilas executivas para notebook. Os preços são do cartão."
         ],
         "comparisonTable": {
           "headers": [
             "Peça",
-            "Cartão (30/10)",
+            "Cartão",
             "Lista"
           ],
           "rows": [
@@ -169519,7 +169465,7 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Peça",
-            "Cartão (30/10)",
+            "Cartão",
             "Lista"
           ],
           "rows": [
@@ -169595,7 +169541,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom e Pix",
         "paragraphs": [
           "O CECILIA10 dá 10% no site da Bagaggio, inclusive em produto com desconto. A regra completa está na [página do cupom Bagaggio](/cupons/bagaggio). A promoção de 50% na segunda peça é um cupom e não soma com o CECILIA10.",
-          "No Pix, a loja mostra 5% a mais. No nosso teste de carrinho de 22/10/2026, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Não testamos o cupom nesta lista de peças, então não damos valor final com cupom: confira o resumo do pedido antes de pagar."
+          "No Pix, a loja mostra 5% a mais. No nosso teste de carrinho, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Não testamos o cupom nesta lista de peças, então não damos valor final com cupom: confira o resumo do pedido antes de pagar."
         ]
       },
       {
@@ -169604,7 +169550,7 @@ export const reviewsData: unknown[] = [
           "A Bagaggio vende vale-presente? Vende, na página vale-presente do site, com compra virtual num site parceiro de cartões. Não conferimos valores nem regras.",
           "A Bagaggio tem embalagem para presente? Tem a lata de alumínio para carteira, de R$ 19,90, vendida avulsa no site.",
           "O cupom CECILIA10 vale no Mercado Livre? Não. Ele vale no site oficial da Bagaggio. No Mercado Livre, vale o preço do anúncio, sem o cupom.",
-          "Qual é o presente da Bagaggio até R$ 100? Há carteira, nécessaire, bolsa de viagem e a mochila Horizonte para notebook, de R$ 29,90 a R$ 79,90 no cartão, em 30/10/2026.",
+          "Qual é o presente da Bagaggio até R$ 100? Há carteira, nécessaire, bolsa de viagem e a mochila Horizonte para notebook, de R$ 29,90 a R$ 79,90 no cartão.",
           "O kit Joá custa menos que as peças separadas? Não. O kit de R$ 699,80 é a soma da mochila Joá Preto, de R$ 599,90, e da carteira vertical Joá Preta, de R$ 99,90."
         ]
       }
@@ -169665,7 +169611,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na linha escolar da Bagaggio, medida e garantia mudam de um modelo para outro, e quem informa é a loja. Nos 10 modelos que reunimos aqui, os preços vão de R$ 49,90 a R$ 399,90, e só três informam garantia, de 90 dias. Se a criança quer um personagem, veja a seção de licenciadas."
+          "Na linha escolar da Bagaggio, medida e garantia mudam de um modelo para outro, e quem informa é a loja. Nos 10 modelos que reunimos aqui, só três informam garantia, de 90 dias. Se a criança quer um personagem, veja a seção de licenciadas."
         ]
       },
       {
@@ -169676,7 +169622,7 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Modelo",
-            "Preço (cartão, 30/10)",
+            "Preço (cartão)",
             "Medida",
             "Garantia"
           ],
@@ -169825,7 +169771,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Bagaggio tem mochila escolar com rodinha? Sim. Na tabela, quatro modelos têm rodinha, de R$ 199,90 a R$ 329,90.",
-          "A Bagaggio tem linha KidGo de mochila escolar? Não. Na busca de 30/10, a KidGo aparece só numa mala de bordo.",
+          "A Bagaggio tem linha KidGo de mochila escolar? Não. Na busca, a KidGo aparece só numa mala de bordo.",
           "Mochila escolar da Disney ou da Marvel é da Bagaggio? A loja vende, com a marca do personagem informada por ela. Não é linha própria da Bagaggio.",
           "Qual a garantia da mochila escolar Bagaggio? Depende do modelo: a Bagaggio anuncia 90 dias em três modelos e não traz garantia nos outros.",
           "Tem cupom para a mochila escolar? Sim. O CECILIA10 dá 10% em todo o site oficial, com um cupom por pedido. Confira o desconto no resumo do pedido antes de pagar."
