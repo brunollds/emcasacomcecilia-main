@@ -33032,7 +33032,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Economia real: 10% de desconto pode fazer diferença em compras recorrentes de cápsulas ou na aquisição de uma máquina, desde que os itens sejam elegíveis.",
-          "Código verificado: o desconto apareceu no resumo do pedido.",
+          "Código verificado: testamos o CECI no site oficial, e o desconto apareceu no resumo do pedido.",
           "Sem burocracia: Basta digitar o código no checkout — sem cadastros extras, sem programas de fidelidade obrigatórios.",
           "Ajuda o blog: Ao usar nosso cupom, você apoia o Em Casa com Cecília sem pagar nada a mais por isso. O desconto é integralmente seu!"
         ]
@@ -36291,7 +36291,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A primeira xícara",
         "paragraphs": [
-          "A Touch foi a mais rápida a ficar pronta para a primeira bebida, incluindo na comparação com a Vertuo da Nespresso. (A NEO, outra máquina Dolce Gusto, é um pouco menos rápida que a Touch, mas isso fica pro artigo específico dela.)",
+          "Das máquinas de cápsula que já tivemos em casa, a Touch foi a mais rápida a ficar pronta para a primeira bebida, Vertuo da Nespresso incluída. (A NEO, outra máquina Dolce Gusto, é um pouco menos rápida que a Touch, mas isso fica pro artigo específico dela.)",
           "O barulho ficou dentro do aceitável e não notamos vazamento. Bebida saiu na temperatura e na quantidade esperadas. O que incomodou foi ela ficar pingando entre um preparo e o outro, algo que não acontece na NEO nem na Vertuo, pelo menos no nosso uso."
         ],
         "bullets": [],
