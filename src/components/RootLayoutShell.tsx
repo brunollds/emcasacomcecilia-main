@@ -124,6 +124,8 @@ export function RootLayoutShell({
     'zh-hans': 'Simplified Chinese',
   };
 
+  const contactLanguages = Array.from(new Set(['Portuguese', languageNames[loc]]));
+
   const organizationSchema = {
     '@context': 'https://schema.org',
     '@type': 'Organization',
@@ -142,13 +144,13 @@ export function RootLayoutShell({
         '@type': 'ContactPoint',
         email: brandLinks.contactEmail,
         contactType: 'customer support',
-        availableLanguage: Array.from(new Set(['Portuguese', languageNames[loc]])),
+        availableLanguage: contactLanguages,
       },
       {
         '@type': 'ContactPoint',
         url: brandLinks.telegram,
         contactType: 'customer support',
-        availableLanguage: Array.from(new Set(['Portuguese', languageNames[loc]])),
+        availableLanguage: contactLanguages,
       },
     ],
   };

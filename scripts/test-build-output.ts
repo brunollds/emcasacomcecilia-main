@@ -544,7 +544,7 @@ assert.deepEqual(
   [brandLinks.contactEmail, brandLinks.telegram],
   'Organization: contatos da home'
 );
-assert.ok(!('telephone' in homeOrganization) && !('address' in homeOrganization), 'Organization com telefone ou endereço');
+assert.ok(homeOrganization && !('telephone' in homeOrganization) && !('address' in homeOrganization), 'Organization com telefone ou endereço');
 const llmsRecentReviews = [
   ...(llmsBody.split('## Reviews e guias recentes')[1]?.split('\n## ')[0] ?? '').matchAll(/https:\/\/emcasacomcecilia\.com[^\s)]*/g),
 ].map(([url]) => url);
