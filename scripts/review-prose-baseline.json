@@ -14,10 +14,6 @@
     "bodyDates": 12,
     "datesOutsideBody": 8
   },
-  "black-friday-shein": {
-    "bodyDates": 27,
-    "datesOutsideBody": 8
-  },
   "black-skull-ou-growth": {
     "transparencySection": true,
     "bodyDates": 10,
@@ -35,9 +31,6 @@
   "clea-store-reclame-aqui-nota-reputacao": {
     "bodyDates": 13,
     "datesOutsideBody": 14
-  },
-  "codigo-de-indicacao-shein": {
-    "datesOutsideBody": 3
   },
   "como-encontrar-cupons-yesstyle-validos": {
     "datesOutsideBody": 1
@@ -114,19 +107,6 @@
     "transparencySection": true,
     "bodyDates": 7,
     "datesOutsideBody": 2
-  },
-  "shein-11-11-selecao-da-cecilia": {
-    "transparencySection": true,
-    "bodyDates": 3,
-    "datesOutsideBody": 1
-  },
-  "shein-e-confiavel": {
-    "bodyDates": 11,
-    "datesOutsideBody": 4
-  },
-  "shein-ou-shopee-temu": {
-    "bodyDates": 10,
-    "datesOutsideBody": 4
   },
   "sofa-na-caixa-crise-reclamacoes-procon-sp": {
     "transparencySection": true,
