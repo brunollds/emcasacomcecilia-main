@@ -171,7 +171,7 @@
       "image": {
         "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-pt.webp",
         "alt": "Quadro com quatro perfis e a resposta de cada um: muitos canais e app no celular leva ao OpenClaw; agente que aprende e cria as próprias habilidades leva ao Hermes Agent; não quer cuidar de servidor leva ao gerenciado; quer root e outros programas leva ao VPS",
-        "caption": "Pela documentação de cada projeto, lida em 21/10/2026."
+        "caption": "Pela documentação de cada projeto."
       },
       "bullets": [
         "**Quer muitos canais e um aplicativo no celular:** OpenClaw. O README fala em mais de 20 canais e traz apps nativos para celular e computador, além da Control UI na web.",

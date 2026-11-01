@@ -51,7 +51,7 @@
       "heading": "O que a documentação oficial diz (e não diz) sobre requisitos",
       "paragraphs": [
         "O OpenClaw pode usar um modelo de IA que fica no provedor, pela sua chave de API ou pelos créditos de IA da Hostinger, ou um modelo local, que roda no próprio servidor. Chave de API é a senha que o OpenClaw usa para pedir respostas a um provedor, que cobra pelo uso. Com o modelo no provedor, o pedido vai para a empresa de IA e o servidor só roda o programa.",
-        "As páginas oficiais de instalação e de modelos locais, lidas em 21/10/2026, dizem o seguinte:"
+        "As páginas oficiais de instalação e de modelos locais dizem o seguinte:"
       ],
       "bullets": [
         "**Versão do Node.** O OpenClaw pede Node 24.16 ou mais novo, ou Node 26.1 ou mais novo. O Node é o programa que executa o OpenClaw, e a instalação por npm exige essa versão. A página recomenda o Node 26. Se o Node não estiver instalado, o instalador oficial traz a versão (Node 26 no macOS e Node 24 LTS no Linux).",
@@ -105,7 +105,7 @@
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
         "alt": "Quadro com três linhas: modelo fora do servidor (chave de API ou créditos) leva ao KVM 1; modelo local pequeno leva ao KVM 2, no limite, ou ao KVM 4; modelo local com mais contexto ou outros programas leva ao KVM 4 ou ao KVM 8",
-        "caption": "Pela documentação do OpenClaw lida em 21/10/2026; não medimos desempenho."
+        "caption": "Pela documentação do OpenClaw; não medimos desempenho."
       },
       "comparisonTable": {
         "headers": [
@@ -181,7 +181,7 @@
           [
             "Quer o assistente no ar sem mexer em servidor, com chave de API ou créditos da Hostinger",
             "Gerenciado",
-            "A Hostinger instala e mantém o assistente. Em 21/10/2026, R$ 19,99/mês com o SONAR20, em plano de 24 meses"
+            "A Hostinger instala e mantém o assistente. R$ 19,99/mês com o SONAR20, em plano de 24 meses"
           ],
           [
             "Quer acesso root e rodar outros programas no mesmo servidor, como um site ou o n8n",
@@ -213,7 +213,7 @@
     {
       "heading": "O VPS grátis: Oracle Always Free",
       "paragraphs": [
-        "A Oracle tem um plano gratuito, o Always Free. Ele não é da Hostinger e não substitui o VPS pago. Pela documentação da Oracle, lida em 21/10/2026:"
+        "A Oracle tem um plano gratuito, o Always Free. Ele não é da Hostinger e não substitui o VPS pago. Pela documentação da Oracle:"
       ],
       "bullets": [
         "Até duas instâncias Micro (processador AMD), com 1/8 de OCPU e 1 GB de memória cada.",
@@ -259,7 +259,7 @@
     {
       "heading": "Quem escreve",
       "paragraphs": [
-        "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw: este texto reúne o que a Hostinger, a Oracle e a documentação oficial do OpenClaw dizem, lidas em 21/10/2026."
+        "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw: este texto reúne o que a Hostinger, a Oracle e a documentação oficial do OpenClaw dizem."
       ]
     }
   ],
