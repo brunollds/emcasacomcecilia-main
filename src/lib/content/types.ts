@@ -359,6 +359,12 @@ export interface Cta {
 /** Por que um artigo em PT leva mais de 2 datas no corpo; a lista do validate:content é BODY_DATES_REASONS. */
 export type BodyDatesReason = 'campanha' | 'prazo-entrega' | 'reclame-aqui';
 
+/** Quadro "Leve se / Passe se" dos guias (ArticleDecision): de 1 a 3 frases cada, sem markdown e sem preço. */
+export interface ReviewDecision {
+  takeIf: string[];
+  skipIf: string[];
+}
+
 export interface Review {
   // Identificação
   id: number;
@@ -437,6 +443,8 @@ export interface Review {
   affiliate?: string;
   /** Artigo em PT que precisa de mais de 2 datas no corpo (até 8): campanha, prazo de entrega ou Reclame Aqui. */
   bodyDatesReason?: BodyDatesReason;
+  /** Guia e comparativo: o quadro de decisão, logo antes do FAQ. O review de produto usa prós e contras. */
+  decision?: ReviewDecision;
 
   // SEO
   seoTitle?: string;
