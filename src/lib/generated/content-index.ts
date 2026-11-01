@@ -29581,19 +29581,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os [cupons YesStyle](/cupons/yesstyle) de promoção vão no campo Coupon Code e vencem rápido; a lista da nossa página foi conferida em 30 de outubro de 2026. O CECILIA010 é código de recompensa: vai no campo Reward Code e dá até 5% extra, 5% na primeira compra e 2% nas seguintes."
+          "Os [cupons YesStyle](/cupons/yesstyle) de promoção vão no campo Coupon Code e vencem rápido. O CECILIA010 é código de recompensa: vai no campo Reward Code e dá até 5% extra; o que muda o percentual é ser sua primeira compra ou não, como explica o capítulo do CECILIA010."
         ]
       },
       {
         "heading": "Por que a maioria dos cupons da YesStyle na internet não funciona?",
         "paragraphs": [
-          "Quem costuma comprar cosméticos de K-Beauty, skincare coreano ou moda na YesStyle já deve ter passado por essa frustração: você pesquisa por \"cupom YesStyle\" no Google, abre dezenas de sites agregadores, copia vários códigos e, ao tentar colar no checkout, o site retorna uma mensagem de erro dizendo que o código é inválido ou expirou.",
+          "Se você já pesquisou \"cupom YesStyle\" no Google, copiou vários códigos e viu o checkout recusar um por um, não foi azar: a maioria desses códigos está vencida.",
           "Isso acontece por três motivos principais: a YesStyle lança cupons promocionais temporários de curta duração (como promoções de 72 ou 96 horas ou campanhas mensais), agregadores automáticos mantêm códigos vencidos por anos para atrair cliques, e muitos códigos pertencem a campanhas exclusivas de determinadas regiões.",
           "Para não perder tempo nem desistir da compra na hora de pagar, o segredo é entender a arquitetura de descontos da YesStyle e consultar as fontes oficiais da marca."
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Página inicial oficial da YesStyle mostrando exemplo de cupom promocional.",
-        "imageCaption": "Exemplo de cupom promocional oficial registrado em 24 de julho de 2026; essa campanha já terminou. Cupons promocionais mudam com frequência: consulte nossa página dedicada antes de comprar.",
+        "imageCaption": "Exemplo de cupom promocional oficial de uma campanha que já terminou. Cupons promocionais mudam com frequência: consulte nossa página dedicada antes de comprar.",
         "imageFit": "wide",
         "bullets": [
           "Cupons promocionais mensais: possuem prazo de validade e costumam dar de 10% a 15% OFF.",
@@ -29619,16 +29619,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona o código CECILIA010: até 5% OFF extra",
         "paragraphs": [
-          "O código CECILIA010 é o código de recompensa oficial da Cecília e permanece disponível enquanto estiver ativo no programa de influenciadores da YesStyle. Ao contrário dos cupons promocionais temporários da loja que mudam periodicamente, o CECILIA010 é um código fixo de parceria.",
-          "A aplicação do desconto do CECILIA010 no carrinho segue as regras oficiais da plataforma:",
-          "• Para Novos Clientes (1ª compra na conta): concede 5% OFF extra no carrinho.",
-          "• Para Clientes Recorrentes (compras subsequentes): concede 2% OFF extra no carrinho.",
-          "Por essa razão, adotamos a comunicação transparente \"até 5% OFF extra\", pois o desconto exato é calculado automaticamente pela YesStyle conforme o histórico do seu cadastro no momento da compra, aplicável a produtos elegíveis conforme as condições vigentes da loja."
+          "O código CECILIA010 é o código de recompensa oficial da Cecília e permanece disponível enquanto estiver ativo no programa de influenciadores da YesStyle. Ao contrário dos cupons promocionais temporários da loja que mudam periodicamente, o CECILIA010 é um código fixo de parceria."
         ],
         "bullets": [
           "Primeira compra no site: 5% de desconto extra.",
           "Compras subsequentes: 2% de desconto extra.",
           "Válido para produtos elegíveis de K-Beauty, skincare, maquiagem, moda e estilo de vida."
+        ],
+        "postParagraphs": [
+          "Por isso dizemos \"até 5% OFF extra\": a YesStyle calcula o percentual na hora, pelo histórico da sua conta, sobre os produtos elegíveis."
         ]
       },
       {
@@ -29702,8 +29701,8 @@ export const reviewsData: unknown[] = [
           "Reunimos as principais dúvidas dos leitores sobre como usar cupons e códigos de recompensa na YesStyle:"
         ],
         "bullets": [
-          "Qual é a diferença entre Coupon Code e Influencer/Rewards Code na YesStyle? O Coupon Code é um cupom promocional temporário da YesStyle. Ele deve ser aplicado no campo \"Coupon Code\" e pode ter prazo, compra mínima, restrição regional ou produtos não elegíveis. Já o CECILIA010 é um Influencer/Rewards Code: deve ser inserido no campo separado \"Reward Code\" e oferece até 5% OFF extra: 5% para novos clientes na primeira compra ou 2% para clientes recorrentes. Quando as regras da promoção permitirem, os dois descontos podem aparecer juntos no resumo do pedido.",
-          "O que é o código de influenciador da YesStyle? É o Código de Recompensa (Reward Code), digitado num campo próprio do checkout, separado do campo de cupom. O nosso é o CECILIA010: 5% na primeira compra e 2% nas seguintes.",
+          "Qual é a diferença entre Coupon Code e Influencer/Rewards Code na YesStyle? O Coupon Code é o cupom de promoção, no campo \"Coupon Code\", com prazo e regras próprias: pode ter compra mínima, restrição regional ou produtos não elegíveis. O CECILIA010 é o código de recompensa (Influencer/Rewards Code), no campo separado \"Reward Code\", com 5% na primeira compra e 2% nas seguintes. Quando as regras da promoção permitirem, os dois descontos podem aparecer juntos no resumo do pedido.",
+          "O que é o código de influenciador da YesStyle? É o Código de Recompensa (Reward Code), digitado num campo próprio do checkout, separado do campo de cupom. O nosso é o CECILIA010, que vai no campo Reward Code.",
           "Os cupons da YesStyle têm validade? Sim. Os cupons promocionais possuem prazo de validade e podem expirar sem aviso. Algumas campanhas duram poucos dias (como promoções de 72 ou 96 horas), enquanto outras permanecem ativas por períodos diferentes. Antes de finalizar a compra, confira a validade, o valor mínimo, a região e os produtos elegíveis nas regras da promoção e confirme se o desconto apareceu no checkout.",
           "Onde encontro as regras oficiais dos cupons da YesStyle? As regras gerais estão na página \"General Terms and Conditions for Coupons\" da central de atendimento da YesStyle. Para as condições de uma campanha específica, acesse a Central de Atendimento e abra a seção \"Promotions\", onde a YesStyle publica validade, compra mínima, regiões participantes e possíveis exclusões. Como essas condições mudam, consulte também o banner da promoção e o resumo do pedido antes de pagar.",
           "Posso usar mais de um cupom promocional no mesmo pedido? Não. Segundo as regras gerais da YesStyle, somente um Coupon Code pode ser usado por pedido ou pedido combinado. O CECILIA010, porém, não é um Coupon Code: ele deve ser aplicado no campo separado \"Reward Code\". Por isso, um cupom promocional e o CECILIA010 podem ser combinados quando a campanha for elegível e o checkout aceitar ambos."
@@ -69178,6 +69177,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 395,
     "slug": "yesstyle-entrega-no-brasil-e-portugal",
+    "bodyDatesReason": "prazo-entrega",
     "locale": "pt",
     "translationKey": "yesstyle-shipping-by-country",
     "title": "YesStyle entrega no Brasil e em Portugal? Prazo, frete e imposto",
@@ -69209,16 +69209,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle entrega em Portugal, com prazo e frete publicados. Para o Brasil, os envios voltaram em setembro de 2026, quando um pedido nosso saiu, e foram suspensos de novo: em 28/10/2026, a loja não oferecia entrega para o Brasil. Veja abaixo a tabela e o capítulo do imposto."
+          "A YesStyle entrega em Portugal, com prazo e frete publicados. Para o Brasil, os envios voltaram por um tempo, quando um pedido nosso saiu, e foram suspensos de novo: na última leitura, a loja não oferecia entrega para o país. Veja abaixo a tabela e o capítulo do imposto."
         ]
       },
       {
         "heading": "Prazo e frete no Brasil e em Portugal",
         "paragraphs": [
+          "Para Portugal, a YesStyle publica envio Standard em 10 a 15 dias úteis, frete grátis a partir de US$ 60 (US$ 5 abaixo disso) e o IVA de 23% já no preço, com os valores em dólar, como a loja publica. Para o Brasil, não publica prazo, frete nem frete grátis.",
+          "Um pedido nosso, feito na YesStyle em setembro, foi enviado dois dias depois pela transportadora Anjun Express. A tabela abaixo vem do frete em vigor em 13/10/2026, lido no mesmo dia.",
           "Ao prazo do envio se soma o tempo para o item sair do armazém, explicado mais abaixo."
         ],
         "comparisonTable": {
-          "caption": "Prazo e frete da YesStyle para Portugal e para o Brasil, pela tabela em vigor desde 13/10/2026, lida no mesmo dia.",
+          "caption": "Prazo e frete da YesStyle para Portugal e para o Brasil, pela tabela de frete da loja.",
           "headers": [
             "País",
             "Envio e prazo",
@@ -69234,7 +69236,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Brasil",
-              "fora da tabela; um pedido nosso saiu em 19/09/2026 pela Anjun Express",
+              "fora da tabela; um pedido nosso saiu pela Anjun Express",
               "não publicado",
               "não publicado"
             ]
@@ -69250,19 +69252,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a loja mostra sobre o Brasil",
         "paragraphs": [
-          "A tabela de frete de 13 de outubro de 2026 e a lista de países atendidos não trazem o Brasil, e o seletor de endereço de entrega do site em português também não. O aviso de 3 de julho de 2026, que pausou os novos pedidos ao Brasil por atrasos na alfândega, segue na central de avisos sem um aviso de retomada.",
-          "Mesmo assim, o nosso pedido de 17/09/2026 foi enviado em 19/09/2026 pela Anjun Express. Os envios ao Brasil voltaram nesse intervalo e foram suspensos de novo: em 28/10/2026, a loja não oferecia entrega para o Brasil. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
+          "A tabela de frete e a lista de países atendidos não trazem o Brasil, e o seletor de endereço de entrega do site em português também não. O aviso de 3 de julho, que pausou os novos pedidos ao Brasil por atrasos na alfândega, segue na central de avisos sem um aviso de retomada.",
+          "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express. Os envios ao Brasil voltaram nesse intervalo e foram suspensos de novo: em 28/10/2026, a loja não oferecia entrega para o Brasil. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
         ]
       },
       {
         "heading": "Frete grátis em Portugal: o que entra na conta",
         "paragraphs": [
-          "Em Portugal, o frete fica grátis quando o total do pedido chega a US$ 60, no Padrão e na Retirada Padrão. A taxa da embalagem de presente não entra nesse total, diz a nota da tabela."
+          "Em Portugal, o frete fica grátis quando o total chega a US$ 60, no Padrão e na Retirada Padrão; se faltar pouco, vale completar o carrinho. A taxa da embalagem de presente não entra nesse total, diz a nota da tabela."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-frete-portugal-2026-10-13.webp",
           "alt": "Tabela de frete da YesStyle com destino Portugal: envio Padrão e Retirada Padrão grátis a partir de US$ 60 e de US$ 5 abaixo disso, prazo de 10 a 15 dias úteis e código de rastreamento nos dois, com a nota de que a taxa de embalagem para presente não entra no cálculo do frete e a data de 13 de outubro de 2026",
-          "caption": "A linha de Portugal na tabela de frete da YesStyle, em vigor desde 13/10/2026 (07:15 GMT), com a nota sobre a embalagem de presente.",
+          "caption": "A linha de Portugal na tabela de frete da YesStyle, com a nota sobre a embalagem de presente.",
           "objectFit": "contain",
           "aspectRatio": 1.9089
         }
@@ -69271,7 +69273,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como se conta o prazo",
         "paragraphs": [
           "Todo pedido sai do armazém da YesStyle em Hong Kong. O prazo total é o tempo para o item ficar disponível mais o prazo do envio, e a loja conta os dois em dias úteis, no horário de Hong Kong (GMT+8).",
-          "Em Portugal, um pedido só com itens em estoque leva de 11 a 18 dias úteis: 1 a 3 para sair do armazém e 10 a 15 de envio.",
+          "Conta nossa, somando os prazos da loja (1 a 3 dias úteis para sair do armazém e 10 a 15 de envio): em Portugal, um pedido só com itens em estoque leva de 11 a 18 dias úteis.",
           "Se o pagamento precisar de verificação, a contagem começa no dia em que o pedido é aprovado. Feriados e picos de pedidos também podem atrasar a saída."
         ],
         "image": {
@@ -69290,7 +69292,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-pt-2026-10-13.webp",
           "alt": "Página de produto da YesStyle do creme Dr. Althea 345 Relief Cream, com preço de US$ 22.95 numa oferta de 15% com contagem regressiva e a Versão 2025 de 50 ml marcada Em estoque, acima do botão Adicionar à sacola",
-          "caption": "Página de um produto na YesStyle em 13/10/2026, com a disponibilidade Em estoque ao lado da versão. O preço e a oferta são os daquele dia.",
+          "caption": "Página de um produto na YesStyle, com a disponibilidade Em estoque ao lado da versão. O preço e a oferta são os do dia da captura.",
           "objectFit": "contain",
           "aspectRatio": 2.0243
         },
@@ -69314,7 +69316,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Portugal:** o IVA de 23% já está no preço dos produtos e é somado ao frete no checkout. Desde 1º de julho de 2026, a União Europeia cobra € 3 por categoria aduaneira em pacotes abaixo de € 150, e a YesStyle diz que, atualmente, paga essa taxa pelo cliente.",
-          "**Brasil:** a YesStyle não tem página de imposto para o Brasil e não está no Remessa Conforme (lista da Receita Federal lida em 12/10/2026). Fora do programa, a Receita cobra Imposto de Importação de 60%, sem desconto, sobre o produto, o frete e o seguro, mais ICMS de 17% a 20% conforme o estado, depois que o pacote chega."
+          "**Brasil:** a YesStyle não tem página de imposto para o Brasil e não está no Remessa Conforme (lista da Receita Federal). Fora do programa, a Receita cobra Imposto de Importação de 60%, sem desconto, sobre o produto, o frete e o seguro, mais ICMS de 17% a 20% conforme o estado, depois que o pacote chega."
         ],
         "postParagraphs": [
           "Um exemplo pela regra da Receita, num pedido de US$ 60 somando produto e frete: o Imposto de Importação é de US$ 36. O ICMS é calculado por dentro: com 20%, a base vira US$ 120 (os US$ 96 divididos por 0,8), e o ICMS fica em US$ 24. O imposto soma US$ 60, o mesmo valor do pedido; com ICMS de 17%, cerca de US$ 56."
@@ -69328,7 +69330,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
           "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos do YesStyle abaixo de US$ 1.000 e o item 1, que diz que a oferta vale desde 7 de maio de 2018, também no valor equivalente em outras moedas",
-          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, em vigor desde 7 de maio de 2018, lida em 13/10/2026.",
+          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle.",
           "objectFit": "contain",
           "aspectRatio": 3.5907
         },
@@ -69338,7 +69340,7 @@ export const reviewsData: unknown[] = [
           "**Mande o comprovante por e-mail** ao atendimento da YesStyle em até 30 dias da data dele. Sem comprovante, ou depois de 30 dias, a loja não analisa o pedido."
         ],
         "postParagraphs": [
-          "No Brasil, a política cobre o Imposto de Importação e as taxas da alfândega, mas não cita o ICMS: pergunte ao atendimento antes de contar com ele. No exemplo de US$ 60, os US$ 36 do Imposto de Importação entram no reembolso; sobre os US$ 24 do ICMS, a política não diz nada.",
+          "No Brasil, a política cobre o Imposto de Importação e as taxas da alfândega, mas não cita o ICMS: pergunte ao atendimento antes de contar com ele. No exemplo do capítulo acima, o Imposto de Importação entra no reembolso; sobre o ICMS, a política não diz nada.",
           "Ficam de fora as taxas do correio e da transportadora, como armazenagem, retirada e pacote não retirado ou devolvido, e o imposto já cobrado no checkout, como o IVA de Portugal."
         ]
       },
@@ -69388,11 +69390,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: os envios voltaram em setembro de 2026, quando um pedido nosso saiu em 19/09/2026, e foram suspensos de novo, e em 28/10/2026 a loja não oferecia entrega para o Brasil.",
-          "A YesStyle voltou a entregar no Brasil? Voltou em setembro de 2026, sem aviso de retomada depois da pausa de 3 de julho (um pedido nosso feito em 17/09/2026 foi enviado dois dias depois), e suspendeu de novo: em 28/10/2026, a loja não oferecia entrega para o Brasil.",
+          "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: os envios voltaram por um tempo, quando um pedido nosso saiu, e foram suspensos de novo; na última leitura, a loja não oferecia entrega para o país.",
+          "A YesStyle voltou a entregar no Brasil? Voltou por um tempo, sem aviso de retomada depois da pausa de julho (um pedido nosso feito em setembro foi enviado dois dias depois), e suspendeu de novo: na última leitura, a loja não oferecia entrega para o Brasil.",
           "Quanto tempo demora a entrega da YesStyle? Em Portugal, de 11 a 18 dias úteis para um pedido só com itens em estoque: 1 a 3 para sair de Hong Kong e 10 a 15 de envio; para o Brasil, a loja não publica prazo.",
           "A partir de quanto o frete da YesStyle é grátis? Em Portugal, a partir de US$ 60, sem contar a embalagem de presente, com frete de US$ 5 abaixo disso; para o Brasil, a loja não publica o valor.",
-          "A YesStyle tem taxa ou imposto? Em Portugal, o IVA de 23% já vem no preço; no Brasil, pela regra da Receita Federal para quem está fora do Remessa Conforme, o pacote paga Imposto de Importação de 60% mais ICMS depois que chega, cerca de US$ 56 a US$ 60 num pedido de US$ 60.",
+          "A YesStyle tem taxa ou imposto? Em Portugal, o IVA já vem no preço; no Brasil, o pacote paga Imposto de Importação mais ICMS depois que chega, veja o exemplo no capítulo do imposto.",
           "A YesStyle reembolsa a taxa da alfândega? Sim, em crédito na loja, em pedidos abaixo de US$ 1.000, com o comprovante mandado ao atendimento em até 30 dias; no Brasil, a política não cita o ICMS.",
           "Como pagar na YesStyle? Com cartão Visa, Mastercard, American Express ou JCB, PayPal, Apple Pay ou Google Pay; na compra em dólar, o banco pode cobrar taxa de transação internacional.",
           "Como devolver um produto da YesStyle? Peça o número de RMA em até 14 dias do recebimento e despache o pacote em até 30 dias; produto de beleza aberto e suplemento não voltam, e reação na pele não dá reembolso.",
@@ -71707,16 +71709,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não há loja melhor para todo mundo: a escolha muda com o país, com quem paga o imposto e com o que a loja aceita de volta. No Brasil só a Jolse publica o frete, e em Portugal as cinco lojas entregam. O que pesa é o país de destino; as tabelas abaixo mostram entrega, imposto e devolução."
+          "Não há loja melhor para todo mundo: a escolha muda com o país, com quem paga o imposto e com o que a loja aceita de volta. No Brasil só a Jolse publica o frete, e em Portugal as cinco lojas entregam. Se você mora no Brasil, comece pela Jolse; em Portugal, decida pelo imposto e pela devolução, nas tabelas abaixo."
         ]
       },
       {
         "heading": "Quem entrega no Brasil",
         "paragraphs": [
-          "Este artigo não compara preço nem testa as lojas concorrentes: as tabelas juntam o que cada loja publica nas páginas oficiais, lidas em 12/10/2026. Não existe loja melhor para todo mundo, porque a escolha depende do país, de quem paga o imposto e do que a loja aceita de volta. No Brasil, a Jolse publica frete; a YesStyle não publica frete nem prazo, mas enviou um pedido nosso em 19/09/2026; o Stylevana também não os publica, e a Olive Young Global cita o país entre os sem envio. Em Portugal, as cinco lojas entregam, e todas publicam a partir de quanto o frete é grátis."
+          "As tabelas juntam o que cada loja publica nas páginas oficiais, lidas em 12/10/2026, sem comparar preço. No Brasil, a Jolse publica frete; a YesStyle não publica frete nem prazo, mas enviou um pedido nosso em setembro; o Stylevana também não os publica, e a Olive Young Global cita o país entre os sem envio. Em Portugal, as cinco lojas entregam, e todas publicam a partir de quanto o frete é grátis."
         ],
         "comparisonTable": {
-          "caption": "Envio ao Brasil da YesStyle, da Jolse e da StyleKorean, pelas páginas oficiais lidas em 12/10/2026, pela regra da Receita Federal e por um pedido nosso à YesStyle.",
+          "caption": "Envio ao Brasil da YesStyle, da Jolse e da StyleKorean, pelas páginas oficiais, pela regra da Receita Federal e por um pedido nosso à YesStyle.",
           "headers": [
             "Loja",
             "Envio ao Brasil",
@@ -71726,7 +71728,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "YesStyle",
-              "o Brasil está fora da tabela de frete; um pedido nosso saiu em 19/09/2026 pela Anjun Express",
+              "o Brasil está fora da tabela de frete; um pedido nosso saiu pela Anjun Express",
               "não publicado",
               "cobrado depois da chegada; a loja reembolsa impostos e taxas da alfândega em crédito, abaixo de US$ 1.000, mas a política não cita o ICMS"
             ],
@@ -71745,14 +71747,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A YesStyle mantém no ar o aviso de 3 de julho de 2026 que pausou os novos pedidos ao Brasil, sem aviso de retomada. A Olive Young Global cita o Brasil entre os países sem envio.",
-          "O Stylevana não publica frete nem prazo para o Brasil, e a lista de destinos dele varia conforme a versão: a em inglês, de 09/10/2026, não traz o Brasil, e as traduções de 26/08/2026 ainda trazem. A central de ajuda dele também cita o Brasil, num artigo de 17/06/2026, entre as regiões em que o imposto de importação não está incluído no checkout."
+          "A YesStyle mantém no ar o aviso de julho que pausou os novos pedidos ao Brasil, sem aviso de retomada. A Olive Young Global cita o Brasil entre os países sem envio.",
+          "O Stylevana não publica frete nem prazo para o Brasil, e a lista de destinos dele varia conforme a versão: a em inglês não traz o Brasil, e as traduções mais antigas ainda trazem. A central de ajuda dele também cita o Brasil, num artigo dela, entre as regiões em que o imposto de importação não está incluído no checkout."
         ]
       },
       {
         "heading": "Quem entrega em Portugal",
         "comparisonTable": {
-          "caption": "Prazo, frete e imposto da YesStyle, do Stylevana, da StyleKorean e da Jolse para Portugal, pelas páginas oficiais lidas em 12/10/2026.",
+          "caption": "Prazo, frete e imposto da YesStyle, do Stylevana, da StyleKorean e da Jolse para Portugal, pelas páginas oficiais.",
           "headers": [
             "Loja",
             "Prazo",
@@ -71776,7 +71778,7 @@ export const reviewsData: unknown[] = [
               "Olive Young Global",
               "não publicado para Portugal; a loja separa e embala o pedido em 1 a 3 dias úteis",
               "a partir de US$ 60; US$ 25 abaixo",
-              "IVA e imposto de € 3 por categoria aduaneira cobrados no checkout, desde 31/07/2026"
+              "IVA e imposto de € 3 por categoria aduaneira cobrados no checkout"
             ],
             [
               "StyleKorean",
@@ -71792,9 +71794,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "postParagraphs": [
-          "A Olive Young Global fica fora desta tabela: Portugal não aparece na página de envio dela, que também lista \"outras regiões\" sem nomeá-las; a lista completa de destinos fica no seletor de país do site."
-        ],
         "paragraphs": [
           "A Olive Young Global entrega em Portugal (seletor de destino do site, lido em 21/10/2026), mas a página de envio não tem linha para o país: o prazo não é publicado, e o frete segue a regra geral da FAQ dela."
         ]
@@ -71802,7 +71801,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem paga o imposto",
         "comparisonTable": {
-          "caption": "Quando cada loja cobra o imposto e se reembolsa a taxa de alfândega, pelas páginas oficiais lidas em 12/10/2026.",
+          "caption": "Quando cada loja cobra o imposto e se reembolsa a taxa de alfândega, pelas páginas oficiais.",
           "headers": [
             "Loja",
             "Quando o imposto é cobrado",
@@ -71821,12 +71820,12 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Olive Young Global",
-              "na União Europeia, desde os pedidos de 31/07/2026, o IVA e € 3 por categoria aduaneira são cobrados no checkout, e a loja diz que nada mais é cobrado na entrega; nos outros países, o preço e o frete não incluem imposto",
+              "na União Europeia, o IVA e € 3 por categoria aduaneira são cobrados no checkout, e a loja diz que nada mais é cobrado na entrega; nos outros países, o preço e o frete não incluem imposto",
               "na União Europeia, não reembolsa taxa de alfândega, IVA nem encargo de importação"
             ],
             [
               "StyleKorean",
-              "o imposto de alfândega é do cliente; nos EUA e no Canadá, ele é calculado e cobrado no checkout desde 27/08/2025",
+              "o imposto de alfândega é do cliente; nos EUA e no Canadá, ele é calculado e cobrado no checkout",
               "não publicado; se o cliente recusa pagar o imposto, o pacote volta ou é descartado, sem reembolso nem reenvio"
             ],
             [
@@ -71853,7 +71852,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "Prazo de devolução, o que cada loja aceita de volta e como reembolsa, pelas páginas oficiais lidas em 12/10/2026.",
+          "caption": "Prazo de devolução, o que cada loja aceita de volta e como reembolsa, pelas páginas oficiais.",
           "headers": [
             "Loja",
             "Prazo para pedir",
@@ -71897,11 +71896,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "StyleKorean: frete grátis por país e limite do pedido",
         "paragraphs": [
-          "Todos os pedidos da StyleKorean saem de um armazém na Coreia e vão à transportadora em até 5 dias úteis. O frete é calculado por peso e não vem no preço do produto. O frete grátis vale só para produtos de beleza: álbuns e produtos de K-pop ficam fora (página de frete lida em 21/10/2026).",
+          "Todos os pedidos da StyleKorean saem de um armazém na Coreia e vão à transportadora em até 5 dias úteis. O frete é calculado por peso e não vem no preço do produto. O frete grátis vale só para produtos de beleza: álbuns e produtos de K-pop ficam fora.",
           "O pedido tem limite de US$ 500, sem o frete; acima disso, a loja manda dividir em dois pedidos. Ela também não entrega em caixa postal nem em endereço militar (APO, FPO e DPO)."
         ],
         "comparisonTable": {
-          "caption": "Frete grátis da StyleKorean por país, pela tabela da página de frete lida em 21/10/2026.",
+          "caption": "Frete grátis da StyleKorean por país, pela tabela da página de frete.",
           "headers": [
             "Frete grátis a partir de",
             "Países"
@@ -71937,7 +71936,7 @@ export const reviewsData: unknown[] = [
         "heading": "Devolução e pontos na StyleKorean",
         "paragraphs": [
           "A StyleKorean aceita devolução de produto lacrado, sem uso e sem marcas, que volta ao armazém na Coreia. A página pede a solicitação em até 14 dias úteis do recebimento do pedido. Não há devolução por alergia ou reação na pele.",
-          "O reembolso sai em pontos da loja, que valem por seis meses, ou na forma de pagamento, em 2 a 14 dias úteis depois de processado. O frete do envio é descontado; se a conta ficar negativa, o cliente paga a diferença. Item avariado ou faltando é pedido com fotos, a nota e a foto da caixa, e a loja não reenvia (página de devolução lida em 21/10/2026)."
+          "O reembolso sai em pontos da loja, que valem por seis meses, ou na forma de pagamento, em 2 a 14 dias úteis depois de processado. O frete do envio é descontado; se a conta ficar negativa, o cliente paga a diferença. Item avariado ou faltando é pedido com fotos, a nota e a foto da caixa, e a loja não reenvia."
         ]
       },
       {
@@ -71946,10 +71945,10 @@ export const reviewsData: unknown[] = [
           "Cada loja diz o seguinte; são afirmações delas, sem auditoria independente."
         ],
         "bullets": [
-          "**YesStyle:** diz que todos os produtos são genuínos e que é distribuidora autorizada de mais de 400 marcas coreanas. Quem opera a loja e o que observar antes de comprar estão no guia de confiança.",
-          "**Stylevana:** diz que todo produto que vende é autêntico e genuíno, comprado de fornecedores de boa reputação e de distribuidores autorizados.",
-          "**Olive Young Global:** diz vender os mesmos produtos autênticos das lojas dela na Coreia, onde tem mais de 1.400 lojas.",
-          "**StyleKorean:** diz que todos os produtos são autênticos e vêm da marca ou de fornecedores de confiança na Coreia."
+          "**YesStyle:** produtos genuínos, de distribuidora autorizada de mais de 400 marcas coreanas. Quem opera a loja e o que observar antes de comprar estão no guia de confiança.",
+          "**Stylevana:** produtos autênticos, de fornecedores de boa reputação e distribuidores autorizados.",
+          "**Olive Young Global:** os mesmos produtos autênticos das lojas dela na Coreia, onde tem mais de 1.400 lojas.",
+          "**StyleKorean:** produtos autênticos, da marca ou de fornecedores de confiança na Coreia."
         ],
         "links": [
           {
@@ -71978,13 +71977,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyle e SHEIN são a mesma coisa?",
         "paragraphs": [
-          "Não. A YesStyle não aparece na lista de marcas do SHEIN Group (lida em 12/10/2026), que traz SHEIN, DAZY, ROMWE, MOTF, ANEWSTA, MUSERA, GLOWMODE e ARALINA, e diz pertencer à YesAsia Holdings, de Hong Kong."
+          "Não. A YesStyle não aparece na lista de marcas do SHEIN Group, que traz SHEIN, DAZY, ROMWE, MOTF, ANEWSTA, MUSERA, GLOWMODE e ARALINA, e diz pertencer à YesAsia Holdings, de Hong Kong."
         ]
       },
       {
         "heading": "YesStyle ou Shopee",
         "paragraphs": [
-          "A Shopee é um marketplace de vendedores: a devolução vai pela Garantia Shopee, em até 7 dias do recebimento, pelo aplicativo, e a Shopee está no Remessa Conforme. A YesStyle, a Olive Young, a StyleKorean e a Jolse não estão no programa (listas da Receita Federal lidas em 12/10/2026).",
+          "A Shopee é um marketplace de vendedores: a devolução vai pela Garantia Shopee, em até 7 dias do recebimento, pelo aplicativo, e a Shopee está no Remessa Conforme. A YesStyle, a Olive Young, a StyleKorean e a Jolse não estão no programa (listas da Receita Federal).",
           "Isso muda o imposto. No Remessa Conforme, o Imposto de Importação é zero até US$ 50 e, acima disso, de 60% menos US$ 30; fora dele, é de 60%, sem desconto. O ICMS de 17% a 20% vale nos dois casos, e, fora do programa, os impostos são cobrados depois que o pacote chega."
         ]
       },
@@ -72003,7 +72002,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "bullets": [
-          "Quem mora no Brasil: a Jolse é a única das cinco que publica frete para o país (US$ 9,99, grátis acima de US$ 60), e o imposto é pago na entrega. A YesStyle enviou um pedido nosso em 19/09/2026, mas não publica frete nem prazo.",
+          "Quem mora no Brasil: a Jolse é a única das cinco que publica frete para o país (US$ 9,99, grátis acima de US$ 60), e o imposto é pago na entrega. A YesStyle enviou um pedido nosso em setembro, mas não publica frete nem prazo.",
           "Quem mora em Portugal: as cinco lojas entregam e todas publicam a partir de quanto o frete é grátis, então a escolha passa pelo imposto e pela devolução, nas tabelas acima.",
           "Em qualquer país: confira na página oficial de cada loja o envio, quem paga o imposto e o que ela aceita de volta antes de fechar o pedido."
         ]
@@ -72011,13 +72010,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é melhor, YesStyle ou Stylevana? Depende do país: para o Brasil, nenhuma das duas publica frete nem prazo, e a YesStyle enviou um pedido nosso em 19/09/2026; para Portugal, o Stylevana indica 6 a 11 dias úteis e frete grátis a partir de € 59, e a YesStyle, 10 a 15 dias úteis e a partir de US$ 60.",
+          "Qual é melhor, YesStyle ou Stylevana? Depende do país: nenhuma das duas publica frete para o Brasil, e para Portugal os prazos e os mínimos estão na tabela de entrega.",
           "A YesStyle é igual à SHEIN? Não: a YesStyle não aparece na lista de marcas do SHEIN Group e diz pertencer à YesAsia Holdings, de Hong Kong.",
-          "O Stylevana entrega no Brasil? A lista de destinos em inglês, de 09/10/2026, não inclui o Brasil; as traduções de agosto ainda incluem; e a loja não publica frete nem prazo para o país.",
+          "O Stylevana entrega no Brasil? A lista de destinos em inglês não inclui o Brasil; as traduções mais antigas ainda incluem; e a loja não publica frete nem prazo para o país.",
           "A Olive Young entrega no Brasil? Não: a central de ajuda da Olive Young Global cita o Brasil entre os países sem envio.",
-          "A StyleKorean entrega no Brasil? A página de frete, lida em 21/10/2026, não traz o Brasil na tabela; o aviso do topo do site diz que o visitante do Brasil vê os itens que podem ser enviados ao país, sem frete nem prazo publicados.",
+          "A StyleKorean entrega no Brasil? A página de frete não traz o Brasil na tabela; o aviso do topo do site diz que o visitante do Brasil vê os itens que podem ser enviados ao país, sem frete nem prazo publicados.",
           "Qual é o limite de pedido na StyleKorean? US$ 500 por pedido, sem o frete; acima disso, a loja manda dividir em dois pedidos.",
-          "Qual loja tem o frete grátis mais baixo? Para o Brasil, só a Jolse publica o mínimo, acima de US$ 60; para Portugal, a YesStyle, a Jolse e a Olive Young Global dão frete grátis a partir de US$ 60, a StyleKorean a partir de US$ 80 e o Stylevana a partir de € 59, em euro.",
+          "Qual loja tem o frete grátis mais baixo? Para o Brasil, só a Jolse publica o mínimo; para Portugal, os mínimos estão na tabela de entrega, e o Stylevana é o único em euro.",
           "Quem paga o imposto? Depende da loja e do país: em Portugal, a YesStyle e a Jolse já incluem o IVA; no Brasil, o imposto é cobrado depois que o pacote chega, e só a YesStyle publica reembolso de impostos e taxas da alfândega, em crédito, abaixo de US$ 1.000, sem citar o ICMS.",
           "Posso devolver produto de beleza aberto? Não por arrependimento, em nenhuma das cinco lojas; o Stylevana aceita arrependimento só com o produto novo, lacrado e sem uso.",
           "Qual loja entrega mais rápido? As lojas publicam o prazo do envio, não o total: para Portugal, o Stylevana indica 6 a 11 dias úteis e a YesStyle 10 a 15, sem contar o tempo para o item sair de Hong Kong; para o Brasil, nenhuma das duas publica prazo.",
@@ -72034,7 +72033,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Podemos receber comissão pela YesStyle. As regras das outras lojas vêm das páginas delas.",
+    "editorialNote": "Podemos receber comissão pela YesStyle. Não testamos as outras lojas: as regras delas vêm das páginas oficiais.",
     "relatedArticles": [
       {
         "slug": "yesstyle-ou-olive-young",
