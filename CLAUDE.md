@@ -280,6 +280,13 @@ vídeo, primeiras impressões e uso noturno.
   o `test:review-i18n` exige em toda versão os cards do português, na mesma ordem, com o mesmo modelo, as mesmas
   peças, links, campos e cores, e o como usar, a ocasião e a nota do link traduzidos (nome da peça e básico do
   armário podem repetir o PT); os rótulos entram na conferência de interface igual ao português.
+- Quadro "Leve se / Passe se" dos guias e comparativos: o campo `decision` do artigo (`{ takeIf: [...], skipIf: [...] }`, de
+  1 a 3 frases cada, sem markdown e sem "R$"), desenhado por `ArticleDecision` (`src/components/review/article/`, com as
+  listas `ProsConsList` dos prós e contras) logo antes do FAQ, acima do banner do meio; sem FAQ, depois da última seção.
+  Sem estrelas, nota nem schema de Review; o review de produto não leva o campo (tem os prós e contras), e o
+  `validate:content` barra. Rótulos nos 10 idiomas em `articleCopy.ts` (`decisionLabel`, `decisionTakeIf`, `decisionSkipIf`).
+  Numa família, o `test:review-i18n` exige o quadro em toda versão quando o PT tem, com o mesmo número de frases e nenhuma
+  igual à do PT; o `test:build-output` confere o lugar, os rótulos, as frases e que nenhuma vai ao JSON-LD.
 - Foto de produto com link: o `href` opcional da imagem da seção (`image` em forma de objeto ou item de `images`,
   `ContentSectionImage`) faz da foto o link de afiliado do produto (`CouponStoreLink`, sponsored, nova aba,
   `review_image`), com o selo "Ver na <loja>" na foto e no lightbox e o nome do link "Ver na <loja>: <alt>" avisando a

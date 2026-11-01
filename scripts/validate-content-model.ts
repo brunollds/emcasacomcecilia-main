@@ -21,6 +21,7 @@ import {
   resolveTotalMinutes,
   structuredIngredientToText,
   type ContentSectionStyling,
+  type ReviewKind,
 } from '@/lib/content';
 import { COUPONS } from '@/lib/couponsData';
 import { isFaqHeading, parseFaqBullet } from '@/lib/faq';
@@ -96,6 +97,43 @@ function getStylingProblems(styling: ContentSectionStyling): string[] {
     }
   }
   return problems;
+}
+
+// O quadro "Leve se / Passe se" (ArticleDecision): só fora do review de produto, que tem os prós e contras; de 1 a 3
+// frases em cada lista, sem markdown (a página mostra o texto cru) e sem preço.
+function getDecisionProblems(decision: unknown, kind: ReviewKind): string[] {
+  if (kind === 'produto') return ['no review de produto (use pros e cons)'];
+  const lists = (decision ?? {}) as Record<string, unknown>;
+  const extra = Object.keys(lists).filter((key) => key !== 'takeIf' && key !== 'skipIf');
+  const problems = extra.length > 0 ? [`campo fora do formato: ${extra.join(', ')} (use takeIf e skipIf)`] : [];
+  for (const key of ['takeIf', 'skipIf'] as const) {
+    const items = lists[key];
+    if (!Array.isArray(items) || items.length < 1 || items.length > 3) {
+      problems.push(`${key} com ${Array.isArray(items) ? items.length : 0} itens (de 1 a 3)`);
+      continue;
+    }
+    for (const item of items) {
+      if (typeof item !== 'string' || !item.trim()) problems.push(`${key}: item vazio`);
+      else if (/\]\(|\*\*/.test(item)) problems.push(`${key}: markdown em "${item}"`);
+      else if (item.includes('R$')) problems.push(`${key}: preço em "${item}"`);
+    }
+  }
+  return problems;
+}
+
+{
+  const report = (message: string) => reportError({ type: 'review', id: -1, slug: '__decision__', message });
+  const ok = { takeIf: ['Viaja só com bagagem de mão.'], skipIf: ['Despacha mala grande.'] };
+  const expectProblems = (decision: unknown, kind: ReviewKind, expected: number, label: string) => {
+    const problems = getDecisionProblems(decision, kind);
+    if (problems.length !== expected) report(`${label}: ${problems.length} problemas (${problems.join('; ')}), esperado ${expected}`);
+  };
+  expectProblems(ok, 'guia', 0, 'quadro certo');
+  expectProblems(ok, 'produto', 1, 'review de produto');
+  expectProblems({ takeIf: [], skipIf: ['a', 'b', 'c', 'd'] }, 'guia', 2, 'listas vazia e longa');
+  expectProblems({ ...ok, skipIf: ['Custa R$ 299,90.'] }, 'guia', 1, 'preço');
+  expectProblems({ ...ok, takeIf: ['Leia o [guia](/reviews/x).'] }, 'guia', 1, 'markdown');
+  expectProblems({ leveSe: ['a'], ...ok }, 'guia', 1, 'campo fora do formato');
 }
 
 if (
@@ -415,6 +453,12 @@ for (const review of reviews) {
         slug: review.slug,
         message: 'review de produto sem cta completo',
       });
+    }
+  }
+
+  if (review.decision !== undefined) {
+    for (const problem of getDecisionProblems(review.decision, kind)) {
+      reportError({ type: 'review', id: review.id, slug: review.slug, message: `quadro de decisão: ${problem}` });
     }
   }
 
