@@ -1359,6 +1359,7 @@ let familyHeads = 0;
 let discoverArticles = 0;
 let notedArticles = 0;
 let faqArticles = 0;
+let decisionArticles = 0;
 let bannerArticles = 0;
 let cutoutArticles = 0;
 let cutoutStoreLinks = 0;
@@ -1644,6 +1645,33 @@ for (const url of articleUrls) {
     assert.equal(links.length, urls.length, `${pagePath}: card de estilo com ${links.length} links para ${urls.length} endereços`);
     for (const link of links) assert.match(link, /\srel="sponsored noopener noreferrer"/, `${pagePath}: link do card de estilo sem sponsored`);
   });
+
+  // O quadro "Leve se / Passe se" (ArticleDecision): só no artigo com `decision`, uma vez, com os títulos do idioma e todas
+  // as frases, logo antes do FAQ (sem FAQ, depois da última seção do corpo) e fora de todo JSON-LD.
+  const decisionBoxes = [...body.matchAll(/<section\b[^>]*\sdata-article="decisao"/g)].map(({ index }) => ({ index, html: elementAt(body, index) }));
+  assert.equal(decisionBoxes.length, review.decision ? 1 : 0, `${pagePath}: ${decisionBoxes.length} quadros de decisão`);
+  if (review.decision) {
+    const [box] = decisionBoxes;
+    const boxText = textOf(box.html);
+    const articleCopy = getArticleCopy(locale);
+    assert.match(box.html, new RegExp(`^<section\\b[^>]*\\saria-label="${escapeHtml(articleCopy.decisionLabel)}"`), `${pagePath}: quadro de decisão sem o nome do idioma`);
+    for (const part of [articleCopy.decisionTakeIf, articleCopy.decisionSkipIf, ...review.decision.takeIf, ...review.decision.skipIf]) {
+      assert.ok(boxText.includes(part), `${pagePath}: quadro de decisão sem "${part}"`);
+    }
+    const decisionBodySections = getBodySections(review.contentSections ?? [], inferReviewKind(review));
+    const decisionFaqIndex = decisionBodySections.findIndex(({ heading }) => isFaqHeading(heading));
+    const sectionStart = (id: string) => body.search(new RegExp(`<section\\b[^>]*\\sid="${id}"`));
+    const previous = decisionBodySections[decisionFaqIndex >= 0 ? decisionFaqIndex - 1 : decisionBodySections.length - 1];
+    if (previous) assert.ok(sectionStart(previous.id) < box.index, `${pagePath}: quadro de decisão antes da seção ${previous.id}`);
+    if (decisionFaqIndex >= 0) {
+      assert.ok(box.index < sectionStart(decisionBodySections[decisionFaqIndex].id), `${pagePath}: quadro de decisão depois do FAQ`);
+    }
+    const schemas = JSON.stringify(jsonLdOf(html));
+    for (const part of [...review.decision.takeIf, ...review.decision.skipIf]) {
+      assert.ok(!schemas.includes(part), `${pagePath}: frase do quadro de decisão no JSON-LD: "${part}"`);
+    }
+    decisionArticles++;
+  }
 
   // As fotos com link de produto (`href` da imagem da seção): cada uma vira um link sponsored com o nome "Ver na
   // <loja>: <alt>" do idioma, e o "Ampliar" segue como botão logo depois do link, fora dele.
@@ -3733,5 +3761,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, os banners de campanha de ${bannerArticles}, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles}, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

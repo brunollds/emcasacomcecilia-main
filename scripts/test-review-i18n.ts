@@ -5,7 +5,7 @@ import path from 'node:path';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 
-import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale, type ContentSectionStyling } from '@/lib/content';
+import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale, type ContentSectionStyling, type ReviewDecision } from '@/lib/content';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { getArticleCopy, getReviewVideoLabels } from '@/components/review/articleCopy';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
@@ -29,6 +29,7 @@ interface ReviewSource {
   affiliate?: string;
   coupon?: string;
   cta?: { url?: string };
+  decision?: ReviewDecision;
   contentSections?: Array<{
     heading?: string;
     bullets?: string[];
@@ -95,6 +96,33 @@ function stylingFamilyProblems(family: ReviewSource[]): string[] {
         if (portugueseTexts.has(text)) problems.push(`${review.slug}: card de estilo ${index + 1} com texto igual ao português: "${text}"`);
       }
     });
+  }
+  return problems;
+}
+
+// O quadro "Leve se / Passe se" numa família: quando o português tem, toda versão tem, com o mesmo número de frases
+// em cada lista e nenhuma igual à do português; quando não tem, nenhuma versão tem.
+function decisionFamilyProblems(family: ReviewSource[]): string[] {
+  const portuguese = family.find((review) => resolveReviewLocale(review.locale) === 'pt');
+  if (!portuguese) return [];
+  const reference = portuguese.decision;
+  const problems: string[] = [];
+  for (const review of family) {
+    if (review === portuguese) continue;
+    const decision = review.decision;
+    if (!reference || !decision) {
+      if (reference) problems.push(`${review.slug}: sem o quadro de decisão que o português tem`);
+      if (decision) problems.push(`${review.slug}: quadro de decisão que o português não tem`);
+      continue;
+    }
+    for (const key of ['takeIf', 'skipIf'] as const) {
+      if (decision[key].length !== reference[key].length) {
+        problems.push(`${review.slug}: ${key} com ${decision[key].length} frases, o português tem ${reference[key].length}`);
+      }
+      for (const item of decision[key]) {
+        if (reference[key].includes(item)) problems.push(`${review.slug}: ${key} com frase igual ao português: "${item}"`);
+      }
+    }
   }
   return problems;
 }
@@ -441,6 +469,7 @@ const storeReferralLabel = (locale: Locale) =>
       `${key}: seção de FAQ não reconhecida em ${withoutFaq.map((review) => review.locale).join(', ')}`
     );
     assert.deepEqual(stylingFamilyProblems(family), [], `${key}: card de estilo diferente entre as versões`);
+    assert.deepEqual(decisionFamilyProblems(family), [], `${key}: quadro de decisão diferente entre as versões`);
     assert.deepEqual(imageLinkFamilyProblems(family), [], `${key}: link de produto das fotos diferente entre as versões`);
     const portugueseType = family.find((review) => resolveReviewLocale(review.locale) === 'pt')?.type;
     for (const review of family) {
@@ -482,6 +511,20 @@ const storeReferralLabel = (locale: Locale) =>
   );
   assert.equal(stylingFamilyProblems(stylingFamily(stylingCard('Com calça social.', 'sold in the kit'))).length, 1, 'texto em português falha');
   assert.equal(stylingFamilyProblems(stylingFamily(stylingCard('With dress pants.', 'sold in the kit', { occasion: 'Work.' }))).length, 1, 'campo a mais falha');
+
+  // O guarda do quadro de decisão, provado em famílias que falham e que passam.
+  const portugueseDecision: ReviewDecision = { takeIf: ['Viaja só com mala de mão.'], skipIf: ['Despacha mala grande.', 'Quer para o dia a dia.'] };
+  const decisionFamily = (portuguese: ReviewDecision | undefined, english: ReviewDecision | undefined): ReviewSource[] => [
+    { slug: 'pt', decision: portuguese },
+    { slug: 'en', locale: 'en', decision: english },
+  ];
+  const englishDecision: ReviewDecision = { takeIf: ['You fly carry-on only.'], skipIf: ['You check a big bag.', 'You want an everyday bag.'] };
+  assert.deepEqual(decisionFamilyProblems(decisionFamily(portugueseDecision, englishDecision)), [], 'quadro traduzido passa');
+  assert.deepEqual(decisionFamilyProblems(decisionFamily(undefined, undefined)), [], 'família sem quadro passa');
+  assert.equal(decisionFamilyProblems(decisionFamily(portugueseDecision, undefined)).length, 1, 'versão sem o quadro falha');
+  assert.equal(decisionFamilyProblems(decisionFamily(undefined, englishDecision)).length, 1, 'quadro que o português não tem falha');
+  assert.equal(decisionFamilyProblems(decisionFamily(portugueseDecision, { ...englishDecision, skipIf: ['You check a big bag.'] })).length, 1, 'frase a menos falha');
+  assert.equal(decisionFamilyProblems(decisionFamily(portugueseDecision, { ...englishDecision, takeIf: ['Viaja só com mala de mão.'] })).length, 1, 'frase em português falha');
 
   // O guarda dos links das fotos, provado em famílias que falham e que passam.
   const photoFamily = (english: ReviewSource['contentSections']): ReviewSource[] => [

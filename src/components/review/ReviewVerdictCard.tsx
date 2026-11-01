@@ -36,9 +36,9 @@ function StarRating({ rating, label }: { rating: number; label: string }): React
 }
 
 // Prós e contras são duas listas independentes, cada uma só com os itens dela: lado a lado no computador, uma
-// embaixo da outra no celular.
-function ProsConsList({ list, title, items }: { list: 'pros' | 'contras'; title: string; items: string[] }) {
-  const pros = list === 'pros';
+// embaixo da outra no celular. O quadro de decisão dos guias (ArticleDecision) usa as mesmas listas.
+export function ProsConsList({ list, title, items }: { list: 'pros' | 'contras' | 'leve' | 'passe'; title: string; items: string[] }) {
+  const pros = list === 'pros' || list === 'leve';
   const Icon = pros ? CheckCircle2 : XCircle;
   return (
     <div className="overflow-hidden rounded-2xl border-2 border-marinho bg-white">

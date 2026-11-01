@@ -69,6 +69,10 @@ export type ArticleCopy = {
   listenStop: string;
   // Selo dos banners de campanha da loja entre as seções do artigo (storeBanners.ts).
   adLabel: string;
+  // Quadro de decisão dos guias (ArticleDecision): o nome do bloco para o leitor de tela e os títulos das duas listas.
+  decisionLabel: string;
+  decisionTakeIf: string;
+  decisionSkipIf: string;
 };
 
 const articleCopy: Record<Locale, ArticleCopy> = {
@@ -122,6 +126,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'Continuar',
     listenStop: 'Parar',
     adLabel: 'Publicidade',
+    decisionLabel: 'Leve ou passe',
+    decisionTakeIf: 'Leve se',
+    decisionSkipIf: 'Passe se',
   },
   en: {
     kindLabel: { produto: 'Product review', guia: 'Guide', editorial: 'Editorial' },
@@ -173,6 +180,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'Resume',
     listenStop: 'Stop',
     adLabel: 'Advertisement',
+    decisionLabel: 'Buy it or skip it',
+    decisionTakeIf: 'Buy it if',
+    decisionSkipIf: 'Skip it if',
   },
   es: {
     kindLabel: { produto: 'Reseña de producto', guia: 'Guía', editorial: 'Editorial' },
@@ -224,6 +234,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'Reanudar',
     listenStop: 'Detener',
     adLabel: 'Publicidad',
+    decisionLabel: 'Comprar o pasar',
+    decisionTakeIf: 'Cómpralo si',
+    decisionSkipIf: 'Mejor pásalo si',
   },
   fr: {
     kindLabel: { produto: 'Test de produit', guia: 'Guide', editorial: 'Éditorial' },
@@ -275,6 +288,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'Reprendre',
     listenStop: 'Arrêter',
     adLabel: 'Publicité',
+    decisionLabel: 'Le prendre ou pas',
+    decisionTakeIf: 'À prendre si',
+    decisionSkipIf: 'À éviter si',
   },
   de: {
     kindLabel: { produto: 'Produkttest', guia: 'Ratgeber', editorial: 'Redaktionell' },
@@ -326,6 +342,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'Fortsetzen',
     listenStop: 'Stopp',
     adLabel: 'Anzeige',
+    decisionLabel: 'Kaufen oder lassen',
+    decisionTakeIf: 'Zugreifen, wenn',
+    decisionSkipIf: 'Lieber lassen, wenn',
   },
   it: {
     kindLabel: { produto: 'Recensione di prodotto', guia: 'Guida', editorial: 'Editoriale' },
@@ -377,6 +396,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'Riprendi',
     listenStop: 'Interrompi',
     adLabel: 'Pubblicità',
+    decisionLabel: 'Prenderlo o no',
+    decisionTakeIf: 'Prendilo se',
+    decisionSkipIf: 'Lascia perdere se',
   },
   ko: {
     kindLabel: { produto: '제품 리뷰', guia: '가이드', editorial: '에디토리얼' },
@@ -428,6 +450,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: '계속 듣기',
     listenStop: '정지',
     adLabel: '광고',
+    decisionLabel: '살까 말까',
+    decisionTakeIf: '이런 분께 추천',
+    decisionSkipIf: '이런 분은 패스',
   },
   ja: {
     kindLabel: { produto: '製品レビュー', guia: 'ガイド', editorial: 'エディトリアル' },
@@ -479,6 +504,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: '再開',
     listenStop: '停止',
     adLabel: '広告',
+    decisionLabel: '買うか見送るか',
+    decisionTakeIf: 'こんな人におすすめ',
+    decisionSkipIf: 'こんな人は見送り',
   },
   'zh-hant': {
     kindLabel: { produto: '產品評測', guia: '指南', editorial: '編輯專題' },
@@ -530,6 +558,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: '繼續',
     listenStop: '停止',
     adLabel: '廣告',
+    decisionLabel: '買或不買',
+    decisionTakeIf: '這些情況適合買',
+    decisionSkipIf: '這些情況可以略過',
   },
   'zh-hans': {
     kindLabel: { produto: '产品评测', guia: '指南', editorial: '编辑专题' },
@@ -581,6 +612,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: '继续',
     listenStop: '停止',
     adLabel: '广告',
+    decisionLabel: '买或不买',
+    decisionTakeIf: '这些情况适合买',
+    decisionSkipIf: '这些情况可以跳过',
   },
 };
 

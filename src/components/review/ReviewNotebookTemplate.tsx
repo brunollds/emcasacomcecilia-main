@@ -23,6 +23,7 @@ import { isStepHeading } from './couponCopyLocale';
 import { GuideTimeline } from './GuideTimeline';
 import { ArticleCodeCopyProvider } from './HighlightCoupon';
 import { ArticleHeader } from './article/ArticleHeader';
+import { ArticleDecision } from './article/ArticleDecision';
 import { ArticleEnd } from './article/ArticleEnd';
 import { ArticlePromoBanner } from './article/ArticlePromoBanner';
 
@@ -166,13 +167,11 @@ export function ReviewNotebookTemplate({
   // O que ainda não começou vai escondido no HTML e aparece no navegador na hora do início.
   const now = new Date();
   const banners = store ? getArticleStoreBanners(store.slug, review.slug, now) : {};
-  const bannerPlaces = placeStoreBanners(
-    bodySections.map(({ id }) => id),
-    bodySections.findIndex(({ heading }) => isFaqHeading(heading)),
-  );
-  const bannerSlots: Record<string, { before?: React.ReactNode; after?: React.ReactNode }> = {};
+  const faqIndex = bodySections.findIndex(({ heading }) => isFaqHeading(heading));
+  const bannerPlaces = placeStoreBanners(bodySections.map(({ id }) => id), faqIndex);
+  const sectionSlots: Record<string, { before?: React.ReactNode; after?: React.ReactNode }> = {};
   if (store && banners.top && bannerPlaces.top) {
-    bannerSlots[bannerPlaces.top] = {
+    sectionSlots[bannerPlaces.top] = {
       after: (
         <ArticlePromoBanner
           banner={banners.top}
@@ -185,8 +184,8 @@ export function ReviewNotebookTemplate({
     };
   }
   if (store && banners.mid && bannerPlaces.mid) {
-    bannerSlots[bannerPlaces.mid] = {
-      ...bannerSlots[bannerPlaces.mid],
+    sectionSlots[bannerPlaces.mid] = {
+      ...sectionSlots[bannerPlaces.mid],
       before: (
         <ArticlePromoBanner
           banner={banners.mid}
@@ -197,6 +196,19 @@ export function ReviewNotebookTemplate({
         />
       ),
     };
+  }
+
+  // O quadro "Leve se / Passe se" (só guia e comparativo; o validate:content barra no review de produto): logo antes
+  // do FAQ, acima do banner do meio. Sem FAQ, depois da última seção do corpo.
+  if (review.decision && bodySections.length > 0) {
+    const decision = <ArticleDecision decision={review.decision} copy={copy} />;
+    if (faqIndex >= 0) {
+      const faqId = bodySections[faqIndex].id;
+      sectionSlots[faqId] = { ...sectionSlots[faqId], before: <>{decision}{sectionSlots[faqId]?.before}</> };
+    } else {
+      const lastId = bodySections[bodySections.length - 1].id;
+      sectionSlots[lastId] = { ...sectionSlots[lastId], after: <>{sectionSlots[lastId]?.after}{decision}</> };
+    }
   }
 
   return (
@@ -300,7 +312,7 @@ export function ReviewNotebookTemplate({
                         storeBrand={store?.brand}
                         locale={couponCopyLocale}
                         noteLabels={noteLabels}
-                        slots={bannerSlots}
+                        slots={sectionSlots}
                       />
                       {stepSections.length > 0 && (
                         <div className="mt-12">
@@ -330,7 +342,7 @@ export function ReviewNotebookTemplate({
                             storeBrand={store?.brand}
                             locale={couponCopyLocale}
                             noteLabels={noteLabels}
-                            slots={bannerSlots}
+                            slots={sectionSlots}
                           />
                         </div>
                       )}
@@ -349,7 +361,7 @@ export function ReviewNotebookTemplate({
                       storeBrand={store?.brand}
                       locale={couponCopyLocale}
                       noteLabels={noteLabels}
-                      slots={bannerSlots}
+                      slots={sectionSlots}
                     />
                   )}
 
