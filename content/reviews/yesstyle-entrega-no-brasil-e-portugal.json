@@ -96,7 +96,7 @@
     {
       "heading": "Como se conta o prazo",
       "paragraphs": [
-        "Todo pedido sai do armazém da YesStyle em Hong Kong. O prazo total é o tempo para o item ficar disponível mais o prazo do envio, e a loja conta os dois em dias úteis, no horário de Hong Kong (GMT+8).",
+        "Todo pedido sai do armazém da YesStyle em Hong Kong. O prazo soma dois tempos: o item sair do armazém e o envio. A loja conta os dois em dias úteis, no horário de Hong Kong (GMT+8).",
         "Conta nossa, somando os prazos da loja (1 a 3 dias úteis para sair do armazém e 10 a 15 de envio): em Portugal, um pedido só com itens em estoque leva de 11 a 18 dias úteis.",
         "Se o pagamento precisar de verificação, a contagem começa no dia em que o pedido é aprovado. Feriados e picos de pedidos também podem atrasar a saída."
       ],
@@ -111,7 +111,7 @@
     {
       "heading": "Em estoque ou Aguardando estoque: o que diz a página do produto",
       "paragraphs": [
-        "A página de cada produto mostra a disponibilidade ao lado da versão. Ela diz quando o item sai do armazém, não quando ele chega."
+        "A página de cada produto mostra quando o item sai do armazém, não quando ele chega: a disponibilidade fica ao lado da versão."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-pt-2026-10-13.webp",
@@ -140,7 +140,7 @@
       },
       "bullets": [
         "**Portugal:** o IVA de 23% já está no preço dos produtos e é somado ao frete no checkout. Desde 1º de julho de 2026, a União Europeia cobra € 3 por categoria aduaneira em pacotes abaixo de € 150, e a YesStyle diz que, atualmente, paga essa taxa pelo cliente.",
-        "**Brasil:** a YesStyle não tem página de imposto para o Brasil e não está no Remessa Conforme (lista da Receita Federal). Fora do programa, a Receita cobra Imposto de Importação de 60%, sem desconto, sobre o produto, o frete e o seguro, mais ICMS de 17% a 20% conforme o estado, depois que o pacote chega."
+        "**Brasil:** a YesStyle não tem página de imposto para o Brasil e não está no Remessa Conforme (lista da Receita Federal). Fora do programa, a Receita cobra Imposto de Importação de 60%, sem desconto, sobre o produto, o frete e o seguro, mais ICMS de 17% a 20%, variando por estado, depois que o pacote chega."
       ],
       "postParagraphs": [
         "Um exemplo pela regra da Receita, num pedido de US$ 60 somando produto e frete: o Imposto de Importação é de US$ 36. O ICMS é calculado por dentro: com 20%, a base vira US$ 120 (os US$ 96 divididos por 0,8), e o ICMS fica em US$ 24. O imposto soma US$ 60, o mesmo valor do pedido; com ICMS de 17%, cerca de US$ 56."

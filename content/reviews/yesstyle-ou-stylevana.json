@@ -37,7 +37,7 @@
     {
       "heading": "Quem entrega no Brasil",
       "paragraphs": [
-        "As tabelas juntam o que cada loja publica nas páginas oficiais, lidas em 12/10/2026, sem comparar preço. No Brasil, a Jolse publica frete; a YesStyle não publica frete nem prazo, mas enviou um pedido nosso em setembro; o Stylevana também não os publica, e a Olive Young Global cita o país entre os sem envio. Em Portugal, as cinco lojas entregam, e todas publicam a partir de quanto o frete é grátis."
+        "No Brasil, só a Jolse publica o frete. A YesStyle não publica frete nem prazo, mas enviou um pedido nosso em setembro; o Stylevana também não os publica, e a Olive Young Global cita o país entre os sem envio. Em Portugal, as cinco lojas entregam, e todas publicam a partir de quanto o frete é grátis."
       ],
       "comparisonTable": {
         "caption": "Envio ao Brasil da YesStyle, da Jolse e da StyleKorean, pelas páginas oficiais, pela regra da Receita Federal e por um pedido nosso à YesStyle.",
@@ -70,7 +70,7 @@
       },
       "postParagraphs": [
         "A YesStyle mantém no ar o aviso de julho que pausou os novos pedidos ao Brasil, sem aviso de retomada. A Olive Young Global cita o Brasil entre os países sem envio.",
-        "O Stylevana não publica frete nem prazo para o Brasil, e a lista de destinos dele varia conforme a versão: a em inglês não traz o Brasil, e as traduções mais antigas ainda trazem. A central de ajuda dele também cita o Brasil, num artigo dela, entre as regiões em que o imposto de importação não está incluído no checkout."
+        "O Stylevana não publica frete nem prazo para o Brasil, e a lista de destinos dele muda de uma versão para outra: a em inglês não traz o Brasil, e as traduções mais antigas ainda trazem. A central de ajuda dele também cita o Brasil, num artigo dela, entre as regiões em que o imposto de importação não está incluído no checkout."
       ]
     },
     {
@@ -218,7 +218,7 @@
     {
       "heading": "StyleKorean: frete grátis por país e limite do pedido",
       "paragraphs": [
-        "Todos os pedidos da StyleKorean saem de um armazém na Coreia e vão à transportadora em até 5 dias úteis. O frete é calculado por peso e não vem no preço do produto. O frete grátis vale só para produtos de beleza: álbuns e produtos de K-pop ficam fora.",
+        "Na StyleKorean, o frete é calculado por peso e não vem no preço do produto: os pedidos saem de um armazém na Coreia e vão à transportadora em até 5 dias úteis. O frete grátis vale só para produtos de beleza: álbuns e produtos de K-pop ficam fora.",
         "O pedido tem limite de US$ 500, sem o frete; acima disso, a loja manda dividir em dois pedidos. Ela também não entrega em caixa postal nem em endereço militar (APO, FPO e DPO)."
       ],
       "comparisonTable": {
@@ -305,7 +305,7 @@
     {
       "heading": "YesStyle ou Shopee",
       "paragraphs": [
-        "A Shopee é um marketplace de vendedores: a devolução vai pela Garantia Shopee, em até 7 dias do recebimento, pelo aplicativo, e a Shopee está no Remessa Conforme. A YesStyle, a Olive Young, a StyleKorean e a Jolse não estão no programa (listas da Receita Federal).",
+        "A Shopee está no Remessa Conforme e a YesStyle não, e isso muda o imposto. A Shopee é um marketplace, com devolução em até 7 dias do recebimento pela Garantia Shopee, pelo aplicativo; a YesStyle, a Olive Young, a StyleKorean e a Jolse ficam fora do programa (listas da Receita Federal).",
         "Isso muda o imposto. No Remessa Conforme, o Imposto de Importação é zero até US$ 50 e, acima disso, de 60% menos US$ 30; fora dele, é de 60%, sem desconto. O ICMS de 17% a 20% vale nos dois casos, e, fora do programa, os impostos são cobrados depois que o pacote chega."
       ]
     },
@@ -323,6 +323,7 @@
     },
     {
       "heading": "Qual escolher",
+      "emphasis": "Pelos números da tabela, para quem mora no Brasil a escolha é a Jolse, porque é a única que publica frete para o país.",
       "bullets": [
         "Quem mora no Brasil: a Jolse é a única das cinco que publica frete para o país (US$ 9,99, grátis acima de US$ 60), e o imposto é pago na entrega. A YesStyle enviou um pedido nosso em setembro, mas não publica frete nem prazo.",
         "Quem mora em Portugal: as cinco lojas entregam e todas publicam a partir de quanto o frete é grátis, então a escolha passa pelo imposto e pela devolução, nas tabelas acima.",

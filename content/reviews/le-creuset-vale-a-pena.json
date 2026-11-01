@@ -33,11 +33,11 @@
     {
       "heading": "O que a Le Creuset diz sobre o ferro fundido: indução, forno, lava-louças, micro-ondas e uso",
       "paragraphs": [
-        "A panela serve no fogão, inclusive de indução, e no forno, com cuidado com o esmalte, e a garantia é vitalícia; as regras abaixo vêm das páginas de cuidado das marcas."
+        "A panela vai ao fogão e ao forno, e o limite está no puxador: confira o material antes de ligar o forno."
       ],
       "bullets": [
-        "Indução: o ferro fundido pode ser usado em todas as fontes de calor, incluindo a indução.",
-        "Micro-ondas: o ferro fundido não deve ser usado no micro-ondas.",
+        "Indução: o ferro fundido vai a todas as fontes de calor, incluindo a indução.",
+        "Micro-ondas: o ferro fundido não vai ao micro-ondas.",
         "Forno com puxador fenólico preto: até 250 °C na linha Signature e até 200 °C na linha Tradicional.",
         "Forno com alça de ferro fundido ou puxador de aço inox: qualquer temperatura.",
         "Alça ou puxador de madeira: não vai ao forno nem à lava-louças.",
@@ -97,7 +97,7 @@
         ]
       },
       "postParagraphs": [
-        "As duas vão à indução e ao forno, e as duas excluem a alça de madeira. O limite de temperatura muda com o puxador e a linha, no detalhe da tabela. Se o preço decidir, compare na data da compra: a Staub não aparece no catálogo da Let's Eat It. Ceraflame (cerâmica) e Tramontina (ferro com antiaderente interno) ficam fora do comparativo por serem outro material e revestimento."
+        "As duas vão à indução e ao forno, e as duas excluem a alça de madeira. O limite de temperatura depende do puxador e da linha: o seu está na tabela. Se o preço decidir, compare na data da compra: a Staub não aparece no catálogo da Let's Eat It. Ceraflame (cerâmica) e Tramontina (ferro com antiaderente interno) ficam fora do comparativo por serem outro material e revestimento."
       ]
     },
     {
@@ -161,6 +161,7 @@
       "paragraphs": [
         "Pelo que a marca publica, vale para quem cozinha no fogão ou na indução, usa o forno e aceita os cuidados: calor médio ou baixo, nada de micro-ondas e nada de água fria na panela quente, porque a garantia vitalícia não cobre choque térmico nem queda."
       ],
+      "emphasis": "Se fosse para a minha casa, eu levaria a Signature, porque o puxador fenólico vai até 250 °C.",
       "bullets": [
         "Vale: quer uma panela para fogão, indução e forno e vai respeitar o limite do puxador. Se o seu forno passa de 200 °C, prefira a Signature (fenólico até 250 °C) ou o puxador de inox (qualquer temperatura), porque o fenólico da Tradicional vai só até 200 °C.",
         "Pense melhor: quer usar no micro-ondas, ou vai à lava-louças sempre e não aceita que o acabamento possa desbotar.",
@@ -201,6 +202,15 @@
   },
   "coupon": "MAUAD",
   "affiliate": "letseatit",
+  "decision": {
+    "takeIf": [
+      "Você quer uma panela para fogão, indução e forno e vai respeitar o limite do puxador."
+    ],
+    "skipIf": [
+      "Você quer usar no micro-ondas.",
+      "Você lava sempre na lava-louças e não aceita que o acabamento possa desbotar."
+    ]
+  },
   "editorialNote": "Podemos receber comissão pelos links da Let's Eat It. Não testamos as panelas: as regras são das marcas.",
   "relatedArticles": [
     {

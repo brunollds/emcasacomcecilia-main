@@ -53223,7 +53223,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que observar no corpo da poltrona",
         "paragraphs": [
-          "Dá para avaliar quase tudo com uma fita métrica e alguns minutos sentada, na loja ou na ficha técnica do anúncio. Estes são os pontos que fazem diferença no dia a dia:"
+          "O que decide é o apoio de braço, costas, cabeça e pés ao mesmo tempo: dá para avaliar quase tudo com uma fita métrica e alguns minutos sentada. Estes são os pontos que fazem diferença no dia a dia:"
         ],
         "bullets": [
           "Braços firmes e na altura certa. O antebraço apoiado sustenta o peso do bebê. Braço baixo demais ou macio demais faz o ombro e o pescoço trabalharem a mamada inteira. Almofada de amamentação ajuda, mas não substitui um braço bem posicionado.",
@@ -53273,10 +53273,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Poltrona de amamentação para quarto pequeno",
         "paragraphs": [
-          "Quarto de bebê costuma ser o menor da casa, e a poltrona disputa espaço com berço, cômoda e trocador. Antes de comprar, marque no chão com fita crepe o espaço que ela ocupa aberta, não fechada.",
+          "Quarto de bebê costuma ser o menor da casa: marque no chão com fita crepe o espaço que a poltrona ocupa aberta, não fechada.",
           "Na poltrona com puff, o puff solto fica no chão o tempo todo e vira obstáculo no escuro, na hora de levar o bebê ao berço. Uma poltrona compacta com puff que mostramos abaixo mede 90 cm de largura e 68 cm de profundidade, e o puff soma mais 45 por 38 cm.",
           "Na reclinável, o apoio de pés sai da própria poltrona e recolhe quando fechada, mas aberta ela pede bem mais espaço. A DAMIE 2.0 mede 106 cm de altura, 89 cm de largura e 95 cm de profundidade, e totalmente reclinada chega a 174 cm de comprimento. A versão com giro precisa ainda de folga nas laterais para girar sem bater na parede ou na cômoda.",
-          "Confira também a passagem. Segundo a DAMIE, a poltrona chega em caixa e, se a porta tiver menos de 80 cm, dá para passar primeiro o encosto e depois a base, o que funciona em portas a partir de 65 cm. E as reclináveis elétricas precisam de tomada perto: planeje o lugar para o fio não atravessar o caminho."
+          "Confira também a passagem. A DAMIE diz que a poltrona chega em caixa e, se a porta tiver menos de 80 cm, dá para passar primeiro o encosto e depois a base, o que funciona em portas a partir de 65 cm. E as reclináveis elétricas precisam de tomada perto: planeje o lugar para o fio não atravessar o caminho."
         ],
         "image": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
         "imageAlt": "Desenho com as medidas da poltrona reclinável DAMIE 2.0 fechada e totalmente reclinada",
@@ -53287,7 +53287,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As três faixas de preço, da poltrona barata à reclinável elétrica",
         "paragraphs": [
-          "No mercado, a poltrona de amamentação se divide em três grupos. Não existe um certo para todo mundo: depende do orçamento, do espaço e de quanto tempo você pretende usar a poltrona depois que a fase de amamentação passar. Os preços abaixo mudam com frequência.",
+          "A poltrona de amamentação se divide em três grupos, e nenhum é certo para todo mundo: depende do orçamento, do espaço e do uso depois da amamentação. Os preços abaixo mudam com frequência.",
           "Poltrona fixa com puff. É a porta de entrada. Um exemplo é a poltrona com puff da Dreamy House vendida na Amazon: estrutura de eucalipto, revestimento em suede, puff com pés de rosca, sem balanço, por R$ 469 (R$ 445,55 no Pix). Atende quem precisa gastar pouco, mas a garantia do fabricante é de 3 meses, e há avaliações de compradores relatando assento que deforma rápido. Leia as avaliações antes de decidir.",
           "Poltrona com balanço e puff. É a mais procurada nos marketplaces. No Mercado Livre, a maioria dos modelos com balanço e puff estava entre R$ 550 e R$ 1.000. A Áquila, com balanço e puff, é um dos modelos mais conhecidos e custava R$ 862 na versão bege. Antes de comprar, compare medidas, revestimento, prazo de garantia e as avaliações sobre barulho no balanço.",
           "Reclinável elétrica com giro e balanço. É o grupo da DAMIE, que vende a reclinável elétrica com base de giro e balanço nas versões 1.0 e 2.0, de R$ 4.299 a R$ 5.699 conforme o revestimento. Você reclina o encosto e levanta o apoio de pés por botão, sem fazer força, até 145°, e ainda tem giro de 180° e balanço. A marca dá 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. Custa bem mais, e a lógica é outra. A poltrona de amamentação tradicional costuma ser usada por um ou dois anos e depois fica no quarto da criança como decoração. A reclinável continua na sala depois da amamentação e, com opcionais como mesa de apoio, luminária e carregador de celular, vira canto de trabalho, leitura ou cinema."
@@ -53437,6 +53437,8 @@ export const reviewsData: unknown[] = [
           "Se você quer uma poltrona para continuar usando depois, na sala, para ler, trabalhar ou ver filme, ou se reclinar sem esforço é importante para você, a reclinável elétrica com giro e balanço é a escolha que vai durar mais na casa.",
           "Antes de fechar a compra, passe por este checklist:"
         ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela vira poltrona de sala depois da amamentação.",
+        "emphasisAfterParagraph": 3,
         "bullets": [
           "Medi o espaço com a poltrona aberta, contando o puff ou o apoio de pés?",
           "O braço fica na altura certa para apoiar o bebê no peito?",
@@ -53474,6 +53476,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você quer uma poltrona que continue útil na sala depois da amamentação, para ler, trabalhar ou ver filme.",
+        "Você quer apoio de braço, costas, cabeça e pés ao mesmo tempo nas mamadas longas.",
+        "O quarto comporta a poltrona aberta, contando o puff ou o apoio de pés."
+      ],
+      "skipIf": [
+        "O uso vai ser só na fase de amamentação e o orçamento está apertado: uma poltrona fixa ou com balanço e puff cumpre o papel.",
+        "Não há tomada perto do lugar escolhido: a elétrica fica de fora."
+      ]
+    },
     "cta": {
       "text": "Se a reclinável com giro e balanço é a sua escolha, monte a sua no site da DAMIE e use o cupom CECILIA12 para ter 12% OFF.",
       "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
@@ -53534,7 +53547,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual a diferença entre poltrona de amamentação e poltrona reclinável",
         "paragraphs": [
-          "A poltrona de amamentação é pensada para os primeiros meses do bebê. O assento tem altura média, os braços são largos para apoiar o antebraço e o encosto fica numa inclinação fixa, mais reta. Muitos modelos têm base de balanço e vêm com um puff separado para os pés. É o móvel que costuma aparecer no quarto do bebê nas listas de enxoval.",
+          "A poltrona de amamentação é a dos primeiros meses do bebê; a reclinável, a do descanso de anos. O assento tem altura média, os braços são largos para apoiar o antebraço e o encosto fica numa inclinação fixa, mais reta. Muitos modelos têm base de balanço e vêm com um puff separado para os pés. É o móvel que costuma aparecer no quarto do bebê nas listas de enxoval.",
           "A poltrona reclinável foi feita para descansar. O encosto deita e o apoio de pés sobe da própria estrutura, por alavanca ou por motor. Existem reclináveis de base fixa, que só reclinam, e reclináveis com base de giro e balanço, que juntam as duas coisas. Elas costumam ficar na sala, mas muita gente leva uma para o quarto do bebê ou amamenta na da sala, como foi o nosso caso.",
           "No meio do caminho existem poltronas de amamentação reclináveis, vendidas nos marketplaces com encosto de algumas posições e puff. São mais baratas que as reclináveis de sala, mas a reclinação costuma ser manual. Antes de comprar uma delas, leia as avaliações procurando por barulho, trava e firmeza do encosto."
         ]
@@ -53614,7 +53627,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual reclinável da DAMIE escolher para amamentar",
         "paragraphs": [
-          "A DAMIE vende a mesma poltrona reclinável com quatro bases diferentes, nas versões 1.0 e 2.0. Para amamentar, a escolha está mais na base do que no modelo. Os preços abaixo variam conforme o revestimento."
+          "A DAMIE vende a mesma poltrona em quatro bases, e para amamentar a escolha está na base, não no modelo. Os preços abaixo variam por revestimento."
         ],
         "comparisonTable": {
           "caption": "Bases da reclinável DAMIE, segundo a tabela da marca, com preços consultados em 7 de outubro de 2026.",
@@ -53652,9 +53665,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na data da consulta, as versões 1.0 e 2.0 tinham a mesma faixa de preço. A 2.0 traz quatro melhorias, segundo a marca: almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos fazem diferença na amamentação, porque guardam paninho, fralda e garrafa de água ao alcance da mão.",
+          "Na data da consulta, as versões 1.0 e 2.0 tinham a mesma faixa de preço. A 2.0 traz quatro melhorias, informa a marca: almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos fazem diferença na amamentação, porque guardam paninho, fralda e garrafa de água ao alcance da mão.",
           "Aqui em casa, a primeira reclinável foi elétrica, em linho bege, e acompanhou toda a amamentação do Ian. Hoje temos também a 2.0 elétrica com giro e balanço, em corino caramelo. O giro foi o recurso que eu mais subestimei, e o balanço tem ajudado a acalmar as crianças.",
-          "Todas as reclináveis da DAMIE têm 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. A poltrona chega em caixa e, segundo a marca, passa em portas a partir de 65 cm se você levar primeiro o encosto e depois a base."
+          "Todas as reclináveis da DAMIE têm 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. A poltrona chega em caixa e passa em portas a partir de 65 cm, informa a marca, se você levar primeiro o encosto e depois a base."
         ],
         "links": [
           {
@@ -53761,6 +53774,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual poltrona escolher para amamentação",
+        "emphasis": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela descansa nas madrugadas e continua na sala depois.",
         "bullets": [
           "Escolha a poltrona de amamentação com balanço e puff se o orçamento está apertado, se o quarto do bebê tem espaço para o puff e se a poltrona vai ser usada só nessa fase.",
           "Escolha uma poltrona de amamentação reclinável de marketplace se você quer reclinar um pouco sem pagar o preço de uma reclinável de sala, sabendo que a reclinação costuma ser manual.",
@@ -53796,6 +53810,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você quer descansar de verdade nas madrugadas e ninar sem levantar.",
+        "Você quer uma poltrona que continue na sala depois da amamentação.",
+        "Você prefere reclinar e fechar o apoio de pés pelo botão, sem esforço de pernas."
+      ],
+      "skipIf": [
+        "O orçamento só cobre a fase de amamentação: a poltrona de amamentação com balanço e puff custa menos.",
+        "Você quer levantar direto, sem fechar o apoio de pés antes: a poltrona de amamentação é mais simples nessa hora."
+      ]
+    },
     "cta": {
       "text": "Se a reclinável elétrica com giro e balanço é a sua escolha, monte a sua no site da DAMIE e use o cupom CECILIA12 para ter 12% OFF.",
       "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
@@ -53867,7 +53892,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando começa a Black Friday da Dolce Gusto",
         "paragraphs": [
-          "A NESCAFÉ Dolce Gusto costuma anunciar a Black Friday perto da virada para novembro, pela Nestlé Brasil. Em 2023, a campanha valeu o mês inteiro no site oficial, com uma oferta diferente a cada dia. Em 2024, as promoções foram de 1º a 30 de novembro, com \"descontos que vão até 50%\", segundo a Nestlé.",
+          "A NESCAFÉ Dolce Gusto costuma anunciar a Black Friday perto da virada para novembro, pela Nestlé Brasil. Em 2023, a campanha valeu o mês inteiro no site oficial, com uma oferta diferente a cada dia. Em 2024, as promoções foram de 1º a 30 de novembro, com \"descontos que vão até 50%\", anunciou a Nestlé.",
           "Para 2026, a Nestlé ainda não anunciou nada. Se o padrão se repetir, as ofertas começam em 1º de novembro, mas isso é o histórico, não uma promessa da loja.",
           "De 2025, sem comunicado oficial da Nestlé, este guia usa 2023 e 2024 como referência."
         ],
@@ -53973,7 +53998,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A tabela mostra duas coisas. Nas máquinas Genio S, o preço de outubro já estava um pouco abaixo do anunciado na Black Friday de 2024, como mostra a tabela. Nas cápsulas foi o contrário: a régua de 2024 segue bem abaixo das promoções de outubro.",
+          "A tabela mostra duas coisas. Nas máquinas Genio S, o preço de outubro já estava um pouco abaixo do anunciado na Black Friday de 2024. Nas cápsulas foi o contrário: a régua de 2024 segue bem abaixo das promoções de outubro.",
           "Se você está de olho numa máquina, compare o preço de novembro com esta tabela antes de concluir que a Black Friday compensa. Se o plano é encher a despensa de cápsulas, os preços de 2024 dão uma boa régua para avaliar a campanha deste ano."
         ]
       },
@@ -54010,7 +54035,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom CECI na Black Friday",
         "paragraphs": [
-          "O **CECI** é o cupom da parceria do Em Casa com Cecília com a loja oficial. Ele dá 10% OFF em compras a partir de R$ 100.",
+          "O **CECI**, cupom da parceria com a loja oficial, dá 10% OFF a partir de R$ 100.",
           "Na Black Friday, quem decide é o carrinho. Algumas campanhas aceitam o cupom junto com o preço promocional, outras não. Monte o pedido, aplique o CECI no campo do cupom e veja se os 10% aparecem no resumo antes de pagar. Se não aparecerem, confira se o pedido passa de R$ 100 e se o item está numa campanha que não soma com cupom.",
           "Três regras do site valem para qualquer promoção: ela pode acabar sem aviso, o item no carrinho não garante o desconto se a promoção terminar, e nenhuma promoção soma com o resgate de pontos do Club. A data do último teste do CECI fica na página do cupom."
         ],
@@ -54125,14 +54150,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. A DAMIE anunciou a campanha antes da data, e o que ela mostrava em outubro ajuda a conferir se a oferta é boa.",
           "Não encontramos anúncio oficial da DAMIE sobre Black Friday em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
-          "O que dá para mostrar é o que a DAMIE oferecia antes da campanha. Antes da campanha, a faixa do site prometia 10% de desconto no Pix à vista, até 12x sem juros, 15% de giftback em 45 dias, frete grátis para o Sul e o Sudeste e 30 dias para trocar ou devolver. As reclináveis estavam com R$ 1.000 de desconto e vinham com carregador USB e porta-copos de brinde, que o site põe sozinho no carrinho de qualquer poltrona reclinável ou cinema.",
+          "Antes da campanha, a faixa do site prometia 10% de desconto no Pix à vista, até 12x sem juros, 15% de giftback em 45 dias, frete grátis para o Sul e o Sudeste e 30 dias para trocar ou devolver. As reclináveis estavam com R$ 1.000 de desconto e vinham com carregador USB e porta-copos de brinde, que o site põe sozinho no carrinho de qualquer poltrona reclinável ou cinema.",
           "Em 2026, a DAMIE anunciou a campanha antes da data: a seção abaixo traz o que a página de ofertas mostrava."
         ]
       },
       {
         "heading": "O que a DAMIE anunciou para a Black Friday 2026",
         "paragraphs": [
-          "Na leitura da campanha, o site da DAMIE abria com a faixa \"A Black Friday chegou antes\", e a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) listava as condições da campanha. Todas valem só até o dia da Black Friday. A Cyber Monday fica depois desse prazo.",
+          "A campanha vale só até o dia da Black Friday: o site abria com a faixa \"A Black Friday chegou antes\", e a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) listava as condições. A Cyber Monday fica depois desse prazo.",
           "Os preços de venda das poltronas, do sofá e da Poltrona Cinema eram os mesmos de antes da campanha. Por isso, o desconto de R$ 1.000 nas poltronas não é novo: é o que já vinha no preço em outubro. O que mudou foi o brinde, que agora inclui a massagem."
         ],
         "bullets": [
@@ -54191,7 +54216,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de outubro para comparar",
         "paragraphs": [
-          "Estes eram os preços das poltronas reclináveis no site da DAMIE antes da campanha. As versões 1.0 e 2.0 tinham o mesmo preço, que muda conforme o revestimento: a tabela mostra o de suede, bouclé e linho, os mais baratos, e o de couro, o mais caro."
+          "Antes da campanha, as reclináveis 1.0 e 2.0 tinham o mesmo preço, que muda com o revestimento: a tabela mostra o de suede, bouclé e linho, os mais baratos, e o de couro, o mais caro."
         ],
         "comparisonTable": {
           "caption": "Poltronas reclináveis DAMIE 1.0 e 2.0 no site oficial em 8 de outubro de 2026, em suede, bouclé ou linho. O corino custava de R$ 80 a R$ 100 a mais; o couro está na última coluna. Os preços mudam sem aviso.",
@@ -54293,7 +54318,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na Aurora, o desconto era de R$ 2.000; na Levita, de R$ 1.500 em linho e R$ 2.000 em couro. A Poltrona Cinema tinha o menor: R$ 500 na de 2 lugares. Segundo a página de formas de pagamento da DAMIE, o Pix à vista dá 10% de desconto também nessas linhas."
+          "Na Aurora, o desconto era de R$ 2.000; na Levita, de R$ 1.500 em linho e R$ 2.000 em couro. A Poltrona Cinema tinha o menor: R$ 500 na de 2 lugares. A página de formas de pagamento da DAMIE dá 10% de desconto no Pix à vista também nessas linhas."
         ]
       },
       {
@@ -54305,7 +54330,7 @@ export const reviewsData: unknown[] = [
           "**Desconto da página:** já vem no preço do produto. Nas duas leituras, era de R$ 1.000 em todas as reclináveis.",
           "**Pix à vista:** 10% de desconto. A página do produto já mostra o preço no Pix com o desconto da página aplicado: R$ 3.869,10 na elétrica com giro e balanço em suede, por exemplo.",
           "**Cupom CECILIA12:** 12% OFF em todos os produtos, com todas as formas de pagamento. Ele é aplicado no carrinho e soma com as promoções, os brindes e o desconto do Pix. Na giro e balanço em suede, os 12% sobre os R$ 4.299 tiram R$ 515,88, e a poltrona sai por R$ 3.783,12 no cartão, em até 12x sem juros. No Pix, entram também os 10%: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 3.404,81. O resumo do checkout mostra o valor exato antes de pagar.",
-          "**Desconto por quantidade:** R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5, nas reclináveis e na Poltrona Cinema, segundo a página de ofertas, durante a campanha. Em outubro, ele era dado pelos consultores no WhatsApp, não pelo carrinho, e somava com o CECILIA12: confirme com a DAMIE antes de fechar.",
+          "**Desconto por quantidade:** R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5, nas reclináveis e na Poltrona Cinema, durante a campanha, informa a página de ofertas. Em outubro, ele era dado pelos consultores no WhatsApp, não pelo carrinho, e somava com o CECILIA12: confirme com a DAMIE antes de fechar.",
           "**Giftback:** a página de ofertas promete 15% do pedido de volta para a próxima compra, até 27/11. Ele não soma com o CECILIA12: na compra em que você usar o giftback, o cupom não entra.",
           "**Brinde:** durante a campanha, a página de ofertas diz que quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e C) e o porta-copos. Em outubro, o brinde era só o carregador USB e o porta-copos."
         ],
@@ -54323,7 +54348,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual poltrona DAMIE escolher",
         "paragraphs": [
-          "A reclinável da DAMIE é a mesma poltrona com quatro bases. A manual é a mais barata, mas reclina com o peso do corpo e pede força das pernas para fechar. A elétrica de base fixa reclina mais, até 170°, pelo botão. A de giro e balanço reclina até 145°, gira 180° e balança, e é a que a marca indica para amamentação. A de elevação inclina a base para a frente para ajudar a levantar, pensada pela marca para idosos e pós-operatório.",
+          "A reclinável da DAMIE é a mesma poltrona em quatro bases: escolha a base pelo seu uso. A manual é a mais barata, mas reclina com o peso do corpo e pede força das pernas para fechar. A elétrica de base fixa reclina mais, até 170°, pelo botão. A de giro e balanço reclina até 145°, gira 180° e balança, e é a que a marca indica para amamentação. A de elevação inclina a base para a frente para ajudar a levantar, pensada pela marca para idosos e pós-operatório.",
           "Entre a 1.0 e a 2.0 não há diferença de preço. A 2.0 traz almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. A Levita (elétrica) e a Aurora (giratória, com puff) são linhas à parte, vendidas só em linho ou couro.",
           "Aqui em casa, a primeira reclinável foi elétrica, em linho bege, e acompanhou toda a amamentação do Ian. Hoje temos também a 2.0 elétrica com giro e balanço, em corino caramelo."
         ],
@@ -54360,7 +54385,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A DAMIE dá frete grátis em poltronas e sofás para o Sul e o Sudeste. Para o Centro-Oeste, o frete é calculado pelo CEP no carrinho, antes de fechar a compra. No Norte e no Nordeste, a marca vende só pelos anúncios oficiais dela no Mercado Livre, onde o frete e o prazo aparecem ao simular o CEP. O CECILIA12 é aplicado no checkout do site da DAMIE.",
           "O prazo de entrega varia por região e aparece no cálculo do frete, antes de pagar. Ele começa a contar na confirmação do pagamento: o Pix libera o pedido mais rápido, e o boleto leva até 2 dias úteis para compensar. Se você quer a poltrona antes do Natal, simule o CEP no carrinho e veja o prazo antes de fechar. O logo bordado, opcional, acrescenta 7 dias.",
-          "Em prédio, a entrega vai até o hall de entrada, então confira antes se a caixa passa no elevador ou na escada. A montagem é feita por você, só com encaixes e sem ferramentas. Segundo a marca, a reclinável passa em portas a partir de 65 cm se você levar primeiro o encosto e depois a base.",
+          "Em prédio, a entrega vai até o hall de entrada, então confira antes se a caixa passa no elevador ou na escada. A montagem é feita por você, só com encaixes e sem ferramentas. A reclinável passa em portas a partir de 65 cm, informa a marca, se você levar primeiro o encosto e depois a base.",
           "Confira o produto na hora da entrega, com a transportadora esperando: se houver avaria, recuse, e a DAMIE manda outro. Depois disso, ainda há 30 dias para trocar ou devolver."
         ]
       },
@@ -54461,8 +54486,8 @@ export const reviewsData: unknown[] = [
         "heading": "A Let's Eat It tem Black Friday?",
         "paragraphs": [
           "Não encontramos anúncio oficial de Black Friday da Let's Eat It em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
-          "O que dá para mostrar é o que a loja já oferecia em outubro: a coleção Natal Let's, com 40% de desconto na maior parte das peças; a Porto Brasil com \"até 60% OFF\"; uma seleção de Le Creuset com desconto; e o Outlet's, com cerca de 750 produtos, a maioria entre 40% e 60% abaixo do preço riscado.",
-          "Quando a Let's Eat It anunciar a campanha de 2026, as condições entram aqui, com o que mudou em relação a outubro."
+          "Em outubro, a loja já oferecia a coleção Natal Let's, com 40% de desconto na maior parte das peças; a Porto Brasil com \"até 60% OFF\"; uma seleção de Le Creuset com desconto; e o Outlet's, com cerca de 750 produtos, a maioria entre 40% e 60% abaixo do preço riscado.",
+          "Se a campanha sair depois desta leitura, compare as condições novas com as tabelas de outubro deste guia."
         ],
         "image": {
           "src": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
@@ -54599,7 +54624,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pix, cashback e cupom: o que soma",
         "bullets": [
-          "**Pix:** 5% de desconto nas compras por Pix, segundo a página do produto.",
+          "**Pix:** a página do produto dá 5% de desconto nas compras por Pix.",
           "**Cashback de 30%:** depois da compra, a loja manda pelo WhatsApp um cupom de 30% do valor, válido por 30 dias. Ele só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 300 pede uma compra de R$ 2.100 e vira cerca de 14% de desconto nela.",
           "**Cashback na Black Friday:** como o cupom vale 30 dias a partir da compra, uma compra feita a partir de 28 de outubro gera um cashback que ainda vale na Black Friday.",
           "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. No nosso teste, ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
@@ -54772,8 +54797,8 @@ export const reviewsData: unknown[] = [
         "heading": "A I Wanna Sleep tem Black Friday?",
         "paragraphs": [
           "Não encontramos campanha oficial de Black Friday da I Wanna Sleep nos últimos anos: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
-          "O que dá para mostrar é o que a loja já oferecia: o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
-          "Quando a I Wanna Sleep anunciar a campanha de 2026, as condições entram aqui, com o que mudou em relação a outubro."
+          "A loja já oferecia o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
+          "Se a campanha sair depois desta leitura, compare as condições novas com as tabelas de outubro deste guia."
         ]
       },
       {
@@ -54948,7 +54973,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pix, parcelamento e cupom: o que soma",
         "bullets": [
-          "**Pix:** 5% de desconto, só à vista, segundo a página de cada produto.",
+          "**Pix:** a página de cada produto dá 5% de desconto, só à vista.",
           "**Cartão:** parcelado sem juros; o número de parcelas aparece na página do produto. A aprovação do cartão leva até 24 horas, e a do boleto, até 72 horas.",
           "**Cupom:** o CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e soma com os preços da Black Friday.",
           "**Pix com o cupom:** os dois somam. No Pillow Top Magnum casal, a R$ 1.848 em outubro, o CECIEMCASA tira R$ 184,80, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ele sai por R$ 1.580,04. O resumo do checkout mostra o valor exato antes de pagar."
@@ -55126,7 +55151,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quando começa a Black Friday da Insider?",
         "paragraphs": [
           "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. A Insider já abriu a coleção Black Friday Insider 2026: em outubro, ela tinha 129 produtos e uma chamada com brindes, desconto no Pix e \"até 40% OFF\", sem datas de início e fim.",
-          "Em 2026, a Insider não esperou novembro: a coleção Black Friday Insider 2026 já estava no site em outubro, com o convite para aproveitar a Black Friday \"antes de todo mundo\". A loja não publicou datas de início e fim nem o que muda perto da Black Friday.",
+          "A coleção convida a aproveitar \"antes de todo mundo\", mas a loja não publicou datas de início e fim nem o que muda perto da Black Friday.",
           "Enquanto isso, ela faz promoções curtas, cada uma com regra própria. Uma delas dava R$ 100 OFF em itens selecionados, aplicados automaticamente, e avisava na página do produto que esse desconto não somava com cupons; nos outros produtos do carrinho, o cupom continuava valendo.",
           "No fim de outubro, a loja abriu o esquenta da Black Friday em janelas curtas, com um \"último dia\" anunciado para 2 de novembro. Na leitura mais recente, a home trazia frete grátis em qualquer pedido, +2% OFF no Pix e brindes cumulativos: meias a partir de R$ 399, underwear a partir de R$ 599 e boné ou sutiã a partir de R$ 799. As condições mudam de uma janela para a outra; confira a home da loja no dia da compra.",
           "Nos anos anteriores, a campanha mudou de nome. Em 2024, foi a \"Loucos por conforto\", com a Narcisa Tamborindeguy, segundo reportagem do site Nosso Meio, com declarações do CEO da marca. Percentuais de anos anteriores publicados por sites de cupom ficam fora deste guia, porque a loja não os confirma."
@@ -55308,7 +55333,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Loja física: o cupom não vale lá",
         "paragraphs": [
-          "A Insider tem uma Concept Store no MorumbiShopping, em São Paulo, onde dá para ver e provar as peças. Segundo a central de ajuda da loja, cupons e cashback valem só no site, então o EMCASACOMCECILIA não entra nas compras feitas ali.",
+          "A Insider tem uma Concept Store no MorumbiShopping, em São Paulo, onde dá para ver e provar as peças. A central de ajuda da loja informa que cupons e cashback valem só no site, então o EMCASACOMCECILIA não entra nas compras feitas ali.",
           "Pedidos feitos no site também não podem ser retirados nem trocados na loja física: a troca segue pelo portal online."
         ]
       },
@@ -55479,7 +55504,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Senior: preços de outubro",
         "paragraphs": [
-          "O Nutren Senior é a linha da loja para quem já passou dos 50 anos. Este guia trata só dos produtos para adultos.",
+          "O Nutren Senior é a linha da loja para quem já passou dos 50 anos. Este guia trata só dos produtos para adultos, e a régua de novembro é a tabela de outubro.",
           "Na página de cada produto aparecem até três preços: o riscado, o da compra única e o da assinatura."
         ],
         "image": {
@@ -55815,7 +55840,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Magalu 2026",
         "paragraphs": [
-          "A Black Friday do Magalu é em 27 de novembro, mas as ofertas começam antes e vão até a Cyber Monday, e o esquenta já está no ar. Os códigos da Cecília dão um desconto fixo em reais, conforme o carrinho, só pelo navegador. Vale um cupom por pedido; veja abaixo qual usar."
+          "A Black Friday do Magalu é em 27 de novembro, mas as ofertas começam antes e vão até a Cyber Monday, e o esquenta já está no ar. Os códigos da Cecília dão um desconto fixo em reais, que cresce com o carrinho, só pelo navegador. Vale um cupom por pedido; veja abaixo qual usar."
         ]
       },
       {
@@ -55823,13 +55848,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O dia oficial é 27 de novembro de 2026. Na página da Black Friday, o Magalu diz que as ofertas começam antes e se estendem por alguns dias, com esquenta, semana especial e Cyber Monday. Em outubro, o esquenta já estava no ar.",
           "O calendário que o Magalu publicou para novembro: Liquidação do Dia do Pagamento em 5 e 6 de novembro, no app e nas lojas, com até 60% de desconto e frete grátis; 11.11 com preços de Black Friday no app; e o \"Faz um 21\", com descontos de Black Friday em até 21 vezes sem juros durante o mês. O app também traz ofertas antecipadas que duram um dia, com produtos novos todos os dias, e manda ofertas por notificação.",
-          "Na prática, a Black Friday do Magalu ocupa novembro inteiro. Em 2023, as promoções correram o mês todo, segundo o Money Times. Em 2024, o Magalu soltou ofertas por notificação no app antes da data, segundo o Canaltech. Em 2025, a \"Black das Blacks\" durou mais de um mês, segundo texto patrocinado pelo Magalu no Canaltech."
+          "Na prática, a Black Friday do Magalu ocupa novembro inteiro. Em 2023, as promoções correram o mês todo, segundo o Money Times. Em 2024, o Canaltech registrou ofertas por notificação no app antes da data. Em 2025, a \"Black das Blacks\" durou mais de um mês, em texto patrocinado pelo Magalu no Canaltech."
         ]
       },
       {
         "heading": "Qual código da Cecília usar: as dez faixas",
         "paragraphs": [
-          "Cada código dá um desconto fixo em reais, a partir de um valor mínimo de produtos vendidos e entregues pelo Magalu. Use sempre o código da maior faixa que o carrinho alcançar."
+          "Use sempre o código da maior faixa que o carrinho alcançar: desconto fixo em reais, a partir de um valor mínimo em produtos vendidos e entregues pelo Magalu."
         ],
         "image": {
           "src": "/images/reviews/magalu/magalu-cupom-aplicado.webp",
@@ -55906,7 +55931,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom do Magalu ou código da Cecília?",
         "paragraphs": [
-          "Na loja da Cecília, algumas páginas de produto mostram um cupom do próprio Magalu, com o aviso para copiar e colar na revisão do pedido. Em outubro, apareciam cupons de R$ 50 a R$ 225 em eletrodomésticos vendidos pelo Magalu.",
+          "Vale um cupom por pedido: algumas páginas mostram um cupom do próprio Magalu para copiar e colar na revisão do pedido. Em outubro, apareciam cupons de R$ 50 a R$ 225 em eletrodomésticos vendidos pelo Magalu.",
           "Como vale um cupom por pedido, o código da Cecília é para quando o produto não tem cupom do próprio Magalu, ou quando ele não vale para o que você quer comprar. Se o produto tiver os dois, use o que der mais desconto: na geladeira Electrolux de 260 litros da tabela de preços abaixo, o cupom do Magalu tirava R$ 225, e o código da Cecília, R$ 40."
         ],
         "links": [
@@ -55947,7 +55972,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de outubro para comparar",
         "paragraphs": [
-          "Estes são produtos vendidos e entregues pelo Magalu, entre os mais vendidos da loja da Cecília em 10 de outubro de 2026. Na Black Friday, a oferta só é desconto de verdade se o preço do dia ficar abaixo desta tabela. O preço riscado (\"de\") da página costuma ser bem maior que o do dia, então ele não serve de referência."
+          "Ancore a Black Friday nestes produtos vendidos e entregues pelo Magalu, entre os mais vendidos da loja da Cecília em 10 de outubro de 2026: a oferta só é desconto de verdade se o preço do dia ficar abaixo da tabela. O preço riscado (\"de\") da página costuma ser bem maior que o do dia, então ele não serve de referência."
         ],
         "comparisonTable": {
           "caption": "Loja Magazine Você da Cecília, sem CEP informado, antes do código. O preço muda com o CEP e a cada dia, e o número de parcelas sem juros varia por produto.",
@@ -56255,7 +56280,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ofertas que não são para todo mundo",
         "paragraphs": [
-          "Em 2025, além do cupom aberto a todos os membros, a YesStyle teve duas ofertas restritas. Na semana da Black Friday, os níveis Bronze, Silver e Gold do Elite Club, o programa de fidelidade da loja, tiveram um produto por dia a US$ 1, em pedidos a partir de US$ 50: um por pedido, enquanto durasse o estoque e sem troca nem devolução. E entre a Black Friday e a Cyber Monday, um cupom de 18% sem valor mínimo foi para membros selecionados (\"We Miss You\"). A página não explica como esses membros foram escolhidos.",
+          "Em 2025, além do cupom aberto a todos os membros, a YesStyle teve duas ofertas restritas. Na semana da Black Friday, os níveis Bronze, Silver e Gold do Elite Club, o programa de fidelidade da loja, tiveram um produto por dia a US$ 1, em pedidos a partir de US$ 50. Um por pedido, enquanto durou o estoque, sem troca nem devolução. E entre a Black Friday e a Cyber Monday, um cupom de 18% sem valor mínimo foi para membros selecionados (\"We Miss You\"). A página não explica como esses membros foram escolhidos.",
           "Se aparecer um cupom desses na sua conta, a regra é a mesma: ele soma com o código de recompensa e com os YS Points."
         ]
       },
@@ -58968,7 +58993,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O imposto na Black Friday: o que mudou em 2026",
         "paragraphs": [
-          "A SHEIN está no Remessa Conforme, então o imposto aparece no checkout, junto do pedido, e em regra não há cobrança extra na entrega, mas a Receita Federal pode reavaliar o valor do pacote, e isso muda o imposto devido. Em 13 de maio de 2026, o imposto de importação das compras de até US$ 50 foi zerado. A Lei 15.502/2026 confirmou que o governo pode manter a alíquota zero nessa faixa.",
+          "A SHEIN está no Remessa Conforme, então o imposto aparece no checkout, junto do pedido. Em regra não há cobrança extra na entrega, mas a Receita Federal pode reavaliar o valor do pacote, e isso muda o imposto devido. Em 13 de maio de 2026, o imposto de importação das compras de até US$ 50 foi zerado. A Lei 15.502/2026 confirmou que o governo pode manter a alíquota zero nessa faixa.",
           "A conta vale por pedido e usa o valor do produto mais o frete, já com os descontos e o cupom. Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
         ],
         "comparisonTable": {
@@ -59002,7 +59027,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Envio Nacional ou internacional?",
         "paragraphs": [
-          "Na SHEIN, a mesma busca mistura produtos que vêm de fora e produtos de vendedores que já estão no Brasil, marcados como Envio Nacional. Na Black Friday, a diferença pesa no preço final e nas regras de desconto."
+          "Na mesma busca, a SHEIN mistura produtos de fora e de vendedores no Brasil (Envio Nacional): a diferença pesa no preço final e nas regras de desconto."
         ],
         "bullets": [
           "**Envio Nacional:** sem imposto de importação. Cada vendedor tem o próprio frete, prazo e condições, e os pontos SHEIN não valem nesses itens.",
@@ -61228,7 +61253,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como comparar os três rótulos",
         "paragraphs": [
           "O que muda de um rótulo para o outro é a base dos números, e é isso que este capítulo explica antes da tabela.",
-          "Cada marca escolhe uma base. A Nutren publica a tabela por porção (27,5 g, 31,5 g ou 55 g, conforme a versão), a Sustagen usa a porção de 40 g, e a página do Ensure fala em 6 medidas por porção, sem dizer quantos gramas são.",
+          "Cada marca escolhe uma base. A Nutren publica a tabela por porção (27,5 g, 31,5 g ou 55 g, variando por versão), a Sustagen usa a porção de 40 g, e a página do Ensure fala em 6 medidas por porção, sem dizer quantos gramas são.",
           "Para comparar, olhe a mesma coisa nos três: o tamanho da porção, a proteína por dose, o cálcio, a vitamina D, a lactose e o glúten. A tabela abaixo junta o que cada página oficial informa; o glúten fica na seção Lactose e glúten."
         ],
         "image": {
@@ -61309,7 +61334,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Senior: as três versões",
         "paragraphs": [
-          "O Sem Sabor Zero Lactose usa 3 colheres de sopa rasas (27,5 g) em 180 ml de água, e a lata de 740 g rende cerca de 27 porções. O rótulo se apresenta como \"composto lácteo com cálcio, proteínas, vitamina D e outros nutrientes essenciais. Zero lactose.\"",
+          "O Zero Lactose usa 3 colheres de sopa rasas (27,5 g) em 180 ml de água, a lata de 740 g rende cerca de 27 porções e ele é o único que informa 0 g de lactose. O rótulo se apresenta como \"composto lácteo com cálcio, proteínas, vitamina D e outros nutrientes essenciais. Zero lactose.\"",
           "O Café com Leite também é composto lácteo e usa 3 colheres de sopa (31,5 g) por porção, com 11 g de proteína e 25 µg de vitamina D.",
           "O Sem Sabor comum, sem a indicação zero lactose, é vendido como suplemento alimentar. A tabela dele usa a porção de 55 g (6 colheres de sopa), com 20 g de proteína, e a sugestão de uso prepara 27,5 g por vez.",
           "Quem ficar com o Zero Lactose encontra o preparo no guia sem empelotar e a ficha completa no guia do Zero Lactose."
@@ -61335,15 +61360,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ensure Baunilha Pó: o que a Abbott informa",
         "paragraphs": [
-          "A página oficial do Ensure informa 17 g de proteína em duas porções diárias e 28 vitaminas e minerais, \"com alto teor de vitamina C, D, e Cálcio\". Ela diz também que o produto não contém glúten e que a lata vem em 400 g e 850 g.",
-          "O preparo é de 6 medidas em 195 ml de água, e a lata de 400 g rende cerca de 7 porções. Segundo a Abbott, o Ensure pó contém lactose; só o Ensure Protein não contém.",
+          "O Ensure não publica a tabela por porção: a página informa 17 g de proteína em duas porções diárias e 28 vitaminas e minerais, \"com alto teor de vitamina C, D, e Cálcio\". Ela diz também que o produto não contém glúten e que a lata vem em 400 g e 850 g.",
+          "O preparo é de 6 medidas em 195 ml de água, e a lata de 400 g rende cerca de 7 porções. A Abbott informa que o Ensure pó contém lactose; só o Ensure Protein não contém.",
           "O texto da página não traz a tabela por porção. Sem ela, o cálcio e a vitamina D do Ensure não entram na comparação em números: vale o que está impresso na lata."
         ]
       },
       {
         "heading": "Sustagen Senior Sem Sabor: o que a Sustagen informa",
         "paragraphs": [
-          "A porção é de 3 colheres de sopa cheias em 180 ml de água, e os números dela estão na tabela acima, segundo a página oficial. A marca destaca 22 g de proteína em duas porções e diz que duas porções preparadas fornecem 80% da recomendação diária de cálcio.",
+          "A porção é de 3 colheres de sopa cheias em 180 ml de água, informa a página oficial, e os números dela estão na tabela acima. A marca destaca 22 g de proteína em duas porções e diz que duas porções preparadas fornecem 80% da recomendação diária de cálcio.",
           "O rótulo informa que o produto não contém glúten, contém lactose e derivados de leite, e pode conter peixe e soja. A página lembra que ele não substitui uma alimentação saudável e balanceada."
         ]
       },
@@ -61400,6 +61425,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Não há vencedor entre os três: a escolha segue o que cada pessoa precisa e a orientação do médico ou do nutricionista."
         ],
+        "emphasis": "Pelos números da tabela, para quem precisa evitar lactose a escolha é o Nutren Senior Zero Lactose, porque é o único que informa 0 g de lactose por porção.",
+        "emphasisAfterParagraph": 1,
         "bullets": [
           "Quem precisa evitar lactose: só o Nutren Senior Sem Sabor Zero Lactose informa 0 g de lactose por porção na tabela oficial; o Sustagen Senior avisa que contém lactose, e a Abbott diz o mesmo do Ensure pó.",
           "Quem quer a tabela completa para comparar: Nutren Senior e Sustagen Senior publicam tudo por porção, e o Ensure não publica a tabela por porção.",
@@ -61431,6 +61458,17 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
+    "decision": {
+      "takeIf": [
+        "Você precisa evitar lactose e quer o rótulo que informa 0 g por porção na tabela oficial.",
+        "Você quer comparar proteína, cálcio e vitamina D pela tabela completa por porção.",
+        "Você vai levar a comparação à consulta com o médico ou o nutricionista."
+      ],
+      "skipIf": [
+        "Você espera comparar o Ensure em números: a página dele não publica a tabela por porção.",
+        "Você decide dose ou troca sem o médico ou o nutricionista: leve o rótulo à consulta."
+      ]
+    },
     "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas oficiais informam.",
     "relatedArticles": [
       {
@@ -61483,7 +61521,7 @@ export const reviewsData: unknown[] = [
         "heading": "Porto Brasil é cerâmica ou porcelana?",
         "paragraphs": [
           "É cerâmica, não porcelana. A Porto Brasil faz louça de mesa de cerâmica em dois materiais: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
-          "Não testamos as louças. As informações abaixo vêm das fichas de produto da fabricante, lidas em 12/10/2026, e de fontes públicas."
+          "As informações abaixo vêm das fichas de produto da fabricante, lidas em 12/10/2026, e de fontes públicas."
         ]
       },
       {
@@ -61538,7 +61576,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Micro-ondas, lava-louças, forno e freezer",
         "paragraphs": [
-          "A maior parte das fichas de stoneware diz que a peça pode ir ao forno, ao micro-ondas e ao freezer e aconselha uma variação térmica de cerca de 180 °C ou de 240 °C, conforme a peça, sem dar a temperatura máxima do forno. Na descrição de mais de mil produtos, como o Bio Vanilla, a marca escreve \"forno (até 180 °C)\", mesmo quando a ficha do mesmo produto fala em 240 °C. Na dúvida, use a menor temperatura que a marca cita para a peça.",
+          "A Porto Brasil libera forno, micro-ondas e freezer na maior parte do stoneware e aconselha uma variação térmica de cerca de 180 °C ou de 240 °C, variando por peça, sem dar a temperatura máxima do forno. Na descrição de mais de mil produtos, como o Bio Vanilla, a marca escreve \"forno (até 180 °C)\", mesmo quando a ficha do mesmo produto fala em 240 °C. Na dúvida, use a menor temperatura que a marca cita para a peça.",
           "Há exceções. Algumas peças de stoneware, como pratos de entrada, de sobremesa e de massa da linha Orgânico, xícaras de chá da linha Linhas e kits de canecas da Coup Stoneware, trazem \"não é recomendado usar no forno convencional\". Os conjuntos com aplicação de ouro não devem ir ao forno nem ao micro-ondas, e os de filamento de ouro também não vão à lava-louças.",
           "Na faiança, as fichas liberam micro-ondas e lava-louças. Várias trazem \"não é recomendado usar no forno convencional\", a maior parte não fala de forno nem de freezer, e os kits Celebrar de 18 peças trazem \"Freezer: Não recomendado\"."
         ],
@@ -61555,7 +61593,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Não tire a peça quente do forno ou do micro-ondas direto para uma superfície fria, nem leve a peça do freezer direto para o forno: o choque térmico pode danificar a cerâmica.",
           "Não use a peça em contato direto com a chama.",
-          "As marcas de talher que parecem riscos são, segundo a marca, desgaste do metal sobre a peça e saem com saponáceo.",
+          "As marcas de talher que parecem riscos são desgaste do metal sobre a peça, informa a marca, e saem com saponáceo.",
           "Evite guardar as peças molhadas ou em locais úmidos."
         ]
       },
@@ -61576,7 +61614,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Garantia e reputação",
         "paragraphs": [
-          "As fichas da Porto Brasil dão 90 dias de garantia por defeito de fabricação e uma garantia separada contra gretamento, as rachaduras finas no esmalte, de 9 ou 12 meses, conforme o produto.",
+          "A Porto Brasil dá 90 dias de garantia por defeito de fabricação e uma garantia separada contra gretamento, as rachaduras finas no esmalte, de 9 ou 12 meses, variando por produto.",
           "No Reclame Aqui, a Porto Brasil Cerâmica tem reputação ÓTIMA, com nota 8,4 de 10 entre abril e setembro de 2026. No período, foram 110 reclamações, todas respondidas, e 84,3% resolvidas; os assuntos mais citados são produto com defeito e pratos."
         ]
       },
@@ -61699,7 +61737,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os travesseiros lado a lado",
         "paragraphs": [
-          "Comparamos o Snow, o Coluna Relax e o Original Látex da I Wanna Sleep, quatro modelos da Emma e dois da Ortobom. Não testamos os travesseiros: preços e condições são dos sites oficiais em 12/10/2026 e mudam com as promoções, então confira o teste e a troca no site de cada marca antes de comprar."
+          "Comparamos o Snow, o Coluna Relax e o Original Látex da I Wanna Sleep, quatro modelos da Emma e dois da Ortobom. Preços e condições são dos sites oficiais em 12/10/2026 e mudam com as promoções, então confira o teste e a troca no site de cada marca antes de comprar."
         ],
         "comparisonTable": {
           "caption": "Dados dos sites oficiais em 12/10/2026, sem códigos de desconto. Na Emma, é o preço exibido na lista de travesseiros.",
@@ -61832,7 +61870,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ortobom: preço menor, teste não informado",
         "paragraphs": [
-          "Na categoria de travesseiros viscoelásticos da Ortobom, o Viscopur custa R$ 169 e o Conforto Regulável, R$ 159. O Viscopur é de espuma viscoelástica, com conforto firme. O Conforto Regulável, apesar de estar na mesma categoria, é de fibra siliconada, macio e com altura regulável.",
+          "A Ortobom é a mais barata dos três e não informa teste em casa: o Viscopur custa R$ 169 e o Conforto Regulável, R$ 159. O Viscopur é de espuma viscoelástica, com conforto firme. O Conforto Regulável, apesar de estar na mesma categoria, é de fibra siliconada, macio e com altura regulável.",
           "As páginas dos dois informam garantia de 90 dias e não falam em noites de teste. A categoria tem outros modelos; olhamos só estes dois."
         ]
       },
@@ -61840,7 +61878,7 @@ export const reviewsData: unknown[] = [
         "heading": "Teste, troca e garantia",
         "bullets": [
           "I Wanna Sleep: 30 dias de teste nos travesseiros, com pelo menos 15 dias de uso. Se você não se adaptar, recebe crédito para trocar por outro produto do site, sem custo de frete. Vale só para compras no site oficial, com a nota fiscal.",
-          "Emma: 14 noites de teste e 6 meses de garantia. Se você não se adaptar, a Emma recolhe o travesseiro e devolve o valor total, segundo o site.",
+          "Emma: 14 noites de teste e 6 meses de garantia. Se você não se adaptar, a Emma recolhe o travesseiro e devolve o valor total, informa o site.",
           "Ortobom: garantia de 90 dias nas páginas do Viscopur e do Conforto Regulável; as páginas não informam noites de teste."
         ],
         "image": {
@@ -61859,12 +61897,13 @@ export const reviewsData: unknown[] = [
           "Quer poder devolver e receber o dinheiro: Emma, com 14 noites.",
           "Quer gastar menos: Ortobom, que não informa teste em casa nos dois modelos que consultamos.",
           "Dorme de lado: a Emma lembra que essa posição costuma pedir travesseiro mais alto. Dá para deixar mais enchimento no Snow ou escolher o Antiestress, que a Emma indica para quem dorme de lado."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o Snow, porque a altura se ajusta tirando o enchimento e o teste é de 30 dias."
       },
       {
         "heading": "Preço e cupom da I Wanna Sleep",
         "paragraphs": [
-          "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% de desconto no site da marca, e o desconto pode variar conforme a campanha. Emma e Ortobom não são parceiras do site, e não temos código para elas."
+          "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% de desconto no site da marca, e o desconto pode variar de uma campanha para outra. Emma e Ortobom não são parceiras do site, e não temos código para elas."
         ],
         "links": [
           {
@@ -61907,7 +61946,18 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Podemos receber comissão pela I Wanna Sleep. Emma e Ortobom não são parceiras.",
+    "decision": {
+      "takeIf": [
+        "Você quer ajustar a altura em casa, tirando enchimento ou camadas.",
+        "Você quer um teste de 30 dias, com crédito para troca no site da marca."
+      ],
+      "skipIf": [
+        "Você quer teste com o dinheiro de volta: a Emma recolhe e reembolsa em 14 noites.",
+        "Você quer gastar menos e abre mão do teste em casa: os dois modelos da Ortobom consultados não informam teste.",
+        "Você tem dor no pescoço que não passa: procure um ortopedista ou fisioterapeuta antes da troca."
+      ]
+    },
+    "editorialNote": "Podemos receber comissão pela I Wanna Sleep. Emma e Ortobom não são parceiras. Sem teste próprio: preços e condições dos sites oficiais.",
     "relatedArticles": [
       {
         "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
@@ -61958,11 +62008,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Le Creuset diz sobre o ferro fundido: indução, forno, lava-louças, micro-ondas e uso",
         "paragraphs": [
-          "A panela serve no fogão, inclusive de indução, e no forno, com cuidado com o esmalte, e a garantia é vitalícia; as regras abaixo vêm das páginas de cuidado das marcas."
+          "A panela vai ao fogão e ao forno, e o limite está no puxador: confira o material antes de ligar o forno."
         ],
         "bullets": [
-          "Indução: o ferro fundido pode ser usado em todas as fontes de calor, incluindo a indução.",
-          "Micro-ondas: o ferro fundido não deve ser usado no micro-ondas.",
+          "Indução: o ferro fundido vai a todas as fontes de calor, incluindo a indução.",
+          "Micro-ondas: o ferro fundido não vai ao micro-ondas.",
           "Forno com puxador fenólico preto: até 250 °C na linha Signature e até 200 °C na linha Tradicional.",
           "Forno com alça de ferro fundido ou puxador de aço inox: qualquer temperatura.",
           "Alça ou puxador de madeira: não vai ao forno nem à lava-louças.",
@@ -62022,7 +62072,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As duas vão à indução e ao forno, e as duas excluem a alça de madeira. O limite de temperatura muda com o puxador e a linha, no detalhe da tabela. Se o preço decidir, compare na data da compra: a Staub não aparece no catálogo da Let's Eat It. Ceraflame (cerâmica) e Tramontina (ferro com antiaderente interno) ficam fora do comparativo por serem outro material e revestimento."
+          "As duas vão à indução e ao forno, e as duas excluem a alça de madeira. O limite de temperatura depende do puxador e da linha: o seu está na tabela. Se o preço decidir, compare na data da compra: a Staub não aparece no catálogo da Let's Eat It. Ceraflame (cerâmica) e Tramontina (ferro com antiaderente interno) ficam fora do comparativo por serem outro material e revestimento."
         ]
       },
       {
@@ -62086,6 +62136,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pelo que a marca publica, vale para quem cozinha no fogão ou na indução, usa o forno e aceita os cuidados: calor médio ou baixo, nada de micro-ondas e nada de água fria na panela quente, porque a garantia vitalícia não cobre choque térmico nem queda."
         ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a Signature, porque o puxador fenólico vai até 250 °C.",
         "bullets": [
           "Vale: quer uma panela para fogão, indução e forno e vai respeitar o limite do puxador. Se o seu forno passa de 200 °C, prefira a Signature (fenólico até 250 °C) ou o puxador de inox (qualquer temperatura), porque o fenólico da Tradicional vai só até 200 °C.",
           "Pense melhor: quer usar no micro-ondas, ou vai à lava-louças sempre e não aceita que o acabamento possa desbotar.",
@@ -62126,6 +62177,15 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAUAD",
     "affiliate": "letseatit",
+    "decision": {
+      "takeIf": [
+        "Você quer uma panela para fogão, indução e forno e vai respeitar o limite do puxador."
+      ],
+      "skipIf": [
+        "Você quer usar no micro-ondas.",
+        "Você lava sempre na lava-louças e não aceita que o acabamento possa desbotar."
+      ]
+    },
     "editorialNote": "Podemos receber comissão pelos links da Let's Eat It. Não testamos as panelas: as regras são das marcas.",
     "relatedArticles": [
       {
@@ -62179,7 +62239,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A tabela da Insider é da peça, não do corpo",
         "paragraphs": [
-          "As medidas deste guia vêm das tabelas oficiais da Insider, abertas no botão \"Tabela de Medidas da Peça\" de cada produto em 12/10/2026. Não provamos as peças.",
+          "A tabela da Insider mede a peça deitada, não o corpo: as medidas vêm das tabelas oficiais, abertas no botão \"Tabela de Medidas da Peça\" de cada produto em 12/10/2026.",
           "Na página de cada produto, o menu \"Ficou com dúvidas sobre o seu tamanho?\" oferece o Assistente de Tamanho Inteligente, o Provador Virtual, a Tabela de Medidas da Peça (com a frase \"Compare com itens que você tem em casa\") e, na Tech T-Shirt, a comparação entre peças Insider.",
           "A tabela traz as medidas da roupa estendida, em centímetros. A Insider não publica tabela de medidas do corpo por tamanho (tórax ou cintura de quem veste), nem equivalência com L, XL ou 42. Cada linha tem a sua tabela, e as colunas mudam: a camiseta masculina mostra altura, largura e manga; a feminina acrescenta o busto; a cueca mostra cintura, quadril e barra.",
           "As perguntas frequentes de várias páginas dizem que a camiseta vai \"do pp ao xxgg\", inclusive em peças que param no XGG. Vale a lista de tamanhos que aparece no próprio produto.",
@@ -63053,7 +63113,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Encolhimento: o que a Insider diz e por que pesa na troca",
         "paragraphs": [
-          "Os artigos de lavagem da central de ajuda dizem até quanto cada linha pode encolher. Nas páginas da Core e da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\". Os dois números são da Insider, e a marca não explica como se relacionam; valem os dois.",
+          "Cada linha pode encolher até um limite: o da sua está na tabela abaixo. Nas páginas da Core e da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\". Os dois números são da Insider, e a marca não explica como se relacionam; valem os dois.",
           "Isso pesa na troca: a troca por tamanho exige peça sem uso e sem sinais de lavagem. Não dá para lavar para ver se encolhe e depois trocar. Escolha o tamanho pela tabela e siga as instruções de lavagem da etiqueta."
         ],
         "comparisonTable": {
@@ -63105,7 +63165,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Errei o tamanho: o que a Insider permite",
         "paragraphs": [
-          "Camiseta que não serviu pode ser trocada em até 21 dias corridos depois do recebimento, sem uso, com etiqueta e sem sinais de lavagem. A troca é gratuita e vale para o mesmo modelo, em outra cor ou tamanho, conforme o estoque. Cueca, calcinha e beachwear só trocam por defeito de fabricação.",
+          "Camiseta que não serviu pode ser trocada em até 21 dias corridos depois do recebimento, sem uso, com etiqueta e sem sinais de lavagem. A troca é gratuita e vale para o mesmo modelo, em outra cor ou tamanho, se houver estoque. Cueca, calcinha e beachwear só trocam por defeito de fabricação.",
           "Os prazos de arrependimento e de defeito e o passo a passo da troca estão no nosso guia sobre a Insider."
         ],
         "links": [
@@ -63167,7 +63227,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASACOMCECILIA",
     "affiliate": "insider",
-    "editorialNote": "Podemos receber comissão quando você compra pelos nossos links.",
+    "editorialNote": "Podemos receber comissão quando você compra pelos nossos links. Não provamos as peças.",
     "relatedArticles": [
       {
         "slug": "insider-vale-a-pena",
@@ -63359,7 +63419,7 @@ export const reviewsData: unknown[] = [
         "heading": "Tech T-Shirt: o que a Insider publica",
         "paragraphs": [
           "A Tech T-Shirt é de 92% modal e 8% elastano (a cor Índigo tem 62% modal, 30% viscose e 8% elastano), num tecido que a Insider chama de INTECH. A gramatura, 185 g/m², não está no texto da página: aparece na imagem que abre no botão \"Compare entre peças Insider\".",
-          "A garantia é de 2 anos contra desbotamento, para peças compradas desde 06/09/2024, \"desde que seguidas as instruções da etiqueta, considerando uma lavagem por semana\", e, segundo a página, cobre só o desbotamento por lavagem. Os cuidados pedidos são ciclo delicado até 30 °C, sabão neutro, sem deixar de molho, sem torcer, sem alvejante, secar no varal à sombra, sem secadora e evitando amaciante.",
+          "A garantia é de 2 anos contra desbotamento, para peças compradas desde 06/09/2024, \"desde que seguidas as instruções da etiqueta, considerando uma lavagem por semana\", e cobre só o desbotamento por lavagem. Os cuidados pedidos são ciclo delicado até 30 °C, sabão neutro, sem deixar de molho, sem torcer, sem alvejante, secar no varal à sombra, sem secadora e evitando amaciante.",
           "A marca diz que a camiseta é antiodor e que isso \"permite usar mais e lavar menos\", mas não informa por quantas lavagens o efeito dura."
         ],
         "image": {
@@ -63373,8 +63433,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech, Daily ou Core: qual camiseta da Insider",
         "paragraphs": [
-          "A Daily e a Core são de 94% viscose e 6% elastano, não de modal. A Daily, de tecido DAYON, tem 225 g/m² na comparação oficial e custava R$ 79 (de R$ 139). A página avisa que o preço já tem o desconto máximo e não soma com cupons, e no teste do cupom no checkout o EMCASACOMCECILIA não se aplicou a ela.",
-          "Segundo a Insider, a Core é um pouco mais encorpada e texturizada que a Tech, e a gramatura dela não está publicada; o preço está na tabela acima. Nas páginas da Daily e da Core, a marca avisa que o tecido pode encolher até 2 cm no comprimento depois da primeira lavagem.",
+          "Na Insider, a escolha é modal na Tech ou viscose na Daily e na Core, que são de 94% viscose e 6% elastano. A Daily, de tecido DAYON, tem 225 g/m² na comparação oficial e custava R$ 79 (de R$ 139). A página avisa que o preço já tem o desconto máximo e não soma com cupons, e no teste do cupom no checkout o EMCASACOMCECILIA não se aplicou a ela.",
+          "A Core é um pouco mais encorpada e texturizada que a Tech, informa a Insider, e a gramatura dela não está publicada; o preço está na tabela acima. Nas páginas da Daily e da Core, a marca avisa que o tecido pode encolher até 2 cm no comprimento depois da primeira lavagem.",
           "A garantia de cor publicada é a da Tech T-Shirt. As medidas de cada linha estão no nosso guia de tamanhos da Insider."
         ],
         "images": [
@@ -63482,13 +63542,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Para escolher o modelo, com o preço de cada kit e os cuidados de lavagem, veja [qual cueca Insider escolher](/reviews/cueca-insider-comfort-ou-performance).",
-          "Cueca só tem troca ou devolução por defeito de fabricação, por higiene e segurança, segundo a central de ajuda. Minimal Club, Hering e Alpha Co também não trocam cueca, salvo defeito (a Alpha Co aceita a devolução em 7 dias). Confira a tabela de medidas antes de comprar o kit."
+          "Cueca só tem troca ou devolução por defeito de fabricação, por higiene e segurança, informa a central de ajuda. Minimal Club, Hering e Alpha Co também não trocam cueca, salvo defeito (a Alpha Co aceita a devolução em 7 dias). Confira a tabela de medidas antes de comprar o kit."
         ]
       },
       {
         "heading": "Troca e devolução na Insider",
         "paragraphs": [
-          "Na compra online, a Insider aceita o arrependimento em até 7 dias úteis, a troca por insatisfação em até 21 dias corridos, pelo mesmo modelo em outra cor ou tamanho (conforme o estoque) ou com estorno, com a peça sem uso, com etiqueta e sem sinais de lavagem, e o defeito em até 180 dias, com fotos. O processo é gratuito. O passo a passo e a reputação da loja estão no nosso guia de confiança."
+          "Na compra online, a Insider aceita o arrependimento em até 7 dias úteis, a troca por insatisfação em até 21 dias corridos, pelo mesmo modelo em outra cor ou tamanho (se houver estoque) ou com estorno, com a peça sem uso, com etiqueta e sem sinais de lavagem, e o defeito em até 180 dias, com fotos. O processo é gratuito. O passo a passo e a reputação da loja estão no nosso guia de confiança."
         ],
         "image": {
           "src": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
@@ -63523,6 +63583,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Para quem vale e para quem não vale",
+        "emphasis": "Se fosse para a minha casa, eu levaria a Tech T-Shirt, porque é a única com garantia de cor por escrito.",
         "bullets": [
           "Vale olhar a Insider se você quer camiseta de modal com garantia de cor por escrito e defeito coberto por até 180 dias, o maior prazo da tabela, e topa pagar mais por isso.",
           "Se o preço pesa mais, a Mirante e a Basicamente vendem camiseta de modal por menos, e a Hering tem a Super Cotton, de algodão, a R$ 89,99 e a Malha H+, de mistura, a R$ 31,99.",
@@ -63559,6 +63620,16 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASACOMCECILIA",
     "affiliate": "insider",
+    "decision": {
+      "takeIf": [
+        "Você quer camiseta de modal com garantia de cor por escrito.",
+        "Você quer defeito coberto por até 180 dias, o maior prazo da tabela."
+      ],
+      "skipIf": [
+        "O preço pesa mais: a Mirante e a Basicamente vendem camiseta de modal por menos.",
+        "Você prefere algodão: a Minimal Club e a Alpha Co são outra categoria de camiseta."
+      ]
+    },
     "editorialNote": "Podemos receber comissão pela Insider. As outras marcas não são parceiras, e não testamos as peças.",
     "relatedArticles": [
       {
@@ -63787,8 +63858,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Protein ou YoPRO",
         "paragraphs": [
-          "Aqui a comparação direta é entre bebidas prontas. As duas bebidas prontas têm a mesma proteína na embalagem, mas a YoPRO de chocolate pesa mais em calorias e açúcares (números na tabela acima). Nas duas tabelas os açúcares adicionados são 0 g, e as duas trazem lactose 0 g. Pelas páginas oficiais, a linha de 15 g da YoPRO tem chocolate, morango e coco com batata doce.",
-          "O pó do Nutren Protein é outra coisa: você prepara, ele tem cafeína e o número de 20 g depende do leite. A linha UHT da YoPRO, segundo a marca, não precisa de refrigeração."
+          "Entre as bebidas prontas, as duas têm a mesma proteína, mas a YoPRO de chocolate pesa mais em calorias e açúcares. Nas duas tabelas os açúcares adicionados são 0 g, e as duas trazem lactose 0 g. Pelas páginas oficiais, a linha de 15 g da YoPRO tem chocolate, morango e coco com batata doce.",
+          "O pó do Nutren Protein é outra coisa: você prepara, ele tem cafeína e o número de 20 g depende do leite. A linha UHT da YoPRO não precisa de refrigeração, informa a marca."
         ]
       },
       {
@@ -63858,6 +63929,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Não existe um melhor no rótulo: cada produto serve a uma necessidade diferente, e a quantidade certa é assunto para o médico ou o nutricionista."
         ],
+        "emphasis": "Pelos números da tabela, para quem quer só a proteína do soro a escolha é o Just Protein, porque ele traz 13 g de proteína em 15 g com açúcares em 0 g.",
         "bullets": [
           "Quer só a proteína do soro do leite, com carboidratos e açúcares em 0 g na tabela: o Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", com 13 g de proteína em 15 g.",
           "Quer um suplemento com vitaminas e minerais: o Nutren Protein em pó, com 14 g de proteína em 31,5 g, mas também 80 mg de cafeína, lactose e glúten.",
@@ -63894,6 +63966,17 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
+    "decision": {
+      "takeIf": [
+        "Você quer só a proteína do soro, sem sabor, com carboidratos e açúcares em 0 g na tabela.",
+        "Você quer evitar cafeína e glúten: a tabela do Just Protein não lista cafeína e a loja o marca como sem glúten."
+      ],
+      "skipIf": [
+        "Você quer vitaminas e minerais junto da proteína: aí é o Nutren Protein em pó.",
+        "Você quer bebida pronta: a garrafa de 260 ml do Nutren Protein ou a YoPRO.",
+        "Você tem 50 anos ou mais: veja a linha Nutren Senior e confirme na embalagem."
+      ]
+    },
     "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas oficiais informam.",
     "relatedArticles": [
       {
@@ -63947,6 +64030,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como contar: cápsula, caixa e bebida",
         "paragraphs": [
+          "Na loja oficial, a cápsula Dolce Gusto Original custava de R$ 1,79 a R$ 2,89, variando por sabor e promoção do dia. No preço cheio, sem promoção, a caixa de 10 sai a R$ 2,59 ou R$ 2,89 por cápsula.",
+          "O preço da xícara depende de quantas cápsulas a bebida usa. Os cafés pretos, o Café au Lait, chocolates como o Nescau e chás como o Nestea usam uma cápsula por bebida. Cappuccino, Latte Macchiato, Chococino Nestlé e Chai Tea Latte usam duas e custam o dobro por xícara.",
           "A loja vende caixas de 10 cápsulas; só a Starbucks Toffee Nut Latte vem com 12. Na página de cada sabor, o campo \"Cápsulas\" mostra \"x10\" quando cada cápsula faz uma bebida e \"x5 + x5\" quando a caixa traz dois tipos de cápsula, cinco de cada.",
           "No \"x5 + x5\", cada bebida usa as duas cápsulas, e a caixa faz 5 bebidas. É o caso do Cappuccino: a cápsula clara tem o leite em pó, e a escura, o café.",
           "Para chegar ao preço da xícara, divida o preço da caixa pelo número de bebidas. Cappuccino a R$ 17,90: R$ 17,90 ÷ 5 = R$ 3,58 por xícara. Espresso a R$ 17,90: R$ 17,90 ÷ 10 = R$ 1,79."
@@ -64099,7 +64184,7 @@ export const reviewsData: unknown[] = [
           "Duas cápsulas por bebida, caixa de 12 e 6 bebidas: Starbucks Toffee Nut Latte."
         ],
         "postParagraphs": [
-          "Atenção ao nome: o Cappuccino Moça Doce de Leite e o Caramelo Salgado, que a loja também chama de cappuccino, usam uma cápsula só, ao contrário do Cappuccino. Para escolher o sabor pelo seu jeito de tomar café, veja o nosso guia de sabores."
+          "Não confunda pelo nome: o Cappuccino Moça Doce de Leite e o Caramelo Salgado, que a loja também chama de cappuccino, usam uma cápsula só. Para escolher o sabor pelo seu jeito de tomar café, veja o nosso guia de sabores."
         ],
         "links": [
           {
@@ -64239,6 +64324,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A conta muda com o dia, mas a ordem da leitura foi esta: o combo de caixas teve o menor preço por bebida, a caixa de 10 no preço do dia veio logo depois, e a assinatura ficou mais cara por bebida com a caixa a R$ 17,90."
         ],
+        "emphasis": "Pelos números da tabela, para quem bebe sempre os mesmos sabores a escolha é o combo de caixas, porque teve o menor preço por bebida.",
         "bullets": [
           "Quem bebe sempre os mesmos sabores: o combo de 6 ou 8 caixas, que teve o menor preço por bebida.",
           "Quem quer misturar sabores numa caixa só: o DGusta, que no Espresso empata com a caixa do dia e no Cappuccino fica mais caro.",
@@ -64274,6 +64360,15 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
+    "decision": {
+      "takeIf": [
+        "Você bebe sempre os mesmos sabores e quer o menor preço por bebida."
+      ],
+      "skipIf": [
+        "Você quer misturar sabores numa caixa só: aí é o DGusta, que no Espresso empata com a caixa do dia e no Cappuccino fica mais caro.",
+        "Você quer frete grátis e 25% OFF em todo pedido: aí é a assinatura, que não soma com outras promoções do site."
+      ]
+    },
     "editorialNote": "Podemos receber comissão da Dolce Gusto. Preços das páginas oficiais da loja.",
     "relatedArticles": [
       {
@@ -64367,7 +64462,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que aparece depois da pesquisa e o que você ganha",
         "paragraphs": [
-          "Segundo a SHEIN, quem pesquisa o código de um afiliado vê a página de seleções dele. Se quem divulgou o código ainda não escolheu produtos, aparece a página padrão de seleções da SHEIN. Em 12/10/2026, a pesquisa pelo 4CW5Y abriu uma página de recomendações com o título \"Acho que você pode gostar\".",
+          "Quem pesquisa o código de um afiliado vê a página de seleções dele, informa a SHEIN. Se quem divulgou o código ainda não escolheu produtos, aparece a página padrão de seleções da SHEIN. Em 12/10/2026, a pesquisa pelo 4CW5Y abriu uma página de recomendações com o título \"Acho que você pode gostar\".",
           "Não há um desconto fixo ligado ao código. Quem chega pelo afiliado pode receber as vantagens mostradas nas páginas de campanha ou de produto, atualizadas com frequência. As campanhas em vigor ficam na página da SHEIN aqui do site."
         ],
         "links": [
@@ -65764,7 +65859,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taxa, imposto e devolução",
         "paragraphs": [
-          "Toda compra internacional paga ICMS, de 17% a 20% conforme o estado. Desde maio, o imposto de importação é zero nos pedidos de até US$ 50; acima disso, ele volta. Os produtos de Envio Nacional, que já estão no Brasil, não pagam imposto de importação.",
+          "Toda compra internacional paga ICMS, de 17% a 20%, variando por estado. Desde maio, o imposto de importação é zero nos pedidos de até US$ 50; acima disso, ele volta. Os produtos de Envio Nacional, que já estão no Brasil, não pagam imposto de importação.",
           "A devolução pode ser feita em até 20 dias depois de receber. O frete da primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso em cada devolução. Alguns itens, como roupa íntima e roupa de banho, só voltam no prazo de 7 dias. A tabela do imposto, um exemplo de cálculo e a lista completa desses itens estão no guia de Black Friday da SHEIN."
         ],
         "links": [
@@ -67435,7 +67530,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN, Shopee, Temu e AliExpress lado a lado",
         "paragraphs": [
-          "Este artigo não mede preço nem testa entregas: a tabela abaixo junta o que cada loja publica e o que o Reclame Aqui mostra, para você decidir pela sua compra.",
+          "O que separa as quatro é devolução e prazo: a tabela junta as regras que cada loja publica e a nota no Reclame Aqui.",
           "Os números vêm das regras que cada loja publica no Brasil e do Reclame Aqui dos últimos seis meses. A nota do Reclame Aqui mede o atendimento a quem reclama, não a qualidade do produto."
         ],
         "comparisonTable": {
@@ -67489,7 +67584,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O imposto não decide a escolha",
         "paragraphs": [
-          "A SHEIN, a Shopee e o AliExpress publicam a mesma regra para compra internacional: ICMS de 17% a 20% conforme o estado e imposto de importação zero nos pedidos de até US$ 50. Acima disso, ele volta.",
+          "A SHEIN, a Shopee e o AliExpress publicam a mesma regra para compra internacional: ICMS de 17% a 20%, variando por estado, e imposto de importação zero nos pedidos de até US$ 50. Acima disso, ele volta.",
           "O que muda o imposto é de onde a peça sai. Produto que já está no Brasil, como o Envio Nacional da SHEIN, não paga imposto de importação. A Temu não publica a alíquota nas páginas de envio e de devolução, e avisa que o imposto de importação não volta no reembolso. A tabela do imposto e um exemplo de cálculo estão no guia de Black Friday da SHEIN."
         ],
         "links": [
@@ -67521,7 +67616,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "A tabela traz a nota e o volume de reclamações de cada loja; abaixo dela, o que muda a leitura."
+          "A SHEIN lidera e a Temu fecha a fila, mas a nota mede atendimento, não qualidade do produto."
         ],
         "comparisonTable": {
           "caption": "Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress, nos seis meses até 30/09/2026.",
@@ -67586,6 +67681,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher, conforme a compra",
+        "emphasis": "Pelos números da tabela, para quem compra roupa sem provar a escolha é a Temu, porque dá 90 dias para devolver.",
         "bullets": [
           "**Quer poder devolver com folga:** Temu, com 90 dias da compra, ou SHEIN, com 20 dias do recebimento; Shopee e AliExpress dão 7 dias.",
           "**Precisa receber até uma data:** confira o prazo na página do produto ou do pedido. Na Shopee, ele muda de vendedor para vendedor; no AliExpress, a página da peça traz a data estimada e o reembolso se o pedido não chegar em 50 dias.",
@@ -69493,7 +69589,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como se conta o prazo",
         "paragraphs": [
-          "Todo pedido sai do armazém da YesStyle em Hong Kong. O prazo total é o tempo para o item ficar disponível mais o prazo do envio, e a loja conta os dois em dias úteis, no horário de Hong Kong (GMT+8).",
+          "Todo pedido sai do armazém da YesStyle em Hong Kong. O prazo soma dois tempos: o item sair do armazém e o envio. A loja conta os dois em dias úteis, no horário de Hong Kong (GMT+8).",
           "Conta nossa, somando os prazos da loja (1 a 3 dias úteis para sair do armazém e 10 a 15 de envio): em Portugal, um pedido só com itens em estoque leva de 11 a 18 dias úteis.",
           "Se o pagamento precisar de verificação, a contagem começa no dia em que o pedido é aprovado. Feriados e picos de pedidos também podem atrasar a saída."
         ],
@@ -69508,7 +69604,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Em estoque ou Aguardando estoque: o que diz a página do produto",
         "paragraphs": [
-          "A página de cada produto mostra a disponibilidade ao lado da versão. Ela diz quando o item sai do armazém, não quando ele chega."
+          "A página de cada produto mostra quando o item sai do armazém, não quando ele chega: a disponibilidade fica ao lado da versão."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-pt-2026-10-13.webp",
@@ -69537,7 +69633,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Portugal:** o IVA de 23% já está no preço dos produtos e é somado ao frete no checkout. Desde 1º de julho de 2026, a União Europeia cobra € 3 por categoria aduaneira em pacotes abaixo de € 150, e a YesStyle diz que, atualmente, paga essa taxa pelo cliente.",
-          "**Brasil:** a YesStyle não tem página de imposto para o Brasil e não está no Remessa Conforme (lista da Receita Federal). Fora do programa, a Receita cobra Imposto de Importação de 60%, sem desconto, sobre o produto, o frete e o seguro, mais ICMS de 17% a 20% conforme o estado, depois que o pacote chega."
+          "**Brasil:** a YesStyle não tem página de imposto para o Brasil e não está no Remessa Conforme (lista da Receita Federal). Fora do programa, a Receita cobra Imposto de Importação de 60%, sem desconto, sobre o produto, o frete e o seguro, mais ICMS de 17% a 20%, variando por estado, depois que o pacote chega."
         ],
         "postParagraphs": [
           "Um exemplo pela regra da Receita, num pedido de US$ 60 somando produto e frete: o Imposto de Importação é de US$ 36. O ICMS é calculado por dentro: com 20%, a base vira US$ 120 (os US$ 96 divididos por 0,8), e o ICMS fica em US$ 24. O imposto soma US$ 60, o mesmo valor do pedido; com ICMS de 17%, cerca de US$ 56."
@@ -71936,7 +72032,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem entrega no Brasil",
         "paragraphs": [
-          "As tabelas juntam o que cada loja publica nas páginas oficiais, lidas em 12/10/2026, sem comparar preço. No Brasil, a Jolse publica frete; a YesStyle não publica frete nem prazo, mas enviou um pedido nosso em setembro; o Stylevana também não os publica, e a Olive Young Global cita o país entre os sem envio. Em Portugal, as cinco lojas entregam, e todas publicam a partir de quanto o frete é grátis."
+          "No Brasil, só a Jolse publica o frete. A YesStyle não publica frete nem prazo, mas enviou um pedido nosso em setembro; o Stylevana também não os publica, e a Olive Young Global cita o país entre os sem envio. Em Portugal, as cinco lojas entregam, e todas publicam a partir de quanto o frete é grátis."
         ],
         "comparisonTable": {
           "caption": "Envio ao Brasil da YesStyle, da Jolse e da StyleKorean, pelas páginas oficiais, pela regra da Receita Federal e por um pedido nosso à YesStyle.",
@@ -71969,7 +72065,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A YesStyle mantém no ar o aviso de julho que pausou os novos pedidos ao Brasil, sem aviso de retomada. A Olive Young Global cita o Brasil entre os países sem envio.",
-          "O Stylevana não publica frete nem prazo para o Brasil, e a lista de destinos dele varia conforme a versão: a em inglês não traz o Brasil, e as traduções mais antigas ainda trazem. A central de ajuda dele também cita o Brasil, num artigo dela, entre as regiões em que o imposto de importação não está incluído no checkout."
+          "O Stylevana não publica frete nem prazo para o Brasil, e a lista de destinos dele muda de uma versão para outra: a em inglês não traz o Brasil, e as traduções mais antigas ainda trazem. A central de ajuda dele também cita o Brasil, num artigo dela, entre as regiões em que o imposto de importação não está incluído no checkout."
         ]
       },
       {
@@ -72117,7 +72213,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "StyleKorean: frete grátis por país e limite do pedido",
         "paragraphs": [
-          "Todos os pedidos da StyleKorean saem de um armazém na Coreia e vão à transportadora em até 5 dias úteis. O frete é calculado por peso e não vem no preço do produto. O frete grátis vale só para produtos de beleza: álbuns e produtos de K-pop ficam fora.",
+          "Na StyleKorean, o frete é calculado por peso e não vem no preço do produto: os pedidos saem de um armazém na Coreia e vão à transportadora em até 5 dias úteis. O frete grátis vale só para produtos de beleza: álbuns e produtos de K-pop ficam fora.",
           "O pedido tem limite de US$ 500, sem o frete; acima disso, a loja manda dividir em dois pedidos. Ela também não entrega em caixa postal nem em endereço militar (APO, FPO e DPO)."
         ],
         "comparisonTable": {
@@ -72204,7 +72300,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyle ou Shopee",
         "paragraphs": [
-          "A Shopee é um marketplace de vendedores: a devolução vai pela Garantia Shopee, em até 7 dias do recebimento, pelo aplicativo, e a Shopee está no Remessa Conforme. A YesStyle, a Olive Young, a StyleKorean e a Jolse não estão no programa (listas da Receita Federal).",
+          "A Shopee está no Remessa Conforme e a YesStyle não, e isso muda o imposto. A Shopee é um marketplace, com devolução em até 7 dias do recebimento pela Garantia Shopee, pelo aplicativo; a YesStyle, a Olive Young, a StyleKorean e a Jolse ficam fora do programa (listas da Receita Federal).",
           "Isso muda o imposto. No Remessa Conforme, o Imposto de Importação é zero até US$ 50 e, acima disso, de 60% menos US$ 30; fora dele, é de 60%, sem desconto. O ICMS de 17% a 20% vale nos dois casos, e, fora do programa, os impostos são cobrados depois que o pacote chega."
         ]
       },
@@ -72222,6 +72318,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
+        "emphasis": "Pelos números da tabela, para quem mora no Brasil a escolha é a Jolse, porque é a única que publica frete para o país.",
         "bullets": [
           "Quem mora no Brasil: a Jolse é a única das cinco que publica frete para o país (US$ 9,99, grátis acima de US$ 60), e o imposto é pago na entrega. A YesStyle enviou um pedido nosso em setembro, mas não publica frete nem prazo.",
           "Quem mora em Portugal: as cinco lojas entregam e todas publicam a partir de quanto o frete é grátis, então a escolha passa pelo imposto e pela devolução, nas tabelas acima.",
@@ -75053,7 +75150,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "PRO10EMCASACOMCECILIA",
     "affiliate": "probiotica",
-    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
+    "editorialNote": "Feito com fontes públicas, sem laudo nem teste de produto. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
         "slug": "probiotica-reclame-aqui-nota-reputacao",
@@ -75113,7 +75210,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a Probiótica vende",
         "paragraphs": [
           "A loja é de suplementos e de itens ligados a eles. O menu da página inicial lista Whey Protein, Creatina, Colágeno, Endurance, Pré-treino, Barras Proteicas, Kits Promocionais e Roupas e Acessórios.",
-          "Este artigo não avalia os produtos. Dizer se um whey ou uma creatina é bom pediria laudo ou teste, e não temos nenhum dos dois. Se o suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. O que dá para verificar, e é o que fizemos, é quem vende, se o site é o oficial e o que acontece se você precisar trocar."
+          "Este artigo não avalia os produtos. Dizer se um whey ou uma creatina é bom pediria laudo ou teste. Se o suplemento faz sentido para você, é conversa com um médico ou nutricionista. O que dá para verificar, e é o que fizemos, é quem vende, se o site é o oficial e o que acontece se você precisar trocar."
         ],
         "image": {
           "src": "/images/reviews/probiotica/probiotica-confiavel-capa.webp",
@@ -75126,7 +75223,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e defeito",
         "paragraphs": [
-          "As regras ficam na página de Termos e Condições do site. O que valia na leitura está no quadro:"
+          "A Probiótica dá 7 dias para arrepender e 30 para comunicar defeito; o detalhe está no quadro:"
         ],
         "comparisonTable": {
           "caption": "Prazos de arrependimento e de defeito da Probiótica, segundo os Termos e Condições do site",
@@ -75159,7 +75256,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazo e formas de pagamento",
         "paragraphs": [
-          "Pela política de frete grátis do site, a entrega sai sem custo a partir de um valor de pedido que muda conforme a região do CEP. Os valores abaixo são os que a página mostrava:"
+          "Pela política de frete grátis do site, a entrega sai sem custo a partir de um valor de pedido que muda por região do CEP. Os valores abaixo são os que a página mostrava:"
         ],
         "comparisonTable": {
           "caption": "Valor de pedido para frete grátis da Probiótica por região, segundo a política do site",
@@ -75324,7 +75421,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar na Probiótica",
         "paragraphs": [
-          "A Probiótica vende pela internet suplementos e itens ligados a eles, como whey, creatina, colágeno e barras de proteína. Quem compra pela primeira vez costuma ter duas dúvidas: o pedido chega no prazo, e o que acontece se vier algo errado ou se der problema depois?",
+          "Quem compra pela primeira vez quer saber se o pedido chega no prazo e o que acontece se der problema.",
           "Toda loja que vende pela internet recebe reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. Os números mudam todos os dias, então tratamos os números lidos como uma fotografia, e não como uma garantia. Vale abrir o perfil de novo no dia da sua compra.",
           "Este artigo não avalia produto. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. O que dá para ler nos dados públicos é como a empresa lida com as reclamações que recebe."
         ]
@@ -75332,7 +75429,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Probiótica no Reclame Aqui",
         "paragraphs": [
-          "O perfil da Probiótica fica na categoria Suplementos Alimentares e Fórmulas. O topo mostrava reputação **Boa** e avaliações de compra de 4,7 em 5. A tabela põe lado a lado as abas de 6 e de 12 meses, cada uma com o seu período:"
+          "O topo mostrava reputação **Boa** e avaliações de compra de 4,7 em 5, na categoria Suplementos Alimentares e Fórmulas. A tabela põe lado a lado as abas de 6 e de 12 meses, cada uma com o seu período:"
         ],
         "comparisonTable": {
           "caption": "Perfil Probiótica Laboratórios no Reclame Aqui, abas de 6 e de 12 meses, consultado em 14/10/2026",
@@ -75407,7 +75504,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais aparece nas reclamações",
         "paragraphs": [
-          "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. A lista era esta:"
+          "Na aba geral, com reclamações de até 3 anos, o atraso na entrega lidera a lista de problemas:"
         ],
         "bullets": [
           "**Categoria:** Suplementos Alimentares, com 58,3%.",
@@ -75533,7 +75630,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "PRO10EMCASACOMCECILIA",
     "affiliate": "probiotica",
-    "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
+    "editorialNote": "Cupom testado no carrinho oficial, sem laudo nem teste dos produtos. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
         "slug": "probiotica-e-confiavel",
@@ -75554,7 +75651,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o cupom PRO10EMCASACOMCECILIA",
         "paragraphs": [
-          "PRO10EMCASACOMCECILIA é o código da parceria do Em Casa com Cecília com a Probiótica, marca brasileira de suplementos. Na loja, ele entra no campo \"Cupom de Desconto\" do carrinho.",
+          "O PRO10EMCASACOMCECILIA é o código da parceria com a Probiótica: dá até 10% OFF e entra no campo \"Cupom de Desconto\" do carrinho.",
           "O desconto chega a **10% OFF**, mas varia por produto: nem todo item recebe os 10%. O número que vale é o que a loja mostra na linha \"Descontos\" do seu pedido. O teste do passo 4 mostra isso num carrinho misto.",
           "O Em Casa com Cecília pode receber comissão pelas compras feitas com esse cupom."
         ],
@@ -75588,7 +75685,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Digite PRO10EMCASACOMCECILIA em \"Cupom de Desconto\" e clique em \"Adicionar\"",
         "paragraphs": [
-          "No resumo do pedido, no alto do lado direito da tela do carrinho, está o campo \"Cupom de Desconto\", com o botão \"Adicionar\" ao lado. Digite o código **PRO10EMCASACOMCECILIA** e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
+          "Digite o código **PRO10EMCASACOMCECILIA** no campo \"Cupom de Desconto\", no alto do lado direito do carrinho, e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
           "No print, o código aparece no campo, mas cortado: o campo é estreito e só mostra o começo do texto, \"PRO10EMCASACOMCE\". O código inteiro está lá, e a prova vem no próximo passo, quando a loja o exibe completo depois de aceito.",
           "Até clicar em \"Adicionar\", nada muda: o subtotal e o total seguem iguais, como no print. O desconto só entra depois do clique."
         ],
@@ -75659,7 +75756,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pix, primeira compra e outros cupons",
         "paragraphs": [
           "O PRO10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. A página inicial da Probiótica anunciava parcelamento em até 6 vezes sem juros no cartão e até 5% de desconto no Pix e no boleto. O percentual do Pix e do boleto é da loja, e pode mudar: confira o percentual na hora de pagar.",
-          "Também não importa se é a sua primeira compra. O cupom funciona para quem está abrindo uma conta nova e para quem já comprou na Probiótica. Ele vale na primeira compra e continua valendo nos pedidos seguintes.",
+          "Também não importa se é a sua primeira compra. O cupom vale para conta nova e para quem já comprou, na primeira compra e nas seguintes.",
           "Se o pedido tiver brinde, os Termos e Condições da loja contavam o valor final pago, já com o desconto do cupom."
         ]
       },
@@ -75679,14 +75776,14 @@ export const reviewsData: unknown[] = [
           "Roupas e Acessórios"
         ],
         "postParagraphs": [
-          "Não avaliamos produto aqui: dizer se um item é bom pediria laudo ou teste, e não temos nenhum dos dois. Se o suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
+          "Não avaliamos produto aqui: dizer se um item é bom pediria laudo ou teste. Se o suplemento faz sentido para você, é conversa com um médico ou nutricionista.",
           "Nenhuma fonte nossa diz quais categorias ou itens ficam abaixo de 10%: a linha \"Descontos\" mostra só o total do pedido."
         ]
       },
       {
         "heading": "Prazos e regras de troca da Probiótica",
         "paragraphs": [
-          "As regras de troca e devolução da Probiótica eram estas:"
+          "Troca na Probiótica: 7 dias para arrepender, 30 para defeito:"
         ],
         "bullets": [
           "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
@@ -75829,7 +75926,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e defeito na Dr. Peanut",
         "paragraphs": [
-          "A \"Política de Trocas e Devoluções\" está publicada no site. Ela separa três situações, e o que muda de uma para outra é o prazo e quem paga o frete:"
+          "A troca tem três situações: o que muda de uma para outra é o prazo e quem paga o frete:"
         ],
         "comparisonTable": {
           "caption": "Política de Trocas e Devoluções da Dr. Peanut",
@@ -76008,9 +76105,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar na Dr. Peanut",
         "paragraphs": [
-          "A Dr. Peanut vende pelo próprio site, e a empresa é uma fábrica de Curitiba (PR). Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista; aqui o assunto é a loja.",
+          "Na Dr. Peanut você compra no site da fábrica de Curitiba (PR). Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista; aqui o assunto é a loja.",
           "O perfil mostra, com data, a reputação da empresa, quantas reclamações recebeu, quantas respondeu, quantas o consumidor considerou resolvidas e quantos voltariam a fazer negócio. São essas medidas que usamos aqui.",
-          "Em 14/10/2026, o perfil \"Dr. Peanut\" aparecia na categoria Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Os números do Reclame Aqui mudam com o tempo e cada aba do perfil cobre um período próprio, por isso todos os dados abaixo trazem o intervalo de cada aba. Vale abrir o perfil de novo no dia da sua compra."
+          "Em 14/10/2026, o perfil \"Dr. Peanut\" aparecia na categoria Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Os números mudam com o tempo, e cada aba cobre um período próprio. Por isso cada dado abaixo traz o intervalo da aba. Vale abrir o perfil de novo no dia da sua compra."
         ]
       },
       {
@@ -76130,7 +76227,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais aparece nas reclamações da Dr. Peanut",
         "paragraphs": [
-          "O Reclame Aqui reúne as reclamações de até 3 anos, da aba geral, em três listas: categoria, problema e produto. As três apontam para o mesmo lugar, a entrega:"
+          "As queixas apontam para o mesmo lugar, a entrega. O Reclame Aqui reúne as de até 3 anos, da aba geral, em categoria, problema e produto:"
         ],
         "comparisonTable": {
           "caption": "Principais problemas no perfil da Dr. Peanut no Reclame Aqui, reclamações de até 3 anos",
@@ -76283,7 +76380,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o cupom DREMCASACOMCECILIA",
         "paragraphs": [
-          "O **DREMCASACOMCECILIA** é o cupom da parceria do Em Casa com Cecília com a Dr. Peanut. Ele dá 10% OFF em todo o site oficial, com qualquer forma de pagamento, e o percentual é o mesmo seja qual for o meio escolhido. Vale para conta nova e para quem já comprou, então serve na primeira compra e nas seguintes. O Em Casa com Cecília tem parceria com a Dr. Peanut e pode receber comissão pelas compras feitas com o cupom."
+          "O **DREMCASACOMCECILIA** dá 10% OFF em todo o site oficial, com qualquer forma de pagamento. É o cupom da parceria do Em Casa com Cecília com a Dr. Peanut. Vale para conta nova e para quem já comprou, então serve na primeira compra e nas seguintes. O Em Casa com Cecília tem parceria com a Dr. Peanut e pode receber comissão pelas compras feitas com o cupom."
         ],
         "image": {
           "src": "/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
@@ -76379,7 +76476,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que comprar com o cupom",
         "paragraphs": [
-          "O cupom vale em todo o site. O menu da Dr. Peanut traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores."
+          "O cupom vale em todo o site: Pastas de Amendoim, Snacks, Whey Protein e alfajores."
         ],
         "bullets": [
           "**Whey:** inclusive o \"100% Whey Dr. Peanut 900g - Max Titanium\". O nome das duas marcas aparece porque elas são do mesmo grupo, como explicamos em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel)."
@@ -76391,7 +76488,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se precisar trocar",
         "paragraphs": [
-          "Compra feita no site oficial segue a Política de Trocas e Devoluções da loja. Ela separa três situações:"
+          "O que vale na troca depende da situação: a política da loja separa três:"
         ],
         "bullets": [
           "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. A loja paga a devolução.",
@@ -76484,21 +76581,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Black Skull é brasileira? E por que \"USA\"?",
         "paragraphs": [
-          "Segundo a própria marca, sim. No \"Sobre nós\" do site oficial, a Black Skull se define como \"uma marca brasileira de suplementos\", inaugurada no Brasil em 2015, que trabalha \"através da Grow Dietary Supplements Labs USA (GDS)\". A sede da marca no Brasil fica em Embu das Artes, na Grande São Paulo, e o texto fala em mais de 12.000 m². São afirmações institucionais da empresa.",
+          "Sim, pela própria marca. No \"Sobre nós\" do site oficial, a Black Skull se define como \"uma marca brasileira de suplementos\", inaugurada no Brasil em 2015, que trabalha \"através da Grow Dietary Supplements Labs USA (GDS)\". A sede da marca no Brasil fica em Embu das Artes, na Grande São Paulo, e o texto fala em mais de 12.000 m². São afirmações institucionais da empresa.",
           "O que dá para conferir por fora bate com isso. A razão social que aparece no rodapé do site é GDS Grow Dietary Supplements do Brasil S/A, com o CNPJ 19.897.687/0001-38 e o endereço Av. João Paulo I, 1795, Jardim Sao Luiz, Embu das Artes (SP). Na base pública de CNPJ (BrasilAPI), a empresa consta como ativa desde 18/03/2014, matriz, sociedade anônima fechada, com atividade de fabricação de alimentos dietéticos e complementos alimentares.",
-          "Então, de onde vem o \"USA\"? O nome do site e o da loja no carrinho (\"BLACKSKULL USA\") repetem a sigla que a marca usa ao descrever a GDS, mas o \"Sobre nós\" não explica o motivo em uma frase. O que importa para quem compra: a empresa do rodapé tem CNPJ brasileiro, e as trocas, o frete e o atendimento seguem regras publicadas no site e telefones do Brasil."
+          "De onde vem o \"USA\"? O nome do site e o da loja no carrinho (\"BLACKSKULL USA\") repetem a sigla que a marca usa ao descrever a GDS, mas o \"Sobre nós\" não explica o motivo em uma frase. O que importa para quem compra: a empresa do rodapé tem CNPJ brasileiro, e as trocas, o frete e o atendimento seguem regras publicadas no site e telefones do Brasil."
         ]
       },
       {
         "heading": "A Black Skull é da Integralmédica?",
         "paragraphs": [
-          "A pergunta aparece nas buscas, mas o rodapé, o \"Sobre nós\" e os dados públicos do CNPJ não citam a Integralmédica. Nenhuma fonte oficial liga a Black Skull à Integralmédica: o CNPJ e o site apontam para a GDS Grow Dietary Supplements do Brasil S/A."
+          "Nenhuma fonte oficial liga a Black Skull à Integralmédica. O rodapé, o \"Sobre nós\" e os dados do CNPJ apontam para a GDS Grow Dietary Supplements do Brasil S/A."
         ]
       },
       {
         "heading": "Como saber se você está no site oficial",
         "paragraphs": [
-          "A busca \"site black skull é confiável\" aparece no autocompletar do Google. Confira antes de pagar:"
+          "Antes de pagar, confira se está no site oficial:"
         ],
         "bullets": [
           "O endereço na barra do navegador é **blackskullusa.com.br**. O nome antigo, blackskull.com.br, redireciona para ele, então cair aí também é normal. Atenção principalmente se você chegou por anúncio ou mensagem.",
@@ -76514,7 +76611,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Black Skull vende",
         "paragraphs": [
-          "A Black Skull se apresenta como uma marca de suplementos para treino (\"Heavy Sports Nutrition\"). O menu da página inicial tinha Produtos, Whey Protein, Creatina, Exclusivos e Promoções. Entre os produtos da loja estão:"
+          "A loja é de suplementos para treino (\"Heavy Sports Nutrition\"): o menu tinha Produtos, Whey Protein, Creatina, Exclusivos e Promoções. Entre os produtos da loja estão:"
         ],
         "image": {
           "src": "/images/reviews/black-skull/black-skull-confiavel-capa.webp",
@@ -76572,7 +76669,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis, entrega e pagamento",
         "paragraphs": [
-          "A Black Skull tem frete grátis, mas o valor mínimo muda conforme a região de entrega. Pela política de entrega do site, as faixas são estas:"
+          "A Black Skull tem frete grátis, mas o valor mínimo muda por região de entrega. Pela política de entrega do site, as faixas são estas:"
         ],
         "comparisonTable": {
           "caption": "Frete grátis da Black Skull por região de entrega, conforme a política de entrega",
@@ -76771,7 +76868,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Black Skull no Reclame Aqui",
         "paragraphs": [
-          "O perfil mostra um quadro de desempenho para cada período. A tabela reúne as três abas lidas em 14/10/2026, cada uma com o período que o Reclame Aqui informa embaixo do quadro. A aba de 6 meses vai de abril a setembro; a de 12 meses, de outubro do ano anterior a setembro; a de 2025 cobre o ano inteiro."
+          "Leia os três quadros juntos: a tabela reúne as abas lidas em 14/10/2026. Cada uma cobre só o próprio período, informado embaixo do quadro. A aba de 6 meses vai de abril a setembro; a de 12 meses, de outubro do ano anterior a setembro; a de 2025 cobre o ano inteiro."
         ],
         "comparisonTable": {
           "caption": "Perfil da Black Skull no Reclame Aqui, abas de 6 meses, 12 meses e 2025",
@@ -77061,7 +77158,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o cupom CECILIA10 da Black Skull",
         "paragraphs": [
-          "O CECILIA10 é o código da parceria do Em Casa com Cecília com a Black Skull. Ele dá **10% de desconto em todo o site**, de whey e creatina a pré-treino, glutamina e roupas de treino.",
+          "O CECILIA10 dá **10% de desconto em todo o site**, de whey e creatina a pré-treino, glutamina e roupas de treino. É o código da parceria do Em Casa com Cecília com a Black Skull.",
           "As regras do cupom em 14/10/2026:"
         ],
         "bullets": [
@@ -77102,7 +77199,7 @@ export const reviewsData: unknown[] = [
         "heading": "3. Digite CECILIA10 em \"Cupom de Desconto\" e clique em \"Adicionar\"",
         "paragraphs": [
           "Clique no campo \"Código\", digite **CECILIA10** e clique em \"Adicionar\". No print, com o código digitado e antes do \"Adicionar\", o subtotal e o total ainda são R$ 364,33.",
-          "Quando o cupom é aceito, o campo é substituído por uma linha com o nome do código, CECILIA10, com um X ao lado."
+          "Quando o cupom é aceito, o campo vira uma linha com o nome do código, CECILIA10, e um X ao lado."
         ],
         "image": "/images/reviews/black-skull/black-skull-cupom-02-codigo-digitado.webp",
         "imageAlt": "Quadro da sacola da Black Skull com CECILIA10 digitado no campo Cupom de Desconto, antes de clicar em Adicionar, com subtotal e total de R$ 364,33",
@@ -77131,7 +77228,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis com o cupom: confira o mínimo da sua região",
         "paragraphs": [
-          "O CECILIA10 não é um cupom de frete grátis. O frete grátis da Black Skull vem do valor mínimo do pedido, que muda conforme a região de entrega. A loja informava estes mínimos:"
+          "O CECILIA10 não é um cupom de frete grátis. O frete grátis da Black Skull vem do valor mínimo do pedido, que muda por região de entrega. A loja informava estes mínimos:"
         ],
         "comparisonTable": {
           "caption": "Frete grátis da Black Skull por região de entrega",
@@ -77161,7 +77258,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que comprar com o cupom",
         "paragraphs": [
-          "O CECILIA10 vale em todo o site. Na sacola do nosso teste, havia whey, creatina e pré-treino (no kit), glutamina e uma regata. A página da loja cita também aminoácidos e roupas de treino.",
+          "O CECILIA10 vale em todo o site: na sacola do nosso teste havia whey, creatina e pré-treino (no kit), glutamina e uma regata. A página da loja cita também aminoácidos e roupas de treino.",
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
         ]
       },
@@ -77261,7 +77358,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem está por trás da Lejour",
         "paragraphs": [
-          "A Lejour é uma plataforma brasileira de casamento: o casal monta um site com as informações da festa e uma lista de presentes em dinheiro, e os convidados presenteiam pelo próprio site. Na página inicial, a empresa diz que \"mais de 300 mil casais já usaram a Lejour\". É um número da própria Lejour, que não conseguimos conferir de forma independente.",
+          "A Lejour é uma plataforma brasileira de casamento, com CNPJ ativo desde 2017: o casal monta o site da festa com uma lista de presentes em dinheiro, e os convidados presenteiam por ele. Na página inicial, a empresa diz que \"mais de 300 mil casais já usaram a Lejour\". É um número da própria Lejour, que não conseguimos conferir de forma independente.",
           "O que dá para conferir é o cadastro da empresa. Consultamos o CNPJ na BrasilAPI, que espelha os dados da Receita Federal, e comparamos com o rodapé do site."
         ],
         "postParagraphs": [
@@ -77318,7 +77415,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como o dinheiro dos presentes chega até vocês",
         "paragraphs": [
-          "Na Lejour, todos os presentes da lista são virtuais. O convidado escolhe um presente, paga, e o valor entra como crédito em dinheiro no painel do casal. Do crédito, o casal saca por Pix. O caminho completo, segundo a central de ajuda da Lejour, é este:"
+          "Na Lejour, todos os presentes da lista são virtuais. O convidado escolhe um presente, paga, e o valor entra como crédito em dinheiro no painel do casal. Do crédito, o casal saca por Pix. O caminho completo, pela central de ajuda da Lejour, é este:"
         ],
         "postParagraphs": [
           "Se vocês contam com o dinheiro para uma data, como o sinal do buffet, lembrem que o presente pago no cartão só vira crédito 15 dias corridos depois da compra.",
@@ -77368,7 +77465,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Saque só para o CPF de quem publicou a lista.** A chave Pix informada deve pertencer ao mesmo CPF responsável pela publicação da lista. Ou seja, o saque não vai para uma conta de outra pessoa.",
           "**Validação de identidade antes do primeiro saque.** A Lejour pede documento com foto e selfie. É a etapa que liga a lista a uma pessoa real antes de o dinheiro sair.",
-          "**Painel e saldo sem prazo para sumir.** O site do casal fica público até 90 dias depois do casamento. Depois disso, os convidados não acessam mais o site, mas o painel de administração \"permanece ativo por tempo indeterminado\", segundo a central de ajuda, e dá para resgatar o saldo por ele."
+          "**Painel e saldo sem prazo para sumir.** O site do casal fica público até 90 dias depois do casamento. Depois disso, os convidados não acessam mais o site, mas o painel de administração \"permanece ativo por tempo indeterminado\", informa a central de ajuda, e dá para resgatar o saldo por ele."
         ],
         "postParagraphs": [
           "Não encontramos certificação de segurança nem o nome do processador de pagamento publicados. A página \"É seguro utilizar a Lejour?\" da central de ajuda é genérica e diz só que a empresa leva a segurança a sério.",
@@ -77378,7 +77475,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa usar a Lejour",
         "paragraphs": [
-          "Criar a lista é grátis no plano Basic. A Lejour cobra uma taxa sobre os presentes, de 2,99% a 3,89% conforme o plano (3,89% no Basic), e o casal escolhe se ela sai do valor que recebe ou é somada ao que o convidado paga. Os planos pagos, Premium e Pro, baixam a taxa e são pagos uma vez. A comparação entre os planos está em:"
+          "Criar a lista é grátis no plano Basic. A Lejour cobra uma taxa sobre os presentes, de 2,99% a 3,89%, variando por plano (3,89% no Basic), e o casal escolhe se ela sai do valor que recebe ou é somada ao que o convidado paga. Os planos pagos, Premium e Pro, baixam a taxa e são pagos uma vez. A comparação entre os planos está em:"
         ],
         "links": [
           {
@@ -77420,7 +77517,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vale a pena usar a Lejour?",
         "paragraphs": [
           "Do ponto de vista da confiança, sim. É uma empresa com CNPJ ativo desde 2017, trabalha com a Fast Shop, libera o saque só por Pix para o CPF de quem publicou a lista, depois de confirmar a identidade, e tem reputação Ótima no Reclame Aqui nos últimos 12 meses. O plano Basic permite começar sem pagar nada e ver se o formato serve ao casal.",
-          "Os cuidados são de conta, não de confiança. A taxa de 3,89% do Basic pesa mais conforme a lista cresce, e vale comparar com os planos Premium e Pro se a expectativa de presentes em dinheiro for alta. No cartão, o dinheiro só fica disponível 15 dias corridos depois da compra, então quem precisa do valor logo deve pensar nisso. E, como o presente é crédito em dinheiro e não produto enviado, a Lejour serve a casais que querem receber em Pix, e não a quem quer ver cada item chegar em casa."
+          "Os cuidados são de conta, não de confiança. A taxa de 3,89% do Basic pesa mais quanto maior a lista, e vale comparar com os planos Premium e Pro se a expectativa de presentes em dinheiro for alta. No cartão, o dinheiro só fica disponível 15 dias corridos depois da compra, então quem precisa do valor logo deve pensar nisso. E, como o presente é crédito em dinheiro e não produto enviado, a Lejour serve a casais que querem receber em Pix, e não a quem quer ver cada item chegar em casa."
         ]
       },
       {
@@ -77520,7 +77617,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Lejour no Reclame Aqui",
         "paragraphs": [
-          "O Reclame Aqui mostra o desempenho por período. O perfil da Lejour tinha cinco abas: 6 meses, 12 meses, 2025, 2024 e Geral. Estas são três delas, cada uma com o intervalo de datas que aparece no rodapé do quadro:"
+          "O Reclame Aqui mostra o desempenho por período. Das cinco abas do perfil, estas são as três que contam aqui: 6 meses, 12 meses e 2025, cada uma com o intervalo de datas do rodapé do quadro:"
         ],
         "image": {
           "src": "/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
@@ -77614,7 +77711,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais aparece nas reclamações da Lejour",
         "paragraphs": [
-          "O Reclame Aqui destacava três itens no perfil da Lejour, todos de reclamações registradas em até 3 anos na aba geral:"
+          "Com poucas reclamações, cada uma pesa muito na fatia: o Reclame Aqui destacava três itens de até 3 anos na aba geral:"
         ],
         "postParagraphs": [
           "A leitura é sobre a plataforma e o atendimento: \"Mau Atendimento\" é o problema mais marcado. Nos três itens que o perfil destaca, não aparece saque, pagamento ou estorno. O print mostra um item de cada grupo, e não a lista completa, então isso não quer dizer que nenhuma reclamação tenha tratado de dinheiro.",
@@ -81950,6 +82047,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como ler os preços desta seleção",
         "paragraphs": [
+          "A seleção reúne 20 peças escolhidas pela Cecília na Insider: 4 roupas íntimas, 9 camisas e camisetas e 7 bermudas, vestidos e outras peças. Todas aceitam o cupom EMCASACOMCECILIA, de 15% OFF sobre o preço do site, e as promoções do site valem até 31/10/2026.",
           "Os preços foram conferidos em 15/10/2026. Em algumas peças, o preço muda conforme a cor, e a seção de cada uma diz em quais cores vale o menor. Cores e tamanhos em estoque são da mesma data. Para acertar o tamanho, veja a [Tabela de medidas Insider: como escolher o tamanho](/reviews/tabela-de-medidas-insider)."
         ],
         "bullets": [

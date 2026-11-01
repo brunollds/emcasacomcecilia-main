@@ -43,7 +43,7 @@
   },
   "coupon": "PRO10EMCASACOMCECILIA",
   "affiliate": "probiotica",
-  "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
+  "editorialNote": "Cupom testado no carrinho oficial, sem laudo nem teste dos produtos. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
   "relatedArticles": [
     {
       "slug": "probiotica-e-confiavel",
@@ -64,7 +64,7 @@
     {
       "heading": "O que é o cupom PRO10EMCASACOMCECILIA",
       "paragraphs": [
-        "PRO10EMCASACOMCECILIA é o código da parceria do Em Casa com Cecília com a Probiótica, marca brasileira de suplementos. Na loja, ele entra no campo \"Cupom de Desconto\" do carrinho.",
+        "O PRO10EMCASACOMCECILIA é o código da parceria com a Probiótica: dá até 10% OFF e entra no campo \"Cupom de Desconto\" do carrinho.",
         "O desconto chega a **10% OFF**, mas varia por produto: nem todo item recebe os 10%. O número que vale é o que a loja mostra na linha \"Descontos\" do seu pedido. O teste do passo 4 mostra isso num carrinho misto.",
         "O Em Casa com Cecília pode receber comissão pelas compras feitas com esse cupom."
       ],
@@ -98,7 +98,7 @@
     {
       "heading": "3. Digite PRO10EMCASACOMCECILIA em \"Cupom de Desconto\" e clique em \"Adicionar\"",
       "paragraphs": [
-        "No resumo do pedido, no alto do lado direito da tela do carrinho, está o campo \"Cupom de Desconto\", com o botão \"Adicionar\" ao lado. Digite o código **PRO10EMCASACOMCECILIA** e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
+        "Digite o código **PRO10EMCASACOMCECILIA** no campo \"Cupom de Desconto\", no alto do lado direito do carrinho, e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
         "No print, o código aparece no campo, mas cortado: o campo é estreito e só mostra o começo do texto, \"PRO10EMCASACOMCE\". O código inteiro está lá, e a prova vem no próximo passo, quando a loja o exibe completo depois de aceito.",
         "Até clicar em \"Adicionar\", nada muda: o subtotal e o total seguem iguais, como no print. O desconto só entra depois do clique."
       ],
@@ -169,7 +169,7 @@
       "heading": "Pix, primeira compra e outros cupons",
       "paragraphs": [
         "O PRO10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. A página inicial da Probiótica anunciava parcelamento em até 6 vezes sem juros no cartão e até 5% de desconto no Pix e no boleto. O percentual do Pix e do boleto é da loja, e pode mudar: confira o percentual na hora de pagar.",
-        "Também não importa se é a sua primeira compra. O cupom funciona para quem está abrindo uma conta nova e para quem já comprou na Probiótica. Ele vale na primeira compra e continua valendo nos pedidos seguintes.",
+        "Também não importa se é a sua primeira compra. O cupom vale para conta nova e para quem já comprou, na primeira compra e nas seguintes.",
         "Se o pedido tiver brinde, os Termos e Condições da loja contavam o valor final pago, já com o desconto do cupom."
       ]
     },
@@ -189,14 +189,14 @@
         "Roupas e Acessórios"
       ],
       "postParagraphs": [
-        "Não avaliamos produto aqui: dizer se um item é bom pediria laudo ou teste, e não temos nenhum dos dois. Se o suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
+        "Não avaliamos produto aqui: dizer se um item é bom pediria laudo ou teste. Se o suplemento faz sentido para você, é conversa com um médico ou nutricionista.",
         "Nenhuma fonte nossa diz quais categorias ou itens ficam abaixo de 10%: a linha \"Descontos\" mostra só o total do pedido."
       ]
     },
     {
       "heading": "Prazos e regras de troca da Probiótica",
       "paragraphs": [
-        "As regras de troca e devolução da Probiótica eram estas:"
+        "Troca na Probiótica: 7 dias para arrepender, 30 para defeito:"
       ],
       "bullets": [
         "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",

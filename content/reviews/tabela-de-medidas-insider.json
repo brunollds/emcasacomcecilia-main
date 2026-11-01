@@ -35,7 +35,7 @@
     {
       "heading": "A tabela da Insider é da peça, não do corpo",
       "paragraphs": [
-        "As medidas deste guia vêm das tabelas oficiais da Insider, abertas no botão \"Tabela de Medidas da Peça\" de cada produto em 12/10/2026. Não provamos as peças.",
+        "A tabela da Insider mede a peça deitada, não o corpo: as medidas vêm das tabelas oficiais, abertas no botão \"Tabela de Medidas da Peça\" de cada produto em 12/10/2026.",
         "Na página de cada produto, o menu \"Ficou com dúvidas sobre o seu tamanho?\" oferece o Assistente de Tamanho Inteligente, o Provador Virtual, a Tabela de Medidas da Peça (com a frase \"Compare com itens que você tem em casa\") e, na Tech T-Shirt, a comparação entre peças Insider.",
         "A tabela traz as medidas da roupa estendida, em centímetros. A Insider não publica tabela de medidas do corpo por tamanho (tórax ou cintura de quem veste), nem equivalência com L, XL ou 42. Cada linha tem a sua tabela, e as colunas mudam: a camiseta masculina mostra altura, largura e manga; a feminina acrescenta o busto; a cueca mostra cintura, quadril e barra.",
         "As perguntas frequentes de várias páginas dizem que a camiseta vai \"do pp ao xxgg\", inclusive em peças que param no XGG. Vale a lista de tamanhos que aparece no próprio produto.",
@@ -316,7 +316,7 @@
     {
       "heading": "Encolhimento: o que a Insider diz e por que pesa na troca",
       "paragraphs": [
-        "Os artigos de lavagem da central de ajuda dizem até quanto cada linha pode encolher. Nas páginas da Core e da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\". Os dois números são da Insider, e a marca não explica como se relacionam; valem os dois.",
+        "Cada linha pode encolher até um limite: o da sua está na tabela abaixo. Nas páginas da Core e da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\". Os dois números são da Insider, e a marca não explica como se relacionam; valem os dois.",
         "Isso pesa na troca: a troca por tamanho exige peça sem uso e sem sinais de lavagem. Não dá para lavar para ver se encolhe e depois trocar. Escolha o tamanho pela tabela e siga as instruções de lavagem da etiqueta."
       ],
       "comparisonTable": {
@@ -336,7 +336,7 @@
     {
       "heading": "Errei o tamanho: o que a Insider permite",
       "paragraphs": [
-        "Camiseta que não serviu pode ser trocada em até 21 dias corridos depois do recebimento, sem uso, com etiqueta e sem sinais de lavagem. A troca é gratuita e vale para o mesmo modelo, em outra cor ou tamanho, conforme o estoque. Cueca, calcinha e beachwear só trocam por defeito de fabricação.",
+        "Camiseta que não serviu pode ser trocada em até 21 dias corridos depois do recebimento, sem uso, com etiqueta e sem sinais de lavagem. A troca é gratuita e vale para o mesmo modelo, em outra cor ou tamanho, se houver estoque. Cueca, calcinha e beachwear só trocam por defeito de fabricação.",
         "Os prazos de arrependimento e de defeito e o passo a passo da troca estão no nosso guia sobre a Insider."
       ],
       "links": [
@@ -398,7 +398,7 @@
   },
   "coupon": "EMCASACOMCECILIA",
   "affiliate": "insider",
-  "editorialNote": "Podemos receber comissão quando você compra pelos nossos links.",
+  "editorialNote": "Podemos receber comissão quando você compra pelos nossos links. Não provamos as peças.",
   "relatedArticles": [
     {
       "slug": "insider-vale-a-pena",
