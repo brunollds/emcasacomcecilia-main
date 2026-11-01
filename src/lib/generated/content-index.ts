@@ -28921,14 +28921,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é a Poltrona Reclinável Damie 2.0",
         "paragraphs": [
-          "A nova Poltrona Reclinável Damie 2.0 (versão 2026) é uma evolução relevante da linha de poltronas de cinema e amamentação da marca. Produzida sob medida pela indústria gaúcha Damie, ela vai além da reclinação: é uma estação de conforto que você monta e personaliza de acordo com o seu orçamento e gosto.",
+          "A Damie 2.0 é a poltrona reclinável da indústria gaúcha Damie, feita sob medida para sala de TV, cinema em casa e amamentação. Ela vai além da reclinação: é uma estação de conforto que você monta e personaliza de acordo com o seu orçamento e gosto.",
           "É possível escolher o tipo de base (manual ou elétrica com balanço), o revestimento e acessórios como carregador, luminária touch e massageador. Em nossa experiência inicial, a ergonomia se mostrou muito confortável para salas de TV, home cinemas, quartos de bebê e cantos de leitura. Com o cupom Damie CECILIA12, você garante 12% de desconto no valor total do carrinho."
         ],
         "bullets": [
           "Personalização total: escolha do mecanismo, revestimentos, cores e acessórios tecnológicos.",
           "Mecanismo elétrico: ajuste milimétrico e motor silencioso que reclina suavemente.",
-          "Revestimento prático: opção de Courino Importado (praticamente impermeável), ideal para casas com pets e crianças.",
-          "Cupom exclusivo: digite CECILIA12 no checkout oficial para obter 12% de desconto."
+          "Revestimento prático: opção de Courino Importado (praticamente impermeável), ideal para casas com pets e crianças."
         ],
         "emphasis": "A sensação ao sentar e reclinar na poltrona Damie 2.0 não é apenas de um abraço confortável, mas sim de um verdadeiro 'colo de mãe'. Em nossas primeiras semanas de uso, os motores elétricos se mostraram muito silenciosos e o ajuste, preciso.",
         "emphasisAfterParagraph": 1,
@@ -28942,13 +28941,12 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Recebemos a Poltrona Damie 2.0 há menos de um mês e, desde então, ela vem sendo usada todos os dias por todos aqui de casa e também por nossas visitas. Nossa configuração é elétrica, com giro e balanço, revestida em Courino Importado caramelo.",
           "Nessas primeiras semanas, a poltrona superou nossas expectativas de conforto. O motor elétrico de reclinação opera com ruído quase imperceptível, o que é ótimo para assistir a filmes ou ler à noite. Para nós, a combinação de giro e balanço com o revestimento praticamente impermeável transformou a poltrona em um refúgio depois de um dia corrido.",
-          "A configuração que estamos usando inclui massagem, motor independente de cabeça e pescoço, case fosco 3 em 1 com tomada, USB-A e USB-C, porta-copos, luminária, mesa de apoio e suporte com carregador para smartphones e tablets. Todos os opcionais encontraram utilidade na nossa rotina, mas a massagem foi o recurso favorito da Cecília.",
+          "Usamos a configuração completa, com todos os opcionais do capítulo de acessórios abaixo. Todos foram úteis na rotina, mas a massagem foi a favorita da Cecília.",
           "Entre a emissão da nota fiscal e a chegada da poltrona passaram aproximadamente 15 dias corridos. A experiência de entrega foi ágil para um móvel produzido de forma personalizada.",
           "As condições comerciais foram verificadas em 24 de outubro de 2026: o código CECILIA12 oferece 12% de desconto em todo o catálogo e pode ser acumulado com mais 10% no PIX. A marca também informa parcelamento em até 12 vezes sem juros, com parcela mínima de R$ 100, e frete grátis para poltronas e sofás no Sul e no Sudeste; nas outras regiões, o frete sai pelo CEP. Essas condições podem ser alteradas pela fabricante."
         ],
         "bullets": [
           "Conforto ergonômico excepcional com sensação de 'abraço' acolhedor.",
-          "Todos os opcionais instalados se mostraram úteis nas primeiras semanas de uso.",
           "12% de desconto no carrinho aplicando o código CECILIA12."
         ]
       },
@@ -28988,13 +28986,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4 Versões de Mecanismo e Base",
         "paragraphs": [
-          "Ao encomendar a sua poltrona Damie 2.0, o primeiro passo é selecionar a mecânica de movimentação e a estrutura da base. Existem quatro versões disponíveis:",
-          "1. Manual com Base Fixa (Gatilho): O modelo clássico e mais acessível. A reclinação é acionada puxando um gatilho lateral de plástico e empurrando o encosto com o peso do corpo.",
-          "2. Elétrica com Base Fixa: A poltrona reclina através de botões elétricos discretos no braço da cadeira. Ideal para quem quer ajuste sem esforço, mas não precisa de movimentação rotativa.",
-          "3. Elétrica com Base de Giro e Balanço (a nossa versão): A opção mais completa da linha. Além de reclinar de forma elétrica, a base permite giro de 180 graus e um balanço suave e relaxante.",
-          "4. Elétrica com Base Fixa e Elevação: Desenvolvida para idosos, gestantes ou pessoas com limitações motoras. A cadeira reclina eletricamente e também se inclina fisicamente para a frente, ajudando a pessoa a se levantar sem forçar as articulações."
+          "Ao encomendar a sua poltrona Damie 2.0, o primeiro passo é selecionar a mecânica de movimentação e a estrutura da base. Existem quatro versões disponíveis:"
         ],
-        "bullets": []
+        "bullets": [
+          "Manual com base fixa (gatilho), a mais acessível: reclina puxando o gatilho lateral e empurrando o encosto com o corpo.",
+          "Elétrica com base fixa: reclina por botões discretos no braço, sem esforço e sem movimento de giro.",
+          "Elétrica com base de giro e balanço (a nossa), a mais completa da linha: reclina eletricamente, gira 180 graus e balança suavemente.",
+          "Elétrica com base fixa e elevação, pensada para idosos, gestantes ou pessoas com limitação motora: reclina eletricamente e se inclina para a frente, ajudando a levantar sem forçar as articulações."
+        ]
       },
       {
         "heading": "Tipos de Revestimento: Por que escolhemos o Courino Importado?",
@@ -29076,11 +29075,11 @@ export const reviewsData: unknown[] = [
           "Reunimos as principais dúvidas dos leitores sobre a poltrona de relaxamento da Damie:"
         ],
         "bullets": [
-          "Como funciona o cupom CECILIA12 na Damie? Digite CECILIA12 no checkout da loja oficial da Damie para garantir 12% de desconto em todo o catálogo, incluindo produtos e opcionais. O código pode ser acumulado com mais 10% no PIX. Condições verificadas em 24 de outubro de 2026 e sujeitas a alteração pela fabricante.",
-          "O Em Casa com Cecília possui parceria com a Damie? Sim. O cupom CECILIA12 faz parte de nossa parceria comercial com a Damie e pode gerar comissão para o blog em compras elegíveis, sem custo adicional para você. Nossa avaliação é baseada na experiência real com a poltrona em casa.",
+          "Como funciona o cupom CECILIA12 na Damie? Digite CECILIA12 no checkout da loja oficial da Damie para garantir 12% de desconto em todo o catálogo, incluindo produtos e opcionais. O código pode ser acumulado com mais 10% no PIX. Condições sujeitas a alteração pela fabricante.",
+          "O Em Casa com Cecília possui parceria com a Damie? Sim: o CECILIA12 é da nossa parceria com a Damie e pode gerar comissão, sem custo extra para você.",
           "Qual a poltrona indicada para quem tem mais de 1,85m? A Damie disponibiliza o opcional 'Encosto Fixo Mais Alto', que aumenta a altura do encosto da poltrona para acomodar pessoas mais altas com apoio completo de cabeça.",
           "A poltrona Damie 2.0 elétrica precisa de bateria? Ela funciona ligada diretamente na tomada através de uma fonte bivolt. O ideal é posicioná-la próxima a uma tomada de energia na sala.",
-          "Como funciona a garantia do fabricante? A Damie informa 1 ano de garantia contra defeitos de fabricação na estrutura de madeira e nas ferragens metálicas, além de suporte vitalício. Condição verificada em 24 de outubro de 2026 e sujeita aos termos vigentes da fabricante.",
+          "Como funciona a garantia do fabricante? A Damie informa 1 ano de garantia contra defeitos de fabricação na estrutura de madeira e nas ferragens metálicas, além de suporte vitalício. Condição sujeita aos termos vigentes da fabricante.",
           "O tecido de Courino Importado da poltrona esquenta? O material é de alta qualidade e possui toque mais ameno, mas por ser impermeável ele troca menos calor que o linho. É ideal para salas com climatização ou ar condicionado."
         ]
       }
@@ -39138,11 +39137,12 @@ export const reviewsData: unknown[] = [
       "Histórico de fiscalização e notificações formais por órgãos de defesa do consumidor em 2025"
     ],
     "affiliate": "damie",
+    "editorialNote": "Artigo informativo, com fontes públicas. O Em Casa com Cecília mantém parceria de afiliado com a Damie e pode receber comissão em compras, sem custo extra para você.",
     "contentSections": [
       {
         "heading": "Resumo rápido",
         "paragraphs": [
-          "A Sofá na Caixa viralizou com sofás modulares em caixa, mas desde 2025 acumula reclamações por atraso, produto não recebido e estorno não feito, e o Procon-SP abriu fiscalização. Em agosto de 2026, o Reclame Aqui a mostrava como Regular, e o site não estava na lista de sites a evitar. Veja abaixo a linha do tempo e o que fazer."
+          "A Sofá na Caixa viralizou com sofás modulares em caixa, mas desde 2025 acumula reclamações por atraso, produto não recebido e estorno não feito, e o Procon-SP abriu fiscalização. No Reclame Aqui, ela aparece como Regular, e o site não está na lista de sites a evitar. Veja abaixo a linha do tempo e o que fazer."
         ]
       },
       {
@@ -39153,20 +39153,19 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/sofa-na-caixa/bbc-news-sofa-na-caixa-manchete.png",
         "imageAlt": "Manchete de reportagem da BBC News Brasil sobre a explosão de reclamações contra a Sofá na Caixa",
-        "imageCaption": "Reportagem da BBC News Brasil, publicada em 15 de outubro de 2025 e republicada via O Povo.",
+        "imageCaption": "Reportagem da BBC News Brasil, republicada via O Povo.",
         "imageFit": "wide"
       },
       {
         "heading": "A linha do tempo da crise",
         "paragraphs": [
-          "Reconstituindo os fatos a partir de fontes oficiais e reportagens já publicadas:"
+          "O que aconteceu, segundo fontes oficiais e reportagens já publicadas:"
         ],
         "bullets": [
           "2024 — A empresa é fundada e expande suas operações de vendas nas redes sociais",
           "2025 — O Procon-SP abre procedimento de fiscalização e notifica a empresa diante do aumento expressivo de reclamações por atrasos e falta de entrega",
           "Outubro de 2025 — Reportagem da BBC News Brasil documenta a abertura de investigações por órgãos de defesa do consumidor e reúne relatos de clientes aguardando entregas ou reembolsos",
-          "Segundo semestre de 2025 — Procon-SP inicia o procedimento administrativo para inclusão do site e domínio da empresa na lista pública 'Evite Estes Sites'",
-          "Registros em plataformas de defesa do consumidor e órgãos públicos continuam acompanhando o desdobramento das reclamações do setor"
+          "Segundo semestre de 2025 — Procon-SP inicia o procedimento administrativo para inclusão do site e domínio da empresa na lista pública 'Evite Estes Sites'"
         ],
         "links": [
           {
@@ -39182,8 +39181,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números no Reclame Aqui: raio-X de atendimento nos últimos 6 meses",
         "paragraphs": [
-          "Os dados públicos no painel oficial do Reclame Aqui (consultados em agosto de 2026) mostram o comportamento de atendimento da Sofá na Caixa nos últimos 6 meses:",
-          "Paralelamente, o painel da fabricante Damie no mesmo período registra 258 reclamações acumuladas (100% respondidas), com índice de solução de 87,8% e nota do consumidor de 8,4/10."
+          "No Reclame Aqui (painel consultado em agosto de 2026, últimos 6 meses), a Sofá na Caixa responde tudo, mas resolve pouco mais da metade; a Damie, no mesmo período, resolve quase 9 em cada 10. Os detalhes estão nos itens abaixo."
         ],
         "bullets": [
           "Sofá na Caixa — Reclamações no Período: 6.766 recebidas (100% respondidas, 0 aguardando)",
@@ -39219,12 +39217,10 @@ export const reviewsData: unknown[] = [
         "heading": "Consulta à lista 'Evite Estes Sites' do Procon-SP",
         "paragraphs": [
           "Em 2025, o Procon-SP abriu procedimento de fiscalização sobre a Sofá na Caixa devido a notificações de atrasos e falta de entrega.",
-          "Checagem em agosto de 2026: Em consulta realizada diretamente no sistema público da lista 'Evite Estes Sites' do Procon-SP, o domínio oficial da empresa (sofanacaixa.com.br) NÃO consta na lista de e-commerces evitados ou bloqueados."
+          "Na consulta feita diretamente no sistema público da lista 'Evite Estes Sites' do Procon-SP, o domínio oficial da empresa (sofanacaixa.com.br) NÃO consta na lista de e-commerces evitados ou bloqueados."
         ],
         "bullets": [
-          "Fiscalização em 2025: Procon-SP abriu apuração após registrar alta no volume de notificações por atrasos.",
-          "Consulta em agosto de 2026: O domínio da empresa não está listado na busca pública de sites evitados do Procon-SP.",
-          "Recomendação: Sempre consulte os registros atualizados nos órgãos estaduais antes de realizar compras de valor elevado."
+          "Confira você mesmo a lista Evite Estes Sites e o painel Empresas Reclamadas antes de pagar, porque a situação muda."
         ],
         "links": [
           {
@@ -39238,8 +39234,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Para consumidores que compraram e enfrentam atraso na entrega ou falta de estorno, os órgãos de defesa recomendam guardar todos os comprovantes, notas fiscais e conversas registradas.",
           "Conforme o Código de Defesa do Consumidor (CDC), o comprador pode exigir o cumprimento forçado da entrega, a aceitação de produto equivalente ou a rescisão do contrato com restituição dos valores pagos.",
-          "No Juizado Especial Cível (JEC), ações de até 20 salários mínimos podem ser ajuizadas sem a necessidade de advogado; para causas entre 20 e 40 salários mínimos, a legislação exige representação por advogado.",
-          "Aviso legal: Este artigo possui caráter estritamente informativo e jornalístico, com base em fontes públicas oficiais, não substituindo orientação jurídica profissional."
+          "Se decidir ir ao Juizado Especial Cível da sua cidade, leve os comprovantes e peça orientação sobre os documentos.",
+          "Se o valor for alto, fale com um advogado antes de ir ao Juizado."
         ],
         "bullets": [
           "Registre todos os contatos com a empresa por escrito, guardando protocolos e comprovantes",
@@ -39288,28 +39284,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas, mas enfrentou forte pico de atrasos de entrega e reclamações em 2025 devido à alta demanda. Em 2026, a marca mantém 100% de taxa de resposta no Reclame Aqui, com nota 6.0/10 (Regular) e 55,2% de índice de solução.",
-          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Em consulta realizada em agosto de 2026 no sistema do Procon-SP, o domínio oficial da Sofá na Caixa NÃO consta na lista ativa de sites evitados.",
-          "Qual é a nota da Sofá na Caixa no Reclame Aqui em 2026? A empresa possui selo 'Regular' com nota 6.0/10. O tempo médio de resposta é de 2 dias e 12 horas, com 100% de queixas respondidas e nota média do consumidor de 4,45/10.",
+          "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas, mas enfrentou forte pico de atrasos de entrega e reclamações em 2025 devido à alta demanda. No Reclame Aqui, a marca responde 100% das queixas, mas resolve pouco mais da metade; os números estão no capítulo sobre o Reclame Aqui.",
+          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Na consulta ao sistema do Procon-SP, o domínio oficial da Sofá na Caixa NÃO consta na lista ativa de sites evitados.",
+          "Qual é a nota da Sofá na Caixa no Reclame Aqui em 2026? A empresa tem selo Regular. A marca responde tudo, mas resolve pouco mais da metade; a nota e os demais números estão no capítulo sobre o Reclame Aqui.",
           "O que fazer se comprei e não recebi o produto? Guarde todos os comprovantes, notas fiscais e conversas. O Código de Defesa do Consumidor garante o direito ao reembolso ou cumprimento da oferta. É possível registrar queixa no Procon-SP ou Consumidor.gov.br e recorrer ao Juizado Especial Cível (sem advogado até 20 salários mínimos; com advogado entre 20 e 40 salários mínimos)."
         ]
       },
       {
         "heading": "Fontes",
         "paragraphs": [
-          "Este artigo se baseia nas seguintes fontes públicas, consultadas em agosto de 2026:"
+          "Este artigo se baseia nas seguintes fontes públicas, consultadas:"
         ],
         "bullets": [
           "Procon-SP — comunicados oficiais sobre fiscalização de e-commerces e lista 'Evite Estes Sites'",
           "BBC News Brasil — 'Como Sofá na Caixa foi de sucesso viral nas redes à explosão de reclamações de clientes' (outubro/2025, republicado via O Povo)",
           "Exame — 'Sofá na Caixa: Procon-SP abre investigação contra empresa após 500 reclamações' (julho/2025)",
           "Reclame Aqui — painel público de reputação de empresas de móveis"
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo jornalístico/informativo, não uma comparação promocional. As informações sobre a Sofá na Caixa foram obtidas de fontes públicas — Procon-SP, BBC News Brasil (republicada via O Povo), Exame e Reclame Aqui — e apresentadas com atribuição de fonte. O parágrafo sobre a Damie contém link de afiliado: ao comprar usando os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
         ]
       }
     ],

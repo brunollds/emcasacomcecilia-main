@@ -71,17 +71,9 @@
     "bodyDates": 7,
     "datesOutsideBody": 2
   },
-  "poltrona-damie-e-boa": {
-    "datesOutsideBody": 2
-  },
   "probiotica-ou-growth": {
     "transparencySection": true,
     "bodyDates": 7,
-    "datesOutsideBody": 2
-  },
-  "sofa-na-caixa-crise-reclamacoes-procon-sp": {
-    "transparencySection": true,
-    "bodyDates": 6,
     "datesOutsideBody": 2
   }
 }
