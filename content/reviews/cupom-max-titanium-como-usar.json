@@ -91,7 +91,7 @@
     {
       "heading": "3. Digite MAX10EMCASACOMCECILIA em \"Cupom de Desconto\" e clique em \"Adicionar\"",
       "paragraphs": [
-        "No resumo do pedido está o campo \"Cupom de Desconto\", com o botão \"Adicionar\" ao lado. Digite o código **MAX10EMCASACOMCECILIA** e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
+        "No resumo do pedido, digite **MAX10EMCASACOMCECILIA** no campo \"Cupom de Desconto\" e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
         "Até clicar em \"Adicionar\", nada muda: o preço do item e o total seguem iguais. O desconto só entra depois do clique."
       ],
       "image": {
@@ -105,7 +105,7 @@
     {
       "heading": "4. Confira o desconto no resumo antes de pagar",
       "paragraphs": [
-        "Depois do clique, o resumo do pedido muda. O código aparece no resumo e também como etiqueta no item, e surge uma linha nova, \"Descontos\", com o valor abatido em reais e com sinal de menos.",
+        "Depois do clique, o resumo ganha a linha \"Descontos\", com o valor abatido em reais. O código aparece no resumo e como etiqueta no item.",
         "No nosso teste, a linha mostrou **R$ -16,75**, o preço do item foi para R$ 172,25 e o total ficou em R$ 172,25. Isso é cerca de 9% sobre os R$ 189,00 do whey, abaixo dos 10% do título. É por isso que o texto diz \"até 10%\": o percentual varia por produto, e não dá para tratar esse número como regra.",
         "A regra prática é: **confira a linha \"Descontos\" e o total antes de pagar**. Se o valor for menor do que você esperava, é porque o desconto daquele carrinho é menor do que 10%."
       ],
@@ -215,7 +215,7 @@
       "heading": "Se precisar trocar um produto comprado com cupom",
       "paragraphs": [
         "O cupom não muda o direito de troca: a compra segue as regras da loja. O quadro de trocas, devoluções e defeito está em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Os números da loja no Reclame Aqui estão em [Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/max-titanium-reclame-aqui-nota-reputacao).",
-        "Sobre o brinde, os Termos e Condições da loja dizem que ele é liberado conforme o valor mínimo da compra, definido no site, e que não se troca por outro modelo, cor ou tamanho, salvo defeito."
+        "Sobre o brinde, os Termos e Condições da loja dizem que a liberação segue o valor mínimo da compra, definido no site, e que não se troca por outro modelo, cor ou tamanho, salvo defeito."
       ]
     },
     {

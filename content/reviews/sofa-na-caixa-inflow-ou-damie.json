@@ -59,7 +59,7 @@
     {
       "heading": "Inflow é a Sofá na Caixa?",
       "paragraphs": [
-        "Este guia compara Sofá na Caixa, Inflow e DAMIE em quatro pontos: teste em casa, garantia, preço e reputação no Reclame Aqui, com os dados que cada marca publica no próprio site. Começamos pela dúvida mais comum: Inflow e Sofá na Caixa são a mesma empresa?",
+        "Sofá na Caixa, Inflow e DAMIE são três empresas diferentes, comparadas aqui em teste, garantia, preço e Reclame Aqui. Começamos pela dúvida mais comum: Inflow e Sofá na Caixa são a mesma empresa?",
         "Não. São duas empresas diferentes, com CNPJ, cidade e data de abertura próprios. Os dados saem do rodapé de cada site e da consulta pública de CNPJ:"
       ],
       "bullets": [
@@ -372,7 +372,8 @@
         "**Quem quer o melhor atendimento segundo o Reclame Aqui:** Inflow, com RA1000 e 94% de reclamações resolvidas, lembrando que o histórico dela é curto.",
         "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste. Em qualquer uma, confira o frete no carrinho com o seu CEP.",
         "**Quem também está olhando a Valley Modular:** a comparação com ela está em [Valley Modular, Inflow ou DAMIE](/reviews/valley-inflow-ou-damie)."
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria a DAMIE, porque é a única com 30 dias de teste e 1 ano de garantia."
     },
     {
       "heading": "A experiência da Cecília com o sofá da DAMIE",
@@ -410,5 +411,15 @@
         "Qual entrega no Norte e no Nordeste? A DAMIE atende Norte e Nordeste pelo Mercado Livre, e o frete grátis dela vale no Sul e no Sudeste. A Inflow publica frete grátis só no Sul e no Sudeste. Confira o frete com o seu CEP no carrinho antes de fechar."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer testar o sofá em casa por 30 dias, com coleta e reembolso integral.",
+      "A garantia de 1 ano pesa mais para você do que o menor preço."
+    ],
+    "skipIf": [
+      "O menor preço decide sozinho, mesmo com 10 dias de teste e 3 meses de garantia.",
+      "Você prefere o atendimento melhor avaliado no Reclame Aqui e topa decidir antes de abrir a caixa."
+    ]
+  }
 }

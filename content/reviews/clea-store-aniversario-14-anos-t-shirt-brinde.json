@@ -81,7 +81,7 @@
         "Confira o carrinho: a T-Shirt aparece como item, com R$ 129,00 riscado e R$ 0,00. No nosso teste, ela entrou na cor Preto, tamanho P."
       ],
       "postParagraphs": [
-        "Segundo a própria loja, a T-Shirt Oversized é o best-seller da marca, feita em 100% algodão penteado premium.",
+        "A loja chama a T-Shirt Oversized de best-seller da marca: 100% algodão penteado premium.",
         "Fora da promoção, a T-Shirts Oversized Algodão é vendida por **R$ 129,00**. No teste, o site tinha 10 cores à venda: azul claro, azul marinho, caramelo, marrom, off white, preto, rosa claro, verde oliva, vermelho e vinho, nos tamanhos P, M e G. As cores e os tamanhos do brinde são os disponíveis na janela, que podem ser menos que os da peça vendida."
       ]
     },
@@ -161,7 +161,7 @@
     {
       "heading": "Frete, cashback e devolução",
       "paragraphs": [
-        "A faixa do site traz mais três regras da loja, além do brinde. Elas valem no mesmo pedido."
+        "Além do brinde, três regras da faixa valem no mesmo pedido: frete, cashback e devolução."
       ],
       "bullets": [
         "**Frete grátis acima de R$ 599.** No nosso teste, com o total de R$ 477,09, a barra do topo dizia \"Faltam R$ 121,91 para frete grátis\". 599,00 − 477,09 = 121,91: a loja conta o total **depois do cupom**, não o preço de tabela nem o subtotal. Abaixo de R$ 599, o frete é calculado pelo CEP, no link \"Calcular\" do resumo do pedido. Se o carrinho está perto dos R$ 599, aplique o cupom primeiro e confira a barra depois.",

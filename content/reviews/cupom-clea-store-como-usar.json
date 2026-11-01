@@ -43,6 +43,16 @@
   },
   "coupon": "CSEMCASACOMCECILIA",
   "affiliate": "clea-store",
+  "decision": {
+    "takeIf": [
+      "Você já ia comprar na Cléa Store e quer 10% OFF em todo o site",
+      "Você compra item em promoção e quer o desconto por cima, com o cashback junto"
+    ],
+    "skipIf": [
+      "Você espera frete grátis só com o cupom",
+      "Você quer somar dois cupons no mesmo pedido"
+    ]
+  },
   "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
   "relatedArticles": [
     {
@@ -98,13 +108,13 @@
     {
       "heading": "3. Digite CSEMCASACOMCECILIA no campo do cupom",
       "paragraphs": [
-        "No \"Resumo do pedido\", ao lado de \"Cupom de desconto\", está o link \"Adicionar\". Clique nele, digite **CSEMCASACOMCECILIA** e confirme. Copiar o código pelo botão desta página evita erro de digitação."
+        "No \"Resumo do pedido\", clique em \"Adicionar\" ao lado de \"Cupom de desconto\", digite **CSEMCASACOMCECILIA** e confirme. Copiar o código pelo botão desta página evita erro de digitação."
       ]
     },
     {
       "heading": "4. Confira o desconto antes de pagar",
       "paragraphs": [
-        "Depois de aceito, o resumo muda. A loja mostra \"Cupom aplicado CSEMCASACOMCECILIA -R$ 25,80\" e uma linha \"Desconto\" com o mesmo valor, -R$ 25,80.",
+        "Depois de aceito, confira a linha \"Desconto\". A loja mostra \"Cupom aplicado CSEMCASACOMCECILIA -R$ 25,80\" e uma linha \"Desconto\" com o mesmo valor, -R$ 25,80.",
         "A conta do nosso teste:"
       ],
       "bullets": [
@@ -126,7 +136,7 @@
       "paragraphs": [
         "Antes do cupom, a tela mostrava \"Receba até R$ 25,80 de cashback\". Depois, passou a mostrar \"Receba até R$ 23,22 de cashback\". O resumo seguiu com o aviso \"Seu pedido vai gerar cashback!\".",
         "No teste, R$ 23,22 é 10% de R$ 232,20: o cashback saiu sobre o valor já com o cupom, e por isso o número caiu de R$ 25,80 para R$ 23,22.",
-        "A página de cashback da loja, diz como ele funciona:"
+        "A página de cashback da loja diz como ele funciona:"
       ],
       "bullets": [
         "Equivale a 10% em créditos, concedidos automaticamente ao comprar no site.",
@@ -191,7 +201,7 @@
     {
       "heading": "Se precisar devolver um produto comprado com cupom",
       "paragraphs": [
-        "A Cléa Store tem devolução grátis. O cupom, o cashback e o frete grátis não são reembolsados em caso de devolução, segundo a política de troca e devolução da loja.",
+        "A Cléa Store tem devolução grátis. Em caso de devolução, a política da loja não reembolsa cupom, cashback nem frete grátis.",
         "O quadro completo de prazos e do passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel). Os números da loja no Reclame Aqui estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
       ]
     },

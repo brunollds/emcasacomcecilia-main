@@ -324,7 +324,7 @@
         "Pistache: contém amendoim, pistache, derivados de leite e soja."
       ],
       "postParagraphs": [
-        "Todos os 12 trazem ainda um \"pode conter\" com outras castanhas e aveia, e todos menos o Brownie incluem ovos nesse aviso. A ficha do Caramelo Salgado lista também corantes, extrato de urucum, vermelho allura AC, tartrazina e azul brilhante FCF, e um biscoito triturado de farinha de arroz e fécula de mandioca. Quem tem intolerância à lactose ou alergia a leite tira a dúvida sobre o consumo com um nutricionista."
+        "Todos os 12 trazem ainda um \"pode conter\" com outras castanhas e aveia, e todos menos o Brownie incluem ovos nesse aviso. A página do Caramelo Salgado lista também corantes, extrato de urucum, vermelho allura AC, tartrazina e azul brilhante FCF, e um biscoito triturado de farinha de arroz e fécula de mandioca. Quem tem intolerância à lactose ou alergia a leite tira a dúvida sobre o consumo com um nutricionista."
       ]
     },
     {
@@ -415,6 +415,8 @@
     },
     {
       "heading": "Qual sabor escolher pelo seu perfil",
+      "emphasis": "Pelos números da tabela, para quem quer menos açúcar com menos poliol a escolha é o Brownie, porque é o único com menos de 5 g de açúcares e menos de 7 g de polióis por 100 g.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Pelo rótulo por 100 g, comece pelo trio do Combo Best Sellers e ajuste por proteína, açúcar ou sódio nos itens abaixo. Na colher, o arredondamento do rótulo embaralha a ordem."
       ],
@@ -502,6 +504,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você quer pouco açúcar e poucos polióis no mesmo pote.",
+      "Você quer o sabor com menos sódio da linha."
+    ],
+    "skipIf": [
+      "Você quer o máximo de proteína: aí são o Avelã e o Leite em Pó, com 20 g por 100 g.",
+      "Você quer saber qual sabor é mais gostoso: o artigo compara só o rótulo.",
+      "Você precisa de versão sem lactose: os 12 sabores contêm lactose."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

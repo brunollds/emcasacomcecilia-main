@@ -58,7 +58,7 @@
     {
       "heading": "Whey: proteína, porção e preço por dose",
       "paragraphs": [
-        "Oito opções das duas lojas, pela mesma régua. Preços do catálogo em 16/10/2026, antes do cupom; as contas por dose e por proteína são nossas."
+        "Oito opções das duas lojas, comparadas pelo preço por 100 g de proteína. Preços do catálogo em 16/10/2026, antes do cupom."
       ],
       "comparisonTable": {
         "caption": "Oito opções das duas lojas, pela mesma régua. Preços do catálogo, antes do cupom; as contas por dose e por proteína são nossas.",
@@ -392,6 +392,8 @@
     },
     {
       "heading": "Quem escolhe o quê",
+      "emphasis": "Pelos números da tabela, para o perfil de menor preço a escolha é a Black Skull, porque o Whey 80% HD e o Creator têm o menor preço por proteína e por dose. Para mais proteína por dose, a Max Titanium leva.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "A escolha aqui é por critério de compra, com os números do rótulo e os preços:"
       ],
@@ -421,6 +423,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você decide pelo menor preço por 100 g de proteína no whey ou pelo menor preço por dose de creatina."
+    ],
+    "skipIf": [
+      "Você quer mais proteína por dose e aceita pagar mais por ela: aí é a Max Titanium.",
+      "Você quer creatina Creapure: só a Max Titanium vende.",
+      "Você decide pelo sabor, pela dissolução ou pela digestão: a comparação é só de rótulo e preço."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

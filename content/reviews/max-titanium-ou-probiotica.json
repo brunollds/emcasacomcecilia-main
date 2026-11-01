@@ -54,7 +54,7 @@
         "**Preço por dose da creatina (conta nossa):** o preço dividido pelo número de porções da tabela."
       ],
       "postParagraphs": [
-        "Não houve teste nem degustação. Por isso o texto diz quantos sabores cada linha tem, sem comparar o gosto."
+        "Gosto, só provando: compare pelo número de sabores de cada linha."
       ]
     },
     {
@@ -409,6 +409,8 @@
     },
     {
       "heading": "Qual escolher",
+      "emphasis": "Pelos números da tabela, para quem decide por proteína por porção a escolha é a Max, porque o concentrado e o 3W dela têm mais proteína por porção. Para mais sabores, zero lactose ou sachês e cápsulas de creatina, a escolha é a Probiótica.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "O veredito por tipo de produto, com os números de cada capítulo acima."
       ],
@@ -442,6 +444,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você quer o concentrado ou o 3W com mais proteína por porção."
+    ],
+    "skipIf": [
+      "Você quer mais sabores, versão zero lactose ou creatina em sachês e cápsulas: aí é a Probiótica.",
+      "Você decide pelo gosto: o artigo compara só rótulo, preço e número de sabores.",
+      "Você espera fórmulas iguais por serem do mesmo grupo: os potes e as tabelas diferem."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
@@ -452,7 +464,7 @@
   },
   "coupon": "MAX10EMCASACOMCECILIA",
   "affiliate": "max-titanium",
-  "editorialNote": "Podemos receber comissão pela Max Titanium e pela Probiótica, que são do mesmo grupo.",
+  "editorialNote": "Podemos receber comissão pela Max Titanium e pela Probiótica, que são do mesmo grupo. Não provamos os produtos.",
   "relatedArticles": [
     {
       "slug": "max-titanium-e-confiavel",
