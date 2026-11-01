@@ -35,11 +35,6 @@
   "como-encontrar-cupons-yesstyle-validos": {
     "datesOutsideBody": 1
   },
-  "cueca-insider-comfort-ou-performance": {
-    "transparencySection": true,
-    "bodyDates": 4,
-    "datesOutsideBody": 1
-  },
   "cupom-bagaggio-como-usar": {
     "bodyDates": 3,
     "datesOutsideBody": 5
@@ -64,14 +59,6 @@
   "dr-peanut-melhor-sabor": {
     "bodyDates": 16,
     "datesOutsideBody": 4
-  },
-  "insider-store-e-confiavel": {
-    "bodyDates": 7,
-    "datesOutsideBody": 1
-  },
-  "insider-vale-a-pena": {
-    "bodyDates": 11,
-    "datesOutsideBody": 5
   },
   "le-creuset-vale-a-pena": {
     "bodyDates": 7,
@@ -112,10 +99,6 @@
     "transparencySection": true,
     "bodyDates": 6,
     "datesOutsideBody": 2
-  },
-  "tabela-de-medidas-insider": {
-    "bodyDates": 18,
-    "datesOutsideBody": 4
   },
   "yesstyle-entrega-no-brasil-e-portugal": {
     "bodyDates": 11,

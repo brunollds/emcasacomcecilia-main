@@ -44,7 +44,7 @@
       "image": {
         "src": "/images/reviews/insider/insider-guia-de-medidas-menu.webp",
         "alt": "Menu de tamanho da página da Tech T-Shirt da Insider, com Assistente de Tamanho Inteligente, Provador Virtual, Tabela de Medidas da Peça em destaque e Compare entre peças Insider",
-        "caption": "O menu \"Ficou com dúvidas sobre o seu tamanho?\" na página da Tech T-Shirt, aberto em 13/10/2026. O destaque em amarelo é nosso.",
+        "caption": "O menu \"Ficou com dúvidas sobre o seu tamanho?\" na página da Tech T-Shirt. O destaque em amarelo é nosso.",
         "objectFit": "contain",
         "aspectRatio": 1.3287
       }
@@ -66,16 +66,16 @@
         "Altura: do ponto mais alto da peça, sem contar a gola, até a barra.",
         "Largura: na horizontal, de uma lateral à outra. Na feminina, meça duas vezes: na altura do busto (busto) e na parte mais baixa da peça (largura).",
         "Manga: da costura do ombro até a ponta da manga.",
-        "Compare com a tabela da mesma linha. Pela nossa regra de leitura (a Insider não publica uma), o tamanho com largura e altura mais perto das da sua peça deve dar um caimento parecido."
+        "Compare com a tabela da mesma linha: o tamanho com largura e altura mais perto das da sua peça deve dar um caimento parecido. A regra de leitura é nossa, a Insider não publica uma."
       ]
     },
     {
       "heading": "Tech T-Shirt masculina e Gola V masculina",
       "paragraphs": [
-        "As duas golas têm a mesma tabela. A Insider descreve a Tech T-Shirt masculina como de \"elasticidade muito alta e caimento ajustado ao corpo sem apertar\". No desenho oficial, a seta da largura fica na barra da camiseta, e a marca avisa que as medidas podem variar cerca de 2 cm para mais ou para menos."
+        "As duas golas têm a mesma tabela. A Tech T-Shirt masculina tem tecido bem elástico e corte ajustado sem apertar. No desenho oficial, a seta da largura fica na barra da camiseta, e a marca avisa que as medidas podem variar cerca de 2 cm para mais ou para menos."
       ],
       "comparisonTable": {
-        "caption": "Tabela oficial da Tech T-Shirt masculina (gola redonda e gola V), em cm, com a peça deitada. Consultada em 12/10/2026.",
+        "caption": "Tabela oficial da Tech T-Shirt masculina (gola redonda e gola V), em cm, com a peça deitada.",
         "headers": ["Tamanho", "Altura", "Largura", "Manga"],
         "rows": [
           ["PP", "67,5", "48", "19,3"],
@@ -94,7 +94,7 @@
         "A largura é a medida que mais muda de uma linha para outra. Pelas tabelas oficiais, a Core e a Daily têm a mesma largura da Tech; a Heavy Slim é 2 cm mais estreita; a Manga Longa, meio centímetro mais larga; e a Oversized, de 6 a 8 cm mais larga."
       ],
       "comparisonTable": {
-        "caption": "Largura em cm, peça deitada, pelas tabelas oficiais de cada camiseta (12/10/2026). Travessão: a tabela não traz o tamanho.",
+        "caption": "Largura em cm, peça deitada, pelas tabelas oficiais de cada camiseta. Travessão: a tabela não traz o tamanho.",
         "headers": ["Tamanho", "Tech e Gola V", "Core", "Daily", "Heavy Slim", "Manga Longa", "Oversized"],
         "rows": [
           ["PP", "48", "48", "48", "46", "48,5", "54"],
@@ -113,7 +113,7 @@
         "A Core tem 1 cm a mais de altura que a Tech em todos os tamanhos, e a Daily, de 2,5 a 3 cm a mais. A Insider diz que o corte da Core \"já considera uma leve redução natural após as primeiras lavagens\" e descreve a modelagem dela como regular."
       ],
       "comparisonTable": {
-        "caption": "Altura em cm, do ponto mais alto da peça (sem a gola) até a barra, pelas tabelas oficiais (12/10/2026). Travessão: a tabela não traz o tamanho.",
+        "caption": "Altura em cm, do ponto mais alto da peça (sem a gola) até a barra, pelas tabelas oficiais. Travessão: a tabela não traz o tamanho.",
         "headers": ["Tamanho", "Tech e Gola V", "Core", "Daily", "Heavy Slim", "Manga Longa", "Oversized"],
         "rows": [
           ["PP", "67,5", "68,5", "70", "65", "67,5", "72"],
@@ -129,7 +129,7 @@
     {
       "heading": "Camisetas masculinas: a manga",
       "comparisonTable": {
-        "caption": "Manga em cm, da costura do ombro até a barra da manga, pelas tabelas oficiais (12/10/2026). Na Manga Longa, é o comprimento da manga inteira. Travessão: a tabela não traz o tamanho.",
+        "caption": "Manga em cm, da costura do ombro até a barra da manga, pelas tabelas oficiais. Na Manga Longa, é o comprimento da manga inteira. Travessão: a tabela não traz o tamanho.",
         "headers": ["Tamanho", "Tech, Gola V e Core", "Daily", "Heavy Slim", "Manga Longa", "Oversized"],
         "rows": [
           ["PP", "19,3", "20,5", "16", "56,5", "29,5"],
@@ -145,17 +145,17 @@
     {
       "heading": "Tech T-Shirt feminina",
       "paragraphs": [
-        "A Insider descreve a feminina como de \"caimento levemente ajustado, sem comprimir\". A tabela vai do PP ao XGG e mede o busto na altura do busto e a largura na parte mais baixa da peça."
+        "A feminina tem corte levemente ajustado, sem comprimir. A tabela vai do PP ao XGG e mede o busto na altura do busto e a largura na parte mais baixa da peça."
       ],
       "image": {
         "src": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-feminina.webp",
         "alt": "Tabela oficial de medidas da Tech T-Shirt feminina da Insider, com o desenho da camiseta e altura, busto, largura e manga do PP ao XGG",
-        "caption": "Fonte: Insider, insiderstore.com.br, consultado em 12/10/2026. Tabela oficial da Tech T-Shirt feminina.",
+        "caption": "Fonte: Insider, insiderstore.com.br. Tabela oficial da Tech T-Shirt feminina.",
         "objectFit": "contain",
         "aspectRatio": 2.0759
       },
       "comparisonTable": {
-        "caption": "Tabela oficial da Tech T-Shirt feminina (gola redonda), em cm, com a peça deitada. Consultada em 12/10/2026.",
+        "caption": "Tabela oficial da Tech T-Shirt feminina (gola redonda), em cm, com a peça deitada.",
         "headers": ["Tamanho", "Altura", "Busto", "Largura", "Manga"],
         "rows": [
           ["PP", "59", "43", "47,5", "15"],
@@ -170,10 +170,10 @@
     {
       "heading": "Tech T-Shirt Gola V feminina",
       "paragraphs": [
-        "A tabela termina no XGG. A página lista também o XXGG, mas em 12/10/2026 o XGG estava esgotado em todas as cores e o XXGG, nas duas em que aparece."
+        "A tabela termina no XGG. A página lista também o XXGG."
       ],
       "comparisonTable": {
-        "caption": "Tabela oficial da Tech T-Shirt Gola V feminina, em cm, com a peça deitada. Consultada em 12/10/2026.",
+        "caption": "Tabela oficial da Tech T-Shirt Gola V feminina, em cm, com a peça deitada.",
         "headers": ["Tamanho", "Altura", "Busto", "Largura", "Manga"],
         "rows": [
           ["PP", "60", "42,5", "48", "15,5"],
@@ -188,7 +188,7 @@
     {
       "heading": "Tech T-Shirt Manga Longa feminina",
       "comparisonTable": {
-        "caption": "Tabela oficial da Tech T-Shirt Manga Longa feminina, em cm, com a peça deitada. A manga é o comprimento inteiro, do ombro ao punho. Consultada em 12/10/2026.",
+        "caption": "Tabela oficial da Tech T-Shirt Manga Longa feminina, em cm, com a peça deitada. A manga é o comprimento inteiro, do ombro ao punho.",
         "headers": ["Tamanho", "Altura", "Busto", "Largura", "Manga"],
         "rows": [
           ["PP", "62", "44", "47", "55"],
@@ -206,7 +206,7 @@
         "No mesmo tamanho, a Daily feminina tem o busto 4 cm menor que o da Tech feminina, e a largura da barra é meio centímetro menor. A altura do GG está como a tabela oficial imprime: 63,7 cm."
       ],
       "comparisonTable": {
-        "caption": "Tabela oficial da Daily T-Shirt feminina, em cm, com a peça deitada, e o busto da Tech feminina para comparar. Consultada em 12/10/2026.",
+        "caption": "Tabela oficial da Daily T-Shirt feminina, em cm, com a peça deitada, e o busto da Tech feminina para comparar.",
         "headers": ["Tamanho", "Altura", "Busto", "Largura", "Manga", "Busto da Tech feminina"],
         "rows": [
           ["PP", "57,5", "39", "47", "18,5", "43"],
@@ -221,20 +221,20 @@
     {
       "heading": "Cuecas Comfort e Performance: a mesma tabela",
       "paragraphs": [
-        "As duas cuecas boxer têm a mesma tabela. A cintura é medida com o cós reto, de uma lateral à outra, no ponto mais alto do cós. Dobrando esse número, você tem o contorno do cós sem esticar (conta nossa): 70 cm no M e 86 cm no XXGG. O cós é elástico, e a Insider não publica a faixa de cintura do corpo para cada tamanho.",
+        "As duas cuecas boxer têm a mesma tabela. A cintura é medida com o cós reto, de uma lateral à outra, no ponto mais alto do cós. Conta nossa, dobrando essa medida: o contorno do cós sem esticar é 70 cm no M e 86 cm no XXGG. O cós é elástico, e a Insider não publica a faixa de cintura do corpo para cada tamanho.",
         "Para comparar, estenda uma cueca sua que veste bem, meça a cintura de lateral a lateral no alto do cós e procure o número mais perto na coluna da cintura (regra nossa, não da Insider)."
       ],
       "images": [
         {
           "src": "/images/reviews/insider/insider-tabela-medidas-cueca-comfort-performance.webp",
           "alt": "Tabela oficial de medidas da cueca Comfort da Insider, com o desenho da cueca e cintura, quadril e barra do PP ao XXGG",
-          "caption": "Fonte: Insider, insiderstore.com.br, consultado em 12/10/2026. Tabela oficial da cueca Comfort, igual à da Performance.",
+          "caption": "Fonte: Insider, insiderstore.com.br. Tabela oficial da cueca Comfort, igual à da Performance.",
           "objectFit": "contain",
           "aspectRatio": 2.0759
         }
       ],
       "comparisonTable": {
-        "caption": "Tabela oficial das cuecas Comfort e Performance, em cm, com a peça deitada. A última coluna é conta nossa. Consultada em 12/10/2026.",
+        "caption": "Tabela oficial das cuecas Comfort e Performance, em cm, com a peça deitada. A última coluna é conta nossa.",
         "headers": ["Tamanho", "Cintura", "Quadril", "Barra", "Cintura × 2 (conta nossa)"],
         "rows": [
           ["PP", "31", "39,5", "19,5", "62"],
@@ -256,7 +256,7 @@
         "A Slip mede a cintura e a lateral, da cintura até o início da barra (13 cm em todos os tamanhos). A calcinha Biquíni Brief mede a cintura e a altura, da cintura até o fundo da peça. Na loja, a Slip vai do P ao XGG, embora a tabela traga também PP e XXGG, e a Brief vai do PP ao XGG. As duas seguem a regra de troca das cuecas: só por defeito."
       ],
       "comparisonTable": {
-        "caption": "Tabelas oficiais da Cueca Slip e da Calcinha Biquíni Brief, em cm, com a peça deitada. Travessão: a tabela não traz o tamanho. Consultadas em 12/10/2026.",
+        "caption": "Tabelas oficiais da Cueca Slip e da Calcinha Biquíni Brief, em cm, com a peça deitada. Travessão: a tabela não traz o tamanho.",
         "headers": ["Tamanho", "Slip: cintura", "Slip: lateral", "Brief: cintura", "Brief: altura"],
         "rows": [
           ["PP", "31", "13", "33", "20"],
@@ -276,7 +276,7 @@
         "A central de ajuda restringe a troca das linhas Underwear e Beachwear e não diz se a undershirt entra nessa regra. Em dúvida entre dois tamanhos, pergunte ao atendimento antes de comprar."
       ],
       "comparisonTable": {
-        "caption": "Tabelas oficiais da Undershirt Anti Suor (gola U) e da Undershirt Simples (gola V), em cm, com a peça deitada. Consultadas em 12/10/2026.",
+        "caption": "Tabelas oficiais da Undershirt Anti Suor (gola U) e da Undershirt Simples (gola V), em cm, com a peça deitada.",
         "headers": ["Tamanho", "Anti Suor: altura", "Anti Suor: largura", "Anti Suor: manga", "Simples: altura", "Simples: largura", "Simples: manga"],
         "rows": [
           ["PP", "64", "40,5", "15,5", "67", "43,5", "15"],
@@ -291,36 +291,36 @@
     {
       "heading": "Tamanhos grandes: o que existe de XGG e XXGG",
       "paragraphs": [
-        "A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG; as tabelas femininas, até o XGG (a Gola V feminina lista também o XXGG, esgotado em 12/10/2026). Na prática, o XXGG tinha pouco estoque em 12/10/2026: confira a cor e o tamanho na página antes de contar com ele."
+        "A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG; as tabelas femininas, até o XGG (a Gola V feminina lista também o XXGG). Confira a cor e o tamanho na página do produto antes de comprar."
       ],
       "comparisonTable": {
-        "caption": "Tamanhos à venda na loja em 12/10/2026, pela lista de cada produto. O estoque muda todo dia.",
-        "headers": ["Linha", "Tamanhos", "Estoque em 12/10/2026"],
+        "caption": "Tamanhos que a loja lista em cada produto.",
+        "headers": ["Linha", "Tamanhos"],
         "rows": [
-          ["Tech T-Shirt masculina", "PP a XXGG", "XXGG só na cor preta"],
-          ["Tech T-Shirt Gola V masculina", "PP a XXGG", "XXGG esgotado em todas as cores"],
-          ["Tech T-Shirt Manga Longa masculina", "PP a XXGG", "XXGG só na cor preta"],
-          ["Core T-Shirt", "PP a XXGG", "XXGG só na cor Rain Forest"],
-          ["Tech T-Shirt Heavy Slim", "PP a XXGG", "XXGG esgotado em todas as cores"],
-          ["Daily T-Shirt masculina", "PP a XXGG (a tabela vai até o XGG)", "PP e XXGG esgotados"],
-          ["Tech T-Shirt feminina", "PP a XGG", "Todos os tamanhos com alguma cor disponível"],
-          ["Tech T-Shirt Gola V feminina", "PP a XXGG (a tabela vai até o XGG)", "XGG e XXGG esgotados"],
-          ["Tech T-Shirt Manga Longa feminina", "PP a XGG", "PP só na cor Carmenere"],
-          ["Daily T-Shirt feminina", "PP a XGG", "PP em duas cores e XGG só na preta"],
-          ["Cuecas Comfort e Performance", "PP a XXGG", "Comfort: PP só na Beetroot e XXGG só na preta; Performance: PP em duas cores e XXGG em três"],
-          ["Cueca Slip e undershirts", "P a XGG", "Varia por versão"],
-          ["Calcinha Biquíni Brief", "PP a XGG", "—"]
+          ["Tech T-Shirt masculina", "PP a XXGG"],
+          ["Tech T-Shirt Gola V masculina", "PP a XXGG"],
+          ["Tech T-Shirt Manga Longa masculina", "PP a XXGG"],
+          ["Core T-Shirt", "PP a XXGG"],
+          ["Tech T-Shirt Heavy Slim", "PP a XXGG"],
+          ["Daily T-Shirt masculina", "PP a XXGG (a tabela vai até o XGG)"],
+          ["Tech T-Shirt feminina", "PP a XGG"],
+          ["Tech T-Shirt Gola V feminina", "PP a XXGG (a tabela vai até o XGG)"],
+          ["Tech T-Shirt Manga Longa feminina", "PP a XGG"],
+          ["Daily T-Shirt feminina", "PP a XGG"],
+          ["Cuecas Comfort e Performance", "PP a XXGG"],
+          ["Cueca Slip e undershirts", "P a XGG"],
+          ["Calcinha Biquíni Brief", "PP a XGG"]
         ]
       }
     },
     {
       "heading": "Encolhimento: o que a Insider diz e por que pesa na troca",
       "paragraphs": [
-        "Os artigos de lavagem da central de ajuda dizem até quanto cada linha pode encolher. Nas páginas da Core e da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\". Os dois números são da Insider, e a marca não explica como se relacionam; citamos os dois, sem converter.",
+        "Os artigos de lavagem da central de ajuda dizem até quanto cada linha pode encolher. Nas páginas da Core e da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\". Os dois números são da Insider, e a marca não explica como se relacionam; valem os dois.",
         "Isso pesa na troca: a troca por tamanho exige peça sem uso e sem sinais de lavagem. Não dá para lavar para ver se encolhe e depois trocar. Escolha o tamanho pela tabela e siga as instruções de lavagem da etiqueta."
       ],
       "comparisonTable": {
-        "caption": "\"Pode encolher até\", segundo os artigos de lavagem da central de ajuda da Insider, consultados em 12/10/2026.",
+        "caption": "\"Pode encolher até\", segundo os artigos de lavagem da central de ajuda da Insider.",
         "headers": ["Linha", "Pode encolher até", "Composição informada"],
         "rows": [
           ["Tech T-Shirt", "8%", "92% modal, 8% elastano"],
@@ -350,7 +350,7 @@
       "heading": "Provador Virtual e assistente: o que a Insider diz",
       "paragraphs": [
         "O Provador Virtual pede altura, peso e as medidas de busto, cintura e quadril. A própria Insider avisa: \"como cada corpo é único, pode haver variações. Recomendamos conferir a tabela de medidas da peça\".",
-        "Para medir o corpo, a marca orienta: busto na parte mais cheia, cintura na parte mais estreita e quadril na parte mais larga, com a fita métrica reta e justa, sem apertar. Não testamos o Provador nem o assistente."
+        "Para medir o corpo, a marca orienta: busto na parte mais cheia, cintura na parte mais estreita e quadril na parte mais larga, com a fita métrica reta e justa, sem apertar."
       ]
     },
     {
@@ -382,7 +382,7 @@
         "Qual a tabela de medidas da cueca Insider? Para as cuecas Comfort e Performance a tabela é a mesma e traz cintura, quadril e barra do PP ao XXGG, com cintura de 31 a 43 cm, medida de lateral a lateral.",
         "Como é a Daily T-Shirt em relação à Tech T-Shirt? No masculino, a largura é a mesma e a altura é de 2,5 a 3 cm maior; no feminino, o busto da Daily é 4 cm menor que o da Tech em cada tamanho.",
         "A Tech T-Shirt veste justa? A Insider descreve a masculina como de \"caimento ajustado ao corpo sem apertar\" e a feminina como de \"caimento levemente ajustado, sem comprimir\"; a Core tem modelagem regular, segundo a marca.",
-        "A Insider tem tamanhos grandes? A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG, e as tabelas femininas até o XGG, mas em 12/10/2026 o XXGG tinha pouco estoque.",
+        "A Insider tem tamanhos grandes? A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG, e as tabelas femininas até o XGG; confira a cor e o tamanho na página do produto.",
         "A roupa da Insider encolhe? Segundo a central de ajuda, a Tech T-Shirt e a Core podem encolher até 8%, a Daily até 4% e a cueca Comfort até 7%.",
         "Posso trocar a cueca da Insider se errar o tamanho? Não: cuecas, calcinhas e outras peças das linhas Underwear e Beachwear só têm troca ou devolução por defeito de fabricação.",
         "Quanto tempo tenho para trocar uma camiseta que não serviu? Até 21 dias corridos depois do recebimento, com a peça sem uso, com etiqueta e sem sinais de lavagem, e a troca é gratuita.",
