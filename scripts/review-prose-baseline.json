@@ -23,10 +23,6 @@
     "bodyDates": 12,
     "datesOutsideBody": 8
   },
-  "black-friday-nestle-nutre": {
-    "bodyDates": 16,
-    "datesOutsideBody": 8
-  },
   "black-friday-probiotica": {
     "bodyDates": 10,
     "datesOutsideBody": 6
@@ -134,9 +130,6 @@
     "bodyDates": 3,
     "datesOutsideBody": 1
   },
-  "cupom-ceci-nestle-nutre-como-usar": {
-    "datesOutsideBody": 3
-  },
   "cupom-magalu-em-casa-com-cecilia": {
     "quickAnswerPrice": true,
     "datesOutsideBody": 1
@@ -169,9 +162,6 @@
     "bodyDates": 16,
     "datesOutsideBody": 4
   },
-  "fibermais-como-usar-em-receitas-e-bebidas": {
-    "bodyDates": 3
-  },
   "fita-up-como-usar": {
     "bodyDates": 7,
     "datesOutsideBody": 2
@@ -202,16 +192,6 @@
   "insider-vale-a-pena": {
     "bodyDates": 11,
     "datesOutsideBody": 5
-  },
-  "isosource-1-5-ou-trophic-1-5": {
-    "transparencySection": true,
-    "bodyDates": 7,
-    "datesOutsideBody": 2
-  },
-  "isosource-1-5-para-que-serve": {
-    "transparencySection": true,
-    "bodyDates": 3,
-    "datesOutsideBody": 1
   },
   "le-creuset-vale-a-pena": {
     "bodyDates": 7,
@@ -260,15 +240,6 @@
     "bodyDates": 6,
     "datesOutsideBody": 2
   },
-  "nanlac-supreme-pro-1-a-3-anos": {
-    "transparencySection": true,
-    "bodyDates": 10
-  },
-  "nanlac-supreme-pro-ou-aptanutri-profutura": {
-    "transparencySection": true,
-    "bodyDates": 8,
-    "datesOutsideBody": 1
-  },
   "nanlac-supreme-pro-ou-comfor": {
     "transparencySection": true,
     "bodyDates": 14
@@ -276,16 +247,6 @@
   "nestle-nutre-produtos-para-que-servem": {
     "bodyDates": 3,
     "datesOutsideBody": 2
-  },
-  "nutren-a-z-multi-para-que-serve": {
-    "transparencySection": true,
-    "bodyDates": 4
-  },
-  "nutren-a-z-ou-centrum": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 5,
-    "datesOutsideBody": 1
   },
   "nutren-creatina-e-boa-comparativo-growth-ftw-cimed": {
     "bodyDates": 8,
@@ -297,12 +258,6 @@
   },
   "nutren-senior-como-tomar-sem-empelotar": {
     "bodyDates": 5
-  },
-  "nutren-senior-kit-combo-ou-assinatura": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 3,
-    "datesOutsideBody": 4
   },
   "nutren-senior-ou-nutridrink": {
     "transparencySection": true,

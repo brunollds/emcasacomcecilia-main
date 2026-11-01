@@ -35,7 +35,7 @@
       "paragraphs": [
         "As duas fórmulas são apresentadas para nutrição enteral e oral. Usar somente sob orientação médica ou de nutricionista: é o profissional que escolhe a fórmula, a quantidade e a via. Este texto só compara o que os rótulos e as páginas mostram e as contas de preço.",
         "Isosource 1.5 Sem Sabor, 1 L, é o produto da Nestlé Health Science vendido na Nestlé Nutre, em caixa Tetra Square com tampa.",
-        "Trophic 1.5, da Prodiet, na versão Baunilha, caixa de 1 L, lida na página da Droga Raia em 17/10/2026. O Isosource 1.0 existe só em pó, de 400 g, e o 1.5 é líquido. Por isso o 1.0 não entra aqui.",
+        "Trophic 1.5, da Prodiet, na versão Baunilha, caixa de 1 L, lida na página da Droga Raia. O Isosource 1.0 existe só em pó, de 400 g, e o 1.5 é líquido. Por isso o 1.0 não entra aqui.",
         "A tabela completa do Isosource está lida no rótulo. Da Trophic, usamos só o que os cartões oficiais da Prodiet mostram nas fotos do produto numa loja, porque a tabela completa da caixa não estava publicada nas fontes lidas. Não recebemos os produtos. A ficha completa do Isosource está em [Isosource 1.5 Sem Sabor](/reviews/isosource-1-5-para-que-serve)."
       ]
     },
@@ -48,7 +48,7 @@
     {
       "heading": "Comparação por litro",
       "paragraphs": [
-        "Isosource: rótulo lido na Nestlé Nutre em 17/10/2026, com os valores por 100 ml multiplicados por 10 (conta nossa). Trophic: cartões oficiais da Prodiet nas fotos do produto na Droga Raia, lidos em 17/10/2026."
+        "Isosource: rótulo lido na Nestlé Nutre, com os valores por 100 ml multiplicados por 10 (conta nossa). Trophic: cartões oficiais da Prodiet nas fotos do produto na Droga Raia."
       ],
       "comparisonTable": {
         "headers": [
@@ -110,9 +110,9 @@
       ]
     },
     {
-      "heading": "Preço em 17/10/2026",
+      "heading": "Preço",
       "paragraphs": [
-        "Isosource 1.5 Sem Sabor 1 L, na Nestlé Nutre, em 17/10/2026: de R$ 38,49 por R$ 32,72, ou R$ 28,87 na assinatura. Trophic 1.5 Baunilha 1 L, na Droga Raia, em 17/10/2026: de R$ 39,90 por R$ 28,50. As lojas são diferentes e o preço muda; confira na loja na hora da compra."
+        "Isosource 1.5 Sem Sabor 1 L, na Nestlé Nutre, em 17/10/2026: de R$ 38,49 por R$ 32,72, ou R$ 28,87 na assinatura. Trophic 1.5 Baunilha 1 L, na Droga Raia, no mesmo dia: de R$ 39,90 por R$ 28,50. As lojas são diferentes e o preço muda; confira na loja na hora da compra."
       ],
       "bullets": [
         "Isosource, Nestlé Nutre, compra única (conta nossa): R$ 32,72 por litro e cerca de R$ 21,67 por 1.000 kcal (R$ 32,72 dividido por 1,51).",
@@ -130,7 +130,7 @@
       "bullets": [
         "Quem precisa de lactose zero declarada: os dois trazem \"não contém lactose\" na embalagem ou nos cartões do fabricante, e os dois têm derivados de leite.",
         "Quem precisa de fórmula com fibras, ou sem: o Isosource traz 8 g de fibras por litro; a Trophic é \"isenta de fibras\".",
-        "Quem olha o preço por 1.000 kcal: a Trophic estava mais barata na leitura de 17/10/2026 (R$ 19,00 contra R$ 21,67), em lojas diferentes.",
+        "Quem olha o preço por 1.000 kcal: a Trophic estava mais barata na leitura dos preços (R$ 19,00 contra R$ 21,67), em lojas diferentes.",
         "Quem quer a tabela completa antes de comprar: a do Isosource está lida; a da Trophic fica para a caixa."
       ]
     },
@@ -148,13 +148,7 @@
         "Isosource 1.5 tem lactose? A frente diz \"não contém lactose\" e a tabela traz 0 g. Contém derivados de leite e soja.",
         "Trophic 1.5 tem lactose? Os cartões da Prodiet dizem \"não contém lactose\". O texto da loja diz que contém derivados de leite.",
         "Qual tem mais proteína por litro? O Isosource: 63 g contra 57 g (conta nossa para o Isosource; a Prodiet informa 57 g por litro).",
-        "Qual é mais barato por litro? Em 17/10/2026, a Trophic estava a R$ 28,50 na Droga Raia e o Isosource a R$ 32,72 na Nestlé Nutre. Lojas e condições são diferentes."
-      ]
-    },
-    {
-      "heading": "Fontes e nota de transparência",
-      "paragraphs": [
-        "Fontes: rótulo e página do Isosource 1.5 Sem Sabor na Nestlé Nutre e página do Trophic 1.5 Baunilha 1 L na Droga Raia (cartões da Prodiet nas fotos do produto), lidos em 17/10/2026. O Em Casa com Cecília pode receber comissão por compras feitas pelo link da Nestlé Nutre com o cupom CECI. Não recebemos os produtos."
+        "Qual é mais barato por litro? Na leitura dos preços, a Trophic estava a R$ 28,50 na Droga Raia e o Isosource a R$ 32,72 na Nestlé Nutre. Lojas e condições são diferentes."
       ]
     }
   ],

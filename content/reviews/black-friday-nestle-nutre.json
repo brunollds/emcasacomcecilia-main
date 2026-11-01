@@ -1,4 +1,5 @@
 {
+  "bodyDatesReason": "campanha",
   "id": 335,
   "slug": "black-friday-nestle-nutre",
   "title": "Black Friday Nutren 2026: Nutren Senior, Just Protein e o cupom CECI na Nestlé Nutre",
@@ -39,14 +40,14 @@
     {
       "heading": "Resposta rápida: Black Friday Nutren 2026",
       "paragraphs": [
-        "A Nestlé Nutre ainda não anunciou Black Friday do Nutren: até 10/10/2026 não havia campanha. O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja, vale com todas as formas de pagamento e soma com os preços da Black Friday. O que muda a decisão é o prazo de entrega para o Natal; veja o capítulo de entrega."
+        "A Nestlé Nutre ainda não anunciou Black Friday do Nutren: até a leitura dos preços, em outubro, não havia campanha. O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja, vale com todas as formas de pagamento e soma com os preços da Black Friday. O que muda a decisão é o prazo de entrega para o Natal; veja o capítulo de entrega."
       ]
     },
     {
       "heading": "A Nestlé Nutre tem Black Friday?",
       "paragraphs": [
-        "Não encontramos campanha de Black Friday do Nutren na loja Nestlé Nutre nos anos anteriores. Em novembro de 2025, a Nestlé disse ao site Gironews que fazia a maior Black Friday da sua história, de olho nos canais digitais, mas a reportagem não detalha ofertas do Nutren nem da loja.",
-        "O que dá para mostrar é o que a loja já cobrava em outubro de 2026: preço riscado em vários produtos para adultos, um preço menor para quem assina e kits com duas latas. Quando a campanha de 2026 for anunciada, as condições entram aqui, com o que mudou em relação a outubro."
+        "Não encontramos campanha de Black Friday do Nutren na loja Nestlé Nutre nos anos anteriores. Em novembro do ano passado, a Nestlé disse ao site Gironews que fazia a maior Black Friday da sua história, de olho nos canais digitais, mas a reportagem não detalha ofertas do Nutren nem da loja.",
+        "O que dá para mostrar é o que a loja já cobrava em outubro: preço riscado em vários produtos para adultos, um preço menor para quem assina e kits com duas latas. Quando a campanha de 2026 for anunciada, as condições entram aqui, com o que mudou em relação a outubro. A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro."
       ]
     },
     {
@@ -64,18 +65,53 @@
       },
       "comparisonTable": {
         "caption": "Nutren Senior na loja Nestlé Nutre em 10 de outubro de 2026, como a página de cada produto mostrava, antes do cupom. O traço indica produto sem preço riscado.",
-        "headers": ["Produto", "Preço riscado", "Compra única", "Assinatura"],
+        "headers": [
+          "Produto",
+          "Preço riscado",
+          "Compra única",
+          "Assinatura"
+        ],
         "rows": [
-          ["Nutren Senior Café com Leite, lata de 740 g", "R$ 188,19", "R$ 169,37", "R$ 150,55"],
-          ["Nutren Senior Zero Lactose Sem Sabor, lata de 740 g", "R$ 211,79", "R$ 190,61", "R$ 169,43"],
-          ["Kit Nutren Senior Sem Sabor, 2 latas de 740 g", "—", "R$ 263,49", "R$ 237,14"],
-          ["Kit Nutren Senior Zero Lactose Sem Sabor, 2 latas de 740 g", "—", "R$ 296,50", "R$ 266,85"],
-          ["Combo Nutren Senior Sem Sabor, 2 latas de 740 g", "R$ 376,38", "R$ 319,92", "R$ 282,29"],
-          ["Nutren Senior Café com Leite, lata de 370 g", "—", "R$ 100,79", "R$ 90,71"]
+          [
+            "Nutren Senior Café com Leite, lata de 740 g",
+            "R$ 188,19",
+            "R$ 169,37",
+            "R$ 150,55"
+          ],
+          [
+            "Nutren Senior Zero Lactose Sem Sabor, lata de 740 g",
+            "R$ 211,79",
+            "R$ 190,61",
+            "R$ 169,43"
+          ],
+          [
+            "Kit Nutren Senior Sem Sabor, 2 latas de 740 g",
+            "—",
+            "R$ 263,49",
+            "R$ 237,14"
+          ],
+          [
+            "Kit Nutren Senior Zero Lactose Sem Sabor, 2 latas de 740 g",
+            "—",
+            "R$ 296,50",
+            "R$ 266,85"
+          ],
+          [
+            "Combo Nutren Senior Sem Sabor, 2 latas de 740 g",
+            "R$ 376,38",
+            "R$ 319,92",
+            "R$ 282,29"
+          ],
+          [
+            "Nutren Senior Café com Leite, lata de 370 g",
+            "—",
+            "R$ 100,79",
+            "R$ 90,71"
+          ]
         ]
       },
       "postParagraphs": [
-        "Repare nos kits: em 10 de outubro, o kit com duas latas de 740 g sem sabor saía por R$ 263,49, cerca de R$ 131,75 por lata, menos que o combo de duas latas sem sabor (R$ 319,92) e que uma lata avulsa de café com leite (R$ 169,37). Conferimos no carrinho que o preço do kit vale para as duas latas.",
+        "Repare nos kits: o kit com duas latas de 740 g sem sabor saía por R$ 263,49, cerca de R$ 131,75 por lata, menos que o combo de duas latas sem sabor (R$ 319,92) e que uma lata avulsa de café com leite (R$ 169,37). Conferimos no carrinho que o preço do kit vale para as duas latas.",
         "A comparação das formas de compra por 100 g, da lata de 370 g ao kit e à assinatura, está em [Nutren Senior: qual tamanho e qual forma de compra compensam](/reviews/nutren-senior-kit-combo-ou-assinatura).",
         "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
       ],
@@ -110,15 +146,50 @@
         }
       ],
       "comparisonTable": {
-        "caption": "Outros produtos para adultos na loja Nestlé Nutre em 10 de outubro de 2026, como a página de cada produto mostrava, antes do cupom. O traço indica produto sem preço riscado.",
-        "headers": ["Produto", "Preço riscado", "Compra única", "Assinatura"],
+        "caption": "Outros produtos para adultos na loja Nestlé Nutre, como a página de cada produto mostrava, antes do cupom. O traço indica produto sem preço riscado.",
+        "headers": [
+          "Produto",
+          "Preço riscado",
+          "Compra única",
+          "Assinatura"
+        ],
         "rows": [
-          ["Nutren Just Protein, lata de 280 g", "R$ 128,79", "R$ 115,91", "R$ 103,03"],
-          ["Combo Nutren Just Protein, 2 latas de 280 g", "R$ 257,58", "R$ 193,18", "R$ 167,43"],
-          ["Nutren Creatina, sachê de 300 g", "—", "R$ 59,90", "R$ 53,91"],
-          ["FiberMais Sem Sabor, lata de 260 g", "—", "R$ 144,89", "R$ 130,40"],
-          ["Nutren Control Baunilha, lata de 740 g", "R$ 214,89", "R$ 171,91", "R$ 150,42"],
-          ["Nutren Active Baunilha, lata de 400 g", "R$ 63,49", "R$ 50,79", "R$ 44,44"]
+          [
+            "Nutren Just Protein, lata de 280 g",
+            "R$ 128,79",
+            "R$ 115,91",
+            "R$ 103,03"
+          ],
+          [
+            "Combo Nutren Just Protein, 2 latas de 280 g",
+            "R$ 257,58",
+            "R$ 193,18",
+            "R$ 167,43"
+          ],
+          [
+            "Nutren Creatina, sachê de 300 g",
+            "—",
+            "R$ 59,90",
+            "R$ 53,91"
+          ],
+          [
+            "FiberMais Sem Sabor, lata de 260 g",
+            "—",
+            "R$ 144,89",
+            "R$ 130,40"
+          ],
+          [
+            "Nutren Control Baunilha, lata de 740 g",
+            "R$ 214,89",
+            "R$ 171,91",
+            "R$ 150,42"
+          ],
+          [
+            "Nutren Active Baunilha, lata de 400 g",
+            "R$ 63,49",
+            "R$ 50,79",
+            "R$ 44,44"
+          ]
         ]
       },
       "postParagraphs": [
@@ -185,19 +256,51 @@
       "heading": "Entrega e prazo para o Natal",
       "paragraphs": [
         "A Nestlé Nutre não publica prazos por região: a página de cada produto tem um calculador de frete pelo CEP. Pelos termos de uso, o pedido pode levar até 48 horas para ser processado, e o prazo de entrega conta a partir da nota fiscal enviada por e-mail.",
-        "Em 10 de outubro, simulamos no calculador o frete de três latas de 740 g do Nutren Senior Zero Lactose (R$ 571,83, acima do frete grátis) com o CEP do centro de 12 capitais. Somando os dois dias de processamento e um dia útil de folga, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+        "Em outubro, simulamos no calculador o frete de três latas de 740 g do Nutren Senior Zero Lactose (R$ 571,83, acima do frete grátis) com o CEP do centro de 12 capitais. Somando os dois dias de processamento e um dia útil de folga, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
       ],
       "comparisonTable": {
-        "caption": "Prazo do frete grátis no calculador da Nestlé Nutre em 10 de outubro de 2026, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
-        "headers": ["Capital", "Frete grátis no calculador", "Pagar até (estimativa)"],
+        "caption": "Prazo do frete grátis no calculador da Nestlé Nutre em outubro, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+        "headers": [
+          "Capital",
+          "Frete grátis no calculador",
+          "Pagar até (estimativa, em dezembro)"
+        ],
         "rows": [
-          ["São Paulo", "3 dias úteis", "16 de dezembro"],
-          ["Brasília, Goiânia e Salvador", "5 dias úteis", "14 de dezembro"],
-          ["Belo Horizonte e Recife", "6 dias úteis", "11 de dezembro"],
-          ["Rio de Janeiro, Curitiba e Fortaleza", "7 dias úteis", "10 de dezembro"],
-          ["Porto Alegre", "8 dias úteis", "9 de dezembro"],
-          ["Belém", "9 dias úteis", "8 de dezembro"],
-          ["Manaus", "14 dias úteis", "1º de dezembro"]
+          [
+            "São Paulo",
+            "3 dias úteis",
+            "dia 16"
+          ],
+          [
+            "Brasília, Goiânia e Salvador",
+            "5 dias úteis",
+            "dia 14"
+          ],
+          [
+            "Belo Horizonte e Recife",
+            "6 dias úteis",
+            "dia 11"
+          ],
+          [
+            "Rio de Janeiro, Curitiba e Fortaleza",
+            "7 dias úteis",
+            "dia 10"
+          ],
+          [
+            "Porto Alegre",
+            "8 dias úteis",
+            "dia 9"
+          ],
+          [
+            "Belém",
+            "9 dias úteis",
+            "dia 8"
+          ],
+          [
+            "Manaus",
+            "14 dias úteis",
+            "dia 1º"
+          ]
         ]
       },
       "postParagraphs": [
@@ -208,15 +311,15 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quando é a Black Friday da Nestlé Nutre? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro. Até 10 de outubro de 2026, a loja ainda não tinha anunciado campanha para o Nutren.",
-        "Quanto custa o Nutren Senior 740 g? Em 10 de outubro de 2026, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
-        "O Nutren Senior fica mais barato na Black Friday? Em outubro de 2026, ele já estava abaixo do preço riscado, e o kit com duas latas saía por cerca de R$ 131,75 a lata. Se em novembro o preço do dia ficar abaixo das tabelas deste guia, o desconto é maior que o de outubro.",
+        "Quando é a Black Friday da Nestlé Nutre? A Black Friday de 2026 é na última sexta-feira de novembro, e a Cyber Monday, na segunda-feira seguinte. Até a leitura de outubro, a loja ainda não tinha anunciado campanha para o Nutren.",
+        "Quanto custa o Nutren Senior 740 g? Na leitura de outubro, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
+        "O Nutren Senior fica mais barato na Black Friday? Em outubro, ele já estava abaixo do preço riscado, e o kit com duas latas saía por cerca de R$ 131,75 a lata. Se em novembro o preço do dia ficar abaixo das tabelas deste guia, o desconto é maior que o de outubro.",
         "O cupom CECI vale para o Nutren Senior? Vale. O CECI dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday: pela nossa conta, a lata zero lactose de R$ 190,61 sai por R$ 171,55.",
         "Quais produtos ficam fora do cupom CECI? Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Nos demais produtos da loja, o cupom dá 10% OFF.",
         "A Nestlé Nutre tem frete grátis? Tem, acima de R$ 400 na compra única e acima de R$ 200 na assinatura.",
         "Como funciona a assinatura da Nestlé Nutre? A loja anuncia 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, em assinaturas acima de R$ 200, com entregas a cada 30, 60 ou 90 dias. É uma assinatura por CPF, paga no cartão de crédito, e dá para cancelar sem custo.",
         "A Nestlé Nutre parcela sem juros? Parcela, em até 6 vezes sem juros no cartão, com parcela mínima de R$ 75. No Pix, a loja não anuncia desconto.",
-        "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos do frete grátis que a loja mostrou em outubro, os dois dias de processamento e um dia útil de folga, até 16 de dezembro em São Paulo, até 10 de dezembro no Rio de Janeiro e até 1º de dezembro em Manaus."
+        "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos do frete grátis que a loja mostrou em outubro, os dois dias de processamento e um dia útil de folga, pague em dezembro até o dia 16 em São Paulo, até o dia 10 no Rio de Janeiro e até o dia 1º em Manaus."
       ]
     }
   ],
