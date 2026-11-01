@@ -91,7 +91,7 @@
       ],
       "image": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
       "imageAlt": "Checkout da Cléa Store antes do cupom, com o Kit 3 T-Shirts em promoção, o cashback de até R$ 25,80 e a linha Cupom de desconto marcados em amarelo",
-      "imageCaption": "Checkout da Cléa Store em 14/10/2026, antes do cupom: o kit em promoção, o cashback previsto e o \"Cupom de desconto\" com o link \"Adicionar\". O marca-texto amarelo é nosso.",
+      "imageCaption": "Checkout da Cléa Store, antes do cupom: o kit em promoção, o cashback previsto e o \"Cupom de desconto\" com o link \"Adicionar\". O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.1486
     },
@@ -117,7 +117,7 @@
       ],
       "image": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
       "imageAlt": "Checkout da Cléa Store depois do cupom, com a linha Desconto de menos R$ 25,80, o Cupom aplicado CSEMCASACOMCECILIA e o cashback de até R$ 23,22",
-      "imageCaption": "Depois do cupom, em 14/10/2026: a linha \"Desconto\" com -R$ 25,80, o \"Cupom aplicado\" e o cashback recalculado para até R$ 23,22. O marca-texto amarelo é nosso.",
+      "imageCaption": "Depois do cupom: a linha \"Desconto\" com -R$ 25,80, o \"Cupom aplicado\" e o cashback recalculado para até R$ 23,22. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 0.9308
     },
@@ -126,7 +126,7 @@
       "paragraphs": [
         "Antes do cupom, a tela mostrava \"Receba até R$ 25,80 de cashback\". Depois, passou a mostrar \"Receba até R$ 23,22 de cashback\". O resumo seguiu com o aviso \"Seu pedido vai gerar cashback!\".",
         "No teste, R$ 23,22 é 10% de R$ 232,20: o cashback saiu sobre o valor já com o cupom, e por isso o número caiu de R$ 25,80 para R$ 23,22.",
-        "A página de cashback da loja, lida em 14/10/2026, diz como ele funciona:"
+        "A página de cashback da loja, diz como ele funciona:"
       ],
       "bullets": [
         "Equivale a 10% em créditos, concedidos automaticamente ao comprar no site.",
@@ -145,7 +145,7 @@
         "No nosso teste, os três valeram no mesmo pedido, nesta ordem:"
       ],
       "comparisonTable": {
-        "caption": "Teste do cupom CSEMCASACOMCECILIA no carrinho da Cléa Store em 14/10/2026",
+        "caption": "Teste do cupom CSEMCASACOMCECILIA no carrinho da Cléa Store",
         "headers": [
           "Etapa",
           "O que a loja mostrou"
@@ -177,9 +177,9 @@
     {
       "heading": "Frete grátis e pagamento",
       "paragraphs": [
-        "A faixa do site, em 14/10/2026, anunciava \"frete grátis acima de R$ 599\". O cupom em si não dá frete grátis: o frete grátis é uma regra da loja. O pedido do nosso teste, de R$ 232,20, ficou abaixo desse valor.",
+        "A faixa do site anunciava \"frete grátis acima de R$ 599\". O cupom em si não dá frete grátis: o frete grátis é uma regra da loja. O pedido do nosso teste, de R$ 232,20, ficou abaixo desse valor.",
         "Se o seu carrinho está perto dos R$ 599, confira o frete no carrinho antes de pagar.",
-        "O CSEMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. O rodapé do site, em 14/10/2026, listava cartão em até 6x sem juros ou Pix."
+        "O CSEMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. O rodapé do site listava cartão em até 6x sem juros ou Pix."
       ]
     },
     {
@@ -191,7 +191,7 @@
     {
       "heading": "Se precisar devolver um produto comprado com cupom",
       "paragraphs": [
-        "A Cléa Store tem devolução grátis. O cupom, o cashback e o frete grátis não são reembolsados em caso de devolução, segundo a política de troca e devolução da loja em 14/10/2026.",
+        "A Cléa Store tem devolução grátis. O cupom, o cashback e o frete grátis não são reembolsados em caso de devolução, segundo a política de troca e devolução da loja.",
         "O quadro completo de prazos e do passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel). Os números da loja no Reclame Aqui estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
       ]
     },
@@ -208,10 +208,10 @@
         "Qual é o cupom da Cléa Store? O cupom da nossa parceria é o CSEMCASACOMCECILIA, que dá 10% OFF em todo o site oficial, o cleastore.com.br. Digite o código no campo \"Cupom de desconto\" do resumo do pedido e clique em \"Adicionar\".",
         "Tem cupom de primeira compra na Cléa Store? Sim. O CSEMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou na loja.",
         "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja.",
-        "O cupom da Cléa Store soma com as promoções? Sim. No nosso teste de 14/10/2026, o 10% valeu sobre o preço promocional.",
+        "O cupom da Cléa Store soma com as promoções? Sim. No nosso teste, o 10% valeu sobre o preço promocional.",
         "O cupom da Cléa Store soma com o cashback? Sim. No nosso teste, o resumo do pedido continuou mostrando cashback, de até R$ 23,22.",
         "Posso usar dois cupons no mesmo pedido? Não. Os termos da loja dizem que cada cliente pode usar apenas um voucher por pedido.",
-        "O cupom dá frete grátis? Não. O frete grátis é uma regra da loja, que anunciava frete grátis acima de R$ 599 em 14/10/2026. O frete é calculado pelo CEP, no carrinho."
+        "O cupom dá frete grátis? Não. O frete grátis é uma regra da loja, que anunciava frete grátis acima de R$ 599. O frete é calculado pelo CEP, no carrinho."
       ]
     }
   ]

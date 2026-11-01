@@ -33,9 +33,9 @@
     {
       "heading": "A loja não vende conjunto de alfaiataria",
       "paragraphs": [
-        "A Cléa Store vende peças avulsas. No catálogo lido em 24/10/2026, não há conjunto de alfaiataria. O único \"conjunto\" da loja é de crochê, por R$ 1.490. Também não há pantalona de alfaiataria fora de duas calças, que aparecem mais abaixo.",
+        "A Cléa Store vende peças avulsas. No catálogo lido, não há conjunto de alfaiataria. O único \"conjunto\" da loja é de crochê, por R$ 1.490. Também não há pantalona de alfaiataria fora de duas calças, que aparecem mais abaixo.",
         "Para ter um conjunto de alfaiataria de verão, a saída é juntar um blazer ou colete com uma calça ou short da mesma cor e do mesmo tecido. O capítulo Montar um conjunto mostra três combinações desse tipo, com a conta e o cupom.",
-        "Não compramos nem testamos nenhuma destas peças. O que está aqui vem das fichas e das páginas da loja, lidas em 24/10/2026."
+        "Não compramos nem testamos nenhuma destas peças. O que está aqui vem das fichas e das páginas da loja."
       ]
     },
     {
@@ -134,7 +134,7 @@
         {
           "src": "/images/reviews/clea-store/alfaiataria-verao-clea-store-tabela-tecido.webp",
           "alt": "Tabela com composição, forro, preço e grade das peças de linho e alfaiataria da Cléa Store, lidas em 24/10/2026.",
-          "caption": "Dados da ficha e do site em 24/10/2026, sem cupom.",
+          "caption": "Dados da ficha e do site, sem cupom.",
           "objectFit": "contain",
           "aspectRatio": 0.798
         }
@@ -250,11 +250,11 @@
     {
       "heading": "Montar um conjunto (monte o seu)",
       "paragraphs": [
-        "A loja não vende estes conjuntos prontos. As três combinações abaixo usam peças da mesma cor e do mesmo tecido. Os preços são de 24/10/2026, e o cupom de 10% sai sobre o preço do dia.",
+        "A loja não vende estes conjuntos prontos. As três combinações abaixo usam peças da mesma cor e do mesmo tecido. Os preços são os da tabela acima, e o cupom de 10% sai sobre o preço do dia.",
         "**Rosa linho.** Blazer Rosa Linho (4404), R$ 899,00, M e G, mais Shorts Rosa Linho (4402), R$ 579,00, com 36, 38 e 40. Tudo em linho. Total de R$ 1.478,00, ou R$ 1.330,20 com o cupom. O blazer não tem P.",
-        "**Bege linho.** Colete Bege Linho (4221), R$ 299,40, com PP e P, mais Calça Caqui Linho (4416), R$ 559,00, com 36 e 38. Total de R$ 858,40, ou R$ 772,56 com o cupom. A calça aparece como pré-venda, mas dá para comprar; a página diz que a entrega conta a partir de 08/10/2026.",
+        "**Bege linho.** Colete Bege Linho (4221), R$ 299,40, com PP e P, mais Calça Caqui Linho (4416), R$ 559,00, com 36 e 38. Total de R$ 858,40, ou R$ 772,56 com o cupom. A calça aparece como pré-venda, mas dá para comprar; confira o prazo de entrega na página.",
         "**Vermelho linho.** Colete Vermelho (4393), R$ 799,00, com P e G, mais Bermuda Vermelha (4395), R$ 599,00, só no 40. Total de R$ 1.398,00, ou R$ 1.258,20 com o cupom. A bermuda é 100% linho, segundo a ficha. Se preferir calça, a Calça Linho Vermelha (4414), R$ 559,00, com 36 e 38, leva o total a R$ 1.358,00, ou R$ 1.222,20 com o cupom. Ela também aparece como pré-venda, nas mesmas condições da caqui, e a ficha sugere usá-la com o colete.",
-        "As três montagens passam de R$ 599, valor da faixa de frete grátis do site em 24/10/2026.",
+        "As três montagens passam de R$ 599, valor da faixa de frete grátis do site.",
         "As grades usam letra nas peças de cima e número nas de baixo. Antes de escolher, abra o botão Tabela de Medidas na página de cada peça."
       ],
       "images": [
@@ -270,7 +270,7 @@
     {
       "heading": "Pantalona ou wide leg de alfaiataria",
       "paragraphs": [
-        "Só duas calças de alfaiataria aparecem no catálogo lido em 24/10/2026. A Calça Caqui Linho (4416), de linho e algodão 70/30, tem 36 e 38, e a ficha a descreve como wide leg. A Calça Linho Vermelha (4414), também 70/30, tem 36 e 38 e também é wide leg segundo a ficha. As duas estão em pré-venda.",
+        "Só duas calças de alfaiataria aparecem no catálogo lido. A Calça Caqui Linho (4416), de linho e algodão 70/30, tem 36 e 38, e a ficha a descreve como wide leg. A Calça Linho Vermelha (4414), também 70/30, tem 36 e 38 e também é wide leg segundo a ficha. As duas estão em pré-venda.",
         "A Calça Wide Leg Areia (4382), R$ 756,00, de 36 a 42, é de algodão, mas a ficha a chama de calça jeans. Por isso ela não entra como alfaiataria. Serve só como alternativa de algodão, com essa ressalva."
       ]
     },
@@ -286,7 +286,7 @@
       "comparisonTable": {
         "headers": [
           "Peça",
-          "Preço em 24/10",
+          "Preço no site",
           "Grade",
           "Situação"
         ],
@@ -387,17 +387,11 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Cléa Store vende conjunto de alfaiataria? Não. No catálogo lido em 24/10/2026, o único conjunto é de crochê, por R$ 1.490.",
+        "A Cléa Store vende conjunto de alfaiataria? Não. No catálogo lido, o único conjunto é de crochê, por R$ 1.490.",
         "A calça é wide leg? Sim, segundo a ficha, nas duas: a Calça Caqui Linho (4416) e a Calça Linho Vermelha (4414).",
         "O blazer tem forro? Só o Blazer Oversized Mescla (4307) e o Bordô (4305) declaram forro, de 97% poliéster e 3% elastano. Nos outros, a ficha não informa.",
         "Qual tamanho escolher? Use o botão Tabela de Medidas da página de cada peça. A loja também tem um Provador Virtual na mesma página, e o [guia da tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir.",
-        "O frete é grátis? Sim, acima de R$ 599, na faixa do site em 24/10/2026."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Podemos receber comissão por compras feitas com o cupom e o link deste texto. Nossa equipe não comprou nem testou as peças. Os dados vêm das fichas e das páginas da loja, lidas em 24/10/2026, e a grade muda todo dia."
+        "O frete é grátis? Sim, acima de R$ 599, na faixa do site."
       ]
     }
   ],

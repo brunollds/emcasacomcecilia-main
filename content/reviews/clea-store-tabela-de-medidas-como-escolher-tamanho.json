@@ -34,7 +34,7 @@
       "heading": "Como a Cléa mostra a tabela",
       "paragraphs": [
         "A Cléa não tem uma tabela de medidas única para o site. Cada página de produto tem o botão \"Tabela de Medidas\", que abre o provador da Sizebay com a tabela por tamanho. Nas peças de cima, ela traz busto, cintura e quadril; na t-shirt e no blazer, só busto e cintura. Na calça, a tabela traz cintura e quadril, com a numeração 36 a 42.",
-        "Nas peças de cima que lemos em 20/10/2026 (t-shirt oversized, bodies e blazer oversized bordô), a tabela é a mesma. O P, o M e o G têm a mesma faixa de medidas em todas elas.",
+        "Nas peças de cima que lemos (t-shirt oversized, bodies e blazer oversized bordô), a tabela é a mesma. O P, o M e o G têm a mesma faixa de medidas em todas elas.",
         "O mesmo botão abre o \"Provador Virtual\", também da Sizebay. A loja não diz que ele acerta o caimento, então use como apoio, não como medida."
       ]
     },
@@ -101,7 +101,7 @@
         {
           "src": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
           "alt": "Quadro com a tabela de medidas da Cléa Store: peças de cima em P, M e G e calça de 36 a 42, com busto, cintura e quadril em centímetros",
-          "caption": "Tabela de medidas lida em 20/10/2026. Quadro do Em Casa com Cecília.",
+          "caption": "Tabela de medidas lida no site. Quadro do Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 2.1053
         }
@@ -110,7 +110,7 @@
     {
       "heading": "Tabela da calça",
       "paragraphs": [
-        "A calça usa numeração de 36 a 42, e a tabela traz cintura e quadril, sem busto. Os números são da página da Calça New Baggy Areia, lida em 20/10/2026."
+        "A calça usa numeração de 36 a 42, e a tabela traz cintura e quadril, sem busto. Os números são da página da Calça New Baggy Areia, lida na mesma leitura."
       ],
       "comparisonTable": {
         "headers": [
@@ -179,7 +179,7 @@
     {
       "heading": "Se o tamanho não servir",
       "paragraphs": [
-        "A devolução é grátis, sem custo de postagem para quem devolve. Pela página de troca e devolução da loja (lida em 14/10/2026), o prazo é de 30 dias corridos após o recebimento, com a peça na embalagem original, sem uso e com a nota fiscal.",
+        "A devolução é grátis, sem custo de postagem para quem devolve. Pela página de troca e devolução da loja, o prazo é de 30 dias corridos após o recebimento, com a peça na embalagem original, sem uso e com a nota fiscal.",
         "O texto não afirma troca direta por outro tamanho: a regra de troca que a loja descreve fala em vale no valor da peça, não em outra letra. Também não afirma quanto volta quando a compra teve cupom. Antes de devolver, leia a página de troca da loja. O que a loja informa e o que ainda não está claro nas políticas está em [a página sobre se a Cléa Store é confiável](/reviews/clea-store-e-confiavel)."
       ]
     },
@@ -190,12 +190,6 @@
         "O oversized é maior? Na medida do corpo, não: a tabela da t-shirt e do blazer oversized usa os mesmos números das peças justas. A folga vem do corte, que a loja descreve como caimento amplo.",
         "Posso devolver se não servir? Sim, a devolução é grátis e tem prazo de 30 dias corridos após o recebimento, pela página de troca da loja. A troca direta por outro tamanho não está confirmada.",
         "O provador acerta o tamanho? A loja não diz que sim e não garante o caimento; use a tabela como base e confira a descrição da peça."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "As tabelas e o provador foram lidos no site da Cléa Store em 20/10/2026, na página de cada peça. A equipe testou o cupom em 14/10/2026. Podemos receber comissão quando a compra sai pelo cupom ou pelo link da loja. Ninguém do site vestiu, mediu ou devolveu as peças: o que está aqui é o que a loja publica e o que a tabela mede, sem experiência própria."
       ]
     }
   ],
@@ -209,7 +203,7 @@
   },
   "coupon": "CSEMCASACOMCECILIA",
   "affiliate": "clea-store",
-  "editorialNote": "Medidas e preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+  "editorialNote": "Medidas lidas no site da Cléa Store; ninguém da equipe vestiu as peças. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
   "relatedArticles": [
     {
       "slug": "body-clea-store-second-skin-qual-escolher",

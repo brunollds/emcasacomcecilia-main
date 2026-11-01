@@ -1,9 +1,4 @@
 {
-  "alfaiataria-verao-clea-store": {
-    "transparencySection": true,
-    "bodyDates": 10,
-    "datesOutsideBody": 3
-  },
   "autobronzeador-skelt-qual-escolher": {
     "bodyDates": 14,
     "datesOutsideBody": 3
@@ -12,14 +7,6 @@
     "transparencySection": true,
     "bodyDates": 8,
     "datesOutsideBody": 5
-  },
-  "black-friday-black-skull": {
-    "bodyDates": 17,
-    "datesOutsideBody": 9
-  },
-  "black-friday-clea-store": {
-    "bodyDates": 17,
-    "datesOutsideBody": 6
   },
   "black-friday-damie": {
     "bodyDates": 23,
@@ -92,47 +79,15 @@
     "bodyDates": 23,
     "datesOutsideBody": 3
   },
-  "black-skull-e-confiavel": {
-    "bodyDates": 11,
-    "datesOutsideBody": 3
-  },
-  "black-skull-mercado-livre-ou-site": {
-    "transparencySection": true,
-    "bodyDates": 9,
-    "datesOutsideBody": 4
-  },
-  "black-skull-ou-dark-lab": {
-    "transparencySection": true,
-    "bodyDates": 7,
-    "datesOutsideBody": 2
-  },
-  "black-skull-ou-dux": {
-    "transparencySection": true,
-    "bodyDates": 14,
-    "datesOutsideBody": 4
-  },
   "black-skull-ou-growth": {
     "transparencySection": true,
     "bodyDates": 10,
     "datesOutsideBody": 7
   },
-  "black-skull-ou-integralmedica": {
-    "transparencySection": true,
-    "bodyDates": 9,
-    "datesOutsideBody": 3
-  },
   "black-skull-ou-max-titanium": {
     "transparencySection": true,
     "bodyDates": 16,
     "datesOutsideBody": 2
-  },
-  "black-skull-reclame-aqui-nota-reputacao": {
-    "bodyDates": 15,
-    "datesOutsideBody": 13
-  },
-  "body-clea-store-second-skin-qual-escolher": {
-    "transparencySection": true,
-    "bodyDates": 7
   },
   "body-splash-skelt-milos-breeze": {
     "quickAnswerPrice": true,
@@ -167,12 +122,6 @@
     "transparencySection": true,
     "bodyDates": 5
   },
-  "camiseta-clea-store-e-boa": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 10,
-    "datesOutsideBody": 4
-  },
   "camiseta-feminina-insider-qual-escolher": {
     "quickAnswerPrice": true,
     "transparencySection": true,
@@ -188,43 +137,19 @@
     "bodyDates": 5,
     "datesOutsideBody": 2
   },
-  "clea-store-aniversario-14-anos-t-shirt-brinde": {
-    "bodyDates": 8,
-    "datesOutsideBody": 3
-  },
   "clea-store-e-confiavel": {
     "bodyDates": 12,
     "datesOutsideBody": 6
   },
-  "clea-store-mercado-livre-ou-site": {
-    "transparencySection": true,
-    "bodyDates": 9,
-    "datesOutsideBody": 7
-  },
   "clea-store-reclame-aqui-nota-reputacao": {
     "bodyDates": 13,
     "datesOutsideBody": 14
-  },
-  "clea-store-tabela-de-medidas-como-escolher-tamanho": {
-    "transparencySection": true,
-    "bodyDates": 6,
-    "datesOutsideBody": 1
   },
   "codigo-de-indicacao-shein": {
     "datesOutsideBody": 3
   },
   "como-encontrar-cupons-yesstyle-validos": {
     "datesOutsideBody": 1
-  },
-  "creatina-black-skull-qual-escolher": {
-    "transparencySection": true,
-    "bodyDates": 11,
-    "datesOutsideBody": 4
-  },
-  "creatina-com-sabor-qual-escolher": {
-    "transparencySection": true,
-    "bodyDates": 8,
-    "datesOutsideBody": 3
   },
   "creatina-max-titanium-qual-pote": {
     "quickAnswerPrice": true,
@@ -252,10 +177,6 @@
     "bodyDates": 6,
     "datesOutsideBody": 3
   },
-  "cupom-black-skull-como-usar": {
-    "bodyDates": 8,
-    "datesOutsideBody": 5
-  },
   "cupom-ceci-nescafe-dolce-gusto-como-usar": {
     "quickAnswerPrice": true,
     "bodyDates": 3,
@@ -263,10 +184,6 @@
   },
   "cupom-ceci-nestle-nutre-como-usar": {
     "datesOutsideBody": 3
-  },
-  "cupom-clea-store-como-usar": {
-    "bodyDates": 6,
-    "datesOutsideBody": 4
   },
   "cupom-dr-peanut-como-usar": {
     "bodyDates": 8,
@@ -384,11 +301,6 @@
     "bodyDates": 5,
     "datesOutsideBody": 2
   },
-  "hipercalorico-black-skull-qual-escolher": {
-    "transparencySection": true,
-    "bodyDates": 16,
-    "datesOutsideBody": 5
-  },
   "hostinger-e-confiavel": {
     "transparencySection": true,
     "bodyDates": 5,
@@ -505,10 +417,6 @@
   "lista-de-casamento-lejour-como-criar": {
     "bodyDates": 5,
     "datesOutsideBody": 4
-  },
-  "look-trabalho-alfaiataria-feminina-clea-store": {
-    "transparencySection": true,
-    "bodyDates": 5
   },
   "magazine-voce-e-confiavel": {
     "bodyDates": 10,
@@ -676,11 +584,6 @@
     "bodyDates": 4,
     "datesOutsideBody": 3
   },
-  "pre-treino-black-skull-bope-ou-bone-crusher": {
-    "transparencySection": true,
-    "bodyDates": 9,
-    "datesOutsideBody": 4
-  },
   "pre-treino-exquenta-mais-mu-e-bom": {
     "transparencySection": true,
     "bodyDates": 4
@@ -838,11 +741,6 @@
   "vps-ou-hospedagem-compartilhada-qual-escolher": {
     "bodyDates": 5,
     "datesOutsideBody": 2
-  },
-  "whey-black-skull-qual-escolher": {
-    "transparencySection": true,
-    "bodyDates": 19,
-    "datesOutsideBody": 4
   },
   "whey-mais-mu-qual-escolher": {
     "transparencySection": true,
