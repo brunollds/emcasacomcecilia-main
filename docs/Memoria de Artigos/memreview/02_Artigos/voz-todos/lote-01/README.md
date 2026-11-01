@@ -20,7 +20,9 @@ Script sobre os 239 consertos, contra a `origin/main` em `8d99b19c`. Os 35 JSONs
 1. **Um trecho, uma versão.** Onde as duas passadas caem no mesmo trecho (59), use a versão que mantém todos os fatos do original; empate, a mais curta.
 2. **Aplique também os só-Muse (28) e os só-paralela (93).** Todos passaram na conferência. Pule o conserto que, no texto aplicado, repetir a frase vizinha ou deixar o capítulo sem sentido.
 3. **Artigos com uso real** (`poltronas-reclinaveis-damie-vale-o-investimento`, `poltrona-damie-e-boa`, `minha-experiencia-manteiga-batida-aerada`, `dolce-gusto-maquinas-qual-escolher` no capítulo "O que a gente já usou aqui em casa"): o relato de uso fica. O conserto mexe só na frase de apresentação.
-4. **Fotos:** os 2 achados de imagem (Snow sem foto no capítulo de abertura; promoção Mini Me com galeria antiga) ficam para depois, fora deste PR.
-5. **Gates:** `node scripts/content/build-index.mjs`, `npm run validate:content` e `npm run test:article-d2`. Um PR para o lote, com o Gate 1 verde.
+4. **Ficha dos 4 artigos de produto sem ela** (`poltrona-moon-design-que-parece-obra-de-arte`, `sofa-damie-na-caixa-vale-a-pena-o-modular`, `poltrona-levita-o-topo-da-tecnologia-e-conforto`, `sofa-damie-modular-vale-a-pena`): preencher `productSpec` no formato de `poltronas-reclinaveis-damie-vale-o-investimento`. Os dados saem do próprio artigo e da página do produto na Damie: marca, modelo, medidas, espuma ou estrutura, revestimentos, peso suportado, garantia, cupom (percentual de `couponsData.ts`, com `highlight: true`) e onde comprar. "Modelo testado" e "Tempo de uso" só onde o artigo declara uso.
+5. **Cartão de destaque:** onde o artigo já tem `emphasis`, ele fica só se for julgamento que a Cecília assinaria (Job 2, seção 5). "Atenção:", "Importante:" e regra de cupom saem do cartão e voltam ao parágrafo; "Dica da Cecília:" fica, se a dica é dela, mas um cartão por artigo.
+6. **Fotos:** os 2 achados de imagem (Snow sem foto no capítulo de abertura; promoção Mini Me com galeria antiga) ficam para depois, fora deste PR.
+7. **Gates:** `node scripts/content/build-index.mjs`, `npm run validate:content` e `npm run test:article-d2`. Um PR para o lote, com o Gate 1 verde.
 
 O backup dos 35 JSONs como estavam fica em `muse-rev/backup-voz-lote-01` (fora do repositório). Desfazer = reverter o PR.

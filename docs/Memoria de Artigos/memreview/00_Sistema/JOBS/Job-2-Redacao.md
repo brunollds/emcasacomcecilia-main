@@ -56,6 +56,10 @@ Um capítulo completo responde uma pergunta da busca, tem um dado próprio e ter
 - **Moda, Casa-Malas e Tecnologia:** "Se fosse para a minha casa, eu levaria X, porque Y." Sem uso real, nada de "aqui em casa" nem "uso".
 - **Suplementos-Alimentos e Beleza:** sem gesto de consumo. "Pelos números da tabela, para o perfil X a escolha é Y, porque Z." Nunca "eu levaria", "eu tomaria" ou "eu usaria": lido pela leitora, vira recomendação de uso e encosta na regra de saúde.
 
+**Cartão de destaque (campo `emphasis` da seção):** a frase de veredito pessoal vai nele, no capítulo de veredito, uma vez por artigo. O cartão assina "Cecília Mauad", então só leva frase que ela assinaria: julgamento, nunca dado de loja ("a renovação custa de 4 a 6 vezes"), regra de cupom ou aviso ("Atenção:", "Importante:").
+
+**Ficha, estrelas, prós e contras:** só aparecem em artigo `reviewKind: "produto"`, que exige uso real. Guia não preenche `verdict`, `pros`, `cons` nem `productSpec`: nas guias, a ficha vai na tabela e o "para quem / quando não" no texto.
+
 **Para quem / quando não:** cada produto com capítulo próprio tem uma frase de para quem serve e uma de quando não escolher. Julgamento por perfil é o que a loja não faz: "a Heavy é para quem não quer a camiseta marcando o corpo; se usa por baixo do blazer no calor, fique na Tech".
 
 **Armadilha (o bloco que só o site tem):** diga o que a página deixa de fora e em que o leitor cai: o preço riscado de um kit, a comparação com o avulso, o cupom que não soma com a promoção. Mostre a conta em uma frase.
