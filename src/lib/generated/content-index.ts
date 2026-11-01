@@ -55872,6 +55872,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 337,
     "slug": "black-friday-yesstyle",
+    "bodyDatesReason": "campanha",
     "locale": "pt",
     "translationKey": "yesstyle-black-friday",
     "title": "Black Friday YesStyle 2026: quando começa, como funcionam os cupons e onde entra o código CECILIA010",
@@ -55919,35 +55920,30 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando começa a Black Friday da YesStyle",
         "paragraphs": [
-          "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo junta as páginas das Black Fridays de 2024 e 2025. A de 2026 ainda não saiu."
+          "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo traz as datas de 2025; em 2024, as fases seguiram a mesma ordem e começaram um ou dois dias depois. A de 2026 ainda não saiu."
         ],
         "comparisonTable": {
-          "caption": "Cupons abertos a todos os membros, pelas páginas de ajuda da YesStyle. Datas no horário GMT, que é o que vale para a loja.",
+          "caption": "Cupons abertos a todos os membros em 2025, pelas páginas de ajuda da YesStyle; cada fase vai até o início da seguinte. Datas no horário GMT, que é o que vale para a loja.",
           "headers": [
             "Fase",
-            "2024",
-            "2025"
+            "Em 2025"
           ],
           "rows": [
             [
               "Cupom de faixa com o nome Black Friday",
-              "4/11 a 29/11",
-              "3/11 a 27/11"
+              "a partir de 3/11"
             ],
             [
               "15% sem valor mínimo (Black Friday)",
-              "29/11 a 2/12",
-              "27/11 a 1/12"
+              "a partir de 27/11"
             ],
             [
               "15% sem valor mínimo (Cyber Monday)",
-              "2/12 a 4/12",
-              "1/12 a 3/12"
+              "a partir de 1/12"
             ],
             [
               "Cupom de faixa da Cyber Monday",
-              "4/12 a 10/12",
-              "3/12 a 8/12"
+              "de 3/12 a 8/12"
             ]
           ]
         },
@@ -56048,14 +56044,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ofertas que não são para todo mundo",
         "paragraphs": [
-          "Em 2025, além do cupom aberto a todos os membros, a YesStyle teve duas ofertas restritas. Entre 24 e 30 de novembro, os níveis Bronze, Silver e Gold do Elite Club, o programa de fidelidade da loja, tiveram um produto por dia a US$ 1, em pedidos a partir de US$ 50: um por pedido, enquanto durasse o estoque e sem troca nem devolução. E entre 28/11 e 1/12, um cupom de 18% sem valor mínimo foi para membros selecionados (\"We Miss You\"). A página não explica como esses membros foram escolhidos.",
+          "Em 2025, além do cupom aberto a todos os membros, a YesStyle teve duas ofertas restritas. Na semana da Black Friday, os níveis Bronze, Silver e Gold do Elite Club, o programa de fidelidade da loja, tiveram um produto por dia a US$ 1, em pedidos a partir de US$ 50: um por pedido, enquanto durasse o estoque e sem troca nem devolução. E entre a Black Friday e a Cyber Monday, um cupom de 18% sem valor mínimo foi para membros selecionados (\"We Miss You\"). A página não explica como esses membros foram escolhidos.",
           "Se aparecer um cupom desses na sua conta, a regra é a mesma: ele soma com o código de recompensa e com os YS Points."
         ]
       },
       {
         "heading": "Depois da Black Friday: o Natal",
         "paragraphs": [
-          "Em 2024, o maior cupom do fim de ano não foi o da Black Friday: entre 22 e 26 de dezembro, a YesStyle deu 18% sem valor mínimo em tudo. Em 2025, os cupons abertos a todos os membros ficaram nos 15% até o fim do ano.",
+          "Em 2024, o maior cupom do fim de ano não foi o da Black Friday: na semana do Natal, a YesStyle deu 18% sem valor mínimo em tudo. Em 2025, os cupons abertos a todos os membros ficaram nos 15% até o fim do ano.",
           "Para presente de Natal, a compra da Black Friday é a mais segura. Uma compra internacional demora mais que a de uma loja daqui, e o prazo estimado aparece no checkout antes de pagar."
         ]
       },
@@ -56067,7 +56063,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
           "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000, lida em 13/10/2026.",
+          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
           "objectFit": "contain",
           "aspectRatio": 3.5907
         }
@@ -56118,7 +56114,7 @@ export const reviewsData: unknown[] = [
           "O CECILIA010 vale na Black Friday? Vale. Ele vai no campo Reward Code, e as regras dos cupons da Black Friday dizem que eles valem junto com os Rewards Codes.",
           "Dá para usar dois cupons da YesStyle no mesmo pedido? Não: é um cupom por pedido. O código de recompensa é outra coisa e vai em outro campo do checkout.",
           "Preciso ter conta na YesStyle para usar o cupom da Black Friday? Precisa. Os cupons são só para membros, e quem compra como visitante fica sem o desconto.",
-          "A YesStyle entrega no Brasil? A loja não traz o Brasil na tabela de frete, mas um pedido nosso feito em 17/09/2026 foi enviado em 19/09/2026. O frete e o prazo aparecem no checkout.",
+          "A YesStyle entrega no Brasil? A loja não traz o Brasil na tabela de frete, mas um pedido nosso foi enviado dois dias depois de feito. O frete e o prazo aparecem no checkout.",
           "Vou pagar imposto comprando na YesStyle? Pode haver cobrança na chegada do pacote. Em pedidos abaixo de US$ 1.000, a YesStyle devolve esses impostos em crédito na loja, se você mandar o comprovante em até 30 dias."
         ]
       }
@@ -106139,6 +106135,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 534,
     "slug": "yesstyle-ou-olive-young",
+    "bodyDatesReason": "prazo-entrega",
     "locale": "pt",
     "translationKey": "yesstyle-vs-olive-young",
     "title": "YesStyle ou Olive Young: quem entrega no seu país, frete, imposto e devolução",
@@ -106187,7 +106184,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Brasil",
-              "Aviso de pausa de 03/07/2026 ainda no ar; um pedido nosso de 17/09/2026 foi enviado",
+              "Aviso de pausa de 03/07/2026 ainda no ar; um pedido nosso foi enviado",
               "Não entrega"
             ],
             [
@@ -106201,7 +106198,7 @@ export const reviewsData: unknown[] = [
               "Grátis a partir de US$ 60 na maioria dos destinos (abaixo disso, US$ 25); prazo no checkout"
             ]
           ],
-          "caption": "Prazo e frete grátis por país: YesStyle pela tabela de 13/10/2026, Olive Young Global pela página de envio e pela FAQ de frete lidas em 21/10/2026."
+          "caption": "Prazo e frete grátis por país: YesStyle pela tabela de frete, Olive Young Global pela página de envio e pela FAQ de frete."
         },
         "postParagraphs": [
           "Onde a Olive Young não publica prazo para o país, vale a regra geral da FAQ de frete (grátis a partir de US$ 60, US$ 25 abaixo; US$ 5 na Malásia e em Singapura) e o prazo só aparece no checkout, com o endereço.",
@@ -106210,7 +106207,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
           "alt": "Grade com 24 siglas de países, cada uma com dois pontos: o da esquerda para a YesStyle e o da direita para a Olive Young",
-          "caption": "Verde: entrega; amarelo: entrega sem prazo publicado ou, no Brasil, com o aviso de pausa da YesStyle; ×: não entrega; laranja: nos EUA, a Olive Young vende pela loja americana. Páginas de 13/10/2026 (YesStyle) e 21/10/2026 (Olive Young).",
+          "caption": "Verde: entrega; amarelo: entrega sem prazo publicado ou, no Brasil, com o aviso de pausa da YesStyle; ×: não entrega; laranja: nos EUA, a Olive Young vende pela loja americana.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -106219,14 +106216,14 @@ export const reviewsData: unknown[] = [
         "heading": "Frete grátis e prazo",
         "paragraphs": [
           "Os prazos são de envio, não de porta a porta. Na YesStyle, o tempo para o item sair do armazém de Hong Kong soma ao envio: um item em estoque sai em 1 a 3 dias úteis. A Olive Young mostra só o prazo do envio, sem o tempo de saída do armazém. Não some os valores de uma loja com os da outra: a YesStyle conta em dias úteis, e a Olive Young mostra só “dias”, sem dizer se são úteis.",
-          "**Portugal.** Pelo envio Standard da YesStyle, o prazo é de 10 a 15 dias úteis, com rastreio. Um pedido só com itens em estoque chega em 11 a 18 dias úteis. Com um item de 7 a 14 dias de espera, o pedido sobe para 17 a 29 dias úteis. O frete é grátis a partir de US$ 60 (a embalagem de presente não entra nesse total) e custa US$ 5 abaixo disso (dados de 13/10/2026). A Olive Young entrega em Portugal, mas a tabela de envio não tem linha para o país: pela FAQ de frete, o envio é grátis a partir de US$ 60 e custa US$ 25 abaixo disso, contado sobre o preço dos produtos sem descontos (lida em 21/10/2026). O prazo não é publicado; a loja só diz que separa e embala o pedido em 1 a 3 dias úteis. Para comparar o prazo, ponha o endereço português no checkout de cada loja. Abaixo do mínimo, o frete da YesStyle sai bem mais barato.",
+          "**Portugal.** Pelo envio Standard da YesStyle, o prazo é de 10 a 15 dias úteis, com rastreio. Um pedido só com itens em estoque chega em 11 a 18 dias úteis. Com um item de 7 a 14 dias de espera, o pedido sobe para 17 a 29 dias úteis. O frete é grátis a partir de US$ 60 (a embalagem de presente não entra nesse total) e custa US$ 5 abaixo disso. A Olive Young entrega em Portugal, mas a tabela de envio não tem linha para o país: pela FAQ de frete, o envio é grátis a partir de US$ 60 e custa US$ 25 abaixo disso, contado sobre o preço dos produtos sem descontos. O prazo não é publicado; a loja só diz que separa e embala o pedido em 1 a 3 dias úteis. Para comparar o prazo, ponha o endereço português no checkout de cada loja. Abaixo do mínimo, o frete da YesStyle sai bem mais barato.",
           "**Os outros países.** Onde as duas entregam, a Olive Young tem prazo menor em alguns casos: Reino Unido (4 a 5 dias, contra 5 a 12 dias úteis no Premium Standard da YesStyle), Canadá (5 a 7, contra 7 a 14), Austrália (4 a 5, contra 6 a 8), França e Alemanha (4 a 5, contra 10 a 15) e México (8 a 9, contra 10 a 13). Na Ásia, a YesStyle tem prazo menor em Hong Kong (1 a 3 dias, contra 3 a 5), no Japão (4 a 5, contra 6 a 7) e em Singapura (3 a 5, contra 5 a 6), porque usa o Express. Compare sempre o método de cada loja.",
           "**Frete grátis.** A Olive Young libera o frete a partir de US$ 60 na maioria dos países do comparativo. Em Taiwan, o limite é US$ 35, e no Japão, ¥ 3.900. A YesStyle pede US$ 35 em Hong Kong, na Malásia, nos EUA (Standard) e na Austrália (Premium Standard); US$ 45 na Europa continental, na Espanha, no México e na Colômbia; US$ 50 no Japão, na Coreia, em Taiwan, em Singapura, no Reino Unido e no Canadá; e US$ 60 em Portugal, no Chile, no Peru e na Argentina. Abaixo do mínimo, a YesStyle cobra de US$ 3 a US$ 8 na maioria dos países."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
           "alt": "Grade com 24 siglas de países e, em cada uma, o valor em dólar a partir do qual o frete é grátis: à esquerda na YesStyle, à direita na Olive Young",
-          "caption": "Frete grátis a partir de quanto, em US$ (no Japão, a Olive Young usa ¥ 3.900). Em verde, o menor valor de cada país; ×: não entrega; laranja: nos EUA, a OLIVE YOUNG US; traço: frete não publicado (a YesStyle no Brasil; a Olive Young na Coreia, que fica fora da tabela de envio dela). Páginas de 13/10/2026 (YesStyle) e 21/10/2026 (Olive Young).",
+          "caption": "Frete grátis a partir de quanto, em US$ (no Japão, a Olive Young usa ¥ 3.900). Em verde, o menor valor de cada país; ×: não entrega; laranja: nos EUA, a OLIVE YOUNG US; traço: frete não publicado (a YesStyle no Brasil; a Olive Young na Coreia, que fica fora da tabela de envio dela).",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -106235,16 +106232,16 @@ export const reviewsData: unknown[] = [
         "heading": "Quem paga o imposto",
         "paragraphs": [
           "O imposto muda de país para país nas duas lojas. Na Olive Young, ele entra no checkout em alguns países e fica para a entrega em outros, por conta do cliente.",
-          "**Olive Young.** A página separa os países em grupos. No Reino Unido, na Noruega, na Austrália e em Singapura, o imposto aparece como cobrado na compra. O Reino Unido pode cobrar IVA e taxas em pedidos acima de £ 135; a Noruega tem IVA de 25%, a Austrália, GST de 10%, e Singapura, 9%. Na União Europeia, desde os pedidos feitos em 31/07/2026, a Olive Young calcula e cobra no checkout o IVA do país e € 3 de imposto de importação por código HS (categoria aduaneira), depois que você digita o endereço; em pedido abaixo de US$ 60 com frete, o IVA também incide sobre o frete. A loja diz que nada mais é cobrado na entrega (aviso de 23/07/2026, lido em 21/10/2026). No Canadá e em Israel, a cobrança cai na entrega: o Canadá pode cobrar IVA em pedidos acima de CA$ 20, e Israel, taxas acima de US$ 75, e a transportadora local pode cobrar uma taxa. Portugal é da União Europeia, então o imposto da Olive Young já aparece no total do checkout. A loja não aceita devolução nem reembolso por causa de imposto ou taxa de importação (FAQ de taxas da UE, lida em 21/10/2026).",
-          "**YesStyle.** Em Portugal, o IVA de 23% já está no preço dos produtos e é somado ao frete no checkout. Desde 01/07/2026, a União Europeia cobra € 3 por categoria aduaneira em pacotes abaixo de € 150, e a YesStyle diz que, por enquanto, paga essa taxa pelo cliente (artigo de entrega, dados de 13/10/2026). No Brasil, o imposto cai depois que o pacote chega: fora do Remessa Conforme, a Receita cobra Imposto de Importação de 60% e ICMS de 17% a 20%, conforme o estado. A YesStyle reembolsa taxas de alfândega cobradas na entrega em pedidos abaixo de US$ 1.000, em crédito na loja, se você mandar o comprovante em até 30 dias. A política não cita o ICMS. Os números do Brasil vêm do artigo de entrega, lido em 12/10/2026."
+          "**Olive Young.** A página separa os países em grupos. No Reino Unido, na Noruega, na Austrália e em Singapura, o imposto aparece como cobrado na compra. O Reino Unido pode cobrar IVA e taxas em pedidos acima de £ 135; a Noruega tem IVA de 25%, a Austrália, GST de 10%, e Singapura, 9%. Na União Europeia, desde os pedidos feitos em 31/07/2026, a Olive Young calcula e cobra no checkout o IVA do país e € 3 de imposto de importação por código HS (categoria aduaneira), depois que você digita o endereço; em pedido abaixo de US$ 60 com frete, o IVA também incide sobre o frete. A loja diz que nada mais é cobrado na entrega. No Canadá e em Israel, a cobrança cai na entrega: o Canadá pode cobrar IVA em pedidos acima de CA$ 20, e Israel, taxas acima de US$ 75, e a transportadora local pode cobrar uma taxa. Portugal é da União Europeia, então o imposto da Olive Young já aparece no total do checkout. A loja não aceita devolução nem reembolso por causa de imposto ou taxa de importação (FAQ de taxas da UE).",
+          "**YesStyle.** Em Portugal, o IVA de 23% já está no preço dos produtos e é somado ao frete no checkout. Desde 01/07/2026, a União Europeia cobra € 3 por categoria aduaneira em pacotes abaixo de € 150, e a YesStyle diz que, por enquanto, paga essa taxa pelo cliente (artigo de entrega). No Brasil, o imposto cai depois que o pacote chega: fora do Remessa Conforme, a Receita cobra Imposto de Importação de 60% e ICMS de 17% a 20%, conforme o estado. A YesStyle reembolsa taxas de alfândega cobradas na entrega em pedidos abaixo de US$ 1.000, em crédito na loja, se você mandar o comprovante em até 30 dias. A política não cita o ICMS. Os números do Brasil vêm do artigo de entrega."
         ]
       },
       {
         "heading": "Devolução e produto aberto",
         "paragraphs": [
           "Na Olive Young Global, a devolução cobre só produto com defeito ou item errado enviado pela loja. O pedido tem de ser feito em até 30 dias do recebimento, por consulta 1:1 no atendimento, com o número do pedido e fotos do produto. Se o item veio errado, entra também a foto da etiqueta do pacote. Não há troca e não há devolução por arrependimento: produto aberto ou usado não volta. Pacote devolvido por erro do cliente, como endereço errado ou destinatário ausente, também não é reembolsado.",
-          "Quando a devolução é aprovada, a Olive Young paga o frete de volta e reembolsa na forma de pagamento original, em 2 a 15 dias úteis (página de devolução lida em 21/10/2026). A página de envio da mesma loja diz ainda que o reembolso só sai se o item voltar à loja em até 2 meses: despache logo.",
-          "A YesStyle aceita mais coisas. Peça o número de RMA em até 14 dias do recebimento, para desistência ou troca de tamanho, e despache o pacote em até 30 dias da emissão do RMA. Produto de beleza aberto e suplemento não voltam, e reação na pele não dá direito a reembolso. Em defeito, o RMA sai com fotos e a loja cobre o frete por correio aéreo ou registrado. O reembolso vem em crédito na loja, em geral em até 7 dias depois do processamento; a pedido, volta na forma de pagamento, em até 14 dias úteis ou mais (artigo de entrega publicado em 13/10/2026).",
+          "Quando a devolução é aprovada, a Olive Young paga o frete de volta e reembolsa na forma de pagamento original, em 2 a 15 dias úteis (página de devolução da loja). A página de envio da mesma loja diz ainda que o reembolso só sai se o item voltar à loja em até 2 meses: despache logo.",
+          "A YesStyle aceita mais coisas. Peça o número de RMA em até 14 dias do recebimento, para desistência ou troca de tamanho, e despache o pacote em até 30 dias da emissão do RMA. Produto de beleza aberto e suplemento não voltam, e reação na pele não dá direito a reembolso. Em defeito, o RMA sai com fotos e a loja cobre o frete por correio aéreo ou registrado. O reembolso vem em crédito na loja, em geral em até 7 dias depois do processamento; a pedido, volta na forma de pagamento, em até 14 dias úteis ou mais (artigo de entrega).",
           "Onde a Olive Young ganha: o reembolso volta para a forma de pagamento original por padrão, e não em crédito na loja. Onde a YesStyle ganha: aceita desistência e troca de tamanho, que a Olive Young não aceita."
         ],
         "comparisonTable": {
@@ -106287,7 +106284,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Programa de membros e pontos",
         "paragraphs": [
-          "A Olive Young Global tem o OY MEMBERS, que é grátis. O cadastro dá o nível BABY na hora. Os outros níveis são recalculados na primeira segunda-feira de janeiro e de julho, pela compra do semestre anterior, e sobem na hora se a compra do semestre atual passar do limite. Na página de membros lida em 21/10/2026, a faixa de cada nível é esta; o nível atual vale até 31/12/2026."
+          "A Olive Young Global tem o OY MEMBERS, que é grátis. O cadastro dá o nível BABY na hora. Os outros níveis são recalculados na primeira segunda-feira de janeiro e de julho, pela compra do semestre anterior, e sobem na hora se a compra do semestre atual passar do limite. Na página de membros, a faixa de cada nível é esta; o nível atual vale até o fim do ano."
         ],
         "comparisonTable": {
           "headers": [
@@ -106331,7 +106328,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
           "alt": "Gráfico de barras com os cinco níveis do OY MEMBERS, de BABY a GOLD, a compra no semestre que leva a cada um e a porcentagem de pontos de volta",
-          "caption": "Níveis do OY MEMBERS: compra no semestre, em US$, e pontos de volta, de 0,5% a 2,5%. Página de membros lida em 21/10/2026; o nível atual vale até 31/12/2026.",
+          "caption": "Níveis do OY MEMBERS: compra no semestre, em US$, e pontos de volta, de 0,5% a 2,5%. Página de membros; o nível atual vale até o fim do ano.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -106339,8 +106336,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Formas de pagamento",
         "paragraphs": [
-          "A Olive Young Global aceita PayPal, Visa, Mastercard, American Express, Diners Club, Discover, JCB, UnionPay, Apple Pay e Alipay (lista de 21/10/2026). Os valores são em dólar americano (US$) ou iene (¥), e o total cobrado pode variar com o câmbio na data da compra.",
-          "A YesStyle lista Visa, Mastercard, American Express e JCB, PayPal, Google Pay e Apple Pay (página de pagamento, citada no artigo de entrega publicado em 13/10/2026). Os preços saem em dólar; em outra moeda, a loja converte pelo câmbio dela no momento do pedido.",
+          "A Olive Young Global aceita PayPal, Visa, Mastercard, American Express, Diners Club, Discover, JCB, UnionPay, Apple Pay e Alipay. Os valores são em dólar americano (US$) ou iene (¥), e o total cobrado pode variar com o câmbio na data da compra.",
+          "A YesStyle lista Visa, Mastercard, American Express e JCB, PayPal, Google Pay e Apple Pay (página de pagamento, citada no artigo de entrega). Os preços saem em dólar; em outra moeda, a loja converte pelo câmbio dela no momento do pedido.",
           "Nas duas lojas, a cobrança é em moeda estrangeira. A YesStyle avisa que o banco pode cobrar taxa de transação internacional; a página de envio da Olive Young não trata do assunto. Nenhuma das duas listou Pix ou boleto nas páginas lidas, então confira a forma de pagamento antes de fechar o pedido."
         ]
       },
@@ -106348,7 +106345,7 @@ export const reviewsData: unknown[] = [
         "heading": "Estados Unidos: Olive Young Global ou OLIVE YOUNG US",
         "paragraphs": [
           "Quem mora nos Estados Unidos não compra na Olive Young Global. A FAQ da própria loja manda quem recebe nos EUA para a OLIVE YOUNG US (us.oliveyoung.com), que é separada desde 29/05/2026. A Global envia para endereços fora dos EUA. A comparação de quem está nos EUA é, portanto, com a OLIVE YOUNG US.",
-          "Na OLIVE YOUNG US, lida em 21/10/2026 (página com data de atualização de 18/08/2026):"
+          "Na OLIVE YOUNG US:"
         ],
         "bullets": [
           "Envio padrão de US$ 6,95, grátis a partir de US$ 35, sem impostos incluídos.",
@@ -106359,32 +106356,32 @@ export const reviewsData: unknown[] = [
           "A devolução feita na loja online não vale na loja física dos EUA, e a da loja física não vale online."
         ],
         "postParagraphs": [
-          "A YesStyle, para os EUA, publica o Standard de 7 a 11 dias úteis, grátis a partir de US$ 35 (tabela de 13/10/2026). Nas duas, o frete grátis começa em US$ 35; a OLIVE YOUNG US promete prazo menor."
+          "A YesStyle, para os EUA, publica o Standard de 7 a 11 dias úteis, grátis a partir de US$ 35 (tabela de frete). Nas duas, o frete grátis começa em US$ 35; a OLIVE YOUNG US promete prazo menor."
         ]
       },
       {
         "heading": "Por que a Olive Young Global não entrega no Brasil",
         "paragraphs": [
-          "A FAQ de países elegíveis da Olive Young Global, lida em 21/10/2026, diz que o envio não está disponível para países que não estão na lista, e cita Espanha, Brasil e Índia como exemplos. O seletor de destino da loja tem 61 países e não tem o Brasil. A tabela de envio, com a transportadora de cada país (DHL, FedEx, LX Pantos, UPS ou KSE), também não tem o Brasil.",
+          "A FAQ de países elegíveis da Olive Young Global diz que o envio não está disponível para países que não estão na lista, e cita Espanha, Brasil e Índia como exemplos. O seletor de destino da loja tem 61 países e não tem o Brasil. A tabela de envio, com a transportadora de cada país (DHL, FedEx, LX Pantos, UPS ou KSE), também não tem o Brasil.",
           "A loja diz que a lista pode mudar: países podem ser suspensos ou removidos a qualquer momento. A linha \"outras regiões\", de 15 dias, não diz quais países cobre, e a FAQ fala de países fora da lista. Para o Brasil, então, a resposta é a da FAQ: não é enviado.",
-          "As páginas lidas não dão o motivo da falta do Brasil, e este texto não chuta um. A YesStyle também não publica prazo nem frete para o Brasil, e o aviso de 03/07/2026 que pausou os novos pedidos ao país segue na central da loja sem aviso de retomada. Mesmo assim, um pedido nosso feito em 17/09/2026 foi enviado dois dias depois."
+          "As páginas lidas não dão o motivo da falta do Brasil, e este texto não chuta um. A YesStyle também não publica prazo nem frete para o Brasil, e o aviso que pausou os novos pedidos ao país segue na central da loja sem aviso de retomada. Mesmo assim, um pedido nosso foi enviado dois dias depois de feito."
         ]
       },
       {
         "heading": "Código de recompensa CECILIA010 na YesStyle",
         "paragraphs": [
-          "O CECILIA010 é código de recompensa, não cupom. No checkout da YesStyle, ele vai no campo Reward Code. Pela ficha do código aqui do site, conferida em 01/08/2026, ele dá até 5% na primeira compra e 2% nas compras seguintes, e soma com os cupons da própria loja. Os cupons da YesStyle mudam e vencem, então a lista do momento fica na página da loja: [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
+          "O CECILIA010 é código de recompensa, não cupom. No checkout da YesStyle, ele vai no campo Reward Code. Pela ficha do código aqui do site, ele dá até 5% na primeira compra e 2% nas compras seguintes, e soma com os cupons da própria loja. Os cupons da YesStyle mudam e vencem, então a lista do momento fica na página da loja: [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
           "A Olive Young não tem código nosso neste comparativo, nem cupom. O que ela dá a membro está no programa descrito acima, e pode mudar."
         ]
       },
       {
         "heading": "Qual escolher, conforme o país",
         "bullets": [
-          "Mora no Brasil: a Olive Young Global não entrega, e a YesStyle não publica prazo nem frete para o país, embora um pedido nosso de 17/09/2026 tenha sido enviado.",
+          "Mora no Brasil: a Olive Young Global não entrega, e a YesStyle não publica prazo nem frete para o país, embora um pedido nosso tenha sido enviado.",
           "Mora em Portugal: as duas entregam, e a YesStyle publica o prazo (10 a 15 dias úteis no Standard) e a Olive Young só a regra de frete. Nas duas, o frete é grátis a partir de US$ 60; abaixo disso, a YesStyle cobra US$ 5 e a Olive Young, US$ 25.",
           "Mora nos Estados Unidos: a comparação é com a OLIVE YOUNG US, e nas duas o frete grátis começa em US$ 35.",
           "Pesa a devolução: a YesStyle aceita desistência e troca de tamanho, com o número de devolução pedido em até 14 dias; a Olive Young só aceita defeito ou item errado, em 30 dias.",
-          "Pesa o imposto: a YesStyle já mostra o IVA de Portugal no preço, e a Olive Young cobra IVA e imposto de importação no checkout nos pedidos para a União Europeia desde 31/07/2026."
+          "Pesa o imposto: a YesStyle já mostra o IVA de Portugal no preço, e a Olive Young cobra IVA e imposto de importação no checkout nos pedidos para a União Europeia."
         ],
         "postParagraphs": [
           "Para ver a oferta da YesStyle antes de comprar, use a [página da YesStyle](/cupons/yesstyle)."
@@ -106393,12 +106390,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Olive Young entrega no Brasil? Não. A lista de envio da Olive Young Global, lida em 21/10/2026, não tem o Brasil, e a FAQ diz que o envio não é feito a países fora da lista.",
+          "A Olive Young entrega no Brasil? Não. A lista de envio da Olive Young Global não tem o Brasil, e a FAQ diz que o envio não é feito a países fora da lista.",
           "Qual é mais barata? Este artigo não compara preço de produto. Compare o mesmo item nas duas lojas no dia da compra, com frete e imposto somados.",
-          "Qual entrega mais rápido em Portugal? A Olive Young entrega em Portugal, mas não publica o prazo para o país (página lida em 21/10/2026). A YesStyle publica de 10 a 15 dias úteis de envio, além de 1 a 3 dias para o item sair do armazém.",
-          "Quem paga o imposto na Europa? Na Olive Young, desde 31/07/2026 o IVA e € 3 por código HS são cobrados no checkout, e a loja diz que nada mais é cobrado na entrega. Na YesStyle, em Portugal, o IVA de 23% já vem no preço. Os detalhes estão na seção de imposto.",
+          "Qual entrega mais rápido em Portugal? A Olive Young entrega em Portugal, mas não publica o prazo para o país. A YesStyle publica de 10 a 15 dias úteis de envio, além de 1 a 3 dias para o item sair do armazém.",
+          "Quem paga o imposto na Europa? Na Olive Young, para a União Europeia, o IVA e € 3 por código HS são cobrados no checkout, e a loja diz que nada mais é cobrado na entrega. Na YesStyle, em Portugal, o IVA de 23% já vem no preço. Os detalhes estão na seção de imposto.",
           "Dá para devolver produto aberto? Na Olive Young Global, não, a não ser que tenha defeito ou seja item errado enviado pela loja, em 30 dias. Na YesStyle, produto de beleza aberto e suplemento não voltam.",
-          "A Olive Young Global e a OLIVE YOUNG US são a mesma loja? Não. A Global envia da Coreia para a lista de países e não para os EUA; a OLIVE YOUNG US é separada desde 29/05/2026 e tem regras próprias de frete e devolução.",
+          "A Olive Young Global e a OLIVE YOUNG US são a mesma loja? Não. A Global envia da Coreia para a lista de países e não para os EUA; a OLIVE YOUNG US é separada e tem regras próprias de frete e devolução.",
           "Onde coloco o CECILIA010? No checkout da YesStyle, no campo Reward Code. Ele soma com os cupons da própria loja."
         ]
       }
@@ -130567,7 +130564,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Toda Up é o nome novo da Fita Up: a FITA UP LTDA, empresa brasileira com CNPJ ativo desde 18/12/2020 e sede em Biguaçu (SC). O rodapé traz esse CNPJ, e a loja publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa."
+          "Sim, a Toda Up é o nome novo da Fita Up: a FITA UP LTDA, empresa brasileira com CNPJ ativo desde 2020 e sede em Biguaçu (SC). O rodapé traz esse CNPJ, e a loja publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa."
         ]
       },
       {
@@ -130580,7 +130577,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/toda-up/toda-up-empresa-cnpj-2610.webp",
           "alt": "Quadro com o rodapé do site da Toda Up, o CNPJ 40.159.443/0001-44 da FITA UP LTDA, ativa desde 18/12/2020, em Biguaçu (SC)",
-          "caption": "Rodapé do site oficial e consulta pública do CNPJ, lidos em 26/10/2026. Quadro nosso.",
+          "caption": "Rodapé do site oficial e consulta pública do CNPJ, lidos no mesmo dia. Quadro nosso.",
           "objectFit": "contain",
           "aspectRatio": 1.5666
         }
@@ -130613,13 +130610,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A frase sobre qualidade e segurança dos produtos também está nessa lista da loja, mas é afirmação da marca, não um fato que este texto confirma.",
-          "Dois registros públicos ajudam a entender a linha do tempo. O domínio fitaup.com foi registrado em 21/05/2020 e o domínio todaup.com, em 10/04/2025, pelos dados públicos de registro lidos em 26/10/2026. Essas datas são de domínio, não de empresa: a FITA UP LTDA existe desde 18/12/2020, e o domínio antigo veio antes da abertura do CNPJ. O domínio fitaup.com segue registrado e aparece linkado na home da Toda Up.",
+          "Dois registros públicos ajudam a entender a linha do tempo. O domínio fitaup.com foi registrado em 2020 e o domínio todaup.com, em 2025, pelos dados públicos de registro. Essas datas são de domínio, não de empresa: a FITA UP LTDA existe desde o fim de 2020, e o domínio antigo veio antes da abertura do CNPJ. O domínio fitaup.com segue registrado e aparece linkado na home da Toda Up.",
           "O FAQ da loja também traz as perguntas de quem comprou no site antigo, como \"Tenho um pedido feito no site antigo (Fita UP). Ele vai chegar?\" e \"Preciso criar um novo cadastro?\". Se o seu caso é esse, a resposta da loja está lá, e o canal de atendimento é o mesmo do capítulo de atendimento."
         ],
         "image": {
           "src": "/images/reviews/toda-up/toda-up-faq-mudanca-de-marca-2610.webp",
           "alt": "FAQ do site da Toda Up com a pergunta Toda Up é outra empresa? aberta e a resposta de que a mudança é apenas de marca e visual",
-          "caption": "O FAQ da página Sobre da Toda Up, lido em 26/10/2026.",
+          "caption": "O FAQ da página Sobre da Toda Up.",
           "objectFit": "contain",
           "aspectRatio": 1.2294
         }
@@ -130635,7 +130632,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar a Fita Up hoje",
         "paragraphs": [
-          "Só no site oficial, todaup.com. Na leitura de 26/10/2026, o endereço antigo, www.fitaup.com, e o blog da Fita Up redirecionam para o todaup.com, e a loja não lista revendedor nem loja em marketplace. A fita adesiva Fita Up segue no catálogo, na categoria Adesivos, ao lado das peças de moda íntima da Toda Up."
+          "Só no site oficial, todaup.com. O endereço antigo, www.fitaup.com, e o blog da Fita Up redirecionam para o todaup.com, e a loja não lista revendedor nem loja em marketplace. A fita adesiva Fita Up segue no catálogo, na categoria Adesivos, ao lado das peças de moda íntima da Toda Up."
         ],
         "bullets": [
           "Site oficial: todaup.com, com o CNPJ 40.159.443/0001-44 no rodapé.",
@@ -130646,7 +130643,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas e devolução",
         "paragraphs": [
-          "A política de troca, com última atualização em 01/10/2026 e lida em 26/10/2026, tem dois prazos iguais, contados do recebimento, um terceiro para defeito e uma regra para produto errado:"
+          "A política de troca tem dois prazos iguais, contados do recebimento, um terceiro para defeito e uma regra para produto errado:"
         ],
         "bullets": [
           "sem sujeira nem manchas de cosmético ou desodorante;",
@@ -130699,8 +130696,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e despacho",
         "paragraphs": [
-          "O frete é calculado pelo CEP no checkout, com envio por Sedex, Loggi ou Jadlog, segundo a política de frete lida em 26/10/2026. A loja despacha em até 3 dias úteis depois da confirmação do pagamento: até 1 dia útil para faturar e até 2 dias úteis para entregar à transportadora. O código de rastreio vai por e-mail depois do despacho.",
-          "A política não traz uma regra fixa de frete grátis: a loja libera frete grátis em campanhas, como a Black Antecipada de outubro de 2026. Fora de campanha, o valor aparece pelo CEP.",
+          "O frete é calculado pelo CEP no checkout, com envio por Sedex, Loggi ou Jadlog, segundo a política de frete. A loja despacha em até 3 dias úteis depois da confirmação do pagamento: até 1 dia útil para faturar e até 2 dias úteis para entregar à transportadora. O código de rastreio vai por e-mail depois do despacho.",
+          "A política não traz uma regra fixa de frete grátis: a loja libera frete grátis em campanhas, como a Black Antecipada. Fora de campanha, o valor aparece pelo CEP.",
           "Dois casos cobram o frete de envio da cliente: quando o carteiro não encontra ninguém em duas tentativas e a encomenda volta ao centro de distribuição, e quando o endereço informado está incorreto e o pedido já foi despachado. Em atraso de transportadora, a loja diz que não se responsabiliza pelo prazo, mas que \"fará de tudo\" para cumpri-lo."
         ]
       },
@@ -130714,7 +130711,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A reputação no Reclame Aqui",
         "paragraphs": [
-          "Na leitura de 26/10/2026, o perfil da Toda Up no Reclame Aqui está no CNPJ da FITA UP LTDA, com o selo \"Empresa Verificada\", o selo RA1000 e nota 8,5 nos 6 meses até 30/09/2026; os números de reclamações, respostas e o perfil completo estão no [artigo sobre a Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
+          "O perfil da Toda Up no Reclame Aqui está no CNPJ da FITA UP LTDA, com o selo \"Empresa Verificada\", o selo RA1000 e nota 8,5 nos 6 meses até o fim de setembro; os números de reclamações, respostas e o perfil completo estão no [artigo sobre a Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -130729,20 +130726,20 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Toda Up e pode receber comissão pelas compras feitas com o cupom MAUAD, o cupom da Toda Up. Veja a [página do cupom da Toda Up](/cupons/toda-up) para o código e as condições vigentes.",
-          "O cupom dá 10% OFF em todo o site e, no carrinho, em 26/10/2026, valeu em produto já com desconto. O passo a passo e a conta do teste estão em [como usar o cupom da Toda Up](/reviews/cupom-toda-up-como-usar)."
+          "O cupom dá 10% OFF em todo o site e, no carrinho, valeu em produto já com desconto. O passo a passo e a conta do teste estão em [como usar o cupom da Toda Up](/reviews/cupom-toda-up-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Toda Up é confiável? É a marca da FITA UP LTDA, empresa registrada no Brasil, com CNPJ ativo e sede em Biguaçu (SC), que publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa.",
-          "Qual é o CNPJ da Toda Up? O CNPJ do rodapé do site é 40.159.443/0001-44, da FITA UP LTDA, ativa desde 18/12/2020 na consulta pública de 26/10/2026. Confira o número na consulta pública do CNPJ.",
+          "Qual é o CNPJ da Toda Up? O CNPJ do rodapé do site é 40.159.443/0001-44, da FITA UP LTDA, ativa desde 2020 na consulta pública. Confira o número na consulta pública do CNPJ.",
           "A Toda Up é a Fita UP? Sim. Segundo o FAQ da loja, a Fita UP cresceu e virou Toda Up, com a mesma equipe e a mesma empresa; mudaram o nome, o visual do site, as embalagens e o logo.",
-          "A Fita Up é golpe? Não. A Fita Up é a marca antiga da FITA UP LTDA, CNPJ 40.159.443/0001-44, ativa desde 18/12/2020, e a Toda Up é a mesma empresa com marca nova. A nota, as reclamações e as respostas da loja estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao).",
+          "A Fita Up é golpe? Não. A Fita Up é a marca antiga da FITA UP LTDA, CNPJ 40.159.443/0001-44, ativa desde 2020, e a Toda Up é a mesma empresa com marca nova. A nota, as reclamações e as respostas da loja estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao).",
           "O site todaup.com é o oficial? É. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública do CNPJ. O domínio antigo, fitaup.com, é da mesma marca.",
           "Posso trocar uma peça da Toda Up em 30 dias? Sim. Troca por modelo, tamanho ou cor e devolução por arrependimento têm até 30 dias corridos depois do recebimento, pelo portal de trocas, com o CPF da titular e o número do pedido.",
           "Quando o reembolso cai? A política não diz. No cartão, o estorno é feito pela administradora; nas outras formas, pelo procedimento financeiro da loja.",
-          "A Toda Up tem frete grátis? A política de frete não tem regra fixa. A loja libera frete grátis em campanhas, como a Black Antecipada de outubro de 2026; fora delas, o valor aparece pelo CEP.",
+          "A Toda Up tem frete grátis? A política de frete não tem regra fixa. A loja libera frete grátis em campanhas, como a Black Antecipada; fora delas, o valor aparece pelo CEP.",
           "Qual é o atendimento da Toda Up? O e-mail é suporte@todaup.com, e a loja também atende pelo WhatsApp do site."
         ]
       }
@@ -130751,6 +130748,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 617,
     "slug": "toda-up-reclame-aqui-nota-reputacao",
+    "bodyDatesReason": "reclame-aqui",
     "locale": "pt",
     "title": "Toda Up (antiga Fita Up) no Reclame Aqui: nota, reputação e o que os números mostram",
     "seoTitle": "Fita Up (Toda Up) no Reclame Aqui: nota e reputação",
@@ -130803,27 +130801,27 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: em 26/10/2026, a Toda Up estava na RA1000 do Reclame Aqui nos últimos 6 meses, com nota 8,5, 100% das reclamações respondidas e 93,1% resolvidas. O perfil é um só, com o CNPJ da FITA UP LTDA. O que muda entre as abas é o volume e o tempo de resposta; veja a tabela e [Toda Up é confiável?](/reviews/toda-up-e-confiavel)."
+          "Sim: a Toda Up estava na RA1000 do Reclame Aqui nos últimos 6 meses, com nota 8,5, 100% das reclamações respondidas e 93,1% resolvidas. O perfil é um só, com o CNPJ da FITA UP LTDA. O que muda entre as abas é o volume e o tempo de resposta; veja a tabela e [Toda Up é confiável?](/reviews/toda-up-e-confiavel)."
         ]
       },
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar",
         "paragraphs": [
           "O site da Toda Up não cita o Reclame Aqui, nem nota de reputação nem selo. O Reclame Aqui mostra o que a loja não mostra: quantas reclamações recebeu, quantas respondeu, quantas resolveu e quanta gente voltaria a comprar.",
-          "Os números abaixo são de 26/10/2026 e mudam com o tempo. Confira de novo no dia da compra."
+          "Os números abaixo são de uma leitura só e mudam com o tempo. Confira de novo no dia da compra."
         ]
       },
       {
         "heading": "Qual perfil olhar",
         "paragraphs": [
           "O perfil da loja é o Toda Up, na página empresa/toda-up do Reclame Aqui, na categoria Roupas íntimas, Pijamas e Meias. Ele traz o site todaup.com e o CNPJ 40.159.443/0001-44, o mesmo do rodapé da loja. Esse CNPJ é o da FITA UP LTDA, de Biguaçu (SC).",
-          "Na busca feita no Reclame Aqui em 26/10/2026, não apareceu perfil separado da Fita UP: o perfil é um só, no CNPJ da FITA UP LTDA. A troca de nome, a empresa, as trocas e o frete estão em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
+          "Na busca feita no Reclame Aqui, não apareceu perfil separado da Fita UP: o perfil é um só, no CNPJ da FITA UP LTDA. A troca de nome, a empresa, as trocas e o frete estão em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
           "O perfil tem o selo Empresa Verificada, que identifica a empresa dona do perfil e não é nota de reputação."
         ],
         "image": {
           "src": "/images/reviews/toda-up/toda-up-reclame-aqui-perfil-2610.webp",
           "alt": "Topo do perfil Toda Up no Reclame Aqui com o banner Fita Up agora é Toda Up, a reputação RA1000, o selo Empresa Verificada e 93,1% de reclamações resolvidas",
-          "caption": "O perfil Toda Up no Reclame Aqui, lido em 26/10/2026.",
+          "caption": "O perfil Toda Up no Reclame Aqui.",
           "objectFit": "contain",
           "aspectRatio": 4.2725
         }
@@ -130898,7 +130896,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/toda-up/toda-up-reclame-aqui-numeros-2610.webp",
           "alt": "Quadro com os números da Toda Up no Reclame Aqui: nos 6 meses até 30/09/2026, RA1000, nota 8,5, 357 reclamações, 100% respondidas e 93,1% resolvidas; na aba geral, 1.398 reclamações e 92,1% resolvidas",
-          "caption": "Números do perfil Toda Up no Reclame Aqui, lidos em 26/10/2026. Quadro nosso.",
+          "caption": "Números do perfil Toda Up no Reclame Aqui. Quadro nosso.",
           "objectFit": "contain",
           "aspectRatio": 1.5699
         }
@@ -130906,9 +130904,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a conta entre as abas mostra",
         "paragraphs": [
-          "A aba geral soma 1.398 reclamações de 27/10/2023 a 26/10/2026. A aba de 6 meses soma 357, de 01/04/2026 a 30/09/2026. A diferença, 1.041, cobre o resto do período: de 27/10/2023 a 31/03/2026 e os dias de outubro de 2026. Dividida por esses cerca de 30 meses, dá perto de 35 reclamações por mês. Nos 6 meses da aba recente, a média foi de cerca de 60 por mês. A conta é nossa, feita com as duas abas, e vale como ordem de grandeza.",
+          "A aba geral soma 1.398 reclamações no período do cabeçalho da tabela, e a de 6 meses soma 357. A diferença, 1.041, cobre o resto do período: de 27/10/2023 a 31/03/2026 e os dias de outubro. Dividida por esses cerca de 30 meses, dá perto de 35 reclamações por mês. Nos 6 meses da aba recente, a média foi de cerca de 60 por mês. A conta é nossa, feita com as duas abas, e vale como ordem de grandeza.",
           "O Reclame Aqui não mostrou, nesta leitura, quantas reclamações entraram em cada mês. Por isso o texto não diz o que explica a diferença. O que as abas mostram é que o volume recente é maior e que, nesse mesmo período, a loja respondeu a tudo e resolveu mais do que na média geral.",
-          "A aba geral começa em 27/10/2023. O domínio todaup.com é de abril de 2025, pelo registro público do domínio, então a janela geral alcança um tempo anterior ao site atual. O perfil é o mesmo, pelo mesmo CNPJ, e o Reclame Aqui não separa as reclamações por nome da marca."
+          "A aba geral começa em 2023. O domínio todaup.com é de 2025, pelo registro público do domínio, então a janela geral alcança um tempo anterior ao site atual. O perfil é o mesmo, pelo mesmo CNPJ, e o Reclame Aqui não separa as reclamações por nome da marca."
         ]
       },
       {
@@ -130920,13 +130918,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que esta leitura não traz",
         "paragraphs": [
-          "A leitura de 26/10/2026 ficou com a aba de 6 meses e a aba geral. Três partes do perfil ficaram de fora e não entram neste texto: a aba de 12 meses, o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. Sem essa lista, o texto não diz qual é o problema mais citado contra a loja. Quem quiser esse detalhe encontra no próprio perfil."
+          "A leitura ficou com a aba de 6 meses e a aba geral. Três partes do perfil ficaram de fora e não entram neste texto: a aba de 12 meses, o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. Sem essa lista, o texto não diz qual é o problema mais citado contra a loja. Quem quiser esse detalhe encontra no próprio perfil."
         ]
       },
       {
         "heading": "O que a loja diz sobre si",
         "paragraphs": [
-          "Nada no FAQ nem na home da loja, lidos em 26/10/2026, cita o Reclame Aqui, nota ou selo; o FAQ fala da troca de nome e dos pedidos antigos. Os números deste artigo vêm só do perfil público."
+          "Nada no FAQ nem na home da loja cita o Reclame Aqui, nota ou selo; o FAQ fala da troca de nome e dos pedidos antigos. Os números deste artigo vêm só do perfil público."
         ]
       },
       {
@@ -130946,21 +130944,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Toda Up?",
         "paragraphs": [
-          "Pelo Reclame Aqui, dá. Em 26/10/2026, o perfil estava na RA1000 nos últimos 6 meses, com nota 8,5, e os indicadores da aba geral ficam perto dos recentes. O que o leitor confere antes de pagar: o perfil é o empresa/toda-up, com o CNPJ 40.159.443/0001-44 no topo, e os números do dia."
+          "Pelo Reclame Aqui, dá. O perfil estava na RA1000 nos últimos 6 meses, com nota 8,5, e os indicadores da aba geral ficam perto dos recentes. O que o leitor confere antes de pagar: o perfil é o empresa/toda-up, com o CNPJ 40.159.443/0001-44 no topo, e os números do dia."
         ],
         "bullets": [
-          "Reputação: RA1000 nos 6 meses (01/04/2026 a 30/09/2026), com nota 8,5.",
-          "Respondidas e resolvidas: 100% e 93,1% nos 6 meses; 99% e 92,1% na aba geral, desde 27/10/2023.",
+          "Reputação: RA1000 nos 6 meses, com nota 8,5.",
+          "Respondidas e resolvidas: 100% e 93,1% nos 6 meses; 99% e 92,1% na aba geral.",
           "Fora desta leitura: a aba de 12 meses, o histórico mês a mês e os principais problemas."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Toda Up é confiável segundo o Reclame Aqui? Em 26/10/2026, o perfil estava na RA1000 nos últimos 6 meses, com nota 8,5, 100% das reclamações respondidas e 93,1% resolvidas. Esses números vêm das reclamações registradas e não medem a qualidade das peças.",
+          "A Toda Up é confiável segundo o Reclame Aqui? O perfil estava na RA1000 nos últimos 6 meses, com nota 8,5, 100% das reclamações respondidas e 93,1% resolvidas. Esses números vêm das reclamações registradas e não medem a qualidade das peças.",
           "Qual perfil da Toda Up é o da loja? O perfil Toda Up, na página empresa/toda-up, com o CNPJ 40.159.443/0001-44, o mesmo do rodapé do site todaup.com.",
           "A Toda Up é a mesma empresa da Fita UP? Sim. O CNPJ do perfil e do site é o da FITA UP LTDA, e o FAQ da loja diz que a Fita UP virou Toda Up, com a mesma equipe. Não apareceu perfil separado da Fita UP no Reclame Aqui.",
-          "A Toda Up responde às reclamações? Nos últimos 6 meses, respondeu a 100%, em 21 horas em média. Na aba geral, desde 27/10/2023, respondeu a 99%, em 6 dias e 3 horas.",
+          "A Toda Up responde às reclamações? Nos últimos 6 meses, respondeu a 100%, em 21 horas em média. Na aba geral, respondeu a 99%, em 6 dias e 3 horas.",
           "O que fazer se o pedido da Toda Up atrasar? Guarde o número do pedido e o CPF, registre a data em que o prazo venceu e fale com a loja pelo WhatsApp do site ou pelo e-mail suporte@todaup.com. Se não resolver, registre no Reclame Aqui."
         ]
       }
@@ -131167,6 +131165,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 619,
     "slug": "black-friday-toda-up",
+    "bodyDatesReason": "campanha",
     "locale": "pt",
     "title": "Black Friday Toda Up 2026: a Black Antecipada, as faixas de desconto e o cupom",
     "seoTitle": "Black Friday Toda Up 2026: Black Antecipada e cupom",
@@ -131200,7 +131199,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAUAD",
     "affiliate": "toda-up",
-    "editorialNote": "Preços conferidos no site da loja em 26/10/2026. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
+    "editorialNote": "A Toda Up é parceira: podemos receber comissão pelas compras no site.",
     "relatedArticles": [
       {
         "slug": "cupom-toda-up-como-usar",
@@ -131219,14 +131218,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Toda Up já está em campanha: em 26/10/2026, o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo valor do carrinho, sem datas publicadas. O cupom da Toda Up, MAUAD, de 10%, somou com a progressiva no carrinho. O que muda a decisão é o valor do carrinho; veja os três carrinhos abaixo."
+          "A Toda Up já está em campanha: o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo valor do carrinho, sem datas publicadas. O cupom da Toda Up, MAUAD, de 10%, somou com a progressiva no carrinho. O que muda a decisão é o valor do carrinho; veja os três carrinhos abaixo."
         ]
       },
       {
         "heading": "O que o site mostra hoje",
         "paragraphs": [
-          "Em 26/10/2026, a faixa do topo e o carrossel da home da Toda Up anunciavam a \"Black Antecipada\", com \"até 20% OFF\" e frete grátis em todo o site. O \"até 20%\" é a frase da faixa; o percentual que entra no seu carrinho depende das faixas abaixo.",
-          "A loja não publicou quando a campanha começou nem quando termina. A Black Friday do calendário cai na sexta, 27/11/2026. Se a Black Antecipada segue até lá, ou se a loja troca a regra em novembro, o site não diz. Por isso, todo número deste guia vem com a data de 26/10/2026.",
+          "A faixa do topo e o carrossel da home da Toda Up anunciavam a \"Black Antecipada\", com \"até 20% OFF\" e frete grátis em todo o site. O \"até 20%\" é a frase da faixa; o percentual que entra no seu carrinho depende das faixas abaixo.",
+          "A loja não publicou quando a campanha começou nem quando termina. A Black Friday do calendário cai na sexta, 27/11/2026. Se a Black Antecipada segue até lá, ou se a loja troca a regra em novembro, o site não diz. Por isso, todo número deste guia é de uma leitura só do site.",
           "O desconto da campanha é progressivo e entra sozinho no carrinho, sem código, pelo subtotal dos produtos:"
         ],
         "comparisonTable": {
@@ -131255,7 +131254,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/toda-up/black-friday-toda-up-faixas-progressiva-2610.webp",
           "alt": "Faixas da promoção progressiva da Toda Up: 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499",
-          "caption": "As faixas da promoção progressiva no banner da home da Toda Up, em 26/10/2026.",
+          "caption": "As faixas da promoção progressiva no banner da home da Toda Up.",
           "objectFit": "contain",
           "aspectRatio": 5
         }
@@ -131263,13 +131262,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom soma com a campanha",
         "paragraphs": [
-          "O cupom da Toda Up é o MAUAD, de 10% em todo o site. No carrinho, em 26/10/2026, sem finalizar a compra, ele entrou depois da progressiva: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. A loja pode mudar a regra de soma durante a campanha; o passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
+          "O cupom da Toda Up é o MAUAD, de 10% em todo o site. No carrinho, sem finalizar a compra, ele entrou depois da progressiva: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. A loja pode mudar a regra de soma durante a campanha; o passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
         ]
       },
       {
-        "heading": "Três carrinhos com os preços de 26/10/2026",
+        "heading": "Três carrinhos para comparar",
         "paragraphs": [
-          "Os três carrinhos usam o Sutiã Comfort Up (R$ 170,91 em 26/10/2026) e o Sutiã Comfort Line (R$ 189,90). Os carrinhos A e B são os do teste no carrinho, em 26/10/2026, com os números que a tela mostrou. O carrinho C é conta nossa, com a regra da faixa de 20% e os preços das coleções públicas; não foi montado no site."
+          "Os três carrinhos usam o Sutiã Comfort Up (R$ 170,91) e o Sutiã Comfort Line (R$ 189,90). Os carrinhos A e B são os do teste no carrinho, com os números que a tela mostrou. O carrinho C é conta nossa, com a regra da faixa de 20% e os preços das coleções públicas; não foi montado no site."
         ],
         "comparisonTable": {
           "headers": [
@@ -131314,13 +131313,13 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/toda-up/black-friday-toda-up-tres-carrinhos.webp",
           "alt": "Quadro com três carrinhos da Toda Up: Comfort Up por R$ 153,82, Comfort Up mais Comfort Line por R$ 285,78 e três Comfort Up por R$ 369,16, com a progressiva e o cupom",
-          "caption": "Os carrinhos A e B são do teste de 26/10/2026; o C é conta nossa com a faixa de 20%. Quadro nosso.",
+          "caption": "Os carrinhos A e B são do teste no carrinho; o C é conta nossa com a faixa de 20%. Quadro nosso.",
           "objectFit": "contain",
           "aspectRatio": 2.0797
         }
       },
       {
-        "heading": "Preços de 26/10/2026 para comparar",
+        "heading": "Preços para comparar",
         "paragraphs": [
           "Estes são os preços de venda das coleções públicas do menu da Toda Up (Sutiãs, Calcinhas, Adesivos e Conjuntos), lidos em 26/10/2026, antes da progressiva e do cupom. Quando o produto mostra o preço \"de\", a tabela traz os dois."
         ],
@@ -131417,14 +131416,14 @@ export const reviewsData: unknown[] = [
               "R$ 49,90"
             ],
             [
-              "Kit Top Faixa ou Triangular + Calcinha Biquíni Cotton Up (preço de 31/10/2026)",
+              "Kit Top Faixa ou Triangular + Calcinha Biquíni Cotton Up (preço da página principal)",
               "R$ 172,80",
               "R$ 155,52"
             ]
           ]
         },
         "postParagraphs": [
-          "Em 26/10/2026, os cinco kits SkinUp e Comfort da coleção Conjuntos estavam esgotados; só o kit Cotton Up aparecia disponível. O preço do site muda sem aviso: confira o produto no dia da compra, e use esta tabela como régua para a semana da Black Friday.",
+          "Os cinco kits SkinUp e Comfort da coleção Conjuntos estavam esgotados; só o kit Cotton Up aparecia disponível. O preço do site muda sem aviso: confira o produto no dia da compra, e use esta tabela como régua para a semana da Black Friday.",
           "Para passar da faixa de R$ 299 com peças pequenas, as calcinhas ajudam: o Comfort Up com três Calcinhas Biquíni SkinUp (R$ 134,73) dá R$ 305,64 e entra nos 12%. É conta com os preços da tabela, não teste."
         ],
         "image": {
@@ -131438,8 +131437,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazo e troca",
         "paragraphs": [
-          "A loja libera frete grátis em campanhas, como a Black Antecipada de outubro de 2026. Fora de campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog. Confira o valor no carrinho antes de pagar, em qualquer época.",
-          "Pela política de frete da loja, lida em 26/10/2026, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento, e o código de rastreio chega por e-mail. Na semana da Black Friday, conte esse prazo mais o da transportadora para o seu CEP.",
+          "A loja libera frete grátis em campanhas, como a Black Antecipada. Fora de campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog. Confira o valor no carrinho antes de pagar, em qualquer época.",
+          "Pela política de frete da loja, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento, e o código de rastreio chega por e-mail. Na semana da Black Friday, conte esse prazo mais o da transportadora para o seu CEP.",
           "Troca de modelo, tamanho ou cor e devolução por arrependimento valem em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja, com o CPF da titular e o número do pedido. A própria política diz que os 30 dias ampliam os 7 dias da lei."
         ],
         "image": {
@@ -131474,24 +131473,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "Em 26/10/2026, o perfil \"Toda Up\" no Reclame Aqui, com o mesmo CNPJ do rodapé do site, tinha selo RA1000 e nota 8,5 nos 6 meses de 01/04 a 30/09/2026. Os números completos, com o que muda entre os períodos, estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
+          "O perfil \"Toda Up\" no Reclame Aqui, com o mesmo CNPJ do rodapé do site, tinha selo RA1000 e nota 8,5 nos 6 meses de 01/04 a 30/09/2026. Os números completos, com o que muda entre os períodos, estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
         ]
       },
       {
         "heading": "Comprar agora ou esperar novembro",
         "paragraphs": [
-          "A loja não publica quanto tempo a Black Antecipada dura, nem anunciou outra regra para 27/11. Em 26/10/2026, o desconto da campanha e o cupom já saíam no carrinho, e a tabela desta data é a régua para comparar.",
+          "A loja não publica quanto tempo a Black Antecipada dura, nem anunciou outra regra para 27/11. O desconto da campanha e o cupom já saíam no carrinho, e a tabela deste guia é a régua para comparar.",
           "Quem já sabe o que quer e passa da faixa de R$ 299 tem a conta deste guia. Quem pode esperar compara o preço do site na semana de 23/11 e em 27/11 com a tabela acima. As condições atuais do cupom ficam na [página da Toda Up](/cupons/toda-up)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Toda Up tem Black Friday? Sim. Em 26/10/2026, o site já mostrava a campanha \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20%. A loja não publica a data de início nem a de fim.",
-          "O cupom da Toda Up vale na Black Antecipada? Valeu no carrinho, em 26/10/2026: os 10% do cupom saíram depois do desconto da campanha. A regra pode mudar durante a campanha.",
+          "A Toda Up tem Black Friday? Sim. O site já mostrava a campanha \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20%. A loja não publica a data de início nem a de fim.",
+          "O cupom da Toda Up vale na Black Antecipada? Valeu no carrinho: os 10% do cupom saíram depois do desconto da campanha. A regra pode mudar durante a campanha.",
           "Quanto dá o desconto da campanha? 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal dos produtos. Abaixo de R$ 299, só o cupom.",
-          "A Black Antecipada tem frete grátis? Em 26/10/2026, a faixa do topo anunciava frete grátis em todo o site. A loja libera frete grátis em campanhas; fora delas, o frete é pelo CEP.",
-          "Vale esperar o dia 27/11? A loja não anunciou regra para a data. Compare o preço do dia com a tabela de 26/10/2026 deste guia."
+          "A Black Antecipada tem frete grátis? A faixa do topo anunciava frete grátis em todo o site. A loja libera frete grátis em campanhas; fora delas, o frete é pelo CEP.",
+          "Vale esperar a Black Friday? A loja não anunciou regra para a data. Compare o preço do dia com a tabela deste guia."
         ]
       }
     ]
@@ -131585,7 +131584,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/toda-up/fita-up-passo-a-passo-2610.webp",
           "alt": "Quadro com as seis etapas de uso da Fita Up segundo a Toda Up: pele limpa e seca, protetor de mamilo, medir no espelho, cortar, colar da base do seio para cima e ajustar, e como tirar com hidratante ou óleo",
-          "caption": "As etapas que a Toda Up publica na página do produto, em 26/10/2026. Quadro nosso.",
+          "caption": "As etapas que a Toda Up publica na página do produto. Quadro nosso.",
           "objectFit": "contain",
           "aspectRatio": 1.8779
         },
@@ -131635,13 +131634,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O guia é da marca, de 26/10/2026, e pode mudar. Na dúvida entre duas larguras, a página do produto é a referência."
+          "O guia é da marca e pode mudar. Na dúvida entre duas larguras, a página do produto é a referência."
         ]
       },
       {
         "heading": "Como tirar e os cuidados que a marca publica",
         "paragraphs": [
-          "Para remover, a Toda Up orienta passar hidratante ou óleo corporal sobre a fita e puxar devagar, pelas laterais. A marca também sugere um pré-teste com um pedaço pequeno. Fora isso, nos textos da página lidos em 26/10/2026, não há outros cuidados com a pele."
+          "Para remover, a Toda Up orienta passar hidratante ou óleo corporal sobre a fita e puxar devagar, pelas laterais. A marca também sugere um pré-teste com um pedaço pequeno. Fora isso, nos textos da página, não há outros cuidados com a pele."
         ]
       },
       {
@@ -131654,14 +131653,14 @@ export const reviewsData: unknown[] = [
         "heading": "Quando escolher outro",
         "paragraphs": [
           "A Toda Up vende a Fita Up na categoria Adesivos, ao lado de outros dois que aparecem na mesma compra.",
-          "O [Protetor de Silicone Ultrafino](/reviews/protetor-de-silicone-mamilo-como-usar) (R$ 69,90, de R$ 99,90, em 26/10/2026) é o protetor de silicone da mesma categoria Adesivos. Ele não substitui a fita: o passo a passo da Toda Up começa por um protetor de mamilo.",
-          "O [Sutiã de Silicone Invisível](/reviews/sutia-de-silicone-invisivel-como-usar) (R$ 149,90, de R$ 159,90, em 26/10/2026) é o outro adesivo da categoria: uma peça de silicone pronta, no lugar da fita que se corta."
+          "O [Protetor de Silicone Ultrafino](/reviews/protetor-de-silicone-mamilo-como-usar) (R$ 69,90, de R$ 99,90) é o protetor de silicone da mesma categoria Adesivos. Ele não substitui a fita: o passo a passo da Toda Up começa por um protetor de mamilo.",
+          "O [Sutiã de Silicone Invisível](/reviews/sutia-de-silicone-invisivel-como-usar) (R$ 149,90, de R$ 159,90) é o outro adesivo da categoria: uma peça de silicone pronta, no lugar da fita que se corta."
         ]
       },
       {
         "heading": "Onde comprar e preço",
         "paragraphs": [
-          "A Fita Up se compra no site oficial da Toda Up, na categoria Adesivos. Os preços de 26/10/2026, da unidade e do kit Leve 2, estão na seção \"O que é a Fita Up\" e podem mudar. O [cupom Toda Up](/cupons/toda-up) somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026, no carrinho, sem finalizar a compra. O botão desta página abre o site da Toda Up."
+          "A Fita Up se compra no site oficial da Toda Up, na categoria Adesivos. Os preços da unidade e do kit Leve 2 estão na seção \"O que é a Fita Up\" e podem mudar. O [cupom Toda Up](/cupons/toda-up) somou com os kits Leve 2 e Leve 3 no teste no carrinho, sem finalizar a compra. O botão desta página abre o site da Toda Up."
         ]
       },
       {
@@ -131671,7 +131670,7 @@ export const reviewsData: unknown[] = [
           "Qual largura da Fita Up escolher? Pelo guia da marca, P sustenta até o tamanho 44, M até o 48 e G até o 54.",
           "A Fita Up serve para tomara que caia? A Toda Up não cita o tomara que caia pelo nome: descreve a fita como sustentação sem sutiã, ajustável à roupa ou ao decote, com um passo a passo só, resumido acima.",
           "A Fita Up é a Toda Up? Sim. A loja diz que a marca Fita Up virou Toda Up, com o mesmo produto no catálogo.",
-          "O cupom vale na Fita Up? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026; confira no carrinho.",
+          "O cupom vale na Fita Up? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste no carrinho; confira no carrinho.",
           "Quanto tempo a Fita Up fica no corpo? A Toda Up fala em até 12 horas."
         ]
       }
@@ -131732,7 +131731,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O sutiã de silicone invisível da Toda Up é uma peça adesiva pronta, em P, M e G, que se cola sobre o seio com a pele seca. A marca indica para vestido de festa e frente única, roupas sem alças e de costas nuas. Custa R$ 149,90 e se lava com água e sabão neutro."
+          "O sutiã de silicone invisível da Toda Up é uma peça adesiva pronta, em P, M e G, que se cola sobre o seio com a pele seca. A marca indica para vestido de festa e frente única, roupas sem alças e de costas nuas. Se lava com água e sabão neutro."
         ]
       },
       {
@@ -132016,12 +132015,12 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O guia é da Toda Up, lido em 27/10/2026, e pode mudar. Os números 46 e 50 aparecem em duas faixas; na dúvida entre dois tamanhos, a página do produto é a referência."
+          "O guia é da Toda Up e pode mudar. Os números 46 e 50 aparecem em duas faixas; na dúvida entre dois tamanhos, a página do produto é a referência."
         ],
         "image": {
           "src": "/images/reviews/toda-up/protetor-de-silicone-tamanhos-2710.webp",
           "alt": "Quadro com o tamanho do protetor de silicone da Toda Up pelo número do sutiã: 34 a 46 pede P de 8 cm, 46 a 50 pede M de 10 cm e 50 a 54 pede G de 12 cm",
-          "caption": "O tamanho pelo número do sutiã, no guia da Toda Up em 27/10/2026. Quadro nosso.",
+          "caption": "O tamanho pelo número do sutiã, no guia da Toda Up. Quadro nosso.",
           "objectFit": "contain",
           "aspectRatio": 2.5052
         }
@@ -132060,8 +132059,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e preço",
         "paragraphs": [
-          "O protetor se compra no site oficial da Toda Up, a marca nova da mesma empresa da Fita Up, como explica [Toda Up é confiável?](/reviews/toda-up-e-confiavel). O preço de 27/10/2026 está na seção \"O que é o protetor de silicone\" e pode mudar. Na mesma data, a página oferecia o kit \"Leve 3\" por R$ 139,80 (de R$ 299,70) e, em \"Leve junto\", sugeria o Case Protetor de Silicone, a R$ 49,90 (de R$ 79,90).",
-          "O [cupom Toda Up](/cupons/toda-up) somou com os kits Leve 2 e Leve 3 no teste de carrinho de 26/10/2026, sem finalizar a compra; confira no carrinho. O botão desta página abre o site da Toda Up."
+          "O protetor se compra no site oficial da Toda Up, a marca nova da mesma empresa da Fita Up, como explica [Toda Up é confiável?](/reviews/toda-up-e-confiavel). O preço está na seção \"O que é o protetor de silicone\" e pode mudar. Na mesma leitura, a página oferecia o kit \"Leve 3\" por R$ 139,80 (de R$ 299,70) e, em \"Leve junto\", sugeria o Case Protetor de Silicone, a R$ 49,90 (de R$ 79,90).",
+          "O [cupom Toda Up](/cupons/toda-up) somou com os kits Leve 2 e Leve 3 no teste de carrinho, sem finalizar a compra; confira no carrinho. O botão desta página abre o site da Toda Up."
         ]
       },
       {
@@ -132071,7 +132070,7 @@ export const reviewsData: unknown[] = [
           "Qual tamanho do protetor pedir? Pelo FAQ da Toda Up, sutiã 34 a 46 pede o de 8 cm (P), 46 a 50 o de 10 cm (M) e 50 a 54 o de 12 cm (G).",
           "Quantas vezes dá para usar o protetor? A Toda Up diz até 30 vezes, com a lavagem à mão que a página descreve.",
           "Como lavar o protetor de silicone? À mão, logo depois do uso, com água fria ou morna e sabão neutro; secar à sombra com o adesivo para cima e guardar na película original.",
-          "O cupom vale no protetor? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026; confira no carrinho.",
+          "O cupom vale no protetor? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste no carrinho; confira no carrinho.",
           "Como colocar o protetor? A página do protetor não traz passo a passo. No passo a passo da Fita Up, a Toda Up põe o protetor na pele antes da fita."
         ]
       }
@@ -134084,7 +134083,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-app-home-2810.webp",
           "alt": "Home do app da YesStyle com a vitrine de beleza coreana e as abas Home, Shop, Bag, Saved e Account",
-          "caption": "A home do app da YesStyle no Android, em 28/10/2026.",
+          "caption": "A home do app da YesStyle no Android.",
           "objectFit": "contain",
           "aspectRatio": 0.4868
         },
@@ -134104,7 +134103,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega: o Brasil continua fora",
         "paragraphs": [
-          "A YesStyle continua sem entrega para o Brasil: conferimos no app em 28/10/2026. Comprar pelo app não muda isso.",
+          "A YesStyle continua sem entrega para o Brasil: conferimos no app. Comprar pelo app não muda isso.",
           "Quem está em Portugal ou quer entender como anda a entrega encontra o detalhe em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal). Este guia não promete compra pelo app para o Brasil."
         ]
       },
@@ -134125,7 +134124,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde entra o CECILIA010 no app",
         "paragraphs": [
-          "O CECILIA010 é código de recompensa, não cupom: dá até 5% extra (5% na primeira compra e 2% nas seguintes) e soma com os cupons da YesStyle. No app, ele tem campo próprio. Teste feito no app Android em 28/10/2026, conta em inglês, entrega nos Estados Unidos."
+          "O CECILIA010 é código de recompensa, não cupom: dá até 5% extra (5% na primeira compra e 2% nas seguintes) e soma com os cupons da YesStyle. No app, ele tem campo próprio. Teste feito no app Android, conta em inglês, entrega nos Estados Unidos, sem finalizar compra."
         ],
         "bullets": [
           "No checkout, toque em \"Enter Code\", na linha \"Coupon or Influencer / Rewards Code\".",
@@ -134138,7 +134137,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
           "alt": "Três telas do app da YesStyle: o checkout com a linha Coupon or Influencer / Rewards Code, a tela Enter Code com os campos Coupon Code e Influencer / Rewards Code, e o checkout com o CECILIA010 aplicado",
-          "caption": "Os três passos no app Android, em 28/10/2026, numa conta com entrega nos Estados Unidos.",
+          "caption": "Os três passos no app Android, numa conta com entrega nos Estados Unidos.",
           "objectFit": "contain",
           "aspectRatio": 1.4382
         }
@@ -134184,7 +134183,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pontos YS e o cupom do app",
         "paragraphs": [
           "Quem entra na conta pelo app ganha 50 pontos YS, uma vez. Reinstalar não dá os pontos de novo. Os pontos não são o código de recompensa: eles se aplicam na etapa \"Payment Information\" do checkout, e o CECILIA010 entra na tela \"Enter Code\". Um não substitui o outro.",
-          "A loja diz que lança, uma vez por mês e em horário aleatório, um cupom de 24 horas que só vale em pedido feito pelo app; na conferência de 28/10/2026 não havia um ativo, e o cupom em destaque no app era o mesmo do site. Os cupons ativos da loja ficam em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
+          "A loja diz que lança, uma vez por mês e em horário aleatório, um cupom de 24 horas que só vale em pedido feito pelo app; na conferência não havia um ativo, e o cupom em destaque no app era o mesmo do site. Os cupons ativos da loja ficam em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
         ]
       },
       {
@@ -134206,16 +134205,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A YesStyle tem app? Sim, para Android e iPhone, nos links oficiais do Google Play e da App Store. A loja diz para baixar só por esses dois.",
           "O CECILIA010 vale no app? Sim. No checkout, toque em \"Enter Code\" e digite o código no campo \"Influencer / Rewards Code\". Ele é código de recompensa, com até 5% extra, e soma com o cupom da loja, que vai no campo \"Coupon Code\".",
-          "O app da YesStyle entrega no Brasil? Não. Na conferência no app em 28/10/2026, a YesStyle seguia sem entrega para o Brasil, como no site.",
+          "O app da YesStyle entrega no Brasil? Não. Na conferência no app, a YesStyle seguia sem entrega para o Brasil, como no site.",
           "Ganho pontos por baixar o app? Sim, 50 pontos YS ao entrar na conta pelo app, uma vez. Reinstalar não dá de novo, e os pontos não são o código de recompensa.",
-          "O app tem cupom exclusivo? A loja diz que publica um cupom de 24 horas, uma vez por mês, só para pedido no app. Em 28/10/2026 não havia um ativo."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "O campo do código foi visto no app Android, e a entrega para o Brasil conferida no mesmo app, em 28/10/2026, numa conta em inglês com entrega nos Estados Unidos. Não fizemos compra pelo app: o texto não fala de prazo, frete nem taxas. As notas e o número de avaliações são das lojas de aplicativo na mesma data e mudam com o tempo.",
-          "Podemos receber comissão pelo link da YesStyle e pelo código de recompensa CECILIA010. Isso não muda o preço para você."
+          "O app tem cupom exclusivo? A loja diz que publica um cupom de 24 horas, uma vez por mês, só para pedido no app. Na conferência não havia um ativo."
         ]
       }
     ]
@@ -154945,13 +154937,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a nota mede",
         "paragraphs": [
-          "O TrustScore é a nota do perfil na Trustpilot. Em 28/10/2026, a YesStyle tinha 4,4, com o rótulo \"Excellent\", em 104.552 avaliações; 11.757 delas foram publicadas nos últimos 12 meses. O perfil é reivindicado pela empresa e tem assinatura paga da Trustpilot, como a própria página informa.",
+          "O TrustScore é a nota do perfil na Trustpilot. A YesStyle tinha 4,4, com o rótulo \"Excellent\", em 104.552 avaliações; 11.757 delas foram publicadas nos últimos 12 meses. O perfil é reivindicado pela empresa e tem assinatura paga da Trustpilot, como a própria página informa.",
           "A distribuição por estrela, na mesma leitura: 71% de cinco estrelas, 18% de quatro, 3% de três, 1% de duas e 7% de uma. Cinco e quatro estrelas somam a maior parte; a nota de uma estrela, com 7%, pesa mais do que as de duas e três juntas, e é nela que as queixas aparecem."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
           "alt": "Barras de cinco a uma estrela com a distribuição das avaliações da YesStyle na Trustpilot: 71%, 18%, 3%, 1% e 7%",
-          "caption": "Distribuição das avaliações da YesStyle na Trustpilot, lida em 28/10/2026. Quadro nosso.",
+          "caption": "Distribuição das avaliações da YesStyle na Trustpilot. Quadro nosso.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -154964,13 +154956,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O perfil lido, o de www.yesstyle.com, é global: ele não separa as avaliações por país, e a página não diz quantas vieram de Portugal ou de qualquer outro lugar. A nota junta compradores de países diferentes, com frete, prazo e alfândega diferentes.",
           "Para quem compra de Portugal, isso muda a leitura: a nota diz como a loja se comporta no conjunto, não como é a entrega no seu endereço. Esse dado está no checkout e na tabela de frete da loja, não na Trustpilot.",
-          "No Reclame Aqui, a YesStyle não atende: a página que existe lá não é verificada e, em 28/10/2026, não tinha nenhuma reclamação respondida. Por isso este artigo usa a Trustpilot. Quem opera a loja, a sede em Hong Kong e a controladora estão em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel)."
+          "No Reclame Aqui, a YesStyle não atende: a página que existe lá não é verificada e não tinha nenhuma reclamação respondida. Por isso este artigo usa a Trustpilot. Quem opera a loja, a sede em Hong Kong e a controladora estão em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel)."
         ]
       },
       {
         "heading": "O que aparece nas queixas",
         "paragraphs": [
-          "Lemos as avaliações negativas visíveis no perfil em 28/10/2026 e anotamos os temas, sem contar nem ranquear. Eles giram em torno da entrega internacional:"
+          "Lemos as avaliações negativas visíveis no perfil e anotamos os temas, sem contar nem ranquear. Eles giram em torno da entrega internacional:"
         ],
         "bullets": [
           "Atraso na entrega e espera longa, em pacote que vem de fora.",
@@ -155010,14 +155002,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a loja responde",
         "paragraphs": [
-          "Segundo o perfil, lido em 28/10/2026, a YesStyle respondeu a 98% das avaliações negativas, em geral em até 24 horas, e a página avisa que a resposta pode usar inteligência artificial.",
+          "Segundo o perfil, a YesStyle respondeu a 98% das avaliações negativas, em geral em até 24 horas, e a página avisa que a resposta pode usar inteligência artificial.",
           "Responder não é resolver. Não lemos o texto das respostas, então este artigo não diz se elas resolvem o problema de quem reclamou. Antes de comprar, vale abrir algumas avaliações de uma estrela no perfil e ler a resposta da loja embaixo de cada uma, em especial as de rastreio e extravio."
         ]
       },
       {
         "heading": "O que não dá para concluir",
         "paragraphs": [
-          "A nota responde a uma pergunta, não a todas. Quatro coisas que a leitura de 28/10/2026 não sustenta:"
+          "A nota responde a uma pergunta, não a todas. Quatro coisas que a leitura não sustenta:"
         ],
         "bullets": [
           "Que a nota vale para o seu país: o perfil é global e não separa as avaliações por origem.",
@@ -155030,13 +155022,13 @@ export const reviewsData: unknown[] = [
         "heading": "Nossa checagem",
         "paragraphs": [
           "Em 28/10/2026, lemos o perfil público da YesStyle na Trustpilot, sem login: a nota, o número de avaliações, a distribuição por estrela, o índice de respostas e as avaliações visíveis, de onde saíram os temas. No mesmo dia, lemos a página da YesStyle no Reclame Aqui, para conferir se a loja atende lá.",
-          "No app da loja, num teste nosso sem compra, conferimos o checkout: ele tem o campo do código de recompensa, e, em 28/10/2026, a YesStyle não oferecia entrega para o Brasil.",
+          "No app da loja, num teste nosso sem compra, conferimos o checkout: ele tem o campo do código de recompensa, e a YesStyle não oferecia entrega para o Brasil.",
           "Ninguém do site comprou na YesStyle para este artigo. Os números da Trustpilot mudam todo mês; confira o perfil no dia da compra."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
           "alt": "Celular com o perfil da YesStyle na Trustpilot: nota 4,4, distribuição das estrelas e 98% das avaliações negativas respondidas",
-          "caption": "Perfil da YesStyle na Trustpilot, versão de celular, em 29/10/2026. Print do site, com dois trechos ampliados.",
+          "caption": "Perfil da YesStyle na Trustpilot, versão de celular. Print do site, com dois trechos ampliados.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -155050,7 +155042,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na YesStyle pela Trustpilot?",
         "paragraphs": [
-          "Pela Trustpilot, a leitura é boa: em 28/10/2026, TrustScore 4,4, \"Excellent\", em 104.552 avaliações, 71% delas de cinco estrelas e 7% de uma, com 98% das negativas respondidas, em geral em até 24 horas.",
+          "Pela Trustpilot, a leitura é boa: TrustScore 4,4, \"Excellent\", em 104.552 avaliações, 71% delas de cinco estrelas e 7% de uma, com 98% das negativas respondidas, em geral em até 24 horas.",
           "A ressalva é de escopo, não de nota. O perfil é global, não separa países, e as queixas que lemos são de entrega internacional: atraso, rastreio e extravio. A Trustpilot mostra como a loja se comporta no conjunto; o frete e o prazo do seu endereço estão no checkout."
         ]
       },
@@ -155065,10 +155057,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A YesStyle tem boa nota na Trustpilot? Em 28/10/2026, o TrustScore era 4,4, com o rótulo \"Excellent\", em 104.552 avaliações; 71% davam cinco estrelas e 7%, uma.",
-          "Quais são as reclamações mais comuns sobre a YesStyle? Nas avaliações negativas lidas em 28/10/2026, os temas são de entrega internacional: atraso e espera longa, rastreio parado, pacote extraviado, item danificado e pedido retido no processamento.",
-          "A YesStyle responde às avaliações negativas? Segundo o perfil na Trustpilot, lido em 28/10/2026, a loja respondeu a 98% das avaliações negativas, em geral em até 24 horas, e a resposta pode usar inteligência artificial.",
-          "A YesStyle entrega no Brasil? Em 28/10/2026, não: a loja não oferecia entrega para o Brasil, num teste nosso no app. Em Portugal, sim, com prazo e frete publicados na tabela de frete da loja."
+          "A YesStyle tem boa nota na Trustpilot? O TrustScore era 4,4, com o rótulo \"Excellent\", em 104.552 avaliações; 71% davam cinco estrelas e 7%, uma.",
+          "Quais são as reclamações mais comuns sobre a YesStyle? Nas avaliações negativas que lemos, os temas são de entrega internacional: atraso e espera longa, rastreio parado, pacote extraviado, item danificado e pedido retido no processamento.",
+          "A YesStyle responde às avaliações negativas? Segundo o perfil na Trustpilot, a loja respondeu a 98% das avaliações negativas, em geral em até 24 horas, e a resposta pode usar inteligência artificial.",
+          "A YesStyle entrega no Brasil? Não: a loja não oferecia entrega para o Brasil, num teste nosso no app. Em Portugal, sim, com prazo e frete publicados na tabela de frete da loja."
         ]
       }
     ],
@@ -170762,12 +170754,6 @@ export const reviewsData: unknown[] = [
           "O cupom da Toda Up vale nos três modelos? Vale, porque o cupom é do site inteiro e dá 10% no carrinho. A campanha da loja pode entrar antes, então confira o total.",
           "De que é feito o tecido? Segundo o FAQ da loja, 76,6% é poliamida e 23,5% é elastano.",
           "O Comfort Slim tem PP e M? Tem, mas com estoque mais curto: 3 de 5 variantes em cada um."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Escrevemos com o que a Toda Up publica nas páginas dos três modelos, lidas no dia da publicação, e com as tabelas de medida da própria loja. Ninguém do site usou as peças. Quando um texto é da loja, aparece como dito por ela, e os preços e o estoque valem só para o dia da leitura."
         ]
       }
     ]

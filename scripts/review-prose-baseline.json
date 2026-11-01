@@ -23,14 +23,6 @@
     "bodyDates": 27,
     "datesOutsideBody": 8
   },
-  "black-friday-toda-up": {
-    "bodyDates": 19,
-    "datesOutsideBody": 9
-  },
-  "black-friday-yesstyle": {
-    "bodyDates": 23,
-    "datesOutsideBody": 3
-  },
   "black-skull-ou-growth": {
     "transparencySection": true,
     "bodyDates": 10,
@@ -110,10 +102,6 @@
   "dr-peanut-melhor-sabor": {
     "bodyDates": 16,
     "datesOutsideBody": 4
-  },
-  "fita-up-como-usar": {
-    "bodyDates": 7,
-    "datesOutsideBody": 2
   },
   "guia-linha-ninho-nestle-leite-vs-composto-lacteo": {
     "bodyDates": 4,
@@ -199,10 +187,6 @@
     "bodyDates": 7,
     "datesOutsideBody": 2
   },
-  "protetor-de-silicone-mamilo-como-usar": {
-    "bodyDates": 4,
-    "datesOutsideBody": 2
-  },
   "shein-11-11-selecao-da-cecilia": {
     "transparencySection": true,
     "bodyDates": 3,
@@ -221,43 +205,16 @@
     "bodyDates": 6,
     "datesOutsideBody": 2
   },
-  "sutia-de-silicone-invisivel-como-usar": {
-    "quickAnswerPrice": true
-  },
-  "sutia-toda-up-qual-escolher": {
-    "transparencySection": true
-  },
   "tabela-de-medidas-insider": {
     "bodyDates": 18,
-    "datesOutsideBody": 4
-  },
-  "toda-up-e-confiavel": {
-    "bodyDates": 15,
-    "datesOutsideBody": 6
-  },
-  "toda-up-reclame-aqui-nota-reputacao": {
-    "bodyDates": 23,
-    "datesOutsideBody": 4
-  },
-  "yesstyle-app-como-comprar-codigo-de-recompensa": {
-    "transparencySection": true,
-    "bodyDates": 6,
     "datesOutsideBody": 4
   },
   "yesstyle-entrega-no-brasil-e-portugal": {
     "bodyDates": 11,
     "datesOutsideBody": 11
   },
-  "yesstyle-ou-olive-young": {
-    "bodyDates": 31,
-    "datesOutsideBody": 10
-  },
   "yesstyle-ou-stylevana": {
     "bodyDates": 21,
     "datesOutsideBody": 3
-  },
-  "yesstyle-trustpilot-nota-reclamacoes": {
-    "bodyDates": 9,
-    "datesOutsideBody": 6
   }
 }
