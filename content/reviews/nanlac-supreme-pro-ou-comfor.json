@@ -27,7 +27,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Nanlac Supreme Pro e o Nanlac Comfor HMO são fórmulas da Nestlé para crianças de 1 a 3 anos, e os dois contêm leite, lactose e soja. O Supreme Pro declara quatro HMOs e o Comfor, um, e o Comfor custava menos a lata em 17/10/2026. Veja o capítulo \"Para quem cada uma faz sentido, pelo rótulo\"."
+        "O Nanlac Supreme Pro e o Nanlac Comfor HMO são fórmulas da Nestlé para crianças de 1 a 3 anos, e os dois contêm leite, lactose e soja. O Supreme Pro declara quatro HMOs e o Comfor, um. O que pesa é o número de HMOs declarados de um lado e GOS, FOS e o menor preço do outro, como detalha o capítulo \"Para quem cada uma faz sentido, pelo rótulo\"."
       ]
     },
     {
@@ -78,7 +78,7 @@
     {
       "heading": "O que cada rótulo declara",
       "paragraphs": [
-        "Os números do Supreme Pro vêm da página da Nestlé Nutre. Os do Comfor vêm do verso da lata de 800 g, lido na galeria de fotos da Nestlé Nutre em 17/10/2026. A tabela em texto da página da loja traz números um pouco diferentes da lata, e usamos o rótulo impresso na lata. A comparação é só do que está impresso e não diz qual fórmula \"faz mais\" por uma criança."
+        "Os números são os do rótulo: o do Supreme Pro, lido na página da Nestlé Nutre, e o do Comfor, impresso no verso da lata de 800 g, lido na galeria de fotos da loja (a tabela em texto da página traz valores um pouco diferentes). A comparação é só do que está declarado no rótulo, e a escolha entre as fórmulas é do pediatra ou nutricionista."
       ],
       "comparisonTable": {
         "headers": [
@@ -171,7 +171,7 @@
     {
       "heading": "Preparo e rendimento",
       "paragraphs": [
-        "O Supreme Pro usa 14,1 g de pó para 90 ml de água, que rendem 100 ml, com colher-medida de 4,7 g. O Comfor usa as mesmas medidas, segundo o rótulo: 14,1 g de pó com 90 ml de água rendem 100 ml, a colher-medida tem 4,7 g e cada colher rasa vai em 30 ml de água. Para um copo de 210 ml, são 7 medidas rasas.",
+        "O preparo é o mesmo nos dois, e as medidas estão na tabela abaixo.",
         "Nos dois, a água é fervida por 5 minutos e esfriada até 70 °C na hora de misturar. A lata do Comfor manda conferir a temperatura no punho, em cerca de 40 °C, antes de oferecer."
       ],
       "comparisonTable": {
@@ -183,8 +183,23 @@
         "rows": [
           [
             "Pó por 100 ml preparado",
-            "14,1 g",
-            "14,1 g"
+            "14,1 g (com 90 ml de água)",
+            "14,1 g (com 90 ml de água)"
+          ],
+          [
+            "Colher-medida",
+            "4,7 g",
+            "4,7 g"
+          ],
+          [
+            "Água por colher rasa",
+            "30 ml",
+            "30 ml"
+          ],
+          [
+            "Copo de 210 ml",
+            "7 medidas rasas",
+            "7 medidas rasas"
           ],
           [
             "Rendimento de 800 g",
@@ -192,7 +207,7 @@
             "cerca de 5,7 L (conta nossa)"
           ],
           [
-            "Preço da lata, Nestlé Nutre, 17/10/2026",
+            "Preço da lata, Nestlé Nutre",
             "R$ 95,53",
             "R$ 69,35"
           ],
@@ -214,15 +229,11 @@
     {
       "heading": "Recolhimento de janeiro: lotes do Comfor",
       "paragraphs": [
-        "O Comfor 800 g também entrou no recolhimento de janeiro de 2026 (Anvisa, RE nº 32/2026). Estes são os lotes e as validades informados no comunicado da Nestlé (nestlefamilynes.com.br/recolhimento-de-produto):"
+        "O Comfor 800 g também entrou no recolhimento de janeiro de 2026. Estes são os lotes e as validades do comunicado da Nestlé (nestlefamilynes.com.br/recolhimento-de-produto):"
       ],
       "bullets": [
-        "Lote 5327046041, validade 01/11/2026",
-        "Lote 5327046043, validade 01/11/2026",
-        "Lote 5328046041, validade 01/11/2026",
-        "Lote 5336046041, validade 01/12/2026",
-        "Lote 5337046041, validade 01/12/2026",
-        "Lote 5338046041, validade 01/12/2026"
+        "Validade em novembro, lotes 5327046041, 5327046043 e 5328046041",
+        "Validade em dezembro, lotes 5336046041, 5337046041 e 5338046041"
       ],
       "postParagraphs": [
         "Se o lote da sua lata estiver na lista, não use e fale com o SAC da Nestlé."
@@ -238,10 +249,10 @@
         "Quem procura GOS, FOS e nucleotídeos na tabela encontra os três no Comfor.",
         "Quem compara proteína, DHA e ARA por 100 g vê números maiores no Supreme Pro.",
         "Quem compara açúcares adicionados vê 31 g por 100 g no Supreme Pro e 5,1 g no Comfor.",
-        "Quem compara preço por litro preparado paga menos no Comfor, com os preços de 17/10/2026."
+        "Quem compara preço por litro preparado paga menos no Comfor."
       ],
       "postParagraphs": [
-        "Lotes específicos do Supreme Pro 800 g entraram no recolhimento de janeiro de 2026 (Anvisa, RE nº 32/2026). Antes de usar uma lata comprada no começo do ano, veja como conferir o lote no [guia do Nanlac Supreme Pro](/reviews/nanlac-supreme-pro-1-a-3-anos)."
+        "Lotes específicos do Supreme Pro 800 g entraram no recolhimento de janeiro. Antes de usar uma lata comprada no começo do ano, veja como conferir o lote no [guia do Nanlac Supreme Pro](/reviews/nanlac-supreme-pro-1-a-3-anos)."
       ]
     },
     {
@@ -282,17 +293,11 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Nanlac Supreme Pro ou Comfor: qual escolher? Não há resposta única. O Supreme Pro declara 4 HMOs e mais proteína, DHA e ARA por 100 g. O Comfor declara 1 HMO, GOS, FOS e nucleotídeos e custa menos por lata. A escolha é do pediatra ou nutricionista.",
-        "O Nanlac Comfor tem HMO? Tem um: o 2'-fucosilactose (2'-FL), com 0,2 g por 100 g, segundo o verso da lata. O Supreme Pro declara quatro HMOs.",
+        "O Nanlac Comfor tem HMO? Tem um, o 2'-fucosilactose (2'-FL), e o Supreme Pro declara quatro; os valores estão na tabela do capítulo O que cada rótulo declara.",
         "Nanlac Comfor é fórmula infantil ou composto lácteo? É fórmula infantil de primeira infância, segundo a página da Nestlé Nutre.",
         "Nanlac Comfor e Supreme Pro servem para menores de 1 ano? Não. As páginas da Nestlé Nutre trazem o aviso de que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade.",
         "O Comfor contém lactose, leite e soja? Contém lactose, leite e derivados de soja, segundo a lata. Não contém glúten.",
         "Quanto tempo dura a lata aberta? O rótulo do Comfor indica até 30 dias, e o rótulo do Supreme Pro diz o mesmo."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Este é um guia de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras na Nestlé Nutre com o código CECI. Fonte: páginas de produto da Nestlé Nutre e rótulo da lata do Comfor na galeria da loja, lidos em 17/10/2026. Não recebemos nem usamos os produtos. Preço e desconto mudam: confira antes de comprar."
       ]
     }
   ],

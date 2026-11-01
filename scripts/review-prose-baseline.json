@@ -103,10 +103,6 @@
     "bodyDates": 16,
     "datesOutsideBody": 4
   },
-  "guia-linha-ninho-nestle-leite-vs-composto-lacteo": {
-    "bodyDates": 4,
-    "datesOutsideBody": 1
-  },
   "insider-store-e-confiavel": {
     "bodyDates": 7,
     "datesOutsideBody": 1
@@ -145,38 +141,6 @@
   "mochaccino-canela-dolce-gusto": {
     "transparencySection": true,
     "bodyDates": 3,
-    "datesOutsideBody": 1
-  },
-  "nanlac-supreme-ou-ninho-fases": {
-    "transparencySection": true,
-    "bodyDates": 6,
-    "datesOutsideBody": 2
-  },
-  "nanlac-supreme-pro-ou-comfor": {
-    "transparencySection": true,
-    "bodyDates": 14
-  },
-  "nestle-nutre-produtos-para-que-servem": {
-    "bodyDates": 3,
-    "datesOutsideBody": 2
-  },
-  "nutren-creatina-e-boa-comparativo-growth-ftw-cimed": {
-    "bodyDates": 8,
-    "datesOutsideBody": 3
-  },
-  "nutren-protein-ou-whey": {
-    "bodyDates": 5,
-    "datesOutsideBody": 1
-  },
-  "nutren-senior-como-tomar-sem-empelotar": {
-    "bodyDates": 5
-  },
-  "nutren-senior-ou-nutridrink": {
-    "transparencySection": true,
-    "bodyDates": 6,
-    "datesOutsideBody": 1
-  },
-  "nutren-senior-zero-lactose-ficha-tecnica": {
     "datesOutsideBody": 1
   },
   "poltrona-damie-e-boa": {

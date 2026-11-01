@@ -41,7 +41,7 @@
     {
       "heading": "As nove versões lado a lado",
       "comparisonTable": {
-        "caption": "Valores por porção das páginas e rótulos da Nestlé Nutre em 12/10/2026. As porções são diferentes: não ordene por proteína. \"Com leite\" é o preparo com 180 ml de leite desnatado, como a página informa. Traço: a página ou a tabela não traz o dado.",
+        "caption": "Valores por porção das páginas e rótulos da Nestlé Nutre. As porções são diferentes: não ordene por proteína. \"Com leite\" é o preparo com 180 ml de leite desnatado, como a página informa. Traço: a página ou a tabela não traz o dado.",
         "headers": ["Versão", "Porção", "Calorias", "Proteína", "Açúcares totais / adicionados", "Lactose", "Glúten", "Cafeína"],
         "rows": [
           ["Senior Sem Sabor Zero Lactose, lata de 740 g", "27,5 g", "113 kcal", "10 g", "5 g / 3 g", "0 g", "Não contém (FAQ)", "—"],
@@ -59,7 +59,7 @@
     {
       "heading": "Nutren Senior: para que serve e quais versões existem",
       "paragraphs": [
-        "A Nestlé descreve o Senior como a linha \"desenvolvida especialmente para a nutrição de adultos acima dos 50 anos\". A indicação nas páginas de produto é \"para pessoas a partir dos 50 anos\" que procuram nutrientes que auxiliem a imunidade, a vitalidade e a saúde de ossos e músculos. É complemento alimentar, não remédio.",
+        "A Nestlé descreve o Senior como a linha \"desenvolvida especialmente para a nutrição de adultos acima dos 50 anos\". A indicação nas páginas de produto é \"para pessoas a partir dos 50 anos\"; para uma condição de saúde, a escolha é do médico ou nutricionista. É complemento alimentar, não remédio.",
         "Há o pó em latas de 740 g (Sem Sabor, Zero Lactose e sabores), o Premium de 370 g, que segundo a Nestlé tem \"colágeno FORTIGEL® e ômega 3\", e o pronto para beber de 200 ml, isento de lactose. O Senior Sem Sabor de 740 g (o que não é Zero Lactose) traz na lata 20 g de proteína na porção diária de 55 g, tomada em duas doses de 27,5 g. Pelo FAQ da linha, o pó e o pronto não contêm glúten; só as cápsulas Senior A-Z contêm."
       ],
       "images": [
@@ -84,8 +84,8 @@
     {
       "heading": "Nutren Protein: pó com cafeína ou garrafa pronta",
       "paragraphs": [
-        "O Nutren Protein em pó é um suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", em baunilha e chocolate (400 g; o de 800 g só em baunilha). Na porção de 31,5 g são 14 g de proteína e 80 mg de cafeína; os 20 g do destaque valem com 180 ml de leite desnatado. A página indica \"para jovens e adultos que querem mais foco e energia no dia a dia corrido\" e avisa que ele \"não deve ser consumido por gestantes, lactantes e crianças\". O FAQ diz que contém lactose e glúten.",
-        "A garrafa pronta de 260 ml é outro produto: 15 g de proteína, 112 kcal e lactose 0 g na tabela, que não traz linha de cafeína. Nenhum dos dois é o Nutren Just Protein, o whey isolado sem sabor da Nestlé. A comparação com whey e com a YoPRO está no nosso guia do Nutren Protein."
+        "O Nutren Protein em pó é um suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", em baunilha e chocolate (400 g; o de 800 g só em baunilha). A proteína e a cafeína da porção estão na tabela acima; os 20 g do destaque valem com 180 ml de leite desnatado. A página indica \"para jovens e adultos que querem mais foco e energia no dia a dia corrido\" e avisa que ele \"não deve ser consumido por gestantes, lactantes e crianças\". O FAQ diz que contém lactose e glúten.",
+        "A garrafa pronta de 260 ml é outro produto, com os valores da tabela acima, que não traz linha de cafeína. Nenhum dos dois é o Nutren Just Protein, o whey isolado sem sabor da Nestlé. A comparação com whey e com a YoPRO está no nosso guia do Nutren Protein."
       ],
       "image": {
         "src": "/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
@@ -152,7 +152,7 @@
         "Cafeína: das tabelas lidas, só a do Nutren Protein em pó traz cafeína, 80 mg por porção; a da garrafa de 260 ml não traz linha de cafeína.",
         "Glúten: o Protein em pó e o Active contêm; Senior em pó e pronto e Control não contêm.",
         "Lactose: o Senior Zero Lactose, o Senior pronto, o Control e a garrafa do Protein trazem 0 g; o Protein em pó e o Active contêm, segundo o FAQ, e a página do Senior Premium também diz que contém.",
-        "Açúcares: as tabelas do Protein em pó e do Active, ambos de baunilha, trazem 0,1 g e 1,5 g de açúcares adicionados por porção. O Control, isento de sacarose, frutose, glicose e lactose, tem 4,8 g de açúcares adicionados no pó e 4,6 g no pronto."
+        "Açúcares: o Protein em pó e o Active têm pouco açúcar adicionado por porção, e o Control tem bem mais mesmo isento de sacarose, frutose, glicose e lactose. Os valores por porção estão na tabela do início."
       ]
     },
     {
@@ -162,9 +162,9 @@
       ]
     },
     {
-      "heading": "Preços em 12/10/2026 e o cupom CECI",
+      "heading": "Preços e o cupom CECI",
       "comparisonTable": {
-        "caption": "Preços da loja oficial da Nestlé Nutre em 12/10/2026, na compra única. Mudam com promoção: confira no carrinho.",
+        "caption": "Preços da loja oficial da Nestlé Nutre, na compra única. Mudam com promoção: confira no carrinho.",
         "headers": ["Produto", "Preço na compra única", "Preço cheio exibido"],
         "rows": [
           ["Nutren Senior Sem Sabor, 740 g", "R$ 169,37", "R$ 188,19"],
@@ -178,7 +178,7 @@
         ]
       },
       "postParagraphs": [
-        "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja oficial (conferido em 04/10/2026). Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
+        "Preços lidos na loja oficial em 12/10/2026. O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja oficial. Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
       ],
       "links": [
         {
@@ -204,11 +204,11 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual Nutren escolher? Depende de quem vai usar e do que o médico ou nutricionista indicou: a Nestlé destina o Senior a quem tem mais de 50 anos, o Active a jovens e adultos, o Protein a quem quer foco e energia (com 80 mg de cafeína no pó) e o Control ao manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
-        "Para que serve o Nutren Senior? Segundo a Nestlé, é para pessoas a partir dos 50 anos que procuram nutrientes que auxiliem a imunidade, a vitalidade e a saúde de ossos e músculos; não é remédio.",
+        "Para que serve o Nutren Senior? É a linha da Nestlé para pessoas a partir dos 50 anos, detalhada no capítulo do Senior; para uma condição de saúde, quem decide é o médico ou nutricionista.",
         "Nutren Protein ou Nutren Senior: qual o melhor? Não há um melhor: o Senior é para quem tem mais de 50 anos e o Protein para jovens e adultos, e o Protein em pó tem cafeína, lactose e glúten, enquanto o Senior em pó e pronto não contém glúten.",
         "Para que serve o Nutren Control? A Nestlé o indica para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
         "Nutren Control é para diabéticos? A indicação da Nestlé fala em pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação profissional; para quem tem diabetes, quem decide é o médico ou nutricionista que acompanha a pessoa.",
-        "Nutren Control tem açúcar? Tem açúcares na tabela: 5 g totais, 4,8 g adicionados, por 42 g do pó, e 4,6 g, todos adicionados, no pronto de 200 ml, com sacarose, frutose, glicose e lactose em 0 g; quem precisa controlar açúcares deve levar a tabela ao médico ou nutricionista.",
+        "Nutren Control tem açúcar? Tem: a tabela mostra açúcares totais e adicionados nos dois formatos mesmo com sacarose, frutose, glicose e lactose em 0 g, como detalha o capítulo do Control; quem precisa controlar açúcares deve levar a tabela ao médico ou nutricionista.",
         "Como preparar o Nutren Control em pó? Pelo rótulo da lata de 380 g: 5 colheres de sopa (42 g) com 50 ml de água até formar uma pasta, depois mais 130 ml de água, e consumir logo após o preparo.",
         "Nutren Control tem glúten? Não: o rótulo do pó e o FAQ do pronto dizem que não contém glúten, e o pó contém derivados de leite e soja.",
         "Para que serve o Nutren Active? A Nestlé o descreve como complemento para jovens e adultos que precisam de mais energia e disposição; ele contém lactose e glúten.",
@@ -218,7 +218,7 @@
         "Nutren Senior engorda? Nas páginas que lemos, a Nestlé não fala em ganho de peso para o Senior, e no FAQ do Control escreve que \"nenhum alimento por si só tem o poder de engordar ou emagrecer\"; o peso depende de toda a alimentação e da orientação do médico ou nutricionista.",
         "Nutren Senior serve para quimioterapia ou câncer? A página do Senior não o indica para isso; quem faz tratamento deve perguntar ao médico ou nutricionista, e a Nestlé tem linhas separadas de nutrição clínica.",
         "Nutren Senior serve para diabetes? A página do Senior não o indica para diabetes; a escolha é do médico ou nutricionista que acompanha a pessoa.",
-        "O cupom CECI vale para todos os Nutren? Dá 10% OFF na loja oficial da Nestlé Nutre (conferido em 04/10/2026), exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
+        "O cupom CECI vale para todos os Nutren? Dá 10% OFF na loja oficial da Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
       ]
     }
   ],

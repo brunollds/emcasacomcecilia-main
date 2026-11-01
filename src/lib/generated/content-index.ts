@@ -34705,14 +34705,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Nestlé Nutre é confiável: é a loja oficial da Nestlé Health Science no Brasil, operada sob o CNPJ da Nestlé Brasil. O que merece atenção é conferir o domínio oficial e as regras de troca e entrega. Veja os números no capítulo Dá para confiar na Nestlé Nutre? Para comprar com desconto, veja o [cupom Nestlé Nutre](/cupons/nestle-nutre)."
+          "Sim, a Nestlé Nutre é confiável: é a loja oficial da Nestlé Health Science no Brasil, operada sob o CNPJ da Nestlé Brasil. O que pesa é conferir o domínio e as regras de troca, com os números no capítulo Dá para confiar na Nestlé Nutre? Para comprar com desconto, veja o [cupom Nestlé Nutre](/cupons/nestle-nutre)."
         ]
       },
       {
         "heading": "Dados públicos da empresa",
         "paragraphs": [
-          "A Nestlé Nutre é a loja oficial de e-commerce da Nestlé Health Science no Brasil, operada sob o CNPJ 60.409.075/0001-52, o mesmo registrado pela Nestlé Brasil Ltda. Não é uma empresa independente ou recém-criada: é o canal de venda direta ao consumidor de uma das maiores multinacionais de alimentos e nutrição do mundo, o que já traz um primeiro nível de segurança jurídica e financeira para quem compra.",
-          "O atendimento ao cliente é feito por telefone (0800 770 2461), WhatsApp (11 97893 1273) e por um assistente virtual chamado Nina, disponível no próprio site. O domínio oficial é nestlenutre.com.br, e o site exibe certificado de segurança SSL."
+          "A Nestlé Nutre é a loja oficial de e-commerce da Nestlé Health Science no Brasil, operada sob o CNPJ 60.409.075/0001-52, o mesmo registrado pela Nestlé Brasil Ltda. Não é loja nova nem intermediário: é a venda direta da Nestlé, o que dá respaldo para troca e reembolso.",
+          "A loja informa: atendimento por telefone (0800 770 2461), WhatsApp (11 97893 1273) e assistente virtual Nina no próprio site. O domínio oficial é nestlenutre.com.br, e o site exibe certificado de segurança SSL."
         ],
         "bullets": [],
         "image": "/images/reviews/nutren/nestle-nutre-identidade-institucional.webp",
@@ -34744,14 +34744,14 @@ export const reviewsData: unknown[] = [
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
           "O direito de arrependimento segue o CDC: até 7 dias corridos após o recebimento para devolver o produto, com frete de retorno custeado pela Nestlé, desde que o item esteja na embalagem original acompanhado da nota fiscal. Em compras no cartão, o estorno é feito na fatura seguinte; no boleto, por depósito em conta.",
-          "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. O frete é grátis para compras acima de R$400, e o parcelamento chega a 6x sem juros no cartão. Quem compra por lá pela primeira vez ainda encontra o cupom BOASVINDAS10 (10% OFF), que é da própria loja, diferente do CECI, que é a parceria com este blog."
+          "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. O frete é grátis acima de R$ 400, e o parcelamento chega a 6x sem juros no cartão. Quem compra por lá pela primeira vez ainda encontra o cupom BOASVINDAS10 (10% OFF), que é da própria loja, diferente do CECI, que é a parceria com este blog."
         ],
         "bullets": []
       },
       {
         "heading": "O que observar antes de comprar",
         "paragraphs": [
-          "Como em qualquer compra online, recomenda-se verificar os seguintes pontos antes de finalizar o pedido na Nestlé Nutre:"
+          "Antes de fechar o pedido, confira estes pontos:"
         ],
         "bullets": [
           "Confirme se está no domínio oficial (nestlenutre.com.br) antes de inserir dados de pagamento.",
@@ -34787,7 +34787,7 @@ export const reviewsData: unknown[] = [
           "A Nestlé Nutre é a mesma empresa da Nestlé? Sim. É o e-commerce oficial da Nestlé Health Science no Brasil, operado sob o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52).",
           "O site da Nestlé Nutre é confiável para comprar Nutren? Sim: o nestlenutre.com.br é o e-commerce oficial da Nestlé Health Science no Brasil, com o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52) e conexão segura.",
           "Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.",
-          "A Nestlé Nutre entrega para todo o Brasil? Sim, as entregas cobrem todo o território nacional, com prazo calculado no checkout conforme o CEP.",
+          "A Nestlé Nutre entrega no meu CEP? Sim, com prazo calculado no checkout; dias e tentativas estão no capítulo Políticas de compra e pós-venda.",
           "Como funciona a devolução na Nestlé Nutre? Segue o CDC: até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, e frete de retorno custeado pela empresa.",
           "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente, separado da parceria do cupom CECI com este blog.",
           "O cupom CECI garante desconto na Nestlé Nutre? O cupom CECI aplica 10% OFF em produtos elegíveis do site oficial no momento da compra, respeitando as exceções e condições vigentes no checkout."
@@ -34859,7 +34859,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As nove versões lado a lado",
         "comparisonTable": {
-          "caption": "Valores por porção das páginas e rótulos da Nestlé Nutre em 12/10/2026. As porções são diferentes: não ordene por proteína. \"Com leite\" é o preparo com 180 ml de leite desnatado, como a página informa. Traço: a página ou a tabela não traz o dado.",
+          "caption": "Valores por porção das páginas e rótulos da Nestlé Nutre. As porções são diferentes: não ordene por proteína. \"Com leite\" é o preparo com 180 ml de leite desnatado, como a página informa. Traço: a página ou a tabela não traz o dado.",
           "headers": [
             "Versão",
             "Porção",
@@ -34967,7 +34967,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Senior: para que serve e quais versões existem",
         "paragraphs": [
-          "A Nestlé descreve o Senior como a linha \"desenvolvida especialmente para a nutrição de adultos acima dos 50 anos\". A indicação nas páginas de produto é \"para pessoas a partir dos 50 anos\" que procuram nutrientes que auxiliem a imunidade, a vitalidade e a saúde de ossos e músculos. É complemento alimentar, não remédio.",
+          "A Nestlé descreve o Senior como a linha \"desenvolvida especialmente para a nutrição de adultos acima dos 50 anos\". A indicação nas páginas de produto é \"para pessoas a partir dos 50 anos\"; para uma condição de saúde, a escolha é do médico ou nutricionista. É complemento alimentar, não remédio.",
           "Há o pó em latas de 740 g (Sem Sabor, Zero Lactose e sabores), o Premium de 370 g, que segundo a Nestlé tem \"colágeno FORTIGEL® e ômega 3\", e o pronto para beber de 200 ml, isento de lactose. O Senior Sem Sabor de 740 g (o que não é Zero Lactose) traz na lata 20 g de proteína na porção diária de 55 g, tomada em duas doses de 27,5 g. Pelo FAQ da linha, o pó e o pronto não contêm glúten; só as cápsulas Senior A-Z contêm."
         ],
         "images": [
@@ -34992,8 +34992,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Protein: pó com cafeína ou garrafa pronta",
         "paragraphs": [
-          "O Nutren Protein em pó é um suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", em baunilha e chocolate (400 g; o de 800 g só em baunilha). Na porção de 31,5 g são 14 g de proteína e 80 mg de cafeína; os 20 g do destaque valem com 180 ml de leite desnatado. A página indica \"para jovens e adultos que querem mais foco e energia no dia a dia corrido\" e avisa que ele \"não deve ser consumido por gestantes, lactantes e crianças\". O FAQ diz que contém lactose e glúten.",
-          "A garrafa pronta de 260 ml é outro produto: 15 g de proteína, 112 kcal e lactose 0 g na tabela, que não traz linha de cafeína. Nenhum dos dois é o Nutren Just Protein, o whey isolado sem sabor da Nestlé. A comparação com whey e com a YoPRO está no nosso guia do Nutren Protein."
+          "O Nutren Protein em pó é um suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", em baunilha e chocolate (400 g; o de 800 g só em baunilha). A proteína e a cafeína da porção estão na tabela acima; os 20 g do destaque valem com 180 ml de leite desnatado. A página indica \"para jovens e adultos que querem mais foco e energia no dia a dia corrido\" e avisa que ele \"não deve ser consumido por gestantes, lactantes e crianças\". O FAQ diz que contém lactose e glúten.",
+          "A garrafa pronta de 260 ml é outro produto, com os valores da tabela acima, que não traz linha de cafeína. Nenhum dos dois é o Nutren Just Protein, o whey isolado sem sabor da Nestlé. A comparação com whey e com a YoPRO está no nosso guia do Nutren Protein."
         ],
         "image": {
           "src": "/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
@@ -35060,7 +35060,7 @@ export const reviewsData: unknown[] = [
           "Cafeína: das tabelas lidas, só a do Nutren Protein em pó traz cafeína, 80 mg por porção; a da garrafa de 260 ml não traz linha de cafeína.",
           "Glúten: o Protein em pó e o Active contêm; Senior em pó e pronto e Control não contêm.",
           "Lactose: o Senior Zero Lactose, o Senior pronto, o Control e a garrafa do Protein trazem 0 g; o Protein em pó e o Active contêm, segundo o FAQ, e a página do Senior Premium também diz que contém.",
-          "Açúcares: as tabelas do Protein em pó e do Active, ambos de baunilha, trazem 0,1 g e 1,5 g de açúcares adicionados por porção. O Control, isento de sacarose, frutose, glicose e lactose, tem 4,8 g de açúcares adicionados no pó e 4,6 g no pronto."
+          "Açúcares: o Protein em pó e o Active têm pouco açúcar adicionado por porção, e o Control tem bem mais mesmo isento de sacarose, frutose, glicose e lactose. Os valores por porção estão na tabela do início."
         ]
       },
       {
@@ -35070,9 +35070,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Preços em 12/10/2026 e o cupom CECI",
+        "heading": "Preços e o cupom CECI",
         "comparisonTable": {
-          "caption": "Preços da loja oficial da Nestlé Nutre em 12/10/2026, na compra única. Mudam com promoção: confira no carrinho.",
+          "caption": "Preços da loja oficial da Nestlé Nutre, na compra única. Mudam com promoção: confira no carrinho.",
           "headers": [
             "Produto",
             "Preço na compra única",
@@ -35122,7 +35122,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja oficial (conferido em 04/10/2026). Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
+          "Preços lidos na loja oficial em 12/10/2026. O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja oficial. Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
         ],
         "links": [
           {
@@ -35148,11 +35148,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual Nutren escolher? Depende de quem vai usar e do que o médico ou nutricionista indicou: a Nestlé destina o Senior a quem tem mais de 50 anos, o Active a jovens e adultos, o Protein a quem quer foco e energia (com 80 mg de cafeína no pó) e o Control ao manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
-          "Para que serve o Nutren Senior? Segundo a Nestlé, é para pessoas a partir dos 50 anos que procuram nutrientes que auxiliem a imunidade, a vitalidade e a saúde de ossos e músculos; não é remédio.",
+          "Para que serve o Nutren Senior? É a linha da Nestlé para pessoas a partir dos 50 anos, detalhada no capítulo do Senior; para uma condição de saúde, quem decide é o médico ou nutricionista.",
           "Nutren Protein ou Nutren Senior: qual o melhor? Não há um melhor: o Senior é para quem tem mais de 50 anos e o Protein para jovens e adultos, e o Protein em pó tem cafeína, lactose e glúten, enquanto o Senior em pó e pronto não contém glúten.",
           "Para que serve o Nutren Control? A Nestlé o indica para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
           "Nutren Control é para diabéticos? A indicação da Nestlé fala em pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação profissional; para quem tem diabetes, quem decide é o médico ou nutricionista que acompanha a pessoa.",
-          "Nutren Control tem açúcar? Tem açúcares na tabela: 5 g totais, 4,8 g adicionados, por 42 g do pó, e 4,6 g, todos adicionados, no pronto de 200 ml, com sacarose, frutose, glicose e lactose em 0 g; quem precisa controlar açúcares deve levar a tabela ao médico ou nutricionista.",
+          "Nutren Control tem açúcar? Tem: a tabela mostra açúcares totais e adicionados nos dois formatos mesmo com sacarose, frutose, glicose e lactose em 0 g, como detalha o capítulo do Control; quem precisa controlar açúcares deve levar a tabela ao médico ou nutricionista.",
           "Como preparar o Nutren Control em pó? Pelo rótulo da lata de 380 g: 5 colheres de sopa (42 g) com 50 ml de água até formar uma pasta, depois mais 130 ml de água, e consumir logo após o preparo.",
           "Nutren Control tem glúten? Não: o rótulo do pó e o FAQ do pronto dizem que não contém glúten, e o pó contém derivados de leite e soja.",
           "Para que serve o Nutren Active? A Nestlé o descreve como complemento para jovens e adultos que precisam de mais energia e disposição; ele contém lactose e glúten.",
@@ -35162,7 +35162,7 @@ export const reviewsData: unknown[] = [
           "Nutren Senior engorda? Nas páginas que lemos, a Nestlé não fala em ganho de peso para o Senior, e no FAQ do Control escreve que \"nenhum alimento por si só tem o poder de engordar ou emagrecer\"; o peso depende de toda a alimentação e da orientação do médico ou nutricionista.",
           "Nutren Senior serve para quimioterapia ou câncer? A página do Senior não o indica para isso; quem faz tratamento deve perguntar ao médico ou nutricionista, e a Nestlé tem linhas separadas de nutrição clínica.",
           "Nutren Senior serve para diabetes? A página do Senior não o indica para diabetes; a escolha é do médico ou nutricionista que acompanha a pessoa.",
-          "O cupom CECI vale para todos os Nutren? Dá 10% OFF na loja oficial da Nestlé Nutre (conferido em 04/10/2026), exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
+          "O cupom CECI vale para todos os Nutren? Dá 10% OFF na loja oficial da Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
         ]
       }
     ],
@@ -35274,7 +35274,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nutren Senior Zero Lactose é o composto lácteo em pó da Nestlé Health Science para adultos acima de 50 anos que buscam um complemento sem lactose. A lata de 740 g vem em duas versões, sem sabor e baunilha. O que pesa é a escolha entre elas; veja abaixo o capítulo \"Qual lata escolher\"."
+          "O Nutren Senior Zero Lactose é o composto lácteo em pó da Nestlé Health Science para adultos acima de 50 anos que buscam um complemento sem lactose. A lata de 740 g vem em duas versões, sem sabor e baunilha. Se a dúvida é qual levar, o capítulo Qual lata escolher decide rápido."
         ]
       },
       {
@@ -35336,7 +35336,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual lata escolher",
         "paragraphs": [
-          "A pergunta que a tabela sozinha não responde é qual SKU leva para o carrinho. A regra prática, com o que a fabricante publica:"
+          "A pergunta que a tabela sozinha não responde é qual SKU leva para o carrinho. Com o que a fabricante publica, sem sabor e baunilha se decidem por aromatizante, sucralose e açúcar adicionado:"
         ],
         "image": "/images/reviews/nutren/nutren-senior-linha-banner.avif",
         "imageAlt": "Linha Nutren Senior no site oficial: latas de 740 g e 370 g e versões prontas para beber",
@@ -35348,7 +35348,7 @@ export const reviewsData: unknown[] = [
           "Pronto para beber: a loja oficial também vende itens da linha Senior em garrafinha, inclusive opções zero lactose, como o Mix de Frutas 200 ml. Cada SKU tem tabela e ingredientes próprios; não use a ficha da lata de 740 g para a garrafinha."
         ],
         "postParagraphs": [
-          "Este artigo não compara Nutren Senior Zero Lactose com Control, 2.0 ou Ultra. São fórmulas com indicações diferentes. Se a dúvida é “qual linha da Nestlé Nutre serve para o meu caso”, o ponto de partida é o rótulo e, quando houver condição de saúde, um profissional."
+          "Control, 2.0 e Ultra são fórmulas com indicações diferentes, e a comparação entre as linhas está no guia [qual Nutren escolher](/reviews/nestle-nutre-produtos-para-que-servem). Se a dúvida é “qual linha da Nestlé Nutre serve para o meu caso”, o ponto de partida é o rótulo e, quando houver condição de saúde, um profissional."
         ],
         "links": [
           {
@@ -35374,7 +35374,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comprar com o cupom CECI",
         "paragraphs": [
-          "A compra pode ser feita no site oficial da Nestlé Nutre. Escolha a lata — sem sabor ou baunilha — e, no pagamento, digite CECI. Se o código não aplicar, confira a grafia, se algum item é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses e se outro cupom já está ativo."
+          "A compra pode ser feita no site oficial da Nestlé Nutre. Escolha a lata — sem sabor ou baunilha — e, no pagamento, digite CECI. Se o código não aplicar, confira a grafia e as exceções do capítulo anterior; o checkout costuma ficar com um cupom só."
         ],
         "links": [
           {
@@ -35399,7 +35399,7 @@ export const reviewsData: unknown[] = [
           "Nutren Senior Zero Lactose tem açúcar adicionado? Sim. Na tabela oficial, a porção de 27,5 g informa 3 g de açúcares adicionados na versão sem sabor e 0,3 g na versão baunilha. Confira o rótulo do lote recebido.",
           "A lata dura quanto tempo depois de aberta? A marca pede consumo em até 30 dias após abrir, com a lata bem fechada em local fresco e seco.",
           "Nutren Senior substitui o café da manhã? Não. É complemento alimentar. Não substitui refeição completa nem conduta prescrita por profissional de saúde.",
-          "Qual o preço do Nutren Senior Zero Lactose? Na publicação deste artigo, em 17/08/2026, o preço de referência no site oficial era R$ 211,79. Confira o valor vigente no checkout.",
+          "Qual o preço do Nutren Senior Zero Lactose? O preço de referência está no capítulo Preço e o que o cupom altera. Confira o valor vigente no checkout.",
           "O desconto do CECI inclui o frete? Não. O frete é calculado à parte."
         ]
       }
@@ -41371,7 +41371,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nutren Just Protein é um suplemento de proteína do soro do leite, em pó e sem sabor, com 13 g de proteína por porção de 15 g. Contém lactose, e o rótulo diz que não deve ser consumido por gestantes, lactantes e crianças; a tabela está em Tabela nutricional da embalagem de 280g."
+          "O Nutren Just Protein é um suplemento de proteína do soro do leite, em pó e sem sabor. Ele contém lactose e o rótulo diz que gestantes, lactantes e crianças não devem consumir; os números estão na tabela nutricional abaixo."
         ]
       },
       {
@@ -41416,13 +41416,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O modo de preparo indicado pela fabricante é adicionar 2 colheres de sopa cheias (15g) em 120ml de água e misturar imediatamente até homogeneizar. O rótulo orienta adultos a consumir uma porção ao dia.",
           "As combinações abaixo são sugestões editoriais para variar o consumo, não substituem o preparo oficial nem orientação profissional. Ao testar o pó em receitas, adicione aos poucos e observe a consistência, porque sabor, textura e dissolução dependem dos ingredientes e da temperatura.",
-          "O rótulo informa que o produto não deve ser consumido por gestantes, lactantes e crianças. Pessoas com alergia ao leite ou à soja, intolerância à lactose, doenças crônicas ou necessidades específicas de proteína devem consultar um profissional de saúde antes do consumo."
+          "O rótulo diz que gestantes, lactantes e crianças não devem consumir. Quem tem alergia, intolerância, doença crônica ou necessidade específica de proteína deve falar com um profissional de saúde antes."
         ],
         "bullets": [
           "Em comidas salgadas: experimente misturar gradualmente em sopas, canjas, purês ou no caldo do feijão já servido;",
           "Em bebidas e café da manhã: pode ser testado em vitaminas, iogurtes ou outras preparações compatíveis com suas restrições alimentares;",
           "Caldo verde com proteína: retire a porção do fogo, acrescente o pó aos poucos e mexa até atingir a consistência desejada;",
-          "Vitamina de banana: bata a fruta com a bebida escolhida e acrescente a quantidade definida para sua rotina;",
+          "Vitamina de banana: bata a fruta com a bebida escolhida e misture o pó por último, ajustando o líquido até a consistência que você gosta;",
           "Mingau de aveia: depois de desligar o fogo, incorpore o pó gradualmente e ajuste a quantidade de líquido se necessário."
         ],
         "image": "/images/reviews/nutren/nutren-just-protein-modo-preparo.avif",
@@ -41438,7 +41438,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Nutren Just Protein: suplemento de proteína isolada do soro do leite, sem sabor, com 13g de proteína por porção e sem vitaminas adicionadas;",
           "Nutren Senior: linha de complementos alimentares voltada ao público adulto, com fórmulas e micronutrientes que variam conforme a versão;",
-          "Whey protein esportivo: categoria com diferentes fórmulas, concentrações, sabores e adoçantes. A comparação deve ser feita pelo rótulo de cada produto e pelo objetivo de uso."
+          "Whey protein esportivo: categoria com sabores, adoçantes e concentrações variados. Quem quer o shake com sabor compara os rótulos pelo objetivo de uso; quem quer proteína neutra para a comida fica no Just Protein."
         ]
       },
       {
@@ -41468,7 +41468,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes sobre o Nutren Just Protein",
         "bullets": [
-          "Qual a tabela nutricional do Nutren Just Protein? Por porção de 15 g: 52 kcal, 13 g de proteína, 0 g de carboidratos e açúcares, 76 mg de sódio e nenhuma quantidade significativa de gorduras.",
+          "Qual a tabela nutricional do Nutren Just Protein? Os valores por porção de 15 g estão no capítulo Tabela nutricional da embalagem de 280g, acima.",
           "Nutren Just Protein engorda? Cada porção de 15g fornece 52 kcal e 13g de proteína. Para dúvidas sobre peso ou sobre a quantidade ideal na sua rotina, procure um médico ou nutricionista.",
           "Nutren Just Protein tem sabor de leite? A fabricante apresenta o produto como sem sabor. A percepção e o resultado final podem variar conforme a bebida ou receita em que ele for misturado.",
           "Pode misturar Nutren Just Protein em comida quente? O preparo oficial é 15g em 120ml de água. Em receitas quentes, uma possibilidade editorial é acrescentar o pó gradualmente depois de retirar o alimento do fogo; textura e dissolução podem variar.",
@@ -43591,7 +43591,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se você começou a pesquisar creatina, é fácil ter a impressão de que todos os potes entregam exatamente a mesma coisa. O pó costuma ser branco, o sabor é discreto e quase todas as marcas falam em desempenho. A diferença começa a aparecer quando olhamos a composição, a porção, o rendimento e o preço por grama.",
           "A creatina é um composto que o próprio organismo produz a partir de aminoácidos e que também está presente em alimentos. A maior parte fica armazenada nos músculos, onde participa do sistema de energia rápida usado principalmente em esforços curtos e intensos. A forma monohidratada é a apresentação mais comum nos suplementos comparados neste guia.",
-          "Para o consumidor, o ponto mais seguro é a alegação autorizada pela Anvisa: a creatina auxilia no aumento do desempenho físico durante exercícios repetidos de curta duração e alta intensidade. Isso inclui, por exemplo, séries de musculação e outros esforços explosivos; não transforma o suplemento em medicamento nem autoriza promessas de tratamento.",
+          "Para comparar, olhe o rótulo: ingrediente único, porção e rendimento. Dúvida de uso e saúde vai para médico ou nutricionista.",
           "É nesse contexto que a Nutren entra: não como uma creatina “mais forte” por carregar a marca Nestlé, mas como uma nova apresentação de creatina monohidratada que precisa ser comparada com Growth, FTW e Lavitan pelos dados que realmente mudam a compra."
         ],
         "bullets": [],
@@ -43613,7 +43613,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Creatina é boa? Resposta direta",
         "paragraphs": [
-          "Sim, a composição declarada é coerente com quem procura uma creatina monohidratada sem mistura: o rótulo informa um único ingrediente, porção de 3 g, embalagem de 300 g e rendimento de 100 porções. Acompanha colher-medida e tem sabor neutro.",
+          "Sim para quem quer creatina monohidratada sem mistura, pelo rótulo. O que decide é preço por 100 g e porção, na tabela do capítulo Comparativo auditável.",
           "O que não dá para concluir apenas pelo nome da marca é que ela seja mais eficaz ou mais pura do que as concorrentes. Sem laudos comparáveis dos mesmos lotes, a resposta mais útil é esta: a Nutren oferece a formulação esperada, e sua vantagem ou desvantagem depende do preço final, do tamanho da porção, da embalagem e do canal em que você prefere comprar."
         ],
         "bullets": []
@@ -43640,7 +43640,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comparativo auditável: Nutren, Growth, FTW e Lavitan",
         "paragraphs": [
-          "Os valores abaixo foram consultados em páginas oficiais: Nutren, FTW e Lavitan em 27 de agosto de 2026, e Growth em 18 de outubro de 2026. Em vez de misturar embalagens e promoções de marketplace, colocamos as quatro marcas na mesma tabela e normalizamos o preço por 100 g quando havia oferta oficial ativa.",
+          "Os preços vêm das páginas oficiais: Nutren, FTW e Lavitan em 27 de agosto de 2026, e Growth em 18 de outubro de 2026. A tabela põe as quatro marcas lado a lado, com preço por 100 g onde havia oferta oficial ativa.",
           "Não atribuímos superioridade de pureza, eficácia ou controle de qualidade sem laudo comparável dos mesmos lotes. A expressão “100% monohidratada” descreve a composição declarada; não substitui ensaio laboratorial independente."
         ],
         "comparisonTable": {
@@ -43683,14 +43683,14 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Preço oficial consultado",
-              "R$ 56,91 com o CECI de 5% vigente em 27/08/2026, sobre R$ 59,90",
-              "R$ 44,90 no Pix ou boleto; R$ 49,88 no cartão (consulta de 18/10/2026)",
+              "R$ 56,91 com o CECI de 5% da época, sobre R$ 59,90",
+              "R$ 44,90 no Pix ou boleto; R$ 49,88 no cartão",
               "R$ 59,90; R$ 56,91 à vista",
               "Sem preço; produto esgotado"
             ],
             [
               "Custo por 100 g",
-              "R$ 18,97 com o CECI de 5% vigente em 27/08/2026",
+              "R$ 18,97 com o CECI de 5% da época",
               "R$ 17,96 no Pix/boleto; R$ 19,95 no cartão",
               "R$ 19,97 no preço cheio; R$ 18,97 à vista",
               "Não calculado"
@@ -43719,8 +43719,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual delas faz mais sentido para você?",
         "paragraphs": [
-          "Com os dados que conseguimos confirmar, não existe uma campeã universal. Com o cupom CECI de 5% vigente em 27/08/2026, Nutren e FTW empatavam em R$ 18,97 por 100 g nas condições à vista observadas; com o CECI atual de 10%, a Nutren ficaria em R$ 17,97 se o preço de R$ 59,90 se mantiver; a Growth, com preço de 18/10/2026, fica em R$ 17,96 por 100 g no Pix; frete, disponibilidade e aceitação do desconto no checkout podem mudar o total pago.",
-          "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth fica em R$ 17,96 por 100 g no Pix, mas usa porção declarada de 5 g e embalagem de 250 g. A FTW oferece pote de 300 g e chega ao mesmo custo por 100 g da Nutren com CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
+          "Com os dados que conseguimos confirmar, não existe uma campeã universal. Pela tabela, Nutren e FTW empatam no custo por 100 g à vista, e a Growth fica no mesmo patamar no Pix; confirme frete e desconto no checkout antes de fechar.",
+          "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth usa porção de 5 g e embalagem de 250 g, então rende menos doses; vale para quem já compra na loja dela. A FTW oferece pote de 300 g e chega ao mesmo custo por 100 g da Nutren com CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
           "Em qualquer marca, confirme no rótulo o ingrediente, a porção, o lacre, o lote, a validade e as advertências. Compare o preço final depois de frete e desconto, não apenas o número em destaque na vitrine."
         ],
         "bullets": []
@@ -43746,13 +43746,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço oficial e cupom CECI",
         "paragraphs": [
-          "Na consulta de 27 de agosto de 2026, o catálogo oficial Nestlé Nutre mostrava a embalagem de 300 g por R$ 59,90. A imagem abaixo registra esse momento; preço, estoque e condições podem mudar.",
+          "Na consulta, o catálogo oficial Nestlé Nutre mostrava a embalagem de 300 g por R$ 59,90. A imagem abaixo registra esse momento; preço, estoque e condições podem mudar.",
           "Na data da consulta, o CECI dava 5%: sobre R$ 59,90, o valor ficava em R$ 56,91, equivalente a R$ 18,97 por 100 g. Com o desconto atual de 10%, o mesmo preço cai para R$ 53,91, ou R$ 17,97 por 100 g. Como a elegibilidade é confirmada no checkout, verifique se o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) foi aceito e compare o total com frete antes de pagar."
         ],
         "bullets": [],
         "image": "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
         "imageAlt": "Campanha de lançamento da Nutren Creatina 300 g com embalagem, rendimento de 100 doses e preço consultado em agosto de 2026",
-        "imageCaption": "Campanha de lançamento da Nutren Creatina, com o preço consultado em 27/08/2026.",
+        "imageCaption": "Campanha de lançamento da Nutren Creatina, com o preço da consulta.",
         "imageFit": "contain",
         "links": [
           {
@@ -43779,7 +43779,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Nutren Creatina é 100% creatina monohidratada? A frente usa a expressão “100% monohidratada” e a lista de ingredientes declara somente creatina monohidratada. Isso descreve o rótulo; não fizemos teste laboratorial independente do lote.",
           "Quantas porções vêm na embalagem? O sachê de 300 g declara 100 porções de 3 g.",
-          "Qual foi a mais barata no comparativo? Nas condições observadas em 27/08/2026, Nutren com o CECI de 5% da época e FTW à vista empataram em R$ 18,97 por 100 g. Com o CECI atual de 10% sobre o mesmo preço, a Nutren ficaria em R$ 17,97 por 100 g. Com o preço de 18/10/2026, a Growth no Pix ou boleto ficou em R$ 17,96 por 100 g, praticamente empatada com a Nutren com o CECI de 10%. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
+          "Qual foi a mais barata no comparativo? Nutren com o CECI, FTW à vista e Growth no Pix ficaram muito próximas no custo por 100 g; os valores estão na tabela do capítulo Comparativo auditável. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
           "Qual é o melhor horário para tomar creatina? Os rótulos consultados orientam uma porção diária, mas não condicionam o uso a pré ou pós-treino. Escolha um horário que ajude a seguir a recomendação do seu produto e peça orientação individual se necessário.",
           "Idosos podem usar? O produto é destinado a adultos, mas a decisão para uma pessoa idosa deve considerar saúde, alimentação e medicamentos com orientação profissional.",
           "É preciso fazer fase de saturação? O rótulo da Nutren orienta uma porção de 3 g ao dia e não pede fase de saturação. Não exceda a recomendação da embalagem sem orientação profissional.",
@@ -49647,7 +49647,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O método da pasta, passo a passo",
         "paragraphs": [
-          "Este é o preparo indicado pela Nestlé na loja oficial e no FAQ do Nutren Senior (consultados em 30/09/2026). O que muda de uma versão para outra é a medida do pó e o líquido recomendado.",
+          "Este é o preparo indicado pela Nestlé na loja oficial e no FAQ do Nutren Senior. O que muda de uma versão para outra é a medida do pó e o líquido recomendado.",
           "As páginas da marca não são idênticas entre si: o FAQ fala em completar com mais 150 ml (200 ml no total), enquanto a página de vários produtos fala em 130 ml (180 ml no total). O que não muda é a lógica, e a indicação impressa na lata é a que vale."
         ],
         "bullets": [
@@ -49688,7 +49688,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual utensílio ajuda a desfazer os grumos",
         "paragraphs": [
-          "A marca não indica utensílio. O que segue são sugestões de bom senso, não resultado de teste de bancada nosso: o que importa é cortar e amassar o pó molhado no passo 2, quando a pasta ainda está grossa."
+          "A marca não indica utensílio; as sugestões abaixo são de cozinha, não de teste: o que importa é cortar e amassar o pó molhado no passo 2, quando a pasta ainda está grossa."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -49731,7 +49731,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [],
         "comparisonTable": {
-          "caption": "Nutren Senior Café com Leite, porção de 31,5 g: com água x com leite desnatado (página oficial, 30/09/2026)",
+          "caption": "Nutren Senior Café com Leite, porção de 31,5 g: com água x com leite desnatado (página oficial)",
           "headers": [
             "Por porção",
             "Com água",
@@ -49779,7 +49779,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto tomar, quanto dura a lata e como guardar",
         "paragraphs": [
           "Quanto tomar por dia é decisão do médico ou do nutricionista que acompanha a pessoa. O rótulo pede para não exceder a recomendação diária indicada na embalagem, e a ficha do Zero Lactose diz que o consumo deve ser, preferencialmente, sob orientação de nutricionista ou médico.",
-          "Um detalhe que confunde: no Sem Sabor, a lata destaca 20 g de proteínas na porção diária, e a página do produto traz a tabela por 55 g (6 colheres de sopa rasas), o que equivale a duas preparações de 3 colheres. A página do Zero Lactose mostra a tabela por 27,5 g (3 colheres), com 10 g de proteína. Os números são os mesmos; só muda a porção usada na conta.",
+          "Um detalhe que confunde: no Sem Sabor, a lata destaca 20 g de proteína na porção diária, que equivale a duas preparações de 3 colheres. A página do Zero Lactose mostra a tabela por 27,5 g (3 colheres), com 10 g de proteína. Os números são os mesmos; só muda a porção usada na conta.",
           "Quanto dura: a lata de 740 g rende cerca de 27 porções de 27,5 g (Zero Lactose) ou cerca de 23 porções de 31,5 g (Mix de Frutas), segundo as tabelas dos produtos. Depois de aberta, a marca recomenda consumir em até 30 dias: uma porção por dia cabe nessa janela, mas duas por dia fazem a lata acabar em cerca de duas semanas.",
           "Como guardar: lata sempre bem fechada, em local fresco, seco e sem cheiro, como diz o rótulo. Bebida pronta: a marca pede para consumir imediatamente após o preparo, então prepare só a porção que vai ser tomada.",
           "Horário: a marca não define. Se a pessoa come pouco, vale perguntar ao nutricionista se o copo deve ser tomado longe das refeições principais, para não tirar o apetite do prato."
@@ -49798,7 +49798,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain",
         "imageAspectRatio": 3.1779141104,
         "comparisonTable": {
-          "caption": "Versões do Nutren Senior em pó (loja oficial, 30/09/2026)",
+          "caption": "Versões do Nutren Senior em pó (loja oficial)",
           "headers": [
             "Versão",
             "Para quem faz sentido",
@@ -49830,7 +49830,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Dificuldade para engolir (disfagia): se a pessoa engasga ou tosse ao beber líquidos, converse com o médico ou o fonoaudiólogo antes. A consistência da bebida pode precisar de ajuste, e este guia não substitui essa orientação;",
-          "Diabetes ou controle de açúcar: a marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite. Na tabela do Café com Leite, são 5,7 g de açúcares totais por porção (0,4 g adicionados) e 15 g quando preparado com 180 ml de leite desnatado. Converse com o médico ou o nutricionista;",
+          "Diabetes ou controle de açúcar: a marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite. Os açúcares totais por porção estão na tabela do capítulo de água ou leite, e só 0,4 g deles são adicionados. Converse com o médico ou o nutricionista;",
           "Lactose e alergia ao leite: as versões comuns têm lactose. O Zero Lactose é para restrição de lactose e, pela lista de ingredientes que analisamos em outro guia, continua com proteínas do leite e da soja, então quem tem alergia à proteína do leite deve falar com o médico;",
           "Rins, medicamentos e outras suplementações: a marca não detalha interações. Se a pessoa tem doença renal, usa vários remédios ou já toma outro suplemento, pergunte ao médico antes;",
           "Emagrecimento sem querer ou recusa constante do copo: não é caso de trocar de sabor sem parar. Leve ao médico ou ao nutricionista."
@@ -49874,7 +49874,7 @@ export const reviewsData: unknown[] = [
           "Posso deixar o copo pronto na geladeira? O rótulo pede para consumir imediatamente após o preparo, então o ideal é preparar só a porção que será tomada. Se for inevitável adiantar, converse com o nutricionista.",
           "Quanto tempo dura a lata aberta? Até 30 dias, segundo a marca, com a lata bem fechada em local fresco, seco e sem cheiro. Uma lata de 740 g rende cerca de 23 a 27 porções, conforme a versão.",
           "Quantas vezes ao dia posso tomar Nutren Senior? Quantos preparos por dia é decisão do médico ou do nutricionista; o rótulo pede para não exceder a recomendação diária da embalagem. Cada preparo usa 3 colheres de sopa (27,5 g no Sem Sabor e no Zero Lactose; 31,5 g nos sabores).",
-          "O Nutren Senior engorda? Cada porção tem de 113 a 133 kcal conforme a versão, e mais se for preparada com leite. Se o objetivo é ganhar ou perder peso, o nutricionista ajusta a quantidade.",
+          "O Nutren Senior engorda? As calorias por porção estão na tabela do capítulo de água ou leite e variam conforme a versão. Se o objetivo é ganhar ou perder peso, o nutricionista ajusta a quantidade.",
           "Diabético pode tomar Nutren Senior? Depende do caso: converse com o médico ou o nutricionista. Os açúcares por porção estão na tabela nutricional do produto.",
           "Serve para quem tem disfagia? A marca não traz orientação específica sobre disfagia nas páginas que consultamos. Quem tem dificuldade para engolir deve falar com o médico ou o fonoaudiólogo antes de usar."
         ]
@@ -51583,7 +51583,7 @@ export const reviewsData: unknown[] = [
           "Muita gente pega a lata amarela achando que todo Ninho é leite. Não é: a linha reúne três tipos de produto, e o nome técnico vem escrito na frente da embalagem, logo abaixo da marca.",
           "**Leite em pó** é leite desidratado. Ele pode ser enriquecido com vitaminas e minerais e continua sendo leite: o Ninho Integral é rico em cálcio e fonte de ferro, zinco e vitaminas A, C, D e E, segundo a Nestlé.",
           "**Composto lácteo** é uma mistura de leite com outros ingredientes, como óleos vegetais, fibras ou maltodextrina. Pela regra do Ministério da Agricultura, pelo menos 51% dos ingredientes precisam ser lácteos. Por isso o rótulo avisa: \"composto lácteo não é leite em pó\".",
-          "**Fórmula infantil de seguimento para crianças de primeira infância** é uma categoria própria, regulada pela Anvisa, para crianças de 1 a 3 anos. É o caso do Ninho Fases 1+.",
+          "**Fórmula infantil de seguimento para crianças de primeira infância** é uma categoria própria, para crianças de 1 a 3 anos. É o caso do Ninho Fases 1+.",
           "Os rótulos de leite, composto e fórmula Ninho avisam que o produto não deve ser usado para alimentar crianças menores de 1 ano."
         ],
         "image": "/images/reviews/nutren/ninho-integral-instantaneo-oficial.webp",
@@ -51594,7 +51594,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ninho Fases 1+ e Fases 3+: o que muda",
         "paragraphs": [
-          "O **Ninho Fases 1+** é uma fórmula infantil de seguimento para crianças de 1 a 3 anos. A Nestlé destaca os prebióticos (FOS e inulina) e nutrientes que, segundo a marca, contribuem para a imunidade. Na tabela da loja, ele tem 4,2 g de açúcares adicionados a cada 100 g de pó, e o preparo segue o de fórmula: água fervida, resfriada a cerca de 70 °C, e colher-medida nivelada.",
+          "O **Ninho Fases 1+** é uma fórmula infantil de seguimento para crianças de 1 a 3 anos, com prebióticos (FOS e inulina) na lista de ingredientes. Na tabela da loja, ele tem 4,2 g de açúcares adicionados a cada 100 g de pó, e o preparo segue o de fórmula: água fervida, resfriada a cerca de 70 °C, e colher-medida nivelada.",
           "O **Ninho Fases 3+** é um composto lácteo com óleos vegetais e fibras para crianças a partir de 3 anos, com ferro, cálcio, zinco e vitaminas A, C, D, E e do complexo B.",
           "O Guia Alimentar do Ministério da Saúde para menores de 2 anos recomenda manter a amamentação e não oferecer alimentos com açúcar adicionado nessa idade. A escolha do leite da criança é uma conversa para ter com o pediatra ou nutricionista."
         ],
@@ -51610,7 +51610,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O **Ninho Forti+ Fibras** é um composto lácteo com fibras vendido em sachê de 750 g. A Nestlé o descreve como rico em cálcio, ferro, zinco e vitaminas A, C, D e E, e fonte de fibras.",
           "O **Ninho Zero Lactose** é um composto lácteo com maltodextrina para quem não consome lactose. O **Ninho Adulto** é um leite em pó semidesnatado com 43% menos gordura total que o Ninho Integral, segundo a marca.",
-          "Há ainda o **Ninho NutriAdvance**, um suplemento alimentar em pó com arroz e aveia indicado pela marca para crianças de 4 a 8 anos."
+          "Há ainda o **Ninho NutriAdvance**, um suplemento alimentar em pó com arroz e aveia para crianças de 4 a 8 anos, segundo a embalagem."
         ],
         "image": "/images/reviews/nutren/ninho-forti-fibras-oficial.webp",
         "imageAlt": "Foto oficial da Nestlé: sachê de Ninho Forti+ Composto Lácteo com Fibras de 750 g",
@@ -51620,7 +51620,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mucininho: o cereal Mucilon que contém Ninho",
         "paragraphs": [
-          "O **Mucilon Mucininho** é um cereal da Nestlé com o selo \"contém Ninho\" na embalagem, indicado para crianças a partir de 3 anos. Ele vem em sachês de 160 g e 560 g.",
+          "O **Mucilon Mucininho** é um cereal da Nestlé com o selo \"contém Ninho\" na embalagem, para crianças a partir de 3 anos. Ele vem em sachês de 160 g e 560 g.",
           "Um detalhe que muita gente erra: o Mucininho é preparado **com leite, não com água**. Para beber, a marca indica 20 g (2 ½ colheres de sopa) em 190 ml de leite. O produto contém glúten."
         ],
         "image": "/images/reviews/nutren/mucilon-mucininho-oficial.webp",
@@ -51633,7 +51633,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual Ninho usar em bolo e recheio",
         "paragraphs": [
           "Quando uma receita de bolo de Ninho ou recheio de Ninho pede \"leite Ninho\", ela está falando do **Leite Ninho Integral**, o leite em pó. É ele que dá o sabor e a cor clara que todo mundo procura.",
-          "Composto lácteo e fórmula infantil têm outros ingredientes, como óleos vegetais, fibras e açúcares, e custam mais por quilo. Não testamos esses produtos em doce; para cozinhar, o leite em pó integral é a escolha mais simples e mais barata.",
+          "Composto lácteo e fórmula têm outros ingredientes e custam mais por quilo; para cozinhar, o leite em pó integral é a escolha mais simples e mais barata.",
           "O Ninho Integral Instantâneo também serve: é leite em pó integral que dissolve em qualquer temperatura, segundo a Nestlé. Para polvilhar o bolo pronto, peneire o leite em pó por cima na hora de servir."
         ],
         "image": "/images/reviews/nutren/ninho-bolo-receitas-nestle-oficial.webp",
@@ -51666,7 +51666,7 @@ export const reviewsData: unknown[] = [
           "A Nestlé Nutre é a loja oficial da Nestlé e vende a linha Ninho direto da marca. Os preços abaixo são os exibidos na loja em 4 de outubro de 2026, apenas para os produtos com estoque naquele dia. No teste que fizemos no checkout no mesmo dia, o cupom **CECI** deu 10% de desconto nos produtos Ninho; a coluna do cupom aplica esses 10% sobre o preço do site."
         ],
         "comparisonTable": {
-          "caption": "Linha Ninho na Nestlé Nutre: preços com estoque em 4 de outubro de 2026",
+          "caption": "Linha Ninho na Nestlé Nutre: preços com estoque no dia da consulta",
           "headers": [
             "Produto",
             "Preço no site",
@@ -51745,7 +51745,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vale a pena comprar Ninho na Nestlé Nutre?",
         "paragraphs": [
           "Para quem já usa Ninho todo mês, sim: a loja é da própria Nestlé, o cupom **CECI** deu 10% no checkout e a assinatura baixa o preço de vários itens, com a opção de cancelar sem custo e pular até duas entregas por ano.",
-          "O ponto de atenção é o estoque. Em 4 de outubro de 2026, mais da metade dos itens da linha mostrava \"Avise-me\"; antes de contar com um item fixo na assinatura, veja se ele está disponível."
+          "O ponto de atenção é o estoque. Na consulta, mais da metade dos itens da linha mostrava \"Avise-me\"; antes de contar com um item fixo na assinatura, veja se ele está disponível."
         ],
         "links": [
           {
@@ -51760,7 +51760,7 @@ export const reviewsData: unknown[] = [
           "A escolha depende do uso, e o nome técnico na frente da embalagem diz o que o produto é:"
         ],
         "bullets": [
-          "Café, vitamina, bolo e recheio: **Leite Ninho Integral**, o leite em pó. O Integral Instantâneo também serve, e custava R$ 19,81 (lata de 380 g) na Nestlé Nutre em 4 de outubro de 2026.",
+          "Café, vitamina, bolo e recheio: **Leite Ninho Integral**, o leite em pó. O Integral Instantâneo também serve, e custava R$ 19,81 (lata de 380 g) na Nestlé Nutre.",
           "Criança de 1 a 3 anos: o Ninho Fases 1+ é fórmula infantil de seguimento. A partir de 3 anos, o Fases 3+ é composto lácteo. A escolha do leite da criança é conversa para ter com o pediatra ou nutricionista.",
           "Família: o Forti+ Fibras e o Zero Lactose são compostos lácteos, e o Ninho Adulto é leite semidesnatado.",
           "Comprar com desconto: na Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (**CECI**) deu 10% no nosso teste de checkout, e a assinatura reduz o preço de parte da linha."
@@ -51775,7 +51775,7 @@ export const reviewsData: unknown[] = [
           "Qual Ninho usar no recheio de Ninho? O Leite Ninho Integral. Misture com o leite condensado com a panela fria para não empelotar.",
           "Bebê menor de 1 ano pode tomar Ninho? Não. Os rótulos de leite, composto e fórmula Ninho avisam que o produto não deve ser usado para alimentar crianças menores de 1 ano.",
           "O Mucininho tem Ninho? Sim. O Mucilon Mucininho traz o selo \"contém Ninho\" e é indicado a partir de 3 anos, preparado com leite.",
-          "Tem cupom de desconto para leite Ninho? Sim. Na Nestlé Nutre, o cupom CECI deu 10% de desconto nos produtos Ninho no nosso teste de checkout de 4 de outubro de 2026. Confira o percentual no carrinho, porque ele pode mudar.",
+          "Tem cupom de desconto para leite Ninho? Sim. Na Nestlé Nutre, o cupom CECI deu 10% de desconto nos produtos Ninho no nosso teste de checkout. Confira o percentual no carrinho, porque ele pode mudar.",
           "Vale a pena assinar Ninho na Nestlé Nutre? Para quem compra todo mês, sim: a assinatura dá de 10% a 25% em parte da linha. O Ninho Fases 1+ não tem desconto extra na assinatura."
         ]
       }
@@ -61015,7 +61015,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comparar os três rótulos",
         "paragraphs": [
-          "Não existe um melhor entre os três, e a escolha depende da dose que o médico ou o nutricionista indicou. O que muda de um rótulo para o outro é a base dos números, e é isso que este capítulo explica.",
+          "O que muda de um rótulo para o outro é a base dos números, e é isso que este capítulo explica antes da tabela.",
           "Cada marca escolhe uma base. A Nutren publica a tabela por porção (27,5 g, 31,5 g ou 55 g, conforme a versão), a Sustagen usa a porção de 40 g, e a página do Ensure fala em 6 medidas por porção, sem dizer quantos gramas são.",
           "Para comparar, olhe a mesma coisa nos três: o tamanho da porção, a proteína por dose, o cálcio, a vitamina D, a lactose e o glúten. A tabela abaixo junta o que cada página oficial informa; o glúten fica na seção Lactose e glúten."
         ],
@@ -61100,7 +61100,7 @@ export const reviewsData: unknown[] = [
           "O Sem Sabor Zero Lactose usa 3 colheres de sopa rasas (27,5 g) em 180 ml de água, e a lata de 740 g rende cerca de 27 porções. O rótulo se apresenta como \"composto lácteo com cálcio, proteínas, vitamina D e outros nutrientes essenciais. Zero lactose.\"",
           "O Café com Leite também é composto lácteo e usa 3 colheres de sopa (31,5 g) por porção, com 11 g de proteína e 25 µg de vitamina D.",
           "O Sem Sabor comum, sem a indicação zero lactose, é vendido como suplemento alimentar. A tabela dele usa a porção de 55 g (6 colheres de sopa), com 20 g de proteína, e a sugestão de uso prepara 27,5 g por vez.",
-          "O preparo sem empelotar e a ficha completa do Zero Lactose estão nos nossos outros guias."
+          "Quem ficar com o Zero Lactose encontra o preparo no guia sem empelotar e a ficha completa no guia do Zero Lactose."
         ],
         "image": {
           "src": "/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
@@ -61125,13 +61125,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A página oficial do Ensure informa 17 g de proteína em duas porções diárias e 28 vitaminas e minerais, \"com alto teor de vitamina C, D, e Cálcio\". Ela diz também que o produto não contém glúten e que a lata vem em 400 g e 850 g.",
           "O preparo é de 6 medidas em 195 ml de água, e a lata de 400 g rende cerca de 7 porções. Segundo a Abbott, o Ensure pó contém lactose; só o Ensure Protein não contém.",
-          "O texto da página não traz a tabela por porção. Sem ela, não dá para pôr o cálcio e a vitamina D do Ensure em miligramas e microgramas ao lado dos outros dois."
+          "O texto da página não traz a tabela por porção. Sem ela, o cálcio e a vitamina D do Ensure não entram na comparação em números: vale o que está impresso na lata."
         ]
       },
       {
         "heading": "Sustagen Senior Sem Sabor: o que a Sustagen informa",
         "paragraphs": [
-          "A porção é de 40 g (3 colheres de sopa cheias) em 180 ml de água, com 140 kcal, 11 g de proteína, 397 mg de cálcio e 4,8 µg de vitamina D, segundo a tabela da página oficial. A marca destaca 22 g de proteína em duas porções e diz que duas porções preparadas fornecem 80% da recomendação diária de cálcio.",
+          "A porção é de 3 colheres de sopa cheias em 180 ml de água, e os números dela estão na tabela acima, segundo a página oficial. A marca destaca 22 g de proteína em duas porções e diz que duas porções preparadas fornecem 80% da recomendação diária de cálcio.",
           "O rótulo informa que o produto não contém glúten, contém lactose e derivados de leite, e pode conter peixe e soja. A página lembra que ele não substitui uma alimentação saudável e balanceada."
         ]
       },
@@ -61190,7 +61190,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Quem precisa evitar lactose: só o Nutren Senior Sem Sabor Zero Lactose informa 0 g de lactose por porção na tabela oficial; o Sustagen Senior avisa que contém lactose, e a Abbott diz o mesmo do Ensure pó.",
-          "Quem quer a tabela completa para comparar: Nutren Senior (por porção de 27,5 g, 31,5 g ou 55 g) e Sustagen Senior (40 g, com 11 g de proteína e 397 mg de cálcio). O Ensure só informa 17 g de proteína em duas porções diárias e não publica a tabela por porção.",
+          "Quem quer a tabela completa para comparar: Nutren Senior e Sustagen Senior publicam tudo por porção, e o Ensure não publica a tabela por porção.",
           "Quem compara proteína por dose: a conta só vale com a mesma porção, e o Ensure não informa o peso da porção.",
           "Em qualquer caso, leve a lata ou a foto do rótulo à consulta."
         ]
@@ -61205,7 +61205,7 @@ export const reviewsData: unknown[] = [
           "Nutren Senior tem lactose? A versão Sem Sabor Zero Lactose tem 0 g de lactose por porção, segundo a tabela oficial. As páginas do Café com Leite e do Sem Sabor comum não trazem a linha de lactose: confira o rótulo da lata.",
           "Ensure tem lactose? Sim: segundo a Abbott, o Ensure pó contém lactose, e só o Ensure Protein não contém.",
           "Sustagen Senior tem lactose? Sim: o rótulo oficial diz \"contém lactose\".",
-          "Qual tem mais proteína por porção? Depende do tamanho da porção: o Nutren Senior Sem Sabor comum tem 20 g em 55 g de pó; os outros ficam entre 10 g e 11 g por porção, e o Ensure informa 17 g em duas porções, sem dizer o peso delas."
+          "Qual tem mais proteína por porção? Depende do tamanho da porção: a tabela do capítulo Os três rótulos lado a lado põe as doses lado a lado, e o Ensure informa 17 g em duas porções, sem dizer o peso delas."
         ]
       }
     ],
@@ -63430,7 +63430,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "Nomes e descrições da loja oficial da Nestlé Nutre em 12/10/2026.",
+          "caption": "Nomes e descrições da loja oficial da Nestlé Nutre.",
           "headers": [
             "Produto",
             "O que é, segundo a Nestlé",
@@ -63574,7 +63574,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Protein ou whey protein",
         "paragraphs": [
-          "Pelo rótulo, a diferença principal é o que vem junto da proteína. Em 31,5 g, o Nutren Protein em pó traz 14 g de proteína, 10 g de açúcares totais, 80 mg de cafeína e vitaminas e minerais. O Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", traz 13 g de proteína em 15 g, com carboidratos e açúcares em 0 g; a tabela dele não tem linha de cafeína nem de vitaminas, e o rótulo lista só proteína isolada do soro de leite de vaca e lecitina de soja.",
+          "Pelo rótulo, a diferença principal é o que vem junto da proteína. O pó traz a proteína junto com cafeína, lactose, glúten e vitaminas e minerais (números na tabela acima); quem quer só a proteína do soro está falando do Just Protein. O Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", traz 13 g de proteína em 15 g, com carboidratos e açúcares em 0 g; a tabela dele não tem linha de cafeína nem de vitaminas, e o rótulo lista só proteína isolada do soro de leite de vaca e lecitina de soja.",
           "Se você compara com o whey de outra marca, use o rótulo dele: proteína por porção, tamanho da porção, açúcares e se tem cafeína. A ficha completa do isolado da Nestlé está no nosso guia do Just Protein."
         ],
         "images": [
@@ -63595,14 +63595,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Protein ou YoPRO",
         "paragraphs": [
-          "Aqui a comparação direta é entre bebidas prontas. A garrafa de 260 ml do Nutren Protein tem 15 g de proteína e 112 kcal na baunilha (114 kcal na de chocolate); a YoPRO de chocolate, de 250 ml, tem 15 g de proteína e 172 kcal. A YoPRO tem mais açúcares totais na embalagem (18 g contra 12 g), mas nas duas tabelas os açúcares adicionados são 0 g, e as duas trazem lactose 0 g. Pelas páginas oficiais, em 12/10/2026, a linha de 15 g da YoPRO tinha chocolate, morango e coco com batata doce.",
+          "Aqui a comparação direta é entre bebidas prontas. As duas bebidas prontas têm a mesma proteína na embalagem, mas a YoPRO de chocolate pesa mais em calorias e açúcares (números na tabela acima). Nas duas tabelas os açúcares adicionados são 0 g, e as duas trazem lactose 0 g. Pelas páginas oficiais, a linha de 15 g da YoPRO tem chocolate, morango e coco com batata doce.",
           "O pó do Nutren Protein é outra coisa: você prepara, ele tem cafeína e o número de 20 g depende do leite. A linha UHT da YoPRO, segundo a marca, não precisa de refrigeração."
         ]
       },
       {
         "heading": "Nutren Protein ou Nutren Senior",
         "paragraphs": [
-          "Na mesma porção de 31,5 g, o Nutren Protein Baunilha tem 14 g de proteína, 441 mg de cálcio e 3,2 µg de vitamina D. O Nutren Senior Café com Leite tem 11 g de proteína, 375 mg de cálcio e 25 µg de vitamina D, e a tabela dele não traz linha de cafeína.",
+          "Na mesma porção de 31,5 g, o Protein leva vantagem em proteína (14 g contra 11 g, na tabela acima) e em cálcio (441 mg contra 375 mg), e o Senior, em vitamina D (25 µg contra 3,2 µg). A tabela do Senior não traz linha de cafeína.",
           "A indicação também muda. A Nestlé descreve o Senior como linha para adultos acima dos 50 anos. Para o Nutren Protein, a página do Baunilha fala em \"jovens e adultos que querem mais foco e energia\"; a do Chocolate acrescenta pessoas \"especialmente a partir dos 50 anos\". Se a dúvida é lactose, a ficha do Senior Zero Lactose está no nosso guia."
         ],
         "image": {
@@ -63622,7 +63622,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes ou depois do treino, engorda ou emagrece: o que o rótulo permite dizer",
         "paragraphs": [
-          "Nenhum dos rótulos que lemos diz que o produto engorda ou emagrece. O que eles informam são calorias e proteína por porção: 120 kcal no pó do Nutren Protein Baunilha (182 kcal com 180 ml de leite desnatado), 112 kcal na garrafa de baunilha (114 kcal na de chocolate) e 172 kcal na YoPRO de chocolate. O efeito no peso depende de tudo o que você come no dia.",
+          "Nenhum dos rótulos que lemos diz que o produto engorda ou emagrece. O que eles informam são calorias e proteína por porção, na tabela comparativa. O efeito no peso depende de tudo o que você come no dia.",
           "Sobre o horário, a Nestlé escreve, na página do pó, que o Nutren Protein pode ser \"uma opção de pré ou pós treino\", e a YoPRO, que pode ser consumida \"pré-treino, pós-treino ou no intervalo entre as refeições\". São frases das marcas. Para saber a quantidade e o horário certos no seu caso, procure um médico ou nutricionista."
         ]
       },
@@ -63645,14 +63645,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando procurar médico ou nutricionista",
         "paragraphs": [
-          "Segundo o FAQ da Nestlé, o Nutren Protein é um suplemento \"destinado a complementar sua alimentação\" e \"não oferece 100% da necessidade proteica de um adulto\". Para diabetes e cirurgia bariátrica, o FAQ da marca manda procurar médico ou nutricionista, e a YoPRO também manda consultar um médico ou nutricionista quando perguntam se ela substitui o whey. Vale também para quem tem 50 anos ou mais e está em dúvida entre o Protein e o Senior."
+          "A Nestlé diz no FAQ que o Nutren Protein complementa a alimentação e não cobre sozinho a necessidade de proteína de um adulto. Para diabetes e cirurgia bariátrica, o FAQ da marca manda procurar médico ou nutricionista, e a YoPRO também manda consultar um médico ou nutricionista quando perguntam se ela substitui o whey. Vale também para quem tem 50 anos ou mais e está em dúvida entre o Protein e o Senior."
         ]
       },
       {
-        "heading": "Preço em 12/10/2026 e o cupom CECI",
+        "heading": "Preço e o cupom CECI",
         "paragraphs": [
           "Na loja oficial, em 12/10/2026, o Nutren Protein de 400 g (baunilha ou chocolate) custava R$ 79,72 na compra única (de R$ 93,79), e o de 800 g (baunilha), R$ 134,71 (de R$ 168,39). A garrafa de 260 ml (baunilha ou chocolate) saía por R$ 10,59, e o Nutren Just Protein 280 g, por R$ 115,91. Preço muda com promoção: confira no carrinho.",
-          "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja oficial (conferido em 04/10/2026). Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Não temos código para a YoPRO."
+          "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja oficial. Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Não temos código para a YoPRO."
         ],
         "links": [
           {
@@ -63679,7 +63679,7 @@ export const reviewsData: unknown[] = [
           "Nutren Protein é a mesma coisa que Nutren Just Protein? Não: o Nutren Protein em pó é um suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", e o Nutren Just Protein é \"100% whey protein isolado\" e sem sabor, segundo a Nestlé; a versão pronta para beber do Nutren Protein tem outra tabela.",
           "Nutren Protein é whey protein? O pó contém whey, mas não é só whey: a página o descreve como suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", com 14 g de proteína em 31,5 g de pó.",
           "Qual a diferença entre Nutren Protein e whey protein? Whey é a proteína do soro do leite, uma categoria; o Nutren Protein em pó é um produto com whey, cafeína, vitaminas e minerais, e cada whey de outra marca tem a sua tabela.",
-          "Nutren Protein engorda ou emagrece? O rótulo não afirma nenhum dos dois: são 120 kcal por porção de 31,5 g do pó Baunilha (182 kcal com 180 ml de leite desnatado) e 112 kcal na garrafa de baunilha, e o peso depende de toda a alimentação; para o seu caso, pergunte a um nutricionista.",
+          "Nutren Protein engorda ou emagrece? O rótulo não afirma nenhum dos dois; as calorias por porção estão na tabela comparativa, e para o seu caso, pergunte a um nutricionista.",
           "Nutren Protein antes ou depois do treino? A página do Nutren Protein em pó diz que ele pode ser \"uma opção de pré ou pós treino\"; para saber o horário e a quantidade certos no seu caso, procure um médico ou nutricionista.",
           "Nutren Protein tem 20 g de proteína? Só com 180 ml de leite desnatado: 14 g vêm do pó e 6 g do leite; o pó sozinho tem 14 g por porção.",
           "Nutren Protein tem cafeína? O pó tem 80 mg por porção de 31,5 g, e a Nestlé avisa que não deve ser consumido por gestantes, lactantes e crianças; a tabela da garrafa de 260 ml não traz linha de cafeína.",
@@ -63687,8 +63687,8 @@ export const reviewsData: unknown[] = [
           "Existe Nutren Protein sem sabor? Não: o pó vem em baunilha e chocolate; sem sabor, a Nestlé vende o Nutren Just Protein, e o Nutren Senior também tem versão sem sabor.",
           "Nutren Protein: qual a diferença entre baunilha e chocolate? Em 31,5 g de pó, o Baunilha tem 120 kcal e 441 mg de cálcio e o Chocolate, 116 kcal e 473 mg; os dois têm 14 g de proteína, 10 g de açúcares totais e 80 mg de cafeína, segundo a Nestlé.",
           "O que é o Nutren Protein 15g? É a bebida pronta de 260 ml, com 15 g de proteína na garrafa; o sachê de 15 g é do Nutren Just Protein, com 13 g de proteína.",
-          "Nutren Protein ou YoPRO: qual escolher? As duas bebidas prontas têm 15 g de proteína; a garrafa do Nutren Protein tem 112 kcal (baunilha) ou 114 kcal (chocolate) e 12 g de açúcares totais, e a YoPRO de chocolate, 172 kcal e 18 g, sem açúcares adicionados nas duas.",
-          "Nutren Protein ou Nutren Senior: qual o melhor? Nos rótulos que lemos, nenhum se diz melhor: em 31,5 g, o Protein Baunilha tem 14 g de proteína e 3,2 µg de vitamina D, e o Senior Café com Leite tem 11 g e 25 µg, e a tabela do Senior não traz linha de cafeína.",
+          "Nutren Protein ou YoPRO: qual escolher? As duas bebidas prontas têm a mesma proteína; a diferença está nas calorias e nos açúcares, detalhados no capítulo Nutren Protein ou YoPRO.",
+          "Nutren Protein ou Nutren Senior: qual o melhor? Nos rótulos que lemos, nenhum se diz melhor; a comparação por porção está no capítulo Nutren Protein ou Nutren Senior, e a tabela do Senior não traz linha de cafeína.",
           "Nutren ou whey protein para idoso? O rótulo não decide isso: a Nestlé descreve o Senior como linha para adultos acima dos 50 anos, a página do Nutren Protein Chocolate cita pessoas \"especialmente a partir dos 50 anos\" e o pó do Nutren Protein tem 80 mg de cafeína por porção; a escolha deve ser feita com médico ou nutricionista.",
           "Quantas porções tem a lata de 800 g do Nutren Protein? Cerca de 25 porções de 31,5 g, e a de 400 g, cerca de 13, segundo a tabela."
         ]
@@ -86631,7 +86631,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nanlac Supreme Pro e o Nanlac Comfor HMO são fórmulas da Nestlé para crianças de 1 a 3 anos, e os dois contêm leite, lactose e soja. O Supreme Pro declara quatro HMOs e o Comfor, um, e o Comfor custava menos a lata em 17/10/2026. Veja o capítulo \"Para quem cada uma faz sentido, pelo rótulo\"."
+          "O Nanlac Supreme Pro e o Nanlac Comfor HMO são fórmulas da Nestlé para crianças de 1 a 3 anos, e os dois contêm leite, lactose e soja. O Supreme Pro declara quatro HMOs e o Comfor, um. O que pesa é o número de HMOs declarados de um lado e GOS, FOS e o menor preço do outro, como detalha o capítulo \"Para quem cada uma faz sentido, pelo rótulo\"."
         ]
       },
       {
@@ -86682,7 +86682,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que cada rótulo declara",
         "paragraphs": [
-          "Os números do Supreme Pro vêm da página da Nestlé Nutre. Os do Comfor vêm do verso da lata de 800 g, lido na galeria de fotos da Nestlé Nutre em 17/10/2026. A tabela em texto da página da loja traz números um pouco diferentes da lata, e usamos o rótulo impresso na lata. A comparação é só do que está impresso e não diz qual fórmula \"faz mais\" por uma criança."
+          "Os números são os do rótulo: o do Supreme Pro, lido na página da Nestlé Nutre, e o do Comfor, impresso no verso da lata de 800 g, lido na galeria de fotos da loja (a tabela em texto da página traz valores um pouco diferentes). A comparação é só do que está declarado no rótulo, e a escolha entre as fórmulas é do pediatra ou nutricionista."
         ],
         "comparisonTable": {
           "headers": [
@@ -86775,7 +86775,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preparo e rendimento",
         "paragraphs": [
-          "O Supreme Pro usa 14,1 g de pó para 90 ml de água, que rendem 100 ml, com colher-medida de 4,7 g. O Comfor usa as mesmas medidas, segundo o rótulo: 14,1 g de pó com 90 ml de água rendem 100 ml, a colher-medida tem 4,7 g e cada colher rasa vai em 30 ml de água. Para um copo de 210 ml, são 7 medidas rasas.",
+          "O preparo é o mesmo nos dois, e as medidas estão na tabela abaixo.",
           "Nos dois, a água é fervida por 5 minutos e esfriada até 70 °C na hora de misturar. A lata do Comfor manda conferir a temperatura no punho, em cerca de 40 °C, antes de oferecer."
         ],
         "comparisonTable": {
@@ -86787,8 +86787,23 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Pó por 100 ml preparado",
-              "14,1 g",
-              "14,1 g"
+              "14,1 g (com 90 ml de água)",
+              "14,1 g (com 90 ml de água)"
+            ],
+            [
+              "Colher-medida",
+              "4,7 g",
+              "4,7 g"
+            ],
+            [
+              "Água por colher rasa",
+              "30 ml",
+              "30 ml"
+            ],
+            [
+              "Copo de 210 ml",
+              "7 medidas rasas",
+              "7 medidas rasas"
             ],
             [
               "Rendimento de 800 g",
@@ -86796,7 +86811,7 @@ export const reviewsData: unknown[] = [
               "cerca de 5,7 L (conta nossa)"
             ],
             [
-              "Preço da lata, Nestlé Nutre, 17/10/2026",
+              "Preço da lata, Nestlé Nutre",
               "R$ 95,53",
               "R$ 69,35"
             ],
@@ -86818,15 +86833,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Recolhimento de janeiro: lotes do Comfor",
         "paragraphs": [
-          "O Comfor 800 g também entrou no recolhimento de janeiro de 2026 (Anvisa, RE nº 32/2026). Estes são os lotes e as validades informados no comunicado da Nestlé (nestlefamilynes.com.br/recolhimento-de-produto):"
+          "O Comfor 800 g também entrou no recolhimento de janeiro de 2026. Estes são os lotes e as validades do comunicado da Nestlé (nestlefamilynes.com.br/recolhimento-de-produto):"
         ],
         "bullets": [
-          "Lote 5327046041, validade 01/11/2026",
-          "Lote 5327046043, validade 01/11/2026",
-          "Lote 5328046041, validade 01/11/2026",
-          "Lote 5336046041, validade 01/12/2026",
-          "Lote 5337046041, validade 01/12/2026",
-          "Lote 5338046041, validade 01/12/2026"
+          "Validade em novembro, lotes 5327046041, 5327046043 e 5328046041",
+          "Validade em dezembro, lotes 5336046041, 5337046041 e 5338046041"
         ],
         "postParagraphs": [
           "Se o lote da sua lata estiver na lista, não use e fale com o SAC da Nestlé."
@@ -86842,10 +86853,10 @@ export const reviewsData: unknown[] = [
           "Quem procura GOS, FOS e nucleotídeos na tabela encontra os três no Comfor.",
           "Quem compara proteína, DHA e ARA por 100 g vê números maiores no Supreme Pro.",
           "Quem compara açúcares adicionados vê 31 g por 100 g no Supreme Pro e 5,1 g no Comfor.",
-          "Quem compara preço por litro preparado paga menos no Comfor, com os preços de 17/10/2026."
+          "Quem compara preço por litro preparado paga menos no Comfor."
         ],
         "postParagraphs": [
-          "Lotes específicos do Supreme Pro 800 g entraram no recolhimento de janeiro de 2026 (Anvisa, RE nº 32/2026). Antes de usar uma lata comprada no começo do ano, veja como conferir o lote no [guia do Nanlac Supreme Pro](/reviews/nanlac-supreme-pro-1-a-3-anos)."
+          "Lotes específicos do Supreme Pro 800 g entraram no recolhimento de janeiro. Antes de usar uma lata comprada no começo do ano, veja como conferir o lote no [guia do Nanlac Supreme Pro](/reviews/nanlac-supreme-pro-1-a-3-anos)."
         ]
       },
       {
@@ -86886,17 +86897,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Nanlac Supreme Pro ou Comfor: qual escolher? Não há resposta única. O Supreme Pro declara 4 HMOs e mais proteína, DHA e ARA por 100 g. O Comfor declara 1 HMO, GOS, FOS e nucleotídeos e custa menos por lata. A escolha é do pediatra ou nutricionista.",
-          "O Nanlac Comfor tem HMO? Tem um: o 2'-fucosilactose (2'-FL), com 0,2 g por 100 g, segundo o verso da lata. O Supreme Pro declara quatro HMOs.",
+          "O Nanlac Comfor tem HMO? Tem um, o 2'-fucosilactose (2'-FL), e o Supreme Pro declara quatro; os valores estão na tabela do capítulo O que cada rótulo declara.",
           "Nanlac Comfor é fórmula infantil ou composto lácteo? É fórmula infantil de primeira infância, segundo a página da Nestlé Nutre.",
           "Nanlac Comfor e Supreme Pro servem para menores de 1 ano? Não. As páginas da Nestlé Nutre trazem o aviso de que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade.",
           "O Comfor contém lactose, leite e soja? Contém lactose, leite e derivados de soja, segundo a lata. Não contém glúten.",
           "Quanto tempo dura a lata aberta? O rótulo do Comfor indica até 30 dias, e o rótulo do Supreme Pro diz o mesmo."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um guia de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras na Nestlé Nutre com o código CECI. Fonte: páginas de produto da Nestlé Nutre e rótulo da lata do Comfor na galeria da loja, lidos em 17/10/2026. Não recebemos nem usamos os produtos. Preço e desconto mudam: confira antes de comprar."
         ]
       }
     ],
@@ -87351,7 +87356,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nanlac Supreme Pro e o Ninho Fases 1+ são fórmulas da Nestlé para crianças de 1 a 3 anos. O Nanlac declara HMOs, DHA e ARA; o Ninho declara prebióticos, tem menos açúcares adicionados e custa cerca da metade por 100 g em 17/10/2026 (conta nossa). O capítulo Para quem cada um faz sentido, pelo rótulo mostra a escolha."
+          "O Nanlac Supreme Pro e o Ninho Fases 1+ são fórmulas da Nestlé para crianças de 1 a 3 anos. O que pesa é HMO, DHA e ARA no Nanlac contra prebióticos, menos açúcar adicionado e cerca da metade do preço por 100 g no Ninho. O capítulo Para quem cada um faz sentido, pelo rótulo detalha a escolha."
         ]
       },
       {
@@ -87401,7 +87406,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "HMO, DHA e ARA contra prebióticos: o que cada rótulo declara",
         "paragraphs": [
-          "O Nanlac Supreme Pro declara quatro oligossacarídeos do leite humano (HMOs): 2'-FL, LNT, 3'-SL e 6'-SL. Declara também ARA e DHA, obtidos de óleos de microrganismos, com 85 mg de cada um por 100 g de pó.",
+          "O Nanlac Supreme Pro declara quatro oligossacarídeos do leite humano (HMOs): 2'-FL, LNT, 3'-SL e 6'-SL. Declara também ARA e DHA, obtidos de óleos de microrganismos, nos valores da tabela abaixo.",
           "O Ninho Fases 1+ declara dois prebióticos: fruto-oligossacarídeos (FOS), 2,7 g por 100 g, e inulina, 1,2 g por 100 g. A Nestlé descreve prebióticos como fibras não digeríveis. O rótulo do Ninho não traz DHA, ARA nem HMO."
         ],
         "comparisonTable": {
@@ -87450,7 +87455,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela nutricional lado a lado",
         "paragraphs": [
-          "Os números abaixo vêm do rótulo do Nanlac Supreme Pro, lido na página da Nestlé Nutre em 17/10/2026, e do verso da lata nova do Ninho Fases 1+ (\"Nova embalagem\"), lido na galeria de fotos da Nestlé Nutre na mesma data. A tabela em texto da página da loja é de uma versão anterior, antes da troca do óleo de milho pelo de soja que a própria Nestlé informa, e usamos a lata nova. \"100 ml preparado\" é a diluição de 14,1 g de pó em 90 ml de água no Nanlac e de 13,8 g em 90 ml no Ninho."
+          "Os números são os do rótulo, lidos na página e na galeria de fotos da Nestlé Nutre: o do Nanlac Supreme Pro e o da lata nova do Ninho Fases 1+ (\"Nova embalagem\", com óleo de soja). \"100 ml preparado\" é a diluição de 14,1 g de pó em 90 ml de água no Nanlac e de 13,8 g em 90 ml no Ninho."
         ],
         "comparisonTable": {
           "headers": [
@@ -87527,7 +87532,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Calorias e gorduras ficam muito próximas. As diferenças maiores estão nos açúcares adicionados (31 g contra 1,5 g por 100 g de pó) e na proteína (10 g contra 12 g). Esses são dois números para levar à conversa com o pediatra."
+          "Calorias e gorduras ficam muito próximas. As diferenças maiores estão nos açúcares adicionados e na proteína, na tabela acima. Leve esses dois números à conversa com o pediatra."
         ],
         "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-tabela-ingredientes.webp",
         "imageAlt": "Verso da lata do Nanlac Supreme Pro com a informação nutricional por 100 g e 100 ml e a lista de ingredientes",
@@ -87632,8 +87637,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Contas nossas: preço dividido pelo peso da lata, e depois pelas medidas do rótulo de cada produto (14,1 g por 100 ml no Nanlac, 13,8 g no Ninho). Na lata de 800 g, o Nanlac fica em R$ 11,94 por 100 g contra R$ 6,18 do Ninho, cerca de 1,9 vez. Na Nestlé Nutre, o Ninho de 800 g saiu mais caro por 100 g do que o de 400 g e o de 1,2 kg. O Nanlac tem ainda o combo \"leve 5, pague 4\" por R$ 449,56 (conta nossa: R$ 89,91 por lata).",
-          "O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos são de 1 a 3 anos e não estão nas exceções, mas confira o valor final no resumo do pedido antes de pagar. As condições vigentes ficam na página do [cupom Nestlé Nutre](/cupons/nestle-nutre). Preço e desconto mudam, e o que vale é o da loja no momento da compra."
+          "Contas nossas: preço dividido pelo peso da lata, e depois pelas medidas do rótulo de cada produto (14,1 g por 100 ml no Nanlac, 13,8 g no Ninho). Na lata de 800 g, o Nanlac custa cerca de 1,9 vez o Ninho por 100 g. Na Nestlé Nutre, o Ninho de 800 g saiu mais caro por 100 g do que o de 400 g e o de 1,2 kg. O Nanlac tem ainda o combo \"leve 5, pague 4\" por R$ 449,56 (conta nossa: R$ 89,91 por lata).",
+          "O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos são de 1 a 3 anos e não estão nas exceções. As condições vigentes ficam na página do [cupom Nestlé Nutre](/cupons/nestle-nutre). Preço e desconto mudam, e o que vale é o da loja no momento da compra."
         ]
       },
       {
@@ -87644,7 +87649,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quem quer uma fórmula com HMOs, DHA e ARA declarados no rótulo: o Nanlac Supreme Pro é o que traz esses itens.",
           "Quem prefere menos açúcares adicionados na tabela, mais proteína por 100 g e prebióticos declarados: o Ninho Fases 1+ é o que traz esses números.",
-          "Quem compara preço por 100 g ou por copo: o Ninho Fases 1+ ficou mais barato na loja oficial em 17/10/2026.",
+          "Quem compara preço por 100 g ou por copo: o Ninho Fases 1+ ficou mais barato na loja oficial.",
           "Quem tem restrição a leite, soja ou lactose: nenhum dos dois, pelos alérgenos declarados."
         ],
         "postParagraphs": [
@@ -87657,15 +87662,9 @@ export const reviewsData: unknown[] = [
           "Nanlac ou Ninho Fases 1+? As duas são fórmulas infantis de seguimento para 1 a 3 anos. O Nanlac Supreme Pro declara HMOs, DHA e ARA; o Ninho Fases 1+ declara prebióticos (FOS e inulina) e tem bem menos açúcares adicionados por 100 g.",
           "Ninho Fases 1+ é fórmula ou composto lácteo? Segundo a lata, é fórmula infantil de seguimento para crianças de primeira infância. O composto lácteo da linha é o Ninho Fases 3+, para crianças a partir de 3 anos.",
           "Ninho Fases 1+ tem DHA ou ARA? O rótulo da lata não declara DHA nem ARA. O Nanlac Supreme Pro declara os dois.",
-          "Quanto custa o Ninho Fases 1+? Na Nestlé Nutre, em 17/10/2026, a lata de 800 g estava em R$ 49,46 (de R$ 58,19), a de 400 g em R$ 22,63 e a de 1,2 kg em R$ 62,24.",
-          "Quanto custa o Nanlac Supreme Pro? Na Nestlé Nutre, em 17/10/2026, a lata de 800 g estava em R$ 95,53 (de R$ 112,39).",
+          "Quanto custa o Ninho Fases 1+? Os preços das latas de 400 g, 800 g e 1,2 kg estão na tabela do capítulo Preço por base igual.",
+          "Quanto custa o Nanlac Supreme Pro? O preço da lata de 800 g está na tabela do capítulo Preço por base igual.",
           "Menor de 1 ano pode tomar? Não. Os dois são de 1 a 3 anos e não devem ser usados para alimentar crianças menores de 1 ano."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um guia de leitura de rótulo e de preço, sem teste de uso. Fontes: rótulo do Nanlac Supreme Pro e páginas da Nestlé Nutre, rótulo da lata nova do Ninho Fases 1+ na galeria da Nestlé Nutre e páginas do Ninho da Nestlé, lidos em 17/10/2026. O Em Casa com Cecília tem parceria comercial com a Nestlé Nutre e pode receber comissão por compras com o CECI."
         ]
       }
     ],
@@ -88080,7 +88079,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que cada página informa",
         "paragraphs": [
-          "A tabela junta o que as páginas dos fabricantes dizem, lidas em 17/10/2026. Nutren: Nestlé Nutre. Nutridrink: Mundo Danone. Os valores \"por 100 g de pó\" são conta nossa (valor da porção dividido pela porção, vezes 100)."
+          "A tabela junta o que as páginas dos fabricantes dizem. Nutren: Nestlé Nutre. Nutridrink: Mundo Danone. Conta nossa, pelos valores da porção na tabela: os valores \"por 100 g de pó\" dividem o valor da porção pelo peso dela e multiplicam por 100."
         ],
         "comparisonTable": {
           "headers": [
@@ -88143,28 +88142,28 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O Nutridrink também informa zinco, 2,8 mg por porção.",
-          "Duas declarações pedem leitura com calma. A Nutren diz \"reduzido em açúcares\", e a Danone lista 0,6 g de açúcares adicionados. Mas os açúcares totais do Nutridrink (11 g na porção) são quase o dobro dos do Nutren (5,7 g). Cada declaração vale na base da sua marca."
+          "Duas declarações pedem leitura com calma. A Nutren diz \"reduzido em açúcares\", e a Danone lista 0,6 g de açúcares adicionados. Mas, em açúcares totais por porção, o Nutridrink traz quase o dobro do Nutren, como mostra a tabela acima. Cada declaração vale na base da sua marca."
         ]
       },
       {
         "heading": "A conta da proteína",
         "paragraphs": [
           "A página do Nutridrink também fala em 25 g de proteína \"na porção diária recomendada\", sem explicar de onde vem essa base. Por isso comparamos pela porção da tabela, que o rótulo informa: 11 g de proteína em 31,5 g de pó no Nutren e 7,2 g em 30 g de pó no Nutridrink.",
-          "Como a porção é diferente, olhe também a conta por 100 g de pó. Nutren: cerca de 35 g de proteína, 1.190 mg de cálcio e 79 µg de vitamina D. Nutridrink: 24 g de proteína, 840 mg de cálcio e 9 µg de vitamina D. O Nutren tem mais de cada um por 100 g de pó, mas o que vale é a quantidade que o profissional indicar.",
-          "As duas instruções da página do Nutridrink (porção de 30 g na tabela e 50 g em 170 ml de leite no preparo) não batem entre si. Por isso não descrevemos preparo do Nutridrink aqui, e vale seguir a lata. O preparo do Nutren Senior está em [Como tomar Nutren Senior sem empelotar](/reviews/nutren-senior-como-tomar-sem-empelotar)."
+          "Como a porção é diferente, olhe também a conta por 100 g de pó. Por 100 g de pó, o Nutren traz mais dos três, e a distância maior é na vitamina D; os valores estão na tabela acima. Mas o que vale é a quantidade que o profissional indicar.",
+          "As duas instruções da página do Nutridrink (porção de 30 g na tabela e 50 g em 170 ml de leite no preparo) não batem entre si. No preparo do Nutridrink, siga as instruções da lata e confira a embalagem que chegar. O preparo do Nutren Senior está em [Como tomar Nutren Senior sem empelotar](/reviews/nutren-senior-como-tomar-sem-empelotar)."
         ]
       },
       {
-        "heading": "Preço em 17/10/2026",
+        "heading": "Preço da lata e da porção",
         "paragraphs": [
-          "Nutren Senior Baunilha 740 g, na Nestlé Nutre, em 17/10/2026: de R$ 188,19 por R$ 169,37. Nutridrink Protein Senior Café com Leite 750 g, no Mundo Danone, em 17/10/2026: de R$ 151,99 por R$ 121,59, ou R$ 109,43 na compra programada. Preço e estoque mudam, e vale o que aparece na loja na hora."
+          "Preços lidos em 17/10/2026. Nutren Senior Baunilha 740 g, na Nestlé Nutre: de R$ 188,19 por R$ 169,37. Nutridrink Protein Senior Café com Leite 750 g, no Mundo Danone: de R$ 151,99 por R$ 121,59, ou R$ 109,43 na compra programada. Preço e estoque mudam, e vale o que aparece na loja na hora."
         ],
         "bullets": [
           "Nutren, por porção (conta nossa): a lata rende cerca de 23 porções de 31,5 g, o que dá cerca de R$ 7,21 por porção.",
           "Nutridrink, por porção (conta nossa): 750 g divididos por 30 g são 25 porções, o que dá R$ 4,86 por porção, ou R$ 4,38 na compra programada."
         ],
         "postParagraphs": [
-          "A lata da Danone sai R$ 47,78 mais barata (conta nossa). Mas a porção é diferente: R$ 4,86 paga 30 g de pó com 7,2 g de proteína, e R$ 7,21 paga 31,5 g de pó com 11 g de proteína. Olhar só o preço da porção, sem ver o que vem nela, engana."
+          "A lata da Danone sai R$ 47,78 mais barata (conta nossa). Mas a porção é diferente em peso e em proteína, então compare pelo custo da porção na tabela acima, não só pelo preço da lata. Olhar só o preço da porção, sem ver o que vem nela, engana."
         ]
       },
       {
@@ -88173,8 +88172,8 @@ export const reviewsData: unknown[] = [
           "Pela leitura dos rótulos, e não por condição de saúde:"
         ],
         "bullets": [
-          "Quem precisa de lactose zero declarada: o Nutren Senior tem a versão Sem Sabor Zero Lactose, com 0 g de lactose na tabela, a R$ 190,61 na Nestlé Nutre em 17/10/2026. O Nutridrink Protein Senior contém lactose.",
-          "Quem olha o preço por porção: o Nutridrink sai mais barato na leitura de 17/10/2026, com porção menor e menos proteína por porção.",
+          "Quem precisa de lactose zero declarada: o Nutren Senior tem a versão Sem Sabor Zero Lactose, com 0 g de lactose na tabela, a R$ 190,61 na Nestlé Nutre. O Nutridrink Protein Senior contém lactose.",
+          "Quem olha o preço por porção: o Nutridrink sai mais barato por porção, com porção menor e menos proteína por porção.",
           "Quem olha proteína, cálcio e vitamina D por porção: a tabela do Nutren Senior Baunilha traz mais de cada um.",
           "Quem quer menos açúcares totais: o Nutren Senior Baunilha traz 5,7 g na porção, contra 11 g no Nutridrink."
         ],
@@ -88193,18 +88192,12 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Nutren Senior ou Nutridrink: qual escolher? Não há resposta única. A escolha depende da prescrição, da lactose e do preço por porção, lembrando que a porção é diferente (31,5 g contra 30 g).",
-          "Nutridrink Protein ou Nutren Senior: qual tem mais proteína? Por porção da tabela, o Nutren: 11 g em 31,5 g contra 7,2 g em 30 g. Por 100 g de pó, a conta nossa dá cerca de 35 g contra 24 g.",
+          "Nutridrink Protein ou Nutren Senior: qual tem mais proteína? Por porção da tabela, o Nutren traz mais proteína, e por 100 g de pó a diferença se mantém. Os valores estão na tabela do capítulo O que cada página informa.",
           "Nutridrink Protein Senior tem lactose? Sim, a página do Mundo Danone diz \"contém lactose\". O Nutren Senior Zero Lactose traz 0 g.",
           "Nutren Senior Baunilha tem lactose? A página não traz a linha de lactose. A versão com lactose zero declarada é o Nutren Senior Zero Lactose.",
           "Nutridrink Protein Senior tem açúcar? A tabela traz 11 g de açúcares totais e 0,6 g de açúcares adicionados na porção de 30 g.",
           "Quantas porções tem a lata do Nutridrink? Cerca de 25, pela conta nossa (750 g divididos por 30 g).",
           "Tem cupom para o Nutridrink? Não temos código para a Danone. O CECI vale só na Nestlé Nutre."
-        ]
-      },
-      {
-        "heading": "Fontes e nota de transparência",
-        "paragraphs": [
-          "Fontes: página do Nutren Senior Baunilha 740 g na Nestlé Nutre e página do Nutridrink Protein Senior 750 g no Mundo Danone (tabela, ingredientes e alergênicos), lidas em 17/10/2026. O Em Casa com Cecília pode receber comissão por compras feitas pelo link da Nestlé Nutre com o cupom CECI. Não recebemos os produtos."
         ]
       }
     ],

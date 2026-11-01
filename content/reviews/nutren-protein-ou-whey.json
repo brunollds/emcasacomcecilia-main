@@ -45,7 +45,7 @@
         "aspectRatio": 1.7778
       },
       "comparisonTable": {
-        "caption": "Nomes e descrições da loja oficial da Nestlé Nutre em 12/10/2026.",
+        "caption": "Nomes e descrições da loja oficial da Nestlé Nutre.",
         "headers": ["Produto", "O que é, segundo a Nestlé", "O que o número do nome quer dizer"],
         "rows": [
           ["Nutren Protein Baunilha ou Chocolate, 400 g (Baunilha também em 800 g)", "Suplemento alimentar em pó \"com Whey Protein, Cafeína e 20 vitaminas e minerais\"", "400 g e 800 g são o peso da lata: cerca de 13 e 25 porções de 31,5 g"],
@@ -89,7 +89,7 @@
     {
       "heading": "Nutren Protein ou whey protein",
       "paragraphs": [
-        "Pelo rótulo, a diferença principal é o que vem junto da proteína. Em 31,5 g, o Nutren Protein em pó traz 14 g de proteína, 10 g de açúcares totais, 80 mg de cafeína e vitaminas e minerais. O Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", traz 13 g de proteína em 15 g, com carboidratos e açúcares em 0 g; a tabela dele não tem linha de cafeína nem de vitaminas, e o rótulo lista só proteína isolada do soro de leite de vaca e lecitina de soja.",
+        "Pelo rótulo, a diferença principal é o que vem junto da proteína. O pó traz a proteína junto com cafeína, lactose, glúten e vitaminas e minerais (números na tabela acima); quem quer só a proteína do soro está falando do Just Protein. O Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", traz 13 g de proteína em 15 g, com carboidratos e açúcares em 0 g; a tabela dele não tem linha de cafeína nem de vitaminas, e o rótulo lista só proteína isolada do soro de leite de vaca e lecitina de soja.",
         "Se você compara com o whey de outra marca, use o rótulo dele: proteína por porção, tamanho da porção, açúcares e se tem cafeína. A ficha completa do isolado da Nestlé está no nosso guia do Just Protein."
       ],
       "images": [
@@ -110,14 +110,14 @@
     {
       "heading": "Nutren Protein ou YoPRO",
       "paragraphs": [
-        "Aqui a comparação direta é entre bebidas prontas. A garrafa de 260 ml do Nutren Protein tem 15 g de proteína e 112 kcal na baunilha (114 kcal na de chocolate); a YoPRO de chocolate, de 250 ml, tem 15 g de proteína e 172 kcal. A YoPRO tem mais açúcares totais na embalagem (18 g contra 12 g), mas nas duas tabelas os açúcares adicionados são 0 g, e as duas trazem lactose 0 g. Pelas páginas oficiais, em 12/10/2026, a linha de 15 g da YoPRO tinha chocolate, morango e coco com batata doce.",
+        "Aqui a comparação direta é entre bebidas prontas. As duas bebidas prontas têm a mesma proteína na embalagem, mas a YoPRO de chocolate pesa mais em calorias e açúcares (números na tabela acima). Nas duas tabelas os açúcares adicionados são 0 g, e as duas trazem lactose 0 g. Pelas páginas oficiais, a linha de 15 g da YoPRO tem chocolate, morango e coco com batata doce.",
         "O pó do Nutren Protein é outra coisa: você prepara, ele tem cafeína e o número de 20 g depende do leite. A linha UHT da YoPRO, segundo a marca, não precisa de refrigeração."
       ]
     },
     {
       "heading": "Nutren Protein ou Nutren Senior",
       "paragraphs": [
-        "Na mesma porção de 31,5 g, o Nutren Protein Baunilha tem 14 g de proteína, 441 mg de cálcio e 3,2 µg de vitamina D. O Nutren Senior Café com Leite tem 11 g de proteína, 375 mg de cálcio e 25 µg de vitamina D, e a tabela dele não traz linha de cafeína.",
+        "Na mesma porção de 31,5 g, o Protein leva vantagem em proteína (14 g contra 11 g, na tabela acima) e em cálcio (441 mg contra 375 mg), e o Senior, em vitamina D (25 µg contra 3,2 µg). A tabela do Senior não traz linha de cafeína.",
         "A indicação também muda. A Nestlé descreve o Senior como linha para adultos acima dos 50 anos. Para o Nutren Protein, a página do Baunilha fala em \"jovens e adultos que querem mais foco e energia\"; a do Chocolate acrescenta pessoas \"especialmente a partir dos 50 anos\". Se a dúvida é lactose, a ficha do Senior Zero Lactose está no nosso guia."
       ],
       "image": {
@@ -137,7 +137,7 @@
     {
       "heading": "Antes ou depois do treino, engorda ou emagrece: o que o rótulo permite dizer",
       "paragraphs": [
-        "Nenhum dos rótulos que lemos diz que o produto engorda ou emagrece. O que eles informam são calorias e proteína por porção: 120 kcal no pó do Nutren Protein Baunilha (182 kcal com 180 ml de leite desnatado), 112 kcal na garrafa de baunilha (114 kcal na de chocolate) e 172 kcal na YoPRO de chocolate. O efeito no peso depende de tudo o que você come no dia.",
+        "Nenhum dos rótulos que lemos diz que o produto engorda ou emagrece. O que eles informam são calorias e proteína por porção, na tabela comparativa. O efeito no peso depende de tudo o que você come no dia.",
         "Sobre o horário, a Nestlé escreve, na página do pó, que o Nutren Protein pode ser \"uma opção de pré ou pós treino\", e a YoPRO, que pode ser consumida \"pré-treino, pós-treino ou no intervalo entre as refeições\". São frases das marcas. Para saber a quantidade e o horário certos no seu caso, procure um médico ou nutricionista."
       ]
     },
@@ -160,14 +160,14 @@
     {
       "heading": "Quando procurar médico ou nutricionista",
       "paragraphs": [
-        "Segundo o FAQ da Nestlé, o Nutren Protein é um suplemento \"destinado a complementar sua alimentação\" e \"não oferece 100% da necessidade proteica de um adulto\". Para diabetes e cirurgia bariátrica, o FAQ da marca manda procurar médico ou nutricionista, e a YoPRO também manda consultar um médico ou nutricionista quando perguntam se ela substitui o whey. Vale também para quem tem 50 anos ou mais e está em dúvida entre o Protein e o Senior."
+        "A Nestlé diz no FAQ que o Nutren Protein complementa a alimentação e não cobre sozinho a necessidade de proteína de um adulto. Para diabetes e cirurgia bariátrica, o FAQ da marca manda procurar médico ou nutricionista, e a YoPRO também manda consultar um médico ou nutricionista quando perguntam se ela substitui o whey. Vale também para quem tem 50 anos ou mais e está em dúvida entre o Protein e o Senior."
       ]
     },
     {
-      "heading": "Preço em 12/10/2026 e o cupom CECI",
+      "heading": "Preço e o cupom CECI",
       "paragraphs": [
         "Na loja oficial, em 12/10/2026, o Nutren Protein de 400 g (baunilha ou chocolate) custava R$ 79,72 na compra única (de R$ 93,79), e o de 800 g (baunilha), R$ 134,71 (de R$ 168,39). A garrafa de 260 ml (baunilha ou chocolate) saía por R$ 10,59, e o Nutren Just Protein 280 g, por R$ 115,91. Preço muda com promoção: confira no carrinho.",
-        "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja oficial (conferido em 04/10/2026). Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Não temos código para a YoPRO."
+        "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja oficial. Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Não temos código para a YoPRO."
       ],
       "links": [
         {
@@ -194,7 +194,7 @@
         "Nutren Protein é a mesma coisa que Nutren Just Protein? Não: o Nutren Protein em pó é um suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", e o Nutren Just Protein é \"100% whey protein isolado\" e sem sabor, segundo a Nestlé; a versão pronta para beber do Nutren Protein tem outra tabela.",
         "Nutren Protein é whey protein? O pó contém whey, mas não é só whey: a página o descreve como suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", com 14 g de proteína em 31,5 g de pó.",
         "Qual a diferença entre Nutren Protein e whey protein? Whey é a proteína do soro do leite, uma categoria; o Nutren Protein em pó é um produto com whey, cafeína, vitaminas e minerais, e cada whey de outra marca tem a sua tabela.",
-        "Nutren Protein engorda ou emagrece? O rótulo não afirma nenhum dos dois: são 120 kcal por porção de 31,5 g do pó Baunilha (182 kcal com 180 ml de leite desnatado) e 112 kcal na garrafa de baunilha, e o peso depende de toda a alimentação; para o seu caso, pergunte a um nutricionista.",
+        "Nutren Protein engorda ou emagrece? O rótulo não afirma nenhum dos dois; as calorias por porção estão na tabela comparativa, e para o seu caso, pergunte a um nutricionista.",
         "Nutren Protein antes ou depois do treino? A página do Nutren Protein em pó diz que ele pode ser \"uma opção de pré ou pós treino\"; para saber o horário e a quantidade certos no seu caso, procure um médico ou nutricionista.",
         "Nutren Protein tem 20 g de proteína? Só com 180 ml de leite desnatado: 14 g vêm do pó e 6 g do leite; o pó sozinho tem 14 g por porção.",
         "Nutren Protein tem cafeína? O pó tem 80 mg por porção de 31,5 g, e a Nestlé avisa que não deve ser consumido por gestantes, lactantes e crianças; a tabela da garrafa de 260 ml não traz linha de cafeína.",
@@ -202,8 +202,8 @@
         "Existe Nutren Protein sem sabor? Não: o pó vem em baunilha e chocolate; sem sabor, a Nestlé vende o Nutren Just Protein, e o Nutren Senior também tem versão sem sabor.",
         "Nutren Protein: qual a diferença entre baunilha e chocolate? Em 31,5 g de pó, o Baunilha tem 120 kcal e 441 mg de cálcio e o Chocolate, 116 kcal e 473 mg; os dois têm 14 g de proteína, 10 g de açúcares totais e 80 mg de cafeína, segundo a Nestlé.",
         "O que é o Nutren Protein 15g? É a bebida pronta de 260 ml, com 15 g de proteína na garrafa; o sachê de 15 g é do Nutren Just Protein, com 13 g de proteína.",
-        "Nutren Protein ou YoPRO: qual escolher? As duas bebidas prontas têm 15 g de proteína; a garrafa do Nutren Protein tem 112 kcal (baunilha) ou 114 kcal (chocolate) e 12 g de açúcares totais, e a YoPRO de chocolate, 172 kcal e 18 g, sem açúcares adicionados nas duas.",
-        "Nutren Protein ou Nutren Senior: qual o melhor? Nos rótulos que lemos, nenhum se diz melhor: em 31,5 g, o Protein Baunilha tem 14 g de proteína e 3,2 µg de vitamina D, e o Senior Café com Leite tem 11 g e 25 µg, e a tabela do Senior não traz linha de cafeína.",
+        "Nutren Protein ou YoPRO: qual escolher? As duas bebidas prontas têm a mesma proteína; a diferença está nas calorias e nos açúcares, detalhados no capítulo Nutren Protein ou YoPRO.",
+        "Nutren Protein ou Nutren Senior: qual o melhor? Nos rótulos que lemos, nenhum se diz melhor; a comparação por porção está no capítulo Nutren Protein ou Nutren Senior, e a tabela do Senior não traz linha de cafeína.",
         "Nutren ou whey protein para idoso? O rótulo não decide isso: a Nestlé descreve o Senior como linha para adultos acima dos 50 anos, a página do Nutren Protein Chocolate cita pessoas \"especialmente a partir dos 50 anos\" e o pó do Nutren Protein tem 80 mg de cafeína por porção; a escolha deve ser feita com médico ou nutricionista.",
         "Quantas porções tem a lata de 800 g do Nutren Protein? Cerca de 25 porções de 31,5 g, e a de 400 g, cerca de 13, segundo a tabela."
       ]
