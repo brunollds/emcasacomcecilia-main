@@ -37,7 +37,7 @@
       "paragraphs": [
         "Não existe um melhor sabor, existe o que combina com o seu jeito de tomar café. Antes de escolher o sabor, veja qual linha de cápsulas serve na sua máquina.",
         "A loja tem duas linhas de cápsulas. As Original, quase todo o catálogo, só servem nas máquinas Original, como a Mini Me 2.0 e as Genio S. As NEO, de papel, são para as máquinas NEO.",
-        "A NEO tem só cafés pretos: oito na loja em 12/10/2026, dois deles sem estoque. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start."
+        "A NEO tem só cafés pretos: oito na loja, dois deles sem estoque. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start."
       ],
       "links": [
         {
@@ -79,7 +79,7 @@
         "objectFit": "cover"
       },
       "comparisonTable": {
-        "caption": "Intensidade informada na página de cada café da loja oficial, lida em 12/10/2026. Todos usam uma cápsula por bebida.",
+        "caption": "Intensidade informada na página de cada café da loja oficial. Todos usam uma cápsula por bebida.",
         "headers": [
           "Intensidade",
           "Cafés"
@@ -91,7 +91,7 @@
           ],
           [
             "6",
-            "Lungo, Café Caseiro, Espresso Nescafé Gold, Lungo Chapada Diamantina (sem estoque em 12/10)"
+            "Lungo, Café Caseiro, Espresso Nescafé Gold, Lungo Chapada Diamantina (sem estoque)"
           ],
           [
             "7",
@@ -131,7 +131,7 @@
         "objectFit": "cover"
       },
       "comparisonTable": {
-        "caption": "Cápsulas por bebida informadas na loja oficial em 12/10/2026.",
+        "caption": "Cápsulas por bebida informadas na loja oficial.",
         "headers": [
           "Cápsulas por bebida",
           "Sabores"
@@ -143,7 +143,7 @@
           ],
           [
             "2 (5 bebidas por caixa)",
-            "Cappuccino, Latte Macchiato, Vanilla Latte Macchiato, Frappe, Kopenhagen Cappuccino, Starbucks Cappuccino, Starbucks Caramel Macchiato (sem estoque em 12/10)"
+            "Cappuccino, Latte Macchiato, Vanilla Latte Macchiato, Frappe, Kopenhagen Cappuccino, Starbucks Cappuccino, Starbucks Caramel Macchiato (sem estoque)"
           ],
           [
             "2, caixa de 12 (6 bebidas)",
@@ -184,7 +184,7 @@
     {
       "heading": "Starbucks e Kopenhagen",
       "paragraphs": [
-        "A Starbucks tem cinco sabores na loja: Espresso Colombia (intensidade 7), Americano House Blend (8), Cappuccino, de duas cápsulas, Caramel Macchiato, sem estoque em 12/10/2026, e o Toffee Nut Latte, edição limitada em caixa de 12.",
+        "A Starbucks tem cinco sabores na loja: Espresso Colombia (intensidade 7), Americano House Blend (8), Cappuccino, de duas cápsulas, Caramel Macchiato, sem estoque na leitura, e o Toffee Nut Latte, edição limitada em caixa de 12.",
         "A Kopenhagen tem cinco: Espresso, Cappuccino, Lajotinha, Língua de Gato e Chococino Cereja."
       ],
       "image": {
@@ -197,7 +197,7 @@
     {
       "heading": "Mais vendidas: o que a loja mostra",
       "paragraphs": [
-        "A loja tem a ordem \"Mais Vendidos\", mas não diz o período nem o critério. Em 12/10/2026, ela punha na frente os combos, a Toffee Nut Latte, de edição limitada, e dois cafés NEO, e os clássicos no fim: o Mochaccino Canela, o sabor com mais avaliações de clientes na loja (85), aparecia entre os últimos. Por isso este guia não faz ranking.",
+        "A loja tem a ordem \"Mais Vendidos\", mas não diz o período nem o critério. Na leitura, ela punha na frente os combos, a Toffee Nut Latte, de edição limitada, e dois cafés NEO, e os clássicos no fim: o Mochaccino Canela, o sabor com mais avaliações de clientes na loja (85), aparecia entre os últimos. Por isso este guia não faz ranking.",
         "A seleção que a loja chama de \"Nossos Favoritos!\", no DGusta, junta Café Caseiro, Mochaccino Canela, Pingado, Nescau e KitKat."
       ]
     },
@@ -218,7 +218,7 @@
           "Kit",
           "O que vem",
           "Cápsulas",
-          "Preço em 12/10"
+          "Preço"
         ],
         "rows": [
           [
@@ -284,7 +284,7 @@
     {
       "heading": "Onde comprar e o cupom CECI",
       "paragraphs": [
-        "Na loja oficial, o cupom CECI dá 10% OFF em compras a partir de R$ 100. Em 12/10/2026, a loja também dava frete grátis em pedidos de bebidas acima de R$ 100. Quantas caixas fecham esse valor está no nosso guia de custo."
+        "Na loja oficial, o cupom CECI dá 10% OFF em compras a partir de R$ 100. Na leitura dos preços, a loja também dava frete grátis em pedidos de bebidas acima de R$ 100. Quantas caixas fecham esse valor está no nosso guia de custo."
       ],
       "links": [
         {
@@ -304,7 +304,7 @@
     {
       "heading": "Qual sabor escolher",
       "paragraphs": [
-        "Um sabor para cada perfil, pelo catálogo da loja oficial em 12/10/2026:"
+        "Um sabor para cada perfil, pelo catálogo da loja oficial:"
       ],
       "bullets": [
         "Café puro, de menor intensidade: Espresso (5), Lungo ou Café Caseiro (6).",
@@ -329,7 +329,7 @@
         "Qual é o melhor sabor de cápsula Dolce Gusto? Depende do perfil: o capítulo Qual sabor escolher separa café puro, café forte, com leite, chocolate, chá, gelado, Starbucks, Kopenhagen e NEO.",
         "Qual é a cápsula Dolce Gusto mais vendida? A loja tem a ordem \"Mais Vendidos\", mas não informa o critério, então não há ranking oficial e este guia não faz um.",
         "Qual o café mais gostoso da Dolce Gusto? Depende do seu gosto: compare pela intensidade que a loja informa e pelo leite ou chocolate da bebida.",
-        "Quais são os sabores das cápsulas Dolce Gusto? Em 12/10/2026, a loja listava 52 caixas Original (19 cafés, 19 cappuccinos e lattes, 9 chocolates e 5 chás) e 8 cafés NEO.",
+        "Quais são os sabores das cápsulas Dolce Gusto? Na leitura do catálogo, a loja listava 52 caixas Original (19 cafés, 19 cappuccinos e lattes, 9 chocolates e 5 chás) e 8 cafés NEO.",
         "Qual a melhor cápsula de cappuccino da Dolce Gusto? Não há uma melhor. O Cappuccino, o Kopenhagen Cappuccino e o Starbucks Cappuccino usam duas cápsulas por bebida; o Cappuccino Moça Doce de Leite e o Caramelo Salgado usam uma.",
         "Qual a melhor cápsula de chocolate da Dolce Gusto? Não há uma melhor. Nescau, Galak, KitKat e Chococino Alpino usam uma cápsula por bebida; Chococino Nestlé e Kopenhagen Língua de Gato usam duas.",
         "Quais cápsulas dão certo na Dolce Gusto? As Original nas máquinas Original e as NEO nas máquinas NEO. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start.",
@@ -337,7 +337,7 @@
         "Quantas bebidas faz uma caixa de cápsulas Dolce Gusto? A caixa tem 10 cápsulas: 10 bebidas nos sabores de uma cápsula e 5 nos de duas, como o Cappuccino.",
         "Existe kit de cápsulas Dolce Gusto? Sim: a loja oficial tem as seleções prontas do DGusta, combos de 6 e 8 caixas e combos com xícara.",
         "Existe cápsula Dolce Gusto sortida? A loja chama de seleções do DGusta: Nossos Favoritos, Cafés, Lattes e Chocolates, com 50 cápsulas cada.",
-        "Tem leve 3 pague 2 na Dolce Gusto? Não encontramos na loja oficial em 12/10/2026: os descontos são em porcentagem.",
+        "Tem leve 3 pague 2 na Dolce Gusto? Não encontramos na loja oficial: os descontos são em porcentagem.",
         "Tem cápsula Dolce Gusto descafeinada? Sim, a loja tem o Espresso Descafeinado, de intensidade 5.",
         "O cupom CECI vale para cápsulas? Sim: 10% OFF em compras a partir de R$ 100 na loja oficial."
       ]

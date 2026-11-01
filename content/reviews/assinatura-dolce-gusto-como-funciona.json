@@ -113,7 +113,7 @@
       "heading": "Cupom CECI na assinatura",
       "paragraphs": [
         "O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os cupons direcionados a assinantes. O **CECI** não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
-        "No nosso teste de 4 de outubro de 2026, o checkout aplicou os 25% da assinatura e mais o desconto do **CECI** num pedido de 4 caixas. Hoje o CECI dá 10%. O CECI vale a partir de R$ 100 em produtos, e o pedido mínimo da assinatura, de 3 caixas, pode ficar abaixo disso. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com os 25% normalmente."
+        "No nosso teste no carrinho, o checkout aplicou os 25% da assinatura e mais o desconto do **CECI** num pedido de 4 caixas. Hoje o CECI dá 10%. O CECI vale a partir de R$ 100 em produtos, e o pedido mínimo da assinatura, de 3 caixas, pode ficar abaixo disso. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com os 25% normalmente."
       ],
       "links": [
         {
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "heading": "Quem assinou antes de 12 de agosto de 2025",
+      "heading": "Quem assinou no formato antigo",
       "paragraphs": [
         "As assinaturas feitas até 12/08/2025 seguem o formato antigo: **30% de desconto**, frete grátis e a **Trilha do Assinante**, que dá brindes quando as compras na assinatura somam R$ 100, R$ 250, R$ 500 e R$ 750.",
         "Para esses assinantes, o mínimo de 3 caixas só passa a valer se os produtos forem alterados. Compras feitas fora da assinatura não contam para a Trilha."
@@ -171,7 +171,7 @@
         "A assinatura Dolce Gusto tem mensalidade? Não. Não há mensalidade, taxa de adesão ou taxa de cancelamento: você paga só as caixas do pedido.",
         "Qual é o pedido mínimo da assinatura Dolce Gusto? São 3 caixas de bebidas por entrega.",
         "Posso misturar cápsulas Geração 1 e NEO na mesma assinatura? Sim. O FAQ oficial diz que as duas linhas podem estar na mesma assinatura.",
-        "O cupom CECI funciona na assinatura Dolce Gusto? No nosso teste de 4 de outubro de 2026, sim: o CECI somou com os 25% da assinatura, num pedido de 4 caixas. Hoje ele dá 10% e vale a partir de R$ 100 em produtos.",
+        "O cupom CECI funciona na assinatura Dolce Gusto? No nosso teste, sim: o CECI somou com os 25% da assinatura, num pedido de 4 caixas. Hoje ele dá 10% e vale a partir de R$ 100 em produtos.",
         "Como cancelar a assinatura Dolce Gusto? Pela área Minha Assinatura no site oficial ou pelo e-mail atendimento.dolcegusto@nestle.com.br, até 1 dia antes do próximo pedido.",
         "Se eu cancelar e assinar de novo, ganho os 1.000 pontos outra vez? Não. A nova assinatura tem 25% e frete grátis, mas os 1.000 pontos são uma vez por CPF.",
         "O que acontece se o cartão for recusado? A loja tenta cobrar 3 vezes em 3 dias seguidos, e três erros consecutivos na recorrência cancelam a assinatura.",

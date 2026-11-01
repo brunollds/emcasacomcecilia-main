@@ -33,7 +33,7 @@
     {
       "heading": "Quantas bebidas o escritório toma por mês",
       "paragraphs": [
-        "Este guia responde qual sistema de máquina serve para cada tamanho de escritório e quanto o café custa por mês para 5, 10 e 20 pessoas. A conta é sem cupom e sem a máquina, com os preços lidos em 19/10/2026.",
+        "Este guia responde qual sistema de máquina serve para cada tamanho de escritório e quanto o café custa por mês para 5, 10 e 20 pessoas. A conta é sem cupom e sem a máquina.",
         "A conta é pessoas × 2 bebidas por dia × 22 dias úteis. Cada pessoa toma 44 bebidas no mês, e a equipe toma:"
       ],
       "bullets": [
@@ -42,7 +42,7 @@
         "20 pessoas: 880 bebidas por mês"
       ],
       "postParagraphs": [
-        "Os 22 dias úteis são a média de um mês. Outubro de 2026 tem 22 dias úteis, e 21 com o feriado de 12/10. As duas bebidas por dia são uma suposição deste texto; troque pelos números da sua equipe, porque a fórmula continua valendo.",
+        "Os 22 dias úteis são a média de um mês. Num mês com feriado, são 21. As duas bebidas por dia são uma suposição deste texto; troque pelos números da sua equipe, porque a fórmula continua valendo.",
         "Bebida com leite conta em dobro. Na linha Dolce Gusto, cappuccino, latte macchiato, chococino e chai tea latte usam duas cápsulas, e café, Nescau, Nestea e Mochaccino Canela usam uma. A tabela da seção de custo considera só bebidas de uma cápsula, então um escritório que pede muito cappuccino gasta mais do que ela mostra."
       ]
     },
@@ -56,7 +56,7 @@
           "Perfil",
           "Máquina que faz sentido",
           "Por que",
-          "Custo mensal (19/10/2026, sem cupom)"
+          "Custo mensal (sem cupom)"
         ],
         "rows": [
           [
@@ -81,7 +81,7 @@
       },
       "postParagraphs": [
         "Para quem não quer cápsula, a opção é a cafeteira elétrica de filtro. A Oster lista três modelos: a 2Day Inox 2 em 1, com copo térmico, por R$ 179,90; a Black, com jarra térmica de inox de 0,7 L, por R$ 309,90; e a Coffee To Go de 600 ml, por R$ 179,90. A listagem não traz a capacidade em xícaras de cada modelo, então o texto não compara volumes. O café de filtro usado na conta é o Melitta Tradicional, pacote de 500 g a R$ 27,46, com a dose da embalagem de 80 g por litro. A Melitta não vende cafeteira de filtro no site; só a Amano, a R$ 1.149,00.",
-        "Grão, em kit, aparece com o Melitta Spresso em grão, quatro pacotes de 500 g por R$ 234,60 (19/10/2026). O texto não calcula o custo por xícara de grão, porque a dose da embalagem não está na leitura que fizemos. A superautomática de grãos fica fora da tabela, porque não temos preço de nenhuma superautomática.",
+        "Grão, em kit, aparece com o Melitta Spresso em grão, quatro pacotes de 500 g por R$ 234,60. O texto não calcula o custo por xícara de grão, porque a dose da embalagem não está na leitura que fizemos. A superautomática de grãos fica fora da tabela, porque não temos preço de nenhuma superautomática.",
         "Na cápsula de terceiros, a L'OR é compatível com Nespresso Original, não com Dolce Gusto, e a marca não vende máquina própria no site. A Baggio vende caixa de 10 cápsulas para Dolce Gusto a R$ 25,90; sobre compatibilidade, vale o que já diz o [guia de cápsulas compatíveis](/reviews/dolce-gusto-capsulas-compativeis-guia). Se a equipe usa a Dolce Gusto NEO, a máquina aceita só cápsula NEO."
       ]
     },
@@ -168,7 +168,7 @@
         {
           "src": "/images/reviews/dolcegusto/cafeteira-escritorio-custo-por-bebida.webp",
           "alt": "Barras com o custo por bebida de cada opção em 19/10/2026, do filtro Melitta a R$ 0,44 à Nespresso Original a R$ 3,70–4,20",
-          "caption": "Custo por bebida em 19/10/2026, sem cupom. Quadro do Em Casa com Cecília.",
+          "caption": "Custo por bebida, sem cupom. Quadro do Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -180,14 +180,14 @@
     {
       "heading": "Mais que café: chocolate, chá gelado e bebidas com leite",
       "paragraphs": [
-        "Num escritório, nem todo mundo toma café. A Dolce Gusto faz as bebidas da tabela abaixo com a mesma máquina. O preço por bebida é o da caixa de 10 cápsulas, dividido pelo número de bebidas que ela rende, com o preço do dia de 19/10/2026. A lista completa de sabores e preços está em [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
+        "Num escritório, nem todo mundo toma café. A Dolce Gusto faz as bebidas da tabela abaixo com a mesma máquina. O preço por bebida é o da caixa de 10 cápsulas, dividido pelo número de bebidas que ela rende, com o preço do dia. A lista completa de sabores e preços está em [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
       ],
       "comparisonTable": {
         "headers": [
           "Bebida",
           "Cápsulas por bebida",
           "Bebidas por caixa",
-          "Preço da caixa (19/10/2026)",
+          "Preço da caixa",
           "Por bebida"
         ],
         "rows": [
@@ -266,11 +266,11 @@
     {
       "heading": "Dolce Gusto Negócios: os combos para escritório",
       "paragraphs": [
-        "A Dolce Gusto tem uma linha para compra em volume, a Dolce Gusto Negócios, com combos de 20, 30 e 50 caixas de 10 cápsulas. Quanto maior o combo, maior o desconto. Os preços são da loja oficial, lidos em 19/10/2026 sem login, e mudam com a promoção do dia."
+        "A Dolce Gusto tem uma linha para compra em volume, a Dolce Gusto Negócios, com combos de 20, 30 e 50 caixas de 10 cápsulas. Quanto maior o combo, maior o desconto. Os preços são da loja oficial, lidos sem login, e mudam com a promoção do dia."
       ],
       "comparisonTable": {
         "headers": [
-          "Combo (preço de 19/10/2026)",
+          "Combo",
           "Sabores no combo",
           "Cápsulas",
           "Preço do dia",
@@ -349,7 +349,7 @@
       "heading": "Escritório de advocacia, consultório e escritório grande: o que muda",
       "paragraphs": [
         "No que lemos, nenhuma das marcas fala de escritório de advocacia, e não sugerimos modelo específico para isso. A conta é a mesma das outras equipes: pessoas, vezes 2 bebidas, vezes 22 dias úteis. Consultório e MEI costumam caber no perfil de 2 a 5 pessoas. Se a equipe bebe só café preto, o filtro é mais barato por xícara; se pede leite e chá, a cápsula da Dolce Gusto atende o grupo inteiro.",
-        "Para quem prefere cafeteira elétrica sem cápsula, as Oster citadas acima custam de R$ 179,90 a R$ 309,90 (19/10/2026). A máquina é pagamento único, e o custo que se repete é o do pó: com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44.",
+        "Para quem prefere cafeteira elétrica sem cápsula, as Oster citadas acima custam de R$ 179,90 a R$ 309,90. A máquina é pagamento único, e o custo que se repete é o do pó: com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44.",
         "Escritório de 15 pessoas ou mais entra na conta de 20 pessoas da tabela mensal. Com 20 pessoas, a caixa avulsa da Dolce Gusto sai por R$ 2.191,20 no mês e o combo de 50 caixas por R$ 1.424,28."
       ]
     },
@@ -363,13 +363,13 @@
       "heading": "Quando a cápsula não vale",
       "paragraphs": [
         "Se a equipe só toma café preto, a cápsula perde para o filtro por xícara. Na Dolce Gusto, uma bebida de uma cápsula custa de R$ 1,62 a R$ 2,49 no combo ou na caixa avulsa. No filtro, com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44. A Melitta vende o café, mas o site dela não vende cafeteira elétrica de filtro, só a Amano, a R$ 1.149,00, então a máquina de filtro vem de outra marca, como a Oster.",
-        "Se o escritório quer espresso com leite fresco em volume, a cápsula de consumo não é a resposta. A linha profissional da Nespresso, com Momento 200 e Aguila 220, faz bebidas com leite e tem refrigerador de leite integrado, mas o preço é sob contato. As cápsulas Nespresso Original custam R$ 3,70 a R$ 4,20 cada no preço de 19/10/2026."
+        "Se o escritório quer espresso com leite fresco em volume, a cápsula de consumo não é a resposta. A linha profissional da Nespresso, com Momento 200 e Aguila 220, faz bebidas com leite e tem refrigerador de leite integrado, mas o preço é sob contato. As cápsulas Nespresso Original custam R$ 3,70 a R$ 4,20 cada no preço lido."
       ]
     },
     {
       "heading": "Qual escolher para o escritório",
       "paragraphs": [
-        "A escolha depende de quem toma o quê. Os valores são de 19/10/2026, sem cupom e sem a máquina, e a conta supõe duas bebidas por pessoa por dia, cada uma de uma cápsula."
+        "A escolha depende de quem toma o quê. Os valores são sem cupom e sem a máquina, e a conta supõe duas bebidas por pessoa por dia, cada uma de uma cápsula."
       ],
       "bullets": [
         "5 pessoas (220 bebidas por mês): Dolce Gusto, no preço por bebida do combo para negócios de 50 caixas, R$ 356,07 por mês; no de 20 caixas, R$ 410,85. Quem só toma café preto paga menos com filtro: R$ 96,66 por mês, sem contar a máquina.",
@@ -389,13 +389,6 @@
         "O cupom CECI vale nos combos para negócios? Vale, na loja oficial da Dolce Gusto, com 10% OFF sobre o preço do dia em compras a partir de R$ 100; o combo de 50 caixas sai por R$ 728,33.",
         "Quanto gasta uma cafeteira de cápsula por mês? Depende das pessoas e das bebidas: com 5 pessoas e 44 bebidas cada no mês, o combo de 20 caixas da Dolce Gusto sai a R$ 410,85, e a tabela mensal tem as contas para 5, 10 e 20 pessoas."
       ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Os preços e as condições deste texto foram lidos nas lojas oficiais em 19/10/2026, sem login. Preço de loja muda com promoção e pode sair do ar sem aviso, então confira antes de comprar.",
-        "Podemos receber comissão da Dolce Gusto pelos links da loja e pelo uso do cupom CECI. Nenhuma outra marca citada tem link de compra neste texto nem paga comissão ao site. Não temos experiência própria com essas máquinas num escritório: os números vêm das fichas e dos preços das lojas, e este texto não relata uso."
-      ]
     }
   ],
   "pros": [],
@@ -408,7 +401,7 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
-  "editorialNote": "Podemos receber comissão da Dolce Gusto pelo cupom CECI e pelos links da loja. As outras marcas não têm link.",
+  "editorialNote": "Podemos receber comissão da Dolce Gusto pelo cupom CECI e pelos links da loja. As outras marcas não têm link. Ninguém da equipe usou essas máquinas num escritório.",
   "relatedArticles": [
     {
       "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
