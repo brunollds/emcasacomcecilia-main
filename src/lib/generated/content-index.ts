@@ -32776,14 +32776,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: cupom CECI NESCAFÉ Dolce Gusto",
         "paragraphs": [
-          "O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI: ativo na loja oficial, dá 10% de desconto em produtos elegíveis, para compras a partir de R$ 100. O que muda a decisão é a validade e o valor mínimo, que as seções abaixo detalham."
+          "O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI: ativo na loja oficial, dá 10% de desconto em produtos elegíveis, com valor mínimo de compra. O que muda a decisão é a validade e o valor mínimo, que as seções abaixo detalham."
         ]
       },
       {
         "heading": "Cupom Dolce Gusto hoje: está ativo?",
         "paragraphs": [
           "Sim, o cupom CECI está ativo para compras na loja oficial da NESCAFÉ Dolce Gusto. Nossa última verificação foi em 1º de outubro de 2026. O cupom oferece 10% de desconto em produtos elegíveis, em compras acima de R$ 100. Confirme a aplicação no checkout.",
-          "Para estar sempre segura sobre as condições mais recentes, confira a página dedicada ao cupom Dolce Gusto aqui do blog. Ela é atualizada regularmente com novas informações sobre o código, mudanças nas regras e promoções pontuais que possam estar ativas no site oficial."
+          "As condições mais recentes, com mudanças de regras e promoções pontuais, estão na página do cupom Dolce Gusto aqui do blog."
         ],
         "links": [
           {
@@ -32796,7 +32796,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o cupom CECI da NESCAFÉ Dolce Gusto?",
         "paragraphs": [
           "O cupom CECI é um código promocional que oferece 10% de desconto em produtos elegíveis em compras realizadas diretamente no site oficial da DOLCE GUSTO no Brasil. Como regras comerciais podem mudar, o código é reconfirmado mensalmente e o valor exibido no checkout é sempre a referência final.",
-          "O código funciona em praticamente todos os produtos disponíveis no site: cápsulas de café, máquinas e cafeteiras DOLCE GUSTO, acessórios e peças de reposição, além de kits e combos promocionais."
+          "O código funciona em praticamente todo o catálogo do site, como detalham os itens abaixo."
         ],
         "bullets": [
           "Cápsulas de café (todos os sabores e intensidades)",
@@ -32805,12 +32805,6 @@ export const reviewsData: unknown[] = [
           "Kits e combos promocionais"
         ],
         "emphasis": "Dica da Cecília: Mesmo durante promoções como Black Friday ou Dia das Mães, teste o cupom CECI no carrinho. Em alguns períodos, ele pode ser combinado com outras ofertas do site!"
-      },
-      {
-        "heading": "Como Aplicar o Cupom CECI no Site da NESCAFÉ Dolce Gusto – Passo a Passo",
-        "paragraphs": [
-          "Siga este tutorial passo a passo simples para aplicar o código de desconto no carrinho oficial da NESCAFÉ Dolce Gusto:"
-        ]
       },
       {
         "heading": "1. Escolha o produto no site oficial",
@@ -32864,7 +32858,7 @@ export const reviewsData: unknown[] = [
           "Compra mínima não atingida: O valor dos produtos no carrinho deve ser de no mínimo R$ 100.",
           "Carrinho vazio: Adicione pelo menos um produto ao carrinho antes de aplicar o cupom.",
           "Produto excluído da promoção: Alguns produtos em oferta relâmpago ou liquidação podem não aceitar cupons adicionais.",
-          "Cupom expirado: O código é atualizado mensalmente. Se não funcionar, voltar aqui para conferir o cupom válido e ativo do mês atual.",
+          "Cupom expirado: o código é reconfirmado todo mês. Se não funcionar, volte aqui para conferir o cupom válido do mês atual.",
           "Problema técnico no site: Limpe o cache do navegador, tente outro navegador ou entre em contato com o suporte da NESCAFÉ."
         ],
         "emphasis": "Importante: O cupom NESCAFÉ DOLCE GUSTO CECI é verificado e atualizado regularmente. Se você encontrar qualquer problema, nos avise nos comentários ou pelo WhatsApp do grupo de promoções para que possamos validar a situação."
@@ -32902,7 +32896,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Economia real: 10% de desconto pode fazer diferença em compras recorrentes de cápsulas ou na aquisição de uma máquina, desde que os itens sejam elegíveis.",
-          "Código verificado: testamos o cupom CECI no site oficial em 1º de outubro de 2026, e o desconto apareceu no resumo do pedido.",
+          "Código verificado: testamos o cupom CECI no site oficial, e o desconto apareceu no resumo do pedido.",
           "Sem burocracia: Basta digitar o código no checkout — sem cadastros extras, sem programas de fidelidade obrigatórios.",
           "Ajuda o blog: Ao usar nosso cupom, você apoia o Em Casa com Cecília sem pagar nada a mais por isso. O desconto é integralmente seu!"
         ]
@@ -32913,8 +32907,8 @@ export const reviewsData: unknown[] = [
           "Reunimos as dúvidas mais comuns sobre o cupom CECI da NESCAFÉ Dolce Gusto para facilitar sua experiência."
         ],
         "bullets": [
-          "O cupom CECI funciona no app da NESCAFÉ Dolce Gusto? Atualmente, este guia foca no uso do cupom no site oficial. Estamos verificando se o código também é válido no aplicativo móvel e atualizaremos este artigo assim que confirmarmos.",
-          "O cupom CECI tem data de validade? O CECI está válido em novembro de 2026. Confira o desconto no resumo do carrinho antes de pagar.",
+          "O cupom CECI funciona no app da NESCAFÉ Dolce Gusto? Este guia cobre o uso no site oficial; confirme no app se o campo de voucher aceita o código antes de finalizar.",
+          "O cupom CECI tem data de validade? O código é reconfirmado todo mês; a validade do mês está no capítulo de regras. Confira o desconto no resumo do carrinho antes de pagar.",
           "Posso usar o cupom CECI mais de uma vez? Sim, o CECI vale em mais de um pedido. Confirme a aceitação no checkout de cada compra.",
           "O desconto de 10% é sobre o frete também? Não. O cupom CECI aplica 10% OFF apenas sobre o valor dos produtos elegíveis. O frete é calculado separadamente e não entra na base de cálculo do desconto.",
           "O que acontece se o cupom não der certo? Se o código não for aplicado, verifique se: digitou corretamente como CECI; sua compra somou pelo menos R$ 100; o produto não está em uma promoção exclusiva que bloqueie cupons.",
@@ -32987,7 +32981,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como acumular pontos no Clube",
         "paragraphs": [
-          "O acúmulo de pontos foi desenhado de forma diferente para os sistemas de máquinas da marca, além de permitir bonificações por ações específicas realizadas no site oficial. Entenda as formas de pontuar: Os pontos ficam guardados na sua conta e podem virar cápsulas, acessórios ou vouchers de desconto."
+          "A Geração 1 pontua por código da caixa, a NEO pontua sozinha na extração, e o site dá bônus por newsletter, compra e assinatura. Os pontos ficam guardados na conta e podem virar cápsulas, acessórios ou vouchers; quem dá quanto está nos itens abaixo."
         ],
         "bullets": [
           "NESCAFÉ® Dolce Gusto® Geração 1: cada caixa de cápsulas oficial da linha padrão (de 10, 12 ou 16 cápsulas) vem com um código exclusivo de 12 dígitos impresso na parte interna da embalagem. Cada código válido cadastrado confere 100 pontos de fidelidade.",
@@ -33004,10 +32998,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde e como trocar os pontos por prêmios",
         "paragraphs": [
-          "Você pode utilizar os pontos acumulados no Dolce Gusto Club de duas maneiras práticas no checkout:",
+          "Dá para usar os pontos de dois jeitos no site: direto no carrinho ou na Loja de Prêmios.",
           "Direto no carrinho de compras: você pode trocar seus pontos diretamente no carrinho por produtos NESCAFÉ® Dolce Gusto® durante uma compra comum no site oficial.",
           "Na Loja de Prêmios oficial: para trocar por itens e prêmios de marcas parceiras ou acessórios de café, acesse a vitrine dedicada do Clube Dolce Gusto.",
-          "Atenção sobre a validade do saldo: os pontos permanecem ativos enquanto você mantiver a conta ativa. Caso a conta fique inativa por 6 meses consecutivos, sem registrar novos códigos de caixas e sem resgatar nenhum prêmio ou produto, todo o saldo acumulado será zerado."
+          "Só não deixe a conta parada: sem registrar código nem resgatar prêmio, o saldo zera após 6 meses."
         ],
         "image": "/images/reviews/dolcegusto/clube-dolce-gusto-resgate-pontos.webp",
         "imageAlt": "Tela de resgate de pontos para troca por produtos ou prêmios no site oficial",
@@ -33049,7 +33043,7 @@ export const reviewsData: unknown[] = [
           "Aplique o cupom CECI na tela do carrinho antes de fechar o pedido.",
           "Confirme que o abatimento de 10% foi refletido no valor total.",
           "Ao receber a encomenda, abra as caixas e cadastre os códigos de 12 dígitos.",
-          "Acompanhe seu extrato e planeje a troca de prêmios antes do prazo de validade de 6 meses."
+          "Acompanhe o extrato e use os pontos antes de a conta ficar parada."
         ],
         "links": [
           {
@@ -33061,7 +33055,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena participar do Clube?",
         "paragraphs": [
-          "A resposta é sim para quem já compra cápsulas Dolce Gusto com alguma frequência. O Clube Dolce Gusto é gratuito, simples de usar e recompensa um hábito de consumo que você já possui. Cadastrar o código de 12 dígitos leva poucos segundos e, a médio prazo, acumular esses pontos pode render produtos, acessórios ou vouchers úteis.",
+          "Vale a pena se você já compra cápsulas todo mês; se compra de vez em quando, o saldo pode zerar antes de virar prêmio. O Clube é gratuito e recompensa um hábito que você já tem. Cadastrar o código de 12 dígitos leva poucos segundos e, a médio prazo, acumular esses pontos pode render produtos, acessórios ou vouchers úteis.",
           "A dica prática é criar uma caixinha ou gaveta para guardar as embalagens abertas no dia a dia. Uma vez por mês, acesse o painel do clube, digite os códigos em sequência e mantenha o saldo sempre renovado para evitar expiração por inatividade. Para maximizar o saldo, combine as ações: compre com o cupom CECI, cadastre os códigos das caixas que chegarem e aproveite os bônus quando houver."
         ]
       },
@@ -33078,9 +33072,9 @@ export const reviewsData: unknown[] = [
           "Não encontro ou não consigo ler o código na embalagem. O que fazer? Se a caixa for Geração 1 e o código estiver ausente ou ilegível, ligue para o SAC no 0800 776 2233 ou envie um formulário de contato com foto da caixa e a nota fiscal da compra para receber um código substituto.",
           "Comprei cápsulas em outro país. Posso cadastrar os códigos? Não. O programa é territorial, e códigos de embalagens adquiridas fora do Brasil não são válidos para resgate de pontos na conta brasileira.",
           "Meu código não é aceito no site. O que fazer? Verifique se não houve erro de digitação, como trocar a letra O pelo número 0, ou se o código já não foi inserido antes. Cada código só pode ser usado uma vez. Se o erro persistir, acione o suporte oficial.",
-          "Quanto custa o frete na Loja de Prêmios do Clube? O frete na Loja de Prêmios é calculado automaticamente no checkout conforme o CEP e peso do pedido. A Dolce Gusto eventualmente oferece campanhas de frete grátis para resgates, divulgadas por e-mail ou no site do clube. Para economizar, aguarde uma promoção ou acumule mais pontos para resgatar itens de maior valor, diluindo o custo do envio.",
+          "Quanto custa o frete na Loja de Prêmios do Clube? O frete é calculado no checkout conforme o CEP e o peso do pedido, e a Dolce Gusto eventualmente faz campanhas de frete grátis para resgates, divulgadas por e-mail ou no site do clube. Junte pontos para um resgate maior em vez de vários pequenos com frete cheio.",
           "Posso transferir meus pontos para outra pessoa? Não. Os pontos do Clube Dolce Gusto são intransferíveis e vinculados exclusivamente ao CPF da conta que os acumulou. Cada usuário pode ter apenas uma conta por CPF. Se você comprou caixas para presente, quem usar as cápsulas precisará cadastrar os códigos na própria conta.",
-          "Quanto tempo demora para os pontos caírem na conta após cadastrar o código? Em geral, os pontos da Geração 1 são creditados instantaneamente após a validação do código no site. Para as cápsulas NEO, o acúmulo é automático pelo aplicativo, mas pode levar algumas horas até a sincronização completa. Se após 24 horas os pontos não aparecerem, verifique se a máquina NEO está pareada corretamente ou entre em contato com o SAC pelo 0800 776 2233.",
+          "Quanto tempo demora para os pontos caírem na conta após cadastrar o código? Em geral, os pontos da Geração 1 são creditados instantaneamente após a validação do código no site. Para as cápsulas NEO, o acúmulo é automático pelo aplicativo, mas pode levar algumas horas até a sincronização completa. Se após 24 horas os pontos não aparecerem, confira o pareamento da NEO ou fale com o SAC, como no item do código ilegível acima.",
           "Existe limite de pontos que posso acumular por mês? Não há limite máximo explícito de pontos por mês. No entanto, cada código de caixa Geração 1 pode ser cadastrado apenas uma vez, e o sistema identifica tentativas de uso duplicado. O limite prático é o número de caixas que você consome. Para o sistema NEO, os pontos são contabilizados por extração, então o volume de consumo define o acúmulo.",
           "O que acontece com meus pontos se eu cancelar minha conta? Ao cancelar sua conta, todo o saldo de pontos acumulado é perdido e não pode ser recuperado. Recomenda-se resgatar todos os prêmios ou aplicar os pontos no carrinho antes de solicitar o encerramento. Se você pretende pausar o uso, mantenha a conta ativa cadastrando pelo menos um código a cada 6 meses para evitar a expiração por inatividade.",
           "Como usar códigos promocionais na página do Clube Dolce Gusto? Os cupons de desconto (como o cupom CECI) devem ser digitados no carrinho de compras ou no checkout da loja oficial NESCAFÉ Dolce Gusto antes de finalizar o pedido, e não na área do Clube. Na página do Clube Dolce Gusto, você digita apenas os códigos de 12 dígitos impressos nas abas internas das embalagens para acumular pontos de fidelidade."
@@ -38071,7 +38065,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como chegamos a estes números",
         "paragraphs": [
-          "Os tracinhos e ícones do painel da Genio S Touch não mostram os valores em mililitros, e as informações online divergem: parte pode vir de modelos, cápsulas ou referências distintas, e há fontes que associam o XL a 280 ml, enquanto o manual da nossa Genio S Touch mostra 300 ml.",
+          "O painel da Genio S Touch mostra tracinhos, sem mililitros, e as fontes online divergem: algumas dão 280 ml ao XL, mas o manual da nossa Genio S Touch mostra 300 ml.",
           "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete as medidas dos níveis de 1 a 7, reforçando essa referência em dois modelos; a função XL, que a Mini Me 2.0 não tem, vem só da Genio S Touch. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
           "Também fotografamos a tabela de preparo impressa em uma embalagem da linha Dolce Gusto. As imagens abaixo tornam visíveis as recomendações por bebida, inclusive as receitas feitas em duas etapas. Elas documentam essa tabela específica e não substituem a orientação impressa na cápsula ou no manual do seu modelo."
         ],
@@ -38080,7 +38074,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona a variação de volume por nível",
         "paragraphs": [
-          "A escala de seletores varia de 1 a 7 barras mais a opção XL. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, os volumes progridem de cerca de 35-40 ml no nível 1 até 200-220 ml no nível 7, enquanto a função XL, que a Mini Me 2.0 não tem, aparece com 300 ml no manual da Genio S Touch.",
+          "A escala vai de 1 a 7 barras, mais a opção XL. Os volumes sobem a cada barra, do curto ao longo, e o XL é o passo extra só da Genio S Touch; os valores de cada nível estão na tabela acima.",
           "Cada cápsula traz uma quantidade recomendada impressa na embalagem em forma de barras. Ao selecionar o número correspondente no painel touch, a máquina segue o nível indicado para aquela receita; o volume final deve ser entendido como aproximado e pode variar conforme a bebida e o modelo.",
           "Nas bebidas preparadas em duas etapas, como lattes e cappuccinos, o volume total no copo é a soma das extrações. Na tabela fotografada, o cappuccino combina 200 ml da etapa de leite com 40 ml da etapa de café, totalizando 240 ml. O latte macchiato combina 170 ml de leite e 50 ml de café, totalizando 220 ml."
         ],
@@ -38094,7 +38088,7 @@ export const reviewsData: unknown[] = [
         "heading": "Risco, traço, tracinho ou barra: é tudo o mesmo nível",
         "paragraphs": [
           "Risco, risquinho, traço, tracinho ou barra: são nomes diferentes para a mesma marcação da escala de água. O manual da Genio S Touch fala em barras, e a Nestlé, em tracinhos.",
-          "Uma curiosidade: a própria Nestlé usa a palavra 'tracinho' na documentação oficial. Você pode ver isso até na página do Adaptador NEO Start no site da marca, que menciona 'Para cafés espressos, faça com 1 tracinho de água, para Lungos, com 4 tracinhos'.",
+          "A própria Nestlé usa 'tracinho' na documentação oficial: a página do Adaptador NEO Start no site da marca recomenda '1 tracinho de água' para espressos e '4 tracinhos' para lungos.",
           "Isso confirma que a própria marca usa os tracinhos como orientação de preparo e recomenda **4 tracinhos para lungo**. Nos exemplos reunidos no manual, esse nível aparece associado a aproximadamente 110-120 ml, mas não existe uma tabela oficial única que estabeleça essa equivalência para todas as cápsulas e máquinas."
         ],
         "bullets": [],
@@ -38119,7 +38113,7 @@ export const reviewsData: unknown[] = [
         "heading": "XL nos manuais consultados: 300 ml",
         "paragraphs": [
           "Algumas fontes associam a função XL a 280 ml. No manual da Genio S Touch, porém, o gráfico mostra diretamente **300 ml para XL**. A Mini Me 2.0 não tem a função XL, segundo o comparativo de máquinas da loja oficial, e a Nestlé não disponibiliza uma tabela única para toda a linha.",
-          "Se você tem uma máquina diferente e o manual dela traz outros valores, priorize a documentação do seu modelo. O XL de 300 ml foi confirmado no manual da Genio S Touch."
+          "Se o manual do seu modelo traz outros valores, siga o do seu modelo: o XL de 300 ml vale para a Genio S Touch."
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-4.webp",
@@ -41556,7 +41550,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A família Genio S: por que tanta confusão?",
         "paragraphs": [
-          "Ao pesquisar por uma cafeteira automática moderna da NESCAFÉ Dolce Gusto, a linha Genio S (fabricada pela Arno) é a que mais chama a atenção pelo design compacto e curvilíneo.",
+          "Se você está de olho numa Dolce Gusto compacta e curvilínea, a linha Genio S, feita pela Arno, é a primeira que aparece.",
           "No entanto, existem três versões no mercado brasileiro com carcaças semelhantes: Genio S Basic (também anunciada apenas como Genio S), Genio S Plus e Genio S Touch. Os preços mudam conforme cor, voltagem e campanha, por isso a comparação deve partir dos recursos de cada modelo e do valor exibido no checkout.",
           "Para quem está decidindo a compra, a dúvida é comum: a versão mais cara muda a extração ou principalmente a interface? Abaixo, comparamos as fichas oficiais da Basic, Plus e Touch. As observações de uso próprio se referem à Genio S Touch que utilizamos em casa; Basic e Plus não foram testadas por nós."
         ],
@@ -41585,7 +41579,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela comparativa: Genio S Basic vs Plus vs Touch",
         "paragraphs": [
-          "Confira o comparativo direto de especificações e recursos disponíveis em cada modelo da família Genio S:"
+          "O que separa os três modelos, pelas fichas oficiais:"
         ],
         "bullets": [
           "Tipo de painel: Basic e Plus usam seletor físico; a Touch utiliza painel sensível ao toque;",
@@ -41615,7 +41609,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que cada recurso exclusivo faz na prática?",
         "paragraphs": [
-          "Para entender se vale o investimento extra, é preciso conhecer o que cada tecnologia exclusiva altera na preparação da bebida:"
+          "O que cada recurso muda na xícara:"
         ],
         "bullets": [
           "Espresso Boost (pré-umectação): presente na Plus e na Touch. Segundo a fabricante, a função pré-umedece o café antes da extração para entregar uma bebida mais intensa e concentrada; o resultado percebido também depende da cápsula, da água e do volume escolhido;",
@@ -41630,7 +41624,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que os três modelos têm em comum?",
         "paragraphs": [
-          "As fichas oficiais mostram recursos em comum, mas isso não permite afirmar que todos os componentes internos ou o resultado na xícara sejam idênticos:"
+          "O que as fichas oficiais repetem nos três modelos:"
         ],
         "bullets": [
           "Pressão máxima de 15 bar: informada pela fabricante para os três modelos; o sabor e a temperatura percebidos também dependem da cápsula, da água, do volume e dos ajustes disponíveis;",
@@ -41696,7 +41690,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual a principal diferença entre a Genio S Basic e a Genio S Plus? A Basic oferece modos quente e frio e não possui Espresso Boost. A Plus adiciona quatro níveis de temperatura e a função Espresso Boost, descrita pela fabricante como pré-umectação para uma bebida mais intensa e concentrada.",
           "O café sai com sabor diferente na Genio S Touch em relação à Basic? As duas têm pressão máxima informada de 15 bar, mas não é correto prometer resultado idêntico. Cápsula, água, volume e temperatura influenciam a bebida, e a Touch ainda oferece Espresso Boost e quatro temperaturas.",
-          "A Genio S Basic desliga sozinha? Sim. Todos os modelos da linha Genio S contam com a função Eco Mode, desligando automaticamente após 1 minuto de inatividade.",
+          "A Genio S Basic desliga sozinha? Sim, todos os modelos desligam sozinhos após 1 minuto sem uso (Eco Mode).",
           "Qual a diferença entre a Genio S Plus e a Genio S Touch? Ambas oferecem Espresso Boost e quatro temperaturas. A diferença está na interface: a Plus usa seletor físico, e a Touch, painel sensível ao toque. As duas têm bandeja de metal.",
           "As cafeteiras Genio S têm função XL de 300 ml? Sim, os três modelos (Basic, Plus e Touch) contam com a opção XL para preparo de bebidas de 300 ml.",
           "Quem fabrica as máquinas Genio S? A linha Genio S é fabricada pela Arno sob licença NESCAFÉ Dolce Gusto, com garantia oficial de 1 ano.",
@@ -43863,7 +43857,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Resposta rápida: Dolce Gusto, Nespresso ou TRES",
+        "heading": "Resposta rápida",
         "paragraphs": [
           "Não há vencedora única. A Dolce Gusto serve a quem quer variedade de bebidas e custo menor por cápsula, a Nespresso a quem quer café premium e edições sazonais, e a TRES a quem toma café filtrado. As cápsulas não se misturam entre os sistemas; o custo por 100 ml está no capítulo \"Quanto custa cada xícara?\"."
         ]
@@ -43871,7 +43865,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O dilema das cápsulas: por que é tão difícil decidir?",
         "paragraphs": [
-          "Comprar uma cafeteira de cápsulas não é apenas adquirir um eletroportátil para a bancada: é escolher um ecossistema de consumo para os próximos anos.",
+          "Comprar uma cafeteira de cápsulas é escolher onde você vai comprar cápsula pelos próximos anos, não só um aparelho para a bancada.",
           "No Brasil, três marcas concentram a preferência do público: NESCAFÉ Dolce Gusto, Nespresso e 3 Corações (sistema TRES). Cada uma foi concebida para perfis de paladar e hábitos distintos, e compreender essas diferenças evita deixar a máquina parada sem uso.",
           "O aspecto crucial antes de avaliar o design dos modelos é a incompatibilidade mecânica: as cápsulas desses três sistemas não são intercambiáveis. Além disso, Dolce Gusto e Nespresso têm dois formatos próprios dentro de suas marcas: Clássica e NEO na primeira, Original e Vertuo na segunda, e esses pares também não se cruzam."
         ],
@@ -43885,7 +43879,7 @@ export const reviewsData: unknown[] = [
         "heading": "Nossa opinião: onde a Dolce Gusto ganha e onde a Nespresso se destaca",
         "paragraphs": [
           "Comparar ficha técnica e preço é importante, mas a escolha também passa pelo uso. Em casa usamos as Dolce Gusto, como mostram os nossos textos sobre a Genio S Touch e a Mini Me 2.0. A parte da Nespresso e da TRES deste comparativo vem das páginas e fichas oficiais, não de um teste nosso.",
-          "Priorizamos a Dolce Gusto por custo-benefício e conveniência. A parceria comercial com a marca também pesa nessa escolha, e preferimos deixar isso explícito em vez de apresentar a preferência como uma conclusão neutra ou universal.",
+          "Priorizamos a Dolce Gusto por custo-benefício e conveniência. A parceria comercial com a marca também pesa, e preferimos dizer isso abertamente.",
           "A Nespresso se destaca em um ponto: para quem busca uma experiência premium de café em cápsula, as coleções limitadas e sazonais oferecem perfis que dificilmente aparecem nos outros sistemas. Essa exclusividade também aparece no preço das cápsulas.",
           "A Dolce Gusto segue outro caminho e ganha na variedade de bebidas e combinações. Mochaccino Canela, Caramelo Salgado e Moça® Pistachio Latte fazem parte do catálogo, e entre os três sistemas ela é a única com cafés NESCAFÉ Gold nas versões Espresso e Lungo.",
           "Em resumo: a Nespresso é mais interessante para quem quer explorar cafés especiais e edições de temporada; para a rotina da casa, o custo e a variedade da Dolce Gusto fazem mais sentido para nós."
@@ -43908,7 +43902,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [],
         "comparisonTable": {
-          "caption": "Dolce Gusto x Nespresso x 3 Corações (TRES): comparativo técnico e de custo, preços de agosto de 2026",
+          "caption": "Dolce Gusto x Nespresso x 3 Corações (TRES): comparativo técnico e de custo",
           "headers": [
             "Critério",
             "Dolce Gusto",
@@ -43982,7 +43976,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cápsulas e compatibilidade",
         "paragraphs": [
-          "Conheça como funciona a tecnologia de extração e a oferta de cápsulas de cada fabricante:"
+          "Cada marca tem um jeito de extrair e um catálogo de cápsulas; o que trava a escolha é a compatibilidade."
         ],
         "bullets": [
           "Nespresso: Original e Vertuo são sistemas diferentes. A Original usa cápsulas pequenas e reúne muitas compatíveis, como L'OR, Pilão e Starbucks; a Vertuo lê o código de barras, prepara de 25 a 535 ml e aceita apenas cápsulas da própria linha.",
@@ -44012,13 +44006,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada xícara?",
         "paragraphs": [
-          "Comparar apenas o preço da cápsula engana, porque os volumes variam muito. Todos os preços deste capítulo são da amostra de agosto de 2026. Para deixar a conta auditável, separamos o espresso e calculamos também a média simples dos produtos com preço e volume identificáveis na amostra: uma média influenciada pelo mix de espressos, lungos, filtrados e cafés longos, não um preço universal da marca."
+          "Comparar apenas o preço da cápsula engana, porque os volumes variam muito. Todos os preços deste capítulo são dessa mesma amostra. Para deixar a conta auditável, separamos o espresso e calculamos também a média simples dos produtos com preço e volume identificáveis na amostra: uma média influenciada pelo mix de espressos, lungos, filtrados e cafés longos, não um preço universal da marca."
         ],
         "bullets": [
-          "Dolce Gusto clássica: média de ~R$ 2,64 por 100 ml nos 10 cafés avaliados, que vão de espresso a bebidas de 145 ml. Isolando os espressos da amostra, o custo fica em ~R$ 3,80–4,83 por 100 ml.",
+          "Dolce Gusto clássica: o espresso sai bem mais caro por 100 ml que a média da linha, porque as bebidas longas puxam a conta para baixo; os números estão na tabela acima.",
           "Dolce Gusto NEO: média de ~R$ 3,53 por 100 ml nos seis cafés com volume identificado. Os espressos de 45 ml ficam em ~R$ 4,87–5,78; Caseiro e Americano reduzem a média por entregarem mais bebida.",
           "Nespresso Original: média de ~R$ 9,67 por 100 ml quando os 13 produtos disponíveis da amostra são preparados como espresso de 40 ml. A faixa observada foi de ~R$ 9,25 a R$ 10,50. A conta considera apenas cápsulas Nespresso; Farmers Origins e outras compatíveis ficam de fora para não misturar marcas.",
-          "Para economizar na Nespresso Original, Farmers Origins é uma alternativa particularmente coerente: vem da NESCAFÉ/Nestlé, oferece diferentes origens e entra no mesmo sistema de cápsula. A R$ 16,99 por 10 em agosto de 2026, custa cerca de R$ 1,70 por cápsula ou R$ 4,25 por 100 ml quando preparada como espresso de 40 ml: aproximadamente 56% abaixo da média das cápsulas Nespresso Original da amostra. Ela continua fora da média da Nespresso porque é outra marca.",
+          "Para economizar na Nespresso Original, Farmers Origins é uma alternativa particularmente coerente: vem da NESCAFÉ/Nestlé, oferece diferentes origens e entra no mesmo sistema de cápsula. A R$ 16,99 por 10, custa cerca de R$ 1,70 por cápsula ou R$ 4,25 por 100 ml quando preparada como espresso de 40 ml: aproximadamente 56% abaixo da média das cápsulas Nespresso Original da amostra. Ela continua fora da média da Nespresso porque é outra marca.",
           "Nespresso Vertuo: média de ~R$ 6,74 por 100 ml nos nove produtos com preço e volume informados. O espresso de 40 ml continua caro, em ~R$ 9,75–10; Gran Lungo e Coffee reduzem a média para ~R$ 3,47 e ~R$ 2,74 por 100 ml.",
           "3 Corações: média de ~R$ 3,08 por 100 ml nos nove produtos avaliados, misturando doses de 50, 80 e 100 ml. Nos espressos com preço completo, a faixa ficou em ~R$ 3,48–3,59 por 100 ml."
         ],
@@ -44076,7 +44070,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher: veredito por perfil e os números",
         "paragraphs": [
-          "Os números abaixo são da amostra de agosto de 2026 e mudam com promoção e estoque. Veja qual perfil é o seu:"
+          "Os números abaixo são da amostra e mudam com promoção e estoque. Veja qual perfil é o seu:"
         ],
         "bullets": [
           "Nespresso Original, se você bebe só café preto, quer a maior variedade de compatíveis e aceita usar espumador externo (Aeroccino) para bebidas com leite. A cápsula oficial custou de R$ 3,70 a R$ 4,20; a Farmers Origins compatível, cerca de R$ 1,70.",
@@ -44092,12 +44086,12 @@ export const reviewsData: unknown[] = [
           "Qual é a melhor cafeteira de cápsulas? Não existe uma vencedora universal. A Dolce Gusto faz mais sentido para quem quer variedade de bebidas e custo cotidiano mais controlado; a Nespresso atende melhor quem prioriza cafés premium e edições sazonais; a TRES é forte para quem também toma café filtrado e quer um único formato de cápsula em toda a linha.",
           "Dá para usar cápsula Nespresso na Dolce Gusto? Não. Os formatos são incompatíveis e as marcas não homologam essa combinação. Existem adaptadores de terceiros, mas eles podem afetar a vedação ou o funcionamento; siga sempre o manual da cafeteira.",
           "A Nespresso faz cappuccino e chocolate quente? As cápsulas dos sistemas Original e Vertuo são de café. Para bebidas com leite, é necessário usar um espumador, como o Aeroccino, ou escolher uma máquina com sistema de leite integrado. Chocolate quente não faz parte do catálogo regular de cápsulas Nespresso.",
-          "Qual sistema tem a cápsula mais barata? Olhando só o preço por cápsula na amostra de agosto de 2026, a 3 Corações e a Dolce Gusto (linha clássica) ficam na faixa de R$ 1,64 a R$ 2,10, bem abaixo da Nespresso (R$ 3,70 a R$ 6,30, variando com o tamanho da xícara). Mas em custo por 100 ml a conta muda: os formatos grandes da Nespresso Vertuo (Gran Lungo, Coffee, Carafe) ficam entre os mais baratos de toda a comparação.",
+          "Qual sistema tem a cápsula mais barata? Olhando só o preço por cápsula na amostra, a 3 Corações e a Dolce Gusto (linha clássica) ficam na faixa de R$ 1,64 a R$ 2,10, bem abaixo da Nespresso (R$ 3,70 a R$ 6,30, variando com o tamanho da xícara). Mas em custo por 100 ml a conta muda: os formatos grandes da Nespresso Vertuo (Gran Lungo, Coffee, Carafe) ficam entre os mais baratos de toda a comparação.",
           "O que é o sistema multipressão da 3 Corações? É a capacidade da máquina alternar automaticamente entre 15 bar (alta pressão para espressos) e 2 bar (baixa pressão suave para café filtrado e chás).",
           "Qual a diferença entre Nespresso Original e Vertuo? A Original usa cápsulas clássicas de alumínio a 19 bar com compatíveis no mercado. A Vertuo usa cápsulas semiesféricas lidas por código de barras com rotação centrífuga, em formatos maiores e sem marcas compatíveis de terceiros.",
           "Nespresso Essenza Mini ou Vertuo Pop: qual escolher? A Essenza Mini pertence ao sistema Original e é a opção mais coerente para espresso e lungo, inclusive com cápsulas compatíveis. A Vertuo Pop pertence ao sistema Vertuo, prepara mais volumes de café e aceita somente cápsulas Vertuo. A escolha muda o ecossistema de cápsulas, não apenas o tamanho da máquina.",
           "NESCAFÉ Farmers Origins é cápsula Nespresso? Não é uma linha da Nespresso. É uma cápsula da NESCAFÉ, também do grupo Nestlé, compatível com máquinas Nespresso Original. Pode ser uma forma mais econômica de usar o sistema, mas não funciona em máquinas Vertuo.",
-          "A Dolce Gusto NEO e a Nespresso Vertuo Pop têm aplicativo? Sim, mas com funções diferentes. Na NEO, o app inicia o café e ajustar temperatura e volume; a máquina reconhece a cápsula e não oferece essas seleções no próprio corpo. Na Vertuo Pop, Bluetooth e Wi-Fi servem para atualizações, tutoriais e assistência no app Nespresso.",
+          "A Dolce Gusto NEO e a Nespresso Vertuo Pop têm aplicativo? Sim, mas com funções diferentes. Na NEO, o app inicia o café e ajusta temperatura e volume; a máquina reconhece a cápsula e não oferece essas seleções no próprio corpo. Na Vertuo Pop, Bluetooth e Wi-Fi servem para atualizações, tutoriais e assistência no app Nespresso.",
           "Qual sistema prepara chá? Dolce Gusto e TRES têm cápsulas de chá e outras multibebidas. A linha Nespresso é concentrada em cafés.",
           "Como descalcificar uma cafeteira de cápsulas? O procedimento e a frequência variam conforme a máquina, a água e o uso. Siga o ciclo indicado no manual e use a solução recomendada para o modelo; não improvise com vinagre ou produtos domésticos sem autorização expressa do fabricante.",
           "Qual o cupom de desconto para cafeteiras Dolce Gusto? O cupom CECI dá 10% de desconto em compras a partir de R$ 100 no site oficial da NESCAFÉ Dolce Gusto Brasil. As condições podem mudar; confirme o valor no checkout."
@@ -44919,17 +44913,11 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Colocar lado a lado uma máquina da Dolce Gusto e uma da Nespresso esperando que elas façam o mesmo trabalho é o erro mais comum de quem compra a primeira cafeteira de cápsulas.",
           "Embora ambas pertençam ao portfólio global da Nestlé, você não está comparando aparelhos concorrentes com o mesmo objetivo, mas dois eletrodomésticos com propostas de rotina distintas.",
-          "A verdadeira diferença entre Dolce Gusto e Nespresso começa no DNA de cada sistema: de um lado, uma estação doméstica multibebidas pensada para atender a família inteira; do outro, uma boutique de extração milimétrica dedicada quase que exclusivamente aos apreciadores de café puro."
+          "A diferença começa na proposta: de um lado, uma multibebidas para a família; do outro, uma máquina de espresso para quem bebe café puro."
         ],
         "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-qual-escolher-hero.webp",
         "imageAlt": "Cafeteiras Dolce Gusto e Nespresso lado a lado em uma bancada moderna de cozinha",
         "imageCaption": "As duas máquinas lado a lado: propostas diferentes para rotinas diferentes.",
-        "imageFit": "contain"
-      },
-      {
-        "image": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
-        "imageAlt": "Caixas de cápsulas variadas NESCAFÉ Dolce Gusto",
-        "imageCaption": "A Dolce Gusto aposta na variedade familiar: dezenas de opções que vão de cafés intensos a achocolatados e chás gelados.",
         "imageFit": "contain"
       },
       {
@@ -44965,7 +44953,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Nespresso faz cappuccino? As máquinas de entrada (como Essenza Mini e Pixie) não fazem bebidas lácteas sozinhas. Não há compartimento de leite nem cápsulas oficiais de leite em pó.",
-          "Para preparar cappuccino em modelos de entrada como Essenza Mini e Pixie, é necessário usar leite e um espumador separado, como o Aeroccino. A Nespresso também vende modelos com sistema de leite integrado.",
+          "Para cappuccino nesses modelos de entrada, use leite e um espumador separado, como o Aeroccino; há também modelos Nespresso com sistema de leite.",
           "Na Dolce Gusto, as bebidas lácteas compatíveis são preparadas diretamente na xícara com as cápsulas indicadas na embalagem."
         ],
         "image": "/images/reviews/dolcegusto/nespresso-pixie-produto.webp",
@@ -44978,6 +44966,12 @@ export const reviewsData: unknown[] = [
             "alt": "Cafeteira NESCAFÉ Dolce Gusto Genio, fabricada pela Arno no Brasil",
             "caption": "Dolce Gusto: estação multibebidas com painel de seleção de dose.",
             "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
+            "alt": "Caixas de cápsulas variadas NESCAFÉ Dolce Gusto",
+            "caption": "A Dolce Gusto aposta na variedade familiar: dezenas de opções que vão de cafés intensos a achocolatados e chás gelados.",
+            "objectFit": "contain"
           }
         ]
       },
@@ -44987,7 +44981,7 @@ export const reviewsData: unknown[] = [
           "A pressão da bomba é o número que mais confunde compradores nas fichas técnicas.",
           "A Nespresso informa pressão máxima de 19 bar para a Essenza Mini e outros modelos da linha Original. Esse é o valor nominal da bomba; sozinho, ele não permite concluir que toda bebida terá mais crema ou melhor sabor.",
           "A Dolce Gusto informa pressão de até 15 bar para máquinas da linha clássica. Como cápsulas, volumes e receitas são diferentes entre os sistemas, a comparação de pressão não substitui a avaliação do tipo de bebida que cada pessoa pretende preparar.",
-          "Atenção crucial de compra: a divisão Nespresso Original vs. Nespresso Vertuo."
+          "Na compra, confira o sistema: Nespresso Original e Nespresso Vertuo usam cápsulas diferentes."
         ],
         "bullets": [
           "Nespresso Original: usa o formato clássico de cápsula e possui ampla oferta de alternativas compatíveis no varejo brasileiro, além das cápsulas oficiais da Nespresso.",
@@ -45016,7 +45010,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [],
         "comparisonTable": {
-          "caption": "Custo por dose e por mês, em amostra de agosto de 2026: Dolce Gusto vs. Nespresso Original",
+          "caption": "Custo por dose e por mês: Dolce Gusto vs. Nespresso Original",
           "headers": [
             "Cenário",
             "Dolce Gusto",
@@ -45064,11 +45058,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela comparativa direta: Dolce Gusto vs. Nespresso Original",
         "paragraphs": [
-          "Resumo estruturado dos 9 pontos determinantes entre as duas plataformas de maior presença no mercado brasileiro:"
+          "O resumo ponto a ponto entre as duas máquinas:"
         ],
         "bullets": [],
         "comparisonTable": {
-          "caption": "Dolce Gusto (Genio S / Mini Me) vs. Nespresso (linha Original / Essenza Mini). Preços da amostra de agosto de 2026.",
+          "caption": "Dolce Gusto (Genio S / Mini Me) vs. Nespresso (linha Original / Essenza Mini).",
           "headers": [
             "Critério",
             "Dolce Gusto",
@@ -45127,7 +45121,7 @@ export const reviewsData: unknown[] = [
         "heading": "No dia a dia da cozinha: espaço, descarte e canecas",
         "paragraphs": [
           "A experiência prática do café da manhã mostra detalhes que a ficha técnica não mostra:",
-          "Espaço e visual: na largura, quase empatam. As Genio S têm 11,2 cm, e a Essenza Mini, 11 cm. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.",
+          "Espaço e visual: na largura, quase empatam, como mostra a tabela acima. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.",
           "Descarte diário: A Nespresso ganha com folga: você levanta a alavanca e a cápsula cai na gaveta interna, que na Essenza Mini comporta 5 a 6 unidades (varia conforme o modelo Original). A Dolce Gusto exige tirar o porta-cápsulas pingando manualmente após cada xícara.",
           "Canecas grandes: modelos Genio S com função XL podem preparar até 300 ml. Na Essenza Mini, o espaço disponível depende da posição ou remoção da bandeja de gotejamento."
         ],
@@ -45196,12 +45190,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher: os 4 perfis e os números",
         "paragraphs": [
-          "O custo da cápsula pesa tanto quanto a máquina. Na amostra de agosto de 2026 (sujeita a estoque e promoções), a cápsula oficial da Dolce Gusto Clássica custou de R$ 1,69 a R$ 2,10, e a da Nespresso Original, de R$ 3,70 a R$ 4,20. Veja qual perfil é o seu:"
+          "O custo da cápsula pesa tanto quanto a máquina. Na amostra de preços (sujeita a estoque e promoções), a cápsula oficial da Dolce Gusto Clássica custou de R$ 1,69 a R$ 2,10, e a da Nespresso Original, de R$ 3,70 a R$ 4,20. Veja qual perfil é o seu:"
         ],
         "bullets": [
-          "Perfil 1, o purista do espresso curto: considere a Nespresso Original (Essenza Mini), pelo foco em Espresso (40 ml) e Lungo (110 ml). Conte com a cápsula oficial de R$ 3,70 a R$ 4,20 na amostra de agosto de 2026.",
-          "Perfil 2, a família multibebidas e fã de cappuccino: vá de Dolce Gusto (Genio S Plus ou Touch com o cupom CECI). Cafés, achocolatados e chás na mesma máquina, com a cápsula a partir de R$ 1,69 na amostra de agosto de 2026.",
-          "Perfil 3, quem compra cápsula no supermercado: vá de Nespresso Original, que tem ampla oferta de cápsulas compatíveis. O Farmers Origins, a cerca de R$ 1,70 por cápsula na amostra de agosto de 2026, aproxima o custo ao da Dolce Gusto.",
+          "Perfil 1, o purista do espresso curto: considere a Nespresso Original (Essenza Mini), pelo foco em Espresso (40 ml) e Lungo (110 ml). Conte com a cápsula oficial de R$ 3,70 a R$ 4,20 na amostra.",
+          "Perfil 2, a família multibebidas e fã de cappuccino: vá de Dolce Gusto (Genio S Plus ou Touch com o cupom CECI). Cafés, achocolatados e chás na mesma máquina, com a cápsula a partir de R$ 1,69 na amostra.",
+          "Perfil 3, quem compra cápsula no supermercado: vá de Nespresso Original, que tem ampla oferta de cápsulas compatíveis. O Farmers Origins, a cerca de R$ 1,70 por cápsula na amostra, aproxima o custo ao da Dolce Gusto.",
           "Perfil 4, o fã de canecão de café longo: a Dolce Gusto resolve com o recurso XL (300 ml). Se você faz questão de crema em volume alto, avalie a Vertuo, ciente do custo das cápsulas oficiais."
         ]
       },
@@ -45209,9 +45203,9 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes sobre Dolce Gusto e Nespresso",
         "bullets": [
           "A Nespresso faz cappuccino e chocolate quente? A Essenza Mini e a Pixie preparam café. Para cappuccino, use um espumador separado ou escolha uma máquina Nespresso com sistema de leite; as cápsulas Nespresso são de café, não de chocolate quente.",
-          "Qual cafeteira tem a cápsula mais barata? Na amostra coletada em agosto de 2026, a Dolce Gusto clássica oficial custava de R$ 1,69 a R$ 2,10 por cápsula; a Nespresso Original oficial, de R$ 3,70 a R$ 4,20. A compatível Farmers Origins aparecia por cerca de R$ 1,70. Preços mudam e devem ser conferidos antes da compra.",
+          "Qual cafeteira tem a cápsula mais barata? Na amostra coletada, a Dolce Gusto clássica oficial custava de R$ 1,69 a R$ 2,10 por cápsula; a Nespresso Original oficial, de R$ 3,70 a R$ 4,20. A compatível Farmers Origins aparecia por cerca de R$ 1,70. Preços mudam e devem ser conferidos antes da compra.",
           "A Nespresso Vertuo aceita cápsulas de outras marcas? A página oficial brasileira informa que a Vertuo Pop aceita somente cápsulas da linha Vertuo. Para maior variedade de marcas compatíveis, considere o sistema Nespresso Original.",
-          "A Dolce Gusto ocupa muito espaço na cozinha? Pouco: as Genio S têm 11,2 cm de largura, quase o mesmo que os 11 cm da Essenza Mini. A Mini Me 2.0 é mais larga, com 16 cm."
+          "A Dolce Gusto ocupa muito espaço na cozinha? Pouco: as Genio S e a Essenza Mini têm quase a mesma largura, e a Mini Me 2.0 é mais larga. As medidas estão na tabela comparativa acima."
         ]
       }
     ],
@@ -49954,7 +49948,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Original (Geração 1) e NEO: o que muda",
         "paragraphs": [
-          "Os dois sistemas usam cápsulas diferentes: o Original faz cafés e também bebidas com leite, chocolate e chá, quentes ou frias; o NEO é focado em cafés pretos. A tabela resume o que as páginas oficiais da marca (\"Conheça os sistemas\", máquina NEO, Adaptador NEO Start e perguntas frequentes) informavam em 30/09/2026.",
+          "Os dois sistemas usam cápsulas diferentes: o Original faz cafés e também bebidas com leite, chocolate e chá, quentes ou frias; o NEO é focado em cafés pretos. A tabela resume o que as páginas oficiais da marca (\"Conheça os sistemas\", máquina NEO, Adaptador NEO Start e perguntas frequentes) informam.",
           "Um aviso de vocabulário: neste guia, \"Original\" é o nome que a loja oficial dá ao sistema das máquinas Geração 1. Não quer dizer \"cápsula da marca\" em oposição a \"compatível\"."
         ],
         "comparisonTable": {
@@ -49988,7 +49982,7 @@ export const reviewsData: unknown[] = [
             [
               "Máquinas",
               "Mini Me, Genio S, Genio S Plus, Genio S Touch, Infinissima, Piccolo, entre outras",
-              "NEO, a partir de R$ 799,00 (loja oficial, 30/09/2026)"
+              "NEO, a partir de R$ 799,00 na loja oficial"
             ]
           ]
         },
@@ -50006,13 +50000,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cápsula NEO na máquina Original: só com o Adaptador NEO Start",
         "paragraphs": [
-          "Vale acertar o sentido: o Adaptador NEO Start é um acessório para máquinas Original (Geração 1). Segundo a página oficial, consultada em 30/09/2026, ele permite usar uma seleção de cápsulas NEO na máquina que você já tem. Ele não é um acessório para a máquina NEO.",
+          "Vale acertar o sentido: o Adaptador NEO Start é um acessório para máquinas Original (Geração 1). Segundo a página oficial, ele permite usar uma seleção de cápsulas NEO na máquina que você já tem. Ele não é um acessório para a máquina NEO.",
           "O adaptador não libera todas as cápsulas NEO: a seleção é de espressos e lungos. A página oficial listava cinco como compatíveis: NEO Espresso Sul de Minas Orgânico, NEO Espresso Delicate, NEO Espresso Serras do Alto Paranaíba, NEO Lungo Chapada Diamantina e NEO Lungo Cerrado Orgânico."
         ],
         "bullets": [
           "Máquinas compatíveis, segundo a página oficial: Genio S, Genio S Touch, Genio S Plus, Infinissima, Infinissima Touch, Piccolo, Piccolo XS e Mini Me.",
-          "Como usar, segundo a página oficial: remova o suporte de cápsula regular, insira o adaptador e coloque a cápsula NEO; para espresso, use 1 \"tracinho\" de água e, para lungo, 4 \"tracinhos\". Tracinho é como a marca chama cada nível de volume; o nosso guia do adaptador explica o preparo por tipo de máquina.",
-          "Preço em 30/09/2026: R$ 69,90 (de R$ 89,90) na loja oficial."
+          "Como usar: remova o suporte de cápsula regular, insira o adaptador e coloque a cápsula NEO; para espresso, use 1 \"tracinho\" de água e, para lungo, 4 \"tracinhos\". Tracinho é cada nível de volume; o guia do adaptador explica o preparo por máquina.",
+          "Preço na loja oficial: R$ 69,90 (de R$ 89,90)."
         ],
         "image": "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
         "imageAlt": "Adaptador NEO Start aberto com uma cápsula NEO de espresso posicionada para o encaixe",
@@ -50036,11 +50030,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cápsulas de outras marcas para Dolce Gusto: o que existe",
         "paragraphs": [
-          "Fora da loja oficial, há marcas que vendem cápsulas anunciadas \"para Dolce Gusto\". Se a sua máquina é NEO, lembre que a página oficial dela diz que ela é compatível apenas com cápsulas NEO. Em 30/09/2026, encontramos a Baggio e a Gimoka; conferimos também a L'OR e a Pilão:"
+          "Fora da loja oficial, há marcas que vendem cápsulas anunciadas \"para Dolce Gusto\". Se a sua máquina é NEO, lembre que a página oficial dela diz que ela é compatível apenas com cápsulas NEO. Encontramos a Baggio e a Gimoka; conferimos também a L'OR e a Pilão:"
         ],
         "bullets": [
           "Baggio Café: o site da marca tem a linha \"Cápsulas para Dolce Gusto\", com sabores como Chocolate com Avelã, Chocolate Trufado, Caramelo e Clássico, em caixas de 10 cápsulas a R$ 25,90 (R$ 22,02 na assinatura). A própria página avisa que Nespresso e Dolce Gusto são marcas de terceiro, não relacionadas à Baggio Café.",
-          "Gimoka: os resultados de buscadores para o site da marca no Brasil mostram produtos \"para Dolce Gusto\" em embalagens de 16 unidades, com sabores como Cappuccino e Cioccolata. Não conseguimos abrir o site em 30/09/2026, então essa informação vem dos títulos das páginas. Varejistas online também anunciam cápsulas Gimoka compatíveis com Dolce Gusto.",
+          "Gimoka: os resultados de busca mostram produtos \"para Dolce Gusto\" em embalagens de 16 unidades, como Cappuccino e Cioccolata; confira sabor e preço no varejista antes de comprar. Varejistas online também anunciam cápsulas Gimoka compatíveis com Dolce Gusto.",
           "L'OR e Pilão: não confunda, elas não entram nessa lista. As páginas dessas marcas no Brasil descrevem cápsulas compatíveis com Nespresso Original, não com Dolce Gusto: a L'OR diz que as cápsulas foram projetadas para máquinas Nespresso Original, e a Pilão informa que suas cápsulas são \"compatíveis com máquinas de café NESPRESSO®* ORIGINAL\"."
         ],
         "links": [
@@ -50062,7 +50056,7 @@ export const reviewsData: unknown[] = [
         "heading": "Compatível compensa no preço?",
         "paragraphs": [
           "Nem sempre. Em 30/09/2026, a caixa Baggio de 10 cápsulas custava R$ 25,90, ou R$ 2,59 por cápsula (R$ 22,02 na assinatura, cerca de R$ 2,20 por cápsula). Na loja oficial, as caixas de café Original de 10 cápsulas tinham preço de lista de R$ 25,90 a R$ 28,90 e estavam em promoção de R$ 17,90 a R$ 21,99, o que dá de R$ 1,79 a R$ 2,20 por cápsula. As caixas NEO de 10 saíam de R$ 2,19 a R$ 2,39 por cápsula em promoção.",
-          "Ou seja: em promoção, a cápsula Original da loja oficial saía mais barata que a da Baggio avulsa (R$ 1,79 a R$ 2,20 contra R$ 2,59) e, no máximo, empatava com a Baggio na assinatura (cerca de R$ 2,20). No preço de lista, ficava no mesmo valor da Baggio avulsa ou até R$ 0,30 mais cara por cápsula (R$ 2,59 a R$ 2,89 contra R$ 2,59), e de R$ 0,39 a R$ 0,69 mais cara que a Baggio na assinatura (cerca de R$ 2,20).",
+          "Ou seja: em promoção, a Original saía mais barata que a Baggio avulsa e empatava com a assinatura; no preço de lista, ficava igual ou um pouco acima. Compare sempre o valor por cápsula do dia.",
           "Atenção também às bebidas de duas cápsulas: no verso de uma caixa Original (foto nesta seção), bebidas como Cappuccino, Latte Macchiato, Chococino, Mocha e Chai Tea Latte aparecem com duas cápsulas, então o custo por xícara soma as duas. Os preços mudam o tempo todo, por isso compare sempre o valor por cápsula do dia (e, nas bebidas de duas cápsulas, por xícara), não só o da caixa: as caixas das marcas compatíveis trazem quantidades diferentes (a Gimoka vende caixas de 16)."
         ],
         "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
@@ -50074,7 +50068,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se for experimentar uma compatível: cuidados",
         "paragraphs": [
-          "Este guia não testou nenhuma cápsula de outra marca. Por isso, não afirmamos que funcionam bem, que vazam ou que preservam a máquina: são produtos de outras empresas, não da Nescafé Dolce Gusto. Alguns cuidados de bom senso, que são nossos e não um aviso do fabricante:"
+          "Como são produtos de outras empresas, valem cuidados simples antes de fechar a alavanca:"
         ],
         "bullets": [
           "Procure na embalagem a indicação explícita \"para Dolce Gusto\" e confira se a cápsula não é do sistema Nespresso. Se a sua máquina é NEO, lembre que ela só aceita cápsulas NEO.",
@@ -50092,7 +50086,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Adaptadores para Nespresso e cápsulas reutilizáveis: o que sabemos",
         "paragraphs": [
-          "Também existem acessórios de terceiros que prometem usar outros sistemas na Dolce Gusto. Há adaptadores para cápsulas Nespresso à venda em varejistas, como o Nexcap na Amazon.com.br, e cápsulas reutilizáveis para Dolce Gusto também à venda na Amazon.com.br. Não são produtos da Nestlé nem da Arno, e não os testamos.",
+          "Também existem acessórios de terceiros que prometem usar outros sistemas na Dolce Gusto. Há adaptadores para Nespresso à venda em varejistas, como o Nexcap na Amazon.com.br, e cápsulas reutilizáveis para Dolce Gusto no mesmo varejo, todos de terceiros; siga o manual da máquina.",
           "No nosso comparativo entre Dolce Gusto, Nespresso e 3 Corações, já avisamos: os formatos de cápsula são diferentes, adaptadores de terceiros podem afetar a vedação ou o funcionamento da máquina, e o certo é seguir sempre o manual.",
           "Sobre as cápsulas reutilizáveis, os relatos que lemos num fórum de café (Clube do Café, mensagens de 2020 e 2021) são mistos: um usuário contou que \"tem saído um café bem gostoso e com crema\", e outro disse que não conseguiu nada parecido com espresso. Não prometemos resultado nem economia. A máquina trabalha com água quente sob pressão (a Arno informa até 15 bar na Genio S Touch), então vale seguir as instruções do manual."
         ],
@@ -50106,7 +50100,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar cápsulas Dolce Gusto e usar o cupom CECI",
         "paragraphs": [
-          "A loja oficial (nescafe-dolcegusto.com.br) vende as cápsulas Original e NEO. A opção \"Monte sua caixa\", com 50 ou 100 cápsulas escolhidas por você, era anunciada com frete grátis. Em 30/09/2026, a loja exibia duas faixas de frete grátis, válidas só para pedidos de bebidas (não para máquinas): uma sem valor mínimo, na página do adaptador, e outra para pedidos acima de R$ 100, na página de sabores. As condições mudam, então confira no carrinho.",
+          "A loja oficial (nescafe-dolcegusto.com.br) vende as cápsulas Original e NEO. A opção \"Monte sua caixa\", com 50 ou 100 cápsulas escolhidas por você, era anunciada com frete grátis. A loja exibe duas faixas de frete grátis, válidas só para pedidos de bebidas (não para máquinas): uma sem valor mínimo, na página do adaptador, e outra para pedidos acima de R$ 100, na página de sabores. As condições mudam, então confira no carrinho.",
           "O cupom CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, segundo a ficha do cupom aqui no site. Confira no carrinho se o desconto entrou antes de pagar: a soma com combos e outras campanhas pode variar."
         ],
         "links": [
@@ -50130,7 +50124,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Máquina Original: cápsulas Original. Com o Adaptador NEO Start, também alguns espressos e lungos NEO.",
           "Máquina NEO: só cápsulas NEO, como diz a página oficial da máquina.",
-          "Cápsula de outra marca para Dolce Gusto (Baggio, Gimoka): só se o preço por cápsula do dia compensar. Em 30/09/2026, a Baggio saía a R$ 2,59 por cápsula (cerca de R$ 2,20 na assinatura) e as caixas Original da loja oficial, em promoção, de R$ 1,79 a R$ 2,20.",
+          "Cápsula de outra marca para Dolce Gusto (Baggio, Gimoka): só se o preço por cápsula do dia compensar; a conta está no capítulo \"Compatível compensa no preço?\".",
           "L'OR e Pilão: não servem, porque as páginas dessas marcas no Brasil descrevem cápsulas compatíveis com Nespresso Original."
         ]
       },
@@ -50147,7 +50141,7 @@ export const reviewsData: unknown[] = [
           "Cápsula Nespresso serve na Dolce Gusto? Não diretamente: os formatos são diferentes. Existem adaptadores de terceiros, como o Nexcap, que não são da Nestlé e que não testamos; eles podem afetar a vedação ou o funcionamento da máquina, então siga o manual.",
           "Usar cápsula compatível anula a garantia? Não encontramos regra específica nas páginas oficiais consultadas. Segundo os Termos da loja oficial, as máquinas vendidas no site são garantidas pela Arno conforme a documentação do produto; confirme no manual ou com a assistência técnica da Arno, que a loja indica para máquinas Geração 1, no (11) 2060-9777.",
           "Dá para fazer cappuccino ou latte com cápsula compatível? Algumas marcas têm sabores desse tipo, como o Cappuccino da Gimoka, mas não os avaliamos. Na linha oficial, o Cappuccino e o Latte Macchiato usam duas cápsulas (a primeira de leite e a segunda de café), enquanto outras bebidas com leite, como o Café au Lait, usam uma, segundo o verso de uma caixa Original.",
-          "Qual é mais barata, a cápsula da loja oficial ou a compatível? Depende da promoção do dia. Em 30/09/2026, a Baggio custava R$ 2,59 por cápsula avulsa (cerca de R$ 2,20 na assinatura), e as caixas de café Original da loja oficial saíam entre R$ 1,79 e R$ 2,20 por cápsula em promoção e entre R$ 2,59 e R$ 2,89 no preço de lista.",
+          "Qual é mais barata, a cápsula da loja oficial ou a compatível? Depende da promoção do dia; a comparação por cápsula está no capítulo \"Compatível compensa no preço?\".",
           "Como falar com a Nestlé sobre uma cápsula Nescafé Dolce Gusto? O Serviço de Atendimento ao Consumidor da Nestlé, 0800 776 2233, consta na caixa das cápsulas e na página de perguntas frequentes da loja. Se a cápsula for de outra marca, procure essa marca ou o vendedor, com a nota fiscal em mãos.",
           "Qual o código de desconto do Dolce Gusto? É o CECI: 10% OFF na loja oficial em compras a partir de R$ 100, segundo a página de cupons do Em Casa com Cecília; confira o desconto no carrinho."
         ]
@@ -50161,7 +50155,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Feito a partir de páginas públicas da Nescafé Dolce Gusto, da Arno e das marcas citadas, de anúncios, de um fórum e da foto de uma caixa, consultados em 30/09/2026; não testamos cápsulas de outras marcas. Parceria comercial: podemos receber comissão pelo cupom CECI.",
+    "editorialNote": "Feito a partir de páginas públicas da Nescafé Dolce Gusto, da Arno e das marcas citadas, de anúncios, de um fórum e da foto de uma caixa; não testamos cápsulas de outras marcas. Parceria comercial: podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
         "slug": "adaptador-neo-start-o-que-e",
@@ -53652,15 +53646,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Dolce Gusto 2026",
         "paragraphs": [
-          "A NESCAFÉ Dolce Gusto ainda não anunciou a Black Friday de 2026, que cai em 27 de novembro. Nos últimos anos a loja oficial fez ofertas no mês inteiro. O cupom CECI dá 10% OFF em compras a partir de R$ 100; os preços de outubro abaixo servem de régua para novembro."
+          "A NESCAFÉ Dolce Gusto ainda não anunciou a Black Friday de 2026, que cai em 27 de novembro. Nos últimos anos a loja oficial fez ofertas no mês inteiro. O cupom CECI dá 10% OFF, e a tabela de preços de outubro, mais abaixo, serve de régua para novembro."
         ]
       },
       {
         "heading": "Quando começa a Black Friday da Dolce Gusto",
         "paragraphs": [
           "A NESCAFÉ Dolce Gusto costuma anunciar a Black Friday perto da virada para novembro, pela Nestlé Brasil. Em 2023, a campanha valeu o mês inteiro no site oficial, com uma oferta diferente a cada dia. Em 2024, as promoções foram de 1º a 30 de novembro, com \"descontos que vão até 50%\", segundo a Nestlé.",
-          "Para 2026, não havia anúncio até 8 de outubro. Se o padrão se repetir, as ofertas começam em 1º de novembro, mas isso é o que aconteceu nos últimos anos, não uma promessa da loja. Quando a Nestlé anunciar, a data entra aqui.",
-          "Da Black Friday de 2025 não encontramos anúncio oficial da Nestlé, só notícias de sites de compras. Por isso, este guia usa 2023 e 2024 como referência."
+          "Para 2026, a Nestlé ainda não anunciou nada. Se o padrão se repetir, as ofertas começam em 1º de novembro, mas isso é o histórico, não uma promessa da loja.",
+          "De 2025, sem comunicado oficial da Nestlé, este guia usa 2023 e 2024 como referência."
         ],
         "comparisonTable": {
           "caption": "Ofertas anunciadas pela Nestlé Brasil nos releases da Black Friday de 2023 e de 2024. Os preços são \"a partir de\" e valiam só no site oficial.",
@@ -53699,7 +53693,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Preços de outubro de 2026 para comparar",
+        "heading": "Preços de outubro para comparar",
         "paragraphs": [
           "O jeito mais seguro de saber se a oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em 8 de outubro de 2026, ao lado dos anunciados pela Nestlé na Black Friday de 2024:"
         ],
@@ -53711,11 +53705,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "Preços do site oficial em 8 de outubro de 2026 e ofertas anunciadas pela Nestlé para a Black Friday de 2024. Os preços mudam quase todo dia.",
+          "caption": "Preços do site oficial em outubro e ofertas anunciadas pela Nestlé para a Black Friday de 2024. Os preços mudam quase todo dia.",
           "headers": [
             "Produto",
             "Preço cheio no site",
-            "Em 8/10/2026",
+            "Em outubro",
             "Black Friday 2024"
           ],
           "rows": [
@@ -53746,25 +53740,25 @@ export const reviewsData: unknown[] = [
             [
               "Caixa regular de cápsulas",
               "—",
-              "A partir de R$ 17,90 (promoção de 5 a 7/10)",
+              "A partir de R$ 17,90 (em promoção)",
               "Bebidas a partir de R$ 13,90"
             ],
             [
               "DGusta, por cápsula",
               "—",
-              "A partir de R$ 1,79 (promoção de 5 a 7/10)",
+              "A partir de R$ 1,79 (em promoção)",
               "A partir de R$ 1,39"
             ],
             [
               "Cafés NEO",
               "—",
-              "A partir de R$ 21,90 (promoção desde 6/10)",
+              "A partir de R$ 21,90 (em promoção)",
               "A partir de R$ 19,90"
             ]
           ]
         },
         "postParagraphs": [
-          "A tabela mostra duas coisas. Nas máquinas Genio S, o preço de outubro de 2026 já estava um pouco abaixo do anunciado na Black Friday de 2024: R$ 479,90 contra R$ 499,90 na Basic, por exemplo. Nas cápsulas foi o contrário: a caixa saiu a partir de R$ 13,90 em 2024, e em outubro as promoções partiam de R$ 17,90.",
+          "A tabela mostra duas coisas. Nas máquinas Genio S, o preço de outubro já estava um pouco abaixo do anunciado na Black Friday de 2024, como mostra a tabela. Nas cápsulas foi o contrário: a régua de 2024 segue bem abaixo das promoções de outubro.",
           "Se você está de olho numa máquina, compare o preço de novembro com esta tabela antes de concluir que a Black Friday compensa. Se o plano é encher a despensa de cápsulas, os preços de 2024 dão uma boa régua para avaliar a campanha deste ano."
         ]
       },
@@ -53773,8 +53767,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Antes do preço, escolha o sistema. As máquinas Original, como a Mini Me e a linha Genio S, usam as cápsulas Original: cafés, lattes, chocolates e chás. As máquinas NEO usam as cápsulas NEO, só de cafés. As duas linhas não são compatíveis entre si.",
           "Para quem já tem uma máquina Original e quer provar os cafés NEO, existe o Adaptador NEO Start, que funciona com cinco cafés da linha. O site oficial tem promoções que dão o adaptador em combos de cafés NEO, limitadas a um adaptador por CPF.",
-          "O site também vende **Máquinas de Outlet**: aparelhos devolvidos que passam por inspeção técnica e higienização e têm a mesma garantia das novas. Em 8 de outubro, a Genio S Basic de Outlet saía por R$ 399,90.",
-          "Outra forma de levar uma máquina é o combo que dá uma Mini Me na compra de muitas caixas de cápsulas Original. A quantidade muda a cada poucos dias: entre 28 de setembro e 8 de outubro de 2026, variou entre 45 e 65 caixas. As regras estão no guia da promoção."
+          "O site também vende **Máquinas de Outlet**: aparelhos devolvidos que passam por inspeção técnica e higienização e têm a mesma garantia das novas. No início de outubro, a Genio S Basic de Outlet saía por R$ 399,90.",
+          "Outra forma de levar uma máquina é o combo que dá uma Mini Me na compra de muitas caixas de cápsulas Original. A quantidade muda a cada poucos dias: nas últimas semanas, variou entre 45 e 65 caixas. As regras estão no guia da promoção."
         ],
         "image": {
           "src": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
@@ -53819,7 +53813,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como não cair em desconto falso",
         "bullets": [
-          "**Compare com a tabela de outubro.** O preço riscado no site é o cheio, que quase ninguém paga: em 8 de outubro, a Genio S Basic já estava R$ 200 abaixo dele.",
+          "**Compare com a tabela de outubro.** O preço riscado no site é o cheio, que quase ninguém paga: em outubro, a Genio S Basic já estava R$ 200 abaixo dele.",
           "**Some o frete.** Em outubro, as promoções davam frete grátis em bebidas acima de R$ 50 ou de R$ 100, conforme a semana, e algumas deixavam os pedidos com máquina de fora.",
           "**Confira o sistema.** Cápsula NEO não serve em máquina Original sem o adaptador, e cápsula Original não serve em máquina NEO.",
           "**Escolha a voltagem com calma.** No combo da Mini Me, ela é escolhida no carrinho e não pode ser trocada depois.",
@@ -53830,13 +53824,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa a Black Friday da Dolce Gusto? Em 2023 e 2024, as ofertas da loja oficial começaram em 1º de novembro e foram até o fim do mês. Para 2026, a Nestlé ainda não tinha anunciado a campanha até 8 de outubro.",
-          "Quando é a Black Friday de 2026? Na sexta-feira, 27 de novembro. A Cyber Monday é na segunda seguinte, 30 de novembro.",
-          "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Compare antes: em outubro de 2026, a Genio S Basic já saía por R$ 479,90 no site oficial, menos que os R$ 499,90 anunciados na Black Friday de 2024.",
+          "Quando começa a Black Friday da Dolce Gusto? Em 2023 e 2024, as ofertas da loja oficial começaram no início de novembro e foram até o fim do mês. Para 2026, a Nestlé ainda não anunciou a campanha.",
+          "Quando é a Black Friday de 2026? Na última sexta-feira de novembro, e a Cyber Monday cai na segunda seguinte.",
+          "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Compare antes: em outubro, a Genio S Basic já saía por menos que o anunciado na Black Friday de 2024, como mostra a tabela acima.",
           "Tem cupom Dolce Gusto para a Black Friday? O CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial. Se ele soma com a oferta do dia, o carrinho mostra antes de pagar.",
-          "As cápsulas Dolce Gusto ficam mais baratas na Black Friday? Em 2024, a Nestlé anunciou caixas a partir de R$ 13,90 e DGusta a partir de R$ 1,39 a cápsula; em outubro de 2026, as promoções partiam de R$ 17,90 e R$ 1,79.",
+          "As cápsulas Dolce Gusto ficam mais baratas na Black Friday? Em 2024, a Nestlé anunciou caixas a partir de R$ 13,90 e DGusta a partir de R$ 1,39 a cápsula; em outubro, as promoções partiam de R$ 17,90 e R$ 1,79.",
           "Cápsula NEO serve na Mini Me ou na Genio S? Não. NEO e Original são sistemas diferentes; com o Adaptador NEO Start, a máquina Original aceita cinco cafés NEO.",
-          "A Black Friday da Dolce Gusto tem frete grátis? Depende da promoção. Em outubro, o frete era grátis em bebidas acima de R$ 50 ou R$ 100, e algumas ofertas não incluíam pedidos com máquina."
+          "A Black Friday da Dolce Gusto tem frete grátis? Depende da promoção: veja no capítulo Como não cair em desconto falso se o seu pedido entra no frete grátis."
         ]
       }
     ],
@@ -53862,7 +53856,8 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
         "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "bodyDatesReason": "campanha",
@@ -88442,9 +88437,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantos ml e quantas cápsulas por bebida",
         "paragraphs": [
-          "O Mochaccino Canela é uma cápsula Nescafé Dolce Gusto com café, leite e cacau, vendida em caixa de 10. Este guia traz a tabela nutricional, os ingredientes, o preço e o cupom CECI. Começamos pela xícara e pela conta de ml.",
+          "O Mochaccino Canela é uma cápsula Nescafé Dolce Gusto com café, leite e cacau, vendida em caixa de 10. Cada bebida usa uma cápsula, e a xícara é média; a conta do volume vem a seguir.",
           "A página da loja mostra o ícone de xícara média e vende a caixa com 10 cápsulas. A tabela nutricional trata 1 cápsula como 1 porção, e são 10 porções por caixa. Ou seja, uma cápsula por bebida e dez bebidas por caixa.",
-          "O volume sai de uma conta nossa: 77 kcal por cápsula divididas por 64 kcal a cada 100 ml, vezes 100, dá cerca de 120 ml. Esse número bate com o que mostramos na [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), onde a tabela de preparo da embalagem traz 120 ml para o Mochaccino Canela."
+          "Conta nossa, pelos números da tabela da loja: 77 kcal por cápsula divididas por 64 kcal a cada 100 ml, vezes 100, dão cerca de 120 ml. Esse número bate com o que mostramos na [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), onde a tabela de preparo da embalagem traz 120 ml para o Mochaccino Canela."
         ],
         "image": "/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-xicara.webp",
         "imageAlt": "Cápsula e xícara do Mochaccino Canela Dolce Gusto",
@@ -88523,7 +88518,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tem açúcar? E glúten?",
         "paragraphs": [
-          "Tem açúcar. A tabela da loja mostra 8 g de açúcares adicionados por cápsula, o que equivale a 16% do valor diário, e o açúcar é o segundo item da lista de ingredientes.",
+          "É uma bebida doce: o açúcar é o segundo item da lista de ingredientes, e a tabela acima mostra os gramas por cápsula e o percentual do valor diário.",
           "Sobre glúten e lactose, a loja informa:"
         ],
         "bullets": [
@@ -88540,20 +88535,20 @@ export const reviewsData: unknown[] = [
         "heading": "Ingredientes: tem chocolate? tem café?",
         "paragraphs": [
           "A lista da loja traz: leite em pó integral, açúcar, café solúvel, cacau, sal, canela, aromatizantes e emulsificante lecitina de soja.",
-          "A lista tem cacau, e não traz \"chocolate\" como ingrediente. A própria página da marca fala em café, leite e chocolate na descrição, e em \"equilíbrio perfeito entre café, cacau e canela\". O café está na lista como café solúvel."
+          "A lista tem cacau, e não traz \"chocolate\" como ingrediente. A página da marca descreve o sabor como café com leite e chocolate, com canela. O café está na lista como café solúvel."
         ]
       },
       {
         "heading": "Tem cafeína?",
         "paragraphs": [
-          "A lista tem café solúvel, então a bebida leva café. A loja não informa a quantidade de cafeína em mg, e nenhuma página que consultamos traz esse número. Por isso não damos estimativa. Se a quantidade importa para você, confira o rótulo da caixa ou pergunte à Nescafé Dolce Gusto."
+          "A lista tem café solúvel, então a bebida leva café. A loja não informa a quantidade de cafeína em mg, então não damos estimativa. Se a quantidade importa para você, confira o rótulo da caixa ou pergunte à Nescafé Dolce Gusto."
         ]
       },
       {
         "heading": "É bom? O que a loja mostra",
         "paragraphs": [
-          "Na loja oficial, em 17/10/2026, o Mochaccino Canela tinha nota de 97% na página, com 85 avaliações. É a nota de quem comprou, não a nossa opinião.",
-          "A marca descreve o produto assim: \"O toque da canela nunca foi tão importante na mistura com o café, o leite e o chocolate\", numa receita \"desenvolvida especialmente para os brasileiros\"."
+          "Na loja oficial, o Mochaccino Canela tinha nota de 97% na página, com 85 avaliações. É a nota de quem comprou, não a nossa opinião.",
+          "A marca diz que a canela ganha destaque na mistura com café, leite e chocolate, numa receita feita para o gosto do brasileiro."
         ]
       },
       {
@@ -88567,17 +88562,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quantas calorias tem o Mochaccino Canela Dolce Gusto? A tabela da loja mostra 77 kcal por cápsula (17,2 g), 4% do valor diário, e 64 kcal por 100 ml.",
-          "Quantos ml faz o Mochaccino Canela? A página mostra a xícara média, e a conta nossa (77 kcal ÷ 64 kcal por 100 ml × 100) dá cerca de 120 ml.",
+          "Quantos ml faz o Mochaccino Canela? Cerca de 120 ml, na xícara média; a conta está no capítulo do volume.",
           "O Mochaccino Canela tem cafeína? A lista tem café solúvel, mas a loja não informa a quantidade de cafeína em mg.",
           "O Mochaccino Canela tem açúcar? Sim: 8 g de açúcares adicionados por cápsula, 16% do valor diário, segundo a loja.",
           "O Mochaccino Canela tem chocolate? A lista de ingredientes traz cacau, não \"chocolate\". A marca cita o chocolate na descrição do sabor.",
-          "O Mochaccino Canela é bom? Na loja oficial, em 17/10/2026, ele tinha nota de 97% na página, com 85 avaliações."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Esta ficha é feita a partir da página do produto na loja oficial Nescafé Dolce Gusto, lida em 17/10/2026, sem teste de sabor. O Em Casa com Cecília tem parceria comercial com a Dolce Gusto e pode receber comissão pelas compras feitas com o CECI. Preço, estoque e condições mudam: confira na loja."
+          "O Mochaccino Canela é bom? Na loja oficial, ele tinha nota de 97% na página, com 85 avaliações."
         ]
       }
     ],
@@ -88591,7 +88580,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Ficha feita a partir da página do produto na loja oficial. Não é teste de sabor: as medidas e as contas são identificadas no texto.",
+    "editorialNote": "Texto feito a partir da página do produto na loja oficial, sem teste de sabor: as contas são identificadas no texto. Parceria comercial com a Dolce Gusto: pode haver comissão nas compras feitas com o CECI.",
     "relatedArticles": [
       {
         "slug": "melhores-capsulas-dolce-gusto-2026",
@@ -88832,9 +88821,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantos ml e quantas cápsulas por bebida",
         "paragraphs": [
-          "O Caramelo Salgado é um cappuccino em cápsula da Nescafé Dolce Gusto, vendido em caixa de 10. Este guia traz ingredientes, cafeína, calorias, preço e o cupom CECI, e começa pelo volume da bebida.",
-          "A página da loja mostra o ícone de xícara média e vende a caixa com 10 cápsulas. A tabela nutricional trata 1 cápsula como 1 porção e traz 10 porções por caixa. Pela tabela, é uma cápsula por bebida.",
-          "O volume é uma conta nossa: 78 kcal por cápsula divididas por 65 kcal a cada 100 ml, vezes 100, dá cerca de 120 ml. Para entender como os níveis da máquina se ligam aos mililitros, veja a [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
+          "O Caramelo Salgado é um cappuccino em cápsula da Nescafé Dolce Gusto, vendido em caixa de 10. Antes dos ingredientes e do preço, vale saber o tamanho da bebida: uma cápsula rende uma xícara média.",
+          "A página da loja mostra o ícone de xícara média. A tabela nutricional trata 1 cápsula como 1 porção e traz 10 porções por caixa: é uma cápsula por bebida.",
+          "Conta nossa, pelos números da tabela da loja: 78 kcal por cápsula divididas por 65 kcal a cada 100 ml, vezes 100, dão cerca de 120 ml. Para entender como os níveis da máquina se ligam aos mililitros, veja a [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
         ],
         "image": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-xicara.webp",
         "imageAlt": "Cápsula e xícara do Caramelo Salgado Dolce Gusto",
@@ -88845,13 +88834,13 @@ export const reviewsData: unknown[] = [
         "heading": "Ingredientes: tem café?",
         "paragraphs": [
           "A lista da loja traz: leite em pó integral instantâneo (leite em pó integral e emulsificante lecitina), açúcar, café solúvel, sal, triglicerídeos de cadeia média (TCM) e aromatizantes.",
-          "Tem café, na forma de café solúvel. O sal também está na lista, e a loja descreve o sabor como \"cremosidade em um contraste dos sabores doce e salgado\"."
+          "Tem café, na forma de café solúvel. O sal também está na lista, e a loja descreve o sabor como cremoso, num contraste entre doce e salgado."
         ]
       },
       {
         "heading": "Tem cafeína?",
         "paragraphs": [
-          "A lista tem café solúvel, então a bebida leva café. A loja não informa a quantidade de cafeína em mg, e nenhuma página que consultamos traz esse número. Por isso não damos estimativa. Se a quantidade importa para você, confira o rótulo da caixa ou pergunte à Nescafé Dolce Gusto."
+          "A lista tem café solúvel, então a bebida leva café. A loja não informa a quantidade de cafeína em mg, então não damos estimativa. Se a quantidade importa para você, confira o rótulo da caixa ou pergunte à Nescafé Dolce Gusto."
         ]
       },
       {
@@ -88904,13 +88893,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A coluna por 100 ml é a da loja. O volume de 120 ml, já dito, é conta nossa."
+          "A coluna por 100 ml é a da loja; o volume de 120 ml é conta nossa, a partir das duas colunas."
         ]
       },
       {
         "heading": "Tem açúcar? E glúten?",
         "paragraphs": [
-          "Tem açúcar. A tabela da loja mostra 7,9 g de açúcares adicionados por cápsula, o que equivale a 16% do valor diário, e o açúcar é o segundo item da lista de ingredientes.",
+          "Tem açúcar: é o segundo item da lista de ingredientes, e a tabela acima mostra os gramas por cápsula e o percentual do valor diário.",
           "Sobre glúten e lactose, a loja informa:"
         ],
         "bullets": [
@@ -88926,14 +88915,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "É bom? O que a loja mostra",
         "paragraphs": [
-          "Na loja oficial, em 17/10/2026, o Caramelo Salgado tinha nota de 95% na página, com 23 avaliações. É a nota de quem comprou, não a nossa opinião.",
-          "A página da marca apresenta o produto como o \"novo cappuccino Caramelo Salgado\", que \"entrega cremosidade em um contraste dos sabores doce e salgado\"."
+          "Na loja oficial, o Caramelo Salgado tinha nota de 95% na página, com 23 avaliações. É a nota de quem comprou, não a nossa opinião.",
+          "A página da marca apresenta o produto como um cappuccino cremoso, num contraste entre doce e salgado."
         ]
       },
       {
         "heading": "Edição Netflix e histórico do sabor",
         "paragraphs": [
-          "A página atual da loja não fala em Netflix. Segundo a ABC da Comunicação (28/05/2024), a Nescafé Dolce Gusto lançou em maio de 2024 a segunda temporada do cappuccino Netflix, no sabor Caramelo Salgado. A página de hoje chama o produto de \"novo cappuccino Caramelo Salgado\" e não diz se a receita é a mesma da edição de 2024."
+          "A página atual da loja não fala em Netflix. Segundo a ABC da Comunicação, a Nescafé Dolce Gusto lançou em maio de 2024 a segunda temporada do cappuccino Netflix, no sabor Caramelo Salgado. A página de hoje chama o produto de \"novo cappuccino Caramelo Salgado\" e não diz se a receita é a mesma da edição de 2024."
         ]
       },
       {
@@ -88949,15 +88938,9 @@ export const reviewsData: unknown[] = [
           "O Caramelo Salgado Dolce Gusto tem cafeína? A lista tem café solúvel, mas a loja não informa a quantidade de cafeína em mg.",
           "O Caramelo Salgado tem café? Sim, café solúvel, segundo a lista de ingredientes da loja.",
           "Quantas calorias tem o Caramelo Salgado Dolce Gusto? A tabela da loja mostra 78 kcal por cápsula (17,5 g) e 65 kcal por 100 ml.",
-          "Quantos ml faz o Caramelo Salgado? A página mostra a xícara média, e a conta nossa (78 kcal ÷ 65 kcal por 100 ml × 100) dá cerca de 120 ml.",
-          "O Caramelo Salgado é bom? Na loja oficial, em 17/10/2026, ele tinha nota de 95% na página, com 23 avaliações.",
-          "O Caramelo Salgado é o da Netflix? A página atual da loja não cita a Netflix. A edição com a plataforma teve segunda temporada com este sabor em maio de 2024, segundo a ABC da Comunicação."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Esta ficha é feita a partir da página do produto na loja oficial Nescafé Dolce Gusto, lida em 17/10/2026, sem teste de sabor. O Em Casa com Cecília tem parceria comercial com a Dolce Gusto e pode receber comissão pelas compras feitas com o CECI. Preço, estoque e condições mudam: confira na loja."
+          "Quantos ml faz o Caramelo Salgado? Cerca de 120 ml, na xícara média; a conta está no capítulo do volume.",
+          "O Caramelo Salgado é bom? Na loja oficial, ele tinha nota de 95% na página, com 23 avaliações.",
+          "O Caramelo Salgado é o da Netflix? A página atual da loja não cita a Netflix. A edição com a plataforma teve segunda temporada com este sabor em 2024, segundo a ABC da Comunicação."
         ]
       }
     ],
@@ -88971,7 +88954,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Ficha feita a partir da página do produto na loja oficial. Não é teste de sabor: as medidas e as contas são identificadas no texto.",
+    "editorialNote": "Texto feito a partir da página do produto na loja oficial, sem teste de sabor: as medidas e as contas são identificadas no texto. Parceria comercial com a Dolce Gusto: pode haver comissão nas compras feitas com o CECI.",
     "relatedArticles": [
       {
         "slug": "melhores-capsulas-dolce-gusto-2026",
@@ -89022,7 +89005,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Café au Lait Dolce Gusto tem açúcar?",
         "paragraphs": [
-          "A resposta muda com a versão. A tabela mostra o que a loja informa por cápsula."
+          "A resposta muda com a versão. A loja informa os números abaixo por cápsula."
         ],
         "comparisonTable": {
           "headers": [
@@ -89113,7 +89096,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantos ml faz o Café au Lait?",
         "paragraphs": [
-          "A página da loja mostra o ícone de xícara média. Pela nossa conta, o clássico rende cerca de 180 ml: 45 kcal da cápsula ÷ 25 kcal por 100 ml × 100. É o mesmo valor da tabela impressa na embalagem, que reunimos em nossa [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), com 180 ml para o Café au Lait e 140 ml para o Desnatado. O Vanilla também fecha em cerca de 140 ml pela nossa conta. A loja indica 1 cápsula por bebida."
+          "A página da loja mostra o ícone de xícara média. Conta nossa, pelos números da loja: o clássico rende cerca de 180 ml (45 kcal da cápsula ÷ 25 kcal por 100 ml × 100). É o mesmo valor da tabela impressa na embalagem, que reunimos em nossa [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), com 180 ml para o Café au Lait e 140 ml para o Desnatado. O Vanilla também fecha em cerca de 140 ml pela nossa conta. A loja indica 1 cápsula por bebida."
         ],
         "image": "/images/reviews/dolcegusto/cafe-au-lait-dolce-gusto-xicara.webp",
         "imageAlt": "Cápsula e xícara grande do Café au Lait Dolce Gusto",
@@ -89123,7 +89106,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Café au Lait Desnatado: o que muda",
         "paragraphs": [
-          "A marca descreve o Desnatado como uma \"nova versão do Café Au Lait feita com leite desnatado\". Os ingredientes são soro de leite, leite em pó desnatado, café solúvel, TCM e lecitina de soja."
+          "O Desnatado troca o leite integral pelo desnatado. Os ingredientes são soro de leite, leite em pó desnatado, café solúvel, TCM e lecitina de soja."
         ],
         "comparisonTable": {
           "headers": [
@@ -89162,13 +89145,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Pela nossa conta, rende cerca de 140 ml. Em 17/10/2026, a caixa de 10 cápsulas custava R$ 25,90 na loja oficial, ou R$ 2,59 por cápsula (conta nossa)."
+          "Rende cerca de 140 ml; o preço está no capítulo Quanto custa a cápsula."
         ]
       },
       {
         "heading": "Café au Lait Vanilla: o que muda",
         "paragraphs": [
-          "A marca fala em \"toque e aroma de baunilha\". A lista de ingredientes é leite em pó integral, açúcar, café solúvel (15%), soro de leite, aromatizante, fosfato dipotássico, citrato de sódio e lecitina de soja."
+          "O Vanilla acrescenta açúcar e aroma de baunilha ao café com leite. A lista de ingredientes é leite em pó integral, açúcar, café solúvel (15%), soro de leite, aromatizante, fosfato dipotássico, citrato de sódio e lecitina de soja."
         ],
         "comparisonTable": {
           "headers": [
@@ -89199,7 +89182,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Pela nossa conta, rende cerca de 140 ml. Em 17/10/2026, a caixa de 10 cápsulas custava R$ 25,90 na loja oficial, ou R$ 2,59 por cápsula (conta nossa)."
+          "Rende cerca de 140 ml; o preço está no capítulo Quanto custa a cápsula."
         ]
       },
       {
@@ -89217,7 +89200,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "É bom? O que dizem as avaliações da loja",
         "paragraphs": [
-          "Em 17/10/2026, a página do Café au Lait clássico mostrava avaliação de 94%, com 47 avaliações. O Desnatado mostrava 96% (15 avaliações) e o Vanilla, 94% (19 avaliações). É a nota da própria loja, de quem comprou lá. A marca descreve o clássico como \"equilibrado e encorpado\", com \"grãos selecionados de café que se harmonizam perfeitamente com a cremosidade do leite integral\" e torrefação média. Para ver o Café au Lait ao lado de outros sabores, leia as [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026)."
+          "A página do Café au Lait clássico mostrava avaliação de 94%, com 47 avaliações. O Desnatado mostrava 96% (15 avaliações) e o Vanilla, 94% (19 avaliações). É a nota da própria loja, de quem comprou lá. A marca descreve o clássico como equilibrado e encorpado, de torrefação média. Para ver o Café au Lait ao lado de outros sabores, leia as [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026)."
         ]
       },
       {
@@ -89236,12 +89219,6 @@ export const reviewsData: unknown[] = [
           "Café au Lait Dolce Gusto tem glúten e lactose? A loja informa que contém lactose e contém glúten, além de derivados de leite e soja. Pode conter trigo, cevada e aveia.",
           "Café au Lait Dolce Gusto tem versão descafeinada ou Intenso? Não na loja oficial brasileira. Essas versões são de lojas de fora do Brasil."
         ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Esta é uma ficha de leitura das páginas do produto na loja oficial da NESCAFÉ Dolce Gusto, lidas em 17/10/2026, sem teste próprio. Os volumes em ml são conta nossa. O Em Casa com Cecília tem parceria comercial com a NESCAFÉ Dolce Gusto e pode receber comissão pelas compras feitas com o CECI. Preço e condições mudam: confira no carrinho."
-        ]
       }
     ],
     "pros": [],
@@ -89254,7 +89231,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Ficha feita a partir das páginas do produto na loja oficial, sem teste próprio. O Em Casa com Cecília tem parceria comercial com a NESCAFÉ Dolce Gusto e pode receber comissão pelas compras feitas com o CECI.",
+    "editorialNote": "Texto feito a partir das páginas do produto na loja oficial, sem teste próprio. O Em Casa com Cecília tem parceria comercial com a NESCAFÉ Dolce Gusto e pode receber comissão pelas compras feitas com o CECI.",
     "relatedArticles": [
       {
         "slug": "melhores-capsulas-dolce-gusto-2026",

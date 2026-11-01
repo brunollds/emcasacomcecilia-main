@@ -32,16 +32,10 @@
     },
     {
       "heading": "O confronto clássico: duas máquinas, dois propósitos completamente diferentes",
-      "paragraphs": ["Colocar lado a lado uma máquina da Dolce Gusto e uma da Nespresso esperando que elas façam o mesmo trabalho é o erro mais comum de quem compra a primeira cafeteira de cápsulas.", "Embora ambas pertençam ao portfólio global da Nestlé, você não está comparando aparelhos concorrentes com o mesmo objetivo, mas dois eletrodomésticos com propostas de rotina distintas.", "A verdadeira diferença entre Dolce Gusto e Nespresso começa no DNA de cada sistema: de um lado, uma estação doméstica multibebidas pensada para atender a família inteira; do outro, uma boutique de extração milimétrica dedicada quase que exclusivamente aos apreciadores de café puro."],
+      "paragraphs": ["Colocar lado a lado uma máquina da Dolce Gusto e uma da Nespresso esperando que elas façam o mesmo trabalho é o erro mais comum de quem compra a primeira cafeteira de cápsulas.", "Embora ambas pertençam ao portfólio global da Nestlé, você não está comparando aparelhos concorrentes com o mesmo objetivo, mas dois eletrodomésticos com propostas de rotina distintas.", "A diferença começa na proposta: de um lado, uma multibebidas para a família; do outro, uma máquina de espresso para quem bebe café puro."],
       "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-qual-escolher-hero.webp",
       "imageAlt": "Cafeteiras Dolce Gusto e Nespresso lado a lado em uma bancada moderna de cozinha",
       "imageCaption": "As duas máquinas lado a lado: propostas diferentes para rotinas diferentes.",
-      "imageFit": "contain"
-    },
-    {
-      "image": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
-      "imageAlt": "Caixas de cápsulas variadas NESCAFÉ Dolce Gusto",
-      "imageCaption": "A Dolce Gusto aposta na variedade familiar: dezenas de opções que vão de cafés intensos a achocolatados e chás gelados.",
       "imageFit": "contain"
     },
     {
@@ -65,7 +59,7 @@
     {
       "heading": "Proposta central: cafeteria multibebidas vs. boutique de espresso",
       "paragraphs": ["A Dolce Gusto atua como uma cafeteria multibebidas na bancada. O catálogo brasileiro reúne cafés pretos, lattes, achocolatados e chás, com disponibilidade que pode mudar ao longo do ano.", "Nas bebidas lácteas de duas cápsulas, uma cápsula prepara a parte de leite e a outra prepara o café ou o chocolate. O tempo e a sequência variam conforme a bebida indicada na embalagem, sem que leite líquido seja armazenado dentro da máquina.", "A Nespresso Original concentra o catálogo em cafés e em duas dosagens programadas nas máquinas de entrada consultadas: Espresso (40 ml) e Lungo (110 ml). Receitas com leite dependem de um espumador separado ou de um modelo Nespresso com sistema de leite."],
-      "bullets": ["Nespresso faz cappuccino? As máquinas de entrada (como Essenza Mini e Pixie) não fazem bebidas lácteas sozinhas. Não há compartimento de leite nem cápsulas oficiais de leite em pó.", "Para preparar cappuccino em modelos de entrada como Essenza Mini e Pixie, é necessário usar leite e um espumador separado, como o Aeroccino. A Nespresso também vende modelos com sistema de leite integrado.", "Na Dolce Gusto, as bebidas lácteas compatíveis são preparadas diretamente na xícara com as cápsulas indicadas na embalagem."],
+      "bullets": ["Nespresso faz cappuccino? As máquinas de entrada (como Essenza Mini e Pixie) não fazem bebidas lácteas sozinhas. Não há compartimento de leite nem cápsulas oficiais de leite em pó.", "Para cappuccino nesses modelos de entrada, use leite e um espumador separado, como o Aeroccino; há também modelos Nespresso com sistema de leite.", "Na Dolce Gusto, as bebidas lácteas compatíveis são preparadas diretamente na xícara com as cápsulas indicadas na embalagem."],
       "image": "/images/reviews/dolcegusto/nespresso-pixie-produto.webp",
       "imageAlt": "Cafeteira Nespresso Pixie, modelo compacto da linha Original",
       "imageCaption": "Nespresso Original: foco total no espresso puro, sem bebidas lácteas nativas.",
@@ -76,12 +70,18 @@
           "alt": "Cafeteira NESCAFÉ Dolce Gusto Genio, fabricada pela Arno no Brasil",
           "caption": "Dolce Gusto: estação multibebidas com painel de seleção de dose.",
           "objectFit": "square"
+        },
+        {
+          "src": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
+          "alt": "Caixas de cápsulas variadas NESCAFÉ Dolce Gusto",
+          "caption": "A Dolce Gusto aposta na variedade familiar: dezenas de opções que vão de cafés intensos a achocolatados e chás gelados.",
+          "objectFit": "contain"
         }
       ]
     },
     {
       "heading": "Mecânica de extração: 19 bar vs. 15 bar e o alerta Original vs. Vertuo",
-      "paragraphs": ["A pressão da bomba é o número que mais confunde compradores nas fichas técnicas.", "A Nespresso informa pressão máxima de 19 bar para a Essenza Mini e outros modelos da linha Original. Esse é o valor nominal da bomba; sozinho, ele não permite concluir que toda bebida terá mais crema ou melhor sabor.", "A Dolce Gusto informa pressão de até 15 bar para máquinas da linha clássica. Como cápsulas, volumes e receitas são diferentes entre os sistemas, a comparação de pressão não substitui a avaliação do tipo de bebida que cada pessoa pretende preparar.", "Atenção crucial de compra: a divisão Nespresso Original vs. Nespresso Vertuo."],
+      "paragraphs": ["A pressão da bomba é o número que mais confunde compradores nas fichas técnicas.", "A Nespresso informa pressão máxima de 19 bar para a Essenza Mini e outros modelos da linha Original. Esse é o valor nominal da bomba; sozinho, ele não permite concluir que toda bebida terá mais crema ou melhor sabor.", "A Dolce Gusto informa pressão de até 15 bar para máquinas da linha clássica. Como cápsulas, volumes e receitas são diferentes entre os sistemas, a comparação de pressão não substitui a avaliação do tipo de bebida que cada pessoa pretende preparar.", "Na compra, confira o sistema: Nespresso Original e Nespresso Vertuo usam cápsulas diferentes."],
       "bullets": ["Nespresso Original: usa o formato clássico de cápsula e possui ampla oferta de alternativas compatíveis no varejo brasileiro, além das cápsulas oficiais da Nespresso.", "Nespresso Vertuo: usa cápsulas próprias, leitura de código de barras e tecnologia Centrifusion. Segundo a página brasileira da Vertuo Pop, a cápsula gira em até 4.000 rpm; a máquina aceita somente cápsulas da linha Vertuo."],
       "links": [
         {
@@ -103,7 +103,7 @@
       "paragraphs": ["Comprar a máquina é apenas a taxa de entrada; o custo de longo prazo está no abastecimento diário. Esta tabela reutiliza a mesma amostra do nosso comparativo entre Dolce Gusto, Nespresso e TRES: preços coletados nos sites oficiais e na Amazon em agosto de 2026, sujeitos a estoque e promoções.", "Para manter a conta comparável, separamos cápsulas oficiais de alternativas compatíveis. A média por 100 ml considera apenas os produtos com preço e volume identificáveis naquela amostra; não representa um preço universal de cada sistema."],
       "bullets": [],
       "comparisonTable": {
-        "caption": "Custo por dose e por mês, em amostra de agosto de 2026: Dolce Gusto vs. Nespresso Original",
+        "caption": "Custo por dose e por mês: Dolce Gusto vs. Nespresso Original",
         "headers": ["Cenário", "Dolce Gusto", "Nespresso Original"],
         "rows": [
           ["Preço por cápsula na amostra", "Clássica oficial: R$ 1,69 a R$ 2,10", "Original oficial: R$ 3,70 a R$ 4,20 · Farmers Origins compatível: R$ 1,70"],
@@ -126,10 +126,10 @@
     },
     {
       "heading": "Tabela comparativa direta: Dolce Gusto vs. Nespresso Original",
-      "paragraphs": ["Resumo estruturado dos 9 pontos determinantes entre as duas plataformas de maior presença no mercado brasileiro:"],
+      "paragraphs": ["O resumo ponto a ponto entre as duas máquinas:"],
       "bullets": [],
       "comparisonTable": {
-        "caption": "Dolce Gusto (Genio S / Mini Me) vs. Nespresso (linha Original / Essenza Mini). Preços da amostra de agosto de 2026.",
+        "caption": "Dolce Gusto (Genio S / Mini Me) vs. Nespresso (linha Original / Essenza Mini).",
         "headers": ["Critério", "Dolce Gusto", "Nespresso Original"],
         "rows": [
           ["1. Proposta Principal", "Estação multibebidas familiar (cafés, achocolatados, chás e lattes)", "Foco absoluto em espresso, lungo e cafés gourmet de origem"],
@@ -146,7 +146,7 @@
     },
     {
       "heading": "No dia a dia da cozinha: espaço, descarte e canecas",
-      "paragraphs": ["A experiência prática do café da manhã mostra detalhes que a ficha técnica não mostra:", "Espaço e visual: na largura, quase empatam. As Genio S têm 11,2 cm, e a Essenza Mini, 11 cm. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.", "Descarte diário: A Nespresso ganha com folga: você levanta a alavanca e a cápsula cai na gaveta interna, que na Essenza Mini comporta 5 a 6 unidades (varia conforme o modelo Original). A Dolce Gusto exige tirar o porta-cápsulas pingando manualmente após cada xícara.", "Canecas grandes: modelos Genio S com função XL podem preparar até 300 ml. Na Essenza Mini, o espaço disponível depende da posição ou remoção da bandeja de gotejamento."],
+      "paragraphs": ["A experiência prática do café da manhã mostra detalhes que a ficha técnica não mostra:", "Espaço e visual: na largura, quase empatam, como mostra a tabela acima. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.", "Descarte diário: A Nespresso ganha com folga: você levanta a alavanca e a cápsula cai na gaveta interna, que na Essenza Mini comporta 5 a 6 unidades (varia conforme o modelo Original). A Dolce Gusto exige tirar o porta-cápsulas pingando manualmente após cada xícara.", "Canecas grandes: modelos Genio S com função XL podem preparar até 300 ml. Na Essenza Mini, o espaço disponível depende da posição ou remoção da bandeja de gotejamento."],
       "video": {
         "mp4": "/videos/reviews/dolcegusto/mini-me-2-0-loop.mp4",
         "poster": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-2.webp",
@@ -203,12 +203,12 @@
     },
     {
       "heading": "Qual escolher: os 4 perfis e os números",
-      "paragraphs": ["O custo da cápsula pesa tanto quanto a máquina. Na amostra de agosto de 2026 (sujeita a estoque e promoções), a cápsula oficial da Dolce Gusto Clássica custou de R$ 1,69 a R$ 2,10, e a da Nespresso Original, de R$ 3,70 a R$ 4,20. Veja qual perfil é o seu:"],
-      "bullets": ["Perfil 1, o purista do espresso curto: considere a Nespresso Original (Essenza Mini), pelo foco em Espresso (40 ml) e Lungo (110 ml). Conte com a cápsula oficial de R$ 3,70 a R$ 4,20 na amostra de agosto de 2026.", "Perfil 2, a família multibebidas e fã de cappuccino: vá de Dolce Gusto (Genio S Plus ou Touch com o cupom CECI). Cafés, achocolatados e chás na mesma máquina, com a cápsula a partir de R$ 1,69 na amostra de agosto de 2026.", "Perfil 3, quem compra cápsula no supermercado: vá de Nespresso Original, que tem ampla oferta de cápsulas compatíveis. O Farmers Origins, a cerca de R$ 1,70 por cápsula na amostra de agosto de 2026, aproxima o custo ao da Dolce Gusto.", "Perfil 4, o fã de canecão de café longo: a Dolce Gusto resolve com o recurso XL (300 ml). Se você faz questão de crema em volume alto, avalie a Vertuo, ciente do custo das cápsulas oficiais."]
+      "paragraphs": ["O custo da cápsula pesa tanto quanto a máquina. Na amostra de preços (sujeita a estoque e promoções), a cápsula oficial da Dolce Gusto Clássica custou de R$ 1,69 a R$ 2,10, e a da Nespresso Original, de R$ 3,70 a R$ 4,20. Veja qual perfil é o seu:"],
+      "bullets": ["Perfil 1, o purista do espresso curto: considere a Nespresso Original (Essenza Mini), pelo foco em Espresso (40 ml) e Lungo (110 ml). Conte com a cápsula oficial de R$ 3,70 a R$ 4,20 na amostra.", "Perfil 2, a família multibebidas e fã de cappuccino: vá de Dolce Gusto (Genio S Plus ou Touch com o cupom CECI). Cafés, achocolatados e chás na mesma máquina, com a cápsula a partir de R$ 1,69 na amostra.", "Perfil 3, quem compra cápsula no supermercado: vá de Nespresso Original, que tem ampla oferta de cápsulas compatíveis. O Farmers Origins, a cerca de R$ 1,70 por cápsula na amostra, aproxima o custo ao da Dolce Gusto.", "Perfil 4, o fã de canecão de café longo: a Dolce Gusto resolve com o recurso XL (300 ml). Se você faz questão de crema em volume alto, avalie a Vertuo, ciente do custo das cápsulas oficiais."]
     },
     {
       "heading": "Perguntas frequentes sobre Dolce Gusto e Nespresso",
-      "bullets": ["A Nespresso faz cappuccino e chocolate quente? A Essenza Mini e a Pixie preparam café. Para cappuccino, use um espumador separado ou escolha uma máquina Nespresso com sistema de leite; as cápsulas Nespresso são de café, não de chocolate quente.", "Qual cafeteira tem a cápsula mais barata? Na amostra coletada em agosto de 2026, a Dolce Gusto clássica oficial custava de R$ 1,69 a R$ 2,10 por cápsula; a Nespresso Original oficial, de R$ 3,70 a R$ 4,20. A compatível Farmers Origins aparecia por cerca de R$ 1,70. Preços mudam e devem ser conferidos antes da compra.", "A Nespresso Vertuo aceita cápsulas de outras marcas? A página oficial brasileira informa que a Vertuo Pop aceita somente cápsulas da linha Vertuo. Para maior variedade de marcas compatíveis, considere o sistema Nespresso Original.", "A Dolce Gusto ocupa muito espaço na cozinha? Pouco: as Genio S têm 11,2 cm de largura, quase o mesmo que os 11 cm da Essenza Mini. A Mini Me 2.0 é mais larga, com 16 cm."]
+      "bullets": ["A Nespresso faz cappuccino e chocolate quente? A Essenza Mini e a Pixie preparam café. Para cappuccino, use um espumador separado ou escolha uma máquina Nespresso com sistema de leite; as cápsulas Nespresso são de café, não de chocolate quente.", "Qual cafeteira tem a cápsula mais barata? Na amostra coletada, a Dolce Gusto clássica oficial custava de R$ 1,69 a R$ 2,10 por cápsula; a Nespresso Original oficial, de R$ 3,70 a R$ 4,20. A compatível Farmers Origins aparecia por cerca de R$ 1,70. Preços mudam e devem ser conferidos antes da compra.", "A Nespresso Vertuo aceita cápsulas de outras marcas? A página oficial brasileira informa que a Vertuo Pop aceita somente cápsulas da linha Vertuo. Para maior variedade de marcas compatíveis, considere o sistema Nespresso Original.", "A Dolce Gusto ocupa muito espaço na cozinha? Pouco: as Genio S e a Essenza Mini têm quase a mesma largura, e a Mini Me 2.0 é mais larga. As medidas estão na tabela comparativa acima."]
     }
   ],
   "cta": {

@@ -4,11 +4,6 @@
     "bodyDates": 8,
     "datesOutsideBody": 5
   },
-  "black-friday-dolce-gusto": {
-    "quickAnswerPrice": true,
-    "bodyDates": 17,
-    "datesOutsideBody": 7
-  },
   "black-friday-hostinger": {
     "transparencySection": true,
     "bodyDates": 7,
@@ -31,15 +26,6 @@
   "black-skull-ou-max-titanium": {
     "transparencySection": true,
     "bodyDates": 16,
-    "datesOutsideBody": 2
-  },
-  "cafe-au-lait-dolce-gusto": {
-    "transparencySection": true,
-    "bodyDates": 5
-  },
-  "caramelo-salgado-dolce-gusto": {
-    "transparencySection": true,
-    "bodyDates": 5,
     "datesOutsideBody": 2
   },
   "clea-store-e-confiavel": {
@@ -70,11 +56,6 @@
     "bodyDates": 6,
     "datesOutsideBody": 3
   },
-  "cupom-ceci-nescafe-dolce-gusto-como-usar": {
-    "quickAnswerPrice": true,
-    "bodyDates": 3,
-    "datesOutsideBody": 1
-  },
   "cupom-magalu-em-casa-com-cecilia": {
     "quickAnswerPrice": true,
     "datesOutsideBody": 1
@@ -86,18 +67,6 @@
     "quickAnswerPrice": true,
     "bodyDates": 8,
     "datesOutsideBody": 4
-  },
-  "dolce-gusto-capsulas-compativeis-guia": {
-    "bodyDates": 10,
-    "datesOutsideBody": 1
-  },
-  "dolce-gusto-vs-nespresso-qual-escolher": {
-    "bodyDates": 7,
-    "datesOutsideBody": 1
-  },
-  "dolce-gusto-vs-nespresso-vs-3-coracoes": {
-    "bodyDates": 5,
-    "datesOutsideBody": 1
   },
   "dr-peanut-melhor-sabor": {
     "bodyDates": 16,
@@ -137,11 +106,6 @@
     "transparencySection": true,
     "bodyDates": 7,
     "datesOutsideBody": 2
-  },
-  "mochaccino-canela-dolce-gusto": {
-    "transparencySection": true,
-    "bodyDates": 3,
-    "datesOutsideBody": 1
   },
   "poltrona-damie-e-boa": {
     "datesOutsideBody": 2
