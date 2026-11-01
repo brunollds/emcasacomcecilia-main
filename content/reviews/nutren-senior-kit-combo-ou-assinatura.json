@@ -34,7 +34,7 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Preços lidos na loja oficial da Nestlé Nutre. Podemos receber comissão pelo cupom CECI.",
+  "editorialNote": "Preços lidos na loja oficial da Nestlé Nutre. Ninguém da equipe usou os produtos. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "black-friday-nestle-nutre",
@@ -53,13 +53,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Em 28/10/2026, o kit de duas latas de 740 g sai mais barato por grama, tanto na compra única (R$ 17,80 por 100 g) quanto na assinatura (R$ 16,02). A lata de 370 g custa 53% mais por grama que o kit. O CECI não foi testado com o kit nem com a assinatura: confira no carrinho."
+        "O kit de duas latas de 740 g sai mais barato por grama, tanto na compra única quanto na assinatura. A lata de 370 g custa 53% mais por grama que o kit. O CECI não foi testado com o kit nem com a assinatura: confira no carrinho."
       ]
     },
     {
-      "heading": "Preço por 100 g: as cinco formas em 28/10/2026",
+      "heading": "Preço por 100 g: as cinco formas",
       "paragraphs": [
-        "Os preços são do sabor Sem Sabor, com a Premium Baunilha como exceção. Por 100 g, a conta usa 370 g por lata de 370 g, 740 g por lata de 740 g e 1.480 g no kit e no combo."
+        "Os preços são de 28/10/2026, do sabor Sem Sabor, com a Premium Baunilha como exceção; a loja estava numa campanha de Outubro Rosa, e eles podem mudar. Por 100 g, a conta usa 370 g por lata de 370 g, 740 g por lata de 740 g e 1.480 g no kit e no combo."
       ],
       "comparisonTable": {
         "headers": [
@@ -110,7 +110,7 @@
       "image": {
         "src": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-quadro-2810.webp",
         "alt": "Quadro com o preço por 100 g da Nutren Senior em lata de 370 g, lata de 740 g, combo, kit e Premium Baunilha, na compra única e na assinatura",
-        "caption": "Quadro nosso com os preços de 28/10/2026; em amarelo, o kit de duas latas de 740 g.",
+        "caption": "Quadro nosso com os preços lidos; em amarelo, o kit de duas latas de 740 g.",
         "objectFit": "contain",
         "aspectRatio": 2.1314
       }
@@ -165,7 +165,7 @@
         ]
       },
       "postParagraphs": [
-        "Na leitura de 28/10/2026, não apareceu assinatura para a Zero Lactose. A ficha do produto está em [ficha do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
+        "Na leitura dos preços, não apareceu assinatura para a Zero Lactose. A ficha do produto está em [ficha do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
       ],
       "image": {
         "src": "/images/reviews/nutren/nutren-senior-hero.webp",
@@ -207,15 +207,9 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "A assinatura obriga a receber todo mês? Não. A página diz que você pode cancelar quando quiser, sem custo, e pular até 2 entregas por ano.",
-        "O kit sai mais barato que o combo? Sim. Pelo preço de 28/10/2026, o kit custa R$ 263,49 e o combo, R$ 319,92, para o mesmo produto.",
+        "O kit sai mais barato que o combo? Sim. Pelo preço lido, o kit custa R$ 263,49 e o combo, R$ 319,92, para o mesmo produto.",
         "O CECI vale no kit e na assinatura? Não testamos. Confira no carrinho antes de pagar.",
-        "A Zero Lactose tem assinatura? Na leitura de 28/10/2026, não apareceu assinatura para ela. Na compra única, o kit sai R$ 148,25 por lata."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Os preços foram lidos na loja oficial da Nestlé Nutre em 28/10/2026. A loja está numa campanha de Outubro Rosa, e os preços podem mudar; confira antes de comprar. Podemos receber comissão quando você compra pelo link da loja ou usa o cupom CECI. Isso não muda o preço para você. Ninguém da equipe usou os produtos citados. Este texto fala de preço, tamanho e regras da loja, e não de efeito ou uso."
+        "A Zero Lactose tem assinatura? Na leitura dos preços, não apareceu assinatura para ela. Na compra única, o kit sai R$ 148,25 por lata."
       ]
     }
   ]
