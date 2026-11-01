@@ -4,21 +4,14 @@ Produtos que a Cecília mostra usando nos vídeos dela, com a frase e o arquivo 
 
 ## Como usar
 - **"Usei:" ou "Recebi:" só com o Bruno confirmando** no briefing que é o mesmo produto (mesmo modelo) do artigo e que a fala vale.
-- **`[publi]` = parceria paga.** O uso é real, mas o produto veio da parceria: o rótulo é "Recebi:", e o tom do vídeo não é modelo de voz. Os vídeos da Itatiaia foram todos parceria paga (Bruno, 31/10/2026).
+- **`[publi]` = parceria paga.** O uso é real, mas o produto veio da parceria: o rótulo é "Recebi:", e o tom do vídeo não é modelo de voz.
 - **`[saúde]` = fala sobre efeito no corpo, saúde ou beleza.** Nunca entra em artigo, nem com rótulo.
 - A voz dela, sem experiência, está em `00_Sistema/JOBS/Anexos/Anexo-Voz-da-Cecilia.md`.
 
-## Lista (97 âncoras)
+## Lista (80 âncoras)
 - Panela elétrica de arroz · `0105 (1).srt` — "depois eu coloquei as lentilhas na minha panela elétrica de arroz".
 - Cafeteira · `0108.srt` `[publi]` — "uma das minhas compras favoritas foi essa cafeteira".
-- Air fryer oven Itatiaia · `0114.srt` `[publi]` — "na bandeja da minha air fryer oven da itatiaia".
-- Aspirador 2 em 1 Itatiaia · `0117 (2).srt` `[publi]` — "é o novo aspirador dois em um da Itatiaia".
-- Air Fryer oven Itatiaia · `0119 (1).srt` `[publi]` — "isso porque a gente vai colocar tudo pra assar na minha Air Fryer oven da Itatiaia".
-- Panela elétrica Itatiaia · `0128(1).srt` `[publi]` — "com a minha panela elétrica da Itatiaia eu preparo tudo sem me preocupar".
-- Mixer de mão Itatiaia · `0128(2).srt` `[publi]` — "esse mixer de mão da itatiaia facilita muito o processo".
-- Cafeteira Itatiaia · `0128.srt` `[publi]` — "com a cafeteira o café fica pronto rapidinho e ainda se mantém quente por mais tempo".
 - Escrivaninha industrial · `0211.srt` `[publi]` — "como eu já tava doida por essa escrivaninha eu fui eu mesma montar".
-- Mix 3 em 1 Itatiaia · `0216.srt` `[publi]` — "e nessa hora você vai agradecer por ter um mix três em um de itatiaia".
 - Brigadeirão de Air Fryer (forma de furo) · `0302.srt` — "eu deixei gelando de um dia para o outro e desenformei".
 - Triturador manual de alho · `0304.srt` — "aí eu fiz bem pouquinho".
 - Panela de ferro Mollycook · `0309.srt` `[saúde]` — "ou seja deixa a nossa refeição muito mais nutritiva".
@@ -38,7 +31,6 @@ Produtos que a Cecília mostra usando nos vídeos dela, com a frase e o arquivo 
 - Geladeira Panasonic · `0330(18).srt` — "tenho geladeira da Panasonic que é ótimo e custo benefício é sensacional".
 - Baú de brinquedos · `0330(19).srt` — "a gente vai ganhar mais espaço".
 - Ovo Lacta caramelo salgado · `0330(2).srt` — "eu eu achei muito gostoso".
-- Air Fryer Itatiaia 8L · `0330(20).srt` `[publi]` — "e aqui a Itatiaia oito litros entregou tudo".
 - Ovo Lacta Oreo · `0330(3).srt` — "eu prefiro o de ontem do que esse".
 - Polpa de morango Frute Press · `0330(4).srt` — "essas são da frute press que você encontra no marte minas".
 - Geleia de morango caseira · `0330(5).srt` — "depois eu adicionei o açúcar e o limão".
@@ -60,17 +52,13 @@ Produtos que a Cecília mostra usando nos vídeos dela, com a frase e o arquivo 
 - Massa de empanar (frango empanado) · `1203 (1).srt` — "mas essa massa que eu vou te mostrar".
 - Pastel assado 3 ingredientes · `1208.srt` — "depois de cortar eu recheei aí com peito de peru ralado".
 - Tempero do Anjo · `1215.srt` — "tempero completo tempero do anjo nele já tem sal".
-- Air Fryer Itatiaia 8L · `1219(1).srt` `[publi]` — "coloquei o saco dentro da minha Air Fryer de oito litros de Itatiaia".
-- Air Fryer Oven Itatiaia · `1219(2).srt` `[publi]` — "porque a gente vai colocar pra gratinar na nossa Air Fryer oven da itáia".
 - Mixer de mão · `1219(3).srt` — "eu usei um mixer de mão".
-- Air Fryer Oven Itatiaia · `1219(4).srt` `[publi]` — "e aí eu vou fazer na minha Air Fryer oven da Itatiaia".
 - Tempero do Anjo sal de ervas · `1219.srt` — "o segredo especial tá aí sal de ervas do tempero do anjo".
 - Descascador Tupperware · `2906.srt` — "com esse descascador aqui esse aqui é da Tupperware".
 - Bclean · `Bclean alternativo.srt` — "vou colocar cem ml de baclin eu vou usar no borrifador".
 - Bclean · `Bclean.srt` — "e por último aqui vou colocar aqui o biclin puro".
 - Boia para filtro de barro · `Boia para filtro.srt` — "e agora eu não preciso mais encher o filtro todos os dias".
 - Bolo reaproveitado (chocolate) · `bolo fora.srt` — "porque eu queria que a massa fosse de chocolate e o meu bolo não era de chocolate".
-- Air Fryer Oven Itatiaia 12L · `bolo salgado caneca.srt` `[publi]` — "e levei pra minha Air Fryer oven de doze litros da Itatiaia".
 - Carne (Márcio Frios) · `carne de natal.srt` — "a gente encontra ela lá no Márcio frios".
 - Feijão branco em lata · `chilli branco.srt` — "e a gente tá usando o de lata porque esse pelo menos não vem bicho".
 - Air Fryer (cookies) · `Cookies de bolo.srt` — "eu vou assar na Air Fryer".
@@ -81,15 +69,11 @@ Produtos que a Cecília mostra usando nos vídeos dela, com a frase e o arquivo 
 - ChatGPT (buquê) · `flores.srt` — "e eu acabei concordando com ele".
 - BPF desengordurante · `Flotador.srt` — "eu só borrifei e ela já começou a escorrer".
 - Blusa Insider · `Insider lavagem.srt` — "eu coloquei essa blusa aqui da insider pra lavar".
-- Air Fryer Itatiaia (Dia das Mães) · `itatiaia dia das  maes.srt` `[publi]` — "e eu tenho uma teoria de que esse coque nos conecta algum tipo de sabedoria ancestral".
 - Cobertor One Sleep · `iwannasleep vovo.srt` `[publi]` — "e eu mostrei pra ela o meu cobertor da One Sleep".
 - Travesseiro de joelhos One Sleep · `iwannasleep vovo.srt` `[saúde]` `[publi]` — "…eu tivesse tido 1 noite mais confortável" (continuação de frase).
-- Panela de pressão elétrica Itatiaia · `Lasanha na panela.srt` `[publi]` — "tampar e deixar a nossa panela de pressão elétrica da Itatiaia fazer o serviço dela".
 - Lava e seca Samsung · `Minha primeira lava e seca.srt` — "eu nunca usei 1 lave seca".
 - Mussarela peça · `mussarela.srt` — "comprei uma peça de mussarela porque isso é mais barato".
-- Mixer Itatiaia · `nugget saudavel.srt` `[publi]` — "é porque eu tô usando o mixer da Itatiaia".
 - Frigideira antiaderente · `panelawolff.srt` — "eu vou colocar aqui no fogão e vou colocar um fiozinho de óleo".
-- Air fryer Itatiaia 8L · `peixe itatiaia.srt` `[publi]` — "essa minha air fryer é a de oito litros da itatiaia".
 - Poltrona reclinável Damie · `poltrona reclinavel 2.srt` `[publi]` — "essa é a nova poltrona reclinável da damie".
 - Paçoca cremosa (pasta de amendoim) · `pacoca cremosa.srt` — "ah mas eu faço pasta de amendoim".
 - Liquidificador novo · `Pudim de maracuja.srt` — "vou testar o liquidificador também que eu não usei ainda este liquidificador novo".
@@ -102,7 +86,6 @@ Produtos que a Cecília mostra usando nos vídeos dela, com a frase e o arquivo 
 - Sofá modular Damie · `sofa modular.srt` `[publi]` — "usando meu cupom Cecília doze".
 - Tábua de cedro (descartável) · `tilapia na tabua  de cedro.srt` — "e inclusive eu já vou até falar que ela é descartável".
 - Jaqueta de brechó · `Tingir jaqueta.srt` — "eu comprei faz uns dois anos num brechó".
-- Air Fryer Oven Itatiaia · `Torta de bacon itatiaia.srt` `[publi]` — "eu já vou colocar a minha Air Fryer para esquentar".
 - Massa de bolo pronta · `torta de banana preguicosa.srt` — "aí eu tô usando a de leite condensado".
 - Bombons Ouro Branco · `travessa de ouro branco.srt` — "coloquei por cima do nosso creme branco e finalizei com os bombons picados por cima".
 - Vaporizador · `vaporizador 1.srt` — "eu testei de todas as maneiras possíveis comecei pelo banheiro".
