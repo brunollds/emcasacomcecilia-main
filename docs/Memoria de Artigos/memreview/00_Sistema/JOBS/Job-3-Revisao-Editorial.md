@@ -56,6 +56,7 @@ O revisor conta no JSON: `contentSections`, FAQ, legendas e tabelas. O `editoria
 | C11 | Briefing × REGRAS-GLOBAIS | Lê o esqueleto e a resposta rápida planejada do briefing contra `REGRAS-GLOBAIS.md`, seção 6 | Nenhum item contradiz a seção 6 (ex.: R$ ou preço com cupom na resposta rápida). Se contradiz, vale a REGRAS-GLOBAIS e o briefing é corrigido antes da redação |
 | C12 | A primeira frase decide | A primeira frase de cada capítulo (fora FAQ e tabela solta) | Entrega a conclusão de um critério de decisão. Frase que só apresenta o assunto ("A Tech é a camiseta clássica da Insider") falha |
 | C13 | Veredito pessoal | Frases de veredito pessoal no corpo, e a forma pelo tipo (Job 2, seção 5) | Guia de escolha e comparativo: exatamente uma, no capítulo de veredito, com o porquê num dado do artigo. Suplementos-Alimentos e Beleza: zero "eu levaria", "eu tomaria" ou "eu usaria" |
+| C13b | Cartão de destaque | Campos `emphasis` no artigo | No máximo 1, com a frase de veredito pessoal ou outro julgamento que a Cecília assinaria. Dado de loja, regra de cupom ou aviso no cartão falha |
 | C14 | Título em forma de pergunta | Cada título de capítulo que é pergunta, contra o banco de perguntas reais do dossiê | Todos estão no banco palavra por palavra. Pergunta fora do banco vira título direto |
 
 ### 2.3 Rótulos permitidos (C9)
