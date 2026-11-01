@@ -1,6 +1,7 @@
 {
   "id": 337,
   "slug": "black-friday-yesstyle",
+  "bodyDatesReason": "campanha",
   "locale": "pt",
   "translationKey": "yesstyle-black-friday",
   "title": "Black Friday YesStyle 2026: quando começa, como funcionam os cupons e onde entra o código CECILIA010",
@@ -48,35 +49,30 @@
     {
       "heading": "Quando começa a Black Friday da YesStyle",
       "paragraphs": [
-        "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo junta as páginas das Black Fridays de 2024 e 2025. A de 2026 ainda não saiu."
+        "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo traz as datas de 2025; em 2024, as fases seguiram a mesma ordem e começaram um ou dois dias depois. A de 2026 ainda não saiu."
       ],
       "comparisonTable": {
-        "caption": "Cupons abertos a todos os membros, pelas páginas de ajuda da YesStyle. Datas no horário GMT, que é o que vale para a loja.",
+        "caption": "Cupons abertos a todos os membros em 2025, pelas páginas de ajuda da YesStyle; cada fase vai até o início da seguinte. Datas no horário GMT, que é o que vale para a loja.",
         "headers": [
           "Fase",
-          "2024",
-          "2025"
+          "Em 2025"
         ],
         "rows": [
           [
             "Cupom de faixa com o nome Black Friday",
-            "4/11 a 29/11",
-            "3/11 a 27/11"
+            "a partir de 3/11"
           ],
           [
             "15% sem valor mínimo (Black Friday)",
-            "29/11 a 2/12",
-            "27/11 a 1/12"
+            "a partir de 27/11"
           ],
           [
             "15% sem valor mínimo (Cyber Monday)",
-            "2/12 a 4/12",
-            "1/12 a 3/12"
+            "a partir de 1/12"
           ],
           [
             "Cupom de faixa da Cyber Monday",
-            "4/12 a 10/12",
-            "3/12 a 8/12"
+            "de 3/12 a 8/12"
           ]
         ]
       },
@@ -177,14 +173,14 @@
     {
       "heading": "Ofertas que não são para todo mundo",
       "paragraphs": [
-        "Em 2025, além do cupom aberto a todos os membros, a YesStyle teve duas ofertas restritas. Entre 24 e 30 de novembro, os níveis Bronze, Silver e Gold do Elite Club, o programa de fidelidade da loja, tiveram um produto por dia a US$ 1, em pedidos a partir de US$ 50: um por pedido, enquanto durasse o estoque e sem troca nem devolução. E entre 28/11 e 1/12, um cupom de 18% sem valor mínimo foi para membros selecionados (\"We Miss You\"). A página não explica como esses membros foram escolhidos.",
+        "Em 2025, além do cupom aberto a todos os membros, a YesStyle teve duas ofertas restritas. Na semana da Black Friday, os níveis Bronze, Silver e Gold do Elite Club, o programa de fidelidade da loja, tiveram um produto por dia a US$ 1, em pedidos a partir de US$ 50: um por pedido, enquanto durasse o estoque e sem troca nem devolução. E entre a Black Friday e a Cyber Monday, um cupom de 18% sem valor mínimo foi para membros selecionados (\"We Miss You\"). A página não explica como esses membros foram escolhidos.",
         "Se aparecer um cupom desses na sua conta, a regra é a mesma: ele soma com o código de recompensa e com os YS Points."
       ]
     },
     {
       "heading": "Depois da Black Friday: o Natal",
       "paragraphs": [
-        "Em 2024, o maior cupom do fim de ano não foi o da Black Friday: entre 22 e 26 de dezembro, a YesStyle deu 18% sem valor mínimo em tudo. Em 2025, os cupons abertos a todos os membros ficaram nos 15% até o fim do ano.",
+        "Em 2024, o maior cupom do fim de ano não foi o da Black Friday: na semana do Natal, a YesStyle deu 18% sem valor mínimo em tudo. Em 2025, os cupons abertos a todos os membros ficaram nos 15% até o fim do ano.",
         "Para presente de Natal, a compra da Black Friday é a mais segura. Uma compra internacional demora mais que a de uma loja daqui, e o prazo estimado aparece no checkout antes de pagar."
       ]
     },
@@ -196,7 +192,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
         "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-        "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000, lida em 13/10/2026.",
+        "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
         "objectFit": "contain",
         "aspectRatio": 3.5907
       }
@@ -247,7 +243,7 @@
         "O CECILIA010 vale na Black Friday? Vale. Ele vai no campo Reward Code, e as regras dos cupons da Black Friday dizem que eles valem junto com os Rewards Codes.",
         "Dá para usar dois cupons da YesStyle no mesmo pedido? Não: é um cupom por pedido. O código de recompensa é outra coisa e vai em outro campo do checkout.",
         "Preciso ter conta na YesStyle para usar o cupom da Black Friday? Precisa. Os cupons são só para membros, e quem compra como visitante fica sem o desconto.",
-        "A YesStyle entrega no Brasil? A loja não traz o Brasil na tabela de frete, mas um pedido nosso feito em 17/09/2026 foi enviado em 19/09/2026. O frete e o prazo aparecem no checkout.",
+        "A YesStyle entrega no Brasil? A loja não traz o Brasil na tabela de frete, mas um pedido nosso foi enviado dois dias depois de feito. O frete e o prazo aparecem no checkout.",
         "Vou pagar imposto comprando na YesStyle? Pode haver cobrança na chegada do pacote. Em pedidos abaixo de US$ 1.000, a YesStyle devolve esses impostos em crédito na loja, se você mandar o comprovante em até 30 dias."
       ]
     }
