@@ -26,3 +26,9 @@ Script sobre os 239 consertos, contra a `origin/main` em `8d99b19c`. Os 35 JSONs
 7. **Gates:** `node scripts/content/build-index.mjs`, `npm run validate:content` e `npm run test:article-d2`. Um PR para o lote, com o Gate 1 verde.
 
 O backup dos 35 JSONs como estavam fica em `muse-rev/backup-voz-lote-01` (fora do repositório). Desfazer = reverter o PR.
+
+## Correção depois do #453 (01/11/2026)
+A aplicação do lote apagou dois relatos de uso real. Voltam, na voz nova:
+- `cupom-ceci-nescafe-dolce-gusto-como-usar`: "Código verificado: o desconto apareceu no resumo do pedido." vira "Código verificado: testamos o CECI no site oficial, e o desconto apareceu no resumo do pedido."
+- `dolce-gusto-genio-s-touch-vale-a-pena`: "A Touch foi a mais rápida a ficar pronta para a primeira bebida, incluindo na comparação com a Vertuo da Nespresso." vira "Das máquinas de cápsula que já tivemos em casa, a Touch foi a mais rápida a ficar pronta para a primeira bebida, Vertuo da Nespresso incluída."
+Entra no mesmo PR do complemento do lote 01 (ficha dos produtos Damie e cartões).
