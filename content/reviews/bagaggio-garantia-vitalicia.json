@@ -50,19 +50,19 @@
       ],
       "bullets": [
         "Ser da marca Bagaggio, e não de outra marca vendida pela loja.",
-        "Ter sido comprada a partir de 29/04/2024, com nota fiscal em nome do consumidor.",
+        "Ter sido comprada depois do início do programa, com nota fiscal em nome do consumidor.",
         "Estar no Brasil. A garantia não vale fora do território nacional.",
         "Ser do comprador original. A garantia não passa para outra pessoa."
       ],
       "postParagraphs": [
         "A garantia vem na mala, sem custo adicional. A página diz que vale para todas as malas da marca \"independentemente do período informado na TAG\". Ou seja, a etiqueta de prazo não limita essas malas.",
-        "A página não diz o que vale para malas compradas antes de 29/04/2024. Este texto dá só a data. Se a sua mala é anterior, vale perguntar à loja antes de contar com a garantia vitalícia."
+        "A página não diz o que vale para malas compradas antes dessa data. Se a sua mala é anterior, vale perguntar à loja antes de contar com a garantia vitalícia."
       ],
       "images": [
         {
           "src": "/images/reviews/bagaggio/garantia-print-pagina-oficial.webp",
           "alt": "Print da página oficial Garantia Vitalícia Bagaggio, com o título, a frase sobre vícios de fabricação e a regra de que a garantia vale só para malas da marca, a partir de 29/04/2024",
-          "caption": "Página oficial da garantia, lida em 22/10/2026.",
+          "caption": "Página oficial da garantia, lida no site.",
           "objectFit": "contain",
           "aspectRatio": 1.7131
         }
@@ -126,7 +126,7 @@
         {
           "src": "/images/reviews/bagaggio/garantia-quadro-cobre-nao-cobre.webp",
           "alt": "Quadro com duas colunas: à esquerda, o que a garantia cobre, como falha de fabricação e defeito de montagem; à direita, o que não cobre, como queda, desgaste das rodas, zíper danificado por uso, manchas e dano no voo",
-          "caption": "Quadro feito por nós, com base na página de garantia lida em 22/10/2026.",
+          "caption": "Quadro feito por nós, com base na página de garantia lida no site.",
           "objectFit": "contain",
           "aspectRatio": 1.3333
         }
@@ -182,7 +182,7 @@
       "image": {
         "src": "/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp",
         "alt": "Ficha da Mala de Bordo Detroit Preta no site da Bagaggio: cadeado embutido, rodas 360°, bolsos internos, feita em ABS, suporta até 10 kg e selo de garantia vitalícia, com as medidas de 55 x 35 x 23 cm",
-        "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja, lida em 22/10/2026. O selo de garantia vitalícia vale para as malas da marca.",
+        "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja. O selo de garantia vitalícia vale para as malas da marca.",
         "objectFit": "square",
         "aspectRatio": 1.0
       }
@@ -251,7 +251,7 @@
       "paragraphs": [
         "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o cupom CECILIA10. Veja a [página do cupom da Bagaggio](/cupons/bagaggio) para as condições vigentes.",
         "O cupom dá 10% OFF em todo o site, inclusive no Outlet e em produto já com desconto. O Pix de 5% entra depois, sobre o total que já tem o cupom. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido.",
-        "Ele vai no campo \"Cupom de desconto\" do resumo, e não no campo de vendedor ou influenciador. Confira as parcelas no checkout. Em 22/10/2026, montamos a sacola no site, sem finalizar, e o desconto apareceu no resumo.",
+        "Ele vai no campo \"Cupom de desconto\" do resumo, e não no campo de vendedor ou influenciador. Confira as parcelas no checkout. Montamos a sacola no site, sem finalizar, e o desconto apareceu no resumo.",
         "O passo a passo do cupom e os números do teste estão em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
       ]
     },
@@ -259,7 +259,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "A mochila Bagaggio tem garantia vitalícia? Não, pelo texto da loja. A garantia vitalícia vale só para malas da marca Bagaggio. Mochila e bolsa seguem a garantia da etiqueta ou, sem prazo, 90 dias.",
-        "A garantia vitalícia Bagaggio vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas a partir de 29/04/2024. Travelcross e Swiss One seguem a garantia do fabricante.",
+        "A garantia vitalícia Bagaggio vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas depois do início do programa. Travelcross e Swiss One seguem a garantia do fabricante.",
         "A garantia cobre dano causado pela companhia aérea? Não. A página diz que o dano no voo é responsabilidade da companhia, e orienta a registrar a reclamação no balcão, com o RIB ou PIR.",
         "Como acionar a garantia da Bagaggio? Na compra online, pelo Troque Fácil, com o número do pedido e o CPF. Na compra em loja física, na loja da compra ou pelo e-mail atendimento@bagaggio.com.br.",
         "A garantia vale se eu estiver fora do Brasil? Não. Ela é restrita ao território brasileiro, e o acionamento só começa depois do retorno ao país.",

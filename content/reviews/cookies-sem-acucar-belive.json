@@ -34,7 +34,7 @@
   },
   "coupon": "MAUAD",
   "affiliate": "belive",
-  "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD.",
+  "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os cookies.",
   "relatedArticles": [
     {
       "slug": "brownie-sem-acucar-belive",
@@ -53,7 +53,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Os quatro cookies sem açúcar da Belive custam R$ 8,97 o pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g; veja abaixo."
+        "Os quatro cookies sem açúcar da Belive são vendidos por pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g; veja abaixo."
       ]
     },
     {
@@ -126,7 +126,7 @@
       "heading": "Quanto sai cada um",
       "paragraphs": [
         "Preços lidos na ficha da loja em 28/10/2026, no cartão. Cada pacote custa R$ 8,97, nos quatro sabores. O kit de 10 de cada sabor custa R$ 83,42 no cartão: a ficha mostra R$ 89,70 riscado, e no Pix o kit fica em R$ 79,25. A página do kit não informa quantos pacotes vêm, então este texto não calcula preço por unidade.",
-        "O cupom MAUAD tira mais 10% do pacote e do kit. O site anuncia Black November com \"até 30%\". Os preços deste texto são de 28/10/2026 e podem mudar; confira o total no carrinho."
+        "O cupom MAUAD tira mais 10% do pacote e do kit. O site anuncia Black November com \"até 30%\". Os preços podem mudar; confira o total no carrinho."
       ]
     },
     {
@@ -187,7 +187,7 @@
       "image": {
         "src": "/images/reviews/belive/cookies-sem-acucar-belive-tabelas-2810.webp",
         "alt": "Tabelas nutricionais oficiais dos quatro cookies sem açúcar da Belive, por 30 g",
-        "caption": "As tabelas publicadas pela Belive nas fichas dos quatro cookies, lidas em 27/10/2026.",
+        "caption": "As tabelas publicadas pela Belive nas fichas dos quatro cookies.",
         "objectFit": "contain",
         "aspectRatio": 1.0
       }
@@ -267,12 +267,6 @@
         "Qual tem mais proteína? O de castanhas e chocolate, com 1,9 g por 30 g. Os outros têm 1,4 g.",
         "Qual tem menos calorias por 30 g? O de chocolate, com 108 kcal.",
         "Tem castanha? Sim, os quatro trazem outras castanhas, segundo a tabela de alérgenos do site."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Os preços e os rótulos foram lidos na loja oficial da Belive em 28/10/2026, e podem mudar. Podemos receber comissão quando você compra com o cupom MAUAD. Ninguém da equipe provou os cookies: este texto fala de preço, rótulo e ingredientes, não de sabor."
       ]
     }
   ]

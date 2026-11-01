@@ -33,7 +33,7 @@
       "heading": "Quem opera a Bagaggio",
       "paragraphs": [
         "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo. Antes dos detalhes, um aviso: o site traz três datas que se misturam, e a loja não explica a ligação entre elas, como mostra o capítulo seguinte.",
-        "O rodapé do site e o do checkout repetem a mesma razão social e o mesmo CNPJ. Na consulta pública de 22/10/2026, esse CNPJ aparece como ativo e matriz, de sociedade empresária limitada, com início de atividade em 27/07/2007. A atividade principal cadastrada é comércio varejista de artigos de viagem. O endereço é o mesmo no site e na Receita: Rua Dezesseis, s/n, quadra 17, lotes 1 e 2, Xerém, Duque de Caxias (RJ), CEP 25250-614."
+        "O rodapé do site e o do checkout repetem a mesma razão social e o mesmo CNPJ. Na consulta pública, esse CNPJ aparece como ativo e matriz, de sociedade empresária limitada, com início de atividade em 27/07/2007. A atividade principal cadastrada é comércio varejista de artigos de viagem. O endereço é o mesmo no site e na Receita: Rua Dezesseis, s/n, quadra 17, lotes 1 e 2, Xerém, Duque de Caxias (RJ), CEP 25250-614."
       ],
       "postParagraphs": [
         "Para conferir, compare o CNPJ do rodapé com o número que aparece na nota fiscal da sua compra."
@@ -42,7 +42,7 @@
         {
           "src": "/images/reviews/bagaggio/bagaggio-e-confiavel-rodape-cnpj.webp",
           "alt": "Rodapé do checkout de bagaggio.com.br com a razão social BAG-ONLINE COMERCIO DE BOLSAS LTDA, o CNPJ 08.956.394/0001-68 e o endereço em Xerém, Duque de Caxias",
-          "caption": "Rodapé do checkout de bagaggio.com.br, capturado em 22/10/2026. O destaque nos dados da empresa é nosso.",
+          "caption": "Rodapé do checkout de bagaggio.com.br, capturado por nós. O destaque nos dados da empresa é nosso.",
           "objectFit": "contain",
           "aspectRatio": 4.3048
         }
@@ -106,7 +106,7 @@
       "image": {
         "src": "/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp",
         "alt": "Ficha da Mala de Bordo Detroit Preta no site da Bagaggio: cadeado embutido, rodas 360°, bolsos internos, feita em ABS, suporta até 10 kg e selo de garantia vitalícia, com as medidas de 55 x 35 x 23 cm",
-        "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja, lida em 22/10/2026. O selo de garantia vitalícia vale para as malas da marca.",
+        "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja. O selo de garantia vitalícia vale para as malas da marca.",
         "objectFit": "square",
         "aspectRatio": 1.0
       }
@@ -193,7 +193,7 @@
     {
       "heading": "E a reputação no Reclame Aqui?",
       "paragraphs": [
-        "Na leitura de 22/10/2026, o perfil Bagaggio - Loja Virtual no Reclame Aqui tinha o selo \"Empresa Verificada\", mas a nota muda bastante conforme o período, e os números estão no [artigo sobre a reputação no Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao).",
+        "Na leitura que fizemos, o perfil Bagaggio - Loja Virtual no Reclame Aqui tinha o selo \"Empresa Verificada\", mas a nota muda bastante conforme o período, e os números estão no [artigo sobre a reputação no Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao).",
         "Frases de ranking que aparecem no site também não batem com a reputação pública da loja, então este texto não as repete."
       ]
     },
@@ -218,7 +218,7 @@
         "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o CECILIA10. Veja a [página do cupom da Bagaggio](/cupons/bagaggio) para as condições vigentes.",
         "O CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet e em produtos já com desconto. Vale para clientes novos e antigos, em todas as formas de pagamento, e a loja aceita um cupom por pedido. Ele soma com o Pix de 5%, que entra sobre o total já com o cupom, enquanto a loja mantiver a oferta.",
         "Para aplicar, cole o código no campo \"Cupom de desconto\" do resumo do pedido. O campo \"Código de vendedor(a) ou influenciador(a)\" não é o lugar do CECILIA10.",
-        "Em 22/10/2026, testamos no carrinho, sem finalizar a compra: uma mala do Outlet, de R$ 249,90 por R$ 179,90, ficou em R$ 161,91 com o cupom. No Pix, o teste pela API pública do checkout deu R$ 153,81. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
+        "Testamos no carrinho, sem finalizar a compra: uma mala do Outlet, de R$ 249,90 por R$ 179,90, ficou em R$ 161,91 com o cupom. No Pix, o teste pela API pública do checkout deu R$ 153,81. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
         "O cupom não vale no Mercado Livre, onde vale o preço do anúncio. O link da marca no Mercado Livre está nas perguntas frequentes, no fim do texto."
       ]
     },
@@ -229,7 +229,7 @@
         "De qual país é a Bagaggio? A própria marca diz que é brasileira e que foi fundada em 1942 no Rio de Janeiro. A empresa que opera o site está registrada no Brasil, com sede em Duque de Caxias (RJ).",
         "Qual é o CNPJ da Bagaggio? O CNPJ do rodapé do site é 08.956.394/0001-68, da BAG-ONLINE COMERCIO DE BOLSAS LTDA. Confira o número na consulta pública da Receita.",
         "O site bagaggio.com.br é seguro e oficial? O endereço oficial é bagaggio.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a Receita.",
-        "A garantia vitalícia da Bagaggio vale para todas as malas? Não. Ela vale só para as malas da marca Bagaggio compradas a partir de 29/04/2024. Mochilas, bolsas e outras marcas ficam de fora.",
+        "A garantia vitalícia da Bagaggio vale para todas as malas? Não. Ela vale só para as malas da marca Bagaggio compradas depois do início do programa. Mochilas, bolsas e outras marcas ficam de fora.",
         "Posso trocar ou devolver um produto da Bagaggio? Sim, dentro das regras da loja. Na compra pelo site, a lei dá 7 dias corridos depois do recebimento para desistir, e a devolução é feita pelo Troque Fácil.",
         "Quando o reembolso cai? No cartão, o estorno pode aparecer em até duas faturas. No boleto, o crédito sai em até 10 dias úteis depois do recebimento do produto.",
         "A Bagaggio tem frete grátis? O site não publica uma política de frete grátis. O valor do frete aparece pelo CEP no carrinho.",

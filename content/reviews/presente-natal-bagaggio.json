@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na Bagaggio, até R$ 100 há carteira, nécessaire, bolsa e a mochila Horizonte para notebook; de R$ 100 a R$ 250, nécessaires, uma carteira de couro e mochilas executivas. Acima de R$ 250 ficam bolsas, mochilas executivas e o kit Joá, que custa a soma das peças. Preços do cartão em 30/10/2026, e o CECILIA10 dá 10%."
+        "Na Bagaggio, a faixa mais barata tem carteira, nécessaire, bolsa e a mochila Horizonte para notebook; a do meio, nécessaires, uma carteira de couro e mochilas executivas. A mais cara tem bolsas, mochilas executivas e o kit Joá, que custa a soma das peças. O CECILIA10 dá 10%."
       ]
     },
     {
@@ -41,12 +41,12 @@
     {
       "heading": "Até R$ 100",
       "paragraphs": [
-        "Esta faixa tem carteira, nécessaire, bolsa de viagem e uma mochila para notebook. Todas as peças estavam disponíveis na API da loja em 30/10/2026."
+        "Esta faixa tem carteira, nécessaire, bolsa de viagem e uma mochila para notebook. Todas as peças estavam disponíveis na API da loja."
       ],
       "comparisonTable": {
         "headers": [
           "Peça",
-          "Cartão (30/10)",
+          "Cartão",
           "Lista"
         ],
         "rows": [
@@ -88,12 +88,12 @@
     {
       "heading": "De R$ 100 a R$ 250",
       "paragraphs": [
-        "Aqui entram nécessaires, uma carteira de couro com fecho em botão e mochilas executivas para notebook. Os preços são do cartão em 30/10/2026."
+        "Aqui entram nécessaires, uma carteira de couro com fecho em botão e mochilas executivas para notebook. Os preços são do cartão."
       ],
       "comparisonTable": {
         "headers": [
           "Peça",
-          "Cartão (30/10)",
+          "Cartão",
           "Lista"
         ],
         "rows": [
@@ -147,7 +147,7 @@
       "comparisonTable": {
         "headers": [
           "Peça",
-          "Cartão (30/10)",
+          "Cartão",
           "Lista"
         ],
         "rows": [
@@ -223,7 +223,7 @@
       "heading": "Cupom e Pix",
       "paragraphs": [
         "O CECILIA10 dá 10% no site da Bagaggio, inclusive em produto com desconto. A regra completa está na [página do cupom Bagaggio](/cupons/bagaggio). A promoção de 50% na segunda peça é um cupom e não soma com o CECILIA10.",
-        "No Pix, a loja mostra 5% a mais. No nosso teste de carrinho de 22/10/2026, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Não testamos o cupom nesta lista de peças, então não damos valor final com cupom: confira o resumo do pedido antes de pagar."
+        "No Pix, a loja mostra 5% a mais. No nosso teste de carrinho, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Não testamos o cupom nesta lista de peças, então não damos valor final com cupom: confira o resumo do pedido antes de pagar."
       ]
     },
     {
@@ -232,7 +232,7 @@
         "A Bagaggio vende vale-presente? Vende, na página vale-presente do site, com compra virtual num site parceiro de cartões. Não conferimos valores nem regras.",
         "A Bagaggio tem embalagem para presente? Tem a lata de alumínio para carteira, de R$ 19,90, vendida avulsa no site.",
         "O cupom CECILIA10 vale no Mercado Livre? Não. Ele vale no site oficial da Bagaggio. No Mercado Livre, vale o preço do anúncio, sem o cupom.",
-        "Qual é o presente da Bagaggio até R$ 100? Há carteira, nécessaire, bolsa de viagem e a mochila Horizonte para notebook, de R$ 29,90 a R$ 79,90 no cartão, em 30/10/2026.",
+        "Qual é o presente da Bagaggio até R$ 100? Há carteira, nécessaire, bolsa de viagem e a mochila Horizonte para notebook, de R$ 29,90 a R$ 79,90 no cartão.",
         "O kit Joá custa menos que as peças separadas? Não. O kit de R$ 699,80 é a soma da mochila Joá Preto, de R$ 599,90, e da carteira vertical Joá Preta, de R$ 99,90."
       ]
     }
