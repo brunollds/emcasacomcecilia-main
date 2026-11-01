@@ -18,6 +18,7 @@ Vale junto com o Job 2 e com as decisões de 31/10/2026. Este anexo aplica essas
 
 ## O que este tipo nunca faz
 
+- Fecha o veredito com "eu levaria", "eu tomaria" ou "eu usaria". O veredito é "Pelos números da tabela, para o perfil X a escolha é Y, porque Z" (Job 2, seção 5).
 - Cita a Anvisa no texto; ela é checagem interna da pauta.
 - Põe "é o que a marca escreve, não promessa deste texto" ou "segundo a Skelt" em todo capítulo; a atribuição vale uma vez por capítulo.
 - Diz "ninguém do site usou" fora do `editorialNote`, ou usa "testamos" sem teste.

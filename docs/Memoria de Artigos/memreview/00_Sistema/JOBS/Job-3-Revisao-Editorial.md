@@ -54,6 +54,9 @@ O revisor conta no JSON: `contentSections`, FAQ, legendas e tabelas. O `editoria
 | C9 | Rótulos | Conta as 4 frases de "Rótulos permitidos" (abaixo) no corpo | Cada uma no máximo uma vez; nenhuma numa frase de efeito (benefício, saúde, beleza, desempenho); "Regra prática, sem teste nosso:" com a premissa escrita na mesma frase |
 | C10 | Anexo do tipo | O tipo é Moda, Casa-Malas, Beleza, Suplementos-Alimentos ou Tecnologia; abre `00_Sistema/JOBS/Anexos/Anexo-<Tipo>.md` | O artigo segue o anexo. Tipo fora da lista ou anexo ausente: o revisor para e avisa, sem inventar regra |
 | C11 | Briefing × REGRAS-GLOBAIS | Lê o esqueleto e a resposta rápida planejada do briefing contra `REGRAS-GLOBAIS.md`, seção 6 | Nenhum item contradiz a seção 6 (ex.: R$ ou preço com cupom na resposta rápida). Se contradiz, vale a REGRAS-GLOBAIS e o briefing é corrigido antes da redação |
+| C12 | A primeira frase decide | A primeira frase de cada capítulo (fora FAQ e tabela solta) | Entrega a conclusão de um critério de decisão. Frase que só apresenta o assunto ("A Tech é a camiseta clássica da Insider") falha |
+| C13 | Veredito pessoal | Frases de veredito pessoal no corpo, e a forma pelo tipo (Job 2, seção 5) | Guia de escolha e comparativo: exatamente uma, no capítulo de veredito, com o porquê num dado do artigo. Suplementos-Alimentos e Beleza: zero "eu levaria", "eu tomaria" ou "eu usaria" |
+| C14 | Título em forma de pergunta | Cada título de capítulo que é pergunta, contra o banco de perguntas reais do dossiê | Todos estão no banco palavra por palavra. Pergunta fora do banco vira título direto |
 
 ### 2.3 Rótulos permitidos (C9)
 Cada rótulo, com o texto exato, aparece no máximo uma vez por artigo, e só onde se aplica:
@@ -65,5 +68,9 @@ Cada rótulo, com o texto exato, aparece no máximo uma vez por artigo, e só on
 ### 2.4 Leitura em voz alta (item final)
 O revisor lê, em voz alta e como leitor, a resposta rápida e um capítulo do meio. Responde em uma linha: soa como pessoa ajudando ou como laudo? Se for laudo, cita a frase que pesa (ex.: lista de números sem frase que os explique) e o rascunho volta ao Job 2.
 
+**Onde reler primeiro (mapa, não trava):** a cada ~150 palavras deve haver uma instrução que o leitor pode seguir, uma comparação que decide ou um "leve se / passe se". Trecho longo sem nenhuma das três costuma ser ficha recitada: é por ele que a leitura em voz alta começa. A contagem não reprova sozinha.
+
+**Revisor de contexto limpo:** nos artigos com mais impressões (a camada 1 do Search Console, `02_Artigos/voz-muse-3110/`) e nos que entram no lugar deles, a leitura em voz alta é feita por um revisor que não escreveu o texto (Fable ou Muse), só sobre a frase, sem refazer os fatos.
+
 ### 2.5 Saída do revisor
-Uma linha por item (1 a 10, C1 a C11 e a leitura em voz alta): passou ou não, e o número contado. Falha: a frase exata e o capítulo onde ela está.
+Uma linha por item (1 a 10, C1 a C14 e a leitura em voz alta): passou ou não, e o número contado. Falha: a frase exata e o capítulo onde ela está.

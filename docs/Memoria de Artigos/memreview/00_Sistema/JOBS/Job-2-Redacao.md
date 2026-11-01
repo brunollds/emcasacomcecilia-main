@@ -46,6 +46,14 @@ Um capítulo completo responde uma pergunta da busca, tem um dado próprio e ter
 - **Dado próprio:** a conta feita por nós, o detalhe que o quadro não cabe ou a armadilha. Conta nossa leva o rótulo da seção 7 de `REGRAS-GLOBAIS.md`.
 - **Orientação:** quando escolher e quando não escolher.
 
+**A primeira frase decide:** cada capítulo traz um critério de decisão novo, e a primeira frase entrega a conclusão desse critério. Ex.: "Para quem cozinha todo dia, o que decide é a boca maior; o resto é igual." Capítulo que reapresenta o assunto, ou que só chega à decisão no fim, não passa no Job 3 (C12).
+
+**Título do capítulo:** pergunta só quando ela está, palavra por palavra, no banco de perguntas reais do parceiro (Job 1). Tabela comparativa e passo a passo levam título direto.
+
+**Veredito pessoal:** guia de escolha e comparativo fecham o capítulo de veredito com uma frase de julgamento, uma vez por artigo. O porquê sai de um dado que já está no artigo (preço por peça ou por dose, medida, renovação), nunca de uso que não houve. A forma depende do tipo:
+- **Moda, Casa-Malas e Tecnologia:** "Se fosse para a minha casa, eu levaria X, porque Y." Sem uso real, nada de "aqui em casa" nem "uso".
+- **Suplementos-Alimentos e Beleza:** sem gesto de consumo. "Pelos números da tabela, para o perfil X a escolha é Y, porque Z." Nunca "eu levaria", "eu tomaria" ou "eu usaria": lido pela leitora, vira recomendação de uso e encosta na regra de saúde.
+
 **Para quem / quando não:** cada produto com capítulo próprio tem uma frase de para quem serve e uma de quando não escolher. Julgamento por perfil é o que a loja não faz: "a Heavy é para quem não quer a camiseta marcando o corpo; se usa por baixo do blazer no calor, fique na Tech".
 
 **Armadilha (o bloco que só o site tem):** diga o que a página deixa de fora e em que o leitor cai: o preço riscado de um kit, a comparação com o avulso, o cupom que não soma com a promoção. Mostre a conta em uma frase.
