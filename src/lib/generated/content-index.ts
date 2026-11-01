@@ -28921,7 +28921,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é a Poltrona Reclinável Damie 2.0",
         "paragraphs": [
-          "A Damie 2.0 é a poltrona reclinável da indústria gaúcha Damie, feita sob medida para sala de TV, cinema em casa e amamentação. Ela vai além da reclinação: é uma estação de conforto que você monta e personaliza de acordo com o seu orçamento e gosto.",
+          "Para sala de TV, cinema em casa e amamentação, a Damie 2.0 é a reclinável que você monta sob medida. Ela vai além da reclinação: é uma estação de conforto que você monta e personaliza de acordo com o seu orçamento e gosto.",
           "É possível escolher o tipo de base (manual ou elétrica com balanço), o revestimento e acessórios como carregador, luminária touch e massageador. Em nossa experiência inicial, a ergonomia se mostrou muito confortável para salas de TV, home cinemas, quartos de bebê e cantos de leitura. Com o cupom Damie CECILIA12, você garante 12% de desconto no valor total do carrinho."
         ],
         "bullets": [
@@ -28953,7 +28953,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os Grandes Upgrades da Versão 2.0",
         "paragraphs": [
-          "A Damie redesenhou a estrutura de suas poltronas reclináveis clássicas para entregar mais elegância e conforto no modelo 2.0. Os principais refinamentos estéticos e ergonômicos incluem:"
+          "A 2.0 redesenha a clássica em cinco pontos:"
         ],
         "bullets": [
           "Almofada Acolchoada Regulável: Desenvolvida para apoiar a cabeça e o pescoço. Costurada ao encosto, pode ser ajustada em diferentes posições para cada biotipo ou colocada para trás, liberando o encosto.",
@@ -28986,7 +28986,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4 Versões de Mecanismo e Base",
         "paragraphs": [
-          "Ao encomendar a sua poltrona Damie 2.0, o primeiro passo é selecionar a mecânica de movimentação e a estrutura da base. Existem quatro versões disponíveis:"
+          "Na encomenda, primeiro escolha a mecânica e a base, entre quatro versões:"
         ],
         "bullets": [
           "Manual com base fixa (gatilho), a mais acessível: reclina puxando o gatilho lateral e empurrando o encosto com o corpo.",
@@ -28998,7 +28998,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tipos de Revestimento: Por que escolhemos o Courino Importado?",
         "paragraphs": [
-          "A Damie oferece cinco revestimentos para a estrutura da poltrona: Suede (toque clássico aveludado), Bouclé (textura moderna e visual volumoso), Linho (elegante e fresco), Courino Importado e Couro Bovino Original (material nobre disponível em até 10 cores).",
+          "São cinco revestimentos: Suede, Bouclé, Linho, Courino Importado e Couro Bovino em até 10 cores. O Courino vence na praticidade.",
           "Em nossa casa, escolhemos o Courino Importado na cor caramelo. Embora comer ou beber sobre um estofado sofisticado pareça arriscado, o material é praticamente impermeável. Em nosso uso, líquidos ficam na superfície e podem ser removidos com um pano úmido, o que deixa a poltrona muito mais prática para a rotina da família."
         ],
         "bullets": [
@@ -29010,7 +29010,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Acessórios Opcionais: Monte sua Estação Tecnológica",
         "paragraphs": [
-          "Um dos diferenciais da Damie 2.0 é o catálogo de acessórios modulares. Nossa configuração reúne massagem, motor independente de cabeça e pescoço, case fosco 3 em 1, porta-copos, luminária, mesa de apoio e suporte com carregador para dispositivos móveis. Todos foram usados e se mostraram úteis nessas primeiras semanas:"
+          "A 2.0 vira estação tecnológica pelos acessórios. Nossa configuração reúne massagem, motor independente de cabeça e pescoço, case fosco 3 em 1, porta-copos, luminária, mesa de apoio e suporte com carregador para dispositivos móveis. Todos foram usados e se mostraram úteis nessas primeiras semanas:"
         ],
         "bullets": [
           "Sistema de Massagem por Vibração: O massageador tem controle remoto e funcionou de maneira silenciosa em nosso uso. Foi o opcional favorito da Cecília.",
@@ -29052,7 +29052,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Estrutura e Construção",
         "paragraphs": [
-          "Segundo a Damie, a estrutura combina madeira tratada de eucalipto com chapas de compensado naval, materiais escolhidos para oferecer resistência à umidade e estabilidade ao móvel.",
+          "A estrutura combina madeira tratada de eucalipto com compensado naval, que a Damie escolheu pela resistência à umidade e estabilidade.",
           "A fabricante também informa que o mecanismo de reclinação em aço carbono suporta até 160 kg. Durante nossas primeiras semanas de uso, não percebemos estalos, rangidos ou trepidações nas transições de movimento; a durabilidade de longo prazo ainda será acompanhada."
         ],
         "bullets": [],
@@ -29243,7 +29243,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona o código CECILIA010",
         "paragraphs": [
-          "Diferente do que acontece com cupons tradicionais (como o CECILIA12 na Damie ou o CECI na Dolce Gusto, que aplicam um desconto direto no carrinho), o código CECILIA010 na YesStyle funciona de maneira única como um \"Reward Code\" (Código de Recompensa).",
+          "Diferente do CECILIA12 e do CECI, que descontam direto no carrinho, o CECILIA010 é um Reward Code, com campo próprio no checkout.",
           "A grande sacada é que ele possui um campo exclusivo e separado no checkout. Isso significa que ele é combinável com cupons promocionais elegíveis: você pode usá-lo ao mesmo tempo com cupons promocionais elegíveis no site, somando até 5% extra aos descontos do pedido.",
           "Se você quer desconto direto no carrinho, os cupons do momento estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
         ],
@@ -29267,7 +29267,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Código de Recompensa vs. Cupom: a diferença crucial para economizar",
         "paragraphs": [
-          "Para não ter erro na hora de finalizar o seu pedido, você precisa entender que a YesStyle trabalha com duas categorias diferentes de códigos promocionais que podem (e devem!) ser usados juntos no checkout:"
+          "A YesStyle tem dois campos de desconto, e o erro é trocar um pelo outro: use os dois juntos."
         ],
         "bullets": [
           "Código de Recompensa (Reward Code - CECILIA010): Este é o código de influenciador da Cecília. Ele deve ser digitado no campo \"Código de Recompensa\" (ou \"Reward Code\") e garante até 5% extra no pedido (5% na 1ª compra / 2% recorrente). Qualquer benefício além desse desconto depende das regras vigentes da YesStyle e não deve ser considerado garantido.",
@@ -29285,7 +29285,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar o código CECILIA010 na YesStyle: passo a passo",
         "paragraphs": [
-          "Para somar descontos e tirar o máximo de proveito da sua compra, preparamos um guia passo a passo simples. Lembre-se de ter em mãos o código CECILIA010 e verificar se há algum cupom de desconto geral ativo no site."
+          "Para somar os dois descontos, tenha em mãos o CECILIA010 e o cupom ativo do site:"
         ]
       },
       {
@@ -29330,7 +29330,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como combinar o código com cupons: o guia do stacking",
         "paragraphs": [
-          "O stacking (empilhamento de descontos) aqui significa usar os dois campos principais do checkout: o campo de código de recompensa e o campo de cupom. Como eu ainda não fiz uma compra completa na YesStyle, prefiro manter a recomendação no que é mais seguro: aplicar o CECILIA010 no campo Reward Code e, se houver um cupom ativo no site, aplicar esse cupom no campo Coupon Code."
+          "O stacking é usar os dois campos do checkout: o CECILIA010 no Reward Code e o cupom ativo no Coupon Code."
         ],
         "bullets": [
           "Passo 1, código de recompensa: aplique CECILIA010 no campo Reward Code para ativar até 5% extra (5% 1ª compra / 2% recorrente).",
@@ -29393,7 +29393,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que comprar na YesStyle: guia por categoria",
         "paragraphs": [
-          "A YesStyle tem um catálogo vasto. Separei as principais categorias para facilitar:"
+          "As principais categorias são:"
         ],
         "bullets": [
           "K-Beauty e Skincare Coreano: COSRX (Snail Mucin Essence, Low pH Good Morning Gel Cleanser), Beauty of Joseon (Dynasty Cream, Relief Sun), Anua (Heartleaf 77% Soothing Toner), Laneige (Water Sleeping Mask, Lip Sleeping Mask), Isntree (Hyaluronic Acid Watery Sun Gel), TIRTIR (Mask Fit Red Cushion), medicube (Zero Pore Pads), AXIS-Y (Dark Spot Correcting Glow Serum), Dr.Melaxin, House of Hur.",
@@ -29408,7 +29408,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e entrega para o Brasil",
         "paragraphs": [
-          "A YesStyle tem frete grátis a partir de um valor mínimo, que muda conforme o país. Para o Brasil, o valor do frete, o mínimo para frete grátis e as opções de envio aparecem no checkout, depois do CEP.",
+          "A YesStyle tem frete grátis a partir de um mínimo, que muda por país. Para o Brasil, o valor do frete, o mínimo para frete grátis e as opções de envio aparecem no checkout, depois do CEP.",
           "O prazo é o tempo para o pedido ficar pronto mais o prazo do método de envio, a partir de Hong Kong, e aparece no checkout. A alfândega pode somar alguns dias, e o prazo varia com a região do Brasil e a época do ano."
         ],
         "bullets": [
@@ -29421,7 +29421,7 @@ export const reviewsData: unknown[] = [
         "heading": "Taxas e importação: o que pode ser cobrado",
         "paragraphs": [
           "Compras internacionais podem passar por análise alfandegária no Brasil e podem gerar impostos, taxas de importação, cobranças administrativas ou outras despesas relacionadas à liberação do pedido. Por isso, além de calcular produto e frete, vale considerar a possibilidade de custo extra antes de comprar.",
-          "Segundo a política informada pela própria YesStyle, pedidos com valor inferior a US$ 1.000 podem ser elegíveis a reembolso de impostos e taxas alfandegárias relacionados ao processamento e liberação do pedido, desde que você pague a taxa primeiro, guarde um comprovante válido e envie a solicitação ao atendimento da YesStyle em até 30 dias a partir da data do comprovante. Esse reembolso, quando aprovado, é emitido como Crédito da Loja YesStyle."
+          "A YesStyle diz que pedidos abaixo de US$ 1.000 podem ter reembolso de taxas alfandegárias, se você pagar primeiro, guardar o comprovante e pedir em até 30 dias. Esse reembolso, quando aprovado, é emitido como Crédito da Loja YesStyle."
         ],
         "bullets": [
           "Guarde o comprovante de pagamento de qualquer taxa alfandegária paga no Brasil",
@@ -29603,7 +29603,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entendendo os 2 campos de desconto no checkout (Coupon Code vs Reward Code)",
         "paragraphs": [
-          "O grande diferencial da YesStyle que muita gente não percebe é que o checkout da loja possui dois campos de desconto completamente separados e independentes. Compreender a diferença entre eles é o passo fundamental para obter a maior economia possível:"
+          "O checkout da YesStyle tem dois campos separados, e o erro é trocar um pelo outro:"
         ],
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Tela de checkout da YesStyle exibindo os campos Coupon Code e Reward Code.",
@@ -29613,12 +29613,12 @@ export const reviewsData: unknown[] = [
           "1. Campo \"Coupon Code\" (Código de Cupom): É onde você insere os cupons promocionais do site da YesStyle (como cupons de liquidação ou campanhas de 10% a 15% OFF).",
           "2. Campo \"Reward Code\" / \"Influencer Code\" (Código de Recompensa): É onde você insere o código oficial de influenciadora CECILIA010, garantindo até 5% OFF extra."
         ],
-        "emphasis": "Como o checkout possui campos separados para Coupon Code e Reward Code, descontos elegíveis podem ser combinados conforme as regras da campanha. Confirme ambos no resumo do pedido."
+        "emphasis": "Como o checkout tem campos separados, descontos elegíveis podem se somar se a campanha permitir. Confirme ambos no resumo do pedido."
       },
       {
         "heading": "Como funciona o código CECILIA010: até 5% OFF extra",
         "paragraphs": [
-          "O código CECILIA010 é o código de recompensa oficial da Cecília e permanece disponível enquanto estiver ativo no programa de influenciadores da YesStyle. Ao contrário dos cupons promocionais temporários da loja que mudam periodicamente, o CECILIA010 é um código fixo de parceria."
+          "O CECILIA010 é o código de recompensa da Cecília: vale enquanto a parceria estiver ativa, com 5% na primeira compra e 2% nas seguintes. Ao contrário dos cupons promocionais temporários da loja que mudam periodicamente, o CECILIA010 é um código fixo de parceria."
         ],
         "bullets": [
           "Primeira compra no site: 5% de desconto extra.",
@@ -29667,7 +29667,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Passo 5: confirme o desconto acumulado e finalize o pedido",
         "paragraphs": [
-          "Verifique o resumo final do seu pedido e confirme se o resumo exibe os dois descontos antes de finalizar a compra (o cupom de promoção e o código de recompensa CECILIA010)."
+          "No resumo do pedido, confirme os dois descontos antes de pagar: o cupom e o CECILIA010."
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "Resumo final do pedido na YesStyle com os descontos acumulados.",
@@ -29677,7 +29677,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde achar os cupons YesStyle em vigor",
         "paragraphs": [
-          "Se você deseja acompanhar os cupons promocionais vigentes do mês sem cair em códigos expirados, recomendamos utilizar as seguintes fontes oficiais:",
+          "Para acompanhar os cupons do mês sem cair em código expirado, use estas fontes oficiais:",
           "1. Nossa página centralizada de cupons: mantemos uma página dedicada onde verificamos e atualizamos os códigos promocionais da YesStyle.",
           "2. Banner Principal da YesStyle: A homepage da loja costuma destacar o cupom promocional ativo no topo.",
           "3. Newsletter Oficial: Ao assinar a newsletter do site, você recebe avisos de liquidações relâmpago de 72 ou 96 horas."
@@ -31136,7 +31136,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Damie tem boa reputação no Reclame Aqui, classificada como Ótimo, e responde todas as reclamações. Olhar essa página antes de comprar móvel online vale a pena porque entrega e acesso ao prédio concentram os problemas. O que pode mudar a sua decisão é o índice de solução, com os dados atuais abaixo; para comprar com desconto, use o [cupom Damie](/cupons/damie)."
+          "A Damie tem boa reputação no Reclame Aqui, classificada como Ótimo, e responde todas as reclamações. Olhar essa página antes de comprar ajuda quando entrega e acesso preocupam. O que pode mudar a sua decisão é o índice de solução, com os dados atuais abaixo; para comprar com desconto, use o [cupom Damie](/cupons/damie)."
         ]
       },
       {
@@ -31150,7 +31150,7 @@ export const reviewsData: unknown[] = [
         "heading": "Os dados atuais da Damie no Reclame Aqui",
         "widget": "ReputacaoMetricas",
         "paragraphs": [
-          "Segundo o painel do Reclame Aqui consultado em junho de 2026, a Damie Móveis apresenta os seguintes indicadores:"
+          "O painel do Reclame Aqui de junho de 2026 traz estes indicadores da Damie Móveis:"
         ],
         "bullets": [
           "Nota: 8,0/10",
@@ -31179,7 +31179,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dados institucionais",
         "paragraphs": [
           "A Damie opera sob a razão social Dix Indústria de Estofados Ltda, CNPJ 26.315.698/0001-90, sediada em Frederico Westphalen, RS. A marca oferece garantia de 1 ano contra defeitos de fabricação e 30 dias de teste em casa.",
-          "A nota é calculada com base em uma janela móvel de 6 meses, então ela pode variar ao longo do tempo. Por isso, vale a pena consultar diretamente o Reclame Aqui no dia da sua compra para confirmar o número atual."
+          "A nota é calculada com base em uma janela móvel de 6 meses, então ela pode variar ao longo do tempo. Por isso, confira o Reclame Aqui no dia da compra para confirmar o número."
         ]
       },
       {
@@ -31192,7 +31192,7 @@ export const reviewsData: unknown[] = [
           "heading": "O que não aparece: devolução e arrependimento",
           "paragraphs": [
             "Por se tratar de uma compra que costuma ser difícil de devolver na maioria das lojas online, a Damie mitiga esse receio oferecendo uma política de 30 dias de teste com devolução garantida.",
-            "O interessante é que, ao analisar os tipos comuns de problemas e reclamações registrados no Reclame Aqui (que se concentram em logística de transporte), a taxa de desistência da compra ou devolução por insatisfação com o produto é quase inexistente (para não dizer nula). Isso indica que a promessa de qualidade e o teste em casa realmente funcionam na prática."
+            "Devolução por insatisfação quase não aparece; os casos são de logística. Isso indica que a promessa de qualidade e o teste em casa realmente funcionam na prática."
           ]
         }
       },
@@ -31204,14 +31204,14 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain"
         },
         "paragraphs": [
-          "No setor de móveis e estofados vendidos pela internet — sofás, poltronas e estofados de médio e alto padrão —, uma nota 8,0 com classificação Ótimo, resposta de 100% e tempo médio de resposta de 14 horas é uma combinação que poucas marcas do segmento sustentam. Não vou nomear concorrentes aqui, mas é possível encontrar marcas do mesmo nicho com notas na faixa de regular ou até insuficiente no Reclame Aqui, com taxas de resposta bem abaixo de 100% e tempo de retorno medido em dias, não horas.",
+          "No setor de móveis online de médio e alto padrão, poucas marcas sustentam nota 8,0 com Ótimo, 100% de resposta e retorno em 14 horas. Não vou nomear concorrentes aqui, mas é possível encontrar marcas do mesmo nicho com notas na faixa de regular ou até insuficiente no Reclame Aqui, com taxas de resposta bem abaixo de 100% e tempo de retorno medido em dias, não horas.",
           "Isso não significa que toda concorrente seja problemática, nem que a Damie seja isenta de falhas. Significa apenas que, em termos de reputação online medida pelo Reclame Aqui, a Damie está acima da média do setor."
         ]
       },
       {
         "heading": "O que fazer antes de comprar",
         "paragraphs": [
-          "Com base nos padrões de reclamação encontrados, estas são as verificações que eu faria antes de fechar pedido:"
+          "Pelos padrões das reclamações, confira isto antes de fechar o pedido:"
         ],
         "bullets": [
           "Meça o acesso — elevador, corredor, porta de entrada e escada. É o ponto mais citado em reclamações de entrega.",
@@ -31291,7 +31291,7 @@ export const reviewsData: unknown[] = [
         "heading": "Introdução",
         "paragraphs": [
           "Toda vez que mostro nossa poltrona reclinável nas redes, aparece alguém perguntando: \"Cecília, o cupom ainda funciona?\" ou \"Onde eu coloco o CECILIA12?\". Às vezes a pessoa já está no site da Damie, com o produto no carrinho, e não sabe exatamente onde aplicar o código. Outras vezes, tem medo de o desconto não ter sido aplicado e acabar pagando o valor cheio sem perceber.",
-          "Já passei por isso em outras compras. Cupom que não funciona, código que dá erro, desconto que some no checkout. Por isso resolvi escrever este passo a passo com tudo o que você precisa saber para usar o cupom CECILIA12 sem surpresa. É simples, mas vale a pena conferir cada etapa antes de finalizar."
+          "Já passei por isso em outras compras. Cupom que não funciona, código que dá erro, desconto que some no checkout. Por isso resolvi escrever este passo a passo com tudo o que você precisa saber para usar o cupom CECILIA12 sem surpresa. É simples; confira cada etapa antes de finalizar."
         ]
       },
       {
@@ -31303,7 +31303,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Escolha o produto no site oficial",
         "paragraphs": [
-          "O cupom CECILIA12 é válido para compras feitas diretamente no site da Damie. Funciona para tudo no site: Poltronas, Sofás, Camas, Área externa e Acessórios adicionais, conforme as regras ativas no momento da compra. Meu conselho é: escolha o modelo, o revestimento e a cor com calma antes de ir para o carrinho. Trocar depois de aplicar o cupom pode resetar o checkout e você teria que digitar o código de novo."
+          "O cupom CECILIA12 é válido para compras feitas diretamente no site da Damie. Funciona para tudo no site: Poltronas, Sofás, Camas, Área externa e Acessórios, pelas regras vigentes. Escolha modelo, revestimento e cor com calma antes de ir para o carrinho. Trocar depois de aplicar o cupom pode resetar o checkout e você teria que digitar o código de novo."
         ],
         "image": "/images/reviews/cupom-cecilia12/1-escolha-produto.png",
         "imageAlt": "Tela do site da Damie mostrando a escolha do produto.",
@@ -31369,7 +31369,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde a Damie entra nessa história",
         "paragraphs": [
-          "A parceria com a Damie surgiu naturalmente. A gente pesquisou muito antes de comprar nossa primeira poltrona reclinável, testou o produto em casa por meses e só depois de ter experiência real com a marca é que surgiu a possibilidade do cupom CECILIA12. Não é um código genérico de internet. É um desconto que nasceu da nossa relação real com os produtos.",
+          "O CECILIA12 é desconto de parceria real. A gente pesquisou muito antes de comprar nossa primeira poltrona reclinável, testou o produto em casa por meses e só depois de ter experiência real com a marca é que surgiu a possibilidade do cupom CECILIA12. Não é um código genérico de internet. É um desconto que nasceu da nossa relação real com os produtos.",
           "Se você está pesquisando poltrona reclinável, sofá modular ou poltrona decorativa, o cupom pode ajudar a reduzir o investimento. Mas o mais importante ainda é escolher o produto certo para a sua casa. No especial Damie da Cecília você encontra dicas de escolha, comparações e cuidados na hora de montar o ambiente."
         ],
         "links": [
@@ -31386,7 +31386,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veredito",
         "paragraphs": [
-          "Se você chegou até aqui já com o produto escolhido, o passo final é simples: no checkout do site da Damie, digite CECILIA12, clique em aplicar e confira se o desconto de 12% apareceu no valor total antes de pagar. Se tiver dúvida, o suporte da Damie pode ajudar diretamente pelo site.",
+          "Com o produto escolhido, digite CECILIA12 no checkout e confira os 12% no total antes de pagar. Se tiver dúvida, o suporte da Damie pode ajudar diretamente pelo site.",
           "E se ainda está na fase de pesquisa, não tem pressa. Escolha com calma, meça o ambiente, pense no tecido e só depois use o cupom. O desconto está ali para quando você estiver pronta."
         ],
         "links": [
@@ -31480,7 +31480,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Quando a gente pesquisou opções, encontramos várias poltronas reclináveis no mercado. A Damie apareceu como uma alternativa brasileira com boa variedade de revestimentos e mecanismos que fazem sentido para quem vai usar a poltrona como cantinho de amamentação e, depois, como lugar de descanso da família.",
           "O que me chamou atenção na época foi a possibilidade de escolher tecido linho — que é respirável, importante para quem vive em lugar quente — e o fato de a montagem ser simples. Com bebê pequeno em casa, não dá para perder um dia inteiro montando móvel. Além disso, os modelos com reclinação elétrica e ajuste silencioso funcionam bem para quem precisa mudar de posição sem acordar o neném.",
-          "Se você está nessa fase de pesquisa, vale a pena ler o guia completo que preparei sobre o tema:"
+          "Se está pesquisando, vale ler o guia quando comparar modelos:"
         ],
         "image": "/images/reviews/poltrona-reclinavel-cecilia-ian.webp",
         "imageAlt": "Cecília com o Ian no colo na poltrona reclinável.",
@@ -31539,8 +31539,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que os vídeos virais prometem",
         "paragraphs": [
-          "Os tutoriais que circulam pelas redes sociais mostram um processo aparentemente simples: basta colocar manteiga gelada na batedeira, adicionar um pouco de leite, bater por alguns minutos e, voilà, você teria o dobro de manteiga com a mesma textura e sabor do produto original.",
-          "A premissa é tentadora, especialmente considerando o aumento constante no preço desse ingrediente essencial nas prateleiras dos supermercados. Mas, como acontece com muitos hacks culinários, a promessa fácil esconde uma série de problemas técnicos que só aparecem quando a gente coloca a mão na massa."
+          "A promessa é dobrar a manteiga com leite, sem mudar textura nem sabor.",
+          "Com a manteiga cara, dobrar o pote com leite soa tentador. Mas, como acontece com muitos hacks culinários, a promessa fácil esconde uma série de problemas técnicos que só aparecem quando a gente coloca a mão na massa."
         ]
       },
       {
@@ -31584,7 +31584,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que esses hacks não funcionam: a ciência dos alimentos",
         "paragraphs": [
-          "A razão pela qual esse hack viral é fundamentalmente falho está na própria natureza da manteiga. A manteiga já é um produto final de um processo de separação: é essencialmente a gordura concentrada do leite, obtida através da batida do creme de leite até que os glóbulos de gordura se separem do leitelho.",
+          "O hack falha porque a manteiga já é gordura concentrada, fim do processo. A manteiga já é um produto final de um processo de separação: é essencialmente a gordura concentrada do leite, obtida através da batida do creme de leite até que os glóbulos de gordura se separem do leitelho.",
           "Quando tentamos diluir manteiga pronta com leite, estamos tentando reverter um processo químico já finalizado. O leite integral contém cerca de 3% a 4% de gordura, enquanto a manteiga contém aproximadamente 80% a 82% de gordura. Essa diferença fundamental na composição impede que os dois se integrem de forma estável para multiplicar o volume da manteiga original.",
           "Outro fator crucial nesse fracasso é a temperatura e a emulsificação. A manteiga gelada, como sugerido nos vídeos, não se integrará adequadamente ao leite. Emulsões estáveis requerem condições específicas e, frequentemente, agentes emulsificantes para manter gorduras e líquidos unidos, condições que simplesmente não são atingidas batendo manteiga gelada com leite frio em uma batedeira doméstica."
         ],
@@ -31599,7 +31599,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Alternativas que funcionam de verdade",
         "paragraphs": [
-          "A boa notícia é que existem alternativas viáveis para fazer a manteiga render melhor ou substituir parte do seu uso, sem cair em promessa milagrosa. Elas não duplicam magicamente a manteiga, mas têm fundamento culinário e funcionam melhor na prática."
+          "Para fazer a manteiga render, valem a manteiga composta e o ghee: sem milagre, com fundamento. Elas não duplicam magicamente a manteiga, mas têm fundamento culinário e funcionam melhor na prática."
         ],
         "bullets": [
           "Manteiga composta legítima: use 200 g de manteiga em temperatura ambiente, 2 colheres de azeite de oliva extra virgem e ervas frescas ou temperos a gosto. Bata até incorporar completamente.",
@@ -31649,7 +31649,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Conclusão: Verdade na Cozinha",
         "paragraphs": [
-          "Os desastres culinários, embora frustrantes, são valiosas oportunidades de aprendizado. Minha experiência desastrosa com a manteiga batida me ensinou a valorizar a ciência por trás da culinária e a questionar promessas milagrosas.",
+          "O desastre ensinou a checar a ciência antes de tentar o hack. Minha experiência desastrosa com a manteiga batida me ensinou a valorizar a ciência por trás da culinária e a questionar promessas milagrosas.",
           "As alternativas reais apresentadas aqui não multiplicarão magicamente sua manteiga, mas oferecem opções viáveis para economia e versatilidade na cozinha. A próxima vez que você se deparar com um hack culinário tentador, lembre-se: na culinária, como na vida, o conhecimento genuíno e as técnicas comprovadas sempre superam os atalhos duvidosos.",
           "E se você também tem uma história de “tentei e deu errado”, compartilhe. Afinal, aprendemos tanto com os sucessos quanto com os fracassos."
         ],
@@ -31696,7 +31696,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Origem da rabanada",
         "paragraphs": [
-          "A rabanada tem uma história fascinante que remonta a tempos antigos. Sua origem está ligada ao aproveitamento do pão velho, uma prática comum em tempos de escassez. Acredita-se que tenha surgido em tradições antigas de reaproveitamento, nas quais o pão envelhecido era mergulhado em leite e ovos antes de ser frito, criando uma forma deliciosa de transformar um alimento simples.",
+          "A rabanada nasceu do aproveitamento do pão velho, comum em tempos de escassez. Acredita-se que tenha surgido em tradições antigas de reaproveitamento, nas quais o pão envelhecido era mergulhado em leite e ovos antes de ser frito, criando uma forma deliciosa de transformar um alimento simples.",
           "Na França, essa lógica ficou conhecida como pain perdu, ou pão perdido. Em Portugal, de onde herdamos a tradição, a rabanada se tornou um doce natalino por volta do século XV. Os portugueses acrescentaram elementos próprios à receita, como vinho do Porto e especiarias, criando versões próximas das que conhecemos hoje.",
           "No Brasil, a rabanada chegou com os colonizadores portugueses e se adaptou ao nosso paladar. Aqui, é tradicionalmente servida no Natal, mas também aparece durante todo o ano em padarias, cafés e mesas de família."
         ],
@@ -31711,8 +31711,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual pão usar na rabanada",
         "paragraphs": [
-          "O primeiro passo para uma rabanada deliciosa é a escolha do pão. O pão francês amanhecido é o mais tradicional, pois sua textura absorve bem a mistura de leite e ovos, deixando o interior macio e o exterior crocante.",
-          "Você também pode optar por pães de forma mais grossos ou até mesmo pelos pães próprios para rabanada, que já vêm em fatias espessas e garantem mais sabor e textura. Para uma versão ainda mais especial, o pão brioche pode deixar a rabanada mais macia e rica."
+          "O pão francês amanhecido é o tradicional: absorve bem o leite com ovos, com interior macio e exterior crocante.",
+          "Pães de forma grossos ou próprios para rabanada também funcionam; o brioche pode deixar a rabanada mais macia."
         ],
         "image": {
           "src": "/images/reviews/rabanada/rabanada-cecilia-cortando-pao.webp",
@@ -31725,8 +31725,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A imersão: leite, ovos e especiarias",
         "paragraphs": [
-          "A mistura de leite, ovos e açúcar é essencial para deixar a rabanada com uma textura incrivelmente macia. Adicionar especiarias como canela e noz-moscada traz um toque aromático especial.",
-          "O segredo é mergulhar as fatias de pão na mistura, garantindo que absorvam bem, mas sem encharcar demais. Esse equilíbrio evita que o pão desmanche e ajuda a manter a estrutura da rabanada durante a fritura."
+          "Leite, ovos e açúcar deixam a rabanada macia; canela e noz-moscada dão o aroma.",
+          "O segredo é mergulhar sem encharcar: absorve bem e o pão não desmancha na fritura."
         ],
         "image": {
           "src": "/images/reviews/rabanada/rabanada-cecilia-imersao.webp",
@@ -31740,7 +31740,7 @@ export const reviewsData: unknown[] = [
         "heading": "Fritura e finalização",
         "paragraphs": [
           "Fritar a rabanada é o segredo para deixá-la crocante por fora e macia por dentro. Aqueça óleo ou manteiga em uma frigideira e frite as fatias até que fiquem douradas e crocantes. Depois, escorra o excesso em papel toalha para garantir que a rabanada fique sequinha.",
-          "Para um acabamento perfeito, passe as rabanadas fritas em uma mistura de açúcar e canela. Esse toque final deixa a sobremesa ainda mais irresistível, com sabor doce, aromático e imediatamente reconhecível."
+          "Passe as rabanadas fritas no açúcar com canela para finalizar."
         ],
         "images": [
           {
@@ -31912,7 +31912,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a air fryer funciona",
         "paragraphs": [
-          "O modelo da Philips ficou conhecido pela tecnologia Rapid Air: calor perto do alimento com ar circulando em alta velocidade. O ar quente passa em alta velocidade pelo cesto e doura a superfície de forma uniforme.",
+          "A tecnologia Rapid Air, da Philips: ar quente em alta velocidade pelo cesto, dourando a superfície por igual.",
           "Por isso o aparelho usa pouco ou nenhum óleo em muitos preparos. O resultado, porém, depende do alimento: batata cortada e seca fica crocante com facilidade, e massas muito úmidas pedem mais tempo e ajuste."
         ],
         "image": {
@@ -32032,7 +32032,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem é a Poltrona Levita",
         "paragraphs": [
-          "A Poltrona Levita é a opção para quem não quer apenas uma poltrona confortável, mas uma experiência de relaxamento mais completa. Ela fica acima de uma reclinável convencional porque entrega ajustes independentes, acabamento premium e uma proposta de uso mais sofisticada.",
+          "A Levita é para quem quer relaxamento completo, não só uma poltrona confortável: ela ajusta pés e encosto separados. Ela fica acima de uma reclinável convencional porque entrega ajustes independentes, acabamento premium e uma proposta de uso mais sofisticada.",
           "É o tipo de poltrona que faz sentido para sala de TV, quarto, escritório, canto de leitura, momento de jogar ou ambiente de descanso onde conforto é prioridade real. Também conversa com quem passa muito tempo sentado e quer controlar melhor a posição do corpo.",
           "Para gamers que querem algo mais premium do que uma cadeira gamer tradicional, a Levita pode ser uma alternativa interessante: ela não tem a estética agressiva de setup, mas oferece reclinação elétrica, apoio para os pés, ajuste de encosto e uma experiência de conforto mais próxima de home theater.",
           "Diferente da Moon, que é mais decorativa, a Levita é uma poltrona de função. Ela foi pensada para relaxar, assistir TV, ler, descansar e encontrar uma posição mais ergonômica com facilidade."
@@ -32045,7 +32045,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "A Levita no ambiente da sala, pronta para momentos de descanso.",
         "imageFit": "portrait",
         "paragraphs": [
-          "O principal diferencial técnico da Levita é o mecanismo com dois motores independentes. Um motor eleva suavemente o apoio para os pés, enquanto o outro reclina o encosto de forma separada. Isso muda bastante a experiência, porque você não fica preso a uma única sequência de movimento.",
+          "O que põe a Levita acima da reclinável comum são os dois motores independentes: pés e encosto ajustam separados. Um motor eleva suavemente o apoio para os pés, enquanto o outro reclina o encosto de forma separada. Isso muda bastante a experiência, porque você não fica preso a uma única sequência de movimento.",
           "Na prática, dá para ajustar a poltrona conforme o momento: pés elevados com encosto mais ereto para leitura, encosto mais reclinado para descanso, ou uma posição intermediária para assistir TV e jogar. Essa independência é justamente o que coloca a Levita em uma categoria mais premium.",
           "Além disso, ela conta com ajuste manual de pescoço, permitindo encontrar um ângulo melhor para cabeça e cervical. Para quem valoriza ergonomia, esse detalhe faz diferença."
         ]
@@ -32057,7 +32057,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Perfil da poltrona mostrando o acabamento e o encosto.",
         "imageFit": "portrait",
         "paragraphs": [
-          "Segundo a página oficial da Damie, a base da Levita gira 360° (a FAQ oficial fala em até 280°) e tem acabamento em preto fosco. Isso ajuda a adaptar a poltrona ao ambiente sem precisar arrastar o móvel o tempo todo.",
+          "A base gira 360°, diz a página oficial (a FAQ oficial fala em até 280°), com acabamento em preto fosco. Isso ajuda a adaptar a poltrona ao ambiente sem precisar arrastar o móvel o tempo todo.",
           "Outro ponto importante é que os componentes eletrônicos são bivolt. Para um produto elétrico desse porte, isso reduz preocupação na instalação e facilita o uso em diferentes casas.",
           "A montagem também é simples: a poltrona vai praticamente montada, e o principal é ligar o fio direto na tomada. Ainda assim, por ser uma peça premium e elétrica, vale posicionar com cuidado, medir espaço de abertura e garantir uma tomada próxima."
         ]
@@ -32065,16 +32065,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Revestimentos, cores e acabamento",
         "paragraphs": [
-          "A Levita está disponível em Couro Bovino e Tecido Linho. No Couro Bovino, a página oficial lista cores como Castanho, Preto, Cinza Escuro, Avelã Fosco, Off White e Verde Militar. No Linho italiano, aparecem opções como Areia, Cinza Claro, Amêndoa e Cinza Chumbo.",
-          "O couro bovino é apresentado como durável e fácil de limpar, desde que sejam usados produtos específicos para manutenção. Já o linho italiano é descrito como tecido de alta gramatura, com toque encorpado, textura nobre e boa resistência.",
+          "A escolha é entre Couro Bovino e Linho italiano. No couro, as cores são Castanho, Preto, Cinza Escuro, Avelã Fosco, Off White e Verde Militar. No Linho italiano, aparecem opções como Areia, Cinza Claro, Amêndoa e Cinza Chumbo.",
+          "A página oficial descreve o couro como durável e fácil de limpar, com produtos específicos de manutenção, e o linho italiano como encorpado, de textura nobre e resistente.",
           "A escolha aqui precisa ser feita com base no uso real. Couro tende a comunicar mais luxo e facilidade de limpeza; linho pode trazer sensação mais leve e acolhedora, principalmente em ambientes quentes."
         ]
       },
       {
         "heading": "Conforto premium: por que ela custa mais",
         "paragraphs": [
-          "A Levita não é uma poltrona de entrada. Ela é claramente posicionada como produto premium, e isso precisa ser entendido antes da compra. O valor não está apenas na aparência, mas na soma de mecanismo elétrico, motores independentes, revestimento, estrutura, ergonomia e acabamento.",
-          "Para quem quer apenas uma poltrona bonita para compor decoração, talvez a Moon faça mais sentido. Para quem quer uma experiência de descanso superior, com ajustes mais precisos e uso diário intenso, a Levita começa a justificar o investimento.",
+          "A Levita é produto premium: entenda isso antes de olhar o preço. O valor não está apenas na aparência, mas na soma de mecanismo elétrico, motores independentes, revestimento, estrutura, ergonomia e acabamento.",
+          "Para decoração bonita, vá de Moon. Para descanso diário com ajustes precisos, a Levita justifica o investimento.",
           "É o tipo de produto em que a pergunta não deve ser só “é caro?”, mas “vou usar de verdade?”. Se a resposta for sim, principalmente para TV, leitura, jogos, descanso ou rotina de relaxamento, ela entrega uma experiência bem acima do básico."
         ],
         "emphasis": "A Levita é uma poltrona para quem quer conforto como prioridade máxima. O investimento alto faz mais sentido quando ela vira parte real da rotina: assistir, jogar, ler, descansar, recuperar energia e transformar um canto da casa em espaço de relaxamento premium."
@@ -32089,7 +32089,7 @@ export const reviewsData: unknown[] = [
         "heading": "Entrega, garantia e teste em casa",
         "paragraphs": [
           "Em 24/10/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste, por transportadora (nas outras regiões, o frete sai pelo CEP). Também menciona 30 dias para testar e devolver e garantia de 1 ano, além de suporte vitalício.",
-          "A poltrona suporta até 130 kg, segundo a Damie, e a marca informa que a venda é online, com showroom em Frederico Westphalen, no Rio Grande do Sul. Por isso, o período de teste em casa é um ponto relevante para quem está comprando sem experimentar antes.",
+          "Suporta até 130 kg, a venda é online e há showroom em Frederico Westphalen (RS), diz a Damie. Comprando sem experimentar, o teste de 30 dias em casa pesa a favor.",
           "Como todo produto premium e elétrico, o ideal é conferir medidas, espaço de abertura, tomada próxima, revestimento e cor antes de finalizar a compra."
         ]
       },
@@ -32198,7 +32198,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem é o Sofá Damie na Caixa",
         "paragraphs": [
-          "O Sofá Damie Modular 3 Lugares com puff foi pensado para quem quer um sofá bonito, confortável e adaptável, mas também precisa lidar com a realidade da casa: escadas, elevador pequeno, corredores estreitos, mudanças e ambientes que podem mudar de função ao longo do tempo.",
+          "Para quem precisa passar o sofá por escada, elevador pequeno ou corredor estreito, o modular de 3 lugares com puff resolve: os módulos chegam em caixas e montam dentro do ambiente.",
           "A grande proposta é simples: em vez de um sofá grande e difícil de transportar, os módulos chegam separados em caixas. Isso facilita a entrega, a entrada no imóvel e a montagem dentro do próprio ambiente. O puff também muda a experiência, porque aproxima o uso de um sofá retrátil sem prender a sala a uma estrutura única."
         ],
         "links": [
@@ -32215,9 +32215,9 @@ export const reviewsData: unknown[] = [
         "imageCaption": "A flexibilidade dos módulos permite montar o sofá conforme o ambiente.",
         "imageFit": "portrait",
         "paragraphs": [
-          "O ponto mais interessante do sofá modular é a liberdade de configuração. Você não fica preso a um formato único: pode adquirir uma versão menor, como a de 2 lugares, escolher o modelo de 3 lugares com puff ou montar composições maiores, de 4 a 6 lugares.",
-          "Na prática, com o conceito modular, o sofá pode ter a quantidade de lugares que sua imaginação, seu espaço e seu orçamento permitirem. No modelo de 3 lugares com puff, dá para montar uma sala confortável para lazer em família e ainda reposicionar o apoio de pé conforme o momento.",
-          "Isso é especialmente útil para apartamentos, casas em reforma ou famílias que ainda estão definindo a disposição final da sala. Um sofá tradicional exige acertar tudo de primeira; o modular permite mais adaptação e facilita a limpeza, já que os módulos podem ser separados e movimentados com mais facilidade."
+          "A liberdade de configuração: dá para começar com 2 lugares, ficar nos 3 com puff ou montar 4 a 6 lugares.",
+          "O número de lugares acompanha seu espaço e seu orçamento. No modelo de 3 lugares com puff, dá para montar uma sala confortável para lazer em família e ainda reposicionar o apoio de pé conforme o momento.",
+          "Isso é especialmente útil para apartamentos, casas em reforma ou famílias que ainda estão definindo a disposição final da sala. Um sofá tradicional exige acertar tudo de primeira; o modular se adapta e facilita a limpeza, módulo por módulo."
         ]
       },
       {
@@ -32227,7 +32227,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Os módulos separados facilitam a entrega e a montagem no ambiente.",
         "imageFit": "portrait",
         "paragraphs": [
-          "A entrega em caixas é um diferencial real. Quem já tentou subir um sofá grande por escada, elevador ou corredor apertado entende o tamanho desse problema. No modelo modular, a logística fica mais previsível. A Damie também destaca frete por transportadora especializada, o que combina com um produto desse porte.",
+          "A entrega em caixas é um diferencial real. Quem já tentou subir um sofá grande por escada, elevador ou corredor apertado entende o tamanho desse problema. Nos módulos, a entrega é mais previsível, com transportadora especializada para um produto desse porte.",
           "A montagem exige atenção, mas não é um bicho de sete cabeças. O ideal é separar as peças, conferir os encaixes e montar com calma. Como todo móvel modular, o resultado final depende de alinhar bem os módulos e entender a ordem de montagem antes de sair encaixando tudo."
         ]
       },
@@ -32238,7 +32238,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "O uso diário do sofá se adapta a descanso, filmes e momentos em família.",
         "imageFit": "portrait",
         "paragraphs": [
-          "O conforto de um sofá modular precisa equilibrar duas coisas: assento agradável e estrutura firme o suficiente para manter os módulos estáveis. A proposta da Damie é entregar um sofá com visual moderno, boa sustentação e uso confortável para sala de estar ou sala de TV.",
+          "No conforto, o que decide é o equilíbrio entre assento agradável e módulos estáveis. A proposta da Damie é entregar um sofá com visual moderno, boa sustentação e uso confortável para sala de estar ou sala de TV.",
           "Esse não é o tipo de compra que deve ser avaliada só pela foto. Vale pensar em profundidade do assento, altura do encosto, tecido, rotina da casa e quantidade de pessoas que realmente vão usar o sofá todos os dias."
         ],
         "bullets": [
@@ -32260,8 +32260,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veredito: vale o investimento?",
         "paragraphs": [
-          "O Sofá Damie na Caixa não deve ser visto como o sofá mais barato possível. Ele faz mais sentido para quem enxerga valor na combinação de modularidade, entrega facilitada, visual moderno e possibilidade de adaptação do ambiente.",
-          "Para quem mora em apartamento, tem acesso difícil ou quer um sofá que acompanhe mudanças de layout, o investimento pode ser mais justificável. O preço deixa de ser apenas sobre sentar e passa a incluir logística, flexibilidade, acabamento, teste em casa e uma experiência de compra mais estruturada.",
+          "Não é o sofá mais barato: faz sentido para quem valoriza modularidade, entrega facilitada e adaptação do ambiente.",
+          "Para quem mora em apartamento, tem acesso difícil ou quer um sofá que acompanhe mudanças de layout, o investimento pode ser mais justificável. O preço inclui logística, flexibilidade, acabamento e teste em casa.",
           "Em resumo, é uma solução inteligente para quem quer conforto e estética sem enfrentar o drama logístico de um sofá grande convencional. Não é uma compra pequena, então precisa ser planejada: meça bem a sala e compare módulos e tecido. Para quem valoriza modularidade, entrega facilitada e acabamento premium, ele pode valer o investimento."
         ]
       },
@@ -32381,7 +32381,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Base giratória 360° e formato arredondado são os principais diferenciais da Moon.",
         "imageFit": "portrait",
         "paragraphs": [
-          "O grande diferencial da Moon é a combinação entre forma arredondada, tecido com textura e base giratória. A base gira 360° e tem acabamento em preto fosco, o que deixa a peça funcional sem roubar a atenção do desenho principal.",
+          "O que decide pela Moon é a combinação de forma arredondada, tecido com textura e base giratória 360°. A base gira 360° e tem acabamento em preto fosco, o que deixa a peça funcional sem roubar a atenção do desenho principal.",
           "Essa rotação faz diferença no uso real. Em uma sala integrada, por exemplo, você pode virar a poltrona para conversar, assistir TV, olhar para a cozinha ou aproveitar uma janela sem precisar arrastar o móvel. É um detalhe simples, mas que muda a relação da peça com o espaço.",
           "A Damie apresenta a Moon como “muito mais que conforto, uma obra de arte”, e essa frase faz sentido para o posicionamento dela. A poltrona não tenta competir com uma reclinável em funções; ela entrega design, textura e presença."
         ]
@@ -32393,17 +32393,17 @@ export const reviewsData: unknown[] = [
         "imageCaption": "A página oficial destaca espuma D33, estrutura interna e opções de revestimento.",
         "imageFit": "portrait",
         "paragraphs": [
-          "Segundo a página oficial da Damie, a Poltrona Moon utiliza espuma D33, buscando equilíbrio entre conforto e firmeza. Esse é um ponto importante: ela não é uma poltrona molenga para afundar, mas sim uma peça com estrutura e sustentação.",
-          "A Damie também informa que a Moon possui estrutura de madeira e compensado naval, o que aumenta a durabilidade em comparação com peças feitas apenas de espuma. Para uma poltrona decorativa premium, essa estrutura interna é decisiva, porque o produto precisa manter forma e estabilidade ao longo do tempo.",
+          "A página oficial lista espuma D33, buscando equilíbrio entre conforto e firmeza. Esse é um ponto importante: ela não é uma poltrona molenga para afundar, mas sim uma peça com estrutura e sustentação.",
+          "A página oficial diz: estrutura de madeira e compensado naval, que mantém forma e estabilidade com o tempo.",
           "Nos revestimentos, a Moon aparece em Tecido Bouclé e Tecido Linho. O Bouclé está disponível em Terracota, Off White, Cinza, Verde Sálvia e Grafite. O Linho aparece em Off White, Terracota e Grafite. São cores pensadas para decoração: algumas mais neutras, outras mais marcantes."
         ]
       },
       {
         "heading": "Montagem, entrega e uso prático",
         "paragraphs": [
-          "Um ponto positivo é que a montagem é simples: a poltrona vai praticamente montada, então o trabalho principal é retirar da embalagem e posicionar no ambiente. Para quem não quer lidar com montagem complexa, isso pesa a favor.",
+          "A montagem é simples: a poltrona chega praticamente montada, é tirar da embalagem e posicionar. Para quem não quer lidar com montagem complexa, isso pesa a favor.",
           "Em 24/10/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste, por transportadora (nas outras regiões, o frete sai pelo CEP). A página também informa 30 dias para testar e devolver e garantia de 1 ano, além de suporte vitalício.",
-          "Outro dado útil da página oficial é o peso máximo suportado de até 130 kg. Para uma peça decorativa, isso reforça que a Moon não é só aparência; ela precisa ser bonita, mas também segura e funcional."
+          "A página oficial informa peso máximo de 130 kg: mesmo decorativa, a Moon é feita para sentar."
         ]
       },
       {
@@ -32417,9 +32417,9 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Poltrona Moon vale mais para quem enxerga decoração como parte da experiência da casa. Ela não é a escolha para quem procura uma poltrona reclinável cheia de funções, mas para quem quer uma peça bonita, giratória, confortável e capaz de transformar visualmente um canto do ambiente.",
           "O investimento se justifica quando você compara a Moon com móveis decorativos de alto impacto. Ela entrega acabamento, textura, base giratória, estrutura interna e uma estética que parece mais próxima de projeto de interiores do que de móvel genérico.",
-          "Se a prioridade é relaxar por horas assistindo filme, talvez uma reclinável faça mais sentido. Se a prioridade é criar um ambiente elegante, com uma peça confortável e visualmente forte, a Moon entra muito bem."
+          "Se a prioridade é relaxar por horas vendo filme, vá de reclinável. Se a prioridade é criar um ambiente elegante, com uma peça confortável e visualmente forte, a Moon entra muito bem."
         ],
-        "emphasis": "Vale destacar que a Moon não é só visual: segundo a Damie, a espuma D33 e a estrutura de madeira com compensado naval buscam equilíbrio entre conforto e firmeza, e por isso ela tende a ser usada no dia a dia, não só admirada."
+        "emphasis": "A Moon não é só visual: espuma D33 e estrutura de madeira com compensado naval buscam equilíbrio entre conforto e firmeza, para usar no dia a dia, não só admirar."
       },
       {
         "heading": "Veredito",
@@ -32580,7 +32580,7 @@ export const reviewsData: unknown[] = [
         "heading": "Material e Personalização: Ideal para Nossa Realidade",
         "paragraphs": [
           "Vivemos em uma região quente e abafada, então optamos pelo tecido linho na cor bege, que é leve, elegante e respirável. O toque é agradável, e o material é resistente e fácil de limpar.",
-          "No site da Damie, há uma variedade de revestimentos, todos igualmente atraentes: courino, suede, boucle, tecido linho e couro bovino original, além de diversas cores para combinar com qualquer decoração.",
+          "No site da Damie, os revestimentos são courino, suede, boucle, tecido linho e couro bovino original, em várias cores.",
           "Nossa poltrona inclui porta-copos, um acessório prático para nossas noites de cinema em casa ou momentos de relaxamento com uma bebida. Não escolhemos o sistema de massagem, então não posso opinar sobre essa funcionalidade, mas a Damie oferece modelos com massageador, entradas USB e até opções para idosos, com sistemas que facilitam sentar e levantar.",
           "Os modelos e acessórios ficam no site oficial da Damie."
         ],
@@ -32601,7 +32601,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Conforto e Funcionalidades: Um Sonho Realizado",
         "paragraphs": [
-          "A poltrona reclinável da Damie é um convite ao relaxamento. Com um toque, ajustamos o encosto e o apoio para os pés, encontrando a posição perfeita para assistir filmes, ler ou descansar. O sistema elétrico de reclinação é silencioso e prático, ideal para o uso diário.",
+          "Ajuste com um toque: encosto e apoio dos pés se movem para filme, leitura ou descanso. O sistema elétrico de reclinação é silencioso e prático, ideal para o uso diário.",
           "A espuma tem a densidade ideal, oferecendo conforto duradouro mesmo após horas de uso. O assento é amplo, acomodando diferentes tamanhos com facilidade. O porta-copos também virou um detalhe muito útil para café, suco ou até uma pipoca durante nossas sessões de cinema em casa.",
           "A estrutura segue firme, até aqui sem sinais de desgaste."
         ],
@@ -32650,7 +32650,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prós e Contras da Poltrona Reclinável Damie",
         "paragraphs": [
-          "Depois de alguns meses de uso, fica mais fácil separar o que realmente fez diferença no dia a dia e os pontos que precisam ser considerados antes da compra."
+          "Depois de meses de uso, o que fez diferença foi o conforto diário; o que pesa é preço, massageador e tomada."
         ],
         "bullets": [
           "Prós: conforto excepcional com espuma de alta densidade.",
@@ -32667,7 +32667,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por Que Escolher a Damie?",
         "paragraphs": [
-          "A poltrona reclinável da Damie é mais do que um móvel: é um investimento em qualidade de vida. Seja para relaxar após um dia cansativo, criar um espaço de cinema em casa ou tornar a amamentação mais confortável, ela entrega conforto, durabilidade e estilo.",
+          "A Damie vale para quem quer montar um espaço de descanso: relaxar, ver filme ou amamentar com conforto, durabilidade e estilo.",
           "A personalização no site da Damie permite criar a poltrona dos seus sonhos, com opções que atendem a diferentes gostos e necessidades. Além disso, a Damie oferece entrega rápida, teste sem compromisso por 30 dias, garantia de 1 ano e suporte para dúvidas e personalizações.",
           "Nossa experiência foi tão positiva que continuamos recomendando a marca para amigos, familiares e seguidores do Em Casa com Cecília."
         ]
@@ -32683,8 +32683,8 @@ export const reviewsData: unknown[] = [
         "heading": "Aproveite o Cupom CECILIA12 e Transforme Sua Casa",
         "paragraphs": [
           "Pronto para transformar sua casa com uma poltrona reclinável ou um sofá da Damie? Use o cupom de desconto CECILIA12, que garante 12% OFF em compras no site da Damie.",
-          "Esse código exclusivo, criado a partir da nossa parceria, é válido para a linha de poltronas e sofás modulares, conforme as condições vigentes no site da marca. Quer ver a poltrona em ação? Confira nossos vídeos no YouTube, Instagram e TikTok do Em Casa com Cecília, onde mostramos a montagem, o uso diário e dicas de decoração.",
-          "A Damie é sinônimo de qualidade, conforto e sofisticação, e com o cupom CECILIA12, você leva tudo isso com um preço especial. Acesse a página da parceria, escolha sua poltrona ideal, aplique o cupom CECILIA12 no checkout e descubra por que a poltrona reclinável da Damie é uma escolha tão especial para o lar."
+          "Esse código exclusivo da parceria vale para poltronas e sofás modulares, nas condições do site da marca. Quer ver a poltrona em ação? Confira nossos vídeos no YouTube, Instagram e TikTok do Em Casa com Cecília, onde mostramos a montagem, o uso diário e dicas de decoração.",
+          "Com o cupom CECILIA12, a poltrona ou o sofá saem com preço especial. Acesse a página da parceria, escolha sua poltrona ideal, aplique o cupom CECILIA12 no checkout e descubra por que a poltrona reclinável da Damie é uma escolha tão especial para o lar."
         ],
         "image": {
           "src": "/images/reviews/cupom-cecilia12/3-aplique-cupom.png",
@@ -32793,7 +32793,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o cupom CECI da NESCAFÉ Dolce Gusto?",
         "paragraphs": [
-          "O cupom CECI é um código promocional que oferece 10% de desconto em produtos elegíveis em compras realizadas diretamente no site oficial da DOLCE GUSTO no Brasil. Como regras comerciais podem mudar, o código é reconfirmado mensalmente e o valor exibido no checkout é sempre a referência final.",
+          "O CECI dá 10% em produtos elegíveis no site oficial da DOLCE GUSTO no Brasil. Como regras comerciais podem mudar, o código é reconfirmado mensalmente e o valor exibido no checkout é sempre a referência final.",
           "O código funciona em praticamente todo o catálogo do site, como detalham os itens abaixo."
         ],
         "bullets": [
@@ -32849,7 +32849,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que fazer se o cupom CECI não funcionar?",
         "paragraphs": [
-          "Embora o cupom CECI esteja ativo, algumas situações podem impedir a aplicação. Veja o que verificar."
+          "Se o CECI não aplicar, o motivo está numa destas situações:"
         ],
         "bullets": [
           "Código digitado incorretamente: Verifique se digitou CECI sem espaços ou caracteres extras.",
@@ -32864,7 +32864,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Regras e observações do cupom CECI",
         "paragraphs": [
-          "Antes de usar o cupom CECI, fique atento às regras e condições para garantir que seu desconto seja aplicado corretamente."
+          "Para o CECI aplicar, valem estas regras:"
         ],
         "bullets": [
           "Desconto: 10% sobre o valor dos produtos elegíveis.",
@@ -32878,7 +32878,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quais produtos você pode comprar com o cupom CECI?",
         "paragraphs": [
-          "O cupom NESCAFÉ CECI pode ser usado em praticamente todo o catálogo da marca no Brasil. Aqui estão as categorias mais populares:"
+          "O CECI vale para quase todo o catálogo: estas são as categorias mais populares."
         ],
         "bullets": [
           "Cápsulas de café: A alma do sistema DOLCE GUSTO. Desde os clássicos espresso e ristretto até opções indulgentes como cappuccino, latte macchiato, chocolate quente e chá.",
@@ -32890,11 +32890,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que usar o cupom CECI da Cecília?",
         "paragraphs": [
-          "Usar o cupom CECI traz benefícios reais para o seu bolso e apoia o blog Em Casa com Cecília. Veja por que vale a pena:"
+          "O CECI economiza de verdade e apoia o blog: veja por quê."
         ],
         "bullets": [
           "Economia real: 10% de desconto pode fazer diferença em compras recorrentes de cápsulas ou na aquisição de uma máquina, desde que os itens sejam elegíveis.",
-          "Código verificado: testamos o cupom CECI no site oficial, e o desconto apareceu no resumo do pedido.",
+          "Código verificado: o desconto apareceu no resumo do pedido.",
           "Sem burocracia: Basta digitar o código no checkout — sem cadastros extras, sem programas de fidelidade obrigatórios.",
           "Ajuda o blog: Ao usar nosso cupom, você apoia o Em Casa com Cecília sem pagar nada a mais por isso. O desconto é integralmente seu!"
         ]
@@ -32960,8 +32960,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona o Clube Dolce Gusto",
         "paragraphs": [
-          "O Clube Dolce Gusto é o programa de fidelidade oficial da NESCAFÉ® Dolce Gusto® no Brasil. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embalagens da Geração 1 ou preparando cápsulas NEO via aplicativo. Depois, esses pontos podem ser trocados por novas cápsulas, acessórios e prêmios na loja do clube.",
-          "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Na prática, em vez de jogar as caixas fora, vale criar o hábito de registrar os códigos para aproveitar melhor as compras que já fazem parte da rotina. Quem já tem cadastro ou já comprou na loja oficial tem a participação vinculada à mesma conta."
+          "Se você já compra cápsulas todo mês, o Clube transforma caixa vazia em pontos: é o programa de fidelidade oficial da marca. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embalagens da Geração 1 ou preparando cápsulas NEO via aplicativo. Depois, esses pontos podem ser trocados por novas cápsulas, acessórios e prêmios na loja do clube.",
+          "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Em vez de jogar as caixas fora, registre os códigos das compras da rotina. Quem já tem cadastro ou já comprou na loja oficial tem a participação vinculada à mesma conta."
         ],
         "bullets": [
           "Quem pode participar: residentes do Brasil com 18 anos ou mais, com limite de uma conta por CPF.",
@@ -32997,7 +32997,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde e como trocar os pontos por prêmios",
         "paragraphs": [
           "Dá para usar os pontos de dois jeitos no site: direto no carrinho ou na Loja de Prêmios.",
-          "Direto no carrinho de compras: você pode trocar seus pontos diretamente no carrinho por produtos NESCAFÉ® Dolce Gusto® durante uma compra comum no site oficial.",
+          "No carrinho, troque os pontos por produtos Dolce Gusto na compra do site.",
           "Na Loja de Prêmios oficial: para trocar por itens e prêmios de marcas parceiras ou acessórios de café, acesse a vitrine dedicada do Clube Dolce Gusto.",
           "Só não deixe a conta parada: sem registrar código nem resgatar prêmio, o saldo zera após 6 meses."
         ],
@@ -33014,7 +33014,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Passo a passo para cadastrar seus códigos",
         "paragraphs": [
-          "Para cadastrar seus códigos alfanuméricos da Geração 1 e garantir seus pontos, siga o tutorial simples abaixo:"
+          "Para cadastrar os códigos da Geração 1:"
         ],
         "bullets": [
           "Acesse a sua conta oficial no site da Dolce Gusto com seu login e senha.",
@@ -33030,7 +33030,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Economize ainda mais usando o cupom CECI",
         "paragraphs": [
-          "A melhor tática para comprar cápsulas e maximizar seus benefícios é combinar os descontos imediatos com os pontos de fidelidade acumulados pós-compra. Na loja oficial da Dolce Gusto, você pode usar o cupom CECI para obter 10% de desconto direto em compras a partir de R$ 100.",
+          "A melhor tática é combinar o desconto do CECI com os pontos de cada caixa. Na loja oficial da Dolce Gusto, você pode usar o cupom CECI para obter 10% de desconto direto em compras a partir de R$ 100.",
           "Ao aplicar o cupom CECI no carrinho, você paga menos pelas caixas de cápsulas, ganha os pontos extras da compra online (+100 pontos) e depois ainda cadastra o código interno de cada caixa para receber mais 100 pontos por embalagem da Geração 1 ou por extrações NEO. A economia é contínua e inteligente."
         ],
         "image": "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
@@ -33054,7 +33054,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vale a pena participar do Clube?",
         "paragraphs": [
           "Vale a pena se você já compra cápsulas todo mês; se compra de vez em quando, o saldo pode zerar antes de virar prêmio. O Clube é gratuito e recompensa um hábito que você já tem. Cadastrar o código de 12 dígitos leva poucos segundos e, a médio prazo, acumular esses pontos pode render produtos, acessórios ou vouchers úteis.",
-          "A dica prática é criar uma caixinha ou gaveta para guardar as embalagens abertas no dia a dia. Uma vez por mês, acesse o painel do clube, digite os códigos em sequência e mantenha o saldo sempre renovado para evitar expiração por inatividade. Para maximizar o saldo, combine as ações: compre com o cupom CECI, cadastre os códigos das caixas que chegarem e aproveite os bônus quando houver."
+          "A dica: guarde as caixas numa gaveta e digite os códigos uma vez por mês, para o saldo não expirar por inatividade. Para maximizar o saldo, combine as ações: compre com o cupom CECI, cadastre os códigos das caixas que chegarem e aproveite os bônus quando houver."
         ]
       },
       {
@@ -33135,7 +33135,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Original ou NEO: a máquina escolhe primeiro",
         "paragraphs": [
-          "Não existe um melhor sabor, existe o que combina com o seu jeito de tomar café. Antes de escolher o sabor, veja qual linha de cápsulas serve na sua máquina.",
+          "Antes do sabor, veja a máquina: só a linha certa serve nela.",
           "A loja tem duas linhas de cápsulas. As Original, quase todo o catálogo, só servem nas máquinas Original, como a Mini Me 2.0 e as Genio S. As NEO, de papel, são para as máquinas NEO.",
           "A NEO tem só cafés pretos: oito na loja, dois deles sem estoque. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start."
         ],
@@ -33170,7 +33170,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cafés pretos pela intensidade",
         "paragraphs": [
-          "A loja dá uma intensidade a quase todos os cafés, numa escala própria, sem informar o máximo. O mais forte do catálogo é o Doppio Espresso, com 10; segundo a loja, ele tem duas vezes mais cafeína que o Espresso."
+          "Nos pretos, compare pela intensidade da loja, numa escala própria e sem máximo informado. O mais forte é o Doppio Espresso, com 10: a página dele fala em duas vezes mais cafeína que o Espresso."
         ],
         "image": {
           "src": "/images/reviews/dolcegusto/dolce-gusto-cafes-pretos-intensidade-oficial.webp",
@@ -33258,7 +33258,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Chocolates e chás",
         "paragraphs": [
-          "As nove bebidas da categoria chocolate da loja não têm café na lista de ingredientes: Nescau, Galak, KitKat, Nesquik, Chococino Alpino, Chocoglamour, Kopenhagen Chococino Cereja, Kopenhagen Língua de Gato e Chococino Nestlé. As duas últimas usam duas cápsulas por bebida; as outras, uma. Todas têm leite: confira o rótulo antes de comprar.",
+          "Nos chocolates, sem café na lista de ingredientes, veja o número de cápsulas: Kopenhagen Língua de Gato e Chococino Nestlé usam duas por bebida; Nescau, Galak, KitKat, Nesquik, Chococino Alpino, Chocoglamour e Kopenhagen Chococino Cereja, uma. Todas têm leite: confira o rótulo antes de comprar.",
           "Os chás são cinco: Nestea Pêssego, Nestea Mate Limão, Chai Tea Latte, de duas cápsulas, e os Nature's Heart Hibiscus Pink Lemonade e Zen Style, que a marca descreve como sem adição de açúcares."
         ],
         "image": {
@@ -33271,7 +33271,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gelados",
         "paragraphs": [
-          "A marca descreve três sabores como bebida gelada: o Frappe, de duas cápsulas, apreciado em um copo com gelo; o Shakerato, versão gelada do café; e o Nestea Pêssego, chá gelado. O Nesquik e o Zen Style, segundo a loja, podem ser tomados quentes ou frios.",
+          "A marca descreve três sabores como bebida gelada: o Frappe, de duas cápsulas, apreciado em um copo com gelo; o Shakerato, versão gelada do café; e o Nestea Pêssego, chá gelado. Nesquik e Zen Style saem quentes ou frios, diz a página deles.",
           "A máquina não gela a bebida: o gelado vem do gelo no copo."
         ],
         "links": [
@@ -33284,7 +33284,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Starbucks e Kopenhagen",
         "paragraphs": [
-          "A Starbucks tem cinco sabores na loja: Espresso Colombia (intensidade 7), Americano House Blend (8), Cappuccino, de duas cápsulas, Caramel Macchiato, sem estoque na leitura, e o Toffee Nut Latte, edição limitada em caixa de 12.",
+          "São cinco Starbucks: Espresso Colombia (7), Americano House Blend (8), Cappuccino de duas cápsulas, Caramel Macchiato, sem estoque na leitura, e o Toffee Nut Latte, edição limitada em caixa de 12.",
           "A Kopenhagen tem cinco: Espresso, Cappuccino, Lajotinha, Língua de Gato e Chococino Cereja."
         ],
         "image": {
@@ -33408,8 +33408,8 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Café puro, de menor intensidade: Espresso (5), Lungo ou Café Caseiro (6).",
-          "Café forte: Caffè Matinal ou Espresso Barista (9) e Doppio Espresso (10).",
-          "Descafeinado, segundo a loja: Espresso Descafeinado.",
+          "Café forte: o Doppio Espresso, de intensidade 10, é a escolha pelos números da tabela; Caffè Matinal e Espresso Barista (9) vêm logo depois.",
+          "Descafeinado: Espresso Descafeinado, de intensidade 5.",
           "Café com leite de uma cápsula: Café au Lait, Pingado ou Mochaccino Canela.",
           "Cappuccino e latte de duas cápsulas: Cappuccino, Latte Macchiato ou Vanilla Latte Macchiato.",
           "Chocolate, sem café na lista de ingredientes: Nescau, Galak, KitKat ou Chococino Nestlé.",
@@ -33516,7 +33516,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Introdução",
         "paragraphs": [
-          "Cuidar do sono virou prioridade máxima por aqui, especialmente depois que o Ian nasceu. Quem acompanha nossa rotina nas redes sabe o quanto valorizo um quarto aconchegante e travesseiros que realmente apoiem o pescoço e a coluna de forma correta. Mas investir em marcas de sono de alto padrão gera dúvidas sobre onde comprar, como economizar e se os cupons realmente funcionam.",
+          "Dormir bem começa no travesseiro certo para o ombro. O que pesa é a altura e a medida para o colchão. Mas investir em marcas de sono de alto padrão gera dúvidas sobre onde comprar, como economizar e se os cupons realmente funcionam.",
           "Por isso, criamos uma parceria com a I Wanna Sleep e temos o cupom exclusivo CECIEMCASA, que dá 10% de desconto em todo o site. Preparei este guia passo a passo simples para você ver exatamente onde inserir o código no checkout e confirmar que o desconto foi aplicado antes de pagar, evitando surpresas."
         ]
       },
@@ -33547,7 +33547,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Digite o cupom CECIEMCASA no checkout",
         "paragraphs": [
-          "Na tela de finalização de compra (checkout), logo ao lado dos campos de dados de pagamento ou resumo de valores, você encontrará um campo com o texto \"Adicionar cupom de desconto\" ou similar. Digite CECIEMCASA (tudo em letras maiúsculas, sem espaços) e clique no botão para aplicar."
+          "No checkout, ache o campo \"Adicionar cupom de desconto\", digite CECIEMCASA, tudo em maiúsculas e sem espaços, e clique para aplicar."
         ],
         "image": "/images/reviews/iwannasleep/3-aplique-cupom.webp",
         "imageAlt": "Inserindo o cupom CECIEMCASA no campo de desconto.",
@@ -33556,7 +33556,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confirme o desconto no valor total",
         "paragraphs": [
-          "O passo mais importante é a validação visual. Veja o resumo do pedido: o valor do desconto de 10% deve estar discriminado separadamente e subtraído do valor dos produtos. Confirme que o valor total caiu antes de inserir seus dados de pagamento finais."
+          "Confirme no resumo antes de pagar. Veja o resumo do pedido: o valor do desconto de 10% deve estar discriminado separadamente e subtraído do valor dos produtos. Confirme que o valor total caiu antes de inserir seus dados de pagamento finais."
         ],
         "image": "/images/reviews/iwannasleep/4-confirme-desconto.webp",
         "imageAlt": "Desconto do cupom CECIEMCASA aplicado na I Wanna Sleep.",
@@ -33565,7 +33565,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que observar antes de comprar produtos de sono",
         "paragraphs": [
-          "Dormir bem é um investimento. Além de aproveitar os 10% de desconto com o cupom CECIEMCASA, recomendo atentar para estes detalhes:"
+          "Além dos 10% do cupom CECIEMCASA, confira altura, medidas, prazo e troca:"
         ],
         "bullets": [
           "Altura ajustável: Se comprar o Travesseiro IWS Snow, lembre-se de que ele possui regulagem de altura por camadas. Faça testes nas primeiras noites para achar a altura perfeita para seu ombro.",
@@ -33577,8 +33577,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veredito",
         "paragraphs": [
-          "Se você já sabe o que quer e está pronto para investir em noites de sono melhores, o processo é muito rápido. No checkout da I Wanna Sleep, digite o cupom CECIEMCASA, clique em aplicar e finalize a compra com 10% de desconto.",
-          "Caso ainda esteja em dúvida sobre a marca, em breve trago aqui outras análises e fichas técnicas dos produtos que já recebemos em casa."
+          "Se você já escolheu, o fim é rápido. No checkout da I Wanna Sleep, digite o cupom CECIEMCASA, clique em aplicar e finalize a compra com 10% de desconto.",
+          "Na dúvida sobre a marca, confirme o site oficial antes de pagar."
         ],
         "links": [
           {
@@ -33648,7 +33648,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As cinco máquinas à venda na loja oficial",
         "paragraphs": [
-          "A loja oficial vende cinco máquinas: a Mini Me 2.0 e as três Genio S (Basic, Plus e Touch), todas do sistema Original, e a NEO, que usa outra cápsula. Infinissima, Piccolo, Piccolo XS e Lumio não estão à venda no site.",
+          "Para escolher, primeiro separe por cápsula: a loja oficial vende cinco máquinas, quatro do sistema Original (a Mini Me 2.0 e as três Genio S: Basic, Plus e Touch) e a NEO, de outra cápsula. Infinissima, Piccolo, Piccolo XS e Lumio não estão à venda no site.",
           "As quatro do sistema Original aceitam as mesmas cápsulas, com mais de 30 bebidas quentes ou frias, entre cafés, lattes, cappuccinos, chocolates e chás. Elas trabalham com 15 bar de pressão e, no comparativo oficial, aparecem com tomada de 20 A.",
           "A NEO aceita só as cápsulas NEO compostáveis, trabalha com até 15 bar e tem o maior reservatório entre as cinco, com 1 litro."
         ],
@@ -33739,7 +33739,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Genio S é a mais estreita, com 11,2 cm de largura, e também a mais baixa entre as quatro do sistema Original, com cerca de 27 cm de altura. Para um canto apertado, confira só os 28,6 cm de profundidade.",
           "A Mini Me 2.0 é a menos funda das quatro do sistema Original, com 24 cm, mas também a mais alta, com 30,5 cm, e tem 16 cm de largura. Se ela for ficar embaixo de um armário, meça a altura antes.",
-          "A NEO mede 15,2 × 30 × 34,5 cm, segundo a página dela, que não diz qual dessas medidas é a altura, a largura ou a profundidade. Confira com a loja antes de contar com ela num espaço apertado."
+          "A página da NEO lista 15,2 × 30 × 34,5 cm sem dizer qual é altura, largura ou profundidade. Confira com a loja antes de contar com ela num espaço apertado."
         ],
         "image": {
           "src": "/images/reviews/dolcegusto/genio-s-touch-lateral.webp",
@@ -33753,7 +33753,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Mini Me 2.0 e as três Genio S usam as cápsulas do sistema Original. A NEO usa só as cápsulas NEO compostáveis, e as do sistema Original não entram nela.",
           "O Adaptador NEO Start, vendido por R$ 89,90 na loja oficial, põe alguns cafés NEO, só espresso e lungo, nos modelos do sistema Original que a loja lista como compatíveis. A lista cita, entre outras, a Mini Me, sem dizer se é a 2.0, a Genio S, a Genio S Plus e a Genio S Touch: confira na página do adaptador.",
-          "Cápsulas de outras marcas que se dizem compatíveis com a Dolce Gusto estão no nosso guia de cápsulas compatíveis, que reúne o que cada fabricante informa; não testamos essas cápsulas."
+          "Cápsulas de outras marcas que se dizem compatíveis estão no nosso guia de cápsulas compatíveis, com o que cada fabricante informa."
         ],
         "images": [
           {
@@ -33785,7 +33785,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Mini Me 2.0 passou pelo nosso teste em casa, com o Lungo e o Café Matinal no dia a dia de trabalho. O review conta como foi.",
           "A Genio S Touch também tem review próprio. Foi nela que vimos que o preparo frio não gela: com a opção fria do painel, o Chá de Pêssego saiu morno, por volta de 40 °C. Para bebida gelada, prepare antes e leve à geladeira ou ponha gelo no copo.",
-          "A Cecília usa a NEO no dia a dia; ela ainda não tem review próprio no site. A Genio S Basic e a Genio S Plus entram aqui pelas especificações oficiais: não testamos as duas."
+          "A Cecília usa a NEO no dia a dia; ela ainda não tem review próprio no site. A Genio S Basic e a Genio S Plus entram aqui pelas especificações oficiais."
         ],
         "images": [
           {
@@ -33827,15 +33827,15 @@ export const reviewsData: unknown[] = [
           "Bancada pequena: Genio S, a mais estreita, com 11,2 cm.",
           "XL pagando menos: Genio S Basic, R$ 479,90, sem as 4 temperaturas e o Espresso Boost.",
           "Os recursos da Plus com tela de toque: Genio S Touch, R$ 799,90.",
-          "Menor preço: Mini Me 2.0, por R$ 429,90 na maioria das cores."
+          "Menor preço: Mini Me 2.0, por R$ 429,90 na maioria das cores. Se fosse para a minha casa, eu levaria a Genio S Plus, porque ela junta XL, 4 temperaturas e Espresso Boost por R$ 589,90."
         ]
       },
       {
         "heading": "Onde comprar e o cupom CECI",
         "paragraphs": [
-          "Os preços deste guia são da loja oficial da NESCAFÉ Dolce Gusto e mudam com as promoções. A ficha da loja informa garantia de 1 ano para a máquina.",
+          "Os preços deste guia são da loja oficial e mudam com as promoções. A garantia da máquina é de 1 ano.",
           "O cupom CECI dá 10% de desconto em compras a partir de R$ 100 na loja oficial. Confira o desconto no carrinho antes de pagar.",
-          "Se você ainda está em dúvida entre Dolce Gusto e Nespresso, o nosso comparativo das duas marcas ajuda a decidir antes."
+          "Na dúvida entre Dolce Gusto e Nespresso, veja o comparativo das marcas."
         ],
         "links": [
           {
@@ -33923,7 +33923,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dados públicos da empresa",
         "paragraphs": [
-          "Antes de comprar, vale saber quem está por trás da marca, como funciona o atendimento e o que fazer se o pedido ou a máquina der problema. Os dados abaixo são públicos.",
+          "O ponto de atenção é a assistência: máquinas são da Arno, pedidos e cápsulas da Nestlé.",
           "A NESCAFÉ Dolce Gusto no Brasil é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52, o mesmo registro usado por outras marcas Nestlé no país, incluindo a Nestlé Nutre. Não é uma loja terceirizada: é um canal de venda direta de uma multinacional com décadas de operação no Brasil.",
           "O atendimento ao consumidor é feito pelo SAC 0800-776-2233, WhatsApp e formulário de contato no site oficial (nescafe-dolcegusto.com.br). Um detalhe pouco conhecido: as máquinas são fabricadas pela Arno (Groupe Seb), que mantém assistência técnica própria pelo telefone (11) 2060-9777, separada do atendimento da Nestlé sobre pedidos e cápsulas."
         ],
@@ -33932,7 +33932,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Catálogo e posicionamento de mercado",
         "paragraphs": [
-          "O catálogo cobre cápsulas de café (linhas Original e NEO), máquinas (Genio S, Mini Me, Piccolo XS, Eclipse, Infinissima, entre outras) e acessórios. A marca também tem parceria com a Starbucks, vendendo cápsulas Starbucks by NESCAFÉ Dolce Gusto exclusivas do sistema.",
+          "O catálogo cobre cápsulas Original e NEO, máquinas como Genio S e Mini Me, e acessórios. A marca também tem parceria com a Starbucks, vendendo cápsulas Starbucks by NESCAFÉ Dolce Gusto exclusivas do sistema.",
           "Existem dois programas de relacionamento: a Assinatura NDG, que renova o estoque de cápsulas automaticamente, e o DOLCE GUSTO CLUB, um programa de fidelidade em que o cliente cadastra o código impresso nas caixas para acumular pontos e trocar por produtos ou vale-presentes."
         ],
         "bullets": []
@@ -33940,7 +33940,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "O direito de arrependimento é de até 7 dias corridos após o recebimento, conforme o CDC, com devolução na embalagem original e nota fiscal. Em caso de defeito de fabricação da máquina, o contato correto é com a Nestlé (SAC ou e-mail) ou diretamente com a assistência técnica da Arno: vale saber isso de antemão para não perder tempo no canal errado.",
+          "O arrependimento segue o CDC: até 7 dias corridos após o recebimento, com devolução na embalagem original e nota fiscal. Em caso de defeito de fabricação da máquina, o contato correto é com a Nestlé (SAC ou e-mail) ou diretamente com a assistência técnica da Arno: vale saber isso de antemão para não perder tempo no canal errado.",
           "A entrega tem prazo de até 30 dias úteis, feita por transportadoras parceiras (Correios, Jadlog, Total Express, entre outras) com rastreamento por código enviado por e-mail. O cadastro no site é exclusivo para maiores de 18 anos residentes no Brasil, e a nota fiscal é enviada apenas por chave de acesso eletrônica, sem via impressa."
         ],
         "bullets": []
@@ -33948,7 +33948,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que observar antes de comprar",
         "paragraphs": [
-          "Como em qualquer compra online, recomenda-se verificar os seguintes pontos antes de finalizar o pedido na NESCAFÉ Dolce Gusto:"
+          "Antes de fechar o pedido, confira estes pontos:"
         ],
         "bullets": [
           "Confirme se está no domínio oficial (nescafe-dolcegusto.com.br) antes de finalizar a compra.",
@@ -33962,7 +33962,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dá para confiar na Dolce Gusto?",
         "paragraphs": [
           "Sim, pelos dados públicos. A NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil Ltda, CNPJ 60.409.075/0001-52, e vende pelo site oficial, não por uma loja terceirizada.",
-          "Os números que você consegue conferir antes de comprar: SAC 0800-776-2233, devolução em até 7 dias corridos após o recebimento, conforme o CDC, e entrega em até 30 dias úteis, com rastreamento por e-mail.",
+          "Confira antes de comprar: SAC 0800-776-2233, devolução em 7 dias e entrega em até 30 dias úteis com rastreio por e-mail.",
           "O ponto de atenção é a máquina: a assistência técnica é da Arno, pelo telefone (11) 2060-9777, e não da Nestlé. Em caso de defeito, vale começar por ela."
         ]
       },
@@ -34092,8 +34092,8 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Fachada de uma loja física da I Wanna Sleep.",
         "imageFit": "cover",
         "paragraphs": [
-          "A I Wanna Sleep opera no Brasil sob o CNPJ 43.783.630/0001-92, com endereço comercial na Rua Serra do Rola Moça, 315, em Belo Horizonte, Minas Gerais. Segundo o próprio site oficial, a marca se apresenta como uma \"global lifestyle sleep brand\", com sede global em Orlando, na Flórida (EUA), e presença declarada em diferentes países: Estados Unidos, Canadá, Brasil e México. No Brasil, quem responde pela operação comercial é a pessoa jurídica local citada acima, sob a mesma marca e o mesmo posicionamento internacional; a missão declarada, em todos os mercados, é ajudar as pessoas a dormir melhor.",
-          "A marca possui lojas físicas no Brasil, além do canal de vendas online. No site oficial, o consumidor encontra uma seção dedicada a \"Nossas lojas\", o que indica presença omnichannel e estrutura comercial consolidada. Além do varejo, a empresa investe em conteúdo e comunidade, com blog próprio, programa de influenciadores e o IWS Labs, uma iniciativa voltada à pesquisa e desenvolvimento de soluções para o sono."
+          "A I Wanna Sleep opera no Brasil sob o CNPJ 43.783.630/0001-92, na Rua Serra do Rola Moça, 315, em Belo Horizonte (MG). O site oficial a apresenta como \"global lifestyle sleep brand\", com sede global em Orlando (EUA) e presença em EUA, Canadá, Brasil e México. No Brasil, quem responde pela operação comercial é a pessoa jurídica local citada acima, sob a mesma marca e o mesmo posicionamento internacional; a missão declarada, em todos os mercados, é ajudar as pessoas a dormir melhor.",
+          "A marca possui lojas físicas no Brasil, além do canal de vendas online. O site lista as lojas físicas na seção \"Nossas lojas\". Além do varejo, a empresa investe em conteúdo e comunidade, com blog próprio, programa de influenciadores e o IWS Labs, uma iniciativa voltada à pesquisa e desenvolvimento de soluções para o sono."
         ],
         "bullets": []
       },
@@ -34104,7 +34104,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Parte do catálogo de travesseiros no site oficial.",
         "imageFit": "contain",
         "paragraphs": [
-          "A I Wanna Sleep oferece um portfólio amplo que vai além de travesseiros e colchões. O catálogo inclui produtos como cobertores tecnológicos (IWS Igloo, IWS Huggy), jogos de cama em bamboo, pillow top, acessórios de viagem (Travesseiro de Viagem Snow Mini), itens de maternidade, poltronas Ekornes, sleepwear e linha de nutrição do sono com melatonina, floral de Bach e spray funcional. A variedade sugere uma marca com capacidade de desenvolvimento de produto e parcerias com fornecedores especializados.",
+          "O catálogo vai além de travesseiros e colchões: inclui cobertores tecnológicos (IWS Igloo, IWS Huggy), jogos de cama em bamboo, pillow top, acessórios de viagem (Travesseiro de Viagem Snow Mini), itens de maternidade, poltronas Ekornes, sleepwear e linha de nutrição do sono com melatonina, floral de Bach e spray funcional. A variedade sugere uma marca com capacidade de desenvolvimento de produto e parcerias com fornecedores especializados.",
           "A marca também trabalha com tecnologias próprias, como o travesseiro IWS Snow, o IWS Airgelly 2.0 e o Protex Bamboo, que reforçam o posicionamento de inovação no setor. O fato de manter um braço de pesquisa (IWS Labs) é um indicativo de investimento em credibilidade técnica e diferenciação de mercado."
         ],
         "bullets": []
@@ -34112,8 +34112,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "A transparência nas políticas de compra é um ponto relevante na avaliação de confiabilidade. O site oficial da I Wanna Sleep disponibiliza informações sobre trocas e devoluções, além de ferramenta para rastreamento de pedidos. A marca também mantém o Sleeptest: segundo a política oficial consultada em agosto de 2026, são até 100 dias para testar colchões e até 30 dias para categorias como travesseiros, pillow tops e nutrição, sempre sujeitos aos critérios específicos de uso, conservação, prazo e canal de compra.",
-          "As formas de pagamento disponíveis incluem Pix e cartão de crédito, com opção de parcelamento. A diversidade de meios de pagamento facilita a compra e é um sinal de infraestrutura de e-commerce madura. O site também oferece atendimento ao cliente, com canais para tirar dúvidas sobre produtos, entregas e políticas de troca."
+          "Nas políticas, o que conta é troca, rastreio e Sleeptest. O site oficial da I Wanna Sleep disponibiliza informações sobre trocas e devoluções, além de ferramenta para rastreamento de pedidos. A marca também mantém o Sleeptest: segundo a política oficial consultada em agosto de 2026, são até 100 dias para testar colchões e até 30 dias para categorias como travesseiros, pillow tops e nutrição, sempre sujeitos aos critérios específicos de uso, conservação, prazo e canal de compra.",
+          "O pagamento é no Pix ou no cartão, com parcelamento. O site também oferece atendimento ao cliente, com canais para tirar dúvidas sobre produtos, entregas e políticas de troca."
         ],
         "bullets": [],
         "links": [
@@ -34130,7 +34130,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que observar antes de comprar",
         "paragraphs": [
-          "Como em qualquer compra online, recomenda-se verificar os seguintes pontos antes de finalizar o pedido na I Wanna Sleep:"
+          "Antes de fechar o pedido, confira estes pontos:"
         ],
         "bullets": [
           "Confirme se está no domínio oficial (iwannasleep.com.br) para evitar sites falsos ou não autorizados.",
@@ -34231,7 +34231,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o Travesseiro IWS Snow",
         "paragraphs": [
-          "O Travesseiro IWS Snow é o modelo que a I Wanna Sleep chama de best-seller. Ele chega em casa na altura máxima, de 18 cm, e você tira parte do enchimento até achar a altura que combina com o seu corpo e com a posição em que dorme.",
+          "Para quem não acerta a altura do travesseiro, o Snow é o best-seller da marca: chega com 18 cm e você tira enchimento até achar a altura que combina com o corpo e com a posição em que dorme.",
           "O enchimento é de flocos de espuma de memória com gel, e a capa é de viscose de bambu. A marca apresenta o conjunto como uma opção para quem sente calor à noite e para quem não acerta a altura do travesseiro."
         ],
         "bullets": []
@@ -34239,11 +34239,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ficha técnica e características",
         "paragraphs": [
-          "Estas são as informações da página oficial do Travesseiro IWS Snow:"
+          "O que decide é a altura, o enchimento e a capa, segundo a página oficial:"
         ],
         "bullets": [
           "Altura ajustável: chega com 18 cm, e você retira os flocos de espuma até achar a altura certa. Os flocos retirados ficam guardados no saquinho do produto e podem voltar depois.",
-          "Enchimento: memory foam flakes (flocos de espuma de memória) com gel infuso. Segundo a marca, as partículas de gel ajudam a aliviar a pressão na cabeça e no pescoço e a manter a temperatura do travesseiro agradável.",
+          "Enchimento: flocos de espuma de memória com gel, que a marca diz ajudar a aliviar a pressão e manter a temperatura agradável.",
           "Capa: 40% poliéster e 60% viscose de bambu. A marca diz que a malha de bambu tem toque macio e ajuda a reduzir a temperatura do travesseiro.",
           "Medidas: Regular, de 50x70x18 cm, que serve na fronha padrão, e Plus, de 50x90x18 cm, para camas King ou Super King, com fronha de 50x90 cm.",
           "Lavagem: só a capa, à mão e em água fria. O enchimento não pode ser lavado.",
@@ -34262,7 +34262,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comprar no site oficial",
         "paragraphs": [
-          "A compra do Travesseiro IWS Snow pode ser realizada pelo site oficial da I Wanna Sleep (iwannasleep.com.br) ou pelos demais canais oficiais da marca, como as lojas físicas listadas na seção \"Nossas lojas\" — garantindo a autenticidade do produto e o acesso às políticas de troca e devolução. No site, o pagamento pode ser feito via Pix e cartão de crédito, com opção de parcelamento, e o cupom CECIEMCASA é aplicado no checkout. Após a confirmação do pagamento, o cliente recebe informações para rastreamento do pedido."
+          "Compre pelo site oficial (iwannasleep.com.br) ou nas lojas físicas da seção \"Nossas lojas\", com as políticas de troca da marca. No site, o pagamento pode ser feito via Pix e cartão de crédito, com opção de parcelamento, e o cupom CECIEMCASA é aplicado no checkout. Após a confirmação do pagamento, o cliente recebe informações para rastreamento do pedido."
         ],
         "bullets": [
           "Acesse iwannasleep.com.br e use a barra de busca ou o menu para localizar o Travesseiro IWS Snow.",
@@ -34368,7 +34368,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o Cobertor IWS Igloo",
         "paragraphs": [
           "O Cobertor IWS Igloo é o item mais recente que recebemos aqui em casa da parceria com a I Wanna Sleep. A marca o descreve como o primeiro cobertor com dupla face térmica: um lado com toque frio, para quem esquenta durante a noite, e um lado com toque quente e aconchegante, para quem sente frio. Basta virar o cobertor para trocar de sensação.",
-          "A proposta é resolver um problema clássico de casal ou de mudança de estação: em vez de precisar de dois edredons diferentes, o Igloo tenta cobrir as duas necessidades em uma peça só. A ficha técnica abaixo vem dos dados oficiais da marca; as impressões da primeira noite estão na seção seguinte."
+          "A proposta é resolver um problema clássico de casal ou de mudança de estação: em vez de precisar de dois edredons diferentes, o Igloo tenta cobrir as duas necessidades em uma peça só. As medidas e tecnologias estão abaixo; as impressões da primeira noite vêm a seguir."
         ],
         "bullets": [],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp",
@@ -34525,8 +34525,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Introdução",
         "paragraphs": [
-          "Muita gente que acompanha as receitas aqui em casa também me pergunta sobre suplementação alimentar — principalmente pensando nos pais ou nos avós, naquela fase em que só a comida do dia a dia não cobre tudo que o corpo precisa. Foi conversando sobre isso que a parceria com a Nestlé Nutre apareceu: uma marca que muita família já usa no dia a dia, com produtos fáceis de achar em mercado e farmácia.",
-          "Ainda não testei os produtos da linha pessoalmente, então este guia é só sobre o cupom: onde aplicar o código CECI, quais produtos entram na promoção e as exceções que você precisa saber antes de fechar a compra. Se você procura a ficha atualizada do cupom CECI, com regras e validade, confira nossa página de cupons da Nestlé Nutre."
+          "Muita gente me pergunta sobre suplementação alimentar para pais e avós, e quer acertar o produto sem errar nas exceções do cupom. Foi conversando sobre isso que a parceria com a Nestlé Nutre apareceu: uma marca que muita família já usa no dia a dia, com produtos fáceis de achar em mercado e farmácia.",
+          "Este guia é só sobre o cupom: onde aplicar o CECI, o que entra e as exceções antes de fechar a compra. Se você procura a ficha atualizada do cupom CECI, com regras e validade, confira nossa página de cupons da Nestlé Nutre."
         ],
         "links": [
           {
@@ -34600,13 +34600,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Produtos excluídos: Alfamino, Alfaré e fórmulas infantis NAN",
         "paragraphs": [
-          "Vale repetir esse ponto separadamente porque são as exceções do cupom CECI. Alfamino e Alfaré não fazem parte do benefício cadastrado, então não conte com os 10% de desconto nesses itens; o motivo dessa exclusão não é detalhado, e as regras comerciais da loja podem mudar. Já as fórmulas infantis para bebês de 0 a 12 meses, como as da linha NAN vendidas na loja, ficam de fora por lei: o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais em fórmulas para lactentes, inclusive na internet. Antes de finalizar a compra, confira se todos os itens do carrinho são elegíveis e se o desconto aparece no resumo do pedido."
+          "Alfamino e Alfaré ficam de fora dos 10% do CECI, sem motivo detalhado; as regras da loja podem mudar. Já as fórmulas infantis para bebês de 0 a 12 meses, como as da linha NAN vendidas na loja, ficam de fora por lei: o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais em fórmulas para lactentes, inclusive na internet. Antes de finalizar a compra, confira se todos os itens do carrinho são elegíveis e se o desconto aparece no resumo do pedido."
         ]
       },
       {
         "heading": "O que eu observaria antes de comprar",
         "paragraphs": [
-          "O cupom ajuda a economizar, mas produtos de nutrição merecem atenção além do desconto. Antes de usar o CECI, eu conferiria:"
+          "O cupom ajuda a economizar, mas produtos de nutrição merecem atenção além do desconto. Antes do CECI, confira:"
         ],
         "bullets": [
           "Se o produto tem indicação de uso no rótulo compatível com quem vai consumir — alguns itens da linha são voltados a necessidades nutricionais específicas.",
@@ -34618,7 +34618,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde a Nestlé Nutre entra nessa história",
         "paragraphs": [
-          "A parceria com a Nestlé Nutre nasceu justamente dessas conversas sobre alimentação da família toda — não só das crianças, mas dos adultos e dos mais velhos também. Ainda não testei os produtos pessoalmente, e sou transparente sobre isso: por enquanto, posso dizer que o CECI é o código da nossa parceria com a loja oficial, e que o desconto de cada compra aparece no carrinho. Assim que tiver experiência de uso para compartilhar, este espaço será atualizado.",
+          "A parceria com a Nestlé Nutre nasceu justamente dessas conversas sobre alimentação da família toda — não só das crianças, mas dos adultos e dos mais velhos também. O CECI é o código da nossa parceria com a loja oficial: o desconto de cada compra aparece no carrinho. Assim que tiver experiência de uso para compartilhar, este espaço será atualizado.",
           "Se você já pesquisou e sabe qual produto da linha quer comprar, o cupom ajuda a economizar 10% nessa decisão."
         ]
       },
@@ -34714,7 +34714,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Catálogo e posicionamento de mercado",
         "paragraphs": [
-          "O catálogo da Nestlé Nutre é dividido em quatro grandes frentes: Suplementação (linha Nutren, vitaminas, proteínas), Nutrição Clínica (Isosource, Modulen, Peptamen, ThickenUp Clear), Nutrição Pediátrica (Alfamino, Alfaré, fórmulas para necessidades específicas de bebês e crianças) e Envelhecimento Saudável, o segmento onde a linha Nutren Senior se encaixa. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.",
+          "O catálogo tem quatro frentes da Nestlé mais parceiras no mesmo checkout: Suplementação, Nutrição Clínica, Pediátrica e Envelhecimento Saudável. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.",
           "Um diferencial pouco conhecido é o Programa Nestlé Nutre, um serviço de suporte ao paciente com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de um cupom de 10% renovado todo mês e atendimento nutricional gratuito por chat (em parceria com a Becare). É um programa separado da nossa parceria com o cupom CECI, mas vale conhecer se você ou alguém da família usa produtos da linha com frequência."
         ],
         "bullets": [],
@@ -34756,7 +34756,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
-          "O Em Casa com Cecília possui parceria comercial com a Nestlé Nutre. Através dessa parceria, o cupom CECI pode conceder 10% de desconto no carrinho em produtos elegíveis do site oficial (exceto Alfamino e Alfaré, conforme regulamento da marca). O código também não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, como NAN: o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais nesses produtos. As condições de desconto, validade e frete dependem das regras vigentes no checkout."
+          "O Em Casa com Cecília possui parceria comercial com a Nestlé Nutre. Pela parceria, o cupom CECI dá 10% no carrinho em produtos elegíveis, exceto Alfamino e Alfaré. O código também não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, como NAN: o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais nesses produtos. As condições de desconto, validade e frete dependem das regras vigentes no checkout."
         ],
         "bullets": [],
         "links": [
@@ -34845,7 +34845,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a Nestlé separa a linha Nutren",
         "paragraphs": [
-          "Parte da linha é de consumo: Senior, Protein, Control e Active, que este guia compara, além de Just Protein, Creatina, Mulher e Kids. A outra parte é de nutrição clínica, como os Nutren 1.5, 2.0, Ultra e Fortify, que a loja apresenta como Nutren Medical ou nutrição enteral e oral. Esses seguem a orientação do médico ou nutricionista e ficam fora da tabela."
+          "A Nestlé separa a linha em consumo e clínica: este guia compara Senior, Protein, Control e Active. A outra parte é de nutrição clínica, como os Nutren 1.5, 2.0, Ultra e Fortify, que a loja apresenta como Nutren Medical ou nutrição enteral e oral. Esses seguem a orientação do médico ou nutricionista e ficam fora da tabela."
         ]
       },
       {
@@ -34959,8 +34959,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Senior: para que serve e quais versões existem",
         "paragraphs": [
-          "A Nestlé descreve o Senior como a linha \"desenvolvida especialmente para a nutrição de adultos acima dos 50 anos\". A indicação nas páginas de produto é \"para pessoas a partir dos 50 anos\"; para uma condição de saúde, a escolha é do médico ou nutricionista. É complemento alimentar, não remédio.",
-          "Há o pó em latas de 740 g (Sem Sabor, Zero Lactose e sabores), o Premium de 370 g, que segundo a Nestlé tem \"colágeno FORTIGEL® e ômega 3\", e o pronto para beber de 200 ml, isento de lactose. O Senior Sem Sabor de 740 g (o que não é Zero Lactose) traz na lata 20 g de proteína na porção diária de 55 g, tomada em duas doses de 27,5 g. Pelo FAQ da linha, o pó e o pronto não contêm glúten; só as cápsulas Senior A-Z contêm."
+          "O Senior é para quem tem mais de 50 anos. A indicação nas páginas de produto é \"para pessoas a partir dos 50 anos\"; para uma condição de saúde, a escolha é do médico ou nutricionista. É complemento alimentar, não remédio.",
+          "Há o pó em latas de 740 g, o Premium de 370 g, que a Nestlé diz ter \"colágeno FORTIGEL® e ômega 3\", e o pronto de 200 ml, isento de lactose. O Senior Sem Sabor de 740 g (o que não é Zero Lactose) traz na lata 20 g de proteína na porção diária de 55 g, tomada em duas doses de 27,5 g. Pelo FAQ da linha, o pó e o pronto não contêm glúten; só as cápsulas Senior A-Z contêm."
         ],
         "images": [
           {
@@ -34984,7 +34984,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Protein: pó com cafeína ou garrafa pronta",
         "paragraphs": [
-          "O Nutren Protein em pó é um suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", em baunilha e chocolate (400 g; o de 800 g só em baunilha). A proteína e a cafeína da porção estão na tabela acima; os 20 g do destaque valem com 180 ml de leite desnatado. A página indica \"para jovens e adultos que querem mais foco e energia no dia a dia corrido\" e avisa que ele \"não deve ser consumido por gestantes, lactantes e crianças\". O FAQ diz que contém lactose e glúten.",
+          "O Protein em lata tem cafeína, em baunilha e chocolate; a garrafa pronta é outro produto. A proteína e a cafeína da porção estão na tabela acima; os 20 g do destaque valem com 180 ml de leite desnatado. A página indica \"para jovens e adultos que querem mais foco e energia no dia a dia corrido\" e avisa que ele \"não deve ser consumido por gestantes, lactantes e crianças\". O FAQ diz que contém lactose e glúten.",
           "A garrafa pronta de 260 ml é outro produto, com os valores da tabela acima, que não traz linha de cafeína. Nenhum dos dois é o Nutren Just Protein, o whey isolado sem sabor da Nestlé. A comparação com whey e com a YoPRO está no nosso guia do Nutren Protein."
         ],
         "image": {
@@ -35004,7 +35004,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Control: o que a Nestlé diz e o que a tabela mostra",
         "paragraphs": [
-          "A indicação da Nestlé para o Control é esta: \"para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares\", com a recomendação de \"consumir preferencialmente sob orientação de nutricionista ou médico\". A página do produto diz que ele é isento de sacarose, frutose, glicose e lactose, e a tabela traz esses quatro com 0 g. Mesmo assim, ela mostra 5 g de açúcares totais, 4,8 g deles adicionados, na porção de 42 g do pó, e 4,6 g, todos adicionados, na embalagem pronta de 200 ml.",
+          "O Control é para manejo dietético de quem tem necessidades especiais no metabolismo de açúcares, de preferência com médico ou nutricionista. A página do produto diz que ele é isento de sacarose, frutose, glicose e lactose, e a tabela traz esses quatro com 0 g. Mesmo assim, ela mostra 5 g de açúcares totais, 4,8 g deles adicionados, na porção de 42 g do pó, e 4,6 g, todos adicionados, na embalagem pronta de 200 ml.",
           "O rótulo da lata de 380 g dá o preparo: 5 colheres de sopa (42 g) em um copo com 50 ml de água, misturar até formar uma pasta cremosa e juntar mais 130 ml de água. A lata destaca caseinato e whey protein como proteínas. O rótulo diz que o pó não contém glúten e contém derivados de leite e soja, e o FAQ diz o mesmo do glúten no pronto. O rótulo ainda avisa que o pó é para adultos e não é adequado como única fonte de nutrição. Leve a tabela ao médico ou nutricionista antes de escolher."
         ],
         "images": [
@@ -35025,7 +35025,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Active: o complemento para jovens e adultos",
         "paragraphs": [
-          "A Nestlé descreve o Active como complemento alimentar \"para jovens e adultos que precisam de mais energia e disposição para encarar a rotina agitada\". A diferença para o Senior, na resposta da própria marca: \"Nutren Active foi feito para jovens e adultos e Nutren Senior para pessoas com mais de 50 anos\".",
+          "O Active é complemento para jovens e adultos. A diferença para o Senior, na resposta da própria marca: \"Nutren Active foi feito para jovens e adultos e Nutren Senior para pessoas com mais de 50 anos\".",
           "A lata tem 400 g, em baunilha, chocolate e morango. Na porção de 31,5 g da baunilha são 7,5 g de proteína, ou 14 g com 180 ml de leite desnatado. O FAQ diz que o Active contém lactose e glúten e que ele não pode ser fervido: se quiser quente, junte leite quente."
         ],
         "image": {
@@ -35126,10 +35126,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual Nutren é para quem",
         "paragraphs": [
-          "Não existe \"o melhor Nutren\": cada linha tem um público definido pela própria Nestlé. Comparamos só os dados oficiais, sem teste próprio."
+          "Não existe \"o melhor Nutren\": cada linha tem um público definido pela própria Nestlé."
         ],
         "bullets": [
-          "Nutren Senior: linha para adultos acima dos 50 anos.",
+          "Nutren Senior: linha para adultos acima dos 50 anos. Pelos números da tabela, para quem precisa de zero lactose a escolha é o Senior Zero Lactose ou o Control, porque trazem 0 g de lactose por porção.",
           "Nutren Protein: para jovens e adultos que querem \"foco e energia\"; o pó tem 80 mg de cafeína por porção e não é para gestantes, lactantes e crianças.",
           "Nutren Control: para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
           "Nutren Active: complemento para jovens e adultos.",
@@ -35272,7 +35272,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o Nutren Senior Zero Lactose",
         "paragraphs": [
-          "A marca descreve o produto como composto lácteo com cálcio, proteínas, vitamina D e outros nutrientes essenciais, na variante zero lactose. A enzima lactase entra na lista de ingredientes das duas latas de 740 g.",
+          "O Zero Lactose é composto lácteo com cálcio, proteínas e vitamina D, para adultos acima de 50 anos. A enzima lactase entra na lista de ingredientes das duas latas de 740 g.",
           "Os benefícios declarados na ficha oficial incluem proteínas e nutrientes voltados a adultos 50+. Na versão sem sabor, a marca também afirma auxílio na manutenção das funções do tecido ósseo e do músculo esquelético. Na baunilha, destaca cálcio e vitamina D."
         ],
         "image": "/images/reviews/nutren/nutren-senior-zero-lactose-beneficios.webp",
@@ -35290,7 +35290,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ficha técnica da lata de 740 g",
         "paragraphs": [
-          "Os números abaixo vêm das páginas oficiais da Nestlé Health Science consultadas em 17 de agosto de 2026, para Nutren Senior Zero Lactose Sem Sabor 740 g e Nutren Senior Zero Lactose Baunilha 740 g. Lote, tabela nutricional em %VD e alegações do rótulo podem mudar: o que vale na hora da compra é a lata que chega em casa.",
+          "A ficha das duas latas de 740 g, sem sabor e baunilha: Lote, tabela nutricional em %VD e alegações do rótulo podem mudar: o que vale na hora da compra é a lata que chega em casa.",
           "A lista de ingredientes das duas versões inclui leite integral, concentrado proteico de soro de leite, maltodextrina, proteína de soja isolada, polidextrose, caseinato de cálcio, colágeno hidrolisado, enzima lactase, vitaminas e minerais. A baunilha acrescenta aromatizante e o edulcorante sucralose.",
           "O material oficial da lata marca zero lactose e sem glúten. Mesmo assim, quem depende dessa informação deve conferir o rótulo do lote e, se for o caso, o SAC da Nestlé Nutre (0800 770 2461)."
         ],
@@ -35328,7 +35328,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual lata escolher",
         "paragraphs": [
-          "A pergunta que a tabela sozinha não responde é qual SKU leva para o carrinho. Com o que a fabricante publica, sem sabor e baunilha se decidem por aromatizante, sucralose e açúcar adicionado:"
+          "Sem sabor e baunilha se decidem por aromatizante, sucralose e açúcar adicionado:"
         ],
         "image": "/images/reviews/nutren/nutren-senior-linha-banner.avif",
         "imageAlt": "Linha Nutren Senior no site oficial: latas de 740 g e 370 g e versões prontas para beber",
@@ -35366,7 +35366,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comprar com o cupom CECI",
         "paragraphs": [
-          "A compra pode ser feita no site oficial da Nestlé Nutre. Escolha a lata — sem sabor ou baunilha — e, no pagamento, digite CECI. Se o código não aplicar, confira a grafia e as exceções do capítulo anterior; o checkout costuma ficar com um cupom só."
+          "Para comprar, escolha a lata no site oficial e digite CECI no pagamento. Se o código não aplicar, confira a grafia e as exceções do capítulo anterior; o checkout costuma ficar com um cupom só."
         ],
         "links": [
           {
@@ -35476,13 +35476,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na loja oficial, dá para ganhar a Mini Me nos combos da loja oficial (só com cápsulas ORIGINAL) ou levá-la no combo Mini Me 2.0 com 20 caixas. Comparada à avulsa, a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho; veja a conta no último capítulo."
+          "Dá para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas. Comparada à avulsa, a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho; veja a conta no último capítulo."
         ]
       },
       {
         "heading": "Como ganhar ou comprar a Mini Me",
         "paragraphs": [
-          "Na loja oficial da NESCAFÉ Dolce Gusto, a página de combos com máquina traz o selo \"Ganhe máquina Mini Me\". A oferta vale apenas para cápsulas ORIGINAL e pode ser parcelada em até 10x sem juros. O número de caixas exigido aparece no carrinho, não na página.",
+          "O grátis exige combos somente com cápsulas ORIGINAL, em até 10x sem juros; o número de caixas aparece no carrinho. O número de caixas exigido aparece no carrinho, não na página.",
           "Há outro caminho: o combo Mini Me 2.0 com 20 caixas (200 cápsulas), a R$ 797,00, nas versões 110V e 220V. A loja o anuncia como \"para negócios\". A Mini Me 2.0 avulsa custa R$ 419,90, em Terracota, Cinza Chumbo, Cinza Gelo e Preto Onyx. Preços lidos na loja em 24/10/2026."
         ],
         "links": [
@@ -35509,7 +35509,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Combo com 20 caixas ou Mini Me avulsa",
         "paragraphs": [
-          "A comparação é direta. No combo, você paga R$ 797,00 por máquina e 20 caixas. Avulsa, a máquina sai por R$ 419,90 e as caixas são compradas à parte.",
+          "No combo, você paga R$ 797,00 por máquina e 20 caixas. Avulsa, a máquina sai por R$ 419,90 e as caixas são compradas à parte.",
           "Para saber o custo real da máquina no combo, subtraia as caixas: R$ 797,00 menos 20 vezes o preço da caixa no carrinho. A diferença para a avulsa é de R$ 377,10, então o combo compensa quando a caixa custa mais de R$ 18,86. Com a caixa a R$ 25, as 20 caixas somam R$ 500,00 e a máquina sairia por R$ 297,00. Releia o preço da caixa antes de decidir."
         ],
         "bullets": [
@@ -35521,7 +35521,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O gatilho de 50 a 70 caixas ficou no histórico",
         "paragraphs": [
-          "A promoção exigiu 55 caixas ORIGINAL para ganhar a Mini Me e, depois, 60. Na última leitura da loja, esse gatilho não aparecia mais na loja. A promoção é temporária e pode mudar sem aviso, por isso o número vigente é o do seu carrinho."
+          "A promoção exigiu 55 caixas ORIGINAL para ganhar a Mini Me e, depois, 60. Na última leitura, esse gatilho não aparecia mais. A promoção é temporária e pode mudar sem aviso, por isso o número vigente é o do seu carrinho."
         ]
       },
       {
@@ -35542,7 +35542,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Vale se você já compraria as caixas. No combo de 20 caixas, a máquina sai mais barata que a avulsa quando a caixa passa de R$ 18,86 no carrinho, e os combos com \"Ganhe máquina Mini Me\" entregam a máquina sem custo para quem atinge o mínimo de caixas.",
           "Não vale se o consumo é esporádico: comprar 20 caixas ou mais só para levar a máquina cria um estoque que pode demorar para acabar. Nesse caso, a Mini Me 2.0 avulsa por R$ 419,90 é a conta mais segura.",
-          "Confirme preço, número de caixas e regras no carrinho antes de pagar."
+          "Confirme preço, número de caixas e regras no carrinho antes de pagar. Se fosse para a minha casa, eu levaria a avulsa para consumo esporádico, porque 20 caixas criam estoque."
         ],
         "bullets": [
           "Consumo frequente: combo com 20 caixas ou combo com Mini Me grátis.",
@@ -35606,7 +35606,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, o [cupom Magalu](/cupons/magalu) da Cecília está ativo, com dez faixas de desconto, conforme o valor do carrinho. Ele vale só no navegador, na loja Magazine Você da Cecília, e para produtos vendidos e entregues pelo Magalu. O pulo do gato é acertar o mínimo da sua faixa: a tabela com os dez códigos está no passo 4."
+          "Sim, o [cupom Magalu](/cupons/magalu) da Cecília está ativo, com dez faixas pelo valor do carrinho. Ele vale só no navegador, na loja Magazine Você da Cecília, e para produtos vendidos e entregues pelo Magalu. O pulo do gato é acertar o mínimo da sua faixa: a tabela com os dez códigos está no passo 4."
         ]
       },
       {
@@ -35615,7 +35615,7 @@ export const reviewsData: unknown[] = [
           "Sim. A última verificação foi feita em 1º de outubro de 2026 e as dez faixas do cupom Magalu estavam ativas, de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Os códigos seguem válidos para produtos vendidos e entregues pelo Magalu, com uso exclusivo na loja Magazine Você da Cecília pelo navegador.",
           "Prova real: em uma checagem anterior, eu testei o 50EMCASACOMCECILIA em um carrinho de R$ 2.999 e o desconto de R$ 50 apareceu no resumo do pedido — o print está no passo 4 deste guia.",
           "Eu testo os cupons todo mês. Se algo mudar, a página dedicada ao cupom Magalu aqui do blog é a primeira a ser atualizada.",
-          "Um lembrete que eu repito sempre: se você tentar o código no aplicativo do Magalu, não vai funcionar. Não é bug — é a regra desta campanha. O cupom só existe dentro da minha loja no Magazine Você, acessada pelo navegador."
+          "No aplicativo do Magalu, o cupom não funciona; não é bug, é a regra da campanha. O cupom só existe dentro da minha loja no Magazine Você, acessada pelo navegador."
         ],
         "links": [
           {
@@ -35628,7 +35628,7 @@ export const reviewsData: unknown[] = [
         "heading": "Por que o cupom só funciona na loja Magazine Você da Cecília?",
         "paragraphs": [
           "Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília, porque foram criados por mim exclusivamente para essa loja dentro do Magazine Você — o programa oficial de influenciadores da Magazine Luiza, no domínio magazinevoce.com.br.",
-          "Estes códigos são um benefício exclusivo da minha loja no Magazine Você: não valem no site magazineluiza.com.br nem no app do Magalu.",
+          "São exclusivos da loja Magazine Você da Cecília: não valem no site nem no app do Magalu.",
           "E tem um ponto que deixa tudo mais seguro: o magazinevoce.com.br é domínio da própria Magazine Luiza S/A (CNPJ 47.960.950/0001-21), registrado desde 2011. Quem vende, cobra, entrega e faz o pós-venda é o próprio Magalu, o login usa a sua conta Magalu de sempre, e o aviso oficial no rodapé deixa claro que você não compartilha dados com o dono da página.",
           "Transparência: comprando na minha loja, eu recebo uma comissão sobre a compra — sem nenhum custo extra para você. E quando você usa qualquer um desses cupons, a Magazine Luiza desconta o valor do cupom da minha comissão: se a sua compra geraria R$ 15 de comissão e você aplicou o 10EMCASACOMCECILIA (R$ 10 OFF), ficam R$ 5 líquidos para mim. O desconto sai da comissão, não do seu bolso.",
           "Resumindo: a loja é minha, mas a operação é 100% Magalu."
@@ -35643,7 +35643,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Acesse a loja pelo navegador",
         "paragraphs": [
-          "Regra de ouro: tudo no navegador, em menos de dois minutos, com prints de cada tela. Abra o navegador do seu celular ou computador e entre direto na loja Magazine Você da Cecília pelo link abaixo. Pode ser Chrome, Safari, Edge ou qualquer outro — o que importa é ser navegador.",
+          "Regra de ouro: tudo no navegador. Abra o navegador do seu celular ou computador e entre direto na loja Magazine Você da Cecília pelo link abaixo. Pode ser Chrome, Safari, Edge ou qualquer outro — o que importa é ser navegador.",
           "Não abra o app do Magalu: ele não reconhece os códigos EMCASACOMCECILIA, exclusivos da loja no Magazine Você."
         ],
         "image": "/images/reviews/magalu/magalu-loja-navegador.webp",
@@ -35660,14 +35660,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "2. Entre com a sua conta Magalu",
         "paragraphs": [
-          "Na loja, faça login com a mesma conta Magalu que você já usa no site ou no app. Mesmo e-mail, mesma senha. Não é preciso criar cadastro novo nem informar seus dados para mim.",
+          "Na loja, faça login com a mesma conta Magalu que você já usa no site ou no app. Mesmo e-mail, mesma senha. Sem cadastro novo; seus dados ficam com o Magalu.",
           "O aviso oficial no rodapé reforça: o cliente não compartilha dados com o dono da página. Seus dados ficam com o Magalu."
         ]
       },
       {
         "heading": "3. Monte o carrinho com produtos vendidos e entregues pelo Magalu",
         "paragraphs": [
-          "Navegue pela loja e adicione os produtos ao carrinho. Atenção a um detalhe importante: o cupom só vale para itens vendidos e entregues pelo Magalu. Produtos de lojistas parceiros (marketplace) não entram na conta do desconto.",
+          "Navegue pela loja e adicione os produtos ao carrinho. O cupom somente vale para itens vendidos e entregues pelo Magalu, sem marketplace.",
           "Na página do produto, confira se a venda e a entrega são do Magalu. Com itens mistos no carrinho, o desconto pode falhar."
         ]
       },
@@ -35852,7 +35852,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o Magazine Você",
         "paragraphs": [
-          "É o programa do Magalu em que uma pessoa física cria uma loja online grátis, só com o CPF, e indica produtos do catálogo do Magalu. Quando alguém compra pela loja, quem tem a loja recebe comissão, e quem cobra é o Magalu. Cada CPF pode ter uma loja só.",
+          "No Magazine Você, a compra é do Magalu, não do influenciador: uma pessoa física cria uma loja online grátis, só com o CPF, e indica produtos do catálogo do Magalu. Quando alguém compra pela loja, quem tem a loja recebe comissão, e quem cobra é o Magalu. Cada CPF pode ter uma loja só.",
           "A página inicial do programa usa hoje o nome Influenciador Magalu, e o contrato cita os dois nomes. O endereço de cada loja segue o modelo magazinevoce.com.br/nome-da-loja/."
         ]
       },
@@ -35867,7 +35867,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quem vende, cobra e entrega quando você compra por uma loja de influenciador",
         "paragraphs": [
           "Pela central de ajuda dos influenciadores, \"todo o processo de confirmação do pagamento e entrega do produto fica por conta do Magazine Luiza\", e o influenciador não deve receber pagamento direto do cliente. No meu painel de loja eu não vejo cartão: a cobrança acontece no checkout do Magalu.",
-          "O que muda de um produto para outro é quem vende. Segundo a central de atendimento do Magalu, na página do produto, acima do preço, aparece \"Vendido e entregue por\" e o nome da loja. \"Vendido e entregue por Magalu\" é o próprio Magalu; outro nome é uma loja parceira, que responde pela oferta. Dúvidas sobre o pedido vão para o atendimento do Magalu (0800 310 0002), como a central de ajuda dos influenciadores orienta."
+          "O que muda é quem vende: na página do produto, acima do preço, aparece \"Vendido e entregue por\" e o nome da loja. \"Vendido e entregue por Magalu\" é o próprio Magalu; outro nome é uma loja parceira, que responde pela oferta. Dúvidas sobre o pedido vão para o atendimento do Magalu (0800 310 0002), como a central de ajuda dos influenciadores orienta."
         ]
       },
       {
@@ -36108,7 +36108,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que testamos a Genio S Touch",
         "paragraphs": [
-          "A Genio S Touch é a versão com painel touchscreen da linha Genio S da NESCAFÉ Dolce Gusto: mantém o sistema de cápsulas ORIGINAL, mas troca os botões físicos das versões Basic e Plus por um painel touchscreen, com Espresso Boost, 4 níveis de temperatura e Função XL para bebidas maiores.",
+          "A Touch é a Genio S de botões trocados por touchscreen: mantém as cápsulas ORIGINAL, com Espresso Boost, 4 temperaturas e XL.",
           "Este artigo traz nossas primeiras impressões reais de uso: unboxing, o painel touch, a primeira xícara e o que já incomodou. Ainda é cedo pra falar de durabilidade, então vamos atualizar esta mesma página conforme usarmos mais a máquina no dia a dia, em vez de publicar uma review nova do zero."
         ],
         "bullets": [],
@@ -36132,7 +36132,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O painel touch, na prática",
         "paragraphs": [
-          "A navegação no touch é intuitiva, mas tem funções que vão além do básico, como o Espresso Boost e o ajuste de temperatura em 4 níveis. O Espresso Boost é um adicional bem interessante pra quem aprecia espresso: intensifica o preparo e melhora bastante a experiência de tomar café na Dolce Gusto. Um detalhe legal: o painel só ativa quando você levanta a tampa frontal pra trocar a cápsula, o que torna trocar de bebida bem intuitivo.",
+          "O touch é intuitivo; o extra está no Espresso Boost e nas 4 temperaturas. O Espresso Boost é um adicional bem interessante pra quem aprecia espresso: intensifica o preparo e melhora bastante a experiência de tomar café na Dolce Gusto. Um detalhe legal: o painel só ativa quando você levanta a tampa frontal pra trocar a cápsula, o que torna trocar de bebida bem intuitivo.",
           "O toque responde bem, sem delay perceptível: não precisamos apertar duas vezes ou esperar a tela 'acordar'."
         ],
         "bullets": [],
@@ -36145,7 +36145,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantos ml sai em cada nível?",
         "paragraphs": [
-          "Aqui vai um ponto que gerou dúvida enquanto usávamos a máquina: o painel touch mostra os mesmos ícones de tamanho impressos na cápsula e na caixinha (os \"riscos\" que qualquer usuário de Dolce Gusto já conhece), sem indicar o volume em ml diretamente. A única referência com os valores reais em ml que encontramos foi no manual impresso, que vai até o nível XL, acima do que costuma vir configurado como máximo \"normal\" no painel.",
+          "O painel touch mostra ícones, sem ml: os mesmos riscos da cápsula e da caixinha. A única referência com os valores reais em ml que encontramos foi no manual impresso, que vai até o nível XL, acima do que costuma vir configurado como máximo \"normal\" no painel.",
           "Como esse é um dado que vale um artigo à parte (inclusive porque encontramos informação incorreta sobre isso em outros sites), a tabela completa de ml por nível está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
         ],
         "bullets": []
@@ -36153,7 +36153,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A primeira xícara",
         "paragraphs": [
-          "Na comparação com as outras máquinas de cápsula que já tivemos em casa (incluindo a Vertuo da Nespresso), a Genio S Touch foi a mais rápida pra ficar pronta pra primeira bebida. (A NEO, outra máquina Dolce Gusto, é um pouco menos rápida que a Touch, mas isso fica pro artigo específico dela.)",
+          "A Touch foi a mais rápida a ficar pronta para a primeira bebida, incluindo na comparação com a Vertuo da Nespresso. (A NEO, outra máquina Dolce Gusto, é um pouco menos rápida que a Touch, mas isso fica pro artigo específico dela.)",
           "O barulho ficou dentro do aceitável e não notamos vazamento. Bebida saiu na temperatura e na quantidade esperadas. O que incomodou foi ela ficar pingando entre um preparo e o outro, algo que não acontece na NEO nem na Vertuo, pelo menos no nosso uso."
         ],
         "bullets": [],
@@ -38031,7 +38031,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela de referência: volumes encontrados no manual",
         "paragraphs": [
-          "Esta compilação reúne os volumes mostrados nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0. Alguns aparecem em cartões de receita e outros junto aos ícones da escala de barras; por isso, devem ser lidos como faixas de referência:"
+          "São faixas dos manuais da Genio S Touch e da Mini Me 2.0, não calibração oficial. Alguns aparecem em cartões de receita e outros junto aos ícones da escala de barras; por isso, devem ser lidos como faixas de referência:"
         ],
         "bullets": [
           "1 barra (1 nível): cerca de 35 ml a 40 ml, exemplos de ristretto e espresso curto",
@@ -38085,7 +38085,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Volumes por bebida na tabela impressa na embalagem",
         "paragraphs": [
-          "A foto da embalagem ajuda a conferir exemplos concretos que aparecem na tabela de preparo. Nos cafés pretos, ela indica 35 ml para Ristretto Ardenza e Espresso Barista; 50 ml para Espresso, Espresso Descafeinado e Espresso Intenso; 120 ml para Caffè Matinal e Lungo; e 145 ml para Café Caseiro Intenso e Café Caseiro.",
+          "Na foto da embalagem, confira o exemplo da sua cápsula. Nos cafés pretos, ela indica 35 ml para Ristretto Ardenza e Espresso Barista; 50 ml para Espresso, Espresso Descafeinado e Espresso Intenso; 120 ml para Caffè Matinal e Lungo; e 145 ml para Café Caseiro Intenso e Café Caseiro.",
           "Na área de lattes, a mesma tabela mostra 80 ml para Cortado, 120 ml para Mochaccino Canela, 140 ml para Café au Lait Desnatado e 180 ml para Café au Lait. Para bebidas em duas etapas, os exemplos visíveis são Vanilla Latte Macchiato (175 ml de leite + 25 ml de café), Latte Macchiato (170 ml + 50 ml), Cappuccino (200 ml + 40 ml), Chococino (100 ml de chocolate + 110 ml de leite), Chococino Caramel (100 ml de leite + 110 ml de chocolate), Mocha (110 ml de café + 110 ml de leite) e Chai Tea Latte (120 ml de leite + 100 ml de chá).",
           "A tabela também lista Nestea Limão e Nestea Pêssego com 200 ml. Use esses exemplos para escolher uma xícara que comporte o volume recomendado; para uma cápsula diferente, prevalece sempre o número de barras indicado na sua própria embalagem."
         ],
@@ -38098,7 +38098,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "XL nos manuais consultados: 300 ml",
         "paragraphs": [
-          "Algumas fontes associam a função XL a 280 ml. No manual da Genio S Touch, porém, o gráfico mostra diretamente **300 ml para XL**. A Mini Me 2.0 não tem a função XL, segundo o comparativo de máquinas da loja oficial, e a Nestlé não disponibiliza uma tabela única para toda a linha.",
+          "O gráfico do manual da Genio S Touch mostra 300 ml para XL, não 280 ml. O comparativo da loja oficial mostra a Mini Me 2.0 sem XL, e a Nestlé não publica tabela única.",
           "Se o manual do seu modelo traz outros valores, siga o do seu modelo: o XL de 300 ml vale para a Genio S Touch."
         ],
         "bullets": [],
@@ -38253,8 +38253,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dados públicos da empresa",
         "paragraphs": [
-          "A YesStyle Limited é uma empresa de e-commerce com sede em Hong Kong, fundada em 2006. A empresa opera como subsidiária de YesAsia Holdings Limited, que é listada na bolsa de valores de Hong Kong com o código 2209.HK. Isso significa que, embora a YesStyle seja um site independente, sua controladora é listada na bolsa de Hong Kong.",
-          "A YesStyle atende clientes em mais de 150 países e regiões, com versão do site traduzida para português e suporte a múltiplas moedas de referência. No Brasil, as compras são cotadas em dólar americano (USD) e processadas conforme a regulamentação de e-commerce internacional. A empresa mantém canais de atendimento ao cliente para tirar dúvidas sobre produtos, prazos de entrega, impostos de importação e política de devoluções."
+          "A YesStyle é de Hong Kong, desde 2006. Pertence à YesAsia Holdings (2209.HK), listada na bolsa de Hong Kong.",
+          "A YesStyle atende clientes em mais de 150 países e regiões, com versão do site traduzida para português e suporte a múltiplas moedas de referência. No Brasil, as compras saem em dólar (USD). A empresa mantém canais de atendimento ao cliente para tirar dúvidas sobre produtos, prazos de entrega, impostos de importação e política de devoluções."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
@@ -38275,7 +38275,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "O site da YesStyle oferece navegação em português e checkout em múltiplas formas de pagamento (cartão de crédito internacional, PayPal e, em alguns países, carteiras locais). Prazo, frete e imposto no Brasil e em Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "Para pagar, há cartão internacional, PayPal e, em alguns países, carteiras locais. Prazo, frete e imposto no Brasil e em Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Para devoluções de itens elegíveis na embalagem original, a solicitação pode ser feita via formulário de autorização (RMA) no atendimento oficial. O suporte ao cliente pode ser contatado via chat e e-mail no site oficial."
         ],
         "bullets": [],
@@ -38299,14 +38299,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que observar antes de comprar",
         "paragraphs": [
-          "Como em qualquer compra internacional, recomenda-se verificar os seguintes pontos antes de finalizar o pedido na YesStyle:"
+          "Antes de fechar o pedido, confira estes pontos:"
         ],
         "bullets": [
           "Confirme se está no domínio oficial (yesstyle.com) antes de inserir dados de pagamento. O checkout seguro deve iniciar com 'https://'.",
           "Confira o frete e o prazo no checkout antes de pagar. Se o pacote for taxado na chegada, a YesStyle reembolsa os impostos e as taxas de alfândega em pedidos abaixo de US$ 1.000; como pedir está no [guia de entrega](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Leia atentamente as descrições dos produtos, incluindo dimensões, materiais, e instruções de cuidado: padrões de beleza asiáticos podem diferir dos locais (ex: tamanho de embalagem, concentração de princípios ativos).",
           "Mantenha o comprovante de pagamento, o número de pedido e o código de rastreamento para acompanhamento e eventual recurso em caso de problemas.",
-          "Produtos podem chegar em caixa lacrada: não aceite o pacote se o lacre estiver violado, pois o lacre preservado é um importante indicativo de integridade do pacote."
+          "Se o lacre chegar violado, não aceite o pacote."
         ]
       },
       {
@@ -38430,7 +38430,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Geração 1 e NEO na mesma assinatura",
         "paragraphs": [
-          "Segundo o FAQ oficial, a assinatura vale para as duas linhas e as duas podem estar na mesma assinatura. Entram todas as caixas de bebidas da seção Sabores, de Geração 1 ou NEO. Isso ajuda quem tem uma máquina clássica na cozinha e uma NEO no escritório, por exemplo: um único plano abastece as duas.",
+          "O FAQ oficial aceita as duas linhas no mesmo plano. Entram todas as caixas de bebidas da seção Sabores, de Geração 1 ou NEO. Isso ajuda quem tem uma máquina clássica na cozinha e uma NEO no escritório, por exemplo: um único plano abastece as duas.",
           "A exceção são as caixas **DGusta** de 50 e 100 cápsulas da Geração 1, que ficam fora do plano. Elas só podem ser compradas avulsas.",
           "Antes de escolher, confira a máquina que você tem em casa. Cápsula Geração 1 funciona nas máquinas clássicas, e cápsula NEO na máquina NEO. Algumas cápsulas NEO também podem ser preparadas numa máquina clássica compatível com o **Adaptador NEO Start**."
         ],
@@ -38497,7 +38497,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como alterar, pular ou antecipar uma entrega",
         "paragraphs": [
-          "A assinatura não engessa o pedido. Dá para mudar sabores, quantidade e frequência conforme o consumo da casa muda, desde que respeitando os prazos do regulamento:"
+          "A assinatura não engessa o pedido. Dá para mudar sabores, quantidade e frequência, respeitando os prazos:"
         ],
         "bullets": [
           "Produtos, endereço, cartão e frequência podem ser alterados até **2 dias antes** do próximo pedido.",

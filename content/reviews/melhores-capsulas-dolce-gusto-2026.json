@@ -35,7 +35,7 @@
     {
       "heading": "Original ou NEO: a máquina escolhe primeiro",
       "paragraphs": [
-        "Não existe um melhor sabor, existe o que combina com o seu jeito de tomar café. Antes de escolher o sabor, veja qual linha de cápsulas serve na sua máquina.",
+        "Antes do sabor, veja a máquina: só a linha certa serve nela.",
         "A loja tem duas linhas de cápsulas. As Original, quase todo o catálogo, só servem nas máquinas Original, como a Mini Me 2.0 e as Genio S. As NEO, de papel, são para as máquinas NEO.",
         "A NEO tem só cafés pretos: oito na loja, dois deles sem estoque. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start."
       ],
@@ -70,7 +70,7 @@
     {
       "heading": "Cafés pretos pela intensidade",
       "paragraphs": [
-        "A loja dá uma intensidade a quase todos os cafés, numa escala própria, sem informar o máximo. O mais forte do catálogo é o Doppio Espresso, com 10; segundo a loja, ele tem duas vezes mais cafeína que o Espresso."
+        "Nos pretos, compare pela intensidade da loja, numa escala própria e sem máximo informado. O mais forte é o Doppio Espresso, com 10: a página dele fala em duas vezes mais cafeína que o Espresso."
       ],
       "image": {
         "src": "/images/reviews/dolcegusto/dolce-gusto-cafes-pretos-intensidade-oficial.webp",
@@ -158,7 +158,7 @@
     {
       "heading": "Chocolates e chás",
       "paragraphs": [
-        "As nove bebidas da categoria chocolate da loja não têm café na lista de ingredientes: Nescau, Galak, KitKat, Nesquik, Chococino Alpino, Chocoglamour, Kopenhagen Chococino Cereja, Kopenhagen Língua de Gato e Chococino Nestlé. As duas últimas usam duas cápsulas por bebida; as outras, uma. Todas têm leite: confira o rótulo antes de comprar.",
+        "Nos chocolates, sem café na lista de ingredientes, veja o número de cápsulas: Kopenhagen Língua de Gato e Chococino Nestlé usam duas por bebida; Nescau, Galak, KitKat, Nesquik, Chococino Alpino, Chocoglamour e Kopenhagen Chococino Cereja, uma. Todas têm leite: confira o rótulo antes de comprar.",
         "Os chás são cinco: Nestea Pêssego, Nestea Mate Limão, Chai Tea Latte, de duas cápsulas, e os Nature's Heart Hibiscus Pink Lemonade e Zen Style, que a marca descreve como sem adição de açúcares."
       ],
       "image": {
@@ -171,7 +171,7 @@
     {
       "heading": "Gelados",
       "paragraphs": [
-        "A marca descreve três sabores como bebida gelada: o Frappe, de duas cápsulas, apreciado em um copo com gelo; o Shakerato, versão gelada do café; e o Nestea Pêssego, chá gelado. O Nesquik e o Zen Style, segundo a loja, podem ser tomados quentes ou frios.",
+        "A marca descreve três sabores como bebida gelada: o Frappe, de duas cápsulas, apreciado em um copo com gelo; o Shakerato, versão gelada do café; e o Nestea Pêssego, chá gelado. Nesquik e Zen Style saem quentes ou frios, diz a página deles.",
         "A máquina não gela a bebida: o gelado vem do gelo no copo."
       ],
       "links": [
@@ -184,7 +184,7 @@
     {
       "heading": "Starbucks e Kopenhagen",
       "paragraphs": [
-        "A Starbucks tem cinco sabores na loja: Espresso Colombia (intensidade 7), Americano House Blend (8), Cappuccino, de duas cápsulas, Caramel Macchiato, sem estoque na leitura, e o Toffee Nut Latte, edição limitada em caixa de 12.",
+        "São cinco Starbucks: Espresso Colombia (7), Americano House Blend (8), Cappuccino de duas cápsulas, Caramel Macchiato, sem estoque na leitura, e o Toffee Nut Latte, edição limitada em caixa de 12.",
         "A Kopenhagen tem cinco: Espresso, Cappuccino, Lajotinha, Língua de Gato e Chococino Cereja."
       ],
       "image": {
@@ -308,8 +308,8 @@
       ],
       "bullets": [
         "Café puro, de menor intensidade: Espresso (5), Lungo ou Café Caseiro (6).",
-        "Café forte: Caffè Matinal ou Espresso Barista (9) e Doppio Espresso (10).",
-        "Descafeinado, segundo a loja: Espresso Descafeinado.",
+        "Café forte: o Doppio Espresso, de intensidade 10, é a escolha pelos números da tabela; Caffè Matinal e Espresso Barista (9) vêm logo depois.",
+        "Descafeinado: Espresso Descafeinado, de intensidade 5.",
         "Café com leite de uma cápsula: Café au Lait, Pingado ou Mochaccino Canela.",
         "Cappuccino e latte de duas cápsulas: Cappuccino, Latte Macchiato ou Vanilla Latte Macchiato.",
         "Chocolate, sem café na lista de ingredientes: Nescau, Galak, KitKat ou Chococino Nestlé.",
