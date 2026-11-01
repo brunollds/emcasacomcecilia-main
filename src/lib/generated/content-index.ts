@@ -74880,7 +74880,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Probiótica pertence ao grupo **Supley**. No site da Supley, a empresa diz que renova diariamente o seu compromisso com o mercado \"com MAX Titanium, Probiótica, Dr. Peanut e Znack That\". Por isso a Probiótica não é da Max Titanium: as duas são marcas irmãs, do mesmo grupo.",
           "A ligação não aparece no \"Quem Somos\" da Probiótica, que não cita a Supley. Ela vem de duas fontes públicas: o site da Supley e o rodapé da própria Probiótica, onde a razão social da loja é a da Supley. Conferimos os dois em 14/10/2026.",
-          "Nos dados públicos da Receita Federal, o CNPJ do rodapé é o de uma filial ativa da Supley. A matriz da Supley fica em Matão (SP), está ativa desde 5 de setembro de 2005 e tem como atividade a fabricação de alimentos dietéticos e complementos alimentares. O endereço que o rodapé mostra, Avenida José Pilo, 161, em Matão, também é de uma unidade da Supley, ativa desde 2015 e com a mesma atividade de fabricação.",
+          "Nos dados públicos da Receita Federal, o CNPJ do rodapé é o de uma filial ativa da Supley. A matriz da Supley fica em Matão (SP), está ativa desde 2005 e tem como atividade a fabricação de alimentos dietéticos e complementos alimentares. O endereço que o rodapé mostra, Avenida José Pilo, 161, em Matão, também é de uma unidade da Supley, ativa desde 2015 e com a mesma atividade de fabricação.",
           "Sobre a idade das marcas, são duas afirmações das próprias empresas, que não conferimos de forma independente. A Supley diz que iniciou a trajetória em 2006. A Probiótica diz, no \"Quem Somos\", que investe \"desde 1986\" em pesquisa e inovação."
         ],
         "links": [
@@ -74894,7 +74894,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como saber se você está no site oficial",
         "paragraphs": [
           "O endereço oficial é **probiotica.com.br**. Antes de pagar, confira na barra do navegador se o domínio é exatamente esse, sem nenhuma letra trocada, principalmente quando você chegou por um anúncio ou por uma mensagem.",
-          "O segundo teste é o rodapé. No site oficial, em 14/10/2026, ele traz:"
+          "O segundo teste é o rodapé. No site oficial, ele traz:"
         ],
         "bullets": [
           "a razão social: Supley Lab. de Alimentos e Suplementos Nutricionais Ltda;",
@@ -74909,20 +74909,20 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/probiotica/probiotica-rodape-cnpj.webp",
         "imageAlt": "Rodapé do site probiotica.com.br com a razão social da Supley, o CNPJ 07.578.713/0004-29 e o endereço em Matão (SP), com trechos sublinhados em amarelo",
-        "imageCaption": "Rodapé de probiotica.com.br em 14/10/2026, com razão social, CNPJ e endereço. O marca-texto amarelo é nosso.",
+        "imageCaption": "Rodapé de probiotica.com.br, com razão social, CNPJ e endereço. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 14.7308
       },
       {
         "heading": "O que a Probiótica vende",
         "paragraphs": [
-          "A loja é de suplementos e de itens ligados a eles. O menu da página inicial, em 14/10/2026, lista Whey Protein, Creatina, Colágeno, Endurance, Pré-treino, Barras Proteicas, Kits Promocionais e Roupas e Acessórios.",
+          "A loja é de suplementos e de itens ligados a eles. O menu da página inicial lista Whey Protein, Creatina, Colágeno, Endurance, Pré-treino, Barras Proteicas, Kits Promocionais e Roupas e Acessórios.",
           "Este artigo não avalia os produtos. Dizer se um whey ou uma creatina é bom pediria laudo ou teste, e não temos nenhum dos dois. Se o suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. O que dá para verificar, e é o que fizemos, é quem vende, se o site é o oficial e o que acontece se você precisar trocar."
         ],
         "image": {
           "src": "/images/reviews/probiotica/probiotica-confiavel-capa.webp",
           "alt": "Página inicial do site probiotica.com.br em 14/10/2026",
-          "caption": "A página inicial da Probiótica, probiotica.com.br, em 14/10/2026.",
+          "caption": "A página inicial da Probiótica, probiotica.com.br.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -74930,10 +74930,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e defeito",
         "paragraphs": [
-          "As regras ficam na página de Termos e Condições do site. O que valia em 14/10/2026 está no quadro:"
+          "As regras ficam na página de Termos e Condições do site. O que valia na leitura está no quadro:"
         ],
         "comparisonTable": {
-          "caption": "Prazos de arrependimento e de defeito da Probiótica, segundo os Termos e Condições do site em 14/10/2026",
+          "caption": "Prazos de arrependimento e de defeito da Probiótica, segundo os Termos e Condições do site",
           "headers": [
             "Situação",
             "Prazo",
@@ -74963,10 +74963,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazo e formas de pagamento",
         "paragraphs": [
-          "Pela política de frete grátis do site, a entrega sai sem custo a partir de um valor de pedido que muda conforme a região do CEP. Os valores abaixo são os que a página mostrava em 14/10/2026:"
+          "Pela política de frete grátis do site, a entrega sai sem custo a partir de um valor de pedido que muda conforme a região do CEP. Os valores abaixo são os que a página mostrava:"
         ],
         "comparisonTable": {
-          "caption": "Valor de pedido para frete grátis da Probiótica por região, segundo a política do site em 14/10/2026",
+          "caption": "Valor de pedido para frete grátis da Probiótica por região, segundo a política do site",
           "headers": [
             "Região",
             "Frete grátis a partir de"
@@ -75001,13 +75001,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O frete grátis não vale para entrega por Sedex. Esses valores mudam com o tempo, então confirme o do seu CEP no carrinho antes de fechar o pedido.",
           "Sobre o prazo, pelos Termos e Condições, o pedido com pagamento aprovado até as 13h em dia útil é processado no mesmo dia. O prazo de entrega é contado em dias úteis e aparece na hora da compra.",
-          "Nos Termos e Condições, as formas de pagamento são Pix, boleto e cartão de crédito das bandeiras Visa, Mastercard, American Express, Diners, Elo e Hipercard. A página inicial, em 14/10/2026, anunciava parcelamento em até 6 vezes sem juros e **até 5% de desconto** no Pix e no boleto; confira o percentual no carrinho antes de pagar."
+          "Nos Termos e Condições, as formas de pagamento são Pix, boleto e cartão de crédito das bandeiras Visa, Mastercard, American Express, Diners, Elo e Hipercard. A página inicial anunciava parcelamento em até 6 vezes sem juros e **até 5% de desconto** no Pix e no boleto; confira o percentual no carrinho antes de pagar."
         ]
       },
       {
         "heading": "E a reputação da Probiótica no Reclame Aqui?",
         "paragraphs": [
-          "Em 14/10/2026, a página da Probiótica Laboratórios no Reclame Aqui mostrava reputação **Boa**, com nota 7,2 nos últimos seis meses (de 1º de abril a 30 de setembro de 2026), 99% das reclamações respondidas e 79,3% resolvidas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no artigo abaixo."
+          "A página da Probiótica Laboratórios no Reclame Aqui mostrava reputação **Boa**, com nota 7,2 nos últimos seis meses (de abril a setembro), 99% das reclamações respondidas e 79,3% resolvidas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no artigo abaixo."
         ],
         "links": [
           {
@@ -75048,13 +75048,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Probiótica é confiável? Sim. A loja é operada pela Supley, com CNPJ ativo, trocas publicadas no site e reputação Boa no Reclame Aqui, com 99% das reclamações dos últimos seis meses respondidas, em consulta de 14/10/2026.",
+          "A Probiótica é confiável? Sim. A loja é operada pela Supley, com CNPJ ativo, trocas publicadas no site e reputação Boa no Reclame Aqui, com 99% das reclamações dos últimos seis meses respondidas.",
           "A Probiótica é da Supley? Sim. A própria Supley lista a Probiótica entre as marcas do grupo, ao lado de Max Titanium, Dr. Peanut e Znack That, e o rodapé da loja traz a razão social da Supley.",
           "A Probiótica é da Max Titanium? Não. As duas são marcas irmãs do mesmo grupo, a Supley, mas a Probiótica não pertence à Max Titanium.",
           "O site da Probiótica é seguro? O endereço oficial é probiotica.com.br, e o rodapé mostra razão social, CNPJ e endereço. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
-          "Qual é o CNPJ da Probiótica? O rodapé do site traz o CNPJ 07.578.713/0004-29, da Supley Laboratório de Alimentos e Suplementos Nutricionais Ltda., que consta como ativo nos dados públicos em 14/10/2026.",
+          "Qual é o CNPJ da Probiótica? O rodapé do site traz o CNPJ 07.578.713/0004-29, da Supley Laboratório de Alimentos e Suplementos Nutricionais Ltda., que consta como ativo nos dados públicos.",
           "Quanto tempo tenho para trocar um produto da Probiótica? São 7 dias corridos a partir do recebimento para o arrependimento, com embalagem original e lacre intacto, e 30 dias corridos para comunicar defeito. No arrependimento, o pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
-          "A Probiótica tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte, em 14/10/2026. Não vale para Sedex.",
+          "A Probiótica tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte. Não vale para Sedex.",
           "Tem cupom de primeira compra na Probiótica? Nosso cupom é o PRO10EMCASACOMCECILIA: dá até 10% OFF, com desconto menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho."
         ]
       }
@@ -75063,6 +75063,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 416,
     "slug": "probiotica-reclame-aqui-nota-reputacao",
+    "bodyDatesReason": "reclame-aqui",
     "title": "Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram",
     "seoTitle": "Probiótica no Reclame Aqui: nota e reclamações",
     "type": "Análise de Reputação",
@@ -75128,17 +75129,17 @@ export const reviewsData: unknown[] = [
         "heading": "Por que olhar o Reclame Aqui antes de comprar na Probiótica",
         "paragraphs": [
           "A Probiótica vende pela internet suplementos e itens ligados a eles, como whey, creatina, colágeno e barras de proteína. Quem compra pela primeira vez costuma ter duas dúvidas: o pedido chega no prazo, e o que acontece se vier algo errado ou se der problema depois?",
-          "Toda loja que vende pela internet recebe reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. Os números mudam todos os dias, então tratamos os de 14/10/2026 como uma fotografia, e não como uma garantia. Vale abrir o perfil de novo no dia da sua compra.",
+          "Toda loja que vende pela internet recebe reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. Os números mudam todos os dias, então tratamos os números lidos como uma fotografia, e não como uma garantia. Vale abrir o perfil de novo no dia da sua compra.",
           "Este artigo não avalia produto. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. O que dá para ler nos dados públicos é como a empresa lida com as reclamações que recebe."
         ]
       },
       {
         "heading": "Os números da Probiótica no Reclame Aqui",
         "paragraphs": [
-          "O perfil da Probiótica fica na categoria Suplementos Alimentares e Fórmulas. Em 14/10/2026, o topo mostrava reputação **Boa** e avaliações de compra de 4,7 em 5. A tabela põe lado a lado as abas de 6 e de 12 meses, cada uma com o seu período:"
+          "O perfil da Probiótica fica na categoria Suplementos Alimentares e Fórmulas. O topo mostrava reputação **Boa** e avaliações de compra de 4,7 em 5. A tabela põe lado a lado as abas de 6 e de 12 meses, cada uma com o seu período:"
         ],
         "comparisonTable": {
-          "caption": "Perfil Probiótica Laboratórios no Reclame Aqui, abas de 6 meses (01/04 a 30/09/2026) e de 12 meses (01/10/2025 a 30/09/2026), consultado em 14/10/2026",
+          "caption": "Perfil Probiótica Laboratórios no Reclame Aqui, abas de 6 e de 12 meses, consultado em 14/10/2026",
           "headers": [
             "Indicador",
             "6 meses (01/04 a 30/09/2026)",
@@ -75194,14 +75195,14 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/probiotica/probiotica-reclame-aqui-aba-6-meses.webp",
             "alt": "Aba de 6 meses do perfil Probiótica Laboratórios no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026, consultada em 14/10/2026",
-            "caption": "Aba de 6 meses do perfil \"Probiótica Laboratórios\" no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+            "caption": "Aba de 6 meses do perfil \"Probiótica Laboratórios\" no Reclame Aqui. O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.3054
           },
           {
             "src": "/images/reviews/probiotica/probiotica-reclame-aqui-aba-12-meses.webp",
             "alt": "Aba de 12 meses do perfil Probiótica Laboratórios no Reclame Aqui, com dados de 01/10/2025 a 30/09/2026, consultada em 14/10/2026",
-            "caption": "Aba de 12 meses do mesmo perfil, com dados de 01/10/2025 a 30/09/2026 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+            "caption": "Aba de 12 meses do mesmo perfil. O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.3018
           }
@@ -75210,7 +75211,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais aparece nas reclamações",
         "paragraphs": [
-          "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. Em 14/10/2026, a lista era esta:"
+          "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. A lista era esta:"
         ],
         "bullets": [
           "**Categoria:** Suplementos Alimentares, com 58,3%.",
@@ -75223,7 +75224,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/probiotica/probiotica-reclame-aqui-principais-problemas.webp",
         "imageAlt": "Principais problemas comentados no perfil Probiótica Laboratórios no Reclame Aqui: categoria Suplementos Alimentares com 58,3%, atraso na entrega com 15,62% e Whey Protein com 35,67%",
-        "imageCaption": "Principais problemas comentados no perfil \"Probiótica Laboratórios\", com reclamações de até 3 anos na aba geral (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+        "imageCaption": "Principais problemas comentados no perfil \"Probiótica Laboratórios\", com reclamações de até 3 anos na aba geral. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.22
       },
@@ -75237,13 +75238,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a Probiótica responde às reclamações",
         "paragraphs": [
-          "Responde quase todas: em 14/10/2026, 99% estavam respondidas, com uma aguardando, e o tempo médio de resposta ficava em cerca de uma semana. Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 79,3% das reclamações (cerca de 4 em cada 5), e quase metade de quem avaliou não voltaria a fazer negócio.",
+          "Responde quase todas: 99% estavam respondidas, com uma aguardando, e o tempo médio de resposta ficava em cerca de uma semana. Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 79,3% das reclamações (cerca de 4 em cada 5), e quase metade de quem avaliou não voltaria a fazer negócio.",
           "Só 58 das 105 reclamações dos últimos 6 meses foram avaliadas, então o \"voltariam\" e a nota do consumidor falam de uma parte delas. Esses números mostram como a Probiótica foi vista por quem usou o Reclame Aqui, não como é a experiência de todos os compradores."
         ],
         "image": {
           "src": "/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp",
           "alt": "Perfil Probiótica Laboratórios no Reclame Aqui em 14/10/2026: topo com a reputação Boa, em montagem com a aba de 6 meses",
-          "caption": "O topo do perfil da Probiótica no Reclame Aqui e a aba de 6 meses, consultados em 14/10/2026.",
+          "caption": "O topo do perfil da Probiótica no Reclame Aqui e a aba de 6 meses.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -75251,7 +75252,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o seu pedido der problema: o que fazer",
         "paragraphs": [
-          "A política da loja está nos Termos e Condições do site, e o atendimento é o SAC da Supley, empresa que opera a loja, pelo e-mail sac@supley.com.br. O rodapé do site traz também os telefones (16) 3506-2045, (16) 3506-2046 e 4004-2696, em 14/10/2026. Os prazos e as regras de troca estão detalhados em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel). Em resumo, o caminho é este:"
+          "A política da loja está nos Termos e Condições do site, e o atendimento é o SAC da Supley, empresa que opera a loja, pelo e-mail sac@supley.com.br. O rodapé do site traz também os telefones (16) 3506-2045, (16) 3506-2046 e 4004-2696. Os prazos e as regras de troca estão detalhados em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel). Em resumo, o caminho é este:"
         ],
         "bullets": [
           "**Pedido atrasado:** acompanhe o rastreio e guarde o número do pedido. O prazo de entrega é contado em dias úteis e aparece na hora da compra. Quando ele vencer, escreva para o SAC com o número do pedido, sem esperar semanas.",
@@ -75274,16 +75275,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Probiótica?",
         "paragraphs": [
-          "Em 14/10/2026, a nota era 7,2 e a reputação Boa nos últimos 6 meses, com 99% das reclamações respondidas e 79,3% resolvidas. O ponto fraco é o \"voltariam\": só 55,2% de quem avaliou disse que voltaria a fazer negócio.",
+          "A nota era 7,2 e a reputação Boa nos últimos 6 meses, com 99% das reclamações respondidas e 79,3% resolvidas. O ponto fraco é o \"voltariam\": só 55,2% de quem avaliou disse que voltaria a fazer negócio.",
           "Quem compra pode confiar no atendimento básico, mas deve acompanhar o rastreio, guardar o número do pedido e olhar também o perfil da Supley, que opera a loja. Sobre quem está por trás da marca e as trocas, veja [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Probiótica é confiável segundo o Reclame Aqui? Em 14/10/2026, o perfil Probiótica Laboratórios mostrava reputação Boa, com nota 7,2 nos últimos 6 meses. O ponto fraco é que só 55,2% dos consumidores que avaliaram voltariam a fazer negócio.",
-          "Qual a nota da Probiótica no Reclame Aqui? Nota 7,2 nos últimos 6 meses (de 01/04 a 30/09/2026) e 7,1 nos últimos 12 meses, ambas na faixa Boa, em consulta de 14/10/2026. A nota do consumidor, dada por quem avaliou o atendimento, era 5,9 e 5,54.",
-          "A Probiótica responde às reclamações? Sim. Em 14/10/2026, o perfil mostrava 99% das reclamações respondidas nos últimos 6 meses e 99,6% nos últimos 12, com resposta em cerca de uma semana.",
+          "A Probiótica é confiável segundo o Reclame Aqui? O perfil Probiótica Laboratórios mostrava reputação Boa, com nota 7,2 nos últimos 6 meses. O ponto fraco é que só 55,2% dos consumidores que avaliaram voltariam a fazer negócio.",
+          "Qual a nota da Probiótica no Reclame Aqui? Nota 7,2 nos últimos 6 meses e 7,1 nos últimos 12 meses, ambas na faixa Boa. A nota do consumidor, dada por quem avaliou o atendimento, era 5,9 e 5,54.",
+          "A Probiótica responde às reclamações? Sim. O perfil mostrava 99% das reclamações respondidas nos últimos 6 meses e 99,6% nos últimos 12, com resposta em cerca de uma semana.",
           "Por que há dois perfis, Probiótica e Supley? A Supley é a empresa que opera a loja, e a razão social e o CNPJ do rodapé do site são dela, enquanto Probiótica é a marca. Por isso uma reclamação sobre um pedido do site pode estar em qualquer um dos dois perfis, e vale buscar pelos dois nomes.",
           "O que fazer se o pedido da Probiótica atrasar? Acompanhe o rastreio e, quando o prazo de entrega informado na compra vencer, escreva para o SAC em sac@supley.com.br com o número do pedido. Se não resolver, abra uma reclamação no Reclame Aqui.",
           "Como pedir troca ou reembolso na Probiótica? No arrependimento, são 7 dias corridos do recebimento, com embalagem original e lacre intacto, e o pedido vai por e-mail para sac@supley.com.br com o número do pedido e a nota fiscal. Em caso de defeito, são 30 dias corridos para comunicar, com coleta paga pela loja."
@@ -75379,12 +75380,12 @@ export const reviewsData: unknown[] = [
         "heading": "2. Monte o carrinho",
         "paragraphs": [
           "Escolha os produtos no site e abra o carrinho. Na tela do carrinho, cada item mostra a foto, o nome, a quantidade e o preço, e do lado direito fica o resumo do pedido, com o campo \"Cupom de Desconto\", o subtotal e o total.",
-          "No nosso teste, de 13/10/2026, o carrinho tinha quatro produtos: um kit de colágeno, uma creatina que estava em promoção (o print mostra o preço antigo riscado e o novo), uma camiseta e uma barra de proteína.",
+          "No nosso teste, o carrinho tinha quatro produtos: um kit de colágeno, uma creatina que estava em promoção (o print mostra o preço antigo riscado e o novo), uma camiseta e uma barra de proteína.",
           "Nessa tela, antes de digitar qualquer coisa, olhe o subtotal e compare com o mínimo de frete grátis da sua região, na tabela abaixo."
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
         "imageAlt": "Carrinho da Probiótica antes do cupom, com quatro produtos, o campo Cupom de Desconto e o resumo com subtotal e total iguais",
-        "imageCaption": "Carrinho da Probiótica em 13/10/2026, antes do cupom: quatro produtos, o campo \"Cupom de Desconto\" e o resumo com subtotal e total iguais. O marca-texto amarelo é nosso.",
+        "imageCaption": "Carrinho da Probiótica, antes do cupom: quatro produtos, o campo \"Cupom de Desconto\" e o resumo com subtotal e total iguais. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.2844
       },
@@ -75397,7 +75398,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-02-codigo-digitado.webp",
         "imageAlt": "Código PRO10EMCASACOMCECILIA digitado no campo Cupom de Desconto do carrinho da Probiótica, antes do clique em Adicionar",
-        "imageCaption": "O código PRO10EMCASACOMCECILIA digitado no campo \"Cupom de Desconto\", antes do clique em \"Adicionar\", no teste de 13/10/2026. O marca-texto amarelo é nosso.",
+        "imageCaption": "O código PRO10EMCASACOMCECILIA digitado no campo \"Cupom de Desconto\", antes do clique em \"Adicionar\", no teste. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.307
       },
@@ -75410,7 +75411,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Resumo do pedido da Probiótica depois do cupom, com o código no lugar do campo e a linha Descontos com sinal de menos entre o subtotal e o total",
-        "imageCaption": "Resumo do pedido depois do cupom, em 13/10/2026: o código no lugar do campo, a linha \"Descontos\" com sinal de menos entre o subtotal e o total. O marca-texto amarelo é nosso.",
+        "imageCaption": "Resumo do pedido depois do cupom: o código no lugar do campo, a linha \"Descontos\" com sinal de menos entre o subtotal e o total. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.0209
       },
@@ -75420,7 +75421,7 @@ export const reviewsData: unknown[] = [
           "A Probiótica dá frete grátis a partir de um valor de pedido que depende da região do CEP. Em 14/10/2026, a política de frete grátis do site trazia estes valores:"
         ],
         "comparisonTable": {
-          "caption": "Valor de pedido para frete grátis da Probiótica por região, segundo a política do site em 14/10/2026",
+          "caption": "Valor de pedido para frete grátis da Probiótica por região, segundo a política do site",
           "headers": [
             "Região",
             "Frete grátis a partir de"
@@ -75461,15 +75462,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pix, primeira compra e outros cupons",
         "paragraphs": [
-          "O PRO10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. Em 14/10/2026, a página inicial da Probiótica anunciava parcelamento em até 6 vezes sem juros no cartão e até 5% de desconto no Pix e no boleto. O percentual do Pix e do boleto é da loja, e pode mudar: confira o percentual na hora de pagar.",
+          "O PRO10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. A página inicial da Probiótica anunciava parcelamento em até 6 vezes sem juros no cartão e até 5% de desconto no Pix e no boleto. O percentual do Pix e do boleto é da loja, e pode mudar: confira o percentual na hora de pagar.",
           "Também não importa se é a sua primeira compra. O cupom funciona para quem está abrindo uma conta nova e para quem já comprou na Probiótica. Ele vale na primeira compra e continua valendo nos pedidos seguintes.",
-          "Se o pedido tiver brinde, os Termos e Condições da loja, em 14/10/2026, contavam o valor final pago, já com o desconto do cupom."
+          "Se o pedido tiver brinde, os Termos e Condições da loja contavam o valor final pago, já com o desconto do cupom."
         ]
       },
       {
         "heading": "O que comprar com o cupom",
         "paragraphs": [
-          "O cupom vale em todo o site. O menu da página inicial da Probiótica, em 14/10/2026, tem estas categorias:"
+          "O cupom vale em todo o site. O menu da página inicial da Probiótica tem estas categorias:"
         ],
         "bullets": [
           "Whey Protein",
@@ -75489,7 +75490,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prazos e regras de troca da Probiótica",
         "paragraphs": [
-          "As regras de troca e devolução da Probiótica, em 14/10/2026, eram estas:"
+          "As regras de troca e devolução da Probiótica eram estas:"
         ],
         "bullets": [
           "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
@@ -75511,10 +75512,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Probiótica? O cupom da nossa parceria é o PRO10EMCASACOMCECILIA, que dá até 10% OFF no site oficial, probiotica.com.br. Em alguns produtos o desconto é menor, então confira a linha \"Descontos\" no carrinho antes de pagar.",
           "Tem cupom de primeira compra na Probiótica? Sim. O PRO10EMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\".",
-          "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja. A condição de pagamento do site, como o desconto de até 5% no Pix e no boleto anunciado em 14/10/2026, é da própria Probiótica.",
+          "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja. A condição de pagamento do site, como o desconto de até 5% no Pix e no boleto anunciado no site, é da própria Probiótica.",
           "Por que o cupom não deu 10% em todos os produtos? Porque o desconto varia por produto: o cupom dá até 10% OFF, e em alguns itens o percentual é menor. O total do carrinho pode ficar abaixo de 10%, e a linha \"Descontos\" mostra o valor abatido no seu pedido.",
-          "O cupom da Probiótica dá frete grátis? Não. O frete grátis é uma regra da loja, que depende do valor do pedido e da região, de R$ 104 na capital de São Paulo a R$ 599 no Norte em 14/10/2026, e não vale no Sedex. Se o cupom deixar o total abaixo do mínimo da sua região, o frete volta a ser cobrado.",
-          "Tem cupom para whey da Probiótica? Sim: o PRO10EMCASACOMCECILIA vale no site oficial, que tem a categoria Whey Protein no menu em 14/10/2026. O desconto chega a 10% e é menor em alguns produtos; não testamos o whey, então confira a linha \"Descontos\" no carrinho.",
+          "O cupom da Probiótica dá frete grátis? Não. O frete grátis é uma regra da loja, que depende do valor do pedido e da região, de R$ 104 na capital de São Paulo a R$ 599 no Norte, e não vale no Sedex. Se o cupom deixar o total abaixo do mínimo da sua região, o frete volta a ser cobrado.",
+          "Tem cupom para whey da Probiótica? Sim: o PRO10EMCASACOMCECILIA vale no site oficial, que tem a categoria Whey Protein no menu. O desconto chega a 10% e é menor em alguns produtos; não testamos o whey, então confira a linha \"Descontos\" no carrinho.",
           "Onde o cupom vale? No site oficial da Probiótica, o probiotica.com.br, onde o código é digitado no carrinho."
         ]
       }
@@ -80900,19 +80901,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Probiótica 2026",
         "paragraphs": [
-          "A Probiótica ainda não anunciou Black Friday: até 14/10/2026 não havia página nem data. O cupom PRO10EMCASACOMCECILIA dá até 10% OFF, vale em todas as formas de pagamento e soma com o preço promocional. O que muda a decisão é que a loja lança ofertas sem aviso; veja abaixo."
+          "A Probiótica ainda não anunciou Black Friday: o site não tinha página nem data. O cupom PRO10EMCASACOMCECILIA dá até 10% OFF, vale em todas as formas de pagamento e soma com o preço promocional. O que muda a decisão é que a loja lança ofertas sem aviso; veja abaixo."
         ]
       },
       {
         "heading": "Quando é a Black Friday da Probiótica?",
         "paragraphs": [
-          "A Probiótica não publicou data de Black Friday para 2026. Em 14 de outubro, o site não tinha página de Black Friday, e os endereços /black-friday e /blackfriday davam erro 404. O que existe é o calendário: a Black Friday cai na última sexta de novembro, dia 27, e a Cyber Monday na segunda seguinte, dia 30.",
+          "A Probiótica não publicou data de Black Friday para 2026. O site não tinha página de Black Friday, e os endereços /black-friday e /blackfriday davam erro 404. O que existe é o calendário: a Black Friday cai na última sexta de novembro, dia 27, e a Cyber Monday na segunda seguinte, dia 30.",
           "A loja também não dá prazo de aviso. Os termos de uso dizem que as ofertas e promoções \"podem ser lançadas a qualquer momento, sem aviso prévio\". Uma promoção pode aparecer antes de 27 de novembro, e uma que você viu pode sair do site quando o estoque acaba."
         ],
         "image": {
           "src": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
           "alt": "Página inicial do site da Probiótica em 14/10/2026, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos (squeeze, galão de 1,8 L e toalha)",
-          "caption": "A página inicial da Probiótica em 14/10/2026, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos.",
+          "caption": "A página inicial da Probiótica, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -80920,13 +80921,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de outubro para comparar",
         "paragraphs": [
-          "Estes são os preços do catálogo público do site em 14 de outubro de 2026, antes do cupom e do Pix. Não são preços de Black Friday. O preço da loja muda, então use a tabela como régua: se em novembro o preço do dia ficar abaixo do dela, o produto está mais barato que em outubro."
+          "Estes são os preços do catálogo público do site, antes do cupom e do Pix. Não são preços de Black Friday. O preço da loja muda, então use a tabela como régua: se em novembro o preço do dia ficar abaixo do dela, o produto está mais barato que em outubro."
         ],
         "comparisonTable": {
           "caption": "Preços da Probiótica em 14 de outubro de 2026: preço do dia e preço riscado, antes do cupom e do Pix.",
           "headers": [
             "Produto",
-            "Em 14/10/2026",
+            "Preço do dia",
             "Preço riscado"
           ],
           "rows": [
@@ -80963,15 +80964,15 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
         "imageAlt": "Carrinho da Probiótica em 13/10/2026 com a creatina de 300g a R$ 59,90, com o preço de R$ 75,10 riscado, junto de um kit de colágeno, uma camiseta e uma barra de proteína",
-        "imageCaption": "Carrinho da Probiótica em 13/10/2026: a creatina de 300g a R$ 59,90, com o preço de R$ 75,10 riscado. O marca-texto amarelo é nosso.",
+        "imageCaption": "Carrinho da Probiótica: a creatina de 300g a R$ 59,90, com o preço de R$ 75,10 riscado. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.2844
       },
       {
         "heading": "Cupom, Pix e frete grátis: o que soma",
         "paragraphs": [
-          "O cupom **PRO10EMCASACOMCECILIA** dá até 10% OFF no site oficial. O percentual varia por produto: em alguns itens o desconto é menor, e a linha \"Descontos\" do resumo do pedido mostra quanto o cupom abateu de verdade. Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou, e soma com o preço promocional da loja. No nosso teste de 13/10/2026, a creatina estava em promoção e o carrinho aceitou o cupom: o desconto foi de R$ 54,75 sobre R$ 659,35.",
-          "Os outros descontos e regras que mexem no total, pelo que a loja mostrava em 14/10/2026:"
+          "O cupom **PRO10EMCASACOMCECILIA** dá até 10% OFF no site oficial. O percentual varia por produto: em alguns itens o desconto é menor, e a linha \"Descontos\" do resumo do pedido mostra quanto o cupom abateu de verdade. Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou, e soma com o preço promocional da loja. No nosso teste, a creatina estava em promoção e o carrinho aceitou o cupom: o desconto foi de R$ 54,75 sobre R$ 659,35.",
+          "Os outros descontos e regras que mexem no total, pelo que a loja mostrava:"
         ],
         "bullets": [
           "**Pix e boleto:** a loja anuncia até 5% OFF. Nos cards da home, o Pix à vista aparecia com 3% nas proteínas e 5% no resto do site. O percentual é da loja e pode mudar: o checkout mostra o valor final.",
@@ -80979,7 +80980,7 @@ export const reviewsData: unknown[] = [
           "**Brinde:** o valor que conta é o final do pedido, depois de todos os descontos, incluindo cupom e Pix."
         ],
         "comparisonTable": {
-          "caption": "Valor mínimo do pedido para frete grátis na Probiótica, por região do CEP, em 14 de outubro de 2026.",
+          "caption": "Valor mínimo do pedido para frete grátis na Probiótica, por região do CEP.",
           "headers": [
             "Região",
             "Frete grátis a partir de"
@@ -81017,7 +81018,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Resumo do pedido da Probiótica com o cupom PRO10EMCASACOMCECILIA: subtotal R$ 659,35, descontos R$ -54,75, total R$ 604,60",
-        "imageCaption": "Resumo do pedido da Probiótica em 13/10/2026, com o cupom aplicado: subtotal de R$ 659,35, descontos de R$ -54,75 e total de R$ 604,60. O marca-texto amarelo é nosso.",
+        "imageCaption": "Resumo do pedido da Probiótica, com o cupom aplicado: subtotal de R$ 659,35, descontos de R$ -54,75 e total de R$ 604,60. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.0209
       },
@@ -81025,7 +81026,7 @@ export const reviewsData: unknown[] = [
         "heading": "Kits e trocas: o que a loja diz nos termos",
         "paragraphs": [
           "Kit não recebe promoção. Os termos da loja dizem que as promoções não valem para kits, porque eles já têm desconto. Se um kit estiver com preço de campanha, a regra não impede que ele esteja barato, mas ele não ganha uma segunda promoção por cima. Antes de comprar, compare o preço do kit com o das peças avulsas, que podem estar na promoção do dia.",
-          "Os prazos de troca e devolução, em 14/10/2026:"
+          "Os prazos de troca e devolução:"
         ],
         "bullets": [
           "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
@@ -81039,9 +81040,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom PRO10EMCASACOMCECILIA vale na Black Friday da Probiótica? Ele vale no site oficial, em todas as formas de pagamento, e dá até 10% OFF, com percentual menor em alguns produtos. A loja não anunciou a campanha de Black Friday em 14/10/2026, e o carrinho mostra o desconto antes de pagar.",
-          "O cupom soma com produto em promoção? Soma com o preço promocional: no nosso teste de 13/10/2026, a creatina estava em promoção e o carrinho aceitou o cupom. Kit é outra regra, porque a loja não aplica promoções aos kits.",
-          "O cupom vale no Pix? Vale, em todas as formas de pagamento. O desconto do Pix é da loja: ela anunciava até 5% OFF no Pix e no boleto em 14/10/2026, e o checkout mostra o valor final.",
+          "O cupom PRO10EMCASACOMCECILIA vale na Black Friday da Probiótica? Ele vale no site oficial, em todas as formas de pagamento, e dá até 10% OFF, com percentual menor em alguns produtos. A loja não anunciou a campanha de Black Friday, e o carrinho mostra o desconto antes de pagar.",
+          "O cupom soma com produto em promoção? Soma com o preço promocional: no nosso teste, a creatina estava em promoção e o carrinho aceitou o cupom. Kit é outra regra, porque a loja não aplica promoções aos kits.",
+          "O cupom vale no Pix? Vale, em todas as formas de pagamento. O desconto do Pix é da loja: ela anunciava até 5% OFF no Pix e no boleto, e o checkout mostra o valor final.",
           "A Probiótica tem frete grátis? Tem, a partir de R$ 104 (capital de SP) a R$ 599 (Norte), na forma de envio mais barata e fora o Sedex. Cupom pode derrubar o total abaixo do mínimo.",
           "O brinde conta o valor com ou sem cupom? Conta o valor final, depois de todos os descontos. Se o cupom ou o Pix levar o pedido para baixo do valor do brinde, ele pode não entrar.",
           "Dá para trocar um produto da Probiótica? Sim. O arrependimento vale por 7 dias corridos depois do recebimento, com embalagem original e lacre intactos, e o defeito, por 30 dias corridos.",
@@ -104343,21 +104344,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Probiótica sai mais barata que a Dux no whey, na creatina e na Creapure pelos preços de 20/10/2026, e tem o cupom PRO10EMCASACOMCECILIA. A Dux ganha no desconto do Pix e em ingredientes mais enxutos. O que muda a escolha é o que pesa mais para você; veja Onde cada uma ganha e Quem escolhe o quê."
+          "A Probiótica sai mais barata que a Dux no whey, na creatina e na Creapure pelos preços publicados, e tem o cupom PRO10EMCASACOMCECILIA. A Dux ganha no desconto do Pix e em ingredientes mais enxutos. O que muda a escolha é o que pesa mais para você; veja Onde cada uma ganha e Quem escolhe o quê."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "Este texto compara whey e creatina da Probiótica, parceira do site, com o cupom PRO10EMCASACOMCECILIA, e da Dux, que não é parceira, com os preços de 20/10/2026.",
+          "Este texto compara whey e creatina da Probiótica, parceira do site, com o cupom PRO10EMCASACOMCECILIA, e da Dux, que não é parceira, com os preços publicados.",
           "A comparação com a Growth está em [Probiótica ou Growth](/reviews/probiotica-ou-growth). Este texto é o da série contra a Dux, junto com [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Max Titanium ou Dux](/reviews/max-titanium-ou-dux).",
-          "Comparamos o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficam de fora: ninguém da equipe provou os produtos.",
+          "Comparamos o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são sem o frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficam de fora: ninguém da equipe provou os produtos.",
           "As contas são estas, arredondadas no centavo:"
         ],
         "image": {
           "src": "/images/reviews/probiotica/probiotica-ou-dux-capa.webp",
           "alt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Probiótica refil R$ 38,10 e pote R$ 40,82, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Probiótica 300 g R$ 18,97 e Creapure R$ 64,59, Dux monohidratada R$ 20,55 e Creapure R$ 87,05",
-          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 20/10/2026, sem frete.",
+          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais, sem frete.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -104423,7 +104424,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/probiotica/probiotica-ou-dux-whey-por-dose.webp",
             "alt": "Barras com o preço por dose de whey no Pix: Probiótica refil R$ 7,62 (R$ 6,86 com cupom), Probiótica pote R$ 8,16 (R$ 7,35), Dux 1,8 kg R$ 10,26 e Dux 900 g R$ 11,68",
-            "caption": "Quanto custa cada dose de 30 g de whey no Pix, com os preços das páginas oficiais em 20/10/2026.",
+            "caption": "Quanto custa cada dose de 30 g de whey no Pix, com os preços das páginas oficiais.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
@@ -104448,7 +104449,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g",
         "paragraphs": [
-          "Preços de 20/10/2026 no cartão, sem o cupom. A conta usa a monohidratada de 300 g nas duas lojas, com 5 g por dose e 60 doses. A Dux de 600 g fica fora desta tabela."
+          "Preços no cartão, sem o cupom. A conta usa a monohidratada de 300 g nas duas lojas, com 5 g por dose e 60 doses. A Dux de 600 g fica fora desta tabela."
         ],
         "images": [
           {
@@ -104500,13 +104501,13 @@ export const reviewsData: unknown[] = [
           "O whey Baunilha da Dux lista proteína de soro do leite concentrada, aromatizante, edulcorantes sucralose e acessulfame de potássio, e corantes extrato de urucum, base norbixina e curcumina. A lista não tem lecitina nem goma xantana. A Dux diz, na página, que a proteína do concentrado é 100% do soro do leite, sem blend com outras proteínas. Os aditivos de sabor estão na lista acima.",
           "Os avisos de glúten da Dux não batem entre as páginas. O FAQ diz que só os sabores Cookies, Butter Cookies e Banoffee têm trigo. Na página do pote de 1,8 kg, o aviso de alergênicos do Baunilha diz que contém derivados de soja e de leite, lactose e glúten. A página do pote de 900 g não traz esse aviso para o Baunilha. Confira o rótulo antes de comprar.",
           "Na creatina, a Probiótica de 300 g declara \"não contém glúten\" e \"lactose: não contém\". A monohidratada da Dux diz que pode conter glúten, porque os equipamentos têm contato com alimentos que contêm glúten. A linha Creapure da Dux traz \"contém glúten\" no aviso de alergênicos. A Creapure de 150 g da Probiótica declara \"não contém glúten\".",
-          "Quem tem alergia ou intolerância deve ler o rótulo na hora da compra."
+          "Quem tem alergia ou intolerância deve ler o rótulo na hora da compra e, na dúvida, falar com um nutricionista ou médico."
         ]
       },
       {
         "heading": "Cupom, Pix e frete",
         "paragraphs": [
-          "O cupom PRO10EMCASACOMCECILIA dá até 10%, e o desconto muda por item: o resumo do pedido mostra quanto cada um recebeu. As regras e o passo a passo estão na [página do cupom da Probiótica](/cupons/probiotica). A página do cupom registra aceite no checkout em 13/10/2026. A regra do cupom diz que ele vale com todas as formas de pagamento e soma com as promoções vigentes do site. A Dux não é parceira do site e não tem cupom nosso."
+          "O cupom PRO10EMCASACOMCECILIA dá até 10%, e o desconto muda por item: o resumo do pedido mostra quanto cada um recebeu. As regras e o passo a passo estão na [página do cupom da Probiótica](/cupons/probiotica). A página do cupom registra aceite no checkout. A regra do cupom diz que ele vale com todas as formas de pagamento e soma com as promoções vigentes do site. A Dux não é parceira do site e não tem cupom nosso."
         ],
         "comparisonTable": {
           "headers": [
@@ -104533,7 +104534,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A conta com cupom parte do preço no Pix e tira 10%. Um item que recebe menos de 10% fica acima dessa conta. Os fretes são os de 20/10/2026."
+          "A conta com cupom parte do preço no Pix e tira 10%. Um item que recebe menos de 10% fica acima dessa conta. Os fretes são os da mesma leitura."
         ]
       },
       {
@@ -104576,15 +104577,7 @@ export const reviewsData: unknown[] = [
           "A Dux é boa marca? Este texto responde só pelo rótulo, pela fórmula declarada e pelo preço. A Dux diz que a proteína do concentrado é só do soro do leite, sem blend, e declara Creapure na linha de 300 g. A creatina monohidratada dela lista só creatina. O concentrado de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
           "A Dux tem cupom? Não. A Dux não é parceira do site, e o PRO10EMCASACOMCECILIA vale só na Probiótica.",
           "O cupom soma com o Pix? A regra do cupom diz que ele vale com todas as formas de pagamento. O desconto muda por item, e o resumo do pedido mostra quanto cada um recebeu.",
-          "Os preços valem hoje? Eles são de 20/10/2026 e mudam com as promoções. Confira nos dois sites antes de comprar."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada com a Probiótica. O Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA. A Dux não é parceira do site: não há link, cupom nem recomendação dela. A Dux aparece aqui só como referência de preço e de fórmula.",
-          "Fontes: tabelas nutricionais, listas de ingredientes, preços e formas de pagamento dos sites oficiais probiotica.com.br e duxhumanhealth.com, lidos em 20/10/2026; a política de frete grátis da Probiótica, na página de produto, lida em 20/10/2026; e a página do cupom PRO10EMCASACOMCECILIA.",
-          "Ninguém da equipe provou os produtos. Este texto mostra o que o rótulo e o preço dizem; não é orientação de nutricionista nem de médico. Preço e estoque mudam: confira no site antes de comprar. Dúvidas sobre alergia, intolerância ou dieta: fale com um nutricionista ou um médico."
+          "Os preços valem hoje? Eles são os da leitura da comparação e mudam com as promoções. Confira nos dois sites antes de comprar."
         ]
       }
     ],
@@ -123401,7 +123394,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/whey/melhor-whey-preco-por-proteina.webp",
           "alt": "Gráfico de barras com o preço por 100 g de proteína dos principais wheys das cinco lojas em 23/10/2026, uma barra por produto com a marca no rótulo",
-          "caption": "Quadro: Em Casa com Cecília, com os preços de 23/10/2026.",
+          "caption": "Quadro: Em Casa com Cecília, com os preços das cinco lojas.",
           "objectFit": "wide",
           "aspectRatio": 1.7778
         }
@@ -123418,15 +123411,15 @@ export const reviewsData: unknown[] = [
           "3W: mistura de concentrado, isolado e hidrolisado (WPC, WPI e WPH). É o que dizem os rótulos do Top Whey 3W da Max e do 3W Core da Black Skull."
         ],
         "postParagraphs": [
-          "Isolado não é sinônimo de sem lactose. O IsoWhey da Max declara que contém lactose, e entre as cinco lojas só o Pure Whey Zero Lactose da Probiótica declara \"sem lactose\" em 23/10/2026. Quem precisa evitar lactose deve procurar essa declaração no rótulo.",
+          "Isolado não é sinônimo de sem lactose. O IsoWhey da Max declara que contém lactose, e entre as cinco lojas só o Pure Whey Zero Lactose da Probiótica declara \"sem lactose\". Quem precisa evitar lactose deve procurar essa declaração no rótulo.",
           "Quando o isolado compensa: é uma conta de preço. O IsoWhey custa R$ 41,82 por 100 g de proteína, R$ 18,65 a mais que o 80% HD (R$ 23,17). Faz sentido se você quer mais proteína na mesma dose e menos carboidrato (2,3 g contra 4 g). Se só importa quanto custa a proteína, o concentrado entrega mais por real."
         ]
       },
       {
         "heading": "Melhor whey custo-benefício",
         "paragraphs": [
-          "Para quem quer o menor preço por proteína, o que mais compensa é o Whey 80% HD Refil 900 g da Black Skull. Em 23/10/2026 custava R$ 159,90, com 23 g de proteína em 30 g (77%), 30 porções e R$ 23,17 por 100 g de proteína, o menor da nossa lista (fora o Iso Protein Blend, que mistura soja e aparece na seção \"Atenção ao nome\"). A proteína é WPC e o produto contém lactose. O sabor Banana saía a R$ 139,90 (R$ 20,28 por 100 g), e Chocolate e Baunilha estavam sem estoque.",
-          "A alternativa é o Hiper 100% Whey 900 g da Probiótica: em promoção em 23/10/2026, de R$ 210,39 por R$ 124,90, com 23 g de proteína em 40 g (57,5%), 23 porções e R$ 23,61 por 100 g. Sem a promoção, a conta passa para R$ 39,77. A dose é de 40 g, dois dosadores, e o sabor Baunilha estava sem estoque."
+          "Para quem quer o menor preço por proteína, o que mais compensa é o Whey 80% HD Refil 900 g da Black Skull. Custava R$ 159,90, com 23 g de proteína em 30 g (77%), 30 porções e R$ 23,17 por 100 g de proteína, o menor da nossa lista (fora o Iso Protein Blend, que mistura soja e aparece na seção \"Atenção ao nome\"). A proteína é WPC e o produto contém lactose. O sabor Banana saía a R$ 139,90 (R$ 20,28 por 100 g), e Chocolate e Baunilha estavam sem estoque.",
+          "A alternativa é o Hiper 100% Whey 900 g da Probiótica: em promoção, de R$ 210,39 por R$ 124,90, com 23 g de proteína em 40 g (57,5%), 23 porções e R$ 23,61 por 100 g. Sem a promoção, a conta passa para R$ 39,77. A dose é de 40 g, dois dosadores, e o sabor Baunilha estava sem estoque."
         ],
         "postParagraphs": [
           "A diferença entre os dois é a dose: o 80% HD entrega 23 g em 30 g, e o Hiper, 23 g em 40 g. Se o preço promocional do Hiper acabar, o 80% HD fica sozinho nessa faixa.",
@@ -123443,7 +123436,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Melhor whey zero lactose",
         "paragraphs": [
-          "Para quem quer whey sem lactose, o que mais compensa é o 100% Pure Whey Zero Lactose 900 g da Probiótica. Em 23/10/2026 custava R$ 241,97, com 21 g de proteína em 30 g (70%, na tabela do chocolate), 30 porções e R$ 38,41 por 100 g. O rótulo diz que é produzido com WPC sem lactose, e o alergênico traz \"derivados de leite\". Tem 3 sabores: Chocolate, Morango e Baunilha. Foi o único whey declarado sem lactose nas cinco lojas em 23/10/2026.",
+          "Para quem quer whey sem lactose, o que mais compensa é o 100% Pure Whey Zero Lactose 900 g da Probiótica. Custava R$ 241,97, com 21 g de proteína em 30 g (70%, na tabela do chocolate), 30 porções e R$ 38,41 por 100 g. O rótulo diz que é produzido com WPC sem lactose, e o alergênico traz \"derivados de leite\". Tem 3 sabores: Chocolate, Morango e Baunilha. Foi o único whey declarado sem lactose nas cinco lojas.",
           "A alternativa é o Iso Pro Whey da Probiótica, um isolado (WPI) com 26 g de proteína em 30 g (87%), 1,3 g de carboidrato por dose, R$ 346,28 e R$ 44,39 por 100 g. A loja não o declara como zero lactose, e o alergênico cita derivados de leite e soja: por isso ele entra como alternativa de proteína, não como whey sem lactose.",
           "Nas outras marcas, nada declara \"sem lactose\" nesta leitura. A Max não tem whey zero lactose: o \"Zero Lactose\" do menu dela é o Mass Titanium 17500, um hipercalórico. Na Black Skull, todos os wheys contêm lactose. No Whey Dr. Peanut, o rótulo diz que contém lactose, e nos wheys da Mais Mu a página diz que contém lactose ou não declara nada."
         ],
@@ -123461,9 +123454,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Melhor whey isolado",
         "paragraphs": [
-          "Para quem quer um isolado, o que mais compensa é o IsoWhey 900 g da Max Titanium. Em 23/10/2026 custava R$ 326,18 (R$ 316,39 no Pix), com 26 g de proteína em 30 g (87%), 30 porções e R$ 41,82 por 100 g de proteína. Tem 2,3 g de carboidrato por dose, 3 sabores, e contém lactose (alergênicos: leite e soja).",
+          "Para quem quer um isolado, o que mais compensa é o IsoWhey 900 g da Max Titanium. Custava R$ 326,18 (R$ 316,39 no Pix), com 26 g de proteína em 30 g (87%), 30 porções e R$ 41,82 por 100 g de proteína. Tem 2,3 g de carboidrato por dose, 3 sabores, e contém lactose (alergênicos: leite e soja).",
           "A alternativa é o Iso Pro Whey 900 g da Probiótica: R$ 346,28, 26 g em 30 g (87%), 30 porções e R$ 44,39 por 100 g de proteína, R$ 2,57 a mais que o IsoWhey. A tabela dele traz também vitaminas e minerais, e o carboidrato é de 1,3 g por dose.",
-          "A Black Skull não tinha whey isolado no site em 23/10/2026: a busca por \"isolado\" voltou sem resultado. A Mais Mu vende um isolado em pote de 450 g, mas a lista de ingredientes traz isolada, concentrada e hidrolisada do soro, e a conta dá R$ 85,22 por 100 g de proteína: está no quadro-mestre."
+          "A Black Skull não tinha whey isolado no site: a busca por \"isolado\" voltou sem resultado. A Mais Mu vende um isolado em pote de 450 g, mas a lista de ingredientes traz isolada, concentrada e hidrolisada do soro, e a conta dá R$ 85,22 por 100 g de proteína: está no quadro-mestre."
         ],
         "postParagraphs": [
           "Para ver Max Titanium e Probiótica lado a lado, em whey e creatina, leia [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
@@ -123480,9 +123473,9 @@ export const reviewsData: unknown[] = [
         "heading": "Whey 3W ou 100%: qual escolher",
         "paragraphs": [
           "A diferença está no rótulo: o \"100%\" é, em geral, concentrado (WPC), e o 3W mistura concentrado, isolado e hidrolisado (WPC, WPI e WPH). Para quem quer o 3W, o que mais compensa são as duas versões do Top Whey 3W da Max.",
-          "O Top Whey 3W + Sabor 900 g estava em promoção em 23/10/2026, de R$ 273,55 por R$ 189,00. A tabela do sabor Brigadeiro traz 25 g de proteína em 40 g (62,5%), e a página diz 26 g: vale a tabela. Com 22,5 porções (900 g ÷ 40 g), a conta dá R$ 33,60 por 100 g de proteína. Sem a promoção, sobe para R$ 48,63. Tem 6 sabores e contém lactose.",
+          "O Top Whey 3W + Sabor 900 g estava em promoção, de R$ 273,55 por R$ 189,00. A tabela do sabor Brigadeiro traz 25 g de proteína em 40 g (62,5%), e a página diz 26 g: vale a tabela. Com 22,5 porções (900 g ÷ 40 g), a conta dá R$ 33,60 por 100 g de proteína. Sem a promoção, sobe para R$ 48,63. Tem 6 sabores e contém lactose.",
           "O Top Whey 3W + Performance 900 g custava R$ 273,55, com 32 g de proteína em 40 g (80%) e R$ 37,99 por 100 g. Traz 11 vitaminas e 6 minerais, tem 5 sabores e contém lactose.",
-          "A alternativa é o 3W Core 900 g da Black Skull: R$ 279,90, 31 g de proteína em 40 g (77,5%), 22 porções e R$ 41,04 por 100 g, com WPC, WPI e WPH na lista e 4 sabores. Nessa conta de 23/10/2026, as duas versões da Max saíram mais baratas por proteína que o 3W Core, mas o \"+ Sabor\" só por causa da promoção.",
+          "A alternativa é o 3W Core 900 g da Black Skull: R$ 279,90, 31 g de proteína em 40 g (77,5%), 22 porções e R$ 41,04 por 100 g, com WPC, WPI e WPH na lista e 4 sabores. Nessa conta, as duas versões da Max saíram mais baratas por proteína que o 3W Core, mas o \"+ Sabor\" só por causa da promoção.",
           "Contra o 100% Whey Refil da Max, que é só concentrado, a R$ 31,17 por 100 g, o 3W custa mais por proteína. O 100% HD da Black Skull, a R$ 30,46, também leva os três tipos na lista de ingredientes, sem dizer quanto há de cada um. Quem não faz questão do 3W no rótulo paga menos nesses dois."
         ],
         "postParagraphs": [
@@ -123508,7 +123501,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey concentrado para todo dia",
         "paragraphs": [
-          "Para quem quer um whey de uso diário em muitos sabores, o que mais compensa é o [Whey 100% HD Refil 900 g da Black Skull](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p). Custava R$ 159,90 em 23/10/2026, com 21 g de proteína em cada dose de 35 g e 25 doses na tabela: R$ 159,90 ÷ 525 g de proteína × 100 = R$ 30,46 por 100 g de proteína. São 11 sabores.",
+          "Para quem quer um whey de uso diário em muitos sabores, o que mais compensa é o [Whey 100% HD Refil 900 g da Black Skull](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p). Custava R$ 159,90, com 21 g de proteína em cada dose de 35 g e 25 doses na tabela: R$ 159,90 ÷ 525 g de proteína × 100 = R$ 30,46 por 100 g de proteína. São 11 sabores.",
           "A mesma tabela vale para os outros tamanhos. O [pote de 900 g](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p) custava R$ 169,90 (R$ 32,36 por 100 g de proteína), R$ 10,00 a mais que o refil. O [pote de 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p) custava R$ 279,90, com 50 doses: R$ 26,66 por 100 g de proteína, o menor número da linha 100% HD.",
           "A lista de ingredientes traz proteína concentrada do soro do leite, peptídeos hidrolisados, proteína concentrada de leite, proteína isolada do soro e proteína hidrolisada do soro. A Black Skull não publica a quantidade de cada item, então o rótulo não diz quanto há de cada um. Contém lactose e não contém glúten.",
           "A diferença para a alternativa é pequena. O [100% Whey Refil 900 g da Max Titanium](https://www.maxtitanium.com.br/100-whey-refil-900g/p) custava R$ 196,39, com 21 g de proteína em dose de 30 g: R$ 31,17 por 100 g de proteína, contra R$ 30,46 da Black Skull, ou R$ 0,71 a mais. O rótulo da Max é curto: proteína concentrada do soro do leite, aromatizante, lecitina de soja e sucralose. Contém lactose e não contém glúten. Quem prefere a lista de ingredientes curta fica com a Max; quem quer o menor preço por proteína, com a Black Skull."
@@ -123529,11 +123522,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey com sabor de sobremesa",
         "paragraphs": [
-          "Para quem escolhe o whey pelo sabor de sobremesa, com amendoim, o que mais compensa é o [Whey Dr. Peanut 900 g](https://www.drpeanut.com.br/whey-protein). São 5 sabores: Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, todos a R$ 224,39 em 23/10/2026.",
+          "Para quem escolhe o whey pelo sabor de sobremesa, com amendoim, o que mais compensa é o [Whey Dr. Peanut 900 g](https://www.drpeanut.com.br/whey-protein). São 5 sabores: Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, todos a R$ 224,39.",
           "No preço por proteína ele não compensa: com 20 g de proteína em dose de 40 g (22,5 doses no pote de 900 g), são R$ 49,86 por 100 g de proteína, o mais alto entre os concentrados lidos nas lojas da Black Skull, da Max e da Probiótica. O perfil dele é o sabor. Para comparar, o [100% Whey Pote 900 g da Max](https://www.maxtitanium.com.br/100-whey-pote-900g/p), no mesmo pote de 900 g, saía a R$ 33,40.",
           "Também não é o 100% Whey da Max com outro sabor. A tabela é outra: dose de 40 g contra 30 g, 20 g de proteína contra 21 g e 50 g de proteína por 100 g de pó contra 70 g. O rótulo lista amendoim torrado e granulado, e o produto contém amendoim, glúten, lactose e derivados de soja.",
           "O rótulo diz \"fabricado em Supley\", em Matão (SP), e \"100% Whey da Max Titanium em colaboração com a Dr. Peanut\". O whey está à venda no site da Max e no da Dr. Peanut; o link acima leva ao da Dr. Peanut, onde vale o código da Dr. Peanut (veja o capítulo dos cupons).",
-          "A alternativa de sabor é o [Whey Concentrado Paçoquita da Mais Mu](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g), o primeiro da ordem de mais vendidos do site da Mais Mu em 23/10/2026. A conta dele está no próximo capítulo."
+          "A alternativa de sabor é o [Whey Concentrado Paçoquita da Mais Mu](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g), o primeiro da ordem de mais vendidos do site da Mais Mu. A conta dele está no próximo capítulo."
         ],
         "postParagraphs": [
           "Os sabores do whey e das pastas, um a um, estão no [guia de sabores da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
@@ -123552,10 +123545,10 @@ export const reviewsData: unknown[] = [
         "heading": "Whey para começar: pote pequeno e sachê",
         "paragraphs": [
           "Quem quer testar um whey sem comprar 900 g, ou levar uma dose pronta na bolsa, encontra na Mais Mu o pote de 450 g e a caixa com 15 sachês. Aqui a compra é pelo formato e pelo sabor, não pelo preço: por proteína, os dois saem bem mais caros que os potes de 900 g das outras marcas.",
-          "O [pote de 450 g do concentrado sabor Paçoquita](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g) custava R$ 159,99 em 23/10/2026, com 20 g de proteína por dose e 12 doses declaradas na página: R$ 159,99 ÷ (12 × 20 g) × 100 = R$ 66,66 por 100 g de proteína. Nos sabores com 13 doses, como Baunilha e Cookies n Cream, a conta cai para R$ 61,53. A Paçoquita é o primeiro whey da ordem de mais vendidos do site da Mais Mu em 23/10/2026. Entre os outros sabores está o doce de leite.",
+          "O [pote de 450 g do concentrado sabor Paçoquita](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g) custava R$ 159,99, com 20 g de proteína por dose e 12 doses declaradas na página: R$ 159,99 ÷ (12 × 20 g) × 100 = R$ 66,66 por 100 g de proteína. Nos sabores com 13 doses, como Baunilha e Cookies n Cream, a conta cai para R$ 61,53. A Paçoquita é o primeiro whey da ordem de mais vendidos do site da Mais Mu. Entre os outros sabores está o doce de leite.",
           "A caixa de 15 sachês de concentrado ([Cookies n Cream](https://www.lojamaismu.com.br/produtos/whey-concentrado-cookies-sache-465g), R$ 254,85) tem 20 g de proteína por sachê, ou 300 g de proteína na caixa: R$ 84,95 por 100 g de proteína. Em sabores como a [Paçoquita](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-sache-525g), a caixa custava R$ 239,85, ou R$ 79,95 por 100 g.",
           "A Mais Mu não publica tabela nutricional dos wheys: a proteína por dose e o número de doses vêm do texto da página de cada produto. Este guia faz a conta só do pote de 450 g e do sachê, os formatos deste perfil; os refis de 900 g e de 1,8 kg ficam fora do quadro.",
-          "Se o que importa é gastar menos para começar, a alternativa é o [Whey 100% HD Gourmet 450 g da Black Skull](https://www.blackskullusa.com.br/whey-100-gourmet-450/p): R$ 84,90 em 23/10/2026, com 15 doses de 30 g e só 12 g de proteína por dose, ou R$ 47,17 por 100 g de proteína. O pote é barato, mas a dose entrega pouca proteína; veja o capítulo \"Atenção ao nome\"."
+          "Se o que importa é gastar menos para começar, a alternativa é o [Whey 100% HD Gourmet 450 g da Black Skull](https://www.blackskullusa.com.br/whey-100-gourmet-450/p): R$ 84,90, com 15 doses de 30 g e só 12 g de proteína por dose, ou R$ 47,17 por 100 g de proteína. O pote é barato, mas a dose entrega pouca proteína; veja o capítulo \"Atenção ao nome\"."
         ],
         "postParagraphs": [
           "A Mais Mu contra a Growth, no whey e na creatina, está em [Mais Mu ou Growth](/reviews/mais-mu-ou-growth)."
@@ -123580,10 +123573,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Atenção ao nome: wheys que não são o que parecem",
         "paragraphs": [
-          "O nome do pote nem sempre diz o que está dentro. Estes são os casos que mudam a conta, com os números da tabela nutricional ou da lista de ingredientes lidos em 23/10/2026."
+          "O nome do pote nem sempre diz o que está dentro. Estes são os casos que mudam a conta, com os números da tabela nutricional ou da lista de ingredientes lidos."
         ],
         "bullets": [
-          "[Iso Protein Blend da Probiótica](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): não é whey isolado nem whey puro. A descrição e a lista de ingredientes dizem proteína isolada de soja e proteína concentrada do soro do leite. A dose é de 40 g com 25 g de proteína, e o preço era R$ 79,00 em promoção em 23/10/2026, de R$ 121,99: R$ 13,74 por 100 g de proteína, o menor número do quadro-mestre. Compare como mistura de soja e soro, não com os wheys de soro. Contém lactose.",
+          "[Iso Protein Blend da Probiótica](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): não é whey isolado nem whey puro. A descrição e a lista de ingredientes dizem proteína isolada de soja e proteína concentrada do soro do leite. A dose é de 40 g com 25 g de proteína, e o preço era R$ 79,00 em promoção, de R$ 121,99: R$ 13,74 por 100 g de proteína, o menor número do quadro-mestre. Compare como mistura de soja e soro, não com os wheys de soro. Contém lactose.",
           "[Whey 100% HD Gourmet 900 g da Black Skull](https://www.blackskullusa.com.br/whey-100-gourmet-900/p): 12 g de proteína em dose de 30 g (40%), e não os 21 g do 100% HD comum. A R$ 129,90, são R$ 36,08 por 100 g de proteína, contra R$ 26,66 a R$ 32,36 do 100% HD.",
           "[Whey Protein (WPI, WPC, WPH) Refil 900 g da Black Skull](https://www.blackskullusa.com.br/whey-protein-refil-black-skull--900g-wpi-wpc-wph/p): 11 g de proteína em dose de 25 g (44%), a menor proteína por dose da loja, com nome parecido com o do 3W Core, que tem 31 g em 40 g. O refil custava R$ 99,90, ou R$ 25,23 por 100 g de proteína.",
           "[Whey Turbo Refil 907 g da Black Skull](https://www.blackskullusa.com.br/whey-turbo-refil--907g/p): é um hipercalórico. A dose de 120 g traz 30 g de proteína, 75 g de carboidrato e 479 kcal. Não entra no quadro-mestre.",
@@ -123595,7 +123588,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/whey/melhor-whey-atencao-ao-nome.webp",
           "alt": "Quadro desenhado com seis nomes de whey e o que a tabela e os ingredientes dizem de cada um: Iso Protein Blend com soja, Gourmet com 12 g, Whey Protein WPI WPC WPH com 11 g, Turbo hipercalórico, o 100% do nome e a página que promete mais que a tabela",
-          "caption": "Quadro: Em Casa com Cecília, com os rótulos lidos em 23/10/2026.",
+          "caption": "Quadro: Em Casa com Cecília, com os rótulos lidos.",
           "objectFit": "wide",
           "aspectRatio": 1.7778
         }
@@ -123677,12 +123670,12 @@ export const reviewsData: unknown[] = [
           "Todos os wheys em pó das cinco lojas que tiveram a proteína por dose lida, na mesma régua. O quadro não ordena nem pontua: o número mais baixo não é, sozinho, a melhor compra, porque a dose, o tipo de proteína e a lactose mudam de produto para produto."
         ],
         "comparisonTable": {
-          "caption": "Preços de venda dos sites oficiais em 23/10/2026, antes do cupom. Proteína por dose da tabela nutricional (na Mais Mu, do texto da página, porque a loja não publica tabela). R$ por 100 g de proteína: conta nossa, preço ÷ (doses × proteína por dose) × 100, com as doses da tabela ou, nos potes de 40 g da Max e no Dr. Peanut, 900 g ÷ 40 g.",
+          "caption": "Preços de venda dos sites oficiais, antes do cupom. Proteína por dose da tabela nutricional (na Mais Mu, do texto da página, porque a loja não publica tabela). R$ por 100 g de proteína: conta nossa, preço ÷ (doses × proteína por dose) × 100, com as doses da tabela ou, nos potes de 40 g da Max e no Dr. Peanut, 900 g ÷ 40 g.",
           "headers": [
             "Produto",
             "Proteína por dose",
             "R$ por 100 g de proteína",
-            "Preço (23/10/2026)",
+            "Preço de venda",
             "Tipo de proteína",
             "Lactose"
           ],
@@ -123899,7 +123892,7 @@ export const reviewsData: unknown[] = [
           "Cada objetivo de compra leva um whey, com uma alternativa. O quadro reúne os sete perfis dos capítulos acima."
         ],
         "comparisonTable": {
-          "caption": "Preços de venda dos sites oficiais em 23/10/2026, antes do cupom. R$ por 100 g de proteína: conta nossa, com a proteína por dose da tabela nutricional de cada rótulo (na Mais Mu, do texto da página, que não publica tabela).",
+          "caption": "Preços de venda dos sites oficiais, antes do cupom. R$ por 100 g de proteína: conta nossa, com a proteína por dose da tabela nutricional de cada rótulo (na Mais Mu, do texto da página, que não publica tabela).",
           "headers": [
             "Se você quer…",
             "Leve…",
@@ -123911,7 +123904,7 @@ export const reviewsData: unknown[] = [
               "Pagar menos pela proteína",
               "[Black Skull Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
               "R$ 23,17",
-              "[Probiótica Hiper 100% Whey 900 g](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 23,61 (em promoção em 23/10/2026)"
+              "[Probiótica Hiper 100% Whey 900 g](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 23,61 (em promoção)"
             ],
             [
               "Whey sem lactose",
@@ -123927,7 +123920,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Whey 3W (concentrado, isolado e hidrolisado)",
-              "[Max Titanium Top Whey 3W + Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) (em promoção em 23/10/2026) e [+ Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
+              "[Max Titanium Top Whey 3W + Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) (em promoção) e [+ Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
               "R$ 33,60 (+ Sabor) e R$ 37,99 (+ Performance)",
               "[Black Skull Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p), R$ 41,04"
             ],
@@ -123957,7 +123950,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/whey/melhor-whey-resposta-rapida.webp",
           "alt": "Quadro desenhado com os sete perfis de compra de whey (menor preço por proteína, sem lactose, isolado, 3W, concentrado para todo dia, sabor de sobremesa e pote pequeno ou sachê), o whey indicado para cada um e o preço por 100 g de proteína",
-          "caption": "Quadro: Em Casa com Cecília, com os preços de 23/10/2026.",
+          "caption": "Quadro: Em Casa com Cecília, com os preços das cinco lojas.",
           "objectFit": "wide",
           "aspectRatio": 1.7778
         }
@@ -123965,10 +123958,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom de cada loja",
         "paragraphs": [
-          "Cada código vale só no site oficial da própria loja, e o desconto é o da página de cupom de cada uma. Na Max e na Probiótica o desconto é de até 10%: o percentual varia por produto, e o carrinho mostra quanto cada item recebeu. No teste de 14/10/2026 na Max, o Top Whey 3W de R$ 189,00 recebeu R$ 16,75 de desconto. No teste de 13/10/2026 na Probiótica, o desconto foi de R$ 54,75 num carrinho de R$ 659,35, cerca de 8,3%."
+          "Cada código vale só no site oficial da própria loja, e o desconto é o da página de cupom de cada uma. Na Max e na Probiótica o desconto é de até 10%: o percentual varia por produto, e o carrinho mostra quanto cada item recebeu. No teste na Max, o Top Whey 3W de R$ 189,00 recebeu R$ 16,75 de desconto. No teste na Probiótica, o desconto foi de R$ 54,75 num carrinho de R$ 659,35, cerca de 8,3%."
         ],
         "comparisonTable": {
-          "caption": "Códigos e regras das páginas de cupom do site, testados nos checkouts de 13/10, 14/10 e 20/10/2026. O desconto de cada produto aparece no resumo do pedido.",
+          "caption": "Códigos e regras das páginas de cupom do site, testados nos checkouts. O desconto de cada produto aparece no resumo do pedido.",
           "headers": [
             "Loja",
             "Código",
@@ -123980,31 +123973,31 @@ export const reviewsData: unknown[] = [
               "[Black Skull](/cupons/black-skull)",
               "CECILIA10",
               "10% OFF",
-              "Todo o site oficial, com todas as formas de pagamento; soma com as promoções vigentes (teste de 13/10/2026)."
+              "Todo o site oficial, com todas as formas de pagamento; soma com as promoções vigentes (testado)."
             ],
             [
               "[Max Titanium](/cupons/max-titanium)",
               "MAX10EMCASACOMCECILIA",
               "Até 10% OFF",
-              "Site oficial, com todas as formas de pagamento; soma com as promoções e com os brindes do carrinho (teste de 14/10/2026)."
+              "Site oficial, com todas as formas de pagamento; soma com as promoções e com os brindes do carrinho (testado)."
             ],
             [
               "[Probiótica](/cupons/probiotica)",
               "PRO10EMCASACOMCECILIA",
               "Até 10% OFF",
-              "Site oficial, com todas as formas de pagamento; soma com as promoções vigentes (teste de 13/10/2026)."
+              "Site oficial, com todas as formas de pagamento; soma com as promoções vigentes (testado)."
             ],
             [
               "[Dr. Peanut](/cupons/dr-peanut)",
               "DREMCASACOMCECILIA",
               "10% OFF",
-              "Todo o site da Dr. Peanut, inclusive o whey, com todas as formas de pagamento; soma com as promoções (teste de 13/10/2026). Não há confirmação de que valha no site da Max, onde o mesmo whey também é vendido."
+              "Todo o site da Dr. Peanut, inclusive o whey, com todas as formas de pagamento; soma com as promoções (testado). Não há confirmação de que valha no site da Max, onde o mesmo whey também é vendido."
             ],
             [
               "[Mais Mu](/cupons/mais-mu)",
               "MMEMCASACOMCECILIA",
               "10% OFF",
-              "Todo o site oficial; soma com as promoções e com os 3% do Pix (teste de 20/10/2026). A loja não acumula cupons: o crédito do cashback e o desconto de boas-vindas não somam com ele."
+              "Todo o site oficial; soma com as promoções e com os 3% do Pix (testado). A loja não acumula cupons: o crédito do cashback e o desconto de boas-vindas não somam com ele."
             ]
           ]
         },
@@ -124015,10 +124008,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual o melhor whey custo-benefício em 2026? Não existe um só: pelo preço por 100 g de proteína lido em 23/10/2026, o Whey 80% HD Refil da Black Skull saía a R$ 23,17 e o Hiper 100% Whey da Probiótica, em promoção, a R$ 23,61. O capítulo de custo-benefício traz os dois.",
+          "Qual o melhor whey custo-benefício em 2026? Não existe um só: pelo preço por 100 g de proteína lido para o guia, o Whey 80% HD Refil da Black Skull saía a R$ 23,17 e o Hiper 100% Whey da Probiótica, em promoção, a R$ 23,61. O capítulo de custo-benefício traz os dois.",
           "Whey concentrado ou isolado: qual o melhor? Depende do que você procura. Pelas tabelas, o isolado tem 26 g de proteína em dose de 30 g, contra 20 g a 23 g do concentrado, e custa mais por proteína: R$ 41,82 a R$ 44,39 por 100 g, contra R$ 23,17 do concentrado mais barato do guia.",
-          "Whey 3W ou 100%: qual escolher? O \"100%\" não é um tipo de proteína: o 100% Whey da Max é só concentrado, e o 100% HD da Black Skull mistura concentrado, isolado e hidrolisado. O Top Whey 3W \"+ Sabor\" da Max saía a R$ 33,60 por 100 g de proteína em promoção em 23/10/2026, perto dos R$ 31,17 do 100% Whey Refil.",
-          "Qual whey não tem lactose? Entre as cinco lojas, só o 100% Pure Whey Zero Lactose da Probiótica declara \"sem lactose\" (R$ 241,97 em 23/10/2026), e o alergênico dele cita derivados de leite. O Iso Pro Whey não declara lactose, mas a loja não o vende como zero lactose; quem tem intolerância ou alergia deve conferir o rótulo.",
+          "Whey 3W ou 100%: qual escolher? O \"100%\" não é um tipo de proteína: o 100% Whey da Max é só concentrado, e o 100% HD da Black Skull mistura concentrado, isolado e hidrolisado. O Top Whey 3W \"+ Sabor\" da Max saía a R$ 33,60 por 100 g de proteína em promoção, perto dos R$ 31,17 do 100% Whey Refil.",
+          "Qual whey não tem lactose? Entre as cinco lojas, só o 100% Pure Whey Zero Lactose da Probiótica declara \"sem lactose\" (R$ 241,97), e o alergênico dele cita derivados de leite. O Iso Pro Whey não declara lactose, mas a loja não o vende como zero lactose; quem tem intolerância ou alergia deve conferir o rótulo.",
           "Qual whey é melhor para iniciantes? Para começar sem comprar 900 g, as opções lidas são o pote de 450 g e a caixa de sachês da Mais Mu e o Gourmet 450 g da Black Skull, com só 12 g de proteína por dose. Este guia não indica quantidade: quem tem dúvida sobre dose deve falar com nutricionista.",
           "Whey nacional é confiável? As cinco marcas vendem pelo site oficial, e a Max Titanium e a Probiótica são do Grupo Supley, que aparece como fabricante no rótulo do 3 Whey Protein da Probiótica e do whey Dr. Peanut. Empresa, CNPJ, trocas e reputação de cada uma estão em [Black Skull](/reviews/black-skull-e-confiavel), [Max Titanium](/reviews/max-titanium-e-confiavel), [Probiótica](/reviews/probiotica-e-confiavel), [Dr. Peanut](/reviews/dr-peanut-e-confiavel) e [Mais Mu](/reviews/mais-mu-e-confiavel).",
           "O que significa \"100%\" no nome do whey? Não é o teor de proteína do pó: o 100% HD da Black Skull tem 21 g de proteína em 35 g (60%), e o 100% Whey da Max, 21 g em 30 g (70%). Vale a proteína por dose da tabela.",
@@ -124030,7 +124023,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como este guia foi feito",
         "paragraphs": [
-          "Ninguém do site tomou os wheys. Este guia reúne o que cada loja publica: tabela nutricional, lista de ingredientes e preço de venda, lidos nos sites oficiais da Black Skull, da Max Titanium, da Probiótica, da Dr. Peanut e da Mais Mu em 23/10/2026, sem cupom. A proteína por dose vem da tabela, e não do texto da página; só a Mais Mu, que não publica tabela, tem a dose lida no texto. O \"mais vendido\" é a ordem de cada site na data, e não dado de vendas, e os sabores só aparecem como lista.",
+          "Ninguém do site tomou os wheys. Este guia reúne o que cada loja publica: tabela nutricional, lista de ingredientes e preço de venda, lidos nos sites oficiais da Black Skull, da Max Titanium, da Probiótica, da Dr. Peanut e da Mais Mu, sem cupom. A proteína por dose vem da tabela, e não do texto da página; só a Mais Mu, que não publica tabela, tem a dose lida no texto. O \"mais vendido\" é a ordem de cada site na data, e não dado de vendas, e os sabores só aparecem como lista.",
           "Ficaram de fora o 3W, o Monster e o sachê da Probiótica (tabela não lida), os sachês da Max, os hipercalóricos, os kits e combos, as barras e a proteína vegetal. Os refis de 900 g e de 1,8 kg da Mais Mu também: a loja não publica tabela, e o guia só fez a conta do pote de 450 g e do sachê. As contas de R$ por 100 g de proteína são nossas, com o preço do dia e a dose da tabela.",
           "Preço e estoque mudam toda semana, e a Black Friday está chegando: vale o que aparecer no site da loja na hora da compra. O Em Casa com Cecília é afiliado das cinco marcas e pode receber comissão pelas compras feitas pelos links e pelos cupons, sem custo extra para você."
         ]
@@ -128089,7 +128082,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para quem já usa creatina ou whey, um kit de R$ 100 a R$ 200 é o caminho mais direto. Para quem não sabe o que a pessoa toma, coqueteleira ou camiseta é a aposta mais simples. O tamanho da camiseta e o estoque que a ficha mostra pesam na escolha: veja em Qual presente escolher."
+          "Para quem já usa creatina ou whey, um kit é o caminho mais direto. Para quem não sabe o que a pessoa toma, coqueteleira ou camiseta é a aposta mais simples. O tamanho da camiseta e o estoque que a ficha mostra pesam na escolha: veja em Qual presente escolher."
         ]
       },
       {
@@ -128098,7 +128091,7 @@ export const reviewsData: unknown[] = [
           "Quatro lojas parceiras vendem o que quem treina usa: Black Skull, Max Titanium, Probiótica e Dr. Peanut, com creatina, whey, coqueteleira, camiseta e snack. A Skelt, de beleza, entra com um só kit, como lembrança. Nenhuma delas agrupa os produtos por perfil ou por preço, e a pergunta \"o que dar, por quanto e em qual loja\" fica para quem compara à mão. Este guia faz essa comparação."
         ],
         "bullets": [
-          "Os preços são de venda, lidos em 25/10/2026 (os da Dr. Peanut em 24/10, conferidos em 25/10). Preço muda com promoção e estoque, e o carrinho é a referência final.",
+          "Os preços são de venda, lidos em 25/10/2026 (os da Dr. Peanut foram lidos um dia antes e conferidos nessa data). Preço muda com promoção e estoque, e o carrinho é a referência final.",
           "\"Sem controle de estoque\" quer dizer que a loja não mostra a quantidade. Não prova que o item está disponível. Quando a ficha mostra unidades por tamanho ou cor, o texto diz quais.",
           "Pré-treinos, termogênicos, colágeno e os kits com nome de atleta ficaram fora da lista.",
           "O cupom de cada loja vem depois da tabela, em Cupom de cada loja."
@@ -128125,7 +128118,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quem não sabe o que a pessoa usa",
         "paragraphs": [
           "Coqueteleira e camiseta servem para quem não sabe o que a pessoa toma. A coqueteleira de 600 ml da Black Skull, a mais barata desta lista, sai por R$ 19,90. A Probiótica tem a de 700 ml nas cores preta, rosa e incolor, por R$ 24,90, de R$ 29,90 na tabela.",
-          "A camiseta 100% Algodão da Black Skull custa R$ 78,90, e a ficha mostrava unidades de P a XGG em 25/10. A Camiseta Branca da Probiótica sai por R$ 69,90; a ficha mostrava zero unidade em P e unidades de M a XG."
+          "A camiseta 100% Algodão da Black Skull custa R$ 78,90, e a ficha mostrava unidades de P a XGG. A Camiseta Branca da Probiótica sai por R$ 69,90; a ficha mostrava zero unidade em P e unidades de M a XG."
         ],
         "image": {
           "src": "/images/reviews/presentes/presente-natal-quem-treina-coqueteleira-probiotica.webp",
@@ -128172,7 +128165,7 @@ export const reviewsData: unknown[] = [
             "Faixa",
             "Presente",
             "Loja",
-            "Preço de venda (25/10/2026)"
+            "Preço de venda"
           ],
           "rows": [
             [
@@ -128506,14 +128499,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Dá para dar suplemento de presente? Este guia não trata de saúde e não diz se um suplemento é indicado para alguém. Quem tem objetivo de saúde fala com nutricionista ou médico antes de comprar para outra pessoa.",
           "Como escolher o tamanho da camiseta? Use a tabela de medidas da página do produto e confira o tamanho no carrinho.",
-          "Os preços mudam? Sim. Os preços são de 25/10/2026, e o carrinho mostra o valor final.",
+          "Os preços mudam? Sim. Os preços são os lidos para o guia, e o carrinho mostra o valor final.",
           "Quando pedir para chegar antes do Natal? Nenhuma das cinco lojas publica data limite. O prazo aparece para o seu CEP durante a compra, e o melhor é comprar com antecedência."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Ninguém da equipe do Em Casa com Cecília usou os produtos deste guia. As informações vêm das fichas, dos rótulos e das políticas públicas de cada loja, com preços de venda de 25/10/2026 (Dr. Peanut: 24/10, conferidos em 25/10). Podemos receber comissão pelos links e cupons das lojas, sem custo extra para quem compra."
         ]
       }
     ],
@@ -145232,15 +145219,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelos preços de 28/10/2026 e pelos rótulos, a Integralmédica sai mais barata por 100 g de creatina e por 100 g de proteína nos tamanhos comparados. O cupom PRO10EMCASACOMCECILIA aproxima a Probiótica no whey de 900 g, mas não vira a conta. Nas fontes oficiais, são empresas diferentes; o veredito por perfil está em Qual escolher."
+          "Pelos preços e pelos rótulos, a Integralmédica sai mais barata por 100 g de creatina e por 100 g de proteína nos tamanhos comparados. O cupom PRO10EMCASACOMCECILIA aproxima a Probiótica no whey de 900 g, mas não vira a conta. Nas fontes oficiais, são empresas diferentes; o veredito por perfil está em Qual escolher."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
           "Este guia compara whey e creatina da Probiótica, parceira do site, com os da Integralmédica, que não é parceira. A base é o que as duas lojas publicam: a tabela nutricional da ficha, o texto da página e o preço do site lido em 28/10/2026, sem frete, sem desconto de Pix e sem cupom.",
-          "Entram os tamanhos que mais se parecem entre as duas, o mesmo critério de [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica): whey de 900 g e de 1,8 kg e creatina de 300 g, com o pouch de 1 kg da Integralmédica, o mais barato dela por grama. Os isolados ficam de fora: o Iso Pro Whey de 900 g da Probiótica custava R$ 346,28 e o Whey Protein Isolado de 900 g da Integralmédica, R$ 483,00, em 28/10. As linhas com Creapure no nome também ficam de fora, porque o texto não leu o selo no rótulo da Probiótica.",
-          "Dose, número de porções e proteína por porção só entram com o número da tabela nutricional de cada ficha. Na Probiótica, a tabela lida é a do sabor Baunilha; na Integralmédica, a leitura é de 25/10/2026. Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
+          "Entram os tamanhos que mais se parecem entre as duas, o mesmo critério de [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica): whey de 900 g e de 1,8 kg e creatina de 300 g, com o pouch de 1 kg da Integralmédica, o mais barato dela por grama. Os isolados ficam de fora: o Iso Pro Whey de 900 g da Probiótica custava R$ 346,28 e o Whey Protein Isolado de 900 g da Integralmédica, R$ 483,00. As linhas com Creapure no nome também ficam de fora, porque o texto não leu o selo no rótulo da Probiótica.",
+          "Dose, número de porções e proteína por porção só entram com o número da tabela nutricional de cada ficha. Na Probiótica, a tabela lida é a do sabor Baunilha; na Integralmédica, a leitura é a da página de cada produto. Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
           "A série compara a Probiótica com uma marca por vez: [Probiótica ou Growth](/reviews/probiotica-ou-growth), [Probiótica ou Dux](/reviews/probiotica-ou-dux) e [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica) seguem o mesmo método."
         ]
       },
@@ -145248,14 +145235,14 @@ export const reviewsData: unknown[] = [
         "heading": "De onde vem cada marca",
         "paragraphs": [
           "A Probiótica é uma marca do Grupo Supley, o mesmo da Max Titanium e da Dr. Peanut. A loja oficial é a probiotica.com.br. Quem fabrica, as trocas e a reputação da loja estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
-          "O rodapé do site da Integralmédica diz que a loja é operada pela After Click, CNPJ 58.450.630/0001-48, de Extrema (MG). A BrasilAPI registra a razão social AFTERCLICK SERVICOS INTEGRADOS LTDA como ativa, aberta em 13/12/2024. O \"Sobre nós\" da Integralmédica diz que a marca tem mais de 40 anos de história e que o Grupo BRG reúne a Integralmédica, a Darkness e a Nutrify. A Probiótica não está entre elas.",
-          "Nas fontes oficiais lidas em 25/10 e 28/10, são empresas diferentes: a Probiótica não é da Integralmédica, e a Integralmédica não é da Probiótica. A leitura não achou o cadastro do Grupo BRG, então o texto não vai além do que as fontes dizem."
+          "O rodapé do site da Integralmédica diz que a loja é operada pela After Click, CNPJ 58.450.630/0001-48, de Extrema (MG). A BrasilAPI registra a razão social AFTERCLICK SERVICOS INTEGRADOS LTDA como ativa, aberta em 2024. O \"Sobre nós\" da Integralmédica diz que a marca tem mais de 40 anos de história e que o Grupo BRG reúne a Integralmédica, a Darkness e a Nutrify. A Probiótica não está entre elas.",
+          "Nas fontes oficiais, são empresas diferentes: a Probiótica não é da Integralmédica, e a Integralmédica não é da Probiótica. A leitura não achou o cadastro do Grupo BRG, então o texto não vai além do que as fontes dizem."
         ]
       },
       {
         "heading": "Creatina: preço por 100 g de produto",
         "paragraphs": [
-          "A tabela compara as creatinas por 100 g de produto, nos tamanhos de 300 g das duas marcas, mais o pouch de 1 kg e o Hardcore de 500 g da Integralmédica. \"100% Pura\" é o nome do produto da Integralmédica, e \"Pura\" é parte do nome do produto da Probiótica: nenhum dos dois é selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, lidos em 28/10/2026, sem desconto de Pix. Em 28/10, a Probiótica de 300 g aparecia com preço riscado de R$ 75,10, e o pouch de 1 kg da Integralmédica, de R$ 156,00."
+          "A tabela compara as creatinas por 100 g de produto, nos tamanhos de 300 g das duas marcas, mais o pouch de 1 kg e o Hardcore de 500 g da Integralmédica. \"100% Pura\" é o nome do produto da Integralmédica, e \"Pura\" é parte do nome do produto da Probiótica: nenhum dos dois é selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, sem desconto de Pix. A Probiótica de 300 g aparecia com preço riscado de R$ 75,10, e o pouch de 1 kg da Integralmédica, de R$ 156,00."
         ],
         "images": [
           {
@@ -145314,7 +145301,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: preço por 100 g de proteína",
         "paragraphs": [
-          "A conta é o preço dividido pela proteína total da embalagem: a proteína de cada porção vezes o número de porções da tabela nutricional. Na Probiótica, o número é o da tabela do sabor Baunilha do 100% Pure Whey: 20 g de proteína em cada porção de 30 g, 30 porções no pote e no refil de 900 g. A frente do pote traz \"21 g de proteína\" e a página diz \"de 20 g a 24 g de proteína por porção\", porque o número varia por sabor; a conta usa a tabela. O kit de 1,8 kg da Probiótica são dois refis de 900 g, na combinação Baunilha + Baunilha. Na Integralmédica, os pouches de 900 g e de 1,8 kg trazem 21 g em cada porção de 30 g, com 30 e 60 porções. Os preços de 28/10/2026 eram os mesmos em todos os sabores de cada linha da Probiótica; na Integralmédica, o texto usa o preço do sabor aberto por padrão na página."
+          "A conta é o preço dividido pela proteína total da embalagem: a proteína de cada porção vezes o número de porções da tabela nutricional. Na Probiótica, o número é o da tabela do sabor Baunilha do 100% Pure Whey: 20 g de proteína em cada porção de 30 g, 30 porções no pote e no refil de 900 g. A frente do pote traz \"21 g de proteína\" e a página diz \"de 20 g a 24 g de proteína por porção\", porque o número varia por sabor; a conta usa a tabela. O kit de 1,8 kg da Probiótica são dois refis de 900 g, na combinação Baunilha + Baunilha. Na Integralmédica, os pouches de 900 g e de 1,8 kg trazem 21 g em cada porção de 30 g, com 30 e 60 porções. Os preços eram os mesmos em todos os sabores de cada linha da Probiótica; na Integralmédica, o texto usa o preço do sabor aberto por padrão na página."
         ],
         "images": [
           {
@@ -145373,13 +145360,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Com o PRO10EMCASACOMCECILIA no teto de 10%, o pote da Probiótica sai por R$ 37,87 por 100 g de proteína, e o refil e o kit, por R$ 35,35. No tamanho de 900 g, o refil com o cupom fica abaixo do pouch de 900 g da Integralmédica, a R$ 36,03. No tamanho de 1,8 kg, o pouch da Integralmédica segue o mais barato da tabela, a R$ 32,06, com ou sem o cupom da Probiótica. Este texto não traz cupom da Integralmédica.",
-          "Por porção de 30 g, no cartão, o pote da Probiótica fica em R$ 8,42 e o refil em R$ 7,86; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg). A Integralmédica também vende o pote de 900 g, a R$ 240,00 em 28/10; a tabela usa o pouch, que tem o rótulo lido."
+          "Por porção de 30 g, no cartão, o pote da Probiótica fica em R$ 8,42 e o refil em R$ 7,86; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg). A Integralmédica também vende o pote de 900 g, a R$ 240,00; a tabela usa o pouch, que tem o rótulo lido."
         ]
       },
       {
         "heading": "O que o rótulo diz",
         "paragraphs": [
-          "A Creatina Monohidratada Pura de 300 g da Probiótica traz, na tabela nutricional, porção de 5 g (1 dosador), 5.000 mg de creatina e 60 porções por embalagem; a página diz que não contém lactose. O selo \"3.000 mg de creatina por dose\" que aparece na mesma página não bate com a tabela, e a conta usa a tabela. Na Integralmédica, a 100% Pura de 1 kg traz porção de 5 g (5.000 mg), creatina monohidratada e não contém glúten, segundo o site. O pouch da Hardcore traz a mesma porção de 5 g e pode conter leite, soja e ovo, segundo o rótulo lido em 25/10.",
+          "A Creatina Monohidratada Pura de 300 g da Probiótica traz, na tabela nutricional, porção de 5 g (1 dosador), 5.000 mg de creatina e 60 porções por embalagem; a página diz que não contém lactose. O selo \"3.000 mg de creatina por dose\" que aparece na mesma página não bate com a tabela, e a conta usa a tabela. Na Integralmédica, a 100% Pura de 1 kg traz porção de 5 g (5.000 mg), creatina monohidratada e não contém glúten, segundo o site. O pouch da Hardcore traz a mesma porção de 5 g e pode conter leite, soja e ovo, segundo o rótulo lido.",
           "No whey, a tabela do 100% Pure Whey Baunilha da Probiótica traz 20 g de proteína, 6,3 g de carboidratos e 2,1 g de gorduras totais em cada porção de 30 g, 124 kcal. Os pouches da Integralmédica trazem 21 g de proteína em cada porção de 30 g. A lista de ingredientes do pouch de 1,8 kg da Integralmédica cita proteína de soro do leite concentrada, aromatizante e edulcorante sucralose. A lista de ingredientes do whey da Probiótica não foi lida nesta rodada, então o texto não compara edulcorantes."
         ],
         "images": [
@@ -145423,17 +145410,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Probiótica ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína, o pouch de 1,8 kg da Integralmédica, a R$ 32,06 no cartão em 28/10/2026. No tamanho de 900 g, o refil da Probiótica com o PRO10EMCASACOMCECILIA no teto sai por R$ 35,35, abaixo dos R$ 36,03 do pouch de 900 g da Integralmédica.",
+          "Probiótica ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína, o pouch de 1,8 kg da Integralmédica, a R$ 32,06 no cartão. No tamanho de 900 g, o refil da Probiótica com o PRO10EMCASACOMCECILIA no teto sai por R$ 35,35, abaixo dos R$ 36,03 do pouch de 900 g da Integralmédica.",
           "Creatina Probiótica ou Integralmédica, qual compensa? Pelo preço por 100 g de produto, a Integralmédica. O pouch de 1 kg sai por R$ 12,50 e a de 300 g por R$ 16,67; a Probiótica de 300 g sai por R$ 19,97 no cartão, ou R$ 17,97 com o cupom no teto.",
-          "A Probiótica é da Integralmédica? Não. Nas fontes oficiais lidas em 25/10 e 28/10, são empresas diferentes: a Probiótica é do Grupo Supley, e o site da Integralmédica lista as marcas do Grupo BRG, sem a Probiótica entre elas.",
+          "A Probiótica é da Integralmédica? Não. Nas fontes oficiais, são empresas diferentes: a Probiótica é do Grupo Supley, e o site da Integralmédica lista as marcas do Grupo BRG, sem a Probiótica entre elas.",
           "Quantos gramas de proteína tem o whey da Probiótica? A tabela nutricional do 100% Pure Whey Baunilha de 900 g traz 20 g de proteína em cada porção de 30 g. A página diz que o número varia de 20 g a 24 g por porção, conforme o sabor.",
           "A Integralmédica tem cupom aqui? Não. A Integralmédica não é parceira do site, e o PRO10EMCASACOMCECILIA vale só na Probiótica."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Podemos receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA. A Integralmédica não é parceira: não há link, cupom, foto nem print dela neste texto. Não provamos os produtos; a comparação usa o que as lojas publicam, com a data da leitura."
         ]
       }
     ],
@@ -145501,14 +145482,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pote de 300 g é a creatina da Probiótica que mais compensa: R$ 19,97 por 100 g e R$ 1,00 por dose, em 28/10/2026. O de 100 g custa 70% a mais por grama; a Creapure, mais que o triplo. O que muda a escolha está em \"Qual creatina da Probiótica escolher\"."
+          "O pote de 300 g é a creatina da Probiótica que mais compensa pela conta por grama e por dose. O de 100 g custa 70% a mais por grama; a Creapure, mais que o triplo. O que muda a escolha está em \"Qual creatina da Probiótica escolher\"."
         ]
       },
       {
         "heading": "Como a conta foi feita",
         "paragraphs": [
           "A Probiótica vende a creatina em quatro versões de 5 g por porção: pote de 300 g, pote de 100 g, Creapure de 150 g e monodose de 30 sachês, além da Pure Creatina da linha Monster, com porção de 3 g. O preço do pote sozinho engana, porque cada um tem um peso e um número de porções diferente. Por isso a conta é por 100 g de produto e por dose, com o número de porções que a tabela nutricional de cada versão mostra na ficha da loja.",
-          "Ninguém do site usou os produtos. O texto lê a ficha, a foto do rótulo e o preço de 28/10/2026, sem cupom e no cartão. A dose, o número de porções e o selo Creapure saem da imagem do rótulo publicada na página de cada produto, não do texto de venda: na página do pote de 300 g, por exemplo, há um selo de \"3.000 mg de creatina por dose\" e um texto de \"5.000 mg por porção\", e quem resolve é a tabela."
+          "Ninguém do site usou os produtos. O texto lê a ficha, a foto do rótulo e o preço do dia, sem cupom e no cartão. A dose, o número de porções e o selo Creapure saem da imagem do rótulo publicada na página de cada produto, não do texto de venda: na página do pote de 300 g, por exemplo, há um selo de \"3.000 mg de creatina por dose\" e um texto de \"5.000 mg por porção\", e quem resolve é a tabela."
         ]
       },
       {
@@ -145561,14 +145542,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O pote de 300 g sai de R$ 75,10 de tabela por R$ 59,90 em 28/10/2026, e é essa promoção que abre a distância para as outras versões. Sem ela, o pote ficaria em R$ 25,03 por 100 g, ainda o mais barato da linha. Com o cupom PRO10EMCASACOMCECILIA, até 10% (pode ser menos em alguns produtos), a conta de todas as versões cai um pouco; o cupom soma com as promoções da loja.",
+          "O pote de 300 g sai de R$ 75,10 de tabela por R$ 59,90, e é essa promoção que abre a distância para as outras versões. Sem ela, o pote ficaria em R$ 25,03 por 100 g, ainda o mais barato da linha. Com o cupom PRO10EMCASACOMCECILIA, até 10% (pode ser menos em alguns produtos), a conta de todas as versões cai um pouco; o cupom soma com as promoções da loja.",
           "A Pure Creatina da linha Monster fica fora desta tabela porque a porção dela é de 3 g, e não de 5 g. Ela está em \"Pure Creatina Monster: porção de 3 g\", com a conta própria."
         ]
       },
       {
         "heading": "Pote de 300 g: a que mais compensa",
         "paragraphs": [
-          "A Creatina Monohidratada Pura de 300 g custa R$ 59,90 em 28/10/2026. A tabela nutricional da ficha diz 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção, e declara que não contém quantidade significativa de calorias, carboidratos, proteínas, gorduras e sódio. Dá R$ 19,97 por 100 g e R$ 1,00 por dose.",
+          "A Creatina Monohidratada Pura de 300 g custa R$ 59,90. A tabela nutricional da ficha diz 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção, e declara que não contém quantidade significativa de calorias, carboidratos, proteínas, gorduras e sódio. Dá R$ 19,97 por 100 g e R$ 1,00 por dose.",
           "A página do produto traz um selo de \"3.000 mg de creatina por dose\" ao lado do texto de \"5.000 mg por porção\". A tabela do rótulo diz 5.000 mg por porção de 5 g, e é o número que a conta usa."
         ],
         "images": [
@@ -145591,7 +145572,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pote de 100 g: para experimentar",
         "paragraphs": [
-          "A Creatina Monohidratada Pura de 100 g custa R$ 33,89 em 28/10/2026 e tem a mesma tabela do pote grande, em menor quantidade: 20 porções de 5 g, com 5.000 mg de creatina cada. A página traz o mesmo selo de 3.000 mg e o mesmo texto de 5.000 mg do pote de 300 g, e a tabela resolve da mesma forma.",
+          "A Creatina Monohidratada Pura de 100 g custa R$ 33,89 e tem a mesma tabela do pote grande, em menor quantidade: 20 porções de 5 g, com 5.000 mg de creatina cada. A página traz o mesmo selo de 3.000 mg e o mesmo texto de 5.000 mg do pote de 300 g, e a tabela resolve da mesma forma.",
           "Por 100 g, o pote pequeno custa R$ 33,89, 70% a mais que o de 300 g. Por dose, R$ 1,69 contra R$ 1,00. Vinte porções duram 20 dias com uma porção ao dia, que é a sugestão de uso da ficha. Compensa só para quem quer conhecer o produto antes de levar o pote grande; três potes de 100 g custam R$ 101,67, contra R$ 59,90 do pote de 300 g."
         ],
         "images": [
@@ -145607,7 +145588,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creapure de 150 g: o selo no rótulo e o preço por grama",
         "paragraphs": [
-          "A Creatina Creapure Monohidratada de 150 g custa R$ 99,89 em 28/10/2026, sem promoção na página. A tabela diz 30 porções de 5 g, com 5.000 mg de creatina por porção, a mesma composição por dose dos potes de 300 g e de 100 g. O rótulo traz o selo Creapure na frente, com o código 18SP11, e o verso diz que a creatina vem \"da exclusiva tecnologia alemã Creapure\", com o modo de preparo de 5 g (1 dosador) em água ou na bebida preferida, uma porção ao dia.",
+          "A Creatina Creapure Monohidratada de 150 g custa R$ 99,89, sem promoção na página. A tabela diz 30 porções de 5 g, com 5.000 mg de creatina por porção, a mesma composição por dose dos potes de 300 g e de 100 g. O rótulo traz o selo Creapure na frente, com o código 18SP11, e o verso diz que a creatina vem \"da exclusiva tecnologia alemã Creapure\", com o modo de preparo de 5 g (1 dosador) em água ou na bebida preferida, uma porção ao dia.",
           "Creapure é a marca da matéria-prima, que o rótulo chama de \"tecnologia alemã\"; o produto é fabricado pela Supley em Matão (SP), como diz o verso do pote. É isso que o selo declara, e é só isso que este texto confirma: a tabela nutricional não traz nenhum número diferente da versão comum.",
           "Na conta, o selo custa caro: R$ 66,59 por 100 g e R$ 3,33 por dose, mais que o triplo do pote de 300 g. Trinta porções de 5 g custam R$ 99,89 na Creapure; no pote de 300 g, as mesmas 30 porções saem por R$ 29,95. Quem quer o selo Creapure no rótulo paga essa diferença; quem quer creatina monohidratada com 5.000 mg por porção tem o mesmo número no pote comum."
         ],
@@ -145631,7 +145612,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Monodose: 30 sachês de 5 g",
         "paragraphs": [
-          "A Creatina Monohidratada Monodose custa R$ 69,89 em 28/10/2026 e traz 30 sachês de 5 g, com 5.000 mg de creatina por sachê, segundo a tabela impressa na caixa. São 150 g de produto a R$ 46,59 por 100 g e R$ 2,33 por dose: mais que o dobro do pote de 300 g pela mesma creatina, pagando pela embalagem individual. Se o sachê compensa para você, e quando, está no [guia da monodose da Probiótica](/reviews/monodose-probiotica-sache-ou-pote)."
+          "A Creatina Monohidratada Monodose custa R$ 69,89 e traz 30 sachês de 5 g, com 5.000 mg de creatina por sachê, segundo a tabela impressa na caixa. São 150 g de produto a R$ 46,59 por 100 g e R$ 2,33 por dose: mais que o dobro do pote de 300 g pela mesma creatina, pagando pela embalagem individual. Se o sachê compensa para você, e quando, está no [guia da monodose da Probiótica](/reviews/monodose-probiotica-sache-ou-pote)."
         ]
       },
       {
@@ -145666,7 +145647,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom PRO10EMCASACOMCECILIA",
         "paragraphs": [
-          "O PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica, com o percentual variando por produto: nem todo item recebe 10%. Soma com as promoções da loja, inclusive o preço promocional do pote de 300 g, e vale em todas as formas de pagamento (teste de 13/10/2026). O código entra no campo de cupom do carrinho; o passo a passo está em [como usar o cupom da Probiótica](/reviews/cupom-probiotica-como-usar), e as regras do mês na [página do cupom Probiótica](/cupons/probiotica)."
+          "O PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica, com o percentual variando por produto: nem todo item recebe 10%. Soma com as promoções da loja, inclusive o preço promocional do pote de 300 g, e vale em todas as formas de pagamento (teste no carrinho). O código entra no campo de cupom do carrinho; o passo a passo está em [como usar o cupom da Probiótica](/reviews/cupom-probiotica-como-usar), e as regras do mês na [página do cupom Probiótica](/cupons/probiotica)."
         ]
       },
       {
@@ -145686,15 +145667,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Creatina Probiótica é boa? Pelo rótulo, as versões em pó e os sachês trazem creatina monohidratada com 5.000 mg por porção de 5 g, e a tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa. A qualidade de cada lote não se mede pela ficha; o texto lê o rótulo e o preço. Quem fabrica e como a loja responde está em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
           "Creatina Probiótica é pura? \"Pura\" é o nome do produto. O rótulo declara creatina monohidratada, com 5.000 mg por porção de 5 g na tabela. A Creapure traz o selo de origem da matéria-prima, com a mesma composição por porção na tabela.",
-          "Creatina Probiótica é Creapure? Só as versões com o selo no rótulo: a Creatina Creapure Monohidratada de 150 g e a Pure Creatina de 150 g da linha Monster, as duas a R$ 99,89 em 28/10/2026. Os potes de 300 g e de 100 g e a monodose não trazem o selo.",
-          "Qual tamanho da creatina Probiótica compensa? O pote de 300 g: R$ 19,97 por 100 g em 28/10/2026, contra R$ 33,89 do pote de 100 g, R$ 46,59 da monodose e R$ 66,59 da Creapure.",
+          "Creatina Probiótica é Creapure? Só as versões com o selo no rótulo: a Creatina Creapure Monohidratada de 150 g e a Pure Creatina de 150 g da linha Monster, as duas a R$ 99,89. Os potes de 300 g e de 100 g e a monodose não trazem o selo.",
+          "Qual tamanho da creatina Probiótica compensa? O pote de 300 g: R$ 19,97 por 100 g, contra R$ 33,89 do pote de 100 g, R$ 46,59 da monodose e R$ 66,59 da Creapure.",
           "A creatina da Probiótica tem sabor? Não encontramos creatina com sabor no catálogo da Probiótica. As versões lidas são sem sabor; para potes com sabor de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher)."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada com a Probiótica. Podemos receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA. Ninguém do site usou os produtos: o texto lê a ficha, a tabela nutricional do rótulo e o preço de 28/10/2026. Não é orientação de nutricionista nem de médico. Preço, estoque e promoções mudam; vale o que aparece no site na hora da compra."
         ]
       }
     ],
@@ -145754,14 +145729,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Em 28/10/2026 o pote ganha: a Creatina Pura de 300 g sai a R$ 19,97 por 100 g e R$ 1,00 por dose; a Monodose, 30 sachês de 5 g, a R$ 46,59 por 100 g e R$ 2,33 por dose, mais do dobro. O que muda a escolha está em \"Quando a monodose compensa\"."
+          "O pote ganha: a Monodose, em sachês de 5 g, sai a mais do dobro do preço por dose da Creatina Pura de 300 g. O que muda a escolha está em \"Quando a monodose compensa\"."
         ]
       },
       {
         "heading": "Como a conta é feita",
         "paragraphs": [
-          "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço. Por isso a comparação aqui é só de preço: por 100 g de produto e por dose, com os preços de 28/10/2026 no site da Probiótica, sem cupom.",
-          "A porção e o número de doses vêm da tabela nutricional que a loja mostra na imagem de cada ficha, lida em 28/10/2026. Nos três produtos, a tabela diz porção de 5 g com 5.000 mg de creatina. Nenhum texto de benefício da loja entra neste guia, e ninguém do site usou os produtos."
+          "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço. Por isso a comparação aqui é só de preço: por 100 g de produto e por dose, com os preços do dia no site da Probiótica, sem cupom.",
+          "A porção e o número de doses vêm da tabela nutricional que a loja mostra na imagem de cada ficha. Nos três produtos, a tabela diz porção de 5 g com 5.000 mg de creatina. Nenhum texto de benefício da loja entra neste guia, e ninguém do site usou os produtos."
         ],
         "images": [
           {
@@ -145815,14 +145790,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A monodose custa 133% a mais por grama que o pote de 300 g (R$ 46,59 contra R$ 19,97 por 100 g) e 37% a mais que o pote de 100 g (R$ 33,89). Por dose, são R$ 2,33 no sachê, R$ 1,69 no pote pequeno e R$ 1,00 no pote de 300 g, que em 28/10 estava de R$ 75,10 por R$ 59,90.",
+          "A monodose custa 133% a mais por grama que o pote de 300 g (R$ 46,59 contra R$ 19,97 por 100 g) e 37% a mais que o pote de 100 g (R$ 33,89). Por dose, são R$ 2,33 no sachê, R$ 1,69 no pote pequeno e R$ 1,00 no pote de 300 g, que estava de R$ 75,10 por R$ 59,90.",
           "Com o cupom PRO10EMCASACOMCECILIA, até 10% (pode ser menos em alguns produtos), a conta muda, mas a ordem não: com os 10% cheios, o pote de 300 g iria a R$ 53,91 e a monodose a R$ 62,90. As regras do cupom estão em \"Cupom da Probiótica\"."
         ],
         "images": [
           {
             "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
             "alt": "Tabela nutricional da Creatina Monodose da Probiótica: porção de 5 g (1 sachê) com 5.000 mg de creatina",
-            "caption": "Tabela nutricional da Creatina Monodose, na imagem da ficha da Probiótica (28/10/2026).",
+            "caption": "Tabela nutricional da Creatina Monodose, na imagem da ficha da Probiótica.",
             "objectFit": "contain",
             "aspectRatio": 1.7208
           }
@@ -145840,7 +145815,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-300g.webp",
             "alt": "Tabela nutricional da Creatina 300 g da Probiótica: 60 porções de 5 g com 5.000 mg de creatina",
-            "caption": "Tabela nutricional do pote de 300 g, na imagem da ficha da Probiótica (28/10/2026).",
+            "caption": "Tabela nutricional do pote de 300 g, na imagem da ficha da Probiótica.",
             "objectFit": "contain",
             "aspectRatio": 1.5734
           }
@@ -145850,7 +145825,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto a monodose custa a mais",
         "paragraphs": [
           "A caixa de 30 sachês custa R$ 69,89. As mesmas 30 doses, tiradas do pote de 300 g, custam R$ 29,95: metade do pote. A diferença é de R$ 39,94 por caixa, ou R$ 1,33 por dose.",
-          "Dois potes de 100 g (40 doses) custam R$ 67,78, menos que a caixa de 30 sachês. Ou seja: pelo preço de 28/10, nenhum dos dois potes de creatina pura sai mais caro por grama que a monodose, nem o pequeno.",
+          "Dois potes de 100 g (40 doses) custam R$ 67,78, menos que a caixa de 30 sachês. Ou seja: pelo preço do dia, nenhum dos dois potes de creatina pura sai mais caro por grama que a monodose, nem o pequeno.",
           "O que o sachê entrega a mais é a dose já separada. A loja descreve o produto como \"praticidade em doses individuais\"; este guia não avalia isso, porque ninguém do site usou o produto. O que dá para medir é o preço, e o preço diz que a separação custa R$ 1,33 por dose."
         ],
         "images": [
@@ -145884,18 +145859,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Creatina monodose da Probiótica vale a pena? Pelo preço de 28/10/2026, não pelo bolso: R$ 46,59 por 100 g e R$ 2,33 por dose, contra R$ 19,97 e R$ 1,00 no pote de 300 g. Vale só para quem quer a dose em sachê e aceita pagar R$ 1,33 a mais por dose.",
+          "Creatina monodose da Probiótica vale a pena? Pelo preço do dia, não pelo bolso: R$ 46,59 por 100 g e R$ 2,33 por dose, contra R$ 19,97 e R$ 1,00 no pote de 300 g. Vale só para quem quer a dose em sachê e aceita pagar R$ 1,33 a mais por dose.",
           "A creatina monodose tem a mesma dose do pote? Pelo rótulo, sim: a tabela do sachê diz porção de 5 g com 5.000 mg de creatina, a mesma dos potes de 300 g e de 100 g.",
-          "Quantos sachês vêm na creatina monodose da Probiótica? São 30 sachês de 5 g, 150 g no total, por R$ 69,89 em 28/10/2026.",
+          "Quantos sachês vêm na creatina monodose da Probiótica? São 30 sachês de 5 g, 150 g no total, por R$ 69,89.",
           "Qual é o cupom da Probiótica para a creatina? O PRO10EMCASACOMCECILIA, de até 10%, com o percentual variando por produto. Soma com as promoções do site e vale em todas as formas de pagamento.",
           "Whey em sachê da Probiótica compensa? Este guia trata só da creatina. O whey, com o perfil de quem compra em sachê, está no guia de melhor whey por objetivo."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada com a Probiótica. O Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA.",
-          "Fontes: as fichas, as tabelas nutricionais mostradas nas imagens das fichas e os preços do site probiotica.com.br, lidos em 28/10/2026, e a página do cupom PRO10EMCASACOMCECILIA. Ninguém da equipe usou os produtos: o texto mostra o que o rótulo e o preço dizem; não é orientação de nutricionista nem de médico. Preço e estoque mudam: confira no site antes de comprar."
         ]
       }
     ],
@@ -156862,6 +156830,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 696,
     "slug": "shein-reclame-aqui-nota-reputacao",
+    "bodyDatesReason": "reclame-aqui",
     "locale": "pt",
     "translationKey": "shein-reputation",
     "title": "SHEIN no Reclame Aqui: nota, reclamações e o que os dados mostram",
@@ -156915,7 +156884,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A reputação é Boa, com ressalvas. Em 28/10/2026, a SHEIN tinha nota 7,5 no Reclame Aqui nos seis meses até 30/09/2026, com 95,3% das reclamações respondidas e 77,8% resolvidas. A queixa mais citada é produto não recebido, e quase três em cada dez pessoas que avaliaram não voltariam a comprar."
+          "A reputação é Boa, com ressalvas. A SHEIN tinha nota 7,5 no Reclame Aqui nos últimos seis meses, com 95,3% das reclamações respondidas e 77,8% resolvidas. A queixa mais citada é produto não recebido, e quase três em cada dez pessoas que avaliaram não voltariam a comprar."
         ]
       },
       {
@@ -156924,12 +156893,12 @@ export const reviewsData: unknown[] = [
           "A nota do Reclame Aqui mede como a loja atende quem reclama. Ela não mede a qualidade das peças nem a experiência de quem comprou e não reclamou. Entram na conta quatro indicadores do período: a parte das reclamações respondidas, a parte dada como resolvida, a parte de quem voltaria a fazer negócio e a nota que o consumidor dá ao atendimento.",
           "Na aba de 6 meses, de 01/04/2026 a 30/09/2026, lida em 28/10/2026, a SHEIN tinha reputação Boa e nota 7,5. Foram 32.431 reclamações, 95,3% respondidas e 77,8% resolvidas; 70,6% de quem avaliou disseram que voltariam a fazer negócio, e a nota média do consumidor era 6,3.",
           "Resolvidas, voltariam e a nota do consumidor saem só das reclamações avaliadas: 13.858 das 32.431. Quem não voltou ao site para avaliar a resposta não entra nessa parte da conta.",
-          "Na leitura de 12/10/2026, a nota era 7,6; em 28/10/2026, 7,5."
+          "Na leitura anterior, a nota era 7,6; na atual, 7,5."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-reclame-aqui-numeros-2810.webp",
           "alt": "Quadro com os números da SHEIN no Reclame Aqui de 01/04/2026 a 30/09/2026: nota 7,5, 95,3% das reclamações respondidas, 77,8% resolvidas e 70,6% voltariam a fazer negócio",
-          "caption": "Números do perfil da SHEIN no Reclame Aqui, aba de 6 meses, lidos em 28/10/2026. Quadro nosso.",
+          "caption": "Números do perfil da SHEIN no Reclame Aqui, aba de 6 meses. Quadro nosso.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -156939,13 +156908,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Primeiro, quase três em cada dez não voltariam. Entre os 13.858 que avaliaram, 70,6% disseram que voltariam a fazer negócio com a SHEIN. O resto não voltaria.",
           "Segundo, responder não é resolver. A SHEIN respondeu a 95,3% das reclamações, mas, entre quem avaliou, 77,8% deram o problema como resolvido. A resposta é o primeiro passo; a solução é o que o consumidor confirma depois.",
-          "Terceiro, a resposta demora. O tempo médio nos 6 meses foi de 3 dias e 5 horas, e 1.343 reclamações aguardavam resposta em 28/10/2026. Quem está com um pedido que não chegou conta esses dias."
+          "Terceiro, a resposta demora. O tempo médio nos 6 meses foi de 3 dias e 5 horas, e 1.343 reclamações aguardavam resposta na leitura. Quem está com um pedido que não chegou conta esses dias."
         ]
       },
       {
         "heading": "O que as pessoas reclamam",
         "paragraphs": [
-          "A lista de principais problemas do Reclame Aqui usa as reclamações de até 3 anos, não só as dos 6 meses. Em 28/10/2026, o problema mais citado era produto não recebido, com 36,47%: mais de uma em cada três reclamações desse recorte.",
+          "A lista de principais problemas do Reclame Aqui usa as reclamações de até 3 anos, não só as dos 6 meses. O problema mais citado era produto não recebido, com 36,47%: mais de uma em cada três reclamações desse recorte.",
           "Moda Feminina era a categoria mais citada, com 19,62%. Blusas vinha em seguida na lista, com 9,83%.",
           "O rótulo não diz o motivo nem o desfecho de cada caso. E o Reclame Aqui não mostra quantos pedidos a SHEIN entrega no Brasil: 32.431 reclamações em seis meses dizem quanto a loja recebe de queixas, não a chance de o seu pedido dar problema."
         ],
@@ -156960,12 +156929,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: a nota de quem avalia",
         "paragraphs": [
-          "O Reclame Aqui é brasileiro; a Trustpilot é um site internacional de avaliações, e em 28/10/2026 a SHEIN tinha ali nota 3,8 em 5, com 353.435 avaliações de clientes de vários países. O perfil é global e não separa o Brasil: a nota fala dos clientes de todos os países, não do atendimento da SHEIN Brasil."
+          "O Reclame Aqui é brasileiro; a Trustpilot é um site internacional de avaliações, e a SHEIN tinha ali nota 3,8 em 5, com 353.435 avaliações de clientes de vários países. O perfil é global e não separa o Brasil: a nota fala dos clientes de todos os países, não do atendimento da SHEIN Brasil."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
           "alt": "Celular com o perfil da SHEIN na Trustpilot: nota 3,8, distribuição das estrelas e 98% das avaliações negativas respondidas",
-          "caption": "Perfil da SHEIN na Trustpilot, versão de celular, em 29/10/2026. Print do site, com dois trechos ampliados.",
+          "caption": "Perfil da SHEIN na Trustpilot, versão de celular. Print do site, com dois trechos ampliados.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -156973,16 +156942,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nossa checagem",
         "paragraphs": [
-          "Ninguém do site comprou na SHEIN para este artigo. Os números vêm de leitura pública, feita em 28/10/2026, sem login, em dois perfis:"
+          "Ninguém do site comprou na SHEIN para este artigo. Os números vêm de leitura pública, feita sem login, em dois perfis:"
         ],
         "bullets": [
-          "Reclame Aqui: a aba de 6 meses (01/04/2026 a 30/09/2026) e o recorte de 3 anos dos principais problemas.",
+          "Reclame Aqui: a aba de 6 meses (de abril a setembro) e o recorte de 3 anos dos principais problemas.",
           "Trustpilot: a nota, o número de avaliações e o escopo do perfil, que é global."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-reclame-aqui-perfil-2910.webp",
           "alt": "Celular com a página da SHEIN no Reclame Aqui: reputação Boa, nota 7,5 nos últimos 6 meses e os números das reclamações",
-          "caption": "Página da SHEIN no Reclame Aqui, versão de celular, em 29/10/2026. Print do site, com dois trechos ampliados.",
+          "caption": "Página da SHEIN no Reclame Aqui, versão de celular. Print do site, com dois trechos ampliados.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -157001,7 +156970,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na SHEIN pelo Reclame Aqui?",
         "paragraphs": [
-          "Pelo Reclame Aqui, a SHEIN responde e resolve a maior parte. Em 28/10/2026, a reputação era Boa, com nota 7,5 nos seis meses até 30/09/2026, 95,3% das 32.431 reclamações respondidas e 77,8% dadas como resolvidas por quem avaliou.",
+          "Pelo Reclame Aqui, a SHEIN responde e resolve a maior parte. A reputação era Boa, com nota 7,5 nos últimos seis meses, 95,3% das 32.431 reclamações respondidas e 77,8% dadas como resolvidas por quem avaliou.",
           "As ressalvas são três: produto não recebido lidera as queixas do recorte de 3 anos, com 36,47%; a resposta leva em média 3 dias e 5 horas, com 1.343 reclamações na fila; e quase três em cada dez de quem avaliou não voltariam a fazer negócio."
         ]
       },
@@ -157017,10 +156986,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A SHEIN tem boa nota no Reclame Aqui? Em 28/10/2026, a reputação era Boa, com nota 7,5 nos seis meses de 01/04/2026 a 30/09/2026. Na leitura de 12/10/2026, era 7,6.",
-          "Quais são as reclamações mais comuns sobre a SHEIN? No recorte de 3 anos do Reclame Aqui, lido em 28/10/2026, o problema mais citado era produto não recebido, com 36,47%, e a categoria mais citada era Moda Feminina, com 19,62%.",
-          "A SHEIN responde às reclamações? Nos seis meses até 30/09/2026, respondeu a 95,3%, em 3 dias e 5 horas em média, e 1.343 aguardavam resposta em 28/10/2026. Entre quem avaliou, 77,8% deram o problema como resolvido.",
-          "A SHEIN tem boa nota na Trustpilot? Em 28/10/2026, a nota era 3,8 em 5, com 353.435 avaliações de clientes de vários países. O perfil é global e não separa o Brasil."
+          "A SHEIN tem boa nota no Reclame Aqui? A reputação era Boa, com nota 7,5 nos últimos seis meses. Numa leitura anterior, era 7,6.",
+          "Quais são as reclamações mais comuns sobre a SHEIN? No recorte de 3 anos do Reclame Aqui, o problema mais citado era produto não recebido, com 36,47%, e a categoria mais citada era Moda Feminina, com 19,62%.",
+          "A SHEIN responde às reclamações? Nos últimos seis meses, respondeu a 95,3%, em 3 dias e 5 horas em média, e 1.343 aguardavam resposta na leitura. Entre quem avaliou, 77,8% deram o problema como resolvido.",
+          "A SHEIN tem boa nota na Trustpilot? A nota era 3,8 em 5, com 353.435 avaliações de clientes de vários países. O perfil é global e não separa o Brasil."
         ]
       }
     ]
@@ -171274,7 +171243,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para pagar menos por grama de glutamina, o pote de 300 g da Max Titanium ou o da Probiótica sai a R$ 23,30 por 100 g, abaixo dos R$ 26,63 da Black Skull. Os potes de 120 g e 150 g custam cerca de 40% mais por grama. A Turbo, da Black Skull, leva maltodextrina na fórmula e estava sem estoque no dia da publicação."
+          "Para pagar menos por grama de glutamina, o pote de 300 g da Max Titanium ou o da Probiótica sai mais barato que o da Black Skull. Os potes de 120 g e 150 g custam cerca de 40% mais por grama. A Turbo, da Black Skull, leva maltodextrina na fórmula e estava sem estoque no dia da publicação."
         ]
       },
       {
@@ -171416,12 +171385,6 @@ export const reviewsData: unknown[] = [
           "A Turbo tem glutamina? Tem: 2.500 mg por dose de 5 g, junto com 2,5 g de maltodextrina.",
           "A Black Skull tem pote de 500 g? Não no catálogo do dia da publicação, que traz só o de 300 g e a Turbo.",
           "Qual é a porção? Os rótulos dos três indicam 5 g por porção, com 5.000 mg de L-glutamina; na Turbo, metade é maltodextrina."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Podemos receber comissão pela Black Skull, pela Max Titanium e pela Probiótica. Preços e estoque são os do dia da publicação e mudam com as promoções. Ninguém da equipe usou os produtos."
         ]
       }
     ],
@@ -172240,6 +172203,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 761,
     "slug": "vestido-de-festa-shein",
+    "bodyDatesReason": "prazo-entrega",
     "locale": "pt",
     "translationKey": "shein-vestido-festa",
     "title": "Vestido de festa na SHEIN: como escolher pela ocasião, pelo tecido e pelo prazo",
@@ -172564,7 +172528,7 @@ export const reviewsData: unknown[] = [
         "heading": "Imposto: o limite de US$ 50",
         "paragraphs": [
           "Compra internacional de até US$ 50, somando produto e frete, não paga imposto de importação. Acima disso, a alíquota é de 60%, com desconto de US$ 30 no valor do imposto. O ICMS, de 17% a 20% conforme o estado, continua em toda compra internacional.",
-          "A conta usa o que você paga pelo produto e pelo frete, já com desconto e cupom. A regra começou em maio de 2026 e pode mudar de novo. Para o quadro completo de prazo, devolução e imposto, leia [SHEIN é confiável?](/reviews/shein-e-confiavel)."
+          "A conta usa o que você paga pelo produto e pelo frete, já com desconto e cupom. A regra começou em maio e pode mudar de novo. Para o quadro completo de prazo, devolução e imposto, leia [SHEIN é confiável?](/reviews/shein-e-confiavel)."
         ]
       },
       {

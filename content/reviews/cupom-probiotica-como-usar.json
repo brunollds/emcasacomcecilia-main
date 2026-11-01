@@ -86,12 +86,12 @@
       "heading": "2. Monte o carrinho",
       "paragraphs": [
         "Escolha os produtos no site e abra o carrinho. Na tela do carrinho, cada item mostra a foto, o nome, a quantidade e o preço, e do lado direito fica o resumo do pedido, com o campo \"Cupom de Desconto\", o subtotal e o total.",
-        "No nosso teste, de 13/10/2026, o carrinho tinha quatro produtos: um kit de colágeno, uma creatina que estava em promoção (o print mostra o preço antigo riscado e o novo), uma camiseta e uma barra de proteína.",
+        "No nosso teste, o carrinho tinha quatro produtos: um kit de colágeno, uma creatina que estava em promoção (o print mostra o preço antigo riscado e o novo), uma camiseta e uma barra de proteína.",
         "Nessa tela, antes de digitar qualquer coisa, olhe o subtotal e compare com o mínimo de frete grátis da sua região, na tabela abaixo."
       ],
       "image": "/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
       "imageAlt": "Carrinho da Probiótica antes do cupom, com quatro produtos, o campo Cupom de Desconto e o resumo com subtotal e total iguais",
-      "imageCaption": "Carrinho da Probiótica em 13/10/2026, antes do cupom: quatro produtos, o campo \"Cupom de Desconto\" e o resumo com subtotal e total iguais. O marca-texto amarelo é nosso.",
+      "imageCaption": "Carrinho da Probiótica, antes do cupom: quatro produtos, o campo \"Cupom de Desconto\" e o resumo com subtotal e total iguais. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.2844
     },
@@ -104,7 +104,7 @@
       ],
       "image": "/images/reviews/probiotica/probiotica-cupom-02-codigo-digitado.webp",
       "imageAlt": "Código PRO10EMCASACOMCECILIA digitado no campo Cupom de Desconto do carrinho da Probiótica, antes do clique em Adicionar",
-      "imageCaption": "O código PRO10EMCASACOMCECILIA digitado no campo \"Cupom de Desconto\", antes do clique em \"Adicionar\", no teste de 13/10/2026. O marca-texto amarelo é nosso.",
+      "imageCaption": "O código PRO10EMCASACOMCECILIA digitado no campo \"Cupom de Desconto\", antes do clique em \"Adicionar\", no teste. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.307
     },
@@ -117,7 +117,7 @@
       ],
       "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
       "imageAlt": "Resumo do pedido da Probiótica depois do cupom, com o código no lugar do campo e a linha Descontos com sinal de menos entre o subtotal e o total",
-      "imageCaption": "Resumo do pedido depois do cupom, em 13/10/2026: o código no lugar do campo, a linha \"Descontos\" com sinal de menos entre o subtotal e o total. O marca-texto amarelo é nosso.",
+      "imageCaption": "Resumo do pedido depois do cupom: o código no lugar do campo, a linha \"Descontos\" com sinal de menos entre o subtotal e o total. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.0209
     },
@@ -127,7 +127,7 @@
         "A Probiótica dá frete grátis a partir de um valor de pedido que depende da região do CEP. Em 14/10/2026, a política de frete grátis do site trazia estes valores:"
       ],
       "comparisonTable": {
-        "caption": "Valor de pedido para frete grátis da Probiótica por região, segundo a política do site em 14/10/2026",
+        "caption": "Valor de pedido para frete grátis da Probiótica por região, segundo a política do site",
         "headers": [
           "Região",
           "Frete grátis a partir de"
@@ -168,15 +168,15 @@
     {
       "heading": "Pix, primeira compra e outros cupons",
       "paragraphs": [
-        "O PRO10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. Em 14/10/2026, a página inicial da Probiótica anunciava parcelamento em até 6 vezes sem juros no cartão e até 5% de desconto no Pix e no boleto. O percentual do Pix e do boleto é da loja, e pode mudar: confira o percentual na hora de pagar.",
+        "O PRO10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. A página inicial da Probiótica anunciava parcelamento em até 6 vezes sem juros no cartão e até 5% de desconto no Pix e no boleto. O percentual do Pix e do boleto é da loja, e pode mudar: confira o percentual na hora de pagar.",
         "Também não importa se é a sua primeira compra. O cupom funciona para quem está abrindo uma conta nova e para quem já comprou na Probiótica. Ele vale na primeira compra e continua valendo nos pedidos seguintes.",
-        "Se o pedido tiver brinde, os Termos e Condições da loja, em 14/10/2026, contavam o valor final pago, já com o desconto do cupom."
+        "Se o pedido tiver brinde, os Termos e Condições da loja contavam o valor final pago, já com o desconto do cupom."
       ]
     },
     {
       "heading": "O que comprar com o cupom",
       "paragraphs": [
-        "O cupom vale em todo o site. O menu da página inicial da Probiótica, em 14/10/2026, tem estas categorias:"
+        "O cupom vale em todo o site. O menu da página inicial da Probiótica tem estas categorias:"
       ],
       "bullets": [
         "Whey Protein",
@@ -196,7 +196,7 @@
     {
       "heading": "Prazos e regras de troca da Probiótica",
       "paragraphs": [
-        "As regras de troca e devolução da Probiótica, em 14/10/2026, eram estas:"
+        "As regras de troca e devolução da Probiótica eram estas:"
       ],
       "bullets": [
         "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
@@ -218,10 +218,10 @@
       "bullets": [
         "Qual é o cupom da Probiótica? O cupom da nossa parceria é o PRO10EMCASACOMCECILIA, que dá até 10% OFF no site oficial, probiotica.com.br. Em alguns produtos o desconto é menor, então confira a linha \"Descontos\" no carrinho antes de pagar.",
         "Tem cupom de primeira compra na Probiótica? Sim. O PRO10EMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\".",
-        "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja. A condição de pagamento do site, como o desconto de até 5% no Pix e no boleto anunciado em 14/10/2026, é da própria Probiótica.",
+        "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja. A condição de pagamento do site, como o desconto de até 5% no Pix e no boleto anunciado no site, é da própria Probiótica.",
         "Por que o cupom não deu 10% em todos os produtos? Porque o desconto varia por produto: o cupom dá até 10% OFF, e em alguns itens o percentual é menor. O total do carrinho pode ficar abaixo de 10%, e a linha \"Descontos\" mostra o valor abatido no seu pedido.",
-        "O cupom da Probiótica dá frete grátis? Não. O frete grátis é uma regra da loja, que depende do valor do pedido e da região, de R$ 104 na capital de São Paulo a R$ 599 no Norte em 14/10/2026, e não vale no Sedex. Se o cupom deixar o total abaixo do mínimo da sua região, o frete volta a ser cobrado.",
-        "Tem cupom para whey da Probiótica? Sim: o PRO10EMCASACOMCECILIA vale no site oficial, que tem a categoria Whey Protein no menu em 14/10/2026. O desconto chega a 10% e é menor em alguns produtos; não testamos o whey, então confira a linha \"Descontos\" no carrinho.",
+        "O cupom da Probiótica dá frete grátis? Não. O frete grátis é uma regra da loja, que depende do valor do pedido e da região, de R$ 104 na capital de São Paulo a R$ 599 no Norte, e não vale no Sedex. Se o cupom deixar o total abaixo do mínimo da sua região, o frete volta a ser cobrado.",
+        "Tem cupom para whey da Probiótica? Sim: o PRO10EMCASACOMCECILIA vale no site oficial, que tem a categoria Whey Protein no menu. O desconto chega a 10% e é menor em alguns produtos; não testamos o whey, então confira a linha \"Descontos\" no carrinho.",
         "Onde o cupom vale? No site oficial da Probiótica, o probiotica.com.br, onde o código é digitado no carrinho."
       ]
     }

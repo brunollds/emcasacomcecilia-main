@@ -23,10 +23,6 @@
     "bodyDates": 12,
     "datesOutsideBody": 8
   },
-  "black-friday-probiotica": {
-    "bodyDates": 10,
-    "datesOutsideBody": 6
-  },
   "black-friday-shein": {
     "bodyDates": 27,
     "datesOutsideBody": 8
@@ -105,12 +101,6 @@
   "como-encontrar-cupons-yesstyle-validos": {
     "datesOutsideBody": 1
   },
-  "creatina-probiotica-qual-compensa": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 10,
-    "datesOutsideBody": 2
-  },
   "cueca-insider-comfort-ou-performance": {
     "transparencySection": true,
     "bodyDates": 4,
@@ -133,10 +123,6 @@
   "cupom-magalu-em-casa-com-cecilia": {
     "quickAnswerPrice": true,
     "datesOutsideBody": 1
-  },
-  "cupom-probiotica-como-usar": {
-    "bodyDates": 7,
-    "datesOutsideBody": 6
   },
   "cupom-skelt-como-usar": {
     "datesOutsideBody": 4
@@ -165,10 +151,6 @@
   "fita-up-como-usar": {
     "bodyDates": 7,
     "datesOutsideBody": 2
-  },
-  "glutamina-qual-escolher-black-skull-max-probiotica": {
-    "quickAnswerPrice": true,
-    "transparencySection": true
   },
   "guia-linha-ninho-nestle-leite-vs-composto-lacteo": {
     "bodyDates": 4,
@@ -220,20 +202,10 @@
     "bodyDates": 7,
     "datesOutsideBody": 2
   },
-  "melhor-whey-qual-escolher-por-objetivo": {
-    "bodyDates": 35,
-    "datesOutsideBody": 6
-  },
   "mochaccino-canela-dolce-gusto": {
     "transparencySection": true,
     "bodyDates": 3,
     "datesOutsideBody": 1
-  },
-  "monodose-probiotica-sache-ou-pote": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 7,
-    "datesOutsideBody": 4
   },
   "nanlac-supreme-ou-ninho-fases": {
     "transparencySection": true,
@@ -270,34 +242,10 @@
   "poltrona-damie-e-boa": {
     "datesOutsideBody": 2
   },
-  "presente-natal-quem-treina": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 8,
-    "datesOutsideBody": 1
-  },
-  "probiotica-e-confiavel": {
-    "bodyDates": 12,
-    "datesOutsideBody": 5
-  },
-  "probiotica-ou-dux": {
-    "transparencySection": true,
-    "bodyDates": 9,
-    "datesOutsideBody": 3
-  },
   "probiotica-ou-growth": {
     "transparencySection": true,
     "bodyDates": 7,
     "datesOutsideBody": 2
-  },
-  "probiotica-ou-integralmedica": {
-    "transparencySection": true,
-    "bodyDates": 12,
-    "datesOutsideBody": 3
-  },
-  "probiotica-reclame-aqui-nota-reputacao": {
-    "bodyDates": 15,
-    "datesOutsideBody": 13
   },
   "protetor-de-silicone-mamilo-como-usar": {
     "bodyDates": 4,
@@ -319,10 +267,6 @@
   "shein-ou-shopee-temu": {
     "bodyDates": 10,
     "datesOutsideBody": 4
-  },
-  "shein-reclame-aqui-nota-reputacao": {
-    "bodyDates": 15,
-    "datesOutsideBody": 11
   },
   "skelt-e-confiavel": {
     "bodyDates": 6,
@@ -359,9 +303,6 @@
   "toda-up-reclame-aqui-nota-reputacao": {
     "bodyDates": 23,
     "datesOutsideBody": 4
-  },
-  "vestido-de-festa-shein": {
-    "bodyDates": 4
   },
   "yesstyle-app-como-comprar-codigo-de-recompensa": {
     "transparencySection": true,
