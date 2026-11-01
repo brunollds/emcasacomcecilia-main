@@ -121703,7 +121703,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "CECILIA10 é o cupom da parceria do Em Casa com Cecília com a Bagaggio, loja de malas, mochilas, bolsas e acessórios de viagem. O cupom vale só no site oficial, bagaggio.com.br.",
           "O desconto é de 10% em todo o site, inclusive no Outlet e em produto que já está com desconto. O cupom vale para clientes novos e antigos e em todas as formas de pagamento.",
-          "A faixa do topo do site anuncia 5% na primeira compra. Não testamos esse desconto. O CECILIA10 dá 10%.",
+          "A faixa do topo do site anuncia 5% na primeira compra; o CECILIA10 dá 10%.",
           "A loja aceita um cupom por pedido."
         ],
         "image": {
@@ -121723,7 +121723,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "2. Monte a sacola",
         "paragraphs": [
-          "Escolha as malas e coloque na sacola. O cupom não entra na página do produto: ele entra na sacola, no resumo do pedido. No teste de 22/10/2026, a mala Downtown do Outlet aparecia por R$ 179,90, de R$ 249,90."
+          "Escolha as malas e coloque na sacola. O cupom não entra na página do produto: ele entra na sacola, no resumo do pedido. No teste, a mala Downtown do Outlet aparecia por R$ 179,90, de R$ 249,90."
         ]
       },
       {
@@ -121736,7 +121736,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/bagaggio/cupom-sacola-sem-cupom.webp",
             "alt": "Sacola da Bagaggio antes do cupom: os campos Código de vendedor(a) ou influenciador(a) e Cupom de desconto vazios, com a mala Downtown Preta a R$ 179,90 e total de R$ 179,90",
-            "caption": "Sacola em 22/10/2026, sem cupom. O CECILIA10 vai no campo de baixo, Cupom de desconto.",
+            "caption": "Sacola sem cupom. O CECILIA10 vai no campo de baixo, Cupom de desconto.",
             "objectFit": "contain",
             "aspectRatio": 1.0959
           }
@@ -121751,7 +121751,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/bagaggio/cupom-sacola-com-cupom.webp",
             "alt": "Sacola da Bagaggio com o CECILIA10 aplicado: etiqueta no campo Cupom de desconto, subtotal de R$ 179,90, descontos de R$ 17,99 e total de R$ 161,91",
-            "caption": "Sacola em 22/10/2026, com o CECILIA10 aplicado.",
+            "caption": "Sacola com o CECILIA10 aplicado.",
             "objectFit": "contain",
             "aspectRatio": 1.3056
           }
@@ -121760,7 +121760,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. Escolha o Pix ou o cartão",
         "paragraphs": [
-          "O Pix aparece só na etapa de pagamento, depois da identificação. No teste, a Downtown foi de R$ 161,91 para R$ 153,81 no Pix, porque o Pix tira 5% sobre o total que já tem o cupom. Esse valor veio do teste pela API pública do carrinho, não de uma tela de pagamento.",
+          "O Pix aparece só na etapa de pagamento, depois da identificação. O Pix tira 5% sobre o total que já tem o cupom, como mostra a conta da Downtown na tabela abaixo.",
           "No cartão, o total da sacola fica em R$ 161,91. Confira as parcelas no checkout, porque o parcelamento muda com o valor e a forma de pagamento."
         ]
       },
@@ -121801,14 +121801,14 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/bagaggio/cupom-quadro-conta-downtown.webp",
             "alt": "Quadro com a conta da mala Downtown Preta do Outlet: R$ 249,90 de tabela, R$ 179,90 na loja, R$ 161,91 com o CECILIA10 e R$ 153,81 no Pix",
-            "caption": "Conta da Downtown Preta do Outlet no teste de 22/10/2026. Quadro feito por nós.",
+            "caption": "Conta da Downtown Preta do Outlet no teste. Quadro feito por nós.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           },
           {
             "src": "/images/reviews/bagaggio/cupom-teste-kidgo-detroit.webp",
             "alt": "As malas de bordo KidGo Preta e Detroit Preta da Bagaggio, lado a lado, em fotos oficiais da loja",
-            "caption": "Os outros dois produtos do teste de 22/10/2026: a KidGo Preta, a preço cheio, e a Detroit Preta, do Outlet. Fotos oficiais da loja.",
+            "caption": "Os outros dois produtos do teste: a KidGo Preta, a preço cheio, e a Detroit Preta, do Outlet. Fotos oficiais da loja.",
             "objectFit": "contain",
             "aspectRatio": 2.1053
           }
@@ -121829,7 +121829,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A promoção de 50% na segunda peça tem cupom próprio e não soma com outro cupom, então o CECILIA10 não entra junto com ela.",
           "Este é um exemplo ilustrativo, não um teste. Suponha duas malas de R$ 100. O CECILIA10 nas duas dá R$ 20 de desconto, que é 10% de R$ 200. A promoção de 50% na segunda dá R$ 50, que é metade de R$ 100. Com uma mala só, fica o 10%, que dá R$ 10.",
-          "Ainda não confirmamos se a promoção de 50% na segunda peça vale em produto do Outlet ou em produto que já tem desconto. Por isso o exemplo usa preço cheio."
+          "Conta nossa, pelo exemplo acima e valendo só em preço cheio: com 1 mala, fique no CECILIA10; com 2, a promoção de 2ª peça rende mais. Se a peça é do Outlet ou já tem desconto, confira no carrinho se a promoção entra."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-route-vinho-ambiente.webp",
@@ -121840,12 +121840,6 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Black Friday",
-        "paragraphs": [
-          "Sobre o CECILIA10 na Black Friday, vamos testar quando a campanha abrir. Calendário e preço ficam no [guia de Black Friday da Bagaggio](/reviews/black-friday-bagaggio)."
-        ]
-      },
-      {
         "heading": "E a garantia vitalícia?",
         "paragraphs": [
           "A garantia vitalícia vale para malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação. Mochilas, bolsas e malas de outras marcas ficam fora. Veja o que cobre e como acionar no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
@@ -121853,21 +121847,15 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp",
           "alt": "Ficha da Mala de Bordo Detroit Preta no site da Bagaggio: cadeado embutido, rodas 360°, bolsos internos, feita em ABS, suporta até 10 kg e selo de garantia vitalícia, com as medidas de 55 x 35 x 23 cm",
-          "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja, lida em 22/10/2026. O selo de garantia vitalícia vale para as malas da marca.",
+          "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja. O selo de garantia vitalícia vale para as malas da marca.",
           "objectFit": "square",
           "aspectRatio": 1
         }
       },
       {
-        "heading": "O que não testamos",
-        "paragraphs": [
-          "Não testamos cada forma de pagamento, como boleto, Vale ou Google Pay. Também não finalizamos nenhuma compra."
-        ]
-      },
-      {
         "heading": "Vale a pena usar o cupom?",
         "paragraphs": [
-          "Se você já ia comprar na Bagaggio, o CECILIA10 vale: 10% em todo o site, inclusive no Outlet, e soma com o Pix. Se a compra for pelo Mercado Livre, o cupom não vale lá, então compare o preço do anúncio.",
+          "Se você já ia comprar na Bagaggio, o CECILIA10 vale: 10% em todo o site, inclusive no Outlet, e soma com o Pix. Se a compra for pelo Mercado Livre, o cupom não vale lá, então compare o preço do anúncio. Na Black Friday, confira o [guia de Black Friday da Bagaggio](/reviews/black-friday-bagaggio) antes de aplicar o cupom.",
           "Antes de comprar, leia [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel) e [o que os números do Reclame Aqui mostram](/reviews/bagaggio-reclame-aqui-nota-reputacao). As condições atualizadas do cupom ficam na [página do cupom Bagaggio](/cupons/bagaggio)."
         ]
       },
@@ -121877,7 +121865,7 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Bagaggio? O cupom é CECILIA10, com 10% de desconto em todo o site oficial, inclusive no Outlet.",
           "O cupom Bagaggio soma com o Pix? Sim. O Pix de 5% entra sobre o total que já tem o cupom.",
           "O cupom soma com a promoção de 2ª peça? Não. A promoção de 50% na segunda peça tem cupom próprio e não soma com outro cupom.",
-          "Tem cupom de primeira compra na Bagaggio? A loja anuncia 5% na primeira compra, mas não testamos esse desconto. O CECILIA10 dá 10%.",
+          "Tem cupom de primeira compra na Bagaggio? A loja anuncia 5% na primeira compra; o CECILIA10 dá 10%.",
           "O cupom vale no Mercado Livre? Não. O cupom não vale lá, e vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link do Mercado Livre](https://meli.la/2KeydkG)."
         ]
       }
