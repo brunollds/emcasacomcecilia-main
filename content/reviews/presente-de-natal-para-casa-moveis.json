@@ -1,4 +1,5 @@
 {
+  "bodyDatesReason": "campanha",
   "id": 593,
   "slug": "presente-de-natal-para-casa-moveis",
   "title": "Presente de Natal para a casa: sofá, poltrona, cinema em casa e área de piscina",
@@ -33,7 +34,7 @@
     {
       "heading": "Antes de escolher: o que vale para todos os móveis",
       "paragraphs": [
-        "Este guia mostra o que olhar em cada um dos quatro móveis (sofá, poltrona reclinável, poltrona de cinema e área de piscina), a faixa de preço e onde a DAMIE entra. Os preços da DAMIE foram lidos no site em 23/10/2026, e os das outras marcas, no varejo, em 22/10/2026.",
+        "Este guia mostra o que olhar em cada um dos quatro móveis (sofá, poltrona reclinável, poltrona de cinema e área de piscina), a faixa de preço e onde a DAMIE entra. Os preços da DAMIE foram lidos no site da loja, e os das outras marcas, no varejo, na mesma semana.",
         "Cinco conferências valem para qualquer móvel deste guia, da DAMIE ou de outra marca. Faça antes de olhar o preço."
       ],
       "bullets": [
@@ -54,7 +55,7 @@
         "Para decidir entre eles, leia [sofá na caixa ou sofá montado: qual dura mais](/reviews/sofa-na-caixa-ou-sofa-montado-qual-dura-mais) e [sofá modular ou retrátil: qual escolher](/reviews/sofa-modular-ou-retratil-qual-escolher). Na DAMIE, as duas coisas se juntam: o Sofá Damie na Caixa Modular é modular e chega em caixas. Quem tem escada, elevador pequeno ou planeja mudar a sala de lugar tem aqui um bom motivo para olhar o modular."
       ],
       "comparisonTable": {
-        "caption": "Sofá modular de 3 lugares nas marcas que vendem na caixa. Preços lidos nos sites em 22/10/2026 (DAMIE, em 23/10/2026). A faixa muda com o revestimento e a configuração, e o preço da Inflow está no Pix.",
+        "caption": "Sofá modular de 3 lugares nas marcas que vendem na caixa. Preços lidos nos sites das marcas. A faixa muda com o revestimento e a configuração, e o preço da Inflow está no Pix.",
         "headers": [
           "Marca",
           "3 lugares",
@@ -79,7 +80,7 @@
         ]
       },
       "postParagraphs": [
-        "A Inflow vende sofá modular na caixa desde janeiro de 2026. Para comparar a DAMIE com ela e com a Sofá na Caixa em entrega, teste em casa, devolução e garantia, veja [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie). Antes de comprar da Sofá na Caixa, leia também [o que aconteceu com a Sofá na Caixa](/reviews/sofa-na-caixa-crise-reclamacoes-procon-sp)."
+        "A Inflow vende sofá modular na caixa desde o início de 2026. Para comparar a DAMIE com ela e com a Sofá na Caixa em entrega, teste em casa, devolução e garantia, veja [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie). Antes de comprar da Sofá na Caixa, leia também [o que aconteceu com a Sofá na Caixa](/reviews/sofa-na-caixa-crise-reclamacoes-procon-sp)."
       ],
       "image": {
         "src": "/images/reviews/damie/natal-sofa-modular-na-caixa.webp",
@@ -98,7 +99,7 @@
         "caption": "Sofá modular DAMIE no site oficial em 23/10/2026, com apoio de pé grátis. Os preços mudam sem aviso e variam com o revestimento.",
         "headers": [
           "Configuração",
-          "Preço em 23/10/2026"
+          "Preço"
         ],
         "rows": [
           [
@@ -147,15 +148,15 @@
       "heading": "Poltrona reclinável e poltrona do papai: o presente para os pais",
       "paragraphs": [
         "\"Poltrona do papai\" é o nome popular da poltrona reclinável. A primeira escolha é o mecanismo. A manual reclina com o peso do corpo e não usa energia, mas pede esforço de pernas e braços, o que pesa para quem já tem dificuldade de levantar. A elétrica reclina por botão e precisa ficar perto de uma tomada. Há ainda a elétrica com giro e balanço, a com massagem e a com elevação, que inclina a base para a frente para ajudar a pessoa a sair da poltrona.",
-        "No varejo, a poltrona do papai vai de cerca de R$ 550, nas manuais, a mais de R$ 7.000, nas elétricas com massagem. É a faixa que observamos em 22/10/2026, e ela muda com o modelo, o revestimento e a forma de pagamento.",
+        "No varejo, a poltrona do papai vai de cerca de R$ 550, nas manuais, a mais de R$ 7.000, nas elétricas com massagem. É a faixa que observamos, e ela muda com o modelo, o revestimento e a forma de pagamento.",
         "Para presentear pais ou avós, três conferências valem mais que o visual. Primeiro, a altura do assento: a pessoa precisa sentar e levantar sem esforço. Segundo, o peso máximo informado na página do modelo. Terceiro, um controle simples de usar. Quem tem dificuldade de levantar deve olhar a elétrica com elevação. A DAMIE indica essa base para idosos, e dizemos só isso: não prometemos efeito na saúde de quem usa."
       ],
       "comparisonTable": {
-        "caption": "Poltronas reclináveis da DAMIE no site oficial em 23/10/2026. Os preços mudam com o revestimento (suede, bouclé, linho, corino importado e couro bovino, exceto Aurora e Levita) e sem aviso.",
+        "caption": "Poltronas reclináveis da DAMIE no site oficial. Os preços mudam com o revestimento (suede, bouclé, linho, corino importado e couro bovino, exceto Aurora e Levita) e sem aviso.",
         "headers": [
           "Modelo",
           "Como funciona",
-          "Preço em 23/10/2026"
+          "Preço"
         ],
         "rows": [
           [
@@ -192,8 +193,8 @@
       },
       "postParagraphs": [
         "As quatro primeiras bases existem na [Poltrona Reclinável Damie 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0), a versão atual. Ela tem almofada de cabeça móvel e acolchoada com regulagem de altura, bolsos laterais maiores, apoio de braço contínuo e apoio de pés com mais espuma. As medidas da 2.0, pelo desenho da marca, são 106 cm de altura, 89 cm de largura e 95 cm de profundidade, com 174 cm de comprimento totalmente reclinada. Ela é feita no Brasil, com SoftSpring (molas nosag, espuma e fibra siliconada), mecanismo em aço carbono e estrutura de eucalipto, compensado naval e metal.",
-        "Até 27/11/2026, a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) diz que quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e tipo C) e o porta-copos, e que o preço das poltronas já vem com R$ 1.000 de desconto. Os outros opcionais estavam com preço de campanha em 23/10/2026: mesa de apoio por R$ 490, carregador de celular por indução por R$ 590 e motor do apoio de cabeça por R$ 1.000. O encosto fixo mais alto, para quem tem mais de 1,85 m, custava R$ 450 no configurador em 7/10/2026. Confira no carrinho os brindes que entram no seu pedido.",
-        "Para quem compra mais de uma, como o par para os pais, a mesma página dá desconto por quantidade nas reclináveis e na Poltrona Cinema, até 27/11/2026: R$ 500 em 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Antes de pagar, confirme com a DAMIE como esse desconto entra no pedido e se soma com o CECILIA12.",
+        "Durante a campanha, a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) diz que quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e tipo C) e o porta-copos, e que o preço das poltronas já vem com R$ 1.000 de desconto. Os outros opcionais estavam com preço de campanha: mesa de apoio por R$ 490, carregador de celular por indução por R$ 590 e motor do apoio de cabeça por R$ 1.000. O encosto fixo mais alto, para quem tem mais de 1,85 m, custava R$ 450 no configurador. Confira no carrinho os brindes que entram no seu pedido.",
+        "Para quem compra mais de uma, como o par para os pais, a mesma página dá desconto por quantidade nas reclináveis e na Poltrona Cinema, durante a campanha: R$ 500 em 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Antes de pagar, confirme com a DAMIE como esse desconto entra no pedido e se soma com o CECILIA12.",
         "Com o CECILIA12, a elétrica com giro e balanço, a partir de R$ 4.299, sai por R$ 3.783,12 no cartão. No Pix, pela nossa conta, aplicando um desconto sobre o outro, cai para R$ 3.404,81.",
         "Nas primeiras semanas de uso, contamos como foi a nossa, elétrica com giro e balanço em corino importado caramelo, no artigo [Poltrona Damie é boa? Minha experiência com a nova versão 2.0](/reviews/poltrona-damie-e-boa). Ela foi usada todos os dias por todos em casa e pelas visitas, e a massagem foi o opcional favorito da Cecília. A [experiência com as reclináveis DAMIE](/reviews/poltronas-reclinaveis-damie-vale-o-investimento) tem a compra, a montagem e o tecido. Para quem compra pensando nos pais, o subdomínio da DAMIE tem três guias: [poltrona reclinável para idosos](https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos), [a melhor poltrona para o seu pai](https://damie.emcasacomcecilia.com/guias/melhor-poltrona-para-o-seu-pai-dia-dos-pais) e [poltrona do papai com massagem](https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem)."
       ],
@@ -210,12 +211,12 @@
       "paragraphs": [
         "Poltrona de cinema é a reclinável feita para ficar lado a lado, em fila de 2, 3 ou mais lugares, de frente para a TV. Antes de comparar preço, defina três coisas: quantos lugares a parede da TV comporta, se a fila terá braço no meio (a \"namoradeira\", de 2 lugares, é o que casal costuma buscar) e quanto espaço sobra para reclinar. Meça o sofá atual, a profundidade da poltrona deitada e a distância até a TV: a regra comum é de 1,5 a 2,5 vezes a diagonal da tela, como explica o [guia de poltrona para cinema em casa](https://damie.emcasacomcecilia.com/guias/poltrona-para-cinema-em-casa).",
         "Se a poltrona for elétrica, planeje o ponto de tomada antes de definir o lugar, para não passar extensão pelo meio da sala. Para casa com criança ou pet, couro e corino são mais fáceis de limpar; linho e suede são mais macios e respiram melhor.",
-        "No varejo, as linhas de 2 e 3 lugares que mais aparecem são a Praddo e a Mallie, da Mpozenato, e a Sora, da D'rossi. Em 22/10/2026, elas estavam de cerca de R$ 3.800 a R$ 7.900, conforme modelo, revestimento e forma de pagamento. É uma faixa observada em lojas, não preço garantido: confira antes de decidir."
+        "No varejo, as linhas de 2 e 3 lugares que mais aparecem são a Praddo e a Mallie, da Mpozenato, e a Sora, da D'rossi. Elas estavam de cerca de R$ 3.800 a R$ 7.900, conforme modelo, revestimento e forma de pagamento. É uma faixa observada em lojas, não preço garantido: confira antes de decidir."
       ],
       "comparisonTable": {
         "headers": [
           "Poltrona Cinema DAMIE 2.0",
-          "Preço em 23/10/2026"
+          "Preço"
         ],
         "rows": [
           [
@@ -238,7 +239,7 @@
       },
       "postParagraphs": [
         "Na DAMIE, a [Poltrona Cinema 2.0](https://www.damie.com.br/products/poltrona-cinema-damie-2-0) é modular e vai de 2 a 9 lugares, com ou sem braço divisor. O assento e o encosto usam SoftSpring (sustentação por molas nosag, espuma e fibra siliconada), a estrutura é de aço carbono, a fabricação é no Brasil e a garantia é de 1 ano. Os revestimentos são suede, bouclé, linho, corino importado e couro bovino, e o preço muda com o tecido e com o número de lugares.",
-        "O desconto por quantidade da página de ofertas também vale para a Poltrona Cinema até 27/11/2026: R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Confirme com a DAMIE como ele entra no pedido da fila.",
+        "O desconto por quantidade da página de ofertas também vale para a Poltrona Cinema durante a campanha: R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Confirme com a DAMIE como ele entra no pedido da fila.",
         "Nós não usamos a Poltrona Cinema 2.0: o que está aqui é a ficha e o preço da loja. A experiência do site é com a reclinável da DAMIE, contada em [Poltrona DAMIE é boa?](/reviews/poltrona-damie-e-boa). A descrição da Cinema 2.0 não detalha o tipo de acionamento, então confira na configuração escolhida se há motor e tomada antes de fechar."
       ],
       "image": {
@@ -253,16 +254,16 @@
       "heading": "Área de piscina: puff, apoio do puff e espreguiçadeira",
       "paragraphs": [
         "Natal no Brasil é verão, e o canto da piscina entra na lista de presentes para a casa. Para escolher, o que decide é o material, porque sol, chuva e cloro estragam estofado comum.",
-        "Os caminhos são três. O plástico (polipropileno ou polietileno) é o mais simples: a Tramontina tem espreguiçadeiras assim, como a Leblon Basic, por cerca de R$ 630 em varejo em 22/10/2026. O alumínio com corda náutica é mais durável e mais caro: a faixa observada em lojas em 22/10/2026 foi de cerca de R$ 1.300 a R$ 2.200. E há o tecido impermeável com espuma, que é o puff e a espreguiçadeira macios: a Eco Flame Garden, linha vendida no varejo, tem puffs de área externa com trama náutica, proteção UV e tratamento anticloro, e o Duo Slim saía por cerca de R$ 2.322 em 22/10/2026. A Tidelli é outra marca de móveis externos, com alumínio e trama sintética.",
+        "Os caminhos são três. O plástico (polipropileno ou polietileno) é o mais simples: a Tramontina tem espreguiçadeiras assim, como a Leblon Basic, por cerca de R$ 630 em varejo. O alumínio com corda náutica é mais durável e mais caro: a faixa observada em lojas foi de cerca de R$ 1.300 a R$ 2.200. E há o tecido impermeável com espuma, que é o puff e a espreguiçadeira macios: a Eco Flame Garden, linha vendida no varejo, tem puffs de área externa com trama náutica, proteção UV e tratamento anticloro, e o Duo Slim saía por cerca de R$ 2.322. A Tidelli é outra marca de móveis externos, com alumínio e trama sintética.",
         "Cuidado com o puff \"de piscina\" barato: os redondos de marketplace a partir de cerca de R$ 199 costumam ser de tecido comum, não impermeável. Antes de comprar, confira se o tecido é impermeável e tem proteção UV.",
-        "A DAMIE tem uma linha própria para a beira da piscina, a Garden. Em 23/10/2026, o catálogo tinha seis peças. A espreguiçadeira, os puffs e o apoio do puff usam o tecido que a DAMIE chama de Ultra Poliéster Impermeável Padrão Náutico. Segundo a DAMIE, ele não absorve água, não mancha, evita mofo e tem proteção UV, e as peças podem ficar perto da piscina e até submersas. O miolo é de microesferas de EPS e flocos de espuma. Segundo a DAMIE, há garantia antimofo de 1 ano e resistência ao cloro da piscina.",
+        "A DAMIE tem uma linha própria para a beira da piscina, a Garden. O catálogo tinha seis peças. A espreguiçadeira, os puffs e o apoio do puff usam o tecido que a DAMIE chama de Ultra Poliéster Impermeável Padrão Náutico. Segundo a DAMIE, ele não absorve água, não mancha, evita mofo e tem proteção UV, e as peças podem ficar perto da piscina e até submersas. O miolo é de microesferas de EPS e flocos de espuma. Segundo a DAMIE, há garantia antimofo de 1 ano e resistência ao cloro da piscina.",
         "A linha é produzida sob encomenda, segundo a DAMIE, com fabricação própria no Rio Grande do Sul, e a entrega é por transportadora de móveis. O prazo aparece na página do produto, ao escolher o estado, e no frete pelo CEP. O frete grátis da DAMIE vale para poltronas e sofás, não para a Garden. O tecido vem em 6 cores: verde militar, azul denim, preto, vermelho, areia e cinza claro. A página fala em 30 dias para experimentar."
       ],
       "comparisonTable": {
         "headers": [
           "Peça",
           "Medidas e peso (segundo a DAMIE)",
-          "Preço em 23/10/2026"
+          "Preço"
         ],
         "rows": [
           [
@@ -323,7 +324,7 @@
       "paragraphs": [
         "A Black Friday de 2026 é em 27 de novembro, e o Natal, em 25 de dezembro. Para móvel de presente, a Black Friday é a data de comprar: sobra quase um mês até o Natal, e a entrega de móvel grande, ou de peça feita sob encomenda como a linha Garden, leva tempo. Comprar em cima do Natal é arriscar.",
         "O prazo de entrega aparece no cálculo do frete, pelo CEP, antes de pagar, e conta da confirmação do pagamento. Na página do produto, ele também aparece ao escolher o estado. O Pix libera o pedido mais rápido, e o boleto leva até 2 dias úteis para compensar. O logo bordado, opcional nas reclináveis, soma 7 dias. Por isso, não existe uma data de corte igual para todo mundo: ela depende do CEP, do produto e do dia em que o pagamento for confirmado. Por isso, este guia não dá data de chegada.",
-        "Também não precisa esperar o dia 27: em 23/10/2026, a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) já mostrava as condições de Black Friday, válidas até 27/11. Entram brindes na compra de uma poltrona, R$ 1.000 de desconto já aplicado nas poltronas, desconto por quantidade nas reclináveis e na Poltrona Cinema, acessórios com preço de campanha e frete grátis no Sul e no Sudeste, aplicado no checkout. Confira no carrinho se o CECILIA12 soma com cada um. A tabela de preços para comparar na campanha está em [Black Friday DAMIE 2026](/reviews/black-friday-damie)."
+        "Também não precisa esperar o dia 27: a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) já mostrava as condições da campanha, válidas até o dia da Black Friday. Entram brindes na compra de uma poltrona, R$ 1.000 de desconto já aplicado nas poltronas, desconto por quantidade nas reclináveis e na Poltrona Cinema, acessórios com preço de campanha e frete grátis no Sul e no Sudeste, aplicado no checkout. Confira no carrinho se o CECILIA12 soma com cada um. A tabela de preços para comparar na campanha está em [Black Friday DAMIE 2026](/reviews/black-friday-damie)."
       ],
       "comparisonTable": {
         "headers": [
@@ -332,11 +333,11 @@
         ],
         "rows": [
           [
-            "Agora até 26/11",
+            "Antes da Black Friday",
             "Meça o espaço e a porta, escolha o móvel e anote o preço de hoje para comparar com a campanha."
           ],
           [
-            "27/11, Black Friday",
+            "Black Friday",
             "Compare com o preço anotado. Aplique o CECILIA12 no carrinho e confira se ele soma com a campanha."
           ],
           [
@@ -344,7 +345,7 @@
             "Simule o frete pelo CEP e leia o prazo. Ele conta da confirmação do pagamento: pagar no Pix libera o pedido mais rápido."
           ],
           [
-            "25/12, Natal",
+            "Natal",
             "Se o prazo do frete não fecha com o Natal, dê o presente com uma foto do móvel e deixe a peça chegar depois."
           ]
         ]
@@ -360,8 +361,8 @@
     {
       "heading": "Cupom e pagamento",
       "paragraphs": [
-        "O CECILIA12 dá 12% de desconto em todo o site da DAMIE. Hoje, em outubro de 2026, ele soma com as promoções e com os 10% do Pix à vista. É um cupom por pedido: ele não soma com outro cupom nem com o giftback da loja. A [página do cupom](/cupons/damie) tem o código para copiar e a data do último teste.",
-        "Até 27/11/2026, a DAMIE também devolve 15% do pedido em giftback para a próxima compra. Na compra em que você usar esse giftback, o CECILIA12 não entra junto: é um ou outro.",
+        "O CECILIA12 dá 12% de desconto em todo o site da DAMIE. Hoje ele soma com as promoções e com os 10% do Pix à vista. É um cupom por pedido: ele não soma com outro cupom nem com o giftback da loja. A [página do cupom](/cupons/damie) tem o código para copiar e a data do último teste.",
+        "Durante a campanha, a DAMIE também devolve 15% do pedido em giftback para a próxima compra. Na compra em que você usar esse giftback, o CECILIA12 não entra junto: é um ou outro.",
         "A conta de exemplo, nossa: a espreguiçadeira Caraíva custa R$ 2.250. Com os 12% do CECILIA12, vai a R$ 1.980 no cartão. No Pix, entram também os 10%, e, pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.782. O resumo do checkout mostra o valor exato antes de pagar.",
         "O cartão e o PayPal parcelam em até 12x sem juros, com parcela mínima de R$ 100, e o boleto é à vista. Na Black Friday, confira no carrinho se o cupom soma com a campanha antes de pagar. O passo a passo no checkout está em [como usar o CECILIA12](/reviews/cupom-cecilia12-como-usar)."
       ]
@@ -369,10 +370,10 @@
     {
       "heading": "Qual móvel escolher",
       "bullets": [
-        "**Para os pais:** a poltrona reclinável, a chamada poltrona do papai. Quem tem dificuldade de levantar pode olhar a versão com elevação, que a marca indica para esse uso. Na DAMIE, a reclinável vai de R$ 2.969 a R$ 6.149 em 23/10/2026, conforme a base e o revestimento.",
-        "**Para a sala:** o sofá modular. Ele chega em caixas, passa por escada e elevador pequeno, e o 3 lugares da DAMIE custa de R$ 5.100 a R$ 8.100 em 23/10/2026, com apoio de pé grátis.",
+        "**Para os pais:** a poltrona reclinável, a chamada poltrona do papai. Quem tem dificuldade de levantar pode olhar a versão com elevação, que a marca indica para esse uso. Na DAMIE, a reclinável vai de R$ 2.969 a R$ 6.149, conforme a base e o revestimento.",
+        "**Para a sala:** o sofá modular. Ele chega em caixas, passa por escada e elevador pequeno, e o 3 lugares da DAMIE custa de R$ 5.100 a R$ 8.100, com apoio de pé grátis.",
         "**Para o cinema em casa e para a piscina:** a Poltrona Cinema, de 2 a 9 lugares, e a linha Garden, com espreguiçadeira e puffs redondos de 120 cm de diâmetro. Cada uma tem a sua seção mais abaixo.",
-        "**Quando comprar:** a Black Friday é em 27/11/2026 e o Natal, em 25/12. O prazo de entrega aparece no cálculo do frete, pelo CEP, e conta da confirmação do pagamento. Confira antes de pagar.",
+        "**Quando comprar:** a Black Friday vem antes do Natal, com quase um mês de folga. O prazo de entrega aparece no cálculo do frete, pelo CEP, e conta da confirmação do pagamento. Confira antes de pagar.",
         "**Cupom:** na DAMIE, o CECILIA12 dá 12% OFF em todo o site e hoje soma com as promoções e com os 10% do Pix. As regras e a data do último teste estão na [página da DAMIE](/cupons/damie)."
       ]
     },
@@ -383,14 +384,8 @@
         "Chega antes do Natal se eu comprar na Black Friday? Depende do CEP e do produto. O prazo aparece no frete, antes de pagar, e conta da confirmação do pagamento: confira ali, sem contar com data de chegada.",
         "Puff de piscina pode ficar no sol e na chuva? Só o de tecido impermeável com proteção UV. Segundo a DAMIE, o tecido dos puffs e da espreguiçadeira Garden não absorve água e pode ficar perto da piscina e até submerso.",
         "Poltrona de cinema precisa de tomada? As elétricas precisam de uma tomada por perto. Confira na configuração da Cinema 2.0 se há motor antes de comprar.",
-        "O CECILIA12 vale na Black Friday? Hoje, em outubro de 2026, ele soma com as promoções e com o Pix. Na campanha, confira no carrinho se soma; a [página do cupom](/cupons/damie) traz a data do último teste.",
-        "Quanto custa uma poltrona de cinema para casa? A Cinema 2.0 da DAMIE, em 23/10/2026, ia de R$ 5.438 a R$ 8.380 no modelo de 2 lugares, conforme o revestimento. No varejo, as linhas de 2 e 3 lugares estavam de cerca de R$ 3.800 a R$ 7.900 em 22/10/2026."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Os preços e as regras da DAMIE foram lidos no site da loja em 23/10/2026, e as medidas e os materiais da linha Garden, nas páginas de produto, também. As faixas de preço de outras marcas são de lojas do varejo, observadas em 22/10/2026, e não são preço garantido. Os valores com cupom são conta nossa. Ninguém da equipe usou a Poltrona Cinema 2.0 nem a linha Garden, e a nossa experiência com a DAMIE é só com a reclinável e o sofá modular. Podemos receber comissão pelas compras feitas pelos links deste artigo ou com o cupom CECILIA12. Preços, prazos e regras mudam: confira o pedido no checkout antes de pagar."
+        "O CECILIA12 vale na Black Friday? Hoje ele soma com as promoções e com o Pix. Na campanha, confira no carrinho se soma; a [página do cupom](/cupons/damie) traz a data do último teste.",
+        "Quanto custa uma poltrona de cinema para casa? A Cinema 2.0 da DAMIE ia de R$ 5.438 a R$ 8.380 no modelo de 2 lugares, conforme o revestimento. No varejo, as linhas de 2 e 3 lugares estavam de cerca de R$ 3.800 a R$ 7.900."
       ]
     }
   ],

@@ -8,18 +8,10 @@
     "bodyDates": 8,
     "datesOutsideBody": 5
   },
-  "black-friday-damie": {
-    "bodyDates": 23,
-    "datesOutsideBody": 10
-  },
   "black-friday-dolce-gusto": {
     "quickAnswerPrice": true,
     "bodyDates": 17,
     "datesOutsideBody": 7
-  },
-  "black-friday-dr-peanut": {
-    "bodyDates": 9,
-    "datesOutsideBody": 8
   },
   "black-friday-hostinger": {
     "transparencySection": true,
@@ -185,10 +177,6 @@
   "cupom-ceci-nestle-nutre-como-usar": {
     "datesOutsideBody": 3
   },
-  "cupom-dr-peanut-como-usar": {
-    "bodyDates": 8,
-    "datesOutsideBody": 5
-  },
   "cupom-emcasacomcecilia-insider-store-como-usar": {
     "bodyDates": 4
   },
@@ -223,10 +211,6 @@
     "bodyDates": 8,
     "datesOutsideBody": 4
   },
-  "damie-reclame-aqui-o-que-os-dados-mostram": {
-    "transparencySection": true,
-    "datesOutsideBody": 3
-  },
   "dolce-gusto-capsulas-compativeis-guia": {
     "bodyDates": 10,
     "datesOutsideBody": 1
@@ -243,33 +227,9 @@
     "bodyDates": 9,
     "datesOutsideBody": 3
   },
-  "dr-peanut-e-confiavel": {
-    "bodyDates": 10,
-    "datesOutsideBody": 4
-  },
-  "dr-peanut-e-saudavel": {
-    "transparencySection": true,
-    "bodyDates": 9,
-    "datesOutsideBody": 2
-  },
   "dr-peanut-melhor-sabor": {
     "bodyDates": 16,
     "datesOutsideBody": 4
-  },
-  "dr-peanut-ou-la-ganexa": {
-    "transparencySection": true,
-    "bodyDates": 11,
-    "datesOutsideBody": 1
-  },
-  "dr-peanut-qual-tamanho-compensa": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 4,
-    "datesOutsideBody": 5
-  },
-  "dr-peanut-reclame-aqui-nota-reputacao": {
-    "bodyDates": 19,
-    "datesOutsideBody": 17
   },
   "faqueiro-laguiole-la-maison-qual-escolher": {
     "transparencySection": true,
@@ -573,13 +533,6 @@
   "poltrona-damie-e-boa": {
     "datesOutsideBody": 2
   },
-  "poltrona-de-amamentacao-como-escolher": {
-    "bodyDates": 3,
-    "datesOutsideBody": 3
-  },
-  "poltrona-de-amamentacao-vs-poltrona-reclinavel": {
-    "datesOutsideBody": 3
-  },
   "porto-brasil-e-boa": {
     "bodyDates": 4,
     "datesOutsideBody": 3
@@ -601,11 +554,6 @@
   "presente-de-natal-insider-kits-gift-card": {
     "transparencySection": true,
     "bodyDates": 20
-  },
-  "presente-de-natal-para-casa-moveis": {
-    "transparencySection": true,
-    "bodyDates": 37,
-    "datesOutsideBody": 3
   },
   "presente-natal-quem-gosta-de-cozinhar": {
     "quickAnswerPrice": true,
@@ -686,23 +634,10 @@
   "sleepspray-kidz-iws-como-funciona-ritual-do-sono": {
     "bodyDates": 3
   },
-  "snacks-dr-peanut-qual-escolher": {
-    "quickAnswerPrice": true,
-    "transparencySection": true,
-    "bodyDates": 4,
-    "datesOutsideBody": 1
-  },
   "sofa-na-caixa-crise-reclamacoes-procon-sp": {
     "transparencySection": true,
     "bodyDates": 6,
     "datesOutsideBody": 2
-  },
-  "sofa-na-caixa-inflow-ou-damie": {
-    "bodyDates": 17,
-    "datesOutsideBody": 6
-  },
-  "sofa-na-caixa-ou-sofa-montado-qual-dura-mais": {
-    "bodyDates": 5
   },
   "sutia-de-silicone-invisivel-como-usar": {
     "quickAnswerPrice": true
@@ -729,11 +664,6 @@
   "undershirt-insider-qual-escolher-funciona": {
     "transparencySection": true,
     "bodyDates": 4
-  },
-  "valley-inflow-ou-damie": {
-    "transparencySection": true,
-    "bodyDates": 20,
-    "datesOutsideBody": 5
   },
   "vestido-de-festa-shein": {
     "bodyDates": 4

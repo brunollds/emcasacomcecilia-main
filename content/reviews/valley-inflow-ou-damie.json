@@ -1,4 +1,5 @@
 {
+  "bodyDatesReason": "reclame-aqui",
   "id": 613,
   "slug": "valley-inflow-ou-damie",
   "locale": "pt",
@@ -59,11 +60,11 @@
     {
       "heading": "Valley Modular é a mesma empresa que a Inflow?",
       "paragraphs": [
-        "Este guia compara três marcas de sofá modular que chega em caixa: a Valley Modular, a Inflow e a DAMIE. Os pontos são como o sofá chega e se monta, garantia, teste em casa, devolução, prazo, preço de modelos parecidos e Reclame Aqui, com o que cada marca publica no próprio site, lido em 25/10/2026. A DAMIE é parceira do site, e a Cecília tem o sofá modular dela em casa. Ninguém da equipe usou os sofás da Valley Modular nem da Inflow: elas entram só pela ficha, pela política e pelo preço.",
+        "Este guia compara três marcas de sofá modular que chega em caixa: a Valley Modular, a Inflow e a DAMIE. Os pontos são como o sofá chega e se monta, garantia, teste em casa, devolução, prazo, preço de modelos parecidos e Reclame Aqui, com o que cada marca publica no próprio site. A DAMIE é parceira do site, e a Cecília tem o sofá modular dela em casa. Ninguém da equipe usou os sofás da Valley Modular nem da Inflow: elas entram só pela ficha, pela política e pelo preço.",
         "A primeira dúvida de quem pesquisa é se a Valley Modular é a Inflow com outro nome. Não. São empresas diferentes:"
       ],
       "bullets": [
-        "**Valley Modular:** nome fantasia da Valley Art LTDA., CNPJ 30.105.567/0001-93, em Hortolândia (SP), ativa desde 04/04/2018, com atividade de fabricação de móveis. Vende nos domínios valleyart.com.br e valleymodular.com.br.",
+        "**Valley Modular:** nome fantasia da Valley Art LTDA., CNPJ 30.105.567/0001-93, em Hortolândia (SP), ativa desde 2018, com atividade de fabricação de móveis. Vende nos domínios valleyart.com.br e valleymodular.com.br.",
         "**Inflow:** Fast Living Comércio e Distribuição Ltda., em Itapeva (MG), ativa desde 2022.",
         "**DAMIE:** Damie Ltda., em Frederico Westphalen (RS), ativa desde 2014, como fábrica de móveis."
       ],
@@ -75,7 +76,7 @@
       "heading": "Como cada uma chega e se monta",
       "paragraphs": [
         "**Valley Modular e Inflow** usam a mesma logística: o sofá vai compactado a vácuo e expande depois que a caixa é aberta, sem ferramentas. Na Valley Modular, a linha modular se chama Modu, e a ficha descreve o sofá como \"100% espuma, sem madeira nem metal\", com espuma D33 Pró e capa removível; os módulos se unem por velcro. A marca também vende a linha Mood, um sofá-cama com a mesma construção em espuma, que fica fora desta comparação. Na Inflow, a espuma \"chega compactada na caixa e ganha forma diante dos seus olhos\", nas palavras da marca, e os módulos se ligam por encaixe.",
-        "**A DAMIE** não compacta o sofá: entrega módulos pré-estruturados, com estrutura de eucalipto, compensado naval e molas nosag, em caixas reforçadas. A montagem é por encaixe, em menos de 10 minutos, segundo a página do produto lida em 14/10/2026.",
+        "**A DAMIE** não compacta o sofá: entrega módulos pré-estruturados, com estrutura de eucalipto, compensado naval e molas nosag, em caixas reforçadas. A montagem é por encaixe, em menos de 10 minutos, segundo a página do produto.",
         "É a diferença central entre as três: de um lado, espuma que só mostra o tamanho e a firmeza depois de aberta; do outro, módulos que já chegam com estrutura de madeira. O que cada parte faz pela vida útil do sofá está em [Sofá na caixa ou sofá montado: qual dura mais?](/reviews/sofa-na-caixa-ou-sofa-montado-qual-dura-mais)."
       ],
       "images": [
@@ -98,10 +99,10 @@
     {
       "heading": "As três lado a lado",
       "paragraphs": [
-        "Regras publicadas por cada marca, lidas em 25/10/2026 (a estrutura e o peso suportado da DAMIE e da Inflow vêm da leitura de 14/10/2026). \"Não publica\" indica dado que não aparece nas páginas lidas."
+        "Regras publicadas por cada marca (a estrutura e o peso suportado da DAMIE e da Inflow vêm de uma leitura anterior). \"Não publica\" indica dado que não aparece nas páginas lidas."
       ],
       "comparisonTable": {
-        "caption": "Valley Modular, Inflow e DAMIE: regras publicadas em 25/10/2026",
+        "caption": "Valley Modular, Inflow e DAMIE: regras publicadas",
         "headers": [
           "",
           "Valley Modular",
@@ -181,11 +182,11 @@
     {
       "heading": "Quanto custa: 2 lugares e 3 lugares com apoio",
       "paragraphs": [
-        "Preços no cartão, lidos em 25/10/2026 nos sites das três. Os modelos não são idênticos: a DAMIE vende o modular com o puff incluído; na Valley Modular e na Inflow, o apoio de pé é um módulo a mais, e as linhas \"com apoio\" já trazem esse módulo no preço. O número de módulos muda de uma marca para a outra, e cada linha diz o tecido. A comparação é de ordem de grandeza, não de centavos."
+        "Preços no cartão, lidos nos sites das três. Os modelos não são idênticos: a DAMIE vende o modular com o puff incluído; na Valley Modular e na Inflow, o apoio de pé é um módulo a mais, e as linhas \"com apoio\" já trazem esse módulo no preço. O número de módulos muda de uma marca para a outra, e cada linha diz o tecido. A comparação é de ordem de grandeza, não de centavos."
       ],
       "image": "/images/reviews/damie/valley-inflow-ou-damie-precos-cartao.webp",
       "imageAlt": "Quadro com o preço no cartão do sofá de 2 e de 3 lugares da Valley Modular, da Inflow e da DAMIE em 25/10/2026.",
-      "imageCaption": "Preços no cartão em 25/10/2026; Pix e parcelas no texto.",
+      "imageCaption": "Preços no cartão; Pix e parcelas no texto.",
       "imageFit": "contain",
       "imageAspectRatio": 0.9685,
       "comparisonTable": {
@@ -244,7 +245,7 @@
         ]
       },
       "postParagraphs": [
-        "No Pix, a Valley Modular dá 5% e a Inflow e a DAMIE dão 10%; o parcelamento vai até 10x na Valley Modular e na Inflow e até 12x na DAMIE. Na DAMIE, o cupom CECILIA12 tira mais 12% e soma com o desconto do Pix. O sofá-cama Mood, da Valley Modular, saía por R$ 3.150 no 2 lugares e R$ 4.190 no 3 lugares em 25/10/2026, mas é outro tipo de sofá e não entra na conta.",
+        "No Pix, a Valley Modular dá 5% e a Inflow e a DAMIE dão 10%; o parcelamento vai até 10x na Valley Modular e na Inflow e até 12x na DAMIE. Na DAMIE, o cupom CECILIA12 tira mais 12% e soma com o desconto do Pix. O sofá-cama Mood, da Valley Modular, saía por R$ 3.150 no 2 lugares e R$ 4.190 no 3 lugares, mas é outro tipo de sofá e não entra na conta.",
         "No 3 lugares com apoio, a Inflow tem o menor preço no cartão (R$ 4.790, em bouclê) e a Valley Modular, o maior (R$ 5.986). No 2 lugares com apoio, a ordem é a mesma: Inflow (R$ 3.790), DAMIE (R$ 3.850, com o puff) e Valley Modular (R$ 4.175). O menor número da tabela é o Modu 2 lugares com 2 cantos sem apoio, R$ 3.189, que é um sofá menor, de 190 cm. Compare sempre cartão com cartão ou Pix com Pix, e some o frete: a Valley Modular não publica regra de frete grátis, e as outras duas só dão no Sul e no Sudeste."
       ]
     },
@@ -258,21 +259,21 @@
       ],
       "image": "/images/reviews/damie/valley-inflow-ou-damie-garantia-teste-devolucao-prazo.webp",
       "imageAlt": "Quadro com garantia, teste em casa, devolução por arrependimento e prazo da Valley Modular, da Inflow e da DAMIE, lidos em 25/10/2026.",
-      "imageCaption": "Garantia, teste em casa, devolução e prazo, como cada marca publica (leitura de 25/10/2026).",
+      "imageCaption": "Garantia, teste em casa, devolução e prazo, como cada marca publica.",
       "imageFit": "contain",
       "imageAspectRatio": 1.3311,
       "postParagraphs": [
-        "**O prazo da Valley Modular.** A marca produz sob encomenda (\"produzimos para pessoas, não para estoque\") e informa de 20 a 30 dias úteis de produção antes do envio, conforme a cor; o Modu lido em 25/10/2026 marcava 30 dias úteis. O transporte entra depois, pelo CEP. Na Inflow e na DAMIE, o prazo aparece no cálculo do frete; na DAMIE, ele conta da confirmação do pagamento. Na Inflow e na DAMIE, atraso na entrega é a queixa mais comum no Reclame Aqui, como mostra o guia de 14/10; a Valley Modular tem registros de menos para dizer.",
+        "**O prazo da Valley Modular.** A marca produz sob encomenda (\"produzimos para pessoas, não para estoque\") e informa de 20 a 30 dias úteis de produção antes do envio, conforme a cor; o Modu, na leitura, marcava 30 dias úteis. O transporte entra depois, pelo CEP. Na Inflow e na DAMIE, o prazo aparece no cálculo do frete; na DAMIE, ele conta da confirmação do pagamento. Na Inflow e na DAMIE, atraso na entrega é a queixa mais comum no Reclame Aqui, como mostra o guia de Sofá na Caixa, Inflow ou DAMIE; a Valley Modular tem registros de menos para dizer.",
         "Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, quem quer a chance de devolver por não gostar tem de decidir antes de abrir a caixa, na Valley Modular e na Inflow. Na DAMIE, a decisão pode esperar os 30 dias, com a embalagem guardada."
       ]
     },
     {
       "heading": "E a reputação das três no Reclame Aqui?",
       "paragraphs": [
-        "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026), lidos em 25/10/2026."
+        "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026)."
       ],
       "comparisonTable": {
-        "caption": "Reclame Aqui, últimos 6 meses (01/04 a 30/09/2026), lido em 25/10/2026",
+        "caption": "Reclame Aqui, últimos 6 meses",
         "headers": [
           "",
           "Valley Modular",
@@ -331,7 +332,7 @@
         ]
       },
       "postParagraphs": [
-        "A Valley Modular está sem reputação definida porque tem menos de 10 avaliações no período: foram 2 reclamações, 1 respondida e 1 aguardando resposta. No histórico geral da página, de 26/10/2023 a 25/10/2026, são 9 reclamações, 88,9% respondidas e 1 avaliada. A página traz o selo de empresa verificada, que confirma a existência da empresa e não é uma nota. Com tão poucos registros, o Reclame Aqui não diz muito sobre a Valley Modular, nem para bem nem para mal.",
+        "A Valley Modular está sem reputação definida porque tem menos de 10 avaliações no período: foram 2 reclamações, 1 respondida e 1 aguardando resposta. No histórico geral da página, são 9 reclamações, 88,9% respondidas e 1 avaliada. A página traz o selo de empresa verificada, que confirma a existência da empresa e não é uma nota. Com tão poucos registros, o Reclame Aqui não diz muito sobre a Valley Modular, nem para bem nem para mal.",
         "Entre as outras duas, a Inflow tem o melhor selo (RA1000) e a maior taxa de solução, 94,2%; a DAMIE tem selo Ótima e a resposta mais rápida, 13 horas. O selo mede atendimento e solução, não volume de vendas, e nenhuma das três publica quantos sofás vende."
       ]
     },
@@ -360,7 +361,7 @@
       "bullets": [
         "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso, desde que guarde a embalagem. Valley Modular e Inflow só dão os 7 dias do CDC, e a Inflow exige o produto lacrado.",
         "**Quem quer a garantia mais longa:** DAMIE, com 1 ano. A Valley Modular dá 6 meses e a Inflow, 3 meses.",
-        "**Quem quer o menor preço no cartão do 3 lugares com apoio:** Inflow, em bouclê, por R$ 4.790 em 25/10/2026. A DAMIE vem em R$ 5.100, com o puff incluído, e a Valley Modular é a mais cara nessa linha, R$ 5.986.",
+        "**Quem quer o menor preço no cartão do 3 lugares com apoio:** Inflow, em bouclê, por R$ 4.790. A DAMIE vem em R$ 5.100, com o puff incluído, e a Valley Modular é a mais cara nessa linha, R$ 5.986.",
         "**Quem quer o menor preço no cartão do 2 lugares com apoio:** Inflow, em bouclê bege, por R$ 3.790; a DAMIE vem em R$ 3.850, com o puff, e a Valley Modular em R$ 4.175. Se o apoio não importa, o Modu 2 lugares com 2 cantos da Valley Modular sai por R$ 3.189, num sofá de 190 cm.",
         "**Quem precisa de prazo previsível:** na Valley Modular, some de 20 a 30 dias úteis de produção ao frete antes de contar com a entrega. Na Inflow e na DAMIE, o prazo sai no cálculo do frete.",
         "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste; a Valley Modular calcula o frete pelo CEP, sem regra de frete grátis publicada. Em qualquer uma, confira o frete no carrinho antes de fechar."
@@ -373,18 +374,12 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Valley Modular é a mesma empresa que a Inflow ou a Sofá na Caixa? Não. A Valley Modular é o nome fantasia da Valley Art LTDA. (CNPJ 30.105.567/0001-93, Hortolândia, SP, ativa desde 2018). A Inflow é da Fast Living Comércio e Distribuição Ltda. (Itapeva, MG, desde 2022) e a Sofá na Caixa é outra empresa, de Rafard (SP). Cada uma tem site e regras próprios.",
-        "Valley Modular é confiável? A empresa tem CNPJ ativo desde 2018 e política de devolução publicada. No Reclame Aqui, de 01/04 a 30/09/2026, ela estava sem reputação definida, com 2 reclamações, 1 respondida e tempo de resposta de 24 dias: são poucos registros para avaliar o atendimento, nem para bem nem para mal. A garantia é de 6 meses, informada na ficha do produto e no FAQ da loja.",
-        "Valley Modular ou DAMIE: qual vale mais a pena? Depende do que pesa. A DAMIE dá 30 dias de teste em casa com coleta e 1 ano de garantia; a Valley Modular dá os 7 dias do CDC e 6 meses de garantia. No cartão, em 25/10/2026, a DAMIE com puff ficava abaixo da Valley Modular com apoio nas duas linhas: R$ 3.850 contra R$ 4.175 no 2 lugares e R$ 5.100 contra R$ 5.986 no 3 lugares.",
+        "Valley Modular é confiável? A empresa tem CNPJ ativo desde 2018 e política de devolução publicada. No Reclame Aqui, nos últimos 6 meses, ela estava sem reputação definida, com 2 reclamações, 1 respondida e tempo de resposta de 24 dias: são poucos registros para avaliar o atendimento, nem para bem nem para mal. A garantia é de 6 meses, informada na ficha do produto e no FAQ da loja.",
+        "Valley Modular ou DAMIE: qual vale mais a pena? Depende do que pesa. A DAMIE dá 30 dias de teste em casa com coleta e 1 ano de garantia; a Valley Modular dá os 7 dias do CDC e 6 meses de garantia. No cartão, a DAMIE com puff ficava abaixo da Valley Modular com apoio nas duas linhas: R$ 3.850 contra R$ 4.175 no 2 lugares e R$ 5.100 contra R$ 5.986 no 3 lugares.",
         "Valley Modular ou Inflow: qual tem a garantia maior? A Valley Modular, com 6 meses na ficha do produto. A Inflow informa 3 meses na ficha e 90 dias para relatar defeito na política, o mesmo prazo. Nas duas, a devolução por arrependimento segue os 7 dias do CDC, e a Inflow só aceita o produto lacrado.",
         "Posso devolver o sofá da Valley Modular depois de abrir? A política publicada fala em 7 dias, na embalagem original e sem sinais de mau uso, por defeito, modelo errado ou medida errada; ela não trata do sofá já expandido nem diz quem paga o frete de volta. Antes de abrir a caixa, confirme com a loja como fica a devolução do sofá expandido.",
         "Quanto tempo leva para chegar um sofá da Valley Modular? A marca produz sob encomenda e informa de 20 a 30 dias úteis de produção antes do envio. O transporte entra depois, com o prazo calculado pelo CEP no carrinho.",
         "A DAMIE também é sofá na caixa? Chega em caixas reforçadas, mas não com espuma compactada: são módulos com estrutura de madeira que se ligam por encaixe, em menos de 10 minutos, segundo a página do produto. O teste de 30 dias vale com a embalagem guardada."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "A DAMIE é parceira do site: podemos receber comissão pelas compras feitas com o cupom CECILIA12. A Valley Modular e a Inflow não são parceiras: não há link, cupom, foto nem print delas neste texto. Ninguém da equipe usou os sofás das duas; a comparação usa o que cada marca publica, com a data da leitura."
       ]
     }
   ]

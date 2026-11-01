@@ -34,7 +34,7 @@
       "heading": "Como comparamos, sem degustação",
       "paragraphs": [
         "Este guia compara a Dr. Peanut com a La Ganexa pelo que as duas lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de cupom. Ninguém da equipe provou as pastas, então sabor e textura ficam de fora.",
-        "Os preços são de 25/10/2026, sem frete e no preço \"por\" de cada site. A tabela da Dr. Peanut é a publicada pela loja, lida em 16/10/2026; a da La Ganexa, lida em 24/10/2026. Os números por 100 g e os preços com cupom são contas nossas.",
+        "Os preços são de 25/10/2026, sem frete e no preço \"por\" de cada site. A tabela da Dr. Peanut é a publicada pela loja; a da La Ganexa, a publicada pelo site dela. Os números por 100 g e os preços com cupom são contas nossas.",
         "As duas lojas usam porções diferentes no rótulo: 15 g na Dr. Peanut e 20 g na La Ganexa. Por isso o texto compara sempre por 100 g, e não por pote nem por porção."
       ]
     },
@@ -53,7 +53,7 @@
         ],
         "rows": [
           [
-            "Sabores à venda em 25/10/2026",
+            "Sabores à venda",
             "10",
             "13"
           ],
@@ -85,7 +85,7 @@
         ]
       },
       "postParagraphs": [
-        "Na Dr. Peanut, Banoffee e Beijinho saem só no pote de 600 g, e o Doce de Leite só no de 250 g. Na La Ganexa, Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal existem só em 450 g. A página da La Ganexa lida em 24/10/2026 não mostrava a tabela do Cookies, só os ingredientes, então ele fica fora da tabela por sabor."
+        "Na Dr. Peanut, Banoffee e Beijinho saem só no pote de 600 g, e o Doce de Leite só no de 250 g. Na La Ganexa, Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal existem só em 450 g. A página da La Ganexa não mostrava a tabela do Cookies, só os ingredientes, então ele fica fora da tabela por sabor."
       ]
     },
     {
@@ -203,8 +203,8 @@
     {
       "heading": "Preço por 100 g",
       "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-quadro-preco-100g.webp",
-      "imageAlt": "Quadro com o preço por 100 g da Dr. Peanut (250 g e 600 g) e da La Ganexa (450 g e 1 kg), com os preços de 25/10/2026",
-      "imageCaption": "Preço por 100 g, conta nossa com os preços do site em 25/10/2026. Com o cupom, a Dr. Peanut sai a R$ 9,32 (250 g) e R$ 8,98 (600 g).",
+      "imageAlt": "Quadro com o preço por 100 g da Dr. Peanut (250 g e 600 g) e da La Ganexa (450 g e 1 kg), com os preços do site",
+      "imageCaption": "Preço por 100 g, conta nossa com os preços do site. Com o cupom, a Dr. Peanut sai a R$ 9,32 (250 g) e R$ 8,98 (600 g).",
       "imageFit": "contain",
       "imageAspectRatio": 1.3333,
       "comparisonTable": {
@@ -244,7 +244,7 @@
     {
       "heading": "Onde cada uma ganha",
       "paragraphs": [
-        "Pelos rótulos e pelos preços de 25/10/2026:"
+        "Pelos rótulos e pelos preços:"
       ],
       "bullets": [
         "Quer pasta só de amendoim, vegana ou sem lactose: La Ganexa, com a Natural, a Crocante e a Avelã Vegana. Nenhuma pasta da Dr. Peanut é sem lactose.",
@@ -266,14 +266,6 @@
         "Qual pasta de amendoim não tem lactose? Entre as duas marcas, só a La Ganexa tem: a Natural, a Crocante e a Avelã Vegana, que dizem \"NÃO CONTÉM LACTOSE\". As dez pastas da Dr. Peanut contêm lactose.",
         "Qual sai mais barata por 100 g? No pote grande, a La Ganexa de 1 kg, na maioria dos sabores, mesmo contra a Dr. Peanut com o cupom. No pote pequeno com sabor de sobremesa, a Dr. Peanut de 250 g, a R$ 9,32 por 100 g com o cupom.",
         "A La Ganexa tem cupom do site? Não. A La Ganexa não é parceira do site, e este texto não traz cupom dela. O cupom DREMCASACOMCECILIA é da Dr. Peanut."
-      ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Este é um artigo de parceria comissionada com a Dr. Peanut. Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA. A La Ganexa não é parceira do site: não há link nem cupom dela, e ela entra só pelo rótulo e pelo preço que a loja publica.",
-        "Fontes: tabela nutricional, ingredientes e preços publicados pela Dr. Peanut, com os preços reconferidos em 25/10/2026 e a tabela por sabor lida em 16/10/2026; tabela nutricional, ingredientes e catálogo da La Ganexa, lidos em 24/10/2026 e com os preços reconferidos em 25/10/2026.",
-        "Ninguém da equipe provou os produtos. Este texto mostra o que o rótulo e o preço dizem; não é orientação de nutricionista nem de médico. Preço e estoque mudam: confira no site antes de comprar."
       ]
     }
   ],

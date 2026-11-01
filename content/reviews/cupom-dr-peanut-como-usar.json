@@ -49,8 +49,8 @@
       ],
       "image": {
         "src": "/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
-        "alt": "Carrinho da Dr. Peanut em 13/10/2026 com o cupom DREMCASACOMCECILIA digitado e, depois, aplicado",
-        "caption": "O carrinho do nosso teste de 13/10/2026: o código digitado e, depois, aplicado.",
+        "alt": "Carrinho da Dr. Peanut com o cupom DREMCASACOMCECILIA digitado e, depois, aplicado",
+        "caption": "O carrinho do nosso teste: o código digitado e, depois, aplicado.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
@@ -66,11 +66,11 @@
       "paragraphs": [
         "Escolha os produtos normalmente e vá para o carrinho. Nele aparecem a lista de itens, com quantidade e preço, e, à direita, o resumo com o **Subtotal**, o **Total** e o campo **\"Código\"**, sob o texto \"Insira o seu cupom abaixo\", com o botão **\"Adicionar\"**.",
         "No nosso teste de 13/10/2026, o carrinho tinha três itens, entre eles uma pasta de amendoim em promoção (de R$ 64,90 por R$ 59,89). O subtotal, antes do cupom, era de R$ 440,16.",
-        "No topo do carrinho há uma faixa laranja sobre o frete grátis: o valor total da compra, já com o cupom aplicado, precisa ser igual ou superior a R$ 149,90 (valor que o carrinho mostrava em 13/10/2026). O mínimo de cada região está na seção de frete, mais abaixo."
+        "No topo do carrinho há uma faixa laranja sobre o frete grátis: o valor total da compra, já com o cupom aplicado, precisa ser igual ou superior a R$ 149,90 (valor que o carrinho mostrava no teste). O mínimo de cada região está na seção de frete, mais abaixo."
       ],
       "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
       "imageAlt": "Carrinho da Dr. Peanut antes do cupom, com três itens, Subtotal e Total de R$ 440,16, o campo do cupom e a faixa do frete grátis no topo",
-      "imageCaption": "Carrinho da Dr. Peanut em 13/10/2026, antes do cupom: os três itens, o Subtotal e o Total de R$ 440,16, o campo do cupom, sob \"Insira o seu cupom abaixo\", e a faixa do frete grátis no topo. O marca-texto amarelo é nosso.",
+      "imageCaption": "Carrinho da Dr. Peanut antes do cupom: os três itens, o Subtotal e o Total de R$ 440,16, o campo do cupom, sob \"Insira o seu cupom abaixo\", e a faixa do frete grátis no topo. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.6075
     },
@@ -82,7 +82,7 @@
       ],
       "image": "/images/reviews/dr-peanut/dr-peanut-cupom-02-codigo-digitado.webp",
       "imageAlt": "Campo do cupom da Dr. Peanut, sob o texto Insira o seu cupom abaixo, com o DREMCASACOMCECILIA digitado e o Total ainda em R$ 440,16",
-      "imageCaption": "O campo do cupom, sob \"Insira o seu cupom abaixo\", com o DREMCASACOMCECILIA digitado, em 13/10/2026, antes de clicar em \"Adicionar\". O Total ainda marca R$ 440,16. O marca-texto amarelo é nosso.",
+      "imageCaption": "O campo do cupom, sob \"Insira o seu cupom abaixo\", com o DREMCASACOMCECILIA digitado, antes de clicar em \"Adicionar\". O Total ainda marca R$ 440,16. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.756
     },
@@ -90,7 +90,7 @@
       "heading": "4. Confira a linha \"Descontos\" antes de pagar",
       "paragraphs": [
         "Com o cupom aceito, o resumo muda: o código aparece ao lado de \"Cupom de desconto\", com um **×** ao lado, e entra a linha **\"Descontos\"**, com o valor abatido em reais. O Total passa a mostrar o valor já com o desconto.",
-        "No nosso teste de 13/10/2026, o Subtotal de R$ 440,16 ganhou **R$ 44,02 de desconto** e o Total ficou em **R$ 396,14**. Os R$ 44,02 correspondem a 10% do Subtotal.",
+        "No mesmo teste, o Subtotal de R$ 440,16 ganhou **R$ 44,02 de desconto** e o Total ficou em **R$ 396,14**. Os R$ 44,02 correspondem a 10% do Subtotal.",
         "Antes de clicar em \"Continuar pagamento\", confira estes pontos:"
       ],
       "bullets": [
@@ -100,14 +100,14 @@
       ],
       "image": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
       "imageAlt": "Resumo do carrinho da Dr. Peanut depois do cupom: código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ 44,02 e Total de R$ 396,14",
-      "imageCaption": "Resumo do carrinho em 13/10/2026 depois do cupom: o código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14. O marca-texto amarelo é nosso.",
+      "imageCaption": "Resumo do carrinho depois do cupom: o código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.0423
     },
     {
       "heading": "O cupom vale em produto em promoção?",
       "paragraphs": [
-        "Sim. O **DREMCASACOMCECILIA** soma com as promoções do site. No nosso teste de 13/10/2026, o carrinho tinha a pasta de amendoim Bombom Italiano em promoção: o Subtotal já trazia o preço promocional (R$ 59,89), e o cupom tirou R$ 44,02, 10% do Subtotal."
+        "Sim. O **DREMCASACOMCECILIA** soma com as promoções do site. No nosso teste, o carrinho tinha a pasta de amendoim Bombom Italiano em promoção: o Subtotal já trazia o preço promocional (R$ 59,89), e o cupom tirou R$ 44,02, 10% do Subtotal."
       ]
     },
     {
@@ -116,7 +116,7 @@
         "A Dr. Peanut dá frete grátis a partir de um valor mínimo, que depende de onde você mora. Em 14/10/2026, a política da loja era esta:"
       ],
       "comparisonTable": {
-        "caption": "Frete grátis da Dr. Peanut por região em 14/10/2026",
+        "caption": "Frete grátis da Dr. Peanut por região",
         "headers": [
           "Região",
           "Frete grátis a partir de"
@@ -141,7 +141,7 @@
     {
       "heading": "O que comprar com o cupom",
       "paragraphs": [
-        "O cupom vale em todo o site. Em 14/10/2026, o menu da Dr. Peanut traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores."
+        "O cupom vale em todo o site. O menu da Dr. Peanut traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores."
       ],
       "bullets": [
         "**Whey:** inclusive o \"100% Whey Dr. Peanut 900g - Max Titanium\". O nome das duas marcas aparece porque elas são do mesmo grupo, como explicamos em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel)."
@@ -153,7 +153,7 @@
     {
       "heading": "Se precisar trocar",
       "paragraphs": [
-        "Compra feita no site oficial segue a Política de Trocas e Devoluções da loja. Em 14/10/2026, ela separa três situações:"
+        "Compra feita no site oficial segue a Política de Trocas e Devoluções da loja. Ela separa três situações:"
       ],
       "bullets": [
         "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. A loja paga a devolução.",
@@ -171,7 +171,7 @@
         "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para quem cria a conta agora quanto para quem já comprou.",
         "O cupom da Dr. Peanut vale em produto em promoção? Sim. No nosso teste, o cupom tirou 10% do subtotal, que já incluía uma pasta de amendoim em promoção.",
         "O cupom vale em todas as formas de pagamento? Sim. O DREMCASACOMCECILIA vale em todas as formas de pagamento da loja e soma com as promoções do site.",
-        "O cupom da Dr. Peanut dá frete grátis? Não por si só: o cupom dá 10% de desconto, e o frete grátis é uma regra à parte da loja. Começa em R$ 149,90 em São Paulo capital, Sudeste e Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom (política em 14/10/2026).",
+        "O cupom da Dr. Peanut dá frete grátis? Não por si só: o cupom dá 10% de desconto, e o frete grátis é uma regra à parte da loja. Começa em R$ 149,90 em São Paulo capital, Sudeste e Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom.",
         "Tem cupom para pasta de amendoim Dr. Peanut? Sim. O DREMCASACOMCECILIA vale em todo o site, então vale nas pastas de amendoim, inclusive nas que estão em promoção. As condições atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut).",
         "Onde o cupom vale? No site oficial da Dr. Peanut, o drpeanut.com.br, onde o código é digitado no carrinho."
       ]

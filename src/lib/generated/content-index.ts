@@ -31172,7 +31172,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/damie-reclame-aqui-hero.webp",
           "alt": "Painel do Reclame Aqui da Damie Móveis mostrando nota 8.0 e reputação Ótimo.",
-          "caption": "Painel da Damie Móveis no Reclame Aqui, consultado em junho de 2026.",
+          "caption": "Painel da Damie Móveis no Reclame Aqui.",
           "objectFit": "contain",
           "aspectRatio": 0.8664
         }
@@ -31249,10 +31249,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a nota da Damie no Reclame Aqui? A Damie Móveis tem nota 8,0/10 no Reclame Aqui (consultado em junho de 2026), com classificação Ótimo. A empresa responde 100% das reclamações recebidas e resolve 81,7% delas. A nota é calculada com janela móvel de 6 meses e pode variar.",
+          "Qual a nota da Damie no Reclame Aqui? A Damie Móveis tem nota 8,0/10 no Reclame Aqui, com classificação Ótimo. A empresa responde 100% das reclamações recebidas e resolve 81,7% delas. A nota é calculada com janela móvel de 6 meses e pode variar.",
           "O que aparece nas reclamações da Damie? A maioria dos 324 casos registrados envolve logística de transportadoras terceirizadas — atraso ou dificuldade de subir volumes grandes em escadas e elevadores pequenos. Em menor escala, há relatos de variação de odor ou textura em revestimentos de couro bovino original.",
           "A nota 8,0 da Damie é boa para o setor de móveis online? Sim. No setor de móveis e estofados vendidos pela internet, é comum encontrar marcas com notas na faixa de regular ou insuficiente no Reclame Aqui. A nota 8,0 com classificação Ótimo, resposta de 100% e tempo médio de resposta de 14 horas coloca a Damie acima da média do setor.",
-          "A Damie resolve reclamações? Segundo os dados do Reclame Aqui de junho de 2026, a Damie responde 100% das reclamações e resolve 81,7% delas, com 70,9% dos consumidores afirmando que voltariam a fazer negócio com a marca.",
+          "A Damie resolve reclamações? Segundo os dados do Reclame Aqui, a Damie responde 100% das reclamações e resolve 81,7% delas, com 70,9% dos consumidores afirmando que voltariam a fazer negócio com a marca.",
           "É possível desistir ou cancelar uma compra da Damie? Sim. Além dos 30 dias de teste garantidos por lei e pela própria política da empresa, a taxa de arrependimento, cancelamento ou desistência registrada no Reclame Aqui é praticamente nula. Isso indica que a maioria dos consumidores que compram pelo site ficam satisfeitos e não acionam a devolução.",
           "A Damie é confiável para comprar sofá pela internet? Sim, com ressalvas de planejamento. A Damie possui nota 8,0/10 no Reclame Aqui, classificação 'Ótimo', responde 100% das reclamações e resolve mais de 80% dos casos. O principal risco não é fraude, mas a logística de entrega: móveis grandes dependem de transportadoras terceirizadas e exigem que o cliente meça corredores e elevadores antes da compra.",
           "Quanto tempo a Damie demora para entregar? O prazo varia conforme a região e o tipo de produto. Para capitais e regiões metropolitanas, a entrega costuma ocorrer em 7 a 15 dias úteis. Para cidades do interior, pode ultrapassar 20 dias úteis. A Damie trabalha com transportadora especializada e o rastreamento é enviado por e-mail após o despacho.",
@@ -31262,20 +31262,9 @@ export const reviewsData: unknown[] = [
           "Cupom Damie 15: existe cupom de 15%? O CECILIA12 garante 12% de desconto sem limitação de data ou evento, enquanto cupons de 15% podem ser sazonais e limitados. Recomendamos sempre testar o CECILIA12 no checkout para comparar qual oferece o maior desconto naquele momento.",
           "Cupom Damie primeira compra: o CECILIA12 funciona? Sim, o cupom CECILIA12 funciona para primeira compra e compras subsequentes no site oficial da Damie, sem limite de uso por CPF, desde que esteja dentro das condições vigentes."
         ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este artigo contém promoção afiliada. Se você já decidiu comprar e quiser usar nosso cupom, ele está disponível na página de cupom da Cecília. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
-        ],
-        "links": [
-          {
-            "label": "Ver cupom CECILIA12",
-            "href": "/cupons/damie"
-          }
-        ]
       }
-    ]
+    ],
+    "editorialNote": "Dados do painel público do Reclame Aqui. A DAMIE é parceira: podemos receber comissão pelo CECILIA12."
   },
   {
     "id": 17,
@@ -53088,7 +53077,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As três faixas de preço, da poltrona barata à reclinável elétrica",
         "paragraphs": [
-          "No mercado, a poltrona de amamentação se divide em três grupos. Não existe um certo para todo mundo: depende do orçamento, do espaço e de quanto tempo você pretende usar a poltrona depois que a fase de amamentação passar. Os preços abaixo foram consultados em 6 de outubro de 2026 e mudam com frequência.",
+          "No mercado, a poltrona de amamentação se divide em três grupos. Não existe um certo para todo mundo: depende do orçamento, do espaço e de quanto tempo você pretende usar a poltrona depois que a fase de amamentação passar. Os preços abaixo mudam com frequência.",
           "Poltrona fixa com puff. É a porta de entrada. Um exemplo é a poltrona com puff da Dreamy House vendida na Amazon: estrutura de eucalipto, revestimento em suede, puff com pés de rosca, sem balanço, por R$ 469 (R$ 445,55 no Pix). Atende quem precisa gastar pouco, mas a garantia do fabricante é de 3 meses, e há avaliações de compradores relatando assento que deforma rápido. Leia as avaliações antes de decidir.",
           "Poltrona com balanço e puff. É a mais procurada nos marketplaces. No Mercado Livre, a maioria dos modelos com balanço e puff estava entre R$ 550 e R$ 1.000. A Áquila, com balanço e puff, é um dos modelos mais conhecidos e custava R$ 862 na versão bege. Antes de comprar, compare medidas, revestimento, prazo de garantia e as avaliações sobre barulho no balanço.",
           "Reclinável elétrica com giro e balanço. É o grupo da DAMIE, que vende a reclinável elétrica com base de giro e balanço nas versões 1.0 e 2.0, de R$ 4.299 a R$ 5.699 conforme o revestimento. Você reclina o encosto e levanta o apoio de pés por botão, sem fazer força, até 145°, e ainda tem giro de 180° e balanço. A marca dá 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. Custa bem mais, e a lógica é outra. A poltrona de amamentação tradicional costuma ser usada por um ou dois anos e depois fica no quarto da criança como decoração. A reclinável continua na sala depois da amamentação e, com opcionais como mesa de apoio, luminária e carregador de celular, vira canto de trabalho, leitura ou cinema."
@@ -53156,14 +53145,14 @@ export const reviewsData: unknown[] = [
           {
             "src": "https://m.media-amazon.com/images/I/51w-91cpCIL._AC_SL1000_.jpg",
             "alt": "Poltrona de amamentação fixa com puff, em suede bege, sem ninguém",
-            "caption": "Fixa com puff (Amazon): R$ 469 em 6/10/2026, sem balanço. Foto do anúncio na Amazon.",
+            "caption": "Fixa com puff (Amazon): R$ 469, sem balanço. Foto do anúncio na Amazon.",
             "objectFit": "contain",
             "aspectRatio": 1
           },
           {
             "src": "/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
             "alt": "Poltrona de amamentação Áquila com base de balanço e puff, em um quarto de bebê, sem ninguém",
-            "caption": "Áquila com balanço e puff (Mercado Livre): R$ 862 em 6/10/2026. Foto do anúncio.",
+            "caption": "Áquila com balanço e puff (Mercado Livre): R$ 862. Foto do anúncio.",
             "objectFit": "contain",
             "aspectRatio": 1
           },
@@ -53187,7 +53176,7 @@ export const reviewsData: unknown[] = [
         "heading": "Nota: uma poltrona com puff mais luxuosa, a Aurora da DAMIE",
         "paragraphs": [
           "Se você gosta do formato de poltrona com puff, mas quer algo mais premium, a DAMIE tem a Aurora. Ela é uma poltrona reclinável manual, acionada por uma alavanca lateral, com base giratória de 360° e puff separado incluso. O revestimento é couro bovino ou linho italiano, e a marca informa suporte para até 130 kg.",
-          "Para amamentar, ela atende ao básico: braços, encosto alto e apoio para os pés. A página da marca não cita balanço, e a reclinação é manual, então ela não tem o embalo nem o ajuste por botão das reclináveis com giro e balanço. É uma escolha para quem prioriza o design e quer uma poltrona que pareça peça de sala desde o primeiro dia. Em 7 de outubro de 2026, custava de R$ 5.400 a R$ 6.400, e o cupom CECILIA12 também vale para ela."
+          "Para amamentar, ela atende ao básico: braços, encosto alto e apoio para os pés. A página da marca não cita balanço, e a reclinação é manual, então ela não tem o embalo nem o ajuste por botão das reclináveis com giro e balanço. É uma escolha para quem prioriza o design e quer uma poltrona que pareça peça de sala desde o primeiro dia. No site da marca, custava de R$ 5.400 a R$ 6.400, e o cupom CECILIA12 também vale para ela."
         ],
         "images": [
           {
@@ -53266,7 +53255,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Poltrona de amamentação precisa ter balanço? Não. O balanço ajuda a ninar e muitos bebês relaxam com ele, mas braço firme, apoio para as costas e assento na altura certa importam mais. Uma poltrona fixa bem escolhida resolve a amamentação.",
           "Poltrona de amamentação com puff ou reclinável? Com puff é mais barata e atende bem à fase de amamentação, mas o puff solto ocupa chão. A reclinável custa mais, recolhe o apoio de pés e continua útil na sala depois. Depende do orçamento, do espaço e do uso que você quer dar a ela depois.",
-          "Quanto custa uma poltrona de amamentação? Em 6 de outubro de 2026, havia poltrona fixa com puff a partir de R$ 469 na Amazon, modelos com balanço e puff entre R$ 550 e R$ 1.000 no Mercado Livre e reclináveis elétricas com giro e balanço da DAMIE de R$ 4.299 a R$ 5.699.",
+          "Quanto custa uma poltrona de amamentação? Na consulta de preços, havia poltrona fixa com puff a partir de R$ 469 na Amazon, modelos com balanço e puff entre R$ 550 e R$ 1.000 no Mercado Livre e reclináveis elétricas com giro e balanço da DAMIE de R$ 4.299 a R$ 5.699.",
           "Qual o melhor tecido para poltrona de amamentação? O mais fácil de limpar é o corino, que sai com pano úmido. Em cidade quente, o linho é mais fresco, mas mancha com mais facilidade. O ideal é escolher pelo clima e manter um paninho no braço da poltrona.",
           "Tem poltrona de amamentação para quarto pequeno? Tem. Procure modelos compactos e meça o espaço com a poltrona aberta. Com puff, conte o espaço do puff no chão; na reclinável, conte o comprimento reclinada e a folga para girar.",
           "Vale a pena comprar poltrona de amamentação usada? Pode valer, desde que você teste ao vivo: balanço ou reclinação sem barulho, espuma firme, tecido sem manchas e, se for elétrica, motor funcionando nas duas direções.",
@@ -53415,7 +53404,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual reclinável da DAMIE escolher para amamentar",
         "paragraphs": [
-          "A DAMIE vende a mesma poltrona reclinável com quatro bases diferentes, nas versões 1.0 e 2.0. Para amamentar, a escolha está mais na base do que no modelo. Os preços abaixo foram consultados em 7 de outubro de 2026 e variam conforme o revestimento."
+          "A DAMIE vende a mesma poltrona reclinável com quatro bases diferentes, nas versões 1.0 e 2.0. Para amamentar, a escolha está mais na base do que no modelo. Os preços abaixo variam conforme o revestimento."
         ],
         "comparisonTable": {
           "caption": "Bases da reclinável DAMIE, segundo a tabela da marca, com preços consultados em 7 de outubro de 2026.",
@@ -53514,14 +53503,14 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
             "alt": "Poltrona de amamentação Áquila com base de balanço e puff, em um quarto de bebê, sem ninguém",
-            "caption": "Áquila com balanço e puff (Mercado Livre): R$ 862 em 6/10/2026. Foto do anúncio.",
+            "caption": "Áquila com balanço e puff (Mercado Livre): R$ 862. Foto do anúncio.",
             "objectFit": "contain",
             "aspectRatio": 1
           },
           {
             "src": "https://m.media-amazon.com/images/I/51w-91cpCIL._AC_SL1000_.jpg",
             "alt": "Poltrona de amamentação fixa com puff, em suede bege, sem ninguém",
-            "caption": "Fixa com puff (Amazon): R$ 469 em 6/10/2026, sem balanço. Foto do anúncio na Amazon.",
+            "caption": "Fixa com puff (Amazon): R$ 469, sem balanço. Foto do anúncio na Amazon.",
             "objectFit": "contain",
             "aspectRatio": 1
           }
@@ -53591,7 +53580,7 @@ export const reviewsData: unknown[] = [
           "Qual a diferença entre poltrona de amamentação e reclinável? A de amamentação tem encosto fixo, braços largos e, muitas vezes, balanço e puff. A reclinável deita o encosto e sobe o apoio de pés, e pode ter base fixa ou de giro e balanço.",
           "Reclinável manual ou elétrica para amamentar? Elétrica. Com o bebê no colo, reclinar e fechar o apoio de pés pelo botão é mais fácil e mais suave do que usar uma alavanca e empurrar o apoio com as pernas.",
           "Existe poltrona de amamentação reclinável? Existe. Os marketplaces vendem poltronas de amamentação com encosto de algumas posições e puff, geralmente de reclinação manual. Elas ficam no meio do caminho, em preço e em recursos.",
-          "Qual poltrona DAMIE é melhor para amamentação? A reclinável elétrica com base de giro e balanço, que a própria marca indica para amamentação. Ela reclina até 145°, gira 180° e balança, e custava de R$ 4.299 a R$ 5.699 em 7 de outubro de 2026.",
+          "Qual poltrona DAMIE é melhor para amamentação? A reclinável elétrica com base de giro e balanço, que a própria marca indica para amamentação. Ela reclina até 145°, gira 180° e balança, e custava de R$ 4.299 a R$ 5.699 na consulta de preços.",
           "DAMIE 1.0 ou 2.0? Na data da consulta, as duas tinham o mesmo preço. A 2.0 traz almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés.",
           "O cupom CECILIA12 vale para as poltronas reclináveis da DAMIE? Vale. O CECILIA12 dá 12% OFF em todo o site da DAMIE, em qualquer base e revestimento, e soma com as promoções e brindes ativos, mas não com outro cupom."
         ]
@@ -53875,6 +53864,7 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
+    "bodyDatesReason": "campanha",
     "id": 331,
     "slug": "black-friday-damie",
     "title": "Black Friday DAMIE 2026: poltrona reclinável e sofá com o cupom CECILIA12",
@@ -53924,15 +53914,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. A DAMIE anunciou a campanha antes da data, e o que ela mostrava em outubro ajuda a conferir se a oferta é boa.",
           "Não encontramos anúncio oficial da DAMIE sobre Black Friday em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
-          "O que dá para mostrar é o que a DAMIE oferecia antes da campanha. Em 8 de outubro de 2026, a faixa do site prometia 10% de desconto no Pix à vista, até 12x sem juros, 15% de giftback em 45 dias, frete grátis para o Sul e o Sudeste e 30 dias para trocar ou devolver. As reclináveis estavam com R$ 1.000 de desconto e vinham com carregador USB e porta-copos de brinde, que o site põe sozinho no carrinho de qualquer poltrona reclinável ou cinema.",
-          "Em 2026, a DAMIE anunciou a campanha antes da data: a seção abaixo traz o que a página de ofertas mostrava em 23 de outubro."
+          "O que dá para mostrar é o que a DAMIE oferecia antes da campanha. Antes da campanha, a faixa do site prometia 10% de desconto no Pix à vista, até 12x sem juros, 15% de giftback em 45 dias, frete grátis para o Sul e o Sudeste e 30 dias para trocar ou devolver. As reclináveis estavam com R$ 1.000 de desconto e vinham com carregador USB e porta-copos de brinde, que o site põe sozinho no carrinho de qualquer poltrona reclinável ou cinema.",
+          "Em 2026, a DAMIE anunciou a campanha antes da data: a seção abaixo traz o que a página de ofertas mostrava."
         ]
       },
       {
         "heading": "O que a DAMIE anunciou para a Black Friday 2026",
         "paragraphs": [
-          "Em 23 de outubro de 2026, o site da DAMIE abria com a faixa \"A Black Friday chegou antes\", e a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) listava as condições da campanha. Todas valem só até 27 de novembro, o dia da Black Friday. A Cyber Monday, em 30 de novembro, fica depois desse prazo.",
-          "Os preços de venda das poltronas, do sofá e da Poltrona Cinema eram os mesmos de 8 de outubro. Por isso, o desconto de R$ 1.000 nas poltronas não é novo: é o que já vinha no preço em outubro. O que mudou foi o brinde, que agora inclui a massagem."
+          "Na leitura da campanha, o site da DAMIE abria com a faixa \"A Black Friday chegou antes\", e a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) listava as condições da campanha. Todas valem só até o dia da Black Friday. A Cyber Monday fica depois desse prazo.",
+          "Os preços de venda das poltronas, do sofá e da Poltrona Cinema eram os mesmos de antes da campanha. Por isso, o desconto de R$ 1.000 nas poltronas não é novo: é o que já vinha no preço em outubro. O que mudou foi o brinde, que agora inclui a massagem."
         ],
         "bullets": [
           "**Brindes na compra de uma poltrona:** sistema de massagem, entrada USB (tipo A e tipo C) e porta-copos.",
@@ -53944,7 +53934,7 @@ export const reviewsData: unknown[] = [
           "**Cupom:** a página diz que só entra 1 cupom por compra e por CPF, e que o cupom não anula os 10% do Pix."
         ],
         "comparisonTable": {
-          "caption": "Acessórios com preço de campanha na página de ofertas da DAMIE em 23 de outubro de 2026. Valem até 27/11 e podem mudar sem aviso.",
+          "caption": "Acessórios com preço de campanha na página de ofertas da DAMIE. Valem até 27/11 e podem mudar sem aviso.",
           "headers": [
             "Acessório",
             "De",
@@ -53988,18 +53978,18 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Preços de outubro de 2026 para comparar",
+        "heading": "Preços de outubro para comparar",
         "paragraphs": [
-          "Estes eram os preços das poltronas reclináveis no site da DAMIE em 8 de outubro de 2026. As versões 1.0 e 2.0 tinham o mesmo preço, que muda conforme o revestimento: a tabela mostra o de suede, bouclé e linho, os mais baratos, e o de couro, o mais caro."
+          "Estes eram os preços das poltronas reclináveis no site da DAMIE antes da campanha. As versões 1.0 e 2.0 tinham o mesmo preço, que muda conforme o revestimento: a tabela mostra o de suede, bouclé e linho, os mais baratos, e o de couro, o mais caro."
         ],
         "comparisonTable": {
           "caption": "Poltronas reclináveis DAMIE 1.0 e 2.0 no site oficial em 8 de outubro de 2026, em suede, bouclé ou linho. O corino custava de R$ 80 a R$ 100 a mais; o couro está na última coluna. Os preços mudam sem aviso.",
           "headers": [
             "Base",
             "Preço cheio",
-            "Em 8/10/2026",
+            "Em outubro",
             "À vista no Pix",
-            "Em couro, em 8/10"
+            "Em couro, em outubro"
           ],
           "rows": [
             [
@@ -54033,20 +54023,20 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O desconto de R$ 1.000 valia para as quatro bases, em qualquer revestimento. Na Black Friday, compare o preço do dia com a coluna de 8 de outubro, não com o preço cheio: um desconto que pareça grande pode ser o mesmo de outubro."
+          "O desconto de R$ 1.000 valia para as quatro bases, em qualquer revestimento. Na Black Friday, compare o preço do dia com a coluna de outubro, não com o preço cheio: um desconto que pareça grande pode ser o mesmo de outubro."
         ]
       },
       {
         "heading": "Levita, Aurora, sofá modular e Poltrona Cinema",
         "paragraphs": [
-          "Nas outras linhas, o desconto de outubro variava de produto para produto. Estes eram os preços do site em 8 de outubro de 2026:"
+          "Nas outras linhas, o desconto de outubro variava de produto para produto. Estes eram os preços do site em outubro:"
         ],
         "comparisonTable": {
-          "caption": "Outras linhas da DAMIE no site oficial em 8 de outubro de 2026. No sofá modular e na Poltrona Cinema, os preços são em suede, bouclé ou linho.",
+          "caption": "Outras linhas da DAMIE no site oficial em outubro. No sofá modular e na Poltrona Cinema, os preços são em suede, bouclé ou linho.",
           "headers": [
             "Produto",
             "Preço cheio",
-            "Em 8/10/2026"
+            "Em outubro"
           ],
           "rows": [
             [
@@ -54101,12 +54091,12 @@ export const reviewsData: unknown[] = [
           "Na DAMIE, o preço final pode juntar o desconto da página, o Pix, o cupom e, em compras de mais de uma poltrona, o desconto por quantidade. O CECILIA12 soma com todos eles; só não soma com outro cupom nem com o giftback."
         ],
         "bullets": [
-          "**Desconto da página:** já vem no preço do produto. Em 8 e em 23 de outubro, era de R$ 1.000 em todas as reclináveis.",
+          "**Desconto da página:** já vem no preço do produto. Nas duas leituras, era de R$ 1.000 em todas as reclináveis.",
           "**Pix à vista:** 10% de desconto. A página do produto já mostra o preço no Pix com o desconto da página aplicado: R$ 3.869,10 na elétrica com giro e balanço em suede, por exemplo.",
           "**Cupom CECILIA12:** 12% OFF em todos os produtos, com todas as formas de pagamento. Ele é aplicado no carrinho e soma com as promoções, os brindes e o desconto do Pix. Na giro e balanço em suede, os 12% sobre os R$ 4.299 tiram R$ 515,88, e a poltrona sai por R$ 3.783,12 no cartão, em até 12x sem juros. No Pix, entram também os 10%: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 3.404,81. O resumo do checkout mostra o valor exato antes de pagar.",
-          "**Desconto por quantidade:** R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5, nas reclináveis e na Poltrona Cinema, segundo a página de ofertas, até 27/11. Em outubro, ele era dado pelos consultores no WhatsApp, não pelo carrinho, e somava com o CECILIA12: confirme com a DAMIE antes de fechar.",
+          "**Desconto por quantidade:** R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5, nas reclináveis e na Poltrona Cinema, segundo a página de ofertas, durante a campanha. Em outubro, ele era dado pelos consultores no WhatsApp, não pelo carrinho, e somava com o CECILIA12: confirme com a DAMIE antes de fechar.",
           "**Giftback:** a página de ofertas promete 15% do pedido de volta para a próxima compra, até 27/11. Ele não soma com o CECILIA12: na compra em que você usar o giftback, o cupom não entra.",
-          "**Brinde:** até 27/11, a página de ofertas diz que quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e C) e o porta-copos. Em outubro, o brinde era só o carregador USB e o porta-copos."
+          "**Brinde:** durante a campanha, a página de ofertas diz que quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e C) e o porta-copos. Em outubro, o brinde era só o carregador USB e o porta-copos."
         ],
         "links": [
           {
@@ -54176,12 +54166,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando é a Black Friday da DAMIE? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, em 30 de novembro. Em 23 de outubro de 2026, a DAMIE já mostrava as ofertas da campanha no site, válidas até 27/11.",
-          "A DAMIE tem Black Friday? Tem em 2026: a página de ofertas da loja, em 23 de outubro, trazia brindes na compra de poltrona, R$ 1.000 de desconto nas poltronas e desconto por quantidade, até 27/11.",
-          "Poltrona reclinável fica mais barata na Black Friday? Compare antes de comprar. Em 8 de outubro de 2026, a reclinável elétrica com giro e balanço da DAMIE saía por R$ 4.299, ou R$ 3.869,10 no Pix, contra R$ 5.299 do preço cheio.",
-          "Qual o preço da poltrona DAMIE? Em 8 de outubro de 2026, a reclinável ia de R$ 2.969 (manual, em suede, bouclé ou linho) a R$ 6.149 (elétrica com elevação, em couro), com 10% de desconto no Pix à vista.",
+          "Quando é a Black Friday da DAMIE? A Black Friday de 2026 é na última sexta-feira de novembro, e a Cyber Monday, na segunda-feira seguinte. A DAMIE já mostrava as ofertas da campanha no site, válidas até a Black Friday.",
+          "A DAMIE tem Black Friday? Tem em 2026: a página de ofertas da loja trazia brindes na compra de poltrona, R$ 1.000 de desconto nas poltronas e desconto por quantidade, até a Black Friday.",
+          "Poltrona reclinável fica mais barata na Black Friday? Compare antes de comprar. Antes da campanha, a reclinável elétrica com giro e balanço da DAMIE saía por R$ 4.299, ou R$ 3.869,10 no Pix, contra R$ 5.299 do preço cheio.",
+          "Qual o preço da poltrona DAMIE? Antes da campanha, a reclinável ia de R$ 2.969 (manual, em suede, bouclé ou linho) a R$ 6.149 (elétrica com elevação, em couro), com 10% de desconto no Pix à vista.",
           "Tem cupom DAMIE para a Black Friday? O CECILIA12 dá 12% OFF em todos os produtos do site da DAMIE, com todas as formas de pagamento e sem limite de usos por CPF, e soma com as promoções, os brindes e o desconto do Pix. Só não soma com outro cupom nem com o giftback.",
-          "O cupom CECILIA12 soma com o desconto do Pix? Soma. Pagando no Pix, entram os 12% do cupom e os 10% do Pix: em 8 de outubro de 2026, pela nossa conta, a reclinável elétrica com giro e balanço em suede saía por R$ 3.404,81.",
+          "O cupom CECILIA12 soma com o desconto do Pix? Soma. Pagando no Pix, entram os 12% do cupom e os 10% do Pix: antes da campanha, pela nossa conta, a reclinável elétrica com giro e balanço em suede saía por R$ 3.404,81.",
           "Qual o prazo de entrega da DAMIE? Varia por região e aparece no cálculo do frete, antes de pagar. O prazo começa a contar na confirmação do pagamento, e o frete é grátis no Sul e no Sudeste.",
           "A DAMIE entrega no Nordeste? Sim, pelos anúncios oficiais da marca no Mercado Livre, que é como a DAMIE atende o Norte e o Nordeste. O frete e o prazo aparecem ao simular o CEP no anúncio."
         ]
@@ -75599,27 +75589,27 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Endereço.** O botão da loja leva a https://www.drpeanut.com.br/. Confira o endereço na barra do navegador antes de colocar qualquer dado.",
-          "**Rodapé com CNPJ e endereço.** Em 14/10/2026 o rodapé traz \"DR. PEANUT - CNPJ 28.324.667/0001-69 - RUA MARTHA GEMBAROSKI TULESKI, 320 - CIC. CURITIBA/PR\". Se o CNPJ do rodapé for outro, desconfie.",
+          "**Rodapé com CNPJ e endereço.** O rodapé traz \"DR. PEANUT - CNPJ 28.324.667/0001-69 - RUA MARTHA GEMBAROSKI TULESKI, 320 - CIC. CURITIBA/PR\". Se o CNPJ do rodapé for outro, desconfie.",
           "**Selo de segurança.** O rodapé mostra \"Site Seguro SSL\" e indica que a loja roda na plataforma VTEX. O selo é uma informação do próprio site: ele indica conexão criptografada, mas não prova sozinho que a loja é a oficial. Use junto com os outros pontos.",
           "**Formas de pagamento.** O rodapé mostra os ícones de pagamento (cartões, boleto, débito online pelos bancos e Pix), listados na seção de frete e pagamento.",
           "**Quem vende.** No carrinho, os produtos aparecem como \"Produto fornecido e entregue por Dr. Peanut\". Se o vendedor for outro, você está num marketplace e não na loja oficial.",
           "**Cupom.** Na loja oficial, o cupom vai no campo \"Insira o seu cupom abaixo\", no carrinho."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-rodape-cnpj.webp",
-        "imageAlt": "Rodapé do site da Dr. Peanut em 14/10/2026, com CNPJ, endereço, formas de pagamento e o selo Site Seguro SSL",
-        "imageCaption": "Rodapé do site da Dr. Peanut em 14/10/2026, com CNPJ, endereço, formas de pagamento e o selo Site Seguro SSL. O destaque amarelo no CNPJ é nosso.",
+        "imageAlt": "Rodapé do site da Dr. Peanut, com CNPJ, endereço, formas de pagamento e o selo Site Seguro SSL",
+        "imageCaption": "Rodapé do site da Dr. Peanut, com CNPJ, endereço, formas de pagamento e o selo Site Seguro SSL. O destaque amarelo no CNPJ é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 8.205
       },
       {
         "heading": "O que a Dr. Peanut vende",
         "paragraphs": [
-          "A Dr. Peanut é conhecida pelas pastas de amendoim e tem mais categorias na loja. Em 14/10/2026, o menu do site traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores:"
+          "A Dr. Peanut é conhecida pelas pastas de amendoim e tem mais categorias na loja. O menu do site traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores:"
         ],
         "image": {
           "src": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
-          "alt": "Página inicial do site da Dr. Peanut (drpeanut.com.br) em 14/10/2026",
-          "caption": "A página inicial do site da Dr. Peanut, drpeanut.com.br, em 14/10/2026.",
+          "alt": "Página inicial do site da Dr. Peanut (drpeanut.com.br)",
+          "caption": "A página inicial do site da Dr. Peanut, drpeanut.com.br.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -75637,10 +75627,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e defeito na Dr. Peanut",
         "paragraphs": [
-          "A \"Política de Trocas e Devoluções\" está publicada no site. Em 14/10/2026, ela separa três situações, e o que muda de uma para outra é o prazo e quem paga o frete:"
+          "A \"Política de Trocas e Devoluções\" está publicada no site. Ela separa três situações, e o que muda de uma para outra é o prazo e quem paga o frete:"
         ],
         "comparisonTable": {
-          "caption": "Política de Trocas e Devoluções da Dr. Peanut em 14/10/2026",
+          "caption": "Política de Trocas e Devoluções da Dr. Peanut",
           "headers": [
             "Situação",
             "Prazo",
@@ -75675,10 +75665,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis e formas de pagamento",
         "paragraphs": [
-          "A Dr. Peanut dá frete grátis a partir de um valor mínimo, que depende da região. Em 14/10/2026, a política era esta:"
+          "A Dr. Peanut dá frete grátis a partir de um valor mínimo, que depende da região. A política era esta:"
         ],
         "comparisonTable": {
-          "caption": "Frete grátis da Dr. Peanut por região em 14/10/2026",
+          "caption": "Frete grátis da Dr. Peanut por região",
           "headers": [
             "Região",
             "Frete grátis a partir de"
@@ -75702,7 +75692,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "No Reclame Aqui, a Dr. Peanut aparece com reputação **Boa** nos últimos 6 meses (nota 7,4) e **Ótima** nos últimos 12 meses (nota 8,1), em 14/10/2026. Os números, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no nosso artigo sobre o assunto."
+          "No Reclame Aqui, a Dr. Peanut aparece com reputação **Boa** nos últimos 6 meses (nota 7,4) e **Ótima** nos últimos 12 meses (nota 8,1). Os números, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no nosso artigo sobre o assunto."
         ],
         "links": [
           {
@@ -75715,7 +75705,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Dr. Peanut e pode receber comissão pelas compras feitas com o cupom **DREMCASACOMCECILIA**. Ele dá 10% OFF em todo o site, vale em todas as formas de pagamento e se soma às promoções que estiverem no ar. Também vale tanto para quem já tem conta na loja quanto para quem cria uma agora.",
-          "O cupom entra no campo \"Insira o seu cupom abaixo\", no carrinho. Em 13/10/2026, testamos o cupom num pedido real, e o desconto de 10% entrou em todos os itens, inclusive na pasta de amendoim que já estava em promoção. O passo a passo, com o que apareceu em cada tela, está no artigo do cupom. Os termos atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut)."
+          "O cupom entra no campo \"Insira o seu cupom abaixo\", no carrinho. Testamos o cupom num pedido real, e o desconto de 10% entrou em todos os itens, inclusive na pasta de amendoim que já estava em promoção. O passo a passo, com o que apareceu em cada tela, está no artigo do cupom. Os termos atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut)."
         ],
         "links": [
           {
@@ -75734,14 +75724,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Dr. Peanut é confiável? Sim. É uma fábrica de alimentos de Curitiba com CNPJ ativo desde 2017, a Supley é sócia da empresa, as políticas de troca e de frete têm prazos e valores escritos, e o Reclame Aqui mostra reputação Boa em 6 meses e Ótima em 12 meses (em 14/10/2026).",
+          "A Dr. Peanut é confiável? Sim. É uma fábrica de alimentos de Curitiba com CNPJ ativo desde 2017, a Supley é sócia da empresa, as políticas de troca e de frete têm prazos e valores escritos, e o Reclame Aqui mostra reputação Boa em 6 meses e Ótima em 12 meses.",
           "A Dr. Peanut é brasileira? Sim. A empresa é a Body Food Fabricantes de Alimentos Saudáveis Ltda., com matriz em Curitiba (PR) e atividade de fabricação de produtos alimentícios no CNPJ.",
           "A Dr. Peanut é da Max Titanium? Não: as duas são marcas irmãs, ligadas à mesma empresa, a Supley. O site da Dr. Peanut chega a vender um whey que leva o nome das duas.",
           "De quem é a Dr. Peanut? A empresa é a Body Food Fabricantes de Alimentos Saudáveis Ltda., e a Supley Laboratório de Alimentos e Suplementos Nutricionais aparece como sócia no CNPJ. A Supley reúne também Max Titanium, Probiótica e Znack That.",
           "O site da Dr. Peanut é seguro? O site oficial, drpeanut.com.br, mostra o selo \"Site Seguro SSL\", roda na plataforma VTEX e traz CNPJ e endereço no rodapé. Confira sempre o endereço antes de pagar.",
           "Qual é o CNPJ da Dr. Peanut? É 28.324.667/0001-69, da Body Food Fabricantes de Alimentos Saudáveis Ltda., com sede na Rua Martha Gembaroski Tuleski, 320, no bairro CIC, em Curitiba (PR).",
           "Posso trocar um produto da Dr. Peanut? Pode. Por arrependimento, são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. Por defeito, são 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras. Na troca por outro produto, o frete de ida e de volta é seu.",
-          "A Dr. Peanut tem frete grátis? Tem. O mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom (em 14/10/2026).",
+          "A Dr. Peanut tem frete grátis? Tem. O mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom.",
           "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA dá 10% OFF em todo o site e vale na primeira compra e nas seguintes, em todas as formas de pagamento e somando com as promoções. A [página do cupom da Dr. Peanut](/cupons/dr-peanut) traz as condições atuais."
         ]
       }
@@ -75781,8 +75771,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12 meses, 95,6% das reclamações respondidas, 84,2% resolvidas, o que mais gera queixa e o que fazer se o pedido der problema.",
-    "metaDescription": "Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12. Veja respostas, solução, recompra e as queixas mais comuns.",
+    "description": "Os números da Dr. Peanut no Reclame Aqui: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12 meses, 95,6% das reclamações respondidas, 84,2% resolvidas, o que mais gera queixa e o que fazer se o pedido der problema.",
+    "metaDescription": "Dr. Peanut no Reclame Aqui: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12. Veja respostas, solução, recompra e as queixas mais comuns.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -75805,6 +75795,7 @@ export const reviewsData: unknown[] = [
       "Pedido não recebido e entrega lideram as queixas de até 3 anos",
       "Uma semana de resposta ainda é tempo para quem espera um pedido"
     ],
+    "bodyDatesReason": "reclame-aqui",
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -75817,16 +75808,16 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Dr. Peanut vende pelo próprio site, e a empresa é uma fábrica de Curitiba (PR). Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista; aqui o assunto é a loja.",
           "O perfil mostra, com data, a reputação da empresa, quantas reclamações recebeu, quantas respondeu, quantas o consumidor considerou resolvidas e quantos voltariam a fazer negócio. São essas medidas que usamos aqui.",
-          "Em 14/10/2026, o perfil \"Dr. Peanut\" aparecia na categoria Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Os números do Reclame Aqui mudam com o tempo e cada aba do perfil cobre um período próprio, por isso todos os dados abaixo trazem a data da consulta e o intervalo de cada aba. Vale abrir o perfil de novo no dia da sua compra."
+          "Em 14/10/2026, o perfil \"Dr. Peanut\" aparecia na categoria Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Os números do Reclame Aqui mudam com o tempo e cada aba do perfil cobre um período próprio, por isso todos os dados abaixo trazem o intervalo de cada aba. Vale abrir o perfil de novo no dia da sua compra."
         ]
       },
       {
         "heading": "Os números da Dr. Peanut no Reclame Aqui",
         "paragraphs": [
-          "O perfil tem abas por período. Estas são as três que consultamos em 14/10/2026: os últimos 6 meses, os últimos 12 meses e o ano de 2025. Cada aba conta só as reclamações abertas dentro do próprio intervalo."
+          "O perfil tem abas por período. Estas são as três que consultamos: os últimos 6 meses, os últimos 12 meses e o ano de 2025. Cada aba conta só as reclamações abertas dentro do próprio intervalo."
         ],
         "comparisonTable": {
-          "caption": "Perfil da Dr. Peanut no Reclame Aqui, abas de 6 meses, 12 meses e 2025, consultadas em 14/10/2026.",
+          "caption": "Perfil da Dr. Peanut no Reclame Aqui, abas de 6 meses, 12 meses e 2025.",
           "headers": [
             "Indicador",
             "6 meses (01/04 a 30/09/2026)",
@@ -75896,22 +75887,22 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-6-meses.webp",
-            "alt": "Aba de 6 meses do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026",
-            "caption": "Aba de 6 meses do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+            "alt": "Aba de 6 meses do perfil da Dr. Peanut no Reclame Aqui",
+            "caption": "Aba de 6 meses do perfil da Dr. Peanut no Reclame Aqui. O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.3093
           },
           {
             "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-12-meses.webp",
-            "alt": "Aba de 12 meses do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/10/2025 a 30/09/2026",
-            "caption": "Aba de 12 meses do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/10/2025 a 30/09/2026 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+            "alt": "Aba de 12 meses do perfil da Dr. Peanut no Reclame Aqui",
+            "caption": "Aba de 12 meses do perfil da Dr. Peanut no Reclame Aqui. O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.309
           },
           {
             "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-2025.webp",
-            "alt": "Aba de 2025 do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/01 a 31/12/2025",
-            "caption": "Aba de 2025 do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/01 a 31/12/2025 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+            "alt": "Aba de 2025 do perfil da Dr. Peanut no Reclame Aqui",
+            "caption": "Aba de 2025 do perfil da Dr. Peanut no Reclame Aqui. O marca-texto amarelo é nosso.",
             "objectFit": "contain",
             "aspectRatio": 0.3101
           }
@@ -75920,16 +75911,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que os números mostram",
         "paragraphs": [
-          "**Menos reclamações.** Como os 6 meses estão dentro dos 12, os 6 meses anteriores (de 01/10/2025 a 31/03/2026) somam cerca de 121 reclamações, contra as 68 mais recentes. O volume vem caindo de um período para o outro.",
+          "**Menos reclamações.** Como os 6 meses estão dentro dos 12, os 6 meses anteriores somam cerca de 121 reclamações, contra as 68 mais recentes. O volume vem caindo de um período para o outro.",
           "**Resposta mais rápida.** O tempo médio caiu em relação aos períodos mais longos, mas uma semana ainda é tempo para quem espera um pedido.",
           "**Mais resolvidas que em 2025, menos recompra.** A solução e a nota média do consumidor subiram em relação a 2025. A recompra dos últimos 6 meses (52,6%) ficou abaixo da de 2025 (57,1%). A nota média do consumidor segue abaixo de 7 nos três períodos (6,21; 6,94; 5,41).",
-          "**Por que a reputação caiu.** A reputação foi de Boa em 2025 para Ótima em 12 meses e voltou a Boa em 6 meses. A conta é do período: a aba de 6 meses olha só as reclamações de abril a setembro de 2026, e a de 12 meses também inclui os 6 meses anteriores, que tiveram mais reclamações. No recorte de abril a setembro de 2026, a solução (84,2%), a recompra (52,6%) e a nota do consumidor (6,21) ficaram abaixo dos de 12 meses. O volume de reclamações não aumentou: caiu.",
+          "**Por que a reputação caiu.** A reputação foi de Boa em 2025 para Ótima em 12 meses e voltou a Boa em 6 meses. A conta é do período: a aba de 6 meses olha só as reclamações de abril a setembro, e a de 12 meses também inclui os 6 meses anteriores, que tiveram mais reclamações. No recorte de abril a setembro, a solução (84,2%), a recompra (52,6%) e a nota do consumidor (6,21) ficaram abaixo dos de 12 meses. O volume de reclamações não aumentou: caiu.",
           "Também vale não exagerar na leitura. Poucas reclamações, e poucas avaliadas, não provam qualidade. A reputação Boa é a de uma empresa que responde e resolve a maior parte dos casos, e em que quase metade de quem avaliou nos últimos 6 meses não voltaria a fazer negócio."
         ],
         "image": {
           "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp",
-          "alt": "Perfil da Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa, avaliações de compra 4,6 de 5 e o quadro da aba de 6 meses",
-          "caption": "O topo do perfil da Dr. Peanut no Reclame Aqui e a aba de 6 meses, consultados em 14/10/2026.",
+          "alt": "Perfil da Dr. Peanut no Reclame Aqui: reputação Boa, avaliações de compra 4,6 de 5 e o quadro da aba de 6 meses",
+          "caption": "O topo do perfil da Dr. Peanut no Reclame Aqui e a aba de 6 meses.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -75937,10 +75928,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais aparece nas reclamações da Dr. Peanut",
         "paragraphs": [
-          "O Reclame Aqui reúne as reclamações de até 3 anos, da aba geral, em três listas: categoria, problema e produto. Em 14/10/2026, as três apontam para o mesmo lugar, a entrega:"
+          "O Reclame Aqui reúne as reclamações de até 3 anos, da aba geral, em três listas: categoria, problema e produto. As três apontam para o mesmo lugar, a entrega:"
         ],
         "comparisonTable": {
-          "caption": "Principais problemas no perfil da Dr. Peanut no Reclame Aqui, reclamações de até 3 anos (consulta em 14/10/2026)",
+          "caption": "Principais problemas no perfil da Dr. Peanut no Reclame Aqui, reclamações de até 3 anos",
           "headers": [
             "Lista",
             "Item que lidera",
@@ -75970,14 +75961,14 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-principais-problemas.webp",
         "imageAlt": "Principais problemas comentados no perfil da Dr. Peanut no Reclame Aqui, com reclamações de até 3 anos da aba geral",
-        "imageCaption": "Principais problemas comentados no perfil da Dr. Peanut no Reclame Aqui, com reclamações de até 3 anos da aba geral (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+        "imageCaption": "Principais problemas comentados no perfil da Dr. Peanut no Reclame Aqui, com reclamações de até 3 anos da aba geral. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.224
       },
       {
         "heading": "O selo do site e o perfil do Reclame Aqui",
         "paragraphs": [
-          "O rodapé do site da Dr. Peanut, no bloco \"Segurança e Qualidade\", mostra um selo \"RA 4.7 Ótimo\". Em 14/10/2026, o perfil da empresa no Reclame Aqui mostrava Boa (7,4) em 6 meses, Ótima (8,1) em 12 meses e 4,6 de 5 nas avaliações de compra.",
+          "O rodapé do site da Dr. Peanut, no bloco \"Segurança e Qualidade\", mostra um selo \"RA 4.7 Ótimo\". O perfil da empresa no Reclame Aqui mostrava Boa (7,4) em 6 meses, Ótima (8,1) em 12 meses e 4,6 de 5 nas avaliações de compra.",
           "O rodapé não informa a que período ou medida o selo se refere. Para decidir, abra o perfil direto no Reclame Aqui, no dia da compra."
         ]
       },
@@ -75985,7 +75976,7 @@ export const reviewsData: unknown[] = [
         "heading": "Se o seu pedido da Dr. Peanut der problema: o que fazer",
         "paragraphs": [
           "Se o pedido atrasar ou não chegar, acompanhe o rastreio e escreva para o SAC com o número do pedido assim que o prazo informado passar.",
-          "O atendimento é pelo e-mail sac@supley.com.br; a Política de Trocas e Devoluções, em 14/10/2026, define prazos e custos nestes casos:"
+          "O atendimento é pelo e-mail sac@supley.com.br; a Política de Trocas e Devoluções define prazos e custos nestes casos:"
         ],
         "bullets": [
           "**Caixa avariada, embalagem violada ou item errado na entrega:** você pode recusar a encomenda e escrever o motivo no verso da nota fiscal.",
@@ -76007,18 +75998,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Dr. Peanut?",
         "paragraphs": [
-          "Dá para comprar com cautela. O Reclame Aqui mostra uma empresa que responde quase tudo (95,6% nos últimos 6 meses) e resolve a maior parte entre as reclamações avaliadas (84,2%), com reputação Boa em 6 meses (nota 7,4) e Ótima em 12 meses (nota 8,1). Em 14/10/2026, as avaliações de compra do perfil estavam em 4,6 de 5.",
-          "A tendência ajuda: foram 510 reclamações em 2025, 189 nos 12 meses até setembro de 2026 e 68 nos últimos 6 meses, e a resposta ficou mais rápida (7 dias e 7 horas).",
+          "Dá para comprar com cautela. O Reclame Aqui mostra uma empresa que responde quase tudo (95,6% nos últimos 6 meses) e resolve a maior parte entre as reclamações avaliadas (84,2%), com reputação Boa em 6 meses (nota 7,4) e Ótima em 12 meses (nota 8,1). As avaliações de compra do perfil estavam em 4,6 de 5.",
+          "A tendência ajuda: foram 510 reclamações em 2025, 189 nos 12 meses até setembro e 68 nos últimos 6 meses, e a resposta ficou mais rápida (7 dias e 7 horas).",
           "Os pontos de atenção são dois. Só 52,6% de quem avaliou nos últimos 6 meses voltaria a fazer negócio, e o que mais aparece nas queixas é pedido não recebido e entrega. Por isso, acompanhe o rastreio, guarde o número do pedido e abra o perfil no Reclame Aqui no dia da compra."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Dr. Peanut é confiável segundo o Reclame Aqui? Em 14/10/2026, a reputação era Boa nos últimos 6 meses e Ótima nos últimos 12. A empresa responde quase todas as reclamações e resolve a maior parte, mas só cerca de metade de quem avaliou nos últimos 6 meses voltaria a comprar.",
-          "Qual a nota da Dr. Peanut no Reclame Aqui? Em 14/10/2026: 7,4 nos últimos 6 meses, 8,1 nos últimos 12 meses e 7,1 em 2025. As avaliações de compra do topo do perfil estavam em 4,6 de 5.",
+          "A Dr. Peanut é confiável segundo o Reclame Aqui? A reputação era Boa nos últimos 6 meses e Ótima nos últimos 12. A empresa responde quase todas as reclamações e resolve a maior parte, mas só cerca de metade de quem avaliou nos últimos 6 meses voltaria a comprar.",
+          "Qual a nota da Dr. Peanut no Reclame Aqui? Eram 7,4 nos últimos 6 meses, 8,1 nos últimos 12 meses e 7,1 em 2025. As avaliações de compra do topo do perfil estavam em 4,6 de 5.",
           "A Dr. Peanut responde às reclamações? Responde. Nos últimos 6 meses, 95,6% das reclamações foram respondidas, em média em 7 dias e 7 horas.",
-          "Por que a reputação é \"Boa\" em 6 meses e \"Ótima\" em 12 meses? Cada aba conta só as reclamações do próprio período: a de 6 meses vai de 01/04 a 30/09/2026 e a de 12 meses, de 01/10/2025 a 30/09/2026. Nos últimos 6 meses, a nota ficou em 7,4, abaixo dos 8,1 de 12 meses.",
+          "Por que a reputação é \"Boa\" em 6 meses e \"Ótima\" em 12 meses? Cada aba conta só as reclamações do próprio período: a de 6 meses cobre só os seis meses mais recentes e a de 12 meses inclui os seis anteriores. Nos últimos 6 meses, a nota ficou em 7,4, abaixo dos 8,1 de 12 meses.",
           "O que fazer se o pedido da Dr. Peanut atrasar ou chegar avariado? Se atrasar, acompanhe o rastreio e escreva para sac@supley.com.br com o número do pedido. Se a caixa chegar avariada, você pode recusar na entrega e escrever o motivo no verso da nota fiscal."
         ]
       }
@@ -76094,8 +76085,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
-          "alt": "Carrinho da Dr. Peanut em 13/10/2026 com o cupom DREMCASACOMCECILIA digitado e, depois, aplicado",
-          "caption": "O carrinho do nosso teste de 13/10/2026: o código digitado e, depois, aplicado.",
+          "alt": "Carrinho da Dr. Peanut com o cupom DREMCASACOMCECILIA digitado e, depois, aplicado",
+          "caption": "O carrinho do nosso teste: o código digitado e, depois, aplicado.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -76111,11 +76102,11 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Escolha os produtos normalmente e vá para o carrinho. Nele aparecem a lista de itens, com quantidade e preço, e, à direita, o resumo com o **Subtotal**, o **Total** e o campo **\"Código\"**, sob o texto \"Insira o seu cupom abaixo\", com o botão **\"Adicionar\"**.",
           "No nosso teste de 13/10/2026, o carrinho tinha três itens, entre eles uma pasta de amendoim em promoção (de R$ 64,90 por R$ 59,89). O subtotal, antes do cupom, era de R$ 440,16.",
-          "No topo do carrinho há uma faixa laranja sobre o frete grátis: o valor total da compra, já com o cupom aplicado, precisa ser igual ou superior a R$ 149,90 (valor que o carrinho mostrava em 13/10/2026). O mínimo de cada região está na seção de frete, mais abaixo."
+          "No topo do carrinho há uma faixa laranja sobre o frete grátis: o valor total da compra, já com o cupom aplicado, precisa ser igual ou superior a R$ 149,90 (valor que o carrinho mostrava no teste). O mínimo de cada região está na seção de frete, mais abaixo."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
         "imageAlt": "Carrinho da Dr. Peanut antes do cupom, com três itens, Subtotal e Total de R$ 440,16, o campo do cupom e a faixa do frete grátis no topo",
-        "imageCaption": "Carrinho da Dr. Peanut em 13/10/2026, antes do cupom: os três itens, o Subtotal e o Total de R$ 440,16, o campo do cupom, sob \"Insira o seu cupom abaixo\", e a faixa do frete grátis no topo. O marca-texto amarelo é nosso.",
+        "imageCaption": "Carrinho da Dr. Peanut antes do cupom: os três itens, o Subtotal e o Total de R$ 440,16, o campo do cupom, sob \"Insira o seu cupom abaixo\", e a faixa do frete grátis no topo. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.6075
       },
@@ -76127,7 +76118,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-cupom-02-codigo-digitado.webp",
         "imageAlt": "Campo do cupom da Dr. Peanut, sob o texto Insira o seu cupom abaixo, com o DREMCASACOMCECILIA digitado e o Total ainda em R$ 440,16",
-        "imageCaption": "O campo do cupom, sob \"Insira o seu cupom abaixo\", com o DREMCASACOMCECILIA digitado, em 13/10/2026, antes de clicar em \"Adicionar\". O Total ainda marca R$ 440,16. O marca-texto amarelo é nosso.",
+        "imageCaption": "O campo do cupom, sob \"Insira o seu cupom abaixo\", com o DREMCASACOMCECILIA digitado, antes de clicar em \"Adicionar\". O Total ainda marca R$ 440,16. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.756
       },
@@ -76135,7 +76126,7 @@ export const reviewsData: unknown[] = [
         "heading": "4. Confira a linha \"Descontos\" antes de pagar",
         "paragraphs": [
           "Com o cupom aceito, o resumo muda: o código aparece ao lado de \"Cupom de desconto\", com um **×** ao lado, e entra a linha **\"Descontos\"**, com o valor abatido em reais. O Total passa a mostrar o valor já com o desconto.",
-          "No nosso teste de 13/10/2026, o Subtotal de R$ 440,16 ganhou **R$ 44,02 de desconto** e o Total ficou em **R$ 396,14**. Os R$ 44,02 correspondem a 10% do Subtotal.",
+          "No mesmo teste, o Subtotal de R$ 440,16 ganhou **R$ 44,02 de desconto** e o Total ficou em **R$ 396,14**. Os R$ 44,02 correspondem a 10% do Subtotal.",
           "Antes de clicar em \"Continuar pagamento\", confira estes pontos:"
         ],
         "bullets": [
@@ -76145,14 +76136,14 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Resumo do carrinho da Dr. Peanut depois do cupom: código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ 44,02 e Total de R$ 396,14",
-        "imageCaption": "Resumo do carrinho em 13/10/2026 depois do cupom: o código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14. O marca-texto amarelo é nosso.",
+        "imageCaption": "Resumo do carrinho depois do cupom: o código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.0423
       },
       {
         "heading": "O cupom vale em produto em promoção?",
         "paragraphs": [
-          "Sim. O **DREMCASACOMCECILIA** soma com as promoções do site. No nosso teste de 13/10/2026, o carrinho tinha a pasta de amendoim Bombom Italiano em promoção: o Subtotal já trazia o preço promocional (R$ 59,89), e o cupom tirou R$ 44,02, 10% do Subtotal."
+          "Sim. O **DREMCASACOMCECILIA** soma com as promoções do site. No nosso teste, o carrinho tinha a pasta de amendoim Bombom Italiano em promoção: o Subtotal já trazia o preço promocional (R$ 59,89), e o cupom tirou R$ 44,02, 10% do Subtotal."
         ]
       },
       {
@@ -76161,7 +76152,7 @@ export const reviewsData: unknown[] = [
           "A Dr. Peanut dá frete grátis a partir de um valor mínimo, que depende de onde você mora. Em 14/10/2026, a política da loja era esta:"
         ],
         "comparisonTable": {
-          "caption": "Frete grátis da Dr. Peanut por região em 14/10/2026",
+          "caption": "Frete grátis da Dr. Peanut por região",
           "headers": [
             "Região",
             "Frete grátis a partir de"
@@ -76186,7 +76177,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que comprar com o cupom",
         "paragraphs": [
-          "O cupom vale em todo o site. Em 14/10/2026, o menu da Dr. Peanut traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores."
+          "O cupom vale em todo o site. O menu da Dr. Peanut traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores."
         ],
         "bullets": [
           "**Whey:** inclusive o \"100% Whey Dr. Peanut 900g - Max Titanium\". O nome das duas marcas aparece porque elas são do mesmo grupo, como explicamos em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel)."
@@ -76198,7 +76189,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se precisar trocar",
         "paragraphs": [
-          "Compra feita no site oficial segue a Política de Trocas e Devoluções da loja. Em 14/10/2026, ela separa três situações:"
+          "Compra feita no site oficial segue a Política de Trocas e Devoluções da loja. Ela separa três situações:"
         ],
         "bullets": [
           "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. A loja paga a devolução.",
@@ -76216,7 +76207,7 @@ export const reviewsData: unknown[] = [
           "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para quem cria a conta agora quanto para quem já comprou.",
           "O cupom da Dr. Peanut vale em produto em promoção? Sim. No nosso teste, o cupom tirou 10% do subtotal, que já incluía uma pasta de amendoim em promoção.",
           "O cupom vale em todas as formas de pagamento? Sim. O DREMCASACOMCECILIA vale em todas as formas de pagamento da loja e soma com as promoções do site.",
-          "O cupom da Dr. Peanut dá frete grátis? Não por si só: o cupom dá 10% de desconto, e o frete grátis é uma regra à parte da loja. Começa em R$ 149,90 em São Paulo capital, Sudeste e Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom (política em 14/10/2026).",
+          "O cupom da Dr. Peanut dá frete grátis? Não por si só: o cupom dá 10% de desconto, e o frete grátis é uma regra à parte da loja. Começa em R$ 149,90 em São Paulo capital, Sudeste e Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom.",
           "Tem cupom para pasta de amendoim Dr. Peanut? Sim. O DREMCASACOMCECILIA vale em todo o site, então vale nas pastas de amendoim, inclusive nas que estão em promoção. As condições atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut).",
           "Onde o cupom vale? No site oficial da Dr. Peanut, o drpeanut.com.br, onde o código é digitado no carrinho."
         ]
@@ -78060,6 +78051,7 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
+    "bodyDatesReason": "reclame-aqui",
     "id": 428,
     "slug": "sofa-na-caixa-inflow-ou-damie",
     "title": "Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher",
@@ -78119,13 +78111,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Inflow é a Sofá na Caixa?",
         "paragraphs": [
-          "Este guia compara Sofá na Caixa, Inflow e DAMIE em quatro pontos: teste em casa, garantia, preço e reputação no Reclame Aqui, com os dados que cada marca publica no próprio site em 14/10/2026. Começamos pela dúvida mais comum: Inflow e Sofá na Caixa são a mesma empresa?",
+          "Este guia compara Sofá na Caixa, Inflow e DAMIE em quatro pontos: teste em casa, garantia, preço e reputação no Reclame Aqui, com os dados que cada marca publica no próprio site. Começamos pela dúvida mais comum: Inflow e Sofá na Caixa são a mesma empresa?",
           "Não. São duas empresas diferentes, com CNPJ, cidade e data de abertura próprios. Os dados saem do rodapé de cada site e da consulta pública de CNPJ:"
         ],
         "bullets": [
-          "**Inflow:** Fast Living Comércio e Distribuição Ltda., nome fantasia \"INFLOW\", CNPJ 44.947.739/0001-80, em Itapeva (MG). Ativa desde 20/01/2022, no comércio varejista de móveis.",
-          "**Sofá na Caixa:** Sofá na Caixa Ltda., CNPJ 53.546.707/0001-64, em Rafard (SP). Ativa desde 18/01/2024, também no comércio varejista de móveis.",
-          "**DAMIE:** Damie Ltda., CNPJ 20.686.873/0001-07, em Frederico Westphalen (RS). Ativa desde 22/07/2014, como fábrica de móveis. A marca diz ter fábrica própria no Rio Grande do Sul, com mais de 100 funcionários."
+          "**Inflow:** Fast Living Comércio e Distribuição Ltda., nome fantasia \"INFLOW\", CNPJ 44.947.739/0001-80, em Itapeva (MG). Ativa desde 2022, no comércio varejista de móveis.",
+          "**Sofá na Caixa:** Sofá na Caixa Ltda., CNPJ 53.546.707/0001-64, em Rafard (SP). Ativa desde 2024, também no comércio varejista de móveis.",
+          "**DAMIE:** Damie Ltda., CNPJ 20.686.873/0001-07, em Frederico Westphalen (RS). Ativa desde 2014, como fábrica de móveis. A marca diz ter fábrica própria no Rio Grande do Sul, com mais de 100 funcionários."
         ],
         "postParagraphs": [
           "A confusão entre Inflow e Sofá na Caixa é comum porque as duas vendem sofá que chega compactado. Mas cada uma tem as próprias regras de teste, troca, garantia e entrega, e elas são diferentes, como mostra a tabela a seguir."
@@ -78134,10 +78126,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As três lado a lado",
         "paragraphs": [
-          "Regras publicadas por cada marca em 14/10/2026. O traço indica dado que a marca não publica."
+          "Regras publicadas por cada marca. O traço indica dado que a marca não publica."
         ],
         "comparisonTable": {
-          "caption": "Sofá na Caixa, Inflow e DAMIE: regras publicadas em 14/10/2026",
+          "caption": "Sofá na Caixa, Inflow e DAMIE: regras publicadas",
           "headers": [
             "",
             "DAMIE",
@@ -78252,7 +78244,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa um sofá de 3 lugares em cada uma?",
         "paragraphs": [
-          "Preços dos sites em 14/10/2026. Os modelos não são idênticos (a DAMIE vende o 3 lugares com puff; a Inflow e a Sofá na Caixa, com apoio de pé), e o preço muda com o revestimento e com o número de lugares, então a comparação é de ordem de grandeza, não de centavos."
+          "Preços dos sites. Os modelos não são idênticos (a DAMIE vende o 3 lugares com puff; a Inflow e a Sofá na Caixa, com apoio de pé), e o preço muda com o revestimento e com o número de lugares, então a comparação é de ordem de grandeza, não de centavos."
         ],
         "comparisonTable": {
           "caption": "Preço de um sofá de 3 lugares em 14/10/2026",
@@ -78316,16 +78308,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação das três no Reclame Aqui?",
         "paragraphs": [
-          "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026), conferidos em 14/10/2026. A nota da Inflow foi relida em 25/10/2026: 8,5 (o print abaixo, de 14/10, mostra 8,6).",
+          "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026), conferidos no mês de outubro. A nota da Inflow foi relida depois: 8,5 (o print abaixo mostra 8,6).",
           "Hoje **a Inflow tem o melhor selo** (RA1000) e a maior taxa de solução, 94%. A DAMIE tem selo Ótima e a resposta mais rápida, 13 horas. A Sofá na Caixa tem selo Regular e quase 50 vezes mais reclamações que a Inflow no período."
         ],
         "image": "/images/reviews/sofa-na-caixa/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
         "imageAlt": "Painéis do Reclame Aqui dos últimos 6 meses: DAMIE com reputação Ótima e nota 8,3, Inflow com RA1000 e nota 8,6, Sofá na Caixa com reputação Regular e nota 6,1",
-        "imageCaption": "Painéis do Reclame Aqui de cada marca, de 01/04 a 30/09/2026 (print de 14/10/2026).",
+        "imageCaption": "Painéis do Reclame Aqui de cada marca, dos últimos 6 meses.",
         "imageFit": "contain",
         "imageAspectRatio": 0.9448,
         "comparisonTable": {
-          "caption": "Reclame Aqui, últimos 6 meses (01/04 a 30/09/2026)",
+          "caption": "Reclame Aqui, últimos 6 meses",
           "headers": [
             "",
             "DAMIE (Damie Móveis)",
@@ -78385,7 +78377,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "O selo mede **atendimento e solução**, não volume de vendas.",
-          "A Inflow \"acaba de chegar ao mercado brasileiro de estofados\", nas palavras do release de 22/01/2026: são cerca de 9 meses vendendo sofá. O RA1000 é real, mas vale para um histórico curto.",
+          "A Inflow \"acaba de chegar ao mercado brasileiro de estofados\", nas palavras do release de janeiro: são cerca de 9 meses vendendo sofá. O RA1000 é real, mas vale para um histórico curto.",
           "A DAMIE está cadastrada no Reclame Aqui há 6 anos.",
           "Nenhuma das marcas publica número de vendas, então não dá para dizer quantas reclamações cada uma recebe por cliente."
         ]
@@ -78400,21 +78392,21 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-damie.webp",
             "alt": "Principais problemas da DAMIE no Reclame Aqui: atraso na entrega em 50,36% das reclamações",
-            "caption": "DAMIE: atraso na entrega em 50,36% das reclamações (print de 14/10/2026).",
+            "caption": "DAMIE: atraso na entrega em 50,36% das reclamações.",
             "objectFit": "contain",
             "aspectRatio": 1.224
           },
           {
             "src": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-sofa-na-caixa.webp",
             "alt": "Principais problemas da Sofá na Caixa no Reclame Aqui: atraso na entrega em 40,79% das reclamações",
-            "caption": "Sofá na Caixa: atraso na entrega em 40,79% das reclamações (print de 14/10/2026).",
+            "caption": "Sofá na Caixa: atraso na entrega em 40,79% das reclamações.",
             "objectFit": "contain",
             "aspectRatio": 1.2168
           },
           {
             "src": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-inflow.webp",
             "alt": "Principais problemas da Inflow no Reclame Aqui: atraso na entrega em 28,18% das reclamações",
-            "caption": "Inflow: atraso na entrega em 28,18% das reclamações (print de 14/10/2026).",
+            "caption": "Inflow: atraso na entrega em 28,18% das reclamações.",
             "objectFit": "contain",
             "aspectRatio": 1.2161
           }
@@ -78427,7 +78419,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso integral.",
-          "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado, inclusive no Pix, em 14/10/2026. Pese contra os 10 dias de teste, os 3 meses de garantia e o selo Regular.",
+          "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado, inclusive no Pix. Pese contra os 10 dias de teste, os 3 meses de garantia e o selo Regular.",
           "**Quem quer a garantia mais longa:** DAMIE, com 1 ano.",
           "**Quem quer o melhor atendimento segundo o Reclame Aqui:** Inflow, com RA1000 e 94% de reclamações resolvidas, lembrando que o histórico dela é curto.",
           "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste. Em qualquer uma, confira o frete no carrinho com o seu CEP.",
@@ -78526,7 +78518,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá na caixa dura tanto quanto um montado? Resposta rápida",
         "paragraphs": [
-          "Um sofá na caixa pode durar tanto quanto um montado, porque a caixa é só o jeito de entregar. O que decide é a estrutura, as molas ou percintas, a espuma, o tecido e a garantia. Uso o modular da DAMIE desde junho de 2026, ainda meses de uso; a ficha técnica abaixo ajuda a comparar."
+          "Um sofá na caixa pode durar tanto quanto um montado, porque a caixa é só o jeito de entregar. O que decide é a estrutura, as molas ou percintas, a espuma, o tecido e a garantia. Uso o modular da DAMIE há meses, ainda sem anos de uso; a ficha técnica abaixo ajuda a comparar."
         ]
       },
       {
@@ -78572,7 +78564,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A garantia diz muito",
         "paragraphs": [
-          "A garantia é o único número de durabilidade que a loja assina. Entre as três marcas de sofá na caixa deste guia (dados de 14/10/2026), ela vai de 90 dias a 1 ano:"
+          "A garantia é o único número de durabilidade que a loja assina. Entre as três marcas de sofá na caixa deste guia, ela vai de 90 dias a 1 ano:"
         ],
         "bullets": [
           "**Inflow:** 90 dias.",
@@ -78587,7 +78579,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que cada marca publica na ficha",
         "paragraphs": [
-          "A tabela mostra o que as três marcas de sofá na caixa informam nas próprias páginas (dados de 14/10/2026). Ela não mede qualidade: mostra quanto da ficha você consegue ler antes de comprar. O traço indica dado que a marca não publica nas páginas dela."
+          "A tabela mostra o que as três marcas de sofá na caixa informam nas próprias páginas. Ela não mede qualidade: mostra quanto da ficha você consegue ler antes de comprar. O traço indica dado que a marca não publica nas páginas dela."
         ],
         "comparisonTable": {
           "caption": "O que DAMIE, Inflow e Sofá na Caixa publicam na ficha (14/10/2026)",
@@ -80746,6 +80738,7 @@ export const reviewsData: unknown[] = [
         "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram"
       }
     ],
+    "bodyDatesReason": "campanha",
     "contentSections": [
       {
         "heading": "Resposta rápida: Black Friday Dr. Peanut 2026",
@@ -80757,13 +80750,13 @@ export const reviewsData: unknown[] = [
         "heading": "A Dr. Peanut faz Black Friday?",
         "paragraphs": [
           "Para 2026, a loja não publicou nada até 14/10/2026. Na home, o que aparecia era o aviso de frete grátis por região e banners de combos (Flavor Fusion, Favoritos da Galera e a assinatura Pro), sem preço no texto e sem menção à Black Friday. Também não havia datas de início e fim nem lista de produtos da campanha.",
-          "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM de 18/02/2025, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha.",
-          "Da Black Friday de 2025, em 14/10/2026 não encontramos anúncio oficial da Dr. Peanut. Por isso este guia não usa ofertas de anos anteriores como régua de preço."
+          "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha.",
+          "Da Black Friday de 2025, não encontramos anúncio oficial da Dr. Peanut. Por isso este guia não usa ofertas de anos anteriores como régua de preço."
         ],
         "image": {
           "src": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
-          "alt": "Página inicial do site da Dr. Peanut em 14/10/2026, com o banner da assinatura Assinou, economizou! e até 15% OFF",
-          "caption": "A página inicial da Dr. Peanut em 14/10/2026, com o banner da assinatura Assinou, economizou! e até 15% OFF.",
+          "alt": "Página inicial do site da Dr. Peanut com o banner da assinatura Assinou, economizou! e até 15% OFF",
+          "caption": "A página inicial da Dr. Peanut, com o banner da assinatura Assinou, economizou! e até 15% OFF.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -80780,22 +80773,22 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "A loja dá 5% de desconto no Pix. Se esse desconto soma com o cupom, só o resumo do carrinho mostra.",
-          "O teste de 13/10/2026 mostra a soma do cupom com a promoção. O carrinho tinha três itens, entre eles uma pasta de amendoim em promoção, de R$ 64,90 por R$ 59,89. O subtotal era de R$ 440,16. Com o cupom, a linha \"Descontos\" abateu R$ 44,02, que são 10% do subtotal, e o total ficou em **R$ 396,14**.",
+          "O teste no carrinho mostra a soma do cupom com a promoção. O carrinho tinha três itens, entre eles uma pasta de amendoim em promoção, de R$ 64,90 por R$ 59,89. O subtotal era de R$ 440,16. Com o cupom, a linha \"Descontos\" abateu R$ 44,02, que são 10% do subtotal, e o total ficou em **R$ 396,14**.",
           "Se a linha \"Descontos\" não aparecer no resumo do carrinho, o cupom não foi aplicado. Confira se o código está escrito igual, sem letra faltando."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
-        "imageAlt": "Resumo do carrinho da Dr. Peanut em 13/10/2026 com o código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14",
-        "imageCaption": "Resumo do carrinho em 13/10/2026 com o código DREMCASACOMCECILIA aceito: Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14. O marca-texto amarelo é nosso.",
+        "imageAlt": "Resumo do carrinho da Dr. Peanut com o código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14",
+        "imageCaption": "Resumo do carrinho com o código DREMCASACOMCECILIA aceito: Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.0423
       },
       {
         "heading": "Frete grátis por região: a conta com o cupom",
         "paragraphs": [
-          "O frete grátis da Dr. Peanut depende de onde você mora, e a loja confere o mínimo sobre o **total já com o cupom**. Em 14/10/2026, a política era esta. O frete grátis vale na opção de entrega mais barata. Como o DREMCASACOMCECILIA tira 10%, o carrinho precisa passar do mínimo antes do desconto. A coluna da direita é a nossa conta: o valor mínimo dividido por 0,9, arredondado para cima."
+          "O frete grátis da Dr. Peanut depende de onde você mora, e a loja confere o mínimo sobre o **total já com o cupom**. A política era esta. O frete grátis vale na opção de entrega mais barata. Como o DREMCASACOMCECILIA tira 10%, o carrinho precisa passar do mínimo antes do desconto. A coluna da direita é a nossa conta: o valor mínimo dividido por 0,9, arredondado para cima."
         ],
         "comparisonTable": {
-          "caption": "Frete grátis da Dr. Peanut por região em 14/10/2026: mínimo da loja, com o cupom já aplicado, e o subtotal mínimo antes do cupom pela nossa conta.",
+          "caption": "Frete grátis da Dr. Peanut por região: mínimo da loja, com o cupom já aplicado, e o subtotal mínimo antes do cupom pela nossa conta.",
           "headers": [
             "Região",
             "Frete grátis a partir de (total com o cupom)",
@@ -80819,8 +80812,8 @@ export const reviewsData: unknown[] = [
           "Os valores são de 14/10/2026. Reconfira o aviso do carrinho em novembro: ele mostra o mínimo da sua região no momento da compra."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
-        "imageAlt": "Carrinho da Dr. Peanut em 13/10/2026, antes do cupom, com a faixa do frete grátis no topo, três itens e Total de R$ 440,16",
-        "imageCaption": "Carrinho da Dr. Peanut em 13/10/2026, antes do cupom: a faixa laranja no topo diz que o frete grátis conta o total já com o cupom, a partir de R$ 149,90. O marca-texto amarelo é nosso.",
+        "imageAlt": "Carrinho da Dr. Peanut antes do cupom, com a faixa do frete grátis no topo, três itens e Total de R$ 440,16",
+        "imageCaption": "Carrinho da Dr. Peanut antes do cupom: a faixa laranja no topo diz que o frete grátis conta o total já com o cupom, a partir de R$ 149,90. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.6075
       },
@@ -80845,9 +80838,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Dr. Peanut tem Black Friday? Em 14/10/2026 a loja ainda não tinha anunciado datas, produtos nem preços da campanha de 2026. A Black Friday é em 27 de novembro, e a Cyber Monday, em 30 de novembro.",
-          "O cupom DREMCASACOMCECILIA soma com promoção? Soma. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e valeu também sobre a pasta de amendoim que já estava em promoção no nosso teste de 13/10/2026.",
-          "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido sobre o total já com o cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte (política em 14/10/2026).",
+          "A Dr. Peanut tem Black Friday? Até a última conferência a loja ainda não tinha anunciado datas, produtos nem preços da campanha de 2026. A Black Friday é na última sexta-feira de novembro, e a Cyber Monday, na segunda-feira seguinte.",
+          "O cupom DREMCASACOMCECILIA soma com promoção? Soma. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e valeu também sobre a pasta de amendoim que já estava em promoção no nosso teste.",
+          "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido sobre o total já com o cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
           "Quanto o carrinho precisa ter antes do cupom para ter frete grátis? Pela nossa conta, R$ 166,56 em São Paulo capital, Sudeste e Sul e R$ 222,12 no Centro-Oeste, Nordeste e Norte. O aviso do carrinho confirma depois de aplicar o código.",
           "A Dr. Peanut tem desconto no Pix? Tem, de 5%. O cupom vale em todas as formas de pagamento, inclusive no Pix.",
           "Dá para trocar um produto da Dr. Peanut? Dá. Por arrependimento, são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. Na troca por outro produto, o frete de ida e de volta é seu. Por defeito, são 30 dias para alimentos.",
@@ -102305,7 +102298,7 @@ export const reviewsData: unknown[] = [
               "Contém glúten; contém lactose"
             ]
           ],
-          "caption": "Tabelas publicadas pela loja: alfajor, Doctor Bar e Doctor Wafer lidos em 20/10/2026; pastas e whey, em 16/10/2026."
+          "caption": "Tabelas publicadas pela loja: alfajor, Doctor Bar, Doctor Wafer, pastas e whey."
         },
         "postParagraphs": [
           "A proteína muda muito de um produto para outro: de 2,5 a 3 g na colher de pasta, de 4 a 4,7 g no alfajor, 5 g na Doctor Wafer, 21 g na Doctor Bar e 20 g no whey. As porções também são diferentes, então compare cada produto pela porção que você de fato come."
@@ -102324,7 +102317,7 @@ export const reviewsData: unknown[] = [
           "Alfajor: a loja não publica a lista, então não dá para saber."
         ],
         "postParagraphs": [
-          "Uma pasta feita só de amendoim tem só amendoim na lista de ingredientes. A da Dr. Peanut leva também proteína concentrada do soro do leite, polióis e edulcorantes. Em 20/10/2026, a loja não vendia pasta só de amendoim."
+          "Uma pasta feita só de amendoim tem só amendoim na lista de ingredientes. A da Dr. Peanut leva também proteína concentrada do soro do leite, polióis e edulcorantes. A loja não vendia pasta só de amendoim."
         ]
       },
       {
@@ -102396,7 +102389,7 @@ export const reviewsData: unknown[] = [
               "45 mg"
             ]
           ],
-          "caption": "Porção de 35 g (1 unidade), tabela publicada pela loja em 20/10/2026."
+          "caption": "Porção de 35 g (1 unidade), tabela publicada pela loja."
         },
         "postParagraphs": [
           "Os cinco marcam 0 g de açúcares adicionados."
@@ -102405,7 +102398,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/dr-peanut/dr-peanut-alfajor-avela-tabela-nutricional.webp",
             "alt": "Tabela nutricional do alfajor Dr. Peanut sabor Avelã, por 100 g e por unidade de 35 g",
-            "caption": "Tabela do alfajor Avelã publicada na página do produto em 20/10/2026. Imagem: Dr. Peanut.",
+            "caption": "Tabela do alfajor Avelã publicada na página do produto. Imagem: Dr. Peanut.",
             "objectFit": "contain",
             "aspectRatio": 2.3203
           }
@@ -102422,7 +102415,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/dr-peanut/dr-peanut-doctor-bar-avela-tabela-nutricional.webp",
             "alt": "Tabela nutricional da barra de proteína Doctor Bar sabor Avelã, porção de 62 g",
-            "caption": "Tabela da Doctor Bar Avelã publicada na página do produto em 20/10/2026. Imagem: Dr. Peanut.",
+            "caption": "Tabela da Doctor Bar Avelã publicada na página do produto. Imagem: Dr. Peanut.",
             "objectFit": "contain",
             "aspectRatio": 0.6962
           }
@@ -102467,7 +102460,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e cupom",
         "paragraphs": [
-          "Em 20/10/2026, os preços no site da Dr. Peanut eram estes:"
+          "Os preços no site da Dr. Peanut eram estes:"
         ],
         "bullets": [
           "Pasta de amendoim: R$ 25,89 no pote de 250 g (de R$ 28,90) e R$ 59,89 no de 600 g (de R$ 64,90).",
@@ -102495,12 +102488,6 @@ export const reviewsData: unknown[] = [
           "Quais são os ingredientes da Dr. Peanut? A pasta leva amendoim, proteína concentrada do soro do leite, polióis e edulcorantes. A lista de cada produto está na página dele no site, menos a do alfajor, que a loja não publica.",
           "Whey Dr. Peanut tem açúcar? Tem. São de 8,5 a 11 g de açúcares totais por porção de 40 g, conforme o sabor.",
           "Whey Dr. Peanut tem lactose? Tem. O rótulo diz \"CONTÉM LACTOSE\" e também \"CONTÉM GLÚTEN\"."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os dados vêm das páginas do site da Dr. Peanut: o alfajor, a Doctor Bar, a Doctor Wafer e os preços foram lidos em 20/10/2026, e as pastas e o whey, em 16/10/2026. Rótulo e preço mudam, então confira a embalagem e o site antes de comprar. Ninguém da equipe provou os produtos. Este texto não é orientação de nutricionista nem de médico. Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA, e isso não muda o preço para você."
         ]
       }
     ],
@@ -122655,6 +122642,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape"
   },
   {
+    "bodyDatesReason": "campanha",
     "id": 593,
     "slug": "presente-de-natal-para-casa-moveis",
     "title": "Presente de Natal para a casa: sofá, poltrona, cinema em casa e área de piscina",
@@ -122689,7 +122677,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de escolher: o que vale para todos os móveis",
         "paragraphs": [
-          "Este guia mostra o que olhar em cada um dos quatro móveis (sofá, poltrona reclinável, poltrona de cinema e área de piscina), a faixa de preço e onde a DAMIE entra. Os preços da DAMIE foram lidos no site em 23/10/2026, e os das outras marcas, no varejo, em 22/10/2026.",
+          "Este guia mostra o que olhar em cada um dos quatro móveis (sofá, poltrona reclinável, poltrona de cinema e área de piscina), a faixa de preço e onde a DAMIE entra. Os preços da DAMIE foram lidos no site da loja, e os das outras marcas, no varejo, na mesma semana.",
           "Cinco conferências valem para qualquer móvel deste guia, da DAMIE ou de outra marca. Faça antes de olhar o preço."
         ],
         "bullets": [
@@ -122710,7 +122698,7 @@ export const reviewsData: unknown[] = [
           "Para decidir entre eles, leia [sofá na caixa ou sofá montado: qual dura mais](/reviews/sofa-na-caixa-ou-sofa-montado-qual-dura-mais) e [sofá modular ou retrátil: qual escolher](/reviews/sofa-modular-ou-retratil-qual-escolher). Na DAMIE, as duas coisas se juntam: o Sofá Damie na Caixa Modular é modular e chega em caixas. Quem tem escada, elevador pequeno ou planeja mudar a sala de lugar tem aqui um bom motivo para olhar o modular."
         ],
         "comparisonTable": {
-          "caption": "Sofá modular de 3 lugares nas marcas que vendem na caixa. Preços lidos nos sites em 22/10/2026 (DAMIE, em 23/10/2026). A faixa muda com o revestimento e a configuração, e o preço da Inflow está no Pix.",
+          "caption": "Sofá modular de 3 lugares nas marcas que vendem na caixa. Preços lidos nos sites das marcas. A faixa muda com o revestimento e a configuração, e o preço da Inflow está no Pix.",
           "headers": [
             "Marca",
             "3 lugares",
@@ -122735,7 +122723,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Inflow vende sofá modular na caixa desde janeiro de 2026. Para comparar a DAMIE com ela e com a Sofá na Caixa em entrega, teste em casa, devolução e garantia, veja [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie). Antes de comprar da Sofá na Caixa, leia também [o que aconteceu com a Sofá na Caixa](/reviews/sofa-na-caixa-crise-reclamacoes-procon-sp)."
+          "A Inflow vende sofá modular na caixa desde o início de 2026. Para comparar a DAMIE com ela e com a Sofá na Caixa em entrega, teste em casa, devolução e garantia, veja [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie). Antes de comprar da Sofá na Caixa, leia também [o que aconteceu com a Sofá na Caixa](/reviews/sofa-na-caixa-crise-reclamacoes-procon-sp)."
         ],
         "image": {
           "src": "/images/reviews/damie/natal-sofa-modular-na-caixa.webp",
@@ -122754,7 +122742,7 @@ export const reviewsData: unknown[] = [
           "caption": "Sofá modular DAMIE no site oficial em 23/10/2026, com apoio de pé grátis. Os preços mudam sem aviso e variam com o revestimento.",
           "headers": [
             "Configuração",
-            "Preço em 23/10/2026"
+            "Preço"
           ],
           "rows": [
             [
@@ -122803,15 +122791,15 @@ export const reviewsData: unknown[] = [
         "heading": "Poltrona reclinável e poltrona do papai: o presente para os pais",
         "paragraphs": [
           "\"Poltrona do papai\" é o nome popular da poltrona reclinável. A primeira escolha é o mecanismo. A manual reclina com o peso do corpo e não usa energia, mas pede esforço de pernas e braços, o que pesa para quem já tem dificuldade de levantar. A elétrica reclina por botão e precisa ficar perto de uma tomada. Há ainda a elétrica com giro e balanço, a com massagem e a com elevação, que inclina a base para a frente para ajudar a pessoa a sair da poltrona.",
-          "No varejo, a poltrona do papai vai de cerca de R$ 550, nas manuais, a mais de R$ 7.000, nas elétricas com massagem. É a faixa que observamos em 22/10/2026, e ela muda com o modelo, o revestimento e a forma de pagamento.",
+          "No varejo, a poltrona do papai vai de cerca de R$ 550, nas manuais, a mais de R$ 7.000, nas elétricas com massagem. É a faixa que observamos, e ela muda com o modelo, o revestimento e a forma de pagamento.",
           "Para presentear pais ou avós, três conferências valem mais que o visual. Primeiro, a altura do assento: a pessoa precisa sentar e levantar sem esforço. Segundo, o peso máximo informado na página do modelo. Terceiro, um controle simples de usar. Quem tem dificuldade de levantar deve olhar a elétrica com elevação. A DAMIE indica essa base para idosos, e dizemos só isso: não prometemos efeito na saúde de quem usa."
         ],
         "comparisonTable": {
-          "caption": "Poltronas reclináveis da DAMIE no site oficial em 23/10/2026. Os preços mudam com o revestimento (suede, bouclé, linho, corino importado e couro bovino, exceto Aurora e Levita) e sem aviso.",
+          "caption": "Poltronas reclináveis da DAMIE no site oficial. Os preços mudam com o revestimento (suede, bouclé, linho, corino importado e couro bovino, exceto Aurora e Levita) e sem aviso.",
           "headers": [
             "Modelo",
             "Como funciona",
-            "Preço em 23/10/2026"
+            "Preço"
           ],
           "rows": [
             [
@@ -122848,8 +122836,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "As quatro primeiras bases existem na [Poltrona Reclinável Damie 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0), a versão atual. Ela tem almofada de cabeça móvel e acolchoada com regulagem de altura, bolsos laterais maiores, apoio de braço contínuo e apoio de pés com mais espuma. As medidas da 2.0, pelo desenho da marca, são 106 cm de altura, 89 cm de largura e 95 cm de profundidade, com 174 cm de comprimento totalmente reclinada. Ela é feita no Brasil, com SoftSpring (molas nosag, espuma e fibra siliconada), mecanismo em aço carbono e estrutura de eucalipto, compensado naval e metal.",
-          "Até 27/11/2026, a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) diz que quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e tipo C) e o porta-copos, e que o preço das poltronas já vem com R$ 1.000 de desconto. Os outros opcionais estavam com preço de campanha em 23/10/2026: mesa de apoio por R$ 490, carregador de celular por indução por R$ 590 e motor do apoio de cabeça por R$ 1.000. O encosto fixo mais alto, para quem tem mais de 1,85 m, custava R$ 450 no configurador em 7/10/2026. Confira no carrinho os brindes que entram no seu pedido.",
-          "Para quem compra mais de uma, como o par para os pais, a mesma página dá desconto por quantidade nas reclináveis e na Poltrona Cinema, até 27/11/2026: R$ 500 em 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Antes de pagar, confirme com a DAMIE como esse desconto entra no pedido e se soma com o CECILIA12.",
+          "Durante a campanha, a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) diz que quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e tipo C) e o porta-copos, e que o preço das poltronas já vem com R$ 1.000 de desconto. Os outros opcionais estavam com preço de campanha: mesa de apoio por R$ 490, carregador de celular por indução por R$ 590 e motor do apoio de cabeça por R$ 1.000. O encosto fixo mais alto, para quem tem mais de 1,85 m, custava R$ 450 no configurador. Confira no carrinho os brindes que entram no seu pedido.",
+          "Para quem compra mais de uma, como o par para os pais, a mesma página dá desconto por quantidade nas reclináveis e na Poltrona Cinema, durante a campanha: R$ 500 em 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Antes de pagar, confirme com a DAMIE como esse desconto entra no pedido e se soma com o CECILIA12.",
           "Com o CECILIA12, a elétrica com giro e balanço, a partir de R$ 4.299, sai por R$ 3.783,12 no cartão. No Pix, pela nossa conta, aplicando um desconto sobre o outro, cai para R$ 3.404,81.",
           "Nas primeiras semanas de uso, contamos como foi a nossa, elétrica com giro e balanço em corino importado caramelo, no artigo [Poltrona Damie é boa? Minha experiência com a nova versão 2.0](/reviews/poltrona-damie-e-boa). Ela foi usada todos os dias por todos em casa e pelas visitas, e a massagem foi o opcional favorito da Cecília. A [experiência com as reclináveis DAMIE](/reviews/poltronas-reclinaveis-damie-vale-o-investimento) tem a compra, a montagem e o tecido. Para quem compra pensando nos pais, o subdomínio da DAMIE tem três guias: [poltrona reclinável para idosos](https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos), [a melhor poltrona para o seu pai](https://damie.emcasacomcecilia.com/guias/melhor-poltrona-para-o-seu-pai-dia-dos-pais) e [poltrona do papai com massagem](https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem)."
         ],
@@ -122866,12 +122854,12 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Poltrona de cinema é a reclinável feita para ficar lado a lado, em fila de 2, 3 ou mais lugares, de frente para a TV. Antes de comparar preço, defina três coisas: quantos lugares a parede da TV comporta, se a fila terá braço no meio (a \"namoradeira\", de 2 lugares, é o que casal costuma buscar) e quanto espaço sobra para reclinar. Meça o sofá atual, a profundidade da poltrona deitada e a distância até a TV: a regra comum é de 1,5 a 2,5 vezes a diagonal da tela, como explica o [guia de poltrona para cinema em casa](https://damie.emcasacomcecilia.com/guias/poltrona-para-cinema-em-casa).",
           "Se a poltrona for elétrica, planeje o ponto de tomada antes de definir o lugar, para não passar extensão pelo meio da sala. Para casa com criança ou pet, couro e corino são mais fáceis de limpar; linho e suede são mais macios e respiram melhor.",
-          "No varejo, as linhas de 2 e 3 lugares que mais aparecem são a Praddo e a Mallie, da Mpozenato, e a Sora, da D'rossi. Em 22/10/2026, elas estavam de cerca de R$ 3.800 a R$ 7.900, conforme modelo, revestimento e forma de pagamento. É uma faixa observada em lojas, não preço garantido: confira antes de decidir."
+          "No varejo, as linhas de 2 e 3 lugares que mais aparecem são a Praddo e a Mallie, da Mpozenato, e a Sora, da D'rossi. Elas estavam de cerca de R$ 3.800 a R$ 7.900, conforme modelo, revestimento e forma de pagamento. É uma faixa observada em lojas, não preço garantido: confira antes de decidir."
         ],
         "comparisonTable": {
           "headers": [
             "Poltrona Cinema DAMIE 2.0",
-            "Preço em 23/10/2026"
+            "Preço"
           ],
           "rows": [
             [
@@ -122894,7 +122882,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Na DAMIE, a [Poltrona Cinema 2.0](https://www.damie.com.br/products/poltrona-cinema-damie-2-0) é modular e vai de 2 a 9 lugares, com ou sem braço divisor. O assento e o encosto usam SoftSpring (sustentação por molas nosag, espuma e fibra siliconada), a estrutura é de aço carbono, a fabricação é no Brasil e a garantia é de 1 ano. Os revestimentos são suede, bouclé, linho, corino importado e couro bovino, e o preço muda com o tecido e com o número de lugares.",
-          "O desconto por quantidade da página de ofertas também vale para a Poltrona Cinema até 27/11/2026: R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Confirme com a DAMIE como ele entra no pedido da fila.",
+          "O desconto por quantidade da página de ofertas também vale para a Poltrona Cinema durante a campanha: R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Confirme com a DAMIE como ele entra no pedido da fila.",
           "Nós não usamos a Poltrona Cinema 2.0: o que está aqui é a ficha e o preço da loja. A experiência do site é com a reclinável da DAMIE, contada em [Poltrona DAMIE é boa?](/reviews/poltrona-damie-e-boa). A descrição da Cinema 2.0 não detalha o tipo de acionamento, então confira na configuração escolhida se há motor e tomada antes de fechar."
         ],
         "image": {
@@ -122909,16 +122897,16 @@ export const reviewsData: unknown[] = [
         "heading": "Área de piscina: puff, apoio do puff e espreguiçadeira",
         "paragraphs": [
           "Natal no Brasil é verão, e o canto da piscina entra na lista de presentes para a casa. Para escolher, o que decide é o material, porque sol, chuva e cloro estragam estofado comum.",
-          "Os caminhos são três. O plástico (polipropileno ou polietileno) é o mais simples: a Tramontina tem espreguiçadeiras assim, como a Leblon Basic, por cerca de R$ 630 em varejo em 22/10/2026. O alumínio com corda náutica é mais durável e mais caro: a faixa observada em lojas em 22/10/2026 foi de cerca de R$ 1.300 a R$ 2.200. E há o tecido impermeável com espuma, que é o puff e a espreguiçadeira macios: a Eco Flame Garden, linha vendida no varejo, tem puffs de área externa com trama náutica, proteção UV e tratamento anticloro, e o Duo Slim saía por cerca de R$ 2.322 em 22/10/2026. A Tidelli é outra marca de móveis externos, com alumínio e trama sintética.",
+          "Os caminhos são três. O plástico (polipropileno ou polietileno) é o mais simples: a Tramontina tem espreguiçadeiras assim, como a Leblon Basic, por cerca de R$ 630 em varejo. O alumínio com corda náutica é mais durável e mais caro: a faixa observada em lojas foi de cerca de R$ 1.300 a R$ 2.200. E há o tecido impermeável com espuma, que é o puff e a espreguiçadeira macios: a Eco Flame Garden, linha vendida no varejo, tem puffs de área externa com trama náutica, proteção UV e tratamento anticloro, e o Duo Slim saía por cerca de R$ 2.322. A Tidelli é outra marca de móveis externos, com alumínio e trama sintética.",
           "Cuidado com o puff \"de piscina\" barato: os redondos de marketplace a partir de cerca de R$ 199 costumam ser de tecido comum, não impermeável. Antes de comprar, confira se o tecido é impermeável e tem proteção UV.",
-          "A DAMIE tem uma linha própria para a beira da piscina, a Garden. Em 23/10/2026, o catálogo tinha seis peças. A espreguiçadeira, os puffs e o apoio do puff usam o tecido que a DAMIE chama de Ultra Poliéster Impermeável Padrão Náutico. Segundo a DAMIE, ele não absorve água, não mancha, evita mofo e tem proteção UV, e as peças podem ficar perto da piscina e até submersas. O miolo é de microesferas de EPS e flocos de espuma. Segundo a DAMIE, há garantia antimofo de 1 ano e resistência ao cloro da piscina.",
+          "A DAMIE tem uma linha própria para a beira da piscina, a Garden. O catálogo tinha seis peças. A espreguiçadeira, os puffs e o apoio do puff usam o tecido que a DAMIE chama de Ultra Poliéster Impermeável Padrão Náutico. Segundo a DAMIE, ele não absorve água, não mancha, evita mofo e tem proteção UV, e as peças podem ficar perto da piscina e até submersas. O miolo é de microesferas de EPS e flocos de espuma. Segundo a DAMIE, há garantia antimofo de 1 ano e resistência ao cloro da piscina.",
           "A linha é produzida sob encomenda, segundo a DAMIE, com fabricação própria no Rio Grande do Sul, e a entrega é por transportadora de móveis. O prazo aparece na página do produto, ao escolher o estado, e no frete pelo CEP. O frete grátis da DAMIE vale para poltronas e sofás, não para a Garden. O tecido vem em 6 cores: verde militar, azul denim, preto, vermelho, areia e cinza claro. A página fala em 30 dias para experimentar."
         ],
         "comparisonTable": {
           "headers": [
             "Peça",
             "Medidas e peso (segundo a DAMIE)",
-            "Preço em 23/10/2026"
+            "Preço"
           ],
           "rows": [
             [
@@ -122979,7 +122967,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Black Friday de 2026 é em 27 de novembro, e o Natal, em 25 de dezembro. Para móvel de presente, a Black Friday é a data de comprar: sobra quase um mês até o Natal, e a entrega de móvel grande, ou de peça feita sob encomenda como a linha Garden, leva tempo. Comprar em cima do Natal é arriscar.",
           "O prazo de entrega aparece no cálculo do frete, pelo CEP, antes de pagar, e conta da confirmação do pagamento. Na página do produto, ele também aparece ao escolher o estado. O Pix libera o pedido mais rápido, e o boleto leva até 2 dias úteis para compensar. O logo bordado, opcional nas reclináveis, soma 7 dias. Por isso, não existe uma data de corte igual para todo mundo: ela depende do CEP, do produto e do dia em que o pagamento for confirmado. Por isso, este guia não dá data de chegada.",
-          "Também não precisa esperar o dia 27: em 23/10/2026, a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) já mostrava as condições de Black Friday, válidas até 27/11. Entram brindes na compra de uma poltrona, R$ 1.000 de desconto já aplicado nas poltronas, desconto por quantidade nas reclináveis e na Poltrona Cinema, acessórios com preço de campanha e frete grátis no Sul e no Sudeste, aplicado no checkout. Confira no carrinho se o CECILIA12 soma com cada um. A tabela de preços para comparar na campanha está em [Black Friday DAMIE 2026](/reviews/black-friday-damie)."
+          "Também não precisa esperar o dia 27: a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) já mostrava as condições da campanha, válidas até o dia da Black Friday. Entram brindes na compra de uma poltrona, R$ 1.000 de desconto já aplicado nas poltronas, desconto por quantidade nas reclináveis e na Poltrona Cinema, acessórios com preço de campanha e frete grátis no Sul e no Sudeste, aplicado no checkout. Confira no carrinho se o CECILIA12 soma com cada um. A tabela de preços para comparar na campanha está em [Black Friday DAMIE 2026](/reviews/black-friday-damie)."
         ],
         "comparisonTable": {
           "headers": [
@@ -122988,11 +122976,11 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Agora até 26/11",
+              "Antes da Black Friday",
               "Meça o espaço e a porta, escolha o móvel e anote o preço de hoje para comparar com a campanha."
             ],
             [
-              "27/11, Black Friday",
+              "Black Friday",
               "Compare com o preço anotado. Aplique o CECILIA12 no carrinho e confira se ele soma com a campanha."
             ],
             [
@@ -123000,7 +122988,7 @@ export const reviewsData: unknown[] = [
               "Simule o frete pelo CEP e leia o prazo. Ele conta da confirmação do pagamento: pagar no Pix libera o pedido mais rápido."
             ],
             [
-              "25/12, Natal",
+              "Natal",
               "Se o prazo do frete não fecha com o Natal, dê o presente com uma foto do móvel e deixe a peça chegar depois."
             ]
           ]
@@ -123016,8 +123004,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom e pagamento",
         "paragraphs": [
-          "O CECILIA12 dá 12% de desconto em todo o site da DAMIE. Hoje, em outubro de 2026, ele soma com as promoções e com os 10% do Pix à vista. É um cupom por pedido: ele não soma com outro cupom nem com o giftback da loja. A [página do cupom](/cupons/damie) tem o código para copiar e a data do último teste.",
-          "Até 27/11/2026, a DAMIE também devolve 15% do pedido em giftback para a próxima compra. Na compra em que você usar esse giftback, o CECILIA12 não entra junto: é um ou outro.",
+          "O CECILIA12 dá 12% de desconto em todo o site da DAMIE. Hoje ele soma com as promoções e com os 10% do Pix à vista. É um cupom por pedido: ele não soma com outro cupom nem com o giftback da loja. A [página do cupom](/cupons/damie) tem o código para copiar e a data do último teste.",
+          "Durante a campanha, a DAMIE também devolve 15% do pedido em giftback para a próxima compra. Na compra em que você usar esse giftback, o CECILIA12 não entra junto: é um ou outro.",
           "A conta de exemplo, nossa: a espreguiçadeira Caraíva custa R$ 2.250. Com os 12% do CECILIA12, vai a R$ 1.980 no cartão. No Pix, entram também os 10%, e, pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.782. O resumo do checkout mostra o valor exato antes de pagar.",
           "O cartão e o PayPal parcelam em até 12x sem juros, com parcela mínima de R$ 100, e o boleto é à vista. Na Black Friday, confira no carrinho se o cupom soma com a campanha antes de pagar. O passo a passo no checkout está em [como usar o CECILIA12](/reviews/cupom-cecilia12-como-usar)."
         ]
@@ -123025,10 +123013,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual móvel escolher",
         "bullets": [
-          "**Para os pais:** a poltrona reclinável, a chamada poltrona do papai. Quem tem dificuldade de levantar pode olhar a versão com elevação, que a marca indica para esse uso. Na DAMIE, a reclinável vai de R$ 2.969 a R$ 6.149 em 23/10/2026, conforme a base e o revestimento.",
-          "**Para a sala:** o sofá modular. Ele chega em caixas, passa por escada e elevador pequeno, e o 3 lugares da DAMIE custa de R$ 5.100 a R$ 8.100 em 23/10/2026, com apoio de pé grátis.",
+          "**Para os pais:** a poltrona reclinável, a chamada poltrona do papai. Quem tem dificuldade de levantar pode olhar a versão com elevação, que a marca indica para esse uso. Na DAMIE, a reclinável vai de R$ 2.969 a R$ 6.149, conforme a base e o revestimento.",
+          "**Para a sala:** o sofá modular. Ele chega em caixas, passa por escada e elevador pequeno, e o 3 lugares da DAMIE custa de R$ 5.100 a R$ 8.100, com apoio de pé grátis.",
           "**Para o cinema em casa e para a piscina:** a Poltrona Cinema, de 2 a 9 lugares, e a linha Garden, com espreguiçadeira e puffs redondos de 120 cm de diâmetro. Cada uma tem a sua seção mais abaixo.",
-          "**Quando comprar:** a Black Friday é em 27/11/2026 e o Natal, em 25/12. O prazo de entrega aparece no cálculo do frete, pelo CEP, e conta da confirmação do pagamento. Confira antes de pagar.",
+          "**Quando comprar:** a Black Friday vem antes do Natal, com quase um mês de folga. O prazo de entrega aparece no cálculo do frete, pelo CEP, e conta da confirmação do pagamento. Confira antes de pagar.",
           "**Cupom:** na DAMIE, o CECILIA12 dá 12% OFF em todo o site e hoje soma com as promoções e com os 10% do Pix. As regras e a data do último teste estão na [página da DAMIE](/cupons/damie)."
         ]
       },
@@ -123039,14 +123027,8 @@ export const reviewsData: unknown[] = [
           "Chega antes do Natal se eu comprar na Black Friday? Depende do CEP e do produto. O prazo aparece no frete, antes de pagar, e conta da confirmação do pagamento: confira ali, sem contar com data de chegada.",
           "Puff de piscina pode ficar no sol e na chuva? Só o de tecido impermeável com proteção UV. Segundo a DAMIE, o tecido dos puffs e da espreguiçadeira Garden não absorve água e pode ficar perto da piscina e até submerso.",
           "Poltrona de cinema precisa de tomada? As elétricas precisam de uma tomada por perto. Confira na configuração da Cinema 2.0 se há motor antes de comprar.",
-          "O CECILIA12 vale na Black Friday? Hoje, em outubro de 2026, ele soma com as promoções e com o Pix. Na campanha, confira no carrinho se soma; a [página do cupom](/cupons/damie) traz a data do último teste.",
-          "Quanto custa uma poltrona de cinema para casa? A Cinema 2.0 da DAMIE, em 23/10/2026, ia de R$ 5.438 a R$ 8.380 no modelo de 2 lugares, conforme o revestimento. No varejo, as linhas de 2 e 3 lugares estavam de cerca de R$ 3.800 a R$ 7.900 em 22/10/2026."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os preços e as regras da DAMIE foram lidos no site da loja em 23/10/2026, e as medidas e os materiais da linha Garden, nas páginas de produto, também. As faixas de preço de outras marcas são de lojas do varejo, observadas em 22/10/2026, e não são preço garantido. Os valores com cupom são conta nossa. Ninguém da equipe usou a Poltrona Cinema 2.0 nem a linha Garden, e a nossa experiência com a DAMIE é só com a reclinável e o sofá modular. Podemos receber comissão pelas compras feitas pelos links deste artigo ou com o cupom CECILIA12. Preços, prazos e regras mudam: confira o pedido no checkout antes de pagar."
+          "O CECILIA12 vale na Black Friday? Hoje ele soma com as promoções e com o Pix. Na campanha, confira no carrinho se soma; a [página do cupom](/cupons/damie) traz a data do último teste.",
+          "Quanto custa uma poltrona de cinema para casa? A Cinema 2.0 da DAMIE ia de R$ 5.438 a R$ 8.380 no modelo de 2 lugares, conforme o revestimento. No varejo, as linhas de 2 e 3 lugares estavam de cerca de R$ 3.800 a R$ 7.900."
         ]
       }
     ],
@@ -126380,7 +126362,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. O wafer tem menos calorias, de 118 a 127 kcal, e o menor preço por unidade, R$ 11,46. O que pesa é a proteína que você quer em cada unidade; veja em Qual escolher."
+          "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. O wafer tem menos calorias, de 118 a 127 kcal, e o menor preço por unidade. O que pesa é a proteína que você quer em cada unidade; veja em Qual escolher."
         ]
       },
       {
@@ -126531,16 +126513,16 @@ export const reviewsData: unknown[] = [
               "R$ 11,46"
             ]
           ],
-          "caption": "Tabelas publicadas pela loja, lidas em 24/10/2026."
+          "caption": "Tabelas publicadas pela loja."
         },
         "postParagraphs": [
-          "Calorias, proteína, açúcares e gordura são por unidade. O preço da Doctor Bar é a conta do display de 8 (R$ 122,03 ÷ 8). Na Doctor Bar Speculoos, a tabela não publicada pela loja em 24/10 deixa as calorias e os açúcares em branco; a proteína de 21 g vem da embalagem e da descrição do produto."
+          "Calorias, proteína, açúcares e gordura são por unidade. O preço da Doctor Bar é a conta do display de 8 (R$ 122,03 ÷ 8). Na Doctor Bar Speculoos, a tabela não publicada pela loja deixa as calorias e os açúcares em branco; a proteína de 21 g vem da embalagem e da descrição do produto."
         ],
         "images": [
           {
             "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-tabela-bar-cookies.webp",
             "alt": "Tabela nutricional da barra de proteína Doctor Bar sabor Cookies & Cream, porção de 62 g da Dr. Peanut",
-            "caption": "Tabela da Doctor Bar Cookies publicada na página do produto em 24/10/2026. Imagem: Dr. Peanut.",
+            "caption": "Tabela da Doctor Bar Cookies publicada na página do produto. Imagem: Dr. Peanut.",
             "objectFit": "contain",
             "aspectRatio": 0.7078
           }
@@ -126653,12 +126635,6 @@ export const reviewsData: unknown[] = [
           "Alfajor Dr. Peanut tem quantas calorias? Tem de 158 a 183 kcal por unidade de 35 g, conforme o sabor, segundo a tabela publicada pela loja.",
           "Qual snack tem mais proteína? Por unidade, a Doctor Bar, com 21 g. O alfajor tem de 4 a 4,7 g, e o wafer, de 5 a 6 g."
         ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Os números vêm das tabelas e das páginas de produto da loja, lidas em 24/10/2026. Os preços são do mesmo dia, e as contas com cupom são nossas. Ninguém da equipe provou os produtos. Rótulo e preço mudam, então confira a embalagem e o site antes de comprar. Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA, e isso não muda o preço para você."
-        ]
       }
     ],
     "pros": [],
@@ -126671,7 +126647,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "DREMCASACOMCECILIA",
     "affiliate": "dr-peanut",
-    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA.",
+    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA. Não provamos os produtos.",
     "relatedArticles": [
       {
         "slug": "dr-peanut-e-saudavel",
@@ -126716,7 +126692,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Por 100 g, o kit de 5 potes de 600 g é o mais barato, R$ 8,41 sem cupom; para uma compra só, o pote de 600 g. O de 250 g é o mais caro por grama e serve para provar. O frete grátis muda a conta: veja em \"Frete grátis: onde o kit compensa\"."
+          "Por 100 g, o kit de 5 potes de 600 g é o mais barato; para uma compra só, o pote de 600 g. O de 250 g é o mais caro por grama e serve para provar. O frete grátis muda a conta: veja em \"Frete grátis: onde o kit compensa\"."
         ]
       },
       {
@@ -126726,7 +126702,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-pote-250g.webp",
         "imageAlt": "Pote de 250 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem",
-        "imageCaption": "Pote de 250 g: R$ 25,89 no site em 24/10/2026, R$ 10,36 por 100 g.",
+        "imageCaption": "Pote de 250 g: R$ 25,89 no site, R$ 10,36 por 100 g.",
         "imageFit": "contain",
         "imageAspectRatio": 0.638
       },
@@ -126820,11 +126796,11 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O pote de 250 g estava de R$ 28,90 por R$ 25,89, e o de 600 g, de R$ 64,90 por R$ 59,89. Os preços são do site em 24/10/2026, sem desconto de Pix."
+          "O pote de 250 g estava de R$ 28,90 por R$ 25,89, e o de 600 g, de R$ 64,90 por R$ 59,89. Os preços são do site, sem desconto de Pix."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-tabela-por-100g.webp",
         "imageAlt": "Tabela com o preço por 100 g de cada formato da Dr. Peanut, sem cupom e com o cupom de 10%, e da assinatura com cupom.",
-        "imageCaption": "Preços do site oficial em 24/10/2026. Com o cupom, a conta é o preço menos 10%.",
+        "imageCaption": "Preços do site oficial. Com o cupom, a conta é o preço menos 10%.",
         "imageFit": "contain",
         "imageAspectRatio": 0.933
       },
@@ -126836,7 +126812,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-pote-600g.webp",
         "imageAlt": "Pote de 600 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem",
-        "imageCaption": "Pote de 600 g: R$ 59,89 no site em 24/10/2026, R$ 9,98 por 100 g.",
+        "imageCaption": "Pote de 600 g: R$ 59,89 no site, R$ 9,98 por 100 g.",
         "imageFit": "contain",
         "imageAspectRatio": 0.751
       },
@@ -126865,7 +126841,7 @@ export const reviewsData: unknown[] = [
         "heading": "Assinatura: com o cupom, o menor preço nos potes de 250 g",
         "paragraphs": [
           "A assinatura (\"Monte sua assinatura\") só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral. O desconto sobe com a quantidade: 4% com 1 pasta, 8% com 2, 12% com 3, e 15% com 4 ou mais. Sem cupom, o total é R$ 24,85 com 1 pasta, R$ 47,64 com 2, R$ 68,35 com 3 e R$ 88,03 com 4, os mesmos valores dos kits de 250 g.",
-          "O cupom DREMCASACOMCECILIA entra na assinatura e soma com o desconto progressivo. Testamos no carrinho em 24/10/2026: os 10% do cupom saem sobre o subtotal, não sobre o valor já descontado. Com 3 pastas a R$ 25,89, o subtotal é R$ 77,67, o desconto de 12% tira R$ 9,32, o cupom tira R$ 7,77 e o total fica em R$ 60,58, ou R$ 20,19 por pasta e R$ 8,08 por 100 g."
+          "O cupom DREMCASACOMCECILIA entra na assinatura e soma com o desconto progressivo. Testamos no carrinho: os 10% do cupom saem sobre o subtotal, não sobre o valor já descontado. Com 3 pastas a R$ 25,89, o subtotal é R$ 77,67, o desconto de 12% tira R$ 9,32, o cupom tira R$ 7,77 e o total fica em R$ 60,58, ou R$ 20,19 por pasta e R$ 8,08 por 100 g."
         ],
         "comparisonTable": {
           "headers": [
@@ -126927,16 +126903,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom vale no pote avulso? Sim. O cupom dá 10% em todo o site, e o teste de 13/10 mostrou o desconto em todos os itens do carrinho, inclusive nos que já estavam em promoção.",
+          "O cupom vale no pote avulso? Sim. O cupom dá 10% em todo o site, e o teste no carrinho mostrou o desconto em todos os itens do carrinho, inclusive nos que já estavam em promoção.",
           "O Pix entra na conta? Não há soma confirmada com o Pix, e os preços deste artigo não incluem desconto de Pix.",
           "A Dr. Peanut tem pote de 1 kg? Não há pote de 800 g nem de 1 kg. O equivalente é o kit de 4 × 250 g, que soma 1 kg, ou 4 pastas de 250 g na assinatura.",
-          "O cupom entra na assinatura? Sim. No teste de 24/10/2026, o DREMCASACOMCECILIA somou com o desconto progressivo da assinatura, com os 10% calculados sobre o subtotal."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Não provamos os produtos deste artigo. Os preços e o frete são do site oficial da Dr. Peanut, lidos em 24/10/2026, e podem mudar: confira no carrinho antes de comprar. Podemos receber comissão pelas compras feitas com o cupom."
+          "O cupom entra na assinatura? Sim. No teste no carrinho, o DREMCASACOMCECILIA somou com o desconto progressivo da assinatura, com os 10% calculados sobre o subtotal."
         ]
       }
     ],
@@ -127902,7 +127872,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como comparamos, sem degustação",
         "paragraphs": [
           "Este guia compara a Dr. Peanut com a La Ganexa pelo que as duas lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de cupom. Ninguém da equipe provou as pastas, então sabor e textura ficam de fora.",
-          "Os preços são de 25/10/2026, sem frete e no preço \"por\" de cada site. A tabela da Dr. Peanut é a publicada pela loja, lida em 16/10/2026; a da La Ganexa, lida em 24/10/2026. Os números por 100 g e os preços com cupom são contas nossas.",
+          "Os preços são de 25/10/2026, sem frete e no preço \"por\" de cada site. A tabela da Dr. Peanut é a publicada pela loja; a da La Ganexa, a publicada pelo site dela. Os números por 100 g e os preços com cupom são contas nossas.",
           "As duas lojas usam porções diferentes no rótulo: 15 g na Dr. Peanut e 20 g na La Ganexa. Por isso o texto compara sempre por 100 g, e não por pote nem por porção."
         ]
       },
@@ -127921,7 +127891,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Sabores à venda em 25/10/2026",
+              "Sabores à venda",
               "10",
               "13"
             ],
@@ -127953,7 +127923,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na Dr. Peanut, Banoffee e Beijinho saem só no pote de 600 g, e o Doce de Leite só no de 250 g. Na La Ganexa, Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal existem só em 450 g. A página da La Ganexa lida em 24/10/2026 não mostrava a tabela do Cookies, só os ingredientes, então ele fica fora da tabela por sabor."
+          "Na Dr. Peanut, Banoffee e Beijinho saem só no pote de 600 g, e o Doce de Leite só no de 250 g. Na La Ganexa, Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal existem só em 450 g. A página da La Ganexa não mostrava a tabela do Cookies, só os ingredientes, então ele fica fora da tabela por sabor."
         ]
       },
       {
@@ -128071,8 +128041,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por 100 g",
         "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-quadro-preco-100g.webp",
-        "imageAlt": "Quadro com o preço por 100 g da Dr. Peanut (250 g e 600 g) e da La Ganexa (450 g e 1 kg), com os preços de 25/10/2026",
-        "imageCaption": "Preço por 100 g, conta nossa com os preços do site em 25/10/2026. Com o cupom, a Dr. Peanut sai a R$ 9,32 (250 g) e R$ 8,98 (600 g).",
+        "imageAlt": "Quadro com o preço por 100 g da Dr. Peanut (250 g e 600 g) e da La Ganexa (450 g e 1 kg), com os preços do site",
+        "imageCaption": "Preço por 100 g, conta nossa com os preços do site. Com o cupom, a Dr. Peanut sai a R$ 9,32 (250 g) e R$ 8,98 (600 g).",
         "imageFit": "contain",
         "imageAspectRatio": 1.3333,
         "comparisonTable": {
@@ -128112,7 +128082,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde cada uma ganha",
         "paragraphs": [
-          "Pelos rótulos e pelos preços de 25/10/2026:"
+          "Pelos rótulos e pelos preços:"
         ],
         "bullets": [
           "Quer pasta só de amendoim, vegana ou sem lactose: La Ganexa, com a Natural, a Crocante e a Avelã Vegana. Nenhuma pasta da Dr. Peanut é sem lactose.",
@@ -128134,14 +128104,6 @@ export const reviewsData: unknown[] = [
           "Qual pasta de amendoim não tem lactose? Entre as duas marcas, só a La Ganexa tem: a Natural, a Crocante e a Avelã Vegana, que dizem \"NÃO CONTÉM LACTOSE\". As dez pastas da Dr. Peanut contêm lactose.",
           "Qual sai mais barata por 100 g? No pote grande, a La Ganexa de 1 kg, na maioria dos sabores, mesmo contra a Dr. Peanut com o cupom. No pote pequeno com sabor de sobremesa, a Dr. Peanut de 250 g, a R$ 9,32 por 100 g com o cupom.",
           "A La Ganexa tem cupom do site? Não. A La Ganexa não é parceira do site, e este texto não traz cupom dela. O cupom DREMCASACOMCECILIA é da Dr. Peanut."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "Este é um artigo de parceria comissionada com a Dr. Peanut. Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA. A La Ganexa não é parceira do site: não há link nem cupom dela, e ela entra só pelo rótulo e pelo preço que a loja publica.",
-          "Fontes: tabela nutricional, ingredientes e preços publicados pela Dr. Peanut, com os preços reconferidos em 25/10/2026 e a tabela por sabor lida em 16/10/2026; tabela nutricional, ingredientes e catálogo da La Ganexa, lidos em 24/10/2026 e com os preços reconferidos em 25/10/2026.",
-          "Ninguém da equipe provou os produtos. Este texto mostra o que o rótulo e o preço dizem; não é orientação de nutricionista nem de médico. Preço e estoque mudam: confira no site antes de comprar."
         ]
       }
     ],
@@ -129807,6 +129769,7 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
+    "bodyDatesReason": "reclame-aqui",
     "id": 613,
     "slug": "valley-inflow-ou-damie",
     "locale": "pt",
@@ -129867,11 +129830,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Valley Modular é a mesma empresa que a Inflow?",
         "paragraphs": [
-          "Este guia compara três marcas de sofá modular que chega em caixa: a Valley Modular, a Inflow e a DAMIE. Os pontos são como o sofá chega e se monta, garantia, teste em casa, devolução, prazo, preço de modelos parecidos e Reclame Aqui, com o que cada marca publica no próprio site, lido em 25/10/2026. A DAMIE é parceira do site, e a Cecília tem o sofá modular dela em casa. Ninguém da equipe usou os sofás da Valley Modular nem da Inflow: elas entram só pela ficha, pela política e pelo preço.",
+          "Este guia compara três marcas de sofá modular que chega em caixa: a Valley Modular, a Inflow e a DAMIE. Os pontos são como o sofá chega e se monta, garantia, teste em casa, devolução, prazo, preço de modelos parecidos e Reclame Aqui, com o que cada marca publica no próprio site. A DAMIE é parceira do site, e a Cecília tem o sofá modular dela em casa. Ninguém da equipe usou os sofás da Valley Modular nem da Inflow: elas entram só pela ficha, pela política e pelo preço.",
           "A primeira dúvida de quem pesquisa é se a Valley Modular é a Inflow com outro nome. Não. São empresas diferentes:"
         ],
         "bullets": [
-          "**Valley Modular:** nome fantasia da Valley Art LTDA., CNPJ 30.105.567/0001-93, em Hortolândia (SP), ativa desde 04/04/2018, com atividade de fabricação de móveis. Vende nos domínios valleyart.com.br e valleymodular.com.br.",
+          "**Valley Modular:** nome fantasia da Valley Art LTDA., CNPJ 30.105.567/0001-93, em Hortolândia (SP), ativa desde 2018, com atividade de fabricação de móveis. Vende nos domínios valleyart.com.br e valleymodular.com.br.",
           "**Inflow:** Fast Living Comércio e Distribuição Ltda., em Itapeva (MG), ativa desde 2022.",
           "**DAMIE:** Damie Ltda., em Frederico Westphalen (RS), ativa desde 2014, como fábrica de móveis."
         ],
@@ -129883,7 +129846,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como cada uma chega e se monta",
         "paragraphs": [
           "**Valley Modular e Inflow** usam a mesma logística: o sofá vai compactado a vácuo e expande depois que a caixa é aberta, sem ferramentas. Na Valley Modular, a linha modular se chama Modu, e a ficha descreve o sofá como \"100% espuma, sem madeira nem metal\", com espuma D33 Pró e capa removível; os módulos se unem por velcro. A marca também vende a linha Mood, um sofá-cama com a mesma construção em espuma, que fica fora desta comparação. Na Inflow, a espuma \"chega compactada na caixa e ganha forma diante dos seus olhos\", nas palavras da marca, e os módulos se ligam por encaixe.",
-          "**A DAMIE** não compacta o sofá: entrega módulos pré-estruturados, com estrutura de eucalipto, compensado naval e molas nosag, em caixas reforçadas. A montagem é por encaixe, em menos de 10 minutos, segundo a página do produto lida em 14/10/2026.",
+          "**A DAMIE** não compacta o sofá: entrega módulos pré-estruturados, com estrutura de eucalipto, compensado naval e molas nosag, em caixas reforçadas. A montagem é por encaixe, em menos de 10 minutos, segundo a página do produto.",
           "É a diferença central entre as três: de um lado, espuma que só mostra o tamanho e a firmeza depois de aberta; do outro, módulos que já chegam com estrutura de madeira. O que cada parte faz pela vida útil do sofá está em [Sofá na caixa ou sofá montado: qual dura mais?](/reviews/sofa-na-caixa-ou-sofa-montado-qual-dura-mais)."
         ],
         "images": [
@@ -129906,10 +129869,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As três lado a lado",
         "paragraphs": [
-          "Regras publicadas por cada marca, lidas em 25/10/2026 (a estrutura e o peso suportado da DAMIE e da Inflow vêm da leitura de 14/10/2026). \"Não publica\" indica dado que não aparece nas páginas lidas."
+          "Regras publicadas por cada marca (a estrutura e o peso suportado da DAMIE e da Inflow vêm de uma leitura anterior). \"Não publica\" indica dado que não aparece nas páginas lidas."
         ],
         "comparisonTable": {
-          "caption": "Valley Modular, Inflow e DAMIE: regras publicadas em 25/10/2026",
+          "caption": "Valley Modular, Inflow e DAMIE: regras publicadas",
           "headers": [
             "",
             "Valley Modular",
@@ -129989,11 +129952,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa: 2 lugares e 3 lugares com apoio",
         "paragraphs": [
-          "Preços no cartão, lidos em 25/10/2026 nos sites das três. Os modelos não são idênticos: a DAMIE vende o modular com o puff incluído; na Valley Modular e na Inflow, o apoio de pé é um módulo a mais, e as linhas \"com apoio\" já trazem esse módulo no preço. O número de módulos muda de uma marca para a outra, e cada linha diz o tecido. A comparação é de ordem de grandeza, não de centavos."
+          "Preços no cartão, lidos nos sites das três. Os modelos não são idênticos: a DAMIE vende o modular com o puff incluído; na Valley Modular e na Inflow, o apoio de pé é um módulo a mais, e as linhas \"com apoio\" já trazem esse módulo no preço. O número de módulos muda de uma marca para a outra, e cada linha diz o tecido. A comparação é de ordem de grandeza, não de centavos."
         ],
         "image": "/images/reviews/damie/valley-inflow-ou-damie-precos-cartao.webp",
         "imageAlt": "Quadro com o preço no cartão do sofá de 2 e de 3 lugares da Valley Modular, da Inflow e da DAMIE em 25/10/2026.",
-        "imageCaption": "Preços no cartão em 25/10/2026; Pix e parcelas no texto.",
+        "imageCaption": "Preços no cartão; Pix e parcelas no texto.",
         "imageFit": "contain",
         "imageAspectRatio": 0.9685,
         "comparisonTable": {
@@ -130052,7 +130015,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No Pix, a Valley Modular dá 5% e a Inflow e a DAMIE dão 10%; o parcelamento vai até 10x na Valley Modular e na Inflow e até 12x na DAMIE. Na DAMIE, o cupom CECILIA12 tira mais 12% e soma com o desconto do Pix. O sofá-cama Mood, da Valley Modular, saía por R$ 3.150 no 2 lugares e R$ 4.190 no 3 lugares em 25/10/2026, mas é outro tipo de sofá e não entra na conta.",
+          "No Pix, a Valley Modular dá 5% e a Inflow e a DAMIE dão 10%; o parcelamento vai até 10x na Valley Modular e na Inflow e até 12x na DAMIE. Na DAMIE, o cupom CECILIA12 tira mais 12% e soma com o desconto do Pix. O sofá-cama Mood, da Valley Modular, saía por R$ 3.150 no 2 lugares e R$ 4.190 no 3 lugares, mas é outro tipo de sofá e não entra na conta.",
           "No 3 lugares com apoio, a Inflow tem o menor preço no cartão (R$ 4.790, em bouclê) e a Valley Modular, o maior (R$ 5.986). No 2 lugares com apoio, a ordem é a mesma: Inflow (R$ 3.790), DAMIE (R$ 3.850, com o puff) e Valley Modular (R$ 4.175). O menor número da tabela é o Modu 2 lugares com 2 cantos sem apoio, R$ 3.189, que é um sofá menor, de 190 cm. Compare sempre cartão com cartão ou Pix com Pix, e some o frete: a Valley Modular não publica regra de frete grátis, e as outras duas só dão no Sul e no Sudeste."
         ]
       },
@@ -130066,21 +130029,21 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/damie/valley-inflow-ou-damie-garantia-teste-devolucao-prazo.webp",
         "imageAlt": "Quadro com garantia, teste em casa, devolução por arrependimento e prazo da Valley Modular, da Inflow e da DAMIE, lidos em 25/10/2026.",
-        "imageCaption": "Garantia, teste em casa, devolução e prazo, como cada marca publica (leitura de 25/10/2026).",
+        "imageCaption": "Garantia, teste em casa, devolução e prazo, como cada marca publica.",
         "imageFit": "contain",
         "imageAspectRatio": 1.3311,
         "postParagraphs": [
-          "**O prazo da Valley Modular.** A marca produz sob encomenda (\"produzimos para pessoas, não para estoque\") e informa de 20 a 30 dias úteis de produção antes do envio, conforme a cor; o Modu lido em 25/10/2026 marcava 30 dias úteis. O transporte entra depois, pelo CEP. Na Inflow e na DAMIE, o prazo aparece no cálculo do frete; na DAMIE, ele conta da confirmação do pagamento. Na Inflow e na DAMIE, atraso na entrega é a queixa mais comum no Reclame Aqui, como mostra o guia de 14/10; a Valley Modular tem registros de menos para dizer.",
+          "**O prazo da Valley Modular.** A marca produz sob encomenda (\"produzimos para pessoas, não para estoque\") e informa de 20 a 30 dias úteis de produção antes do envio, conforme a cor; o Modu, na leitura, marcava 30 dias úteis. O transporte entra depois, pelo CEP. Na Inflow e na DAMIE, o prazo aparece no cálculo do frete; na DAMIE, ele conta da confirmação do pagamento. Na Inflow e na DAMIE, atraso na entrega é a queixa mais comum no Reclame Aqui, como mostra o guia de Sofá na Caixa, Inflow ou DAMIE; a Valley Modular tem registros de menos para dizer.",
           "Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, quem quer a chance de devolver por não gostar tem de decidir antes de abrir a caixa, na Valley Modular e na Inflow. Na DAMIE, a decisão pode esperar os 30 dias, com a embalagem guardada."
         ]
       },
       {
         "heading": "E a reputação das três no Reclame Aqui?",
         "paragraphs": [
-          "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026), lidos em 25/10/2026."
+          "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026)."
         ],
         "comparisonTable": {
-          "caption": "Reclame Aqui, últimos 6 meses (01/04 a 30/09/2026), lido em 25/10/2026",
+          "caption": "Reclame Aqui, últimos 6 meses",
           "headers": [
             "",
             "Valley Modular",
@@ -130139,7 +130102,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Valley Modular está sem reputação definida porque tem menos de 10 avaliações no período: foram 2 reclamações, 1 respondida e 1 aguardando resposta. No histórico geral da página, de 26/10/2023 a 25/10/2026, são 9 reclamações, 88,9% respondidas e 1 avaliada. A página traz o selo de empresa verificada, que confirma a existência da empresa e não é uma nota. Com tão poucos registros, o Reclame Aqui não diz muito sobre a Valley Modular, nem para bem nem para mal.",
+          "A Valley Modular está sem reputação definida porque tem menos de 10 avaliações no período: foram 2 reclamações, 1 respondida e 1 aguardando resposta. No histórico geral da página, são 9 reclamações, 88,9% respondidas e 1 avaliada. A página traz o selo de empresa verificada, que confirma a existência da empresa e não é uma nota. Com tão poucos registros, o Reclame Aqui não diz muito sobre a Valley Modular, nem para bem nem para mal.",
           "Entre as outras duas, a Inflow tem o melhor selo (RA1000) e a maior taxa de solução, 94,2%; a DAMIE tem selo Ótima e a resposta mais rápida, 13 horas. O selo mede atendimento e solução, não volume de vendas, e nenhuma das três publica quantos sofás vende."
         ]
       },
@@ -130168,7 +130131,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso, desde que guarde a embalagem. Valley Modular e Inflow só dão os 7 dias do CDC, e a Inflow exige o produto lacrado.",
           "**Quem quer a garantia mais longa:** DAMIE, com 1 ano. A Valley Modular dá 6 meses e a Inflow, 3 meses.",
-          "**Quem quer o menor preço no cartão do 3 lugares com apoio:** Inflow, em bouclê, por R$ 4.790 em 25/10/2026. A DAMIE vem em R$ 5.100, com o puff incluído, e a Valley Modular é a mais cara nessa linha, R$ 5.986.",
+          "**Quem quer o menor preço no cartão do 3 lugares com apoio:** Inflow, em bouclê, por R$ 4.790. A DAMIE vem em R$ 5.100, com o puff incluído, e a Valley Modular é a mais cara nessa linha, R$ 5.986.",
           "**Quem quer o menor preço no cartão do 2 lugares com apoio:** Inflow, em bouclê bege, por R$ 3.790; a DAMIE vem em R$ 3.850, com o puff, e a Valley Modular em R$ 4.175. Se o apoio não importa, o Modu 2 lugares com 2 cantos da Valley Modular sai por R$ 3.189, num sofá de 190 cm.",
           "**Quem precisa de prazo previsível:** na Valley Modular, some de 20 a 30 dias úteis de produção ao frete antes de contar com a entrega. Na Inflow e na DAMIE, o prazo sai no cálculo do frete.",
           "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste; a Valley Modular calcula o frete pelo CEP, sem regra de frete grátis publicada. Em qualquer uma, confira o frete no carrinho antes de fechar."
@@ -130181,18 +130144,12 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Valley Modular é a mesma empresa que a Inflow ou a Sofá na Caixa? Não. A Valley Modular é o nome fantasia da Valley Art LTDA. (CNPJ 30.105.567/0001-93, Hortolândia, SP, ativa desde 2018). A Inflow é da Fast Living Comércio e Distribuição Ltda. (Itapeva, MG, desde 2022) e a Sofá na Caixa é outra empresa, de Rafard (SP). Cada uma tem site e regras próprios.",
-          "Valley Modular é confiável? A empresa tem CNPJ ativo desde 2018 e política de devolução publicada. No Reclame Aqui, de 01/04 a 30/09/2026, ela estava sem reputação definida, com 2 reclamações, 1 respondida e tempo de resposta de 24 dias: são poucos registros para avaliar o atendimento, nem para bem nem para mal. A garantia é de 6 meses, informada na ficha do produto e no FAQ da loja.",
-          "Valley Modular ou DAMIE: qual vale mais a pena? Depende do que pesa. A DAMIE dá 30 dias de teste em casa com coleta e 1 ano de garantia; a Valley Modular dá os 7 dias do CDC e 6 meses de garantia. No cartão, em 25/10/2026, a DAMIE com puff ficava abaixo da Valley Modular com apoio nas duas linhas: R$ 3.850 contra R$ 4.175 no 2 lugares e R$ 5.100 contra R$ 5.986 no 3 lugares.",
+          "Valley Modular é confiável? A empresa tem CNPJ ativo desde 2018 e política de devolução publicada. No Reclame Aqui, nos últimos 6 meses, ela estava sem reputação definida, com 2 reclamações, 1 respondida e tempo de resposta de 24 dias: são poucos registros para avaliar o atendimento, nem para bem nem para mal. A garantia é de 6 meses, informada na ficha do produto e no FAQ da loja.",
+          "Valley Modular ou DAMIE: qual vale mais a pena? Depende do que pesa. A DAMIE dá 30 dias de teste em casa com coleta e 1 ano de garantia; a Valley Modular dá os 7 dias do CDC e 6 meses de garantia. No cartão, a DAMIE com puff ficava abaixo da Valley Modular com apoio nas duas linhas: R$ 3.850 contra R$ 4.175 no 2 lugares e R$ 5.100 contra R$ 5.986 no 3 lugares.",
           "Valley Modular ou Inflow: qual tem a garantia maior? A Valley Modular, com 6 meses na ficha do produto. A Inflow informa 3 meses na ficha e 90 dias para relatar defeito na política, o mesmo prazo. Nas duas, a devolução por arrependimento segue os 7 dias do CDC, e a Inflow só aceita o produto lacrado.",
           "Posso devolver o sofá da Valley Modular depois de abrir? A política publicada fala em 7 dias, na embalagem original e sem sinais de mau uso, por defeito, modelo errado ou medida errada; ela não trata do sofá já expandido nem diz quem paga o frete de volta. Antes de abrir a caixa, confirme com a loja como fica a devolução do sofá expandido.",
           "Quanto tempo leva para chegar um sofá da Valley Modular? A marca produz sob encomenda e informa de 20 a 30 dias úteis de produção antes do envio. O transporte entra depois, com o prazo calculado pelo CEP no carrinho.",
           "A DAMIE também é sofá na caixa? Chega em caixas reforçadas, mas não com espuma compactada: são módulos com estrutura de madeira que se ligam por encaixe, em menos de 10 minutos, segundo a página do produto. O teste de 30 dias vale com a embalagem guardada."
-        ]
-      },
-      {
-        "heading": "Nota de transparência",
-        "paragraphs": [
-          "A DAMIE é parceira do site: podemos receber comissão pelas compras feitas com o cupom CECILIA12. A Valley Modular e a Inflow não são parceiras: não há link, cupom, foto nem print delas neste texto. Ninguém da equipe usou os sofás das duas; a comparação usa o que cada marca publica, com a data da leitura."
         ]
       }
     ]

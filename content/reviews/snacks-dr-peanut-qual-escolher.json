@@ -27,7 +27,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. O wafer tem menos calorias, de 118 a 127 kcal, e o menor preço por unidade, R$ 11,46. O que pesa é a proteína que você quer em cada unidade; veja em Qual escolher."
+        "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. O wafer tem menos calorias, de 118 a 127 kcal, e o menor preço por unidade. O que pesa é a proteína que você quer em cada unidade; veja em Qual escolher."
       ]
     },
     {
@@ -61,16 +61,16 @@
           ["Doctor Wafer Cookies & Cream", "25 g", "121", "5 g", "1 g", "0 g", "4,3 g", "R$ 11,46"],
           ["Doctor Wafer Doce de Leite", "25 g", "118", "6 g", "2 g", "0 g", "3 g", "R$ 11,46"]
         ],
-        "caption": "Tabelas publicadas pela loja, lidas em 24/10/2026."
+        "caption": "Tabelas publicadas pela loja."
       },
       "postParagraphs": [
-        "Calorias, proteína, açúcares e gordura são por unidade. O preço da Doctor Bar é a conta do display de 8 (R$ 122,03 ÷ 8). Na Doctor Bar Speculoos, a tabela não publicada pela loja em 24/10 deixa as calorias e os açúcares em branco; a proteína de 21 g vem da embalagem e da descrição do produto."
+        "Calorias, proteína, açúcares e gordura são por unidade. O preço da Doctor Bar é a conta do display de 8 (R$ 122,03 ÷ 8). Na Doctor Bar Speculoos, a tabela não publicada pela loja deixa as calorias e os açúcares em branco; a proteína de 21 g vem da embalagem e da descrição do produto."
       ],
       "images": [
         {
           "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-tabela-bar-cookies.webp",
           "alt": "Tabela nutricional da barra de proteína Doctor Bar sabor Cookies & Cream, porção de 62 g da Dr. Peanut",
-          "caption": "Tabela da Doctor Bar Cookies publicada na página do produto em 24/10/2026. Imagem: Dr. Peanut.",
+          "caption": "Tabela da Doctor Bar Cookies publicada na página do produto. Imagem: Dr. Peanut.",
           "objectFit": "contain",
           "aspectRatio": 0.7078
         }
@@ -165,12 +165,6 @@
         "Alfajor Dr. Peanut tem quantas calorias? Tem de 158 a 183 kcal por unidade de 35 g, conforme o sabor, segundo a tabela publicada pela loja.",
         "Qual snack tem mais proteína? Por unidade, a Doctor Bar, com 21 g. O alfajor tem de 4 a 4,7 g, e o wafer, de 5 a 6 g."
       ]
-    },
-    {
-      "heading": "Nota de transparência",
-      "paragraphs": [
-        "Os números vêm das tabelas e das páginas de produto da loja, lidas em 24/10/2026. Os preços são do mesmo dia, e as contas com cupom são nossas. Ninguém da equipe provou os produtos. Rótulo e preço mudam, então confira a embalagem e o site antes de comprar. Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA, e isso não muda o preço para você."
-      ]
     }
   ],
   "pros": [],
@@ -183,7 +177,7 @@
   },
   "coupon": "DREMCASACOMCECILIA",
   "affiliate": "dr-peanut",
-  "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA.",
+  "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA. Não provamos os produtos.",
   "relatedArticles": [
     {
       "slug": "dr-peanut-e-saudavel",
