@@ -156,7 +156,7 @@
         "由于这些代码变动频繁，最稳妥的做法是在下单前查看 YesStyle 官方的促销页面。然后把有效优惠券应用在“Coupon Code”栏位，并让 CECILIA010 留在“Reward Code”栏位。"
       ],
       "bullets": [
-        "Flash Sales：限时闪购，最高 5 折",
+        "Flash Sales：限时闪购，最低 5 折",
         "Lucky Bundles：商品组合包，享特别折扣",
         "Daily Free：消费满一定金额即可获赠免费商品",
         "Elite Club：会员忠诚计划，折扣逐级递增",
@@ -199,7 +199,7 @@
       "heading": "关税与进口：可能被收取哪些费用",
       "paragraphs": [
         "跨境订单可能要接受海关检查，并可能产生税款、进口关税、行政费用或其他与订单放行相关的支出。因此，除了计算商品和运费，下单前也建议把可能的额外费用考虑进去。",
-        "YesStyle 表示，1,000 美元以下的订单，如果你先付款、保留收据，并在 30 天内申请，可能可以退还关税。退款一旦获批，会以 YesStyle 商店积分（Store Credit）发放。",
+        "YesStyle 表示，1,000 美元以下的订单，如果你先付款、保留收据，并在 30 天内申请，可能可以退还关税。退款一旦获批，会以 YesStyle 商店余额（Store Credit）形式发放。",
         "下单前请查看 YesStyle 官方的关税退款说明页面，因为进口规则和商店政策可能会变动。"
       ],
       "bullets": [
@@ -216,7 +216,7 @@
         "这里整理了在 YesStyle 省钱的小技巧："
       ],
       "bullets": [
-        "Flash Sales：限时闪购，最高 5 折。每天上网站看看，并把商品加入心愿单。",
+        "Flash Sales：限时闪购，最低 5 折。每天上网站看看，并把商品加入心愿单。",
         "逛逛 Lucky Bundles：降价的商品组合包（护肤、彩妆，以及“Glass Skin Routine”之类的主题套装）。",
         "善用心愿单：降价时收到通知，整理以后想买的东西，并规划好凑到免运费门槛。",
         "用好 Elite Club：积分累积的会员计划：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
@@ -258,5 +258,6 @@
   "category": "cupons-como-usar",
   "metaDescription": "如何在 YesStyle 使用 CECILIA010：填入 Reward Code 栏位，可额外享高达 5% 优惠（首单 5%，回购 2%），并可按结账页显示与符合条件的促销优惠券叠加。",
   "imageFit": "cover",
-  "editorialNote": "联盟链接：我们可能会通过链接和 Reward Code CECILIA010 获得佣金。"
+  "editorialNote": "联盟链接：我们可能会通过链接和 Reward Code CECILIA010 获得佣金。",
+  "isNew": false
 }

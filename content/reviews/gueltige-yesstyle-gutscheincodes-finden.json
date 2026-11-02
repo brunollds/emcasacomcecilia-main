@@ -159,7 +159,7 @@
     {
       "heading": "Schritt 4: Fügen Sie den Code CECILIA010 im Feld Reward Code ein",
       "paragraphs": [
-        "Geh auf derselben Kassenseite zum separaten Feld „Reward Code / Influencer Code“ (Belohnungscode). Geben Sie den Code CECILIA010 ein und klicken Sie auf „Apply“ (Anwenden)."
+        "Gehen Sie auf derselben Kassenseite zum separaten Feld „Reward Code / Influencer Code“ (Belohnungscode). Geben Sie den Code CECILIA010 ein und klicken Sie auf „Apply“ (Anwenden)."
       ]
     },
     {
@@ -175,7 +175,7 @@
     {
       "heading": "Wo Sie die aktuell gültigen YesStyle-Gutscheine finden",
       "paragraphs": [
-        "Um die Gutscheine des Monats im Blick zu behalten, ohne auf einen abgelaufenen Code zu stoßen, nutze diese offiziellen Quellen:",
+        "Um die Gutscheine des Monats im Blick zu behalten, ohne auf einen abgelaufenen Code zu stoßen, nutzen Sie diese offiziellen Quellen:",
         "1. Unsere zentrale Gutscheinseite: Wir führen eine eigene Seite, auf der wir die Aktionscodes von YesStyle prüfen und aktualisieren.",
         "2. Das Hauptbanner von YesStyle: Die Startseite des Shops hebt den aktiven Aktionsgutschein meist oben hervor.",
         "3. Der offizielle Newsletter: Wenn Sie den Newsletter der Website abonnieren, bekommen Sie Hinweise auf Blitzangebote über 72 oder 96 Stunden."
@@ -218,5 +218,6 @@
   ],
   "locale": "de",
   "translationKey": "yesstyle-coupon-guide",
-  "category": "cupons-como-usar"
+  "category": "cupons-como-usar",
+  "isNew": false
 }

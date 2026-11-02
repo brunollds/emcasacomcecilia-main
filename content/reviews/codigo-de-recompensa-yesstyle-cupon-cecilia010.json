@@ -141,7 +141,7 @@
     {
       "heading": "Cómo encontrar cupones activos de YesStyle",
       "paragraphs": [
-        "YesStyle suele ofrecer cupones que cambian con frecuencia. Los tipos más comunes son: cupón de bienvenida, cupón de regreso, cupón de temporada, cupón de categoría, cupón de envío gratis y campañas relámpago.",
+        "YesStyle suele ofrecer cupones que cambian con frecuencia. Los tipos más comunes son: cupón de bienvenida, cupón de recompra, cupón de temporada, cupón de categoría, cupón de envío gratis y campañas relámpago.",
         "Como estos códigos cambian a menudo, lo más seguro es consultar la página de promociones de la propia YesStyle antes de finalizar la compra. Después, aplica el cupón activo en el campo \"Coupon Code\" y mantén CECILIA010 en el campo \"Reward Code\"."
       ],
       "bullets": [
@@ -178,14 +178,14 @@
         "K-Beauty y cuidado de la piel coreano: COSRX (Snail Mucin Essence, Low pH Good Morning Gel Cleanser), Beauty of Joseon (Dynasty Cream, Relief Sun), Anua (Heartleaf 77% Soothing Toner), Laneige (Water Sleeping Mask, Lip Sleeping Mask), Isntree (Hyaluronic Acid Watery Sun Gel), TIRTIR (Mask Fit Red Cushion), medicube (Zero Pore Pads), AXIS-Y (Dark Spot Correcting Glow Serum), Dr.Melaxin, House of Hur.",
         "Maquillaje coreano: ETUDE (sombras, coloretes), CLIO (bases, delineadores), Peripera (tintes, máscaras de pestañas), Judydoll, fwee, nuse.",
         "Moda coreana: estilo minimalista y elegante, colores neutros, cortes oversize, prendas versátiles. Ropa casual, vestidos, blazers, pantalones wide-leg, zapatos, bolsos.",
-        "J-Beauty (belleza japonesa): Hada Labo, DHC, Kose, Shiseido. Foco en la prevención, el anti-aging y la hidratación en capas.",
-        "Chinese Beauty (C-Beauty): marcas chinesas en ascenso, precios asequibles, fórmulas con ingredientes tradicionales chinos.",
+        "J-Beauty (belleza japonesa): Hada Labo, DHC, Kose, Shiseido. El foco está en la prevención, el anti-aging y la hidratación por capas.",
+        "Chinese Beauty (C-Beauty): marcas chinas en ascenso, precios asequibles, fórmulas con ingredientes tradicionales chinos.",
         "Suplementos y Health & Wellness: colágeno, vitaminas, proteínas, productos para el cabello y las uñas.",
         "Accesorios y lifestyle: pasadores, diademas, bolsos, calcetines estampados, fundas de móvil, artículos para la casa y la decoración."
       ]
     },
     {
-      "heading": "Tasas e importación: qué se puede cobrar",
+      "heading": "Aranceles e importación: qué se puede cobrar",
       "paragraphs": [
         "Las compras internacionales pueden pasar por un control aduanero y pueden generar impuestos, tasas de importación, cobros administrativos u otros gastos relacionados con la liberación del pedido. Por eso, además de calcular el producto y el envío, conviene tener en cuenta la posibilidad de un costo extra antes de comprar.",
         "YesStyle indica que los pedidos de menos de US$ 1.000 pueden tener reembolso de las tasas aduaneras, si pagas primero, guardas el comprobante y lo solicitas en un plazo de 30 días. Ese reembolso, cuando se aprueba, se emite como crédito de tienda de YesStyle.",
@@ -242,7 +242,7 @@
     }
   ],
   "cta": {
-    "text": "Usa el código oficial de influenciador CECILIA010 en el checkout de YesStyle.",
+    "text": "Usa el código oficial de influencer CECILIA010 en el checkout de YesStyle.",
     "label": "Ir a YesStyle y usar Código CECILIA010",
     "url": "https://ystyle.co/rQYQv"
   },
@@ -258,5 +258,6 @@
   "editorialNote": "Enlaces de afiliado: podemos recibir una comisión por los enlaces y por el Reward Code CECILIA010.",
   "locale": "es",
   "translationKey": "yesstyle-reward-code",
-  "category": "cupons-como-usar"
+  "category": "cupons-como-usar",
+  "isNew": false
 }

@@ -4,7 +4,7 @@
   "locale": "ko",
   "translationKey": "yesstyle-black-friday",
   "title": "YesStyle 블랙프라이데이(Black Friday) 2026: 시작 날짜, 쿠폰 작동 방식, CECILIA010 입력 위치",
-  "seoTitle": "YesStyle 블랙프라이데이 2026: 날짜, 할인 조건, CECILIA010",
+  "seoTitle": "YesStyle 블랙프라이데이 2026: 날짜, 쿠폰, CECILIA010",
   "type": "블랙프라이데이 가이드",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -16,28 +16,28 @@
     "url": "/sobre"
   },
   "description": "YesStyle 블랙프라이데이는 언제 시작할까요? 공식 페이지로 확인한 2024년과 2025년 일정, 구간별 쿠폰이 연중 같은 이유, 최소 금액 없는 15% 데이, 그리고 리워드 코드 CECILIA010를 함께 쓰는 방법을 정리했습니다.",
-  "metaDescription": "YesStyle 블랙프라이데이 2026: 2024년과 2025년 일정, 쿠폰 구간, 최소 금액 없는 15% 데, 리워드 코드 CECILIA010 함께 쓰는 법.",
+  "metaDescription": "YesStyle 블랙프라이데이 2026: 2024년과 2025년 일정, 쿠폰 구간, 최소 금액 없는 15% 데이, 리워드 코드 CECILIA010 함께 쓰는 법.",
   "publishedAt": "2026년 10월 11일",
   "publishedAtISO": "2026-10-11",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-  "imageAlt": "YesStyle에서 받은 Abib 제품 상자를 들고 웃고 있는 세실리아 마우아드, 한국 스킨케어 루틴 영상의 한 장면",
+  "imageAlt": "YesStyle에서 받은 Abib 제품 상자를 들고 웃고 있는 Cecília, 한국 스킨케어 루틴 영상의 한 장면",
   "imageFit": "cover",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
   "pros": [
     "2024년과 2025년 공식 일정, 각 쿠폰의 규정 페이지에서 확인",
     "리워드 코드는 YesStyle 쿠폰과 함께 쓸 수 있고, 블랙프라이데이에도 마찬가지",
-    "최소 금액 없는 15% 데에는 어떤 장바구니든 쿠폰의 최대 할인을 받음",
+    "최소 금액 없는 15% 데이에는 어떤 장바구니든 쿠폰의 최대 할인을 받음",
     "YesStyle은 US$ 1,000 미만 주문에서 낸 관세 등 세금을 스토어 크레딧으로 돌려줌"
   ],
   "cons": [
     "2026년 일정은 아직 나오지 않음: 지금의 일정은 과거 기록으로 한 추정",
     "블랙프라이데이의 구간별 쿠폰은 평소와 같음",
     "쿠폰은 회원 전용이고, 주문당 하나만 쓸 수 있으며, 배송비에는 적용되지 않음",
-    "해외 구매라서 배송 기간이 가까운 쇼핑몰보다 김"
+    "해외 구매라서 배송 기간이 가까운 쇼핑몰보다 깁니다"
   ],
   "contentSections": [
     {
@@ -77,7 +77,7 @@
         ]
       },
       "postParagraphs": [
-        "2026년 블랙프라이데이는 11월 27일, 사이버 먼데이는 11월 30일입니다. YesStyle이 같은 패턴을 따른다면 Black Friday 이름의 쿠폰은 11월 초에 나오고, 최소 금액 없는 15% 데는 이 두 날짜 근처가 될 것입니다. 과거 기록으로 한 추정일 뿐이고, 스토어가 모든 것을 바꿀 수도 있습니다. 2026년 페이지가 나오면 이 가이드를 업데이트하겠습니다.",
+        "2026년 블랙프라이데이는 11월 27일, 사이버 먼데이는 11월 30일입니다. YesStyle이 같은 패턴을 따른다면 Black Friday 이름의 쿠폰은 11월 초에 나오고, 최소 금액 없는 15% 데이는 이 두 날짜 근처가 될 것입니다. 과거 기록으로 한 추정일 뿐이고, 스토어가 모든 것을 바꿀 수도 있습니다. 2026년 페이지가 나오면 이 가이드가 업데이트됩니다.",
         "쿠폰은 GMT로 정해진 시각에 바뀝니다. 2025년에는 구간별 쿠폰이 GMT 2시에 바뀌었고, 최소 금액 없는 15%는 GMT 8시에 시작했습니다."
       ]
     },
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "heading": "최소 금액 없는 15% 데를 기다릴 가치가 있을까요?",
+      "heading": "최소 금액 없는 15% 데이를 기다릴 가치가 있을까요?",
       "paragraphs": [
         "장바구니 크기에 따라 다릅니다."
       ],
@@ -126,7 +126,7 @@
       "bullets": [
         "**US$ 199 이상 장바구니:** 구간별 쿠폰이 아무 날이나 15%를 줍니다. 최소 금액 없는 날과 같은 비율입니다. 금요일 즈음에 달라질 수 있는 것은 쿠폰이 아니라 상품별 프로모션 가격입니다.",
         "**US$ 79~199 장바구니:** 구간별 쿠폰은 8% 또는 10%입니다. 최소 금액 없는 날에는 같은 장바구니가 15%를 받습니다.",
-        "**US$ 79 미만 장바구니:** 구간별 쿠폰으로는 할인이 없습니다. 최소 금액 없는 15% 데를 기다리면 가장 이득을 보는 쪽입니다."
+        "**US$ 79 미만 장바구니:** 구간별 쿠폰으로는 할인이 없습니다. 최소 금액 없는 15% 데이를 기다리면 가장 이득을 보는 쪽입니다."
       ]
     },
     {
@@ -193,26 +193,26 @@
     {
       "heading": "장바구니 아이디어: Abib 루틴",
       "paragraphs": [
-        "이 글 끝의 영상에서 세실리아는 YesStyle에서 받은 한국 브랜드 Abib 제품 세 가지를 써 봅니다. 아이 하이드로겔 패치, PDRN 부스터 크림, 립 마스크입니다. 한국 스킨케어를 막 시작하는 사람을 위한 짧은 루틴이고, 블랙프라이데이 장바구니를 짜는 좋은 출발점입니다."
+        "이 글 끝의 영상에서 Cecília는 YesStyle에서 받은 한국 브랜드 Abib 제품 세 가지를 써 봅니다. 아이 하이드로겔 패치, PDRN 부스터 크림, 립 마스크입니다. 한국 스킨케어를 막 시작하는 사람을 위한 짧은 루틴이고, 블랙프라이데이 장바구니를 짜는 좋은 출발점입니다."
       ],
       "images": [
         {
           "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
-          "alt": "Abib 아이 하이드로겔 패치 용기와 분홍색 패치를 들고 웃는 세실리아",
-          "caption": "세실리아 영상에 나온 Abib 아이 하이드로겔 패치.",
+          "alt": "Abib 아이 하이드로겔 패치 용기와 분홍색 패치를 들고 웃는 Cecília",
+          "caption": "Cecília 영상에 나온 Abib 아이 하이드로겔 패치.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         {
           "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
-          "alt": "Abib PDRN 부스터 크림의 흰색 튜브를 얼굴 가까이에 든 세실리아",
+          "alt": "Abib PDRN 부스터 크림의 흰색 튜브를 얼굴 가까이에 든 Cecília",
           "caption": "Abib PDRN 부스터 크림.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         {
           "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
-          "alt": "입술을 내밀고 Abib 분홍색 립 마스크 용기를 든 세실리아",
+          "alt": "입술을 내밀고 Abib 분홍색 립 마스크 용기를 든 Cecília",
           "caption": "Abib 립 마스크.",
           "objectFit": "contain",
           "aspectRatio": 1.7778

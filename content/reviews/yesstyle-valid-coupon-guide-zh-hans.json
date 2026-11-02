@@ -85,7 +85,7 @@
       "heading": "为什么网上大多数 YesStyle 优惠码都用不了？",
       "paragraphs": [
         "如果你搜过“YesStyle 优惠码”，复制了一堆代码，结账时却被一个个拒绝，那不是运气不好：这些代码大多已经过期。",
-        "主要有三个原因：YesStyle 会推出短期的促销优惠码（比如 72 小时或 96 小时的促销，或月度活动）；自动聚合网站为了骗点击，会把过期代码挂上好几年；还有很多代码属于特定地区的专属活动。",
+        "主要有三个原因：YesStyle 会推出短期的促销优惠码（比如 72 小时或 96 小时的促销，或月度活动）；自动聚合网站为了吸引点击，会把过期代码挂上好几年；还有很多代码属于特定地区的专属活动。",
         "想不浪费时间、也不在付款时放弃，关键是弄懂 YesStyle 的折扣结构，并查看品牌的官方渠道。"
       ],
       "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
@@ -200,7 +200,7 @@
       "bullets": [
         "YesStyle 的 Coupon Code 和 Influencer/Rewards Code 有什么区别？ Coupon Code 是促销优惠码，填在“Coupon Code”栏位，有各自的有效期和规则：可能有最低消费、地区限制或不适用的商品。CECILIA010 是奖励码（Influencer/Rewards Code），填在另外的“Reward Code”栏位，首次购买 5%，之后 2%。促销规则允许时，订单摘要中可以同时出现两项折扣。",
         "YesStyle 的网红代码是什么？ 就是奖励码（Reward Code），填在结账页面的专用栏位，和优惠码栏位分开。我们的代码是 CECILIA010，填在 Reward Code 栏位。",
-        "YesStyle 的优惠码有有效期吗？ 有。促销优惠码都有有效期，并且可能无预警过期。有些活动只持续几天（比如 72 小时或 96 小时的促销），也有些持续更久。完成购买之前，请在促销规则中确认有效期、最低消费、地区和适用商品，并确认结账时折扣已经生效。",
+        "YesStyle 的优惠码有有效期吗？ 有。促销优惠码都有有效期，并且可能无预警过期。有些活动只持续几天（比如 72 小时或 96 小时的促销），持续时间因活动而异。完成购买之前，请在促销规则中确认有效期、最低消费、地区和适用商品，并确认结账时折扣已经生效。",
         "在哪里可以找到 YesStyle 优惠码的官方规则？ 通用规则在 YesStyle 客服中心的“General Terms and Conditions for Coupons”页面。具体活动的条件，请进入客服中心并打开“Promotions”栏目，YesStyle 会在那里公布有效期、最低消费、参与地区和可能的例外。这些条件会变，所以付款前也请查看促销横幅和订单摘要。",
         "同一订单可以用多个促销优惠码吗？ 不可以。按 YesStyle 的通用规则，每笔订单（或合并订单）只能使用一个 Coupon Code。不过 CECILIA010 不是 Coupon Code，要填在另外的“Reward Code”栏位。因此，只要活动符合条件、结账页面接受两者，促销优惠码和 CECILIA010 就可以一起用。"
       ],
@@ -218,5 +218,6 @@
   ],
   "locale": "zh-hans",
   "translationKey": "yesstyle-coupon-guide",
-  "category": "cupons-como-usar"
+  "category": "cupons-como-usar",
+  "isNew": false
 }

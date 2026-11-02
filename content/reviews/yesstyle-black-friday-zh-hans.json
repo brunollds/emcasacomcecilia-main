@@ -20,10 +20,10 @@
   "publishedAt": "2026年10月11日",
   "publishedAtISO": "2026-10-11",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-  "imageAlt": "西西莉亚·茅阿德笑着拿着从 YesStyle 收到的 Abib 产品盒，来自韩式护肤流程视频的一幕",
+  "imageAlt": "Cecília 笑着拿着从 YesStyle 收到的 Abib 产品盒，来自韩式护肤流程视频的一幕",
   "imageFit": "cover",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
@@ -173,7 +173,7 @@
     {
       "heading": "并非人人都有的优惠",
       "paragraphs": [
-        "2025 年，除了向所有会员开放的优惠券，YesStyle 还推出了两项限定优惠。黑色星期五那一周，商店会员计划 Elite Club 的铜、银、金级会员每天有一件商品只要 US$ 1，订单需满 US$ 50 起。每笔订单限一件，售完为止，不可换货或退货。另外，在黑色星期五与网络星期一之间，一张无最低消费的 18% 优惠券发给了部分会员（“We Miss You”）。页面没有说明这些会员是如何选出的。",
+        "2025 年，除了向所有会员开放的优惠券，YesStyle 还推出了两项限定优惠。黑色星期五那一周，商店会员计划 Elite Club 的铜、银、金级会员每天有一件商品只要 US$ 1，订单满 US$ 50 即可。每笔订单限一件，售完为止，不可换货或退货。另外，在黑色星期五与网络星期一之间，一张无最低消费的 18% 优惠券发给了部分会员（“We Miss You”）。页面没有说明这些会员是如何选出的。",
         "如果你的账号里出现这类优惠券，规则相同：可与奖励码和 YS Points 叠加。"
       ]
     },
@@ -193,26 +193,26 @@
     {
       "heading": "购物车示例：Abib 的护肤流程",
       "paragraphs": [
-        "在本文末尾的视频里，西西莉亚试用了她从 YesStyle 收到的三款韩国品牌 Abib 的产品：眼部水凝胶贴、PDRN 精华霜和唇膜。这是一套给刚接触韩式护肤的人的简短流程，也是搭配黑色星期五购物车的好起点。"
+        "在本文末尾的视频里，Cecília 试用了她从 YesStyle 收到的三款韩国品牌 Abib 的产品：眼部水凝胶贴、PDRN 精华霜和唇膜。这是一套给刚接触韩式护肤的人的简短流程，也是搭配黑色星期五购物车的好起点。"
       ],
       "images": [
         {
           "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
-          "alt": "西西莉亚笑着拿着 Abib 眼部水凝胶贴的罐子和一片粉色贴片",
-          "caption": "西西莉亚视频里的 Abib 眼部水凝胶贴。",
+          "alt": "Cecília 笑着拿着 Abib 眼部水凝胶贴的罐子和一片粉色贴片",
+          "caption": "Cecília 视频里的 Abib 眼部水凝胶贴。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         {
           "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
-          "alt": "西西莉亚在脸旁拿着 Abib PDRN 精华霜的白色软管",
+          "alt": "Cecília 在脸旁拿着 Abib PDRN 精华霜的白色软管",
           "caption": "Abib 的 PDRN 精华霜。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         {
           "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
-          "alt": "西西莉亚嘟着嘴，拿着 Abib 粉色唇膜的罐子",
+          "alt": "Cecília 嘟着嘴，拿着 Abib 粉色唇膜的罐子",
           "caption": "Abib 的唇膜。",
           "objectFit": "contain",
           "aspectRatio": 1.7778

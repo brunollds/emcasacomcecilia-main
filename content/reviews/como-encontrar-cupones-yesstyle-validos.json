@@ -218,5 +218,6 @@
   ],
   "locale": "es",
   "translationKey": "yesstyle-coupon-guide",
-  "category": "cupons-como-usar"
+  "category": "cupons-como-usar",
+  "isNew": false
 }

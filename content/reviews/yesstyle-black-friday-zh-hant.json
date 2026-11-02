@@ -20,10 +20,10 @@
   "publishedAt": "2026年10月11日",
   "publishedAtISO": "2026-10-11",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-  "imageAlt": "西西莉亞·茅阿德笑著拿著從 YesStyle 收到的 Abib 產品盒，來自韓式護膚流程影片的一幕",
+  "imageAlt": "Cecília 笑著拿著從 YesStyle 收到的 Abib 產品盒，來自韓式護膚流程影片的一幕",
   "imageFit": "cover",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
@@ -173,7 +173,7 @@
     {
       "heading": "並非人人都有的優惠",
       "paragraphs": [
-        "2025 年，除了開放給所有會員的優惠券，YesStyle 還推出了兩項限定優惠。黑色星期五那一週，商店會員計畫 Elite Club 的銅、銀、金級會員每天有一件商品只要 US$ 1，訂單需滿 US$ 50 起。每筆訂單限一件，售完為止，不可換貨或退貨。另外，在黑色星期五與網購星期一之間，一張無最低消費的 18% 優惠券發給了部分會員（“We Miss You”）。頁面沒有說明這些會員是如何選出的。",
+        "2025 年，除了開放給所有會員的優惠券，YesStyle 還推出了兩項限定優惠。黑色星期五那一週，商店會員計畫 Elite Club 的銅、銀、金級會員每天有一件商品只要 US$ 1，訂單滿 US$ 50 即可。每筆訂單限一件，售完為止，不可換貨或退貨。另外，在黑色星期五與網購星期一之間，一張無最低消費的 18% 優惠券發給了部分會員（“We Miss You”）。頁面沒有說明這些會員是如何選出的。",
         "如果你的帳號裡出現這類優惠券，規則相同：可與獎勵碼和 YS Points 疊加。"
       ]
     },
@@ -193,26 +193,26 @@
     {
       "heading": "購物車範例：Abib 的護膚流程",
       "paragraphs": [
-        "在本文最後的影片裡，西西莉亞試用了她從 YesStyle 收到的三款韓國品牌 Abib 的產品：眼部水凝膠貼片、PDRN 精華霜與唇膜。這是一套給剛接觸韓式護膚的人的簡短流程，也是搭配黑色星期五購物車的好起點。"
+        "在本文最後的影片裡，Cecília 試用了她從 YesStyle 收到的三款韓國品牌 Abib 的產品：眼部水凝膠貼片、PDRN 精華霜與唇膜。這是一套給剛接觸韓式護膚的人的簡短流程，也是搭配黑色星期五購物車的好起點。"
       ],
       "images": [
         {
           "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
-          "alt": "西西莉亞笑著拿著 Abib 眼部水凝膠貼片的罐子與一片粉色貼片",
-          "caption": "西西莉亞影片裡的 Abib 眼部水凝膠貼片。",
+          "alt": "Cecília 笑著拿著 Abib 眼部水凝膠貼片的罐子與一片粉色貼片",
+          "caption": "Cecília 影片裡的 Abib 眼部水凝膠貼片。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         {
           "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
-          "alt": "西西莉亞在臉旁拿著 Abib PDRN 精華霜的白色軟管",
+          "alt": "Cecília 在臉旁拿著 Abib PDRN 精華霜的白色軟管",
           "caption": "Abib 的 PDRN 精華霜。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         {
           "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
-          "alt": "西西莉亞嘟著嘴，拿著 Abib 粉色唇膜的罐子",
+          "alt": "Cecília 嘟著嘴，拿著 Abib 粉色唇膜的罐子",
           "caption": "Abib 的唇膜。",
           "objectFit": "contain",
           "aspectRatio": 1.7778

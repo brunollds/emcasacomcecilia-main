@@ -20,7 +20,7 @@
   "publishedAt": "11 ottobre 2026",
   "publishedAtISO": "2026-10-11",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
   "imageAlt": "Cecília Mauad sorridente con le scatole dei prodotti Abib ricevuti da YesStyle, in un fotogramma del video sulla routine di skincare coreano",
@@ -31,7 +31,7 @@
     "Calendario ufficiale 2024 e 2025, preso dalle pagine delle regole di ogni coupon",
     "Il codice ricompensa si somma al coupon di YesStyle, anche durante il Black Friday",
     "Nei giorni al 15% senza minimo, qualsiasi carrello ottiene lo sconto massimo del coupon",
-    "YesStyle rimborsa le tasse doganali sugli ordini sotto i US$ 1.000, come credito nel negozio"
+    "YesStyle rimborsa le tasse doganali sugli ordini inferiori a US$ 1.000, come credito nel negozio"
   ],
   "cons": [
     "Le date del 2026 non sono ancora uscite: per ora il calendario è una stima basata sullo storico",
@@ -173,7 +173,7 @@
     {
       "heading": "Offerte che non sono per tutti",
       "paragraphs": [
-        "Nel 2025, oltre al coupon aperto a tutti i membri, YesStyle ha avuto due offerte riservate. Nella settimana del Black Friday, i livelli Bronze, Silver e Gold dell'Elite Club, il programma fedeltà del negozio, hanno avuto un prodotto al giorno a US$ 1, su ordini da US$ 50. Uno per ordine, finché durano le scorte, senza cambio né reso. E tra il Black Friday e il Cyber Monday, un coupon del 18% senza minimo è andato a membri selezionati (\"We Miss You\"). La pagina non spiega come siano stati scelti questi membri.",
+        "Nel 2025, oltre al coupon aperto a tutti i membri, YesStyle ha avuto due offerte riservate. Nella settimana del Black Friday, i livelli Bronze, Silver e Gold dell'Elite Club, il programma fedeltà del negozio, hanno avuto un prodotto al giorno a US$ 1, su ordini da US$ 50. Uno per ordine, fino a esaurimento scorte, senza cambio né reso. E tra il Black Friday e il Cyber Monday, un coupon del 18% senza minimo è andato a membri selezionati (\"We Miss You\"). La pagina non spiega come siano stati scelti questi membri.",
         "Se uno di questi coupon compare nel tuo account, la regola è la stessa: si somma al codice ricompensa e agli YS Points."
       ]
     },
@@ -187,7 +187,7 @@
     {
       "heading": "Consegna e tasse",
       "paragraphs": [
-        "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se il pacco viene tassato all'arrivo, YesStyle rimborsa le tasse e i dazi doganali sugli ordini sotto i US$ 1.000, come credito nel negozio. Ciò che il negozio pubblica sulla consegna e come chiedere il rimborso è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
+        "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se il pacco viene tassato all'arrivo, YesStyle rimborsa le tasse e i dazi doganali sugli ordini inferiori a US$ 1.000, come credito nel negozio. Ciò che il negozio pubblica sulla consegna e come chiedere il rimborso è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
       ]
     },
     {
@@ -236,7 +236,7 @@
         "CECILIA010 vale nel Black Friday? Sì. Va nel campo Reward Code, e le regole dei coupon del Black Friday dicono che valgono insieme ai Reward Code.",
         "Si possono usare due coupon di YesStyle nello stesso ordine? No: è un coupon per ordine. Il codice ricompensa è un'altra cosa e va in un altro campo del checkout.",
         "Serve un account su YesStyle per usare il coupon del Black Friday? Sì. I coupon sono solo per i membri, e chi acquista come ospite resta senza sconto.",
-        "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini sotto i US$ 1.000, YesStyle rimborsa queste tasse come credito nel negozio, se invii la ricevuta entro 30 giorni."
+        "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini inferiori a US$ 1.000, YesStyle rimborsa queste tasse come credito nel negozio, se invii la ricevuta entro 30 giorni."
       ]
     }
   ],
