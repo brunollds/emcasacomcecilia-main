@@ -31,6 +31,9 @@ Em quatro famílias o PT trata do Brasil, e as traduções já tratam de outra c
 
 Dado regional (país, nota, prazo, moeda) só fica se a versão atual já o traz com a fonte no próprio artigo e segue a regra de datas do PT. Nada de pesquisa nova. Capítulo do PT sem equivalente na região sai. O PR diz, por família, o que ficou regional. Na revisão, o Muse compara com o PT a estrutura, a voz e o veredito, e confere o dado regional contra a fonte citada; não pede de volta o capítulo do Brasil. Nas outras famílias, o Reclame Aqui sai com o resto do Brasil.
 
+## YesStyle ou Stylevana fora do PT (decisão do Bruno, 02/11/2026)
+Sem o Brasil, a família 12 ficava comparando só a entrega em Portugal nos 9 idiomas. Fora do PT, Portugal sai também: a comparação fica sem país (catálogo, preço, cupons e o código de recompensa), e vale para o leitor de qualquer lugar. Entra no PR de consertos dos lotes 02 e 03.
+
 ## Dados que só existem na tradução
 Preço em outra moeda, frete por país e imposto local (IOSS, por exemplo) **ficam só se o próprio artigo diz de onde vêm** (a página internacional da loja, como os preços em US$ da Hostinger) e seguem as mesmas regras de data do PT. Sem fonte no artigo, saem. Nada novo entra nesta rodada.
 
