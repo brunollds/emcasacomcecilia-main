@@ -16,8 +16,8 @@ export type SidebarCopy = {
   couponLabel: (brand?: string) => string;
   // O CECILIA010 da YesStyle não é cupom; o termo é o mesmo da página da YesStyle.
   rewardCodeLabel: (brand?: string) => string;
-  // O 4CW5Y da SHEIN é código de indicação da SHEIN Brasil, pesquisado no aplicativo; fora do PT o
-  // texto diz que ele é de lá. Os termos são os da página da loja (couponTranslations.ts).
+  // O 4CW5Y da SHEIN é código de indicação, pesquisado no aplicativo. Os termos são os da página da loja
+  // (couponTranslations.ts).
   referralCodeLabel: (brand: string) => string;
   copiedStatus: (code: string) => string;
   relatedTitle: string;
@@ -60,7 +60,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     readingProgress: 'Reading progress',
     couponLabel: (brand) => (brand ? `${brand} code` : 'Discount code'),
     rewardCodeLabel: (brand) => (brand ? `${brand} Reward Code` : 'Reward Code'),
-    referralCodeLabel: (brand) => `${brand} Brazil referral code`,
+    referralCodeLabel: (brand) => `${brand} referral code`,
     copiedStatus: (code) => `Code ${code} copied.`,
     relatedTitle: 'Read next',
     tocTitle: 'In this guide',
@@ -78,7 +78,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     readingProgress: 'Progreso de lectura',
     couponLabel: (brand) => (brand ? `Código ${brand}` : 'Código de descuento'),
     rewardCodeLabel: (brand) => (brand ? `Código de recompensa ${brand}` : 'Código de recompensa'),
-    referralCodeLabel: (brand) => `Código de referido de ${brand} Brasil`,
+    referralCodeLabel: (brand) => `Código de referido de ${brand}`,
     copiedStatus: (code) => `Código ${code} copiado.`,
     relatedTitle: 'Lee también',
     tocTitle: 'En esta guía',
@@ -96,7 +96,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     readingProgress: 'Progression de la lecture',
     couponLabel: (brand) => (brand ? `Code ${brand}` : 'Code promo'),
     rewardCodeLabel: (brand) => (brand ? `Code récompense ${brand}` : 'Code récompense'),
-    referralCodeLabel: (brand) => `Code de parrainage ${brand} Brésil`,
+    referralCodeLabel: (brand) => `Code de parrainage ${brand}`,
     copiedStatus: (code) => `Code ${code} copié.`,
     relatedTitle: 'À lire aussi',
     tocTitle: 'Dans ce guide',
@@ -114,7 +114,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     readingProgress: 'Lesefortschritt',
     couponLabel: (brand) => (brand ? `${brand}-Code` : 'Rabattcode'),
     rewardCodeLabel: (brand) => (brand ? `${brand} Reward Code` : 'Reward Code'),
-    referralCodeLabel: (brand) => `Empfehlungscode von ${brand} Brasilien`,
+    referralCodeLabel: (brand) => `Empfehlungscode von ${brand}`,
     copiedStatus: (code) => `Code ${code} kopiert.`,
     relatedTitle: 'Weiterlesen',
     tocTitle: 'In diesem Ratgeber',
@@ -132,7 +132,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     readingProgress: 'Avanzamento della lettura',
     couponLabel: (brand) => (brand ? `Codice ${brand}` : 'Codice sconto'),
     rewardCodeLabel: (brand) => (brand ? `Codice ricompensa ${brand}` : 'Codice ricompensa'),
-    referralCodeLabel: (brand) => `Codice invito ${brand} Brasile`,
+    referralCodeLabel: (brand) => `Codice invito ${brand}`,
     copiedStatus: (code) => `Codice ${code} copiato.`,
     relatedTitle: 'Leggi anche',
     tocTitle: 'In questa guida',
@@ -150,7 +150,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     readingProgress: '읽기 진행률',
     couponLabel: (brand) => (brand ? `${brand} 코드` : '할인 코드'),
     rewardCodeLabel: (brand) => (brand ? `${brand} 리워드 코드` : '리워드 코드'),
-    referralCodeLabel: (brand) => `${brand} 브라질 추천 코드`,
+    referralCodeLabel: (brand) => `${brand} 추천 코드`,
     copiedStatus: (code) => `코드 ${code} 복사 완료.`,
     relatedTitle: '함께 읽어 보세요',
     tocTitle: '목차',
@@ -168,7 +168,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     readingProgress: '読み進めた割合',
     couponLabel: (brand) => (brand ? `${brand}のコード` : '割引コード'),
     rewardCodeLabel: (brand) => (brand ? `${brand}のリワードコード` : 'リワードコード'),
-    referralCodeLabel: (brand) => `${brand} ブラジルの紹介コード`,
+    referralCodeLabel: (brand) => `${brand} の紹介コード`,
     copiedStatus: (code) => `コード ${code} をコピーしました。`,
     relatedTitle: 'あわせて読みたい',
     tocTitle: '目次',
@@ -186,7 +186,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     readingProgress: '閱讀進度',
     couponLabel: (brand) => (brand ? `${brand} 優惠碼` : '優惠碼'),
     rewardCodeLabel: (brand) => (brand ? `${brand} 獎勵碼` : '獎勵碼'),
-    referralCodeLabel: (brand) => `${brand} 巴西站推薦碼`,
+    referralCodeLabel: (brand) => `${brand} 推薦碼`,
     copiedStatus: (code) => `已複製代碼 ${code}。`,
     relatedTitle: '延伸閱讀',
     tocTitle: '目錄',
@@ -204,7 +204,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     readingProgress: '阅读进度',
     couponLabel: (brand) => (brand ? `${brand} 优惠码` : '优惠码'),
     rewardCodeLabel: (brand) => (brand ? `${brand} 奖励码` : '奖励码'),
-    referralCodeLabel: (brand) => `${brand} 巴西站推荐码`,
+    referralCodeLabel: (brand) => `${brand} 推荐码`,
     copiedStatus: (code) => `已复制代码 ${code}。`,
     relatedTitle: '延伸阅读',
     tocTitle: '目录',

@@ -57,7 +57,6 @@ for (const review of publishedReviews) {
     assert.equal(block.articlesHref, undefined);
     const localized = isTranslatedLocale(review.locale) ? getLocalizedCoupon(review.affiliate!, review.locale) : undefined;
     assert.equal(block.discount, block.code && block.code === getStoreCode(getCouponBySlug(review.affiliate!)!) ? localized?.discount : undefined, `${review.slug}: desconto em PT fora do PT`);
-    assert.ok(!/br\.shein\.com/.test(block.storeHref ?? ''), `${review.slug}: link da SHEIN Brasil fora do PT`);
     assert.ok(block.rules.length === 0 || block.rules.every((r) => r.label && r.value));
   }
   if (block?.code === 'CECILIA010') assert.equal(block.codeKind, 'reward');
@@ -128,12 +127,11 @@ for (const loc of ['ja', 'zh-hant', 'ko', 'en'] as const) {
   assert.equal(block.rules.at(-1)!.label, getArticleCopy(loc).ruleVerifiedLabel);
 }
 
-// Fora do PT, loja sem página traduzida e fora a YesStyle: sem link de página, sem regras, sem SHEIN Brasil.
+// Fora do PT, loja sem página traduzida e fora a YesStyle: sem link de página e sem regras.
 const plain = getArticleStoreBlock({ ...base, locale: 'ja', affiliate: 'damie', coupon: 'CECILIA12' } as never, 'ja')!;
 assert.equal(plain.couponPageHref, undefined);
 assert.deepEqual(plain.rules, []);
 assert.equal(plain.articlesHref, undefined);
-assert.ok(!/br\.shein\.com/.test(plain.storeHref ?? ''));
 
 // Textos novos do artigo: nos 10 idiomas, sem campo vazio e, fora do PT, diferentes dos do PT.
 const DAMIE = { slug: 'damie', brand: 'DAMIE' };

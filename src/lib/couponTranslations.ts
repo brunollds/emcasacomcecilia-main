@@ -64,7 +64,7 @@ export type CodeOfferTranslation = OfferTranslationBase & {
 // Francês e alemão separam o número do % com espaço, que não pode quebrar a linha.
 const NBSP = '\u00a0';
 
-// O código de indicação e as campanhas são da SHEIN Brasil; fora do PT a página avisa isso e não
+// A SHEIN é uma loja só, mundial: o código de indicação e as campanhas valem em todo idioma. Fora do PT a página não
 // põe os 50% de novos usuários no título de busca.
 const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
   en: {
@@ -75,7 +75,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     category: 'Fashion, accessories, beauty and home',
     shortDescription: 'main link, referral code and current campaigns',
     longDescription:
-      "Open SHEIN through Cecília's main link, check the referral code 4CW5Y and see the confirmed campaigns for selected products and new users. The referral code and the campaigns are from SHEIN Brazil.",
+      "Open SHEIN through Cecília's main link, check the referral code 4CW5Y and see the confirmed campaigns for selected products and new users.",
     metaTitle: 'SHEIN referral code 4CW5Y and current campaigns',
     metaDescription:
       "Open SHEIN through Cecília's link, search 4CW5Y in the app and see the current campaigns for selected products and new users.",
@@ -122,7 +122,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       'Check the final price before completing your purchase.',
     ],
     linkNote:
-      'The main link opens SHEIN; referral and campaign codes are searched in the app. The codes on this page come from SHEIN Brazil and may not work in your country. Check the conditions shown for your account before paying.',
+      'The main link opens SHEIN; referral and campaign codes are searched in the app. Check the conditions shown for your account before paying.',
     referral: {
       label: "Cecília's referral code",
       instructions: 'Search 4CW5Y in the SHEIN app and check the conditions shown for your account.',
@@ -148,7 +148,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     category: 'Moda, accesorios, belleza y hogar',
     shortDescription: 'enlace principal, código de referido y campañas vigentes',
     longDescription:
-      'Entra en SHEIN con el enlace principal de Cecília, consulta el código de referido 4CW5Y y mira las campañas confirmadas para productos seleccionados y nuevos usuarios. El código de referido y las campañas son de SHEIN Brasil.',
+      'Entra en SHEIN con el enlace principal de Cecília, consulta el código de referido 4CW5Y y mira las campañas confirmadas para productos seleccionados y nuevos usuarios.',
     metaTitle: 'SHEIN: código de referido 4CW5Y y campañas vigentes',
     metaDescription:
       'Entra en SHEIN con el enlace de Cecília, busca 4CW5Y en la app y consulta las campañas vigentes para productos seleccionados y nuevos usuarios.',
@@ -195,7 +195,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       'Comprueba el precio final antes de completar la compra.',
     ],
     linkNote:
-      'El enlace principal abre SHEIN; los códigos de referido y de campaña se buscan en la app. Los códigos de esta página son de SHEIN Brasil y puede que no funcionen en tu país. Comprueba las condiciones que se muestran para tu cuenta antes de pagar.',
+      'El enlace principal abre SHEIN; los códigos de referido y de campaña se buscan en la app. Comprueba las condiciones que se muestran para tu cuenta antes de pagar.',
     referral: {
       label: 'Código de referido de Cecília',
       instructions: 'Busca 4CW5Y en la app de SHEIN y consulta las condiciones que se muestran para tu cuenta.',
@@ -221,7 +221,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     category: 'Mode, accessoires, beauté et maison',
     shortDescription: 'lien principal, code de parrainage et campagnes en cours',
     longDescription:
-      'Accédez à SHEIN via le lien principal de Cecília, consultez le code de parrainage 4CW5Y et découvrez les campagnes confirmées pour une sélection de produits et pour les nouveaux utilisateurs. Le code de parrainage et les campagnes proviennent de SHEIN Brésil.',
+      'Accédez à SHEIN via le lien principal de Cecília, consultez le code de parrainage 4CW5Y et découvrez les campagnes confirmées pour une sélection de produits et pour les nouveaux utilisateurs.',
     metaTitle: `SHEIN${NBSP}: code de parrainage 4CW5Y et campagnes en cours`,
     metaDescription:
       "Accédez à SHEIN via le lien de Cecília, recherchez 4CW5Y dans l'appli et consultez les campagnes en cours pour une sélection de produits et pour les nouveaux utilisateurs.",
@@ -265,7 +265,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       "Vérifiez l'éligibilité, les produits et les délais directement sur SHEIN.",
       "Vérifiez le prix final avant de finaliser l'achat.",
     ],
-    linkNote: `Le lien principal ouvre SHEIN${NBSP}; les codes de parrainage et de campagne se recherchent dans l'appli. Les codes de cette page proviennent de SHEIN Brésil et peuvent ne pas fonctionner dans votre pays. Vérifiez les conditions affichées pour votre compte avant de payer.`,
+    linkNote: `Le lien principal ouvre SHEIN${NBSP}; les codes de parrainage et de campagne se recherchent dans l'appli. Vérifiez les conditions affichées pour votre compte avant de payer.`,
     referral: {
       label: 'Code de parrainage de Cecília',
       instructions: "Recherchez 4CW5Y dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte.",
@@ -291,7 +291,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     category: 'Mode, Accessoires, Beauty und Wohnen',
     shortDescription: 'Hauptlink, Empfehlungscode und aktuelle Aktionen',
     longDescription:
-      'Öffne SHEIN über Cecílias Hauptlink, sieh dir den Empfehlungscode 4CW5Y an und entdecke die bestätigten Aktionen für ausgewählte Produkte und Neukunden. Empfehlungscode und Aktionen stammen von SHEIN Brasilien.',
+      'Öffne SHEIN über Cecílias Hauptlink, sieh dir den Empfehlungscode 4CW5Y an und entdecke die bestätigten Aktionen für ausgewählte Produkte und Neukunden.',
     metaTitle: 'SHEIN: Empfehlungscode 4CW5Y und aktuelle Aktionen',
     metaDescription:
       'Öffne SHEIN über Cecílias Link, suche in der App nach 4CW5Y und sieh dir die aktuellen Aktionen für ausgewählte Produkte und Neukunden an.',
@@ -338,7 +338,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       'Prüfe den Endpreis, bevor du den Kauf abschließt.',
     ],
     linkNote:
-      'Der Hauptlink öffnet SHEIN; Empfehlungs- und Aktionscodes suchst du in der App. Die Codes auf dieser Seite stammen von SHEIN Brasilien und funktionieren in deinem Land möglicherweise nicht. Prüfe vor dem Bezahlen die Bedingungen, die für dein Konto angezeigt werden.',
+      'Der Hauptlink öffnet SHEIN; Empfehlungs- und Aktionscodes suchst du in der App. Prüfe vor dem Bezahlen die Bedingungen, die für dein Konto angezeigt werden.',
     referral: {
       label: 'Cecílias Empfehlungscode',
       instructions: 'Suche in der SHEIN-App nach 4CW5Y und prüfe die Bedingungen, die für dein Konto angezeigt werden.',
@@ -364,7 +364,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     category: 'Moda, accessori, bellezza e casa',
     shortDescription: 'link principale, codice invito e campagne in corso',
     longDescription:
-      'Apri SHEIN con il link principale di Cecília, consulta il codice invito 4CW5Y e scopri le campagne confermate per prodotti selezionati e nuovi utenti. Il codice invito e le campagne sono di SHEIN Brasile.',
+      'Apri SHEIN con il link principale di Cecília, consulta il codice invito 4CW5Y e scopri le campagne confermate per prodotti selezionati e nuovi utenti.',
     metaTitle: 'SHEIN: codice invito 4CW5Y e campagne in corso',
     metaDescription:
       "Apri SHEIN con il link di Cecília, cerca 4CW5Y nell'app e scopri le campagne in corso per prodotti selezionati e nuovi utenti.",
@@ -411,7 +411,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       "Verifica il prezzo finale prima di completare l'acquisto.",
     ],
     linkNote:
-      "Il link principale apre SHEIN; i codici invito e di campagna si cercano nell'app. I codici di questa pagina sono di SHEIN Brasile e potrebbero non funzionare nel tuo paese. Controlla le condizioni mostrate per il tuo account prima di pagare.",
+      "Il link principale apre SHEIN; i codici invito e di campagna si cercano nell'app. Controlla le condizioni mostrate per il tuo account prima di pagare.",
     referral: {
       label: 'Codice invito di Cecília',
       instructions: "Cerca 4CW5Y nell'app SHEIN e controlla le condizioni mostrate per il tuo account.",
@@ -437,7 +437,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     category: '패션, 액세서리, 뷰티, 홈',
     shortDescription: '메인 링크, 추천 코드, 진행 중인 캠페인',
     longDescription:
-      'Cecília의 메인 링크로 SHEIN에 접속해 추천 코드 4CW5Y와 일부 상품·신규 회원 대상으로 확인된 캠페인을 살펴보세요. 추천 코드와 캠페인은 SHEIN 브라질 기준입니다.',
+      'Cecília의 메인 링크로 SHEIN에 접속해 추천 코드 4CW5Y와 일부 상품·신규 회원 대상으로 확인된 캠페인을 살펴보세요.',
     metaTitle: 'SHEIN 추천 코드 4CW5Y와 진행 중인 캠페인',
     metaDescription:
       'Cecília의 링크로 SHEIN에 접속해 앱에서 4CW5Y를 검색하고, 일부 상품과 신규 회원 대상 캠페인을 확인하세요.',
@@ -483,7 +483,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       '구매를 완료하기 전에 최종 금액을 확인하세요.',
     ],
     linkNote:
-      '메인 링크는 SHEIN으로 연결되며, 추천 코드와 캠페인 코드는 앱에서 검색합니다. 이 페이지의 코드는 SHEIN 브라질 기준이라 다른 국가에서는 적용되지 않을 수 있습니다. 결제 전에 내 계정에 표시되는 조건을 확인하세요.',
+      '메인 링크는 SHEIN으로 연결되며, 추천 코드와 캠페인 코드는 앱에서 검색합니다. 결제 전에 내 계정에 표시되는 조건을 확인하세요.',
     referral: {
       label: 'Cecília의 추천 코드',
       instructions: 'SHEIN 앱에서 4CW5Y를 검색하고 내 계정에 표시되는 조건을 확인하세요.',
@@ -509,7 +509,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     category: 'ファッション、アクセサリー、コスメ、インテリア',
     shortDescription: 'メインリンク、紹介コード、開催中のキャンペーン',
     longDescription:
-      'Cecília のメインリンクから SHEIN を開き、紹介コード 4CW5Y と、対象商品・新規ユーザー向けに確認済みのキャンペーンをチェックできます。紹介コードとキャンペーンは SHEIN ブラジルのものです。',
+      'Cecília のメインリンクから SHEIN を開き、紹介コード 4CW5Y と、対象商品・新規ユーザー向けに確認済みのキャンペーンをチェックできます。',
     metaTitle: 'SHEIN の紹介コード 4CW5Y と開催中のキャンペーン',
     metaDescription:
       'Cecília のリンクから SHEIN を開き、アプリで 4CW5Y を検索して、対象商品と新規ユーザー向けの開催中キャンペーンを確認できます。',
@@ -555,7 +555,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       '購入を確定する前に最終金額を確認します。',
     ],
     linkNote:
-      'メインリンクは SHEIN を開きます。紹介コードとキャンペーンコードはアプリで検索します。このページのコードは SHEIN ブラジルのもので、お住まいの国では使えない場合があります。お支払い前に、ご自身のアカウントに表示される条件をご確認ください。',
+      'メインリンクは SHEIN を開きます。紹介コードとキャンペーンコードはアプリで検索します。お支払い前に、ご自身のアカウントに表示される条件をご確認ください。',
     referral: {
       label: 'Cecília の紹介コード',
       instructions: 'SHEIN アプリで 4CW5Y を検索し、ご自身のアカウントに表示される条件をご確認ください。',
@@ -581,7 +581,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     category: '時裝、配飾、美妝及家居',
     shortDescription: '主要連結、推薦碼及進行中的活動',
     longDescription:
-      '透過 Cecília 的主要連結前往 SHEIN，查看推薦碼 4CW5Y，以及已確認的指定商品及新用戶活動。推薦碼及活動均來自 SHEIN 巴西站。',
+      '透過 Cecília 的主要連結前往 SHEIN，查看推薦碼 4CW5Y，以及已確認的指定商品及新用戶活動。',
     metaTitle: 'SHEIN 推薦碼 4CW5Y 及進行中的活動',
     metaDescription: '透過 Cecília 的連結前往 SHEIN，在 App 搜尋 4CW5Y，並查看指定商品及新用戶的進行中活動。',
     eligibleCategories: '時裝、配飾、美妝、家居及各活動適用的其他類別',
@@ -624,7 +624,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       '完成購買前請確認最終金額。',
     ],
     linkNote:
-      '主要連結會開啟 SHEIN；推薦碼及活動代碼需在 App 內搜尋。此頁面的代碼來自 SHEIN 巴西站，在你所在的國家或地區未必適用。付款前請查看你的帳戶顯示的條件。',
+      '主要連結會開啟 SHEIN；推薦碼及活動代碼需在 App 內搜尋。付款前請查看你的帳戶顯示的條件。',
     referral: {
       label: 'Cecília 的推薦碼',
       instructions: '請在 SHEIN App 搜尋 4CW5Y，並查看你的帳戶顯示的條件。',
@@ -650,7 +650,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     category: '服饰、配饰、美妆和家居',
     shortDescription: '主链接、推荐码和进行中的活动',
     longDescription:
-      '通过 Cecília 的主链接打开 SHEIN，查看推荐码 4CW5Y，以及已确认的指定商品和新用户活动。推荐码和活动均来自 SHEIN 巴西站。',
+      '通过 Cecília 的主链接打开 SHEIN，查看推荐码 4CW5Y，以及已确认的指定商品和新用户活动。',
     metaTitle: 'SHEIN 推荐码 4CW5Y 和进行中的活动',
     metaDescription: '通过 Cecília 的链接打开 SHEIN，在 App 中搜索 4CW5Y，查看指定商品和新用户的进行中活动。',
     eligibleCategories: '服饰、配饰、美妆、家居及各活动适用的其他品类',
@@ -691,7 +691,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       '请直接在 SHEIN 查看资格、商品和期限。',
       '完成购买前请确认最终金额。',
     ],
-    linkNote: '主链接会打开 SHEIN；推荐码和活动代码需在 App 内搜索。本页的代码来自 SHEIN 巴西站，在你所在的国家或地区不一定适用。付款前请查看你的账户显示的条件。',
+    linkNote: '主链接会打开 SHEIN；推荐码和活动代码需在 App 内搜索。付款前请查看你的账户显示的条件。',
     referral: {
       label: 'Cecília 的推荐码',
       instructions: '请在 SHEIN App 中搜索 4CW5Y，并查看你的账户显示的条件。',

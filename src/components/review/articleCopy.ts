@@ -46,7 +46,7 @@ export type ArticleCopy = {
   ruleTestedLabel: string;
   ruleVerifiedLabel: string;
   // Sob o recorte depois de copiar. A recompensa vai no campo Reward Code; a indicação não se cola no
-  // checkout, pesquisa-se no aplicativo, e fora do PT o texto diz que o código é da SHEIN Brasil.
+  // checkout, pesquisa-se no aplicativo.
   copiedHint: (store: StoreName, kind?: CouponCodeKind) => string;
   // Bloco da loja no fim do artigo. A loja vai com o slug: em PT, "no Magalu", "na DAMIE" (storeNames.ts).
   storeBlockTitle: (store: StoreName) => string;
@@ -164,7 +164,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
       kind === 'reward'
         ? `Copied. Now just paste it in the Reward Code field at ${brand}.`
         : kind === 'referral'
-          ? `Copied. Now search the ${brand} Brazil referral code in the ${brand} app.`
+          ? `Copied. Now search the ${brand} referral code in the ${brand} app.`
           : `Copied. Now just paste it at the ${brand} checkout.`,
     storeBlockTitle: ({ brand }) => `Shopping at ${brand}`,
     allRules: 'See all the rules',
@@ -218,7 +218,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
       kind === 'reward'
         ? `Copiado. Ahora solo pégalo en el campo Reward Code de ${brand}.`
         : kind === 'referral'
-          ? `Copiado. Ahora busca el código de referido de ${brand} Brasil en la app de ${brand}.`
+          ? `Copiado. Ahora busca el código de referido de ${brand} en la app de ${brand}.`
           : `Copiado. Ahora solo pégalo al finalizar la compra en ${brand}.`,
     storeBlockTitle: ({ brand }) => `Tu compra en ${brand}`,
     allRules: 'Ver todas las reglas',
@@ -272,7 +272,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
       kind === 'reward'
         ? `Copié. Il ne reste qu’à le coller dans le champ Reward Code de ${brand}.`
         : kind === 'referral'
-          ? `Copié. Recherchez maintenant le code de parrainage ${brand} Brésil dans l’appli ${brand}.`
+          ? `Copié. Recherchez maintenant le code de parrainage ${brand} dans l’appli ${brand}.`
           : `Copié. Il ne reste qu’à le coller au paiement sur ${brand}.`,
     storeBlockTitle: ({ brand }) => `Votre achat chez ${brand}`,
     allRules: 'Voir toutes les conditions',
@@ -326,7 +326,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
       kind === 'reward'
         ? `Kopiert. Jetzt nur noch bei ${brand} ins Feld Reward Code einfügen.`
         : kind === 'referral'
-          ? `Kopiert. Suche jetzt den Empfehlungscode von ${brand} Brasilien in der ${brand}-App.`
+          ? `Kopiert. Suche jetzt den Empfehlungscode von ${brand} in der ${brand}-App.`
           : `Kopiert. Jetzt nur noch an der ${brand}-Kasse einfügen.`,
     storeBlockTitle: ({ brand }) => `Dein Einkauf bei ${brand}`,
     allRules: 'Alle Bedingungen ansehen',
@@ -380,7 +380,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
       kind === 'reward'
         ? `Copiato. Ora basta incollarlo nel campo Reward Code di ${brand}.`
         : kind === 'referral'
-          ? `Copiato. Ora cerca il codice invito ${brand} Brasile nell’app ${brand}.`
+          ? `Copiato. Ora cerca il codice invito ${brand} nell’app ${brand}.`
           : `Copiato. Ora basta incollarlo al checkout di ${brand}.`,
     storeBlockTitle: ({ brand }) => `Il tuo acquisto su ${brand}`,
     allRules: 'Vedi tutte le regole',
@@ -434,7 +434,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
       kind === 'reward'
         ? `복사했어요. 이제 ${brand}의 Reward Code 입력란에 붙여 넣으세요.`
         : kind === 'referral'
-          ? `복사했어요. 이제 ${brand} 앱에서 ${brand} 브라질 추천 코드를 검색하세요.`
+          ? `복사했어요. 이제 ${brand} 앱에서 ${brand} 추천 코드를 검색하세요.`
           : `복사했어요. 이제 ${brand} 결제 화면에 붙여 넣으세요.`,
     storeBlockTitle: ({ brand }) => `${brand}에서 쇼핑할 때`,
     allRules: '모든 조건 보기',
@@ -488,7 +488,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
       kind === 'reward'
         ? `コピーしました。あとは ${brand} の Reward Code 欄に貼り付けるだけです。`
         : kind === 'referral'
-          ? `コピーしました。${brand} アプリで ${brand} ブラジルの紹介コードを検索してください。`
+          ? `コピーしました。${brand} アプリで ${brand} の紹介コードを検索してください。`
           : `コピーしました。あとは ${brand} の決済画面に貼り付けるだけです。`,
     storeBlockTitle: ({ brand }) => `${brand} でのお買い物`,
     allRules: '条件をすべて見る',
@@ -542,7 +542,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
       kind === 'reward'
         ? `已複製。接著貼到 ${brand} 的 Reward Code 欄位即可。`
         : kind === 'referral'
-          ? `已複製。請在 ${brand} App 搜尋 ${brand} 巴西站推薦碼。`
+          ? `已複製。請在 ${brand} App 搜尋 ${brand} 推薦碼。`
           : `已複製。接著在 ${brand} 結帳時貼上即可。`,
     storeBlockTitle: ({ brand }) => `在 ${brand} 購物`,
     allRules: '查看全部規則',
@@ -596,7 +596,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
       kind === 'reward'
         ? `已复制。接着粘贴到 ${brand} 的 Reward Code 栏位即可。`
         : kind === 'referral'
-          ? `已复制。请在 ${brand} App 中搜索 ${brand} 巴西站推荐码。`
+          ? `已复制。请在 ${brand} App 中搜索 ${brand} 推荐码。`
           : `已复制。接着在 ${brand} 结账时粘贴即可。`,
     storeBlockTitle: ({ brand }) => `在 ${brand} 购物`,
     allRules: '查看全部规则',

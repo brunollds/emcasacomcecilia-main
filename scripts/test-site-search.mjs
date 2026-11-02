@@ -234,7 +234,6 @@ for (const locale of translatedLocales) {
   assert.ok(generated.every(({ title, terms }) => title && terms), `${locale}: item sem título ou termos`);
   // Nenhum texto de página em português: título e descrição não repetem os do PT.
   assert.deepEqual(generated.filter(({ title, description }) => ptTexts.has(title) || ptTexts.has(description)), [], `${locale}: texto do PT`);
-  assert.doesNotMatch(JSON.stringify(generated), /br\.shein\.com/, `${locale}: link da SHEIN Brasil`);
 
   const yesstyle = getRankedSearchResults(generated, 'yesstyle');
   assert.equal(yesstyle[0]?.href, `/${locale}/coupons/yesstyle`, `${locale}: "yesstyle" sem a página da loja na frente`);

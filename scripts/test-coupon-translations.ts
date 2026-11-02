@@ -88,7 +88,7 @@ assert.equal(getLocalizedCoupon(untranslated, 'en'), undefined);
 // SHEIN fora do PT: link neutro gerado pelo Bruno no painel (o PT segue no link brasileiro, conferido em
 // test-coupon-offer-modes). Não conferir os links clicando: o clique registra atribuição.
 const SHEIN_NEUTRAL_LINK = 'https://onelink.shein.com/55/6463grgxf6ru';
-// O código de indicação e as campanhas são da SHEIN Brasil, e cada idioma avisa isso.
+// A SHEIN é uma loja só, mundial: nenhum texto fora do PT diz que o código ou as campanhas são de um país.
 const SHEIN_BRAZIL: Record<TranslatedLocale, string> = {
   en: 'SHEIN Brazil',
   es: 'SHEIN Brasil',
@@ -105,9 +105,10 @@ for (const locale of TRANSLATED_LOCALES) {
   const shein = getLocalizedCoupon('shein', locale);
   assert.ok(shein?.offerMode === 'affiliate-link', `shein/${locale}: deixou de ser oferta por link`);
   assert.equal(shein.offerUrl, SHEIN_NEUTRAL_LINK, `shein/${locale}: link principal não é o neutro`);
-  assert.ok(shein.longDescription.includes(SHEIN_BRAZIL[locale]), `shein/${locale}: longDescription sem o aviso da SHEIN Brasil`);
-  assert.ok(shein.linkNote?.includes(SHEIN_BRAZIL[locale]), `shein/${locale}: linkNote sem o aviso da SHEIN Brasil`);
-  // Os 50% de novos usuários são da SHEIN Brasil e podem não valer em outro país.
+  for (const [path, text] of leaves(shein)) {
+    assert.ok(!text.includes(SHEIN_BRAZIL[locale]), `shein/${locale}: "${SHEIN_BRAZIL[locale]}" em ${path}`);
+  }
+  // Os 50% de novos usuários não vão ao título de busca.
   assert.doesNotMatch(`${shein.metaTitle} ${shein.metaDescription}`, /50\s?%/, `shein/${locale}: 50% no título ou na descrição`);
   for (const [path, text] of leaves(shein)) {
     if (!isUrl(text)) assert.ok(!text.includes('br.shein.com'), `shein/${locale}: br.shein.com no texto de ${path}`);

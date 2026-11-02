@@ -72,7 +72,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
       {
         pergunta: 'O 4CW5Y da SHEIN é um cupom?',
         resposta:
-          'Não. É um código de indicação da SHEIN Brasil: você pesquisa o 4CW5Y no aplicativo da SHEIN, não cola no checkout. As condições aparecem na sua conta.',
+          'Não. É um código de indicação da SHEIN: você pesquisa o 4CW5Y no aplicativo da SHEIN, não cola no checkout. As condições aparecem na sua conta.',
         link: { href: '/cupons/shein', label: 'Ver como usar na SHEIN' },
       },
       {
