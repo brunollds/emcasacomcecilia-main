@@ -11,9 +11,16 @@ Decisão do Bruno (02/11/2026): as 9 traduções das 32 famílias são **traduzi
 `id`, `slug`, `locale`, `translationKey`, `affiliate`, `coupon`, `cta` (na SHEIN fora do PT, o link principal neutro da página da loja), `publishedAt`, `relatedArticles`, os caminhos das imagens e o `href` de cada foto (o mesmo do PT). `title` e `seoTitle` ficam, salvo se o título prometer algo que o corpo novo não traz; então muda o mínimo, e o PR diz qual. O `type` segue a tabela do Job 4 (seção 3).
 
 ## O que sai do PT
-- **Corpo:** os mesmos capítulos do PT, na mesma ordem, com o mesmo sentido; a resposta rápida, o FAQ (título de FAQ do idioma, que o `isFaqHeading` reconhece, e as mesmas perguntas), o `editorialNote`, a `description` e a `metaDescription`.
+- **Corpo:** os mesmos capítulos do PT, na mesma ordem, com o mesmo sentido, menos os do Brasil (seção abaixo); a resposta rápida, o FAQ (título de FAQ do idioma, que o `isFaqHeading` reconhece, e as mesmas perguntas), o `editorialNote`, a `description` e a `metaDescription`.
 - **Cartão (`emphasis`):** no mesmo capítulo do PT, um só, ou nenhum se o PT não tem. Card de estilo (`styling`) e quadro `decision` só se o PT tem, com o mesmo número de frases e nenhuma igual à do PT.
 - **Tradução, não decalque:** a frase é escrita como um nativo escreveria (ordem, registro, pontuação e aspas do idioma), com a mesma voz: conclusão primeiro, sem "segundo a loja", sem bastidor, sem ressalva defensiva.
+
+## Fora do PT, sem Brasil (decisão do Bruno, 02/11/2026, no lote 01)
+- **Sai tudo o que fala do Brasil:** frete e prazo para o Brasil, CEP, Correios; Receita Federal, ICMS, Remessa Conforme, imposto de importação brasileiro; Pix, boleto, R$, "loja nacional", "K-Beauty no Brasil". O capítulo só sobre o Brasil sai inteiro; a frase mista perde só a parte do Brasil. Item de FAQ, de lista ou de "antes de pagar" sobre o Brasil sai também.
+- **Idioma do site da loja:** a tradução não manda escolher o português; diz só que dá para trocar o idioma no topo do site, sem citar qual.
+- **Fica:** "SHEIN Brasil" para dizer de quem é o 4CW5Y (a trava continua) e como fonte do calendário da SHEIN. O link para o guia de entrega da YesStyle fica, porque em cada idioma leva ao guia daquele idioma, mas o texto não diz "no Brasil e em Portugal".
+- **Título:** se o `title` ou o `seoTitle` promete o Brasil ("Brazil", imposto/tax), muda nos 9 idiomas, e o PR diz qual. Foi o caso da Black Friday da SHEIN.
+- **Outros idiomas:** o alemão usa "Sie" (como 27 dos 31 artigos alemães do site), salvo fala da autora consigo mesma que venha do PT; o nome da Cecília em chinês é 西西莉亚 / 西西莉亞.
 
 ## Dados que só existem na tradução
 Preço em outra moeda, frete por país e imposto local (IOSS, por exemplo) **ficam só se o próprio artigo diz de onde vêm** (a página internacional da loja, como os preços em US$ da Hostinger) e seguem as mesmas regras de data do PT. Sem fonte no artigo, saem. Nada novo entra nesta rodada.
