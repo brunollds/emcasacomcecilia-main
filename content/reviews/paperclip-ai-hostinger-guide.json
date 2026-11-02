@@ -149,17 +149,6 @@
     },
     {
       "heading": "What size of VPS",
-      "paragraphs": [],
-      "comparisonTable": {
-        "headers": [],
-        "rows": [
-          [],
-          [],
-          [],
-          [],
-          []
-        ]
-      },
       "postParagraphs": [
         "RAM is the server’s memory, and a vCPU is one processor core. The bigger the VPS plan, the more memory and processing power it has. Hostinger does not list a minimum memory requirement for Paperclip on the pages read: the KVM 1 is the starting point, and how many agents you run decides whether it is enough. The plans are KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) and KVM 8 (8 vCPU, 32 GB, 400 GB)."
       ]
@@ -204,7 +193,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the price in the cart.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

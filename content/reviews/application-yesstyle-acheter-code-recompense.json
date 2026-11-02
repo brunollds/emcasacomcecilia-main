@@ -3,7 +3,7 @@
   "slug": "application-yesstyle-acheter-code-recompense",
   "locale": "fr",
   "translationKey": "yesstyle-app",
-  "title": "Appli YesStyle : comment acheter et où saisir le code récompense CECILIA010",
+  "title": "Appli YesStyle : comment acheter et où saisir le code de récompense CECILIA010",
   "seoTitle": "Appli YesStyle : comment acheter et où saisir le CECILIA010",
   "type": "Guide pratique",
   "category": "cupons-como-usar",
@@ -21,7 +21,7 @@
   "isNew": false,
   "hideFromPortugueseListings": true,
   "description": "Guide de l'appli YesStyle : liens officiels, notes sur les boutiques d'applications, le champ « Influencer / Rewards Code » où se saisit le CECILIA010, ce qui change par rapport au site et quoi vérifier si l'appli ne fonctionne pas.",
-  "metaDescription": "YesStyle a une appli pour Android et iPhone. Où se saisit le code récompense CECILIA010 à la validation de commande dans l'appli, et ce qui change par rapport au site.",
+  "metaDescription": "YesStyle a une appli pour Android et iPhone. Où se saisit le code de récompense CECILIA010 à la validation de commande dans l'appli, et ce qui change par rapport au site.",
   "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa.webp",
   "imageAlt": "Deux écrans de l'appli YesStyle, l'accueil avec des produits de beauté coréenne et la validation de commande avec le CECILIA010 appliqué, avec le logo YesStyle et le titre YesStyle App",
   "imageFit": "contain",
@@ -29,7 +29,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Saisissez CECILIA010 dans le champ \"Influencer / Rewards Code\" de l'appli ou dans le Reward Code du site : c'est un code récompense, jusqu'à 5 % en plus, et il se cumule avec les coupons YesStyle.",
+    "text": "Saisissez CECILIA010 dans le champ « Influencer / Rewards Code » de l'appli ou dans le Reward Code du site : c'est un code de récompense, jusqu'à 5 % en plus, et il se cumule avec les coupons YesStyle.",
     "label": "Aller sur YesStyle",
     "url": "https://ystyle.co/rQYQv",
     "sponsored": true
@@ -55,7 +55,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Oui, YesStyle a une appli pour Android et iPhone, avec le même compte que le site. Dans l'appli, le CECILIA010, un code récompense, se saisit dans le champ « Influencer / Rewards Code » de la validation de commande, à côté de « Coupon Code »."
+        "Oui, YesStyle a une appli pour Android et iPhone, avec le même compte que le site. Dans l'appli, le CECILIA010, un code de récompense, se saisit dans le champ « Influencer / Rewards Code » de la validation de commande, à côté de « Coupon Code »."
       ]
     },
     {
@@ -97,7 +97,7 @@
       ],
       "bullets": [
         "Le compte est le même que sur le site. Inutile d'en créer un autre.",
-        "Connectez-vous avant d'ajouter des articles au panier. Connecté sur le site et dans l'appli, le panier est unique.",
+        "Connectez-vous avant d'ajouter des articles au panier. Si vous êtes connecté sur le site et dans l'appli, le panier est unique.",
         "À la validation de commande, l'appli affiche le pays de livraison, les frais de port et la ligne « Coupon or Influencer / Rewards Code » avant le récapitulatif de la commande."
       ],
       "postParagraphs": [
@@ -107,15 +107,15 @@
     {
       "heading": "Où saisir le CECILIA010 dans l'appli",
       "paragraphs": [
-        "Le CECILIA010 est un code récompense, pas un coupon : il donne jusqu'à 5 % en plus (5 % sur le premier achat et 2 % sur les suivants) et se cumule avec les coupons de YesStyle. Dans l'appli, il a son propre champ. Test réalisé sur l'appli Android, compte en anglais, livraison aux États-Unis, sans finaliser l'achat."
+        "Le CECILIA010 est un code de récompense, pas un coupon : il donne jusqu'à 5 % en plus (5 % sur le premier achat et 2 % sur les suivants) et se cumule avec les coupons de YesStyle. Dans l'appli, il a son propre champ. Test réalisé sur l'appli Android, compte en anglais, livraison aux États-Unis, sans finaliser l'achat."
       ],
       "bullets": [
         "À la validation de commande, touchez « Enter Code », sur la ligne « Coupon or Influencer / Rewards Code ».",
         "Deux champs s'ouvrent : « Coupon Code » en haut, pour le coupon de la boutique, et « Influencer / Rewards Code » en bas. Saisissez CECILIA010 dans celui du bas et touchez « APPLY ».",
-        "De retour à la validation de commande, le code apparaît sous forme d'étiquette sous « Coupon or Influencer / Rewards Code », et le récapitulatif gagne une ligne « Influencer Code Discount ». Vérifiez cette ligne avant de payer."
+        "De retour à la validation de commande, le code apparaît sous forme d'étiquette sous « Coupon or Influencer / Rewards Code », et le récapitulatif affiche une ligne « Influencer Code Discount ». Vérifiez cette ligne avant de payer."
       ],
       "postParagraphs": [
-        "Le coupon de la boutique, quand il y en a un d'actif, se saisit dans le champ du haut, sur le même écran. Les deux se cumulent."
+        "Le coupon de la boutique, quand l'un d'eux est actif, se saisit dans le champ du haut, sur le même écran. Les deux se cumulent."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
@@ -187,7 +187,7 @@
       "heading": "Questions fréquentes",
       "bullets": [
         "YesStyle a-t-il une appli ? Oui, pour Android et iPhone, sur les liens officiels de Google Play et de l'App Store. La boutique indique de télécharger uniquement depuis ces deux liens.",
-        "Le CECILIA010 fonctionne-t-il dans l'appli ? Oui. À la validation de commande, touchez « Enter Code » et saisissez le code dans le champ « Influencer / Rewards Code ». C'est un code récompense, avec jusqu'à 5 % en plus, et il se cumule avec le coupon de la boutique, qui se saisit dans le champ « Coupon Code ».",
+        "Le CECILIA010 fonctionne-t-il dans l'appli ? Oui. À la validation de commande, touchez « Enter Code » et saisissez le code dans le champ « Influencer / Rewards Code ». C'est un code de récompense, avec jusqu'à 5 % en plus, et il se cumule avec le coupon de la boutique, qui se saisit dans le champ « Coupon Code ».",
         "Gagne-t-on des points en téléchargeant l'appli ? Oui, 50 points YS en se connectant via l'appli, une seule fois. Réinstaller ne les redonne pas, et les points ne sont pas le code récompense.",
         "L'appli a-t-elle un coupon exclusif ? La boutique indique publier un coupon de 24 heures, une fois par mois, réservé aux commandes dans l'appli. Lors de la vérification, aucun n'était actif."
       ]

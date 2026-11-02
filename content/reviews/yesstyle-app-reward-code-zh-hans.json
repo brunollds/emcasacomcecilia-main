@@ -20,7 +20,7 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "description": "YesStyle App 指南：官方下载链接、应用商店评分、填写 CECILIA010 的“Influencer / Rewards Code”栏位、与网站的区别，以及 App 无法使用时该检查什么。",
+  "description": "YesStyle App 指南：官方下载链接、应用商店评分、填写 CECILIA010 的“Influencer / Rewards Code”输入框、与网站的区别，以及 App 无法使用时该检查什么。",
   "metaDescription": "YesStyle 有适用于 Android 和 iPhone 的 App。介绍奖励码 CECILIA010 在 App 结账页的填写位置，以及与网站的区别。",
   "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa.webp",
   "imageAlt": "YesStyle App 的两个界面：展示韩国美妆产品的首页，以及已应用 CECILIA010 的结账页，带有 YesStyle 标志和标题 YesStyle App",
@@ -29,7 +29,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在 App 把 CECILIA010 填入“Influencer / Rewards Code”栏位，在网站则填入 Reward Code 栏位。它是奖励码，最多额外 5% 优惠，可与 YesStyle 的优惠券叠加。",
+    "text": "在 App 把 CECILIA010 填入“Influencer / Rewards Code”输入框，在网站则填入 Reward Code 输入框。它是奖励码，最多额外 5% 优惠，可与 YesStyle 的优惠券叠加。",
     "label": "前往 YesStyle",
     "url": "https://ystyle.co/rQYQv",
     "sponsored": true
@@ -55,7 +55,7 @@
     {
       "heading": "简要回答",
       "paragraphs": [
-        "可以，YesStyle 有适用于 Android 和 iPhone 的 App，账号与网站通用。在 App 里，奖励码 CECILIA010 填在结账页的“Influencer / Rewards Code”栏位，就在“Coupon Code”旁边。"
+        "是的，YesStyle 有适用于 Android 和 iPhone 的 App，账号与网站通用。在 App 里，奖励码 CECILIA010 填在结账页的“Influencer / Rewards Code”输入框，就在“Coupon Code”旁边。"
       ]
     },
     {
@@ -107,19 +107,19 @@
     {
       "heading": "CECILIA010 在 App 里填在哪里",
       "paragraphs": [
-        "CECILIA010 是奖励码，不是优惠券：最高额外优惠 5%（首次购买 5%，之后 2%），并可与 YesStyle 的优惠券叠加。在 App 里，它有专属栏位。测试在 Android App 上进行，英文账号，配送至美国，未完成下单。"
+        "CECILIA010 是奖励码，不是优惠券：最高额外优惠 5%（首次购买 5%，之后 2%），并可与 YesStyle 的优惠券叠加。在 App 里，它有专属输入框。测试在 Android App 上进行，英文账号，配送至美国，未完成下单。"
       ],
       "bullets": [
         "在结账页，点击“Coupon or Influencer / Rewards Code”那一行的“Enter Code”。",
-        "会打开两个栏位：上方是“Coupon Code”，填商店优惠券；下方是“Influencer / Rewards Code”。在下方输入 CECILIA010，然后点击“APPLY”。",
+        "会显示两个输入框：上方是“Coupon Code”，填商店优惠券；下方是“Influencer / Rewards Code”。在下方输入 CECILIA010，然后点击“APPLY”。",
         "回到结账页后，代码会以标签形式显示在“Coupon or Influencer / Rewards Code”下方，订单摘要里会多出“Influencer Code Discount”一行。付款前请确认这一行。"
       ],
       "postParagraphs": [
-        "商店优惠券如果有可用的，填在同一界面的上方栏位。两者可以叠加。"
+        "商店优惠券如果有可用的，填在同一界面的上方输入框。两者可以叠加。"
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
-        "alt": "YesStyle App 的三个界面：带有 Coupon or Influencer / Rewards Code 行的结账页、带有 Coupon Code 和 Influencer / Rewards Code 栏位的 Enter Code 界面，以及已应用 CECILIA010 的结账页",
+        "alt": "YesStyle App 的三个界面：带有 Coupon or Influencer / Rewards Code 行的结账页、带有 Coupon Code 和 Influencer / Rewards Code 输入框的 Enter Code 界面，以及已应用 CECILIA010 的结账页",
         "caption": "Android App 中的三个步骤，使用的是配送至美国的账号。",
         "objectFit": "contain",
         "aspectRatio": 1.4382
@@ -145,7 +145,7 @@
             "两边都登录时是同一个"
           ],
           [
-            "CECILIA010 栏位",
+            "CECILIA010 输入框",
             "结账页的“Reward Code”",
             "结账页“Enter Code”界面里的“Influencer / Rewards Code”"
           ],
@@ -187,7 +187,7 @@
       "heading": "常见问题",
       "bullets": [
         "YesStyle 有 App 吗？有，适用于 Android 和 iPhone，通过 Google Play 和 App Store 的官方链接下载。商店表示只应从这两处下载。",
-        "CECILIA010 在 App 里能用吗？能。在结账页点击“Enter Code”，把代码填入“Influencer / Rewards Code”栏位。它是奖励码，最高额外优惠 5%，可与填在“Coupon Code”栏位的商店优惠券叠加。",
+        "CECILIA010 在 App 里能用吗？能。在结账页点击“Enter Code”，把代码填入“Influencer / Rewards Code”输入框。它是奖励码，最高额外优惠 5%，可与填在“Coupon Code”输入框的商店优惠券叠加。",
         "下载 App 能获得积分吗？能，通过 App 登录可获得 50 个 YS 积分，仅限一次。重新安装不会再次发放，积分也不是奖励码。",
         "App 有专属优惠券吗？商店表示每月发布一次 24 小时优惠券，仅限 App 下单使用。核查时没有可用的。"
       ]

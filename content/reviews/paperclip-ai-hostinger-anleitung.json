@@ -136,7 +136,7 @@
           [
             "Erstattung",
             "30 Tage",
-            "30 Tage nur, wenn die letzte VPS-Erstattung mehr als 180 Tage zurückliegt"
+            "30 Tage nur, wenn die letzte VPS-Erstattung vor mehr als 180 Tagen beantragt wurde"
           ]
         ]
       },
@@ -148,17 +148,6 @@
     },
     {
       "heading": "Welche VPS-Größe",
-      "paragraphs": [],
-      "comparisonTable": {
-        "headers": [],
-        "rows": [
-          [],
-          [],
-          [],
-          [],
-          []
-        ]
-      },
       "postParagraphs": [
         "RAM ist der Arbeitsspeicher des Servers, und eine vCPU ist ein Prozessorkern. Je größer der VPS-Tarif, desto mehr Speicher und Rechenleistung hat er. Hostinger nennt auf den gelesenen Seiten keinen Mindestspeicher für Paperclip: Der KVM 1 ist der Ausgangspunkt, und wie viele Agenten Sie betreiben, entscheidet, ob er reicht. Die Tarife sind KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) und KVM 8 (8 vCPU, 32 GB, 400 GB)."
       ]
@@ -173,7 +162,7 @@
       "heading": "So fangen Sie an, der Reihe nach",
       "bullets": [
         "**Auf Ihrem Computer betreiben.** Die offizielle README verlangt Node.js 24.11 oder neuer. Prüfen Sie die Version mit dem Befehl node -v im Terminal und führen Sie dann npx paperclipai@latest onboard --yes aus. Die Oberfläche öffnet sich unter http://localhost:3100, und die Postgres-Datenbank wird von selbst angelegt. Es entstehen keine Serverkosten, aber Paperclip läuft nur, solange der Computer eingeschaltet ist. Wenn Sie Claude oder Codex abonniert haben, erlaubt die README auch die Anmeldung über das Abonnement, ohne API-Schlüssel, mit installiertem Python 3 und dem Programm des Anbieters.",
-        "**Das verwaltete Angebot buchen.** Bestellen Sie den Plan „AI automation apps“ mit 24 Monaten und dem Code SONAR20 im Warenkorb. Nach der Bestellung bereitet Hostinger die Instanz und die Datenbank vor. Sie melden sich im Panel an, verbinden Ihre Agenten und tragen Ihre KI-Schlüssel ein.",
+        "**Das verwaltete Angebot buchen.** Bestellen Sie den Plan „KI-Automatisierungs-Apps“ mit 24 Monaten und dem Code SONAR20 im Warenkorb. Nach der Bestellung bereitet Hostinger die Instanz und die Datenbank vor. Sie melden sich im Panel an, verbinden Ihre Agenten und tragen Ihre KI-Schlüssel ein.",
         "**Oder einen VPS mit Docker buchen.** Wählen Sie einen KVM-Tarif (der KVM 1 ist der günstigste) und in der Liste der Anwendungen Paperclip, das Hostinger mit einem Klick installiert. Im Docker Manager des Panels öffnen Sie Paperclip, tragen die Schlüssel ein und aktualisieren die Version per Button. Die Sicherheit des Servers, die Passwörter und die Systemupdates bleiben bei Ihnen."
       ]
     },
@@ -203,7 +192,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum, bei Monats- oder Jahresplan. Die Verlängerung haben wir nicht getestet.",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
     "label": "Die Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

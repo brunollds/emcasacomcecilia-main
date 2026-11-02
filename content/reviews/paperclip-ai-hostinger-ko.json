@@ -148,19 +148,8 @@
     },
     {
       "heading": "VPS는 어느 크기로",
-      "paragraphs": [],
-      "comparisonTable": {
-        "headers": [],
-        "rows": [
-          [],
-          [],
-          [],
-          [],
-          []
-        ]
-      },
       "postParagraphs": [
-        "RAM은 서버의 메모리이고 vCPU는 프로세서 코어 하나입니다. VPS 플랜이 클수록 메모리와 처리 능력이 늘어납니다. 확인한 페이지에는 Paperclip에 필요한 최소 메모리를 Hostinger가 밝혀 놓지 않았습니다. KVM 1이 출발점이고, 에이전트를 몇 개 돌리느냐에 따라 충분한지가 정해집니다. 플랜별 사양은 KVM 1(1 vCPU, 4 GB, 50 GB), KVM 2(2 vCPU, 8 GB, 100 GB), KVM 4(4 vCPU, 16 GB, 200 GB), KVM 8(8 vCPU, 32 GB, 400 GB)입니다."
+        "RAM은 서버의 메모리이고 vCPU는 프로세서 코어 하나입니다. VPS 플랜이 클수록 메모리와 처리 능력이 늘어납니다. 확인한 페이지에는 Paperclip에 필요한 최소 메모리를 Hostinger가 밝혀 놓지 않았습니다. KVM 1이 출발점이고, 에이전트를 몇 개 돌리느냐에 따라 충분한지가 정해집니다. 플랜별 사양은 KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB), KVM 8 (8 vCPU, 32 GB, 400 GB)입니다."
       ]
     },
     {
@@ -203,8 +192,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았습니다.",
-    "label": "할인 플랜 보기",
+    "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+    "label": "SONAR20으로 플랜 보기",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },

@@ -149,17 +149,6 @@
     },
     {
       "heading": "VPS 选多大",
-      "paragraphs": [],
-      "comparisonTable": {
-        "headers": [],
-        "rows": [
-          [],
-          [],
-          [],
-          [],
-          []
-        ]
-      },
       "postParagraphs": [
         "RAM 是服务器的内存，vCPU 是一个处理器核心。VPS 套餐越大，内存和处理能力越多。在已查阅的页面中，Hostinger 没有列出 Paperclip 的最低内存要求：KVM 1 是起点，够不够用取决于您运行多少个智能体。各套餐规格如下：KVM 1（1 vCPU、4 GB、50 GB）、KVM 2（2 vCPU、8 GB、100 GB）、KVM 4（4 vCPU、16 GB、200 GB）、KVM 8（8 vCPU、32 GB、400 GB）。"
       ]
@@ -204,7 +193,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认价格。",
     "label": "用 SONAR20 查看套餐",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

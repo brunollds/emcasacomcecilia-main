@@ -51,7 +51,7 @@
     {
       "heading": "Dominio y hosting son dos cuentas",
       "paragraphs": [
-        "Dominio y hosting son dos cuentas: la dirección (el nombre que la gente escribe) por un lado, el ordenador donde vive el sitio por otro. Pagas las dos por separado y no tienen que estar en la misma empresa: el dominio registrado en una empresa puede apuntar al hosting de otra. La propia página de Hostinger dice que un dominio registrado en ella se puede apuntar a otro proveedor de hosting.",
+        "Dominio y hosting son dos cuentas: la dirección (el nombre que la gente escribe) por un lado, el ordenador donde está el sitio por otro. Pagas las dos por separado y no tienen que estar en la misma empresa: el dominio registrado en una empresa puede apuntar al hosting de otra. La propia página de Hostinger dice que un dominio registrado en ella se puede apuntar a otro proveedor de hosting.",
         "Por eso la decisión no es \"Hostinger o no\". Es dónde queda el registro del dominio, cuánto cuesta renovarlo cada año y qué pasa si algún día cambias de hosting. El primer año barato es lo menos importante: el dominio se renueva mientras exista el sitio."
       ]
     },
@@ -87,7 +87,7 @@
             "Comprar fuera y apuntar",
             "Ya tienes un dominio en otro registrador o prefieres separar las cuentas",
             "Precio del registrador donde está",
-            "No cambia nada en el dominio; solo el apuntado",
+            "No cambia nada en el dominio; solo adónde apunta",
             "Tú, en el otro registrador"
           ],
           [
@@ -100,21 +100,11 @@
         ]
       },
       "postParagraphs": [
-        "Los planes de hosting Premium y Unlimited de 12 meses o más incluyen un dominio el primer año, uno por cuenta, en extensiones seleccionadas; desde el segundo año se renueva al precio normal de la tabla. Es un ítem del plan, no un motivo para elegir el camino: lo que pesa es la renovación."
+        "Los planes de hosting Premium y Unlimited de 12 meses o más incluyen un dominio el primer año, uno por cuenta, en extensiones seleccionadas; desde el segundo año se renueva al precio normal de la tabla. Es parte del plan, no un motivo para elegir el camino: lo que cuenta es la renovación."
       ]
     },
     {
       "heading": "Privacidad de los datos de contacto",
-      "paragraphs": [],
-      "comparisonTable": {
-        "headers": [],
-        "rows": [
-          [],
-          [],
-          [],
-          []
-        ]
-      },
       "postParagraphs": [
         "La privacidad de los datos de contacto (RDAP, el antiguo WHOIS) viene incluida en las extensiones compatibles."
       ]
@@ -122,7 +112,7 @@
     {
       "heading": "Transferir: la regla de los 60 días y el paso a paso",
       "paragraphs": [
-        "Transferir es cambiar el registro del dominio de una empresa a otra. La página de transferencia de Hostinger dice que el sitio y el correo siguen funcionando durante el proceso, y que los datos de propiedad no cambian. Lo que cambia es quién cobra la renovación y dónde tocas el DNS.",
+        "Transferir es cambiar el registro del dominio de una empresa a otra. La página de transferencia de Hostinger dice que el sitio y el correo siguen funcionando durante el proceso, y que los datos de propiedad no cambian. Lo que cambia es quién cobra la renovación y dónde gestionas el DNS.",
         "Las reglas, según la página de Hostinger:"
       ],
       "bullets": [
@@ -144,7 +134,7 @@
       ],
       "bullets": [
         "**La cuenta:** el dominio pertenece a la cuenta de Hostinger en que se compró. Usa un correo que controles, no el de un freelancer ni el de una agencia. Quien registra a nombre de otra persona depende de ella para transferirlo después.",
-        "**La renovación:** Hostinger recomienda dejar la renovación automática activada. Un dominio vencido tumba el sitio y el correo. La renovación de un dominio no tiene reembolso, así que la tarjeta de la cuenta tiene que estar al día.",
+        "**La renovación:** Hostinger recomienda dejar la renovación automática activada. Un dominio caducado deja sin servicio el sitio y el correo. La renovación de un dominio no tiene reembolso, así que la tarjeta de la cuenta tiene que estar al día.",
         "**El reembolso del registro:** un registro nuevo solo se puede devolver en 96 horas. Pasado ese plazo, el dominio es tuyo hasta el final del período pagado, sin devolución."
       ]
     },
@@ -192,7 +182,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período, en plan mensual o anual, para cliente nuevo o antiguo. No probamos la renovación; revisa el precio en el carrito. Revisa el precio del dominio en el carrito antes de pagar.",
+    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. No probamos la renovación; revisa el precio en el carrito. Revisa el dominio en el carrito antes de pagar.",
     "label": "Ver los planes con el SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

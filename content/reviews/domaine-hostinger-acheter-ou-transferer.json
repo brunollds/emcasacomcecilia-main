@@ -51,7 +51,7 @@
     {
       "heading": "Domaine et hébergement sont deux comptes",
       "paragraphs": [
-        "Domaine et hébergement sont deux comptes : l'adresse (le nom que les gens tapent) d'un côté, l'ordinateur où vit le site de l'autre. Vous payez les deux séparément, et ils n'ont pas à être chez la même entreprise : un domaine enregistré chez une entreprise peut pointer vers l'hébergement d'une autre. La page même de Hostinger dit qu'un domaine enregistré chez elle peut être pointé vers un autre hébergeur.",
+        "Domaine et hébergement sont deux comptes : l'adresse (le nom que les gens tapent) d'un côté, l'ordinateur où vit le site de l'autre. Vous payez les deux séparément, et ils n'ont pas à être chez la même entreprise : un domaine enregistré chez une entreprise peut pointer vers l'hébergement d'une autre. La page de Hostinger elle-même dit qu'un domaine enregistré chez elle peut être pointé vers un autre hébergeur.",
         "La décision n'est donc pas « Hostinger ou non ». C'est l'endroit où se trouve l'enregistrement du domaine, ce que coûte son renouvellement chaque année et ce qui se passe si vous changez un jour d'hébergement. La première année bon marché est ce qui compte le moins : le domaine se renouvelle tant que le site existe."
       ]
     },
@@ -87,7 +87,7 @@
             "Acheter ailleurs et pointer",
             "Vous avez déjà un domaine chez un autre registrar ou préférez séparer les comptes",
             "Prix du registrar où il se trouve",
-            "Rien ne change sur le domaine ; seulement le pointage",
+            "Rien ne change sur le domaine ; il pointe simplement ailleurs",
             "Vous, chez l'autre registrar"
           ],
           [
@@ -100,21 +100,11 @@
         ]
       },
       "postParagraphs": [
-        "Les forfaits d'hébergement Premium et Unlimited de 12 mois ou plus incluent un domaine la première année, un par compte, sur des extensions sélectionnées ; à partir de la deuxième année, il se renouvelle au prix normal de la grille. C'est un élément du forfait, pas une raison de choisir la voie : ce qui pèse, c'est le renouvellement."
+        "Les forfaits d'hébergement Premium et Unlimited de 12 mois ou plus incluent un domaine la première année, un par compte, sur des extensions sélectionnées ; à partir de la deuxième année, il se renouvelle au prix normal de la grille. C'est un élément du forfait, pas une raison de choisir la voie : ce qui compte, c'est le renouvellement."
       ]
     },
     {
       "heading": "Confidentialité des données de contact",
-      "paragraphs": [],
-      "comparisonTable": {
-        "headers": [],
-        "rows": [
-          [],
-          [],
-          [],
-          []
-        ]
-      },
       "postParagraphs": [
         "La confidentialité des données de contact (RDAP, l'ancien WHOIS) est incluse sur les extensions compatibles."
       ]
@@ -140,7 +130,7 @@
       "heading": "Qui est propriétaire du domaine",
       "paragraphs": [
         "Hostinger dit sur ses deux pages que le domaine est enregistré à votre nom et qu'il est à vous, pas au registrar. Elle est accréditée par l'ICANN, l'organisme qui coordonne les domaines génériques. Si vous résiliez l'hébergement, le domaine reste à vous ; pour le domaine fourni avec le forfait, les frais d'enregistrement sont déduits du remboursement, car ils ont déjà été payés au registre.",
-        "Trois précautions gardent le domaine à vous :"
+        "Trois précautions vous permettent de garder le domaine :"
       ],
       "bullets": [
         "**Le compte :** le domaine appartient au compte Hostinger où il a été acheté. Utilisez un e-mail que vous contrôlez, pas celui d'un freelance ou d'une agence. Qui enregistre au nom d'une autre personne dépend d'elle pour le transférer ensuite.",
@@ -192,7 +182,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement. Vérifiez le domaine dans le panier avant de payer.",
+    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. Vérifiez le domaine dans le panier avant de payer.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -221,7 +211,7 @@
     ],
     "skipIf": [
       "Passez votre chemin si vous avez déjà un domaine chez un autre registrar, préférez séparer les comptes ou si le renouvellement de là-bas est moins cher : pointez le DNS et laissez l'enregistrement où il est.",
-      "Passez sur le transfert si l'enregistrement a moins de 60 jours : il ne démarre pas.",
+      "Évitez le transfert si l'enregistrement a moins de 60 jours : il ne démarre pas.",
       "Passez votre chemin si le domaine serait au nom ou sur le compte d'un freelance ou d'une agence : utilisez un e-mail que vous contrôlez."
     ]
   }

@@ -195,7 +195,7 @@
       "bullets": [
         "Il VPS è più veloce dell'hosting condiviso? Non l'abbiamo misurato. Ciò che il VPS garantisce sono risorse riservate: CPU, memoria e disco sono tuoi, mentre sul condiviso il server è diviso. Per un sito comune, raramente è il collo di bottiglia.",
         "Posso iniziare sul condiviso e passare al VPS dopo? Sì. Sono prodotti diversi: sottoscrivi il VPS, installi il server e porti il sito. L'hosting condiviso non si converte in VPS dall'interno del pannello.",
-        "Devo conoscere Linux per avere un VPS? Sì, le basi del terminale: installare programmi, aggiornare il sistema e leggere un log. Sul condiviso, tutto passa dal pannello e non c'è un terminale obbligatorio.",
+        "Devo conoscere Linux per avere un VPS? Sì, le basi del terminale: installare programmi, aggiornare il sistema e leggere un log. Sul condiviso, tutto passa dal pannello e non devi usare il terminale.",
         "Il VPS regge WordPress? Sì, ma installi e mantieni tu il server web, PHP e il database. Sul condiviso, WordPress arriva pronto nel pannello e Hostinger si occupa del server."
       ]
     },

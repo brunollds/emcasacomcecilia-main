@@ -59,7 +59,7 @@
       },
       "bullets": [
         "**Organigramma:** la struttura di chi risponde a chi. Un agente di marketing risponde a chi cura la strategia, e così via.",
-        "**Heartbeat:** il nome viene da “battito”. Un agente non resta in funzione tutto il tempo. Si “sveglia” quando riceve del lavoro, un messaggio di follow-up o una pianificazione, verifica cosa deve fare e agisce. Poi torna a dormire.",
+        "**Heartbeats:** il nome viene da “battito”. Un agente non resta in funzione tutto il tempo. Si “sveglia” quando riceve del lavoro, un messaggio di follow-up o una pianificazione, verifica cosa deve fare e agisce. Poi torna a dormire.",
         "**Budget per agente:** fissa un tetto di spesa per ogni agente, per ogni progetto e per l’azienda. Quando si raggiunge il limite, il lavoro viene messo in pausa. Conta perché ogni risposta dell’IA costa denaro, addebitato dal fornitore del modello.",
         "**Approvazione:** puoi richiedere una revisione prima che un lavoro prosegua, approvare l’assunzione di un nuovo agente oppure fermare e riassegnare un compito.",
         "**Audit:** azioni, cambi di stato, costi, approvazioni e commenti vengono registrati. Dopo si può vedere cosa è successo e perché."
@@ -72,7 +72,7 @@
       "heading": "È affidabile? Cosa si può verificare",
       "paragraphs": [
         "“Affidabile” è una parola grossa. Si può separare ciò che è verificabile da ciò che non lo è.",
-        "**Chi lo mantiene.** Il repository ufficiale, github.com/paperclipai/paperclip, dice che il progetto è mantenuto dal team Paperclip, e l’avviso di copyright riporta “MIT © 2026 Paperclip Labs, Inc.”. Il sito del progetto, paperclip.ing, rimanda allo stesso repository. Non confondetelo con i fork e le copie del codice che compaiono nella ricerca.",
+        "**Chi lo mantiene.** Il repository ufficiale, github.com/paperclipai/paperclip, dice che il progetto è mantenuto dal team Paperclip, e l’avviso di copyright riporta “MIT © 2026 Paperclip Labs, Inc.”. Il sito del progetto, paperclip.ing, rimanda allo stesso repository. Non confonderlo con i fork e le copie del codice che compaiono nella ricerca.",
         "**Licenza.** MIT. Vuol dire che il codice è aperto: chiunque può leggerlo, controllarlo e usarlo. Vuol dire anche che nessuno è obbligato a mantenere la versione che hai installato.",
         "**Dove gira.** Scegli tu. Può girare sul tuo computer, su un server tuo o sul piano gestito di Hostinger. Il sito del progetto dice che la versione self-hosted non richiede un account Paperclip.",
         "**Dove restano le chiavi e i dati.** Dipende dal percorso. Sul VPS, la stessa Hostinger dice che i dati sensibili, la memoria degli agenti e le credenziali API restano “interamente sulla tua infrastruttura”, cioè sul server che hai affittato. Sul gestito, la pagina dice che le chiavi restano nella tua istanza gestita. È la descrizione di Hostinger, non un nostro audit.",
@@ -148,17 +148,6 @@
     },
     {
       "heading": "Che dimensione di VPS",
-      "paragraphs": [],
-      "comparisonTable": {
-        "headers": [],
-        "rows": [
-          [],
-          [],
-          [],
-          [],
-          []
-        ]
-      },
       "postParagraphs": [
         "La RAM è la memoria del server, e una vCPU è un core del processore. Più grande è il piano VPS, più memoria ed elaborazione ha. Hostinger non indica, nelle pagine lette, un requisito minimo di memoria per Paperclip: il KVM 1 è il punto di partenza, e quanti agenti fai girare decide se basta. I piani sono KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) e KVM 8 (8 vCPU, 32 GB, 400 GB)."
       ]
@@ -173,7 +162,7 @@
       "heading": "Come iniziare, in ordine",
       "bullets": [
         "**Farlo girare sul tuo computer.** Il README ufficiale richiede Node.js 24.11 o più recente. Controlla la versione con il comando node -v nel terminale e poi esegui npx paperclipai@latest onboard --yes. L’interfaccia si apre su http://localhost:3100, e il database Postgres viene creato da solo. Non ci sono costi di server, ma Paperclip gira solo finché il computer è acceso. Se hai un abbonamento a Claude o a Codex, il README accetta anche l’accesso tramite abbonamento, senza chiave API, con Python 3 e il programma del fornitore installati.",
-        "**Attivare il gestito.** Sottoscrivi il piano “AI automation apps” con 24 mesi, con il codice SONAR20 nel carrello. Dopo l’acquisto, Hostinger prepara l’istanza e il database. Entra nel pannello, collega i tuoi agenti e inserisci le tue chiavi IA.",
+        "**Attivare il gestito.** Sottoscrivi il piano “App di automazione IA” con 24 mesi, con il codice SONAR20 nel carrello. Dopo l’acquisto, Hostinger prepara l’istanza e il database. Entra nel pannello, collega i tuoi agenti e inserisci le tue chiavi IA.",
         "**Oppure prendere un VPS con Docker.** Scegli un piano KVM (il KVM 1 è il più economico) e, nell’elenco delle applicazioni, Paperclip, che Hostinger installa con un clic. Dal Docker Manager del pannello apri Paperclip, inserisci le chiavi e aggiorna la versione con un pulsante. La sicurezza del server, le password e gli aggiornamenti del sistema restano tuoi."
       ]
     },
@@ -189,7 +178,7 @@
         "Paperclip è gratis? Il programma è open source, con licenza MIT, e si può installare sul tuo computer senza pagare Hostinger. L’uso dei modelli IA è addebitato dal fornitore, e il gestito e il VPS sono piani a pagamento.",
         "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Non abbiamo trovato audit indipendenti nelle fonti lette.",
         "Serve una chiave API? Sì. Sul gestito e sul VPS, la pagina di Paperclip chiede di portare le proprie. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
-        "Funziona con Ollama? Dipende dall’agente che collegate. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che collegate.",
+        "Funziona con Ollama? Dipende dall’agente che colleghi. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che colleghi.",
         "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello."
       ]
     },

@@ -80,7 +80,7 @@
             "Bei Hostinger kaufen",
             "Sie hosten bei Hostinger und wollen Domain, DNS und Verlängerung im selben Panel",
             "Verlängerungspreis aus der Preistabelle von Hostinger, jedes Jahr",
-            "Die Domain bleibt bei Hostinger; Sie lassen das DNS auf das neue Hosting zeigen oder ziehen sie später um",
+            "Die Domain bleibt bei Hostinger; Sie stellen das DNS auf das neue Hosting um oder ziehen sie später um",
             "Ihnen, auf Ihren Namen registriert"
           ],
           [
@@ -105,16 +105,6 @@
     },
     {
       "heading": "Datenschutz der Kontaktdaten",
-      "paragraphs": [],
-      "comparisonTable": {
-        "headers": [],
-        "rows": [
-          [],
-          [],
-          [],
-          []
-        ]
-      },
       "postParagraphs": [
         "Der Datenschutz der Kontaktdaten (RDAP, das frühere WHOIS) ist bei kompatiblen Endungen inklusive."
       ]
@@ -162,9 +152,9 @@
       "heading": "Welchen Weg wählen",
       "paragraphs": [
         "**Kaufen Sie bei Hostinger**, wenn die Website dort gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen; prüfen Sie die Verlängerung vor der Zahlung.",
-        "**Kaufen Sie extern und verknüpfen Sie**, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder der Verlängerungspreis dort niedriger ist. Das DNS zeigen zu lassen ist eine Einstellung im Panel, und die Website funktioniert genauso.",
+        "**Kaufen Sie extern und verknüpfen Sie**, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder der Verlängerungspreis dort niedriger ist. Das Umstellen des DNS ist eine Einstellung im Panel, und die Website funktioniert genauso.",
         "**Ziehen Sie nur um**, wenn die Domain seit mehr als 60 Tagen registriert ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen. Bei den meisten generischen Endungen enthält die Umzugsgebühr ein weiteres Registrierungsjahr, es ist also kein verlorenes Geld.",
-        "Im Zweifel ziehen Sie nicht um: Lassen Sie die Domain verknüpfen und die Registrierung, wo sie ist. Umziehen kann man später, und die Website steht nicht still."
+        "Im Zweifel ziehen Sie nicht um: Verknüpfen Sie die Domain und lassen Sie die Registrierung, wo sie ist. Umziehen kann man später, und die Website bleibt dabei online."
       ],
       "emphasis": "Wäre es für meine Website, würde ich die Registrierung zusammen mit dem Hosting nehmen, weil Domain und Verlängerung im selben Panel liegen."
     },
@@ -192,7 +182,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Tragen Sie SONAR20 im Gutscheinfeld des Warenkorbs ein: 20 % im ersten Zeitraum auf den Hosting-Tarif. Prüfen Sie die Domain im Warenkorb, bevor Sie zahlen.",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Prüfen Sie die Domain im Warenkorb, bevor Sie zahlen.",
     "label": "Die Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -220,7 +210,7 @@
       "Nehmen Sie den Umzug nur, wenn die Domain seit mehr als 60 Tagen registriert ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen."
     ],
     "skipIf": [
-      "Lassen Sie es, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder die Verlängerung dort günstiger ist: Lassen Sie das DNS zeigen und die Registrierung, wo sie ist.",
+      "Lassen Sie es, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder die Verlängerung dort günstiger ist: Stellen Sie das DNS um und lassen Sie die Registrierung, wo sie ist.",
       "Lassen Sie den Umzug, wenn die Registrierung jünger als 60 Tage ist: Er beginnt nicht.",
       "Lassen Sie es, wenn die Domain auf den Namen oder im Konto eines Freelancers oder einer Agentur läge: Nutzen Sie eine E-Mail-Adresse, die Sie kontrollieren."
     ]
