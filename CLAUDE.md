@@ -295,8 +295,8 @@ vídeo, primeiras impressões e uso noturno.
   `ReviewInlineImage` pelo `storeBrand` que o template passa às seções. O `validate:content` exige https, o
   `test:review-i18n` o mesmo `href`, foto a foto, em toda versão da família, e o `test:build-output`, o link sponsored
   com o nome do idioma e o botão fora dele.
-- Banners de campanha da loja ("Publicidade"): cada campanha é um arquivo em `content/campanhas/<id>.json` (o nome é
-  o `id`), com a fonte (`source`) e a data em que foi vista (`verifiedAt`). O `build-index` junta os arquivos em
+- Banners de campanha da loja ("Publicidade"): a rotina (onde procurar, calendário, regras e checklists) está no
+  `docs/CAMPANHAS.md`. Cada campanha é um arquivo em `content/campanhas/<id>.json` (o nome é o `id`), com a fonte (`source`) e a data em que foi vista (`verifiedAt`). O `build-index` junta os arquivos em
   `src/lib/generated/store-banners.ts`, tipado pelo `StoreBanner`, e o `src/lib/storeBanners.ts` guarda só o tipo e
   as regras. Chaveadas pelo `affiliate`, entram sozinhas em todo artigo da loja. A campanha leva só o texto em
   português (sai só nos artigos em PT e pode levar à loja brasileira, `.com.br` inclusive) ou os 10 idiomas (sai em
