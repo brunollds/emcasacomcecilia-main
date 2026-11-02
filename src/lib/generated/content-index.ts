@@ -178212,6 +178212,7 @@ export const reviewsData: unknown[] = [
             "href": "https://www.bagaggio.com.br/mochila-de-viagem-grande-expansivel-explore-branco-e-caramelo/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
           }
         ],
+        "emphasisAfterParagraph": 1,
         "emphasis": "Se fosse para a minha casa, eu levaria a Explore, porque leva 33 litros no item pessoal por R$ 299,90."
       },
       {
@@ -178869,6 +178870,7 @@ export const reviewsData: unknown[] = [
             "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
           }
         ],
+        "emphasisAfterParagraph": 1,
         "emphasis": "Se fosse para mim, eu levaria o Sutiã Top Alça Fina, porque é o único com PP e tem a alça mais fina que a da regata."
       },
       {
