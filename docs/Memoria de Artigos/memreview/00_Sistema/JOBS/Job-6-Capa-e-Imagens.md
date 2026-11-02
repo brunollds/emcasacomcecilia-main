@@ -30,8 +30,20 @@ loja e o assunto.
    laterais de uma capa 16:9 em `cover`, e a faixa sairia cortada (item da capa nos cartões, Job 4).
 4. **Não repetir foto:** a foto da capa não pode ser a mesma de outra capa da mesma loja. Conferir as
    capas que a loja já tem antes de escolher.
-5. **Foto da Cecília com o produto, quando existir, vem antes de tudo.** Foto de banco, foto gerada por IA
-   ou foto de outra marca não entram; foto oficial da loja entra com a origem registrada.
+5. **Foto da Cecília com o produto, quando existir, vem antes de tudo.** Foto de banco ou de outra marca
+   não entra; foto oficial da loja entra com a origem registrada.
+   **Cenário gerado por IA (decisão do Bruno, 02/11/2026):** a IA pode criar o fundo, o ambiente e a luz
+   da cena, e o produto entra nela como a foto real recortada, só movida, girada ou redimensionada, com
+   sombra. O que não pode:
+   - gerar, redesenhar ou "melhorar" o produto: cor, forma, costura, rótulo e logo ficam os da foto
+     oficial. Ferramenta que refaz a imagem inteira ao encaixar o produto redesenha as bordas e o rótulo;
+     o recorte original vai por cima, como última camada;
+   - qualquer representação de concorrente, gerada ou real;
+   - gerar a Cecília ou outra pessoa real. Pessoa gerada não segura nem veste o produto (o produto
+     sairia redesenhado), e só entra se não tiver cara de IA;
+   - texto, preço, selo ou nota gerados pela IA dentro da cena: a faixa e os textos saem do gerador
+     do repositório.
+   A origem registra as duas partes: "cenário gerado por IA; produto: foto oficial da <loja>".
 6. **Códigos e textos proibidos na capa:**
    - O `CECILIA010` (YesStyle) é código de recompensa e o `4CW5Y` (SHEIN) é código de indicação: nunca
      chamá-los de cupom, também na capa e no alt.
