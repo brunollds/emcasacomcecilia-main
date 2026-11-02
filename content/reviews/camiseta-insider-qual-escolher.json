@@ -27,7 +27,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para o dia a dia, a Tech T-Shirt é o ponto de partida, de 92% modal e 8% elastano. Quer mais corpo? A Heavy, segundo a loja, é 20% mais encorpada que a Tech. A Core, de viscose e com textura leve, é a opção mais leve. Cada linha está na tabela abaixo."
+        "Para o dia a dia, a Tech T-Shirt é o ponto de partida, de 92% modal e 8% elastano. Quer mais corpo? A Heavy é 20% mais encorpada que a Tech, diz a página dela. A Core, de viscose e com textura leve, é a opção mais leve. Cada linha está na tabela abaixo."
       ]
     },
     {
@@ -127,7 +127,7 @@
     {
       "heading": "Tech T-Shirt: a base do dia a dia",
       "paragraphs": [
-        "A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) é de 92% modal e 8% elastano e custa R$ 129. Pela descrição oficial, ela desamassa no corpo e não desbota com as lavagens, e a marca diz que a peça tem efeito antiodor.",
+        "A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) é a base do dia a dia: 92% modal e 8% elastano, por R$ 129, e a marca diz que desamassa no corpo e tem efeito antiodor.",
         "A garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, considerando uma lavagem por semana. As outras linhas não trazem essa garantia.",
         "Quem leva mais de uma pode olhar o kit: o de 5 Tech sai a R$ 108,88 por peça, e o cupom entra por cima. A conta está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
         "As versões femininas, com a Tech, a Gola V e a manga longa, estão em [Camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher)."
@@ -202,8 +202,8 @@
     {
       "heading": "Heavy e Heavy Slim: corpo e caimento",
       "paragraphs": [
-        "Pela descrição da [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp), a peça é 20% mais encorpada que a Tech, não marca o corpo e tem caimento mais liso. A gramatura fica entre a Tech e a Oversized. O preço vai de R$ 155 a R$ 199, conforme a cor e o tamanho.",
-        "A [Heavy Slim](https://creators.insiderstore.com.br/DVarEMW), também de 92% modal, tem gola fina, mangas um pouco mais curtas e tronco ajustado, segundo a loja. Sai por R$ 179 (de R$ 199), e a própria página indica a Heavy para quem quer um modelo mais solto."
+        "A [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) é 20% mais encorpada que a Tech: não marca o corpo e tem caimento mais liso. A gramatura fica entre a Tech e a Oversized. O preço vai de R$ 155 a R$ 199, conforme a cor e o tamanho.",
+        "A [Heavy Slim](https://creators.insiderstore.com.br/DVarEMW), também de 92% modal, tem gola fina, mangas um pouco mais curtas e tronco ajustado, diz a página. Sai por R$ 179 (de R$ 199), e a própria página indica a Heavy para quem quer um modelo mais solto."
       ],
       "images": [
         {
@@ -244,7 +244,7 @@
     {
       "heading": "Core e Daily: viscose, gramatura e encolhimento",
       "paragraphs": [
-        "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), por R$ 179 (de R$ 189), é a que a loja descreve com maior gramatura, modelagem regular e textura leve.",
+        "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), por R$ 179 (de R$ 189), é a de maior gramatura, modelagem regular e textura leve.",
         "A [Daily](https://creators.insiderstore.com.br/bRopqTz) custa R$ 99 (de R$ 139), o menor preço da tabela. A página avisa que ela pode encolher até 2 cm no comprimento depois da primeira lavagem e que já tem o desconto máximo, por isso não aceita cupom."
       ],
       "images": [
@@ -432,6 +432,13 @@
       ]
     },
     {
+      "heading": "Para escolher uma só, a Tech T-Shirt",
+      "paragraphs": [
+        "A Tech é a única linha com garantia de 2 anos contra desbotamento; as outras não trazem essa garantia. Quem quer mais corpo olha a Heavy."
+      ],
+      "emphasis": "Para escolher uma só, a escolha é a Tech T-Shirt, porque é o ponto de partida do dia a dia, com garantia de 2 anos contra desbotamento."
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
         "A Tech T-Shirt desbota? A loja diz que não, e a garantia de 2 anos contra desbotamento vale com uma lavagem por semana.",
@@ -445,6 +452,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Tech se quer a camiseta do dia a dia, sozinha ou por baixo de camisa aberta, com garantia de 2 anos contra desbotamento.",
+      "Leve a Heavy se não quer a camiseta marcando o corpo ou vai usá-la por baixo do blazer.",
+      "Leve a Performance ou a Sportee se é para treino ao ar livre: as duas trazem proteção UV50+ na descrição."
+    ],
+    "skipIf": [
+      "Passe na Daily se não quer encolhimento ou conta com o cupom: ela pode encolher até 2 cm na primeira lavagem e não aceita cupom.",
+      "Passe na Heavy Slim se quer um modelo mais solto: a própria página indica a Heavy."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

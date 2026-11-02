@@ -35,7 +35,7 @@
       "heading": "Quantos guardanapos de tecido por pessoa",
       "paragraphs": [
         "A conta deste guia é nossa, não de uma norma: um guardanapo por pessoa em cada refeição, mais um de reserva por mesa. A reserva cobre o guardanapo que cai no chão ou leva molho logo no começo, e a pessoa a mais que aparece sem aviso.",
-        "Na tabela, o preço é o do cartão, lido no site da Let's Eat It em 29/10/2026. Nenhuma das quatro fichas traz campo de quantidade, e três delas descrevem o guardanapo como \"uma peça\"; a conta assume um guardanapo por preço. Confira a quantidade no carrinho antes de fechar o pedido."
+        "Na tabela, o preço é o do cartão, lido no site da Let's Eat It em 29/10/2026. Nenhuma das quatro páginas traz campo de quantidade, e três descrevem o guardanapo como \"uma peça\"; a conta assume um guardanapo por preço. Confira a quantidade no carrinho antes de fechar o pedido."
       ],
       "comparisonTable": {
         "headers": [
@@ -104,7 +104,7 @@
     {
       "heading": "Qual tamanho: 45 x 45 cm ou 40 x 40 cm",
       "paragraphs": [
-        "Nas fichas dos guardanapos de algodão lidos, há duas medidas: 45 x 45 cm e 40 x 40 cm. Nenhuma ficha chama uma delas de tamanho padrão, e este guia também não chama."
+        "Nas páginas dos guardanapos de algodão lidos, são duas medidas: 45 x 45 cm e 40 x 40 cm. Nenhuma chama uma delas de tamanho padrão, e este guia também não chama."
       ],
       "comparisonTable": {
         "headers": [
@@ -126,7 +126,7 @@
         ]
       },
       "postParagraphs": [
-        "A sugestão por refeição também é conta nossa, porque a ficha não diz. O de 45 x 45 cm cobre mais o colo, então vai melhor no almoço e no jantar, com prato principal e molho. O de 40 x 40 cm serve no café da manhã, no lanche e na sobremesa, e também ocupa menos espaço dobrado sobre o prato.",
+        "A sugestão por refeição é conta nossa: a página não diz. O de 45 x 45 cm cobre mais o colo, então vai melhor no almoço e no jantar, com prato principal e molho. O de 40 x 40 cm serve no café da manhã, no lanche e na sobremesa, e também ocupa menos espaço dobrado sobre o prato.",
         "Se a casa vai usar o mesmo jogo em todas as refeições, o de 45 x 45 cm resolve as duas situações. A medida não define o preço: o Oliva de 45 cm custa R$ 0,90 a menos que o Abelha de 40 cm."
       ],
       "images": [
@@ -142,7 +142,7 @@
     {
       "heading": "Tecido e cuidado: o que a ficha manda",
       "paragraphs": [
-        "Os quatro guardanapos são 100% algodão, segundo a ficha. Os cuidados também se repetem nas quatro:"
+        "Os quatro guardanapos são 100% algodão, diz a página. Os cuidados também se repetem nas quatro:"
       ],
       "bullets": [
         "Lavar à mão, em até 40 °C.",
@@ -165,7 +165,7 @@
     {
       "heading": "Qual guardanapo escolher",
       "paragraphs": [
-        "Pelo preço e pela ficha, a escolha fica assim:"
+        "Pelo preço, a escolha fica assim."
       ],
       "bullets": [
         "Para a mesa do dia a dia no almoço e no jantar: o Bordado Oliva, de 45 x 45 cm, é o mais barato dos quatro, a R$ 36,00. A ficha descreve um bordado oliva em contorno ondulado.",
@@ -183,7 +183,9 @@
           "objectFit": "contain",
           "aspectRatio": 0.9815
         }
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria o Bordado Oliva, porque é o mais barato e o 45 x 45 cm serve no almoço e no jantar.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Perguntas frequentes",
@@ -195,6 +197,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o de 45 x 45 cm para o almoço e o jantar, com prato principal e molho: ele cobre mais o colo.",
+      "Leve o de 40 x 40 cm para o café, o lanche e a sobremesa: ocupa menos espaço dobrado sobre o prato.",
+      "Leve um por pessoa e um de reserva por mesa: cinco para quatro pessoas, sete para seis."
+    ],
+    "skipIf": [
+      "Passe o de 40 x 40 cm como jogo único se a casa serve almoço com molho: o de 45 cobre mais o colo.",
+      "Passe qualquer um dos quatro se a máquina decide: a página manda lavar à mão, sem secadora."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

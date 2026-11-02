@@ -72,7 +72,7 @@
     {
       "heading": "Preço e renovação",
       "paragraphs": [
-        "Os preços abaixo são da página brasileira de hospedagem WordPress, lidos em 30/10/2026, no prazo de 48 meses e na campanha de Black Friday. O preço por mês é o total dividido por 48. A renovação é o preço por mês depois do primeiro período:"
+        "Na Hostinger, a promoção dura 48 meses e a renovação é de 3 a 5 vezes o promocional. Os preços abaixo são da página brasileira de hospedagem WordPress, lidos em 30/10/2026, na campanha de Black Friday. O preço por mês é o total dividido por 48. A renovação é o preço por mês depois do primeiro período:"
       ],
       "comparisonTable": {
         "headers": [
@@ -121,20 +121,20 @@
       "postParagraphs": [
         "A página não traz data de fim para a campanha, e os preços podem mudar. Na Black Friday, os créditos de IA dos planos vêm em dobro: no Single, 500 em vez de 250; no Cloud Startup, 2.000 em vez de 1.000."
       ],
-      "emphasis": "A renovação custa de 3 a 5 vezes o preço promocional. Escolha o plano pela coluna da renovação, não só pela do preço de entrada."
+      "emphasis": "Escolha o plano pela coluna da renovação, não pela do preço de entrada."
     },
     {
       "heading": "O que já vem nos planos",
       "paragraphs": [
-        "Pela página da Hostinger, sem teste nosso:"
+        "Pela página da Hostinger:"
       ],
       "bullets": [
         "**WordPress e Node.js em todos os planos.**",
-        "**Instalador de 1 clique e plugins internos**, citados no FAQ da página, sem dizer o que muda de um plano para outro.",
-        "**Servidores LiteSpeed e cache inteligente**, citados para a hospedagem WordPress em geral. A página não diz em quais planos.",
+        "**Instalador de 1 clique e plugins internos**, citados no FAQ da página.",
+        "**Servidores LiteSpeed e cache inteligente**, citados para a hospedagem WordPress em geral.",
         "**E-mail:** 1 conta grátis no Single; 2 contas por site, grátis por 1 ano, no Premium; contas ilimitadas por site, por 1 ano, no Unlimited e no Cloud Startup.",
         "**Domínio grátis** em todos os planos; do Premium para cima, por 1 ano. Confira no carrinho o prazo do seu plano.",
-        "**Assistente de IA para loja** listado no Premium, segundo a página."
+        "**Assistente de IA para loja** listado no Premium."
       ]
     },
     {
@@ -154,7 +154,7 @@
     {
       "heading": "Se você já anuncia no Google",
       "paragraphs": [
-        "Segundo os termos da promoção, quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito de anúncios, no Brasil. Quem define a elegibilidade é a Google, a promoção pode mudar, e a página não traz data de validade. Vale para quem já ia gastar esse valor; não é motivo para começar a anunciar."
+        "Os termos da promoção dizem: quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito de anúncios, no Brasil. Quem define a elegibilidade é a Google, a promoção pode mudar, e a página não traz data de validade. Vale para quem já ia gastar esse valor; não é motivo para começar a anunciar."
       ]
     },
     {
@@ -175,7 +175,8 @@
         "**Pegue o Single** se é um site só e você publica de vez em quando. É o mais barato na entrada e na renovação.",
         "**Pegue o Premium** se vai ter dois ou três sites. A diferença para o Single é o número de sites e o espaço, não o backup.",
         "**Pegue o Unlimited** se tem loja ou muitos sites. O backup diário é o motivo principal, e ele começa aqui.",
-        "**O Cloud Startup** só faz sentido se o Unlimited já não basta. É o mais caro, e a renovação de R$ 129,99/mês pesa."
+        "**O Cloud Startup** só faz sentido se o Unlimited já não basta. É o mais caro, e a renovação de R$ 129,99/mês pesa.",
+        "Se fosse para o meu site, eu levaria o Single para um site só, porque é o mais barato na entrada e na renovação."
       ]
     },
     {
@@ -191,7 +192,7 @@
     {
       "heading": "Quem escreve",
       "paragraphs": [
-        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. O site não usa WordPress, e ninguém da equipe usou WordPress na Hostinger: este texto reúne o que a página brasileira de hospedagem WordPress e os termos da promoção do Google Ads dizem."
+        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. O site não usa WordPress: este texto reúne o que a página brasileira de hospedagem WordPress e os termos da promoção do Google Ads dizem."
       ]
     }
   ],

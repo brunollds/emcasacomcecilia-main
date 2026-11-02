@@ -34,7 +34,7 @@
     {
       "heading": "Tabela das malas de bordo",
       "paragraphs": [
-        "Preço é o do cartão, lido nas fichas da loja em 30/10/2026. Medida e peso vêm da loja. Os litros também vêm da loja. O preço por litro é conta nossa: preço do cartão dividido pelos litros."
+        "Preço do cartão, com medida, peso e litros da loja, lidos em 30/10/2026. O preço por litro é conta nossa: preço do cartão dividido pelos litros."
       ],
       "comparisonTable": {
         "headers": [
@@ -163,7 +163,8 @@
         "Quer pagar menos? A Detroit ABS Preta ou a II Prata custa R$ 249,90 no cartão e tem 44,2 litros.",
         "Quer a mala mais leve? A Route Preta ou a Vinho pesa 2,43 kg, contra 2,61 kg da Detroit.",
         "Quer mais espaço e aceita uma medida maior? A Cartagena tem 51,3 litros, mas passa da medida de 55 × 35 cm que as companhias citam para a mala de mão."
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria a Detroit ABS Preta, porque é a mais barata da marca Bagaggio e fica dentro da medida de 55 × 35 cm das companhias."
     },
     {
       "heading": "O que pode levar na mala de bordo",
@@ -183,8 +184,8 @@
     {
       "heading": "Parceria e cupom",
       "paragraphs": [
-        "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, segundo a regra da [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
-        "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. A Detroit ABS Preta mostra R$ 237,40 no Pix, sem cupom. Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
+        "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, diz a [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
+        "A Detroit ABS Preta mostra R$ 237,40 no Pix, sem cupom. Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
       ]
     },
     {
@@ -205,6 +206,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Quer pagar menos na marca Bagaggio: a Detroit, a mais barata da lista.",
+      "Quer a mala mais leve: a Route, que pesa menos que a Detroit.",
+      "Quer mais espaço e aceita uma medida maior: a Cartagena, com 51,3 litros."
+    ],
+    "skipIf": [
+      "Conta com a garantia vitalícia: ela não vale para a Downtown, que é da Travelcross.",
+      "Quer confiar só no selo BORDO: ele é informação da loja e não garante o embarque, então compare a medida com a regra da sua companhia."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
@@ -215,7 +227,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10.",
+  "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10. Não conferimos o CECILIA10 no carrinho.",
   "relatedArticles": [
     {
       "slug": "tamanho-mala-bagaggio-p-m-g",

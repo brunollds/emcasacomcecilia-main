@@ -34,7 +34,7 @@
     {
       "heading": "Os modelos e o preço de cada um",
       "paragraphs": [
-        "A busca 'mochila viagem' da loja devolve cinco modelos, contando as cores: a Explore em quatro cores, a Voyage, a Vacuum Airtrack, a Donna Grande em preto e fendi e o kit Royale com nécessaire em preto e cinza. Os preços são do cartão, lidos nas páginas dos produtos em 31/10/2026. Medida, litros e expansão também vêm da loja.",
+        "Cinco modelos, contando as cores: só três cabem no item pessoal, e a expansão muda a conta. Os preços são do cartão, lidos nas páginas dos produtos em 31/10/2026. Medida, litros e expansão também vêm da loja.",
         "A Explore aparece com preço riscado de R$ 399,90, e a Voyage, de R$ 649,90. As duas colunas da direita cruzam a medida da loja com o item pessoal (45 × 35 × 20 cm) e a mala pequena (55 × 35 × 25 cm) que LATAM e Azul publicam; a regra inteira está no capítulo da bagagem de mão."
       ],
       "comparisonTable": {
@@ -111,7 +111,7 @@
     {
       "heading": "Para que viagem serve cada uma",
       "paragraphs": [
-        "O que separa uma da outra é o que a página de cada produto informa: litros, expansão, compartimento de notebook e o que vem junto."
+        "Para voar só com a mochila, o que separa uma da outra é a medida fechada; para levar mais, é a expansão."
       ],
       "bullets": [
         "Explore, R$ 299,90: a loja a descreve para trabalho, rotina e viagens curtas. Fechada, tem 33 litros e 10 cm de profundidade; a expansão leva a 42 litros e 25 cm. A descrição cita porta-notebook de até 17,3 polegadas, abertura em 180°, entrada USB lateral e bolso traseiro antifurto. Vem em preto, rose, azul-marinho e branco com caramelo, todas ao mesmo preço.",
@@ -241,7 +241,8 @@
           "aspectRatio": 0.701,
           "href": "https://www.bagaggio.com.br/mochila-de-viagem-grande-expansivel-explore-branco-e-caramelo/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
         }
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria a Explore, porque leva 33 litros no item pessoal por R$ 299,90."
     },
     {
       "heading": "Perguntas frequentes",
@@ -282,5 +283,16 @@
       "slug": "cupom-bagaggio-como-usar",
       "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Quem quer voar só com a mochila, sem pagar bagagem: a Explore fechada ou a Vacuum Airtrack, na medida do item pessoal.",
+      "Quem faz viagem mais longa com a mala pequena incluída: a Voyage, que chega a 54 litros expandida.",
+      "Quem precisa de trabalho e viagem curta com notebook de até 15,6 polegadas: a Donna Grande."
+    ],
+    "skipIf": [
+      "Quem voa de tarifa Basic com a Voyage ou a Donna Grande: passam dos 45 cm e não entram como item pessoal.",
+      "Quem quer o vácuo da Airtrack: ele só funciona com a bomba, vendida à parte."
+    ]
+  }
 }
