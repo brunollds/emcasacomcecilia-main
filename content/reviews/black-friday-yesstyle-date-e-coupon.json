@@ -37,7 +37,7 @@
     "Le date del 2026 non sono ancora uscite: per ora il calendario è una stima basata sullo storico",
     "Il coupon a scaglioni del Black Friday è lo stesso del resto dell'anno",
     "I coupon sono solo per i membri, uno per ordine, e non scontano la spedizione",
-    "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio in Brasile"
+    "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio locale"
   ],
   "contentSections": [
     {
@@ -78,7 +78,7 @@
       },
       "postParagraphs": [
         "Nel 2026 il Black Friday cade il 27 novembre e il Cyber Monday il 30 novembre. Se YesStyle ripeterà lo schema, il nome Black Friday dovrebbe comparire sui coupon a inizio novembre, e i giorni al 15% senza minimo dovrebbero cadere vicino a queste due date. È una stima basata sullo storico: il negozio può cambiare tutto, e questa guida viene aggiornata quando usciranno le pagine del 2026.",
-        "I coupon cambiano a un orario fisso in GMT. Nel 2025 i coupon a scaglioni sono cambiati alle 2:00 GMT, cioè alle 23:00 del giorno prima a Brasília, e quello al 15% senza minimo è iniziato alle 8:00 GMT, le 5:00 del mattino a Brasília."
+        "I coupon cambiano a un orario fisso in GMT. Nel 2025 i coupon a scaglioni sono cambiati alle 2:00 GMT, e quello al 15% senza minimo è iniziato alle 8:00 GMT."
       ]
     },
     {
@@ -181,13 +181,13 @@
       "heading": "Dopo il Black Friday: il Natale",
       "paragraphs": [
         "Nel 2024, il coupon più alto di fine anno non è stato quello del Black Friday: nella settimana di Natale YesStyle ha dato il 18% senza minimo su tutto. Nel 2025, i coupon aperti a tutti i membri sono rimasti al 15% fino a fine anno.",
-        "Per i regali di Natale, l'acquisto del Black Friday è il più sicuro. Un acquisto internazionale richiede più tempo di uno in un negozio in Brasile, e il tempo di consegna stimato compare nel checkout prima di pagare."
+        "Per i regali di Natale, l'acquisto del Black Friday è il più sicuro. Un acquisto internazionale richiede più tempo di uno in un negozio locale, e il tempo di consegna stimato compare nel checkout prima di pagare."
       ]
     },
     {
-      "heading": "Consegna in Brasile e tasse",
+      "heading": "Consegna e tasse",
       "paragraphs": [
-        "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se il pacco viene tassato all'arrivo, YesStyle rimborsa le tasse e i dazi doganali sugli ordini sotto i US$ 1.000, come credito nel negozio. Ciò che il negozio pubblica per il Brasile e il Portogallo, e come chiedere il rimborso, è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
+        "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se il pacco viene tassato all'arrivo, YesStyle rimborsa le tasse e i dazi doganali sugli ordini sotto i US$ 1.000, come credito nel negozio. Ciò che il negozio pubblica sulla consegna e come chiedere il rimborso è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -243,7 +243,6 @@
         "CECILIA010 vale nel Black Friday? Sì. Va nel campo Reward Code, e le regole dei coupon del Black Friday dicono che valgono insieme ai Reward Code.",
         "Si possono usare due coupon di YesStyle nello stesso ordine? No: è un coupon per ordine. Il codice ricompensa è un'altra cosa e va in un altro campo del checkout.",
         "Serve un account su YesStyle per usare il coupon del Black Friday? Sì. I coupon sono solo per i membri, e chi acquista come ospite resta senza sconto.",
-        "YesStyle consegna in Brasile? Il negozio non include il Brasile nella tabella delle spedizioni, ma un nostro ordine è stato spedito due giorni dopo averlo fatto. La spedizione e i tempi compaiono nel checkout.",
         "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini sotto i US$ 1.000, YesStyle rimborsa queste tasse come credito nel negozio, se invii la ricevuta entro 30 giorni."
       ]
     }

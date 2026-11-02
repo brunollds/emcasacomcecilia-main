@@ -4,7 +4,7 @@
   "title": "YesStyle CECILIA010: código de recompensa",
   "type": "Guía & Cupones",
   "reviewKind": "guia",
-  "description": "Guía práctica paso a paso para usar el código de influencer CECILIA010 en YesStyle. Mira dónde introducirlo en el checkout (Reward Code), cómo combinarlo con cupones activos, consejos de K-Beauty y las reglas de importación para Brasil.",
+  "description": "Guía práctica paso a paso para usar el código de influencer CECILIA010 en YesStyle. Mira dónde introducirlo en el checkout (Reward Code), cómo combinarlo con cupones activos y consejos de K-Beauty.",
   "metaDescription": "Cómo usar CECILIA010 en YesStyle: campo Reward Code, hasta un 5% extra (5% en la primera compra y 2% en las recurrentes), combinable con cupones promocionales elegibles según el checkout.",
   "publishedAt": "22 Jun 2026",
   "publishedAtISO": "2026-06-22",
@@ -20,12 +20,12 @@
     "Envío gratis a partir de un importe mínimo, que aparece en el checkout",
     "Amplio catálogo de K-Beauty, moda coreana y J-Beauty",
     "Productos 100% auténticos, distribuidor autorizado",
-    "Sitio con navegación y checkout en portugués"
+    "Selector de idioma en la parte superior del sitio"
   ],
   "cons": [
     "No sustituye a los cupones normales (funciona en un campo aparte)",
     "Los pedidos internacionales pueden generar tasas de aduana; revisa la política de reembolso de YesStyle antes de comprar",
-    "Compra internacional: el plazo de entrega es mayor que el de una tienda nacional",
+    "Compra internacional: el plazo de entrega es mayor que el de una tienda local",
     "Precios finales en dólares (sujetos a la variación del tipo de cambio)"
   ],
   "contentSections": [
@@ -86,16 +86,16 @@
     {
       "heading": "1. Entra en el sitio oficial de YesStyle",
       "paragraphs": [
-        "Ve al sitio oficial de YesStyle (yesstyle.com). En la parte superior del sitio, si prefieres, selecciona el idioma portugués para facilitar la navegación y la lectura de los productos."
+        "Ve al sitio oficial de YesStyle (yesstyle.com). En la parte superior del sitio, si prefieres, cambia el idioma para facilitar la navegación y la lectura de los productos."
       ]
     },
     {
       "heading": "2. Elige tus productos y añádelos al carrito",
       "paragraphs": [
-        "Navega por las distintas categorías de K-Beauty, maquillaje o moda coreana y añade los artículos que quieras al carrito de la compra. El importe mínimo para el envío gratis a Brasil aparece en el checkout, después del código postal."
+        "Navega por las distintas categorías de K-Beauty, maquillaje o moda coreana y añade los artículos que quieras al carrito de la compra. El importe mínimo para el envío gratis aparece en el checkout, después de la dirección de entrega."
       ],
       "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
-      "imageAlt": "Carrito de YesStyle con productos de belleza, envío gratis a Brasil y campo para introducir un código.",
+      "imageAlt": "Carrito de YesStyle con productos de belleza, envío gratis y campo para introducir un código.",
       "imageCaption": "En el carrito, revisa los productos, el envío y el campo donde se aplicarán los códigos antes de finalizar la compra.",
       "imageFit": "contain"
     },
@@ -118,7 +118,7 @@
     {
       "heading": "5. Revisa los descuentos y finaliza el pedido",
       "paragraphs": [
-        "Confirma que las dos capas de descuento (código de recompensa + cupón) se han aplicado al subtotal del pedido. Rellena tus datos de entrega en Brasil, elige la forma de pago (tarjeta o PayPal) y confirma la compra.",
+        "Confirma que las dos capas de descuento (código de recompensa + cupón) se han aplicado al subtotal del pedido. Rellena tus datos de entrega, elige la forma de pago (tarjeta o PayPal) y confirma la compra.",
         "Comprueba que CECILIA010 y el cupón activo estén cada uno en su campo: si pones el código de recompensa en el campo de cupón, da error."
       ]
     },
@@ -157,32 +157,16 @@
       "heading": "¿Qué es YesStyle?",
       "paragraphs": [
         "YesStyle (también escrita Yes Style) es una de las plataformas de comercio electrónico más grandes y completas del mundo dedicadas a la moda coreana, la K-beauty, la J-beauty (belleza japonesa) y los productos asiáticos en general. Fundada en 2006 y con sede en Hong Kong, la empresa se ha convertido en un referente global para quien busca acceder al universo de la belleza coreana y la moda oriental con confianza y autenticidad.",
-        "YesStyle atiende a clientes en más de 150 países y regiones, con una versión traducida al portugués y conversión de precios para facilitar la navegación en el mercado brasileño. El catálogo es enorme: miles de productos de cuidado de la piel coreano, maquillaje de marcas consagradas, moda conceptual, accesorios y suplementos de bienestar."
+        "YesStyle atiende a clientes en más de 150 países y regiones, con selector de idioma y conversión de precios para facilitar la navegación. El catálogo es enorme: miles de productos de cuidado de la piel coreano, maquillaje de marcas consagradas, moda conceptual, accesorios y suplementos de bienestar."
       ],
       "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-      "imageAlt": "Página de inicio de YesStyle en portugués con un banner de promoción de K-beauty y productos destacados.",
-      "imageCaption": "YesStyle reúne campañas promocionales, productos de K-beauty y navegación traducida al portugués.",
+      "imageAlt": "Página de inicio de YesStyle con un banner de promoción de K-beauty y productos destacados.",
+      "imageCaption": "YesStyle reúne campañas promocionales, productos de K-beauty y navegación traducida.",
       "imageFit": "wide",
       "bullets": [
         "K-Beauty (belleza coreana): sérums de glass skin, esencias, tónicos, protectores solares y productos para la famosa rutina de cuidado asiática",
         "Moda coreana y asiática: ropa, zapatos, bolsos y accesorios inspirados en las tendencias urbanas de Seúl y Tokio",
         "J-Beauty y bienestar: marcas japonesas de renombre (como Hada Labo) y suplementos alimenticios"
-      ]
-    },
-    {
-      "heading": "K-Beauty en Brasil: qué buscan las brasileñas",
-      "paragraphs": [
-        "La K-beauty (belleza coreana) se ha convertido en una auténtica fiebre de consumo en Brasil. Lo que empezó como una curiosidad de nicho impulsada por fans del K-pop y los K-dramas se consolidó como una de las tendencias más fuertes de cuidado de la piel en el mercado brasileño de cosmética.",
-        "Comprar en YesStyle es una de las formas más seguras de conseguir K-beauty original, porque el sitio compra directamente a las marcas y tiene un portafolio mucho mayor que el de los revendedores locales en Brasil."
-      ],
-      "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-      "imageAlt": "Sección de regiones de YesStyle con categorías de belleza japonesa, belleza china y belleza del sudeste asiático.",
-      "imageCaption": "Además de la K-beauty, YesStyle también organiza los productos por regiones y tendencias asiáticas.",
-      "imageFit": "wide",
-      "bullets": [
-        "Glass skin: piel intensamente hidratada, luminosa y uniforme",
-        "Rutina coreana: foco en pasos como la doble limpieza (double cleansing), los tónicos hidratantes y las esencias nutritivas",
-        "Ingredientes consagrados: centella asiática (calmante), snail mucin (baba de caracol para la regeneración), propóleo y ácido hialurónico"
       ]
     },
     {
@@ -201,26 +185,14 @@
       ]
     },
     {
-      "heading": "Envío y entrega a Brasil",
-      "paragraphs": [
-        "YesStyle ofrece envío gratis a partir de un importe mínimo, que cambia según el país. Para Brasil, el costo del envío, el mínimo para envío gratis y las opciones de envío aparecen en el checkout, después del código postal.",
-        "El plazo es el tiempo que tarda el pedido en estar listo más el plazo del método de envío, desde Hong Kong, y aparece en el checkout. La aduana puede sumar algunos días, y el plazo varía según la región de Brasil y la época del año."
-      ],
-      "bullets": [
-        "Seguimiento: se facilita un código de seguimiento para todos los pedidos, disponible en el correo electrónico y en tu cuenta de YesStyle",
-        "Entrega final: la hacen los Correios (el correo brasileño) o un transportista asociado",
-        "Aduana: es normal que el pedido pase unos días en \"Customs clearance\""
-      ]
-    },
-    {
       "heading": "Tasas e importación: qué se puede cobrar",
       "paragraphs": [
-        "Las compras internacionales pueden pasar por un control aduanero en Brasil y pueden generar impuestos, tasas de importación, cobros administrativos u otros gastos relacionados con la liberación del pedido. Por eso, además de calcular el producto y el envío, conviene tener en cuenta la posibilidad de un costo extra antes de comprar.",
+        "Las compras internacionales pueden pasar por un control aduanero y pueden generar impuestos, tasas de importación, cobros administrativos u otros gastos relacionados con la liberación del pedido. Por eso, además de calcular el producto y el envío, conviene tener en cuenta la posibilidad de un costo extra antes de comprar.",
         "YesStyle indica que los pedidos de menos de US$ 1.000 pueden tener reembolso de las tasas aduaneras, si pagas primero, guardas el comprobante y lo solicitas en un plazo de 30 días. Ese reembolso, cuando se aprueba, se emite como crédito de tienda de YesStyle.",
         "Antes de comprar, consulta la página oficial de ayuda de YesStyle sobre el reembolso de impuestos y tasas aduaneras, porque las reglas de importación y las políticas de la tienda pueden cambiar."
       ],
       "bullets": [
-        "Guarda el comprobante de pago de cualquier tasa aduanera pagada en Brasil",
+        "Guarda el comprobante de pago de cualquier tasa aduanera pagada",
         "Envía la solicitud de reembolso a través de la atención al cliente de YesStyle dentro del plazo de 30 días",
         "El reembolso no es automático: depende del análisis y de las reglas de la política vigente de YesStyle",
         "Los pedidos de US$ 1.000 o más no entran en esta política de reembolso informada por la marca",
@@ -239,7 +211,6 @@
         "Aprovecha el Elite Club: programa de fidelidad con puntos acumulados: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
         "No ignores los productos \"Daily Free\": productos gratis en compras superiores a cierto importe.",
         "Lee las reseñas (reviews): fotos reales, comentarios sobre textura, olor y resultado, información sobre la fecha de caducidad.",
-        "Compara con el precio en Brasil: busca en Beleza na Web, Sephora y revendedores de K-beauty antes de comprar.",
         "Atento a las temporadas: Black Friday (noviembre), 11.11 (Día de los Solteros), Navidad, Summer Sale (junio/julio), Back to School (agosto/septiembre).",
         "Usa siempre CECILIA010: no cuesta nada, suma hasta un 5% extra (5% 1.ª compra / 2% recurrente) cuando se aplica correctamente y apoya el blog."
       ]
@@ -254,19 +225,17 @@
         "¿Puedo sumar CECILIA010 al cupón de la promoción del mes? ¡Sí! Va en el campo \"Reward Code\", mientras que los cupones van en el campo \"Coupon Code\". Así sumas hasta un 5% extra (5% en la primera compra y 2% en las compras recurrentes) a los cupones promocionales elegibles confirmados en el checkout.",
         "¿CECILIA010 tiene vigencia? Funciona mientras el programa de influencers de YesStyle esté activo y el código se verifique con regularidad.",
         "¿Es seguro comprar en YesStyle? Sí. Es una empresa legítima desde 2006, atiende a más de 150 países y regiones, vende productos auténticos y usa cifrado SSL.",
-        "¿Cuánto tarda en llegar a Brasil? El plazo estimado aparece en el checkout, después del código postal. El tiempo en la aduana puede añadir días extra.",
         "¿Pagaré tasa de importación? Puede ocurrir. Si hay un cobro aduanero, consulta la política oficial de YesStyle: la marca informa de la posibilidad de reembolso de impuestos y tasas aduaneras para pedidos elegibles de menos de US$ 1.000, con comprobante de pago y solicitud dentro del plazo, en forma de crédito de tienda.",
         "¿Cuál es la mejor forma de pagar? Tarjeta de crédito internacional (Visa, Mastercard, Amex) o PayPal. La conversión la hace automáticamente el emisor de la tarjeta.",
         "¿Los productos son originales? Sí. YesStyle es distribuidor autorizado de las marcas. Compra directamente a los fabricantes o a distribuidores oficiales.",
         "¿Puedo devolver productos? La política es limitada para las compras internacionales. Los productos defectuosos o enviados por error se pueden devolver. Los productos de K-beauty (cuidado de la piel, maquillaje) generalmente no se pueden devolver por motivos de higiene, salvo que estén sellados.",
         "¿Qué es el Elite Club? Es el programa de fidelidad de YesStyle. Cuanto más gastas, más puntos acumulas: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
-        "¿El sitio tiene versión en portugués? ¡Sí! En la parte superior del sitio puedes seleccionar el idioma portugués.",
-        "¿El envío gratis vale para todo Brasil? El importe mínimo para el envío gratis aparece en el checkout, después del código postal. El plazo puede ser más largo para las regiones lejanas.",
-        "¿Cómo rastreo mi pedido de YesStyle? Tras la confirmación del envío, YesStyle manda un correo con el código de seguimiento internacional. También puedes consultar el historial de pedidos entrando en tu cuenta. El seguimiento funciona mediante servicios como 17track o en el sitio del propio transportista. El plazo estimado aparece en el checkout y puede variar en la aduana brasileña.",
-        "¿Qué hago si mi pedido de YesStyle queda retenido en la aduana? Si el pedido se detiene en la Receita Federal (la autoridad tributaria de Brasil), puede que te avisen de que debes pagar el Impuesto de Importación. YesStyle informa de que, para pedidos elegibles de menos de US$ 1.000, es posible solicitar el reembolso de impuestos y tasas aduaneras en forma de crédito de tienda, con el comprobante de pago y una solicitud a la atención al cliente en un plazo de 30 días.",
-        "La ropa de YesStyle usa tallas asiáticas. ¿Cómo elijo la mía? Sí, la mayoría de la ropa sigue la numeración asiática, que suele ser menor que la brasileña. Consulta siempre la tabla de medidas de la página de cada producto (normalmente en centímetros) y compárala con tus medidas corporales. Recomendamos pedir una o dos tallas más de lo habitual, sobre todo en las prendas más ajustadas.",
+        "¿El sitio tiene otros idiomas? ¡Sí! En la parte superior del sitio puedes cambiar el idioma.",
+        "¿Cómo rastreo mi pedido de YesStyle? Tras la confirmación del envío, YesStyle manda un correo con el código de seguimiento internacional. También puedes consultar el historial de pedidos entrando en tu cuenta. El seguimiento funciona mediante servicios como 17track o en el sitio del propio transportista. El plazo estimado aparece en el checkout y puede variar en la aduana.",
+        "¿Qué hago si mi pedido de YesStyle queda retenido en la aduana? Si el pedido se retiene en la aduana, puede que te avisen de que debes pagar el impuesto de importación. YesStyle informa de que, para pedidos elegibles de menos de US$ 1.000, es posible solicitar el reembolso de impuestos y tasas aduaneras en forma de crédito de tienda, con el comprobante de pago y una solicitud a la atención al cliente en un plazo de 30 días.",
+        "La ropa de YesStyle usa tallas asiáticas. ¿Cómo elijo la mía? Sí, la mayoría de la ropa sigue la numeración asiática. Consulta siempre la tabla de medidas de la página de cada producto (normalmente en centímetros) y compárala con tus medidas corporales. Recomendamos pedir una o dos tallas más de lo habitual, sobre todo en las prendas más ajustadas.",
         "¿Cuáles son las marcas de K-beauty más vendidas en YesStyle? YesStyle es distribuidor autorizado de marcas consagradas como COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul y Haruharu. El sitio organiza los productos por categorías como esencias, tónicos, sérums y protectores solares, lo que facilita la búsqueda de una rutina de cuidado de la piel coreana.",
-        "¿Puedo cancelar o modificar un pedido en YesStyle una vez confirmado? YesStyle permite cancelar los pedidos que aún no se han enviado (estado 'Processing') directamente desde el historial de pedidos de tu cuenta. Tras el envío no se puede cancelar, pero puedes rechazar la entrega cuando llegue a Brasil. Los cambios de dirección o de productos solo son posibles antes del envío, a través de atención al cliente.",
+        "¿Puedo cancelar o modificar un pedido en YesStyle una vez confirmado? YesStyle permite cancelar los pedidos que aún no se han enviado (estado 'Processing') directamente desde el historial de pedidos de tu cuenta. Tras el envío no se puede cancelar, pero puedes rechazar la entrega cuando llegue. Los cambios de dirección o de productos solo son posibles antes del envío, a través de atención al cliente.",
         "Código de YesStyle para la primera compra: ¿cómo usar CECILIA010? El código CECILIA010 funciona en cualquier compra y da hasta un 5% extra (5% en la primera compra y 2% en las compras recurrentes), combinable con cupones promocionales elegibles confirmados en el checkout.",
         "Código de influencer de YesStyle: ¿qué es CECILIA010? CECILIA010 es un código de recompensa de influencer registrado en YesStyle. Concede hasta un 5% de descuento extra (5% en la primera compra y 2% en las compras recurrentes) en el checkout y se puede combinar con cupones promocionales elegibles, a diferencia de los códigos de primera compra, que normalmente no son acumulables."
       ]

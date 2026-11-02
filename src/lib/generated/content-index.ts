@@ -29754,7 +29754,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010: Reward Code",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
-    "description": "A practical step-by-step guide to using the influencer code CECILIA010 on YesStyle. See where to enter it at checkout (Reward Code), how to combine it with active coupons, K-Beauty tips and the import rules for Brazil.",
+    "description": "A practical step-by-step guide to using the influencer code CECILIA010 on YesStyle. See where to enter it at checkout (Reward Code), how to combine it with active coupons and K-Beauty tips.",
     "metaDescription": "How to use CECILIA010 on YesStyle: the Reward Code field, up to 5% extra (5% on the first order and 2% on repeat orders), combinable with eligible promo coupons as shown at checkout.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
@@ -29770,12 +29770,12 @@ export const reviewsData: unknown[] = [
       "Free shipping from a minimum order value, shown at checkout",
       "Huge catalog of K-Beauty, Korean fashion and J-Beauty",
       "100% authentic products, authorized distributor",
-      "Site with Portuguese navigation and checkout"
+      "Language selector at the top of the site"
     ],
     "cons": [
       "Does not replace regular coupons (it works in a separate field)",
       "International orders may incur customs fees; check YesStyle's refund policy before buying",
-      "International purchase: delivery takes longer than from a Brazilian store",
+      "International purchase: delivery takes longer than from a local store",
       "Final prices quoted in US dollars (subject to exchange-rate swings)"
     ],
     "contentSections": [
@@ -29836,16 +29836,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Go to the official YesStyle website",
         "paragraphs": [
-          "Go to the official YesStyle website (yesstyle.com). At the top of the site, you can select Portuguese as the language to make browsing and reading the products easier."
+          "Go to the official YesStyle website (yesstyle.com). At the top of the site, you can switch the language to make browsing and reading the products easier."
         ]
       },
       {
         "heading": "2. Choose your products and add them to your cart",
         "paragraphs": [
-          "Browse the many K-Beauty, makeup and Korean fashion categories and add the items you want to your shopping cart. The minimum for free shipping to Brazil appears at checkout, after you enter your postal code."
+          "Browse the many K-Beauty, makeup and Korean fashion categories and add the items you want to your shopping cart. The minimum for free shipping appears at checkout, after you enter your delivery address."
         ],
         "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
-        "imageAlt": "YesStyle cart with beauty products, free shipping to Brazil and a field to enter a code.",
+        "imageAlt": "YesStyle cart with beauty products, free shipping and a field to enter a code.",
         "imageCaption": "In the cart, check the products, shipping and the field where the codes will be applied before you check out.",
         "imageFit": "contain"
       },
@@ -29868,7 +29868,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. Review the discounts and place the order",
         "paragraphs": [
-          "Confirm that both discount layers (Reward Code + coupon) were applied to the order subtotal. Fill in your delivery details in Brazil, choose the payment method (card or PayPal) and confirm the purchase.",
+          "Confirm that both discount layers (Reward Code + coupon) were applied to the order subtotal. Fill in your delivery details, choose the payment method (card or PayPal) and confirm the purchase.",
           "Check that CECILIA010 and the active coupon are each in their own field: a Reward Code entered in the coupon field returns an error."
         ]
       },
@@ -29907,32 +29907,16 @@ export const reviewsData: unknown[] = [
         "heading": "What is YesStyle?",
         "paragraphs": [
           "YesStyle (also written Yes Style) is one of the largest and most complete e-commerce platforms in the world dedicated to Korean fashion, K-beauty, J-beauty (Japanese beauty) and Asian products in general. Founded in 2006 and based in Hong Kong, the company has become a global reference for anyone looking to explore Korean beauty and Eastern fashion with confidence and authenticity.",
-          "YesStyle serves customers in more than 150 countries and regions, with a Portuguese version and price conversion to make browsing easier in the Brazilian market. The catalog is huge: thousands of Korean skincare products, makeup from established brands, trend-led fashion, accessories and wellness supplements."
+          "YesStyle serves customers in more than 150 countries and regions, with a language selector and price conversion to make browsing easier. The catalog is huge: thousands of Korean skincare products, makeup from established brands, trend-led fashion, accessories and wellness supplements."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "YesStyle home page in Portuguese with a K-beauty promotion banner and featured products.",
-        "imageCaption": "YesStyle brings together promotional campaigns, K-beauty products and navigation translated into Portuguese.",
+        "imageAlt": "YesStyle home page with a K-beauty promotion banner and featured products.",
+        "imageCaption": "YesStyle brings together promotional campaigns, K-beauty products and translated navigation.",
         "imageFit": "wide",
         "bullets": [
           "K-Beauty (Korean Beauty): glass skin serums, essences, toners, sunscreens and products for the famous Asian skincare routine",
           "Korean and Asian Fashion: clothes, shoes, bags and accessories inspired by urban trends from Seoul and Tokyo",
           "J-Beauty and Wellness: renowned Japanese brands (such as Hada Labo) and dietary supplements"
-        ]
-      },
-      {
-        "heading": "K-Beauty in Brazil: what Brazilian shoppers are looking for",
-        "paragraphs": [
-          "K-beauty (Korean beauty) has turned into a real consumer craze in Brazil. What began as a niche curiosity driven by K-pop and K-drama fans has become one of the strongest skincare trends in the Brazilian cosmetics market.",
-          "Buying on YesStyle is one of the safest ways to get original K-beauty, since the site buys directly from the brands and has a much larger portfolio than local resellers in Brazil."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "YesStyle regions section with categories for Japanese beauty, Chinese beauty and Southeast Asian beauty.",
-        "imageCaption": "Besides K-beauty, YesStyle also organizes products by region and Asian trends.",
-        "imageFit": "wide",
-        "bullets": [
-          "Glass skin: deeply hydrated, luminous and even-looking skin",
-          "Korean routine: focus on steps such as double cleansing, hydrating toners and nourishing essences",
-          "Well-known ingredients: centella asiatica (soothing), snail mucin (snail slime for regeneration), propolis and hyaluronic acid"
         ]
       },
       {
@@ -29951,26 +29935,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Shipping and delivery to Brazil",
-        "paragraphs": [
-          "YesStyle offers free shipping from a minimum order value, which varies by country. For Brazil, the shipping cost, the minimum for free shipping and the shipping options appear at checkout, after you enter your postal code.",
-          "The delivery time is the time for the order to be ready plus the time of the shipping method, from Hong Kong, and it appears at checkout. Customs can add a few days, and the time varies with the region of Brazil and the time of year."
-        ],
-        "bullets": [
-          "Tracking: a tracking code is provided for every order, available in your email and in your YesStyle account",
-          "Final delivery: made by the Brazilian postal service (Correios) or a partner carrier",
-          "Customs: it is normal for the order to sit a few days in \"Customs clearance\""
-        ]
-      },
-      {
         "heading": "Taxes and import: what can be charged",
         "paragraphs": [
-          "International purchases may go through customs inspection in Brazil and may incur taxes, import duties, administrative charges or other costs related to releasing the order. So, besides working out the product and shipping, it is worth allowing for the possibility of an extra cost before you buy.",
+          "International purchases may go through customs inspection and may incur taxes, import duties, administrative charges or other costs related to releasing the order. So, besides working out the product and shipping, it is worth allowing for the possibility of an extra cost before you buy.",
           "YesStyle says that orders under US$ 1,000 may get a refund of customs fees, if you pay first, keep the receipt and request it within 30 days. When approved, this refund is issued as YesStyle Store Credit.",
           "Before buying, check YesStyle's official help page on refunds of taxes and customs fees, because import rules and store policies can change."
         ],
         "bullets": [
-          "Keep the proof of payment for any customs fee paid in Brazil",
+          "Keep the proof of payment for any customs fee paid",
           "Send the refund request through YesStyle's support within the 30-day deadline",
           "The refund is not automatic: it depends on review and on the rules of YesStyle's current policy",
           "Orders of US$ 1,000 or more are not covered by this refund policy as stated by the brand",
@@ -29989,7 +29961,6 @@ export const reviewsData: unknown[] = [
           "Take advantage of the Elite Club: loyalty program with accumulated points: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
           "Don't overlook the \"Daily Free\" products: free products on orders above a certain value.",
           "Read the reviews: real photos, comments on texture, scent and results, information on expiry dates.",
-          "Compare with the price in Brazil: check Beleza na Web, Sephora and K-beauty resellers before buying.",
           "Watch the seasons: Black Friday (November), 11.11 (Singles' Day), Christmas, Summer Sale (June/July), Back to School (August/September).",
           "Always use CECILIA010: it costs nothing, adds up to 5% extra (5% 1st order / 2% repeat) when applied correctly and supports the blog."
         ]
@@ -30004,19 +29975,17 @@ export const reviewsData: unknown[] = [
           "Can I stack CECILIA010 with the month's promo coupon? Yes! It goes in the \"Reward Code\" field, while coupons go in the \"Coupon Code\" field. That way you add up to 5% extra (5% on the first order and 2% on repeat orders) to the eligible promo coupons confirmed at checkout.",
           "Does CECILIA010 expire? It works as long as YesStyle's influencer program is active and the code is checked regularly.",
           "Is it safe to buy on YesStyle? Yes. A legitimate company since 2006, serving more than 150 countries and regions, with authentic products and SSL encryption.",
-          "How long does it take to arrive in Brazil? The estimated delivery time appears at checkout, after you enter your postal code. Time in customs can add extra days.",
           "Will I pay import tax? It can happen. If there is a customs charge, check YesStyle's official policy: the brand states that taxes and customs fees may be refunded for eligible orders under US$ 1,000, with proof of payment and a request made within the deadline, as Store Credit.",
           "What is the best way to pay? International credit card (Visa, Mastercard, Amex) or PayPal. The currency conversion is done automatically by the card issuer.",
           "Are the products original? Yes. YesStyle is an authorized distributor of the brands. It buys directly from manufacturers or official distributors.",
           "Can I return products? The policy is limited for international purchases. Defective or wrongly shipped products can be returned. K-beauty products (skincare, makeup) generally cannot be returned for hygiene reasons, unless they are sealed.",
           "What is the Elite Club? YesStyle's loyalty program. The more you spend, the more points you earn: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
-          "Does the site have a Portuguese version? Yes! At the top of the site you can switch the language to Portuguese.",
-          "Does free shipping work for all of Brazil? The minimum for free shipping appears at checkout, after you enter your postal code. Delivery may take longer for distant regions.",
-          "How do I track my YesStyle order? After shipping is confirmed, YesStyle sends an email with the international tracking code. You can also check your order history by logging in to your account. Tracking works through services such as 17track or the carrier's own site. The estimated delivery time appears at checkout and may vary in Brazilian customs.",
-          "What should I do if my YesStyle order is held in customs? If the order is stopped by the Receita Federal (Brazil's tax authority), you may be notified to pay the Import Tax. YesStyle states that, for eligible orders under US$ 1,000, you can request a refund of taxes and customs fees as Store Credit, with proof of payment and a request to support within 30 days.",
-          "YesStyle clothes use Asian sizes. How do I choose mine? Yes, most clothes follow Asian sizing, which tends to run smaller than Brazilian sizes. Always check the measurement chart on each product page (usually in centimeters) and compare it with your body measurements. We recommend ordering one or two sizes up, especially for fitted pieces.",
+          "Does the site have other languages? Yes! At the top of the site you can switch the language.",
+          "How do I track my YesStyle order? After shipping is confirmed, YesStyle sends an email with the international tracking code. You can also check your order history by logging in to your account. Tracking works through services such as 17track or the carrier's own site. The estimated delivery time appears at checkout and may vary in customs.",
+          "What should I do if my YesStyle order is held in customs? If the order is held in customs, you may be notified to pay the import tax. YesStyle states that, for eligible orders under US$ 1,000, you can request a refund of taxes and customs fees as Store Credit, with proof of payment and a request to support within 30 days.",
+          "YesStyle clothes use Asian sizes. How do I choose mine? Yes, most clothes follow Asian sizing. Always check the measurement chart on each product page (usually in centimeters) and compare it with your body measurements. We recommend ordering one or two sizes up, especially for fitted pieces.",
           "Which are the best-selling K-beauty brands on YesStyle? YesStyle is an authorized distributor of established brands such as COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul and Haruharu. The site organizes products by categories such as essences, toners, serums and sunscreens, making it easier to build a Korean skincare routine.",
-          "Can I cancel or change an order on YesStyle after it is confirmed? YesStyle lets you cancel orders that have not shipped yet ('Processing' status) directly from the order history in your account. After shipping, it is not possible to cancel, but you can refuse the delivery when it arrives in Brazil. Changes to the address or products are only possible before shipping, through customer service.",
+          "Can I cancel or change an order on YesStyle after it is confirmed? YesStyle lets you cancel orders that have not shipped yet ('Processing' status) directly from the order history in your account. After shipping, it is not possible to cancel, but you can refuse the delivery when it arrives. Changes to the address or products are only possible before shipping, through customer service.",
           "YesStyle first-order code: how do I use CECILIA010? The code CECILIA010 works on any order, giving up to 5% extra (5% on the first order and 2% on repeat orders), combinable with eligible promo coupons confirmed at checkout.",
           "YesStyle influencer code: what is CECILIA010? CECILIA010 is an influencer Reward Code registered at YesStyle. It gives up to 5% extra discount (5% on the first order and 2% on repeat orders) at checkout and can be combined with eligible promo coupons, unlike first-order codes, which are usually not stackable."
         ]
@@ -30047,7 +30016,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010: código de recompensa",
     "type": "Guía & Cupones",
     "reviewKind": "guia",
-    "description": "Guía práctica paso a paso para usar el código de influencer CECILIA010 en YesStyle. Mira dónde introducirlo en el checkout (Reward Code), cómo combinarlo con cupones activos, consejos de K-Beauty y las reglas de importación para Brasil.",
+    "description": "Guía práctica paso a paso para usar el código de influencer CECILIA010 en YesStyle. Mira dónde introducirlo en el checkout (Reward Code), cómo combinarlo con cupones activos y consejos de K-Beauty.",
     "metaDescription": "Cómo usar CECILIA010 en YesStyle: campo Reward Code, hasta un 5% extra (5% en la primera compra y 2% en las recurrentes), combinable con cupones promocionales elegibles según el checkout.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
@@ -30063,12 +30032,12 @@ export const reviewsData: unknown[] = [
       "Envío gratis a partir de un importe mínimo, que aparece en el checkout",
       "Amplio catálogo de K-Beauty, moda coreana y J-Beauty",
       "Productos 100% auténticos, distribuidor autorizado",
-      "Sitio con navegación y checkout en portugués"
+      "Selector de idioma en la parte superior del sitio"
     ],
     "cons": [
       "No sustituye a los cupones normales (funciona en un campo aparte)",
       "Los pedidos internacionales pueden generar tasas de aduana; revisa la política de reembolso de YesStyle antes de comprar",
-      "Compra internacional: el plazo de entrega es mayor que el de una tienda nacional",
+      "Compra internacional: el plazo de entrega es mayor que el de una tienda local",
       "Precios finales en dólares (sujetos a la variación del tipo de cambio)"
     ],
     "contentSections": [
@@ -30129,16 +30098,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Entra en el sitio oficial de YesStyle",
         "paragraphs": [
-          "Ve al sitio oficial de YesStyle (yesstyle.com). En la parte superior del sitio, si prefieres, selecciona el idioma portugués para facilitar la navegación y la lectura de los productos."
+          "Ve al sitio oficial de YesStyle (yesstyle.com). En la parte superior del sitio, si prefieres, cambia el idioma para facilitar la navegación y la lectura de los productos."
         ]
       },
       {
         "heading": "2. Elige tus productos y añádelos al carrito",
         "paragraphs": [
-          "Navega por las distintas categorías de K-Beauty, maquillaje o moda coreana y añade los artículos que quieras al carrito de la compra. El importe mínimo para el envío gratis a Brasil aparece en el checkout, después del código postal."
+          "Navega por las distintas categorías de K-Beauty, maquillaje o moda coreana y añade los artículos que quieras al carrito de la compra. El importe mínimo para el envío gratis aparece en el checkout, después de la dirección de entrega."
         ],
         "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
-        "imageAlt": "Carrito de YesStyle con productos de belleza, envío gratis a Brasil y campo para introducir un código.",
+        "imageAlt": "Carrito de YesStyle con productos de belleza, envío gratis y campo para introducir un código.",
         "imageCaption": "En el carrito, revisa los productos, el envío y el campo donde se aplicarán los códigos antes de finalizar la compra.",
         "imageFit": "contain"
       },
@@ -30161,7 +30130,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. Revisa los descuentos y finaliza el pedido",
         "paragraphs": [
-          "Confirma que las dos capas de descuento (código de recompensa + cupón) se han aplicado al subtotal del pedido. Rellena tus datos de entrega en Brasil, elige la forma de pago (tarjeta o PayPal) y confirma la compra.",
+          "Confirma que las dos capas de descuento (código de recompensa + cupón) se han aplicado al subtotal del pedido. Rellena tus datos de entrega, elige la forma de pago (tarjeta o PayPal) y confirma la compra.",
           "Comprueba que CECILIA010 y el cupón activo estén cada uno en su campo: si pones el código de recompensa en el campo de cupón, da error."
         ]
       },
@@ -30200,32 +30169,16 @@ export const reviewsData: unknown[] = [
         "heading": "¿Qué es YesStyle?",
         "paragraphs": [
           "YesStyle (también escrita Yes Style) es una de las plataformas de comercio electrónico más grandes y completas del mundo dedicadas a la moda coreana, la K-beauty, la J-beauty (belleza japonesa) y los productos asiáticos en general. Fundada en 2006 y con sede en Hong Kong, la empresa se ha convertido en un referente global para quien busca acceder al universo de la belleza coreana y la moda oriental con confianza y autenticidad.",
-          "YesStyle atiende a clientes en más de 150 países y regiones, con una versión traducida al portugués y conversión de precios para facilitar la navegación en el mercado brasileño. El catálogo es enorme: miles de productos de cuidado de la piel coreano, maquillaje de marcas consagradas, moda conceptual, accesorios y suplementos de bienestar."
+          "YesStyle atiende a clientes en más de 150 países y regiones, con selector de idioma y conversión de precios para facilitar la navegación. El catálogo es enorme: miles de productos de cuidado de la piel coreano, maquillaje de marcas consagradas, moda conceptual, accesorios y suplementos de bienestar."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "Página de inicio de YesStyle en portugués con un banner de promoción de K-beauty y productos destacados.",
-        "imageCaption": "YesStyle reúne campañas promocionales, productos de K-beauty y navegación traducida al portugués.",
+        "imageAlt": "Página de inicio de YesStyle con un banner de promoción de K-beauty y productos destacados.",
+        "imageCaption": "YesStyle reúne campañas promocionales, productos de K-beauty y navegación traducida.",
         "imageFit": "wide",
         "bullets": [
           "K-Beauty (belleza coreana): sérums de glass skin, esencias, tónicos, protectores solares y productos para la famosa rutina de cuidado asiática",
           "Moda coreana y asiática: ropa, zapatos, bolsos y accesorios inspirados en las tendencias urbanas de Seúl y Tokio",
           "J-Beauty y bienestar: marcas japonesas de renombre (como Hada Labo) y suplementos alimenticios"
-        ]
-      },
-      {
-        "heading": "K-Beauty en Brasil: qué buscan las brasileñas",
-        "paragraphs": [
-          "La K-beauty (belleza coreana) se ha convertido en una auténtica fiebre de consumo en Brasil. Lo que empezó como una curiosidad de nicho impulsada por fans del K-pop y los K-dramas se consolidó como una de las tendencias más fuertes de cuidado de la piel en el mercado brasileño de cosmética.",
-          "Comprar en YesStyle es una de las formas más seguras de conseguir K-beauty original, porque el sitio compra directamente a las marcas y tiene un portafolio mucho mayor que el de los revendedores locales en Brasil."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "Sección de regiones de YesStyle con categorías de belleza japonesa, belleza china y belleza del sudeste asiático.",
-        "imageCaption": "Además de la K-beauty, YesStyle también organiza los productos por regiones y tendencias asiáticas.",
-        "imageFit": "wide",
-        "bullets": [
-          "Glass skin: piel intensamente hidratada, luminosa y uniforme",
-          "Rutina coreana: foco en pasos como la doble limpieza (double cleansing), los tónicos hidratantes y las esencias nutritivas",
-          "Ingredientes consagrados: centella asiática (calmante), snail mucin (baba de caracol para la regeneración), propóleo y ácido hialurónico"
         ]
       },
       {
@@ -30244,26 +30197,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Envío y entrega a Brasil",
-        "paragraphs": [
-          "YesStyle ofrece envío gratis a partir de un importe mínimo, que cambia según el país. Para Brasil, el costo del envío, el mínimo para envío gratis y las opciones de envío aparecen en el checkout, después del código postal.",
-          "El plazo es el tiempo que tarda el pedido en estar listo más el plazo del método de envío, desde Hong Kong, y aparece en el checkout. La aduana puede sumar algunos días, y el plazo varía según la región de Brasil y la época del año."
-        ],
-        "bullets": [
-          "Seguimiento: se facilita un código de seguimiento para todos los pedidos, disponible en el correo electrónico y en tu cuenta de YesStyle",
-          "Entrega final: la hacen los Correios (el correo brasileño) o un transportista asociado",
-          "Aduana: es normal que el pedido pase unos días en \"Customs clearance\""
-        ]
-      },
-      {
         "heading": "Tasas e importación: qué se puede cobrar",
         "paragraphs": [
-          "Las compras internacionales pueden pasar por un control aduanero en Brasil y pueden generar impuestos, tasas de importación, cobros administrativos u otros gastos relacionados con la liberación del pedido. Por eso, además de calcular el producto y el envío, conviene tener en cuenta la posibilidad de un costo extra antes de comprar.",
+          "Las compras internacionales pueden pasar por un control aduanero y pueden generar impuestos, tasas de importación, cobros administrativos u otros gastos relacionados con la liberación del pedido. Por eso, además de calcular el producto y el envío, conviene tener en cuenta la posibilidad de un costo extra antes de comprar.",
           "YesStyle indica que los pedidos de menos de US$ 1.000 pueden tener reembolso de las tasas aduaneras, si pagas primero, guardas el comprobante y lo solicitas en un plazo de 30 días. Ese reembolso, cuando se aprueba, se emite como crédito de tienda de YesStyle.",
           "Antes de comprar, consulta la página oficial de ayuda de YesStyle sobre el reembolso de impuestos y tasas aduaneras, porque las reglas de importación y las políticas de la tienda pueden cambiar."
         ],
         "bullets": [
-          "Guarda el comprobante de pago de cualquier tasa aduanera pagada en Brasil",
+          "Guarda el comprobante de pago de cualquier tasa aduanera pagada",
           "Envía la solicitud de reembolso a través de la atención al cliente de YesStyle dentro del plazo de 30 días",
           "El reembolso no es automático: depende del análisis y de las reglas de la política vigente de YesStyle",
           "Los pedidos de US$ 1.000 o más no entran en esta política de reembolso informada por la marca",
@@ -30282,7 +30223,6 @@ export const reviewsData: unknown[] = [
           "Aprovecha el Elite Club: programa de fidelidad con puntos acumulados: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
           "No ignores los productos \"Daily Free\": productos gratis en compras superiores a cierto importe.",
           "Lee las reseñas (reviews): fotos reales, comentarios sobre textura, olor y resultado, información sobre la fecha de caducidad.",
-          "Compara con el precio en Brasil: busca en Beleza na Web, Sephora y revendedores de K-beauty antes de comprar.",
           "Atento a las temporadas: Black Friday (noviembre), 11.11 (Día de los Solteros), Navidad, Summer Sale (junio/julio), Back to School (agosto/septiembre).",
           "Usa siempre CECILIA010: no cuesta nada, suma hasta un 5% extra (5% 1.ª compra / 2% recurrente) cuando se aplica correctamente y apoya el blog."
         ]
@@ -30297,19 +30237,17 @@ export const reviewsData: unknown[] = [
           "¿Puedo sumar CECILIA010 al cupón de la promoción del mes? ¡Sí! Va en el campo \"Reward Code\", mientras que los cupones van en el campo \"Coupon Code\". Así sumas hasta un 5% extra (5% en la primera compra y 2% en las compras recurrentes) a los cupones promocionales elegibles confirmados en el checkout.",
           "¿CECILIA010 tiene vigencia? Funciona mientras el programa de influencers de YesStyle esté activo y el código se verifique con regularidad.",
           "¿Es seguro comprar en YesStyle? Sí. Es una empresa legítima desde 2006, atiende a más de 150 países y regiones, vende productos auténticos y usa cifrado SSL.",
-          "¿Cuánto tarda en llegar a Brasil? El plazo estimado aparece en el checkout, después del código postal. El tiempo en la aduana puede añadir días extra.",
           "¿Pagaré tasa de importación? Puede ocurrir. Si hay un cobro aduanero, consulta la política oficial de YesStyle: la marca informa de la posibilidad de reembolso de impuestos y tasas aduaneras para pedidos elegibles de menos de US$ 1.000, con comprobante de pago y solicitud dentro del plazo, en forma de crédito de tienda.",
           "¿Cuál es la mejor forma de pagar? Tarjeta de crédito internacional (Visa, Mastercard, Amex) o PayPal. La conversión la hace automáticamente el emisor de la tarjeta.",
           "¿Los productos son originales? Sí. YesStyle es distribuidor autorizado de las marcas. Compra directamente a los fabricantes o a distribuidores oficiales.",
           "¿Puedo devolver productos? La política es limitada para las compras internacionales. Los productos defectuosos o enviados por error se pueden devolver. Los productos de K-beauty (cuidado de la piel, maquillaje) generalmente no se pueden devolver por motivos de higiene, salvo que estén sellados.",
           "¿Qué es el Elite Club? Es el programa de fidelidad de YesStyle. Cuanto más gastas, más puntos acumulas: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
-          "¿El sitio tiene versión en portugués? ¡Sí! En la parte superior del sitio puedes seleccionar el idioma portugués.",
-          "¿El envío gratis vale para todo Brasil? El importe mínimo para el envío gratis aparece en el checkout, después del código postal. El plazo puede ser más largo para las regiones lejanas.",
-          "¿Cómo rastreo mi pedido de YesStyle? Tras la confirmación del envío, YesStyle manda un correo con el código de seguimiento internacional. También puedes consultar el historial de pedidos entrando en tu cuenta. El seguimiento funciona mediante servicios como 17track o en el sitio del propio transportista. El plazo estimado aparece en el checkout y puede variar en la aduana brasileña.",
-          "¿Qué hago si mi pedido de YesStyle queda retenido en la aduana? Si el pedido se detiene en la Receita Federal (la autoridad tributaria de Brasil), puede que te avisen de que debes pagar el Impuesto de Importación. YesStyle informa de que, para pedidos elegibles de menos de US$ 1.000, es posible solicitar el reembolso de impuestos y tasas aduaneras en forma de crédito de tienda, con el comprobante de pago y una solicitud a la atención al cliente en un plazo de 30 días.",
-          "La ropa de YesStyle usa tallas asiáticas. ¿Cómo elijo la mía? Sí, la mayoría de la ropa sigue la numeración asiática, que suele ser menor que la brasileña. Consulta siempre la tabla de medidas de la página de cada producto (normalmente en centímetros) y compárala con tus medidas corporales. Recomendamos pedir una o dos tallas más de lo habitual, sobre todo en las prendas más ajustadas.",
+          "¿El sitio tiene otros idiomas? ¡Sí! En la parte superior del sitio puedes cambiar el idioma.",
+          "¿Cómo rastreo mi pedido de YesStyle? Tras la confirmación del envío, YesStyle manda un correo con el código de seguimiento internacional. También puedes consultar el historial de pedidos entrando en tu cuenta. El seguimiento funciona mediante servicios como 17track o en el sitio del propio transportista. El plazo estimado aparece en el checkout y puede variar en la aduana.",
+          "¿Qué hago si mi pedido de YesStyle queda retenido en la aduana? Si el pedido se retiene en la aduana, puede que te avisen de que debes pagar el impuesto de importación. YesStyle informa de que, para pedidos elegibles de menos de US$ 1.000, es posible solicitar el reembolso de impuestos y tasas aduaneras en forma de crédito de tienda, con el comprobante de pago y una solicitud a la atención al cliente en un plazo de 30 días.",
+          "La ropa de YesStyle usa tallas asiáticas. ¿Cómo elijo la mía? Sí, la mayoría de la ropa sigue la numeración asiática. Consulta siempre la tabla de medidas de la página de cada producto (normalmente en centímetros) y compárala con tus medidas corporales. Recomendamos pedir una o dos tallas más de lo habitual, sobre todo en las prendas más ajustadas.",
           "¿Cuáles son las marcas de K-beauty más vendidas en YesStyle? YesStyle es distribuidor autorizado de marcas consagradas como COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul y Haruharu. El sitio organiza los productos por categorías como esencias, tónicos, sérums y protectores solares, lo que facilita la búsqueda de una rutina de cuidado de la piel coreana.",
-          "¿Puedo cancelar o modificar un pedido en YesStyle una vez confirmado? YesStyle permite cancelar los pedidos que aún no se han enviado (estado 'Processing') directamente desde el historial de pedidos de tu cuenta. Tras el envío no se puede cancelar, pero puedes rechazar la entrega cuando llegue a Brasil. Los cambios de dirección o de productos solo son posibles antes del envío, a través de atención al cliente.",
+          "¿Puedo cancelar o modificar un pedido en YesStyle una vez confirmado? YesStyle permite cancelar los pedidos que aún no se han enviado (estado 'Processing') directamente desde el historial de pedidos de tu cuenta. Tras el envío no se puede cancelar, pero puedes rechazar la entrega cuando llegue. Los cambios de dirección o de productos solo son posibles antes del envío, a través de atención al cliente.",
           "Código de YesStyle para la primera compra: ¿cómo usar CECILIA010? El código CECILIA010 funciona en cualquier compra y da hasta un 5% extra (5% en la primera compra y 2% en las compras recurrentes), combinable con cupones promocionales elegibles confirmados en el checkout.",
           "Código de influencer de YesStyle: ¿qué es CECILIA010? CECILIA010 es un código de recompensa de influencer registrado en YesStyle. Concede hasta un 5% de descuento extra (5% en la primera compra y 2% en las compras recurrentes) en el checkout y se puede combinar con cupones promocionales elegibles, a diferencia de los códigos de primera compra, que normalmente no son acumulables."
         ]
@@ -30340,7 +30278,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010 : code de récompense",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
-    "description": "Guide pratique pas à pas pour utiliser le code d'influenceuse CECILIA010 sur YesStyle. Découvrez où le saisir au paiement (Reward Code), comment le combiner avec les coupons actifs, des conseils K-Beauty et les règles d'importation pour le Brésil.",
+    "description": "Guide pratique pas à pas pour utiliser le code d'influenceuse CECILIA010 sur YesStyle. Découvrez où le saisir au paiement (Reward Code), comment le combiner avec les coupons actifs et des conseils K-Beauty.",
     "metaDescription": "Comment utiliser CECILIA010 sur YesStyle : champ Reward Code, jusqu'à 5 % en plus (5 % sur la première commande et 2 % sur les suivantes), cumulable avec les coupons promotionnels éligibles selon le paiement.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
@@ -30356,12 +30294,12 @@ export const reviewsData: unknown[] = [
       "Livraison gratuite à partir d'un montant minimum, indiqué au paiement",
       "Vaste catalogue de K-Beauty, de mode coréenne et de J-Beauty",
       "Produits 100 % authentiques, distributeur agréé",
-      "Site avec navigation et paiement en portugais"
+      "Sélecteur de langue en haut du site"
     ],
     "cons": [
       "Ne remplace pas les coupons classiques (il s'utilise dans un champ séparé)",
       "Les commandes internationales peuvent entraîner des frais de douane ; consultez la politique de remboursement de YesStyle avant d'acheter",
-      "Achat international : le délai de livraison est plus long que dans une boutique brésilienne",
+      "Achat international : le délai de livraison est plus long que dans une boutique locale",
       "Prix finaux indiqués en dollars (soumis aux variations du taux de change)"
     ],
     "contentSections": [
@@ -30422,16 +30360,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Accédez au site officiel de YesStyle",
         "paragraphs": [
-          "Rendez-vous sur le site officiel de YesStyle (yesstyle.com). En haut du site, si vous préférez, choisissez la langue portugaise pour faciliter la navigation et la lecture des produits."
+          "Rendez-vous sur le site officiel de YesStyle (yesstyle.com). En haut du site, si vous préférez, changez la langue pour faciliter la navigation et la lecture des produits."
         ]
       },
       {
         "heading": "2. Choisissez vos produits et ajoutez-les au panier",
         "paragraphs": [
-          "Parcourez les différentes catégories de K-Beauty, de maquillage ou de mode coréenne et ajoutez les articles souhaités au panier. Le montant minimum pour la livraison gratuite vers le Brésil apparaît au paiement, après le code postal."
+          "Parcourez les différentes catégories de K-Beauty, de maquillage ou de mode coréenne et ajoutez les articles souhaités au panier. Le montant minimum pour la livraison gratuite apparaît au paiement, après l'adresse de livraison."
         ],
         "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
-        "imageAlt": "Panier YesStyle avec des produits de beauté, la livraison gratuite vers le Brésil et un champ pour saisir un code.",
+        "imageAlt": "Panier YesStyle avec des produits de beauté, la livraison gratuite et un champ pour saisir un code.",
         "imageCaption": "Dans le panier, vérifiez les produits, la livraison et le champ où les codes seront appliqués avant de finaliser la commande.",
         "imageFit": "contain"
       },
@@ -30454,7 +30392,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. Vérifiez les remises et validez la commande",
         "paragraphs": [
-          "Vérifiez que les deux niveaux de remise (code de récompense + coupon) ont bien été appliqués au sous-total de la commande. Renseignez vos coordonnées de livraison au Brésil, choisissez le moyen de paiement (carte ou PayPal) et confirmez l'achat.",
+          "Vérifiez que les deux niveaux de remise (code de récompense + coupon) ont bien été appliqués au sous-total de la commande. Renseignez vos coordonnées de livraison, choisissez le moyen de paiement (carte ou PayPal) et confirmez l'achat.",
           "Vérifiez que CECILIA010 et le coupon actif sont chacun dans leur champ : un code de récompense saisi dans le champ coupon provoque une erreur."
         ]
       },
@@ -30493,32 +30431,16 @@ export const reviewsData: unknown[] = [
         "heading": "Qu'est-ce que YesStyle ?",
         "paragraphs": [
           "YesStyle (aussi écrit Yes Style) est l'une des plus grandes et des plus complètes plateformes de commerce en ligne au monde dédiées à la mode coréenne, à la K-beauty, à la J-beauty (beauté japonaise) et aux produits asiatiques en général. Fondée en 2006 et basée à Hong Kong, l'entreprise est devenue une référence mondiale pour qui veut découvrir l'univers de la beauté coréenne et de la mode orientale en toute confiance et authenticité.",
-          "YesStyle sert des clients dans plus de 150 pays et régions, avec une version traduite en portugais et une conversion des prix pour faciliter la navigation sur le marché brésilien. Le catalogue est gigantesque : des milliers de produits de soins coréens, du maquillage de marques reconnues, de la mode conceptuelle, des accessoires et des compléments bien-être."
+          "YesStyle sert des clients dans plus de 150 pays et régions, avec un sélecteur de langue et une conversion des prix pour faciliter la navigation. Le catalogue est gigantesque : des milliers de produits de soins coréens, du maquillage de marques reconnues, de la mode conceptuelle, des accessoires et des compléments bien-être."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "Page d'accueil de YesStyle en portugais avec une bannière de promotion K-beauty et des produits mis en avant.",
-        "imageCaption": "YesStyle réunit des campagnes promotionnelles, des produits K-beauty et une navigation traduite en portugais.",
+        "imageAlt": "Page d'accueil de YesStyle avec une bannière de promotion K-beauty et des produits mis en avant.",
+        "imageCaption": "YesStyle réunit des campagnes promotionnelles, des produits K-beauty et une navigation traduite.",
         "imageFit": "wide",
         "bullets": [
           "K-Beauty (beauté coréenne) : sérums glass skin, essences, lotions toniques, protections solaires et produits pour la célèbre routine de soins asiatique",
           "Mode coréenne et asiatique : vêtements, chaussures, sacs et accessoires inspirés des tendances urbaines de Séoul et de Tokyo",
           "J-Beauty et bien-être : grandes marques japonaises (comme Hada Labo) et compléments alimentaires"
-        ]
-      },
-      {
-        "heading": "La K-Beauty au Brésil : ce que recherchent les Brésiliennes",
-        "paragraphs": [
-          "La K-beauty (beauté coréenne) est devenue une véritable folie de consommation au Brésil. Ce qui a commencé comme une curiosité de niche portée par les fans de K-pop et de K-dramas s'est imposé comme l'une des tendances les plus fortes des soins de la peau sur le marché brésilien des cosmétiques.",
-          "Acheter sur YesStyle est l'un des moyens les plus sûrs de se procurer de la K-beauty originale, car le site achète directement auprès des marques et propose un portefeuille bien plus large que celui des revendeurs locaux au Brésil."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "Section des régions de YesStyle avec des catégories de beauté japonaise, de beauté chinoise et de beauté d'Asie du Sud-Est.",
-        "imageCaption": "Au-delà de la K-beauty, YesStyle classe aussi ses produits par régions et par tendances asiatiques.",
-        "imageFit": "wide",
-        "bullets": [
-          "Glass skin : peau intensément hydratée, lumineuse et uniforme",
-          "Routine coréenne : accent sur des étapes comme le double nettoyage (double cleansing), les lotions toniques hydratantes et les essences nourrissantes",
-          "Ingrédients reconnus : centella asiatica (apaisante), snail mucin (bave d'escargot pour la régénération), propolis et acide hyaluronique"
         ]
       },
       {
@@ -30537,26 +30459,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Livraison vers le Brésil",
-        "paragraphs": [
-          "YesStyle offre la livraison gratuite à partir d'un montant minimum, qui change selon le pays. Pour le Brésil, le coût de la livraison, le minimum pour la livraison gratuite et les options d'expédition apparaissent au paiement, après le code postal.",
-          "Le délai correspond au temps de préparation de la commande plus le délai du mode d'expédition, au départ de Hong Kong, et il apparaît au paiement. La douane peut ajouter quelques jours, et le délai varie selon la région du Brésil et la période de l'année."
-        ],
-        "bullets": [
-          "Suivi : un code de suivi est fourni pour toutes les commandes, disponible par e-mail et dans votre compte YesStyle",
-          "Livraison finale : assurée par les Correios (la poste brésilienne) ou un transporteur partenaire",
-          "Douane : il est normal que la commande reste quelques jours en « Customs clearance »"
-        ]
-      },
-      {
         "heading": "Taxes et importation : ce qui peut être facturé",
         "paragraphs": [
-          "Les achats internationaux peuvent être soumis à un contrôle douanier au Brésil et entraîner des impôts, des taxes d'importation, des frais administratifs ou d'autres dépenses liées au dédouanement de la commande. C'est pourquoi, en plus de calculer le produit et la livraison, il vaut mieux envisager un éventuel surcoût avant d'acheter.",
+          "Les achats internationaux peuvent être soumis à un contrôle douanier et entraîner des impôts, des taxes d'importation, des frais administratifs ou d'autres dépenses liées au dédouanement de la commande. C'est pourquoi, en plus de calculer le produit et la livraison, il vaut mieux envisager un éventuel surcoût avant d'acheter.",
           "YesStyle indique que les commandes de moins de 1 000 US$ peuvent donner lieu à un remboursement des frais de douane, si vous payez d'abord, conservez le justificatif et en faites la demande dans les 30 jours. Ce remboursement, lorsqu'il est approuvé, est émis sous forme de crédit boutique YesStyle.",
           "Avant d'acheter, consultez la page d'aide officielle de YesStyle sur le remboursement des taxes et frais de douane, car les règles d'importation et les politiques de la boutique peuvent changer."
         ],
         "bullets": [
-          "Conservez le justificatif de paiement de toute taxe douanière payée au Brésil",
+          "Conservez le justificatif de paiement de toute taxe douanière payée",
           "Envoyez la demande de remboursement via le service client de YesStyle dans le délai de 30 jours",
           "Le remboursement n'est pas automatique : il dépend de l'examen et des règles de la politique en vigueur de YesStyle",
           "Les commandes de 1 000 US$ ou plus ne relèvent pas de cette politique de remboursement indiquée par la marque",
@@ -30575,7 +30485,6 @@ export const reviewsData: unknown[] = [
           "Profitez de l'Elite Club : programme de fidélité avec points cumulés : Bronze 5 %, Silver 7 %, Gold 10 %, Platinum 12 %, Diamond 15 %.",
           "N'ignorez pas les produits « Daily Free » : produits offerts pour tout achat au-dessus d'un certain montant.",
           "Lisez les avis (reviews) : photos réelles, commentaires sur la texture, l'odeur et le résultat, informations sur la durée de conservation.",
-          "Comparez avec le prix au Brésil : consultez Beleza na Web, Sephora et les revendeurs de K-beauty avant d'acheter.",
           "Surveillez les saisons : Black Friday (novembre), 11.11 (Fête des célibataires), Noël, Summer Sale (juin/juillet), Back to School (août/septembre).",
           "Utilisez toujours CECILIA010 : ça ne coûte rien, il ajoute jusqu'à 5 % (5 % 1re commande / 2 % suivantes) lorsqu'il est bien appliqué et il soutient le blog."
         ]
@@ -30590,19 +30499,17 @@ export const reviewsData: unknown[] = [
           "Puis-je cumuler CECILIA010 avec le coupon de la promotion du mois ? Oui ! Il se saisit dans le champ « Reward Code », tandis que les coupons vont dans le champ « Coupon Code ». Vous ajoutez ainsi jusqu'à 5 % en plus (5 % sur la première commande et 2 % sur les suivantes) aux coupons promotionnels éligibles confirmés au paiement.",
           "CECILIA010 a-t-il une date de validité ? Il fonctionne tant que le programme d'influenceurs de YesStyle est actif et que le code est vérifié régulièrement.",
           "Est-il sûr d'acheter sur YesStyle ? Oui. C'est une entreprise légitime depuis 2006, présente dans plus de 150 pays et régions, avec des produits authentiques et un chiffrement SSL.",
-          "Combien de temps faut-il pour arriver au Brésil ? Le délai estimé apparaît au paiement, après le code postal. Le temps passé en douane peut ajouter des jours supplémentaires.",
           "Vais-je payer des taxes d'importation ? Cela peut arriver. En cas de frais de douane, consultez la politique officielle de YesStyle : la marque indique une possibilité de remboursement des taxes et frais de douane pour les commandes éligibles de moins de 1 000 US$, sur présentation d'un justificatif de paiement et d'une demande dans le délai, sous forme de crédit boutique.",
           "Quel est le meilleur moyen de paiement ? Carte de crédit internationale (Visa, Mastercard, Amex) ou PayPal. La conversion est faite automatiquement par l'émetteur de la carte.",
           "Les produits sont-ils originaux ? Oui. YesStyle est distributeur agréé des marques. Il achète directement auprès des fabricants ou des distributeurs officiels.",
           "Puis-je retourner des produits ? La politique est limitée pour les achats internationaux. Les produits défectueux ou envoyés par erreur peuvent être retournés. Les produits de K-beauty (soins, maquillage) ne peuvent généralement pas être retournés pour des raisons d'hygiène, sauf s'ils sont scellés.",
           "Qu'est-ce que l'Elite Club ? C'est le programme de fidélité de YesStyle. Plus vous dépensez, plus vous accumulez de points : Bronze 5 %, Silver 7 %, Gold 10 %, Platinum 12 %, Diamond 15 %.",
-          "Le site existe-t-il en portugais ? Oui ! En haut du site, vous pouvez choisir la langue portugaise.",
-          "La livraison gratuite est-elle valable pour tout le Brésil ? Le montant minimum pour la livraison gratuite apparaît au paiement, après le code postal. Le délai peut être plus long pour les régions éloignées.",
-          "Comment suivre ma commande YesStyle ? Après la confirmation de l'expédition, YesStyle envoie un e-mail avec le code de suivi international. Vous pouvez aussi consulter l'historique de vos commandes en vous connectant à votre compte. Le suivi fonctionne via des services comme 17track ou sur le site du transporteur. Le délai estimé apparaît au paiement et peut varier à la douane brésilienne.",
-          "Que faire si ma commande YesStyle est retenue en douane ? Si la commande est bloquée par la Receita Federal (l'administration fiscale brésilienne), vous pouvez être invitée à payer l'impôt d'importation. YesStyle indique que, pour les commandes éligibles de moins de 1 000 US$, il est possible de demander le remboursement des taxes et frais de douane sous forme de crédit boutique, sur présentation du justificatif de paiement et d'une demande au service client dans les 30 jours.",
-          "Les vêtements YesStyle utilisent des tailles asiatiques. Comment choisir la mienne ? Oui, la plupart des vêtements suivent la taille asiatique, qui est généralement plus petite que la taille brésilienne. Consultez toujours le guide des tailles sur la page de chaque produit (généralement en centimètres) et comparez-le à vos mensurations. Nous recommandons de prendre une ou deux tailles au-dessus de d'habitude, surtout pour les pièces ajustées.",
+          "Le site existe-t-il dans d'autres langues ? Oui ! En haut du site, vous pouvez changer la langue.",
+          "Comment suivre ma commande YesStyle ? Après la confirmation de l'expédition, YesStyle envoie un e-mail avec le code de suivi international. Vous pouvez aussi consulter l'historique de vos commandes en vous connectant à votre compte. Le suivi fonctionne via des services comme 17track ou sur le site du transporteur. Le délai estimé apparaît au paiement et peut varier à la douane.",
+          "Que faire si ma commande YesStyle est retenue en douane ? Si la commande est retenue en douane, vous pouvez être invité à payer l'impôt d'importation. YesStyle indique que, pour les commandes éligibles de moins de 1 000 US$, il est possible de demander le remboursement des taxes et frais de douane sous forme de crédit boutique, sur présentation du justificatif de paiement et d'une demande au service client dans les 30 jours.",
+          "Les vêtements YesStyle utilisent des tailles asiatiques. Comment choisir la mienne ? Oui, la plupart des vêtements suivent la taille asiatique. Consultez toujours le guide des tailles sur la page de chaque produit (généralement en centimètres) et comparez-le à vos mensurations. Nous recommandons de prendre une ou deux tailles au-dessus de d'habitude, surtout pour les pièces ajustées.",
           "Quelles sont les marques de K-beauty les plus vendues sur YesStyle ? YesStyle est distributeur agréé de marques reconnues comme COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul et Haruharu. Le site classe les produits par catégories comme les essences, les lotions toniques, les sérums et les protections solaires, ce qui facilite la recherche d'une routine de soins coréenne.",
-          "Puis-je annuler ou modifier une commande YesStyle une fois confirmée ? YesStyle permet d'annuler les commandes qui n'ont pas encore été expédiées (statut « Processing ») directement depuis l'historique des commandes de votre compte. Après l'expédition, il n'est plus possible d'annuler, mais vous pouvez refuser la livraison à son arrivée au Brésil. Les changements d'adresse ou de produits ne sont possibles qu'avant l'expédition, via le service client.",
+          "Puis-je annuler ou modifier une commande YesStyle une fois confirmée ? YesStyle permet d'annuler les commandes qui n'ont pas encore été expédiées (statut « Processing ») directement depuis l'historique des commandes de votre compte. Après l'expédition, il n'est plus possible d'annuler, mais vous pouvez refuser la livraison à son arrivée. Les changements d'adresse ou de produits ne sont possibles qu'avant l'expédition, via le service client.",
           "Code YesStyle pour la première commande : comment utiliser CECILIA010 ? Le code CECILIA010 fonctionne sur n'importe quelle commande et donne jusqu'à 5 % en plus (5 % sur la première commande et 2 % sur les suivantes), cumulable avec les coupons promotionnels éligibles confirmés au paiement.",
           "Code d'influenceuse YesStyle : qu'est-ce que CECILIA010 ? CECILIA010 est un code de récompense d'influenceuse enregistré chez YesStyle. Il accorde jusqu'à 5 % de remise supplémentaire (5 % sur la première commande et 2 % sur les suivantes) au paiement et peut être combiné avec les coupons promotionnels éligibles, contrairement aux codes de première commande, qui ne sont généralement pas cumulables."
         ]
@@ -30633,7 +30540,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010: Reward Code nutzen",
     "type": "Ratgeber & Gutscheine",
     "reviewKind": "guia",
-    "description": "Praktische Anleitung zum Influencer-Code CECILIA010 bei YesStyle. Hier sehen Sie, wo Sie ihn im Checkout eingeben (Reward Code), wie Sie ihn mit aktiven Gutscheinen kombinieren, dazu K-Beauty-Tipps und die Importregeln für Brasilien.",
+    "description": "Praktische Anleitung zum Influencer-Code CECILIA010 bei YesStyle. Hier sehen Sie, wo Sie ihn im Checkout eingeben (Reward Code), wie Sie ihn mit aktiven Gutscheinen kombinieren, dazu K-Beauty-Tipps.",
     "metaDescription": "CECILIA010 bei YesStyle nutzen: Feld Reward Code, bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen), laut Checkout mit berechtigten Aktionsgutscheinen kombinierbar.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
@@ -30649,12 +30556,12 @@ export const reviewsData: unknown[] = [
       "Kostenloser Versand ab einem Mindestbestellwert, der im Checkout angezeigt wird",
       "Großes Sortiment an K-Beauty, koreanischer Mode und J-Beauty",
       "100 % originale Produkte, autorisierter Händler",
-      "Website mit Navigation und Checkout auf Portugiesisch"
+      "Sprachauswahl oben auf der Website"
     ],
     "cons": [
       "Ersetzt die normalen Gutscheine nicht (funktioniert in einem separaten Feld)",
       "Internationale Bestellungen können Zollgebühren verursachen; prüfen Sie die Erstattungsrichtlinie von YesStyle, bevor Sie kaufen",
-      "Internationaler Einkauf: Die Lieferzeit ist länger als bei einem inländischen Shop",
+      "Internationaler Einkauf: Die Lieferzeit ist länger als bei einem lokalen Shop",
       "Endpreise in Dollar angegeben (abhängig von Wechselkursschwankungen)"
     ],
     "contentSections": [
@@ -30715,16 +30622,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Öffnen Sie die offizielle YesStyle-Website",
         "paragraphs": [
-          "Gehen Sie auf die offizielle Website von YesStyle (yesstyle.com). Oben auf der Seite können Sie auf Wunsch Portugiesisch als Sprache auswählen, damit Navigation und Produkte leichter zu lesen sind."
+          "Gehen Sie auf die offizielle Website von YesStyle (yesstyle.com). Oben auf der Seite können Sie auf Wunsch die Sprache wechseln, damit Navigation und Produkte leichter zu lesen sind."
         ]
       },
       {
         "heading": "2. Wählen Sie Ihre Produkte und legen Sie sie in den Warenkorb",
         "paragraphs": [
-          "Stöbere durch die Kategorien K-Beauty, Make-up oder koreanische Mode und legen Sie die gewünschten Artikel in den Warenkorb. Der Mindestbestellwert für kostenlosen Versand nach Brasilien wird im Checkout nach der Eingabe der Postleitzahl angezeigt."
+          "Stöbern Sie durch die Kategorien K-Beauty, Make-up oder koreanische Mode und legen Sie die gewünschten Artikel in den Warenkorb. Der Mindestbestellwert für kostenlosen Versand wird im Checkout nach der Eingabe der Lieferadresse angezeigt."
         ],
         "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
-        "imageAlt": "YesStyle-Warenkorb mit Beauty-Produkten, kostenlosem Versand nach Brasilien und Feld zur Codeeingabe.",
+        "imageAlt": "YesStyle-Warenkorb mit Beauty-Produkten, kostenlosem Versand und Feld zur Codeeingabe.",
         "imageCaption": "Prüfen Sie im Warenkorb Produkte, Versand und das Feld, in dem die Codes angewendet werden, bevor Sie die Bestellung abschließt.",
         "imageFit": "contain"
       },
@@ -30747,7 +30654,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. Prüfen Sie die Rabatte und schließen Sie die Bestellung ab",
         "paragraphs": [
-          "Vergewissern Sie sich, dass beide Rabattstufen (Belohnungscode + Gutschein) auf die Zwischensumme der Bestellung angewendet wurden. Tragen Sie Ihre Lieferdaten für Brasilien ein, wählen Sie die Zahlungsart (Karte oder PayPal) und bestätigen Sie den Kauf.",
+          "Vergewissern Sie sich, dass beide Rabattstufen (Belohnungscode + Gutschein) auf die Zwischensumme der Bestellung angewendet wurden. Tragen Sie Ihre Lieferdaten ein, wählen Sie die Zahlungsart (Karte oder PayPal) und bestätigen Sie den Kauf.",
           "Achten Sie darauf, dass CECILIA010 und der aktive Gutschein jeweils im eigenen Feld stehen: Der Belohnungscode im Gutscheinfeld führt zu einer Fehlermeldung."
         ]
       },
@@ -30786,32 +30693,16 @@ export const reviewsData: unknown[] = [
         "heading": "Was ist YesStyle?",
         "paragraphs": [
           "YesStyle (auch Yes Style geschrieben) ist eine der größten und umfassendsten E-Commerce-Plattformen der Welt für koreanische Mode, K-Beauty, J-Beauty (japanische Beauty) und asiatische Produkte im Allgemeinen. Das 2006 gegründete Unternehmen mit Sitz in Hongkong ist zu einer weltweiten Anlaufstelle für alle geworden, die mit Vertrauen und Authentizität in die Welt der koreanischen Beauty und der östlichen Mode eintauchen wollen.",
-          "YesStyle beliefert Kundinnen und Kunden in mehr als 150 Ländern und Regionen, mit einer ins Portugiesische übersetzten Version und Preisumrechnung, damit die Navigation auf dem brasilianischen Markt leichter fällt. Das Sortiment ist riesig: Tausende Produkte koreanischer Hautpflege, Make-up etablierter Marken, konzeptionelle Mode, Accessoires und Wellness-Supplements."
+          "YesStyle beliefert Kundinnen und Kunden in mehr als 150 Ländern und Regionen, mit Sprachauswahl und Preisumrechnung, damit die Navigation leichter fällt. Das Sortiment ist riesig: Tausende Produkte koreanischer Hautpflege, Make-up etablierter Marken, konzeptionelle Mode, Accessoires und Wellness-Supplements."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "YesStyle-Startseite auf Portugiesisch mit K-Beauty-Aktionsbanner und hervorgehobenen Produkten.",
-        "imageCaption": "YesStyle bündelt Aktionen, K-Beauty-Produkte und eine ins Portugiesische übersetzte Navigation.",
+        "imageAlt": "YesStyle-Startseite mit K-Beauty-Aktionsbanner und hervorgehobenen Produkten.",
+        "imageCaption": "YesStyle bündelt Aktionen, K-Beauty-Produkte und eine übersetzte Navigation.",
         "imageFit": "wide",
         "bullets": [
           "K-Beauty (koreanische Beauty): Glass-Skin-Seren, Essenzen, Toner, Sonnenschutz und Produkte für die berühmte asiatische Pflegeroutine",
           "Koreanische und asiatische Mode: Kleidung, Schuhe, Taschen und Accessoires, inspiriert von den urbanen Trends in Seoul und Tokio",
           "J-Beauty und Wellness: renommierte japanische Marken (wie Hada Labo) und Nahrungsergänzungsmittel"
-        ]
-      },
-      {
-        "heading": "K-Beauty in Brasilien: wonach Brasilianerinnen suchen",
-        "paragraphs": [
-          "K-Beauty (koreanische Beauty) ist in Brasilien zu einem regelrechten Konsumtrend geworden. Was als Nischenneugier von K-Pop- und K-Drama-Fans begann, hat sich zu einem der stärksten Hautpflegetrends auf dem brasilianischen Kosmetikmarkt entwickelt.",
-          "Bei YesStyle zu kaufen ist eine der sichersten Möglichkeiten, originale K-Beauty zu bekommen, denn die Seite kauft direkt bei den Marken ein und hat ein viel größeres Sortiment als die lokalen Händler in Brasilien."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "Bereich „Regionen“ bei YesStyle mit den Kategorien japanische Beauty, chinesische Beauty und südostasiatische Beauty.",
-        "imageCaption": "Neben K-Beauty ordnet YesStyle seine Produkte auch nach Regionen und asiatischen Trends.",
-        "imageFit": "wide",
-        "bullets": [
-          "Glass Skin: intensiv durchfeuchtete, strahlende und ebenmäßige Haut",
-          "Koreanische Routine: Fokus auf Schritte wie Double Cleansing (doppelte Reinigung), feuchtigkeitsspendende Toner und nährende Essenzen",
-          "Bewährte Inhaltsstoffe: Centella asiatica (beruhigend), Snail Mucin (Schneckenschleim zur Regeneration), Propolis und Hyaluronsäure"
         ]
       },
       {
@@ -30830,26 +30721,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Versand und Lieferung nach Brasilien",
-        "paragraphs": [
-          "YesStyle bietet kostenlosen Versand ab einem Mindestbestellwert, der sich je nach Land unterscheidet. Für Brasilien werden Versandkosten, Mindestbestellwert für kostenlosen Versand und Versandoptionen im Checkout nach der Eingabe der Postleitzahl angezeigt.",
-          "Die Lieferzeit ergibt sich aus der Zeit, bis die Bestellung versandfertig ist, plus der Laufzeit der gewählten Versandart ab Hongkong, und wird im Checkout angezeigt. Der Zoll kann einige Tage dazukommen, und die Dauer hängt von der Region in Brasilien und der Jahreszeit ab."
-        ],
-        "bullets": [
-          "Sendungsverfolgung: Für alle Bestellungen gibt es eine Tracking-Nummer, abrufbar in der E-Mail und im YesStyle-Konto",
-          "Zustellung: erfolgt durch die brasilianische Post (Correios) oder einen Partner-Zusteller",
-          "Zoll: Es ist normal, dass die Bestellung einige Tage im Status „Customs clearance“ bleibt"
-        ]
-      },
-      {
         "heading": "Gebühren und Import: was berechnet werden kann",
         "paragraphs": [
-          "Internationale Käufe können in Brasilien einer Zollprüfung unterliegen und Steuern, Einfuhrabgaben, Bearbeitungsgebühren oder andere Kosten für die Freigabe der Bestellung verursachen. Deshalb sollten Sie vor dem Kauf neben Produkt und Versand auch mögliche Zusatzkosten einkalkulieren.",
+          "Internationale Käufe können einer Zollprüfung unterliegen und Steuern, Einfuhrabgaben, Bearbeitungsgebühren oder andere Kosten für die Freigabe der Bestellung verursachen. Deshalb sollten Sie vor dem Kauf neben Produkt und Versand auch mögliche Zusatzkosten einkalkulieren.",
           "YesStyle gibt an, dass bei Bestellungen unter US$ 1.000 Zollgebühren erstattet werden können, wenn Sie zuerst zahlen, den Beleg aufbewahren und die Erstattung innerhalb von 30 Tagen beantragen. Eine bewilligte Erstattung wird als YesStyle-Guthaben (Store Credit) ausgezahlt.",
           "Lies vor dem Kauf die offizielle Hilfeseite von YesStyle zur Erstattung von Steuern und Zollgebühren, denn Importregeln und Shop-Richtlinien können sich ändern."
         ],
         "bullets": [
-          "Bewahre den Zahlungsbeleg für jede in Brasilien gezahlte Zollgebühr auf",
+          "Bewahren Sie den Zahlungsbeleg für jede gezahlte Zollgebühr auf",
           "Sende den Erstattungsantrag innerhalb der 30-Tage-Frist über den YesStyle-Kundenservice",
           "Die Erstattung erfolgt nicht automatisch: Sie hängt von der Prüfung und den aktuell geltenden Richtlinien von YesStyle ab",
           "Bestellungen ab US$ 1.000 fallen nicht unter diese vom Unternehmen genannte Erstattungsrichtlinie",
@@ -30868,7 +30747,6 @@ export const reviewsData: unknown[] = [
           "Nutzen Sie den Elite Club: Treueprogramm mit gesammelten Punkten: Bronze 5 %, Silver 7 %, Gold 10 %, Platinum 12 %, Diamond 15 %.",
           "Übersieh die „Daily Free“-Produkte nicht: kostenlose Produkte ab einem bestimmten Bestellwert.",
           "Lies die Bewertungen (Reviews): echte Fotos, Kommentare zu Textur, Duft und Ergebnis, Hinweise zum Haltbarkeitsdatum.",
-          "Vergleichen Sie mit dem Preis in Brasilien: Schauen Sie vor dem Kauf bei Beleza na Web, Sephora und K-Beauty-Händlern nach.",
           "Behalte die Jahreszeiten im Blick: Black Friday (November), 11.11 (Single's Day), Weihnachten, Summer Sale (Juni/Juli), Back to School (August/September).",
           "Nutzen Sie immer CECILIA010: Es kostet nichts, bringt bis zu 5 % extra (5 % 1. Bestellung / 2 % Folgebestellungen), wenn es richtig angewendet wird, und unterstützt den Blog."
         ]
@@ -30883,19 +30761,17 @@ export const reviewsData: unknown[] = [
           "Kann ich CECILIA010 mit dem Gutschein der Monatsaktion addieren? Ja! Er kommt ins Feld „Reward Code“, die Gutscheine ins Feld „Coupon Code“. So addieren Sie bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen) zu den berechtigten Aktionsgutscheinen, die im Checkout bestätigt werden.",
           "Hat CECILIA010 ein Ablaufdatum? Er funktioniert, solange das Influencer-Programm von YesStyle aktiv ist und der Code regelmäßig geprüft wird.",
           "Ist der Einkauf bei YesStyle sicher? Ja. Seriöses Unternehmen seit 2006, beliefert mehr als 150 Länder und Regionen, originale Produkte, SSL-Verschlüsselung.",
-          "Wie lange dauert die Lieferung nach Brasilien? Die geschätzte Lieferzeit wird im Checkout nach der Eingabe der Postleitzahl angezeigt. Die Zeit beim Zoll kann zusätzliche Tage bringen.",
           "Muss ich Einfuhrabgaben zahlen? Das kann vorkommen. Wenn Zollgebühren anfallen, prüfen Sie die offizielle Richtlinie von YesStyle: Das Unternehmen nennt die Möglichkeit, Steuern und Zollgebühren für berechtigte Bestellungen unter US$ 1.000 erstattet zu bekommen, gegen Beleg und mit Antrag innerhalb der Frist, in Form von Store Credit.",
           "Wie bezahle ich am besten? Internationale Kreditkarte (Visa, Mastercard, Amex) oder PayPal. Die Umrechnung erfolgt automatisch durch den Zahlungsanbieter.",
           "Sind die Produkte original? Ja. YesStyle ist autorisierter Händler der Marken und kauft direkt bei den Herstellern oder offiziellen Distributoren ein.",
           "Kann ich Produkte zurückgeben? Bei internationalen Käufen ist die Richtlinie eingeschränkt. Defekte oder falsch gelieferte Produkte können zurückgegeben werden. K-Beauty-Produkte (Skincare, Make-up) können aus hygienischen Gründen in der Regel nicht zurückgegeben werden, es sei denn, sie sind versiegelt.",
           "Was ist der Elite Club? Das Treueprogramm von YesStyle. Je mehr Sie ausgeben, desto mehr Punkte sammeln Sie: Bronze 5 %, Silver 7 %, Gold 10 %, Platinum 12 %, Diamond 15 %.",
-          "Gibt es die Website auf Portugiesisch? Ja! Oben auf der Seite können Sie Portugiesisch als Sprache auswählen.",
-          "Gilt der kostenlose Versand für ganz Brasilien? Der Mindestbestellwert für kostenlosen Versand wird im Checkout nach der Eingabe der Postleitzahl angezeigt. Für abgelegene Regionen kann die Lieferzeit länger sein.",
-          "Wie verfolge ich meine YesStyle-Bestellung? Nach der Versandbestätigung schickt YesStyle eine E-Mail mit der internationalen Tracking-Nummer. Sie können den Bestellverlauf auch in Ihrem Konto einsehen. Die Verfolgung funktioniert über Dienste wie 17track oder auf der Website des Zustellers. Die geschätzte Lieferzeit wird im Checkout angezeigt und kann sich beim brasilianischen Zoll verändern.",
-          "Was tun, wenn meine YesStyle-Bestellung beim Zoll festgehalten wird? Wenn die Bestellung bei der Receita Federal festgehalten wird, werden Sie eventuell aufgefordert, die Einfuhrsteuer zu zahlen. YesStyle gibt an, dass sich bei berechtigten Bestellungen unter US$ 1.000 die Erstattung von Steuern und Zollgebühren als Store Credit beantragen lässt, gegen Zahlungsbeleg und mit Antrag beim Kundenservice innerhalb von 30 Tagen.",
-          "Die Kleidung von YesStyle hat asiatische Größen. Wie wählen Sie ich meine? Ja, die meiste Kleidung folgt der asiatischen Größennummerierung, die meist kleiner ausfällt als die brasilianische. Sehen Sie sich immer die Maßtabelle auf der Seite jedes Produkts an (meist in Zentimetern) und vergleichen Sie sie mit Ihren Körpermaßen. Wir empfehlen, ein bis zwei Größen größer als üblich zu bestellen, besonders bei enger geschnittenen Teilen.",
+          "Gibt es die Website in anderen Sprachen? Ja! Oben auf der Seite können Sie die Sprache wechseln.",
+          "Wie verfolge ich meine YesStyle-Bestellung? Nach der Versandbestätigung schickt YesStyle eine E-Mail mit der internationalen Tracking-Nummer. Sie können den Bestellverlauf auch in Ihrem Konto einsehen. Die Verfolgung funktioniert über Dienste wie 17track oder auf der Website des Zustellers. Die geschätzte Lieferzeit wird im Checkout angezeigt und kann sich beim Zoll verändern.",
+          "Was tun, wenn meine YesStyle-Bestellung beim Zoll festgehalten wird? Wenn die Bestellung beim Zoll festgehalten wird, werden Sie eventuell aufgefordert, die Einfuhrsteuer zu zahlen. YesStyle gibt an, dass sich bei berechtigten Bestellungen unter US$ 1.000 die Erstattung von Steuern und Zollgebühren als Store Credit beantragen lässt, gegen Zahlungsbeleg und mit Antrag beim Kundenservice innerhalb von 30 Tagen.",
+          "Die Kleidung von YesStyle hat asiatische Größen. Wie wähle ich meine? Ja, die meiste Kleidung folgt der asiatischen Größennummerierung. Sehen Sie sich immer die Maßtabelle auf der Seite jedes Produkts an (meist in Zentimetern) und vergleichen Sie sie mit Ihren Körpermaßen. Wir empfehlen, ein bis zwei Größen größer als üblich zu bestellen, besonders bei enger geschnittenen Teilen.",
           "Welche K-Beauty-Marken verkaufen sich bei YesStyle am besten? YesStyle ist autorisierter Händler etablierter Marken wie COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul und Haruharu. Die Website ordnet die Produkte in Kategorien wie Essenzen, Toner, Seren und Sonnenschutz, was die Suche nach der koreanischen Skincare-Routine erleichtert.",
-          "Kann ich eine Bestellung bei YesStyle nach der Bestätigung stornieren oder ändern? YesStyle erlaubt es, noch nicht versendete Bestellungen (Status 'Processing') direkt im Bestellverlauf Ihres Kontos zu stornieren. Nach dem Versand ist eine Stornierung nicht mehr möglich, aber Sie können die Annahme verweigern, wenn das Paket in Brasilien ankommt. Änderungen an Adresse oder Produkten sind nur vor dem Versand über den Kundenservice möglich.",
+          "Kann ich eine Bestellung bei YesStyle nach der Bestätigung stornieren oder ändern? YesStyle erlaubt es, noch nicht versendete Bestellungen (Status 'Processing') direkt im Bestellverlauf Ihres Kontos zu stornieren. Nach dem Versand ist eine Stornierung nicht mehr möglich, aber Sie können die Annahme verweigern, wenn das Paket ankommt. Änderungen an Adresse oder Produkten sind nur vor dem Versand über den Kundenservice möglich.",
           "YesStyle-Code für die erste Bestellung: wie nutze ich CECILIA010? Der Code CECILIA010 funktioniert bei jedem Einkauf und sichert bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen), kombinierbar mit berechtigten Aktionsgutscheinen, die im Checkout bestätigt werden.",
           "YesStyle-Influencer-Code: was ist CECILIA010? CECILIA010 ist ein bei YesStyle registrierter Influencer-Belohnungscode. Er gewährt im Checkout bis zu 5 % Extra-Rabatt (5 % auf die erste Bestellung und 2 % auf Folgebestellungen) und lässt sich mit berechtigten Aktionsgutscheinen kombinieren, anders als Codes für die erste Bestellung, die meist nicht kumulierbar sind."
         ]
@@ -30926,7 +30802,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)",
     "type": "가이드 & 쿠폰",
     "reviewKind": "guia",
-    "description": "브라질에서 YesStyle 인플루언서 코드 CECILIA010을 사용하는 방법을 단계별로 안내합니다. 결제 화면의 어디에 입력하는지(Reward Code 칸), 사용 가능한 쿠폰과 함께 쓰는 방법, K-Beauty 쇼핑 팁, 브라질 수입 규정까지 정리했습니다.",
+    "description": "YesStyle 인플루언서 코드 CECILIA010을 사용하는 방법을 단계별로 안내합니다. 결제 화면의 어디에 입력하는지(Reward Code 칸), 사용 가능한 쿠폰과 함께 쓰는 방법, K-Beauty 쇼핑 팁을 정리했습니다.",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
     "updatedAt": "2026-10-12",
@@ -30939,12 +30815,12 @@ export const reviewsData: unknown[] = [
       "일정 금액 이상 무료 배송(최소 금액은 결제 화면에 표시)",
       "K-Beauty, 한국 패션, J-Beauty까지 폭넓은 카탈로그",
       "100% 정품, 공식 유통사",
-      "사이트와 결제 화면을 포르투갈어로 이용 가능"
+      "사이트 상단의 언어 선택"
     ],
     "cons": [
       "일반 쿠폰을 대신하지 않음(별도의 칸에 입력)",
       "해외 주문은 관세 등 비용이 붙을 수 있으니 구매 전에 YesStyle의 환불 정책을 확인하세요",
-      "해외 직구라서 국내 쇼핑몰보다 배송 기간이 긺",
+      "해외 직구라서 현지 쇼핑몰보다 배송 기간이 긺",
       "최종 가격은 달러로 표시됨(환율에 따라 달라짐)"
     ],
     "coupon": "CECILIA010",
@@ -31019,16 +30895,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. YesStyle 공식 사이트 접속하기",
         "paragraphs": [
-          "YesStyle 공식 사이트(yesstyle.com)에 접속합니다. 사이트 상단에서 언어를 포르투갈어로 선택하면 탐색과 제품 설명을 읽기가 더 편합니다."
+          "YesStyle 공식 사이트(yesstyle.com)에 접속합니다. 사이트 상단에서 언어를 바꾸면 탐색과 제품 설명을 읽기가 더 편합니다."
         ]
       },
       {
         "heading": "2. 제품을 골라 장바구니에 담기",
         "paragraphs": [
-          "K-Beauty, 메이크업, 한국 패션 등 여러 카테고리를 둘러보고 원하는 상품을 장바구니에 담습니다. 브라질 무료 배송 최소 금액은 우편번호를 입력한 뒤 결제 화면에 나타납니다."
+          "K-Beauty, 메이크업, 한국 패션 등 여러 카테고리를 둘러보고 원하는 상품을 장바구니에 담습니다. 무료 배송 최소 금액은 배송지 주소를 입력한 뒤 결제 화면에 나타납니다."
         ],
         "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
-        "imageAlt": "뷰티 제품, 브라질 무료 배송, 코드 입력 칸이 보이는 YesStyle 장바구니 화면.",
+        "imageAlt": "뷰티 제품, 무료 배송, 코드 입력 칸이 보이는 YesStyle 장바구니 화면.",
         "imageCaption": "장바구니에서 제품과 배송비, 코드를 입력할 칸을 확인한 뒤 결제를 진행하세요.",
         "imageFit": "contain"
       },
@@ -31051,7 +30927,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. 할인을 확인하고 주문 완료하기",
         "paragraphs": [
-          "두 가지 할인(리워드 코드 + 쿠폰)이 주문 소계에 제대로 적용됐는지 확인하세요. 브라질 배송 정보를 입력하고 결제 수단(카드 또는 PayPal)을 선택한 뒤 구매를 확정합니다.",
+          "두 가지 할인(리워드 코드 + 쿠폰)이 주문 소계에 제대로 적용됐는지 확인하세요. 배송 정보를 입력하고 결제 수단(카드 또는 PayPal)을 선택한 뒤 구매를 확정합니다.",
           "CECILIA010과 유효한 쿠폰이 각자의 칸에 들어갔는지 확인하세요. 리워드 코드를 쿠폰 칸에 넣으면 오류가 납니다."
         ]
       },
@@ -31090,32 +30966,16 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle은 어떤 곳인가요?",
         "paragraphs": [
           "YesStyle(Yes Style로도 표기)은 한국 패션, K-beauty, J-beauty(일본 뷰티), 아시아 전반의 제품을 다루는 세계 최대 규모의 종합 이커머스 플랫폼 중 하나입니다. 2006년에 설립되었고 본사는 홍콩에 있으며, 한국 뷰티와 동양 패션을 믿고 정품으로 만나고 싶은 사람들의 세계적인 기준점이 되었습니다.",
-          "YesStyle은 150개가 넘는 국가와 지역의 고객을 대상으로 하며, 포르투갈어 번역 버전과 가격 환산 표시가 있어 브라질에서도 이용하기 편합니다. 카탈로그는 방대해서 한국 스킨케어, 유명 브랜드 메이크업, 트렌디한 패션, 액세서리, 웰니스 보충제까지 수천 가지 제품이 있습니다."
+          "YesStyle은 150개가 넘는 국가와 지역의 고객을 대상으로 하며, 언어 선택과 가격 환산 표시가 있어 이용하기 편합니다. 카탈로그는 방대해서 한국 스킨케어, 유명 브랜드 메이크업, 트렌디한 패션, 액세서리, 웰니스 보충제까지 수천 가지 제품이 있습니다."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "K-beauty 프로모션 배너와 주요 제품이 보이는 포르투갈어 YesStyle 메인 페이지.",
-        "imageCaption": "YesStyle에는 프로모션 캠페인, K-beauty 제품, 포르투갈어로 번역된 탐색 메뉴가 모여 있습니다.",
+        "imageAlt": "K-beauty 프로모션 배너와 주요 제품이 보이는 YesStyle 메인 페이지.",
+        "imageCaption": "YesStyle에는 프로모션 캠페인, K-beauty 제품, 번역된 탐색 메뉴가 모여 있습니다.",
         "imageFit": "wide",
         "bullets": [
           "K-Beauty(한국 뷰티): 글라스 스킨 세럼, 에센스, 토너, 선크림, 유명한 아시아식 스킨케어 루틴을 위한 제품",
           "한국·아시아 패션: 서울과 도쿄의 도시 트렌드에서 영감을 받은 의류, 신발, 가방, 액세서리",
           "J-Beauty와 웰니스: Hada Labo 같은 유명 일본 브랜드와 건강 보충제"
-        ]
-      },
-      {
-        "heading": "브라질의 K-Beauty: 브라질 여성들이 찾는 것",
-        "paragraphs": [
-          "K-beauty(한국 뷰티)는 브라질에서 진짜 소비 열풍이 되었습니다. K-pop과 K-드라마 팬들이 이끈 틈새 관심사로 시작해, 이제는 브라질 화장품 시장에서 가장 강한 스킨케어 트렌드 중 하나로 자리 잡았습니다.",
-          "YesStyle에서 사는 것은 정품 K-beauty를 구매하는 가장 안전한 방법 중 하나입니다. 브랜드에서 직접 매입하며, 브라질의 현지 판매점보다 제품 구성이 훨씬 다양합니다."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "일본 뷰티, 중국 뷰티, 동남아 뷰티 카테고리가 보이는 YesStyle의 지역별 섹션.",
-        "imageCaption": "YesStyle은 K-beauty 외에도 아시아 지역과 트렌드별로 제품을 정리해 둡니다.",
-        "imageFit": "wide",
-        "bullets": [
-          "글라스 스킨: 촉촉하고 윤기 나며 균일한 피부",
-          "한국식 루틴: 더블 클렌징(이중 세안), 보습 토너, 영양 에센스 같은 단계에 중점",
-          "대표 성분: 병풀(센텔라, 진정), 달팽이 점액(스네일 뮤신, 재생), 프로폴리스, 히알루론산"
         ]
       },
       {
@@ -31134,26 +30994,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "브라질 배송과 수령",
-        "paragraphs": [
-          "YesStyle은 국가마다 다른 최소 금액 이상 구매하면 무료 배송을 제공합니다. 브라질의 경우 배송비, 무료 배송 최소 금액, 배송 옵션은 우편번호를 입력한 뒤 결제 화면에 나타납니다.",
-          "배송 기간은 주문이 준비되는 시간에 선택한 배송 방식의 소요 시간을 더한 것이며, 홍콩에서 출발하고 결제 화면에 표시됩니다. 통관에서 며칠이 더 걸릴 수 있고, 브라질의 지역과 시기에 따라 달라집니다."
-        ],
-        "bullets": [
-          "추적: 모든 주문에 추적 번호가 제공되며, 이메일과 YesStyle 계정에서 확인할 수 있습니다",
-          "최종 배송: 우체국(Correios) 또는 제휴 운송사가 담당",
-          "통관: 주문이 며칠 동안 'Customs clearance' 상태인 것은 정상입니다"
-        ]
-      },
-      {
         "heading": "세금과 수입: 부과될 수 있는 비용",
         "paragraphs": [
-          "해외 구매는 브라질에서 세관 심사를 받을 수 있고, 수입세, 수입 수수료, 행정 비용 등 주문 통관과 관련된 비용이 발생할 수 있습니다. 그래서 제품 가격과 배송비를 계산할 때 추가 비용이 들 수 있다는 점도 구매 전에 고려하는 것이 좋습니다.",
+          "해외 구매는 세관 심사를 받을 수 있고, 수입세, 수입 수수료, 행정 비용 등 주문 통관과 관련된 비용이 발생할 수 있습니다. 그래서 제품 가격과 배송비를 계산할 때 추가 비용이 들 수 있다는 점도 구매 전에 고려하는 것이 좋습니다.",
           "YesStyle에 따르면 1,000달러 미만 주문은 먼저 결제하고 영수증을 보관한 뒤 30일 이내에 신청하면 관세를 환급받을 수 있습니다. 승인된 환급은 YesStyle 스토어 크레딧으로 지급됩니다.",
           "구매하기 전에 YesStyle 공식 도움말의 세금·관세 환급 페이지를 확인하세요. 수입 규정과 쇼핑몰 정책은 바뀔 수 있습니다."
         ],
         "bullets": [
-          "브라질에서 낸 관세의 결제 영수증을 보관하세요",
+          "낸 관세의 결제 영수증을 보관하세요",
           "30일 이내에 YesStyle 고객센터로 환급 신청을 보내세요",
           "환급은 자동이 아닙니다. 심사와 YesStyle의 현행 정책에 따라 결정됩니다",
           "1,000달러 이상 주문은 브랜드가 안내한 이 환급 정책의 대상이 아닙니다",
@@ -31172,7 +31020,6 @@ export const reviewsData: unknown[] = [
           "Elite Club 활용하기: 포인트가 쌓이는 멤버십 프로그램으로 Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%입니다.",
           "'Daily Free' 상품도 놓치지 마세요: 일정 금액 이상 구매하면 무료로 받는 상품입니다.",
           "리뷰 읽기: 실제 사진, 텍스처·향·결과에 대한 후기, 유통기한 정보.",
-          "브라질 가격과 비교하기: 구매하기 전에 Beleza na Web, Sephora, K-beauty 판매점에서 가격을 찾아보세요.",
           "시즌을 눈여겨보기: 블랙프라이데이(11월), 11.11(광군제), 크리스마스, Summer Sale(6월/7월), Back to School(8월/9월).",
           "CECILIA010은 항상 사용하기: 비용이 들지 않고, 올바르게 적용하면 최대 5%(첫 구매 5% / 재구매 2%)가 추가되며 블로그를 응원하는 일이기도 합니다."
         ]
@@ -31187,19 +31034,17 @@ export const reviewsData: unknown[] = [
           "CECILIA010을 이달의 프로모션 쿠폰과 함께 쓸 수 있나요? 네! CECILIA010은 'Reward Code' 칸에, 쿠폰은 'Coupon Code' 칸에 입력합니다. 이렇게 결제 화면에서 확인되는 적격 프로모션 쿠폰에 최대 5%(첫 구매 5%, 재구매 2%)를 더할 수 있습니다.",
           "CECILIA010에는 유효 기간이 있나요? YesStyle 인플루언서 프로그램이 활성 상태이고 코드가 정기적으로 확인되는 동안 사용할 수 있습니다.",
           "YesStyle에서 구매해도 안전한가요? 네. 2006년부터 운영된 정식 기업이고, 150개가 넘는 국가와 지역에 서비스하며, 정품을 판매하고 SSL 암호화를 사용합니다.",
-          "브라질까지 얼마나 걸리나요? 예상 배송 기간은 우편번호를 입력한 뒤 결제 화면에 표시됩니다. 통관 때문에 며칠이 더 걸릴 수 있습니다.",
           "수입세를 내야 하나요? 그럴 수 있습니다. 관세가 부과되면 YesStyle 공식 정책을 확인하세요. 1,000달러 미만의 적격 주문은 영수증과 기한 내 신청을 조건으로 세금·관세를 스토어 크레딧으로 환급받을 수 있다고 안내하고 있습니다.",
           "가장 좋은 결제 방법은 무엇인가요? 국제 신용카드(Visa, Mastercard, Amex) 또는 PayPal입니다. 환전은 카드사가 자동으로 처리합니다.",
           "제품은 정품인가요? 네. YesStyle은 각 브랜드의 공식 유통사로, 제조사나 공식 유통사에서 직접 매입합니다.",
           "제품을 반품할 수 있나요? 해외 구매는 반품 조건이 제한적입니다. 불량품이나 오배송 제품은 반품할 수 있습니다. K-beauty 제품(스킨케어, 메이크업)은 위생상의 이유로 밀봉된 경우가 아니면 보통 반품할 수 없습니다.",
           "Elite Club이 무엇인가요? YesStyle의 멤버십 프로그램입니다. 많이 쓸수록 포인트가 쌓입니다: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
-          "사이트에 포르투갈어 버전이 있나요? 네! 사이트 상단에서 언어를 포르투갈어로 바꿀 수 있습니다.",
-          "무료 배송은 브라질 전역에서 되나요? 무료 배송 최소 금액은 우편번호를 입력한 뒤 결제 화면에 나타납니다. 먼 지역은 배송 기간이 더 길 수 있습니다.",
-          "YesStyle 주문은 어떻게 추적하나요? 발송이 확정되면 YesStyle이 국제 추적 번호가 담긴 이메일을 보냅니다. 로그인한 계정의 주문 내역에서도 확인할 수 있습니다. 추적은 17track 같은 서비스나 운송사 사이트에서 가능합니다. 예상 배송 기간은 결제 화면에 표시되며 브라질 통관 과정에서 달라질 수 있습니다.",
-          "YesStyle 주문이 세관에 잡혀 있으면 어떻게 하나요? 주문이 브라질 연방세무청(Receita Federal)에서 멈추면 수입세 납부 안내를 받을 수 있습니다. YesStyle에 따르면 1,000달러 미만의 적격 주문은 결제 영수증과 함께 30일 이내에 고객센터에 신청하면 세금·관세를 스토어 크레딧으로 환급받을 수 있습니다.",
-          "YesStyle 옷은 아시아 사이즈를 씁니다. 내 사이즈는 어떻게 고르나요? 네, 대부분의 옷은 아시아 사이즈 기준이며 브라질 사이즈보다 작은 편입니다. 각 제품 페이지의 사이즈표(보통 센티미터 단위)를 꼭 확인하고 본인의 신체 치수와 비교하세요. 특히 몸에 붙는 옷은 평소보다 한두 사이즈 큰 것을 주문하길 권합니다.",
+          "사이트에서 다른 언어도 지원하나요? 네! 사이트 상단에서 언어를 바꿀 수 있습니다.",
+          "YesStyle 주문은 어떻게 추적하나요? 발송이 확정되면 YesStyle이 국제 추적 번호가 담긴 이메일을 보냅니다. 로그인한 계정의 주문 내역에서도 확인할 수 있습니다. 추적은 17track 같은 서비스나 운송사 사이트에서 가능합니다. 예상 배송 기간은 결제 화면에 표시되며 세관 통과 과정에서 달라질 수 있습니다.",
+          "YesStyle 주문이 세관에 잡혀 있으면 어떻게 하나요? 주문이 세관에서 멈추면 수입세 납부 안내를 받을 수 있습니다. YesStyle에 따르면 1,000달러 미만의 적격 주문은 결제 영수증과 함께 30일 이내에 고객센터에 신청하면 세금·관세를 스토어 크레딧으로 환급받을 수 있습니다.",
+          "YesStyle 옷은 아시아 사이즈를 씁니다. 내 사이즈는 어떻게 고르나요? 네, 대부분의 옷은 아시아 사이즈 기준입니다. 각 제품 페이지의 사이즈표(보통 센티미터 단위)를 꼭 확인하고 본인의 신체 치수와 비교하세요. 특히 몸에 붙는 옷은 평소보다 한두 사이즈 큰 것을 주문하길 권합니다.",
           "YesStyle에서 가장 많이 팔리는 K-beauty 브랜드는 무엇인가요? YesStyle은 COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul, Haruharu 같은 유명 브랜드의 공식 유통사입니다. 사이트는 에센스, 토너, 세럼, 선크림 같은 카테고리로 제품을 정리해 두어 한국식 스킨케어 루틴을 찾기 쉽습니다.",
-          "YesStyle에서 확정한 주문을 취소하거나 변경할 수 있나요? 아직 발송되지 않은 주문(상태 'Processing')은 계정의 주문 내역에서 직접 취소할 수 있습니다. 발송 후에는 취소할 수 없지만 브라질에 도착했을 때 수령을 거부할 수 있습니다. 주소나 제품 변경은 발송 전에만 가능하며 고객센터를 통해 해야 합니다.",
+          "YesStyle에서 확정한 주문을 취소하거나 변경할 수 있나요? 아직 발송되지 않은 주문(상태 'Processing')은 계정의 주문 내역에서 직접 취소할 수 있습니다. 발송 후에는 취소할 수 없지만 도착했을 때 수령을 거부할 수 있습니다. 주소나 제품 변경은 발송 전에만 가능하며 고객센터를 통해 해야 합니다.",
           "YesStyle 첫 구매 코드: CECILIA010은 어떻게 쓰나요? CECILIA010은 어떤 주문에서든 사용할 수 있고, 최대 5%(첫 구매 5%, 재구매 2%)를 추가로 받으며, 결제 화면에서 확인되는 적격 프로모션 쿠폰과 함께 쓸 수 있습니다.",
           "YesStyle 인플루언서 코드: CECILIA010은 무엇인가요? CECILIA010은 YesStyle에 등록된 인플루언서 리워드 코드입니다. 결제 시 최대 5%(첫 구매 5%, 재구매 2%)의 추가 할인을 주며 적격 프로모션 쿠폰과 함께 쓸 수 있습니다. 보통은 중복 사용이 안 되는 첫 구매 코드와는 다릅니다."
         ]
@@ -31219,7 +31064,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）",
     "type": "ガイド＆クーポン",
     "reviewKind": "guia",
-    "description": "ブラジルからYesStyleでインフルエンサーコードCECILIA010を使う手順を、順を追って紹介します。チェックアウトのどこに入力するか(Reward Code欄)、有効なクーポンとの併用方法、K-Beautyの買い方のコツ、ブラジルへの輸入ルールまでまとめました。",
+    "description": "YesStyleでインフルエンサーコードCECILIA010を使う手順を、順を追って紹介します。チェックアウトのどこに入力するか(Reward Code欄)、有効なクーポンとの併用方法、K-Beautyの買い方のコツをまとめました。",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
     "updatedAt": "2026-10-12",
@@ -31232,12 +31077,12 @@ export const reviewsData: unknown[] = [
       "一定額以上で送料無料(最低金額はチェックアウトに表示)",
       "K-Beauty、韓国ファッション、J-Beautyの豊富なラインナップ",
       "100%正規品、公認ディストリビューター",
-      "サイトもチェックアウトもポルトガル語で利用できる"
+      "サイト上部の言語切り替え"
     ],
     "cons": [
       "通常のクーポンの代わりにはならない(別の欄に入力します)",
       "海外からの注文には関税などがかかる場合があります。購入前にYesStyleの返金ポリシーを確認してください",
-      "海外通販なので、国内ショップより届くまでに時間がかかる",
+      "海外通販なので、地元のショップより届くまでに時間がかかる",
       "最終価格はドル表示(為替レートによって変動します)"
     ],
     "coupon": "CECILIA010",
@@ -31312,16 +31157,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. YesStyleの公式サイトを開く",
         "paragraphs": [
-          "YesStyleの公式サイト(yesstyle.com)を開きます。サイト上部で言語をポルトガル語にしておくと、操作も商品説明も読みやすくなります。"
+          "YesStyleの公式サイト(yesstyle.com)を開きます。サイト上部で言語を切り替えると、操作も商品説明も読みやすくなります。"
         ]
       },
       {
         "heading": "2. 商品を選んでカートに入れる",
         "paragraphs": [
-          "K-Beauty、メイクアップ、韓国ファッションなどのカテゴリーを見て、欲しい商品をカートに入れます。ブラジル向けの送料無料の最低金額は、郵便番号を入力したあとのチェックアウトに表示されます。"
+          "K-Beauty、メイクアップ、韓国ファッションなどのカテゴリーを見て、欲しい商品をカートに入れます。送料無料の最低金額は、配送先の住所を入力したあとのチェックアウトに表示されます。"
         ],
         "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
-        "imageAlt": "YesStyleのカート画面。美容商品、ブラジル向け送料無料、コード入力欄が表示されている。",
+        "imageAlt": "YesStyleのカート画面。美容商品、送料無料、コード入力欄が表示されている。",
         "imageCaption": "カートで商品と送料、コードを入力する欄を確認してから、注文に進みます。",
         "imageFit": "contain"
       },
@@ -31344,7 +31189,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. 割引を確認して注文を確定する",
         "paragraphs": [
-          "2種類の割引(リワードコードとクーポン)が注文の小計に反映されていることを確認します。ブラジルの配送先を入力し、支払い方法(カードまたはPayPal)を選んで購入を確定してください。",
+          "2種類の割引(リワードコードとクーポン)が注文の小計に反映されていることを確認します。配送先を入力し、支払い方法(カードまたはPayPal)を選んで購入を確定してください。",
           "CECILIA010と有効なクーポンが、それぞれの欄に入っているか確認しましょう。リワードコードをクーポン欄に入れるとエラーになります。"
         ]
       },
@@ -31383,32 +31228,16 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyleとは?",
         "paragraphs": [
           "YesStyle(Yes Styleと表記されることもあります)は、韓国ファッション、K-beauty、J-beauty(日本の美容)、アジアの商品全般を扱う、世界最大級で品ぞろえの充実したECサイトのひとつです。2006年に創業し、本社は香港。韓国美容やアジアのファッションを、安心して本物で楽しみたい人の世界的な拠点になっています。",
-          "YesStyleは150を超える国と地域のお客様に対応しており、ポルトガル語版や価格の換算表示もあって、ブラジルでも使いやすくなっています。カタログは膨大で、韓国スキンケア、人気ブランドのメイクアップ、トレンドファッション、アクセサリー、ウェルネスのサプリメントが数千点そろっています。"
+          "YesStyleは150を超える国と地域のお客様に対応しており、言語切り替えや価格の換算表示もあります。カタログは膨大で、韓国スキンケア、人気ブランドのメイクアップ、トレンドファッション、アクセサリー、ウェルネスのサプリメントが数千点そろっています。"
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "ポルトガル語版のYesStyleトップページ。K-beautyのセールバナーとおすすめ商品が表示されている。",
-        "imageCaption": "YesStyleには、セール、K-beauty商品、ポルトガル語に翻訳されたナビゲーションがそろっています。",
+        "imageAlt": "YesStyleのトップページ。K-beautyのセールバナーとおすすめ商品が表示されている。",
+        "imageCaption": "YesStyleには、セール、K-beauty商品、翻訳されたナビゲーションがそろっています。",
         "imageFit": "wide",
         "bullets": [
           "K-Beauty(韓国美容)：グラススキン用の美容液、エッセンス、トナー、日焼け止め、有名なアジア式スキンケアのためのアイテム",
           "韓国・アジアのファッション：ソウルや東京のストリートトレンドに着想を得た服、靴、バッグ、アクセサリー",
           "J-Beautyとウェルネス：Hada Laboなどの有名な日本ブランドと、栄養補助食品"
-        ]
-      },
-      {
-        "heading": "K-Beautyとブラジル：ブラジルの女性が探しているもの",
-        "paragraphs": [
-          "K-beauty(韓国美容)はブラジルで大ブームになりました。K-popやKドラマのファンが火をつけた一部のニッチな関心から、ブラジルのコスメ市場で最も勢いのあるスキンケアトレンドのひとつへと定着しました。",
-          "YesStyleは、本物のK-beautyを買うのに最も安心な方法のひとつです。ブランドから直接仕入れていて、ブラジル国内の販売店よりずっと品ぞろえが豊富です。"
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "YesStyleのリージョン別セクション。日本の美容、中国の美容、東南アジアの美容のカテゴリーが並んでいる。",
-        "imageCaption": "YesStyleでは、K-beautyだけでなく、アジアの地域やトレンドごとにも商品が整理されています。",
-        "imageFit": "wide",
-        "bullets": [
-          "グラススキン：たっぷり潤って、ツヤがあり、均一な肌",
-          "韓国式ルーティン：ダブルクレンジング(二度洗い)、保湿トナー、栄養たっぷりのエッセンスなどのステップを重視",
-          "定番の成分：シカ(ツボクサ、鎮静)、スネイルムチン(カタツムリ粘液、再生)、プロポリス、ヒアルロン酸"
         ]
       },
       {
@@ -31427,26 +31256,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "ブラジルへの送料と配送",
-        "paragraphs": [
-          "YesStyleには、国ごとに異なる最低金額以上で送料無料になる制度があります。ブラジルの場合、送料、送料無料の最低金額、配送オプションは、郵便番号を入力したあとのチェックアウトに表示されます。",
-          "お届けまでの期間は、注文の準備にかかる時間に、選んだ配送方法の日数を加えたもので、香港から発送され、チェックアウトに表示されます。税関で数日かかることもあり、ブラジルの地域や時期によっても変わります。"
-        ],
-        "bullets": [
-          "追跡：すべての注文に追跡番号が発行され、メールとYesStyleのアカウントで確認できます",
-          "最終配達：Correios(ブラジル郵便)または提携の配送業者",
-          "税関：注文が数日「Customs clearance」のままになるのは普通のことです"
-        ]
-      },
-      {
         "heading": "関税と輸入：請求される可能性があるもの",
         "paragraphs": [
-          "海外からの購入は、ブラジルで税関の審査を受けることがあり、輸入税、輸入手数料、事務手数料、その他の通関に関わる費用がかかる場合があります。そのため、商品代金と送料の計算に加えて、追加費用がかかる可能性も購入前に考えておきましょう。",
+          "海外からの購入は、税関の審査を受けることがあり、輸入税、輸入手数料、事務手数料、その他の通関に関わる費用がかかる場合があります。そのため、商品代金と送料の計算に加えて、追加費用がかかる可能性も購入前に考えておきましょう。",
           "YesStyleによると、1,000米ドル未満の注文は、先に支払って領収書を保管し、30日以内に申請すれば、関税の返金を受けられる場合があります。承認された返金は、YesStyleストアクレジットで支払われます。",
           "購入前に、YesStyle公式の関税・税金の返金に関するヘルプページを確認してください。輸入のルールやショップのポリシーは変わることがあります。"
         ],
         "bullets": [
-          "ブラジルで支払った関税の領収書は保管しておく",
+          "支払った関税の領収書は保管しておく",
           "返金の申請は、30日以内にYesStyleのカスタマーサポートへ送る",
           "返金は自動ではありません。審査とYesStyleのそのときのポリシーによって決まります",
           "1,000米ドル以上の注文は、ブランドが案内するこの返金ポリシーの対象外です",
@@ -31465,7 +31282,6 @@ export const reviewsData: unknown[] = [
           "Elite Clubを活用：ポイントがたまるロイヤルティプログラムで、Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%です。",
           "「Daily Free」の商品も見逃さない：一定額以上の購入で無料でもらえる商品です。",
           "レビューを読む：実際の写真、テクスチャー、香り、使用感のコメント、使用期限の情報。",
-          "ブラジルでの価格と比べる：購入前に、Beleza na Web、Sephora、K-beautyの販売店で調べましょう。",
           "季節のセールをチェック：ブラックフライデー(11月)、11.11(独身の日)、クリスマス、Summer Sale(6月/7月)、Back to School(8月/9月)。",
           "CECILIA010はいつも使う：無料で、正しく入力すれば最大5%(初回購入5% / リピーター2%)が追加され、ブログの応援にもなります。"
         ]
@@ -31480,19 +31296,17 @@ export const reviewsData: unknown[] = [
           "CECILIA010は月のプロモーションクーポンと併用できますか？はい！CECILIA010は「Reward Code」欄、クーポンは「Coupon Code」欄に入力します。こうして、チェックアウトで確認できた対象のプロモーションクーポンに、最大5%(初回購入5%、2回目以降の購入2%)を上乗せできます。",
           "CECILIA010に有効期限はありますか？YesStyleのインフルエンサープログラムが続き、コードが定期的に確認されているかぎり使えます。",
           "YesStyleで買い物しても安全ですか？はい。2006年創業の正規の企業で、150を超える国と地域に対応し、商品は正規品、通信はSSLで暗号化されています。",
-          "ブラジルに届くまでどのくらいかかりますか？お届け予定は、郵便番号を入力したあとのチェックアウトに表示されます。税関で日数が追加されることがあります。",
           "輸入税はかかりますか？かかる場合があります。関税が請求されたときは、YesStyle公式のポリシーを確認してください。1,000米ドル未満の対象注文については、領収書の提出と期限内の申請により、関税などの返金がストアクレジットで受けられる可能性があると案内されています。",
           "支払い方法は何がおすすめですか？国際ブランドのクレジットカード(Visa、Mastercard、Amex)またはPayPalです。通貨の換算はカード会社が自動で行います。",
           "商品は正規品ですか？はい。YesStyleは各ブランドの公認ディストリビューターで、メーカーや公式ディストリビューターから直接仕入れています。",
           "返品はできますか？海外からの購入では返品の条件が限られます。不良品や誤配送は返品できます。K-beauty商品(スキンケア、メイクアップ)は、衛生上の理由から、未開封でないかぎり通常は返品できません。",
           "Elite Clubとは何ですか？YesStyleのロイヤルティプログラムです。利用額が増えるほどポイントがたまります：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
-          "サイトにポルトガル語版はありますか？はい！サイト上部で言語をポルトガル語に切り替えられます。",
-          "送料無料はブラジル全域で使えますか？送料無料の最低金額は、郵便番号を入力したあとのチェックアウトに表示されます。遠い地域では、お届けまでの期間が長くなることがあります。",
-          "YesStyleの注文を追跡するにはどうしますか？発送が確定すると、YesStyleから国際追跡番号がメールで届きます。ログインしたアカウントの注文履歴からも確認できます。追跡は17trackなどのサービスや、配送業者のサイトでできます。お届け予定はチェックアウトに表示され、ブラジルの税関で変わることがあります。",
-          "YesStyleの注文が税関で止まったらどうすればいいですか？注文がブラジル連邦収税局(Receita Federal)で止まると、輸入税の支払いを求められることがあります。YesStyleによると、1,000米ドル未満の対象注文は、支払いの領収書を添えて30日以内にカスタマーサポートへ申請すれば、関税などの返金をストアクレジットで受けられます。",
-          "YesStyleの服はアジアのサイズです。自分のサイズはどう選べばいいですか？はい、ほとんどの服はアジアのサイズ表記で、ブラジルのサイズより小さめなのが一般的です。各商品ページにある(たいていセンチ表記の)サイズ表を必ず確認し、自分の体の寸法と比べてください。特にフィット感のあるアイテムは、普段より1〜2サイズ大きいものをおすすめします。",
+          "サイトは他の言語にも対応していますか？はい！サイト上部で言語を切り替えられます。",
+          "YesStyleの注文を追跡するにはどうしますか？発送が確定すると、YesStyleから国際追跡番号がメールで届きます。ログインしたアカウントの注文履歴からも確認できます。追跡は17trackなどのサービスや、配送業者のサイトでできます。お届け予定はチェックアウトに表示され、税関で変わることがあります。",
+          "YesStyleの注文が税関で止まったらどうすればいいですか？注文が税関で止まると、輸入税の支払いを求められることがあります。YesStyleによると、1,000米ドル未満の対象注文は、支払いの領収書を添えて30日以内にカスタマーサポートへ申請すれば、関税などの返金をストアクレジットで受けられます。",
+          "YesStyleの服はアジアのサイズです。自分のサイズはどう選べばいいですか？はい、ほとんどの服はアジアのサイズ表記です。各商品ページにある(たいていセンチ表記の)サイズ表を必ず確認し、自分の体の寸法と比べてください。特にフィット感のあるアイテムは、普段より1〜2サイズ大きいものをおすすめします。",
           "YesStyleで人気のK-beautyブランドは何ですか？YesStyleは、COSRX、Beauty of Joseon、Some By Mi、Etude House、Innisfree、Laneige、Pyunkang Yul、Haruharuなどの有名ブランドの公認ディストリビューターです。サイトはエッセンス、トナー、美容液、日焼け止めなどのカテゴリーで整理されていて、韓国式スキンケアのルーティンを探しやすくなっています。",
-          "YesStyleで確定した注文をキャンセルしたり変更したりできますか？まだ発送されていない注文(ステータスが「Processing」)は、アカウントの注文履歴から直接キャンセルできます。発送後はキャンセルできませんが、ブラジルに届いたときに受け取りを拒否できます。住所や商品の変更ができるのは発送前だけで、カスタマーサポートを通して行います。",
+          "YesStyleで確定した注文をキャンセルしたり変更したりできますか？まだ発送されていない注文(ステータスが「Processing」)は、アカウントの注文履歴から直接キャンセルできます。発送後はキャンセルできませんが、届いたときに受け取りを拒否できます。住所や商品の変更ができるのは発送前だけで、カスタマーサポートを通して行います。",
           "YesStyleの初回購入向けコード：CECILIA010はどう使いますか？CECILIA010はどの注文でも使えて、最大5%(初回購入5%、2回目以降の購入2%)が追加されます。チェックアウトで確認できた対象のプロモーションクーポンと併用できます。",
           "YesStyleのインフルエンサーコード：CECILIA010とは何ですか？CECILIA010は、YesStyleに登録されたインフルエンサー向けのリワードコードです。チェックアウトで最大5%(初回購入5%、2回目以降の購入2%)の追加割引が受けられ、対象のプロモーションクーポンと併用できます。多くの場合は併用できない初回購入コードとは違います。"
         ]
@@ -31512,7 +31326,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)",
     "type": "指南與優惠碼",
     "reviewKind": "guia",
-    "description": "這份實用指南教你在 YesStyle 使用網紅代碼 CECILIA010：結帳頁要在哪裡輸入（Reward Code 欄位）、如何與現有優惠券疊加，另附韓系美妝購物小撇步和寄往巴西的進口規定。",
+    "description": "這份實用指南教你在 YesStyle 使用網紅代碼 CECILIA010：結帳頁要在哪裡輸入（Reward Code 欄位）、如何與現有優惠券疊加，另附韓系美妝購物小撇步。",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
     "updatedAt": "2026-10-12",
@@ -31525,7 +31339,7 @@ export const reviewsData: unknown[] = [
       "滿一定金額即享免運費，門檻會顯示在結帳頁",
       "商品豐富：韓系美妝、韓國服飾與日系美妝",
       "商品 100% 正品，為授權經銷商",
-      "網站瀏覽與結帳都有葡萄牙文版本"
+      "網站頂端可切換語言"
     ],
     "cons": [
       "無法取代一般優惠券（要填在另一個欄位）",
@@ -31605,16 +31419,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. 前往 YesStyle 官方網站",
         "paragraphs": [
-          "進入 YesStyle 官方網站（yesstyle.com）。需要的話，可在網站頂端選擇葡萄牙文，方便瀏覽與閱讀商品資訊。"
+          "進入 YesStyle 官方網站（yesstyle.com）。需要的話，可在網站頂端切換語言，方便瀏覽與閱讀商品資訊。"
         ]
       },
       {
         "heading": "2. 挑選商品並加入購物車",
         "paragraphs": [
-          "瀏覽韓系美妝、彩妝或韓國服飾等各個分類，把想要的商品加入購物車。寄往巴西的免運費最低金額，會在填寫郵遞區號後顯示於結帳頁。"
+          "瀏覽韓系美妝、彩妝或韓國服飾等各個分類，把想要的商品加入購物車。免運費的最低金額，會在填寫收件地址後顯示於結帳頁。"
         ],
         "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
-        "imageAlt": "YesStyle 購物車頁面：美妝商品、寄往巴西免運費，以及輸入代碼的欄位。",
+        "imageAlt": "YesStyle 購物車頁面：美妝商品、免運費，以及輸入代碼的欄位。",
         "imageCaption": "結帳前，請在購物車內核對商品、運費以及要填寫代碼的欄位。",
         "imageFit": "contain"
       },
@@ -31637,7 +31451,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. 核對折扣並完成訂單",
         "paragraphs": [
-          "確認兩層折扣（獎勵碼 + 優惠券）都已成功計入訂單小計。填寫寄往巴西的收件資料，選擇付款方式（信用卡或 PayPal），然後確認購買。",
+          "確認兩層折扣（獎勵碼 + 優惠券）都已成功計入訂單小計。填寫收件資料，選擇付款方式（信用卡或 PayPal），然後確認購買。",
           "請核對 CECILIA010 和有效優惠券是否各在各的欄位：把獎勵碼填進優惠券欄位會出現錯誤。"
         ]
       },
@@ -31676,32 +31490,16 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle 是什麼？",
         "paragraphs": [
           "YesStyle（也寫作 Yes Style）是全球規模最大、品項最齊全的電商平台之一，專注於韓國服飾、韓系美妝、日系美妝（J-beauty）及各類亞洲商品。公司成立於 2006 年，總部位於香港，已成為想安心購買正宗韓系美妝和亞洲時尚的消費者的全球首選之一。",
-          "YesStyle 服務 150 多個國家和地區的客戶，提供葡萄牙文版本，並會換算價格，方便巴西市場的使用者瀏覽。商品庫極為龐大：數以千計的韓式保養品、知名品牌彩妝、潮流服飾、配件和保健補充品。"
+          "YesStyle 服務 150 多個國家和地區的客戶，提供語言切換，並會換算價格，方便使用者瀏覽。商品庫極為龐大：數以千計的韓式保養品、知名品牌彩妝、潮流服飾、配件和保健補充品。"
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "YesStyle 葡萄牙文首頁：韓系美妝促銷橫幅和精選商品。",
-        "imageCaption": "YesStyle 匯集了各類促銷活動、韓系美妝商品，並提供葡萄牙文的站內導覽。",
+        "imageAlt": "YesStyle 首頁：韓系美妝促銷橫幅和精選商品。",
+        "imageCaption": "YesStyle 匯集了各類促銷活動、韓系美妝商品，並提供翻譯後的站內導覽。",
         "imageFit": "wide",
         "bullets": [
           "韓系美妝（K-Beauty）：玻璃肌精華、精華液、化妝水、防曬乳，以及亞洲知名保養流程所需的各類產品",
           "韓國與亞洲服飾：受首爾與東京街頭潮流啟發的衣服、鞋子、包包和配件",
           "日系美妝與保健：知名日本品牌（如 Hada Labo）和營養補充品"
-        ]
-      },
-      {
-        "heading": "韓系美妝在巴西：巴西女性在找什麼",
-        "paragraphs": [
-          "韓系美妝（K-beauty）在巴西已經成為一股真正的消費熱潮。它最初只是韓流歌迷和韓劇迷帶動的小眾好奇，如今已成為巴西化妝品市場中最強勁的保養趨勢之一。",
-          "在 YesStyle 購買是入手正品韓系美妝最安全的方式之一，因為網站直接向品牌採購，商品種類也比巴西當地的經銷商豐富得多。"
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "YesStyle 的地區專區：日系美妝、中系美妝和東南亞美妝分類。",
-        "imageCaption": "除了韓系美妝，YesStyle 還依地區和亞洲潮流整理商品。",
-        "imageFit": "wide",
-        "bullets": [
-          "玻璃肌（Glass skin）：深層保濕、有光澤且均勻的肌膚",
-          "韓式保養流程：重視雙重清潔、保濕化妝水和滋養精華等步驟",
-          "知名成分：積雪草（舒緩）、蝸牛黏液（snail mucin，修護）、蜂膠和玻尿酸"
         ]
       },
       {
@@ -31720,26 +31518,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "寄往巴西的運費與配送",
-        "paragraphs": [
-          "YesStyle 滿一定金額免運費，門檻依國家而異。寄往巴西的運費、免運費最低金額和配送選項，會在填寫郵遞區號後顯示於結帳頁。",
-          "送達時間等於訂單備貨時間加上所選配送方式的時效，從香港出貨，並會顯示在結帳頁。通關可能多花幾天，時效也會隨巴西地區和時間而不同。"
-        ],
-        "bullets": [
-          "物流追蹤：所有訂單都會提供追蹤碼，可在電子郵件和 YesStyle 帳號中查看",
-          "末端派送：由巴西郵政（Correios）或合作物流公司完成",
-          "通關：訂單在「Customs clearance」狀態停留幾天是正常的"
-        ]
-      },
-      {
         "heading": "關稅與進口：可能被收取哪些費用",
         "paragraphs": [
-          "跨境訂單在巴西可能要接受海關檢查，並可能產生稅款、進口關稅、行政費用或其他與訂單放行相關的支出。因此，除了計算商品和運費，下單前也建議把可能的額外費用考慮進去。",
+          "跨境訂單可能要接受海關檢查，並可能產生稅款、進口關稅、行政費用或其他與訂單放行相關的支出。因此，除了計算商品和運費，下單前也建議把可能的額外費用考慮進去。",
           "YesStyle 表示，1,000 美元以下的訂單，如果你先付款、保留收據，並在 30 天內申請，可能可以退還關稅。退款一旦核准，會以 YesStyle 商店點數（Store Credit）發放。",
           "下單前請查看 YesStyle 官方的關稅退款說明頁面，因為進口規定和商店政策可能會變動。"
         ],
         "bullets": [
-          "保留在巴西繳納任何關稅的付款憑證",
+          "保留繳納任何關稅的付款憑證",
           "在 30 天內透過 YesStyle 客服提出退款申請",
           "退款不是自動的：取決於審核結果和 YesStyle 目前的政策規定",
           "訂單金額達 1,000 美元或以上，不適用該品牌說明的這項退款政策",
@@ -31758,7 +31544,6 @@ export const reviewsData: unknown[] = [
           "用好 Elite Club：點數累積的會員計畫：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
           "別錯過「Daily Free」商品：消費滿一定金額即可獲贈免費商品。",
           "多看評價（reviews）：真實照片、對質地、氣味和效果的評論，以及有效期限資訊。",
-          "和巴西的價格比一比：下單前先到 Beleza na Web、Sephora 和韓系美妝經銷商那裡查一下價格。",
           "留意促銷季：黑色星期五（11 月）、11.11（單身節）、聖誕節、Summer Sale（6/7 月）、Back to School（8/9 月）。",
           "一律使用 CECILIA010：不用花一毛錢，正確套用後可額外享高達 5% 優惠（首購 5% / 回購 2%），還能支持這個部落格。"
         ]
@@ -31773,19 +31558,17 @@ export const reviewsData: unknown[] = [
           "CECILIA010 可以和當月的促銷優惠券疊加嗎？可以！它填在「Reward Code」欄位，優惠券填在「Coupon Code」欄位。這樣就能在結帳頁確認符合資格的促銷優惠券之上，再額外享高達 5% 優惠（首購 5%，回購 2%）。",
           "CECILIA010 有有效期限嗎？只要 YesStyle 的網紅計畫仍在進行，並且代碼經過定期確認，它就有效。",
           "在 YesStyle 購物安全嗎？安全。這是一家 2006 年起營運的正規公司，服務 150 多個國家和地區，商品為正品，並採用 SSL 加密。",
-          "寄到巴西要多久？預計時間會在填寫郵遞區號後顯示於結帳頁。通關可能多花幾天。",
           "我要繳納進口關稅嗎？有可能。如果被收取關稅，請查看 YesStyle 的官方政策：品牌表示，1,000 美元以下的符合資格訂單，憑付款憑證並在期限內申請，可退還稅款和關稅，以商店點數形式發放。",
           "最好用什麼方式付款？國際信用卡（Visa、Mastercard、Amex）或 PayPal。匯率由發卡機構自動換算。",
           "商品是正品嗎？是的。YesStyle 是各品牌的授權經銷商，直接向製造商或官方經銷商採購。",
           "可以退貨嗎？跨境訂單的退貨政策有限。有瑕疵或寄錯貨的商品可以退。韓系美妝商品（保養、彩妝）基於衛生考量通常不能退，除非未拆封。",
           "Elite Club 是什麼？YesStyle 的會員忠誠計畫。消費越多，點數越多：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
-          "網站有葡萄牙文版本嗎？有！在網站頂端可以把語言選為葡萄牙文。",
-          "免運費適用於巴西全境嗎？免運費的最低金額會在填寫郵遞區號後顯示於結帳頁。偏遠地區的送達時間可能更長。",
-          "如何追蹤我的 YesStyle 訂單？確認出貨後，YesStyle 會寄出附有國際追蹤碼的電子郵件。你也可以登入帳號查看訂單紀錄。追蹤可透過 17track 之類的服務，或在物流公司自己的網站上進行。預計時間會顯示在結帳頁，在巴西通關時可能有變動。",
-          "如果我的 YesStyle 訂單被海關扣留怎麼辦？如果訂單被巴西聯邦稅務局（Receita Federal）扣留，你可能會收到繳納進口稅的通知。YesStyle 表示，1,000 美元以下的符合資格訂單，可憑付款憑證，並在 30 天內向客服申請，以商店點數形式退還稅款和關稅。",
-          "YesStyle 的衣服用亞洲尺寸，我該怎麼選？是的，大多數衣服採用亞洲尺寸，通常比巴西尺寸偏小。請務必查看每件商品頁面上的尺寸表（通常以公分為單位），並與自己的身體尺寸對照。建議比平常多選一到兩個尺寸，尤其是偏合身的款式。",
+          "網站有其他語言版本嗎？有！在網站頂端可以切換語言。",
+          "如何追蹤我的 YesStyle 訂單？確認出貨後，YesStyle 會寄出附有國際追蹤碼的電子郵件。你也可以登入帳號查看訂單紀錄。追蹤可透過 17track 之類的服務，或在物流公司自己的網站上進行。預計時間會顯示在結帳頁，通過海關時可能有變動。",
+          "如果我的 YesStyle 訂單被海關扣留怎麼辦？如果訂單被海關扣留，你可能會收到繳納進口稅的通知。YesStyle 表示，1,000 美元以下的符合資格訂單，可憑付款憑證，並在 30 天內向客服申請，以商店點數形式退還稅款和關稅。",
+          "YesStyle 的衣服用亞洲尺寸，我該怎麼選？是的，大多數衣服採用亞洲尺寸。請務必查看每件商品頁面上的尺寸表（通常以公分為單位），並與自己的身體尺寸對照。建議比平常多選一到兩個尺寸，尤其是偏合身的款式。",
           "YesStyle 上最暢銷的韓系美妝品牌有哪些？YesStyle 是 COSRX、Beauty of Joseon、Some By Mi、Etude House、Innisfree、Laneige、Pyunkang Yul 和 Haruharu 等知名品牌的授權經銷商。網站依精華液、化妝水、精華和防曬乳等分類整理商品，方便尋找韓式保養流程所需的產品。",
-          "訂單確認後還能在 YesStyle 取消或修改嗎？尚未出貨（狀態為「Processing」）的訂單，可以直接在帳號的訂單紀錄中取消。出貨後無法取消，但包裹抵達巴西時你可以拒收。地址或商品的修改只能在出貨前透過客服辦理。",
+          "訂單確認後還能在 YesStyle 取消或修改嗎？尚未出貨（狀態為「Processing」）的訂單，可以直接在帳號的訂單紀錄中取消。出貨後無法取消，但包裹送達時你可以拒收。地址或商品的修改只能在出貨前透過客服辦理。",
           "YesStyle 首購代碼：如何使用 CECILIA010？CECILIA010 適用於任何訂單，可額外享高達 5% 優惠（首購 5%，回購 2%），並可與結帳頁確認符合資格的促銷優惠券疊加。",
           "YesStyle 網紅代碼：CECILIA010 是什麼？CECILIA010 是登記在 YesStyle 的網紅獎勵碼。它在結帳時提供額外高達 5% 的優惠（首購 5%，回購 2%），並可與符合資格的促銷優惠券疊加，不同於通常不能疊加的首購代碼。"
         ]
@@ -31805,7 +31588,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)",
     "type": "指南与优惠码",
     "reviewKind": "guia",
-    "description": "通过这份实用指南，学会在 YesStyle 使用达人代码 CECILIA010：在结账页哪里输入（Reward Code 栏位）、如何与现有优惠券叠加，另有韩系美妆购物建议和寄往巴西的进口规则。",
+    "description": "通过这份实用指南，学会在 YesStyle 使用达人代码 CECILIA010：在结账页哪里输入（Reward Code 栏位）、如何与现有优惠券叠加，另有韩系美妆购物建议。",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
     "updatedAt": "2026-10-12",
@@ -31818,7 +31601,7 @@ export const reviewsData: unknown[] = [
       "满一定金额即可免运费，门槛会在结账页显示",
       "商品丰富：韩系美妆、韩国时装和日系美妆",
       "商品 100% 正品，为授权经销商",
-      "网站浏览和结账都有葡萄牙语版本"
+      "网站顶部可切换语言"
     ],
     "cons": [
       "不能取代一般优惠券（要填在另一个栏位）",
@@ -31898,16 +31681,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. 打开 YesStyle 官方网站",
         "paragraphs": [
-          "进入 YesStyle 官方网站（yesstyle.com）。需要的话，可在网站顶部选择葡萄牙语，方便浏览和阅读商品信息。"
+          "进入 YesStyle 官方网站（yesstyle.com）。需要的话，可在网站顶部切换语言，方便浏览和阅读商品信息。"
         ]
       },
       {
         "heading": "2. 挑选商品并加入购物车",
         "paragraphs": [
-          "浏览韩系美妆、彩妆或韩国时装等各个分类，把想要的商品加入购物车。寄往巴西的免运费最低金额，会在填写邮编后于结账页显示。"
+          "浏览韩系美妆、彩妆或韩国时装等各个分类，把想要的商品加入购物车。免运费的最低金额，会在填写收货地址后于结账页显示。"
         ],
         "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
-        "imageAlt": "YesStyle 购物车页面：美妆商品、寄往巴西免运费，以及输入代码的栏位。",
+        "imageAlt": "YesStyle 购物车页面：美妆商品、免运费，以及输入代码的栏位。",
         "imageCaption": "结账前，请在购物车里核对商品、运费以及要填写代码的栏位。",
         "imageFit": "contain"
       },
@@ -31930,7 +31713,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. 核对折扣并完成订单",
         "paragraphs": [
-          "确认两层折扣（奖励码 + 优惠券）都已成功计入订单小计。填写寄往巴西的收货信息，选择付款方式（信用卡或 PayPal），然后确认购买。",
+          "确认两层折扣（奖励码 + 优惠券）都已成功计入订单小计。填写收货信息，选择付款方式（信用卡或 PayPal），然后确认购买。",
           "请核对 CECILIA010 和有效优惠券是否各在各的栏位：把奖励码填进优惠券栏位会报错。"
         ]
       },
@@ -31969,32 +31752,16 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle 是什么？",
         "paragraphs": [
           "YesStyle（也写作 Yes Style）是全球规模最大、品类最齐全的电商平台之一，专注于韩国时装、韩系美妆、日系美妆（J-beauty）及各类亚洲商品。公司创立于 2006 年，总部位于香港，已成为想放心购买正宗韩系美妆和亚洲时装的消费者的全球首选之一。",
-          "YesStyle 服务 150 多个国家和地区的客户，提供葡萄牙语版本，并会换算价格，方便巴西市场的用户浏览。商品库极为庞大：数以千计的韩式护肤品、知名品牌彩妆、潮流时装、配饰和保健补充剂。"
+          "YesStyle 服务 150 多个国家和地区的客户，提供语言切换，并会换算价格，方便用户浏览。商品库极为庞大：数以千计的韩式护肤品、知名品牌彩妆、潮流时装、配饰和保健补充剂。"
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "YesStyle 葡萄牙语首页：韩系美妆促销横幅和精选商品。",
-        "imageCaption": "YesStyle 汇集了各类促销活动、韩系美妆商品，并提供葡萄牙语的站内导航。",
+        "imageAlt": "YesStyle 首页：韩系美妆促销横幅和精选商品。",
+        "imageCaption": "YesStyle 汇集了各类促销活动、韩系美妆商品，并提供翻译后的站内导航。",
         "imageFit": "wide",
         "bullets": [
           "韩系美妆（K-Beauty）：玻璃肌精华、精华液、爽肤水、防晒霜，以及亚洲知名护肤流程所需的各类产品",
           "韩国与亚洲时装：受首尔和东京街头潮流启发的衣服、鞋子、包包和配饰",
           "日系美妆与保健：知名日本品牌（如 Hada Labo）和营养补充剂"
-        ]
-      },
-      {
-        "heading": "韩系美妆在巴西：巴西女性在找什么",
-        "paragraphs": [
-          "韩系美妆（K-beauty）在巴西已经成为一股真正的消费热潮。它最初只是韩流歌迷和韩剧迷带动的小众好奇，如今已成为巴西化妆品市场中最强劲的护肤趋势之一。",
-          "在 YesStyle 购买是入手正品韩系美妆最安全的方式之一，因为网站直接向品牌采购，商品种类也比巴西本地的经销商丰富得多。"
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "YesStyle 的地区专区：日系美妆、中系美妆和东南亚美妆分类。",
-        "imageCaption": "除了韩系美妆，YesStyle 还按地区和亚洲潮流整理商品。",
-        "imageFit": "wide",
-        "bullets": [
-          "玻璃肌（Glass skin）：深层保湿、有光泽且均匀的肌肤",
-          "韩式护肤流程：重视双重清洁、保湿爽肤水和滋养精华等步骤",
-          "知名成分：积雪草（舒缓）、蜗牛黏液（snail mucin，修护）、蜂胶和玻尿酸"
         ]
       },
       {
@@ -32013,26 +31780,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "寄往巴西的运费与配送",
-        "paragraphs": [
-          "YesStyle 满一定金额免运费，门槛因国家而异。寄往巴西的运费、免运费最低金额和配送选项，会在填写邮编后于结账页显示。",
-          "送达时间等于订单备货时间加上所选配送方式的时效，从香港发货，并会在结账页显示。清关可能多花几天，时效也会随巴西地区和时间而不同。"
-        ],
-        "bullets": [
-          "物流追踪：所有订单都会提供追踪码，可在电子邮件和 YesStyle 账户中查看",
-          "末端派送：由巴西邮政（Correios）或合作物流公司完成",
-          "清关：订单在“Customs clearance”状态停留几天是正常的"
-        ]
-      },
-      {
         "heading": "关税与进口：可能被收取哪些费用",
         "paragraphs": [
-          "跨境订单在巴西可能要接受海关检查，并可能产生税款、进口关税、行政费用或其他与订单放行相关的支出。因此，除了计算商品和运费，下单前也建议把可能的额外费用考虑进去。",
+          "跨境订单可能要接受海关检查，并可能产生税款、进口关税、行政费用或其他与订单放行相关的支出。因此，除了计算商品和运费，下单前也建议把可能的额外费用考虑进去。",
           "YesStyle 表示，1,000 美元以下的订单，如果你先付款、保留收据，并在 30 天内申请，可能可以退还关税。退款一旦获批，会以 YesStyle 商店积分（Store Credit）发放。",
           "下单前请查看 YesStyle 官方的关税退款说明页面，因为进口规则和商店政策可能会变动。"
         ],
         "bullets": [
-          "保留在巴西缴纳任何关税的付款凭证",
+          "保留缴纳任何关税的付款凭证",
           "在 30 天内通过 YesStyle 客服提交退款申请",
           "退款不是自动的：取决于审核结果和 YesStyle 当前的政策规则",
           "订单金额达 1,000 美元或以上，不适用该品牌说明的这项退款政策",
@@ -32051,7 +31806,6 @@ export const reviewsData: unknown[] = [
           "用好 Elite Club：积分累积的会员计划：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
           "别错过“Daily Free”商品：消费满一定金额即可获赠免费商品。",
           "多看评价（reviews）：真实照片、对质地、气味和效果的评论，以及有效期信息。",
-          "和巴西的价格比一比：下单前先在 Beleza na Web、Sephora 和韩系美妆经销商那里查一下价格。",
           "留意促销季：黑色星期五（11 月）、11.11（光棍节）、圣诞节、Summer Sale（6/7 月）、Back to School（8/9 月）。",
           "始终使用 CECILIA010：不用花一分钱，正确应用后可额外享高达 5% 优惠（首单 5% / 回购 2%），还能支持这个博客。"
         ]
@@ -32066,19 +31820,17 @@ export const reviewsData: unknown[] = [
           "CECILIA010 可以和当月的促销优惠券叠加吗？可以！它填在“Reward Code”栏位，优惠券填在“Coupon Code”栏位。这样就能在结账页确认符合条件的促销优惠券之上，再额外享高达 5% 优惠（首单 5%，回购 2%）。",
           "CECILIA010 有有效期吗？只要 YesStyle 的达人计划仍在进行，并且代码经过定期核实，它就有效。",
           "在 YesStyle 购物安全吗？安全。这是一家 2006 年起运营的正规公司，服务 150 多个国家和地区，商品为正品，并采用 SSL 加密。",
-          "寄到巴西要多久？预计时间会在填写邮编后于结账页显示。清关可能多花几天。",
           "我要缴纳进口关税吗？有可能。如果被收取关税，请查看 YesStyle 的官方政策：品牌表示，1,000 美元以下的符合条件订单，凭付款凭证并在期限内申请，可退还税款和关税，以商店积分形式发放。",
           "最好用什么方式付款？国际信用卡（Visa、Mastercard、Amex）或 PayPal。汇率由发卡机构自动换算。",
           "商品是正品吗？是的。YesStyle 是各品牌的授权经销商，直接向制造商或官方经销商采购。",
           "可以退货吗？跨境订单的退货政策有限。有瑕疵或发错货的商品可以退。韩系美妆商品（护肤、彩妆）出于卫生原因通常不能退，除非未拆封。",
           "Elite Club 是什么？YesStyle 的会员忠诚计划。消费越多，积分越多：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
-          "网站有葡萄牙语版本吗？有！在网站顶部可以把语言选为葡萄牙语。",
-          "免运费适用于巴西全境吗？免运费的最低金额会在填写邮编后于结账页显示。偏远地区的送达时间可能更长。",
-          "如何追踪我的 YesStyle 订单？确认发货后，YesStyle 会发送带有国际追踪码的电子邮件。你也可以登录账户查看订单记录。追踪可通过 17track 之类的服务，或在物流公司自己的网站上进行。预计时间会在结账页显示，在巴西清关时可能有变化。",
-          "如果我的 YesStyle 订单被海关扣留怎么办？如果订单被巴西联邦税务局（Receita Federal）扣留，你可能会收到缴纳进口税的通知。YesStyle 表示，1,000 美元以下的符合条件订单，可凭付款凭证，并在 30 天内向客服申请，以商店积分形式退还税款和关税。",
-          "YesStyle 的衣服用亚洲尺码，我该怎么选？是的，大多数衣服采用亚洲尺码，通常比巴西尺码偏小。请务必查看每件商品页面上的尺寸表（通常以厘米为单位），并与自己的身体尺寸对照。建议比平时多选一到两个码，尤其是偏修身的款式。",
+          "网站有其他语言版本吗？有！在网站顶部可以切换语言。",
+          "如何追踪我的 YesStyle 订单？确认发货后，YesStyle 会发送带有国际追踪码的电子邮件。你也可以登录账户查看订单记录。追踪可通过 17track 之类的服务，或在物流公司自己的网站上进行。预计时间会在结账页显示，在海关可能有变化。",
+          "如果我的 YesStyle 订单被海关扣留怎么办？如果订单被海关扣留，你可能会收到缴纳进口税的通知。YesStyle 表示，1,000 美元以下的符合条件订单，可凭付款凭证，并在 30 天内向客服申请，以商店积分形式退还税款和关税。",
+          "YesStyle 的衣服用亚洲尺码，我该怎么选？是的，大多数衣服采用亚洲尺码。请务必查看每件商品页面上的尺寸表（通常以厘米为单位），并与自己的身体尺寸对照。建议比平时多选一到两个码，尤其是偏修身的款式。",
           "YesStyle 上最畅销的韩系美妆品牌有哪些？YesStyle 是 COSRX、Beauty of Joseon、Some By Mi、Etude House、Innisfree、Laneige、Pyunkang Yul 和 Haruharu 等知名品牌的授权经销商。网站按精华液、爽肤水、精华和防晒霜等分类整理商品，方便寻找韩式护肤流程所需的产品。",
-          "订单确认后还能在 YesStyle 取消或修改吗？尚未发货（状态为“Processing”）的订单，可以直接在账户的订单记录里取消。发货后无法取消，但包裹抵达巴西时你可以拒收。地址或商品的修改只能在发货前通过客服办理。",
+          "订单确认后还能在 YesStyle 取消或修改吗？尚未发货（状态为“Processing”）的订单，可以直接在账户的订单记录里取消。发货后无法取消，但包裹送达时你可以拒收。地址或商品的修改只能在发货前通过客服办理。",
           "YesStyle 首单代码：如何使用 CECILIA010？CECILIA010 适用于任何订单，可额外享高达 5% 优惠（首单 5%，回购 2%），并可与结账页确认符合条件的促销优惠券叠加。",
           "YesStyle 达人代码：CECILIA010 是什么？CECILIA010 是登记在 YesStyle 的达人奖励码。它在结账时提供额外高达 5% 的优惠（首单 5%，回购 2%），并可与符合条件的促销优惠券叠加，不同于通常不能叠加的首单代码。"
         ]
@@ -40466,7 +40218,7 @@ export const reviewsData: unknown[] = [
         "heading": "Public company information",
         "paragraphs": [
           "YesStyle is based in Hong Kong and has operated since 2006. It belongs to YesAsia Holdings (2209.HK), listed on the Hong Kong stock exchange.",
-          "YesStyle serves customers in more than 150 countries and regions, with a Portuguese version of the site and several reference currencies. In Brazil, purchases are charged in US dollars (USD). The company runs customer service channels for questions about products, delivery times, import taxes and the returns policy."
+          "YesStyle serves customers in more than 150 countries and regions, with a site language selector and several reference currencies. The company runs customer service channels for questions about products, delivery times, import taxes and the returns policy."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
@@ -40487,7 +40239,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Purchase and after-sales policies",
         "paragraphs": [
-          "For payment, there are international cards, PayPal and, in some countries, local wallets. Delivery times, shipping and taxes in Brazil and Portugal are in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+          "For payment, there are international cards, PayPal and, in some countries, local wallets. Delivery times, shipping and taxes are in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
           "To return eligible items in their original packaging, you can submit a return authorization (RMA) form through official customer service. Support can be reached by chat and email on the official site."
         ],
         "bullets": [],
@@ -40542,14 +40294,13 @@ export const reviewsData: unknown[] = [
           "Is YesStyle reliable, or is it a fake site? YesStyle is legitimate. It is a company founded in 2006 and headquartered in Hong Kong, a subsidiary of YesAsia Holdings Limited, listed on the Hong Kong stock exchange (2209.HK), and it presents itself as an authorized distributor of the brands it sells.",
           "Where is YesStyle from? From Hong Kong: the store was founded there in 2006 and belongs to YesAsia Holdings, listed on the Hong Kong Stock Exchange (2209.HK).",
           "Are YesStyle products authentic or counterfeit? YesStyle says it is an authorized reseller of more than 400 Korean beauty brands, buying from the manufacturers or from authorized distributors. There is no independent audit of this claim; on delivery, check the batch number, expiry date and seal.",
-          "How long does YesStyle delivery to Brazil take? The store doesn't publish a delivery time for Brazil: it appears at checkout, before you pay. How the time is counted is in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
-          "Does YesStyle charge import taxes for Brazil? Tax may be charged when the package arrives. YesStyle refunds taxes and customs fees on orders under US$ 1,000, as store credit.",
+          "How long does YesStyle delivery take? It appears at checkout, before you pay. How the time is counted is in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+          "Does YesStyle charge import taxes? Tax may be charged when the package arrives. YesStyle refunds taxes and customs fees on orders under US$ 1,000, as store credit.",
           "Does the CECILIA010 code change the final price of the product? Yes. The CECILIA010 code gives up to 5% extra (5% on the first purchase, 2% on repeat purchases) as a benefit of the partnership, at no extra cost to the reader.",
           "How do returns work at YesStyle? A return is requested through the authorization form (RMA) with customer service. Eligible items that haven't been tampered with can be returned for a refund as store credit or to your original payment method, according to the product's current policy.",
           "Which payment methods does YesStyle accept? International credit card, PayPal and, in some countries, local wallets. All orders are processed in USD.",
           "Is it safe to enter card details on YesStyle? Yes, the site uses a secure HTTPS connection and processes payments through internationally certified gateways. Never enter sensitive details outside the official checkout.",
-          "What is YesStyle's official domain? The official domain is yesstyle.com (with Portuguese available by selecting it on the site). Beware of fake sites and unauthorized resellers.",
-          "Does YesStyle offer free shipping to Brazil? The store doesn't advertise free shipping to Brazil; the shipping cost appears at checkout, before you pay.",
+          "What is YesStyle's official domain? The official domain is yesstyle.com (with a language selector on the site). Beware of fake sites and unauthorized resellers.",
           "How do I use the CECILIA010 code on YesStyle? Enter CECILIA010 in the 'Reward Code' field during checkout. This field is separate from the coupon field, and both can be used at the same time."
         ]
       }
@@ -40611,7 +40362,7 @@ export const reviewsData: unknown[] = [
         "heading": "Datos públicos de la empresa",
         "paragraphs": [
           "YesStyle es de Hong Kong y existe desde 2006. Pertenece a YesAsia Holdings (2209.HK), que cotiza en la bolsa de Hong Kong.",
-          "YesStyle atiende a clientes en más de 150 países y regiones, con una versión del sitio traducida al portugués y varias monedas de referencia. En Brasil, las compras se cobran en dólares (USD). La empresa tiene canales de atención al cliente para resolver dudas sobre productos, plazos de entrega, impuestos de importación y política de devoluciones."
+          "YesStyle atiende a clientes en más de 150 países y regiones, con un selector de idioma en el sitio y varias monedas de referencia. La empresa tiene canales de atención al cliente para resolver dudas sobre productos, plazos de entrega, impuestos de importación y política de devoluciones."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
@@ -40632,7 +40383,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra y posventa",
         "paragraphs": [
-          "Para pagar hay tarjeta internacional, PayPal y, en algunos países, monederos locales. El plazo, el envío y los impuestos en Brasil y Portugal están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+          "Para pagar hay tarjeta internacional, PayPal y, en algunos países, monederos locales. El plazo, el envío y los impuestos están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
           "Para devolver artículos elegibles en su embalaje original, se puede enviar un formulario de autorización (RMA) a través de la atención al cliente oficial. Se puede contactar con el soporte por chat y por correo electrónico en el sitio oficial."
         ],
         "bullets": [],
@@ -40687,14 +40438,13 @@ export const reviewsData: unknown[] = [
           "¿YesStyle es confiable o es un sitio falso? YesStyle es legítima. Es una empresa fundada en 2006 con sede en Hong Kong, subsidiaria de YesAsia Holdings Limited, que cotiza en la bolsa de Hong Kong (2209.HK), y se presenta como distribuidora autorizada de las marcas que vende.",
           "¿De dónde es YesStyle? De Hong Kong: la tienda se fundó allí en 2006 y pertenece a YesAsia Holdings, que cotiza en la Bolsa de Hong Kong (2209.HK).",
           "¿Los productos de YesStyle son originales o falsificados? YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana y comprar a los fabricantes o a distribuidores autorizados. No hay una auditoría independiente de esa afirmación; al recibir el pedido, comprueba el lote, la caducidad y el precinto.",
-          "¿Cuál es el plazo de entrega de YesStyle a Brasil? La tienda no publica un plazo para Brasil: aparece en el checkout, antes de pagar. Cómo se cuenta el plazo está en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
-          "¿YesStyle cobra impuestos de importación para Brasil? El impuesto puede cobrarse cuando llega el paquete. YesStyle reembolsa los impuestos y las tasas de aduana en pedidos inferiores a US$ 1.000, en crédito de la tienda.",
+          "¿Cuál es el plazo de entrega de YesStyle? Aparece en el checkout, antes de pagar. Cómo se cuenta el plazo está en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+          "¿YesStyle cobra impuestos de importación? El impuesto puede cobrarse cuando llega el paquete. YesStyle reembolsa los impuestos y las tasas de aduana en pedidos inferiores a US$ 1.000, en crédito de la tienda.",
           "¿El código CECILIA010 cambia el precio final del producto? Sí. El código CECILIA010 ofrece hasta un 5 % extra (5 % en la primera compra, 2 % en las recurrentes) como beneficio de la alianza, sin coste adicional para el lector.",
           "¿Cómo funciona la devolución en YesStyle? La devolución se solicita mediante el formulario de autorización (RMA) en la atención al cliente. Los productos elegibles que no hayan sido manipulados pueden devolverse a cambio de un reembolso en crédito de la tienda o de un reintegro, según la política vigente del producto.",
           "¿Qué formas de pago acepta YesStyle? Tarjeta de crédito internacional, PayPal y, en algunos países, monederos locales. Todos los pedidos se procesan en USD.",
           "¿Es seguro introducir los datos de la tarjeta en YesStyle? Sí, el sitio usa una conexión HTTPS segura y procesa los pagos mediante pasarelas certificadas internacionalmente. Nunca introduzcas datos sensibles fuera del checkout oficial.",
-          "¿Cuál es el dominio oficial de YesStyle? El dominio oficial es yesstyle.com (con el portugués disponible al seleccionarlo en el sitio). Cuidado con los sitios falsos o los revendedores no autorizados.",
-          "¿YesStyle ofrece envío gratis a Brasil? La tienda no publica envío gratis a Brasil; el envío aparece en el checkout, antes de pagar.",
+          "¿Cuál es el dominio oficial de YesStyle? El dominio oficial es yesstyle.com (con selector de idioma en el sitio). Cuidado con los sitios falsos o los revendedores no autorizados.",
           "¿Cómo se usa el código CECILIA010 en YesStyle? Escribe CECILIA010 en el campo 'Reward Code' (código de recompensa) durante el checkout. Este campo es independiente del campo de cupón y se pueden usar los dos a la vez."
         ]
       }
@@ -40755,7 +40505,7 @@ export const reviewsData: unknown[] = [
         "heading": "Données publiques de l'entreprise",
         "paragraphs": [
           "YesStyle est basée à Hong Kong et existe depuis 2006. Elle appartient à YesAsia Holdings (2209.HK), cotée à la Bourse de Hong Kong.",
-          "YesStyle sert des clients dans plus de 150 pays et régions, avec une version du site traduite en portugais et plusieurs devises de référence. Au Brésil, les achats sont facturés en dollars américains (USD). L'entreprise dispose de canaux de service client pour répondre aux questions sur les produits, les délais de livraison, les taxes d'importation et la politique de retour."
+          "YesStyle sert des clients dans plus de 150 pays et régions, avec un sélecteur de langue sur le site et plusieurs devises de référence. L'entreprise dispose de canaux de service client pour répondre aux questions sur les produits, les délais de livraison, les taxes d'importation et la politique de retour."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
@@ -40776,7 +40526,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Politiques d'achat et de service après-vente",
         "paragraphs": [
-          "Pour payer, il y a la carte bancaire internationale, PayPal et, dans certains pays, des portefeuilles locaux. Le délai, les frais de port et les taxes au Brésil et au Portugal figurent dans le [guide de livraison YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+          "Pour payer, il y a la carte bancaire internationale, PayPal et, dans certains pays, des portefeuilles locaux. Le délai, les frais de port et les taxes figurent dans le [guide de livraison YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
           "Pour retourner des articles éligibles dans leur emballage d'origine, la demande peut se faire par le formulaire d'autorisation de retour (RMA) auprès du service client officiel. Le support est joignable par chat et par e-mail sur le site officiel."
         ],
         "bullets": [],
@@ -40831,14 +40581,13 @@ export const reviewsData: unknown[] = [
           "YesStyle est-il fiable ou est-ce un faux site ? YesStyle est légitime. C'est une entreprise fondée en 2006 et basée à Hong Kong, filiale de YesAsia Holdings Limited, cotée à la Bourse de Hong Kong (2209.HK), et elle se présente comme distributeur agréé des marques qu'elle vend.",
           "D'où vient YesStyle ? De Hong Kong : la boutique y a été fondée en 2006 et appartient à YesAsia Holdings, cotée à la Bourse de Hong Kong (2209.HK).",
           "Les produits YesStyle sont-ils authentiques ou contrefaits ? YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne, en achetant auprès des fabricants ou de distributeurs autorisés. Il n'existe aucun audit indépendant de cette affirmation ; à la livraison, vérifiez le lot, la date de péremption et le scellé.",
-          "Quel est le délai de livraison de YesStyle vers le Brésil ? La boutique ne publie pas de délai pour le Brésil : il apparaît au moment de la commande, avant de payer. La façon dont le délai est compté est expliquée dans le [guide de livraison YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
-          "YesStyle facture-t-il des taxes d'importation pour le Brésil ? La taxe peut être facturée à l'arrivée du colis. YesStyle rembourse les taxes et les frais de douane sur les commandes inférieures à 1 000 US$, sous forme de crédit en boutique.",
+          "Quel est le délai de livraison de YesStyle ? Il apparaît au moment de la commande, avant de payer. La façon dont le délai est compté est expliquée dans le [guide de livraison YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+          "YesStyle facture-t-il des taxes d'importation ? La taxe peut être facturée à l'arrivée du colis. YesStyle rembourse les taxes et les frais de douane sur les commandes inférieures à 1 000 US$, sous forme de crédit en boutique.",
           "Le code CECILIA010 change-t-il le prix final du produit ? Oui. Le code CECILIA010 offre jusqu'à 5 % de plus (5 % sur le premier achat, 2 % sur les suivants) comme avantage du partenariat, sans coût supplémentaire pour le lecteur.",
           "Comment fonctionne le retour chez YesStyle ? La demande de retour se fait par le formulaire d'autorisation (RMA) auprès du service client. Les produits éligibles et non altérés peuvent être retournés contre un remboursement en crédit en boutique ou un remboursement sur le moyen de paiement, selon la politique en vigueur pour le produit.",
           "Quels moyens de paiement YesStyle accepte-t-il ? Carte de crédit internationale, PayPal et, dans certains pays, portefeuilles locaux. Toutes les commandes sont traitées en USD.",
           "Est-il sûr de saisir ses données de carte sur YesStyle ? Oui, le site utilise une connexion HTTPS sécurisée et traite les paiements via des passerelles certifiées au niveau international. Ne saisissez jamais de données sensibles en dehors du paiement officiel.",
-          "Quel est le domaine officiel de YesStyle ? Le domaine officiel est yesstyle.com (avec le portugais disponible en le sélectionnant sur le site). Méfiez-vous des faux sites et des revendeurs non autorisés.",
-          "YesStyle propose-t-il la livraison gratuite vers le Brésil ? La boutique ne publie pas de livraison gratuite vers le Brésil ; les frais de port apparaissent au moment de la commande, avant de payer.",
+          "Quel est le domaine officiel de YesStyle ? Le domaine officiel est yesstyle.com (avec un sélecteur de langue sur le site). Méfiez-vous des faux sites et des revendeurs non autorisés.",
           "Comment utiliser le code CECILIA010 sur YesStyle ? Saisissez CECILIA010 dans le champ « Reward Code » (code récompense) lors du paiement. Ce champ est distinct du champ des coupons, et les deux peuvent être utilisés en même temps."
         ]
       }
@@ -40899,7 +40648,7 @@ export const reviewsData: unknown[] = [
         "heading": "Öffentliche Unternehmensdaten",
         "paragraphs": [
           "YesStyle sitzt in Hongkong und besteht seit 2006. Das Unternehmen gehört zur YesAsia Holdings (2209.HK), die an der Hongkonger Börse notiert ist.",
-          "YesStyle beliefert Kundinnen und Kunden in mehr als 150 Ländern und Regionen, mit einer ins Portugiesische übersetzten Version der Website und mehreren Referenzwährungen. In Brasilien werden Einkäufe in US-Dollar (USD) abgerechnet. Das Unternehmen unterhält Kundenservice-Kanäle für Fragen zu Produkten, Lieferzeiten, Importsteuern und Rückgaberichtlinien."
+          "YesStyle beliefert Kundinnen und Kunden in mehr als 150 Ländern und Regionen, mit einer Sprachauswahl auf der Website und mehreren Referenzwährungen. Das Unternehmen unterhält Kundenservice-Kanäle für Fragen zu Produkten, Lieferzeiten, Importsteuern und Rückgaberichtlinien."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
@@ -40920,7 +40669,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kauf- und Serviceleistungen nach dem Kauf",
         "paragraphs": [
-          "Bezahlen können Sie mit internationaler Kreditkarte, PayPal und in manchen Ländern mit lokalen Wallets. Lieferzeit, Versand und Steuern in Brasilien und Portugal stehen im [YesStyle-Lieferratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+          "Bezahlen können Sie mit internationaler Kreditkarte, PayPal und in manchen Ländern mit lokalen Wallets. Lieferzeit, Versand und Steuern stehen im [YesStyle-Lieferratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
           "Für die Rückgabe berechtigter Artikel in der Originalverpackung können Sie über den offiziellen Kundenservice ein Rücksendeformular (RMA) einreichen. Der Support ist auf der offiziellen Website per Chat und E-Mail erreichbar."
         ],
         "bullets": [],
@@ -40975,14 +40724,13 @@ export const reviewsData: unknown[] = [
           "Ist YesStyle seriös oder eine Fake-Seite? YesStyle ist seriös. Das Unternehmen wurde 2006 gegründet und hat seinen Sitz in Hongkong; es ist eine Tochter der YesAsia Holdings Limited, die an der Hongkonger Börse notiert ist (2209.HK), und stellt sich als autorisierter Händler der Marken dar, die es verkauft.",
           "Woher kommt YesStyle? Aus Hongkong: Der Shop wurde dort 2006 gegründet und gehört zur YesAsia Holdings, die an der Hongkonger Börse notiert ist (2209.HK).",
           "Sind die Produkte von YesStyle original oder gefälscht? YesStyle gibt an, autorisierter Wiederverkäufer von mehr als 400 koreanischen Kosmetikmarken zu sein und bei den Herstellern oder bei autorisierten Händlern einzukaufen. Diese Angabe wurde nicht unabhängig geprüft; kontrollieren Sie bei der Lieferung Charge, Haltbarkeitsdatum und Siegel.",
-          "Wie lange dauert die Lieferung von YesStyle nach Brasilien? Der Shop veröffentlicht keine Lieferzeit für Brasilien: Sie erscheint im Checkout, bevor Sie bezahlen. Wie die Lieferzeit gezählt wird, steht im [YesStyle-Lieferratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
-          "Erhebt YesStyle Importsteuern für Brasilien? Die Steuer kann bei der Ankunft des Pakets erhoben werden. YesStyle erstattet Steuern und Zollgebühren bei Bestellungen unter 1.000 US$ als Guthaben im Shop.",
+          "Wie lange dauert die Lieferung von YesStyle? Die Lieferzeit erscheint im Checkout, bevor Sie bezahlen. Wie die Lieferzeit gezählt wird, steht im [YesStyle-Lieferratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+          "Erhebt YesStyle Importsteuern? Die Steuer kann bei der Ankunft des Pakets erhoben werden. YesStyle erstattet Steuern und Zollgebühren bei Bestellungen unter 1.000 US$ als Guthaben im Shop.",
           "Verändert der Code CECILIA010 den Endpreis des Produkts? Ja. Der Code CECILIA010 gibt bis zu 5 % zusätzlich (5 % auf den ersten Einkauf, 2 % auf weitere) als Vorteil der Partnerschaft, ohne zusätzliche Kosten für die Leserinnen und Leser.",
           "Wie funktioniert die Rückgabe bei YesStyle? Die Rückgabe wird über das Autorisierungsformular (RMA) beim Kundenservice beantragt. Berechtigte, unbeschädigte Produkte können gegen eine Erstattung als Shop-Guthaben oder per Rückbuchung zurückgegeben werden, je nach der für das Produkt geltenden Richtlinie.",
           "Welche Zahlungsarten akzeptiert YesStyle? Internationale Kreditkarte, PayPal und in manchen Ländern lokale Wallets. Alle Bestellungen werden in USD abgewickelt.",
           "Ist es sicher, bei YesStyle Kartendaten einzugeben? Ja, die Website nutzt eine sichere HTTPS-Verbindung und wickelt Zahlungen über international zertifizierte Gateways ab. Geben Sie sensible Daten niemals außerhalb des offiziellen Checkouts ein.",
-          "Was ist die offizielle Domain von YesStyle? Die offizielle Domain ist yesstyle.com (Portugiesisch lässt sich auf der Website auswählen). Vorsicht vor gefälschten Seiten und nicht autorisierten Wiederverkäufern.",
-          "Bietet YesStyle kostenlosen Versand nach Brasilien an? Der Shop wirbt nicht mit kostenlosem Versand nach Brasilien; die Versandkosten erscheinen im Checkout, bevor Sie bezahlen.",
+          "Was ist die offizielle Domain von YesStyle? Die offizielle Domain ist yesstyle.com (mit einer Sprachauswahl auf der Website). Vorsicht vor gefälschten Seiten und nicht autorisierten Wiederverkäufern.",
           "Wie verwende ich den Code CECILIA010 bei YesStyle? Geben Sie CECILIA010 im Checkout in das Feld „Reward Code“ ein. Dieses Feld ist vom Gutscheinfeld getrennt, und beide lassen sich gleichzeitig nutzen."
         ]
       }
@@ -41043,7 +40791,7 @@ export const reviewsData: unknown[] = [
         "heading": "회사 공개 정보",
         "paragraphs": [
           "YesStyle은 2006년부터 이어 온 홍콩 회사입니다. 홍콩 증권거래소에 상장된 YesAsia Holdings(2209.HK) 소속입니다.",
-          "YesStyle은 150개가 넘는 국가와 지역의 고객을 대상으로 하며, 포르투갈어로 번역된 사이트 버전과 여러 기준 통화를 지원합니다. 브라질에서는 주문이 달러(USD)로 결제됩니다. 제품, 배송 기간, 수입 세금, 반품 정책에 대한 문의를 받는 고객 상담 채널도 운영합니다."
+          "YesStyle은 150개가 넘는 국가와 지역의 고객을 대상으로 하며, 사이트에서 언어를 바꿀 수 있고 여러 기준 통화를 지원합니다. 제품, 배송 기간, 수입 세금, 반품 정책에 대한 문의를 받는 고객 상담 채널도 운영합니다."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
@@ -41064,7 +40812,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "구매 정책과 사후 관리",
         "paragraphs": [
-          "결제는 해외 결제 카드, PayPal, 일부 국가에서는 현지 전자지갑으로 할 수 있습니다. 브라질과 포르투갈의 배송 기간, 배송비, 세금은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 정리해 두었습니다.",
+          "결제는 해외 결제 카드, PayPal, 일부 국가에서는 현지 전자지갑으로 할 수 있습니다. 배송 기간, 배송비, 세금은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 정리해 두었습니다.",
           "포장을 뜯지 않은 반품 가능 상품은 공식 고객센터의 반품 승인 신청서(RMA)로 요청할 수 있습니다. 고객 지원은 공식 사이트의 채팅과 이메일로 연락할 수 있습니다."
         ],
         "bullets": [],
@@ -41119,14 +40867,13 @@ export const reviewsData: unknown[] = [
           "YesStyle은 믿을 만한가요, 가짜 사이트인가요? YesStyle은 정상적인 회사입니다. 2006년에 설립되어 홍콩에 본사를 두고 있으며, 홍콩 증권거래소에 상장된 YesAsia Holdings Limited(2209.HK)의 자회사입니다. 판매하는 브랜드의 공식 유통업체라고 소개합니다.",
           "YesStyle은 어느 나라 회사인가요? 홍콩 회사입니다. 2006년에 홍콩에서 설립되었고 홍콩 증권거래소에 상장된 YesAsia Holdings(2209.HK) 소속입니다.",
           "YesStyle 제품은 정품인가요, 가품인가요? YesStyle은 400개가 넘는 한국 뷰티 브랜드의 공식 판매업체이며 제조사 또는 제조사가 인정한 유통업체에서 매입한다고 밝힙니다. 이 주장을 뒷받침하는 독립적인 감사는 없으니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요.",
-          "YesStyle에서 브라질까지 배송은 얼마나 걸리나요? 매장은 브라질 배송 기간을 따로 공지하지 않으며, 결제 전에 체크아웃에서 확인할 수 있습니다. 기간을 세는 방법은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
-          "YesStyle은 브라질로 보낼 때 수입 세금을 부과하나요? 소포가 도착할 때 세금이 부과될 수 있습니다. YesStyle은 1,000달러 미만 주문의 수입 세금과 통관 수수료를 매장 크레딧으로 환급합니다.",
+          "YesStyle 배송은 얼마나 걸리나요? 결제 전에 체크아웃에서 확인할 수 있습니다. 기간을 세는 방법은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
+          "YesStyle은 수입 세금을 부과하나요? 소포가 도착할 때 세금이 부과될 수 있습니다. YesStyle은 1,000달러 미만 주문의 수입 세금과 통관 수수료를 매장 크레딧으로 환급합니다.",
           "CECILIA010 코드를 쓰면 최종 가격이 달라지나요? 네. CECILIA010은 제휴 혜택으로 최대 5%(첫 구매 5%, 재구매 2%)의 추가 할인을 주며, 독자에게 추가 비용은 없습니다.",
           "YesStyle 반품은 어떻게 하나요? 반품은 고객 지원의 반품 승인 신청서(RMA)로 요청합니다. 개봉하지 않은 반품 가능 상품은 그 상품에 적용되는 정책에 따라 매장 크레딧 환급 또는 결제 취소로 반품할 수 있습니다.",
           "YesStyle은 어떤 결제 수단을 지원하나요? 해외 결제 신용카드, PayPal, 일부 국가에서는 현지 전자지갑을 지원합니다. 모든 주문은 USD로 처리됩니다.",
           "YesStyle에 카드 정보를 입력해도 안전한가요? 네, 사이트는 보안 HTTPS 연결을 쓰고 국제 인증을 받은 결제 게이트웨이로 결제를 처리합니다. 공식 체크아웃 밖에서는 민감한 정보를 입력하지 마세요.",
-          "YesStyle의 공식 도메인은 무엇인가요? 공식 도메인은 yesstyle.com입니다(사이트에서 언어를 선택하면 포르투갈어로도 볼 수 있습니다). 가짜 사이트나 비공식 재판매업체를 조심하세요.",
-          "YesStyle은 브라질 무료 배송을 하나요? 브라질 무료 배송은 공지하지 않으며, 배송비는 결제 전에 체크아웃에서 확인할 수 있습니다.",
+          "YesStyle의 공식 도메인은 무엇인가요? 공식 도메인은 yesstyle.com입니다(사이트에서 언어를 바꿀 수 있습니다). 가짜 사이트나 비공식 재판매업체를 조심하세요.",
           "YesStyle에서 CECILIA010 코드는 어떻게 쓰나요? 결제할 때 'Reward Code(리워드 코드)' 입력란에 CECILIA010을 입력하세요. 이 입력란은 쿠폰 입력란과 별도이며, 둘을 함께 쓸 수 있습니다."
         ]
       }
@@ -41187,7 +40934,7 @@ export const reviewsData: unknown[] = [
         "heading": "会社の公開情報",
         "paragraphs": [
           "YesStyleは2006年創業の香港の会社で、香港証券取引所に上場しているYesAsia Holdings（2209.HK）の傘下にあります。",
-          "150を超える国と地域のお客様に向けて営業しており、サイトはポルトガル語版もあり、複数の通貨で参考価格が表示されます。ブラジルからの注文は米ドル（USD）で決済されます。商品、配送日数、輸入税、返品ポリシーについての問い合わせ窓口もあります。"
+          "150を超える国と地域のお客様に向けて営業しており、サイトでは言語を切り替えられ、複数の通貨で参考価格が表示されます。商品、配送日数、輸入税、返品ポリシーについての問い合わせ窓口もあります。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
@@ -41208,7 +40955,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "購入とアフターサービス",
         "paragraphs": [
-          "支払いには国際カード、PayPal、一部の国ではローカルウォレットが使えます。ブラジルとポルトガルでの配送日数、送料、税金は[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にまとめています。",
+          "支払いには国際カード、PayPal、一部の国ではローカルウォレットが使えます。配送日数、送料、税金は[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にまとめています。",
           "対象商品を元の梱包のまま返品する場合は、公式サポートの返品承認フォーム（RMA）から申請できます。サポートには、公式サイトのチャットとメールで連絡できます。"
         ],
         "bullets": [],
@@ -41263,14 +41010,13 @@ export const reviewsData: unknown[] = [
           "YesStyleは信頼できますか、それとも偽サイトですか？ YesStyleは本物の会社です。2006年に創業した香港拠点の企業で、香港証券取引所に上場するYesAsia Holdings Limited（2209.HK）の子会社です。扱うブランドの正規ディストリビューターだと説明しています。",
           "YesStyleはどこの会社ですか？ 香港の会社です。2006年に香港で創業し、香港証券取引所に上場するYesAsia Holdings（2209.HK）の傘下にあります。",
           "YesStyleの商品は本物ですか、偽物ですか？ YesStyleは、400以上の韓国コスメブランドの正規販売店であり、メーカーまたはメーカーが認めた販売元から仕入れていると述べています。この主張を裏付ける第三者の監査はありません。届いたら、ロット番号、使用期限、封の状態を確認してください。",
-          "YesStyleからブラジルへの配送日数は？ ブラジル向けの配送日数は店が公表しておらず、支払い前にチェックアウトで表示されます。日数の数え方は[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。",
-          "YesStyleはブラジルへの輸入税がかかりますか？ 荷物の到着時に輸入税がかかることがあります。YesStyleは、1,000米ドル未満の注文について輸入税と通関手数料を、ストアクレジットで返金します。",
+          "YesStyleの配送日数は？ 支払い前にチェックアウトで表示されます。日数の数え方は[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。",
+          "YesStyleは輸入税がかかりますか？ 荷物の到着時に輸入税がかかることがあります。YesStyleは、1,000米ドル未満の注文について輸入税と通関手数料を、ストアクレジットで返金します。",
           "CECILIA010コードで最終価格は変わりますか？ 変わります。CECILIA010は、提携の特典として最大5%（初回購入5%、2回目以降2%）の追加割引になり、読者の負担は増えません。",
           "YesStyleの返品はどうなりますか？ 返品は、カスタマーサポートの返品承認フォーム（RMA）から申請します。未開封など対象の条件を満たす商品は、そのときの商品ごとのポリシーに従って、ストアクレジットでの返金またはカードへの返金で返品できます。",
           "YesStyleで使える支払い方法は？ 国際クレジットカード、PayPal、一部の国ではローカルウォレットです。すべての注文はUSDで処理されます。",
           "YesStyleでカード情報を入力しても安全ですか？ はい。サイトは安全なHTTPS接続を使い、国際的に認証された決済ゲートウェイで支払いを処理します。公式のチェックアウト以外では、重要な情報を入力しないでください。",
-          "YesStyleの公式ドメインは？ 公式ドメインはyesstyle.comです（サイトで言語を選ぶとポルトガル語でも表示できます）。偽サイトや非正規の転売業者には注意してください。",
-          "YesStyleはブラジルへの送料無料がありますか？ ブラジル向けの送料無料は公表されていません。送料は支払い前にチェックアウトで表示されます。",
+          "YesStyleの公式ドメインは？ 公式ドメインはyesstyle.comです（サイトで言語を切り替えられます）。偽サイトや非正規の転売業者には注意してください。",
           "YesStyleでCECILIA010コードはどう使いますか？ チェックアウト時に「リワードコード（Reward Code）」欄へCECILIA010を入力します。この欄はクーポン欄とは別で、両方を同時に使えます。"
         ]
       }
@@ -41331,7 +41077,7 @@ export const reviewsData: unknown[] = [
         "heading": "公司公開資料",
         "paragraphs": [
           "YesStyle 來自香港，自 2006 年起營運，隸屬於在香港交易所上市的 YesAsia Holdings（2209.HK）。",
-          "YesStyle 服務 150 多個國家與地區的顧客，網站有葡萄牙文版，並提供多種參考幣別。在巴西下單以美元（USD）結算。公司設有客服管道，可詢問商品、配送時間、進口稅與退貨政策。"
+          "YesStyle 服務 150 多個國家與地區的顧客，網站可切換語言，並提供多種參考幣別。公司設有客服管道，可詢問商品、配送時間、進口稅與退貨政策。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
@@ -41352,7 +41098,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "購買政策與售後",
         "paragraphs": [
-          "付款方式有國際信用卡、PayPal，部分國家還能使用當地電子錢包。巴西與葡萄牙的配送時間、運費與稅費，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+          "付款方式有國際信用卡、PayPal，部分國家還能使用當地電子錢包。配送時間、運費與稅費，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
           "符合條件且保持原包裝的商品要退貨，可透過官方客服的退貨授權表單（RMA）申請。聯絡客服可使用官網的線上聊天與電子郵件。"
         ],
         "bullets": [],
@@ -41407,14 +41153,13 @@ export const reviewsData: unknown[] = [
           "YesStyle 可靠嗎？還是假網站？ YesStyle 是合法經營的公司。它 2006 年成立，總部在香港，是在香港交易所上市的 YesAsia Holdings Limited（2209.HK）的子公司，自稱是所售品牌的授權經銷商。",
           "YesStyle 是哪裡的公司？ 來自香港：公司 2006 年在香港成立，隸屬於在香港交易所上市的 YesAsia Holdings（2209.HK）。",
           "YesStyle 的商品是正品還是仿冒品？ YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷商。這項說法沒有獨立稽核；收到商品時請檢查批號、有效期限與封條。",
-          "YesStyle 寄到巴西要多久？ 店家沒有公布寄往巴西的時間，付款前可在結帳頁面看到。時間如何計算，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
-          "YesStyle 寄往巴西會收進口稅嗎？ 包裹到貨時可能被課徵進口稅。YesStyle 對 1,000 美元以下的訂單退還進口稅與清關費用，以店鋪點數的形式退還。",
+          "YesStyle 配送要多久？ 付款前可在結帳頁面看到。時間如何計算，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+          "YesStyle 會收進口稅嗎？ 包裹到貨時可能被課徵進口稅。YesStyle 對 1,000 美元以下的訂單退還進口稅與清關費用，以店鋪點數的形式退還。",
           "CECILIA010 會改變商品的最終價格嗎？ 會。CECILIA010 作為合作福利提供最多 5% 的額外優惠（首次購買 5%，回購 2%），不會增加讀者的花費。",
           "YesStyle 如何退貨？ 退貨需透過客服的退貨授權表單（RMA）申請。符合條件且未拆封的商品可以退貨，依該商品當時適用的政策，以店鋪點數或原路退款的方式退款。",
           "YesStyle 支援哪些付款方式？ 國際信用卡、PayPal，部分國家還有當地電子錢包。所有訂單都以美元（USD）處理。",
           "在 YesStyle 輸入信用卡資料安全嗎？ 安全。網站使用安全的 HTTPS 連線，並透過經國際認證的支付閘道處理付款。請不要在官方結帳頁面之外輸入敏感資料。",
-          "YesStyle 的官方網域是什麼？ 官方網域是 yesstyle.com（在網站上選擇語言即可使用葡萄牙文）。請小心假網站與未經授權的轉售商。",
-          "YesStyle 寄往巴西免運嗎？ 店家沒有公布寄往巴西的免運活動；運費在付款前的結帳頁面顯示。",
+          "YesStyle 的官方網域是什麼？ 官方網域是 yesstyle.com（網站上可切換語言）。請小心假網站與未經授權的轉售商。",
           "如何在 YesStyle 使用 CECILIA010？ 結帳時，在「獎勵碼」（Reward Code）欄位輸入 CECILIA010。這個欄位與優惠券欄位是分開的，兩者可以同時使用。"
         ]
       }
@@ -41475,7 +41220,7 @@ export const reviewsData: unknown[] = [
         "heading": "公司公开资料",
         "paragraphs": [
           "YesStyle 来自香港，自 2006 年起运营，隶属于在香港交易所上市的 YesAsia Holdings（2209.HK）。",
-          "YesStyle 服务 150 多个国家和地区的顾客，网站有葡萄牙语版，支持多种参考货币。在巴西下单以美元（USD）结算。公司设有客服渠道，可咨询商品、配送时间、进口税和退货政策。"
+          "YesStyle 服务 150 多个国家和地区的顾客，网站可切换语言，支持多种参考货币。公司设有客服渠道，可咨询商品、配送时间、进口税和退货政策。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
@@ -41496,7 +41241,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "购买政策与售后",
         "paragraphs": [
-          "付款方式有国际信用卡、PayPal，部分国家还可使用本地电子钱包。巴西和葡萄牙的配送时间、运费和税费，见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+          "付款方式有国际信用卡、PayPal，部分国家还可使用本地电子钱包。配送时间、运费和税费，见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
           "符合条件且保持原包装的商品退货，可通过官方客服的退货授权表（RMA）申请。联系客服可使用官网的在线聊天和电子邮件。"
         ],
         "bullets": [],
@@ -41551,14 +41296,13 @@ export const reviewsData: unknown[] = [
           "YesStyle 可靠吗？还是假网站？ YesStyle 是正规公司。它 2006 年创立，总部在香港，是在香港交易所上市的 YesAsia Holdings Limited（2209.HK）的子公司，自称是所售品牌的授权经销商。",
           "YesStyle 是哪里的公司？ 来自香港：公司 2006 年在香港创立，隶属于在香港交易所上市的 YesAsia Holdings（2209.HK）。",
           "YesStyle 的商品是正品还是仿冒品？ YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销商。这一说法没有独立审核；收货时请核对批号、有效期和封条。",
-          "YesStyle 寄到巴西要多久？ 店家没有公布寄往巴西的时间，付款前可在结账页面看到。时间怎么计算，见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
-          "YesStyle 寄往巴西会收进口税吗？ 包裹到货时可能被征收进口税。YesStyle 对 1000 美元以下的订单退还进口税和清关费用，以店铺积分的形式退还。",
+          "YesStyle 配送要多久？ 付款前可在结账页面看到。时间怎么计算，见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+          "YesStyle 会收进口税吗？ 包裹到货时可能被征收进口税。YesStyle 对 1000 美元以下的订单退还进口税和清关费用，以店铺积分的形式退还。",
           "CECILIA010 会改变商品的最终价格吗？ 会。CECILIA010 作为合作福利提供最高 5% 的额外优惠（首次购买 5%，回购 2%），不会给读者增加费用。",
           "YesStyle 怎么退货？ 退货需通过客服的退货授权表（RMA）申请。符合条件且未拆封的商品可以退货，按该商品当时适用的政策，以店铺积分或原路退款的方式退款。",
           "YesStyle 支持哪些付款方式？ 国际信用卡、PayPal，部分国家还有本地电子钱包。所有订单都以美元（USD）处理。",
           "在 YesStyle 输入银行卡信息安全吗？ 安全。网站使用安全的 HTTPS 连接，并通过经国际认证的支付网关处理付款。请不要在官方结账页面之外输入敏感信息。",
-          "YesStyle 的官方域名是什么？ 官方域名是 yesstyle.com（在网站上选择语言即可使用葡萄牙语）。请小心假网站和未经授权的转售商。",
-          "YesStyle 寄往巴西包邮吗？ 店家没有公布寄往巴西的免运费活动；运费在付款前的结账页面显示。",
+          "YesStyle 的官方域名是什么？ 官方域名是 yesstyle.com（网站上可切换语言）。请小心假网站和未经授权的转售商。",
           "怎样在 YesStyle 使用 CECILIA010？ 结账时，在“奖励码”（Reward Code）栏位输入 CECILIA010。该栏位与优惠券栏位是分开的，两者可以同时使用。"
         ]
       }
@@ -47435,7 +47179,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Where to buy and how to save with CECILIA010",
         "paragraphs": [
-          "All three products are sold by YesStyle, which delivers to Brazil (check at checkout that shipping shows up for your postal code). Prices are quoted in dollars and shipping is international, so delivery takes longer than from a local store.",
+          "All three products are sold by YesStyle (check at checkout that shipping shows up for your address). Prices are quoted in dollars and shipping is international, so delivery takes longer than from a local store.",
           "At checkout, enter the code CECILIA010 in the Reward Code field: it gives 5% off your first purchase and 2% off the following ones. Promotional coupons go in the other field, Coupon Code, and stack with CECILIA010, including those special coupons that arrive only for your account. The store's active coupons are in [YesStyle coupons and reward code](/en/coupons/yesstyle).",
           "About taxes: YesStyle refunds customs fees on orders under US$ 1,000 (the amount before coupons, excluding shipping). If you're charged on arrival, pay, keep the receipt and send it to the store's support within 30 days. The refund comes as YesStyle credit."
         ],
@@ -47478,7 +47222,6 @@ export const reviewsData: unknown[] = [
           "What is PDRN? It's an ingredient made of DNA fragments, widely used in Korean cosmetics that, according to the brands, promise firmness. In the Abib lip mask, the brand states a plant origin (centella asiatica and ginkgo biloba).",
           "Is retinal the same as retinoic acid? No. Retinal is a vitamin A derivative that the skin converts into retinoic acid. That's why its action is more gradual, and it calls for sunscreen during the day.",
           "Does the Abib lip mask have a strong scent? It has a candy-like scent. I'm sensitive to strong smells, and this one didn't bother me.",
-          "Does YesStyle deliver to Brazil? Yes, but check at checkout that shipping shows up for your postal code. For customs fees charged on arrival, the store offers a credit refund on orders under US$ 1,000.",
           "Where do I use the CECILIA010 code? In the Reward Code field at checkout. It gives 5% off your first purchase and 2% off the following ones, and stacks with the coupon you enter in the Coupon Code field."
         ]
       }
@@ -47547,7 +47290,7 @@ export const reviewsData: unknown[] = [
       "El PDRN y el retinal actúan despacio: no esperes una diferencia visible en la primera semana",
       "El retinal pide protector solar de día: quien, como yo, nunca lo ha usado tendrá que empezar",
       "La primera vez, dudé sobre cuál era el lado correcto del parche",
-      "Compra internacional: el plazo de entrega es mayor que el de una tienda nacional"
+      "Compra internacional: el plazo de entrega es mayor que el de una tienda local"
     ],
     "contentSections": [
       {
@@ -47699,7 +47442,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dónde comprar y cómo ahorrar con el CECILIA010",
         "paragraphs": [
-          "Los tres productos los vende YesStyle, que envía a Brasil (comprueba en el pago que el envío aparece para tu código postal). Los precios se cotizan en dólares y el envío es internacional, así que el plazo es mayor que el de una tienda nacional.",
+          "Los tres productos los vende YesStyle (comprueba en el pago que el envío aparece para tu dirección). Los precios se cotizan en dólares y el envío es internacional, así que el plazo es mayor que el de una tienda local.",
           "En el pago, usa el código CECILIA010 en el campo Reward Code: da un 5% de descuento en la primera compra y un 2% en las siguientes. Los cupones promocionales van en el otro campo, Coupon Code, y se suman al CECILIA010, incluso esos cupones especiales que llegan solo a tu cuenta. Los cupones activos de la tienda están en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
           "Sobre los impuestos: YesStyle reembolsa las tasas de aduana de los pedidos por debajo de US$ 1.000 (valor antes de los cupones, sin el envío). Si te cobran al llegar, paga, guarda el comprobante y envíalo a atención al cliente de la tienda en un plazo de 30 días. El reembolso llega como crédito en YesStyle."
         ],
@@ -47742,7 +47485,6 @@ export const reviewsData: unknown[] = [
           "¿Qué es el PDRN? Es un ingrediente hecho de fragmentos de ADN, muy usado en cosméticos coreanos que, según las marcas, prometen firmeza. En la lip mask de Abib, la marca informa origen vegetal (centella asiática y ginkgo biloba).",
           "¿El retinal es lo mismo que el ácido retinoico? No. El retinal es un derivado de la vitamina A que la piel convierte en ácido retinoico. Por eso la acción es más gradual, y pide protector solar durante el día.",
           "¿La lip mask de Abib tiene olor fuerte? Tiene un olorcito a dulce. Soy sensible a los olores fuertes, y este no me molestó.",
-          "¿YesStyle envía a Brasil? Sí, pero comprueba en el pago que el envío aparece para tu código postal. Para las tasas de aduana cobradas al llegar, la tienda ofrece reembolso en crédito en pedidos por debajo de US$ 1.000.",
           "¿Dónde uso el código CECILIA010? En el campo Reward Code del pago. Da un 5% en la primera compra y un 2% en las siguientes, y se suma al cupón que pongas en el campo Coupon Code."
         ]
       }
@@ -47809,7 +47551,7 @@ export const reviewsData: unknown[] = [
       "Le PDRN et le rétinal agissent lentement : n'attendez pas de différence visible dès la première semaine",
       "Le rétinal demande une crème solaire de jour : celles qui, comme moi, n'en ont jamais utilisé devront s'y mettre",
       "La première fois, j'ai hésité sur le bon côté du patch",
-      "Achat international : le délai de livraison est plus long que celui d'une boutique nationale"
+      "Achat international : le délai de livraison est plus long que celui d'une boutique locale"
     ],
     "contentSections": [
       {
@@ -47961,7 +47703,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Où acheter et comment économiser avec CECILIA010",
         "paragraphs": [
-          "Les trois produits sont vendus par YesStyle, qui livre au Brésil (vérifiez au paiement que l'envoi apparaît pour votre code postal). Les prix sont affichés en dollars et l'expédition est internationale, donc le délai est plus long que celui d'une boutique nationale.",
+          "Les trois produits sont vendus par YesStyle (vérifiez au paiement que l'envoi apparaît pour votre adresse). Les prix sont affichés en dollars et l'expédition est internationale, donc le délai est plus long que celui d'une boutique locale.",
           "Au paiement, utilisez le code CECILIA010 dans le champ Reward Code : il donne 5 % de réduction sur la première commande et 2 % sur les suivantes. Les coupons promotionnels vont dans l'autre champ, Coupon Code, et se cumulent avec CECILIA010, y compris ces coupons spéciaux qui n'arrivent que sur votre compte. Les coupons actifs de la boutique sont dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
           "À propos des taxes : YesStyle rembourse les frais de douane des commandes inférieures à 1 000 US$ (montant avant les coupons, hors expédition). Si des frais vous sont demandés à l'arrivée, payez, gardez le justificatif et envoyez-le au service client de la boutique dans un délai de 30 jours. Le remboursement vient sous forme de crédit chez YesStyle."
         ],
@@ -48004,7 +47746,6 @@ export const reviewsData: unknown[] = [
           "Qu'est-ce que le PDRN ? C'est un ingrédient fabriqué à partir de fragments d'ADN, très utilisé dans les cosmétiques coréens qui promettent de la fermeté, selon les marques. Dans la lip mask d'Abib, la marque indique une origine végétale (centella asiatica et ginkgo biloba).",
           "Le rétinal est-il la même chose que l'acide rétinoïque ? Non. Le rétinal est un dérivé de la vitamine A que la peau convertit en acide rétinoïque. C'est pourquoi l'action est plus progressive, et il demande une crème solaire pendant la journée.",
           "La lip mask d'Abib a-t-elle une odeur forte ? Elle a une petite odeur sucrée. Je suis sensible aux odeurs fortes, et celle-ci ne m'a pas dérangée.",
-          "YesStyle livre-t-elle au Brésil ? Oui, mais vérifiez au paiement que l'envoi apparaît pour votre code postal. Pour les frais de douane facturés à l'arrivée, la boutique offre un remboursement en crédit pour les commandes inférieures à 1 000 US$.",
           "Où utiliser le code CECILIA010 ? Dans le champ Reward Code du paiement. Il donne 5 % sur la première commande et 2 % sur les suivantes, et se cumule avec le coupon que vous saisissez dans le champ Coupon Code."
         ]
       }
@@ -48073,7 +47814,7 @@ export const reviewsData: unknown[] = [
       "PDRN und Retinal wirken langsam: Erwarte in der ersten Woche keinen sichtbaren Unterschied",
       "Retinal verlangt tagsüber Sonnenschutz: Wer wie ich noch nie welchen benutzt hat, muss damit anfangen",
       "Beim ersten Mal war ich unsicher, welche Seite des Patches die richtige ist",
-      "Internationaler Kauf: Die Lieferzeit ist länger als bei einem inländischen Shop"
+      "Internationaler Kauf: Die Lieferzeit ist länger als bei einem lokalen Shop"
     ],
     "contentSections": [
       {
@@ -48225,7 +47966,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wo kaufen und wie Sie mit CECILIA010 sparen",
         "paragraphs": [
-          "Die drei Produkte verkauft YesStyle, das nach Brasilien liefert (prüfen Sie an der Kasse, ob der Versand für Ihre Postleitzahl angezeigt wird). Die Preise werden in Dollar angegeben und der Versand ist international, daher dauert die Lieferung länger als bei einem inländischen Shop.",
+          "Die drei Produkte verkauft YesStyle (prüfen Sie an der Kasse, ob der Versand für Ihre Adresse angezeigt wird). Die Preise werden in Dollar angegeben und der Versand ist international, daher dauert die Lieferung länger als bei einem lokalen Shop.",
           "Geben Sie an der Kasse den Code CECILIA010 im Feld Reward Code ein: Er gibt 5 % Rabatt auf den ersten Einkauf und 2 % auf die folgenden. Aktionscoupons kommen in das andere Feld, Coupon Code, und lassen sich mit CECILIA010 kombinieren, auch diese besonderen Coupons, die nur auf Ihr Konto kommen. Die aktiven Coupons des Shops finden Sie unter [YesStyle-Coupons und Reward Code](/de/coupons/yesstyle).",
           "Zu den Steuern: YesStyle erstattet die Zollgebühren bei Bestellungen unter 1.000 US$ (Betrag vor den Coupons, ohne Versand). Wenn bei der Ankunft etwas verlangt wird, zahle, hebe den Beleg auf und schicke ihn innerhalb von 30 Tagen an den Kundenservice des Shops. Die Erstattung kommt als Guthaben bei YesStyle."
         ],
@@ -48268,7 +48009,6 @@ export const reviewsData: unknown[] = [
           "Was ist PDRN? Es ist ein Inhaltsstoff aus DNA-Fragmenten, der häufig in koreanischer Kosmetik steckt, die laut den Marken Straffheit verspricht. Bei der Lip Mask von Abib gibt die Marke einen pflanzlichen Ursprung an (Centella asiatica und Ginkgo biloba).",
           "Ist Retinal dasselbe wie Retinsäure? Nein. Retinal ist ein Derivat von Vitamin A, das die Haut in Retinsäure umwandelt. Deshalb ist die Wirkung schrittweiser, und es verlangt tagsüber Sonnenschutz.",
           "Hat die Lip Mask von Abib einen starken Geruch? Sie hat einen süßlichen Duft. Ich reagiere empfindlich auf starke Gerüche, und dieser hat mich nicht gestört.",
-          "Liefert YesStyle nach Brasilien? Ja, aber prüfen Sie an der Kasse, ob der Versand für Ihre Postleitzahl angezeigt wird. Für Zollgebühren, die bei der Ankunft erhoben werden, bietet der Shop bei Bestellungen unter 1.000 US$ eine Erstattung als Guthaben an.",
           "Wo verwende ich den Code CECILIA010? Im Feld Reward Code an der Kasse. Er gibt 5 % auf den ersten Einkauf und 2 % auf die folgenden und lässt sich mit dem Coupon kombinieren, den Sie im Feld Coupon Code eingeben."
         ]
       }
@@ -48337,7 +48077,7 @@ export const reviewsData: unknown[] = [
       "PDRN e retinale agiscono lentamente: non aspettarti una differenza visibile nella prima settimana",
       "Il retinale richiede la protezione solare di giorno: chi, come me, non l'ha mai usata dovrà iniziare",
       "La prima volta ho avuto dei dubbi su quale fosse il lato giusto della patch",
-      "Acquisto internazionale: i tempi di consegna sono più lunghi rispetto a un negozio nazionale"
+      "Acquisto internazionale: i tempi di consegna sono più lunghi rispetto a un negozio locale"
     ],
     "contentSections": [
       {
@@ -48489,7 +48229,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dove comprare e come risparmiare con il CECILIA010",
         "paragraphs": [
-          "I tre prodotti sono venduti da YesStyle, che spedisce in Brasile (controlla al checkout che la spedizione compaia per il tuo CAP). I prezzi sono in dollari e la spedizione è internazionale, quindi i tempi sono più lunghi rispetto a un negozio nazionale.",
+          "I tre prodotti sono venduti da YesStyle (controlla al checkout che la spedizione compaia per il tuo indirizzo). I prezzi sono in dollari e la spedizione è internazionale, quindi i tempi sono più lunghi rispetto a un negozio locale.",
           "Al checkout, usa il codice CECILIA010 nel campo Reward Code: dà il 5% di sconto sul primo acquisto e il 2% sui successivi. I coupon promozionali vanno nell'altro campo, Coupon Code, e si sommano al CECILIA010, compresi quei coupon speciali che arrivano solo sul tuo account. I coupon attivi del negozio sono in [coupon YesStyle e codice reward](/it/coupons/yesstyle).",
           "Sulle imposte: YesStyle rimborsa le spese doganali sugli ordini sotto i 1.000 US$ (importo prima dei coupon, spedizione esclusa). Se ti viene addebitato qualcosa all'arrivo, paga, conserva la ricevuta e inviala all'assistenza del negozio entro 30 giorni. Il rimborso arriva sotto forma di credito su YesStyle."
         ],
@@ -48532,7 +48272,6 @@ export const reviewsData: unknown[] = [
           "Che cos'è il PDRN? È un ingrediente fatto di frammenti di DNA, molto usato nei cosmetici coreani che, secondo i marchi, promettono fermezza. Nella lip mask di Abib, il marchio informa un'origine vegetale (centella asiatica e ginkgo biloba).",
           "Il retinale è la stessa cosa dell'acido retinoico? No. Il retinale è un derivato della vitamina A che la pelle converte in acido retinoico. Per questo l'azione è più graduale, e richiede la protezione solare durante il giorno.",
           "La lip mask di Abib ha un odore forte? Ha un profumino dolce. Sono sensibile agli odori forti, e questo non mi ha dato fastidio.",
-          "YesStyle spedisce in Brasile? Sì, ma controlla al checkout che la spedizione compaia per il tuo CAP. Per le spese doganali addebitate all'arrivo, il negozio offre un rimborso in credito per gli ordini sotto i 1.000 US$.",
           "Dove uso il codice CECILIA010? Nel campo Reward Code del checkout. Dà il 5% sul primo acquisto e il 2% sui successivi, e si somma al coupon che inserisci nel campo Coupon Code."
         ]
       }
@@ -48603,7 +48342,7 @@ export const reviewsData: unknown[] = [
       "PDRN과 레티날은 천천히 작용하니 첫 주에 눈에 보이는 차이를 기대하지 말 것",
       "레티날을 쓰면 낮에는 선크림이 필요함. 저처럼 한 번도 안 써 본 사람은 이 습관부터 만들어야 함",
       "처음에는 패치의 앞뒤를 헷갈렸음",
-      "해외 구매라 국내 쇼핑몰보다 배송 기간이 긺"
+      "해외 구매라 가까운 쇼핑몰보다 배송 기간이 긺"
     ],
     "contentSections": [
       {
@@ -48755,7 +48494,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "구매처와 CECILIA010으로 아끼는 법",
         "paragraphs": [
-          "세 제품 모두 YesStyle에서 팔고, 브라질로도 배송해요(내 CEP로 배송이 표시되는지 결제 화면에서 확인하세요). 가격은 달러로 표시되고 배송은 국제 배송이라서 국내 쇼핑몰보다 배송 기간이 길어요.",
+          "세 제품 모두 YesStyle에서 팔아요(내 주소로 배송이 표시되는지 결제 화면에서 확인하세요). 가격은 달러로 표시되고 배송은 국제 배송이라서 가까운 쇼핑몰보다 배송 기간이 길어요.",
           "결제할 때 Reward Code 칸에 CECILIA010 코드를 입력하세요. 첫 구매는 5%, 이후 구매는 2% 할인돼요. 프로모션 쿠폰은 다른 칸인 Coupon Code에 입력하고 CECILIA010과 함께 쓸 수 있어요. 내 계정으로만 오는 특별 쿠폰도 마찬가지예요. 쇼핑몰의 사용 가능한 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 모아 두었어요.",
           "세금에 대해: YesStyle은 US$1,000 미만 주문(쿠폰 적용 전 금액, 배송비 제외)의 관세를 환급해 줘요. 도착했을 때 청구되면 납부하고 영수증을 보관했다가 30일 안에 쇼핑몰 고객센터로 보내세요. 환급은 YesStyle 크레딧으로 들어와요."
         ],
@@ -48798,7 +48537,6 @@ export const reviewsData: unknown[] = [
           "PDRN이 뭔가요? DNA 조각으로 만든 성분으로, 브랜드들이 탄력을 내세우는 한국 화장품에 많이 쓰여요. 아비브 립 마스크는 아비브가 식물 유래(병풀과 은행나무)라고 밝혀요.",
           "레티날은 레티노산과 같은 건가요? 아니에요. 레티날은 비타민 A 유도체로 피부에서 레티노산으로 바뀌어요. 그래서 작용이 더 서서히 일어나고, 낮에는 선크림이 필요해요.",
           "아비브 립 마스크는 향이 강한가요? 달콤한 향이 나요. 저는 강한 향에 예민한 편인데 이건 거슬리지 않았어요.",
-          "YesStyle은 브라질로 배송하나요? 네, 하지만 내 CEP로 배송이 표시되는지 결제 화면에서 확인하세요. 도착했을 때 청구된 관세는 US$1,000 미만 주문이라면 쇼핑몰이 크레딧으로 환급해 줘요.",
           "CECILIA010은 어디에 쓰나요? 결제 화면의 Reward Code 칸이에요. 첫 구매는 5%, 이후 구매는 2% 할인되고, Coupon Code 칸에 넣은 쿠폰과 함께 쓸 수 있어요."
         ]
       }
@@ -48867,7 +48605,7 @@ export const reviewsData: unknown[] = [
       "PDRNとレチナールはゆっくり働くので、1週間目から目に見える違いは期待しないで",
       "レチナールを使うなら日中は日焼け止めが必要。私のように使ったことがない人は、まずその習慣から",
       "初めてのときは、アイパッチの表裏がわからず迷った",
-      "海外購入なので、国内ショップより届くまでに時間がかかる"
+      "海外購入なので、地元のショップより届くまでに時間がかかる"
     ],
     "contentSections": [
       {
@@ -49019,7 +48757,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "購入先とCECILIA010での節約",
         "paragraphs": [
-          "3品ともYesStyleで販売されていて、ブラジルへも発送します（お住まいのCEP宛てに配送が表示されるか、チェックアウトで確認してください）。価格はドル表示で、送料は国際送料なので、国内のショップより届くまでに時間がかかります。",
+          "3品ともYesStyleで販売されています（お届け先の住所宛てに配送が表示されるか、チェックアウトで確認してください）。価格はドル表示で、送料は国際送料なので、地元のショップより届くまでに時間がかかります。",
           "チェックアウトでは、Reward Codeの欄にCECILIA010を入力してください。初回購入は5％オフ、2回目以降は2％オフになります。プロモーションクーポンは別の欄、Coupon Codeに入力し、CECILIA010と併用できます。あなたのアカウントだけに届く特別クーポンも同様です。ショップで有効なクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)にまとめています。",
           "税金について：YesStyleは、US$1,000未満の注文（クーポン適用前、送料を除く金額）の関税を払い戻します。到着時に請求があった場合は、支払って領収書を保管し、30日以内にショップのサポートへ送ってください。払い戻しはYesStyleのクレジットで行われます。"
         ],
@@ -49062,7 +48800,6 @@ export const reviewsData: unknown[] = [
           "PDRNとは？ DNAの断片から作られる成分で、ハリをうたうコリアンコスメによく使われています（ブランドによる）。AbibのリップマスクについてはAbibが植物由来（ツボクサとイチョウ）と説明しています。",
           "レチナールはレチノイン酸と同じ？ いいえ。レチナールはビタミンA誘導体で、肌の中でレチノイン酸に変わります。そのため作用はゆるやかで、日中は日焼け止めが必要です。",
           "Abibのリップマスクはにおいが強い？ 甘い香りがします。私は強い香りが苦手ですが、これは気になりませんでした。",
-          "YesStyleはブラジルへ発送する？ はい。ただし、お住まいのCEP宛てに配送が表示されるか、チェックアウトで確認してください。到着時に関税を請求された場合、US$1,000未満の注文ならショップがクレジットで払い戻します。",
           "CECILIA010はどこで使う？ チェックアウトのReward Codeの欄です。初回購入は5％、2回目以降は2％で、Coupon Codeの欄に入れたクーポンと併用できます。"
         ]
       }
@@ -49130,7 +48867,7 @@ export const reviewsData: unknown[] = [
       "PDRN 與視黃醛作用緩慢：第一週別期待看到明顯差別",
       "用視黃醛，白天就要擦防曬。像我這樣從沒用過的人，得先養成這個習慣",
       "第一次用的時候，我不確定眼膜貼要貼哪一面",
-      "跨境購買，到貨時間比國內商店更長"
+      "跨境購買，到貨時間比本地商店更長"
     ],
     "contentSections": [
       {
@@ -49282,7 +49019,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "哪裡買，以及如何用 CECILIA010 省錢",
         "paragraphs": [
-          "這三樣產品都在 YesStyle 販售，並寄送到巴西（請在結帳時確認是否顯示可寄送到你的郵遞區號 CEP）。價格以美元報價，運費是國際運費，所以到貨時間比國內商店更長。",
+          "這三樣產品都在 YesStyle 販售（請在結帳時確認是否顯示可寄送到你的地址）。價格以美元報價，運費是國際運費，所以到貨時間比本地商店更長。",
           "結帳時，請在 Reward Code 欄位輸入代碼 CECILIA010：首次購買享 5% 折扣，之後每次 2%。促銷優惠券要填在另一個欄位 Coupon Code，而且可以和 CECILIA010 疊加，包括只會發到你帳號的特別優惠券。商店目前有效的優惠券請見[YesStyle 優惠券與回饋代碼](/zh-hant/coupons/yesstyle)。",
           "關於稅費：YesStyle 會補償低於 1,000 美元訂單的關稅（指使用優惠券前的金額，不含運費）。如果到貨時被收費，請先付款、保留收據，並在 30 天內寄給商店客服。補償會以 YesStyle 額度的形式發放。"
         ],
@@ -49325,7 +49062,6 @@ export const reviewsData: unknown[] = [
           "PDRN 是什麼？ 它是以 DNA 片段製成的成分，常見於主打緊緻的韓國化妝品（依品牌說明）。Abib 說明其護唇膜中的 PDRN 來自植物（積雪草與銀杏）。",
           "視黃醛和視黃酸是同一種東西嗎？ 不是。視黃醛是維生素 A 的衍生物，肌膚會把它轉化為視黃酸。所以作用更循序漸進，白天需要擦防曬。",
           "Abib 護唇膜味道重嗎？ 有甜甜的香氣。我對濃烈的味道比較敏感，這個並沒有困擾我。",
-          "YesStyle 會寄送到巴西嗎？ 會，但請在結帳時確認是否顯示可寄送到你的郵遞區號 CEP。到貨時被收取的關稅，低於 1,000 美元的訂單，商店提供額度補償。",
           "CECILIA010 填在哪裡？ 填在結帳頁的 Reward Code 欄位。首次購買享 5%，之後每次 2%，而且可以和你填在 Coupon Code 欄位的優惠券疊加。"
         ]
       }
@@ -49394,7 +49130,7 @@ export const reviewsData: unknown[] = [
       "PDRN 和视黄醛起效缓慢：第一周别指望看到明显差别",
       "用视黄醛，白天就要涂防晒。像我这样从没用过的人，得先养成这个习惯",
       "第一次用时，我拿不准眼贴该贴哪一面",
-      "跨境购买，到货时间比国内商店更长"
+      "跨境购买，到货时间比本地商店更长"
     ],
     "contentSections": [
       {
@@ -49546,7 +49282,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "哪里买，以及如何用 CECILIA010 省钱",
         "paragraphs": [
-          "这三件产品都在 YesStyle 销售，并寄送到巴西（请在结账时确认是否显示可寄送到你的邮编 CEP）。价格以美元报价，运费是国际运费，所以到货时间比国内商店更长。",
+          "这三件产品都在 YesStyle 销售（请在结账时确认是否显示可寄送到你的地址）。价格以美元报价，运费是国际运费，所以到货时间比本地商店更长。",
           "结账时，请在 Reward Code 栏位输入代码 CECILIA010：首次购买享 5% 折扣，之后每次 2%。促销优惠券要填在另一个栏位 Coupon Code，并且可以和 CECILIA010 叠加，包括只发到你账户的特别优惠券。商店目前有效的优惠券见[YesStyle 优惠券和奖励代码](/zh-hans/coupons/yesstyle)。",
           "关于税费：YesStyle 会报销低于 1,000 美元订单的关税（指使用优惠券前的金额，不含运费）。如果到货时被收费，请先付款、保留收据，并在 30 天内发给商店客服。报销以 YesStyle 额度的形式发放。"
         ],
@@ -49589,7 +49325,6 @@ export const reviewsData: unknown[] = [
           "PDRN 是什么？ 它是用 DNA 片段制成的成分，常见于主打紧致的韩国化妆品（据品牌说明）。Abib 说明其唇膜中的 PDRN 来自植物（积雪草和银杏）。",
           "视黄醛和视黄酸是一回事吗？ 不是。视黄醛是维生素 A 的衍生物，皮肤会把它转化为视黄酸。所以作用更循序渐进，白天需要涂防晒。",
           "Abib 唇膜气味重吗？ 有甜甜的香气。我对浓烈气味比较敏感，这个并没有困扰我。",
-          "YesStyle 寄送到巴西吗？ 可以，但请在结账时确认是否显示可寄送到你的邮编 CEP。到货时被收取的关税，低于 1,000 美元的订单，商店提供额度报销。",
           "CECILIA010 填在哪里？ 填在结账页的 Reward Code 栏位。首次购买享 5%，之后每次 2%，并且可以和你填在 Coupon Code 栏位的优惠券叠加。"
         ]
       }
@@ -49626,7 +49361,7 @@ export const reviewsData: unknown[] = [
     "seoTitle": "Codice ricompensa YesStyle CECILIA010: come usarlo",
     "type": "Guida e coupon",
     "reviewKind": "guia",
-    "description": "Guida pratica per usare il codice influencer CECILIA010 su YesStyle. Scopri dove inserirlo al checkout (Reward Code), come abbinarlo ai coupon attivi, i consigli per la K-Beauty e le regole di importazione per il Brasile.",
+    "description": "Guida pratica per usare il codice influencer CECILIA010 su YesStyle. Scopri dove inserirlo al checkout (Reward Code), come abbinarlo ai coupon attivi e i consigli per la K-Beauty.",
     "metaDescription": "Come usare CECILIA010 su YesStyle: campo Reward Code, fino al 5% extra (5% sul primo ordine e 2% sui successivi), abbinabile ai coupon promozionali idonei secondo il checkout.",
     "publishedAt": "28 settembre 2026",
     "publishedAtISO": "2026-09-28",
@@ -49642,12 +49377,12 @@ export const reviewsData: unknown[] = [
       "Spedizione gratuita sopra un importo minimo, che compare al checkout",
       "Vasto catalogo di K-Beauty, moda coreana e J-Beauty",
       "Prodotti 100% autentici, distributore autorizzato",
-      "Sito con navigazione e checkout in portoghese"
+      "Selettore della lingua in alto nel sito"
     ],
     "cons": [
       "Non sostituisce i coupon normali (funziona in un campo separato)",
       "Gli ordini internazionali possono comportare spese doganali; controlla la politica di rimborso di YesStyle prima di acquistare",
-      "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio nazionale",
+      "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio locale",
       "Prezzi finali indicati in dollari (soggetti alle oscillazioni del cambio)"
     ],
     "contentSections": [
@@ -49708,16 +49443,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Vai sul sito ufficiale di YesStyle",
         "paragraphs": [
-          "Vai sul sito ufficiale di YesStyle (yesstyle.com). In alto, se preferisci, seleziona la lingua portoghese per navigare e leggere i prodotti più facilmente."
+          "Vai sul sito ufficiale di YesStyle (yesstyle.com). In alto, se preferisci, cambia la lingua per navigare e leggere i prodotti più facilmente."
         ]
       },
       {
         "heading": "2. Scegli i prodotti e aggiungili al carrello",
         "paragraphs": [
-          "Sfoglia le varie categorie di K-Beauty, make-up o moda coreana e aggiungi al carrello gli articoli che vuoi. L'importo minimo per la spedizione gratuita in Brasile compare al checkout, dopo il CAP."
+          "Sfoglia le varie categorie di K-Beauty, make-up o moda coreana e aggiungi al carrello gli articoli che vuoi. L'importo minimo per la spedizione gratuita compare al checkout, dopo l'indirizzo di consegna."
         ],
         "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
-        "imageAlt": "Carrello di YesStyle con prodotti di bellezza, spedizione gratuita per il Brasile e campo per inserire il codice.",
+        "imageAlt": "Carrello di YesStyle con prodotti di bellezza, spedizione gratuita e campo per inserire il codice.",
         "imageCaption": "Nel carrello controlla prodotti, spedizione e il campo dove andranno applicati i codici prima di concludere.",
         "imageFit": "contain"
       },
@@ -49740,7 +49475,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. Controlla gli sconti e concludi l'ordine",
         "paragraphs": [
-          "Verifica che i due livelli di sconto (codice ricompensa + coupon) siano stati applicati sul subtotale dell'ordine. Inserisci i dati di spedizione in Brasile, scegli il metodo di pagamento (carta o PayPal) e conferma l'acquisto.",
+          "Verifica che i due livelli di sconto (codice ricompensa + coupon) siano stati applicati sul subtotale dell'ordine. Inserisci i dati di spedizione, scegli il metodo di pagamento (carta o PayPal) e conferma l'acquisto.",
           "Controlla che CECILIA010 e il coupon attivo siano ciascuno nel proprio campo: il codice ricompensa messo nel campo del coupon dà errore."
         ]
       },
@@ -49779,32 +49514,16 @@ export const reviewsData: unknown[] = [
         "heading": "Che cos'è YesStyle?",
         "paragraphs": [
           "YesStyle (scritto anche Yes Style) è una delle piattaforme di e-commerce più grandi e complete al mondo dedicate alla moda coreana, alla K-beauty, alla J-beauty (bellezza giapponese) e ai prodotti asiatici in generale. Fondata nel 2006 e con sede a Hong Kong, l'azienda è diventata un punto di riferimento globale per chi cerca di entrare nell'universo della bellezza coreana e della moda orientale con fiducia e autenticità.",
-          "YesStyle serve clienti in oltre 150 paesi e regioni, con una versione tradotta in portoghese e la conversione dei prezzi per facilitare la navigazione nel mercato brasiliano. Il catalogo è enorme: migliaia di prodotti di skincare coreana, make-up di marchi affermati, moda concettuale, accessori e integratori per il benessere."
+          "YesStyle serve clienti in oltre 150 paesi e regioni, con un selettore della lingua e la conversione dei prezzi per facilitare la navigazione. Il catalogo è enorme: migliaia di prodotti di skincare coreana, make-up di marchi affermati, moda concettuale, accessori e integratori per il benessere."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "Home page di YesStyle in portoghese con banner promozionale di K-beauty e prodotti in evidenza.",
-        "imageCaption": "YesStyle riunisce campagne promozionali, prodotti di K-beauty e navigazione tradotta in portoghese.",
+        "imageAlt": "Home page di YesStyle con banner promozionale di K-beauty e prodotti in evidenza.",
+        "imageCaption": "YesStyle riunisce campagne promozionali, prodotti di K-beauty e navigazione tradotta.",
         "imageFit": "wide",
         "bullets": [
           "K-Beauty (bellezza coreana): sieri glass skin, essenze, tonici, protezioni solari e prodotti per la celebre routine di cura asiatica",
           "Moda coreana e asiatica: abiti, scarpe, borse e accessori ispirati alle tendenze urbane di Seul e Tokyo",
           "J-Beauty e benessere: marchi giapponesi rinomati (come Hada Labo) e integratori alimentari"
-        ]
-      },
-      {
-        "heading": "K-Beauty in Brasile: cosa cercano le brasiliane",
-        "paragraphs": [
-          "La K-beauty (bellezza coreana) è diventata una vera e propria mania di consumo in Brasile. Quella che era nata come una curiosità di nicchia, spinta dai fan di K-pop e K-drama, si è consolidata come una delle tendenze più forti nella cura della pelle sul mercato cosmetico brasiliano.",
-          "Comprare su YesStyle è uno dei modi più sicuri per ottenere K-beauty originale, perché il sito acquista direttamente dai marchi e ha un portafoglio molto più ampio dei rivenditori locali in Brasile."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "Sezione delle regioni di YesStyle con le categorie bellezza giapponese, bellezza cinese e bellezza del sud-est asiatico.",
-        "imageCaption": "Oltre alla K-beauty, YesStyle organizza i prodotti anche per regioni e tendenze asiatiche.",
-        "imageFit": "wide",
-        "bullets": [
-          "Glass skin: pelle intensamente idratata, luminosa e uniforme",
-          "Routine coreana: attenzione a passaggi come il double cleansing (doppia detersione), i tonici idratanti e le essenze nutrienti",
-          "Ingredienti affermati: centella asiatica (lenitiva), snail mucin (bava di lumaca per la rigenerazione), propoli e acido ialuronico"
         ]
       },
       {
@@ -49823,26 +49542,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Spedizione e consegna in Brasile",
-        "paragraphs": [
-          "YesStyle offre la spedizione gratuita a partire da un importo minimo, che cambia da paese a paese. Per il Brasile, il costo della spedizione, il minimo per la spedizione gratuita e le opzioni di invio compaiono al checkout, dopo il CAP.",
-          "Il tempo di consegna è dato dal tempo necessario a preparare l'ordine più il tempo del metodo di spedizione, con partenza da Hong Kong, e compare al checkout. La dogana può aggiungere qualche giorno, e i tempi variano con la regione del Brasile e il periodo dell'anno."
-        ],
-        "bullets": [
-          "Tracciamento: codice di tracciamento fornito per tutti gli ordini, disponibile nell'e-mail e nell'account YesStyle",
-          "Consegna finale: effettuata dalle Poste (Correios) o da un corriere partner",
-          "Dogana: è normale che l'ordine resti qualche giorno in “Customs clearance”"
-        ]
-      },
-      {
         "heading": "Tasse e importazione: cosa può essere addebitato",
         "paragraphs": [
-          "Gli acquisti internazionali possono essere sottoposti a controllo doganale in Brasile e comportare imposte, tasse di importazione, spese amministrative o altri costi legati allo sblocco dell'ordine. Per questo, oltre a calcolare prodotto e spedizione, conviene mettere in conto un possibile costo extra prima di comprare.",
+          "Gli acquisti internazionali possono essere sottoposti a controllo doganale e comportare imposte, tasse di importazione, spese amministrative o altri costi legati allo sblocco dell'ordine. Per questo, oltre a calcolare prodotto e spedizione, conviene mettere in conto un possibile costo extra prima di comprare.",
           "YesStyle dichiara che gli ordini sotto i US$ 1.000 possono ottenere il rimborso delle tasse doganali, se paghi prima, conservi la ricevuta e fai richiesta entro 30 giorni. Il rimborso, se approvato, viene emesso come Credito del negozio YesStyle.",
           "Prima di comprare, consulta la pagina di aiuto ufficiale di YesStyle sul rimborso di imposte e tasse doganali, perché le regole di importazione e le politiche del negozio possono cambiare."
         ],
         "bullets": [
-          "Conserva la ricevuta di pagamento di qualsiasi tassa doganale pagata in Brasile",
+          "Conserva la ricevuta di pagamento di qualsiasi tassa doganale pagata",
           "Invia la richiesta di rimborso tramite l'assistenza di YesStyle entro il termine di 30 giorni",
           "Il rimborso non è automatico: dipende dalla valutazione e dalle regole della politica in vigore di YesStyle",
           "Gli ordini da US$ 1.000 in su non rientrano in questa politica di rimborso indicata dal marchio",
@@ -49861,7 +49568,6 @@ export const reviewsData: unknown[] = [
           "Approfitta dell'Elite Club: programma fedeltà a punti accumulati: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
           "Non ignorare i prodotti “Daily Free”: prodotti gratuiti per acquisti sopra un certo importo.",
           "Leggi le recensioni (reviews): foto reali, commenti su consistenza, profumo e risultato, informazioni sulla scadenza.",
-          "Confronta con il prezzo in Brasile: cerca su Beleza na Web, Sephora e rivenditori di K-beauty prima di comprare.",
           "Tieni d'occhio le stagioni: Black Friday (novembre), 11.11 (Giornata dei single), Natale, Summer Sale (giugno/luglio), Back to School (agosto/settembre).",
           "Usa sempre CECILIA010: non costa nulla, aggiunge fino al 5% extra (5% sul 1º ordine / 2% sui successivi) se applicato correttamente e sostiene il blog."
         ]
@@ -49876,19 +49582,17 @@ export const reviewsData: unknown[] = [
           "Posso sommare CECILIA010 al coupon della promozione del mese? Sì! Va nel campo “Reward Code”, mentre i coupon vanno nel campo “Coupon Code”. Così aggiungi fino al 5% extra (5% sul primo ordine e 2% sugli acquisti successivi) ai coupon promozionali idonei confermati al checkout.",
           "CECILIA010 ha una scadenza? Funziona finché il programma per influencer di YesStyle è attivo e il codice viene verificato regolarmente.",
           "Comprare su YesStyle è sicuro? Sì. Azienda legittima dal 2006, serve più di 150 paesi e regioni, prodotti autentici, crittografia SSL.",
-          "Quanto ci mette ad arrivare in Brasile? Il tempo stimato compare al checkout, dopo il CAP. Il tempo in dogana può aggiungere giorni extra.",
           "Pagherò tasse di importazione? Può succedere. Se c'è un addebito doganale, controlla la politica ufficiale di YesStyle: il marchio indica la possibilità di rimborso di imposte e tasse doganali per gli ordini idonei sotto i US$ 1.000, con ricevuta e richiesta entro il termine, sotto forma di Credito del negozio.",
           "Qual è il modo migliore per pagare? Carta di credito internazionale (Visa, Mastercard, Amex) o PayPal. La conversione viene fatta automaticamente dall'operatore.",
           "I prodotti sono originali? Sì. YesStyle è distributore autorizzato dei marchi. Compra direttamente dai produttori o dai distributori ufficiali.",
           "Posso restituire i prodotti? La politica è limitata per gli acquisti internazionali. I prodotti difettosi o spediti per errore possono essere restituiti. I prodotti di K-beauty (skincare, make-up) in genere non possono essere restituiti per ragioni igieniche, a meno che non siano sigillati.",
           "Che cos'è l'Elite Club? Il programma fedeltà di YesStyle. Più spendi, più punti accumuli: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
-          "Il sito ha una versione in portoghese? Sì! In alto nel sito puoi selezionare la lingua portoghese.",
-          "La spedizione gratuita vale per tutto il Brasile? L'importo minimo per la spedizione gratuita compare al checkout, dopo il CAP. I tempi possono essere più lunghi per le regioni lontane.",
-          "Come tracciare il mio ordine di YesStyle? Dopo la conferma di spedizione, YesStyle invia un'e-mail con il codice di tracciamento internazionale. Puoi anche consultare lo storico degli ordini accedendo al tuo account. Il tracciamento funziona tramite servizi come 17track o sul sito del corriere. Il tempo stimato compare al checkout e può variare alla dogana brasiliana.",
-          "Che fare se il mio ordine di YesStyle viene trattenuto in dogana? Se l'ordine viene fermato dalla Receita Federal, potresti ricevere la notifica di pagare l'Imposta di Importazione. YesStyle indica che, per gli ordini idonei sotto i US$ 1.000, è possibile chiedere il rimborso di imposte e tasse doganali sotto forma di Credito del negozio, con la ricevuta di pagamento e la richiesta all'assistenza entro 30 giorni.",
-          "I vestiti di YesStyle usano taglie asiatiche. Come scelgo la mia? Sì, la maggior parte dei vestiti segue la numerazione asiatica, che in genere è più piccola di quella brasiliana. Consulta sempre la tabella delle misure nella pagina di ogni prodotto (di solito in centimetri) e confrontala con le tue misure. Consigliamo di ordinare una o due taglie in più del solito, soprattutto per i capi più aderenti.",
+          "Il sito ha altre lingue? Sì! In alto nel sito puoi cambiare la lingua.",
+          "Come tracciare il mio ordine di YesStyle? Dopo la conferma di spedizione, YesStyle invia un'e-mail con il codice di tracciamento internazionale. Puoi anche consultare lo storico degli ordini accedendo al tuo account. Il tracciamento funziona tramite servizi come 17track o sul sito del corriere. Il tempo stimato compare al checkout e può variare in dogana.",
+          "Che fare se il mio ordine di YesStyle viene trattenuto in dogana? Se l'ordine viene trattenuto in dogana, potresti ricevere la notifica di pagare l'imposta di importazione. YesStyle indica che, per gli ordini idonei sotto i US$ 1.000, è possibile chiedere il rimborso di imposte e tasse doganali sotto forma di Credito del negozio, con la ricevuta di pagamento e la richiesta all'assistenza entro 30 giorni.",
+          "I vestiti di YesStyle usano taglie asiatiche. Come scelgo la mia? Sì, la maggior parte dei vestiti segue la numerazione asiatica. Consulta sempre la tabella delle misure nella pagina di ogni prodotto (di solito in centimetri) e confrontala con le tue misure. Consigliamo di ordinare una o due taglie in più del solito, soprattutto per i capi più aderenti.",
           "Quali sono i marchi di K-beauty più venduti su YesStyle? YesStyle è distributore autorizzato di marchi affermati come COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul e Haruharu. Il sito organizza i prodotti in categorie come essenze, tonici, sieri e protezioni solari, facilitando la ricerca per la routine di skincare coreana.",
-          "Posso annullare o modificare un ordine su YesStyle dopo la conferma? YesStyle permette di annullare gli ordini non ancora spediti (stato 'Processing') direttamente dallo storico ordini del tuo account. Dopo la spedizione non è più possibile annullare, ma puoi rifiutare la consegna quando arriva in Brasile. Le modifiche all'indirizzo o ai prodotti sono possibili solo prima della spedizione, tramite l'assistenza clienti.",
+          "Posso annullare o modificare un ordine su YesStyle dopo la conferma? YesStyle permette di annullare gli ordini non ancora spediti (stato 'Processing') direttamente dallo storico ordini del tuo account. Dopo la spedizione non è più possibile annullare, ma puoi rifiutare la consegna quando arriva. Le modifiche all'indirizzo o ai prodotti sono possibili solo prima della spedizione, tramite l'assistenza clienti.",
           "Codice YesStyle per il primo acquisto: come usare CECILIA010? Il codice CECILIA010 funziona su qualsiasi acquisto, garantendo fino al 5% extra (5% sul primo ordine e 2% sugli acquisti successivi), abbinabile ai coupon promozionali idonei confermati al checkout.",
           "Codice influencer YesStyle: cos'è CECILIA010? CECILIA010 è un codice ricompensa per influencer registrato su YesStyle. Concede fino al 5% di sconto extra (5% sul primo ordine e 2% sugli acquisti successivi) al checkout e si può abbinare ai coupon promozionali idonei, a differenza dei codici per il primo acquisto, che di solito non sono cumulabili."
         ]
@@ -50175,7 +49879,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dati pubblici sull'azienda",
         "paragraphs": [
           "YesStyle ha sede a Hong Kong ed esiste dal 2006. Appartiene a YesAsia Holdings (2209.HK), quotata alla Borsa di Hong Kong.",
-          "YesStyle serve clienti in oltre 150 paesi e regioni, con una versione del sito tradotta in portoghese e più valute di riferimento. In Brasile gli acquisti vengono addebitati in dollari (USD). L'azienda mette a disposizione canali di assistenza clienti per chiarire dubbi su prodotti, tempi di consegna, imposte di importazione e politica dei resi."
+          "YesStyle serve clienti in oltre 150 paesi e regioni, con un selettore di lingua sul sito e più valute di riferimento. L'azienda mette a disposizione canali di assistenza clienti per chiarire dubbi su prodotti, tempi di consegna, imposte di importazione e politica dei resi."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
@@ -50196,7 +49900,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Politiche di acquisto e assistenza post-vendita",
         "paragraphs": [
-          "Per pagare ci sono carta internazionale, PayPal e, in alcuni paesi, portafogli locali. Tempi, spedizione e imposte in Brasile e in Portogallo sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+          "Per pagare ci sono carta internazionale, PayPal e, in alcuni paesi, portafogli locali. Tempi, spedizione e imposte sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
           "Per rendere articoli idonei nella confezione originale, la richiesta si può fare con il modulo di autorizzazione (RMA) tramite l'assistenza clienti ufficiale. Il supporto è raggiungibile via chat e e-mail sul sito ufficiale."
         ],
         "bullets": [],
@@ -50251,14 +49955,13 @@ export const reviewsData: unknown[] = [
           "YesStyle è affidabile o è un sito falso? YesStyle è legittima. È un'azienda fondata nel 2006 con sede a Hong Kong, controllata di YesAsia Holdings Limited, quotata alla Borsa di Hong Kong (2209.HK), e si presenta come distributore autorizzato dei marchi che vende.",
           "Da dove viene YesStyle? Da Hong Kong: il negozio è stato fondato lì nel 2006 e appartiene a YesAsia Holdings, quotata alla Borsa di Hong Kong (2209.HK).",
           "I prodotti YesStyle sono originali o contraffatti? YesStyle afferma di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana, acquistando dai produttori o da distributori autorizzati. Non c'è un audit indipendente di questa affermazione; alla consegna, controlla lotto, scadenza e sigillo.",
-          "Qual è il tempo di consegna di YesStyle per il Brasile? Il negozio non pubblica un tempo di consegna per il Brasile: compare al checkout, prima di pagare. Come viene calcolato il tempo è spiegato nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
-          "YesStyle applica imposte di importazione per il Brasile? L'imposta può essere addebitata all'arrivo del pacco. YesStyle rimborsa imposte e costi doganali sugli ordini sotto i 1.000 US$, sotto forma di credito nel negozio.",
+          "Qual è il tempo di consegna di YesStyle? Compare al checkout, prima di pagare. Come viene calcolato il tempo è spiegato nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+          "YesStyle applica imposte di importazione? L'imposta può essere addebitata all'arrivo del pacco. YesStyle rimborsa imposte e costi doganali sugli ordini sotto i 1.000 US$, sotto forma di credito nel negozio.",
           "Il codice CECILIA010 cambia il prezzo finale del prodotto? Sì. Il codice CECILIA010 offre fino al 5% in più (5% sul primo acquisto, 2% su quelli successivi) come vantaggio della partnership, senza costi aggiuntivi per il lettore.",
           "Come funziona il reso su YesStyle? La richiesta di reso si fa con il modulo di autorizzazione (RMA) presso l'assistenza clienti. I prodotti idonei e non manomessi possono essere resi per un rimborso sotto forma di credito nel negozio o di riaccredito, secondo la politica vigente per il prodotto.",
           "Quali metodi di pagamento accetta YesStyle? Carta di credito internazionale, PayPal e, in alcuni paesi, portafogli locali. Tutti gli ordini sono elaborati in USD.",
           "È sicuro inserire i dati della carta su YesStyle? Sì, il sito usa una connessione HTTPS sicura ed elabora i pagamenti tramite gateway certificati a livello internazionale. Non inserire mai dati sensibili al di fuori del checkout ufficiale.",
-          "Qual è il dominio ufficiale di YesStyle? Il dominio ufficiale è yesstyle.com (con il portoghese disponibile selezionandolo sul sito). Attenzione ai siti falsi o ai rivenditori non autorizzati.",
-          "YesStyle offre la spedizione gratuita per il Brasile? Il negozio non pubblica la spedizione gratuita per il Brasile; il costo di spedizione compare al checkout, prima di pagare.",
+          "Qual è il dominio ufficiale di YesStyle? Il dominio ufficiale è yesstyle.com (con un selettore di lingua sul sito). Attenzione ai siti falsi o ai rivenditori non autorizzati.",
           "Come si usa il codice CECILIA010 su YesStyle? Digita CECILIA010 nel campo \"Reward Code\" (codice ricompensa) durante il checkout. Questo campo è separato da quello dei coupon e si possono usare entrambi contemporaneamente."
         ]
       }
@@ -57588,7 +57291,7 @@ export const reviewsData: unknown[] = [
       "The 2026 dates are not out yet: for now, the calendar is an estimate based on past years",
       "The Black Friday tiered coupon is the same as the rest of the year",
       "Coupons are for members only, one per order, and do not discount shipping",
-      "International purchase: delivery takes longer than from a store in Brazil"
+      "International purchase: delivery takes longer than from a local store"
     ],
     "contentSections": [
       {
@@ -57629,7 +57332,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "In 2026, Black Friday falls on November 27 and Cyber Monday on November 30. If YesStyle repeats the pattern, the Black Friday name should show up on the coupons in early November, and the 15% days with no minimum should land around those two dates. This is an estimate based on past years: the store can change everything, and this guide is updated when the 2026 pages come out.",
-          "Coupons switch at a fixed time in GMT. In 2025, the tiered coupons switched at 2:00 GMT, which is 11 p.m. the day before in Brasília, and the 15% with no minimum started at 8:00 GMT, 5 a.m. in Brasília."
+          "Coupons switch at a fixed time in GMT. In 2025, the tiered coupons switched at 2:00 GMT, and the 15% with no minimum started at 8:00 GMT."
         ]
       },
       {
@@ -57732,13 +57435,13 @@ export const reviewsData: unknown[] = [
         "heading": "After Black Friday: Christmas",
         "paragraphs": [
           "In 2024, the biggest end-of-year coupon was not the Black Friday one: in Christmas week, YesStyle gave 18% with no minimum on everything. In 2025, the coupons open to all members stayed at 15% until the end of the year.",
-          "For Christmas gifts, the Black Friday purchase is the safest. An international order takes longer than one from a store in Brazil, and the estimated delivery time appears at checkout before you pay."
+          "For Christmas gifts, the Black Friday purchase is the safest. An international order takes longer than one from a local store, and the estimated delivery time appears at checkout before you pay."
         ]
       },
       {
-        "heading": "Delivery to Brazil and taxes",
+        "heading": "Delivery and taxes",
         "paragraphs": [
-          "Shipping and delivery time appear at checkout, and the coupon does not discount shipping. If the package is taxed on arrival, YesStyle refunds the taxes and customs fees on orders under US$ 1,000, as store credit. What the store publishes for Brazil and Portugal, and how to ask for the refund, is in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
+          "Shipping and delivery time appear at checkout, and the coupon does not discount shipping. If the package is taxed on arrival, YesStyle refunds the taxes and customs fees on orders under US$ 1,000, as store credit. What the store publishes about delivery and how to ask for the refund is in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -57794,7 +57497,6 @@ export const reviewsData: unknown[] = [
           "Does CECILIA010 work on Black Friday? Yes. It goes in the Reward Code field, and the Black Friday coupon rules say the coupons are valid together with Reward Codes.",
           "Can I use two YesStyle coupons on the same order? No: it is one coupon per order. The Reward Code is a different thing and goes in another checkout field.",
           "Do I need a YesStyle account to use the Black Friday coupon? Yes. The coupons are for members only, and guest checkouts get no discount.",
-          "Does YesStyle deliver to Brazil? The store does not list Brazil in its shipping table, but an order of ours was shipped two days after it was placed. Shipping and delivery time appear at checkout.",
           "Will I pay tax when buying from YesStyle? There may be a charge when the package arrives. On orders under US$ 1,000, YesStyle refunds those taxes as store credit, if you send the receipt within 30 days."
         ]
       }
@@ -57862,7 +57564,7 @@ export const reviewsData: unknown[] = [
       "Las fechas de 2026 aún no han salido: por ahora, el calendario es una estimación según el historial",
       "El cupón por tramos del Black Friday es el mismo del resto del año",
       "Los cupones son solo para miembros, valen uno por pedido y no descuentan el envío",
-      "Compra internacional: el plazo de entrega es mayor que el de una tienda de Brasil"
+      "Compra internacional: el plazo de entrega es mayor que el de una tienda local"
     ],
     "contentSections": [
       {
@@ -57903,7 +57605,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "En 2026, el Black Friday cae el 27 de noviembre y el Cyber Monday el 30 de noviembre. Si YesStyle repite el patrón, el nombre Black Friday debería aparecer en los cupones a principios de noviembre, y los días de 15% sin compra mínima deberían quedar cerca de esas dos fechas. Es una estimación según el historial: la tienda puede cambiarlo todo, y esta guía se actualiza cuando salgan las páginas de 2026.",
-          "Los cupones cambian a una hora fija en GMT. En 2025, los cupones por tramos cambiaron a las 2:00 GMT, que son las 23:00 del día anterior en Brasilia, y el de 15% sin mínimo empezó a las 8:00 GMT, las 5:00 de la mañana en Brasilia."
+          "Los cupones cambian a una hora fija en GMT. En 2025, los cupones por tramos cambiaron a las 2:00 GMT, y el de 15% sin mínimo empezó a las 8:00 GMT."
         ]
       },
       {
@@ -58006,13 +57708,13 @@ export const reviewsData: unknown[] = [
         "heading": "Después del Black Friday: la Navidad",
         "paragraphs": [
           "En 2024, el mayor cupón de fin de año no fue el del Black Friday: en la semana de Navidad, YesStyle dio 18% sin compra mínima en todo. En 2025, los cupones abiertos a todos los miembros se quedaron en 15% hasta fin de año.",
-          "Para regalos de Navidad, la compra del Black Friday es la más segura. Una compra internacional tarda más que la de una tienda de Brasil, y el plazo estimado aparece en el checkout antes de pagar."
+          "Para regalos de Navidad, la compra del Black Friday es la más segura. Una compra internacional tarda más que la de una tienda local, y el plazo estimado aparece en el checkout antes de pagar."
         ]
       },
       {
-        "heading": "Envío a Brasil e impuestos",
+        "heading": "Envío e impuestos",
         "paragraphs": [
-          "El envío y el plazo aparecen en el checkout, y el cupón no descuenta el envío. Si el paquete paga impuestos al llegar, YesStyle reembolsa los impuestos y las tasas de aduana en pedidos de menos de US$ 1.000, como crédito en la tienda. Lo que la tienda publica para Brasil y Portugal, y cómo pedir el reembolso, está en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
+          "El envío y el plazo aparecen en el checkout, y el cupón no descuenta el envío. Si el paquete paga impuestos al llegar, YesStyle reembolsa los impuestos y las tasas de aduana en pedidos de menos de US$ 1.000, como crédito en la tienda. Lo que la tienda publica sobre el envío y cómo pedir el reembolso está en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -58068,7 +57770,6 @@ export const reviewsData: unknown[] = [
           "¿CECILIA010 vale en el Black Friday? Sí. Va en el campo Reward Code, y las reglas de los cupones del Black Friday dicen que valen junto con los Reward Codes.",
           "¿Se pueden usar dos cupones de YesStyle en el mismo pedido? No: es un cupón por pedido. El código de recompensa es otra cosa y va en otro campo del checkout.",
           "¿Necesito una cuenta en YesStyle para usar el cupón del Black Friday? Sí. Los cupones son solo para miembros, y quien compra como invitado se queda sin el descuento.",
-          "¿YesStyle envía a Brasil? La tienda no incluye Brasil en la tabla de envío, pero un pedido nuestro fue enviado dos días después de hacerlo. El envío y el plazo aparecen en el checkout.",
           "¿Pagaré impuestos comprando en YesStyle? Puede haber un cobro cuando llegue el paquete. En pedidos de menos de US$ 1.000, YesStyle devuelve esos impuestos como crédito en la tienda, si envías el comprobante en un plazo de 30 días."
         ]
       }
@@ -58136,7 +57837,7 @@ export const reviewsData: unknown[] = [
       "Les dates de 2026 ne sont pas encore sorties : pour l'instant, le calendrier est une estimation d'après l'historique",
       "Le coupon par palier du Black Friday est le même que le reste de l'année",
       "Les coupons sont réservés aux membres, valables un par commande, et ne réduisent pas les frais de port",
-      "Achat international : le délai de livraison est plus long que celui d'une boutique au Brésil"
+      "Achat international : le délai de livraison est plus long que celui d'une boutique locale"
     ],
     "contentSections": [
       {
@@ -58177,7 +57878,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "En 2026, le Black Friday tombe le 27 novembre et le Cyber Monday le 30 novembre. Si YesStyle reproduit le schéma, le nom Black Friday devrait apparaître sur les coupons début novembre, et les jours à 15 % sans minimum devraient se situer autour de ces deux dates. C'est une estimation d'après l'historique : la boutique peut tout changer, et ce guide est mis à jour quand les pages de 2026 sortiront.",
-          "Les coupons changent à une heure fixe en GMT. En 2025, les coupons par palier ont changé à 2 h GMT, soit 23 h la veille à Brasília, et celui de 15 % sans minimum a commencé à 8 h GMT, 5 h du matin à Brasília."
+          "Les coupons changent à une heure fixe en GMT. En 2025, les coupons par palier ont changé à 2 h GMT, et celui de 15 % sans minimum a commencé à 8 h GMT."
         ]
       },
       {
@@ -58280,13 +57981,13 @@ export const reviewsData: unknown[] = [
         "heading": "Après le Black Friday : Noël",
         "paragraphs": [
           "En 2024, le plus gros coupon de fin d'année n'a pas été celui du Black Friday : la semaine de Noël, YesStyle a offert 18 % sans minimum sur tout. En 2025, les coupons ouverts à tous les membres sont restés à 15 % jusqu'à la fin de l'année.",
-          "Pour un cadeau de Noël, l'achat du Black Friday est le plus sûr. Une commande internationale prend plus de temps que celle d'une boutique au Brésil, et le délai estimé s'affiche à la page de paiement avant de payer."
+          "Pour un cadeau de Noël, l'achat du Black Friday est le plus sûr. Une commande internationale prend plus de temps que celle d'une boutique locale, et le délai estimé s'affiche à la page de paiement avant de payer."
         ]
       },
       {
-        "heading": "Livraison au Brésil et taxes",
+        "heading": "Livraison et taxes",
         "paragraphs": [
-          "Les frais de port et le délai s'affichent à la page de paiement, et le coupon ne réduit pas les frais de port. Si le colis est taxé à l'arrivée, YesStyle rembourse les taxes et les droits de douane sur les commandes de moins de 1 000 US$, sous forme de crédit en boutique. Ce que la boutique publie pour le Brésil et le Portugal, et la façon de demander le remboursement, se trouve dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
+          "Les frais de port et le délai s'affichent à la page de paiement, et le coupon ne réduit pas les frais de port. Si le colis est taxé à l'arrivée, YesStyle rembourse les taxes et les droits de douane sur les commandes de moins de 1 000 US$, sous forme de crédit en boutique. Ce que la boutique publie sur la livraison et la façon de demander le remboursement se trouve dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -58342,7 +58043,6 @@ export const reviewsData: unknown[] = [
           "CECILIA010 est-il valable pendant le Black Friday ? Oui. Il va dans le champ Reward Code, et les règles des coupons du Black Friday indiquent qu'ils sont valables avec les Reward Codes.",
           "Peut-on utiliser deux coupons YesStyle dans la même commande ? Non : c'est un coupon par commande. Le code récompense est autre chose et va dans un autre champ de la page de paiement.",
           "Faut-il un compte YesStyle pour utiliser le coupon du Black Friday ? Oui. Les coupons sont réservés aux membres, et qui commande en invité n'a pas la remise.",
-          "YesStyle livre-t-il au Brésil ? La boutique ne mentionne pas le Brésil dans son tableau des frais de port, mais une de nos commandes a été expédiée deux jours après avoir été passée. Les frais de port et le délai s'affichent à la page de paiement.",
           "Vais-je payer des taxes en achetant chez YesStyle ? Il peut y avoir un prélèvement à l'arrivée du colis. Sur les commandes de moins de 1 000 US$, YesStyle rembourse ces taxes sous forme de crédit en boutique, si vous envoyez le justificatif dans les 30 jours."
         ]
       }
@@ -58410,7 +58110,7 @@ export const reviewsData: unknown[] = [
       "Die Termine für 2026 sind noch nicht veröffentlicht: Der Kalender ist vorerst eine Schätzung nach den Vorjahren",
       "Der Staffelgutschein des Black Friday ist derselbe wie im Rest des Jahres",
       "Die Gutscheine gelten nur für Mitglieder, einer pro Bestellung, und mindern nicht die Versandkosten",
-      "Internationaler Kauf: Die Lieferzeit ist länger als bei einem Shop in Brasilien"
+      "Internationaler Kauf: Die Lieferzeit ist länger als bei einem lokalen Shop"
     ],
     "contentSections": [
       {
@@ -58451,7 +58151,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "2026 fällt der Black Friday auf den 27. November und der Cyber Monday auf den 30. November. Wenn YesStyle das Muster wiederholt, dürfte der Name Black Friday Anfang November auf den Gutscheinen erscheinen, und die 15-%-Tage ohne Mindestbestellwert dürften um diese beiden Termine liegen. Das ist eine Schätzung nach den Vorjahren: Der Shop kann alles ändern, und dieser Ratgeber wird aktualisiert, sobald die Seiten für 2026 erscheinen.",
-          "Die Gutscheine wechseln zu einer festen Uhrzeit in GMT. 2025 wechselten die Staffelgutscheine um 2 Uhr GMT, das sind 23 Uhr am Vortag in Brasília, und der 15-%-Gutschein ohne Mindestbestellwert begann um 8 Uhr GMT, 5 Uhr morgens in Brasília."
+          "Die Gutscheine wechseln zu einer festen Uhrzeit in GMT. 2025 wechselten die Staffelgutscheine um 2 Uhr GMT, und der 15-%-Gutschein ohne Mindestbestellwert begann um 8 Uhr GMT."
         ]
       },
       {
@@ -58554,13 +58254,13 @@ export const reviewsData: unknown[] = [
         "heading": "Nach dem Black Friday: Weihnachten",
         "paragraphs": [
           "2024 war der größte Gutschein zum Jahresende nicht der des Black Friday: In der Weihnachtswoche gab YesStyle 18 % ohne Mindestbestellwert auf alles. 2025 blieben die für alle Mitglieder offenen Gutscheine bis zum Jahresende bei 15 %.",
-          "Für Weihnachtsgeschenke ist der Kauf am Black Friday am sichersten. Eine internationale Bestellung dauert länger als eine bei einem Shop in Brasilien, und die geschätzte Lieferzeit erscheint im Checkout, bevor Sie bezahlen."
+          "Für Weihnachtsgeschenke ist der Kauf am Black Friday am sichersten. Eine internationale Bestellung dauert länger als eine bei einem lokalen Shop, und die geschätzte Lieferzeit erscheint im Checkout, bevor Sie bezahlen."
         ]
       },
       {
-        "heading": "Lieferung nach Brasilien und Steuern",
+        "heading": "Lieferung und Steuern",
         "paragraphs": [
-          "Versand und Lieferzeit erscheinen im Checkout, und der Gutschein mindert den Versand nicht. Wird das Paket bei der Ankunft besteuert, erstattet YesStyle die Steuern und Zollgebühren bei Bestellungen unter US$ 1.000 als Guthaben im Shop. Was der Shop für Brasilien und Portugal veröffentlicht und wie man die Erstattung beantragt, steht im [Lieferratgeber zu YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
+          "Versand und Lieferzeit erscheinen im Checkout, und der Gutschein mindert den Versand nicht. Wird das Paket bei der Ankunft besteuert, erstattet YesStyle die Steuern und Zollgebühren bei Bestellungen unter US$ 1.000 als Guthaben im Shop. Was der Shop zur Lieferung veröffentlicht und wie man die Erstattung beantragt, steht im [Lieferratgeber zu YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -58616,7 +58316,6 @@ export const reviewsData: unknown[] = [
           "Gilt der CECILIA010 am Black Friday? Ja. Er kommt in das Feld Reward Code, und die Regeln der Black-Friday-Gutscheine besagen, dass sie zusammen mit Reward Codes gelten.",
           "Kann man zwei YesStyle-Gutscheine in derselben Bestellung nutzen? Nein: Es gilt ein Gutschein pro Bestellung. Der Reward Code ist etwas anderes und kommt in ein anderes Feld des Checkouts.",
           "Brauche ich ein YesStyle-Konto, um den Black-Friday-Gutschein zu nutzen? Ja. Die Gutscheine gelten nur für Mitglieder, und wer als Gast bestellt, bekommt den Rabatt nicht.",
-          "Liefert YesStyle nach Brasilien? Der Shop führt Brasilien nicht in der Versandtabelle, aber eine Bestellung von uns wurde zwei Tage nach der Aufgabe verschickt. Versand und Lieferzeit erscheinen im Checkout.",
           "Zahle ich Steuern, wenn ich bei YesStyle kaufe? Bei der Ankunft des Pakets kann eine Abgabe anfallen. Bei Bestellungen unter US$ 1.000 erstattet YesStyle diese Steuern als Guthaben im Shop, wenn Sie den Beleg innerhalb von 30 Tagen schicken."
         ]
       }
@@ -58684,7 +58383,7 @@ export const reviewsData: unknown[] = [
       "Le date del 2026 non sono ancora uscite: per ora il calendario è una stima basata sullo storico",
       "Il coupon a scaglioni del Black Friday è lo stesso del resto dell'anno",
       "I coupon sono solo per i membri, uno per ordine, e non scontano la spedizione",
-      "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio in Brasile"
+      "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio locale"
     ],
     "contentSections": [
       {
@@ -58725,7 +58424,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Nel 2026 il Black Friday cade il 27 novembre e il Cyber Monday il 30 novembre. Se YesStyle ripeterà lo schema, il nome Black Friday dovrebbe comparire sui coupon a inizio novembre, e i giorni al 15% senza minimo dovrebbero cadere vicino a queste due date. È una stima basata sullo storico: il negozio può cambiare tutto, e questa guida viene aggiornata quando usciranno le pagine del 2026.",
-          "I coupon cambiano a un orario fisso in GMT. Nel 2025 i coupon a scaglioni sono cambiati alle 2:00 GMT, cioè alle 23:00 del giorno prima a Brasília, e quello al 15% senza minimo è iniziato alle 8:00 GMT, le 5:00 del mattino a Brasília."
+          "I coupon cambiano a un orario fisso in GMT. Nel 2025 i coupon a scaglioni sono cambiati alle 2:00 GMT, e quello al 15% senza minimo è iniziato alle 8:00 GMT."
         ]
       },
       {
@@ -58828,13 +58527,13 @@ export const reviewsData: unknown[] = [
         "heading": "Dopo il Black Friday: il Natale",
         "paragraphs": [
           "Nel 2024, il coupon più alto di fine anno non è stato quello del Black Friday: nella settimana di Natale YesStyle ha dato il 18% senza minimo su tutto. Nel 2025, i coupon aperti a tutti i membri sono rimasti al 15% fino a fine anno.",
-          "Per i regali di Natale, l'acquisto del Black Friday è il più sicuro. Un acquisto internazionale richiede più tempo di uno in un negozio in Brasile, e il tempo di consegna stimato compare nel checkout prima di pagare."
+          "Per i regali di Natale, l'acquisto del Black Friday è il più sicuro. Un acquisto internazionale richiede più tempo di uno in un negozio locale, e il tempo di consegna stimato compare nel checkout prima di pagare."
         ]
       },
       {
-        "heading": "Consegna in Brasile e tasse",
+        "heading": "Consegna e tasse",
         "paragraphs": [
-          "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se il pacco viene tassato all'arrivo, YesStyle rimborsa le tasse e i dazi doganali sugli ordini sotto i US$ 1.000, come credito nel negozio. Ciò che il negozio pubblica per il Brasile e il Portogallo, e come chiedere il rimborso, è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
+          "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se il pacco viene tassato all'arrivo, YesStyle rimborsa le tasse e i dazi doganali sugli ordini sotto i US$ 1.000, come credito nel negozio. Ciò che il negozio pubblica sulla consegna e come chiedere il rimborso è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -58890,7 +58589,6 @@ export const reviewsData: unknown[] = [
           "CECILIA010 vale nel Black Friday? Sì. Va nel campo Reward Code, e le regole dei coupon del Black Friday dicono che valgono insieme ai Reward Code.",
           "Si possono usare due coupon di YesStyle nello stesso ordine? No: è un coupon per ordine. Il codice ricompensa è un'altra cosa e va in un altro campo del checkout.",
           "Serve un account su YesStyle per usare il coupon del Black Friday? Sì. I coupon sono solo per i membri, e chi acquista come ospite resta senza sconto.",
-          "YesStyle consegna in Brasile? Il negozio non include il Brasile nella tabella delle spedizioni, ma un nostro ordine è stato spedito due giorni dopo averlo fatto. La spedizione e i tempi compaiono nel checkout.",
           "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini sotto i US$ 1.000, YesStyle rimborsa queste tasse come credito nel negozio, se invii la ricevuta entro 30 giorni."
         ]
       }
@@ -58958,7 +58656,7 @@ export const reviewsData: unknown[] = [
       "2026년 일정은 아직 나오지 않음: 지금의 일정은 과거 기록으로 한 추정",
       "블랙프라이데이의 구간별 쿠폰은 평소와 같음",
       "쿠폰은 회원 전용이고, 주문당 하나만 쓸 수 있으며, 배송비에는 적용되지 않음",
-      "해외 구매라서 배송 기간이 국내 쇼핑몰보다 김"
+      "해외 구매라서 배송 기간이 가까운 쇼핑몰보다 김"
     ],
     "contentSections": [
       {
@@ -58999,7 +58697,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "2026년 블랙프라이데이는 11월 27일, 사이버 먼데이는 11월 30일입니다. YesStyle이 같은 패턴을 따른다면 Black Friday 이름의 쿠폰은 11월 초에 나오고, 최소 금액 없는 15% 데는 이 두 날짜 근처가 될 것입니다. 과거 기록으로 한 추정일 뿐이고, 스토어가 모든 것을 바꿀 수도 있습니다. 2026년 페이지가 나오면 이 가이드를 업데이트하겠습니다.",
-          "쿠폰은 GMT로 정해진 시각에 바뀝니다. 2025년에는 구간별 쿠폰이 GMT 2시(브라질리아 기준 전날 23시)에 바뀌었고, 최소 금액 없는 15%는 GMT 8시(브라질리아 기준 오전 5시)에 시작했습니다."
+          "쿠폰은 GMT로 정해진 시각에 바뀝니다. 2025년에는 구간별 쿠폰이 GMT 2시에 바뀌었고, 최소 금액 없는 15%는 GMT 8시에 시작했습니다."
         ]
       },
       {
@@ -59102,13 +58800,13 @@ export const reviewsData: unknown[] = [
         "heading": "블랙프라이데이 다음은 크리스마스",
         "paragraphs": [
           "2024년에는 연말 최대 쿠폰이 블랙프라이데이 쿠폰이 아니었습니다. 크리스마스 주간에 YesStyle이 전 상품 최소 금액 없이 18%를 줬습니다. 2025년에는 모든 회원에게 열린 쿠폰이 연말까지 15%에 머물렀습니다.",
-          "크리스마스 선물이라면 블랙프라이데이에 사는 것이 가장 안전합니다. 해외 구매는 국내 쇼핑몰보다 오래 걸리고, 예상 배송 기간은 결제 전에 결제 화면에서 확인할 수 있습니다."
+          "크리스마스 선물이라면 블랙프라이데이에 사는 것이 가장 안전합니다. 해외 구매는 가까운 쇼핑몰보다 오래 걸리고, 예상 배송 기간은 결제 전에 결제 화면에서 확인할 수 있습니다."
         ]
       },
       {
-        "heading": "브라질 배송과 세금",
+        "heading": "배송과 세금",
         "paragraphs": [
-          "배송비와 배송 기간은 결제 화면에 나오고, 쿠폰은 배송비에는 적용되지 않습니다. 도착했을 때 소포에 세금이 붙으면, YesStyle은 US$ 1,000 미만 주문의 세금과 관세를 스토어 크레딧으로 환급합니다. 스토어가 브라질과 포르투갈에 대해 공개한 내용과 환급 신청 방법은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다."
+          "배송비와 배송 기간은 결제 화면에 나오고, 쿠폰은 배송비에는 적용되지 않습니다. 도착했을 때 소포에 세금이 붙으면, YesStyle은 US$ 1,000 미만 주문의 세금과 관세를 스토어 크레딧으로 환급합니다. 스토어가 배송에 대해 공개한 내용과 환급 신청 방법은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -59164,7 +58862,6 @@ export const reviewsData: unknown[] = [
           "CECILIA010은 블랙프라이데이에도 되나요? 됩니다. Reward Code 칸에 넣으며, 블랙프라이데이 쿠폰 규정에도 리워드 코드와 함께 쓸 수 있다고 되어 있습니다.",
           "YesStyle 쿠폰 두 개를 한 주문에 쓸 수 있나요? 안 됩니다. 주문당 쿠폰은 하나입니다. 리워드 코드는 다른 것이고 결제 화면의 다른 칸에 넣습니다.",
           "블랙프라이데이 쿠폰을 쓰려면 YesStyle 계정이 필요한가요? 필요합니다. 쿠폰은 회원 전용이고, 비회원으로 구매하면 할인을 받지 못합니다.",
-          "YesStyle은 브라질로 배송하나요? 스토어의 배송비 표에는 브라질이 없지만, 저희 주문은 주문 이틀 뒤에 발송됐습니다. 배송비와 배송 기간은 결제 화면에 나옵니다.",
           "YesStyle에서 사면 세금을 내나요? 소포가 도착할 때 부과될 수 있습니다. US$ 1,000 미만 주문은 영수증을 30일 안에 보내면 YesStyle이 그 세금을 스토어 크레딧으로 돌려줍니다."
         ]
       }
@@ -59232,7 +58929,7 @@ export const reviewsData: unknown[] = [
       "2026年の日程はまだ未発表。今のスケジュールは過去の実績からの推定",
       "ブラックフライデーの段階式クーポンは、通常時と同じ",
       "クーポンは会員限定で、1注文につき1枚、送料には使えない",
-      "海外通販なので、国内ストアより届くまでに時間がかかる"
+      "海外通販なので、地元のストアより届くまでに時間がかかる"
     ],
     "contentSections": [
       {
@@ -59273,7 +58970,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "2026年のブラックフライデーは11月27日、サイバーマンデーは11月30日です。YesStyleが例年どおりなら、「Black Friday」の名前のクーポンは11月の初めに出て、最低金額なしの15%の日はこの2つの日付の近くになるはずです。あくまで過去の実績からの推定で、ストア側がすべて変えることもあります。2026年のページが出たら、このガイドを更新します。",
-          "クーポンはGMTの決まった時刻に切り替わります。2025年は、段階式クーポンの切り替えがGMT 2時（ブラジリアでは前日の23時）、最低金額なしの15%の開始がGMT 8時（ブラジリアでは朝5時）でした。"
+          "クーポンはGMTの決まった時刻に切り替わります。2025年は、段階式クーポンの切り替えがGMT 2時、最低金額なしの15%の開始がGMT 8時でした。"
         ]
       },
       {
@@ -59376,13 +59073,13 @@ export const reviewsData: unknown[] = [
         "heading": "ブラックフライデーのあと：クリスマス",
         "paragraphs": [
           "2024年は、年末でいちばん大きなクーポンはブラックフライデーのものではありませんでした。クリスマスの週に、YesStyleは全商品を最低金額なしで18%引きにしました。2025年は、全会員が使えるクーポンは年末まで15%のままでした。",
-          "クリスマスプレゼントなら、ブラックフライデーに買うのがいちばん安全です。海外通販は国内ストアより時間がかかり、配送の目安はお支払い前にチェックアウトで確認できます。"
+          "クリスマスプレゼントなら、ブラックフライデーに買うのがいちばん安全です。海外通販は地元のストアより時間がかかり、配送の目安はお支払い前にチェックアウトで確認できます。"
         ]
       },
       {
-        "heading": "ブラジルへの配送と税金",
+        "heading": "配送と税金",
         "paragraphs": [
-          "送料と配送日数はチェックアウトに表示され、クーポンは送料には使えません。荷物が到着時に課税された場合、YesStyleは、US$1,000未満の注文にかかった税金と関税を、ストアクレジットで返金します。ストアがブラジルとポルトガル向けに公開している内容と、返金の申請方法は、[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。"
+          "送料と配送日数はチェックアウトに表示され、クーポンは送料には使えません。荷物が到着時に課税された場合、YesStyleは、US$1,000未満の注文にかかった税金と関税を、ストアクレジットで返金します。ストアが配送について公開している内容と、返金の申請方法は、[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -59438,7 +59135,6 @@ export const reviewsData: unknown[] = [
           "CECILIA010はブラックフライデーでも使えますか？使えます。Reward Code欄に入力します。ブラックフライデーのクーポンのルールにも、リワードコードと併用できると書かれています。",
           "YesStyleのクーポンを同じ注文で2枚使えますか？使えません。1注文につきクーポンは1枚です。リワードコードは別のもので、チェックアウトの別の欄に入力します。",
           "YesStyleのブラックフライデーのクーポンを使うには、アカウントが必要ですか？必要です。クーポンは会員限定で、ゲスト購入では割引されません。",
-          "YesStyleはブラジルに届けてくれますか？ストアの送料表にブラジルは載っていませんが、私たちの注文は注文の2日後に発送されました。送料と配送日数はチェックアウトに表示されます。",
           "YesStyleで買うと税金はかかりますか？荷物の到着時に課税されることがあります。US$1,000未満の注文なら、領収書を30日以内に送ると、YesStyleがその税金をストアクレジットで返金します。"
         ]
       }
@@ -59506,7 +59202,7 @@ export const reviewsData: unknown[] = [
       "2026 年的日期尚未公布：目前的日程只是依往年紀錄的推測",
       "黑色星期五的階梯優惠券和平常的一樣",
       "優惠券僅限會員，每筆訂單限用一張，不折抵運費",
-      "這是跨境購物，送達時間比台灣的商店長"
+      "這是跨境購物，送達時間比本地商店長"
     ],
     "contentSections": [
       {
@@ -59547,7 +59243,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "2026 年的黑色星期五是 11 月 27 日，網購星期一是 11 月 30 日。如果 YesStyle 沿用往年的模式，名為 Black Friday 的優惠券會在 11 月初出現，無最低消費的 15% 日子則會落在這兩個日期前後。這只是依往年紀錄的推測：商店可能全部改變。2026 年的頁面出來後，本指南會隨之更新。",
-          "優惠券依 GMT 的固定時間切換。2025 年，階梯優惠券在 GMT 2 點切換，也就是巴西利亞時間前一天 23 點；無最低消費的 15% 則在 GMT 8 點開始，也就是巴西利亞時間早上 5 點。"
+          "優惠券依 GMT 的固定時間切換。2025 年，階梯優惠券在 GMT 2 點切換，無最低消費的 15% 則在 GMT 8 點開始。"
         ]
       },
       {
@@ -59650,13 +59346,13 @@ export const reviewsData: unknown[] = [
         "heading": "黑色星期五之後：聖誕節",
         "paragraphs": [
           "2024 年，年底最大的優惠券並不是黑色星期五那張：聖誕節那一週，YesStyle 對所有商品給出了無最低消費的 18%。2025 年，開放給所有會員的優惠券到年底都維持在 15%。",
-          "如果是買聖誕禮物，黑色星期五下單最穩妥。跨境購物比在台灣的商店買要久，預計送達時間會在付款前顯示在結帳頁。"
+          "如果是買聖誕禮物，黑色星期五下單最穩妥。跨境購物比在本地商店買要久，預計送達時間會在付款前顯示在結帳頁。"
         ]
       },
       {
-        "heading": "寄往巴西與稅費",
+        "heading": "配送與稅費",
         "paragraphs": [
-          "運費與送達時間會顯示在結帳頁，優惠券不折抵運費。如果包裹到貨時被課稅，YesStyle 會對 1,000 美元以下的訂單，以店鋪抵用金退還稅費與關稅。商店針對巴西與葡萄牙公布的內容，以及如何申請退款，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
+          "運費與送達時間會顯示在結帳頁，優惠券不折抵運費。如果包裹到貨時被課稅，YesStyle 會對 1,000 美元以下的訂單，以店鋪抵用金退還稅費與關稅。商店公布的配送資訊，以及如何申請退款，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -59712,7 +59408,6 @@ export const reviewsData: unknown[] = [
           "CECILIA010 在黑色星期五能用嗎？能用。它填在 Reward Code 欄位，黑色星期五優惠券的規則也寫明可與獎勵碼一起使用。",
           "同一筆訂單能用兩張 YesStyle 優惠券嗎？不能：每筆訂單一張優惠券。獎勵碼是另一回事，填在結帳頁的另一個欄位。",
           "使用黑色星期五優惠券需要 YesStyle 帳號嗎？需要。優惠券僅限會員，以訪客身分購買拿不到折扣。",
-          "YesStyle 寄到巴西嗎？商店的運費表裡沒有巴西，但我們的一筆訂單在下單兩天後就寄出了。運費與送達時間會顯示在結帳頁。",
           "在 YesStyle 購物要繳稅嗎？包裹到貨時可能會被課稅。1,000 美元以下的訂單，如果你在 30 天內寄出憑證，YesStyle 會以店鋪抵用金退還這些稅費。"
         ]
       }
@@ -59780,7 +59475,7 @@ export const reviewsData: unknown[] = [
       "2026 年的日期尚未公布：目前的日程只是根据往年记录的推测",
       "黑色星期五的阶梯优惠券和平时的一样",
       "优惠券仅限会员，每笔订单限用一张，不抵扣运费",
-      "这是跨境购物，送达时间比国内商店长"
+      "这是跨境购物，送达时间比本地商店长"
     ],
     "contentSections": [
       {
@@ -59821,7 +59516,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "2026 年的黑色星期五是 11 月 27 日，网络星期一是 11 月 30 日。如果 YesStyle 沿用往年的模式，名为 Black Friday 的优惠券会在 11 月初出现，无最低消费的 15% 日子则会落在这两个日期前后。这只是根据往年记录的推测：商店可能全部改变。2026 年的页面出来后，本指南会随之更新。",
-          "优惠券按 GMT 的固定时间切换。2025 年，阶梯优惠券在 GMT 2 点切换，也就是巴西利亚时间前一天 23 点；无最低消费的 15% 则在 GMT 8 点开始，也就是巴西利亚时间早上 5 点。"
+          "优惠券按 GMT 的固定时间切换。2025 年，阶梯优惠券在 GMT 2 点切换，无最低消费的 15% 则在 GMT 8 点开始。"
         ]
       },
       {
@@ -59924,13 +59619,13 @@ export const reviewsData: unknown[] = [
         "heading": "黑色星期五之后：圣诞节",
         "paragraphs": [
           "2024 年，年底最大的优惠券并不是黑色星期五那张：圣诞节那一周，YesStyle 对所有商品给出了无最低消费的 18%。2025 年，向所有会员开放的优惠券到年底都维持在 15%。",
-          "如果是买圣诞礼物，黑色星期五下单最稳妥。跨境购物比在国内商店买要久，预计送达时间会在付款前显示在结账页。"
+          "如果是买圣诞礼物，黑色星期五下单最稳妥。跨境购物比在本地商店买要久，预计送达时间会在付款前显示在结账页。"
         ]
       },
       {
-        "heading": "寄往巴西与税费",
+        "heading": "配送与税费",
         "paragraphs": [
-          "运费和送达时间会显示在结账页，优惠券不抵扣运费。如果包裹到货时被征税，YesStyle 会对 1,000 美元以下的订单，以店铺抵用金退还税费和关税。商店针对巴西和葡萄牙公布的内容，以及如何申请退款，请见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。"
+          "运费和送达时间会显示在结账页，优惠券不抵扣运费。如果包裹到货时被征税，YesStyle 会对 1,000 美元以下的订单，以店铺抵用金退还税费和关税。商店公布的配送信息，以及如何申请退款，请见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -59986,7 +59681,6 @@ export const reviewsData: unknown[] = [
           "CECILIA010 在黑色星期五能用吗？能用。它填在 Reward Code 栏位，黑色星期五优惠券的规则也写明可与奖励码一起使用。",
           "同一笔订单能用两张 YesStyle 优惠券吗？不能：每笔订单一张优惠券。奖励码是另一回事，填在结账页的另一个栏位。",
           "使用黑色星期五优惠券需要 YesStyle 账号吗？需要。优惠券仅限会员，以访客身份购买拿不到折扣。",
-          "YesStyle 寄到巴西吗？商店的运费表里没有巴西，但我们的一笔订单在下单两天后就发出了。运费和送达时间会显示在结账页。",
           "在 YesStyle 购物要交税吗？包裹到货时可能会被征税。1,000 美元以下的订单，如果你在 30 天内寄出凭证，YesStyle 会以店铺抵用金退还这些税费。"
         ]
       }
@@ -60259,8 +59953,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-dates-taxes",
     "locale": "en",
     "translationKey": "shein-black-friday",
-    "title": "SHEIN Brazil Black Friday 2026: when it starts, how long it lasts and the zero import tax up to US$ 50",
-    "seoTitle": "SHEIN Black Friday 2026 Brazil: dates, taxes and coupons",
+    "title": "SHEIN Black Friday 2026: when it starts, how long it lasts and how coupons work",
+    "seoTitle": "SHEIN Black Friday 2026: dates, coupons and points",
     "type": "Black Friday Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60271,8 +59965,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "When SHEIN's Black Friday starts and ends, the 2023 to 2025 calendar, what changes with import tax at zero on orders up to US$ 50, National or international shipping, coupons, points, payment and returns.",
-    "metaDescription": "SHEIN Black Friday 2026: the 2023 to 2025 calendar, zero import tax up to US$ 50 and the ICMS that remains, National Shipping, coupons, points and returns.",
+    "description": "When SHEIN's Black Friday starts and ends, the 2023 to 2025 calendar, coupons, points and returns.",
+    "metaDescription": "SHEIN Black Friday 2026: the 2023 to 2025 calendar, the \"up to 90%\", coupons, points and returns.",
     "publishedAt": "October 11, 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
@@ -60283,22 +59977,18 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
-      "Since May 13, 2026, orders up to US$ 50 pay no import tax",
       "In the last three years, the deals started before Black Friday and kept going after it",
-      "National Shipping products pay no import tax",
       "Returns within 20 days, with the first return of each order free"
     ],
     "cons": [
       "The \"up to 90%\" applies to some items, not the whole cart",
-      "The 17% to 20% ICMS still applies to every international purchase",
-      "Above US$ 50, import tax comes back: 60%, minus US$ 30 off the tax amount",
-      "One SHEIN coupon per order, and the import tax you paid is not refunded on a return"
+      "One SHEIN coupon per order, and it is not refunded on a partial return"
     ],
     "contentSections": [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "SHEIN has not yet announced the 2026 Black Friday, which falls on November 27. Going by past years, the deals start earlier, together with 11.11, and run to the end of the month. On an international order of up to US$ 50 there is no import tax, only ICMS; see the math, the coupon and the 4CW5Y code below."
+          "SHEIN has not yet announced the 2026 Black Friday, which falls on November 27. Going by past years, the deals start earlier, together with 11.11, and run to the end of the month. See below the calendar, the coupons, the points and the 4CW5Y code."
         ]
       },
       {
@@ -60356,56 +60046,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Tax on Black Friday: what changed in 2026",
-        "paragraphs": [
-          "SHEIN is in Remessa Conforme, so the tax shows up at checkout, together with the order. As a rule there is no extra charge on delivery, but the Receita Federal (Brazil's tax authority) may reassess the value of the package, and that changes the tax due. On May 13, 2026, import tax on purchases up to US$ 50 was zeroed. Law 15.502/2026 confirmed that the government can keep the rate at zero in that range.",
-          "The calculation applies per order and uses the product value plus shipping, already with discounts and the coupon. So the Black Friday discount can bring an order below US$ 50. The limit is in dollars: checkout shows your order's taxes before payment."
-        ],
-        "comparisonTable": {
-          "caption": "From SHEIN Brazil's tax page. The 17% ICMS applies in most states; Amapá has 18%, Pará 19%, and Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima and Sergipe have 20%.",
-          "headers": [
-            "Order (product + shipping)",
-            "Import tax",
-            "ICMS",
-            "SHEIN example, without the subsidy"
-          ],
-          "rows": [
-            [
-              "Up to US$ 50",
-              "0%",
-              "17% to 20%, depending on the state",
-              "US$ 50 become US$ 60.24 with 17% ICMS"
-            ],
-            [
-              "Above US$ 50",
-              "60%, minus US$ 30 off the tax amount",
-              "17% to 20%, also on the import tax",
-              "US$ 100 become US$ 156.63 with 17% ICMS"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "SHEIN says it still covers part of the ICMS, only on the product value. The size of that subsidy varies from customer to customer, by criteria the store does not disclose, and it does not cover the ICMS charged on the import tax.",
-          "**National Shipping** products, which are already in Brazil, pay no import tax. And the import tax you paid is not refunded if you return the piece after it has shipped."
-        ]
-      },
-      {
-        "heading": "National Shipping or international?",
-        "paragraphs": [
-          "In the same search, SHEIN mixes products from abroad and from sellers in Brazil (National Shipping): the difference weighs on the final price and on the discount rules."
-        ],
-        "bullets": [
-          "**National Shipping:** no import tax. Each seller has its own shipping, deadline and conditions, and SHEIN points do not apply to these items.",
-          "**International:** goes through customs, with taxes charged at checkout. SHEIN takes 3 to 5 days to process the order before shipping, and the name on the order must match your CPF (the Brazilian taxpayer number).",
-          "**Deadline:** the delivery time and shipping cost appear on the order page before you pay. The order may arrive in more than one package.",
-          "**Delays:** SHEIN has a free On-Time Delivery service that gives 200 SHEIN points or R$ 10 in wallet credit if the order does not arrive by the estimated date."
-        ]
-      },
-      {
         "heading": "Coupons, points and the 4CW5Y code",
         "paragraphs": [
-          "Under SHEIN's coupon policy, one platform coupon applies per order. If the cart has products from Brazilian sellers, you can also use that seller's store coupon: at most two coupons, one of each type. Each coupon has an expiry date, and one not used in time becomes unavailable.",
-          "SHEIN points are worth US$ 1 per 100 points and take off up to 30% of the product value, not counting shipping and taxes. They do not apply to items from Brazilian sellers.",
+          "Under SHEIN's coupon policy, one platform coupon applies per order. Each coupon has an expiry date, and one not used in time becomes unavailable.",
+          "SHEIN points are worth US$ 1 per 100 points and take off up to 30% of the product value, not counting shipping and taxes.",
           "4CW5Y is not a coupon: it is Cecília's referral code for SHEIN Brazil. You search for 4CW5Y in the SHEIN app and check the conditions shown for your account. SHEIN campaigns change all the time: check the current ones on the store page here on the site before placing your order."
         ],
         "image": {
@@ -60427,13 +60071,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "How to pay on Black Friday",
-        "paragraphs": [
-          "SHEIN accepts Pix, Brazilian credit cards in up to 6 installments, boleto, PayPal and Pagaleve. Boleto takes up to 3 days to clear, and the piece may sell out in the meantime: on Black Friday, prefer card or PayPal.",
-          "If you need a refund, Pix is the fastest: SHEIN processes it within 24 hours, and the bank takes 1 to 3 business days. On a credit card, the bank takes 3 to 8 business days, sometimes up to 30 days."
-        ]
-      },
-      {
         "heading": "Exchanges and returns after Black Friday",
         "image": {
           "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
@@ -60445,7 +60082,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Deadline:** up to 20 days after you receive it, even if you simply did not like the piece.",
           "**Items that can only be returned within 7 days:** bodysuits, swimwear, underwear, earrings and piercings, and pet products, plus cosmetics, party items and craft items with the seal broken. These can only be returned within the 7-day withdrawal period, counted from delivery.",
-          "**Return shipping:** the first return of each order is free, via Correios, Jadlog or Total Express. From the second on, SHEIN deducts R$ 45 from the refund for each return.",
           "**Coupon:** on a partial return, the coupon counts as used and is not given back; if the order falls below the minimum, the difference comes out of the refund.",
           "**Tax:** the import tax paid is not refunded once the order has shipped."
         ]
@@ -60453,9 +60089,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Before you pay: what to check",
         "bullets": [
-          "Whether the product is National Shipping or international.",
-          "Whether the international order came to US$ 50 or less, counting shipping and with discounts already applied.",
-          "How much the ICMS came to in the order summary.",
           "Whether the coupon went through and the points were applied.",
           "The delivery time, if the purchase is a Christmas present.",
           "Whether the piece is among the items that can only be returned within 7 days."
@@ -60467,10 +60100,7 @@ export const reviewsData: unknown[] = [
           "When does SHEIN's Black Friday start in 2026? SHEIN has not announced it yet. In 2024 the deals started together with 11.11, at the end of October, and in 2025 they were already live in early November. The 2026 Black Friday falls on the last Friday of November.",
           "How long does SHEIN's Black Friday last? In 2024 and 2025, until the end of November. In 2023, until the Saturday after Black Friday.",
           "What is SHEIN's 11.11? It is the Singles' Day sale, on the 11th day of the 11th month. SHEIN combines 11.11 and Black Friday into a single campaign, with discount phases until the end of the month.",
-          "Is there tax on SHEIN purchases on Black Friday? There is ICMS, from 17% to 20% depending on the state, on every international purchase. Import tax is zero on orders up to US$ 50 and 60%, minus US$ 30 off the tax amount, above that.",
-          "Does SHEIN's zero tax apply to any purchase? It applies to an international order of up to US$ 50, counting product and shipping, with discounts already applied. Above that, import tax comes back.",
-          "Do National Shipping products pay import tax? No. National Shipping products are already in Brazil and pay no import tax.",
-          "Can I use more than one coupon on SHEIN? One SHEIN coupon per order. If the cart has products from Brazilian sellers, you can add that seller's store coupon.",
+          "Can I use more than one coupon on SHEIN? One SHEIN coupon per order.",
           "Is 4CW5Y a discount coupon? No. It is Cecília's SHEIN Brazil referral code: you search for the code in the SHEIN app and see the conditions for your account.",
           "Is there free shipping on SHEIN's Black Friday? Free shipping changes with each phase of the campaign: check yours in the cart before paying.",
           "How long do I have to return what I bought on Black Friday? Up to 20 days after you receive it. Underwear, swimwear, bodysuits, earrings and a few other items can only be returned within 7 days."
@@ -60485,7 +60115,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Rules from SHEIN Brazil's official pages and Law 15.502/2026. We may earn a commission on purchases.",
+    "editorialNote": "Rules from SHEIN's official pages. We may earn a commission on purchases.",
     "relatedArticles": [
       {
         "slug": "yesstyle-black-friday-dates-coupons",
@@ -60498,8 +60128,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-shein-fechas-impuestos",
     "locale": "es",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN Brasil 2026: cuándo empieza, cuándo termina y el impuesto de importación cero hasta US$ 50",
-    "seoTitle": "Black Friday SHEIN 2026 Brasil: fechas, impuestos y cupones",
+    "title": "Black Friday SHEIN 2026: cuándo empieza, cuándo termina y cómo funcionan los cupones",
+    "seoTitle": "Black Friday SHEIN 2026: fechas, cupones y puntos",
     "type": "Guía de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60510,8 +60140,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Cuándo empieza y hasta cuándo dura el Black Friday de SHEIN, el calendario de 2023 a 2025, qué cambia con el impuesto de importación en cero en los pedidos de hasta US$ 50, Envío nacional o internacional, cupones, puntos, pago y devolución.",
-    "metaDescription": "Black Friday SHEIN 2026: el calendario de 2023 a 2025, el impuesto de importación cero hasta US$ 50 y el ICMS que sigue, Envío nacional, cupones, puntos y devolución.",
+    "description": "Cuándo empieza y hasta cuándo dura el Black Friday de SHEIN, el calendario de 2023 a 2025, cupones, puntos y devolución.",
+    "metaDescription": "Black Friday SHEIN 2026: el calendario de 2023 a 2025, el «hasta 90 %», cupones, puntos y devolución.",
     "publishedAt": "11 de octubre de 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
@@ -60522,22 +60152,18 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
-      "Desde el 13 de mayo de 2026, los pedidos de hasta US$ 50 no pagan impuesto de importación",
       "En los tres últimos años, las ofertas empezaron antes del Black Friday y siguieron después",
-      "Los productos de Envío nacional no pagan impuesto de importación",
       "Devolución en hasta 20 días, con la primera devolución de cada pedido gratis"
     ],
     "cons": [
       "El \"hasta 90%\" vale para algunos artículos, no para todo el carrito",
-      "El ICMS de 17% a 20% sigue en toda compra internacional",
-      "Por encima de US$ 50, el impuesto de importación vuelve: 60%, menos US$ 30 sobre el valor del impuesto",
-      "Un cupón de SHEIN por pedido, y el impuesto pagado no se devuelve con la devolución"
+      "Un cupón de SHEIN por pedido, y no se devuelve en la devolución parcial"
     ],
     "contentSections": [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "SHEIN todavía no anunció el Black Friday de 2026, que cae el 27 de noviembre. Según el historial, las ofertas empiezan antes, junto con el 11.11, y duran hasta fin de mes. En el pedido internacional de hasta US$ 50 no hay impuesto de importación, solo ICMS; más abajo, la cuenta, el cupón y el código 4CW5Y."
+          "SHEIN todavía no anunció el Black Friday de 2026, que cae el 27 de noviembre. Según el historial, las ofertas empiezan antes, junto con el 11.11, y duran hasta fin de mes. Más abajo, el calendario, los cupones, los puntos y el código 4CW5Y."
         ]
       },
       {
@@ -60595,56 +60221,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "El impuesto en el Black Friday: qué cambió en 2026",
-        "paragraphs": [
-          "SHEIN está en el Remessa Conforme, así que el impuesto aparece en el checkout, junto con el pedido. En general no hay cobro extra en la entrega, pero la Receita Federal (la autoridad tributaria de Brasil) puede reevaluar el valor del paquete, y eso cambia el impuesto debido. El 13 de mayo de 2026, el impuesto de importación de las compras de hasta US$ 50 pasó a cero. La Ley 15.502/2026 confirmó que el gobierno puede mantener la alícuota cero en ese tramo.",
-          "La cuenta vale por pedido y usa el valor del producto más el envío, ya con los descuentos y el cupón. Es decir, el descuento del Black Friday puede dejar un pedido por debajo de US$ 50. El límite es en dólares: el checkout muestra los impuestos de tu pedido antes del pago."
-        ],
-        "comparisonTable": {
-          "caption": "Según la página de impuestos de SHEIN Brasil. El ICMS de 17% vale para la mayoría de los estados; Amapá tiene 18%, Pará 19%, y Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima y Sergipe tienen 20%.",
-          "headers": [
-            "Pedido (producto + envío)",
-            "Impuesto de importación",
-            "ICMS",
-            "Ejemplo de SHEIN, sin el subsidio"
-          ],
-          "rows": [
-            [
-              "Hasta US$ 50",
-              "0%",
-              "17% a 20%, según el estado",
-              "US$ 50 pasan a US$ 60,24 con ICMS de 17%"
-            ],
-            [
-              "Por encima de US$ 50",
-              "60%, menos US$ 30 sobre el valor del impuesto",
-              "17% a 20%, también sobre el impuesto de importación",
-              "US$ 100 pasan a US$ 156,63 con ICMS de 17%"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "SHEIN dice que sigue cubriendo parte del ICMS, solo sobre el valor del producto. El tamaño de ese subsidio cambia de cliente a cliente, por criterios que la tienda no divulga, y no cubre el ICMS que recae sobre el impuesto de importación.",
-          "Los productos de **Envío nacional**, que ya están en Brasil, no pagan impuesto de importación. Y el impuesto de importación pagado no se devuelve si devuelves la prenda después del envío."
-        ]
-      },
-      {
-        "heading": "¿Envío nacional o internacional?",
-        "paragraphs": [
-          "En la misma búsqueda, SHEIN mezcla productos de afuera y de vendedores en Brasil (Envío nacional): la diferencia pesa en el precio final y en las reglas de descuento."
-        ],
-        "bullets": [
-          "**Envío nacional:** sin impuesto de importación. Cada vendedor tiene su propio envío, plazo y condiciones, y los puntos SHEIN no valen en esos artículos.",
-          "**Internacional:** pasa por la aduana, con los impuestos cobrados en el checkout. SHEIN tarda de 3 a 5 días en procesar el pedido antes del envío, y el nombre del pedido debe coincidir con tu CPF (el número de contribuyente brasileño).",
-          "**Plazo:** el plazo de entrega y el envío aparecen en la página del pedido antes de pagar. El pedido puede llegar en más de un paquete.",
-          "**Retraso:** SHEIN tiene un servicio gratuito de Entrega a Tiempo, que da 200 puntos SHEIN o R$ 10 en crédito en la cartera si el pedido no llega a la fecha prevista."
-        ]
-      },
-      {
         "heading": "Cupones, puntos y el código 4CW5Y",
         "paragraphs": [
-          "Según la política de cupones de SHEIN, vale un cupón de la plataforma por pedido. Si el carrito tiene productos de vendedores nacionales, también se puede usar el cupón de la tienda de ese vendedor: como máximo dos cupones, uno de cada tipo. Cada cupón tiene vencimiento, y el que no se usó a tiempo deja de estar disponible.",
-          "Los puntos SHEIN valen US$ 1 cada 100 puntos y descuentan hasta 30% del valor de los productos, sin contar envío e impuestos. No valen en artículos de vendedores nacionales.",
+          "Según la política de cupones de SHEIN, vale un cupón de la plataforma por pedido. Cada cupón tiene vencimiento, y el que no se usó a tiempo deja de estar disponible.",
+          "Los puntos SHEIN valen US$ 1 cada 100 puntos y descuentan hasta 30% del valor de los productos, sin contar envío e impuestos.",
           "El 4CW5Y no es un cupón: es el código de referido de Cecília para SHEIN Brasil. Buscas 4CW5Y en la app de SHEIN y revisas las condiciones que aparecen para tu cuenta. Las campañas de SHEIN cambian todo el tiempo: revisa las vigentes en la página de la tienda aquí en el sitio antes de cerrar el pedido."
         ],
         "image": {
@@ -60666,13 +60246,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Cómo pagar en el Black Friday",
-        "paragraphs": [
-          "SHEIN acepta Pix, tarjeta de crédito brasileña en hasta 6 cuotas, boleto, PayPal y Pagaleve. El boleto tarda hasta 3 días en acreditarse, y en ese tiempo la prenda puede agotarse: en el Black Friday, prefiere tarjeta o PayPal.",
-          "Si necesitas un reembolso, el Pix es el más rápido: SHEIN lo procesa en hasta 24 horas, y el banco tarda de 1 a 3 días hábiles. En la tarjeta de crédito, el banco tarda de 3 a 8 días hábiles, a veces hasta 30 días."
-        ]
-      },
-      {
         "heading": "Cambios y devoluciones después del Black Friday",
         "image": {
           "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
@@ -60684,7 +60257,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Plazo:** hasta 20 días después de recibirlo, aunque simplemente no te haya gustado la prenda.",
           "**Artículos que solo se devuelven en 7 días:** bodies, ropa de playa, ropa interior, aretes y piercings, productos para mascotas, y cosméticos, artículos de fiesta y de manualidades con el sello abierto. Estos solo se pueden devolver dentro del plazo de arrepentimiento de 7 días, contado desde la entrega.",
-          "**Envío de la devolución:** la primera devolución de cada pedido es gratis, por Correios, Jadlog o Total Express. Desde la segunda, SHEIN descuenta R$ 45 del reembolso en cada devolución.",
           "**Cupón:** en una devolución parcial, el cupón cuenta como usado y no se devuelve; si el pedido queda por debajo del mínimo, la diferencia sale del reembolso.",
           "**Impuesto:** el impuesto de importación pagado no se devuelve después de que el pedido fue enviado."
         ]
@@ -60692,9 +60264,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de pagar: qué revisar",
         "bullets": [
-          "Si el producto es de Envío nacional o internacional.",
-          "Si el pedido internacional quedó en hasta US$ 50, contando el envío y ya con los descuentos.",
-          "Cuánto dio el ICMS en el resumen del pedido.",
           "Si el cupón entró y si los puntos fueron descontados.",
           "El plazo de entrega, si la compra es un regalo de Navidad.",
           "Si la prenda es de los artículos que solo se pueden devolver en 7 días."
@@ -60706,10 +60275,7 @@ export const reviewsData: unknown[] = [
           "¿Cuándo empieza el Black Friday de SHEIN en 2026? SHEIN todavía no lo anunció. En 2024 las ofertas empezaron junto con el 11.11, a fines de octubre, y en 2025 ya estaban en línea a comienzos de noviembre. El Black Friday de 2026 cae el último viernes de noviembre.",
           "¿Hasta cuándo dura el Black Friday de SHEIN? En 2024 y 2025, hasta fin de noviembre. En 2023, hasta el sábado después del Black Friday.",
           "¿Qué es el 11.11 de SHEIN? Es la promoción del Día de los Solteros, el día 11 del mes 11. SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases de descuento hasta fin de mes.",
-          "¿Hay impuesto en las compras de SHEIN en el Black Friday? Hay ICMS, de 17% a 20% según el estado, en toda compra internacional. El impuesto de importación es cero en los pedidos de hasta US$ 50 y de 60%, menos US$ 30 sobre el valor del impuesto, por encima de eso.",
-          "¿El impuesto cero de SHEIN vale para cualquier compra? Vale para el pedido internacional de hasta US$ 50, contando producto y envío, ya con los descuentos. Por encima de eso, el impuesto de importación vuelve.",
-          "¿Un producto de Envío nacional paga impuesto de importación? No. Los productos de Envío nacional ya están en Brasil y no pagan impuesto de importación.",
-          "¿Puedo usar más de un cupón en SHEIN? Un cupón de SHEIN por pedido. Si el carrito tiene productos de vendedores nacionales, se puede sumar el cupón de la tienda de ese vendedor.",
+          "¿Puedo usar más de un cupón en SHEIN? Un cupón de SHEIN por pedido.",
           "¿El 4CW5Y es un cupón de descuento? No. Es el código de referido de Cecília para SHEIN Brasil: buscas el código en la app de SHEIN y ves las condiciones para tu cuenta.",
           "¿Hay envío gratis en el Black Friday de SHEIN? El envío gratis cambia en cada fase de la campaña: revisa el de tu pedido en el carrito antes de pagar.",
           "¿Cuánto tiempo tengo para devolver lo que compré en el Black Friday? Hasta 20 días después de recibirlo. Ropa interior, ropa de playa, bodies, aretes y algunos otros artículos solo se devuelven dentro de 7 días."
@@ -60724,7 +60290,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Reglas de las páginas oficiales de SHEIN Brasil y de la Ley 15.502/2026. Podemos recibir comisión por las compras.",
+    "editorialNote": "Reglas de las páginas oficiales de SHEIN. Podemos recibir comisión por las compras.",
     "relatedArticles": [
       {
         "slug": "black-friday-yesstyle-fechas-cupones",
@@ -60737,8 +60303,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-shein-dates-et-taxes",
     "locale": "fr",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN Brésil 2026 : quand il commence, jusqu'à quand et la taxe d'importation nulle jusqu'à US$ 50",
-    "seoTitle": "Black Friday SHEIN 2026 Brésil : dates, taxes et coupons",
+    "title": "Black Friday SHEIN 2026 : quand il commence, jusqu'à quand et comment fonctionnent les coupons",
+    "seoTitle": "Black Friday SHEIN 2026 : dates, coupons et points",
     "type": "Guide Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60749,8 +60315,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quand commence et jusqu'à quand dure le Black Friday de SHEIN, le calendrier de 2023 à 2025, ce qui change avec la taxe d'importation à zéro pour les commandes jusqu'à US$ 50, Envoi national ou international, coupons, points, paiement et retour.",
-    "metaDescription": "Black Friday SHEIN 2026 : le calendrier de 2023 à 2025, la taxe d'importation à zéro jusqu'à US$ 50 et l'ICMS qui reste, Envoi national, coupons, points et retour.",
+    "description": "Quand commence et jusqu'à quand dure le Black Friday de SHEIN, le calendrier de 2023 à 2025, coupons, points et retour.",
+    "metaDescription": "Black Friday SHEIN 2026 : le calendrier de 2023 à 2025, le « jusqu'à 90 % », coupons, points et retour.",
     "publishedAt": "11 octobre 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
@@ -60761,22 +60327,18 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
-      "Depuis le 13 mai 2026, les commandes jusqu'à US$ 50 ne paient pas de taxe d'importation",
       "Ces trois dernières années, les offres ont commencé avant le Black Friday et ont continué après",
-      "Les produits en Envoi national ne paient pas de taxe d'importation",
       "Retour sous 20 jours, le premier retour de chaque commande étant gratuit"
     ],
     "cons": [
       "Le « jusqu'à 90 % » vaut pour certains articles, pas pour tout le panier",
-      "L'ICMS de 17 % à 20 % reste dû sur tout achat international",
-      "Au-dessus de US$ 50, la taxe d'importation revient : 60 %, moins US$ 30 sur le montant de la taxe",
-      "Un seul coupon SHEIN par commande, et la taxe payée n'est pas remboursée en cas de retour"
+      "Un seul coupon SHEIN par commande, et il n'est pas remboursé en cas de retour partiel"
     ],
     "contentSections": [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "SHEIN n'a pas encore annoncé le Black Friday 2026, qui tombe le 27 novembre. D'après l'historique, les offres commencent plus tôt, avec le 11.11, et durent jusqu'à la fin du mois. Pour une commande internationale jusqu'à US$ 50, il n'y a pas de taxe d'importation, seulement l'ICMS ; plus bas, le calcul, le coupon et le code 4CW5Y."
+          "SHEIN n'a pas encore annoncé le Black Friday 2026, qui tombe le 27 novembre. D'après l'historique, les offres commencent plus tôt, avec le 11.11, et durent jusqu'à la fin du mois. Plus bas, le calendrier, les coupons, les points et le code 4CW5Y."
         ]
       },
       {
@@ -60834,56 +60396,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "La taxe pendant le Black Friday : ce qui a changé en 2026",
-        "paragraphs": [
-          "SHEIN fait partie du Remessa Conforme, donc la taxe apparaît au paiement, avec la commande. En règle générale, il n'y a pas de frais supplémentaires à la livraison, mais la Receita Federal (l'administration fiscale du Brésil) peut réévaluer la valeur du colis, ce qui change la taxe due. Le 13 mai 2026, la taxe d'importation sur les achats jusqu'à US$ 50 a été mise à zéro. La loi 15.502/2026 a confirmé que le gouvernement peut maintenir le taux zéro dans cette tranche.",
-          "Le calcul vaut par commande et utilise la valeur du produit plus la livraison, déjà avec les remises et le coupon. Autrement dit, la remise du Black Friday peut faire passer une commande sous US$ 50. La limite est en dollars : le paiement affiche les taxes de votre commande avant de payer."
-        ],
-        "comparisonTable": {
-          "caption": "D'après la page des taxes de SHEIN Brésil. L'ICMS de 17 % vaut pour la plupart des États ; l'Amapá est à 18 %, le Pará à 19 %, et l'Acre, l'Alagoas, Bahia, le Ceará, la Paraíba, le Piauí, le Rio Grande do Norte, le Roraima et le Sergipe sont à 20 %.",
-          "headers": [
-            "Commande (produit + livraison)",
-            "Taxe d'importation",
-            "ICMS",
-            "Exemple de SHEIN, sans la subvention"
-          ],
-          "rows": [
-            [
-              "Jusqu'à US$ 50",
-              "0 %",
-              "17 % à 20 %, selon l'État",
-              "US$ 50 deviennent US$ 60,24 avec un ICMS de 17 %"
-            ],
-            [
-              "Au-dessus de US$ 50",
-              "60 %, moins US$ 30 sur le montant de la taxe",
-              "17 % à 20 %, aussi sur la taxe d'importation",
-              "US$ 100 deviennent US$ 156,63 avec un ICMS de 17 %"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "SHEIN dit continuer à couvrir une partie de l'ICMS, uniquement sur la valeur du produit. Le montant de cette subvention varie d'un client à l'autre, selon des critères que la boutique ne communique pas, et ne couvre pas l'ICMS appliqué à la taxe d'importation.",
-          "Les produits en **Envoi national**, qui sont déjà au Brésil, ne paient pas de taxe d'importation. Et la taxe d'importation payée n'est pas remboursée si vous renvoyez la pièce après l'expédition."
-        ]
-      },
-      {
-        "heading": "Envoi national ou international ?",
-        "paragraphs": [
-          "Dans la même recherche, SHEIN mélange des produits de l'étranger et de vendeurs au Brésil (Envoi national) : la différence pèse sur le prix final et sur les règles de remise."
-        ],
-        "bullets": [
-          "**Envoi national :** pas de taxe d'importation. Chaque vendeur a sa propre livraison, ses délais et ses conditions, et les points SHEIN ne valent pas sur ces articles.",
-          "**International :** passe par la douane, avec les taxes prélevées au paiement. SHEIN met de 3 à 5 jours à traiter la commande avant l'expédition, et le nom sur la commande doit correspondre à votre CPF (le numéro de contribuable brésilien).",
-          "**Délai :** le délai et les frais de livraison s'affichent sur la page de la commande avant de payer. La commande peut arriver en plusieurs colis.",
-          "**Retard :** SHEIN propose un service gratuit de Livraison dans les délais, qui donne 200 points SHEIN ou R$ 10 de crédit dans le portefeuille si la commande n'arrive pas à la date prévue."
-        ]
-      },
-      {
         "heading": "Coupons, points et le code 4CW5Y",
         "paragraphs": [
-          "Selon la politique de coupons de SHEIN, un coupon de la plateforme vaut par commande. Si le panier contient des produits de vendeurs brésiliens, on peut aussi utiliser le coupon de la boutique de ce vendeur : au maximum deux coupons, un de chaque type. Chaque coupon a une date de validité, et celui qui n'a pas été utilisé à temps n'est plus disponible.",
-          "Les points SHEIN valent US$ 1 pour 100 points et déduisent jusqu'à 30 % de la valeur des produits, hors livraison et taxes. Ils ne valent pas sur les articles de vendeurs brésiliens.",
+          "Selon la politique de coupons de SHEIN, un coupon de la plateforme vaut par commande. Chaque coupon a une date de validité, et celui qui n'a pas été utilisé à temps n'est plus disponible.",
+          "Les points SHEIN valent US$ 1 pour 100 points et déduisent jusqu'à 30 % de la valeur des produits, hors livraison et taxes.",
           "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage de Cecília pour SHEIN Brésil. Vous recherchez 4CW5Y dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Les campagnes SHEIN changent tout le temps : consultez les campagnes en cours sur la page de la boutique, ici sur le site, avant de valider la commande."
         ],
         "image": {
@@ -60905,13 +60421,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Comment payer pendant le Black Friday",
-        "paragraphs": [
-          "SHEIN accepte Pix, carte de crédit brésilienne jusqu'à 6 fois, boleto, PayPal et Pagaleve. Le boleto met jusqu'à 3 jours à être compensé, et la pièce peut s'épuiser entre-temps : pendant le Black Friday, préférez la carte ou PayPal.",
-          "Si vous avez besoin d'un remboursement, le Pix est le plus rapide : SHEIN le traite en 24 heures au plus, et la banque met de 1 à 3 jours ouvrés. Sur une carte de crédit, la banque met de 3 à 8 jours ouvrés, parfois jusqu'à 30 jours."
-        ]
-      },
-      {
         "heading": "Échanges et retours après le Black Friday",
         "image": {
           "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
@@ -60923,7 +60432,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Délai :** jusqu'à 20 jours après la réception, même si la pièce ne vous a simplement pas plu.",
           "**Articles qui ne se retournent que sous 7 jours :** bodies, maillots et vêtements de plage, sous-vêtements, boucles d'oreilles et piercings, produits pour animaux, ainsi que cosmétiques, articles de fête et de loisirs créatifs au scellé ouvert. Ceux-ci ne peuvent être retournés que dans le délai de rétractation de 7 jours, compté à partir de la livraison.",
-          "**Frais de retour :** le premier retour de chaque commande est gratuit, par Correios, Jadlog ou Total Express. À partir du deuxième, SHEIN déduit R$ 45 du remboursement à chaque retour.",
           "**Coupon :** en cas de retour partiel, le coupon compte comme utilisé et n'est pas rendu ; si la commande passe sous le minimum, la différence est retirée du remboursement.",
           "**Taxe :** la taxe d'importation payée n'est pas remboursée une fois la commande expédiée."
         ]
@@ -60931,9 +60439,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avant de payer : ce qu'il faut vérifier",
         "bullets": [
-          "Si le produit est en Envoi national ou international.",
-          "Si la commande internationale est restée jusqu'à US$ 50, livraison comprise et remises déjà appliquées.",
-          "Combien fait l'ICMS dans le récapitulatif de la commande.",
           "Si le coupon a bien été pris en compte et si les points ont été déduits.",
           "Le délai de livraison, si l'achat est un cadeau de Noël.",
           "Si la pièce fait partie des articles qui ne se retournent que sous 7 jours."
@@ -60945,10 +60450,7 @@ export const reviewsData: unknown[] = [
           "Quand commence le Black Friday de SHEIN en 2026 ? SHEIN ne l'a pas encore annoncé. En 2024, les offres ont commencé avec le 11.11, fin octobre, et en 2025 elles étaient déjà en ligne début novembre. Le Black Friday 2026 tombe le dernier vendredi de novembre.",
           "Jusqu'à quand dure le Black Friday de SHEIN ? En 2024 et 2025, jusqu'à la fin de novembre. En 2023, jusqu'au samedi après le Black Friday.",
           "Qu'est-ce que le 11.11 de SHEIN ? C'est la promotion de la Fête des célibataires, le 11 du mois 11. SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases de remise jusqu'à la fin du mois.",
-          "Y a-t-il des taxes sur les achats SHEIN pendant le Black Friday ? Il y a l'ICMS, de 17 % à 20 % selon l'État, sur tout achat international. La taxe d'importation est nulle pour les commandes jusqu'à US$ 50 et de 60 %, moins US$ 30 sur le montant de la taxe, au-delà.",
-          "La taxe zéro de SHEIN vaut-elle pour tout achat ? Elle vaut pour la commande internationale jusqu'à US$ 50, produit et livraison compris, remises déjà appliquées. Au-delà, la taxe d'importation revient.",
-          "Un produit en Envoi national paie-t-il la taxe d'importation ? Non. Les produits en Envoi national sont déjà au Brésil et ne paient pas de taxe d'importation.",
-          "Puis-je utiliser plus d'un coupon sur SHEIN ? Un coupon SHEIN par commande. Si le panier contient des produits de vendeurs brésiliens, on peut y ajouter le coupon de la boutique de ce vendeur.",
+          "Puis-je utiliser plus d'un coupon sur SHEIN ? Un coupon SHEIN par commande.",
           "Le 4CW5Y est-il un coupon de réduction ? Non. C'est le code de parrainage de Cecília pour SHEIN Brésil : vous recherchez le code dans l'appli SHEIN et voyez les conditions pour votre compte.",
           "Y a-t-il la livraison gratuite pendant le Black Friday de SHEIN ? La livraison gratuite change à chaque phase de la campagne : vérifiez celle de votre commande dans le panier avant de payer.",
           "De combien de temps dispose-t-on pour retourner ce qu'on a acheté pendant le Black Friday ? Jusqu'à 20 jours après la réception. Sous-vêtements, maillots, bodies, boucles d'oreilles et quelques autres articles ne se retournent que sous 7 jours."
@@ -60963,7 +60465,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Règles des pages officielles de SHEIN Brésil et de la loi 15.502/2026. Nous pouvons toucher une commission sur les achats.",
+    "editorialNote": "Règles des pages officielles de SHEIN. Nous pouvons toucher une commission sur les achats.",
     "relatedArticles": [
       {
         "slug": "black-friday-yesstyle-dates-et-coupons",
@@ -60976,8 +60478,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-termine-steuern",
     "locale": "de",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026: Beginn, Ende und Einfuhrsteuer null bis US$ 50",
-    "seoTitle": "SHEIN Black Friday 2026: Termine, Steuern, Gutscheine",
+    "title": "Black Friday SHEIN 2026: Beginn, Ende und so funktionieren die Gutscheine",
+    "seoTitle": "SHEIN Black Friday 2026: Termine, Gutscheine, Punkte",
     "type": "Black-Friday-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60988,8 +60490,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Wann der Black Friday von SHEIN beginnt und wie lange er läuft, der Kalender von 2023 bis 2025, was sich durch die auf null gesetzte Einfuhrsteuer bei Bestellungen bis US$ 50 ändert, Inlandsversand oder internationaler Versand, Gutscheine, Punkte, Zahlung und Rückgabe.",
-    "metaDescription": "Black Friday SHEIN 2026: der Kalender von 2023 bis 2025, die Einfuhrsteuer null bis US$ 50 und die weiter anfallende ICMS, Inlandsversand, Gutscheine, Punkte und Rückgabe.",
+    "description": "Wann der Black Friday von SHEIN beginnt und wie lange er läuft, der Kalender von 2023 bis 2025, Gutscheine, Punkte und Rückgabe.",
+    "metaDescription": "Black Friday SHEIN 2026: der Kalender von 2023 bis 2025, das „bis zu 90 %“, Gutscheine, Punkte und Rückgabe.",
     "publishedAt": "11. Oktober 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
@@ -61000,22 +60502,18 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
-      "Seit dem 13. Mai 2026 zahlen Bestellungen bis US$ 50 keine Einfuhrsteuer",
       "In den letzten drei Jahren begannen die Angebote vor dem Black Friday und liefen danach weiter",
-      "Produkte mit Inlandsversand zahlen keine Einfuhrsteuer",
       "Rückgabe innerhalb von 20 Tagen, die erste Rückgabe jeder Bestellung ist kostenlos"
     ],
     "cons": [
       "Das „bis zu 90 %“ gilt für einzelne Artikel, nicht für den ganzen Warenkorb",
-      "Die ICMS von 17 % bis 20 % fällt weiter bei jedem internationalen Einkauf an",
-      "Über US$ 50 kommt die Einfuhrsteuer zurück: 60 %, abzüglich US$ 30 vom Steuerbetrag",
-      "Ein SHEIN-Gutschein pro Bestellung, und die gezahlte Steuer wird bei einer Rückgabe nicht erstattet"
+      "Ein SHEIN-Gutschein pro Bestellung, und er wird bei einer Teilrückgabe nicht erstattet"
     ],
     "contentSections": [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "SHEIN hat den Black Friday 2026, der auf den 27. November fällt, noch nicht angekündigt. Nach den Vorjahren beginnen die Angebote früher, zusammen mit dem 11.11, und laufen bis Monatsende. Bei einer internationalen Bestellung bis US$ 50 fällt keine Einfuhrsteuer an, nur ICMS; unten folgen die Rechnung, der Gutschein und der Code 4CW5Y."
+          "SHEIN hat den Black Friday 2026, der auf den 27. November fällt, noch nicht angekündigt. Nach den Vorjahren beginnen die Angebote früher, zusammen mit dem 11.11, und laufen bis Monatsende. Unten folgen der Kalender, die Gutscheine, die Punkte und der Code 4CW5Y."
         ]
       },
       {
@@ -61073,56 +60571,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Die Steuer am Black Friday: was sich 2026 geändert hat",
-        "paragraphs": [
-          "SHEIN ist im Remessa Conforme, deshalb erscheint die Steuer an der Kasse, zusammen mit der Bestellung. In der Regel gibt es bei der Lieferung keine zusätzliche Abgabe, aber die Receita Federal (die brasilianische Steuerbehörde) kann den Wert des Pakets neu bewerten, und das ändert die fällige Steuer. Am 13. Mai 2026 wurde die Einfuhrsteuer auf Einkäufe bis US$ 50 auf null gesetzt. Das Gesetz 15.502/2026 hat bestätigt, dass die Regierung den Satz null in dieser Stufe beibehalten kann.",
-          "Die Rechnung gilt pro Bestellung und nimmt den Warenwert plus Versand, schon mit Rabatten und Gutschein. Der Black-Friday-Rabatt kann eine Bestellung also unter US$ 50 drücken. Die Grenze gilt in Dollar: Die Kasse zeigt die Steuern Ihrer Bestellung vor der Zahlung."
-        ],
-        "comparisonTable": {
-          "caption": "Nach der Steuerseite von SHEIN Brasilien. Die ICMS von 17 % gilt für die meisten Bundesstaaten; Amapá hat 18 %, Pará 19 %, und Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima und Sergipe haben 20 %.",
-          "headers": [
-            "Bestellung (Produkt + Versand)",
-            "Einfuhrsteuer",
-            "ICMS",
-            "Beispiel von SHEIN, ohne die Förderung"
-          ],
-          "rows": [
-            [
-              "Bis US$ 50",
-              "0 %",
-              "17 % bis 20 %, je nach Bundesstaat",
-              "US$ 50 werden zu US$ 60,24 mit 17 % ICMS"
-            ],
-            [
-              "Über US$ 50",
-              "60 %, abzüglich US$ 30 vom Steuerbetrag",
-              "17 % bis 20 %, auch auf die Einfuhrsteuer",
-              "US$ 100 werden zu US$ 156,63 mit 17 % ICMS"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "SHEIN sagt, dass es weiter einen Teil der ICMS übernimmt, nur auf den Warenwert. Die Höhe dieser Förderung ist von Kunde zu Kunde verschieden, nach Kriterien, die der Shop nicht offenlegt, und sie deckt nicht die ICMS ab, die auf die Einfuhrsteuer anfällt.",
-          "Produkte mit **Inlandsversand**, die schon in Brasilien sind, zahlen keine Einfuhrsteuer. Und die gezahlte Einfuhrsteuer wird nicht erstattet, wenn Sie das Teil nach dem Versand zurückgeben."
-        ]
-      },
-      {
-        "heading": "Inlandsversand oder internationaler Versand?",
-        "paragraphs": [
-          "In derselben Suche mischt SHEIN Produkte aus dem Ausland und von Verkäufern in Brasilien (Inlandsversand): Der Unterschied wirkt sich auf den Endpreis und auf die Rabattregeln aus."
-        ],
-        "bullets": [
-          "**Inlandsversand:** keine Einfuhrsteuer. Jeder Verkäufer hat eigene Versandkosten, Lieferzeiten und Bedingungen, und SHEIN-Punkte gelten für diese Artikel nicht.",
-          "**Internationaler Versand:** Die Ware läuft über den Zoll, und die Steuern werden an der Kasse berechnet. SHEIN braucht 3 bis 5 Tage, um die Bestellung vor dem Versand zu bearbeiten, und der Name auf der Bestellung muss mit dem CPF übereinstimmen (die brasilianische Steuernummer natürlicher Personen).",
-          "**Lieferzeit:** Lieferzeit und Versandkosten stehen vor der Zahlung auf der Bestellseite. Die Bestellung kann in mehr als einem Paket ankommen.",
-          "**Verspätung:** SHEIN hat einen kostenlosen Service für pünktliche Lieferung, der 200 SHEIN-Punkte oder R$ 10 Guthaben im Wallet gibt, wenn die Bestellung nicht bis zum voraussichtlichen Datum ankommt."
-        ]
-      },
-      {
         "heading": "Gutscheine, Punkte und der Code 4CW5Y",
         "paragraphs": [
-          "Nach der Gutscheinrichtlinie von SHEIN gilt pro Bestellung ein Gutschein der Plattform. Enthält der Warenkorb Produkte brasilianischer Verkäufer, lässt sich zusätzlich der Shop-Gutschein dieses Verkäufers nutzen: höchstens zwei Gutscheine, einer von jeder Art. Jeder Gutschein hat ein Ablaufdatum, und was nicht rechtzeitig genutzt wurde, ist nicht mehr verfügbar.",
-          "SHEIN-Punkte sind US$ 1 pro 100 Punkte wert und senken bis zu 30 % des Warenwerts, ohne Versand und Steuern. Für Artikel brasilianischer Verkäufer gelten sie nicht.",
+          "Nach der Gutscheinrichtlinie von SHEIN gilt pro Bestellung ein Gutschein der Plattform. Jeder Gutschein hat ein Ablaufdatum, und was nicht rechtzeitig genutzt wurde, ist nicht mehr verfügbar.",
+          "SHEIN-Punkte sind US$ 1 pro 100 Punkte wert und senken bis zu 30 % des Warenwerts, ohne Versand und Steuern.",
           "4CW5Y ist kein Gutschein, sondern Cecílias Empfehlungscode für SHEIN Brasilien. Sie suchen 4CW5Y in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Die SHEIN-Aktionen ändern sich ständig: Prüfen Sie die aktuellen auf der Shop-Seite hier auf der Website, bevor Sie bestellen."
         ],
         "image": {
@@ -61144,13 +60596,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "So zahlen Sie am Black Friday",
-        "paragraphs": [
-          "SHEIN akzeptiert Pix, brasilianische Kreditkarte in bis zu 6 Raten, Boleto, PayPal und Pagaleve. Das Boleto braucht bis zu 3 Tage bis zur Gutschrift, und in der Zeit kann das Teil ausverkauft sein: Nehmen Sie am Black Friday lieber Karte oder PayPal.",
-          "Wenn Sie eine Erstattung brauchen, ist Pix am schnellsten: SHEIN bearbeitet sie innerhalb von 24 Stunden, und die Bank braucht 1 bis 3 Werktage. Bei der Kreditkarte braucht die Bank 3 bis 8 Werktage, manchmal bis zu 30 Tage."
-        ]
-      },
-      {
         "heading": "Umtausch und Rückgabe nach dem Black Friday",
         "image": {
           "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
@@ -61162,7 +60607,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Frist:** bis zu 20 Tage nach Erhalt, auch wenn Ihnen das Teil einfach nicht gefallen hat.",
           "**Artikel, die nur innerhalb von 7 Tagen zurückgehen:** Bodys, Bademode, Unterwäsche, Ohrringe und Piercings, Tierbedarf sowie Kosmetik, Partyartikel und Bastelbedarf mit geöffnetem Siegel. Diese können nur innerhalb der Widerrufsfrist von 7 Tagen zurückgegeben werden, gerechnet ab Lieferung.",
-          "**Versand der Rückgabe:** Die erste Rückgabe jeder Bestellung ist kostenlos, über Correios, Jadlog oder Total Express. Ab der zweiten zieht SHEIN bei jeder Rückgabe R$ 45 von der Erstattung ab.",
           "**Gutschein:** Bei einer Teilrückgabe gilt der Gutschein als eingelöst und wird nicht zurückgegeben; fällt die Bestellung unter den Mindestwert, wird die Differenz von der Erstattung abgezogen.",
           "**Steuer:** Die gezahlte Einfuhrsteuer wird nicht erstattet, sobald die Bestellung versandt wurde."
         ]
@@ -61170,9 +60614,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vor dem Bezahlen: was Sie prüfen sollten",
         "bullets": [
-          "Ob das Produkt mit Inlandsversand oder international kommt.",
-          "Ob die internationale Bestellung bis US$ 50 geblieben ist, mit Versand und schon mit den Rabatten.",
-          "Wie hoch die ICMS in der Bestellübersicht ausfiel.",
           "Ob der Gutschein angewendet und die Punkte abgezogen wurden.",
           "Die Lieferzeit, wenn der Einkauf ein Weihnachtsgeschenk ist.",
           "Ob das Teil zu den Artikeln gehört, die nur innerhalb von 7 Tagen zurückgehen."
@@ -61184,10 +60625,7 @@ export const reviewsData: unknown[] = [
           "Wann beginnt der Black Friday von SHEIN 2026? SHEIN hat ihn noch nicht angekündigt. 2024 begannen die Angebote zusammen mit dem 11.11, Ende Oktober, und 2025 waren sie Anfang November schon online. Der Black Friday 2026 fällt auf den letzten Freitag im November.",
           "Wie lange läuft der Black Friday von SHEIN? 2024 und 2025 bis Ende November. 2023 bis zum Samstag nach dem Black Friday.",
           "Was ist der 11.11 von SHEIN? Das ist die Aktion zum Single's Day, am 11. Tag des 11. Monats. SHEIN fasst den 11.11 und den Black Friday zu einer einzigen Aktion zusammen, mit Rabattphasen bis Monatsende.",
-          "Fallen bei SHEIN-Einkäufen am Black Friday Steuern an? Es fällt ICMS an, 17 % bis 20 % je nach Bundesstaat, bei jedem internationalen Einkauf. Die Einfuhrsteuer ist bei Bestellungen bis US$ 50 null und beträgt darüber 60 %, abzüglich US$ 30 vom Steuerbetrag.",
-          "Gilt die Nullsteuer von SHEIN für jeden Einkauf? Sie gilt für die internationale Bestellung bis US$ 50, gerechnet mit Produkt und Versand, schon mit den Rabatten. Darüber kommt die Einfuhrsteuer zurück.",
-          "Zahlen Produkte mit Inlandsversand Einfuhrsteuer? Nein. Produkte mit Inlandsversand sind schon in Brasilien und zahlen keine Einfuhrsteuer.",
-          "Kann ich bei SHEIN mehr als einen Gutschein nutzen? Ein SHEIN-Gutschein pro Bestellung. Enthält der Warenkorb Produkte brasilianischer Verkäufer, lässt sich der Shop-Gutschein dieses Verkäufers dazurechnen.",
+          "Kann ich bei SHEIN mehr als einen Gutschein nutzen? Ein SHEIN-Gutschein pro Bestellung.",
           "Ist 4CW5Y ein Rabattgutschein? Nein. Es ist Cecílias Empfehlungscode für SHEIN Brasilien: Sie suchen den Code in der SHEIN-App und sehen die Bedingungen für Ihr Konto.",
           "Gibt es am Black Friday von SHEIN kostenlosen Versand? Der kostenlose Versand ändert sich mit jeder Phase der Aktion: Prüfen Sie den Ihrer Bestellung im Warenkorb, bevor Sie bezahlen.",
           "Wie lange habe ich Zeit, am Black Friday Gekauftes zurückzugeben? Bis zu 20 Tage nach Erhalt. Unterwäsche, Bademode, Bodys, Ohrringe und einige andere Artikel gehen nur innerhalb von 7 Tagen zurück."
@@ -61202,7 +60640,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Regeln laut den offiziellen Seiten von SHEIN Brasilien und Gesetz 15.502/2026. Wir können für Käufe eine Provision erhalten.",
+    "editorialNote": "Regeln laut den offiziellen Seiten von SHEIN. Wir können für Käufe eine Provision erhalten.",
     "relatedArticles": [
       {
         "slug": "yesstyle-black-friday-termine-gutscheine",
@@ -61215,8 +60653,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-shein-date-e-tasse",
     "locale": "it",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e l'imposta di importazione zero fino a US$ 50",
-    "seoTitle": "SHEIN Black Friday 2026: date, imposte, coupon",
+    "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e come funzionano i coupon",
+    "seoTitle": "SHEIN Black Friday 2026: date, coupon e punti",
     "type": "Guida al Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -61227,8 +60665,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quando inizia e fino a quando dura il Black Friday di SHEIN, il calendario dal 2023 al 2025, cosa cambia con l'imposta di importazione azzerata sugli ordini fino a US$ 50, Spedizione nazionale o internazionale, coupon, punti, pagamento e reso.",
-    "metaDescription": "Black Friday SHEIN 2026: il calendario dal 2023 al 2025, l'imposta di importazione zero fino a US$ 50 e l'ICMS che resta, Spedizione nazionale, coupon, punti e reso.",
+    "description": "Quando inizia e fino a quando dura il Black Friday di SHEIN, il calendario dal 2023 al 2025, coupon, punti e reso.",
+    "metaDescription": "Black Friday SHEIN 2026: il calendario dal 2023 al 2025, il «fino al 90%», coupon, punti e reso.",
     "publishedAt": "11 ottobre 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
@@ -61239,22 +60677,18 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
-      "Dal 13 maggio 2026 gli ordini fino a US$ 50 non pagano l'imposta di importazione",
       "Negli ultimi tre anni le offerte sono iniziate prima del Black Friday e sono continuate dopo",
-      "I prodotti con Spedizione nazionale non pagano l'imposta di importazione",
       "Reso entro 20 giorni, con il primo reso di ogni ordine gratuito"
     ],
     "cons": [
       "Il «fino al 90%» vale per alcuni articoli, non per tutto il carrello",
-      "L'ICMS dal 17% al 20% resta su ogni acquisto internazionale",
-      "Sopra US$ 50 l'imposta di importazione torna: 60%, meno US$ 30 sull'importo dell'imposta",
-      "Un solo coupon SHEIN per ordine, e l'imposta pagata non viene rimborsata con il reso"
+      "Un solo coupon SHEIN per ordine, e non viene rimborsato con il reso parziale"
     ],
     "contentSections": [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "SHEIN non ha ancora annunciato il Black Friday 2026, che cade il 27 novembre. Dallo storico, le offerte iniziano prima, insieme all'11.11, e vanno fino a fine mese. Su un ordine internazionale fino a US$ 50 non c'è imposta di importazione, solo ICMS; più sotto il calcolo, il coupon e il codice 4CW5Y."
+          "SHEIN non ha ancora annunciato il Black Friday 2026, che cade il 27 novembre. Dallo storico, le offerte iniziano prima, insieme all'11.11, e vanno fino a fine mese. Più sotto il calendario, i coupon, i punti e il codice 4CW5Y."
         ]
       },
       {
@@ -61312,56 +60746,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Le imposte nel Black Friday: cosa è cambiato nel 2026",
-        "paragraphs": [
-          "SHEIN aderisce al Remessa Conforme, quindi l'imposta compare al checkout, insieme all'ordine. Di regola non c'è un addebito extra alla consegna, ma la Receita Federal (l'agenzia fiscale brasiliana) può rivalutare il valore del pacco, e questo cambia l'imposta dovuta. Il 13 maggio 2026 l'imposta di importazione sugli acquisti fino a US$ 50 è stata azzerata. La Legge 15.502/2026 ha confermato che il governo può mantenere l'aliquota zero in quella fascia.",
-          "Il calcolo vale per ordine e usa il valore del prodotto più la spedizione, già con gli sconti e il coupon. Cioè, lo sconto del Black Friday può portare un ordine sotto i US$ 50. Il limite è in dollari: il checkout mostra le imposte del tuo ordine prima del pagamento."
-        ],
-        "comparisonTable": {
-          "caption": "Dalla pagina delle imposte di SHEIN Brasile. L'ICMS del 17% vale per la maggior parte degli stati; l'Amapá ha il 18%, il Pará il 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe il 20%.",
-          "headers": [
-            "Ordine (prodotto + spedizione)",
-            "Imposta di importazione",
-            "ICMS",
-            "Esempio di SHEIN, senza il sussidio"
-          ],
-          "rows": [
-            [
-              "Fino a US$ 50",
-              "0%",
-              "dal 17% al 20%, secondo lo stato",
-              "US$ 50 diventano US$ 60,24 con ICMS del 17%"
-            ],
-            [
-              "Sopra US$ 50",
-              "60%, meno US$ 30 sull'importo dell'imposta",
-              "dal 17% al 20%, anche sull'imposta di importazione",
-              "US$ 100 diventano US$ 156,63 con ICMS del 17%"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "SHEIN dice di continuare a coprire una parte dell'ICMS, solo sul valore del prodotto. L'entità di questo sussidio cambia da cliente a cliente, in base a criteri che il negozio non rende noti, e non copre l'ICMS applicato all'imposta di importazione.",
-          "I prodotti con **Spedizione nazionale**, che sono già in Brasile, non pagano l'imposta di importazione. E l'imposta di importazione pagata non viene rimborsata se restituisci il capo dopo la spedizione."
-        ]
-      },
-      {
-        "heading": "Spedizione nazionale o internazionale?",
-        "paragraphs": [
-          "Nella stessa ricerca SHEIN mescola prodotti dall'estero e di venditori in Brasile (Spedizione nazionale): la differenza pesa sul prezzo finale e sulle regole di sconto."
-        ],
-        "bullets": [
-          "**Spedizione nazionale:** niente imposta di importazione. Ogni venditore ha la propria spedizione, i propri tempi e le proprie condizioni, e i punti SHEIN non valgono su questi articoli.",
-          "**Internazionale:** passa dalla dogana, con le imposte pagate al checkout. SHEIN impiega da 3 a 5 giorni per elaborare l'ordine prima della spedizione, e il nome sull'ordine deve corrispondere al CPF (il numero di contribuente brasiliano).",
-          "**Tempi:** i tempi di consegna e la spedizione compaiono nella pagina dell'ordine prima di pagare. L'ordine può arrivare in più di un pacco.",
-          "**Ritardo:** SHEIN ha un servizio gratuito di Consegna puntuale, che dà 200 punti SHEIN o R$ 10 di credito nel portafoglio se l'ordine non arriva entro la data prevista."
-        ]
-      },
-      {
         "heading": "Coupon, punti e il codice 4CW5Y",
         "paragraphs": [
-          "Secondo la politica dei coupon di SHEIN, vale un coupon della piattaforma per ordine. Se il carrello contiene prodotti di venditori brasiliani, si può usare anche il coupon del negozio di quel venditore: al massimo due coupon, uno per tipo. Ogni coupon ha una scadenza, e quello non usato in tempo non è più disponibile.",
-          "I punti SHEIN valgono US$ 1 ogni 100 punti e abbattono fino al 30% del valore dei prodotti, escluse spedizione e imposte. Non valgono sugli articoli di venditori brasiliani.",
+          "Secondo la politica dei coupon di SHEIN, vale un coupon della piattaforma per ordine. Ogni coupon ha una scadenza, e quello non usato in tempo non è più disponibile.",
+          "I punti SHEIN valgono US$ 1 ogni 100 punti e abbattono fino al 30% del valore dei prodotti, escluse spedizione e imposte.",
           "Il 4CW5Y non è un coupon: è il codice invito di Cecília per SHEIN Brasile. Cerchi 4CW5Y nell'app SHEIN e controlli le condizioni che compaiono per il tuo account. Le campagne di SHEIN cambiano in continuazione: controlla quelle in corso nella pagina del negozio qui sul sito prima di chiudere l'ordine."
         ],
         "image": {
@@ -61383,13 +60771,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Come pagare nel Black Friday",
-        "paragraphs": [
-          "SHEIN accetta Pix, carta di credito brasiliana fino a 6 rate, boleto, PayPal e Pagaleve. Il boleto impiega fino a 3 giorni per essere accreditato, e nel frattempo il capo può esaurirsi: nel Black Friday, preferisci carta o PayPal.",
-          "Se ti serve un rimborso, il Pix è il più veloce: SHEIN lo elabora entro 24 ore, e la banca impiega da 1 a 3 giorni lavorativi. Sulla carta di credito la banca impiega da 3 a 8 giorni lavorativi, a volte fino a 30 giorni."
-        ]
-      },
-      {
         "heading": "Cambi e resi dopo il Black Friday",
         "image": {
           "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
@@ -61401,7 +60782,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Termine:** fino a 20 giorni dopo la ricezione, anche se il capo semplicemente non ti è piaciuto.",
           "**Articoli che si rendono solo entro 7 giorni:** body, beachwear, intimo, orecchini e piercing, prodotti per animali, oltre a cosmetici, articoli per feste e per il fai da te con il sigillo aperto. Questi si possono rendere solo entro il termine di recesso di 7 giorni, contato dalla consegna.",
-          "**Spedizione del reso:** il primo reso di ogni ordine è gratuito, con Correios, Jadlog o Total Express. Dal secondo in poi SHEIN trattiene R$ 45 dal rimborso a ogni reso.",
           "**Coupon:** in un reso parziale il coupon conta come usato e non viene restituito; se l'ordine scende sotto il minimo, la differenza viene tolta dal rimborso.",
           "**Imposta:** l'imposta di importazione pagata non viene rimborsata dopo che l'ordine è stato spedito."
         ]
@@ -61409,9 +60789,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prima di pagare: cosa controllare",
         "bullets": [
-          "Se il prodotto è con Spedizione nazionale o internazionale.",
-          "Se l'ordine internazionale è rimasto fino a US$ 50, spedizione compresa e già con gli sconti.",
-          "Quanto è risultato l'ICMS nel riepilogo dell'ordine.",
           "Se il coupon è stato applicato e se i punti sono stati scalati.",
           "I tempi di consegna, se l'acquisto è un regalo di Natale.",
           "Se il capo è tra gli articoli che si rendono solo entro 7 giorni."
@@ -61423,10 +60800,7 @@ export const reviewsData: unknown[] = [
           "Quando inizia il Black Friday di SHEIN nel 2026? SHEIN non l'ha ancora annunciato. Nel 2024 le offerte sono iniziate insieme all'11.11, a fine ottobre, e nel 2025 erano già online a inizio novembre. Il Black Friday del 2026 cade l'ultimo venerdì di novembre.",
           "Fino a quando dura il Black Friday di SHEIN? Nel 2024 e nel 2025, fino a fine novembre. Nel 2023, fino al sabato dopo il Black Friday.",
           "Cos'è l'11.11 di SHEIN? È la promozione del Singles' Day, l'11 del mese 11. SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi di sconto fino a fine mese.",
-          "Ci sono imposte sugli acquisti SHEIN nel Black Friday? C'è l'ICMS, dal 17% al 20% secondo lo stato, su ogni acquisto internazionale. L'imposta di importazione è zero sugli ordini fino a US$ 50 e del 60%, meno US$ 30 sull'importo dell'imposta, oltre.",
-          "L'imposta zero di SHEIN vale per qualsiasi acquisto? Vale per l'ordine internazionale fino a US$ 50, prodotto e spedizione compresi, già con gli sconti. Oltre, l'imposta di importazione torna.",
-          "Un prodotto con Spedizione nazionale paga l'imposta di importazione? No. I prodotti con Spedizione nazionale sono già in Brasile e non pagano l'imposta di importazione.",
-          "Posso usare più di un coupon su SHEIN? Un coupon SHEIN per ordine. Se il carrello contiene prodotti di venditori brasiliani, si può sommare il coupon del negozio di quel venditore.",
+          "Posso usare più di un coupon su SHEIN? Un coupon SHEIN per ordine.",
           "Il 4CW5Y è un coupon sconto? No. È il codice invito di Cecília per SHEIN Brasile: cerchi il codice nell'app SHEIN e vedi le condizioni per il tuo account.",
           "C'è la spedizione gratuita nel Black Friday di SHEIN? La spedizione gratuita cambia a ogni fase della campagna: controlla quella del tuo ordine nel carrello prima di pagare.",
           "Quanto tempo ho per rendere ciò che ho comprato nel Black Friday? Fino a 20 giorni dopo la ricezione. Intimo, beachwear, body, orecchini e alcuni altri articoli si rendono solo entro 7 giorni."
@@ -61441,7 +60815,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Regole delle pagine ufficiali di SHEIN Brasile e della Legge 15.502/2026. Possiamo ricevere una commissione sugli acquisti.",
+    "editorialNote": "Regole delle pagine ufficiali di SHEIN. Possiamo ricevere una commissione sugli acquisti.",
     "relatedArticles": [
       {
         "slug": "black-friday-yesstyle-date-e-coupon",
@@ -61454,8 +60828,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-ko",
     "locale": "ko",
     "translationKey": "shein-black-friday",
-    "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, US$ 50 이하 수입세 면제",
-    "seoTitle": "SHEIN 블랙프라이데이 2026: 날짜, 세금, 쿠폰",
+    "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, 쿠폰 사용 방법",
+    "seoTitle": "SHEIN 블랙프라이데이 2026: 날짜, 쿠폰, 포인트",
     "type": "블랙프라이데이 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -61466,8 +60840,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 블랙프라이데이는 언제 시작하고 언제까지 이어질까요? 2023~2025년 일정, US$ 50 이하 주문의 수입세가 0이 되면서 달라진 점, 국내 배송과 해외 배송, 쿠폰, 포인트, 결제, 반품을 정리했습니다.",
-    "metaDescription": "SHEIN 블랙프라이데이 2026: 2023~2025년 일정, US$ 50 이하 수입세 0과 계속 붙는 ICMS, 국내 배송, 쿠폰, 포인트, 반품.",
+    "description": "SHEIN 블랙프라이데이는 언제 시작하고 언제까지 이어질까요? 2023~2025년 일정, 쿠폰, 포인트, 반품을 정리했습니다.",
+    "metaDescription": "SHEIN 블랙프라이데이 2026: 2023~2025년 일정, '최대 90%', 쿠폰, 포인트, 반품.",
     "publishedAt": "2026년 10월 11일",
     "publishedAtISO": "2026-10-11",
     "draft": false,
@@ -61478,22 +60852,18 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
-      "2026년 5월 13일부터 US$ 50 이하 주문에는 수입세가 붙지 않습니다",
       "지난 3년간 할인은 블랙프라이데이 전에 시작해 그 뒤로도 이어졌습니다",
-      "국내 배송 상품에는 수입세가 붙지 않습니다",
       "20일 안에 반품할 수 있고, 주문마다 첫 반품은 무료입니다"
     ],
     "cons": [
       "'최대 90%'는 일부 상품에만 해당하며 장바구니 전체가 아닙니다",
-      "ICMS 17~20%는 모든 해외 배송 구매에 붙습니다",
-      "US$ 50를 넘으면 수입세가 다시 붙습니다: 60%에서 세액 US$ 30를 뺀 금액",
-      "SHEIN 쿠폰은 주문당 하나이고, 낸 수입세는 반품해도 돌려받지 못합니다"
+      "SHEIN 쿠폰은 주문당 하나이고, 부분 반품 시에는 돌려받지 못합니다"
     ],
     "contentSections": [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "SHEIN은 11월 27일인 2026년 블랙프라이데이를 아직 발표하지 않았습니다. 지난 기록을 보면 할인은 11.11과 함께 그보다 먼저 시작해 월말까지 이어집니다. US$ 50 이하 해외 배송 주문에는 수입세가 없고 ICMS만 붙습니다. 계산 방법과 쿠폰, 그리고 SHEIN 브라질의 추천 코드 4CW5Y는 아래에서 확인하세요."
+          "SHEIN은 11월 27일인 2026년 블랙프라이데이를 아직 발표하지 않았습니다. 지난 기록을 보면 할인은 11.11과 함께 그보다 먼저 시작해 월말까지 이어집니다. 일정과 쿠폰, 포인트, 그리고 코드 4CW5Y는 아래에서 확인하세요."
         ]
       },
       {
@@ -61551,56 +60921,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "블랙프라이데이의 세금: 2026년에 달라진 점",
-        "paragraphs": [
-          "SHEIN은 Remessa Conforme(브라질의 수입 신고 제도)에 참여하고 있어서, 세금은 결제 화면에 주문과 함께 표시됩니다. 원칙적으로 수령할 때 추가 청구는 없지만, 브라질 연방세무국이 소포의 가액을 다시 평가할 수 있고, 그러면 내야 할 세금이 달라집니다. 2026년 5월 13일, US$ 50 이하 구매의 수입세가 0이 되었습니다. 법률 15.502/2026은 정부가 이 구간의 세율을 0으로 유지할 수 있음을 확인했습니다.",
-          "계산은 주문 단위로 하며, 할인과 쿠폰을 적용한 뒤의 상품 가격에 배송비를 더한 금액을 기준으로 합니다. 즉, 블랙프라이데이 할인으로 주문 금액이 US$ 50 아래로 내려갈 수 있습니다. 기준은 달러입니다. 결제 화면에서 결제 전에 내 주문의 세금을 보여 줍니다."
-        ],
-        "comparisonTable": {
-          "caption": "SHEIN 브라질의 세금 안내 페이지 기준. ICMS 17%는 대부분의 주에 적용됩니다. 아마파는 18%, 파라는 19%이고, 아크리, 알라고아스, 바이아, 세아라, 파라이바, 피아우이, 리우그란지두노르치, 호라이마, 세르지피는 20%입니다.",
-          "headers": [
-            "주문(상품 + 배송비)",
-            "수입세",
-            "ICMS",
-            "SHEIN 예시(보조금 제외)"
-          ],
-          "rows": [
-            [
-              "US$ 50 이하",
-              "0%",
-              "주에 따라 17~20%",
-              "US$ 50가 ICMS 17%로 US$ 60.24가 됩니다"
-            ],
-            [
-              "US$ 50 초과",
-              "60%에서 세액 US$ 30를 뺀 금액",
-              "17~20%, 수입세에도 붙음",
-              "US$ 100가 ICMS 17%로 US$ 156.63가 됩니다"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "SHEIN은 상품 가격에 대해서만 ICMS의 일부를 계속 부담한다고 밝힙니다. 이 보조금의 크기는 고객마다 다르고 기준은 SHEIN이 공개하지 않으며, 수입세에 붙는 ICMS는 보조금 대상이 아닙니다.",
-          "이미 브라질 안에 있는 **국내 배송** 상품에는 수입세가 붙지 않습니다. 그리고 낸 수입세는 발송 후에 상품을 반품해도 돌려받지 못합니다."
-        ]
-      },
-      {
-        "heading": "국내 배송인가요, 해외 배송인가요?",
-        "paragraphs": [
-          "SHEIN은 같은 검색 결과에 해외 상품과 브라질 판매자의 상품(국내 배송)을 섞어 보여 줍니다. 이 차이는 최종 가격과 할인 규칙에 영향을 줍니다."
-        ],
-        "bullets": [
-          "**국내 배송:** 수입세가 없습니다. 판매자마다 배송비, 배송 기간, 조건이 따로 있으며, SHEIN 포인트는 이 상품에 적용되지 않습니다.",
-          "**해외 배송:** 통관을 거치며, 세금은 결제 화면에서 청구됩니다. SHEIN은 발송 전 주문 처리에 3~5일이 걸리며, 주문자 이름이 CPF(브라질 납세자 번호)와 일치해야 합니다.",
-          "**배송 기간:** 배송 기간과 배송비는 결제 전에 주문 페이지에 표시됩니다. 주문이 여러 개의 소포로 나뉘어 올 수 있습니다.",
-          "**지연:** SHEIN에는 무료 '기한 내 배송' 서비스가 있어서, 주문이 예정일까지 도착하지 않으면 200 SHEIN 포인트 또는 지갑 크레딧 10헤알을 줍니다."
-        ]
-      },
-      {
         "heading": "쿠폰, 포인트, 그리고 4CW5Y",
         "paragraphs": [
-          "SHEIN의 쿠폰 정책에 따르면 플랫폼 쿠폰은 주문당 하나입니다. 장바구니에 브라질 판매자의 상품이 있으면 그 판매자의 스토어 쿠폰도 함께 쓸 수 있습니다. 최대 두 개이고, 종류별로 하나씩입니다. 쿠폰마다 유효기간이 있으며, 제때 쓰지 않으면 사용할 수 없게 됩니다.",
-          "SHEIN 포인트는 100포인트가 US$ 1이고, 상품 금액의 최대 30%까지 차감합니다. 배송비와 세금은 제외입니다. 브라질 판매자의 상품에는 쓸 수 없습니다.",
+          "SHEIN의 쿠폰 정책에 따르면 플랫폼 쿠폰은 주문당 하나입니다. 쿠폰마다 유효기간이 있으며, 제때 쓰지 않으면 사용할 수 없게 됩니다.",
+          "SHEIN 포인트는 100포인트가 US$ 1이고, 상품 금액의 최대 30%까지 차감합니다. 배송비와 세금은 제외입니다.",
           "4CW5Y는 쿠폰이 아니라 SHEIN 브라질의 Cecília 추천 코드입니다. SHEIN 앱에서 4CW5Y를 검색하고, 내 계정에 표시되는 조건을 확인하세요. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요."
         ],
         "image": {
@@ -61622,13 +60946,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "블랙프라이데이에 결제하는 방법",
-        "paragraphs": [
-          "SHEIN은 Pix, 브라질 신용카드(최대 6회 할부), 보레토(은행 납부서), PayPal, Pagaleve를 받습니다. 보레토는 입금 확인까지 최대 3일이 걸리고, 그 사이 상품이 품절될 수 있습니다. 블랙프라이데이에는 카드나 PayPal을 권합니다.",
-          "환불이 필요하다면 Pix가 가장 빠릅니다. SHEIN은 24시간 안에 처리하고, 은행 반영에 영업일 기준 1~3일이 걸립니다. 신용카드는 은행 반영에 영업일 기준 3~8일, 때로는 30일까지 걸립니다."
-        ]
-      },
-      {
         "heading": "블랙프라이데이 이후 교환과 반품",
         "image": {
           "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
@@ -61640,7 +60957,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**기간:** 수령 후 20일 이내. 단순히 마음에 들지 않아도 반품할 수 있습니다.",
           "**7일 안에만 반품되는 상품:** 보디수트, 수영복, 속옷, 귀걸이와 피어싱, 반려동물용품, 그리고 봉인을 뜯은 화장품, 파티용품, 공예용품. 이 상품들은 배송일부터 7일의 청약 철회 기간 안에서만 반품할 수 있습니다.",
-          "**반품 배송비:** 주문마다 첫 반품은 우체국(Correios), Jadlog, Total Express 중 하나로 무료입니다. 두 번째부터는 반품할 때마다 SHEIN이 환불액에서 45헤알을 뺍니다.",
           "**쿠폰:** 부분 반품이면 쿠폰은 사용한 것으로 처리되어 돌아오지 않습니다. 주문이 최소 금액 아래로 내려가면 그 차액이 환불액에서 빠집니다.",
           "**세금:** 낸 수입세는 주문이 발송된 뒤에는 돌려받지 못합니다."
         ]
@@ -61648,9 +60964,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "결제 전에 확인할 것",
         "bullets": [
-          "상품이 국내 배송인지 해외 배송인지.",
-          "해외 배송 주문이 배송비를 포함하고 할인을 적용한 뒤 US$ 50 이하인지.",
-          "주문 요약에서 ICMS가 얼마인지.",
           "쿠폰이 적용되었고 포인트가 차감되었는지.",
           "크리스마스 선물이라면 배송 기간.",
           "7일 안에만 반품되는 상품에 해당하는지."
@@ -61662,10 +60975,7 @@ export const reviewsData: unknown[] = [
           "2026년 SHEIN 블랙프라이데이는 언제 시작하나요? SHEIN은 아직 발표하지 않았습니다. 2024년에는 11.11과 함께 10월 말에 시작했고, 2025년에는 11월 초에 이미 진행 중이었습니다. 2026년 블랙프라이데이는 11월의 마지막 금요일입니다.",
           "SHEIN 블랙프라이데이는 언제까지인가요? 2024년과 2025년에는 11월 말까지였습니다. 2023년에는 블랙프라이데이 다음 토요일까지였습니다.",
           "SHEIN 11.11이 무엇인가요? 11월 11일 광군제 할인입니다. SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶어 월말까지 단계별로 할인합니다.",
-          "블랙프라이데이 SHEIN 구매에 세금이 붙나요? 모든 해외 배송 구매에 주에 따라 17~20%의 ICMS가 붙습니다. 수입세는 US$ 50 이하 주문에는 0이고, 그 이상이면 60%에서 세액 US$ 30를 뺀 금액입니다.",
-          "SHEIN의 세금 0은 모든 구매에 적용되나요? 상품 금액과 배송비를 합하고 할인을 적용한 뒤 US$ 50 이하인 해외 배송 주문에 적용됩니다. 그 이상이면 수입세가 다시 붙습니다.",
-          "국내 배송 상품도 수입세를 내나요? 아니요. 국내 배송 상품은 이미 브라질 안에 있어서 수입세가 붙지 않습니다.",
-          "SHEIN에서 쿠폰을 두 개 이상 쓸 수 있나요? SHEIN 쿠폰은 주문당 하나입니다. 장바구니에 브라질 판매자의 상품이 있으면 그 판매자의 스토어 쿠폰을 함께 쓸 수 있습니다.",
+          "SHEIN에서 쿠폰을 두 개 이상 쓸 수 있나요? SHEIN 쿠폰은 주문당 하나입니다.",
           "4CW5Y는 할인 쿠폰인가요? 아니요. SHEIN 브라질의 Cecília 추천 코드입니다. SHEIN 앱에서 코드를 검색하면 내 계정의 조건을 볼 수 있습니다.",
           "SHEIN 블랙프라이데이에 무료 배송이 있나요? 무료 배송은 캠페인 단계마다 달라집니다. 결제 전에 장바구니에서 내 주문의 배송비를 확인하세요.",
           "블랙프라이데이에 산 상품은 얼마나 반품할 수 있나요? 수령 후 20일 이내입니다. 속옷, 수영복, 보디수트, 귀걸이 등 일부 상품은 7일 안에만 반품됩니다."
@@ -61680,7 +60990,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "SHEIN 브라질 공식 페이지와 법률 15.502/2026의 규정 기준입니다. 구매하면 수수료를 받을 수 있습니다.",
+    "editorialNote": "SHEIN 공식 페이지의 규정 기준입니다. 구매하면 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
         "slug": "yesstyle-black-friday-ko",
@@ -61693,8 +61003,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-ja",
     "locale": "ja",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まり、いつまで？US$ 50までの輸入税ゼロ",
-    "seoTitle": "SHEIN ブラックフライデー 2026：日程・税金・クーポン",
+    "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まり、いつまで続くか、クーポンの仕組み",
+    "seoTitle": "SHEIN ブラックフライデー 2026：日程・クーポン・ポイント",
     "type": "ブラックフライデーガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -61705,8 +61015,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEINのブラックフライデーはいつ始まり、いつまで続くのか。2023〜2025年のスケジュール、US$ 50までの注文で輸入税がゼロになったことで何が変わるか、国内配送と国際配送、クーポン、ポイント、支払い、返品をまとめました。",
-    "metaDescription": "SHEIN ブラックフライデー 2026：2023〜2025年のスケジュール、US$ 50までの輸入税ゼロと続くICMS、国内配送、クーポン、ポイント、返品。",
+    "description": "SHEINのブラックフライデーはいつ始まり、いつまで続くのか。2023〜2025年のスケジュール、クーポン、ポイント、返品をまとめました。",
+    "metaDescription": "SHEIN ブラックフライデー 2026：2023〜2025年のスケジュール、「最大90%」、クーポン、ポイント、返品。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
     "draft": false,
@@ -61717,22 +61027,18 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
-      "2026年5月13日から、US$ 50までの注文には輸入税がかかりません",
       "過去3年間、セールはブラックフライデーの前に始まり、その後も続きました",
-      "国内配送の商品には輸入税がかかりません",
       "20日以内に返品でき、各注文の最初の返品は無料です"
     ],
     "cons": [
       "「最大90%」は一部の商品が対象で、カート全体ではありません",
-      "ICMSは17%〜20%で、国際配送の購入すべてにかかります",
-      "US$ 50を超えると輸入税が復活します：60%、ただし税額からUS$ 30を差し引きます",
-      "SHEINのクーポンは1注文につき1枚で、支払った輸入税は返品しても戻りません"
+      "SHEINのクーポンは1注文につき1枚で、一部返品の場合は戻りません"
     ],
     "contentSections": [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "SHEINは、11月27日にあたる2026年のブラックフライデーをまだ発表していません。過去の実績では、セールは11.11と同時にその前から始まり、月末まで続きます。US$ 50までの国際配送の注文には輸入税がかからず、かかるのはICMSだけです。計算方法、クーポン、そしてSHEINブラジルの紹介コード4CW5Yは以下のとおりです。"
+          "SHEINは、11月27日にあたる2026年のブラックフライデーをまだ発表していません。過去の実績では、セールは11.11と同時にその前から始まり、月末まで続きます。スケジュール、クーポン、ポイント、そしてコード4CW5Yは以下のとおりです。"
         ]
       },
       {
@@ -61790,56 +61096,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "ブラックフライデーの税金：2026年に変わったこと",
-        "paragraphs": [
-          "SHEINはRemessa Conforme（ブラジルの輸入申告制度）に参加しているため、税金は注文と一緒にチェックアウトで表示されます。原則として、受け取り時の追加請求はありませんが、ブラジル連邦税務局が荷物の価額を再評価することがあり、その場合は納める税額が変わります。2026年5月13日に、US$ 50までの購入に対する輸入税がゼロになりました。法律15.502/2026は、政府がこの区分でゼロの税率を維持できることを確認しています。",
-          "計算は注文ごとに行い、割引とクーポンを適用したあとの商品代金と送料の合計を使います。つまり、ブラックフライデーの割引で注文がUS$ 50を下回ることもあります。上限はドル建てです。チェックアウトで、支払い前にご自分の注文の税金が表示されます。"
-        ],
-        "comparisonTable": {
-          "caption": "SHEINブラジルの税金ページより。ICMS 17%は大半の州に適用されます。アマパは18%、パラーは19%、アクレ、アラゴアス、バイーア、セアラー、パライーバ、ピアウイー、リオグランデ・ド・ノルテ、ロライマ、セルジッペは20%です。",
-          "headers": [
-            "注文（商品＋送料）",
-            "輸入税",
-            "ICMS",
-            "SHEINの例（補助なし）"
-          ],
-          "rows": [
-            [
-              "US$ 50まで",
-              "0%",
-              "州により17%〜20%",
-              "US$ 50が、ICMS 17%でUS$ 60.24になります"
-            ],
-            [
-              "US$ 50超",
-              "60%、ただし税額からUS$ 30を差し引く",
-              "17%〜20%、輸入税にもかかります",
-              "US$ 100が、ICMS 17%でUS$ 156.63になります"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "SHEINは、商品代金に対してのみ、ICMSの一部を引き続き負担していると説明しています。この補助の大きさは顧客ごとに異なり、基準は店舗側から公開されていません。また、輸入税にかかるICMSは補助の対象外です。",
-          "すでにブラジル国内にある**国内配送**の商品には、輸入税がかかりません。また、支払った輸入税は、発送後に商品を返品しても戻りません。"
-        ]
-      },
-      {
-        "heading": "国内配送か国際配送か",
-        "paragraphs": [
-          "SHEINは同じ検索結果に、海外の商品とブラジル国内の販売者の商品（国内配送）を混ぜて表示します。この違いは、最終価格と割引のルールに影響します。"
-        ],
-        "bullets": [
-          "**国内配送：** 輸入税はかかりません。販売者ごとに送料、配送日数、条件が異なり、SHEIN ポイントはこれらの商品には使えません。",
-          "**国際配送：** 税関を通るため、税金はチェックアウトで支払います。SHEINは発送前に注文の処理に3〜5日かかります。また、注文者の氏名はCPF（ブラジルの納税者番号）と一致している必要があります。",
-          "**配送日数：** 配送日数と送料は、支払い前に注文ページに表示されます。注文は複数の荷物に分かれて届くことがあります。",
-          "**遅延：** SHEINには、無料の「期日どおりの配送」サービスがあり、注文が予定日までに届かなかった場合、200 SHEIN ポイント、またはウォレットに10レアルのクレジットがもらえます。"
-        ]
-      },
-      {
         "heading": "クーポン、ポイント、そして4CW5Y",
         "paragraphs": [
-          "SHEINのクーポン規定では、プラットフォームのクーポンは1注文につき1枚です。カートにブラジル国内の販売者の商品があれば、その販売者のストアクーポンも使えます。最大2枚で、種類ごとに1枚ずつです。クーポンにはそれぞれ有効期限があり、期限内に使わなかったものは使えなくなります。",
-          "SHEIN ポイントは、100ポイントがUS$ 1に相当し、商品代金の最大30%まで割り引けます。送料と税金は対象外です。ブラジル国内の販売者の商品には使えません。",
+          "SHEINのクーポン規定では、プラットフォームのクーポンは1注文につき1枚です。クーポンにはそれぞれ有効期限があり、期限内に使わなかったものは使えなくなります。",
+          "SHEIN ポイントは、100ポイントがUS$ 1に相当し、商品代金の最大30%まで割り引けます。送料と税金は対象外です。",
           "4CW5Yはクーポンではなく、SHEINブラジルのCecíliaの紹介コードです。SHEINのアプリで4CW5Yを検索し、ご自身のアカウントに表示される条件を確認してください。SHEINのキャンペーンは頻繁に変わります。注文を確定する前に、このサイトのストアページで現在のキャンペーンを確認してください。"
         ],
         "image": {
@@ -61861,13 +61121,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "ブラックフライデーの支払い方法",
-        "paragraphs": [
-          "SHEINは、Pix、ブラジルのクレジットカード（最大6回払い）、ブレト（銀行払込票）、PayPal、Pagaleveに対応しています。ブレトは入金の確認まで最大3日かかり、その間に商品が売り切れることがあります。ブラックフライデーには、カードかPayPalがおすすめです。",
-          "返金が必要な場合は、Pixがいちばん早く、SHEINは24時間以内に処理し、銀行の反映に1〜3営業日かかります。クレジットカードは、銀行の反映に3〜8営業日、場合によっては30日までかかります。"
-        ]
-      },
-      {
         "heading": "ブラックフライデーのあとの交換と返品",
         "image": {
           "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
@@ -61879,7 +61132,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**期間：** 受け取りから20日以内。気に入らなかっただけでも返品できます。",
           "**7日以内しか返品できない商品：** ボディスーツ、水着、下着、ピアスとイヤリング、ペット用品、そして開封済みの化粧品、パーティー用品、手芸用品。これらは、配達日から数える7日間の撤回期間内にのみ返品できます。",
-          "**返品の送料：** 各注文の最初の返品は、郵便局（Correios）、Jadlog、Total Expressのいずれかで無料です。2回目以降は、返品のたびにSHEINが返金額から45レアルを差し引きます。",
           "**クーポン：** 一部返品の場合、クーポンは使用済みとして扱われ、戻りません。注文が最低金額を下回る場合は、その差額が返金額から引かれます。",
           "**税金：** 支払った輸入税は、注文の発送後は戻りません。"
         ]
@@ -61887,9 +61139,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "支払う前に確認すること",
         "bullets": [
-          "商品が国内配送か国際配送か。",
-          "国際配送の注文が、送料を含め、割引適用後でUS$ 50以内に収まっているか。",
-          "注文の概要でICMSがいくらになったか。",
           "クーポンが適用され、ポイントが差し引かれているか。",
           "クリスマスプレゼントなら、配送日数。",
           "7日以内しか返品できない商品に当たらないか。"
@@ -61901,10 +61150,7 @@ export const reviewsData: unknown[] = [
           "2026年のSHEINのブラックフライデーはいつ始まりますか？SHEINはまだ発表していません。2024年は11.11と同時に10月末に始まり、2025年は11月初めにすでに実施されていました。2026年のブラックフライデーは、11月の最後の金曜日です。",
           "SHEINのブラックフライデーはいつまでですか？2024年と2025年は11月末まででした。2023年は、ブラックフライデーの翌土曜日まででした。",
           "SHEINの11.11とは何ですか？11月11日の独身の日のセールです。SHEINは11.11とブラックフライデーを1つのキャンペーンにまとめ、月末まで段階的に割引を行います。",
-          "ブラックフライデーのSHEINの購入に税金はかかりますか？国際配送の購入すべてに、州により17%〜20%のICMSがかかります。輸入税は、US$ 50までの注文ではゼロ、それを超えると60%（税額からUS$ 30を差し引く）です。",
-          "SHEINの税金ゼロは、どの購入にも適用されますか？商品代金と送料を合わせ、割引適用後でUS$ 50までの国際配送の注文が対象です。それを超えると、輸入税が復活します。",
-          "国内配送の商品に輸入税はかかりますか？いいえ。国内配送の商品はすでにブラジル国内にあり、輸入税はかかりません。",
-          "SHEINでクーポンを複数使えますか？SHEINのクーポンは1注文につき1枚です。カートにブラジル国内の販売者の商品があれば、その販売者のストアクーポンも併用できます。",
+          "SHEINでクーポンを複数使えますか？SHEINのクーポンは1注文につき1枚です。",
           "4CW5Yは割引クーポンですか？いいえ。SHEINブラジルのCecíliaの紹介コードです。SHEINのアプリでコードを検索すると、ご自身のアカウントの条件が表示されます。",
           "SHEINのブラックフライデーは送料無料ですか？送料無料はキャンペーンのフェーズごとに変わります。支払う前に、カートでご自分の注文の送料を確認してください。",
           "ブラックフライデーに買った商品は、どのくらいの期間返品できますか？受け取りから20日以内です。下着、水着、ボディスーツ、ピアスなど一部の商品は、7日以内にしか返品できません。"
@@ -61919,7 +61165,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "SHEINブラジルの公式ページと法律15.502/2026のルールによります。購入により手数料を受け取る場合があります。",
+    "editorialNote": "SHEIN公式ページのルールによります。購入により手数料を受け取る場合があります。",
     "relatedArticles": [
       {
         "slug": "yesstyle-black-friday-ja",
@@ -61932,8 +61178,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-zh-hant",
     "locale": "zh-hant",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及 US$ 50 以下免進口稅",
-    "seoTitle": "SHEIN 黑色星期五 2026：日期、稅金與優惠券",
+    "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及優惠券怎麼用",
+    "seoTitle": "SHEIN 黑色星期五 2026：日期、優惠券與點數",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -61944,8 +61190,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 黑色星期五何時開始、何時結束？本文整理了 2023 至 2025 年的活動時程、US$ 50 以下訂單進口稅歸零帶來的改變、國內出貨與國際出貨的差別，以及優惠券、點數、付款與退貨。",
-    "metaDescription": "SHEIN 黑色星期五 2026：2023 至 2025 年時程、US$ 50 以下進口稅為零與仍須繳納的 ICMS、國內出貨、優惠券、點數與退貨。",
+    "description": "SHEIN 黑色星期五何時開始、何時結束？本文整理了 2023 至 2025 年的活動時程，以及優惠券、點數與退貨。",
+    "metaDescription": "SHEIN 黑色星期五 2026：2023 至 2025 年時程、「最高 90%」、優惠券、點數與退貨。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
     "draft": false,
@@ -61956,22 +61202,18 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
-      "自 2026 年 5 月 13 日起，US$ 50 以下的訂單不需繳納進口稅",
       "過去三年，優惠都在黑色星期五之前開始，並在之後持續",
-      "國內出貨的商品不需繳納進口稅",
       "20 天內可退貨，每筆訂單的第一次退貨免費"
     ],
     "cons": [
       "「最高 90%」只適用於部分商品，不是整個購物車",
-      "所有國際訂單仍須繳納 17% 至 20% 的 ICMS",
-      "超過 US$ 50，進口稅會恢復：60%，再從稅額中扣掉 US$ 30",
-      "每筆訂單只能使用一張 SHEIN 優惠券，已繳的進口稅退貨時也不會退還"
+      "每筆訂單只能使用一張 SHEIN 優惠券，部分退貨時優惠券不會退回"
     ],
     "contentSections": [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 還沒有公布 2026 年的黑色星期五，這一天是 11 月 27 日。從往年來看，優惠會隨 11.11 提前開始，一路持續到月底。US$ 50 以下的國際訂單沒有進口稅，只有 ICMS。下面有計算方式、優惠券，以及 SHEIN 巴西站的推薦碼 4CW5Y。"
+          "SHEIN 還沒有公布 2026 年的黑色星期五，這一天是 11 月 27 日。從往年來看，優惠會隨 11.11 提前開始，一路持續到月底。下面有時程、優惠券、點數，以及代碼 4CW5Y。"
         ]
       },
       {
@@ -62029,56 +61271,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "黑色星期五的稅金：2026 年有什麼改變",
-        "paragraphs": [
-          "SHEIN 有參加 Remessa Conforme（巴西的進口申報制度），所以稅金會跟訂單一起顯示在結帳頁面。一般來說收貨時不會再額外收費，但巴西聯邦稅務局可能重新評估包裹的價值，應繳的稅金也會隨之改變。2026 年 5 月 13 日，US$ 50 以下購物的進口稅降為零。第 15.502/2026 號法律確認，政府可以對這個區間繼續維持零稅率。",
-          "計算以每筆訂單為單位，採用商品金額加運費，且已扣除折扣與優惠券。也就是說，黑色星期五的折扣可能讓訂單降到 US$ 50 以下。上限以美元計算：結帳頁面會在付款前顯示你這筆訂單的稅金。"
-        ],
-        "comparisonTable": {
-          "caption": "取自 SHEIN 巴西站的稅金頁面。17% 的 ICMS 適用於大多數州；阿馬帕州為 18%，帕拉州為 19%，阿克里、阿拉戈斯、巴伊亞、塞阿拉、帕拉伊巴、皮奧伊、北大河、羅賴馬與塞爾希培為 20%。",
-          "headers": [
-            "訂單（商品＋運費）",
-            "進口稅",
-            "ICMS",
-            "SHEIN 的例子（不含補貼）"
-          ],
-          "rows": [
-            [
-              "US$ 50 以下",
-              "0%",
-              "17% 至 20%，依州而定",
-              "US$ 50 在 ICMS 為 17% 時變成 US$ 60.24"
-            ],
-            [
-              "超過 US$ 50",
-              "60%，再從稅額中扣掉 US$ 30",
-              "17% 至 20%，進口稅的部分也要計算",
-              "US$ 100 在 ICMS 為 17% 時變成 US$ 156.63"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "SHEIN 表示，仍會負擔一部分 ICMS，但僅限商品金額。這項補貼的多寡因客戶而異，標準店家並未公開，而且不包含進口稅部分所產生的 ICMS。",
-          "已在巴西境內的**國內出貨**商品不需繳納進口稅。另外，訂單寄出之後再退貨，已繳的進口稅不會退還。"
-        ]
-      },
-      {
-        "heading": "國內配送還是國際配送？",
-        "paragraphs": [
-          "在同一次搜尋裡，SHEIN 會把海外商品和巴西賣家的商品（國內出貨）混在一起：這個差別會影響最終價格與折扣規則。"
-        ],
-        "bullets": [
-          "**國內出貨：** 不需繳納進口稅。每位賣家的運費、時效與條件各不相同，而且 SHEIN 點數不能用於這些商品。",
-          "**國際出貨：** 會經過海關，稅金在結帳時支付。SHEIN 在寄出前需要 3 到 5 天處理訂單，而且訂購人的姓名必須與 CPF（巴西的納稅人編號）相符。",
-          "**時效：** 付款前，訂單頁面會顯示送達時間與運費。訂單可能分成多個包裹送達。",
-          "**延誤：** SHEIN 提供免費的「準時送達」服務，如果訂單沒在預計日期前送到，會給你 200 SHEIN 點數，或 10 雷亞爾的錢包額度。"
-        ]
-      },
-      {
         "heading": "優惠券、點數與 4CW5Y",
         "paragraphs": [
-          "依照 SHEIN 的優惠券政策，每筆訂單可使用一張平台優惠券。如果購物車裡有巴西本地賣家的商品，還可以再使用該賣家的店鋪優惠券：最多兩張，每種類型一張。每張優惠券都有使用期限，沒有及時使用就會失效。",
-          "SHEIN 點數每 100 點折抵 US$ 1，最多可折抵商品金額的 30%，不含運費與稅金。巴西本地賣家的商品不能使用點數。",
+          "依照 SHEIN 的優惠券政策，每筆訂單可使用一張平台優惠券。每張優惠券都有使用期限，沒有及時使用就會失效。",
+          "SHEIN 點數每 100 點折抵 US$ 1，最多可折抵商品金額的 30%，不含運費與稅金。",
           "4CW5Y 不是優惠券，而是 SHEIN 巴西站的 Cecília 推薦碼。請在 SHEIN App 中搜尋 4CW5Y，並查看你的帳號顯示的條件。SHEIN 的活動隨時都在變：下單前，請先到本站的商店頁面查看目前的活動。"
         ],
         "image": {
@@ -62100,13 +61296,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "黑色星期五怎麼付款",
-        "paragraphs": [
-          "SHEIN 接受 Pix、巴西信用卡（最多 6 期）、boleto（銀行繳款單）、PayPal 與 Pagaleve。boleto 最多需要 3 天才會入帳，這段時間裡商品可能售完：黑色星期五期間，建議選擇信用卡或 PayPal。",
-          "如果需要退款，Pix 最快：SHEIN 會在 24 小時內處理，銀行再花 1 到 3 個工作天。信用卡的話，銀行需要 3 到 8 個工作天，有時長達 30 天。"
-        ]
-      },
-      {
         "heading": "黑色星期五之後的換貨與退貨",
         "image": {
           "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
@@ -62118,7 +61307,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**期限：** 收貨後 20 天內，即使只是不喜歡也可以退。",
           "**只能 7 天內退的商品：** 連身衣、泳裝、內衣、耳環與穿孔飾品、寵物用品，以及已拆封的化妝品、派對用品與手作用品。這些商品只能在自送達日起算的 7 天猶豫期內退貨。",
-          "**退貨運費：** 每筆訂單的第一次退貨免費，可透過巴西郵政（Correios）、Jadlog 或 Total Express 寄回。從第二次起，每次退貨 SHEIN 會從退款中扣除 45 雷亞爾。",
           "**優惠券：** 部分退貨時，優惠券視為已使用，不會退回；如果訂單低於最低消費，差額會從退款中扣除。",
           "**稅金：** 訂單寄出之後，已繳的進口稅不會退還。"
         ]
@@ -62126,9 +61314,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "付款前要確認什麼",
         "bullets": [
-          "商品是國內出貨還是國際出貨。",
-          "國際訂單含運費、扣除折扣後，是否在 US$ 50 以下。",
-          "訂單摘要裡的 ICMS 是多少。",
           "優惠券是否已套用，點數是否已折抵。",
           "如果是買來當聖誕禮物，要看送達時間。",
           "商品是否屬於只能 7 天內退貨的類別。"
@@ -62140,10 +61325,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 2026 年的黑色星期五何時開始？SHEIN 還沒有公布。2024 年，優惠隨 11.11 在 10 月底開始；2025 年，11 月初就已經上線。2026 年的黑色星期五是 11 月的最後一個星期五。",
           "SHEIN 的黑色星期五持續到什麼時候？2024 年與 2025 年都持續到 11 月底。2023 年持續到黑色星期五之後的那個週六。",
           "SHEIN 的 11.11 是什麼？是 11 月 11 日的光棍節促銷。SHEIN 把 11.11 和黑色星期五合併成同一檔活動，分階段打折，直到月底。",
-          "黑色星期五在 SHEIN 購物要繳稅嗎？所有國際訂單都要繳 ICMS，依州而定為 17% 至 20%。進口稅方面，US$ 50 以下的訂單為零，超過則是 60%，再從稅額中扣掉 US$ 30。",
-          "SHEIN 的零稅率適用於所有購物嗎？適用於含商品金額與運費、扣除折扣後在 US$ 50 以下的國際訂單。超過這個金額，進口稅就會恢復。",
-          "國內出貨的商品要繳進口稅嗎？不用。國內出貨的商品已經在巴西境內，不需繳納進口稅。",
-          "在 SHEIN 可以同時使用多張優惠券嗎？每筆訂單只能使用一張 SHEIN 優惠券。如果購物車裡有巴西本地賣家的商品，可以再疊加該賣家的店鋪優惠券。",
+          "在 SHEIN 可以同時使用多張優惠券嗎？每筆訂單只能使用一張 SHEIN 優惠券。",
           "4CW5Y 是折扣優惠券嗎？不是。它是 SHEIN 巴西站的 Cecília 推薦碼：你在 SHEIN App 裡搜尋這個碼，就能看到適用於你帳號的條件。",
           "SHEIN 黑色星期五有免運費嗎？免運費會隨活動階段改變：付款前，請在購物車裡確認你這筆訂單的運費。",
           "黑色星期五買的東西，多久內可以退貨？收貨後 20 天內。內衣、泳裝、連身衣、耳環等部分商品只能在 7 天內退貨。"
@@ -62158,7 +61340,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "規則取自 SHEIN 巴西站官方頁面與第 15.502/2026 號法律。我們可能會從購買中獲得佣金。",
+    "editorialNote": "規則取自 SHEIN 官方頁面。我們可能會從購買中獲得佣金。",
     "relatedArticles": [
       {
         "slug": "yesstyle-black-friday-zh-hant",
@@ -62171,8 +61353,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-zh-hans",
     "locale": "zh-hans",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及 US$ 50 以内免进口税",
-    "seoTitle": "SHEIN 黑色星期五 2026：日期、税金与优惠券",
+    "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及优惠券怎么用",
+    "seoTitle": "SHEIN 黑色星期五 2026：日期、优惠券与积分",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -62183,8 +61365,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 黑色星期五何时开始、何时结束？本文整理了 2023 至 2025 年的活动日程，US$ 50 以内订单进口税归零带来的变化，本地发货与国际发货的区别，以及优惠券、积分、付款和退货。",
-    "metaDescription": "SHEIN 黑色星期五 2026：2023 至 2025 年日程、US$ 50 以内进口税为零与仍要缴纳的 ICMS、本地发货、优惠券、积分与退货。",
+    "description": "SHEIN 黑色星期五何时开始、何时结束？本文整理了 2023 至 2025 年的活动日程，以及优惠券、积分和退货。",
+    "metaDescription": "SHEIN 黑色星期五 2026：2023 至 2025 年日程、“最高 90%”、优惠券、积分与退货。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
     "draft": false,
@@ -62195,22 +61377,18 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
-      "自 2026 年 5 月 13 日起，US$ 50 以内的订单不需缴纳进口税",
       "过去三年，优惠都在黑色星期五之前开始，并在之后继续",
-      "本地发货的商品不需缴纳进口税",
       "20 天内可退货，每笔订单的第一次退货免费"
     ],
     "cons": [
       "“最高 90%”只适用于部分商品，不是整个购物车",
-      "所有国际订单仍要缴纳 17% 至 20% 的 ICMS",
-      "超过 US$ 50，进口税会恢复：60%，再从税额中减去 US$ 30",
-      "每笔订单只能用一张 SHEIN 优惠券，已缴的进口税退货时也不会退还"
+      "每笔订单只能用一张 SHEIN 优惠券，部分退货时优惠券不会退回"
     ],
     "contentSections": [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 还没有公布 2026 年的黑色星期五，这一天是 11 月 27 日。从往年来看，优惠会随 11.11 提前开始，一直持续到月底。US$ 50 以内的国际订单没有进口税，只有 ICMS。下面有计算方法、优惠券，以及 SHEIN 巴西站的推荐码 4CW5Y。"
+          "SHEIN 还没有公布 2026 年的黑色星期五，这一天是 11 月 27 日。从往年来看，优惠会随 11.11 提前开始，一直持续到月底。下面有日程、优惠券、积分，以及代码 4CW5Y。"
         ]
       },
       {
@@ -62268,56 +61446,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "黑色星期五的税金：2026 年有什么变化",
-        "paragraphs": [
-          "SHEIN 参加了 Remessa Conforme（巴西的进口申报制度），所以税金会随订单一起显示在结账页面。一般来说收货时不会再额外收费，但巴西联邦税务局可能重新评估包裹的价值，应缴的税金也会随之改变。2026 年 5 月 13 日，US$ 50 以内购物的进口税降为零。第 15.502/2026 号法律确认，政府可以对这一区间继续维持零税率。",
-          "计算以每笔订单为单位，使用商品金额加运费，且已扣除折扣和优惠券。也就是说，黑色星期五的折扣可能让订单降到 US$ 50 以下。上限以美元计算：结账页面会在付款前显示你这笔订单的税金。"
-        ],
-        "comparisonTable": {
-          "caption": "来自 SHEIN 巴西站的税金页面。17% 的 ICMS 适用于大多数州；阿马帕州为 18%，帕拉州为 19%，阿克里、阿拉戈斯、巴伊亚、塞阿拉、帕拉伊巴、皮奥伊、北里奥格兰德、罗赖马和塞尔希培为 20%。",
-          "headers": [
-            "订单（商品＋运费）",
-            "进口税",
-            "ICMS",
-            "SHEIN 的例子（不含补贴）"
-          ],
-          "rows": [
-            [
-              "US$ 50 以内",
-              "0%",
-              "17% 至 20%，视州而定",
-              "US$ 50 在 ICMS 为 17% 时变成 US$ 60.24"
-            ],
-            [
-              "超过 US$ 50",
-              "60%，再从税额中减去 US$ 30",
-              "17% 至 20%，进口税部分也要计算",
-              "US$ 100 在 ICMS 为 17% 时变成 US$ 156.63"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "SHEIN 表示，仍会承担一部分 ICMS，但只针对商品金额。这项补贴的大小因客户而异，标准店家没有公开，而且不包括进口税部分所产生的 ICMS。",
-          "已在巴西境内的**本地发货**商品不需缴纳进口税。另外，订单发出之后再退货，已缴的进口税不会退还。"
-        ]
-      },
-      {
-        "heading": "国内配送还是国际配送？",
-        "paragraphs": [
-          "同一次搜索里，SHEIN 会把境外商品和巴西卖家的商品（本地发货）混在一起：这个区别会影响最终价格和折扣规则。"
-        ],
-        "bullets": [
-          "**本地发货：** 不需缴纳进口税。每位卖家的运费、时效与条件各不相同，而且 SHEIN 积分不能用于这些商品。",
-          "**国际发货：** 会经过海关，税金在结账时支付。SHEIN 在寄出前需要 3 到 5 天处理订单，而且订单上的姓名必须与 CPF（巴西的纳税人编号）相符。",
-          "**时效：** 付款前，订单页面会显示送达时间和运费。订单可能分成多个包裹送到。",
-          "**延误：** SHEIN 有一项免费的“准时送达”服务，如果订单没在预计日期前送到，会给你 200 SHEIN 积分，或 10 雷亚尔的钱包额度。"
-        ]
-      },
-      {
         "heading": "优惠券、积分与 4CW5Y",
         "paragraphs": [
-          "按照 SHEIN 的优惠券政策，每笔订单可用一张平台优惠券。如果购物车里有巴西本地卖家的商品，还可以再用该卖家的店铺优惠券：最多两张，每种类型一张。每张优惠券都有有效期，没有及时使用就会失效。",
-          "SHEIN 积分每 100 分抵 US$ 1，最多可抵商品金额的 30%，不含运费和税金。巴西本地卖家的商品不能使用积分。",
+          "按照 SHEIN 的优惠券政策，每笔订单可用一张平台优惠券。每张优惠券都有有效期，没有及时使用就会失效。",
+          "SHEIN 积分每 100 分抵 US$ 1，最多可抵商品金额的 30%，不含运费和税金。",
           "4CW5Y 不是优惠券，而是 SHEIN 巴西站的 Cecília 推荐码。请在 SHEIN App 中搜索 4CW5Y，并查看你的账户显示的条件。SHEIN 的活动随时都在变：下单前，请先到本站的店铺页面查看目前的活动。"
         ],
         "image": {
@@ -62339,13 +61471,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "黑色星期五怎么付款",
-        "paragraphs": [
-          "SHEIN 接受 Pix、巴西信用卡（最多 6 期）、boleto（银行付款单）、PayPal 和 Pagaleve。boleto 最多需要 3 天才能到账，这段时间里商品可能售罄：黑色星期五期间，建议选择信用卡或 PayPal。",
-          "如果需要退款，Pix 最快：SHEIN 在 24 小时内处理，银行再用 1 到 3 个工作日。信用卡的话，银行需要 3 到 8 个工作日，有时长达 30 天。"
-        ]
-      },
-      {
         "heading": "黑色星期五之后的换货与退货",
         "image": {
           "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
@@ -62357,7 +61482,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**期限：** 收货后 20 天内，即使只是不喜欢也可以退。",
           "**只能 7 天内退的商品：** 连体衣、泳装、内衣、耳环和穿孔饰品、宠物用品，以及已拆封的化妆品、派对用品和手工艺用品。这些商品只能在自送达日起算的 7 天反悔期内退货。",
-          "**退货运费：** 每笔订单的第一次退货免费，可通过巴西邮政（Correios）、Jadlog 或 Total Express 寄回。从第二次起，每次退货 SHEIN 会从退款中扣除 45 雷亚尔。",
           "**优惠券：** 部分退货时，优惠券视为已使用，不会退回；如果订单低于最低消费，差额会从退款中扣除。",
           "**税金：** 订单发出之后，已缴的进口税不会退还。"
         ]
@@ -62365,9 +61489,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "付款前要确认什么",
         "bullets": [
-          "商品是本地发货还是国际发货。",
-          "国际订单含运费、扣除折扣后，是否在 US$ 50 以内。",
-          "订单摘要里的 ICMS 是多少。",
           "优惠券是否已生效，积分是否已抵扣。",
           "如果是买来当圣诞礼物，要看送达时间。",
           "商品是否属于只能 7 天内退货的类别。"
@@ -62379,10 +61500,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 2026 年的黑色星期五何时开始？SHEIN 还没有公布。2024 年，优惠随 11.11 在 10 月底开始；2025 年，11 月初就已经上线。2026 年的黑色星期五是 11 月的最后一个星期五。",
           "SHEIN 的黑色星期五持续到什么时候？2024 年和 2025 年都持续到 11 月底。2023 年持续到黑色星期五之后的那个周六。",
           "SHEIN 的 11.11 是什么？是 11 月 11 日的光棍节促销。SHEIN 把 11.11 和黑色星期五合并成一场活动，分阶段打折，直到月底。",
-          "黑色星期五在 SHEIN 购物要缴税吗？所有国际订单都要缴 ICMS，视州而定为 17% 至 20%。进口税方面，US$ 50 以内的订单为零，超过则是 60%，再从税额中减去 US$ 30。",
-          "SHEIN 的零税率适用于所有购物吗？适用于含商品金额和运费、扣除折扣后在 US$ 50 以内的国际订单。超过这个金额，进口税就会恢复。",
-          "本地发货的商品要缴进口税吗？不用。本地发货的商品已经在巴西境内，不需缴纳进口税。",
-          "在 SHEIN 可以同时用多张优惠券吗？每笔订单只能用一张 SHEIN 优惠券。如果购物车里有巴西本地卖家的商品，可以再叠加该卖家的店铺优惠券。",
+          "在 SHEIN 可以同时用多张优惠券吗？每笔订单只能用一张 SHEIN 优惠券。",
           "4CW5Y 是折扣优惠券吗？不是。它是 SHEIN 巴西站的 Cecília 推荐码：你在 SHEIN App 里搜索这个码，就能看到适用于你账户的条件。",
           "SHEIN 黑色星期五有免运费吗？免运费会随活动阶段变化：付款前，请在购物车里确认你这笔订单的运费。",
           "黑色星期五买的东西，多久内可以退货？收货后 20 天内。内衣、泳装、连体衣、耳环等部分商品只能在 7 天内退货。"
@@ -62397,7 +61515,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "规则来自 SHEIN 巴西站官方页面与第 15.502/2026 号法律。我们可能会从购买中获得佣金。",
+    "editorialNote": "规则来自 SHEIN 官方页面。我们可能会从购买中获得佣金。",
     "relatedArticles": [
       {
         "slug": "yesstyle-black-friday-zh-hans",

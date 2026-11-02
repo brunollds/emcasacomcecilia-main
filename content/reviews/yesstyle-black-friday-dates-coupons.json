@@ -37,7 +37,7 @@
     "The 2026 dates are not out yet: for now, the calendar is an estimate based on past years",
     "The Black Friday tiered coupon is the same as the rest of the year",
     "Coupons are for members only, one per order, and do not discount shipping",
-    "International purchase: delivery takes longer than from a store in Brazil"
+    "International purchase: delivery takes longer than from a local store"
   ],
   "contentSections": [
     {
@@ -78,7 +78,7 @@
       },
       "postParagraphs": [
         "In 2026, Black Friday falls on November 27 and Cyber Monday on November 30. If YesStyle repeats the pattern, the Black Friday name should show up on the coupons in early November, and the 15% days with no minimum should land around those two dates. This is an estimate based on past years: the store can change everything, and this guide is updated when the 2026 pages come out.",
-        "Coupons switch at a fixed time in GMT. In 2025, the tiered coupons switched at 2:00 GMT, which is 11 p.m. the day before in Brasília, and the 15% with no minimum started at 8:00 GMT, 5 a.m. in Brasília."
+        "Coupons switch at a fixed time in GMT. In 2025, the tiered coupons switched at 2:00 GMT, and the 15% with no minimum started at 8:00 GMT."
       ]
     },
     {
@@ -181,13 +181,13 @@
       "heading": "After Black Friday: Christmas",
       "paragraphs": [
         "In 2024, the biggest end-of-year coupon was not the Black Friday one: in Christmas week, YesStyle gave 18% with no minimum on everything. In 2025, the coupons open to all members stayed at 15% until the end of the year.",
-        "For Christmas gifts, the Black Friday purchase is the safest. An international order takes longer than one from a store in Brazil, and the estimated delivery time appears at checkout before you pay."
+        "For Christmas gifts, the Black Friday purchase is the safest. An international order takes longer than one from a local store, and the estimated delivery time appears at checkout before you pay."
       ]
     },
     {
-      "heading": "Delivery to Brazil and taxes",
+      "heading": "Delivery and taxes",
       "paragraphs": [
-        "Shipping and delivery time appear at checkout, and the coupon does not discount shipping. If the package is taxed on arrival, YesStyle refunds the taxes and customs fees on orders under US$ 1,000, as store credit. What the store publishes for Brazil and Portugal, and how to ask for the refund, is in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
+        "Shipping and delivery time appear at checkout, and the coupon does not discount shipping. If the package is taxed on arrival, YesStyle refunds the taxes and customs fees on orders under US$ 1,000, as store credit. What the store publishes about delivery and how to ask for the refund is in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -243,7 +243,6 @@
         "Does CECILIA010 work on Black Friday? Yes. It goes in the Reward Code field, and the Black Friday coupon rules say the coupons are valid together with Reward Codes.",
         "Can I use two YesStyle coupons on the same order? No: it is one coupon per order. The Reward Code is a different thing and goes in another checkout field.",
         "Do I need a YesStyle account to use the Black Friday coupon? Yes. The coupons are for members only, and guest checkouts get no discount.",
-        "Does YesStyle deliver to Brazil? The store does not list Brazil in its shipping table, but an order of ours was shipped two days after it was placed. Shipping and delivery time appear at checkout.",
         "Will I pay tax when buying from YesStyle? There may be a charge when the package arrives. On orders under US$ 1,000, YesStyle refunds those taxes as store credit, if you send the receipt within 30 days."
       ]
     }

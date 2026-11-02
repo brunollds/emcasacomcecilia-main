@@ -37,7 +37,7 @@
     "Die Termine für 2026 sind noch nicht veröffentlicht: Der Kalender ist vorerst eine Schätzung nach den Vorjahren",
     "Der Staffelgutschein des Black Friday ist derselbe wie im Rest des Jahres",
     "Die Gutscheine gelten nur für Mitglieder, einer pro Bestellung, und mindern nicht die Versandkosten",
-    "Internationaler Kauf: Die Lieferzeit ist länger als bei einem Shop in Brasilien"
+    "Internationaler Kauf: Die Lieferzeit ist länger als bei einem lokalen Shop"
   ],
   "contentSections": [
     {
@@ -78,7 +78,7 @@
       },
       "postParagraphs": [
         "2026 fällt der Black Friday auf den 27. November und der Cyber Monday auf den 30. November. Wenn YesStyle das Muster wiederholt, dürfte der Name Black Friday Anfang November auf den Gutscheinen erscheinen, und die 15-%-Tage ohne Mindestbestellwert dürften um diese beiden Termine liegen. Das ist eine Schätzung nach den Vorjahren: Der Shop kann alles ändern, und dieser Ratgeber wird aktualisiert, sobald die Seiten für 2026 erscheinen.",
-        "Die Gutscheine wechseln zu einer festen Uhrzeit in GMT. 2025 wechselten die Staffelgutscheine um 2 Uhr GMT, das sind 23 Uhr am Vortag in Brasília, und der 15-%-Gutschein ohne Mindestbestellwert begann um 8 Uhr GMT, 5 Uhr morgens in Brasília."
+        "Die Gutscheine wechseln zu einer festen Uhrzeit in GMT. 2025 wechselten die Staffelgutscheine um 2 Uhr GMT, und der 15-%-Gutschein ohne Mindestbestellwert begann um 8 Uhr GMT."
       ]
     },
     {
@@ -181,13 +181,13 @@
       "heading": "Nach dem Black Friday: Weihnachten",
       "paragraphs": [
         "2024 war der größte Gutschein zum Jahresende nicht der des Black Friday: In der Weihnachtswoche gab YesStyle 18 % ohne Mindestbestellwert auf alles. 2025 blieben die für alle Mitglieder offenen Gutscheine bis zum Jahresende bei 15 %.",
-        "Für Weihnachtsgeschenke ist der Kauf am Black Friday am sichersten. Eine internationale Bestellung dauert länger als eine bei einem Shop in Brasilien, und die geschätzte Lieferzeit erscheint im Checkout, bevor Sie bezahlen."
+        "Für Weihnachtsgeschenke ist der Kauf am Black Friday am sichersten. Eine internationale Bestellung dauert länger als eine bei einem lokalen Shop, und die geschätzte Lieferzeit erscheint im Checkout, bevor Sie bezahlen."
       ]
     },
     {
-      "heading": "Lieferung nach Brasilien und Steuern",
+      "heading": "Lieferung und Steuern",
       "paragraphs": [
-        "Versand und Lieferzeit erscheinen im Checkout, und der Gutschein mindert den Versand nicht. Wird das Paket bei der Ankunft besteuert, erstattet YesStyle die Steuern und Zollgebühren bei Bestellungen unter US$ 1.000 als Guthaben im Shop. Was der Shop für Brasilien und Portugal veröffentlicht und wie man die Erstattung beantragt, steht im [Lieferratgeber zu YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
+        "Versand und Lieferzeit erscheinen im Checkout, und der Gutschein mindert den Versand nicht. Wird das Paket bei der Ankunft besteuert, erstattet YesStyle die Steuern und Zollgebühren bei Bestellungen unter US$ 1.000 als Guthaben im Shop. Was der Shop zur Lieferung veröffentlicht und wie man die Erstattung beantragt, steht im [Lieferratgeber zu YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -243,7 +243,6 @@
         "Gilt der CECILIA010 am Black Friday? Ja. Er kommt in das Feld Reward Code, und die Regeln der Black-Friday-Gutscheine besagen, dass sie zusammen mit Reward Codes gelten.",
         "Kann man zwei YesStyle-Gutscheine in derselben Bestellung nutzen? Nein: Es gilt ein Gutschein pro Bestellung. Der Reward Code ist etwas anderes und kommt in ein anderes Feld des Checkouts.",
         "Brauche ich ein YesStyle-Konto, um den Black-Friday-Gutschein zu nutzen? Ja. Die Gutscheine gelten nur für Mitglieder, und wer als Gast bestellt, bekommt den Rabatt nicht.",
-        "Liefert YesStyle nach Brasilien? Der Shop führt Brasilien nicht in der Versandtabelle, aber eine Bestellung von uns wurde zwei Tage nach der Aufgabe verschickt. Versand und Lieferzeit erscheinen im Checkout.",
         "Zahle ich Steuern, wenn ich bei YesStyle kaufe? Bei der Ankunft des Pakets kann eine Abgabe anfallen. Bei Bestellungen unter US$ 1.000 erstattet YesStyle diese Steuern als Guthaben im Shop, wenn Sie den Beleg innerhalb von 30 Tagen schicken."
       ]
     }

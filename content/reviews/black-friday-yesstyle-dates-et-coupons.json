@@ -37,7 +37,7 @@
     "Les dates de 2026 ne sont pas encore sorties : pour l'instant, le calendrier est une estimation d'après l'historique",
     "Le coupon par palier du Black Friday est le même que le reste de l'année",
     "Les coupons sont réservés aux membres, valables un par commande, et ne réduisent pas les frais de port",
-    "Achat international : le délai de livraison est plus long que celui d'une boutique au Brésil"
+    "Achat international : le délai de livraison est plus long que celui d'une boutique locale"
   ],
   "contentSections": [
     {
@@ -78,7 +78,7 @@
       },
       "postParagraphs": [
         "En 2026, le Black Friday tombe le 27 novembre et le Cyber Monday le 30 novembre. Si YesStyle reproduit le schéma, le nom Black Friday devrait apparaître sur les coupons début novembre, et les jours à 15 % sans minimum devraient se situer autour de ces deux dates. C'est une estimation d'après l'historique : la boutique peut tout changer, et ce guide est mis à jour quand les pages de 2026 sortiront.",
-        "Les coupons changent à une heure fixe en GMT. En 2025, les coupons par palier ont changé à 2 h GMT, soit 23 h la veille à Brasília, et celui de 15 % sans minimum a commencé à 8 h GMT, 5 h du matin à Brasília."
+        "Les coupons changent à une heure fixe en GMT. En 2025, les coupons par palier ont changé à 2 h GMT, et celui de 15 % sans minimum a commencé à 8 h GMT."
       ]
     },
     {
@@ -181,13 +181,13 @@
       "heading": "Après le Black Friday : Noël",
       "paragraphs": [
         "En 2024, le plus gros coupon de fin d'année n'a pas été celui du Black Friday : la semaine de Noël, YesStyle a offert 18 % sans minimum sur tout. En 2025, les coupons ouverts à tous les membres sont restés à 15 % jusqu'à la fin de l'année.",
-        "Pour un cadeau de Noël, l'achat du Black Friday est le plus sûr. Une commande internationale prend plus de temps que celle d'une boutique au Brésil, et le délai estimé s'affiche à la page de paiement avant de payer."
+        "Pour un cadeau de Noël, l'achat du Black Friday est le plus sûr. Une commande internationale prend plus de temps que celle d'une boutique locale, et le délai estimé s'affiche à la page de paiement avant de payer."
       ]
     },
     {
-      "heading": "Livraison au Brésil et taxes",
+      "heading": "Livraison et taxes",
       "paragraphs": [
-        "Les frais de port et le délai s'affichent à la page de paiement, et le coupon ne réduit pas les frais de port. Si le colis est taxé à l'arrivée, YesStyle rembourse les taxes et les droits de douane sur les commandes de moins de 1 000 US$, sous forme de crédit en boutique. Ce que la boutique publie pour le Brésil et le Portugal, et la façon de demander le remboursement, se trouve dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
+        "Les frais de port et le délai s'affichent à la page de paiement, et le coupon ne réduit pas les frais de port. Si le colis est taxé à l'arrivée, YesStyle rembourse les taxes et les droits de douane sur les commandes de moins de 1 000 US$, sous forme de crédit en boutique. Ce que la boutique publie sur la livraison et la façon de demander le remboursement se trouve dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -243,7 +243,6 @@
         "CECILIA010 est-il valable pendant le Black Friday ? Oui. Il va dans le champ Reward Code, et les règles des coupons du Black Friday indiquent qu'ils sont valables avec les Reward Codes.",
         "Peut-on utiliser deux coupons YesStyle dans la même commande ? Non : c'est un coupon par commande. Le code récompense est autre chose et va dans un autre champ de la page de paiement.",
         "Faut-il un compte YesStyle pour utiliser le coupon du Black Friday ? Oui. Les coupons sont réservés aux membres, et qui commande en invité n'a pas la remise.",
-        "YesStyle livre-t-il au Brésil ? La boutique ne mentionne pas le Brésil dans son tableau des frais de port, mais une de nos commandes a été expédiée deux jours après avoir été passée. Les frais de port et le délai s'affichent à la page de paiement.",
         "Vais-je payer des taxes en achetant chez YesStyle ? Il peut y avoir un prélèvement à l'arrivée du colis. Sur les commandes de moins de 1 000 US$, YesStyle rembourse ces taxes sous forme de crédit en boutique, si vous envoyez le justificatif dans les 30 jours."
       ]
     }

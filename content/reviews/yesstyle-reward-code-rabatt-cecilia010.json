@@ -4,7 +4,7 @@
   "title": "YesStyle CECILIA010: Reward Code nutzen",
   "type": "Ratgeber & Gutscheine",
   "reviewKind": "guia",
-  "description": "Praktische Anleitung zum Influencer-Code CECILIA010 bei YesStyle. Hier sehen Sie, wo Sie ihn im Checkout eingeben (Reward Code), wie Sie ihn mit aktiven Gutscheinen kombinieren, dazu K-Beauty-Tipps und die Importregeln für Brasilien.",
+  "description": "Praktische Anleitung zum Influencer-Code CECILIA010 bei YesStyle. Hier sehen Sie, wo Sie ihn im Checkout eingeben (Reward Code), wie Sie ihn mit aktiven Gutscheinen kombinieren, dazu K-Beauty-Tipps.",
   "metaDescription": "CECILIA010 bei YesStyle nutzen: Feld Reward Code, bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen), laut Checkout mit berechtigten Aktionsgutscheinen kombinierbar.",
   "publishedAt": "22 Jun 2026",
   "publishedAtISO": "2026-06-22",
@@ -20,12 +20,12 @@
     "Kostenloser Versand ab einem Mindestbestellwert, der im Checkout angezeigt wird",
     "Großes Sortiment an K-Beauty, koreanischer Mode und J-Beauty",
     "100 % originale Produkte, autorisierter Händler",
-    "Website mit Navigation und Checkout auf Portugiesisch"
+    "Sprachauswahl oben auf der Website"
   ],
   "cons": [
     "Ersetzt die normalen Gutscheine nicht (funktioniert in einem separaten Feld)",
     "Internationale Bestellungen können Zollgebühren verursachen; prüfen Sie die Erstattungsrichtlinie von YesStyle, bevor Sie kaufen",
-    "Internationaler Einkauf: Die Lieferzeit ist länger als bei einem inländischen Shop",
+    "Internationaler Einkauf: Die Lieferzeit ist länger als bei einem lokalen Shop",
     "Endpreise in Dollar angegeben (abhängig von Wechselkursschwankungen)"
   ],
   "contentSections": [
@@ -86,16 +86,16 @@
     {
       "heading": "1. Öffnen Sie die offizielle YesStyle-Website",
       "paragraphs": [
-        "Gehen Sie auf die offizielle Website von YesStyle (yesstyle.com). Oben auf der Seite können Sie auf Wunsch Portugiesisch als Sprache auswählen, damit Navigation und Produkte leichter zu lesen sind."
+        "Gehen Sie auf die offizielle Website von YesStyle (yesstyle.com). Oben auf der Seite können Sie auf Wunsch die Sprache wechseln, damit Navigation und Produkte leichter zu lesen sind."
       ]
     },
     {
       "heading": "2. Wählen Sie Ihre Produkte und legen Sie sie in den Warenkorb",
       "paragraphs": [
-        "Stöbere durch die Kategorien K-Beauty, Make-up oder koreanische Mode und legen Sie die gewünschten Artikel in den Warenkorb. Der Mindestbestellwert für kostenlosen Versand nach Brasilien wird im Checkout nach der Eingabe der Postleitzahl angezeigt."
+        "Stöbern Sie durch die Kategorien K-Beauty, Make-up oder koreanische Mode und legen Sie die gewünschten Artikel in den Warenkorb. Der Mindestbestellwert für kostenlosen Versand wird im Checkout nach der Eingabe der Lieferadresse angezeigt."
       ],
       "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
-      "imageAlt": "YesStyle-Warenkorb mit Beauty-Produkten, kostenlosem Versand nach Brasilien und Feld zur Codeeingabe.",
+      "imageAlt": "YesStyle-Warenkorb mit Beauty-Produkten, kostenlosem Versand und Feld zur Codeeingabe.",
       "imageCaption": "Prüfen Sie im Warenkorb Produkte, Versand und das Feld, in dem die Codes angewendet werden, bevor Sie die Bestellung abschließt.",
       "imageFit": "contain"
     },
@@ -118,7 +118,7 @@
     {
       "heading": "5. Prüfen Sie die Rabatte und schließen Sie die Bestellung ab",
       "paragraphs": [
-        "Vergewissern Sie sich, dass beide Rabattstufen (Belohnungscode + Gutschein) auf die Zwischensumme der Bestellung angewendet wurden. Tragen Sie Ihre Lieferdaten für Brasilien ein, wählen Sie die Zahlungsart (Karte oder PayPal) und bestätigen Sie den Kauf.",
+        "Vergewissern Sie sich, dass beide Rabattstufen (Belohnungscode + Gutschein) auf die Zwischensumme der Bestellung angewendet wurden. Tragen Sie Ihre Lieferdaten ein, wählen Sie die Zahlungsart (Karte oder PayPal) und bestätigen Sie den Kauf.",
         "Achten Sie darauf, dass CECILIA010 und der aktive Gutschein jeweils im eigenen Feld stehen: Der Belohnungscode im Gutscheinfeld führt zu einer Fehlermeldung."
       ]
     },
@@ -157,32 +157,16 @@
       "heading": "Was ist YesStyle?",
       "paragraphs": [
         "YesStyle (auch Yes Style geschrieben) ist eine der größten und umfassendsten E-Commerce-Plattformen der Welt für koreanische Mode, K-Beauty, J-Beauty (japanische Beauty) und asiatische Produkte im Allgemeinen. Das 2006 gegründete Unternehmen mit Sitz in Hongkong ist zu einer weltweiten Anlaufstelle für alle geworden, die mit Vertrauen und Authentizität in die Welt der koreanischen Beauty und der östlichen Mode eintauchen wollen.",
-        "YesStyle beliefert Kundinnen und Kunden in mehr als 150 Ländern und Regionen, mit einer ins Portugiesische übersetzten Version und Preisumrechnung, damit die Navigation auf dem brasilianischen Markt leichter fällt. Das Sortiment ist riesig: Tausende Produkte koreanischer Hautpflege, Make-up etablierter Marken, konzeptionelle Mode, Accessoires und Wellness-Supplements."
+        "YesStyle beliefert Kundinnen und Kunden in mehr als 150 Ländern und Regionen, mit Sprachauswahl und Preisumrechnung, damit die Navigation leichter fällt. Das Sortiment ist riesig: Tausende Produkte koreanischer Hautpflege, Make-up etablierter Marken, konzeptionelle Mode, Accessoires und Wellness-Supplements."
       ],
       "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-      "imageAlt": "YesStyle-Startseite auf Portugiesisch mit K-Beauty-Aktionsbanner und hervorgehobenen Produkten.",
-      "imageCaption": "YesStyle bündelt Aktionen, K-Beauty-Produkte und eine ins Portugiesische übersetzte Navigation.",
+      "imageAlt": "YesStyle-Startseite mit K-Beauty-Aktionsbanner und hervorgehobenen Produkten.",
+      "imageCaption": "YesStyle bündelt Aktionen, K-Beauty-Produkte und eine übersetzte Navigation.",
       "imageFit": "wide",
       "bullets": [
         "K-Beauty (koreanische Beauty): Glass-Skin-Seren, Essenzen, Toner, Sonnenschutz und Produkte für die berühmte asiatische Pflegeroutine",
         "Koreanische und asiatische Mode: Kleidung, Schuhe, Taschen und Accessoires, inspiriert von den urbanen Trends in Seoul und Tokio",
         "J-Beauty und Wellness: renommierte japanische Marken (wie Hada Labo) und Nahrungsergänzungsmittel"
-      ]
-    },
-    {
-      "heading": "K-Beauty in Brasilien: wonach Brasilianerinnen suchen",
-      "paragraphs": [
-        "K-Beauty (koreanische Beauty) ist in Brasilien zu einem regelrechten Konsumtrend geworden. Was als Nischenneugier von K-Pop- und K-Drama-Fans begann, hat sich zu einem der stärksten Hautpflegetrends auf dem brasilianischen Kosmetikmarkt entwickelt.",
-        "Bei YesStyle zu kaufen ist eine der sichersten Möglichkeiten, originale K-Beauty zu bekommen, denn die Seite kauft direkt bei den Marken ein und hat ein viel größeres Sortiment als die lokalen Händler in Brasilien."
-      ],
-      "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-      "imageAlt": "Bereich „Regionen“ bei YesStyle mit den Kategorien japanische Beauty, chinesische Beauty und südostasiatische Beauty.",
-      "imageCaption": "Neben K-Beauty ordnet YesStyle seine Produkte auch nach Regionen und asiatischen Trends.",
-      "imageFit": "wide",
-      "bullets": [
-        "Glass Skin: intensiv durchfeuchtete, strahlende und ebenmäßige Haut",
-        "Koreanische Routine: Fokus auf Schritte wie Double Cleansing (doppelte Reinigung), feuchtigkeitsspendende Toner und nährende Essenzen",
-        "Bewährte Inhaltsstoffe: Centella asiatica (beruhigend), Snail Mucin (Schneckenschleim zur Regeneration), Propolis und Hyaluronsäure"
       ]
     },
     {
@@ -201,26 +185,14 @@
       ]
     },
     {
-      "heading": "Versand und Lieferung nach Brasilien",
-      "paragraphs": [
-        "YesStyle bietet kostenlosen Versand ab einem Mindestbestellwert, der sich je nach Land unterscheidet. Für Brasilien werden Versandkosten, Mindestbestellwert für kostenlosen Versand und Versandoptionen im Checkout nach der Eingabe der Postleitzahl angezeigt.",
-        "Die Lieferzeit ergibt sich aus der Zeit, bis die Bestellung versandfertig ist, plus der Laufzeit der gewählten Versandart ab Hongkong, und wird im Checkout angezeigt. Der Zoll kann einige Tage dazukommen, und die Dauer hängt von der Region in Brasilien und der Jahreszeit ab."
-      ],
-      "bullets": [
-        "Sendungsverfolgung: Für alle Bestellungen gibt es eine Tracking-Nummer, abrufbar in der E-Mail und im YesStyle-Konto",
-        "Zustellung: erfolgt durch die brasilianische Post (Correios) oder einen Partner-Zusteller",
-        "Zoll: Es ist normal, dass die Bestellung einige Tage im Status „Customs clearance“ bleibt"
-      ]
-    },
-    {
       "heading": "Gebühren und Import: was berechnet werden kann",
       "paragraphs": [
-        "Internationale Käufe können in Brasilien einer Zollprüfung unterliegen und Steuern, Einfuhrabgaben, Bearbeitungsgebühren oder andere Kosten für die Freigabe der Bestellung verursachen. Deshalb sollten Sie vor dem Kauf neben Produkt und Versand auch mögliche Zusatzkosten einkalkulieren.",
+        "Internationale Käufe können einer Zollprüfung unterliegen und Steuern, Einfuhrabgaben, Bearbeitungsgebühren oder andere Kosten für die Freigabe der Bestellung verursachen. Deshalb sollten Sie vor dem Kauf neben Produkt und Versand auch mögliche Zusatzkosten einkalkulieren.",
         "YesStyle gibt an, dass bei Bestellungen unter US$ 1.000 Zollgebühren erstattet werden können, wenn Sie zuerst zahlen, den Beleg aufbewahren und die Erstattung innerhalb von 30 Tagen beantragen. Eine bewilligte Erstattung wird als YesStyle-Guthaben (Store Credit) ausgezahlt.",
         "Lies vor dem Kauf die offizielle Hilfeseite von YesStyle zur Erstattung von Steuern und Zollgebühren, denn Importregeln und Shop-Richtlinien können sich ändern."
       ],
       "bullets": [
-        "Bewahre den Zahlungsbeleg für jede in Brasilien gezahlte Zollgebühr auf",
+        "Bewahren Sie den Zahlungsbeleg für jede gezahlte Zollgebühr auf",
         "Sende den Erstattungsantrag innerhalb der 30-Tage-Frist über den YesStyle-Kundenservice",
         "Die Erstattung erfolgt nicht automatisch: Sie hängt von der Prüfung und den aktuell geltenden Richtlinien von YesStyle ab",
         "Bestellungen ab US$ 1.000 fallen nicht unter diese vom Unternehmen genannte Erstattungsrichtlinie",
@@ -239,7 +211,6 @@
         "Nutzen Sie den Elite Club: Treueprogramm mit gesammelten Punkten: Bronze 5 %, Silver 7 %, Gold 10 %, Platinum 12 %, Diamond 15 %.",
         "Übersieh die „Daily Free“-Produkte nicht: kostenlose Produkte ab einem bestimmten Bestellwert.",
         "Lies die Bewertungen (Reviews): echte Fotos, Kommentare zu Textur, Duft und Ergebnis, Hinweise zum Haltbarkeitsdatum.",
-        "Vergleichen Sie mit dem Preis in Brasilien: Schauen Sie vor dem Kauf bei Beleza na Web, Sephora und K-Beauty-Händlern nach.",
         "Behalte die Jahreszeiten im Blick: Black Friday (November), 11.11 (Single's Day), Weihnachten, Summer Sale (Juni/Juli), Back to School (August/September).",
         "Nutzen Sie immer CECILIA010: Es kostet nichts, bringt bis zu 5 % extra (5 % 1. Bestellung / 2 % Folgebestellungen), wenn es richtig angewendet wird, und unterstützt den Blog."
       ]
@@ -254,19 +225,17 @@
         "Kann ich CECILIA010 mit dem Gutschein der Monatsaktion addieren? Ja! Er kommt ins Feld „Reward Code“, die Gutscheine ins Feld „Coupon Code“. So addieren Sie bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen) zu den berechtigten Aktionsgutscheinen, die im Checkout bestätigt werden.",
         "Hat CECILIA010 ein Ablaufdatum? Er funktioniert, solange das Influencer-Programm von YesStyle aktiv ist und der Code regelmäßig geprüft wird.",
         "Ist der Einkauf bei YesStyle sicher? Ja. Seriöses Unternehmen seit 2006, beliefert mehr als 150 Länder und Regionen, originale Produkte, SSL-Verschlüsselung.",
-        "Wie lange dauert die Lieferung nach Brasilien? Die geschätzte Lieferzeit wird im Checkout nach der Eingabe der Postleitzahl angezeigt. Die Zeit beim Zoll kann zusätzliche Tage bringen.",
         "Muss ich Einfuhrabgaben zahlen? Das kann vorkommen. Wenn Zollgebühren anfallen, prüfen Sie die offizielle Richtlinie von YesStyle: Das Unternehmen nennt die Möglichkeit, Steuern und Zollgebühren für berechtigte Bestellungen unter US$ 1.000 erstattet zu bekommen, gegen Beleg und mit Antrag innerhalb der Frist, in Form von Store Credit.",
         "Wie bezahle ich am besten? Internationale Kreditkarte (Visa, Mastercard, Amex) oder PayPal. Die Umrechnung erfolgt automatisch durch den Zahlungsanbieter.",
         "Sind die Produkte original? Ja. YesStyle ist autorisierter Händler der Marken und kauft direkt bei den Herstellern oder offiziellen Distributoren ein.",
         "Kann ich Produkte zurückgeben? Bei internationalen Käufen ist die Richtlinie eingeschränkt. Defekte oder falsch gelieferte Produkte können zurückgegeben werden. K-Beauty-Produkte (Skincare, Make-up) können aus hygienischen Gründen in der Regel nicht zurückgegeben werden, es sei denn, sie sind versiegelt.",
         "Was ist der Elite Club? Das Treueprogramm von YesStyle. Je mehr Sie ausgeben, desto mehr Punkte sammeln Sie: Bronze 5 %, Silver 7 %, Gold 10 %, Platinum 12 %, Diamond 15 %.",
-        "Gibt es die Website auf Portugiesisch? Ja! Oben auf der Seite können Sie Portugiesisch als Sprache auswählen.",
-        "Gilt der kostenlose Versand für ganz Brasilien? Der Mindestbestellwert für kostenlosen Versand wird im Checkout nach der Eingabe der Postleitzahl angezeigt. Für abgelegene Regionen kann die Lieferzeit länger sein.",
-        "Wie verfolge ich meine YesStyle-Bestellung? Nach der Versandbestätigung schickt YesStyle eine E-Mail mit der internationalen Tracking-Nummer. Sie können den Bestellverlauf auch in Ihrem Konto einsehen. Die Verfolgung funktioniert über Dienste wie 17track oder auf der Website des Zustellers. Die geschätzte Lieferzeit wird im Checkout angezeigt und kann sich beim brasilianischen Zoll verändern.",
-        "Was tun, wenn meine YesStyle-Bestellung beim Zoll festgehalten wird? Wenn die Bestellung bei der Receita Federal festgehalten wird, werden Sie eventuell aufgefordert, die Einfuhrsteuer zu zahlen. YesStyle gibt an, dass sich bei berechtigten Bestellungen unter US$ 1.000 die Erstattung von Steuern und Zollgebühren als Store Credit beantragen lässt, gegen Zahlungsbeleg und mit Antrag beim Kundenservice innerhalb von 30 Tagen.",
-        "Die Kleidung von YesStyle hat asiatische Größen. Wie wählen Sie ich meine? Ja, die meiste Kleidung folgt der asiatischen Größennummerierung, die meist kleiner ausfällt als die brasilianische. Sehen Sie sich immer die Maßtabelle auf der Seite jedes Produkts an (meist in Zentimetern) und vergleichen Sie sie mit Ihren Körpermaßen. Wir empfehlen, ein bis zwei Größen größer als üblich zu bestellen, besonders bei enger geschnittenen Teilen.",
+        "Gibt es die Website in anderen Sprachen? Ja! Oben auf der Seite können Sie die Sprache wechseln.",
+        "Wie verfolge ich meine YesStyle-Bestellung? Nach der Versandbestätigung schickt YesStyle eine E-Mail mit der internationalen Tracking-Nummer. Sie können den Bestellverlauf auch in Ihrem Konto einsehen. Die Verfolgung funktioniert über Dienste wie 17track oder auf der Website des Zustellers. Die geschätzte Lieferzeit wird im Checkout angezeigt und kann sich beim Zoll verändern.",
+        "Was tun, wenn meine YesStyle-Bestellung beim Zoll festgehalten wird? Wenn die Bestellung beim Zoll festgehalten wird, werden Sie eventuell aufgefordert, die Einfuhrsteuer zu zahlen. YesStyle gibt an, dass sich bei berechtigten Bestellungen unter US$ 1.000 die Erstattung von Steuern und Zollgebühren als Store Credit beantragen lässt, gegen Zahlungsbeleg und mit Antrag beim Kundenservice innerhalb von 30 Tagen.",
+        "Die Kleidung von YesStyle hat asiatische Größen. Wie wähle ich meine? Ja, die meiste Kleidung folgt der asiatischen Größennummerierung. Sehen Sie sich immer die Maßtabelle auf der Seite jedes Produkts an (meist in Zentimetern) und vergleichen Sie sie mit Ihren Körpermaßen. Wir empfehlen, ein bis zwei Größen größer als üblich zu bestellen, besonders bei enger geschnittenen Teilen.",
         "Welche K-Beauty-Marken verkaufen sich bei YesStyle am besten? YesStyle ist autorisierter Händler etablierter Marken wie COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul und Haruharu. Die Website ordnet die Produkte in Kategorien wie Essenzen, Toner, Seren und Sonnenschutz, was die Suche nach der koreanischen Skincare-Routine erleichtert.",
-        "Kann ich eine Bestellung bei YesStyle nach der Bestätigung stornieren oder ändern? YesStyle erlaubt es, noch nicht versendete Bestellungen (Status 'Processing') direkt im Bestellverlauf Ihres Kontos zu stornieren. Nach dem Versand ist eine Stornierung nicht mehr möglich, aber Sie können die Annahme verweigern, wenn das Paket in Brasilien ankommt. Änderungen an Adresse oder Produkten sind nur vor dem Versand über den Kundenservice möglich.",
+        "Kann ich eine Bestellung bei YesStyle nach der Bestätigung stornieren oder ändern? YesStyle erlaubt es, noch nicht versendete Bestellungen (Status 'Processing') direkt im Bestellverlauf Ihres Kontos zu stornieren. Nach dem Versand ist eine Stornierung nicht mehr möglich, aber Sie können die Annahme verweigern, wenn das Paket ankommt. Änderungen an Adresse oder Produkten sind nur vor dem Versand über den Kundenservice möglich.",
         "YesStyle-Code für die erste Bestellung: wie nutze ich CECILIA010? Der Code CECILIA010 funktioniert bei jedem Einkauf und sichert bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen), kombinierbar mit berechtigten Aktionsgutscheinen, die im Checkout bestätigt werden.",
         "YesStyle-Influencer-Code: was ist CECILIA010? CECILIA010 ist ein bei YesStyle registrierter Influencer-Belohnungscode. Er gewährt im Checkout bis zu 5 % Extra-Rabatt (5 % auf die erste Bestellung und 2 % auf Folgebestellungen) und lässt sich mit berechtigten Aktionsgutscheinen kombinieren, anders als Codes für die erste Bestellung, die meist nicht kumulierbar sind."
       ]
