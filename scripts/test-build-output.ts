@@ -29,7 +29,7 @@ import {
 } from '../src/lib/couponTranslations';
 import { publishedReviews, recipes, type Review } from '../src/lib/data';
 import { isFaqHeading } from '../src/lib/faq';
-import { getArticleStoreBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, type StoreBannerSlot } from '../src/lib/storeBanners';
+import { getArticleStoreBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, type StoreBanner, type StoreBannerSlot } from '../src/lib/storeBanners';
 import { isInternalLink } from '../src/lib/internalLinks';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
@@ -1712,11 +1712,12 @@ for (const url of articleUrls) {
   // ainda não começou não vem no HTML.
   const bannerStore = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
   const bannerNow = new Date();
+  // Da fila de cada lugar, só a campanha no ar sai no HTML; as outras ficam para o navegador mostrar no prazo delas.
   const banners = Object.fromEntries(
-    Object.entries(bannerStore ? getArticleStoreBanners(bannerStore.slug, review.slug, bannerNow) : {}).filter(([, banner]) =>
-      isStoreBannerLive(banner, bannerNow)
-    )
-  );
+    Object.entries(bannerStore ? getArticleStoreBanners(bannerStore.slug, review.slug, bannerNow) : {})
+      .map(([slot, queue]) => [slot, queue.find((banner) => isStoreBannerLive(banner, bannerNow))])
+      .filter(([, banner]) => banner)
+  ) as Partial<Record<StoreBannerSlot, StoreBanner>>;
   const articleSections = getBodySections(review.contentSections ?? [], inferReviewKind(review));
   const bannerPlaces = placeStoreBanners(
     articleSections.map(({ id }) => id),

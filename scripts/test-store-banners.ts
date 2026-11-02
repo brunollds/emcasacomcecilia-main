@@ -3,7 +3,7 @@ import { getArticleCopy } from '../src/components/review/articleCopy';
 import { getCouponBySlug } from '../src/lib/couponsData';
 import { LOCALE_KEYS } from '../src/lib/i18n/locales';
 import { readdirSync, readFileSync } from 'node:fs';
-import { STORE_BANNERS, getArticleStoreBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, type StoreBanner } from '../src/lib/storeBanners';
+import { STORE_BANNERS, getArticleStoreBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, storeBannersOverlap, type StoreBanner } from '../src/lib/storeBanners';
 
 // O prazo de uma campanha com um "agora" fixo. As 23h do último dia em Brasília já são o dia seguinte em UTC:
 // o banner continua no ar.
@@ -14,8 +14,8 @@ assert.equal(isStoreBannerLive(campaignWindow, new Date('2026-11-30T23:00:00-03:
 assert.equal(isStoreBannerLive(campaignWindow, new Date('2026-12-01T00:00:00-03:00')), false, 'depois do fim');
 assert.equal(isStoreBannerLive({}, new Date('2030-01-01T00:00:00Z')), true, 'sem datas');
 
-// Uma campanha por lugar, só as da loja e só as que não acabaram: a que ainda vai começar entra (o HTML a esconde até
-// o início), e a que leva ao próprio artigo fica de fora dele.
+// A fila de cada lugar, só com as da loja e só as que não acabaram, na ordem do início: a que ainda vai começar entra
+// (o HTML a esconde até o início), e a que leva ao próprio artigo fica de fora dele.
 const sample = (id: string, affiliate: string, slot: StoreBanner['slot'], dates: Pick<StoreBanner, 'startsAt' | 'endsAt'> = {}, href?: string): StoreBanner => ({
   ...STORE_BANNERS[0],
   id,
@@ -30,13 +30,26 @@ const sampleBanners = [
   sample('a-mid-vencida', 'a', 'mid', { endsAt: '2026-11-10T23:59:59-03:00' }),
   sample('b-mid', 'b', 'mid'),
   sample('d-top-amanha', 'd', 'top', { startsAt: '2026-11-16T00:00:00-03:00', endsAt: '2026-11-16T23:59:59-03:00' }, '/reviews/artigo-d'),
+  // Esquenta e Black Friday no mesmo lugar, um depois do outro, fora da ordem do arquivo.
+  sample('e-black-friday', 'e', 'top', { startsAt: '2026-11-27T00:00:00-03:00', endsAt: '2026-11-30T23:59:59-03:00' }),
+  sample('e-esquenta', 'e', 'top', { startsAt: '2026-11-05T00:00:00-03:00', endsAt: '2026-11-26T23:59:59-03:00' }),
 ];
-assert.deepEqual(Object.keys(getArticleStoreBanners('a', 'x', now, sampleBanners)), ['top'], 'campanha vencida ou de outra loja');
-assert.equal(getArticleStoreBanners('b', 'x', now, sampleBanners).mid?.id, 'b-mid');
-assert.deepEqual(getArticleStoreBanners('c', 'x', now, sampleBanners), {}, 'loja sem campanha');
-assert.equal(getArticleStoreBanners('d', 'x', now, sampleBanners).top?.id, 'd-top-amanha', 'campanha que ainda vai começar');
-assert.deepEqual(getArticleStoreBanners('d', 'artigo-d', now, sampleBanners), {}, 'banner no próprio artigo');
+const queueIds = (affiliate: string, slug = 'x') =>
+  Object.fromEntries(Object.entries(getArticleStoreBanners(affiliate, slug, now, sampleBanners)).map(([slot, queue]) => [slot, queue.map(({ id }) => id)]));
+assert.deepEqual(queueIds('a'), { top: ['a-top'] }, 'campanha vencida ou de outra loja');
+assert.deepEqual(queueIds('b'), { mid: ['b-mid'] });
+assert.deepEqual(queueIds('c'), {}, 'loja sem campanha');
+assert.deepEqual(queueIds('d'), { top: ['d-top-amanha'] }, 'campanha que ainda vai começar');
+assert.deepEqual(queueIds('d', 'artigo-d'), {}, 'banner no próprio artigo');
+assert.deepEqual(queueIds('e'), { top: ['e-esquenta', 'e-black-friday'] }, 'fila na ordem do início');
 assert.ok(isArticleBannerHref('/reviews/artigo-d') && !isArticleBannerHref('https://loja.com/reviews/x'));
+
+// Sobreposição no mesmo lugar: uma começa antes de a outra acabar. Sem início, já começou; sem fim, não acaba.
+const day = (d: number, h = '00:00:00') => `2026-11-${String(d).padStart(2, '0')}T${h}-03:00`;
+assert.equal(storeBannersOverlap({ startsAt: day(5), endsAt: day(26, '23:59:59') }, { startsAt: day(27), endsAt: day(30) }), false, 'esquenta e Black Friday');
+assert.equal(storeBannersOverlap({ startsAt: day(5), endsAt: day(27) }, { startsAt: day(27), endsAt: day(30) }), true, 'mesmo instante');
+assert.equal(storeBannersOverlap({}, { startsAt: day(27) }), true, 'campanha sem datas');
+assert.equal(storeBannersOverlap({ endsAt: day(10) }, { startsAt: day(11) }), false, 'sem início, acaba antes');
 
 // O lugar 1 depois da 1ª seção; o 2 antes do FAQ ou, sem FAQ, antes da última, com uma seção inteira entre os dois.
 assert.deepEqual(placeStoreBanners([], -1), {});
@@ -45,7 +58,7 @@ assert.deepEqual(placeStoreBanners(['a', 'b', 'c'], -1), { top: 'a', mid: 'c' })
 assert.deepEqual(placeStoreBanners(['a', 'faq', 'c'], 1), { top: 'a' }, 'FAQ logo depois da 1ª seção');
 assert.deepEqual(placeStoreBanners(['a', 'b'], -1), { top: 'a' }, 'artigo de duas seções');
 
-// Os dados: loja cadastrada, um banner por lugar de cada loja, link de afiliado que vale nos 10 idiomas, datas com
+// Os dados: loja cadastrada, campanhas do mesmo lugar sem sobreposição, link de afiliado que vale nos 10 idiomas, datas com
 // fuso e os textos dos 10 idiomas, sem o código da loja.
 // Uma campanha por arquivo, com o nome igual ao id, e o módulo gerado com todas elas.
 const campaignFiles = readdirSync('content/campanhas').filter((file) => file.endsWith('.json'));
@@ -55,7 +68,6 @@ assert.deepEqual(
   'src/lib/generated/store-banners.ts diferente de content/campanhas/: rode node scripts/content/build-index.mjs'
 );
 const ids = new Set<string>();
-const places = new Set<string>();
 for (const banner of STORE_BANNERS) {
   assert.ok(!ids.has(banner.id), `${banner.id}: id repetido`);
   ids.add(banner.id);
@@ -63,9 +75,10 @@ for (const banner of STORE_BANNERS) {
   assert.ok(banner.source.trim(), `${banner.id}: sem a fonte da campanha`);
   assert.match(banner.verifiedAt, /^\d{4}-\d{2}-\d{2}$/, `${banner.id}: verifiedAt fora do formato AAAA-MM-DD`);
   assert.ok(banner.verifiedAt <= new Date().toISOString().slice(0, 10), `${banner.id}: verifiedAt no futuro`);
-  const place = `${banner.affiliate}/${banner.slot}`;
-  assert.ok(!places.has(place), `${banner.id}: segunda campanha no lugar ${place}`);
-  places.add(place);
+  const clash = STORE_BANNERS.find(
+    (other) => other.id !== banner.id && other.affiliate === banner.affiliate && other.slot === banner.slot && storeBannersOverlap(banner, other)
+  );
+  assert.ok(!clash, `${banner.id}: no ar ao mesmo tempo que ${clash?.id} no lugar ${banner.affiliate}/${banner.slot}`);
 
   const store = getCouponBySlug(banner.affiliate);
   assert.ok(store, `${banner.id}: loja ${banner.affiliate} fora de couponsData.ts`);

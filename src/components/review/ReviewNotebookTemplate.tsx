@@ -6,7 +6,7 @@ import { FOCUS_RING } from '@/components/ui/focusRing';
 import { getCouponBySlug, getStoreCodeKind } from '@/lib/couponsData';
 import { getLocalizedCoupon } from '@/lib/couponTranslations';
 import { isFaqHeading } from '@/lib/faq';
-import { getArticleStoreBanners, isStoreBannerLive, placeStoreBanners } from '@/lib/storeBanners';
+import { getArticleStoreBanners, isStoreBannerLive, placeStoreBanners, type StoreBanner } from '@/lib/storeBanners';
 import { serializeJsonLd } from '@/lib/jsonLd';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
@@ -163,39 +163,31 @@ export function ReviewNotebookTemplate({
   const bodySectionIds = new Set(bodySections.map(({ id }) => id));
   const unanchoredNotes = notes.filter((note) => !note.anchor || (!bodySectionIds.has(note.anchor) && !isLineAnchor(note.anchor)));
 
-  // Os banners de campanha da loja (storeBanners.ts): o `top` depois da 1ª seção do corpo, o `mid` antes do FAQ.
-  // O que ainda não começou vai escondido no HTML e aparece no navegador na hora do início.
+  // Os banners de campanha da loja (content/campanhas/): o `top` depois da 1ª seção do corpo, o `mid` antes do FAQ.
+  // Cada lugar leva a fila das campanhas que não acabaram, cada uma no seu prazo: a que ainda não começou vai
+  // escondida no HTML e aparece no navegador na hora do início.
   const now = new Date();
   const banners = store ? getArticleStoreBanners(store.slug, review.slug, now) : {};
   const faqIndex = bodySections.findIndex(({ heading }) => isFaqHeading(heading));
   const bannerPlaces = placeStoreBanners(bodySections.map(({ id }) => id), faqIndex);
+  const bannerQueue = (queue: StoreBanner[]) =>
+    store &&
+    queue.map((banner) => (
+      <ArticlePromoBanner
+        key={banner.id}
+        banner={banner}
+        locale={couponCopyLocale}
+        storeBrand={store.brand}
+        reviewSlug={review.slug}
+        hiddenInHtml={!isStoreBannerLive(banner, now)}
+      />
+    ));
   const sectionSlots: Record<string, { before?: React.ReactNode; after?: React.ReactNode }> = {};
-  if (store && banners.top && bannerPlaces.top) {
-    sectionSlots[bannerPlaces.top] = {
-      after: (
-        <ArticlePromoBanner
-          banner={banners.top}
-          locale={couponCopyLocale}
-          storeBrand={store.brand}
-          reviewSlug={review.slug}
-          hiddenInHtml={!isStoreBannerLive(banners.top, now)}
-        />
-      ),
-    };
+  if (banners.top && bannerPlaces.top) {
+    sectionSlots[bannerPlaces.top] = { after: bannerQueue(banners.top) };
   }
-  if (store && banners.mid && bannerPlaces.mid) {
-    sectionSlots[bannerPlaces.mid] = {
-      ...sectionSlots[bannerPlaces.mid],
-      before: (
-        <ArticlePromoBanner
-          banner={banners.mid}
-          locale={couponCopyLocale}
-          storeBrand={store.brand}
-          reviewSlug={review.slug}
-          hiddenInHtml={!isStoreBannerLive(banners.mid, now)}
-        />
-      ),
-    };
+  if (banners.mid && bannerPlaces.mid) {
+    sectionSlots[bannerPlaces.mid] = { ...sectionSlots[bannerPlaces.mid], before: bannerQueue(banners.mid) };
   }
 
   // O quadro "Leve se / Passe se" (só guia e comparativo; o validate:content barra no review de produto): logo antes

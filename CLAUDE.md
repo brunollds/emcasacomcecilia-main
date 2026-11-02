@@ -303,7 +303,10 @@ vídeo, primeiras impressões e uso noturno.
   (`ArticlePromoBanner`, de `src/components/review/article/`) fala só da campanha: nunca cita o código da loja nem diz
   que soma com ele. O selo vem de `adLabel` (`articleCopy.ts`). Datas com `-03:00`; o artigo é gerado no build, então
   a campanha que começa ou vence entre dois deploys aparece ou some no navegador (`CampaignWindow`): a que ainda não
-  começou vai no payload e fica fora do HTML. O `test:store-banners` avisa para apagar o arquivo da vencida. Campanha
+  começou vai no payload e fica fora do HTML. Cada lugar leva uma fila (`getArticleStoreBanners`): campanhas da mesma
+  loja e do mesmo lugar podem esperar uma depois da outra (o esquenta e a Black Friday), desde que os prazos não se
+  sobreponham (`storeBannersOverlap`), e entram no ar no deploy antes do início. O `test:store-banners` barra a
+  sobreposição e avisa para apagar o arquivo da vencida. Campanha
   que só vale com o código da loja leva ao nosso artigo sobre ela (`href` `/reviews/<slug>` da mesma loja, com
   `endsAt`), link interno sem sponsored e fora do próprio artigo. O `test:build-output` confere o lugar, o link, o
   `rel` e os textos em todo artigo.

@@ -40,21 +40,32 @@ export function isArticleBannerHref(href: string): boolean {
   return href.startsWith('/reviews/');
 }
 
-// Os banners que o artigo monta, um por lugar: os da loja que ainda não acabaram, menos o que leva ao próprio artigo.
-// O artigo é gerado no build, então a campanha que ainda não começou entra escondida no HTML e aparece no navegador
-// na hora do início (ArticlePromoBanner).
+// Os banners que o artigo monta, em fila por lugar: os da loja que ainda não acabaram, menos o que leva ao próprio
+// artigo, na ordem do início. As campanhas de um lugar não se sobrepõem (o test:store-banners confere), então no máximo
+// uma está no ar. O artigo é gerado no build: a que ainda não começou entra escondida no HTML e aparece no navegador
+// na hora do início (ArticlePromoBanner), e a do ar some no fim, sem esperar o próximo deploy.
 export function getArticleStoreBanners(
   affiliate: string,
   reviewSlug: string,
   now: Date,
   banners: StoreBanner[] = STORE_BANNERS
-): Partial<Record<StoreBannerSlot, StoreBanner>> {
-  return Object.fromEntries(
-    banners
-      .filter((banner) => banner.affiliate === affiliate && isStoreBannerLive({ endsAt: banner.endsAt }, now))
-      .filter((banner) => banner.href !== `/reviews/${reviewSlug}`)
-      .map((banner) => [banner.slot, banner])
-  );
+): Partial<Record<StoreBannerSlot, StoreBanner[]>> {
+  const queues: Partial<Record<StoreBannerSlot, StoreBanner[]>> = {};
+  const startOf = (banner: StoreBanner) => (banner.startsAt ? Date.parse(banner.startsAt) : -Infinity);
+  banners
+    .filter((banner) => banner.affiliate === affiliate && isStoreBannerLive({ endsAt: banner.endsAt }, now))
+    .filter((banner) => banner.href !== `/reviews/${reviewSlug}`)
+    .sort((a, b) => startOf(a) - startOf(b))
+    .forEach((banner) => (queues[banner.slot] ??= []).push(banner));
+  return queues;
+}
+
+// Duas campanhas do mesmo lugar se sobrepõem quando uma começa antes de a outra acabar. Sem `startsAt`, a campanha
+// já começou; sem `endsAt`, não acaba.
+export function storeBannersOverlap(a: Pick<StoreBanner, 'startsAt' | 'endsAt'>, b: Pick<StoreBanner, 'startsAt' | 'endsAt'>): boolean {
+  const start = (banner: typeof a) => (banner.startsAt ? Date.parse(banner.startsAt) : -Infinity);
+  const end = (banner: typeof a) => (banner.endsAt ? Date.parse(banner.endsAt) : Infinity);
+  return start(a) <= end(b) && start(b) <= end(a);
 }
 
 // A seção em que cada lugar cai, pelos ids das seções do corpo na ordem da página: o `top` vai depois da primeira;
