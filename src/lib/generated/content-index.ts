@@ -30008,7 +30008,8 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Affiliate links: we may earn a commission from the links and from the Reward Code CECILIA010.",
     "locale": "en",
     "translationKey": "yesstyle-reward-code",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 22,
@@ -30153,7 +30154,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cómo encontrar cupones activos de YesStyle",
         "paragraphs": [
-          "YesStyle suele ofrecer cupones que cambian con frecuencia. Los tipos más comunes son: cupón de bienvenida, cupón de regreso, cupón de temporada, cupón de categoría, cupón de envío gratis y campañas relámpago.",
+          "YesStyle suele ofrecer cupones que cambian con frecuencia. Los tipos más comunes son: cupón de bienvenida, cupón de recompra, cupón de temporada, cupón de categoría, cupón de envío gratis y campañas relámpago.",
           "Como estos códigos cambian a menudo, lo más seguro es consultar la página de promociones de la propia YesStyle antes de finalizar la compra. Después, aplica el cupón activo en el campo \"Coupon Code\" y mantén CECILIA010 en el campo \"Reward Code\"."
         ],
         "bullets": [
@@ -30190,14 +30191,14 @@ export const reviewsData: unknown[] = [
           "K-Beauty y cuidado de la piel coreano: COSRX (Snail Mucin Essence, Low pH Good Morning Gel Cleanser), Beauty of Joseon (Dynasty Cream, Relief Sun), Anua (Heartleaf 77% Soothing Toner), Laneige (Water Sleeping Mask, Lip Sleeping Mask), Isntree (Hyaluronic Acid Watery Sun Gel), TIRTIR (Mask Fit Red Cushion), medicube (Zero Pore Pads), AXIS-Y (Dark Spot Correcting Glow Serum), Dr.Melaxin, House of Hur.",
           "Maquillaje coreano: ETUDE (sombras, coloretes), CLIO (bases, delineadores), Peripera (tintes, máscaras de pestañas), Judydoll, fwee, nuse.",
           "Moda coreana: estilo minimalista y elegante, colores neutros, cortes oversize, prendas versátiles. Ropa casual, vestidos, blazers, pantalones wide-leg, zapatos, bolsos.",
-          "J-Beauty (belleza japonesa): Hada Labo, DHC, Kose, Shiseido. Foco en la prevención, el anti-aging y la hidratación en capas.",
-          "Chinese Beauty (C-Beauty): marcas chinesas en ascenso, precios asequibles, fórmulas con ingredientes tradicionales chinos.",
+          "J-Beauty (belleza japonesa): Hada Labo, DHC, Kose, Shiseido. El foco está en la prevención, el anti-aging y la hidratación por capas.",
+          "Chinese Beauty (C-Beauty): marcas chinas en ascenso, precios asequibles, fórmulas con ingredientes tradicionales chinos.",
           "Suplementos y Health & Wellness: colágeno, vitaminas, proteínas, productos para el cabello y las uñas.",
           "Accesorios y lifestyle: pasadores, diademas, bolsos, calcetines estampados, fundas de móvil, artículos para la casa y la decoración."
         ]
       },
       {
-        "heading": "Tasas e importación: qué se puede cobrar",
+        "heading": "Aranceles e importación: qué se puede cobrar",
         "paragraphs": [
           "Las compras internacionales pueden pasar por un control aduanero y pueden generar impuestos, tasas de importación, cobros administrativos u otros gastos relacionados con la liberación del pedido. Por eso, además de calcular el producto y el envío, conviene tener en cuenta la posibilidad de un costo extra antes de comprar.",
           "YesStyle indica que los pedidos de menos de US$ 1.000 pueden tener reembolso de las tasas aduaneras, si pagas primero, guardas el comprobante y lo solicitas en un plazo de 30 días. Ese reembolso, cuando se aprueba, se emite como crédito de tienda de YesStyle.",
@@ -30254,7 +30255,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Usa el código oficial de influenciador CECILIA010 en el checkout de YesStyle.",
+      "text": "Usa el código oficial de influencer CECILIA010 en el checkout de YesStyle.",
       "label": "Ir a YesStyle y usar Código CECILIA010",
       "url": "https://ystyle.co/rQYQv"
     },
@@ -30270,7 +30271,8 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Enlaces de afiliado: podemos recibir una comisión por los enlaces y por el Reward Code CECILIA010.",
     "locale": "es",
     "translationKey": "yesstyle-reward-code",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 23,
@@ -30347,7 +30349,7 @@ export const reviewsData: unknown[] = [
         "heading": "CECILIA010 est-il un code d'influenceuse YesStyle ?",
         "paragraphs": [
           "Oui. CECILIA010 est un code de récompense d'influenceuse enregistré dans le programme officiel de partenaires de YesStyle. Il a été créé spécialement pour les lectrices du blog Em Casa com Cecília qui achètent de la K-beauty et des produits asiatiques.",
-          "Contrairement aux coupons mensuels (qui changent et expirent), le code d'influenceuse reste actif tant que le partenariat dure, et peut être utilisé pour de nouvelles commandes. S'il existe une limite par compte ou par commande, le paiement de YesStyle vous en avertit au moment d'appliquer le code.",
+          "Contrairement aux coupons mensuels (qui changent et expirent), le code d'influenceuse reste actif tant que le partenariat dure, et peut être utilisé pour de nouvelles commandes. S'il existe une limite par compte ou par commande, le site YesStyle vous en avertit au moment d'appliquer le code.",
           "L'avantage du code d'influenceuse CECILIA010, c'est qu'il fonctionne dans un champ séparé et qu'il est cumulable avec les coupons promotionnels éligibles confirmés au paiement. Vous obtenez donc jusqu'à 5 % en plus grâce à l'influenceuse (5 % 1re commande / 2 % suivantes) ET vous profitez en plus du coupon de réduction du mois. Le meilleur des deux mondes."
         ]
       },
@@ -30386,7 +30388,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Saisissez le coupon promotionnel actif du mois",
         "paragraphs": [
-          "Repérez le champ « Code coupon » (ou « Coupon Code ») et saisissez les coupons promotionnels éligibles sur le site à ce moment-là. Cliquez sur « Appliquer » pour ajouter ce coupon à la remise supplémentaire de jusqu'à 5 % de CECILIA010."
+          "Repérez le champ « Code coupon » (ou « Coupon Code ») et saisissez les coupons promotionnels éligibles sur le site à ce moment-là. Cliquez sur « Appliquer » pour cumuler ce coupon avec la remise supplémentaire de CECILIA010 (jusqu'à 5 %)."
         ]
       },
       {
@@ -30415,7 +30417,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comment trouver les coupons YesStyle actifs",
         "paragraphs": [
-          "YesStyle propose souvent des coupons qui changent fréquemment. Les types les plus courants sont : coupon de bienvenue, coupon de retour, coupon de saison, coupon de catégorie, coupon de livraison gratuite et campagnes flash.",
+          "YesStyle propose souvent des coupons qui changent fréquemment. Les types les plus courants sont : coupon de bienvenue, coupon de fidélité, coupon de saison, coupon de catégorie, coupon de livraison gratuite et campagnes flash.",
           "Comme ces codes changent souvent, le plus sûr est de consulter la page de promotions de YesStyle elle-même avant de finaliser l'achat. Appliquez ensuite le coupon actif dans le champ « Coupon Code » et gardez CECILIA010 dans le champ « Reward Code »."
         ],
         "bullets": [
@@ -30481,12 +30483,12 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Flash Sales : promotions éclair jusqu'à -50 % pour une durée limitée. Visitez le site chaque jour et ajoutez des produits à la Wishlist.",
           "Explorez les Lucky Bundles : lots de produits à prix réduit (soins, maquillage, kits thématiques comme « Glass Skin Routine »).",
-          "Utilisez la Wishlist intelligemment : soyez prévenue quand le prix baisse, organisez vos futurs achats, planifiez pour profiter de la livraison gratuite.",
+          "Utilisez la Wishlist intelligemment : recevez des notifications quand le prix baisse, organisez vos futurs achats, planifiez pour profiter de la livraison gratuite.",
           "Profitez de l'Elite Club : programme de fidélité avec points cumulés : Bronze 5 %, Silver 7 %, Gold 10 %, Platinum 12 %, Diamond 15 %.",
           "N'ignorez pas les produits « Daily Free » : produits offerts pour tout achat au-dessus d'un certain montant.",
           "Lisez les avis (reviews) : photos réelles, commentaires sur la texture, l'odeur et le résultat, informations sur la durée de conservation.",
           "Surveillez les saisons : Black Friday (novembre), 11.11 (Fête des célibataires), Noël, Summer Sale (juin/juillet), Back to School (août/septembre).",
-          "Utilisez toujours CECILIA010 : ça ne coûte rien, il ajoute jusqu'à 5 % (5 % 1re commande / 2 % suivantes) lorsqu'il est bien appliqué et il soutient le blog."
+          "Utilisez toujours CECILIA010 : ça ne coûte rien, il ajoute jusqu'à 5 % en plus (5 % 1re commande / 2 % suivantes) lorsqu'il est bien appliqué et il soutient le blog."
         ]
       },
       {
@@ -30507,7 +30509,7 @@ export const reviewsData: unknown[] = [
           "Le site existe-t-il dans d'autres langues ? Oui ! En haut du site, vous pouvez changer la langue.",
           "Comment suivre ma commande YesStyle ? Après la confirmation de l'expédition, YesStyle envoie un e-mail avec le code de suivi international. Vous pouvez aussi consulter l'historique de vos commandes en vous connectant à votre compte. Le suivi fonctionne via des services comme 17track ou sur le site du transporteur. Le délai estimé apparaît au paiement et peut varier à la douane.",
           "Que faire si ma commande YesStyle est retenue en douane ? Si la commande est retenue en douane, vous pouvez être invité à payer l'impôt d'importation. YesStyle indique que, pour les commandes éligibles de moins de 1 000 US$, il est possible de demander le remboursement des taxes et frais de douane sous forme de crédit boutique, sur présentation du justificatif de paiement et d'une demande au service client dans les 30 jours.",
-          "Les vêtements YesStyle utilisent des tailles asiatiques. Comment choisir la mienne ? Oui, la plupart des vêtements suivent la taille asiatique. Consultez toujours le guide des tailles sur la page de chaque produit (généralement en centimètres) et comparez-le à vos mensurations. Nous recommandons de prendre une ou deux tailles au-dessus de d'habitude, surtout pour les pièces ajustées.",
+          "Les vêtements YesStyle utilisent des tailles asiatiques. Comment choisir la mienne ? Oui, la plupart des vêtements suivent la taille asiatique. Consultez toujours le guide des tailles sur la page de chaque produit (généralement en centimètres) et comparez-le à vos mensurations. Nous recommandons de prendre une ou deux tailles au-dessus de votre taille habituelle, surtout pour les pièces ajustées.",
           "Quelles sont les marques de K-beauty les plus vendues sur YesStyle ? YesStyle est distributeur agréé de marques reconnues comme COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul et Haruharu. Le site classe les produits par catégories comme les essences, les lotions toniques, les sérums et les protections solaires, ce qui facilite la recherche d'une routine de soins coréenne.",
           "Puis-je annuler ou modifier une commande YesStyle une fois confirmée ? YesStyle permet d'annuler les commandes qui n'ont pas encore été expédiées (statut « Processing ») directement depuis l'historique des commandes de votre compte. Après l'expédition, il n'est plus possible d'annuler, mais vous pouvez refuser la livraison à son arrivée. Les changements d'adresse ou de produits ne sont possibles qu'avant l'expédition, via le service client.",
           "Code YesStyle pour la première commande : comment utiliser CECILIA010 ? Le code CECILIA010 fonctionne sur n'importe quelle commande et donne jusqu'à 5 % en plus (5 % sur la première commande et 2 % sur les suivantes), cumulable avec les coupons promotionnels éligibles confirmés au paiement.",
@@ -30516,7 +30518,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Utilisez le code d'influenceur officiel CECILIA010 lors du paiement sur YesStyle.",
+      "text": "Utilisez le code d'influenceuse officiel CECILIA010 lors du paiement sur YesStyle.",
       "label": "Aller sur YesStyle et utiliser le Code CECILIA010",
       "url": "https://ystyle.co/rQYQv"
     },
@@ -30532,7 +30534,8 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Liens d'affiliation : nous pouvons recevoir une commission sur les liens et sur le Reward Code CECILIA010.",
     "locale": "fr",
     "translationKey": "yesstyle-reward-code",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 24,
@@ -30616,7 +30619,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "CECILIA010 bei YesStyle eingeben: Schritt für Schritt",
         "paragraphs": [
-          "Um beide Rabatte zu addieren, halte CECILIA010 und den aktiven Gutschein der Website bereit:"
+          "Um beide Rabatte zu addieren, halten Sie CECILIA010 und den aktiven Gutschein der Website bereit:"
         ]
       },
       {
@@ -30632,13 +30635,13 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
         "imageAlt": "YesStyle-Warenkorb mit Beauty-Produkten, kostenlosem Versand und Feld zur Codeeingabe.",
-        "imageCaption": "Prüfen Sie im Warenkorb Produkte, Versand und das Feld, in dem die Codes angewendet werden, bevor Sie die Bestellung abschließt.",
+        "imageCaption": "Prüfen Sie im Warenkorb Produkte, Versand und das Feld, in dem die Codes angewendet werden, bevor Sie die Bestellung abschließen.",
         "imageFit": "contain"
       },
       {
         "heading": "3. Geben Sie den Belohnungscode CECILIA010 ein",
         "paragraphs": [
-          "Suche im Checkout oder im Warenkorb das Feld „Belohnungscode“ (oder „Reward Code“) und geben Sie genau CECILIA010 ein. Klicken Sie auf „Anwenden“, um den Code zu prüfen und bis zu 5 % extra (5 % 1. Bestellung / 2 % Folgebestellungen) zu aktivieren."
+          "Suchen Sie im Checkout oder im Warenkorb das Feld „Belohnungscode“ (oder „Reward Code“) und geben Sie genau CECILIA010 ein. Klicken Sie auf „Anwenden“, um den Code zu prüfen und bis zu 5 % extra (5 % 1. Bestellung / 2 % Folgebestellungen) zu aktivieren."
         ],
         "image": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
         "imageAlt": "YesStyle-Fenster mit getrennten Feldern für Gutschein und Influencer-Code, ausgefüllt mit CECILIA010.",
@@ -30648,7 +30651,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Geben Sie den aktiven Aktionsgutschein des Monats ein",
         "paragraphs": [
-          "Suche das Feld „Gutscheincode“ (oder „Coupon Code“) und geben Sie die Aktionsgutscheine ein, die auf der Website gerade berechtigt sind. Klicken Sie auf „Anwenden“, um diesen Gutschein zum Extra-Rabatt von bis zu 5 % durch CECILIA010 zu addieren."
+          "Suchen Sie das Feld „Gutscheincode“ (oder „Coupon Code“) und geben Sie die Aktionsgutscheine ein, die auf der Website gerade berechtigt sind. Klicken Sie auf „Anwenden“, um diesen Gutschein zum Extra-Rabatt von bis zu 5 % durch CECILIA010 zu addieren."
         ]
       },
       {
@@ -30706,7 +30709,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Was Sie bei YesStyle kaufen können: Guide nach Kategorie",
+        "heading": "Was Sie bei YesStyle kaufen können: Ratgeber nach Kategorie",
         "paragraphs": [
           "Die wichtigsten Kategorien sind:"
         ],
@@ -30725,11 +30728,11 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Internationale Käufe können einer Zollprüfung unterliegen und Steuern, Einfuhrabgaben, Bearbeitungsgebühren oder andere Kosten für die Freigabe der Bestellung verursachen. Deshalb sollten Sie vor dem Kauf neben Produkt und Versand auch mögliche Zusatzkosten einkalkulieren.",
           "YesStyle gibt an, dass bei Bestellungen unter US$ 1.000 Zollgebühren erstattet werden können, wenn Sie zuerst zahlen, den Beleg aufbewahren und die Erstattung innerhalb von 30 Tagen beantragen. Eine bewilligte Erstattung wird als YesStyle-Guthaben (Store Credit) ausgezahlt.",
-          "Lies vor dem Kauf die offizielle Hilfeseite von YesStyle zur Erstattung von Steuern und Zollgebühren, denn Importregeln und Shop-Richtlinien können sich ändern."
+          "Lesen Sie vor dem Kauf die offizielle Hilfeseite von YesStyle zur Erstattung von Steuern und Zollgebühren, denn Importregeln und Shop-Richtlinien können sich ändern."
         ],
         "bullets": [
           "Bewahren Sie den Zahlungsbeleg für jede gezahlte Zollgebühr auf",
-          "Sende den Erstattungsantrag innerhalb der 30-Tage-Frist über den YesStyle-Kundenservice",
+          "Senden Sie den Erstattungsantrag innerhalb der 30-Tage-Frist über den YesStyle-Kundenservice",
           "Die Erstattung erfolgt nicht automatisch: Sie hängt von der Prüfung und den aktuell geltenden Richtlinien von YesStyle ab",
           "Bestellungen ab US$ 1.000 fallen nicht unter diese vom Unternehmen genannte Erstattungsrichtlinie",
           "Die Erstattung erfolgt als YesStyle-Guthaben (Store Credit), nicht zwingend als Geld zurück auf die Karte"
@@ -30742,12 +30745,12 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Flash Sales: Blitzaktionen mit bis zu 50 % Rabatt für kurze Zeit. Schauen Sie täglich auf der Website vorbei und legen Sie Produkte auf die Wishlist.",
-          "Entdecke die Lucky Bundles: Produktpakete zum reduzierten Preis (Skincare, Make-up, Themen-Sets wie „Glass Skin Routine“).",
+          "Entdecken Sie die Lucky Bundles: Produktpakete zum reduzierten Preis (Skincare, Make-up, Themen-Sets wie „Glass Skin Routine“).",
           "Nutzen Sie die Wishlist klug: Lassen Sie sich benachrichtigen, wenn der Preis fällt, ordnen Sie künftige Käufe und planen Sie so, dass Sie den kostenlosen Versand erreichen.",
           "Nutzen Sie den Elite Club: Treueprogramm mit gesammelten Punkten: Bronze 5 %, Silver 7 %, Gold 10 %, Platinum 12 %, Diamond 15 %.",
-          "Übersieh die „Daily Free“-Produkte nicht: kostenlose Produkte ab einem bestimmten Bestellwert.",
-          "Lies die Bewertungen (Reviews): echte Fotos, Kommentare zu Textur, Duft und Ergebnis, Hinweise zum Haltbarkeitsdatum.",
-          "Behalte die Jahreszeiten im Blick: Black Friday (November), 11.11 (Single's Day), Weihnachten, Summer Sale (Juni/Juli), Back to School (August/September).",
+          "Übersehen Sie die „Daily Free“-Produkte nicht: kostenlose Produkte ab einem bestimmten Bestellwert.",
+          "Lesen Sie die Bewertungen (Reviews): echte Fotos, Kommentare zu Textur, Duft und Ergebnis, Hinweise zum Haltbarkeitsdatum.",
+          "Behalten Sie die Jahreszeiten im Blick: Black Friday (November), 11.11 (Single's Day), Weihnachten, Summer Sale (Juni/Juli), Back to School (August/September).",
           "Nutzen Sie immer CECILIA010: Es kostet nichts, bringt bis zu 5 % extra (5 % 1. Bestellung / 2 % Folgebestellungen), wenn es richtig angewendet wird, und unterstützt den Blog."
         ]
       },
@@ -30773,12 +30776,12 @@ export const reviewsData: unknown[] = [
           "Welche K-Beauty-Marken verkaufen sich bei YesStyle am besten? YesStyle ist autorisierter Händler etablierter Marken wie COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul und Haruharu. Die Website ordnet die Produkte in Kategorien wie Essenzen, Toner, Seren und Sonnenschutz, was die Suche nach der koreanischen Skincare-Routine erleichtert.",
           "Kann ich eine Bestellung bei YesStyle nach der Bestätigung stornieren oder ändern? YesStyle erlaubt es, noch nicht versendete Bestellungen (Status 'Processing') direkt im Bestellverlauf Ihres Kontos zu stornieren. Nach dem Versand ist eine Stornierung nicht mehr möglich, aber Sie können die Annahme verweigern, wenn das Paket ankommt. Änderungen an Adresse oder Produkten sind nur vor dem Versand über den Kundenservice möglich.",
           "YesStyle-Code für die erste Bestellung: wie nutze ich CECILIA010? Der Code CECILIA010 funktioniert bei jedem Einkauf und sichert bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen), kombinierbar mit berechtigten Aktionsgutscheinen, die im Checkout bestätigt werden.",
-          "YesStyle-Influencer-Code: was ist CECILIA010? CECILIA010 ist ein bei YesStyle registrierter Influencer-Belohnungscode. Er gewährt im Checkout bis zu 5 % Extra-Rabatt (5 % auf die erste Bestellung und 2 % auf Folgebestellungen) und lässt sich mit berechtigten Aktionsgutscheinen kombinieren, anders als Codes für die erste Bestellung, die meist nicht kumulierbar sind."
+          "YesStyle-Influencer-Code: was ist CECILIA010? CECILIA010 ist ein bei YesStyle registrierter Influencer-Belohnungscode. Er gewährt im Checkout bis zu 5 % Extra-Rabatt (5 % auf die erste Bestellung und 2 % auf Folgebestellungen) und lässt sich mit berechtigten Aktionsgutscheinen kombinieren, anders als Codes für die erste Bestellung, die sich meist nicht kombinieren lassen."
         ]
       }
     ],
     "cta": {
-      "text": "Nutze den offiziellen Influencer-Belohnungscode CECILIA010 beim Checkout auf YesStyle.",
+      "text": "Nutzen Sie den offiziellen Influencer-Belohnungscode CECILIA010 beim Checkout auf YesStyle.",
       "label": "Zu YesStyle & Code CECILIA010 nutzen",
       "url": "https://ystyle.co/rQYQv"
     },
@@ -30794,7 +30797,8 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Affiliate-Links: Wir können über die Links und den Reward Code CECILIA010 eine Provision erhalten.",
     "locale": "de",
     "translationKey": "yesstyle-reward-code",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 40,
@@ -30827,7 +30831,7 @@ export const reviewsData: unknown[] = [
     "affiliate": "yesstyle",
     "notes": [
       {
-        "label": "세실리아의 팁",
+        "label": "Cecília의 팁",
         "body": "코드 입력 칸은 결제 화면의 'Reward Code'에 있습니다. 쇼핑몰을 열기 전에 CECILIA010을 복사해 두면 주문을 마무리할 때 붙여넣기만 하면 됩니다.",
         "anchor": "como-funciona-o-codigo-cecilia010"
       }
@@ -30874,7 +30878,7 @@ export const reviewsData: unknown[] = [
           "YesStyle에는 할인 입력 칸이 두 개 있습니다. 흔한 실수는 두 칸을 바꿔 입력하는 것이니, 둘을 함께 사용하세요."
         ],
         "bullets": [
-          "리워드 코드(Reward Code - CECILIA010): 세실리아의 인플루언서 코드입니다. '리워드 코드'(또는 'Reward Code') 칸에 입력하면 주문에 최대 5%가 추가됩니다(첫 구매 5% / 재구매 2%). 이 할인 외의 혜택은 YesStyle의 현행 규정에 따르며 보장된 것으로 보시면 안 됩니다.",
+          "리워드 코드(Reward Code - CECILIA010): Cecília의 인플루언서 코드입니다. '리워드 코드'(또는 'Reward Code') 칸에 입력하면 주문에 최대 5%가 추가됩니다(첫 구매 5% / 재구매 2%). 이 할인 외의 혜택은 YesStyle의 현행 규정에 따르며 보장된 것으로 보시면 안 됩니다.",
           "할인 쿠폰(유효한 Coupon Code): 월별, 프로모션 캠페인별, 사이트의 현행 규정에 따라 바뀝니다. 사용할 수 있는 쿠폰이 있으면 '쿠폰 코드'(또는 'Coupon Code') 칸에 입력합니다."
         ]
       },
@@ -30945,7 +30949,7 @@ export const reviewsData: unknown[] = [
         "imageAlt": "쿠폰과 CECILIA010 코드가 각각 따로 할인으로 적용된 YesStyle 주문 요약.",
         "imageCaption": "주문 요약에는 할인이 따로 표시됩니다. 유효한 쿠폰과, 인플루언서 코드로서의 CECILIA010입니다.",
         "imageFit": "contain",
-        "emphasis": "세실리아의 팁: 코드가 받아들여졌다고 바로 구매를 확정하지 마세요. 주문 요약에서 최종 금액을 보고, 할인이 실제로 반영됐는지 확인한 뒤에 결제하세요."
+        "emphasis": "Cecília의 팁: 코드가 받아들여졌다고 바로 구매를 확정하지 마세요. 주문 요약에서 최종 금액을 보고, 할인이 실제로 반영됐는지 확인한 뒤에 결제하세요."
       },
       {
         "heading": "YesStyle의 유효한 쿠폰 찾는 방법",
@@ -30997,14 +31001,14 @@ export const reviewsData: unknown[] = [
         "heading": "세금과 수입: 부과될 수 있는 비용",
         "paragraphs": [
           "해외 구매는 세관 심사를 받을 수 있고, 수입세, 수입 수수료, 행정 비용 등 주문 통관과 관련된 비용이 발생할 수 있습니다. 그래서 제품 가격과 배송비를 계산할 때 추가 비용이 들 수 있다는 점도 구매 전에 고려하는 것이 좋습니다.",
-          "YesStyle에 따르면 1,000달러 미만 주문은 먼저 결제하고 영수증을 보관한 뒤 30일 이내에 신청하면 관세를 환급받을 수 있습니다. 승인된 환급은 YesStyle 스토어 크레딧으로 지급됩니다.",
+          "YesStyle에 따르면 US$ 1,000 미만 주문은 먼저 결제하고 영수증을 보관한 뒤 30일 이내에 신청하면 관세를 환급받을 수 있습니다. 승인된 환급은 YesStyle 스토어 크레딧으로 지급됩니다.",
           "구매하기 전에 YesStyle 공식 도움말의 세금·관세 환급 페이지를 확인하세요. 수입 규정과 쇼핑몰 정책은 바뀔 수 있습니다."
         ],
         "bullets": [
           "낸 관세의 결제 영수증을 보관하세요",
           "30일 이내에 YesStyle 고객센터로 환급 신청을 보내세요",
           "환급은 자동이 아닙니다. 심사와 YesStyle의 현행 정책에 따라 결정됩니다",
-          "1,000달러 이상 주문은 브랜드가 안내한 이 환급 정책의 대상이 아닙니다",
+          "US$ 1,000 이상 주문은 브랜드가 안내한 이 환급 정책의 대상이 아닙니다",
           "환급은 YesStyle 스토어 크레딧으로 이루어지며, 카드로 현금이 돌아오는 것은 아닐 수 있습니다"
         ]
       },
@@ -31027,21 +31031,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyle CECILIA010 코드에 관한 자주 묻는 질문(FAQ)",
         "paragraphs": [
-          "독자분들이 세실리아의 코드를 쓰는 방법과 K-beauty 쇼핑에서 절약하는 방법에 대해 가장 자주 보내 주신 질문을 모았습니다."
+          "독자분들이 Cecília의 코드를 쓰는 방법과 K-beauty 쇼핑에서 절약하는 방법에 대해 가장 자주 보내 주신 질문을 모았습니다."
         ],
         "bullets": [
           "CECILIA010은 쿠폰인가요, 리워드 코드인가요? YesStyle의 리워드/인플루언서 코드로 작동하며, 올바른 칸에 입력하면 최대 5%(첫 구매 5% / 재구매 2%)가 추가됩니다. 적격 쿠폰과 함께 쓸 수 있다는 것이 장점입니다.",
           "CECILIA010을 이달의 프로모션 쿠폰과 함께 쓸 수 있나요? 네! CECILIA010은 'Reward Code' 칸에, 쿠폰은 'Coupon Code' 칸에 입력합니다. 이렇게 결제 화면에서 확인되는 적격 프로모션 쿠폰에 최대 5%(첫 구매 5%, 재구매 2%)를 더할 수 있습니다.",
           "CECILIA010에는 유효 기간이 있나요? YesStyle 인플루언서 프로그램이 활성 상태이고 코드가 정기적으로 확인되는 동안 사용할 수 있습니다.",
           "YesStyle에서 구매해도 안전한가요? 네. 2006년부터 운영된 정식 기업이고, 150개가 넘는 국가와 지역에 서비스하며, 정품을 판매하고 SSL 암호화를 사용합니다.",
-          "수입세를 내야 하나요? 그럴 수 있습니다. 관세가 부과되면 YesStyle 공식 정책을 확인하세요. 1,000달러 미만의 적격 주문은 영수증과 기한 내 신청을 조건으로 세금·관세를 스토어 크레딧으로 환급받을 수 있다고 안내하고 있습니다.",
+          "수입세를 내야 하나요? 그럴 수 있습니다. 관세가 부과되면 YesStyle 공식 정책을 확인하세요. US$ 1,000 미만의 적격 주문은 영수증과 기한 내 신청을 조건으로 세금·관세를 스토어 크레딧으로 환급받을 수 있다고 안내하고 있습니다.",
           "가장 좋은 결제 방법은 무엇인가요? 국제 신용카드(Visa, Mastercard, Amex) 또는 PayPal입니다. 환전은 카드사가 자동으로 처리합니다.",
           "제품은 정품인가요? 네. YesStyle은 각 브랜드의 공식 유통사로, 제조사나 공식 유통사에서 직접 매입합니다.",
           "제품을 반품할 수 있나요? 해외 구매는 반품 조건이 제한적입니다. 불량품이나 오배송 제품은 반품할 수 있습니다. K-beauty 제품(스킨케어, 메이크업)은 위생상의 이유로 밀봉된 경우가 아니면 보통 반품할 수 없습니다.",
           "Elite Club이 무엇인가요? YesStyle의 멤버십 프로그램입니다. 많이 쓸수록 포인트가 쌓입니다: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
           "사이트에서 다른 언어도 지원하나요? 네! 사이트 상단에서 언어를 바꿀 수 있습니다.",
           "YesStyle 주문은 어떻게 추적하나요? 발송이 확정되면 YesStyle이 국제 추적 번호가 담긴 이메일을 보냅니다. 로그인한 계정의 주문 내역에서도 확인할 수 있습니다. 추적은 17track 같은 서비스나 운송사 사이트에서 가능합니다. 예상 배송 기간은 결제 화면에 표시되며 세관 통과 과정에서 달라질 수 있습니다.",
-          "YesStyle 주문이 세관에 잡혀 있으면 어떻게 하나요? 주문이 세관에서 멈추면 수입세 납부 안내를 받을 수 있습니다. YesStyle에 따르면 1,000달러 미만의 적격 주문은 결제 영수증과 함께 30일 이내에 고객센터에 신청하면 세금·관세를 스토어 크레딧으로 환급받을 수 있습니다.",
+          "YesStyle 주문이 세관에 잡혀 있으면 어떻게 하나요? 주문이 세관에서 멈추면 수입세 납부 안내를 받을 수 있습니다. YesStyle에 따르면 US$ 1,000 미만의 적격 주문은 결제 영수증과 함께 30일 이내에 고객센터에 신청하면 세금·관세를 스토어 크레딧으로 환급받을 수 있습니다.",
           "YesStyle 옷은 아시아 사이즈를 씁니다. 내 사이즈는 어떻게 고르나요? 네, 대부분의 옷은 아시아 사이즈 기준입니다. 각 제품 페이지의 사이즈표(보통 센티미터 단위)를 꼭 확인하고 본인의 신체 치수와 비교하세요. 특히 몸에 붙는 옷은 평소보다 한두 사이즈 큰 것을 주문하길 권합니다.",
           "YesStyle에서 가장 많이 팔리는 K-beauty 브랜드는 무엇인가요? YesStyle은 COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul, Haruharu 같은 유명 브랜드의 공식 유통사입니다. 사이트는 에센스, 토너, 세럼, 선크림 같은 카테고리로 제품을 정리해 두어 한국식 스킨케어 루틴을 찾기 쉽습니다.",
           "YesStyle에서 확정한 주문을 취소하거나 변경할 수 있나요? 아직 발송되지 않은 주문(상태 'Processing')은 계정의 주문 내역에서 직접 취소할 수 있습니다. 발송 후에는 취소할 수 없지만 도착했을 때 수령을 거부할 수 있습니다. 주소나 제품 변경은 발송 전에만 가능하며 고객센터를 통해 해야 합니다.",
@@ -31056,7 +31060,8 @@ export const reviewsData: unknown[] = [
     "category": "cupons-como-usar",
     "metaDescription": "YesStyle에서 CECILIA010 사용법: Reward Code 칸에 입력, 최대 5% 추가(첫 구매 5%, 재구매 2%), 결제 화면에서 확인되는 적격 프로모션 쿠폰과 함께 사용할 수 있습니다.",
     "imageFit": "cover",
-    "editorialNote": "제휴 링크: 링크와 Reward Code CECILIA010를 통해 수수료를 받을 수 있습니다."
+    "editorialNote": "제휴 링크: 링크와 Reward Code CECILIA010를 통해 수수료를 받을 수 있습니다.",
+    "isNew": false
   },
   {
     "id": 41,
@@ -31089,7 +31094,7 @@ export const reviewsData: unknown[] = [
     "affiliate": "yesstyle",
     "notes": [
       {
-        "label": "セシリアのヒント",
+        "label": "Cecíliaのヒント",
         "body": "コードの入力欄はチェックアウトの「Reward Code」にあります。ショップを開く前にCECILIA010をコピーしておくと、注文を確定するときに貼り付けるだけで済みます。",
         "anchor": "como-funciona-o-codigo-cecilia010"
       }
@@ -31136,7 +31141,7 @@ export const reviewsData: unknown[] = [
           "YesStyleには割引の入力欄が2つあります。間違いやすいのは欄を取り違えること。2つを一緒に使いましょう。"
         ],
         "bullets": [
-          "リワードコード(Reward Code - CECILIA010)：セシリアのインフルエンサーコードです。「リワードコード」(または「Reward Code」)欄に入力すると、注文に最大5%が追加されます(初回購入5% / リピーター2%)。この割引以外の特典はYesStyleのそのときのルールによるもので、保証されたものと考えないでください。",
+          "リワードコード(Reward Code - CECILIA010)：Cecíliaのインフルエンサーコードです。「リワードコード」(または「Reward Code」)欄に入力すると、注文に最大5%が追加されます(初回購入5% / リピーター2%)。この割引以外の特典はYesStyleのそのときのルールによるもので、保証されたものと考えないでください。",
           "割引クーポン(有効なCoupon Code)：月ごと、キャンペーンごと、サイトのそのときのルールによって変わります。使えるクーポンがあるときは、「クーポンコード」(または「Coupon Code」)欄に入力します。"
         ]
       },
@@ -31207,12 +31212,12 @@ export const reviewsData: unknown[] = [
         "imageAlt": "YesStyleの注文概要。クーポンとCECILIA010が、それぞれ別の割引として適用されている。",
         "imageCaption": "注文概要では、割引が別々に表示されます。有効なクーポンと、インフルエンサーコードとしてのCECILIA010です。",
         "imageFit": "contain",
-        "emphasis": "セシリアのヒント：コードが受け付けられたからといって、すぐに購入を確定しないでください。注文概要で最終金額を見て、割引が実際に反映されているか、支払う前に確認しましょう。"
+        "emphasis": "Cecíliaのヒント：コードが受け付けられたからといって、すぐに購入を確定しないでください。注文概要で最終金額を見て、割引が実際に反映されているか、支払う前に確認しましょう。"
       },
       {
         "heading": "YesStyleで有効なクーポンを見つける方法",
         "paragraphs": [
-          "YesStyleのクーポンはよく入れ替わります。よくある種類は、ウェルカムクーポン、リターンクーポン、シーズンクーポン、カテゴリークーポン、送料無料クーポン、タイムセールです。",
+          "YesStyleのクーポンはよく入れ替わります。よくある種類は、ウェルカムクーポン、リピーター向けクーポン、シーズンクーポン、カテゴリークーポン、送料無料クーポン、タイムセールです。",
           "コードは頻繁に変わるので、購入を確定する前にYesStyle公式のプロモーションページを確認するのがいちばん確実です。そのうえで、有効なクーポンを「Coupon Code」欄に、CECILIA010を「Reward Code」欄に入力しましょう。"
         ],
         "bullets": [
@@ -31289,7 +31294,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyleのCECILIA010についてよくある質問(FAQ)",
         "paragraphs": [
-          "セシリアのコードの使い方や、K-beautyの買い物で節約する方法について、読者から多く寄せられる質問をまとめました。"
+          "Cecíliaのコードの使い方や、K-beautyの買い物で節約する方法について、読者から多く寄せられる質問をまとめました。"
         ],
         "bullets": [
           "CECILIA010はクーポンですか、リワードコードですか？YesStyleのリワードコード/インフルエンサーコードとして使え、正しい欄に入力すると最大5%(初回購入5% / リピーター2%)が追加されます。対象のクーポンと併用できるのが強みです。",
@@ -31318,7 +31323,8 @@ export const reviewsData: unknown[] = [
     "category": "cupons-como-usar",
     "metaDescription": "YesStyleでのCECILIA010の使い方：入力はReward Code欄、追加で最大5%(初回購入5%、2回目以降2%)、対象のプロモーションクーポンとはチェックアウトの表示に従って併用できます。",
     "imageFit": "cover",
-    "editorialNote": "アフィリエイトリンク：リンクとReward Code CECILIA010を通じて、報酬を受け取る場合があります。"
+    "editorialNote": "アフィリエイトリンク：リンクとReward Code CECILIA010を通じて、報酬を受け取る場合があります。",
+    "isNew": false
   },
   {
     "id": 42,
@@ -31521,7 +31527,7 @@ export const reviewsData: unknown[] = [
         "heading": "關稅與進口：可能被收取哪些費用",
         "paragraphs": [
           "跨境訂單可能要接受海關檢查，並可能產生稅款、進口關稅、行政費用或其他與訂單放行相關的支出。因此，除了計算商品和運費，下單前也建議把可能的額外費用考慮進去。",
-          "YesStyle 表示，1,000 美元以下的訂單，如果你先付款、保留收據，並在 30 天內申請，可能可以退還關稅。退款一旦核准，會以 YesStyle 商店點數（Store Credit）發放。",
+          "YesStyle 表示，1,000 美元以下的訂單，如果你先付款、保留收據，並在 30 天內申請，可能可以退還關稅。退款一旦核准，會以 YesStyle 商店餘額（Store Credit）形式發放。",
           "下單前請查看 YesStyle 官方的關稅退款說明頁面，因為進口規定和商店政策可能會變動。"
         ],
         "bullets": [
@@ -31558,14 +31564,14 @@ export const reviewsData: unknown[] = [
           "CECILIA010 可以和當月的促銷優惠券疊加嗎？可以！它填在「Reward Code」欄位，優惠券填在「Coupon Code」欄位。這樣就能在結帳頁確認符合資格的促銷優惠券之上，再額外享高達 5% 優惠（首購 5%，回購 2%）。",
           "CECILIA010 有有效期限嗎？只要 YesStyle 的網紅計畫仍在進行，並且代碼經過定期確認，它就有效。",
           "在 YesStyle 購物安全嗎？安全。這是一家 2006 年起營運的正規公司，服務 150 多個國家和地區，商品為正品，並採用 SSL 加密。",
-          "我要繳納進口關稅嗎？有可能。如果被收取關稅，請查看 YesStyle 的官方政策：品牌表示，1,000 美元以下的符合資格訂單，憑付款憑證並在期限內申請，可退還稅款和關稅，以商店點數形式發放。",
+          "我要繳納進口關稅嗎？有可能。如果被收取關稅，請查看 YesStyle 的官方政策：品牌表示，1,000 美元以下的符合資格訂單，憑付款憑證並在期限內申請，可退還稅款和關稅，以商店餘額形式發放。",
           "最好用什麼方式付款？國際信用卡（Visa、Mastercard、Amex）或 PayPal。匯率由發卡機構自動換算。",
           "商品是正品嗎？是的。YesStyle 是各品牌的授權經銷商，直接向製造商或官方經銷商採購。",
           "可以退貨嗎？跨境訂單的退貨政策有限。有瑕疵或寄錯貨的商品可以退。韓系美妝商品（保養、彩妝）基於衛生考量通常不能退，除非未拆封。",
           "Elite Club 是什麼？YesStyle 的會員忠誠計畫。消費越多，點數越多：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
           "網站有其他語言版本嗎？有！在網站頂端可以切換語言。",
           "如何追蹤我的 YesStyle 訂單？確認出貨後，YesStyle 會寄出附有國際追蹤碼的電子郵件。你也可以登入帳號查看訂單紀錄。追蹤可透過 17track 之類的服務，或在物流公司自己的網站上進行。預計時間會顯示在結帳頁，通過海關時可能有變動。",
-          "如果我的 YesStyle 訂單被海關扣留怎麼辦？如果訂單被海關扣留，你可能會收到繳納進口稅的通知。YesStyle 表示，1,000 美元以下的符合資格訂單，可憑付款憑證，並在 30 天內向客服申請，以商店點數形式退還稅款和關稅。",
+          "如果我的 YesStyle 訂單被海關扣留怎麼辦？如果訂單被海關扣留，你可能會收到繳納進口稅的通知。YesStyle 表示，1,000 美元以下的符合資格訂單，可憑付款憑證，並在 30 天內向客服申請，以商店餘額形式退還稅款和關稅。",
           "YesStyle 的衣服用亞洲尺寸，我該怎麼選？是的，大多數衣服採用亞洲尺寸。請務必查看每件商品頁面上的尺寸表（通常以公分為單位），並與自己的身體尺寸對照。建議比平常多選一到兩個尺寸，尤其是偏合身的款式。",
           "YesStyle 上最暢銷的韓系美妝品牌有哪些？YesStyle 是 COSRX、Beauty of Joseon、Some By Mi、Etude House、Innisfree、Laneige、Pyunkang Yul 和 Haruharu 等知名品牌的授權經銷商。網站依精華液、化妝水、精華和防曬乳等分類整理商品，方便尋找韓式保養流程所需的產品。",
           "訂單確認後還能在 YesStyle 取消或修改嗎？尚未出貨（狀態為「Processing」）的訂單，可以直接在帳號的訂單紀錄中取消。出貨後無法取消，但包裹送達時你可以拒收。地址或商品的修改只能在出貨前透過客服辦理。",
@@ -31580,7 +31586,8 @@ export const reviewsData: unknown[] = [
     "category": "cupons-como-usar",
     "metaDescription": "如何在 YesStyle 使用 CECILIA010：填入 Reward Code 欄位，可額外享高達 5% 優惠（首購 5%，回購 2%），並可依結帳頁顯示與符合資格的促銷優惠券疊加。",
     "imageFit": "cover",
-    "editorialNote": "聯盟連結：我們可能會透過連結和 Reward Code CECILIA010 獲得佣金。"
+    "editorialNote": "聯盟連結：我們可能會透過連結和 Reward Code CECILIA010 獲得佣金。",
+    "isNew": false
   },
   {
     "id": 43,
@@ -31740,7 +31747,7 @@ export const reviewsData: unknown[] = [
           "由于这些代码变动频繁，最稳妥的做法是在下单前查看 YesStyle 官方的促销页面。然后把有效优惠券应用在“Coupon Code”栏位，并让 CECILIA010 留在“Reward Code”栏位。"
         ],
         "bullets": [
-          "Flash Sales：限时闪购，最高 5 折",
+          "Flash Sales：限时闪购，最低 5 折",
           "Lucky Bundles：商品组合包，享特别折扣",
           "Daily Free：消费满一定金额即可获赠免费商品",
           "Elite Club：会员忠诚计划，折扣逐级递增",
@@ -31783,7 +31790,7 @@ export const reviewsData: unknown[] = [
         "heading": "关税与进口：可能被收取哪些费用",
         "paragraphs": [
           "跨境订单可能要接受海关检查，并可能产生税款、进口关税、行政费用或其他与订单放行相关的支出。因此，除了计算商品和运费，下单前也建议把可能的额外费用考虑进去。",
-          "YesStyle 表示，1,000 美元以下的订单，如果你先付款、保留收据，并在 30 天内申请，可能可以退还关税。退款一旦获批，会以 YesStyle 商店积分（Store Credit）发放。",
+          "YesStyle 表示，1,000 美元以下的订单，如果你先付款、保留收据，并在 30 天内申请，可能可以退还关税。退款一旦获批，会以 YesStyle 商店余额（Store Credit）形式发放。",
           "下单前请查看 YesStyle 官方的关税退款说明页面，因为进口规则和商店政策可能会变动。"
         ],
         "bullets": [
@@ -31800,7 +31807,7 @@ export const reviewsData: unknown[] = [
           "这里整理了在 YesStyle 省钱的小技巧："
         ],
         "bullets": [
-          "Flash Sales：限时闪购，最高 5 折。每天上网站看看，并把商品加入心愿单。",
+          "Flash Sales：限时闪购，最低 5 折。每天上网站看看，并把商品加入心愿单。",
           "逛逛 Lucky Bundles：降价的商品组合包（护肤、彩妆，以及“Glass Skin Routine”之类的主题套装）。",
           "善用心愿单：降价时收到通知，整理以后想买的东西，并规划好凑到免运费门槛。",
           "用好 Elite Club：积分累积的会员计划：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
@@ -31842,7 +31849,8 @@ export const reviewsData: unknown[] = [
     "category": "cupons-como-usar",
     "metaDescription": "如何在 YesStyle 使用 CECILIA010：填入 Reward Code 栏位，可额外享高达 5% 优惠（首单 5%，回购 2%），并可按结账页显示与符合条件的促销优惠券叠加。",
     "imageFit": "cover",
-    "editorialNote": "联盟链接：我们可能会通过链接和 Reward Code CECILIA010 获得佣金。"
+    "editorialNote": "联盟链接：我们可能会通过链接和 Reward Code CECILIA010 获得佣金。",
+    "isNew": false
   },
   {
     "id": 19,
@@ -37314,7 +37322,8 @@ export const reviewsData: unknown[] = [
     ],
     "locale": "en",
     "translationKey": "yesstyle-coupon-guide",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 236,
@@ -37536,7 +37545,8 @@ export const reviewsData: unknown[] = [
     ],
     "locale": "es",
     "translationKey": "yesstyle-coupon-guide",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 237,
@@ -37758,7 +37768,8 @@ export const reviewsData: unknown[] = [
     ],
     "locale": "fr",
     "translationKey": "yesstyle-coupon-guide",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 238,
@@ -37921,7 +37932,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schritt 4: Fügen Sie den Code CECILIA010 im Feld Reward Code ein",
         "paragraphs": [
-          "Geh auf derselben Kassenseite zum separaten Feld „Reward Code / Influencer Code“ (Belohnungscode). Geben Sie den Code CECILIA010 ein und klicken Sie auf „Apply“ (Anwenden)."
+          "Gehen Sie auf derselben Kassenseite zum separaten Feld „Reward Code / Influencer Code“ (Belohnungscode). Geben Sie den Code CECILIA010 ein und klicken Sie auf „Apply“ (Anwenden)."
         ]
       },
       {
@@ -37937,7 +37948,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wo Sie die aktuell gültigen YesStyle-Gutscheine finden",
         "paragraphs": [
-          "Um die Gutscheine des Monats im Blick zu behalten, ohne auf einen abgelaufenen Code zu stoßen, nutze diese offiziellen Quellen:",
+          "Um die Gutscheine des Monats im Blick zu behalten, ohne auf einen abgelaufenen Code zu stoßen, nutzen Sie diese offiziellen Quellen:",
           "1. Unsere zentrale Gutscheinseite: Wir führen eine eigene Seite, auf der wir die Aktionscodes von YesStyle prüfen und aktualisieren.",
           "2. Das Hauptbanner von YesStyle: Die Startseite des Shops hebt den aktiven Aktionsgutschein meist oben hervor.",
           "3. Der offizielle Newsletter: Wenn Sie den Newsletter der Website abonnieren, bekommen Sie Hinweise auf Blitzangebote über 72 oder 96 Stunden."
@@ -37980,7 +37991,8 @@ export const reviewsData: unknown[] = [
     ],
     "locale": "de",
     "translationKey": "yesstyle-coupon-guide",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 239,
@@ -38184,7 +38196,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle의 Coupon Code와 Influencer/Rewards Code는 무엇이 다른가요? Coupon Code는 프로모션 쿠폰으로 \"Coupon Code\" 칸에 입력하며, 기한과 규칙이 각각 따로 있어 최소 구매 금액, 지역 제한, 적용 제외 상품이 있을 수 있습니다. CECILIA010은 리워드 코드(Influencer/Rewards Code)로 별도의 \"Reward Code\" 칸에 입력하며, 첫 구매 5%, 이후 구매 2%입니다. 프로모션 규칙이 허용하면 주문 요약에 두 할인이 함께 표시될 수 있습니다.",
           "YesStyle의 인플루언서 코드란 무엇인가요? 리워드 코드(Reward Code)로, 결제 화면에서 쿠폰 칸과 분리된 전용 칸에 입력합니다. 저희 코드는 CECILIA010이며 Reward Code 칸에 입력합니다.",
-          "YesStyle 쿠폰에는 유효 기간이 있나요? 네. 프로모션 쿠폰에는 유효 기간이 있고 예고 없이 만료될 수 있습니다. 72시간이나 96시간처럼 며칠만 진행되는 캠페인도 있고, 더 오래 이어지는 캠페인도 있습니다. 결제를 마치기 전에 프로모션 규칙에서 유효 기간, 최소 구매 금액, 지역, 적용 대상 상품을 확인하고 결제 화면에 할인이 반영되었는지 확인하세요.",
+          "YesStyle 쿠폰에는 유효 기간이 있나요? 네. 프로모션 쿠폰에는 유효 기간이 있고 예고 없이 만료될 수 있습니다. 72시간이나 96시간처럼 며칠만 진행되는 캠페인도 있고, 캠페인마다 진행 기간이 다릅니다. 결제를 마치기 전에 프로모션 규칙에서 유효 기간, 최소 구매 금액, 지역, 적용 대상 상품을 확인하고 결제 화면에 할인이 반영되었는지 확인하세요.",
           "YesStyle 쿠폰의 공식 규칙은 어디서 볼 수 있나요? 일반 규칙은 YesStyle 고객센터의 \"General Terms and Conditions for Coupons\" 페이지에 있습니다. 개별 캠페인의 조건은 고객센터에서 \"Promotions\" 항목을 열면 유효 기간, 최소 구매 금액, 참여 지역, 제외 대상이 게시되어 있습니다. 조건은 바뀔 수 있으니 결제 전에 프로모션 배너와 주문 요약도 함께 확인하세요.",
           "한 주문에 프로모션 쿠폰을 두 개 이상 쓸 수 있나요? 아니요. YesStyle 일반 규칙상 한 주문(또는 합산 주문)에는 Coupon Code를 하나만 쓸 수 있습니다. 하지만 CECILIA010은 Coupon Code가 아니라 별도의 \"Reward Code\" 칸에 입력합니다. 따라서 캠페인이 해당되고 결제 화면이 둘 다 받아 주면, 프로모션 쿠폰과 CECILIA010을 함께 쓸 수 있습니다."
         ],
@@ -38202,7 +38214,8 @@ export const reviewsData: unknown[] = [
     ],
     "locale": "ko",
     "translationKey": "yesstyle-coupon-guide",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 240,
@@ -38238,7 +38251,7 @@ export const reviewsData: unknown[] = [
       "今月のクーポンとCECILIA010を重ねる併用（スタッキング）の仕組みがわかる",
       "公式のインフルエンサーコードで最大5%を追加で節約する方法がわかる",
       "偽物や期限切れのコードを避けられるよう、YesStyleクーポンの公式な入手先を紹介",
-      "Em Casa com Ceciliaの最新ページで、確認済みのクーポン一覧に進める"
+      "Em Casa com Cecíliaの最新ページで、確認済みのクーポン一覧に進める"
     ],
     "cons": [
       "月ごとのプロモクーポンは期限が短い（たいてい72時間〜30日）",
@@ -38406,7 +38419,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyleのCoupon CodeとInfluencer/Rewards Codeはどう違いますか？ Coupon Codeはセール用のクーポンで、「Coupon Code」欄に入れます。期限と条件がそれぞれ決まっていて、最低購入額、地域の制限、対象外の商品がある場合があります。CECILIA010はリワードコード（Influencer/Rewards Code）で、別枠の「Reward Code」欄に入れ、初回購入は5%、2回目以降は2%です。セールの条件が認めていれば、注文の概要に両方の割引が並んで表示されます。",
           "YesStyleのインフルエンサーコードとは何ですか？ リワードコード（Reward Code）のことで、決済画面のクーポン欄とは別の専用欄に入力します。当サイトのコードはCECILIA010で、Reward Code欄に入れます。",
-          "YesStyleのクーポンに有効期限はありますか？ はい。プロモクーポンには期限があり、予告なく終わることがあります。72時間や96時間のように数日で終わるキャンペーンもあれば、もっと長く続くものもあります。購入を確定する前に、プロモの条件で有効期限、最低購入額、地域、対象商品を確認し、決済画面で割引が反映されたことを確かめてください。",
+          "YesStyleのクーポンに有効期限はありますか？ はい。プロモクーポンには期限があり、予告なく終わることがあります。72時間や96時間のように数日で終わるキャンペーンもあれば、続く期間が異なるキャンペーンもあります。購入を確定する前に、プロモの条件で有効期限、最低購入額、地域、対象商品を確認し、決済画面で割引が反映されたことを確かめてください。",
           "YesStyleのクーポンの公式ルールはどこで見られますか？ 全般のルールは、YesStyleのヘルプセンターにある「General Terms and Conditions for Coupons」のページに載っています。個別のキャンペーンの条件は、ヘルプセンターを開いて「Promotions」の項目を見てください。有効期限、最低購入額、対象地域、除外品がそこで公開されています。条件は変わるため、支払いの前にプロモのバナーと注文の概要も確認しましょう。",
           "1回の注文でプロモクーポンを2枚以上使えますか？ いいえ。YesStyleの全般ルールでは、1回の注文（または合算した注文）で使えるCoupon Codeは1つだけです。ただしCECILIA010はCoupon Codeではなく、別枠の「Reward Code」欄に入れます。そのため、キャンペーンが対象で、決済画面が両方を受け付ければ、プロモクーポンとCECILIA010は併用できます。"
         ],
@@ -38424,7 +38437,8 @@ export const reviewsData: unknown[] = [
     ],
     "locale": "ja",
     "translationKey": "yesstyle-coupon-guide",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 241,
@@ -38513,7 +38527,7 @@ export const reviewsData: unknown[] = [
         "heading": "為什麼網路上大多數 YesStyle 優惠碼都不能用？",
         "paragraphs": [
           "如果你搜尋過「YesStyle 優惠碼」，複製了一堆代碼，結帳時卻被一個個拒絕，那不是運氣不好：這些代碼大多已經過期。",
-          "主要有三個原因：YesStyle 會推出短期的促銷優惠碼（例如 72 小時或 96 小時的促銷，或月度活動）；自動彙整的網站為了騙點擊，會把過期代碼掛上好幾年；另外，很多代碼屬於特定地區的專屬活動。",
+          "主要有三個原因：YesStyle 會推出短期的促銷優惠碼（例如 72 小時或 96 小時的促銷，或月度活動）；自動彙整的網站為了吸引點擊，會把過期代碼掛上好幾年；另外，很多代碼屬於特定地區的專屬活動。",
           "想不浪費時間、也不在付款時放棄，關鍵是弄懂 YesStyle 的折扣架構，並查看品牌的官方管道。"
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
@@ -38521,7 +38535,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "一個已經結束的活動的官方促銷優惠碼範例。促銷優惠碼變動頻繁，購買前請查看我們的專屬頁面。",
         "imageFit": "wide",
         "bullets": [
-          "月度促銷優惠碼：有效期限，通常享 10% 至 15% 折扣。",
+          "月度促銷優惠碼：有有效期限，通常享 10% 至 15% 折扣。",
           "獎勵碼（Reward Code）：像 CECILIA010 這樣的網紅代碼，可額外疊加高達 5% 折扣。",
           "官方管道：查看網站橫幅、商店的電子報，或我們的專屬優惠碼頁面。"
         ]
@@ -38628,7 +38642,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle 的 Coupon Code 和 Influencer/Rewards Code 有什麼差別？ Coupon Code 是促銷優惠碼，填在「Coupon Code」欄位，有各自的效期和規則：可能有最低消費、地區限制或不適用的商品。CECILIA010 是獎勵碼（Influencer/Rewards Code），填在另外的「Reward Code」欄位，首次購買 5%，之後 2%。促銷規則允許時，訂單摘要中可以同時出現兩項折扣。",
           "YesStyle 的網紅代碼是什麼？ 就是獎勵碼（Reward Code），填在結帳頁面的專用欄位，和優惠碼欄位分開。我們的代碼是 CECILIA010，填在 Reward Code 欄位。",
-          "YesStyle 的優惠碼有效期限嗎？ 有。促銷優惠碼都有效期限，而且可能不經通知就過期。有些活動只持續幾天（例如 72 小時或 96 小時的促銷），也有些持續更久。完成購買之前，請在促銷規則中確認效期、最低消費、地區和適用商品，並確認結帳時折扣已經生效。",
+          "YesStyle 的優惠碼有有效期限嗎？ 有。促銷優惠碼都有效期限，而且可能不經通知就過期。有些活動只持續幾天（例如 72 小時或 96 小時的促銷），持續時間因活動而異。完成購買之前，請在促銷規則中確認效期、最低消費、地區和適用商品，並確認結帳時折扣已經生效。",
           "在哪裡可以找到 YesStyle 優惠碼的官方規則？ 通用規則在 YesStyle 客服中心的「General Terms and Conditions for Coupons」頁面。具體活動的條件，請進入客服中心並開啟「Promotions」區塊，YesStyle 會在那裡公布效期、最低消費、參與地區和可能的例外。這些條件會變動，所以付款前也請查看促銷橫幅和訂單摘要。",
           "同一筆訂單可以使用多個促銷優惠碼嗎？ 不行。依 YesStyle 的通用規則，每筆訂單（或合併訂單）只能使用一個 Coupon Code。不過 CECILIA010 不是 Coupon Code，要填在另外的「Reward Code」欄位。因此，只要活動符合資格、結帳頁面接受兩者，促銷優惠碼和 CECILIA010 就可以一起用。"
         ],
@@ -38646,7 +38660,8 @@ export const reviewsData: unknown[] = [
     ],
     "locale": "zh-hant",
     "translationKey": "yesstyle-coupon-guide",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 242,
@@ -38735,7 +38750,7 @@ export const reviewsData: unknown[] = [
         "heading": "为什么网上大多数 YesStyle 优惠码都用不了？",
         "paragraphs": [
           "如果你搜过“YesStyle 优惠码”，复制了一堆代码，结账时却被一个个拒绝，那不是运气不好：这些代码大多已经过期。",
-          "主要有三个原因：YesStyle 会推出短期的促销优惠码（比如 72 小时或 96 小时的促销，或月度活动）；自动聚合网站为了骗点击，会把过期代码挂上好几年；还有很多代码属于特定地区的专属活动。",
+          "主要有三个原因：YesStyle 会推出短期的促销优惠码（比如 72 小时或 96 小时的促销，或月度活动）；自动聚合网站为了吸引点击，会把过期代码挂上好几年；还有很多代码属于特定地区的专属活动。",
           "想不浪费时间、也不在付款时放弃，关键是弄懂 YesStyle 的折扣结构，并查看品牌的官方渠道。"
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
@@ -38850,7 +38865,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle 的 Coupon Code 和 Influencer/Rewards Code 有什么区别？ Coupon Code 是促销优惠码，填在“Coupon Code”栏位，有各自的有效期和规则：可能有最低消费、地区限制或不适用的商品。CECILIA010 是奖励码（Influencer/Rewards Code），填在另外的“Reward Code”栏位，首次购买 5%，之后 2%。促销规则允许时，订单摘要中可以同时出现两项折扣。",
           "YesStyle 的网红代码是什么？ 就是奖励码（Reward Code），填在结账页面的专用栏位，和优惠码栏位分开。我们的代码是 CECILIA010，填在 Reward Code 栏位。",
-          "YesStyle 的优惠码有有效期吗？ 有。促销优惠码都有有效期，并且可能无预警过期。有些活动只持续几天（比如 72 小时或 96 小时的促销），也有些持续更久。完成购买之前，请在促销规则中确认有效期、最低消费、地区和适用商品，并确认结账时折扣已经生效。",
+          "YesStyle 的优惠码有有效期吗？ 有。促销优惠码都有有效期，并且可能无预警过期。有些活动只持续几天（比如 72 小时或 96 小时的促销），持续时间因活动而异。完成购买之前，请在促销规则中确认有效期、最低消费、地区和适用商品，并确认结账时折扣已经生效。",
           "在哪里可以找到 YesStyle 优惠码的官方规则？ 通用规则在 YesStyle 客服中心的“General Terms and Conditions for Coupons”页面。具体活动的条件，请进入客服中心并打开“Promotions”栏目，YesStyle 会在那里公布有效期、最低消费、参与地区和可能的例外。这些条件会变，所以付款前也请查看促销横幅和订单摘要。",
           "同一订单可以用多个促销优惠码吗？ 不可以。按 YesStyle 的通用规则，每笔订单（或合并订单）只能使用一个 Coupon Code。不过 CECILIA010 不是 Coupon Code，要填在另外的“Reward Code”栏位。因此，只要活动符合条件、结账页面接受两者，促销优惠码和 CECILIA010 就可以一起用。"
         ],
@@ -38868,7 +38883,8 @@ export const reviewsData: unknown[] = [
     ],
     "locale": "zh-hans",
     "translationKey": "yesstyle-coupon-guide",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 243,
@@ -40727,7 +40743,7 @@ export const reviewsData: unknown[] = [
           "Wie lange dauert die Lieferung von YesStyle? Die Lieferzeit erscheint im Checkout, bevor Sie bezahlen. Wie die Lieferzeit gezählt wird, steht im [YesStyle-Lieferratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
           "Erhebt YesStyle Importsteuern? Die Steuer kann bei der Ankunft des Pakets erhoben werden. YesStyle erstattet Steuern und Zollgebühren bei Bestellungen unter 1.000 US$ als Guthaben im Shop.",
           "Verändert der Code CECILIA010 den Endpreis des Produkts? Ja. Der Code CECILIA010 gibt bis zu 5 % zusätzlich (5 % auf den ersten Einkauf, 2 % auf weitere) als Vorteil der Partnerschaft, ohne zusätzliche Kosten für die Leserinnen und Leser.",
-          "Wie funktioniert die Rückgabe bei YesStyle? Die Rückgabe wird über das Autorisierungsformular (RMA) beim Kundenservice beantragt. Berechtigte, unbeschädigte Produkte können gegen eine Erstattung als Shop-Guthaben oder per Rückbuchung zurückgegeben werden, je nach der für das Produkt geltenden Richtlinie.",
+          "Wie funktioniert die Rückgabe bei YesStyle? Die Rückgabe wird über das Autorisierungsformular (RMA) beim Kundenservice beantragt. Berechtigte, ungeöffnete Produkte können gegen eine Erstattung als Shop-Guthaben oder per Rückbuchung zurückgegeben werden, je nach der für das Produkt geltenden Richtlinie.",
           "Welche Zahlungsarten akzeptiert YesStyle? Internationale Kreditkarte, PayPal und in manchen Ländern lokale Wallets. Alle Bestellungen werden in USD abgewickelt.",
           "Ist es sicher, bei YesStyle Kartendaten einzugeben? Ja, die Website nutzt eine sichere HTTPS-Verbindung und wickelt Zahlungen über international zertifizierte Gateways ab. Geben Sie sensible Daten niemals außerhalb des offiziellen Checkouts ein.",
           "Was ist die offizielle Domain von YesStyle? Die offizielle Domain ist yesstyle.com (mit einer Sprachauswahl auf der Website). Vorsicht vor gefälschten Seiten und nicht autorisierten Wiederverkäufern.",
@@ -40775,7 +40791,7 @@ export const reviewsData: unknown[] = [
     "locale": "ko",
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
-    "imageAlt": "Abib 제품 세 가지(PDRN 부스터 크림, 립 마스크, 하이드로겔 아이 패치)와 YesStyle 로고를 든 세실리아",
+    "imageAlt": "Abib 제품 세 가지(PDRN 부스터 크림, 립 마스크, 하이드로겔 아이 패치)와 YesStyle 로고를 든 Cecília",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -40840,7 +40856,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "결제 정보를 입력하기 전에 공식 도메인(yesstyle.com)인지 확인하세요. 안전한 결제 페이지 주소는 'https://'로 시작합니다.",
-          "결제 전에 체크아웃에서 배송비와 배송 기간을 확인하세요. 도착했을 때 세금이 부과되면 YesStyle은 1,000달러 미만 주문에 한해 수입 세금과 통관 수수료를 환급합니다. 신청 방법은 [배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
+          "결제 전에 체크아웃에서 배송비와 배송 기간을 확인하세요. 도착했을 때 세금이 부과되면 YesStyle은 US$ 1,000 미만 주문에 한해 수입 세금과 통관 수수료를 환급합니다. 신청 방법은 [배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
           "제품 설명은 크기, 소재, 관리 방법까지 꼼꼼히 읽으세요. 아시아 뷰티 기준은 다른 나라와 다를 수 있습니다(예: 용량, 유효 성분 농도).",
           "결제 영수증, 주문 번호, 운송장 번호를 보관해 두세요. 문제가 생겼을 때 배송을 추적하고 이의를 제기하는 데 필요합니다.",
           "봉인이 뜯긴 채 도착하면 그 소포는 받지 마세요."
@@ -40849,7 +40865,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyle을 믿어도 될까요?",
         "paragraphs": [
-          "네, 늘 하던 확인만 하면 됩니다. YesStyle은 2006년부터 이어 온 홍콩 회사이며, 상장사인 YesAsia Holdings(2209.HK)가 지배합니다. 400개가 넘는 한국 뷰티 브랜드의 공식 유통업체라고 밝히지만, 이 주장에 대한 독립적인 감사는 없습니다. 소포에 세금이 부과되면 1,000달러 미만 주문에 한해 매장이 수입 세금과 통관 수수료를 환급합니다.",
+          "네, 늘 하던 확인만 하면 됩니다. YesStyle은 2006년부터 이어 온 홍콩 회사이며, 상장사인 YesAsia Holdings(2209.HK)가 지배합니다. 400개가 넘는 한국 뷰티 브랜드의 공식 유통업체라고 밝히지만, 이 주장에 대한 독립적인 감사는 없습니다. 소포에 세금이 부과되면 US$ 1,000 미만 주문에 한해 매장이 수입 세금과 통관 수수료를 환급합니다.",
           "실제로는 이렇게 하세요. yesstyle.com에서 사고, 체크아웃에서 배송비와 배송 기간을 확인하고, 영수증을 보관하고, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요."
         ]
       },
@@ -40868,7 +40884,7 @@ export const reviewsData: unknown[] = [
           "YesStyle은 어느 나라 회사인가요? 홍콩 회사입니다. 2006년에 홍콩에서 설립되었고 홍콩 증권거래소에 상장된 YesAsia Holdings(2209.HK) 소속입니다.",
           "YesStyle 제품은 정품인가요, 가품인가요? YesStyle은 400개가 넘는 한국 뷰티 브랜드의 공식 판매업체이며 제조사 또는 제조사가 인정한 유통업체에서 매입한다고 밝힙니다. 이 주장을 뒷받침하는 독립적인 감사는 없으니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요.",
           "YesStyle 배송은 얼마나 걸리나요? 결제 전에 체크아웃에서 확인할 수 있습니다. 기간을 세는 방법은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
-          "YesStyle은 수입 세금을 부과하나요? 소포가 도착할 때 세금이 부과될 수 있습니다. YesStyle은 1,000달러 미만 주문의 수입 세금과 통관 수수료를 매장 크레딧으로 환급합니다.",
+          "YesStyle은 수입 세금을 부과하나요? 소포가 도착할 때 세금이 부과될 수 있습니다. YesStyle은 US$ 1,000 미만 주문의 수입 세금과 통관 수수료를 매장 크레딧으로 환급합니다.",
           "CECILIA010 코드를 쓰면 최종 가격이 달라지나요? 네. CECILIA010은 제휴 혜택으로 최대 5%(첫 구매 5%, 재구매 2%)의 추가 할인을 주며, 독자에게 추가 비용은 없습니다.",
           "YesStyle 반품은 어떻게 하나요? 반품은 고객 지원의 반품 승인 신청서(RMA)로 요청합니다. 개봉하지 않은 반품 가능 상품은 그 상품에 적용되는 정책에 따라 매장 크레딧 환급 또는 결제 취소로 반품할 수 있습니다.",
           "YesStyle은 어떤 결제 수단을 지원하나요? 해외 결제 신용카드, PayPal, 일부 국가에서는 현지 전자지갑을 지원합니다. 모든 주문은 USD로 처리됩니다.",
@@ -40918,7 +40934,7 @@ export const reviewsData: unknown[] = [
     "locale": "ja",
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
-    "imageAlt": "Abibの3商品（PDRNブースタークリーム、リップマスク、ハイドロゲルアイパッチ）とYesStyleのロゴを持つセシリア",
+    "imageAlt": "Abibの3商品（PDRNブースタークリーム、リップマスク、ハイドロゲルアイパッチ）とYesStyleのロゴを持つCecília",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -41116,7 +41132,7 @@ export const reviewsData: unknown[] = [
           "在商品頁面，確認品牌與商品名稱是否與品牌官網一致；",
           "在包裝盒上找到印刷的批號與有效期限，拆封前先確認有效期限；",
           "收到商品時檢查商品與外包裝的封條；",
-          "如果發現和宣傳不一樣，請先不要使用，並先聯絡 YesStyle 客服。"
+          "如果發現和宣傳不一樣，請不要使用，並先聯絡 YesStyle 客服。"
         ]
       },
       {
@@ -41135,7 +41151,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyle 值得信賴嗎？",
         "paragraphs": [
-          "值得，但照常檢查。YesStyle 來自香港，2006 年成立，由上市公司 YesAsia Holdings（2209.HK）控股。它自稱是 400 多個韓國美妝品牌的授權經銷商，但這項說法沒有獨立稽核。如果包裹被課稅，對 1,000 美元以下的訂單，店家會退還進口稅與清關費用。",
+          "值得信賴，但照常檢查。YesStyle 來自香港，2006 年成立，由上市公司 YesAsia Holdings（2209.HK）控股。它自稱是 400 多個韓國美妝品牌的授權經銷商，但這項說法沒有獨立稽核。如果包裹被課稅，對 1,000 美元以下的訂單，店家會退還進口稅與清關費用。",
           "實際做法：從 yesstyle.com 下單，在結帳頁面確認運費與配送時間，保留付款憑證，收到商品時檢查批號、有效期限與封條。"
         ]
       },
@@ -41154,9 +41170,9 @@ export const reviewsData: unknown[] = [
           "YesStyle 是哪裡的公司？ 來自香港：公司 2006 年在香港成立，隸屬於在香港交易所上市的 YesAsia Holdings（2209.HK）。",
           "YesStyle 的商品是正品還是仿冒品？ YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷商。這項說法沒有獨立稽核；收到商品時請檢查批號、有效期限與封條。",
           "YesStyle 配送要多久？ 付款前可在結帳頁面看到。時間如何計算，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
-          "YesStyle 會收進口稅嗎？ 包裹到貨時可能被課徵進口稅。YesStyle 對 1,000 美元以下的訂單退還進口稅與清關費用，以店鋪點數的形式退還。",
+          "YesStyle 會收進口稅嗎？ 包裹到貨時可能被課徵進口稅。YesStyle 對 1,000 美元以下的訂單退還進口稅與清關費用，以店鋪餘額的形式退還。",
           "CECILIA010 會改變商品的最終價格嗎？ 會。CECILIA010 作為合作福利提供最多 5% 的額外優惠（首次購買 5%，回購 2%），不會增加讀者的花費。",
-          "YesStyle 如何退貨？ 退貨需透過客服的退貨授權表單（RMA）申請。符合條件且未拆封的商品可以退貨，依該商品當時適用的政策，以店鋪點數或原路退款的方式退款。",
+          "YesStyle 如何退貨？ 退貨需透過客服的退貨授權表單（RMA）申請。符合條件且未拆封的商品可以退貨，依該商品當時適用的政策，以店鋪餘額或原路退款的方式退款。",
           "YesStyle 支援哪些付款方式？ 國際信用卡、PayPal，部分國家還有當地電子錢包。所有訂單都以美元（USD）處理。",
           "在 YesStyle 輸入信用卡資料安全嗎？ 安全。網站使用安全的 HTTPS 連線，並透過經國際認證的支付閘道處理付款。請不要在官方結帳頁面之外輸入敏感資料。",
           "YesStyle 的官方網域是什麼？ 官方網域是 yesstyle.com（網站上可切換語言）。請小心假網站與未經授權的轉售商。",
@@ -41278,7 +41294,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyle 值得信赖吗？",
         "paragraphs": [
-          "值得，但照常核对。YesStyle 来自香港，2006 年创立，由上市公司 YesAsia Holdings（2209.HK）控股。它自称是 400 多个韩国美妆品牌的授权经销商，但这一说法没有独立审核。如果包裹被征税，对 1000 美元以下的订单，店家会退还进口税和清关费用。",
+          "值得信赖，但照常核对。YesStyle 来自香港，2006 年创立，由上市公司 YesAsia Holdings（2209.HK）控股。它自称是 400 多个韩国美妆品牌的授权经销商，但这一说法没有独立审核。如果包裹被征税，对 1000 美元以下的订单，店家会退还进口税和清关费用。",
           "实际操作：通过 yesstyle.com 下单，在结账页面确认运费和配送时间，保留付款凭证，收货时核对批号、有效期和封条。"
         ]
       },
@@ -41297,9 +41313,9 @@ export const reviewsData: unknown[] = [
           "YesStyle 是哪里的公司？ 来自香港：公司 2006 年在香港创立，隶属于在香港交易所上市的 YesAsia Holdings（2209.HK）。",
           "YesStyle 的商品是正品还是仿冒品？ YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销商。这一说法没有独立审核；收货时请核对批号、有效期和封条。",
           "YesStyle 配送要多久？ 付款前可在结账页面看到。时间怎么计算，见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
-          "YesStyle 会收进口税吗？ 包裹到货时可能被征收进口税。YesStyle 对 1000 美元以下的订单退还进口税和清关费用，以店铺积分的形式退还。",
+          "YesStyle 会收进口税吗？ 包裹到货时可能被征收进口税。YesStyle 对 1000 美元以下的订单退还进口税和清关费用，以店铺余额的形式退还。",
           "CECILIA010 会改变商品的最终价格吗？ 会。CECILIA010 作为合作福利提供最高 5% 的额外优惠（首次购买 5%，回购 2%），不会给读者增加费用。",
-          "YesStyle 怎么退货？ 退货需通过客服的退货授权表（RMA）申请。符合条件且未拆封的商品可以退货，按该商品当时适用的政策，以店铺积分或原路退款的方式退款。",
+          "YesStyle 怎么退货？ 退货需通过客服的退货授权表（RMA）申请。符合条件且未拆封的商品可以退货，按该商品当时适用的政策，以店铺余额或原路退款的方式退款。",
           "YesStyle 支持哪些付款方式？ 国际信用卡、PayPal，部分国家还有本地电子钱包。所有订单都以美元（USD）处理。",
           "在 YesStyle 输入银行卡信息安全吗？ 安全。网站使用安全的 HTTPS 连接，并通过经国际认证的支付网关处理付款。请不要在官方结账页面之外输入敏感信息。",
           "YesStyle 的官方域名是什么？ 官方域名是 yesstyle.com（网站上可切换语言）。请小心假网站和未经授权的转售商。",
@@ -42989,7 +43005,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions about K-Beauty",
         "bullets": [
           "Is K-Beauty the same as J-Beauty (Japanese beauty)? No, although the two terms often appear together. K-Beauty and J-Beauty share a strong emphasis on skincare, but the philosophies tend to differ: J-Beauty is usually associated with a more functional minimalism and with sun protection as the foundation of everything, while K-Beauty is better known for multi-layer layering and constant ingredient innovation. In practice, you can combine the two: YesStyle itself carries well-known Japanese brands like Hada Labo and Rohto alongside the Korean ones.",
-          "Does YesStyle sell original products? In its corporate information, the company states that it is an authorized distributor, buying directly from manufacturers or official partners, and it is a subsidiary of a publicly listed company (YesAsia Holdings), which brings a level of corporate transparency above a standalone reseller. Even so, it is always worth checking the authenticity and warranty policy on the official site before buying. If you want to go deeper on this point, we have a full analysis of the store's trustworthiness linked below.",
+          "Does YesStyle sell authentic products? In its corporate information, the company states that it is an authorized distributor, buying directly from manufacturers or official partners, and it is a subsidiary of a publicly listed company (YesAsia Holdings), which brings a level of corporate transparency above a standalone reseller. Even so, it is always worth checking the authenticity and warranty policy on the official site before buying. If you want to go deeper on this point, we have a full analysis of the store's trustworthiness linked below.",
           "Does the CECILIA010 code work for K-Beauty products too? Yes, it is a general store reward code, not restricted to one category: it applies to Korean skincare as well as fashion and other items in the catalog. Even so, it is always good to check in the cart that the discount was applied correctly before placing the order.",
           "Where do I start if I've never used K-Beauty? Brands with wide international availability, such as COSRX, Innisfree, Beauty of Joseon, Anua, Etude House and Some By Mi, tend to be good entry points. A common strategy for beginners is to try one product at a time (a gentle cleanser, a toner, an essence) instead of switching the whole routine at once, which helps you notice how your skin responds to each new addition.",
           "Is every K-Beauty ingredient suitable for every skin type? Not necessarily: this is true of any skincare product, not just K-Beauty. Popular ingredients like niacinamide and centella asiatica are usually well tolerated by most people, but “most” is not “everyone.” If you have sensitive or reactive skin, it pays to read the ingredient list, avoid what you already know causes a reaction, test a new product on a small area before applying it to your whole face and, if in doubt, consult a dermatologist before starting a new routine."
@@ -43085,7 +43101,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "En las calles de Corea, los lanzamientos de K-Beauty se vuelven escaparate, y parte del atractivo para quien visita el país.",
         "imageFit": "cover",
         "paragraphs": [
-          "Tres factores impulsaron la ola: los k-dramas y el k-pop, el ritmo de lanzamientos y internet.",
+          "Tres factores impulsaron la ola: los k-dramas y el k-pop, el ritmo de lanzamientos e internet.",
           "El primero es la influencia cultural de los k-dramas y el k-pop. Ambos fenómenos conquistaron enormes audiencias globales y funcionan como una vitrina viva de la cultura de belleza coreana: cuando las escenas de las series muestran a los personajes en sus rutinas de skincare en casa, o cuando los artistas de k-pop aparecen con la piel impecable en escenario tras escenario, la pregunta natural es «¿cómo lo hacen?». La respuesta casi siempre apunta a los productos que usan.",
           "El segundo factor es la propia cultura de las marcas coreanas de belleza. A diferencia de las industrias que se acomodan en un catálogo estable durante años, las marcas coreanas de skincare mantienen un ritmo de lanzamientos y de innovación en ingredientes que llama la atención a nivel internacional: cada mes aparecen nuevos séruns, nuevos activos, nuevos formatos de mascarilla. Combinado con precios generalmente más competitivos que los de las marcas de lujo occidentales con propuestas parecidas, eso creó la percepción de que la tecnología de skincare más nueva del mundo está saliendo de Corea.",
           "El tercer factor es puramente de internet: las comunidades de entusiastas del skincare crecieron en plataformas como TikTok, YouTube y Reddit, los influencers empezaron a mostrar unboxings de productos coreanos con entusiasmo genuino, las reseñas se multiplicaron y la dinámica viral convirtió el K-Beauty de un interés de nicho en un fenómeno masivo.",
@@ -43136,7 +43152,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes sobre K-Beauty",
         "bullets": [
           "¿El K-Beauty es lo mismo que el J-Beauty (belleza japonesa)? No, aunque los dos términos aparecen juntos con frecuencia. K-Beauty y J-Beauty comparten un fuerte énfasis en el cuidado de la piel, pero las filosofías tienden a ser distintas: el J-Beauty suele asociarse a un minimalismo más funcional y a la protección solar como base de todo, mientras que el K-Beauty es más conocido por el layering en varias capas y la innovación constante de ingredientes. En la práctica, se pueden combinar: la propia YesStyle reúne marcas japonesas conocidas como Hada Labo y Rohto junto a las coreanas.",
-          "¿YesStyle vende productos originales? La empresa declara en su información corporativa ser distribuidora autorizada, que compra directamente a los fabricantes o a socios oficiales, y es subsidiaria de una empresa que cotiza en bolsa (YesAsia Holdings), lo que aporta un nivel de transparencia corporativa superior al de un revendedor suelto. Aun así, conviene siempre revisar la política de autenticidad y garantía en el sitio oficial antes de comprar. Si quieres profundizar en este punto, tenemos un análisis completo sobre la confiabilidad de la tienda enlazado abajo.",
+          "¿YesStyle vende productos originales? La empresa declara en su información corporativa ser distribuidora autorizada, que compra directamente a los fabricantes o a socios oficiales, y es subsidiaria de una empresa que cotiza en bolsa (YesAsia Holdings), lo que aporta un nivel de transparencia corporativa superior al de un revendedor independiente. Aun así, conviene siempre revisar la política de autenticidad y garantía en el sitio oficial antes de comprar. Si quieres profundizar en este punto, tenemos un análisis completo sobre la confiabilidad de la tienda enlazado abajo.",
           "¿El código CECILIA010 sirve también para productos de K-Beauty? Sí, es un código de recompensa general de la tienda, no restringido a una categoría específica: vale tanto para skincare coreano como para moda y otros artículos del catálogo. Aun así, siempre es buena idea comprobar en el carrito que el descuento se aplicó correctamente antes de cerrar el pedido.",
           "¿Por dónde empiezo si nunca usé K-Beauty? Las marcas con gran disponibilidad internacional, como COSRX, Innisfree, Beauty of Joseon, Anua, Etude House y Some By Mi, suelen ser buenos puntos de entrada. Una estrategia común para quien empieza es probar un producto a la vez (un limpiador suave, un tónico, una esencia) en lugar de cambiar toda la rutina de golpe, lo que ayuda a notar cómo responde la piel a cada novedad.",
           "¿Todo ingrediente K-Beauty sirve para cualquier tipo de piel? No necesariamente: eso vale para cualquier producto de skincare, no solo para el K-Beauty. Ingredientes populares como la niacinamida y la centella asiática suelen ser bien tolerados por la mayoría de las personas, pero «la mayoría» no es «todo el mundo». Quien tiene la piel sensible o reactiva hace bien en leer la lista de ingredientes, evitar lo que ya sabe que le causa reacción, probar un producto nuevo en una zona pequeña antes de aplicarlo en todo el rostro y, si tiene dudas, consultar a un dermatólogo antes de empezar una rutina nueva."
@@ -43201,7 +43217,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "La K-Beauty, c’est la routine coréenne de skincare en plusieurs couches, connue pour son rythme de lancements. Hors de Corée, le plus dur est d’acheter : les marques vendent sur des sites séparés, avec des frais de port à répéter. YesStyle en réunit beaucoup dans un seul panier ; voyez « Où YesStyle intervient » pour savoir comment ça marche."
+          "La K-Beauty, c’est la routine coréenne de skincare en plusieurs couches, connue pour son rythme de lancements. Hors de Corée, le plus dur est d’acheter : les marques vendent sur des sites séparés, avec des frais de port répétés. YesStyle en réunit beaucoup dans un seul panier ; voyez « Où YesStyle intervient » pour savoir comment ça marche."
         ]
       },
       {
@@ -43245,7 +43261,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Si la K-Beauty est si importante, pourquoi n’est-elle pas aussi simple à trouver dans un centre commercial ou une pharmacie ? La réponse tient à la distribution.",
           "La plupart des marques coréennes de skincare n’ont pas de boutiques propres dans une bonne partie du monde. Une marque connue à l’international peut ne vendre officiellement que par l’e-commerce coréen ou par quelques distributeurs agréés sur des marchés précis. Cela pose un vrai problème à qui veut composer une routine complète : disons un nettoyant, une lotion tonique, un sérum et une crème, chacun d’une marque différente.",
-          "L’alternative devient plusieurs paiements, des frais de port répétés, des livraisons à des dates différentes, le change et les taxes d’importation. Vérifiez la règle en vigueur dans votre région avant d’acheter.",
+          "L’alternative devient plusieurs commandes, des frais de port répétés, des livraisons à des dates différentes, le change et les taxes d’importation. Vérifiez la règle en vigueur dans votre région avant d’acheter.",
           "Pour beaucoup de gens, c’est ce tracas, et non le prix ni la qualité, qui décourage d’essayer. Naviguer sur plusieurs sites dans des langues différentes, payer plusieurs fois l’expédition internationale et ne pas avoir un seul endroit pour suivre la commande, c’est fatigant.",
           "De plus, toutes les marques coréennes ne vendent pas directement hors d’Asie. Certaines ne vendent qu’en Corée, ce qui pousse à recourir à des revendeurs tiers, pas toujours fiables, ou à des services de réexpédition postale internationale, qui ajoutent du coût et des délais."
         ],
@@ -43283,10 +43299,10 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes sur la K-Beauty",
         "bullets": [
           "La K-Beauty est-elle la même chose que la J-Beauty (beauté japonaise) ? Non, même si les deux termes apparaissent souvent ensemble. K-Beauty et J-Beauty partagent un fort accent sur les soins de la peau, mais leurs philosophies tendent à différer : la J-Beauty est généralement associée à un minimalisme plus fonctionnel et à la protection solaire comme base de tout, tandis que la K-Beauty est mieux connue pour le layering en plusieurs couches et l’innovation constante sur les ingrédients. En pratique, on peut combiner les deux : YesStyle réunit elle-même des marques japonaises connues comme Hada Labo et Rohto aux côtés des marques coréennes.",
-          "YesStyle vend-elle des produits originaux ? L’entreprise déclare dans ses informations corporatives être distributeur agréé, achetant directement auprès des fabricants ou de partenaires officiels, et elle est filiale d’une société cotée en bourse (YesAsia Holdings), ce qui apporte un niveau de transparence d’entreprise supérieur à celui d’un revendeur isolé. Il reste toujours utile de vérifier la politique d’authenticité et de garantie directement sur le site officiel avant d’acheter. Si vous voulez approfondir ce point, nous avons une analyse complète de la fiabilité de la boutique, liée ci-dessous.",
+          "YesStyle vend-elle des produits authentiques ? L’entreprise déclare dans ses informations corporatives être distributeur agréé, achetant directement auprès des fabricants ou de partenaires officiels, et elle est filiale d’une société cotée en bourse (YesAsia Holdings), ce qui apporte un niveau de transparence d’entreprise supérieur à celui d’un revendeur isolé. Il reste toujours utile de vérifier la politique d’authenticité et de garantie directement sur le site officiel avant d’acheter. Si vous voulez approfondir ce point, nous avons une analyse complète de la fiabilité de la boutique, liée ci-dessous.",
           "Le code CECILIA010 fonctionne-t-il aussi pour les produits de K-Beauty ? Oui, c’est un code de récompense général de la boutique, non limité à une catégorie précise : il vaut aussi bien pour le skincare coréen que pour la mode et les autres articles du catalogue. Il reste toujours bon de vérifier dans le panier que la réduction a bien été appliquée avant de valider la commande.",
           "Par où commencer si je n’ai jamais utilisé de K-Beauty ? Les marques très disponibles à l’international, comme COSRX, Innisfree, Beauty of Joseon, Anua, Etude House et Some By Mi, sont en général de bons points d’entrée. Une stratégie courante pour débuter est d’essayer un produit à la fois (un nettoyant doux, une lotion tonique, une essence) plutôt que de changer toute la routine d’un coup, ce qui aide à voir comment la peau réagit à chaque nouveauté.",
-          "Tout ingrédient K-Beauty convient-il à tous les types de peau ? Pas nécessairement : c’est vrai pour tout produit de skincare, pas seulement la K-Beauty. Des ingrédients populaires comme la niacinamide et la centella asiatica sont en général bien tolérés par la plupart des gens, mais « la plupart » ne veut pas dire « tout le monde ». Qui a la peau sensible ou réactive fait bien de lire la liste des ingrédients, d’éviter ce qu’il sait déjà provoquer une réaction, de tester un nouveau produit sur une petite zone avant de l’appliquer sur tout le visage et, en cas de doute, de consulter un dermatologue avant de commencer une nouvelle routine."
+          "Tout ingrédient K-Beauty convient-il à tous les types de peau ? Pas nécessairement : c’est vrai pour tout produit de skincare, pas seulement la K-Beauty. Des ingrédients populaires comme la niacinamide et la centella asiatica sont en général bien tolérés par la plupart des gens, mais « la plupart » ne veut pas dire « tout le monde ». Quiconque a la peau sensible ou réactive fait bien de lire la liste des ingrédients, d’éviter ce qu’il sait déjà provoquer une réaction, de tester un nouveau produit sur une petite zone avant de l’appliquer sur tout le visage et, en cas de doute, de consulter un dermatologue avant de commencer une nouvelle routine."
         ]
       }
     ],
@@ -43486,7 +43502,7 @@ export const reviewsData: unknown[] = [
     "locale": "ko",
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/cupons/k-beauty-o-que-e-capa-discover.webp",
-    "imageAlt": "세실리아가 Abib의 한국 제품 세 가지를 사용하는 모습: 튜브형 크림, 하이드로겔 아이 패치, 립 마스크",
+    "imageAlt": "Cecília가 Abib의 한국 제품 세 가지를 사용하는 모습: 튜브형 크림, 하이드로겔 아이 패치, 립 마스크",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -43523,14 +43539,14 @@ export const reviewsData: unknown[] = [
         "heading": "K-뷰티는 왜 세계적인 트렌드가 되었을까",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "'Find the Latest K-Beauty Hype'라는 간판이 걸린 한국 뷰티 매장의 진열대",
-        "imageCaption": "한국 거리에서는 K-뷰티 신제품이 곧 쇼윈도가 되고, 이 나라를 찾는 사람들에게는 그것도 매력의 하나입니다.",
+        "imageCaption": "한국 거리에서는 K-뷰티 신제품이 곧 쇼윈도가 되고, 한국을 찾는 사람들에게는 그것도 매력의 하나입니다.",
         "imageFit": "cover",
         "paragraphs": [
           "이 흐름을 밀어 올린 요인은 세 가지입니다. K-드라마와 K-팝, 신제품이 나오는 속도, 그리고 인터넷입니다.",
           "첫째는 K-드라마와 K-팝의 문화적 영향력입니다. 둘 다 전 세계에서 엄청난 팬층을 얻었고, 한국 뷰티 문화를 보여 주는 살아 있는 쇼윈도 역할을 합니다. 드라마 속 인물이 집에서 스킨케어를 하는 장면이 나오거나, K-팝 아티스트가 무대마다 흠잡을 데 없는 피부로 등장하면 '어떻게 관리하는 거지?'라는 궁금증이 자연스럽게 생깁니다. 그 답은 대개 그들이 쓰는 제품으로 이어집니다.",
           "둘째는 한국 뷰티 브랜드 자체의 문화입니다. 몇 년씩 안정적인 카탈로그에 머무는 업계와 달리, 한국 스킨케어 브랜드는 신제품 출시와 성분 혁신의 속도를 유지해 해외에서도 주목받습니다. 매달 새 세럼, 새 활성 성분, 새 마스크 제형이 나옵니다. 비슷한 콘셉트의 서구 럭셔리 브랜드보다 가격이 대체로 합리적이라는 점까지 더해져, 세계에서 가장 새로운 스킨케어 기술이 한국에서 나온다는 인식이 생겼습니다.",
           "셋째는 순전히 인터넷의 힘입니다. 틱톡, 유튜브, 레딧 같은 플랫폼에서 스킨케어 애호가 커뮤니티가 커졌고, 인플루언서들이 한국 제품 언박싱을 진심 어린 열정으로 보여 주기 시작했고, 후기가 늘어났으며, 이 바이럴이 K-뷰티를 소수의 관심사에서 주류 현상으로 바꿔 놓았습니다.",
-          "결국 이야기는 이해하기 쉽고, 그래서 이렇게 빨리 퍼졌습니다. 지구 반대편에 피부 관리 혁신에 푹 빠진 산업이 통째로 있고, 이제는 온라인으로 그것을 접할 수 있다는 이야기입니다."
+          "결국 이야기는 이해하기 쉽고, 그래서 이렇게 빨리 퍼졌습니다. 한국에는 피부 관리 혁신에 푹 빠진 산업이 통째로 있고, 이제는 온라인으로 그것을 접할 수 있다는 이야기입니다."
         ],
         "bullets": []
       },
@@ -43541,7 +43557,7 @@ export const reviewsData: unknown[] = [
           "한국 스킨케어 브랜드 대부분은 세계 여러 곳에 자체 매장이 없습니다. 국제적으로 알려진 브랜드도 공식 판매처가 한국 이커머스나 특정 시장의 소수 공인 유통사뿐일 수 있습니다. 클렌저, 토너, 세럼, 크림을 각각 다른 브랜드로 골라 루틴 한 벌을 갖추려는 사람에게는 이것이 실제 문제입니다.",
           "대안은 결제를 여러 번 하고, 배송비가 반복되고, 도착 날짜가 제각각이고, 환율과 수입 세금이 붙는 것입니다. 구매 전에 거주 지역에 지금 적용되는 규정을 확인하세요.",
           "많은 사람에게 시도를 망설이게 하는 건 가격이나 품질이 아니라 이 번거로움입니다. 언어가 다른 여러 사이트를 돌아다니고, 국제 배송비를 여러 번 내고, 주문 상태를 한곳에서 볼 수 없는 것은 피곤한 일입니다.",
-          "게다가 모든 한국 브랜드가 아시아 밖으로 직접 판매하는 것은 아닙니다. 한국 내에서만 파는 곳도 있어서, 믿을 만하다고 할 수 없는 제3의 재판매업자에게 가거나 추가 비용과 시간이 드는 국제 배송 대행 서비스를 쓰게 됩니다."
+          "게다가 모든 한국 브랜드가 아시아 밖으로 직접 판매하는 것은 아닙니다. 한국 내에서만 파는 곳도 있어서, 믿을 만하다고 할 수 없는 제3의 재판매업자를 통하거나 추가 비용과 시간이 드는 국제 배송 대행 서비스를 쓰게 됩니다."
         ],
         "bullets": []
       },
@@ -43633,7 +43649,7 @@ export const reviewsData: unknown[] = [
     "locale": "ja",
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/cupons/k-beauty-o-que-e-capa-discover.webp",
-    "imageAlt": "Abibの韓国コスメ3点を使うセシリア：チューブ入りクリーム、ハイドロゲルのアイパッチ、リップマスク",
+    "imageAlt": "Abibの韓国コスメ3点を使うCecília：チューブ入りクリーム、ハイドロゲルのアイパッチ、リップマスク",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -43677,7 +43693,7 @@ export const reviewsData: unknown[] = [
           "1つ目は、K-ドラマとK-POPの文化的な影響力です。どちらも世界中で大勢のファンを獲得し、韓国の美容文化を映すショーケースのような役割を果たしています。ドラマの中で登場人物が自宅でスキンケアをする場面が映ったり、K-POPのアーティストがステージのたびに非の打ちどころのない肌で登場したりすれば、「どうやってるの？」と思うのは自然なことです。その答えは、たいてい彼らが使っている製品に行き着きます。",
           "2つ目は、韓国の美容ブランドそのものの文化です。何年も変わらないラインナップに安住する業界とは違い、韓国のスキンケアブランドは、新作の発売と成分のイノベーションを絶えず続けていて、海外からも注目されています。毎月のように新しい美容液、新しい有効成分、新しい形のマスクが登場します。似たコンセプトの欧米のラグジュアリーブランドより価格が手頃なことが多い点も重なり、世界最新のスキンケア技術は韓国から生まれている、という印象が定着しました。",
           "3つ目は、まったくインターネットならではの要因です。TikTok、YouTube、Redditなどでスキンケア好きのコミュニティが育ち、インフルエンサーが韓国コスメの開封動画を心から楽しそうに紹介するようになり、レビューも増えました。そのバイラルな広がりが、K-Beautyを一部の人の趣味からメインストリームの現象に変えたのです。",
-          "結局のところ、この話は分かりやすく、だからこそ急速に広まりました。地球の反対側に、スキンケアのイノベーションに情熱を注ぐ産業がまるごと存在し、今ではオンラインでそこにアクセスできるのです。"
+          "結局のところ、この話は分かりやすく、だからこそ急速に広まりました。韓国には、スキンケアのイノベーションに情熱を注ぐ産業がまるごと存在し、今ではオンラインでそこにアクセスできるのです。"
         ],
         "bullets": []
       },
@@ -43724,7 +43740,7 @@ export const reviewsData: unknown[] = [
         "heading": "K-Beautyについてよくある質問",
         "bullets": [
           "K-BeautyとJ-Beauty（日本の美容）は同じものですか？ いいえ。ただし、この2つはよく並べて語られます。どちらもスキンケアを重視しますが、考え方には違いがあります。J-Beautyは、機能的なミニマリズムと、日焼け止めをすべての土台とする考え方で語られることが多く、K-Beautyは何層も重ねるレイヤリングと、成分の絶え間ない革新で知られています。実際には両方を組み合わせることもでき、YesStyleにはHada LaboやRohtoといった日本の有名ブランドも、韓国ブランドと並んで揃っています。",
-          "YesStyleは本物の製品を販売していますか？ 同社は企業情報の中で、メーカーまたは公式パートナーから直接仕入れる正規代理店であると表明しています。また上場企業（YesAsia Holdings）の子会社であるため、個人の転売業者よりも企業としての透明性は高いといえます。それでも、購入前には公式サイトで正規品の方針と保証を必ず確認してください。この点を詳しく知りたい方のために、ストアの信頼性についての詳しい分析を下にリンクしてあります。",
+          "YesStyleは本物の製品を販売していますか？ 同社は企業情報の中で、メーカーまたは公式パートナーから直接仕入れる正規代理店であると表明しています。また上場企業（YesAsia Holdings）の子会社であるため、一般の個人販売業者よりも企業としての透明性は高いといえます。それでも、購入前には公式サイトで正規品の方針と保証を必ず確認してください。この点を詳しく知りたい方のために、ストアの信頼性についての詳しい分析を下にリンクしてあります。",
           "CECILIA010コードはK-Beauty製品にも使えますか？ はい。このコードは特定のカテゴリーに限らない、ストア全体のリワードコードで、韓国スキンケアにもファッションなどカタログ内のほかの商品にも使えます。それでも、注文を確定する前に、カートで割引が正しく適用されているか必ず確認してください。",
           "K-Beautyを使ったことがない場合、何から始めればいいですか？ COSRX、Innisfree、Beauty of Joseon、Anua、Etude House、Some By Miなど、海外でも入手しやすいブランドが入りやすい選択肢です。始めたばかりの人によくある方法は、ルーティン全体を一度に変えるのではなく、1つずつ（やさしいクレンザー、トナー、エッセンスなど）試すことです。そうすれば、新しい製品ごとに肌がどう反応するかが分かりやすくなります。",
           "K-Beautyの成分は、どんな肌質にも合いますか？ 必ずしもそうではありません。これはK-Beautyに限らず、どんなスキンケア製品にも言えることです。ナイアシンアミドやツボクサのような人気の成分は、多くの人に問題なく使えるのが一般的ですが、「多くの人」は「全員」ではありません。敏感肌や刺激を受けやすい肌の方は、成分表を読み、すでに反応が出ると分かっているものを避け、新しい製品は顔全体に塗る前に小さな範囲で試し、迷ったときは新しいルーティンを始める前に皮膚科医に相談するのが賢明です。"
@@ -43824,7 +43840,7 @@ export const reviewsData: unknown[] = [
           "第一個是韓劇與韓國流行音樂的文化影響力。這兩者都贏得了龐大的全球觀眾，也成了韓國美妝文化的活招牌：當劇中角色在家做保養的場景出現，或是韓國流行音樂藝人一場接一場的舞台上都肌膚無瑕，大家自然會問：「他們是怎麼做到的？」答案幾乎總是指向他們用的產品。",
           "第二個因素是韓國美妝品牌本身的文化。有些產業會在多年不變的產品線中安於現狀，韓國保養品牌卻不同，它們維持著新品推出與成分創新的步調，受到國際關注：每個月都有新的精華液、新的活性成分、新的面膜形式出現。再加上價格通常比定位相近的西方精品品牌更有競爭力，讓人形成這樣的印象：全球最新的保養技術正是來自韓國。",
           "第三個因素純粹來自網路：TikTok、YouTube 和 Reddit 等平台上，保養愛好者社群不斷壯大，網紅們以真誠的熱情分享韓國產品的開箱，評價越來越多，病毒式傳播讓 K-Beauty 從小眾興趣變成了主流現象。",
-          "說到底，這個故事很容易理解，所以才傳得這麼快：世界的另一端有一整個熱衷於保養創新的產業，而如今，在網路上就能接觸到它。"
+          "說到底，這個故事很容易理解，所以才傳得這麼快：韓國有一整個熱衷於保養創新的產業，而如今，在網路上就能接觸到它。"
         ],
         "bullets": []
       },
@@ -43971,7 +43987,7 @@ export const reviewsData: unknown[] = [
           "第一个是韩剧和韩国流行音乐的文化影响力。这两者都赢得了庞大的全球观众，也成了韩国美妆文化的活橱窗：当剧中人物在家做护肤的场景出现，或者韩国流行音乐艺人一场接一场舞台上都肌肤无瑕，人们自然会问：“他们是怎么做到的？”答案几乎总是指向他们用的产品。",
           "第二个因素是韩国美妆品牌自身的文化。有些行业会在多年不变的产品线里安于现状，韩国护肤品牌则不同，它们保持着新品推出和成分创新的节奏，受到国际关注：每个月都有新精华液、新活性成分、新面膜形态出现。再加上价格通常比定位相近的西方奢侈品牌更有竞争力，让人形成了这样的印象：全球最新的护肤技术正来自韩国。",
           "第三个因素纯粹来自互联网：TikTok、YouTube 和 Reddit 等平台上，护肤爱好者社群不断壮大，博主们以真诚的热情展示韩国产品的开箱，测评越来越多，病毒式传播让 K-Beauty 从小众兴趣变成了主流现象。",
-          "归根结底，这个故事很容易理解，所以传播得这么快：世界的另一端有一整个对护肤创新着迷的产业，而如今，在线上就能接触到它。"
+          "归根结底，这个故事很容易理解，所以传播得这么快：韩国有一整个对护肤创新着迷的产业，而如今，在线上就能接触到它。"
         ],
         "bullets": []
       },
@@ -47811,7 +47827,7 @@ export const reviewsData: unknown[] = [
       "Koreanische Produkte, die YesStyle selbst verkauft und deren Originalität der Shop erklärt, mit CECILIA010 als zusätzlichem Rabatt im Feld Reward Code"
     ],
     "cons": [
-      "PDRN und Retinal wirken langsam: Erwarte in der ersten Woche keinen sichtbaren Unterschied",
+      "PDRN und Retinal wirken langsam: Erwarten Sie in der ersten Woche keinen sichtbaren Unterschied",
       "Retinal verlangt tagsüber Sonnenschutz: Wer wie ich noch nie welchen benutzt hat, muss damit anfangen",
       "Beim ersten Mal war ich unsicher, welche Seite des Patches die richtige ist",
       "Internationaler Kauf: Die Lieferzeit ist länger als bei einem lokalen Shop"
@@ -47939,12 +47955,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "PDRN und Retinal ohne Geheimnis: warum der Effekt sanft ist",
         "paragraphs": [
-          "Das Entscheidende bei koreanischer Hautpflege ist, dass die Produkte für die langfristige Anwendung gedacht sind. Mädel, du bist gerade 30 geworden: Das ist erst der Anfang. Für den Rest des Lebens brauchst du eine Hautpflegeroutine.",
+          "Das Entscheidende bei koreanischer Hautpflege ist, dass die Produkte für die langfristige Anwendung gedacht sind. Sie sind gerade 30 geworden: Das ist erst der Anfang. Für den Rest des Lebens brauchen Sie eine Hautpflegeroutine.",
           "Im Video habe ich von Retinsäure gesprochen, aber der richtige Name des Inhaltsstoffs im Patch und in der Creme ist Retinal (oder Retinaldehyd). Er ist ein Derivat von Vitamin A, aus derselben Familie wie Retinol, und die Haut wandelt ihn in Retinsäure um. Die Wirkung ist schrittweiser, deshalb werde ich nicht gleich anfangen zu schuppen, nur weil ich ihn benutze.",
           "PDRN ist ein Inhaltsstoff aus DNA-Fragmenten, der in koreanischer Kosmetik zum Hype geworden ist; Abib setzt ihn in Produkten für mehr Straffheit ein. Bei der Lippenmaske gibt Abib an, dass das PDRN aus Centella asiatica und Ginkgo biloba stammt."
         ],
         "bullets": [
-          "Sanfter Effekt: Erwarte weder am ersten Tag noch in der ersten Woche eine Veränderung; der Nutzen kommt mit Regelmäßigkeit;",
+          "Sanfter Effekt: Erwarten Sie weder am ersten Tag noch in der ersten Woche eine Veränderung; der Nutzen kommt mit Regelmäßigkeit;",
           "Sonnenschutz tagsüber: Wer abends Retinal benutzt, braucht tagsüber Sonnenschutz. Für jemanden, der wie ich noch nie welchen benutzt hat, ist das die erste Gewohnheit, die man aufbauen muss;",
           "Schwangerschaft und Stillzeit: Vitamin-A-Derivate erfordern vor der Anwendung ärztlichen Rat;",
           "Empfindliche Haut: Wenn es brennt oder sich rötet, seltener anwenden und eine Hautärztin oder einen Hautarzt aufsuchen."
@@ -47956,7 +47972,7 @@ export const reviewsData: unknown[] = [
           "Die Reihenfolge aus dem Video passt in einen ganz normalen Abend, ohne den Zehn-Schritte-Marathon, den das Internet mit koreanischer Hautpflege verbindet:"
         ],
         "bullets": [
-          "Schritt 1, Augen: Bei sauberem Gesicht legen Sie ich den Hydrogel-Patch unter die Augen;",
+          "Schritt 1, Augen: Bei sauberem Gesicht lege ich den Hydrogel-Patch unter die Augen;",
           "Schritt 2, Gesicht und Hals: Während der Patch wirkt, klopfe ich die Booster Crème ein;",
           "Schritt 3, Lippen: eine Schicht der Lip Mask mit dem Spatel;",
           "Schritt 4, Patch abnehmen: nach 10 bis 15 Minuten, wie auf der Verpackung angegeben;",
@@ -47968,7 +47984,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Die drei Produkte verkauft YesStyle (prüfen Sie an der Kasse, ob der Versand für Ihre Adresse angezeigt wird). Die Preise werden in Dollar angegeben und der Versand ist international, daher dauert die Lieferung länger als bei einem lokalen Shop.",
           "Geben Sie an der Kasse den Code CECILIA010 im Feld Reward Code ein: Er gibt 5 % Rabatt auf den ersten Einkauf und 2 % auf die folgenden. Aktionscoupons kommen in das andere Feld, Coupon Code, und lassen sich mit CECILIA010 kombinieren, auch diese besonderen Coupons, die nur auf Ihr Konto kommen. Die aktiven Coupons des Shops finden Sie unter [YesStyle-Coupons und Reward Code](/de/coupons/yesstyle).",
-          "Zu den Steuern: YesStyle erstattet die Zollgebühren bei Bestellungen unter 1.000 US$ (Betrag vor den Coupons, ohne Versand). Wenn bei der Ankunft etwas verlangt wird, zahle, hebe den Beleg auf und schicke ihn innerhalb von 30 Tagen an den Kundenservice des Shops. Die Erstattung kommt als Guthaben bei YesStyle."
+          "Zu den Steuern: YesStyle erstattet die Zollgebühren bei Bestellungen unter 1.000 US$ (Betrag vor den Coupons, ohne Versand). Wenn bei der Ankunft etwas verlangt wird, zahlen Sie, heben Sie den Beleg auf und schicken Sie ihn innerhalb von 30 Tagen an den Kundenservice des Shops. Die Erstattung kommt als Guthaben bei YesStyle."
         ],
         "links": [
           {
@@ -48136,7 +48152,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Patch in idrogel per gli occhi: freschissima (e io l'ho messa al contrario)",
         "paragraphs": [
-          "Il primo impatto è il migliore: la patch è freschissima. Si presenta in un barattolo da 60 unità, e il marchio dice che la superficie texturizzata aiuta a non scivolare.",
+          "Il primo contatto è il migliore: la patch è freschissima. Si presenta in un barattolo da 60 unità, e il marchio dice che la superficie texturizzata aiuta a non scivolare.",
           "Confesso di aver messo male la prima. L'ho girata, rigirata, provata dall'altro lato e mi è sembrato che stesse meglio così, ma, sinceramente, non ho sentito differenza tra i due lati. Se anche tu non l'hai mai usata, niente paura: l'importante è che stia ben aderente sotto gli occhi, senza toccare l'occhio.",
           "Con il tempo, la patch diventa più sottile, come se stesse sparendo. Non significa che la pelle abbia assorbito tutto l'idrogel; è il gel che rilascia ciò che contiene mentre resta lì, chiuso, senza evaporare.",
           "La confezione indica di toglierla dopo 10-15 minuti. Nel video l'ho lasciata circa 20, perché stavo facendo il resto della routine. Segui l'etichetta. E non è fatta per dormirci."
@@ -48185,7 +48201,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Per ultima, la maschera labbra. Viene con una spatolina, e la consistenza è un gel, simile a quella della patch per gli occhi.",
           "Ha un profumino dolce, ma non stucchevole. Chi mi segue sa che ho problemi con gli odori forti, e questo non mi ha dato fastidio.",
-          "Il marchio indica di usare uno strato sottile durante il giorno, per luminosità e idratazione, oppure uno strato abbondante prima di dormire, come maschera notturna."
+          "Il marchio indica di usare uno strato sottile durante il giorno, per lucentezza e idratazione, oppure uno strato abbondante prima di dormire, come maschera notturna."
         ],
         "links": [
           {
@@ -48327,7 +48343,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
-    "imageAlt": "아비브 PDRN 부스터 크림, 하이드로겔 아이 패치, 립 마스크 상자를 들고 있는 세실리아 마우아드",
+    "imageAlt": "아비브 PDRN 부스터 크림, 하이드로겔 아이 패치, 립 마스크 상자를 들고 있는 Cecília",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
@@ -48419,7 +48435,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
-        "imageAlt": "분홍색 아비브 하이드로겔 패치를 들고, 다른 손에는 열린 통을 든 세실리아",
+        "imageAlt": "분홍색 아비브 하이드로겔 패치를 들고, 다른 손에는 열린 통을 든 Cecília",
         "imageCaption": "아비브 하이드로겔 패치는 60개들이 통에 담겨 있고, 피부에 닿으면 시원해요.",
         "imageFit": "cover"
       },
@@ -48441,7 +48457,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
-        "imageAlt": "아비브 PDRN Volume Fill-it Booster Crème 2.5 튜브를 들고 있는 세실리아",
+        "imageAlt": "아비브 PDRN Volume Fill-it Booster Crème 2.5 튜브를 들고 있는 Cecília",
         "imageCaption": "30 ml Booster Crème 2.5 튜브: 연고처럼 나와서 피부에 벨벳 같은 촉감을 남겨요.",
         "imageFit": "cover"
       },
@@ -48460,7 +48476,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
-        "imageAlt": "입술을 쭉 내밀고 아비브 Glazed Jelly 립 마스크 통을 들고 있는 세실리아",
+        "imageAlt": "입술을 쭉 내밀고 아비브 Glazed Jelly 립 마스크 통을 들고 있는 Cecília",
         "imageCaption": "11 g짜리 Lip Mask Glazed Jelly는 젤 질감에 달콤한 향이 나요.",
         "imageFit": "cover"
       },
@@ -48495,7 +48511,7 @@ export const reviewsData: unknown[] = [
         "heading": "구매처와 CECILIA010으로 아끼는 법",
         "paragraphs": [
           "세 제품 모두 YesStyle에서 팔아요(내 주소로 배송이 표시되는지 결제 화면에서 확인하세요). 가격은 달러로 표시되고 배송은 국제 배송이라서 가까운 쇼핑몰보다 배송 기간이 길어요.",
-          "결제할 때 Reward Code 칸에 CECILIA010 코드를 입력하세요. 첫 구매는 5%, 이후 구매는 2% 할인돼요. 프로모션 쿠폰은 다른 칸인 Coupon Code에 입력하고 CECILIA010과 함께 쓸 수 있어요. 내 계정으로만 오는 특별 쿠폰도 마찬가지예요. 쇼핑몰의 사용 가능한 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 모아 두었어요.",
+          "결제할 때 Reward Code 칸에 CECILIA010 코드를 입력하세요. 첫 구매는 5%, 이후 구매는 2% 할인돼요. 프로모션 쿠폰은 다른 칸인 Coupon Code에 입력하고 CECILIA010과 함께 쓸 수 있어요. 회원님 계정으로만 오는 특별 쿠폰도 마찬가지예요. 쇼핑몰의 사용 가능한 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 모아 두었어요.",
           "세금에 대해: YesStyle은 US$1,000 미만 주문(쿠폰 적용 전 금액, 배송비 제외)의 관세를 환급해 줘요. 도착했을 때 청구되면 납부하고 영수증을 보관했다가 30일 안에 쇼핑몰 고객센터로 보내세요. 환급은 YesStyle 크레딧으로 들어와요."
         ],
         "links": [
@@ -48590,7 +48606,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
-    "imageAlt": "Abibのブースター PDRNクリーム、ハイドロゲルアイパッチ、リップマスクの箱を持つセシリア・マウアド",
+    "imageAlt": "Abibのブースター PDRNクリーム、ハイドロゲルアイパッチ、リップマスクの箱を持つCecília",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
@@ -48619,7 +48635,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "ここまでは、何もしなくてもきれいでいられました。日焼け止めすら使ったことがなかった私も、30歳になって、ちゃんと向き合うことにしました。初めてのコリアンスキンケアのルーティンを組んだのです。",
           "YesStyleから届いたAbibの3点を使います。YesStyleは輸入コスメを扱うオンラインショップです。どれも韓国のブランドで、本物であることはショップ自身が明記しています。",
-          "この記事は、その3点との最初の出会いの記録です。この記事の動画に残してあります。つけ心地、テクスチャー、香り、パッチを外したときの感覚。肌の結果は、初日からお約束はできません。これから数週間使って、変化があったらまたここでお伝えします。"
+          "この記事は、その3点との最初の出会いの記録です。この記事の動画に残してあります。つけ心地、テクスチャー、香り、パッチを外したときの感覚。肌の結果は、初日からお約束はできません。これから数週間使って、何が変わったかまたここでお伝えします。"
         ]
       },
       {
@@ -48664,7 +48680,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ハイドロゲルのアイパッチ：ひんやり（そして私は裏表を間違えた）",
         "paragraphs": [
-          "最初の印象がいちばんいい：このパッチはひんやりしています。60枚入りのボトルに入っていて、ブランドによると、表面の凹凸が滑りにくくしてくれるそうです。",
+          "最初の印象がいちばんいい：このパッチはひんやりしています。60枚入りのジャーに入っていて、ブランドは表面の凹凸が滑りにくくすると説明しています。",
           "正直に言うと、最初の1枚は逆につけました。裏返して、また戻して、反対のほうがいいかなと思ったものの、正直なところ表と裏で違いは感じませんでした。初めての方も心配いりません。大切なのは、目に触れないように、目の下にぴったりなじませることです。",
           "時間がたつと、パッチはだんだん薄くなって、消えていくようになります。肌がハイドロゲルをすべて吸収したという意味ではありません。中身をゆっくり届けながら、蒸発せずにそこに密着している状態です。",
           "パッケージには10～15分で外すよう書かれています。動画では、ほかのケアをしていたので20分ほどつけていました。表示に従ってください。つけたまま寝るのもNGです。"
@@ -48682,8 +48698,8 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
-        "imageAlt": "ピンク色のAbibのハイドロゲルパッチを持つセシリア。もう片方の手には開けたボトル",
-        "imageCaption": "Abibのハイドロゲルパッチは60枚入りのボトルで、肌に触れるとひんやりします。",
+        "imageAlt": "ピンク色のAbibのハイドロゲルパッチを持つCecília。もう片方の手には開けたジャー",
+        "imageCaption": "Abibのハイドロゲルパッチは60枚入りのジャーで、肌に触れるとひんやりします。",
         "imageFit": "cover"
       },
       {
@@ -48704,7 +48720,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
-        "imageAlt": "Abib PDRN Volume Fill-it Booster Crème 2.5のチューブを持つセシリア",
+        "imageAlt": "Abib PDRN Volume Fill-it Booster Crème 2.5のチューブを持つCecília",
         "imageCaption": "30 mlのBooster Crème 2.5のチューブ：軟膏のように出てきて、肌はベルベットのような手ざわりに。",
         "imageFit": "cover"
       },
@@ -48723,7 +48739,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
-        "imageAlt": "唇をとがらせて、Abib Glazed Jellyのリップマスクのボトルを持つセシリア",
+        "imageAlt": "唇をとがらせて、Abib Glazed Jellyのリップマスクのジャーを持つCecília",
         "imageCaption": "11 gのLip Mask Glazed Jellyは、ジェルのテクスチャーで甘い香りがします。",
         "imageFit": "cover"
       },
@@ -48805,7 +48821,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "YesStyleでアビブの3アイテムをチェックして、Rewardコード欄にCECILIA010を入力しましょう",
+      "text": "YesStyleでアビブの3アイテムをチェックして、Reward Code欄にCECILIA010を入力しましょう",
       "label": "YesStyleでアビブの商品を見る",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -48852,7 +48868,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
-    "imageAlt": "西西莉亞·毛阿德手拿 Abib 的 PDRN 加強面霜、水凝膠眼膜貼與護唇膜的包裝盒",
+    "imageAlt": "Cecília 手拿 Abib 的 PDRN 加強面霜、水凝膠眼膜貼與護唇膜的包裝盒",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
@@ -48879,8 +48895,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "30 歲，我的第一套韓國保養流程",
         "paragraphs": [
-          "到目前為止，我們不用特別保養也挺漂亮的。我連防曬都沒擦過，卻已經 30 歲了，決定認真看待這件事：排出我的第一套韓國保養流程。",
-          "我收到了 YesStyle 寄來的三樣 Abib 產品。YesStyle 是一家販售進口化妝品的網路商店。這些都是韓國品牌，正品與否由商店自己聲明。",
+          "到目前為止，我們不用特別保養也挺漂亮的。我連防曬都沒擦過，卻已經 30 歲了，決定認真看待這件事：搭配出我的第一套韓國保養流程。",
+          "我收到了 YesStyle 寄來的三樣 Abib 產品。YesStyle 是一家販售進口化妝品的網路商店。這些都是韓國品牌，正品由商店自己聲明。",
           "這篇文章是我和這三樣產品的第一次接觸，記錄在本文的影片裡：怎麼貼、質地、味道，還有撕下眼膜貼時的感覺。肌膚效果第一天沒辦法保證。接下來幾週我會繼續用，有變化再回來告訴你。"
         ]
       },
@@ -48910,7 +48926,7 @@ export const reviewsData: unknown[] = [
               "PDRN Volume Fill-it Booster Crème 2.5 Tube",
               "緊緻與細紋",
               "30 ml",
-              "PDRN（15,000 ppm）、Volufiline（10,000 ppm）、視黃醛、胜肽",
+              "PDRN（15,000 ppm）、Volufiline（10,000 ppm）、視黃醛、勝肽",
               "塗在臉部與頸部，輕輕拍打"
             ],
             [
@@ -48926,7 +48942,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "水凝膠眼膜貼：涼涼的（而我貼反了）",
         "paragraphs": [
-          "第一印象最好：眼膜貼是涼的。它裝在一罐 60 片的罐子裡，品牌說表面的紋路有助於防滑。",
+          "第一印象最好：眼膜貼是涼的。它裝在一個 60 片的罐子裡，品牌說表面的紋路有助於防滑。",
           "老實說，第一片我貼反了。翻過來、翻回去，換個方向覺得好像比較服貼，但說真的，我沒感覺到兩面有差別。如果你也是第一次用，別擔心：重點是讓它服貼地貼在眼下，不要碰到眼睛。",
           "過一陣子，眼膜貼會越來越薄，像是快要不見了。這並不代表肌膚把水凝膠全部吸收了；而是凝膠貼在那裡、不蒸發，慢慢釋放裡面的成分。",
           "包裝上寫著 10 到 15 分鐘後取下。影片裡我因為在做其他步驟，貼了大約 20 分鐘。請依照標示。也不要貼著它睡覺。"
@@ -48944,7 +48960,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
-        "imageAlt": "西西莉亞一手拿著粉色的 Abib 水凝膠眼膜貼，另一手拿著打開的罐子",
+        "imageAlt": "Cecília 一手拿著粉色的 Abib 水凝膠眼膜貼，另一手拿著打開的罐子",
         "imageCaption": "Abib 水凝膠眼膜貼裝在 60 片的罐子裡，貼上肌膚時涼涼的。",
         "imageFit": "cover"
       },
@@ -48953,7 +48969,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "眼膜貼作用的時候，我擦了面霜。它從軟管擠出來是軟膏般的質地，塗上去可以感覺到它在肌膚上滑開。",
           "我最喜歡的是推開之後：肌膚帶著絲絨般的觸感，像是當場變成絲絨。而且非常好推開。",
-          "配方上，Abib 強調 PDRN 與 Volufiline（一種用來帶來飽滿感的成分），另外還有視黃醛、胜肽、菸鹼醯胺與咖啡因。Abib 把這款面霜定位為緊緻與細紋保養，也就是說，是長期的功課。"
+          "配方上，Abib 強調 PDRN 與 Volufiline（一種用來帶來飽滿感的成分），另外還有視黃醛、勝肽、菸鹼醯胺與咖啡因。Abib 把這款面霜定位為緊緻與細紋保養，也就是說，是長期的功課。"
         ],
         "bullets": [
           "塗抹位置：臉部與頸部，依品牌建議輕輕拍打，幫助吸收；"
@@ -48966,7 +48982,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
-        "imageAlt": "西西莉亞手拿 Abib PDRN Volume Fill-it Booster Crème 2.5 的軟管",
+        "imageAlt": "Cecília 手拿 Abib PDRN Volume Fill-it Booster Crème 2.5 的軟管",
         "imageCaption": "30 ml 的 Booster Crème 2.5 軟管：擠出來像軟膏，肌膚帶著絲絨般的觸感。",
         "imageFit": "cover"
       },
@@ -48985,7 +49001,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
-        "imageAlt": "西西莉亞嘟著嘴，手拿 Abib Glazed Jelly 護唇膜的罐子",
+        "imageAlt": "Cecília 嘟著嘴，手拿 Abib Glazed Jelly 護唇膜的罐子",
         "imageCaption": "11 g 的 Lip Mask Glazed Jelly 是凝膠質地，帶有甜甜的香氣。",
         "imageFit": "cover"
       },
@@ -48993,7 +49009,7 @@ export const reviewsData: unknown[] = [
         "heading": "PDRN 與視黃醛不神秘：為什麼效果是溫和的",
         "paragraphs": [
           "韓國保養的重點是，產品是為長期使用而設計的。妹子，妳才剛滿 30 歲：這只是開始。往後一輩子，都得有一套保養流程。",
-          "影片裡我說成了視黃酸，但眼膜貼與面霜裡這個成分的正確名稱是視黃醛（retinal，又稱 retinaldehyde）。它是維生素 A 的衍生物，和視黃醇屬於同一家族，肌膚會把它轉化為視黃酸。作用更循序漸進，所以我不會因為開始用就脫皮。",
+          "影片裡我說成了視黃酸，但眼膜貼與面霜裡這個成分的正確名稱是視黃醛。它是維生素 A 的衍生物，和視黃醇屬於同一家族，肌膚會把它轉化為視黃酸。作用更循序漸進，所以我不會因為開始用就脫皮。",
           "PDRN 是以 DNA 片段製成的成分，在韓國化妝品界蔚為風潮；Abib 把它用在主打緊緻的產品上。在護唇膜裡，Abib 說明其 PDRN 來自積雪草與銀杏。"
         ],
         "bullets": [
@@ -49115,7 +49131,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
-    "imageAlt": "西西莉亚·毛阿德手拿 Abib 的 PDRN 助推面霜、水凝胶眼贴和唇膜的包装盒",
+    "imageAlt": "Cecília 手拿 Abib 的 PDRN 助推面霜、水凝胶眼贴和唇膜的包装盒",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
@@ -49189,10 +49205,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "水凝胶眼贴：凉凉的（而我贴反了）",
         "paragraphs": [
-          "第一印象最好：眼贴是凉的。它装在一罐 60 片的罐子里，品牌说表面的纹理有助于防滑。",
+          "第一印象最好：眼贴是凉的。它装在一个 60 片的罐子里，品牌说表面的纹理有助于防滑。",
           "老实说，第一片我贴反了。翻过来、翻回去，换个方向觉得好像更贴合，但说实话，我没感觉到两面有区别。如果你也是第一次用，别担心：重点是让它服帖地贴在眼下，别碰到眼睛。",
           "过一会儿，眼贴会越来越薄，像是快没了。这并不代表皮肤把水凝胶全吸收了；而是凝胶贴在那里、不蒸发，慢慢释放里面的成分。",
-          "包装上写着 10 到 15 分钟后取下。视频里我因为在做其余步骤，贴了大约 20 分钟。请按标签来。也不要戴着它睡觉。"
+          "包装上写着 10 到 15 分钟后取下。视频里我因为在做其余步骤，贴了大约 20 分钟。请按标签来。也不要贴着它睡觉。"
         ],
         "bullets": [
           "取下后：皮肤摸起来干爽，还能清楚看到眼贴贴过的形状；",
@@ -49207,7 +49223,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
-        "imageAlt": "西西莉亚一手拿着粉色的 Abib 水凝胶眼贴，另一手拿着打开的罐子",
+        "imageAlt": "Cecília 一手拿着粉色的 Abib 水凝胶眼贴，另一手拿着打开的罐子",
         "imageCaption": "Abib 水凝胶眼贴装在 60 片的罐子里，贴上皮肤时凉凉的。",
         "imageFit": "cover"
       },
@@ -49229,7 +49245,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
-        "imageAlt": "西西莉亚手拿 Abib PDRN Volume Fill-it Booster Crème 2.5 的软管",
+        "imageAlt": "Cecília 手拿 Abib PDRN Volume Fill-it Booster Crème 2.5 的软管",
         "imageCaption": "30 ml 的 Booster Crème 2.5 软管：挤出来像软膏，皮肤带着丝绒般的触感。",
         "imageFit": "cover"
       },
@@ -49248,7 +49264,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
-        "imageAlt": "西西莉亚嘟着嘴，手拿 Abib Glazed Jelly 唇膜的罐子",
+        "imageAlt": "Cecília 嘟着嘴，手拿 Abib Glazed Jelly 唇膜的罐子",
         "imageCaption": "11 g 的 Lip Mask Glazed Jelly 是啫喱质地，带甜甜的香气。",
         "imageFit": "cover"
       },
@@ -49256,7 +49272,7 @@ export const reviewsData: unknown[] = [
         "heading": "PDRN 和视黄醛不神秘：为什么效果是温和的",
         "paragraphs": [
           "韩国护肤的重点是，产品是为长期使用设计的。姑娘，你才刚满 30 岁：这只是开始。往后一辈子，都得有一套护肤流程。",
-          "视频里我说成了视黄酸，但眼贴和面霜里这个成分的正确名称是视黄醛（retinal，又称 retinaldehyde）。它是维生素 A 的衍生物，和视黄醇是同一家族，皮肤会把它转化为视黄酸。作用更循序渐进，所以我不会因为开始用就脱皮。",
+          "视频里我说成了视黄酸，但眼贴和面霜里这个成分的正确名称是视黄醛。它是维生素 A 的衍生物，和视黄醇是同一家族，皮肤会把它转化为视黄酸。作用更循序渐进，所以我不会因为开始用就脱皮。",
           "PDRN 是用 DNA 片段制成的成分，在韩国化妆品里风靡一时；Abib 把它用在主打紧致的产品中。在唇膜里，Abib 说明其 PDRN 来自积雪草和银杏。"
         ],
         "bullets": [
@@ -49321,7 +49337,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "Abib 水凝胶眼贴要敷多久？ 包装建议 10 到 15 分钟后取下。不要戴着它睡觉。",
+          "Abib 水凝胶眼贴要敷多久？ 包装建议 10 到 15 分钟后取下。不要贴着它睡觉。",
           "PDRN 是什么？ 它是用 DNA 片段制成的成分，常见于主打紧致的韩国化妆品（据品牌说明）。Abib 说明其唇膜中的 PDRN 来自植物（积雪草和银杏）。",
           "视黄醛和视黄酸是一回事吗？ 不是。视黄醛是维生素 A 的衍生物，皮肤会把它转化为视黄酸。所以作用更循序渐进，白天需要涂防晒。",
           "Abib 唇膜气味重吗？ 有甜甜的香气。我对浓烈气味比较敏感，这个并没有困扰我。",
@@ -49397,7 +49413,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A differenza di CECILIA12 e CECI, che scontano direttamente nel carrello, CECILIA010 è un Reward Code, con un campo tutto suo al checkout.",
           "Il bello è che ha un campo esclusivo e separato al checkout. Significa che si può abbinare ai coupon promozionali idonei: puoi usarlo insieme ai coupon promozionali idonei del sito, aggiungendo fino al 5% extra agli sconti dell'ordine.",
-          "Se vuoi lo sconto diretto nel carrello, i coupon del momento sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
+          "Se vuoi lo sconto diretto nel carrello, trovi i coupon del momento in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
           "CECILIA010 non annulla i coupon mensili di YesStyle: aggiunge fino al 5% extra (5% sul 1º ordine, 2% sui successivi) ai coupon idonei. Usa sempre entrambi i campi al checkout."
         ],
         "bullets": [
@@ -49498,7 +49514,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Come trovare i coupon attivi di YesStyle",
         "paragraphs": [
-          "YesStyle offre coupon che cambiano spesso. I tipi più comuni sono: coupon di benvenuto, coupon di ritorno, coupon stagionale, coupon di categoria, coupon per la spedizione gratuita e campagne lampo.",
+          "YesStyle offre coupon che cambiano spesso. I tipi più comuni sono: coupon di benvenuto, coupon di bentornato, coupon stagionale, coupon di categoria, coupon per la spedizione gratuita e campagne lampo.",
           "Dato che questi codici cambiano di frequente, la cosa più sicura è controllare la pagina delle promozioni di YesStyle prima di concludere l'acquisto. Poi applica il coupon attivo nel campo “Coupon Code” e lascia CECILIA010 nel campo “Reward Code”."
         ],
         "bullets": [
@@ -49535,7 +49551,7 @@ export const reviewsData: unknown[] = [
           "K-Beauty e skincare coreana: COSRX (Snail Mucin Essence, Low pH Good Morning Gel Cleanser), Beauty of Joseon (Dynasty Cream, Relief Sun), Anua (Heartleaf 77% Soothing Toner), Laneige (Water Sleeping Mask, Lip Sleeping Mask), Isntree (Hyaluronic Acid Watery Sun Gel), TIRTIR (Mask Fit Red Cushion), medicube (Zero Pore Pads), AXIS-Y (Dark Spot Correcting Glow Serum), Dr.Melaxin, House of Hur.",
           "Make-up coreano: ETUDE (ombretti, blush), CLIO (fondotinta, eyeliner), Peripera (tint, mascara), Judydoll, fwee, nuse.",
           "Moda coreana: stile minimalista ed elegante, colori neutri, tagli oversize, capi versatili. Abbigliamento casual, abiti, blazer, pantaloni wide-leg, scarpe, borse.",
-          "J-Beauty (bellezza giapponese): Hada Labo, DHC, Kose, Shiseido. Attenzione alla prevenzione, all'anti-aging, all'idratazione a strati.",
+          "J-Beauty (bellezza giapponese): Hada Labo, DHC, Kose, Shiseido. L'accento è su prevenzione, anti-aging e idratazione a strati.",
           "Chinese Beauty (C-Beauty): marchi cinesi in ascesa, prezzi accessibili, formule con ingredienti tradizionali cinesi.",
           "Integratori e Health & Wellness: collagene, vitamine, proteine, prodotti per capelli e unghie.",
           "Accessori e lifestyle: mollette, cerchietti, borse, calze stampate, cover, articoli per la casa e l'arredamento."
@@ -49545,7 +49561,7 @@ export const reviewsData: unknown[] = [
         "heading": "Tasse e importazione: cosa può essere addebitato",
         "paragraphs": [
           "Gli acquisti internazionali possono essere sottoposti a controllo doganale e comportare imposte, tasse di importazione, spese amministrative o altri costi legati allo sblocco dell'ordine. Per questo, oltre a calcolare prodotto e spedizione, conviene mettere in conto un possibile costo extra prima di comprare.",
-          "YesStyle dichiara che gli ordini sotto i US$ 1.000 possono ottenere il rimborso delle tasse doganali, se paghi prima, conservi la ricevuta e fai richiesta entro 30 giorni. Il rimborso, se approvato, viene emesso come Credito del negozio YesStyle.",
+          "YesStyle dichiara che gli ordini di importo inferiore a 1.000 US$ possono ottenere il rimborso delle tasse doganali, se paghi prima, conservi la ricevuta e fai richiesta entro 30 giorni. Il rimborso, se approvato, viene emesso come Credito del negozio YesStyle.",
           "Prima di comprare, consulta la pagina di aiuto ufficiale di YesStyle sul rimborso di imposte e tasse doganali, perché le regole di importazione e le politiche del negozio possono cambiare."
         ],
         "bullets": [
@@ -49582,14 +49598,14 @@ export const reviewsData: unknown[] = [
           "Posso sommare CECILIA010 al coupon della promozione del mese? Sì! Va nel campo “Reward Code”, mentre i coupon vanno nel campo “Coupon Code”. Così aggiungi fino al 5% extra (5% sul primo ordine e 2% sugli acquisti successivi) ai coupon promozionali idonei confermati al checkout.",
           "CECILIA010 ha una scadenza? Funziona finché il programma per influencer di YesStyle è attivo e il codice viene verificato regolarmente.",
           "Comprare su YesStyle è sicuro? Sì. Azienda legittima dal 2006, serve più di 150 paesi e regioni, prodotti autentici, crittografia SSL.",
-          "Pagherò tasse di importazione? Può succedere. Se c'è un addebito doganale, controlla la politica ufficiale di YesStyle: il marchio indica la possibilità di rimborso di imposte e tasse doganali per gli ordini idonei sotto i US$ 1.000, con ricevuta e richiesta entro il termine, sotto forma di Credito del negozio.",
+          "Pagherò tasse di importazione? Può succedere. Se c'è un addebito doganale, controlla la politica ufficiale di YesStyle: il marchio indica la possibilità di rimborso di imposte e tasse doganali per gli ordini idonei di importo inferiore a 1.000 US$, con ricevuta e richiesta entro il termine, sotto forma di Credito del negozio.",
           "Qual è il modo migliore per pagare? Carta di credito internazionale (Visa, Mastercard, Amex) o PayPal. La conversione viene fatta automaticamente dall'operatore.",
           "I prodotti sono originali? Sì. YesStyle è distributore autorizzato dei marchi. Compra direttamente dai produttori o dai distributori ufficiali.",
           "Posso restituire i prodotti? La politica è limitata per gli acquisti internazionali. I prodotti difettosi o spediti per errore possono essere restituiti. I prodotti di K-beauty (skincare, make-up) in genere non possono essere restituiti per ragioni igieniche, a meno che non siano sigillati.",
           "Che cos'è l'Elite Club? Il programma fedeltà di YesStyle. Più spendi, più punti accumuli: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
           "Il sito ha altre lingue? Sì! In alto nel sito puoi cambiare la lingua.",
           "Come tracciare il mio ordine di YesStyle? Dopo la conferma di spedizione, YesStyle invia un'e-mail con il codice di tracciamento internazionale. Puoi anche consultare lo storico degli ordini accedendo al tuo account. Il tracciamento funziona tramite servizi come 17track o sul sito del corriere. Il tempo stimato compare al checkout e può variare in dogana.",
-          "Che fare se il mio ordine di YesStyle viene trattenuto in dogana? Se l'ordine viene trattenuto in dogana, potresti ricevere la notifica di pagare l'imposta di importazione. YesStyle indica che, per gli ordini idonei sotto i US$ 1.000, è possibile chiedere il rimborso di imposte e tasse doganali sotto forma di Credito del negozio, con la ricevuta di pagamento e la richiesta all'assistenza entro 30 giorni.",
+          "Che fare se il mio ordine di YesStyle viene trattenuto in dogana? Se l'ordine viene trattenuto in dogana, potresti ricevere la notifica di pagare l'imposta di importazione. YesStyle indica che, per gli ordini idonei di importo inferiore a 1.000 US$, è possibile chiedere il rimborso di imposte e tasse doganali sotto forma di Credito del negozio, con la ricevuta di pagamento e la richiesta all'assistenza entro 30 giorni.",
           "I vestiti di YesStyle usano taglie asiatiche. Come scelgo la mia? Sì, la maggior parte dei vestiti segue la numerazione asiatica. Consulta sempre la tabella delle misure nella pagina di ogni prodotto (di solito in centimetri) e confrontala con le tue misure. Consigliamo di ordinare una o due taglie in più del solito, soprattutto per i capi più aderenti.",
           "Quali sono i marchi di K-beauty più venduti su YesStyle? YesStyle è distributore autorizzato di marchi affermati come COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul e Haruharu. Il sito organizza i prodotti in categorie come essenze, tonici, sieri e protezioni solari, facilitando la ricerca per la routine di skincare coreana.",
           "Posso annullare o modificare un ordine su YesStyle dopo la conferma? YesStyle permette di annullare gli ordini non ancora spediti (stato 'Processing') direttamente dallo storico ordini del tuo account. Dopo la spedizione non è più possibile annullare, ma puoi rifiutare la consegna quando arriva. Le modifiche all'indirizzo o ai prodotti sono possibili solo prima della spedizione, tramite l'assistenza clienti.",
@@ -49615,7 +49631,8 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Link di affiliazione: possiamo ricevere una commissione dai link e dal Reward Code CECILIA010.",
     "locale": "it",
     "translationKey": "yesstyle-reward-code",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 310,
@@ -49719,7 +49736,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Capire i 2 campi sconto al checkout (Coupon Code e Reward Code)",
+        "heading": "Capire i 2 campi sconto al checkout (Coupon Code vs Reward Code)",
         "paragraphs": [
           "Il checkout di YesStyle ha due campi separati, e l'errore è scambiare l'uno con l'altro:",
           "Poiché il checkout ha campi separati, gli sconti idonei possono sommarsi se la campagna lo consente. Controlla entrambi nel riepilogo dell'ordine."
@@ -49750,7 +49767,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Passo 1: accedi al negozio dal link ufficiale",
         "paragraphs": [
-          "Apri YesStyle dal link ufficiale da influencer di Cecília. Questo aiuta a registrare correttamente la segnalazione prima che tu applichi i codici al checkout."
+          "Apri YesStyle dal link ufficiale dell'influencer Cecília. Questo aiuta a registrare correttamente il referral prima che tu applichi i codici al checkout."
         ],
         "links": [
           {
@@ -49838,7 +49855,8 @@ export const reviewsData: unknown[] = [
     ],
     "locale": "it",
     "translationKey": "yesstyle-coupon-guide",
-    "category": "cupons-como-usar"
+    "category": "cupons-como-usar",
+    "isNew": false
   },
   {
     "id": 311,
@@ -50017,7 +50035,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "La K-Beauty è la routine coreana di skincare a più strati, nota per il ritmo delle novità. Fuori dalla Corea, il difficile è comprare: i marchi vendono su siti separati, con spedizioni da ripetere. YesStyle ne riunisce molti in un unico carrello; vedi «Dove entra in gioco YesStyle» per capire come funziona."
+          "La K-Beauty è la routine coreana di skincare a più strati, nota per il ritmo delle novità. Fuori dalla Corea, il difficile è comprare: i marchi vendono su siti separati, con spese di spedizione ripetute. YesStyle ne riunisce molti in un unico carrello; vedi «Dove entra in gioco YesStyle» per capire come funziona."
         ]
       },
       {
@@ -50037,7 +50055,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ingredienti e formati che la K-Beauty ha reso popolari",
         "paragraphs": [
           "Negli ingredienti, la fama viene da centella asiatica, niacinamide, mucina di lumaca (non vegana), PDRN, propoli e fermentati. Nei formati, da cushion, sheet mask e fiala.",
-          "Un termine molto associato alla categoria è «glass skin»: l’idea di una pelle così uniforme e luminosa da sembrare vetro. È un ideale estetico, non una promessa letterale, ma riassume bene ciò che inseguono buona parte delle routine K-Beauty: una pelle dalla texture uniforme e quella luminosità che di solito associamo a una pelle ben curata."
+          "Un termine molto associato alla categoria è «glass skin»: l’idea di una pelle così uniforme e luminosa da sembrare vetro. È un ideale estetico, non una promessa letterale, ma riassume bene ciò che inseguono buona parte delle routine K-Beauty: una pelle dalla grana uniforme e quella luminosità che di solito associamo a una pelle ben curata."
         ],
         "bullets": []
       },
@@ -50071,9 +50089,9 @@ export const reviewsData: unknown[] = [
         "heading": "Dove entra in gioco YesStyle",
         "paragraphs": [
           "È qui che piattaforme come YesStyle risolvono il problema.",
-          "YesStyle funziona come un marketplace centralizzato: invece di andare di marchio in marchio, acquisti più marchi coreani, e anche giapponesi e di altre parti dell’Asia, in un unico carrello, con una sola spedizione e un solo tempo di consegna. L’azienda dichiara nelle proprie informazioni societarie di essere distributore autorizzato di oltre 400 marchi di bellezza coreana, tra cui nomi come COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: un esempio del tipo di marchio disponibile, non un elenco chiuso, perché il catalogo cambia nel tempo.",
+          "YesStyle funziona come un marketplace centralizzato: invece di andare di marchio in marchio, acquisti più marchi coreani, e anche giapponesi e di altre parti dell’Asia, in un unico carrello, con una sola spedizione e un'unica tempistica di consegna. L’azienda dichiara nelle proprie informazioni societarie di essere distributore autorizzato di oltre 400 marchi di bellezza coreana, tra cui nomi come COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: un esempio del tipo di marchio disponibile, non un elenco chiuso, perché il catalogo cambia nel tempo.",
           "La piattaforma va anche oltre lo skincare: ha moda asiatica, trucco, accessori e altre categorie lifestyle, il che significa che puoi completare l’acquisto di un siero con altri articoli nella stessa transazione.",
-          "Per chi vuole approfittare di uno sconto sul primo acquisto esiste il codice ricompensa CECILIA010, che dà uno sconto diretto al checkout (maggiore sul primo acquisto, minore sui successivi) se inserito nel campo giusto del carrello. C’è un passo-passo specifico su come applicare il codice, linkato qui sotto. I coupon del negozio cambiano; l’elenco del momento è in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
+          "Per chi vuole approfittare di uno sconto sul primo acquisto esiste il codice ricompensa CECILIA010, che dà uno sconto diretto al checkout (maggiore sul primo acquisto, minore sui successivi) se inserito nel campo giusto del carrello. C’è una guida passo passo specifica su come applicare il codice, linkata qui sotto. I coupon del negozio cambiano; l’elenco del momento è in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
           "Questa centralizzazione è ciò che ha permesso alla K-Beauty di passare dall’interesse di collezionisti appassionati a qualcosa di accessibile per chi vuole solo provare se la fama è reale."
         ],
         "bullets": [],
@@ -57274,7 +57292,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "October 11, 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
     "imageAlt": "Cecília Mauad smiling with the boxes of the Abib products she received from YesStyle, in a frame from the Korean skincare routine video",
@@ -57540,7 +57558,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "11 de octubre de 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
     "imageAlt": "Cecília Mauad sonriendo con las cajas de los productos de Abib que recibió de YesStyle, en un fotograma del vídeo de la rutina de skincare coreano",
@@ -57693,7 +57711,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ofertas que no son para todos",
         "paragraphs": [
-          "En 2025, además del cupón abierto a todos los miembros, YesStyle tuvo dos ofertas restringidas. En la semana del Black Friday, los niveles Bronze, Silver y Gold del Elite Club, el programa de fidelidad de la tienda, tuvieron un producto al día a US$ 1, en pedidos desde US$ 50. Uno por pedido, mientras duró el stock, sin cambio ni devolución. Y entre el Black Friday y el Cyber Monday, un cupón de 18% sin compra mínima fue para miembros seleccionados (\"We Miss You\"). La página no explica cómo se eligió a esos miembros.",
+          "En 2025, además del cupón abierto a todos los miembros, YesStyle tuvo dos ofertas restringidas. En la semana del Black Friday, los niveles Bronze, Silver y Gold del Elite Club, el programa de fidelidad de la tienda, tuvieron un producto al día a US$ 1, en pedidos desde US$ 50. Uno por pedido, mientras duró el stock, sin cambio ni devolución. Y entre el Black Friday y el Cyber Monday, un cupón de 18% sin compra mínima se envió a miembros seleccionados (\"We Miss You\"). La página no explica cómo se eligió a esos miembros.",
           "Si aparece uno de esos cupones en tu cuenta, la regla es la misma: se suma al código de recompensa y a los YS Points."
         ]
       },
@@ -57707,7 +57725,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Envío e impuestos",
         "paragraphs": [
-          "El envío y el plazo aparecen en el checkout, y el cupón no descuenta el envío. Si el paquete paga impuestos al llegar, YesStyle reembolsa los impuestos y las tasas de aduana en pedidos de menos de US$ 1.000, como crédito en la tienda. Lo que la tienda publica sobre el envío y cómo pedir el reembolso está en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
+          "El envío y el plazo aparecen en el checkout, y el cupón no descuenta el envío. Si hay que pagar impuestos cuando llegue el paquete, YesStyle reembolsa los impuestos y las tasas de aduana en pedidos de menos de US$ 1.000, como crédito en la tienda. Lo que la tienda publica sobre el envío y cómo pedir el reembolso está en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
         ]
       },
       {
@@ -57806,7 +57824,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "11 octobre 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
     "imageAlt": "Cecília Mauad souriante avec les boîtes des produits Abib reçus de YesStyle, sur une image de la vidéo de la routine skincare coréenne",
@@ -58072,7 +58090,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "11. Oktober 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
     "imageAlt": "Cecília Mauad lächelt mit den Kartons der Abib-Produkte, die sie von YesStyle bekommen hat, in einem Bild aus dem Video zur koreanischen Skincare-Routine",
@@ -58136,7 +58154,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Der Black-Friday-Gutschein ist derselbe wie im ganzen Jahr",
         "paragraphs": [
-          "Der Staffelgutschein vom Oktober 2025 (Mid-Season Sale) hatte genau dieselben Stufen wie der Black-Friday-Gutschein im November. Es ist der Rabatt, den YesStyle fast das ganze Jahr laufen lässt, mit Name und Code, die alle paar Tage wechseln. Die aktuellen Gutscheine stehen unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle)."
+          "Der Staffelgutschein aus dem Oktober 2025 (Mid-Season Sale) hatte genau dieselben Stufen wie der Black-Friday-Gutschein im November. Es ist der Rabatt, den YesStyle fast das ganze Jahr laufen lässt, mit Name und Code, die alle paar Tage wechseln. Die aktuellen Gutscheine stehen unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle)."
         ],
         "comparisonTable": {
           "caption": "Stufen des Staffelgutscheins von YesStyle 2024 und 2025, außerhalb und innerhalb des Black Friday gleich. Der Rabatt gilt auf den Preis der Produkte.",
@@ -58287,7 +58305,7 @@ export const reviewsData: unknown[] = [
           "Hat YesStyle auch außerhalb des Black Friday Aktionen? Ja. Der Staffelgutschein mit 8 %, 10 % und 15 % läuft fast das ganze Jahr und wechselt alle drei bis vier Tage den Namen.",
           "Gilt der CECILIA010 am Black Friday? Ja. Er kommt in das Feld Reward Code, und die Regeln der Black-Friday-Gutscheine besagen, dass sie zusammen mit Reward Codes gelten.",
           "Kann man zwei YesStyle-Gutscheine in derselben Bestellung nutzen? Nein: Es gilt ein Gutschein pro Bestellung. Der Reward Code ist etwas anderes und kommt in ein anderes Feld des Checkouts.",
-          "Brauche ich ein YesStyle-Konto, um den Black-Friday-Gutschein zu nutzen? Ja. Die Gutscheine gelten nur für Mitglieder, und wer als Gast bestellt, bekommt den Rabatt nicht.",
+          "Braucht man ein YesStyle-Konto, um den Black-Friday-Gutschein zu nutzen? Ja. Die Gutscheine gelten nur für Mitglieder, und wer als Gast bestellt, bekommt den Rabatt nicht.",
           "Zahle ich Steuern, wenn ich bei YesStyle kaufe? Bei der Ankunft des Pakets kann eine Abgabe anfallen. Bei Bestellungen unter US$ 1.000 erstattet YesStyle diese Steuern als Guthaben im Shop, wenn Sie den Beleg innerhalb von 30 Tagen schicken."
         ]
       }
@@ -58338,7 +58356,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "11 ottobre 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
     "imageAlt": "Cecília Mauad sorridente con le scatole dei prodotti Abib ricevuti da YesStyle, in un fotogramma del video sulla routine di skincare coreano",
@@ -58349,7 +58367,7 @@ export const reviewsData: unknown[] = [
       "Calendario ufficiale 2024 e 2025, preso dalle pagine delle regole di ogni coupon",
       "Il codice ricompensa si somma al coupon di YesStyle, anche durante il Black Friday",
       "Nei giorni al 15% senza minimo, qualsiasi carrello ottiene lo sconto massimo del coupon",
-      "YesStyle rimborsa le tasse doganali sugli ordini sotto i US$ 1.000, come credito nel negozio"
+      "YesStyle rimborsa le tasse doganali sugli ordini inferiori a US$ 1.000, come credito nel negozio"
     ],
     "cons": [
       "Le date del 2026 non sono ancora uscite: per ora il calendario è una stima basata sullo storico",
@@ -58491,7 +58509,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Offerte che non sono per tutti",
         "paragraphs": [
-          "Nel 2025, oltre al coupon aperto a tutti i membri, YesStyle ha avuto due offerte riservate. Nella settimana del Black Friday, i livelli Bronze, Silver e Gold dell'Elite Club, il programma fedeltà del negozio, hanno avuto un prodotto al giorno a US$ 1, su ordini da US$ 50. Uno per ordine, finché durano le scorte, senza cambio né reso. E tra il Black Friday e il Cyber Monday, un coupon del 18% senza minimo è andato a membri selezionati (\"We Miss You\"). La pagina non spiega come siano stati scelti questi membri.",
+          "Nel 2025, oltre al coupon aperto a tutti i membri, YesStyle ha avuto due offerte riservate. Nella settimana del Black Friday, i livelli Bronze, Silver e Gold dell'Elite Club, il programma fedeltà del negozio, hanno avuto un prodotto al giorno a US$ 1, su ordini da US$ 50. Uno per ordine, fino a esaurimento scorte, senza cambio né reso. E tra il Black Friday e il Cyber Monday, un coupon del 18% senza minimo è andato a membri selezionati (\"We Miss You\"). La pagina non spiega come siano stati scelti questi membri.",
           "Se uno di questi coupon compare nel tuo account, la regola è la stessa: si somma al codice ricompensa e agli YS Points."
         ]
       },
@@ -58505,7 +58523,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Consegna e tasse",
         "paragraphs": [
-          "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se il pacco viene tassato all'arrivo, YesStyle rimborsa le tasse e i dazi doganali sugli ordini sotto i US$ 1.000, come credito nel negozio. Ciò che il negozio pubblica sulla consegna e come chiedere il rimborso è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
+          "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se il pacco viene tassato all'arrivo, YesStyle rimborsa le tasse e i dazi doganali sugli ordini inferiori a US$ 1.000, come credito nel negozio. Ciò che il negozio pubblica sulla consegna e come chiedere il rimborso è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
         ]
       },
       {
@@ -58554,7 +58572,7 @@ export const reviewsData: unknown[] = [
           "CECILIA010 vale nel Black Friday? Sì. Va nel campo Reward Code, e le regole dei coupon del Black Friday dicono che valgono insieme ai Reward Code.",
           "Si possono usare due coupon di YesStyle nello stesso ordine? No: è un coupon per ordine. Il codice ricompensa è un'altra cosa e va in un altro campo del checkout.",
           "Serve un account su YesStyle per usare il coupon del Black Friday? Sì. I coupon sono solo per i membri, e chi acquista come ospite resta senza sconto.",
-          "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini sotto i US$ 1.000, YesStyle rimborsa queste tasse come credito nel negozio, se invii la ricevuta entro 30 giorni."
+          "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini inferiori a US$ 1.000, YesStyle rimborsa queste tasse come credito nel negozio, se invii la ricevuta entro 30 giorni."
         ]
       }
     ],
@@ -58588,7 +58606,7 @@ export const reviewsData: unknown[] = [
     "locale": "ko",
     "translationKey": "yesstyle-black-friday",
     "title": "YesStyle 블랙프라이데이(Black Friday) 2026: 시작 날짜, 쿠폰 작동 방식, CECILIA010 입력 위치",
-    "seoTitle": "YesStyle 블랙프라이데이 2026: 날짜, 할인 조건, CECILIA010",
+    "seoTitle": "YesStyle 블랙프라이데이 2026: 날짜, 쿠폰, CECILIA010",
     "type": "블랙프라이데이 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -58600,28 +58618,28 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "YesStyle 블랙프라이데이는 언제 시작할까요? 공식 페이지로 확인한 2024년과 2025년 일정, 구간별 쿠폰이 연중 같은 이유, 최소 금액 없는 15% 데이, 그리고 리워드 코드 CECILIA010를 함께 쓰는 방법을 정리했습니다.",
-    "metaDescription": "YesStyle 블랙프라이데이 2026: 2024년과 2025년 일정, 쿠폰 구간, 최소 금액 없는 15% 데, 리워드 코드 CECILIA010 함께 쓰는 법.",
+    "metaDescription": "YesStyle 블랙프라이데이 2026: 2024년과 2025년 일정, 쿠폰 구간, 최소 금액 없는 15% 데이, 리워드 코드 CECILIA010 함께 쓰는 법.",
     "publishedAt": "2026년 10월 11일",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "YesStyle에서 받은 Abib 제품 상자를 들고 웃고 있는 세실리아 마우아드, 한국 스킨케어 루틴 영상의 한 장면",
+    "imageAlt": "YesStyle에서 받은 Abib 제품 상자를 들고 웃고 있는 Cecília, 한국 스킨케어 루틴 영상의 한 장면",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
     "pros": [
       "2024년과 2025년 공식 일정, 각 쿠폰의 규정 페이지에서 확인",
       "리워드 코드는 YesStyle 쿠폰과 함께 쓸 수 있고, 블랙프라이데이에도 마찬가지",
-      "최소 금액 없는 15% 데에는 어떤 장바구니든 쿠폰의 최대 할인을 받음",
+      "최소 금액 없는 15% 데이에는 어떤 장바구니든 쿠폰의 최대 할인을 받음",
       "YesStyle은 US$ 1,000 미만 주문에서 낸 관세 등 세금을 스토어 크레딧으로 돌려줌"
     ],
     "cons": [
       "2026년 일정은 아직 나오지 않음: 지금의 일정은 과거 기록으로 한 추정",
       "블랙프라이데이의 구간별 쿠폰은 평소와 같음",
       "쿠폰은 회원 전용이고, 주문당 하나만 쓸 수 있으며, 배송비에는 적용되지 않음",
-      "해외 구매라서 배송 기간이 가까운 쇼핑몰보다 김"
+      "해외 구매라서 배송 기간이 가까운 쇼핑몰보다 깁니다"
     ],
     "contentSections": [
       {
@@ -58661,7 +58679,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "2026년 블랙프라이데이는 11월 27일, 사이버 먼데이는 11월 30일입니다. YesStyle이 같은 패턴을 따른다면 Black Friday 이름의 쿠폰은 11월 초에 나오고, 최소 금액 없는 15% 데는 이 두 날짜 근처가 될 것입니다. 과거 기록으로 한 추정일 뿐이고, 스토어가 모든 것을 바꿀 수도 있습니다. 2026년 페이지가 나오면 이 가이드를 업데이트하겠습니다.",
+          "2026년 블랙프라이데이는 11월 27일, 사이버 먼데이는 11월 30일입니다. YesStyle이 같은 패턴을 따른다면 Black Friday 이름의 쿠폰은 11월 초에 나오고, 최소 금액 없는 15% 데이는 이 두 날짜 근처가 될 것입니다. 과거 기록으로 한 추정일 뿐이고, 스토어가 모든 것을 바꿀 수도 있습니다. 2026년 페이지가 나오면 이 가이드가 업데이트됩니다.",
           "쿠폰은 GMT로 정해진 시각에 바뀝니다. 2025년에는 구간별 쿠폰이 GMT 2시에 바뀌었고, 최소 금액 없는 15%는 GMT 8시에 시작했습니다."
         ]
       },
@@ -58696,7 +58714,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "최소 금액 없는 15% 데를 기다릴 가치가 있을까요?",
+        "heading": "최소 금액 없는 15% 데이를 기다릴 가치가 있을까요?",
         "paragraphs": [
           "장바구니 크기에 따라 다릅니다."
         ],
@@ -58710,7 +58728,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**US$ 199 이상 장바구니:** 구간별 쿠폰이 아무 날이나 15%를 줍니다. 최소 금액 없는 날과 같은 비율입니다. 금요일 즈음에 달라질 수 있는 것은 쿠폰이 아니라 상품별 프로모션 가격입니다.",
           "**US$ 79~199 장바구니:** 구간별 쿠폰은 8% 또는 10%입니다. 최소 금액 없는 날에는 같은 장바구니가 15%를 받습니다.",
-          "**US$ 79 미만 장바구니:** 구간별 쿠폰으로는 할인이 없습니다. 최소 금액 없는 15% 데를 기다리면 가장 이득을 보는 쪽입니다."
+          "**US$ 79 미만 장바구니:** 구간별 쿠폰으로는 할인이 없습니다. 최소 금액 없는 15% 데이를 기다리면 가장 이득을 보는 쪽입니다."
         ]
       },
       {
@@ -58777,26 +58795,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "장바구니 아이디어: Abib 루틴",
         "paragraphs": [
-          "이 글 끝의 영상에서 세실리아는 YesStyle에서 받은 한국 브랜드 Abib 제품 세 가지를 써 봅니다. 아이 하이드로겔 패치, PDRN 부스터 크림, 립 마스크입니다. 한국 스킨케어를 막 시작하는 사람을 위한 짧은 루틴이고, 블랙프라이데이 장바구니를 짜는 좋은 출발점입니다."
+          "이 글 끝의 영상에서 Cecília는 YesStyle에서 받은 한국 브랜드 Abib 제품 세 가지를 써 봅니다. 아이 하이드로겔 패치, PDRN 부스터 크림, 립 마스크입니다. 한국 스킨케어를 막 시작하는 사람을 위한 짧은 루틴이고, 블랙프라이데이 장바구니를 짜는 좋은 출발점입니다."
         ],
         "images": [
           {
             "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
-            "alt": "Abib 아이 하이드로겔 패치 용기와 분홍색 패치를 들고 웃는 세실리아",
-            "caption": "세실리아 영상에 나온 Abib 아이 하이드로겔 패치.",
+            "alt": "Abib 아이 하이드로겔 패치 용기와 분홍색 패치를 들고 웃는 Cecília",
+            "caption": "Cecília 영상에 나온 Abib 아이 하이드로겔 패치.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
-            "alt": "Abib PDRN 부스터 크림의 흰색 튜브를 얼굴 가까이에 든 세실리아",
+            "alt": "Abib PDRN 부스터 크림의 흰색 튜브를 얼굴 가까이에 든 Cecília",
             "caption": "Abib PDRN 부스터 크림.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
-            "alt": "입술을 내밀고 Abib 분홍색 립 마스크 용기를 든 세실리아",
+            "alt": "입술을 내밀고 Abib 분홍색 립 마스크 용기를 든 Cecília",
             "caption": "Abib 립 마스크.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
@@ -58870,10 +58888,10 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "YesStyleから届いたAbibの製品の箱を持って笑うセシリア・マウアド。スキンケアのルーティン動画の一場面",
+    "imageAlt": "YesStyleから届いたAbibの製品の箱を持って笑うCecília。スキンケアのルーティン動画の一場面",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
@@ -58944,7 +58962,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "US$79",
+              "US$149",
               "8%"
             ],
             [
@@ -58975,8 +58993,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**US$199以上のカート：**段階式クーポンで、いつでも15%になります。最低金額なしの日と同じ割引率です。金曜日の前後で変わりうるのは、クーポンではなく各商品のセール価格です。",
-          "**US$79〜US$199のカート：**段階式クーポンは8%か10%です。最低金額なしの日なら、同じカートが15%になります。",
-          "**US$79未満のカート：**段階式クーポンでは何も割引されません。最低金額なしの15%の日を待って得をするのは、このカートです。"
+          "**US$149〜US$199のカート：**段階式クーポンは8%か10%です。最低金額なしの日なら、同じカートが15%になります。",
+          "**US$149未満のカート：**段階式クーポンでは何も割引されません。最低金額なしの15%の日を待って得をするのは、このカートです。"
         ]
       },
       {
@@ -58993,7 +59011,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "先にログインしてからカートを作ってください。クーポンは会員限定です。",
-          "カートを作り、狙っている段階（US$79、US$149、US$199）を超えているか確認します。",
+          "カートを作り、狙っている段階（US$149、US$149、US$199）を超えているか確認します。",
           "その日のクーポンをCoupon Code欄に入力します。",
           "CECILIA010をReward Code欄に入力します。初回購入は5%、2回目以降は2%です。",
           "支払う前に、注文の概要で2つの割引が反映されているか確認します。"
@@ -59043,26 +59061,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "カートの例：Abibのルーティン",
         "paragraphs": [
-          "この記事の最後の動画で、セシリアはYesStyleから届いた韓国ブランドAbibの3つの製品を試しています。アイハイドロゲルパッチ、PDRNブースタークリーム、リップマスクです。韓国スキンケアを始める人向けの短いルーティンで、ブラックフライデーのカートを組むときの出発点にもなります。"
+          "この記事の最後の動画で、CecíliaはYesStyleから届いた韓国ブランドAbibの3つの製品を試しています。アイハイドロゲルパッチ、PDRNブースタークリーム、リップマスクです。韓国スキンケアを始める人向けの短いルーティンで、ブラックフライデーのカートを組むときの出発点にもなります。"
         ],
         "images": [
           {
             "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
-            "alt": "Abibのアイハイドロゲルパッチの容器とピンクのパッチを持って笑うセシリア",
-            "caption": "セシリアの動画に登場したAbibのアイハイドロゲルパッチ。",
+            "alt": "Abibのアイハイドロゲルパッチの容器とピンクのパッチを持って笑うCecília",
+            "caption": "Cecíliaの動画に登場したAbibのアイハイドロゲルパッチ。",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
-            "alt": "Abibの白いPDRNブースタークリームのチューブを顔の近くで持つセシリア",
+            "alt": "Abibの白いPDRNブースタークリームのチューブを顔の近くで持つCecília",
             "caption": "AbibのPDRNブースタークリーム。",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
-            "alt": "唇をとがらせてAbibのピンクのリップマスクの容器を持つセシリア",
+            "alt": "唇をとがらせてAbibのピンクのリップマスクの容器を持つCecília",
             "caption": "Abibのリップマスク。",
             "objectFit": "contain",
             "aspectRatio": 1.7778
@@ -59079,8 +59097,8 @@ export const reviewsData: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "2026年のYesStyleのブラックフライデーはいつ始まりますか？YesStyleはまだ発表していません。2024年と2025年は、「Black Friday」の名前のクーポンが11月の最初の数日に始まり、サイバーマンデーまで続きました。",
-          "ブラックフライデーのYesStyleのクーポンは何ですか？数日ごとに替わります。このサイトのYesStyleのページに、現在有効なクーポンが、確認した日付つきで載っています。",
-          "YesStyleのブラックフライデーのクーポンに最低金額はありますか？段階式クーポンにはあります。US$79以上で8%、US$149以上で10%、US$199以上で15%です。金曜日とサイバーマンデーの前後は、最低金額なしの15%になることが多いです。",
+          "ブラックフライデーのYesStyleのクーポンは何ですか？3、4日ごとに替わります。このサイトのYesStyleのページに、現在有効なクーポンが、確認した日付つきで載っています。",
+          "YesStyleのブラックフライデーのクーポンに最低金額はありますか？段階式クーポンにはあります。US$149以上で8%、US$149以上で10%、US$199以上で15%です。金曜日とサイバーマンデーの前後は、最低金額なしの15%になることが多いです。",
           "YesStyleは、ブラックフライデーとサイバーマンデーのどちらで買うのがお得ですか？2024年と2025年は、どちらも最低金額なしの15%だったので、クーポンの上限は同じでした。日によって変わるのは、各商品のセール価格です。",
           "YesStyleにはブラックフライデー以外にもセールがありますか？あります。8%、10%、15%の段階式クーポンはほぼ一年中実施されていて、3、4日ごとに名前が替わります。",
           "CECILIA010はブラックフライデーでも使えますか？使えます。Reward Code欄に入力します。ブラックフライデーのクーポンのルールにも、リワードコードと併用できると書かれています。",
@@ -59136,10 +59154,10 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "西西莉亞·茅阿德笑著拿著從 YesStyle 收到的 Abib 產品盒，來自韓式護膚流程影片的一幕",
+    "imageAlt": "Cecília 笑著拿著從 YesStyle 收到的 Abib 產品盒，來自韓式護膚流程影片的一幕",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
@@ -59289,7 +59307,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "並非人人都有的優惠",
         "paragraphs": [
-          "2025 年，除了開放給所有會員的優惠券，YesStyle 還推出了兩項限定優惠。黑色星期五那一週，商店會員計畫 Elite Club 的銅、銀、金級會員每天有一件商品只要 US$ 1，訂單需滿 US$ 50 起。每筆訂單限一件，售完為止，不可換貨或退貨。另外，在黑色星期五與網購星期一之間，一張無最低消費的 18% 優惠券發給了部分會員（“We Miss You”）。頁面沒有說明這些會員是如何選出的。",
+          "2025 年，除了開放給所有會員的優惠券，YesStyle 還推出了兩項限定優惠。黑色星期五那一週，商店會員計畫 Elite Club 的銅、銀、金級會員每天有一件商品只要 US$ 1，訂單滿 US$ 50 即可。每筆訂單限一件，售完為止，不可換貨或退貨。另外，在黑色星期五與網購星期一之間，一張無最低消費的 18% 優惠券發給了部分會員（“We Miss You”）。頁面沒有說明這些會員是如何選出的。",
           "如果你的帳號裡出現這類優惠券，規則相同：可與獎勵碼和 YS Points 疊加。"
         ]
       },
@@ -59309,26 +59327,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "購物車範例：Abib 的護膚流程",
         "paragraphs": [
-          "在本文最後的影片裡，西西莉亞試用了她從 YesStyle 收到的三款韓國品牌 Abib 的產品：眼部水凝膠貼片、PDRN 精華霜與唇膜。這是一套給剛接觸韓式護膚的人的簡短流程，也是搭配黑色星期五購物車的好起點。"
+          "在本文最後的影片裡，Cecília 試用了她從 YesStyle 收到的三款韓國品牌 Abib 的產品：眼部水凝膠貼片、PDRN 精華霜與唇膜。這是一套給剛接觸韓式護膚的人的簡短流程，也是搭配黑色星期五購物車的好起點。"
         ],
         "images": [
           {
             "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
-            "alt": "西西莉亞笑著拿著 Abib 眼部水凝膠貼片的罐子與一片粉色貼片",
-            "caption": "西西莉亞影片裡的 Abib 眼部水凝膠貼片。",
+            "alt": "Cecília 笑著拿著 Abib 眼部水凝膠貼片的罐子與一片粉色貼片",
+            "caption": "Cecília 影片裡的 Abib 眼部水凝膠貼片。",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
-            "alt": "西西莉亞在臉旁拿著 Abib PDRN 精華霜的白色軟管",
+            "alt": "Cecília 在臉旁拿著 Abib PDRN 精華霜的白色軟管",
             "caption": "Abib 的 PDRN 精華霜。",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
-            "alt": "西西莉亞嘟著嘴，拿著 Abib 粉色唇膜的罐子",
+            "alt": "Cecília 嘟著嘴，拿著 Abib 粉色唇膜的罐子",
             "caption": "Abib 的唇膜。",
             "objectFit": "contain",
             "aspectRatio": 1.7778
@@ -59402,10 +59420,10 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "西西莉亚·茅阿德笑着拿着从 YesStyle 收到的 Abib 产品盒，来自韩式护肤流程视频的一幕",
+    "imageAlt": "Cecília 笑着拿着从 YesStyle 收到的 Abib 产品盒，来自韩式护肤流程视频的一幕",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
@@ -59555,7 +59573,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "并非人人都有的优惠",
         "paragraphs": [
-          "2025 年，除了向所有会员开放的优惠券，YesStyle 还推出了两项限定优惠。黑色星期五那一周，商店会员计划 Elite Club 的铜、银、金级会员每天有一件商品只要 US$ 1，订单需满 US$ 50 起。每笔订单限一件，售完为止，不可换货或退货。另外，在黑色星期五与网络星期一之间，一张无最低消费的 18% 优惠券发给了部分会员（“We Miss You”）。页面没有说明这些会员是如何选出的。",
+          "2025 年，除了向所有会员开放的优惠券，YesStyle 还推出了两项限定优惠。黑色星期五那一周，商店会员计划 Elite Club 的铜、银、金级会员每天有一件商品只要 US$ 1，订单满 US$ 50 即可。每笔订单限一件，售完为止，不可换货或退货。另外，在黑色星期五与网络星期一之间，一张无最低消费的 18% 优惠券发给了部分会员（“We Miss You”）。页面没有说明这些会员是如何选出的。",
           "如果你的账号里出现这类优惠券，规则相同：可与奖励码和 YS Points 叠加。"
         ]
       },
@@ -59575,26 +59593,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "购物车示例：Abib 的护肤流程",
         "paragraphs": [
-          "在本文末尾的视频里，西西莉亚试用了她从 YesStyle 收到的三款韩国品牌 Abib 的产品：眼部水凝胶贴、PDRN 精华霜和唇膜。这是一套给刚接触韩式护肤的人的简短流程，也是搭配黑色星期五购物车的好起点。"
+          "在本文末尾的视频里，Cecília 试用了她从 YesStyle 收到的三款韩国品牌 Abib 的产品：眼部水凝胶贴、PDRN 精华霜和唇膜。这是一套给刚接触韩式护肤的人的简短流程，也是搭配黑色星期五购物车的好起点。"
         ],
         "images": [
           {
             "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
-            "alt": "西西莉亚笑着拿着 Abib 眼部水凝胶贴的罐子和一片粉色贴片",
-            "caption": "西西莉亚视频里的 Abib 眼部水凝胶贴。",
+            "alt": "Cecília 笑着拿着 Abib 眼部水凝胶贴的罐子和一片粉色贴片",
+            "caption": "Cecília 视频里的 Abib 眼部水凝胶贴。",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
-            "alt": "西西莉亚在脸旁拿着 Abib PDRN 精华霜的白色软管",
+            "alt": "Cecília 在脸旁拿着 Abib PDRN 精华霜的白色软管",
             "caption": "Abib 的 PDRN 精华霜。",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
-            "alt": "西西莉亚嘟着嘴，拿着 Abib 粉色唇膜的罐子",
+            "alt": "Cecília 嘟着嘴，拿着 Abib 粉色唇膜的罐子",
             "caption": "Abib 的唇膜。",
             "objectFit": "contain",
             "aspectRatio": 1.7778
@@ -59907,7 +59925,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "October 11, 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
     "imageAlt": "Cecília Mauad in two looks from a SHEIN haul: a light blouse tied at the waist with a black midi skirt, and a long black dress with light cut-outs",
@@ -59966,20 +59984,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "\"Up to 90%\" is not the whole cart",
         "paragraphs": [
-          "The campaign percentage is the biggest discount on some items. Most of the catalog has smaller discounts, and the price of each piece changes across the phases. To avoid falling for the big number in the ad:"
+          "The campaign percentage is the biggest discount on some items. Most of the catalog has smaller discounts, and the price of each item changes across the phases. To avoid falling for the big number in the ad:"
         ],
         "bullets": [
-          "Save the pieces to your wishlist before the campaign starts and note today's price.",
+          "Save the items to your wishlist before the campaign starts and note today's price.",
           "Compare the wishlist price with the later phases: in the last three years, the maximum discount went up in the final stretch.",
           "Look at the final price in the cart, with shipping and taxes, and not only the percentage in the announcement.",
-          "If the piece comes in a hard-to-find size, don't wait for the last phase: stock may run out first."
+          "If the item comes in a hard-to-find size, don't wait for the last phase: stock may run out first."
         ]
       },
       {
         "heading": "Coupons, points and the 4CW5Y code",
         "paragraphs": [
           "Under SHEIN's coupon policy, one platform coupon applies per order. Each coupon has an expiry date, and one not used in time becomes unavailable.",
-          "SHEIN points are worth US$ 1 per 100 points and take off up to 30% of the product value, not counting shipping and taxes.",
+          "SHEIN points are worth US$ 1 per 100 points and take up to 30% off the product value, not counting shipping and taxes.",
           "4CW5Y is not a coupon: it is Cecília's SHEIN referral code. You search for 4CW5Y in the SHEIN app and check the conditions shown for your account. SHEIN campaigns change all the time: check the current ones on the store page here on the site before placing your order."
         ],
         "links": [
@@ -60061,7 +60079,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "11 de octubre de 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
     "imageAlt": "Cecília Mauad en dos looks de un haul de SHEIN: blusa clara atada a la cintura con falda midi negra, y vestido largo negro con recortes claros",
@@ -60215,7 +60233,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "11 octobre 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
     "imageAlt": "Cecília Mauad dans deux looks d'un haul SHEIN : blouse claire nouée à la taille avec une jupe midi noire, et longue robe noire à découpes claires",
@@ -60268,7 +60286,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "En 2026, le 11.11 tombe un mercredi et le Black Friday un vendredi. Si SHEIN reprend le schéma, les offres devraient commencer entre fin octobre et début novembre et durer jusqu'à la fin du mois. C'est une estimation d'après l'historique, et ce guide est mis à jour quand SHEIN annoncera la campagne de 2026.",
-          "Les trois années, la remise maximale a grimpé vers la fin : qui peut attendre y gagne, et qui cherche une taille difficile à trouver n'attend pas la dernière phase."
+          "Ces trois années, la remise maximale a grimpé vers la fin : qui peut attendre y gagne, et qui cherche une taille difficile à trouver n'attend pas la dernière phase."
         ]
       },
       {
@@ -60280,13 +60298,13 @@ export const reviewsData: unknown[] = [
           "Enregistrez les pièces dans la liste d'envies avant le début de la campagne et notez le prix actuel.",
           "Comparez le prix de la liste à celui des phases suivantes : ces trois dernières années, la remise maximale est montée dans la dernière ligne droite.",
           "Regardez le prix final dans le panier, avec la livraison et les taxes, et pas seulement le pourcentage de l'annonce.",
-          "Si la pièce existe dans une taille difficile à trouver, n'attendez pas la dernière phase : le stock peut s'épuiser avant."
+          "Pour une taille difficile à trouver, n'attendez pas la dernière phase : le stock peut s'épuiser avant."
         ]
       },
       {
         "heading": "Coupons, points et le code 4CW5Y",
         "paragraphs": [
-          "Selon la politique de coupons de SHEIN, un coupon de la plateforme vaut par commande. Chaque coupon a une date de validité, et celui qui n'a pas été utilisé à temps n'est plus disponible.",
+          "Selon la politique de coupons de SHEIN, un seul coupon de la plateforme peut être utilisé par commande. Chaque coupon a une date de validité, et celui qui n'a pas été utilisé à temps n'est plus disponible.",
           "Les points SHEIN valent US$ 1 pour 100 points et déduisent jusqu'à 30 % de la valeur des produits, hors livraison et taxes.",
           "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage SHEIN de Cecília. Vous recherchez 4CW5Y dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Les campagnes SHEIN changent tout le temps : consultez les campagnes en cours sur la page de la boutique, ici sur le site, avant de valider la commande."
         ],
@@ -60326,8 +60344,8 @@ export const reviewsData: unknown[] = [
           "Qu'est-ce que le 11.11 de SHEIN ? C'est la promotion de la Fête des célibataires, le 11 du mois 11. SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases de remise jusqu'à la fin du mois.",
           "Puis-je utiliser plus d'un coupon sur SHEIN ? Un coupon SHEIN par commande.",
           "Le 4CW5Y est-il un coupon de réduction ? Non. C'est le code de parrainage SHEIN de Cecília : vous recherchez le code dans l'appli SHEIN et voyez les conditions pour votre compte.",
-          "Y a-t-il la livraison gratuite pendant le Black Friday de SHEIN ? La livraison gratuite change à chaque phase de la campagne : vérifiez celle de votre commande dans le panier avant de payer.",
-          "De combien de temps dispose-t-on pour retourner ce qu'on a acheté pendant le Black Friday ? Jusqu'à 20 jours après la réception. Sous-vêtements, maillots, bodies, boucles d'oreilles et quelques autres articles ne se retournent que sous 7 jours."
+          "La livraison est-elle gratuite pendant le Black Friday de SHEIN ? La livraison gratuite change à chaque phase de la campagne : vérifiez celle de votre commande dans le panier avant de payer.",
+          "De combien de temps est-ce que je dispose pour retourner mes achats du Black Friday ? Jusqu'à 20 jours après la réception. Sous-vêtements, maillots, bodies, boucles d'oreilles et quelques autres articles ne se retournent que sous 7 jours."
         ]
       }
     ],
@@ -60369,7 +60387,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "11. Oktober 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
     "imageAlt": "Cecília Mauad in zwei Looks aus einem SHEIN-Haul: helle Bluse, in der Taille geknotet, mit schwarzem Midirock, und langes schwarzes Kleid mit hellen Cut-outs",
@@ -60434,14 +60452,14 @@ export const reviewsData: unknown[] = [
           "Speichern Sie die Teile vor Beginn der Aktion auf der Wunschliste und notieren Sie den heutigen Preis.",
           "Vergleichen Sie den Preis auf der Liste mit dem der späteren Phasen: In den letzten drei Jahren stieg der Höchstrabatt auf der Zielgeraden.",
           "Achten Sie auf den Endpreis im Warenkorb, mit Versand und Steuern, und nicht nur auf den Prozentsatz der Ankündigung.",
-          "Wenn das Teil in einer schwer zu findenden Größe kommt, warten Sie nicht auf die letzte Phase: Der Bestand kann vorher ausverkauft sein."
+          "Wenn das Teil in einer schwer zu findenden Größe kommt, warten Sie nicht auf die letzte Phase: Der Artikel kann vorher vergriffen sein."
         ]
       },
       {
         "heading": "Gutscheine, Punkte und der Code 4CW5Y",
         "paragraphs": [
-          "Nach der Gutscheinrichtlinie von SHEIN gilt pro Bestellung ein Gutschein der Plattform. Jeder Gutschein hat ein Ablaufdatum, und was nicht rechtzeitig genutzt wurde, ist nicht mehr verfügbar.",
-          "SHEIN-Punkte sind US$ 1 pro 100 Punkte wert und senken bis zu 30 % des Warenwerts, ohne Versand und Steuern.",
+          "Nach der Gutscheinrichtlinie von SHEIN gilt pro Bestellung ein Gutschein der Plattform. Jeder Gutschein hat ein Ablaufdatum, danach ist er nicht mehr verfügbar.",
+          "SHEIN-Punkte sind US$ 1 pro 100 Punkte wert und senken den Warenwert um bis zu 30 %, ohne Versand und Steuern.",
           "4CW5Y ist kein Gutschein, sondern Cecílias SHEIN-Empfehlungscode. Sie suchen 4CW5Y in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Die SHEIN-Aktionen ändern sich ständig: Prüfen Sie die aktuellen auf der Shop-Seite hier auf der Website, bevor Sie bestellen."
         ],
         "links": [
@@ -60461,7 +60479,7 @@ export const reviewsData: unknown[] = [
           "**Frist:** bis zu 20 Tage nach Erhalt, auch wenn Ihnen das Teil einfach nicht gefallen hat.",
           "**Artikel, die nur innerhalb von 7 Tagen zurückgehen:** Bodys, Bademode, Unterwäsche, Ohrringe und Piercings, Tierbedarf sowie Kosmetik, Partyartikel und Bastelbedarf mit geöffnetem Siegel. Diese können nur innerhalb der Widerrufsfrist von 7 Tagen zurückgegeben werden, gerechnet ab Lieferung.",
           "**Gutschein:** Bei einer Teilrückgabe gilt der Gutschein als eingelöst und wird nicht zurückgegeben; fällt die Bestellung unter den Mindestwert, wird die Differenz von der Erstattung abgezogen.",
-          "**Steuer:** Die gezahlte Einfuhrsteuer wird nicht erstattet, sobald die Bestellung versandt wurde."
+          "**Steuer:** Der gezahlte Einfuhrzoll wird nicht erstattet, sobald die Bestellung versandt wurde."
         ]
       },
       {
@@ -60477,7 +60495,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Wann beginnt der Black Friday von SHEIN 2026? SHEIN hat ihn noch nicht angekündigt. 2024 begannen die Angebote zusammen mit dem 11.11, Ende Oktober, und 2025 waren sie Anfang November schon online. Der Black Friday 2026 fällt auf den letzten Freitag im November.",
           "Wie lange läuft der Black Friday von SHEIN? 2024 und 2025 bis Ende November. 2023 bis zum Samstag nach dem Black Friday.",
-          "Was ist der 11.11 von SHEIN? Das ist die Aktion zum Single's Day, am 11. Tag des 11. Monats. SHEIN fasst den 11.11 und den Black Friday zu einer einzigen Aktion zusammen, mit Rabattphasen bis Monatsende.",
+          "Was ist der 11.11 von SHEIN? Das ist die Aktion zum Singles' Day, am 11. Tag des 11. Monats. SHEIN fasst den 11.11 und den Black Friday zu einer einzigen Aktion zusammen, mit Rabattphasen bis Monatsende.",
           "Kann ich bei SHEIN mehr als einen Gutschein nutzen? Ein SHEIN-Gutschein pro Bestellung.",
           "Ist 4CW5Y ein Rabattgutschein? Nein. Es ist Cecílias SHEIN-Empfehlungscode: Sie suchen den Code in der SHEIN-App und sehen die Bedingungen für Ihr Konto.",
           "Gibt es am Black Friday von SHEIN kostenlosen Versand? Der kostenlose Versand ändert sich mit jeder Phase der Aktion: Prüfen Sie den Ihrer Bestellung im Warenkorb, bevor Sie bezahlen.",
@@ -60523,10 +60541,10 @@ export const reviewsData: unknown[] = [
     "publishedAt": "11 ottobre 2026",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-    "imageAlt": "Cecília Mauad in due look di un haul SHEIN: camicetta chiara annodata in vita con gonna midi nera, e lungo abito nero con inserti chiari",
+    "imageAlt": "Cecília Mauad in due look di un haul SHEIN: camicetta chiara annodata in vita con gonna midi nera, e lungo abito nero con cut-out chiari",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
@@ -60595,7 +60613,7 @@ export const reviewsData: unknown[] = [
         "heading": "Coupon, punti e il codice 4CW5Y",
         "paragraphs": [
           "Secondo la politica dei coupon di SHEIN, vale un coupon della piattaforma per ordine. Ogni coupon ha una scadenza, e quello non usato in tempo non è più disponibile.",
-          "I punti SHEIN valgono US$ 1 ogni 100 punti e abbattono fino al 30% del valore dei prodotti, escluse spedizione e imposte.",
+          "I punti SHEIN valgono US$ 1 ogni 100 punti e scontano fino al 30% del valore dei prodotti, escluse spedizione e imposte.",
           "Il 4CW5Y non è un coupon: è il codice invito SHEIN di Cecília. Cerchi 4CW5Y nell'app SHEIN e controlli le condizioni che compaiono per il tuo account. Le campagne di SHEIN cambiano in continuazione: controlla quelle in corso nella pagina del negozio qui sul sito prima di chiudere l'ordine."
         ],
         "links": [
@@ -60613,7 +60631,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cambi e resi dopo il Black Friday",
         "bullets": [
           "**Termine:** fino a 20 giorni dopo la ricezione, anche se il capo semplicemente non ti è piaciuto.",
-          "**Articoli che si rendono solo entro 7 giorni:** body, beachwear, intimo, orecchini e piercing, prodotti per animali, oltre a cosmetici, articoli per feste e per il fai da te con il sigillo aperto. Questi si possono rendere solo entro il termine di recesso di 7 giorni, contato dalla consegna.",
+          "**Articoli che si rendono solo entro 7 giorni:** body, costumi da bagno, intimo, orecchini e piercing, prodotti per animali, oltre a cosmetici, articoli per feste e per il fai da te con il sigillo aperto. Questi si possono rendere solo entro il termine di recesso di 7 giorni, contato dalla consegna.",
           "**Coupon:** in un reso parziale il coupon conta come usato e non viene restituito; se l'ordine scende sotto il minimo, la differenza viene tolta dal rimborso.",
           "**Imposta:** l'imposta di importazione pagata non viene rimborsata dopo che l'ordine è stato spedito."
         ]
@@ -60635,7 +60653,7 @@ export const reviewsData: unknown[] = [
           "Posso usare più di un coupon su SHEIN? Un coupon SHEIN per ordine.",
           "Il 4CW5Y è un coupon sconto? No. È il codice invito SHEIN di Cecília: cerchi il codice nell'app SHEIN e vedi le condizioni per il tuo account.",
           "C'è la spedizione gratuita nel Black Friday di SHEIN? La spedizione gratuita cambia a ogni fase della campagna: controlla quella del tuo ordine nel carrello prima di pagare.",
-          "Quanto tempo ho per rendere ciò che ho comprato nel Black Friday? Fino a 20 giorni dopo la ricezione. Intimo, beachwear, body, orecchini e alcuni altri articoli si rendono solo entro 7 giorni."
+          "Quanto tempo ho per rendere ciò che ho comprato nel Black Friday? Fino a 20 giorni dopo la ricezione. Intimo, costumi da bagno, body, orecchini e alcuni altri articoli si rendono solo entro 7 giorni."
         ]
       }
     ],
@@ -60677,7 +60695,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026년 10월 11일",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
     "imageAlt": "Cecília가 SHEIN 하울에서 입은 두 가지 룩: 허리에 묶은 밝은 블라우스와 검은 미디 스커트, 그리고 밝은 컷아웃이 들어간 검은 롱 원피스",
@@ -60750,7 +60768,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN의 쿠폰 정책에 따르면 플랫폼 쿠폰은 주문당 하나입니다. 쿠폰마다 유효기간이 있으며, 제때 쓰지 않으면 사용할 수 없게 됩니다.",
           "SHEIN 포인트는 100포인트가 US$ 1이고, 상품 금액의 최대 30%까지 차감합니다. 배송비와 세금은 제외입니다.",
-          "4CW5Y는 쿠폰이 아니라 Cecília의 SHEIN 추천 코드입니다. SHEIN 앱에서 4CW5Y를 검색하고, 내 계정에 표시되는 조건을 확인하세요. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요."
+          "4CW5Y는 쿠폰이 아니라 Cecília의 SHEIN 추천 코드입니다. SHEIN 앱에서 4CW5Y를 검색하고, 계정에 표시되는 조건을 확인하세요. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요."
         ],
         "links": [
           {
@@ -60787,8 +60805,8 @@ export const reviewsData: unknown[] = [
           "SHEIN 블랙프라이데이는 언제까지인가요? 2024년과 2025년에는 11월 말까지였습니다. 2023년에는 블랙프라이데이 다음 토요일까지였습니다.",
           "SHEIN 11.11이 무엇인가요? 11월 11일 광군제 할인입니다. SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶어 월말까지 단계별로 할인합니다.",
           "SHEIN에서 쿠폰을 두 개 이상 쓸 수 있나요? SHEIN 쿠폰은 주문당 하나입니다.",
-          "4CW5Y는 할인 쿠폰인가요? 아니요. Cecília의 SHEIN 추천 코드입니다. SHEIN 앱에서 코드를 검색하면 내 계정의 조건을 볼 수 있습니다.",
-          "SHEIN 블랙프라이데이에 무료 배송이 있나요? 무료 배송은 캠페인 단계마다 달라집니다. 결제 전에 장바구니에서 내 주문의 배송비를 확인하세요.",
+          "4CW5Y는 할인 쿠폰인가요? 아니요. Cecília의 SHEIN 추천 코드입니다. SHEIN 앱에서 코드를 검색하면 계정의 조건을 볼 수 있습니다.",
+          "SHEIN 블랙프라이데이에 무료 배송이 있나요? 무료 배송은 캠페인 단계마다 달라집니다. 결제 전에 장바구니에서 주문의 배송비를 확인하세요.",
           "블랙프라이데이에 산 상품은 얼마나 반품할 수 있나요? 수령 후 20일 이내입니다. 속옷, 수영복, 보디수트, 귀걸이 등 일부 상품은 7일 안에만 반품됩니다."
         ]
       }
@@ -60831,10 +60849,10 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-    "imageAlt": "CecíliaがSHEINのまとめ買いで着た2つのコーディネート。ウエストで結んだ明るい色のブラウスと黒のミディスカート、そして明るい切り替えの入った黒のロングワンピース",
+    "imageAlt": "CecíliaがSHEINのまとめ買いで着た2つのコーディネート。ウエストで結んだ明るい色のブラウスと黒のミディスカート、そして明るい色のカットアウトが入った黒のロングワンピース",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
@@ -60937,7 +60955,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "2026年のSHEINのブラックフライデーはいつ始まりますか？SHEINはまだ発表していません。2024年は11.11と同時に10月末に始まり、2025年は11月初めにすでに実施されていました。2026年のブラックフライデーは、11月の最後の金曜日です。",
+          "2026年、SHEINのブラックフライデーはいつ始まりますか？SHEINはまだ発表していません。2024年は11.11と同時に10月末に始まり、2025年は11月初めにすでに実施されていました。2026年のブラックフライデーは、11月の最後の金曜日です。",
           "SHEINのブラックフライデーはいつまでですか？2024年と2025年は11月末まででした。2023年は、ブラックフライデーの翌土曜日まででした。",
           "SHEINの11.11とは何ですか？11月11日の独身の日のセールです。SHEINは11.11とブラックフライデーを1つのキャンペーンにまとめ、月末まで段階的に割引を行います。",
           "SHEINでクーポンを複数使えますか？SHEINのクーポンは1注文につき1枚です。",
@@ -60985,7 +61003,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
     "imageAlt": "Cecília 在一次 SHEIN 開箱中的兩套穿搭：腰間綁結的淺色上衣搭黑色中長裙，以及帶淺色鏤空設計的黑色長洋裝",
@@ -61139,7 +61157,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
     "imageAlt": "Cecília 在一次 SHEIN 开箱中的两套造型：腰间系结的浅色上衣配黑色中长裙，以及带浅色镂空的黑色长连衣裙",

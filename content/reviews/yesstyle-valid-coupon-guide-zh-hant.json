@@ -85,7 +85,7 @@
       "heading": "為什麼網路上大多數 YesStyle 優惠碼都不能用？",
       "paragraphs": [
         "如果你搜尋過「YesStyle 優惠碼」，複製了一堆代碼，結帳時卻被一個個拒絕，那不是運氣不好：這些代碼大多已經過期。",
-        "主要有三個原因：YesStyle 會推出短期的促銷優惠碼（例如 72 小時或 96 小時的促銷，或月度活動）；自動彙整的網站為了騙點擊，會把過期代碼掛上好幾年；另外，很多代碼屬於特定地區的專屬活動。",
+        "主要有三個原因：YesStyle 會推出短期的促銷優惠碼（例如 72 小時或 96 小時的促銷，或月度活動）；自動彙整的網站為了吸引點擊，會把過期代碼掛上好幾年；另外，很多代碼屬於特定地區的專屬活動。",
         "想不浪費時間、也不在付款時放棄，關鍵是弄懂 YesStyle 的折扣架構，並查看品牌的官方管道。"
       ],
       "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
@@ -93,7 +93,7 @@
       "imageCaption": "一個已經結束的活動的官方促銷優惠碼範例。促銷優惠碼變動頻繁，購買前請查看我們的專屬頁面。",
       "imageFit": "wide",
       "bullets": [
-        "月度促銷優惠碼：有效期限，通常享 10% 至 15% 折扣。",
+        "月度促銷優惠碼：有有效期限，通常享 10% 至 15% 折扣。",
         "獎勵碼（Reward Code）：像 CECILIA010 這樣的網紅代碼，可額外疊加高達 5% 折扣。",
         "官方管道：查看網站橫幅、商店的電子報，或我們的專屬優惠碼頁面。"
       ]
@@ -200,7 +200,7 @@
       "bullets": [
         "YesStyle 的 Coupon Code 和 Influencer/Rewards Code 有什麼差別？ Coupon Code 是促銷優惠碼，填在「Coupon Code」欄位，有各自的效期和規則：可能有最低消費、地區限制或不適用的商品。CECILIA010 是獎勵碼（Influencer/Rewards Code），填在另外的「Reward Code」欄位，首次購買 5%，之後 2%。促銷規則允許時，訂單摘要中可以同時出現兩項折扣。",
         "YesStyle 的網紅代碼是什麼？ 就是獎勵碼（Reward Code），填在結帳頁面的專用欄位，和優惠碼欄位分開。我們的代碼是 CECILIA010，填在 Reward Code 欄位。",
-        "YesStyle 的優惠碼有效期限嗎？ 有。促銷優惠碼都有效期限，而且可能不經通知就過期。有些活動只持續幾天（例如 72 小時或 96 小時的促銷），也有些持續更久。完成購買之前，請在促銷規則中確認效期、最低消費、地區和適用商品，並確認結帳時折扣已經生效。",
+        "YesStyle 的優惠碼有有效期限嗎？ 有。促銷優惠碼都有效期限，而且可能不經通知就過期。有些活動只持續幾天（例如 72 小時或 96 小時的促銷），持續時間因活動而異。完成購買之前，請在促銷規則中確認效期、最低消費、地區和適用商品，並確認結帳時折扣已經生效。",
         "在哪裡可以找到 YesStyle 優惠碼的官方規則？ 通用規則在 YesStyle 客服中心的「General Terms and Conditions for Coupons」頁面。具體活動的條件，請進入客服中心並開啟「Promotions」區塊，YesStyle 會在那裡公布效期、最低消費、參與地區和可能的例外。這些條件會變動，所以付款前也請查看促銷橫幅和訂單摘要。",
         "同一筆訂單可以使用多個促銷優惠碼嗎？ 不行。依 YesStyle 的通用規則，每筆訂單（或合併訂單）只能使用一個 Coupon Code。不過 CECILIA010 不是 Coupon Code，要填在另外的「Reward Code」欄位。因此，只要活動符合資格、結帳頁面接受兩者，促銷優惠碼和 CECILIA010 就可以一起用。"
       ],
@@ -218,5 +218,6 @@
   ],
   "locale": "zh-hant",
   "translationKey": "yesstyle-coupon-guide",
-  "category": "cupons-como-usar"
+  "category": "cupons-como-usar",
+  "isNew": false
 }

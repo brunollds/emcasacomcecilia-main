@@ -100,7 +100,7 @@
       ]
     },
     {
-      "heading": "Capire i 2 campi sconto al checkout (Coupon Code e Reward Code)",
+      "heading": "Capire i 2 campi sconto al checkout (Coupon Code vs Reward Code)",
       "paragraphs": [
         "Il checkout di YesStyle ha due campi separati, e l'errore è scambiare l'uno con l'altro:",
         "Poiché il checkout ha campi separati, gli sconti idonei possono sommarsi se la campagna lo consente. Controlla entrambi nel riepilogo dell'ordine."
@@ -131,7 +131,7 @@
     {
       "heading": "Passo 1: accedi al negozio dal link ufficiale",
       "paragraphs": [
-        "Apri YesStyle dal link ufficiale da influencer di Cecília. Questo aiuta a registrare correttamente la segnalazione prima che tu applichi i codici al checkout."
+        "Apri YesStyle dal link ufficiale dell'influencer Cecília. Questo aiuta a registrare correttamente il referral prima che tu applichi i codici al checkout."
       ],
       "links": [
         {
@@ -219,5 +219,6 @@
   ],
   "locale": "it",
   "translationKey": "yesstyle-coupon-guide",
-  "category": "cupons-como-usar"
+  "category": "cupons-como-usar",
+  "isNew": false
 }
