@@ -34,7 +34,7 @@
     {
       "heading": "Mochilas para notebook por faixa de preço",
       "paragraphs": [
-        "Dos resultados da busca 'notebook' da loja, reunimos 12 modelos, do mais barato ao mais caro. Os preços são do cartão, lidos nas páginas dos produtos em 30/10/2026. Nas de poliéster, a faixa vai de R$ 79,90 a R$ 299,90. As de couro custam de R$ 399,90 a R$ 699,90.",
+        "12 modelos do mais barato ao mais caro, no cartão em 30/10/2026. Nas de poliéster, a faixa vai de R$ 79,90 a R$ 299,90. As de couro custam de R$ 399,90 a R$ 699,90.",
         "Medida, material e etiqueta de tamanho vêm da página de cada produto."
       ],
       "comparisonTable": {
@@ -154,8 +154,8 @@
       "bullets": [
         "Dia a dia, com orçamento curto: BG Net Branco, Horizonte Slim e BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a única em que o cadastro traz a medida do notebook.",
         "Trabalho, modelo executivo: Texas, Nurack e City Safe, de poliéster e com etiqueta Grande, entre R$ 179,90 e R$ 199,90.",
-        "Feminina e executiva: a Donna, de R$ 299,90, é média, com poliéster e PVC, e tem 90 dias de garantia, segundo a Bagaggio.",
-        "Couro: Arpoador, a R$ 399,90, ou Joá Café, a R$ 699,90, ambas com etiqueta Pequena. O material está na tabela; nenhuma delas foi usada por nós, então não dizemos qual dura mais."
+        "Feminina e executiva: a Donna, de R$ 299,90, é média, com poliéster e PVC, e tem 90 dias de garantia, diz a página.",
+        "Couro: Arpoador, a R$ 399,90, ou Joá Café, a R$ 699,90, ambas com etiqueta Pequena. O material está na tabela; qual dura mais, a página não diz."
       ],
       "images": [
         {
@@ -184,34 +184,36 @@
     {
       "heading": "A Tech é da linha Travelcross",
       "paragraphs": [
-        "A Tech Preta sai por R$ 139,90, com 45 × 34 × 15 cm e etiqueta Grande. A loja a põe na marca Travelcross, e por isso ela não tem a garantia vitalícia que vale para as malas da Bagaggio. A página diz 3 meses."
+        "A Tech Preta é Travelcross, não Bagaggio: por isso ela não tem a garantia vitalícia das malas. A página diz 3 meses."
       ]
     },
     {
       "heading": "Garantia de mochila",
       "paragraphs": [
         "A garantia que vale é a que a loja indica para cada modelo, e ela muda de um para outro. São três anos na BG Net Branco e na Kronos Preta; 90 dias na Texas, na Donna e na Joá Café; e 3 meses nos outros sete da tabela.",
-        "A garantia vitalícia que o guia da garantia descreve é para as malas da marca Bagaggio. Pelo que lemos na página, nenhuma mochila entra nela. Veja o [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+        "A garantia vitalícia que o guia da garantia descreve é para as malas da marca Bagaggio. Nenhuma mochila da tabela entra nela. Veja o [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
       ]
     },
     {
       "heading": "Parceria e cupom",
       "paragraphs": [
         "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto. Vale um cupom por pedido. A promoção de 50% na 2ª peça é outro cupom e não soma com o CECILIA10. No Pix, a loja tira mais 5% sobre o total com cupom: foi o que aconteceu no nosso teste, numa mala avulsa.",
-        "Não testamos o cupom no carrinho de uma mochila nesta rodada, então confira o desconto no resumo do pedido antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+        "Confira o desconto no resumo do pedido antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
       ]
     },
     {
       "heading": "Qual escolher",
       "paragraphs": [
-        "Se o seu notebook não está por perto para medir, a Horizonte Slim é a escolha mais simples: é a mais barata com a medida do notebook informada pela loja. Os outros modelos dependem do seu gosto e do seu notebook."
+        "Se o seu notebook não está por perto para medir, a Horizonte Slim é a escolha mais simples. Os outros modelos dependem do seu gosto e do seu notebook."
       ],
       "bullets": [
         "Até R$ 100: Horizonte Slim, BG Net Branco ou BG Quiz Marinho, todas a R$ 79,90. Se a garantia pesa, a BG Net tem três anos, diz a fonte oficial.",
         "R$ 179,90 a R$ 199,90, executiva: Texas, Nurack ou City Safe, todas de poliéster e com etiqueta Grande.",
         "Feminina: Donna, a R$ 299,90, média, com 90 dias de garantia.",
         "Couro: Arpoador, a R$ 399,90, com 3 meses de garantia, ou Joá Café, a R$ 699,90, com 90 dias."
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria a Horizonte Slim, porque é a mais barata com a medida do notebook informada pela loja.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Perguntas frequentes",
@@ -234,7 +236,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+  "editorialNote": "Feito com as fichas públicas da loja. O cupom não foi testado no carrinho de uma mochila. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
       "slug": "mochila-escolar-bagaggio",
@@ -252,5 +254,15 @@
       "slug": "cupom-bagaggio-como-usar",
       "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer gastar pouco e o notebook tem até 15,6 polegadas, a medida que a descrição da Horizonte Slim informa.",
+      "Você carrega o notebook para o trabalho: Texas, Nurack e City Safe são de poliéster e têm etiqueta Grande."
+    ],
+    "skipIf": [
+      "A garantia decide a compra: ela muda por modelo, de 3 meses a 3 anos, então confira na página antes de comprar.",
+      "Você não mediu o notebook ou ele é maior: meça antes, porque só a Horizonte informa as polegadas."
+    ]
+  }
 }

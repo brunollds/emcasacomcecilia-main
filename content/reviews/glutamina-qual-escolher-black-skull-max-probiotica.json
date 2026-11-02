@@ -34,7 +34,7 @@
     {
       "heading": "Como comparamos",
       "paragraphs": [
-        "Usamos só o que as lojas publicam: rótulo, preço de venda e tamanho do pote. Comparamos os potes de glutamina das lojas oficiais, sem marketplace. Ninguém da equipe usou estes produtos.",
+        "Usamos só o que as lojas publicam: rótulo, preço de venda e tamanho do pote. Comparamos os potes de glutamina das lojas oficiais, sem marketplace.",
         "As contas são nossas, arredondadas no centavo:"
       ],
       "bullets": [
@@ -138,7 +138,7 @@
     {
       "heading": "Pote de 300 g ou menor",
       "paragraphs": [
-        "Os potes de 300 g da Max e da Probiótica empatam: 60 doses por R$ 69,90. Segundo a Max, a matéria-prima da L-G é de fonte vegetal.",
+        "Os potes de 300 g da Max e da Probiótica empatam: 60 doses por R$ 69,90. A matéria-prima da L-G é de fonte vegetal, diz a Max.",
         "Os potes menores saem mais caros por grama. O de 120 g da Probiótica tem 24 doses e o de 150 g da Max tem 30, ambos a R$ 32,8 por 100 g, cerca de 40% mais que o de 300 g da mesma marca."
       ],
       "image": {
@@ -155,7 +155,8 @@
         "**Menor preço por grama de glutamina pura:** Max Titanium ou Probiótica, pote de 300 g.",
         "**Marca da Black Skull:** o pote de 300 g, R$ 26,63 por 100 g.",
         "**Quer testar antes de comprar o pote grande:** o de 120 g da Probiótica ou o de 150 g da Max, com o preço por grama mais alto."
-      ]
+      ],
+      "emphasis": "Pelos números da tabela, para quem quer pagar menos por grama de glutamina pura a escolha é o pote de 300 g da Max ou da Probiótica, porque sai a R$ 23,30 por 100 g, abaixo dos R$ 26,63 da Black Skull."
     },
     {
       "heading": "Cupom de cada loja",
@@ -173,6 +174,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Para pagar menos por grama de glutamina pura: o pote de 300 g da Max ou da Probiótica.",
+      "Para testar antes de comprar o pote grande: o de 120 g da Probiótica ou o de 150 g da Max, com o preço por grama mais alto."
+    ],
+    "skipIf": [
+      "Para uma fórmula só de glutamina: a Turbo não serve, porque metade da porção é maltodextrina.",
+      "Para usar por muito tempo: os potes menores custam cerca de 40% mais por grama."
+    ]
+  },
   "gallery": [
     {
       "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",

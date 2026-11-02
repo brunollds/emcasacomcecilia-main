@@ -34,7 +34,7 @@
     {
       "heading": "Passo a passo do removedor",
       "paragraphs": [
-        "O modo de uso do removedor vem da página do produto. A área indicada é corpo. Para escolher o autobronzeador antes de pensar em tirar, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
+        "Na pele seca e na área do corpo: esse é o modo da marca. Para escolher o autobronzeador antes de pensar em tirar, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
       ],
       "bullets": [
         "Agite o produto.",
@@ -44,7 +44,7 @@
         "Tire o excesso do produto com água."
       ],
       "postParagraphs": [
-        "O [Removedor de Autobronzeador](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é o item que a Skelt indica para isso. A página não traz dado de quanto ele tira de bronze, e ninguém do site testou o produto."
+        "O [Removedor de Autobronzeador](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é o item que a Skelt indica para isso. A página não traz dado de quanto ele tira de bronze."
       ],
       "image": {
         "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-frasco.webp",
@@ -59,7 +59,7 @@
       "paragraphs": [
         "A Skelt pede pelo menos 3 dias depois da aplicação. Antes desse prazo, a página não indica o removedor. Se a ideia é um bronze para hoje, o [bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) é outro produto, com instruções próprias.",
         "O [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem outra regra. Pela descrição da marca, após o tempo de ação, o produto se retira no banho e apenas com água morna. É o procedimento da marca para esse produto, não um substituto do removedor.",
-        "Se você não tem o removedor e o autobronzeador não é o Bifásico, este texto não sugere outro método. A página de cada produto é que manda. Quem quer o brilho depois do bronze encontra o [iluminador corporal](/reviews/iluminador-corporal-skelt-como-usar) em outro artigo."
+        "Sem o removedor, siga a página do seu autobronzeador. Quem quer o brilho depois do bronze encontra o [iluminador corporal](/reviews/iluminador-corporal-skelt-como-usar) em outro artigo."
       ],
       "image": {
         "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-mao.webp",
@@ -72,7 +72,7 @@
     {
       "heading": "Preço e o que vem junto",
       "paragraphs": [
-        "Os preços são de cartão, lidos na loja. A luva não entra na conta de remoção: ela é a peça de aplicação."
+        "A conta é só do removedor: a luva é peça de aplicação, não de remoção."
       ],
       "comparisonTable": {
         "headers": [
@@ -97,10 +97,11 @@
             "-",
             "Aplicar o autobronzeador, não remover"
           ]
-        ]
+        ],
+        "caption": "Preço de cartão, da ficha do produto e da luva na Skelt; preço e estoque mudam, confira no site antes de comprar."
       },
       "postParagraphs": [
-        "Pix e cupom: o SKEMCASACOMCECILIA, o [cupom Skelt](/cupons/skelt), dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só. Não calculamos o valor final com o cupom nesta leitura, então confira no resumo do pedido."
+        "Pix e cupom: o SKEMCASACOMCECILIA, o [cupom Skelt](/cupons/skelt), dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só."
       ],
       "image": {
         "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-luva.webp",
@@ -119,12 +120,6 @@
         "Funciona? A página não traz dado de eficácia, e ninguém do site testou o produto.",
         "Posso usar no rosto? A Skelt indica área corpo, então este texto não recomenda o rosto."
       ]
-    },
-    {
-      "heading": "Como este guia foi feito",
-      "paragraphs": [
-        "Ninguém do site usou o removedor. Este texto reúne o que a Skelt publica na ficha do produto e da luva: modo de uso, área, prazo e preço. O que a marca anuncia sobre o produto é dela, e não resultado que tenhamos visto. Preço e estoque mudam; confira no site da Skelt antes de comprar. Podemos receber comissão pelas compras feitas pelos links da Skelt ou com o cupom SKEMCASACOMCECILIA."
-      ]
     }
   ],
   "pros": [],
@@ -137,7 +132,7 @@
   },
   "coupon": "SKEMCASACOMCECILIA",
   "affiliate": "skelt",
-  "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
+  "editorialNote": "Não usamos os produtos. Não calculamos o valor final com o cupom. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
   "relatedArticles": [
     {
       "slug": "autobronzeador-skelt-qual-escolher",

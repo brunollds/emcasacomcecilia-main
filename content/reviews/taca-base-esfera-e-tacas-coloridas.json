@@ -41,13 +41,13 @@
     {
       "heading": "Qual cor",
       "paragraphs": [
-        "A linha tem quatro cores: âmbar, azul, verde e rosa. O âmbar é o mais fácil de combinar com madeira, linho e louça clara. Azul e verde dão contraste com o branco. O rosa é o que mais muda o clima da mesa."
+        "São quatro cores, âmbar, azul, verde e rosa, e o âmbar é o mais fácil de combinar: vai com madeira, linho e louça clara. Azul e verde dão contraste com o branco. O rosa é o que mais muda o clima da mesa."
       ]
     },
     {
       "heading": "Qual tamanho: 450 ml ou 250 ml",
       "paragraphs": [
-        "A taça de 450 ml mede 15 cm de altura e 8,5 cm de diâmetro, segundo a loja. É de vidro, transparente, com base colorida.",
+        "A taça de 450 ml mede 15 cm de altura e 8,5 cm de diâmetro, diz a página. É de vidro, transparente, com base colorida.",
         "A de 250 ml tem o nome de taça para champanhe. A descrição da loja não diz para qual bebida serve a de 450 ml."
       ]
     },
@@ -218,6 +218,13 @@
       ]
     },
     {
+      "heading": "Para 4 pessoas, o kit 6 + 6",
+      "paragraphs": [
+        "A linha Sphere só sai em conjunto, então a conta é por taça, como na tabela: o kit 6 + 6 sai a R$ 46,42 por taça, contra R$ 49,67 do conjunto de 450 ml e R$ 48,17 do de 250 ml."
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria o kit 6 + 6, porque cobre vinho e champanhe para 4 pessoas e a taça sai a menos que nos jogos de 6."
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
         "A taça Sphere é de vidro? Sim. A loja descreve vidro transparente com base colorida.",
@@ -227,6 +234,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o kit 6 + 6 se a mesa de 4 serve vinho e champanhe: ele cobre os dois.",
+      "Leve um jogo de 6 se a mesa serve uma bebida só."
+    ],
+    "skipIf": [
+      "Passe na linha Sphere se quer peça avulsa: ela só sai em conjunto.",
+      "Passe se a dúvida é a lava-louças: a descrição da loja não diz."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

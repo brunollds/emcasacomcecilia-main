@@ -100,7 +100,8 @@
     {
       "heading": "Os planos do Reach",
       "paragraphs": [
-        "A página brasileira do Reach tem três planos: Starter, Grow e Pro. No carrinho, o Grow aparece como \"Reach 500\", pelo limite de 500 destinatários. Os preços abaixo são da página, lidos em 30/10/2026, na campanha de Black Friday, sem impostos:"
+        "Três planos pagos, sem grátis: Starter, Grow e Pro. No carrinho, o Grow aparece como \"Reach 500\", pelo limite de 500 destinatários. Os preços abaixo são da página, lidos em 30/10/2026, na campanha de Black Friday, sem impostos:",
+        "A página dá 30 dias para pedir reembolso, e na Black Friday ela diz que adicionar um site dá 30% extra no Reach; não testamos essa oferta."
       ],
       "comparisonTable": {
         "headers": [
@@ -142,7 +143,7 @@
         "**Grow:** 500 destinatários, 3.500 e-mails por mês e 10 créditos de IA por mês. Tira a marca da Reach e traz personalização, agendamento e automações.",
         "**Pro:** 1.000 destinatários, 7.000 e-mails por mês e 20 créditos de IA por mês. Soma HTML, horário de envio otimizado, campanhas de WhatsApp, campos personalizados e colegas de equipe."
       ],
-      "emphasis": "A página dá 30 dias para pedir reembolso. Na Black Friday, ela também diz que adicionar um site dá 30% extra no Reach; não testamos essa oferta."
+      "emphasis": "Na dúvida entre os planos, o que decide é o tamanho da lista. Quem passa de 1.000 destinatários já fica fora do Reach."
     },
     {
       "heading": "Mailchimp e Brevo: plano grátis e preço publicado",
@@ -215,7 +216,7 @@
       "heading": "SONAR20 e preço do Reach",
       "paragraphs": [
         "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. O Bruno testou no Reach: o carrinho mostrou o Reach 500 (o Grow) de 24 meses a R$ 8,99/mês, R$ 215,76 no total; com o SONAR20, ficou em R$ 172,61, ou R$ 7,19/mês, renovando a R$ 8,99/mês.",
-        "No mesmo dia, a página mostrava o Grow de 24 meses a R$ 6,29/mês, o preço de Black Friday. São leituras diferentes, de lugares diferentes: confira no carrinho qual preço vale para você e quanto o SONAR20 tira dele. Nos outros planos e períodos do Reach, não testamos; confira no carrinho. A regra completa do código está em [cupons da Hostinger](/cupons/hostinger)."
+        "No mesmo dia, a página mostrava o Grow de 24 meses a R$ 6,29/mês, o preço de Black Friday. Confira no carrinho qual preço vale para você e quanto o SONAR20 tira dele. Nos outros planos e períodos do Reach, não testamos; confira no carrinho. A regra completa do código está em [cupons da Hostinger](/cupons/hostinger)."
       ]
     },
     {
@@ -223,7 +224,8 @@
       "paragraphs": [
         "**Vale a pena** para quem já tem site na Hostinger e uma lista de até 1.000 destinatários. Pelo preço publicado, o Grow e o Pro custam menos que os planos pagos do Mailchimp e do Brevo na mesma faixa, e a renovação do Reach (R$ 10,99/mês no Grow, R$ 19,99/mês no Pro) também fica abaixo deles. O Grow cobre lista de até 500 com automações; o Pro, lista de até 1.000 e WhatsApp.",
         "**Fique no plano grátis do Mailchimp ou do Brevo** se a lista está começando e você ainda não sabe se vai mandar e-mail com frequência. O Reach não tem plano grátis na página brasileira.",
-        "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se você manda para a lista toda mais de uma vez por semana: os planos do Reach param em 1.000 destinatários e 7.000 e-mails por mês."
+        "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se você manda para a lista toda mais de uma vez por semana: os planos do Reach param em 1.000 destinatários e 7.000 e-mails por mês.",
+        "Se fosse para o meu site, eu levaria o Reach Grow, porque cobre a lista de até 500 com automações e renova abaixo dos planos pagos do Mailchimp e do Brevo."
       ]
     },
     {
@@ -241,7 +243,7 @@
     {
       "heading": "Quem escreve",
       "paragraphs": [
-        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado lá desde 2024. Ninguém da equipe usou o Reach, o Mailchimp nem o Brevo para mandar campanha: este texto reúne o que as páginas de preço dos três diziam e o teste do SONAR20 no carrinho. Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
+        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado lá desde 2024. Este texto reúne o que as páginas de preço dos três diziam e o teste do SONAR20 no carrinho. Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
       ]
     }
   ],

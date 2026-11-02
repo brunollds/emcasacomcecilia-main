@@ -51,7 +51,7 @@
     {
       "heading": "Camisetas: a tabela",
       "paragraphs": [
-        "Preços de 30/10/2026, no cartão e sem cupom. Cada linha compara o kit com as peças avulsas da mesma linha."
+        "Na tabela, cada linha compara o kit com as avulsas: o de 5 e o de 10 Tech compensam, e o de 3, pouco."
       ],
       "comparisonTable": {
         "headers": [
@@ -158,7 +158,7 @@
     {
       "heading": "Heavy: a cor muda a conta",
       "paragraphs": [
-        "A [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) avulsa vai de R$ 155 a R$ 199, conforme a cor e o tamanho. Com a avulsa a R$ 169, o kit de 5 economiza 17%, e o de 3, 13%. Se a avulsa que você quer for a de R$ 155, as economias caem para 10% e 5%."
+        "A [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) avulsa vai de R$ 155 a R$ 199, pela cor e o tamanho. Com a avulsa a R$ 169, o kit de 5 economiza 17%, e o de 3, 13%. Se a avulsa que você quer for a de R$ 155, as economias caem para 10% e 5%."
       ],
       "images": [
         {
@@ -311,7 +311,7 @@
     {
       "heading": "Cueca Slip: o kit de 5 e o de 10",
       "paragraphs": [
-        "A Cueca Slip avulsa custa R$ 75. O kit de 5 sai a R$ 67,80 por peça, 10% a menos. O de 10 sai a R$ 63,90, 15% a menos."
+        "Na Slip, o kit de 5 sai a R$ 67,80 por peça, 10% abaixo da avulsa de R$ 75. O de 10 sai a R$ 63,90, 15% a menos."
       ],
       "images": [
         {
@@ -350,9 +350,9 @@
       "bullets": [
         "Compensa: Tech de 5 e de 10, Heavy de 3 e de 5, Slip de 10 e Cueca Comfort de 2.",
         "Compensa pouco: Tech de 3, Cueca Comfort ou Performance de 3 e de 5, Slip de 5 e undershirt de 3.",
-        "Não compensa: Daily de 3 (2%) e o kit de 3 Tech de R$ 456, que custa R$ 69 a mais que as avulsas.",
-        "Esgotados: os kits de 10 cuecas Comfort e Performance."
-      ]
+        "Não compensa: Daily de 3 (2%) e o kit de 3 Tech de R$ 456, que custa R$ 69 a mais que as avulsas."
+      ],
+      "emphasis": "Pelos números da tabela, para camisetas lisas a escolha é o kit de 5 Tech, porque sai a R$ 108,88 por peça, contra R$ 129 da avulsa."
     },
     {
       "heading": "Presente: outro texto",
@@ -373,6 +373,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o kit de 5 ou de 10 Tech se quer várias camisetas lisas: é onde a economia por peça é maior.",
+      "Leve o kit de 2 Comfort se quer cueca: é a maior economia da tabela."
+    ],
+    "skipIf": [
+      "Passe no kit de 3 Daily, que quase não economiza.",
+      "Passe no kit de 3 Tech mais caro: ele custa mais que as três avulsas."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

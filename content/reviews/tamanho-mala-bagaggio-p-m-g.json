@@ -147,7 +147,7 @@
       "heading": "Como ler as faixas de 10, 23 e 32 kg",
       "paragraphs": [
         "A mala de 10 kg é a de bordo, em nome e em medida. As faixas de 23 kg e 32 kg são o nome que a loja dá às malas maiores, e a medida muda de linha para linha. A Detroit de 23 kg aparece em duas medidas: a Detroit II, com 66 × 41,5 × 26 cm, e a de 26 polegadas, com 70,5 × 44,5 × 29 cm. Mesma faixa, medidas diferentes.",
-        "Os litros acompanham a medida. Na faixa de 23 kg, as fichas lidas vão de 71 a 91 litros, e na de 32 kg, de 104 a 131. Litros são a capacidade que a loja declara. Não convertemos isso em número de peças de roupa, porque depende de cada peça."
+        "Os litros acompanham a medida. Nos 23 kg, as páginas lidas vão de 71 a 91 litros, e nos 32 kg, de 104 a 131. Litros são a capacidade que a loja declara, não um número de peças de roupa, porque isso depende de cada peça."
       ],
       "images": [
         {
@@ -183,7 +183,7 @@
     {
       "heading": "P, M e G no conjunto",
       "paragraphs": [
-        "Os conjuntos Detroit, Route e Cartagena trazem P, M e G no nome. Pela medida, a P é a de 10 kg, a M é a de 23 kg e a G é a de 32 kg. Essa ligação é conta nossa, feita pela medida das peças do conjunto. A loja não a publica.",
+        "Pela medida, a P é a de 10 kg, a M é a de 23 kg e a G é a de 32 kg. Os conjuntos Detroit, Route e Cartagena trazem as três no nome. Essa ligação é conta nossa, feita pela medida das peças do conjunto. A loja não a publica.",
         "A P do conjunto Route tem 56 × 36 × 22,5 cm na página do conjunto. A mala Route de 10 kg, vendida avulsa, tem 55 × 35 × 22,5 cm. Não conferimos se é a mesma peça. Se a medida pesa na sua escolha, confira as duas páginas.",
         "Na Detroit e na Cartagena, a P do conjunto tem a mesma medida da mala avulsa de 10 kg."
       ]
@@ -205,13 +205,14 @@
         "Quanto tempo você vai ficar? Para viagem curta, a de 10 kg tem 44 a 51 litros. Para mais dias, a de 23 kg tem 71 a 91 litros.",
         "Quantas peças você leva? Os litros são a capacidade declarada pela loja, não um número de peças. Compare com o que você costuma levar.",
         "Vai despachar ou levar na mão? Se for levar na mão, veja a medida da mala de 10 kg e as regras das companhias no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa)."
-      ]
+      ],
+      "emphasis": "Para levar na mão, só a de 10 kg serve; para uma semana despachando, a de 23 kg dá mais espaço."
     },
     {
       "heading": "Parceria e cupom",
       "paragraphs": [
-        "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, segundo a regra da [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
-        "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
+        "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, diz a [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
+        "Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
       ]
     },
     {
@@ -231,6 +232,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "A viagem é curta e a mala vai na mão: a de 10 kg, com 44 a 51 litros.",
+      "A viagem é de uma semana e você despacha: a de 23 kg, com 71 a 91 litros.",
+      "Quer a maior capacidade: a de 32 kg, com 104 a 131 litros."
+    ],
+    "skipIf": [
+      "Quer levar a Cartagena P na mão: ela passa dos 55 × 35 cm que as companhias citam.",
+      "Vai comprar o conjunto Route pela P achando que é a mala avulsa de 10 kg: as medidas diferem, então confira as duas páginas."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
@@ -241,7 +253,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10.",
+  "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10. Não conferimos o CECILIA10 no carrinho.",
   "relatedArticles": [
     {
       "slug": "mala-de-bordo-bagaggio-qual-compensa",

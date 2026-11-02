@@ -34,7 +34,7 @@
     {
       "heading": "Preço, medida e garantia de 10 modelos",
       "paragraphs": [
-        "Reunimos 10 mochilas escolares disponíveis na loja em 30/10/2026, da mais barata à mais cara. Os preços são do cartão. A medida e a garantia são as que a loja informa; onde ela não traz garantia, a tabela diz 'não informada'."
+        "10 modelos da mais barata à mais cara, no cartão em 30/10/2026. A medida e a garantia são as que a loja informa; onde ela não traz garantia, a tabela diz 'não informada'."
       ],
       "comparisonTable": {
         "headers": [
@@ -110,7 +110,7 @@
     {
       "heading": "Linha Bagaggio: Star Candy e High Shape III",
       "paragraphs": [
-        "A Star Candy é juvenil e feminina. Tem 18,9 litros e 42 × 30 × 15 cm. Sai por R$ 249,90 e, nas palavras da Bagaggio, tem 90 dias de garantia.",
+        "A Star Candy é a juvenil feminina: 18,9 litros e 42 × 30 × 15 cm para a escola todo dia. Sai por R$ 249,90 e, nas palavras da Bagaggio, tem 90 dias de garantia.",
         "A High Shape III é masculina, e a loja a indica para notebook. Sai por R$ 399,90 e a página oficial traz 90 dias de garantia. A página não traz a medida do notebook que cabe, então confira o seu antes de comprar. Para mochila de notebook fora do formato escolar, veja [a mochila para notebook Bagaggio](/reviews/mochila-notebook-bagaggio-qual-escolher)."
       ],
       "images": [
@@ -156,20 +156,20 @@
     {
       "heading": "Idade: sem indicação na loja",
       "paragraphs": [
-        "Faixa etária não aparece na página, e este texto não diz para qual idade serve cada linha. A loja separa os modelos por infantil, juvenil, feminina e masculina, e a tabela segue esses nomes. Se a dúvida é a idade, pergunte à loja antes de comprar."
+        "A página não traz faixa etária: a loja separa os modelos por infantil, juvenil, feminina e masculina, e a tabela segue esses nomes. Se a dúvida é a idade, pergunte à loja antes de comprar."
       ]
     },
     {
       "heading": "Garantia da linha escolar",
       "paragraphs": [
-        "A garantia é a que a Bagaggio anuncia: 90 dias na Star Candy, na Homem Aranha e na High Shape III. Nos outros modelos da tabela, a página não traz garantia, e o texto não atribui outra. Vale conferir na página do produto antes de comprar."
+        "A garantia é a que a Bagaggio anuncia: 90 dias na Star Candy, na Homem Aranha e na High Shape III. Nos outros modelos, a página não traz garantia: confira na página do produto antes de comprar."
       ]
     },
     {
       "heading": "Parceria e cupom",
       "paragraphs": [
         "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto, com um cupom por pedido. A promoção de 50% na 2ª peça é outro cupom e não soma com o CECILIA10. No Pix, a loja tira mais 5%.",
-        "Não testamos o cupom no carrinho de uma mochila nesta rodada, então confira o desconto no resumo do pedido antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio)."
+        "Confira o desconto no resumo do pedido antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio)."
       ]
     },
     {
@@ -180,9 +180,11 @@
       "bullets": [
         "Quer gastar menos: Listras, a R$ 49,90, ou Grid, a R$ 99,90, ambas 43 × 32 × 14 cm e sem garantia informada pela loja.",
         "Quer rodinha: Minnie ou Cinderela, ambas a R$ 199,90 e 30 × 15 × 41 cm. Com o Homem Aranha, a R$ 329,90, a empresa anuncia 90 dias.",
-        "Juvenil feminina: Star Candy, a R$ 249,90, com 90 dias de garantia, segundo a Bagaggio.",
+        "Juvenil feminina: Star Candy, a R$ 249,90, com 90 dias de garantia, diz a página.",
         "Notebook junto: High Shape III, a R$ 399,90, com 90 dias de garantia, na descrição da marca."
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria a Star Candy, porque tem medida e garantia informadas.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Perguntas frequentes",
@@ -205,7 +207,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+  "editorialNote": "Feito com as fichas públicas da loja. O cupom não foi testado no carrinho de uma mochila. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
       "slug": "mochila-notebook-bagaggio-qual-escolher",
@@ -223,5 +225,16 @@
       "slug": "cupom-bagaggio-como-usar",
       "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "A garantia pesa na compra: Star Candy, Homem Aranha e High Shape III trazem 90 dias informados pela loja.",
+      "A criança quer personagem: as licenciadas Disney e Marvel da tabela.",
+      "O notebook vai junto: a loja indica a High Shape III para notebook."
+    ],
+    "skipIf": [
+      "Você escolhe pela idade: a loja não traz faixa etária, então a escolha é pela medida da tabela.",
+      "Você quer personagem e garantia ao mesmo tempo: entre as licenciadas, só o Homem Aranha informa 90 dias."
+    ]
+  }
 }

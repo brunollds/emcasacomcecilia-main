@@ -69,7 +69,7 @@
     {
       "heading": "Preços da Hostinger",
       "paragraphs": [
-        "Hospedagem de sites, página brasileira, plano de 48 meses pago de uma vez, com preços lidos em 30/10/2026. A Hostinger está em campanha de Black Friday, sem data de fim na página:"
+        "Na Hostinger, a promoção dura 48 meses e a renovação é de 3 a 5 vezes o promocional. Preços lidos em 30/10/2026, em campanha de Black Friday sem data de fim:"
       ],
       "comparisonTable": {
         "headers": [
@@ -116,13 +116,13 @@
         ]
       },
       "postParagraphs": [
-        "Preços sem o SONAR20. A renovação da Hostinger é de 3 a 5 vezes o promocional. O Single tem backup semanal; o Unlimited, diário. Na Black Friday, a página dá créditos de IA em dobro para o criador de sites."
+        "Preços sem o SONAR20. O Single tem backup semanal; o Unlimited, diário. Na Black Friday, a página dá créditos de IA em dobro para o criador de sites."
       ]
     },
     {
       "heading": "Preços da HostGator",
       "paragraphs": [
-        "Hospedagem de sites, página brasileira, plano de 3 anos. A promocional é a dos cartões da página; a coluna da direita é a tabela de preço regular da HostGator, no plano trienal, que usamos como referência de renovação:"
+        "Na HostGator, a promoção dura 3 anos e o cartão não mostra a renovação: usamos a tabela de preço regular como referência. A promocional é a dos cartões da página, no plano trienal:"
       ],
       "comparisonTable": {
         "headers": [
@@ -200,7 +200,7 @@
         "**O plano mais alto:** o Cloud Startup é o plano de nuvem da Hostinger e custa cerca do dobro do Turbo nas duas fases. Só compensa se você precisa do que ele entrega a mais; para muitos sites comuns, o Turbo resolve por menos.",
         "**O Premium**, de 3 sites, não tem par na HostGator: fica entre o P e o M."
       ],
-      "emphasis": "A promoção da Hostinger dura 48 meses e a da HostGator, 36. Por isso o total do primeiro ciclo engana: compare o preço por mês."
+      "emphasis": "O total do primeiro ciclo engana: compare o preço por mês, com a renovação ao lado."
     },
     {
       "heading": "O que o preço não mostra",
@@ -263,7 +263,7 @@
         ]
       },
       "postParagraphs": [
-        "Com o mesmo número de vCPU, o VPS da Hostinger traz o dobro de memória, e o da HostGator custa menos na promoção. A HostGator diz que o VPS roda na Oracle Cloud no Brasil, com cPanel disponível e 1 IP dedicado; ela tem ainda o VPS NVMe 8 (4 vCPU, 8 GB, 200 GB) a R$ 45,49/mês. A tabela de preço regular do VPS da HostGator não abriu na leitura, então não dá para comparar a renovação: pergunte antes de fechar 3 anos."
+        "Com o mesmo número de vCPU, o VPS da Hostinger traz o dobro de memória, e o da HostGator custa menos na promoção. A HostGator diz que o VPS roda na Oracle Cloud no Brasil, com cPanel disponível e 1 IP dedicado; ela tem ainda o VPS NVMe 8 (4 vCPU, 8 GB, 200 GB) a R$ 45,49/mês. A HostGator não mostra na página quanto o VPS renova: pergunte ao suporte antes de fechar 3 anos."
       ]
     },
     {
@@ -278,7 +278,8 @@
       "paragraphs": [
         "**Escolha a Hostinger** para um site só, como blog, portfólio ou página de empresa: o Single custa menos na promoção e na renovação, e a promoção dura 48 meses. A Hostinger também é a escolha se você quer um VPS com mais memória pelo mesmo número de vCPU.",
         "**Escolha a HostGator** para vários sites, ou se espaço em disco, backup diário em todo plano e servidor no Brasil declarado pesam para você. No plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
-        "**Nos dois casos**, olhe a coluna da renovação antes de pagar e confira o valor no carrinho. As duas estão em campanha e os preços podem mudar."
+        "**Nos dois casos**, olhe a coluna da renovação antes de pagar e confira o valor no carrinho. As duas estão em campanha e os preços podem mudar.",
+        "Se fosse para o meu site, eu levaria a Hostinger para um site só, porque o Single custa menos na promoção e na renovação."
       ]
     },
     {
@@ -295,7 +296,7 @@
     {
       "heading": "Quem escreve",
       "paragraphs": [
-        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado na Hostinger desde 2024. Ninguém da equipe usou a HostGator: este texto reúne o que as páginas brasileiras das duas dizem."
+        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado na Hostinger desde 2024. Este texto reúne o que as páginas brasileiras das duas dizem."
       ]
     }
   ],

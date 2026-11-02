@@ -51,7 +51,7 @@
     {
       "heading": "Medidas, material e preço de cada jogo",
       "paragraphs": [
-        "Os preços são os do cartão, e seis das sete fichas dizem \"Contém: 1 Unidade\". Para uma mesa de quatro lugares, são quatro peças; a última coluna é essa conta, nossa."
+        "Os preços são os do cartão, e seis das sete fichas dizem \"Contém: 1 Unidade\": para quatro lugares, multiplique por quatro, como a última coluna (conta nossa) já faz."
       ],
       "comparisonTable": {
         "headers": [
@@ -122,7 +122,7 @@
         ]
       },
       "postParagraphs": [
-        "A ficha do Linho Off White Borda Verde não diz quantas peças vêm, e a conta de quatro lugares dele supõe uma peça por compra. O Corrente Bege é o mais barato da tabela, e o Linho Off White Borda Verde, o mais caro. Estoque e preço mudam ao longo do dia; peças esgotadas na leitura ficaram fora da tabela."
+        "A página do Linho Off White Borda Verde não diz a quantidade, e a conta de quatro lugares dele supõe uma peça por compra. O Corrente Bege é o mais barato da tabela, e o Linho Off White Borda Verde, o mais caro. Estoque e preço mudam ao longo do dia; peças esgotadas na leitura ficaram fora da tabela."
       ]
     },
     {
@@ -153,7 +153,7 @@
     {
       "heading": "Cor: o que a ficha diz de cada uma",
       "paragraphs": [
-        "A cor de cada jogo está na ficha, e é por ela que dá para escolher: Verde Sálvia, Cinza, Caqui, Bege, Off White e Verde, e Limone. Nenhuma ficha diz com que louça ou com que mesa a peça combina, então essa parte fica com você. Uma saída simples é olhar o que já está na mesa: com prato estampado, jogo liso; com prato liso, o jogo pode ter estampa.",
+        "A cor está na página, e é por ela que dá para escolher: Verde Sálvia, Cinza, Caqui, Bege, Off White e Verde, e Limone. Nenhuma página diz com que louça ou com que mesa a peça combina, então essa parte é sua. Uma saída simples é olhar o que já está na mesa: com prato estampado, jogo liso; com prato liso, o jogo pode ter estampa.",
         "O [Jogo Americano Tecido Limone Color 33x48 cm, da Tuut](https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem, na ficha, \"Cor: Limone\" e estampa inspirada no tema. Na foto da ficha, limões e folhas bordados contornam a peça, e a ficha não diz o formato nem o tecido. Entre as peças que lemos, é a única com desenho de fruta; os outros jogos são de uma cor só, com borda bordada ou vazada."
       ],
       "images": [
@@ -169,7 +169,7 @@
     {
       "heading": "Material e cuidado: linho, poliéster e a lavagem",
       "paragraphs": [
-        "Pelas fichas, o Redondo Verde Sálvia da Tuut é de linho, e os jogos da Ori Manufatura (Bouquet, Inca, Gregas e Corrente) são 100% poliéster. A ficha dos Ori pede para passar do lado avesso e usar lavagem leve.",
+        "Pelas páginas, o Redondo Verde Sálvia da Tuut é de linho, e os jogos da Ori (Bouquet, Inca, Gregas e Corrente) são 100% poliéster. A ficha dos Ori pede para passar do lado avesso e usar lavagem leve.",
         "O [Retangular Linho Off White Borda Verde 38x52, da Decortextil](https://letseatit.com.br/products/jogo-americano-retangular-linho-off-white-borda-verde-38x52?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) é de um tecido que a ficha chama de linho, 100% poliéster. A ficha dele é a mais detalhada no cuidado: lavar à mão em até 40 °C, sem alvejante, sem secadora e sem lavagem a seco, e passar com ferro morno, até 150 °C."
       ],
       "images": [
@@ -196,6 +196,14 @@
       ]
     },
     {
+      "heading": "Qual levar: o Corrente Bege, retangular de 35 x 50 cm",
+      "paragraphs": [
+        "Com um prato raso de 28 cm, o retangular de 35 x 50 cm deixa 11 cm de cada lado para o garfo e a faca. O [Corrente Bege](https://letseatit.com.br/products/jogo-americano-retangular-corrente-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem essa medida."
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria o Retangular Corrente Bege, porque tem a mesma medida do Gregas e é o mais barato da tabela.",
+      "emphasisAfterParagraph": 1
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual o tamanho de um jogo americano? Nas peças que lemos, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, os retangulares, 35 x 50 cm ou 38 x 52 cm, e o Limone, cujo formato a ficha não diz, 33 x 48 cm. Escolha pelo prato: com um prato raso de 28 cm, o redondo de 36,5 cm deixa 4,25 cm de borda, pela nossa conta.",
@@ -206,6 +214,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o retangular se os talheres ficam no jogo: com prato de 28 cm, o de 35 x 50 deixa 11 cm de cada lado.",
+      "Leve o redondo se a ideia é emoldurar só o prato: talheres e copo ficam na mesa, fora do jogo."
+    ],
+    "skipIf": [
+      "Passe o retangular se a mesa é estreita ou tem muitos lugares lado a lado: o de 50 cm ocupa meio metro por lugar.",
+      "Passe o jogo estampado se o prato já é estampado: com prato estampado, jogo liso.",
+      "Passe pelo nome da cor sem medir o prato: o jogo precisa passar o diâmetro dele com folga."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
