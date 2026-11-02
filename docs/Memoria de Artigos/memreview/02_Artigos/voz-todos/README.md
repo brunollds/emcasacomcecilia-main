@@ -2,6 +2,8 @@
 
 275 artigos em 8 lotes, do mais antigo ao mais novo. Cada lote tem a sua pasta (`lote-01/`…), com as passadas, o confronto e o README de aplicação. As traduções ficam para uma rodada própria.
 
+Os 8 lotes foram entregues e conferidos (lote 08, a última pasta, em 02/11/2026). Depois da aplicação vêm a rodada das traduções (com os quadros dos artigos de família) e os artigos-ouro por tipo.
+
 ## Vale para todos os lotes
 - **Cartão de destaque (`emphasis`):** no máximo 1 por artigo, com a frase de veredito pessoal ou outro julgamento que a Cecília assinaria. O cartão assina "Cecília Mauad". Dado de loja, regra de cupom e aviso ("Atenção:", "Importante:") voltam ao parágrafo. Guia de escolha e comparativo sem cartão ganham o cartão com a frase de veredito (Job 2, seção 5).
 - **Ficha, estrelas, prós e contras:** só em artigo de produto com uso real. Prós e contras em guia ficam no JSON sem aparecer na página: não acrescentar, e não é preciso apagar.
