@@ -1,3 +1,5 @@
+> **Substituído em 02/11/2026:** as traduções são refeitas a partir do PT (ver `README.md`). Este pedido valeu só para o lote 01, que virou o diagnóstico em `lote-01-diagnostico/`.
+
 # Rodada de voz nas traduções (Muse, a partir de 02/11/2026)
 
 Você é revisor só de leitura. Não edite nada. Workspace: `C:\Users\Bruno\Downloads\Emcasacomcecilia\muse-rev\artigos-voz`, um worktree da `origin/main` no SHA `c65e4d7d` ou mais novo (o worktree é atualizado para a main antes de cada lote). Use só esta árvore.
