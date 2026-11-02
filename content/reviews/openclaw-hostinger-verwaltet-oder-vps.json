@@ -30,12 +30,12 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw bei Hostinger: Die verwaltete Option ist im ersten Zeitraum günstiger, der VPS bietet Root und Docker. Und für wen welche passt.",
-  "metaDescription": "Verwaltet oder VPS für OpenClaw bei Hostinger: KI-Guthaben, Telegram und WhatsApp und wer sich um den Server kümmert.",
+  "description": "OpenClaw bei Hostinger: Die verwaltete Option ist im ersten Zeitraum günstiger, der VPS bietet Root und Docker, und für wen welche passt.",
+  "metaDescription": "Verwaltet oder VPS für OpenClaw bei Hostinger: KI-Guthaben, Telegram und WhatsApp, und wer sich um den Server kümmert.",
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
   "imageAlt": "Rotes OpenClaw-Maskottchen im Vordergrund, mit dem Hostinger-Logo und Symbolen für Cloud und Server, einander gegenübergestellt",
   "imageFit": "contain",
@@ -78,7 +78,7 @@
           [
             "KI-Guthaben",
             "Startguthaben inklusive; Nutzung darüber wird gesondert berechnet",
-            "Optional: im Checkout kaufbar"
+            "Optional: Kauf im Checkout möglich"
           ],
           [
             "Eigener API-Schlüssel",
@@ -108,7 +108,7 @@
         ]
       },
       "postParagraphs": [
-        "Ein API-Schlüssel ist das Passwort, mit dem OpenClaw bei einem KI-Anbieter Antworten anfordert. Der Anbieter berechnet die Nutzung direkt Ihnen."
+        "Ein API-Schlüssel ist das Passwort, mit dem OpenClaw bei einem KI-Anbieter Antworten anfordert. Der Anbieter berechnet Ihnen die Nutzung direkt."
       ]
     },
     {
@@ -117,7 +117,7 @@
       "bullets": [],
       "postParagraphs": [
         "Der Tarif ist nicht alles: Die KI-Nutzung kommt extra. Mit dem Guthaben von Hostinger bringt der verwaltete Tarif ein Startguthaben mit, und was darüber hinausgeht, wird nach Verbrauch berechnet. Der Preis für Aufladungen steht auf keiner öffentlichen Seite, prüfen Sie ihn daher im Dashboard, bevor Sie damit rechnen. Mit eigenem Schlüssel rechnet der Anbieter (OpenAI, Anthropic oder ein anderer) die Nutzung direkt mit Ihnen ab, je nach Modell und Gesprächsmenge.",
-        "Die verwaltete Option hat 30 Tage, um eine Erstattung zu verlangen. Beim VPS gelten die 30 Tage nur, wenn der letzte VPS-Erstattungsantrag mehr als 180 Tage zurückliegt. Ein VPS mit 12 Monaten Laufzeit oder mehr enthält im ersten Jahr eine kostenlose .cloud- oder .tech-Domain."
+        "Für die verwaltete Option gilt eine Frist von 30 Tagen, um eine Erstattung zu verlangen. Beim VPS gelten die 30 Tage nur, wenn der letzte VPS-Erstattungsantrag mehr als 180 Tage zurückliegt. Ein VPS mit 12 Monaten Laufzeit oder mehr enthält im ersten Jahr eine kostenlose .cloud- oder .tech-Domain."
       ]
     },
     {
@@ -169,9 +169,9 @@
       ]
     },
     {
-      "heading": "SONAR20-Gutschein",
+      "heading": "Gutschein SONAR20",
       "paragraphs": [
-        "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: Das sind **20 % Rabatt auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Wo Sie den Code einfügen, steht in [so nutzen Sie den SONAR20-Gutschein](/de/reviews/hostinger-gutschein-empfehlungscode)."
+        "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: Das sind **20 % Rabatt auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Wo Sie den Code einfügen, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
       ],
       "postParagraphs": [
         "Hostinger hat gerade eine Black-Friday-Aktion, und die Preise ändern sich. Sehen Sie sich [den Black Friday von Hostinger](/de/reviews/hostinger-black-friday-angebote) an und prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
@@ -181,7 +181,7 @@
       "heading": "Häufige Fragen",
       "bullets": [
         "Lohnt sich das verwaltete OpenClaw von Hostinger? Ja, wenn Sie den Assistenten ohne Serverpflege wollen: Es ist im ersten Zeitraum günstiger als der VPS, und die Verlängerung kostet gleich viel. Wer Root-Zugriff und andere Programme auf dem Server braucht, ist mit dem VPS besser bedient.",
-        "Brauche ich ein Konto bei OpenAI oder Anthropic? Nein. Bei beiden Optionen können Sie das KI-Guthaben von Hostinger nutzen. Ein Konto beim Anbieter brauchen Sie nur, wenn Sie lieber Ihren eigenen Schlüssel verwenden.",
+        "Braucht man ein Konto bei OpenAI oder Anthropic? Nein. Bei beiden Optionen können Sie das KI-Guthaben von Hostinger nutzen. Ein Konto beim Anbieter brauchen Sie nur, wenn Sie lieber Ihren eigenen Schlüssel verwenden.",
         "Gibt es einen Hostinger-Gutschein für OpenClaw? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % Rabatt auf den ersten Zeitraum.",
         "Passt der verwaltete Tarif auch für Hermes Agent oder Paperclip? Ja. Alle drei sind im selben Tarif, „AI automation apps“, zum gleichen Preis. Die Paperclip-Seite nennt kein KI-Guthaben, bringen Sie also Ihren eigenen Schlüssel mit."
       ]
@@ -225,9 +225,9 @@
       "Nehmen Sie den VPS, wenn Sie Root-Zugriff wollen und weitere Programme auf demselben Server betreiben, etwa eine Website oder n8n."
     ],
     "skipIf": [
-      "Verzichten Sie auf den VPS, wenn Sie nicht wissen, was Root oder Docker ist: Das System zu aktualisieren und abzusichern liegt bei Ihnen.",
-      "Verzichten Sie auf die verwaltete Option, wenn Sie Root-Zugriff oder mehr Arbeitsspeicher und Speicherplatz brauchen.",
-      "Verzichten Sie auf beide, wenn derselbe Assistent mehrere Personen bedienen soll: Das Projekt empfiehlt einen Server pro Person."
+      "Lassen Sie den VPS aus, wenn Sie nicht wissen, was Root oder Docker ist: Das System zu aktualisieren und abzusichern liegt bei Ihnen.",
+      "Lassen Sie die verwaltete Option aus, wenn Sie Root-Zugriff oder mehr Arbeitsspeicher und Speicherplatz brauchen.",
+      "Lassen Sie beide aus, wenn derselbe Assistent mehrere Personen bedienen soll: Das Projekt empfiehlt einen Server pro Person."
     ]
   }
 }

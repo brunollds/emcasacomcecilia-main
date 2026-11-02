@@ -35,7 +35,7 @@
   "publishedAt": "2026年10月19日",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
   "imageAlt": "OpenClaw、Hermes Agent 和 Paperclip 的标志，以及 Hostinger 标志和 20% 折扣",
@@ -43,7 +43,7 @@
   "imageAspect": "landscape",
   "contentSections": [
     {
-      "heading": "要点速览",
+      "heading": "快速回答",
       "paragraphs": [
         "有优惠码：代码 **SONAR20** 可在任何 [Hostinger](/zh-hans/coupons/hostinger) 套餐的首个计费周期享 20% 折扣，月付或年付都可以，新老客户均适用。在购物车的优惠码栏输入代码，或从本文的链接进入。我们没有测试续费。"
       ]
@@ -85,7 +85,7 @@
         "选好套餐和周期，进入购物车。",
         "把 SONAR20 粘贴到优惠码栏并应用。",
         "确认首个周期的总价里出现了 20% 折扣，并且列出了续费价格。",
-        "如果购物车里的金额不同，以购物车为准。"
+        "如果购物车金额和页面显示不同，以购物车为准。"
       ]
     },
     {

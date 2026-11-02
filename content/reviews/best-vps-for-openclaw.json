@@ -35,7 +35,7 @@
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
   "imageAlt": "Red OpenClaw mascot front and center, with the Hostinger logo, the title OpenClaw + VPS KVM and server and plan icons",
@@ -55,7 +55,7 @@
         "The official installation and local-model pages say the following:"
       ],
       "bullets": [
-        "**Node version.** OpenClaw requires Node 24.16 or newer, or Node 26.1 or newer. Node is the program that runs OpenClaw, and installing through npm requires that version. The page recommends Node 26. If Node is not installed, the official installer brings the version (Node 26 on macOS and Node 24 LTS on Linux).",
+        "**Node version.** OpenClaw requires Node 24.16 or newer, or Node 26.1 or newer. Node is the program that runs OpenClaw, and installing through npm requires that version. The page recommends Node 26. If Node is not installed, the official installer includes the version (Node 26 on macOS and Node 24 LTS on Linux).",
         "**Local model.** For the smallest recipe the documentation itself offers, the floor is 8 GiB of host memory, with a 64K context. The page says these floors \"do not guarantee the model fits or runs at speed\".",
         "**Hostinger VPS.** Hostinger installs OpenClaw on the VPS with Docker, a program that runs each application isolated in a container. A VPS is a rented virtual server; with root access, you have full control of it."
       ],
@@ -95,7 +95,7 @@
       },
       "postParagraphs": [
         "Two details on the local model. Context is the amount of text (tokens, pieces of words) the model reads at once. When less than 20% of the context window is left, OpenClaw warns, with a floor of 8 thousand tokens; below 10%, it blocks the answer, with a floor of 4 thousand tokens.",
-        "None of the KVM plan pages we read lists a graphics card (GPU). The documentation also does not say how fast a local model would run without one."
+        "None of the KVM plan pages checked lists a graphics card (GPU). The documentation also does not say how fast a local model would run without one."
       ]
     },
     {

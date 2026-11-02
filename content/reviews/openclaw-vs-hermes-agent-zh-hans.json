@@ -35,7 +35,7 @@
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
   "imageAlt": "OpenClaw 的红色吉祥物与 Hermes Agent 图标，配有 Hostinger 标志和标题“OpenClaw vs Hermes Agent”",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "heading": "关于透明度",
+      "heading": "谁在写",
       "paragraphs": [
         "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App，Bruno 自 2024 年起就是客户，使用托管主机和一台 VPS KVM 2。团队中没有人使用 OpenClaw 或 Hermes Agent。",
         "本文汇总了 Hostinger 的页面，以及两个项目的官方政策和文档，查阅日期为 2026年10月21日。OpenClaw 发布的两者对比是项目方自己写的，并在表格的来源列里标出了这个名称。"
@@ -252,7 +252,7 @@
   "cons": [],
   "cta": {
     "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
-    "label": "通过 SONAR20 查看套餐",
+    "label": "通过 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },

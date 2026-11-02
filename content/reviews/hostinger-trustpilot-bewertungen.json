@@ -116,7 +116,7 @@
       "images": [
         {
           "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-          "alt": "Oberer Teil des Hostinger-Profils auf Trustpilot, mit Bewertung 4,6, 73.316 Bewertungen, beanspruchtem Profil, bezahltem Abo und dem Hinweis, dass die Firma Kunden zu Bewertungen einlädt",
+          "alt": "Oberer Teil des Hostinger-Profils auf Trustpilot, mit Bewertung 4,6, beanspruchtem Profil, bezahltem Abo und dem Hinweis, dass die Firma Kunden zu Bewertungen einlädt",
           "caption": "Hostinger-Profil auf Trustpilot. Bild: Screenshot von Bruno.",
           "objectFit": "contain",
           "aspectRatio": 3.7969
@@ -130,8 +130,8 @@
         }
       ],
       "postParagraphs": [
-        "Die Screenshots sind vom 19. Oktober 2026. Bis zum 24. Oktober war die Gesamtzahl von 73.316 auf 73.411 Bewertungen gestiegen, bei gleicher Bewertung, und die Antwortquote auf negative Bewertungen von 98 % auf 99 %. Die Prozentwerte pro Stern haben sich nicht bewegt.",
-        "Die Seite zeigt auch die Sprache der Bewertungen: 44.546 waren auf Englisch, 8.744 auf Spanisch und 3.340 auf Französisch, neben anderen. Die Bewertung ist also global, nicht die Meinung eines einzelnen Marktes.",
+        "Die Screenshots sind vom 19. Oktober 2026, die Tabelle vom 24. Oktober: Die Bewertung war gleich, die Antwortquote auf negative Bewertungen stieg von 98 % auf 99 %, und die Prozentwerte pro Stern haben sich nicht bewegt.",
+        "Die Stichprobe umfasste Bewertungen in mehreren Sprachen: Die Bewertung ist also global, nicht die Meinung eines einzelnen Marktes.",
         "Was die Tabelle nicht zeigt, ist, wer eine Einladung bekommt und wer von sich aus schreibt. Dort beginnt das nächste Kapitel."
       ]
     },
@@ -185,7 +185,7 @@
         "**Abrechnung, Verlängerung, Erstattungen und Gebühren:** etwa 38. Dazu gehören die Preiserhöhung nach dem Aktionszeitraum, eine nicht erwartete automatische Verlängerung und die Gebühr für die Wiederherstellung einer abgelaufenen Domain (76 Euro in einer Bewertung, 150 in einer anderen).",
         "**Domains:** etwa 27, mit Sperrung, Übertragung, Registrierung und Wiederherstellung.",
         "**E-Mail ausgefallen oder nicht erreichbar:** etwa 19.",
-        "**Seite oder VPS ausgefallen, oder Wartung ohne Ankündigung:** etwa 18, darunter ein Produktions-VPS, das 27 Stunden stillstand.",
+        "**Seite oder VPS ausgefallen, oder Wartung ohne Ankündigung:** etwa 18, darunter ein Produktions-VPS, der 27 Stunden stillstand.",
         "**Konto oder Dienst ohne klare Erklärung gesperrt:** etwa 16, einige nach einer Rückbuchung.",
         "**VPS mit CPU-Drosselung:** mindestens 4."
       ],

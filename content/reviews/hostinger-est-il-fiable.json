@@ -35,7 +35,7 @@
   "publishedAt": "19 octobre 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
   "imageAlt": "Logos d'OpenClaw, de Hermes Agent et de Paperclip, avec le logo de Hostinger et des icônes de bouclier et de calendrier",
@@ -45,7 +45,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Hostinger est une grande entreprise, avec des règles publiques de remboursement et de renouvellement, et d'après notre expérience, le service et le support fonctionnent. Ce qui coince, c'est le renouvellement, activé par défaut et parfois à un autre prix. Vous trouverez plus bas le remboursement, le renouvellement et la société qui facture ; les 20 % sur la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger)."
+        "Hostinger est une grande entreprise, avec des règles publiques de remboursement et de renouvellement, et d'après notre expérience, le service et le support fonctionnent. Ce qui coince, c'est le renouvellement, activé par défaut et qui peut être à un autre prix. Vous trouverez plus bas le remboursement, le renouvellement et la société qui facture ; les 20 % sur la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger)."
       ]
     },
     {
@@ -191,7 +191,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+    "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
     "label": "Voir les forfaits Hostinger",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

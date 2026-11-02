@@ -35,7 +35,7 @@
   "publishedAt": "21 ottobre 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
   "imageAlt": "Mascotte rossa di OpenClaw in primo piano, con il logo Hostinger, il titolo OpenClaw + VPS KVM e icone di server e di piani",
   "imageFit": "contain",
@@ -94,7 +94,7 @@
       },
       "postParagraphs": [
         "Due dettagli del modello locale. Il contesto è la quantità di testo (token, pezzi di parole) che il modello legge in una volta. Quando resta meno del 20% della finestra di contesto, OpenClaw avvisa, con un minimo di 8 mila token; sotto il 10% blocca la risposta, con un minimo di 4 mila token.",
-        "Nelle pagine dei piani KVM che abbiamo letto, nessuna elenca una scheda video (GPU). La documentazione non dice nemmeno che velocità avrebbe un modello locale senza."
+        "Nelle pagine dei piani KVM consultate, nessuna elenca una scheda video (GPU). La documentazione non dice nemmeno che velocità avrebbe un modello locale senza."
       ]
     },
     {
@@ -143,7 +143,7 @@
       },
       "bullets": [
         "**KVM 1 (4 GB).** Punto di partenza per lo scenario con chiave API o crediti. Per un modello locale, è sotto il minimo ufficiale.",
-        "**KVM 2 (8 GB).** Con chiave API, c'è margine di sobra. Con un modello locale, è al limite del minimo, senza margine per il sistema.",
+        "**KVM 2 (8 GB).** Con chiave API, c'è ampio margine. Con un modello locale, è al limite del minimo, senza margine per il sistema.",
         "**KVM 4 (16 GB).** È il primo piano con margine sopra il minimo ufficiale di 8 GiB. La documentazione non dice quanto renda con un modello locale.",
         "**KVM 8 (32 GB).** Ha senso solo con un modello locale più grande. La documentazione non dice quanta memoria richieda ogni ricetta grande."
       ],
@@ -278,9 +278,9 @@
       "Prendi il KVM 4, con 16 GB, se farai girare un modello locale: è il primo piano con margine sopra il minimo ufficiale di 8 GiB."
     ],
     "skipIf": [
-      "Lascia stare il KVM 1 se farai girare un modello locale: 4 GB è sotto il minimo ufficiale.",
-      "Lascia stare il VPS se non vuoi occuparti di un server: guarda il gestito, in cui Hostinger installa e aggiorna l'assistente.",
-      "Lascia stare il KVM 8 se non userai un modello locale più grande."
+      "Lascia perdere il KVM 1 se farai girare un modello locale: 4 GB è sotto il minimo ufficiale.",
+      "Lascia perdere il VPS se non vuoi occuparti di un server: guarda il gestito, in cui Hostinger installa e aggiorna l'assistente.",
+      "Lascia perdere il KVM 8 se non userai un modello locale più grande."
     ]
   }
 }

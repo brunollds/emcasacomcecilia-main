@@ -35,7 +35,7 @@
   "publishedAt": "2026年10月19日",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
   "imageAlt": "OpenClaw、Hermes Agent 與 Paperclip 的標誌，以及 Hostinger 標誌和盾牌、日曆圖示",
@@ -191,7 +191,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車輸入 SONAR20，首個計費週期享 20%。透過本文連結查看方案。",
+    "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。我們沒有測試過續訂；請在購物車確認價格。",
     "label": "查看 Hostinger 方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

@@ -4,7 +4,7 @@
   "locale": "ko",
   "translationKey": "hostinger-openclaw-ou-hermes-agent",
   "title": "OpenClaw 또는 Hermes Agent: 어떤 것을 고르고 호스팅어에서 각각 어떻게 돌릴까",
-  "seoTitle": "OpenClaw 또는 Hermes Agent: 어떤 것을 고를까? 2026",
+  "seoTitle": "OpenClaw 또는 Hermes Agent: 2026년에는 어떤 것을 고를까?",
   "type": "호스팅 가이드",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -35,7 +35,7 @@
   "publishedAt": "2026년 10월 21일",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
   "imageAlt": "OpenClaw의 빨간 마스코트와 Hermes Agent 아이콘, 호스팅어 로고, 제목 'OpenClaw vs Hermes Agent'",
   "imageFit": "contain",
@@ -94,7 +94,7 @@
           ],
           [
             "메모리",
-            "상태, 메모리, 자격 증명이 내 기기에 저장됨. OpenClaw 자체 비교에는 세션 출처 추적과 삭제 기록이 나옴",
+            "상태, 메모리, 자격 증명이 사용자 기기에 저장됨. OpenClaw 자체 비교에는 세션 출처 추적과 삭제 기록이 나옴",
             "세션 사이의 메모리를 에이전트가 직접 정리하고, 지난 대화를 검색(FTS5)하며, Honcho로 사용자를 모델링함",
             "OpenClaw README, Hermes Agent README와 문서, OpenClaw 자체 비교"
           ],
@@ -128,7 +128,7 @@
         "소프트웨어는 둘 다 무료입니다. 실제 비용은 세 곳에서 나옵니다."
       ],
       "bullets": [
-        "**서버.** 항상 켜 둔 내 컴퓨터를 쓰거나, 가상 서버인 VPS를 빌릴 수 있습니다. VPS는 머신 전체를 제어하는 root 권한을 주지만, 시스템 업데이트와 보안은 직접 챙겨야 합니다. 메모리(RAM)가 많을수록 여러 프로그램을 동시에 돌려도 덜 멈춥니다.",
+        "**서버.** 항상 켜 둔 자신의 컴퓨터를 쓰거나, 가상 서버인 VPS를 빌릴 수 있습니다. VPS는 머신 전체를 제어하는 root 권한을 주지만, 시스템 업데이트와 보안은 직접 챙겨야 합니다. 메모리(RAM)가 많을수록 여러 프로그램을 동시에 돌려도 덜 멈춥니다.",
         "**관리형 플랜.** 호스팅어가 어시스턴트를 설치하고, 업데이트하고, 유지합니다. OpenClaw와 Hermes Agent는 같은 플랜인 'AI 자동화 앱'에 들어 있습니다.",
         "**AI 모델.** 어시스턴트는 Claude, GPT, Gemini 같은 모델에 답변을 요청하고, 모델은 사용량에 따라 요금을 받습니다. 내는 방법은 두 가지입니다. 제공업체가 직접 청구하는 자체 API 키를 쓰거나, 호스팅어에서 AI 크레딧을 사는 것입니다. OpenClaw 관리형과 Hermes Agent 관리형 모두 초기 잔액이 포함되어 있습니다. 추가 충전 가격은 공개 페이지에 없으니 관리 화면에서 확인하세요. Nous Portal의 가격은 프로젝트 페이지에 나와 있지 않습니다."
       ],
@@ -250,7 +250,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았습니다.",
+    "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
     "label": "할인 플랜 보기",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

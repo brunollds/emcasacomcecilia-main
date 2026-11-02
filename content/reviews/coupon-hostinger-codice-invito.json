@@ -35,7 +35,7 @@
   "publishedAt": "19 ottobre 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
   "imageAlt": "Loghi di OpenClaw, Hermes Agent e Paperclip, con il logo di Hostinger e lo sconto del 20%",
@@ -64,7 +64,7 @@
     {
       "heading": "Il sito gira su Hostinger",
       "paragraphs": [
-        "Em Casa com Cecília gira su Hostinger, e Bruno è cliente dal 2024, con più di 24 mesi di abbonamento. Usa hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Ogni volta che ha avuto un problema, l'assistenza l'ha risolto, soprattutto con l'agente IA. Di persona, non ha mai visto il servizio andare giù. È la sua esperienza."
+        "Em Casa com Cecília gira su Hostinger, e Bruno è cliente dal 2024, con più di 24 mesi di abbonamento. Usa hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Ogni volta che ha avuto un problema, l'assistenza l'ha risolto, soprattutto con l'agente IA. Personalmente, non ha mai visto un'interruzione del servizio. È la sua esperienza."
       ]
     },
     {
@@ -85,7 +85,7 @@
         "Scegli il piano e il periodo e vai al carrello.",
         "Incolla SONAR20 nel campo coupon e applica.",
         "Controlla che il 20% compaia nel totale del primo periodo e che il rinnovo sia indicato.",
-        "Se il valore del carrello è diverso, vale il valore del carrello."
+        "Se il valore del carrello è diverso dai prezzi mostrati, vale il valore del carrello."
       ]
     },
     {

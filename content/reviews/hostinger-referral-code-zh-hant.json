@@ -35,7 +35,7 @@
   "publishedAt": "2026年10月19日",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
   "imageAlt": "OpenClaw、Hermes Agent 和 Paperclip 的標誌，以及 Hostinger 標誌和 20% 折扣",
@@ -45,7 +45,7 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "有優惠碼：**SONAR20** 在任何 [Hostinger](/zh-hant/coupons/hostinger) 方案的首期給 20% 折扣，月付或年付都可以，新客戶或舊客戶都適用。在購物車的優惠碼欄位輸入，或從本文連結進入。我們沒有測試續訂。"
+        "有優惠碼：**SONAR20** 在任何 [Hostinger](/zh-hant/coupons/hostinger) 方案的首期給 20% 折扣，月付或年付都可以，新客戶或舊客戶都適用。在購物車的優惠碼欄位輸入優惠碼，或從本文連結進入。我們沒有測試續訂。"
       ]
     },
     {
@@ -85,7 +85,7 @@
         "選好方案和期間，進入購物車。",
         "把 SONAR20 貼到優惠碼欄位並套用。",
         "確認首期總價有出現 20% 折扣，並且列出續訂價格。",
-        "如果購物車的金額不同，以購物車為準。"
+        "如果購物車金額和頁面顯示不同，以購物車為準。"
       ]
     },
     {
@@ -102,14 +102,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車輸入 SONAR20，或從本文連結進入：首期 20%，月付或年付都可以。續訂價請在購物車確認。",
+    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續訂，續訂價請在購物車確認。",
     "label": "查看享有折扣的方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "透過 SONAR20 優惠碼或連結購買，Bruno 可能獲得佣金，你不需要多付任何費用。本站跑在 Hostinger 上。",
+  "editorialNote": "透過 SONAR20 優惠碼或連結購買，Bruno 可能獲得傭金，你不需要多付任何費用。本站跑在 Hostinger 上。",
   "relatedArticles": [
     {
       "slug": "hostinger-trust-guide-zh-hant",

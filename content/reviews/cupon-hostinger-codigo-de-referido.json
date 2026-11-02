@@ -35,7 +35,7 @@
   "publishedAt": "19 de octubre de 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
   "imageAlt": "Logotipos de OpenClaw, Hermes Agent y Paperclip, con el logotipo de Hostinger y el descuento del 20%",
@@ -85,7 +85,7 @@
         "Elige el plan y el período y pasa al carrito.",
         "Pega SONAR20 en el campo de cupón y aplícalo.",
         "Comprueba que el 20% aparezca en el total del primer período y que la renovación esté indicada.",
-        "Si el valor del carrito es distinto, vale el valor del carrito."
+        "Si el valor del carrito es distinto de los precios mostrados, vale el valor del carrito."
       ]
     },
     {

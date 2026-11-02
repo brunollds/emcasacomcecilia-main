@@ -20,7 +20,7 @@
   "publishedAt": "13 octobre 2026",
   "publishedAtISO": "2026-10-13",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
   "imageAlt": "Deux écrans du site SHEIN sur un téléphone : la barre de recherche avec le code saisi et la page qui s'ouvre après la recherche",
@@ -99,7 +99,7 @@
     {
       "heading": "Comment obtenir votre code de parrainage",
       "paragraphs": [
-        "Le code de parrainage vient du programme d'affiliation de SHEIN. Pour vous inscrire, recherchez « afiliado » dans l'application SHEIN et validez un compte Instagram, YouTube ou TikTok qui remplit les conditions du programme, comme un nombre minimum d'abonnés.",
+        "Le code de parrainage vient du programme d'affiliation de SHEIN. Pour vous inscrire, recherchez le programme d'affiliation dans l'application SHEIN et validez un compte Instagram, YouTube ou TikTok qui remplit les conditions du programme, comme un nombre minimum d'abonnés.",
         "Après l'inscription, le code apparaît sur la page d'accueil de l'affilié. Il est toujours le même, et on ne peut pas choisir les lettres."
       ]
     },
@@ -111,7 +111,7 @@
         "Comment fonctionne le code de parrainage SHEIN ? Selon SHEIN, il ouvre la page de la personne qui a partagé le code. Si vous finalisez l'achat dans les 24 heures, cette personne touche la commission, sans frais supplémentaires pour vous.",
         "Le code de parrainage SHEIN donne-t-il une réduction ? Il n'y a pas de réduction fixe : vous pouvez bénéficier des offres que SHEIN affiche sur la page ouverte par le code.",
         "Le code de parrainage est-il la même chose qu'un code promo ? Non. Selon SHEIN, le code se saisit dans la zone de recherche, et non comme un code promo.",
-        "Comment connaître mon code de parrainage SHEIN ? Le code de parrainage vient du programme d'affiliation de SHEIN. Après l'inscription, faite par la recherche « afiliado » dans l'application, il apparaît sur la page d'accueil de l'affilié.",
+        "Comment connaître mon code de parrainage SHEIN ? Le code de parrainage vient du programme d'affiliation de SHEIN. Après l'inscription, faite par la recherche du programme d'affiliation dans l'application, il apparaît sur la page d'accueil de l'affilié.",
         "Un code de parrainage de 2024 ou 2025 est-il encore valable ? Les codes de l'ancien programme, terminé en 2024, ont été désactivés avec le code promo de l'ancien programme. Dans le programme actuel, le code mène à la page de l'affilié, sans réduction fixe, et 4CW5Y est le code actuel de Cecília.",
         "Dois-je créer un nouveau compte pour utiliser le code ? Non : lors de notre vérification, la recherche a ouvert la page même sans connexion. Les offres réservées aux nouveaux clients, quand il y en a, sont signalées dans la campagne.",
         "Peut-on utiliser le code de parrainage sur ordinateur ? SHEIN parle de rechercher le code dans l'application ; le guide montre le site sur téléphone, et nous n'avons pas vérifié sur ordinateur."
@@ -119,7 +119,7 @@
     }
   ],
   "cta": {
-    "text": "Ouvrez SHEIN via le lien de Cecília ou recherchez 4CW5Y dans la barre de recherche de l'appli SHEIN",
+    "text": "Ouvrez SHEIN via le lien de Cecília ou recherchez 4CW5Y dans la barre de recherche de l'application SHEIN",
     "label": "Ouvrir SHEIN",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true

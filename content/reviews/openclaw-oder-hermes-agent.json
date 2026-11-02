@@ -4,7 +4,7 @@
   "locale": "de",
   "translationKey": "hostinger-openclaw-ou-hermes-agent",
   "title": "OpenClaw oder Hermes Agent: welcher passt und wie Sie jeden bei Hostinger betreiben",
-  "seoTitle": "OpenClaw oder Hermes Agent: welcher passt 2026?",
+  "seoTitle": "OpenClaw oder Hermes Agent: welcher passt im Jahr 2026?",
   "type": "Hosting-Ratgeber",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -35,7 +35,7 @@
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
   "imageAlt": "Rotes OpenClaw-Maskottchen vor dem Hermes-Agent-Symbol, mit dem Hostinger-Logo und dem Titel OpenClaw vs Hermes Agent",
   "imageFit": "contain",
@@ -52,7 +52,7 @@
       "paragraphs": [
         "Beide sind quelloffene KI-Assistenten unter MIT-Lizenz, die Sie installieren und mit denen Sie über Telegram, WhatsApp oder eine andere Messaging-App sprechen. Die Lizenz kostet nichts; unterscheiden tun sie sich in Oberfläche, Gedächtnis und darin, wer das Projekt pflegt.",
         "**OpenClaw** wird von der OpenClaw Foundation gepflegt, einer gemeinnützigen Organisation. Laut dem offiziellen README bleiben Zustand, Gedächtnis und Zugangsdaten auf dem Gerät, auf dem es läuft, ohne kostenpflichtigen Tarif, gehosteten Dienst oder Token. Es hat eine Weboberfläche (Control UI), eine Befehlszeile und native Apps für macOS, iOS, Android, Windows und Linux. Bei Hostinger lässt es sich verwaltet oder auf einem VPS buchen, wie der [Leitfaden zu verwaltet oder VPS für OpenClaw](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) zeigt.",
-        "**Hermes Agent** stammt von Nous Research, einem Unternehmen, das KI-Modelle entwickelt. Sein Merkmal ist der Lernzyklus: Der Agent organisiert sein Gedächtnis zwischen den Sitzungen selbst, erstellt und verbessert eigene Fähigkeiten, durchsucht frühere Gespräche und erstellt mit Honcho ein Modell des Nutzers. Es hat ein vollständiges Terminal und Hermes Desktop, eine Desktop-App mit Installer für Windows und macOS. Die Projektseite nennt keinen Preis für die Software. Sie erwähnt Nous Portal, ein Abonnement mit Werkzeugen wie Websuche, Browsen und Bilderzeugung, ohne Preisangabe. Nous Portal ist eine Möglichkeit, das Modell zu bezahlen, nicht die einzige."
+        "**Hermes Agent** stammt von Nous Research, einem Unternehmen, das KI-Modelle entwickelt. Sein Merkmal ist der Lernzyklus: Der Agent organisiert sein Gedächtnis zwischen den Sitzungen selbst, erstellt und verbessert eigene Fähigkeiten, durchsucht frühere Gespräche und erstellt mit Honcho ein Modell des Nutzers. Er hat ein vollständiges Terminal und Hermes Desktop, eine Desktop-App mit Installer für Windows und macOS. Die Projektseite nennt keinen Preis für die Software. Sie erwähnt Nous Portal, ein Abonnement mit Werkzeugen wie Websuche, Browsen und Bilderzeugung, ohne Preisangabe. Nous Portal ist eine Möglichkeit, das Modell zu bezahlen, nicht die einzige."
       ]
     },
     {
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "heading": "Wo Sie bei Hostinger betreiben",
+      "heading": "Wo Sie beide bei Hostinger betreiben",
       "paragraphs": [
         "Der verwaltete Tarif passt zu beiden. Die Tabelle zeigt den Server jeder Option; die Preise ändern sich mit der Black-Friday-Aktion, prüfen Sie sie also im Warenkorb."
       ],
@@ -217,7 +217,7 @@
         ]
       },
       "postParagraphs": [
-        "Beim verwalteten Tarif enthält der Tarif ein Startguthaben an KI-Credits, und was darüber hinausgeht, wird nach Verbrauch berechnet. Beim VPS installiert Hostinger den Assistenten mit Docker, und Aktualisierung und Sicherheit des Servers liegen bei Ihnen.",
+        "Der verwaltete Tarif enthält ein Startguthaben an KI-Credits, und was darüber hinausgeht, wird nach Verbrauch berechnet. Beim VPS installiert Hostinger den Assistenten mit Docker, und Aktualisierung und Sicherheit des Servers liegen bei Ihnen.",
         "Beim verwalteten Tarif haben Sie 30 Tage, um eine Erstattung zu beantragen. Beim VPS gelten die 30 Tage nur, wenn die letzte VPS-Erstattung vor mehr als 180 Tagen beantragt wurde.",
         "Wenn Sie die Anforderungen durchrechnen wollen, bevor Sie den Tarif wählen, lesen Sie den [besten VPS für OpenClaw](/de/reviews/bester-vps-fuer-openclaw). Zur Aktion sehen Sie [den Black Friday von Hostinger](/de/reviews/hostinger-black-friday-angebote)."
       ]
@@ -250,7 +250,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % auf den ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
     "label": "Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

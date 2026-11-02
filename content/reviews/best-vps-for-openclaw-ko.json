@@ -35,14 +35,14 @@
   "publishedAt": "2026년 10월 21일",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
   "imageAlt": "빨간 OpenClaw 마스코트와 호스팅어 로고, 'OpenClaw + VPS KVM' 제목, 서버와 플랜 아이콘",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
     {
-      "heading": "빠른 답",
+      "heading": "빠른 답변",
       "paragraphs": [
         "AI 모델을 제공업체에 두면(API 키든 호스팅어 크레딧이든) 출발점은 4 GB의 KVM 1입니다. 로컬 모델이면 문서의 기준은 8 GiB이고, 16 GB의 KVM 4가 처음으로 여유 있는 플랜입니다. 서버를 직접 다루고 싶지 않다면 아래의 관리형을 보세요."
       ]
@@ -148,7 +148,7 @@
         "**KVM 8(32 GB).** 더 큰 로컬 모델을 쓸 때만 의미가 있습니다. 큰 레시피마다 메모리가 얼마나 필요한지는 문서에 없습니다."
       ],
       "postParagraphs": [
-        "SONAR20 코드는 첫 번째 기간에 20%를 할인해 줍니다. 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. [SONAR20 쿠폰 사용법 보기](/ko/reviews/hostinger-referral-code-ko) 결제 전에 장바구니에서 금액을 확인하세요. 호스팅어는 블랙프라이데이 중이라 가격이 바뀝니다: [캠페인 보기](/ko/reviews/hostinger-black-friday-ko)."
+        "SONAR20 코드는 첫 번째 기간에 20%를 할인해 줍니다. 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. [SONAR20 쿠폰 사용법 보기](/ko/reviews/hostinger-referral-code-ko). 결제 전에 장바구니에서 금액을 확인하세요. 호스팅어는 블랙프라이데이 중이라 가격이 바뀝니다: [캠페인 보기](/ko/reviews/hostinger-black-friday-ko)."
       ]
     },
     {
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "heading": "글쓴이",
+      "heading": "작성자 소개",
       "paragraphs": [
         "Em Casa com Cecília는 호스팅어에서 Node.js Web App으로 운영되고, Bruno는 2024년부터 호스팅어 고객으로 호스팅과 VPS KVM 2를 쓰고 있습니다. 팀에서 OpenClaw를 쓰는 사람은 없습니다. 이 글은 호스팅어, Oracle, OpenClaw 공식 문서가 말하는 내용을 모은 것입니다."
       ]
@@ -249,7 +249,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았습니다.",
+    "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣거나 이 링크로 들어가세요. 첫 기간 20%입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
     "label": "할인 플랜 보기",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

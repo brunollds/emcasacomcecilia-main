@@ -35,7 +35,7 @@
   "publishedAt": "2026년 10월 19일",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
   "imageAlt": "OpenClaw, Hermes Agent, Paperclip 로고와 호스팅어 로고, 방패 및 달력 아이콘",
@@ -115,7 +115,7 @@
     {
       "heading": "자동 갱신과 새 가격",
       "paragraphs": [
-        "가입하면 자동 갱신이 기본 설정이라 자동 갱신에 들어갑니다. 결제는 기간 종료 30일 전부터 0일 전 사이에, 기본으로 지정된 카드에, 그날 플랜의 가격으로 이루어집니다. 약관에는 이 가격이 첫 기간보다 높거나 낮을 수 있고, 가격 변경은 사전 통지 없이 갱신 시점에 적용된다고 되어 있습니다.",
+        "가입하면 기본 설정에 따라 자동 갱신에 들어갑니다. 결제는 기간 종료 30일 전부터 0일 전 사이에, 기본으로 지정된 카드에, 그날 플랜의 가격으로 이루어집니다. 약관에는 이 가격이 첫 기간보다 높거나 낮을 수 있고, 가격 변경은 사전 통지 없이 갱신 시점에 적용된다고 되어 있습니다.",
         "호스팅어는 결제 전에 이메일을 보낼 수 있지만, 약관상 그럴 의무는 없습니다. 예를 들어 1개월 요금제 고객에게는 알림이 가지 않습니다. 끄려면 계정에 로그인해 언제든지 갱신을 비활성화하면 됩니다. 끈 뒤 기간이 끝나기 전에 직접 갱신하지 않으면 서비스는 종료됩니다.",
         "갱신 때 할인이 어떻게 되는지는 [SONAR20 쿠폰 가이드](/ko/reviews/hostinger-referral-code-ko)에 설명되어 있습니다."
       ],
@@ -191,7 +191,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "쿠폰 SONAR20을 장바구니에 넣으면 첫 결제 기간에 20% 할인이 적용됩니다. 이 글의 링크로 요금제를 확인하세요.",
+    "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 글의 링크로 들어가면 첫 결제 기간에 20% 할인이 적용됩니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
     "label": "호스팅어 요금제 보기",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

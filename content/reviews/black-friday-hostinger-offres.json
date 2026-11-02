@@ -35,7 +35,7 @@
   "publishedAt": "19 octobre 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
   "imageAlt": "Logos d’OpenClaw, de Hermes Agent et de Paperclip, avec le logo Hostinger, le titre Black Friday 2026 et des icônes d’étiquette et de calendrier",
@@ -52,7 +52,7 @@
       "heading": "Le Black Friday de Hostinger a-t-il déjà commencé ?",
       "paragraphs": [
         "Oui. La FAQ officielle de Hostinger indique : « La promotion Black Friday de Hostinger a lieu du 19 octobre au 14 décembre 2026. » La page mondiale en anglais donne la même date.",
-        "La bannière de la page d’hébergement web affiche « Jusqu’à 82 % de réduction ». C’est le plafond de la bannière, pas la réduction de chaque offre : sur le Single en 48 mois, la réduction est de 80 %. La bannière VPS affiche « Jusqu’à 70 % de réduction », et le VPS reste en dehors du calcul de cet article, comme nous l’expliquons plus bas.",
+        "La bannière de la page d’hébergement web affiche « Jusqu’à 82 % de réduction ». C’est le plafond de la bannière, pas la réduction de chaque offre : pour le Single sur 48 mois, la réduction est de 80 %. La bannière VPS affiche « Jusqu’à 70 % de réduction », et le VPS reste en dehors du calcul de cet article, comme nous l’expliquons plus bas.",
         "Les chiffres ci-dessous concernent uniquement la campagne 2026, relevés sur la page officielle."
       ],
       "images": []
@@ -61,7 +61,7 @@
       "heading": "Ce que l’on paie avec la campagne et avec SONAR20",
       "postParagraphs": [
         "La réduction s’applique sur le prix de la campagne. Sur le site mondial, l’offre Startup en 48 mois est passée de 383,52 US$ à 306,82 US$ avec SONAR20 saisi dans le champ de code promo (« Have a coupon code? »).",
-        "Où coller le code et ce qu’il advient de la réduction au renouvellement : voir [Code promo Hostinger SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
+        "Où coller le code et ce que devient la réduction au renouvellement : voir [Code promo Hostinger SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
       ]
     },
     {

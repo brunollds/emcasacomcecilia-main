@@ -33,7 +33,7 @@
     {
       "heading": "핵심 요약",
       "paragraphs": [
-        "YesStyle은 한국으로 배송합니다. Express 배송은 영업일 3~5일이고, US$ 50 이상이면 배송비가 무료입니다. 한국용 세금은 게시되어 있지 않지만, 세관이 부과한 세금과 관세는 환급 대상입니다. 아래 표와 '세관에서 부과금이 붙으면' 항목을 보세요."
+        "YesStyle은 한국으로 배송합니다. Express 배송은 영업일 3~5일이고, 일정 금액 이상이면 배송비가 무료입니다. 한국용 세금은 게시되어 있지 않지만, 세관이 부과한 세금과 관세는 환급 대상입니다. 아래 표와 '세관에서 부과금이 붙으면' 항목을 보세요."
       ]
     },
     {
@@ -187,7 +187,7 @@
       ],
       "links": [
         {
-          "label": "YesStyle 스토어에서 오늘의 할인과 리워드 코드 CECILIA010 보기",
+          "label": "이 사이트에서 오늘의 YesStyle 쿠폰과 리워드 코드 CECILIA010 보기",
           "href": "/ko/coupons/yesstyle"
         }
       ]
@@ -209,7 +209,7 @@
     }
   ],
   "cta": {
-    "text": "결제 화면에서 내 주소의 배송비와 배송 기간을 확인하고 Reward Code 칸에 CECILIA010을 입력하세요.",
+    "text": "결제 화면에서 받는 주소의 배송비와 배송 기간을 확인하고 Reward Code 칸에 CECILIA010을 입력하세요.",
     "label": "YesStyle로 이동",
     "url": "https://ystyle.co/rQYQv",
     "sponsored": true

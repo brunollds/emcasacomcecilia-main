@@ -3,8 +3,8 @@
   "slug": "yesstyle-vs-stylevana-olive-young",
   "locale": "en",
   "translationKey": "yesstyle-vs-alternatives",
-  "title": "YesStyle vs Stylevana: shipping, customs and returns side by side, with Olive Young, StyleKorean and Jolse",
-  "seoTitle": "YesStyle vs Stylevana: shipping, customs and returns",
+  "title": "YesStyle vs Stylevana: returns, free shipping and Reward Code compared, with Olive Young, StyleKorean and Jolse",
+  "seoTitle": "YesStyle vs Stylevana: returns, free shipping and Reward Code",
   "type": "Store Comparison",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,12 +15,12 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle, Stylevana, Olive Young, StyleKorean and Jolse side by side for Portugal: who ships there, the order value for free shipping, who pays the tax and what each store takes back, from the official pages.",
-  "metaDescription": "YesStyle or Stylevana? Shipping, free shipping, tax and returns for Portugal, with Olive Young, StyleKorean and Jolse, from the official pages.",
+  "description": "YesStyle, Stylevana, Olive Young, StyleKorean and Jolse side by side: the return deadline and what each store takes back, StyleKorean's free shipping and order limit, and the CECILIA010 Reward Code, from the official pages.",
+  "metaDescription": "YesStyle or Stylevana? Returns, StyleKorean free shipping and the CECILIA010 Reward Code, with Olive Young, StyleKorean and Jolse, from the official pages.",
   "publishedAt": "October 13, 2026",
   "publishedAtISO": "2026-10-13",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
   "imageAlt": "Cecília holding the tube of Abib PDRN Volume Fill-it cream sent by YesStyle, with the YesStyle logo and the title YesStyle vs Stylevana",
@@ -32,95 +32,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "No store is best for everyone: the choice changes with the country, who pays the tax and what the store takes back. In Portugal all five stores deliver, so decide by tax and returns, using the tables below."
-      ]
-    },
-    {
-      "heading": "Who ships to Portugal",
-      "comparisonTable": {
-        "caption": "Delivery time, shipping cost and tax at YesStyle, Stylevana, StyleKorean and Jolse for Portugal, from the official pages.",
-        "headers": [
-          "Store",
-          "Delivery time",
-          "Free shipping",
-          "Tax"
-        ],
-        "rows": [
-          [
-            "YesStyle",
-            "Standard, 10 to 15 business days",
-            "from US$ 60; US$ 5 below",
-            "23% VAT already in the price"
-          ],
-          [
-            "Stylevana",
-            "Standard, 6 to 11 business days; does not deliver to remote areas",
-            "from €59; €4.39 below",
-            "the store does not list the countries with tax included"
-          ],
-          [
-            "Olive Young Global",
-            "not published for Portugal; the store picks and packs the order in 1 to 3 business days",
-            "from US$ 60; US$ 25 below",
-            "VAT and a €3 charge per customs category collected at checkout"
-          ],
-          [
-            "StyleKorean",
-            "not published by country; the store hands the order to the carrier within 5 business days",
-            "from US$ 80",
-            "paid by the customer"
-          ],
-          [
-            "Jolse",
-            "not published",
-            "above US$ 60; US$ 6.99 below",
-            "shipped with 23% VAT included"
-          ]
-        ]
-      },
-      "paragraphs": [
-        "Olive Young Global delivers to Portugal (the site's destination selector, checked on October 21, 2026), but its shipping page has no row for the country: the delivery time is not published, and shipping follows the general rule in its FAQ."
-      ]
-    },
-    {
-      "heading": "Who pays the tax",
-      "comparisonTable": {
-        "caption": "When each store charges tax and whether it refunds customs fees, from the official pages.",
-        "headers": [
-          "Store",
-          "When the tax is charged",
-          "Tax refund"
-        ],
-        "rows": [
-          [
-            "YesStyle",
-            "Portugal: VAT already in the price",
-            "yes, on orders under US$ 1,000, as store credit"
-          ],
-          [
-            "Stylevana",
-            "the store says that in many regions tax is already in the price or calculated at checkout, without listing the regions",
-            "the Portugal site does not publish one"
-          ],
-          [
-            "Olive Young Global",
-            "in the European Union, VAT and €3 per customs category are charged at checkout, and the store says nothing more is charged on delivery; in other countries, the price and shipping do not include tax",
-            "in the European Union, does not refund customs fees, VAT or import charges"
-          ],
-          [
-            "StyleKorean",
-            "customs tax is the customer's; in the US and Canada, it is calculated and charged at checkout",
-            "not published; if the customer refuses to pay the tax, the package is returned or destroyed, with no refund or reshipment"
-          ],
-          [
-            "Jolse",
-            "Portugal: shipped with 23% VAT included",
-            "does not publish a refund; the customer is responsible for customs tax and fees"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "YesStyle is the only one of the five that publishes a tax refund. It covers taxes and fees charged on delivery, not the VAT already paid at checkout."
+        "No store is best for everyone: the choice changes with the country and with what the store takes back. Decide by returns, using the table below: at none of the five stores can an opened beauty product be returned for a change of mind."
       ]
     },
     {
@@ -200,7 +112,7 @@
           ],
           [
             "US$ 80",
-            "Portugal, Spain, France, Belgium, the Netherlands, Germany, Switzerland, Italy, the United Kingdom, Ireland, Denmark, Sweden, Norway, Poland, Hungary, Bulgaria, Romania, the Emirates, Saudi Arabia, Qatar, Kuwait, Bahrain and Oman"
+            "Spain, France, Belgium, the Netherlands, Germany, Switzerland, Italy, the United Kingdom, Ireland, Denmark, Sweden, Norway, Poland, Hungary, Bulgaria, Romania, the Emirates, Saudi Arabia, Qatar, Kuwait, Bahrain and Oman"
           ],
           [
             "US$ 90",
@@ -279,20 +191,17 @@
     {
       "heading": "Which to choose",
       "bullets": [
-        "If you live in Portugal: all five stores deliver and all publish the order value for free shipping, so the choice comes down to tax and returns, in the tables above.",
+        "To decide: compare the deadline and what each store accepts in the returns table above.",
         "In any country: check each store's official page for shipping, who pays the tax and what it takes back before placing the order."
       ]
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Which is better, YesStyle or Stylevana? It depends on the country: for Portugal, delivery times and minimums are in the shipping table.",
+        "Which is better, YesStyle or Stylevana? It depends on the country and on what you need; for returns, the table above compares the deadline and what each store accepts.",
         "Is YesStyle the same as SHEIN? No: YesStyle does not appear in the SHEIN Group's list of brands and says it belongs to YesAsia Holdings, of Hong Kong.",
         "What is the order limit at StyleKorean? US$ 500 per order, not counting shipping; above that, the store asks you to split it into two orders.",
-        "Which store has the lowest free-shipping minimum? For Portugal, the minimums are in the shipping table, and Stylevana is the only one in euros.",
-        "Who pays the tax? It depends on the store and the country: in Portugal, YesStyle and Jolse already include VAT; only YesStyle publishes a refund of customs taxes and fees, as store credit, under US$ 1,000.",
         "Can I return an opened beauty product? Not for a change of mind, at any of the five stores; Stylevana accepts a change of mind only if the product is new, sealed and unused.",
-        "Which store delivers faster? The stores publish the shipping time, not the total: for Portugal, Stylevana indicates 6 to 11 business days and YesStyle 10 to 15, not counting the time for the item to leave Hong Kong.",
         "Where does the YesStyle Reward Code go? CECILIA010 goes in the Reward Code field at checkout, and the current coupons are on the YesStyle page here on the site."
       ]
     }

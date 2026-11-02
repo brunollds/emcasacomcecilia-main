@@ -35,7 +35,7 @@
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
   "imageAlt": "Rotes OpenClaw-Maskottchen im Vordergrund, mit dem Hostinger-Logo, dem Titel OpenClaw + VPS KVM und Symbolen für Server und Tarife",
   "imageFit": "contain",
@@ -143,7 +143,7 @@
       },
       "bullets": [
         "**KVM 1 (4 GB).** Ausgangspunkt für das Szenario mit API-Schlüssel oder Guthaben. Für ein lokales Modell liegt er unter der offiziellen Untergrenze.",
-        "**KVM 2 (8 GB).** Mit API-Schlüssel gibt es reichlich Spielraum. Mit lokalem Modell liegt er an der Grenze der Untergrenze, ohne Reserve für das System.",
+        "**KVM 2 (8 GB).** Mit API-Schlüssel gibt es reichlich Spielraum. Mit lokalem Modell liegt er genau an der Untergrenze, ohne Reserve für das System.",
         "**KVM 4 (16 GB).** Der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB. Die Dokumentation sagt nicht, wie viel er mit einem lokalen Modell leistet.",
         "**KVM 8 (32 GB).** Sinnvoll nur mit einem größeren lokalen Modell. Die Dokumentation sagt nicht, wie viel Speicher jedes große Rezept braucht."
       ],
@@ -249,7 +249,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung nicht getestet: Prüfen Sie den Preis im Warenkorb.",
     "label": "Die Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

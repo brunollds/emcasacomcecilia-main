@@ -33,7 +33,7 @@
     {
       "heading": "In breve",
       "paragraphs": [
-        "YesStyle spedisce in Italia con spedizione Standard da 10 a 15 giorni lavorativi, gratuita da US$ 45 (sotto la soglia costa US$ 5), e l'IVA del 22% è già nel prezzo. Sotto trovi la tabella e cosa può arrivare dopo alla consegna."
+        "YesStyle spedisce in Italia con spedizione Standard da 10 a 15 giorni lavorativi, gratuita sopra una soglia minima, e l'IVA del 22% è già nel prezzo. Sotto trovi la tabella e cosa può arrivare dopo alla consegna."
       ]
     },
     {
@@ -108,8 +108,8 @@
       },
       "bullets": [
         "**Disponibile:** l'articolo esce dal magazzino in 1-3 giorni lavorativi.",
-        "**Stock disponibile tra: 3-5 giorni:** l'articolo arriva da un magazzino regionale del negozio ed esce in 3-5 giorni lavorativi.",
-        "**Stock disponibile tra: 7, 7-14, 21 o 30 giorni:** il negozio acquista l'articolo dal fornitore dopo l'ordine, e l'articolo esce dal magazzino in quel numero di giorni lavorativi."
+        "**In attesa di stock: 3-5 giorni:** l'articolo arriva da un magazzino regionale del negozio ed esce in 3-5 giorni lavorativi.",
+        "**In attesa di stock: 7, 7-14, 21 o 30 giorni:** il negozio acquista l'articolo dal fornitore dopo l'ordine, e l'articolo esce dal magazzino in quel numero di giorni lavorativi."
       ],
       "postParagraphs": [
         "Un ordine con un articolo disponibile e uno in attesa di stock di solito parte tutto insieme, quando anche l'ultimo diventa disponibile. Con un articolo a 7-14 giorni, l'ordine per l'Italia richiede da 17 a 29 giorni lavorativi."
@@ -159,7 +159,7 @@
     {
       "heading": "Come restituire un prodotto",
       "bullets": [
-        "**Tempi:** chiedi il numero RMA entro 14 giorni dalla ricezione, dalla pagina RMA del tuo account (per ripensamento o cambio taglia) o tramite il servizio clienti, e spedisci il pacco entro 30 giorni dall'emissione dell'RMA.",
+        "**Scadenza:** chiedi il numero RMA entro 14 giorni dalla ricezione, dalla pagina RMA del tuo account (per ripensamento o cambio taglia) o tramite il servizio clienti, e spedisci il pacco entro 30 giorni dall'emissione dell'RMA.",
         "**Dove:** il pacco torna all'ufficio del negozio a Hong Kong o ai suoi partner per i resi negli Stati Uniti e in Canada; il negozio consiglia la posta raccomandata.",
         "**Cosa non si può restituire:** prodotti di bellezza aperti, integratori, articoli di offerte come Buy 1 Get 1 Free, Clearance, Lucky Bundle e Deals, e articoli per uso intimo, come costumi da bagno, intimo, orecchini e parrucche.",
         "**Allergia o reazione cutanea:** non dà diritto né al rimborso né al reso.",

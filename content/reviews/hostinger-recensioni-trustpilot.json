@@ -116,7 +116,7 @@
       "images": [
         {
           "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-          "alt": "Parte alta del profilo Hostinger su Trustpilot, con punteggio 4,6, 73.316 recensioni, profilo rivendicato, abbonamento a pagamento e l’avviso che l’azienda invita i clienti a recensire",
+          "alt": "Parte alta del profilo Hostinger su Trustpilot, con punteggio 4,6, profilo rivendicato, abbonamento a pagamento e l’avviso che l’azienda invita i clienti a recensire",
           "caption": "Profilo Hostinger su Trustpilot. Immagine: screenshot di Bruno.",
           "objectFit": "contain",
           "aspectRatio": 3.7969
@@ -130,15 +130,15 @@
         }
       ],
       "postParagraphs": [
-        "Gli screenshot sono del 19 ottobre 2026. Entro il 24 ottobre il totale era salito da 73.316 a 73.411 recensioni, con lo stesso punteggio, e la quota di risposte alle recensioni negative dal 98% al 99%. Le percentuali per stella non si sono mosse.",
-        "La pagina mostra anche la lingua delle recensioni: 44.546 erano in inglese, 8.744 in spagnolo e 3.340 in francese, tra le altre. Il punteggio è quindi globale, non l’opinione di un solo mercato.",
+        "Gli screenshot sono del 19 ottobre 2026 e la tabella del 24 ottobre: il punteggio era lo stesso, la quota di risposte alle recensioni negative è passata dal 98% al 99% e le percentuali per stella non si sono mosse.",
+        "Il campione copriva recensioni in più lingue: il punteggio è quindi globale, non l’opinione di un solo mercato.",
         "Quello che la tabella non mostra è chi riceve l’invito e chi scrive di sua iniziativa. Da lì comincia il capitolo successivo."
       ]
     },
     {
       "heading": "Tre letture che cambiano il conto",
       "paragraphs": [
-        "Per capire cosa c’è dietro il 4,6, il 24 ottobre 2026 abbiamo letto le 100 recensioni a una stella più recenti e le 100 a cinque stelle più recenti, in tutte le lingue. Trustpilot contrassegna ogni recensione come «invitata», quando l’azienda ha mandato la richiesta, oppure come spontanea, quando la persona è arrivata da sola. La tabella confronta i due gruppi."
+        "Per capire cosa c’è dietro il 4,6, il 24 ottobre 2026 sono state lette le 100 recensioni a una stella più recenti e le 100 a cinque stelle più recenti, in tutte le lingue. Trustpilot contrassegna ogni recensione come «invitata», quando l’azienda ha mandato la richiesta, oppure come spontanea, quando la persona è arrivata da sola. La tabella confronta i due gruppi."
       ],
       "comparisonTable": {
         "headers": [
@@ -178,7 +178,7 @@
     {
       "heading": "Di cosa si lamentano le persone",
       "paragraphs": [
-        "Tolti i 14 elogi con il voto sbagliato, tra le 100 recensioni a una stella più recenti sono rimasti 86 reclami veri. Abbiamo letto titoli ed estratti e classificato ogni reclamo per tema; un reclamo può riguardare più temi, quindi i conteggi sono approssimativi. Questi sono i temi, dal più citato al meno citato:"
+        "Tolti i 14 elogi con il voto sbagliato, tra le 100 recensioni a una stella più recenti sono rimasti 86 reclami veri. Ogni reclamo è stato classificato per tema in base a titolo ed estratto; un reclamo può riguardare più temi, quindi i conteggi sono approssimativi. Questi sono i temi, dal più citato al meno citato:"
       ],
       "bullets": [
         "**Supporto con l’IA e impossibilità di parlare con una persona:** circa 45 su 86. Una parte riguarda gli strumenti di IA del costruttore di siti, non il supporto.",
@@ -224,7 +224,7 @@
       "heading": "Cosa risponde la Hostinger",
       "paragraphs": [
         "Su Trustpilot l’azienda dice di rispondere al 99% delle recensioni negative, di solito entro 24 ore. Nel nostro campione, 80 degli 86 reclami avevano una risposta; i sei senza risposta erano stati pubblicati nelle 24 ore precedenti. La pagina avverte anche che l’azienda può usare l’IA nelle risposte.",
-        "Abbiamo contato le risposte senza valutarle, quindi questo testo non dice se risolvono il problema. Prima di acquistare, leggi alcune risposte sul profilo, soprattutto quelle sugli addebiti e sull’impossibilità di parlare con una persona."
+        "Le risposte sono state contate senza valutarle, quindi questo testo non dice se risolvono il problema. Prima di acquistare, leggi alcune risposte sul profilo, soprattutto quelle sugli addebiti e sull’impossibilità di parlare con una persona."
       ]
     },
     {
@@ -232,7 +232,7 @@
       "paragraphs": [
         "Bruno, che firma anche questo testo, è cliente della Hostinger dal 2024, con più di 24 mesi di abbonamento: hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Il sito Em Casa com Cecília gira sulla Hostinger.",
         "Ogni volta che ha avuto un problema, l’assistenza l’ha risolto, soprattutto l’agente IA, e non ha mai visto un’interruzione del servizio.",
-        "È la sua esperienza, con il suo uso, e serve un contrappeso onesto: l’assistenza con l’IA che ha risolto i suoi problemi è il tema più presente nei reclami che abbiamo letto, circa 45 su 86, anche se una parte riguarda gli strumenti di IA del costruttore di siti. Il suo caso non dice nulla di chi non è riuscito a superare l’agente, né di chi ha subito un addebito che non si aspettava."
+        "È la sua esperienza, con il suo uso, e serve un contrappeso onesto: l’assistenza con l’IA che ha risolto i suoi problemi è il tema più presente nei reclami letti, circa 45 su 86, anche se una parte riguarda gli strumenti di IA del costruttore di siti. Il suo caso non dice nulla di chi non è riuscito a superare l’agente, né di chi ha subito un addebito che non si aspettava."
       ]
     },
     {

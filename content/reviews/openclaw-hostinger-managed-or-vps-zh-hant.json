@@ -35,10 +35,10 @@
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
-  "imageAlt": "OpenClaw 的紅色吉祥物居中，旁邊是 Hostinger 標誌以及雲端與伺服器圖示，象徵託管與 VPS 的對決",
+  "imageAlt": "OpenClaw 的紅色吉祥物居中，旁邊是 Hostinger 標誌以及雲端與伺服器圖示，兩者相對而立",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -117,7 +117,7 @@
       "paragraphs": [],
       "bullets": [],
       "postParagraphs": [
-        "方案不是全部花費，AI 的使用費另計。使用 Hostinger 的額度時，託管版附有起始餘額，超出的部分依用量計費。續儲的價格沒有出現在任何公開頁面上，所以指望它之前，請先在後台確認。如果用自己的金鑰，供應商（OpenAI、Anthropic 或其他）會依模型與對話量直接向你收費。",
+        "方案不是全部花費，AI 的使用費另計。使用 Hostinger 的額度時，託管版附有起始餘額，超出的部分依用量計費。儲值的價格沒有出現在任何公開頁面上，所以指望它之前，請先在後台確認。如果用自己的金鑰，供應商（OpenAI、Anthropic 或其他）會依模型與對話量直接向你收費。",
         "託管版有 30 天可申請退款。VPS 則只有在上一次 VPS 退款申請已超過 180 天時，才適用 30 天。12 個月以上的 VPS 首年可免費獲得一個 .cloud 或 .tech 網域。"
       ]
     },
@@ -135,7 +135,7 @@
       "bullets": [
         "在 BotFather（Telegram 官方的建立機器人工具）建立機器人，並複製 token。",
         "把 token 貼到 OpenClaw 的設定中。",
-        "傳訊息給機器人。尚未獲准的對象會收到配對碼，你再到 OpenClaw 的後台批准第一次聯絡。"
+        "傳訊息給機器人。尚未獲准的人會收到配對碼，你再到 OpenClaw 的後台批准第一次聯絡。"
       ],
       "postParagraphs": [
         "WhatsApp 的情況是，OpenClaw 會像 WhatsApp Web 一樣，以「已連結的裝置」身分接入，登入只需要 QR code。文件建議使用與個人號碼分開的號碼。"
@@ -148,7 +148,7 @@
         "OpenClaw 的安全政策說，它是為一位可信任的使用者設計的，而不是給互不認識的多人共用，因為能跟助理說話的人，就能讓它使用其工具。以下三種情況，選擇會不一樣："
       ],
       "bullets": [
-        "**多人使用**（家人或團隊）：專案建議一人一台伺服器。VPS 做起來很直接；託管方面，請向 Hostinger 確認一個帳戶能有幾個執行個體。",
+        "**多人使用**（家人或團隊）：專案建議一人一台伺服器。VPS 上很容易做到；託管方面，請向 Hostinger 確認一個帳戶能有幾個執行個體。",
         "**助理會存取你的電子郵件、銀行或其他帳戶：** 專案要求伺服器上不要登入個人帳戶。Hostinger 建議為助理另外準備一個電子郵件信箱。",
         "**使用 VPS 時，請妥善保管閘道 token。** 它在安裝時產生，不要在與助理的對話中傳送。"
       ]
@@ -197,7 +197,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車輸入 SONAR20，或從本文連結進入：首期享 20%，月付或年付都可以。",
+    "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續訂，請在購物車確認價格。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -227,7 +227,7 @@
     "skipIf": [
       "如果你不知道 root 或 Docker 是什麼，就別選 VPS：更新與保護系統都要由你來做。",
       "如果你需要 root 存取，或更多記憶體與硬碟，就別選託管。",
-      "如果同一個助理要服務多個人，就別選：專案建議一人一台伺服器。"
+      "如果同一個助理要服務多個人，兩者都別選：專案建議一人一台伺服器。"
     ]
   }
 }

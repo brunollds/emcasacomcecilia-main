@@ -35,7 +35,7 @@
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
   "imageAlt": "OpenClaw の赤いマスコットと Hermes Agent のアイコン、Hostinger のロゴ、タイトル「OpenClaw vs Hermes Agent」",
@@ -143,7 +143,7 @@
         "始める前に、三つのことを確認してください。どちらのエージェントにも当てはまります。"
       ],
       "bullets": [
-        "**AI モデル。** エージェントは自分だけでは答えません。他社のモデルに回答を頼みます。Hostinger では、プランの AI クレジットか、ご自身の API キー（プログラムがプロバイダーと通信するための鍵）を使います。利用料は、プロバイダーがあなたに直接請求します。",
+        "**AI モデル。** エージェントは自分だけでは答えません。他社のモデルに回答を頼みます。Hostinger では、プランの AI クレジットか、ご自身の API キー（プログラムがプロバイダーと通信するための鍵）を使います。利用料はプロバイダーが直接請求します。",
         "**メッセージのチャンネル。** いちばん簡単なのは Telegram です。Telegram の公式のボット作成ボット BotFather でボットを作り、トークンを保管します。WhatsApp は連携した端末として、QR コードを読み取って接続します。",
         "**サーバーを誰が管理するか。** マネージドでは、Hostinger が更新とセキュリティを担当します。VPS では、更新は Docker Manager の Update ボタンでご自身が行い、サーバーのセキュリティもご自身の役目です。Docker は、アプリをコンテナの中で分離して動かすプログラムです。"
       ],
@@ -251,14 +251,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。",
+    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していないので、カートで価格を確認してください。",
     "label": "割引プランを見る",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も OpenClaw や Hermes Agent は使っていません。",
+  "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。追加の費用はかかりません。チームの誰も OpenClaw や Hermes Agent は使っていません。",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-managed-or-vps-ja",

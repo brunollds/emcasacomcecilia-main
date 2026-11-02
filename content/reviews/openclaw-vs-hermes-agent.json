@@ -35,7 +35,7 @@
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
   "imageAlt": "Red OpenClaw mascot facing the Hermes Agent icon, with the Hostinger logo and the title OpenClaw vs Hermes Agent",
@@ -52,7 +52,7 @@
       "heading": "What each one is",
       "paragraphs": [
         "Both are open-source AI assistants under the MIT license that you install and talk to through Telegram, WhatsApp or another messaging app. The license costs nothing; what sets them apart is the interface, the memory and who maintains the project.",
-        "**OpenClaw** is maintained by the OpenClaw Foundation, a non-profit organization. The official README says state, memory and credentials stay on the device where it runs, with no paid plan, hosted service or token. It has a web interface (Control UI), a command line and native apps for macOS, iOS, Android, Windows and Linux. On Hostinger it can be bought managed or on a VPS, as the [OpenClaw managed or VPS guide](/en/reviews/openclaw-hostinger-managed-or-vps) shows.",
+        "**OpenClaw** is maintained by the OpenClaw Foundation, a non-profit organization. The official README says state, memory and credentials stay on the device where it runs, with no paid plan, hosted service or token. It has a web interface (Control UI), a command line and native apps for macOS, iOS, Android, Windows and Linux. On Hostinger it is available managed or on a VPS, as the [OpenClaw managed or VPS guide](/en/reviews/openclaw-hostinger-managed-or-vps) shows.",
         "**Hermes Agent** is made by Nous Research, a company that develops AI models. Its signature is the learning loop: the agent organizes its own memory between sessions, creates and improves its own skills, searches past conversations and builds a model of the user with Honcho. It has a full terminal and Hermes Desktop, a desktop app with an installer for Windows and macOS. The project page does not state a price for the software. It mentions Nous Portal, a subscription with tools such as web search, browsing and image generation, with no price given. Nous Portal is one way to pay for the model, not the only one."
       ]
     },

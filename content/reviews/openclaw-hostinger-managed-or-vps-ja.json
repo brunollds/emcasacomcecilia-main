@@ -35,10 +35,10 @@
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
-  "imageAlt": "OpenClaw の赤いマスコットが中央に立ち、Hostinger のロゴ、クラウドとサーバーのアイコンが並んでいる。マネージドと VPS の対決を表す画像",
+  "imageAlt": "OpenClaw の赤いマスコットが中央に立ち、Hostinger のロゴと、クラウドとサーバーのアイコンが向かい合っている",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -67,7 +67,7 @@
       "image": {
         "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
         "alt": "マネージドと VPS の二列の表。インストールは両方で Hostinger が行う。アップデートとサーバーのセキュリティは、マネージドでは Hostinger、VPS ではあなたが担当。AI クレジットか自分のキーかは、どちらでも選べる",
-        "caption": "それぞれの担当範囲。Hostinger のページと OpenClaw のドキュメントをもとにまとめました。"
+        "caption": "それぞれの担当範囲。出典：Hostinger のページと OpenClaw のドキュメント。"
       },
       "comparisonTable": {
         "headers": [
@@ -135,7 +135,7 @@
       "bullets": [
         "Telegram の公式ボット作成ツール BotFather でボットを作り、トークンをコピーします。",
         "トークンを OpenClaw の設定に貼り付けます。",
-        "ボットにメッセージを送ります。まだ承認されていない相手にはペアリングコードが届くので、最初の接続は OpenClaw の管理画面で承認します。"
+        "ボットにメッセージを送ります。まだ承認されていない相手にはペアリングコードが届くので、最初の接続は OpenClaw の管理画面で承認してください。"
       ],
       "postParagraphs": [
         "WhatsApp では、OpenClaw は WhatsApp Web と同じく「リンクされたデバイス」として接続し、ログインは QR コードだけです。ドキュメントは、個人の番号とは別の番号を使うよう勧めています。"
@@ -170,9 +170,9 @@
       ]
     },
     {
-      "heading": "SONAR20 クーポン",
+      "heading": "クーポン SONAR20",
       "paragraphs": [
-        "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月額・年額どちらのプランでも、新規のお客様にも既存のお客様にも使えます。更新は検証していません。カートで価格を確認してください。コードの入れ方は [SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja) にあります。"
+        "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月額・年額どちらのプランでも、新規のお客様にも既存のお客様にも使えます。更新は検証していません。カートで価格を確認してください。コードの入れ方は [クーポン SONAR20の使い方](/ja/reviews/hostinger-referral-code-ja) にあります。"
       ],
       "postParagraphs": [
         "Hostinger はブラックフライデーのキャンペーン中で、価格が変わります。[Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) を見て、支払う前にカートで金額を確認してください。"
@@ -197,8 +197,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。",
-    "label": "割引プランを見る",
+    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新は検証していないので、カートで価格を確認してください。",
+    "label": "SONAR20 の割引プランを見る",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },

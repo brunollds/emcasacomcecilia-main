@@ -43,7 +43,7 @@
   "imageAspect": "landscape",
   "contentSections": [
     {
-      "heading": "快速结论",
+      "heading": "快速回答",
       "paragraphs": [
         "可以，但有一点要留意。在查阅的时间点，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,411 条评价，公司回复了几乎所有负面评价。不过公司会邀请客户评价，平均分因此被拉高，投诉主要集中在 AI 客服、账单与续费以及域名。在主机服务上，账单投诉就意味着要留意自动续费。关闭方法见下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 优惠码](/zh-hans/coupons/hostinger)获得。"
       ]
@@ -114,12 +114,12 @@
         ]
       },
       "postParagraphs": [
-        "主页由公司管理，公司会邀请客户评价，Trustpilot 也不会逐条核实。五星占 87.1%，但表格看不出其中有多少是受邀的。下一章就从这里开始。"
+        "主页由公司管理，公司会邀请客户评价，Trustpilot 也不会逐条核实。截图是 2026 年 10 月 19 日的，表格是 10 月 24 日的：分数不变，负面评价回复率从 98% 升到 99%，各星占比没有变化。五星占 87.1%，但表格看不出其中有多少是受邀的。下一章就从这里开始。"
       ],
       "images": [
         {
           "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-          "alt": "Trustpilot 上 Hostinger 个人主页的顶部，显示 4.6 分、73,316 条评价、已认领的主页、付费订阅，以及公司邀请客户评价的提示",
+          "alt": "Trustpilot 上 Hostinger 个人主页的顶部，显示 4.6 分、已认领的主页、付费订阅，以及公司邀请客户评价的提示",
           "caption": "Trustpilot 上的 Hostinger 个人主页。图片：Bruno 的截图。",
           "objectFit": "contain",
           "aspectRatio": 3.7969

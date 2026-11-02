@@ -3,8 +3,8 @@
   "slug": "yesstyle-vs-stylevana-ko",
   "locale": "ko",
   "translationKey": "yesstyle-vs-alternatives",
-  "title": "YesStyle vs Stylevana: 배송, 관세, 반품 비교",
-  "seoTitle": "YesStyle vs Stylevana: 배송, 관세, 반품 비교",
+  "title": "YesStyle vs Stylevana: 반품, 무료 배송, 리워드 코드 비교",
+  "seoTitle": "YesStyle vs Stylevana: 반품, 무료 배송, 리워드 코드 비교",
   "type": "쇼핑몰 비교",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,15 +15,15 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle, Stylevana, Olive Young, StyleKorean, Jolse를 포르투갈 기준으로 나란히 비교했습니다. 어디가 배송해 주는지, 얼마부터 무료 배송인지, 세금은 누가 내는지, 각 쇼핑몰이 반품으로 무엇을 받아 주는지를 공식 페이지로 정리했습니다.",
-  "metaDescription": "YesStyle과 Stylevana, 어디가 나을까요? 포르투갈의 배송, 무료 배송, 세금, 반품을 Olive Young, StyleKorean, Jolse까지 공식 페이지로 비교합니다.",
+  "description": "YesStyle, Stylevana, Olive Young, StyleKorean, Jolse를 나란히 비교했습니다. 반품 신청 기한과 각 쇼핑몰이 받아 주는 범위, StyleKorean의 무료 배송 기준과 주문 한도, 리워드 코드 CECILIA010까지 공식 페이지로 정리했습니다.",
+  "metaDescription": "YesStyle과 Stylevana, 어디가 나을까요? 반품, StyleKorean의 무료 배송, 리워드 코드 CECILIA010을 Olive Young, StyleKorean, Jolse까지 공식 페이지로 비교합니다.",
   "publishedAt": "2026년 10월 13일",
   "publishedAtISO": "2026-10-13",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
-  "imageAlt": "YesStyle에서 배송된 Abib PDRN Volume Fill-it 크림 튜브를 든 Cecília. YesStyle 로고와 'YesStyle vs Stylevana' 제목이 들어 있음",
+  "imageAlt": "YesStyle에서 배송된 Abib PDRN Volume Fill-it 크림 튜브를 든 Cecília. YesStyle 로고와 ‘YesStyle vs Stylevana’ 제목이 들어 있음",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -32,95 +32,7 @@
     {
       "heading": "핵심 요약",
       "paragraphs": [
-        "모두에게 맞는 쇼핑몰은 없습니다. 사는 나라, 세금을 누가 내는지, 반품으로 무엇을 받아 주는지에 따라 선택이 달라집니다. 포르투갈에서는 다섯 곳 모두 배송하므로, 세금과 반품 조건으로 고르면 됩니다. 아래 표를 참고하세요."
-      ]
-    },
-    {
-      "heading": "포르투갈로 배송하는 쇼핑몰",
-      "comparisonTable": {
-        "caption": "YesStyle, Stylevana, StyleKorean, Jolse의 포르투갈 배송 기간, 배송비, 세금을 공식 페이지 기준으로 정리했습니다.",
-        "headers": [
-          "쇼핑몰",
-          "배송 기간",
-          "무료 배송",
-          "세금"
-        ],
-        "rows": [
-          [
-            "YesStyle",
-            "Standard, 영업일 10~15일",
-            "US$ 60 이상 무료, 미만은 US$ 5",
-            "23% VAT(부가가치세)가 가격에 포함"
-          ],
-          [
-            "Stylevana",
-            "Standard, 영업일 6~11일. 외딴 지역은 배송하지 않음",
-            "€59 이상 무료, 미만은 €4.39",
-            "세금이 가격에 포함되는 국가를 쇼핑몰이 나열하지 않음"
-          ],
-          [
-            "Olive Young Global",
-            "포르투갈 배송 기간은 미공개. 주문 분류와 포장에 영업일 1~3일",
-            "US$ 60 이상 무료, 미만은 US$ 25",
-            "VAT와 관세 분류별 €3의 세금을 결제 단계에서 부과"
-          ],
-          [
-            "StyleKorean",
-            "국가별로는 미공개. 운송사 인계까지 영업일 최대 5일",
-            "US$ 80 이상 무료",
-            "고객 부담"
-          ],
-          [
-            "Jolse",
-            "미공개",
-            "US$ 60 초과 무료, 이하는 US$ 6.99",
-            "23% VAT를 포함해 발송"
-          ]
-        ]
-      },
-      "paragraphs": [
-        "Olive Young Global은 포르투갈에도 배송합니다(사이트의 배송 국가 선택기, 2026년 10월 21일 확인). 다만 배송 페이지에 이 나라의 항목이 없어 배송 기간은 공개되지 않고, 배송비는 FAQ의 일반 규정을 따릅니다."
-      ]
-    },
-    {
-      "heading": "세금은 누가 내나요?",
-      "comparisonTable": {
-        "caption": "각 쇼핑몰이 세금을 언제 부과하는지, 통관 수수료를 환불해 주는지를 공식 페이지 기준으로 정리했습니다.",
-        "headers": [
-          "쇼핑몰",
-          "세금이 부과되는 시점",
-          "세금 환불"
-        ],
-        "rows": [
-          [
-            "YesStyle",
-            "포르투갈: VAT가 가격에 포함",
-            "가능. US$ 1,000 미만 주문에 한해 스토어 크레딧으로 환불"
-          ],
-          [
-            "Stylevana",
-            "쇼핑몰은 많은 지역에서 세금이 가격에 포함되거나 결제 단계에서 계산된다고 설명하지만, 해당 지역을 나열하지 않음",
-            "포르투갈 사이트에는 공개되지 않음"
-          ],
-          [
-            "Olive Young Global",
-            "EU에서는 VAT와 관세 분류별 €3를 결제 단계에서 부과하고, 배송 시 추가 비용은 없다고 쇼핑몰이 설명. 그 밖의 나라에서는 가격과 배송비에 세금이 포함되지 않음",
-            "EU에서는 통관 수수료, VAT, 수입 관련 비용을 환불하지 않음"
-          ],
-          [
-            "StyleKorean",
-            "관세는 고객 부담. 미국과 캐나다는 결제 단계에서 계산해 부과",
-            "미공개. 고객이 세금 납부를 거부하면 소포는 반송되거나 폐기되며, 환불도 재발송도 없음"
-          ],
-          [
-            "Jolse",
-            "포르투갈: 23% VAT를 포함해 발송",
-            "환불을 공개하지 않음. 세금과 통관 수수료는 고객 책임"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "다섯 곳 중 세금 환불을 공개한 곳은 YesStyle뿐입니다. 환불 대상은 배송 시 부과된 세금과 수수료이며, 결제 단계에서 이미 낸 VAT는 해당되지 않습니다."
+        "모두에게 맞는 쇼핑몰은 없습니다. 사는 나라와 반품으로 무엇을 받아 주는지에 따라 선택이 달라집니다. 반품 조건으로 고르면 됩니다. 다섯 곳 모두 개봉한 뷰티 제품은 단순 변심으로 반품할 수 없습니다. 아래 표를 참고하세요."
       ]
     },
     {
@@ -200,7 +112,7 @@
           ],
           [
             "US$ 80",
-            "포르투갈, 스페인, 프랑스, 벨기에, 네덜란드, 독일, 스위스, 이탈리아, 영국, 아일랜드, 덴마크, 스웨덴, 노르웨이, 폴란드, 헝가리, 불가리아, 루마니아, 아랍에미리트, 사우디아라비아, 카타르, 쿠웨이트, 바레인, 오만"
+            "스페인, 프랑스, 벨기에, 네덜란드, 독일, 스위스, 이탈리아, 영국, 아일랜드, 덴마크, 스웨덴, 노르웨이, 폴란드, 헝가리, 불가리아, 루마니아, 아랍에미리트, 사우디아라비아, 카타르, 쿠웨이트, 바레인, 오만"
           ],
           [
             "US$ 90",
@@ -279,26 +191,23 @@
     {
       "heading": "어떤 쇼핑몰을 고를까",
       "bullets": [
-        "포르투갈에 사는 경우: 다섯 곳 모두 배송하고 무료 배송 기준도 모두 공개하므로, 세금과 반품 조건으로 고르면 됩니다. 위의 표를 참고하세요.",
+        "고를 때는: 위의 반품 표에서 신청 기한과 각 쇼핑몰이 받아 주는 범위를 비교하세요.",
         "어느 나라든: 주문을 확정하기 전에 각 쇼핑몰의 공식 페이지에서 배송, 세금 부담, 반품으로 받아 주는 사유를 확인하세요."
       ]
     },
     {
       "heading": "자주 묻는 질문",
       "bullets": [
-        "YesStyle과 Stylevana 중 어디가 더 좋나요? 나라에 따라 다릅니다. 포르투갈의 배송 기간과 무료 배송 기준은 배송 표에 있습니다.",
+        "YesStyle과 Stylevana 중 어디가 더 좋나요? 나라와 목적에 따라 다릅니다. 반품은 위의 표에서 신청 기한과 각 쇼핑몰이 받아 주는 범위를 비교할 수 있습니다.",
         "YesStyle은 SHEIN과 같은 회사인가요? 아니요. YesStyle은 SHEIN Group의 브랜드 목록에 없고, 홍콩의 YesAsia Holdings 소속이라고 밝힙니다.",
         "StyleKorean의 주문 한도는 얼마인가요? 배송비를 제외하고 주문당 US$ 500이며, 이를 넘으면 두 번에 나눠 주문하라고 안내합니다.",
-        "무료 배송 기준이 가장 낮은 쇼핑몰은 어디인가요? 포르투갈의 기준은 배송 표에 있고, 유로로 표시하는 곳은 Stylevana뿐입니다.",
-        "세금은 누가 내나요? 쇼핑몰과 나라에 따라 다릅니다. 포르투갈에서는 YesStyle과 Jolse가 가격에 VAT를 포함합니다. 세금과 통관 수수료 환불을 공개한 곳은 YesStyle뿐이며, US$ 1,000 미만 주문에 한해 스토어 크레딧으로 환불합니다.",
         "개봉한 뷰티 제품도 반품할 수 있나요? 단순 변심으로는 다섯 곳 모두 불가합니다. Stylevana는 새 제품이며 밀봉·미사용인 경우에 한해 단순 변심 반품을 받습니다.",
-        "어느 쇼핑몰이 더 빨리 배송하나요? 쇼핑몰이 공개하는 것은 발송 후 배송 기간이지 전체 기간이 아닙니다. 포르투갈의 경우 Stylevana는 영업일 6~11일, YesStyle은 10~15일이며, 제품이 홍콩에서 나오기까지의 시간은 포함되지 않습니다.",
         "YesStyle 리워드 코드는 어디에 입력하나요? CECILIA010은 결제 화면의 Reward Code 칸에 입력합니다. 지금 쓸 수 있는 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
       ]
     }
   ],
   "cta": {
-    "text": "결제 화면에서 내 주소의 배송비와 세금을 확인하고 Reward Code 칸에 CECILIA010을 붙여넣으세요.",
+    "text": "결제 화면에서 배송지 주소의 배송비와 세금을 확인하고 Reward Code 칸에 CECILIA010을 붙여넣으세요.",
     "label": "YesStyle로 이동",
     "url": "https://ystyle.co/rQYQv",
     "sponsored": true

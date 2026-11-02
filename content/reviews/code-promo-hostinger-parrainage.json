@@ -35,7 +35,7 @@
   "publishedAt": "19 octobre 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
   "imageAlt": "Logos d'OpenClaw, de Hermes Agent et de Paperclip, avec le logo d'Hostinger et la réduction de 20 %",
@@ -85,7 +85,7 @@
         "Choisissez le forfait et la période, puis allez au panier.",
         "Collez SONAR20 dans le champ de coupon et appliquez-le.",
         "Vérifiez que les 20 % apparaissent dans le total de la première période et que le renouvellement est indiqué.",
-        "Si le montant du panier est différent, c'est le montant du panier qui compte."
+        "Si le montant du panier est différent des prix affichés, c'est le montant du panier qui compte."
       ]
     },
     {

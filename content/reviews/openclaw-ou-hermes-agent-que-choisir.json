@@ -35,7 +35,7 @@
   "publishedAt": "21 octobre 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
   "imageAlt": "Mascotte rouge d'OpenClaw face à l'icône de Hermes Agent, avec le logo d'Hostinger et le titre OpenClaw vs Hermes Agent",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "heading": "Ce qu'est chacun",
+      "heading": "Ce que chacun est",
       "paragraphs": [
         "Les deux sont des assistants d'IA open source, sous licence MIT, que vous installez et avec lesquels vous discutez par Telegram, WhatsApp ou une autre messagerie. La licence ne coûte rien ; ce qui les distingue, c'est l'interface, la mémoire et qui maintient le projet.",
         "**OpenClaw** est maintenu par l'OpenClaw Foundation, une organisation à but non lucratif. Le README officiel indique que l'état, la mémoire et les identifiants restent sur l'appareil où il tourne, sans offre payante, service hébergé ni jeton. Il dispose d'une interface web (Control UI), d'une ligne de commande et d'applications natives pour macOS, iOS, Android, Windows et Linux. Chez Hostinger, on peut le prendre en offre gérée ou sur un VPS, comme le montre le [guide géré ou VPS pour OpenClaw](/fr/reviews/openclaw-hostinger-gere-ou-vps).",
@@ -251,7 +251,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+    "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
