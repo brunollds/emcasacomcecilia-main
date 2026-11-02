@@ -1,0 +1,63 @@
+{
+  "id": "shein-itens-com-desconto",
+  "affiliate": "shein",
+  "slot": "mid",
+  "href": "https://onelink.shein.com/58/66iufl9pp7qa",
+  "art": {
+    "kind": "bag"
+  },
+  "copy": {
+    "pt": {
+      "headline": "Itens com desconto na SHEIN",
+      "text": "A página de ofertas da loja, com os preços do dia.",
+      "action": "Ver as ofertas"
+    },
+    "en": {
+      "headline": "Items on sale at SHEIN",
+      "text": "The store’s deals page, with today’s prices.",
+      "action": "See the deals"
+    },
+    "es": {
+      "headline": "Artículos con descuento en SHEIN",
+      "text": "La página de ofertas de la tienda, con los precios del día.",
+      "action": "Ver las ofertas"
+    },
+    "fr": {
+      "headline": "Articles en promotion chez SHEIN",
+      "text": "La page des promos de la boutique, avec les prix du jour.",
+      "action": "Voir les promos"
+    },
+    "it": {
+      "headline": "Articoli scontati su SHEIN",
+      "text": "La pagina delle offerte del negozio, con i prezzi del giorno.",
+      "action": "Vedi le offerte"
+    },
+    "de": {
+      "headline": "Reduzierte Artikel bei SHEIN",
+      "text": "Die Angebotsseite des Shops mit den aktuellen Preisen.",
+      "action": "Angebote ansehen"
+    },
+    "ja": {
+      "headline": "SHEINのセール商品",
+      "text": "ストアのセールページです。価格は当日時点のものです。",
+      "action": "セール商品を見る"
+    },
+    "ko": {
+      "headline": "SHEIN 할인 상품",
+      "text": "스토어의 할인 페이지입니다. 가격은 당일 기준입니다.",
+      "action": "할인 상품 보기"
+    },
+    "zh-hans": {
+      "headline": "SHEIN折扣商品",
+      "text": "店铺的折扣页面，价格以当天为准。",
+      "action": "查看折扣"
+    },
+    "zh-hant": {
+      "headline": "SHEIN折扣商品",
+      "text": "店鋪的折扣頁面，價格以當天為準。",
+      "action": "查看折扣"
+    }
+  },
+  "source": "Link de afiliado da campanha no painel da SHEIN (PR #349)",
+  "verifiedAt": "2026-10-29"
+}

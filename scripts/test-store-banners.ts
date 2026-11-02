@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { getArticleCopy } from '../src/components/review/articleCopy';
 import { getCouponBySlug } from '../src/lib/couponsData';
 import { LOCALE_KEYS } from '../src/lib/i18n/locales';
-import { readFileSync } from 'node:fs';
+import { readdirSync, readFileSync } from 'node:fs';
 import { STORE_BANNERS, getArticleStoreBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, type StoreBanner } from '../src/lib/storeBanners';
 
 // O prazo de uma campanha com um "agora" fixo. As 23h do último dia em Brasília já são o dia seguinte em UTC:
@@ -47,11 +47,22 @@ assert.deepEqual(placeStoreBanners(['a', 'b'], -1), { top: 'a' }, 'artigo de dua
 
 // Os dados: loja cadastrada, um banner por lugar de cada loja, link de afiliado que vale nos 10 idiomas, datas com
 // fuso e os textos dos 10 idiomas, sem o código da loja.
+// Uma campanha por arquivo, com o nome igual ao id, e o módulo gerado com todas elas.
+const campaignFiles = readdirSync('content/campanhas').filter((file) => file.endsWith('.json'));
+assert.deepEqual(
+  STORE_BANNERS.map(({ id }) => `${id}.json`).sort(),
+  [...campaignFiles].sort(),
+  'src/lib/generated/store-banners.ts diferente de content/campanhas/: rode node scripts/content/build-index.mjs'
+);
 const ids = new Set<string>();
 const places = new Set<string>();
 for (const banner of STORE_BANNERS) {
   assert.ok(!ids.has(banner.id), `${banner.id}: id repetido`);
   ids.add(banner.id);
+  assert.ok(campaignFiles.includes(`${banner.id}.json`), `${banner.id}: sem o arquivo content/campanhas/${banner.id}.json`);
+  assert.ok(banner.source.trim(), `${banner.id}: sem a fonte da campanha`);
+  assert.match(banner.verifiedAt, /^\d{4}-\d{2}-\d{2}$/, `${banner.id}: verifiedAt fora do formato AAAA-MM-DD`);
+  assert.ok(banner.verifiedAt <= new Date().toISOString().slice(0, 10), `${banner.id}: verifiedAt no futuro`);
   const place = `${banner.affiliate}/${banner.slot}`;
   assert.ok(!places.has(place), `${banner.id}: segunda campanha no lugar ${place}`);
   places.add(place);
@@ -92,9 +103,9 @@ for (const banner of STORE_BANNERS) {
   }
 }
 
-// Campanha vencida não para o build: ela some do HTML sozinha. O aviso é para tirá-la do arquivo.
+// Campanha vencida não para o build: ela some do HTML sozinha. O aviso é para apagar o arquivo dela.
 const expired = STORE_BANNERS.filter((banner) => banner.endsAt && Date.parse(banner.endsAt) < Date.now());
 if (expired.length) {
-  console.warn(`campanhas vencidas em src/lib/storeBanners.ts, para tirar do arquivo: ${expired.map(({ id }) => id).join(', ')}`);
+  console.warn(`campanhas vencidas, para apagar de content/campanhas/: ${expired.map(({ id }) => `${id}.json`).join(', ')}`);
 }
 console.log(`banners de campanha: ${STORE_BANNERS.length} campanhas conferidas, ${STORE_BANNERS.length - expired.length} no prazo`);
