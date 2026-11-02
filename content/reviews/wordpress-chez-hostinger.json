@@ -56,7 +56,7 @@
       "image": {
         "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-fr.webp",
         "alt": "Tableau WordPress chez Hostinger par projet : jusqu'à trois sites vont sur Premium ; plusieurs sites ou une boutique WooCommerce, sur Unlimited ; une boutique ou un site très fréquenté, sur Cloud Startup",
-        "caption": "Le résumé du choix : le nombre de sites, l'espace et la sauvegarde décident du forfait. Tableau d'Em Casa com Cecília, d'après ce que disent les pages de Hostinger au 30 octobre 2026.",
+        "caption": "Le résumé du choix : le nombre de sites, l'espace et la sauvegarde décident du forfait. Tableau d'Em Casa com Cecília, d'après ce que disent les pages de Hostinger.",
         "objectFit": "contain",
         "aspectRatio": 1.6014
       },
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "heading": "Prix et renouvellement au 30 octobre 2026",
+      "heading": "Prix et renouvellement",
       "paragraphs": [
         "Les prix ci-dessous viennent du site international de Hostinger, en dollars américains, relevés le 30 octobre 2026, sur une durée de 48 mois et au prix promotionnel de la campagne. Le prix par mois est le total divisé par 48. Le renouvellement est le prix mensuel après la première période. Les prix peuvent varier selon le pays et la devise : vérifiez dans le panier :"
       ],
@@ -111,18 +111,18 @@
         ]
       },
       "postParagraphs": [
-        "La page que nous avons lue n'indique pas de date de fin pour la campagne, et les prix peuvent changer."
+        "La page n'indique pas de date de fin pour la campagne, et les prix peuvent changer."
       ],
       "emphasis": "Le renouvellement coûte environ 3 à 5 fois le prix promotionnel. Choisissez le forfait selon la colonne du renouvellement, pas seulement selon le prix d'entrée."
     },
     {
       "heading": "Ce qui est inclus dans les forfaits",
       "paragraphs": [
-        "D'après la page internationale de Hostinger, au 30 octobre 2026, sans test de notre part :"
+        "D'après la page internationale de Hostinger, au 30 octobre 2026 :"
       ],
       "bullets": [
         "**Sites et espace.** Premium : 3 sites et 20 Go SSD. Unlimited : sites illimités et 50 Go NVMe. Cloud Startup : sites illimités et 100 Go NVMe.",
-        "**Sauvegardes.** Premium a des sauvegardes hebdomadaires, et Unlimited des sauvegardes quotidiennes. La page lue ne dit pas quelle sauvegarde a Cloud Startup : vérifiez-le dans le panier.",
+        "**Sauvegardes.** Premium a des sauvegardes hebdomadaires, et Unlimited des sauvegardes quotidiennes. La page ne dit pas quelle sauvegarde a Cloud Startup : vérifiez-le dans le panier.",
         "**Domaine et e-mail.** Ils changent selon le forfait et la période. Vérifiez dans le panier ce qui est offert, et pour combien de temps."
       ]
     },
@@ -138,12 +138,6 @@
       ],
       "postParagraphs": [
         "Comment Hostinger facture, renouvelle et rembourse est expliqué dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
-      ]
-    },
-    {
-      "heading": "Si vous faites déjà de la publicité sur Google",
-      "paragraphs": [
-        "Selon les conditions de la promotion, relues le 30 octobre 2026, quiconque crée ou connecte un compte Google Ads par l'intégration du panneau Hostinger et dépense 400 EUR en publicité dans les 60 premiers jours a droit à 400 EUR de crédit publicitaire, en France. Google décide de l'éligibilité, la promotion peut changer, et les conditions n'indiquent pas de date d'expiration. Elle vaut pour ceux qui allaient dépenser ce montant de toute façon ; ce n'est pas une raison pour commencer à faire de la publicité."
       ]
     },
     {
@@ -169,9 +163,9 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "Quel est le forfait WordPress le moins cher de Hostinger ? Au 30 octobre 2026, Premium, à US$ 2,49 par mois sur 48 mois (US$ 119,52 au total), pour jusqu'à 3 sites. Il se renouvelle à US$ 10,99 par mois.",
+        "Quel est le forfait WordPress le moins cher de Hostinger ? Le Premium, à US$ 2,49 par mois sur 48 mois (US$ 119,52 au total), pour jusqu'à 3 sites. Il se renouvelle à US$ 10,99 par mois.",
+        "WordPress est-il installé chez Hostinger ? Vous l'installez depuis le panneau d'hébergement, sans télécharger de fichiers à la main. La liste ci-dessus détaille les étapes.",
         "Quel forfait WordPress pour une boutique en ligne ? Unlimited, pour ses sauvegardes quotidiennes et ses sites illimités. Pour une boutique très fréquentée, Cloud Startup.",
-        "Faut-il savoir programmer pour utiliser WordPress chez Hostinger ? Non. Pour commencer, il suffit de choisir un forfait et un thème, et la liste ci-dessus détaille les étapes.",
         "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? Nous ne l'avons pas testé là-dessus ; vérifiez le prix dans le panier. Là où il fonctionne, il donne 20 % sur la première période.",
         "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, US$ 10,99 par mois."
       ]
@@ -179,7 +173,7 @@
     {
       "heading": "Qui écrit",
       "paragraphs": [
-        "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine est enregistré chez Hostinger depuis le 17 novembre 2024. Le site n'utilise pas WordPress, et personne dans l'équipe n'a utilisé WordPress chez Hostinger : ce texte réunit ce que disent les pages d'hébergement WordPress du site international, en dollars, et les conditions de la promotion Google Ads, relues le 30 octobre 2026."
+        "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine est enregistré chez Hostinger depuis 2024. Le site n'utilise pas WordPress, et personne dans l'équipe n'a utilisé WordPress chez Hostinger : ce texte réunit ce que disent les pages d'hébergement WordPress du site international, en dollars, relevées le 30 octobre 2026."
       ]
     }
   ],
@@ -205,7 +199,18 @@
     },
     {
       "slug": "domaine-hostinger-acheter-ou-transferer",
-      "title": "Domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs ? Prix, renouvellement et ce qu'il faut vérifier"
+      "title": "Domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs ? Renouvellement et ce qu'il faut vérifier"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Prenez Premium si c'est un seul site et que vous publiez de temps en temps : c'est le forfait d'entrée.",
+      "Prenez aussi Premium si vous aurez deux ou trois sites.",
+      "Prenez Unlimited si vous avez une boutique ou plusieurs sites : la sauvegarde quotidienne commence là."
+    ],
+    "skipIf": [
+      "Laissez de côté Cloud Startup si Unlimited suffit encore : c'est le forfait le plus cher, au renouvellement aussi.",
+      "Laissez de côté WordPress si vous ne voulez ni installer de thème ni d'extension, ni rien mettre à jour : les mêmes forfaits incluent le créateur de sites avec IA."
+    ]
+  }
 }

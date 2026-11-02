@@ -195,6 +195,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o Single se é um site só e você publica de vez em quando.",
+      "Leve o Premium se vai ter dois ou três sites.",
+      "Leve o Unlimited se tem loja ou muitos sites: o backup diário começa nele."
+    ],
+    "skipIf": [
+      "Passe do Cloud Startup se o Unlimited ainda dá conta: é o plano mais caro, também na renovação.",
+      "Passe do WordPress se não quer instalar tema, plugin nem atualizar nada: os mesmos planos trazem o construtor com IA."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

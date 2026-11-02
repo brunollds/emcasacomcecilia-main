@@ -45,7 +45,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Before you pay for web hosting, look at the renewal price, not the promotion of the first period. Read on October 30, 2026, Hostinger's entry plan is Premium, which covers up to 3 sites: US$2.49 a month on the 48-month term and US$10.99 at renewal. For many sites, the Unlimited plan has no site limit and renews at US$16.99 a month. The promotions run for 48 months, so the fair comparison is per month, with the renewal next to it, in the table below."
+        "By renewal price, Hostinger's Premium is the cheapest plan, and Unlimited is the one for many sites, with no site limit. The promotions run for 48 months, so the fair comparison is per month, with the renewal next to it, in the table below."
       ]
     },
     {
@@ -62,15 +62,15 @@
       },
       "bullets": [
         "**Renewal.** Hostinger shows each plan's renewal price on the card. Read it before the promotional price.",
-        "**Cycle.** Hostinger's promotional price applies to the 48-month plan. A 48-month total does not compare with a total for a different term. Compare per month, not by the total.",
-        "**Server in the country.** The Hostinger plan pages we read on October 30, 2026 do not say where the server is. If that matters to you, ask support before you buy.",
-        "**VPS.** If the site needs guaranteed processor and memory, it is a different comparison, further down."
+        "**Cycle.** Hostinger's promotional price applies to the 48-month plan. The total of one term does not compare with the total of another. Per month, it does.",
+        "**Server in the country.** The Hostinger plan pages do not say where the server is. If that matters to you, ask support before you buy.",
+        "**VPS.** If the site needs guaranteed processor and memory, the comparison is different, further down."
       ]
     },
     {
-      "heading": "Hostinger prices on October 30, 2026",
+      "heading": "Hostinger prices",
       "paragraphs": [
-        "Web hosting, on Hostinger's international site, in US dollars, on the 48-month plan paid up front. Hostinger is running its Black Friday campaign, with no end date on the page:"
+        "On Hostinger, the promotion lasts 48 months and renewal costs 3 to 5 times the promotional price. Prices read on October 30, 2026, on the international site, in US dollars, during a Black Friday campaign with no end date:"
       ],
       "comparisonTable": {
         "headers": [
@@ -109,26 +109,26 @@
         ]
       },
       "postParagraphs": [
-        "Prices without SONAR20. These are the prices on Hostinger's international site in US dollars, and they can vary by country and currency, so check the cart. Renewal costs 3 to 5 times the promotional price. Premium has weekly backups; Unlimited, daily."
+        "Prices without SONAR20. Premium has weekly backups; Unlimited, daily. Prices can vary by country and currency, so check the cart."
       ]
     },
     {
-      "heading": "How to compare the plans, per month",
+      "heading": "The plans, per month",
       "paragraphs": [
-        "The plans don't line up one to one across hosts, and within Hostinger the step up follows the number of sites. Three questions decide between the plans, and the table above answers them per month:"
+        "The plans do not line up one to one, and the step up follows the number of sites. By number of sites, with the monthly price in the first period and after it:"
       ],
       "bullets": [
-        "**How many sites.** Premium covers up to 3 sites. Unlimited and Cloud Startup have no site limit on the page. With one or two sites, Premium is enough; for more, Unlimited.",
-        "**What you pay after the promotion.** The gap between Premium and Unlimited is US$1 a month during the promotion and US$6 at renewal. The gap widens when the promotion ends.",
-        "**Cloud Startup.** It is the top plan on the international site: it renews at US$25.99 a month, against US$16.99 for Unlimited, and during the promotion it costs more than twice as much. It doubles the storage (100 GB NVMe against 50 GB). For many ordinary sites, Unlimited is enough."
+        "**Up to 3 sites:** Premium, US$2.49 a month for 48 months, renewing at US$10.99. It is the cheapest in the promotion and at renewal.",
+        "**Many sites:** Unlimited, US$3.49 a month, renewing at US$16.99. It has no site limit on the page and 50 GB of NVMe, against 20 GB of SSD on Premium. The gap to Premium is US$1 a month in the promotion and US$6 at renewal.",
+        "**The top plan:** Cloud Startup renews at US$25.99 a month and costs more than twice as much as Unlimited in the promotion. It only pays off if you need what it adds, such as 100 GB of NVMe; for many ordinary sites, Unlimited does the job for less."
       ],
-      "emphasis": "Hostinger's promotion lasts 48 months, so the total of the first cycle hides the renewal. Compare the monthly price, with the renewal next to it."
+      "emphasis": "The total of the first cycle is misleading: compare the monthly price, with the renewal next to it."
     },
     {
       "heading": "What the price does not show",
       "bullets": [
         "**Storage.** The entry plan, Premium, has 20 GB of SSD. NVMe, at 50 GB, starts on Unlimited.",
-        "**Backup.** Premium has weekly backups; Unlimited, daily. Before you choose, check that the backup you need is included in the plan you want.",
+        "**Backup.** Premium has weekly backups; Unlimited, daily. Before you choose, check that the backup you need is in the plan you want.",
         "**Server location.** The pages do not say where the server is. If that matters to you, ask support before you buy.",
         "**Renewal in the cart.** Before you pay, read the renewal price in the cart, not only the promotional monthly price.",
         "**Refunds.** Read the refund policy before you buy. How Hostinger charges, renews and refunds is covered in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
@@ -168,23 +168,22 @@
         ]
       },
       "postParagraphs": [
-        "The VPS renewal is almost double the promotional price: KVM 1 goes from US$6.49 to US$11.99 a month, and KVM 2 from US$8.79 to US$14.99. These are the 24-month promotion prices read on October 30, 2026. We did not test SONAR20 on the VPS, so check the price in the cart before you sign."
+        "The VPS renewal is almost double the promotional price: KVM 1 goes from US$6.49 to US$11.99 a month, and KVM 2 from US$8.79 to US$14.99. These are the 24-month promotion prices. We did not test SONAR20 on the VPS, so check the price in the cart before you sign."
       ]
     },
     {
       "heading": "SONAR20 on Hostinger",
       "paragraphs": [
-        "Use the code **SONAR20** in the coupon field of the cart, or come in through this article's link: **20% off the first period**. We tested it in the cart of the Brazilian site on three products: the e-commerce Startup plan, from the store builder, on October 29, 2026, and a professional email plan and Reach, on October 30, 2026. On the hosting plans in this table and on the VPS, we did not test it; check in the cart. We did not test renewal. The full rule is on [Hostinger coupons](/en/coupons/hostinger).",
-        "Hostinger's promotion has no end date on the page, and prices can change. Check the amount in the cart before you pay."
+        "Use the code **SONAR20** in the coupon field of the cart, or come in through this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table and on the VPS, we did not test it; check in the cart. We did not test renewal. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
       ]
     },
     {
       "heading": "Which to choose: the verdict",
       "paragraphs": [
-        "**Choose Premium** for one site, a blog, a portfolio or a company page, or for up to three sites. It is the entry plan and the cheapest hosting on the international site, both in the promotion and at renewal.",
-        "**Choose Unlimited** for several sites, with daily backups and 50 GB of NVMe. Cloud Startup, which renews at more than US$25 a month, only pays off if you need the extra 100 GB of storage.",
-        "**Choose a VPS** when the site needs its own processor and memory, and look at the renewal first.",
-        "**In every case**, read the renewal column before you pay and confirm the amount in the cart. Prices on the international page can change."
+        "**Choose Premium** for one site, such as a blog, a portfolio or a company page, or for up to three sites: it costs less in the promotion and at renewal, and the promotion lasts 48 months.",
+        "**Choose Unlimited** for many sites, with no site limit, daily backups and 50 GB of NVMe. Cloud Startup, which renews at more than US$25 a month, only pays off if you need the extra storage.",
+        "**In both cases**, read the renewal column before you pay and confirm the amount in the cart. Hostinger is running a campaign, and prices can change.",
+        "If it were for my site, I would take Premium for one site, because it costs less in the promotion and at renewal."
       ]
     },
     {
@@ -193,15 +192,15 @@
         "Which web host is better? It depends on how many sites you have and on whether the promotion or the renewal matters more to you. Compare the renewal, the cycle, the server's country and the VPS, as above.",
         "Which Hostinger plan renews for the least? Premium, at US$10.99 a month on the international site, after a 48-month promotion at US$2.49.",
         "Is a Hostinger VPS worth it? It depends on the load the site puts on it. Compare vCPU, memory and renewal: KVM 1 renews at US$11.99 a month on the international site.",
-        "Does Hostinger say where its servers are? The plan pages we read on October 30, 2026 do not say where the server is. Ask support before you buy.",
-        "Does the SONAR20 coupon work on the VPS? We have not tested it on the VPS; check in the cart. We tested it on the e-commerce Startup plan, from the store builder, on October 29, 2026, and it gave 20% off the first period.",
+        "Does Hostinger say where its servers are? The plan pages do not say where the server is. Ask support before you buy.",
+        "Does the SONAR20 code work on the VPS? We have not tested it on the VPS; check in the cart. We tested it on the e-commerce Startup plan, from the store builder, and it gave 20% off the first period.",
         "Can you switch hosts without losing the site? Yes, by moving the files and the database to the new host. Do the move before the old plan expires."
       ]
     },
     {
       "heading": "Who writes this",
       "paragraphs": [
-        "Em Casa com Cecília runs on Hostinger's managed hosting, and the domain has been registered with Hostinger since November 17, 2024. This text gathers what the international pages of Hostinger say, read on October 30, 2026."
+        "Em Casa com Cecília runs on Hostinger's managed hosting, and the domain has been registered with Hostinger since 2024. This text gathers what Hostinger's international pages say."
       ]
     }
   ],
@@ -215,7 +214,7 @@
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Purchases with the SONAR20 code or through the link may give Bruno a commission, at no extra cost to you.",
+  "editorialNote": "Purchases with the SONAR20 code or through the link may earn Bruno a commission.",
   "relatedArticles": [
     {
       "slug": "vps-or-shared-hosting-which-to-choose",
@@ -229,5 +228,15 @@
       "slug": "hostinger-coupon-code-referral",
       "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Take Premium if it is one site, such as a blog, a portfolio or a company page, or up to three: it is the entry plan, in the promotion and at renewal.",
+      "Take a VPS if the site needs guaranteed processor and memory: KVM 1 already has 4 GB."
+    ],
+    "skipIf": [
+      "Skip Premium if you will have more than three sites: Unlimited has no site limit.",
+      "Skip Premium if storage and daily backups matter to you: it has 20 GB of SSD and weekly backups."
+    ]
+  }
 }

@@ -300,6 +300,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Hostinger se é um site só, como blog, portfólio ou página de empresa: o plano de 1 site custa menos na promoção e na renovação.",
+      "Leve a Hostinger se quer um VPS com mais memória pelo mesmo número de vCPU."
+    ],
+    "skipIf": [
+      "Passe para a HostGator se vai ter vários sites: no plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
+      "Passe para a HostGator se espaço em disco, backup diário em todo plano e servidor no Brasil declarado pesam para você."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

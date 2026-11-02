@@ -3,8 +3,8 @@
   "slug": "shein-party-dress-guide",
   "locale": "en",
   "translationKey": "shein-vestido-festa",
-  "title": "SHEIN Brazil party dress: how to choose by occasion, fabric and delivery time",
-  "seoTitle": "SHEIN Brazil party dress: how to choose for Christmas, New Year and graduation",
+  "title": "Party dress on SHEIN: how to choose by occasion, fabric and delivery time",
+  "seoTitle": "SHEIN party dress: how to choose for Christmas, New Year's Eve and graduation",
   "type": "Buying Guide",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,36 +15,34 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "How to choose a party dress on SHEIN Brazil for a graduation, a wedding guest look or the year-end party: occasion, fabric, size and returns.",
-  "metaDescription": "SHEIN Brazil party dress guide: occasion, fabric, size, delivery and returns for Christmas, New Year and graduation.",
+  "description": "How to choose a party dress on SHEIN for graduation, as a wedding guest and for the end-of-year holidays: occasion, fabric, size and timing, with three dresses checked in the store.",
+  "metaDescription": "SHEIN party dress: occasion, fabric, size and timing for Christmas and graduation, with three dresses from the store read on each product page.",
   "publishedAt": "October 30, 2026",
   "publishedAtISO": "2026-10-30",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-  "imageAlt": "SHEIN party dresses in navy and dusty blue, for Christmas, New Year and graduation events",
+  "imageAlt": "SHEIN party dresses in navy and dusty blue, for Christmas, New Year's Eve and graduation",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
-    "A checklist for fabric, lining and length",
-    "A size guide for each product, in centimetres",
-    "The referral code explained, so it is not mistaken for a coupon"
+    "Three dresses with fabric, lining and rating read on each product page",
+    "Size guide in centimeters for each piece"
   ],
   "cons": [
-    "Delivery and taxes depend on the order and the country",
-    "Titles and descriptions may not agree on length",
-    "Sale prices change, so check the price before buying"
+    "Delivery has to arrive before the party date",
+    "Promotional prices change"
   ],
   "cta": {
-    "text": "Search for the dress by name on SHEIN and check the shipping and taxes in the order summary before you pay.",
+    "text": "Search for the dress by name on SHEIN and check the delivery estimate on the order page before you pay.",
     "label": "Go to SHEIN",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true
   },
   "coupon": "4CW5Y",
   "affiliate": "shein",
-  "editorialNote": "Based on SHEIN Brazil's product pages and rules, checked on the publication day. We may earn a commission from purchases and from the 4CW5Y referral code.",
+  "editorialNote": "Data checked on the day of publication on SHEIN. We may earn a commission from the links and from the referral code 4CW5Y. No one on the team wore the pieces.",
   "relatedArticles": [
     {
       "slug": "is-shein-legit-and-safe",
@@ -55,16 +53,16 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "A party dress on SHEIN Brazil comes down to three things: the occasion, the fabric and the arrival date. For Christmas and New Year's Eve, delivery time matters more than the cut. For a graduation or a wedding guest look, the choice is about colour, length and the tone of the event. This guide explains each point with the store's own product details."
+        "A party dress on SHEIN comes down to three things: the occasion, the fabric and the arrival date. For Christmas and New Year's Eve, timing matters more than the style. For graduation and wedding guests, the doubts are about color, length and tone. Below, three dresses from the store with fabric, lining and rating."
       ]
     },
     {
-      "heading": "Choosing by occasion",
+      "heading": "How to choose by occasion",
       "paragraphs": [
-        "Year-end parties: the deadline comes first. The delivery estimate appears only on the order page, so confirm it before you pay if the party is a few weeks away.",
-        "Graduation: colour and length decide. Check the invitation and the time of the ceremony. An evening event suits a long or midi dress; in daytime, a shorter length works better.",
-        "Wedding guest: the tone of the event comes before the model. Day or evening, church or venue. Check the invitation before you choose the colour.",
-        "Wedding dresses and bridesmaid dresses are not covered here."
+        "End-of-year party: timing rules. The order goes through processing before shipping, and the delivery date shows only on the order page. If the party falls in Christmas or New Year's Eve week, place the order only after you see the delivery estimate.",
+        "Graduation: color and length decide. Check the invitation and the time. At night, long and midi tend to work. By day, a short or mid-length style fits better.",
+        "Wedding guest: the tone of the event comes before the style. Day or night, church or banquet hall. Check the invitation and the ceremony time before choosing the color.",
+        "Wedding dresses and bridesmaid dresses are outside this guide."
       ],
       "images": [
         {
@@ -80,12 +78,12 @@
         "layout": "tabs",
         "items": [
           {
-            "piece": "Year-end party",
-            "howTo": "At the Christmas dinner, a midi in light fabric; on New Year's Eve, long or short, with shine if the party is at night.",
+            "piece": "End-of-year party",
+            "howTo": "At the Christmas dinner, a light-fabric midi; on New Year's Eve, long or short, with sparkle if the party is at night.",
             "occasion": "Christmas dinner and New Year's Eve party.",
             "pairsWith": [
               {
-                "label": "strappy sandal"
+                "label": "thin-strap sandal"
               },
               {
                 "label": "small bag"
@@ -97,33 +95,33 @@
           },
           {
             "piece": "Graduation",
-            "howTo": "At night, a long or midi dress with a strappy sandal; in daytime, a short or midi dress with closed shoes.",
-            "occasion": "Ceremony and ball; the invitation sets the dress code.",
+            "howTo": "At night, long or midi with thin-strap sandals; by day, short or midi with closed shoes.",
+            "occasion": "Ceremony and ball; the invitation states the dress code.",
             "pairsWith": [
               {
-                "label": "strappy sandal"
+                "label": "thin-strap sandal"
               },
               {
                 "label": "clutch"
               },
               {
-                "label": "mid-size earrings"
+                "label": "medium earrings"
               }
             ]
           },
           {
             "piece": "Wedding guest",
-            "howTo": "In daytime, light fabric with closed shoes or flat sandals; at night, a long dress with heels. White is for the bride.",
-            "occasion": "Ceremony in a church or venue, day or night.",
+            "howTo": "By day, light fabric with closed shoes or low sandals; at night, long with heels. White is for the bride.",
+            "occasion": "Ceremony at a church or banquet hall, by day or at night.",
             "pairsWith": [
               {
-                "label": "mid-heel pumps"
+                "label": "closed mid-heel shoe"
               },
               {
                 "label": "structured bag"
               },
               {
-                "label": "light jacket"
+                "label": "light blazer"
               }
             ]
           }
@@ -131,20 +129,20 @@
       }
     },
     {
-      "heading": "Reading the product description",
+      "heading": "How to read the item description",
       "paragraphs": [
-        "The product description tells you more than the photo. Look at:"
+        "Before paying, read the item description, not just the photo. It lists composition, lining, sheerness, length, closure and care."
       ],
       "bullets": [
-        "**Fabric:** polyester with elastane is common in these dresses. Check the percentages, not just the name.",
-        "**Lining and sheerness:** without lining, the colour of your underwear can show.",
-        "**Length:** midi, long and short change the look. Titles and descriptions do not always agree, so check the measurement in centimetres.",
-        "**Care:** the description says whether the dress is machine washed, hand washed or dry cleaned only."
+        "**Fabric:** polyester with elastane is very common in these dresses. Check the percentage of each material, not just the name.",
+        "**Lining and sheerness:** without lining, the color of your underwear may show.",
+        "**Length:** midi, long and short change the look. Title and description do not always match, so check the measurement in centimeters.",
+        "**Care:** the description says whether the piece is machine-washable, hand-washable or dry-clean only. If dry-clean only, plan on a dry cleaner."
       ],
       "images": [
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
-          "alt": "Model in profile wearing a dusty blue one-shoulder dress with a mesh skirt",
+          "alt": "Model in profile in a dusty blue one-shoulder dress with a tulle skirt",
           "caption": "Official SHEIN photo.",
           "objectFit": "contain",
           "aspectRatio": 0.7506,
@@ -153,9 +151,9 @@
       ]
     },
     {
-      "heading": "Three dresses read on SHEIN",
+      "heading": "Three dresses checked on SHEIN",
       "paragraphs": [
-        "Nobody on the team wore these dresses. Fabric, length and rating come from the product pages. Before you buy, check the price and the delivery estimate on the store page."
+        "Fabric, length and rating come from the product pages, read on 10/30/2026. Check the price and the delivery estimate on the item page before paying."
       ],
       "comparisonTable": {
         "caption": "Three SHEIN dresses, with data from each product page.",
@@ -172,8 +170,8 @@
           ],
           [
             "[Via Vilarinho short dress, tailored, square neckline (navy)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
-            "95% polyester and 5% elastane. Lining only at the top. Short in the title, midi in the description.",
-            "Night, wedding and office, per the store. Rating 4.88, with 80 reviews."
+            "95% polyester and 5% elastane. Lined on the top only. Short in the title, midi in the description.",
+            "Evening, wedding and office, per the store. Rating 4.88, with 80 reviews."
           ],
           [
             "[ADYCE long dress, sequins, off-the-shoulder, slit (navy)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
@@ -182,10 +180,11 @@
           ]
         ]
       },
+      "postParagraphs": [],
       "images": [
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
-          "alt": "Model in a dusty blue one-shoulder dress with gathers at the waist, against a grey wall",
+          "alt": "Model in a dusty blue one-shoulder dress with gathers at the waist, against a gray wall",
           "caption": "Official SHEIN photo.",
           "objectFit": "contain",
           "aspectRatio": 0.7506,
@@ -193,7 +192,7 @@
         },
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
-          "alt": "Model in a navy short-sleeve dress with square neckline, in front of an ivy-covered wall",
+          "alt": "Model in a short-sleeve navy dress with a square neckline, in front of an ivy-covered wall",
           "caption": "Official SHEIN photo.",
           "objectFit": "contain",
           "aspectRatio": 0.7792,
@@ -214,11 +213,11 @@
           {
             "piece": "Firerie long dress",
             "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
-            "howTo": "The bare shoulder is the highlight: small earrings and hair up.",
-            "occasion": "Wedding, per the store.",
+            "howTo": "The bare shoulder is already the highlight: small earrings and hair up.",
+            "occasion": "Wedding.",
             "pairsWith": [
               {
-                "label": "stiletto sandals"
+                "label": "thin-heel sandal"
               },
               {
                 "label": "small clutch"
@@ -231,11 +230,11 @@
           {
             "piece": "Via Vilarinho short dress",
             "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
-            "howTo": "The tailoring calls for closed shoes and a structured bag; with a blazer, it works for the office.",
-            "occasion": "Night, wedding and office, per the store.",
+            "howTo": "The tailoring calls for closed shoes and a structured bag; with a blazer, it goes to work.",
+            "occasion": "Evening, wedding and office.",
             "pairsWith": [
               {
-                "label": "pumps"
+                "label": "pump"
               },
               {
                 "label": "structured bag"
@@ -248,11 +247,11 @@
           {
             "piece": "ADYCE long dress",
             "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
-            "howTo": "The sequins and the slit already draw attention: discreet accessories and a strappy sandal.",
-            "occasion": "Formal evening party, per the store.",
+            "howTo": "The sequins and the slit already draw attention: discreet accessories and thin-strap sandals.",
+            "occasion": "Formal party at night.",
             "pairsWith": [
               {
-                "label": "strappy sandal"
+                "label": "thin-strap sandal"
               },
               {
                 "label": "small clutch"
@@ -266,14 +265,18 @@
       }
     },
     {
-      "heading": "Size: use the measurements of the garment",
+      "heading": "Size: use the garment's measurements",
       "paragraphs": [
-        "SHEIN publishes a size guide for each product, in centimetres and inches, with instructions on how to measure. There is no single size chart, so use the guide of the dress you chose. Plus sizes follow the same method: compare the garment's measurements with yours, not the number on the label."
+        "There is no single size chart: use the one for the dress you chose. SHEIN publishes a guide for each piece, in centimeters and inches, with how to measure.",
+        "The Firerie describes itself as slim fit, which calls for more precise bust and waist measurements."
+      ],
+      "postParagraphs": [
+        "For plus sizes, the method is the same: compare the garment's measurements with yours, not the number on the label."
       ],
       "images": [
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
-          "alt": "Model from behind in a navy short-sleeve dress of midi length",
+          "alt": "Model from behind in a short-sleeve, mid-length navy dress",
           "caption": "Official SHEIN photo.",
           "objectFit": "contain",
           "aspectRatio": 0.7792,
@@ -281,7 +284,7 @@
         },
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
-          "alt": "Model from behind in a long dusty blue one-shoulder dress, against a grey wall",
+          "alt": "Model from behind in a long dusty blue one-shoulder dress, against a gray wall",
           "caption": "Official SHEIN photo.",
           "objectFit": "contain",
           "aspectRatio": 0.7506,
@@ -290,9 +293,9 @@
       ]
     },
     {
-      "heading": "Delivery time: add it to the party date",
+      "heading": "Timing: add up to the party date",
       "paragraphs": [
-        "Orders take 3 to 5 days to be processed before they ship. Add that time to the delivery estimate on the order page. If the total goes past the party date, this dress is not the right purchase for that date."
+        "The order goes through processing before shipping. Add the processing days to the delivery estimate the order page shows. If the total goes past the party date, that dress is not the right buy for that date."
       ],
       "images": [
         {
@@ -312,20 +315,25 @@
       ]
     },
     {
-      "heading": "Returns and exchanges",
+      "heading": "Exchanges and returns",
       "paragraphs": [
-        "The store page has the return rules for each seller. To change the size, return the item and place a new order."
+        "To swap for another size, count on a return and refund, and place a new order with the right measurements."
       ]
     },
     {
-      "heading": "Before you pay",
-      "paragraphs": [
-        "Check the delivery estimate and the order summary before you pay, and keep the order confirmation. The 4CW5Y code is SHEIN Brazil's referral code, not a coupon: you search it in the app, and it gives no discount. How it works is explained in [the referral guide](/en/reviews/shein-referral-code-where-to-enter), and current campaigns are on the [SHEIN store page](/en/coupons/shein)."
+      "heading": "Before paying",
+      "bullets": [
+        "The delivery estimate appears on the order page. Check it before paying.",
+        "Keep the order confirmation."
+      ],
+      "postParagraphs": [
+        "A platform coupon is valid once per order, with every payment method.",
+        "4CW5Y is not a coupon. It is the SHEIN referral code: you search for it in the app's search bar, you do not paste it at checkout, and it gives no discount and does not stack with anything. To see how it works, read [the referral code](/en/reviews/shein-referral-code-where-to-enter). The store's campaigns are on the [SHEIN page](/en/coupons/shein)."
       ],
       "images": [
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-corredor.webp",
-          "alt": "Model in a long navy sequin dress in a corridor with a runner rug",
+          "alt": "Model in a long navy sequin dress in a carpeted hallway",
           "caption": "Official SHEIN photo.",
           "objectFit": "contain",
           "aspectRatio": 0.7506,
@@ -336,10 +344,20 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Can a SHEIN party dress arrive in time for Christmas? It depends on the order date and the delivery estimate on the order page. Compare that date with the date of the party.",
-        "How do I know if a dress is long or midi? By the length in the product description and the centimetre measurements in the size guide.",
-        "Does the 4CW5Y code give a discount? No. It is a referral code, not a coupon, and it gives no discount."
+        "Will a SHEIN party dress arrive in time for Christmas? It depends on the order date. Add the processing days and the delivery estimate on the page, and compare with the party date.",
+        "How can I tell if the dress is long or midi? By the length the description states and by the measurement in centimeters in the piece's size guide.",
+        "Can I use 4CW5Y to get a discount? No. It is a referral code: it gives no discount and is not a coupon."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Take it if the delivery estimate on the order page arrives before the party date.",
+      "Take it if the description lists composition, lining and length in centimeters, and the garment's measurements match yours."
+    ],
+    "skipIf": [
+      "Skip it if processing plus delivery runs past the party date.",
+      "Skip it if the piece has no lining and the sheerness bothers you, or if it is dry-clean only and you do not want a dry cleaner."
+    ]
+  }
 }
