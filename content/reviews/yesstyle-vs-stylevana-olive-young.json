@@ -15,15 +15,15 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle, Stylevana, Olive Young, StyleKorean and Jolse side by side in the US, UK, Canada and Australia: who ships there, when shipping is free, who pays the tax and what each store takes back, from the official pages.",
-  "metaDescription": "YesStyle vs Stylevana: delivery, free-shipping minimums, tax and returns in the US, UK, Canada and Australia, with Olive Young, StyleKorean and Jolse.",
+  "description": "YesStyle, Stylevana, Olive Young, StyleKorean and Jolse side by side for Portugal: who ships there, the order value for free shipping, who pays the tax and what each store takes back, from the official pages.",
+  "metaDescription": "YesStyle or Stylevana? Shipping, free shipping, tax and returns for Portugal, with Olive Young, StyleKorean and Jolse, from the official pages.",
   "publishedAt": "October 13, 2026",
   "publishedAtISO": "2026-10-13",
   "draft": false,
-  "isNew": false,
+  "isNew": true,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
-  "imageAlt": "Cecília with the tube of Abib PDRN Volume Fill-it cream sent by YesStyle, with the YesStyle logo and the title YesStyle vs Stylevana",
+  "imageAlt": "Cecília holding the tube of Abib PDRN Volume Fill-it cream sent by YesStyle, with the YesStyle logo and the title YesStyle vs Stylevana",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -32,153 +32,147 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "No store is the best pick for everyone: the choice depends on your country, who pays the tax and what the store takes back. All five stores ship to the UK, Canada and Australia, while in the US Olive Young Global does not. The tables show the details; \"Which store to choose\" gives the pick by country."
+        "No store is best for everyone: the choice changes with the country, who pays the tax and what the store takes back. In Portugal all five stores deliver, so decide by tax and returns, using the tables below."
       ]
     },
     {
-      "heading": "Who ships to the US, UK, Canada and Australia",
-      "paragraphs": [
-        "This article does not compare prices or test the competing stores: the tables bring together what each store publishes on its official pages, read on October 12, 2026. No store is the best pick for everyone, because the choice depends on your country, who pays the tax and what the store takes back. All five stores ship to the UK, Canada and Australia. In the US, Olive Young Global does not: customers there shop at a separate store, OLIVE YOUNG US. Free shipping starts at a different amount in each store and country."
-      ],
+      "heading": "Who ships to Portugal",
       "comparisonTable": {
-        "caption": "Delivery time and free-shipping minimum of YesStyle, Stylevana, Olive Young Global, StyleKorean and Jolse in the US, UK, Canada and Australia, from the official pages read on October 12, 2026; Olive Young Global destinations, read on October 21, 2026.",
+        "caption": "Delivery time, shipping cost and tax at YesStyle, Stylevana, StyleKorean and Jolse for Portugal, from the official pages.",
         "headers": [
           "Store",
-          "United States",
-          "United Kingdom",
-          "Canada",
-          "Australia"
+          "Delivery time",
+          "Free shipping",
+          "Tax"
         ],
         "rows": [
           [
             "YesStyle",
-            "Standard, 7–11 business days; free from US$ 35",
-            "Premium Standard, 5–12 business days; free from US$ 50",
-            "Premium Standard, 7–14 business days; free from US$ 50",
-            "Premium Standard, 6–8 business days; free from US$ 35"
+            "Standard, 10 to 15 business days",
+            "from US$ 60; US$ 5 below",
+            "23% VAT already in the price"
           ],
           [
             "Stylevana",
-            "Premium Express, 4–9 business days; free from US$ 35. Below US$ 35: Standard, 8–15 business days, US$ 5.79",
-            "Standard, 5–10 business days; free from £ 39",
-            "Standard, 6–12 business days; free from CA$ 68",
-            "Standard, 1–5 business days from the Australian warehouse or 4–8 from Hong Kong; free from AU$ 49"
+            "Standard, 6 to 11 business days; does not deliver to remote areas",
+            "from €59; €4.39 below",
+            "the store does not list the countries with tax included"
           ],
           [
             "Olive Young Global",
-            "US customers shop at OLIVE YOUNG US, a separate store opened on May 29, 2026: standard US$ 6.95, free from US$ 35, up to 5 business days in the 48 contiguous states (page read on October 21, 2026)",
-            "4–5 days; free from US$ 60",
-            "5–7 days; free from US$ 60",
-            "4–5 days; free from US$ 60"
+            "not published for Portugal; the store picks and packs the order in 1 to 3 business days",
+            "from US$ 60; US$ 25 below",
+            "VAT and a €3 charge per customs category collected at checkout"
           ],
           [
             "StyleKorean",
-            "Free from US$ 60",
-            "Free from US$ 80",
-            "Free from US$ 60",
-            "Free from US$ 60"
+            "not published by country; the store hands the order to the carrier within 5 business days",
+            "from US$ 80",
+            "paid by the customer"
           ],
           [
             "Jolse",
-            "Standard, tax included, US$ 6.99; free above US$ 60",
-            "Standard, US$ 4.99; free above US$ 47",
-            "US$ 5.99; free above US$ 47",
-            "US$ 5.49; free above US$ 33"
+            "not published",
+            "above US$ 60; US$ 6.99 below",
+            "shipped with 23% VAT included"
           ]
         ]
       },
-      "postParagraphs": [
-        "StyleKorean hands the package to the carrier within 5 business days, and Jolse does not publish a delivery time per country. StyleKorean's free shipping covers beauty products only."
+      "paragraphs": [
+        "Olive Young Global delivers to Portugal (the site's destination selector, checked on October 21, 2026), but its shipping page has no row for the country: the delivery time is not published, and shipping follows the general rule in its FAQ."
       ]
     },
     {
       "heading": "Who pays the tax",
       "comparisonTable": {
-        "caption": "When each store charges tax and whether it refunds customs charges, from the official pages read on October 12, 2026.",
+        "caption": "When each store charges tax and whether it refunds customs fees, from the official pages.",
         "headers": [
           "Store",
-          "When tax is charged",
+          "When the tax is charged",
           "Tax refund"
         ],
         "rows": [
           [
             "YesStyle",
-            "US: sales tax and \"Import Fees\" at checkout. UK: 20% VAT included in the price. Australia: 10% GST included in the price. Canada: only Saskatchewan PST at checkout",
-            "Refunds tax charged on delivery for orders under US$ 1,000, as store credit; not tax already paid at checkout"
+            "Portugal: VAT already in the price",
+            "yes, on orders under US$ 1,000, as store credit"
           ],
           [
             "Stylevana",
-            "The store says that in \"many\" regions tax is already in the price or calculated at checkout, without saying which; the pages of its sites for these four countries do not say who pays",
-            "The terms of its sites for these four countries do not include a tax refund"
+            "the store says that in many regions tax is already in the price or calculated at checkout, without listing the regions",
+            "the Portugal site does not publish one"
           ],
           [
             "Olive Young Global",
-            "Price and shipping do not include tax. UK: VAT and duties may be charged at purchase on orders over £ 135. Australia: 10% GST at purchase. Canada: tax may be charged on delivery on orders over CA$ 20",
-            "Whatever is charged on delivery stays with the customer"
+            "in the European Union, VAT and €3 per customs category are charged at checkout, and the store says nothing more is charged on delivery; in other countries, the price and shipping do not include tax",
+            "in the European Union, does not refund customs fees, VAT or import charges"
           ],
           [
             "StyleKorean",
-            "Import tax is the customer's. In the US and Canada, it has been calculated and charged at checkout since August 27, 2025",
-            "Not published; if the customer refuses to pay the tax, the package is returned or discarded, with no refund or reshipping"
+            "customs tax is the customer's; in the US and Canada, it is calculated and charged at checkout",
+            "not published; if the customer refuses to pay the tax, the package is returned or destroyed, with no refund or reshipment"
           ],
           [
             "Jolse",
-            "US: Standard shipping with tax included. UK, Canada and Australia: shipping without tax, and any charge is the buyer's",
-            "Does not publish a refund; the customer is responsible for import tax and customs fees"
+            "Portugal: shipped with 23% VAT included",
+            "does not publish a refund; the customer is responsible for customs tax and fees"
           ]
         ]
-      }
+      },
+      "postParagraphs": [
+        "YesStyle is the only one of the five that publishes a tax refund. It covers taxes and fees charged on delivery, not the VAT already paid at checkout."
+      ]
     },
     {
       "heading": "Returns and opened products",
       "paragraphs": [
-        "In all five stores, an opened beauty product cannot be returned because you changed your mind. What changes is the deadline and what each store accepts."
+        "At all five stores, an opened beauty product cannot be returned for a change of mind. What changes is the time limit and what each one accepts."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
         "alt": "Illustration of an open box and a return arrow, with an X in the corner",
-        "caption": "At YesStyle, Stylevana, Olive Young Global, StyleKorean and Jolse, an opened beauty product cannot be returned because you changed your mind.",
+        "caption": "At YesStyle, Stylevana, Olive Young Global, StyleKorean and Jolse, an opened beauty product cannot be returned for a change of mind.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
       "comparisonTable": {
-        "caption": "Return window, what each store takes back and how it refunds, from the official pages read on October 12, 2026.",
+        "caption": "Return deadline, what each store takes back and how it refunds, from the official pages.",
         "headers": [
           "Store",
           "Time to request",
-          "What can and cannot be returned",
+          "What is and is not taken back",
           "How it refunds"
         ],
         "rows": [
           [
             "YesStyle",
             "14 days after delivery, with an RMA number",
-            "Opened beauty products and supplements cannot be returned",
-            "Store credit; to the payment method, if you ask"
+            "opened beauty products and supplements are not taken back",
+            "store credit; to the payment method, if you ask"
           ],
           [
             "Stylevana",
             "14 days after delivery",
-            "Defects, wrong items or a change of mind; beauty products only if new, sealed and unused",
-            "Store credit; the original shipping is not refunded"
+            "defect, wrong item or change of mind; beauty products only if new, sealed and unused",
+            "store credit; the original shipping is not refunded"
           ],
           [
             "Olive Young Global",
             "30 days after delivery",
-            "Defects or wrong items only; no exchanges",
-            "To the payment method, with the return shipping paid by the store"
+            "only defective or wrong items; no exchanges",
+            "to the payment method, with the return shipping paid by the store"
           ],
           [
             "StyleKorean",
             "14 business days",
-            "Sealed, unused products; no returns for allergies",
-            "Points or the payment method, with the shipping deducted"
+            "sealed, unused product; no returns for allergies",
+            "points or payment method, with shipping deducted"
           ],
           [
             "Jolse",
             "7 days after delivery, with photos",
-            "Defects, wrong or missing items only; opened or used items cannot be returned",
-            "After the item is back in Korea"
+            "only defective, wrong or missing items; opened or used items are not taken back",
+            "after the item is back in Korea"
           ]
         ]
       }
@@ -186,11 +180,11 @@
     {
       "heading": "StyleKorean: free shipping by country and order limit",
       "paragraphs": [
-        "Every StyleKorean order leaves a warehouse in Korea and goes to the carrier within 5 business days. Shipping is calculated by weight and is not included in the product price. Free shipping covers beauty products only; albums and K-pop products are left out (shipping page read on October 21, 2026).",
-        "Each order is limited to US$ 500, not counting shipping; above that, the store asks you to split the order into two. It also does not ship to P.O. boxes or to APO, FPO and DPO military addresses."
+        "At StyleKorean, shipping is calculated by weight and is not included in the product price: orders leave a warehouse in Korea and go to the carrier within 5 business days. Free shipping applies only to beauty products: albums and K-pop products are excluded.",
+        "An order is limited to US$ 500, not counting shipping; above that, the store asks you to split it into two orders. It also does not deliver to PO boxes or military addresses (APO, FPO and DPO)."
       ],
       "comparisonTable": {
-        "caption": "StyleKorean free-shipping threshold for the US, UK, Canada and Australia, from the shipping page read on October 21, 2026.",
+        "caption": "StyleKorean free shipping by country, from the table on its shipping page.",
         "headers": [
           "Free shipping from",
           "Countries"
@@ -198,39 +192,51 @@
         "rows": [
           [
             "US$ 60",
-            "United States, Canada and Australia"
+            "United States, Canada, Australia and Israel"
+          ],
+          [
+            "US$ 70",
+            "Taiwan, Hong Kong, Singapore, Malaysia, the Philippines, Vietnam, Cambodia and Indonesia"
           ],
           [
             "US$ 80",
-            "United Kingdom"
+            "Portugal, Spain, France, Belgium, the Netherlands, Germany, Switzerland, Italy, the United Kingdom, Ireland, Denmark, Sweden, Norway, Poland, Hungary, Bulgaria, Romania, the Emirates, Saudi Arabia, Qatar, Kuwait, Bahrain and Oman"
+          ],
+          [
+            "US$ 90",
+            "Austria, Czechia, Greece and Croatia"
+          ],
+          [
+            "US$ 100",
+            "New Zealand"
           ]
         ]
       },
       "postParagraphs": [
-        "All four countries in this article are in the table."
+        "The table does not list Japan, Mexico, Chile, Peru, Argentina or Colombia."
       ]
     },
     {
       "heading": "Returns and points at StyleKorean",
       "paragraphs": [
-        "StyleKorean accepts returns of sealed, unused products with no marks, which go back to its warehouse in Korea. The page asks for the return request within 14 business days of receiving the order. There are no returns for allergies or skin reactions.",
-        "Refunds come as store points, valid for six months, or to the payment method, within 2 to 14 business days after processing. The shipping of the original order is deducted; if the balance is negative, the customer pays the difference. Damaged or missing items must be reported with photos, the receipt and a photo of the box, and the store does not reship them (return page read on October 21, 2026)."
+        "StyleKorean accepts returns of sealed, unused products without marks, sent back to the warehouse in Korea. The page asks for the request within 14 business days of receiving the order. There are no returns for allergy or skin reaction.",
+        "The refund comes as store points, valid for six months, or to the payment method, 2 to 14 business days after processing. The shipping cost is deducted; if the balance ends up negative, the customer pays the difference. A damaged or missing item is claimed with photos, the receipt and a photo of the box, and the store does not reship."
       ]
     },
     {
       "heading": "What each store says about authenticity",
       "paragraphs": [
-        "Each store says the following; these are its own claims, with no independent audit."
+        "Each store says the following; these are their own claims, with no independent audit."
       ],
       "bullets": [
-        "**YesStyle:** says all its products are genuine and that it is an authorized distributor of more than 400 Korean brands. Who runs the store and what to check before buying are in the trust guide.",
-        "**Stylevana:** says every product it sells is authentic and genuine, bought from reputable suppliers and authorized distributors.",
-        "**Olive Young Global:** says it sells the same authentic products as its stores in Korea, where it has more than 1,400 stores.",
-        "**StyleKorean:** says all its products are authentic and come from the brand or from trusted suppliers in Korea."
+        "**YesStyle:** genuine products, from an authorized distributor of more than 400 Korean brands. Who runs the store and what to check before buying are in the trust guide.",
+        "**Stylevana:** authentic products, from reputable suppliers and authorized distributors.",
+        "**Olive Young Global:** the same authentic products as its stores in Korea, where it has more than 1,400 stores.",
+        "**StyleKorean:** authentic products, from the brand or trusted suppliers in Korea."
       ],
       "links": [
         {
-          "label": "Is YesStyle Legit and Safe? What to Know Before Shopping",
+          "label": "Is YesStyle legit? What to check before you buy",
           "href": "/en/reviews/is-yesstyle-legit-and-safe-review"
         }
       ]
@@ -238,13 +244,13 @@
     {
       "heading": "What to check before choosing",
       "bullets": [
-        "**Does the store ship to my country?** Look for your country on the store's shipping page, with the shipping cost and delivery time. What YesStyle publishes for the US, UK, Canada and Australia is in the shipping guide.",
-        "**Who pays the tax?** Check whether it is already in the price, charged at checkout or charged after the package arrives, and whether the store refunds it.",
-        "**What does it take back?** Compare the time to request a return and the way it refunds."
+        "**Does the store ship to my country?** Look for your country on the store's shipping page, with the shipping cost and delivery time; what YesStyle publishes for your country is in the shipping guide.",
+        "**Who pays the tax?** See whether it is already in the price, charged at checkout or after the package arrives, and whether the store refunds it.",
+        "**What does it take back?** Compare the deadline to request a return and the way it refunds."
       ],
       "links": [
         {
-          "label": "Does YesStyle ship to the US, UK, Canada and Australia? Delivery times, shipping costs and customs",
+          "label": "Does YesStyle ship to your country? Delivery time, shipping cost and tax",
           "href": "/en/reviews/yesstyle-shipping-us-uk-canada-australia"
         }
       ],
@@ -255,44 +261,39 @@
     {
       "heading": "Are YesStyle and SHEIN the same thing?",
       "paragraphs": [
-        "No. YesStyle does not appear in the SHEIN Group's list of brands (SHEIN, DAZY, ROMWE, MOTF, ANEWSTA, MUSERA, GLOWMODE and ARALINA), read on October 12, 2026. YesStyle says it belongs to YesAsia Holdings, based in Hong Kong."
+        "No. YesStyle does not appear in the SHEIN Group's list of brands, which includes SHEIN, DAZY, ROMWE, MOTF, ANEWSTA, MUSERA, GLOWMODE and ARALINA, and says it belongs to YesAsia Holdings, of Hong Kong."
       ]
     },
     {
       "heading": "Partnership and Reward Code",
       "paragraphs": [
-        "CECILIA010 is Cecília's Reward Code at YesStyle: it goes in the Reward Code field at checkout and gives up to 5% off your first order and 2% off the following ones. It stacks with YesStyle's own coupons. We have no code for the other stores in this comparison."
+        "CECILIA010 is Cecília's Reward Code at YesStyle: it goes in the Reward Code field at checkout and gives up to 5% off the first purchase and 2% off the following ones, stacking with the store's coupons. Current coupons are at [YesStyle coupons and Reward Code](/en/coupons/yesstyle). We have no code of our own at the other stores in this comparison."
       ],
       "links": [
         {
-          "label": "See today's YesStyle coupon and the CECILIA010 Reward Code",
+          "label": "See today's YesStyle coupons and the CECILIA010 Reward Code",
           "href": "/en/coupons/yesstyle"
         }
       ]
     },
     {
-      "heading": "Which store to choose",
+      "heading": "Which to choose",
       "bullets": [
-        "In the US: YesStyle ships Standard in 7 to 11 business days, free from US$ 35, and Stylevana ships Premium Express in 4 to 9 business days, also free from US$ 35. Olive Young Global does not ship there; US customers shop at OLIVE YOUNG US, free from US$ 35.",
-        "In the UK, Canada and Australia: all five stores ship, and free shipping starts at a different amount in each, so check the tables above for your country.",
-        "In any country: check each store's official page for shipping, who pays the tax and what it takes back before you order."
+        "If you live in Portugal: all five stores deliver and all publish the order value for free shipping, so the choice comes down to tax and returns, in the tables above.",
+        "In any country: check each store's official page for shipping, who pays the tax and what it takes back before placing the order."
       ]
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Which is better, YesStyle or Stylevana? It depends on the country. In the US, both give free shipping from US$ 35: Stylevana's Premium Express takes 4–9 business days and YesStyle's Standard 7–11. In the UK, Stylevana lists 5–10 business days and free shipping from £ 39; YesStyle lists 5–12 business days and free shipping from US$ 50. Canada and Australia are in the first table.",
-        "Is YesStyle the same as SHEIN? No: YesStyle does not appear in the SHEIN Group's list of brands and says it belongs to YesAsia Holdings, based in Hong Kong.",
-        "Does Stylevana ship to the US? Yes. Premium Express takes 4–9 business days and is free from US$ 35; below that amount, Standard takes 8–15 business days and costs US$ 5.79.",
-        "Does Olive Young ship to the US? Olive Young Global does not. US customers shop at OLIVE YOUNG US, a separate store opened on May 29, 2026: standard shipping is US$ 6.95, free from US$ 35, with delivery in up to 5 business days in the 48 contiguous states and 30-day returns (read on October 21, 2026). The UK, Canada and Australia are in the first table.",
-        "Which store has the lowest free-shipping minimum? It depends on the country, and the stores publish the minimum in different currencies, so we do not rank them. In the US: YesStyle and Stylevana from US$ 35, StyleKorean from US$ 60 and Jolse above US$ 60. In the UK: YesStyle from US$ 50, Stylevana from £ 39, Olive Young Global from US$ 60, StyleKorean from US$ 80 and Jolse above US$ 47. Canada and Australia are in the first table.",
-        "Does StyleKorean ship to the US? Yes. The shipping page lists the United States, with free shipping from US$ 60; the store hands the package to the carrier within 5 business days, from its warehouse in Korea.",
-        "What is the StyleKorean order limit? US$ 500 per order, not counting shipping; above that, the store asks you to split the order into two.",
-        "Who pays the tax? It depends on the store and the country. YesStyle includes VAT in the price in the UK and GST in Australia. In the US, it charges sales tax and \"Import Fees\" at checkout; in Canada, it charges only Saskatchewan PST, also at checkout. It refunds tax charged on delivery, as store credit, for orders under US$ 1,000. Olive Young Global's price and shipping do not include tax. For StyleKorean, import tax is the customer's. Jolse's US Standard shipping has tax included; in the other three countries, any charge is the buyer's. Stylevana's sites for these four countries do not say who pays.",
-        "Can I return an opened beauty product? Not because you changed your mind, in any of the five stores. Stylevana accepts a change of mind only if the product is new, sealed and unused.",
-        "Which store delivers faster? The times the stores publish are for shipping, not the total, and do not include how long the item takes to leave the warehouse. To the US, Stylevana lists 4–9 business days with Premium Express and YesStyle 7–11. OLIVE YOUNG US lists up to 5 business days in the 48 contiguous states. To the UK, Stylevana lists 5–10 and YesStyle 5–12, and Olive Young Global lists 4–5 days. StyleKorean and Jolse do not publish a time per country. The other times are in the first table.",
-        "Which is cheaper? This article does not compare prices. Compare the total with shipping and tax at each store's checkout.",
-        "Where does the YesStyle Reward Code go? CECILIA010 goes in the Reward Code field at checkout. The current coupons are on the YesStyle page on this site."
+        "Which is better, YesStyle or Stylevana? It depends on the country: for Portugal, delivery times and minimums are in the shipping table.",
+        "Is YesStyle the same as SHEIN? No: YesStyle does not appear in the SHEIN Group's list of brands and says it belongs to YesAsia Holdings, of Hong Kong.",
+        "What is the order limit at StyleKorean? US$ 500 per order, not counting shipping; above that, the store asks you to split it into two orders.",
+        "Which store has the lowest free-shipping minimum? For Portugal, the minimums are in the shipping table, and Stylevana is the only one in euros.",
+        "Who pays the tax? It depends on the store and the country: in Portugal, YesStyle and Jolse already include VAT; only YesStyle publishes a refund of customs taxes and fees, as store credit, under US$ 1,000.",
+        "Can I return an opened beauty product? Not for a change of mind, at any of the five stores; Stylevana accepts a change of mind only if the product is new, sealed and unused.",
+        "Which store delivers faster? The stores publish the shipping time, not the total: for Portugal, Stylevana indicates 6 to 11 business days and YesStyle 10 to 15, not counting the time for the item to leave Hong Kong.",
+        "Where does the YesStyle Reward Code go? CECILIA010 goes in the Reward Code field at checkout, and the current coupons are on the YesStyle page here on the site."
       ]
     }
   ],
@@ -304,7 +305,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "We may earn a commission from YesStyle. The other stores' rules come from their own pages.",
+  "editorialNote": "We may earn a commission from YesStyle. We did not test the other stores: their rules come from the official pages.",
   "relatedArticles": [
     {
       "slug": "yesstyle-vs-olive-young",

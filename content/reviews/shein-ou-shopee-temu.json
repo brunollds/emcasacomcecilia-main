@@ -245,6 +245,14 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Temu se você compra roupa sem provar e quer o maior prazo para devolver: são 90 dias, contados da compra."
+    ],
+    "skipIf": [
+      "Passe na SHEIN se você quer devolver com mais folga do que 20 dias."
+    ]
+  },
   "cta": {
     "text": "Compare o preço final, com frete e imposto, na hora de pagar",
     "label": "Ir para a SHEIN",

@@ -3,8 +3,8 @@
   "slug": "shein-empfehlungscode-wo-eingeben",
   "locale": "de",
   "translationKey": "shein-referral-code",
-  "title": "SHEIN-Empfehlungscode (Brasilien): wo eingeben und wie er funktioniert",
-  "seoTitle": "SHEIN-Empfehlungscode (Brasilien): wo eingeben, wie nutzen",
+  "title": "SHEIN-Empfehlungscode: wo eingeben und wie er funktioniert",
+  "seoTitle": "SHEIN-Empfehlungscode: wo eingeben, wie nutzen",
   "type": "Empfehlungscode-Ratgeber",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,110 +15,118 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Wo Sie den Empfehlungscode von SHEIN Brasilien eingeben (in der Suche, nicht im Gutscheinfeld), die Schritt-für-Schritt-Anleitung mit Screenshots, was nach der Suche erscheint und wie Sie Ihren eigenen Code bekommen.",
-  "metaDescription": "Der SHEIN-Empfehlungscode gehört in die Suche, nicht ins Gutscheinfeld. Mit Screenshots: was er öffnet und wie Sie Ihren eigenen bekommen.",
+  "description": "Wo Sie den SHEIN-Empfehlungscode eingeben (in der Suche, nicht im Gutscheinfeld), die Schritt-für-Schritt-Anleitung mit Screenshots, was nach der Suche erscheint, was sich seit dem alten Programm von 2024 geändert hat und wie Sie Ihren eigenen Code bekommen.",
+  "metaDescription": "Der SHEIN-Empfehlungscode gehört in die Suche, nicht ins Gutscheinfeld. Hier die Anleitung mit Screenshots, was er öffnet, was sich 2024 geändert hat und wie Sie Ihren eigenen bekommen.",
   "publishedAt": "13. Oktober 2026",
   "publishedAtISO": "2026-10-13",
   "draft": false,
-  "isNew": false,
+  "isNew": true,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-  "imageAlt": "Zwei Screenshots der SHEIN-Brasilien-Website auf dem Smartphone: die Suchleiste mit eingegebenem Code und die Seite, die sich nach der Suche öffnet",
+  "imageAlt": "Zwei Bildschirme der SHEIN-Website auf dem Smartphone: die Suchleiste mit eingetipptem Code und die Seite, die nach der Suche aufgeht",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "contentSections": [
     {
-      "heading": "Die Antwort in Kürze",
+      "heading": "Kurze Antwort",
       "paragraphs": [
-        "Der SHEIN-Empfehlungscode gehört in die Suche des Shops, in der App oder im Browser des Smartphones, nicht ins Gutscheinfeld. Er bringt keinen festen Rabatt: Er öffnet die Seite der Person, die ihn geteilt hat, mit den Angeboten des Shops. 4CW5Y ist Cecílias Code bei SHEIN Brasilien und gilt im Ausland womöglich nicht; siehe „Wo Sie den SHEIN-Empfehlungscode eingeben“."
+        "Der SHEIN-Empfehlungscode gehört in die Suche des Shops, in der App oder auf der Website im Smartphone-Browser, und nicht ins Gutscheinfeld. Er gibt keinen festen Rabatt: Er öffnet die Seite der Person, die den Code weitergegeben hat, mit den Angeboten, die der Shop dort zeigt. 4CW5Y ist der Code von Cecília; die Anleitung steht unten."
       ]
     },
     {
       "heading": "Wo Sie den SHEIN-Empfehlungscode eingeben",
       "paragraphs": [
-        "Laut SHEIN geben Sie den Code in die Suche der App ein. Die Screenshots unten stammen von der Website von SHEIN Brasilien auf dem Smartphone, auf Portugiesisch und ohne Anmeldung:"
+        "Suchen Sie den Code in der Suchleiste der SHEIN-App. Die Bildschirme unten stammen von der SHEIN-Website auf dem Smartphone, ohne Anmeldung:"
       ],
       "bullets": [
         "**Schritt 1:** Tippen Sie auf die Suchleiste von SHEIN.",
         "**Schritt 2:** Geben Sie den Code ein, zum Beispiel 4CW5Y.",
         "**Schritt 3:** Tippen Sie auf die Lupe. SHEIN öffnet die Seite, die mit dem Code verknüpft ist.",
-        "**Schritt 4:** Wählen Sie ab dieser Seite Ihre Teile aus und stellen Sie den Warenkorb zusammen."
+        "**Schritt 4:** Wählen Sie von dieser Seite aus Ihre Artikel und füllen Sie den Warenkorb."
       ],
       "images": [
         {
           "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
-          "alt": "Suchbildschirm der SHEIN-Brasilien-Website auf dem Smartphone, mit der Suchleiste noch ohne eingegebenen Text, der letzten Suche 4CW5Y und den Vorschlägen des Shops",
-          "caption": "Schritt 1: die geöffnete Suche auf der SHEIN-Brasilien-Website, auf dem Smartphone, vor der Eingabe des Codes.",
+          "alt": "Suchbildschirm der SHEIN-Website auf dem Smartphone, mit noch leerer Suchleiste, der letzten Suche 4CW5Y und den Vorschlägen des Shops",
+          "caption": "Schritt 1: die geöffnete Suche auf der SHEIN-Website, auf dem Smartphone, vor der Eingabe des Codes.",
           "objectFit": "contain",
           "aspectRatio": 1.4722
         },
         {
           "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
-          "alt": "Suchleiste von SHEIN Brasilien mit dem eingegebenen Code 4CW5Y, der auf dem Bildschirm als 4Cw5y erscheint",
+          "alt": "SHEIN-Suchleiste mit eingetipptem Code 4CW5Y, der auf dem Bildschirm als 4Cw5y erscheint",
           "caption": "Schritt 2: der in die Suchleiste eingegebene Code.",
           "objectFit": "contain",
           "aspectRatio": 1.4722
         },
         {
           "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
-          "alt": "Seite von SHEIN Brasilien, die sich nach der Suche öffnet, mit dem Titel „Acho que você pode gostar“ („Ich glaube, das könnte Ihnen gefallen“) und zwei Produkten mit Preis in Reais",
-          "caption": "Schritt 3: die Seite, die die Suche nach 4CW5Y am 12.10.2026 geöffnet hat.",
+          "alt": "SHEIN-Seite nach der Suche, mit dem Titel \"Acho que você pode gostar\" („Ich glaube, das könnte Ihnen gefallen“) und zwei Produkten mit Preis",
+          "caption": "Schritt 3: die Seite, die die Suche nach 4CW5Y geöffnet hat.",
           "objectFit": "contain",
           "aspectRatio": 0.7581
         }
       ],
       "postParagraphs": [
-        "Verwenden Sie den Code nicht als Gutschein: Laut SHEIN gehört er in das Suchfeld."
+        "Verwenden Sie den Code nicht als Gutschein: Er gehört ins Suchfeld."
       ]
     },
     {
-      "heading": "Was nach der Suche erscheint und was Sie davon haben",
+      "heading": "Was nach der Suche erscheint und was Sie bekommen",
       "paragraphs": [
-        "Laut SHEIN landet, wer den Code eines Affiliates sucht, auf dessen Auswahlseite. Hat der Affiliate noch keine Produkte ausgewählt, erscheint die Standard-Auswahlseite von SHEIN. Am 12.10.2026 öffnete die Suche nach 4CW5Y bei SHEIN Brasilien eine Empfehlungsseite mit dem Titel „Acho que você pode gostar“ („Ich glaube, das könnte Ihnen gefallen“).",
-        "Es gibt keinen festen Rabatt, der am Code hängt. Laut SHEIN können Kunden, die über einen Affiliate kommen, die Vorteile erhalten, die auf den Kampagnen- oder Produktseiten angezeigt werden. SHEIN aktualisiert diese Angebote nach eigener Aussage häufig. Die aktuellen Aktionen von SHEIN Brasilien, mit Datum der letzten Prüfung, stehen auf der Shop-Seite dieser Website."
+        "Wer nach dem Code eines Affiliates sucht, sieht dessen Auswahlseite, teilt SHEIN mit. Hat die Person, die den Code weitergegeben hat, noch keine Produkte ausgewählt, erscheint die Standard-Auswahlseite von SHEIN. Am 12. Oktober 2026 öffnete die Suche nach 4CW5Y eine Empfehlungsseite mit dem Titel \"Acho que você pode gostar\".",
+        "Mit dem Code ist kein fester Rabatt verbunden. Wer über den Affiliate kommt, kann die Vorteile erhalten, die auf den Kampagnen- oder Produktseiten gezeigt werden und die häufig aktualisiert werden. Die laufenden Kampagnen stehen auf der SHEIN-Seite hier auf der Website."
       ],
       "links": [
         {
-          "label": "Den Empfehlungscode 4CW5Y und die Aktionen von SHEIN Brasilien ansehen",
+          "label": "Den Empfehlungscode 4CW5Y und die SHEIN-Kampagnen ansehen",
           "href": "/de/coupons/shein"
         }
       ],
       "postParagraphs": [
-        "Nach den Regeln des Affiliate-Programms von SHEIN Brasilien muss die Bestellung innerhalb von 24 Stunden nach der Suche oder dem Klick abgeschlossen werden, damit sie der Person zugerechnet wird, die den Code verbreitet hat. Es zählt der zuletzt verwendete Code oder Link. Die Provision erhöht nicht, was Sie bezahlen."
+        "Damit der Kauf für die Person zählt, die den Code weitergegeben hat, muss die Bestellung laut SHEIN innerhalb von 24 Stunden nach der Suche oder dem Klick abgeschlossen werden, und es gilt der zuletzt verwendete Code oder Link. Die Provision erhöht nicht, was Sie zahlen."
+      ]
+    },
+    {
+      "heading": "Warum die alten Anleitungen mit dem Gutschein des alten Programms nicht mehr gelten",
+      "paragraphs": [
+        "Viele Anleitungen und Videos beschreiben noch das Affiliate-Programm, das SHEIN am 29. August 2024 beendet hat. Wer darin den Code eines Affiliates nutzte, bekam einen Rabattgutschein. SHEIN hat diese Codes deaktiviert, und der Gutschein ist mit ihnen weggefallen.",
+        "Im aktuellen Programm gibt es keine Verbindung mehr zwischen der Person, die empfiehlt, und der Person, die den Code nutzt. Der Code führt nur zur Seite des Affiliates, und die Vorteile sind die der dort gezeigten Kampagnen."
       ]
     },
     {
       "heading": "So bekommen Sie Ihren eigenen Empfehlungscode",
       "paragraphs": [
-        "Der Empfehlungscode stammt aus dem Affiliate-Programm von SHEIN. Bei SHEIN Brasilien beginnt die Anmeldung mit der Suche nach „afiliado“ („Affiliate“) in der App und der Bestätigung eines Instagram-, YouTube- oder TikTok-Kontos, das die Anforderungen des Programms erfüllt, etwa eine Mindestzahl an Followern. Ob das Programm in Ihrem Land offen ist, sagen die SHEIN-Seiten nicht.",
-        "Nach der Anmeldung erscheint der Code auf der Affiliate-Startseite. Er bleibt immer derselbe, und die Buchstaben lassen sich nicht wählen."
+        "Der Empfehlungscode stammt aus dem Affiliate-Programm von SHEIN. Zur Anmeldung suchen Sie in der SHEIN-App nach \"afiliado\" und bestätigen ein Instagram-, YouTube- oder TikTok-Konto, das die Anforderungen des Programms erfüllt, etwa eine Mindestzahl an Followern.",
+        "Nach der Anmeldung erscheint der Code auf der Startseite für Affiliates. Er bleibt immer derselbe, und die Buchstaben lassen sich nicht wählen."
       ]
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Wo gebe ich den SHEIN-Empfehlungscode ein? In der Suchleiste der SHEIN-App oder der Website im Browser des Smartphones, nicht im Gutscheinfeld.",
-        "Wie verwende ich den SHEIN-Empfehlungscode? Öffnen Sie die Suche, geben Sie den Code ein, tippen Sie auf die Lupe und stellen Sie den Warenkorb auf der Seite zusammen, die sich öffnet.",
-        "Wie funktioniert der SHEIN-Empfehlungscode? Laut SHEIN öffnet er die Seite der Person, die den Code verbreitet hat. Schließen Sie die Bestellung innerhalb von 24 Stunden ab, erhält diese Person nach den Regeln des Affiliate-Programms von SHEIN Brasilien die Provision, ohne Mehrkosten für Sie.",
+        "Wo gebe ich den SHEIN-Empfehlungscode ein? In der Suchleiste der SHEIN-App oder der Website im Smartphone-Browser, nicht im Gutscheinfeld.",
+        "Wie nutze ich den SHEIN-Empfehlungscode? Öffnen Sie die Suche, geben Sie den Code ein, tippen Sie auf die Lupe und füllen Sie den Warenkorb von der Seite aus, die aufgeht.",
+        "Wie funktioniert der SHEIN-Empfehlungscode? Laut SHEIN öffnet er die Seite der Person, die den Code weitergegeben hat. Schließen Sie den Kauf innerhalb von 24 Stunden ab, erhält diese Person die Provision, ohne Mehrkosten für Sie.",
         "Gibt der SHEIN-Empfehlungscode Rabatt? Es gibt keinen festen Rabatt: Sie können die Angebote erhalten, die SHEIN auf der Seite zeigt, die der Code öffnet.",
-        "Ist der Empfehlungscode dasselbe wie ein Gutschein? Nein. Laut SHEIN gehört der Code in das Suchfeld und wird nicht als Gutschein verwendet.",
-        "Wie bekomme ich meinen eigenen SHEIN-Empfehlungscode? Er stammt aus dem Affiliate-Programm von SHEIN. Nach der Anmeldung, bei SHEIN Brasilien über die Suche nach „afiliado“ in der App, erscheint er auf der Affiliate-Startseite. Ob das Programm in Ihrem Land offen ist, sagen die SHEIN-Seiten nicht.",
-        "Funktioniert 4CW5Y außerhalb Brasiliens? SHEIN sagt dazu nichts. Der Code gehört zu SHEIN Brasilien und gilt womöglich nicht bei SHEIN in einem anderen Land.",
-        "Kann ich den Empfehlungscode am Computer verwenden? SHEIN spricht davon, den Code in der App zu suchen, und die Screenshots in diesem Ratgeber stammen von der Website auf dem Smartphone. Am Computer haben wir es nicht geprüft."
+        "Ist der Empfehlungscode dasselbe wie ein Gutschein? Nein. Laut SHEIN gehört der Code ins Suchfeld und nicht als Gutschein.",
+        "Wie finde ich meinen SHEIN-Empfehlungscode? Der Empfehlungscode stammt aus dem Affiliate-Programm von SHEIN. Nach der Anmeldung, die über die Suche \"afiliado\" in der App erfolgt, erscheint er auf der Startseite für Affiliates.",
+        "Gilt ein Empfehlungscode von 2024 oder 2025 noch? Die Codes des alten Programms, das 2024 endete, wurden zusammen mit dem Gutschein des alten Programms deaktiviert. Im aktuellen Programm führt der Code zur Seite des Affiliates, ohne festen Rabatt, und 4CW5Y ist der aktuelle Code von Cecília.",
+        "Muss ich ein neues Konto anlegen, um den Code zu nutzen? Nein: Bei unserer Prüfung öffnete die Suche die Seite auch ohne Anmeldung. Angebote nur für Neukunden werden, falls es welche gibt, in der Kampagne gekennzeichnet.",
+        "Kann ich den Empfehlungscode am Computer nutzen? SHEIN spricht davon, den Code in der App zu suchen; die Anleitung zeigt die Website auf dem Smartphone, und am Computer haben wir es nicht geprüft."
       ]
     }
   ],
   "cta": {
-    "text": "Öffnen Sie SHEIN über Cecílias Link oder geben Sie 4CW5Y in die Suche der SHEIN-Brasilien-App ein",
+    "text": "Öffnen Sie SHEIN über Cecílias Link oder geben Sie 4CW5Y in die Suche der SHEIN-App ein",
     "label": "SHEIN öffnen",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true
   },
   "coupon": "4CW5Y",
   "affiliate": "shein",
-  "editorialNote": "Regeln laut den offiziellen SHEIN-Seiten. Wir können für Käufe eine Provision erhalten.",
+  "editorialNote": "Regeln der offiziellen SHEIN-Seiten. Wir können für Käufe eine Provision erhalten.",
   "relatedArticles": [
     {
       "slug": "ist-shein-serioes-und-sicher",
@@ -126,7 +134,7 @@
     },
     {
       "slug": "shein-black-friday-termine-steuern",
-      "title": "Black Friday SHEIN 2026: Beginn, Ende und Einfuhrsteuer null bis US$ 50"
+      "title": "Black Friday SHEIN 2026: Beginn, Ende und so funktionieren die Gutscheine"
     }
   ]
 }

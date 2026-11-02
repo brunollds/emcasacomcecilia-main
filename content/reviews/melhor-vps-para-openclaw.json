@@ -263,6 +263,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o KVM 1, com 4 GB, se o modelo de IA fica no provedor, pela chave de API ou pelos créditos da Hostinger.",
+      "Leve o KVM 4, com 16 GB, se vai rodar modelo local: é o primeiro plano com folga acima do piso oficial de 8 GiB."
+    ],
+    "skipIf": [
+      "Passe no KVM 1 se vai rodar modelo local: 4 GB fica abaixo do piso oficial.",
+      "Passe no VPS se você não quer cuidar de servidor: veja o gerenciado, em que a Hostinger instala e atualiza o assistente.",
+      "Passe no KVM 8 se não vai usar um modelo local maior."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

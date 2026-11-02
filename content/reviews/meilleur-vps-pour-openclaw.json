@@ -30,44 +30,44 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw ne publie pas de RAM minimale générale. Ce que dit la documentation officielle, la mémoire dont chaque scénario a besoin et le forfait KVM Hostinger adapté, avec les prix en dollars américains du 21 octobre 2026.",
-  "metaDescription": "Meilleur VPS pour OpenClaw : les besoins officiels, le forfait KVM pour un modèle cloud ou local, Oracle Always Free et les prix Hostinger du 21 octobre 2026.",
+  "description": "OpenClaw ne publie pas de RAM minimale générale. Voyez ce que demande chaque scénario et quel forfait KVM d'Hostinger convient.",
+  "metaDescription": "Meilleur VPS pour OpenClaw sans RAM minimale officielle : le KVM selon le scénario, avec un modèle dans le cloud ou en local.",
   "publishedAt": "21 octobre 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": false,
+  "isNew": true,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
-  "imageAlt": "La mascotte rouge d'OpenClaw, avec le logo Hostinger, le titre OpenClaw + VPS KVM et des icônes de serveur et de formules",
+  "imageAlt": "Mascotte rouge d'OpenClaw en vedette, avec le logo Hostinger, le titre OpenClaw + VPS KVM et des icônes de serveur et de forfaits",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Si le modèle d'IA reste chez le fournisseur, via votre clé d'API ou les crédits IA de Hostinger, le KVM 1, avec 4 Go, est le point de départ. Avec un modèle local, la documentation demande 8 GiB, et le KVM 4, avec 16 Go, est le premier avec de la marge. Calcul : Combien de RAM chaque scénario demande."
+        "Si le modèle d'IA reste chez le fournisseur, via votre clé d'API ou les crédits IA de Hostinger, le KVM 1, avec 4 Go, est le point de départ. Avec un modèle local, la documentation demande 8 GiB, et le KVM 4, avec 16 Go, est le premier avec de la marge. Si vous ne voulez pas gérer un serveur, regardez l'offre gérée, plus bas."
       ]
     },
     {
       "heading": "Ce que dit la documentation officielle (et ce qu'elle ne dit pas) sur les besoins",
       "paragraphs": [
-        "OpenClaw est un assistant d'IA que vous faites tourner sur votre propre serveur ou ordinateur. Le modèle qui répond peut rester chez un fournisseur, accessible avec votre clé d'API ou les crédits IA de Hostinger, ou tourner sur le serveur lui-même, comme modèle local. Une clé d'API est le mot de passe qu'OpenClaw utilise pour demander des réponses à un fournisseur comme Anthropic ou OpenAI ; le fournisseur facture chaque usage. Avec le modèle chez le fournisseur, le serveur ne fait tourner que le programme.",
-        "Les pages officielles d'installation et de modèles locaux, consultées le 21 octobre 2026, indiquent ce qui suit :"
+        "L'endroit où tourne le modèle d'IA décide de la RAM : chez le fournisseur, via votre clé d'API ou les crédits IA de Hostinger, ou en local, sur le serveur lui-même. La clé d'API est le mot de passe qu'OpenClaw utilise pour demander des réponses à un fournisseur, qui facture l'usage. Avec le modèle chez le fournisseur, la requête part vers l'entreprise d'IA et le serveur ne fait que faire tourner le programme.",
+        "Les pages officielles d'installation et de modèles locaux disent ceci :"
       ],
       "bullets": [
-        "**Version de Node.** OpenClaw demande Node 24.16 ou plus récent, ou Node 26.1 ou plus récent. Node est le programme qui exécute OpenClaw, et l'installation par npm exige l'une de ces versions. La page recommande Node 26. Si Node n'est pas installé, l'installateur officiel l'apporte (Node 26 sous macOS et Node 24 LTS sous Linux).",
-        "**Modèle local.** Pour la plus petite recette proposée par la documentation elle-même, le plancher est de 8 GiB de mémoire de l'hôte, avec un contexte de 64K. La page précise que ces planchers ne garantissent ni que le modèle tienne, ni qu'il tourne à une vitesse utile.",
-        "**VPS Hostinger.** Hostinger installe OpenClaw sur le VPS avec Docker, un logiciel qui fait tourner chaque application isolée dans son propre conteneur. Le VPS est un serveur virtuel loué ; avec un accès root, vous en avez le contrôle total."
+        "**Version de Node.** OpenClaw demande Node 24.16 ou plus récent, ou Node 26.1 ou plus récent. Node est le programme qui exécute OpenClaw, et l'installation par npm exige cette version. La page recommande Node 26. Si Node n'est pas installé, l'installateur officiel apporte la version (Node 26 sous macOS et Node 24 LTS sous Linux).",
+        "**Modèle local.** Pour la plus petite recette proposée par la documentation elle-même, le plancher est de 8 GiB de mémoire de l'hôte, avec un contexte de 64K. La page précise que ces planchers « ne garantissent pas que le modèle tienne ni qu'il tourne vite ».",
+        "**VPS de Hostinger.** Hostinger installe OpenClaw sur le VPS avec Docker, un programme qui fait tourner chaque application isolée dans un conteneur. Le VPS est un serveur virtuel loué ; avec l'accès root, vous en avez le contrôle total."
       ],
       "postParagraphs": [
-        "La documentation ne donne aucun chiffre de RAM, de processeur (vCPU) ni de disque pour OpenClaw sans modèle local, ni de minimum de serveur pour le scénario de clé d'API ou de crédits.",
-        "Un détail d'unités : 8 GiB équivalent à environ 8,6 Go. Le KVM 2 est annoncé avec 8 Go, soit environ 7,5 GiB, un peu sous le plancher, avant même la mémoire prise par le système et Docker. La documentation ne dit pas si cet écart d'unités compte pour le plancher."
+        "Elle ne donne aucun chiffre de RAM, de processeur (vCPU) ou de disque pour OpenClaw sans modèle local, ni de minimum de serveur pour le scénario clé d'API ou crédits.",
+        "Un détail de calcul : 8 GiB équivalent à environ 8,6 Go. Le KVM 2 est annoncé avec 8 Go, soit environ 7,5 GiB, un peu sous le plancher, et cela sans compter la mémoire qu'occupent le système et Docker. La documentation ne dit pas si cet écart d'unité compte pour le plancher."
       ]
     },
     {
       "heading": "Combien de RAM chaque scénario demande",
       "paragraphs": [
-        "La RAM est la mémoire de travail du serveur : c'est là que restent le programme et, avec un modèle local, le modèle lui-même pendant qu'il tourne. La documentation ne donne un chiffre que pour le modèle local."
+        "La documentation ne donne un chiffre de RAM que pour le modèle local : la RAM est la mémoire de travail, où le programme et le modèle restent pendant qu'ils tournent."
       ],
       "comparisonTable": {
         "headers": [
@@ -83,89 +83,79 @@
           ],
           [
             "Modèle local, la plus petite recette officielle",
-            "Plancher de 8 GiB de mémoire de l'hôte, avec un contexte de 64K. Ne garantit ni que le modèle tienne, ni qu'il aille vite.",
-            "Le KVM 1 (4 Go) reste sous le plancher. Le KVM 2 (8 Go) est à la limite. Le KVM 4 (16 Go) est le premier avec de la marge."
+            "Plancher de 8 GiB de mémoire de l'hôte, avec un contexte de 64K. Ne garantit ni que le modèle tienne ni la vitesse.",
+            "Le KVM 1 (4 Go) est sous le plancher. Le KVM 2 (8 Go) est à la limite. Le KVM 4 (16 Go) est le premier avec de la marge."
           ],
           [
             "Modèle local, recettes plus grandes",
-            "La page indique qu'elles demandent davantage de mémoire, sans chiffre.",
+            "La page dit qu'elles demandent plus de mémoire, sans chiffre.",
             "Pas de calcul officiel. Choisissez selon la taille du modèle que vous voulez faire tourner."
           ]
         ]
       },
       "postParagraphs": [
-        "Deux détails sur le modèle local. Le contexte est la quantité de texte (jetons, morceaux de mots) que le modèle lit d'un coup. Quand il reste moins de 20 % de la fenêtre de contexte, OpenClaw prévient, avec un plancher de 8 000 jetons ; en dessous de 10 %, il bloque la réponse, avec un plancher de 4 000 jetons.",
-        "Aucune des pages des forfaits KVM que nous avons lues ne mentionne de carte graphique (GPU), et la documentation ne dit pas quelle vitesse aurait un modèle local sans elle."
+        "Deux détails sur le modèle local. Le contexte est la quantité de texte (tokens, morceaux de mots) que le modèle lit d'un coup. Quand il reste moins de 20 % de la fenêtre de contexte, OpenClaw prévient, avec un plancher de 8 000 tokens ; sous 10 %, il bloque la réponse, avec un plancher de 4 000 tokens.",
+        "Parmi les pages de forfaits KVM lues, aucune ne mentionne de carte graphique (GPU). La documentation ne dit pas non plus quelle vitesse aurait un modèle local sans elle."
       ]
     },
     {
       "heading": "Quel forfait KVM choisir",
       "paragraphs": [
-        "KVM est le nom des forfaits de serveur virtuel d'Hostinger. Le tableau en présente quatre, avec les prix des forfaits de 24 mois de la page mondiale d'Hostinger, en dollars américains, relevés le 21 octobre 2026. La page n'affichait pas le prix avec le SONAR20 ; les 20 % apparaissent dans le panier. Voici notre lecture de chaque forfait au regard de la documentation : ce n'est pas une mesure des performances."
+        "Le bon forfait suit l'endroit où tourne le modèle. KVM est le nom des serveurs virtuels d'Hostinger, et le tableau présente les quatre. Lisez chaque forfait à la lumière de la documentation ; c'est notre lecture, pas une mesure :"
       ],
       "image": {
-        "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-fr.webp",
-        "alt": "Tableau à trois lignes : un modèle hors du serveur (clé d'API ou crédits) mène au KVM 1 ; un petit modèle local mène au KVM 2, à la limite, ou au KVM 4 ; un modèle local avec plus de contexte ou d'autres programmes mène au KVM 4 ou au KVM 8",
-        "caption": "D'après la documentation d'OpenClaw consultée le 21 octobre 2026 ; nous n'avons pas mesuré les performances."
+        "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
+        "alt": "Tableau de trois lignes : modèle hors du serveur (clé d'API ou crédits) mène au KVM 1 ; petit modèle local mène au KVM 2, à la limite, ou au KVM 4 ; modèle local avec plus de contexte ou d'autres programmes mène au KVM 4 ou au KVM 8",
+        "caption": "D'après la documentation d'OpenClaw ; nous n'avons pas mesuré les performances."
       },
       "comparisonTable": {
         "headers": [
           "Forfait",
           "vCPU (processeur virtuel)",
           "RAM",
-          "Disque NVMe",
-          "Première période, sans le code",
-          "Renouvellement"
+          "Disque NVMe"
         ],
         "rows": [
           [
             "KVM 1",
             "1",
             "4 Go",
-            "50 Go",
-            "6,49 US$/mois",
-            "11,99 US$/mois"
+            "50 Go"
           ],
           [
             "KVM 2",
             "2",
             "8 Go",
-            "100 Go",
-            "8,79 US$/mois",
-            "14,99 US$/mois"
+            "100 Go"
           ],
           [
             "KVM 4",
             "4",
             "16 Go",
-            "200 Go",
-            "12,99 US$/mois",
-            "28,99 US$/mois"
+            "200 Go"
           ],
           [
             "KVM 8",
             "8",
             "32 Go",
-            "400 Go",
-            "25,99 US$/mois",
-            "49,99 US$/mois"
+            "400 Go"
           ]
         ]
       },
       "bullets": [
-        "**KVM 1 (4 Go).** Point de départ pour le scénario de clé d'API ou de crédits. Pour un modèle local, il reste sous le plancher officiel.",
-        "**KVM 2 (8 Go).** Avec une clé d'API, il y a de la marge. Avec un modèle local, il se trouve à la limite du plancher, sans place pour le système.",
-        "**KVM 4 (16 Go).** Le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB. La documentation ne dit pas quel rendement il offre avec un modèle local.",
-        "**KVM 8 (32 Go).** N'a de sens qu'avec un modèle local plus grand. La documentation ne dit pas quelle mémoire chaque grande recette demande."
+        "**KVM 1 (4 Go).** Point de départ pour le scénario clé d'API ou crédits. Pour un modèle local, il est sous le plancher officiel.",
+        "**KVM 2 (8 Go).** Avec une clé d'API, il y a de la marge. Avec un modèle local, il est à la limite du plancher, sans marge pour le système.",
+        "**KVM 4 (16 Go).** C'est le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB. La documentation ne dit pas ce qu'il donne avec un modèle local.",
+        "**KVM 8 (32 Go).** N'a de sens qu'avec un modèle local plus grand. La documentation ne dit pas combien de mémoire demande chaque grande recette."
       ],
       "postParagraphs": [
-        "Hostinger peut afficher une autre devise et d'autres taxes selon votre pays : vérifiez le panier avant de payer. Le code **SONAR20** donne 20 % de réduction sur la première période, en forfait mensuel ou annuel ; nous n'avons pas testé le renouvellement avec le code. [Voyez comment fonctionne le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Hostinger est en pleine campagne Black Friday et les prix changent : [voyez la campagne](/fr/reviews/black-friday-hostinger-offres)."
+        "Le code SONAR20 donne 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. [Voyez comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et vérifiez le montant dans le panier avant de payer. Hostinger est en Black Friday, et les prix changent : [voyez la campagne](/fr/reviews/black-friday-hostinger-offres)."
       ]
     },
     {
       "heading": "VPS, faire tourner chez soi ou géré : quel scénario demande quoi",
       "paragraphs": [
-        "Les trois voies font tourner le même programme, OpenClaw, avec des coûts et des tâches différents. Le choix dépend de trois choses : voulez-vous vous occuper d'un serveur, l'ordinateur peut-il rester allumé 24 heures sur 24, et le modèle d'IA est-il dans le cloud ou sur votre propre matériel ?"
+        "Les trois voies font tourner le même programme, OpenClaw, avec des coûts et un travail différents. Le choix dépend de trois choses : si vous voulez toucher à un serveur, si l'ordinateur peut rester allumé 24 heures sur 24 et si le modèle d'IA est dans le cloud ou tourne sur votre matériel."
       ],
       "comparisonTable": {
         "headers": [
@@ -177,7 +167,7 @@
           [
             "Vous voulez l'assistant en service sans toucher à un serveur, avec une clé d'API ou des crédits Hostinger",
             "Géré",
-            "Hostinger installe et maintient l'assistant. Le 21 octobre 2026, 3,99 US$/mois avec le SONAR20, sur un forfait de 24 mois"
+            "Hostinger installe et maintient l'assistant"
           ],
           [
             "Vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n",
@@ -187,7 +177,7 @@
           [
             "Vous voulez faire tourner le modèle d'IA sur le serveur lui-même, sans clé de fournisseur",
             "VPS avec un forfait plus grand, ou un ordinateur de maison avec de la mémoire à revendre",
-            "La mémoire décide de tout. Voyez le calcul de RAM du modèle local, plus haut dans cet article"
+            "La mémoire décide de tout. Voyez le calcul de RAM du modèle local dans cet article"
           ],
           [
             "Vous voulez l'assistant seulement quand l'ordinateur de maison est allumé, avec une connexion stable",
@@ -202,56 +192,58 @@
         ]
       },
       "postParagraphs": [
-        "Sur le VPS, Hostinger installe OpenClaw avec Docker, un logiciel qui fait tourner chaque application isolée dans un conteneur, et la maintenance vous revient ensuite. Si vous ne voulez pas vous occuper d'un serveur, regardez l'offre [gérée](/fr/reviews/openclaw-hostinger-gere-ou-vps), où Hostinger installe et met à jour l'assistant."
+        "Sur le VPS, Hostinger installe OpenClaw avec Docker, un programme qui fait tourner chaque application isolée dans un conteneur. À partir de là, la maintenance est la vôtre.",
+        "Si vous ne voulez pas gérer un serveur, regardez l'[offre gérée](/fr/reviews/openclaw-hostinger-gere-ou-vps), où Hostinger installe et met à jour l'assistant."
       ]
     },
     {
       "heading": "Le VPS gratuit : Oracle Always Free",
       "paragraphs": [
-        "Oracle propose une offre gratuite, Always Free. Elle n'appartient pas à Hostinger et ne remplace pas le VPS payant, mais elle permet de tester OpenClaw sans payer. D'après la documentation d'Oracle, consultée le 21 octobre 2026 :"
+        "Vous pouvez tester gratuitement chez Oracle : l'Always Free n'est pas d'Hostinger, ne remplace pas le VPS payant et l'instance inactive peut être récupérée. D'après la documentation d'Oracle :"
       ],
       "bullets": [
         "Jusqu'à deux instances Micro (processeur AMD), avec 1/8 d'OCPU et 1 Go de mémoire chacune.",
-        "Instances Arm Ampere A1 : 2 OCPU et 12 Go de mémoire au total, que vous répartissez comme vous le souhaitez. La limite mensuelle est de 1 500 heures d'OCPU et de 9 000 Go-heures.",
-        "200 Go de stockage par blocs au total, pour les disques du système et les extras, avec jusqu'à cinq sauvegardes.",
-        "Les instances gratuites doivent être créées dans la région d'origine du compte. Les créer ailleurs génère des frais."
+        "Instances Arm Ampere A1 : 2 OCPU et 12 Go de mémoire au total, que vous répartissez comme vous voulez. La limite mensuelle est de 1 500 heures d'OCPU et de 9 000 Go-heures.",
+        "200 Go de stockage en blocs au total, pour les disques système et les disques supplémentaires, avec jusqu'à cinq sauvegardes.",
+        "Les instances gratuites doivent être créées dans la région d'origine du compte. En créer ailleurs est facturé."
       ],
       "postParagraphs": [
-        "La règle qui compte : Oracle dit pouvoir récupérer une instance inactive. Une instance est inactive lorsque, sur une période de 7 jours, l'usage du CPU au 95e percentile reste sous 20 %, celui du réseau aussi et, sur les A1, celui de la mémoire également. Un assistant qui reste à l'arrêt la plus grande partie du temps peut tomber sous cette règle. La documentation ne décrit pas de préavis avant la récupération."
+        "La règle qui pèse : Oracle dit pouvoir récupérer une instance inactive. Elle est considérée comme inactive quand, sur une période de 7 jours, l'utilisation du CPU au 95e centile reste sous 20 %, l'utilisation du réseau reste sous 20 % et, sur les A1, l'utilisation de la mémoire reste aussi sous 20 %. Un assistant qui reste au repos la plupart du temps peut tomber sous cette règle. La documentation ne décrit aucun préavis avant la récupération."
       ]
     },
     {
       "heading": "Lequel choisir, en résumé",
       "paragraphs": [
-        "Le choix du forfait dépend de l'endroit où tourne le modèle d'IA et de la part de travail serveur que vous acceptez."
+        "Le choix du forfait suit l'endroit où tourne le modèle d'IA et la part de travail de serveur que vous voulez assumer."
       ],
       "bullets": [
-        "Modèle dans le cloud, avec votre clé d'API ou les crédits Hostinger : KVM 1, avec 4 Go, comme point de départ, à 6,49 US$/mois sur un forfait de 24 mois avant la réduction du SONAR20.",
-        "Modèle local : KVM 4, avec 16 Go, le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB, à 12,99 US$/mois avant la réduction. Le KVM 8, avec 32 Go, n'a de sens qu'avec un modèle local plus grand.",
-        "Pour ne pas gérer de serveur : l'offre gérée, où Hostinger installe et met à jour l'assistant, à 3,99 US$/mois avec le SONAR20.",
-        "Pour tester gratuitement : Oracle Always Free, en sachant qu'Oracle peut récupérer une instance inactive."
+        "Modèle dans le cloud, via la clé d'API ou les crédits IA de Hostinger : KVM 1, avec 4 Go, comme point de départ.",
+        "Modèle local : KVM 4, avec 16 Go, le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB. Le KVM 8, avec 32 Go, n'a de sens qu'avec un modèle local plus grand.",
+        "Si vous ne voulez pas gérer un serveur : l'offre gérée, où Hostinger installe et met à jour l'assistant.",
+        "Pour tester sans payer : Oracle Always Free, en sachant qu'Oracle peut récupérer une instance inactive."
+      ]
+    },
+    {
+      "heading": "Code promo SONAR20",
+      "paragraphs": [],
+      "postParagraphs": [
+        "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. Vérifiez le montant dans le panier avant de payer, car le Black Friday change les prix. Voyez [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et [la page d'Hostinger sur le site](/fr/coupons/hostinger)."
       ]
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
         "Quel est le serveur minimum pour OpenClaw ? La documentation officielle ne publie ni minimum de RAM, de CPU ni de disque ; elle exige Node 24.16 ou plus récent (ou 26.1). Avec une clé d'API ou des crédits, le KVM 1 est le point de départ. Avec un modèle local, le plancher est de 8 GiB, et le KVM 4 est le premier avec de la marge.",
-        "Peut-on s'en passer, sans clé d'API ? Oui, avec un modèle local, mais alors la mémoire devient le problème : la documentation donne 8 GiB comme plancher de sa plus petite recette locale, avec un contexte de 64K, et prévient que cela ne garantit ni que le modèle tienne, ni qu'il tourne bien. Avec les crédits IA de Hostinger, vous n'avez pas besoin d'un compte chez un fournisseur d'IA, mais vous payez l'usage.",
-        "Oracle est-il vraiment gratuit ? Oui, tant que le compte reste dans Always Free : 2 OCPU et 12 Go sur l'Arm A1, plus les instances Micro. Une instance inactive pendant 7 jours, avec CPU, réseau et mémoire sous 20 %, peut être récupérée par Oracle.",
-        "Mac mini ou VPS ? Cela dépend de la possibilité de laisser l'ordinateur allumé 24 heures sur 24. Si c'est possible, faire tourner l'assistant chez soi supprime la mensualité du serveur ; sinon, choisissez un VPS ou l'offre gérée.",
-        "Existe-t-il un code promo Hostinger pour le VPS OpenClaw ? Oui : le code SONAR20 donne 20 % sur la première période, en forfait mensuel ou annuel. Collez-le dans le champ de coupon du panier."
-      ]
-    },
-    {
-      "heading": "Si vous avez déjà décidé",
-      "paragraphs": [
-        "Le code **SONAR20** donne 20 % sur la première période, en forfait mensuel ou annuel, pour un client nouveau ou existant ; collez-le dans le champ de coupon du panier. Nous n'avons pas testé le renouvellement. Pour les forfaits de 24 mois relevés le 21 octobre 2026, l'offre gérée coûte 3,99 US$/mois avec le SONAR20, et les KVM 1 et KVM 2 coûtent 6,49 et 8,79 US$/mois avant la réduction, qui apparaît dans le panier. Au renouvellement, le géré et le KVM 1 passent à 11,99 US$/mois, et le KVM 2 à 14,99 US$/mois. Vérifiez le montant dans le panier avant de payer, car le Black Friday change les prix. Voyez [le fonctionnement du code SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et [la page Hostinger du site](/fr/coupons/hostinger)."
+        "Peut-on s'en passer, sans clé d'API ? Oui, avec un modèle local, mais alors la mémoire devient le problème : la documentation donne 8 GiB comme plancher de sa plus petite recette locale, avec un contexte de 64K, et prévient que cela ne garantit ni que le modèle tienne, ni qu'il tourne bien. Avec les crédits de Hostinger, vous n'avez pas besoin d'un compte chez un fournisseur d'IA, mais vous payez l'usage.",
+        "Oracle est-il vraiment gratuit ? Oui, tant que le compte reste dans l'Always Free : 2 OCPU et 12 Go sur les A1 Arm, plus les instances Micro. Une instance inactive pendant 7 jours, avec CPU, réseau et mémoire sous 20 %, peut être récupérée par Oracle.",
+        "Mac mini ou VPS ? Cela dépend de la possibilité de laisser l'ordinateur allumé 24 heures sur 24. Si c'est possible, tourner chez soi supprime la mensualité du serveur ; sinon, choisissez un VPS ou l'offre gérée.",
+        "Existe-t-il un code promo Hostinger pour un VPS OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier."
       ]
     },
     {
       "heading": "Qui écrit",
       "paragraphs": [
-        "Em Casa com Cecília tourne sur Hostinger, en Node.js Web App, et Bruno est client depuis 2024, avec un hébergement et un VPS KVM 2. Personne dans l'équipe n'utilise OpenClaw : ce texte réunit ce que disent Hostinger, Oracle et la documentation officielle d'OpenClaw, consultées le 21 octobre 2026. Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous."
+        "Em Casa com Cecília tourne sur Hostinger, en Node.js Web App, et Bruno est client depuis 2024, avec un hébergement et un VPS KVM 2. Personne dans l'équipe n'utilise OpenClaw : ce texte rassemble ce que disent Hostinger, Oracle et la documentation officielle d'OpenClaw."
       ]
     }
   ],
@@ -265,11 +257,11 @@
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l'équipe n'utilise OpenClaw.",
+  "editorialNote": "Les achats avec le code SONAR20 ou via le lien peuvent rapporter une commission à Bruno, sans frais supplémentaires pour vous. Personne dans l'équipe n'utilise OpenClaw.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-gere-ou-vps",
-      "title": "OpenClaw chez Hostinger : géré ou VPS ? Prix, ce qu'exige chaque option et à qui elle convient"
+      "title": "OpenClaw chez Hostinger : géré ou VPS ? Ce qu'exige chaque option et à qui elle convient"
     },
     {
       "slug": "openclaw-ou-hermes-agent-que-choisir",
@@ -279,5 +271,16 @@
       "slug": "code-promo-hostinger-parrainage",
       "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Prenez le KVM 1, avec 4 Go, si le modèle d'IA reste chez le fournisseur, via la clé d'API ou les crédits IA de Hostinger.",
+      "Prenez le KVM 4, avec 16 Go, si vous allez faire tourner un modèle local : c'est le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB."
+    ],
+    "skipIf": [
+      "Évitez le KVM 1 si vous allez faire tourner un modèle local : 4 Go est sous le plancher officiel.",
+      "Évitez le VPS si vous ne voulez pas gérer un serveur : regardez l'offre gérée, où Hostinger installe et met à jour l'assistant.",
+      "Évitez le KVM 8 si vous n'allez pas utiliser un modèle local plus grand."
+    ]
+  }
 }

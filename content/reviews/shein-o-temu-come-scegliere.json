@@ -3,8 +3,8 @@
   "slug": "shein-o-temu-come-scegliere",
   "locale": "it",
   "translationKey": "shein-vs-shopee-temu",
-  "title": "SHEIN o Temu (e AliExpress): come scegliere (spedizione, resi, dogana e cosa controllare prima di comprare)",
-  "seoTitle": "SHEIN o Temu (e AliExpress): spedizione e resi",
+  "title": "SHEIN o Temu: come scegliere (spedizione, resi, dogana e cosa controllare prima di comprare)",
+  "seoTitle": "SHEIN o Temu: spedizione e resi",
   "type": "Guida comparativa",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,15 +15,15 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN o Temu (e AliExpress): cosa pubblicano i tre negozi in Italia su spedizione, tempi di consegna e resi (consultati il 12 e il 13/10/2026), cosa cambia con il dazio UE di 3 euro per categoria di prodotto sugli ordini spediti da fuori UE e cosa controllare prima di comprare. Senza confronto di prezzi e senza test delle consegne.",
-  "metaDescription": "SHEIN o Temu e AliExpress? Spedizione, tempi di consegna e resi per l'Italia (12 e 13/10/2026), dazio UE di 3 euro e cosa controllare prima di comprare.",
+  "description": "SHEIN e Temu a confronto: cosa pubblicano i due negozi in Italia su spedizione, tempi di consegna e resi, cosa cambia con il dazio UE di 3 euro per categoria di prodotto sugli ordini spediti da fuori UE e cosa controllare prima di comprare. Senza confronto di prezzi.",
+  "metaDescription": "SHEIN o Temu? Spedizione, tempi di consegna e resi per l'Italia, dazio UE di 3 euro e cosa controllare prima di comprare.",
   "publishedAt": "13 ottobre 2026",
   "publishedAtISO": "2026-10-13",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
-  "imageAlt": "Illustrazione di una tabella con i loghi di SHEIN, Temu e AliExpress in cima alle colonne e cinque righe segnate da icone: spedizione, tempi, reso, imposte e reputazione",
+  "imageAlt": "Illustrazione di una tabella con i loghi di SHEIN e Temu in cima alle colonne e cinque righe segnate da icone: spedizione, tempi, reso, imposte e reputazione",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -32,64 +32,71 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Non esiste un negozio migliore per tutti: la scelta dipende da cosa compri e da quanto conta poter restituire, e in Italia il termine più lungo per il reso è di 90 giorni, da Temu e AliExpress. Non misuriamo i prezzi e non testiamo le consegne. Il capitolo «Quale scegliere, a seconda dell'acquisto» qui sotto mostra cosa controllare in ogni caso."
+        "Non esiste un negozio migliore per tutti: la scelta dipende da cosa compri e da quanto conta poter restituire, e Temu è quello che concede più tempo, 90 giorni dall'acquisto. Non misuriamo i prezzi e non testiamo le consegne. Il capitolo «Quale scegliere, a seconda dell'acquisto» qui sotto mostra cosa controllare in ogni caso."
       ]
     },
     {
-      "heading": "SHEIN, Temu e AliExpress a confronto in Italia",
+      "heading": "SHEIN e Temu a confronto in Italia",
       "paragraphs": [
-        "Non esiste un negozio migliore per tutti: dipende da cosa compri e da quanto conta poter restituire. Questo articolo non misura i prezzi e non testa le consegne; la tabella raccoglie ciò che ogni negozio pubblica in Italia. Anche Amazon compare nelle ricerche, ma qui non è confrontato.",
-        "Fonti, consultate il 12 e il 13/10/2026: informativa sulla privacy e pagine su spedizione e resi del sito SHEIN per l'Italia; pagine su spedizione e resi di Temu per l'Italia; politica di reso di AliExpress e pagina prodotto di un vestito, con la consegna impostata sull'Italia. Il sito SHEIN per l'Italia è gestito da Infinite Styles Services Co., Limited («ISSL»)."
+        "Ciò che separa i due è il reso e il tempo di consegna: la tabella raccoglie ciò che ogni negozio pubblica in Italia.",
+        "Fonti, consultate il 12 e il 13/10/2026: informativa sulla privacy e pagine su spedizione e resi del sito SHEIN per l'Italia, e pagine su spedizione e resi di Temu per l'Italia."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-home-it-2026-10-12.webp",
-        "alt": "Pagina iniziale del sito SHEIN per l'Italia (it.shein.com), catturata il 12/10/2026, con la campagna del giorno",
-        "caption": "Pagina iniziale di it.shein.com il 12/10/2026, con la campagna del giorno.",
+        "alt": "Pagina iniziale del sito SHEIN per l'Italia (it.shein.com), con la campagna del giorno",
+        "caption": "Pagina iniziale di it.shein.com, con la campagna del giorno.",
         "objectFit": "contain"
       },
       "comparisonTable": {
-        "caption": "Spedizione, tempi di consegna e resi pubblicati da SHEIN, Temu e AliExpress per l'Italia, consultati il 12 e il 13/10/2026.",
+        "caption": "Spedizione, tempi di consegna e resi pubblicati da SHEIN e Temu per l'Italia, consultati il 12 e il 13/10/2026.",
         "headers": [
           "Criterio",
           "SHEIN",
-          "Temu",
-          "AliExpress"
+          "Temu"
         ],
         "rows": [
           [
             "Spedizione",
             "Standard: 4,49 € sotto i 25 €, gratis da 25 €. Express: 6,90 €",
-            "Standard e Click & Collect gratis dall'ordine minimo: 10 € per il primo ordine, 20 € per i successivi",
-            "gratis da 10 € sul vestito che abbiamo aperto"
+            "Standard e Click & Collect gratis dall'ordine minimo: 10 € per il primo ordine, 20 € per i successivi"
           ],
           [
             "Tempi di consegna",
             "Standard: 6-12 giorni lavorativi. Express: 6-11 giorni",
-            "indicati nella pagina del prodotto; preparazione in 1-3 giorni",
-            "stima nella pagina del prodotto: 7-12 giorni per il vestito che abbiamo aperto; rimborso se l'ordine non arriva entro 45 giorni"
+            "Indicati nella pagina del prodotto; preparazione in 1-3 giorni"
           ],
           [
             "Resi",
             "14 giorni di recesso per legge dal ricevimento; la maggior parte degli articoli fino a 30 giorni dal ricevimento secondo SHEIN; lingerie, biancheria intima e bigiotteria solo entro i 14 giorni",
-            "14 giorni di recesso per legge; 90 giorni dall'acquisto secondo Temu; il primo reso di ogni ordine è gratis, dal secondo paghi tu il costo del reso",
-            "90 giorni dall'ordine se il venditore spedisce dall'estero; 15 giorni dalla consegna se il venditore è in Italia; il vestito mostrava il reso gratuito entro 15 giorni"
+            "14 giorni di recesso per legge; 90 giorni dall'acquisto secondo Temu; il primo reso di ogni ordine è gratis, dal secondo paghi tu il costo del reso"
           ]
         ]
-      },
-      "postParagraphs": [
-        "I dati di AliExpress vengono da un solo vestito: tempi di consegna e reso gratuito cambiano da articolo ad articolo, quindi controllali nella pagina del prodotto."
-      ]
+      }
     },
     {
       "heading": "Dogana e imposte",
       "paragraphs": [
-        "Dal 1° luglio 2026 l'UE applica 3 euro di dazio doganale per categoria di prodotto sugli ordini fino a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce da fuori UE, quindi la dogana non decide tra SHEIN, Temu e AliExpress. La pagina prodotto di AliExpress mostrava che il prezzo include l'IVA e avvertiva che si applicano oneri di importazione. Controlla il totale al checkout prima di pagare."
+        "Dal 1° luglio 2026 l'UE applica 3 euro di dazio doganale per categoria di prodotto sugli ordini fino a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce da fuori UE, quindi la dogana non decide tra SHEIN e Temu.",
+        "Prima di pagare, controlla al checkout se il totale include le imposte e confronta quella cifra finale, non solo il prezzo dell'articolo."
       ]
     },
     {
-      "heading": "Cosa misurano le valutazioni",
+      "heading": "Il reso è dove i negozi si differenziano di più",
       "paragraphs": [
-        "I punteggi dei siti di reclami e di recensioni misurano come il negozio risponde a chi si lamenta, non la qualità del prodotto; il numero di reclami dipende dalle dimensioni del negozio. Trovi chi gestisce SHEIN e cosa si sa della sua reputazione nell'articolo sull'affidabilità di SHEIN."
+        "I termini per il reso pubblicati si contano in modo diverso: Temu li conta dall'acquisto, SHEIN dal ricevimento."
+      ],
+      "bullets": [
+        "**Temu:** 90 giorni dall'acquisto secondo la politica di Temu, e 14 giorni di recesso per legge. Il primo reso di ogni ordine è gratis; dal secondo paghi tu il costo del reso.",
+        "**SHEIN:** la maggior parte degli articoli fino a 30 giorni dal ricevimento secondo la politica di SHEIN, e 14 giorni di recesso per legge dal ricevimento. Lingerie, biancheria intima e bigiotteria si possono restituire solo entro i 14 giorni."
+      ]
+    },
+    {
+      "heading": "Prima di comprare: cosa controllare",
+      "bullets": [
+        "Il prezzo finale, con spedizione e imposte.",
+        "Il termine per il reso e se l'articolo è tra quelli con un termine più breve (su SHEIN Italia, per esempio, lingerie, biancheria intima e bigiotteria).",
+        "Chi vende: il negozio stesso o un venditore partner.",
+        "Il tempo di consegna indicato nell'ordine."
       ],
       "links": [
         {
@@ -99,19 +106,11 @@
       ]
     },
     {
-      "heading": "Prima di comprare: cosa controllare",
-      "bullets": [
-        "Il prezzo finale, con spedizione e imposte.",
-        "Il termine per il reso e se l'articolo è tra quelli con un termine più breve.",
-        "Chi vende: il negozio stesso o un venditore partner.",
-        "Il tempo di consegna indicato nell'ordine."
-      ]
-    },
-    {
       "heading": "Quale scegliere, a seconda dell'acquisto",
+      "emphasis": "Secondo i numeri della tabella, per chi compra vestiti senza provarli la scelta è Temu, perché dà 90 giorni per restituire.",
       "bullets": [
-        "**Vuoi poter restituire con calma:** confronta il termine per il reso, non solo il prezzo.",
-        "**Ti serve l'ordine entro una certa data:** controlla il tempo di consegna nella pagina del prodotto o dell'ordine. Su AliExpress la pagina del prodotto mostra la data stimata e l'ordine viene rimborsato se non arriva entro 45 giorni.",
+        "**Vuoi poter restituire con calma:** Temu, con 90 giorni dall'acquisto, o SHEIN, con la maggior parte degli articoli fino a 30 giorni dal ricevimento.",
+        "**Ti serve l'ordine entro una certa data:** controlla il tempo di consegna nella pagina del prodotto o dell'ordine.",
         "**L'acquisto arriva dall'estero:** guarda al checkout il totale con le imposte.",
         "**Paghi con carta, portafoglio digitale o a rate:** guarda i metodi di pagamento al checkout di ciascun negozio."
       ]
@@ -119,26 +118,21 @@
     {
       "heading": "Partnership e codice invito",
       "paragraphs": [
-        "Cecília è affiliata di SHEIN, di Temu e di AliExpress e può ricevere una commissione sugli acquisti fatti con i link di questo articolo, senza costi per te. Questo non cambia la risposta: la scelta dipende da cosa compri.",
-        "Il 4CW5Y è il codice invito di Cecília per SHEIN Brasile. Va digitato nella ricerca di SHEIN, non nel campo del coupon, e potrebbe non valere in Italia."
+        "Cecília è affiliata di SHEIN e di Temu e può ricevere una commissione sugli acquisti fatti con i link di questo articolo, senza costi per te. Questo non cambia la risposta: la scelta dipende da cosa compri.",
+        "Il 4CW5Y è il codice invito di Cecília su SHEIN. Va cercato nella barra di ricerca di SHEIN, non nel campo del coupon."
       ],
       "links": [
         {
-          "label": "Vedi il codice invito 4CW5Y e le campagne di SHEIN Brasile",
+          "label": "Vedi il codice invito 4CW5Y e le campagne di SHEIN",
           "href": "/it/coupons/shein"
         },
         {
-          "label": "Codice invito SHEIN Brasile: dove inserirlo e come usarlo",
+          "label": "Codice invito SHEIN: dove inserirlo e come usarlo",
           "href": "/it/reviews/codice-invito-shein-dove-inserirlo"
         },
         {
           "label": "Apri Temu",
           "href": "https://temu.to/k/glfwht5gllj",
-          "sponsored": true
-        },
-        {
-          "label": "Apri AliExpress",
-          "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
           "sponsored": true
         }
       ]
@@ -146,16 +140,14 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "SHEIN o Temu: qual è meglio? Dipende da cosa compri e da quanto conta poter restituire. Confronta il termine per il reso, il tempo di consegna nella pagina del prodotto e il prezzo finale con spedizione e imposte.",
+        "SHEIN o Temu: quale scegliere? Dipende da cosa compri e da quanto conta poter restituire: Temu dà 90 giorni dall'acquisto, e SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento.",
         "Quale costa meno, SHEIN o Temu? In questo articolo non misuriamo i prezzi. Confronta al checkout il prezzo finale di ogni articolo, con spedizione e imposte.",
         "Quale consegna più in fretta, SHEIN o Temu? Le consegne non le testiamo. SHEIN pubblica 6-12 giorni lavorativi per la spedizione Standard; Temu mostra il tempo nella pagina del prodotto (preparazione in 1-3 giorni). Controlla la data nella pagina del prodotto e nell'ordine.",
-        "SHEIN o Temu: qual è più sicuro? Non diamo un verdetto. Trovi chi gestisce SHEIN e cosa si sa della sua reputazione nel nostro articolo sull'affidabilità di SHEIN.",
+        "SHEIN o Temu: qual è la differenza? Temu dà più tempo per restituire, 90 giorni dall'acquisto, mentre SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento; spedizione e tempi di consegna sono nella tabella qui sopra.",
+        "SHEIN o Temu per i vestiti? Per i vestiti, pesa il reso: Temu dà 90 giorni dall'acquisto e SHEIN, per la maggior parte degli articoli, fino a 30 giorni dal ricevimento; lingerie, biancheria intima e bigiotteria di SHEIN si restituiscono solo entro i 14 giorni.",
+        "SHEIN e Temu pagano la dogana? Dal 1° luglio 2026 l'UE applica 3 euro per categoria di prodotto sugli ordini fino a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce così, quindi la dogana non decide tra SHEIN e Temu.",
         "SHEIN e Temu sono la stessa azienda? No. Sono negozi diversi, ciascuno con le proprie regole su spedizione, consegna e reso.",
-        "Quanto tempo ho per restituire un articolo SHEIN? In Italia hai 14 giorni di recesso per legge dal ricevimento e, secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire fino a 30 giorni dal ricevimento. Alcuni articoli, come lingerie, biancheria intima e bigiotteria, si possono restituire solo entro i 14 giorni.",
-        "Quanto tempo ho per restituire un articolo Temu? Hai 14 giorni di recesso per legge e, secondo la politica di Temu, 90 giorni dall'acquisto. Il primo reso di ogni ordine è gratis, dal secondo paghi tu il costo del reso.",
-        "È più veloce SHEIN o AliExpress? Le consegne non le testiamo. SHEIN pubblica 6-12 giorni lavorativi per la spedizione Standard; sul vestito che abbiamo aperto AliExpress stimava 7-12 giorni e rimborsa l'ordine se non arriva entro 45 giorni. Controlla la data nella pagina del prodotto.",
-        "A quanto ammonta il dazio UE sugli ordini spediti da fuori UE? Dal 1° luglio 2026 sono 3 euro per categoria di prodotto sugli ordini fino a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce così, quindi la dogana non decide tra SHEIN, Temu e AliExpress.",
-        "Il 4CW5Y è un coupon? No. È il codice invito di SHEIN Brasile: va digitato nella ricerca di SHEIN, non nel campo del coupon, e potrebbe non valere in Italia."
+        "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN, che si cerca nella barra di ricerca del negozio."
       ]
     }
   ],
@@ -167,7 +159,7 @@
   },
   "coupon": "4CW5Y",
   "affiliate": "shein",
-  "editorialNote": "Articolo editoriale. Possiamo ricevere una commissione sugli acquisti fatti con i link di SHEIN, Temu e AliExpress.",
+  "editorialNote": "Articolo editoriale. Possiamo ricevere una commissione sugli acquisti fatti con i link di SHEIN e Temu.",
   "relatedArticles": [
     {
       "slug": "shein-e-affidabile-e-sicuro",
@@ -175,11 +167,19 @@
     },
     {
       "slug": "black-friday-shein-date-e-tasse",
-      "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e l'imposta di importazione zero fino a US$ 50"
+      "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e come funzionano i coupon"
     },
     {
       "slug": "codice-invito-shein-dove-inserirlo",
-      "title": "Codice invito SHEIN Brasile: dove inserirlo e come usarlo"
+      "title": "Codice invito SHEIN: dove inserirlo e come usarlo"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Scegli Temu se compri vestiti senza provarli e vuoi il termine più lungo per restituirli: 90 giorni, contati dall'acquisto."
+    ],
+    "skipIf": [
+      "Lascia perdere SHEIN se vuoi restituire con più margine dei 30 giorni dal ricevimento che concede per la maggior parte degli articoli."
+    ]
+  }
 }

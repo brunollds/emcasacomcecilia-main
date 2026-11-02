@@ -33,17 +33,17 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "YesStyle publishes a delivery time and shipping cost for the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand. Standard takes 5 to 18 business days depending on the country, and shipping is free from US$ 35 to US$ 50. What differs by country is the tax; see \"Tax: what is already in the price and what is added at checkout\" below."
+        "YesStyle ships to the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand, with a published delivery time and shipping cost for each. Standard takes 5 to 18 business days depending on the country, and shipping is free from US$ 35 to US$ 50. What differs by country is the tax: see the table and the tax chapter below."
       ]
     },
     {
       "heading": "Delivery time and shipping cost in the US, UK, Canada, Australia, Ireland and New Zealand",
       "paragraphs": [
-        "This version covers the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand; the other language versions of this guide cover other countries. The figures come from YesStyle's shipping table, in force since October 13, 2026 (07:15 GMT) and read the same day, and from its tax pages for each region, read on October 12, 2026. Amounts are in US dollars, as the store publishes them.",
+        "Standard takes 7 to 11 business days in the US, 5 to 12 in the UK, 7 to 14 in Canada, 6 to 8 in Australia, 12 to 18 in Ireland and 7 to 14 in New Zealand, with amounts in US dollars, as the store publishes them. The table below comes from the shipping table in force since October 13, 2026 (07:15 GMT), read the same day; the tax details come from the store's tax pages, read on October 12, 2026.",
         "The time for the item to leave the warehouse, explained below, comes on top of the shipping time."
       ],
       "comparisonTable": {
-        "caption": "YesStyle delivery time and shipping cost for the US, UK, Canada, Australia, Ireland and New Zealand, from the table in force since October 13, 2026, read the same day.",
+        "caption": "YesStyle delivery time and shipping cost for the US, UK, Canada, Australia, Ireland and New Zealand, from the store's shipping table.",
         "headers": [
           "Country",
           "Shipping method and time",
@@ -123,12 +123,12 @@
     {
       "heading": "Free shipping: what counts toward the minimum",
       "paragraphs": [
-        "In the US, Standard is free from US$ 35 and Express from US$ 200; the minimums for the other countries are in the table above. Gift-wrapping fees do not count toward that total, as the table's note says. The US table also says health and beauty supplements ship only by Standard, so the store asks for separate orders when needed."
+        "In the US, Standard is free from US$ 35 and Express from US$ 200; the minimums for the other countries are in the table above. If you are just short, it is worth topping up the cart. Gift-wrapping fees do not count toward that total, as the table's note says. The US table also says health and beauty supplements ship only by Standard, so the store asks for separate orders when needed."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-frete-estados-unidos-2026-10-13.webp",
         "alt": "YesStyle shipping table for the United States: Express free from US$ 200, US$ 9 between US$ 80 and US$ 200 and US$ 20 below US$ 80, in 3 to 5 business days; Standard free from US$ 35 and US$ 6 below that, in 7 to 11 business days; tracking on both, with the notes that gift-wrapping fees are excluded from shipping rates and that health and beauty supplements only ship by Standard, and the date of October 13, 2026",
-        "caption": "The United States row in YesStyle's shipping table, in force since October 13, 2026 (07:15 GMT), with the note on gift wrapping.",
+        "caption": "The United States row in YesStyle's shipping table, with the note on gift wrapping.",
         "objectFit": "contain",
         "aspectRatio": 1.6146
       }
@@ -137,7 +137,7 @@
       "heading": "How delivery time is counted",
       "paragraphs": [
         "Every order ships from YesStyle's warehouse in Hong Kong. The total time is the time for the item to become available plus the shipping time, and the store counts both in business days, in Hong Kong time (GMT+8).",
-        "In the US, an order with in-stock items only takes 8 to 14 business days by Standard: 1 to 3 to leave the warehouse and 7 to 11 of shipping.",
+        "By our count, adding up the store's figures (1 to 3 business days to leave the warehouse and 7 to 11 of shipping): in the US, an order with in-stock items only takes 8 to 14 business days by Standard.",
         "If the payment needs verification, the count starts on the day the order is approved. Holidays and order peaks can also delay dispatch."
       ],
       "image": {
@@ -156,7 +156,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
         "alt": "YesStyle product page for the Dr. Althea 345 Relief Cream, priced at US$ 22.95 in a 15% off deal with a countdown, with the 2025 Version - 50ml option marked In-Stock, above the ADD TO BAG button",
-        "caption": "A product page on YesStyle on October 13, 2026, with the In-Stock availability next to the version. The price and the offer are those of that day.",
+        "caption": "A product page on YesStyle, with the In-Stock availability next to the version. The price and the offer are those of the day of the screenshot.",
         "objectFit": "contain",
         "aspectRatio": 2.1757
       },
@@ -195,7 +195,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
         "alt": "YesStyle page with the blue banner Refunds for customs-related taxes and fees incurred on all YesStyle orders under US$ 1,000 and item 1, which says the offer has been in effect since May 7, 2018, also for the equivalent amount in other currencies",
-        "caption": "YesStyle's refund page for customs-related taxes and fees, in force since May 7, 2018, read on October 13, 2026.",
+        "caption": "YesStyle's refund page for customs-related taxes and fees.",
         "objectFit": "contain",
         "aspectRatio": 3.5907
       },
@@ -242,7 +242,7 @@
     {
       "heading": "Partnership and Reward Code",
       "paragraphs": [
-        "CECILIA010 is Cecília's Reward Code on YesStyle: it goes in the Reward Code field at checkout and gives up to 5% off your first order and 2% off the following ones. It stacks with the store's own coupons. Today's coupons are on the YesStyle page on this site."
+        "CECILIA010 is Cecília's Reward Code on YesStyle: it goes in the Reward Code field at checkout and gives up to 5% off your first order and 2% off the following ones, stacking with the store's own coupons. Today's coupons are on the [YesStyle coupons and Reward Code](/en/coupons/yesstyle) page on this site."
       ],
       "links": [
         {
@@ -254,7 +254,7 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Does YesStyle ship to the US, UK, Canada, Australia, Ireland and New Zealand? Yes. All six countries are in the store's shipping table, in force since October 13, 2026.",
+        "Does YesStyle ship to the US, UK, Canada, Australia, Ireland and New Zealand? Yes. All six countries are in the store's shipping table.",
         "How long does YesStyle delivery take? The standard method takes 7 to 11 business days in the US, 5 to 12 in the UK, 7 to 14 in Canada, 6 to 8 in Australia, 12 to 18 in Ireland and 7 to 14 in New Zealand. Express takes 3 to 5 business days in the US, UK, Australia and New Zealand. In the US, an order with in-stock items only takes 8 to 14 business days by Standard: 1 to 3 to leave the Hong Kong warehouse and 7 to 11 of shipping.",
         "When is shipping free at YesStyle? Not counting gift wrapping, the standard method is free from US$ 35 in the US, Australia and New Zealand, from US$ 50 in the UK and Canada, and from US$ 45 in Ireland. Express is free from US$ 200 in the US and from US$ 100 in the UK, Australia and New Zealand.",
         "Does YesStyle charge taxes or duties? In the UK, Australia, Ireland and New Zealand, the VAT or GST is already in the price (20% in the UK, 10% in Australia, 23% in Ireland and 15% in New Zealand). In the US, sales tax and Import Fees are added at checkout. In Canada, only Saskatchewan has a 6% PST added at checkout.",

@@ -265,6 +265,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o OpenClaw se você quer muitos canais de mensagem e aplicativos nativos para celular e computador.",
+      "Leve o Hermes Agent se você quer um agente que aprende com o uso: ele organiza a própria memória e cria e melhora as próprias habilidades."
+    ],
+    "skipIf": [
+      "Passe no OpenClaw se o que você quer é um agente que aprende com o uso.",
+      "Passe na instalação própria se você não quer cuidar de servidor: o gerenciado, nos dois, é instalado e atualizado pela Hostinger."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

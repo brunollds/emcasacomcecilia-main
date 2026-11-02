@@ -30,74 +30,69 @@
       "initials": "BL"
     }
   ],
-  "description": "Die Black-Friday-Aktion bei Hostinger läuft vom 19. Oktober bis 14. Dezember 2026, laut FAQ des Unternehmens. Der Code SONAR20 zieht weitere 20 % vom Aktionspreis ab. So sehen Sie die Rechnung vor dem Zahlen.",
-  "metaDescription": "Hostinger Black Friday 2026: Aktion vom 19.10. bis 14.12. laut offizieller FAQ. SONAR20 zieht weitere 20 % vom Aktionspreis ab; die Verlängerung haben wir mit dem Code nicht getestet.",
+  "description": "Der Black Friday von Hostinger läuft vom 19. Oktober bis zum 14. Dezember 2026. Der Gutscheincode SONAR20 zieht weitere 20 % vom Aktionspreis ab. Hier steht der Verlängerungspreis und wie Sie vor dem Bezahlen nachprüfen.",
+  "metaDescription": "Hostinger Black Friday 2026: Aktion vom 19. Oktober bis 14. Dezember, und der Gutscheincode SONAR20 zieht weitere 20 % vom Aktionspreis ab. Verlängerung und Prüfung.",
   "publishedAt": "19. Oktober 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": false,
+  "isNew": true,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
-  "imageAlt": "Die Logos von OpenClaw, Hermes Agent und Paperclip mit dem Hostinger-Logo, dem Titel Black Friday 2026 und Symbolen für Preisschild und Kalender",
+  "imageAlt": "Logos von OpenClaw, Hermes Agent und Paperclip, dazu das Hostinger-Logo, der Titel Black Friday 2026 und Symbole für Preisschild und Kalender",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
     {
-      "heading": "Kurze Antwort",
+      "heading": "Kurzantwort",
       "paragraphs": [
-        "Laut der FAQ von Hostinger läuft die Black-Friday-Aktion vom 19. Oktober bis 14. Dezember 2026. Der Aktionspreis wird automatisch angewendet, und der Code **SONAR20** im Gutscheinfeld des Warenkorbs zieht weitere 20 % davon ab. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb. Wie Sie das prüfen, steht unter „So prüfen Sie vor dem Kauf“."
+        "Ja, der Black Friday von Hostinger hat schon begonnen und läuft bis zum 14. Dezember 2026. Der Aktionspreis gilt automatisch, und der Code **SONAR20** zieht im Gutscheinfeld des Warenkorbs weitere 20 % davon ab. Was die Rechnung verändert, ist die Verlängerung, die weiter unten erklärt wird."
       ]
     },
     {
-      "heading": "Hat das Black Friday bei Hostinger schon begonnen?",
+      "heading": "Hat der Black Friday von Hostinger schon begonnen?",
       "paragraphs": [
-        "Ja, laut Hostinger. Am 19. Oktober 2026 hieß es in der offiziellen FAQ des Unternehmens, dass die Black-Friday-Aktion vom 19. Oktober bis 14. Dezember 2026 läuft, und am 24. Oktober 2026 zeigte die englische Black-Friday-Weltseite dieselben Daten. Wenn Sie das später lesen, prüfen Sie die aktuellen Daten auf der Website von Hostinger.",
-        "Die Banner von Hostinger zeigen einen Rabatt mit „bis zu“ davor. Das ist der Höchstwert des Banners, nicht der Rabatt für jeden Tarif. Den Rabatt jedes Tarifs finden Sie auf der Preisseite Ihrer Region.",
-        "Dieser Text behandelt nur die Aktion 2026. Frühere Ausgaben sind ausgenommen: Die Quellen, die wir geprüft haben, nannten unterschiedliche Daten und Prozentsätze, und keine stammte von Hostinger selbst."
-      ]
+        "Ja. Die offizielle FAQ von Hostinger sagt: „Die Black-Friday-Aktion von Hostinger läuft vom 19. Oktober bis zum 14. Dezember 2026.“ Die globale Seite auf Englisch nennt dasselbe Datum.",
+        "Das Banner der Webhosting-Seite sagt „Bis zu 82 % Rabatt“. Das ist die Obergrenze des Banners, nicht der Rabatt jedes Tarifs: Beim Single mit 48 Monaten beträgt der Rabatt 80 %. Das VPS-Banner sagt „Bis zu 70 % Rabatt“, und VPS bleibt in der Rechnung dieses Textes außen vor, wie weiter unten erklärt.",
+        "Die folgenden Zahlen betreffen nur die Aktion 2026 und stammen von der offiziellen Seite."
+      ],
+      "images": []
     },
     {
-      "heading": "Was SONAR20 zur Aktion dazugibt",
-      "paragraphs": [
-        "Der Code wird auf den Preis angewendet, den die Aktion anzeigt, nicht auf den Listenpreis. Im Test vom 29.10.2026 auf der globalen Hostinger-Seite sank der Startup-Tarif über 48 Monate von US$ 383,52 auf US$ 306,82, als SONAR20 im Warenkorb stand. Die 20 % kamen also zu dem hinzu, was die Aktion schon abgezogen hatte. Dieser Tarif akzeptierte den Link nicht; der Code wirkte allein.",
-        "Andere Laufzeiten und Tarife haben wir nicht gelesen, deshalb nennen wir dazu keine Beträge. Preise unterscheiden sich nach Region und ändern sich während der Aktion. Was der Code abdeckt und wo er eingetragen wird, steht in [Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt](/de/reviews/hostinger-gutschein-empfehlungscode)."
+      "heading": "Was die Aktion und SONAR20 kosten",
+      "postParagraphs": [
+        "Der Rabatt wird auf den Aktionspreis angerechnet. Auf der globalen Seite sank der Startup-Tarif mit 48 Monaten mit SONAR20 im Gutscheinfeld („Have a coupon code?“) von 383,52 US$ auf 306,82 US$.",
+        "Wo Sie den Code einfügen und was bei der Verlängerung mit dem Rabatt passiert, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
       ]
     },
     {
       "heading": "Wer warten sollte und wer nicht",
       "paragraphs": [
-        "Wenn Ihre Website diese Woche online sein muss, warten Sie nicht. Die Aktion läuft, und SONAR20 kommt obendrauf. Prüfen Sie den Gesamtbetrag im Warenkorb und entscheiden Sie dann.",
-        "Wenn Sie warten können, beachten Sie: Die Aktion läuft bis 14. Dezember 2026, doch bis dahin ist kein Preis garantiert. Die 20 % von SONAR20 gehen vom Aktionspreis ab; ändert sich der Aktionspreis, ändert sich auch der Betrag. Unsere Einschätzung: Warten lohnt sich nur, wenn Sie einen niedrigeren Aktionspreis für Ihren Tarif erwarten, und Hostinger nennt dafür keinen Zeitplan.",
-        "Für die meisten privaten, geschäftlichen und WordPress-Seiten nennt die FAQ von Hostinger selbst den Tarif Premium. Die Seite bezeichnet den Single-Tarif als ideal für Einsteiger oder einfache Projekte. Zum VPS haben wir keinen Vergleich: Wir haben den VPS-Preis weder mit noch ohne Code geprüft.",
-        "Bestandskunden sind in einer anderen Lage. Die FAQ sagt, dass bestehende Kunden getrennte Angebote für Upgrades und Cross-Selling erhalten können. SONAR20 gilt auch für Bestandskunden, bei einem neuen Tarif; die Verlängerung haben wir mit dem Code nicht getestet. Bruno, der diese Seite betreut, ist seit 2024 Hostinger-Kunde. Seine Tarife sind Business-Webhosting, ein VPS KVM 2, E-Mail und Domains, alle mit automatischer Verlängerung. Em Casa com Cecília läuft auf Hostinger."
+        "Wenn Sie Ihre Website noch diese Woche online brauchen, warten Sie nicht. Bei den 48-Monats-Tarifen, die wir geprüft haben, ist die Aktion mit SONAR20 schon der niedrigste Preis.",
+        "Wenn Sie warten können, bedenken Sie: Die Aktion läuft bis Mitte Dezember, aber bis dahin ist kein Preis garantiert. Die 20 % von SONAR20 werden vom Aktionspreis abgezogen: Ändert sich die Aktion, ändert sich auch die Summe.",
+        "Für die meisten privaten, geschäftlichen und WordPress-Websites empfiehlt die FAQ selbst den Premium. Hostinger empfiehlt den Single für alle, die gerade anfangen oder einfache Projekte haben. Für VPS rechnen Sie im Warenkorb nach: Das Banner nennt bis zu 70 %, und die Rechnung dieses Textes deckt diesen Tarif nicht ab.",
+        "Wenn Sie schon Kunde sind, prüfen Sie die Upgrade-Angebote in Ihrem Konto: Laut FAQ können Bestandskunden gesonderte Angebote erhalten. SONAR20 gilt auch für einen neuen Tarif. Bruno, der diese Website betreut, ist seit 2024 Hostinger-Kunde, mit mehr als 24 Monaten Laufzeit. Seine Tarife sind Business-Hosting, VPS KVM 2, E-Mail und Domains, alle mit automatischer Verlängerung. Em Casa com Cecília läuft bei Hostinger."
       ]
     },
     {
-      "heading": "So prüfen Sie vor dem Kauf",
+      "heading": "So prüfen Sie vor dem Bezahlen nach",
       "bullets": [
         "Öffnen Sie [Hostinger auf der Shopseite dieser Website](/de/coupons/hostinger) und kopieren Sie den Code SONAR20.",
-        "Fügen Sie im Warenkorb SONAR20 ins Gutscheinfeld ein und sehen Sie, wie die 20 % auf den Aktionspreis wirken.",
-        "Vergleichen Sie den Gesamtbetrag des ersten Zeitraums, nicht nur den Monatspreis. Der Gesamtbetrag zeigt den tatsächlichen Unterschied.",
-        "Prüfen Sie den Verlängerungspreis, bevor Sie abschließen. Hostinger zeigt ihn vor der Zahlung an, und er ist nicht der Aktionspreis."
+        "Fügen Sie im Warenkorb SONAR20 in das Gutscheinfeld ein und sehen Sie, wie der Rabatt von 20 % auf den Aktionspreis erscheint.",
+        "Vergleichen Sie die Summe für den ersten Zeitraum, nicht nur den Monatspreis. Die Summe zeigt den tatsächlichen Unterschied.",
+        "Prüfen Sie den Verlängerungspreis, bevor Sie abschließen. Hostinger zeigt ihn vor der Zahlung an, und er entspricht nicht dem Aktionspreis. Auch die 20 % von SONAR20 gelten nur für den ersten Zeitraum."
       ],
       "postParagraphs": [
-        "Bevor Sie zahlen, finden Sie die Bewertungen und Beschwerden des Unternehmens unter [Hostinger auf Trustpilot: Bewertung, Beschwerden und was 200 Bewertungen zeigen](/de/reviews/hostinger-trustpilot-bewertungen), und was die Garantie abdeckt und was nicht, steht unter [Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten](/de/reviews/ist-hostinger-serioes)."
+        "Was die Garantie abdeckt und was sie ausschließt, steht vor dem Bezahlen in [Ist Hostinger zuverlässig?](/de/reviews/ist-hostinger-serioes)."
       ]
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Braucht das Black Friday bei Hostinger einen Gutschein? Der Aktionspreis gilt automatisch. Der Code SONAR20 im Gutscheinfeld zieht weitere 20 % ab. Hostinger sagt, dass einige Kanäle Aktionen mit eigenem Code haben, und wir nennen hier keinen anderen.",
-        "Wie lange läuft das Black Friday bei Hostinger? Bis 14. Dezember 2026, laut der offiziellen FAQ, abgerufen am 24. Oktober 2026.",
-        "Gilt der Aktionspreis auch bei der Verlängerung? Nein. Er gilt für die erste Laufzeit des Abos. Den Verlängerungspreis sehen Sie im Warenkorb.",
-        "Gilt SONAR20 zusammen mit dem Aktionspreis? Ja: Im Test vom 29.10.2026 wurden die 20 % vom Preis der Aktion abgezogen. Da sich der Preis ändert, prüfen Sie den Gesamtbetrag im Warenkorb.",
-        "Gilt die Erstattungsgarantie auch während des Black Friday? Die FAQ sagt, dass berechtigte Tarife eine 30-tägige Garantie haben, mit Bedingungen und Ausnahmen. Was ausgenommen ist, steht unter [Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten](/de/reviews/ist-hostinger-serioes)."
-      ]
-    },
-    {
-      "heading": "Transparenzhinweis",
-      "paragraphs": [
-        "Dieser Artikel nutzt den Code SONAR20 und den Link von Hostinger, dem Unternehmen, das die Website Em Casa com Cecília hostet. Käufe mit dem Code oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Die Aktionsdaten und der FAQ-Text wurden am 19. Oktober 2026 gelesen, die Daten am 24. Oktober 2026 auf der englischen Black-Friday-Weltseite erneut geprüft, und der Test mit SONAR20 fand am 29. Oktober 2026 auf der globalen Seite statt. Aktionen und Preise ändern sich: Prüfen Sie den Warenkorb, bevor Sie zahlen."
+        "Gibt es zum Black Friday von Hostinger einen Gutschein? Der Aktionspreis gilt automatisch, und der Code SONAR20 zieht im Gutscheinfeld des Warenkorbs weitere 20 % davon ab. Codes anderer Websites nennen wir nicht.",
+        "Bis wann läuft der Black Friday von Hostinger? Laut der offiziellen FAQ bis Mitte Dezember; das genaue Datum steht am Anfang des Artikels.",
+        "Gilt der Black-Friday-Preis auch bei der Verlängerung? Nein. Er gilt für den ersten Zeitraum des Abonnements. Die Verlängerung kostet den normalen Preis des Tarifs.",
+        "Gilt SONAR20 zusammen mit dem Black-Friday-Preis? Ja: In unserem Test wurden die 20 % vom Aktionspreis abgezogen. Da sich der Preis ändert, prüfen Sie die Summe im Warenkorb.",
+        "Gilt die Geld-zurück-Garantie am Black Friday? Laut FAQ haben berechtigte Tarife eine 30-Tage-Garantie, mit Bedingungen und Ausschlüssen. Was sie ausschließt, steht in [Ist Hostinger zuverlässig?](/de/reviews/ist-hostinger-serioes)."
       ]
     }
   ],
@@ -111,7 +106,7 @@
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Prüfen Sie den Gesamtbetrag im Warenkorb, bevor Sie zahlen.",
+  "editorialNote": "Hostinger hostet diese Website. Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Prüfen Sie die Summe im Warenkorb, bevor Sie bezahlen.",
   "relatedArticles": [
     {
       "slug": "ist-hostinger-serioes",

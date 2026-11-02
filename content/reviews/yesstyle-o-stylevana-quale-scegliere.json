@@ -4,7 +4,7 @@
   "locale": "it",
   "translationKey": "yesstyle-vs-alternatives",
   "title": "YesStyle o Stylevana: spedizione, dogana e resi a confronto, con Olive Young, StyleKorean e Jolse",
-  "seoTitle": "YesStyle o Stylevana: spedizione, dogana e resi in Italia",
+  "seoTitle": "YesStyle o Stylevana: spedizione, dogana e resi",
   "type": "Confronto tra negozi",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,12 +15,12 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle, Stylevana, Olive Young, StyleKorean e Jolse a confronto per l'Italia: chi spedisce, da quanto la spedizione è gratuita, chi paga le imposte e cosa accetta indietro ogni negozio, secondo le pagine ufficiali.",
-  "metaDescription": "YesStyle o Stylevana in Italia? Tempi di spedizione, spedizione gratuita, imposte e resi, con Olive Young, StyleKorean e Jolse, dalle pagine ufficiali.",
+  "description": "YesStyle, Stylevana, Olive Young, StyleKorean e Jolse a confronto per il Portogallo: chi spedisce, da quale importo la spedizione è gratuita, chi paga le imposte e cosa accetta indietro ogni negozio, dalle pagine ufficiali.",
+  "metaDescription": "YesStyle o Stylevana? Spedizione, spedizione gratuita, imposte e resi per il Portogallo, con Olive Young, StyleKorean e Jolse, dalle pagine ufficiali.",
   "publishedAt": "13 ottobre 2026",
   "publishedAtISO": "2026-10-13",
   "draft": false,
-  "isNew": false,
+  "isNew": true,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
   "imageAlt": "Cecília con il tubetto della crema PDRN Volume Fill-it di Abib, inviata da YesStyle, con il logo YesStyle e il titolo YesStyle vs Stylevana",
@@ -32,58 +32,60 @@
     {
       "heading": "In breve",
       "paragraphs": [
-        "Non c'è un negozio adatto a tutti: la scelta cambia con il paese, con chi paga le imposte e con quello che il negozio accetta indietro. In Italia YesStyle e Stylevana pubblicano i tempi di spedizione, mentre Olive Young Global spedisce senza tempi pubblicati. Le tabelle mostrano i dettagli; «Quale scegliere» dà la scelta per paese."
+        "Non esiste un negozio migliore per tutti: la scelta cambia con il paese, con chi paga le imposte e con ciò che il negozio accetta indietro. In Portogallo tutti e cinque i negozi spediscono; decidi in base a imposte e resi, con le tabelle qui sotto."
       ]
     },
     {
-      "heading": "Chi spedisce in Italia",
-      "paragraphs": [
-        "Questo articolo non confronta i prezzi e non testa i negozi concorrenti: le tabelle riuniscono ciò che ogni negozio pubblica sulle sue pagine ufficiali, lette il 12/10/2026. Non c'è un negozio adatto a tutti, perché la scelta cambia con il paese, con chi paga le imposte e con quello che il negozio accetta indietro. In Italia YesStyle e Stylevana pubblicano i tempi di spedizione in giorni lavorativi. Olive Young Global consegna in Italia (selettore del paese del sito, letto il 21/10/2026), ma la sua tabella di spedizione non riporta tempi per l'Italia; StyleKorean e Jolse non pubblicano i tempi per paese. La spedizione gratuita parte da importi diversi in ogni negozio."
-      ],
+      "heading": "Chi spedisce in Portogallo",
       "comparisonTable": {
-        "caption": "Tempi di spedizione e soglia della spedizione gratuita di YesStyle, Stylevana, Olive Young Global, StyleKorean e Jolse per l'Italia, dalle pagine ufficiali lette il 12/10/2026.",
+        "caption": "Tempi, spedizione e imposte di YesStyle, Stylevana, StyleKorean e Jolse per il Portogallo, dalle pagine ufficiali.",
         "headers": [
           "Negozio",
-          "Tempi di spedizione",
-          "Spedizione gratuita"
+          "Tempi",
+          "Spedizione gratuita",
+          "Imposte"
         ],
         "rows": [
           [
             "YesStyle",
-            "Standard, 10–15 giorni lavorativi",
-            "da US$ 45"
+            "Standard, da 10 a 15 giorni lavorativi",
+            "da US$ 60; US$ 5 sotto",
+            "IVA al 23% già nel prezzo"
           ],
           [
             "Stylevana",
-            "Standard, 8–14 giorni lavorativi; nelle zone remote si pagano € 17 in più",
-            "da € 47"
+            "Standard, da 6 a 11 giorni lavorativi; non spedisce nelle aree remote",
+            "da € 59; € 4,39 sotto",
+            "il negozio non elenca i paesi con l'imposta inclusa"
           ],
           [
             "Olive Young Global",
-            "nessun tempo nella tabella di spedizione per l'Italia; l'Italia è nel selettore del paese",
-            "da US$ 60; US$ 25 sotto questa cifra"
+            "non pubblicati per il Portogallo; il negozio prepara e imballa l'ordine in 1–3 giorni lavorativi",
+            "da US$ 60; US$ 25 sotto",
+            "IVA e imposta di € 3 per categoria doganale addebitate al checkout"
           ],
           [
             "StyleKorean",
-            "non pubblica i tempi per paese; affida il pacco al corriere entro 5 giorni lavorativi",
-            "da US$ 80"
+            "non pubblicati per paese; il negozio consegna l'ordine al corriere entro 5 giorni lavorativi",
+            "da US$ 80",
+            "a carico del cliente"
           ],
           [
             "Jolse",
-            "non pubblica i tempi",
-            "senza imposte: US$ 4,99, gratis sopra US$ 43; con IVA al 22% inclusa: US$ 4,99, gratis sopra US$ 50"
+            "non pubblicati",
+            "sopra US$ 60; US$ 6,99 sotto",
+            "spedizione con l'IVA al 23% inclusa"
           ]
         ]
       },
-      "postParagraphs": [
-        "La pagina di spedizione di Olive Young Global elenca anche “altre regioni” senza nominarle; l'elenco completo delle destinazioni è nel selettore del paese del sito.",
-        "La Olive Young Global consegna in Italia (selettore del paese del sito, letto il 21/10/2026), ma la sua pagina di spedizione non ha una riga per l'Italia: il tempo non è pubblicato e vale la regola generale delle FAQ, spedizione gratuita da US$ 60 e US$ 25 di spedizione sotto questa cifra."
+      "paragraphs": [
+        "Olive Young Global spedisce in Portogallo (selettore di destinazione del sito, letto il 21/10/2026), ma la sua pagina sulle spedizioni non ha una riga per il paese: i tempi non sono pubblicati, e la spedizione segue la regola generale delle sue FAQ."
       ]
     },
     {
       "heading": "Chi paga le imposte",
       "comparisonTable": {
-        "caption": "Quando ogni negozio addebita l'imposta e se rimborsa le spese doganali, dalle pagine ufficiali lette il 12/10/2026.",
+        "caption": "Quando ogni negozio addebita l'imposta e se rimborsa i dazi doganali, dalle pagine ufficiali.",
         "headers": [
           "Negozio",
           "Quando l'imposta viene addebitata",
@@ -92,46 +94,49 @@
         "rows": [
           [
             "YesStyle",
-            "IVA al 22% già nel prezzo; la tassa UE di € 3 la paga YesStyle, al momento",
-            "rimborsa le imposte addebitate alla consegna sugli ordini sotto US$ 1.000, come credito nel negozio; non l'IVA già pagata"
+            "Portogallo: IVA già nel prezzo",
+            "sì, sugli ordini sotto US$ 1.000, come credito nel negozio"
           ],
           [
             "Stylevana",
-            "il negozio dice che in molte regioni l'imposta è già nel prezzo o viene calcolata al checkout, senza dire quali; il sito dell'Italia non dice chi la paga",
-            "il sito dell'Italia non riporta alcun rimborso delle imposte"
+            "il negozio dice che, in molte regioni, l'imposta è già nel prezzo o calcolata al checkout, senza elencare le regioni",
+            "il sito del Portogallo non lo pubblica"
           ],
           [
             "Olive Young Global",
-            "nell'UE, dagli ordini del 31/07/2026, IVA e € 3 per voce doganale vengono addebitati al checkout, e il negozio dice che alla consegna non si paga altro; negli altri paesi, prezzo e spedizione non includono imposte",
-            "nell'Unione Europea non rimborsa dazi doganali, IVA né oneri di importazione"
+            "nell'Unione europea, IVA e € 3 per categoria doganale vengono addebitati al checkout, e il negozio dice che alla consegna non si paga altro; negli altri paesi, prezzo e spedizione non includono le imposte",
+            "nell'Unione europea, non rimborsa dazi doganali, IVA né oneri di importazione"
           ],
           [
             "StyleKorean",
-            "le imposte doganali sono a carico del cliente",
-            "non pubblicato; se il cliente rifiuta di pagare l'imposta, il pacco torna indietro o viene eliminato, senza rimborso"
+            "i dazi doganali sono a carico del cliente; negli USA e in Canada, vengono calcolati e addebitati al checkout",
+            "non pubblicato; se il cliente rifiuta di pagare l'imposta, il pacco torna indietro o viene distrutto, senza rimborso né rispedizione"
           ],
           [
             "Jolse",
-            "opzione con IVA inclusa; con l'opzione senza imposte, quanto viene addebitato è a carico dell'acquirente",
-            "non pubblica rimborsi; imposte e spese doganali restano a carico del cliente"
+            "Portogallo: spedizione con l'IVA al 23% inclusa",
+            "non pubblica rimborsi; il cliente risponde di imposte e dazi doganali"
           ]
         ]
-      }
+      },
+      "postParagraphs": [
+        "YesStyle è l'unico dei cinque a pubblicare un rimborso delle imposte. Vale per le imposte e i dazi addebitati alla consegna, non per l'IVA già pagata al checkout."
+      ]
     },
     {
       "heading": "Resi e prodotti aperti",
       "paragraphs": [
-        "In tutti e cinque i negozi, un prodotto di bellezza aperto non si può restituire per ripensamento. Cambiano il termine per chiedere il reso e quello che ogni negozio accetta."
+        "In tutti e cinque i negozi, un prodotto di bellezza aperto non si restituisce per ripensamento. Cambiano il termine e ciò che ognuno accetta."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
         "alt": "Illustrazione di una scatola aperta e di una freccia di reso, con una X nell'angolo",
-        "caption": "Su YesStyle, Stylevana, Olive Young Global, StyleKorean e Jolse, un prodotto di bellezza aperto non si può restituire per ripensamento.",
+        "caption": "Da YesStyle, Stylevana, Olive Young Global, StyleKorean e Jolse, un prodotto di bellezza aperto non si restituisce per ripensamento.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
       "comparisonTable": {
-        "caption": "Termine per il reso, cosa accetta indietro ogni negozio e come rimborsa, dalle pagine ufficiali lette il 12/10/2026.",
+        "caption": "Termine per il reso, cosa accetta indietro ogni negozio e come rimborsa, dalle pagine ufficiali.",
         "headers": [
           "Negozio",
           "Termine per chiedere il reso",
@@ -154,19 +159,19 @@
           [
             "Olive Young Global",
             "30 giorni dalla ricezione",
-            "solo difetto o articolo sbagliato; nessun cambio",
-            "sul metodo di pagamento, con la spedizione del reso a carico del negozio"
+            "solo difetto o articolo sbagliato; nessuna sostituzione",
+            "sul metodo di pagamento, con la spedizione del reso pagata dal negozio"
           ],
           [
             "StyleKorean",
             "14 giorni lavorativi",
             "prodotto sigillato e mai usato; nessun reso per allergia",
-            "punti o metodo di pagamento, con le spese di spedizione detratte"
+            "punti o metodo di pagamento, con la spedizione detratta"
           ],
           [
             "Jolse",
             "7 giorni dalla ricezione, con foto",
-            "solo difetto, articolo sbagliato o mancante; gli articoli aperti o usati non si restituiscono",
+            "solo difetto, articolo sbagliato o mancante; l'articolo aperto o usato non si restituisce",
             "dopo che l'articolo è tornato in Corea"
           ]
         ]
@@ -175,44 +180,63 @@
     {
       "heading": "StyleKorean: spedizione gratuita per paese e limite d'ordine",
       "paragraphs": [
-        "Tutti gli ordini della StyleKorean partono da un magazzino in Corea e vengono affidati al corriere entro 5 giorni lavorativi. La spedizione è calcolata in base al peso e non è inclusa nel prezzo del prodotto. La spedizione gratuita vale solo per i prodotti di bellezza: album e prodotti K-pop ne restano esclusi (pagina di spedizione letta il 21/10/2026).",
-        "L'ordine ha un limite di US$ 500, senza la spedizione; sopra questa cifra il negozio chiede di dividere l'ordine in due. Non spedisce a caselle postali né a indirizzi militari (APO, FPO e DPO)."
+        "Da StyleKorean la spedizione si calcola in base al peso e non è inclusa nel prezzo del prodotto: gli ordini partono da un magazzino in Corea e passano al corriere entro 5 giorni lavorativi. La spedizione gratuita vale solo per i prodotti di bellezza: album e prodotti K-pop ne restano fuori.",
+        "L'ordine ha un limite di US$ 500, spedizione esclusa; oltre, il negozio chiede di dividerlo in due ordini. Non spedisce nemmeno a caselle postali né a indirizzi militari (APO, FPO e DPO)."
       ],
       "comparisonTable": {
-        "caption": "Spedizione gratuita della StyleKorean per l'Italia, dalla tabella della pagina di spedizione letta il 21/10/2026.",
+        "caption": "Spedizione gratuita di StyleKorean per paese, dalla tabella della pagina sulle spedizioni.",
         "headers": [
           "Spedizione gratuita da",
           "Paesi"
         ],
         "rows": [
           [
+            "US$ 60",
+            "Stati Uniti, Canada, Australia e Israele"
+          ],
+          [
+            "US$ 70",
+            "Taiwan, Hong Kong, Singapore, Malesia, Filippine, Vietnam, Cambogia e Indonesia"
+          ],
+          [
             "US$ 80",
-            "Italia"
+            "Portogallo, Spagna, Francia, Belgio, Paesi Bassi, Germania, Svizzera, Italia, Regno Unito, Irlanda, Danimarca, Svezia, Norvegia, Polonia, Ungheria, Bulgaria, Romania, Emirati, Arabia Saudita, Qatar, Kuwait, Bahrein e Oman"
+          ],
+          [
+            "US$ 90",
+            "Austria, Cechia, Grecia e Croazia"
+          ],
+          [
+            "US$ 100",
+            "Nuova Zelanda"
           ]
         ]
-      }
+      },
+      "postParagraphs": [
+        "La tabella non elenca il Giappone, il Messico, il Cile, il Perù, l'Argentina né la Colombia."
+      ]
     },
     {
       "heading": "Resi e punti della StyleKorean",
       "paragraphs": [
-        "La StyleKorean accetta il reso di prodotti sigillati, non usati e senza segni di utilizzo, che tornano al magazzino in Corea. La richiesta va fatta entro 14 giorni lavorativi dalla ricezione dell'ordine. Non ci sono resi per allergia o reazioni cutanee.",
-        "Il rimborso avviene in punti del negozio, validi per sei mesi, o sul metodo di pagamento, in 2–14 giorni lavorativi dopo l'elaborazione. Le spese di spedizione vengono detratte; se il saldo resta negativo, il cliente paga la differenza. Un articolo danneggiato o mancante va segnalato con foto, la ricevuta e la foto della scatola, e il negozio non reinvia (pagina dei resi letta il 21/10/2026)."
+        "StyleKorean accetta il reso di prodotti sigillati, mai usati e senza segni, che tornano al magazzino in Corea. La pagina chiede la richiesta entro 14 giorni lavorativi dalla ricezione dell'ordine. Non c'è reso per allergia o reazione della pelle.",
+        "Il rimborso avviene in punti del negozio, validi sei mesi, o sul metodo di pagamento, da 2 a 14 giorni lavorativi dopo l'elaborazione. La spedizione viene detratta; se il saldo resta negativo, il cliente paga la differenza. L'articolo danneggiato o mancante si segnala con foto, scontrino e foto della scatola, e il negozio non lo rispedisce."
       ]
     },
     {
       "heading": "Cosa dice ogni negozio sull'originalità",
       "paragraphs": [
-        "Ogni negozio dice quanto segue; sono dichiarazioni dei negozi stessi, senza verifica indipendente."
+        "Ogni negozio dice quanto segue; sono affermazioni loro, senza verifica indipendente."
       ],
       "bullets": [
-        "**YesStyle:** dice che tutti i prodotti sono originali e che è distributore autorizzato di oltre 400 marchi coreani. Nella guida sull'affidabilità trovi chi gestisce YesStyle e cosa controllare prima di comprare.",
-        "**Stylevana:** dice che ogni prodotto che vende è autentico e originale, acquistato da fornitori di buona reputazione e da distributori autorizzati.",
-        "**Olive Young Global:** dice di vendere gli stessi prodotti autentici dei suoi negozi in Corea, dove ne ha più di 1.400.",
-        "**StyleKorean:** dice che tutti i prodotti sono autentici e provengono dal marchio o da fornitori di fiducia in Corea."
+        "**YesStyle:** prodotti genuini, da un distributore autorizzato di oltre 400 marchi coreani. Chi gestisce il negozio e cosa controllare prima di comprare sono nella guida all'affidabilità.",
+        "**Stylevana:** prodotti autentici, da fornitori di buona reputazione e distributori autorizzati.",
+        "**Olive Young Global:** gli stessi prodotti autentici dei suoi negozi in Corea, dove ne ha più di 1.400.",
+        "**StyleKorean:** prodotti autentici, del marchio o di fornitori di fiducia in Corea."
       ],
       "links": [
         {
-          "label": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare",
+          "label": "YesStyle è affidabile? Cosa controllare prima di comprare",
           "href": "/it/reviews/yesstyle-e-affidabile-e-sicuro"
         }
       ]
@@ -220,34 +244,34 @@
     {
       "heading": "Cosa guardare prima di scegliere",
       "bullets": [
-        "**Il negozio spedisce nel mio paese?** Cerca il paese nella pagina di spedizione del negozio, con costo e tempi. Quello che YesStyle pubblica per l'Italia lo trovi nella guida alla spedizione.",
-        "**Chi paga le imposte?** Controlla se sono già nel prezzo, se vengono addebitate al checkout o dopo l'arrivo del pacco, e se il negozio le rimborsa.",
-        "**Cosa accetta indietro?** Confronta il termine per chiedere il reso e come viene fatto il rimborso."
+        "**Il negozio spedisce nel mio paese?** Cerca il tuo paese nella pagina sulle spedizioni del negozio, con costo e tempi; ciò che YesStyle pubblica per il tuo paese è nella guida alle spedizioni.",
+        "**Chi paga le imposte?** Guarda se sono già nel prezzo, se vengono addebitate al checkout o dopo l'arrivo del pacco, e se il negozio le rimborsa.",
+        "**Cosa accetta indietro?** Confronta il termine per chiedere il reso e il modo in cui rimborsa."
       ],
       "links": [
         {
-          "label": "YesStyle spedisce in Italia? Tempi di consegna, spese di spedizione e dogana",
+          "label": "YesStyle spedisce nel tuo paese? Tempi, spese di spedizione e imposte",
           "href": "/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana"
         }
       ],
       "postParagraphs": [
-        "Per Olive Young paese per paese, con spedizione gratuita, imposte, resi e programma membri, vedi [YesStyle o Olive Young](/it/reviews/yesstyle-o-olive-young-quale-scegliere)."
+        "Per Olive Young paese per paese, con spedizione gratuita, imposte, resi e programma per i membri, vedi [YesStyle o Olive Young](/it/reviews/yesstyle-o-olive-young-quale-scegliere)."
       ]
     },
     {
       "heading": "YesStyle e SHEIN sono la stessa cosa?",
       "paragraphs": [
-        "No. YesStyle non compare nell'elenco dei marchi di SHEIN Group (letto il 12/10/2026), che include SHEIN, DAZY, ROMWE, MOTF, ANEWSTA, MUSERA, GLOWMODE e ARALINA. YesStyle dichiara di appartenere a YesAsia Holdings, di Hong Kong."
+        "No. YesStyle non compare nell'elenco dei marchi del SHEIN Group, che comprende SHEIN, DAZY, ROMWE, MOTF, ANEWSTA, MUSERA, GLOWMODE e ARALINA, e dice di appartenere a YesAsia Holdings, di Hong Kong."
       ]
     },
     {
       "heading": "Collaborazione e codice ricompensa",
       "paragraphs": [
-        "CECILIA010 è il codice ricompensa di Cecília su YesStyle: va nel campo Reward Code del checkout, dà fino al 5% di sconto sul primo acquisto e il 2% sui successivi, e si somma ai coupon del negozio. Negli altri negozi di questo confronto non c'è nessun nostro codice."
+        "CECILIA010 è il codice ricompensa di Cecília su YesStyle: si inserisce nel campo Reward Code del checkout e dà fino al 5% di sconto sul primo acquisto e il 2% sui successivi, in aggiunta ai coupon del negozio. I coupon del momento sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle). Non abbiamo un codice nostro negli altri negozi di questo confronto."
       ],
       "links": [
         {
-          "label": "Vedi il coupon YesStyle di oggi e il codice ricompensa CECILIA010",
+          "label": "Vedi i coupon YesStyle di oggi e il codice ricompensa CECILIA010",
           "href": "/it/coupons/yesstyle"
         }
       ]
@@ -255,26 +279,21 @@
     {
       "heading": "Quale scegliere",
       "bullets": [
-        "Chi vive in Italia: YesStyle e Stylevana pubblicano i tempi (10–15 e 8–14 giorni lavorativi) e la spedizione gratuita parte da US$ 45 e da € 47. Olive Young Global spedisce gratis da US$ 60 e StyleKorean da US$ 80, senza tempi pubblicati per l'Italia.",
-        "Imposte e resi: cambiano da un negozio all'altro, e le tabelle sopra mettono a confronto chi paga le imposte e cosa accetta indietro ogni negozio.",
-        "In qualsiasi paese: prima di ordinare, controlla nella pagina ufficiale di ogni negozio la spedizione, chi paga le imposte e cosa accetta indietro."
+        "Chi vive in Portogallo: tutti e cinque i negozi spediscono e tutti pubblicano da quale importo la spedizione è gratuita, quindi la scelta dipende da imposte e resi, nelle tabelle qui sopra.",
+        "In qualsiasi paese: prima di chiudere l'ordine, controlla nella pagina ufficiale di ogni negozio la spedizione, chi paga le imposte e cosa accetta indietro."
       ]
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Meglio YesStyle o Stylevana? Dipende dal paese. In Italia Stylevana indica 8–14 giorni lavorativi di spedizione e spedizione gratuita da € 47; YesStyle, 10–15 giorni lavorativi e spedizione gratuita da US$ 45.",
-        "YesStyle è la stessa cosa di SHEIN? No: YesStyle non compare nell'elenco dei marchi di SHEIN Group e dichiara di appartenere a YesAsia Holdings, di Hong Kong.",
-        "Stylevana spedisce in Italia? Sì: indica la spedizione Standard in 8–14 giorni lavorativi, gratuita da € 47; nelle zone remote si pagano € 17 in più.",
-        "StyleKorean spedisce in Italia? Sì: la pagina di spedizione della StyleKorean, letta il 21/10/2026, elenca l'Italia tra i paesi con spedizione gratuita da US$ 80. Il negozio affida il pacco al corriere entro 5 giorni lavorativi e non pubblica i tempi per paese.",
-        "Qual è il limite d'ordine su StyleKorean? US$ 500 per ordine, senza la spedizione; sopra questa cifra il negozio chiede di dividere l'ordine in due.",
-        "Olive Young spedisce in Italia? Sì: l'Italia è nell'elenco dei paesi del selettore del sito (letto il 21/10/2026), ma la tabella di spedizione non riporta tempi per l'Italia. Vale la regola generale delle FAQ del negozio: spedizione gratuita da US$ 60, con US$ 25 di spedizione sotto questa cifra.",
-        "Quale negozio ha la soglia più bassa per la spedizione gratuita? Le soglie sono in valute diverse, quindi non le mettiamo in ordine: YesStyle da US$ 45, Stylevana da € 47, StyleKorean da US$ 80, Jolse sopra US$ 43 senza imposte o sopra US$ 50 con l'IVA inclusa. Olive Young Global da US$ 60, secondo la regola generale delle FAQ.",
-        "Chi paga le imposte? Dipende dal negozio. YesStyle ha l'IVA al 22% già nel prezzo e rimborsa le imposte addebitate alla consegna sugli ordini sotto US$ 1.000, come credito nel negozio; l'IVA già pagata non rientra. Jolse ha un'opzione con IVA inclusa; con l'opzione senza imposte paga l'acquirente. Per Olive Young Global, dagli ordini del 31/07/2026, IVA e € 3 per voce doganale vengono addebitati al checkout. Per StyleKorean le imposte doganali sono a carico del cliente. Il sito di Stylevana per l'Italia non dice chi paga.",
-        "Posso restituire un prodotto di bellezza aperto? Non per ripensamento, in nessuno dei cinque negozi. Stylevana accetta il ripensamento solo con il prodotto nuovo, sigillato e mai usato.",
-        "Quale negozio consegna più in fretta? I negozi pubblicano i tempi della sola spedizione, non il totale: il tempo che l'articolo impiega a uscire dal magazzino non è incluso. Per l'Italia Stylevana indica 8–14 giorni lavorativi e YesStyle 10–15. StyleKorean affida il pacco al corriere entro 5 giorni lavorativi e Jolse non pubblica i tempi per paese. Per Olive Young Global la tabella non riporta tempi per l'Italia.",
-        "Quale negozio costa meno? Questo articolo non confronta i prezzi. Confronta tu il totale, con spedizione e imposte, al checkout di ogni negozio.",
-        "Dove si inserisce il codice ricompensa di YesStyle? CECILIA010 va nel campo Reward Code del checkout; i coupon del momento sono nella pagina di YesStyle su questo sito."
+        "Qual è meglio, YesStyle o Stylevana? Dipende dal paese: per il Portogallo, tempi e minimi sono nella tabella delle spedizioni.",
+        "YesStyle è uguale a SHEIN? No: YesStyle non compare nell'elenco dei marchi del SHEIN Group e dice di appartenere a YesAsia Holdings, di Hong Kong.",
+        "Qual è il limite d'ordine di StyleKorean? US$ 500 per ordine, spedizione esclusa; oltre, il negozio chiede di dividerlo in due ordini.",
+        "Quale negozio ha la spedizione gratuita più bassa? Per il Portogallo, i minimi sono nella tabella delle spedizioni, e Stylevana è l'unico in euro.",
+        "Chi paga le imposte? Dipende dal negozio e dal paese: in Portogallo, YesStyle e Jolse includono già l'IVA; solo YesStyle pubblica un rimborso di imposte e dazi doganali, in credito, sotto US$ 1.000.",
+        "Posso restituire un prodotto di bellezza aperto? Non per ripensamento, in nessuno dei cinque negozi; Stylevana accetta il ripensamento solo con il prodotto nuovo, sigillato e mai usato.",
+        "Quale negozio consegna più in fretta? I negozi pubblicano i tempi di spedizione, non il totale: per il Portogallo, Stylevana indica da 6 a 11 giorni lavorativi e YesStyle da 10 a 15, senza contare il tempo che l'articolo impiega a lasciare Hong Kong.",
+        "Dove va il codice ricompensa di YesStyle? CECILIA010 va nel campo Reward Code del checkout, e i coupon del momento sono nella pagina YesStyle di questo sito."
       ]
     }
   ],
@@ -286,7 +305,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "Possiamo ricevere una commissione da YesStyle. Regole degli altri negozi: dalle loro pagine.",
+  "editorialNote": "Possiamo ricevere una commissione da YesStyle. Non abbiamo testato gli altri negozi: le loro regole vengono dalle pagine ufficiali.",
   "relatedArticles": [
     {
       "slug": "yesstyle-o-olive-young-quale-scegliere",

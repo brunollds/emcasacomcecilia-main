@@ -266,6 +266,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a YesStyle se você quer poder desistir da compra ou trocar o tamanho, com o pedido de devolução em até 14 dias.",
+      "Leve a Olive Young Global se você só espera devolver por defeito ou item errado e quer 30 dias para pedir."
+    ],
+    "skipIf": [
+      "Passe na Olive Young Global se pode precisar desistir da compra: ela só aceita defeito ou item errado.",
+      "Passe na YesStyle se você precisa de mais de 14 dias para pedir a devolução."
+    ]
+  },
   "cta": {
     "text": "Veja o frete e o imposto do seu endereço no checkout e cole o CECILIA010 no campo Reward Code",
     "label": "Ir para a YesStyle",
