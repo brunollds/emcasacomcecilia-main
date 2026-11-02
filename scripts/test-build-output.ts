@@ -29,7 +29,7 @@ import {
 } from '../src/lib/couponTranslations';
 import { publishedReviews, recipes, type Review } from '../src/lib/data';
 import { isFaqHeading } from '../src/lib/faq';
-import { getArticleStoreBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, type StoreBanner, type StoreBannerSlot } from '../src/lib/storeBanners';
+import { getArticleStoreBanners, getStorePageBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, type StoreBanner, type StoreBannerSlot } from '../src/lib/storeBanners';
 import { isInternalLink } from '../src/lib/internalLinks';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
@@ -596,11 +596,13 @@ for (const slug of translatedSlugs) {
     const webPage = jsonLdOf(html).find((schema) => schema['@type'] === 'WebPage');
     assert.equal(webPage?.inLanguage, LOCALES[locale].htmlLang, `${pagePath}: inLanguage do JSON-LD`);
 
-    // Cada idioma leva o seu link principal, e o de outro idioma não aparece na página.
+    // Cada idioma leva o seu link principal, e o de outro idioma não aparece na página. O banner de campanha leva o
+    // link da campanha, que pode ser o de outro idioma (a Black Friday da Hostinger, no site global), e fica de fora.
+    const campaignHrefs = new Set(getStorePageBanners(slug, locale, new Date()).map(({ href }) => href));
     const hrefs = new Set([...html.matchAll(/href="([^"]+)"/g)].map(([, href]) => href.replace(/&amp;/g, '&')));
     assert.ok(hrefs.has(offerUrls[locale]), `${pagePath}: sem o link principal do idioma`);
     for (const offerUrl of new Set(Object.values(offerUrls))) {
-      if (offerUrl !== offerUrls[locale]) assert.ok(!hrefs.has(offerUrl), `${pagePath}: link principal de outro idioma`);
+      if (offerUrl !== offerUrls[locale] && !campaignHrefs.has(offerUrl)) assert.ok(!hrefs.has(offerUrl), `${pagePath}: link principal de outro idioma`);
     }
   }
 }
@@ -2405,6 +2407,36 @@ for (const [file, shelf] of REVEAL_SHELVES) {
   }
 }
 
+// As campanhas da loja na página dela (StorePageBanners): só as no ar no HTML, todas logo antes da seção das regras,
+// com o link da campanha, o rel sponsored (o link interno do nosso artigo, sem), os textos do idioma e, com código, a
+// frase de pesquisar no app.
+let storePageBannerPages = 0;
+function assertStorePageBanners(pagePath: string, body: string, affiliate: string, brand: string, locale: Locale, rulesId: string) {
+  const bannerNow = new Date();
+  const live = getStorePageBanners(affiliate, locale, bannerNow).filter((banner) => isStoreBannerLive(banner, bannerNow));
+  const tags = [...body.matchAll(/<aside\b[^>]*\bdata-promo-banner="pagina"[^>]*>/g)];
+  assert.equal(tags.length, live.length, `${pagePath}: ${tags.length} banners de campanha na página, esperado ${live.length}`);
+  if (!live.length) return;
+  const rules = body.search(new RegExp(`<section\\b[^>]*\\saria-labelledby="${rulesId}"`));
+  assert.ok(rules > 0, `${pagePath}: sem a seção ${rulesId}`);
+  const group = body.lastIndexOf('<div data-store-page-banners=""', rules);
+  assert.ok(group > 0 && group + elementAt(body, group).length === rules, `${pagePath}: as campanhas fora do lugar, logo antes de ${rulesId}`);
+  tags.forEach((match, index) => {
+    const banner = live[index];
+    const aside = elementAt(body, match.index);
+    const link = aside.match(/<a\b[^>]*>/)?.[0] ?? '';
+    assert.ok(link.includes(` href="${escapeHtml(banner.href)}"`), `${pagePath}: banner ${banner.id} sem o link da campanha`);
+    if (isArticleBannerHref(banner.href)) assert.doesNotMatch(link, /\bsponsored\b/, `${pagePath}: banner ${banner.id} do artigo com sponsored`);
+    else assert.match(link, /\srel="[^"]*\bsponsored\b/, `${pagePath}: banner ${banner.id} sem rel="sponsored"`);
+    const text = textOf(aside);
+    const { headline, text: bannerText, action } = banner.copy[locale]!;
+    const article = getArticleCopy(locale);
+    const parts = [article.adLabel, headline, bannerText, action, ...(banner.code ? [article.bannerCodeHint(banner.code, brand)] : [])];
+    for (const part of parts) assert.ok(text.includes(part), `${pagePath}: banner ${banner.id} sem "${part}"`);
+  });
+  storePageBannerPages++;
+}
+
 let couponMotionPages = 0;
 let storeCutouts = 0;
 let referralPages = 0;
@@ -2442,6 +2474,7 @@ for (const { pagePath, store } of couponStorePages) {
     othersRows++;
   }
   assert.ok(!body.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
+  assertStorePageBanners(pagePath, body, store.slug, store.brand, pagePath.startsWith('/cupons/') ? 'pt' : (pagePath.split('/')[1] as Locale), 'regras');
   storeCutouts += expected.total;
   couponMotionPages++;
 }
@@ -2459,6 +2492,7 @@ for (const { locale, hubPath } of yesStyleHubs) {
   const list = between(body, 'aria-labelledby="cupons-da-loja"', ['</section>']);
   assert.equal(elementsWithClass(list, 'recorte').length, promos, `${hubPath}: os cupons da lista sem o .recorte`);
   yesStyleWithoutPromos ||= promos === 0;
+  assertStorePageBanners(hubPath, body, 'yesstyle', 'YesStyle', locale, 'como-funcionam');
   storeCutouts += 1 + promos;
   couponMotionPages++;
 }
@@ -3780,5 +3814,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles}, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

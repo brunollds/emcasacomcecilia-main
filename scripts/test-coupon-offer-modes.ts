@@ -20,13 +20,6 @@ const sheinOfferUrl = new URL(shein.offerUrl);
 assert.equal(sheinOfferUrl.hostname, 'br.shein.com');
 assert.equal(sheinOfferUrl.searchParams.get('koc_id'), '6177013015');
 assert.equal(sheinOfferUrl.searchParams.get('search_words'), '4CW5Y');
-assert.deepEqual(
-  shein.campaigns?.map(({ code, offerUrl }) => ({ code, offerUrl })),
-  [
-    { code: '37S3442', offerUrl: 'https://onelink.shein.com/47/5yl4fyr203o0' },
-    { code: 'K49L457', offerUrl: 'https://onelink.shein.com/58/6630nfyralty' },
-  ]
-);
 assert.ok(getAllActiveCouponSlugs().includes('shein'), 'SHEIN ativa deve gerar página de cupom');
 assert.ok(!getAllActiveCouponSlugs().includes('kopenhagen'), 'Kopenhagen pausada não deve gerar página');
 
@@ -37,7 +30,7 @@ const yesStyleStore = getCouponBySlug('yesstyle');
 const damieStore = getCouponBySlug('damie');
 assert.ok(yesStyleStore?.offerMode === 'discount-code' && damieStore?.offerMode === 'discount-code');
 assert.equal(getStoreCodeKind(sheinStore, '4CW5Y'), 'referral');
-assert.equal(getStoreCodeKind(sheinStore, shein.campaigns?.[0].code), undefined, 'código de campanha da SHEIN não é o de indicação');
+assert.equal(getStoreCodeKind(sheinStore, '37S3442'), undefined, 'código de campanha da SHEIN não é o de indicação');
 assert.equal(getStoreCodeKind(sheinStore, 'CECILIA010'), undefined, 'código de outra loja na SHEIN');
 assert.equal(getStoreCodeKind(yesStyleStore, yesStyleStore.code), 'reward');
 assert.equal(getStoreCodeKind(damieStore, damieStore.code), undefined, 'cupom comum não tem tipo');
