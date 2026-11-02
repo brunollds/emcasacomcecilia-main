@@ -140,6 +140,8 @@ export function ReviewSectionContent({
     })
   );
 
+  const emphasisAtEnd = Boolean(section.emphasis && !section.emphasisAfterParagraph);
+
   const renderEmphasisBlock = (withImage: boolean = true) => (
     <div className={withImage && section.image ? 'my-6 grid grid-cols-1 gap-6 md:grid-cols-[1fr_200px] items-center' : 'my-6'}>
       <div>
@@ -206,9 +208,10 @@ export function ReviewSectionContent({
         );
       })}
 
-      {section.emphasis && !section.emphasisAfterParagraph && renderEmphasisBlock(true)}
+      {emphasisAtEnd && renderEmphasisBlock(true)}
 
-      {(section.image || (section.images && section.images.length > 0)) && (!section.emphasis || section.emphasisAfterParagraph != null) && (
+      {/* O cartão do fim já desenha a `image` ao lado; a galeria `images` não cabe ali e vem depois dele. */}
+      {(section.image || (section.images && section.images.length > 0)) && !(emphasisAtEnd && section.image) && (
         <ReviewInlineImage section={section} reviewTitle={reviewTitle} locale={locale} store={imageStore} reviewSlug={reviewSlug} />
       )}
 
