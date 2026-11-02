@@ -63319,9 +63319,9 @@ export const reviewsData: unknown[] = [
   {
     "id": 362,
     "slug": "insider-vale-a-pena",
-    "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering",
-    "seoTitle": "Insider vale a pena? Comparação com Minimal Club e Hering",
-    "type": "Comparativo de Compra",
+    "title": "Insider vale a pena? O que a marca entrega, quanto custa e para quem compensa",
+    "seoTitle": "Insider vale a pena? Camisetas, cuecas, linha feminina e o cupom",
+    "type": "Guia de Marca",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
     "author": {
@@ -63331,184 +63331,49 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Tech T-Shirt da Insider lado a lado com Minimal Club, Mirante, Basicamente, Hering e Alpha Co, e os modelos de cueca da Insider: composição, gramatura, preço de 12/10/2026, troca e garantia, pelo que cada site publica.",
-    "metaDescription": "Insider vale a pena? Tech T-Shirt, Daily, Core e cuecas comparadas com Minimal Club, Mirante, Basicamente, Hering e Alpha Co: tecido, preço e troca.",
+    "description": "O que a Insider vende, o que a Tech T-Shirt garante por escrito, quanto custa com o cupom EMCASACOMCECILIA, onde comprar, troca e reputação: para quem a marca compensa.",
+    "metaDescription": "Insider vale a pena? O que a marca vende, a garantia da Tech T-Shirt, o preço com o cupom de 15%, onde comprar e as regras de troca.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-02",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "image": "/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
     "imageAlt": "Homem usando a Tech T-Shirt preta da Insider, em foto oficial da marca",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
       "Garantia de 2 anos contra desbotamento na Tech T-Shirt, por escrito e com condições",
-      "Troca por insatisfação em até 21 dias corridos, gratuita, e defeito em até 180 dias",
-      "Composição publicada em cada peça e gramatura da Tech e da Daily na comparação oficial",
-      "Cupom de 15% que soma com o desconto do Pix"
+      "Troca por insatisfação em até 21 dias corridos e defeito em até 180 dias, sem custo",
+      "Composição publicada na página de cada peça",
+      "Cupom de 15% na loja online, que soma com o desconto do Pix"
     ],
     "cons": [
-      "A Tech T-Shirt custa mais que as camisetas de modal da Mirante e da Basicamente",
-      "A Daily, a mais barata das camisetas da Insider comparadas, não aceita cupom",
-      "Cueca só troca por defeito de fabricação"
+      "O cupom não vale na loja física nem no Mercado Livre",
+      "Cueca, calcinha e undershirt só trocam por defeito",
+      "A marca não diz por quantas lavagens o antiodor dura"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do que você compara: a Tech T-Shirt da Insider custa mais que as camisetas de modal da Mirante e da Basicamente e que a Super Cotton da Hering. O que a Insider tem a mais é a garantia de 2 anos contra desbotamento, com condições. Veja abaixo a conta com o cupom e, no fim, para quem vale."
+          "Vale para quem quer camiseta de modal com garantia de cor por escrito e troca sem custo, e topa pagar mais por isso. O cupom EMCASACOMCECILIA tira 15% na loja online. Na cueca e na linha feminina, a escolha é pelo modelo, e cada uma tem o seu guia abaixo."
         ]
       },
       {
-        "heading": "Como comparamos",
+        "heading": "O que a Insider vende",
         "paragraphs": [
-          "Este guia põe a camiseta e a cueca da Insider ao lado de Minimal Club, Mirante, Basicamente, Hering e Alpha Co, em composição, preço, troca e garantia, para dizer se ela vale mais que as outras.",
-          "Usamos só o que o site oficial de cada marca publica, lido em 12/10/2026: composição, gramatura quando existe, preço exibido e regras de troca. Esta comparação não parte de teste das peças, então não comparamos caimento, maciez nem durabilidade.",
-          "Preço muda com promoção; confira na loja antes de comprar."
-        ]
-      },
-      {
-        "heading": "Camiseta básica das seis marcas lado a lado",
-        "comparisonTable": {
-          "caption": "Dados dos sites oficiais. \"Não informada\" quer dizer que a página consultada não publica o dado. Troca: prazo para trocar ou devolver sem defeito / prazo para defeito; na Insider, 21 dias corridos por insatisfação (7 dias úteis por arrependimento). O preço da Insider não inclui o desconto do Pix anunciado no site.",
-          "headers": [
-            "Marca e modelo",
-            "Composição",
-            "Gramatura",
-            "Preço",
-            "Troca / defeito",
-            "Garantia ou promessa da marca"
-          ],
-          "rows": [
-            [
-              "Insider, Tech T-Shirt",
-              "92% modal, 8% elastano",
-              "185 g/m² (comparação oficial da marca)",
-              "R$ 129 (de R$ 169)",
-              "21 dias / 180 dias",
-              "2 anos contra desbotamento, com condições"
-            ],
-            [
-              "Insider, Tech Daily",
-              "94% viscose, 6% elastano",
-              "225 g/m² (comparação oficial da marca)",
-              "R$ 79 (de R$ 139), sem cupom",
-              "21 dias / 180 dias",
-              "Não informada"
-            ],
-            [
-              "Insider, Core T-Shirt",
-              "94% viscose, 6% elastano",
-              "Não informada",
-              "R$ 179 (de R$ 189)",
-              "21 dias / 180 dias",
-              "Não informada"
-            ],
-            [
-              "Minimal Club, Camiseta Minimal",
-              "93% algodão egípcio, 7% elastano",
-              "150 g/m²",
-              "R$ 169,90 (R$ 164,80 no Pix)",
-              "30 dias / 90 dias",
-              "Selo \"Não desbota\", sem prazo"
-            ],
-            [
-              "Minimal Club, Minimal 2.0",
-              "94% algodão egípcio, 6% elastano",
-              "160 g/m²",
-              "R$ 169,90",
-              "30 dias / 90 dias",
-              "Não informada"
-            ],
-            [
-              "Minimal Club, Tech Modal",
-              "91% modal, 9% elastano",
-              "200 g/m²",
-              "R$ 109,90 (R$ 106,60 no Pix)",
-              "30 dias / 90 dias",
-              "Não informada"
-            ],
-            [
-              "Mirante, Tech Modal",
-              "92% modal, 8% elastano",
-              "200 g/m²",
-              "R$ 94,90 no Pix (R$ 99,89 no cartão)",
-              "7 dias / 30 dias",
-              "Não informada"
-            ],
-            [
-              "Basicamente, Tech T-Shirt Modal",
-              "95% modal, 5% elastano",
-              "Não informada",
-              "R$ 99,90",
-              "30 dias / 90 dias",
-              "Antiodor que \"dura até 30 lavagens\""
-            ],
-            [
-              "Basicamente, Tech T-Shirt Anti Odor",
-              "100% algodão",
-              "Não informada",
-              "R$ 79,90",
-              "30 dias / 90 dias",
-              "Antiodor que \"dura até 30 lavagens\""
-            ],
-            [
-              "Hering, Super Cotton",
-              "100% algodão",
-              "210 g/m²",
-              "R$ 89,99 (preta e branca)",
-              "15 dias / não informado para roupa",
-              "Não informada"
-            ],
-            [
-              "Hering, Malha H+",
-              "62,5% algodão, 25% viscose, 12,5% poliéster",
-              "156 g/m²",
-              "R$ 31,99",
-              "15 dias / não informado para roupa",
-              "Não informada"
-            ],
-            [
-              "Alpha Co, Camiseta Pima",
-              "100% algodão Pima peruano",
-              "Não informada",
-              "R$ 99,99 (de R$ 139,90)",
-              "7 dias / 90 dias",
-              "Não informada"
-            ],
-            [
-              "Alpha Co, Dry Fit Vector (esportiva)",
-              "97% poliéster, 3% elastano",
-              "Não informada",
-              "R$ 29,94 (de R$ 49,90)",
-              "7 dias / 90 dias",
-              "Não informada"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Tech T-Shirt: o que a Insider publica",
-        "paragraphs": [
-          "A Tech T-Shirt é de 92% modal e 8% elastano (a cor Índigo tem 62% modal, 30% viscose e 8% elastano), num tecido que a Insider chama de INTECH. A gramatura, 185 g/m², não está no texto da página: aparece na imagem que abre no botão \"Compare entre peças Insider\".",
-          "A garantia é de 2 anos contra desbotamento, para peças compradas desde 06/09/2024, \"desde que seguidas as instruções da etiqueta, considerando uma lavagem por semana\", e cobre só o desbotamento por lavagem. Os cuidados pedidos são ciclo delicado até 30 °C, sabão neutro, sem deixar de molho, sem torcer, sem alvejante, secar no varal à sombra, sem secadora e evitando amaciante.",
-          "A marca diz que a camiseta é antiodor e que isso \"permite usar mais e lavar menos\", mas não informa por quantas lavagens o efeito dura."
+          "A Insider é uma marca de São Paulo de roupas básicas de tecido tecnológico, com linha masculina e feminina. O carro-chefe é a camiseta lisa; em volta dela vêm a roupa de baixo, a de treino e algumas peças de alfaiataria."
         ],
-        "image": {
-          "src": "/images/reviews/insider/insider-tech-e-daily-gramatura-comparacao-oficial.webp",
-          "alt": "Comparação oficial da Insider entre a Tech T-Shirt e a Daily T-Shirt, com composição de modal e elastano e de viscose e elastano e gramatura de 185 g/m² e 225 g/m² destacadas em amarelo",
-          "caption": "A comparação que abre no botão \"Compare entre peças Insider\", na página da Tech T-Shirt, recortada na Tech e na Daily. O destaque em amarelo é nosso.",
-          "objectFit": "contain",
-          "aspectRatio": 1.1005
-        }
-      },
-      {
-        "heading": "Tech, Daily ou Core: qual camiseta da Insider",
-        "paragraphs": [
-          "Na Insider, a escolha é modal na Tech ou viscose na Daily e na Core, que são de 94% viscose e 6% elastano. A Daily, de tecido DAYON, tem 225 g/m² na comparação oficial e custava R$ 79 (de R$ 139). A página avisa que o preço já tem o desconto máximo e não soma com cupons, e no teste do cupom no checkout o EMCASACOMCECILIA não se aplicou a ela.",
-          "A Core é um pouco mais encorpada e texturizada que a Tech, informa a Insider, e a gramatura dela não está publicada; o preço está na tabela acima. Nas páginas da Daily e da Core, a marca avisa que o tecido pode encolher até 2 cm no comprimento depois da primeira lavagem.",
-          "A garantia de cor publicada é a da Tech T-Shirt. As medidas de cada linha estão no nosso guia de tamanhos da Insider."
+        "bullets": [
+          "**Camisetas masculinas:** a Tech T-Shirt, de modal, a Heavy, mais encorpada, e a Core e a Daily, de viscose, além de polo, Henley e manga longa. A diferença entre elas está em [qual camiseta Insider escolher](/reviews/camiseta-insider-qual-escolher).",
+          "**Linha feminina:** a Tech feminina, a Gola V, a manga longa, a The Perfect Top, a Skin Cropped, leggings, saias, vestidos, calcinhas e sutiãs. As camisetas estão em [camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher).",
+          "**Cuecas:** Comfort, de modal, para o dia a dia; Performance, com poliamida por fora, para treino; Seamless Touch e Slip. O modelo de cada uso está em [qual cueca Insider escolher](/reviews/cueca-insider-comfort-ou-performance).",
+          "**Undershirt antissuor:** para usar por baixo da camisa social, em três níveis, explicados em [undershirt Insider: qual escolher](/reviews/undershirt-insider-qual-escolher-funciona).",
+          "**Calças e bermudas:** a linha FutureForm, de alfaiataria, e peças de treino."
+        ],
+        "postParagraphs": [
+          "A Insider mede a peça deitada, não o corpo. Antes do primeiro pedido, compare uma camiseta sua com a [tabela de medidas da Insider](/reviews/tabela-de-medidas-insider)."
         ],
         "images": [
           {
@@ -63532,116 +63397,59 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Insider ou Minimal Club",
+        "heading": "Tech T-Shirt: o que a marca promete e o que garante por escrito",
         "paragraphs": [
-          "São tecidos diferentes. A Tech T-Shirt é de modal; a Camiseta Minimal e a Minimal 2.0 são de algodão egípcio com elastano, com 150 e 160 g/m², e custam R$ 169,90.",
-          "A comparação mais direta é com a Tech Modal da Minimal Club, de modal com elastano e tecido um pouco mais pesado, por menos que a Tech mesmo antes do cupom. A Tech T-Shirt da Insider custava R$ 129, ou R$ 109,65 com o cupom (conta nossa, com 15%), antes do desconto do Pix.",
-          "A Minimal Club dá 30 dias para devolver ou trocar por arrependimento, tamanho ou expectativa, contra 21 dias por insatisfação (7 dias úteis por arrependimento) da Insider. Só a Insider publica garantia contra desbotamento."
-        ]
-      },
-      {
-        "heading": "Insider, Mirante ou Basicamente",
-        "paragraphs": [
-          "A Mirante informa a mesma composição da Tech T-Shirt, 92% modal e 8% elastano, com 200 g/m², e cobra R$ 94,90 no Pix. Composição igual não quer dizer camiseta igual: fio, malha e acabamento podem mudar. A Mirante dá 7 dias para troca ou devolução e 30 dias para defeito.",
-          "A Basicamente, marca da Malwee, é a única que dá prazo ao antiodor: até 30 lavagens. Preço e composição estão na tabela acima. A devolução é em 30 dias (90 para defeito), com a peça não lavada e não usada."
-        ]
-      },
-      {
-        "heading": "Insider ou Hering, e onde entra a Alpha Co",
-        "paragraphs": [
-          "A Hering vende camiseta básica de algodão. A Super Cotton (100% algodão, 210 g/m²) custava R$ 89,99 nas cores preta e branca, e a Malha H+ (algodão, viscose e poliéster, 156 g/m²), R$ 31,99. A troca é em até 15 dias, e a política não dá prazo de defeito para roupa.",
-          "A Alpha Co tem a Camiseta Pima, de algodão Pima peruano, por R$ 99,99, e camisetas dry fit de poliéster, como a Vector, por R$ 29,94. A dry fit é camiseta esportiva, outra categoria. A Alpha Co troca em até 7 dias, uma vez só, e cobre defeito por 90 dias."
-        ]
-      },
-      {
-        "heading": "Cueca Insider: Comfort, Performance, Anti Suor ou Seamless",
-        "paragraphs": [
-          "Nas cuecas, a escolha é pelo modelo. \"Simples\" e \"Anti Suor\" são versões do mesmo modelo: a Anti Suor leva tecido a mais na parte de trás. A Insider não publica a gramatura das cuecas."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
-            "alt": "Kit de cuecas boxer da Insider em foto oficial da marca",
-            "caption": "Foto oficial da Insider.",
-            "objectFit": "square"
-          }
-        ],
-        "comparisonTable": {
-          "caption": "Material e construção das páginas da Insider. Preço da unidade, salvo os kits.",
-          "headers": [
-            "Modelo",
-            "Material informado",
-            "Construção informada",
-            "Preço"
-          ],
-          "rows": [
-            [
-              "Boxer Comfort, Simples",
-              "88% modal, 12% elastano",
-              "Boxer de modal",
-              "R$ 79 (de R$ 85); kit de 3 por R$ 229,89; kit de 5 por R$ 375,25"
-            ],
-            [
-              "Boxer Comfort, Anti Suor",
-              "Igual à Simples",
-              "Camada extra de tecido na parte de trás; só na cor preta",
-              "R$ 79"
-            ],
-            [
-              "Boxer Performance, Simples",
-              "Por fora: 87,5% poliamida, 12,5% elastano. Por dentro: 88% modal, 12% elastano",
-              "Sem costura na lateral",
-              "R$ 79 a R$ 95, conforme a cor e o tamanho; kit de 3 por R$ 229,89; kit de 5 por R$ 375,25"
-            ],
-            [
-              "Boxer Performance, Anti Suor",
-              "Igual à Simples",
-              "Forro duplo na parte de trás e costura na lateral; só na cor preta",
-              "R$ 79 a R$ 95, conforme a cor e o tamanho"
-            ],
-            [
-              "Boxer Seamless Touch",
-              "95% poliamida, 4% elastano, 1% polipropileno",
-              "Sem costura",
-              "R$ 59"
-            ],
-            [
-              "Slip Comfort",
-              "88% modal, 12% elastano na descrição; o quadro técnico da página mostra 87,5% poliamida e 12,5% elastano",
-              "Slip",
-              "R$ 75, só na cor preta"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "Para escolher o modelo, com o preço de cada kit e os cuidados de lavagem, veja [qual cueca Insider escolher](/reviews/cueca-insider-comfort-ou-performance).",
-          "Cueca só tem troca ou devolução por defeito de fabricação, por higiene e segurança, informa a central de ajuda. Minimal Club, Hering e Alpha Co também não trocam cueca, salvo defeito (a Alpha Co aceita a devolução em 7 dias). Confira a tabela de medidas antes de comprar o kit."
-        ]
-      },
-      {
-        "heading": "Troca e devolução na Insider",
-        "paragraphs": [
-          "Na compra online, a Insider aceita o arrependimento em até 7 dias úteis, a troca por insatisfação em até 21 dias corridos, pelo mesmo modelo em outra cor ou tamanho (se houver estoque) ou com estorno, com a peça sem uso, com etiqueta e sem sinais de lavagem, e o defeito em até 180 dias, com fotos. O processo é gratuito. O passo a passo e a reputação da loja estão no nosso guia de confiança."
+          "A loja informa: a Tech T-Shirt é de 92% modal e 8% elastano (a cor Índigo tem 62% modal, 30% viscose e 8% elastano), num tecido que a Insider chama de INTECH, com 185 g/m² na comparação que abre no botão \"Compare entre peças Insider\".",
+          "Por escrito, a garantia é uma só: 2 anos contra desbotamento por lavagem, \"desde que seguidas as instruções da etiqueta, considerando uma lavagem por semana\". A etiqueta pede ciclo delicado até 30 °C, sabão neutro, sem deixar de molho, sem torcer, sem alvejante, secagem no varal à sombra, sem secadora e evitando amaciante.",
+          "Antiodor e \"desamassa no corpo\" são promessas da marca, sem garantia por trás, e a Insider não diz por quantas lavagens o antiodor dura.",
+          "É a camiseta para quem quer uma lisa para o dia a dia e segue a etiqueta. Quem lava tudo junto, em água quente e com secadora, perde a garantia de cor, que é o que justifica o preço dela."
         ],
         "image": {
-          "src": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
-          "alt": "Três cartões com os prazos da Insider: 7 para desistir da compra, 21 para trocar por insatisfação e 180 para defeito",
-          "caption": "Na compra online: 7 dias úteis para desistir, 21 dias corridos para trocar ou devolver por insatisfação e 180 dias para defeito de fabricação.",
+          "src": "/images/reviews/insider/insider-tech-e-daily-gramatura-comparacao-oficial.webp",
+          "alt": "Comparação oficial da Insider entre a Tech T-Shirt e a Daily T-Shirt, com composição de modal e elastano e de viscose e elastano e gramatura de 185 g/m² e 225 g/m² destacadas em amarelo",
+          "caption": "A comparação que abre no botão \"Compare entre peças Insider\", na página da Tech T-Shirt, recortada na Tech e na Daily. O destaque em amarelo é nosso.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "links": [
-          {
-            "label": "Insider Store é confiável? CNPJ, loja física, trocas e reputação",
-            "href": "/reviews/insider-store-e-confiavel"
-          }
-        ]
+          "aspectRatio": 1.1005
+        }
       },
       {
         "heading": "Quanto custa de verdade",
         "paragraphs": [
-          "Conta nossa, pelo preço da tabela: com o cupom EMCASACOMCECILIA (15% OFF na loja online), a Tech T-Shirt de R$ 129 sai por R$ 109,65. Ele soma com o desconto do Pix e vale com todas as formas de pagamento, não vale nas lojas físicas, pode não entrar nos primeiros dias de um lançamento e é um cupom por pedido. A Daily fica de fora, como a própria página avisa.",
-          "O frete era grátis a partir de R$ 399, e o site anunciava desconto no Pix. Os kits e a Black Friday estão no nosso guia da Black Friday da Insider."
+          "O cupom EMCASACOMCECILIA dá 15% sobre o preço de cada item na loja online, soma com o desconto do Pix e vale com todas as formas de pagamento. É um cupom por pedido e pode não entrar nos primeiros dias de um lançamento."
+        ],
+        "comparisonTable": {
+          "caption": "Preço no cartão, 02/11. Com o cupom: conta nossa, com os 15% sobre o preço do site, antes do desconto do Pix.",
+          "headers": [
+            "Peça",
+            "Preço no site",
+            "Com o cupom"
+          ],
+          "rows": [
+            [
+              "[Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y)",
+              "R$ 129 (de R$ 169)",
+              "R$ 109,65"
+            ],
+            [
+              "[Core T-Shirt](https://creators.insiderstore.com.br/c5rL74B)",
+              "R$ 179 (de R$ 189)",
+              "R$ 152,15"
+            ],
+            [
+              "[Daily T-Shirt](https://creators.insiderstore.com.br/bRopqTz)",
+              "R$ 99 (de R$ 139)",
+              "O cupom não entrou no teste do checkout"
+            ],
+            [
+              "[Cueca Boxer Comfort](https://creators.insiderstore.com.br/ptFyZqS)",
+              "R$ 79 (de R$ 85)",
+              "R$ 67,15"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na cueca, o kit de 3 Comfort sai por R$ 229,89, menos que três avulsas; a conta de cada kit está em [kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
+          "O frete é grátis a partir de R$ 399, calculado depois do desconto: um carrinho que passa do valor só antes do cupom paga o frete. No checkout, confira a linha do código em cada item antes de pagar."
         ],
         "links": [
           {
@@ -63649,44 +63457,68 @@ export const reviewsData: unknown[] = [
             "href": "/cupons/insider"
           },
           {
-            "label": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA",
-            "href": "/reviews/black-friday-insider"
+            "label": "Como usar o cupom EMCASACOMCECILIA na Insider Store",
+            "href": "/reviews/cupom-emcasacomcecilia-insider-store-como-usar"
           }
         ]
       },
       {
+        "heading": "Onde comprar: site, loja física ou Mercado Livre",
+        "paragraphs": [
+          "O site é o único lugar onde o cupom vale, e é onde a troca é mais simples. Para quem quer ver a peça antes, a Concept Store fica no MorumbiShopping, em São Paulo. Lá o cupom e o cashback não valem, a compra acumula pontos de fidelidade para resgatar no site, e a troca é feita no mesmo canal da compra.",
+          "No Mercado Livre, a Insider tem [loja oficial](https://meli.la/12dWwH8), e vale o preço do anúncio, sem o cupom. Com o cupom, o site sai mais barato na maioria das peças; onde o Mercado Livre ganha está em [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site).",
+          "O Outlet tem peças com desconto e grade curta: veja o [Outlet masculino](/reviews/outlet-insider-masculino-vale-a-pena) e o [Outlet feminino](/reviews/outlet-insider-feminino-vale-a-pena)."
+        ]
+      },
+      {
+        "heading": "Troca, devolução e garantia",
+        "paragraphs": [
+          "Na compra online, a Insider aceita o arrependimento em até 7 dias úteis e a troca por insatisfação em até 21 dias corridos, pelo mesmo modelo em outra cor ou tamanho (se houver estoque) ou com estorno, com a peça sem uso, com etiqueta e sem sinais de lavagem. Defeito tem 180 dias, com fotos. Toda troca e devolução é gratuita.",
+          "Cueca, calcinha, undershirt e moda praia só trocam por defeito de fabricação. Nessas peças, acerte o tamanho antes, pela tabela de medidas."
+        ],
+        "image": {
+          "src": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
+          "alt": "Três cartões com os prazos da Insider: 7 para desistir da compra, 21 para trocar por insatisfação e 180 para defeito",
+          "caption": "Na compra online: 7 dias úteis para desistir, 21 dias corridos para trocar ou devolver por insatisfação e 180 dias para defeito de fabricação.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "A Insider é confiável?",
+        "paragraphs": [
+          "É. A empresa tem CNPJ ativo, troca sem custo e a reputação mais alta do Reclame Aqui, a RA1000. O ponto de atenção é a entrega, onde está a maior parte das reclamações: acompanhe o rastreio e chame o atendimento, que é só por WhatsApp, assim que o prazo vencer.",
+          "Cupom vazado em site de cupons pode ter o pedido cancelado; o EMCASACOMCECILIA é do programa oficial de criadores da marca. Os detalhes estão em [Insider Store é confiável?](/reviews/insider-store-e-confiavel) e em [Insider Store no Reclame Aqui](/reviews/insider-store-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
         "heading": "Para quem vale e para quem não vale",
-        "emphasis": "Se fosse para a minha casa, eu levaria a Tech T-Shirt, porque é a única com garantia de cor por escrito.",
+        "emphasis": "Para uma peça só, comece pela Tech T-Shirt: é a única da Insider com garantia de cor por escrito.",
         "bullets": [
-          "Vale olhar a Insider se você quer camiseta de modal com garantia de cor por escrito e defeito coberto por até 180 dias, o maior prazo da tabela, e topa pagar mais por isso.",
-          "Se o preço pesa mais, a Mirante e a Basicamente vendem camiseta de modal por menos, e a Hering tem a Super Cotton, de algodão, a R$ 89,99 e a Malha H+, de mistura, a R$ 31,99.",
-          "Se você prefere algodão, a Minimal Club (algodão egípcio) e a Alpha Co (algodão Pima) são outra categoria de camiseta.",
-          "Na cueca, o que muda é o modelo: Comfort de modal, Performance com poliamida por fora e a versão Anti Suor com tecido a mais atrás. Escolha pelo modelo e meça antes: Insider, Minimal Club, Hering e Alpha Co não trocam cueca por tamanho."
+          "Vale para quem quer camiseta de modal com garantia de cor por escrito e troca sem custo, e topa pagar mais por isso.",
+          "Não vale para quem quer gastar pouco por peça: mesmo com o cupom, a Tech passa de R$ 100.",
+          "Na cueca, escolha pelo uso, Comfort para o dia a dia e Performance para treino, e meça antes: underwear não troca por tamanho.",
+          "Se você vai comprar na loja física ou no Mercado Livre, conte com o preço da etiqueta ou do anúncio, sem o cupom."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Insider vale a pena? Depende do que você compara: no site, a Tech T-Shirt custa mais que as camisetas da Mirante e da Basicamente e que a Super Cotton da Hering, e o diferencial que ela publica é a garantia de 2 anos contra desbotamento da Tech T-Shirt, com condições.",
-          "Insider ou Minimal Club: qual escolher? São tecidos diferentes: a Tech T-Shirt é de modal e a Camiseta Minimal é de algodão egípcio; preços e gramaturas estão na tabela acima.",
-          "Insider ou Mirante: qual escolher? As duas informam 92% modal e 8% elastano; a Mirante tem 200 g/m² e cobrava R$ 94,90 no Pix, a Tech T-Shirt tem 185 g/m² e custava R$ 129 (a Insider também anunciava desconto no Pix), e só a Insider publica garantia de cor.",
-          "Insider ou Basicamente: qual é melhor? Pelo site não dá para dizer: a Basicamente usa 95% modal e 5% elastano e diz que o antiodor dura até 30 lavagens, e a Insider não informa por quantas lavagens o antiodor dela dura.",
-          "Hering ou Insider? A Hering vende a Super Cotton, 100% algodão, por R$ 89,99 e a Malha H+, de algodão com viscose e poliéster, por R$ 31,99, com gramatura informada; a Insider vende modal e viscose, com a Tech T-Shirt a R$ 129 e a Daily a R$ 79.",
-          "Insider ou Alpha Co? A Alpha Co tem camiseta de algodão Pima (R$ 99,99) e camisetas esportivas dry fit de poliéster (R$ 29,94), que são outra categoria.",
+          "Insider vale a pena? Vale para quem quer camiseta de modal com garantia de 2 anos contra desbotamento e troca sem custo, e aceita pagar mais por isso; o cupom EMCASACOMCECILIA tira 15% na loja online.",
+          "A Insider é confiável? É: tem CNPJ ativo, troca gratuita e a reputação RA1000 no Reclame Aqui, e a reclamação mais comum é a entrega.",
           "A Tech T-Shirt da Insider é de quê? De 92% modal e 8% elastano, exceto a cor Índigo (62% modal, 30% viscose e 8% elastano), segundo a página do produto.",
-          "A Tech T-Shirt tem garantia? Tem garantia de 2 anos contra desbotamento para peças compradas depois do início da garantia, em 2024, seguindo a etiqueta e considerando uma lavagem por semana.",
-          "Tech T-Shirt, Daily ou Core: qual é a diferença? A Tech é de modal; a Daily e a Core são de 94% viscose e 6% elastano, e a Core é mais encorpada, segundo a marca.",
-          "A cueca Insider é boa? Não testamos; a marca publica o tecido de cada modelo (modal na Comfort, poliamida por fora na Performance), e a troca só vale por defeito.",
-          "Cueca Insider Comfort ou Performance? A Comfort é de modal e elastano; a Performance tem a parte de fora de poliamida e a de dentro de modal.",
-          "Cueca Insider Simples ou Anti Suor? A Anti Suor tem uma camada extra de tecido atrás na Comfort e forro duplo atrás na Performance, segundo a página.",
-          "Cueca Insider Seamless é boa? É de poliamida, elastano e polipropileno, sem costura, e custava R$ 59; não testamos.",
-          "Dá para trocar cueca da Insider? Só em caso de defeito de fabricação, por higiene e segurança, segundo a central de ajuda.",
-          "O cupom EMCASACOMCECILIA vale em tudo? Não em tudo: dá 15% OFF na loja online, fora as lojas físicas, e pode não entrar nos primeiros dias de um lançamento; é um por pedido, a Daily avisa na página que não soma com cupons, e no teste do checkout o cupom não entrou nela."
+          "A Tech T-Shirt tem garantia? Tem garantia de 2 anos contra desbotamento, seguindo a etiqueta e considerando uma lavagem por semana.",
+          "A camiseta da Insider é antiodor? A marca diz que sim, mas não informa por quantas lavagens o efeito dura; a garantia por escrito é só a de cor.",
+          "Tech, Daily ou Core: qual é a diferença? A Tech é de modal; a Daily e a Core são de viscose, e a Core é mais encorpada, segundo a marca. O guia das camisetas compara as linhas.",
+          "O cupom da Insider vale na loja física ou no Mercado Livre? Não: o EMCASACOMCECILIA vale só na loja online, um por pedido.",
+          "A Insider tem frete grátis? Tem, a partir de R$ 399, calculado depois do desconto do cupom.",
+          "Dá para trocar cueca da Insider? Só em caso de defeito de fabricação, como calcinha, undershirt e moda praia.",
+          "A Insider tem loja física? Tem a Concept Store no MorumbiShopping, em São Paulo, onde o cupom não vale."
         ]
       }
     ],
     "cta": {
-      "text": "Se a Insider faz sentido para você, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai para o carrinho. Confira o desconto em cada item antes de pagar.",
+      "text": "Entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF na loja online, já vai para o carrinho. Confira o desconto em cada item antes de pagar.",
       "label": "Ir para a Insider com o cupom",
       "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
       "sponsored": true
@@ -63696,26 +63528,26 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você quer camiseta de modal com garantia de cor por escrito.",
-        "Você quer defeito coberto por até 180 dias, o maior prazo da tabela."
+        "Você quer troca sem custo: 21 dias por insatisfação e 180 para defeito."
       ],
       "skipIf": [
-        "O preço pesa mais: a Mirante e a Basicamente vendem camiseta de modal por menos.",
-        "Você prefere algodão: a Minimal Club e a Alpha Co são outra categoria de camiseta."
+        "Você escolhe camiseta pelo menor preço: o que se paga a mais na Tech é a garantia de cor.",
+        "Você quer trocar cueca por tamanho: underwear só troca por defeito."
       ]
     },
-    "editorialNote": "Podemos receber comissão pela Insider. As outras marcas não são parceiras, e não testamos as peças.",
+    "editorialNote": "Podemos receber comissão pela Insider. Ninguém da equipe usou as peças: os dados são das páginas da marca e do teste do cupom no checkout.",
     "relatedArticles": [
       {
-        "slug": "tabela-de-medidas-insider",
-        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+        "slug": "camiseta-insider-qual-escolher",
+        "title": "Camiseta masculina Insider: qual escolher entre Tech, Heavy, Core, Daily, Polo e Henley"
+      },
+      {
+        "slug": "cueca-insider-comfort-ou-performance",
+        "title": "Cueca Insider: Comfort, Performance, Seamless Touch ou Slip, qual escolher"
       },
       {
         "slug": "insider-store-e-confiavel",
         "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
-      },
-      {
-        "slug": "black-friday-insider",
-        "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA"
       }
     ]
   },
@@ -81860,7 +81692,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech T-Shirt®",
         "paragraphs": [
-          "É a camiseta mais conhecida da Insider, feita com o tecido INTECH®, com a maciez do modal. A tecnologia antiodor permite usar mais e lavar menos, e a peça desamassa no corpo, diz a página. É a única da marca com garantia de 2 anos contra desbotamento, para peças lavadas conforme a etiqueta. Para comparar com outras marcas, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
+          "É a camiseta mais conhecida da Insider, feita com o tecido INTECH®, com a maciez do modal. A tecnologia antiodor permite usar mais e lavar menos, e a peça desamassa no corpo, diz a página. É a única da marca com garantia de 2 anos contra desbotamento, para peças lavadas conforme a etiqueta. Para saber se a marca compensa, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
         ],
         "bullets": [
           "Preço: de R$ 169,00 por R$ 139,00 no site; com o cupom, **R$ 118,15** (30% abaixo da tabela).",
@@ -102268,7 +102100,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Se a dúvida é a boxer, a resposta curta é: Performance para treino e esporte, Comfort para o dia a dia. Escolha pelo uso, confira o preço da variante na hora da compra, porque o preço muda por cor e tamanho, não por modelo, e acerte o tamanho antes, porque cueca não tem troca por tamanho. A Seamless Touch e a Slip são construções diferentes, não a versão premium da boxer. Se a comparação for com outras marcas, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
+          "Se a dúvida é a boxer, a resposta curta é: Performance para treino e esporte, Comfort para o dia a dia. Escolha pelo uso, confira o preço da variante na hora da compra, porque o preço muda por cor e tamanho, não por modelo, e acerte o tamanho antes, porque cueca não tem troca por tamanho. A Seamless Touch e a Slip são construções diferentes, não a versão premium da boxer. Se a dúvida é a Insider em si, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria a Comfort para o dia a dia, porque é a boxer de modal para uso diário.",
         "emphasisAfterParagraph": 1
@@ -102413,7 +102245,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Na dúvida entre Leve e Moderado, o que a página mostra é o nível indicado e a camada dupla nas axilas; a marca não diz onde um nível vira o outro.",
-          "Se a dúvida é a Insider em si, e não o nível, leia [Insider vale a pena?](/reviews/insider-vale-a-pena). O texto compara a Tech T-Shirt e as cuecas com outras marcas."
+          "Se a dúvida é a Insider em si, e não o nível, leia [Insider vale a pena?](/reviews/insider-vale-a-pena)."
         ]
       },
       {
@@ -168010,7 +167842,7 @@ export const reviewsData: unknown[] = [
           "Estoque é o número de variantes disponíveis sobre o total. Ele muda com as vendas, então confira o tamanho antes de comprar.",
           "A loja às vezes tem cadastros com sobra de PP e preço mais baixo. A tabela usa o cadastro principal de cada peça.",
           "A Oversized aparece só na tabela, sem link: resta uma peça, em PP.",
-          "A comparação de Tech, Daily e Core com outras marcas está em [Insider vale a pena?](/reviews/insider-vale-a-pena). A Light é vendida no Mercado Livre e está sem estoque no site: veja [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site)."
+          "Se a dúvida é a marca em si, com o preço, onde comprar e a troca, veja [Insider vale a pena?](/reviews/insider-vale-a-pena). A Light é vendida no Mercado Livre e está sem estoque no site: veja [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site)."
         ]
       },
       {
