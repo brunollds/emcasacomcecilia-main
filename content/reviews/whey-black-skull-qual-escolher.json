@@ -23,6 +23,17 @@
   "imageAlt": "Potes do Whey 80% HD, do 100% HD e do 3W Core da Black Skull, com o logo da marca, o código CECILIA10 e o título Whey Black Skull: qual escolher?",
   "imageFit": "contain",
   "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "Leve o 80% HD Refil 900 g se você quer pagar menos por proteína.",
+      "Leve o 100% HD, de preferência o de 1,8 kg, se você quer uma mistura de proteínas para o uso diário.",
+      "Leve o 3W Core se você quer uma dose com muita proteína: são 31 g por dose."
+    ],
+    "skipIf": [
+      "Passe na Black Skull se você procura whey isolado ou sem lactose: todos os wheys declaram \"Contém lactose\".",
+      "Passe no Gourmet e no Turbo se você escolhe pelo nome do pote: eles têm outra dose e outra conta."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
@@ -60,7 +71,7 @@
       "paragraphs": [
         "A Black Skull vende 11 wheys e um kit de Turbo, e a diferença entre eles está em quatro coisas: quanto de proteína vem em cada dose, quanto custa a proteína (não o pote), o que a lista de ingredientes diz e o sabor, que só você escolhe.",
         "O preço do pote engana porque dois potes de 900 g não têm a mesma quantidade de proteína dentro. A régua deste artigo é o preço por 100 g de proteína: preço ÷ (porções × proteína por porção) × 100, com a tabela nutricional do rótulo e o preço de venda de 23/10/2026. Exemplo com o 80% HD: o refil de 900 g tem 30 porções de 23 g de proteína, ou seja, 690 g de proteína. R$ 159,90 ÷ 690 × 100 = R$ 23,17 por 100 g de proteína.",
-        "Todos os wheys da linha declaram \"Contém lactose\", e a Black Skull não tem whey isolado nem sem lactose no site: a busca por \"isolado\" voltou sem resultado."
+        "Todos os wheys da linha declaram \"Contém lactose\": a Black Skull não tem whey isolado nem sem lactose no site."
       ]
     },
     {
@@ -154,7 +165,7 @@
     {
       "heading": "Sabor: o que a loja mostra e o que não mostra",
       "paragraphs": [
-        "A Black Skull não publica venda por sabor. O que o site mostra é a lista de sabores de cada whey, quais têm estoque e uma ordem de produtos mais vendidos, que ordena produtos e não sabores. Por isso este artigo não escolhe sabor: escolha o que você gosta. Ninguém do site provou nenhum deles.",
+        "A Black Skull não publica venda por sabor. O que o site mostra é a lista de sabores de cada whey, quais têm estoque e uma ordem de produtos mais vendidos, que ordena produtos e não sabores. Por isso o sabor fica com você: escolha o que gosta, entre os que têm estoque na tabela.",
         "Na ordem de produtos do site, considerando só wheys e o kit de Turbo, o 80% HD Refil 900 g vinha em primeiro, o 100% HD Refil 900 g em segundo e o 100% HD pote de 900 g em terceiro."
       ],
       "comparisonTable": {
@@ -227,7 +238,7 @@
         "[Whey Turbo Refil 907 g](https://www.blackskullusa.com.br/whey-turbo-refil--907g/p): é um hipercalórico, não um whey como os outros. A dose é de 120 g (12 colheres) e traz 30 g de proteína, 75 g de carboidrato e 479 kcal, com 7 doses. O refil custava R$ 79,90, e o [kit com 2 refis](https://www.blackskullusa.com.br/kit-2-unidades-whey-protein-907g-whey-turbo/p), R$ 132,81 (preço de tabela R$ 139,80). A conta por 100 g de proteína dá R$ 38,05 no refil e R$ 31,62 no kit, mas é só de referência: junto com a proteína, o que você compra é carboidrato.",
         "\"100%\" no nome: não é 100% de proteína. O 100% HD tem 21 g em 35 g (60%) no pote e no refil de 900 g, e 21 g em 30 g (70%) no refil de 450 g.",
         "Colágeno no 100% HD: o texto de venda da loja diz que o \"Blend Duo Protein\" integra as proteínas do soro do leite aos \"peptídeos hidrolisados de colágeno\" (refil de 900 g) e \"Whey + Colágeno Hidrolisado\" (1,8 kg), e as páginas do Gourmet repetem a descrição do blend. A lista de ingredientes diz só \"peptídeos hidrolisados\", sem origem, e a Black Skull não publica a quantidade (lido no site). Por isso não fazemos conta de colágeno nem estimamos a parte dele na dose. O 80% HD e o 3W Core não têm peptídeos na lista.",
-        "Dose da ficha e dose do rótulo: a ficha do 100% HD Refil 900 g na loja diz \"Dose: 30\", e a tabela nutricional do rótulo diz 35 g. As contas deste artigo usam o rótulo."
+        "Dose da página e dose do rótulo: a página do 100% HD Refil 900 g diz \"Dose: 30\", e a tabela nutricional do rótulo diz 35 g. As contas deste artigo usam o rótulo."
       ],
       "postParagraphs": [
         "Em todos os casos vale a regra do artigo: a proteína por dose da tabela e o preço do dia. O nome do produto não diz a dose."
@@ -236,7 +247,7 @@
     {
       "heading": "Quadro da linha: os 11 wheys e o kit de Turbo do site",
       "paragraphs": [
-        "Os 11 wheys e o kit de Turbo do site na mesma régua, com o preço do site. Todos declaram \"Contém lactose\". O número mais baixo não decide a compra sozinho: a dose, o tipo de proteína e o sabor mudam de produto para produto."
+        "Na mesma régua, o 80% HD Refil é o menor preço por proteína e o Gourmet 450 g, o maior. Todos declaram \"Contém lactose\". O número mais baixo não decide a compra sozinho: a dose, o tipo de proteína e o sabor mudam de produto para produto."
       ],
       "image": {
         "src": "/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp",
@@ -344,6 +355,8 @@
     },
     {
       "heading": "Qual whey da Black Skull para cada objetivo",
+      "emphasis": "Pelos números da tabela, para pagar menos pela proteína a escolha é o 80% HD Refil 900 g, porque sai a R$ 23,17 por 100 g de proteína, o menor número da linha.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Cada objetivo de compra leva um whey diferente. O R$ por 100 g de proteína é a conta que usamos no artigo inteiro, e a última coluna mostra o mesmo número com o cupom CECILIA10."
       ],
@@ -411,7 +424,7 @@
         "Qual whey da Black Skull é o mais barato por proteína? O Whey 80% HD Refil 900 g: R$ 23,17 por 100 g de proteína, ou R$ 20,28 no sabor Banana. Entre os 100% HD, o de 1,8 kg, com R$ 26,66.",
         "A Black Skull tem whey isolado ou sem lactose? Não: todos os wheys da linha declaram \"Contém lactose\", e a busca por \"isolado\" no site voltou sem resultado.",
         "O 100% HD tem colágeno? O texto de venda da loja fala em \"peptídeos hidrolisados de colágeno\", e a lista de ingredientes diz só \"peptídeos hidrolisados\". A quantidade não é publicada.",
-        "Qual sabor da Black Skull é o melhor? A loja não publica venda por sabor e ninguém do site provou os wheys, então não escolhemos sabor. A lista dos sabores com estoque está no capítulo de sabor.",
+        "Qual sabor da Black Skull é o melhor? A loja não publica venda por sabor, então o guia não escolhe sabor. A lista dos sabores com estoque está no capítulo de sabor.",
         "Whey ajuda a emagrecer ou a ganhar massa? Este artigo compara rótulo, tabela e preço, e não trata desse objetivo. Quem tem objetivo de saúde ou de dieta deve falar com nutricionista."
       ]
     }

@@ -61,7 +61,7 @@
     {
       "heading": "3. Cole o código no campo Cupom de desconto",
       "paragraphs": [
-        "No resumo do pedido, à direita, há dois campos: \"Código de vendedor(a) ou influenciador(a)\" e \"Cupom de desconto\". O CECILIA10 vai só no segundo. Cole o código e clique em Adicionar, o botão ao lado desse campo.",
+        "No resumo do pedido, o CECILIA10 vai só no campo \"Cupom de desconto\", não no de vendedor(a) ou influenciador(a). Cole o código e clique em Adicionar, o botão ao lado desse campo.",
         "Quando o cupom entra, o código aparece como etiqueta no campo e a linha de descontos aparece no resumo."
       ],
       "images": [

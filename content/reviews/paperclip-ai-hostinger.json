@@ -72,7 +72,7 @@
       "heading": "É confiável? O que dá para conferir",
       "paragraphs": [
         "“Confiável” é uma palavra grande. Dá para separar o que é verificável do que não é.",
-        "**Quem mantém.** Segundo o repositório oficial, github.com/paperclipai/paperclip, o projeto é mantido pela equipe Paperclip, e o aviso de copyright diz “MIT © 2026 Paperclip Labs, Inc.”. O site do projeto, paperclip.ing, aponta para o mesmo repositório. Não confunda com forks e cópias do código que aparecem na busca.",
+        "**Quem mantém.** O repositório oficial, github.com/paperclipai/paperclip, diz que o projeto é mantido pela equipe Paperclip, e o aviso de copyright diz “MIT © 2026 Paperclip Labs, Inc.”. O site do projeto, paperclip.ing, aponta para o mesmo repositório. Não confunda com forks e cópias do código que aparecem na busca.",
         "**Licença.** MIT. Quer dizer que o código é aberto: qualquer pessoa pode ler, auditar e usar. Também quer dizer que ninguém é obrigado a manter a versão que você instalou.",
         "**Onde roda.** Você escolhe. Pode rodar no seu computador, num servidor próprio ou no plano gerenciado da Hostinger. O site do projeto diz que a versão auto-hospedada não exige conta no Paperclip.",
         "**Onde ficam as chaves e os dados.** Depende do caminho. Na VPS, a própria Hostinger diz que dados sensíveis, memória dos agentes e credenciais de API ficam “inteiramente em sua infraestrutura”, ou seja, no servidor que você alugou. No gerenciado, a página diz que as chaves ficam na sua instância gerenciada. Isso é a descrição da Hostinger, não uma auditoria nossa.",
@@ -99,7 +99,7 @@
     {
       "heading": "Gerenciado ou VPS na Hostinger",
       "paragraphs": [
-        "A Hostinger oferece o Paperclip de dois jeitos. No **gerenciado**, você assina e a empresa cuida do servidor, do banco e das atualizações. No **VPS**, você aluga um servidor virtual, a Hostinger instala o Paperclip nele com Docker (um programa que roda cada aplicativo isolado num contêiner) e o resto fica com você."
+        "A escolha é quem cuida do servidor: no **gerenciado**, é a Hostinger, que também cuida do banco e das atualizações. No **VPS**, você aluga um servidor virtual, a Hostinger instala o Paperclip nele com Docker (um programa que roda cada aplicativo isolado num contêiner) e o resto fica com você."
       ],
       "comparisonTable": {
         "headers": [
@@ -149,7 +149,7 @@
     {
       "heading": "Quanto custa",
       "paragraphs": [
-        "Preços de planos de 24 meses, lidos em 21/10/2026. O gerenciado é o plano “Apps de automação com IA”, com o mesmo preço para o OpenClaw, o Hermes Agent e o Paperclip."
+        "O gerenciado é o plano “Apps de automação com IA”, com o mesmo preço para o OpenClaw, o Hermes Agent e o Paperclip: os valores abaixo são de planos de 24 meses, de 21/10/2026."
       ],
       "comparisonTable": {
         "headers": [

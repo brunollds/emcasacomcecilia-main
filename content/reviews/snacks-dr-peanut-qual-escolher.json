@@ -33,7 +33,7 @@
     {
       "heading": "Os três snacks em uma tabela",
       "paragraphs": [
-        "Este texto compara os snacks da Dr. Peanut entre si: a Doctor Bar, o alfajor e a Doctor Wafer. Não compara com barras de outras marcas e não diz qual sabor é o melhor. As pastas de amendoim e o whey ficam de fora; a tabela deles está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor). Cada linha é um sabor, com os números da tabela publicada pela loja, lida em 24/10/2026."
+        "Este texto compara a Doctor Bar, o alfajor e a Doctor Wafer entre si: a barra tem mais proteína, o wafer tem menos calorias, e o alfajor fica no meio. Não compara com barras de outras marcas e não diz qual sabor é o melhor. As pastas de amendoim e o whey ficam de fora; a tabela deles está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor). Cada linha é um sabor, com os números da tabela publicada pela loja, lida em 24/10/2026."
       ],
       "comparisonTable": {
         "headers": [
@@ -143,6 +143,8 @@
     },
     {
       "heading": "Qual escolher",
+      "emphasis": "Pelos números da tabela, para quem quer mais proteína por unidade a escolha é a Doctor Bar, porque ela tem 21 g contra menos de 6 g dos outros dois.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Nenhum dos três ganha em tudo. A escolha depende do que pesa mais para você:"
       ],
@@ -162,11 +164,23 @@
       "bullets": [
         "Doctor Bar tem glúten? Tem. A página da Doctor Bar Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. O Speculoos não tem tabela publicada, e o aviso dele não foi conferido.",
         "Doctor Bar vende avulsa? Não. A loja vende só em display de 8 barras, por R$ 122,03, o que dá R$ 15,25 por barra na conta.",
-        "Alfajor Dr. Peanut tem quantas calorias? Tem de 158 a 183 kcal por unidade de 35 g, conforme o sabor, segundo a tabela publicada pela loja.",
+        "Alfajor Dr. Peanut tem quantas calorias? Tem de 158 a 183 kcal por unidade de 35 g, conforme o sabor, na tabela publicada pela loja.",
         "Qual snack tem mais proteína? Por unidade, a Doctor Bar, com 21 g. O alfajor tem de 4 a 4,7 g, e o wafer, de 5 a 6 g."
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Doctor Bar se você quer mais proteína por unidade: 21 g.",
+      "Leve a Doctor Wafer se você quer menos calorias por unidade, de 118 a 127 kcal, e o menor preço por unidade.",
+      "Leve o alfajor Avelã ou Cookies & Cream se você quer o menor açúcar total: 0,8 g por unidade."
+    ],
+    "skipIf": [
+      "Passe nos três se você escolhe pelo sabor: o guia compara só os números da tabela.",
+      "Passe no alfajor se você precisa evitar glúten ou lactose: a loja não publica o aviso de alérgicos dele.",
+      "Passe na escolha por tabela se você precisa encaixar o snack numa dieta: isso é com nutricionista ou médico."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

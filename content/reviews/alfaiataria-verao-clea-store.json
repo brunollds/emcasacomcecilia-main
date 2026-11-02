@@ -35,13 +35,13 @@
       "paragraphs": [
         "A Cléa Store vende peças avulsas. No catálogo lido, não há conjunto de alfaiataria. O único \"conjunto\" da loja é de crochê, por R$ 1.490. Também não há pantalona de alfaiataria fora de duas calças, que aparecem mais abaixo.",
         "Para ter um conjunto de alfaiataria de verão, a saída é juntar um blazer ou colete com uma calça ou short da mesma cor e do mesmo tecido. O capítulo Montar um conjunto mostra três combinações desse tipo, com a conta e o cupom.",
-        "Não compramos nem testamos nenhuma destas peças. O que está aqui vem das fichas e das páginas da loja."
+        "Não compramos nem testamos nenhuma destas peças. O que está aqui vem das páginas da loja."
       ]
     },
     {
       "heading": "Tecido: o que a ficha diz",
       "paragraphs": [
-        "A loja não publica a gramatura do tecido, então este texto não compara peso. Forro aparece só nos blazers 4305 e 4307. Nas outras peças, a ficha não informa."
+        "A loja não publica a gramatura do tecido, então este texto não compara peso. Forro aparece só nos blazers 4305 e 4307. Nas outras peças, a página não diz."
       ],
       "comparisonTable": {
         "headers": [
@@ -143,9 +143,9 @@
     {
       "heading": "Blazer: linho, mistura com elastano ou poliéster com forro",
       "paragraphs": [
-        "Três blazers estão à venda, cada um com um tecido diferente.",
+        "Nos blazers, o tecido decide: linho puro, mistura com elastano ou poliéster com forro.",
         "O de linho 100% (4404) custa R$ 899,00 e tem grade de M e G. A ficha não informa forro.",
-        "O curto cropped (4348) é de 95% poliéster e 5% elastano, segundo a ficha. Custa R$ 428,00, com P e M, e a ficha não informa forro.",
+        "A página do curto cropped (4348) diz 95% poliéster e 5% elastano. Custa R$ 428,00, com P e M, e a ficha não informa forro.",
         "O oversized de mescla (4307) é de 70% poliéster e 30% viscose, com forro de 97% poliéster e 3% elastano. Custa R$ 524,30, de R$ 749,00, mas só tem P.",
         "Os dois blazers esgotados, o risca de giz (4282) e o bordô (4305), não entram nas montagens: no dia da leitura, nenhum dos dois tinha tamanho disponível.",
         "Se a pergunta é qual tecido usar no calor, a ficha só diz a composição. Veja o capítulo Calor: o que a ficha permite dizer."
@@ -203,7 +203,7 @@
     {
       "heading": "Colete: linho bege ou vermelho",
       "paragraphs": [
-        "Os dois coletes são de linho 100%, segundo a ficha.",
+        "A página traz os dois coletes em linho 100%.",
         "O bege (4221) está por R$ 299,40, de R$ 499,00, com PP e P. O vermelho (4393) custa R$ 799,00 e tem P e G. Nos dois, a grade está quebrada, então o tamanho decide antes do modelo."
       ],
       "images": [
@@ -373,7 +373,7 @@
       "heading": "Código e onde comprar",
       "paragraphs": [
         "O cupom é CSEMCASACOMCECILIA, com 10% em todo o site sobre o preço do dia, em todas as formas de pagamento. Ele soma com as promoções da loja. Use o código no checkout.",
-        "A devolução é grátis, segundo a loja. Troca direta de tamanho e reembolso de compra com cupom não estão confirmados, então este texto não conta com eles.",
+        "A página da loja diz que a devolução é grátis. Troca direta de tamanho e reembolso de compra com cupom não estão confirmados, então este texto não conta com eles.",
         "Regras do cupom na [página da Cléa Store](/cupons/clea-store). Compra no [site oficial da Cléa Store](https://www.cleastore.com.br/). A loja também vende no Mercado Livre, e a diferença está em [Mercado Livre ou site](/reviews/clea-store-mercado-livre-ou-site)."
       ]
     },
@@ -382,7 +382,9 @@
       "paragraphs": [
         "Se a grade do seu tamanho está aberta, a montagem rosa é a mais simples: tudo em linho, numa cor só, com blazer e short no mesmo tom. Ela também é a mais cara, R$ 1.330,20 com o cupom. A bege é a mais barata, R$ 772,56 com o cupom, porque o colete está em promoção. Quem quer colete com calça de linho escolhe o bege se for PP ou P, e o vermelho se for P ou G. Para calça, a caqui (4416) e a vermelha (4414) estão em pré-venda, só em 36 e 38. Quem quer blazer com forro declarado só tem o mescla (4307), e só em P.",
         "Se a peça é para o trabalho no inverno, o [look de trabalho com alfaiataria](/reviews/look-trabalho-alfaiataria-feminina-clea-store) mostra outras combinações. Por baixo do blazer, o [guia de bodies da Cléa Store](/reviews/body-clea-store-second-skin-qual-escolher) compara os modelos."
-      ]
+      ],
+      "emphasis": "A montagem rosa é a mais simples, toda em linho e numa cor só; para PP ou P, a bege sai mais barata.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Perguntas frequentes",
@@ -395,6 +397,15 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Quem quer o conjunto mais simples: a montagem rosa, toda em linho e numa cor só.",
+      "Quem veste PP ou P e quer colete com calça pelo menor total: a montagem bege."
+    ],
+    "skipIf": [
+      "Quem procura conjunto pronto: a loja não vende, só peças avulsas para montar."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

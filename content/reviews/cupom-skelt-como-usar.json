@@ -34,7 +34,7 @@
       "heading": "O que é o cupom SKEMCASACOMCECILIA",
       "paragraphs": [
         "SKEMCASACOMCECILIA é o cupom da parceria do Em Casa com Cecília com a Skelt, marca brasileira de autobronzeador, body splash e hidratação corporal. O cupom vale só no site oficial, skelt.com.br.",
-        "O desconto é de 10% em todo o site. O cupom vale também em kits e combos, mas eles não entram nas contas deste artigo. Se for comprar um kit, confira o valor no resumo da sacola.",
+        "O desconto é de 10% em todo o site. O cupom vale também em kits e combos, Se for comprar um kit, confira o valor no resumo da sacola.",
         "A loja aceita um cupom por pedido. Um cupom de primeira compra da própria loja também não soma com o nosso."
       ]
     },
@@ -136,7 +136,7 @@
       },
       "postParagraphs": [
         "Sem o cupom, os descontos somavam R$ 17,39 e o total no Pix era R$ 102,51. Com o cupom, os descontos chegaram a R$ 27,64. O cupom entrou sobre o preço que já estava com a promoção, não sobre o preço de tabela.",
-        "Num segundo teste, pela API pública do carrinho no mesmo dia, um body splash e o mousse somavam R$ 219,80 de tabela. Com a promoção do site, foram para R$ 197,82; com o cupom, R$ 178,04; no Pix, R$ 169,13. Não houve dado pessoal nem finalização.",
+        "Num segundo teste no mesmo dia, um body splash e o mousse somavam R$ 219,80 de tabela. Com a promoção do site, foram para R$ 197,82; com o cupom, R$ 178,04; no Pix, R$ 169,13. Não houve dado pessoal nem finalização.",
         "São valores de um dia. A loja pode mudar a promoção e o Pix sem aviso, então confira a conta no seu resumo."
       ],
       "image": {
@@ -150,7 +150,7 @@
     {
       "heading": "Frete grátis e o cupom",
       "paragraphs": [
-        "A Skelt dá frete grátis conforme a região e o valor final do pedido. Segundo a política de frete da loja:"
+        "A Skelt dá frete grátis conforme a região e o valor final do pedido. A política de frete da loja divide assim:"
       ],
       "comparisonTable": {
         "headers": [
@@ -179,7 +179,7 @@
     {
       "heading": "Brinde e promoção",
       "paragraphs": [
-        "O valor mínimo dos brindes da Skelt conta o pedido depois dos descontos, segundo a política de brindes. Por isso, o cupom e o Pix podem tirar o brinde da sacola. O brinde muda com a campanha, e na sacola do teste com o mousse não apareceu nenhuma linha de brinde.",
+        "O valor mínimo dos brindes da Skelt conta o pedido depois dos descontos. Por isso, o cupom e o Pix podem tirar o brinde da sacola. O brinde muda com a campanha, e na sacola do teste com o mousse não apareceu nenhuma linha de brinde.",
         "O cupom soma com as promoções vigentes do site. Confira o carrinho antes de pagar."
       ]
     },

@@ -31,23 +31,16 @@
       ]
     },
     {
-      "heading": "Como comparamos",
-      "paragraphs": [
-        "Este guia compara whey e creatina da Black Skull, parceira do site, e da Dark Lab, que não é parceira, pelo que as duas lojas publicam: o rótulo, a ficha do produto e o preço do site, sem frete e sem desconto de Pix. Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
-        "A série compara a Black Skull com uma marca por vez: [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Black Skull ou Dux](/reviews/black-skull-ou-dux) seguem o mesmo método."
-      ]
-    },
-    {
       "heading": "De onde vem cada marca",
       "paragraphs": [
-        "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. Segundo o \"Sobre nós\" do site, o produto é desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O cadastro de CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, CNPJ 19.897.687/0001-38, ativa desde 18/03/2014 segundo a BrasilAPI. O \"USA\" aparece no endereço do site e no nome que a marca cita; a empresa do cadastro é brasileira.",
+        "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. O \"Sobre nós\" do site fala em produto desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O cadastro de CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, CNPJ 19.897.687/0001-38, ativa desde 18/03/2014 (BrasilAPI). O \"USA\" aparece no endereço do site e no nome que a marca cita; a empresa do cadastro é brasileira.",
         "O rodapé do site da Dark Lab cita a American Product LTDA, CNPJ 18.744.639/0001-47. A BrasilAPI registra a razão social AMERICAN PRODUCT LTDA, aberta em 2013. O endereço não entra aqui, porque o do rodapé e o do cadastro não coincidem."
       ]
     },
     {
       "heading": "Creatina: preço por 100 g de produto",
       "paragraphs": [
-        "A tabela compara o preço do pote por 100 g de produto. A dose de 5 g é a que cada loja indica: a Black Skull no rótulo da Creator e a Dark Lab na página do produto. Os preços são do site, lidos em 24/10/2026, sem desconto de Pix. As outras creatinas da Black Skull estão em [Creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher)."
+        "Na creatina, a Black Skull ganha em todos os tamanhos; a tabela compara o preço do pote por 100 g de produto. A dose de 5 g é a que cada loja indica: a Black Skull no rótulo da Creator e a Dark Lab na página do produto. Os preços são do site, lidos em 24/10/2026, sem desconto de Pix. As outras creatinas da Black Skull estão em [Creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher)."
       ],
       "images": [
         {
@@ -66,6 +59,7 @@
         }
       ],
       "comparisonTable": {
+        "caption": "Preços do site oficial, sem frete, sem cupom e sem Pix; conta nossa por 100 g de produto.",
         "headers": [
           "Produto",
           "Tamanho",
@@ -118,7 +112,7 @@
     {
       "heading": "Whey: preço por 100 g de proteína",
       "paragraphs": [
-        "A conta é o preço dividido pela proteína total do pote, que é a proteína por dose vezes o número de doses. Na Black Skull 100% HD, o rótulo traz 25 porções de 35 g; a página diz 30, e a conta usa as 25 do rótulo. A Black Skull 80% HD tem sabores com preços diferentes: a conta usa R$ 159,90, o preço de Morango e Cookies; o sabor Banana saía por R$ 139,90 na ficha do produto. Os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher)."
+        "A conta é o preço dividido pela proteína total do pote, que é a proteína por dose vezes o número de doses. Na Black Skull 100% HD, o rótulo traz 25 porções de 35 g; a página diz 30, e a conta usa as 25 do rótulo. A Black Skull 80% HD tem sabores com preços diferentes: a conta usa R$ 159,90, o preço de Morango e Cookies; o sabor Banana saía por R$ 139,90 na página do produto. Os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher)."
       ],
       "images": [
         {
@@ -130,6 +124,7 @@
         }
       ],
       "comparisonTable": {
+        "caption": "Preços do site oficial, sem frete, sem cupom e sem Pix; conta nossa por 100 g de proteína.",
         "headers": [
           "Produto",
           "Tamanho",
@@ -177,7 +172,7 @@
       "heading": "O que o rótulo diz",
       "paragraphs": [
         "A Black Skull declara creatina monohidratada na lista de ingredientes da Creator. A Dark Lab não publica a tabela nutricional da creatina, então o texto não diz qual forma ela usa nem quanta creatina há em cada dose. Por isso a conta por 100 g compara o preço do pote, e não a creatina pura.",
-        "No whey, a Black Skull 80% HD declara só proteína concentrada do soro (WPC) e 23 g de proteína em cada 30 g. A 100% HD traz WPC, WPI, WPH e peptídeos hidrolisados, segundo a lista de ingredientes. A página da Dark Lab diz 21 g de proteína por dose de 30 g, e a embalagem traz o mesmo número.",
+        "No whey, a Black Skull 80% HD declara só proteína concentrada do soro (WPC) e 23 g de proteína em cada 30 g. Na 100% HD, a lista de ingredientes traz WPC, WPI, WPH e peptídeos hidrolisados. A página da Dark Lab diz 21 g de proteína por dose de 30 g, e a embalagem traz o mesmo número.",
         "Os dois wheys contêm lactose. Sobre glúten, a página da Dark Lab diz que o 100% Whey não contém, com exceção do sabor cookies. A tabela nutricional completa não está publicada no site da Dark Lab, então o texto não compara outros nutrientes."
       ]
     },
@@ -189,6 +184,8 @@
     },
     {
       "heading": "Qual escolher",
+      "emphasis": "Pelos números da tabela, para quem decide pelo preço a escolha é a Black Skull nos dois produtos: creatina mais barata em todos os tamanhos e whey 80% HD com o menor preço por 100 g de proteína com o cupom.",
+      "emphasisAfterParagraph": 2,
       "paragraphs": [
         "**Creatina: a Black Skull.** O kit com dois refis de 500 g sai por R$ 7,58 por 100 g no site, ou R$ 6,82 com o cupom. A Creator refil de 500 g sai por R$ 7,98, ou R$ 7,18 com o cupom. A Dark Lab fica acima em todos os tamanhos da tabela. Este texto não traz cupom da Dark Lab.",
         "**Whey: depende do que você compara.**"
@@ -199,7 +196,7 @@
         "A Dark Lab 100% Whey refil custa menos por 100 g de proteína que a Black Skull 100% HD (R$ 23,79 contra R$ 30,46 no site), mas fica R$ 0,62 acima da 80% HD."
       ],
       "postParagraphs": [
-        "O texto não julga sabor nem qualidade geral: ninguém da equipe provou os produtos, e não coletamos avaliações de clientes."
+        "Sabor, dissolução, digestão e avaliações de clientes ficam fora: a comparação é só de rótulo, página do produto e preço. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista. A mesma comparação com outras marcas está em [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Black Skull ou Dux](/reviews/black-skull-ou-dux)."
       ]
     },
     {
@@ -211,6 +208,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Black Skull 80% HD se você quer mais proteína por dose na mesma porção de 30 g: 23 g contra 21 g.",
+      "Leve a Dark Lab 100% Whey refil se você compara com o 100% HD da Black Skull: ele custa menos por 100 g de proteína."
+    ],
+    "skipIf": [
+      "Passe na Dark Lab se você compara outros nutrientes do whey: a tabela nutricional completa não está publicada no site.",
+      "Passe na Dark Lab se você decide a creatina pela forma ou pela dose de creatina: a tabela da creatina não é publicada."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
@@ -221,7 +228,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "black-skull",
-  "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Dark Lab não é parceira.",
+  "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Dark Lab não é parceira. Não provamos os produtos.",
   "relatedArticles": [
     {
       "slug": "black-skull-ou-growth",

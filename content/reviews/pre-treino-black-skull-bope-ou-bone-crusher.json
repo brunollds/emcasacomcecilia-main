@@ -69,7 +69,7 @@
         ]
       },
       "postParagraphs": [
-        "O BOPE de 300 g e o de 150 g têm a mesma tabela, e o Bone Crusher de 150 g tem a mesma tabela nos quatro sabores. No Bone Crusher 300 g, a página mostra a tabela nutricional só como imagem, e não conseguimos confirmar essa imagem com a marca. Por isso, o texto usa dele apenas o que a página traz escrito: dose de 7,5 g, 40 doses por pote e a lista de ingredientes, que inclui beta-alanina, creatina, arginina, taurina e cafeína anidra.",
+        "O BOPE de 300 g e o de 150 g têm a mesma tabela, e o Bone Crusher de 150 g tem a mesma tabela nos quatro sabores. No Bone Crusher 300 g, a página mostra a tabela nutricional só como imagem. Por isso, o texto usa dele apenas o que a página traz escrito: dose de 7,5 g, 40 doses por pote e a lista de ingredientes, que inclui beta-alanina, creatina, arginina, taurina e cafeína anidra.",
         "Sabores à venda: o BOPE, em frutas amarelas, limão e frutas vermelhas; o Bone Crusher 300 g, em frutas vermelhas, limão, frutas amarelas e laranja com pimenta; o Legacy, em tropical mango."
       ],
       "images": [
@@ -92,7 +92,7 @@
     {
       "heading": "BOPE ou Bone Crusher: o que muda no rótulo",
       "paragraphs": [
-        "Os números do Bone Crusher abaixo são do rótulo do 150 g; o 300 g só tem a tabela em imagem, ainda não confirmada.",
+        "No rótulo, três números separam os dois: beta-alanina, arginina e carboidrato. Os do Bone Crusher são do rótulo do 150 g; o 300 g só tem a tabela em imagem, ainda não confirmada.",
         "Dose e creatina: iguais. Os dois pedem uma dose de 7,5 g em 150 ml de água, uma vez ao dia, e declaram 3000 mg de creatina por dose.",
         "Cafeína: 135 mg no BOPE e 140 mg no Bone Crusher (rótulo do 150 g). A diferença é de 5 mg por dose.",
         "Beta-alanina: 750 mg no BOPE e 2 g no Bone Crusher, a maior diferença da tabela. Arginina: 150 mg no BOPE e 500 mg no Bone Crusher. Taurina: 350 mg e 370 mg.",
@@ -113,7 +113,7 @@
     {
       "heading": "Quanto custa cada dose",
       "paragraphs": [
-        "O preço por dose é o preço de venda do site em 23/10/2026 dividido pelas doses do pote. A última coluna aplica o cupom CECILIA10, de 10% em todo o site, sobre esse preço. O cálculo é nosso e está arredondado para o centavo."
+        "O BOPE custa menos por dose nos dois tamanhos; o kit de três BOPE de 150 g tem o menor preço por dose. O preço por dose é o preço de venda do site em 23/10/2026 dividido pelas doses do pote. A última coluna aplica o cupom CECILIA10, de 10% em todo o site, sobre esse preço. O cálculo é nosso e está arredondado para o centavo."
       ],
       "comparisonTable": {
         "headers": [
@@ -206,6 +206,8 @@
     },
     {
       "heading": "Qual escolher: BOPE ou Bone Crusher",
+      "emphasis": "Pelos números da tabela, para quem compra um pote só e quer o menor preço por dose a escolha é o BOPE 300 g, porque sai a R$ 1,62 por dose contra R$ 1,75 do Bone Crusher de 300 g.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "A escolha segue o que pesa para você no rótulo e no preço por dose."
       ],
@@ -221,7 +223,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "BOPE ou Bone Crusher: qual é melhor? Pelo rótulo do 150 g e pelo preço, o BOPE custa menos por dose e o Bone Crusher traz mais beta-alanina, mais arginina e menos carboidrato. Qual pesa mais é uma conta sua.",
-        "Bone Crusher é bom? Ninguém do site usou o produto. O rótulo do 150 g declara 140 mg de cafeína, 2 g de beta-alanina e 3000 mg de creatina por dose de 7,5 g, com açúcar zero.",
+        "Bone Crusher é bom? O rótulo do 150 g declara 140 mg de cafeína, 2 g de beta-alanina e 3000 mg de creatina por dose de 7,5 g, com açúcar zero.",
         "BOPE da Black Skull é bom? Ninguém do site usou o produto. O rótulo declara 135 mg de cafeína, 750 mg de beta-alanina e 3000 mg de creatina por dose de 7,5 g, a R$ 1,62 por dose no pote de 300 g.",
         "A Black Skull tem pré-treino sem cafeína? Não. Nenhum item da categoria Pré-treino era sem cafeína, e a busca do site por \"sem cafeina\" não achava produto.",
         "Qual pré-treino da Black Skull tem menos cafeína? Pelo rótulo, o BOPE, com 135 mg por dose de 7,5 g, contra 140 mg do Bone Crusher 150 g e 200 mg do Legacy, de 10 g.",
@@ -230,6 +232,15 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o BOPE se você decide pelo menor preço por dose e aceita mais carboidrato no rótulo.",
+      "Leve o Bone Crusher se você decide por mais beta-alanina e arginina, com menos carboidrato."
+    ],
+    "skipIf": [
+      "Passe nos dois se você procura pré-treino sem cafeína: a Black Skull não vende nenhum."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

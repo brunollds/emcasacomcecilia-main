@@ -33,8 +33,7 @@
     {
       "heading": "Como comparamos: preço por 100 g de proteína",
       "paragraphs": [
-        "São cinco marcas e dezenas de potes com rótulos diferentes, então o guia usa uma régua comum.",
-        "O preço do pote engana porque dois potes de 900 g não têm a mesma quantidade de proteína dentro. Por isso a régua deste guia é o preço por 100 g de proteína: preço ÷ (porções × proteína por porção) × 100.",
+        "O preço do pote engana: dois potes de 900 g não têm a mesma proteína dentro. Por isso a régua deste guia é o preço por 100 g de proteína: preço ÷ (porções × proteína por porção) × 100.",
         "Exemplo com o 80% HD da Black Skull: o refil de 900 g tem 30 porções de 23 g de proteína, ou seja, 690 g de proteína. R$ 159,90 ÷ 690 × 100 = R$ 23,17 por 100 g de proteína."
       ],
       "bullets": [
@@ -57,7 +56,7 @@
     {
       "heading": "Concentrado, isolado, 3W ou hidrolisado: a diferença",
       "paragraphs": [
-        "Whey é a proteína do soro do leite. O nome do tipo diz como ela foi processada, e a diferença aparece na tabela nutricional."
+        "O tipo diz como a proteína foi processada, e a diferença aparece na tabela nutricional."
       ],
       "bullets": [
         "Concentrado (WPC): o tipo mais comum. Tem mais carboidrato e gordura que o isolado e menos proteína por grama: 67% no 100% Pure Whey da Probiótica (20 g em 30 g) e 77% no 80% HD da Black Skull (23 g em 30 g).",
@@ -251,7 +250,7 @@
     {
       "heading": "Probiótica: concentrado ou isolado",
       "paragraphs": [
-        "Preços de 30/10/2026, no cartão. A proteína por dose é a da tabela nutricional do sabor indicado em cada linha."
+        "Na Probiótica, compare os quatro potes pela proteína da tabela do sabor: os preços abaixo são de 30/10, no cartão."
       ],
       "comparisonTable": {
         "headers": [
@@ -322,7 +321,7 @@
     {
       "heading": "Quadro-mestre: todos os wheys das cinco lojas",
       "paragraphs": [
-        "Todos os wheys em pó das cinco lojas que tiveram a proteína por dose lida, na mesma régua. O quadro não ordena nem pontua: o número mais baixo não é, sozinho, a melhor compra, porque a dose, o tipo de proteína e a lactose mudam de produto para produto."
+        "Todos os wheys lidos, na mesma régua: o número mais baixo não é, sozinho, a melhor compra, porque dose, tipo de proteína e lactose mudam."
       ],
       "comparisonTable": {
         "caption": "Preços de venda dos sites oficiais, antes do cupom. Proteína por dose da tabela nutricional (na Mais Mu, do texto da página, porque a loja não publica tabela). R$ por 100 g de proteína: conta nossa, preço ÷ (doses × proteína por dose) × 100, com as doses da tabela ou, nos potes de 40 g da Max e no Dr. Peanut, 900 g ÷ 40 g.",
@@ -543,6 +542,8 @@
     },
     {
       "heading": "Qual whey escolher: o quadro por objetivo",
+      "emphasis": "Pelos números da tabela, para pagar menos pela proteína do soro a escolha é o 80% HD da Black Skull, porque sai a R$ 23,17 por 100 g de proteína.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Cada objetivo de compra leva um whey, com uma alternativa. O quadro reúne os sete perfis dos capítulos acima."
       ],
@@ -678,12 +679,24 @@
     {
       "heading": "Como este guia foi feito",
       "paragraphs": [
-        "Ninguém do site tomou os wheys. Este guia reúne o que cada loja publica: tabela nutricional, lista de ingredientes e preço de venda, lidos nos sites oficiais da Black Skull, da Max Titanium, da Probiótica, da Dr. Peanut e da Mais Mu, sem cupom. A proteína por dose vem da tabela, e não do texto da página; só a Mais Mu, que não publica tabela, tem a dose lida no texto. O \"mais vendido\" é a ordem de cada site na data, e não dado de vendas, e os sabores só aparecem como lista.",
-        "Ficaram de fora o 3W, o Monster e o sachê da Probiótica (tabela não lida), os sachês da Max, os hipercalóricos, os kits e combos, as barras e a proteína vegetal. Os refis de 900 g e de 1,8 kg da Mais Mu também: a loja não publica tabela, e o guia só fez a conta do pote de 450 g e do sachê. As contas de R$ por 100 g de proteína são nossas, com o preço do dia e a dose da tabela.",
+        "Este guia reúne o que cada loja publica: tabela nutricional, lista de ingredientes e preço de venda sem cupom, lidos nos sites oficiais das cinco marcas. A proteína por dose vem da tabela, e não do texto da página; só a Mais Mu, que não publica tabela, tem a dose lida no texto. O \"mais vendido\" é a ordem de cada site na data, e não dado de vendas, e os sabores só aparecem como lista.",
+        "Ficam de fora o 3W, o Monster e os sachês, os hipercalóricos, kits e combos, barras e proteína vegetal. Os refis de 900 g e de 1,8 kg da Mais Mu também: a loja não publica tabela, e o guia só fez a conta do pote de 450 g e do sachê. As contas de R$ por 100 g de proteína são nossas, com o preço do dia e a dose da tabela.",
         "Preço e estoque mudam toda semana, e a Black Friday está chegando: vale o que aparecer no site da loja na hora da compra. O Em Casa com Cecília é afiliado das cinco marcas e pode receber comissão pelas compras feitas pelos links e pelos cupons, sem custo extra para você."
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o concentrado em pote de 900 g se você quer o menor preço por proteína.",
+      "Leve o isolado se você quer mais proteína na mesma dose e menos carboidrato.",
+      "Leve o pote de 450 g ou o sachê se você quer provar um sabor ou levar a dose na bolsa."
+    ],
+    "skipIf": [
+      "Passe os potes com soja na lista se você quer só proteína do soro.",
+      "Passe o nome do pote se você não lê a proteína por dose na tabela: vale a tabela.",
+      "Procure um nutricionista se você busca dose ou dieta: o guia compara rótulo, tabela e preço."
+    ]
+  },
   "pros": [],
   "cons": [],
   "editorialNote": "Somos afiliados das cinco marcas e ninguém da equipe tomou os wheys.",

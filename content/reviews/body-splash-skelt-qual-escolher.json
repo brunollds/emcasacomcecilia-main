@@ -23,6 +23,17 @@
   "imageAlt": "Frascos dos body splash Solar Muse, Hidden Flowers e Velvet Milano da Skelt, com o logo da loja e o título Body splash Skelt: qual escolher?",
   "imageFit": "contain",
   "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "Leve a fragrância da família de notas que você prefere, cítrica e fresca, floral ou doce e gourmand: as dez custam o mesmo.",
+      "Leve o Duo Hidden Flowers se você quer dar presente com hidratante da mesma fragrância: os Duos saem abaixo dos avulsos."
+    ],
+    "skipIf": [
+      "Passe no frasco grande se você quer conhecer a fragrância antes: os kits de miniaturas de 15 ml servem para provar.",
+      "Passe nos hidratantes avulsos de Pink Sands, Grand Bahama, Solar Muse e Milos Breeze: essas quatro não têm.",
+      "Passe nesta lista se você escolhe por ranking de cheiro ou por tempo de fixação em horas: a loja não publica nenhum dos dois."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
@@ -52,13 +63,13 @@
     {
       "heading": "Resposta rápida: qual body splash Skelt escolher",
       "paragraphs": [
-        "Como as dez fragrâncias da Skelt custam o mesmo, a escolha é pelo perfil: cítrico e fresco, floral ou doce e gourmand. Ninguém do site usou nenhuma, então o guia compara só o que a loja publica. O capítulo Qual escolher traz uma sugestão por perfil e por tipo de presente, com os kits."
+        "Como as dez fragrâncias da Skelt custam o mesmo, a escolha é pelo perfil: cítrico e fresco, floral ou doce e gourmand. O guia compara só o que a loja publica: notas, perfil e preço. O capítulo Qual escolher traz uma sugestão por perfil e por tipo de presente, com os kits."
       ]
     },
     {
       "heading": "As 10 fragrâncias lado a lado",
       "paragraphs": [
-        "A Skelt vende dez body splash de 100 ml, todos a R$ 99,90. Ninguém do site usou nenhum deles, e este guia não diz qual é o mais cheiroso: cheiro é gosto, e a loja também não classifica. A Skelt não agrupa as dez num só lugar e o rótulo muda de página para página; o agrupamento deste guia (cítrico e fresco, floral, doce e gourmand) parte das notas publicadas. A loja também não compara seus produtos com perfumes de outras marcas, então a comparação é só entre as dez fragrâncias dela.",
+        "A Skelt vende dez body splash de 100 ml a R$ 99,90, então a escolha é pelo perfil de notas. Ninguém do site usou nenhum deles, e este guia não diz qual é o mais cheiroso: cheiro é gosto, e a loja também não classifica. A Skelt não agrupa as dez num só lugar e o rótulo muda de página para página; o agrupamento deste guia (cítrico e fresco, floral, doce e gourmand) parte das notas publicadas. A loja também não compara seus produtos com perfumes de outras marcas, então a comparação é só entre as dez fragrâncias dela.",
         "A tabela traz as notas de topo que a Skelt publica em cada página e o perfil em que o guia encaixou a fragrância. Onde a página não tem a pirâmide de notas, a célula diz isso e traz o que a descrição da loja cita. A posição é a do produto na ordem de mais vendidos do site da Skelt, entre todos os produtos da loja, e não só entre body splash."
       ],
       "comparisonTable": {
@@ -161,7 +172,7 @@
     {
       "heading": "Cítrico e fresco: Amalfi Sunset, Unexpected Day, Grand Bahama e Milos Breeze",
       "paragraphs": [
-        "Este é o grupo em que as notas de topo são cítricas, de fruta clara ou de água. O agrupamento é deste guia, não da loja.",
+        "Quatro fragrâncias de topo cítrico, de fruta clara ou de água. O agrupamento é deste guia, não da loja.",
         "**Amalfi Sunset.** A Skelt diz \"Transporte-se para o verão europeu\" e descreve a fragrância como cítrica nos kits. As notas comuns às três pirâmides que a loja publica (kits e perfume para cabelos) são bergamota, jasmim e sândalo. Está em quinto na ordem de mais vendidos do site e é a única das dez que tem perfume para cabelos, hidratante e creme para mãos da mesma fragrância. A página do Amalfi pede para não aplicar no rosto.",
         "**Unexpected Day.** A loja a chama de \"uma surpresa refrescante\". A descrição cita pera e maçã verde, violeta e laranjeira, baunilha e chantilly: começa fresca e termina em \"conforto doce\", nas palavras da Skelt. Não há pirâmide na página.",
         "**Grand Bahama.** A Skelt a descreve como solar, exótica e vibrante. Topo de abacaxi, bergamota e água de coco; meio de lírio do vale, flores solares e limão; fundo de baunilha, musk e musgo de carvalho. É a fragrância do Bifásico, o autobronzeador com perfume de body splash: veja o [guia dos autobronzeadores Skelt](/reviews/autobronzeador-skelt-qual-escolher).",
@@ -174,9 +185,9 @@
     {
       "heading": "Floral: Hidden Flowers, Mystic Bloom, Pink Sands e Urban Beat",
       "paragraphs": [
-        "Aqui estão as fragrâncias cujo meio é de flores ou que a loja descreve como florais. É o grupo com dois dos body splash mais bem colocados na ordem de mais vendidos do site: Mystic Bloom em terceiro e Hidden Flowers em quarto.",
+        "O grupo floral, de meio de flores ou descrito pela loja como floral, tem dois dos body splash mais vendidos do site: Mystic Bloom em terceiro e Hidden Flowers em quarto.",
         "**Hidden Flowers.** A página fala em fragrância floral envolvente e de alta fixação. Topo de bergamota da Itália, pera, pêssego e noz-moscada; meio de rosa damascena da Turquia, lírio-do-vale e olíbano; fundo de vetiver do Haiti, âmbar, musk e baunilha. A Skelt não informa quantas horas dura.",
-        "**Mystic Bloom.** \"Fragrância floral sofisticada e encantadora\", segundo a loja. Topo de groselha negra, morango e tangerina; meio de plumeria, flor de maçã e flor de violeta; fundo de musk, cashmeran, âmbar e marshmallow.",
+        "**Mystic Bloom.** \"Fragrância floral sofisticada e encantadora\", diz a Skelt. Topo de groselha negra, morango e tangerina; meio de plumeria, flor de maçã e flor de violeta; fundo de musk, cashmeran, âmbar e marshmallow.",
         "**Pink Sands.** A Skelt a chama de \"um toque de verão sofisticado\". Topo de pitaya, lichia, bergamota e laranja; meio de jasmim, peônia e rosa; fundo de âmbar, sândalo e baunilha.",
         "**Urban Beat.** Descrita como \"a combinação autêntica do frutado e floral\": frutas vermelhas encorpadas e um buquê floral, sem pirâmide na página. A lista com ameixa, cereja e blueberry que aparece na loja é do hidratante, não do body splash."
       ]
@@ -292,7 +303,7 @@
     {
       "heading": "Kits para presente: a conta contra os avulsos",
       "paragraphs": [
-        "A conta abaixo compara o preço de cada kit com a soma dos produtos avulsos, também a preço de venda do dia. A última coluna mostra o kit com o cupom SKEMCASACOMCECILIA e o Pix de 5% somado. Segundo o teste de carrinho, o cupom vale em kit e soma com o Pix, e a loja aceita um cupom por pedido. As condições estão na [página do cupom Skelt](/cupons/skelt).",
+        "A conta abaixo compara o preço de cada kit com a soma dos produtos avulsos, também a preço de venda do dia. A última coluna mostra o kit com o cupom SKEMCASACOMCECILIA e o Pix de 5% somado. No teste de carrinho, o cupom valeu em kit e somou com o Pix, e a loja aceita um cupom por pedido. As condições estão na [página do cupom Skelt](/cupons/skelt).",
         "O cupom SKEMCASACOMCECILIA dá 10% em todo o site oficial da Skelt: um body splash avulso de R$ 99,90 sai a R$ 89,91 e, com mais 5% do Pix, a R$ 85,41."
       ],
       "comparisonTable": {
@@ -415,6 +426,8 @@
     },
     {
       "heading": "Qual escolher: uma sugestão por perfil",
+      "emphasis": "Pelos números da tabela, para presente com hidratante a escolha é o Duo Hidden Flowers, porque sai 10,9% mais barato que os avulsos.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Como as dez custam R$ 99,90, o preço não decide: o que decide é o perfil e se a compra é para presente. As sugestões partem das notas que a Skelt publica, e ninguém do site usou os produtos."
       ],
