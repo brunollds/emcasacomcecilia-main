@@ -4,8 +4,8 @@
   "title": "YesStyle-Gutscheine finden und mit CECILIA010 kombinieren",
   "type": "Ratgeber & Gutscheine",
   "reviewKind": "guia",
-  "description": "Praktischer Leitfaden zum Finden von YesStyle-Gutscheinen, zum Unterschied zwischen Coupon Code und Reward Code und zum Kombinieren für bis zu 5% extra mit CECILIA010.",
-  "metaDescription": "Wo du aktuelle YesStyle-Gutscheine findest, wie du abgelaufene Codes vermeidest und wie der Belohnungscode CECILIA010 bis zu 5% extra bringt.",
+  "description": "Praktischer Leitfaden, um die Rabattgutscheine von YesStyle zu finden, den Unterschied zwischen Coupon Code und Reward Code zu verstehen und mit CECILIA010 bis zu 5 % extra zu sparen.",
+  "metaDescription": "Wo Sie die aktuell gültigen YesStyle-Gutscheine finden, wie Sie abgelaufene Codes vermeiden und wie Sie den Belohnungscode CECILIA010 für bis zu 5 % Extra-Rabatt dazunehmen.",
   "publishedAt": "24 Jul 2026",
   "publishedAtISO": "2026-07-24",
   "hideFromPortugueseListings": true,
@@ -25,29 +25,29 @@
     }
   ],
   "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
-  "imageAlt": "Auswahl an K-Beauty-Kosmetik und koreanischer Hautpflege im Angebot bei YesStyle.",
+  "imageAlt": "Eine Auswahl an K-Beauty-Produkten und koreanischer Kosmetik im Angebot bei YesStyle.",
   "imageFit": "cover",
   "pros": [
-    "Erklärt den Unterschied zwischen Coupon Code und Reward Code zur Vermeidung von Fehlern an der Kasse",
-    "Erläutert das Kombinieren (Stacking) von Monats-Gutscheinen mit CECILIA010",
-    "Zeigt, wie man bis zu 5% Extra-Rabatt mit dem offiziellen Influencer-Code spart",
-    "Listet offizielle YesStyle-Gutscheinquellen auf, um ungültige Codes zu vermeiden",
-    "Leitet zur aktualisierten Seite von Em Casa com Cecília mit regelmäßig geprüften Gutscheinen weiter"
+    "Zeigt, wie Sie Coupon Code und Reward Code auseinanderhalten, um Fehler an der Kasse zu vermeiden",
+    "Erklärt das Kombinieren: den Gutschein des Monats zusammen mit CECILIA010 nutzen",
+    "Zeigt, wie Sie mit dem offiziellen Influencer-Code bis zu 5 % extra sparen",
+    "Nennt die offiziellen Quellen für YesStyle-Gutscheine, damit Sie gefälschte oder abgelaufene Codes vermeiden",
+    "Führt zur aktuellen Seite von Em Casa com Cecília mit der geprüften Gutscheinliste"
   ],
   "cons": [
-    "Monatliche Aktionsgutscheine haben kurze Laufzeiten (meist 72h bis 30 Tage)",
-    "Der CECILIA010-Rabatt beträgt 5% für Erstbestellungen und 2% für Folgebestellungen",
-    "Endpreise in USD angegeben (unterliegen Wechselkursschwankungen)"
+    "Monatliche Aktionsgutscheine haben kurze Laufzeiten (meist von 72 Stunden bis 30 Tage)",
+    "Der Rabatt von CECILIA010 liegt zwischen 5 % beim ersten Einkauf und 2 % bei weiteren Einkäufen",
+    "Endpreise werden in Dollar angegeben (Wechselkursschwankungen möglich)"
   ],
-  "pullQuote": "Der Schlüssel zu maximalen Ersparnissen bei YesStyle ist das Kombinieren: Trage den Aktionsgutschein unter Coupon Code und CECILIA010 unter Reward Code ein.",
+  "pullQuote": "Der Schlüssel zum größten Rabatt bei YesStyle ist die Kombination: Geben Sie den Gutschein der Aktion im Feld Coupon Code ein und CECILIA010 im Feld Reward Code, um bis zu 5 % extra zu bekommen.",
   "productSpec": [
     {
       "key": "Shop",
-      "value": "YesStyle (Offiziell)"
+      "value": "YesStyle (offiziell)"
     },
     {
       "key": "Belohnungscode",
-      "value": "CECILIA010 (Bis zu 5% Extra)",
+      "value": "CECILIA010 (bis zu 5 % extra)",
       "highlight": true
     },
     {
@@ -67,7 +67,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "Enthält Affiliate-Links: Wir erhalten ggf. eine Provision für YesStyle und CECILIA010.",
+  "editorialNote": "Enthält Affiliate-Links: Wir können von YesStyle und über CECILIA010 eine Provision erhalten.",
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-rabatt-cecilia010",
@@ -78,60 +78,59 @@
     {
       "heading": "Die Antwort in Kürze",
       "paragraphs": [
-        "[YesStyle-Gutscheine](/de/coupons/yesstyle) aus Aktionen gehören ins Feld Coupon Code und laufen schnell ab; die Liste auf unserer Seite wurde am {yesstyle:verifiedAt} geprüft. CECILIA010 ist ein Belohnungscode: Er kommt ins Feld Reward Code und bringt bis zu 5% extra, 5% auf die erste Bestellung und 2% auf alle weiteren."
+        "Die [YesStyle-Gutscheine](/de/coupons/yesstyle) für Aktionen kommen ins Feld Coupon Code und laufen schnell ab. CECILIA010 ist ein Belohnungscode: Er kommt ins Feld Reward Code und bringt bis zu 5 % extra; ob es sich um Ihren ersten Einkauf handelt, entscheidet über den Prozentsatz, wie das Kapitel zu CECILIA010 erklärt."
       ]
     },
     {
       "heading": "Warum funktionieren die meisten YesStyle-Gutscheine im Internet nicht?",
       "paragraphs": [
-        "Wer regelmäßig K-Beauty-Kosmetik oder koreanische Hautpflege bei YesStyle kauft, kennt diese Enttäuschung: Du suchst auf Google nach \"YesStyle Gutschein\", öffnest zahlreiche Gutscheinportale, kopierst Codes – und an der Kasse erscheint die Meldung, dass der Code ungültig oder abgelaufen ist.",
-        "Das hat drei Hauptgründe: YesStyle veröffentlicht kurzfristige Aktionsgutscheine (wie 72-Stunden- oder 96-Stunden-Blitzaktionen), automatische Portale behalten abgelaufene Codes jahrelang online, und manche Codes gelten nur für bestimmte Regionen.",
-        "Der Schlüssel zur Ersparnis liegt darin, die Rabattstruktur von YesStyle zu verstehen und offizielle Quellen zu nutzen."
+        "Wenn Sie schon einmal „YesStyle Gutschein“ gegoogelt, mehrere Codes kopiert und gesehen haben, wie die Kasse sie einen nach dem anderen ablehnt, war das kein Pech: Die meisten dieser Codes sind abgelaufen.",
+        "Dafür gibt es drei Hauptgründe: YesStyle bringt kurzlebige Aktionsgutscheine heraus (etwa Aktionen über 72 oder 96 Stunden oder Monatskampagnen), automatische Aggregatoren halten abgelaufene Codes jahrelang online, um Klicks anzuziehen, und viele Codes gehören zu Kampagnen, die nur für bestimmte Regionen gelten.",
+        "Damit Sie weder Zeit verlieren noch den Kauf an der Kasse abbrechen, müssen Sie verstehen, wie die Rabatte bei YesStyle aufgebaut sind, und die offiziellen Quellen der Marke nutzen."
       ],
       "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "Auswahl an K-Beauty-Kosmetik und koreanischer Hautpflege im Angebot bei YesStyle.",
-      "imageCaption": "Beispiel für einen offiziellen Aktionsgutschein vom 24. Juli 2026; diese Aktion ist beendet. Aktionsgutscheine ändern sich häufig: Prüfe unsere Sonderseite vor dem Kauf.",
+      "imageAlt": "Offizielle Startseite von YesStyle mit einem Beispiel für einen Aktionsgutschein.",
+      "imageCaption": "Beispiel für einen offiziellen Aktionsgutschein aus einer bereits beendeten Kampagne. Aktionsgutscheine ändern sich oft: Sehen Sie vor dem Kauf auf unserer eigenen Seite nach.",
       "imageFit": "wide",
       "bullets": [
-        "Monatliche Aktionsgutscheine: Haben ein Ablaufdatum und bieten meist 10% bis 15% Rabatt.",
-        "Belohnungscode (Reward Code): Influencer-Code wie CECILIA010 für bis zu 5% Extra-Rabatt.",
-        "Offizielle Quellen: Shop-Banner, Newsletter oder unsere eigene Gutscheinseite."
+        "Monatliche Aktionsgutscheine: Sie haben ein Ablaufdatum und geben meist 10 % bis 15 % Rabatt.",
+        "Belohnungscode (Reward Code): ein Influencer-Code wie CECILIA010, der bis zu 5 % Extra-Rabatt dazugibt.",
+        "Offizielle Quellen: das Banner der Website, die Newsletter des Shops oder unsere eigene Gutscheinseite."
       ]
     },
     {
       "heading": "Die 2 Rabattfelder an der Kasse verstehen (Coupon Code vs Reward Code)",
       "paragraphs": [
-        "Besonders an YesStyle ist, dass die Kasse zwei völlig getrennte und unabhängige Rabattfelder bietet. Den Unterschied zu kennen, sichert den maximalen Rabatt:"
+        "Die Kasse von YesStyle hat zwei getrennte Felder, und der Fehler ist, das eine mit dem anderen zu verwechseln:",
+        "Weil die Kasse getrennte Felder hat, können sich berechtigte Rabatte addieren, wenn die Kampagne es erlaubt. Prüfen Sie beide in der Bestellübersicht."
       ],
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
-      "imageAlt": "Auswahl an K-Beauty-Kosmetik und koreanischer Hautpflege im Angebot bei YesStyle.",
+      "imageAlt": "Kasse von YesStyle mit den Feldern Coupon Code und Reward Code.",
       "imageCaption": "Die zwei getrennten Felder an der Kasse: Coupon Code (für Aktionsgutscheine) und Reward Code (für CECILIA010).",
       "imageFit": "cover",
       "bullets": [
-        "1. Feld \"Coupon Code\": Hier gibst du Aktionsgutscheine von YesStyle ein (z. B. 10% bis 15% Rabatt-Aktionen).",
-        "2. Feld \"Reward Code\" / \"Influencer Code\": Hier trägst du den offiziellen Influencer-Code CECILIA010 ein für bis zu 5% Extra-Rabatt."
-      ],
-      "emphasis": "Da die Kasse getrennte Felder für Coupon Code und Reward Code besitzt, können berechtigte Rabatte gemäß den Aktionsbedingungen kombiniert werden. Überprüfe beide in der Bestellübersicht."
-    },
-    {
-      "heading": "So funktioniert der Code CECILIA010: bis zu 5% Extra-Rabatt",
-      "paragraphs": [
-        "Der Code CECILIA010 ist Cecílias offizieller Belohnungscode im YesStyle-Influencer-Programm. Im Gegensatz zu zeitlich begrenzten Aktionsgutscheinen ist CECILIA010 ein regelmäßig verifizierter Partner-Code.",
-        "Die Anrechnung des Rabatts im Warenkorb erfolgt nach den offiziellen Regeln:",
-        "• Für Neukunden (1. Bestellung): gewährt 5% Extra-Rabatt im Warenkorb.",
-        "• Für Bestandskunden (Folgebestellungen): gewährt 2% Extra-Rabatt im Warenkorb.",
-        "Deshalb kommunizieren wir transparent \"bis zu 5% Extra-Rabatt\", da der genaue Wert von YesStyle an der Kasse automatisch berechnet wird."
-      ],
-      "bullets": [
-        "Erste Bestellung im Shop: 5% Extra-Rabatt.",
-        "Folgebestellungen: 2% Extra-Rabatt.",
-        "Gültig für berechtigte Produkte aus den Bereichen K-Beauty, Hautpflege, Make-up und Mode."
+        "1. Feld „Coupon Code“ (Gutscheincode): Hier geben Sie die Aktionsgutscheine von der YesStyle-Website ein (etwa Sale-Gutscheine oder Kampagnen mit 10 % bis 15 % Rabatt).",
+        "2. Feld „Reward Code“ / „Influencer Code“ (Belohnungscode): Hier geben Sie den offiziellen Influencer-Code CECILIA010 ein, der bis zu 5 % Extra-Rabatt sichert."
       ]
     },
     {
-      "heading": "Schritt 1: Rufe den Shop über den offiziellen Link auf",
+      "heading": "So funktioniert der Code CECILIA010: bis zu 5 % Extra-Rabatt",
       "paragraphs": [
-        "Öffne YesStyle über Cecílias offiziellen Partner-Link. Dadurch wird die Zuordnung korrekter erfasst, bevor du die Codes an der Kasse eingibst."
+        "CECILIA010 ist der Belohnungscode von Cecília: Er gilt, solange die Partnerschaft aktiv ist, mit 5 % beim ersten Einkauf und 2 % bei den folgenden. Anders als die zeitlich begrenzten Aktionsgutscheine des Shops, die sich regelmäßig ändern, ist CECILIA010 ein fester Partnerschaftscode."
+      ],
+      "bullets": [
+        "Erster Einkauf auf der Website: 5 % Extra-Rabatt.",
+        "Weitere Einkäufe: 2 % Extra-Rabatt.",
+        "Gilt für berechtigte Produkte aus K-Beauty, Skincare, Make-up, Mode und Lifestyle."
+      ],
+      "postParagraphs": [
+        "Deshalb sagen wir „bis zu 5 % Extra-Rabatt“: YesStyle berechnet den Prozentsatz sofort, anhand Ihres Kontoverlaufs, auf die berechtigten Produkte."
+      ]
+    },
+    {
+      "heading": "Schritt 1: Öffnen Sie den Shop über den offiziellen Link",
+      "paragraphs": [
+        "Öffnen Sie YesStyle über den offiziellen Influencer-Link von Cecília. So wird die Empfehlung richtig erfasst, bevor Sie die Codes an der Kasse eingeben."
       ],
       "links": [
         {
@@ -142,78 +141,82 @@
       ]
     },
     {
-      "heading": "Schritt 2: Stelle deinen Warenkorb zusammen",
+      "heading": "Schritt 2: Stellen Sie Ihren Warenkorb zusammen",
       "paragraphs": [
-        "Wähle deine bevorzugten koreanischen Kosmetikprodukte oder Pflegeartikel aus und lege sie in den Warenkorb."
+        "Suchen Sie sich Ihre liebsten koreanischen Kosmetikprodukte, Sonnenschutzmittel, Seren oder Modeartikel aus und legen Sie sie in Ihren Warenkorb."
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
-      "imageAlt": "Auswahl an K-Beauty-Kosmetik und koreanischer Hautpflege im Angebot bei YesStyle.",
-      "imageCaption": "Übersicht des Warenkorbs bei YesStyle vor Eingabe der Rabattcodes.",
+      "imageAlt": "Warenkorb-Ansicht im YesStyle-Shop.",
+      "imageCaption": "Warenkorb-Übersicht bei YesStyle, bevor die Rabattcodes eingegeben werden.",
       "imageFit": "cover"
     },
     {
-      "heading": "Schritt 3: Gib den Aktionsgutschein im Feld Coupon Code ein",
+      "heading": "Schritt 3: Geben Sie den Aktionsgutschein im Feld Coupon Code ein",
       "paragraphs": [
-        "Suche an der Kasse das Feld \"Coupon Code\". Wenn ein aktiver Gutschein vorhanden ist, trage den Code ein und klicke auf \"Anwenden\"."
+        "Suchen Sie auf der Kassenseite das Feld „Coupon Code“ (Gutscheincode). Wenn bei YesStyle gerade ein Aktionsgutschein aktiv ist, geben Sie den Code ein und klicken Sie auf „Apply“ (Anwenden)."
       ]
     },
     {
-      "heading": "Schritt 4: Füge den Code CECILIA010 im Feld Reward Code ein",
+      "heading": "Schritt 4: Fügen Sie den Code CECILIA010 im Feld Reward Code ein",
       "paragraphs": [
-        "Trage im selben Checkout-Bereich unter \"Reward Code / Influencer Code\" den Code CECILIA010 ein und klicke auf \"Anwenden\"."
+        "Geh auf derselben Kassenseite zum separaten Feld „Reward Code / Influencer Code“ (Belohnungscode). Geben Sie den Code CECILIA010 ein und klicken Sie auf „Apply“ (Anwenden)."
       ]
     },
     {
-      "heading": "Schritt 5: Kombinierten Rabatt prüfen und Bestellung abschließen",
+      "heading": "Schritt 5: Prüfen Sie den kombinierten Rabatt und schließen Sie die Bestellung ab",
       "paragraphs": [
-        "Überprüfe die Zusammenfassung und stelle sicher, dass beide Rabatte angezeigt werden, bevor du bezahlst."
+        "Prüfen Sie in der Bestellübersicht vor dem Bezahlen beide Rabatte: den Gutschein und CECILIA010."
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
-      "imageAlt": "Auswahl an K-Beauty-Kosmetik und koreanischer Hautpflege im Angebot bei YesStyle.",
-      "imageCaption": "Bestellzusammenfassung zur Bestätigung der Kombination: Aktionsgutschein + CECILIA010 Belohnungscode erfolgreich angewendet.",
+      "imageAlt": "Abschließende Bestellübersicht bei YesStyle mit den kombinierten Rabatten.",
+      "imageCaption": "Bestellübersicht an der Kasse, die die Kombination bestätigt: Aktionsgutschein + Belohnungscode CECILIA010, erfolgreich kombiniert.",
       "imageFit": "cover"
     },
     {
-      "heading": "Offizielle Quellen für aktuelle YesStyle-Gutscheine",
+      "heading": "Wo Sie die aktuell gültigen YesStyle-Gutscheine finden",
       "paragraphs": [
-        "Um stets aktuelle Aktionsgutscheine zu finden, empfehlen wir folgende Quellen:",
-        "1. Unsere Gutschein-Sonderseite: Wir betreiben eine eigene Seite, auf der wir YesStyle-Codes regelmäßig prüfen.",
-        "2. Hauptbanner auf YesStyle: Die Startseite zeigt aktuelle Top-Gutscheine oben an.",
-        "3. Offizieller Newsletter: Bei Anmeldung erhältst du Hinweise zu 72h- oder 96h-Blitzaktionen."
+        "Um die Gutscheine des Monats im Blick zu behalten, ohne auf einen abgelaufenen Code zu stoßen, nutze diese offiziellen Quellen:",
+        "1. Unsere zentrale Gutscheinseite: Wir führen eine eigene Seite, auf der wir die Aktionscodes von YesStyle prüfen und aktualisieren.",
+        "2. Das Hauptbanner von YesStyle: Die Startseite des Shops hebt den aktiven Aktionsgutschein meist oben hervor.",
+        "3. Der offizielle Newsletter: Wenn Sie den Newsletter der Website abonnieren, bekommen Sie Hinweise auf Blitzangebote über 72 oder 96 Stunden."
       ],
       "links": [
         {
-          "label": "Unsere aktualisierte YesStyle-Gutscheinseite aufrufen",
+          "label": "Zu unserer aktuellen Seite mit den YesStyle-Gutscheinen",
           "href": "/de/coupons/yesstyle"
         },
         {
-          "label": "Zu YesStyle mit Cecílias offiziellem Link",
+          "label": "Mit Cecílias offiziellem Link zu YesStyle",
           "href": "https://ystyle.co/rQYQv",
           "sponsored": true
         }
       ]
     },
     {
-      "heading": "Häufige Fragen zu YesStyle Gutscheinen",
+      "heading": "Häufige Fragen zu YesStyle-Gutscheinen",
+      "paragraphs": [
+        "Wir haben die wichtigsten Fragen der Leser zur Nutzung von Gutscheinen und Belohnungscodes bei YesStyle gesammelt:"
+      ],
       "bullets": [
-        "Was ist der Unterschied zwischen Coupon Code und Reward Code bei YesStyle? Coupon Code ist ein zeitlich begrenzter Aktionsgutschein im Feld \"Coupon Code\". CECILIA010 ist ein Influencer-Reward-Code im Feld \"Reward Code\" für bis zu 5% Extra-Rabatt (5% Erstbestellung / 2% Folgebestellung). Beide lassen sich kombinieren, wenn die Aktion es erlaubt.",
-        "Was ist der YesStyle Influencer-Code? Es ist ein Reward Code (Belohnungscode), der in einem eigenen Feld an der Kasse eingegeben wird, getrennt vom Feld für den Coupon Code. Unserer ist CECILIA010: 5% auf die erste Bestellung und 2% auf Folgebestellungen.",
-        "Haben YesStyle-Gutscheine ein Ablaufdatum? Ja. Aktionsgutscheine laufen ab. Prüfe Mindestbestellwert und berechtigte Artikel vor dem Kauf.",
-        "Wo finde ich die offiziellen Bedingungen für YesStyle-Gutscheine? Die allgemeinen Bedingungen stehen unter \"General Terms and Conditions for Coupons\" im Help Center von YesStyle. Spezifische Aktionen findest du unter \"Promotions\".",
-        "Kann ich mehrere Aktionsgutscheine gleichzeitig nutzen? Nein. Es ist nur ein Coupon Code pro Bestellung erlaubt. CECILIA010 ist jedoch ein Reward Code und kann zusätzlich genutzt werden."
+        "Was ist der Unterschied zwischen Coupon Code und Influencer/Rewards Code bei YesStyle? Der Coupon Code ist der Aktionsgutschein, eingegeben im Feld „Coupon Code“, mit eigener Frist und eigenen Regeln: Er kann einen Mindestbestellwert, eine regionale Beschränkung oder ausgeschlossene Produkte haben. CECILIA010 ist der Belohnungscode (Influencer/Rewards Code), eingegeben im separaten Feld „Reward Code“, mit 5 % beim ersten Einkauf und 2 % bei den folgenden. Wenn die Regeln der Aktion es erlauben, können beide Rabatte zusammen in der Bestellübersicht erscheinen.",
+        "Was ist der Influencer-Code von YesStyle? Das ist der Belohnungscode (Reward Code), der in ein eigenes Feld an der Kasse eingegeben wird, getrennt vom Gutscheinfeld. Unser Code ist CECILIA010, er kommt ins Feld Reward Code.",
+        "Haben die YesStyle-Gutscheine ein Ablaufdatum? Ja. Aktionsgutscheine haben ein Ablaufdatum und können ohne Vorankündigung enden. Manche Kampagnen dauern nur wenige Tage (etwa Aktionen über 72 oder 96 Stunden), andere bleiben unterschiedlich lange aktiv. Prüfen Sie vor dem Abschluss des Kaufs in den Regeln der Aktion die Gültigkeit, den Mindestbetrag, die Region und die berechtigten Produkte und kontrollieren Sie, ob der Rabatt an der Kasse erschienen ist.",
+        "Wo finde ich die offiziellen Regeln für YesStyle-Gutscheine? Die allgemeinen Regeln stehen auf der Seite „General Terms and Conditions for Coupons“ im Hilfecenter von YesStyle. Für die Bedingungen einer bestimmten Kampagne öffnen Sie im Hilfecenter den Bereich „Promotions“, in dem YesStyle Gültigkeit, Mindestbestellwert, teilnehmende Regionen und mögliche Ausschlüsse veröffentlicht. Da sich diese Bedingungen ändern, sehen Sie vor dem Bezahlen auch im Banner der Aktion und in der Bestellübersicht nach.",
+        "Kann ich mehr als einen Aktionsgutschein in derselben Bestellung nutzen? Nein. Nach den allgemeinen Regeln von YesStyle darf pro Bestellung oder zusammengefasster Bestellung nur ein Coupon Code verwendet werden. CECILIA010 ist jedoch kein Coupon Code: Er wird im separaten Feld „Reward Code“ eingegeben. Deshalb lassen sich ein Aktionsgutschein und CECILIA010 kombinieren, wenn die Kampagne berechtigt ist und die Kasse beide akzeptiert."
       ],
       "links": [
         {
-          "label": "Allgemeine YesStyle-Gutscheinbedingungen ansehen",
+          "label": "Allgemeine Gutscheinregeln von YesStyle ansehen",
           "href": "https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888"
         },
         {
-          "label": "YesStyle Kundenservice öffnen",
+          "label": "Das Hilfecenter von YesStyle öffnen",
           "href": "https://www.yesstyle.com/en/help/main.html"
         }
       ]
     }
   ],
   "locale": "de",
-  "translationKey": "yesstyle-coupon-guide"
+  "translationKey": "yesstyle-coupon-guide",
+  "category": "cupons-como-usar"
 }

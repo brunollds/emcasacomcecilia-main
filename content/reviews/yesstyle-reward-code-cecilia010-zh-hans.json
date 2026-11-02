@@ -4,33 +4,34 @@
   "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)",
   "type": "指南与优惠码",
   "reviewKind": "guia",
-  "description": "了解如何在 YesStyle 正确输入奖励码 CECILIA010，并与合资格促销优惠券同时使用，享受高达 5% 优惠（首购 5% / 回购 2%）。",
+  "description": "通过这份实用指南，学会在 YesStyle 使用达人代码 CECILIA010：在结账页哪里输入（Reward Code 栏位）、如何与现有优惠券叠加，另有韩系美妆购物建议。",
   "publishedAt": "11 Jul 2026",
   "publishedAtISO": "2026-07-11",
   "updatedAt": "2026-10-12",
   "draft": false,
   "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
-  "imageAlt": "YesStyle 韩国护肤产品",
+  "imageAlt": "摆在浅色桌面上的 YesStyle 韩系美妆与韩式护肤产品。",
   "pros": [
-    "网红专属代码，可在合资格促销优惠券基础上再享高达 5%折扣（首购 5% / 回购 2%）",
-    "可与网站上合资格促销优惠券一起使用，于结账时确认",
-    "寄往新加坡满 US$50、寄往马来西亚满 US$35 即享免运费（2026 年 10 月 6 日起的运费表）",
-    "K-Beauty、J-Beauty与韩系时尚商品目录丰富",
-    "100%正品, 官方授权经销商产品",
-    "简体中文界面，方便轻松购物"
+    "达人代码，可在符合条件的促销优惠券之外再叠加高达 5% 的优惠",
+    "可与网站上符合条件的促销优惠券同时使用",
+    "满一定金额即可免运费，门槛会在结账页显示",
+    "商品丰富：韩系美妆、韩国时装和日系美妆",
+    "商品 100% 正品，为授权经销商",
+    "网站顶部可切换语言"
   ],
   "cons": [
-    "无法替代一般促销优惠码（需于专用栏位输入）",
-    "国际订单根据配送国家可能需支付关税",
-    "国际购买的送达时间比本地商店长（新加坡快递 3 至 5 个工作日，马来西亚 10 至 16 个工作日）",
-    "最终结账以美元计价（取决于银行汇率）"
+    "不能取代一般优惠券（要填在另一个栏位）",
+    "跨境订单可能产生关税等费用，下单前请先查看 YesStyle 的退款政策",
+    "属于跨境购物，送货时间比本地商店更长",
+    "最终价格以美元计价（会受汇率波动影响）"
   ],
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
   "notes": [
     {
-      "label": "西西莉亚的小贴士",
-      "body": "代码输入栏位于结账页面的“Reward Code”。打开商店前先复制 CECILIA010，下单时直接粘贴即可。"
+      "label": "Cecília 的小提示",
+      "body": "代码栏位在结账页的“Reward Code”处。打开商店之前先复制 CECILIA010，这样结账时直接粘贴就行。",
+      "anchor": "como-funciona-o-codigo-cecilia010"
     }
   ],
   "cta": {
@@ -42,51 +43,220 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "CECILIA010 是 YesStyle 奖励码，可享高达 5% 优惠（首购 5%，回购 2%）。请填入 Reward Code 栏位，与优惠码栏位分开，并可与合资格促销优惠码并用。关键是两个栏位各填各的，详细步骤见“结账步骤”。"
+        "CECILIA010 是 YesStyle 的奖励码，可额外享高达 5% 优惠：首单 5%，之后的订单 2%。它要填在 Reward Code 栏位，与优惠券栏位分开，并可与符合条件的优惠券叠加。关键在于两个栏位各填各的，详见章节“如何在 YesStyle 使用 CECILIA010 代码：分步教程”。"
       ]
     },
     {
-      "heading": "如何使用 CECILIA010",
+      "heading": "CECILIA010 代码如何运作",
       "paragraphs": [
-        "CECILIA010 是 YesStyle 奖励码，不是普通优惠码。请在 Reward Code 专用栏位输入，以获得高达 5% 优惠（首购 5% / 回购 2%）。",
-        "合资格促销优惠码可另外输入 Coupon Code 栏位，请于结账时确认两项优惠均已应用。"
+        "CECILIA010 与 CECILIA12 和 CECI 不同，后两者是直接在购物车里折抵，而 CECILIA010 是 Reward Code，在结账页有专属栏位。",
+        "它最大的好处是在结账页有独立的专属栏位，所以可以和符合条件的促销优惠券同时使用，在订单原有折扣之外再叠加高达 5% 的优惠。",
+        "如果你想要直接在购物车里折抵，当前可用的优惠券见[YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)。",
+        "CECILIA010 不会取代 YesStyle 的每月优惠券：它会在符合条件的优惠券之上再叠加高达 5% 的优惠（首单 5%，之后 2%）。结账时请两个栏位都使用。"
       ],
-      "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
       "bullets": [
-        "优惠：高达 5%（首购 5% / 回购 2%）",
-        "输入位置：Reward Code",
-        "可与合资格促销优惠券一起使用，于结账时确认"
+        "代码：CECILIA010",
+        "优惠：额外高达 5%（首单 5% / 回购 2%）",
+        "类型：达人代码 / 奖励码（Reward Code）",
+        "使用位置：YesStyle 结账页的“奖励码”（Reward Code）栏位",
+        "运作方式：填在正确的栏位后，购物车可额外享高达 5% 优惠（首单 5% / 回购 2%）",
+        "可叠加：可以！同一订单可同时使用 CECILIA010 和符合条件的促销优惠券",
+        "有效期：在官方达人计划中保持有效（定期核实）"
+      ],
+      "links": [
+        {
+          "label": "查看最新 YesStyle 优惠券",
+          "href": "/zh-hans/coupons/yesstyle"
+        }
       ]
     },
     {
-      "heading": "结账步骤",
+      "heading": "奖励码与优惠券：想省钱必须搞清楚的区别",
       "paragraphs": [
-        "在 YesStyle 选购商品加入购物车后前往结账。在 Reward Code 栏位输入 CECILIA010 并点击应用。"
+        "YesStyle 有两个折扣栏位，最常见的错误是把两者填反：请两个一起用。"
       ],
-      "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "bullets": [
-        "在 Reward Code 输入 CECILIA010",
-        "在 Coupon Code 输入合资格促销优惠码",
-        "付款前于订单摘要确认两项折扣"
+        "奖励码（Reward Code，即 CECILIA010）：这是 Cecília 的达人代码。要输入“奖励码”（或“Reward Code”）栏位，订单可额外享高达 5% 优惠（首单 5% / 回购 2%）。除这项折扣之外的任何好处，都取决于 YesStyle 当前的规则，不应视为有保证。",
+        "优惠券（有效的 Coupon Code）：会随月份、促销活动和网站当前规则变化。有可用优惠券时，请输入“优惠券代码”（或“Coupon Code”）栏位。"
       ]
     },
     {
-      "heading": "购物前注意事项",
+      "heading": "CECILIA010 是 YesStyle 的达人代码吗？",
       "paragraphs": [
-        "运费、税项及折扣适用范围会因目的地及优惠条件而异。请于付款前确认最终金额。"
-      ],
-      "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp"
+        "是的。CECILIA010 是登记在 YesStyle 官方合作伙伴计划里的达人奖励码，专为 Em Casa com Cecília 博客中购买韩系美妆和亚洲商品的读者创建。",
+        "和每月更换、会过期的优惠券不同，达人代码在合作期间一直有效，可以用于新的订单。如果每个账户或每笔订单有任何限制，YesStyle 的结账页会在你应用代码时直接提示。",
+        "达人代码 CECILIA010 的好处是它在独立的栏位运作，可以和结账页确认符合条件的促销优惠券叠加。也就是说，你既能拿到达人提供的额外高达 5%（首单 5% / 回购 2%），还能享受当月的优惠券折扣。两全其美。"
+      ]
     },
     {
-      "heading": "常见问题",
+      "heading": "如何在 YesStyle 使用 CECILIA010 代码：分步教程",
+      "paragraphs": [
+        "要叠加两种折扣，请准备好 CECILIA010 和网站上当前可用的优惠券："
+      ]
+    },
+    {
+      "heading": "1. 打开 YesStyle 官方网站",
+      "paragraphs": [
+        "进入 YesStyle 官方网站（yesstyle.com）。需要的话，可在网站顶部切换语言，方便浏览和阅读商品信息。"
+      ]
+    },
+    {
+      "heading": "2. 挑选商品并加入购物车",
+      "paragraphs": [
+        "浏览韩系美妆、彩妆或韩国时装等各个分类，把想要的商品加入购物车。免运费的最低金额，会在填写收货地址后于结账页显示。"
+      ],
+      "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
+      "imageAlt": "YesStyle 购物车页面：美妆商品、免运费，以及输入代码的栏位。",
+      "imageCaption": "结账前，请在购物车里核对商品、运费以及要填写代码的栏位。",
+      "imageFit": "contain"
+    },
+    {
+      "heading": "3. 输入奖励码 CECILIA010",
+      "paragraphs": [
+        "在结账页或购物车里找到名为“奖励码”（或“Reward Code”）的栏位，准确输入：CECILIA010。点击“应用”验证代码，启用额外高达 5% 的优惠（首单 5% / 回购 2%）。"
+      ],
+      "image": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
+      "imageAlt": "YesStyle 窗口：优惠券和达人代码是分开的栏位，已填入 CECILIA010。",
+      "imageCaption": "CECILIA010 要填在达人代码/奖励码栏位，与优惠券分开。",
+      "imageFit": "contain"
+    },
+    {
+      "heading": "4. 输入当月有效的促销优惠券",
+      "paragraphs": [
+        "找到“优惠券代码”（或“Coupon Code”）栏位，输入网站当时符合条件的促销优惠券。点击“应用”，把这张优惠券叠加到 CECILIA010 额外高达 5% 的优惠上。"
+      ]
+    },
+    {
+      "heading": "5. 核对折扣并完成订单",
+      "paragraphs": [
+        "确认两层折扣（奖励码 + 优惠券）都已成功计入订单小计。填写收货信息，选择付款方式（信用卡或 PayPal），然后确认购买。",
+        "请核对 CECILIA010 和有效优惠券是否各在各的栏位：把奖励码填进优惠券栏位会报错。"
+      ]
+    },
+    {
+      "heading": "如何叠加代码与优惠券：叠加使用指南",
+      "paragraphs": [
+        "叠加就是同时使用结账页的两个栏位：CECILIA010 填在 Reward Code，有效优惠券填在 Coupon Code。"
+      ],
       "bullets": [
-        "CECILIA010 是优惠码吗？ 它是应输入 Reward Code 的奖励码。",
-        "可以与其他优惠码一起使用吗？可以，合资格促销码请输入 Coupon Code，于结账摘要确认应用。",
-        "优惠是多少？首购 5% / 回购 2%，符合条件的订单可高达 5% 优惠，于结账时确认最终折抵。"
+        "第 1 步，奖励码：在 Reward Code 栏位应用 CECILIA010，启用额外高达 5% 的优惠（首单 5% / 回购 2%）。",
+        "第 2 步，有效优惠券：在 Coupon Code 栏位应用网站上符合条件的促销优惠券。",
+        "第 3 步，最终核对：付款前，在订单摘要里确认 CECILIA010 的额外折扣和有效优惠券都已正确显示。"
+      ],
+      "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
+      "imageAlt": "YesStyle 订单摘要：优惠券和 CECILIA010 代码已应用，折扣分开显示。",
+      "imageCaption": "摘要里的折扣是分开列示的：有效优惠券，以及作为达人代码的 CECILIA010。",
+      "imageFit": "contain",
+      "emphasis": "Cecília 的小提示：不要因为代码被接受就直接下单。付款前，请在订单摘要里核对最终金额，确认折扣真的已经显示出来。"
+    },
+    {
+      "heading": "如何找到 YesStyle 当前有效的优惠券",
+      "paragraphs": [
+        "YesStyle 的优惠券经常变动。最常见的类型有：新客优惠券、回购优惠券、季节性优惠券、分类优惠券、免运费优惠券和限时闪购活动。",
+        "由于这些代码变动频繁，最稳妥的做法是在下单前查看 YesStyle 官方的促销页面。然后把有效优惠券应用在“Coupon Code”栏位，并让 CECILIA010 留在“Reward Code”栏位。"
+      ],
+      "bullets": [
+        "Flash Sales：限时闪购，最高 5 折",
+        "Lucky Bundles：商品组合包，享特别折扣",
+        "Daily Free：消费满一定金额即可获赠免费商品",
+        "Elite Club：会员忠诚计划，折扣逐级递增",
+        "Friend Rewards：推荐朋友即可获得积分",
+        "Student Program：学生专属特别折扣"
+      ]
+    },
+    {
+      "heading": "YesStyle 是什么？",
+      "paragraphs": [
+        "YesStyle（也写作 Yes Style）是全球规模最大、品类最齐全的电商平台之一，专注于韩国时装、韩系美妆、日系美妆（J-beauty）及各类亚洲商品。公司创立于 2006 年，总部位于香港，已成为想放心购买正宗韩系美妆和亚洲时装的消费者的全球首选之一。",
+        "YesStyle 服务 150 多个国家和地区的客户，提供语言切换，并会换算价格，方便用户浏览。商品库极为庞大：数以千计的韩式护肤品、知名品牌彩妆、潮流时装、配饰和保健补充剂。"
+      ],
+      "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
+      "imageAlt": "YesStyle 首页：韩系美妆促销横幅和精选商品。",
+      "imageCaption": "YesStyle 汇集了各类促销活动、韩系美妆商品，并提供翻译后的站内导航。",
+      "imageFit": "wide",
+      "bullets": [
+        "韩系美妆（K-Beauty）：玻璃肌精华、精华液、爽肤水、防晒霜，以及亚洲知名护肤流程所需的各类产品",
+        "韩国与亚洲时装：受首尔和东京街头潮流启发的衣服、鞋子、包包和配饰",
+        "日系美妆与保健：知名日本品牌（如 Hada Labo）和营养补充剂"
+      ]
+    },
+    {
+      "heading": "在 YesStyle 买什么：分类指南",
+      "paragraphs": [
+        "主要分类有："
+      ],
+      "bullets": [
+        "韩系美妆与韩式护肤：COSRX（Snail Mucin Essence、Low pH Good Morning Gel Cleanser）、Beauty of Joseon（Dynasty Cream、Relief Sun）、Anua（Heartleaf 77% Soothing Toner）、Laneige（Water Sleeping Mask、Lip Sleeping Mask）、Isntree（Hyaluronic Acid Watery Sun Gel）、TIRTIR（Mask Fit Red Cushion）、medicube（Zero Pore Pads）、AXIS-Y（Dark Spot Correcting Glow Serum）、Dr.Melaxin、House of Hur。",
+        "韩系彩妆：ETUDE（眼影、腮红）、CLIO（粉底、眼线）、Peripera（唇釉、睫毛膏）、Judydoll、fwee、nuse。",
+        "韩国时装：简约优雅的风格，中性色调，宽松剪裁，百搭单品。包括休闲服饰、连衣裙、西装外套、阔腿裤、鞋子和包包。",
+        "日系美妆（J-Beauty）：Hada Labo、DHC、Kose、Shiseido。重视预防、抗老和层层保湿。",
+        "中系美妆（C-Beauty）：快速崛起的中国品牌，价格亲民，配方采用中国传统成分。",
+        "补充剂与健康（Health & Wellness）：胶原蛋白、维生素、蛋白质、护发和护甲产品。",
+        "配饰与生活用品：发夹、发箍、包包、印花袜子、手机壳、家居和装饰用品。"
+      ]
+    },
+    {
+      "heading": "关税与进口：可能被收取哪些费用",
+      "paragraphs": [
+        "跨境订单可能要接受海关检查，并可能产生税款、进口关税、行政费用或其他与订单放行相关的支出。因此，除了计算商品和运费，下单前也建议把可能的额外费用考虑进去。",
+        "YesStyle 表示，1,000 美元以下的订单，如果你先付款、保留收据，并在 30 天内申请，可能可以退还关税。退款一旦获批，会以 YesStyle 商店积分（Store Credit）发放。",
+        "下单前请查看 YesStyle 官方的关税退款说明页面，因为进口规则和商店政策可能会变动。"
+      ],
+      "bullets": [
+        "保留缴纳任何关税的付款凭证",
+        "在 30 天内通过 YesStyle 客服提交退款申请",
+        "退款不是自动的：取决于审核结果和 YesStyle 当前的政策规则",
+        "订单金额达 1,000 美元或以上，不适用该品牌说明的这项退款政策",
+        "退款以 YesStyle 商店积分发放，不一定退回到银行卡"
+      ]
+    },
+    {
+      "heading": "在 YesStyle 购物的小技巧：如何找到最划算的优惠",
+      "paragraphs": [
+        "这里整理了在 YesStyle 省钱的小技巧："
+      ],
+      "bullets": [
+        "Flash Sales：限时闪购，最高 5 折。每天上网站看看，并把商品加入心愿单。",
+        "逛逛 Lucky Bundles：降价的商品组合包（护肤、彩妆，以及“Glass Skin Routine”之类的主题套装）。",
+        "善用心愿单：降价时收到通知，整理以后想买的东西，并规划好凑到免运费门槛。",
+        "用好 Elite Club：积分累积的会员计划：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
+        "别错过“Daily Free”商品：消费满一定金额即可获赠免费商品。",
+        "多看评价（reviews）：真实照片、对质地、气味和效果的评论，以及有效期信息。",
+        "留意促销季：黑色星期五（11 月）、11.11（光棍节）、圣诞节、Summer Sale（6/7 月）、Back to School（8/9 月）。",
+        "始终使用 CECILIA010：不用花一分钱，正确应用后可额外享高达 5% 优惠（首单 5% / 回购 2%），还能支持这个博客。"
+      ]
+    },
+    {
+      "heading": "关于 YesStyle 代码 CECILIA010 的常见问题（FAQ）",
+      "paragraphs": [
+        "这里整理了读者最常问的问题，说明如何使用 Cecília 的代码，在购买韩系美妆时省钱。"
+      ],
+      "bullets": [
+        "CECILIA010 是优惠券还是奖励码？它是 YesStyle 的奖励码/达人代码，填在正确的栏位后可额外享高达 5% 优惠（首单 5% / 回购 2%）。好处是可以和符合条件的优惠券一起使用。",
+        "CECILIA010 可以和当月的促销优惠券叠加吗？可以！它填在“Reward Code”栏位，优惠券填在“Coupon Code”栏位。这样就能在结账页确认符合条件的促销优惠券之上，再额外享高达 5% 优惠（首单 5%，回购 2%）。",
+        "CECILIA010 有有效期吗？只要 YesStyle 的达人计划仍在进行，并且代码经过定期核实，它就有效。",
+        "在 YesStyle 购物安全吗？安全。这是一家 2006 年起运营的正规公司，服务 150 多个国家和地区，商品为正品，并采用 SSL 加密。",
+        "我要缴纳进口关税吗？有可能。如果被收取关税，请查看 YesStyle 的官方政策：品牌表示，1,000 美元以下的符合条件订单，凭付款凭证并在期限内申请，可退还税款和关税，以商店积分形式发放。",
+        "最好用什么方式付款？国际信用卡（Visa、Mastercard、Amex）或 PayPal。汇率由发卡机构自动换算。",
+        "商品是正品吗？是的。YesStyle 是各品牌的授权经销商，直接向制造商或官方经销商采购。",
+        "可以退货吗？跨境订单的退货政策有限。有瑕疵或发错货的商品可以退。韩系美妆商品（护肤、彩妆）出于卫生原因通常不能退，除非未拆封。",
+        "Elite Club 是什么？YesStyle 的会员忠诚计划。消费越多，积分越多：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
+        "网站有其他语言版本吗？有！在网站顶部可以切换语言。",
+        "如何追踪我的 YesStyle 订单？确认发货后，YesStyle 会发送带有国际追踪码的电子邮件。你也可以登录账户查看订单记录。追踪可通过 17track 之类的服务，或在物流公司自己的网站上进行。预计时间会在结账页显示，在海关可能有变化。",
+        "如果我的 YesStyle 订单被海关扣留怎么办？如果订单被海关扣留，你可能会收到缴纳进口税的通知。YesStyle 表示，1,000 美元以下的符合条件订单，可凭付款凭证，并在 30 天内向客服申请，以商店积分形式退还税款和关税。",
+        "YesStyle 的衣服用亚洲尺码，我该怎么选？是的，大多数衣服采用亚洲尺码。请务必查看每件商品页面上的尺寸表（通常以厘米为单位），并与自己的身体尺寸对照。建议比平时多选一到两个码，尤其是偏修身的款式。",
+        "YesStyle 上最畅销的韩系美妆品牌有哪些？YesStyle 是 COSRX、Beauty of Joseon、Some By Mi、Etude House、Innisfree、Laneige、Pyunkang Yul 和 Haruharu 等知名品牌的授权经销商。网站按精华液、爽肤水、精华和防晒霜等分类整理商品，方便寻找韩式护肤流程所需的产品。",
+        "订单确认后还能在 YesStyle 取消或修改吗？尚未发货（状态为“Processing”）的订单，可以直接在账户的订单记录里取消。发货后无法取消，但包裹送达时你可以拒收。地址或商品的修改只能在发货前通过客服办理。",
+        "YesStyle 首单代码：如何使用 CECILIA010？CECILIA010 适用于任何订单，可额外享高达 5% 优惠（首单 5%，回购 2%），并可与结账页确认符合条件的促销优惠券叠加。",
+        "YesStyle 达人代码：CECILIA010 是什么？CECILIA010 是登记在 YesStyle 的达人奖励码。它在结账时提供额外高达 5% 的优惠（首单 5%，回购 2%），并可与符合条件的促销优惠券叠加，不同于通常不能叠加的首单代码。"
       ]
     }
   ],
   "hideFromPortugueseListings": true,
   "locale": "zh-hans",
-  "translationKey": "yesstyle-reward-code"
+  "translationKey": "yesstyle-reward-code",
+  "category": "cupons-como-usar",
+  "metaDescription": "如何在 YesStyle 使用 CECILIA010：填入 Reward Code 栏位，可额外享高达 5% 优惠（首单 5%，回购 2%），并可按结账页显示与符合条件的促销优惠券叠加。",
+  "imageFit": "cover",
+  "editorialNote": "联盟链接：我们可能会通过链接和 Reward Code CECILIA010 获得佣金。"
 }
