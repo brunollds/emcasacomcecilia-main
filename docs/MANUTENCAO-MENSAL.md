@@ -231,6 +231,14 @@ deve herdar a data de uma promoção curta só para aparentar nova verificação
 maior data das ofertas ativas, portanto o status incorreto também contamina metadata e sitemap
 dos hubs YesStyle.
 
+A mesma data entra no texto dos artigos da YesStyle nos 10 idiomas ("a lista foi conferida em…"): o
+`node scripts/content/build-index.mjs` troca o `{yesstyle:verifiedAt}` por ela. Cupom novo muda essa
+data, então o PR do cupom leva o `src/lib/generated/content-index.ts` regenerado; sem ele, o
+`npm run deploy:prepare` para com "mudanças locais" depois do build (foi o caso do YESREADY26, #479 e #480).
+
+Os cupons da YesStyle não são banners. As campanhas da loja nos artigos, como a Black Friday,
+seguem o `docs/CAMPANHAS.md`.
+
 Ao alterar essa fonte, conferir a página PT e os nove hubs internacionais (`/en`, `/es`, `/fr`,
 `/de`, `/it`, `/ko`, `/ja`, `/zh-hant` e `/zh-hans`). Traduções não podem inventar regras
 diferentes da fonte factual.
