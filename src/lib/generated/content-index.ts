@@ -59934,7 +59934,7 @@ export const reviewsData: unknown[] = [
           "SHEIN combines 11.11 and Black Friday into a single campaign, with phases that raise the maximum discount until the end of the month. The table below gathers what SHEIN announced in the last three years. The 2026 calendar is not out yet."
         ],
         "comparisonTable": {
-          "caption": "Phases and maximum discounts announced by SHEIN Brazil, by the press that published the announcements and by the brand's profiles. The \"up to\" applies to some items.",
+          "caption": "Phases and maximum discounts announced by SHEIN, by the press that published the announcements and by the brand's profiles. The \"up to\" applies to some items.",
           "headers": [
             "Year",
             "Start and end",
@@ -59980,15 +59980,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Under SHEIN's coupon policy, one platform coupon applies per order. Each coupon has an expiry date, and one not used in time becomes unavailable.",
           "SHEIN points are worth US$ 1 per 100 points and take off up to 30% of the product value, not counting shipping and taxes.",
-          "4CW5Y is not a coupon: it is Cecília's referral code for SHEIN Brazil. You search for 4CW5Y in the SHEIN app and check the conditions shown for your account. SHEIN campaigns change all the time: check the current ones on the store page here on the site before placing your order."
+          "4CW5Y is not a coupon: it is Cecília's SHEIN referral code. You search for 4CW5Y in the SHEIN app and check the conditions shown for your account. SHEIN campaigns change all the time: check the current ones on the store page here on the site before placing your order."
         ],
         "links": [
           {
-            "label": "See the SHEIN Brazil referral code 4CW5Y and the SHEIN campaigns",
+            "label": "See the SHEIN referral code 4CW5Y and the SHEIN campaigns",
             "href": "/en/coupons/shein"
           },
           {
-            "label": "How to use the SHEIN Brazil referral code 4CW5Y",
+            "label": "How to use the SHEIN referral code 4CW5Y",
             "href": "/en/reviews/shein-referral-code-where-to-enter"
           }
         ]
@@ -60017,7 +60017,7 @@ export const reviewsData: unknown[] = [
           "How long does SHEIN's Black Friday last? In 2024 and 2025, until the end of November. In 2023, until the Saturday after Black Friday.",
           "What is SHEIN's 11.11? It is the Singles' Day sale, on the 11th day of the 11th month. SHEIN combines 11.11 and Black Friday into a single campaign, with discount phases until the end of the month.",
           "Can I use more than one coupon on SHEIN? One SHEIN coupon per order.",
-          "Is 4CW5Y a discount coupon? No. It is Cecília's SHEIN Brazil referral code: you search for the code in the SHEIN app and see the conditions for your account.",
+          "Is 4CW5Y a discount coupon? No. It is Cecília's SHEIN referral code: you search for the code in the SHEIN app and see the conditions for your account.",
           "Is there free shipping on SHEIN's Black Friday? Free shipping changes with each phase of the campaign: check yours in the cart before paying.",
           "How long do I have to return what I bought on Black Friday? Up to 20 days after you receive it. Underwear, swimwear, bodysuits, earrings and a few other items can only be returned within 7 days."
         ]
@@ -60088,7 +60088,7 @@ export const reviewsData: unknown[] = [
           "SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases que van subiendo el descuento máximo hasta fin de mes. La tabla de abajo reúne lo que SHEIN anunció en los tres últimos años. El calendario de 2026 todavía no salió."
         ],
         "comparisonTable": {
-          "caption": "Fases y descuentos máximos anunciados por SHEIN Brasil, por la prensa que publicó los comunicados y por los perfiles de la marca. El \"hasta\" vale para algunos artículos.",
+          "caption": "Fases y descuentos máximos anunciados por SHEIN, por la prensa que publicó los comunicados y por los perfiles de la marca. El \"hasta\" vale para algunos artículos.",
           "headers": [
             "Año",
             "Inicio y fin",
@@ -60134,15 +60134,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la política de cupones de SHEIN, vale un cupón de la plataforma por pedido. Cada cupón tiene vencimiento, y el que no se usó a tiempo deja de estar disponible.",
           "Los puntos SHEIN valen US$ 1 cada 100 puntos y descuentan hasta 30% del valor de los productos, sin contar envío e impuestos.",
-          "El 4CW5Y no es un cupón: es el código de referido de Cecília para SHEIN Brasil. Buscas 4CW5Y en la app de SHEIN y revisas las condiciones que aparecen para tu cuenta. Las campañas de SHEIN cambian todo el tiempo: revisa las vigentes en la página de la tienda aquí en el sitio antes de cerrar el pedido."
+          "El 4CW5Y no es un cupón: es el código de referido de Cecília en SHEIN. Buscas 4CW5Y en la app de SHEIN y revisas las condiciones que aparecen para tu cuenta. Las campañas de SHEIN cambian todo el tiempo: revisa las vigentes en la página de la tienda aquí en el sitio antes de cerrar el pedido."
         ],
         "links": [
           {
-            "label": "Ver el código de referido 4CW5Y de SHEIN Brasil y las campañas de SHEIN",
+            "label": "Ver el código de referido 4CW5Y de SHEIN y las campañas de SHEIN",
             "href": "/es/coupons/shein"
           },
           {
-            "label": "Cómo usar el código de referido 4CW5Y de SHEIN Brasil",
+            "label": "Cómo usar el código de referido 4CW5Y de SHEIN",
             "href": "/es/reviews/codigo-de-referido-shein-donde-ponerlo"
           }
         ]
@@ -60171,7 +60171,7 @@ export const reviewsData: unknown[] = [
           "¿Hasta cuándo dura el Black Friday de SHEIN? En 2024 y 2025, hasta fin de noviembre. En 2023, hasta el sábado después del Black Friday.",
           "¿Qué es el 11.11 de SHEIN? Es la promoción del Día de los Solteros, el día 11 del mes 11. SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases de descuento hasta fin de mes.",
           "¿Puedo usar más de un cupón en SHEIN? Un cupón de SHEIN por pedido.",
-          "¿El 4CW5Y es un cupón de descuento? No. Es el código de referido de Cecília para SHEIN Brasil: buscas el código en la app de SHEIN y ves las condiciones para tu cuenta.",
+          "¿El 4CW5Y es un cupón de descuento? No. Es el código de referido de Cecília en SHEIN: buscas el código en la app de SHEIN y ves las condiciones para tu cuenta.",
           "¿Hay envío gratis en el Black Friday de SHEIN? El envío gratis cambia en cada fase de la campaña: revisa el de tu pedido en el carrito antes de pagar.",
           "¿Cuánto tiempo tengo para devolver lo que compré en el Black Friday? Hasta 20 días después de recibirlo. Ropa interior, ropa de playa, bodies, aretes y algunos otros artículos solo se devuelven dentro de 7 días."
         ]
@@ -60242,7 +60242,7 @@ export const reviewsData: unknown[] = [
           "SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases qui font monter la remise maximale jusqu'à la fin du mois. Le tableau ci-dessous rassemble ce que SHEIN a annoncé ces trois dernières années. Le calendrier de 2026 n'est pas encore sorti."
         ],
         "comparisonTable": {
-          "caption": "Phases et remises maximales annoncées par SHEIN Brésil, par la presse qui a publié les communiqués et par les profils de la marque. Le « jusqu'à » vaut pour certains articles.",
+          "caption": "Phases et remises maximales annoncées par SHEIN, par la presse qui a publié les communiqués et par les profils de la marque. Le « jusqu'à » vaut pour certains articles.",
           "headers": [
             "Année",
             "Début et fin",
@@ -60288,15 +60288,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la politique de coupons de SHEIN, un coupon de la plateforme vaut par commande. Chaque coupon a une date de validité, et celui qui n'a pas été utilisé à temps n'est plus disponible.",
           "Les points SHEIN valent US$ 1 pour 100 points et déduisent jusqu'à 30 % de la valeur des produits, hors livraison et taxes.",
-          "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage de Cecília pour SHEIN Brésil. Vous recherchez 4CW5Y dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Les campagnes SHEIN changent tout le temps : consultez les campagnes en cours sur la page de la boutique, ici sur le site, avant de valider la commande."
+          "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage SHEIN de Cecília. Vous recherchez 4CW5Y dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Les campagnes SHEIN changent tout le temps : consultez les campagnes en cours sur la page de la boutique, ici sur le site, avant de valider la commande."
         ],
         "links": [
           {
-            "label": "Voir le code de parrainage 4CW5Y de SHEIN Brésil et les campagnes SHEIN",
+            "label": "Voir le code de parrainage SHEIN 4CW5Y et les campagnes SHEIN",
             "href": "/fr/coupons/shein"
           },
           {
-            "label": "Comment utiliser le code de parrainage 4CW5Y de SHEIN Brésil",
+            "label": "Comment utiliser le code de parrainage SHEIN 4CW5Y",
             "href": "/fr/reviews/code-de-parrainage-shein-ou-le-mettre"
           }
         ]
@@ -60325,7 +60325,7 @@ export const reviewsData: unknown[] = [
           "Jusqu'à quand dure le Black Friday de SHEIN ? En 2024 et 2025, jusqu'à la fin de novembre. En 2023, jusqu'au samedi après le Black Friday.",
           "Qu'est-ce que le 11.11 de SHEIN ? C'est la promotion de la Fête des célibataires, le 11 du mois 11. SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases de remise jusqu'à la fin du mois.",
           "Puis-je utiliser plus d'un coupon sur SHEIN ? Un coupon SHEIN par commande.",
-          "Le 4CW5Y est-il un coupon de réduction ? Non. C'est le code de parrainage de Cecília pour SHEIN Brésil : vous recherchez le code dans l'appli SHEIN et voyez les conditions pour votre compte.",
+          "Le 4CW5Y est-il un coupon de réduction ? Non. C'est le code de parrainage SHEIN de Cecília : vous recherchez le code dans l'appli SHEIN et voyez les conditions pour votre compte.",
           "Y a-t-il la livraison gratuite pendant le Black Friday de SHEIN ? La livraison gratuite change à chaque phase de la campagne : vérifiez celle de votre commande dans le panier avant de payer.",
           "De combien de temps dispose-t-on pour retourner ce qu'on a acheté pendant le Black Friday ? Jusqu'à 20 jours après la réception. Sous-vêtements, maillots, bodies, boucles d'oreilles et quelques autres articles ne se retournent que sous 7 jours."
         ]
@@ -60396,7 +60396,7 @@ export const reviewsData: unknown[] = [
           "SHEIN fasst den 11.11 und den Black Friday zu einer einzigen Aktion zusammen, mit Phasen, die den Höchstrabatt bis Monatsende anheben. Die Tabelle unten stellt zusammen, was SHEIN in den letzten drei Jahren angekündigt hat. Der Kalender für 2026 ist noch nicht erschienen."
         ],
         "comparisonTable": {
-          "caption": "Phasen und Höchstrabatte, die SHEIN Brasilien, die Presse, die die Mitteilungen veröffentlicht hat, und die Profile der Marke angekündigt haben. Das „bis zu“ gilt für einzelne Artikel.",
+          "caption": "Phasen und Höchstrabatte, die SHEIN, die Presse, die die Mitteilungen veröffentlicht hat, und die Profile der Marke angekündigt haben. Das „bis zu“ gilt für einzelne Artikel.",
           "headers": [
             "Jahr",
             "Beginn und Ende",
@@ -60442,15 +60442,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Nach der Gutscheinrichtlinie von SHEIN gilt pro Bestellung ein Gutschein der Plattform. Jeder Gutschein hat ein Ablaufdatum, und was nicht rechtzeitig genutzt wurde, ist nicht mehr verfügbar.",
           "SHEIN-Punkte sind US$ 1 pro 100 Punkte wert und senken bis zu 30 % des Warenwerts, ohne Versand und Steuern.",
-          "4CW5Y ist kein Gutschein, sondern Cecílias Empfehlungscode für SHEIN Brasilien. Sie suchen 4CW5Y in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Die SHEIN-Aktionen ändern sich ständig: Prüfen Sie die aktuellen auf der Shop-Seite hier auf der Website, bevor Sie bestellen."
+          "4CW5Y ist kein Gutschein, sondern Cecílias SHEIN-Empfehlungscode. Sie suchen 4CW5Y in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Die SHEIN-Aktionen ändern sich ständig: Prüfen Sie die aktuellen auf der Shop-Seite hier auf der Website, bevor Sie bestellen."
         ],
         "links": [
           {
-            "label": "Den SHEIN-Brasilien-Empfehlungscode 4CW5Y und die SHEIN-Aktionen ansehen",
+            "label": "Den SHEIN-Empfehlungscode 4CW5Y und die SHEIN-Aktionen ansehen",
             "href": "/de/coupons/shein"
           },
           {
-            "label": "So nutzen Sie den SHEIN-Brasilien-Empfehlungscode 4CW5Y",
+            "label": "So nutzen Sie den SHEIN-Empfehlungscode 4CW5Y",
             "href": "/de/reviews/shein-empfehlungscode-wo-eingeben"
           }
         ]
@@ -60479,7 +60479,7 @@ export const reviewsData: unknown[] = [
           "Wie lange läuft der Black Friday von SHEIN? 2024 und 2025 bis Ende November. 2023 bis zum Samstag nach dem Black Friday.",
           "Was ist der 11.11 von SHEIN? Das ist die Aktion zum Single's Day, am 11. Tag des 11. Monats. SHEIN fasst den 11.11 und den Black Friday zu einer einzigen Aktion zusammen, mit Rabattphasen bis Monatsende.",
           "Kann ich bei SHEIN mehr als einen Gutschein nutzen? Ein SHEIN-Gutschein pro Bestellung.",
-          "Ist 4CW5Y ein Rabattgutschein? Nein. Es ist Cecílias Empfehlungscode für SHEIN Brasilien: Sie suchen den Code in der SHEIN-App und sehen die Bedingungen für Ihr Konto.",
+          "Ist 4CW5Y ein Rabattgutschein? Nein. Es ist Cecílias SHEIN-Empfehlungscode: Sie suchen den Code in der SHEIN-App und sehen die Bedingungen für Ihr Konto.",
           "Gibt es am Black Friday von SHEIN kostenlosen Versand? Der kostenlose Versand ändert sich mit jeder Phase der Aktion: Prüfen Sie den Ihrer Bestellung im Warenkorb, bevor Sie bezahlen.",
           "Wie lange habe ich Zeit, am Black Friday Gekauftes zurückzugeben? Bis zu 20 Tage nach Erhalt. Unterwäsche, Bademode, Bodys, Ohrringe und einige andere Artikel gehen nur innerhalb von 7 Tagen zurück."
         ]
@@ -60550,7 +60550,7 @@ export const reviewsData: unknown[] = [
           "SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi che alzano lo sconto massimo fino a fine mese. La tabella qui sotto riunisce ciò che SHEIN ha annunciato negli ultimi tre anni. Il calendario del 2026 non è ancora uscito."
         ],
         "comparisonTable": {
-          "caption": "Fasi e sconti massimi annunciati da SHEIN Brasile, dalla stampa che ha pubblicato i comunicati e dai profili del marchio. Il «fino a» vale per alcuni articoli.",
+          "caption": "Fasi e sconti massimi annunciati da SHEIN, dalla stampa che ha pubblicato i comunicati e dai profili del marchio. Il «fino a» vale per alcuni articoli.",
           "headers": [
             "Anno",
             "Inizio e fine",
@@ -60596,15 +60596,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la politica dei coupon di SHEIN, vale un coupon della piattaforma per ordine. Ogni coupon ha una scadenza, e quello non usato in tempo non è più disponibile.",
           "I punti SHEIN valgono US$ 1 ogni 100 punti e abbattono fino al 30% del valore dei prodotti, escluse spedizione e imposte.",
-          "Il 4CW5Y non è un coupon: è il codice invito di Cecília per SHEIN Brasile. Cerchi 4CW5Y nell'app SHEIN e controlli le condizioni che compaiono per il tuo account. Le campagne di SHEIN cambiano in continuazione: controlla quelle in corso nella pagina del negozio qui sul sito prima di chiudere l'ordine."
+          "Il 4CW5Y non è un coupon: è il codice invito SHEIN di Cecília. Cerchi 4CW5Y nell'app SHEIN e controlli le condizioni che compaiono per il tuo account. Le campagne di SHEIN cambiano in continuazione: controlla quelle in corso nella pagina del negozio qui sul sito prima di chiudere l'ordine."
         ],
         "links": [
           {
-            "label": "Vedi il codice invito 4CW5Y di SHEIN Brasile e le campagne SHEIN",
+            "label": "Vedi il codice invito SHEIN 4CW5Y e le campagne SHEIN",
             "href": "/it/coupons/shein"
           },
           {
-            "label": "Come usare il codice invito 4CW5Y di SHEIN Brasile",
+            "label": "Come usare il codice invito SHEIN 4CW5Y",
             "href": "/it/reviews/codice-invito-shein-dove-inserirlo"
           }
         ]
@@ -60633,7 +60633,7 @@ export const reviewsData: unknown[] = [
           "Fino a quando dura il Black Friday di SHEIN? Nel 2024 e nel 2025, fino a fine novembre. Nel 2023, fino al sabato dopo il Black Friday.",
           "Cos'è l'11.11 di SHEIN? È la promozione del Singles' Day, l'11 del mese 11. SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi di sconto fino a fine mese.",
           "Posso usare più di un coupon su SHEIN? Un coupon SHEIN per ordine.",
-          "Il 4CW5Y è un coupon sconto? No. È il codice invito di Cecília per SHEIN Brasile: cerchi il codice nell'app SHEIN e vedi le condizioni per il tuo account.",
+          "Il 4CW5Y è un coupon sconto? No. È il codice invito SHEIN di Cecília: cerchi il codice nell'app SHEIN e vedi le condizioni per il tuo account.",
           "C'è la spedizione gratuita nel Black Friday di SHEIN? La spedizione gratuita cambia a ogni fase della campagna: controlla quella del tuo ordine nel carrello prima di pagare.",
           "Quanto tempo ho per rendere ciò che ho comprato nel Black Friday? Fino a 20 giorni dopo la ricezione. Intimo, beachwear, body, orecchini e alcuni altri articoli si rendono solo entro 7 giorni."
         ]
@@ -60704,7 +60704,7 @@ export const reviewsData: unknown[] = [
           "SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶고, 월말로 갈수록 단계별로 최대 할인율을 올립니다. 아래 표는 지난 3년간 SHEIN이 발표한 내용을 모은 것입니다. 2026년 일정은 아직 나오지 않았습니다."
         ],
         "comparisonTable": {
-          "caption": "SHEIN 브라질이 발표한 단계별 최대 할인율. SHEIN 브라질, 발표를 보도한 언론, 브랜드 계정의 자료입니다. '최대'는 일부 상품에만 해당합니다.",
+          "caption": "SHEIN이 발표한 단계별 최대 할인율. SHEIN, 발표를 보도한 언론, 브랜드 계정의 자료입니다. '최대'는 일부 상품에만 해당합니다.",
           "headers": [
             "연도",
             "시작과 종료",
@@ -60750,11 +60750,11 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN의 쿠폰 정책에 따르면 플랫폼 쿠폰은 주문당 하나입니다. 쿠폰마다 유효기간이 있으며, 제때 쓰지 않으면 사용할 수 없게 됩니다.",
           "SHEIN 포인트는 100포인트가 US$ 1이고, 상품 금액의 최대 30%까지 차감합니다. 배송비와 세금은 제외입니다.",
-          "4CW5Y는 쿠폰이 아니라 SHEIN 브라질의 Cecília 추천 코드입니다. SHEIN 앱에서 4CW5Y를 검색하고, 내 계정에 표시되는 조건을 확인하세요. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요."
+          "4CW5Y는 쿠폰이 아니라 Cecília의 SHEIN 추천 코드입니다. SHEIN 앱에서 4CW5Y를 검색하고, 내 계정에 표시되는 조건을 확인하세요. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요."
         ],
         "links": [
           {
-            "label": "SHEIN 브라질 추천 코드 4CW5Y와 SHEIN 캠페인 보기",
+            "label": "SHEIN 추천 코드 4CW5Y와 SHEIN 캠페인 보기",
             "href": "/ko/coupons/shein"
           },
           {
@@ -60787,7 +60787,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 블랙프라이데이는 언제까지인가요? 2024년과 2025년에는 11월 말까지였습니다. 2023년에는 블랙프라이데이 다음 토요일까지였습니다.",
           "SHEIN 11.11이 무엇인가요? 11월 11일 광군제 할인입니다. SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶어 월말까지 단계별로 할인합니다.",
           "SHEIN에서 쿠폰을 두 개 이상 쓸 수 있나요? SHEIN 쿠폰은 주문당 하나입니다.",
-          "4CW5Y는 할인 쿠폰인가요? 아니요. SHEIN 브라질의 Cecília 추천 코드입니다. SHEIN 앱에서 코드를 검색하면 내 계정의 조건을 볼 수 있습니다.",
+          "4CW5Y는 할인 쿠폰인가요? 아니요. Cecília의 SHEIN 추천 코드입니다. SHEIN 앱에서 코드를 검색하면 내 계정의 조건을 볼 수 있습니다.",
           "SHEIN 블랙프라이데이에 무료 배송이 있나요? 무료 배송은 캠페인 단계마다 달라집니다. 결제 전에 장바구니에서 내 주문의 배송비를 확인하세요.",
           "블랙프라이데이에 산 상품은 얼마나 반품할 수 있나요? 수령 후 20일 이내입니다. 속옷, 수영복, 보디수트, 귀걸이 등 일부 상품은 7일 안에만 반품됩니다."
         ]
@@ -60858,7 +60858,7 @@ export const reviewsData: unknown[] = [
           "SHEINは11.11とブラックフライデーを1つのキャンペーンにまとめ、月末に向けて段階的に最大割引率を引き上げます。下の表は、過去3年間にSHEINが発表した内容をまとめたものです。2026年のスケジュールはまだ出ていません。"
         ],
         "comparisonTable": {
-          "caption": "SHEINブラジルが発表した各フェーズと最大割引率。SHEINブラジル、発表を掲載したメディア、ブランドのアカウントによる情報です。「最大」は一部の商品にのみ適用されます。",
+          "caption": "SHEINが発表した各フェーズと最大割引率。SHEIN、発表を掲載したメディア、ブランドのアカウントによる情報です。「最大」は一部の商品にのみ適用されます。",
           "headers": [
             "年",
             "開始と終了",
@@ -60904,11 +60904,11 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEINのクーポン規定では、プラットフォームのクーポンは1注文につき1枚です。クーポンにはそれぞれ有効期限があり、期限内に使わなかったものは使えなくなります。",
           "SHEIN ポイントは、100ポイントがUS$ 1に相当し、商品代金の最大30%まで割り引けます。送料と税金は対象外です。",
-          "4CW5Yはクーポンではなく、SHEINブラジルのCecíliaの紹介コードです。SHEINのアプリで4CW5Yを検索し、ご自身のアカウントに表示される条件を確認してください。SHEINのキャンペーンは頻繁に変わります。注文を確定する前に、このサイトのストアページで現在のキャンペーンを確認してください。"
+          "4CW5Yはクーポンではなく、CecíliaのSHEIN紹介コードです。SHEINのアプリで4CW5Yを検索し、ご自身のアカウントに表示される条件を確認してください。SHEINのキャンペーンは頻繁に変わります。注文を確定する前に、このサイトのストアページで現在のキャンペーンを確認してください。"
         ],
         "links": [
           {
-            "label": "SHEINブラジルの紹介コード4CW5YとSHEINのキャンペーンを見る",
+            "label": "SHEINの紹介コード4CW5YとSHEINのキャンペーンを見る",
             "href": "/ja/coupons/shein"
           },
           {
@@ -60941,7 +60941,7 @@ export const reviewsData: unknown[] = [
           "SHEINのブラックフライデーはいつまでですか？2024年と2025年は11月末まででした。2023年は、ブラックフライデーの翌土曜日まででした。",
           "SHEINの11.11とは何ですか？11月11日の独身の日のセールです。SHEINは11.11とブラックフライデーを1つのキャンペーンにまとめ、月末まで段階的に割引を行います。",
           "SHEINでクーポンを複数使えますか？SHEINのクーポンは1注文につき1枚です。",
-          "4CW5Yは割引クーポンですか？いいえ。SHEINブラジルのCecíliaの紹介コードです。SHEINのアプリでコードを検索すると、ご自身のアカウントの条件が表示されます。",
+          "4CW5Yは割引クーポンですか？いいえ。CecíliaのSHEIN紹介コードです。SHEINのアプリでコードを検索すると、ご自身のアカウントの条件が表示されます。",
           "SHEINのブラックフライデーは送料無料ですか？送料無料はキャンペーンのフェーズごとに変わります。支払う前に、カートでご自分の注文の送料を確認してください。",
           "ブラックフライデーに買った商品は、どのくらいの期間返品できますか？受け取りから20日以内です。下着、水着、ボディスーツ、ピアスなど一部の商品は、7日以内にしか返品できません。"
         ]
@@ -61012,7 +61012,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 把 11.11 和黑色星期五合併成同一檔活動，分階段調高最高折扣，直到月底。下表彙整了 SHEIN 過去三年公布的內容。2026 年的時程尚未公布。"
         ],
         "comparisonTable": {
-          "caption": "SHEIN 巴西站公布的各階段與最高折扣，資料來源為 SHEIN 巴西站、刊登公告的媒體與品牌帳號。「最高」只適用於部分商品。",
+          "caption": "SHEIN 公布的各階段與最高折扣，資料來源為 SHEIN、刊登公告的媒體與品牌帳號。「最高」只適用於部分商品。",
           "headers": [
             "年份",
             "起訖時間",
@@ -61058,11 +61058,11 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "依照 SHEIN 的優惠券政策，每筆訂單可使用一張平台優惠券。每張優惠券都有使用期限，沒有及時使用就會失效。",
           "SHEIN 點數每 100 點折抵 US$ 1，最多可折抵商品金額的 30%，不含運費與稅金。",
-          "4CW5Y 不是優惠券，而是 SHEIN 巴西站的 Cecília 推薦碼。請在 SHEIN App 中搜尋 4CW5Y，並查看你的帳號顯示的條件。SHEIN 的活動隨時都在變：下單前，請先到本站的商店頁面查看目前的活動。"
+          "4CW5Y 不是優惠券，而是 Cecília 的 SHEIN 推薦碼。請在 SHEIN App 中搜尋 4CW5Y，並查看你的帳號顯示的條件。SHEIN 的活動隨時都在變：下單前，請先到本站的商店頁面查看目前的活動。"
         ],
         "links": [
           {
-            "label": "查看 SHEIN 巴西站推薦碼 4CW5Y 與 SHEIN 的活動",
+            "label": "查看 SHEIN 推薦碼 4CW5Y 與 SHEIN 的活動",
             "href": "/zh-hant/coupons/shein"
           },
           {
@@ -61095,7 +61095,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 的黑色星期五持續到什麼時候？2024 年與 2025 年都持續到 11 月底。2023 年持續到黑色星期五之後的那個週六。",
           "SHEIN 的 11.11 是什麼？是 11 月 11 日的光棍節促銷。SHEIN 把 11.11 和黑色星期五合併成同一檔活動，分階段打折，直到月底。",
           "在 SHEIN 可以同時使用多張優惠券嗎？每筆訂單只能使用一張 SHEIN 優惠券。",
-          "4CW5Y 是折扣優惠券嗎？不是。它是 SHEIN 巴西站的 Cecília 推薦碼：你在 SHEIN App 裡搜尋這個碼，就能看到適用於你帳號的條件。",
+          "4CW5Y 是折扣優惠券嗎？不是。它是 Cecília 的 SHEIN 推薦碼：你在 SHEIN App 裡搜尋這個碼，就能看到適用於你帳號的條件。",
           "SHEIN 黑色星期五有免運費嗎？免運費會隨活動階段改變：付款前，請在購物車裡確認你這筆訂單的運費。",
           "黑色星期五買的東西，多久內可以退貨？收貨後 20 天內。內衣、泳裝、連身衣、耳環等部分商品只能在 7 天內退貨。"
         ]
@@ -61166,7 +61166,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 把 11.11 和黑色星期五合并成一场活动，分阶段提高最高折扣，直到月底。下表汇总了 SHEIN 过去三年公布的内容。2026 年的日程尚未公布。"
         ],
         "comparisonTable": {
-          "caption": "SHEIN 巴西站公布的各阶段与最高折扣，来源为 SHEIN 巴西站、刊登公告的媒体和品牌账号。“最高”只适用于部分商品。",
+          "caption": "SHEIN 公布的各阶段与最高折扣，来源为 SHEIN、刊登公告的媒体和品牌账号。“最高”只适用于部分商品。",
           "headers": [
             "年份",
             "起止时间",
@@ -61212,11 +61212,11 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "按照 SHEIN 的优惠券政策，每笔订单可用一张平台优惠券。每张优惠券都有有效期，没有及时使用就会失效。",
           "SHEIN 积分每 100 分抵 US$ 1，最多可抵商品金额的 30%，不含运费和税金。",
-          "4CW5Y 不是优惠券，而是 SHEIN 巴西站的 Cecília 推荐码。请在 SHEIN App 中搜索 4CW5Y，并查看你的账户显示的条件。SHEIN 的活动随时都在变：下单前，请先到本站的店铺页面查看目前的活动。"
+          "4CW5Y 不是优惠券，而是 Cecília 的 SHEIN 推荐码。请在 SHEIN App 中搜索 4CW5Y，并查看你的账户显示的条件。SHEIN 的活动随时都在变：下单前，请先到本站的店铺页面查看目前的活动。"
         ],
         "links": [
           {
-            "label": "查看 SHEIN 巴西站推荐码 4CW5Y 与 SHEIN 的活动",
+            "label": "查看 SHEIN 推荐码 4CW5Y 与 SHEIN 的活动",
             "href": "/zh-hans/coupons/shein"
           },
           {
@@ -61249,7 +61249,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 的黑色星期五持续到什么时候？2024 年和 2025 年都持续到 11 月底。2023 年持续到黑色星期五之后的那个周六。",
           "SHEIN 的 11.11 是什么？是 11 月 11 日的光棍节促销。SHEIN 把 11.11 和黑色星期五合并成一场活动，分阶段打折，直到月底。",
           "在 SHEIN 可以同时用多张优惠券吗？每笔订单只能用一张 SHEIN 优惠券。",
-          "4CW5Y 是折扣优惠券吗？不是。它是 SHEIN 巴西站的 Cecília 推荐码：你在 SHEIN App 里搜索这个码，就能看到适用于你账户的条件。",
+          "4CW5Y 是折扣优惠券吗？不是。它是 Cecília 的 SHEIN 推荐码：你在 SHEIN App 里搜索这个码，就能看到适用于你账户的条件。",
           "SHEIN 黑色星期五有免运费吗？免运费会随活动阶段变化：付款前，请在购物车里确认你这笔订单的运费。",
           "黑色星期五买的东西，多久内可以退货？收货后 20 天内。内衣、泳装、连体衣、耳环等部分商品只能在 7 天内退货。"
         ]
