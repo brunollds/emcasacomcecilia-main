@@ -101,7 +101,7 @@
         "Al checkout, l'app mostra il paese di consegna, la spedizione e la riga \"Coupon or Influencer / Rewards Code\" prima del riepilogo dell'ordine."
       ],
       "postParagraphs": [
-        "Il passo passo per il sito è in [Come usare il CECILIA010 su YesStyle](/it/reviews/codice-ricompensa-yesstyle-cecilia010)."
+        "La guida passo passo per il sito è in [Come usare il CECILIA010 su YesStyle](/it/reviews/codice-ricompensa-yesstyle-cecilia010)."
       ]
     },
     {
@@ -112,7 +112,7 @@
       "bullets": [
         "Al checkout, tocca \"Enter Code\", sulla riga \"Coupon or Influencer / Rewards Code\".",
         "Si aprono due campi: \"Coupon Code\" in alto, per il coupon dello shop, e \"Influencer / Rewards Code\" in basso. Digita CECILIA010 in quello in basso e tocca \"APPLY\".",
-        "Tornato al checkout, il codice compare come etichetta sotto \"Coupon or Influencer / Rewards Code\" e il riepilogo guadagna la riga \"Influencer Code Discount\". Controlla quella riga prima di pagare."
+        "Tornato al checkout, il codice compare come etichetta sotto \"Coupon or Influencer / Rewards Code\" e nel riepilogo compare la riga \"Influencer Code Discount\". Controlla quella riga prima di pagare."
       ],
       "postParagraphs": [
         "Il coupon dello shop, quando ce n'è uno attivo, va nel campo in alto, nella stessa schermata. I due si sommano."
@@ -165,7 +165,7 @@
     {
       "heading": "Punti YS e il coupon dell'app",
       "paragraphs": [
-        "Chi accede dall'app ottiene 50 punti YS, una sola volta. Reinstallare non restituisce i punti. I punti non sono il codice ricompensa: si applicano nella fase \"Payment Information\" del checkout, mentre il CECILIA010 va nella schermata \"Enter Code\". Uno non sostituisce l'altro.",
+        "Chi accede dall'app ottiene 50 punti YS, una sola volta. Reinstallare non assegna di nuovo i punti. I punti non sono il codice ricompensa: si applicano nella fase \"Payment Information\" del checkout, mentre il CECILIA010 va nella schermata \"Enter Code\". Uno non sostituisce l'altro.",
         "Lo shop dice di lanciare, una volta al mese e a un orario casuale, un coupon di 24 ore valido solo per ordini fatti dall'app; al controllo non ce n'era uno attivo, e il coupon in evidenza nell'app era lo stesso del sito. I coupon attivi dello shop sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle)."
       ]
     },
@@ -188,7 +188,7 @@
       "bullets": [
         "YesStyle ha un'app? Sì, per Android e iPhone, nei link ufficiali di Google Play e dell'App Store. Lo shop dice di scaricarla solo da questi due.",
         "Il CECILIA010 vale nell'app? Sì. Al checkout, tocca \"Enter Code\" e digita il codice nel campo \"Influencer / Rewards Code\". È un codice ricompensa, con fino al 5% in più, e si somma al coupon dello shop, che va nel campo \"Coupon Code\".",
-        "Si guadagnano punti scaricando l'app? Sì, 50 punti YS accedendo dall'app, una sola volta. Reinstallare non li restituisce, e i punti non sono il codice ricompensa.",
+        "Si guadagnano punti scaricando l'app? Sì, 50 punti YS accedendo dall'app, una sola volta. Reinstallare non li assegna di nuovo, e i punti non sono il codice ricompensa.",
         "L'app ha un coupon esclusivo? Lo shop dice di pubblicare un coupon di 24 ore, una volta al mese, solo per ordini fatti nell'app. Al controllo non ce n'era uno attivo."
       ]
     }

@@ -55,7 +55,7 @@
         "La page dit qu'il crée des sites et des applications web à partir d'une description en texte, sans connaissances techniques, dans deux modes :"
       ],
       "bullets": [
-        "**Édition sans IA (le mode Manual) :** vous partez d'un site généré par l'IA ou de l'un des modèles et vous éditez par glisser-déposer. Il ne consomme pas de crédits IA.",
+        "**Édition sans IA (le mode Manual) :** vous partez d'un site généré par l'IA ou de l'un des modèles et vous éditez par glisser-déposer. Ce mode ne consomme pas de crédits IA.",
         "**Édition avec IA (le mode Agentic) :** vous décrivez ce que vous voulez dans le chat et l'IA dessine et code. Chaque action consomme des crédits IA, et on peut en racheter."
       ],
       "postParagraphs": [
@@ -168,8 +168,8 @@
         ]
       },
       "postParagraphs": [
-        "**WordPress l'emporte** quand le projet dépend d'un plugin précis, d'un thème que vous avez déjà, ou de quelqu'un qui maintiendra le site ensuite. C'est un logiciel libre : le site entier est à vous et part vers n'importe quel hébergeur sans retravail.",
-        "**Le créateur IA l'emporte** quand vous ne voulez rien installer ni mettre à jour et que vous voulez une appli web avec connexion et données, ce qui devient sur WordPress une pile de plugins. La réserve qui change la décision : en mode IA, chaque modification consomme des crédits. D'après la page, une page institutionnelle simple consomme de 5 à 10 crédits, et une appli plus complexe, 15 ou plus. Qui retouche le site chaque semaine doit faire le calcul ; qui le monte une fois et modifie texte et photos dans l'éditeur, sans prompt, ne dépense rien."
+        "**WordPress l'emporte** quand le projet dépend d'un plugin précis, d'un thème que vous avez déjà, ou de quelqu'un qui maintiendra le site ensuite. C'est un logiciel libre : le site entier est à vous et part vers n'importe quel hébergeur sans tout refaire.",
+        "**Le créateur IA l'emporte** quand vous ne voulez rien installer ni mettre à jour et que vous voulez une appli web avec connexion et données, ce qui devient sur WordPress une pile de plugins. La réserve qui change la décision : en mode IA, chaque modification consomme des crédits. D'après la page, une page institutionnelle simple consomme de 5 à 10 crédits, et une appli plus complexe, 15 ou plus. Qui retouche le site chaque semaine doit faire le calcul ; qui le monte une fois et modifie le texte et les photos dans l'éditeur, sans prompt, ne dépense rien."
       ]
     },
     {
@@ -203,7 +203,7 @@
       "heading": "Vaut-il le coup ? Le verdict",
       "paragraphs": [
         "**Il vaut le coup** pour qui veut un site de quelques pages, un portfolio, une petite boutique ou une appli web simple et ne veut ni coder ni s'occuper de plugins. La première version sort de la description, et le mode sans IA permet de retoucher sans dépenser de crédits. Commencez par l'essai gratuit ; si le résultat convient, l'offre Premium couvre un site simple et Unlimited, une boutique.",
-        "**Restez sur WordPress** si le projet dépend de plugins, d'un thème à vous, de quelqu'un qui maintiendra le site, ou si vous voulez tout emporter chez un autre hébergeur sans retravail. L'offre Hostinger est la même dans les deux cas, donc le choix ne porte que sur l'outil.",
+        "**Restez sur WordPress** si le projet dépend de plugins, d'un thème à vous, de quelqu'un qui maintiendra le site, ou si vous voulez tout emporter chez un autre hébergeur sans tout refaire. L'offre Hostinger est la même dans les deux cas, donc le choix ne porte que sur l'outil.",
         "**Dans le doute, essayez le créateur IA avant de payer.** Vous avez 5 crédits gratuits, sans carte, de quoi voir si l'IA comprend ce que vous voulez. Si elle ne comprend pas, WordPress est toujours là."
       ]
     },
@@ -228,7 +228,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement.",
+    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -254,12 +254,12 @@
     "takeIf": [
       "Prenez le créateur IA si vous voulez un site de quelques pages, un portfolio, une petite boutique ou une appli web simple sans coder.",
       "Prenez-le si vous voulez l'hébergement, le domaine et l'e-mail dans la même offre et acceptez que l'IA monte la première version.",
-      "Prenez-le si vous allez monter le site une fois et retoucher texte et photos dans l'éditeur, qui ne consomme pas de crédits."
+      "Prenez-le si vous allez monter le site une fois et retoucher le texte et les photos dans l'éditeur, qui ne consomme pas de crédits."
     ],
     "skipIf": [
       "Passez, et restez sur WordPress, si le projet dépend d'un plugin précis ou d'un thème que vous avez déjà.",
       "Passez si une autre personne ou une agence va maintenir le site : WordPress est la norme du marché.",
-      "Passez si vous voulez tout emporter chez un autre hébergeur sans retravail, ou si vous allez demander des modifications à l'IA chaque semaine et que chaque demande consomme des crédits."
+      "Passez si vous voulez tout emporter chez un autre hébergeur sans tout refaire, ou si vous allez demander des modifications à l'IA chaque semaine et que chaque demande consomme des crédits."
     ]
   }
 }

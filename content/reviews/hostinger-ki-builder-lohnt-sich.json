@@ -183,7 +183,7 @@
       "heading": "Was Sie vor der Zahlung prüfen sollten",
       "bullets": [
         "**Das Guthaben.** Der KI-Modus verbraucht bei jeder Anfrage Guthaben, und das Guthaben des Tarifs erneuert sich nicht jeden Monat. Bauen Sie die Website mit der KI und nehmen Sie Text- und Foto-Anpassungen im Editor vor, der keines verbraucht.",
-        "**Was passiert, wenn Sie nicht verlängern.** Die Seite warnt: Ein abgelaufener und nicht verlängerter Tarif nimmt das Projekt vom Netz und löscht die Daten. Exportieren Sie den Code, bevor er ausläuft.",
+        "**Was passiert, wenn Sie nicht verlängern.** Die Seite warnt: Ein abgelaufener und nicht verlängerter Tarif nimmt das Projekt vom Netz und löscht die Daten. Exportieren Sie den Code, bevor der Tarif ausläuft.",
         "**Rückerstattung innerhalb von 30 Tagen**, sofern Sie weniger als 30 KI-Guthaben verbraucht haben.",
         "**Der Onlineshop** gehört zu den Tarifen Unlimited und Cloud Startup; bei Unlimited ist er laut Seite 3 Monate kostenlos. Prüfen Sie an der Kasse, was er danach kostet.",
         "**Eine native App gibt es nicht.** Was der KI-Builder macht, ist eine responsive Web-App, die im Browser des Handys läuft. Für den App Store und Google Play ist es ein anderer Weg."
@@ -195,7 +195,7 @@
     {
       "heading": "Gutscheincode SONAR20",
       "paragraphs": [
-        "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- oder Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Die vollständige Regel und die anderen Produkte stehen unter [Hostinger-Gutscheine](/de/coupons/hostinger).",
+        "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- oder Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Die vollständigen Bedingungen und die anderen Produkte stehen unter [Hostinger-Gutscheine](/de/coupons/hostinger).",
         "Preise und Bedingungen ändern sich; prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen."
       ]
     },
@@ -228,7 +228,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
     "label": "Die Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

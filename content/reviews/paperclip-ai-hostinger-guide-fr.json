@@ -149,17 +149,6 @@
     },
     {
       "heading": "Quelle taille de VPS",
-      "paragraphs": [],
-      "comparisonTable": {
-        "headers": [],
-        "rows": [
-          [],
-          [],
-          [],
-          [],
-          []
-        ]
-      },
       "postParagraphs": [
         "La RAM est la mémoire du serveur, et un vCPU est un cœur de processeur. Plus l’offre de VPS est grande, plus elle a de mémoire et de puissance de calcul. Hostinger ne liste pas, dans les pages lues, de mémoire minimale requise pour Paperclip : le KVM 1 est le point de départ, et le nombre d’agents que vous faites tourner décide s’il suffit. Les offres sont KVM 1 (1 vCPU, 4 Go, 50 Go), KVM 2 (2 vCPU, 8 Go, 100 Go), KVM 4 (4 vCPU, 16 Go, 200 Go) et KVM 8 (8 vCPU, 32 Go, 400 Go)."
       ]
@@ -174,7 +163,7 @@
       "heading": "Comment commencer, dans l’ordre",
       "bullets": [
         "**Le faire tourner sur votre ordinateur.** Le README officiel demande Node.js 24.11 ou plus récent. Vérifiez la version avec la commande node -v dans le terminal, puis lancez npx paperclipai@latest onboard --yes. L’interface s’ouvre sur http://localhost:3100, et la base Postgres est créée toute seule. Il n’y a pas de coût de serveur, mais Paperclip ne tourne que tant que l’ordinateur est allumé. Si vous avez un abonnement Claude ou Codex, le README accepte aussi de se connecter avec l’abonnement, sans clé d’API, avec Python 3 et le programme du fournisseur installés.",
-        "**Souscrire le géré.** Choisissez l’offre « Applications d’automatisation IA » sur 24 mois, avec le code SONAR20 dans le panier. Après la souscription, Hostinger prépare l’instance et la base de données. Vous vous connectez au panneau, reliez vos agents et collez vos clés d’IA.",
+        "**Souscrire le géré.** Choisissez l’offre « Applications d’automatisation IA » sur 24 mois, avec le code SONAR20 dans le panier. Après la souscription, Hostinger prépare l’instance et la base de données. Vous vous connectez au panneau, connectez vos agents et collez vos clés d’IA.",
         "**Ou prendre un VPS avec Docker.** Choisissez une offre KVM (le KVM 1 est le moins cher) et, dans la liste des applications, Paperclip, que Hostinger installe en un clic. Avec le Docker Manager du panneau, vous ouvrez Paperclip, saisissez les clés et mettez à jour la version avec un bouton. La sécurité du serveur, les mots de passe et les mises à jour du système restent à vous."
       ]
     },
@@ -204,7 +193,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement.",
+    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

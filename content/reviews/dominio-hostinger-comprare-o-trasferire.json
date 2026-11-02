@@ -51,7 +51,7 @@
     {
       "heading": "Dominio e hosting sono due account",
       "paragraphs": [
-        "Dominio e hosting sono due account: l'indirizzo (il nome che le persone digitano) da una parte, il computer dove vive il sito dall'altra. Paghi i due separatamente e non devono stare nella stessa azienda: il dominio registrato presso un'azienda può puntare all'hosting di un'altra. La pagina stessa di Hostinger dice che un dominio registrato da lei può essere puntato a un altro provider di hosting.",
+        "Dominio e hosting sono due account: l'indirizzo (il nome che le persone digitano) da una parte, il computer dove si trova il sito dall'altra. Paghi i due separatamente e non devono stare nella stessa azienda: il dominio registrato presso un'azienda può puntare all'hosting di un'altra. La pagina stessa di Hostinger dice che un dominio registrato su Hostinger può essere puntato verso un altro provider di hosting.",
         "Per questo la decisione non è \"Hostinger o no\". È dove sta la registrazione del dominio, quanto costa rinnovarlo ogni anno e cosa succede se un giorno cambi hosting. Il primo anno a buon prezzo è il dettaglio meno importante: il dominio si rinnova finché il sito esiste."
       ]
     },
@@ -87,7 +87,7 @@
             "Comprare altrove e puntare",
             "Hai già un dominio presso un altro registrar o preferisci tenere gli account separati",
             "Prezzo del registrar dove si trova",
-            "Sul dominio non cambia nulla; solo il puntamento",
+            "Sul dominio non cambia nulla; solo dove punta",
             "Tuo, presso l'altro registrar"
           ],
           [
@@ -100,21 +100,11 @@
         ]
       },
       "postParagraphs": [
-        "I piani di hosting Premium e Unlimited da 12 mesi in su includono un dominio per il primo anno, uno per account, in estensioni selezionate; dal secondo anno si rinnova al prezzo normale del listino. È una voce del piano, non un motivo per scegliere la strada: quello che pesa è il rinnovo."
+        "I piani di hosting Premium e Unlimited da 12 mesi in su includono un dominio per il primo anno, uno per account, in estensioni selezionate; dal secondo anno si rinnova al prezzo normale del listino. È una voce del piano, non un motivo per scegliere la strada: quello che conta è il rinnovo."
       ]
     },
     {
       "heading": "Privacy dei dati di contatto",
-      "paragraphs": [],
-      "comparisonTable": {
-        "headers": [],
-        "rows": [
-          [],
-          [],
-          [],
-          []
-        ]
-      },
       "postParagraphs": [
         "La privacy dei dati di contatto (RDAP, il vecchio WHOIS) è inclusa nelle estensioni compatibili."
       ]
@@ -129,7 +119,7 @@
         "**Età della registrazione:** nella maggior parte dei casi il dominio deve essere registrato da almeno 60 giorni. Anche un dominio nuovo su Hostinger resta bloccato per 60 giorni prima di poter uscire.",
         "**Sblocco e codice:** sblocchi il dominio nel pannello del registrar attuale e prendi il codice di autorizzazione (EPP, o codice di trasferimento).",
         "**Conferma:** dopo aver inserito il codice su Hostinger, arriva un'e-mail del registrar per confermare. Senza la conferma, il trasferimento non va avanti.",
-        "**Tempi:** fino a sette giorni; più veloce se il registrar attuale lo libera subito e confermi l'e-mail al volo.",
+        "**Tempi:** fino a sette giorni; più veloce se il registrar attuale lo libera subito e confermi subito l'e-mail.",
         "**Prezzo:** non è gratis. Nella maggior parte delle estensioni generiche (.com, .net, .org), la tariffa di trasferimento include già un anno in più di registrazione, che si somma alla durata che avevi."
       ],
       "postParagraphs": [
@@ -139,7 +129,7 @@
     {
       "heading": "Di chi è il dominio",
       "paragraphs": [
-        "Hostinger dice in entrambe le pagine che il dominio è registrato a tuo nome ed è tuo, non del registrar. È accreditata presso ICANN, l'ente che coordina i domini generici. Se annulli l'hosting, il dominio resta tuo; nel caso del dominio arrivato con il piano, la tariffa di registrazione viene detratta dal rimborso, perché è già stata pagata al registro.",
+        "Hostinger dice in entrambe le pagine che il dominio è registrato a tuo nome ed è tuo, non del registrar. È accreditata presso ICANN, l'ente che coordina i domini generici. Se annulli l'hosting, il dominio resta tuo; nel caso del dominio incluso nel piano, la tariffa di registrazione viene detratta dal rimborso, perché è già stata pagata al registro.",
         "Tre accorgimenti mantengono il dominio tuo:"
       ],
       "bullets": [
@@ -193,7 +183,7 @@
   "cons": [],
   "cta": {
     "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello. Controlla il dominio nel carrello prima di pagare.",
-    "label": "Vedi i piani con SONAR20",
+    "label": "Vedi i piani con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },

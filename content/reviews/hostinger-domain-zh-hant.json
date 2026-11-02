@@ -105,16 +105,6 @@
     },
     {
       "heading": "聯絡資料的隱私保護",
-      "paragraphs": [],
-      "comparisonTable": {
-        "headers": [],
-        "rows": [
-          [],
-          [],
-          [],
-          []
-        ]
-      },
       "postParagraphs": [
         "聯絡資料的隱私保護（RDAP，原 WHOIS）在相容的後綴上已包含在內。"
       ]
@@ -192,7 +182,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車輸入 SONAR20，或從本文連結進入：主機方案首期享 20%。網域的金額，付款前在購物車核對。",
+    "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。網域的金額也請在付款前於購物車核對。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

@@ -87,7 +87,7 @@
             "Buy elsewhere and point it",
             "You already have a domain at another registrar or prefer to keep the accounts separate",
             "Price of the registrar where it is",
-            "Nothing changes on the domain; only the pointing",
+            "Nothing changes on the domain; only where it points",
             "You, at the other registrar"
           ],
           [
@@ -100,21 +100,11 @@
         ]
       },
       "postParagraphs": [
-        "Premium and Unlimited hosting plans of 12 months or more include a domain for the first year, one per account, on selected extensions; from the second year it renews at the regular table price. It is an item of the plan, not a reason to pick a path: what weighs is the renewal."
+        "Premium and Unlimited hosting plans of 12 months or more include a domain for the first year, one per account, on selected extensions; from the second year it renews at the regular table price. It is part of the plan, not a reason to pick a path: what matters is the renewal."
       ]
     },
     {
       "heading": "Contact-data privacy",
-      "paragraphs": [],
-      "comparisonTable": {
-        "headers": [],
-        "rows": [
-          [],
-          [],
-          [],
-          []
-        ]
-      },
       "postParagraphs": [
         "Contact-data privacy (RDAP, the former WHOIS) is included on compatible extensions."
       ]
@@ -133,7 +123,7 @@
         "**Price:** it is not free. On most generic extensions (.com, .net, .org), the transfer fee already includes an extra year of registration, added to the term you already had."
       ],
       "postParagraphs": [
-        "Transferring out of Hostinger follows the same logic in reverse: 60 days of registration, unlock it in Hostinger's panel, get the code and confirm by email. A transfer that goes through is not refunded; see [Hostinger's refund and renewal rules](/en/reviews/is-hostinger-legit)."
+        "Transferring out of Hostinger follows the same logic in reverse: 60 days of registration, unlock it in Hostinger's panel, get the code and confirm by email. A completed transfer is not refundable; see [Hostinger's refund and renewal rules](/en/reviews/is-hostinger-legit)."
       ]
     },
     {
@@ -171,7 +161,7 @@
     {
       "heading": "SONAR20 coupon and price",
       "paragraphs": [
-        "Use the code **SONAR20** in the coupon field of the cart, or come in through this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. We have not tested the renewal; check the price in the cart. For a domain on its own, what counts is what appears in the cart. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
+        "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. We have not tested the renewal; check the price in the cart. For a domain on its own, what counts is what appears in the cart. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
       ]
     },
     {
@@ -192,8 +182,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart. Check the domain price in the cart before paying.",
-    "label": "See plans with SONAR20",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the price in the cart. Check the domain in the cart before paying.",
+    "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },

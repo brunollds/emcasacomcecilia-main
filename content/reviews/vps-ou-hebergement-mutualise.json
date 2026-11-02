@@ -76,7 +76,7 @@
           [
             "Blog, portfolio ou site d'entreprise sous WordPress",
             "Oui. C'est l'usage typique du forfait",
-            "Inutile"
+            "Pas besoin"
           ],
           [
             "Petite boutique sous WordPress (WooCommerce)",
@@ -86,12 +86,12 @@
           [
             "Site en Node.js",
             "Oui. Le forfait Premium liste Node.js, et ce site tourne ainsi",
-            "Inutile"
+            "Pas besoin"
           ],
           [
             "Plusieurs sites ou des e-mails professionnels",
             "Oui. Premium liste jusqu'à 3 sites, et Unlimited inclut les e-mails",
-            "Inutile"
+            "Pas besoin"
           ],
           [
             "Système propre, avec un programme ou une base absents du panneau",
@@ -209,7 +209,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le VPS ni le renouvellement.",
+    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -238,8 +238,8 @@
       "Prenez-le si vous avez un tableau de bord, un bot ou une automatisation (n8n, Docker) qui tourne toute la journée et quelqu'un pour maintenir le serveur."
     ],
     "skipIf": [
-      "Passez votre chemin si c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
-      "Passez votre chemin si vous n'avez jamais ouvert de terminal : installer, mettre à jour, protéger et sauvegarder reviennent à vous."
+      "Laissez tomber si c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
+      "Laissez tomber si vous n'avez jamais ouvert de terminal : installer, mettre à jour, protéger et sauvegarder reviennent à vous."
     ]
   }
 }

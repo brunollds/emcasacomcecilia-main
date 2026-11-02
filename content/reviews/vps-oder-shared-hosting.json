@@ -52,7 +52,7 @@
       "heading": "Was beides ist",
       "paragraphs": [
         "**Shared Hosting** ist ein Server, der unter mehreren Kunden aufgeteilt wird. Hostinger kümmert sich um das System, den Webserver und die Updates; Sie gehen ins Panel, installieren WordPress oder laden die Dateien Ihrer Website hoch, fertig. Bei Hostinger sind das die Tarife Single, Premium und Unlimited sowie Cloud Startup, dieselbe Idee mit mehr Ressourcen.",
-        "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatz. Hostinger übergibt die Maschine mit dem Betriebssystem und dem Root-Zugriff, dem Benutzer, der alles darf. Von da an sind Installation von Webserver, Datenbank und Zertifikat sowie Updates und Sicherheit Ihre Aufgaben. Bei Hostinger sind das die Tarife KVM 1, 2, 4 und 8.",
+        "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatzplatz. Hostinger übergibt die Maschine mit dem Betriebssystem und dem Root-Zugriff, dem Benutzer, der alles darf. Von da an sind Installation von Webserver, Datenbank und Zertifikat sowie Updates und Sicherheit Ihre Aufgaben. Bei Hostinger sind das die Tarife KVM 1, 2, 4 und 8.",
         "Der Unterschied ist nicht „besser oder schlechter“. Es geht darum, wer den Server betreut und wie viele Ressourcen für Sie reserviert sind."
       ]
     },
@@ -124,7 +124,7 @@
           "Tarif",
           "vCPU",
           "RAM",
-          "Speicher"
+          "Speicherplatz"
         ],
         "rows": [
           [
@@ -193,7 +193,7 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Ist ein VPS schneller als Shared Hosting? Das haben wir nicht gemessen. Was ein VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatz gehören Ihnen, während beim Shared Hosting der Server geteilt wird. Bei einer gewöhnlichen Website ist das selten der Engpass.",
+        "Ist ein VPS schneller als Shared Hosting? Das haben wir nicht gemessen. Was ein VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatzplatz gehören Ihnen, während beim Shared Hosting der Server geteilt wird. Bei einer gewöhnlichen Website ist das selten der Engpass.",
         "Kann man mit Shared Hosting anfangen und später zum VPS wechseln? Ja. Es sind verschiedene Produkte: Man schließt den VPS ab, installiert den Server und zieht die Website um. Shared Hosting lässt sich nicht im Panel in einen VPS umwandeln.",
         "Braucht man Linux-Kenntnisse für einen VPS? Ja, die Grundlagen des Terminals: Programme installieren, das System aktualisieren und ein Log lesen. Beim Shared Hosting läuft alles über das Panel, ein Terminal ist nicht nötig.",
         "Schafft ein VPS WordPress? Ja, aber man installiert und wartet Webserver, PHP und Datenbank selbst. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server."
@@ -209,7 +209,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Prüfen Sie den VPS-Preis im Warenkorb, bevor Sie zahlen.",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
     "label": "Die Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

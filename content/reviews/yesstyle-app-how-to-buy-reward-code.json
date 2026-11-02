@@ -93,11 +93,11 @@
     {
       "heading": "How to shop in the app",
       "paragraphs": [
-        "Shopping follows the same order as the website: sign in, build your bag, go to checkout. Three points the store's help center confirms:"
+        "Shopping follows the same steps as on the website: sign in, fill your bag, go to checkout. Three points the store's help center confirms:"
       ],
       "bullets": [
         "The account is the same as on the website. You don't need to create another one.",
-        "Sign in before adding items to the bag. When you're logged in on both the website and the app, there is one bag.",
+        "Sign in before adding items to the bag. When you're logged in on both the website and the app, there is a single shared bag.",
         "At checkout, the app shows the delivery country, the shipping cost and the \"Coupon or Influencer / Rewards Code\" line before the order summary."
       ],
       "postParagraphs": [
@@ -126,7 +126,7 @@
       }
     },
     {
-      "heading": "Website or app: what differs",
+      "heading": "Website or app: what's different",
       "comparisonTable": {
         "headers": [
           "Topic",

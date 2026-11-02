@@ -116786,7 +116786,7 @@ export const reviewsData: unknown[] = [
             [
               "Erstattung",
               "30 Tage",
-              "30 Tage nur, wenn die letzte VPS-Erstattung mehr als 180 Tage zurückliegt"
+              "30 Tage nur, wenn die letzte VPS-Erstattung vor mehr als 180 Tagen beantragt wurde"
             ]
           ]
         },
@@ -116798,17 +116798,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Welche VPS-Größe",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "RAM ist der Arbeitsspeicher des Servers, und eine vCPU ist ein Prozessorkern. Je größer der VPS-Tarif, desto mehr Speicher und Rechenleistung hat er. Hostinger nennt auf den gelesenen Seiten keinen Mindestspeicher für Paperclip: Der KVM 1 ist der Ausgangspunkt, und wie viele Agenten Sie betreiben, entscheidet, ob er reicht. Die Tarife sind KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) und KVM 8 (8 vCPU, 32 GB, 400 GB)."
         ]
@@ -116823,7 +116812,7 @@ export const reviewsData: unknown[] = [
         "heading": "So fangen Sie an, der Reihe nach",
         "bullets": [
           "**Auf Ihrem Computer betreiben.** Die offizielle README verlangt Node.js 24.11 oder neuer. Prüfen Sie die Version mit dem Befehl node -v im Terminal und führen Sie dann npx paperclipai@latest onboard --yes aus. Die Oberfläche öffnet sich unter http://localhost:3100, und die Postgres-Datenbank wird von selbst angelegt. Es entstehen keine Serverkosten, aber Paperclip läuft nur, solange der Computer eingeschaltet ist. Wenn Sie Claude oder Codex abonniert haben, erlaubt die README auch die Anmeldung über das Abonnement, ohne API-Schlüssel, mit installiertem Python 3 und dem Programm des Anbieters.",
-          "**Das verwaltete Angebot buchen.** Bestellen Sie den Plan „AI automation apps“ mit 24 Monaten und dem Code SONAR20 im Warenkorb. Nach der Bestellung bereitet Hostinger die Instanz und die Datenbank vor. Sie melden sich im Panel an, verbinden Ihre Agenten und tragen Ihre KI-Schlüssel ein.",
+          "**Das verwaltete Angebot buchen.** Bestellen Sie den Plan „KI-Automatisierungs-Apps“ mit 24 Monaten und dem Code SONAR20 im Warenkorb. Nach der Bestellung bereitet Hostinger die Instanz und die Datenbank vor. Sie melden sich im Panel an, verbinden Ihre Agenten und tragen Ihre KI-Schlüssel ein.",
           "**Oder einen VPS mit Docker buchen.** Wählen Sie einen KVM-Tarif (der KVM 1 ist der günstigste) und in der Liste der Anwendungen Paperclip, das Hostinger mit einem Klick installiert. Im Docker Manager des Panels öffnen Sie Paperclip, tragen die Schlüssel ein und aktualisieren die Version per Button. Die Sicherheit des Servers, die Passwörter und die Systemupdates bleiben bei Ihnen."
         ]
       },
@@ -116853,7 +116842,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum, bei Monats- oder Jahresplan. Die Verlängerung haben wir nicht getestet.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -116948,7 +116937,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Organigramma:** la struttura di chi risponde a chi. Un agente di marketing risponde a chi cura la strategia, e così via.",
-          "**Heartbeat:** il nome viene da “battito”. Un agente non resta in funzione tutto il tempo. Si “sveglia” quando riceve del lavoro, un messaggio di follow-up o una pianificazione, verifica cosa deve fare e agisce. Poi torna a dormire.",
+          "**Heartbeats:** il nome viene da “battito”. Un agente non resta in funzione tutto il tempo. Si “sveglia” quando riceve del lavoro, un messaggio di follow-up o una pianificazione, verifica cosa deve fare e agisce. Poi torna a dormire.",
           "**Budget per agente:** fissa un tetto di spesa per ogni agente, per ogni progetto e per l’azienda. Quando si raggiunge il limite, il lavoro viene messo in pausa. Conta perché ogni risposta dell’IA costa denaro, addebitato dal fornitore del modello.",
           "**Approvazione:** puoi richiedere una revisione prima che un lavoro prosegua, approvare l’assunzione di un nuovo agente oppure fermare e riassegnare un compito.",
           "**Audit:** azioni, cambi di stato, costi, approvazioni e commenti vengono registrati. Dopo si può vedere cosa è successo e perché."
@@ -116961,7 +116950,7 @@ export const reviewsData: unknown[] = [
         "heading": "È affidabile? Cosa si può verificare",
         "paragraphs": [
           "“Affidabile” è una parola grossa. Si può separare ciò che è verificabile da ciò che non lo è.",
-          "**Chi lo mantiene.** Il repository ufficiale, github.com/paperclipai/paperclip, dice che il progetto è mantenuto dal team Paperclip, e l’avviso di copyright riporta “MIT © 2026 Paperclip Labs, Inc.”. Il sito del progetto, paperclip.ing, rimanda allo stesso repository. Non confondetelo con i fork e le copie del codice che compaiono nella ricerca.",
+          "**Chi lo mantiene.** Il repository ufficiale, github.com/paperclipai/paperclip, dice che il progetto è mantenuto dal team Paperclip, e l’avviso di copyright riporta “MIT © 2026 Paperclip Labs, Inc.”. Il sito del progetto, paperclip.ing, rimanda allo stesso repository. Non confonderlo con i fork e le copie del codice che compaiono nella ricerca.",
           "**Licenza.** MIT. Vuol dire che il codice è aperto: chiunque può leggerlo, controllarlo e usarlo. Vuol dire anche che nessuno è obbligato a mantenere la versione che hai installato.",
           "**Dove gira.** Scegli tu. Può girare sul tuo computer, su un server tuo o sul piano gestito di Hostinger. Il sito del progetto dice che la versione self-hosted non richiede un account Paperclip.",
           "**Dove restano le chiavi e i dati.** Dipende dal percorso. Sul VPS, la stessa Hostinger dice che i dati sensibili, la memoria degli agenti e le credenziali API restano “interamente sulla tua infrastruttura”, cioè sul server che hai affittato. Sul gestito, la pagina dice che le chiavi restano nella tua istanza gestita. È la descrizione di Hostinger, non un nostro audit.",
@@ -117037,17 +117026,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Che dimensione di VPS",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "La RAM è la memoria del server, e una vCPU è un core del processore. Più grande è il piano VPS, più memoria ed elaborazione ha. Hostinger non indica, nelle pagine lette, un requisito minimo di memoria per Paperclip: il KVM 1 è il punto di partenza, e quanti agenti fai girare decide se basta. I piani sono KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) e KVM 8 (8 vCPU, 32 GB, 400 GB)."
         ]
@@ -117062,7 +117040,7 @@ export const reviewsData: unknown[] = [
         "heading": "Come iniziare, in ordine",
         "bullets": [
           "**Farlo girare sul tuo computer.** Il README ufficiale richiede Node.js 24.11 o più recente. Controlla la versione con il comando node -v nel terminale e poi esegui npx paperclipai@latest onboard --yes. L’interfaccia si apre su http://localhost:3100, e il database Postgres viene creato da solo. Non ci sono costi di server, ma Paperclip gira solo finché il computer è acceso. Se hai un abbonamento a Claude o a Codex, il README accetta anche l’accesso tramite abbonamento, senza chiave API, con Python 3 e il programma del fornitore installati.",
-          "**Attivare il gestito.** Sottoscrivi il piano “AI automation apps” con 24 mesi, con il codice SONAR20 nel carrello. Dopo l’acquisto, Hostinger prepara l’istanza e il database. Entra nel pannello, collega i tuoi agenti e inserisci le tue chiavi IA.",
+          "**Attivare il gestito.** Sottoscrivi il piano “App di automazione IA” con 24 mesi, con il codice SONAR20 nel carrello. Dopo l’acquisto, Hostinger prepara l’istanza e il database. Entra nel pannello, collega i tuoi agenti e inserisci le tue chiavi IA.",
           "**Oppure prendere un VPS con Docker.** Scegli un piano KVM (il KVM 1 è il più economico) e, nell’elenco delle applicazioni, Paperclip, che Hostinger installa con un clic. Dal Docker Manager del pannello apri Paperclip, inserisci le chiavi e aggiorna la versione con un pulsante. La sicurezza del server, le password e gli aggiornamenti del sistema restano tuoi."
         ]
       },
@@ -117078,7 +117056,7 @@ export const reviewsData: unknown[] = [
           "Paperclip è gratis? Il programma è open source, con licenza MIT, e si può installare sul tuo computer senza pagare Hostinger. L’uso dei modelli IA è addebitato dal fornitore, e il gestito e il VPS sono piani a pagamento.",
           "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Non abbiamo trovato audit indipendenti nelle fonti lette.",
           "Serve una chiave API? Sì. Sul gestito e sul VPS, la pagina di Paperclip chiede di portare le proprie. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
-          "Funziona con Ollama? Dipende dall’agente che collegate. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che collegate.",
+          "Funziona con Ollama? Dipende dall’agente che colleghi. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che colleghi.",
           "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello."
         ]
       },
@@ -117277,17 +117255,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quelle taille de VPS",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "La RAM est la mémoire du serveur, et un vCPU est un cœur de processeur. Plus l’offre de VPS est grande, plus elle a de mémoire et de puissance de calcul. Hostinger ne liste pas, dans les pages lues, de mémoire minimale requise pour Paperclip : le KVM 1 est le point de départ, et le nombre d’agents que vous faites tourner décide s’il suffit. Les offres sont KVM 1 (1 vCPU, 4 Go, 50 Go), KVM 2 (2 vCPU, 8 Go, 100 Go), KVM 4 (4 vCPU, 16 Go, 200 Go) et KVM 8 (8 vCPU, 32 Go, 400 Go)."
         ]
@@ -117302,7 +117269,7 @@ export const reviewsData: unknown[] = [
         "heading": "Comment commencer, dans l’ordre",
         "bullets": [
           "**Le faire tourner sur votre ordinateur.** Le README officiel demande Node.js 24.11 ou plus récent. Vérifiez la version avec la commande node -v dans le terminal, puis lancez npx paperclipai@latest onboard --yes. L’interface s’ouvre sur http://localhost:3100, et la base Postgres est créée toute seule. Il n’y a pas de coût de serveur, mais Paperclip ne tourne que tant que l’ordinateur est allumé. Si vous avez un abonnement Claude ou Codex, le README accepte aussi de se connecter avec l’abonnement, sans clé d’API, avec Python 3 et le programme du fournisseur installés.",
-          "**Souscrire le géré.** Choisissez l’offre « Applications d’automatisation IA » sur 24 mois, avec le code SONAR20 dans le panier. Après la souscription, Hostinger prépare l’instance et la base de données. Vous vous connectez au panneau, reliez vos agents et collez vos clés d’IA.",
+          "**Souscrire le géré.** Choisissez l’offre « Applications d’automatisation IA » sur 24 mois, avec le code SONAR20 dans le panier. Après la souscription, Hostinger prépare l’instance et la base de données. Vous vous connectez au panneau, connectez vos agents et collez vos clés d’IA.",
           "**Ou prendre un VPS avec Docker.** Choisissez une offre KVM (le KVM 1 est le moins cher) et, dans la liste des applications, Paperclip, que Hostinger installe en un clic. Avec le Docker Manager du panneau, vous ouvrez Paperclip, saisissez les clés et mettez à jour la version avec un bouton. La sécurité du serveur, les mots de passe et les mises à jour du système restent à vous."
         ]
       },
@@ -117332,7 +117299,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement.",
+      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -117516,17 +117483,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "What size of VPS",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "RAM is the server’s memory, and a vCPU is one processor core. The bigger the VPS plan, the more memory and processing power it has. Hostinger does not list a minimum memory requirement for Paperclip on the pages read: the KVM 1 is the starting point, and how many agents you run decides whether it is enough. The plans are KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) and KVM 8 (8 vCPU, 32 GB, 400 GB)."
         ]
@@ -117571,7 +117527,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the price in the cart.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -117743,7 +117699,7 @@ export const reviewsData: unknown[] = [
             [
               "返金",
               "30日間",
-              "前回の VPS 返金申請から180日を超えている場合に限り30日間"
+              "前回の VPS 返金申請から180日を超えている場合に限り、30日間"
             ]
           ]
         },
@@ -117755,17 +117711,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "VPS のサイズ",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "RAM はサーバーのメモリ、vCPU はプロセッサーのコア一つ分です。VPS のプランが大きいほど、メモリと処理能力が増えます。確認したページには、Paperclip に必要な最小メモリの記載が Hostinger にありません。KVM 1 が出発点で、足りるかどうかは動かすエージェントの数で決まります。各プランの仕様は、KVM 1（1 vCPU、4 GB、50 GB）、KVM 2（2 vCPU、8 GB、100 GB）、KVM 4（4 vCPU、16 GB、200 GB）、KVM 8（8 vCPU、32 GB、400 GB）です。"
         ]
@@ -117773,7 +117718,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも適用されます。更新時は確認していません。カートで価格を確認してください。コードを入れる場所は[クーポン SONAR20 の使い方](/ja/reviews/hostinger-referral-code-ja)にあります。支払う前に、カートで金額を確認してください。"
+          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも適用されます。更新については確認していません。カートで価格を確認してください。コードを入れる場所は[クーポン SONAR20 の使い方](/ja/reviews/hostinger-referral-code-ja)にあります。支払う前に、カートで金額を確認してください。"
         ]
       },
       {
@@ -117797,7 +117742,7 @@ export const reviewsData: unknown[] = [
           "Paperclip は信頼できますか？ 結論を出すことはできません。確認できるのは、コードが公開されていること、リポジトリが Paperclip チーム（著作権表示では Paperclip Labs, Inc.）を責任者としていること、セキュリティ上の不具合は GitHub の公式窓口で報告されることです。調べた情報源には、独立した監査は見つかりませんでした。",
           "API キーは必要ですか？ はい。マネージドでも VPS でも、Paperclip のページはご自身のキーを持ち込むよう求めています。コンピューターで動かす場合は、README により Claude または Codex のサブスクリプションでも、API キーなしで利用できます。",
           "Ollama で動きますか？ 接続するエージェント次第です。Paperclip の README には、AI モデルを自分のコンピューターで動かすプログラムである Ollama への言及がありません。たとえば OpenClaw はローカルモデルを文書化していますが、Paperclip ではモデルは接続したエージェント側にあります。",
-          "Hostinger で Paperclip に使えるクーポンはありますか？ あります。カートのクーポン欄にコード SONAR20 を入れると、最初の期間が20%引きになります。更新時は確認していません。カートで価格を確認してください。"
+          "Hostinger で Paperclip に使えるクーポンはありますか？ あります。カートのクーポン欄にコード SONAR20 を入れると、最初の期間が20%引きになります。更新については確認していません。カートで価格を確認してください。"
         ]
       },
       {
@@ -117810,8 +117755,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。",
-      "label": "割引プランを見る",
+      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。カートで価格を確認してください。",
+      "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -117993,19 +117938,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "VPS는 어느 크기로",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
-          "RAM은 서버의 메모리이고 vCPU는 프로세서 코어 하나입니다. VPS 플랜이 클수록 메모리와 처리 능력이 늘어납니다. 확인한 페이지에는 Paperclip에 필요한 최소 메모리를 Hostinger가 밝혀 놓지 않았습니다. KVM 1이 출발점이고, 에이전트를 몇 개 돌리느냐에 따라 충분한지가 정해집니다. 플랜별 사양은 KVM 1(1 vCPU, 4 GB, 50 GB), KVM 2(2 vCPU, 8 GB, 100 GB), KVM 4(4 vCPU, 16 GB, 200 GB), KVM 8(8 vCPU, 32 GB, 400 GB)입니다."
+          "RAM은 서버의 메모리이고 vCPU는 프로세서 코어 하나입니다. VPS 플랜이 클수록 메모리와 처리 능력이 늘어납니다. 확인한 페이지에는 Paperclip에 필요한 최소 메모리를 Hostinger가 밝혀 놓지 않았습니다. KVM 1이 출발점이고, 에이전트를 몇 개 돌리느냐에 따라 충분한지가 정해집니다. 플랜별 사양은 KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB), KVM 8 (8 vCPU, 32 GB, 400 GB)입니다."
         ]
       },
       {
@@ -118048,8 +117982,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았습니다.",
-      "label": "할인 플랜 보기",
+      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -118233,17 +118167,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "VPS 选多大",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "RAM 是服务器的内存，vCPU 是一个处理器核心。VPS 套餐越大，内存和处理能力越多。在已查阅的页面中，Hostinger 没有列出 Paperclip 的最低内存要求：KVM 1 是起点，够不够用取决于您运行多少个智能体。各套餐规格如下：KVM 1（1 vCPU、4 GB、50 GB）、KVM 2（2 vCPU、8 GB、100 GB）、KVM 4（4 vCPU、16 GB、200 GB）、KVM 8（8 vCPU、32 GB、400 GB）。"
         ]
@@ -118288,7 +118211,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认价格。",
       "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -118472,17 +118395,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "VPS 選多大",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "RAM 是伺服器的記憶體，vCPU 是一個處理器核心。VPS 方案越大，記憶體和處理能力越多。在已查閱的頁面中，Hostinger 沒有列出 Paperclip 的最低記憶體需求：KVM 1 是起點，夠不夠用取決於您執行多少個代理。各方案規格如下：KVM 1（1 vCPU、4 GB、50 GB）、KVM 2（2 vCPU、8 GB、100 GB）、KVM 4（4 vCPU、16 GB、200 GB）、KVM 8（8 vCPU、32 GB、400 GB）。"
         ]
@@ -118527,7 +118439,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車輸入 SONAR20，或從本文連結進入：首期享 20%，月付或年付都可以。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -118982,17 +118894,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qué tamaño de VPS",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "La RAM es la memoria del servidor, y una vCPU es un núcleo de procesador. Cuanto mayor es el plan de VPS, más memoria y procesamiento tiene. Hostinger no lista, en las páginas leídas, un requisito mínimo de memoria para Paperclip: el KVM 1 es el punto de partida, y cuántos agentes ejecutes define si basta. Los planes son KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) y KVM 8 (8 vCPU, 32 GB, 400 GB)."
         ]
@@ -119037,7 +118938,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. No probamos la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -133390,11 +133291,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "How to shop in the app",
         "paragraphs": [
-          "Shopping follows the same order as the website: sign in, build your bag, go to checkout. Three points the store's help center confirms:"
+          "Shopping follows the same steps as on the website: sign in, fill your bag, go to checkout. Three points the store's help center confirms:"
         ],
         "bullets": [
           "The account is the same as on the website. You don't need to create another one.",
-          "Sign in before adding items to the bag. When you're logged in on both the website and the app, there is one bag.",
+          "Sign in before adding items to the bag. When you're logged in on both the website and the app, there is a single shared bag.",
           "At checkout, the app shows the delivery country, the shipping cost and the \"Coupon or Influencer / Rewards Code\" line before the order summary."
         ],
         "postParagraphs": [
@@ -133423,7 +133324,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Website or app: what differs",
+        "heading": "Website or app: what's different",
         "comparisonTable": {
           "headers": [
             "Topic",
@@ -133514,7 +133415,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "description": "Guía de la app de YesStyle: enlaces oficiales, valoraciones en las tiendas de aplicaciones, el campo \"Influencer / Rewards Code\" donde entra el CECILIA010, qué cambia respecto a la web y qué revisar si la app no funciona.",
-    "metaDescription": "YesStyle tiene app para Android y iPhone. Dónde entra el código de recompensa CECILIA010 en el checkout de la app y qué cambia respecto a la web.",
+    "metaDescription": "YesStyle tiene app para Android e iPhone. Dónde entra el código de recompensa CECILIA010 en el checkout de la app y qué cambia respecto a la web.",
     "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa.webp",
     "imageAlt": "Dos pantallas de la app de YesStyle, la home con productos de belleza coreana y el checkout con el CECILIA010 aplicado, con el logo de YesStyle y el título YesStyle App",
     "imageFit": "contain",
@@ -133522,7 +133423,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Escribe CECILIA010 en el campo \"Influencer / Rewards Code\" de la app o en el Reward Code de la web: es un código de recompensa, con hasta un 5% extra, y se suma a los cupones de YesStyle.",
+      "text": "Escribe CECILIA010 en el campo \"Influencer / Rewards Code\" de la app o en el Reward Code de la web: es un código de recompensa, con hasta un 5 % extra, y se suma a los cupones de YesStyle.",
       "label": "Ir a YesStyle",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -133548,7 +133449,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, YesStyle tiene app para Android y iPhone, con la misma cuenta que la web. En la app, el CECILIA010, un código de recompensa, entra en el campo \"Influencer / Rewards Code\" del checkout, junto a \"Coupon Code\"."
+          "Sí, YesStyle tiene app para Android e iPhone, con la misma cuenta que la web. En la app, el CECILIA010, un código de recompensa, entra en el campo \"Influencer / Rewards Code\" del checkout, junto a \"Coupon Code\"."
         ]
       },
       {
@@ -133586,7 +133487,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cómo comprar desde la app",
         "paragraphs": [
-          "La compra sigue el orden de la web: iniciar sesión, preparar la bolsa e ir al checkout. Tres puntos que confirma el centro de ayuda de la tienda:"
+          "La compra sigue el orden de la web: iniciar sesión, llenar la bolsa e ir al checkout. Tres puntos que confirma el centro de ayuda de la tienda:"
         ],
         "bullets": [
           "La cuenta es la misma que en la web. No hace falta crear otra.",
@@ -133679,7 +133580,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿YesStyle tiene app? Sí, para Android y iPhone, en los enlaces oficiales de Google Play y la App Store. La tienda indica que se descargue solo desde esos dos.",
+          "¿YesStyle tiene app? Sí, para Android e iPhone, en los enlaces oficiales de Google Play y la App Store. La tienda indica que se descargue solo desde esos dos.",
           "¿El CECILIA010 vale en la app? Sí. En el checkout, toca \"Enter Code\" y escribe el código en el campo \"Influencer / Rewards Code\". Es un código de recompensa, con hasta un 5 % extra, y se suma al cupón de la tienda, que va en el campo \"Coupon Code\".",
           "¿Gano puntos por descargar la app? Sí, 50 puntos YS al iniciar sesión desde la app, una sola vez. Reinstalar no los da de nuevo, y los puntos no son el código de recompensa.",
           "¿La app tiene un cupón exclusivo? La tienda indica que publica un cupón de 24 horas, una vez al mes, solo para pedidos en la app. En la comprobación no había ninguno activo."
@@ -133692,7 +133593,7 @@ export const reviewsData: unknown[] = [
     "slug": "application-yesstyle-acheter-code-recompense",
     "locale": "fr",
     "translationKey": "yesstyle-app",
-    "title": "Appli YesStyle : comment acheter et où saisir le code récompense CECILIA010",
+    "title": "Appli YesStyle : comment acheter et où saisir le code de récompense CECILIA010",
     "seoTitle": "Appli YesStyle : comment acheter et où saisir le CECILIA010",
     "type": "Guide pratique",
     "category": "cupons-como-usar",
@@ -133710,7 +133611,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "description": "Guide de l'appli YesStyle : liens officiels, notes sur les boutiques d'applications, le champ « Influencer / Rewards Code » où se saisit le CECILIA010, ce qui change par rapport au site et quoi vérifier si l'appli ne fonctionne pas.",
-    "metaDescription": "YesStyle a une appli pour Android et iPhone. Où se saisit le code récompense CECILIA010 à la validation de commande dans l'appli, et ce qui change par rapport au site.",
+    "metaDescription": "YesStyle a une appli pour Android et iPhone. Où se saisit le code de récompense CECILIA010 à la validation de commande dans l'appli, et ce qui change par rapport au site.",
     "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa.webp",
     "imageAlt": "Deux écrans de l'appli YesStyle, l'accueil avec des produits de beauté coréenne et la validation de commande avec le CECILIA010 appliqué, avec le logo YesStyle et le titre YesStyle App",
     "imageFit": "contain",
@@ -133718,7 +133619,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Saisissez CECILIA010 dans le champ \"Influencer / Rewards Code\" de l'appli ou dans le Reward Code du site : c'est un code récompense, jusqu'à 5 % en plus, et il se cumule avec les coupons YesStyle.",
+      "text": "Saisissez CECILIA010 dans le champ « Influencer / Rewards Code » de l'appli ou dans le Reward Code du site : c'est un code de récompense, jusqu'à 5 % en plus, et il se cumule avec les coupons YesStyle.",
       "label": "Aller sur YesStyle",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -133744,7 +133645,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, YesStyle a une appli pour Android et iPhone, avec le même compte que le site. Dans l'appli, le CECILIA010, un code récompense, se saisit dans le champ « Influencer / Rewards Code » de la validation de commande, à côté de « Coupon Code »."
+          "Oui, YesStyle a une appli pour Android et iPhone, avec le même compte que le site. Dans l'appli, le CECILIA010, un code de récompense, se saisit dans le champ « Influencer / Rewards Code » de la validation de commande, à côté de « Coupon Code »."
         ]
       },
       {
@@ -133786,7 +133687,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Le compte est le même que sur le site. Inutile d'en créer un autre.",
-          "Connectez-vous avant d'ajouter des articles au panier. Connecté sur le site et dans l'appli, le panier est unique.",
+          "Connectez-vous avant d'ajouter des articles au panier. Si vous êtes connecté sur le site et dans l'appli, le panier est unique.",
           "À la validation de commande, l'appli affiche le pays de livraison, les frais de port et la ligne « Coupon or Influencer / Rewards Code » avant le récapitulatif de la commande."
         ],
         "postParagraphs": [
@@ -133796,15 +133697,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Où saisir le CECILIA010 dans l'appli",
         "paragraphs": [
-          "Le CECILIA010 est un code récompense, pas un coupon : il donne jusqu'à 5 % en plus (5 % sur le premier achat et 2 % sur les suivants) et se cumule avec les coupons de YesStyle. Dans l'appli, il a son propre champ. Test réalisé sur l'appli Android, compte en anglais, livraison aux États-Unis, sans finaliser l'achat."
+          "Le CECILIA010 est un code de récompense, pas un coupon : il donne jusqu'à 5 % en plus (5 % sur le premier achat et 2 % sur les suivants) et se cumule avec les coupons de YesStyle. Dans l'appli, il a son propre champ. Test réalisé sur l'appli Android, compte en anglais, livraison aux États-Unis, sans finaliser l'achat."
         ],
         "bullets": [
           "À la validation de commande, touchez « Enter Code », sur la ligne « Coupon or Influencer / Rewards Code ».",
           "Deux champs s'ouvrent : « Coupon Code » en haut, pour le coupon de la boutique, et « Influencer / Rewards Code » en bas. Saisissez CECILIA010 dans celui du bas et touchez « APPLY ».",
-          "De retour à la validation de commande, le code apparaît sous forme d'étiquette sous « Coupon or Influencer / Rewards Code », et le récapitulatif gagne une ligne « Influencer Code Discount ». Vérifiez cette ligne avant de payer."
+          "De retour à la validation de commande, le code apparaît sous forme d'étiquette sous « Coupon or Influencer / Rewards Code », et le récapitulatif affiche une ligne « Influencer Code Discount ». Vérifiez cette ligne avant de payer."
         ],
         "postParagraphs": [
-          "Le coupon de la boutique, quand il y en a un d'actif, se saisit dans le champ du haut, sur le même écran. Les deux se cumulent."
+          "Le coupon de la boutique, quand l'un d'eux est actif, se saisit dans le champ du haut, sur le même écran. Les deux se cumulent."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
@@ -133876,7 +133777,7 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "YesStyle a-t-il une appli ? Oui, pour Android et iPhone, sur les liens officiels de Google Play et de l'App Store. La boutique indique de télécharger uniquement depuis ces deux liens.",
-          "Le CECILIA010 fonctionne-t-il dans l'appli ? Oui. À la validation de commande, touchez « Enter Code » et saisissez le code dans le champ « Influencer / Rewards Code ». C'est un code récompense, avec jusqu'à 5 % en plus, et il se cumule avec le coupon de la boutique, qui se saisit dans le champ « Coupon Code ».",
+          "Le CECILIA010 fonctionne-t-il dans l'appli ? Oui. À la validation de commande, touchez « Enter Code » et saisissez le code dans le champ « Influencer / Rewards Code ». C'est un code de récompense, avec jusqu'à 5 % en plus, et il se cumule avec le coupon de la boutique, qui se saisit dans le champ « Coupon Code ».",
           "Gagne-t-on des points en téléchargeant l'appli ? Oui, 50 points YS en se connectant via l'appli, une seule fois. Réinstaller ne les redonne pas, et les points ne sont pas le code récompense.",
           "L'appli a-t-elle un coupon exclusif ? La boutique indique publier un coupon de 24 heures, une fois par mois, réservé aux commandes dans l'appli. Lors de la vérification, aucun n'était actif."
         ]
@@ -133986,7 +133887,7 @@ export const reviewsData: unknown[] = [
           "Al checkout, l'app mostra il paese di consegna, la spedizione e la riga \"Coupon or Influencer / Rewards Code\" prima del riepilogo dell'ordine."
         ],
         "postParagraphs": [
-          "Il passo passo per il sito è in [Come usare il CECILIA010 su YesStyle](/it/reviews/codice-ricompensa-yesstyle-cecilia010)."
+          "La guida passo passo per il sito è in [Come usare il CECILIA010 su YesStyle](/it/reviews/codice-ricompensa-yesstyle-cecilia010)."
         ]
       },
       {
@@ -133997,7 +133898,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Al checkout, tocca \"Enter Code\", sulla riga \"Coupon or Influencer / Rewards Code\".",
           "Si aprono due campi: \"Coupon Code\" in alto, per il coupon dello shop, e \"Influencer / Rewards Code\" in basso. Digita CECILIA010 in quello in basso e tocca \"APPLY\".",
-          "Tornato al checkout, il codice compare come etichetta sotto \"Coupon or Influencer / Rewards Code\" e il riepilogo guadagna la riga \"Influencer Code Discount\". Controlla quella riga prima di pagare."
+          "Tornato al checkout, il codice compare come etichetta sotto \"Coupon or Influencer / Rewards Code\" e nel riepilogo compare la riga \"Influencer Code Discount\". Controlla quella riga prima di pagare."
         ],
         "postParagraphs": [
           "Il coupon dello shop, quando ce n'è uno attivo, va nel campo in alto, nella stessa schermata. I due si sommano."
@@ -134050,7 +133951,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Punti YS e il coupon dell'app",
         "paragraphs": [
-          "Chi accede dall'app ottiene 50 punti YS, una sola volta. Reinstallare non restituisce i punti. I punti non sono il codice ricompensa: si applicano nella fase \"Payment Information\" del checkout, mentre il CECILIA010 va nella schermata \"Enter Code\". Uno non sostituisce l'altro.",
+          "Chi accede dall'app ottiene 50 punti YS, una sola volta. Reinstallare non assegna di nuovo i punti. I punti non sono il codice ricompensa: si applicano nella fase \"Payment Information\" del checkout, mentre il CECILIA010 va nella schermata \"Enter Code\". Uno non sostituisce l'altro.",
           "Lo shop dice di lanciare, una volta al mese e a un orario casuale, un coupon di 24 ore valido solo per ordini fatti dall'app; al controllo non ce n'era uno attivo, e il coupon in evidenza nell'app era lo stesso del sito. I coupon attivi dello shop sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle)."
         ]
       },
@@ -134073,7 +133974,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle ha un'app? Sì, per Android e iPhone, nei link ufficiali di Google Play e dell'App Store. Lo shop dice di scaricarla solo da questi due.",
           "Il CECILIA010 vale nell'app? Sì. Al checkout, tocca \"Enter Code\" e digita il codice nel campo \"Influencer / Rewards Code\". È un codice ricompensa, con fino al 5% in più, e si somma al coupon dello shop, che va nel campo \"Coupon Code\".",
-          "Si guadagnano punti scaricando l'app? Sì, 50 punti YS accedendo dall'app, una sola volta. Reinstallare non li restituisce, e i punti non sono il codice ricompensa.",
+          "Si guadagnano punti scaricando l'app? Sì, 50 punti YS accedendo dall'app, una sola volta. Reinstallare non li assegna di nuovo, e i punti non sono il codice ricompensa.",
           "L'app ha un coupon esclusivo? Lo shop dice di pubblicare un coupon di 24 ore, una volta al mese, solo per ordini fatti nell'app. Al controllo non ce n'era uno attivo."
         ]
       }
@@ -134084,8 +133985,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-app-bestellen-reward-code",
     "locale": "de",
     "translationKey": "yesstyle-app",
-    "title": "YesStyle-App: So bestellst du und wo der Reward Code CECILIA010 hingehört",
-    "seoTitle": "YesStyle-App: So bestellst du und wo der CECILIA010 hingehört",
+    "title": "YesStyle-App: So bestellen Sie und wo der Reward Code CECILIA010 hingehört",
+    "seoTitle": "YesStyle-App: So bestellen Sie und wo der CECILIA010 hingehört",
     "type": "Anleitung",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -134110,7 +134011,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Gib CECILIA010 im Feld \"Influencer / Rewards Code\" der App oder im Reward Code der Website ein: Es ist ein Reward Code mit bis zu 5 % extra, kombinierbar mit den Gutscheinen von YesStyle.",
+      "text": "Geben Sie CECILIA010 im Feld „Influencer / Rewards Code“ der App oder im Reward Code der Website ein: Es ist ein Reward Code mit bis zu 5 % extra, kombinierbar mit den Gutscheinen von YesStyle.",
       "label": "Zu YesStyle",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -134149,7 +134050,7 @@ export const reviewsData: unknown[] = [
           "Google Play: Bewertung 4,4, mit 164.000 Rezensionen."
         ],
         "postParagraphs": [
-          "Laut Hilfecenter des Shops läuft die App auf iOS und Android. Auf der Startseite öffnet die App mit der Auslage für koreanische Beauty, unten mit den Tabs Home, Shop, Bag, Saved und Account."
+          "Laut Hilfecenter des Shops läuft die App auf iOS und Android. Auf der Startseite zeigt die App die Auslage für koreanische Beauty, mit den Tabs Home, Shop, Bag, Saved und Account unten."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-app-home-2810.webp",
@@ -134267,7 +134168,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Hat YesStyle eine App? Ja, für Android und iPhone, über die offiziellen Links von Google Play und App Store. Der Shop gibt an, nur über diese beiden herunterzuladen.",
+          "Hat YesStyle eine App? Ja, für Android und iPhone, über die offiziellen Links von Google Play und App Store. Der Shop gibt an, dass man nur über diese beiden Links herunterladen soll.",
           "Gilt der CECILIA010 in der App? Ja. Tippen Sie im Checkout auf „Enter Code“ und geben Sie den Code in das Feld „Influencer / Rewards Code“ ein. Er ist ein Reward Code mit bis zu 5 % extra und lässt sich mit dem Gutschein des Shops kombinieren, der in das Feld „Coupon Code“ gehört.",
           "Bekommt man Punkte für den Download der App? Ja, 50 YS-Punkte bei der Anmeldung über die App, einmalig. Eine Neuinstallation bringt sie nicht erneut, und die Punkte sind nicht der Reward Code.",
           "Hat die App einen exklusiven Gutschein? Der Shop gibt an, einmal im Monat einen 24-Stunden-Gutschein nur für Bestellungen in der App zu veröffentlichen. Bei der Prüfung war keiner aktiv."
@@ -134384,7 +134285,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "アプリでCECILIA010を入力する場所",
         "paragraphs": [
-          "CECILIA010はクーポンではなくリワードコードです。最大5%の追加割引（初回購入は5%、2回目以降は2%）が付き、YesStyleのクーポンと併用できます。アプリには専用の入力欄があります。Androidアプリで、英語設定のアカウント、配送先はアメリカ、購入は確定せずに確認しました。"
+          "CECILIA010はクーポンではなくリワードコードです。最大5%の追加割引（初回購入は5%、2回目以降は2%）が付き、YesStyleのクーポンと併用できます。アプリには専用の入力欄があります。Androidアプリで、英語設定のアカウント、配送先は米国、購入は確定せずに確認しました。"
         ],
         "bullets": [
           "チェックアウトで、「Coupon or Influencer / Rewards Code」の行にある「Enter Code」をタップします。",
@@ -134397,7 +134298,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
           "alt": "YesStyleアプリの3つの画面。Coupon or Influencer / Rewards Codeの行があるチェックアウト、Coupon CodeとInfluencer / Rewards Codeの欄があるEnter Code画面、CECILIA010を適用したチェックアウト",
-          "caption": "Androidアプリでの3ステップ。配送先がアメリカのアカウントでの画面です。",
+          "caption": "Androidアプリでの3ステップ。配送先が米国のアカウントでの画面です。",
           "objectFit": "contain",
           "aspectRatio": 1.4382
         }
@@ -134442,7 +134343,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YSポイントとアプリのクーポン",
         "paragraphs": [
-          "アプリからログインすると、YSポイントが50ポイントもらえます（1回限り）。再インストールしても、ポイントは再付与されません。ポイントはリワードコードではありません。ポイントはチェックアウトの「Payment Information」のステップで使い、CECILIA010は「Enter Code」画面に入力します。どちらか一方が、もう一方の代わりになることはありません。",
+          "アプリからログインすると、50 YSポイントがもらえます（1回限り）。再インストールしても、ポイントは再付与されません。ポイントはリワードコードではありません。ポイントはチェックアウトの「Payment Information」のステップで使い、CECILIA010は「Enter Code」画面に入力します。どちらか一方が、もう一方の代わりになることはありません。",
           "ショップによると、月に1回、ランダムな時間に、アプリからの注文でのみ使える24時間限定クーポンが配布されます。確認時点では有効なものはなく、アプリで目立つ場所にあったクーポンはウェブサイトと同じでした。ショップの有効なクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)に載せています。"
         ]
       },
@@ -134620,7 +134521,7 @@ export const reviewsData: unknown[] = [
             [
               "CECILIA010 입력 칸",
               "결제 화면의 \"Reward Code\"",
-              "결제 화면 \"Enter Code\" 화면의 \"Influencer / Rewards Code\""
+              "결제 화면의 \"Enter Code\" 화면에 있는 \"Influencer / Rewards Code\""
             ],
             [
               "쇼핑몰 쿠폰",
@@ -134689,7 +134590,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "YesStyle App 指南：官方下载链接、应用商店评分、填写 CECILIA010 的“Influencer / Rewards Code”栏位、与网站的区别，以及 App 无法使用时该检查什么。",
+    "description": "YesStyle App 指南：官方下载链接、应用商店评分、填写 CECILIA010 的“Influencer / Rewards Code”输入框、与网站的区别，以及 App 无法使用时该检查什么。",
     "metaDescription": "YesStyle 有适用于 Android 和 iPhone 的 App。介绍奖励码 CECILIA010 在 App 结账页的填写位置，以及与网站的区别。",
     "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa.webp",
     "imageAlt": "YesStyle App 的两个界面：展示韩国美妆产品的首页，以及已应用 CECILIA010 的结账页，带有 YesStyle 标志和标题 YesStyle App",
@@ -134698,7 +134599,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在 App 把 CECILIA010 填入“Influencer / Rewards Code”栏位，在网站则填入 Reward Code 栏位。它是奖励码，最多额外 5% 优惠，可与 YesStyle 的优惠券叠加。",
+      "text": "在 App 把 CECILIA010 填入“Influencer / Rewards Code”输入框，在网站则填入 Reward Code 输入框。它是奖励码，最多额外 5% 优惠，可与 YesStyle 的优惠券叠加。",
       "label": "前往 YesStyle",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -134724,7 +134625,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "简要回答",
         "paragraphs": [
-          "可以，YesStyle 有适用于 Android 和 iPhone 的 App，账号与网站通用。在 App 里，奖励码 CECILIA010 填在结账页的“Influencer / Rewards Code”栏位，就在“Coupon Code”旁边。"
+          "是的，YesStyle 有适用于 Android 和 iPhone 的 App，账号与网站通用。在 App 里，奖励码 CECILIA010 填在结账页的“Influencer / Rewards Code”输入框，就在“Coupon Code”旁边。"
         ]
       },
       {
@@ -134776,19 +134677,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "CECILIA010 在 App 里填在哪里",
         "paragraphs": [
-          "CECILIA010 是奖励码，不是优惠券：最高额外优惠 5%（首次购买 5%，之后 2%），并可与 YesStyle 的优惠券叠加。在 App 里，它有专属栏位。测试在 Android App 上进行，英文账号，配送至美国，未完成下单。"
+          "CECILIA010 是奖励码，不是优惠券：最高额外优惠 5%（首次购买 5%，之后 2%），并可与 YesStyle 的优惠券叠加。在 App 里，它有专属输入框。测试在 Android App 上进行，英文账号，配送至美国，未完成下单。"
         ],
         "bullets": [
           "在结账页，点击“Coupon or Influencer / Rewards Code”那一行的“Enter Code”。",
-          "会打开两个栏位：上方是“Coupon Code”，填商店优惠券；下方是“Influencer / Rewards Code”。在下方输入 CECILIA010，然后点击“APPLY”。",
+          "会显示两个输入框：上方是“Coupon Code”，填商店优惠券；下方是“Influencer / Rewards Code”。在下方输入 CECILIA010，然后点击“APPLY”。",
           "回到结账页后，代码会以标签形式显示在“Coupon or Influencer / Rewards Code”下方，订单摘要里会多出“Influencer Code Discount”一行。付款前请确认这一行。"
         ],
         "postParagraphs": [
-          "商店优惠券如果有可用的，填在同一界面的上方栏位。两者可以叠加。"
+          "商店优惠券如果有可用的，填在同一界面的上方输入框。两者可以叠加。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
-          "alt": "YesStyle App 的三个界面：带有 Coupon or Influencer / Rewards Code 行的结账页、带有 Coupon Code 和 Influencer / Rewards Code 栏位的 Enter Code 界面，以及已应用 CECILIA010 的结账页",
+          "alt": "YesStyle App 的三个界面：带有 Coupon or Influencer / Rewards Code 行的结账页、带有 Coupon Code 和 Influencer / Rewards Code 输入框的 Enter Code 界面，以及已应用 CECILIA010 的结账页",
           "caption": "Android App 中的三个步骤，使用的是配送至美国的账号。",
           "objectFit": "contain",
           "aspectRatio": 1.4382
@@ -134814,7 +134715,7 @@ export const reviewsData: unknown[] = [
               "两边都登录时是同一个"
             ],
             [
-              "CECILIA010 栏位",
+              "CECILIA010 输入框",
               "结账页的“Reward Code”",
               "结账页“Enter Code”界面里的“Influencer / Rewards Code”"
             ],
@@ -134856,7 +134757,7 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "YesStyle 有 App 吗？有，适用于 Android 和 iPhone，通过 Google Play 和 App Store 的官方链接下载。商店表示只应从这两处下载。",
-          "CECILIA010 在 App 里能用吗？能。在结账页点击“Enter Code”，把代码填入“Influencer / Rewards Code”栏位。它是奖励码，最高额外优惠 5%，可与填在“Coupon Code”栏位的商店优惠券叠加。",
+          "CECILIA010 在 App 里能用吗？能。在结账页点击“Enter Code”，把代码填入“Influencer / Rewards Code”输入框。它是奖励码，最高额外优惠 5%，可与填在“Coupon Code”输入框的商店优惠券叠加。",
           "下载 App 能获得积分吗？能，通过 App 登录可获得 50 个 YS 积分，仅限一次。重新安装不会再次发放，积分也不是奖励码。",
           "App 有专属优惠券吗？商店表示每月发布一次 24 小时优惠券，仅限 App 下单使用。核查时没有可用的。"
         ]
@@ -134920,7 +134821,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "簡要回答",
         "paragraphs": [
-          "可以，YesStyle 有適用於 Android 和 iPhone 的 App，帳號與網站共用。在 App 裡，獎勵碼 CECILIA010 填在結帳頁的「Influencer / Rewards Code」欄位，就在「Coupon Code」旁邊。"
+          "是的，YesStyle 有適用於 Android 和 iPhone 的 App，帳號與網站共用。在 App 裡，獎勵碼 CECILIA010 填在結帳頁的「Influencer / Rewards Code」欄位，就在「Coupon Code」旁邊。"
         ]
       },
       {
@@ -134963,7 +134864,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "帳號與網站是同一個，不需要另外註冊。",
           "先登入，再把商品放進購物袋。網站和 App 都登入後，購物袋只有一個。",
-          "在結帳頁，App 會在訂單摘要之前顯示配送國家、運費和「Coupon or Influencer / Rewards Code」這一列。"
+          "在結帳頁，App 會在訂單摘要之前顯示配送國家、運費和「Coupon or Influencer / Rewards Code」這一行。"
         ],
         "postParagraphs": [
           "網站上的操作步驟請見[如何在 YesStyle 使用 CECILIA010](/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant)。"
@@ -134975,16 +134876,16 @@ export const reviewsData: unknown[] = [
           "CECILIA010 是獎勵碼，不是優惠券：最高額外優惠 5%（首次購買 5%，之後 2%），並可與 YesStyle 的優惠券疊加。在 App 裡，它有專屬欄位。測試是在 Android App 上進行，英文帳號，配送至美國，未完成下單。"
         ],
         "bullets": [
-          "在結帳頁，點選「Coupon or Influencer / Rewards Code」那一列的「Enter Code」。",
+          "在結帳頁，點選「Coupon or Influencer / Rewards Code」那一行的「Enter Code」。",
           "會開啟兩個欄位：上方是「Coupon Code」，填商店優惠券；下方是「Influencer / Rewards Code」。在下方輸入 CECILIA010，然後點選「APPLY」。",
-          "回到結帳頁後，代碼會以標籤形式顯示在「Coupon or Influencer / Rewards Code」下方，訂單摘要裡會多出「Influencer Code Discount」一列。付款前請確認這一列。"
+          "回到結帳頁後，代碼會以標籤形式顯示在「Coupon or Influencer / Rewards Code」下方，訂單摘要裡會多出「Influencer Code Discount」一行。付款前請確認這一行。"
         ],
         "postParagraphs": [
           "商店優惠券如果有可用的，填在同一畫面的上方欄位。兩者可以疊加。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
-          "alt": "YesStyle App 的三個畫面：帶有 Coupon or Influencer / Rewards Code 列的結帳頁、帶有 Coupon Code 和 Influencer / Rewards Code 欄位的 Enter Code 畫面，以及已套用 CECILIA010 的結帳頁",
+          "alt": "YesStyle App 的三個畫面：帶有 Coupon or Influencer / Rewards Code 行的結帳頁、帶有 Coupon Code 和 Influencer / Rewards Code 欄位的 Enter Code 畫面，以及已套用 CECILIA010 的結帳頁",
           "caption": "Android App 中的三個步驟，使用的是配送至美國的帳號。",
           "objectFit": "contain",
           "aspectRatio": 1.4382
@@ -135030,7 +134931,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YS 點數和 App 優惠券",
         "paragraphs": [
-          "透過 App 登入可獲得 50 點 YS 點數，限一次。重新安裝不會再次發放。點數不是獎勵碼：點數在結帳的「Payment Information」步驟使用，而 CECILIA010 填在「Enter Code」畫面。兩者不能互相取代。",
+          "透過 App 登入可獲得 YS 點數 50 點，限一次。重新安裝不會再次發放。點數不是獎勵碼：點數在結帳的「Payment Information」步驟使用，而 CECILIA010 填在「Enter Code」畫面。兩者不能互相取代。",
           "商店表示，每月會在隨機時間發放一次僅限 App 下單使用的 24 小時優惠券；查核時沒有可用的，App 裡主打的優惠券與網站相同。商店目前可用的優惠券請見[YesStyle 優惠券和獎勵碼](/zh-hant/coupons/yesstyle)。"
         ]
       },
@@ -135053,7 +134954,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle 有 App 嗎？有，適用於 Android 和 iPhone，透過 Google Play 和 App Store 的官方連結下載。商店表示只應從這兩處下載。",
           "CECILIA010 在 App 裡能用嗎？能。在結帳頁點選「Enter Code」，把代碼填入「Influencer / Rewards Code」欄位。它是獎勵碼，最高額外優惠 5%，可與填在「Coupon Code」欄位的商店優惠券疊加。",
-          "下載 App 能獲得點數嗎？能，透過 App 登入可獲得 50 點 YS 點數，限一次。重新安裝不會再次發放，點數也不是獎勵碼。",
+          "下載 App 能獲得點數嗎？能，透過 App 登入可獲得 YS 點數 50 點，限一次。重新安裝不會再次發放，點數也不是獎勵碼。",
           "App 有專屬優惠券嗎？商店表示每月發布一次 24 小時優惠券，僅限 App 下單使用。查核時沒有可用的。"
         ]
       }
@@ -135965,7 +135866,7 @@ export const reviewsData: unknown[] = [
     "translationKey": "shein-11-11",
     "title": "SHEIN 11.11: Cecília's 19 picks, from pajamas to accessories (until November 12)",
     "seoTitle": "SHEIN 11.11 2026: 19 picks with discounts and ratings",
-    "type": "Shopping Guide",
+    "type": "Guide & Coupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "author": {
@@ -136021,7 +135922,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "The 11.11 campaign",
         "paragraphs": [
-          "SHEIN's 11.11 Mega Sale has already started. It is up to 85% off on more than 600,000 products, says SHEIN, and the store pushes the campaign toward the app.",
+          "SHEIN's 11.11 Mega Sale has already started. It is up to 85% off on more than 600,000 products, says SHEIN, and the store is steering shoppers toward the app.",
           "The entry page is [11.11 Global Sale Selections](https://onelink.shein.com/58/66i60wu7xjjd). For the 19 pieces below, the photo and the card open each piece's page inside the campaign.",
           "4CW5Y is SHEIN's referral code: you search for it in the app's search bar and do not paste it at checkout, because it is not a coupon. The step-by-step is in [SHEIN referral code: how to use 4CW5Y](/en/reviews/shein-referral-code-where-to-enter)."
         ]
@@ -136213,7 +136114,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kids",
         "paragraphs": [
-          "Four pieces for kids, from 6 months to 7 years: a girls' set, two boys' pajamas and a baby top."
+          "Four pieces for kids, from 6 months to 7 years: a girls' set, two boys' pajamas and a baby top. The sizes below are the ones the store lists by age."
         ]
       },
       {
@@ -136441,7 +136342,7 @@ export const reviewsData: unknown[] = [
           "Rating 4.88 in the store, with more than a thousand reviews."
         ],
         "paragraphs": [
-          "They are paperbag-waist shorts for anyone who wants an inexpensive summer and holiday piece. It is the piece with the biggest discount in the selection."
+          "They are paperbag-waist shorts for anyone who wants an inexpensive summer and holiday piece. They carry the biggest discount in the selection."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -136477,7 +136378,7 @@ export const reviewsData: unknown[] = [
           "Rating 4.31 in the store, with 48 reviews."
         ],
         "paragraphs": [
-          "Flexra wide-leg jeans with an elastic waist, which the store describes as comfortable with a wide leg. It suits anyone who wants wide-leg pants with an elastic waist."
+          "Flexra wide-leg jeans with an elastic waist, which the store describes as comfortable with a wide leg. They suit anyone who wants wide-leg pants with an elastic waist."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
@@ -136523,7 +136424,7 @@ export const reviewsData: unknown[] = [
           "Rating 4.82 in the store, with more than 100 reviews."
         ],
         "paragraphs": [
-          "Slingback pumps in white and caramel, with a block heel, which the store describes as elegant and modern. It suits anyone who wants a work or party shoe with a sturdier heel."
+          "Slingback pumps in white and caramel, with a block heel, which the store describes as elegant and modern. They suit anyone who wants a work or party shoe with a sturdier heel."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
@@ -136832,7 +136733,7 @@ export const reviewsData: unknown[] = [
     "translationKey": "shein-11-11",
     "title": "SHEIN 11.11: los 19 hallazgos de la selección de Cecília, de pijamas a accesorios (hasta el 12/11)",
     "seoTitle": "SHEIN 11.11 2026: 19 hallazgos con descuento y nota",
-    "type": "Guía de compras",
+    "type": "Guía & Cupones",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "author": {
@@ -136888,7 +136789,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "La campaña 11.11",
         "paragraphs": [
-          "La Mega Promoción 11.11 de SHEIN ya empezó. Hay hasta un 85 % de descuento en más de 600 mil productos, según SHEIN, y la tienda empuja la campaña hacia la app.",
+          "La Mega Promoción 11.11 de SHEIN ya empezó. Hay hasta un 85 % de descuento en más de 600 mil productos, según SHEIN, y la tienda dirige la campaña a la app.",
           "La página de entrada es la de [Selecciones de Ventas Globales del 11.11](https://onelink.shein.com/58/66i60wu7xjjd). En las 19 prendas de abajo, la foto y la tarjeta abren la página de cada una dentro de la campaña.",
           "El 4CW5Y es el código de referido de SHEIN: se busca en la barra de búsqueda de la app y no se pega en el checkout, porque no es un cupón. El paso a paso está en [Código de referido de SHEIN: cómo usar el 4CW5Y](/es/reviews/codigo-de-referido-shein-donde-ponerlo)."
         ]
@@ -137023,7 +136924,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,86 en la tienda, con más de mil comentarios."
         ],
         "paragraphs": [
-          "Es el pijama a rayas con corazones para quien quiere camiseta de tirantes y short con calor."
+          "Es el pijama a rayas con corazones para quien quiere camiseta de tirantes y short cuando hace calor."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
@@ -137080,7 +136981,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Infantil",
         "paragraphs": [
-          "Cuatro prendas para niños, de 6 meses a 7 años: un conjunto de niña, dos pijamas de niño y una camiseta de bebé."
+          "Cuatro prendas para niños, de 6 meses a 7 años: un conjunto de niña, dos pijamas de niño y una camiseta de bebé. Las tallas de abajo son las que la tienda indica por edad."
         ]
       },
       {
@@ -137658,7 +137559,7 @@ export const reviewsData: unknown[] = [
               "occasion": "Verano y calle; no es una prenda de entrenamiento.",
               "pairsWith": [
                 {
-                  "label": "bermudas de tactel"
+                  "label": "bermudas de nailon"
                 },
                 {
                   "label": "zapatillas blancas"
@@ -137678,7 +137579,7 @@ export const reviewsData: unknown[] = [
           "**Talla:** si estás entre dos tallas, mira la tabla de medidas de la prenda antes de elegir, porque la talla cambia de una prenda a otra.",
           "**El 4CW5Y es código de referido, no cupón:** se busca en la barra de búsqueda de la app y no se pega en el checkout. Mira el [código de referido de SHEIN](/es/reviews/codigo-de-referido-shein-donde-ponerlo) y la [página de SHEIN](/es/coupons/shein), con el enlace principal de la tienda.",
           "**¿Vas a esperar al Black Friday?** La guía del [Black Friday de SHEIN](/es/reviews/black-friday-shein-fechas-impuestos) recoge lo que ya se sabe de la campaña de noviembre.",
-          "**¿Primera compra en SHEIN?** Lee antes la guía [¿SHEIN es fiable?](/es/reviews/shein-es-confiable-y-seguro)."
+          "**¿Primera compra en SHEIN?** Lee antes la guía [¿SHEIN es confiable?](/es/reviews/shein-es-confiable-y-seguro)."
         ]
       },
       {
@@ -137699,7 +137600,7 @@ export const reviewsData: unknown[] = [
     "translationKey": "shein-11-11",
     "title": "SHEIN 11.11 : les 19 trouvailles de la sélection de Cecília, du pyjama aux accessoires (jusqu'au 12/11)",
     "seoTitle": "SHEIN 11.11 2026 : 19 trouvailles avec remise et note",
-    "type": "Guide d'achat",
+    "type": "Guide & Coupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "author": {
@@ -137723,7 +137624,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Les liens de cette sélection mènent aux pièces de la Méga Promo 11.11 de SHEIN, qui dure jusqu'au 12/11/2026. Vérifiez le prix et le guide des tailles sur la fiche avant de valider la commande.",
+      "text": "Les liens de cette sélection mènent aux pièces de la Méga Promotion 11.11 de SHEIN, qui dure jusqu'au 12/11/2026. Vérifiez le prix et le guide des tailles sur la fiche avant de valider la commande.",
       "label": "Voir la sélection sur SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -137755,7 +137656,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "La campagne 11.11",
         "paragraphs": [
-          "La Méga Promotion 11.11 de SHEIN a déjà commencé. Elle va jusqu'à 85 % de remise sur plus de 600 000 produits, d'après SHEIN, et la boutique pousse la campagne vers l'appli.",
+          "La Méga Promotion 11.11 de SHEIN a déjà commencé. Elle va jusqu'à 85 % de remise sur plus de 600 000 produits, d'après SHEIN, et la boutique dirige la campagne vers l'appli.",
           "La page d'entrée est celle des [Sélections des ventes mondiales du 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Pour les 19 pièces ci-dessous, la photo et la carte ouvrent la page de chacune dans la campagne.",
           "Le 4CW5Y est le code de parrainage de SHEIN : on le recherche dans la barre de recherche de l'appli et on ne le colle pas au paiement, parce que ce n'est pas un coupon. Le pas à pas est dans [Code de parrainage SHEIN : comment utiliser le 4CW5Y](/fr/reviews/code-de-parrainage-shein-ou-le-mettre)."
         ]
@@ -137947,7 +137848,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Enfant",
         "paragraphs": [
-          "Quatre pièces pour enfants, de 6 mois à 7 ans : un ensemble pour fille, deux pyjamas pour garçon et un haut pour bébé."
+          "Quatre pièces pour enfants, de 6 mois à 7 ans : un ensemble pour fille, deux pyjamas pour garçon et un haut pour bébé. Les tailles ci-dessous sont celles que la boutique indique par âge."
         ]
       },
       {
@@ -138247,7 +138148,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Accessoires",
         "paragraphs": [
-          "Un escarpin, une paire de boucles d'oreilles, un kit de montre et bijoux fantaisie et des lunettes de soleil. Trois des quatre ont plus de mille avis sur la boutique."
+          "Une paire d'escarpins, une paire de boucles d'oreilles, un kit de montre et bijoux fantaisie et des lunettes de soleil. Trois des quatre ont plus de mille avis sur la boutique."
         ]
       },
       {
@@ -138295,7 +138196,7 @@ export const reviewsData: unknown[] = [
           "Note 4,92 sur la boutique, avec plus de mille avis."
         ],
         "paragraphs": [
-          "Ce sont des boucles d'oreilles nœud avec perle et cœur, que la boutique indique pour les fêtes. C'est un petit plaisir ou un petit cadeau."
+          "Ce sont des boucles d'oreilles nœud avec perle et cœur, que la boutique recommande pour les fêtes. C'est un petit plaisir ou un petit cadeau."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
@@ -138324,7 +138225,7 @@ export const reviewsData: unknown[] = [
           "Note 4,75 sur la boutique, avec plus de mille avis."
         ],
         "paragraphs": [
-          "C'est un kit de 9 pièces avec montre verte, bracelet, collier et boucles d'oreilles, que la boutique indique pour l'usage quotidien ou comme cadeau. Il convient à qui veut composer un ensemble d'un seul coup."
+          "C'est un kit de 9 pièces avec montre verte, bracelet, collier et boucles d'oreilles, que la boutique recommande pour l'usage quotidien ou comme cadeau. Il convient à qui veut composer un ensemble d'un seul coup."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
@@ -138525,7 +138426,7 @@ export const reviewsData: unknown[] = [
               "occasion": "Été et rue ; ce n'est pas une pièce d'entraînement.",
               "pairsWith": [
                 {
-                  "label": "bermuda en tactel"
+                  "label": "bermuda en nylon"
                 },
                 {
                   "label": "baskets blanches"
@@ -138545,7 +138446,7 @@ export const reviewsData: unknown[] = [
           "**Taille :** si vous hésitez entre deux tailles, regardez le guide des tailles de la pièce avant de choisir, parce que les tailles changent d'une pièce à l'autre.",
           "**Le 4CW5Y est un code de parrainage, pas un coupon :** on le recherche dans la barre de recherche de l'appli et on ne le colle pas au paiement. Voir le [code de parrainage SHEIN](/fr/reviews/code-de-parrainage-shein-ou-le-mettre) et la [page SHEIN](/fr/coupons/shein), avec le lien principal de la boutique.",
           "**Vous allez attendre le Black Friday ?** Le guide du [Black Friday SHEIN](/fr/reviews/black-friday-shein-dates-et-taxes) rassemble ce que l'on sait déjà de la campagne de novembre.",
-          "**Première commande sur SHEIN ?** Lisez d'abord le guide [SHEIN est-il fiable ?](/fr/reviews/shein-est-il-fiable-et-sur)."
+          "**Première commande sur SHEIN ?** Lisez d'abord le guide [SHEIN est-il fiable ?](/fr/reviews/shein-est-il-fiable-et-sur)"
         ]
       },
       {
@@ -138566,7 +138467,7 @@ export const reviewsData: unknown[] = [
     "translationKey": "shein-11-11",
     "title": "SHEIN 11.11: i 19 articoli scelti da Cecília, dal pigiama agli accessori (fino al 12/11)",
     "seoTitle": "SHEIN 11.11 2026: 19 articoli con sconto e valutazione",
-    "type": "Guida all'acquisto",
+    "type": "Guida e coupon",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "author": {
@@ -138616,13 +138517,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il negozio annuncia fino all'85% di sconto nella Mega Promozione 11.11, fino al 12/11/2026. Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo. Gli sconti e la valutazione di ciascuno vengono dalla scheda dell'articolo, letti nella pagina, e possono cambiare."
+          "Il negozio annuncia fino all'85% di sconto nella Mega Promozione 11.11, fino al 12/11/2026. Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo. Gli sconti e la valutazione di ciascuno vengono dalla scheda dell'articolo e possono cambiare."
         ]
       },
       {
         "heading": "La campagna 11.11",
         "paragraphs": [
-          "La Mega Promozione 11.11 di SHEIN è già iniziata. Secondo SHEIN, gli sconti arrivano all'85% su più di 600 mila prodotti, e il negozio spinge la campagna sull'app.",
+          "La Mega Promozione 11.11 di SHEIN è già iniziata. Secondo SHEIN, gli sconti arrivano fino all'85% su più di 600 mila prodotti, e il negozio spinge la campagna sull'app.",
           "La pagina di ingresso è quella delle [Selezioni di Vendita Globali dell'11.11](https://onelink.shein.com/58/66i60wu7xjjd). Per i 19 articoli qui sotto, la foto e la scheda aprono la pagina di ciascuno dentro la campagna.",
           "Il 4CW5Y è il codice invito di SHEIN: si cerca nella barra di ricerca dell'app e non si incolla al checkout, perché non è un coupon. I passaggi sono in [Codice invito SHEIN: come usare il 4CW5Y](/it/reviews/codice-invito-shein-dove-inserirlo)."
         ]
@@ -138825,7 +138726,7 @@ export const reviewsData: unknown[] = [
           "Valutazione 4,88 su SHEIN, con più di mille recensioni."
         ],
         "paragraphs": [
-          "Secondo la scheda, è un completo da bambina con canotta stampata a cuore e pantalone palazzo, del marchio SHEIN. Va bene per chi vuole un look estivo completo per una bambina di 4-7 anni."
+          "Secondo la scheda, è un completo da bambina con canotta stampata a cuore e pantalone palazzo, del marchio proprio SHEIN. Va bene per chi vuole un look estivo completo per una bambina di 4-7 anni."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
@@ -138862,7 +138763,7 @@ export const reviewsData: unknown[] = [
           "Valutazione 4,36 su SHEIN, con 83 recensioni."
         ],
         "paragraphs": [
-          "Secondo la scheda, è un pigiama da bambino in 2 pezzi, con dinosauro natalizio che si illumina al buio e polsini elastici. Va bene per chi vuole già il pigiama delle feste per un bambino di 4-7 anni."
+          "Secondo la scheda, è un pigiama da bambino in 2 pezzi, con dinosauro natalizio che si illumina al buio e vestibilità elasticizzata. Va bene per chi vuole già il pigiama delle feste per un bambino di 4-7 anni."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
@@ -138891,7 +138792,7 @@ export const reviewsData: unknown[] = [
           "Valutazione 4,12 su SHEIN, con più di mille recensioni."
         ],
         "paragraphs": [
-          "Sulla scheda SHEIN, è una maglia da neonato con animali disegnati a gesso, come tigre, orso e bradipo, per bambini da 6 mesi a 3 anni."
+          "Sulla scheda SHEIN, è una maglia da maschietto con animali disegnati a gesso, come tigre, orso e bradipo, per bambini da 6 mesi a 3 anni."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
@@ -139042,11 +138943,11 @@ export const reviewsData: unknown[] = [
           "Valutazione 4,88 su SHEIN, con più di mille recensioni."
         ],
         "paragraphs": [
-          "È lo short con vita arricciata per chi vuole un capo economico per l'estate e le vacanze. È il capo con lo sconto più alto della selezione."
+          "È lo short con vita paperbag per chi vuole un capo economico per l'estate e le vacanze. È il capo con lo sconto più alto della selezione."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
-          "alt": "Short da donna stampato con vita arricciata, foto della scheda SHEIN",
+          "alt": "Short da donna stampato con vita paperbag, foto della scheda SHEIN",
           "objectFit": "contain",
           "aspectRatio": 0.75,
           "href": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C"
@@ -139433,7 +139334,7 @@ export const reviewsData: unknown[] = [
     "translationKey": "shein-11-11",
     "title": "SHEIN 11.11: Cecílias 19 Fundstücke, vom Pyjama bis zum Accessoire (bis 12.11.)",
     "seoTitle": "SHEIN 11.11 2026: 19 Fundstücke mit Rabatt und Bewertung",
-    "type": "Einkaufsratgeber",
+    "type": "Ratgeber & Gutscheine",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "author": {
@@ -139483,13 +139384,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Der Shop kündigt bei der Mega-Aktion 11.11 bis zu 85 % Rabatt an, bis zum 12.11.2026. Cecília hat 19 Teile in 5 Gruppen ausgewählt: Pyjamas, Kinder, Damen, Accessoires und Herren. Die Rabatte und die Bewertung jedes Teils stammen von der Produktseite, wurden dort abgelesen und können sich ändern."
+          "Der Shop kündigt bei der Mega-Aktion 11.11 bis zu 85 % Rabatt an, bis zum 12.11.2026. Cecília hat 19 Teile in 5 Gruppen ausgewählt: Pyjamas, Kinder, Damen, Accessoires und Herren. Die Rabatte und die Bewertung jedes Teils stammen von der Produktseite und können sich ändern."
         ]
       },
       {
         "heading": "Die Aktion 11.11",
         "paragraphs": [
-          "Die Mega-Aktion 11.11 von SHEIN hat schon begonnen. Laut SHEIN gibt es bis zu 85 % Rabatt auf mehr als 600.000 Produkte, und der Shop lenkt die Aktion in die App.",
+          "Die Mega-Aktion 11.11 von SHEIN hat schon begonnen. Laut SHEIN gibt es bis zu 85 % Rabatt auf mehr als 600.000 Produkte, und der Shop verlagert die Aktion in die App.",
           "Die Einstiegsseite ist die der [globalen Sale-Auswahl zum 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Bei den 19 Teilen unten öffnen Foto und Karte jeweils die Produktseite innerhalb der Aktion.",
           "4CW5Y ist der Empfehlungscode von SHEIN: Er wird in der Suche der App gesucht und nicht an der Kasse eingegeben, weil er kein Gutschein ist. Die Schritte stehen in [SHEIN-Empfehlungscode: so verwenden Sie 4CW5Y](/de/reviews/shein-empfehlungscode-wo-eingeben)."
         ]
@@ -139527,7 +139428,7 @@ export const reviewsData: unknown[] = [
               "-20 %"
             ],
             [
-              "[Langarm-Jungenpyjama mit wechselndem Print](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
+              "[Langarm-Jungenpyjama mit zufälligem Print](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
               "-20 %"
             ],
             [
@@ -139729,7 +139630,7 @@ export const reviewsData: unknown[] = [
           "Bewertung 4,36 bei SHEIN, mit 83 Rezensionen."
         ],
         "paragraphs": [
-          "Laut Produktseite ist es ein 2-teiliger Jungenpyjama mit Weihnachts-Dinosaurier, der im Dunkeln leuchtet, und elastischen Bündchen. Er passt für alle, die jetzt schon den Pyjama für die Festtage für einen Jungen von 4 bis 7 Jahren möchten."
+          "Laut Produktseite ist es ein 2-teiliger Jungenpyjama mit Weihnachts-Dinosaurier, der im Dunkeln leuchtet, und elastischem Sitz. Er passt für alle, die jetzt schon den Pyjama für die Festtage für einen Jungen von 4 bis 7 Jahren möchten."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
@@ -139788,7 +139689,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Langarm-Jungenpyjama mit wechselndem Print",
+        "heading": "Langarm-Jungenpyjama mit zufälligem Print",
         "bullets": [
           "Rabatt auf der Produktseite: -20 %.",
           "Größen: 9 Monate bis 7 Jahre.",
@@ -139808,7 +139709,7 @@ export const reviewsData: unknown[] = [
           "layout": "tabs",
           "items": [
             {
-              "piece": "Langarm-Jungenpyjama mit wechselndem Print",
+              "piece": "Langarm-Jungenpyjama mit zufälligem Print",
               "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
               "howTo": "Lange Ärmel und lange Hose, für kühlere Nächte.",
               "occasion": "Kühle Nächte, von 9 Monaten bis 7 Jahren."
@@ -140102,7 +140003,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Brille mit Verlaufsgläsern und polygonalem Gestell",
               "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
-              "howTo": "Gestell in einem Ton, der zu den Kleidern passt, die Sie am häufigsten tragen.",
+              "howTo": "Gestell in einem Ton, der zu der Kleidung passt, die Sie am häufigsten tragen.",
               "occasion": "Autofahren, Strand und Reisen, laut Shop."
             }
           ]
@@ -140259,7 +140160,7 @@ export const reviewsData: unknown[] = [
               "occasion": "Sommer und Straße; kein Trainingsteil.",
               "pairsWith": [
                 {
-                  "label": "Tactel-Bermuda"
+                  "label": "Nylon-Bermuda"
                 },
                 {
                   "label": "weiße Sneaker"
@@ -140279,7 +140180,7 @@ export const reviewsData: unknown[] = [
           "**Größe:** Wenn Sie zwischen zwei Größen liegen, prüfen Sie die Maßtabelle des Teils, bevor Sie wählen, denn die Größen fallen von Teil zu Teil anders aus.",
           "**4CW5Y ist ein Empfehlungscode, kein Gutschein:** Er wird in der Suche der App gesucht und nicht an der Kasse eingegeben. Siehe den [SHEIN-Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben) und die [SHEIN-Seite](/de/coupons/shein) mit dem Hauptlink des Shops.",
           "**Warten Sie auf den Black Friday?** Der Ratgeber zum [Black Friday bei SHEIN](/de/reviews/shein-black-friday-termine-steuern) fasst zusammen, was über die November-Aktion schon bekannt ist.",
-          "**Erster Einkauf bei SHEIN?** Lesen Sie vorher den Ratgeber [Ist SHEIN seriös?](/de/reviews/ist-shein-serioes-und-sicher)."
+          "**Erster Einkauf bei SHEIN?** Lesen Sie vorher den Ratgeber [Ist SHEIN seriös?](/de/reviews/ist-shein-serioes-und-sicher)"
         ]
       },
       {
@@ -140300,7 +140201,7 @@ export const reviewsData: unknown[] = [
     "translationKey": "shein-11-11",
     "title": "SHEIN 11.11：Cecília が選んだ19アイテム、パジャマからアクセサリーまで（11月12日まで）",
     "seoTitle": "SHEIN 11.11 2026：割引と評価つきの19アイテム",
-    "type": "ショッピングガイド",
+    "type": "ガイド＆クーポン",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "author": {
@@ -140315,7 +140216,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "SHEIN の11.11メガセール（2026年11月12日まで）でのCecíliaのセレクション。パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選び、それぞれに割引、評価、キャンペーン内の商品ページへの直リンクをつけました。割引は2026年10月28日に確認したものです。",
+    "description": "SHEIN の11.11メガセール（2026年11月12日まで）でのCecíliaのセレクション。パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選び、それぞれに割引、評価、キャンペーン内の商品ページへの直リンクつきです。割引は2026年10月28日に確認したものです。",
     "metaDescription": "SHEIN 11.11（2026年11月12日まで）：パジャマからメンズシャツまで、Cecíliaが選んだ19アイテム。アイテムごとの割引と評価つき。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11セレクションのアイテムのコラージュ：花柄パジャマ、キッズのセットアップ、カーディガン、パンプス、メンズシャツ、SHEIN のロゴ",
@@ -140331,7 +140232,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Cecíliaのセレクションです。割引は公開日に SHEIN で確認しました。サイトの担当者がアイテムを使ったわけではありません。リンクと紹介コード 4CW5Y を通じて報酬を受け取る場合があります。",
+    "editorialNote": "Cecíliaのセレクションです。割引は公開日に SHEIN で確認したものです。サイトの担当者がアイテムを使ったわけではありません。リンクと紹介コード 4CW5Y を通じて報酬を受け取る場合があります。",
     "relatedArticles": [
       {
         "slug": "shein-referral-code-ja",
@@ -140430,7 +140331,7 @@ export const reviewsData: unknown[] = [
               "-4%"
             ],
             [
-              "[リネン調の生地のネイビーのヘンリーネックTシャツ](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
+              "[リネン調ネイビーのヘンリーネックTシャツ](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
               "-20%"
             ],
             [
@@ -140491,7 +140392,7 @@ export const reviewsData: unknown[] = [
           "ショップの評価は4.86、レビューは1,000件以上。"
         ],
         "paragraphs": [
-          "ハート柄のストライプのパジャマで、暑い時期にタンクトップとショートパンツで過ごしたい人向けです。自分の色とサイズの条件は商品ページで確認してください。"
+          "ハート柄のストライプのパジャマで、暑い時期にタンクトップとショートパンツで過ごしたい人向けです。色とサイズごとの条件は商品ページで確認してください。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
@@ -140548,14 +140449,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "キッズ",
         "paragraphs": [
-          "生後6か月から7歳までの子ども向けが4点：女の子のセットアップが1点、男の子のパジャマが2点、ベビー用トップスが1点です。"
+          "生後6か月から7歳までの子ども向けが4点：女の子のセットアップが1点、男の子のパジャマが2点、ベビー用トップスが1点です。下のサイズは、お店が年齢別に載せているものです。"
         ]
       },
       {
         "heading": "ハート柄タンクトップとワイドパンツの女の子用セット",
         "bullets": [
           "商品ページの割引：-20%",
-          "サイズ：4〜7歳。ストアには8〜12歳もあります。",
+          "サイズ：4〜7歳。ショップには8〜12歳もあります。",
           "ショップの評価は4.88、レビューは1,000件以上。"
         ],
         "paragraphs": [
@@ -140662,7 +140563,7 @@ export const reviewsData: unknown[] = [
           "ショップの評価は4.09、レビューは62件。"
         ],
         "paragraphs": [
-          "長袖と長ズボンの男の子用パジャマで、総柄です。出品は1セット単位で、柄（恐竜、ショベルカー、飛行機）は買う人ではなくお店が選びます。おまかせの柄でかまわない人向けです。"
+          "長袖と長ズボンの男の子用パジャマで、総柄です。販売は1セット単位で、柄（恐竜、ショベルカー、飛行機）は買う人ではなくお店が選びます。おまかせの柄でかまわない人向けです。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
@@ -140982,7 +140883,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "リネン調の生地のネイビーのヘンリーネックTシャツ",
+        "heading": "リネン調ネイビーのヘンリーネックTシャツ",
         "bullets": [
           "商品ページの割引：-20%",
           "ショップの評価は4.61、レビューは500件以上。"
@@ -141001,7 +140902,7 @@ export const reviewsData: unknown[] = [
           "layout": "tabs",
           "items": [
             {
-              "piece": "リネン調の生地のネイビーのヘンリーネックTシャツ",
+              "piece": "リネン調ネイビーのヘンリーネックTシャツ",
               "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
               "howTo": "ゆったり着て、ジーンズやバミューダパンツと合わせた、きちんと感のあるカジュアルに。",
               "occasion": "普段使いと週末。",
@@ -141047,7 +140948,7 @@ export const reviewsData: unknown[] = [
               "occasion": "夏と休暇。",
               "pairsWith": [
                 {
-                  "label": "リネン調の生地のネイビーのヘンリーネックTシャツ",
+                  "label": "リネン調ネイビーのヘンリーネックTシャツ",
                   "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
                 },
                 {
@@ -141126,7 +141027,7 @@ export const reviewsData: unknown[] = [
               "occasion": "夏と街着。トレーニング用ではありません。",
               "pairsWith": [
                 {
-                  "label": "タクテル素材のバミューダパンツ"
+                  "label": "ナイロン素材のバミューダパンツ"
                 },
                 {
                   "label": "白いスニーカー"
@@ -141143,7 +141044,7 @@ export const reviewsData: unknown[] = [
         "heading": "買う前に",
         "bullets": [
           "**割引は毎日変わります：** 各アイテムの割引は、確認した日のものです。SHEIN はキャンペーン中にセールの内容を変えます。",
-          "**サイズ：** サイズ感はアイテムごとに違うので、選ぶ前に商品ページのサイズ表を確認してください。",
+          "**サイズ：** 2つのサイズで迷っている場合は、選ぶ前に商品ページのサイズ表を確認してください。サイズ感はアイテムごとに違います。",
           "**4CW5Y は紹介コードで、クーポンではありません：** アプリの検索バーで検索するもので、チェックアウトには貼り付けません。[SHEIN の紹介コード](/ja/reviews/shein-referral-code-ja) と、ショップのメインリンクを載せた [SHEIN のページ](/ja/coupons/shein) をご覧ください。",
           "**ブラックフライデーまで待ちますか？** [SHEIN のブラックフライデー](/ja/reviews/shein-black-friday-ja) のガイドに、11月のキャンペーンについて、これまでにわかっていることをまとめています。",
           "**SHEIN で初めて買いますか？** 先に [SHEIN は信頼できる？](/ja/reviews/shein-trust-guide-ja) のガイドをお読みください。"
@@ -141167,7 +141068,7 @@ export const reviewsData: unknown[] = [
     "translationKey": "shein-11-11",
     "title": "SHEIN 11.11: Cecília가 고른 19가지, 잠옷부터 액세서리까지 (11월 12일까지)",
     "seoTitle": "SHEIN 11.11 2026: 할인율과 평점까지 정리한 19가지 추천",
-    "type": "쇼핑 가이드",
+    "type": "가이드 & 쿠폰",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "author": {
@@ -141182,7 +141083,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "SHEIN 11.11 메가 세일(2026년 11월 12일까지)에서 Cecília가 고른 셀렉션입니다. 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지를 골랐고, 상품마다 할인율, 평점, 캠페인 안의 상품 페이지로 바로 가는 링크를 달았습니다. 할인율은 2026년 10월 28일에 확인한 것입니다.",
+    "description": "SHEIN 11.11 메가 세일(2026년 11월 12일까지)에서 Cecília가 고른 셀렉션입니다. 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지이며, 상품마다 할인율, 평점, 캠페인 안의 상품 페이지로 바로 가는 링크가 있습니다. 할인율은 2026년 10월 28일에 확인한 것입니다.",
     "metaDescription": "SHEIN 11.11(2026년 11월 12일까지): 잠옷부터 남성 셔츠까지 Cecília가 고른 19가지. 상품마다 할인율과 평점이 있습니다.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11 셀렉션 상품 콜라주: 꽃무늬 잠옷, 아동 세트, 가디건, 펌프스, 남성 셔츠와 SHEIN 로고",
@@ -141198,7 +141099,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Cecília의 셀렉션입니다. 할인율은 게시일에 SHEIN에서 확인했습니다. 사이트 담당자가 상품을 직접 사용한 것은 아닙니다. 링크와 추천 코드 4CW5Y를 통해 수수료를 받을 수 있습니다.",
+    "editorialNote": "Cecília의 셀렉션입니다. 할인율은 게시일에 SHEIN에서 확인한 것입니다. 사이트 담당자가 상품을 직접 사용한 것은 아닙니다. 링크와 추천 코드 4CW5Y를 통해 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
         "slug": "shein-referral-code-ko",
@@ -141358,7 +141259,7 @@ export const reviewsData: unknown[] = [
           "평점 4.86, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
-          "하트가 들어간 줄무늬 잠옷으로, 더운 날 민소매와 반바지로 입고 싶은 분께 맞습니다. 원하는 색상과 조건은 상품 페이지에서 확인하세요."
+          "하트가 들어간 줄무늬 잠옷으로, 더운 날 민소매와 반바지로 입고 싶은 분께 맞습니다. 원하는 색상과 사이즈는 상품 페이지에서 확인하세요."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
@@ -141388,7 +141289,7 @@ export const reviewsData: unknown[] = [
         "heading": "만화 프린트 3피스 잠옷",
         "bullets": [
           "상품 페이지의 할인율: -20%",
-          "평점 4.95, 리뷰 1,000개 이상로, 셀렉션에서 가장 높습니다."
+          "평점 4.95, 리뷰 1,000개 이상으로, 셀렉션에서 가장 높습니다."
         ],
         "paragraphs": [
           "Dream Adore의 3피스 세트로, 만화 프린트에 허리에 리본이 달린 반바지가 있습니다."
@@ -141415,7 +141316,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "아동",
         "paragraphs": [
-          "생후 6개월부터 7세까지 입는 네 가지입니다. 여아 세트 하나, 남아 잠옷 둘, 아기 상의 하나입니다."
+          "생후 6개월부터 7세까지 입는 네 가지입니다. 여아 세트 하나, 남아 잠옷 둘, 아기 상의 하나입니다. 아래 사이즈는 스토어가 연령별로 안내하는 것입니다."
         ]
       },
       {
@@ -141993,7 +141894,7 @@ export const reviewsData: unknown[] = [
               "occasion": "여름과 거리. 운동용이 아닙니다.",
               "pairsWith": [
                 {
-                  "label": "택텔 소재 버뮤다 팬츠"
+                  "label": "나일론 소재 버뮤다 팬츠"
                 },
                 {
                   "label": "흰 스니커즈"
@@ -142010,8 +141911,8 @@ export const reviewsData: unknown[] = [
         "heading": "구매 전에 확인할 것",
         "bullets": [
           "**할인율은 매일 바뀝니다:** 각 상품의 할인율은 확인한 날 기준입니다. SHEIN은 캠페인 중에 세일 내용을 바꿉니다.",
-          "**사이즈:** 사이즈 구성은 상품마다 다르니, 고르기 전에 상품 페이지의 사이즈표를 확인하세요.",
-          "**4CW5Y는 추천 코드이지 쿠폰이 아닙니다:** 앱의 검색창에서 검색하는 코드이고 결제 화면에 붙여 넣지 않습니다. [SHEIN 추천 코드](/ko/reviews/shein-referral-code-ko)와 쇼핑몰의 기본 링크가 있는 [SHEIN 페이지](/ko/coupons/shein)를 보세요.",
+          "**사이즈:** 두 사이즈 사이에서 고민된다면, 고르기 전에 상품 페이지의 사이즈표를 확인하세요. 사이즈 구성은 상품마다 다릅니다.",
+          "**4CW5Y는 추천 코드이지 쿠폰이 아닙니다:** 앱의 검색창에서 검색하는 코드이고 결제 화면에 붙여 넣지 않습니다. [SHEIN 추천 코드](/ko/reviews/shein-referral-code-ko)와 스토어의 대표 링크가 있는 [SHEIN 페이지](/ko/coupons/shein)를 보세요.",
           "**블랙 프라이데이를 기다리시나요?** [SHEIN 블랙 프라이데이](/ko/reviews/shein-black-friday-ko) 가이드에 11월 캠페인에 대해 지금까지 알려진 내용을 정리했습니다.",
           "**SHEIN에서 처음 사시나요?** 먼저 [SHEIN은 믿을 만한가요?](/ko/reviews/shein-trust-guide-ko) 가이드를 읽어 보세요."
         ]
@@ -142034,7 +141935,7 @@ export const reviewsData: unknown[] = [
     "translationKey": "shein-11-11",
     "title": "SHEIN 11.11：Cecília 挑的 19 件好物，从睡衣到配饰（到 11 月 12 日）",
     "seoTitle": "SHEIN 11.11 2026：19 件好物，附折扣和评分",
-    "type": "购物指南",
+    "type": "指南与优惠码",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "author": {
@@ -142090,7 +141991,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "11.11 大促",
         "paragraphs": [
-          "SHEIN 的 11.11 大促已经开始。据 SHEIN 称，60 万件以上商品最高减 85%，店里还把活动往 App 里引。",
+          "SHEIN 的 11.11 大促已经开始。据 SHEIN 称，60 万件以上商品最高减 85%，店里还把活动引向 App。",
           "入口页是[11.11 全球热卖精选](https://onelink.shein.com/58/66i60wu7xjjd)。下面的 19 件，点图片和卡片都会在活动里打开各自的商品页。",
           "4CW5Y 是 SHEIN 的推荐码：在 App 的搜索栏里搜索，不粘贴到结算页，因为它不是优惠券。步骤见[SHEIN 推荐码：如何使用 4CW5Y](/zh-hans/reviews/shein-referral-code-zh-hans)。"
         ]
@@ -142282,7 +142183,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "童装",
         "paragraphs": [
-          "4 件童装，适合 6 个月到 7 岁：一套女童装、两套男童睡衣和一件婴儿上衣。下面的尺码是店里按年龄列出的。"
+          "4 件童装，适合 6 个月到 7 岁：一套女童装、两套男童睡衣和一件婴儿上衣。下面的尺码是店家按年龄列出的。"
         ]
       },
       {
@@ -142330,7 +142231,7 @@ export const reviewsData: unknown[] = [
           "商品页评分 4.36，评价 83 条"
         ],
         "paragraphs": [
-          "商品页写明，这是两件套男童睡衣，印有圣诞恐龙，图案在黑暗中发光，裤腰带松紧。适合想让男孩提前穿上年末节日睡衣的人，男孩年龄 4 到 7 岁。"
+          "商品页写明，这是两件套男童睡衣，印有圣诞恐龙，图案在黑暗中发光，采用松紧设计。适合想给 4 到 7 岁男孩提前准备年末节日睡衣的人。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
@@ -142901,7 +142802,7 @@ export const reviewsData: unknown[] = [
     "translationKey": "shein-11-11",
     "title": "SHEIN 11.11：Cecília 挑的 19 件好物，從睡衣到配件（到 11 月 12 日）",
     "seoTitle": "SHEIN 11.11 2026：19 件好物，附折扣和評分",
-    "type": "購物指南",
+    "type": "指南與優惠碼",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "author": {
@@ -142951,13 +142852,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 稱 11.11 大促最高折 85%，到 2026年11月12日結束。Cecília 挑了 19 件，分 5 組：睡衣、童裝、女裝、配件和男裝。每件的折扣和評分來自商品頁，可能變動。"
+          "SHEIN 稱 11.11 大促最高減 85%，到 2026年11月12日結束。Cecília 挑了 19 件，分 5 組：睡衣、童裝、女裝、配件和男裝。每件的折扣和評分來自商品頁，可能變動。"
         ]
       },
       {
         "heading": "11.11 大促",
         "paragraphs": [
-          "SHEIN 的 11.11 大促已經開始。據 SHEIN 表示，60 萬件以上商品最高折 85%，店家還把活動往 App 裡導。",
+          "SHEIN 的 11.11 大促已經開始。據 SHEIN 表示，60 萬件以上商品最高減 85%，店家還把活動引向 App。",
           "入口頁是[11.11 全球熱銷精選](https://onelink.shein.com/58/66i60wu7xjjd)。下面的 19 件，點圖片和卡片都會在活動裡開啟各自的商品頁。",
           "4CW5Y 是 SHEIN 的推薦碼：在 App 的搜尋欄搜尋，不貼到結帳頁，因為它不是優惠券。步驟見[SHEIN 推薦碼：如何使用 4CW5Y](/zh-hant/reviews/shein-referral-code-zh-hant)。"
         ]
@@ -143197,7 +143098,7 @@ export const reviewsData: unknown[] = [
           "商品頁評分 4.36，評價 83 則"
         ],
         "paragraphs": [
-          "商品頁寫明，這是兩件式男童睡衣，印有聖誕恐龍，圖案在黑暗中會發光，褲頭有鬆緊帶。適合想讓男孩提早穿上年終節慶睡衣的人，男孩年齡 4 到 7 歲。"
+          "商品頁寫明，這是兩件式男童睡衣，印有聖誕恐龍，圖案在黑暗中會發光，採用鬆緊設計。適合想幫 4 到 7 歲男孩提早準備年終節慶睡衣的人。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
@@ -145708,7 +145609,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it's **20% off the first period**, on a monthly or annual plan, for new or existing customers. We haven't tested the renewal; check the price in the cart. The full rule and the other products are in [Hostinger coupons](/en/coupons/hostinger).",
+          "Use the code **SONAR20** in the cart's coupon field, or use this article's link: it's **20% off the first period**, on a monthly or annual plan, for new or existing customers. We haven't tested the renewal; check the price in the cart. The full rule and the other products are in [Hostinger coupons](/en/coupons/hostinger).",
           "Prices and terms change; check the amount in the cart before paying."
         ]
       },
@@ -145732,7 +145633,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Who is writing",
+        "heading": "Who writes",
         "paragraphs": [
           "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since 2024. Nobody on the team has used the AI Builder or Horizons: this text brings together what the product page, the WordPress documentation and the public pages of Wix and Lovable say."
         ]
@@ -145741,7 +145642,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the price in the cart.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -145899,7 +145800,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creador con IA o WordPress",
         "paragraphs": [
-          "El precio no decide: en Hostinger, el creador con IA viene en los planes de hosting, los mismos que corren WordPress, por los mismos valores. Lo que cambia es quién hace el trabajo y qué controlas."
+          "El precio no decide: en Hostinger, el creador con IA viene en los planes de hosting, los mismos que corren WordPress, por los mismos precios. Lo que cambia es quién hace el trabajo y qué controlas."
         ],
         "comparisonTable": {
           "headers": [
@@ -145963,7 +145864,7 @@ export const reviewsData: unknown[] = [
           "**Los créditos.** El modo con IA gasta créditos en cada petición, y el saldo del plan no se renueva cada mes. Monta la web con la IA y haz los ajustes de texto y fotos en el editor, que no gasta.",
           "**Qué pasa si no renuevas.** La página avisa: un plan vencido y sin renovar deja el proyecto fuera de línea y borra los datos. Exporta el código antes de dejarlo vencer.",
           "**Reembolso en 30 días**, siempre que hayas consumido menos de 30 créditos de IA.",
-          "**La tienda online** es un elemento de los planes Unlimited y Cloud Startup; en el Unlimited, la página dice que es gratis durante 3 meses. Comprueba en el pago cuánto cuesta después.",
+          "**La tienda online** está incluida en los planes Unlimited y Cloud Startup; en el Unlimited, la página dice que es gratis durante 3 meses. Comprueba al pagar cuánto cuesta después.",
           "**No existe app nativa.** Lo que hace el creador es una app web adaptable, que se abre en el navegador del móvil. Para la App Store y Google Play, es otro camino."
         ],
         "postParagraphs": [
@@ -146006,7 +145907,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. No probamos la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -146098,7 +145999,7 @@ export const reviewsData: unknown[] = [
           "La page dit qu'il crée des sites et des applications web à partir d'une description en texte, sans connaissances techniques, dans deux modes :"
         ],
         "bullets": [
-          "**Édition sans IA (le mode Manual) :** vous partez d'un site généré par l'IA ou de l'un des modèles et vous éditez par glisser-déposer. Il ne consomme pas de crédits IA.",
+          "**Édition sans IA (le mode Manual) :** vous partez d'un site généré par l'IA ou de l'un des modèles et vous éditez par glisser-déposer. Ce mode ne consomme pas de crédits IA.",
           "**Édition avec IA (le mode Agentic) :** vous décrivez ce que vous voulez dans le chat et l'IA dessine et code. Chaque action consomme des crédits IA, et on peut en racheter."
         ],
         "postParagraphs": [
@@ -146211,8 +146112,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "**WordPress l'emporte** quand le projet dépend d'un plugin précis, d'un thème que vous avez déjà, ou de quelqu'un qui maintiendra le site ensuite. C'est un logiciel libre : le site entier est à vous et part vers n'importe quel hébergeur sans retravail.",
-          "**Le créateur IA l'emporte** quand vous ne voulez rien installer ni mettre à jour et que vous voulez une appli web avec connexion et données, ce qui devient sur WordPress une pile de plugins. La réserve qui change la décision : en mode IA, chaque modification consomme des crédits. D'après la page, une page institutionnelle simple consomme de 5 à 10 crédits, et une appli plus complexe, 15 ou plus. Qui retouche le site chaque semaine doit faire le calcul ; qui le monte une fois et modifie texte et photos dans l'éditeur, sans prompt, ne dépense rien."
+          "**WordPress l'emporte** quand le projet dépend d'un plugin précis, d'un thème que vous avez déjà, ou de quelqu'un qui maintiendra le site ensuite. C'est un logiciel libre : le site entier est à vous et part vers n'importe quel hébergeur sans tout refaire.",
+          "**Le créateur IA l'emporte** quand vous ne voulez rien installer ni mettre à jour et que vous voulez une appli web avec connexion et données, ce qui devient sur WordPress une pile de plugins. La réserve qui change la décision : en mode IA, chaque modification consomme des crédits. D'après la page, une page institutionnelle simple consomme de 5 à 10 crédits, et une appli plus complexe, 15 ou plus. Qui retouche le site chaque semaine doit faire le calcul ; qui le monte une fois et modifie le texte et les photos dans l'éditeur, sans prompt, ne dépense rien."
         ]
       },
       {
@@ -146246,7 +146147,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vaut-il le coup ? Le verdict",
         "paragraphs": [
           "**Il vaut le coup** pour qui veut un site de quelques pages, un portfolio, une petite boutique ou une appli web simple et ne veut ni coder ni s'occuper de plugins. La première version sort de la description, et le mode sans IA permet de retoucher sans dépenser de crédits. Commencez par l'essai gratuit ; si le résultat convient, l'offre Premium couvre un site simple et Unlimited, une boutique.",
-          "**Restez sur WordPress** si le projet dépend de plugins, d'un thème à vous, de quelqu'un qui maintiendra le site, ou si vous voulez tout emporter chez un autre hébergeur sans retravail. L'offre Hostinger est la même dans les deux cas, donc le choix ne porte que sur l'outil.",
+          "**Restez sur WordPress** si le projet dépend de plugins, d'un thème à vous, de quelqu'un qui maintiendra le site, ou si vous voulez tout emporter chez un autre hébergeur sans tout refaire. L'offre Hostinger est la même dans les deux cas, donc le choix ne porte que sur l'outil.",
           "**Dans le doute, essayez le créateur IA avant de payer.** Vous avez 5 crédits gratuits, sans carte, de quoi voir si l'IA comprend ce que vous voulez. Si elle ne comprend pas, WordPress est toujours là."
         ]
       },
@@ -146271,7 +146172,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement.",
+      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -146297,12 +146198,12 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Prenez le créateur IA si vous voulez un site de quelques pages, un portfolio, une petite boutique ou une appli web simple sans coder.",
         "Prenez-le si vous voulez l'hébergement, le domaine et l'e-mail dans la même offre et acceptez que l'IA monte la première version.",
-        "Prenez-le si vous allez monter le site une fois et retoucher texte et photos dans l'éditeur, qui ne consomme pas de crédits."
+        "Prenez-le si vous allez monter le site une fois et retoucher le texte et les photos dans l'éditeur, qui ne consomme pas de crédits."
       ],
       "skipIf": [
         "Passez, et restez sur WordPress, si le projet dépend d'un plugin précis ou d'un thème que vous avez déjà.",
         "Passez si une autre personne ou une agence va maintenir le site : WordPress est la norme du marché.",
-        "Passez si vous voulez tout emporter chez un autre hébergeur sans retravail, ou si vous allez demander des modifications à l'IA chaque semaine et que chaque demande consomme des crédits."
+        "Passez si vous voulez tout emporter chez un autre hébergeur sans tout refaire, ou si vous allez demander des modifications à l'IA chaque semaine et que chaque demande consomme des crédits."
       ]
     }
   },
@@ -146374,7 +146275,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Per quale progetto va bene: la tabella",
         "paragraphs": [
-          "La domanda giusta non è «l'IA è brava?», ma «che cosa costruirò e chi ci metterà mano dopo?». La tabella riassume la scelta per tipo di progetto, in base a quello che dicono la pagina dell'AI Builder e la documentazione di WordPress:"
+          "La domanda giusta non è «l'IA è buona?», ma «che cosa costruirò e chi ci metterà mano dopo?». La tabella riassume la scelta per tipo di progetto, in base a quello che dicono la pagina dell'AI Builder e la documentazione di WordPress:"
         ],
         "comparisonTable": {
           "headers": [
@@ -146503,7 +146404,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Codice SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, su piano mensile o annuale, per clienti nuovi o già iscritti. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello. La regola completa e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger).",
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, con piano mensile o annuale, per i clienti nuovi o esistenti. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello. La regola completa e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger).",
           "I prezzi e le condizioni cambiano; controlla l'importo nel carrello prima di pagare."
         ]
       },
@@ -146756,7 +146657,7 @@ export const reviewsData: unknown[] = [
         "heading": "Was Sie vor der Zahlung prüfen sollten",
         "bullets": [
           "**Das Guthaben.** Der KI-Modus verbraucht bei jeder Anfrage Guthaben, und das Guthaben des Tarifs erneuert sich nicht jeden Monat. Bauen Sie die Website mit der KI und nehmen Sie Text- und Foto-Anpassungen im Editor vor, der keines verbraucht.",
-          "**Was passiert, wenn Sie nicht verlängern.** Die Seite warnt: Ein abgelaufener und nicht verlängerter Tarif nimmt das Projekt vom Netz und löscht die Daten. Exportieren Sie den Code, bevor er ausläuft.",
+          "**Was passiert, wenn Sie nicht verlängern.** Die Seite warnt: Ein abgelaufener und nicht verlängerter Tarif nimmt das Projekt vom Netz und löscht die Daten. Exportieren Sie den Code, bevor der Tarif ausläuft.",
           "**Rückerstattung innerhalb von 30 Tagen**, sofern Sie weniger als 30 KI-Guthaben verbraucht haben.",
           "**Der Onlineshop** gehört zu den Tarifen Unlimited und Cloud Startup; bei Unlimited ist er laut Seite 3 Monate kostenlos. Prüfen Sie an der Kasse, was er danach kostet.",
           "**Eine native App gibt es nicht.** Was der KI-Builder macht, ist eine responsive Web-App, die im Browser des Handys läuft. Für den App Store und Google Play ist es ein anderer Weg."
@@ -146768,7 +146669,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutscheincode SONAR20",
         "paragraphs": [
-          "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- oder Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Die vollständige Regel und die anderen Produkte stehen unter [Hostinger-Gutscheine](/de/coupons/hostinger).",
+          "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- oder Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Die vollständigen Bedingungen und die anderen Produkte stehen unter [Hostinger-Gutscheine](/de/coupons/hostinger).",
           "Preise und Bedingungen ändern sich; prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen."
         ]
       },
@@ -146801,7 +146702,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147066,8 +146967,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。",
-      "label": "割引プランを見る",
+      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。カートで価格を確認してください。",
+      "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -147134,7 +147035,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Hostinger의 AI Builder(구 Horizons)는 코딩 없이 간단한 사이트나 웹 앱을 만들고 싶은 사람에게 맞습니다. 플러그인과 세밀한 제어가 필요하다면 WordPress가 더 낫습니다.",
-    "metaDescription": "Hostinger Horizons는 AI Builder가 되었습니다. 쓸 만한가, 아니면 WordPress인가? 프로젝트 유형별 표, Wix·Lovable과의 비교, AI 크레딧까지 정리했습니다.",
+    "metaDescription": "Hostinger Horizons는 AI Builder가 되었습니다. 쓸 만한가, 아니면 WordPress인가? 프로젝트 유형별 표, Wix·Lovable과의 비교, AI 크레딧까지 다룹니다.",
     "publishedAt": "2026년 10월 28일",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -147271,7 +147172,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**WordPress가 이기는 경우**는 프로젝트가 특정 플러그인에 의존할 때, 이미 가진 테마를 쓸 때, 나중에 사이트를 유지할 사람이 있을 때입니다. WordPress는 오픈 소스여서 사이트 전체가 자신의 것이 되고, 다시 작업할 필요 없이 어떤 호스팅으로도 옮길 수 있습니다.",
-          "**AI Builder가 이기는 경우**는 아무것도 설치하거나 업데이트하고 싶지 않고, 로그인과 데이터가 있는 웹 앱을 원할 때입니다. WordPress에서는 플러그인 더미가 됩니다. 결정을 바꿀 수 있는 단서는 AI 모드에서는 변경할 때마다 크레딧이 든다는 점입니다. 페이지에 따르면 간단한 소개 페이지는 5~10 크레딧, 더 복잡한 앱은 15 크레딧 이상이 듭니다. 사이트를 매주 손보는 사람은 계산이 필요하고, 한 번 만든 뒤 프롬프트 없이 에디터에서 텍스트와 사진만 고치는 사람은 크레딧이 들지 않습니다."
+          "**AI Builder가 이기는 경우**는 아무것도 설치하거나 업데이트하고 싶지 않고, 로그인과 데이터가 있는 웹 앱을 원할 때입니다. WordPress에서는 플러그인 무더기가 됩니다. 결정을 가르는 주의점은 AI 모드에서는 변경할 때마다 크레딧이 든다는 것입니다. 페이지에 따르면 간단한 소개 페이지는 5~10 크레딧, 더 복잡한 앱은 15 크레딧 이상이 듭니다. 사이트를 매주 손보는 사람은 계산이 필요하고, 한 번 만든 뒤 프롬프트 없이 에디터에서 텍스트와 사진만 고치는 사람은 크레딧이 들지 않습니다."
         ]
       },
       {
@@ -147285,7 +147186,7 @@ export const reviewsData: unknown[] = [
         "heading": "결제 전에 확인할 것",
         "bullets": [
           "**크레딧.** AI 모드는 요청할 때마다 크레딧을 쓰고, 플랜의 잔액은 매달 새로 채워지지 않습니다. 사이트는 AI로 만들고, 텍스트와 사진 수정은 크레딧이 들지 않는 에디터에서 하세요.",
-          "**갱신하지 않으면 어떻게 되는가.** 페이지가 이렇게 경고합니다. 만료되어 갱신하지 않은 플랜은 프로젝트가 내려가고 데이터가 삭제됩니다. 만료되기 전에 코드를 익스포트해 두세요.",
+          "**갱신하지 않으면 어떻게 되는가.** 페이지가 이렇게 경고합니다. 만료되어 갱신하지 않은 플랜은 프로젝트가 내려가고 데이터가 삭제됩니다. 만료되기 전에 코드를 내보내 두세요.",
           "**30일 환불**은 AI 크레딧을 30 미만으로 쓴 경우에 한합니다.",
           "**온라인 스토어**는 Unlimited와 Cloud Startup 플랜의 기능이고, Unlimited에서는 페이지에 따르면 3개월 동안 무료입니다. 그 뒤의 비용은 결제 화면에서 확인하세요.",
           "**네이티브 앱은 없습니다.** AI Builder가 만드는 것은 휴대폰 브라우저에서 열리는 반응형 웹 앱입니다. App Store와 Google Play용은 다른 방법이 필요합니다."
@@ -147330,8 +147231,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요. 20%는 첫 기간에만, 월간과 연간 플랜 모두에서 적용되며, 갱신 가격은 테스트하지 않았습니다.",
-      "label": "할인 플랜 보기",
+      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -147552,7 +147453,7 @@ export const reviewsData: unknown[] = [
           "**额度。**AI 模式每次请求都消耗额度，套餐里的余额不会每月重置。用 AI 搭好网站，文字和照片的调整在不消耗额度的编辑器里做。",
           "**不续费会怎样。**页面有提醒：套餐到期未续费，项目会下线，数据会被删除。别等到期，先导出代码。",
           "**30 天内可退款**，前提是你使用的 AI 额度少于 30 个。",
-          "**网店**是 Unlimited 和 Cloud Startup 套餐的功能；按页面所说，Unlimited 前 3 个月免费。之后要花多少钱，请在结账页确认。",
+          "**网店**是 Unlimited 和 Cloud Startup 套餐的功能；按页面所说，Unlimited 有 3 个月免费。之后要花多少钱，请在结账页确认。",
           "**没有原生应用。**AI Builder 做出来的是在手机浏览器里打开的自适应 Web 应用。要上架 App Store 或 Google Play，得走别的路。"
         ],
         "postParagraphs": [
@@ -147595,8 +147496,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
-      "label": "通过 SONAR20 查看套餐",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认价格。",
+      "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -147817,7 +147718,7 @@ export const reviewsData: unknown[] = [
           "**額度。**AI 模式每次請求都消耗額度，方案裡的餘額不會每月重置。用 AI 搭好網站，文字和照片的調整在不消耗額度的編輯器裡做。",
           "**不續約會怎樣。**頁面有提醒：方案到期未續約，專案會下線，資料會被刪除。別等到期，先匯出程式碼。",
           "**30 天內可退款**，前提是你使用的 AI 額度少於 30 個。",
-          "**網路商店**是 Unlimited 和 Cloud Startup 方案的功能；依頁面所說，Unlimited 前 3 個月免費。之後要花多少錢，請在結帳頁確認。",
+          "**網路商店**是 Unlimited 和 Cloud Startup 方案的功能；依頁面所說，Unlimited 有 3 個月免費。之後要花多少錢，請在結帳頁確認。",
           "**沒有原生 App。**AI Builder 做出來的是在手機瀏覽器裡開啟的響應式 Web 應用程式。要上架 App Store 或 Google Play，得走別的路。"
         ],
         "postParagraphs": [
@@ -147860,7 +147761,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20%。續訂價我們沒有測試，請在購物車確認。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148246,7 +148147,7 @@ export const reviewsData: unknown[] = [
               "Buy elsewhere and point it",
               "You already have a domain at another registrar or prefer to keep the accounts separate",
               "Price of the registrar where it is",
-              "Nothing changes on the domain; only the pointing",
+              "Nothing changes on the domain; only where it points",
               "You, at the other registrar"
             ],
             [
@@ -148259,21 +148160,11 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Premium and Unlimited hosting plans of 12 months or more include a domain for the first year, one per account, on selected extensions; from the second year it renews at the regular table price. It is an item of the plan, not a reason to pick a path: what weighs is the renewal."
+          "Premium and Unlimited hosting plans of 12 months or more include a domain for the first year, one per account, on selected extensions; from the second year it renews at the regular table price. It is part of the plan, not a reason to pick a path: what matters is the renewal."
         ]
       },
       {
         "heading": "Contact-data privacy",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "Contact-data privacy (RDAP, the former WHOIS) is included on compatible extensions."
         ]
@@ -148292,7 +148183,7 @@ export const reviewsData: unknown[] = [
           "**Price:** it is not free. On most generic extensions (.com, .net, .org), the transfer fee already includes an extra year of registration, added to the term you already had."
         ],
         "postParagraphs": [
-          "Transferring out of Hostinger follows the same logic in reverse: 60 days of registration, unlock it in Hostinger's panel, get the code and confirm by email. A transfer that goes through is not refunded; see [Hostinger's refund and renewal rules](/en/reviews/is-hostinger-legit)."
+          "Transferring out of Hostinger follows the same logic in reverse: 60 days of registration, unlock it in Hostinger's panel, get the code and confirm by email. A completed transfer is not refundable; see [Hostinger's refund and renewal rules](/en/reviews/is-hostinger-legit)."
         ]
       },
       {
@@ -148330,7 +148221,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon and price",
         "paragraphs": [
-          "Use the code **SONAR20** in the coupon field of the cart, or come in through this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. We have not tested the renewal; check the price in the cart. For a domain on its own, what counts is what appears in the cart. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
+          "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. We have not tested the renewal; check the price in the cart. For a domain on its own, what counts is what appears in the cart. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
         ]
       },
       {
@@ -148351,8 +148242,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart. Check the domain price in the cart before paying.",
-      "label": "See plans with SONAR20",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the price in the cart. Check the domain in the cart before paying.",
+      "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -148438,7 +148329,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dominio y hosting son dos cuentas",
         "paragraphs": [
-          "Dominio y hosting son dos cuentas: la dirección (el nombre que la gente escribe) por un lado, el ordenador donde vive el sitio por otro. Pagas las dos por separado y no tienen que estar en la misma empresa: el dominio registrado en una empresa puede apuntar al hosting de otra. La propia página de Hostinger dice que un dominio registrado en ella se puede apuntar a otro proveedor de hosting.",
+          "Dominio y hosting son dos cuentas: la dirección (el nombre que la gente escribe) por un lado, el ordenador donde está el sitio por otro. Pagas las dos por separado y no tienen que estar en la misma empresa: el dominio registrado en una empresa puede apuntar al hosting de otra. La propia página de Hostinger dice que un dominio registrado en ella se puede apuntar a otro proveedor de hosting.",
           "Por eso la decisión no es \"Hostinger o no\". Es dónde queda el registro del dominio, cuánto cuesta renovarlo cada año y qué pasa si algún día cambias de hosting. El primer año barato es lo menos importante: el dominio se renueva mientras exista el sitio."
         ]
       },
@@ -148474,7 +148365,7 @@ export const reviewsData: unknown[] = [
               "Comprar fuera y apuntar",
               "Ya tienes un dominio en otro registrador o prefieres separar las cuentas",
               "Precio del registrador donde está",
-              "No cambia nada en el dominio; solo el apuntado",
+              "No cambia nada en el dominio; solo adónde apunta",
               "Tú, en el otro registrador"
             ],
             [
@@ -148487,21 +148378,11 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Los planes de hosting Premium y Unlimited de 12 meses o más incluyen un dominio el primer año, uno por cuenta, en extensiones seleccionadas; desde el segundo año se renueva al precio normal de la tabla. Es un ítem del plan, no un motivo para elegir el camino: lo que pesa es la renovación."
+          "Los planes de hosting Premium y Unlimited de 12 meses o más incluyen un dominio el primer año, uno por cuenta, en extensiones seleccionadas; desde el segundo año se renueva al precio normal de la tabla. Es parte del plan, no un motivo para elegir el camino: lo que cuenta es la renovación."
         ]
       },
       {
         "heading": "Privacidad de los datos de contacto",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "La privacidad de los datos de contacto (RDAP, el antiguo WHOIS) viene incluida en las extensiones compatibles."
         ]
@@ -148509,7 +148390,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Transferir: la regla de los 60 días y el paso a paso",
         "paragraphs": [
-          "Transferir es cambiar el registro del dominio de una empresa a otra. La página de transferencia de Hostinger dice que el sitio y el correo siguen funcionando durante el proceso, y que los datos de propiedad no cambian. Lo que cambia es quién cobra la renovación y dónde tocas el DNS.",
+          "Transferir es cambiar el registro del dominio de una empresa a otra. La página de transferencia de Hostinger dice que el sitio y el correo siguen funcionando durante el proceso, y que los datos de propiedad no cambian. Lo que cambia es quién cobra la renovación y dónde gestionas el DNS.",
           "Las reglas, según la página de Hostinger:"
         ],
         "bullets": [
@@ -148531,7 +148412,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**La cuenta:** el dominio pertenece a la cuenta de Hostinger en que se compró. Usa un correo que controles, no el de un freelancer ni el de una agencia. Quien registra a nombre de otra persona depende de ella para transferirlo después.",
-          "**La renovación:** Hostinger recomienda dejar la renovación automática activada. Un dominio vencido tumba el sitio y el correo. La renovación de un dominio no tiene reembolso, así que la tarjeta de la cuenta tiene que estar al día.",
+          "**La renovación:** Hostinger recomienda dejar la renovación automática activada. Un dominio caducado deja sin servicio el sitio y el correo. La renovación de un dominio no tiene reembolso, así que la tarjeta de la cuenta tiene que estar al día.",
           "**El reembolso del registro:** un registro nuevo solo se puede devolver en 96 horas. Pasado ese plazo, el dominio es tuyo hasta el final del período pagado, sin devolución."
         ]
       },
@@ -148579,7 +148460,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período, en plan mensual o anual, para cliente nuevo o antiguo. No probamos la renovación; revisa el precio en el carrito. Revisa el precio del dominio en el carrito antes de pagar.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. No probamos la renovación; revisa el precio en el carrito. Revisa el dominio en el carrito antes de pagar.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148666,7 +148547,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domaine et hébergement sont deux comptes",
         "paragraphs": [
-          "Domaine et hébergement sont deux comptes : l'adresse (le nom que les gens tapent) d'un côté, l'ordinateur où vit le site de l'autre. Vous payez les deux séparément, et ils n'ont pas à être chez la même entreprise : un domaine enregistré chez une entreprise peut pointer vers l'hébergement d'une autre. La page même de Hostinger dit qu'un domaine enregistré chez elle peut être pointé vers un autre hébergeur.",
+          "Domaine et hébergement sont deux comptes : l'adresse (le nom que les gens tapent) d'un côté, l'ordinateur où vit le site de l'autre. Vous payez les deux séparément, et ils n'ont pas à être chez la même entreprise : un domaine enregistré chez une entreprise peut pointer vers l'hébergement d'une autre. La page de Hostinger elle-même dit qu'un domaine enregistré chez elle peut être pointé vers un autre hébergeur.",
           "La décision n'est donc pas « Hostinger ou non ». C'est l'endroit où se trouve l'enregistrement du domaine, ce que coûte son renouvellement chaque année et ce qui se passe si vous changez un jour d'hébergement. La première année bon marché est ce qui compte le moins : le domaine se renouvelle tant que le site existe."
         ]
       },
@@ -148702,7 +148583,7 @@ export const reviewsData: unknown[] = [
               "Acheter ailleurs et pointer",
               "Vous avez déjà un domaine chez un autre registrar ou préférez séparer les comptes",
               "Prix du registrar où il se trouve",
-              "Rien ne change sur le domaine ; seulement le pointage",
+              "Rien ne change sur le domaine ; il pointe simplement ailleurs",
               "Vous, chez l'autre registrar"
             ],
             [
@@ -148715,21 +148596,11 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Les forfaits d'hébergement Premium et Unlimited de 12 mois ou plus incluent un domaine la première année, un par compte, sur des extensions sélectionnées ; à partir de la deuxième année, il se renouvelle au prix normal de la grille. C'est un élément du forfait, pas une raison de choisir la voie : ce qui pèse, c'est le renouvellement."
+          "Les forfaits d'hébergement Premium et Unlimited de 12 mois ou plus incluent un domaine la première année, un par compte, sur des extensions sélectionnées ; à partir de la deuxième année, il se renouvelle au prix normal de la grille. C'est un élément du forfait, pas une raison de choisir la voie : ce qui compte, c'est le renouvellement."
         ]
       },
       {
         "heading": "Confidentialité des données de contact",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "La confidentialité des données de contact (RDAP, l'ancien WHOIS) est incluse sur les extensions compatibles."
         ]
@@ -148755,7 +148626,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qui est propriétaire du domaine",
         "paragraphs": [
           "Hostinger dit sur ses deux pages que le domaine est enregistré à votre nom et qu'il est à vous, pas au registrar. Elle est accréditée par l'ICANN, l'organisme qui coordonne les domaines génériques. Si vous résiliez l'hébergement, le domaine reste à vous ; pour le domaine fourni avec le forfait, les frais d'enregistrement sont déduits du remboursement, car ils ont déjà été payés au registre.",
-          "Trois précautions gardent le domaine à vous :"
+          "Trois précautions vous permettent de garder le domaine :"
         ],
         "bullets": [
           "**Le compte :** le domaine appartient au compte Hostinger où il a été acheté. Utilisez un e-mail que vous contrôlez, pas celui d'un freelance ou d'une agence. Qui enregistre au nom d'une autre personne dépend d'elle pour le transférer ensuite.",
@@ -148807,7 +148678,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement. Vérifiez le domaine dans le panier avant de payer.",
+      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. Vérifiez le domaine dans le panier avant de payer.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148836,7 +148707,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passez votre chemin si vous avez déjà un domaine chez un autre registrar, préférez séparer les comptes ou si le renouvellement de là-bas est moins cher : pointez le DNS et laissez l'enregistrement où il est.",
-        "Passez sur le transfert si l'enregistrement a moins de 60 jours : il ne démarre pas.",
+        "Évitez le transfert si l'enregistrement a moins de 60 jours : il ne démarre pas.",
         "Passez votre chemin si le domaine serait au nom ou sur le compte d'un freelance ou d'une agence : utilisez un e-mail que vous contrôlez."
       ]
     }
@@ -148894,7 +148765,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dominio e hosting sono due account",
         "paragraphs": [
-          "Dominio e hosting sono due account: l'indirizzo (il nome che le persone digitano) da una parte, il computer dove vive il sito dall'altra. Paghi i due separatamente e non devono stare nella stessa azienda: il dominio registrato presso un'azienda può puntare all'hosting di un'altra. La pagina stessa di Hostinger dice che un dominio registrato da lei può essere puntato a un altro provider di hosting.",
+          "Dominio e hosting sono due account: l'indirizzo (il nome che le persone digitano) da una parte, il computer dove si trova il sito dall'altra. Paghi i due separatamente e non devono stare nella stessa azienda: il dominio registrato presso un'azienda può puntare all'hosting di un'altra. La pagina stessa di Hostinger dice che un dominio registrato su Hostinger può essere puntato verso un altro provider di hosting.",
           "Per questo la decisione non è \"Hostinger o no\". È dove sta la registrazione del dominio, quanto costa rinnovarlo ogni anno e cosa succede se un giorno cambi hosting. Il primo anno a buon prezzo è il dettaglio meno importante: il dominio si rinnova finché il sito esiste."
         ]
       },
@@ -148930,7 +148801,7 @@ export const reviewsData: unknown[] = [
               "Comprare altrove e puntare",
               "Hai già un dominio presso un altro registrar o preferisci tenere gli account separati",
               "Prezzo del registrar dove si trova",
-              "Sul dominio non cambia nulla; solo il puntamento",
+              "Sul dominio non cambia nulla; solo dove punta",
               "Tuo, presso l'altro registrar"
             ],
             [
@@ -148943,21 +148814,11 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "I piani di hosting Premium e Unlimited da 12 mesi in su includono un dominio per il primo anno, uno per account, in estensioni selezionate; dal secondo anno si rinnova al prezzo normale del listino. È una voce del piano, non un motivo per scegliere la strada: quello che pesa è il rinnovo."
+          "I piani di hosting Premium e Unlimited da 12 mesi in su includono un dominio per il primo anno, uno per account, in estensioni selezionate; dal secondo anno si rinnova al prezzo normale del listino. È una voce del piano, non un motivo per scegliere la strada: quello che conta è il rinnovo."
         ]
       },
       {
         "heading": "Privacy dei dati di contatto",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "La privacy dei dati di contatto (RDAP, il vecchio WHOIS) è inclusa nelle estensioni compatibili."
         ]
@@ -148972,7 +148833,7 @@ export const reviewsData: unknown[] = [
           "**Età della registrazione:** nella maggior parte dei casi il dominio deve essere registrato da almeno 60 giorni. Anche un dominio nuovo su Hostinger resta bloccato per 60 giorni prima di poter uscire.",
           "**Sblocco e codice:** sblocchi il dominio nel pannello del registrar attuale e prendi il codice di autorizzazione (EPP, o codice di trasferimento).",
           "**Conferma:** dopo aver inserito il codice su Hostinger, arriva un'e-mail del registrar per confermare. Senza la conferma, il trasferimento non va avanti.",
-          "**Tempi:** fino a sette giorni; più veloce se il registrar attuale lo libera subito e confermi l'e-mail al volo.",
+          "**Tempi:** fino a sette giorni; più veloce se il registrar attuale lo libera subito e confermi subito l'e-mail.",
           "**Prezzo:** non è gratis. Nella maggior parte delle estensioni generiche (.com, .net, .org), la tariffa di trasferimento include già un anno in più di registrazione, che si somma alla durata che avevi."
         ],
         "postParagraphs": [
@@ -148982,7 +148843,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Di chi è il dominio",
         "paragraphs": [
-          "Hostinger dice in entrambe le pagine che il dominio è registrato a tuo nome ed è tuo, non del registrar. È accreditata presso ICANN, l'ente che coordina i domini generici. Se annulli l'hosting, il dominio resta tuo; nel caso del dominio arrivato con il piano, la tariffa di registrazione viene detratta dal rimborso, perché è già stata pagata al registro.",
+          "Hostinger dice in entrambe le pagine che il dominio è registrato a tuo nome ed è tuo, non del registrar. È accreditata presso ICANN, l'ente che coordina i domini generici. Se annulli l'hosting, il dominio resta tuo; nel caso del dominio incluso nel piano, la tariffa di registrazione viene detratta dal rimborso, perché è già stata pagata al registro.",
           "Tre accorgimenti mantengono il dominio tuo:"
         ],
         "bullets": [
@@ -149036,7 +148897,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello. Controlla il dominio nel carrello prima di pagare.",
-      "label": "Vedi i piani con SONAR20",
+      "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -149151,7 +149012,7 @@ export const reviewsData: unknown[] = [
               "Bei Hostinger kaufen",
               "Sie hosten bei Hostinger und wollen Domain, DNS und Verlängerung im selben Panel",
               "Verlängerungspreis aus der Preistabelle von Hostinger, jedes Jahr",
-              "Die Domain bleibt bei Hostinger; Sie lassen das DNS auf das neue Hosting zeigen oder ziehen sie später um",
+              "Die Domain bleibt bei Hostinger; Sie stellen das DNS auf das neue Hosting um oder ziehen sie später um",
               "Ihnen, auf Ihren Namen registriert"
             ],
             [
@@ -149176,16 +149037,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Datenschutz der Kontaktdaten",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "Der Datenschutz der Kontaktdaten (RDAP, das frühere WHOIS) ist bei kompatiblen Endungen inklusive."
         ]
@@ -149233,9 +149084,9 @@ export const reviewsData: unknown[] = [
         "heading": "Welchen Weg wählen",
         "paragraphs": [
           "**Kaufen Sie bei Hostinger**, wenn die Website dort gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen; prüfen Sie die Verlängerung vor der Zahlung.",
-          "**Kaufen Sie extern und verknüpfen Sie**, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder der Verlängerungspreis dort niedriger ist. Das DNS zeigen zu lassen ist eine Einstellung im Panel, und die Website funktioniert genauso.",
+          "**Kaufen Sie extern und verknüpfen Sie**, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder der Verlängerungspreis dort niedriger ist. Das Umstellen des DNS ist eine Einstellung im Panel, und die Website funktioniert genauso.",
           "**Ziehen Sie nur um**, wenn die Domain seit mehr als 60 Tagen registriert ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen. Bei den meisten generischen Endungen enthält die Umzugsgebühr ein weiteres Registrierungsjahr, es ist also kein verlorenes Geld.",
-          "Im Zweifel ziehen Sie nicht um: Lassen Sie die Domain verknüpfen und die Registrierung, wo sie ist. Umziehen kann man später, und die Website steht nicht still."
+          "Im Zweifel ziehen Sie nicht um: Verknüpfen Sie die Domain und lassen Sie die Registrierung, wo sie ist. Umziehen kann man später, und die Website bleibt dabei online."
         ],
         "emphasis": "Wäre es für meine Website, würde ich die Registrierung zusammen mit dem Hosting nehmen, weil Domain und Verlängerung im selben Panel liegen."
       },
@@ -149263,7 +149114,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Tragen Sie SONAR20 im Gutscheinfeld des Warenkorbs ein: 20 % im ersten Zeitraum auf den Hosting-Tarif. Prüfen Sie die Domain im Warenkorb, bevor Sie zahlen.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Prüfen Sie die Domain im Warenkorb, bevor Sie zahlen.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149291,7 +149142,7 @@ export const reviewsData: unknown[] = [
         "Nehmen Sie den Umzug nur, wenn die Domain seit mehr als 60 Tagen registriert ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen."
       ],
       "skipIf": [
-        "Lassen Sie es, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder die Verlängerung dort günstiger ist: Lassen Sie das DNS zeigen und die Registrierung, wo sie ist.",
+        "Lassen Sie es, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder die Verlängerung dort günstiger ist: Stellen Sie das DNS um und lassen Sie die Registrierung, wo sie ist.",
         "Lassen Sie den Umzug, wenn die Registrierung jünger als 60 Tage ist: Er beginnt nicht.",
         "Lassen Sie es, wenn die Domain auf den Namen oder im Konto eines Freelancers oder einer Agentur läge: Nutzen Sie eine E-Mail-Adresse, die Sie kontrollieren."
       ]
@@ -149399,21 +149250,11 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "PremiumとUnlimitedのホスティングプランで、12か月以上の契約なら、一部の拡張子でアカウントにつき1つ、初年度のドメインが付きます。2年目からは料金表の通常の更新料で更新されます。これはプランの特典であって、選択肢を決める理由ではありません。重いのは更新料です。"
+          "PremiumとUnlimitedのホスティングプランで、12か月以上の契約なら、一部の拡張子でアカウントにつき1つ、初年度のドメインが付きます。2年目からは料金表の通常の更新料で更新されます。これはプランの特典であって、選択肢を決める理由ではありません。大事なのは更新料です。"
         ]
       },
       {
         "heading": "連絡先情報のプライバシー",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "連絡先情報のプライバシー（RDAP、旧WHOIS）は、対応する拡張子では含まれています。"
         ]
@@ -149470,7 +149311,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20クーポンと料金",
         "paragraphs": [
-          "カートのクーポン欄にコード**SONAR20**を入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。更新は試していないので、カートで料金を確認してください。ドメイン単独の購入は、カートに表示される金額がすべてです。コードを入れる場所は[SONAR20クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)、プランは[Hostingerのページ](/ja/coupons/hostinger)にあります。"
+          "カートのクーポン欄に**SONAR20**と入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。更新は試していないので、カートで料金を確認してください。ドメイン単独の購入は、カートに表示される金額がすべてです。コードを入れる場所は[SONAR20クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)、プランは[Hostingerのページ](/ja/coupons/hostinger)にあります。"
         ]
       },
       {
@@ -149484,15 +149325,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "執筆者",
         "paragraphs": [
-          "Em Casa com CecíliaはHostingerのマネージドホスティングでNode.js Web Appとして動いており、ドメインemcasacomcecilia.comは2024年からHostingerで登録されています（公開レジストリのRDAP）。チームの誰もドメインを移管したことはありません。この記事は、Hostingerのドメインと移管のページが書いていることをまとめたものです。"
+          "Em Casa com CecíliaはHostingerのマネージドホスティングでNode.js Web Appとして動いており、ドメインemcasacomcecilia.comは2024年からHostingerで登録されています（公開RDAP記録）。チームの誰もドメインを移管したことはありません。この記事は、Hostingerのドメインと移管のページが書いていることをまとめたものです。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れると、ホスティングプランの最初の期間が20%割引になります。ドメインの金額は支払う前にカートで確認してください。",
-      "label": "割引プランを見る",
+      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。カートで価格を確認してください。ドメインの金額も、支払う前にカートで確認してください。",
+      "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -149632,16 +149473,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "연락처 정보 개인정보 보호",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "연락처 정보의 개인정보 보호(RDAP, 예전의 WHOIS)는 호환되는 확장자에 포함되어 있습니다."
         ]
@@ -149688,9 +149519,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "어떤 방법을 고를까",
         "paragraphs": [
-          "**Hostinger에서 구매하세요.** 사이트를 Hostinger에서 호스팅할 예정이고, 도메인, DNS, 갱신을 한 패널에서 관리하고 싶다면 그렇습니다. 결제 전에 갱신 요금을 확인하세요.",
-          "**다른 곳에서 구매하고 연결하세요.** 이미 다른 등록 기관에 도메인이 있거나, 계정을 나누고 싶거나, 그쪽 갱신 요금이 더 저렴하다면 그렇습니다. DNS 연결은 패널에서 설정하는 일이고, 사이트는 똑같이 작동합니다.",
-          "**이전하세요.** 등록한 지 60일이 넘은 도메인만, 그리고 Hostinger의 갱신 요금이 지금 내는 금액보다 나을 때만 하세요. 대부분의 일반 확장자에서는 이전 비용에 1년 등록이 포함되므로 돈을 버리는 것이 아닙니다.",
+          "사이트를 Hostinger에서 호스팅할 예정이고, 도메인, DNS, 갱신을 한 패널에서 관리하고 싶다면 **Hostinger에서 구매하세요**. 결제 전에 갱신 요금을 확인하세요.",
+          "이미 다른 등록 기관에 도메인이 있거나, 계정을 나누고 싶거나, 그쪽 갱신 요금이 더 저렴하다면 **다른 곳에서 구매하고 연결하세요**. DNS 연결은 패널에서 설정하는 일이고, 사이트는 똑같이 작동합니다.",
+          "등록한 지 60일이 넘은 도메인만, 그리고 Hostinger의 갱신 요금이 지금 내는 금액보다 나을 때만 **이전하세요**. 대부분의 일반 확장자에서는 이전 비용에 1년 등록이 포함되므로 돈을 버리는 것이 아닙니다.",
           "잘 모르겠다면 이전하지 마세요. 도메인을 연결하고 등록은 지금 있는 곳에 두세요. 나중에 이전할 수 있고, 사이트는 멈추지 않습니다."
         ],
         "emphasis": "제 사이트라면 도메인과 갱신이 한 패널에 있으니 등록도 호스팅과 함께 두는 쪽을 고를 것입니다."
@@ -149719,8 +149550,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니에 넣으면 호스팅 플랜의 첫 기간에 20%가 할인됩니다. 도메인 금액은 결제 전에 장바구니에서 확인하세요.",
-      "label": "할인 플랜 보기",
+      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 도메인 금액도 결제 전에 장바구니에서 확인하세요.",
+      "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -149860,16 +149691,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "联系信息的隐私保护",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "联系信息的隐私保护（RDAP，原 WHOIS）在兼容的后缀上已包含在内。"
         ]
@@ -149926,7 +149747,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 优惠码与价格",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**第一个周期优惠 20%**，月付或年付套餐都可以，新老客户都适用。续费我们没有测试，请在购物车确认价格。单买域名，以购物车里显示的为准。代码填在哪里，见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)；套餐见 [Hostinger 页面](/zh-hans/coupons/hostinger)。"
+          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期优惠 20%**，月付或年付套餐都可以，新老客户都适用。续费我们没有测试，请在购物车确认价格。单买域名，以购物车里显示的为准。代码填在哪里，见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)；套餐见 [Hostinger 页面](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -149947,8 +149768,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，用于主机套餐：首个周期享 20%。域名金额付款前在购物车核对。",
-      "label": "通过 SONAR20 查看套餐",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认价格。域名金额也请在付款前于购物车核对。",
+      "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -150088,16 +149909,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "聯絡資料的隱私保護",
-        "paragraphs": [],
-        "comparisonTable": {
-          "headers": [],
-          "rows": [
-            [],
-            [],
-            [],
-            []
-          ]
-        },
         "postParagraphs": [
           "聯絡資料的隱私保護（RDAP，原 WHOIS）在相容的後綴上已包含在內。"
         ]
@@ -150175,7 +149986,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車輸入 SONAR20，或從本文連結進入：主機方案首期享 20%。網域的金額，付款前在購物車核對。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。網域的金額也請在付款前於購物車核對。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -150732,7 +150543,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the price in the cart.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -150848,7 +150659,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Tienda pequeña en WordPress (WooCommerce)",
-              "Sí, atento al plan: más productos y visitas piden Premium o Unlimited",
+              "Sí, con atención al plan: más productos y visitas piden Premium o Unlimited",
               "Solo si la tienda crece mucho"
             ],
             [
@@ -150963,7 +150774,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Un VPS es más rápido que el hosting compartido? No lo medimos. Lo que el VPS garantiza son recursos reservados: CPU, memoria y disco son tuyos, mientras que en el compartido el servidor se divide. Para un sitio común, rara vez es el cuello de botella.",
           "¿Puedo empezar en el compartido y pasar a un VPS después? Sí. Son productos distintos: contratas el VPS, instalas el servidor y llevas el sitio. El hosting compartido no se convierte en VPS desde el panel.",
-          "¿Necesito saber Linux para tener un VPS? Sí, lo básico de terminal: instalar programas, actualizar el sistema y leer un log. En el compartido, todo pasa por el panel y no hay terminal obligatoria.",
+          "¿Necesito saber Linux para tener un VPS? Sí, lo básico de terminal: instalar programas, actualizar el sistema y leer un log. En el compartido, todo pasa por el panel y no necesitas usar la terminal.",
           "¿Un VPS aguanta WordPress? Sí, pero tú instalas y mantienes el servidor web, PHP y la base de datos. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor."
         ]
       },
@@ -150977,7 +150788,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. No probamos la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -151089,7 +150900,7 @@ export const reviewsData: unknown[] = [
             [
               "Blog, portfolio ou site d'entreprise sous WordPress",
               "Oui. C'est l'usage typique du forfait",
-              "Inutile"
+              "Pas besoin"
             ],
             [
               "Petite boutique sous WordPress (WooCommerce)",
@@ -151099,12 +150910,12 @@ export const reviewsData: unknown[] = [
             [
               "Site en Node.js",
               "Oui. Le forfait Premium liste Node.js, et ce site tourne ainsi",
-              "Inutile"
+              "Pas besoin"
             ],
             [
               "Plusieurs sites ou des e-mails professionnels",
               "Oui. Premium liste jusqu'à 3 sites, et Unlimited inclut les e-mails",
-              "Inutile"
+              "Pas besoin"
             ],
             [
               "Système propre, avec un programme ou une base absents du panneau",
@@ -151222,7 +151033,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le VPS ni le renouvellement.",
+      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -151251,8 +151062,8 @@ export const reviewsData: unknown[] = [
         "Prenez-le si vous avez un tableau de bord, un bot ou une automatisation (n8n, Docker) qui tourne toute la journée et quelqu'un pour maintenir le serveur."
       ],
       "skipIf": [
-        "Passez votre chemin si c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
-        "Passez votre chemin si vous n'avez jamais ouvert de terminal : installer, mettre à jour, protéger et sauvegarder reviennent à vous."
+        "Laissez tomber si c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
+        "Laissez tomber si vous n'avez jamais ouvert de terminal : installer, mettre à jour, protéger et sauvegarder reviennent à vous."
       ]
     }
   },
@@ -151453,7 +151264,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Il VPS è più veloce dell'hosting condiviso? Non l'abbiamo misurato. Ciò che il VPS garantisce sono risorse riservate: CPU, memoria e disco sono tuoi, mentre sul condiviso il server è diviso. Per un sito comune, raramente è il collo di bottiglia.",
           "Posso iniziare sul condiviso e passare al VPS dopo? Sì. Sono prodotti diversi: sottoscrivi il VPS, installi il server e porti il sito. L'hosting condiviso non si converte in VPS dall'interno del pannello.",
-          "Devo conoscere Linux per avere un VPS? Sì, le basi del terminale: installare programmi, aggiornare il sistema e leggere un log. Sul condiviso, tutto passa dal pannello e non c'è un terminale obbligatorio.",
+          "Devo conoscere Linux per avere un VPS? Sì, le basi del terminale: installare programmi, aggiornare il sistema e leggere un log. Sul condiviso, tutto passa dal pannello e non devi usare il terminale.",
           "Il VPS regge WordPress? Sì, ma installi e mantieni tu il server web, PHP e il database. Sul condiviso, WordPress arriva pronto nel pannello e Hostinger si occupa del server."
         ]
       },
@@ -151555,7 +151366,7 @@ export const reviewsData: unknown[] = [
         "heading": "Was beides ist",
         "paragraphs": [
           "**Shared Hosting** ist ein Server, der unter mehreren Kunden aufgeteilt wird. Hostinger kümmert sich um das System, den Webserver und die Updates; Sie gehen ins Panel, installieren WordPress oder laden die Dateien Ihrer Website hoch, fertig. Bei Hostinger sind das die Tarife Single, Premium und Unlimited sowie Cloud Startup, dieselbe Idee mit mehr Ressourcen.",
-          "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatz. Hostinger übergibt die Maschine mit dem Betriebssystem und dem Root-Zugriff, dem Benutzer, der alles darf. Von da an sind Installation von Webserver, Datenbank und Zertifikat sowie Updates und Sicherheit Ihre Aufgaben. Bei Hostinger sind das die Tarife KVM 1, 2, 4 und 8.",
+          "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatzplatz. Hostinger übergibt die Maschine mit dem Betriebssystem und dem Root-Zugriff, dem Benutzer, der alles darf. Von da an sind Installation von Webserver, Datenbank und Zertifikat sowie Updates und Sicherheit Ihre Aufgaben. Bei Hostinger sind das die Tarife KVM 1, 2, 4 und 8.",
           "Der Unterschied ist nicht „besser oder schlechter“. Es geht darum, wer den Server betreut und wie viele Ressourcen für Sie reserviert sind."
         ]
       },
@@ -151627,7 +151438,7 @@ export const reviewsData: unknown[] = [
             "Tarif",
             "vCPU",
             "RAM",
-            "Speicher"
+            "Speicherplatz"
           ],
           "rows": [
             [
@@ -151696,7 +151507,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Ist ein VPS schneller als Shared Hosting? Das haben wir nicht gemessen. Was ein VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatz gehören Ihnen, während beim Shared Hosting der Server geteilt wird. Bei einer gewöhnlichen Website ist das selten der Engpass.",
+          "Ist ein VPS schneller als Shared Hosting? Das haben wir nicht gemessen. Was ein VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatzplatz gehören Ihnen, während beim Shared Hosting der Server geteilt wird. Bei einer gewöhnlichen Website ist das selten der Engpass.",
           "Kann man mit Shared Hosting anfangen und später zum VPS wechseln? Ja. Es sind verschiedene Produkte: Man schließt den VPS ab, installiert den Server und zieht die Website um. Shared Hosting lässt sich nicht im Panel in einen VPS umwandeln.",
           "Braucht man Linux-Kenntnisse für einen VPS? Ja, die Grundlagen des Terminals: Programme installieren, das System aktualisieren und ein Log lesen. Beim Shared Hosting läuft alles über das Panel, ein Terminal ist nicht nötig.",
           "Schafft ein VPS WordPress? Ja, aber man installiert und wartet Webserver, PHP und Datenbank selbst. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server."
@@ -151712,7 +151523,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Prüfen Sie den VPS-Preis im Warenkorb, bevor Sie zahlen.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -151957,8 +151768,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。20% は最初の期間だけです。",
-      "label": "割引プランを見る",
+      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。カートで価格を確認してください。",
+      "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -152045,7 +151856,7 @@ export const reviewsData: unknown[] = [
         "heading": "둘은 무엇이 다른가",
         "paragraphs": [
           "**공유 호스팅**은 한 서버를 여러 고객이 나눠 쓰는 방식입니다. 시스템, 웹 서버, 업데이트는 호스팅어가 맡고, 이용자는 패널에 들어가 WordPress를 설치하거나 사이트 파일을 올리면 끝입니다. 호스팅어에서는 Single, Premium, Unlimited 플랜과, 같은 방식에 자원을 더한 Cloud Startup이 여기에 해당합니다.",
-          "**VPS**(가상 사설 서버)는 프로세서, 메모리, 디스크가 예약된 나만의 가상 머신입니다. 호스팅어는 운영체제와 root 접근(모든 것을 할 수 있는 사용자)을 갖춘 머신을 넘겨주고, 그다음부터 웹 서버, 데이터베이스, 인증서, 업데이트, 보안은 이용자의 일이 됩니다. 호스팅어에서는 KVM 1, 2, 4, 8 플랜입니다.",
+          "**VPS**(가상 사설 서버)는 프로세서, 메모리, 디스크가 예약된 이용자만의 가상 머신입니다. 호스팅어는 운영체제와 root 접근(모든 것을 할 수 있는 사용자)을 갖춘 머신을 넘겨주고, 그다음부터 웹 서버, 데이터베이스, 인증서, 업데이트, 보안은 이용자의 일이 됩니다. 호스팅어에서는 KVM 1, 2, 4, 8 플랜입니다.",
           "차이는 “어느 쪽이 더 좋으냐”가 아닙니다. 누가 서버를 돌보는지, 그리고 얼마만큼의 자원이 예약되는지의 차이입니다."
         ]
       },
@@ -152202,8 +152013,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니에 넣으면 20% 할인이 첫 기간에 적용됩니다. 갱신 가격은 테스트하지 않았습니다.",
-      "label": "할인 플랜 보기",
+      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -152447,7 +152258,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认价格。",
       "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -152692,7 +152503,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車輸入 SONAR20，或從本文連結進入：20% 折扣只適用於首期。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -153474,7 +153285,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "application-yesstyle-acheter-code-recompense",
-        "title": "Appli YesStyle : comment acheter et où saisir le code récompense CECILIA010"
+        "title": "Appli YesStyle : comment acheter et où saisir le code de récompense CECILIA010"
       },
       {
         "slug": "yesstyle-ou-olive-young-que-choisir",
@@ -153854,7 +153665,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-app-bestellen-reward-code",
-        "title": "YesStyle-App: So bestellst du und wo der Reward Code CECILIA010 hingehört"
+        "title": "YesStyle-App: So bestellen Sie und wo der Reward Code CECILIA010 hingehört"
       },
       {
         "slug": "yesstyle-oder-olive-young-welcher-shop",
