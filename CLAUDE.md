@@ -295,13 +295,15 @@ vídeo, primeiras impressões e uso noturno.
   `ReviewInlineImage` pelo `storeBrand` que o template passa às seções. O `validate:content` exige https, o
   `test:review-i18n` o mesmo `href`, foto a foto, em toda versão da família, e o `test:build-output`, o link sponsored
   com o nome do idioma e o botão fora dele.
-- Banners de campanha da loja ("Publicidade"): as campanhas ficam em `src/lib/storeBanners.ts`, chaveadas pelo
-  `affiliate`, e entram sozinhas em todo artigo da loja, nos 10 idiomas. O `top` vai logo depois da 1ª seção do corpo
+- Banners de campanha da loja ("Publicidade"): cada campanha é um arquivo em `content/campanhas/<id>.json` (o nome é
+  o `id`), com a fonte (`source`) e a data em que foi vista (`verifiedAt`). O `build-index` junta os arquivos em
+  `src/lib/generated/store-banners.ts`, tipado pelo `StoreBanner`, e o `src/lib/storeBanners.ts` guarda só o tipo e
+  as regras. Chaveadas pelo `affiliate`, entram sozinhas em todo artigo da loja, nos 10 idiomas. O `top` vai logo depois da 1ª seção do corpo
   e o `mid` logo antes do FAQ (sem FAQ, da última), pela prop `slots` do `ReviewContentSections`. O banner
   (`ArticlePromoBanner`, de `src/components/review/article/`) fala só da campanha: nunca cita o código da loja nem diz
   que soma com ele. O selo vem de `adLabel` (`articleCopy.ts`). Datas com `-03:00`; o artigo é gerado no build, então
   a campanha que começa ou vence entre dois deploys aparece ou some no navegador (`CampaignWindow`): a que ainda não
-  começou vai no payload e fica fora do HTML. O `test:store-banners` avisa para tirar a vencida do arquivo. Campanha
+  começou vai no payload e fica fora do HTML. O `test:store-banners` avisa para apagar o arquivo da vencida. Campanha
   que só vale com o código da loja leva ao nosso artigo sobre ela (`href` `/reviews/<slug>` da mesma loja, com
   `endsAt`), link interno sem sponsored e fora do próprio artigo. O `test:build-output` confere o lugar, o link, o
   `rel` e os textos em todo artigo.

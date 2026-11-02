@@ -4,7 +4,7 @@
 // components (bundler embute como módulo, igual ao literal de hoje).
 // Roda em TODO build (self-healing: drift entre content/ e índice é impossível).
 // Uso: node scripts/content/build-index.mjs
-import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 import { createLocaleSearchIndex, createSearchIndex, getSearchIndexPath } from '../../src/lib/siteSearch.mjs';
 import { loadLocaleSearchStores } from './locale-search-stores.mjs';
@@ -39,6 +39,20 @@ const body =
 mkdirSync(path.join('src', 'lib', 'generated'), { recursive: true });
 writeFileSync(path.join('src', 'lib', 'generated', 'content-index.ts'), banner + body);
 console.log(`ok content-index.ts (${recipes.length} receitas, ${reviews.length} reviews)`);
+
+// As campanhas dos banners das lojas: um arquivo por campanha em content/campanhas/, em ordem de id. O tipo
+// anotado faz o tsc conferir cada campo contra o StoreBanner.
+const campaigns = readdirSync(path.join('content', 'campanhas'))
+  .filter((file) => file.endsWith('.json'))
+  .sort()
+  .map((file) => JSON.parse(readFileSync(path.join('content', 'campanhas', file), 'utf8')));
+writeFileSync(
+  path.join('src', 'lib', 'generated', 'store-banners.ts'),
+  '// GERADO por scripts/content/build-index.mjs a partir de content/campanhas/ — NÃO EDITAR.\n' +
+    "import type { StoreBanner } from '../storeBanners';\n\n" +
+    `export const storeBannersData: StoreBanner[] = ${JSON.stringify(campaigns, null, 2)};\n`
+);
+console.log(`ok store-banners.ts (${campaigns.length} campanhas)`);
 
 // Índice slim de busca para o header (carregado sob demanda no cliente).
 // `terms` já vem em minúsculas e concatenado para o filtro ser um includes() barato.
