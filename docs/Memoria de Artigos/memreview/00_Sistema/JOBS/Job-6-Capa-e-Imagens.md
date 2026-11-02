@@ -58,7 +58,7 @@ loja e o assunto.
 | Tipo | Em cima | Na faixa |
 |---|---|---|
 | Como usar o cupom | Foto do produto | Logo, "Cupom da Cecília", o código no recorte e o desconto ("ATÉ 10%" quando é até) |
-| Reclame Aqui | Foto do produto da loja | Logo da loja, o print do topo do perfil no RA e o logo do RA |
+| Reclame Aqui | Foto do produto da loja | O print do topo do perfil no RA (que já traz o nome da loja) e o logo do RA, sem o logo da loja |
 | É confiável | Foto de produto diferente da capa do cupom | Logo, "<Loja> é confiável?" e os selos do perfil no RA, com a data |
 | Comparativo (X ou Y) | Só produto do parceiro, nunca do concorrente | Logo do parceiro e "<X> ou <Y>?" |
 | Black Friday | Foto oficial de produto | Logo e "Black Friday da <loja>", com o assunto do artigo |
@@ -111,9 +111,13 @@ Modelo novo entra nesta tabela antes de ser usado em mais de um artigo.
    npm run covers:render -- --exemplo --out <pasta> # uma capa de cada faixa, como modelo e teste
    ```
 
-   Cada capa tem `top` (`photo`, `grid`, `row` ou `tiles`) e `band` (`title`, `cupom`, `reclame-aqui`
+   Cada capa tem `top` (`photo`, `grid`, `row`, `tiles` ou `scene`) e `band` (`title`, `cupom`, `reclame-aqui`
    ou `selos`), na ordem dos modelos da seção 2; os campos estão no exemplo do `render.mjs`. O gerador
    recusa capa fora de 1600×900, MAUAD e CECILIA010 chamado de cupom.
+   O `scene` monta o cenário da seção 2, item 5: `scene` é a imagem do cenário (1200 px de largura ou mais)
+   e `products` lista os recortes reais, cada um com `src`, `x` (centro, em % da largura), `y` (base, em %
+   da altura do topo, padrão 6), `h` (altura em px) e `rotate` (graus). O gerador põe o produto por cima,
+   com sombra, e recusa recorte sem fundo transparente nos cantos.
 2. **Folha de aprovação:** a capa nova e a capa atual, todas as imagens do corpo, a seção de cada uma, o
    alt e a legenda, e a origem das fotos. O Bruno aprova a folha antes de qualquer upload.
 3. **Com o OK do Bruno:** gravar em `public/images/reviews/<marca>/` e seguir o Guia de mídia

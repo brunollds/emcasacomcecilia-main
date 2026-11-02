@@ -1,12 +1,12 @@
 import assert from 'node:assert/strict';
-import { existsSync, mkdtempSync, readFileSync, rmSync } from 'node:fs';
+import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import test from 'node:test';
 import { fileURLToPath } from 'node:url';
 import sharp from 'sharp';
 import { pageFailures, pageUrl } from './check-pages.mjs';
-import { bandHtml, browser, coverHtml, EXEMPLO, guard, render, topHtml } from './render.mjs';
+import { bandHtml, browser, checkScene, coverHtml, EXEMPLO, guard, render, topHtml } from './render.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../..');
 const src = (f) => `file:///${f}`;
@@ -38,9 +38,36 @@ test('monta cada tipo de topo e recusa topo sem imagem', () => {
   assert.equal((topHtml({ grid: ['a.png', 'b.png', 'c.png'] }, src).match(/<img/g) || []).length, 3);
   assert.match(topHtml({ row: ['a.png'] }, src), /class="row"/);
   assert.match(topHtml({ tiles: [{ img: 'a.png', bg: '#000', h: 200 }, 'vs', { img: 'b.png', bg: '#000', h: 200 }] }, src), /class="vs"/);
-  assert.throws(() => topHtml({}, src), /photo, grid, row ou tiles/);
+  assert.throws(() => topHtml({}, src), /photo, grid, row, tiles ou scene/);
 });
 
+test('o cenário vem primeiro e o recorte real do produto por cima, com lugar, tamanho e ângulo', () => {
+  const html = topHtml({ scene: 'cena.jpg', products: [{ src: 'lata.png', x: 50, y: 8, h: 420, rotate: -4 }] }, src);
+  assert.ok(html.indexOf('class="cena"') < html.indexOf('class="produto"'), 'o produto é a última camada');
+  assert.match(html, /left:50%;bottom:8%;height:420px;--rot:-4deg/);
+  assert.throws(() => topHtml({ scene: 'cena.jpg' }, src), /recorte real do produto/);
+  assert.throws(() => topHtml({ scene: 'cena.jpg', products: [{ src: 'lata.png' }] }, src), /src, x e h/);
+});
+
+test('recusa produto sem fundo transparente e cenário estreito', async () => {
+  const dir = mkdtempSync(path.join(os.tmpdir(), 'capas-cena-'));
+  try {
+    const img = (w, alpha) => sharp({ create: { width: w, height: 100, channels: alpha ? 4 : 3, background: alpha ? { r: 0, g: 0, b: 0, alpha: 0 } : '#fff' } }).png().toBuffer();
+    writeFileSync(path.join(dir, 'cena.png'), await img(1600, false));
+    writeFileSync(path.join(dir, 'estreita.png'), await img(1000, false));
+    writeFileSync(path.join(dir, 'recorte.png'), await img(200, true));
+    writeFileSync(path.join(dir, 'foto.png'), await img(200, false));
+    // PNG com canal alfa e fundo branco opaco também é recusado
+    writeFileSync(path.join(dir, 'branco.png'), await sharp({ create: { width: 200, height: 100, channels: 4, background: { r: 255, g: 255, b: 255, alpha: 1 } } }).png().toBuffer());
+    const cover = (scene, p) => ({ name: 'x', top: { scene, products: [{ src: p, x: 50, h: 300 }] } });
+    await checkScene(cover('cena.png', 'recorte.png'), dir);
+    await assert.rejects(checkScene(cover('cena.png', 'foto.png'), dir), /fundo transparente/);
+    await assert.rejects(checkScene(cover('cena.png', 'branco.png'), dir), /fundo transparente/);
+    await assert.rejects(checkScene(cover('estreita.png', 'recorte.png'), dir), /abaixo de 1200/);
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
+});
 test('monta cada tipo de faixa', () => {
   const cupom = bandHtml({ kind: 'cupom', logo: 'l.png', code: 'SKEMCASACOMCECILIA', off: '10% OFF' }, src);
   assert.match(cupom, /Cupom da Cecília/);
