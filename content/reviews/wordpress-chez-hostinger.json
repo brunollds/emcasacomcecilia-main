@@ -45,7 +45,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Si vous avez déjà décidé d'utiliser WordPress chez Hostinger, le forfait Premium couvre jusqu'à trois sites. Unlimited, qui inclut des sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Ce qui fait le choix, c'est le nombre de sites, la sauvegarde et le prix du renouvellement, dans le tableau ci-dessous."
+        "Si vous avez déjà décidé d'utiliser WordPress chez Hostinger, le forfait Premium couvre jusqu'à trois sites. Unlimited, qui inclut des sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Le choix dépend du nombre de sites, de la sauvegarde et du prix du renouvellement, dans le tableau ci-dessous."
       ]
     },
     {
@@ -62,7 +62,7 @@
       },
       "bullets": [
         "**Jusqu'à 3 sites : Premium.** Votre blog et deux autres projets, ou un site de test à côté du principal. Il a 20 Go SSD et des sauvegardes hebdomadaires.",
-        "**Plusieurs sites ou une boutique WooCommerce : Unlimited.** Sites illimités, 50 Go NVMe et sauvegardes quotidiennes. Dans une boutique, les commandes et le stock changent chaque jour, et une sauvegarde hebdomadaire laisse une semaine entière de côté.",
+        "**Plusieurs sites ou une boutique WooCommerce : Unlimited.** Sites illimités, 50 Go NVMe et sauvegardes quotidiennes. Dans une boutique, commandes et stock changent chaque jour, et une sauvegarde hebdomadaire laisse une semaine sans sauvegarde.",
         "**Boutique ou site très fréquenté : Cloud Startup.** Sites illimités et 100 Go NVMe. C'est le forfait le plus cher de la page, et son renouvellement est aussi le plus élevé."
       ],
       "postParagraphs": [
@@ -72,7 +72,7 @@
     {
       "heading": "Prix et renouvellement",
       "paragraphs": [
-        "Les prix ci-dessous viennent du site international de Hostinger, en dollars américains, relevés le 30 octobre 2026, sur une durée de 48 mois et au prix promotionnel de la campagne. Le prix par mois est le total divisé par 48. Le renouvellement est le prix mensuel après la première période. Les prix peuvent varier selon le pays et la devise : vérifiez dans le panier :"
+        "Les prix ci-dessous viennent du site international de Hostinger, en dollars américains, relevés le 30 octobre 2026, sur une durée de 48 mois et au prix promotionnel de la campagne. Le prix par mois est le total divisé par 48. Le renouvellement est le prix mensuel après la première période. Les prix peuvent varier selon le pays et la devise. Vérifiez dans le panier :"
       ],
       "comparisonTable": {
         "headers": [
@@ -86,25 +86,25 @@
         "rows": [
           [
             "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-            "US$ 2,49",
-            "US$ 119,52",
-            "US$ 10,99/mois",
+            "2,49 US$",
+            "119,52 US$",
+            "10,99 US$/mois",
             "3 sites, 20 Go SSD",
             "Hebdomadaire"
           ],
           [
             "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-            "US$ 3,49",
-            "US$ 167,52",
-            "US$ 16,99/mois",
+            "3,49 US$",
+            "167,52 US$",
+            "16,99 US$/mois",
             "Sites illimités, 50 Go NVMe",
             "Quotidienne"
           ],
           [
             "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-            "US$ 7,99",
-            "US$ 383,52",
-            "US$ 25,99/mois",
+            "7,99 US$",
+            "383,52 US$",
+            "25,99 US$/mois",
             "Sites illimités, 100 Go NVMe",
             "Voir le panier"
           ]
@@ -122,7 +122,7 @@
       ],
       "bullets": [
         "**Sites et espace.** Premium : 3 sites et 20 Go SSD. Unlimited : sites illimités et 50 Go NVMe. Cloud Startup : sites illimités et 100 Go NVMe.",
-        "**Sauvegardes.** Premium a des sauvegardes hebdomadaires, et Unlimited des sauvegardes quotidiennes. La page ne dit pas quelle sauvegarde a Cloud Startup : vérifiez-le dans le panier.",
+        "**Sauvegardes.** Premium a des sauvegardes hebdomadaires, et Unlimited des sauvegardes quotidiennes. La page ne dit pas quelle sauvegarde a Cloud Startup : vérifiez-la dans le panier.",
         "**Domaine et e-mail.** Ils changent selon le forfait et la période. Vérifiez dans le panier ce qui est offert, et pour combien de temps."
       ]
     },
@@ -155,19 +155,19 @@
     {
       "heading": "Quel forfait choisir : le verdict",
       "paragraphs": [
-        "**Choisissez Premium** si c'est un site, deux ou trois, et que vous publiez de temps en temps. C'est l'entrée et le renouvellement les moins chers de la page : US$ 10,99 par mois au renouvellement.",
+        "**Choisissez Premium** si c'est un site, deux ou trois, et que vous publiez de temps en temps. C'est l'entrée et le renouvellement les moins chers de la page : 10,99 US$ par mois au renouvellement.",
         "**Choisissez Unlimited** si vous avez une boutique ou plusieurs sites. La sauvegarde quotidienne est la raison principale, et elle commence ici.",
-        "**Cloud Startup** n'a de sens que si Unlimited ne suffit pas. C'est le plus cher, et le renouvellement à US$ 25,99 par mois pèse lourd."
+        "**Cloud Startup** n'a de sens que si Unlimited ne suffit pas. C'est le plus cher, et le renouvellement à 25,99 US$ par mois pèse lourd."
       ]
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "Quel est le forfait WordPress le moins cher de Hostinger ? Le Premium, à US$ 2,49 par mois sur 48 mois (US$ 119,52 au total), pour jusqu'à 3 sites. Il se renouvelle à US$ 10,99 par mois.",
+        "Quel est le forfait WordPress le moins cher de Hostinger ? Le Premium, à 2,49 US$ par mois sur 48 mois (119,52 US$ au total), pour jusqu'à 3 sites. Il se renouvelle à 10,99 US$ par mois.",
         "WordPress est-il installé chez Hostinger ? Vous l'installez depuis le panneau d'hébergement, sans télécharger de fichiers à la main. La liste ci-dessus détaille les étapes.",
         "Quel forfait WordPress pour une boutique en ligne ? Unlimited, pour ses sauvegardes quotidiennes et ses sites illimités. Pour une boutique très fréquentée, Cloud Startup.",
         "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? Nous ne l'avons pas testé là-dessus ; vérifiez le prix dans le panier. Là où il fonctionne, il donne 20 % sur la première période.",
-        "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, US$ 10,99 par mois."
+        "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, 10,99 US$ par mois."
       ]
     },
     {

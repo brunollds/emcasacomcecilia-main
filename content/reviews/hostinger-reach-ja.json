@@ -51,7 +51,7 @@
     {
       "heading": "誰にどれを選ぶか：早見表",
       "paragraphs": [
-        "大事なのは、どのツールが一番良いかではなく、リストに何人いるか、月に何通送るか、WhatsApp が必要かです。下の表は、2026年10月30日時点の Hostinger、Mailchimp、Brevo の料金ページに書かれていた内容を、利用者別にまとめたものです。"
+        "大事なのは、どのツールが一番良いかではなく、リストに何人いるか、月に何通送るか、WhatsApp が必要かです。下の表は、Hostinger、Mailchimp、Brevo の料金ページに書かれていた内容を、利用者別にまとめたものです。"
       ],
       "comparisonTable": {
         "headers": [
@@ -63,7 +63,7 @@
           [
             "リストが小さく、予算をかけずに始める",
             "Brevo か Mailchimp の無料プラン",
-            "Brevo の無料プランは、カード登録なしで1日最大300通まで。Mailchimp は250件未満なら無料です。Reach は3つのプランすべて有料です。"
+            "Brevo の無料プランは、カード登録なしで1日300通まで。Mailchimp は250件未満なら無料です。Reach は3つのプランすべて有料です。"
           ],
           [
             "Hostinger のサイトがあり、リストは500件まで",
@@ -117,7 +117,7 @@
             "US$ 1.49"
           ],
           [
-            "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+            "[Grow（Reach 500）](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
             "US$ 1.74（合計 US$ 20.92）",
             "US$ 2.49"
           ],
@@ -205,7 +205,7 @@
       "bullets": [
         "Hostinger Reach は買う価値がある？ Hostinger のサイトがあり、宛先が1,000件までなら、はいです。Grow は12か月で月 US$ 1.74、更新時は月 US$ 2.49 でした。",
         "Hostinger Reach の料金はいくら？ 国際サイトでは、12か月の月額が Starter US$ 1.49、Grow US$ 1.74、Pro US$ 2.79で、更新時はそれぞれ US$ 1.49、US$ 2.49、US$ 3.99です。国や通貨によって変わることがあります。",
-        "Hostinger Reach に無料プランはある？ ありません。3つのプランとも有料です。Mailchimp は250件未満なら無料、Brevo は1日最大300通まで無料です。",
+        "Hostinger Reach に無料プランはある？ ありません。3つのプランとも有料です。Mailchimp は250件未満なら無料、Brevo は1日300通まで無料です。",
         "Hostinger Reach に WhatsApp はある？ あります。Pro だけです。1通ごとの料金はページに書かれていないので、管理画面で確認してください。",
         "Reach 500 とは何？ カートで Grow に付いている名前で、宛先500件の上限を指します。月3,500通送れます。",
         "Hostinger Reach と Mailchimp、どちらが良い？ 宛先が1,000件までなら Reach です。無料で始めたい、またはリストがもっと大きいなら Mailchimp か Brevo です。",

@@ -152784,7 +152784,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Who reviews, and from where",
         "paragraphs": [
-          "The profile we read, the one for www.yesstyle.com, is global: it doesn't separate reviews by country, and the page doesn't say how many came from each country. The score brings together buyers from different countries, with different shipping, delivery times and customs.",
+          "The profile for www.yesstyle.com is global: it doesn't separate reviews by country, and the page doesn't say how many came from each country. The score brings together buyers from different countries, with different shipping, delivery times and customs.",
           "For anyone buying, this changes how to read it: the score tells you how the store behaves overall, not what delivery is like at your address. That information is in the checkout and in the store's shipping table, not on Trustpilot.",
           "Who operates the store, the Hong Kong headquarters and the parent company are covered in [Is YesStyle legit?](/en/reviews/is-yesstyle-legit-and-safe-review)."
         ]
@@ -152837,7 +152837,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "What we can't conclude",
+        "heading": "What can't be concluded",
         "paragraphs": [
           "The score answers one question, not all of them. Four things the reading doesn't support:"
         ],
@@ -152957,7 +152957,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué mide la nota",
         "paragraphs": [
-          "El TrustScore es la calificación del perfil en Trustpilot. YesStyle tenía 4,4, con la etiqueta «Excellent», en 104.552 opiniones; 11.757 de ellas se publicaron en los últimos 12 meses. El perfil está reclamado por la empresa y tiene suscripción de pago de Trustpilot, como informa la propia página.",
+          "El TrustScore es la calificación del perfil en Trustpilot. YesStyle tenía 4,4, con la etiqueta «Excellent», en 104.552 opiniones; 11.757 de ellas se publicaron en los últimos 12 meses. La empresa ha reclamado el perfil y tiene suscripción de pago de Trustpilot, como informa la propia página.",
           "La distribución por estrellas, en la misma lectura: 71 % de cinco estrellas, 18 % de cuatro, 3 % de tres, 1 % de dos y 7 % de una. Cinco y cuatro estrellas suman la mayor parte; la nota de una estrella, con 7 %, pesa más que las de dos y tres juntas, y es ahí donde aparecen las quejas."
         ],
         "image": {
@@ -153084,7 +153084,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Si vas a comprar, revisa el costo de envío y el plazo para tu país en el checkout antes de pagar y guarda el número de pedido.",
+      "text": "Si vas a comprar, revisa el coste de envío y el plazo para tu país en el checkout antes de pagar y guarda el número de pedido.",
       "label": "Ir a YesStyle",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -153583,7 +153583,7 @@ export const reviewsData: unknown[] = [
           "Sorgfältige Verpackung.",
           "Hilfreiche Versandbenachrichtigungen.",
           "Lieferung, die manchmal früher als angegeben ankommt.",
-          "App und Website sind einfach zu bedienen."
+          "Einfach zu bedienende App und Website."
         ],
         "postParagraphs": [
           "Lob und Beschwerde sprechen von verschiedenen Momenten des Kaufs: das Lob vom Sortiment, vom Preis und vom Paket, das ankam; die Beschwerde vom Paket, das lange brauchte oder nicht ankam. Die Note vereint beides."
@@ -153802,7 +153802,7 @@ export const reviewsData: unknown[] = [
         "heading": "当サイトの確認",
         "paragraphs": [
           "2026年10月28日に、ログインせずにYesStyleのTrustpilot公開プロフィールを読みました。評価、レビュー数、星ごとの内訳、返信率、表示されているレビューです。テーマはそこから書き出しました。",
-          "ショップのアプリで、購入はせずにチェックアウトを確認しました。リワードコードの入力欄があります。",
+          "ショップのアプリで、購入はせずにチェックアウトをテストして確認しました。リワードコードの入力欄があります。",
           "Trustpilotの数字は毎月変わります。購入する日にプロフィールを確認してください。"
         ],
         "image": {
@@ -153907,7 +153907,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "평점이 측정하는 것",
         "paragraphs": [
-          "TrustScore는 Trustpilot에서 프로필이 받은 평점입니다. YesStyle은 리뷰 104,552건에 4.4점, 등급 표시는 \"Excellent\"였습니다. 그중 11,757건이 최근 12개월 안에 올라온 리뷰입니다. 페이지에 나와 있듯이 이 프로필은 기업이 직접 관리하고 있으며 Trustpilot 유료 구독 중입니다.",
+          "TrustScore는 Trustpilot에서 프로필이 받은 평점입니다. YesStyle은 리뷰 104,552건에 4.4점, 등급 표시는 \"Excellent\"였습니다. 그중 11,757건이 최근 12개월 안에 올라온 리뷰입니다. 페이지에 나와 있듯이 이 프로필은 기업이 소유권을 주장한 것이며 Trustpilot 유료 구독 중입니다.",
           "같은 시점의 별점 분포는 별 다섯 개 71%, 네 개 18%, 세 개 3%, 두 개 1%, 한 개 7%입니다. 다섯 개와 네 개가 대부분을 차지합니다. 별 한 개 7%는 두 개와 세 개를 합친 것보다 많고, 불만이 나오는 곳이 바로 여기입니다."
         ],
         "image": {
@@ -153962,7 +153962,7 @@ export const reviewsData: unknown[] = [
           "다양한 한국 뷰티 제품.",
           "꼼꼼한 포장.",
           "유용한 발송 알림.",
-          "예정보다 일찍 도착하는 배송.",
+          "가끔 예정보다 일찍 도착하는 배송.",
           "쓰기 쉬운 앱과 웹사이트."
         ],
         "postParagraphs": [
@@ -153992,7 +153992,7 @@ export const reviewsData: unknown[] = [
         "heading": "저희의 확인",
         "paragraphs": [
           "2026년 10월 28일에 로그인 없이 Trustpilot의 YesStyle 공개 프로필을 읽었습니다. 평점, 리뷰 수, 별점 분포, 답변율, 그리고 보이는 리뷰이며, 주제는 이 리뷰에서 나왔습니다.",
-          "쇼핑몰 앱에서는 구매 없이 결제 화면을 확인했습니다. 결제 화면에는 리워드 코드를 넣는 칸이 있습니다.",
+          "쇼핑몰 앱에서는 구매 없이 결제 화면을 직접 테스트해 확인했습니다. 결제 화면에는 리워드 코드를 넣는 칸이 있습니다.",
           "Trustpilot 수치는 매달 바뀝니다. 구매하는 날 프로필을 확인하세요."
         ],
         "image": {
@@ -154019,7 +154019,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "결제하기 전에",
         "paragraphs": [
-          "불만이 배송에 몰려 있으니 결제 전에 확인할 것은 결제 화면에 표시되는 자기 나라의 배송비와 배송 기간입니다. 기간을 세는 방식과 금액은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
+          "불만이 배송에 몰려 있으니 결제 전에 확인할 것은 결제 화면에 표시되는 회원님 나라의 배송비와 배송 기간입니다. 기간을 세는 방식과 금액은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
           "결제한 뒤에는 주문 번호와 운송장 번호를 보관해 두세요. 소포가 늦어지거나 배송 추적이 멈췄을 때 고객센터에 문의하려면 이 두 가지가 필요합니다.",
           "구매하기로 했다면, 이 사이트의 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle) 페이지에서 쇼핑몰로 갈 수 있습니다. 제휴 링크입니다. 이 링크로 구매하면 Em Casa com Cecília에 수수료가 생길 수 있으며, 추가 비용은 없습니다."
         ]
@@ -154034,7 +154034,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "구매하기로 했다면, 결제 전에 결제 화면에서 여러분 나라의 배송비와 배송 기간을 확인하고 주문 번호를 보관하세요.",
+      "text": "구매하기로 했다면, 결제 전에 결제 화면에서 회원님이 계신 나라의 배송비와 배송 기간을 확인하고 주문 번호를 보관하세요.",
       "label": "YesStyle로 이동",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -154097,7 +154097,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "评分衡量的是什么",
         "paragraphs": [
-          "TrustScore 是个人主页在 Trustpilot 上的评分。YesStyle 的评分为 4.4，标签是“Excellent”，共 104,552 条评价，其中 11,757 条发布于最近 12 个月。如页面所示，这个主页由公司认领，并订阅了 Trustpilot 的付费服务。",
+          "TrustScore 是商家主页在 Trustpilot 上的评分。YesStyle 的评分为 4.4，标签是“Excellent”，共 104,552 条评价，其中 11,757 条发布于最近 12 个月。如页面所示，这个主页由公司认领，并订阅了 Trustpilot 的付费服务。",
           "同一次读取中的星级分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起来还多，投诉就出现在这里。"
         ],
         "image": {
@@ -154114,7 +154114,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "谁在评价，来自哪里",
         "paragraphs": [
-          "我们读取的主页（www.yesstyle.com）是全球通用的：它不按国家区分评价，页面也没有说各个国家分别有多少条。这个评分把来自不同国家的买家合在一起，而他们的运费、时效和关税都不一样。",
+          "本次读取的主页（www.yesstyle.com）是全球通用的：它不按国家区分评价，页面也没有说各个国家分别有多少条。这个评分把来自不同国家的买家合在一起，而他们的运费、时效和关税都不一样。",
           "对准备购买的人来说，这会改变解读方式：评分说明的是商店整体的表现，而不是寄到你的地址会怎样。这个信息在结账页面和商店的运费表里，不在 Trustpilot 上。",
           "运营商店的公司、香港总部和母公司的信息，见 [YesStyle 可靠吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)。"
         ]
@@ -154209,7 +154209,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "付款之前",
         "paragraphs": [
-          "投诉集中在配送上，所以付款前要核对的是你所在国家的运费和送达时间，它们会显示在结账页面。时效的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+          "投诉集中在配送上，所以付款前要核对的是你所在国家的运费和送达时间，它们会显示在结账页面。送达时间的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
           "付款之后，请保存订单号和物流追踪码：如果包裹延误或物流追踪停止，联系客服时需要用到它们。",
           "如果你已经决定购买，本站的 [YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)页面会带你去商店。这是联盟链接：通过它购买，Em Casa com Cecília 可能获得佣金，你不需要多付费用。"
         ]
@@ -154224,7 +154224,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "如果要买，付款前请在结账页面确认你所在地区的运费和时效，并保存好订单号。",
+      "text": "如果要买，付款前请在结账页面确认你所在国家的运费和时效，并保存好订单号。",
       "label": "前往 YesStyle",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -154304,7 +154304,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "誰在評價，來自哪裡",
         "paragraphs": [
-          "我們讀取的檔案（www.yesstyle.com）是全球通用的：它不按國家區分評價，頁面也沒有說各個國家分別有多少則。這個評分把來自不同國家的買家合在一起，而他們的運費、時效和關稅都不一樣。",
+          "本次讀取的檔案（www.yesstyle.com）是全球通用的：它不按國家區分評價，頁面也沒有說各個國家分別有多少則。這個評分把來自不同國家的買家合在一起，而他們的運費、時效和關稅都不一樣。",
           "對準備購買的人來說，這會改變解讀方式：評分說明的是商店整體的表現，而不是寄到你的地址會怎樣。這個資訊在結帳頁面和商店的運費表裡，不在 Trustpilot 上。",
           "營運商店的公司、香港總部和母公司的資訊，見 [YesStyle 可靠嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)。"
         ]
@@ -154359,7 +154359,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "無法得出的結論",
         "paragraphs": [
-          "評分回答的是一個問題，而不是所有問題。這次讀取無法支持的四點："
+          "評分回答的是一個問題，而不是所有問題。這次讀取無法支援的四點："
         ],
         "bullets": [
           "評分適用於你所在的國家：檔案是全球通用的，不按來源國家區分評價。",
@@ -154399,7 +154399,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "付款之前",
         "paragraphs": [
-          "投訴集中在運送上，所以付款前要核對的是你所在國家的運費和送達時間，它們會顯示在結帳頁面。時效的計算方式和金額見 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+          "投訴集中在運送上，所以付款前要核對的是你所在國家的運費和送達時間，它們會顯示在結帳頁面。送達時間的計算方式和金額見 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
           "付款之後，請保存訂單編號和物流追蹤碼：如果包裹延誤或物流追蹤停止，聯絡客服時需要用到它們。",
           "如果你已經決定購買，本站的 [YesStyle 優惠券和獎勵碼](/zh-hant/coupons/yesstyle)頁面會帶你去商店。這是聯盟連結：透過它購買，Em Casa com Cecília 可能獲得傭金，你不需要多付費用。"
         ]
@@ -154414,7 +154414,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "如果要買，付款前請在結帳頁面確認你所在地區的運費和時效，並保存好訂單編號。",
+      "text": "如果要買，付款前請在結帳頁面確認你所在國家的運費和時效，並保存好訂單編號。",
       "label": "前往 YesStyle",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -154823,7 +154823,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué mide la calificación",
         "paragraphs": [
-          "El TrustScore es la calificación del perfil en Trustpilot. Suma la compra entera, no solo la calidad de los artículos. El 28 de octubre de 2026, SHEIN tenía 3,8, con la etiqueta \"Great\" en la versión en inglés del sitio, con 353.435 opiniones; 22.625 de ellas se publicaron en los últimos 12 meses. El perfil está reclamado por la empresa y tiene una suscripción paga de Trustpilot, como informa la propia página.",
+          "El TrustScore es la calificación del perfil en Trustpilot. Suma la compra entera, no solo la calidad de los artículos. El 28 de octubre de 2026, SHEIN tenía 3,8, con la etiqueta \"Great\" en la versión en inglés del sitio, con 353.435 opiniones; 22.625 de ellas se publicaron en los últimos 12 meses. El perfil está reclamado por la empresa y tiene una suscripción de pago, como informa la propia página.",
           "La distribución por estrellas, en la misma lectura: 59 % de cinco estrellas, 12 % de cuatro, 6 % de tres, 5 % de dos y 18 % de una. Cinco y cuatro estrellas suman la mayor parte."
         ],
         "image": {
@@ -155276,7 +155276,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ci si può fidare di SHEIN guardando Trustpilot?",
         "paragraphs": [
-          "Da Trustpilot, i numeri sono questi: TrustScore 3,8, «Great», su 353.435 recensioni, il 59% di cinque stelle e il 18% di una, con il 98% delle negative con una risposta, di solito entro 24 ore.",
+          "Da Trustpilot, i numeri sono questi: TrustScore 3,8, «Great», su 353.435 recensioni, il 59% di cinque stelle e il 18% di una, con risposta al 98% delle negative, di solito entro 24 ore.",
           "Le riserve sono di ambito e di tema. Il profilo è globale e non separa i paesi, quindi dice come si comporta il negozio nell’insieme, non come andrà un ordine al tuo indirizzo. E i reclami parlano di pacchi non consegnati e di rimborsi in ritardo o negati: è la parte dell’acquisto in cui sta il rischio, e il punteggio da solo non dice quanto spesso succeda."
         ]
       },
@@ -155284,7 +155284,7 @@ export const reviewsData: unknown[] = [
         "heading": "Prima di pagare",
         "paragraphs": [
           "I reclami indicano cosa proteggere. Compra dal sito o dall’app ufficiale di SHEIN del tuo paese e conserva la ricevuta del pagamento e il codice di tracciamento: mostrano cosa è stato pagato e dove si è fermato il pacco.",
-          "Se il pacco non arriva o l’articolo è sbagliato, chiedi il rimborso dal canale del negozio, sul sito o nell’app, e conserva la ricevuta del reso se rispedisci qualcosa.",
+          "Se il pacco non arriva o l’articolo è sbagliato, chiedi il rimborso tramite il canale del negozio, sul sito o nell’app, e conserva la ricevuta del reso se rispedisci qualcosa.",
           "Prima di comprare, apri alcune recensioni a una stella sul profilo e leggi la risposta del negozio sotto ciascuna, soprattutto quelle sui pacchi non consegnati e sui rimborsi.",
           "Chi gestisce SHEIN nel tuo paese e da dove viene l’azienda è in [SHEIN è affidabile e sicuro?](/it/reviews/shein-e-affidabile-e-sicuro).",
           "Se hai deciso di comprare, la [pagina di SHEIN](/it/coupons/shein) porta al sito ufficiale."
@@ -155301,7 +155301,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Se decidi di comprare, entra dal sito o dall’app ufficiale di SHEIN e conserva la conferma dell’ordine e il codice di tracciamento.",
+      "text": "Se decidi di comprare, entra dal sito o dall’app ufficiale di SHEIN e conserva la ricevuta e il codice di tracciamento.",
       "label": "Vai su SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -155480,7 +155480,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Wenn Sie kaufen, gehen Sie über die offizielle Website oder App von SHEIN und bewahren Sie Bestellbestätigung und Sendungsnummer auf.",
+      "text": "Wenn Sie kaufen, gehen Sie über die offizielle Website oder App von SHEIN und bewahren Sie Zahlungsbeleg und Sendungsnummer auf.",
       "label": "Zu SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -155540,7 +155540,7 @@ export const reviewsData: unknown[] = [
         "heading": "この評価が測っているもの",
         "paragraphs": [
           "TrustScore は、Trustpilot 上のプロフィールの評価です。2026年10月28日に確認した時点で、SHEIN は 3.8、レビューは 353,435 件で、そのうち 22,625 件は直近 12 か月のものでした。プロフィールは企業が請求済みで、ページに書かれているとおり Trustpilot の有料契約があります。",
-          "同じ日の星ごとの分布は、星 5 つが 59%、星 4 つが 12%、星 3 つが 6%、星 2 つが 5%、星 1 つが 18% でした。星 5 つと星 4 つで大半を占め、星 1 つは星 2 つと星 3 つを合わせた割合より大きくなっています。苦情はそこに集まっています。",
+          "同じ日の星ごとの分布は、星 5 つが 59%、星 4 つが 12%、星 3 つが 6%、星 2 つが 5%、星 1 つが 18% でした。星 5 つと星 4 つで大半を占めています。",
           "この評価は、商品の質ではなく、レビューを書いた人の受け止め方をまとめたものです。商品、配送、対応がひとつの星にまとまっています。"
         ],
         "image": {
@@ -155641,7 +155641,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "支払う前に",
         "paragraphs": [
-          "数字が示すのは、保管しておくものです。支払いの控えと注文の追跡番号を保存してください。いちばん多い苦情は荷物が届かないことで、この二つが、何を支払い、荷物がどこで止まったかを示します。",
+          "数字が示すのは、保管しておくものです。支払いの控えと注文の追跡番号を保存してください。この二つが、何を支払い、荷物がどこで止まったかを示します。",
           "荷物が届かないときは、サイトかアプリの店の窓口から返金を申請してください。",
           "返品のルールは [SHEIN のブラックフライデーガイド](/ja/reviews/shein-black-friday-ja)にあります。SHEIN を運営しているのは誰で、どこの国の会社かは、[SHEIN は信頼できる？](/ja/reviews/shein-trust-guide-ja)をご覧ください。",
           "買うと決めたなら、[SHEIN のページ](/ja/coupons/shein)から公式サイトに行けます。"
@@ -155658,7 +155658,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "買うなら、SHEIN の公式サイトか公式アプリから入り、注文確認と追跡番号を保存してください。",
+      "text": "買うなら、SHEIN の公式サイトか公式アプリから入り、領収書と追跡番号を保存してください。",
       "label": "SHEIN へ行く",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -155718,7 +155718,7 @@ export const reviewsData: unknown[] = [
         "heading": "평점이 측정하는 것",
         "paragraphs": [
           "TrustScore는 Trustpilot 프로필의 평점입니다. 2026년 10월 28일에 확인한 SHEIN의 TrustScore는 3.8이고, 리뷰는 353,435건이며, 그중 22,625건이 최근 12개월 안에 올라왔습니다. 프로필은 회사가 인증해 관리하며, 페이지에 적힌 대로 Trustpilot 유료 구독을 이용합니다.",
-          "같은 날의 별점 분포는 별 다섯 개 59%, 네 개 12%, 세 개 6%, 두 개 5%, 한 개 18%입니다. 다섯 개와 네 개가 대부분을 차지하고, 별 한 개는 두 개와 세 개를 합친 것보다 많습니다. 불만은 바로 여기에 모여 있습니다.",
+          "같은 날의 별점 분포는 별 다섯 개 59%, 네 개 12%, 세 개 6%, 두 개 5%, 한 개 18%입니다. 다섯 개와 네 개가 대부분을 차지합니다.",
           "이 평점은 상품의 품질이 아니라 리뷰를 쓴 사람들의 평가를 모은 것입니다. 상품, 배송, 고객 지원이 별점 하나에 함께 들어갑니다."
         ],
         "image": {
@@ -155734,7 +155734,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "첫째, 별 한 개 18%입니다. 다섯 건 중 한 건 가까이가 최저 평점이고, 이는 별 두 개와 세 개를 합친 11%보다 많습니다.",
           "둘째, 답변과 해결은 다릅니다. SHEIN은 부정적 리뷰의 98%에 답했고 보통 24시간 이내였습니다. 페이지는 답변에 AI를 쓸 수 있다고도 알립니다. 다만 답변의 본문은 읽지 않았으므로, 불만을 제기한 사람의 문제가 해결되었는지는 숫자로 알 수 없습니다.",
-          "셋째, 숫자는 글로벌입니다. 프로필은 나라별로 나뉘지 않아서, 배송비, 배송 기간, 통관 조건이 서로 다른 여러 나라의 고객이 한 평점에 들어 있습니다. 회원님이 계신 나라의 배송이 어떨지는 이 숫자로 알 수 없습니다."
+          "셋째, 숫자는 글로벌입니다. 프로필은 나라별로 나뉘지 않아서, 배송비, 배송 기간, 통관 조건이 서로 다른 여러 나라의 고객이 한 평점에 들어 있습니다. 여러분이 계신 나라의 배송이 어떨지는 이 숫자로 알 수 없습니다."
         ]
       },
       {
@@ -155777,8 +155777,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: 누가, 어디에서 평가하나",
         "paragraphs": [
-          "읽은 프로필은 www.shein.com의 프로필 하나로, 글로벌 프로필입니다. 리뷰를 나라별로 나누지 않고, 회원님이 계신 나라나 다른 나라에서 온 리뷰가 몇 건인지도 페이지에 나오지 않습니다.",
-          "Trustpilot의 영국 지역 사이트도 같은 프로필과 같은 숫자를 보여 주었습니다. 다른 지역 사이트는 열어 보지 않았습니다. 이 평점은 회사가 전체적으로 어떻게 움직이는지를 말해 줄 뿐, 회원님 주소로 오는 배송이 어떤지를 말해 주지는 않습니다."
+          "읽은 프로필은 www.shein.com의 프로필 하나로, 글로벌 프로필입니다. 리뷰를 나라별로 나누지 않고, 여러분이 계신 나라나 다른 나라에서 온 리뷰가 몇 건인지도 페이지에 나오지 않습니다.",
+          "Trustpilot의 영국 지역 사이트도 같은 프로필과 같은 숫자를 보여 주었습니다. 다른 지역 사이트는 열어 보지 않았습니다. 이 평점은 회사가 전체적으로 어떻게 움직이는지를 말해 줄 뿐, 여러분 주소로 오는 배송이 어떤지를 말해 주지는 않습니다."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
@@ -155810,16 +155810,16 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Trustpilot로 SHEIN을 믿을 수 있을까요?",
+        "heading": "Trustpilot으로 SHEIN을 믿을 수 있을까요?",
         "paragraphs": [
-          "Trustpilot로 보면 SHEIN은 평점이 좋은 편이고 답변도 합니다. 2026년 10월 28일 기준 TrustScore 3.8, 리뷰 353,435건 중 59%가 별 다섯 개였고, 부정적 리뷰의 98%에 답변이 달렸습니다.",
+          "Trustpilot으로 보면 SHEIN은 평점이 좋은 편이고 답변도 합니다. 2026년 10월 28일 기준 TrustScore 3.8, 리뷰 353,435건 중 59%가 별 다섯 개였고, 부정적 리뷰의 98%에 답변이 달렸습니다.",
           "단서는 세 가지입니다. 불만이 받지 못한 소포와 환불에 몰려 있고 별 한 개가 18%라는 점, 답변율이 높아도 문제가 해결되었다는 뜻은 아니라는 점, 그리고 프로필이 글로벌이어서 회원님이 계신 나라의 배송을 보여 주지 않는다는 점입니다."
         ]
       },
       {
         "heading": "결제 전에",
         "paragraphs": [
-          "숫자는 무엇을 보관해야 하는지 알려 줍니다. 결제 내역과 주문의 운송장 번호를 저장하세요. 가장 많은 불만이 소포가 오지 않는 것이고, 이 둘이 무엇을 결제했고 소포가 어디에서 멈췄는지 보여 줍니다.",
+          "숫자는 무엇을 보관해야 하는지 알려 줍니다. 결제 내역과 주문의 운송장 번호를 저장하세요. 이 둘이 무엇을 결제했고 소포가 어디에서 멈췄는지 보여 줍니다.",
           "소포가 오지 않으면 사이트나 앱의 회사 채널로 환불을 요청하세요.",
           "반품 규정은 [SHEIN 블랙프라이데이 가이드](/ko/reviews/shein-black-friday-ko)에 있습니다. 누가 SHEIN을 운영하고 어느 나라 회사인지는 [SHEIN은 믿을 만한가요?](/ko/reviews/shein-trust-guide-ko)에서 볼 수 있습니다.",
           "구매를 결정했다면 [SHEIN 페이지](/ko/coupons/shein)가 공식 사이트로 연결합니다."
@@ -155896,7 +155896,7 @@ export const reviewsData: unknown[] = [
         "heading": "分数衡量的是什么",
         "paragraphs": [
           "TrustScore 是主页在 Trustpilot 上的评分。2026年10月28日读取时，SHEIN 为 3.8，共 353,435 条评价，其中 22,625 条发布于最近 12 个月。主页由公司认领并管理，并且如页面所写，使用 Trustpilot 的付费订阅。",
-          "同一天的星级分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起来占了大部分，一星比二星和三星加起来还多，投诉就集中在这里。",
+          "同一天的星级分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起来占了大部分。",
           "这个分数汇总的是写评价的人的感受，不是商品的质量。商品、配送和客服被合在同一颗星里。"
         ],
         "image": {
@@ -155969,7 +155969,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "我们的核查",
         "paragraphs": [
-          "2026年10月28日，我们在未登录的情况下读取了 SHEIN 在 Trustpilot 的公开主页，看了这些内容："
+          "2026年10月28日，在未登录的情况下读取了 SHEIN 在 Trustpilot 的公开主页，看了这些内容："
         ],
         "bullets": [
           "分数、评价数量、星级分布，以及负面评价的回复率。",
@@ -155997,7 +155997,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "付款之前",
         "paragraphs": [
-          "数字告诉你该留什么。保存付款凭证和订单的物流单号：最常见的投诉是包裹没到，这两样能证明你付了什么、包裹停在了哪里。",
+          "数字告诉你该留什么。保存付款凭证和订单的物流单号：这两样能证明你付了什么、包裹停在了哪里。",
           "如果包裹没到，通过店家的渠道申请退款，在网站或应用里操作。",
           "退货规则见 [SHEIN 黑色星期五指南](/zh-hans/reviews/shein-black-friday-zh-hans)。想知道谁在运营 SHEIN、它是哪个国家的公司，见 [SHEIN 可靠吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)。",
           "如果你决定购买，[SHEIN 页面](/zh-hans/coupons/shein)会带你去官方网站。"
@@ -156074,7 +156074,7 @@ export const reviewsData: unknown[] = [
         "heading": "分數衡量的是什麼",
         "paragraphs": [
           "TrustScore 是檔案在 Trustpilot 上的評分。2026年10月28日讀取時，SHEIN 為 3.8，共 353,435 則評價，其中 22,625 則發布於最近 12 個月。檔案由公司認領並管理，而且如頁面所寫，使用 Trustpilot 的付費訂閱。",
-          "同一天的星級分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起來佔了大部分，一星比二星和三星加起來還多，投訴就集中在這裡。",
+          "同一天的星級分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起來佔了大部分。",
           "這個分數彙整的是寫評價的人的感受，不是商品的品質。商品、配送和客服被合在同一顆星裡。"
         ],
         "image": {
@@ -156147,7 +156147,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "我們的查核",
         "paragraphs": [
-          "2026年10月28日，我們在未登入的情況下讀取了 SHEIN 在 Trustpilot 的公開檔案，看了這些內容："
+          "2026年10月28日，在未登入的情況下讀取了 SHEIN 在 Trustpilot 的公開檔案，看了這些內容："
         ],
         "bullets": [
           "分數、評價數量、星級分布，以及負面評價的回覆率。",
@@ -156175,7 +156175,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "付款之前",
         "paragraphs": [
-          "數字告訴你該留什麼。保存付款憑證和訂單的物流單號：最常見的投訴是包裹沒到，這兩樣能證明你付了什麼、包裹停在了哪裡。",
+          "數字告訴你該留什麼。保存付款憑證和訂單的物流單號：這兩樣能證明你付了什麼、包裹停在了哪裡。",
           "如果包裹沒到，透過店家的管道申請退款，在網站或 App 裡操作。",
           "退貨規則見 [SHEIN 黑色星期五指南](/zh-hant/reviews/shein-black-friday-zh-hant)。想知道誰在營運 SHEIN、它是哪個國家的公司，見 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)。",
           "如果你決定購買，[SHEIN 頁面](/zh-hant/coupons/shein)會帶你去官方網站。"
@@ -159196,7 +159196,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "The Reach plans",
         "paragraphs": [
-          "Three paid plans, no free one: Starter, Grow and Pro. At checkout, Grow shows up as “Reach 500”, for its limit of 500 recipients. The prices below are from Hostinger's global page, in US dollars, read on October 30, 2026, during the Black Friday campaign. They can vary by country and currency, and they can change:"
+          "Three paid plans, no free one: Starter, Grow and Pro. At checkout, Grow shows up as “Reach 500”, for its limit of 500 recipients. The prices below are from Hostinger's global page, in US dollars, read on October 30, 2026, during the Black Friday campaign. They can vary by country and currency, and they can change:",
+          "The page gives 30 days to ask for a refund."
         ],
         "comparisonTable": {
           "headers": [
@@ -159415,12 +159416,12 @@ export const reviewsData: unknown[] = [
               "El plan gratis de Brevo envía hasta 300 correos al día, sin tarjeta. Mailchimp es gratis por debajo de 250 contactos. Los tres planes de Reach son de pago."
             ],
             [
-              "Ya tiene sitio en Hostinger y una lista de hasta 500",
+              "Ya tienes sitio en Hostinger y una lista de hasta 500",
               "Reach Grow",
               "1,74 US$ al mes en los primeros 12 meses (renueva a 2,49 US$), 3.500 correos al mes, sin la marca de Reach y con automatizaciones."
             ],
             [
-              "Necesita WhatsApp",
+              "Necesitas WhatsApp",
               "Reach Pro",
               "El WhatsApp solo está en Pro, a 2,79 US$ al mes en los primeros 12 meses (renueva a 3,99 US$). La página no muestra el costo por mensaje. En Brevo, el WhatsApp está en el plan Professional."
             ],
@@ -159439,7 +159440,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-es.webp",
           "alt": "Cuadro Reach, Mailchimp o Brevo por perfil: una lista pequeña que empieza sin presupuesto va al plan gratis de Brevo o de Mailchimp; quien ya tiene sitio en Hostinger y una lista de hasta 500 va a Reach Grow; quien necesita WhatsApp, a Reach Pro; quien superó el límite gratis, hasta 1.000 contactos, a Reach Grow o Pro; una lista de más de 1.000 contactos, a Mailchimp o Brevo",
-          "caption": "El resumen del cuadro: gratis para empezar, Reach hasta 1.000 destinatarios, Mailchimp o Brevo por encima de eso. Cuadro del Em Casa com Cecília, según lo que decían las páginas de precios.",
+          "caption": "El resumen del cuadro: gratis para empezar, Reach hasta 1.000 destinatarios, Mailchimp o Brevo por encima de eso. Cuadro de Em Casa com Cecília, según lo que decían las páginas de precios.",
           "objectFit": "contain",
           "aspectRatio": 1.3846
         },
@@ -159450,7 +159451,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Los planes de Reach",
         "paragraphs": [
-          "Tres planes de pago, ninguno gratis: Starter, Grow y Pro. En el carrito, Grow aparece como “Reach 500”, por su límite de 500 destinatarios. Los precios de abajo son de la página global de Hostinger, en dólares, leídos el 30 de octubre de 2026, durante la campaña de Black Friday. Pueden variar según el país y la moneda, y pueden cambiar:"
+          "Tres planes de pago, ninguno gratis: Starter, Grow y Pro. En el carrito, Grow aparece como “Reach 500”, por su límite de 500 destinatarios. Los precios de abajo son de la página global de Hostinger, en dólares, leídos el 30 de octubre de 2026, durante la campaña de Black Friday. Pueden variar según el país y la moneda, y pueden cambiar:",
+          "La página da 30 días para pedir el reembolso."
         ],
         "comparisonTable": {
           "headers": [
@@ -159533,7 +159535,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupón SONAR20 y precio de Reach",
         "paragraphs": [
           "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**. Bruno lo probó en el Reach 500 de 24 meses, y el descuento se aplicó en el carrito.",
-          "El precio que muestra la página y el del carrito pueden no coincidir el mismo día. Revisa el carrito para ver qué precio vale para ti y cuánto le quita el SONAR20. En los otros planes y períodos de Reach no se probó; revisa el carrito. La regla completa del código está en [cupones de Hostinger](/es/coupons/hostinger)."
+          "El precio que muestra la página y el del carrito pueden no coincidir el mismo día. Revisa el carrito para ver qué precio te corresponde y cuánto le quita el SONAR20. En los otros planes y períodos de Reach no se probó; revisa el carrito. La regla completa del código está en [cupones de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -159560,7 +159562,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quién escribe",
         "paragraphs": [
-          "El Em Casa com Cecília funciona en el hosting gestionado de Hostinger, y el dominio está registrado allí desde 2024. Este texto reúne lo que decían las páginas de precios de los tres y la prueba del SONAR20 en el carrito. Cómo cobra, renueva y devuelve el dinero Hostinger está en [¿Hostinger es confiable?](/es/reviews/hostinger-es-confiable)."
+          "Em Casa com Cecília funciona en el hosting gestionado de Hostinger, y el dominio está registrado allí desde 2024. Este texto reúne lo que decían las páginas de precios de los tres y la prueba del SONAR20 en el carrito. Cómo cobra, renueva y devuelve el dinero Hostinger está en [¿Hostinger es confiable?](/es/reviews/hostinger-es-confiable)."
         ]
       }
     ],
@@ -159633,7 +159635,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Reach convient à qui a déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires ; les listes plus grandes vont vers Mailchimp ou Brevo. Prix mondiaux en dollars américains au 30 octobre 2026, avec le renouvellement.",
+    "description": "Reach convient à ceux qui ont déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires ; les listes plus grandes vont vers Mailchimp ou Brevo. Prix mondiaux en dollars américains au 30 octobre 2026, avec le renouvellement.",
     "metaDescription": "Hostinger Reach vaut-il le coup ? Tableau par profil, forfaits, limites d'envoi, WhatsApp et renouvellement en dollars américains au 30 octobre 2026, face aux forfaits gratuits de Mailchimp et de Brevo.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
@@ -159648,7 +159650,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Reach convient à qui a déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Qui débute sans budget peut d'abord utiliser le forfait gratuit de Mailchimp ou de Brevo. Ce qui tranche, c'est la limite d'envoi et WhatsApp, dans le tableau ci-dessous."
+          "Reach convient à ceux qui ont déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Qui débute sans budget peut d'abord utiliser le forfait gratuit de Mailchimp ou de Brevo. Ce qui tranche, c'est la limite d'envoi et WhatsApp, dans le tableau ci-dessous."
         ]
       },
       {
@@ -159666,7 +159668,7 @@ export const reviewsData: unknown[] = [
             [
               "Petite liste, on débute sans budget",
               "Forfait gratuit de Brevo ou de Mailchimp",
-              "Le forfait gratuit de Brevo envoie jusqu'à 300 e-mails par jour, sans carte. Mailchimp est gratuit sous 250 contacts. Les trois forfaits Reach sont payants."
+              "Le forfait gratuit de Brevo envoie jusqu'à 300 e-mails par jour, sans carte. Mailchimp est gratuit pour moins de 250 contacts. Les trois forfaits Reach sont payants."
             ],
             [
               "Site chez Hostinger et liste jusqu'à 500",
@@ -159704,7 +159706,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Les forfaits Reach",
         "paragraphs": [
-          "Trois forfaits payants, aucun gratuit : Starter, Grow et Pro. Au panier, Grow apparaît sous le nom « Reach 500 », pour sa limite de 500 destinataires. Les prix ci-dessous sont ceux de la page mondiale de Hostinger, en dollars américains, relevés le 30 octobre 2026, pendant la campagne du Black Friday. Ils peuvent varier selon le pays et la devise, et changer :"
+          "Trois forfaits payants, aucun gratuit : Starter, Grow et Pro. Au panier, Grow apparaît sous le nom « Reach 500 », pour sa limite de 500 destinataires. Les prix ci-dessous sont ceux de la page mondiale de Hostinger, en dollars américains, relevés le 30 octobre 2026, pendant la campagne du Black Friday. Ils peuvent varier selon le pays et la devise, et changer :",
+          "La page donne 30 jours pour demander un remboursement."
         ],
         "comparisonTable": {
           "headers": [
@@ -159787,7 +159790,7 @@ export const reviewsData: unknown[] = [
         "heading": "Code SONAR20 et prix de Reach",
         "paragraphs": [
           "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Bruno l'a testé sur Reach 500 pour 24 mois, et la réduction s'est appliquée au panier.",
-          "Le prix affiché sur la page et celui du panier peuvent différer le même jour : vérifiez le panier pour savoir quel prix vaut pour vous et combien le SONAR20 en retire. Pour les autres forfaits et périodes de Reach, il n'a pas été testé ; vérifiez le panier. La règle complète du code est dans [coupons Hostinger](/fr/coupons/hostinger)."
+          "Le prix affiché sur la page et celui du panier peuvent différer le même jour : vérifiez le panier pour savoir quel prix s'applique à vous et combien le SONAR20 en retire. Pour les autres forfaits et périodes de Reach, il n'a pas été testé ; vérifiez le panier. La règle complète du code est dans [coupons Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -159947,7 +159950,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-it.webp",
           "alt": "Quadro Reach, Mailchimp o Brevo per profilo: una lista piccola che parte senza budget sceglie il piano gratuito di Brevo o di Mailchimp; chi ha già un sito su Hostinger e una lista fino a 500 sceglie Reach Grow; chi ha bisogno di WhatsApp sceglie Reach Pro; chi ha superato il limite gratis fino a 1.000 contatti sceglie Reach Grow o Pro; una lista oltre 1.000 contatti sceglie Mailchimp o Brevo",
-          "caption": "Il riassunto del quadro: gratis per iniziare, Reach fino a 1.000 destinatari, Mailchimp o Brevo oltre. Quadro dell'Em Casa com Cecília, con quello che dicevano le pagine dei prezzi.",
+          "caption": "Il riassunto del quadro: gratis per iniziare, Reach fino a 1.000 destinatari, Mailchimp o Brevo oltre. Quadro di Em Casa com Cecília, con quello che dicevano le pagine dei prezzi.",
           "objectFit": "contain",
           "aspectRatio": 1.3846
         },
@@ -160045,7 +160048,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 e il prezzo di Reach",
         "paragraphs": [
           "Inserisci il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: ottieni il **20% sul primo periodo**. Bruno l'ha testato sul Reach 500 da 24 mesi, e lo sconto è stato applicato nel carrello.",
-          "Il prezzo mostrato dalla pagina e quello del carrello possono differire lo stesso giorno: controlla il carrello per vedere quale prezzo vale per te e quanto ne toglie il SONAR20. Sugli altri piani e periodi di Reach non è stato testato; controlla nel carrello. Le regole complete del codice sono in [coupon Hostinger](/it/coupons/hostinger)."
+          "Il prezzo mostrato dalla pagina e quello del carrello possono differire lo stesso giorno: controlla il carrello per vedere quale prezzo si applica a te e quanto ne toglie il SONAR20. Sugli altri piani e periodi di Reach non è stato testato; controlla nel carrello. Le regole complete del codice sono in [coupon Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -160072,7 +160075,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Chi scrive",
         "paragraphs": [
-          "L'Em Casa com Cecília gira sull'hosting gestito di Hostinger, e il dominio è registrato lì dal 2024. Questo testo raccoglie ciò che dicevano le pagine dei prezzi dei tre e il test del SONAR20 nel carrello. Come Hostinger addebita, rinnova e rimborsa è spiegato in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
+          "Em Casa com Cecília gira sull'hosting gestito di Hostinger, e il dominio è registrato lì dal 2024. Questo testo raccoglie ciò che dicevano le pagine dei prezzi dei tre e il test del SONAR20 nel carrello. Come Hostinger addebita, rinnova e rimborsa è spiegato in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
         ]
       }
     ],
@@ -160178,7 +160181,7 @@ export const reviewsData: unknown[] = [
             [
               "Kleine Liste, Start ohne Budget",
               "Kostenloser Tarif von Brevo oder Mailchimp",
-              "Brevo gratis verschickt bis zu 300 E-Mails am Tag, ohne Karte. Mailchimp ist unter 250 Kontakten kostenlos. Die drei Reach-Tarife sind bezahlt."
+              "Brevo gratis verschickt bis zu 300 E-Mails am Tag, ohne Karte. Mailchimp ist unter 250 Kontakten kostenlos. Die drei Reach-Tarife sind kostenpflichtig."
             ],
             [
               "Hostinger-Website vorhanden, Liste bis 500",
@@ -160204,7 +160207,7 @@ export const reviewsData: unknown[] = [
         },
         "image": {
           "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-de.webp",
-          "alt": "Quadro Reach, Mailchimp oder Brevo nach Profil: kleine Liste ohne Budget nimmt den kostenlosen Tarif von Brevo oder Mailchimp; wer eine Hostinger-Website und eine Liste bis 500 hat, nimmt Reach Grow; wer WhatsApp braucht, nimmt Reach Pro; wer das kostenlose Limit überschritten hat und bis 1.000 Kontakte hat, nimmt Reach Grow oder Pro; Liste über 1.000 Kontakte, Mailchimp oder Brevo",
+          "alt": "Tabelle Reach, Mailchimp oder Brevo nach Profil: kleine Liste ohne Budget nimmt den kostenlosen Tarif von Brevo oder Mailchimp; wer eine Hostinger-Website und eine Liste bis 500 hat, nimmt Reach Grow; wer WhatsApp braucht, nimmt Reach Pro; wer das kostenlose Limit überschritten hat und bis 1.000 Kontakte hat, nimmt Reach Grow oder Pro; Liste über 1.000 Kontakte, Mailchimp oder Brevo",
           "caption": "Die Kurzfassung der Tabelle: kostenlos starten, Reach bis 1.000 Empfänger, darüber Mailchimp oder Brevo. Tabelle von Em Casa com Cecília, nach dem, was die Preisseiten sagten.",
           "objectFit": "contain",
           "aspectRatio": 1.3846
@@ -160320,7 +160323,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Lohnt sich Hostinger Reach? Ja, für alle mit einer Hostinger-Website und einer Liste bis 1.000 Empfänger. Der Grow kostet in den ersten 12 Monaten 1,74 US$ im Monat und verlängert sich auf 2,49 US$ im Monat.",
           "Was kostet Hostinger Reach? Auf der globalen Hostinger-Seite, in US-Dollar: Starter 1,49 US$, Grow 1,74 US$ und Pro 2,79 US$ im Monat in den ersten 12 Monaten, mit Verlängerung auf 1,49 US$, 2,49 US$ und 3,99 US$. Die Preise können je nach Land und Währung abweichen.",
-          "Hat Hostinger Reach einen kostenlosen Tarif? Nein: Alle drei Tarife sind bezahlt. Mailchimp ist für weniger als 250 Kontakte kostenlos, und Brevo bietet einen kostenlosen Tarif mit bis zu 300 E-Mails am Tag.",
+          "Hat Hostinger Reach einen kostenlosen Tarif? Nein: Alle drei Tarife sind kostenpflichtig. Mailchimp ist für weniger als 250 Kontakte kostenlos, und Brevo bietet einen kostenlosen Tarif mit bis zu 300 E-Mails am Tag.",
           "Hat Hostinger Reach WhatsApp? Ja, nur im Tarif Pro. Die Seite zeigt nicht die Kosten pro Nachricht; das sehen Sie im Dashboard.",
           "Was ist Reach 500? Das ist der Name des Grow-Tarifs im Hostinger-Warenkorb, nach dem Limit von 500 Empfängern. Er verschickt 3.500 E-Mails im Monat.",
           "Hostinger Reach oder Mailchimp? Für eine Liste bis 1.000 Empfänger und eine Hostinger-Website: Reach. Für einen kostenlosen Start oder eine Liste über 1.000 Kontakte: Mailchimp oder Brevo.",
@@ -160424,7 +160427,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "誰にどれを選ぶか：早見表",
         "paragraphs": [
-          "大事なのは、どのツールが一番良いかではなく、リストに何人いるか、月に何通送るか、WhatsApp が必要かです。下の表は、2026年10月30日時点の Hostinger、Mailchimp、Brevo の料金ページに書かれていた内容を、利用者別にまとめたものです。"
+          "大事なのは、どのツールが一番良いかではなく、リストに何人いるか、月に何通送るか、WhatsApp が必要かです。下の表は、Hostinger、Mailchimp、Brevo の料金ページに書かれていた内容を、利用者別にまとめたものです。"
         ],
         "comparisonTable": {
           "headers": [
@@ -160436,7 +160439,7 @@ export const reviewsData: unknown[] = [
             [
               "リストが小さく、予算をかけずに始める",
               "Brevo か Mailchimp の無料プラン",
-              "Brevo の無料プランは、カード登録なしで1日最大300通まで。Mailchimp は250件未満なら無料です。Reach は3つのプランすべて有料です。"
+              "Brevo の無料プランは、カード登録なしで1日300通まで。Mailchimp は250件未満なら無料です。Reach は3つのプランすべて有料です。"
             ],
             [
               "Hostinger のサイトがあり、リストは500件まで",
@@ -160490,7 +160493,7 @@ export const reviewsData: unknown[] = [
               "US$ 1.49"
             ],
             [
-              "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "[Grow（Reach 500）](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
               "US$ 1.74（合計 US$ 20.92）",
               "US$ 2.49"
             ],
@@ -160578,7 +160581,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger Reach は買う価値がある？ Hostinger のサイトがあり、宛先が1,000件までなら、はいです。Grow は12か月で月 US$ 1.74、更新時は月 US$ 2.49 でした。",
           "Hostinger Reach の料金はいくら？ 国際サイトでは、12か月の月額が Starter US$ 1.49、Grow US$ 1.74、Pro US$ 2.79で、更新時はそれぞれ US$ 1.49、US$ 2.49、US$ 3.99です。国や通貨によって変わることがあります。",
-          "Hostinger Reach に無料プランはある？ ありません。3つのプランとも有料です。Mailchimp は250件未満なら無料、Brevo は1日最大300通まで無料です。",
+          "Hostinger Reach に無料プランはある？ ありません。3つのプランとも有料です。Mailchimp は250件未満なら無料、Brevo は1日300通まで無料です。",
           "Hostinger Reach に WhatsApp はある？ あります。Pro だけです。1通ごとの料金はページに書かれていないので、管理画面で確認してください。",
           "Reach 500 とは何？ カートで Grow に付いている名前で、宛先500件の上限を指します。月3,500通送れます。",
           "Hostinger Reach と Mailchimp、どちらが良い？ 宛先が1,000件までなら Reach です。無料で始めたい、またはリストがもっと大きいなら Mailchimp か Brevo です。",
@@ -160681,7 +160684,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "어떤 사람에게 무엇이 맞나: 표",
         "paragraphs": [
-          "질문은 어느 도구가 더 좋으냐가 아니라, 리스트에 몇 명이 있고 한 달에 몇 통을 보내며 WhatsApp이 필요한지입니다. 표는 2026년 10월 30일 Hostinger, Mailchimp, Brevo 가격 페이지의 내용을 프로필별로 정리한 것입니다."
+          "질문은 어느 도구가 더 좋으냐가 아니라, 리스트에 몇 명이 있고 한 달에 몇 통을 보내며 WhatsApp이 필요한지입니다. 표는 Hostinger, Mailchimp, Brevo 가격 페이지의 내용을 프로필별로 정리한 것입니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -160731,7 +160734,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reach 플랜",
         "paragraphs": [
-          "유료 플랜이 세 가지 있고 무료는 없습니다. Starter, Grow, Pro입니다. 장바구니에서는 Grow가 수신자 500명 한도를 따라 \"Reach 500\"으로 나옵니다. 아래 가격은 2026년 10월 30일 Hostinger 국제 사이트에서 읽은 달러 가격이며, 블랙프라이데이 캠페인 가격입니다. 국가와 통화에 따라 달라질 수 있습니다."
+          "유료 플랜이 세 가지 있고 무료는 없습니다. Starter, Grow, Pro입니다. 장바구니에서는 Grow가 수신자 500명 한도를 따라 \"Reach 500\"으로 나옵니다. 아래 가격은 2026년 10월 30일 Hostinger 국제 사이트에서 읽은 달러 가격이며, 블랙프라이데이 캠페인 가격입니다. 국가와 통화에 따라 달라질 수 있습니다.",
+          "페이지에는 30일 이내에 환불을 요청할 수 있다고 쓰여 있습니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -160746,7 +160750,7 @@ export const reviewsData: unknown[] = [
               "US$ 1.49"
             ],
             [
-              "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "[Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
               "US$ 1.74 (총 US$ 20.92)",
               "US$ 2.49"
             ],
@@ -160781,12 +160785,12 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Mailchimp 무료",
-              "0",
+              "무료",
               "연락처 250명 미만. 한도를 넘으면 발송이 멈춥니다."
             ],
             [
               "Brevo 무료",
-              "0",
+              "무료",
               "신용카드 없이 계속 무료, 하루 300통까지."
             ]
           ]
@@ -160851,7 +160855,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20% 할인. Reach 500 24개월은 테스트했고, 다른 플랜은 장바구니에서 확인하세요.",
+      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요: 첫 기간 20% 할인. Reach 500 24개월은 테스트했고, 다른 플랜은 장바구니에서 확인하세요.",
       "label": "SONAR20로 Reach 플랜 보기",
       "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -160938,7 +160942,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "按情况选择：一张表",
         "paragraphs": [
-          "关键不在于哪个工具更好，而在于你的名单有多少人、每月发多少封、是否需要 WhatsApp。下表依据 2026 年 10 月 30 日 Hostinger、Mailchimp 和 Brevo 价格页面上的内容，按情况整理："
+          "关键不在于哪个工具更好，而在于你的名单有多少人、每月发多少封、是否需要 WhatsApp。下表依据 Hostinger、Mailchimp 和 Brevo 价格页面上的内容，按情况整理："
         ],
         "comparisonTable": {
           "headers": [
@@ -160988,7 +160992,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reach 套餐",
         "paragraphs": [
-          "Reach 有三个付费套餐，没有免费版：Starter、Grow 和 Pro。在购物车里，Grow 因为 500 名收件人的上限而显示为“Reach 500”。下面是 2026 年 10 月 30 日在 Hostinger 国际站读到的美元价格，属于黑色星期五促销期间的价格，可能因国家和货币而异："
+          "Reach 有三个付费套餐，没有免费版：Starter、Grow 和 Pro。在购物车里，Grow 因为 500 名收件人的上限而显示为“Reach 500”。下面是 2026 年 10 月 30 日在 Hostinger 国际站读到的美元价格，属于黑色星期五促销期间的价格，可能因国家和货币而异：",
+          "页面写明，可在 30 天内申请退款。"
         ],
         "comparisonTable": {
           "headers": [
@@ -161003,7 +161008,7 @@ export const reviewsData: unknown[] = [
               "US$ 1.49"
             ],
             [
-              "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "[Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
               "US$ 1.74（合计 US$ 20.92）",
               "US$ 2.49"
             ],
@@ -161038,12 +161043,12 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Mailchimp 免费版",
-              "0",
+              "免费",
               "适用于少于 250 个联系人。超过上限后，发送会暂停。"
             ],
             [
               "Brevo 免费版",
-              "0",
+              "免费",
               "永久免费，无需银行卡，每天最多 300 封。"
             ]
           ]
@@ -161195,7 +161200,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "依情況選擇：一張表",
         "paragraphs": [
-          "關鍵不在於哪個工具更好，而在於你的名單有多少人、每月寄多少封、是否需要 WhatsApp。下表依據 2026 年 10 月 30 日 Hostinger、Mailchimp 和 Brevo 價格頁面上的內容，依情況整理："
+          "關鍵不在於哪個工具更好，而在於你的名單有多少人、每月寄多少封、是否需要 WhatsApp。下表依據 Hostinger、Mailchimp 和 Brevo 價格頁面上的內容，依情況整理："
         ],
         "comparisonTable": {
           "headers": [
@@ -161245,7 +161250,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reach 方案",
         "paragraphs": [
-          "Reach 有三個付費方案，沒有免費版：Starter、Grow 和 Pro。在購物車裡，Grow 因為 500 位收件人的上限而顯示為「Reach 500」。下面是 2026 年 10 月 30 日在 Hostinger 國際站讀到的美元價格，屬於黑色星期五促銷期間的價格，可能因國家和幣別而異："
+          "Reach 有三個付費方案，沒有免費版：Starter、Grow 和 Pro。在購物車裡，Grow 因為 500 位收件人的上限而顯示為「Reach 500」。下面是 2026 年 10 月 30 日在 Hostinger 國際站讀到的美元價格，屬於黑色星期五促銷期間的價格，可能因國家和幣別而異：",
+          "頁面寫明，可在 30 天內申請退款。"
         ],
         "comparisonTable": {
           "headers": [
@@ -161260,7 +161266,7 @@ export const reviewsData: unknown[] = [
               "US$ 1.49"
             ],
             [
-              "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+              "[Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
               "US$ 1.74（合計 US$ 20.92）",
               "US$ 2.49"
             ],
@@ -161295,12 +161301,12 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Mailchimp 免費版",
-              "0",
+              "免費",
               "適用於少於 250 位聯絡人。超過上限後，寄送會暫停。"
             ],
             [
               "Brevo 免費版",
-              "0",
+              "免費",
               "永久免費，不需信用卡，每天最多 300 封。"
             ]
           ]
@@ -161908,13 +161914,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "The VPS renewal is almost double the promotional price: KVM 1 goes from US$6.49 to US$11.99 a month, and KVM 2 from US$8.79 to US$14.99. These are the 24-month promotion prices. We did not test SONAR20 on the VPS, so check the price in the cart before you sign."
+          "The VPS renewal is almost double the promotional price: KVM 1 goes from US$6.49 to US$11.99 a month, and KVM 2 from US$8.79 to US$14.99. These are the 24-month promotion prices. We did not test SONAR20 on the VPS, so check the price in the cart before you buy."
         ]
       },
       {
         "heading": "SONAR20 on Hostinger",
         "paragraphs": [
-          "Use the code **SONAR20** in the coupon field of the cart, or come in through this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table and on the VPS, we did not test it; check in the cart. We did not test renewal. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
+          "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table and on the VPS, we did not test it; check in the cart. We did not test renewal. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
         ]
       },
       {
@@ -161971,7 +161977,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take Premium if it is one site, such as a blog, a portfolio or a company page, or up to three: it is the entry plan, in the promotion and at renewal.",
+        "Take Premium if it is one site, such as a blog, a portfolio or a company page, or up to three: it costs less in the promotion and at renewal.",
         "Take a VPS if the site needs guaranteed processor and memory: KVM 1 already has 4 GB."
       ],
       "skipIf": [
@@ -162213,7 +162219,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Lleva el Premium si es un solo sitio, como un blog, un portafolio o la página de una empresa, o hasta tres: es el plan de entrada, en la promoción y en la renovación.",
+        "Lleva el Premium si es un solo sitio, como un blog, un portafolio o la página de una empresa, o hasta tres: cuesta menos en la promoción y en la renovación.",
         "Lleva un VPS si el sitio necesita procesador y memoria garantizados: el KVM 1 ya trae 4 GB."
       ],
       "skipIf": [
@@ -162320,7 +162326,7 @@ export const reviewsData: unknown[] = [
               "167,52 US$",
               "16,99 US$/mois",
               "Illimités",
-              "50 GB NVMe"
+              "50 Go NVMe"
             ],
             [
               "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
@@ -162328,7 +162334,7 @@ export const reviewsData: unknown[] = [
               "383,52 US$",
               "25,99 US$/mois",
               "Illimités",
-              "100 GB NVMe"
+              "100 Go NVMe"
             ]
           ]
         },
@@ -162376,15 +162382,15 @@ export const reviewsData: unknown[] = [
             [
               "[Hostinger KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mois)",
               "1",
-              "4 GB",
-              "50 GB",
+              "4 Go",
+              "50 Go",
               "6,49 US$/mois",
               "11,99 US$/mois"
             ],
             [
               "[Hostinger KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mois)",
               "2",
-              "8 GB",
+              "8 Go",
               "100 GB",
               "8,79 US$/mois",
               "14,99 US$/mois"
@@ -162455,7 +162461,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez Premium s'il s'agit d'un seul site, comme un blog, un portfolio ou la page d'une entreprise, ou de trois sites au plus : c'est le forfait d'entrée, en promotion et au renouvellement.",
+        "Prenez Premium s'il s'agit d'un seul site, comme un blog, un portfolio ou la page d'une entreprise, ou de trois sites au plus : il coûte moins en promotion et au renouvellement.",
         "Prenez un VPS si le site a besoin d'un processeur et d'une mémoire garantis : le KVM 1 offre déjà 4 Go."
       ],
       "skipIf": [
@@ -162581,7 +162587,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "I piani, mese per mese",
         "paragraphs": [
-          "I piani non si incontrano uno a uno, e il gradino sale con il numero di siti. Per numero di siti, con il prezzo al mese nel primo periodo e dopo:"
+          "I piani non combaciano uno a uno, e il gradino sale con il numero di siti. Per numero di siti, con il prezzo al mese nel primo periodo e dopo:"
         ],
         "bullets": [
           "**Fino a 3 siti:** il Premium, a 2,49 US$ al mese per 48 mesi e 10,99 US$ al rinnovo. È il più economico in promozione e al rinnovo.",
@@ -162634,7 +162640,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Il rinnovo del VPS è quasi il doppio del prezzo promozionale: il KVM 1 passa da 6,49 US$ a 11,99 US$ al mese, e il KVM 2 da 8,79 US$ a 14,99 US$. Sono i prezzi della promozione di 24 mesi. Non abbiamo testato il SONAR20 sul VPS: controlla il prezzo nel carrello prima di firmare."
+          "Il rinnovo del VPS è quasi il doppio del prezzo promozionale: il KVM 1 passa da 6,49 US$ a 11,99 US$ al mese, e il KVM 2 da 8,79 US$ a 14,99 US$. Sono i prezzi della promozione di 24 mesi. Non abbiamo testato il SONAR20 sul VPS: controlla il prezzo nel carrello prima di pagare."
         ]
       },
       {
@@ -162697,7 +162703,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prendi il Premium se è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre: è il piano di ingresso, in promozione e al rinnovo.",
+        "Prendi il Premium se è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre: costa meno in promozione e al rinnovo.",
         "Prendi un VPS se il sito ha bisogno di processore e memoria garantiti: il KVM 1 ha già 4 GB."
       ],
       "skipIf": [
@@ -162753,7 +162759,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Bei der Verlängerung ist der Premium der Hostinger der günstigste Tarif, und der Unlimited ist der für viele Websites, ohne Begrenzung der Websites. Die Aktionen laufen 48 Monate, deshalb vergleicht man fair pro Monat, mit der Verlängerung daneben, in der Tabelle unten."
+          "Bei der Verlängerung ist Hostingers Premium der günstigste Tarif, und der Unlimited ist der Tarif für viele Websites, ohne Begrenzung der Websites. Die Aktionen laufen 48 Monate, deshalb vergleicht man fair pro Monat, mit der Verlängerung daneben, in der Tabelle unten."
         ]
       },
       {
@@ -162908,14 +162914,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wer schreibt",
         "paragraphs": [
-          "Em Casa com Cecília läuft auf dem verwalteten Hosting der Hostinger, und die Domain ist seit 2024 bei der Hostinger registriert. Der Text verbindet, was die internationalen Seiten der Hostinger sagen."
+          "Em Casa com Cecília läuft auf dem verwalteten Hosting der Hostinger, und die Domain ist seit 2024 bei der Hostinger registriert. Der Text bündelt, was die internationalen Seiten der Hostinger sagen."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung nicht getestet: Prüfen Sie den Preis im Warenkorb.",
       "label": "Hosting-Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -162939,7 +162945,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Nehmen Sie den Premium, wenn es um eine einzelne Website geht, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder um bis zu drei: Er ist der Einstiegstarif, in der Aktion und bei der Verlängerung.",
+        "Nehmen Sie den Premium, wenn es um eine einzelne Website geht, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder um bis zu drei: Er kostet in der Aktion und bei der Verlängerung weniger.",
         "Nehmen Sie einen VPS, wenn Ihre Website garantierte Prozessorleistung und Arbeitsspeicher braucht: Der KVM 1 hat schon 4 GB."
       ],
       "skipIf": [
@@ -162995,7 +163001,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "レンタルサーバーは、最初の期間の割引ではなく、更新料を月額で比べて選びます。3サイトまでならHostingerのPremium、それより多いならUnlimitedが目安です。どのページも割引を大きく見せるので、月額に直して更新料を横に並べた表を下に載せました。"
+          "レンタルサーバーは、最初の期間の割引ではなく、更新料を月額で比べて選びます。3サイトまでならHostingerのPremium、それより多いならUnlimitedが目安です。割引は48か月続くので、月額に直して更新料を横に並べた表を下に載せました。"
         ]
       },
       {
@@ -163035,7 +163041,7 @@ export const reviewsData: unknown[] = [
             [
               "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
               "US$2.49/月",
-              "US$119.52/月",
+              "US$119.52",
               "US$10.99/月",
               "3",
               "20 GB SSD"
@@ -163043,7 +163049,7 @@ export const reviewsData: unknown[] = [
             [
               "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
               "US$3.49/月",
-              "US$167.52/月",
+              "US$167.52",
               "US$16.99/月",
               "無制限",
               "50 GB NVMe"
@@ -163051,7 +163057,7 @@ export const reviewsData: unknown[] = [
             [
               "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
               "US$7.99/月",
-              "US$383.52/月",
+              "US$383.52",
               "US$25.99/月",
               "無制限",
               "100 GB NVMe"
@@ -163195,8 +163201,8 @@ export const reviewsData: unknown[] = [
     "slug": "choose-web-host-hostinger-ko",
     "locale": "ko",
     "translationKey": "hostinger-ou-hostgator",
-    "title": "호스팅어와 다른 호스팅 중 어느 쪽이 나을까? 웹사이트 가격과 기준",
-    "seoTitle": "호스팅어와 다른 호스팅 비교: 가격과 갱신 기준",
+    "title": "호스팅어 플랜 중 어느 쪽이 나을까? 웹사이트 가격과 기준",
+    "seoTitle": "호스팅어 플랜 비교: 가격과 갱신 기준",
     "type": "선택 가이드",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -163236,7 +163242,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "호스팅은 첫 기간의 할인이 아니라 갱신가를 월 단위로 비교해 고릅니다. 사이트가 3개까지면 호스팅어 Premium, 그보다 많으면 Unlimited를 보면 됩니다. 페이지마다 할인을 크게 내세우므로, 월 단위 가격에 갱신가를 나란히 둔 표를 아래에 실었습니다."
+          "호스팅은 첫 기간의 할인이 아니라 갱신가를 월 단위로 비교해 고릅니다. 사이트가 3개까지면 호스팅어 Premium, 그보다 많으면 Unlimited를 보면 됩니다. 프로모션은 48개월이므로, 월 단위 가격에 갱신가를 나란히 둔 표를 아래에 실었습니다."
         ]
       },
       {
@@ -163276,7 +163282,7 @@ export const reviewsData: unknown[] = [
             [
               "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
               "US$ 2.49/월",
-              "US$ 119.52/월",
+              "US$ 119.52",
               "US$ 10.99/월",
               "3",
               "20 GB SSD"
@@ -163284,7 +163290,7 @@ export const reviewsData: unknown[] = [
             [
               "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
               "US$ 3.49/월",
-              "US$ 167.52/월",
+              "US$ 167.52",
               "US$ 16.99/월",
               "무제한",
               "50 GB NVMe"
@@ -163292,7 +163298,7 @@ export const reviewsData: unknown[] = [
             [
               "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
               "US$ 7.99/월",
-              "US$ 383.52/월",
+              "US$ 383.52",
               "US$ 25.99/월",
               "무제한",
               "100 GB NVMe"
@@ -163399,7 +163405,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "카트의 쿠폰 칸에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 할인됩니다. 갱신 가격은 테스트하지 않았으니 카트에서 확인하세요.",
-      "label": "할인 플랜 보기",
+      "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -163437,8 +163443,8 @@ export const reviewsData: unknown[] = [
     "slug": "choose-web-host-hostinger-zh-hans",
     "locale": "zh-hans",
     "translationKey": "hostinger-ou-hostgator",
-    "title": "Hostinger 与其他主机，哪个更适合你的网站？价格与选择标准",
-    "seoTitle": "Hostinger 与其他主机对比：价格与续费标准",
+    "title": "Hostinger 套餐，哪个更适合你的网站？价格与选择标准",
+    "seoTitle": "Hostinger 套餐对比：价格与续费标准",
     "type": "选择指南",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -163478,7 +163484,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "选主机不要看首期的折扣，要把续费价按月并排比较。网站在 3 个以内，看 Hostinger 的 Premium；网站更多，看 Unlimited。各页面都把折扣摆在最显眼的位置，所以下面的表格按月列出价格，并把续费价放在旁边。"
+          "选主机不要看首期的折扣，要把续费价按月并排比较。网站在 3 个以内，看 Hostinger 的 Premium；网站更多，看 Unlimited。促销期为 48 个月，所以下面的表格按月列出价格，并把续费价放在旁边。"
         ]
       },
       {
@@ -163518,7 +163524,7 @@ export const reviewsData: unknown[] = [
             [
               "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
               "US$ 2.49/月",
-              "US$ 119.52/月",
+              "US$ 119.52",
               "US$ 10.99/月",
               "3",
               "20 GB SSD"
@@ -163526,7 +163532,7 @@ export const reviewsData: unknown[] = [
             [
               "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
               "US$ 3.49/月",
-              "US$ 167.52/月",
+              "US$ 167.52",
               "US$ 16.99/月",
               "无限",
               "50 GB NVMe"
@@ -163534,7 +163540,7 @@ export const reviewsData: unknown[] = [
             [
               "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
               "US$ 7.99/月",
-              "US$ 383.52/月",
+              "US$ 383.52",
               "US$ 25.99/月",
               "无限",
               "100 GB NVMe"
@@ -163679,8 +163685,8 @@ export const reviewsData: unknown[] = [
     "slug": "choose-web-host-hostinger-zh-hant",
     "locale": "zh-hant",
     "translationKey": "hostinger-ou-hostgator",
-    "title": "Hostinger 與其他主機，哪個更適合你的網站？價格與選擇標準",
-    "seoTitle": "Hostinger 與其他主機比較：價格與續訂標準",
+    "title": "Hostinger 方案，哪個更適合你的網站？價格與選擇標準",
+    "seoTitle": "Hostinger 方案比較：價格與續訂標準",
     "type": "選擇指南",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -163720,7 +163726,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "選主機不要看首期的折扣，要把續訂價按月並排比較。網站在 3 個以內，看 Hostinger 的 Premium；網站更多，看 Unlimited。各個頁面都把折扣放在最顯眼的位置，所以下面的表格按月列出價格，並把續訂價放在旁邊。"
+          "選主機不要看首期的折扣，要把續訂價按月並排比較。網站在 3 個以內，看 Hostinger 的 Premium；網站更多，看 Unlimited。促銷期為 48 個月，所以下面的表格按月列出價格，並把續訂價放在旁邊。"
         ]
       },
       {
@@ -163760,7 +163766,7 @@ export const reviewsData: unknown[] = [
             [
               "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
               "US$ 2.49/月",
-              "US$ 119.52/月",
+              "US$ 119.52",
               "US$ 10.99/月",
               "3",
               "20 GB SSD"
@@ -163768,7 +163774,7 @@ export const reviewsData: unknown[] = [
             [
               "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
               "US$ 3.49/月",
-              "US$ 167.52/月",
+              "US$ 167.52",
               "US$ 16.99/月",
               "無限",
               "50 GB NVMe"
@@ -163776,7 +163782,7 @@ export const reviewsData: unknown[] = [
             [
               "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
               "US$ 7.99/月",
-              "US$ 383.52/月",
+              "US$ 383.52",
               "US$ 25.99/月",
               "無限",
               "100 GB NVMe"
@@ -164454,32 +164460,32 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-              "US$ 2,49",
-              "US$ 119,52",
-              "US$ 10,99/mes",
+              "2,49 US$",
+              "119,52 US$",
+              "10,99 US$/mes",
               "3 sitios, 20 GB SSD",
               "Semanal"
             ],
             [
               "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-              "US$ 3,49",
-              "US$ 167,52",
-              "US$ 16,99/mes",
+              "3,49 US$",
+              "167,52 US$",
+              "16,99 US$/mes",
               "Sitios ilimitados, 50 GB NVMe",
               "Diario"
             ],
             [
               "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-              "US$ 7,99",
-              "US$ 383,52",
-              "US$ 25,99/mes",
+              "7,99 US$",
+              "383,52 US$",
+              "25,99 US$/mes",
               "Sitios ilimitados, 100 GB NVMe",
               "Consulta el carrito"
             ]
           ]
         },
         "postParagraphs": [
-          "La página no trae fecha de fin para la campaña, y los precios pueden cambiar."
+          "La página no indica fecha de fin para la campaña, y los precios pueden cambiar."
         ],
         "emphasis": "La renovación cuesta entre 3 y 5 veces el precio promocional. Elige el plan por la columna de renovación, no solo por el precio de entrada."
       },
@@ -164523,19 +164529,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué plan elegir: el veredicto",
         "paragraphs": [
-          "**Elige Premium** si es un sitio, dos o tres, y publicas de vez en cuando. Es la entrada y la renovación más baratas de la página: US$ 10,99 al mes cuando se renueva.",
+          "**Elige Premium** si es un sitio, dos o tres, y publicas de vez en cuando. Es la entrada y la renovación más baratas de la página: 10,99 US$ al mes cuando se renueva.",
           "**Elige Unlimited** si tienes una tienda o muchos sitios. El backup diario es el motivo principal, y empieza aquí.",
-          "**Cloud Startup** solo tiene sentido si Unlimited no alcanza. Es el más caro, y la renovación de US$ 25,99 al mes pesa."
+          "**Cloud Startup** solo tiene sentido si Unlimited no alcanza. Es el más caro, y la renovación de 25,99 US$ al mes pesa."
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Cuál es el plan de WordPress más barato de Hostinger? El Premium, a US$ 2,49 al mes en 48 meses (US$ 119,52 en total), para hasta 3 sitios. Se renueva a US$ 10,99 al mes.",
+          "¿Cuál es el plan de WordPress más barato de Hostinger? El Premium, a 2,49 US$ al mes en 48 meses (119,52 US$ en total), para hasta 3 sitios. Se renueva a 10,99 US$ al mes.",
           "¿Viene WordPress instalado en Hostinger? Lo instalas desde el panel de hosting, sin descargar archivos a mano. La lista de arriba explica los pasos.",
           "¿Qué plan de WordPress conviene para una tienda online? Unlimited, por sus backups diarios y los sitios ilimitados. Para una tienda con mucho tráfico, Cloud Startup.",
           "¿Funciona el código SONAR20 en los planes de WordPress? No lo probamos ahí; confirma el precio en el carrito. Donde funciona, da 20% en el primer período.",
-          "¿El precio de renovación es igual al promocional? No. Después del primer período de 48 meses vale el precio de renovación: en Premium, US$ 10,99 al mes."
+          "¿El precio de renovación es igual al promocional? No. Después del primer período de 48 meses vale el precio de renovación: en Premium, 10,99 US$ al mes."
         ]
       },
       {
@@ -164629,7 +164635,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Si vous avez déjà décidé d'utiliser WordPress chez Hostinger, le forfait Premium couvre jusqu'à trois sites. Unlimited, qui inclut des sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Ce qui fait le choix, c'est le nombre de sites, la sauvegarde et le prix du renouvellement, dans le tableau ci-dessous."
+          "Si vous avez déjà décidé d'utiliser WordPress chez Hostinger, le forfait Premium couvre jusqu'à trois sites. Unlimited, qui inclut des sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Le choix dépend du nombre de sites, de la sauvegarde et du prix du renouvellement, dans le tableau ci-dessous."
         ]
       },
       {
@@ -164646,7 +164652,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Jusqu'à 3 sites : Premium.** Votre blog et deux autres projets, ou un site de test à côté du principal. Il a 20 Go SSD et des sauvegardes hebdomadaires.",
-          "**Plusieurs sites ou une boutique WooCommerce : Unlimited.** Sites illimités, 50 Go NVMe et sauvegardes quotidiennes. Dans une boutique, les commandes et le stock changent chaque jour, et une sauvegarde hebdomadaire laisse une semaine entière de côté.",
+          "**Plusieurs sites ou une boutique WooCommerce : Unlimited.** Sites illimités, 50 Go NVMe et sauvegardes quotidiennes. Dans une boutique, commandes et stock changent chaque jour, et une sauvegarde hebdomadaire laisse une semaine sans sauvegarde.",
           "**Boutique ou site très fréquenté : Cloud Startup.** Sites illimités et 100 Go NVMe. C'est le forfait le plus cher de la page, et son renouvellement est aussi le plus élevé."
         ],
         "postParagraphs": [
@@ -164656,7 +164662,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prix et renouvellement",
         "paragraphs": [
-          "Les prix ci-dessous viennent du site international de Hostinger, en dollars américains, relevés le 30 octobre 2026, sur une durée de 48 mois et au prix promotionnel de la campagne. Le prix par mois est le total divisé par 48. Le renouvellement est le prix mensuel après la première période. Les prix peuvent varier selon le pays et la devise : vérifiez dans le panier :"
+          "Les prix ci-dessous viennent du site international de Hostinger, en dollars américains, relevés le 30 octobre 2026, sur une durée de 48 mois et au prix promotionnel de la campagne. Le prix par mois est le total divisé par 48. Le renouvellement est le prix mensuel après la première période. Les prix peuvent varier selon le pays et la devise. Vérifiez dans le panier :"
         ],
         "comparisonTable": {
           "headers": [
@@ -164670,25 +164676,25 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-              "US$ 2,49",
-              "US$ 119,52",
-              "US$ 10,99/mois",
+              "2,49 US$",
+              "119,52 US$",
+              "10,99 US$/mois",
               "3 sites, 20 Go SSD",
               "Hebdomadaire"
             ],
             [
               "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-              "US$ 3,49",
-              "US$ 167,52",
-              "US$ 16,99/mois",
+              "3,49 US$",
+              "167,52 US$",
+              "16,99 US$/mois",
               "Sites illimités, 50 Go NVMe",
               "Quotidienne"
             ],
             [
               "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-              "US$ 7,99",
-              "US$ 383,52",
-              "US$ 25,99/mois",
+              "7,99 US$",
+              "383,52 US$",
+              "25,99 US$/mois",
               "Sites illimités, 100 Go NVMe",
               "Voir le panier"
             ]
@@ -164706,7 +164712,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Sites et espace.** Premium : 3 sites et 20 Go SSD. Unlimited : sites illimités et 50 Go NVMe. Cloud Startup : sites illimités et 100 Go NVMe.",
-          "**Sauvegardes.** Premium a des sauvegardes hebdomadaires, et Unlimited des sauvegardes quotidiennes. La page ne dit pas quelle sauvegarde a Cloud Startup : vérifiez-le dans le panier.",
+          "**Sauvegardes.** Premium a des sauvegardes hebdomadaires, et Unlimited des sauvegardes quotidiennes. La page ne dit pas quelle sauvegarde a Cloud Startup : vérifiez-la dans le panier.",
           "**Domaine et e-mail.** Ils changent selon le forfait et la période. Vérifiez dans le panier ce qui est offert, et pour combien de temps."
         ]
       },
@@ -164739,19 +164745,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quel forfait choisir : le verdict",
         "paragraphs": [
-          "**Choisissez Premium** si c'est un site, deux ou trois, et que vous publiez de temps en temps. C'est l'entrée et le renouvellement les moins chers de la page : US$ 10,99 par mois au renouvellement.",
+          "**Choisissez Premium** si c'est un site, deux ou trois, et que vous publiez de temps en temps. C'est l'entrée et le renouvellement les moins chers de la page : 10,99 US$ par mois au renouvellement.",
           "**Choisissez Unlimited** si vous avez une boutique ou plusieurs sites. La sauvegarde quotidienne est la raison principale, et elle commence ici.",
-          "**Cloud Startup** n'a de sens que si Unlimited ne suffit pas. C'est le plus cher, et le renouvellement à US$ 25,99 par mois pèse lourd."
+          "**Cloud Startup** n'a de sens que si Unlimited ne suffit pas. C'est le plus cher, et le renouvellement à 25,99 US$ par mois pèse lourd."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Quel est le forfait WordPress le moins cher de Hostinger ? Le Premium, à US$ 2,49 par mois sur 48 mois (US$ 119,52 au total), pour jusqu'à 3 sites. Il se renouvelle à US$ 10,99 par mois.",
+          "Quel est le forfait WordPress le moins cher de Hostinger ? Le Premium, à 2,49 US$ par mois sur 48 mois (119,52 US$ au total), pour jusqu'à 3 sites. Il se renouvelle à 10,99 US$ par mois.",
           "WordPress est-il installé chez Hostinger ? Vous l'installez depuis le panneau d'hébergement, sans télécharger de fichiers à la main. La liste ci-dessus détaille les étapes.",
           "Quel forfait WordPress pour une boutique en ligne ? Unlimited, pour ses sauvegardes quotidiennes et ses sites illimités. Pour une boutique très fréquentée, Cloud Startup.",
           "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? Nous ne l'avons pas testé là-dessus ; vérifiez le prix dans le panier. Là où il fonctionne, il donne 20 % sur la première période.",
-          "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, US$ 10,99 par mois."
+          "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, 10,99 US$ par mois."
         ]
       },
       {
@@ -164845,7 +164851,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Per chi ha già deciso di usare WordPress su Hostinger, il piano Premium copre fino a tre siti, mentre Unlimited o Cloud Startup servono per più siti o un negozio, con backup giornalieri. WordPress c'è in tutti i piani: a fare la differenza sono il numero di siti, il backup e il rinnovo, nella tabella qui sotto."
+          "Per chi ha già deciso di usare WordPress su Hostinger, il piano Premium copre fino a tre siti, mentre Unlimited o Cloud Startup servono per più siti o un negozio, e Unlimited ha i backup giornalieri. WordPress c'è in tutti i piani: numero di siti, backup e rinnovo decidono, nella tabella sotto."
         ]
       },
       {
@@ -164886,25 +164892,25 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-              "US$ 2,49",
-              "US$ 119,52",
-              "US$ 10,99/mese",
+              "2,49 US$",
+              "119,52 US$",
+              "10,99 US$/mese",
               "3 siti, 20 GB SSD",
               "Settimanale"
             ],
             [
               "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-              "US$ 3,49",
-              "US$ 167,52",
-              "US$ 16,99/mese",
+              "3,49 US$",
+              "167,52 US$",
+              "16,99 US$/mese",
               "Siti illimitati, 50 GB NVMe",
               "Giornaliero"
             ],
             [
               "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-              "US$ 7,99",
-              "US$ 383,52",
-              "US$ 25,99/mese",
+              "7,99 US$",
+              "383,52 US$",
+              "25,99 US$/mese",
               "Siti illimitati, 100 GB NVMe",
               "Controlla il carrello"
             ]
@@ -164930,10 +164936,10 @@ export const reviewsData: unknown[] = [
         "heading": "Come iniziare: la checklist",
         "bullets": [
           "**1. Conta i siti.** Uno, fino a tre o più. Nella maggior parte dei casi questo sceglie già il piano.",
-          "**2. Sistema il dominio.** Usa un dominio che hai già oppure registrane uno nuovo. Annota quando si rinnova.",
+          "**2. Sistema il dominio.** Controlla se il tuo piano ne include uno, oppure punta un dominio che hai già. Annota quando si rinnova.",
           "**3. Installa WordPress dal pannello.** Non serve scaricare i file a mano.",
           "**4. Scegli il tema prima dei contenuti.** Cambiare tema con il sito già pieno dà più lavoro. Preferisci un tema semplice e mantenuto con regolarità.",
-          "**5. Installa pochi plugin.** Parti da quello che il sito serve oggi: modulo di contatto, SEO e, in un negozio, WooCommerce. Ogni plugin in più è una cosa in più da aggiornare.",
+          "**5. Installa pochi plugin.** Parti da quello che serve al sito oggi: modulo di contatto, SEO e, in un negozio, WooCommerce. Ogni plugin in più è una cosa in più da aggiornare.",
           "**6. Fai un backup prima di intervenire.** Prima di cambiare tema, aggiornare un plugin o modificare il negozio, controlla nel pannello quando è stato fatto l'ultimo backup. Con il backup settimanale conta ancora di più."
         ],
         "postParagraphs": [
@@ -165047,7 +165053,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Welcher WordPress-Tarif bei Hostinger zu einer Website, drei Websites, mehreren Websites oder einem Shop passt, und wie Sie anfangen. Preise vom 30.10.2026, mit Verlängerung.",
-    "metaDescription": "WordPress bei Hostinger: Premium, Unlimited oder Cloud Startup? Tarif pro Projekt, Preis und Verlängerung und die Checkliste für den Start.",
+    "metaDescription": "WordPress bei Hostinger: Premium, Unlimited oder Cloud Startup? Tarif pro Projekt, Preis und Verlängerung am 30.10.2026 und die Checkliste für den Start.",
     "publishedAt": "30. Oktober 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -165061,7 +165067,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Wer bei Hostinger schon WordPress nutzen will, nimmt den Premium für bis zu drei Websites. Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht und enthalten tägliche Backups. WordPress ist in allen Tarifen enthalten; die Wahl hängt von der Anzahl der Websites, dem Backup und der Verlängerung ab, wie in der Tabelle unten."
+          "Wer bei Hostinger schon WordPress nutzen will, nimmt Premium für bis zu drei Websites. Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht; tägliche Backups hat der Unlimited. WordPress ist in allen Tarifen enthalten; die Wahl hängt von der Anzahl der Websites, dem Backup und der Verlängerung ab, wie in der Tabelle unten."
         ]
       },
       {
@@ -165071,7 +165077,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-de.webp",
-          "alt": "Quadro der WordPress-Tarife von Hostinger nach Projekt: bis zu 3 Websites im Premium; mehrere Websites oder ein Shop mit WooCommerce im Unlimited; Shop oder viel Traffic im Cloud Startup",
+          "alt": "Übersicht der WordPress-Tarife von Hostinger nach Projekt: bis zu 3 Websites im Premium; mehrere Websites oder ein Shop mit WooCommerce im Unlimited; Shop oder viel Traffic im Cloud Startup",
           "caption": "Die Entscheidung im Überblick: Anzahl der Websites, Speicher und Backup. Übersicht von Em Casa com Cecília, nach der internationalen Hostinger-Seite.",
           "objectFit": "contain",
           "aspectRatio": 1.6014
@@ -165102,25 +165108,25 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-              "US$ 2,49",
-              "US$ 119,52",
-              "US$ 10,99/Monat",
+              "2,49 US$",
+              "119,52 US$",
+              "10,99 US$/Monat",
               "3 Websites, 20 GB SSD",
               "Wöchentlich"
             ],
             [
               "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-              "US$ 3,49",
-              "US$ 167,52",
-              "US$ 16,99/Monat",
+              "3,49 US$",
+              "167,52 US$",
+              "16,99 US$/Monat",
               "Unbegrenzte Websites, 50 GB NVMe",
               "Täglich"
             ],
             [
               "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-              "US$ 7,99",
-              "US$ 383,52",
-              "US$ 25,99/Monat",
+              "7,99 US$",
+              "383,52 US$",
+              "25,99 US$/Monat",
               "Unbegrenzte Websites, 100 GB NVMe",
               "Siehe Warenkorb"
             ]
@@ -165146,7 +165152,7 @@ export const reviewsData: unknown[] = [
         "heading": "So fangen Sie an: die Checkliste",
         "bullets": [
           "**1. Zählen Sie die Websites.** Eine, bis zu drei oder mehr. Das entscheidet in den meisten Fällen schon den Tarif.",
-          "**2. Klären Sie die Domain.** Nutzen Sie eine Domain, die Sie schon haben, oder registrieren Sie eine neue. Notieren Sie, wann sie verlängert wird.",
+          "**2. Klären Sie die Domain.** Prüfen Sie, ob Ihr Tarif eine Domain enthält, oder nutzen Sie eine Domain, die Sie schon haben. Notieren Sie, wann sie verlängert wird.",
           "**3. Installieren Sie WordPress im Panel.** Sie müssen die Dateien nicht von Hand herunterladen.",
           "**4. Wählen Sie das Theme vor dem Inhalt.** Ein Theme zu wechseln, wenn die Seite schon voll ist, macht Mehrarbeit. Nehmen Sie ein einfaches, das regelmäßig gepflegt wird.",
           "**5. Installieren Sie wenige Plugins.** Beginnen Sie mit dem, was die Seite heute braucht: Kontaktformular, SEO und im Shop WooCommerce. Jedes Plugin mehr ist eines mehr zum Aktualisieren.",
@@ -165362,8 +165368,8 @@ export const reviewsData: unknown[] = [
         "heading": "始め方：チェックリスト",
         "bullets": [
           "**1. サイト数を数える。** 1つ、3つまで、それ以上。ほとんどの場合、これでプランが決まります。",
-          "**2. ドメインを決める。** 持っているドメインを使うか、新しく取得します。更新日を控えておきましょう。",
-          "**3. パネルから WordPress をインストールする。** ",
+          "**2. ドメインを決める。**プランに無料ドメインが付くか確認し、持っているドメインを使うか、新しく取得します。更新日を控えておきましょう。",
+          "**3. パネルから WordPress をインストールする。**ファイルを手でダウンロードする必要はありません。 ",
           "**4. コンテンツの前にテーマを選ぶ。** サイトがいっぱいになってからテーマを変えると手間がかかります。シンプルで、定期的に更新されているテーマを選びましょう。",
           "**5. プラグインは少なく。** 今必要なものから始めます：お問い合わせフォーム、SEO、ショップならWooCommerce。プラグインが増えるほど、更新する作業も増えます。",
           "**6. 変更の前にバックアップを取る。** テーマの変更、プラグインの更新、ショップの変更の前に、パネルで最後のバックアップの日時を確認しましょう。毎週バックアップのプランでは特に重要です。"
@@ -165375,7 +165381,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "WordPress を使わない場合",
         "paragraphs": [
-          "インストールやテーマ、プラグインの更新をしたくない場合は、同じプランに Hostinger の AI ビルダーも含まれています。プロジェクト別の比較は、[Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？](/ja/reviews/hostinger-ai-builder-ja) にあります。必要な機能がプラグイン名で決まっているなら、WordPress を選んでください。"
+          "テーマやプラグインのインストールや更新をしたくない場合は、同じプランに Hostinger の AI ビルダーも含まれています。プロジェクト別の比較は、[Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？](/ja/reviews/hostinger-ai-builder-ja) にあります。必要な機能がプラグイン名で決まっているなら、WordPress を選んでください。"
         ]
       },
       {
@@ -165577,8 +165583,8 @@ export const reviewsData: unknown[] = [
         "heading": "시작 체크리스트",
         "bullets": [
           "**1. 사이트 수를 세세요.** 하나, 세 개, 또는 그 이상. 대부분의 경우 이것만으로 플랜이 정해집니다.",
-          "**2. 도메인을 정하세요.** 이미 가진 도메인을 연결하거나 새로 등록하세요. 갱신일을 적어 두세요.",
-          "**3. 패널에서 WordPress를 설치하세요.**",
+          "**2. 도메인을 정하세요.** 플랜에 무료 도메인이 포함되는지 확인하거나, 이미 가진 도메인을 연결하세요. 갱신일을 적어 두세요.",
+          "**3. 패널에서 WordPress를 설치하세요.** 파일을 직접 내려받을 필요는 없습니다.",
           "**4. 콘텐츠보다 테마를 먼저 고르세요.** 사이트가 다 찬 뒤에 테마를 바꾸면 손이 많이 갑니다. 단순하고 자주 업데이트되는 테마를 고르세요.",
           "**5. 플러그인은 적게 설치하세요.** 오늘 필요한 것부터 시작하세요: 문의 양식, SEO, 스토어라면 WooCommerce. 플러그인 하나가 늘 때마다 업데이트할 것도 하나씩 늘어납니다.",
           "**6. 손대기 전에 백업부터 확인하세요.** 테마를 바꾸거나 플러그인을 업데이트하거나 스토어를 고치기 전에, 패널에서 마지막 백업 시점을 확인하세요. 주간 백업 플랜이라면 더 중요합니다."
@@ -165627,7 +165633,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 적용됩니다. WordPress 플랜은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 적용됩니다. WordPress 플랜은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
       "label": "SONAR20으로 WordPress 플랜 보기",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -165719,7 +165725,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hans.webp",
           "alt": "按项目选 WordPress 套餐的表：3 个网站以内选 Premium，多个网站或 WooCommerce 网店选 Unlimited，流量很大的网店选 Cloud Startup",
-          "caption": "表格小结：网站数量和备份决定套餐。Em Casa com Cecília 根据 Hostinger 页面上的说法制作。",
+          "caption": "表格小结：网站数量、空间和备份决定套餐。Em Casa com Cecília 根据 Hostinger 页面上的说法制作。",
           "objectFit": "contain",
           "aspectRatio": 1.6981
         },
@@ -165793,8 +165799,8 @@ export const reviewsData: unknown[] = [
         "heading": "开始使用：清单",
         "bullets": [
           "**1. 数一数网站。** 一个、三个，还是更多。大多数情况下，这一点就决定了套餐。",
-          "**2. 确定域名。** 用你已有的域名，或注册一个新的。记下它的续费日期。",
-          "**3. 在面板里安装 WordPress。**",
+          "**2. 确定域名。** 先确认套餐是否含免费域名，或用你已有的域名。记下它的续费日期。",
+          "**3. 在面板里安装 WordPress。**不需要手动下载文件。",
           "**4. 先选主题，再写内容。** 网站内容装满后再换主题很费事。选简单、更新频繁的主题。",
           "**5. 少装插件。** 从今天需要的开始：联系表单、SEO，网店的话加 WooCommerce。每多一个插件，就多一样要更新。",
           "**6. 动手前先备份。** 换主题、更新插件或改网店之前，在面板里确认最近一次备份的时间。每周备份的套餐更要这样做。"
@@ -165935,7 +165941,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hant.webp",
           "alt": "依專案選 WordPress 方案的表格：3 個網站以內選 Premium，多個網站或 WooCommerce 網路商店選 Unlimited，流量很大的商店選 Cloud Startup",
-          "caption": "表格重點：網站數量與備份決定方案。Em Casa com Cecília 依 Hostinger 頁面上的說明製作。",
+          "caption": "表格重點：網站數量、空間與備份決定方案。Em Casa com Cecília 依 Hostinger 頁面上的說明製作。",
           "objectFit": "contain",
           "aspectRatio": 1.6981
         },
@@ -166009,8 +166015,8 @@ export const reviewsData: unknown[] = [
         "heading": "開始使用：檢查清單",
         "bullets": [
           "**1. 先算網站數量。** 一個、三個，還是更多。多數情況下，光是這一點就能決定方案。",
-          "**2. 決定網域。** 使用你已有的網域，或註冊新的。記下它的續約日期。",
-          "**3. 在管理面板安裝 WordPress。**",
+          "**2. 決定網域。** 先確認方案是否含免費網域，或使用你已有的網域。記下它的續約日期。",
+          "**3. 在管理面板安裝 WordPress。**不需要手動下載檔案。",
           "**4. 先選佈景主題，再放內容。** 網站內容滿了之後再換佈景主題，很費工。選簡單、更新頻繁的主題。",
           "**5. 外掛少裝一點。** 從現在需要的開始：聯絡表單、SEO，網路商店則加上 WooCommerce。每多裝一個外掛，就多一樣要更新。",
           "**6. 動手前先備份。** 更換佈景主題、更新外掛或修改商店之前，先到面板確認最近一次備份的時間。每週備份的方案尤其要這麼做。"
@@ -170633,7 +170639,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "How to choose by occasion",
         "paragraphs": [
-          "End-of-year party: timing rules. The order goes through processing before shipping, and the delivery date shows only on the order page. If the party falls in Christmas or New Year's Eve week, place the order only after you see the delivery estimate.",
+          "End-of-year party: timing rules. The order goes through processing before shipping, and the delivery date shows only on the order page. If the party falls during Christmas or New Year's week, place the order only after you see the delivery estimate.",
           "Graduation: color and length decide. Check the invitation and the time. At night, long and midi tend to work. By day, a short or mid-length style fits better.",
           "Wedding guest: the tone of the event comes before the style. Day or night, church or banquet hall. Check the invitation and the ceremony time before choosing the color.",
           "Wedding dresses and bridesmaid dresses are outside this guide."
@@ -170972,7 +170978,7 @@ export const reviewsData: unknown[] = [
       "El precio de oferta cambia"
     ],
     "cta": {
-      "text": "Busca el vestido por su nombre en SHEIN y revisa el plazo en la página del pedido antes de pagar.",
+      "text": "Busque el vestido por su nombre en SHEIN y revise el plazo en la página del pedido antes de pagar.",
       "label": "Ir a SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -171246,7 +171252,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Impuestos: revisa el resumen del pedido",
+        "heading": "Impuestos: revise el resumen del pedido",
         "paragraphs": [
           "Los impuestos de importación dependen del país donde llega el pedido y del valor de la compra. El resumen del pedido muestra el monto antes de pagar."
         ]
@@ -171281,7 +171287,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido. Sume los días de procesamiento y la entrega prevista de la página, y compárelo con la fecha de la fiesta.",
+          "¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido. Sume los días de procesamiento y la entrega prevista de la página, y compare con la fecha de la fiesta.",
           "¿Cómo saber si el vestido es largo o midi? Por el largo que declara la descripción y por la medida en centímetros de la guía de tallas de la prenda.",
           "¿Se puede usar el 4CW5Y para conseguir descuento? No. Es un código de invitación: no da descuento y no es un cupón."
         ]
@@ -171323,7 +171329,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-    "imageAlt": "Robes de soirée SHEIN bleu marine et bleu poudré, pour Noël, le réveillon du Nouvel An et la remise de diplôme",
+    "imageAlt": "Robes de soirée SHEIN bleu marine et bleu poudré, pour Noël, le réveillon et la remise de diplôme",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -171332,7 +171338,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "La livraison doit arriver avant la date de la fête",
-      "Le prix promo change"
+      "Le prix en promotion change"
     ],
     "cta": {
       "text": "Recherchez la robe par son nom sur SHEIN et vérifiez le délai sur la page de la commande avant de payer.",
@@ -171359,7 +171365,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comment choisir selon l'occasion",
         "paragraphs": [
-          "Fête de fin d'année : le délai commande. La commande passe par le traitement avant l'expédition, et la livraison n'apparaît que sur la page de la commande. Si la fête tombe la semaine de Noël ou du réveillon, ne validez la commande qu'après avoir vu la date de livraison prévue.",
+          "Fête de fin d'année : le délai décide. La commande passe par le traitement avant l'expédition, et la livraison n'apparaît que sur la page de la commande. Si la fête tombe la semaine de Noël ou du réveillon, ne validez la commande qu'après avoir vu la date de livraison prévue.",
           "Remise de diplôme : la couleur et la longueur décident. Regardez l'invitation et l'horaire. Le soir, le long et le midi fonctionnent souvent. En journée, un modèle court ou mi-long convient mieux.",
           "Mariage en tant qu'invitée : le ton de la cérémonie passe avant le modèle. Jour ou soir, église ou salle de réception. Consultez l'invitation et l'heure de la cérémonie avant de choisir la couleur.",
           "Les robes de mariée et de demoiselle d'honneur ne font pas partie de ce guide."
@@ -171723,8 +171729,8 @@ export const reviewsData: unknown[] = [
         "heading": "So wählen Sie nach Anlass",
         "paragraphs": [
           "Feier zum Jahresende: Die Lieferzeit entscheidet. Die Bestellung durchläuft vor dem Versand die Bearbeitung, und die Lieferung steht nur auf der Bestellseite. Fällt die Feier in die Weihnachts- oder Silvesterwoche, schließen Sie die Bestellung erst ab, wenn Sie den voraussichtlichen Liefertermin gesehen haben.",
-          "Abschlussfeier: Farbe und Länge entscheiden. Schauen Sie auf Einladung und Uhrzeit. Abends funktionieren Lang und Midi meist gut. Tagsüber passt ein kurzes oder knielanges Modell besser.",
-          "Hochzeitsgast: Der Ton der Veranstaltung kommt vor dem Modell. Tag oder Abend, Kirche oder Saal. Schauen Sie vor der Farbwahl auf Einladung und Uhrzeit der Zeremonie.",
+          "Abschlussfeier: Farbe und Länge entscheiden. Schauen Sie auf die Einladung und die Uhrzeit. Abends funktionieren Lang und Midi meist gut. Tagsüber passt ein kurzes oder knielanges Modell besser.",
+          "Hochzeitsgast: Der Ton der Veranstaltung kommt vor dem Modell. Tag oder Abend, Kirche oder Saal. Schauen Sie vor der Farbwahl auf die Einladung und die Uhrzeit der Zeremonie.",
           "Brautkleider und Brautjungfernkleider bleiben in diesem Ratgeber außen vor."
         ],
         "images": [
@@ -171972,7 +171978,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Steuern: Bestellübersicht prüfen",
+        "heading": "Steuern: Prüfen Sie die Bestellübersicht",
         "paragraphs": [
           "Einfuhrsteuern hängen vom Land ab, in das bestellt wird, und vom Bestellwert. Die Bestellübersicht zeigt den Betrag vor der Zahlung."
         ]
@@ -172061,7 +172067,7 @@ export const reviewsData: unknown[] = [
       "Il prezzo in offerta cambia"
     ],
     "cta": {
-      "text": "Cerca l'abito per nome su SHEIN e controlla i tempi di consegna nella pagina dell'ordine prima di pagare.",
+      "text": "Cercate l'abito per nome su SHEIN e controllate i tempi di consegna nella pagina dell'ordine prima di pagare.",
       "label": "Vai su SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -172085,7 +172091,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Come scegliere in base all'occasione",
         "paragraphs": [
-          "Festa di fine anno: comandano i tempi. L'ordine passa per l'elaborazione prima della spedizione, e la consegna compare solo nella pagina dell'ordine. Se la festa cade nella settimana di Natale o di Capodanno, concludete l'ordine solo dopo aver visto la consegna prevista.",
+          "Festa di fine anno: contano i tempi. L'ordine passa per l'elaborazione prima della spedizione, e la consegna compare solo nella pagina dell'ordine. Se la festa cade nella settimana di Natale o di Capodanno, concludete l'ordine solo dopo aver visto la consegna prevista.",
           "Laurea: colore e lunghezza decidono. Guardate l'invito e l'orario. Di sera, il lungo e il midi di solito funzionano. Di giorno, un modello corto o al ginocchio sta meglio.",
           "Matrimonio da invitata: il tono dell'evento viene prima del modello. Giorno o sera, chiesa o sala. Conviene guardare l'invito e l'ora della cerimonia prima di scegliere il colore.",
           "L'abito da sposa e quello da damigella restano fuori da questa guida."
@@ -172335,7 +172341,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Tasse: controlla il riepilogo dell'ordine",
+        "heading": "Tasse: controllate il riepilogo dell'ordine",
         "paragraphs": [
           "Le tasse d'importazione dipendono dal Paese di arrivo dell'ordine e dal valore dell'acquisto. Il riepilogo dell'ordine mostra l'importo prima del pagamento."
         ]
@@ -172405,7 +172411,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN에서 파티 드레스를 고르는 법. 졸업식, 결혼식 하객, 연말 모임에 맞춰 행사, 소재, 사이즈, 배송 기간을 정리하고 쇼핑몰에서 확인한 드레스 3벌을 소개합니다.",
-    "metaDescription": "SHEIN 파티 드레스: 크리스마스와 졸업식을 위한 행사, 소재, 사이즈, 배송 기간 가이드. 쇼핑몰의 드레스 3벌은 각 상품 페이지에서 확인했습니다.",
+    "metaDescription": "SHEIN 파티 드레스: 크리스마스와 졸업식을 위한 행사, 소재, 사이즈, 배송 기간 가이드. 쇼핑몰의 드레스 3벌은 각 상품 페이지에서 확인한 내용입니다.",
     "publishedAt": "2026년 10월 30일",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -172431,7 +172437,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "데이터는 게재일에 SHEIN에서 확인했습니다. 링크와 추천 코드 4CW5Y로 수수료를 받을 수 있습니다. 팀원 중 누구도 제품을 착용하지 않았습니다.",
+    "editorialNote": "데이터는 게재일에 SHEIN에서 확인한 내용입니다. 링크와 추천 코드 4CW5Y로 수수료를 받을 수 있습니다. 팀원 중 누구도 제품을 착용하지 않았습니다.",
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-ko",
@@ -172442,7 +172448,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "SHEIN 파티 드레스는 행사, 소재, 도착 날짜 세 가지로 고릅니다. 크리스마스와 새해 전야에는 디자인보다 배송 기간이 더 중요합니다. 졸업식과 결혼식 하객 드레스는 색, 길이, 톤이 고민거리입니다. 아래에 소재, 안감, 평점과 함께 쇼핑몰의 드레스 3벌을 소개합니다."
+          "SHEIN 파티 드레스는 행사, 소재, 도착 날짜 세 가지로 고릅니다. 크리스마스와 새해 전야에는 디자인보다 배송 기간이 더 중요합니다. 졸업식과 결혼식 하객 드레스는 색, 길이, 톤이 고민거리입니다. 아래는 소재, 안감, 평점과 함께 정리한 쇼핑몰의 드레스 3벌입니다."
         ]
       },
       {
@@ -172456,7 +172462,7 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-fenda.webp",
-            "alt": "네이비 스팽글 롱 드레스에 옆트임이 있는 드레스를 입고 야외에 선 모델",
+            "alt": "옆트임이 있는 네이비 스팽글 롱 드레스를 입고 야외에 선 모델",
             "caption": "SHEIN 공식 사진.",
             "objectFit": "contain",
             "aspectRatio": 0.7506,
@@ -172542,7 +172548,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN에서 확인한 드레스 3벌",
         "paragraphs": [
-          "소재, 길이, 평점은 각 상품 페이지의 정보이며 2026년 10월 30일에 확인했습니다. 결제하기 전에 상품 페이지에서 가격과 배송 예정일을 확인하세요."
+          "소재, 길이, 평점은 2026년 10월 30일 기준 각 상품 페이지의 정보입니다. 결제하기 전에 상품 페이지에서 가격과 배송 예정일을 확인하세요."
         ],
         "comparisonTable": {
           "caption": "SHEIN 드레스 3벌, 각 상품 페이지의 정보 기준.",
@@ -172589,7 +172595,7 @@ export const reviewsData: unknown[] = [
           },
           {
             "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
-            "alt": "네이비 스팽글 롱 드레스에 슬릿이 있는 드레스를 입고 대리석 바닥에 선 모델",
+            "alt": "슬릿이 있는 네이비 스팽글 롱 드레스를 입고 대리석 바닥에 선 모델",
             "caption": "SHEIN 공식 사진.",
             "objectFit": "contain",
             "aspectRatio": 0.7506,
@@ -172733,8 +172739,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "SHEIN 파티 드레스는 크리스마스에 맞춰 도착하나요? 주문 날짜에 달렸습니다. 처리 일수와 페이지의 배송 예정일을 더해 파티 날짜와 비교하세요.",
-          "드레스가 롱인지 미디인지 어떻게 알 수 있나요? 설명에 적힌 길이와 해당 상품 사이즈 가이드의 센티미터 치수로 확인합니다.",
+          "SHEIN 파티 드레스는 크리스마스에 맞춰 도착하나요? 주문 날짜에 따라 다릅니다. 처리 일수와 페이지의 배송 예정일을 더해 파티 날짜와 비교하세요.",
+          "드레스가 롱인지 미디인지 어떻게 알 수 있나요? 설명에 적힌 길이와 해당 상품 사이즈 가이드의 센티미터 치수로 확인하세요.",
           "4CW5Y로 할인을 받을 수 있나요? 아니요. 추천 코드이므로 할인이 없고 쿠폰도 아닙니다."
         ]
       }
@@ -172768,7 +172774,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEINでパーティードレスを選ぶ方法。卒業式、結婚式のゲスト、年末の集まりに向けて、場面、生地、サイズ、納期を整理し、お店で確認した3着を紹介します。",
-    "metaDescription": "SHEINのパーティードレス選び：クリスマスと卒業式に向けて、場面、生地、サイズ、納期を解説。お店の3着は各商品ページで確認しました。",
+    "metaDescription": "SHEINのパーティードレス選び：クリスマスと卒業式に向けて、場面、生地、サイズ、納期を解説。お店の3着は各商品ページで確認済みです。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -172794,7 +172800,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "データは掲載日にSHEINで確認しました。リンクと紹介コード4CW5Yから手数料を受け取る場合があります。スタッフは誰も着用していません。",
+    "editorialNote": "データは掲載日にSHEINで確認済みです。リンクと紹介コード4CW5Yから手数料を受け取る場合があります。スタッフは誰も着用していません。",
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-ja",
@@ -172805,7 +172811,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "SHEINのパーティードレスは、場面、生地、届く日の3点で選びます。クリスマスや年越しは、デザインより納期が重要です。卒業式や結婚式のゲストなら、悩むのは色、丈、トーンです。以下に、生地、裏地、評価つきでお店の3着を紹介します。"
+          "SHEINのパーティードレスは、場面、生地、届く日の3点で選びます。クリスマスや年越しは、デザインより納期が重要です。卒業式や結婚式のゲストなら、悩むのは色、丈、トーンです。以下は、生地、裏地、評価つきのお店の3着です。"
         ]
       },
       {
@@ -172883,7 +172889,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "商品説明の読み方",
         "paragraphs": [
-          "支払う前に、写真だけでなく商品説明を読みましょう。組成、裏地、透け感、丈、ファスナー、洗濯方法が書かれています。"
+          "支払う前に、写真だけでなく商品説明を読みましょう。組成、裏地、透け感、丈、留め具、洗濯方法が書かれています。"
         ],
         "bullets": [
           "**生地：** こうしたドレスはポリエステルとエラスタンの組み合わせが多く見られます。素材名だけでなく、各素材の割合を確認しましょう。",
@@ -172905,7 +172911,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEINで確認した3着",
         "paragraphs": [
-          "生地、丈、評価は各商品ページの情報で、2026年10月30日に確認しました。支払い前に、商品ページで価格と配達予定日を確認してください。"
+          "生地、丈、評価は2026年10月30日時点の各商品ページの情報です。支払い前に、商品ページで価格と配達予定日を確認してください。"
         ],
         "comparisonTable": {
           "caption": "SHEINのドレス3着。各商品ページのデータに基づく。",
@@ -173097,7 +173103,7 @@ export const reviewsData: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "SHEINのパーティードレスはクリスマスに間に合いますか？注文日しだいです。処理日数とページの配達予定日を足して、パーティーの日と比べてください。",
-          "ドレスがロングかミディかは、どう見分けますか？説明に書かれた丈と、その商品のサイズガイドにあるセンチ表記で判断します。",
+          "ドレスがロングかミディかは、どう見分けますか？説明に書かれた丈と、その商品のサイズガイドにあるセンチ表記で判断できます。",
           "4CW5Yで割引は受けられますか？いいえ。紹介コードなので割引はなく、クーポンでもありません。"
         ]
       }
@@ -173175,7 +173181,7 @@ export const reviewsData: unknown[] = [
         "heading": "依場合挑選",
         "paragraphs": [
           "年終聚會：時間說了算。訂單出貨前要先經過處理，送達時間只會顯示在訂單頁面。如果聚會在聖誕節或跨年那一週，請先確認預計送達日期再下單。",
-          "畢業典禮：顏色與長度是關鍵。先看邀請函與時間。晚上的話，長版和及膝長度通常都合適；白天則是短版或及膝款比較自在。",
+          "畢業典禮：顏色與長度是關鍵。先看邀請函與時間。晚上的話，長版和中長長度通常都合適；白天則是短版或中長款比較自在。",
           "婚禮賓客：先看場合的基調，再看款式。白天或晚上，教堂或宴會廳。選顏色之前，最好先看邀請函與儀式時間。",
           "婚紗與伴娘禮服不在本指南的範圍內。"
         ],
@@ -173194,7 +173200,7 @@ export const reviewsData: unknown[] = [
           "items": [
             {
               "piece": "年終聚會",
-              "howTo": "聖誕晚餐選輕薄布料的及膝洋裝；跨年選長版或短版，晚上的聚會可以帶點亮片。",
+              "howTo": "聖誕晚餐選輕薄布料的中長洋裝；跨年選長版或短版，晚上的聚會可以帶點亮片。",
               "occasion": "聖誕晚餐與跨年派對。",
               "pairsWith": [
                 {
@@ -173210,7 +173216,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "畢業典禮",
-              "howTo": "晚上：長版或及膝款搭細帶涼鞋；白天：短版或及膝款搭包鞋。",
+              "howTo": "晚上：長版或中長款搭細帶涼鞋；白天：短版或中長款搭包鞋。",
               "occasion": "授證典禮與舞會，服裝規定看邀請函。",
               "pairsWith": [
                 {
@@ -173233,7 +173239,7 @@ export const reviewsData: unknown[] = [
                   "label": "中跟包鞋"
                 },
                 {
-                  "label": "有型的包包"
+                  "label": "挺括的包包"
                 },
                 {
                   "label": "輕薄西裝外套"
@@ -173251,7 +173257,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**布料：** 這類洋裝常見聚酯纖維加彈性纖維。要看每種材質的比例，不要只看材質名稱。",
           "**內裡與透視度：** 沒有內裡的話，內衣的顏色可能會透出來。",
-          "**長度：** 及膝、長版與短版，效果不同。標題和說明不一定一致，所以要核對以公分標示的尺寸。",
+          "**長度：** 中長、長版與短版，效果不同。標題和說明不一定一致，所以要核對以公分標示的尺寸。",
           "**洗滌：** 說明會寫明可機洗、手洗或只能乾洗。如果只能乾洗，就得送洗衣店。"
         ],
         "images": [
@@ -173285,7 +173291,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Via Vilarinho 短洋裝，西裝剪裁，方領（海軍藍）](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
-              "95% 聚酯纖維，5% 彈性纖維。內裡只在上半身。標題寫短版，說明寫及膝款。",
+              "95% 聚酯纖維，5% 彈性纖維。內裡只在上半身。標題寫短版，說明寫中長款。",
               "店內標示適合晚上、婚禮與辦公室。評分 4.88，評論 80 則。"
             ],
             [
@@ -173345,14 +173351,14 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Via Vilarinho 短洋裝",
               "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
-              "howTo": "西裝剪裁適合搭包鞋與有型的包包；加一件西裝外套，就能穿去上班。",
+              "howTo": "西裝剪裁適合搭包鞋與挺括的包包；加一件西裝外套，就能穿去上班。",
               "occasion": "晚上、婚禮與辦公室。",
               "pairsWith": [
                 {
                   "label": "高跟淺口鞋"
                 },
                 {
-                  "label": "有型的包包"
+                  "label": "挺括的包包"
                 },
                 {
                   "label": "西裝外套"
@@ -173391,7 +173397,7 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
-            "alt": "模特兒背對鏡頭，穿著海軍藍短袖及膝洋裝",
+            "alt": "模特兒背對鏡頭，穿著海軍藍短袖中長洋裝",
             "caption": "SHEIN 官方照片。",
             "objectFit": "contain",
             "aspectRatio": 0.7792,
@@ -173443,7 +173449,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "平台優惠券每筆訂單可使用一張，所有付款方式都適用。",
-          "4CW5Y 不是優惠券。它是 SHEIN 的推薦碼：在 App 的搜尋列搜尋，不要貼到結帳頁，不提供折扣，也不能與其他優惠合併。用法請見[推薦碼說明](/zh-hant/reviews/shein-referral-code-zh-hant)。店內活動在 [SHEIN 頁面](/zh-hant/coupons/shein)。"
+          "4CW5Y 不是優惠券。它是 SHEIN 的推薦碼：在 App 的搜尋列搜尋，不要貼到結帳頁，不提供折扣，也不能與其他優惠合併。用法請見[推薦碼說明](/zh-hant/reviews/shein-referral-code-zh-hant)。店內活動在[SHEIN 頁面](/zh-hant/coupons/shein)。"
         ],
         "images": [
           {
@@ -173460,7 +173466,7 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "SHEIN 的派對洋裝趕得上聖誕節嗎？取決於下單日期。把處理天數和頁面上的預計送達日期加起來，再與聚會日期比較。",
-          "怎麼知道洋裝是長版還是及膝款？看說明中標明的長度，以及該商品尺寸指南裡以公分標示的尺寸。",
+          "怎麼知道洋裝是長版還是中長款？看說明中標明的長度，以及該商品尺寸指南裡以公分標示的尺寸。",
           "可以用 4CW5Y 取得折扣嗎？不行。它是推薦碼，沒有折扣，也不是優惠券。"
         ]
       }
@@ -173643,11 +173649,11 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[Firerie 长裙，单肩，薄纱（灰蓝色）](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
-              "95% 聚酯纤维，5% 氨纶。有里衬，不透明，及地长度。",
+              "95% 聚酯纤维，5% 氨纶。有里衬，不透明，及踝长度。",
               "店内标注适合婚礼。评分 4.84，评论超过 1,000 条。"
             ],
             [
-              "[Via Vilarinho 短裙，剪裁式，方领（藏青色）](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+              "[Via Vilarinho 短裙，西装式，方领（藏青色）](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
               "95% 聚酯纤维，5% 氨纶。里衬只在上半身。标题写短款，描述写中长款。",
               "店内标注适合晚上、婚礼和办公室。评分 4.88，评论 80 条。"
             ],
@@ -173708,7 +173714,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Via Vilarinho 短裙",
               "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
-              "howTo": "剪裁式设计适合配包头鞋和挺括的包；加一件西装外套，就能穿去上班。",
+              "howTo": "西装式设计适合配包头鞋和挺括的包；加一件西装外套，就能穿去上班。",
               "occasion": "晚上、婚礼和办公室。",
               "pairsWith": [
                 {
@@ -173806,7 +173812,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "平台优惠券每单可用一张，所有支付方式都适用。",
-          "4CW5Y 不是优惠券。它是 SHEIN 的推荐码：在应用的搜索栏里搜索，不要粘贴到结账页，不提供折扣，也不能与其他优惠叠加。用法见[推荐码说明](/zh-hans/reviews/shein-referral-code-zh-hans)。店内活动在 [SHEIN 页面](/zh-hans/coupons/shein)。"
+          "4CW5Y 不是优惠券。它是 SHEIN 的推荐码：在应用的搜索栏里搜索，不要粘贴到结账页，不提供折扣，也不能与其他优惠叠加。用法见[推荐码说明](/zh-hans/reviews/shein-referral-code-zh-hans)。店内活动在[SHEIN 页面](/zh-hans/coupons/shein)。"
         ],
         "images": [
           {

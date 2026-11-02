@@ -31,7 +31,7 @@
     }
   ],
   "description": "Welcher WordPress-Tarif bei Hostinger zu einer Website, drei Websites, mehreren Websites oder einem Shop passt, und wie Sie anfangen. Preise vom 30.10.2026, mit Verlängerung.",
-  "metaDescription": "WordPress bei Hostinger: Premium, Unlimited oder Cloud Startup? Tarif pro Projekt, Preis und Verlängerung und die Checkliste für den Start.",
+  "metaDescription": "WordPress bei Hostinger: Premium, Unlimited oder Cloud Startup? Tarif pro Projekt, Preis und Verlängerung am 30.10.2026 und die Checkliste für den Start.",
   "publishedAt": "30. Oktober 2026",
   "publishedAtISO": "2026-10-30",
   "draft": false,
@@ -45,7 +45,7 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Wer bei Hostinger schon WordPress nutzen will, nimmt den Premium für bis zu drei Websites. Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht und enthalten tägliche Backups. WordPress ist in allen Tarifen enthalten; die Wahl hängt von der Anzahl der Websites, dem Backup und der Verlängerung ab, wie in der Tabelle unten."
+        "Wer bei Hostinger schon WordPress nutzen will, nimmt Premium für bis zu drei Websites. Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht; tägliche Backups hat der Unlimited. WordPress ist in allen Tarifen enthalten; die Wahl hängt von der Anzahl der Websites, dem Backup und der Verlängerung ab, wie in der Tabelle unten."
       ]
     },
     {
@@ -55,7 +55,7 @@
       ],
       "image": {
         "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-de.webp",
-        "alt": "Quadro der WordPress-Tarife von Hostinger nach Projekt: bis zu 3 Websites im Premium; mehrere Websites oder ein Shop mit WooCommerce im Unlimited; Shop oder viel Traffic im Cloud Startup",
+        "alt": "Übersicht der WordPress-Tarife von Hostinger nach Projekt: bis zu 3 Websites im Premium; mehrere Websites oder ein Shop mit WooCommerce im Unlimited; Shop oder viel Traffic im Cloud Startup",
         "caption": "Die Entscheidung im Überblick: Anzahl der Websites, Speicher und Backup. Übersicht von Em Casa com Cecília, nach der internationalen Hostinger-Seite.",
         "objectFit": "contain",
         "aspectRatio": 1.6014
@@ -86,25 +86,25 @@
         "rows": [
           [
             "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-            "US$ 2,49",
-            "US$ 119,52",
-            "US$ 10,99/Monat",
+            "2,49 US$",
+            "119,52 US$",
+            "10,99 US$/Monat",
             "3 Websites, 20 GB SSD",
             "Wöchentlich"
           ],
           [
             "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-            "US$ 3,49",
-            "US$ 167,52",
-            "US$ 16,99/Monat",
+            "3,49 US$",
+            "167,52 US$",
+            "16,99 US$/Monat",
             "Unbegrenzte Websites, 50 GB NVMe",
             "Täglich"
           ],
           [
             "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-            "US$ 7,99",
-            "US$ 383,52",
-            "US$ 25,99/Monat",
+            "7,99 US$",
+            "383,52 US$",
+            "25,99 US$/Monat",
             "Unbegrenzte Websites, 100 GB NVMe",
             "Siehe Warenkorb"
           ]
@@ -130,7 +130,7 @@
       "heading": "So fangen Sie an: die Checkliste",
       "bullets": [
         "**1. Zählen Sie die Websites.** Eine, bis zu drei oder mehr. Das entscheidet in den meisten Fällen schon den Tarif.",
-        "**2. Klären Sie die Domain.** Nutzen Sie eine Domain, die Sie schon haben, oder registrieren Sie eine neue. Notieren Sie, wann sie verlängert wird.",
+        "**2. Klären Sie die Domain.** Prüfen Sie, ob Ihr Tarif eine Domain enthält, oder nutzen Sie eine Domain, die Sie schon haben. Notieren Sie, wann sie verlängert wird.",
         "**3. Installieren Sie WordPress im Panel.** Sie müssen die Dateien nicht von Hand herunterladen.",
         "**4. Wählen Sie das Theme vor dem Inhalt.** Ein Theme zu wechseln, wenn die Seite schon voll ist, macht Mehrarbeit. Nehmen Sie ein einfaches, das regelmäßig gepflegt wird.",
         "**5. Installieren Sie wenige Plugins.** Beginnen Sie mit dem, was die Seite heute braucht: Kontaktformular, SEO und im Shop WooCommerce. Jedes Plugin mehr ist eines mehr zum Aktualisieren.",

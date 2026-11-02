@@ -115,7 +115,7 @@
     {
       "heading": "I piani, mese per mese",
       "paragraphs": [
-        "I piani non si incontrano uno a uno, e il gradino sale con il numero di siti. Per numero di siti, con il prezzo al mese nel primo periodo e dopo:"
+        "I piani non combaciano uno a uno, e il gradino sale con il numero di siti. Per numero di siti, con il prezzo al mese nel primo periodo e dopo:"
       ],
       "bullets": [
         "**Fino a 3 siti:** il Premium, a 2,49 US$ al mese per 48 mesi e 10,99 US$ al rinnovo. È il più economico in promozione e al rinnovo.",
@@ -168,7 +168,7 @@
         ]
       },
       "postParagraphs": [
-        "Il rinnovo del VPS è quasi il doppio del prezzo promozionale: il KVM 1 passa da 6,49 US$ a 11,99 US$ al mese, e il KVM 2 da 8,79 US$ a 14,99 US$. Sono i prezzi della promozione di 24 mesi. Non abbiamo testato il SONAR20 sul VPS: controlla il prezzo nel carrello prima di firmare."
+        "Il rinnovo del VPS è quasi il doppio del prezzo promozionale: il KVM 1 passa da 6,49 US$ a 11,99 US$ al mese, e il KVM 2 da 8,79 US$ a 14,99 US$. Sono i prezzi della promozione di 24 mesi. Non abbiamo testato il SONAR20 sul VPS: controlla il prezzo nel carrello prima di pagare."
       ]
     },
     {
@@ -231,7 +231,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Prendi il Premium se è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre: è il piano di ingresso, in promozione e al rinnovo.",
+      "Prendi il Premium se è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre: costa meno in promozione e al rinnovo.",
       "Prendi un VPS se il sito ha bisogno di processore e memoria garantiti: il KVM 1 ha già 4 GB."
     ],
     "skipIf": [

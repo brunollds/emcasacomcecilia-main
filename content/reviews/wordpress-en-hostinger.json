@@ -86,32 +86,32 @@
         "rows": [
           [
             "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-            "US$ 2,49",
-            "US$ 119,52",
-            "US$ 10,99/mes",
+            "2,49 US$",
+            "119,52 US$",
+            "10,99 US$/mes",
             "3 sitios, 20 GB SSD",
             "Semanal"
           ],
           [
             "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-            "US$ 3,49",
-            "US$ 167,52",
-            "US$ 16,99/mes",
+            "3,49 US$",
+            "167,52 US$",
+            "16,99 US$/mes",
             "Sitios ilimitados, 50 GB NVMe",
             "Diario"
           ],
           [
             "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-            "US$ 7,99",
-            "US$ 383,52",
-            "US$ 25,99/mes",
+            "7,99 US$",
+            "383,52 US$",
+            "25,99 US$/mes",
             "Sitios ilimitados, 100 GB NVMe",
             "Consulta el carrito"
           ]
         ]
       },
       "postParagraphs": [
-        "La página no trae fecha de fin para la campaña, y los precios pueden cambiar."
+        "La página no indica fecha de fin para la campaña, y los precios pueden cambiar."
       ],
       "emphasis": "La renovación cuesta entre 3 y 5 veces el precio promocional. Elige el plan por la columna de renovación, no solo por el precio de entrada."
     },
@@ -155,19 +155,19 @@
     {
       "heading": "Qué plan elegir: el veredicto",
       "paragraphs": [
-        "**Elige Premium** si es un sitio, dos o tres, y publicas de vez en cuando. Es la entrada y la renovación más baratas de la página: US$ 10,99 al mes cuando se renueva.",
+        "**Elige Premium** si es un sitio, dos o tres, y publicas de vez en cuando. Es la entrada y la renovación más baratas de la página: 10,99 US$ al mes cuando se renueva.",
         "**Elige Unlimited** si tienes una tienda o muchos sitios. El backup diario es el motivo principal, y empieza aquí.",
-        "**Cloud Startup** solo tiene sentido si Unlimited no alcanza. Es el más caro, y la renovación de US$ 25,99 al mes pesa."
+        "**Cloud Startup** solo tiene sentido si Unlimited no alcanza. Es el más caro, y la renovación de 25,99 US$ al mes pesa."
       ]
     },
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿Cuál es el plan de WordPress más barato de Hostinger? El Premium, a US$ 2,49 al mes en 48 meses (US$ 119,52 en total), para hasta 3 sitios. Se renueva a US$ 10,99 al mes.",
+        "¿Cuál es el plan de WordPress más barato de Hostinger? El Premium, a 2,49 US$ al mes en 48 meses (119,52 US$ en total), para hasta 3 sitios. Se renueva a 10,99 US$ al mes.",
         "¿Viene WordPress instalado en Hostinger? Lo instalas desde el panel de hosting, sin descargar archivos a mano. La lista de arriba explica los pasos.",
         "¿Qué plan de WordPress conviene para una tienda online? Unlimited, por sus backups diarios y los sitios ilimitados. Para una tienda con mucho tráfico, Cloud Startup.",
         "¿Funciona el código SONAR20 en los planes de WordPress? No lo probamos ahí; confirma el precio en el carrito. Donde funciona, da 20% en el primer período.",
-        "¿El precio de renovación es igual al promocional? No. Después del primer período de 48 meses vale el precio de renovación: en Premium, US$ 10,99 al mes."
+        "¿El precio de renovación es igual al promocional? No. Después del primer período de 48 meses vale el precio de renovación: en Premium, 10,99 US$ al mes."
       ]
     },
     {

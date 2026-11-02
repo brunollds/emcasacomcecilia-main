@@ -50,7 +50,7 @@
     {
       "heading": "依情況選擇：一張表",
       "paragraphs": [
-        "關鍵不在於哪個工具更好，而在於你的名單有多少人、每月寄多少封、是否需要 WhatsApp。下表依據 2026 年 10 月 30 日 Hostinger、Mailchimp 和 Brevo 價格頁面上的內容，依情況整理："
+        "關鍵不在於哪個工具更好，而在於你的名單有多少人、每月寄多少封、是否需要 WhatsApp。下表依據 Hostinger、Mailchimp 和 Brevo 價格頁面上的內容，依情況整理："
       ],
       "comparisonTable": {
         "headers": [
@@ -100,7 +100,8 @@
     {
       "heading": "Reach 方案",
       "paragraphs": [
-        "Reach 有三個付費方案，沒有免費版：Starter、Grow 和 Pro。在購物車裡，Grow 因為 500 位收件人的上限而顯示為「Reach 500」。下面是 2026 年 10 月 30 日在 Hostinger 國際站讀到的美元價格，屬於黑色星期五促銷期間的價格，可能因國家和幣別而異："
+        "Reach 有三個付費方案，沒有免費版：Starter、Grow 和 Pro。在購物車裡，Grow 因為 500 位收件人的上限而顯示為「Reach 500」。下面是 2026 年 10 月 30 日在 Hostinger 國際站讀到的美元價格，屬於黑色星期五促銷期間的價格，可能因國家和幣別而異：",
+        "頁面寫明，可在 30 天內申請退款。"
       ],
       "comparisonTable": {
         "headers": [
@@ -115,7 +116,7 @@
             "US$ 1.49"
           ],
           [
-            "[Grow](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
+            "[Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)",
             "US$ 1.74（合計 US$ 20.92）",
             "US$ 2.49"
           ],
@@ -150,12 +151,12 @@
         "rows": [
           [
             "Mailchimp 免費版",
-            "0",
+            "免費",
             "適用於少於 250 位聯絡人。超過上限後，寄送會暫停。"
           ],
           [
             "Brevo 免費版",
-            "0",
+            "免費",
             "永久免費，不需信用卡，每天最多 300 封。"
           ]
         ]

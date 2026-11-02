@@ -45,7 +45,7 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Bei der Verlängerung ist der Premium der Hostinger der günstigste Tarif, und der Unlimited ist der für viele Websites, ohne Begrenzung der Websites. Die Aktionen laufen 48 Monate, deshalb vergleicht man fair pro Monat, mit der Verlängerung daneben, in der Tabelle unten."
+        "Bei der Verlängerung ist Hostingers Premium der günstigste Tarif, und der Unlimited ist der Tarif für viele Websites, ohne Begrenzung der Websites. Die Aktionen laufen 48 Monate, deshalb vergleicht man fair pro Monat, mit der Verlängerung daneben, in der Tabelle unten."
       ]
     },
     {
@@ -200,14 +200,14 @@
     {
       "heading": "Wer schreibt",
       "paragraphs": [
-        "Em Casa com Cecília läuft auf dem verwalteten Hosting der Hostinger, und die Domain ist seit 2024 bei der Hostinger registriert. Der Text verbindet, was die internationalen Seiten der Hostinger sagen."
+        "Em Casa com Cecília läuft auf dem verwalteten Hosting der Hostinger, und die Domain ist seit 2024 bei der Hostinger registriert. Der Text bündelt, was die internationalen Seiten der Hostinger sagen."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung nicht getestet: Prüfen Sie den Preis im Warenkorb.",
     "label": "Hosting-Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -231,7 +231,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Nehmen Sie den Premium, wenn es um eine einzelne Website geht, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder um bis zu drei: Er ist der Einstiegstarif, in der Aktion und bei der Verlängerung.",
+      "Nehmen Sie den Premium, wenn es um eine einzelne Website geht, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder um bis zu drei: Er kostet in der Aktion und bei der Verlängerung weniger.",
       "Nehmen Sie einen VPS, wenn Ihre Website garantierte Prozessorleistung und Arbeitsspeicher braucht: Der KVM 1 hat schon 4 GB."
     ],
     "skipIf": [

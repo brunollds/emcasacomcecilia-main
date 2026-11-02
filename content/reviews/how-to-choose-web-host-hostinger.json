@@ -168,13 +168,13 @@
         ]
       },
       "postParagraphs": [
-        "The VPS renewal is almost double the promotional price: KVM 1 goes from US$6.49 to US$11.99 a month, and KVM 2 from US$8.79 to US$14.99. These are the 24-month promotion prices. We did not test SONAR20 on the VPS, so check the price in the cart before you sign."
+        "The VPS renewal is almost double the promotional price: KVM 1 goes from US$6.49 to US$11.99 a month, and KVM 2 from US$8.79 to US$14.99. These are the 24-month promotion prices. We did not test SONAR20 on the VPS, so check the price in the cart before you buy."
       ]
     },
     {
       "heading": "SONAR20 on Hostinger",
       "paragraphs": [
-        "Use the code **SONAR20** in the coupon field of the cart, or come in through this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table and on the VPS, we did not test it; check in the cart. We did not test renewal. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
+        "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table and on the VPS, we did not test it; check in the cart. We did not test renewal. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
       ]
     },
     {
@@ -231,7 +231,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Take Premium if it is one site, such as a blog, a portfolio or a company page, or up to three: it is the entry plan, in the promotion and at renewal.",
+      "Take Premium if it is one site, such as a blog, a portfolio or a company page, or up to three: it costs less in the promotion and at renewal.",
       "Take a VPS if the site needs guaranteed processor and memory: KVM 1 already has 4 GB."
     ],
     "skipIf": [
