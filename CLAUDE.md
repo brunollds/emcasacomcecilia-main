@@ -298,7 +298,10 @@ vídeo, primeiras impressões e uso noturno.
 - Banners de campanha da loja ("Publicidade"): cada campanha é um arquivo em `content/campanhas/<id>.json` (o nome é
   o `id`), com a fonte (`source`) e a data em que foi vista (`verifiedAt`). O `build-index` junta os arquivos em
   `src/lib/generated/store-banners.ts`, tipado pelo `StoreBanner`, e o `src/lib/storeBanners.ts` guarda só o tipo e
-  as regras. Chaveadas pelo `affiliate`, entram sozinhas em todo artigo da loja, nos 10 idiomas. O `top` vai logo depois da 1ª seção do corpo
+  as regras. Chaveadas pelo `affiliate`, entram sozinhas em todo artigo da loja. A campanha leva só o texto em
+  português (sai só nos artigos em PT e pode levar à loja brasileira, `.com.br` inclusive) ou os 10 idiomas (sai em
+  todas as versões, com um link que vale em todas, nunca de um país só); o `test:store-banners` barra o meio-termo. O
+  `top` vai logo depois da 1ª seção do corpo
   e o `mid` logo antes do FAQ (sem FAQ, da última), pela prop `slots` do `ReviewContentSections`. O banner
   (`ArticlePromoBanner`, de `src/components/review/article/`) fala só da campanha: nunca cita o código da loja nem diz
   que soma com ele. O selo vem de `adLabel` (`articleCopy.ts`). Datas com `-03:00`; o artigo é gerado no build, então

@@ -7,12 +7,15 @@ import { storeBannersData } from '@/lib/generated/store-banners';
 // continua no bloco da loja, e nenhum texto daqui cita o código nem diz que soma com ele.
 export type StoreBannerSlot = 'top' | 'mid';
 
+export type StoreBannerCopy = { headline: string; text: string; action: string; tag?: string };
+
 export type StoreBanner = {
   id: string;
   affiliate: string;
   slot: StoreBannerSlot;
-  // Link de afiliado da campanha. Vale nos 10 idiomas, então nunca é um link da loja de um país só (br.shein.com).
-  // A exceção é a campanha que só vale com o código da loja: o banner, que não cita o código, leva ao nosso artigo
+  // Link de afiliado da campanha. A campanha com os 10 idiomas sai em todas as versões do artigo, então o link nunca é
+  // de um país só (br.shein.com); a que só tem o português sai só nos artigos em PT e pode levar à loja brasileira. A
+  // exceção é a campanha que só vale com o código da loja: o banner, que não cita o código, leva ao nosso artigo
   // que explica a campanha (`/reviews/<slug>`, da mesma loja), sem rel sponsored e nunca no próprio artigo.
   href: string;
   // A arte é desenhada no componente: a etiqueta com o número da campanha (com o `tag` do idioma em cima, o "até")
@@ -21,7 +24,8 @@ export type StoreBanner = {
   // Com o fuso de Brasília (-03:00). Sem `endsAt`, o banner fica até o arquivo dele sair de content/campanhas.
   startsAt?: string;
   endsAt?: string;
-  copy: Record<CouponCopyLocale, { headline: string; text: string; action: string; tag?: string }>;
+  // Só o português (a campanha sai só nos artigos em PT) ou os 10 idiomas; o test:store-banners barra o meio-termo.
+  copy: { pt: StoreBannerCopy } & Partial<Record<CouponCopyLocale, StoreBannerCopy>>;
   // Onde a campanha foi vista (página da loja, e-mail ou painel do parceiro) e quando, no formato AAAA-MM-DD.
   source: string;
   verifiedAt: string;
@@ -40,13 +44,14 @@ export function isArticleBannerHref(href: string): boolean {
   return href.startsWith('/reviews/');
 }
 
-// Os banners que o artigo monta, em fila por lugar: os da loja que ainda não acabaram, menos o que leva ao próprio
-// artigo, na ordem do início. As campanhas de um lugar não se sobrepõem (o test:store-banners confere), então no máximo
+// Os banners que o artigo monta, em fila por lugar: os da loja que ainda não acabaram e têm o texto do idioma do
+// artigo, menos o que leva ao próprio artigo, na ordem do início. As campanhas de um lugar não se sobrepõem (o test:store-banners confere), então no máximo
 // uma está no ar. O artigo é gerado no build: a que ainda não começou entra escondida no HTML e aparece no navegador
 // na hora do início (ArticlePromoBanner), e a do ar some no fim, sem esperar o próximo deploy.
 export function getArticleStoreBanners(
   affiliate: string,
   reviewSlug: string,
+  locale: CouponCopyLocale,
   now: Date,
   banners: StoreBanner[] = STORE_BANNERS
 ): Partial<Record<StoreBannerSlot, StoreBanner[]>> {
@@ -54,7 +59,7 @@ export function getArticleStoreBanners(
   const startOf = (banner: StoreBanner) => (banner.startsAt ? Date.parse(banner.startsAt) : -Infinity);
   banners
     .filter((banner) => banner.affiliate === affiliate && isStoreBannerLive({ endsAt: banner.endsAt }, now))
-    .filter((banner) => banner.href !== `/reviews/${reviewSlug}`)
+    .filter((banner) => banner.copy[locale] && banner.href !== `/reviews/${reviewSlug}`)
     .sort((a, b) => startOf(a) - startOf(b))
     .forEach((banner) => (queues[banner.slot] ??= []).push(banner));
   return queues;

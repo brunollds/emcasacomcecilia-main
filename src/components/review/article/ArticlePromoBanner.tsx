@@ -20,7 +20,10 @@ export type ArticlePromoBannerProps = {
 // vale com o código leva ao nosso artigo sobre ela, link interno e sem sponsored.
 export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug, hiddenInHtml = false }: ArticlePromoBannerProps) {
   const label = getArticleCopy(locale).adLabel;
-  const { headline, text, action, tag } = banner.copy[locale];
+  // A fila do artigo só traz campanha com o texto do idioma (getArticleStoreBanners).
+  const copy = banner.copy[locale];
+  if (!copy) return null;
+  const { headline, text, action, tag } = copy;
 
   const aside = (
     <aside aria-label={label} data-promo-banner={banner.slot} className="text-marinho print:hidden">
