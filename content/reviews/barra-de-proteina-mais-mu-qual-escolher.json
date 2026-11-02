@@ -110,7 +110,7 @@
     {
       "heading": "Calorias, proteína e açúcar pela tabela",
       "paragraphs": [
-        "Estes números vêm só das tabelas nutricionais que a loja publica em imagem. Cada linha é um sabor, e a porção é a unidade vendida. Onde não há tabela, o produto não aparece nesta tabela."
+        "O açúcar e as calorias que valem são os da tabela por unidade. Cada linha abaixo é um sabor. Onde não há tabela, o produto não aparece nesta tabela."
       ],
       "images": [
         {
@@ -237,20 +237,20 @@
       },
       "postParagraphs": [
         "Açúcar total é todo o açúcar do produto. Açúcar adicionado é só o que entra na fabricação. Nos onze sabores lidos, o adicionado é 0 g. A loja escreve \"zero adição de açúcar\" em parte da linha; a tabela da Avelã confirma o 0 g adicionado, mas mostra 3,7 g de açúcar total. O açúcar total vai de 0,1 g, no Veggie Wafer, a 3,7 g, na Mukebar.",
-        "Não há tabela publicada para a Mukebar Paçoquita 40 g, e os outros sabores da Mukebar 720 g não foram lidos. Para eles, esta comparação não tem número de calorias nem de açúcar."
+        "Sem tabela publicada, a Paçoquita 40 g e os outros sabores da Mukebar 720 g ficam fora desta tabela."
       ]
     },
     {
       "heading": "Preço por unidade e por grama de proteína",
       "paragraphs": [
-        "O preço da unidade é o da caixa dividido pelo número de unidades, no preço normal de 25/10/2026, sem Pix e sem cupom. O R$ por grama de proteína é conta nossa: o preço da unidade dividido pela proteína da unidade. A loja não publica esse número. Serve só para comparar os produtos entre si.",
+        "O preço que decide é o da unidade, no preço normal de 25/10/2026, sem Pix e sem cupom. O R$ por grama de proteína é conta nossa: o preço da unidade dividido pela proteína da unidade. A loja não publica esse número. Serve só para comparar os produtos entre si.",
         "Com o cupom de 10%, a conta muda. A Mukebar 720 g sai a R$ 0,78 por grama de proteína, e a Chocowheyfer Sem Cobertura, a R$ 0,90. O Pix dá 3% de desconto e também soma com o cupom, mas essa conta não entra nos números acima."
       ]
     },
     {
       "heading": "Alérgenos e o wafer vegetal",
       "paragraphs": [
-        "A loja chama o Veggie Wafer de vegetal. Na descrição, ela escreve que o produto é \"ideal pra veganos, intolerantes ou quem só quer variar\". A página não mostra selo vegano, e este texto não diz que o produto é vegano. Na lista de ingredientes, não há leite nem lactose, mas o aviso de alérgenos diz \"pode conter leite\". Quem evita leite deve olhar esse aviso antes de comprar.",
+        "A loja chama o Veggie Wafer de vegetal. Na descrição, ela escreve que o produto é \"ideal pra veganos, intolerantes ou quem só quer variar\". A página não mostra selo vegano. Na lista de ingredientes, não há leite nem lactose, mas o aviso de alérgenos diz \"pode conter leite\". Quem evita leite deve olhar esse aviso antes de comprar.",
         "Lemos a lista de ingredientes e o aviso de alérgenos de três produtos, nas páginas dos produtos:"
       ],
       "bullets": [
@@ -266,7 +266,7 @@
       "heading": "Cupom e compra",
       "paragraphs": [
         "O cupom MMEMCASACOMCECILIA dá 10% em todo o site oficial da Mais Mu, inclusive em produto que já está em oferta. Ele soma com o desconto de 3% do Pix. Não soma com outro cupom nem com o cashback da própria loja, e só vale no site oficial, não no Mercado Livre. As condições atualizadas ficam na [página do cupom da Mais Mu](/cupons/mais-mu).",
-        "O passo a passo no checkout está em [como usar o cupom](/reviews/cupom-mais-mu-como-usar). A Mais Mu é uma marca brasileira que vende pelo próprio site; a reputação dela, com o histórico no Reclame Aqui, está em [Mais Mu é confiável](/reviews/mais-mu-e-confiavel), e não repetimos isso aqui."
+        "O passo a passo no checkout está em [como usar o cupom](/reviews/cupom-mais-mu-como-usar). A reputação da loja, com o histórico no Reclame Aqui, está em [Mais Mu é confiável](/reviews/mais-mu-e-confiavel)."
       ]
     },
     {
@@ -284,7 +284,9 @@
       ],
       "postParagraphs": [
         "Partindo só das tabelas, decida por proteína e açúcar: o sabor fica com as avaliações da loja. Se a dieta tem alguma restrição, quem decide é um nutricionista ou médico, com a embalagem na mão."
-      ]
+      ],
+      "emphasis": "Pelos números da tabela, para o perfil de mais proteína por unidade a escolha é a Mukebar 720 g, porque tem 15 g por unidade e o menor R$ por grama de proteína.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Perguntas frequentes",
@@ -320,5 +322,16 @@
       "slug": "black-friday-mais-mu",
       "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Para quem quer mais proteína por unidade com o menor custo por grama de proteína: a Mukebar 720 g.",
+      "Para quem quer o menor preço por unidade: a Chocowheyfer Sem Cobertura."
+    ],
+    "skipIf": [
+      "Quando o sabor decide sozinho: estes números não avaliam gosto.",
+      "Quando há restrição alimentar: a decisão é com nutricionista ou médico, com a embalagem na mão.",
+      "Quando a opção precisa ser vegetal certificada: a página não mostra selo vegano e o Veggie Wafer pode conter leite."
+    ]
+  }
 }

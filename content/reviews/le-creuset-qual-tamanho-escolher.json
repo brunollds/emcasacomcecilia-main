@@ -59,7 +59,7 @@
     {
       "heading": "Os tamanhos da Panela Redonda Signature",
       "paragraphs": [
-        "A Le Creuset fabrica a Panela Redonda Signature de 14 a 34 cm. A Let's Eat It vende de 16 a 34 cm, sem o 14 e sem o 32 cm. A tabela abaixo traz a capacidade que a ficha da loja publica para cada tamanho.",
+        "A Le Creuset fabrica a Panela Redonda Signature de 14 a 34 cm. A Let's Eat It vende de 16 a 34 cm, sem o 14 e sem o 32 cm. A tabela abaixo traz a capacidade que a loja publica para cada tamanho.",
         "A tabela usa litros porque nem a marca nem a loja publicam porções por tamanho. O litro é o único número que as duas fontes dão."
       ],
       "comparisonTable": {
@@ -202,8 +202,8 @@
     {
       "heading": "Caçarola buffet: quando faz sentido",
       "paragraphs": [
-        "A caçarola buffet é a Le Creuset de formato baixo e largo. A loja a descreve como uma peça de formato amplo e baixo, tão desejável para servir quanto indispensável para cozinhar. A marca fala em levá-la do forno para a mesa como peça de servir. É esse o papel dela: ir direto à mesa, sem trocar de travessa.",
-        "A Let's Eat It tinha estes tamanhos, pela ficha da loja:"
+        "A buffet é a Le Creuset para servir à mesa, baixa e larga. A loja a descreve como peça ampla e baixa para cozinhar e servir, do forno para a mesa. É esse o papel dela: ir direto à mesa, sem trocar de travessa.",
+        "A Let's Eat It tinha estes tamanhos no site:"
       ],
       "bullets": [
         "26 cm, 2,2 L: Petal Branco e Sea Salt a R$ 2.949, e Vermelha e Laranja a R$ 2.345,15 (de R$ 2.759, com 15%).",
@@ -225,7 +225,7 @@
     {
       "heading": "Outros formatos da Le Creuset na loja",
       "paragraphs": [
-        "Uma linha por formato, com tamanho e litros pelo título e pela ficha da loja. Para comparar preço de vários tamanhos, o guia de Black Friday já tem a tabela."
+        "Uma linha por formato, com tamanho e litros do título e da página da loja. Para comparar preço de vários tamanhos, o guia de Black Friday já tem a tabela."
       ],
       "bullets": [
         "**Redonda Funda:** 24 cm, 5,2 L, esgotada na única cor que a loja tinha.",
@@ -249,7 +249,9 @@
         "Pelo preço, a 24 cm sai mais barata por litro; quem não precisa dos litros a mais não ganha nada com essa conta, e a 20 cm custa R$ 620 a menos.",
         "A buffet entra para quem leva a panela do forno à mesa. Ela serve a esse uso, mas leva menos que a redonda: 2,2 L no 26 cm e 3,5 L no 30 cm.",
         "Os números que sustentam a decisão: 20 cm com 2,4 L por R$ 2.329, 24 cm com 4,2 L por R$ 2.949, 26 cm com 5,3 L por R$ 3.089 e buffet de 26 cm com 2,2 L. Todos são preços cheios."
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria a 24 cm, porque ela cobre as receitas cheias e sai 28% mais barata por litro.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Onde comprar e o cupom",
@@ -269,5 +271,17 @@
         "Le Creuset 24 cm serve para fogão de indução? Sim, a marca diz que o ferro fundido serve em todas as fontes de calor. Os detalhes estão em [Le Creuset vale a pena](/reviews/le-creuset-vale-a-pena)."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Para receitas de 2 a 3,5 L: a 24 cm, que cobre a receita cheia e sai mais barata por litro.",
+      "Para receitas de até 2 L: a 20 cm, com folga para a tampa fechar.",
+      "Para levar a panela do forno direto à mesa: a caçarola buffet."
+    ],
+    "skipIf": [
+      "Quando o que importa são os litros: a buffet leva menos que a redonda do mesmo diâmetro.",
+      "Quando os litros a mais não entram nas receitas: a maior custa mais sem ganhar nada.",
+      "Quando a escolha é só pelo diâmetro: o que decide é o litro da receita mais cheia."
+    ]
+  }
 }

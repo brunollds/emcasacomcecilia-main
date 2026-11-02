@@ -35,6 +35,16 @@
   "coupon": "MAUAD",
   "affiliate": "belive",
   "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os cookies.",
+  "decision": {
+    "takeIf": [
+      "Leve o de castanhas e chocolate se quer mais proteína por 30 g.",
+      "Leve o de chocolate se quer menos calorias por 30 g."
+    ],
+    "skipIf": [
+      "Passe os quatro se evita ovo ou castanhas, porque todos trazem os dois.",
+      "Passe a linha Sem Lactose se procura zero açúcar: ela traz açúcar adicionado."
+    ]
+  },
   "relatedArticles": [
     {
       "slug": "brownie-sem-acucar-belive",
@@ -59,7 +69,7 @@
     {
       "heading": "Os quatro cookies sem açúcar",
       "paragraphs": [
-        "A Belive vende quatro cookies sem açúcar: chocolate, baunilha com chocolate, chocolate com avelã e castanhas com chocolate. A comparação é por 100 g. O peso vem do pacote nas fotos oficiais da loja: 67 g, com 4 unidades, no de chocolate, no de baunilha com chocolate e no de castanhas, embora a ficha dos dois primeiros diga 79 g. O de chocolate com avelã não tem foto do pacote na loja, e vale o peso da ficha, 79 g."
+        "A comparação é por 100 g, e o peso do pacote muda a conta. O peso vem do pacote nas fotos oficiais da loja: 67 g, com 4 unidades, no de chocolate, no de baunilha com chocolate e no de castanhas, embora a ficha dos dois primeiros diga 79 g. No de avelã, vale o peso da ficha, 79 g; confira a embalagem."
       ],
       "comparisonTable": {
         "headers": [
@@ -125,7 +135,7 @@
     {
       "heading": "Quanto sai cada um",
       "paragraphs": [
-        "Preços lidos na ficha da loja em 28/10/2026, no cartão. Cada pacote custa R$ 8,97, nos quatro sabores. O kit de 10 de cada sabor custa R$ 83,42 no cartão: a ficha mostra R$ 89,70 riscado, e no Pix o kit fica em R$ 79,25. A página do kit não informa quantos pacotes vêm, então este texto não calcula preço por unidade.",
+        "Cada pacote custa R$ 8,97 nos quatro sabores, no cartão, em 28/10/2026. O kit de 10 de cada sabor custa R$ 83,42 no cartão: a ficha mostra R$ 89,70 riscado, e no Pix o kit fica em R$ 79,25. A página do kit não informa quantos pacotes vêm; confira antes de comprar.",
         "O cupom MAUAD tira mais 10% do pacote e do kit. O site anuncia Black November com \"até 30%\". Os preços podem mudar; confira o total no carrinho."
       ]
     },
@@ -250,14 +260,12 @@
     },
     {
       "heading": "Qual escolher",
+      "emphasis": "Pelos números da tabela, para o perfil mais proteína a escolha é o de castanhas e chocolate, porque tem 1,9 g por 30 g; para o perfil menos calorias, o de chocolate, com 108 kcal.",
       "bullets": [
         "Quer mais proteína: o de castanhas e chocolate, com 1,9 g por 30 g. Os outros três têm 1,4 g.",
         "Quer menos calorias por 30 g: o de chocolate, com 108 kcal. O de castanhas é o mais calórico, com 122 kcal.",
         "Quer o menor preço por 100 g: o de chocolate com avelã, R$ 11,35 pelo peso da ficha (79 g). Os outros três, de 67 g, saem a R$ 13,39.",
         "Evita castanhas ou ovo: nenhum dos quatro serve, porque todos trazem os dois."
-      ],
-      "postParagraphs": [
-        "Como o pacote custa o mesmo nos quatro, a escolha fica entre proteína (castanhas e chocolate) e calorias (chocolate)."
       ]
     },
     {

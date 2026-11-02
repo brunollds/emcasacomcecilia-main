@@ -223,7 +223,7 @@
         "Só no Mercado Livre: o whey de 900 g abaixo do site com o cupom, com preço que muda por sabor e por anúncio."
       ],
       "postParagraphs": [
-        "A loja oficial no Mercado Livre tinha 70 anúncios, e lemos os 47 da primeira página. O que não achamos nos dois lados no mesmo tamanho ficou fora da tabela."
+        "O que não achamos nos dois lados no mesmo tamanho ficou fora da tabela."
       ]
     },
     {
@@ -243,14 +243,15 @@
     {
       "heading": "Como escolher",
       "bullets": [
-        "Quer só o Whey 100% HD de 900 g ou o Refil de 900 g: compare com o Mercado Livre, que saía de R$ 3,01 a R$ 31,01 mais barato que o site com o cupom, conforme o sabor.",
+        "Quer só o Whey 100% HD de 900 g ou o Refil de 900 g: Mercado Livre, que saía de R$ 3,01 a R$ 31,01 mais barato que o site com o cupom, conforme o sabor.",
         "Quer o whey de 1,8 kg, a linha Gourmet, as creatinas, os pré-treinos, o Thermo Flame ou o Kit 2 Whey Turbo: site com o CECILIA10, de R$ 3,49 a R$ 40,27 mais barato por produto.",
         "Quer frete grátis no site: monte um carrinho acima de R$ 199,90 depois do cupom (Sul e Sudeste).",
         "Quer a política de troca da própria loja: site."
       ],
       "postParagraphs": [
         "O preço do Mercado Livre muda por sabor e por anúncio, e de um dia para o outro. O do site muda menos, e o cupom tira 10% de qualquer preço. Confira os dois antes de pagar."
-      ]
+      ],
+      "emphasis": "Pelos números da tabela, para a maioria dos produtos a escolha é o site com o cupom, porque ele ficou abaixo do Mercado Livre em 13 das 15 comparações."
     },
     {
       "heading": "Perguntas frequentes",
@@ -262,5 +263,15 @@
         "Quanto custa o whey da Black Skull no Mercado Livre? O Whey 100% HD de 900 g ia de R$ 121,90 a R$ 149,90 na loja oficial, conforme o sabor. No site, R$ 169,90, ou R$ 152,91 com o cupom."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Quem leva whey de 1,8 kg, linha Gourmet, creatina, pré-treino, Thermo Flame ou Kit 2 Whey Turbo: o site com o cupom, que saiu mais barato nesses produtos.",
+      "Quem quer a política de troca da própria loja: o site."
+    ],
+    "skipIf": [
+      "Quem quer só o Whey 100% HD de 900 g ou o Refil de 900 g: o Mercado Livre saía mais barato que o site com o cupom.",
+      "Quem leva um item só: ele pode ficar abaixo do limite de frete grátis do site e pagar frete."
+    ]
+  }
 }

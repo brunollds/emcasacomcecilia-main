@@ -24,6 +24,15 @@
   "imageAlt": "Potes dos hidratantes corporais da Skelt em várias fragrâncias, com o logo da loja e o título Hidratante corporal Skelt: qual fragrância?",
   "imageFit": "contain",
   "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "Você quer um hidratante só e escolhe pelo perfil de fragrância.",
+      "Você quer pagar menos por grama e topa três fragrâncias no kit."
+    ],
+    "skipIf": [
+      "Você quer o perfume para cabelos junto esperando desconto, porque esses conjuntos não baixam o preço do hidratante."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
@@ -59,7 +68,7 @@
     {
       "heading": "Quanto sai por 100 g, avulso e em conjunto",
       "paragraphs": [
-        "Ninguém do site usou os hidratantes da Skelt. A conta parte do preço no cartão publicado no site oficial, sem cupom nem Pix. Nos conjuntos com body splash, creme para mãos ou perfume para cabelos, o outro item entra pelo preço avulso dele, e o que sobra é a parte do hidratante. O capítulo dos conjuntos explica a conta."
+        "A conta parte do preço no cartão publicado no site oficial, sem cupom nem Pix. Nos conjuntos com body splash, creme para mãos ou perfume para cabelos, o outro item entra pelo preço avulso dele, e o que sobra é a parte do hidratante. O capítulo dos conjuntos explica a conta."
       ],
       "comparisonTable": {
         "headers": [
@@ -142,11 +151,11 @@
     {
       "heading": "Qual fragrância: cítrico, floral, frutado ou doce",
       "paragraphs": [
-        "Como o preço do avulso é o mesmo nas seis, a escolha é de perfil. As notas abaixo são as que a Skelt publica na ficha do hidratante; onde a ficha não traz notas, o guia usa a página do body splash de mesmo nome. O agrupamento por perfil é nosso, não da loja, e ninguém do site sentiu as fragrâncias.",
-        "**Cítrico e fresco: Amalfi Sunset e Unexpected Day.** A ficha do [Amalfi Sunset](https://www.skelt.com.br/hidratante-desodorante-corporal-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) chama a fragrância de \"coquetel cítrico e sofisticado\" e fala num pôr do sol italiano. As notas que se repetem nas páginas da loja são bergamota, jasmim e sândalo; a pirâmide completa muda de uma página para outra, então o guia fica só com essas. O [Unexpected Day](https://www.skelt.com.br/hidratante-desodorante-corporal-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem, segundo a ficha, \"frescor combinado à cremosidade\". A página do body splash de mesmo nome cita pera e maçã verde, violeta e laranjeira, baunilha e chantilly.",
+        "Como o preço do avulso é o mesmo nas seis, a escolha é de perfil. As notas abaixo são as que a Skelt publica na ficha do hidratante; onde a ficha não traz notas, o guia usa a página do body splash de mesmo nome. O agrupamento por perfil é nosso, não da loja.",
+        "**Cítrico e fresco: Amalfi Sunset e Unexpected Day.** A ficha do [Amalfi Sunset](https://www.skelt.com.br/hidratante-desodorante-corporal-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) chama a fragrância de \"coquetel cítrico e sofisticado\" e fala num pôr do sol italiano. As notas que se repetem nas páginas da loja são bergamota, jasmim e sândalo; a pirâmide completa muda de uma página para outra, então o guia fica só com essas. O [Unexpected Day](https://www.skelt.com.br/hidratante-desodorante-corporal-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) traz \"frescor combinado à cremosidade\", diz a página. A página do body splash de mesmo nome cita pera e maçã verde, violeta e laranjeira, baunilha e chantilly.",
         "**Floral: Hidden Flowers e Mystic Bloom.** São as duas com pirâmide completa na ficha do hidratante. [Hidden Flowers](https://www.skelt.com.br/body-cream-hidde-flowers-1/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz): topo de bergamota da Itália, pera, pêssego e noz-moscada; meio de rosa damascena da Turquia, lírio-do-vale e olíbano; fundo de vetiver do Haiti, âmbar, musk e baunilha. [Mystic Bloom](https://www.skelt.com.br/body-cream-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz): topo de groselha negra, morango e tangerina; meio de plumeria, flor de maçã e flor de violeta; fundo de musk, cashmeran, âmbar e marshmallow.",
         "**Frutado e floral: Urban Beat.** A ficha do [Urban Beat](https://www.skelt.com.br/hidratante-desodorante-corporal-urban-beat/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) fala numa \"explosão de frutas vermelhas, violeta, hibisco e pralinê\". Não há pirâmide.",
-        "**Doce: Velvet Milano.** A ficha do [Velvet Milano](https://www.skelt.com.br/hidratante-corporal-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) descreve uma fragrância gourmand. Topo de limão, bergamota, maçã e laranja; meio de rosa branca, jasmim e frutas vermelhas; fundo de sândalo, baunilha e musk. É o único dos seis que, segundo a ficha, tem micropartículas iluminadoras na fórmula."
+        "**Doce: Velvet Milano.** A ficha do [Velvet Milano](https://www.skelt.com.br/hidratante-corporal-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) descreve uma fragrância gourmand. Topo de limão, bergamota, maçã e laranja; meio de rosa branca, jasmim e frutas vermelhas; fundo de sândalo, baunilha e musk. É o único dos seis com micropartículas iluminadoras na fórmula, diz a página."
       ],
       "comparisonTable": {
         "headers": [
@@ -235,6 +244,7 @@
     },
     {
       "heading": "Qual escolher",
+      "emphasis": "Pelos números da tabela, para quem quer um hidratante só a escolha é pelo perfil, porque os seis avulsos custam o mesmo; para pagar menos por grama a escolha é o Kit Radiante, porque ele baixa a conta para R$ 42,03 por 100 g.",
       "paragraphs": [
         "O preço não decide entre as fragrâncias: decide o perfil. O que muda o custo é o formato."
       ],

@@ -35,6 +35,16 @@
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
   "editorialNote": "Preços lidos na loja oficial da Nestlé Nutre. Ninguém da equipe usou os produtos. Podemos receber comissão pelo cupom CECI.",
+  "decision": {
+    "takeIf": [
+      "Leve o kit de 740 g se compra duas latas e quer o menor preço por grama.",
+      "Assine se já sabe que vai repetir a compra."
+    ],
+    "skipIf": [
+      "Passe o combo: pelos preços lidos, o kit do mesmo produto sai mais barato.",
+      "Passe a lata de 370 g se o preço por grama pesa mais que a menor entrada."
+    ]
+  },
   "relatedArticles": [
     {
       "slug": "black-friday-nestle-nutre",
@@ -122,16 +132,16 @@
         "Duas latas de 740 g avulsas, em compra única, somam R$ 338,74. O kit custa R$ 263,49: 22% a menos.",
         "A lata de 740 g é a opção de quem quer uma lata só. Por 100 g, custa R$ 22,89.",
         "A lata de 370 g tem a menor entrada, R$ 100,79, mas o maior preço por grama entre as formas padrão da Nutren Senior.",
-        "O kit também existe em Baunilha, por R$ 263,49. Não lemos preço por sabor das outras latas.",
+        "O kit também existe em Baunilha, por R$ 263,49.",
         "O calendário e as condições da campanha estão na [Black Friday da Nestlé Nutre](/reviews/black-friday-nestle-nutre)."
       ]
     },
     {
       "heading": "Assinatura",
       "paragraphs": [
-        "Na página, a assinatura vem com esta frase: \"Cancele quando quiser, sem custo. A assinatura renova automaticamente, mas você pode pular até 2 entregas por ano.\"",
+        "A assinatura cancela quando quiser, sem custo, e renova sozinha, com até 2 entregas puladas por ano.",
         "Na lata de 740 g, a assinatura sai R$ 150,55 contra R$ 169,37 na compra única: 11% de desconto sobre a compra única. A página anuncia economize 20%, contando a partir do preço riscado. No kit, o desconto da assinatura é de 10%: R$ 237,14 contra R$ 263,49.",
-        "Segundo a loja, o frete é grátis na compra única acima de R$ 400 e na assinatura acima de R$ 200. A assinatura só aceita cartão de crédito. Com o kit, a compra única (R$ 263,49) fica abaixo de R$ 400, e a assinatura (R$ 237,14) passa de R$ 200."
+        "O frete é grátis na compra única acima de R$ 400 e na assinatura acima de R$ 200, diz a página. A assinatura só aceita cartão de crédito. Com o kit, a compra única (R$ 263,49) fica abaixo de R$ 400, e a assinatura (R$ 237,14) passa de R$ 200."
       ]
     },
     {
@@ -165,7 +175,7 @@
         ]
       },
       "postParagraphs": [
-        "Na leitura dos preços, não apareceu assinatura para a Zero Lactose. A ficha do produto está em [ficha do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
+        "Para a Zero Lactose, a tabela traz só a compra única. O detalhe do produto está em [ficha do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
       ],
       "image": {
         "src": "/images/reviews/nutren/nutren-senior-hero.webp",
@@ -178,7 +188,7 @@
     {
       "heading": "Premium Baunilha",
       "paragraphs": [
-        "A Nutren Senior Premium Baunilha vem em lata de 370 g: R$ 145,25 na compra única e R$ 129,11 na assinatura. Por 100 g, é a forma mais cara da tabela, com R$ 39,26 na compra única. O combo de duas unidades custa R$ 274,36 na compra única, ou R$ 137,18 por lata."
+        "Por 100 g, a Premium Baunilha é a forma mais cara da tabela. A lata de 370 g sai a R$ 145,25 na compra única e R$ 129,11 na assinatura. O combo de duas unidades custa R$ 274,36 na compra única, ou R$ 137,18 por lata."
       ]
     },
     {
@@ -186,14 +196,14 @@
       "paragraphs": [
         "O [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI) dá 10% na loja oficial. Não testamos o CECI com o kit nem com a assinatura, então confira no carrinho antes de pagar.",
         "O CECI não vale em Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses.",
-        "O passo a passo para usar o cupom está em [como usar o cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar).",
-        "A loja também tem um programa de cupom mensal, com cadastro. Ele fica fora desta comparação."
+        "O passo a passo para usar o cupom está em [como usar o cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar)."
       ]
     },
     {
       "heading": "Qual comprar",
+      "emphasis": "Pelos números da tabela, para o perfil estoque de duas latas a escolha é o kit de 740 g, porque sai a R$ 17,80 por 100 g, o menor valor.",
       "paragraphs": [
-        "Para quem compra duas latas e quer o menor preço por grama, o kit de 740 g é a escolha, na compra única ou na assinatura. Para testar, a lata de 370 g é a entrada mais barata. Se você já sabe que vai repetir a compra, a assinatura compensa em todas as formas que a têm."
+        "Para testar, a lata de 370 g é a entrada mais barata. Se você já sabe que vai repetir a compra, a assinatura compensa em todas as formas que a têm."
       ],
       "bullets": [
         "Quer testar antes: lata de 370 g, R$ 100,79 (R$ 90,71 na assinatura).",

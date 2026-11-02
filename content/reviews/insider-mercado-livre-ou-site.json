@@ -176,7 +176,7 @@
     {
       "heading": "Feminino: preço no site e no Mercado Livre",
       "paragraphs": [
-        "O mesmo critério da tabela masculina: preço no cartão nos dois lados e, na última coluna, onde a peça sai mais barata com o cupom."
+        "Nas peças femininas, a última coluna também diz onde cada uma sai mais barata com o cupom."
       ],
       "comparisonTable": {
         "headers": [
@@ -300,7 +300,8 @@
           "href": "https://meli.la/12dWwH8",
           "sponsored": true
         }
-      ]
+      ],
+      "emphasis": "Pelos números da tabela, para a maioria das peças a escolha é o site com o cupom, porque ele fica mais barato em 13 das 17 peças."
     },
     {
       "heading": "Perguntas frequentes",
@@ -312,5 +313,16 @@
         "A loja do Mercado Livre é oficial? O botão deste texto leva à loja oficial da Insider no Mercado Livre. Confira o nome do vendedor no anúncio antes de pagar."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Quem leva Tech, Core, Heavy, Perfect Top, Polo, Sportee, cuecas ou undershirt: o site com o cupom.",
+      "Quem leva o Sutiã Comfy: o site, mesmo sem cupom."
+    ],
+    "skipIf": [
+      "Quem leva a Daily ou a Light: o Mercado Livre, porque a Daily não aceita o cupom no site e a Light só existe lá.",
+      "Quem leva a Meia Spectrum Mid: os preços empatam, compare os dois no dia da compra.",
+      "Quem leva uma peça só: ela paga frete no site, que só dá frete grátis em compras maiores."
+    ]
+  }
 }

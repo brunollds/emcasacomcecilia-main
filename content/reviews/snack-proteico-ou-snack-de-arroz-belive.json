@@ -34,7 +34,17 @@
   },
   "coupon": "MAUAD",
   "affiliate": "belive",
-  "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os snacks.",
+  "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os snacks, e a declaração de leite e lactose é da loja, não um teste nosso.",
+  "decision": {
+    "takeIf": [
+      "Leve o proteico se procura mais proteína por pacote.",
+      "Leve o de arroz se quer menor preço por pacote e menos sódio."
+    ],
+    "skipIf": [
+      "Passe os oito se evita soja: todos trazem derivados de soja.",
+      "Passe o combo se espera um desconto grande: ele economiza só de 6% a 8% sobre o pacote avulso."
+    ]
+  },
   "relatedArticles": [
     {
       "slug": "cupom-belive-como-usar",
@@ -59,7 +69,7 @@
     {
       "heading": "Os oito sabores e o preço",
       "paragraphs": [
-        "Preços de cartão no site da Belive em 28/10/2026, para o pacote de 35 g. Os quatro sabores proteicos vêm primeiro, depois os quatro de arroz."
+        "No cartão em 28/10/2026, o proteico de 35 g sai a R$ 7,97 e o de arroz a R$ 5,19."
       ],
       "comparisonTable": {
         "headers": [
@@ -148,7 +158,7 @@
       },
       "postParagraphs": [
         "No Pix, o proteico sai por R$ 7,57 e o de arroz por R$ 4,93. O [cupom MAUAD da Belive](/cupons/belive) tira mais 10% e soma com o desconto do Pix. A faixa do site anuncia \"Black November, até 30%\", então confira o preço antes de pagar.",
-        "A Belive tem outras linhas de salgadinho, o Com Vitaminas e o GoodSoy, ambos de 25 g; ficaram fora desta tabela."
+        "A Belive também tem o Com Vitaminas e o GoodSoy, de 25 g."
       ],
       "image": {
         "src": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-fotos-2810.webp",
@@ -161,7 +171,7 @@
     {
       "heading": "Preço por grama de proteína",
       "paragraphs": [
-        "A conta divide o preço do pacote pela proteína declarada no rótulo, sempre por 35 g:"
+        "O proteico sai bem mais barato por grama de proteína:"
       ],
       "bullets": [
         "Proteico (10 g por pacote): R$ 7,97 ÷ 10 = R$ 0,80 por grama de proteína.",
@@ -199,8 +209,8 @@
       "paragraphs": [
         "A proteína do snack proteico é proteína isolada de soja. Não é whey. Além dela, a base tem farinha de milho, óleo vegetal de palma e soja, extrato de levedura e aromatizante. No sabor Barbecue, o aromatizante vem descrito como aroma natural. No Cebola e Salsa, a lista acrescenta sal light, cebola tostada em pó e salsa.",
         "Os snacks de arroz partem de um mix de farinha de arroz, lentilha e quinoa (no queijo), com óleo vegetal de palma e soja e extrato de levedura. O queijo leva sal light, aromatizante e corante natural de urucum. A pizza segue a mesma base do queijo; o churrasco é igual, sem o sal light. O Cebola e Salsa soma cebola tostada e salsa à base.",
-        "Os oito contêm derivados de soja, segundo a tabela de alergênicos da loja. A loja informa que todos são sem glúten.",
-        "Sobre leite e lactose, a loja declara que os snacks proteicos são sem leite e sem lactose, e a lista de ingredientes não traz leite. No arroz, a loja diz sem leite e sem lactose também. É a declaração da loja, não um teste nosso.",
+        "A tabela de alergênicos da loja marca derivados de soja nos oito. A loja informa que todos são sem glúten.",
+        "Sobre leite e lactose, a loja declara que os snacks proteicos são sem leite e sem lactose, e a lista de ingredientes não traz leite. No arroz, a loja diz sem leite e sem lactose também.",
         "Na tabela de alergênicos, só a soja aparece marcada. As demais colunas, como ovo, amendoim e castanhas, ficaram em branco, e nenhum snack traz a marcação de \"pode conter\"."
       ]
     },
@@ -217,10 +227,10 @@
     },
     {
       "heading": "Qual compensa",
+      "emphasis": "Pelos números da tabela, para o perfil proteína a escolha é o proteico, porque traz 10 g por pacote a R$ 0,80 por grama de proteína.",
       "paragraphs": [
-        "Se o critério é proteína, leve o proteico: 10 g por pacote e menos da metade do custo por grama de proteína do arroz.",
         "Se o critério é preço por pacote e sódio, leve o de arroz: R$ 2,78 a menos por pacote e, em média, menos sódio.",
-        "Dentro de cada linha, o sabor é com você. Ninguém da equipe provou os snacks, então este texto não fala de gosto. A escolha se faz pelos números da tabela e pelo que você quer comer."
+        "Dentro de cada linha, o sabor é com você. A escolha se faz pelos números da tabela e pelo que você quer comer."
       ]
     },
     {

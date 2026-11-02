@@ -35,7 +35,7 @@
       "heading": "Como a conta é feita",
       "paragraphs": [
         "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço. Por isso a comparação aqui é só de preço: por 100 g de produto e por dose, com os preços do dia no site da Probiótica, sem cupom.",
-        "A porção e o número de doses vêm da tabela nutricional que a loja mostra na imagem de cada ficha. Nos três produtos, a tabela diz porção de 5 g com 5.000 mg de creatina. Nenhum texto de benefício da loja entra neste guia, e ninguém do site usou os produtos."
+        "A porção e o número de doses vêm da tabela nutricional na imagem de cada produto. Nos três produtos, a tabela diz porção de 5 g com 5.000 mg de creatina. Nenhum texto de benefício da loja entra neste guia."
       ],
       "images": [
         {
@@ -108,7 +108,7 @@
         "**Pote de 300 g:** 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção. A tabela não declara valor energético, carboidrato, proteína nem sódio em quantidade significativa.",
         "**Pote de 100 g:** 20 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção. A mesma tabela do pote grande, com um terço das doses.",
         "**Monodose:** 30 sachês, cada um a porção de 5 g com 5.000 mg de creatina. A tabela do sachê é a mesma do pote; muda só o que embala a dose.",
-        "**Divergência na página dos potes:** a ficha do pote de 300 g e a do de 100 g trazem um selo de \"3.000 mg de creatina por dose\", e o texto delas fala em 5.000 mg por porção. A conta deste guia usa a tabela nutricional, que diz 5 g e 5.000 mg. Confira a tabela da embalagem que chegar."
+        "**Divergência na página dos potes:** a página dos potes de 300 g e de 100 g traz um selo de \"3.000 mg de creatina por dose\", e o texto dela fala em 5.000 mg por porção. A conta deste guia usa a tabela nutricional, que diz 5 g e 5.000 mg. Confira a tabela da embalagem que chegar."
       ],
       "images": [
         {
@@ -123,9 +123,9 @@
     {
       "heading": "Quanto a monodose custa a mais",
       "paragraphs": [
-        "A caixa de 30 sachês custa R$ 69,89. As mesmas 30 doses, tiradas do pote de 300 g, custam R$ 29,95: metade do pote. A diferença é de R$ 39,94 por caixa, ou R$ 1,33 por dose.",
+        "As mesmas 30 doses do pote de 300 g custam R$ 29,95, metade do pote, contra R$ 69,89 da caixa de sachês. A diferença é de R$ 39,94 por caixa, ou R$ 1,33 por dose.",
         "Dois potes de 100 g (40 doses) custam R$ 67,78, menos que a caixa de 30 sachês. Ou seja: pelo preço do dia, nenhum dos dois potes de creatina pura sai mais caro por grama que a monodose, nem o pequeno.",
-        "O que o sachê entrega a mais é a dose já separada. A loja descreve o produto como \"praticidade em doses individuais\"; este guia não avalia isso, porque ninguém do site usou o produto. O que dá para medir é o preço, e o preço diz que a separação custa R$ 1,33 por dose."
+        "O que o sachê entrega a mais é a dose já separada. A loja descreve o produto como praticidade em doses individuais; o que dá para medir é o preço, e ele diz que a separação custa R$ 1,33 por dose."
       ],
       "images": [
         {
@@ -152,8 +152,9 @@
       ],
       "postParagraphs": [
         "As outras versões da linha, com a Creapure de 150 g e o que o rótulo de cada uma declara, estão em [qual creatina da Probiótica compensa](/reviews/creatina-probiotica-qual-compensa). Quem procura whey em sachê encontra o perfil em [melhor whey: qual escolher para cada objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo); o sachê de outra marca está no guia do [whey da Mais Mu](/reviews/whey-mais-mu-qual-escolher).",
-        "Este texto lê o rótulo e o preço; não indica dose nem uso. Quem tem dúvida sobre suplemento fala com um nutricionista ou médico."
-      ]
+        "Quem tem dúvida sobre suplemento fala com um nutricionista ou médico."
+      ],
+      "emphasis": "Pelos números da tabela, para o menor preço por dose a escolha é o pote de 300 g, porque a dose sai a R$ 1,00, menos da metade do sachê."
     },
     {
       "heading": "Perguntas frequentes",
