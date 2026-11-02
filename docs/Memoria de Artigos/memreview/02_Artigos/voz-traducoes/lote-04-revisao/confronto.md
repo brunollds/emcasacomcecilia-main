@@ -1,0 +1,333 @@
+# Confronto - Muse x minha passada (revisão das traduções novas, lote 04)
+
+Muse: 173 FIX {'F': 49, 'V': 102, 'N': 7, 'TR': 15} | Minha: 132 FIX {'F': 57, 'V': 57, 'N': 18} | mesmo trecho: 70 | só Muse: 103 | só minha: 62
+
+## Por família (FIX Muse/minha | concordam | só C | só M)
+
+- paperclip-ai-hostinger: 16/23 | concordam 7 | só C 9 | só M 16
+- yesstyle-app-como-comprar-codigo-de-recompensa: 31/15 | concordam 8 | só C 23 | só M 7
+- shein-11-11-selecao-da-cecilia: 40/46 | concordam 17 | só C 23 | só M 29
+- hostinger-horizons-vale-a-pena: 28/7 | concordam 5 | só C 23 | só M 2
+- dominio-hostinger-comprar-transferir-ou-fora: 45/31 | concordam 26 | só C 19 | só M 5
+- vps-ou-hospedagem-compartilhada-qual-escolher: 13/10 | concordam 7 | só C 6 | só M 3
+
+## Concordam (mesmo trecho)
+
+- paperclip-ai-hostinger | es | CTA :: C[F] Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20 % en el primer período. No prob || M[V] Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20 % en el primer período.
+- paperclip-ai-hostinger | fr | CTA :: C[F] Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons p || M[F] Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien de cet article : 20 % sur la première périod
+- paperclip-ai-hostinger | it | È affidabile? Cosa si può verificare :: C[V] Non confonderlo con i fork e le copie del codice che compaiono nella ricerca. || M[V] Non confonderlo con i fork e le copie del codice che compaiono nella ricerca.
+- paperclip-ai-hostinger | de | CTA :: C[F] Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum, bei Monats- ode || M[F] Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum, bei Monats- ode
+- paperclip-ai-hostinger | ja | CTA :: C[F] カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。カートで価格を確認してください。 || M[F] カートのクーポン欄にコード SONAR20 を入れるか、この記事のリンクから入ってください。最初の期間が20%割引です。更新は検証していません。カートで価格を確認してください。
+- paperclip-ai-hostinger | ko | CTA :: C[F] 장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. || M[F] 쿠폰 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣거나 이 글의 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.
+- paperclip-ai-hostinger | zh-hant | CTA :: C[F] 在購物車的優惠碼欄輸入 SONAR20，或透過本文的連結進入：首個週期享 8 折，月繳或年繳皆可，新舊客戶都適用。我們沒有測試續約，請在購物車裡確認價格。 || M[F] 在購物車的優惠碼欄輸入代碼 SONAR20，或透過本文的連結進入：首個週期享 8 折（減 20%），月繳或年繳皆可，新舊客戶都適用。我們沒有測試續約，請在購物車裡確認價格。
+- yesstyle-app-como-comprar-codigo-de-recompensa | fr | CTA :: C[V] Saisissez CECILIA010 dans le champ « Influencer / Rewards Code » de l'appli ou dans le Reward Code du site : c'est un code récompe || M[N] Saisissez CECILIA010 dans le champ « Influencer / Rewards Code » de l'appli ou dans le Reward Code du site : c'est un code de réco
+- yesstyle-app-como-comprar-codigo-de-recompensa | it | Dove va il CECILIA010 nell'app :: C[V] Di nuovo al checkout, il codice compare come etichetta sotto "Coupon or Influencer / Rewards Code" e il riepilogo mostra la riga " || M[V] Tornato al checkout, il codice compare come etichetta sotto "Coupon or Influencer / Rewards Code" e nel riepilogo compare la riga 
+- yesstyle-app-como-comprar-codigo-de-recompensa | de | CTA :: C[TR] Geben Sie CECILIA010 im Feld „Influencer / Rewards Code“ der App oder im Reward Code der Website ein: Es ist ein Reward Code mit b || M[V] Geben Sie CECILIA010 im Feld „Influencer / Rewards Code“ der App oder im Reward Code der Website ein: Es ist ein Reward Code mit b
+- yesstyle-app-como-comprar-codigo-de-recompensa | zh-hant | YS 點數和 App 優惠券 :: C[V] 透過 App 登入可獲得 50 YS 點數，限一次。 || M[V] 透過 App 登入可獲得 YS 點數 50 點，限一次。
+- yesstyle-app-como-comprar-codigo-de-recompensa | zh-hant | 常見問題 :: C[V] 下載 App 能獲得點數嗎？能，透過 App 登入可獲得 50 YS 點數，限一次。重新安裝不會再次發放，點數也不是獎勵碼。 || M[V] 能，透過 App 登入可獲得 YS 點數 50 點，限一次。
+- yesstyle-app-como-comprar-codigo-de-recompensa | zh-hant | CECILIA010 在 App 裡填在哪裡 :: C[F] 在結帳頁，點選「Coupon or Influencer / Rewards Code」那一行的「Enter Code」。 || M[V] 在結帳頁，點選「Coupon or Influencer / Rewards Code」那一行的「Enter Code」。
+- yesstyle-app-como-comprar-codigo-de-recompensa | zh-hant | CECILIA010 在 App 裡填在哪裡 :: C[F] 回到結帳頁後，代碼會以標籤形式顯示在「Coupon or Influencer / Rewards Code」下方，訂單摘要裡會多出「Influencer Code Discount」一行。付款前請確認這一行。 || M[V] 回到結帳頁後，代碼會以標籤形式顯示在「Coupon or Influencer / Rewards Code」下方，訂單摘要裡會多出「Influencer Code Discount」一行。付款前請確認這一行。
+- yesstyle-app-como-comprar-codigo-de-recompensa | zh-hant | CECILIA010 在 App 裡填在哪裡 (alt) :: C[F] YesStyle App 的三個畫面：帶有 Coupon or Influencer / Rewards Code 行的結帳頁、帶有 Coupon Code 和 Influencer / Rewards Code 欄位的 Enter Code 畫面，以及已套用 || M[V] 帶有 Coupon or Influencer / Rewards Code 行的結帳頁
+- shein-11-11-selecao-da-cecilia | en | The 11.11 campaign :: C[V] It is up to 85% off on more than 600,000 products, says SHEIN, and the store is steering shoppers toward the app. || M[V] It is up to 85% off on more than 600,000 products, says SHEIN, and the store is steering shoppers toward the app.
+- shein-11-11-selecao-da-cecilia | en | Kids :: C[F] Four pieces for kids, from 6 months to 7 years: a girls' set, two boys' pajamas and a baby top. The sizes below are the ones the s || M[F] Four pieces for kids, from 6 months to 7 years: a girls' set, two boys' pajamas and a baby top. The sizes below are the ones the s
+- shein-11-11-selecao-da-cecilia | es | La campaña 11.11 :: C[V] Hay hasta un 85 % de descuento en más de 600 mil productos, según SHEIN, y la tienda orienta la campaña hacia la app. || M[V] Hay hasta un 85 % de descuento en más de 600 mil productos, según SHEIN, y la tienda dirige la campaña a la app.
+- shein-11-11-selecao-da-cecilia | es | Infantil :: C[F] Cuatro prendas para niños, de 6 meses a 7 años: un conjunto de niña, dos pijamas de niño y una camiseta de bebé. Las tallas de aba || M[F] Cuatro prendas para niños, de 6 meses a 7 años: un conjunto de niña, dos pijamas de niño y una camiseta de bebé. Las tallas de aba
+- shein-11-11-selecao-da-cecilia | fr | La campagne 11.11 :: C[V] Elle va jusqu'à 85 % de remise sur plus de 600 000 produits, d'après SHEIN, et la boutique oriente la campagne vers l'appli. || M[V] Elle va jusqu'à 85 % de remise sur plus de 600 000 produits, d'après SHEIN, et la boutique dirige la campagne vers l'appli.
+- shein-11-11-selecao-da-cecilia | fr | Enfant :: C[F] Quatre pièces pour enfants, de 6 mois à 7 ans : un ensemble pour fille, deux pyjamas pour garçon et un haut pour bébé. Les tailles || M[F] Quatre pièces pour enfants, de 6 mois à 7 ans : un ensemble pour fille, deux pyjamas pour garçon et un haut pour bébé. Les tailles
+- shein-11-11-selecao-da-cecilia | it | Risposta rapida :: C[V] Gli sconti e la valutazione di ciascuno vengono dalla scheda dell'articolo e possono cambiare. || M[V] Gli sconti e la valutazione di ciascuno vengono dalla scheda dell'articolo e possono cambiare.
+- shein-11-11-selecao-da-cecilia | it | La campagna 11.11 :: C[F] Secondo SHEIN, gli sconti arrivano fino all'85% su più di 600 mila prodotti, e il negozio spinge la campagna sull'app. || M[F] Secondo SHEIN, gli sconti arrivano fino all'85% su più di 600 mila prodotti, e il negozio spinge la campagna sull'app.
+- shein-11-11-selecao-da-cecilia | it | Pigiama da bambino con dinosauro che si illumina al buio :: C[F] Secondo la scheda, è un pigiama da bambino in 2 pezzi, con dinosauro natalizio che si illumina al buio e vestibilità elasticizzata || M[F] Secondo la scheda, è un pigiama da bambino in 2 pezzi, con dinosauro natalizio che si illumina al buio e una vestibilità elasticiz
+- shein-11-11-selecao-da-cecilia | it | Maglia da neonato con animali disegnati a gesso :: C[F] Sulla scheda SHEIN, è una maglia da maschietto con animali disegnati a gesso, come tigre, orso e bradipo, per bebè da 6 mesi a 3 a || M[F] Sulla scheda SHEIN, è una maglia da maschietto con animali disegnati a gesso, come tigre, orso e bradipo, per bambini da 6 mesi a 
+- shein-11-11-selecao-da-cecilia | de | Die Antwort in Kürze :: C[V] Die Rabatte und die Bewertungen jedes Teils stammen von der Produktseite und können sich ändern. || M[V] Die Rabatte und die Bewertung jedes Teils stammen von der Produktseite und können sich ändern.
+- shein-11-11-selecao-da-cecilia | ja | description :: C[TR] SHEIN の11.11メガセール（2026年11月12日まで）でのCecíliaのセレクション。パジャマ、キッズ、レディース、アクセサリー、メンズの5グループの19アイテムで、それぞれ割引、評価、キャンペーン内の商品ページへの直リンクつき。割引は2026年1 || M[V] それぞれに割引、評価、キャンペーン内の商品ページへの直リンクつきです。
+- shein-11-11-selecao-da-cecilia | ja | キッズ :: C[F] 生後6か月から7歳までの子ども向けが4点：女の子のセットアップが1点、男の子のパジャマが2点、ベビー用トップスが1点です。下のサイズは、お店が年齢別に載せているものです。 || M[F] 生後6か月から7歳までの子ども向けが4点：女の子のセットアップが1点、男の子のパジャマが2点、ベビー用トップスが1点です。下のサイズは、お店が年齢別に載せているものです。
+- shein-11-11-selecao-da-cecilia | ko | 만화 프린트 3피스 잠옷 :: C[V] 평점 4.95, 리뷰 1,000개 이상으로, 셀렉션에서 가장 높습니다。 || M[V] 평점 4.95, 리뷰 1,000개 이상으로, 셀렉션에서 가장 높습니다。
+- shein-11-11-selecao-da-cecilia | zh-hans | 11.11 大促 :: C[V] 据 SHEIN 称，60 万件以上商品最高减 85%，商家还把活动往 App 里引。 || M[V] 据 SHEIN 称，60 万件以上商品最高减 85%，店里还把活动引向 App。
+- shein-11-11-selecao-da-cecilia | zh-hant | 快速回答 :: C[N] SHEIN 稱 11.11 大促最高減 85%，到 2026年11月12日結束。Cecília 挑了 19 件，分 5 組：睡衣、童裝、女裝、配件和男裝。每件的折扣和評分來自商品頁，可能變動。 || M[N] SHEIN 稱 11.11 大促最高減 85%，到 2026年11月12日結束。
+- shein-11-11-selecao-da-cecilia | zh-hant | 11.11 大促 :: C[N] SHEIN 的 11.11 大促已經開始。據 SHEIN 表示，60 萬件以上商品最高減 85%，店家還把活動往 App 裡導。 || M[N] 據 SHEIN 表示，60 萬件以上商品最高減 85%，店家還把活動引向 App。
+- hostinger-horizons-vale-a-pena | fr | CTA :: C[TR] Saisissez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avon || M[F] Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons p
+- hostinger-horizons-vale-a-pena | fr | Créateur IA ou WordPress :: C[V] C'est un logiciel libre : le site entier est à vous et part vers n'importe quel hébergeur sans tout refaire. || M[V] C'est un logiciel libre : le site entier est à vous et part vers n'importe quel hébergeur sans tout refaire.
+- hostinger-horizons-vale-a-pena | fr | Vaut-il le coup ? Le verdict :: C[V] **Restez sur WordPress** si le projet dépend de plugins, d'un thème à vous, de quelqu'un qui maintiendra le site, ou si vous voule || M[V] **Restez sur WordPress** si le projet dépend de plugins, d'un thème à vous, de quelqu'un qui maintiendra le site, ou si vous voule
+- hostinger-horizons-vale-a-pena | ja | CTA :: C[F] カートのクーポン欄にコード SONAR20 を入れるか、この記事のリンクから入ってください。最初の期間が 20% 引きです。更新は検証していません。カートで価格を確認してください。 || M[F] 更新は検証していません。カートで価格を確認してください。
+- hostinger-horizons-vale-a-pena | ko | CTA :: C[F] 장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 글의 링크로 들어가세요. 첫 기간 20% 할인이며 월간과 연간 플랜 모두에 해당하고, 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. || M[F] 장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 글의 링크로 들어가세요. 첫 기간 20% 할인이며, 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.
+- dominio-hostinger-comprar-transferir-ou-fora | en | Contact-data privacy :: C[F] remover o bloco comparisonTable vazio do capítulo (fica só heading + postParagraphs) || M[F] remover o bloco `comparisonTable` vazio do capítulo
+- dominio-hostinger-comprar-transferir-ou-fora | en | The three paths :: C[V] Nothing changes on the domain; only where it points || M[V] Nothing changes on the domain; only where it points
+- dominio-hostinger-comprar-transferir-ou-fora | en | The three paths :: C[V] It is part of the plan, not a reason to pick a path: what matters is the renewal. || M[V] It is an item of the plan, not a reason to pick a path: what matters is the renewal.
+- dominio-hostinger-comprar-transferir-ou-fora | en | SONAR20 coupon and price :: C[V] Use the code **SONAR20** in the coupon field of the cart, or use the link in this article: **20% off the first period**, on a mont || M[V] Use the code **SONAR20** in the coupon field of the cart, or use this article's link
+- dominio-hostinger-comprar-transferir-ou-fora | es | Privacidad de los datos de contacto :: C[F] remover o bloco comparisonTable vazio do capítulo || M[F] remover o bloco `comparisonTable` vazio do capítulo
+- dominio-hostinger-comprar-transferir-ou-fora | es | Los tres caminos :: C[V] No cambia nada en el dominio; solo adónde apunta || M[V] No cambia nada en el dominio; solo a dónde apunta
+- dominio-hostinger-comprar-transferir-ou-fora | es | Los tres caminos :: C[V] Es parte del plan, no un motivo para elegir el camino: lo que cuenta es la renovación. || M[V] Es un elemento del plan, no un motivo para elegir el camino
+- dominio-hostinger-comprar-transferir-ou-fora | es | Dominio y hosting son dos cuentas :: C[V] el equipo donde vive el sitio || M[V] la dirección (el nombre que la gente escribe) por un lado, el ordenador donde está el sitio por otro
+- dominio-hostinger-comprar-transferir-ou-fora | fr | Confidentialité des données de contact :: C[F] remover o bloco comparisonTable vazio do capítulo || M[F] remover o bloco `comparisonTable` vazio do capítulo
+- dominio-hostinger-comprar-transferir-ou-fora | fr | CTA :: C[TR] Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas || M[F] Nous n'avons pas testé le renouvellement : vérifiez le prix dans le panier. Vérifiez le domaine dans le panier avant de payer.
+- dominio-hostinger-comprar-transferir-ou-fora | fr | Les trois voies :: C[V] Rien ne change sur le domaine ; seulement l'endroit où il pointe || M[V] Rien ne change sur le domaine ; il pointe simplement ailleurs
+- dominio-hostinger-comprar-transferir-ou-fora | it | Privacy dei dati di contatto :: C[F] remover o bloco comparisonTable vazio do capítulo || M[F] remover o bloco `comparisonTable` vazio do capítulo
+- dominio-hostinger-comprar-transferir-ou-fora | de | CTA :: C[TR] Tragen Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % im ersten Zeitraum. Die Verlän || M[F] Tragen Sie SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % im ersten Zeitraum. Die Verlängerung ha
+- dominio-hostinger-comprar-transferir-ou-fora | de | Datenschutz der Kontaktdaten :: C[F] remover o bloco comparisonTable vazio do capítulo || M[F] remover o bloco `comparisonTable` vazio do capítulo
+- dominio-hostinger-comprar-transferir-ou-fora | de | Die drei Wege :: C[V] Die Domain bleibt bei Hostinger; Sie verweisen sie per DNS auf das neue Hosting oder ziehen sie später um || M[V] Sie stellen das DNS auf das neue Hosting um oder ziehen sie später um
+- dominio-hostinger-comprar-transferir-ou-fora | de | decision (skipIf) :: C[V] Lassen Sie es, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder die Verlängeru || M[V] Stellen Sie das DNS um und lassen Sie die Registrierung, wo sie ist.
+- dominio-hostinger-comprar-transferir-ou-fora | de | Welchen Weg wählen :: C[V] Im Zweifel ziehen Sie nicht um: Verknüpfen Sie nur die Domain und lassen Sie die Registrierung, wo sie ist. || M[V] Im Zweifel ziehen Sie nicht um: Verknüpfen Sie die Domain und lassen Sie die Registrierung, wo sie ist.
+- dominio-hostinger-comprar-transferir-ou-fora | ja | CTA :: C[TR] カートのクーポン欄にコード SONAR20 を入れるか、この記事のリンクから入ってください。ホスティングプランの最初の期間が20%割引になります。更新は試していないので、カートで料金を確認してください。ドメインの金額は支払う前にカートで確認してください。 || M[F] カートのクーポン欄に SONAR20 を入れるか、この記事のリンクから入ってください。ホスティングプランの最初の期間が20%割引になります。更新は試していないので、カートで料金を確認してください。ドメインの金額も支払う前にカートで確認してください。
+- dominio-hostinger-comprar-transferir-ou-fora | ja | 連絡先情報のプライバシー :: C[F] remover o bloco comparisonTable vazio do capítulo || M[F] remover o bloco `comparisonTable` vazio do capítulo
+- dominio-hostinger-comprar-transferir-ou-fora | ja | 3つの選択肢 :: C[V] これはプランに含まれるものであって、選択肢を決める理由ではありません。大事なのは更新料です。 || M[V] これはプランの特典であって、選択肢を決める理由ではありません。大事なのは更新料です。
+- dominio-hostinger-comprar-transferir-ou-fora | ko | CTA :: C[TR] 장바구니의 쿠폰 입력란에 코드 SONAR20을 입력하거나 이 글의 링크로 들어가세요. 호스팅 플랜의 첫 기간이 20% 할인됩니다. 갱신은 테스트하지 않았으니 장바구니에서 요금을 확인하세요. 도메인 금액은 결제 전에 장바구니에서 확인하 || M[F] 장바구니의 쿠폰 입력란에 SONAR20 코드를 입력하거나 이 글의 링크로 들어가세요. 호스팅 플랜의 첫 번째 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 요금을 확인하세요. 도메인 금액도 결제 전에 장바구니에서 확
+- dominio-hostinger-comprar-transferir-ou-fora | ko | 연락처 정보 개인정보 보호 :: C[F] remover o bloco comparisonTable vazio do capítulo || M[F] remover o bloco `comparisonTable` vazio do capítulo
+- dominio-hostinger-comprar-transferir-ou-fora | zh-hans | CTA :: C[TR] 在购物车的优惠码栏输入 SONAR20，用于主机套餐：首期享 20%。续费我们没有测试，请在购物车确认价格。域名金额付款前在购物车核对。 || M[F] 在购物车的优惠码栏输入 SONAR20，或从本文的链接进入：首个周期优惠 20%。续费我们没有测试，请在购物车确认价格。域名金额付款前也在购物车核对。
+- dominio-hostinger-comprar-transferir-ou-fora | zh-hans | 联系信息的隐私保护 :: C[F] remover o bloco comparisonTable vazio do capítulo || M[F] remover o bloco `comparisonTable` vazio do capítulo
+- dominio-hostinger-comprar-transferir-ou-fora | zh-hant | CTA :: C[TR] 在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：主機方案首期享 20%。續訂我們沒有測試，請在購物車確認價格。網域的金額，付款前在購物車核對。 || M[F] 在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期優惠 20%。續訂我們沒有測試，請在購物車確認價格。網域的金額，付款前也在購物車核對。
+- dominio-hostinger-comprar-transferir-ou-fora | zh-hant | 聯絡資料的隱私保護 :: C[F] remover o bloco comparisonTable vazio do capítulo || M[F] remover o bloco `comparisonTable` vazio do capítulo
+- vps-ou-hospedagem-compartilhada-qual-escolher | fr | CTA :: C[F] Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas t || M[F] Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas t
+- vps-ou-hospedagem-compartilhada-qual-escolher | fr | Lequel choisir, selon le scénario :: C[V] Pas besoin || M[F] Pas besoin
+- vps-ou-hospedagem-compartilhada-qual-escolher | de | CTA :: C[TR] Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die V || M[F] Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die V
+- vps-ou-hospedagem-compartilhada-qual-escolher | ja | CTA :: C[TR] カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。20% は最初の期間だけです。更新はテストしていません。カートで価格を確認してください。 || M[F] カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。20% は最初の期間だけです。更新はテストしていません。カートで価格を確認してください。
+- vps-ou-hospedagem-compartilhada-qual-escolher | ja | CTA (label) :: C[F] SONAR20 で割引プランを見る || M[F] SONAR20 でプランを見る
+- vps-ou-hospedagem-compartilhada-qual-escolher | ko | CTA (label) :: C[F] SONAR20으로 할인 플랜 보기 || M[F] SONAR20으로 할인 플랜 보기
+- vps-ou-hospedagem-compartilhada-qual-escolher | zh-hant | CTA :: C[TR] 在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續費，請在購物車確認續費價格。 || M[F] 在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續訂，請在購物車確認續訂價格。
+
+## Só Muse
+
+- paperclip-ai-hostinger | V | fr | Comment commencer, dans l'ordre | Vous vous connectez au panneau, reliez vos agents et collez vos clés d'IA. -> Vous vous connectez au panneau, connectez vos agents et collez vos clés d'IA.
+- paperclip-ai-hostinger | V | it | Domande frequenti | Funziona con Ollama? Dipende dall'agente che collegate. Il README di Paperclip non ci -> Funziona con Ollama? Dipende dall'agente che colleghi. Il README di Paperclip non cita Ollama, un programma pe
+- paperclip-ai-hostinger | N | it | Che cos'è Paperclip, in parole semplici | **Heartbeat:** il nome viene da "battito". -> **Heartbeats:** il nome viene da "battito".
+- paperclip-ai-hostinger | F | de | Welche VPS-Größe | 30 Tage nur, wenn die letzte VPS-Erstattung mehr als 180 Tage zurückliegt -> 30 Tage nur, wenn die letzte VPS-Erstattung vor mehr als 180 Tagen beantragt wurde
+- paperclip-ai-hostinger | V | ja | クーポン SONAR20 | 更新時は確認していません。カートで価格を確認してください。 -> 更新については確認していません。カートで価格を確認してください。
+- paperclip-ai-hostinger | V | ja | よくある質問 | 更新時は確認していません。カートで価格を確認してください。 -> 更新については確認していません。カートで価格を確認してください。
+- paperclip-ai-hostinger | V | ja | Hostinger のマネージドか VPS か | 前回の VPS 返金申請から180日を超えている場合に限り30日間 -> 前回の VPS 返金申請から180日を超えている場合に限り、30日間
+- paperclip-ai-hostinger | V | ko | VPS는 어느 크기로 | 플랜별 사양은 KVM 1(1 vCPU, 4 GB, 50 GB), KVM 2(2 vCPU, 8 GB, 100 GB), KVM 4(4 vCPU, 16 GB, -> 플랜별 사양은 KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB), KVM 8 (8 vCP
+- paperclip-ai-hostinger | N | zh-hans | CTA | 首个周期享 20% 折扣 -> 首个周期减 20%
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | en | Website or app: what differs | Website or app: what differs -> Website or app: what's different
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | en | How to shop in the app | Sign in before adding items to the bag. When you're logged in on both the website and -> Sign in before adding items to the bag. When you're logged in on both the website and the app, there is a sing
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | en | How to shop in the app | Shopping follows the same order as the website: sign in, build your bag, go to checko -> Shopping follows the same steps as on the website: sign in, fill your bag, go to checkout.
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | es | metaDescription | YesStyle tiene app para Android y iPhone. Dónde entra el código de recompensa CECILIA -> YesStyle tiene app para Android e iPhone. Dónde entra el código de recompensa CECILIA010 en el checkout de la 
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | es | Respuesta rápida | Sí, YesStyle tiene app para Android y iPhone, con la misma cuenta que la web. En la a -> Sí, YesStyle tiene app para Android e iPhone, con la misma cuenta que la web. En la app, el CECILIA010, un cód
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | es | Preguntas frecuentes | ¿YesStyle tiene app? Sí, para Android y iPhone, en los enlaces oficiales de Google Pl -> ¿YesStyle tiene app? Sí, para Android e iPhone, en los enlaces oficiales de Google Play y la App Store. La tie
+- yesstyle-app-como-comprar-codigo-de-recompensa | N | es | CTA | Escribe CECILIA010 en el campo "Influencer / Rewards Code" de la app o en el Reward C -> Escribe CECILIA010 en el campo "Influencer / Rewards Code" de la app o en el Reward Code de la web: es un códi
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | es | Cómo comprar desde la app | La compra sigue el orden de la web: iniciar sesión, preparar la bolsa e ir al checkou -> La compra sigue el orden de la web: iniciar sesión, llenar la bolsa e ir al checkout.
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | fr | Comment acheter dans l'appli | Connectez-vous avant d'ajouter des articles au panier. Connecté sur le site et dans l -> Connectez-vous avant d'ajouter des articles au panier. Si vous êtes connecté sur le site et dans l'appli, le p
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | fr | Où saisir le CECILIA010 dans l'appli | De retour à la validation de commande, le code apparaît sous forme d'étiquette sous « -> De retour à la validation de commande, le code apparaît sous forme d'étiquette sous « Coupon or Influencer / R
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | fr | Où saisir le CECILIA010 dans l'appli | Le coupon de la boutique, quand il y en a un d'actif, se saisit dans le champ du haut -> Le coupon de la boutique, quand l'un d'eux est actif, se saisit dans le champ du haut, sur le même écran. Les 
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | it | Come acquistare dall'app | Il passo passo per il sito è in [Come usare il CECILIA010 su YesStyle](/it/reviews/co -> La guida passo passo per il sito è in [Come usare il CECILIA010 su YesStyle](/it/reviews/codice-ricompensa-yes
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | it | Punti YS e il coupon dell'app | Reinstallare non restituisce i punti. -> Reinstallare non assegna di nuovo i punti.
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | it | Domande frequenti | Si guadagnano punti scaricando l'app? Sì, 50 punti YS accedendo dall'app, una sola vo -> Si guadagnano punti scaricando l'app? Sì, 50 punti YS accedendo dall'app, una sola volta. Reinstallare non li 
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | de | Wo Sie die App herunterladen | Laut Hilfecenter des Shops läuft die App auf iOS und Android. Auf der Startseite öffn -> Laut Hilfecenter des Shops läuft die App auf iOS und Android. Auf der Startseite zeigt die App die Auslage für
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | ja | YSポイントとアプリのクーポン | アプリからログインすると、YSポイントが50ポイントもらえます（1回限り）。 -> アプリからログインすると、50 YSポイントがもらえます（1回限り）。
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | ja | アプリでCECILIA010を入力する場所 | CECILIA010はクーポンではなくリワードコードです。最大5%の追加割引（初回購入は5%、2回目以降は2%）が付き、YesStyleのクーポンと併用できます。アプリに -> CECILIA010はクーポンではなくリワードコードです。最大5%の追加割引（初回購入は5%、2回目以降は2%）が付き、YesStyleのクーポンと併用できます。アプリには専用の入力欄があります。Androidアプリで、
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | ja | アプリでCECILIA010を入力する場所 (caption) | Androidアプリでの3ステップ。配送先がアメリカのアカウントでの画面です。 -> Androidアプリでの3ステップ。配送先が米国のアカウントでの画面です。
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | ko | 웹사이트와 앱: 달라지는 점 | 결제 화면 "Enter Code" 화면의 "Influencer / Rewards Code" -> 결제 화면의 "Enter Code" 화면에 있는 "Influencer / Rewards Code"
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | zh-hans | 简要回答 | 可以，YesStyle 有适用于 Android 和 iPhone 的 App，账号与网站通用。在 App 里，奖励码 CECILIA010 填在结账页的“Influen -> 是的，YesStyle 有适用于 Android 和 iPhone 的 App，账号与网站通用。在 App 里，奖励码 CECILIA010 填在结账页的“Influencer / Rewards Code”输入框，就在
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | zh-hans | CTA | 在 App 把 CECILIA010 填入“Influencer / Rewards Code”栏位，在网站则填入 Reward Code 栏位。它是奖励码，最多额外 5 -> 在 App 把 CECILIA010 填入“Influencer / Rewards Code”输入框，在网站则填入 Reward Code 输入框。它是奖励码，最多额外 5% 优惠，可与 YesStyle 的优惠券叠加
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | zh-hans | CECILIA010 在 App 里填在哪里 | 会打开两个栏位：上方是“Coupon Code”，填商店优惠券；下方是“Influencer / Rewards Code”。在下方输入 CECILIA010，然后点击“ -> 会显示两个输入框：上方是“Coupon Code”，填商店优惠券；下方是“Influencer / Rewards Code”。在下方输入 CECILIA010，然后点击“APPLY”。
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | zh-hant | 簡要回答 | 可以，YesStyle 有適用於 Android 和 iPhone 的 App，帳號與網站共用。 -> 是的，YesStyle 有適用於 Android 和 iPhone 的 App，帳號與網站共用。
+- shein-11-11-selecao-da-cecilia | V | en | Printed paperbag-waist shorts | They are paperbag-waist shorts for anyone who wants an inexpensive summer and holiday -> They are paperbag-waist shorts for anyone who wants an inexpensive summer and holiday piece. They carry the bi
+- shein-11-11-selecao-da-cecilia | V | en | Wide-leg jeans with elastic waist | Flexra wide-leg jeans with an elastic waist, which the store describes as comfortable -> Flexra wide-leg jeans with an elastic waist, which the store describes as comfortable with a wide leg. They su
+- shein-11-11-selecao-da-cecilia | V | en | White and caramel slingback pumps | Slingback pumps in white and caramel, with a block heel, which the store describes as -> Slingback pumps in white and caramel, with a block heel, which the store describes as elegant and modern. They
+- shein-11-11-selecao-da-cecilia | F | es | Antes de comprar | **¿Primera compra en SHEIN?** Lee antes la guía [¿SHEIN es fiable?](/es/reviews/shein -> **¿Primera compra en SHEIN?** Lee antes la guía [¿SHEIN es confiable?](/es/reviews/shein-es-confiable-y-seguro
+- shein-11-11-selecao-da-cecilia | V | es | Pijama de tirantes y short a rayas con corazones | Es el pijama a rayas con corazones para quien quiere camiseta de tirantes y short con -> Es el pijama a rayas con corazones para quien quiere camiseta de tirantes y short cuando hace calor.
+- shein-11-11-selecao-da-cecilia | V | fr | CTA | Les liens de cette sélection mènent aux pièces de la Méga Promo 11.11 de SHEIN, qui d -> Les liens de cette sélection mènent aux pièces de la Méga Promotion 11.11 de SHEIN, qui dure jusqu'au 12/11/20
+- shein-11-11-selecao-da-cecilia | V | fr | Boucles d'oreilles nœud avec perle et cœur | Ce sont des boucles d'oreilles nœud avec perle et cœur, que la boutique indique pour  -> Ce sont des boucles d'oreilles nœud avec perle et cœur, que la boutique recommande pour les fêtes. C'est un pe
+- shein-11-11-selecao-da-cecilia | V | fr | Kit montre verte avec bracelet, collier et boucles d'oreilles | C'est un kit de 9 pièces avec montre verte, bracelet, collier et boucles d'oreilles,  -> C'est un kit de 9 pièces avec montre verte, bracelet, collier et boucles d'oreilles, que la boutique recommand
+- shein-11-11-selecao-da-cecilia | V | it | Short stampato con vita paperbag | È lo short con vita arricciata per chi vuole un capo economico per l'estate e le vaca -> È lo short con vita paperbag per chi vuole un capo economico per l'estate e le vacanze. È il capo con lo scont
+- shein-11-11-selecao-da-cecilia | V | it | Short stampato con vita paperbag (alt) | Short da donna stampato con vita arricciata, foto della scheda SHEIN -> Short da donna stampato con vita paperbag, foto della scheda SHEIN
+- shein-11-11-selecao-da-cecilia | V | de | Die Aktion 11.11 | Laut SHEIN gibt es bis zu 85 % Rabatt auf mehr als 600.000 Produkte, und der Shop len -> Laut SHEIN gibt es bis zu 85 % Rabatt auf mehr als 600.000 Produkte, und der Shop verlagert die Aktion in die 
+- shein-11-11-selecao-da-cecilia | F | de | Langarm-Jungenpyjama mit wechselndem Print | Langarm-Jungenpyjama mit wechselndem Print -> Langarm-Jungenpyjama mit zufälligem Print
+- shein-11-11-selecao-da-cecilia | F | de | Die 19 Teile in einer Tabelle | [Langarm-Jungenpyjama mit wechselndem Print](https://onelink.shein.com/58/66i7snj5xcv -> [Langarm-Jungenpyjama mit zufälligem Print](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_K
+- shein-11-11-selecao-da-cecilia | F | de | Langarm-Jungenpyjama mit wechselndem Print (styling) | Langarm-Jungenpyjama mit wechselndem Print -> Langarm-Jungenpyjama mit zufälligem Print
+- shein-11-11-selecao-da-cecilia | V | ja | ハート柄タンクトップとワイドパンツの女の子用セット | サイズ：4〜7歳。ストアには8〜12歳もあります。 -> サイズ：4〜7歳。ショップには8〜12歳もあります。
+- shein-11-11-selecao-da-cecilia | V | ja | 長袖の男の子用パジャマ（柄はおまかせ） | 出品は1セット単位で、柄（恐竜、ショベルカー、飛行機）は買う人ではなくお店が選びます。 -> 販売は1セット単位で、柄（恐竜、ショベルカー、飛行機）は買う人ではなくお店が選びます。
+- shein-11-11-selecao-da-cecilia | V | ja | ハート柄ストライプのタンクトップ＆ショートパンツのパジャマ | ハート柄のストライプのパジャマで、暑い時期にタンクトップとショートパンツで過ごしたい人向けです。自分の色とサイズの条件は商品ページで確認してください。 -> ハート柄のストライプのパジャマで、暑い時期にタンクトップとショートパンツで過ごしたい人向けです。色とサイズごとの条件は商品ページで確認してください。
+- shein-11-11-selecao-da-cecilia | V | ja | リネン調の生地のネイビーのヘンリーネックTシャツ | リネン調の生地のネイビーのヘンリーネックTシャツ -> リネン調ネイビーのヘンリーネックTシャツ
+- shein-11-11-selecao-da-cecilia | TR | ko | description | SHEIN 11.11 메가 세일(2026년 11월 12일까지)에서 Cecília가 고른 셀렉션입니다. 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에 -> SHEIN 11.11 메가 세일(2026년 11월 12일까지)에서 Cecília가 고른 셀렉션입니다. 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지이며, 상품마다 할인율, 평점, 캠
+- shein-11-11-selecao-da-cecilia | F | ko | 아동 | 생후 6개월부터 7세까지 입는 네 가지입니다. 여아 세트 하나, 남아 잠옷 둘, 아기 상의 하나입니다. -> 생후 6개월부터 7세까지 입는 네 가지입니다. 여아 세트 하나, 남아 잠옷 둘, 아기 상의 하나입니다. 아래 사이즈는 스토어가 연령별로 안내하는 것입니다.
+- shein-11-11-selecao-da-cecilia | V | ko | 하트 줄무늬 민소매·반바지 잠옷 | 하트가 들어간 줄무늬 잠옷으로, 더운 날 민소매와 반바지로 입고 싶은 분께 맞습니다. 원하는 색상과 조건은 상품 페이지에서 확인하세요. -> 하트가 들어간 줄무늬 잠옷으로, 더운 날 민소매와 반바지로 입고 싶은 분께 맞습니다. 원하는 색상과 사이즈는 상품 페이지에서 확인하세요.
+- shein-11-11-selecao-da-cecilia | V | ko | 구매 전에 확인할 것 | **4CW5Y는 추천 코드이지 쿠폰이 아닙니다:** 앱의 검색창에서 검색하는 코드이고 결제 화면에 붙여 넣지 않습니다. [SHEIN 추천 코드](/ko/ -> **4CW5Y는 추천 코드이지 쿠폰이 아닙니다:** 앱의 검색창에서 검색하는 코드이고 결제 화면에 붙여 넣지 않습니다. [SHEIN 추천 코드](/ko/reviews/shein-referral-co
+- shein-11-11-selecao-da-cecilia | V | zh-hans | 童装 | 下面的尺码是店里按年龄列出的。 -> 下面的尺码是店家按年龄列出的。
+- hostinger-horizons-vale-a-pena | V | en | Who is writing | Who is writing -> Who writes
+- hostinger-horizons-vale-a-pena | V | en | SONAR20 coupon | Use the code **SONAR20** in the cart's coupon field, or come in through this article' -> Use the code **SONAR20** in the cart's coupon field, or use this article's link: it's **20% off the first peri
+- hostinger-horizons-vale-a-pena | V | en | CTA | Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20%  -> Enter the code SONAR20 in the cart's coupon field, or use this link: 20% off the first period. We have not tes
+- hostinger-horizons-vale-a-pena | V | es | Creador con IA o WordPress | El precio no decide: en Hostinger, el creador con IA viene en los planes de hosting,  -> El precio no decide: en Hostinger, el creador con IA viene en los planes de hosting, los mismos que corren Wor
+- hostinger-horizons-vale-a-pena | V | es | CTA | Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este -> Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20 % en el pri
+- hostinger-horizons-vale-a-pena | V | es | Qué comprobar antes de pagar | **La tienda online** es un elemento de los planes Unlimited y Cloud Startup; en el Un -> **La tienda online** está incluida en los planes Unlimited y Cloud Startup; en el Unlimited, la página dice qu
+- hostinger-horizons-vale-a-pena | F | fr | Ce qu'est le créateur IA (l'ancien Horizons) | vous éditez par glisser-déposer. Il ne consomme pas de crédits IA. -> vous éditez par glisser-déposer. Ce mode ne consomme pas de crédits IA.
+- hostinger-horizons-vale-a-pena | V | fr | Créateur IA ou WordPress | Qui retouche le site chaque semaine doit faire le calcul ; qui le monte une fois et m -> Qui retouche le site chaque semaine doit faire le calcul ; qui le monte une fois et modifie le texte et les ph
+- hostinger-horizons-vale-a-pena | V | fr | Quadro decision (skipIf) | Prenez-le si vous allez monter le site une fois et retoucher texte et photos dans l'é -> Prenez-le si vous allez monter le site une fois et retoucher le texte et les photos dans l'éditeur, qui ne con
+- hostinger-horizons-vale-a-pena | F | it | Codice SONAR20 | Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di que -> Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% 
+- hostinger-horizons-vale-a-pena | F | it | Per quale progetto va bene: la tabella | La domanda giusta non è «l'IA è brava?», ma «che cosa costruirò e chi ci metterà mano -> La domanda giusta non è «l'IA è buona?», ma «che cosa costruirò e chi ci metterà mano dopo?».
+- hostinger-horizons-vale-a-pena | F | de | CTA | Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den L -> Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % auf den ersten 
+- hostinger-horizons-vale-a-pena | F | de | Was Sie vor der Zahlung prüfen sollten | **Was passiert, wenn Sie nicht verlängern.** Die Seite warnt: Ein abgelaufener und ni -> **Was passiert, wenn Sie nicht verlängern.** Die Seite warnt: Ein abgelaufener und nicht verlängerter Tarif ni
+- hostinger-horizons-vale-a-pena | V | de | Gutscheincode SONAR20 | Die vollständige Regel und die anderen Produkte stehen unter [Hostinger-Gutscheine](/ -> Die vollständigen Bedingungen und die anderen Produkte stehen unter [Hostinger-Gutscheine](/de/coupons/hosting
+- hostinger-horizons-vale-a-pena | F | ja | CTA (label) | 割引プランを見る -> SONAR20 で割引プランを見る
+- hostinger-horizons-vale-a-pena | F | ko | AI Builder인가, WordPress인가 | WordPress에서는 플러그인 더미가 됩니다. -> WordPress에서는 플러그인 무더기가 됩니다.
+- hostinger-horizons-vale-a-pena | V | ko | 결제 전에 확인할 것 | 만료되기 전에 코드를 익스포트해 두세요. -> 만료되기 전에 코드를 내보내 두세요.
+- hostinger-horizons-vale-a-pena | V | ko | AI Builder인가, WordPress인가 | 결정을 바꿀 수 있는 단서는 AI 모드에서는 변경할 때마다 크레딧이 든다는 점입니다. -> 결정을 가르는 주의점은 AI 모드에서는 변경할 때마다 크레딧이 든다는 것입니다.
+- hostinger-horizons-vale-a-pena | F | ko | CTA (label) | 할인 플랜 보기 -> SONAR20으로 할인 플랜 보기
+- hostinger-horizons-vale-a-pena | TR | ko | metaDescription | Hostinger Horizons는 AI Builder가 되었습니다. 쓸 만한가, 아니면 WordPress인가? 프로젝트 유형별 표, Wix·Lovabl -> Hostinger Horizons는 AI Builder가 되었습니다. 쓸 만한가, 아니면 WordPress인가? 프로젝트 유형별 표, Wix·Lovable과의 비교, AI 크레딧까지 다룹니다.
+- hostinger-horizons-vale-a-pena | F | zh-hans | 付款前要核对什么 | 按页面所说，Unlimited 前 3 个月免费。 -> 按页面所说，Unlimited 有 3 个月免费。
+- hostinger-horizons-vale-a-pena | F | zh-hant | 付款前要確認什麼 | 依頁面所說，Unlimited 前 3 個月免費。 -> 依頁面所說，Unlimited 有 3 個月免費。
+- hostinger-horizons-vale-a-pena | N | zh-hant | CTA | 在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20%。續訂價我們沒有測試，請在購物車確認。 -> 在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認續約價格。
+- dominio-hostinger-comprar-transferir-ou-fora | V | en | CTA | Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% of -> Use the code SONAR20 in the cart's coupon field, or use this link: 20% off the first period.
+- dominio-hostinger-comprar-transferir-ou-fora | V | en | Transferring: the 60-day rule and the steps | A transfer that goes through is not refunded; see [Hostinger's refund and renewal rul -> A completed transfer is not refundable; see [Hostinger's refund and renewal rules](/en/reviews/is-hostinger-le
+- dominio-hostinger-comprar-transferir-ou-fora | V | es | Quien es el dueno del dominio | Un dominio vencido tumba el sitio y el correo. -> Un dominio caducado deja sin servicio el sitio y el correo.
+- dominio-hostinger-comprar-transferir-ou-fora | V | es | Transferir: la regla de los 60 días y el paso a paso | Lo que cambia es quién cobra la renovación y dónde tocas el DNS. -> Lo que cambia es quién cobra la renovación y dónde gestionas el DNS.
+- dominio-hostinger-comprar-transferir-ou-fora | V | fr | Les trois voies | C'est un élément du forfait, pas une raison de choisir la voie : ce qui pèse, c'est l -> C'est un élément du forfait, pas une raison de choisir la voie : ce qui compte, c'est le renouvellement.
+- dominio-hostinger-comprar-transferir-ou-fora | V | fr | Domaine et hebergement sont deux comptes | La page même de Hostinger dit qu'un domaine enregistré chez elle peut être pointé ver -> La page de Hostinger elle-même dit qu'un domaine enregistré chez elle peut être pointé vers un autre hébergeur
+- dominio-hostinger-comprar-transferir-ou-fora | V | fr | Qui est propriétaire du domaine | Trois précautions gardent le domaine à vous : -> Trois précautions vous permettent de garder le domaine :
+- dominio-hostinger-comprar-transferir-ou-fora | V | it | Le tre strade | Sul dominio non cambia nulla; solo il puntamento -> Sul dominio non cambia nulla; solo dove punta
+- dominio-hostinger-comprar-transferir-ou-fora | V | it | Le tre strade | È una voce del piano, non un motivo per scegliere la strada: quello che pesa è il rin -> È una voce del piano, non un motivo per scegliere la strada: quello che conta è il rinnovo.
+- dominio-hostinger-comprar-transferir-ou-fora | V | it | Trasferire: la regola dei 60 giorni e i passaggi | **Tempi:** fino a sette giorni; più veloce se il registrar attuale lo libera subito e -> **Tempi:** fino a sette giorni; più veloce se il registrar attuale lo libera subito e confermi subito l'e-mail
+- dominio-hostinger-comprar-transferir-ou-fora | V | it | Di chi è il dominio | nel caso del dominio arrivato con il piano -> nel caso del dominio incluso nel piano
+- dominio-hostinger-comprar-transferir-ou-fora | V | it | Dominio e hosting sono due account | La pagina stessa di Hostinger dice che un dominio registrato da lei può essere puntat -> La pagina stessa di Hostinger dice che un dominio registrato su Hostinger può essere puntato verso un altro pr
+- dominio-hostinger-comprar-transferir-ou-fora | F | de | Welchen Weg wählen | Umziehen kann man später, und die Website steht nicht still. -> Umziehen kann man später, und die Website bleibt dabei online.
+- dominio-hostinger-comprar-transferir-ou-fora | V | ja | SONAR20クーポンと料金 | カートのクーポン欄にコード**SONAR20**を入力するか、この記事のリンクから入ってください。 -> カートのクーポン欄に**SONAR20**と入力するか、この記事のリンクから入ってください。
+- dominio-hostinger-comprar-transferir-ou-fora | F | ja | 執筆者 | （公開レジストリのRDAP） -> （公開RDAP記録）
+- dominio-hostinger-comprar-transferir-ou-fora | V | ko | 어떤 방법을 고를까 | **Hostinger에서 구매하세요.** 사이트를 Hostinger에서 호스팅할 예정이고, 도메인, DNS, 갱신을 한 패널에서 관리하고 싶다면 그렇습니 -> 사이트를 Hostinger에서 호스팅할 예정이고, 도메인, DNS, 갱신을 한 패널에서 관리하고 싶다면 **Hostinger에서 구매하세요**. 결제 전에 갱신 요금을 확인하세요.
+- dominio-hostinger-comprar-transferir-ou-fora | V | ko | 어떤 방법을 고를까 | **다른 곳에서 구매하고 연결하세요.** 이미 다른 등록 기관에 도메인이 있거나, 계정을 나누고 싶거나, 그쪽 갱신 요금이 더 저렴하다면 그렇습니다. D -> 이미 다른 등록 기관에 도메인이 있거나, 계정을 나누고 싶거나, 그쪽 갱신 요금이 더 저렴하다면 **다른 곳에서 구매하고 연결하세요**. DNS 연결은 패널에서 설정하는 일이고, 사이트는 똑같이 작
+- dominio-hostinger-comprar-transferir-ou-fora | V | ko | 어떤 방법을 고를까 | **이전하세요.** 등록한 지 60일이 넘은 도메인만, 그리고 Hostinger의 갱신 요금이 지금 내는 금액보다 나을 때만 하세요. 대부분의 일반 확장 -> 등록한 지 60일이 넘은 도메인만, 그리고 Hostinger의 갱신 요금이 지금 내는 금액보다 나을 때만 **이전하세요**. 대부분의 일반 확장자에서는 이전 비용에 1년 등록이 포함되므로 돈을 버리
+- dominio-hostinger-comprar-transferir-ou-fora | V | zh-hans | SONAR20 优惠码与价格 | 或从本文的链接进入：**第一个周期优惠 20%**，月付或年付套餐都可以，新老客户都适用。 -> 或从本文的链接进入：**首期优惠 20%**，月付或年付套餐都可以，新老客户都适用。
+- vps-ou-hospedagem-compartilhada-qual-escolher | V | es | Cuál elegir, según el escenario | Sí, atento al plan: más productos y visitas piden Premium o Unlimited -> Sí, con atención al plan: más productos y visitas piden Premium o Unlimited
+- vps-ou-hospedagem-compartilhada-qual-escolher | V | fr | quadro Leve/Passe (decision.skipIf) | Passez votre chemin si c'est un blog, un portfolio, un site d'entreprise, une petite  -> Laissez tomber si c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js
+- vps-ou-hospedagem-compartilhada-qual-escolher | V | fr | quadro Leve/Passe (decision.skipIf) | Passez votre chemin si vous n'avez jamais ouvert de terminal : installer, mettre à jo -> Laissez tomber si vous n'avez jamais ouvert de terminal : installer, mettre à jour, protéger et sauvegarder re
+- vps-ou-hospedagem-compartilhada-qual-escolher | N | de | Die VPS-Tarife: KVM 1 bis 8 | Speicher -> Speicherplatz
+- vps-ou-hospedagem-compartilhada-qual-escolher | TR | ko | 둘은 무엇이 다른가 | **VPS**(가상 사설 서버)는 프로세서, 메모리, 디스크가 예약된 나만의 가상 머신입니다。 -> **VPS**(가상 사설 서버)는 프로세서, 메모리, 디스크가 예약된 이용자만의 가상 머신입니다。
+- vps-ou-hospedagem-compartilhada-qual-escolher | F | ko | CTA | 쿠폰 코드 SONAR20을 장바구니에 넣으면 20% 할인이 첫 기간에 적용됩니다. 갱신 가격은 테스트하지 않았습니다. -> 장바구니의 쿠폰란에 SONAR20을 입력하거나 이 링크로 들어가세요. 첫 기간에 20% 할인됩니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.
+
+## Só minha
+
+- paperclip-ai-hostinger | F | en | What size of VPS | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ]  -> apagar o comparisonTable vazio (e o paragraphs vazio); o capítulo fica só com heading + postParagraphs
+- paperclip-ai-hostinger | F | es | Qué tamaño de VPS | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ]  -> apagar o comparisonTable vazio (e o paragraphs vazio); o capítulo fica só com heading + postParagraphs
+- paperclip-ai-hostinger | F | fr | Quelle taille de VPS | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ]  -> apagar o comparisonTable vazio (e o paragraphs vazio); o capítulo fica só com heading + postParagraphs
+- paperclip-ai-hostinger | F | it | Che dimensione di VPS | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ]  -> apagar o comparisonTable vazio (e o paragraphs vazio); o capítulo fica só com heading + postParagraphs
+- paperclip-ai-hostinger | V | it | Domande frequenti | Dipende dall'agente che collegate." … "il modello resta all'agente che collegate. -> Dipende dall'agente che colleghi." … "il modello resta all'agente che colleghi.
+- paperclip-ai-hostinger | N | it | Che cos'è Paperclip, in parole semplici | **Heartbeat:** il nome viene da “battito”. -> **Heartbeats:** il nome viene da “battito”.
+- paperclip-ai-hostinger | V | it | Come iniziare, in ordine | Sottoscrivi il piano “AI automation apps” con 24 mesi, con il codice SONAR20 nel carr -> Sottoscrivi il piano “App di automazione IA” con 24 mesi, con il codice SONAR20 nel carrello.
+- paperclip-ai-hostinger | V | it | [cta] | Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul p -> Usa il codice SONAR20 nel campo codice sconto del carrello, oppure entra dal link: 20% sul primo periodo.
+- paperclip-ai-hostinger | F | de | Welche VPS-Größe | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ]  -> apagar o comparisonTable vazio (e o paragraphs vazio); o capítulo fica só com heading + postParagraphs
+- paperclip-ai-hostinger | V | de | So fangen Sie an, der Reihe nach | Bestellen Sie den Plan „AI automation apps“ mit 24 Monaten und dem Code SONAR20 im Wa -> Bestellen Sie den Plan „KI-Automatisierungs-Apps“ mit 24 Monaten und dem Code SONAR20 im Warenkorb.
+- paperclip-ai-hostinger | F | ja | VPS のサイズ | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ]  -> apagar o comparisonTable vazio (e o paragraphs vazio); o capítulo fica só com heading + postParagraphs
+- paperclip-ai-hostinger | V | ja | [cta] | label": "割引プランを見る -> label": "SONAR20 適用プランを見る
+- paperclip-ai-hostinger | F | ko | VPS는 어느 크기로 | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ]  -> apagar o comparisonTable vazio (e o paragraphs vazio); o capítulo fica só com heading + postParagraphs
+- paperclip-ai-hostinger | V | ko | [cta] | label": "할인 플랜 보기 -> label": "SONAR20 적용 플랜 보기
+- paperclip-ai-hostinger | F | zh-hans | VPS 选多大 | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ]  -> apagar o comparisonTable vazio (e o paragraphs vazio); o capítulo fica só com heading + postParagraphs
+- paperclip-ai-hostinger | F | zh-hant | VPS 選多大 | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ]  -> apagar o comparisonTable vazio (e o paragraphs vazio); o capítulo fica só com heading + postParagraphs
+- yesstyle-app-como-comprar-codigo-de-recompensa | N | fr | [title] | Appli YesStyle : comment acheter et où saisir le code récompense CECILIA010 -> Appli YesStyle : comment acheter et où saisir le code de récompense CECILIA010
+- yesstyle-app-como-comprar-codigo-de-recompensa | N | fr | [metaDescription] | Où se saisit le code récompense CECILIA010 à la validation de commande dans l'appli,  -> Où se saisit le code de récompense CECILIA010 à la validation de commande dans l'appli, et ce qui change par r
+- yesstyle-app-como-comprar-codigo-de-recompensa | N | fr | Réponse rapide | Dans l'appli, le CECILIA010, un code récompense, se saisit dans le champ « Influencer -> Dans l'appli, le CECILIA010, un code de récompense, se saisit dans le champ « Influencer / Rewards Code » de l
+- yesstyle-app-como-comprar-codigo-de-recompensa | N | fr | Où saisir le CECILIA010 dans l'appli | Le CECILIA010 est un code récompense, pas un coupon : il donne jusqu'à 5 % en plus (5 -> Le CECILIA010 est un code de récompense, pas un coupon : il donne jusqu'à 5 % en plus (5 % sur le premier acha
+- yesstyle-app-como-comprar-codigo-de-recompensa | N | fr | Questions fréquentes | C'est un code récompense, avec jusqu'à 5 % en plus, et il se cumule avec le coupon de -> C'est un code de récompense, avec jusqu'à 5 % en plus, et il se cumule avec le coupon de la boutique, qui se s
+- yesstyle-app-como-comprar-codigo-de-recompensa | F | de | Häufige Fragen | Der Shop gibt an, nur über diese beiden herunterzuladen. -> Der Shop gibt an, dass man nur über diese beiden Links herunterladen soll.
+- yesstyle-app-como-comprar-codigo-de-recompensa | V | zh-hant | 如何在 App 裡購買 | 在結帳頁，App 會在訂單摘要之前顯示配送國家、運費和「Coupon or Influencer / Rewards Code」這一列。 -> 在結帳頁，App 會在訂單摘要之前顯示配送國家、運費和「Coupon or Influencer / Rewards Code」這一行。
+- shein-11-11-selecao-da-cecilia | N | en | [type] | `"type": "Shopping Guide"` -> `"type": "Guide & Coupons"`
+- shein-11-11-selecao-da-cecilia | N | es | [type] | `"type": "Guía de compras"` -> `"type": "Guía & Cupones"`
+- shein-11-11-selecao-da-cecilia | V | es | Camiseta de tirantes negra lavada de corte suelto | bermudas de tactel -> bermudas de nailon
+- shein-11-11-selecao-da-cecilia | N | fr | [type] | `"type": "Guide d'achat"` -> `"type": "Guide & Coupons"`
+- shein-11-11-selecao-da-cecilia | V | fr | Accessoires | Un escarpin, une paire de boucles d'oreilles, un kit de montre et bijoux fantaisie et -> Une paire d'escarpins, une paire de boucles d'oreilles, un kit de montre et bijoux fantaisie et des lunettes d
+- shein-11-11-selecao-da-cecilia | V | fr | Débardeur noir délavé de coupe ample | bermuda en tactel -> bermuda en nylon
+- shein-11-11-selecao-da-cecilia | V | fr | Avant d'acheter | Lisez d'abord le guide [SHEIN est-il fiable ?](/fr/reviews/shein-est-il-fiable-et-sur -> Lisez d'abord le guide [SHEIN est-il fiable ?](/fr/reviews/shein-est-il-fiable-et-sur)
+- shein-11-11-selecao-da-cecilia | N | it | [type] | `"type": "Guida all'acquisto"` -> `"type": "Guida e coupon"`
+- shein-11-11-selecao-da-cecilia | F | it | Completo da bambina con canotta a cuore e pantalone palazzo | Secondo la scheda, è un completo da bambina con canotta stampata a cuore e pantalone  -> Secondo la scheda, è un completo da bambina con canotta stampata a cuore e pantalone palazzo, del marchio prop
+- shein-11-11-selecao-da-cecilia | N | de | [type] | `"type": "Einkaufsratgeber"` -> `"type": "Ratgeber & Gutscheine"`
+- shein-11-11-selecao-da-cecilia | F | de | Jungenpyjama mit Dinosaurier, der im Dunkeln leuchtet | Laut Produktseite ist es ein 2-teiliger Jungenpyjama mit Weihnachts-Dinosaurier, der  -> Laut Produktseite ist es ein 2-teiliger Jungenpyjama mit Weihnachts-Dinosaurier, der im Dunkeln leuchtet, und 
+- shein-11-11-selecao-da-cecilia | F | de | Brille mit Verlaufsgläsern und polygonalem Gestell | Gestell in einem Ton, der zu den Kleidern passt, die Sie am häufigsten tragen. -> Gestell in einem Ton, der zu der Kleidung passt, die Sie am häufigsten tragen.
+- shein-11-11-selecao-da-cecilia | V | de | Schwarzes Tanktop im Washed-Look, locker geschnitten | Tactel-Bermuda -> Nylon-Bermuda
+- shein-11-11-selecao-da-cecilia | V | de | Vor dem Kauf | Lesen Sie vorher den Ratgeber [Ist SHEIN seriös?](/de/reviews/ist-shein-serioes-und-s -> Lesen Sie vorher den Ratgeber [Ist SHEIN seriös?](/de/reviews/ist-shein-serioes-und-sicher)
+- shein-11-11-selecao-da-cecilia | N | ja | [type] | `"type": "ショッピングガイド"` -> `"type": "ガイド＆クーポン"`
+- shein-11-11-selecao-da-cecilia | F | ja | 買う前に | **サイズ：** サイズ感はアイテムごとに違うので、選ぶ前に商品ページのサイズ表を確認してください。 -> **サイズ：** 2つのサイズで迷っている場合は、選ぶ前に商品ページのサイズ表を確認してください。サイズ感はアイテムごとに違います。
+- shein-11-11-selecao-da-cecilia | V | ja | [editorialNote] | 割引は公開日に SHEIN で確認しました。 -> 割引は公開日に SHEIN で確認したものです。
+- shein-11-11-selecao-da-cecilia | V | ja | ブラックのウォッシュ加工ルーズフィットのタンクトップ | タクテル素材のバミューダパンツ -> ナイロン素材のバミューダパンツ
+- shein-11-11-selecao-da-cecilia | N | ko | [type] | `"type": "쇼핑 가이드"` -> `"type": "가이드 & 쿠폰"`
+- shein-11-11-selecao-da-cecilia | F | ko | 아동 | 생후 6개월부터 7세까지 입는 네 가지입니다. 여아 세트 하나, 남아 잠옷 둘, 아기 상의 하나입니다。 -> 생후 6개월부터 7세까지 입는 네 가지입니다. 여아 세트 하나, 남아 잠옷 둘, 아기 상의 하나입니다. 아래 사이즈는 스토어가 연령대별로 안내하는 것입니다。
+- shein-11-11-selecao-da-cecilia | F | ko | 구매 전에 확인할 것 | **사이즈:** 사이즈 구성은 상품마다 다르니, 고르기 전에 상품 페이지의 사이즈표를 확인하세요。 -> **사이즈:** 두 사이즈 사이에서 고민된다면, 고르기 전에 상품 페이지의 사이즈표를 확인하세요. 사이즈 구성은 상품마다 다릅니다。
+- shein-11-11-selecao-da-cecilia | V | ko | [editorialNote] | 할인율은 게시일에 SHEIN에서 확인했습니다。 -> 할인율은 게시일에 SHEIN에서 확인한 것입니다。
+- shein-11-11-selecao-da-cecilia | V | ko | 블랙 워싱 루즈핏 민소매 티셔츠 | 택텔 소재 버뮤다 팬츠 -> 나일론 소재 버뮤다 팬츠
+- shein-11-11-selecao-da-cecilia | N | zh-hans | [type] | `"type": "购物指南"` -> `"type": "指南与优惠码"`
+- shein-11-11-selecao-da-cecilia | F | zh-hans | 恐龙夜光男童睡衣 | 印有圣诞恐龙，图案在黑暗中发光，裤腰带松紧。 -> 印有圣诞恐龙，图案在黑暗中发光，采用松紧设计。
+- shein-11-11-selecao-da-cecilia | V | zh-hans | 恐龙夜光男童睡衣 | 适合想让男孩提前穿上年末节日睡衣的人，男孩年龄 4 到 7 岁。 -> 适合想给 4 到 7 岁男孩提前准备年末节日睡衣的人。
+- shein-11-11-selecao-da-cecilia | N | zh-hant | [type] | `"type": "購物指南"` -> `"type": "指南與優惠碼"`
+- shein-11-11-selecao-da-cecilia | F | zh-hant | 恐龍夜光男童睡衣 | 印有聖誕恐龍，圖案在黑暗中會發光，褲頭有鬆緊帶。 -> 印有聖誕恐龍，圖案在黑暗中會發光，採用鬆緊設計。
+- shein-11-11-selecao-da-cecilia | V | zh-hant | 恐龍夜光男童睡衣 | 適合想讓男孩提早穿上年終節慶睡衣的人，男孩年齡 4 到 7 歲。 -> 適合想幫 4 到 7 歲男孩提早準備年終節慶睡衣的人。
+- hostinger-horizons-vale-a-pena | V | fr | [decision] | Passez si vous voulez tout emporter chez un autre hébergeur sans retravail, ou si vou -> Passez si vous voulez tout emporter chez un autre hébergeur sans tout refaire, ou si vous allez demander des m
+- hostinger-horizons-vale-a-pena | F | ko | AI Builder인가, WordPress인가 | WordPress에서는 플러그인 더미가 됩니다。 -> WordPress에서는 플러그인을 여러 개 깔아야 합니다。
+- dominio-hostinger-comprar-transferir-ou-fora | V | fr | [decision] | Passez sur le transfert si l'enregistrement a moins de 60 jours : il ne démarre pas. -> Évitez le transfert si l'enregistrement a moins de 60 jours : il ne démarre pas.
+- dominio-hostinger-comprar-transferir-ou-fora | V | it | Dominio e hosting sono due account | l'indirizzo (il nome che le persone digitano) da una parte, il computer dove vive il  -> l'indirizzo (il nome che le persone digitano) da una parte, il computer dove si trova il sito dall'altra
+- dominio-hostinger-comprar-transferir-ou-fora | V | de | Welchen Weg wählen | Das DNS zeigen zu lassen ist eine Einstellung im Panel, und die Website funktioniert  -> Das Umstellen des DNS ist eine Einstellung im Panel, und die Website funktioniert genauso.
+- dominio-hostinger-comprar-transferir-ou-fora | V | zh-hant | 網域歸誰 | 如果網域是随方案附帶的，註冊費會從退款中扣除 -> 如果網域是隨方案附帶的，註冊費會從退款中扣除
+- dominio-hostinger-comprar-transferir-ou-fora | V | zh-hant | 付款前的清單 | 如果網域是随主機方案附帶的，記下第二年的續訂價 -> 如果網域是隨主機方案附帶的，記下第二年的續訂價
+- vps-ou-hospedagem-compartilhada-qual-escolher | F | ko | [cta] | 쿠폰 코드 SONAR20을 장바구니에 넣으면 20% 할인이 첫 기간에 적용됩니다. 갱신 가격은 테스트하지 않았습니다。 -> 장바구니의 쿠폰 입력란에 SONAR20을 입력하거나 이 링크로 들어가면 첫 기간에 20% 할인이 적용됩니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.
+- vps-ou-hospedagem-compartilhada-qual-escolher | V | es | Preguntas frecuentes | En el compartido, todo pasa por el panel y no hay terminal obligatoria. -> En el compartido, todo pasa por el panel y no necesitas usar la terminal.
+- vps-ou-hospedagem-compartilhada-qual-escolher | V | it | Domande frequenti | Sul condiviso, tutto passa dal pannello e non c'è un terminale obbligatorio. -> Sul condiviso, tutto passa dal pannello e non devi usare il terminale.
+
+## Trechos que não batem por literal exato
+
+Muse: 15/173 | Minha: 38/132. Localizar pelo capítulo/campo ou descartar.
+
+### Muse
+
+- paperclip-ai-hostinger | V | fr | Comment commencer, dans l'ordre | Vous vous connectez au panneau, reliez vos agents et collez vos clés d'IA.
+- paperclip-ai-hostinger | V | it | Domande frequenti | Funziona con Ollama? Dipende dall'agente che collegate. Il README di Paperclip non cita Ollama, un programma p
+- paperclip-ai-hostinger | N | it | Che cos'è Paperclip, in parole semplici | **Heartbeat:** il nome viene da "battito".
+- shein-11-11-selecao-da-cecilia | TR | ko | description | SHEIN 11.11 메가 세일(2026년 11월 12일까지)에서 Cecília가 고른 셀렉션입니다. 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지를 골랐고, 상품마다 할인율, 평점
+- shein-11-11-selecao-da-cecilia | V | ko | 만화 프린트 3피스 잠옷 | 평점 4.95, 리뷰 1,000개 이상로, 셀렉션에서 가장 높습니다。
+- dominio-hostinger-comprar-transferir-ou-fora | F | en | Contact-data privacy | "headers": [],
+- dominio-hostinger-comprar-transferir-ou-fora | F | es | Privacidad de los datos de contacto | "headers": [],
+- dominio-hostinger-comprar-transferir-ou-fora | F | fr | Confidentialité des données de contact | "headers": [],
+- dominio-hostinger-comprar-transferir-ou-fora | F | it | Privacy dei dati di contatto | "headers": [],
+- dominio-hostinger-comprar-transferir-ou-fora | F | de | Datenschutz der Kontaktdaten | "headers": [],
+- dominio-hostinger-comprar-transferir-ou-fora | F | ja | 連絡先情報のプライバシー | "headers": [],
+- dominio-hostinger-comprar-transferir-ou-fora | F | ko | 연락처 정보 개인정보 보호 | "headers": [],
+- dominio-hostinger-comprar-transferir-ou-fora | F | zh-hans | 联系信息的隐私保护 | "headers": [],
+- dominio-hostinger-comprar-transferir-ou-fora | F | zh-hant | 聯絡資料的隱私保護 | "headers": [],
+- vps-ou-hospedagem-compartilhada-qual-escolher | TR | ko | 둘은 무엇이 다른가 | **VPS**(가상 사설 서버)는 프로세서, 메모리, 디스크가 예약된 나만의 가상 머신입니다。
+
+### Minha
+
+- paperclip-ai-hostinger | F | en | What size of VPS | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ] }
+- paperclip-ai-hostinger | F | es | Qué tamaño de VPS | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ] }
+- paperclip-ai-hostinger | F | fr | Quelle taille de VPS | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ] }
+- paperclip-ai-hostinger | F | it | Che dimensione di VPS | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ] }
+- paperclip-ai-hostinger | V | it | Domande frequenti | Dipende dall'agente che collegate." … "il modello resta all'agente che collegate.
+- paperclip-ai-hostinger | F | de | Welche VPS-Größe | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ] }
+- paperclip-ai-hostinger | F | ja | VPS のサイズ | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ] }
+- paperclip-ai-hostinger | V | ja | [cta] | label": "割引プランを見る
+- paperclip-ai-hostinger | F | ko | VPS는 어느 크기로 | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ] }
+- paperclip-ai-hostinger | V | ko | [cta] | label": "할인 플랜 보기
+- paperclip-ai-hostinger | F | zh-hans | VPS 选多大 | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ] }
+- paperclip-ai-hostinger | F | zh-hant | VPS 選多大 | "paragraphs": [], "comparisonTable": { "headers": [], "rows": [ [], [], [], [], [] ] }
+- shein-11-11-selecao-da-cecilia | N | en | [type] | `"type": "Shopping Guide"`
+- shein-11-11-selecao-da-cecilia | N | es | [type] | `"type": "Guía de compras"`
+- shein-11-11-selecao-da-cecilia | N | fr | [type] | `"type": "Guide d'achat"`
+- shein-11-11-selecao-da-cecilia | N | it | [type] | `"type": "Guida all'acquisto"`
+- shein-11-11-selecao-da-cecilia | N | de | [type] | `"type": "Einkaufsratgeber"`
+- shein-11-11-selecao-da-cecilia | N | ja | [type] | `"type": "ショッピングガイド"`
+- shein-11-11-selecao-da-cecilia | N | ko | [type] | `"type": "쇼핑 가이드"`
+- shein-11-11-selecao-da-cecilia | V | ko | 만화 프린트 3피스 잠옷 | 평점 4.95, 리뷰 1,000개 이상로, 셀렉션에서 가장 높습니다。
+- shein-11-11-selecao-da-cecilia | F | ko | 아동 | 생후 6개월부터 7세까지 입는 네 가지입니다. 여아 세트 하나, 남아 잠옷 둘, 아기 상의 하나입니다。
+- shein-11-11-selecao-da-cecilia | F | ko | 구매 전에 확인할 것 | **사이즈:** 사이즈 구성은 상품마다 다르니, 고르기 전에 상품 페이지의 사이즈표를 확인하세요。
+- shein-11-11-selecao-da-cecilia | V | ko | [editorialNote] | 할인율은 게시일에 SHEIN에서 확인했습니다。
+- shein-11-11-selecao-da-cecilia | N | zh-hans | [type] | `"type": "购物指南"`
+- shein-11-11-selecao-da-cecilia | N | zh-hant | [type] | `"type": "購物指南"`
+- hostinger-horizons-vale-a-pena | F | ko | AI Builder인가, WordPress인가 | WordPress에서는 플러그인 더미가 됩니다。
+- dominio-hostinger-comprar-transferir-ou-fora | F | en | Contact-data privacy | `"headers": [], "rows": [[], [], [], []]`
+- dominio-hostinger-comprar-transferir-ou-fora | F | es | Privacidad de los datos de contacto | `"headers": [], "rows": [[], [], [], []]`
+- dominio-hostinger-comprar-transferir-ou-fora | F | fr | Confidentialité des données de contact | `"headers": [], "rows": [[], [], [], []]`
+- dominio-hostinger-comprar-transferir-ou-fora | F | it | Privacy dei dati di contatto | `"headers": [], "rows": [[], [], [], []]`
+- dominio-hostinger-comprar-transferir-ou-fora | F | de | Datenschutz der Kontaktdaten | `"headers": [], "rows": [[], [], [], []]`
+- dominio-hostinger-comprar-transferir-ou-fora | F | ja | 連絡先情報のプライバシー | `"headers": [], "rows": [[], [], [], []]`
+- dominio-hostinger-comprar-transferir-ou-fora | F | ko | 연락처 정보 개인정보 보호 | `"headers": [], "rows": [[], [], [], []]`
+- dominio-hostinger-comprar-transferir-ou-fora | F | zh-hans | 联系信息的隐私保护 | `"headers": [], "rows": [[], [], [], []]`
+- dominio-hostinger-comprar-transferir-ou-fora | F | zh-hant | 聯絡資料的隱私保護 | `"headers": [], "rows": [[], [], [], []]`
+- dominio-hostinger-comprar-transferir-ou-fora | V | zh-hant | 網域歸誰 | 如果網域是随方案附帶的，註冊費會從退款中扣除
+- dominio-hostinger-comprar-transferir-ou-fora | V | zh-hant | 付款前的清單 | 如果網域是随主機方案附帶的，記下第二年的續訂價
+- vps-ou-hospedagem-compartilhada-qual-escolher | F | ko | [cta] | 쿠폰 코드 SONAR20을 장바구니에 넣으면 20% 할인이 첫 기간에 적용됩니다. 갱신 가격은 테스트하지 않았습니다。
+
+## Notas da conferência
+
+- Contagem: o Muse declarou ~174 consertos; o parser contou 173 linhas no formato (F49 V102 N7 TR15). A minha: 132 (F57 V57 N18, TR0). Notas por idioma: 6/6 famílias nas duas passadas.
+- Mesmo trecho (70) subestima a concordância: recortes de tamanhos diferentes do mesmo trecho caem em "só" dos dois lados. Onde as duas concordam no diagnóstico, aplicar direto; onde divergem na redação, escolher entre as versões prontas.
+- Não-literais não são descarte automático. Muse 15/173: 9x `"headers": [],` (citação estrutural da tabela vazia da família 25 — localizar pelo capítulo), 2x coreano com `。`, e citações fr/it com divergência de aspas ou de recorte (localizar pelo capítulo). Minha 38/132: citações JSON estruturais (`comparisonTable` vazio nas famílias 21/25, `"type": "..."` x9 na família 23), rótulos `[cta]`/`[type]` e coreano com `。` — todos localizáveis por capítulo/campo.
+- Travas: nenhuma das passadas tira primeira pessoa (0 nas duas). Os 6 "SURGE" de cada uma são a restauração do aviso "não testamos a renovação" do PT (zh 我們沒有測試 / de Wir haben ... nicht getestet) — espelha o PT, não é experiência inventada. CECILIA010 como cupom: 0. Link de concorrente: 0. SHEIN com país na proposta: 0.
+- Consertos mais longos que o original: 93 (minha) e 104 (Muse). Quase todos repõem frase ou pedaço de CTA do PT (confira o preço no carrinho, aviso de renovação, frase dos tamanhos infantis na SHEIN). Aparar ou aceitar conscientemente na aplicação.
+- Convergência principal: a casca `comparisonTable` vazia nas famílias 21 (5 linhas) e 25 (4 linhas), nos 9 idiomas — as duas passadas diagnosticam; a minha lista o conserto nas 18, o Muse lista nas 9 da 25 e recomenda a remoção nas duas. Remover o objeto vazio.
+- Respostas aos pontos do PR #507 (seção "Para conferir" da resposta do Muse): (a) "eu levaria" existe no PT da VPS e do domínio e está espelhado nas 9+9 — sem conserto; (b) os % da SHEIN são os do PT, sem moeda nem leitura nova; (c) quadros Paperclip/VPS intactos, só as cascas vazias acima; (d) `8折` no zh da Paperclip está correto com a glosa (減 20%); o erro é o `最高折85%` do zh-hant da SHEIN (as duas passadas); (e) a frase dos tamanhos por idade sumiu em en/es/fr/ja/ko da SHEIN — as duas passadas listam os 5 consertos.
+- Legenda e alt entraram como corpo nas duas passadas (minha: alt zh-hant da YesStyle; Muse: alt da YesStyle, alt `paperbag` da SHEIN e caption).
+- Padrões fora da lista principal (teto de 6/idioma): ver os resumos "Padrão/nota" por família na resposta do Muse e os NAOMEXER/resumos da minha passada — hans 栏位→输入框 recorre além dos listados; aplicar a troca em todo o artigo se o conserto for aceito.
+- Backup: `backup-trad-lote-04` com as 54 traduções antigas + lista + SHA-BASE (`a3ff8600`, baseline `validate:content` limpo), conferido antes da aplicação.
+- Baseline `validate:content` não roda no worktree `artigos-voz` (sem dependências): rodar no checkout com dependências antes de aplicar.
