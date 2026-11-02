@@ -14,7 +14,8 @@ export type StoreBanner = {
   affiliate: string;
   slot: StoreBannerSlot;
   // Link de afiliado da campanha. A campanha com os 10 idiomas sai em todas as versões do artigo, então o link nunca é
-  // de um país só (br.shein.com); a que só tem o português sai só nos artigos em PT e pode levar à loja brasileira. A
+  // de um país só, salvo nas lojas internacionais (INTERNATIONAL_STORES), que levam o visitante à loja da região dele;
+  // a que só tem o português sai só nos artigos em PT e pode levar à loja brasileira. A
   // exceção é a campanha que só vale com o código da loja: o banner, que não cita o código, leva ao nosso artigo
   // que explica a campanha (`/reviews/<slug>`, da mesma loja), sem rel sponsored e nunca no próprio artigo.
   href: string;
@@ -30,6 +31,10 @@ export type StoreBanner = {
   source: string;
   verifiedAt: string;
 };
+
+// Lojas internacionais: o link e o código levam o visitante à loja da região dele, então valem nos 10 idiomas mesmo
+// com host de um país (br.shein.com).
+export const INTERNATIONAL_STORES: ReadonlySet<string> = new Set(['shein', 'yesstyle', 'hostinger']);
 
 // Cada campanha é um arquivo em content/campanhas/<id>.json, juntado pelo scripts/content/build-index.mjs.
 export const STORE_BANNERS: StoreBanner[] = storeBannersData;

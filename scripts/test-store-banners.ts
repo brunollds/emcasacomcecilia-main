@@ -4,7 +4,7 @@ import { getCouponBySlug } from '../src/lib/couponsData';
 import { LOCALE_KEYS } from '../src/lib/i18n/locales';
 import { readdirSync, readFileSync } from 'node:fs';
 import type { CouponCopyLocale } from '../src/components/review/couponCopyLocale';
-import { STORE_BANNERS, getArticleStoreBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, storeBannersOverlap, type StoreBanner } from '../src/lib/storeBanners';
+import { INTERNATIONAL_STORES, STORE_BANNERS, getArticleStoreBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, storeBannersOverlap, type StoreBanner } from '../src/lib/storeBanners';
 
 // O prazo de uma campanha com um "agora" fixo. As 23h do último dia em Brasília já são o dia seguinte em UTC:
 // o banner continua no ar.
@@ -106,7 +106,7 @@ for (const banner of STORE_BANNERS) {
   } else {
     const url = new URL(banner.href);
     assert.equal(url.protocol, 'https:', `${banner.id}: link sem https`);
-    if (!ptOnlyBanner) {
+    if (!ptOnlyBanner && !INTERNATIONAL_STORES.has(banner.affiliate)) {
       assert.ok(!url.hostname.startsWith('br.') && !url.hostname.endsWith('.com.br'), `${banner.id}: link de um país só (${url.hostname}) numa campanha dos 10 idiomas`);
     }
   }

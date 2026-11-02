@@ -181,36 +181,8 @@ function collectLinks(value: unknown): string[] {
   );
 }
 
-// SHEIN fora do PT: nenhum link da SHEIN Brasil (o host br.shein.com e os links de oferta e campanha
-// do cupom em PT), que levariam a loja e a comissão do país errado. O artigo da SHEIN também tem o
-// CTA no link principal neutro da página da loja. Os links vêm do cupom, não de uma cópia aqui.
 const sheinStore = getCouponBySlug('shein');
 assert.ok(sheinStore, 'a SHEIN precisa estar ativa em couponsData');
-const brazilianSheinUrls = new Set(
-  [sheinStore.officialUrl, sheinStore.offerUrl, ...(sheinStore.campaigns ?? []).map((campaign) => campaign.offerUrl)].map(
-    (url) => new URL(url).href
-  )
-);
-
-function isBrazilianSheinLink(href: string): boolean {
-  try {
-    const url = new URL(href);
-    return url.hostname === 'br.shein.com' || brazilianSheinUrls.has(url.href);
-  } catch {
-    return false;
-  }
-}
-
-function sheinLinkProblems(review: ReviewSource): string[] {
-  const locale = resolveReviewLocale(review.locale);
-  if (locale === 'pt') return [];
-  const problems = collectLinks(review).filter(isBrazilianSheinLink).map((href) => `link da SHEIN Brasil: ${href}`);
-  const neutralUrl = isTranslatedLocale(locale) ? getLocalizedCoupon('shein', locale)?.offerUrl : undefined;
-  if (review.affiliate === 'shein' && review.cta?.url !== neutralUrl) {
-    problems.push(`cta.url ${review.cta?.url ?? '(ausente)'} em vez do link principal neutro ${neutralUrl}`);
-  }
-  return problems;
-}
 
 // Hostinger: desde 29/10/2026 o desconto é o cupom SONAR20 (ou o link). O código antigo de indicação
 // não volta a nenhum artigo, e os artigos da loja não dizem que não há cupom ou que o desconto vem só do link.
@@ -237,8 +209,8 @@ function hostingerCopyProblems(review: ReviewSource): string[] {
   return problems;
 }
 
-// O rótulo do código nos artigos usa o termo que a página da loja já usa em cada idioma, e fora do
-// PT diz que o 4CW5Y é da SHEIN Brasil.
+// O rótulo do código nos artigos usa o termo que a página da loja já usa em cada idioma. A SHEIN é uma loja só,
+// mundial: nenhum rótulo diz que o 4CW5Y é de um país.
 const REFERRAL_TERM: Record<Locale, string> = {
   pt: 'código de indicação',
   en: 'referral code',
@@ -619,10 +591,6 @@ const storeReferralLabel = (locale: Locale) =>
   }
 
   for (const review of reviews) {
-    assert.deepEqual(sheinLinkProblems(review), [], `${review.slug}: versão fora do PT com link ou CTA da SHEIN Brasil`);
-  }
-
-  for (const review of reviews) {
     assert.deepEqual(hostingerCopyProblems(review), [], `${review.slug}: texto do tempo da indicação sem cupom da Hostinger`);
   }
   const hostingerFixture = (locale: Locale, text: string): ReviewSource => ({
@@ -654,46 +622,6 @@ const storeReferralLabel = (locale: Locale) =>
   );
   assert.deepEqual(hostingerCopyProblems(hostingerFixture('pt', 'Use o código SONAR20 no campo de cupom do carrinho.')), [], 'o texto novo passa');
 
-  // Ainda não há artigo da SHEIN no corpus: o guarda acima é provado em fixtures que falham e uma que passa.
-  const neutralSheinUrl = getLocalizedCoupon('shein', 'en')?.offerUrl ?? '';
-  const sheinFixture = (patch: Partial<ReviewSource> = {}): ReviewSource => ({
-    slug: 'shein-fixture',
-    locale: 'en',
-    affiliate: 'shein',
-    coupon: '4CW5Y',
-    cta: { url: neutralSheinUrl },
-    contentSections: [{ heading: 'How to', links: [{ href: neutralSheinUrl }, { href: '/en/coupons/shein' }] }],
-    ...patch,
-  });
-  assert.ok(neutralSheinUrl.startsWith('https://onelink.shein.com/'), 'o link neutro da SHEIN vem do cupom traduzido');
-  assert.ok(brazilianSheinUrls.size >= 4 && !brazilianSheinUrls.has(neutralSheinUrl), 'a lista da SHEIN Brasil não inclui o link neutro');
-  assert.deepEqual(sheinLinkProblems(sheinFixture()), [], 'artigo da SHEIN em inglês com o link neutro passa');
-  assert.equal(
-    sheinLinkProblems(sheinFixture({ contentSections: [{ links: [{ href: 'https://br.shein.com/ark/5231?koc_id=1' }] }] })).length,
-    1,
-    'link do host br.shein.com fora do PT falha'
-  );
-  assert.equal(
-    sheinLinkProblems(sheinFixture({ contentSections: [{ links: [{ href: sheinStore.campaigns?.[0].offerUrl }] }] })).length,
-    1,
-    'link de campanha da SHEIN Brasil fora do PT falha'
-  );
-  assert.equal(sheinLinkProblems(sheinFixture({ cta: { url: sheinStore.offerUrl } })).length, 2, 'CTA no link brasileiro falha (como link e como CTA)');
-  assert.equal(sheinLinkProblems(sheinFixture({ cta: { url: 'https://onelink.shein.com/55/outro' } })).length, 1, 'CTA em outro link falha');
-  assert.equal(sheinLinkProblems(sheinFixture({ cta: undefined })).length, 1, 'artigo da SHEIN sem CTA falha');
-  assert.equal(
-    sheinLinkProblems(
-      sheinFixture({ affiliate: 'yesstyle', cta: { url: 'https://example.com/' }, contentSections: [{ links: [{ href: 'https://br.shein.com/' }] }] })
-    ).length,
-    1,
-    'link da SHEIN Brasil em artigo de outra loja falha, mas o CTA dele não é cobrado'
-  );
-  assert.deepEqual(
-    sheinLinkProblems(sheinFixture({ locale: undefined, cta: { url: sheinStore.offerUrl }, contentSections: [{ links: [{ href: sheinStore.offerUrl }] }] })),
-    [],
-    'a versão em português fica no link brasileiro'
-  );
-
   // Rótulo e dica do código no dock e na sidebar: cupom comum, de recompensa e de indicação, nos 10 idiomas.
   for (const locale of LOCALE_KEYS) {
     const copy = getSidebarCopy(locale);
@@ -703,7 +631,7 @@ const storeReferralLabel = (locale: Locale) =>
     const term = REFERRAL_TERM[locale].toLowerCase();
     assert.equal(new Set([coupon, reward, referral]).size, 3, `${locale}: cupom, recompensa e indicação com o mesmo rótulo`);
     assert.ok(referral.toLowerCase().includes(term), `${locale}: rótulo de indicação sem "${term}": ${referral}`);
-    assert.ok(referral.includes(SHEIN_BRAZIL[locale]), `${locale}: rótulo de indicação sem "${SHEIN_BRAZIL[locale]}": ${referral}`);
+    if (locale !== 'pt') assert.ok(!referral.includes(SHEIN_BRAZIL[locale]), `${locale}: rótulo de indicação com "${SHEIN_BRAZIL[locale]}": ${referral}`);
     assert.ok(!reward.toLowerCase().includes(term) && !coupon.toLowerCase().includes(term), `${locale}: cupom ou recompensa chamado de indicação`);
     assert.ok(storeReferralLabel(locale).toLowerCase().includes(term), `${locale}: a página da SHEIN não usa o termo "${term}"`);
 
@@ -716,7 +644,11 @@ const storeReferralLabel = (locale: Locale) =>
 
     const article = getArticleCopy(locale);
     const referralCopied = article.copiedHint({ slug: 'shein', brand: 'SHEIN' }, 'referral');
-    assert.ok(referralCopied.includes(SHEIN_BRAZIL[locale]), `${locale}: código de indicação copiado sem "${SHEIN_BRAZIL[locale]}"`);
+    if (locale !== 'pt') {
+      for (const text of [referralCopied, referralHints.copy, referralHints.copied]) {
+        assert.ok(!text.includes(SHEIN_BRAZIL[locale]), `${locale}: dica do código de indicação com "${SHEIN_BRAZIL[locale]}": ${text}`);
+      }
+    }
     assert.notEqual(referralCopied, article.copiedHint({ slug: 'damie', brand: 'DAMIE' }), `${locale}: código de indicação copiado igual ao cupom`);
   }
 
@@ -811,7 +743,7 @@ const storeReferralLabel = (locale: Locale) =>
   assert.equal(formatDate('2026-02-30', 'en'), '2026-02-30', 'data impossível volta crua');
 
   console.log(
-    `✅ test-review-i18n: ${translatedReviews.length} versões traduzidas em ${Object.keys(translatedGroups).length} famílias, todas com os ${LOCALE_KEYS.length} idiomas e o type de cada uma no idioma dela; sem link da SHEIN Brasil fora do PT; códigos de recompensa e de indicação rotulados; interface do artigo sem português`
+    `✅ test-review-i18n: ${translatedReviews.length} versões traduzidas em ${Object.keys(translatedGroups).length} famílias, todas com os ${LOCALE_KEYS.length} idiomas e o type de cada uma no idioma dela; códigos de recompensa e de indicação rotulados; interface do artigo sem português`
   );
 
 })();
