@@ -15,15 +15,15 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle and Olive Young Global side by side: who ships to your country, from what amount shipping is free, who pays the tax and what each store takes back, according to their official pages.",
-  "metaDescription": "YesStyle or Olive Young? Compare free shipping, delivery time, tax and returns by country, according to each store's official pages.",
+  "description": "YesStyle and Olive Young Global side by side: who ships to Portugal and 22 more countries, the order value where shipping becomes free, who pays the tax and what each store takes back, from the official pages.",
+  "metaDescription": "YesStyle or Olive Young? See free shipping, delivery time, tax and returns by country, from the official pages.",
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": false,
+  "isNew": true,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
-  "imageAlt": "Cecília holding the Abib Glazed Jelly lip mask sent by YesStyle, with the YesStyle logo and the title YesStyle vs Olive Young",
+  "imageAlt": "Cecília holding the Abib Glazed Jelly lip mask, sent by YesStyle, with the YesStyle logo and the title YesStyle vs Olive Young",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -32,14 +32,14 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "It depends on where you live. In the US the store to compare is OLIVE YOUNG US, since Olive Young Global does not ship there, while in the UK, Canada and Australia both stores deliver. Where both deliver, free shipping, tax and returns decide it; see \"Which to choose, by country\"."
+        "It depends on your country. Where both ship, free shipping, tax and returns are what matter; see the chapter Which to choose, by country."
       ]
     },
     {
       "heading": "Who ships to your country",
       "paragraphs": [
-        "It depends on where you live. YesStyle publishes shipping and times for 23 of the 24 countries in this comparison (all except Brazil). Olive Young Global has a shipping line for 10 of them, and the US goes through its own American store, OLIVE YOUNG US, a separate store since May 29, 2026. In the UK, Canada and Australia, both stores deliver, and the rules are not the same (pages read on October 21, 2026).",
-        "Each row is a country; the last one covers the rest. The YesStyle column comes from the shipping table published on October 13, 2026. The Olive Young column comes from the shipping page read on October 21, 2026. Where a store does not publish a time or a shipping cost, the cell says so."
+        "It depends on your country. YesStyle publishes delivery time and shipping for 23 of the comparison's countries. Olive Young Global publishes delivery time for 10 of them and does not serve the US, which has its own American store. In the other 22 countries, the comparison changes from one to the next.",
+        "Each row is a country; the last one groups the rest. The YesStyle column comes from the shipping table published on Oct 13, 2026. The Olive Young column comes from the shipping page read on Oct 21, 2026. Where a store does not publish delivery time or shipping, the cell says so."
       ],
       "comparisonTable": {
         "headers": [
@@ -49,41 +49,26 @@
         ],
         "rows": [
           [
-            "United States",
-            "Standard, 7 to 11 business days; free from US$ 35",
-            "Not through the global store; use OLIVE YOUNG US (Standard, 5 business days; free from US$ 35)"
-          ],
-          [
-            "United Kingdom",
-            "Premium Standard, 5 to 12 business days; free from US$ 50",
-            "4 to 5 days; free from US$ 60"
-          ],
-          [
-            "Canada",
-            "Premium Standard, 7 to 14 business days; free from US$ 50",
-            "5 to 7 days; free from US$ 60"
-          ],
-          [
-            "Australia",
-            "Premium Standard, 6 to 8 business days; free from US$ 35",
-            "4 to 5 days; free from US$ 60"
+            "Portugal",
+            "Standard, 10 to 15 business days; free from US$60",
+            "Ships; free from US$60, delivery time not published"
           ],
           [
             "other countries",
-            "Shipping time and free-shipping threshold vary by country; check the checkout with your address",
-            "Free from US$ 60 in most destinations (US$ 25 below that); time at checkout"
+            "Delivery time and free-shipping threshold vary by country; check at checkout with your address",
+            "Free from US$60 in most destinations (US$25 below that); delivery time at checkout"
           ]
         ],
-        "caption": "Shipping time and free-shipping threshold by country: YesStyle from its table of October 13, 2026; Olive Young Global from its shipping page and shipping FAQ, read on October 21, 2026."
+        "caption": "Delivery time and free shipping by country: YesStyle from its shipping table, Olive Young Global from its shipping page and shipping FAQ."
       },
       "postParagraphs": [
-        "Where Olive Young does not publish a time for a country, the general rule in its shipping FAQ applies (free from US$ 60, US$ 25 below it; US$ 5 in Malaysia and Singapore). The time only appears at checkout, once you enter the address.",
-        "Five countries are not in the destination selector of the global store: Brazil, Spain, Argentina, Peru and the United States. In the US, Olive Young sells through its own American store. The Olive Young table also has an 'other regions' line (15 days, US$ 60) with no list of countries."
+        "Where Olive Young does not publish a delivery time for your country, the general rule from its shipping FAQ applies (free from US$60, US$25 below; US$5 in Malaysia and Singapore) and the delivery time only appears at checkout, with your address.",
+        "Four countries do not appear in the global store's destination selector: Spain, Argentina, Peru and the United States. In the US, Olive Young sells through its own American store. Olive Young's table also has an \"other regions\" row (15 days, US$60), with no list of countries."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
         "alt": "Grid of 24 country codes, each with two dots: the left one for YesStyle and the right one for Olive Young",
-        "caption": "Green: ships; yellow: ships with no time published or, in Brazil, with YesStyle's pause notice; ×: does not ship; orange: in the US, Olive Young sells through its American store. Pages of October 13, 2026 (YesStyle) and October 21, 2026 (Olive Young).",
+        "caption": "Green: ships; yellow: ships with no published delivery time; ×: does not ship; orange: in the US, Olive Young sells through its American store.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
@@ -91,14 +76,15 @@
     {
       "heading": "Free shipping and delivery time",
       "paragraphs": [
-        "Delivery times are for shipping, not door to door. At YesStyle, the time for the item to leave the Hong Kong warehouse adds to the shipping time: an item in stock leaves in 1 to 3 business days. Olive Young shows only the shipping time, without the warehouse time. Do not add up the values of one store and the other: YesStyle counts business days, and Olive Young shows only “days”, without saying whether they are business days.",
-        "**United Kingdom, Canada and Australia.** Where both stores deliver, Olive Young is faster in some cases: the UK (4 to 5 days, against 5 to 12 business days on YesStyle's Premium Standard), Canada (5 to 7, against 7 to 14) and Australia (4 to 5, against 6 to 8). YesStyle's Express is faster in some Asian markets, such as Hong Kong (1 to 3 days, against 3 to 5 for Olive Young), Japan and Singapore. Always compare the method of each store.",
-        "**Free shipping.** Olive Young frees shipping from US$ 60 in most countries in this comparison. In Taiwan the limit is US$ 35, and in Japan ¥ 3,900. YesStyle asks for US$ 35 in Hong Kong, Malaysia, the US (Standard) and Australia (Premium Standard); US$ 45 in continental Europe, Spain, Mexico and Colombia; US$ 50 in Japan, South Korea, Taiwan, Singapore, the UK and Canada; and US$ 60 in Portugal, Chile, Peru and Argentina. Below the minimum, YesStyle charges between US$ 3 and US$ 8 in most countries."
+        "The delivery times are for shipping, not door to door. At YesStyle, the time for the item to leave the Hong Kong warehouse adds to the shipping time: an item in stock leaves in 1 to 3 business days. Olive Young shows only the shipping time, without the warehouse handling time. Do not add up figures from one store with the other's: YesStyle counts business days, and Olive Young shows just \"days\", without saying whether they are business days.",
+        "**Portugal.** With YesStyle's Standard shipping, delivery takes 10 to 15 business days, with tracking. An order with only in-stock items arrives in 11 to 18 business days. With an item that has a 7 to 14 day wait, the order goes up to 17 to 29 business days. Shipping is free from US$60 (gift wrapping does not count toward that total) and costs US$5 below it. Olive Young ships to Portugal, but its shipping table has no row for the country: according to its shipping FAQ, shipping is free from US$60 and costs US$25 below that, counted on the product price before discounts. The delivery time is not published; the store only says it picks and packs the order in 1 to 3 business days. To compare delivery time, enter your address in Portugal at each store's checkout. Below the minimum, YesStyle's shipping is much cheaper.",
+        "**The other countries.** Where both ship, Olive Young has a shorter delivery time in some cases: the United Kingdom (4 to 5 days, against 5 to 12 business days with YesStyle's Premium Standard), Canada (5 to 7, against 7 to 14), Australia (4 to 5, against 6 to 8), France and Germany (4 to 5, against 10 to 15) and Mexico (8 to 9, against 10 to 13). In Asia, YesStyle has a shorter delivery time in Hong Kong (1 to 3 days, against 3 to 5), Japan (4 to 5, against 6 to 7) and Singapore (3 to 5, against 5 to 6), because it uses Express. Always compare each store's method.",
+        "**Free shipping.** Olive Young makes shipping free from US$60 in most of the comparison's countries. In Taiwan, the threshold is US$35, and in Japan, ¥3,900. YesStyle asks for US$35 in Hong Kong, Malaysia, the US (Standard) and Australia (Premium Standard); US$45 in continental Europe, Spain, Mexico and Colombia; US$50 in Japan, Korea, Taiwan, Singapore, the United Kingdom and Canada; and US$60 in Portugal, Chile, Peru and Argentina. Below the minimum, YesStyle charges US$3 to US$8 in most countries."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
-        "alt": "Grid of 24 country codes, each with the dollar amount at which shipping becomes free: YesStyle on the left, Olive Young on the right",
-        "caption": "Free shipping from how much, in US$ (in Japan, Olive Young uses ¥3,900). Green: the lower amount in each country; ×: does not ship; orange: in the US, OLIVE YOUNG US; dash: rate not published (YesStyle for Brazil; Olive Young for South Korea, which is not in its shipping table). Pages of October 13, 2026 (YesStyle) and October 21, 2026 (Olive Young).",
+        "alt": "Grid of 24 country codes and, for each, the dollar amount from which shipping is free: YesStyle on the left, Olive Young on the right",
+        "caption": "Free shipping from what amount, in US$ (in Japan, Olive Young uses ¥3,900). In green, the lowest value for each country; ×: does not ship; orange: in the US, OLIVE YOUNG US; dash: shipping not published (Olive Young in Korea, which is left out of its shipping table).",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
@@ -106,18 +92,18 @@
     {
       "heading": "Who pays the tax",
       "paragraphs": [
-        "Tax changes from country to country in both stores. At Olive Young, it is charged at checkout in some countries and left for delivery in others, at the customer's expense.",
-        "**Olive Young.** The page groups countries. In the UK, Norway, Australia and Singapore, the tax appears as charged at purchase. The UK may charge VAT and fees on orders above £ 135; Norway has 25% VAT, Australia 10% GST and Singapore 9%. In the EU, since orders placed on July 31, 2026, Olive Young calculates and charges at checkout the VAT of the destination country plus EUR 3 of import duty per HS code (customs category), once you enter the address; on orders under US$ 60 with shipping, the VAT also applies to the shipping. The store says nothing else is charged on delivery (notice of July 23, 2026, read on October 21, 2026). In Canada and Israel, the charge falls on delivery: Canada may charge VAT on orders above CA$ 20, and Israel charges fees above US$ 75, and the local carrier may charge a fee. Olive Young also does not accept returns or refunds of this tax or fee (EU fees FAQ, read on October 21, 2026).",
-        "**YesStyle.** The YesStyle delivery article (data of October 13, 2026) says that, since July 1, 2026, the EU charges € 3 per customs category on parcels under € 150, and that it currently pays this fee for the customer. Customs charges collected on delivery for orders under US$ 1,000 are refunded by the store as store credit if you send the proof within 30 days. Check the total for your address at checkout before you pay."
+        "Tax varies from country to country at both stores. At Olive Young, it is added at checkout in some countries and left for delivery in others, paid by the customer.",
+        "**Olive Young.** The page splits the countries into groups. In the United Kingdom, Norway, Australia and Singapore, tax shows up as charged at purchase. The United Kingdom may charge VAT and fees on orders above £135; Norway has 25% VAT, Australia 10% GST, and Singapore 9%. In the European Union, for orders placed since Jul 31, 2026, Olive Young calculates and charges at checkout the country's VAT and €3 of import duty per HS code (customs category), once you enter your address; on an order under US$60 with shipping, VAT also applies to the shipping. The store says nothing else is charged on delivery. In Canada and Israel, the charge falls on delivery: Canada may charge VAT on orders above CA$20, and Israel, fees above US$75, and the local carrier may charge a fee. Portugal is in the European Union, so Olive Young's tax already shows in the checkout total. The store does not accept returns or refunds because of tax or import fees (EU fees FAQ).",
+        "**YesStyle.** In Portugal, 23% VAT is already in the product price and is added to shipping at checkout. Since Jul 1, 2026, the European Union charges €3 per customs category on parcels under €150, and YesStyle says that, for now, it pays this fee on the customer's behalf (shipping article). YesStyle refunds customs fees charged on delivery for orders under US$1,000, as store credit, if you send the receipt within 30 days."
       ]
     },
     {
       "heading": "Returns and opened products",
       "paragraphs": [
-        "On Olive Young Global, returns cover only products with defects or the wrong item sent by the store. The request has to be made within 30 days of delivery, through a 1:1 consultation with customer service, with the order number and photos of the product. If the wrong item arrived, a photo of the parcel label is also needed. There are no exchanges and no returns for change of mind: an opened or used product does not come back. A parcel returned because of a customer error, such as a wrong address or no one to receive it, is not refunded either.",
-        "When the return is approved, Olive Young pays the return shipping and refunds to the original payment method, in 2 to 15 business days (returns page read on October 21, 2026). The store's shipping page also says the refund only goes out if the item comes back within 2 months, so send it back quickly.",
-        "YesStyle accepts more cases. Ask for an RMA number within 14 days of delivery, for change of mind or a size exchange, and ship the parcel within 30 days of the RMA being issued. Opened beauty products and supplements do not come back, and a skin reaction is not grounds for a refund. For a defect, the RMA is issued with photos and the store covers the shipping by air mail or registered post. The refund comes as store credit, usually within 7 days after processing; on request, it goes back to the payment method, within 14 business days or more (delivery article published on October 13, 2026).",
-        "Where Olive Young wins: the refund goes to the original payment method by default, not as store credit. Where YesStyle wins: it accepts change of mind and size exchanges, which Olive Young does not."
+        "At Olive Young Global, returns cover only defective products or wrong items sent by the store. The request must be made within 30 days of receipt, through a 1:1 inquiry with customer service, with the order number and photos of the product. If the item was wrong, a photo of the package label is also needed. There are no exchanges and no returns for change of mind: an opened or used product does not go back. A parcel returned because of a customer error, such as a wrong address or recipient not at home, is not refunded either.",
+        "When a return is approved, Olive Young pays the return shipping and refunds the original payment method in 2 to 15 business days (the store's returns page). The same store's shipping page also says the refund is only issued if the item gets back to the store within 2 months: ship it promptly.",
+        "YesStyle accepts more cases. Ask for an RMA number within 14 days of receipt, for a change of mind or a size exchange, and ship the parcel within 30 days of the RMA being issued. Opened beauty products and supplements do not go back, and a skin reaction does not entitle you to a refund. For a defect, the RMA is issued with photos and the store covers airmail or registered shipping. The refund comes as store credit, usually within 7 days after processing; on request, it goes back to the payment method, within 14 business days or more (shipping article).",
+        "Where Olive Young wins: the refund goes back to the original payment method by default, not as store credit. Where YesStyle wins: it accepts a change of mind and size exchanges, which Olive Young does not."
       ],
       "comparisonTable": {
         "headers": [
@@ -128,30 +114,30 @@
         "rows": [
           [
             "Deadline to ask",
-            "30 days from delivery",
-            "14 days from delivery, with an RMA"
+            "30 days from receipt",
+            "14 days from receipt, with an RMA"
           ],
           [
-            "Accepted returns",
-            "Defects or wrong item only",
+            "Accepted back",
+            "Only defects or wrong items",
             "Change of mind, size exchange and defects"
           ],
           [
             "Opened beauty product",
-            "Not accepted",
-            "Not accepted"
+            "Does not go back",
+            "Does not go back"
           ],
           [
             "Refund",
             "Original payment method",
-            "Store credit; on request, to the payment method"
+            "Store credit; on request, the payment method"
           ]
         ]
       },
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
-        "alt": "Picture of three boxes, sealed, cracked and open, with the YesStyle and Olive Young acceptance marks on each one",
-        "caption": "Sealed product, change of mind: YesStyle accepts it, Olive Young Global does not. Defect: both accept it. Opened beauty product: neither accepts it.",
+        "alt": "Board with three boxes, sealed, cracked and opened, and the YesStyle and Olive Young acceptance marks on each",
+        "caption": "Sealed product, change of mind: YesStyle accepts, Olive Young Global does not. Defect: both accept. Opened beauty product: neither.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
@@ -159,51 +145,51 @@
     {
       "heading": "Membership program and points",
       "paragraphs": [
-        "Olive Young Global has OY MEMBERS, which is free. Signing up gives you the BABY level right away. The other levels are recalculated on the first Monday of January and July, based on the previous half-year's purchases, and go up straight away if your current half-year purchases pass the limit. On the membership page read on October 21, 2026, the range for each level is as follows; the current level is valid until December 31, 2026."
+        "At Olive Young, OY MEMBERS is free and returns 0.5% to 2.5% of your purchase in points; signing up gives you the BABY tier right away. The other tiers are recalculated on the first Monday of January and July, based on the previous half-year's purchases, and go up immediately if the current half-year's purchases pass the threshold. On the members page, the range for each tier is as follows; the current tier is valid until the end of the year."
       ],
       "comparisonTable": {
         "headers": [
-          "Level",
+          "Tier",
           "Purchases in the half-year",
           "Points back"
         ],
         "rows": [
           [
             "BABY",
-            "On sign-up",
+            "On signing up",
             "0.5%"
           ],
           [
             "PINK",
-            "US$ 1 to US$ 119.99",
+            "US$1 to US$119.99",
             "1.0%"
           ],
           [
             "GREEN",
-            "US$ 120 to US$ 179.99",
+            "US$120 to US$179.99",
             "1.5%"
           ],
           [
             "BLACK",
-            "US$ 180 to US$ 299.99",
+            "US$180 to US$299.99",
             "2.0%"
           ],
           [
             "GOLD",
-            "Above US$ 300",
+            "Above US$300",
             "2.5%"
           ]
         ]
       },
       "postParagraphs": [
-        "Points are calculated on the product value, without the coupon discount, without what was paid with points, and without tax and shipping. A cancelled or refunded order is taken out of the account. One point is worth US$ 1 and only works for purchases on Olive Young Global itself, from at least 1 point. Points cannot be transferred to another person, and non-members do not earn or use points. The program does not work in Olive Young's physical stores in Korea.",
-        "There are earnings outside purchases too: up to 0.3 point per review, 5 points on the first app login and 0.5 point for creating a beauty profile. Whoever refers a friend gets 5% off, and the friend who signs up through the referral gets 10% off.",
-        "Anyone who passes US$ 300 in the half-year gets 2.5% back; anyone who buys less than US$ 120 stays at 0.5% or 1%. YesStyle points are not compared here."
+        "Points are calculated on the product value, excluding the coupon discount, what was paid with points, taxes and shipping. A cancelled or refunded order comes off the account. One point is worth US$1 and can only be used for purchases at Olive Young Global itself, from a minimum of 1 point. Points cannot be transferred to another person, and non-members neither earn nor use points. The program does not work in Olive Young's physical stores in Korea.",
+        "There are earnings outside purchases: up to 0.3 points per review, 5 points on first login in the app and 0.5 points for creating a beauty profile. Whoever refers gets a 5% discount and whoever joins through the referral gets 10%.",
+        "If you pass US$300 in the half-year, you get 2.5% back; if you buy under US$120, you stay at 0.5% or 1%. YesStyle's points are left out of this comparison."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
-        "alt": "Bar chart with the five OY MEMBERS tiers, from BABY to GOLD, the half-year spend for each and the share returned in points",
-        "caption": "OY MEMBERS tiers: half-year spend in US$ and points back, from 0.5% to 2.5%. Membership page read on October 21, 2026; the current level runs until December 31, 2026.",
+        "alt": "Bar chart with the five OY MEMBERS tiers, from BABY to GOLD, the half-year purchases that lead to each and the percentage of points back",
+        "caption": "OY MEMBERS tiers: purchases in the half-year, in US$, and points back, from 0.5% to 2.5%. Members page; the current tier is valid until the end of the year.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
@@ -211,66 +197,57 @@
     {
       "heading": "Payment methods",
       "paragraphs": [
-        "Olive Young Global accepts PayPal, Visa, Mastercard, American Express, Diners Club, Discover, JCB, UnionPay, Apple Pay and Alipay (list of October 21, 2026). Prices are in US dollars (US$) or yen (¥), and the total charged can vary with the exchange rate on the day of the purchase.",
-        "YesStyle lists Visa, Mastercard, American Express and JCB, PayPal, Google Pay and Apple Pay (payment page, cited in the delivery article published on October 13, 2026). Prices are shown in dollars; in another currency, the store converts at its own rate when you place the order.",
-        "On both stores, the charge is in a foreign currency. YesStyle warns that your bank may charge an international transaction fee; the Olive Young shipping page does not cover this. Check which payment methods each store accepts for your country before you confirm the order."
+        "Olive Young Global accepts PayPal, Visa, Mastercard, American Express, Diners Club, Discover, JCB, UnionPay, Apple Pay and Alipay. Amounts are in US dollars (US$) or yen (¥), and the total charged may vary with the exchange rate on the purchase date.",
+        "YesStyle lists Visa, Mastercard, American Express and JCB, PayPal, Google Pay and Apple Pay (payment page, cited in the shipping article). Prices come in dollars; in another currency, the store converts at its exchange rate at the time of the order.",
+        "At both stores, you are charged in foreign currency. YesStyle warns that your bank may charge an international transaction fee; Olive Young's shipping page does not mention it. Check the payment method before placing the order."
       ]
     },
     {
       "heading": "United States: Olive Young Global or OLIVE YOUNG US",
       "paragraphs": [
-        "If you live in the United States, do not buy from Olive Young Global. The store's own FAQ sends US addresses to OLIVE YOUNG US (us.oliveyoung.com), which has been a separate store since May 29, 2026. The global store ships to addresses outside the US, so the comparison for US buyers is with OLIVE YOUNG US.",
-        "On OLIVE YOUNG US, read on October 21, 2026 (page last updated on August 18, 2026):"
+        "If you live in the United States, you do not buy from Olive Young Global. The store's own FAQ sends US recipients to OLIVE YOUNG US (us.oliveyoung.com), which has been separate since May 29, 2026. Global ships to addresses outside the US. The comparison for someone in the US is therefore with OLIVE YOUNG US.",
+        "At OLIVE YOUNG US:"
       ],
       "bullets": [
-        "Standard shipping of US$ 6.95, free from US$ 35, values without taxes included.",
-        "Up to 5 business days in the 48 contiguous states and up to 9 in Alaska and Hawaii.",
+        "Standard shipping of US$6.95, free from US$35, taxes not included.",
+        "Delivery in up to 5 business days in the 48 contiguous states and up to 9 in Alaska and Hawaii.",
         "It does not ship to territories, abroad, PO boxes or military addresses.",
-        "Returns within 30 days of delivery. Change of mind only with the product sealed and unused, and shipping and tax are deducted from the refund.",
+        "Returns within 30 days of delivery. Change of mind only with the product sealed and unused, and shipping and tax come out of the refund.",
         "Food and K-pop albums are final sale. There are no exchanges.",
-        "A return made online is not valid at the US physical store, and the other way around."
+        "A return made at the online store is not valid at the physical store in the US, and one made at the physical store is not valid online."
       ],
       "postParagraphs": [
-        "For the US, YesStyle publishes Standard in 7 to 11 business days, free from US$ 35 (table of October 13, 2026). In both stores, free shipping starts at US$ 35; OLIVE YOUNG US promises a shorter time."
+        "For the US, YesStyle publishes Standard at 7 to 11 business days, free from US$35 (shipping table). At both, free shipping starts at US$35; OLIVE YOUNG US promises a shorter delivery time."
       ]
     },
     {
-      "heading": "Where Olive Young Global does not ship",
+      "heading": "CECILIA010 reward code at YesStyle",
       "paragraphs": [
-        "The global store's FAQ on eligible countries, read on October 21, 2026, says shipping is not available to countries that are not on the list, and gives Spain, Brazil and India as examples. Its destination selector has 61 destinations and no Brazil, Spain, Argentina, Peru or the United States. The shipping table, with the carrier for each country (DHL, FedEx, LX Pantos, UPS or KSE), also has no Brazil or Spain.",
-        "The store says the list can change: countries can be suspended or removed at any time. The 'other regions' line, of 15 days, does not say which countries it covers, and the FAQ talks about countries outside the list. So for Spain, Brazil, Argentina and Peru, the answer is the FAQ's: it is not shipped.",
-        "The pages we read do not give the reason those countries are missing, and this article does not guess one. YesStyle publishes no time or shipping cost for Brazil, and its pause notice for Brazil from July 3, 2026 is still up. For Spain, its table lists Standard in 10 to 15 business days, free from US$ 45."
-      ]
-    },
-    {
-      "heading": "Reward Code CECILIA010 at YesStyle",
-      "paragraphs": [
-        "CECILIA010 is a reward code, not a coupon. At YesStyle's checkout, it goes in the Reward Code field. According to this site's code sheet, checked on August 1, 2026, it gives up to 5% off the first order and 2% off the following ones, and it stacks with YesStyle's own coupons. YesStyle's coupons change and expire, so the current list is on the store page: [YesStyle coupons](/en/coupons/yesstyle).",
-        "Olive Young has no code from us in this comparison, and no coupon. What it gives members is in the program described above, and it can change."
+        "CECILIA010 is a reward code, not a coupon. At YesStyle checkout, it goes in the Reward Code field. According to the code's page on this site, it gives up to 5% on the first purchase and 2% on later ones, and stacks with the store's coupons. YesStyle coupons change and expire, so the current list is on the store page: [YesStyle coupons and reward code](/en/coupons/yesstyle).",
+        "We have no code of our own for Olive Young in this comparison, and no coupon. What it gives members is in the program described above, and may change."
       ]
     },
     {
       "heading": "Which to choose, by country",
       "bullets": [
-        "In the US: the comparison is with OLIVE YOUNG US, since the global store does not ship there. YesStyle ships Standard in 7 to 11 business days, free from US$ 35, and OLIVE YOUNG US is free from US$ 35 too.",
-        "In the UK, Canada and Australia: both stores deliver. Olive Young's delivery times are shorter than YesStyle's Premium Standard (4 to 5 days in the UK and Australia, 5 to 7 in Canada), but its free shipping starts at US$ 60, while YesStyle's starts at US$ 50 in the UK and Canada and at US$ 35 in Australia.",
-        "Returns weigh: Olive Young only accepts returns for defects or errors by the store, within 30 days. YesStyle gives you 14 days to request a return number.",
-        "Tax weighs: Olive Young collects the tax at purchase in the UK, Norway, Australia and Singapore, and in the EU since July 31, 2026; in other countries, it can be charged on delivery. YesStyle's rules for each country are in the tax section."
+        "If you live in Portugal: both ship, and YesStyle publishes the delivery time (10 to 15 business days with Standard) while Olive Young publishes only the shipping rule. At both, shipping is free from US$60; below that, YesStyle charges US$5 and Olive Young US$25.",
+        "If you live in the United States: the comparison is with OLIVE YOUNG US, and at both free shipping starts at US$35.",
+        "If returns matter to you: YesStyle accepts a change of mind and size exchanges, with the return number requested within 14 days; Olive Young only accepts defects or wrong items, within 30 days.",
+        "If tax matters to you: YesStyle already shows Portugal's VAT in the price, and Olive Young charges VAT and import duty at checkout on orders to the European Union."
       ],
       "postParagraphs": [
-        "To see each store's current offer before you buy, use the [YesStyle page](/en/coupons/yesstyle)."
+        "To see YesStyle's offer before buying, use the [YesStyle page](/en/coupons/yesstyle)."
       ]
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Does Olive Young ship to the United States? Not from the global store. The Olive Young Global shipping list, read on October 21, 2026, does not include the US, and US addresses buy from OLIVE YOUNG US, a separate store with its own shipping and return rules since May 29, 2026.",
-        "Which one is cheaper? This article does not compare product prices. Compare the same item in both stores on the day you buy, with shipping and tax added.",
-        "Which one is faster in the UK? Olive Young lists 4 to 5 days for the UK. YesStyle lists Premium Standard in 5 to 12 business days of shipping, plus 1 to 3 business days for the item to leave the warehouse.",
-        "Who pays the tax in the EU? On Olive Young, since July 31, 2026, the VAT and EUR 3 per HS code are charged at checkout, and the store says nothing else is charged on delivery. The store does not refund these amounts. On YesStyle, the 23% VAT for Portugal is already in the price, and for now the store pays the EU's EUR 3 fee for the customer.",
-        "Can I return an opened product? On Olive Young Global, no, unless it has a defect or the store sent the wrong item, within 30 days. On YesStyle, opened beauty products and supplements do not come back.",
-        "Are Olive Young Global and OLIVE YOUNG US the same store? No. The Global store ships from Korea to the countries on its list, not to the US; OLIVE YOUNG US has been separate since May 29, 2026 and has its own shipping and return rules.",
-        "Where do I enter CECILIA010? At the YesStyle checkout, in the Reward Code field. It stacks with YesStyle's own coupons."
+        "Which one is cheaper? This article does not compare product prices. Compare the same item at both stores on the day of purchase, with shipping and tax added up.",
+        "Which delivers faster to Portugal? Olive Young ships to Portugal but does not publish the delivery time for the country. YesStyle publishes 10 to 15 business days of shipping, plus 1 to 3 days for the item to leave the warehouse.",
+        "Who pays the tax in Europe? At Olive Young, for the European Union, VAT and €3 per HS code are charged at checkout, and the store says nothing else is charged on delivery. At YesStyle, in Portugal, 23% VAT is already in the price. The details are in the tax section.",
+        "Can I return an opened product? At Olive Young Global, no, unless it is defective or a wrong item sent by the store, within 30 days. At YesStyle, opened beauty products and supplements do not go back.",
+        "Are Olive Young Global and OLIVE YOUNG US the same store? No. Global ships from Korea to its list of countries and not to the US; OLIVE YOUNG US is separate and has its own shipping and return rules.",
+        "Where do I enter CECILIA010? At YesStyle checkout, in the Reward Code field. It stacks with the store's own coupons."
       ]
     }
   ],
@@ -282,7 +259,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "We may earn a commission from YesStyle. The Olive Young rules come from its own pages.",
+  "editorialNote": "We may earn a commission from YesStyle. Olive Young's rules come from its own pages.",
   "relatedArticles": [
     {
       "slug": "yesstyle-vs-stylevana-olive-young",
@@ -296,5 +273,15 @@
       "slug": "yesstyle-reward-code-coupon-cecilia010",
       "title": "YesStyle CECILIA010: Reward Code"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Take YesStyle if you want to be able to change your mind about a purchase or exchange a size, with the return request made within 14 days.",
+      "Take Olive Young Global if you only expect to return for a defect or wrong item and want 30 days to ask."
+    ],
+    "skipIf": [
+      "Skip Olive Young Global if you might need to change your mind about a purchase: it only accepts defects or wrong items.",
+      "Skip YesStyle if you need more than 14 days to request a return."
+    ]
+  }
 }

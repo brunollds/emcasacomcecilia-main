@@ -30,8 +30,8 @@
       "initials": "BL"
     }
   ],
-  "description": "La note de Hostinger sur Trustpilot en octobre 2026 : un TrustScore de 4,6 pour 73 411 avis, l’effet des invitations à noter sur ce chiffre, ce que disent 200 avis récents à une et à cinq étoiles, et comment désactiver le renouvellement automatique.",
-  "metaDescription": "Hostinger sur Trustpilot le 24 octobre 2026 : TrustScore de 4,6 pour 73 411 avis, ce que reprochent les clients dans 200 avis récents et comment désactiver le renouvellement automatique.",
+  "description": "Hostinger sur Trustpilot : un TrustScore de 4,6 pour 73 411 avis en octobre 2026, l’effet des invitations, les plaintes des clients et comment désactiver le renouvellement automatique.",
+  "metaDescription": "Hostinger sur Trustpilot (24 octobre 2026) : TrustScore 4,6 pour 73 411 avis, 99 % des avis négatifs traités, facturation et renouvellement parmi les plaintes principales. Voyez comment désactiver le renouvellement.",
   "publishedAt": "19 octobre 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
@@ -45,18 +45,18 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Oui, avec une réserve. Le 24 octobre 2026, Hostinger affichait 4,6 sur Trustpilot pour 73 411 avis, mais l’entreprise invite ses clients à noter, ce qui gonfle la moyenne. Les plaintes portent surtout sur le support par IA, la facturation et les domaines. Le chapitre Trois lectures qui changent le calcul détaille cet effet ; les 20 % de la première période viennent du code SONAR20, présenté sur la [page Hostinger de ce site](/fr/coupons/hostinger)."
+        "Oui, avec une réserve. Le 24 octobre 2026, Hostinger affichait un TrustScore de 4,6 pour 73 411 avis sur Trustpilot et avait répondu à 99 % des avis négatifs. L’entreprise invite ses clients à noter, ce qui gonfle la moyenne, et les plaintes les plus citées portent sur le support par IA, la facturation et le renouvellement. Pour l’hébergement, la facturation demande de surveiller le renouvellement automatique ; voyez plus bas comment le désactiver. Les 20 % de la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger)."
       ]
     },
     {
       "heading": "Ce que dit la note et ce qu’elle ne dit pas",
       "paragraphs": [
-        "Trustpilot est un site international d’avis, et un 4,6 est le point de départ. Mais la note résume beaucoup de choses, et la page du profil montre elle-même comment elle a été construite. Le tableau réunit ce que la page affichait le 24 octobre 2026."
+        "Le 4,6 est le point de départ, mais il résume beaucoup de choses, et la page du profil montre elle-même comment il a été construit. Le tableau réunit ce que la page affichait le 24 octobre 2026."
       ],
       "comparisonTable": {
         "headers": [
           "Indicateur",
-          "Profil Trustpilot de Hostinger, 24 octobre 2026"
+          "Profil Trustpilot de Hostinger"
         ],
         "rows": [
           [
@@ -117,21 +117,21 @@
         {
           "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
           "alt": "Haut du profil Trustpilot de Hostinger, avec la note 4,6, 73 316 avis, le profil revendiqué, l’abonnement payant et l’avis indiquant que l’entreprise invite ses clients à laisser un avis",
-          "caption": "Profil Trustpilot de Hostinger le 19 octobre 2026. Le 24 octobre, le total était passé de 73 316 à 73 411 avis, avec la même note. Image : capture d’écran de Bruno.",
+          "caption": "Profil Trustpilot de Hostinger. Image : capture d’écran de Bruno.",
           "objectFit": "contain",
           "aspectRatio": 3.7969
         },
         {
           "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
           "alt": "Barres d’évaluation de Hostinger sur Trustpilot, de cinq à une étoile, avec les pourcentages",
-          "caption": "Répartition des avis sur Hostinger sur Trustpilot, relevée le 19 octobre 2026. Les pourcentages étaient les mêmes le 24 octobre.",
+          "caption": "Répartition des avis sur Hostinger sur Trustpilot.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
       ],
       "postParagraphs": [
-        "Entre nos deux relevés, deux choses ont changé : le total a progressé de 95 avis en cinq jours, et le taux de réponse aux avis négatifs est passé de 98 % à 99 %. Les pourcentages par étoile n’ont pas bougé.",
-        "La page montre aussi la langue des avis : le 24 octobre, 44 546 étaient en anglais, 8 744 en espagnol, 8 606 en portugais et 3 340 en français. La note est donc mondiale, et non l’opinion d’un seul marché.",
+        "Les captures datent du 19 octobre 2026. Le 24 octobre, le total était passé de 73 316 à 73 411 avis, avec la même note, et le taux de réponse aux avis négatifs de 98 % à 99 %. Les pourcentages par étoile n’ont pas bougé.",
+        "La page montre aussi la langue des avis : 44 546 étaient en anglais, 8 744 en espagnol et 3 340 en français, entre autres. La note est donc mondiale, et non l’opinion d’un seul marché.",
         "Ce que le tableau ne montre pas, c’est qui reçoit l’invitation et qui écrit de sa propre initiative. C’est là que commence le chapitre suivant."
       ]
     },
@@ -142,7 +142,7 @@
       ],
       "comparisonTable": {
         "headers": [
-          "Notre échantillon, 24 octobre 2026",
+          "Notre échantillon",
           "100 avis à cinq étoiles les plus récents",
           "100 avis à une étoile les plus récents"
         ],
@@ -192,15 +192,16 @@
       "postParagraphs": [
         "Les pays les plus fréquents parmi les 100 avis à une étoile étaient les États-Unis (18), l’Inde (14), la France (8), le Royaume-Uni (6) et les Pays-Bas (6).",
         "Trustpilot publie lui-même un résumé automatique du profil, généré par l’IA du site à partir de 12 464 avis. Il retient comme éloges un hébergement stable, un support utile avec des agents humains rapides sur les problèmes techniques, et un tableau de bord facile pour les débutants. Il retient comme plaintes un service très automatisé, difficile à joindre pour parler à une personne, une récupération de compte compliquée, la facturation et des règles strictes pour le renouvellement des domaines. Cela correspond à ce que nous avons trouvé dans l’échantillon.",
-        "Le premier thème mérite une précision. Dans les titres lus, la plainte qui revient n’est pas une mauvaise réponse, mais l’impossibilité de dépasser l’agent d’IA pour parler à une personne. Notre lecture : pour un client dont le site est hors ligne, cette attente est le problème."
+        "Le premier thème mérite une précision. Dans les titres lus, la plainte qui revient n’est pas une mauvaise réponse, mais l’impossibilité de dépasser l’agent d’IA pour parler à une personne. Notre lecture : pour un client dont le site est hors ligne, cette attente est le problème.",
+        "Les avis ne séparent pas les plaintes de facturation par motif. Le lien avec le renouvellement automatique est notre lecture, et c’est par là qu’il faut commencer la vérification."
       ]
     },
     {
-      "heading": "Pourquoi la facturation et le renouvellement pèsent sur l’hébergement",
+      "heading": "Pourquoi la facturation pèse sur l’hébergement",
       "paragraphs": [
-        "La facturation et le renouvellement arrivaient en deuxième position dans notre échantillon, avec environ 38 plaintes sur 86. Pour l’hébergement, une partie de cela s’explique par un mécanisme connu. Quand le renouvellement automatique est activé, le produit est renouvelé avant l’échéance et débité sur le moyen de paiement enregistré. Le centre d’aide de Hostinger le dit, et précise aussi que l’option peut être désactivée à tout moment, sans effet sur le service jusqu’à la date d’échéance.",
+        "Quand le renouvellement automatique est activé, le produit est renouvelé avant l’échéance et débité sur le moyen de paiement enregistré. Le centre d’aide de Hostinger le dit, et précise aussi que l’option peut être désactivée à tout moment, sans effet sur le service jusqu’à la date d’échéance.",
         "Désactiver le renouvellement comporte aussi un risque : sans autre offre prête, le site peut tomber hors ligne à la date d’échéance. C’est pourquoi le centre d’aide recommande lui-même de garder le renouvellement activé à ceux qui comptent continuer.",
-        "Les règles sur le prix du renouvellement figurent dans [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Ici, le point est différent : savoir où se trouve l’option et comment la désactiver."
+        "Le prix du renouvellement et ce que couvre le code SONAR20 figurent dans [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Ici, le point est différent : savoir où se trouve l’option et comment la désactiver."
       ]
     },
     {
@@ -235,23 +236,17 @@
       ]
     },
     {
-      "heading": "Une seconde source : Reclame Aqui, au Brésil",
-      "paragraphs": [
-        "Reclame Aqui est le site public de réclamations du Brésil, où chaque plainte et la réponse de l’entreprise sont publiées, et où le client indique si le problème a été résolu. Le 19 octobre 2026, le profil de Hostinger y affichait la catégorie la plus haute du site (« Très bien »), avec une note de 8,6 sur 6 mois et de 8,4 sur 12 mois, 99,3 % des 1 352 plaintes des 6 derniers mois traitées et 88,6 % marquées comme résolues. Le problème le plus cité dans le classement général (3 dernières années) était les prélèvements indus, à 21,72 %. Cela recoupe le thème de la facturation et du renouvellement dans l’échantillon Trustpilot."
-      ]
-    },
-    {
       "heading": "Peut-on faire confiance à Hostinger ?",
       "paragraphs": [
-        "Selon Trustpilot, oui. Le 24 octobre 2026, la note était de 4,6 pour 73 411 avis, avec 87,1 % de cinq étoiles, et l’entreprise a répondu à 99 % des avis négatifs, soit 80 des 86 plaintes de notre échantillon.",
-        "La réserve porte sur la façon dont la note est construite et sur ce que disent les plaintes. Le profil est géré par l’entreprise, qui invite ses clients à noter : dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Les plaintes se concentrent sur le support par IA sans moyen de joindre une personne, sur la facturation et le renouvellement, et sur les domaines. Reclame Aqui, au Brésil, confirme le thème de la facturation, avec les prélèvements indus en tête de son classement.",
+        "Selon Trustpilot, oui. La note était de 4,6 pour 73 411 avis, avec 87,1 % de cinq étoiles, et l’entreprise a répondu à 99 % des avis négatifs, soit 80 des 86 plaintes de notre échantillon.",
+        "La réserve porte sur la façon dont la note est construite et sur ce que disent les plaintes. Le profil est géré par l’entreprise, qui invite ses clients à noter : dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Les plaintes se concentrent sur le support par IA sans moyen de joindre une personne, sur la facturation et le renouvellement, et sur les domaines.",
         "En pratique : vérifiez la date de renouvellement, désactivez le renouvellement automatique si vous ne voulez pas continuer, et lisez quelques avis à une étoile ainsi que les réponses du profil avant d’acheter, car les chiffres changent chaque mois."
       ]
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "Quelle est la note de Hostinger sur Trustpilot ? Le 24 octobre 2026, c’était un TrustScore de 4,6 sur 5, pour 73 411 avis, avec 87,1 % de cinq étoiles et 6,9 % d’une étoile.",
+        "Quelle est la note de Hostinger sur Trustpilot ? Un TrustScore de 4,6 sur 5, pour 73 411 avis, avec 87,1 % de cinq étoiles et 6,9 % d’une étoile.",
         "Les avis Hostinger sur Trustpilot sont-ils fiables ? Le profil est revendiqué et géré par l’entreprise, qui invite ses clients à noter. Dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Trustpilot dit qu’il ne vérifie pas les avis un par un.",
         "De quoi se plaignent les clients de Hostinger sur Trustpilot ? Dans les 86 plaintes lues parmi les 100 avis à une étoile les plus récents, les principaux thèmes étaient le support par IA et l’impossibilité de joindre une personne (environ 45), la facturation et le renouvellement (environ 38) et les domaines (environ 27).",
         "Hostinger répond-il aux avis négatifs ? Oui. La page indique que l’entreprise répond à 99 % des avis négatifs, en général dans les 24 heures, et qu’elle peut utiliser l’IA dans ses réponses. Dans notre échantillon, 80 des 86 plaintes avaient une réponse.",
@@ -261,14 +256,7 @@
     {
       "heading": "Si vous avez déjà décidé",
       "paragraphs": [
-        "Si vous avez décidé d’acheter, la réduction de 20 % sur la première période s’obtient avec le code SONAR20, dans le champ de coupon du panier, ou par le lien de cet article ; la [page Hostinger](/fr/coupons/hostinger) présente les forfaits. Nous n’avons pas testé le renouvellement avec le code : confirmez le prix dans le panier. Le détail est dans [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) explique comment le code s’ajoute au prix de la campagne, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
-      ]
-    },
-    {
-      "heading": "Note de transparence",
-      "paragraphs": [
-        "Les chiffres de Trustpilot ont été relevés les 19 et 24 octobre 2026 sur la page du profil ; les captures datent du 19. L’échantillon de 200 avis (les 100 avis à une étoile et les 100 avis à cinq étoiles les plus récents) a été lu le 24 octobre 2026, et les décomptes par thème sont notre lecture des titres et des extraits, donc approximatifs. Les chiffres de Reclame Aqui viennent de captures du 19 octobre 2026, avec des données allant jusqu’au 30 septembre 2026. Le texte du centre d’aide a été lu le 19 octobre 2026. Ces chiffres changent chaque mois : vérifiez-les avant de décider.",
-        "Ce texte utilise le code SONAR20 et un lien de parrainage : les achats faits avec le code ou par le lien peuvent rapporter une commission à Bruno. Il n’y a pas de partenariat de marque, et cette commission n’entre pas dans l’analyse."
+        "Si vous avez décidé d’acheter, saisissez le code SONAR20 dans le champ de coupon du panier : 20 % sur la première période. La [page Hostinger](/fr/coupons/hostinger) donne le détail. Nous n’avons pas testé le renouvellement avec le code : confirmez le prix dans le panier, et voyez [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) montre le calcul avec le code, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
       ]
     }
   ],

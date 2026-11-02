@@ -33,17 +33,17 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "YesStyle livre en France, en Belgique et au Canada, en 10 à 15 jours ouvrés (7 à 14 au Canada). La livraison est gratuite dès US$ 45 (US$ 50 au Canada), et la TVA est déjà dans le prix en France et en Belgique. Voir « Taxes : ce qui est déjà dans le prix et ce qui arrive après »."
+        "YesStyle livre en France, en Belgique et au Canada, en 10 à 15 jours ouvrés (7 à 14 au Canada). La livraison est gratuite dès US$ 45 (US$ 50 au Canada), et la TVA est déjà dans le prix en France et en Belgique. Voir plus bas la grille et le chapitre des taxes."
       ]
     },
     {
       "heading": "Délais et frais de livraison en France, en Belgique et au Canada",
       "paragraphs": [
-        "Cette version couvre la France, la Belgique et le Canada ; les autres versions linguistiques de ce guide couvrent d'autres pays. Les chiffres viennent de la grille de livraison de YesStyle, en vigueur depuis le 13 octobre 2026 (07 h 15 GMT) et lue le même jour, et de ses pages de taxes par région, lues le 12 octobre 2026. Les montants sont en dollars américains, comme la boutique les publie.",
+        "En France et en Belgique, la livraison Standard prend 10 à 15 jours ouvrés, et au Canada (Premium Standard) 7 à 14, avec des montants en dollars américains, comme la boutique les publie. La grille ci-dessous est celle en vigueur depuis le 13 octobre 2026 (07 h 15 GMT), lue le même jour ; les taxes viennent des pages de taxes de la boutique, lues le 12 octobre 2026.",
         "Au délai d'expédition s'ajoute le temps nécessaire pour que l'article quitte l'entrepôt, expliqué plus bas."
       ],
       "comparisonTable": {
-        "caption": "Délais et frais de livraison de YesStyle pour la France, la Belgique et le Canada, d'après la grille en vigueur depuis le 13 octobre 2026, lue le même jour.",
+        "caption": "Délais et frais de livraison de YesStyle pour la France, la Belgique et le Canada, d'après la grille de livraison de la boutique.",
         "headers": [
           "Pays",
           "Livraison et délai",
@@ -81,12 +81,12 @@
     {
       "heading": "Livraison gratuite : ce qui compte pour le minimum",
       "paragraphs": [
-        "La livraison est gratuite dès US$ 45 en France et en Belgique et dès US$ 50 au Canada, comme l'indique la grille ci-dessus. Les frais d'emballage cadeau n'entrent pas dans ce total, précise la note de la grille."
+        "La livraison est gratuite dès US$ 45 en France et en Belgique et dès US$ 50 au Canada, comme l'indique la grille ci-dessus ; s'il manque peu, mieux vaut compléter le panier. Les frais d'emballage cadeau n'entrent pas dans ce total, précise la note de la grille."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-frete-franca-2026-10-13.webp",
         "alt": "Grille de livraison de YesStyle pour la France : livraison Standard gratuite dès US$ 45 et facturée US$ 5 en dessous, en 10 à 15 jours ouvrés, avec code de suivi, la note selon laquelle les frais d'emballage cadeau ne sont pas pris en compte dans le calcul des frais de livraison et la date du 13 octobre 2026",
-        "caption": "La ligne de la France dans la grille de livraison de YesStyle, en vigueur depuis le 13 octobre 2026 (07 h 15 GMT), avec la note sur l'emballage cadeau.",
+        "caption": "La ligne de la France dans la grille de livraison de YesStyle, avec la note sur l'emballage cadeau.",
         "objectFit": "contain",
         "aspectRatio": 1.9703
       }
@@ -95,7 +95,7 @@
       "heading": "Comment se calcule le délai",
       "paragraphs": [
         "Toute commande part de l'entrepôt de YesStyle à Hong Kong. Le délai total additionne le temps que met l'article à être disponible et le délai d'expédition, et la boutique compte les deux en jours ouvrés, à l'heure de Hong Kong (GMT+8).",
-        "En France, une commande composée uniquement d'articles en stock prend de 11 à 18 jours ouvrés : 1 à 3 pour quitter l'entrepôt et 10 à 15 d'expédition.",
+        "Calcul de notre côté, en additionnant les délais de la boutique (1 à 3 jours ouvrés pour quitter l'entrepôt et 10 à 15 d'expédition) : en France, une commande composée uniquement d'articles en stock prend de 11 à 18 jours ouvrés.",
         "Si le paiement doit être vérifié, le décompte commence le jour où la commande est approuvée. Les jours fériés et les pics de commandes peuvent aussi retarder l'expédition."
       ],
       "image": {
@@ -114,7 +114,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-fr-2026-10-13.webp",
         "alt": "Page produit de YesStyle de la crème Dr. Althea 345 Relief Cream, au prix de US$ 22.95 dans une offre à 15 % de réduction avec compte à rebours, et l'option 2025 Version - 50ml marquée En stock, au-dessus du bouton AJOUTER AU PANIER",
-        "caption": "Page d'un produit sur YesStyle le 13 octobre 2026, avec la disponibilité En stock à côté de la version. Le prix et l'offre sont ceux de ce jour-là.",
+        "caption": "Page d'un produit sur YesStyle, avec la disponibilité En stock à côté de la version. Le prix et l'offre sont ceux du jour de la capture.",
         "objectFit": "contain",
         "aspectRatio": 2.0243
       },
@@ -150,7 +150,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-fr-2026-10-13.webp",
         "alt": "Page de YesStyle avec le bandeau bleu Rembourse les taxes et les frais de douanes pour toutes les commandes YesStyle d'une valeur inférieure à 1 000 USD et le point 1, qui indique que l'offre s'applique depuis le 7 mai 2018, aussi pour un montant équivalent dans une autre devise",
-        "caption": "La page de remboursement des taxes et frais de douane de YesStyle, en vigueur depuis le 7 mai 2018, lue le 13 octobre 2026.",
+        "caption": "La page de remboursement des taxes et frais de douane de YesStyle.",
         "objectFit": "contain",
         "aspectRatio": 3.5907
       },
@@ -197,7 +197,7 @@
     {
       "heading": "Partenariat et code récompense",
       "paragraphs": [
-        "CECILIA010 est le code récompense de Cecília sur YesStyle : il se saisit dans le champ « Reward Code » du paiement, offre jusqu'à 5 % de réduction sur la première commande et 2 % sur les suivantes, et se cumule avec les coupons de la boutique. Les coupons du moment se trouvent sur la page YesStyle de ce site."
+        "CECILIA010 est le code récompense de Cecília sur YesStyle : il se saisit dans le champ « Reward Code » du paiement, offre jusqu'à 5 % de réduction sur la première commande et 2 % sur les suivantes, et se cumule avec les coupons de la boutique. Les coupons du moment se trouvent dans [coupons YesStyle et code récompense](/fr/coupons/yesstyle), sur ce site."
       ],
       "links": [
         {
@@ -209,7 +209,7 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "YesStyle livre-t-il en France, en Belgique et au Canada ? Oui, les trois pays figurent dans la grille de livraison de la boutique, en vigueur depuis le 13 octobre 2026.",
+        "YesStyle livre-t-il en France, en Belgique et au Canada ? Oui, les trois pays figurent dans la grille de livraison de la boutique.",
         "Combien de temps prend la livraison de YesStyle ? Le délai d'expédition est de 10 à 15 jours ouvrés en France et en Belgique (Standard) et de 7 à 14 jours ouvrés au Canada (Premium Standard). En France, une commande composée uniquement d'articles en stock prend de 11 à 18 jours ouvrés : 1 à 3 pour quitter l'entrepôt de Hong Kong et 10 à 15 d'expédition.",
         "À partir de quel montant la livraison YesStyle est-elle gratuite ? Sans compter l'emballage cadeau, dès US$ 45 en France et en Belgique et dès US$ 50 au Canada ; en dessous, elle coûte US$ 5 en France et en Belgique et US$ 6 au Canada.",
         "YesStyle applique-t-il des taxes ou des droits de douane ? En France et en Belgique, la TVA (20 % et 21 %) est déjà dans le prix, et la taxe de 3 € de l'UE est payée par YesStyle, actuellement. Au Canada, seule la Saskatchewan a une PST de 6 % ajoutée au paiement.",

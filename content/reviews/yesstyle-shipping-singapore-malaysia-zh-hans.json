@@ -33,17 +33,17 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "YesStyle 向新加坡与马来西亚公布了运送时间与运费：新加坡 Express 3 至 5 个工作日，马来西亚 Standard 10 至 16 个工作日，满 US$50 或 US$35 免运费。新加坡的 GST 已含在价格里，马来西亚的销售税则在结账时另加，详见“税费：哪些已含在价格内，哪些在结账时另加”。"
+        "YesStyle 会寄到新加坡和马来西亚，并公布了运送时间与运费：新加坡 Express 3 至 5 个工作日，满 US$50 免运费；马来西亚 Standard 10 至 16 个工作日，满 US$35 免运费。新加坡的 GST 已含在价格里，马来西亚的销售税在结账时另加，详见“税费”一节。"
       ]
     },
     {
       "heading": "新加坡与马来西亚的运送时间与运费",
       "paragraphs": [
-        "这个版本涵盖新加坡与马来西亚；本指南的其他语言版本则涵盖其他国家和地区。 运送时间与运费取自 YesStyle 自 2026年10月13日（07:15 GMT）起生效的运费表，查阅日期为同日；税费取自 YesStyle 各地区的税费页面，查阅日期为 2026年10月12日。运费与免运费门槛以美元计，与商店公布的相同。",
+        "运送时间与运费取自 YesStyle 自 2026年10月13日（07:15 GMT）起生效的运费表，同日查阅；税费取自 YesStyle 各地区的税费页面，2026年10月12日查阅。金额以美元计，与商店公布的相同。",
         "运送时间之外，还要加上商品从仓库寄出前所需的时间，下一节会说明。"
       ],
       "comparisonTable": {
-        "caption": "YesStyle 寄往新加坡与马来西亚的运送时间与运费，取自 2026年10月13日起生效的运费表，查阅日期为同日。",
+        "caption": "YesStyle 寄往新加坡与马来西亚的运送时间与运费，取自商店的运费表。",
         "headers": [
           "国家",
           "运送方式与时间",
@@ -80,7 +80,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-frete-singapura-2026-10-13.webp",
         "alt": "YesStyle 英文版运费表，寄送目的地为新加坡（Shipping Destination: Singapore）：Express 满 US$50 免运费（Free），未满收 US$4，3 至 5 个工作日（3-5 working days），附追踪码（Tracking Code），下方备注礼品包装费不计入运费（Fees for Gift Wrapping are excluded when calculating shipping rates.），以及运费表自 2026年10月13日起生效的说明",
-        "caption": "YesStyle 运费表中的新加坡一栏（英文版页面），自 2026年10月13日（07:15 GMT）起生效，附礼品包装的备注。",
+        "caption": "YesStyle 运费表中的新加坡一栏（英文版页面），附礼品包装的备注。",
         "objectFit": "contain",
         "aspectRatio": 2.2235
       }
@@ -89,7 +89,7 @@
       "heading": "运送时间怎么算",
       "paragraphs": [
         "所有订单都从 YesStyle 位于香港的仓库寄出。总时间等于商品备妥出货的时间加上运送时间，商店两者都以工作日计算，并以香港时间（GMT+8）为准。",
-        "在新加坡，只含有库存商品的订单需要 4 至 8 个工作日：1 至 3 个工作日从仓库寄出，加上 3 至 5 个工作日的运送。",
+        "按商店公布的时间相加，只含有库存商品的订单，寄往新加坡需要 4 至 8 个工作日：1 至 3 个工作日从仓库寄出，加上 3 至 5 个工作日的运送。",
         "如果付款需要审核，从订单获批当天才开始计算。节假日和订单高峰也可能延迟出货。"
       ],
       "image": {
@@ -108,7 +108,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
         "alt": "YesStyle 英文版商品页：Dr. Althea - 345 Relief Cream，售价 US$22.95，原价 US$27.00 划线，15% OFF 限时优惠附倒计时，并显示 Deal is 82% claimed；版本 2025 Version - 50ml 旁标示 In-Stock，下方是 ADD TO BAG 与 SAVE 按钮",
-        "caption": "2026年10月13日 YesStyle 的一个商品页（英文版页面），版本旁标示 In-Stock（有库存）。价格与优惠为当天的情况。",
+        "caption": "YesStyle 的一个商品页示例（英文版页面），版本旁标示 In-Stock（有库存）。价格与优惠为截图当天的情况。",
         "objectFit": "contain",
         "aspectRatio": 2.1757
       },
@@ -143,7 +143,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
         "alt": "YesStyle 英文版页面：蓝色横幅写着 Refunds for customs-related taxes and fees / incurred on all YesStyle orders under US$ 1,000，下方第 1 条说明自 2018年5月7日（Effective May 7, 2018）起，YesStyle 退还所有未满 US$1,000（或其他货币的等值金额）的订单所产生的海关相关税费",
-        "caption": "YesStyle 的海关税费退款页面（英文版页面），自 2018年5月7日起生效，查阅日期为 2026年10月13日。",
+        "caption": "YesStyle 的海关税费退款页面（英文版页面）。",
         "objectFit": "contain",
         "aspectRatio": 3.5907
       },
@@ -190,7 +190,7 @@
     {
       "heading": "合作与奖励码",
       "paragraphs": [
-        "CECILIA010 是西西莉亚在 YesStyle 的奖励码：填入结账页的 Reward Code 栏位，首购最高享 5% 折扣，回购享 2%，并可与商店的优惠券叠加。今日的优惠券列在本站的 YesStyle 页面。"
+        "CECILIA010 是 Cecília 在 YesStyle 的奖励码：填入结账页的 Reward Code 栏位，首购最高享 5% 折扣，回购享 2%，并可与商店的优惠券叠加。今日的优惠券列在本站的 [YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)页面。"
       ],
       "links": [
         {
@@ -202,7 +202,7 @@
     {
       "heading": "常见问题",
       "bullets": [
-        "YesStyle 会寄到新加坡和马来西亚吗？会。两个国家都在 YesStyle 自 2026年10月13日起生效的运费表上：新加坡用 Express，马来西亚用 Standard。",
+        "YesStyle 会寄到新加坡和马来西亚吗？会。两个国家都在 YesStyle 的运费表上：新加坡用 Express，马来西亚用 Standard。",
         "YesStyle 的运送要多久？新加坡 Express 为 3 至 5 个工作日，马来西亚 Standard 为 10 至 16 个工作日。在新加坡，只含有库存商品的订单共需 4 至 8 个工作日：1 至 3 个工作日从香港寄出，加上 3 至 5 个工作日的运送。",
         "YesStyle 满多少免运费？不计礼品包装，新加坡满 US$50，马来西亚满 US$35；未满的话，两地的运费都是 US$4。",
         "在 YesStyle 购物会被收税费吗？新加坡 S$400 以内的商品，9% 的 GST 已含在价格里。马来西亚经空运或邮寄、不超过 RM500 的商品，结账时另外加收 10% 的销售税，运费不征此税。",
@@ -227,7 +227,7 @@
   "relatedArticles": [
     {
       "slug": "yesstyle-vs-stylevana-zh-hans",
-      "title": "YesStyle 还是 Stylevana？新加坡与马来西亚的运送、税费与退货比较"
+      "title": "YesStyle 还是 Stylevana？运送、税费与退货比较"
     },
     {
       "slug": "yesstyle-trust-guide-zh-hans",

@@ -252,6 +252,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o gerenciado se você quer o assistente no ar sem instalar nem configurar servidor, com a Hostinger cuidando das atualizações, dos backups e da segurança.",
+      "Leve o VPS se você quer acesso root e rodar outros programas no mesmo servidor, como um site ou o n8n."
+    ],
+    "skipIf": [
+      "Passe no VPS se você não sabe o que é root nem Docker: atualizar e proteger o sistema fica com você.",
+      "Passe no gerenciado se você precisa de acesso root ou de mais memória e disco.",
+      "Passe se o mesmo assistente vai atender várias pessoas: o projeto recomenda um servidor por pessoa."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

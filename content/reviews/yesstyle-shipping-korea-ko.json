@@ -33,17 +33,17 @@
     {
       "heading": "핵심 요약",
       "paragraphs": [
-        "YesStyle은 한국으로 Express 배송을 영업일 3~5일에 보내며, US$ 50 이상이면 배송비가 무료입니다. 한국용 세금 안내는 없고, 세관이 세금이나 관세를 부과하면 환급 정책이 적용됩니다. 자세한 내용은 '세관에서 부과금이 붙으면' 항목을 보세요."
+        "YesStyle은 한국으로 배송합니다. Express 배송은 영업일 3~5일이고, US$ 50 이상이면 배송비가 무료입니다. 한국용 세금은 게시되어 있지 않지만, 세관이 부과한 세금과 관세는 환급 대상입니다. 아래 표와 '세관에서 부과금이 붙으면' 항목을 보세요."
       ]
     },
     {
       "heading": "한국 배송 기간과 배송비",
       "paragraphs": [
-        "이 글은 한국 배송만 다룹니다. 이 가이드의 다른 언어 버전은 다른 나라를 다룹니다. 수치는 2026년 10월 13일(07:15 GMT)부터 적용된 YesStyle 배송표를 같은 날 확인한 것입니다. 금액은 YesStyle이 게시한 대로 US$입니다.",
-        "표의 배송 기간에 상품이 창고에서 출고되기까지의 시간이 더해집니다. 아래에서 설명합니다."
+        "수치는 2026년 10월 13일(07:15 GMT)부터 적용된 YesStyle 배송표를 같은 날 확인한 것입니다. 금액은 YesStyle이 게시한 대로 US$입니다.",
+        "표의 배송 기간에는 상품이 창고에서 출고되기까지의 시간이 더해집니다. 아래에서 설명합니다."
       ],
       "comparisonTable": {
-        "caption": "2026년 10월 13일부터 적용된 배송표 기준 YesStyle의 한국 배송 기간과 배송비, 같은 날 확인.",
+        "caption": "YesStyle의 한국 배송 기간과 배송비, YesStyle 배송표 기준.",
         "headers": [
           "국가",
           "배송 방식과 기간",
@@ -74,7 +74,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-frete-coreia-2026-10-13.webp",
         "alt": "YesStyle 배송표(영어 페이지): Shipping Destination: South Korea, Express는 US$ 50 이상 Free(무료), US$ 50 미만 US$ 7, 3-5 working days, Tracking Code 있음. 선물 포장 요금은 배송비 계산에서 제외된다는 안내(Fees for Gift Wrapping are excluded when calculating shipping rates.)와 2026년 10월 13일(07:15 GMT)부터 적용된다는 날짜 안내",
-        "caption": "YesStyle 배송표(영어 페이지)의 한국 행. 2026년 10월 13일(07:15 GMT)부터 적용되며, 선물 포장에 대한 안내가 있습니다.",
+        "caption": "YesStyle 배송표(영어 페이지)의 한국 행. 선물 포장에 대한 안내가 있습니다.",
         "objectFit": "contain",
         "aspectRatio": 2.2235
       }
@@ -83,7 +83,7 @@
       "heading": "배송 기간은 이렇게 계산합니다",
       "paragraphs": [
         "모든 주문은 홍콩에 있는 YesStyle 창고에서 출고됩니다. 전체 기간은 상품이 준비되기까지의 시간에 배송 기간을 더한 것이고, YesStyle은 둘 다 홍콩 시간(GMT+8) 기준 영업일로 계산합니다.",
-        "한국에서는 재고가 있는 상품만 주문하면 영업일 4~8일이 걸립니다. 창고에서 출고되기까지 1~3일, 배송에 3~5일입니다.",
+        "YesStyle이 게시한 기간을 더하면, 재고가 있는 상품만 주문한 한국행 주문은 영업일 4~8일이 걸립니다. 창고에서 출고되기까지 1~3일, 배송에 3~5일입니다.",
         "결제 확인이 필요하면 주문이 승인된 날부터 계산합니다. 공휴일이나 주문이 몰리는 시기에도 출고가 늦어질 수 있습니다."
       ],
       "image": {
@@ -102,7 +102,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
         "alt": "YesStyle 상품 페이지(영어 페이지): Dr. Althea - 345 Relief Cream, US$ 22.95(US$ 27.00에 취소선, 15% OFF, 카운트다운), Deal is 82% claimed, ‘2025 Version - 50ml’ 옵션 옆의 In-Stock, 그 아래 ADD TO BAG와 SAVE 버튼",
-        "caption": "2026년 10월 13일의 YesStyle 상품 페이지(영어 페이지). 버전 옆에 재고 상태 In-Stock이 표시되어 있습니다. 가격과 할인은 그날 기준입니다.",
+        "caption": "YesStyle 상품 페이지(영어 페이지)의 예. 버전 옆에 재고 상태 In-Stock이 표시되어 있습니다. 가격과 할인은 캡처한 날 기준입니다.",
         "objectFit": "contain",
         "aspectRatio": 2.1757
       },
@@ -125,7 +125,7 @@
         "aspectRatio": 1.7778
       },
       "bullets": [
-        "**한국:** YesStyle에는 한국용 세금 안내 페이지가 없고, 저희는 한국 세관 규정을 확인하지 않았습니다. 세관이 배송 때 세금이나 관세를 부과하면 아래 환급 정책이 적용됩니다."
+        "**한국:** YesStyle에는 한국용 세금 안내 페이지가 없고, 한국 기준 세액도 게시되어 있지 않습니다. 세관이 배송 때 세금이나 관세를 부과하면 아래 환급 정책이 적용됩니다."
       ]
     },
     {
@@ -136,7 +136,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
         "alt": "YesStyle 환급 페이지(영어 페이지): 파란 배너에 ‘Refunds for customs-related taxes and fees’와 ‘incurred on all YesStyle orders under US$ 1,000’이 있고, 항목 1에는 2018년 5월 7일부터 US$ 1,000 미만(다른 통화는 같은 금액) 모든 주문의 관세 관련 세금과 수수료를 환급한다고 적혀 있음",
-        "caption": "YesStyle의 관세 관련 세금·수수료 환급 페이지(영어 페이지). 2018년 5월 7일부터 적용, 2026년 10월 13일 확인.",
+        "caption": "YesStyle의 관세 관련 세금·수수료 환급 페이지(영어 페이지).",
         "objectFit": "contain",
         "aspectRatio": 3.5907
       },
@@ -183,7 +183,7 @@
     {
       "heading": "제휴와 리워드 코드",
       "paragraphs": [
-        "CECILIA010은 YesStyle에서 쓰는 Cecília의 리워드 코드입니다. 결제 화면의 Reward Code 칸에 입력하면 첫 구매에 최대 5%, 재구매에 2% 할인이 적용되고, YesStyle 쿠폰과 합산됩니다. 지금 유효한 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
+        "CECILIA010은 YesStyle에서 쓰는 Cecília의 리워드 코드입니다. 결제 화면의 Reward Code 칸에 입력하면 첫 구매에 최대 5%, 재구매에 2% 할인이 적용되고, YesStyle 쿠폰과 합산됩니다. 지금 유효한 쿠폰은 이 사이트의 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle) 페이지에 있습니다."
       ],
       "links": [
         {
@@ -195,10 +195,10 @@
     {
       "heading": "자주 묻는 질문",
       "bullets": [
-        "YesStyle은 한국으로 배송하나요? 네, 2026년 10월 13일부터 적용된 YesStyle 배송표에 한국이 있습니다. Express 배송으로 보냅니다.",
+        "YesStyle은 한국으로 배송하나요? 네, 한국은 YesStyle 배송표에 Express 배송으로 올라 있습니다.",
         "YesStyle 배송은 얼마나 걸리나요? 재고가 있는 상품만 주문하면 영업일 4~8일이 걸립니다. 홍콩에서 출고되기까지 영업일 1~3일, Express 배송에 영업일 3~5일입니다.",
         "YesStyle 배송비는 얼마부터 무료인가요? 선물 포장을 빼고 US$ 50 이상 주문하면 무료이고, 그 미만은 US$ 7입니다.",
-        "YesStyle에서 사면 세금이나 관세가 붙나요? YesStyle에는 한국용 세금 안내 페이지가 없고, 저희는 한국 세관 규정을 확인하지 않았습니다. 세관이 배송 때 세금이나 관세를 부과하면 YesStyle의 환급 정책이 적용됩니다.",
+        "YesStyle에서 사면 세금이나 관세가 붙나요? YesStyle에는 한국용 세금 안내 페이지가 없습니다. 세관이 배송 때 세금이나 관세를 부과하면 YesStyle의 환급 정책이 적용됩니다.",
         "YesStyle은 세관 부과금을 환급해 주나요? 네, US$ 1,000 미만 주문이면 YesStyle 크레딧으로 환급합니다. 영수증 날짜로부터 30일 안에 고객센터로 영수증을 보내야 합니다.",
         "YesStyle은 어떻게 결제하나요? Visa, Mastercard, American Express, JCB 카드와 PayPal, Apple Pay, Google Pay로 결제합니다. 달러로 결제하면 카드사나 은행이 해외 결제 수수료를 부과할 수 있습니다.",
         "YesStyle 상품은 어떻게 반품하나요? 수령 후 14일 안에 RMA 번호를 요청하고 30일 안에 패키지를 발송하세요. 개봉한 뷰티 제품과 건강보조식품은 반품할 수 없고, 피부 반응이 있어도 환불되지 않습니다.",
@@ -220,7 +220,7 @@
   "relatedArticles": [
     {
       "slug": "yesstyle-vs-stylevana-ko",
-      "title": "YesStyle vs Stylevana: 한국 배송, 관세, 반품 비교"
+      "title": "YesStyle vs Stylevana: 배송, 관세, 반품 비교"
     },
     {
       "slug": "yesstyle-trust-guide-ko",

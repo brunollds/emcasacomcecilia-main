@@ -16,7 +16,7 @@
     "url": "/sobre"
   },
   "description": "La légitimité de SHEIN, qui exploite son site en France, de quel pays vient l'entreprise, ce qu'elle vend, s'il est sûr de payer, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
-  "metaDescription": "SHEIN est-il fiable et sûr ? Qui l'exploite en France, d'où vient l'entreprise, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
+  "metaDescription": "SHEIN est-il fiable et sûr ? Qui l'exploite en France, d'où vient l'entreprise, s'il est sûr de payer, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
   "publishedAt": "13 octobre 2026",
   "publishedAtISO": "2026-10-13",
   "draft": false,
@@ -32,7 +32,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Oui, SHEIN est une boutique légitime, et le site de chaque marché est exploité par une société identifiée dans sa politique de confidentialité. Ce qui pèse dans la décision, c'est le délai de retour et la douane. Le chapitre « Retours et douane » plus bas détaille les règles pour la France."
+        "Oui, SHEIN est une boutique légitime : le site de chaque marché est exploité par une société identifiée dans sa politique de confidentialité. Ce qui pèse dans la décision, c'est le délai de retour et la douane ; les chapitres ci-dessous détaillent chacun et ce qu'il faut vérifier avant de payer."
       ]
     },
     {
@@ -40,12 +40,12 @@
       "paragraphs": [
         "SHEIN se décrit comme un détaillant mondial en ligne de mode et de lifestyle. L'entreprise dit aussi produire à la demande, en petits lots.",
         "Chaque marché a son propre site, et la politique de confidentialité de chacun nomme la société responsable. En France, c'est Infinite Styles Services Co., Limited (« ISSL »). Le site du groupe, sheingroup.com, appartient à Roadget Business Pte. Ltd., de Singapour.",
-        "L'entreprise est née en Chine, selon le Financial Times. Le 24 février 2026, lors d'un événement du gouvernement du Guangdong, le fondateur, Xu Yangtian, a dit que la province est l'endroit où se trouvent les racines de SHEIN, selon la BBC et The Straits Times. Les trois reportages indiquent que le siège de l'entreprise est à Singapour."
+        "L'entreprise est née en Chine, selon le Financial Times. En 2026, lors d'un événement du gouvernement du Guangdong, le fondateur, Xu Yangtian, a dit que la province est l'endroit où se trouvent les racines de SHEIN, selon la BBC et The Straits Times. Les trois reportages indiquent que le siège de l'entreprise est à Singapour."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
-        "alt": "Montage avec la page d'accueil de SHEIN sur dix marchés, chacune avec l'adresse du site : Brésil, Royaume-Uni, Espagne, France, Allemagne, Italie, Corée du Sud, Japon, Taïwan et Singapour",
-        "caption": "La page d'accueil de SHEIN sur dix marchés, capturée le 12/10/2026. Chaque marché a son propre site, et la politique de confidentialité de chacun indique quelle société en répond.",
+        "alt": "Montage de la page d'accueil de SHEIN sur dix marchés, chacune avec l'adresse du site, dont le Royaume-Uni, l'Espagne, la France, l'Allemagne, l'Italie, la Corée du Sud, le Japon, Taïwan et Singapour",
+        "caption": "La page d'accueil de SHEIN sur dix marchés, capturée pour ce guide. Chaque marché a son propre site, et la politique de confidentialité de chacun dit quelle société en répond.",
         "objectFit": "contain",
         "aspectRatio": 2.8571
       }
@@ -53,7 +53,7 @@
     {
       "heading": "Ce que vend SHEIN",
       "paragraphs": [
-        "SHEIN vend bien plus que des vêtements. Une partie des produits est de la marque SHEIN, et une partie vient d'un réseau mondial de fournisseurs. Le 13 octobre 2026, le menu de fr.shein.com comptait ces rubriques :"
+        "SHEIN vend bien plus que des vêtements. Une partie des produits est de la marque SHEIN, et une partie vient d'un réseau mondial de fournisseurs. Le menu de fr.shein.com compte ces rubriques :"
       ],
       "bullets": [
         "Vêtements pour femmes, hommes et enfants, grandes tailles, tenues de plage, sous-vêtements et vêtements de nuit.",
@@ -78,8 +78,12 @@
     {
       "heading": "Retours et douane",
       "paragraphs": [
-        "Sources : la politique de confidentialité et la politique de retour du site SHEIN France, consultées le 12/10/2026.",
-        "**France (fr.shein.com) :** droit de rétractation légal de 14 jours, à compter de la réception. Selon la politique commerciale de SHEIN, la plupart des articles peuvent être retournés jusqu'à 30 jours après la réception. Certains articles, comme la lingerie, les sous-vêtements et les bijoux fantaisie, ne se retournent que dans ces 14 jours.",
+        "Sources : la politique de confidentialité et la politique de retour du site SHEIN France, consultées le 12/10/2026."
+      ],
+      "bullets": [
+        "**France (fr.shein.com) :** droit de rétractation légal de 14 jours, à compter de la réception. Selon la politique commerciale de SHEIN, la plupart des articles peuvent être retournés jusqu'à 30 jours après la réception. Certains articles, comme la lingerie, les sous-vêtements et les bijoux fantaisie, ne se retournent que dans ces 14 jours."
+      ],
+      "postParagraphs": [
         "Depuis le 1er juillet 2026, l'UE prélève un droit de douane de 3 € par catégorie de produit sur les commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382)."
       ]
     },
@@ -103,22 +107,15 @@
     {
       "heading": "Partenariat et code de parrainage",
       "paragraphs": [
-        "Cet article est éditorial, et Cecília est affiliée à SHEIN : les achats faits via ses liens peuvent générer une commission, sans frais pour vous. Le 4CW5Y est le code de parrainage de Cecília pour SHEIN Brésil. Il se saisit dans la barre de recherche de SHEIN, pas dans le champ des coupons, et il peut ne pas fonctionner dans votre pays."
+        "Cet article est éditorial, et Cecília est affiliée à SHEIN : les achats faits via ses liens peuvent générer une commission, sans frais pour vous. Le 4CW5Y est le code de parrainage de Cecília pour SHEIN. Il se cherche dans la barre de recherche de SHEIN, pas dans le champ des coupons."
       ],
-      "image": {
-        "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
-        "alt": "Barre de recherche de SHEIN Brésil sur un téléphone, en portugais, avec le code 4CW5Y saisi, qui s'affiche à l'écran sous la forme 4Cw5y",
-        "caption": "Le code saisi dans la barre de recherche du site de SHEIN Brésil, sur un téléphone.",
-        "objectFit": "contain",
-        "aspectRatio": 1.4722
-      },
       "links": [
         {
-          "label": "Voir le code de parrainage 4CW5Y et les campagnes de SHEIN Brésil",
+          "label": "Voir le code de parrainage 4CW5Y et les campagnes de SHEIN",
           "href": "/fr/coupons/shein"
         },
         {
-          "label": "Code de parrainage SHEIN Brésil : où le mettre et comment l'utiliser",
+          "label": "Code de parrainage SHEIN : où le saisir et comment il fonctionne",
           "href": "/fr/reviews/code-de-parrainage-shein-ou-le-mettre"
         }
       ]
@@ -135,13 +132,13 @@
       "bullets": [
         "SHEIN est-il fiable ? Oui, c'est une boutique légitime, avec une société identifiée derrière le site de chaque marché : en France, Infinite Styles Services Co., Limited, selon la politique de confidentialité du site.",
         "Est-il sûr de payer par carte sur SHEIN ? SHEIN affirme que ses systèmes et ses contrôles sont alignés sur les normes ISO, NIST et PCI DSS, et dit ne pas vendre les données de ses clients. N'achetez que sur le site officiel ou dans l'appli.",
-        "De quel pays vient SHEIN ? L'entreprise est née en Chine et son siège est à Singapour, selon le Financial Times. En février 2026, le fondateur a dit que les racines de l'entreprise sont au Guangdong, selon la BBC et The Straits Times.",
+        "De quel pays vient SHEIN ? L'entreprise est née en Chine et son siège est à Singapour, selon le Financial Times. En 2026, le fondateur a dit que les racines de l'entreprise sont au Guangdong, selon la BBC et The Straits Times.",
         "Que vend SHEIN ? Des vêtements pour femmes, hommes et enfants, des chaussures, des sacs, des bijoux, des produits de beauté, des articles pour la maison, de l'électronique et des articles pour animaux, entre autres. Une partie est de la marque SHEIN, et une partie vient d'autres fournisseurs.",
         "Qui exploite SHEIN en France ? Infinite Styles Services Co., Limited (« ISSL »), selon la politique de confidentialité du site. Le site du groupe, sheingroup.com, appartient à Roadget Business Pte. Ltd., de Singapour.",
         "Quel est le délai de retour chez SHEIN ? 14 jours de rétractation légale, à compter de la réception, et la plupart des articles jusqu'à 30 jours après la réception selon la politique de SHEIN. La lingerie, les sous-vêtements et les bijoux fantaisie ne se retournent que dans les 14 jours.",
-        "Y a-t-il des frais de douane sur les commandes SHEIN ? Depuis le 1er juillet 2026, l'UE prélève un droit de douane de 3 € par catégorie de produit sur les commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382).",
+        "Y a-t-il des frais de douane sur les commandes SHEIN ? L'UE prélève un droit de douane de 3 € par catégorie de produit sur les commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382).",
         "Comment savoir si le site SHEIN est le site officiel ? Achetez uniquement sur le site officiel de votre marché (fr.shein.com en France) ou dans l'appli SHEIN téléchargée depuis la boutique d'applications officielle de votre téléphone.",
-        "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília pour SHEIN Brésil : il se saisit dans la barre de recherche de SHEIN, pas dans le champ des coupons, et il peut ne pas fonctionner dans votre pays."
+        "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília pour SHEIN, qui se cherche dans la barre de recherche de SHEIN, pas dans le champ des coupons."
       ]
     }
   ],
@@ -157,15 +154,15 @@
   "relatedArticles": [
     {
       "slug": "shein-ou-temu-comment-choisir",
-      "title": "SHEIN ou Temu : comment choisir (retours, douane et points à vérifier avant d'acheter)"
+      "title": "SHEIN ou Temu : comment choisir (livraison, retours, douane et points à vérifier avant d'acheter)"
     },
     {
       "slug": "black-friday-shein-dates-et-taxes",
-      "title": "Black Friday SHEIN Brésil 2026 : quand il commence, jusqu'à quand et la taxe d'importation nulle jusqu'à US$ 50"
+      "title": "Black Friday SHEIN 2026 : quand il commence, jusqu'à quand et comment fonctionnent les coupons"
     },
     {
       "slug": "code-de-parrainage-shein-ou-le-mettre",
-      "title": "Code de parrainage SHEIN Brésil : où le mettre et comment l'utiliser"
+      "title": "Code de parrainage SHEIN : où le mettre et comment l'utiliser"
     }
   ]
 }

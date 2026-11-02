@@ -33,17 +33,17 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "YesStyle envía a España, México, Chile, Perú, Argentina y Colombia con envío Standard de 10 a 27 días hábiles, gratis desde US$ 45 o US$ 60 según el país. Solo en España el IVA ya está en el precio; en los demás, si la aduana cobra algo, aplica el reembolso de YesStyle. Los detalles están en \"Si te cobran impuestos al recibir el paquete\"."
+        "YesStyle envía a España, México, Chile, Perú, Argentina y Colombia con envío Standard de 10 a 27 días hábiles, gratis desde US$ 45 o US$ 60 según el país. Solo en España el IVA ya está en el precio; en los demás, si la aduana cobra algo, aplica el reembolso de YesStyle. Mira abajo la tabla y el capítulo de impuestos."
       ]
     },
     {
       "heading": "Plazo y costo de envío en España, México, Chile, Perú, Argentina y Colombia",
       "paragraphs": [
-        "Esta versión cubre España, México, Chile, Perú, Argentina y Colombia; las otras versiones de idioma de esta guía cubren otros países. Las cifras salen de la tabla de envío de YesStyle vigente desde el 13 de octubre de 2026 (07:15 GMT), leída el mismo día, y de sus páginas de impuestos por región, leídas el 12 de octubre de 2026. Los valores están en dólares estadounidenses, como los publica la tienda. El 11 de agosto de 2026, YesStyle avisó de atrasos en los envíos a Colombia a causa del terremoto.",
+        "El envío Standard tarda de 10 a 15 días hábiles en España, de 10 a 13 en México, de 15 a 20 en Chile, de 15 a 22 en Perú y Colombia y de 15 a 27 en Argentina, con los valores en dólares estadounidenses, como los publica la tienda. La tabla de abajo sale de la tabla de envío vigente desde el 13 de octubre de 2026 (07:15 GMT), leída el mismo día; los impuestos, de las páginas de impuestos de la tienda, leídas el 12 de octubre de 2026. El 11 de agosto de 2026, YesStyle avisó de atrasos en los envíos a Colombia a causa del terremoto.",
         "Al plazo del envío se suma el tiempo que tarda el producto en salir del almacén, que se explica más abajo."
       ],
       "comparisonTable": {
-        "caption": "Plazo y costo de envío de YesStyle a España, México, Chile, Perú, Argentina y Colombia, según la tabla vigente desde el 13 de octubre de 2026, leída el mismo día.",
+        "caption": "Plazo y costo de envío de YesStyle a España, México, Chile, Perú, Argentina y Colombia, según la tabla de envío de la tienda.",
         "headers": [
           "País",
           "Envío y plazo",
@@ -99,12 +99,12 @@
     {
       "heading": "Envío gratis: qué cuenta para el mínimo",
       "paragraphs": [
-        "El envío es gratis desde US$ 45 en España, México y Colombia, y desde US$ 60 en Chile, Perú y Argentina, como indica la tabla de arriba. El costo de la envoltura de regalo no cuenta para ese total, según la nota de la tabla."
+        "El envío es gratis desde US$ 45 en España, México y Colombia, y desde US$ 60 en Chile, Perú y Argentina, como indica la tabla de arriba; si te falta poco, conviene completar el carrito. El costo de la envoltura de regalo no cuenta para ese total, según la nota de la tabla."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-frete-espanha-2026-10-13.webp",
         "alt": "Tabla de envío de YesStyle con destino España: envío Estándar gratis desde US$ 45 y de US$ 5 por debajo, en 10 a 15 días hábiles y con número de seguimiento, con la nota de que el costo de las envolturas de regalo no entra en el cálculo del envío y la fecha del 13 de octubre de 2026",
-        "caption": "La fila de España en la tabla de envío de YesStyle, vigente desde el 13 de octubre de 2026 (07:15 GMT), con la nota sobre la envoltura de regalo.",
+        "caption": "La fila de España en la tabla de envío de YesStyle, con la nota sobre la envoltura de regalo.",
         "objectFit": "contain",
         "aspectRatio": 2.2235
       }
@@ -113,7 +113,7 @@
       "heading": "Cómo se cuenta el plazo",
       "paragraphs": [
         "Todo pedido sale del almacén de YesStyle en Hong Kong. El plazo total es el tiempo que tarda el producto en estar disponible más el plazo del envío, y la tienda cuenta los dos en días hábiles, en hora de Hong Kong (GMT+8).",
-        "En España, un pedido solo con productos en stock tarda de 11 a 18 días hábiles: de 1 a 3 para salir del almacén y de 10 a 15 de envío.",
+        "Cuenta nuestra, sumando los plazos de la tienda (1 a 3 días hábiles para salir del almacén y 10 a 15 de envío): en España, un pedido solo con productos en stock tarda de 11 a 18 días hábiles.",
         "Si el pago necesita verificación, el plazo empieza a contar el día en que se aprueba el pedido. Los días festivos y los picos de pedidos también pueden retrasar la salida."
       ],
       "image": {
@@ -132,7 +132,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-es-2026-10-13.webp",
         "alt": "Página de producto de YesStyle de la Crema 345 Relief de Dr. Althea, a US$ 22.95 en una oferta del 15% con cuenta regresiva, con la opción 2025 Version - 50ml marcada como Disponible, sobre el botón Agregar a la cesta",
-        "caption": "Página de un producto en YesStyle el 13 de octubre de 2026, con la etiqueta «Disponible» junto a la versión. El precio y la oferta son los de ese día.",
+        "caption": "Página de un producto en YesStyle, con la etiqueta «Disponible» junto a la versión. El precio y la oferta son los del día de la captura.",
         "objectFit": "contain",
         "aspectRatio": 2.1757
       },
@@ -167,7 +167,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-es-2026-10-13.webp",
         "alt": "Página de YesStyle con el banner azul El reembolso de los impuestos y tasas de aduanas de todos los pedidos de YesStyle de menos de 1,000 $ y el punto 1, que dice que la oferta rige desde el 7 de mayo de 2018, también por el equivalente en otras monedas",
-        "caption": "La página de reembolso de impuestos y tasas de aduana de YesStyle, vigente desde el 7 de mayo de 2018, leída el 13 de octubre de 2026.",
+        "caption": "La página de reembolso de impuestos y tasas de aduana de YesStyle.",
         "objectFit": "contain",
         "aspectRatio": 3.0156
       },
@@ -214,7 +214,7 @@
     {
       "heading": "Colaboración y código de recompensa",
       "paragraphs": [
-        "CECILIA010 es el código de recompensa de Cecília en YesStyle: va en el campo Código de Recompensa (Reward Code) del checkout y da hasta un 5% de descuento en la primera compra y un 2% en las siguientes, y suma con los cupones de la propia tienda. Los cupones vigentes están en la página de YesStyle de este sitio."
+        "CECILIA010 es el código de recompensa de Cecília en YesStyle: va en el campo Código de Recompensa (Reward Code) del checkout y da hasta un 5% de descuento en la primera compra y un 2% en las siguientes, y suma con los cupones de la propia tienda. Los cupones vigentes están en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle), en este sitio."
       ],
       "links": [
         {
@@ -226,7 +226,7 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Sí: los seis países están en la tabla de envío de la tienda, vigente desde el 13 de octubre de 2026, con envío Standard.",
+        "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Sí: los seis países están en la tabla de envío de la tienda, con envío Standard.",
         "¿Cuánto tarda la entrega de YesStyle? El envío Standard tarda de 10 a 15 días hábiles en España, de 10 a 13 en México, de 15 a 20 en Chile, de 15 a 22 en Perú y Colombia y de 15 a 27 en Argentina. En España, un pedido solo con productos en stock tarda de 11 a 18 días hábiles: de 1 a 3 para salir de Hong Kong y de 10 a 15 de envío.",
         "¿Desde cuánto es gratis el envío de YesStyle? Desde US$ 45 en España, México y Colombia, y desde US$ 60 en Chile, Perú y Argentina, sin contar la envoltura de regalo. Por debajo del mínimo cuesta US$ 5 en España y Colombia, US$ 6 en México, Chile y Perú, y US$ 8 en Argentina.",
         "¿YesStyle cobra impuestos o tasas? En España, el IVA del 21% ya está en el precio. En México, Chile, Perú, Argentina y Colombia, YesStyle no publica los impuestos y no hemos revisado las reglas de aduana de esos países.",

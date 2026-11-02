@@ -3,8 +3,8 @@
   "slug": "shein-vs-temu-zh-hans",
   "locale": "zh-hans",
   "translationKey": "shein-vs-shopee-temu",
-  "title": "SHEIN 还是 Temu？新加坡和马来西亚怎么选：运费、时效与退货（含 AliExpress）",
-  "seoTitle": "SHEIN 还是 Temu？新马运费与退货（含 AliExpress）",
+  "title": "SHEIN 还是 Temu？新加坡和马来西亚怎么选：运费、时效与退货",
+  "seoTitle": "SHEIN 还是 Temu？新马运费与退货对比",
   "type": "对比指南",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,15 +15,15 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN 还是 Temu？对比 SHEIN、Temu 和 AliExpress 在新加坡和马来西亚公布的运费、配送时间与退货规则（2026 年 10 月 12 日和 13 日查阅），以及购买前要确认的事。这篇文章不比较价格，也没有测试配送。",
-  "metaDescription": "SHEIN 还是 Temu？对比 SHEIN、Temu 和 AliExpress 在新加坡与马来西亚公布的运费、时效与退货（2026 年 10 月 12 日和 13 日查阅）及买前确认事项。",
+  "description": "SHEIN 还是 Temu？对比两家平台在新加坡和马来西亚公布的运费、配送时间与退货规则，以及怎么按购物需求来选，买前要确认什么。这篇文章不比较价格，也没有测试配送。",
+  "metaDescription": "SHEIN 还是 Temu？对比两家平台在新加坡与马来西亚公布的运费、时效与退货，以及按购物需求怎么选。",
   "publishedAt": "2026年10月13日",
   "publishedAtISO": "2026-10-13",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
-  "imageAlt": "一张对比表插图，列的上方是 SHEIN、Temu 和 AliExpress 的标志，五行图标分别代表运费、时效、退货、税金与口碑",
+  "imageAlt": "一张对比表插图，列的上方是 SHEIN 和 Temu 的标志，五行图标分别代表运费、时效、退货、税金与口碑",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -32,106 +32,87 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "没有一家平台适合所有人。怎么选，取决于你要买什么，以及能不能退货对你有多重要，各平台公布的退货期限不同，Temu 最长，购买后 90 天内。我们不比较价格，也没有测试配送。详情见下文「按购物需求怎么选」。"
+        "没有一家平台适合所有人：怎么选，取决于你要买什么，以及能不能退货对你有多重要。退货期限最长的是 Temu，购买后 90 天内。我们不比较价格，也没有测试配送。买前要确认什么，见下文「按购物需求怎么选」。"
       ]
     },
     {
-      "heading": "新加坡：SHEIN、Temu 和 AliExpress 对比",
+      "heading": "新加坡：SHEIN 和 Temu 并排对比",
       "paragraphs": [
-        "没有一家平台适合所有人：怎么选，取决于你要买什么，以及能不能退货对你有多重要。这篇文章不比较价格，也没有测试配送；表格整理了各平台在新加坡和马来西亚公布的规则。",
-        "出处（2026 年 10 月 12 日和 13 日查阅）：SHEIN 新加坡站的配送与退货页面；Temu 针对新加坡的配送与退货页面；AliExpress 的退货政策，以及一件连衣裙的商品页面（配送地设为新加坡）。SHEIN 新加坡站（sg.shein.com）由 Fashion Choice Pte. Ltd. 运营。"
+        "把两家分开的是退货和配送时效：表格整理了各平台在新加坡和马来西亚公布的规则。",
+        "出处：SHEIN 新加坡站的配送与退货页面，以及 Temu 针对新加坡的配送与退货页面。"
       ],
       "image": {
         "src": "/images/reviews/shein/shein-home-sg-2026-10-12.webp",
         "alt": "SHEIN 新加坡站首页，页面为英文。黑色标题栏有英文的商品分类菜单，下方是紫色的“Trends #SummerOutfit”（夏季穿搭）活动横幅，展示四件以新加坡元标价的服饰，再往下是商品分类图标",
-        "caption": "SHEIN 新加坡站（sg.shein.com）首页，页面为英文，2026 年 10 月 12 日截取，画面显示当天的活动。",
+        "caption": "SHEIN 新加坡站（sg.shein.com）首页，页面为英文，画面显示截取当时的活动。",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
       "comparisonTable": {
-        "caption": "SHEIN、Temu 和 AliExpress 在新加坡公布的运费、时效与退货（2026 年 10 月 12 日和 13 日查阅）",
+        "caption": "SHEIN 和 Temu 在新加坡公布的运费、时效与退货（2026 年 10 月 12 日和 13 日查阅）",
         "headers": [
           "项目",
           "SHEIN",
-          "Temu",
-          "AliExpress"
+          "Temu"
         ],
         "rows": [
           [
             "运费",
             "标准配送：未满 S$20.35 收 S$3.13，满额免运费",
-            "标准配送：所有订单免运费",
-            "我们打开的连衣裙运费 S$2.66"
+            "标准配送：所有订单免运费"
           ],
           [
             "时效",
             "标准配送 3–5 个工作日",
-            "标准配送 3–6 个工作日；处理 1–3 天",
-            "商品页面预计：我们打开的连衣裙 7–12 天"
+            "标准配送 3–6 个工作日；处理 1–3 天"
           ],
           [
             "退货",
             "大多数全新商品在收到后 15 天内；同一订单第二次退货起，每次扣 S$3 或 S$4",
-            "购买后 90 天内（依新加坡《消费者保护（公平交易）法》）；每个订单第一次退货免费，第二次起从退款中扣除退货运费（投递点每件约 S$2.55）",
-            "送达后 15 天内"
+            "购买后 90 天内（依新加坡《消费者保护（公平交易）法》）；每个订单第一次退货免费，第二次起从退款中扣除退货运费（投递点每件约 S$2.55）"
           ]
         ]
       }
     },
     {
-      "heading": "马来西亚：SHEIN、Temu 和 AliExpress 对比",
+      "heading": "马来西亚：SHEIN 和 Temu 并排对比",
       "paragraphs": [
-        "出处（2026 年 10 月 12 日和 13 日查阅）：SHEIN 马来西亚站（my.shein.com）的配送与退货页面；Temu 针对马来西亚的配送与退货页面；AliExpress 的退货政策，以及同一件连衣裙的商品页面（配送地设为马来西亚）。"
+        "出处：SHEIN 马来西亚站（my.shein.com）的配送与退货页面，以及 Temu 针对马来西亚的配送与退货页面。"
       ],
       "comparisonTable": {
-        "caption": "SHEIN、Temu 和 AliExpress 在马来西亚公布的运费、时效与退货（2026 年 10 月 12 日和 13 日查阅）",
+        "caption": "SHEIN 和 Temu 在马来西亚公布的运费、时效与退货（2026 年 10 月 12 日和 13 日查阅）",
         "headers": [
           "项目",
           "SHEIN",
-          "Temu",
-          "AliExpress"
+          "Temu"
         ],
         "rows": [
           [
             "运费",
             "标准配送：未满 RM65 收 RM10，满额免运费",
-            "标准配送：所有订单免运费",
-            "我们打开的连衣裙免运费"
+            "标准配送：所有订单免运费"
           ],
           [
             "时效",
             "标准配送 3–5 个工作日",
-            "标准配送 4–15 个工作日；处理 1–3 天",
-            "商品页面预计：我们打开的连衣裙 6–10 天"
+            "标准配送 4–15 个工作日；处理 1–3 天"
           ],
           [
             "退货",
             "收到后 20 天内；同一订单第二次退货起，每次扣 RM7 或 RM10",
-            "购买后 90 天内；每个订单第一次退货免费，第二次起从退款中扣除 RM8.50",
-            "送达后 15 天内"
+            "购买后 90 天内；每个订单第一次退货免费，第二次起从退款中扣除 RM8.50"
           ]
         ]
-      },
-      "postParagraphs": [
-        "两张表中 AliExpress 一栏的数据都来自同一件连衣裙：配送时间可能因商品而异，请到商品页面确认。"
-      ]
+      }
     },
     {
-      "heading": "进口税与海关",
+      "heading": "退货是两家差别最大的地方",
       "paragraphs": [
-        "进口税依国家与地区而定。在新加坡和马来西亚，我们打开的 AliExpress 商品页面都注明价格不含税，如适用，税金会在结账时加上。付款前，请在各平台的结账页面确认总金额是否已包含税金。"
-      ]
-    },
-    {
-      "heading": "评分衡量的是什么",
-      "paragraphs": [
-        "投诉与评价网站的评分衡量的是平台如何处理消费者的投诉，而不是商品质量，而且投诉数量也会随平台规模而不同。关于 SHEIN 由谁运营、声誉有哪些已知情况，我们写在谈 SHEIN 可靠性的文章里。"
+        "两家公布的退货期限相差很大：Temu 从购买日算起，SHEIN 从收到商品算起。"
       ],
-      "links": [
-        {
-          "label": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事",
-          "href": "/zh-hans/reviews/shein-trust-guide-zh-hans"
-        }
+      "bullets": [
+        "**Temu：** 购买后 90 天内，新加坡和马来西亚都一样。每个订单第一次退货免费，第二次起从退款中扣除退货运费。",
+        "**SHEIN：** 新加坡站大多数全新商品在收到后 15 天内，马来西亚站在收到后 20 天内。同一订单第二次退货起要扣费。"
       ]
     },
     {
@@ -141,12 +122,22 @@
         "退货期限，以及这件商品是不是退货期限较短的品类。",
         "谁在卖：平台自己，还是合作卖家。",
         "订单页面上的送达时间。"
+      ],
+      "postParagraphs": [
+        "SHEIN 由谁运营、声誉有哪些已知情况，我们写在谈 SHEIN 可靠性的文章里。"
+      ],
+      "links": [
+        {
+          "label": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事",
+          "href": "/zh-hans/reviews/shein-trust-guide-zh-hans"
+        }
       ]
     },
     {
       "heading": "按购物需求怎么选",
+      "emphasis": "按表格里的数字，买衣服没法试穿的人，选 Temu：它给 90 天的退货期限。",
       "bullets": [
-        "**想要有充裕的退货时间：** 比较退货期限，不要只比价格。",
+        "**想要有充裕的退货时间：** Temu 是购买后 90 天内；SHEIN 新加坡站是收到后 15 天内，马来西亚站是 20 天内。",
         "**需要在某个日期前收到：** 到商品页面或订单页面确认送达时间。",
         "**买从海外寄来的商品：** 在结账页面确认含税的总金额。",
         "**用信用卡、电子钱包或分期付款：** 到各平台的结账页面查看可用的付款方式。"
@@ -155,26 +146,21 @@
     {
       "heading": "合作与推荐码",
       "paragraphs": [
-        "Cecília 是 SHEIN、Temu 和 AliExpress 的联盟会员。通过本文链接购买时，她可能获得佣金，你不需要多付费。这不会改变答案：怎么选，取决于你要买什么。",
-        "4CW5Y 是 SHEIN 巴西站的推荐码。要在 SHEIN 的搜索栏搜索，不是输入到优惠券输入框。它属于 SHEIN 巴西站，在新加坡可能无法使用。"
+        "Cecília 是 SHEIN 和 Temu 的联盟会员。通过本文链接购买时，她可能获得佣金，你不需要多付费。这不会改变答案：怎么选，取决于你要买什么。",
+        "4CW5Y 是 Cecília 在 SHEIN 的推荐码。要在 SHEIN 的搜索栏搜索，不是输入到优惠券输入框。"
       ],
       "links": [
         {
-          "label": "查看 4CW5Y 推荐码与 SHEIN 巴西站的活动",
+          "label": "查看 4CW5Y 推荐码与 SHEIN 的活动",
           "href": "/zh-hans/coupons/shein"
         },
         {
-          "label": "SHEIN 巴西站推荐码：在哪里输入、怎么用",
+          "label": "SHEIN 推荐码：在哪里输入、怎么用",
           "href": "/zh-hans/reviews/shein-referral-code-zh-hans"
         },
         {
           "label": "打开 Temu",
           "href": "https://temu.to/k/glfwht5gllj",
-          "sponsored": true
-        },
-        {
-          "label": "打开 AliExpress",
-          "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
           "sponsored": true
         }
       ]
@@ -184,12 +170,11 @@
       "bullets": [
         "SHEIN 和 Temu 哪个更好？ 没有一家平台适合所有人。按你要买什么、退货对你有多重要，以及需要在哪天前收到来选。",
         "SHEIN 和 Temu 哪个更便宜？ 这篇文章不比较价格。付款前，到各平台的结账页面，比较含运费与税金的总金额。",
-        "SHEIN 和 Temu 哪个到货更快？ 这篇文章没有测试配送。在新加坡，SHEIN 公布标准配送 3–5 个工作日，Temu 公布 3–6 个工作日（处理 1–3 天）；在马来西亚，SHEIN 是 3–5 个工作日，Temu 是 4–15 个工作日（处理 1–3 天）。请再看商品页面与订单页面上的送达时间。",
-        "SHEIN 和 Temu 哪个更安全？ 这篇文章不做这样的判断。关于 SHEIN，请看我们谈 SHEIN 可靠性的文章。",
-        "SHEIN 和 Temu 是同一家公司吗？ 不是。它们是不同的平台，各有各的规则。",
-        "SHEIN 新加坡站和马来西亚站的退货期限是多久？ 根据 SHEIN 的公布，新加坡站大多数全新商品在收到后 15 天内，马来西亚站是收到后 20 天内（2026 年 10 月 13 日查阅）。",
-        "Temu 和 AliExpress 的退货期限是多久？ Temu 在新加坡和马来西亚都是购买后 90 天内，每个订单第一次退货免费。AliExpress 在两个国家都是送达后 15 天内。",
-        "4CW5Y 是优惠券吗？ 不是。它是 SHEIN 巴西站的推荐码，要在 SHEIN 的搜索栏搜索，在新加坡可能无法使用。"
+        "SHEIN 和 Temu 哪个到货更快？ 这篇文章没有测试配送。在新加坡，SHEIN 公布标准配送 3–5 个工作日，Temu 公布 3–6 个工作日（处理 1–3 天）；在马来西亚，SHEIN 是 3–5 个工作日，Temu 是 4–15 个工作日（处理 1–3 天）。",
+        "SHEIN 和 Temu 有什么区别？ 差别最大的是退货期限：Temu 是购买后 90 天内，SHEIN 新加坡站是收到后 15 天内，马来西亚站是 20 天内。运费和时效见上面的表格。",
+        "SHEIN 和 Temu 是同一家公司吗？ 不是。它们是不同的平台，运费、时效和退货规则各不相同。",
+        "SHEIN 和 Temu 的退货期限是多久？ SHEIN 新加坡站大多数全新商品在收到后 15 天内，马来西亚站在收到后 20 天内；Temu 在两个国家都是购买后 90 天内，每个订单第一次退货免费。",
+        "4CW5Y 是优惠券吗？ 不是。它是 SHEIN 的推荐码，要在 SHEIN 的搜索栏搜索。"
       ]
     }
   ],
@@ -201,7 +186,7 @@
   },
   "coupon": "4CW5Y",
   "affiliate": "shein",
-  "editorialNote": "本文为编辑内容。通过本文的 SHEIN、Temu 和 AliExpress 链接购买，我们可能获得佣金。",
+  "editorialNote": "本文为编辑内容。通过本文的 SHEIN 和 Temu 链接购买，我们可能获得佣金。",
   "relatedArticles": [
     {
       "slug": "shein-trust-guide-zh-hans",
@@ -209,11 +194,19 @@
     },
     {
       "slug": "shein-black-friday-zh-hans",
-      "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及 US$ 50 以内免进口税"
+      "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及优惠券怎么用"
     },
     {
       "slug": "shein-referral-code-zh-hans",
-      "title": "SHEIN 巴西站推荐码：在哪里输入、怎么用"
+      "title": "SHEIN 推荐码：在哪里输入、怎么用"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "买衣服没法试穿、又想要最长的退货期限，就选 Temu：购买后 90 天内。"
+    ],
+    "skipIf": [
+      "如果你想要比 SHEIN 更长的退货期限，就先别选 SHEIN：新加坡站收到后 15 天内，马来西亚站收到后 20 天内。"
+    ]
+  }
 }

@@ -3,8 +3,8 @@
   "slug": "shein-referral-code-where-to-enter",
   "locale": "en",
   "translationKey": "shein-referral-code",
-  "title": "SHEIN Brazil referral code: where to enter it and how it works",
-  "seoTitle": "SHEIN Brazil referral code: where to enter it, how to use",
+  "title": "SHEIN referral code: where to enter it and how it works",
+  "seoTitle": "SHEIN referral code: where to enter it, how to use",
   "type": "Referral Code Guide",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,15 +15,15 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Where to enter SHEIN Brazil's referral code (in the search bar, not the coupon field), the step-by-step with screenshots, what opens after the search and how to get your own code.",
-  "metaDescription": "The SHEIN Brazil referral code goes in the search bar, not the coupon field. See the step-by-step with screenshots, what it opens and how to get your own.",
+  "description": "Where to enter the SHEIN referral code (in the search bar, not the coupon field), a step-by-step with screenshots, what shows up after the search, what changed since the old 2024 program and how to get your own code.",
+  "metaDescription": "The SHEIN referral code goes in the search bar, not the coupon field. See the step-by-step with screenshots, what it opens, what changed in 2024 and how to get yours.",
   "publishedAt": "October 13, 2026",
   "publishedAtISO": "2026-10-13",
   "draft": false,
-  "isNew": false,
+  "isNew": true,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-  "imageAlt": "Two screens of the SHEIN Brazil website on a phone, in Portuguese: the search bar with the code typed in and the page that opens after the search",
+  "imageAlt": "Two screens of the SHEIN website on a phone: the search bar with the code typed in and the page that opens after the search",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -32,93 +32,101 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "A SHEIN referral code goes in the store's search bar, in the app or on your phone's browser, not in the coupon field. It has no fixed discount: it opens the page of whoever shared it, with the store's offers. 4CW5Y is Cecília's code on SHEIN Brazil and may not work abroad; see “Where to enter the SHEIN referral code”."
+        "The SHEIN referral code goes in the store's search bar, in the app or on the website on your phone, not in the coupon field. It does not give a fixed discount: it opens the page of the person who shared the code, with the offers the store shows there. 4CW5Y is Cecília's code; the step-by-step is below."
       ]
     },
     {
       "heading": "Where to enter the SHEIN referral code",
       "paragraphs": [
-        "SHEIN says to search for the code in the app's search bar. The screenshots below are from the SHEIN Brazil website on a phone, in Portuguese, without logging in:"
+        "Search for the code in the search bar of the SHEIN app. The screens below are from the SHEIN website on a phone, not logged in:"
       ],
       "bullets": [
-        "**Step 1:** tap SHEIN's search bar.",
+        "**Step 1:** tap the SHEIN search bar.",
         "**Step 2:** type the code, for example 4CW5Y.",
-        "**Step 3:** tap the magnifying glass. SHEIN opens the page tied to the code.",
-        "**Step 4:** pick items from that page and build your cart."
+        "**Step 3:** tap the magnifying glass. SHEIN opens the page linked to the code.",
+        "**Step 4:** pick your items from that page and fill your cart."
       ],
       "images": [
         {
           "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
-          "alt": "Search screen of the SHEIN Brazil website on a phone, in Portuguese, with the search bar still empty, the recent search 4CW5Y and the store's suggestions",
-          "caption": "Step 1: the search page open on the SHEIN Brazil website, on a phone (in Portuguese), before the code is typed.",
+          "alt": "SHEIN website search screen on a phone, with the search bar still empty, the recent search 4CW5Y and the store's suggestions",
+          "caption": "Step 1: the search open on the SHEIN website, on a phone, before typing the code.",
           "objectFit": "contain",
           "aspectRatio": 1.4722
         },
         {
           "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
-          "alt": "SHEIN Brazil search bar with the code 4CW5Y typed in, which shows on screen as 4Cw5y",
-          "caption": "Step 2: the code typed into the search bar.",
+          "alt": "SHEIN search bar with the code 4CW5Y typed in, shown on screen as 4Cw5y",
+          "caption": "Step 2: the code typed in the search bar.",
           "objectFit": "contain",
           "aspectRatio": 1.4722
         },
         {
           "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
-          "alt": "SHEIN Brazil page opened after the search, in Portuguese, with the title “Acho que você pode gostar” (“I think you might like”) and two products priced in reais",
-          "caption": "Step 3: the page that the 4CW5Y search opened on October 12, 2026.",
+          "alt": "SHEIN page opened after the search, titled \"Acho que você pode gostar\" (\"I think you might like\"), with two products with prices",
+          "caption": "Step 3: the page that the search for 4CW5Y opened.",
           "objectFit": "contain",
           "aspectRatio": 0.7581
         }
       ],
       "postParagraphs": [
-        "Don't use the code as a coupon: SHEIN says to search for it in the search box."
+        "Don't use the code as a coupon: it goes in the search box."
       ]
     },
     {
-      "heading": "What opens after the search and what you get",
+      "heading": "What shows up after the search and what you get",
       "paragraphs": [
-        "According to SHEIN, when someone searches an affiliate's code, they see that affiliate's picks page. If the person has not chosen products yet, SHEIN's default picks page appears. On October 12, 2026, the search for 4CW5Y opened a recommendations page titled “Acho que você pode gostar” (“I think you might like”).",
-        "There is no fixed discount tied to the code. SHEIN says that people who arrive through an affiliate may get the benefits shown on the campaign or product pages, and that it updates these offers often. The campaigns currently running on SHEIN Brazil, each with the date we checked it, are on the store page on this site."
+        "When you search for an affiliate's code, you see their selection page, SHEIN says. If the person who shared the code hasn't picked products yet, SHEIN's default selection page appears. On October 12, 2026, searching for 4CW5Y opened a recommendations page titled \"Acho que você pode gostar\".",
+        "There is no fixed discount tied to the code. If you arrive through the affiliate, you may get the perks shown on campaign or product pages, which are updated often. The campaigns currently running are on the SHEIN page here on the site."
       ],
       "links": [
         {
-          "label": "See the 4CW5Y referral code and SHEIN Brazil's campaigns",
+          "label": "See the 4CW5Y referral code and SHEIN's campaigns",
           "href": "/en/coupons/shein"
         }
       ],
       "postParagraphs": [
-        "Under SHEIN Brazil's affiliate program, SHEIN says the order must be completed within 24 hours of the search or click for the purchase to count for the person who shared the code, and the last code or link used is the one that counts. The commission does not increase what you pay."
+        "For the purchase to count for the person who shared the code, SHEIN says the order must be completed within 24 hours of the search or click, and the last code or link used applies. The commission doesn't raise what you pay."
+      ]
+    },
+    {
+      "heading": "Why the old guides, with the old program's coupon, no longer apply",
+      "paragraphs": [
+        "Many guides and videos still describe the affiliate program that SHEIN ended on August 29, 2024. Under it, anyone using an affiliate's code got a discount coupon. SHEIN deactivated those codes, and the coupon ended with them.",
+        "In the current program, there is no longer a link between the person who refers and the person who uses the code. The code only leads to the affiliate's page, and the perks are those of the campaigns shown there."
       ]
     },
     {
       "heading": "How to get your own referral code",
       "paragraphs": [
-        "The referral code comes from SHEIN's affiliate program. On SHEIN Brazil, signing up starts by searching “afiliado” (“affiliate”) in the app and validating an Instagram, YouTube or TikTok account that meets the program's requirements, such as a minimum number of followers; SHEIN's pages do not say whether the program is open in your country.",
-        "After sign-up, the code appears on the affiliate home page. It is always the same, and you cannot choose the letters."
+        "The referral code comes from SHEIN's affiliate program. To sign up, search for \"afiliado\" in the SHEIN app and verify an Instagram, YouTube or TikTok account that meets the program's requirements, such as a minimum number of followers.",
+        "After you sign up, the code appears on the affiliate home page. It is always the same, and you can't choose the letters."
       ]
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Where do I enter a SHEIN referral code? In the search bar of the SHEIN app or of the website on your phone, not in the coupon field.",
-        "How do I use a SHEIN referral code? Open the search, type the code, tap the magnifying glass and build your cart from the page that opens.",
-        "How does the SHEIN referral code work? According to SHEIN, it opens the page of the person who shared the code. In SHEIN Brazil's affiliate program, if you complete the purchase within 24 hours, that person earns the commission, at no extra cost to you.",
+        "Where do I enter the SHEIN referral code? In the search bar of the SHEIN app or website on your phone, not in the coupon field.",
+        "How do I use the SHEIN referral code? Open the search, type the code, tap the magnifying glass and fill your cart from the page that opens.",
+        "How does the SHEIN referral code work? According to SHEIN, it opens the page of the person who shared the code. If you complete the purchase within 24 hours, that person earns the commission, at no extra cost to you.",
         "Does the SHEIN referral code give a discount? There is no fixed discount: you may get the offers SHEIN shows on the page the code opens.",
-        "Is the referral code the same thing as a coupon? No. According to SHEIN, the code goes in the search box and is not used as a coupon.",
-        "How do I find my SHEIN referral code? The referral code comes from SHEIN's affiliate program. After sign-up, which on SHEIN Brazil starts by searching “afiliado” (“affiliate”) in the app, it appears on the affiliate home page.",
-        "Does 4CW5Y work outside Brazil? SHEIN does not say. The code is from SHEIN Brazil and may not work on SHEIN in another country.",
-        "Can I use the referral code on a computer? SHEIN talks about searching for the code in the app, and the screenshots in this guide are from the website on a phone. We did not check on a computer."
+        "Is the referral code the same as a coupon? No. According to SHEIN, the code goes in the search box, not as a coupon.",
+        "How do I find my SHEIN referral code? The referral code comes from SHEIN's affiliate program. After you sign up, using the search \"afiliado\" in the app, it appears on the affiliate home page.",
+        "Is a 2024 or 2025 referral code still valid? Codes from the old program, which ended in 2024, were deactivated along with the old program's coupon. In the current program, the code leads to the affiliate's page, with no fixed discount, and 4CW5Y is Cecília's current code.",
+        "Do I need to create a new account to use the code? No: when we checked, the search opened the page even without logging in. Offers for new users only, when they exist, are marked on the campaign.",
+        "Can I use the referral code on a computer? SHEIN talks about searching for the code in the app; the guide shows the website on a phone, and we didn't check on a computer."
       ]
     }
   ],
   "cta": {
-    "text": "Open SHEIN through Cecília's link or search 4CW5Y in the search bar of the SHEIN Brazil app",
+    "text": "Open SHEIN through Cecília's link or search 4CW5Y in the search bar of the SHEIN app",
     "label": "Open SHEIN",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true
   },
   "coupon": "4CW5Y",
   "affiliate": "shein",
-  "editorialNote": "Rules from SHEIN's official pages. We may earn a commission on purchases.",
+  "editorialNote": "SHEIN's official page rules. We may earn a commission on purchases.",
   "relatedArticles": [
     {
       "slug": "is-shein-legit-and-safe",
@@ -126,7 +134,7 @@
     },
     {
       "slug": "shein-black-friday-dates-taxes",
-      "title": "SHEIN Brazil Black Friday 2026: when it starts, how long it lasts and the zero import tax up to US$ 50"
+      "title": "SHEIN Black Friday 2026: when it starts, how long it lasts and how coupons work"
     }
   ]
 }

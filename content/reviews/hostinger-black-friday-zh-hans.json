@@ -30,74 +30,69 @@
       "initials": "BL"
     }
   ],
-  "description": "Hostinger 黑色星期五活动从 2026 年 10 月 19 日到 12 月 14 日，依据该公司的官方 FAQ。优惠码 SONAR20 在活动价上再减 20%。这里说明续费价格，以及付款前如何在购物车核对。",
-  "metaDescription": "2026 Hostinger 黑色星期五：活动到 12 月 14 日，优惠码 SONAR20 在活动价上再减 20%。说明续费价格和付款前的核对方法。",
+  "description": "Hostinger 的黑色星期五从 2026 年 10 月 19 日持续到 12 月 14 日。优惠码 SONAR20 可在活动价的基础上再减 20%。这里有续费价格，以及付款前如何核对。",
+  "metaDescription": "Hostinger 黑色星期五 2026：活动从 10 月 19 日到 12 月 14 日，优惠码 SONAR20 在活动价上再减 20%。续费与核对方法。",
   "publishedAt": "2026年10月19日",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": false,
+  "isNew": true,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
-  "imageAlt": "OpenClaw、Hermes Agent 与 Paperclip 的标志，配上 Hostinger 标志、Black Friday 2026 标题与标签和日历图标",
+  "imageAlt": "OpenClaw、Hermes Agent 和 Paperclip 的徽标，配有 Hostinger 徽标、“Black Friday 2026”标题以及标签和日历图标",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Hostinger 官方 FAQ 在 2026 年 10 月 24 日查阅时，把黑色星期五活动定为 2026 年 10 月 19 日至 12 月 14 日。活动价自动显示；在购物车的优惠码栏输入 **SONAR20**，首个计费周期在活动价上再减 20%。我们没有测试续费，请在购物车确认续费价格。"
+        "是的，Hostinger 的黑色星期五已经开始，持续到 2026 年 12 月 14 日。活动价会自动生效，在购物车的优惠码栏输入代码 **SONAR20**，可在此基础上再减 20%。真正影响费用的是续费，下面会说明。"
       ]
     },
     {
-      "heading": "Hostinger 黑色星期五已经开始了吗？",
+      "heading": "Hostinger 的黑色星期五已经开始了吗？",
       "paragraphs": [
-        "是的，已经开始。2026 年 10 月 19 日查看时，Hostinger 官方 FAQ 写明黑色星期五促销从 2026 年 10 月 19 日到 12 月 14 日。2026 年 10 月 24 日，英文全球页面也显示同样的日期。如果你是之后才阅读，请到 Hostinger 网站确认当前日期。",
-        "Hostinger 的横幅在折扣数字前写着“最高”。那是范围的上限，并非每个套餐都有的折扣。各套餐的折扣请看你所在地区的价格页面。",
-        "本文只谈 2026 年的活动，过往的活动不纳入。我们查阅的来源给出的日期与折扣各不相同，而且都不是 Hostinger 自己的资料。"
+        "已经开始。Hostinger 官方 FAQ 写道：“Hostinger 黑色星期五促销从 2026 年 10 月 19 日持续到 12 月 14 日。”英文全球页面给出的日期相同。",
+        "网站托管页面的横幅写着“最高 82% 折扣”。这是横幅的上限，并非每个方案的折扣：48 个月的 Single 折扣是 80%。VPS 横幅写着“最高 70% 折扣”，VPS 不在本文的计算范围内，下面会说明。",
+        "以下数字只针对 2026 年的活动，取自官方页面。"
+      ],
+      "images": []
+    },
+    {
+      "heading": "活动价加 SONAR20 要付多少",
+      "postParagraphs": [
+        "折扣是在活动价的基础上计算的。在全球站点上，48 个月的 Startup 方案在优惠码栏（“Have a coupon code?”）输入 SONAR20 后，从 383.52 美元降到 306.82 美元。",
+        "代码贴在哪里，以及续费时折扣如何处理，见 [Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
       ]
     },
     {
-      "heading": "SONAR20 在活动价上再减 20%",
+      "heading": "谁该等，谁不必等",
       "paragraphs": [
-        "活动价会直接显示在页面上，SONAR20 在购物车里叠加在它之上：首个计费周期的价格再减 20%。2026 年 10 月 29 日，我们在 Hostinger 全球站做了测试：48 个月的 Startup 套餐，加入 SONAR20 前是 US$ 383.52，加入后是 US$ 306.82。也就是说，20% 是算在活动价上的。",
-        "我们只在 2026 年 10 月 19 日查看过巴西的公开价格，没有列出金额：价格因地区而异，活动期间也会变动。要知道你的价格，请到购物车确认首个周期的总价。续费我们没有测试，请在购物车确认续费价格。"
+        "如果这周就需要让网站上线，不要等。在我们核对过的 48 个月方案里，活动价加 SONAR20 已经是最低价。",
+        "如果可以等，要知道活动持续到 12 月中旬，但在那之前没有任何价格有保证。SONAR20 的 20% 是从活动价里减的：活动一变，总价也会跟着变。",
+        "对大多数个人、企业和 WordPress 网站，FAQ 本身推荐 Premium。Hostinger 建议刚起步或项目简单的用户选 Single。VPS 请在购物车里自己算：横幅写的是最高 70%，本文的计算不包含该方案。",
+        "如果你已经是客户，请查看账户里的升级优惠：FAQ 说现有客户可能会收到单独的优惠。SONAR20 也适用于新方案。负责本站的 Bruno 从 2024 年起就是 Hostinger 客户，订阅已超过 24 个月。他的方案有 Business 托管、VPS KVM 2、邮箱和域名，全部自动续费。Em Casa com Cecília 就运行在 Hostinger 上。"
       ]
     },
     {
-      "heading": "哪些人应该等，哪些人不必等",
-      "paragraphs": [
-        "如果你这周就需要网站上线，就不要等。活动已经在进行，SONAR20 还能在活动价上再减 20%。",
-        "如果可以等，活动会持续到 2026 年 12 月 14 日，但在此之前任何价格都不保证。SONAR20 的 20% 是算在活动价上的，所以活动价变动，折扣也会跟着变。只有在你预期该套餐的活动价会下降时，等待才有意义，而 Hostinger 没有给出任何时间表。",
-        "对大多数个人、企业与 WordPress 网站，Hostinger 的官方 FAQ 指向 Premium 套餐。页面将 Single 描述为适合初学者或简单项目的套餐。VPS 我们没有比较，也没有查看 VPS 价格。",
-        "如果你已经是客户，情况略有不同。FAQ 表示，现有客户可能收到独立的升级与交叉销售优惠。SONAR20 也可用于新购买的套餐；续费我们没有测试，请在购物车确认续费价格。管理本站的 Bruno 自 2024 年起就是 Hostinger 客户，套餐包括 Business 主机、VPS KVM 2、电子邮件与域名，全部自动续费。Em Casa com Cecília 网站也是架设在 Hostinger 上。"
-      ]
-    },
-    {
-      "heading": "付款前如何确认",
+      "heading": "付款前如何核对",
       "bullets": [
-        "从[本站的 Hostinger 商店页面](/zh-hans/coupons/hostinger)进入，选好套餐和周期。",
-        "进入购物车，在优惠码栏输入 SONAR20 并应用。",
-        "比较首个周期的总价，而不只是每月价格。总价才能看出实际差异。",
-        "下单前确认续费价格。Hostinger 会在付款前显示，而且那不是活动价。"
+        "打开[本站商店页面上的 Hostinger](/zh-hans/coupons/hostinger)，复制代码 SONAR20。",
+        "在购物车的优惠码栏粘贴 SONAR20，看到 20% 的折扣出现在活动价之上。",
+        "比较第一个周期的总价，而不只是每月价格。总价才能显示真实差别。",
+        "结账前先看续费价格。Hostinger 会在付款前显示，而且它不是活动价。SONAR20 的 20% 同样只适用于第一个周期。"
       ],
       "postParagraphs": [
-        "付款前，公司的评价与投诉见 [Hostinger 在 Trustpilot 的评分、投诉，以及 200 条评价说明了什么](/zh-hans/reviews/hostinger-trustpilot-reviews-zh-hans)；退款保障涵盖什么、不包括什么，见 [Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+        "付款前，保障涵盖什么、不涵盖什么，见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
       ]
     },
     {
       "heading": "常见问题",
       "bullets": [
-        "Hostinger 黑色星期五有优惠码吗？活动价自动显示。想在它上面再减 20%，在购物车输入 SONAR20。我们不引用其他网站的代码。",
-        "Hostinger 黑色星期五活动到什么时候？到 2026 年 12 月 14 日，依据 2026 年 10 月 24 日查看的官方 FAQ。",
-        "黑色星期五价格会延续到续费吗？它只适用于订阅的首个周期。我们没有测试续费，请在购物车确认续费价格。",
-        "SONAR20 可以和黑色星期五价格一起用吗？可以：2026 年 10 月 29 日的测试中，20% 是在活动价上扣的。价格会变，付款前请在购物车核对总价。",
-        "黑色星期五期间仍有退款保障吗？依据 FAQ，符合条件的套餐有 30 天保障，但有条款与例外。例外项目见 [Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
-      ]
-    },
-    {
-      "heading": "透明度说明",
-      "paragraphs": [
-        "使用 SONAR20 优惠码或通过本文链接购买，可能为 Bruno 带来佣金，你无需额外付费。Hostinger 是托管本站 Em Casa com Cecília 的公司。黑色星期五的日期与 FAQ 内容是 2026 年 10 月 19 日阅读的，并于 2026 年 10 月 24 日在英文全球黑色星期五页面上再次核对；SONAR20 的测试于 2026 年 10 月 29 日在全球站进行。我们读取的价格只有同一天在 Hostinger 巴西公开页面上看到的（未登录、未加入购物车），因为它们不适用于其他地区，所以不列入本文。价格与活动都会变动，请在付款前到购物车再次确认。"
+        "Hostinger 的黑色星期五有优惠码吗？活动价会自动生效，在购物车的优惠码栏输入代码 SONAR20，可在此基础上再减 20%。我们不提其他网站的代码。",
+        "Hostinger 的黑色星期五到什么时候？据官方 FAQ，到 12 月中旬；确切日期在文章开头。",
+        "黑色星期五的价格续费时还有效吗？没有。它只适用于订阅的首个周期。续费按方案的正常价格收取。",
+        "SONAR20 能和黑色星期五价格一起用吗？可以：在我们的测试中，20% 是从活动价里减的。由于价格会变，请在购物车里核对总价。",
+        "黑色星期五期间退款保障有效吗？FAQ 说符合条件的方案有 30 天保障，附带条款和例外。不涵盖的内容见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
       ]
     }
   ],
@@ -111,7 +106,7 @@
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你无需额外付费。活动价可能变化，付款前请在购物车核对。",
+  "editorialNote": "Hostinger 托管着本站。使用代码 SONAR20 或通过链接购买，Bruno 可能获得佣金，你无需多付任何费用。付款前请在购物车里核对总价。",
   "relatedArticles": [
     {
       "slug": "hostinger-trust-guide-zh-hans",
