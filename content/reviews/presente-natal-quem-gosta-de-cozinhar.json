@@ -33,7 +33,7 @@
     {
       "heading": "Até R$ 150: canecas Le Creuset, faca de churrasco e forma de bolo",
       "paragraphs": [
-        "Os presentes estão separados em quatro faixas de preço, com os preços de venda da Let's Eat It em 20/10/2026. Esta é a mais barata, com peças para o dia a dia da cozinha e do churrasco."
+        "Até R$ 150, o presente resolve o dia a dia da cozinha e do churrasco. Os preços são de venda da Let's Eat It em 20/10/2026."
       ],
       "comparisonTable": {
         "headers": [
@@ -134,7 +134,7 @@
         ]
       },
       "postParagraphs": [
-        "Os três eletroportáteis Ariete da linha Vintage vêm em 127 V, segundo a ficha de cada um. Antes de comprar, confira a voltagem da sua tomada. A mesma linha tem o processador Vintage Azul, de 250 W, 127 V, por R$ 299,00."
+        "Os três eletroportáteis Ariete da linha Vintage vêm em 127 V: confira a voltagem da sua tomada antes de comprar. A mesma linha tem o processador Vintage Azul, de 250 W, 127 V, por R$ 299,00."
       ],
       "images": [
         {
@@ -188,7 +188,7 @@
         ]
       },
       "postParagraphs": [
-        "O jogo de panelas Slim de cerâmica, de 5 peças, vermelho coral, da Ceraflame (R$ 919,90), ficou fora da tabela por causa da indução: a ficha diz que o modelo não é compatível com fogões de indução. Fora isso, a ficha diz que ele é 100% cerâmica e vai ao gás, ao elétrico, ao vitrocerâmico, ao forno convencional, ao micro-ondas, ao freezer e à lava-louças."
+        "O jogo de panelas Slim de cerâmica, de 5 peças, vermelho coral, da Ceraflame (R$ 919,90), ficou fora da tabela por causa da indução: a página diz que o modelo não é compatível com fogões de indução. Fora isso, ele é 100% cerâmica e vai ao gás, ao elétrico, ao vitrocerâmico, ao forno convencional, ao micro-ondas, ao freezer e à lava-louças."
       ],
       "images": [
         {
@@ -253,7 +253,7 @@
       ],
       "postParagraphs": [
         "A voltagem muda a compra: a batedeira é 127 V e a fritadeira é 220 V. Antes de pagar, confira a tensão da sua tomada.",
-        "Se a dúvida é se a Le Creuset compensa o preço, a análise está em [o artigo sobre a marca](/reviews/le-creuset-vale-a-pena). Aqui a descrição fica no que a ficha informa."
+        "Se a dúvida é se a Le Creuset compensa o preço, a análise está em [o artigo sobre a marca](/reviews/le-creuset-vale-a-pena). Aqui a descrição fica no que a página informa."
       ]
     },
     {
@@ -262,9 +262,9 @@
         "A escolha começa pelo que a pessoa faz na cozinha. Os exemplos são das faixas anteriores:"
       ],
       "bullets": [
-        "Quem está começando: a Espátula Clássica em Silicone Confeitaria Preta KitchenAid, R$ 129,90. A ficha diz ponta de silicone, cabo ABS, até 232 °C e lava-louças.",
+        "Quem está começando: a Espátula Clássica em Silicone Confeitaria Preta KitchenAid, R$ 129,90, com ponta de silicone e cabo ABS, até 232 °C e lava-louças.",
         "Quem faz churrasco: o Conjunto 4 peças para Churrasco Inox com Estojo L'Hermitage, R$ 232,90, com espátula vazada, garfo de duas pontas, pegador e escova. Para gastar menos, a Faca para Churrasco Beef Club Fracalanza sai por R$ 69,90, com lâmina de aço inox e 45 cm.",
-        "Quem assa: a Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm da Baker's Secret, R$ 62,90. Aço carbono, forno até 232 °C pela ficha e garantia de 6 meses.",
+        "Quem assa: a Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm da Baker's Secret, R$ 62,90, em aço carbono, para forno até 232 °C, com garantia de 6 meses.",
         "Quem já tem Le Creuset: o Ramekin Formato Coração Cerâmica 300 ml Vermelho, R$ 159,00. A ficha diz forno, micro-ondas, congelador e lava-louças, e a peça complementa a linha que a pessoa já usa."
       ],
       "images": [
@@ -333,5 +333,15 @@
       "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
       "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Leve pela faixa que cabe no bolso e pelo que a pessoa faz na cozinha.",
+      "Leve churrasco ou eletroportátil para quem já tem panela e utensílio básico."
+    ],
+    "skipIf": [
+      "Passe a pré-venda se o presente tem data.",
+      "Passe o eletroportátil sem conferir a voltagem da tomada."
+    ]
+  }
 }

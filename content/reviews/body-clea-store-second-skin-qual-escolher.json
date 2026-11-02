@@ -33,7 +33,7 @@
     {
       "heading": "Os 6 modelos lado a lado",
       "paragraphs": [
-        "A Cléa Store tem seis bodies Second Skin, em P, M e G, e este guia escolhe por uso, tamanho e preço, com os valores de 20/10/2026. Os seis são de 90% poliamida e 10% elastano, segundo a ficha. No Ombro Único, essa composição aparece só no texto da descrição, sem bloco de composição. O preço cheio da loja está entre parênteses."
+        "Os seis bodies saem do mesmo tecido, então a escolha é de corte e uso, com os valores de 20/10/2026. Os seis são de 90% poliamida e 10% elastano, segundo a loja. No Ombro Único, essa composição aparece só no texto da descrição, sem bloco de composição. O preço cheio da loja está entre parênteses."
       ],
       "comparisonTable": {
         "headers": [
@@ -157,7 +157,7 @@
     {
       "heading": "Como lavar os bodies Second Skin",
       "paragraphs": [
-        "A ficha dos bodies Gola Alta, Duplo, Frente Única, Decote Reversível e Cavado traz o mesmo bloco de cuidados. Segundo a loja:"
+        "Os bodies Gola Alta, Duplo, Frente Única, Decote Reversível e Cavado trazem o mesmo bloco de cuidados na página. A loja informa:"
       ],
       "bullets": [
         "Lavar somente à mão, até 40 °C",
@@ -169,20 +169,20 @@
         "Não limpar a seco"
       ],
       "postParagraphs": [
-        "A ficha informa 90% poliamida e 10% elastano nos seis modelos com este texto, incluindo o Ombro Único. O Ombro Único, porém, não traz bloco de cuidados na página. Nesse caso, vale seguir a etiqueta da própria peça."
+        "A página informa 90% poliamida e 10% elastano nos seis modelos, incluindo o Ombro Único. O Ombro Único, porém, não traz bloco de cuidados na página. Nesse caso, vale seguir a etiqueta da própria peça."
       ]
     },
     {
       "heading": "Avaliações públicas dos bodies Second Skin",
       "paragraphs": [
         "Na página do Body Gola Alta Manga Longa Second Skin, a avaliação da loja, feita pela Trustvox, mostrava na leitura nota 4,7 de 5, com 225 avaliações e 94% de recomendação. No Body Regata Second Skin Duplo, a mesma fonte mostrava nota 4,7 de 5, com 169 avaliações e 92% de recomendação, em leitura do dia anterior.",
-        "Esses números são de clientes, publicados pela própria loja, e não conferimos avaliação por avaliação. Nos outros quatro modelos (Frente Única, Decote Reversível, Cavado e Ombro Único), a nota não apareceu na leitura, então este texto não traz número para eles."
+        "São números de clientes, publicados pela própria loja. Nos outros quatro modelos (Frente Única, Decote Reversível, Cavado e Ombro Único), a nota não apareceu na leitura, então este texto não traz número para eles."
       ]
     },
     {
       "heading": "Qual escolher para cada uso",
       "paragraphs": [
-        "Gola Alta, Frente Única e Regata Cavado estão nas etiquetas abaixo, com o uso de cada um. Os outros três:",
+        "A escolha é pelo uso: frio, dia a dia ou noite. Gola Alta, Frente Única e Regata Cavado estão nas etiquetas abaixo, com o uso de cada um. Os outros três:",
         "**Com alfaiataria.** O Duplo e o Decote Reversível são indicados com alfaiataria. Para montar um look de trabalho com blazer, o [artigo sobre look de trabalho com alfaiataria feminina](/reviews/look-trabalho-alfaiataria-feminina-clea-store) é o caminho.",
         "**Ocasião.** O Ombro Único tem decote assimétrico e abertura nas costas, e a loja fala em visual moderno e sofisticado para diferentes ocasiões.",
         "**Dia a dia.** O Decote Reversível muda de look pela troca do decote, na frente ou nas costas. O Duplo combina com jeans e shorts."
@@ -244,7 +244,9 @@
             ]
           }
         ]
-      }
+      },
+      "emphasis": "Se fosse para a minha casa, eu levaria o Regata Cavado, porque é o mais barato e resolve o dia a dia.",
+      "emphasisAfterParagraph": 4
     },
     {
       "heading": "Cupom CSEMCASACOMCECILIA no body: quanto fica",
@@ -280,6 +282,18 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o Gola Alta se você quer um body de manga longa para o frio ou para usar com blazer.",
+      "Leve o Regata Cavado se você quer o mais barato para o dia a dia.",
+      "Leve a Frente Única ou o Ombro Único se você quer decote para a noite."
+    ],
+    "skipIf": [
+      "Passe nos bodies de decote se você não quer decote na frente ou nas costas: fique no Gola Alta ou no Duplo, de gola alta.",
+      "Passe se você veste fora do P, M e G: os seis modelos só vêm nesses tamanhos.",
+      "Passe se você quer o kit de três peças em outro modelo: só o Gola Alta e o Duplo têm."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

@@ -136,13 +136,13 @@
         "**Probiótica Zero Lactose 900 g:** a página declara \"contém derivados de leite\" e \"pode conter soja e ovo\". Apesar do nome, o alergênico de leite está no rótulo.",
         "**Growth Whey Concentrado, sabor Natural:** proteína de soro do leite concentrada e lecitina. A página declara que contém derivados de soja e de leite, contém lactose e não contém glúten.",
         "**Creatina Monohidratada Pura 300 g (Probiótica):** creatina monohidratada e dióxido de silício como antiumectante. A página diz \"não contém glúten\" e declara que pode conter derivados de leite, de ovo e de soja.",
-        "**Creatina Monohidratada 250 g (Growth):** creatina monohidratada, sem glúten segundo a página. Se você tem restrição a leite, soja, ovo ou glúten, confira o alergênico do sabor exato antes de comprar."
+        "**Creatina Monohidratada 250 g (Growth):** creatina monohidratada, a página diz sem glúten. Se você tem restrição a leite, soja, ovo ou glúten, confira o alergênico do sabor exato antes de comprar."
       ]
     },
     {
       "heading": "Creatina: preço por 100 g",
       "paragraphs": [
-        "A creatina da Probiótica de 300 g tem 60 porções de 5 g pela tabela, e a Growth tem 250 g, com 50 porções, e dois tamanhos de 500 g, com 100 porções cada, todos com 5 g por dose. A creatina de 100 g da Probiótica ficou fora da conta: é a mais cara por grama, com R$ 32,87 por 100 g no Pix."
+        "Na creatina, o refil de 500 g da Growth tem a menor conta, e a Probiótica de 300 g só encosta com o cupom no teto. A creatina da Probiótica de 300 g tem 60 porções de 5 g pela tabela, e a Growth tem 250 g, com 50 porções, e dois tamanhos de 500 g, com 100 porções cada, todos com 5 g por dose. A creatina de 100 g da Probiótica ficou fora da conta: é a mais cara por grama, com R$ 32,87 por 100 g no Pix."
       ],
       "comparisonTable": {
         "headers": [
@@ -234,6 +234,7 @@
     },
     {
       "heading": "Quem escolhe o quê",
+      "emphasis": "Pelos números da tabela, para quem compra pelo menor preço por grama a escolha é a Growth no whey e na creatina, porque ganha sem cupom.",
       "bullets": [
         "**Quer o menor preço por 100 g de proteína no whey:** Growth Whey Concentrado de 1 kg, com R$ 26,34 no Pix.",
         "**Quer a linha Zero Lactose:** a Probiótica é a única das duas com essa linha nesta conta. Leia o alergênico de leite no rótulo antes de comprar.",
@@ -252,6 +253,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Growth se o preço por grama é o que decide e você não quer depender de cupom.",
+      "Leve a Probiótica se você quer a linha Zero Lactose, lendo o alergênico de leite no rótulo.",
+      "Leve a Probiótica se você quer Creapure: só ela declara o selo nesta conta."
+    ],
+    "skipIf": [
+      "Passe na Probiótica sem cupom se o preço por grama decide: a Growth fica abaixo em todas as linhas de whey.",
+      "Passe na creatina de 100 g da Probiótica: ela é a mais cara por grama."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

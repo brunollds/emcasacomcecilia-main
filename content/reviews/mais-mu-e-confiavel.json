@@ -59,7 +59,7 @@
       "heading": "O que a Mais Mu vende",
       "paragraphs": [
         "A loja vende whey concentrado, proteína vegetal, creatina, o pré-treino Exquenta, barras, Chocowheyfer, bebidas proteicas e snacks salgados.",
-        "Este texto não avalia os produtos. Saber se um whey ou uma creatina é bom pediria laudo ou teste, e não temos nenhum dos dois. O que dá para conferir aqui é quem vende, se o site é o oficial e o que acontece se você precisar trocar.",
+        "Este texto não avalia os produtos. O que dá para conferir aqui é quem vende, se o site é o oficial e o que acontece se você precisar trocar.",
         "O site também indica lojas físicas que vendem a marca, em um mapa. A página não traz os nomes das lojas."
       ],
       "images": [
@@ -75,7 +75,7 @@
     {
       "heading": "Trocas e devolução",
       "paragraphs": [
-        "As regras de troca e devolução estão na FAQ da loja:"
+        "A troca começa por e-mail, com o produto fechado, e a loja paga o recolhimento:"
       ],
       "comparisonTable": {
         "headers": [
@@ -109,7 +109,7 @@
     {
       "heading": "Reembolso e estorno",
       "paragraphs": [
-        "O prazo do dinheiro de volta muda conforme a forma de pagamento:"
+        "O prazo do dinheiro de volta muda com a forma de pagamento:"
       ],
       "bullets": [
         "Pix e boleto: reembolso em até 7 dias úteis depois do envio dos dados bancários.",
@@ -122,7 +122,7 @@
     {
       "heading": "Frete e pagamento",
       "paragraphs": [
-        "O frete grátis depende da região. O site dava frete grátis a partir dos valores abaixo:"
+        "O frete grátis vale acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste:"
       ],
       "comparisonTable": {
         "headers": [
@@ -196,7 +196,7 @@
   },
   "coupon": "MMEMCASACOMCECILIA",
   "affiliate": "mais-mu",
-  "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
+  "editorialNote": "Feito com fontes públicas, sem laudo nem teste dos produtos. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
   "relatedArticles": [
     {
       "slug": "mais-mu-reclame-aqui-nota-reputacao",

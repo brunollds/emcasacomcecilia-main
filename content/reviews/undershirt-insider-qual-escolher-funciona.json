@@ -33,7 +33,7 @@
     {
       "heading": "Qual nível escolher",
       "paragraphs": [
-        "A tabela resume o que a loja publica para cada peça. Os estoques são do dia da leitura."
+        "A escolha é pelo nível de transpiração: leve, moderado ou excessivo. A tabela resume o que a loja publica para cada peça, e os estoques são do dia da leitura."
       ],
       "comparisonTable": {
         "headers": [
@@ -68,7 +68,7 @@
         ]
       },
       "postParagraphs": [
-        "Na dúvida entre Leve e Moderado, a diferença que a página mostra é o nível indicado e a camada dupla nas axilas. A marca não diz em que ponto um nível passa para o outro, e este texto também não diz.",
+        "Na dúvida entre Leve e Moderado, o que a página mostra é o nível indicado e a camada dupla nas axilas; a marca não diz onde um nível vira o outro.",
         "Se a dúvida é a Insider em si, e não o nível, leia [Insider vale a pena?](/reviews/insider-vale-a-pena). O texto compara a Tech T-Shirt e as cuecas com outras marcas."
       ]
     },
@@ -77,7 +77,7 @@
       "paragraphs": [
         "Pelo que a loja publica, a construção muda nas axilas. O Moderado tem camada dupla nessa região, \"para maior proteção\". O Block tem reforço impermeável nas axilas, segundo a marca. A Leve não declara nem uma coisa nem outra.",
         "A composição do Moderado e do Block é a mesma: 88% modal e 12% elastano. A Leve é 88% TENCEL Modal e 12% elastano. Segundo as páginas, as três usam o tecido SOFTOUCH.",
-        "A marca também descreve as três como anti odor, com a frase \"desfavorável à proliferação de bactérias\". A loja não diz que a peça elimina o cheiro, e este texto também não diz.",
+        "A marca descreve as três como anti odor, \"desfavorável à proliferação de bactérias\", mas não diz que a peça elimina o cheiro.",
         "A loja apresenta a peça para usar por baixo da camisa social."
       ],
       "images": [
@@ -198,7 +198,7 @@
       },
       "postParagraphs": [
         "Sem cupom, cada peça do kit sai por R$ 137,71 (R$ 413,12 divididos por três). A conta por peça é nossa, feita sobre o preço do próprio kit.",
-        "O cupom EMCASACOMCECILIA dá 15% na loja online. Ele vale uma vez por pedido e soma com o Pix e com as outras formas de pagamento. O Pix tem desconto próprio na loja, mas o percentual muda entre a barra do site e os banners, então não o citamos aqui.",
+        "O cupom EMCASACOMCECILIA dá 15% na loja online. Ele vale uma vez por pedido e soma com o Pix e com as outras formas de pagamento. O Pix tem desconto próprio, mas o percentual muda no site: confira no checkout.",
         "No teste no checkout, o desconto apareceu num kit de cuecas com preço promocional. Antes de pagar, confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout. Se o pedido junta undershirt e cueca boxer, cada item tem a sua linha.",
         "A página do Moderado também mostra desconto por quantidade no seletor. Os valores mudam; confira no produto.",
         "Regras e código do cupom estão em [cupom Insider: EMCASACOMCECILIA](/cupons/insider).",
@@ -244,7 +244,9 @@
         "Suor moderado: Moderado. Tem camada dupla na região das axilas e sai em bege, preta e branca, com gola V ou U.",
         "Suor excessivo: Block, com reforço impermeável nas axilas, segundo a marca. Na leitura, estava esgotado.",
         "Nos três casos, acerte o tamanho antes de comprar, porque a undershirt não é trocada por tamanho."
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria o Moderado, porque tem camada dupla nas axilas e sai em três cores.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Troca e cuidados",
@@ -274,6 +276,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Leve se o suor é leve e você aceita só bege, com gola V.",
+      "Leve o Moderado se o suor é moderado e você quer camada dupla nas axilas e três cores.",
+      "Leve o Block se o suor é excessivo e você quer o reforço impermeável nas axilas que a marca indica."
+    ],
+    "skipIf": [
+      "Passe se você espera que a peça trate ou elimine o suor: ela não trata, e o suor excessivo é caso de dermatologista.",
+      "Passe se o tamanho está em dúvida: a undershirt não troca por tamanho."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

@@ -45,6 +45,8 @@
     },
     {
       "heading": "Comum ou proteico: o que muda no rótulo",
+      "emphasis": "Pelos números da tabela, para quem quer mais proteína por unidade a escolha é o proteico, porque ele tem 5 g ou 6 g contra 1,6 g a 2 g do comum.",
+      "emphasisAfterParagraph": 2,
       "paragraphs": [
         "A diferença está na proteína. Os comuns têm de 1,6 g a 2 g de proteína por unidade. Os proteicos têm 5 g ou 6 g, porque a massa leva proteínas isoladas de soja, arroz e, em alguns sabores, ervilha. Os comuns usam farinha de arroz, amido de milho e fécula de mandioca.",
         "O carboidrato muda menos. Os comuns têm de 16 g a 22 g por unidade, e os proteicos, de 13 g a 18 g. As calorias ficam entre 121 kcal e 144 kcal nos oito. O proteico custa R$ 1,00 a mais na unidade e R$ 0,93 a mais por unidade no kit, em relação aos comuns de R$ 6,97."
@@ -69,7 +71,7 @@
     {
       "heading": "O rótulo dos oito sabores",
       "paragraphs": [
-        "Valores por unidade de 40 g, lidos nas tabelas nutricionais das páginas de produto."
+        "Todos têm 0 g de açúcares adicionados; o que muda é proteína e carboidrato. Valores por unidade de 40 g, lidos nas tabelas das páginas de produto."
       ],
       "comparisonTable": {
         "headers": [
@@ -154,7 +156,7 @@
     {
       "heading": "Preço por unidade e no kit de 10",
       "paragraphs": [
-        "Preços do site oficial em 17/10/2026, sem o cupom. O preço por unidade no kit é a conta nossa: o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
+        "O proteico custa mais por unidade e no kit. Preços do site oficial em 17/10/2026, sem o cupom; o preço por unidade no kit é a conta nossa, o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
       ],
       "image": {
         "src": "/images/reviews/belive/belive-kit-10-brownies-chocolate-pagina-2026-10-19.webp",
@@ -289,6 +291,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você quer mais proteína por unidade: o proteico traz 5 g ou 6 g, contra 1,6 g a 2 g do comum.",
+      "Você quer 0 g de açúcares adicionados: vale para os oito sabores."
+    ],
+    "skipIf": [
+      "Você quer só o doce, sem foco em proteína: aí é o comum, com preço menor na unidade.",
+      "Você quer pouco carboidrato: os oito têm de 13 g a 22 g por unidade.",
+      "Você procura o Sem Lactose pelo nome parecido: ele não é sem açúcar."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

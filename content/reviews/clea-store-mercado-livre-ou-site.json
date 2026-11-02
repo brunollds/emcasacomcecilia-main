@@ -33,7 +33,7 @@
     {
       "heading": "Os 7 anúncios do Mercado Livre e as 41 peças do site",
       "paragraphs": [
-        "Este guia compara o preço da Cléa Store no Mercado Livre e no site, onde vale o cupom CSEMCASACOMCECILIA, com os dados lidos nos dois lugares. A loja oficial no Mercado Livre tem só 7 anúncios, os kits de t-shirt e os bodies mais vendidos; nas categorias que lemos, o site tem 41 peças, com toda a alfaiataria. A conclusão está em Como escolher, no fim do texto.",
+        "O essencial sai mais barato no Mercado Livre; a variedade está só no site, com o cupom CSEMCASACOMCECILIA. A loja oficial no Mercado Livre tem só 7 anúncios, os kits de t-shirt e os bodies mais vendidos; nas categorias que lemos, o site tem 41 peças, com toda a alfaiataria. A conclusão está em Como escolher, no fim do texto.",
         "Na loja oficial da Cléa no Mercado Livre (vendedor Clea Oficial, reputação 4,9), estes eram os anúncios em 20/10/2026:"
       ],
       "bullets": [
@@ -46,13 +46,13 @@
         "Body Tule Gola Alta Second Skin"
       ],
       "postParagraphs": [
-        "São as peças de base da marca. O resto do catálogo fica só no site, e é lá que está a diversidade da loja: mais modelos de body, mais kits de t-shirt, mais cores do mesmo modelo e a alfaiataria inteira. A seção seguinte mostra o que muda."
+        "São as peças de base da marca. O resto fica só no site: mais bodies, mais kits, mais cores e a alfaiataria inteira."
       ]
     },
     {
       "heading": "O que só o site tem",
       "paragraphs": [
-        "Nas categorias do site que lemos, contamos 41 peças. Destas, só as 7 acima aparecem no Mercado Livre. O que está só no site:"
+        "O site tem 41 peças nas categorias lidas, e só 7 estão no Mercado Livre. O que está só no site:"
       ],
       "bullets": [
         "Alfaiataria: blazers, entre eles o [Risca de Giz Cinza](https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282) e os oversized [Bordô](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-bordo-4305) e [Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307), coletes, bermuda e calças de alfaiataria.",
@@ -182,7 +182,8 @@
       ],
       "postParagraphs": [
         "O cupom CSEMCASACOMCECILIA tira 10% no site e o cashback da loja soma com ele. O preço do Mercado Livre muda rápido: o que hoje sai mais barato lá pode ficar igual ou mais caro que o site com o cupom em poucos dias, então confira os dois antes de comprar."
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria o essencial no Mercado Livre e a alfaiataria no site, porque cada lado ganha no seu preço do dia."
     },
     {
       "heading": "Perguntas frequentes",
@@ -195,6 +196,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve no Mercado Livre se você quer t-shirt avulsa, Kit Intense, Kit Colorful, Body Duplo ou Gola Alta: compare o anúncio do dia.",
+      "Leve no site se você quer o Kit Classic, alfaiataria ou outro modelo de body."
+    ],
+    "skipIf": [
+      "Passe no Mercado Livre se você quer usar o cupom: ele só vale no site.",
+      "Passe no Mercado Livre se você quer a devolução grátis da Cléa: ela vale nas compras do site."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

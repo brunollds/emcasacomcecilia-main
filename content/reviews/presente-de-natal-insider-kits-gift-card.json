@@ -451,7 +451,7 @@
       "heading": "Cupom EMCASACOMCECILIA no presente",
       "paragraphs": [
         "O cupom EMCASACOMCECILIA dá 15% de desconto na loja online. Ele vale para um pedido por vez e não soma com outro cupom. Vale com todas as formas de pagamento, inclusive o Pix, e soma com as promoções, salvo quando a promoção disser o contrário. Na loja física, ele não vale. A [página do cupom](/cupons/insider) tem o código para copiar.",
-        "Quem presenteia costuma perguntar se o cupom entra no kit. Num teste de checkout, a linha do código apareceu em kit com preço promocional. Por isso, a regra é conferir a linha de cada item no checkout, não confiar na etiqueta do produto. O [passo a passo do cupom](/reviews/cupom-emcasacomcecilia-insider-store-como-usar) mostra onde ele aparece.",
+        "O cupom entra no kit? Num teste de checkout, a linha do código apareceu em kit com preço promocional. Por isso, a regra é conferir a linha de cada item no checkout, não confiar na etiqueta do produto. O [passo a passo do cupom](/reviews/cupom-emcasacomcecilia-insider-store-como-usar) mostra onde ele aparece.",
         "O cupom não entra em pedido pago com gift card, como visto acima.",
         "Não sabemos de cupom de Natal separado. Para o presente, o código que temos é o EMCASACOMCECILIA.",
         "Algumas promoções dão brinde em compras acima de um valor. A loja diz que a regra muda sem aviso e que a promoção pode acabar a qualquer momento. O brinde não é trocado separadamente, e o gift card fica fora dessa campanha."
@@ -460,9 +460,11 @@
     {
       "heading": "Qual caminho escolher",
       "paragraphs": [
-        "O kit de presente serve a quem quer entregar algo pronto: são 24 kits \"Kit Presente\", de R$ 208,80 a R$ 583,62 no preço do dia, e dois deles têm cueca boxer. O gift card virtual, de R$ 50 a R$ 1.000, serve a quem não sabe o tamanho, porque cueca, calcinha e sutiã só trocam por defeito. Vale lembrar que o cupom EMCASACOMCECILIA não entra em pedido pago com gift card.",
+        "O kit de presente serve a quem quer entregar algo pronto: são 24 kits \"Kit Presente\", de R$ 208,80 a R$ 583,62 no preço do dia, e dois deles têm cueca boxer. O gift card virtual, de R$ 50 a R$ 1.000, serve a quem não sabe o tamanho, porque cueca, calcinha e sutiã só trocam por defeito, mas o cupom EMCASACOMCECILIA não entra em pedido pago com gift card.",
         "Para chegar antes do Natal, a data limite do pedido depende da cidade: a tabela da seção \"Até quando pedir\" traz o dia de cada capital."
-      ]
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria o gift card quando não sei o tamanho, porque cueca e íntimo só trocam por defeito.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Perguntas frequentes",
@@ -476,6 +478,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve um kit pronto se você sabe o tamanho de quem vai receber.",
+      "Leve o gift card virtual se você não sabe o tamanho."
+    ],
+    "skipIf": [
+      "Passe no gift card se você quer usar o cupom com o saldo: pedido pago com gift card não aceita cupom.",
+      "Passe na cueca, calcinha ou sutiã de presente se não tem certeza do tamanho: só trocam por defeito."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
