@@ -45,3 +45,26 @@ test('ignora imports para fora de scripts/, como o índice gerado em src/', (t) 
   });
   assert.deepEqual(findMissingBuildChainFiles(root), []);
 });
+
+test('ignora o import escrito como texto, como o do arquivo gerado pelo build-index', (t) => {
+  const root = project(t, 'node scripts/content/a.mjs', {
+    'scripts/content/a.mjs': [
+      "import { b } from '../b.mjs';",
+      `writeFileSync('x.ts', "import type { T } from '../storeBanners';\\n");`,
+      'const y = `import { z } from "./z";`;',
+      '',
+    ].join('\n'),
+    'scripts/b.mjs': 'export const b = 1;\n',
+  });
+  assert.deepEqual(findMissingBuildChainFiles(root), []);
+});
+
+test('o import de várias linhas e o dinâmico seguem contando', (t) => {
+  const root = project(t, 'node scripts/a.mjs', {
+    'scripts/a.mjs': "import {\n  a,\n  b,\n} from './sumiu-estatico.mjs';\nconst m = await import('./sumiu-dinamico.mjs');\n",
+  });
+  assert.deepEqual(findMissingBuildChainFiles(root), [
+    'scripts/sumiu-dinamico.mjs (importado por scripts/a.mjs)',
+    'scripts/sumiu-estatico.mjs (importado por scripts/a.mjs)',
+  ]);
+});

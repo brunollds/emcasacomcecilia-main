@@ -2,7 +2,9 @@ import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 
 const SCRIPT_IN_BUILD = /(?:^|[\s&;|(])((?:\.\/)?scripts\/[\w./-]+\.(?:mjs|cjs|js|ts|mts))(?=$|[\s&;|)])/g;
-const RELATIVE_IMPORT = /(?:\bfrom\s+|\bimport\s*\(?\s*)['"](\.{1,2}\/[^'"]+)['"]/g;
+// O import só conta fora de string: na mesma linha, nenhuma aspa antes dele. O build-index escreve o texto
+// "import type { StoreBanner } from '../storeBanners'" no arquivo gerado, e esse import não é dele.
+const RELATIVE_IMPORT = /^[^'"`\n]*?(?:\bfrom\s+|\bimport\s*\(?\s*)['"](\.{1,2}\/[^'"]+)['"]/gm;
 const EXTENSIONS = ['', '.ts', '.mts', '.mjs', '.js', '.cjs', '.json', '/index.ts', '/index.mjs', '/index.js'];
 
 function resolveImport(fromFile, specifier) {
