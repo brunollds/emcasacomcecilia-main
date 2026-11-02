@@ -112,7 +112,11 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
 
           <section aria-labelledby="cupons-da-loja" className="@container">
             <SectionHeading id="cupons-da-loja">{resolved.promosSectionTitle}</SectionHeading>
-            <p className={`mt-4 ${BODY_TEXT}`}>{resolved.promosIntro}</p>
+            <p className={`mt-4 ${BODY_TEXT}`}>
+              {resolved.promosIntro.before}
+              <strong className="marca-texto font-extrabold text-marinho">{resolved.promosIntro.highlight}</strong>
+              {resolved.promosIntro.after}
+            </p>
             {resolved.activePromoOffers.length > 0 ? (
               // Duas colunas só quando cada cartão fica com uns 330px; com menos, cada faixa de desconto
               // quebra em duas linhas. Entre 1024 e 1140px, com o recorte do lado, fica uma coluna só.
