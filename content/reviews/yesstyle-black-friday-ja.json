@@ -118,8 +118,8 @@
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-        "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-        "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+        "alt": "YesStyleの注文金額別割引を示す階段グラフ。US$ 79未満は0%、US$ 79から8%、US$ 149から10%、US$ 199から15%で、US$ 0からの15%に点線が引かれている",
+        "caption": "緑の線が段階式クーポンです。US$ 79から8%、US$ 149から10%、US$ 199から15%。点線は最低金額なしの15%の日です。イラスト：Em Casa com Cecília。",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
@@ -136,8 +136,8 @@
       ],
       "image": {
         "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-        "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-        "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+        "alt": "YesStyleのチェックアウトの「コードを入力」画面。クーポン欄にクーポン、インフルエンサー／リワードコード欄にCECILIA010が入っている",
+        "caption": "チェックアウトの2つの欄：上がその日のクーポン、下のリワードコード欄にCECILIA010。",
         "objectFit": "contain",
         "aspectRatio": 1.5962
       },
@@ -188,14 +188,7 @@
       "heading": "配送と税金",
       "paragraphs": [
         "送料と配送日数はチェックアウトに表示され、クーポンは送料には使えません。荷物が到着時に課税された場合、YesStyleは、US$1,000未満の注文にかかった税金と関税を、ストアクレジットで返金します。ストアが配送について公開している内容と、返金の申請方法は、[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。"
-      ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-        "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-        "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-        "objectFit": "contain",
-        "aspectRatio": 3.5907
-      }
+      ]
     },
     {
       "heading": "カートの例：Abibのルーティン",

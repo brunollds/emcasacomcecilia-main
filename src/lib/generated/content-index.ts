@@ -57372,8 +57372,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-          "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-          "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+          "alt": "Step chart of the discount by order value at YesStyle: 0% up to US$ 79, 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199, with a dashed line at 15% from US$ 0",
+          "caption": "The green line is the tiered coupon: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. The dashed line shows the 15% days with no minimum. Illustration by Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -57390,8 +57390,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-          "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-          "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+          "alt": "YesStyle checkout Enter Code window, with a coupon in the Coupon field and CECILIA010 in the Influencer/Reward Code field",
+          "caption": "The two checkout fields: the day's coupon on top and CECILIA010 in the Reward Code field.",
           "objectFit": "contain",
           "aspectRatio": 1.5962
         },
@@ -57442,14 +57442,7 @@ export const reviewsData: unknown[] = [
         "heading": "Delivery and taxes",
         "paragraphs": [
           "Shipping and delivery time appear at checkout, and the coupon does not discount shipping. If the package is taxed on arrival, YesStyle refunds the taxes and customs fees on orders under US$ 1,000, as store credit. What the store publishes about delivery and how to ask for the refund is in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-          "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-          "objectFit": "contain",
-          "aspectRatio": 3.5907
-        }
+        ]
       },
       {
         "heading": "A cart idea: the Abib routine",
@@ -57645,8 +57638,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-          "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-          "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+          "alt": "Gráfico escalonado del descuento según el valor del pedido en YesStyle: 0% hasta US$ 79, 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199, con una línea discontinua en 15% desde US$ 0",
+          "caption": "La línea verde es el cupón por tramos: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. La discontinua son los días de 15% sin mínimo. Ilustración de Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -57663,8 +57656,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-          "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-          "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+          "alt": "Ventana Introducir código del checkout de YesStyle, con un cupón en el campo Cupón y CECILIA010 en el campo del código de influencer/recompensa",
+          "caption": "Los dos campos del checkout: el cupón del día arriba y CECILIA010 en el campo del código de recompensa.",
           "objectFit": "contain",
           "aspectRatio": 1.5962
         },
@@ -57715,14 +57708,7 @@ export const reviewsData: unknown[] = [
         "heading": "Envío e impuestos",
         "paragraphs": [
           "El envío y el plazo aparecen en el checkout, y el cupón no descuenta el envío. Si el paquete paga impuestos al llegar, YesStyle reembolsa los impuestos y las tasas de aduana en pedidos de menos de US$ 1.000, como crédito en la tienda. Lo que la tienda publica sobre el envío y cómo pedir el reembolso está en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-          "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-          "objectFit": "contain",
-          "aspectRatio": 3.5907
-        }
+        ]
       },
       {
         "heading": "Una idea de carrito: la rutina de Abib",
@@ -57918,8 +57904,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-          "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-          "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+          "alt": "Graphique en escalier de la réduction selon le montant de la commande sur YesStyle : 0 % jusqu'à 79 US$, 8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$, avec une ligne pointillée à 15 % dès 0 US$",
+          "caption": "La ligne verte est le coupon par palier : 8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$. La ligne pointillée correspond aux jours à 15 % sans minimum. Illustration d'Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -57936,8 +57922,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-          "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-          "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+          "alt": "Fenêtre « Saisir un code » du paiement YesStyle, avec un coupon dans le champ Coupon et CECILIA010 dans le champ du code influenceur/récompense",
+          "caption": "Les deux champs du paiement : le coupon du jour en haut et CECILIA010 dans le champ du code récompense.",
           "objectFit": "contain",
           "aspectRatio": 1.5962
         },
@@ -57988,14 +57974,7 @@ export const reviewsData: unknown[] = [
         "heading": "Livraison et taxes",
         "paragraphs": [
           "Les frais de port et le délai s'affichent à la page de paiement, et le coupon ne réduit pas les frais de port. Si le colis est taxé à l'arrivée, YesStyle rembourse les taxes et les droits de douane sur les commandes de moins de 1 000 US$, sous forme de crédit en boutique. Ce que la boutique publie sur la livraison et la façon de demander le remboursement se trouve dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-          "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-          "objectFit": "contain",
-          "aspectRatio": 3.5907
-        }
+        ]
       },
       {
         "heading": "Une idée de panier : la routine Abib",
@@ -58191,8 +58170,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-          "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-          "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+          "alt": "Stufendiagramm des Rabatts nach Bestellwert bei YesStyle: 0 % bis US$ 79, 8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199, mit einer gestrichelten Linie bei 15 % ab US$ 0",
+          "caption": "Die grüne Linie ist der Staffelgutschein: 8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199. Die gestrichelte Linie zeigt die 15-%-Tage ohne Mindestbestellwert. Illustration von Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -58209,8 +58188,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-          "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-          "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+          "alt": "Fenster „Code eingeben“ im YesStyle-Checkout, mit einem Gutschein im Feld Coupon und CECILIA010 im Feld für den Influencer-/Reward Code",
+          "caption": "Die beiden Felder im Checkout: oben der Gutschein des Tages, darunter CECILIA010 im Feld für den Reward Code.",
           "objectFit": "contain",
           "aspectRatio": 1.5962
         },
@@ -58261,14 +58240,7 @@ export const reviewsData: unknown[] = [
         "heading": "Lieferung und Steuern",
         "paragraphs": [
           "Versand und Lieferzeit erscheinen im Checkout, und der Gutschein mindert den Versand nicht. Wird das Paket bei der Ankunft besteuert, erstattet YesStyle die Steuern und Zollgebühren bei Bestellungen unter US$ 1.000 als Guthaben im Shop. Was der Shop zur Lieferung veröffentlicht und wie man die Erstattung beantragt, steht im [Lieferratgeber zu YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-          "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-          "objectFit": "contain",
-          "aspectRatio": 3.5907
-        }
+        ]
       },
       {
         "heading": "Eine Warenkorb-Idee: die Abib-Routine",
@@ -58464,8 +58436,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-          "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-          "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+          "alt": "Grafico a gradini dello sconto in base al valore dell'ordine su YesStyle: 0% fino a US$ 79, 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199, con una linea tratteggiata al 15% da US$ 0",
+          "caption": "La linea verde è il coupon a scaglioni: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Quella tratteggiata indica i giorni del 15% senza minimo. Illustrazione di Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -58482,8 +58454,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-          "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-          "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+          "alt": "Finestra Inserisci codice del checkout di YesStyle, con un coupon nel campo Coupon e CECILIA010 nel campo del codice influencer/ricompensa",
+          "caption": "I due campi del checkout: il coupon del giorno in alto e CECILIA010 nel campo del codice ricompensa.",
           "objectFit": "contain",
           "aspectRatio": 1.5962
         },
@@ -58534,14 +58506,7 @@ export const reviewsData: unknown[] = [
         "heading": "Consegna e tasse",
         "paragraphs": [
           "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se il pacco viene tassato all'arrivo, YesStyle rimborsa le tasse e i dazi doganali sugli ordini sotto i US$ 1.000, come credito nel negozio. Ciò che il negozio pubblica sulla consegna e come chiedere il rimborso è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-          "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-          "objectFit": "contain",
-          "aspectRatio": 3.5907
-        }
+        ]
       },
       {
         "heading": "Un'idea di carrello: la routine Abib",
@@ -58737,8 +58702,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-          "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-          "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+          "alt": "YesStyle의 주문 금액별 할인을 보여 주는 계단형 그래프: US$ 79까지 0%, US$ 79부터 8%, US$ 149부터 10%, US$ 199부터 15%이며, US$ 0부터 15%에 점선이 있다",
+          "caption": "초록색 선이 구간별 쿠폰입니다. US$ 79부터 8%, US$ 149부터 10%, US$ 199부터 15%입니다. 점선은 최소 금액 없는 15% 할인일입니다. 일러스트: Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -58755,8 +58720,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-          "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-          "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+          "alt": "YesStyle 결제 화면의 '코드 입력' 창. 쿠폰 칸에는 쿠폰이, 인플루언서/리워드 코드 칸에는 CECILIA010이 입력되어 있다",
+          "caption": "결제 화면의 두 칸: 위는 그날의 쿠폰, 아래 리워드 코드 칸에는 CECILIA010.",
           "objectFit": "contain",
           "aspectRatio": 1.5962
         },
@@ -58807,14 +58772,7 @@ export const reviewsData: unknown[] = [
         "heading": "배송과 세금",
         "paragraphs": [
           "배송비와 배송 기간은 결제 화면에 나오고, 쿠폰은 배송비에는 적용되지 않습니다. 도착했을 때 소포에 세금이 붙으면, YesStyle은 US$ 1,000 미만 주문의 세금과 관세를 스토어 크레딧으로 환급합니다. 스토어가 배송에 대해 공개한 내용과 환급 신청 방법은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-          "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-          "objectFit": "contain",
-          "aspectRatio": 3.5907
-        }
+        ]
       },
       {
         "heading": "장바구니 아이디어: Abib 루틴",
@@ -59010,8 +58968,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-          "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-          "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+          "alt": "YesStyleの注文金額別割引を示す階段グラフ。US$ 79未満は0%、US$ 79から8%、US$ 149から10%、US$ 199から15%で、US$ 0からの15%に点線が引かれている",
+          "caption": "緑の線が段階式クーポンです。US$ 79から8%、US$ 149から10%、US$ 199から15%。点線は最低金額なしの15%の日です。イラスト：Em Casa com Cecília。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -59028,8 +58986,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-          "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-          "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+          "alt": "YesStyleのチェックアウトの「コードを入力」画面。クーポン欄にクーポン、インフルエンサー／リワードコード欄にCECILIA010が入っている",
+          "caption": "チェックアウトの2つの欄：上がその日のクーポン、下のリワードコード欄にCECILIA010。",
           "objectFit": "contain",
           "aspectRatio": 1.5962
         },
@@ -59080,14 +59038,7 @@ export const reviewsData: unknown[] = [
         "heading": "配送と税金",
         "paragraphs": [
           "送料と配送日数はチェックアウトに表示され、クーポンは送料には使えません。荷物が到着時に課税された場合、YesStyleは、US$1,000未満の注文にかかった税金と関税を、ストアクレジットで返金します。ストアが配送について公開している内容と、返金の申請方法は、[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。"
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-          "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-          "objectFit": "contain",
-          "aspectRatio": 3.5907
-        }
+        ]
       },
       {
         "heading": "カートの例：Abibのルーティン",
@@ -59283,8 +59234,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-          "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-          "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+          "alt": "YesStyle 依訂單金額的折扣階梯圖：79 美元以下 0%，79 美元起 8%，149 美元起 10%，199 美元起 15%，另有一條從 0 美元起的 15% 虛線",
+          "caption": "綠線是階梯優惠券：79 美元起 8%，149 美元起 10%，199 美元起 15%。虛線是無最低消費的 15% 優惠日。插圖：Em Casa com Cecília。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -59301,8 +59252,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-          "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-          "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+          "alt": "YesStyle 結帳頁的「輸入代碼」視窗：優惠券欄位填了優惠券，網紅／獎勵碼欄位填了 CECILIA010",
+          "caption": "結帳頁的兩個欄位：上方是當天的優惠券，下方的獎勵碼欄位填 CECILIA010。",
           "objectFit": "contain",
           "aspectRatio": 1.5962
         },
@@ -59353,14 +59304,7 @@ export const reviewsData: unknown[] = [
         "heading": "配送與稅費",
         "paragraphs": [
           "運費與送達時間會顯示在結帳頁，優惠券不折抵運費。如果包裹到貨時被課稅，YesStyle 會對 1,000 美元以下的訂單，以店鋪抵用金退還稅費與關稅。商店公布的配送資訊，以及如何申請退款，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-          "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-          "objectFit": "contain",
-          "aspectRatio": 3.5907
-        }
+        ]
       },
       {
         "heading": "購物車範例：Abib 的護膚流程",
@@ -59556,8 +59500,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-          "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-          "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+          "alt": "YesStyle 按订单金额的折扣阶梯图：79 美元以下 0%，79 美元起 8%，149 美元起 10%，199 美元起 15%，另有一条从 0 美元起的 15% 虚线",
+          "caption": "绿线是阶梯优惠券：79 美元起 8%，149 美元起 10%，199 美元起 15%。虚线是无最低消费的 15% 优惠日。插图：Em Casa com Cecília。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -59574,8 +59518,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-          "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-          "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+          "alt": "YesStyle 结账页的“输入代码”窗口：优惠券栏填了优惠券，达人/奖励码栏填了 CECILIA010",
+          "caption": "结账页的两个栏位：上面是当天的优惠券，下面的奖励码栏填 CECILIA010。",
           "objectFit": "contain",
           "aspectRatio": 1.5962
         },
@@ -59626,14 +59570,7 @@ export const reviewsData: unknown[] = [
         "heading": "配送与税费",
         "paragraphs": [
           "运费和送达时间会显示在结账页，优惠券不抵扣运费。如果包裹到货时被征税，YesStyle 会对 1,000 美元以下的订单，以店铺抵用金退还税费和关税。商店公布的配送信息，以及如何申请退款，请见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。"
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-          "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-          "objectFit": "contain",
-          "aspectRatio": 3.5907
-        }
+        ]
       },
       {
         "heading": "购物车示例：Abib 的护肤流程",
@@ -60024,14 +59961,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "In 2026, 11.11 falls on a Wednesday and Black Friday on a Friday. If SHEIN repeats the pattern, the deals should start between the end of October and the beginning of November and run to the end of the month. This is an estimate based on past years, and this guide is updated when SHEIN announces the 2026 campaign.",
           "In all three years, the maximum discount went up near the end: if you can wait, you gain, and if you need a hard-to-find size, don't wait for the last phase."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-          "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-          "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        ]
       },
       {
         "heading": "\"Up to 90%\" is not the whole cart",
@@ -60052,13 +59982,6 @@ export const reviewsData: unknown[] = [
           "SHEIN points are worth US$ 1 per 100 points and take off up to 30% of the product value, not counting shipping and taxes.",
           "4CW5Y is not a coupon: it is Cecília's referral code for SHEIN Brazil. You search for 4CW5Y in the SHEIN app and check the conditions shown for your account. SHEIN campaigns change all the time: check the current ones on the store page here on the site before placing your order."
         ],
-        "image": {
-          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-          "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-          "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "links": [
           {
             "label": "See the SHEIN Brazil referral code 4CW5Y and the SHEIN campaigns",
@@ -60072,13 +59995,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Exchanges and returns after Black Friday",
-        "image": {
-          "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
-          "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
-          "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
-          "objectFit": "contain",
-          "aspectRatio": 1.5
-        },
         "bullets": [
           "**Deadline:** up to 20 days after you receive it, even if you simply did not like the piece.",
           "**Items that can only be returned within 7 days:** bodysuits, swimwear, underwear, earrings and piercings, and pet products, plus cosmetics, party items and craft items with the seal broken. These can only be returned within the 7-day withdrawal period, counted from delivery.",
@@ -60199,14 +60115,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "En 2026, el 11.11 cae en miércoles y el Black Friday en viernes. Si SHEIN repite el patrón, las ofertas deberían empezar entre fines de octubre y comienzos de noviembre y durar hasta fin de mes. Es una estimación según el historial, y esta guía se actualiza cuando SHEIN anuncie la campaña de 2026.",
           "En los tres años, el descuento máximo subió cerca del final: quien puede esperar gana, y quien necesita una talla difícil no espera a la última fase."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-          "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-          "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        ]
       },
       {
         "heading": "\"Hasta 90%\" no es todo el carrito",
@@ -60227,13 +60136,6 @@ export const reviewsData: unknown[] = [
           "Los puntos SHEIN valen US$ 1 cada 100 puntos y descuentan hasta 30% del valor de los productos, sin contar envío e impuestos.",
           "El 4CW5Y no es un cupón: es el código de referido de Cecília para SHEIN Brasil. Buscas 4CW5Y en la app de SHEIN y revisas las condiciones que aparecen para tu cuenta. Las campañas de SHEIN cambian todo el tiempo: revisa las vigentes en la página de la tienda aquí en el sitio antes de cerrar el pedido."
         ],
-        "image": {
-          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-          "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-          "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "links": [
           {
             "label": "Ver el código de referido 4CW5Y de SHEIN Brasil y las campañas de SHEIN",
@@ -60247,13 +60149,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Cambios y devoluciones después del Black Friday",
-        "image": {
-          "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
-          "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
-          "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
-          "objectFit": "contain",
-          "aspectRatio": 1.5
-        },
         "bullets": [
           "**Plazo:** hasta 20 días después de recibirlo, aunque simplemente no te haya gustado la prenda.",
           "**Artículos que solo se devuelven en 7 días:** bodies, ropa de playa, ropa interior, aretes y piercings, productos para mascotas, y cosméticos, artículos de fiesta y de manualidades con el sello abierto. Estos solo se pueden devolver dentro del plazo de arrepentimiento de 7 días, contado desde la entrega.",
@@ -60374,14 +60269,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "En 2026, le 11.11 tombe un mercredi et le Black Friday un vendredi. Si SHEIN reprend le schéma, les offres devraient commencer entre fin octobre et début novembre et durer jusqu'à la fin du mois. C'est une estimation d'après l'historique, et ce guide est mis à jour quand SHEIN annoncera la campagne de 2026.",
           "Les trois années, la remise maximale a grimpé vers la fin : qui peut attendre y gagne, et qui cherche une taille difficile à trouver n'attend pas la dernière phase."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-          "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-          "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        ]
       },
       {
         "heading": "« Jusqu'à 90 % », ce n'est pas tout le panier",
@@ -60402,13 +60290,6 @@ export const reviewsData: unknown[] = [
           "Les points SHEIN valent US$ 1 pour 100 points et déduisent jusqu'à 30 % de la valeur des produits, hors livraison et taxes.",
           "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage de Cecília pour SHEIN Brésil. Vous recherchez 4CW5Y dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Les campagnes SHEIN changent tout le temps : consultez les campagnes en cours sur la page de la boutique, ici sur le site, avant de valider la commande."
         ],
-        "image": {
-          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-          "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-          "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "links": [
           {
             "label": "Voir le code de parrainage 4CW5Y de SHEIN Brésil et les campagnes SHEIN",
@@ -60422,13 +60303,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Échanges et retours après le Black Friday",
-        "image": {
-          "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
-          "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
-          "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
-          "objectFit": "contain",
-          "aspectRatio": 1.5
-        },
         "bullets": [
           "**Délai :** jusqu'à 20 jours après la réception, même si la pièce ne vous a simplement pas plu.",
           "**Articles qui ne se retournent que sous 7 jours :** bodies, maillots et vêtements de plage, sous-vêtements, boucles d'oreilles et piercings, produits pour animaux, ainsi que cosmétiques, articles de fête et de loisirs créatifs au scellé ouvert. Ceux-ci ne peuvent être retournés que dans le délai de rétractation de 7 jours, compté à partir de la livraison.",
@@ -60549,14 +60423,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "2026 fällt der 11.11 auf einen Mittwoch und der Black Friday auf einen Freitag. Wenn SHEIN das Muster wiederholt, dürften die Angebote zwischen Ende Oktober und Anfang November beginnen und bis Monatsende laufen. Das ist eine Schätzung nach den Vorjahren, und dieser Ratgeber wird aktualisiert, sobald SHEIN die Aktion 2026 ankündigt.",
           "In allen drei Jahren stieg der Höchstrabatt gegen Ende: Wer warten kann, gewinnt, und wer eine schwer zu findende Größe braucht, wartet nicht auf die letzte Phase."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-          "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-          "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        ]
       },
       {
         "heading": "„Bis zu 90 %“ ist nicht der ganze Warenkorb",
@@ -60577,13 +60444,6 @@ export const reviewsData: unknown[] = [
           "SHEIN-Punkte sind US$ 1 pro 100 Punkte wert und senken bis zu 30 % des Warenwerts, ohne Versand und Steuern.",
           "4CW5Y ist kein Gutschein, sondern Cecílias Empfehlungscode für SHEIN Brasilien. Sie suchen 4CW5Y in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Die SHEIN-Aktionen ändern sich ständig: Prüfen Sie die aktuellen auf der Shop-Seite hier auf der Website, bevor Sie bestellen."
         ],
-        "image": {
-          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-          "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-          "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "links": [
           {
             "label": "Den SHEIN-Brasilien-Empfehlungscode 4CW5Y und die SHEIN-Aktionen ansehen",
@@ -60597,13 +60457,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Umtausch und Rückgabe nach dem Black Friday",
-        "image": {
-          "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
-          "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
-          "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
-          "objectFit": "contain",
-          "aspectRatio": 1.5
-        },
         "bullets": [
           "**Frist:** bis zu 20 Tage nach Erhalt, auch wenn Ihnen das Teil einfach nicht gefallen hat.",
           "**Artikel, die nur innerhalb von 7 Tagen zurückgehen:** Bodys, Bademode, Unterwäsche, Ohrringe und Piercings, Tierbedarf sowie Kosmetik, Partyartikel und Bastelbedarf mit geöffnetem Siegel. Diese können nur innerhalb der Widerrufsfrist von 7 Tagen zurückgegeben werden, gerechnet ab Lieferung.",
@@ -60724,14 +60577,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Nel 2026 l'11.11 cade di mercoledì e il Black Friday di venerdì. Se SHEIN ripete lo schema, le offerte dovrebbero iniziare tra fine ottobre e inizio novembre e arrivare a fine mese. È una stima basata sullo storico, e questa guida viene aggiornata quando SHEIN annuncerà la campagna del 2026.",
           "In tutti e tre gli anni lo sconto massimo è salito verso la fine: chi può aspettare ci guadagna, e chi cerca una taglia difficile da trovare non aspetta l'ultima fase."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-          "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-          "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        ]
       },
       {
         "heading": "«Fino al 90%» non è tutto il carrello",
@@ -60752,13 +60598,6 @@ export const reviewsData: unknown[] = [
           "I punti SHEIN valgono US$ 1 ogni 100 punti e abbattono fino al 30% del valore dei prodotti, escluse spedizione e imposte.",
           "Il 4CW5Y non è un coupon: è il codice invito di Cecília per SHEIN Brasile. Cerchi 4CW5Y nell'app SHEIN e controlli le condizioni che compaiono per il tuo account. Le campagne di SHEIN cambiano in continuazione: controlla quelle in corso nella pagina del negozio qui sul sito prima di chiudere l'ordine."
         ],
-        "image": {
-          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-          "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-          "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "links": [
           {
             "label": "Vedi il codice invito 4CW5Y di SHEIN Brasile e le campagne SHEIN",
@@ -60772,13 +60611,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Cambi e resi dopo il Black Friday",
-        "image": {
-          "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
-          "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
-          "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
-          "objectFit": "contain",
-          "aspectRatio": 1.5
-        },
         "bullets": [
           "**Termine:** fino a 20 giorni dopo la ricezione, anche se il capo semplicemente non ti è piaciuto.",
           "**Articoli che si rendono solo entro 7 giorni:** body, beachwear, intimo, orecchini e piercing, prodotti per animali, oltre a cosmetici, articoli per feste e per il fai da te con il sigillo aperto. Questi si possono rendere solo entro il termine di recesso di 7 giorni, contato dalla consegna.",
@@ -60899,14 +60731,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "2026년에는 11.11이 수요일, 블랙프라이데이가 금요일입니다. SHEIN이 같은 패턴을 되풀이한다면 할인은 10월 말에서 11월 초 사이에 시작해 월말까지 이어질 것입니다. 지난 기록에 따른 추정이며, SHEIN이 2026년 캠페인을 발표하면 이 가이드를 업데이트합니다.",
           "3년 모두 최대 할인율은 끝으로 갈수록 올랐습니다. 기다릴 수 있는 사람은 이득을 보고, 구하기 어려운 사이즈가 필요한 사람은 마지막 단계까지 기다리지 마세요."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-          "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-          "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        ]
       },
       {
         "heading": "'최대 90%'는 장바구니 전체가 아니다",
@@ -60927,13 +60752,6 @@ export const reviewsData: unknown[] = [
           "SHEIN 포인트는 100포인트가 US$ 1이고, 상품 금액의 최대 30%까지 차감합니다. 배송비와 세금은 제외입니다.",
           "4CW5Y는 쿠폰이 아니라 SHEIN 브라질의 Cecília 추천 코드입니다. SHEIN 앱에서 4CW5Y를 검색하고, 내 계정에 표시되는 조건을 확인하세요. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요."
         ],
-        "image": {
-          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-          "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-          "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "links": [
           {
             "label": "SHEIN 브라질 추천 코드 4CW5Y와 SHEIN 캠페인 보기",
@@ -60947,13 +60765,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "블랙프라이데이 이후 교환과 반품",
-        "image": {
-          "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
-          "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
-          "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
-          "objectFit": "contain",
-          "aspectRatio": 1.5
-        },
         "bullets": [
           "**기간:** 수령 후 20일 이내. 단순히 마음에 들지 않아도 반품할 수 있습니다.",
           "**7일 안에만 반품되는 상품:** 보디수트, 수영복, 속옷, 귀걸이와 피어싱, 반려동물용품, 그리고 봉인을 뜯은 화장품, 파티용품, 공예용품. 이 상품들은 배송일부터 7일의 청약 철회 기간 안에서만 반품할 수 있습니다.",
@@ -61074,14 +60885,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "2026年は、11.11が水曜日、ブラックフライデーが金曜日にあたります。SHEINが同じパターンを繰り返すなら、セールは10月末から11月初めの間に始まり、月末まで続くはずです。これは過去の実績からの推定で、SHEINが2026年のキャンペーンを発表したら、このガイドを更新します。",
           "3年とも、最大割引率は終盤に向けて上がりました。待てる人は得をしますが、見つけにくいサイズが必要な人は、最後のフェーズまで待たないでください。"
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-          "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-          "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        ]
       },
       {
         "heading": "「最大90%」はカート全体ではない",
@@ -61102,13 +60906,6 @@ export const reviewsData: unknown[] = [
           "SHEIN ポイントは、100ポイントがUS$ 1に相当し、商品代金の最大30%まで割り引けます。送料と税金は対象外です。",
           "4CW5Yはクーポンではなく、SHEINブラジルのCecíliaの紹介コードです。SHEINのアプリで4CW5Yを検索し、ご自身のアカウントに表示される条件を確認してください。SHEINのキャンペーンは頻繁に変わります。注文を確定する前に、このサイトのストアページで現在のキャンペーンを確認してください。"
         ],
-        "image": {
-          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-          "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-          "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "links": [
           {
             "label": "SHEINブラジルの紹介コード4CW5YとSHEINのキャンペーンを見る",
@@ -61122,13 +60919,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "ブラックフライデーのあとの交換と返品",
-        "image": {
-          "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
-          "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
-          "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
-          "objectFit": "contain",
-          "aspectRatio": 1.5
-        },
         "bullets": [
           "**期間：** 受け取りから20日以内。気に入らなかっただけでも返品できます。",
           "**7日以内しか返品できない商品：** ボディスーツ、水着、下着、ピアスとイヤリング、ペット用品、そして開封済みの化粧品、パーティー用品、手芸用品。これらは、配達日から数える7日間の撤回期間内にのみ返品できます。",
@@ -61249,14 +61039,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "2026 年，11.11 是星期三，黑色星期五是星期五。如果 SHEIN 沿用相同的模式，優惠應該會在 10 月底到 11 月初之間開始，持續到月底。這是依往年所做的推估，等 SHEIN 公布 2026 年的活動後，本指南會跟著更新。",
           "三年來，最高折扣都在接近月底時調高：等得起的人比較划算，需要不好買的尺寸的人，別等到最後一個階段。"
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-          "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-          "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        ]
       },
       {
         "heading": "「最高 90%」不是整個購物車",
@@ -61277,13 +61060,6 @@ export const reviewsData: unknown[] = [
           "SHEIN 點數每 100 點折抵 US$ 1，最多可折抵商品金額的 30%，不含運費與稅金。",
           "4CW5Y 不是優惠券，而是 SHEIN 巴西站的 Cecília 推薦碼。請在 SHEIN App 中搜尋 4CW5Y，並查看你的帳號顯示的條件。SHEIN 的活動隨時都在變：下單前，請先到本站的商店頁面查看目前的活動。"
         ],
-        "image": {
-          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-          "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-          "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "links": [
           {
             "label": "查看 SHEIN 巴西站推薦碼 4CW5Y 與 SHEIN 的活動",
@@ -61297,13 +61073,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "黑色星期五之後的換貨與退貨",
-        "image": {
-          "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
-          "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
-          "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
-          "objectFit": "contain",
-          "aspectRatio": 1.5
-        },
         "bullets": [
           "**期限：** 收貨後 20 天內，即使只是不喜歡也可以退。",
           "**只能 7 天內退的商品：** 連身衣、泳裝、內衣、耳環與穿孔飾品、寵物用品，以及已拆封的化妝品、派對用品與手作用品。這些商品只能在自送達日起算的 7 天猶豫期內退貨。",
@@ -61424,14 +61193,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "2026 年，11.11 是星期三，黑色星期五是星期五。如果 SHEIN 沿用同样的模式，优惠应该会在 10 月底到 11 月初之间开始，持续到月底。这是根据往年做的推测，等 SHEIN 公布 2026 年的活动后，本指南会随之更新。",
           "三年来，最高折扣都在接近月底时提高：等得起的人更划算，需要难买尺码的人不要等到最后一个阶段。"
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-          "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-          "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        ]
       },
       {
         "heading": "“最高 90%”不是整个购物车",
@@ -61452,13 +61214,6 @@ export const reviewsData: unknown[] = [
           "SHEIN 积分每 100 分抵 US$ 1，最多可抵商品金额的 30%，不含运费和税金。",
           "4CW5Y 不是优惠券，而是 SHEIN 巴西站的 Cecília 推荐码。请在 SHEIN App 中搜索 4CW5Y，并查看你的账户显示的条件。SHEIN 的活动随时都在变：下单前，请先到本站的店铺页面查看目前的活动。"
         ],
-        "image": {
-          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-          "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-          "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "links": [
           {
             "label": "查看 SHEIN 巴西站推荐码 4CW5Y 与 SHEIN 的活动",
@@ -61472,13 +61227,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "黑色星期五之后的换货与退货",
-        "image": {
-          "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
-          "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
-          "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
-          "objectFit": "contain",
-          "aspectRatio": 1.5
-        },
         "bullets": [
           "**期限：** 收货后 20 天内，即使只是不喜欢也可以退。",
           "**只能 7 天内退的商品：** 连体衣、泳装、内衣、耳环和穿孔饰品、宠物用品，以及已拆封的化妆品、派对用品和手工艺用品。这些商品只能在自送达日起算的 7 天反悔期内退货。",

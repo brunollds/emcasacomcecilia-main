@@ -118,8 +118,8 @@
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-        "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-        "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+        "alt": "Stufendiagramm des Rabatts nach Bestellwert bei YesStyle: 0 % bis US$ 79, 8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199, mit einer gestrichelten Linie bei 15 % ab US$ 0",
+        "caption": "Die grüne Linie ist der Staffelgutschein: 8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199. Die gestrichelte Linie zeigt die 15-%-Tage ohne Mindestbestellwert. Illustration von Em Casa com Cecília.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
@@ -136,8 +136,8 @@
       ],
       "image": {
         "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-        "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-        "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+        "alt": "Fenster „Code eingeben“ im YesStyle-Checkout, mit einem Gutschein im Feld Coupon und CECILIA010 im Feld für den Influencer-/Reward Code",
+        "caption": "Die beiden Felder im Checkout: oben der Gutschein des Tages, darunter CECILIA010 im Feld für den Reward Code.",
         "objectFit": "contain",
         "aspectRatio": 1.5962
       },
@@ -188,14 +188,7 @@
       "heading": "Lieferung und Steuern",
       "paragraphs": [
         "Versand und Lieferzeit erscheinen im Checkout, und der Gutschein mindert den Versand nicht. Wird das Paket bei der Ankunft besteuert, erstattet YesStyle die Steuern und Zollgebühren bei Bestellungen unter US$ 1.000 als Guthaben im Shop. Was der Shop zur Lieferung veröffentlicht und wie man die Erstattung beantragt, steht im [Lieferratgeber zu YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
-      ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-        "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-        "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-        "objectFit": "contain",
-        "aspectRatio": 3.5907
-      }
+      ]
     },
     {
       "heading": "Eine Warenkorb-Idee: die Abib-Routine",

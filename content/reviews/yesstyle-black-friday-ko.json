@@ -118,8 +118,8 @@
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-        "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-        "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+        "alt": "YesStyle의 주문 금액별 할인을 보여 주는 계단형 그래프: US$ 79까지 0%, US$ 79부터 8%, US$ 149부터 10%, US$ 199부터 15%이며, US$ 0부터 15%에 점선이 있다",
+        "caption": "초록색 선이 구간별 쿠폰입니다. US$ 79부터 8%, US$ 149부터 10%, US$ 199부터 15%입니다. 점선은 최소 금액 없는 15% 할인일입니다. 일러스트: Em Casa com Cecília.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
@@ -136,8 +136,8 @@
       ],
       "image": {
         "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-        "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-        "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+        "alt": "YesStyle 결제 화면의 '코드 입력' 창. 쿠폰 칸에는 쿠폰이, 인플루언서/리워드 코드 칸에는 CECILIA010이 입력되어 있다",
+        "caption": "결제 화면의 두 칸: 위는 그날의 쿠폰, 아래 리워드 코드 칸에는 CECILIA010.",
         "objectFit": "contain",
         "aspectRatio": 1.5962
       },
@@ -188,14 +188,7 @@
       "heading": "배송과 세금",
       "paragraphs": [
         "배송비와 배송 기간은 결제 화면에 나오고, 쿠폰은 배송비에는 적용되지 않습니다. 도착했을 때 소포에 세금이 붙으면, YesStyle은 US$ 1,000 미만 주문의 세금과 관세를 스토어 크레딧으로 환급합니다. 스토어가 배송에 대해 공개한 내용과 환급 신청 방법은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다."
-      ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-        "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-        "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-        "objectFit": "contain",
-        "aspectRatio": 3.5907
-      }
+      ]
     },
     {
       "heading": "장바구니 아이디어: Abib 루틴",
