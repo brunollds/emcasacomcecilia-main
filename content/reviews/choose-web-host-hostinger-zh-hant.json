@@ -3,8 +3,8 @@
   "slug": "choose-web-host-hostinger-zh-hant",
   "locale": "zh-hant",
   "translationKey": "hostinger-ou-hostgator",
-  "title": "Hostinger 與其他主機，哪個更適合你的網站？價格與選擇標準",
-  "seoTitle": "Hostinger 與其他主機比較：價格與續訂標準",
+  "title": "Hostinger 方案，哪個更適合你的網站？價格與選擇標準",
+  "seoTitle": "Hostinger 方案比較：價格與續訂標準",
   "type": "選擇指南",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -44,7 +44,7 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "選主機不要看首期的折扣，要把續訂價按月並排比較。網站在 3 個以內，看 Hostinger 的 Premium；網站更多，看 Unlimited。各個頁面都把折扣放在最顯眼的位置，所以下面的表格按月列出價格，並把續訂價放在旁邊。"
+        "選主機不要看首期的折扣，要把續訂價按月並排比較。網站在 3 個以內，看 Hostinger 的 Premium；網站更多，看 Unlimited。促銷期為 48 個月，所以下面的表格按月列出價格，並把續訂價放在旁邊。"
       ]
     },
     {
@@ -84,7 +84,7 @@
           [
             "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
             "US$ 2.49/月",
-            "US$ 119.52/月",
+            "US$ 119.52",
             "US$ 10.99/月",
             "3",
             "20 GB SSD"
@@ -92,7 +92,7 @@
           [
             "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
             "US$ 3.49/月",
-            "US$ 167.52/月",
+            "US$ 167.52",
             "US$ 16.99/月",
             "無限",
             "50 GB NVMe"
@@ -100,7 +100,7 @@
           [
             "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
             "US$ 7.99/月",
-            "US$ 383.52/月",
+            "US$ 383.52",
             "US$ 25.99/月",
             "無限",
             "100 GB NVMe"

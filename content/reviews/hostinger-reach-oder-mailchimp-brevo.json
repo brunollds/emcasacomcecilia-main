@@ -63,7 +63,7 @@
           [
             "Kleine Liste, Start ohne Budget",
             "Kostenloser Tarif von Brevo oder Mailchimp",
-            "Brevo gratis verschickt bis zu 300 E-Mails am Tag, ohne Karte. Mailchimp ist unter 250 Kontakten kostenlos. Die drei Reach-Tarife sind bezahlt."
+            "Brevo gratis verschickt bis zu 300 E-Mails am Tag, ohne Karte. Mailchimp ist unter 250 Kontakten kostenlos. Die drei Reach-Tarife sind kostenpflichtig."
           ],
           [
             "Hostinger-Website vorhanden, Liste bis 500",
@@ -89,7 +89,7 @@
       },
       "image": {
         "src": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-quadro-de.webp",
-        "alt": "Quadro Reach, Mailchimp oder Brevo nach Profil: kleine Liste ohne Budget nimmt den kostenlosen Tarif von Brevo oder Mailchimp; wer eine Hostinger-Website und eine Liste bis 500 hat, nimmt Reach Grow; wer WhatsApp braucht, nimmt Reach Pro; wer das kostenlose Limit überschritten hat und bis 1.000 Kontakte hat, nimmt Reach Grow oder Pro; Liste über 1.000 Kontakte, Mailchimp oder Brevo",
+        "alt": "Tabelle Reach, Mailchimp oder Brevo nach Profil: kleine Liste ohne Budget nimmt den kostenlosen Tarif von Brevo oder Mailchimp; wer eine Hostinger-Website und eine Liste bis 500 hat, nimmt Reach Grow; wer WhatsApp braucht, nimmt Reach Pro; wer das kostenlose Limit überschritten hat und bis 1.000 Kontakte hat, nimmt Reach Grow oder Pro; Liste über 1.000 Kontakte, Mailchimp oder Brevo",
         "caption": "Die Kurzfassung der Tabelle: kostenlos starten, Reach bis 1.000 Empfänger, darüber Mailchimp oder Brevo. Tabelle von Em Casa com Cecília, nach dem, was die Preisseiten sagten.",
         "objectFit": "contain",
         "aspectRatio": 1.3846
@@ -205,7 +205,7 @@
       "bullets": [
         "Lohnt sich Hostinger Reach? Ja, für alle mit einer Hostinger-Website und einer Liste bis 1.000 Empfänger. Der Grow kostet in den ersten 12 Monaten 1,74 US$ im Monat und verlängert sich auf 2,49 US$ im Monat.",
         "Was kostet Hostinger Reach? Auf der globalen Hostinger-Seite, in US-Dollar: Starter 1,49 US$, Grow 1,74 US$ und Pro 2,79 US$ im Monat in den ersten 12 Monaten, mit Verlängerung auf 1,49 US$, 2,49 US$ und 3,99 US$. Die Preise können je nach Land und Währung abweichen.",
-        "Hat Hostinger Reach einen kostenlosen Tarif? Nein: Alle drei Tarife sind bezahlt. Mailchimp ist für weniger als 250 Kontakte kostenlos, und Brevo bietet einen kostenlosen Tarif mit bis zu 300 E-Mails am Tag.",
+        "Hat Hostinger Reach einen kostenlosen Tarif? Nein: Alle drei Tarife sind kostenpflichtig. Mailchimp ist für weniger als 250 Kontakte kostenlos, und Brevo bietet einen kostenlosen Tarif mit bis zu 300 E-Mails am Tag.",
         "Hat Hostinger Reach WhatsApp? Ja, nur im Tarif Pro. Die Seite zeigt nicht die Kosten pro Nachricht; das sehen Sie im Dashboard.",
         "Was ist Reach 500? Das ist der Name des Grow-Tarifs im Hostinger-Warenkorb, nach dem Limit von 500 Empfängern. Er verschickt 3.500 E-Mails im Monat.",
         "Hostinger Reach oder Mailchimp? Für eine Liste bis 1.000 Empfänger und eine Hostinger-Website: Reach. Für einen kostenlosen Start oder eine Liste über 1.000 Kontakte: Mailchimp oder Brevo.",

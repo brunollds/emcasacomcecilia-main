@@ -38,7 +38,7 @@
     {
       "heading": "评分衡量的是什么",
       "paragraphs": [
-        "TrustScore 是个人主页在 Trustpilot 上的评分。YesStyle 的评分为 4.4，标签是“Excellent”，共 104,552 条评价，其中 11,757 条发布于最近 12 个月。如页面所示，这个主页由公司认领，并订阅了 Trustpilot 的付费服务。",
+        "TrustScore 是商家主页在 Trustpilot 上的评分。YesStyle 的评分为 4.4，标签是“Excellent”，共 104,552 条评价，其中 11,757 条发布于最近 12 个月。如页面所示，这个主页由公司认领，并订阅了 Trustpilot 的付费服务。",
         "同一次读取中的星级分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起来还多，投诉就出现在这里。"
       ],
       "image": {
@@ -55,7 +55,7 @@
     {
       "heading": "谁在评价，来自哪里",
       "paragraphs": [
-        "我们读取的主页（www.yesstyle.com）是全球通用的：它不按国家区分评价，页面也没有说各个国家分别有多少条。这个评分把来自不同国家的买家合在一起，而他们的运费、时效和关税都不一样。",
+        "本次读取的主页（www.yesstyle.com）是全球通用的：它不按国家区分评价，页面也没有说各个国家分别有多少条。这个评分把来自不同国家的买家合在一起，而他们的运费、时效和关税都不一样。",
         "对准备购买的人来说，这会改变解读方式：评分说明的是商店整体的表现，而不是寄到你的地址会怎样。这个信息在结账页面和商店的运费表里，不在 Trustpilot 上。",
         "运营商店的公司、香港总部和母公司的信息，见 [YesStyle 可靠吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)。"
       ]
@@ -150,7 +150,7 @@
     {
       "heading": "付款之前",
       "paragraphs": [
-        "投诉集中在配送上，所以付款前要核对的是你所在国家的运费和送达时间，它们会显示在结账页面。时效的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+        "投诉集中在配送上，所以付款前要核对的是你所在国家的运费和送达时间，它们会显示在结账页面。送达时间的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
         "付款之后，请保存订单号和物流追踪码：如果包裹延误或物流追踪停止，联系客服时需要用到它们。",
         "如果你已经决定购买，本站的 [YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)页面会带你去商店。这是联盟链接：通过它购买，Em Casa com Cecília 可能获得佣金，你不需要多付费用。"
       ]
@@ -165,7 +165,7 @@
     }
   ],
   "cta": {
-    "text": "如果要买，付款前请在结账页面确认你所在地区的运费和时效，并保存好订单号。",
+    "text": "如果要买，付款前请在结账页面确认你所在国家的运费和时效，并保存好订单号。",
     "label": "前往 YesStyle",
     "url": "https://ystyle.co/rQYQv",
     "sponsored": true

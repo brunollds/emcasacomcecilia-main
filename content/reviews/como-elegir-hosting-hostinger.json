@@ -231,7 +231,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Lleva el Premium si es un solo sitio, como un blog, un portafolio o la página de una empresa, o hasta tres: es el plan de entrada, en la promoción y en la renovación.",
+      "Lleva el Premium si es un solo sitio, como un blog, un portafolio o la página de una empresa, o hasta tres: cuesta menos en la promoción y en la renovación.",
       "Lleva un VPS si el sitio necesita procesador y memoria garantizados: el KVM 1 ya trae 4 GB."
     ],
     "skipIf": [

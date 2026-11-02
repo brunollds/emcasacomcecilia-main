@@ -45,7 +45,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Per chi ha già deciso di usare WordPress su Hostinger, il piano Premium copre fino a tre siti, mentre Unlimited o Cloud Startup servono per più siti o un negozio, con backup giornalieri. WordPress c'è in tutti i piani: a fare la differenza sono il numero di siti, il backup e il rinnovo, nella tabella qui sotto."
+        "Per chi ha già deciso di usare WordPress su Hostinger, il piano Premium copre fino a tre siti, mentre Unlimited o Cloud Startup servono per più siti o un negozio, e Unlimited ha i backup giornalieri. WordPress c'è in tutti i piani: numero di siti, backup e rinnovo decidono, nella tabella sotto."
       ]
     },
     {
@@ -86,25 +86,25 @@
         "rows": [
           [
             "[Premium](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-            "US$ 2,49",
-            "US$ 119,52",
-            "US$ 10,99/mese",
+            "2,49 US$",
+            "119,52 US$",
+            "10,99 US$/mese",
             "3 siti, 20 GB SSD",
             "Settimanale"
           ],
           [
             "[Unlimited](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-            "US$ 3,49",
-            "US$ 167,52",
-            "US$ 16,99/mese",
+            "3,49 US$",
+            "167,52 US$",
+            "16,99 US$/mese",
             "Siti illimitati, 50 GB NVMe",
             "Giornaliero"
           ],
           [
             "[Cloud Startup](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20)",
-            "US$ 7,99",
-            "US$ 383,52",
-            "US$ 25,99/mese",
+            "7,99 US$",
+            "383,52 US$",
+            "25,99 US$/mese",
             "Siti illimitati, 100 GB NVMe",
             "Controlla il carrello"
           ]
@@ -130,10 +130,10 @@
       "heading": "Come iniziare: la checklist",
       "bullets": [
         "**1. Conta i siti.** Uno, fino a tre o più. Nella maggior parte dei casi questo sceglie già il piano.",
-        "**2. Sistema il dominio.** Usa un dominio che hai già oppure registrane uno nuovo. Annota quando si rinnova.",
+        "**2. Sistema il dominio.** Controlla se il tuo piano ne include uno, oppure punta un dominio che hai già. Annota quando si rinnova.",
         "**3. Installa WordPress dal pannello.** Non serve scaricare i file a mano.",
         "**4. Scegli il tema prima dei contenuti.** Cambiare tema con il sito già pieno dà più lavoro. Preferisci un tema semplice e mantenuto con regolarità.",
-        "**5. Installa pochi plugin.** Parti da quello che il sito serve oggi: modulo di contatto, SEO e, in un negozio, WooCommerce. Ogni plugin in più è una cosa in più da aggiornare.",
+        "**5. Installa pochi plugin.** Parti da quello che serve al sito oggi: modulo di contatto, SEO e, in un negozio, WooCommerce. Ogni plugin in più è una cosa in più da aggiornare.",
         "**6. Fai un backup prima di intervenire.** Prima di cambiare tema, aggiornare un plugin o modificare il negozio, controlla nel pannello quando è stato fatto l'ultimo backup. Con il backup settimanale conta ancora di più."
       ],
       "postParagraphs": [

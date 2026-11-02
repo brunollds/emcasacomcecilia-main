@@ -55,7 +55,7 @@
       "image": {
         "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-zh-hant.webp",
         "alt": "依專案選 WordPress 方案的表格：3 個網站以內選 Premium，多個網站或 WooCommerce 網路商店選 Unlimited，流量很大的商店選 Cloud Startup",
-        "caption": "表格重點：網站數量與備份決定方案。Em Casa com Cecília 依 Hostinger 頁面上的說明製作。",
+        "caption": "表格重點：網站數量、空間與備份決定方案。Em Casa com Cecília 依 Hostinger 頁面上的說明製作。",
         "objectFit": "contain",
         "aspectRatio": 1.6981
       },
@@ -129,8 +129,8 @@
       "heading": "開始使用：檢查清單",
       "bullets": [
         "**1. 先算網站數量。** 一個、三個，還是更多。多數情況下，光是這一點就能決定方案。",
-        "**2. 決定網域。** 使用你已有的網域，或註冊新的。記下它的續約日期。",
-        "**3. 在管理面板安裝 WordPress。**",
+        "**2. 決定網域。** 先確認方案是否含免費網域，或使用你已有的網域。記下它的續約日期。",
+        "**3. 在管理面板安裝 WordPress。**不需要手動下載檔案。",
         "**4. 先選佈景主題，再放內容。** 網站內容滿了之後再換佈景主題，很費工。選簡單、更新頻繁的主題。",
         "**5. 外掛少裝一點。** 從現在需要的開始：聯絡表單、SEO，網路商店則加上 WooCommerce。每多裝一個外掛，就多一樣要更新。",
         "**6. 動手前先備份。** 更換佈景主題、更新外掛或修改商店之前，先到面板確認最近一次備份的時間。每週備份的方案尤其要這麼做。"

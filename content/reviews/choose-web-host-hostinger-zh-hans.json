@@ -3,8 +3,8 @@
   "slug": "choose-web-host-hostinger-zh-hans",
   "locale": "zh-hans",
   "translationKey": "hostinger-ou-hostgator",
-  "title": "Hostinger 与其他主机，哪个更适合你的网站？价格与选择标准",
-  "seoTitle": "Hostinger 与其他主机对比：价格与续费标准",
+  "title": "Hostinger 套餐，哪个更适合你的网站？价格与选择标准",
+  "seoTitle": "Hostinger 套餐对比：价格与续费标准",
   "type": "选择指南",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -44,7 +44,7 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "选主机不要看首期的折扣，要把续费价按月并排比较。网站在 3 个以内，看 Hostinger 的 Premium；网站更多，看 Unlimited。各页面都把折扣摆在最显眼的位置，所以下面的表格按月列出价格，并把续费价放在旁边。"
+        "选主机不要看首期的折扣，要把续费价按月并排比较。网站在 3 个以内，看 Hostinger 的 Premium；网站更多，看 Unlimited。促销期为 48 个月，所以下面的表格按月列出价格，并把续费价放在旁边。"
       ]
     },
     {
@@ -84,7 +84,7 @@
           [
             "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
             "US$ 2.49/月",
-            "US$ 119.52/月",
+            "US$ 119.52",
             "US$ 10.99/月",
             "3",
             "20 GB SSD"
@@ -92,7 +92,7 @@
           [
             "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
             "US$ 3.49/月",
-            "US$ 167.52/月",
+            "US$ 167.52",
             "US$ 16.99/月",
             "无限",
             "50 GB NVMe"
@@ -100,7 +100,7 @@
           [
             "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
             "US$ 7.99/月",
-            "US$ 383.52/月",
+            "US$ 383.52",
             "US$ 25.99/月",
             "无限",
             "100 GB NVMe"

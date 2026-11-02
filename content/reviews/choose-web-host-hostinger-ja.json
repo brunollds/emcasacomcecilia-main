@@ -45,7 +45,7 @@
     {
       "heading": "クイックアンサー",
       "paragraphs": [
-        "レンタルサーバーは、最初の期間の割引ではなく、更新料を月額で比べて選びます。3サイトまでならHostingerのPremium、それより多いならUnlimitedが目安です。どのページも割引を大きく見せるので、月額に直して更新料を横に並べた表を下に載せました。"
+        "レンタルサーバーは、最初の期間の割引ではなく、更新料を月額で比べて選びます。3サイトまでならHostingerのPremium、それより多いならUnlimitedが目安です。割引は48か月続くので、月額に直して更新料を横に並べた表を下に載せました。"
       ]
     },
     {
@@ -85,7 +85,7 @@
           [
             "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
             "US$2.49/月",
-            "US$119.52/月",
+            "US$119.52",
             "US$10.99/月",
             "3",
             "20 GB SSD"
@@ -93,7 +93,7 @@
           [
             "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
             "US$3.49/月",
-            "US$167.52/月",
+            "US$167.52",
             "US$16.99/月",
             "無制限",
             "50 GB NVMe"
@@ -101,7 +101,7 @@
           [
             "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
             "US$7.99/月",
-            "US$383.52/月",
+            "US$383.52",
             "US$25.99/月",
             "無制限",
             "100 GB NVMe"

@@ -96,7 +96,7 @@
             "167,52 US$",
             "16,99 US$/mois",
             "Illimités",
-            "50 GB NVMe"
+            "50 Go NVMe"
           ],
           [
             "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
@@ -104,7 +104,7 @@
             "383,52 US$",
             "25,99 US$/mois",
             "Illimités",
-            "100 GB NVMe"
+            "100 Go NVMe"
           ]
         ]
       },
@@ -152,15 +152,15 @@
           [
             "[Hostinger KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mois)",
             "1",
-            "4 GB",
-            "50 GB",
+            "4 Go",
+            "50 Go",
             "6,49 US$/mois",
             "11,99 US$/mois"
           ],
           [
             "[Hostinger KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mois)",
             "2",
-            "8 GB",
+            "8 Go",
             "100 GB",
             "8,79 US$/mois",
             "14,99 US$/mois"
@@ -231,7 +231,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Prenez Premium s'il s'agit d'un seul site, comme un blog, un portfolio ou la page d'une entreprise, ou de trois sites au plus : c'est le forfait d'entrée, en promotion et au renouvellement.",
+      "Prenez Premium s'il s'agit d'un seul site, comme un blog, un portfolio ou la page d'une entreprise, ou de trois sites au plus : il coûte moins en promotion et au renouvellement.",
       "Prenez un VPS si le site a besoin d'un processeur et d'une mémoire garantis : le KVM 1 offre déjà 4 Go."
     ],
     "skipIf": [
