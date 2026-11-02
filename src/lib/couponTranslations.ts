@@ -1,7 +1,6 @@
 import {
   getCouponBySlug,
   type Coupon,
-  type CouponCampaign,
   type CouponCodeOffer,
   type CouponFAQ,
   type CouponReferral,
@@ -36,8 +35,6 @@ type OfferTranslationBase = {
   faqs: CouponFAQ[];
   // Só na loja com código de indicação e campanhas no cupom em PT (a SHEIN).
   referral?: Pick<CouponReferral, 'label' | 'instructions'>;
-  // Na mesma ordem de campaigns no cupom em PT.
-  campaigns?: Pick<CouponCampaign, 'title' | 'description' | 'eligibility'>[];
 };
 
 export type AffiliateOfferTranslation = OfferTranslationBase & {
@@ -127,18 +124,6 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       label: "Cecília's referral code",
       instructions: 'Search 4CW5Y in the SHEIN app and check the conditions shown for your account.',
     },
-    campaigns: [
-      {
-        title: 'Selected products',
-        description: 'Selected products with limited-time discounts.',
-        eligibility: 'Check the items and conditions shown by SHEIN.',
-      },
-      {
-        title: '50% for new users',
-        description: 'Campaign with a 50% coupon for new users only.',
-        eligibility: 'Eligible new users only, as validated by SHEIN.',
-      },
-    ],
   },
   es: {
     discount: 'Campañas vigentes',
@@ -200,18 +185,6 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       label: 'Código de referido de Cecília',
       instructions: 'Busca 4CW5Y en la app de SHEIN y consulta las condiciones que se muestran para tu cuenta.',
     },
-    campaigns: [
-      {
-        title: 'Productos seleccionados',
-        description: 'Productos seleccionados con descuentos por tiempo limitado.',
-        eligibility: 'Consulta los artículos y las condiciones que muestra SHEIN.',
-      },
-      {
-        title: '50% para nuevos usuarios',
-        description: 'Campaña con cupón del 50% solo para nuevos usuarios.',
-        eligibility: 'Solo nuevos usuarios elegibles, según la validación de SHEIN.',
-      },
-    ],
   },
   fr: {
     discount: 'Campagnes en cours',
@@ -270,18 +243,6 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       label: 'Code de parrainage de Cecília',
       instructions: "Recherchez 4CW5Y dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte.",
     },
-    campaigns: [
-      {
-        title: 'Sélection de produits',
-        description: 'Une sélection de produits avec des réductions limitées dans le temps.',
-        eligibility: 'Consultez les articles et les conditions affichés par SHEIN.',
-      },
-      {
-        title: `50${NBSP}% pour les nouveaux utilisateurs`,
-        description: `Campagne avec un bon de réduction de 50${NBSP}% réservé aux nouveaux utilisateurs.`,
-        eligibility: 'Uniquement pour les nouveaux utilisateurs éligibles, selon la validation de SHEIN.',
-      },
-    ],
   },
   de: {
     discount: 'Aktuelle Aktionen',
@@ -343,18 +304,6 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       label: 'Cecílias Empfehlungscode',
       instructions: 'Suche in der SHEIN-App nach 4CW5Y und prüfe die Bedingungen, die für dein Konto angezeigt werden.',
     },
-    campaigns: [
-      {
-        title: 'Ausgewählte Produkte',
-        description: 'Ausgewählte Produkte mit zeitlich begrenzten Rabatten.',
-        eligibility: 'Sieh dir die Artikel und Bedingungen an, die SHEIN anzeigt.',
-      },
-      {
-        title: `50${NBSP}% für Neukunden`,
-        description: 'Aktion mit einem 50-%-Gutschein nur für Neukunden.',
-        eligibility: 'Nur berechtigte Neukunden, nach Prüfung durch SHEIN.',
-      },
-    ],
   },
   it: {
     discount: 'Campagne in corso',
@@ -416,18 +365,6 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       label: 'Codice invito di Cecília',
       instructions: "Cerca 4CW5Y nell'app SHEIN e controlla le condizioni mostrate per il tuo account.",
     },
-    campaigns: [
-      {
-        title: 'Prodotti selezionati',
-        description: 'Prodotti selezionati con sconti a tempo limitato.',
-        eligibility: 'Controlla gli articoli e le condizioni mostrati da SHEIN.',
-      },
-      {
-        title: '50% per i nuovi utenti',
-        description: 'Campagna con coupon del 50% solo per i nuovi utenti.',
-        eligibility: 'Solo nuovi utenti idonei, secondo la verifica di SHEIN.',
-      },
-    ],
   },
   ko: {
     discount: '진행 중인 캠페인',
@@ -488,18 +425,6 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       label: 'Cecília의 추천 코드',
       instructions: 'SHEIN 앱에서 4CW5Y를 검색하고 내 계정에 표시되는 조건을 확인하세요.',
     },
-    campaigns: [
-      {
-        title: '일부 상품',
-        description: '일부 상품 대상 기간 한정 할인입니다.',
-        eligibility: 'SHEIN에 표시된 상품과 조건을 확인하세요.',
-      },
-      {
-        title: '신규 회원 50%',
-        description: '신규 회원만 받을 수 있는 50% 쿠폰 캠페인입니다.',
-        eligibility: 'SHEIN 확인을 거친 신규 회원만 해당됩니다.',
-      },
-    ],
   },
   ja: {
     discount: '開催中のキャンペーン',
@@ -560,18 +485,6 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       label: 'Cecília の紹介コード',
       instructions: 'SHEIN アプリで 4CW5Y を検索し、ご自身のアカウントに表示される条件をご確認ください。',
     },
-    campaigns: [
-      {
-        title: '対象商品',
-        description: '対象商品の期間限定割引です。',
-        eligibility: 'SHEIN に表示される商品と条件をご確認ください。',
-      },
-      {
-        title: '新規ユーザー50%',
-        description: '新規ユーザー限定の50%クーポンのキャンペーンです。',
-        eligibility: 'SHEIN の確認を経た新規ユーザーのみが対象です。',
-      },
-    ],
   },
   'zh-hant': {
     discount: '進行中的活動',
@@ -629,18 +542,6 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       label: 'Cecília 的推薦碼',
       instructions: '請在 SHEIN App 搜尋 4CW5Y，並查看你的帳戶顯示的條件。',
     },
-    campaigns: [
-      {
-        title: '指定商品',
-        description: '指定商品限時折扣。',
-        eligibility: '請查看 SHEIN 顯示的商品及條件。',
-      },
-      {
-        title: '新用戶 50% 優惠',
-        description: '只限新用戶的 50% 優惠券活動。',
-        eligibility: '只限經 SHEIN 確認的合資格新用戶。',
-      },
-    ],
   },
   'zh-hans': {
     discount: '进行中的活动',
@@ -696,18 +597,6 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       label: 'Cecília 的推荐码',
       instructions: '请在 SHEIN App 中搜索 4CW5Y，并查看你的账户显示的条件。',
     },
-    campaigns: [
-      {
-        title: '指定商品',
-        description: '指定商品限时折扣。',
-        eligibility: '请查看 SHEIN 显示的商品和条件。',
-      },
-      {
-        title: '新用户 50% 优惠',
-        description: '仅限新用户的 50% 优惠券活动。',
-        eligibility: '仅限经 SHEIN 确认的符合条件的新用户。',
-      },
-    ],
   },
 };
 
@@ -1401,7 +1290,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
 
 // O que cada campo de uma loja de código faz fora do PT: 'pt' herda o cupom em PT, 'translate' vem da
 // tradução e fica de fora sem ela, 'drop' nunca sai do PT. Campo novo em CouponCodeOffer sem decisão aqui
-// quebra o typecheck, em vez de ir em português à página de outro idioma. offerUrl, referral e campaigns
+// quebra o typecheck, em vez de ir em português à página de outro idioma. offerUrl e referral
 // herdam e depois recebem o link e os textos da tradução em localizeCoupon.
 export const CODE_FIELD_POLICY = {
   offerMode: 'pt',
@@ -1441,7 +1330,6 @@ export const CODE_FIELD_POLICY = {
   monthlyHighlight: 'translate',
   affiliateAccountId: 'pt',
   referral: 'pt',
-  campaigns: 'pt',
   code: 'pt',
   discountNumber: 'pt',
   testNote: 'translate',
@@ -1510,13 +1398,12 @@ export function getLocalizedCoupon(slug: string, locale: TranslatedLocale): Coup
 export function localizeCoupon(coupon: Coupon, translation: CouponTranslation, locale: TranslatedLocale): Coupon {
   const where = `[couponTranslations] "${coupon.slug}/${locale}"`;
   const text = translation.locales[locale];
-  if ((coupon.referral && !text.referral) || (coupon.campaigns && text.campaigns?.length !== coupon.campaigns.length)) {
-    throw new Error(`${where}: a tradução precisa de referral e campaigns como o cupom em PT.`);
+  if (coupon.referral && !text.referral) {
+    throw new Error(`${where}: a tradução precisa de referral como o cupom em PT.`);
   }
   const shared = {
     offerUrl: translation.offerUrl ?? coupon.offerUrl,
     referral: coupon.referral && { ...coupon.referral, ...text.referral },
-    campaigns: coupon.campaigns?.map((campaign, index) => ({ ...campaign, ...text.campaigns?.[index] })),
     // Textos que só existem em PT; sem tradução, ficam fora da página.
     socialImageAlt: undefined,
     featuredPitch: undefined,
