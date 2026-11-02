@@ -315,6 +315,12 @@ vídeo, primeiras impressões e uso noturno.
   que só vale com o código da loja leva ao nosso artigo sobre ela (`href` `/reviews/<slug>` da mesma loja, com
   `endsAt`), link interno sem sponsored e fora do próprio artigo. O `test:build-output` confere o lugar, o link, o
   `rel` e os textos em todo artigo.
+  A campanha pode levar o `code` da própria loja (o 37S3442 da SHEIN), nunca o nosso: o banner o mostra com a frase de
+  pesquisar no app (`bannerCodeHint`, `articleCopy.ts`). As mesmas campanhas vão à página da loja (`StorePageBanners`,
+  de `src/components/coupons/`, por `getStorePageBanners`): em `/cupons/<loja>`, nas traduzidas e nas 10 da YesStyle,
+  todas as da loja que não acabaram e têm o texto do idioma, logo antes das regras ("Regras sem letra miúda"; na
+  YesStyle, "como-funcionam"), medidas como `coupon_page_banner`. A antiga seção "Campanhas ativas" (`coupon.campaigns`)
+  saiu: campanha da loja é sempre um arquivo de `content/campanhas/`.
 - Texto que é item flex (bullets, prós e contras) precisa de `min-w-0` para quebrar endereços
   longos; o contêiner do artigo já tem `wrap-break-word`.
 
