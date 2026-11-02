@@ -4,7 +4,7 @@
   "locale": "it",
   "translationKey": "shein-11-11",
   "title": "SHEIN 11.11: i 19 articoli scelti da Cecília, dal pigiama agli accessori (fino al 12/11)",
-  "seoTitle": "SHEIN 11.11 2026: 19 articoli con prezzo e taglie",
+  "seoTitle": "SHEIN 11.11 2026: 19 articoli con sconto e valutazione",
   "type": "Guida all'acquisto",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -20,8 +20,8 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "description": "La selezione di Cecília per la Mega Promozione 11.11 di SHEIN, in corso fino al 12/11/2026: 19 articoli in 5 gruppi (pigiami, bambini, donna, accessori e uomo), ognuno con il prezzo del giorno, il prezzo barrato e lo sconto della scheda, le taglie, la valutazione e il link diretto all'articolo nella campagna. Prezzi letti il 28/10/2026.",
-  "metaDescription": "SHEIN 11.11 fino al 12/11/2026: 19 articoli scelti da Cecília, dal pigiama alla camicia da uomo, con prezzo, sconto e taglie letti nella scheda il 28/10.",
+  "description": "La selezione di Cecília per la Mega Promozione 11.11 di SHEIN, in corso fino al 12/11/2026: 19 articoli in 5 gruppi (pigiami, bambini, donna, accessori e uomo), ognuno con lo sconto, la valutazione e il link diretto all'articolo nella campagna. Sconti letti il 28/10/2026.",
+  "metaDescription": "SHEIN 11.11 fino al 12/11/2026: 19 articoli scelti da Cecília, dal pigiama alla camicia da uomo, con sconto e valutazione di ciascuno.",
   "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
   "imageAlt": "Collage con articoli della selezione 11.11 di SHEIN: pigiama floreale, completo da bambina, cardigan, décolleté e camicia da uomo, con il logo di SHEIN",
   "imageFit": "contain",
@@ -36,15 +36,15 @@
   },
   "coupon": "4CW5Y",
   "affiliate": "shein",
-  "editorialNote": "Selezione di Cecília, con i prezzi letti su SHEIN il 28/10/2026. Possiamo ricevere commissioni dai link e dal codice invito 4CW5Y.",
+  "editorialNote": "Selezione di Cecília, con sconti letti su SHEIN il giorno della pubblicazione; nessuno del sito ha usato i capi. Possiamo ricevere commissioni dai link e dal codice invito 4CW5Y.",
   "relatedArticles": [
     {
       "slug": "codice-invito-shein-dove-inserirlo",
-      "title": "Codice invito SHEIN Brasile: dove inserirlo e come usarlo"
+      "title": "Codice invito SHEIN: dove inserirlo e come usarlo"
     },
     {
       "slug": "black-friday-shein-date-e-tasse",
-      "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e l'imposta di importazione zero fino a US$ 50"
+      "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e come funzionano i coupon"
     },
     {
       "slug": "shein-e-affidabile-e-sicuro",
@@ -55,16 +55,15 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "La Mega Promozione 11.11 di SHEIN dura fino al 12/11/2026, con sconti fino all'85% secondo il negozio. Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo. Prezzi, sconti e taglie di ogni articolo sono stati letti nella scheda di SHEIN il 28/10/2026 e possono cambiare."
+        "Il negozio annuncia fino all'85% di sconto nella Mega Promozione 11.11, fino al 12/11/2026. Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo. Gli sconti e la valutazione di ciascuno vengono dalla scheda dell'articolo, letti nella pagina, e possono cambiare."
       ]
     },
     {
       "heading": "La campagna 11.11",
       "paragraphs": [
-        "La Mega Promozione 11.11 di SHEIN è già iniziata e termina il 12/11/2026. Secondo SHEIN, gli sconti arrivano all'85% su più di 600 mila prodotti, e il negozio spinge la campagna sull'app.",
-        "I prezzi di questa guida sono stati convertiti dal real brasiliano in euro con il cambio del 28/10/2026 e possono essere diversi nel momento in cui apri la scheda.",
-        "La pagina di ingresso è quella delle [Selezioni di Vendita Globali dell'11.11](https://onelink.shein.com/58/66i60wu7xjjd). Per i 19 articoli qui sotto, la foto e la scheda di stile aprono la pagina di ciascuno dentro la campagna.",
-        "Il 4CW5Y è il codice invito di Cecília su SHEIN Brasile: si cerca nella barra di ricerca dell'app e non si incolla al checkout, perché non è un coupon, e potrebbe non valere nel tuo paese. I passaggi sono in [Codice invito SHEIN: dove inserirlo](/it/reviews/codice-invito-shein-dove-inserirlo)."
+        "La Mega Promozione 11.11 di SHEIN è già iniziata. Secondo SHEIN, gli sconti arrivano all'85% su più di 600 mila prodotti, e il negozio spinge la campagna sull'app.",
+        "La pagina di ingresso è quella delle [Selezioni di Vendita Globali dell'11.11](https://onelink.shein.com/58/66i60wu7xjjd). Per i 19 articoli qui sotto, la foto e la scheda aprono la pagina di ciascuno dentro la campagna.",
+        "Il 4CW5Y è il codice invito di SHEIN: si cerca nella barra di ricerca dell'app e non si incolla al checkout, perché non è un coupon. I passaggi sono in [Codice invito SHEIN: come usare il 4CW5Y](/it/reviews/codice-invito-shein-dove-inserirlo)."
       ]
     },
     {
@@ -72,123 +71,102 @@
       "comparisonTable": {
         "headers": [
           "Articolo",
-          "Prezzo approssimativo al 28/10",
-          "Sconto nella scheda"
+          "Sconto"
         ],
         "rows": [
           [
             "[Pigiama floreale Serenescape](https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C)",
-            "circa 9 €",
-            "-20% (da circa 11 €)"
+            "-20%"
           ],
           [
             "[Pigiama canotta e short a righe con cuori](https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C)",
-            "a partire da circa 7 €",
             "—"
           ],
           [
             "[Pigiama 3 pezzi con stampa cartoon](https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C)",
-            "circa 6 €",
-            "-20% (da circa 7 €)"
-          ],
-          [
-            "[Completo da bambina con canotta a cuore e pantalone palazzo](https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C)",
-            "a partire da circa 8 €",
-            "-20% (da circa 10 €)"
-          ],
-          [
-            "[Pigiama da bambino con dinosauro fluorescente](https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C)",
-            "a partire da circa 11 €",
-            "-4% (da circa 12 €)"
-          ],
-          [
-            "[Maglia da neonato con animali disegnati a gesso](https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C)",
-            "a partire da circa 5 €",
-            "-20% (da circa 6 €)"
-          ],
-          [
-            "[Pigiama da bambino a maniche lunghe, stampa assortita](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
-            "circa 8 €",
-            "-20% (da circa 10 €)"
-          ],
-          [
-            "[Completo a righe blu con canotta e pantalone palazzo](https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C)",
-            "a partire da circa 16 €",
-            "-20% (da circa 20 €)"
-          ],
-          [
-            "[Cardigan sportivo slim DAZY](https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C)",
-            "circa 8 €",
-            "-31% (da circa 11 €)"
-          ],
-          [
-            "[Short stampato con vita arricciata](https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C)",
-            "circa 3 €",
-            "-65% (da circa 8 €)"
-          ],
-          [
-            "[Jeans palazzo con vita elastica](https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C)",
-            "circa 22 €",
-            "-20% (da circa 28 €)"
-          ],
-          [
-            "[Décolleté slingback bianche e caramello](https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C)",
-            "circa 10 €",
-            "-38% (da circa 17 €)"
-          ],
-          [
-            "[Orecchini a fiocco con perla e cuore](https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C)",
-            "circa 2 €",
             "-20%"
           ],
           [
-            "[Set orologio verde con bracciale, collana e orecchini](https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C)",
-            "circa 5 €",
-            "-20% (da circa 6 €)"
+            "[Completo da bambina con canotta a cuore e pantalone palazzo](https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C)",
+            "-20%"
           ],
           [
-            "[Occhiali poligonali con lenti sfumate](https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C)",
-            "circa 10 €",
+            "[Pigiama da bambino con dinosauro che si illumina al buio](https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C)",
+            "-4%"
+          ],
+          [
+            "[Maglia da neonato con animali disegnati a gesso](https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C)",
+            "-20%"
+          ],
+          [
+            "[Pigiama da bambino a maniche lunghe, stampa assortita](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
+            "-20%"
+          ],
+          [
+            "[Completo a righe blu con canotta e pantalone palazzo](https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C)",
+            "-20%"
+          ],
+          [
+            "[Cardigan sportivo slim DAZY](https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C)",
+            "-31%"
+          ],
+          [
+            "[Short stampato con vita paperbag](https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C)",
+            "-65%"
+          ],
+          [
+            "[Jeans palazzo con vita elastica](https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C)",
+            "-20%"
+          ],
+          [
+            "[Décolleté slingback bianche e cammello](https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C)",
+            "-38%"
+          ],
+          [
+            "[Orecchini con fiocco, perla e cuore](https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C)",
+            "-20%"
+          ],
+          [
+            "[Kit con orologio verde, bracciale, collana e orecchini](https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C)",
+            "-20%"
+          ],
+          [
+            "[Occhiali con lenti sfumate e montatura poligonale](https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C)",
             "-4%"
           ],
           [
             "[T-shirt Henley blu navy effetto lino](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
-            "a partire da circa 8 €",
-            "-20% (da circa 10 €)"
+            "-20%"
           ],
           [
-            "[Set di short in lino](https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C)",
-            "circa 8 €",
-            "-53% (da circa 17 €)"
+            "[Kit di short di lino](https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C)",
+            "-53%"
           ],
           [
             "[Camicia da uomo a maniche lunghe Manfinity Mode](https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C)",
-            "a partire da circa 12 €",
-            "-20% (da circa 15 €)"
+            "-20%"
           ],
           [
-            "[Canotta nera effetto lavato dalla vestibilità ampia](https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C)",
-            "circa 11 €",
-            "-20% (da circa 14 €)"
+            "[Canotta nera effetto sbiadito a taglio ampio](https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C)",
+            "-20%"
           ]
         ]
       },
       "paragraphs": [
-        "Prezzo e sconto sono quelli della scheda di SHEIN il 28/10/2026. \"A partire da\" vuol dire che il prezzo cambia in base al colore o alla taglia."
+        "Sconti letti il 28/10/2026, nella scheda di ciascun articolo."
       ]
     },
     {
       "heading": "Pigiami",
       "paragraphs": [
-        "Tre pigiami estivi da donna, tutti con lo short. Il 28/10/2026 avevano tutti e tre una valutazione sopra 4,8 e più di mille recensioni nella scheda."
+        "Tre pigiami estivi da donna, tutti con lo short. Tutti e tre hanno una valutazione sopra 4,8 e più di mille recensioni sul negozio."
       ]
     },
     {
       "heading": "Pigiama floreale Serenescape",
       "bullets": [
-        "Prezzo al 28/10: circa 9 € (da circa 11 €, -20%).",
-        "Taglie nella scheda: da XS a XXL.",
-        "Valutazione 4,91 nella scheda, con più di mille recensioni."
+        "Sconto nella scheda: -20%.",
+        "Valutazione 4,91 su SHEIN, con più di mille recensioni."
       ],
       "paragraphs": [
         "Secondo la scheda, è un completo pigiama floreale con tasca e profili a contrasto, della linea Serenescape. Va bene per chi cerca un pigiama estivo leggero, con maglia e short."
@@ -206,7 +184,7 @@
           {
             "piece": "Pigiama floreale Serenescape",
             "url": "https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C",
-            "howTo": "Maglia e shorts per dormire o stare in casa con il caldo.",
+            "howTo": "Maglia e short per dormire o stare in casa con il caldo.",
             "occasion": "Notti calde d'estate."
           }
         ]
@@ -215,12 +193,10 @@
     {
       "heading": "Pigiama canotta e short a righe con cuori",
       "bullets": [
-        "Prezzo al 28/10: a partire da circa 7 €.",
-        "Taglie nella scheda: da XXS a XXL.",
-        "Valutazione 4,86 nella scheda, con più di mille recensioni."
+        "Valutazione 4,86 su SHEIN, con più di mille recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è un pigiama da donna con canotta e short, a righe e con stampa di cuori, del marchio SHEIN. Il prezzo cambia in base al colore o alla taglia, e il 28/10 la scheda non mostrava un prezzo barrato."
+        "È il pigiama a righe con cuori per chi vuole canotta e short con il caldo."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
@@ -235,7 +211,7 @@
           {
             "piece": "Pigiama canotta e short a righe con cuori",
             "url": "https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C",
-            "howTo": "Canottiera e shorts per dormire; con una camicia aperta sopra diventa abbigliamento da casa.",
+            "howTo": "Canotta e short per dormire; con una camicia aperta sopra diventa abbigliamento da casa.",
             "occasion": "In casa, d'estate.",
             "pairsWith": [
               {
@@ -249,12 +225,11 @@
     {
       "heading": "Pigiama 3 pezzi con stampa cartoon",
       "bullets": [
-        "Prezzo al 28/10: circa 6 € (da circa 7 €, -20%).",
-        "Taglie nella scheda: da XS a XXL.",
-        "Valutazione 4,95 nella scheda, con più di mille recensioni, la più alta della selezione."
+        "Sconto nella scheda: -20%.",
+        "Valutazione 4,95 su SHEIN, con più di mille recensioni, la più alta della selezione."
       ],
       "paragraphs": [
-        "Secondo la scheda, è un completo Dream Adore in 3 pezzi con stampa cartoon e short con fiocco in vita. È il prezzo più basso tra i pigiami della selezione."
+        "È un completo Dream Adore di 3 pezzi, con stampa cartoon e short con fiocco in vita."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
@@ -270,7 +245,7 @@
             "piece": "Pigiama 3 pezzi con stampa cartoon",
             "url": "https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C",
             "howTo": "Completo intero, con lo short con fiocco in vita, per dormire o stare in casa.",
-            "occasion": "In casa, tutti i giorni."
+            "occasion": "In casa, ogni giorno."
           }
         ]
       }
@@ -284,12 +259,12 @@
     {
       "heading": "Completo da bambina con canotta a cuore e pantalone palazzo",
       "bullets": [
-        "Prezzo al 28/10: a partire da circa 8 € (da circa 10 €, -20%).",
-        "Taglie nella scheda: da 4 a 7 anni; la scheda elenca anche da 8 a 12 anni.",
-        "Valutazione 4,88 nella scheda, con più di mille recensioni."
+        "Sconto nella scheda: -20%.",
+        "Taglie: da 4 a 7 anni; il negozio ha anche da 8 a 12 anni.",
+        "Valutazione 4,88 su SHEIN, con più di mille recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è un completo da bambina con canotta stampata a cuore e pantalone palazzo, del marchio SHEIN. Va bene per chi cerca un look estivo completo per una bambina dai 4 ai 7 anni."
+        "Secondo la scheda, è un completo da bambina con canotta stampata a cuore e pantalone palazzo, del marchio SHEIN. Va bene per chi vuole un look estivo completo per una bambina di 4-7 anni."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
@@ -304,11 +279,11 @@
           {
             "piece": "Completo da bambina con canotta a cuore e pantalone palazzo",
             "url": "https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C",
-            "howTo": "Canottiera e pantalone palazzo insieme, un look estivo pronto.",
-            "occasion": "Uscita estiva, per bambine dai 4 ai 7 anni.",
+            "howTo": "Canotta e pantalone palazzo insieme, come look estivo già pronto.",
+            "occasion": "Passeggiate d'estate, per bambine di 4-7 anni.",
             "pairsWith": [
               {
-                "label": "sandali piatti"
+                "label": "sandali bassi"
               },
               {
                 "label": "cappello da sole"
@@ -319,14 +294,14 @@
       }
     },
     {
-      "heading": "Pigiama da bambino con dinosauro fluorescente",
+      "heading": "Pigiama da bambino con dinosauro che si illumina al buio",
       "bullets": [
-        "Prezzo al 28/10: a partire da circa 11 € (da circa 12 €, -4%).",
-        "Taglie nella scheda: da 4 a 7 anni.",
-        "Valutazione 4,36 nella scheda, con 83 recensioni."
+        "Sconto nella scheda: -4%.",
+        "Taglie: da 4 a 7 anni.",
+        "Valutazione 4,36 su SHEIN, con 83 recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è un pigiama da bambino in 2 pezzi, con un dinosauro natalizio che si illumina al buio e vita elastica. Va bene per chi vuole già il pigiama delle feste di fine anno per un bambino dai 4 ai 7 anni."
+        "Secondo la scheda, è un pigiama da bambino in 2 pezzi, con dinosauro natalizio che si illumina al buio e polsini elastici. Va bene per chi vuole già il pigiama delle feste per un bambino di 4-7 anni."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
@@ -339,10 +314,10 @@
         "layout": "tabs",
         "items": [
           {
-            "piece": "Pigiama da bambino con dinosauro fluorescente",
+            "piece": "Pigiama da bambino con dinosauro che si illumina al buio",
             "url": "https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C",
-            "howTo": "Pigiama in 2 pezzi; il dinosauro si illumina a luce spenta.",
-            "occasion": "Per la notte, bambini dai 4 ai 7 anni."
+            "howTo": "Per dormire; il dinosauro si vede a luce spenta.",
+            "occasion": "All'ora di dormire, bambini di 4-7 anni."
           }
         ]
       }
@@ -350,12 +325,12 @@
     {
       "heading": "Maglia da neonato con animali disegnati a gesso",
       "bullets": [
-        "Prezzo al 28/10: a partire da circa 5 € (da circa 6 €, -20%).",
-        "Taglie nella scheda: da 6 mesi a 3 anni.",
-        "Valutazione 4,12 nella scheda, con più di mille recensioni."
+        "Sconto nella scheda: -20%.",
+        "Taglie: da 6 mesi a 3 anni.",
+        "Valutazione 4,12 su SHEIN, con più di mille recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è una maglia da neonato maschio con animali disegnati a gesso, come tigre, orso e bradipo. È il capo per bambini più economico della selezione, per neonati dai 6 mesi ai 3 anni."
+        "Sulla scheda SHEIN, è una maglia da neonato con animali disegnati a gesso, come tigre, orso e bradipo, per bambini da 6 mesi a 3 anni."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
@@ -370,14 +345,14 @@
           {
             "piece": "Maglia da neonato con animali disegnati a gesso",
             "url": "https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C",
-            "howTo": "Maglia per tutti i giorni, con pantaloni o shorts in maglia.",
-            "occasion": "Tutti i giorni, per neonati dai 6 mesi ai 3 anni.",
+            "howTo": "Maglia di tutti i giorni, per il caldo.",
+            "occasion": "Ogni giorno, per bambini da 6 mesi a 3 anni.",
             "pairsWith": [
               {
-                "label": "pantaloni in maglia"
+                "label": "pantaloni di jersey"
               },
               {
-                "label": "shorts in maglia"
+                "label": "short di jersey"
               }
             ]
           }
@@ -387,16 +362,16 @@
     {
       "heading": "Pigiama da bambino a maniche lunghe, stampa assortita",
       "bullets": [
-        "Prezzo al 28/10: circa 8 € (da circa 10 €, -20%).",
-        "Taglie nella scheda: da 9 mesi a 7 anni.",
-        "Valutazione 4,09 nella scheda, con 62 recensioni."
+        "Sconto nella scheda: -20%.",
+        "Taglie: da 9 mesi a 7 anni.",
+        "Valutazione 4,09 su SHEIN, con 62 recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è un pigiama da bambino a maniche lunghe e pantalone lungo, con stampa su tutto il capo. La scheda vende 1 completo, e la stampa (dinosauro, scavatrice o aereo) la sceglie il negozio, non chi compra."
+        "È un pigiama da bambino con maniche lunghe e pantaloni lunghi, con stampa integrale. L'annuncio vende 1 completo, e la stampa (dinosauro, escavatore o aereo) la sceglie il negozio, non chi compra. Va bene per chi accetta la stampa a sorpresa."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
-        "alt": "Pigiama da bambino a maniche lunghe con stampa di dinosauro, scavatrice o aereo, foto della scheda SHEIN",
+        "alt": "Pigiama da bambino a maniche lunghe con stampa di dinosauro, escavatore o aereo, foto della scheda SHEIN",
         "objectFit": "contain",
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C"
@@ -407,8 +382,8 @@
           {
             "piece": "Pigiama da bambino a maniche lunghe, stampa assortita",
             "url": "https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C",
-            "howTo": "Manica lunga e pantalone lungo, per notti più fresche.",
-            "occasion": "Notti fresche, dai 9 mesi ai 7 anni."
+            "howTo": "Maniche lunghe e pantaloni lunghi, per le notti più fresche.",
+            "occasion": "Notti fresche, da 9 mesi a 7 anni."
           }
         ]
       }
@@ -416,18 +391,17 @@
     {
       "heading": "Donna",
       "paragraphs": [
-        "Quattro capi da donna per tutti i giorni: un completo, un cardigan, uno short e un jeans. Qui c'è lo sconto più alto della selezione, lo short a -65%."
+        "Quattro capi da donna per ogni giorno: un completo, un cardigan, uno short e un paio di jeans. Qui c'è lo sconto più alto della selezione, nello short stampato."
       ]
     },
     {
       "heading": "Completo a righe blu con canotta e pantalone palazzo",
       "bullets": [
-        "Prezzo al 28/10: a partire da circa 16 € (da circa 20 €, -20%).",
-        "Taglie nella scheda: da XXS a XXL.",
-        "Valutazione 4,70 nella scheda, con più di mille recensioni."
+        "Sconto nella scheda: -20%.",
+        "Valutazione 4,70 su SHEIN, con più di mille recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è un completo SHEIN Franclia con canotta e pantalone palazzo, a righe blu, che il negozio descrive per tutti i giorni, il lavoro e le vacanze. Va bene per chi vuole il look pronto in un completo solo."
+        "È un completo SHEIN Franclia con canotta e pantalone palazzo, a righe blu, che il negozio descrive per ogni giorno, il lavoro e le vacanze. Va bene per chi vuole il look pronto in un unico completo."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
@@ -442,18 +416,18 @@
           {
             "piece": "Completo a righe blu con canotta e pantalone palazzo",
             "url": "https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C",
-            "howTo": "Canottiera e pantalone palazzo insieme, look pronto; con il cardigan sopra, va dal caldo all'aria condizionata.",
-            "occasion": "Tutti i giorni, lavoro e vacanze, secondo il negozio.",
+            "howTo": "Canotta e pantalone palazzo insieme, come look pronto; con un cardigan sopra, va bene dal caldo all'aria condizionata.",
+            "occasion": "Ogni giorno, lavoro e vacanze, secondo il negozio.",
             "pairsWith": [
               {
                 "label": "Cardigan sportivo slim DAZY",
                 "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C"
               },
               {
-                "label": "sandali piatti"
+                "label": "sandali bassi"
               },
               {
-                "label": "tracolla"
+                "label": "borsa a tracolla"
               }
             ]
           }
@@ -463,12 +437,11 @@
     {
       "heading": "Cardigan sportivo slim DAZY",
       "bullets": [
-        "Prezzo al 28/10: circa 8 € (da circa 11 €, -31%).",
-        "Taglie nella scheda: da S a L e Petite.",
-        "Valutazione 4,78 nella scheda, con più di mille recensioni."
+        "Sconto nella scheda: -31%.",
+        "Valutazione 4,78 su SHEIN, con più di mille recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è un cardigan sportivo a maniche lunghe e taglio slim, di DAZY, che il negozio descrive come una giacca leggera di mezza stagione. Va bene per chi cerca un terzo capo leggero per l'aria condizionata o la sera."
+        "È un cardigan sportivo a maniche lunghe e taglio slim, di DAZY, che il negozio descrive come una giacca leggera da mezza stagione. Va bene per chi cerca un terzo capo leggero per l'aria condizionata o il tardo pomeriggio."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
@@ -483,8 +456,8 @@
           {
             "piece": "Cardigan sportivo slim DAZY",
             "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
-            "howTo": "Sopra una canottiera o una maglietta, come giacca leggera.",
-            "occasion": "Mezza stagione, aria condizionata e fine pomeriggio.",
+            "howTo": "Sopra una canotta o una maglietta, come giacchina leggera.",
+            "occasion": "Mezza stagione, aria condizionata e tardo pomeriggio.",
             "pairsWith": [
               {
                 "label": "Completo a righe blu con canotta e pantalone palazzo",
@@ -494,7 +467,7 @@
                 "label": "jeans"
               },
               {
-                "label": "abito in maglia"
+                "label": "abito in jersey"
               }
             ]
           }
@@ -502,14 +475,13 @@
       }
     },
     {
-      "heading": "Short stampato con vita arricciata",
+      "heading": "Short stampato con vita paperbag",
       "bullets": [
-        "Prezzo al 28/10: circa 3 € (da circa 8 €, -65%).",
-        "Taglie nella scheda: da XXS a XXL, e la scheda elenca anche le taglie Plus.",
-        "Valutazione 4,88 nella scheda, con più di mille recensioni."
+        "Sconto nella scheda: -65%.",
+        "Valutazione 4,88 su SHEIN, con più di mille recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è uno short stampato con vita arricciata, della linea SHEIN Frenchy, che il negozio descrive in stile \"old money\" per l'estate e le vacanze. È il capo più economico della selezione e quello con lo sconto più alto nella scheda."
+        "È lo short con vita arricciata per chi vuole un capo economico per l'estate e le vacanze. È il capo con lo sconto più alto della selezione."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -522,16 +494,16 @@
         "layout": "tabs",
         "items": [
           {
-            "piece": "Short stampato con vita arricciata",
+            "piece": "Short stampato con vita paperbag",
             "url": "https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C",
-            "howTo": "Con una maglietta liscia, così la stampa si vede.",
+            "howTo": "Con una maglietta in tinta unita, perché la stampa risalti.",
             "occasion": "Estate e vacanze.",
             "pairsWith": [
               {
                 "label": "maglietta bianca"
               },
               {
-                "label": "sandali piatti"
+                "label": "sandali bassi"
               }
             ]
           }
@@ -541,12 +513,11 @@
     {
       "heading": "Jeans palazzo con vita elastica",
       "bullets": [
-        "Prezzo al 28/10: circa 22 € (da circa 28 €, -20%).",
-        "Taglie nella scheda: da XS a L.",
-        "Valutazione 4,31 nella scheda, con 48 recensioni."
+        "Sconto nella scheda: -20%.",
+        "Valutazione 4,31 su SHEIN, con 48 recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è un jeans palazzo Flexra, con vita elastica, che il negozio descrive come comodo e a gamba larga. È l'articolo più caro della selezione."
+        "È un jeans palazzo Flexra con vita elastica, che il negozio descrive come comodo e a gamba larga. Va bene per chi vuole un pantalone a gamba larga con vita elastica."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
@@ -561,11 +532,11 @@
           {
             "piece": "Jeans palazzo con vita elastica",
             "url": "https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C",
-            "howTo": "Con décolleté o ballerine a punta, per bilanciare la gamba larga.",
-            "occasion": "Tutti i giorni e lavoro informale.",
+            "howTo": "Con décolleté o scarpe a punta, per bilanciare la gamba larga.",
+            "occasion": "Ogni giorno e lavoro informale.",
             "pairsWith": [
               {
-                "label": "Décolleté slingback bianche e caramello",
+                "label": "Décolleté slingback bianche e cammello",
                 "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
               },
               {
@@ -582,22 +553,21 @@
     {
       "heading": "Accessori",
       "paragraphs": [
-        "Un paio di décolleté, un paio di orecchini, un set con orologio e bigiotteria e un paio di occhiali da sole. Tre su quattro avevano più di mille recensioni nella scheda il 28/10/2026."
+        "Un paio di décolleté, un paio di orecchini, un kit con orologio e bijoux e un paio di occhiali da sole. Tre su quattro hanno più di mille recensioni sul negozio."
       ]
     },
     {
-      "heading": "Décolleté slingback bianche e caramello",
+      "heading": "Décolleté slingback bianche e cammello",
       "bullets": [
-        "Prezzo al 28/10: circa 10 € (da circa 17 €, -38%).",
-        "Taglie nella scheda: da BR34 a BR39, nella numerazione brasiliana della scheda.",
-        "Valutazione 4,82 nella scheda, con più di 100 recensioni."
+        "Sconto nella scheda: -38%.",
+        "Valutazione 4,82 su SHEIN, con più di 100 recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, sono décolleté slingback in bianco e caramello, con tacco largo, che il negozio descrive come eleganti e moderne. Vanno bene per chi cerca una scarpa da lavoro o da festa con un tacco più stabile."
+        "È una décolleté slingback bianca e cammello, con tacco a blocco, che il negozio descrive come elegante e moderna. Va bene per chi vuole una scarpa da lavoro o da festa con un tacco più stabile."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
-        "alt": "Décolleté slingback bianche e caramello con tacco largo, foto della scheda SHEIN",
+        "alt": "Décolleté slingback bianche e cammello con tacco a blocco, foto della scheda SHEIN",
         "objectFit": "contain",
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C"
@@ -606,9 +576,9 @@
         "layout": "tabs",
         "items": [
           {
-            "piece": "Décolleté slingback bianche e caramello",
+            "piece": "Décolleté slingback bianche e cammello",
             "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-            "howTo": "Con pantaloni sartoriali, jeans o un abito; il tacco largo è più stabile, secondo il negozio.",
+            "howTo": "Con pantaloni sartoriali, jeans o abito; il tacco a blocco è più stabile, dice la scheda.",
             "occasion": "Lavoro e feste.",
             "pairsWith": [
               {
@@ -624,18 +594,18 @@
       }
     },
     {
-      "heading": "Orecchini a fiocco con perla e cuore",
+      "heading": "Orecchini con fiocco, perla e cuore",
       "bullets": [
-        "Prezzo al 28/10: circa 2 € (-20%).",
+        "Sconto nella scheda: -20%.",
         "Taglia: unica.",
-        "Valutazione 4,92 nella scheda, con più di mille recensioni."
+        "Valutazione 4,92 su SHEIN, con più di mille recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è un paio di orecchini a fiocco con perla e cuore, che il negozio consiglia per le feste. È l'articolo più economico della selezione e va bene come piccolo regalo o pensierino."
+        "È un paio di orecchini con fiocco, perla e cuore, che il negozio indica per le feste. Va bene come pensierino o piccolo regalo."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
-        "alt": "Paio di orecchini a fiocco con perla e cuore, foto della scheda SHEIN",
+        "alt": "Paio di orecchini con fiocco, perla e cuore, foto della scheda SHEIN",
         "objectFit": "contain",
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C"
@@ -644,27 +614,27 @@
         "layout": "tabs",
         "items": [
           {
-            "piece": "Orecchini a fiocco con perla e cuore",
+            "piece": "Orecchini con fiocco, perla e cuore",
             "url": "https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C",
-            "howTo": "Con i capelli raccolti, perché si veda il fiocco.",
-            "occasion": "Festa, o come piccolo regalo."
+            "howTo": "Con i capelli raccolti, perché il fiocco si veda.",
+            "occasion": "Feste, o come piccolo regalo."
           }
         ]
       }
     },
     {
-      "heading": "Set orologio verde con bracciale, collana e orecchini",
+      "heading": "Kit con orologio verde, bracciale, collana e orecchini",
       "bullets": [
-        "Prezzo al 28/10: circa 5 € (da circa 6 €, -20%).",
+        "Sconto nella scheda: -20%.",
         "Taglia: unica.",
-        "Valutazione 4,75 nella scheda, con più di mille recensioni."
+        "Valutazione 4,75 su SHEIN, con più di mille recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è un set da 9 pezzi con orologio verde, bracciale, collana e orecchini, che il negozio consiglia per tutti i giorni o come regalo. Va bene per chi vuole un completo di accessori in una volta sola, per circa 5 €."
+        "È un kit da 9 pezzi con orologio verde, bracciale, collana e orecchini, che il negozio indica per l'uso quotidiano o come regalo. Va bene per chi vuole mettere insieme un completo in una volta sola."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
-        "alt": "Set da 9 pezzi con orologio verde, bracciale, collana e orecchini, foto della scheda SHEIN",
+        "alt": "Kit da 9 pezzi con orologio verde, bracciale, collana e orecchini, foto della scheda SHEIN",
         "objectFit": "contain",
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C"
@@ -673,23 +643,23 @@
         "layout": "tabs",
         "items": [
           {
-            "piece": "Set orologio verde con bracciale, collana e orecchini",
+            "piece": "Kit con orologio verde, bracciale, collana e orecchini",
             "url": "https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C",
-            "howTo": "L'orologio da solo tutti i giorni; con la collana e gli orecchini del set, per un'uscita.",
-            "occasion": "Tutti i giorni, uscite o regalo."
+            "howTo": "L'orologio da solo ogni giorno; con la collana e gli orecchini del kit, per una serata fuori.",
+            "occasion": "Ogni giorno, serate fuori o regalo."
           }
         ]
       }
     },
     {
-      "heading": "Occhiali poligonali con lenti sfumate",
+      "heading": "Occhiali con lenti sfumate e montatura poligonale",
       "bullets": [
-        "Prezzo al 28/10: circa 10 € (-4%).",
-        "Taglie: la scheda non elenca taglie; si sceglie solo il colore.",
-        "Valutazione 4,88 nella scheda, con più di mille recensioni."
+        "Sconto nella scheda: -4%.",
+        "Taglie: non ce ne sono; si sceglie solo il colore.",
+        "Valutazione 4,88 su SHEIN, con più di mille recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, sono occhiali LINFEMAND con montatura poligonale e lenti sfumate, in 6 colori, che il negozio consiglia per guidare, la spiaggia e i viaggi. Lo sconto nella scheda è piccolo, del 4%."
+        "È un paio di occhiali con montatura poligonale e lenti sfumate, in 6 colori. Va bene per chi vuole occhiali da sole per guidare e viaggiare; lo sconto qui è piccolo."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
@@ -702,10 +672,10 @@
         "layout": "tabs",
         "items": [
           {
-            "piece": "Occhiali poligonali con lenti sfumate",
+            "piece": "Occhiali con lenti sfumate e montatura poligonale",
             "url": "https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C",
             "howTo": "Montatura in un tono che si abbini ai vestiti che usi di più.",
-            "occasion": "Guida, spiaggia e viaggi, secondo il negozio."
+            "occasion": "Guida, mare e viaggi, secondo il negozio."
           }
         ]
       }
@@ -713,18 +683,17 @@
     {
       "heading": "Uomo",
       "paragraphs": [
-        "Quattro capi da uomo: una T-shirt Henley, un set di short, una camicia a maniche lunghe e una canotta. Due vanno oltre la XXL nella scheda: la Henley fino alla XXXL e la canotta con le taglie Plus."
+        "Quattro capi da uomo: una T-shirt Henley, un kit di short, una camicia a maniche lunghe e una canotta."
       ]
     },
     {
       "heading": "T-shirt Henley blu navy effetto lino",
       "bullets": [
-        "Prezzo al 28/10: a partire da circa 8 € (da circa 10 €, -20%).",
-        "Taglie nella scheda: da XS a XXXL.",
-        "Valutazione 4,61 nella scheda, con più di 500 recensioni."
+        "Sconto nella scheda: -20%.",
+        "Valutazione 4,61 su SHEIN, con più di 500 recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è una T-shirt Henley a maniche corte, blu navy, con una trama che imita il lino, che il negozio descrive come casual e dalla vestibilità rilassata. Va bene per chi vuole una maglietta un po' più curata di quella basic."
+        "È una T-shirt Henley a maniche corte, blu navy, con una texture che imita il lino, che il negozio descrive come casual e dalla vestibilità morbida. Va bene per chi vuole una maglietta un po' più curata di quella basic."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
@@ -739,18 +708,18 @@
           {
             "piece": "T-shirt Henley blu navy effetto lino",
             "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-            "howTo": "Morbida, con jeans o bermuda, per un casual più curato.",
-            "occasion": "Tutti i giorni e weekend.",
+            "howTo": "Fuori dai pantaloni, con jeans o bermuda, per un casual più curato.",
+            "occasion": "Ogni giorno e weekend.",
             "pairsWith": [
               {
-                "label": "Set di short in lino",
+                "label": "Kit di short di lino",
                 "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
               },
               {
                 "label": "jeans"
               },
               {
-                "label": "sneakers bianche"
+                "label": "sneaker bianche"
               }
             ]
           }
@@ -758,18 +727,17 @@
       }
     },
     {
-      "heading": "Set di short in lino",
+      "heading": "Kit di short di lino",
       "bullets": [
-        "Prezzo al 28/10: circa 8 € (da circa 17 €, -53%).",
-        "Taglie nella scheda: da S a XL.",
-        "Valutazione 4,76 nella scheda, con 34 recensioni."
+        "Sconto nella scheda: -53%.",
+        "Valutazione 4,76 su SHEIN, con 34 recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è un set di short in lino in colori assortiti, che il negozio descrive come casual e moderno. La scheda non dice quanti pezzi ci sono nel set: controlla prima di comprare."
+        "È un kit di short di lino in vari colori, per chi vuole rinnovare i basic estivi in una volta sola. La scheda non dice quanti pezzi contiene il kit: controlla prima di comprare."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
-        "alt": "Set di short da uomo in lino in colori assortiti, foto della scheda SHEIN",
+        "alt": "Kit di short da uomo di lino in vari colori, foto della scheda SHEIN",
         "objectFit": "contain",
         "aspectRatio": 1,
         "href": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C"
@@ -778,9 +746,9 @@
         "layout": "tabs",
         "items": [
           {
-            "piece": "Set di short in lino",
+            "piece": "Kit di short di lino",
             "url": "https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C",
-            "howTo": "Con una maglietta liscia o henley, per un casual estivo.",
+            "howTo": "Con una maglietta in tinta unita o una Henley, per un casual estivo.",
             "occasion": "Estate e vacanze.",
             "pairsWith": [
               {
@@ -788,10 +756,10 @@
                 "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C"
               },
               {
-                "label": "canottiera bianca"
+                "label": "canotta bianca"
               },
               {
-                "label": "sneakers basse"
+                "label": "sneaker bianche"
               }
             ]
           }
@@ -801,12 +769,11 @@
     {
       "heading": "Camicia da uomo a maniche lunghe Manfinity Mode",
       "bullets": [
-        "Prezzo al 28/10: a partire da circa 12 € (da circa 15 €, -20%).",
-        "Taglie nella scheda: da XS a XXL.",
-        "Valutazione 4,86 nella scheda, con più di mille recensioni."
+        "Sconto nella scheda: -20%.",
+        "Valutazione 4,86 su SHEIN, con più di mille recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è una camicia a maniche lunghe di Manfinity Mode, che il negozio descrive come versatile, per tutti i giorni e per le occasioni formali. Va bene per chi ha bisogno di una camicia più curata per il lavoro."
+        "È una camicia a maniche lunghe di Manfinity Mode, che il negozio descrive come versatile, per ogni giorno e per le occasioni formali. Va bene per chi ha bisogno di una camicia più curata per il lavoro."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
@@ -821,7 +788,7 @@
           {
             "piece": "Camicia da uomo a maniche lunghe Manfinity Mode",
             "url": "https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C",
-            "howTo": "Aperta sopra una maglietta, o infilata nei pantaloni sartoriali.",
+            "howTo": "Aperta sopra una maglietta, o dentro i pantaloni sartoriali.",
             "occasion": "Lavoro e occasioni formali, secondo il negozio.",
             "pairsWith": [
               {
@@ -839,18 +806,17 @@
       }
     },
     {
-      "heading": "Canotta nera effetto lavato dalla vestibilità ampia",
+      "heading": "Canotta nera effetto sbiadito a taglio ampio",
       "bullets": [
-        "Prezzo al 28/10: circa 11 € (da circa 14 €, -20%).",
-        "Taglie nella scheda: da S a XXL, e la scheda elenca anche le taglie Plus.",
-        "Valutazione 4,73 nella scheda, con più di 500 recensioni."
+        "Sconto nella scheda: -20%.",
+        "Valutazione 4,73 su SHEIN, con più di 500 recensioni."
       ],
       "paragraphs": [
-        "Secondo la scheda, è una canotta nera effetto lavato dalla vestibilità ampia, che il negozio descrive come streetwear estivo. Va bene per chi cerca una canotta da strada, non da allenamento."
+        "È una canotta nera effetto sbiadito, a taglio ampio, che il negozio descrive come streetwear estivo. Va bene per chi vuole una canotta da strada, non da allenamento."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
-        "alt": "Canotta da uomo nera effetto lavato dalla vestibilità ampia, foto della scheda SHEIN",
+        "alt": "Canotta da uomo nera effetto sbiadito a taglio ampio, foto della scheda SHEIN",
         "objectFit": "contain",
         "aspectRatio": 0.75,
         "href": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C"
@@ -859,16 +825,16 @@
         "layout": "tabs",
         "items": [
           {
-            "piece": "Canotta nera effetto lavato dalla vestibilità ampia",
+            "piece": "Canotta nera effetto sbiadito a taglio ampio",
             "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-            "howTo": "Con bermuda o pantaloncini in felpa, per un look da strada.",
+            "howTo": "Con bermuda o short di felpa, per un look urbano.",
             "occasion": "Estate e strada; non è un capo da allenamento.",
             "pairsWith": [
               {
-                "label": "bermuda in nylon"
+                "label": "bermuda di tactel"
               },
               {
-                "label": "sneakers bianche"
+                "label": "sneaker bianche"
               },
               {
                 "label": "cappellino"
@@ -881,8 +847,8 @@
     {
       "heading": "Prima di comprare",
       "bullets": [
-        "**Il prezzo cambia ogni giorno:** prezzo e sconto di ogni articolo sono quelli della scheda di SHEIN il 28/10/2026. SHEIN cambia i prezzi durante la campagna, e \"a partire da\" vuol dire che il prezzo cambia in base al colore o alla taglia.",
-        "**Taglia:** controlla la tabella delle misure della scheda prima di scegliere, perché la vestibilità cambia da capo a capo.",
+        "**Lo sconto cambia ogni giorno:** lo sconto di ogni articolo è quello del giorno della lettura, e SHEIN cambia le offerte durante la campagna.",
+        "**Taglia:** se sei tra due taglie, controlla la tabella delle misure dell'articolo prima di scegliere, perché la vestibilità cambia da capo a capo.",
         "**Il 4CW5Y è un codice invito, non un coupon:** si cerca nella barra di ricerca dell'app e non si incolla al checkout. Vedi il [codice invito SHEIN](/it/reviews/codice-invito-shein-dove-inserirlo) e la [pagina di SHEIN](/it/coupons/shein), con il link principale del negozio.",
         "**Aspetti il Black Friday?** La guida al [Black Friday SHEIN](/it/reviews/black-friday-shein-date-e-tasse) raccoglie quello che già si sa della campagna di novembre.",
         "**Primo acquisto su SHEIN?** Leggi prima la guida [SHEIN è affidabile?](/it/reviews/shein-e-affidabile-e-sicuro)."
@@ -891,10 +857,10 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Fino a quando dura l'11.11 di SHEIN? La Mega Promozione 11.11 termina il 12/11/2026, secondo SHEIN.",
-        "Il prezzo degli articoli può cambiare? Sì. I prezzi e gli sconti di questa guida sono quelli della scheda il 28/10/2026, convertiti in euro, e SHEIN cambia il prezzo durante la campagna e in base al colore o alla taglia.",
-        "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN Brasile: si cerca nella barra di ricerca dell'app e non si incolla al checkout.",
-        "I link portano direttamente all'articolo? Sì. La foto e la scheda di stile di ogni articolo aprono la sua pagina dentro la campagna 11.11, e il link della campagna apre la pagina delle Selezioni di Vendita Globali."
+        "Fino a quando dura l'11.11 di SHEIN? Termina il giorno dopo l'11.11, secondo SHEIN; la data è nella risposta rapida qui sopra.",
+        "Lo sconto degli articoli può cambiare? Sì: gli sconti sono quelli del giorno della lettura e SHEIN cambia le offerte durante la campagna.",
+        "Il 4CW5Y è un coupon? No. È il codice invito di SHEIN: si cerca nella barra di ricerca dell'app e non si incolla al checkout.",
+        "I link portano direttamente all'articolo? Sì. La foto e la scheda di ogni articolo aprono la sua pagina dentro la campagna 11.11, e il link della campagna apre la pagina delle Selezioni di Vendita Globali."
       ]
     }
   ]

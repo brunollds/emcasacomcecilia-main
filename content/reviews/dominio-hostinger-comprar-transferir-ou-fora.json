@@ -222,6 +222,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o domínio na Hostinger se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel.",
+      "Leve a transferência só se o domínio tem mais de 60 dias de registro e a renovação na Hostinger compensa o que você paga hoje."
+    ],
+    "skipIf": [
+      "Passe se já tem domínio em outro registrador, prefere separar as contas ou a renovação de lá é menor: aponte o DNS e deixe o registro onde está.",
+      "Passe da transferência se o registro tem menos de 60 dias: ela não começa.",
+      "Passe se o domínio ficaria no nome ou na conta de um freelancer ou de uma agência: use um e-mail que você controla."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

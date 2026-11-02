@@ -30,76 +30,76 @@
       "initials": "BL"
     }
   ],
-  "description": "Paperclip orchestra team di agenti IA, open source (MIT). Cosa si può verificare e se conviene gestito o VPS su Hostinger, con prezzi del 21/10/2026.",
-  "metaDescription": "Paperclip AI: cos'è, chi lo mantiene, cosa si può verificare e come farlo girare su Hostinger, gestito o VPS, con prezzi del 21/10/2026 in dollari.",
+  "description": "Paperclip è un orchestratore di squadre di agenti IA, open source (MIT). Vedi cosa si può verificare e se conviene il gestito o un VPS su Hostinger.",
+  "metaDescription": "Paperclip AI: cos’è, chi lo mantiene, cosa si può verificare e come farlo girare su Hostinger, gestito o VPS.",
   "publishedAt": "21 ottobre 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
-  "imageAlt": "Il logo di Paperclip, con il logo Hostinger, il titolo Paperclip AI e un'icona di server",
+  "imageAlt": "Logo di Paperclip in evidenza, con il logo di Hostinger, il titolo Paperclip AI e un’icona di server",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Paperclip organizza un team di agenti IA, ciascuno con ruolo, obiettivi e un limite di spesa, e le chiavi IA sono vostre. Il codice è pubblico (MIT), ma non abbiamo trovato alcun audit indipendente. Su Hostinger funziona in piano gestito o su VPS, e chi si occupa del server decide la scelta: vedete Quale scegliere."
+        "Paperclip organizza una squadra di agenti IA, con ruoli, obiettivi e un limite di spesa per ciascuno, ma non fa girare l’IA: le chiavi sono tue. Su Hostinger, gira sul piano gestito o su un VPS. Ciò che cambia la decisione è chi si occupa del server; vedi il confronto qui sotto."
       ]
     },
     {
-      "heading": "Cos'è Paperclip, in parole semplici",
+      "heading": "Che cos’è Paperclip, in parole semplici",
       "paragraphs": [
-        "Paperclip è un programma per organizzare un team di agenti IA: invece di un solo assistente, componete il team con ruoli, obiettivi e un limite di spesa per ciascun agente. Pensate a una piccola azienda, con un titolare, dei responsabili e dei dipendenti, ognuno con il proprio compito. Paperclip fa lo stesso con gli agenti IA: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi sta in alto delega le attività, e chi sta sotto risponde a lui. La documentazione mette in evidenza cinque idee del progetto."
+        "Paperclip è un programma per organizzare una squadra di agenti IA: invece di un solo assistente, metti insieme la squadra con ruoli, obiettivi e un limite di spesa per ogni agente. Pensa a una piccola azienda. C’è un titolare, ci sono dei responsabili e dei dipendenti, ciascuno con la sua funzione. Paperclip fa questo con gli agenti IA: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi sta sopra delega i compiti, e chi sta sotto risponde a lui. Nella documentazione, nel progetto compaiono cinque idee."
       ],
       "image": {
-        "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-it.webp",
-        "alt": "Schema con un Obiettivo in alto, un CEO sotto e tre agenti (Ingegneria, Marketing e Supporto), con la fascia Budget e approvazione in basso",
-        "caption": "Come Paperclip organizza gli agenti, secondo la documentazione ufficiale letta il 21/10/2026."
+        "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
+        "alt": "Lavagna con un Obiettivo in alto, un CEO sotto e tre agenti (Ingegneria, Marketing e Supporto), con la fascia Budget e approvazione in basso",
+        "caption": "Come Paperclip organizza gli agenti, secondo la documentazione ufficiale."
       },
       "bullets": [
-        "**Organigramma:** la struttura di chi riferisce a chi. Un agente di marketing riferisce a chi cura la strategia, e così via.",
-        "**Heartbeat:** un agente non resta attivo di continuo. Si risveglia quando riceve un lavoro, un messaggio di follow-up o una pianificazione, controlla che cosa c'è da fare, agisce e torna a riposare.",
-        "**Budget per agente:** si fissa un tetto di spesa per ogni agente, per ogni progetto e per l'intera azienda. Quando si raggiunge il limite, il lavoro viene messo in pausa. Conta perché ogni risposta IA costa denaro, addebitato dal fornitore del modello.",
-        "**Approvazione:** si può chiedere una revisione prima che un lavoro prosegua, approvare l'assunzione di un nuovo agente oppure fermare e riassegnare un'attività.",
-        "**Audit:** azioni, cambi di stato, costi, approvazioni e commenti restano registrati. Si può vedere dopo che cosa è successo e perché."
+        "**Organigramma:** la struttura di chi risponde a chi. Un agente di marketing risponde a chi cura la strategia, e così via.",
+        "**Heartbeat:** il nome viene da “battito”. Un agente non resta in funzione tutto il tempo. Si “sveglia” quando riceve del lavoro, un messaggio di follow-up o una pianificazione, verifica cosa deve fare e agisce. Poi torna a dormire.",
+        "**Budget per agente:** fissa un tetto di spesa per ogni agente, per ogni progetto e per l’azienda. Quando si raggiunge il limite, il lavoro viene messo in pausa. Conta perché ogni risposta dell’IA costa denaro, addebitato dal fornitore del modello.",
+        "**Approvazione:** puoi richiedere una revisione prima che un lavoro prosegua, approvare l’assunzione di un nuovo agente oppure fermare e riassegnare un compito.",
+        "**Audit:** azioni, cambi di stato, costi, approvazioni e commenti vengono registrati. Dopo si può vedere cosa è successo e perché."
       ],
       "postParagraphs": [
-        "La differenza rispetto a un agente singolo sta nel formato. Un assistente come [OpenClaw](/it/reviews/openclaw-hostinger-gestito-o-vps) è una persona digitale con cui si conversa dall'inizio alla fine. Paperclip è la sala riunioni: si definiscono i ruoli e si lascia lavorare la squadra sotto regole di budget e approvazione. Per un uso personale di solito basta un agente singolo. Una squadra ha senso quando ci sono più fronti di lavoro e si vuole controllare la spesa di ciascuno."
+        "La differenza rispetto a un agente singolo sta nel formato. Un assistente come [OpenClaw](/it/reviews/openclaw-hostinger-gestito-o-vps) è una persona digitale con cui conversi, dall’inizio alla fine. Paperclip è la sala riunioni: definisci i ruoli e lascia lavorare la squadra con regole di budget e di approvazione. Per un uso personale, di solito basta un agente singolo. La squadra ha senso quando ci sono più fronti di lavoro e vuoi controllare la spesa di ciascuno."
       ]
     },
     {
-      "heading": "È affidabile? Che cosa si può verificare",
+      "heading": "È affidabile? Cosa si può verificare",
       "paragraphs": [
-        "“Affidabile” è una parola impegnativa. Conviene distinguere ciò che si può verificare da ciò che non si può verificare.",
-        "**Chi lo mantiene.** Secondo il repository ufficiale, github.com/paperclipai/paperclip, il progetto è mantenuto dal team Paperclip, e l'avviso di copyright dice “MIT © 2026 Paperclip Labs, Inc.”. Il sito del progetto, paperclip.ing, rimanda allo stesso repository. Non confonderlo con fork e copie del codice che compaiono nelle ricerche.",
-        "**Licenza.** MIT. Vuol dire che il codice è aperto: chiunque può leggerlo, verificarlo e usarlo. Vuol dire anche che nessuno è obbligato a mantenere la versione che avete installato.",
-        "**Dove gira.** Decidete voi. Può girare sul vostro computer, su un server proprio o nel piano gestito di Hostinger. Il sito del progetto dice che la versione self-hosted non richiede un account Paperclip.",
-        "**Dove stanno chiavi e dati.** Dipende dalla strada scelta. Sul VPS, Hostinger stessa dice che i dati sensibili, la memoria degli agenti e le credenziali API restano “interamente nella vostra infrastruttura”, cioè sul server che avete affittato. Nel gestito, la pagina dice che le chiavi restano nell'istanza gestita. Questa è la descrizione di Hostinger, non un controllo nostro.",
-        "**Sicurezza del codice.** Il repository chiede di segnalare le vulnerabilità con la funzione Security Advisory di GitHub, non in issue pubbliche. In questa lettura non abbiamo verificato versioni supportate, audit indipendenti né advisory pubblicati.",
-        "**Che cosa non si può affermare.** Per questa guida non esiste un audit di sicurezza pubblico e verificato. Nelle fonti lette non ci sono neppure revisioni indipendenti o valutazioni di terzi sul prodotto. Il numero di stelle su GitHub indica popolarità, non sicurezza. Un agente con accesso alla vostra e-mail, alla banca o ad altri account richiede più cautela, qualunque sia il software. Sull'azienda che ospita, leggete [Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare](/it/reviews/hostinger-e-affidabile)."
+        "“Affidabile” è una parola grossa. Si può separare ciò che è verificabile da ciò che non lo è.",
+        "**Chi lo mantiene.** Il repository ufficiale, github.com/paperclipai/paperclip, dice che il progetto è mantenuto dal team Paperclip, e l’avviso di copyright riporta “MIT © 2026 Paperclip Labs, Inc.”. Il sito del progetto, paperclip.ing, rimanda allo stesso repository. Non confondetelo con i fork e le copie del codice che compaiono nella ricerca.",
+        "**Licenza.** MIT. Vuol dire che il codice è aperto: chiunque può leggerlo, controllarlo e usarlo. Vuol dire anche che nessuno è obbligato a mantenere la versione che hai installato.",
+        "**Dove gira.** Scegli tu. Può girare sul tuo computer, su un server tuo o sul piano gestito di Hostinger. Il sito del progetto dice che la versione self-hosted non richiede un account Paperclip.",
+        "**Dove restano le chiavi e i dati.** Dipende dal percorso. Sul VPS, la stessa Hostinger dice che i dati sensibili, la memoria degli agenti e le credenziali API restano “interamente sulla tua infrastruttura”, cioè sul server che hai affittato. Sul gestito, la pagina dice che le chiavi restano nella tua istanza gestita. È la descrizione di Hostinger, non un nostro audit.",
+        "**Sicurezza del codice.** Il repository chiede che le vulnerabilità siano segnalate tramite la funzione Security Advisory di GitHub, e non in issue pubbliche. In questa lettura, non abbiamo verificato versioni supportate, audit indipendenti né advisory pubblicati.",
+        "**Cosa non si può affermare.** Non esiste un audit di sicurezza pubblico verificato per questa guida. Non c’è nemmeno una recensione indipendente né una valutazione di terzi per il prodotto. Il numero di stelle su GitHub mostra la popolarità, non la sicurezza. Un agente con accesso alla tua e-mail, alla banca o ad altri account merita una cautela in più, qualunque sia il software. Sull’azienda che ospita, vedi [se Hostinger è affidabile](/it/reviews/hostinger-e-affidabile)."
       ]
     },
     {
-      "heading": "Che cosa vi serve",
+      "heading": "Cosa ti serve",
       "paragraphs": [
-        "Prima di scegliere, controllate questi cinque punti."
+        "Prima di sottoscrivere, controlla questi cinque punti."
       ],
       "bullets": [
-        "**Agenti da coordinare.** Paperclip non esegue un modello IA: coordina agenti che funzionano tramite altri programmi, come Claude Code, Codex, Cursor, Gemini CLI e OpenClaw.",
-        "**Postgres.** È il database in cui Paperclip conserva agenti, attività e registri. Nell'installazione locale è incluso e parte da solo. In produzione il progetto consiglia di collegare un Postgres proprio. Nel gestito il database è incluso. Sul VPS è a vostro carico.",
-        "**Chiavi IA vostre.** Una chiave API è la password con cui il programma chiede risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Il fornitore addebita l'uso direttamente a voi. La pagina del Paperclip gestito dice che collegate “i vostri agenti e le vostre chiavi API”, e non elenca crediti IA inclusi. Senza chiave, il team non risponde.",
-        "**Budget mensile per agente.** Fissate il tetto prima di accendere la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui si parla ogni tanto. Senza tetto, la spesa è solo quella che il fornitore addebita a fine mese.",
-        "**Competenze di server, se scegliete il VPS.** Sul VPS dovete sapere che cos'è Docker, un programma che fa girare ogni applicazione isolata in un container, e accettare di aggiornare e proteggere il sistema. Se non fa per voi, il gestito risolve il problema."
+        "**Agenti da coordinare.** Paperclip non fa girare un modello IA: coordina agenti che funzionano tramite altri programmi, come Claude Code, Codex, Cursor, Gemini CLI e OpenClaw.",
+        "**Postgres.** È il database in cui Paperclip conserva agenti, compiti e registri. Nell’installazione locale è integrato e parte da solo. In produzione, il progetto stesso consiglia di puntare a un Postgres tuo. Sul gestito, il database è incluso. Sul VPS, il database è a tuo carico.",
+        "**Chiavi IA tue.** La chiave API è la password che il programma usa per chiedere risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Il fornitore fa pagare l’uso, direttamente a te. La pagina di Paperclip gestito dice che colleghi “i tuoi agenti e le tue chiavi API”, e non elenca crediti IA inclusi. Senza chiave, la squadra non risponde.",
+        "**Budget mensile per agente.** Fissa il tetto prima di accendere la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui conversi ogni tanto. Senza tetto, la spesa è quella che il fornitore addebita a fine mese.",
+        "**Conoscenze di server, se è un VPS.** Sul VPS, devi sapere cos’è Docker, un programma che fa girare ogni applicazione isolata in un container, e accettare di aggiornare e proteggere il sistema. Se non fa per te, il gestito risolve."
       ],
       "postParagraphs": [
-        "Se lo fate girare in locale, il progetto richiede Node.js 24.11 o superiore. Le versioni precedenti di Node non funzionano."
+        "Se lo farai girare in locale, il progetto richiede Node.js 24.11 o superiore. Le versioni vecchie di Node non funzionano."
       ]
     },
     {
       "heading": "Gestito o VPS su Hostinger",
       "paragraphs": [
-        "Hostinger offre Paperclip in due modi. Con il **gestito** ordinate il piano e l'azienda si occupa di server, database e aggiornamenti. Con il **VPS** affittate un server virtuale: Hostinger vi installa Paperclip con Docker (un programma che fa girare ogni applicazione isolata in un container), e il resto resta a vostro carico."
+        "La scelta è chi si occupa del server: sul **gestito**, è Hostinger, che cura anche il database e gli aggiornamenti. Sul **VPS**, affitti un server virtuale, Hostinger ti installa Paperclip con Docker (un programma che fa girare ogni applicazione isolata in un container) e il resto è a tuo carico."
       ],
       "comparisonTable": {
         "headers": [
@@ -111,12 +111,12 @@
           [
             "Chi amministra il server",
             "Hostinger",
-            "Voi, con accesso root (controllo totale del server)"
+            "Tu, con accesso root (controllo totale del server)"
           ],
           [
             "Aggiornamenti",
             "Hostinger, in background",
-            "Voi, con il pulsante di aggiornamento del Docker Manager"
+            "Tu, con il pulsante di aggiornamento del Docker Manager"
           ],
           [
             "Backup",
@@ -126,114 +126,71 @@
           [
             "Database (Postgres)",
             "Incluso",
-            "A vostro carico"
+            "A tuo carico"
           ],
           [
             "Chiavi IA",
-            "Vostre; la pagina non elenca crediti di Hostinger",
-            "Vostre; la pagina parla di portare le proprie chiavi API"
+            "Tue; la pagina non elenca crediti di Hostinger",
+            "Tue; la pagina parla di portare le proprie chiavi API"
           ],
           [
             "Rimborso",
             "30 giorni",
-            "30 giorni solo se l'ultimo rimborso VPS è stato chiesto più di 180 giorni fa"
+            "30 giorni solo se l’ultimo rimborso VPS è stato chiesto più di 180 giorni fa"
           ]
         ]
       },
       "postParagraphs": [
-        "**Il gestito fa per voi se** volete Paperclip funzionante senza installare nulla, non sapete che cosa sono root e Docker e preferite che Hostinger si occupi di database, aggiornamenti e backup.",
-        "**Il VPS fa per voi se** volete far girare altri programmi sullo stesso server, come un sito o n8n (uno strumento di automazione), sapete gestire un server o volete imparare, e volete tenere database e configurazione sotto il vostro controllo.",
-        "Sul rimborso vale per il VPS la regola dei 180 giorni, la stessa dell'[articolo sulla fiducia in Hostinger](/it/reviews/hostinger-e-affidabile), che legge la politica dell'azienda. Se avete chiesto un rimborso VPS negli ultimi sei mesi, il nuovo acquisto non ha la garanzia di 30 giorni."
+        "**Il gestito fa per te se** vuoi Paperclip funzionante senza installare nulla, non sai cosa sono root e Docker, e preferisci che Hostinger si occupi del database, degli aggiornamenti e dei backup.",
+        "**Il VPS fa per te se** vuoi far girare altri programmi sullo stesso server, come un sito o un n8n (strumento di automazione), sai mettere le mani su un server o vuoi imparare, e vuoi avere database e configurazione sotto il tuo controllo.",
+        "Per il rimborso, la regola dei 180 giorni per il VPS è la stessa dell’[articolo sull’affidabilità di Hostinger](/it/reviews/hostinger-e-affidabile), che legge la politica dell’azienda. Se hai chiesto un rimborso VPS negli ultimi sei mesi, il nuovo acquisto non ha la garanzia di 30 giorni."
       ]
     },
     {
-      "heading": "Quanto costa",
-      "paragraphs": [
-        "Prezzi dei piani di 24 mesi, letti il 21/10/2026 sulla pagina globale di Hostinger, in dollari USA. Il gestito è il piano “AI automation apps”, con lo stesso prezzo per OpenClaw, Hermes Agent e Paperclip. La pagina mostrava il prezzo con il SONAR20 solo per il gestito; per il VPS, il 20% compare nel carrello."
-      ],
+      "heading": "Che dimensione di VPS",
+      "paragraphs": [],
       "comparisonTable": {
-        "headers": [
-          "Piano",
-          "Senza il SONAR20",
-          "Con il SONAR20",
-          "Rinnovo"
-        ],
+        "headers": [],
         "rows": [
-          [
-            "Gestito (AI automation apps)",
-            "4,99 USD al mese",
-            "3,99 USD al mese",
-            "11,99 USD al mese"
-          ],
-          [
-            "VPS KVM 1 (1 vCPU, 4 GB, 50 GB)",
-            "6,49 USD al mese",
-            "Visibile nel carrello",
-            "11,99 USD al mese"
-          ],
-          [
-            "VPS KVM 2 (2 vCPU, 8 GB, 100 GB)",
-            "8,79 USD al mese",
-            "Visibile nel carrello",
-            "14,99 USD al mese"
-          ],
-          [
-            "VPS KVM 4 (4 vCPU, 16 GB, 200 GB)",
-            "12,99 USD al mese",
-            "Visibile nel carrello",
-            "28,99 USD al mese"
-          ],
-          [
-            "VPS KVM 8 (8 vCPU, 32 GB, 400 GB)",
-            "25,99 USD al mese",
-            "Visibile nel carrello",
-            "49,99 USD al mese"
-          ]
+          [],
+          [],
+          [],
+          [],
+          []
         ]
       },
       "postParagraphs": [
-        "Nel vostro Paese Hostinger può mostrare un'altra valuta e le tasse, quindi controllate l'importo nel carrello prima di pagare.",
-        "RAM è la memoria del server, e vCPU è un core del processore. Più grande è il piano VPS, più memoria e potenza di calcolo ha. Nelle pagine lette Hostinger non indica un requisito minimo di memoria per Paperclip: il KVM 1 è il punto di partenza, e quanti agenti fate girare decide se basta.",
-        "Il 21/10/2026 Hostinger era in campagna di Black Friday, e i prezzi cambiano. Leggete [Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna](/it/reviews/black-friday-hostinger-offerte) e controllate l'importo nel carrello prima di pagare."
+        "La RAM è la memoria del server, e una vCPU è un core del processore. Più grande è il piano VPS, più memoria ed elaborazione ha. Hostinger non indica, nelle pagine lette, un requisito minimo di memoria per Paperclip: il KVM 1 è il punto di partenza, e quanti agenti fai girare decide se basta. I piani sono KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) e KVM 8 (8 vCPU, 32 GB, 400 GB)."
       ]
     },
     {
-      "heading": "Coupon SONAR20",
+      "heading": "Codice SONAR20",
       "paragraphs": [
-        "Usate il codice **SONAR20** nel campo coupon del carrello, oppure entrate dal link di questo articolo: **20% sul primo periodo**, in piano mensile o annuale, per cliente nuovo o già esistente. Non abbiamo testato il rinnovo: controllate il prezzo nel carrello. Come inserirlo è spiegato in [Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre](/it/reviews/coupon-hostinger-codice-invito). Controllate l'importo nel carrello prima di pagare."
+        "Usa il codice **SONAR20** nel campo codice sconto del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, su piano mensile o annuale, per clienti nuovi o già attivi. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello. Dove incollare il codice è spiegato in [come usare il codice SONAR20](/it/reviews/coupon-hostinger-codice-invito). Controlla il prezzo nel carrello prima di pagare."
       ]
     },
     {
       "heading": "Come iniziare, in ordine",
       "bullets": [
-        "**Farlo girare sul vostro computer.** Il README ufficiale chiede Node.js 24.11 o più recente. Controllate la versione con il comando node -v nel terminale, poi eseguite npx paperclipai@latest onboard --yes. L'interfaccia si apre su http://localhost:3100, e il database Postgres viene creato da solo. Non ci sono costi di server, ma Paperclip gira solo finché il computer è acceso. Se avete un abbonamento a Claude o a Codex, il README accetta anche di entrare con l'abbonamento, senza chiave API, con Python 3 e il programma del fornitore installati.",
-        "**Attivare il gestito.** Sottoscrivete il piano “AI automation apps” con 24 mesi, con il codice SONAR20 nel carrello. Dopo l'acquisto, Hostinger prepara l'istanza e il database. Entrate nel pannello, collegate i vostri agenti e inserite le vostre chiavi IA.",
-        "**Oppure attivare un VPS con Docker.** Scegliete un piano KVM (il KVM 1 è il più economico) e, nella lista delle applicazioni, Paperclip, che Hostinger installa con un clic. Dal Docker Manager del pannello aprite Paperclip, inserite le chiavi e aggiornate la versione con un pulsante. La sicurezza del server, le password e gli aggiornamenti di sistema restano a vostro carico."
+        "**Farlo girare sul tuo computer.** Il README ufficiale richiede Node.js 24.11 o più recente. Controlla la versione con il comando node -v nel terminale e poi esegui npx paperclipai@latest onboard --yes. L’interfaccia si apre su http://localhost:3100, e il database Postgres viene creato da solo. Non ci sono costi di server, ma Paperclip gira solo finché il computer è acceso. Se hai un abbonamento a Claude o a Codex, il README accetta anche l’accesso tramite abbonamento, senza chiave API, con Python 3 e il programma del fornitore installati.",
+        "**Attivare il gestito.** Sottoscrivi il piano “AI automation apps” con 24 mesi, con il codice SONAR20 nel carrello. Dopo l’acquisto, Hostinger prepara l’istanza e il database. Entra nel pannello, collega i tuoi agenti e inserisci le tue chiavi IA.",
+        "**Oppure prendere un VPS con Docker.** Scegli un piano KVM (il KVM 1 è il più economico) e, nell’elenco delle applicazioni, Paperclip, che Hostinger installa con un clic. Dal Docker Manager del pannello apri Paperclip, inserisci le chiavi e aggiorna la versione con un pulsante. La sicurezza del server, le password e gli aggiornamenti del sistema restano tuoi."
       ]
     },
     {
-      "heading": "Quale scegliere",
+      "heading": "Alternative: un agente singolo",
       "paragraphs": [
-        "La nostra lettura, da repository ufficiale e da quanto Hostinger indicava il 21/10/2026. I prezzi sono di piani di 24 mesi, in dollari USA."
-      ],
-      "bullets": [
-        "**Provatelo prima sul vostro computer** se non siete sicuri che una squadra di agenti faccia per voi. L'installazione è un solo comando, e l'unico costo è quello che addebitano i fornitori di IA.",
-        "**Gestito** se volete Paperclip online senza toccare un server: 3,99 USD al mese con il SONAR20; il prezzo di rinnovo indicato dalla pagina è 11,99 USD al mese. Database, aggiornamenti e backup sono a carico di Hostinger.",
-        "**VPS** se volete accesso root, altri programmi sullo stesso server o il database sotto il vostro controllo: KVM 1 da 6,49 USD al mese prima dello sconto, con rinnovo indicato a 11,99 USD al mese. Sicurezza e aggiornamenti del server sono vostri.",
-        "**Un agente singolo invece di una squadra** se volete solo un assistente, per esempio su Telegram o WhatsApp. Per questa scelta leggete [OpenClaw su Hostinger: gestito o VPS? Prezzo, cosa richiede ciascuno e a chi serve](/it/reviews/openclaw-hostinger-gestito-o-vps) e [OpenClaw o Hermes Agent: quale scegliere e come farli girare su Hostinger](/it/reviews/openclaw-o-hermes-agent-quale-scegliere), che confronta i due agenti singoli."
-      ],
-      "postParagraphs": [
-        "Sulla fiducia: il codice è pubblico, il repository indica chi lo mantiene e le falle di sicurezza passano da un canale ufficiale di GitHub. Manca un audit indipendente, che non abbiamo trovato. In ogni caso, fissate il tetto di budget prima di accendere la squadra e siate prudenti con qualsiasi agente che abbia accesso ai vostri account."
+        "Paperclip organizza una squadra di agenti. Se vuoi solo un assistente, per esempio su Telegram o su WhatsApp, è più di quanto serve. Per questa scelta, vedi [OpenClaw su Hostinger, gestito o VPS](/it/reviews/openclaw-hostinger-gestito-o-vps) e [OpenClaw o Hermes Agent](/it/reviews/openclaw-o-hermes-agent-quale-scegliere), che confronta i due agenti singoli."
       ]
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Paperclip è gratis? Il programma è open source con licenza MIT e si può installare sul vostro computer senza pagare Hostinger. L'uso dei modelli IA è addebitato dal fornitore del modello, e il gestito e il VPS sono piani a pagamento.",
-        "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell'avviso di copyright) come responsabile e che le falle di sicurezza si segnalano su un canale ufficiale di GitHub. Nelle fonti lette il 21/10/2026 non abbiamo trovato un audit indipendente.",
-        "Serve una chiave API? Sì. Nel gestito e nel VPS la pagina di Paperclip chiede di portare le proprie. Sul computer il README accetta anche l'abbonamento a Claude o Codex, senza chiave API.",
-        "Funziona con Ollama? Dipende dall'agente che collegate. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta i modelli locali; in Paperclip il modello è a carico dell'agente che collegate.",
-        "Esiste un coupon Hostinger per Paperclip? Sì: il codice SONAR20 dà il 20% sul primo periodo, in piano mensile o annuale, per cliente nuovo o già esistente. Non abbiamo testato il rinnovo."
+        "Paperclip è gratis? Il programma è open source, con licenza MIT, e si può installare sul tuo computer senza pagare Hostinger. L’uso dei modelli IA è addebitato dal fornitore, e il gestito e il VPS sono piani a pagamento.",
+        "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Non abbiamo trovato audit indipendenti nelle fonti lette.",
+        "Serve una chiave API? Sì. Sul gestito e sul VPS, la pagina di Paperclip chiede di portare le proprie. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
+        "Funziona con Ollama? Dipende dall’agente che collegate. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che collegate.",
+        "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello."
       ]
     },
     {
@@ -246,14 +203,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usate il codice SONAR20 nel campo coupon del carrello, oppure entrate dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controllate il prezzo nel carrello.",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
     "label": "Vedi i piani con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team usa Paperclip.",
+  "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi extra per te. Nessuno della squadra usa Paperclip.",
   "relatedArticles": [
     {
       "slug": "openclaw-o-hermes-agent-quale-scegliere",
@@ -261,12 +218,22 @@
     },
     {
       "slug": "openclaw-hostinger-gestito-o-vps",
-      "title": "OpenClaw su Hostinger: gestito o VPS? Prezzo, cosa richiede ciascuno e a chi serve"
+      "title": "OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi è adatto"
     },
     {
       "slug": "coupon-hostinger-codice-invito",
       "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
     }
   ],
-  "hideFromPortugueseListings": true
+  "hideFromPortugueseListings": true,
+  "decision": {
+    "takeIf": [
+      "Scegli il gestito se vuoi Paperclip funzionante senza installare nulla e preferisci che Hostinger si occupi del database, degli aggiornamenti e dei backup.",
+      "Scegli il gestito se non sai cosa sono root e Docker."
+    ],
+    "skipIf": [
+      "Lascia perdere il gestito e vai di VPS se vuoi far girare altri programmi sullo stesso server, come un sito o un n8n, e sai mettere le mani su un server o vuoi imparare.",
+      "Lascia perdere Paperclip se vuoi solo un assistente: organizza una squadra di agenti, e per un uso personale di solito basta un agente singolo."
+    ]
+  }
 }

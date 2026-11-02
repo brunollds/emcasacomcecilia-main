@@ -30,14 +30,14 @@
       "initials": "BL"
     }
   ],
-  "description": "Hostinger 的 AI Builder（原 Horizons）适合不写代码就做一个简单网站或 Web 应用的人；要插件和完全控制的，还是 WordPress。2026年10月28日的美元价格，含续费。",
-  "metaDescription": "Hostinger Horizons 变成了 AI Builder。值得用，还是选 WordPress？按项目类型的一张表、与 Wix 和 Lovable 的比较、AI 额度，以及2026年10月28日的价格和续费。",
+  "description": "Hostinger 的 AI Builder（原 Horizons）适合想不写代码就做简单网站或 Web 应用的人；需要插件和精细控制的，更适合用 WordPress。",
+  "metaDescription": "Hostinger Horizons 已变成 AI Builder。值得用，还是选 WordPress？按项目类型整理的对照表，与 Wix、Lovable 的比较，以及 AI 额度。",
   "publishedAt": "2026年10月28日",
   "publishedAtISO": "2026-10-28",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
-  "imageAlt": "Hostinger 标志和 AI Builder（原 Horizons）与 WordPress 面对面",
+  "imageAlt": "Hostinger 的标志，以及 AI Builder（原 Horizons）与 WordPress 正面对比的画面",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -50,22 +50,22 @@
     {
       "heading": "什么是 AI Builder（原 Horizons）",
       "paragraphs": [
-        "Horizons 原本是 Hostinger 的 AI 网站和应用生成器。2026 年它与传统的网站生成器合并，成了 Hostinger AI Builder：旧地址会跳转到新页面。搜索里还在用 Horizons 这个名字，所以本文也一并写出。",
-        "页面说，它根据一段文字描述就能生成网站和 Web 应用，不需要技术知识，有两种模式："
+        "Horizons 曾是 Hostinger 用 AI 做网站和应用的工具。2026 年它与原来的网站构建器合并，成了 AI Builder（Hostinger AI Builder）：旧地址会跳转到新页面。搜索时大家还在用旧名字，所以本文仍保留 Horizons 这个名称。",
+        "页面说，只要用文字描述，不需要任何技术知识，就能做出网站和 Web 应用，有两种模式："
       ],
       "bullets": [
-        "**不用 AI 编辑（Manual 模式）：** 从 AI 生成的网站或某个模板开始，用拖放方式编辑。不消耗 AI 额度。",
-        "**用 AI 编辑（Agentic 模式）：** 在聊天里描述你想要的，AI 负责设计和编码。每次操作都消耗 AI 额度，可以充值。"
+        "**不用 AI 的编辑（Manual 模式）：**从 AI 生成的网站或某个模板开始，拖放编辑。不消耗 AI 额度。",
+        "**用 AI 的编辑（Agentic 模式）：**在聊天里说出想要什么，由 AI 设计并编程。每次操作都消耗 AI 额度，额度用完可以充值。"
       ],
       "postParagraphs": [
-        "做出来的是网站或 Web 应用，不是上 App Store 或 Google Play 的 App：页面自己就这么说。主机、域名和邮箱都在套餐里，源代码可以导出到别处托管。以上都是 2026年10月28日读到的 Hostinger 说法，不是我们的测试。",
-        "别把它和 Hostinger 的自动化智能体 OpenClaw、Hermes Agent 混在一起：那些是[跑在服务器上的助手](/zh-hans/reviews/openclaw-vs-hermes-agent-zh-hans)，在 Telegram 或 WhatsApp 里回话。AI Builder 是用来搭网站的。"
+        "做出来的是网站或 Web 应用，不是上架 App Store 或 Google Play 的应用：页面自己就是这么说的。托管、域名和邮箱都包含在套餐里，源代码也可以导出，放到别处托管。以上都是 Hostinger 的说法。",
+        "别把它和 Hostinger 的自动化智能体 OpenClaw、Hermes Agent 混为一谈：那些是[跑在服务器上的助手](/zh-hans/reviews/openclaw-vs-hermes-agent-zh-hans)，在 Telegram 或 WhatsApp 里回复。AI Builder 做的是网站。"
       ]
     },
     {
       "heading": "适合哪种项目：一张表看懂",
       "paragraphs": [
-        "该问的不是“AI 好不好用”，而是“我要做什么，之后谁来维护”。按 2026年10月28日读到的 AI Builder 页面和 WordPress 文档，这张表按项目类型总结了怎么选："
+        "该问的不是“AI 好不好用”，而是“我要做什么，之后谁来维护”。这张表依据 AI Builder 页面和 WordPress 文档的说法，按项目类型总结了怎么选："
       ],
       "comparisonTable": {
         "headers": [
@@ -107,9 +107,9 @@
         ]
       },
       "image": {
-        "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-zh-hans.webp",
+        "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-pt.webp",
         "alt": "按项目类型选 AI Builder 还是 WordPress 的表：菜单或服务页、作品集和 Web 应用归 AI Builder；依赖插件的博客和由别人维护的项目归 WordPress；小店两者都行",
-        "caption": "表格小结：简单网站、作品集和 Web 应用用 AI Builder；要插件、要把网站交给别人的用 WordPress。Em Casa com Cecília 根据 2026年10月28日页面上的说法制作。",
+        "caption": "表格小结：简单网站、作品集和 Web 应用用 AI Builder；要插件、要把网站交给别人的用 WordPress。Em Casa com Cecília 根据各页面上的说法制作。",
         "objectFit": "contain",
         "aspectRatio": 1.2346
       },
@@ -120,7 +120,7 @@
     {
       "heading": "AI Builder 还是 WordPress",
       "paragraphs": [
-        "价格不是决定因素：在 Hostinger，AI Builder 包含在网站主机套餐里，和跑 WordPress 的是同一批套餐，价格也一样。不同的是谁来干活，以及你能控制什么。"
+        "价格不是决定因素：在 Hostinger，AI Builder 包含在和 WordPress 同样的托管套餐里，价格也一样。不同的是谁来干活，以及你能控制什么。"
       ],
       "comparisonTable": {
         "headers": [
@@ -131,23 +131,23 @@
         "rows": [
           [
             "谁来搭网站",
-            "AI 根据你的描述，或你在可视化编辑器里",
-            "你用一个主题自己做，或请专业人员"
+            "AI 根据你的描述来搭，或你自己在可视化编辑器里搭",
+            "你自己用主题搭，或请专业人员"
           ],
           [
             "新功能",
             "在聊天里提出；消耗 AI 额度",
-            "插件，成千上万，免费或付费"
+            "插件，成千上万个，免费或付费"
           ],
           [
             "主题和外观",
-            "Hostinger 的模板，由 AI 或编辑器调整",
-            "任何主题，包括定制的"
+            "Hostinger 的模板，以及通过 AI 或编辑器调整",
+            "任何主题，包括量身定制的"
           ],
           [
             "谁来修错误",
-            "你向 AI 提出，或 Hostinger 客服",
-            "你、插件作者或开发者"
+            "你自己（让 AI 改）或 Hostinger 客服",
+            "你自己、插件作者或开发者"
           ],
           [
             "搬到别处",
@@ -157,119 +157,70 @@
           [
             "网店",
             "Unlimited 和 Cloud Startup 套餐内置",
-            "WooCommerce 免费，扩展付费"
+            "WooCommerce，免费，扩展要付费"
           ],
           [
             "维护",
             "平台由 Hostinger 负责",
-            "更新 WordPress、主题和插件由你负责"
+            "更新 WordPress、主题和插件由你自己负责"
           ]
         ]
       },
       "postParagraphs": [
-        "**WordPress 胜出**的情况：项目依赖某个特定插件、你已有的主题，或者之后有人要维护网站。它是自由软件：整个网站都是你的，搬到任何主机都不用重做。",
-        "**AI Builder 胜出**的情况：你不想安装、更新任何东西，又想要一个带登录和数据的 Web 应用，这在 WordPress 里会变成一堆插件。会改变决定的一点：在 AI 模式下，每次改动都要花额度。按页面的说法，一个简单的企业站消耗 5 到 10 个额度，更复杂的应用要 15 个以上。每周都要改网站的人得算一算；做一次之后只在编辑器里改文字和照片、不用提示词的人，不花额度。"
+        "**WordPress 更占优**的情况：项目依赖某个特定插件、要用你已有的主题，或之后有人来维护网站。它是开源软件：整个网站都属于你，不用返工就能搬到任何主机。",
+        "**AI Builder 更占优**的情况：你不想安装也不想更新任何东西，想要一个带登录和数据的 Web 应用，这在 WordPress 里就是一堆插件。会改变决定的一点是：在 AI 模式下，每次修改都消耗额度。按页面所说，一个简单的介绍页消耗 5 到 10 个额度，较复杂的应用要 15 个以上。每周都要改网站的人得算一算；做一次、之后在编辑器里改文字和照片、不用提示词的人，不消耗额度。"
       ]
     },
     {
       "heading": "AI Builder 还是 Wix（以及 Lovable）",
       "paragraphs": [
-        "Wix 是传统的拖放式生成器，自带主机。它有免费套餐，用 Wix 的网址；自有域名需要付费套餐。如果你要的是纯粹的可视化编辑器，Wix 能满足。如果你更在意之后能不能把项目带走，就按各家页面的保证来比：AI Builder 的页面说代码可以导出，WordPress 是自由软件，可以搬到任何主机。",
-        "Lovable 是另一个 vibe coding 工具，和 AI Builder 的 AI 模式是同一个思路：你描述，AI 编码。区别在打包方式。Lovable 按额度、按消息收费，有免费套餐但每天额度很少；它是用来做东西的工具，域名和邮箱要另外解决。在 Hostinger，主机、域名和邮箱在同一个套餐里，无 AI 模式不花额度。已经会编程、只想要 AI 的人，Lovable 可以一比；想一站搞定的人，选 Hostinger。"
+        "Wix 是传统的拖放式建站工具，有自己的托管。它有免费套餐，用的是 Wix 的网址，绑定自己的域名需要付费套餐。如果你只要纯粹的可视化编辑器，Wix 就够了。如果你在意之后能不能把项目带走，就按各页面的保证来比：AI Builder 的页面说代码可以导出，WordPress 是开源软件，可以搬到任何主机。",
+        "Lovable 是另一种“氛围编程”（vibe coding）工具，思路和 AI Builder 的 AI 模式一样：你描述，AI 来写代码。差别在于整体方案。Lovable 按额度、按消息收费，有每天额度很少的免费套餐；它只是做东西的工具，域名和邮箱要另外解决。在 Hostinger，托管、域名和邮箱在同一个套餐里，无 AI 模式不消耗额度。对已经会编程、只想要 AI 的人，Lovable 可以比较；想把所有东西放在一处的人，选 Hostinger。"
       ]
     },
     {
-      "heading": "2026年10月28日的价格与续费",
-      "paragraphs": [
-        "AI Builder 没有单独的套餐：它包含在 48 个月的网站主机套餐里，整期一次付清。下面的价格来自 Hostinger 国际站，以美元计，经由本文的 SONAR20 链接读取，时间是 2026年10月28日的黑色星期五活动期间；按国家和货币可能有所不同。月价是预付总额除以 48："
-      ],
-      "comparisonTable": {
-        "headers": [
-          "套餐",
-          "用 SONAR20（每月）",
-          "48 个月总价",
-          "续费",
-          "AI 额度"
-        ],
-        "rows": [
-          [
-            "[Premium（最多 3 个网站）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
-            "US$ 1.99（原价 US$ 12.19）",
-            "US$ 95.52",
-            "US$ 10.99/月",
-            "250（黑色星期五 500）"
-          ],
-          [
-            "[Unlimited（网站不限，含网店）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
-            "US$ 2.79（原价 US$ 18.99）",
-            "US$ 133.92",
-            "US$ 16.99/月",
-            "500（黑色星期五 1,000）"
-          ],
-          [
-            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
-            "US$ 6.39",
-            "US$ 306.72",
-            "US$ 25.99/月",
-            "1,000（黑色星期五 2,000）"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "实际算下来："
-      ],
+      "heading": "付款前要核对什么",
       "bullets": [
-        "**Premium，用 SONAR20：** 48 × US$ 1.99 = **US$ 95.52**。**之后 48 个月的续费：** 48 × US$ 10.99 = US$ 527.52。",
-        "**Unlimited，用 SONAR20：** 48 × US$ 2.79 = **US$ 133.92**。**续费：** 48 × US$ 16.99 = US$ 815.52。",
-        "**AI 额度是一次性赠送**，不是每月发放。用完就要充值，而充值价格页面上没有：指望它之前，先到控制面板确认。表里的额度数是 2026年10月28日套餐页面显示的数值，黑色星期五期间翻倍。"
-      ],
-      "emphasis": "续费价是促销价的 4 到 6 倍。选套餐之前先看续费那一列。"
-    },
-    {
-      "heading": "付款前要确认什么",
-      "bullets": [
-        "**额度。** AI 模式每次请求都消耗额度，套餐里的余额不会每月重置。用 AI 把网站搭好，文字和照片的调整在不花额度的编辑器里做。",
-        "**不续费会怎样。** 页面有提醒：套餐到期不续费，项目会下线，数据会被删除。到期前先把代码导出。",
-        "**域名和邮箱只有第一年免费。** 之后域名按 Hostinger 的标价续费，2026年10月28日读到的 .com 是每年 US$ 19.99。",
-        "**30 天退款**，前提是消耗的 AI 额度少于 30 个。",
-        "**网店**是 Unlimited 和 Cloud Startup 套餐的项目；国际站页面写着在结账时提供。费用在结账时确认。",
-        "**没有原生 App。** AI Builder 做的是响应式 Web 应用，在手机浏览器里打开。要上 App Store 和 Google Play，是另一条路。"
+        "**额度。**AI 模式每次请求都消耗额度，套餐里的余额不会每月重置。用 AI 搭好网站，文字和照片的调整在不消耗额度的编辑器里做。",
+        "**不续费会怎样。**页面有提醒：套餐到期未续费，项目会下线，数据会被删除。别等到期，先导出代码。",
+        "**30 天内可退款**，前提是你使用的 AI 额度少于 30 个。",
+        "**网店**是 Unlimited 和 Cloud Startup 套餐的功能；按页面所说，Unlimited 前 3 个月免费。之后要花多少钱，请在结账页确认。",
+        "**没有原生应用。**AI Builder 做出来的是在手机浏览器里打开的自适应 Web 应用。要上架 App Store 或 Google Play，得走别的路。"
       ],
       "postParagraphs": [
         "Hostinger 怎么收费、续费和退款，见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
       ]
     },
     {
-      "heading": "SONAR20 与价格",
+      "heading": "优惠码 SONAR20",
       "paragraphs": [
-        "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入：20% 只在首个周期，月付或年付的套餐都可以，新老客户都适用。我们没有测试续费，请在购物车确认续费价格。2026年10月28日，通过链接打开的 AI Builder 页面上各套餐已套用折扣，显示的就是上表“用 SONAR20”那一列的价格。完整规则和其他产品见[Hostinger 优惠页](/zh-hans/coupons/hostinger)。",
-        "Hostinger 正在黑色星期五活动中，页面上没有结束日期，价格和翻倍的额度都可能变。付款前在购物车里核对金额。"
+        "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入：**首个周期享 20% 折扣**，月付或年付的套餐都可以，新老客户都适用。我们没有测试续费，请在购物车确认价格。完整规则和其他产品见[Hostinger 优惠页](/zh-hans/coupons/hostinger)。",
+        "价格和条件可能会变，付款前请在购物车里核对金额。"
       ]
     },
     {
       "heading": "值得用吗？结论",
       "paragraphs": [
-        "**值得用**：适合想要几页的网站、作品集、小店或简单 Web 应用，又不想写代码、不想管插件的人。第一版由描述生成，无 AI 模式可以不花额度地调整。先从免费试用开始；结果合用的话，简单网站 Premium 套餐就够，网店用 Unlimited。",
-        "**留在 WordPress**：项目依赖插件、你自己的主题、之后维护网站的人，或者你想不用重做就把一切搬到别的主机。Hostinger 的套餐两种情况都一样，所以选的只是工具。",
-        "**拿不准就先试 AI Builder 再付款。** 5 个免费额度，不绑卡，足够看出 AI 是否理解你的意思。不理解的话，WordPress 还在那儿。"
+        "**值得用**，适合想要几页的网站、作品集、小店或简单 Web 应用，又不想写代码、也不想管插件的人。第一版由描述生成，无 AI 模式可以不耗额度地调整。先从免费试用开始；结果合用的话，Premium 套餐够做简单网站，Unlimited 套餐够开网店。",
+        "**留在 WordPress**：如果项目依赖插件、依赖你自己的主题，之后有人来维护网站，或者你想不返工就把一切搬到别的主机。两种情况下 Hostinger 的套餐是同一个，所以只是选工具的问题。",
+        "**拿不准，就付款前先试试 AI Builder。**5 个免费额度，不用绑卡，足够看出 AI 能不能理解你想要什么。如果它理解不了，WordPress 还在那里。"
       ]
     },
     {
       "heading": "常见问题",
       "bullets": [
-        "Hostinger Horizons 还在吗？换了名字还在。2026 年 Horizons 与 Hostinger 的网站生成器合并，成了 Hostinger AI Builder，有一个拖放模式和一个聊天生成模式。旧地址会跳转到新页面。",
-        "Hostinger 的 AI Builder 能自己把网站做出来吗？按页面的说法，它根据你的描述搭出第一版。内容、照片和业务上的决定仍然是你的，AI 模式下每次请求都消耗额度。",
-        "用 AI Builder 需要会编程吗？不需要。页面说两种模式都不要求技术知识。会编程的人在 AI 模式里有一个代码编辑器。",
-        "能从 AI Builder 迁到别的主机吗？页面说源代码可以导出，到别处托管。带数据库和登录的内置后端留在 Hostinger，所以应用在外面需要重新配置。",
-        "AI Builder 适合开网店吗？小店可以：网店是 Unlimited 和 Cloud Startup 套餐的项目。有运费和支付规则的大店，WordPress 加 WooCommerce 控制更多。",
-        "2026 年 Hostinger Horizons 多少钱？AI Builder 包含在网站主机套餐里。2026年10月28日国际站上，用 SONAR20 的 Premium 是 48 个月套餐每月 US$ 1.99，续费 US$ 10.99/月；Unlimited 每月 US$ 2.79，续费 US$ 16.99/月。",
-        "Hostinger 的 AI Builder 有优惠码吗？有：SONAR20 在首个周期享 20% 折扣，月付或年付的套餐均可，新老客户都适用。我们没有测试续费，请在购物车确认续费价格。"
+        "Hostinger Horizons 还在吗？还在，只是换了名字。2026 年 Horizons 与 Hostinger 的网站构建器合并，成了 AI Builder（Hostinger AI Builder），有拖放模式和聊天创建模式。旧地址会跳转到新页面。",
+        "Hostinger 的 AI Builder 能自己把网站做出来吗？按页面所说，它会根据你的描述搭出第一版。内容、照片和业务决策仍然是你的，AI 模式下每次请求都消耗额度。",
+        "用 AI Builder 需要会编程吗？不需要。页面说两种模式都不要求技术知识。会编程的人，在 AI 模式里有代码编辑器。",
+        "能从 AI Builder 迁到别的主机吗？页面说源代码可以导出，放到别处托管。带数据库和登录的内置后端留在 Hostinger，所以应用在别处需要重新配置。",
+        "AI Builder 适合开网店吗？小店可以：网店是 Unlimited 和 Cloud Startup 套餐的功能。对运费和支付规则复杂的大店，WordPress 加 WooCommerce 控制得更细。",
+        "Hostinger 的 AI Builder 有优惠码吗？有：在购物车的优惠码栏输入 SONAR20，首个周期享 20% 折扣。我们没有测试续费，请在购物车确认价格。"
       ]
     },
     {
       "heading": "谁在写这篇文章",
       "paragraphs": [
-        "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App，域名从 2024 年 11 月起就注册在 Hostinger。团队中没有人用过 AI Builder 或 Horizons：本文汇总的是产品页面、WordPress 文档以及 Wix 和 Lovable 公开页面的说法，于 2026年10月28日读取。"
+        "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App，域名从 2024 年起就注册在 Hostinger。团队中没有人用过 AI Builder 或 Horizons：本文汇总的是产品页面、WordPress 文档以及 Wix 和 Lovable 公开页面的说法。"
       ]
     }
   ],
@@ -298,5 +249,17 @@
       "title": "2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%"
     }
   ],
-  "hideFromPortugueseListings": true
+  "hideFromPortugueseListings": true,
+  "decision": {
+    "takeIf": [
+      "如果你想不写代码就做几页的网站、作品集、小店或简单 Web 应用，就选 AI Builder（原 Horizons）。",
+      "如果你想把托管、域名和邮箱放在同一个套餐里，也接受由 AI 搭出第一版，就选它。",
+      "如果你打算做一次，之后在不消耗额度的编辑器里改文字和照片，就选它。"
+    ],
+    "skipIf": [
+      "如果项目依赖某个特定插件或你已有的主题，就别选，留在 WordPress。",
+      "如果之后由别人或外包团队维护网站，就别选：WordPress 是市场标准。",
+      "如果你想不返工就把一切搬到别的主机，或打算每周都让 AI 改东西（每次请求都消耗额度），就别选。"
+    ]
+  }
 }

@@ -3,7 +3,7 @@
   "slug": "hostinger-domain-buy-transfer-or-elsewhere",
   "locale": "en",
   "translationKey": "hostinger-dominio",
-  "title": "Hostinger domain: buy it there, transfer it or register elsewhere? Price, renewal and what to check",
+  "title": "Hostinger domain: buy it there, transfer it or register elsewhere? Renewal and what to check",
   "seoTitle": "Hostinger domain: buy, transfer or elsewhere",
   "type": "Decision Guide",
   "category": "guias-praticos-utilidade",
@@ -30,40 +30,40 @@
       "initials": "BL"
     }
   ],
-  "description": "Hostinger domains: the three paths (buy there, buy elsewhere and point it, transfer), the .com registration and renewal price on October 28, 2026 and what to check before you pay.",
-  "metaDescription": "Buy the domain at Hostinger, register it elsewhere and point it, or transfer? The .com price with the renewal next to it, the 60-day rule, who owns the domain and the checklist before you pay.",
+  "description": "Hostinger domain: the three paths (buy it there, buy elsewhere and point it, or transfer) and what to check before you pay.",
+  "metaDescription": "Buy the domain at Hostinger, register it elsewhere and point it, or transfer it? The 60-day rule, who owns it and the checklist before you pay.",
   "publishedAt": "October 28, 2026",
   "publishedAtISO": "2026-10-28",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
-  "imageAlt": "Hostinger logo next to three paths for the domain: buy it at Hostinger, buy it elsewhere and point it, or transfer it",
+  "imageAlt": "Hostinger logo next to three paths for the domain: buy at Hostinger, buy elsewhere and point it, or transfer",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "The domain is an account separate from the hosting: it can live at Hostinger or at another registrar, and the site works either way. Choose by the renewal price and by how easy it is to leave, not by the first year. Buy at Hostinger if you want everything in one panel, and only transfer a domain registered more than 60 days ago; the prices from October 28, 2026 are below."
+        "The domain is a separate account from the hosting: it can stay at Hostinger or at another registrar, and the site works either way. Choose by the renewal price and by how easy it is to leave, not by the first year. Buy at Hostinger if you want everything in one panel, and transfer only a domain that is more than 60 days old."
       ]
     },
     {
       "heading": "Domain and hosting are two accounts",
       "paragraphs": [
-        "The domain is the address (the name people type). The hosting is the computer where the site lives. You pay for the two separately, and they do not have to be with the same company: a domain registered with one company can point to another company's hosting. Hostinger's own page says a domain registered there can be pointed to another hosting provider.",
-        "So the decision is not \"Hostinger or not\". It is where the domain registration lives, how much it costs to renew every year and what happens if you change hosting one day. The cheap first year is the least important part: the domain renews for as long as the site exists."
+        "Domain and hosting are two accounts: the address (the name people type) on one side, the computer where the site lives on the other. You pay for the two separately, and they do not have to be at the same company: a domain registered with one company can point to another company's hosting. Hostinger's own page says a domain registered with it can be pointed to another hosting provider.",
+        "So the decision is not \"Hostinger or not\". It is where the domain registration sits, how much it costs to renew every year and what happens if you ever change hosting. The cheap first year matters least: the domain renews for as long as the site exists."
       ]
     },
     {
       "heading": "The three paths",
       "paragraphs": [
-        "Anyone building a site has three options for the domain. The chart sums up what changes in each one, from Hostinger's pages read on October 28, 2026."
+        "There are three paths for the domain, according to Hostinger's pages, and what changes between them is who charges the renewal."
       ],
       "image": {
-        "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-en.webp",
-        "alt": "Chart with three paths for the domain: buy it with the hosting (registered at Hostinger), transfer it (the registration moves to Hostinger) and keep it elsewhere and point it (the registration stays where it is); in all three the domain is yours, what changes is who bills the renewal",
-        "caption": "The three paths for the domain, from Hostinger's pages read on October 28, 2026.",
+        "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
+        "alt": "Chart with three paths for the domain: buy it with the hosting (registered at Hostinger), transfer it (the registration moves to Hostinger) and leave it elsewhere and point it (the registration stays where it is); on all three the domain is yours, and what changes is who charges the renewal",
+        "caption": "The three paths for the domain, according to Hostinger's pages.",
         "objectFit": "contain",
         "aspectRatio": 1.7787
       },
@@ -79,23 +79,23 @@
           [
             "Buy at Hostinger",
             "You will host at Hostinger and want domain, DNS and renewal in the same panel",
-            "Hostinger's renewal price from its table, every year",
-            "The domain stays at Hostinger; you point the DNS to the new host or transfer it later",
+            "Renewal price from Hostinger's table, every year",
+            "The domain stays at Hostinger; you point the DNS to the new hosting or transfer it later",
             "You, registered in your name"
           ],
           [
             "Buy elsewhere and point it",
             "You already have a domain at another registrar or prefer to keep the accounts separate",
-            "The price of the registrar where it lives",
-            "Nothing changes for the domain; only the pointing",
+            "Price of the registrar where it is",
+            "Nothing changes on the domain; only the pointing",
             "You, at the other registrar"
           ],
           [
             "Transfer to Hostinger",
             "You have had the domain for more than 60 days and want everything in one place",
-            "Hostinger's renewal price from the following year on",
+            "Hostinger's renewal price from the following year",
             "Same rule as the first path",
-            "You; the ownership data does not change in a transfer"
+            "You; the ownership data does not change in the transfer"
           ]
         ]
       },
@@ -104,103 +104,88 @@
       ]
     },
     {
-      "heading": "What it costs at Hostinger",
-      "paragraphs": [
-        "Prices from Hostinger's international domain page, in US dollars, read on October 28, 2026, during the Black Friday campaign; they can vary by country and currency, so check the page for your region. The low first-year price requires a 3-year term; renewal is per year, once the paid term ends."
-      ],
+      "heading": "Contact-data privacy",
+      "paragraphs": [],
       "comparisonTable": {
-        "headers": [
-          "Extension",
-          "First year",
-          "Renewal (per year)",
-          "Transfer to Hostinger"
-        ],
+        "headers": [],
         "rows": [
-          [
-            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONAR20)",
-            "US$19.99, or US$0.01 with a 3-year term",
-            "US$19.99",
-            "US$9.99"
-          ]
+          [],
+          [],
+          [],
+          []
         ]
       },
       "postParagraphs": [
-        "The reading is this: the .com renews at the same price as the full first year, US$19.99, with no jump in year two. The same page lists the other extensions (.org, .online, .shop, .store) with the renewal next to the first-year price, and that column is the one to read: on the Brazilian page, read the same day, the extensions sold cheapest for the first year renewed at more than thirty times the entry price. The entry price says nothing about what you will pay in year two.",
-        "With the 3-year term, the US$0.01 is for the first year only; the page does not show the three-year total outside the cart, so check the amount before paying. To compare, look up the renewal price at the registrar where your domain is today: keeping it there is the \"elsewhere and point it\" path from the table above.",
-        "Privacy for your contact data (RDAP, the former WHOIS) is included on compatible extensions. Each country has its own extension (such as .co.uk or .ca), run by its own registry with its own rules, and the price changes with the currency."
+        "Contact-data privacy (RDAP, the former WHOIS) is included on compatible extensions."
       ]
     },
     {
-      "heading": "Transferring: the 60-day rule and the step by step",
+      "heading": "Transferring: the 60-day rule and the steps",
       "paragraphs": [
-        "Transferring means moving the domain registration from one company to another. Hostinger's transfer page says the site and the email keep working during the process, and that the ownership data does not change. What changes is who bills the renewal and where you manage the DNS.",
-        "The rules, from Hostinger's page read on October 28, 2026:"
+        "Transferring means moving the domain registration from one company to another. Hostinger's transfer page says the site and email keep working during the process, and that the ownership data does not change. What changes is who charges the renewal and where you edit the DNS.",
+        "The rules, according to Hostinger's page:"
       ],
       "bullets": [
-        "**Age of the registration:** in most cases, the domain must have been registered for at least 60 days. A domain newly registered at Hostinger is also locked for 60 days before it can leave.",
+        "**Age of the registration:** in most cases, the domain must have been registered for at least 60 days. A new domain at Hostinger is also locked for 60 days before it can leave.",
         "**Unlock and code:** you unlock the domain in your current registrar's panel and get the authorization code (EPP, or transfer code).",
-        "**Confirmation:** after you enter the code at Hostinger, the registrar sends an email asking you to confirm. Without the confirmation, the transfer does not move.",
-        "**Time:** up to seven days; faster if the current registrar releases it quickly and you confirm the email right away.",
-        "**Price:** it is not free. On most generic extensions (.com, .net, .org), the transfer fee already includes one more year of registration, added to the term you already had; for the .com, it was US$9.99 on October 28, 2026."
+        "**Confirmation:** after you enter the code at Hostinger, an email arrives from the registrar asking you to confirm. Without the confirmation, the transfer does not move.",
+        "**Timing:** up to seven days; faster if the current registrar releases it quickly and you confirm the email right away.",
+        "**Price:** it is not free. On most generic extensions (.com, .net, .org), the transfer fee already includes an extra year of registration, added to the term you already had."
       ],
       "postParagraphs": [
-        "The step by step on the page is the one for generic domains, like .com. Country extensions, such as .co.uk or .ca, have their own registries and their own transfer procedure; before requesting the code for one of them, check the procedure in Hostinger's support.",
-        "Transferring out of Hostinger follows the same logic in reverse: 60 days of registration, unlock in Hostinger's panel, get the code and confirm by email. A completed transfer has no refund; see [Hostinger's refund and renewal rules](/en/reviews/is-hostinger-legit)."
+        "Transferring out of Hostinger follows the same logic in reverse: 60 days of registration, unlock it in Hostinger's panel, get the code and confirm by email. A transfer that goes through is not refunded; see [Hostinger's refund and renewal rules](/en/reviews/is-hostinger-legit)."
       ]
     },
     {
       "heading": "Who owns the domain",
       "paragraphs": [
-        "Hostinger says it on both pages: the domain is registered in your name, and it is yours, not the registrar's. Hostinger is accredited by ICANN, the body that coordinates generic domains. If you cancel the hosting, the domain stays yours; for the domain that came with the plan, the registration fee is deducted from the refund, because it has already been paid to the registry.",
-        "Three habits keep the domain yours:"
+        "Hostinger says on both pages that the domain is registered in your name and is yours, not the registrar's. It is accredited by ICANN, the body that coordinates generic domains. If you cancel the hosting, the domain stays yours; for a domain that came with the plan, the registration fee is deducted from the refund, because it was already paid to the registry.",
+        "Three precautions keep the domain yours:"
       ],
       "bullets": [
-        "**The account:** the domain belongs to the Hostinger account it was bought in. Use an email you control, not a freelancer's or an agency's. Whoever registers it in someone else's name depends on that person to transfer it later.",
-        "**The renewal:** Hostinger recommends leaving auto-renewal on. An expired domain takes the site and the email down. Domain renewals have no refund, so the card on the account has to be valid.",
+        "**The account:** the domain belongs to the Hostinger account where it was bought. Use an email you control, not a freelancer's or an agency's. Whoever registers in someone else's name depends on that person to transfer it later.",
+        "**The renewal:** Hostinger recommends leaving auto-renewal on. An expired domain takes down the site and the email. Domain renewal is not refundable, so the card on the account has to be up to date.",
         "**The registration refund:** a new registration can only be refunded within 96 hours. After that, the domain is yours until the end of the paid term, with no refund."
       ]
     },
     {
       "heading": "Checklist before you pay",
       "bullets": [
-        "Read the renewal column, not just the first year. The domain renews every year for as long as the site exists.",
-        "With the 3-year term, check the three-year total in the cart: the page shows only the first.",
-        "If you are going to transfer, check the registration date: under 60 days, the transfer does not start.",
-        "Buy it in the account that will be yours, with your own email and auto-renewal on.",
-        "For a country extension, check its own transfer procedure in Hostinger's support before buying, if you may want to leave one day.",
-        "If the domain came with the hosting plan, note the second-year renewal price: it shows before you buy.",
-        "The SONAR20 code gives 20% on the hosting plan. On a domain on its own, check in the cart whether the 20% appears before you pay."
+        "Look at the renewal column, not just the first year. The domain renews every year for as long as the site exists.",
+        "If you will transfer, check the registration date: under 60 days, the transfer does not start.",
+        "Buy on the account that will be yours, with your own email and auto-renewal on.",
+        "If the domain came with the hosting plan, write down the second-year renewal price: it is shown before you buy.",
+        "SONAR20 gives 20% off the hosting plan; on a standalone domain, check in the cart whether the discount appears before you pay."
       ]
     },
     {
       "heading": "Which path to choose",
       "paragraphs": [
-        "**Buy at Hostinger** if the site will be hosted there and you want domain, DNS and renewal in the same panel. The .com renews at US$19.99 per year (October 28, 2026), the same as the full first year, with no jump in year two.",
-        "**Buy elsewhere and point it** if you already have a domain at another registrar, if you prefer separate accounts, or if the renewal price there is lower. Pointing the DNS is a setting in the panel, and the site works the same way.",
-        "**Transfer** only a domain registered more than 60 days ago, and only if Hostinger's renewal beats what you pay today. On most generic extensions, the transfer fee includes one more year of registration, so it is not money lost.",
+        "**Buy at Hostinger** if the site will be hosted there and you want domain, DNS and renewal in the same panel; check the renewal before you pay.",
+        "**Buy elsewhere and point it** if you already have a domain at another registrar, if you prefer to keep the accounts separate, or if the renewal price there is lower. Pointing the DNS is an adjustment in the panel, and the site works the same way.",
+        "**Transfer** only a domain with more than 60 days of registration and only if Hostinger's renewal is worth what you pay today. On most generic extensions, the transfer fee includes an extra year of registration, so it is not money lost.",
         "When in doubt, do not transfer: point the domain and leave the registration where it is. You can transfer later, and the site does not stop."
-      ]
+      ],
+      "emphasis": "If it were for my site, I would keep the registration together with the hosting, because domain and renewal stay in the same panel."
     },
     {
-      "heading": "SONAR20 and the price",
+      "heading": "SONAR20 coupon and price",
       "paragraphs": [
-        "Use the code **SONAR20** in the coupon field of the cart, or come in through this article's link: **20% off the first period**, on a monthly or annual hosting plan, for new or existing customers. We have not tested renewal; check the renewal price in the cart. For a domain on its own, the price is the one in the cart: check whether the discount appears there before you pay. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
+        "Use the code **SONAR20** in the coupon field of the cart, or come in through this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. We have not tested the renewal; check the price in the cart. For a domain on its own, what counts is what appears in the cart. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
       ]
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "How much does a domain cost at Hostinger? On October 28, 2026, on the international site in US dollars, a .com cost US$19.99 for the first year, or US$0.01 with a 3-year term, and renews at US$19.99 per year; the transfer costs US$9.99. Prices can vary by country and currency.",
-        "Can I change hosting without losing the domain? Yes. The domain is yours and stays in your Hostinger account; you point the DNS to the new host or transfer the registration later, after 60 days from the registration.",
-        "Should I pick .com or my country's extension? The .com is generic and works in any country; a country extension (such as .co.uk or .ca) is run by that country's registry, with its own rules, and suits a site that speaks to the public there. At Hostinger, the .com renews at US$19.99 per year (October 28, 2026).",
-        "Do I need a domain to have email? Yes. For an address like you@yourcompany.com the domain has to exist; hosting is not required, and Hostinger says you can use the domain only for email or to redirect to another site.",
-        "Can I transfer my domain from Hostinger to another registrar? Yes, 60 days after the registration: you unlock the domain in the panel, get the authorization code and confirm by email at the new registrar. A completed transfer has no refund."
+        "Can I change hosting without losing the domain? Yes. The domain is yours and stays in the Hostinger account; you point the DNS to the new hosting or transfer the registration later, once 60 days have passed since registration.",
+        "Do I need a domain to have email? Yes. For an address like you@yourcompany.com, the domain has to exist; hosting is not required, and Hostinger says you can use the domain only for email or to redirect to another site.",
+        "Can I transfer the domain from Hostinger to another registrar? Yes, after 60 days of registration: you unlock the domain in the panel, get the authorization code and confirm by email at the new registrar. A transfer that goes through is not refunded."
       ]
     },
     {
       "heading": "Who writes this",
       "paragraphs": [
-        "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain emcasacomcecilia.com has been registered at Hostinger since November 17, 2024 (public RDAP record, read on October 28, 2026). No one on the team has transferred a domain: this text gathers what Hostinger's domain and transfer pages say, read on October 28, 2026."
+        "Em Casa com Cecília runs on Hostinger managed hosting, as a Node.js Web App, and the domain emcasacomcecilia.com has been registered at Hostinger since 2024 (public RDAP record). No one on the team has transferred a domain: this text gathers what Hostinger's domain and transfer pages say."
       ]
     }
   ],
@@ -214,7 +199,7 @@
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Purchases with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you.",
+  "editorialNote": "Purchases made with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you.",
   "relatedArticles": [
     {
       "slug": "is-hostinger-legit",
@@ -228,5 +213,16 @@
       "slug": "hostinger-black-friday",
       "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Take the domain at Hostinger if the site will be hosted there and you want domain, DNS and renewal in the same panel.",
+      "Take the transfer only if the domain has more than 60 days of registration and Hostinger's renewal is worth what you pay today."
+    ],
+    "skipIf": [
+      "Skip it if you already have a domain at another registrar, prefer to keep the accounts separate or the renewal there is lower: point the DNS and leave the registration where it is.",
+      "Skip the transfer if the registration is under 60 days old: it does not start.",
+      "Skip it if the domain would be in the name or on the account of a freelancer or an agency: use an email you control."
+    ]
+  }
 }
