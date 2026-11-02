@@ -1706,8 +1706,8 @@ for (const url of articleUrls) {
     }
   }
 
-  // Os banners de campanha da loja (storeBanners.ts): o `top` logo depois da 1ª seção do corpo e o `mid` logo antes
-  // do FAQ (sem FAQ, da última), com o link da campanha, rel sponsored e os textos do idioma; nenhum em outra loja.
+  // Os banners de campanha da loja (storeBanners.ts): o `top` logo depois da 1ª seção do corpo, o `mid` logo antes
+  // do FAQ (sem FAQ, da última) e o `end` logo depois da última seção (ou do quadro de decisão que vem nela), com o link da campanha, rel sponsored e os textos do idioma; nenhum em outra loja.
   // O que leva ao nosso artigo da campanha tem link interno, sem sponsored, e não sai no próprio artigo. Campanha que
   // ainda não começou não vem no HTML.
   const bannerStore = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
@@ -1723,10 +1723,10 @@ for (const url of articleUrls) {
     articleSections.map(({ id }) => id),
     articleSections.findIndex(({ heading }) => isFaqHeading(heading)),
   );
-  const bannerTags = [...body.matchAll(/<aside\b[^>]*\bdata-promo-banner="(top|mid)"[^>]*>/g)];
+  const bannerTags = [...body.matchAll(/<aside\b[^>]*\bdata-promo-banner="(top|mid|end)"[^>]*>/g)];
   assert.deepEqual(
     bannerTags.map(([, slot]) => slot),
-    (['top', 'mid'] as const).filter((slot) => banners[slot] && bannerPlaces[slot]),
+    (['top', 'mid', 'end'] as const).filter((slot) => banners[slot] && bannerPlaces[slot]),
     `${pagePath}: banners de campanha fora do esperado`
   );
   for (const match of bannerTags) {
@@ -1737,7 +1737,12 @@ for (const url of articleUrls) {
     assert.ok(sectionTag, `${pagePath}: a seção do banner ${slot} não está na página`);
     const sectionEnd = sectionTag.index + elementAt(body, sectionTag.index).length;
     if (slot === 'top') assert.equal(match.index, sectionEnd, `${pagePath}: banner top fora do fim da 1ª seção`);
-    else assert.equal(match.index + aside.length, sectionTag.index, `${pagePath}: banner mid fora do começo da seção ${bannerPlaces[slot]}`);
+    else if (slot === 'end') {
+      // Sem FAQ, o quadro de decisão fica depois da última seção, e o banner do fim vem logo abaixo dele.
+      const afterSection = body.slice(sectionEnd);
+      const expected = /^<section\b[^>]*\sdata-article="decisao"/.test(afterSection) ? sectionEnd + elementAt(body, sectionEnd).length : sectionEnd;
+      assert.equal(match.index, expected, `${pagePath}: banner end fora do fim da seção ${bannerPlaces[slot]}`);
+    } else assert.equal(match.index + aside.length, sectionTag.index, `${pagePath}: banner mid fora do começo da seção ${bannerPlaces[slot]}`);
     const link = aside.match(/<a\b[^>]*>/)?.[0] ?? '';
     assert.ok(link.includes(` href="${escapeHtml(banner.href)}"`), `${pagePath}: banner ${slot} sem o link da campanha`);
     if (isArticleBannerHref(banner.href)) assert.doesNotMatch(link, /\bsponsored\b/, `${pagePath}: banner ${slot} do artigo com sponsored`);
