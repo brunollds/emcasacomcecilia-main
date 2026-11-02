@@ -34,6 +34,9 @@ import {
   type ProseBaselineEntry,
 } from './review-prose-checks';
 import proseBaselineJson from './review-prose-baseline.json';
+import { findDuplicateKeys } from './json-duplicate-keys';
+import { readdirSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
 
 interface ValidationError {
   type: 'recipe' | 'review';
@@ -134,6 +137,31 @@ function getDecisionProblems(decision: unknown, kind: ReviewKind): string[] {
   expectProblems({ ...ok, skipIf: ['Custa R$ 299,90.'] }, 'guia', 1, 'preço');
   expectProblems({ ...ok, takeIf: ['Leia o [guia](/reviews/x).'] }, 'guia', 1, 'markdown');
   expectProblems({ leveSe: ['a'], ...ok }, 'guia', 1, 'campo fora do formato');
+}
+
+// Chave repetida no mesmo objeto: o JSON.parse guarda só a última, e a primeira nunca vai ao ar.
+{
+  const fixtures: Array<[string, string[]]> = [
+    ['{"a":1,"b":{"c":[1,{"d":"x"}]}}', []],
+    ['{"a":1,"a":2}', ['a']],
+    ['{"contentSections":[{"heading":"h"},{"paragraphs":["x"],"paragraphs":["y"]}]}', ['contentSections[1].paragraphs']],
+    ['{"a":{"k":"\\"}","k":1},"b":{"k":2}}', ['a.k']],
+  ];
+  for (const [text, expected] of fixtures) {
+    const found = findDuplicateKeys(text);
+    if (found.join('|') !== expected.join('|')) {
+      reportError({ type: 'review', id: -1, slug: '__duplicate_keys__', message: `${text}: ${found.join(', ') || 'nada'}, esperado ${expected.join(', ') || 'nada'}` });
+    }
+  }
+
+  for (const [dir, type] of [['content/reviews', 'review'], ['content/receitas', 'recipe']] as const) {
+    for (const file of readdirSync(dir).filter((name) => name.endsWith('.json'))) {
+      const text = readFileSync(join(dir, file), 'utf8').replace(/^\uFEFF/, '');
+      for (const path of findDuplicateKeys(text)) {
+        reportError({ type, id: -1, slug: file.replace(/\.json$/, ''), message: `chave repetida no JSON: ${path} (só a última vai ao ar)` });
+      }
+    }
+  }
 }
 
 if (
