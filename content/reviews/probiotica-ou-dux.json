@@ -35,7 +35,7 @@
       "paragraphs": [
         "Este texto compara whey e creatina da Probiótica, parceira do site, com o cupom PRO10EMCASACOMCECILIA, e da Dux, que não é parceira, com os preços publicados.",
         "A comparação com a Growth está em [Probiótica ou Growth](/reviews/probiotica-ou-growth). Este texto é o da série contra a Dux, junto com [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Max Titanium ou Dux](/reviews/max-titanium-ou-dux).",
-        "Comparamos o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são sem o frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficam de fora: ninguém da equipe provou os produtos.",
+        "Comparamos o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são sem o frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficam de fora: compare pelo rótulo e pelo preço.",
         "As contas são estas, arredondadas no centavo:"
       ],
       "image": {
@@ -57,7 +57,7 @@
     {
       "heading": "Whey: proteína por dose e preço por 100 g de proteína",
       "paragraphs": [
-        "Preços de 20/10/2026 no cartão, sem o cupom.",
+        "No whey, a Probiótica sai mais barata por 100 g de proteína nos dois potes. Preços de 20/10/2026 no cartão, sem o cupom.",
         "A dose da Probiótica tem 20 g de proteína em 30 g, pela tabela nutricional do sabor Baunilha. A página do pote traz outra faixa, de 20 g a 24 g por dose, e a conta não usa essa faixa. A Dux declara 20 g de proteína em 30 g no Baunilha."
       ],
       "comparisonTable": {
@@ -132,7 +132,7 @@
     {
       "heading": "Creatina: preço por 100 g",
       "paragraphs": [
-        "Preços no cartão, sem o cupom. A conta usa a monohidratada de 300 g nas duas lojas, com 5 g por dose e 60 doses. A Dux de 600 g fica fora desta tabela."
+        "Na creatina de 300 g, a Probiótica é a mais barata por grama. Preços no cartão, sem o cupom; a conta usa a monohidratada de 300 g nas duas lojas, com 5 g por dose e 60 doses. A Dux de 600 g fica fora desta tabela."
       ],
       "images": [
         {
@@ -172,7 +172,7 @@
     {
       "heading": "Creapure: o que cada loja declara",
       "paragraphs": [
-        "A Dux declara Creapure na linha de 300 g. Segundo a página, a creatina é produzida pela AlzChem, na Alemanha. O selo é declaração da Dux; não checamos a origem. A dose dessa linha é de 3 g, meio dosador. A Probiótica usa o nome Creapure no pote de 150 g, com dose de 5 g e 30 doses.",
+        "A Dux declara Creapure na linha de 300 g. A página diz que a creatina é produzida pela AlzChem, na Alemanha. O selo é declaração da Dux. A dose dessa linha é de 3 g, meio dosador. A Probiótica usa o nome Creapure no pote de 150 g, com dose de 5 g e 30 doses.",
         "Por 100 g, a Creapure da Probiótica sai a R$ 64,59 no Pix (R$ 66,59 no cartão). A da Dux sai a R$ 87,05 no Pix (R$ 91,63 no cartão). Pelo preço por grama, a Probiótica fica cerca de 26% abaixo no Pix. Quem quer o selo declarado pela Dux paga por ele; quem compara por grama de creatina, não.",
         "Esta comparação não trata de efeito no corpo. Para creatina, o rótulo diz quanto de creatina vem em cada dose e quanto custa."
       ]
@@ -239,6 +239,8 @@
     },
     {
       "heading": "Quem escolhe o quê",
+      "emphasis": "Pelos números da tabela, para o menor preço por grama no whey, na creatina e na Creapure a escolha é a Probiótica, porque ela sai mais barata nas três; para a lista de ingredientes mais enxuta, a escolha é a Dux.",
+      "emphasisAfterParagraph": 1,
       "bullets": [
         "Quer o menor preço por 100 g de proteína no whey: [100% Pure Whey, pote de 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p), a R$ 40,82 no Pix, ou R$ 36,74 com o cupom no teto.",
         "Quer o refil de 900 g: [100% Pure Whey Refil, 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p), a R$ 38,10 no Pix, ou R$ 34,29 com o cupom no teto.",
@@ -264,6 +266,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Probiótica se você escolhe pelo menor preço por grama no whey, na creatina e na Creapure.",
+      "Leve a Dux se você quer a creatina de um ingrediente só ou o whey Neutro, sem sabor."
+    ],
+    "skipIf": [
+      "Passe na Dux se o preço por grama decide: ela sai mais cara nas três linhas.",
+      "Passe na Probiótica se você quer a creatina de um ingrediente só: a de 300 g dela lista antiumectante."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

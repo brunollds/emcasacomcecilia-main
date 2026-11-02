@@ -33,7 +33,7 @@
     {
       "heading": "Quais bolinhos estamos comparando",
       "paragraphs": [
-        "Os dois são bolinhos de chocolate de 40 g, vendidos em unidade e em kit:"
+        "Dois bolinhos de 40 g, em unidade e em kit, com rótulos diferentes:"
       ],
       "bullets": [
         "**Belive:** Bolinho de Chocolate Sem Açúcar Sem Glúten Sem Leite, no site oficial da marca, em unidade e em kit de 10.",
@@ -119,7 +119,7 @@
     {
       "heading": "O rótulo da Belive por bolinho",
       "paragraphs": [
-        "Tabela nutricional da página do produto, porção de 40 g (1 unidade)."
+        "O bolinho da Belive tem 123 kcal, 16 g de carboidratos e 0 g de açúcares por unidade. Tabela da página do produto, porção de 40 g."
       ],
       "image": {
         "src": "/images/reviews/belive/belive-tabela-nutricional-bolinho-chocolate.webp",
@@ -211,7 +211,7 @@
     {
       "heading": "Preço por unidade",
       "paragraphs": [
-        "Preços de 17/10/2026. O preço por unidade dos kits é a conta nossa."
+        "Na unidade, a Suavipan sai mais barata na farmácia; no kit, a Belive leva. Preços de 17/10/2026. Conta nossa: o preço por unidade dos kits."
       ],
       "comparisonTable": {
         "headers": [
@@ -278,6 +278,8 @@
     },
     {
       "heading": "Qual escolher",
+      "emphasis": "Pelos números da tabela, para quem precisa de sem glúten e sem leite a escolha é a Belive, porque só ela declara os dois no rótulo.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Pelos rótulos e pelos preços da tabela:"
       ],
@@ -298,6 +300,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Belive se você quer conferir calorias e carboidratos antes de comprar: a tabela nutricional é publicada.",
+      "Leve a Suavipan se você não evita glúten nem leite e quer o menor preço por unidade: na farmácia ela sai mais barata."
+    ],
+    "skipIf": [
+      "Passe na Suavipan se você evita glúten ou leite: ela leva farinha de trigo e leite em pó.",
+      "Passe na Suavipan se você quer a tabela nutricional: o site dela não publica."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

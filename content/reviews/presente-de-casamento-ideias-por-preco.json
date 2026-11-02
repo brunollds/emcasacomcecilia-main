@@ -33,10 +33,10 @@
     {
       "heading": "Para quem já tem casa montada",
       "paragraphs": [
-        "As ideias do guia seguem quatro faixas: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500, com os preços de venda da Let's Eat It em 20/10/2026. O que entra em cada faixa está nas perguntas frequentes; antes delas, o guia segue pelas linhas da loja: aparelho de jantar, Le Creuset, taças e faqueiros.",
+        "Com a casa montada, o presente vai para o complemento ou a reposição. As ideias seguem quatro faixas, até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima, com os preços de venda da Let's Eat It em 20/10/2026.",
         "Quando a casa já tem o básico, o presente pode seguir duas linhas. A primeira é a peça de complemento, algo que a mesa talvez ainda não tenha: a travessa retangular de 26 cm (R$ 529) ou a chaleira de 1,6 L com apito (R$ 929), que a ficha diz poder ir a qualquer fonte de calor, incluindo indução.",
         "A segunda é a peça de reposição. Se o casal já tem uma linha de louça ou de talheres e precisa completar, a conta mais simples é procurar a mesma linha e conferir o tamanho na ficha do produto antes de comprar, porque cada peça tem o seu próprio tamanho e os seus cuidados.",
-        "Não há como saber, daqui, o que cada casal já tem. Por isso, a escolha entre complemento e reposição fica com quem vai dar o presente, e as fichas das peças dão o que cabe em cada caso."
+        "A escolha entre complemento e reposição fica com quem dá o presente."
       ],
       "images": [
         {
@@ -103,7 +103,7 @@
     {
       "heading": "Le Creuset: o que dá para comprar por faixa",
       "paragraphs": [
-        "Os preços mudam com promoção. A marca tem peças em todas as faixas deste guia, de um moedor de pimenta a uma panela de R$ 3.089. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
+        "A Le Creuset tem presente em toda faixa, do moedor de pimenta à panela de R$ 3.089. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
       ],
       "comparisonTable": {
         "headers": [
@@ -228,8 +228,8 @@
         ]
       },
       "postParagraphs": [
-        "As fichas não comparam os dois materiais, então este guia não diz qual é melhor. A escolha entre cristal ecológico e cristal fica com o casal e com o orçamento. A Crex Optic é a única com restrição escrita de lava-louças e micro-ondas, por isso quem quer uma taça que vá à máquina precisa ler a ficha de cada modelo antes de comprar.",
-        "No Reclame Aqui, a categoria \"Taças\" aparece entre os principais problemas da loja, com 20,11%, na aba geral do perfil (consulta de até três anos). A tabela não separa o tipo de problema, então não dá para dizer quantas dessas reclamações são de quebra no transporte. Segundo a loja, porcelana, cristal, vidro e cerâmica vão embalados um a um, e a peça que chega quebrada é reposta de graça, com fotos do produto e da embalagem; por isso, fotografe a caixa ao receber. Para o histórico da loja, veja [a análise sobre a Let's Eat It](/reviews/lets-eat-it-e-confiavel)."
+        "Entre cristal ecológico e cristal, a escolha é do casal e do orçamento: as páginas não comparam os dois materiais. A Crex Optic é a única com restrição escrita de lava-louças e micro-ondas, por isso quem quer uma taça que vá à máquina precisa ler a página de cada modelo antes de comprar.",
+        "No Reclame Aqui, a categoria \"Taças\" aparece entre os principais problemas da loja, com 20,11%, na aba geral do perfil (consulta de até três anos). A tabela não separa o tipo de problema, então não dá para dizer quantas dessas reclamações são de quebra no transporte. A loja embala porcelana, cristal, vidro e cerâmica um a um, e repõe de graça a peça que chega quebrada, com fotos do produto e da embalagem; por isso, fotografe a caixa ao receber. Para o histórico da loja, veja [a análise sobre a Let's Eat It](/reviews/lets-eat-it-e-confiavel)."
       ]
     },
     {
@@ -345,5 +345,15 @@
       "slug": "porto-brasil-e-boa",
       "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Leve complemento, como travessa ou chaleira, se a casa já tem o básico.",
+      "Leve o aparelho de 30 peças se o casal monta a mesa do zero."
+    ],
+    "skipIf": [
+      "Passe o aparelho Shimeji Gold se o casal usa micro-ondas e lava-louças todo dia: ele leva filete dourado.",
+      "Passe a lista de presentes da loja: ela está sem itens, então combine direto com o casal."
+    ]
+  }
 }

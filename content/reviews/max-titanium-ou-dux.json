@@ -58,7 +58,7 @@
     {
       "heading": "Whey: proteína por dose e preço por 100 g de proteína",
       "paragraphs": [
-        "Preços de 20/10/2026 no cartão, sem o cupom. Os pares de 900 g são comparados por 100 g de proteína, e o pote de 1,8 kg da Dux entra como linha extra."
+        "No whey, a Max sai mais barata por 100 g de proteína nos três pares. Preços de 20/10/2026 no cartão, sem o cupom; o pote de 1,8 kg da Dux entra como linha extra."
       ],
       "comparisonTable": {
         "headers": [
@@ -160,7 +160,7 @@
     {
       "heading": "Sabores, ingredientes e alérgenos",
       "paragraphs": [
-        "Os ingredientes de cada linha, segundo as tabelas das páginas:"
+        "Os ingredientes de cada linha, nas tabelas das páginas:"
       ],
       "bullets": [
         "[Max 100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p): WPC, aromatizante, lecitina de soja e sucralose. A página lista quatro sabores: baunilha, chocolate, cookies & cream e morango.",
@@ -177,7 +177,7 @@
     {
       "heading": "Creatina: preço por 100 g e por dose",
       "paragraphs": [
-        "Preços no cartão, sem o cupom. Todas as creatinas da tabela são monohidratadas. A Max usa dose de 5 g nos potes desta comparação. A Dux usa 5 g na monohidratada e 3 g na linha Creapure."
+        "Na creatina, o pote de 500 g da Max é o mais barato por grama, com ou sem cupom. Preços no cartão, sem o cupom; todas as creatinas da tabela são monohidratadas. A Max usa dose de 5 g nos potes desta comparação. A Dux usa 5 g na monohidratada e 3 g na linha Creapure."
       ],
       "images": [
         {
@@ -230,7 +230,7 @@
     {
       "heading": "Creapure contra Creapure",
       "paragraphs": [
-        "As duas lojas declaram o selo Creapure. A [Creatina Creapure de 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) tem dose de 5 g e 50 doses. A Dux vende a linha 100% Creapure de 300 g, com dose de 3 g, meio dosador, e 100 doses. A página da Dux diz que a creatina é \"100% Creapure\" e tem matéria-prima alemã. Não fizemos checagem independente do selo.",
+        "As duas lojas declaram o selo Creapure. A [Creatina Creapure de 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) tem dose de 5 g e 50 doses. A Dux vende a linha 100% Creapure de 300 g, com dose de 3 g, meio dosador, e 100 doses. A página da Dux diz que a creatina é \"100% Creapure\" e tem matéria-prima alemã.",
         "Pelo Pix, a [Creapure da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) sai a R$ 54,28 por 100 g, e a da Dux, a R$ 87,05. A diferença por grama é de 38%. Com o cupom no teto, a da Max cai para R$ 48,85. Por dose, a da Dux fica R$ 0,10 abaixo: R$ 2,61 contra R$ 2,71 no Pix, porque a dose dela é menor. A conta por grama não depende da dose, e por isso ela é a comparação que vale.",
         "A tabela da Dux traz a linha \"contém glúten\" na creatina Creapure. Confira o rótulo."
       ]
@@ -238,7 +238,7 @@
     {
       "heading": "Multivitamínico: preço por dia e valor diário",
       "paragraphs": [
-        "Os dois são de 90 cápsulas. A Max pede três cápsulas por dia, e a Dux, uma. Por isso a conta é por dia, e não por cápsula."
+        "No multivitamínico, a Dux sai mais barata por dia. Os dois são de 90 cápsulas: a Max pede três por dia, e a Dux, uma. Por isso a conta é por dia, e não por cápsula."
       ],
       "images": [
         {
@@ -276,7 +276,7 @@
       },
       "postParagraphs": [
         "Preços no cartão. No Pix, o [Multimax](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p) sai a R$ 1,85 por dia (R$ 1,66 com o cupom no teto), e o da Dux, a R$ 0,84.",
-        "Uma cápsula da Dux chega a 100% do valor diário de vitamina A, D e C, segundo a própria tabela. A Max pede três cápsulas para chegar aos percentuais da tabela dela. A tabela da Max traz mais minerais, como cálcio, magnésio e fósforo. A tabela da Dux traz cinco minerais: cobre, cromo, ferro, selênio e zinco."
+        "Uma cápsula da Dux chega a 100% do valor diário de vitamina A, D e C, pela tabela da página. A Max pede três cápsulas para chegar aos percentuais da tabela dela. A tabela da Max traz mais minerais, como cálcio, magnésio e fósforo. A tabela da Dux traz cinco minerais: cobre, cromo, ferro, selênio e zinco."
       ]
     },
     {
@@ -386,6 +386,8 @@
     },
     {
       "heading": "Quem escolhe o quê",
+      "emphasis": "Pelos números da tabela, para whey, creatina e pré-treino pelo menor preço a escolha é a Max, porque ela sai mais barata por grama e por dose; para multivitamínico pelo menor custo por dia, a escolha é a Dux.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Pelos rótulos e pelos preços:"
       ],
@@ -415,6 +417,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Max se você escolhe whey, creatina ou pré-treino pelo menor preço por grama ou por dose.",
+      "Leve a Dux se você quer multivitamínico pelo menor custo por dia ou pré-treino sem cafeína."
+    ],
+    "skipIf": [
+      "Passe na Max se você evita sucralose no whey: o FreshWhey da Dux usa stévia e taumatina.",
+      "Passe na Dux se o preço por grama decide: ela sai mais cara no whey, na creatina e no pré-treino."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

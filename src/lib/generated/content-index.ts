@@ -29585,7 +29585,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Na nossa página, a lista de cupons da YesStyle foi conferida em 30 de outubro de 2026.",
+      "text": "Na nossa página, a lista de cupons da YesStyle foi conferida em 24 de outubro de 2026.",
       "label": "Ver cupons ativos da YesStyle",
       "url": "/cupons/yesstyle",
       "sponsored": false
@@ -36446,7 +36446,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "On our page, the YesStyle coupon list was checked on October 30, 2026.",
+      "text": "On our page, the YesStyle coupon list was checked on October 24, 2026.",
       "label": "View Active YesStyle Coupons",
       "url": "/en/coupons/yesstyle",
       "sponsored": false
@@ -36464,7 +36464,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "[YesStyle coupon codes](/en/coupons/yesstyle) go in the Coupon Code field and expire quickly; the list on our page was checked on October 30, 2026. CECILIA010 is a reward code: it goes in the Reward Code field and gives up to 5% extra, 5% on your first order and 2% on later ones."
+          "[YesStyle coupon codes](/en/coupons/yesstyle) go in the Coupon Code field and expire quickly; the list on our page was checked on October 24, 2026. CECILIA010 is a reward code: it goes in the Reward Code field and gives up to 5% extra, 5% on your first order and 2% on later ones."
         ]
       },
       {
@@ -36665,7 +36665,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "En nuestra página, la lista de cupones de YesStyle se revisó el 30 de octubre de 2026.",
+      "text": "En nuestra página, la lista de cupones de YesStyle se revisó el 24 de octubre de 2026.",
       "label": "Ver cupones activos de YesStyle",
       "url": "/es/coupons/yesstyle",
       "sponsored": false
@@ -36683,7 +36683,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Los [cupones YesStyle](/es/coupons/yesstyle) promocionales van en el campo Coupon Code y caducan rápido; la lista de nuestra página se revisó el 30 de octubre de 2026. CECILIA010 es un código de recompensa: va en el campo Reward Code y da hasta un 5% extra, un 5% en la primera compra y un 2% en las siguientes."
+          "Los [cupones YesStyle](/es/coupons/yesstyle) promocionales van en el campo Coupon Code y caducan rápido; la lista de nuestra página se revisó el 24 de octubre de 2026. CECILIA010 es un código de recompensa: va en el campo Reward Code y da hasta un 5% extra, un 5% en la primera compra y un 2% en las siguientes."
         ]
       },
       {
@@ -36884,7 +36884,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sur notre page, la liste des coupons YesStyle a été vérifiée le 30 octobre 2026.",
+      "text": "Sur notre page, la liste des coupons YesStyle a été vérifiée le 24 octobre 2026.",
       "label": "Voir les coupons YesStyle actifs",
       "url": "/fr/coupons/yesstyle",
       "sponsored": false
@@ -36902,7 +36902,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Les [coupons YesStyle](/fr/coupons/yesstyle) promo vont dans le champ Coupon Code et expirent vite ; la liste de notre page a été vérifiée le 30 octobre 2026. CECILIA010 est un code de récompense : il va dans le champ Reward Code et donne jusqu'à 5% en plus (5% à la première commande, 2% ensuite)."
+          "Les [coupons YesStyle](/fr/coupons/yesstyle) promo vont dans le champ Coupon Code et expirent vite ; la liste de notre page a été vérifiée le 24 octobre 2026. CECILIA010 est un code de récompense : il va dans le champ Reward Code et donne jusqu'à 5% en plus (5% à la première commande, 2% ensuite)."
         ]
       },
       {
@@ -37103,7 +37103,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Auf unserer Seite wurde die Liste der YesStyle-Gutscheine am 30. Oktober 2026 geprüft.",
+      "text": "Auf unserer Seite wurde die Liste der YesStyle-Gutscheine am 24. Oktober 2026 geprüft.",
       "label": "Aktive YesStyle-Gutscheine ansehen",
       "url": "/de/coupons/yesstyle",
       "sponsored": false
@@ -37121,7 +37121,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "[YesStyle-Gutscheine](/de/coupons/yesstyle) aus Aktionen gehören ins Feld Coupon Code und laufen schnell ab; die Liste auf unserer Seite wurde am 30. Oktober 2026 geprüft. CECILIA010 ist ein Belohnungscode: Er kommt ins Feld Reward Code und bringt bis zu 5% extra, 5% auf die erste Bestellung und 2% auf alle weiteren."
+          "[YesStyle-Gutscheine](/de/coupons/yesstyle) aus Aktionen gehören ins Feld Coupon Code und laufen schnell ab; die Liste auf unserer Seite wurde am 24. Oktober 2026 geprüft. CECILIA010 ist ein Belohnungscode: Er kommt ins Feld Reward Code und bringt bis zu 5% extra, 5% auf die erste Bestellung und 2% auf alle weiteren."
         ]
       },
       {
@@ -37322,7 +37322,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 10월 30일에 확인했습니다.",
+      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 10월 24일에 확인했습니다.",
       "label": "사용 가능한 YesStyle 쿠폰 보기",
       "url": "/ko/coupons/yesstyle",
       "sponsored": false
@@ -37340,7 +37340,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "[YesStyle 쿠폰](/ko/coupons/yesstyle) 중 프로모션 쿠폰은 Coupon Code 입력란에 넣으며 금방 만료됩니다. 저희 페이지의 쿠폰 목록은 2026년 10월 30일에 확인했습니다. CECILIA010은 리워드 코드로, Reward Code 입력란에 넣으면 최대 5%가 추가로 할인됩니다. 첫 구매는 5%, 이후 구매는 2%입니다."
+          "[YesStyle 쿠폰](/ko/coupons/yesstyle) 중 프로모션 쿠폰은 Coupon Code 입력란에 넣으며 금방 만료됩니다. 저희 페이지의 쿠폰 목록은 2026년 10월 24일에 확인했습니다. CECILIA010은 리워드 코드로, Reward Code 입력란에 넣으면 최대 5%가 추가로 할인됩니다. 첫 구매는 5%, 이후 구매는 2%입니다."
         ]
       },
       {
@@ -37541,7 +37541,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "当サイトのYesStyleクーポン一覧は2026年10月30日に確認しました。",
+      "text": "当サイトのYesStyleクーポン一覧は2026年10月24日に確認しました。",
       "label": "利用できるYesStyleクーポンを見る",
       "url": "/ja/coupons/yesstyle",
       "sponsored": false
@@ -37559,7 +37559,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "[YesStyleクーポン](/ja/coupons/yesstyle)のうちプロモクーポンはCoupon Code欄に入力し、期限が短めです。当サイトのクーポン一覧は2026年10月30日に確認しました。CECILIA010はリワードコードで、Reward Code欄に入力すると最大5%が追加で割引され、初回は5%、2回目以降は2%です。"
+          "[YesStyleクーポン](/ja/coupons/yesstyle)のうちプロモクーポンはCoupon Code欄に入力し、期限が短めです。当サイトのクーポン一覧は2026年10月24日に確認しました。CECILIA010はリワードコードで、Reward Code欄に入力すると最大5%が追加で割引され、初回は5%、2回目以降は2%です。"
         ]
       },
       {
@@ -37760,7 +37760,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站頁面的 YesStyle 優惠碼列表於2026年10月30日核對。",
+      "text": "本站頁面的 YesStyle 優惠碼列表於2026年10月24日核對。",
       "label": "查看 YesStyle 優惠碼",
       "url": "/zh-hant/coupons/yesstyle",
       "sponsored": false
@@ -37778,7 +37778,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "[YesStyle 優惠碼](/zh-hant/coupons/yesstyle)中的促銷碼填入 Coupon Code 欄位，很快會過期；本站頁面的優惠碼列表於2026年10月30日核對。CECILIA010 是獎勵代碼，填入 Reward Code 欄位，可額外獲得最高 5% 折扣：首單 5%，之後 2%。"
+          "[YesStyle 優惠碼](/zh-hant/coupons/yesstyle)中的促銷碼填入 Coupon Code 欄位，很快會過期；本站頁面的優惠碼列表於2026年10月24日核對。CECILIA010 是獎勵代碼，填入 Reward Code 欄位，可額外獲得最高 5% 折扣：首單 5%，之後 2%。"
         ]
       },
       {
@@ -37979,7 +37979,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站页面的 YesStyle 优惠码列表于2026年10月30日核对。",
+      "text": "本站页面的 YesStyle 优惠码列表于2026年10月24日核对。",
       "label": "查看 YesStyle 优惠码",
       "url": "/zh-hans/coupons/yesstyle",
       "sponsored": false
@@ -37997,7 +37997,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "[YesStyle 优惠码](/zh-hans/coupons/yesstyle)中的促销码填入 Coupon Code 栏位，很快会过期；本站页面的优惠码列表于2026年10月30日核对。CECILIA010 是奖励代码，填入 Reward Code 栏位，可额外获得最高 5% 折扣：首单 5%，之后 2%。"
+          "[YesStyle 优惠码](/zh-hans/coupons/yesstyle)中的促销码填入 Coupon Code 栏位，很快会过期；本站页面的优惠码列表于2026年10月24日核对。CECILIA010 是奖励代码，填入 Reward Code 栏位，可额外获得最高 5% 折扣：首单 5%，之后 2%。"
         ]
       },
       {
@@ -38385,7 +38385,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A ressalva: a originalidade dos produtos é declarada pela própria loja, sem auditoria independente, então confira lote, validade e lacre ao receber. As conferências estão no capítulo \"Os produtos da YesStyle são originais?\". Para comprar com desconto, veja os [cupons YesStyle](/cupons/yesstyle), conferidos em 30 de outubro de 2026."
+          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A ressalva: a originalidade dos produtos é declarada pela própria loja, sem auditoria independente, então confira lote, validade e lacre ao receber. As conferências estão no capítulo \"Os produtos da YesStyle são originais?\". Para comprar com desconto, veja os [cupons YesStyle](/cupons/yesstyle), conferidos em 24 de outubro de 2026."
         ]
       },
       {
@@ -39477,7 +39477,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, YesStyle is legitimate: it is a Hong Kong company founded in 2006 and owned by the publicly listed YesAsia Holdings. But authenticity is stated by the store itself, with no independent audit, so check batch code, expiry date and seal on arrival. Checks are in the chapter \"Are YesStyle Products Authentic? Where Is YesStyle From?\". To save, see the [YesStyle coupon codes](/en/coupons/yesstyle), checked on October 30, 2026."
+          "Yes, YesStyle is legitimate: it is a Hong Kong company founded in 2006 and owned by the publicly listed YesAsia Holdings. But authenticity is stated by the store itself, with no independent audit, so check batch code, expiry date and seal on arrival. Checks are in the chapter \"Are YesStyle Products Authentic? Where Is YesStyle From?\". To save, see the [YesStyle coupon codes](/en/coupons/yesstyle), checked on October 24, 2026."
         ]
       },
       {
@@ -39616,7 +39616,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, YesStyle es legítima: es una empresa de Hong Kong fundada en 2006 y subsidiaria de YesAsia Holdings, que cotiza en bolsa. Pero la originalidad la declara la propia tienda, sin auditoría independiente: revisa lote, caducidad y precinto al recibir. Las comprobaciones están en el capítulo «¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?». Para ahorrar, mira los [cupones YesStyle](/es/coupons/yesstyle), revisados el 30 de octubre de 2026."
+          "Sí, YesStyle es legítima: es una empresa de Hong Kong fundada en 2006 y subsidiaria de YesAsia Holdings, que cotiza en bolsa. Pero la originalidad la declara la propia tienda, sin auditoría independiente: revisa lote, caducidad y precinto al recibir. Las comprobaciones están en el capítulo «¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?». Para ahorrar, mira los [cupones YesStyle](/es/coupons/yesstyle), revisados el 24 de octubre de 2026."
         ]
       },
       {
@@ -39750,7 +39750,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et filiale de YesAsia Holdings, cotée en bourse. Mais l'authenticité est déclarée par la boutique elle-même, sans audit indépendant : vérifiez lot, date de péremption et scellé à la réception. Voir le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? ». Pour économiser, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le 30 octobre 2026."
+          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et filiale de YesAsia Holdings, cotée en bourse. Mais l'authenticité est déclarée par la boutique elle-même, sans audit indépendant : vérifiez lot, date de péremption et scellé à la réception. Voir le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? ». Pour économiser, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le 24 octobre 2026."
         ]
       },
       {
@@ -39883,7 +39883,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und Tochter der börsennotierten YesAsia Holdings. Die Echtheit der Produkte erklärt allerdings der Shop selbst, ohne unabhängige Prüfung. Prüfen Sie bei Lieferung Charge, Haltbarkeitsdatum und Siegel. Details im Kapitel „Sind die Produkte von YesStyle original? Woher kommt YesStyle?“. Zum Sparen finden Sie die [YesStyle-Gutscheine](/de/coupons/yesstyle), geprüft am 30. Oktober 2026."
+          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und Tochter der börsennotierten YesAsia Holdings. Die Echtheit der Produkte erklärt allerdings der Shop selbst, ohne unabhängige Prüfung. Prüfen Sie bei Lieferung Charge, Haltbarkeitsdatum und Siegel. Details im Kapitel „Sind die Produkte von YesStyle original? Woher kommt YesStyle?“. Zum Sparen finden Sie die [YesStyle-Gutscheine](/de/coupons/yesstyle), geprüft am 24. Oktober 2026."
         ]
       },
       {
@@ -40016,7 +40016,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년 설립된 홍콩 기업으로 상장사 YesAsia Holdings 소속입니다. 다만 정품 여부는 YesStyle이 직접 밝히는 내용이고 독립적인 감사는 없으니, 받으면 제조번호, 유통기한, 봉인을 확인하세요. 확인 방법은 'YesStyle 제품은 정품인가요? YesStyle은 어느 나라 회사인가요?' 장에 있습니다. 할인받아 구매하려면 [YesStyle 쿠폰](/ko/coupons/yesstyle)을 확인하세요(2026년 10월 30일 확인)."
+          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년 설립된 홍콩 기업으로 상장사 YesAsia Holdings 소속입니다. 다만 정품 여부는 YesStyle이 직접 밝히는 내용이고 독립적인 감사는 없으니, 받으면 제조번호, 유통기한, 봉인을 확인하세요. 확인 방법은 'YesStyle 제품은 정품인가요? YesStyle은 어느 나라 회사인가요?' 장에 있습니다. 할인받아 구매하려면 [YesStyle 쿠폰](/ko/coupons/yesstyle)을 확인하세요(2026년 10월 24일 확인)."
         ]
       },
       {
@@ -40134,7 +40134,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "はい、YesStyleは実在する企業です。2006年設立の香港企業で、上場企業YesAsia Holdingsの傘下です。ただし正規品かは同社の自己申告で第三者の監査はないため、届いたらロット番号、使用期限、封を確認してください。方法は「YesStyleの商品は正規品？ YesStyleはどこの国の会社？」の章にあります。割引で買うなら[YesStyleクーポン](/ja/coupons/yesstyle)をご覧ください（2026年10月30日に確認）。"
+          "はい、YesStyleは実在する企業です。2006年設立の香港企業で、上場企業YesAsia Holdingsの傘下です。ただし正規品かは同社の自己申告で第三者の監査はないため、届いたらロット番号、使用期限、封を確認してください。方法は「YesStyleの商品は正規品？ YesStyleはどこの国の会社？」の章にあります。割引で買うなら[YesStyleクーポン](/ja/coupons/yesstyle)をご覧ください（2026年10月24日に確認）。"
         ]
       },
       {
@@ -40267,7 +40267,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "是的，YesStyle 是正規公司：2006 年創立於香港，隸屬上市公司 YesAsia Holdings。不過商品是否為正品由平台自行聲明，沒有獨立審核，收貨後請檢查批號、有效期限和封條。檢查方法見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。想優惠購買，請查看 [YesStyle 優惠碼](/zh-hant/coupons/yesstyle)（於2026年10月30日核對）。"
+          "是的，YesStyle 是正規公司：2006 年創立於香港，隸屬上市公司 YesAsia Holdings。不過商品是否為正品由平台自行聲明，沒有獨立審核，收貨後請檢查批號、有效期限和封條。檢查方法見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。想優惠購買，請查看 [YesStyle 優惠碼](/zh-hant/coupons/yesstyle)（於2026年10月24日核對）。"
         ]
       },
       {
@@ -40385,7 +40385,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "是的，YesStyle 是正规公司：2006 年创立于香港，隶属上市公司 YesAsia Holdings。不过商品是否为正品由平台自行声明，没有独立审核，收货后请检查批号、有效期和封条。检查方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。想优惠购买，请查看 [YesStyle 优惠码](/zh-hans/coupons/yesstyle)（于2026年10月30日核对）。"
+          "是的，YesStyle 是正规公司：2006 年创立于香港，隶属上市公司 YesAsia Holdings。不过商品是否为正品由平台自行声明，没有独立审核，收货后请检查批号、有效期和封条。检查方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。想优惠购买，请查看 [YesStyle 优惠码](/zh-hans/coupons/yesstyle)（于2026年10月24日核对）。"
         ]
       },
       {
@@ -48821,7 +48821,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sulla nostra pagina, la lista dei coupon YesStyle è stata controllata il 30 ottobre 2026.",
+      "text": "Sulla nostra pagina, la lista dei coupon YesStyle è stata controllata il 24 ottobre 2026.",
       "label": "Vedi i coupon YesStyle attivi",
       "url": "/it/coupons/yesstyle",
       "sponsored": false
@@ -48839,7 +48839,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "I [coupon YesStyle](/it/coupons/yesstyle) promozionali vanno nel campo Coupon Code e scadono presto; la lista della nostra pagina è stata controllata il 30 ottobre 2026. CECILIA010 è un codice ricompensa: va nel campo Reward Code e dà fino al 5% in più, il 5% sul primo ordine e il 2% sui successivi."
+          "I [coupon YesStyle](/it/coupons/yesstyle) promozionali vanno nel campo Coupon Code e scadono presto; la lista della nostra pagina è stata controllata il 24 ottobre 2026. CECILIA010 è un codice ricompensa: va nel campo Reward Code e dà fino al 5% in più, il 5% sul primo ordine e il 2% sui successivi."
         ]
       },
       {
@@ -49010,7 +49010,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. Però l'originalità è dichiarata dal sito stesso, senza audit indipendente: alla consegna controlla lotto, scadenza e sigillo. I controlli sono nel capitolo «I prodotti YesStyle sono originali? Da dove viene YesStyle?». Per comprare con lo sconto, vedi i [coupon YesStyle](/it/coupons/yesstyle), controllati il 30 ottobre 2026."
+          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. Però l'originalità è dichiarata dal sito stesso, senza audit indipendente: alla consegna controlla lotto, scadenza e sigillo. I controlli sono nel capitolo «I prodotti YesStyle sono originali? Da dove viene YesStyle?». Per comprare con lo sconto, vedi i [coupon YesStyle](/it/coupons/yesstyle), controllati il 24 ottobre 2026."
         ]
       },
       {
@@ -88663,10 +88663,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual versão de cada lado",
         "paragraphs": [
-          "As duas fórmulas são apresentadas para nutrição enteral e oral. Usar somente sob orientação médica ou de nutricionista: é o profissional que escolhe a fórmula, a quantidade e a via. Este texto só compara o que os rótulos e as páginas mostram e as contas de preço.",
+          "Nenhuma das duas se escolhe sozinha: é o médico ou o nutricionista que define a fórmula, a quantidade e a via. Este texto só compara o que os rótulos e as páginas mostram e as contas de preço.",
           "Isosource 1.5 Sem Sabor, 1 L, é o produto da Nestlé Health Science vendido na Nestlé Nutre, em caixa Tetra Square com tampa.",
           "Trophic 1.5, da Prodiet, na versão Baunilha, caixa de 1 L, lida na página da Droga Raia. O Isosource 1.0 existe só em pó, de 400 g, e o 1.5 é líquido. Por isso o 1.0 não entra aqui.",
-          "A tabela completa do Isosource está lida no rótulo. Da Trophic, usamos só o que os cartões oficiais da Prodiet mostram nas fotos do produto numa loja, porque a tabela completa da caixa não estava publicada nas fontes lidas. Não recebemos os produtos. A ficha completa do Isosource está em [Isosource 1.5 Sem Sabor](/reviews/isosource-1-5-para-que-serve)."
+          "A tabela completa do Isosource está lida no rótulo. Da Trophic, usamos só o que os cartões oficiais da Prodiet mostram nas fotos do produto numa loja, porque a tabela completa da caixa não estava publicada nas fontes lidas. A ficha completa do Isosource está em [Isosource 1.5 Sem Sabor](/reviews/isosource-1-5-para-que-serve)."
         ]
       },
       {
@@ -88678,7 +88678,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comparação por litro",
         "paragraphs": [
-          "Isosource: rótulo lido na Nestlé Nutre, com os valores por 100 ml multiplicados por 10 (conta nossa). Trophic: cartões oficiais da Prodiet nas fotos do produto na Droga Raia."
+          "Por litro, o Isosource tem mais proteína e traz fibras; conta nossa, do rótulo por 100 ml. Trophic: cartões oficiais da Prodiet nas fotos do produto na Droga Raia."
         ],
         "comparisonTable": {
           "headers": [
@@ -88735,7 +88735,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Alergênicos e fibras",
         "paragraphs": [
-          "O Isosource 1.5 Sem Sabor declara \"contém derivados de leite e soja\" e \"não contém glúten\". O caseinato é derivado do leite: \"não contém lactose\" não quer dizer \"sem leite\". Tem fibras (inulina e fibra de soja, 0,8 g por 100 ml), mesmo que o nome do produto não diga.",
+          "\"Não contém lactose\" não quer dizer \"sem leite\": o Isosource 1.5 Sem Sabor declara \"contém derivados de leite e soja\" e \"não contém glúten\", e o caseinato é derivado do leite. Tem fibras (inulina e fibra de soja, 0,8 g por 100 ml), mesmo que o nome do produto não diga.",
           "A Trophic 1.5 Baunilha traz \"não contém lactose\" e \"isento de fibras\" nos cartões da Prodiet. O texto da loja diz \"contém derivados de leite\". Quem tem restrição deve ler a caixa e perguntar ao profissional."
         ]
       },
@@ -88843,7 +88843,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantos ml e quantas cápsulas por bebida",
         "paragraphs": [
-          "O Mochaccino Canela é uma cápsula Nescafé Dolce Gusto com café, leite e cacau, vendida em caixa de 10. Cada bebida usa uma cápsula, e a xícara é média; a conta do volume vem a seguir.",
+          "Cada bebida usa uma cápsula e rende cerca de 120 ml, numa xícara média. A caixa traz 10 cápsulas.",
           "A página da loja mostra o ícone de xícara média e vende a caixa com 10 cápsulas. A tabela nutricional trata 1 cápsula como 1 porção, e são 10 porções por caixa. Ou seja, uma cápsula por bebida e dez bebidas por caixa.",
           "Conta nossa, pelos números da tabela da loja: 77 kcal por cápsula divididas por 64 kcal a cada 100 ml, vezes 100, dão cerca de 120 ml. Esse número bate com o que mostramos na [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), onde a tabela de preparo da embalagem traz 120 ml para o Mochaccino Canela."
         ],
@@ -88861,7 +88861,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calorias e tabela nutricional por cápsula",
         "paragraphs": [
-          "A tabela da loja usa a porção de 17,2 g, que é uma cápsula. Os números abaixo são os da página."
+          "Uma cápsula de 17,2 g é uma porção: 77 kcal, com 8 g de açúcares adicionados. Os números abaixo são os da página."
         ],
         "comparisonTable": {
           "headers": [
@@ -88940,8 +88940,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ingredientes: tem chocolate? tem café?",
         "paragraphs": [
-          "A lista da loja traz: leite em pó integral, açúcar, café solúvel, cacau, sal, canela, aromatizantes e emulsificante lecitina de soja.",
-          "A lista tem cacau, e não traz \"chocolate\" como ingrediente. A página da marca descreve o sabor como café com leite e chocolate, com canela. O café está na lista como café solúvel."
+          "Tem café solúvel e cacau, mas a lista não traz \"chocolate\" como ingrediente. Os outros itens são leite em pó integral, açúcar, sal, canela, aromatizantes e lecitina de soja.",
+          "A página da marca descreve o sabor como café com leite e chocolate, com canela."
         ]
       },
       {
@@ -88960,7 +88960,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por cápsula e CECI",
         "paragraphs": [
-          "Em 17/10/2026, a caixa com 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial. Pela conta nossa (preço dividido por 10), são R$ 2,25 por cápsula, ou R$ 2,59 sem o desconto da página. Para comparar com os outros sabores, veja [quanto custa uma cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto). Se ainda não sabe qual sabor escolher, o guia de [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026) separa por perfil.",
+          "A cápsula sai por R$ 2,25 na caixa com desconto, ou R$ 2,59 sem ele: em 17/10/2026, a caixa com 10 estava de R$ 25,90 por R$ 22,50 na loja oficial. Conta nossa: o preço dividido por 10. Para comparar com os outros sabores, veja [quanto custa uma cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto). Se ainda não sabe qual sabor escolher, o guia de [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026) separa por perfil.",
           "O cupom CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. As regras estão na [página do cupom Dolce Gusto](/cupons/dolce-gusto) e no guia [como usar o CECI](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar). Confira o desconto no resumo do pedido antes de pagar."
         ]
       },
@@ -89104,7 +89104,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantos ml faz o Espresso?",
         "paragraphs": [
-          "A página da loja mostra o ícone de xícara pequena nos dois. Em nossa [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), a foto da tabela impressa numa embalagem Dolce Gusto indica 50 ml para o Espresso e para o Espresso Intenso. A tabela é de 1 cápsula por bebida. Para outra cápsula, vale o número de barras da sua própria caixa."
+          "Os dois rendem 50 ml, numa xícara pequena. A página mostra o ícone, e a foto da tabela impressa numa embalagem, reunida em nossa [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), traz o número. A tabela é de 1 cápsula por bebida. Para outra cápsula, vale o número de barras da sua própria caixa."
         ],
         "image": "/images/reviews/dolcegusto/espresso-dolce-gusto-xicara.webp",
         "imageAlt": "Cápsula e xícara pequena do Espresso Dolce Gusto",
@@ -89126,7 +89126,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa a cápsula",
         "paragraphs": [
-          "Em 17/10/2026, a página da loja oficial mostrava a caixa de 10 cápsulas do Espresso e do Espresso Intenso de R$ 25,90 por R$ 22,50. Pela nossa conta, isso dá R$ 2,25 por cápsula, já que 1 cápsula faz 1 bebida (R$ 22,50 ÷ 10). Sem desconto, a conta seria R$ 2,59. O preço muda, e a loja pode alterar a oferta. Para comparar com outros sabores, veja [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
+          "A cápsula sai por R$ 2,25, já que 1 cápsula faz 1 bebida. Em 17/10/2026, a caixa de 10 estava de R$ 25,90 por R$ 22,50 na loja oficial. Conta nossa: R$ 22,50 ÷ 10. Sem desconto, a conta seria R$ 2,59. O preço muda, e a loja pode alterar a oferta. Para comparar com outros sabores, veja [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
         ]
       },
       {
@@ -89149,9 +89149,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Prefere um café mais suave: o Espresso, intensidade 5, que a marca descreve como \"delicado e frutado\". A nota na loja era 94%, com 34 avaliações.",
           "Prefere um café mais forte: o Espresso Intenso, intensidade 7, que a marca descreve como \"energético e aromático\". A nota na loja era 97%, com 19 avaliações."
-        ],
-        "postParagraphs": [
-          "As notas são da própria loja, de quem comprou lá, e as descrições são da marca, não uma avaliação nossa."
         ]
       },
       {
@@ -89227,7 +89224,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantos ml e quantas cápsulas por bebida",
         "paragraphs": [
-          "O Caramelo Salgado é um cappuccino em cápsula da Nescafé Dolce Gusto, vendido em caixa de 10. Antes dos ingredientes e do preço, vale saber o tamanho da bebida: uma cápsula rende uma xícara média.",
+          "Uma cápsula rende uma xícara média de cerca de 120 ml. A caixa traz 10 cápsulas.",
           "A página da loja mostra o ícone de xícara média. A tabela nutricional trata 1 cápsula como 1 porção e traz 10 porções por caixa: é uma cápsula por bebida.",
           "Conta nossa, pelos números da tabela da loja: 78 kcal por cápsula divididas por 65 kcal a cada 100 ml, vezes 100, dão cerca de 120 ml. Para entender como os níveis da máquina se ligam aos mililitros, veja a [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
         ],
@@ -89239,8 +89236,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ingredientes: tem café?",
         "paragraphs": [
-          "A lista da loja traz: leite em pó integral instantâneo (leite em pó integral e emulsificante lecitina), açúcar, café solúvel, sal, triglicerídeos de cadeia média (TCM) e aromatizantes.",
-          "Tem café, na forma de café solúvel. O sal também está na lista, e a loja descreve o sabor como cremoso, num contraste entre doce e salgado."
+          "Tem café, na forma de café solúvel. A lista da loja traz: leite em pó integral instantâneo (leite em pó integral e emulsificante lecitina), açúcar, café solúvel, sal, triglicerídeos de cadeia média (TCM) e aromatizantes.",
+          "O sal também está na lista, e a loja descreve o sabor como cremoso, num contraste entre doce e salgado."
         ]
       },
       {
@@ -89252,7 +89249,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calorias e tabela nutricional por cápsula",
         "paragraphs": [
-          "A tabela da loja mostra a coluna por 100 ml e a coluna por 17,5 g, que é uma cápsula. Usamos os 17,5 g da coluna, que bate com o peso da caixa de 10 cápsulas (175 g)."
+          "Uma cápsula tem 17,5 g e 78 kcal: a tabela da loja mostra a coluna por 100 ml e a coluna por cápsula, e os 17,5 g batem com o peso da caixa de 10 cápsulas (175 g)."
         ],
         "comparisonTable": {
           "headers": [
@@ -89334,7 +89331,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por cápsula e CECI",
         "paragraphs": [
-          "Em 17/10/2026, a caixa com 10 cápsulas custava R$ 25,90 na loja oficial, sem desconto na página. Pela conta nossa (preço dividido por 10), são R$ 2,59 por cápsula. Para comparar com os outros sabores, veja [quanto custa uma cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto). Se ainda não sabe qual sabor escolher, o guia de [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026) separa por perfil.",
+          "A cápsula sai por R$ 2,59, sem desconto na página: em 17/10/2026, a caixa com 10 custava R$ 25,90 na loja oficial. Conta nossa: o preço dividido por 10. Para comparar com os outros sabores, veja [quanto custa uma cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto). Se ainda não sabe qual sabor escolher, o guia de [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026) separa por perfil.",
           "O cupom CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. As regras estão na [página do cupom Dolce Gusto](/cupons/dolce-gusto) e no guia [como usar o CECI](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar). Confira o desconto no resumo do pedido antes de pagar."
         ]
       },
@@ -89444,7 +89441,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela nutricional por cápsula",
         "paragraphs": [
-          "A tabela da loja é por cápsula. No clássico, a porção é de 10 g. No Vanilla, de 11 g. A tabela abaixo é do clássico."
+          "A tabela da loja é por cápsula: o clássico tem 45 kcal numa porção de 10 g. No Vanilla, de 11 g. A tabela abaixo é do clássico."
         ],
         "comparisonTable": {
           "headers": [
@@ -89502,7 +89499,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantos ml faz o Café au Lait?",
         "paragraphs": [
-          "A página da loja mostra o ícone de xícara média. Conta nossa, pelos números da loja: o clássico rende cerca de 180 ml (45 kcal da cápsula ÷ 25 kcal por 100 ml × 100). É o mesmo valor da tabela impressa na embalagem, que reunimos em nossa [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), com 180 ml para o Café au Lait e 140 ml para o Desnatado. O Vanilla também fecha em cerca de 140 ml pela nossa conta. A loja indica 1 cápsula por bebida."
+          "O clássico rende cerca de 180 ml, na xícara média. Conta nossa, pelos números da loja: 45 kcal da cápsula divididas por 25 kcal a cada 100 ml. É o mesmo valor da tabela impressa na embalagem, que reunimos em nossa [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), com 180 ml para o Café au Lait e 140 ml para o Desnatado. O Vanilla também fecha em cerca de 140 ml pela nossa conta. A loja indica 1 cápsula por bebida."
         ],
         "image": "/images/reviews/dolcegusto/cafe-au-lait-dolce-gusto-xicara.webp",
         "imageAlt": "Cápsula e xícara grande do Café au Lait Dolce Gusto",
@@ -89600,7 +89597,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa a cápsula",
         "paragraphs": [
-          "Em 17/10/2026, a loja oficial mostrava o clássico de R$ 25,90 por R$ 22,50 na caixa de 10 cápsulas. Pela nossa conta, são R$ 2,25 por cápsula (R$ 22,50 ÷ 10), e 1 cápsula faz 1 bebida. O Desnatado e o Vanilla estavam a R$ 25,90, sem preço promocional. O preço muda; confira na loja. Para comparar com outros sabores, veja [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
+          "A cápsula do clássico sai por R$ 2,25: em 17/10/2026, a caixa de 10 estava de R$ 25,90 por R$ 22,50 na loja oficial. Pela nossa conta, R$ 22,50 ÷ 10, e 1 cápsula faz 1 bebida. O Desnatado e o Vanilla estavam a R$ 25,90, sem preço promocional. O preço muda; confira na loja. Para comparar com outros sabores, veja [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
         ]
       },
       {
@@ -89996,6 +89993,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Comum ou proteico: o que muda no rótulo",
+        "emphasis": "Pelos números da tabela, para quem quer mais proteína por unidade a escolha é o proteico, porque ele tem 5 g ou 6 g contra 1,6 g a 2 g do comum.",
+        "emphasisAfterParagraph": 2,
         "paragraphs": [
           "A diferença está na proteína. Os comuns têm de 1,6 g a 2 g de proteína por unidade. Os proteicos têm 5 g ou 6 g, porque a massa leva proteínas isoladas de soja, arroz e, em alguns sabores, ervilha. Os comuns usam farinha de arroz, amido de milho e fécula de mandioca.",
           "O carboidrato muda menos. Os comuns têm de 16 g a 22 g por unidade, e os proteicos, de 13 g a 18 g. As calorias ficam entre 121 kcal e 144 kcal nos oito. O proteico custa R$ 1,00 a mais na unidade e R$ 0,93 a mais por unidade no kit, em relação aos comuns de R$ 6,97."
@@ -90020,7 +90019,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O rótulo dos oito sabores",
         "paragraphs": [
-          "Valores por unidade de 40 g, lidos nas tabelas nutricionais das páginas de produto."
+          "Todos têm 0 g de açúcares adicionados; o que muda é proteína e carboidrato. Valores por unidade de 40 g, lidos nas tabelas das páginas de produto."
         ],
         "comparisonTable": {
           "headers": [
@@ -90105,7 +90104,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por unidade e no kit de 10",
         "paragraphs": [
-          "Preços do site oficial em 17/10/2026, sem o cupom. O preço por unidade no kit é a conta nossa: o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
+          "O proteico custa mais por unidade e no kit. Preços do site oficial em 17/10/2026, sem o cupom; o preço por unidade no kit é a conta nossa, o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
         ],
         "image": {
           "src": "/images/reviews/belive/belive-kit-10-brownies-chocolate-pagina-2026-10-19.webp",
@@ -90240,6 +90239,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você quer mais proteína por unidade: o proteico traz 5 g ou 6 g, contra 1,6 g a 2 g do comum.",
+        "Você quer 0 g de açúcares adicionados: vale para os oito sabores."
+      ],
+      "skipIf": [
+        "Você quer só o doce, sem foco em proteína: aí é o comum, com preço menor na unidade.",
+        "Você quer pouco carboidrato: os oito têm de 13 g a 22 g por unidade.",
+        "Você procura o Sem Lactose pelo nome parecido: ele não é sem açúcar."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -90301,7 +90311,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quais bolinhos estamos comparando",
         "paragraphs": [
-          "Os dois são bolinhos de chocolate de 40 g, vendidos em unidade e em kit:"
+          "Dois bolinhos de 40 g, em unidade e em kit, com rótulos diferentes:"
         ],
         "bullets": [
           "**Belive:** Bolinho de Chocolate Sem Açúcar Sem Glúten Sem Leite, no site oficial da marca, em unidade e em kit de 10.",
@@ -90387,7 +90397,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O rótulo da Belive por bolinho",
         "paragraphs": [
-          "Tabela nutricional da página do produto, porção de 40 g (1 unidade)."
+          "O bolinho da Belive tem 123 kcal, 16 g de carboidratos e 0 g de açúcares por unidade. Tabela da página do produto, porção de 40 g."
         ],
         "image": {
           "src": "/images/reviews/belive/belive-tabela-nutricional-bolinho-chocolate.webp",
@@ -90479,7 +90489,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por unidade",
         "paragraphs": [
-          "Preços de 17/10/2026. O preço por unidade dos kits é a conta nossa."
+          "Na unidade, a Suavipan sai mais barata na farmácia; no kit, a Belive leva. Preços de 17/10/2026. Conta nossa: o preço por unidade dos kits."
         ],
         "comparisonTable": {
           "headers": [
@@ -90546,6 +90556,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
+        "emphasis": "Pelos números da tabela, para quem precisa de sem glúten e sem leite a escolha é a Belive, porque só ela declara os dois no rótulo.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços da tabela:"
         ],
@@ -90566,6 +90578,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Belive se você quer conferir calorias e carboidratos antes de comprar: a tabela nutricional é publicada.",
+        "Leve a Suavipan se você não evita glúten nem leite e quer o menor preço por unidade: na farmácia ela sai mais barata."
+      ],
+      "skipIf": [
+        "Passe na Suavipan se você evita glúten ou leite: ela leva farinha de trigo e leite em pó.",
+        "Passe na Suavipan se você quer a tabela nutricional: o site dela não publica."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -90627,7 +90649,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pão de mel comum ou proteico: qual é qual",
         "paragraphs": [
-          "A Belive vende os dois sem açúcar, sem glúten e sem leite, com cobertura sabor chocolate amargo:"
+          "Os dois são sem açúcar, sem glúten e sem leite; o que muda é a massa:"
         ],
         "bullets": [
           "**Comum:** na loja, \"Pão de Mel Sem Glúten Sem Açúcar Sem Leite\". A massa é de farinha de arroz, amido modificado, fécula de mandioca e quinoa.",
@@ -90761,7 +90783,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por unidade e no kit de 10",
         "paragraphs": [
-          "Preços do site oficial em 17/10/2026, sem o cupom. O preço por unidade no kit é a conta nossa: o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
+          "O proteico custa mais por unidade e no kit. Preços do site oficial em 17/10/2026, sem o cupom. Conta nossa: o preço por unidade no kit é o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
         ],
         "image": {
           "src": "/images/reviews/belive/belive-kit-10-pao-de-mel-pagina-2026-10-19.webp",
@@ -90810,8 +90832,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: comum ou proteico",
+        "emphasis": "Pelos números da tabela, para quem quer mais proteína por unidade a escolha é o proteico, porque entrega 6 g contra 2 g com as mesmas calorias.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "O proteico serve a quem quer mais proteína e menos carboidrato por unidade: 6 g de proteína e 16 g de carboidratos, contra 2 g e 23 g do comum. Nas calorias a diferença some, com 162 kcal no proteico e 163 kcal no comum. O comum serve a quem não precisa dessa proteína e paga um pouco menos pelo kit.",
+          "O proteico tem 16 g de carboidratos por unidade, contra 23 g do comum. Nas calorias a diferença some, com 162 kcal no proteico e 163 kcal no comum. O comum serve a quem não precisa dessa proteína e paga um pouco menos pelo kit.",
           "O kit de 10 custava R$ 78,96 no proteico e R$ 74,12 no comum, ou R$ 7,90 e R$ 7,41 por unidade. Nos dois, o rótulo mostra 0 g de açúcares, mas não diz se o doce cabe na sua dieta: essa conta é com o nutricionista ou o médico."
         ]
       },
@@ -90826,6 +90850,14 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você quer mais proteína e menos carboidrato por unidade: o proteico tem 6 g e 16 g, contra 2 g e 23 g do comum."
+      ],
+      "skipIf": [
+        "Você não precisa dessa proteína e quer pagar um pouco menos pelo kit: aí é o comum."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -90910,7 +90942,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 18/10/2026 no cartão, sem o cupom. Na Black Skull, o preço vale para qualquer forma de pagamento."
+          "No cartão, o 80% HD é o mais barato por 100 g de proteína; o 100% HD e a Growth empatam no Pix. Preços de 18/10/2026 no cartão, sem o cupom; na Black Skull, o preço vale para qualquer forma de pagamento."
         ],
         "comparisonTable": {
           "headers": [
@@ -90959,7 +90991,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey 100% HD ou Whey Concentrado da Growth",
         "paragraphs": [
-          "São os dois mais procurados quando a busca é \"black skull ou growth whey\". Sem cupom, eles empatam: R$ 26,66 por 100 g de proteína na Black Skull e R$ 26,34 na Growth, no Pix. No cartão, a Growth sobe para R$ 29,26.",
+          "Sem cupom, eles empatam: R$ 26,66 por 100 g de proteína na Black Skull e R$ 26,34 na Growth, no Pix. São os dois mais procurados quando a busca é \"black skull ou growth whey\". No cartão, a Growth sobe para R$ 29,26.",
           "Com o **CECILIA10**, o pote de 1,8 kg sai por R$ 251,91, ou **R$ 23,99 por 100 g de proteína** e R$ 5,04 por dose. A Black Skull passa na frente da Growth no Pix e no cartão.",
           "A fórmula é diferente. O whey da Growth leva só proteína concentrada do soro do leite. O Whey 100% HD mistura proteína do soro (concentrada, isolada e hidrolisada), proteína concentrada de leite e peptídeos hidrolisados. A página da Black Skull chama esses peptídeos de colágeno hidrolisado; a lista de ingredientes diz só \"peptídeos hidrolisados\". Ou seja: nem toda a proteína do pote da Black Skull vem do soro do leite. Para quem quer só soro, prefira o 80% HD ou o da Growth; o 100% HD é para quem aceita o blend pelo menor preço com cupom."
         ],
@@ -91069,7 +91101,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ingredientes e alérgicos",
         "paragraphs": [
-          "O que muda na lista de cada produto, pelas páginas das lojas:"
+          "Muda o blend de proteínas e os alergênicos:"
         ],
         "bullets": [
           "**Black Skull Whey 100% HD:** a mistura de proteínas descrita acima. A loja informa que contém lactose e não contém glúten.",
@@ -91129,6 +91161,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
+        "emphasis": "Pelos números da tabela, para quem paga no cartão a escolha é a Black Skull no whey e na creatina, porque ganha por 100 g nas duas.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços:"
         ],
@@ -91155,6 +91189,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve o Whey 80% HD se você quer whey só de soro do leite pelo menor preço por grama de proteína.",
+        "Leve o Creator refil de 500 g se você quer a creatina mais barata por dose."
+      ],
+      "skipIf": [
+        "Passe no Whey 100% HD se você quer só proteína do soro: o pote leva blend com outras proteínas.",
+        "Passe na Growth se você vai pagar no cartão: ela sai cerca de 10% mais cara que no Pix, e a Black Skull não muda de preço.",
+        "Passe no Creator refil se você precisa de dosador: o refil não vem com ele."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -91216,7 +91261,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "Esta comparação cobre whey (concentrado e isolado), creatina e hipercalórico da Max Titanium, parceira do site, e da Growth, que não é parceira. Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No cartão, usamos o total que cada página mostra: o parcelamento não muda esse total.",
+          "A régua é o preço por 100 g de proteína, por grama de creatina e por 1.000 kcal. Esta comparação cobre whey (concentrado e isolado), creatina e hipercalórico da Max Titanium, parceira do site, e da Growth, que não é parceira. Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No cartão, usamos o total que cada página mostra: o parcelamento não muda esse total.",
           "Conta nossa, pelos preços do cartão e pelas tabelas das lojas, arredondada no centavo:"
         ],
         "image": {
@@ -91241,7 +91286,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 18/10/2026 no cartão, sem o cupom."
+          "No concentrado, a Growth sai mais barata por 100 g de proteína; o 3W é o mais caro da tabela. Preços de 18/10/2026 no cartão, sem o cupom."
         ],
         "comparisonTable": {
           "headers": [
@@ -91293,7 +91338,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey concentrado: 100% Whey Refil da Max ou Whey Concentrado da Growth",
         "paragraphs": [
-          "Essa é a comparação direta: no 100% Whey Refil e no Whey Concentrado da Growth, a proteína é só a concentrada do soro do leite (WPC), e a dose é de 30 g. Sem cupom, a Growth sai R$ 3,90 mais barata por 100 g de proteína no Pix (R$ 26,34 contra R$ 30,24). Com o cupom no teto, a Max cai para R$ 27,21, ainda R$ 0,87 acima. No cartão, a diferença fica em R$ 29,26 da Growth contra R$ 31,17 da Max.",
+          "No par direto, os dois têm só WPC em dose de 30 g, e a Growth sai mais barata por 100 g. Sem cupom, a Growth sai R$ 3,90 mais barata por 100 g de proteína no Pix (R$ 26,34 contra R$ 30,24). Com o cupom no teto, a Max cai para R$ 27,21, ainda R$ 0,87 acima. No cartão, a diferença fica em R$ 29,26 da Growth contra R$ 31,17 da Max.",
           "Na Growth, o sabor Natural entrega 1 g a mais de proteína por dose pelo mesmo preço do pote: R$ 25,24 por 100 g no Pix, sem cupom. Quem compra pelo menor custo por grama prefere o Natural."
         ],
         "images": [
@@ -91309,7 +91354,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey isolado: IsoWhey 900 g da Max contra o Whey Isolado da Growth",
         "paragraphs": [
-          "A Max tem um isolado, o IsoWhey 900 g, e a Growth tem o (TOP) Whey Protein Isolado 1 kg."
+          "No isolado, a Max ganha no cartão e com cupom; a Growth só passa no Pix sem cupom. A Max tem um isolado, o IsoWhey 900 g, e a Growth tem o (TOP) Whey Protein Isolado 1 kg."
         ],
         "comparisonTable": {
           "headers": [
@@ -91542,6 +91587,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Para quem cada um faz sentido",
+        "emphasis": "Pelos números da tabela, para quem compra concentrado e creatina a escolha é a Growth, porque ganha por 100 g sem cupom.",
         "bullets": [
           "**Quer o menor preço por 100 g de proteína no whey concentrado:** a Growth Whey Concentrado 1 kg, a R$ 26,34 no Pix, sem cupom. A Max chega perto com o cupom (R$ 27,21), mas não passa a Growth.",
           "**Quer o whey de soro do leite que é o par direto da Growth:** o 100% Whey Refil da Max, que com o cupom fica a R$ 27,21 por 100 g de proteína, contra R$ 26,34 da Growth sem cupom.",
@@ -91566,6 +91612,18 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Growth se você quer whey concentrado ou creatina refil pelo menor preço por grama.",
+        "Leve a Max se você quer hipercalórico pelo menor preço por caloria.",
+        "Leve o IsoWhey da Max se você compra isolado e vai usar o cupom."
+      ],
+      "skipIf": [
+        "Passe no Top Whey 3W se o preço por grama de proteína decide: ele é o mais caro da tabela.",
+        "Passe na Growth se você vai pagar no cartão: o cartão sai mais caro que o Pix.",
+        "Passe na Creapure da Max se o preço por grama decide: é a mais cara das creatinas."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -91730,13 +91788,13 @@ export const reviewsData: unknown[] = [
           "**Probiótica Zero Lactose 900 g:** a página declara \"contém derivados de leite\" e \"pode conter soja e ovo\". Apesar do nome, o alergênico de leite está no rótulo.",
           "**Growth Whey Concentrado, sabor Natural:** proteína de soro do leite concentrada e lecitina. A página declara que contém derivados de soja e de leite, contém lactose e não contém glúten.",
           "**Creatina Monohidratada Pura 300 g (Probiótica):** creatina monohidratada e dióxido de silício como antiumectante. A página diz \"não contém glúten\" e declara que pode conter derivados de leite, de ovo e de soja.",
-          "**Creatina Monohidratada 250 g (Growth):** creatina monohidratada, sem glúten segundo a página. Se você tem restrição a leite, soja, ovo ou glúten, confira o alergênico do sabor exato antes de comprar."
+          "**Creatina Monohidratada 250 g (Growth):** creatina monohidratada, a página diz sem glúten. Se você tem restrição a leite, soja, ovo ou glúten, confira o alergênico do sabor exato antes de comprar."
         ]
       },
       {
         "heading": "Creatina: preço por 100 g",
         "paragraphs": [
-          "A creatina da Probiótica de 300 g tem 60 porções de 5 g pela tabela, e a Growth tem 250 g, com 50 porções, e dois tamanhos de 500 g, com 100 porções cada, todos com 5 g por dose. A creatina de 100 g da Probiótica ficou fora da conta: é a mais cara por grama, com R$ 32,87 por 100 g no Pix."
+          "Na creatina, o refil de 500 g da Growth tem a menor conta, e a Probiótica de 300 g só encosta com o cupom no teto. A creatina da Probiótica de 300 g tem 60 porções de 5 g pela tabela, e a Growth tem 250 g, com 50 porções, e dois tamanhos de 500 g, com 100 porções cada, todos com 5 g por dose. A creatina de 100 g da Probiótica ficou fora da conta: é a mais cara por grama, com R$ 32,87 por 100 g no Pix."
         ],
         "comparisonTable": {
           "headers": [
@@ -91828,6 +91886,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
+        "emphasis": "Pelos números da tabela, para quem compra pelo menor preço por grama a escolha é a Growth no whey e na creatina, porque ganha sem cupom.",
         "bullets": [
           "**Quer o menor preço por 100 g de proteína no whey:** Growth Whey Concentrado de 1 kg, com R$ 26,34 no Pix.",
           "**Quer a linha Zero Lactose:** a Probiótica é a única das duas com essa linha nesta conta. Leia o alergênico de leite no rótulo antes de comprar.",
@@ -91846,6 +91905,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Growth se o preço por grama é o que decide e você não quer depender de cupom.",
+        "Leve a Probiótica se você quer a linha Zero Lactose, lendo o alergênico de leite no rótulo.",
+        "Leve a Probiótica se você quer Creapure: só ela declara o selo nesta conta."
+      ],
+      "skipIf": [
+        "Passe na Probiótica sem cupom se o preço por grama decide: a Growth fica abaixo em todas as linhas de whey.",
+        "Passe na creatina de 100 g da Probiótica: ela é a mais cara por grama."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -92016,13 +92086,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reclamações e avaliações",
         "paragraphs": [
-          "No Reclame Aqui, a Hostinger tem nota 8,4 nos últimos 12 meses, e no Trustpilot a nota é 4,6, mas essa vem de avaliações que a própria empresa convida os clientes a deixar; os números completos, com o que eles não mostram, estão no [artigo sobre a Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao)."
+          "No Reclame Aqui, a nota é 8,4 em 12 meses. No Trustpilot é 4,6, mas com convites da empresa; os detalhes estão no [artigo sobre a Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao)."
         ]
       },
       {
         "heading": "Suporte",
         "paragraphs": [
-          "Chamados, inclusive os de reembolso, são abertos pelo botão de chamado no canto inferior direito do site."
+          "Abra chamados, inclusive de reembolso, pelo botão no canto inferior direito do site."
         ]
       },
       {
@@ -94240,7 +94310,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que as pessoas reclamam",
         "paragraphs": [
-          "Na aba de principais problemas, o Reclame Aqui mostra três rankings. Eles valem para as reclamações dos últimos 3 anos da aba geral, e não só para os 6 meses. Os números são:"
+          "A cobrança indevida lidera as queixas. Na aba de principais problemas, o Reclame Aqui mostra três rankings, que valem para as reclamações dos últimos 3 anos da aba geral, e não só para os 6 meses. Os números são:"
         ],
         "bullets": [
           "**Cobrança indevida:** 21,72%, no ranking de problemas. É o problema mais citado da lista.",
@@ -94271,7 +94341,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como desligar a renovação automática",
         "paragraphs": [
-          "Segundo a central de ajuda da Hostinger, o caminho é este:"
+          "A central de ajuda da Hostinger dá este caminho:"
         ],
         "bullets": [
           "No hPanel, abra o menu **Faturas**.",
@@ -94296,7 +94366,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: a nota de quem avalia",
         "paragraphs": [
-          "O Reclame Aqui é só brasileiro. O Trustpilot é um site internacional de avaliações, e na leitura, a Hostinger tinha TrustScore 4,6 (\"Excelente\") com 73.411 avaliações. Cinco estrelas somam 87,1%; uma estrela, 6,9%, cerca de 5,1 mil avaliações.",
+          "No Trustpilot, a Hostinger tinha 4,6 em 73.411 avaliações, mas a página mostra convites da empresa. Cinco estrelas somam 87,1%; uma estrela, 6,9%, cerca de 5,1 mil avaliações.",
           "Antes de usar esse número, veja o que a própria página mostra:"
         ],
         "bullets": [
@@ -97155,13 +97225,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O site roda na Hostinger",
         "paragraphs": [
-          "O Em Casa com Cecília roda na Hostinger, e o Bruno é cliente desde 2024, com mais de 24 meses de assinatura. Ele usa hospedagem Business, uma VPS KVM 2, e-mail Business e domínios, todos com renovação automática. Toda vez que teve algum problema, o suporte resolveu, principalmente pelo agente de IA. Pessoalmente, ele nunca viu uma queda do serviço. Essa é a experiência dele; as regras do desconto estão na página da Hostinger e são o que este texto descreve."
+          "O Em Casa com Cecília roda na Hostinger, e o Bruno é cliente desde 2024, com mais de 24 meses de assinatura. Ele usa hospedagem Business, uma VPS KVM 2, e-mail Business e domínios, todos com renovação automática. Toda vez que teve algum problema, o suporte resolveu, principalmente pelo agente de IA. Pessoalmente, ele nunca viu uma queda do serviço. Essa é a experiência dele."
         ]
       },
       {
         "heading": "Quanto custa com e sem o cupom",
         "paragraphs": [
-          "Os preços são os que a Hostinger mostrava em 19/10/2026, em reais e por mês. Os valores com o SONAR20 têm os 20% sobre o preço da campanha que estiver no ar, e podem mudar a qualquer momento."
+          "O SONAR20 tira 20% do preço da campanha; a tabela mostra o total de cada plano. Os preços são os que a Hostinger mostrava em 19/10/2026, em reais e por mês, e podem mudar a qualquer momento."
         ],
         "comparisonTable": {
           "headers": [
@@ -98631,7 +98701,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se você precisa do site no ar esta semana, não espere. Nos planos de 48 meses que conferimos, a campanha com o SONAR20 já é o menor preço.",
           "Se pode esperar, saiba que a campanha vai até meados de dezembro, mas nenhum preço fica garantido até lá. Os 20% do SONAR20 saem do preço da campanha: se a campanha mudar, o total muda junto.",
-          "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. O Single é o plano que a página chama de ideal para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner diz até 70%, e a conta deste texto não cobre esse plano.",
+          "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. A Hostinger indica o Single para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner diz até 70%, e a conta deste texto não cobre esse plano.",
           "Se você já é cliente, confira as ofertas de upgrade da sua conta: a FAQ diz que clientes atuais podem receber ofertas separadas. O SONAR20 vale também para um plano novo. O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
         ]
       },
@@ -99936,7 +100006,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantas bebidas o escritório toma por mês",
         "paragraphs": [
-          "Este guia responde qual sistema de máquina serve para cada tamanho de escritório e quanto o café custa por mês para 5, 10 e 20 pessoas. A conta é sem cupom e sem a máquina.",
+          "A conta é 44 bebidas por pessoa no mês: 2 por dia em 22 dias úteis, sem cupom e sem a máquina.",
           "A conta é pessoas × 2 bebidas por dia × 22 dias úteis. Cada pessoa toma 44 bebidas no mês, e a equipe toma:"
         ],
         "bullets": [
@@ -99952,7 +100022,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual tipo de máquina para cada tamanho de escritório",
         "paragraphs": [
-          "Há três caminhos: cápsula, cafeteira elétrica de filtro e grão. A tabela separa por tamanho de equipe, e o custo é o mensal do café, sem a máquina."
+          "A escolha é entre cápsula, filtro e grão, e o tamanho da equipe decide."
         ],
         "comparisonTable": {
           "headers": [
@@ -99991,7 +100061,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa por mês para 5, 10 e 20 pessoas",
         "paragraphs": [
-          "Valores em reais por mês, com os preços lidos nas lojas em 19/10/2026, sem cupom e sem a máquina. Cada linha considera 44 bebidas por pessoa, todas de uma cápsula."
+          "O filtro é o mais barato por bebida; na cápsula, o combo de 50 caixas da Dolce Gusto leva. Valores em reais por mês, com os preços lidos nas lojas em 19/10/2026, sem cupom e sem a máquina, e 44 bebidas por pessoa, todas de uma cápsula."
         ],
         "comparisonTable": {
           "headers": [
@@ -100154,7 +100224,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O Mochaccino Canela está nos combos para negócios de 20 caixas, a R$ 1,87 por bebida. Ele é uma bebida de uma cápsula, com leite na receita; as bebidas de duas cápsulas da tabela contam o dobro. Quanto maior o combo, menor o preço de cada cápsula: o de 50 caixas sai a R$ 1,62.",
-          "A TRES também faz bebidas cremosas e chás. Segundo o site da marca, a Passione tem multipressão para espresso, bebidas cremosas, filtrado e chás. Na Nespresso Original, as cápsulas que lemos no site são de café. Bebida com leite pede leite fresco e máquina com espumador: a linha Nespresso Profissional tem o Momento 200, com 17 opções de café e leite e refrigerador de leite integrado, e o Aguila 220, com 13 opções, duas cabeças de extração e refrigerador de leite. Os dois têm preço sob contato."
+          "A TRES também faz bebidas cremosas e chás. A TRES diz que a Passione tem multipressão para espresso, bebidas cremosas, filtrado e chás. Na Nespresso Original, as cápsulas que lemos no site são de café. Bebida com leite pede leite fresco e máquina com espumador: a linha Nespresso Profissional tem o Momento 200, com 17 opções de café e leite e refrigerador de leite integrado, e o Aguila 220, com 13 opções, duas cabeças de extração e refrigerador de leite. Os dois têm preço sob contato."
         ],
         "images": [
           {
@@ -100169,7 +100239,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dolce Gusto Negócios: os combos para escritório",
         "paragraphs": [
-          "A Dolce Gusto tem uma linha para compra em volume, a Dolce Gusto Negócios, com combos de 20, 30 e 50 caixas de 10 cápsulas. Quanto maior o combo, maior o desconto. Os preços são da loja oficial, lidos sem login, e mudam com a promoção do dia."
+          "A Dolce Gusto tem uma linha para compra em volume, a Dolce Gusto Negócios, com combos de 20, 30 e 50 caixas de 10 cápsulas. Quanto maior o combo, menor o preço de cada cápsula: o de 50 caixas sai a R$ 1,62. Os preços são da loja oficial, lidos sem login, e mudam com a promoção do dia."
         ],
         "comparisonTable": {
           "headers": [
@@ -100228,7 +100298,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reservatório, descarte e ritmo de uso",
         "paragraphs": [
-          "Segundo o comparativo oficial da marca, as Dolce Gusto Mini Me, Genio S Basic, Plus e Touch têm reservatório de 0,8 L. A pressão máxima é de 15 bar, e as máquinas servem bebidas quentes e frias. A ficha que lemos não diz quantos mililitros cada bebida gasta em cada nível, então não fazemos a conta de quantas vezes o reservatório enche por dia. As diferenças entre os modelos estão em [qual máquina Dolce Gusto escolher](/reviews/dolce-gusto-maquinas-qual-escolher).",
+          "No comparativo oficial da marca, as Dolce Gusto Mini Me, Genio S Basic, Plus e Touch têm reservatório de 0,8 L. A pressão máxima é de 15 bar, e as máquinas servem bebidas quentes e frias. A ficha que lemos não diz quantos mililitros cada bebida gasta em cada nível, então não fazemos a conta de quantas vezes o reservatório enche por dia. As diferenças entre os modelos estão em [qual máquina Dolce Gusto escolher](/reviews/dolce-gusto-maquinas-qual-escolher).",
           "A conta de volume que dá para fazer é a de cápsulas. Com 10 pessoas e duas bebidas por dia cada, são 20 bebidas diárias: entre 20 e 40 cápsulas usadas por dia, conforme a bebida usa uma ou duas. O descarte das cápsulas usadas é manual nas Dolce Gusto, e a ficha que lemos não diz quantas cabem no recipiente. A TRES Passione é a que informa: guarda até 4 cápsulas usadas em compartimento interno. Antes de comprar, defina quem enche a água e quem esvazia o descarte, porque a máquina não resolve isso sozinha."
         ],
         "images": [
@@ -100251,7 +100321,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Escritório de advocacia, consultório e escritório grande: o que muda",
         "paragraphs": [
-          "No que lemos, nenhuma das marcas fala de escritório de advocacia, e não sugerimos modelo específico para isso. A conta é a mesma das outras equipes: pessoas, vezes 2 bebidas, vezes 22 dias úteis. Consultório e MEI costumam caber no perfil de 2 a 5 pessoas. Se a equipe bebe só café preto, o filtro é mais barato por xícara; se pede leite e chá, a cápsula da Dolce Gusto atende o grupo inteiro.",
+          "Advocacia, consultório e MEI usam a mesma conta: pessoas × 2 bebidas × 22 dias úteis. Consultório e MEI costumam caber no perfil de 2 a 5 pessoas. Se a equipe bebe só café preto, o filtro é mais barato por xícara; se pede leite e chá, a cápsula da Dolce Gusto atende o grupo inteiro.",
           "Para quem prefere cafeteira elétrica sem cápsula, as Oster citadas acima custam de R$ 179,90 a R$ 309,90. A máquina é pagamento único, e o custo que se repete é o do pó: com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44.",
           "Escritório de 15 pessoas ou mais entra na conta de 20 pessoas da tabela mensal. Com 20 pessoas, a caixa avulsa da Dolce Gusto sai por R$ 2.191,20 no mês e o combo de 50 caixas por R$ 1.424,28."
         ]
@@ -100281,7 +100351,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "No escritório nem todo mundo toma café. A Dolce Gusto faz café, bebidas com leite, chocolate, chá gelado e chá com a mesma máquina, e por isso atende o time inteiro. Para quem só toma café preto, o filtro é muito mais barato por xícara: R$ 0,44 na xícara de 100 ml, contra R$ 1,62 a R$ 1,87 por bebida nos combos da Dolce Gusto e R$ 3,70 a R$ 4,20 por cápsula da Nespresso Original."
-        ]
+        ],
+        "emphasis": "Se fosse para o meu escritório, eu levaria a Dolce Gusto no combo de 50 caixas: faz café, leite, chocolate e chá na mesma máquina e sai a R$ 1,62 por bebida."
       },
       {
         "heading": "Perguntas frequentes",
@@ -100318,7 +100389,17 @@ export const reviewsData: unknown[] = [
         "slug": "quanto-custa-capsula-dolce-gusto",
         "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a Dolce Gusto se a equipe toma leite, chocolate ou chá além de café.",
+        "Leve o combo de 50 caixas se o escritório quer o menor custo por bebida."
+      ],
+      "skipIf": [
+        "Passe a cápsula se a equipe só toma café preto: o filtro sai mais barato por xícara.",
+        "Passe a cápsula de consumo se o escritório quer espresso com leite fresco em volume: a linha profissional da Nespresso é o caminho."
+      ]
+    }
   },
   {
     "id": 514,
@@ -100355,7 +100436,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que compõe a mesa posta para seis pessoas",
         "paragraphs": [
-          "Para seis pessoas, o guia compara três faixas, básica, intermediária e completa, com preços da Let's Eat It de 20/10/2026. As faixas 1 e 2 partem dos pratos que você já tem em casa; a faixa 3 compra também o aparelho de jantar inteiro. Os totais com e sem o cupom MAUAD estão na tabela das faixas.",
+          "Para seis pessoas, o que pesa é o que você já tem em casa, principalmente pratos e talheres. As faixas 1 e 2 partem dos seus pratos; a 3 compra o aparelho inteiro. Os totais com e sem o cupom MAUAD estão na tabela das faixas.",
           "A conta é de um item por pessoa, com exceção do centro de mesa, que é um por mesa:"
         ],
         "bullets": [
@@ -100370,7 +100451,7 @@ export const reviewsData: unknown[] = [
           "Velas: opcionais."
         ],
         "postParagraphs": [
-          "Os três faqueiros de 30 peças servem seis pessoas com cinco talheres cada, mas cada um traz tipos diferentes. O Avalon Wolff (R$ 383,90) tem garfo de mesa, colher de mesa, faca, colher de chá e garfo de bolo, e não traz colher de sobremesa. O Berna Dourado Wolff (R$ 539,90) tem faca, garfo, garfo de sobremesa, colher de sopa e colher de chá, e também não traz colher de sobremesa. O Laguiole La Maison Luxo Verde (R$ 1.099) tem faca, garfo, colher, colher de sobremesa e garfo de sobremesa, e não traz colher de chá. Os dois Wolff não acompanham estojo, segundo a ficha.",
+          "Os três faqueiros de 30 peças servem seis pessoas com cinco talheres cada, mas cada um traz tipos diferentes. O Avalon Wolff (R$ 383,90) tem garfo de mesa, colher de mesa, faca, colher de chá e garfo de bolo, e não traz colher de sobremesa. O Berna Dourado Wolff (R$ 539,90) tem faca, garfo, garfo de sobremesa, colher de sopa e colher de chá, e também não traz colher de sobremesa. O Laguiole La Maison Luxo Verde (R$ 1.099) tem faca, garfo, colher, colher de sobremesa e garfo de sobremesa, e não traz colher de chá. Os dois Wolff vêm sem estojo.",
           "O aparelho Porto Brasil de 30 peças (R$ 868) tem seis pratos rasos de 26,5 cm, seis de sobremesa de 19,5 cm, seis pratos fundos de 21,5 cm, seis xícaras e seis pires. São cinco peças por pessoa. Ele não traz talheres nem travessas."
         ],
         "images": [
@@ -100502,7 +100583,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O sousplat é de plástico, como diz a ficha do produto. O kit de anéis traz 4 peças, então cobre só quatro das seis pessoas. Para os seis, são dois kits, e o total sobe R$ 69,90 a cada kit.",
+          "O sousplat é de plástico, e a página do produto avisa o material. O kit de anéis traz 4 peças, então cobre só quatro das seis pessoas. Para os seis, são dois kits, e o total sobe R$ 69,90 a cada kit.",
           "Dos pratos, a faixa não compra os rasos: eles ficam de casa. Se você já tem seis pratos de sobremesa, também entram sem custo. A colher que falta no Avalon é a de sobremesa."
         ]
       },
@@ -100593,8 +100674,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os pratos rasos ficam de casa, como na faixa 1. Os guardanapos de algodão pedem lavagem à mão a 40 °C, sem lavagem a seco, segundo a ficha. O Berna não traz colher de sobremesa, então ela é a peça a completar.",
-          "O tema Natal é opcional e não entra no total acima. Há dois itens. O sousplat Noite de Brinquedos 34 cm, da Scalla (R$ 254,90 cada, vendido avulso), tem borda ondulada e padrão geométrico vermelho e dourado, segundo a descrição. Para seis, são R$ 1.529,40. O prato de sobremesa Soldadinhos Filete Ouro 21 cm, da Alleanza, vem em jogo de seis por R$ 564,00. Como tem filete de ouro, a ficha diz que não vai ao micro-ondas nem à lava-louças, então a lavagem é à mão.",
+          "Os pratos rasos ficam de casa, como na faixa 1. Os guardanapos de algodão pedem lavagem à mão a 40 °C, sem lavagem a seco, como avisa a página do produto. O Berna não traz colher de sobremesa, então ela é a peça a completar.",
+          "O tema Natal é opcional e não entra no total acima. Há dois itens. O sousplat Noite de Brinquedos 34 cm, da Scalla (R$ 254,90 cada, vendido avulso), tem borda ondulada e padrão geométrico vermelho e dourado, segundo a descrição. Para seis, são R$ 1.529,40. O prato de sobremesa Soldadinhos Filete Ouro 21 cm, da Alleanza, vem em jogo de seis por R$ 564,00. Como tem filete de ouro, não vai ao micro-ondas nem à lava-louças: lave à mão.",
           "Se a mesa é presente para quem cozinha, o [guia de presente de Natal para quem gosta de cozinhar](/reviews/presente-natal-quem-gosta-de-cozinhar) reúne outras ideias."
         ]
       },
@@ -100692,7 +100773,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O aparelho Porto Brasil é a base da mesa. São 30 peças: 6 pratos rasos de 26,5 cm, 6 pratos de sobremesa de 19,5 cm, 6 pratos fundos de 21,5 cm, 6 xícaras de café de 120 ml e 6 pires. Não vêm talheres nem travessas. A ficha diz que o conjunto serve \"com elegância e consistência até seis pessoas\", ou seja, cinco peças por pessoa. Com ele, a faixa 3 não pede pratos de casa, e os talheres vêm do faqueiro.",
+          "O aparelho Porto Brasil é a base da mesa. São 30 peças: 6 pratos rasos de 26,5 cm, 6 pratos de sobremesa de 19,5 cm, 6 pratos fundos de 21,5 cm, 6 xícaras de café de 120 ml e 6 pires. Não vêm talheres nem travessas. A página diz que o conjunto serve até seis pessoas com elegância, ou seja, cinco peças por pessoa. Com ele, a faixa 3 não pede pratos de casa, e os talheres vêm do faqueiro.",
           "Pela ficha, as peças vão à lava-louças, ao forno, ao freezer e ao micro-ondas, com variação térmica de até cerca de 180 °C. Para a leitura da própria marca, veja [a análise sobre a Porto Brasil](/reviews/porto-brasil-e-boa).",
           "As taças são da Bohemia e vêm em três modelos. A Eva de 350 ml, em cristal transparente, custa R$ 243,90 o jogo de seis e serve para água. A Eva de 190 ml, também em cristal transparente, custa R$ 246,90 e serve para champanhe. Para o vinho, o jogo de seis Magnum de 740 ml, em cristal, custa R$ 149,90.",
           "O faqueiro Laguiole La Maison Luxo Verde tem 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa. Não traz colher de chá. Pela ficha, a lâmina é de aço inox e o cabo é de ABS. A ficha não diz se pode ir à lava-louças. É a peça de maior preço da faixa.",
@@ -100734,7 +100815,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Casa Let's: dá para ver a mesa montada antes de comprar",
         "paragraphs": [
-          "Segundo o site da Let's Eat It, a Casa Let's monta mesa posta com a equipe, e a visita não precisa de agendamento. Antes de ir, confirme o endereço, o horário e se a montagem ainda é oferecida."
+          "O site da Let's Eat It diz que a Casa Let's monta mesa posta com a equipe, e a visita não precisa de agendamento. Antes de ir, confirme o endereço, o horário e se a montagem ainda é oferecida."
         ]
       },
       {
@@ -100779,7 +100860,17 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-letseatit",
         "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Monte as faixas 1 ou 2 se os pratos rasos já estão em casa.",
+        "Leve a faixa completa se a prioridade é comprar tudo de uma vez na mesma linha."
+      ],
+      "skipIf": [
+        "Passe a faixa completa se a casa já tem pratos, taças e talheres.",
+        "Passe o sousplat se ele não faz falta: a mesa funciona sem ele."
+      ]
+    }
   },
   {
     "id": 515,
@@ -100816,10 +100907,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem já tem casa montada",
         "paragraphs": [
-          "As ideias do guia seguem quatro faixas: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500, com os preços de venda da Let's Eat It em 20/10/2026. O que entra em cada faixa está nas perguntas frequentes; antes delas, o guia segue pelas linhas da loja: aparelho de jantar, Le Creuset, taças e faqueiros.",
+          "Com a casa montada, o presente vai para o complemento ou a reposição. As ideias seguem quatro faixas, até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima, com os preços de venda da Let's Eat It em 20/10/2026.",
           "Quando a casa já tem o básico, o presente pode seguir duas linhas. A primeira é a peça de complemento, algo que a mesa talvez ainda não tenha: a travessa retangular de 26 cm (R$ 529) ou a chaleira de 1,6 L com apito (R$ 929), que a ficha diz poder ir a qualquer fonte de calor, incluindo indução.",
           "A segunda é a peça de reposição. Se o casal já tem uma linha de louça ou de talheres e precisa completar, a conta mais simples é procurar a mesma linha e conferir o tamanho na ficha do produto antes de comprar, porque cada peça tem o seu próprio tamanho e os seus cuidados.",
-          "Não há como saber, daqui, o que cada casal já tem. Por isso, a escolha entre complemento e reposição fica com quem vai dar o presente, e as fichas das peças dão o que cabe em cada caso."
+          "A escolha entre complemento e reposição fica com quem dá o presente."
         ],
         "images": [
           {
@@ -100886,7 +100977,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le Creuset: o que dá para comprar por faixa",
         "paragraphs": [
-          "Os preços mudam com promoção. A marca tem peças em todas as faixas deste guia, de um moedor de pimenta a uma panela de R$ 3.089. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
+          "A Le Creuset tem presente em toda faixa, do moedor de pimenta à panela de R$ 3.089. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
         ],
         "comparisonTable": {
           "headers": [
@@ -101011,8 +101102,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As fichas não comparam os dois materiais, então este guia não diz qual é melhor. A escolha entre cristal ecológico e cristal fica com o casal e com o orçamento. A Crex Optic é a única com restrição escrita de lava-louças e micro-ondas, por isso quem quer uma taça que vá à máquina precisa ler a ficha de cada modelo antes de comprar.",
-          "No Reclame Aqui, a categoria \"Taças\" aparece entre os principais problemas da loja, com 20,11%, na aba geral do perfil (consulta de até três anos). A tabela não separa o tipo de problema, então não dá para dizer quantas dessas reclamações são de quebra no transporte. Segundo a loja, porcelana, cristal, vidro e cerâmica vão embalados um a um, e a peça que chega quebrada é reposta de graça, com fotos do produto e da embalagem; por isso, fotografe a caixa ao receber. Para o histórico da loja, veja [a análise sobre a Let's Eat It](/reviews/lets-eat-it-e-confiavel)."
+          "Entre cristal ecológico e cristal, a escolha é do casal e do orçamento: as páginas não comparam os dois materiais. A Crex Optic é a única com restrição escrita de lava-louças e micro-ondas, por isso quem quer uma taça que vá à máquina precisa ler a página de cada modelo antes de comprar.",
+          "No Reclame Aqui, a categoria \"Taças\" aparece entre os principais problemas da loja, com 20,11%, na aba geral do perfil (consulta de até três anos). A tabela não separa o tipo de problema, então não dá para dizer quantas dessas reclamações são de quebra no transporte. A loja embala porcelana, cristal, vidro e cerâmica um a um, e repõe de graça a peça que chega quebrada, com fotos do produto e da embalagem; por isso, fotografe a caixa ao receber. Para o histórico da loja, veja [a análise sobre a Let's Eat It](/reviews/lets-eat-it-e-confiavel)."
         ]
       },
       {
@@ -101128,7 +101219,17 @@ export const reviewsData: unknown[] = [
         "slug": "porto-brasil-e-boa",
         "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve complemento, como travessa ou chaleira, se a casa já tem o básico.",
+        "Leve o aparelho de 30 peças se o casal monta a mesa do zero."
+      ],
+      "skipIf": [
+        "Passe o aparelho Shimeji Gold se o casal usa micro-ondas e lava-louças todo dia: ele leva filete dourado.",
+        "Passe a lista de presentes da loja: ela está sem itens, então combine direto com o casal."
+      ]
+    }
   },
   {
     "id": 516,
@@ -101165,7 +101266,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Até R$ 150: canecas Le Creuset, faca de churrasco e forma de bolo",
         "paragraphs": [
-          "Os presentes estão separados em quatro faixas de preço, com os preços de venda da Let's Eat It em 20/10/2026. Esta é a mais barata, com peças para o dia a dia da cozinha e do churrasco."
+          "Até R$ 150, o presente resolve o dia a dia da cozinha e do churrasco. Os preços são de venda da Let's Eat It em 20/10/2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -101266,7 +101367,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os três eletroportáteis Ariete da linha Vintage vêm em 127 V, segundo a ficha de cada um. Antes de comprar, confira a voltagem da sua tomada. A mesma linha tem o processador Vintage Azul, de 250 W, 127 V, por R$ 299,00."
+          "Os três eletroportáteis Ariete da linha Vintage vêm em 127 V: confira a voltagem da sua tomada antes de comprar. A mesma linha tem o processador Vintage Azul, de 250 W, 127 V, por R$ 299,00."
         ],
         "images": [
           {
@@ -101320,7 +101421,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O jogo de panelas Slim de cerâmica, de 5 peças, vermelho coral, da Ceraflame (R$ 919,90), ficou fora da tabela por causa da indução: a ficha diz que o modelo não é compatível com fogões de indução. Fora isso, a ficha diz que ele é 100% cerâmica e vai ao gás, ao elétrico, ao vitrocerâmico, ao forno convencional, ao micro-ondas, ao freezer e à lava-louças."
+          "O jogo de panelas Slim de cerâmica, de 5 peças, vermelho coral, da Ceraflame (R$ 919,90), ficou fora da tabela por causa da indução: a página diz que o modelo não é compatível com fogões de indução. Fora isso, ele é 100% cerâmica e vai ao gás, ao elétrico, ao vitrocerâmico, ao forno convencional, ao micro-ondas, ao freezer e à lava-louças."
         ],
         "images": [
           {
@@ -101385,7 +101486,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "A voltagem muda a compra: a batedeira é 127 V e a fritadeira é 220 V. Antes de pagar, confira a tensão da sua tomada.",
-          "Se a dúvida é se a Le Creuset compensa o preço, a análise está em [o artigo sobre a marca](/reviews/le-creuset-vale-a-pena). Aqui a descrição fica no que a ficha informa."
+          "Se a dúvida é se a Le Creuset compensa o preço, a análise está em [o artigo sobre a marca](/reviews/le-creuset-vale-a-pena). Aqui a descrição fica no que a página informa."
         ]
       },
       {
@@ -101394,9 +101495,9 @@ export const reviewsData: unknown[] = [
           "A escolha começa pelo que a pessoa faz na cozinha. Os exemplos são das faixas anteriores:"
         ],
         "bullets": [
-          "Quem está começando: a Espátula Clássica em Silicone Confeitaria Preta KitchenAid, R$ 129,90. A ficha diz ponta de silicone, cabo ABS, até 232 °C e lava-louças.",
+          "Quem está começando: a Espátula Clássica em Silicone Confeitaria Preta KitchenAid, R$ 129,90, com ponta de silicone e cabo ABS, até 232 °C e lava-louças.",
           "Quem faz churrasco: o Conjunto 4 peças para Churrasco Inox com Estojo L'Hermitage, R$ 232,90, com espátula vazada, garfo de duas pontas, pegador e escova. Para gastar menos, a Faca para Churrasco Beef Club Fracalanza sai por R$ 69,90, com lâmina de aço inox e 45 cm.",
-          "Quem assa: a Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm da Baker's Secret, R$ 62,90. Aço carbono, forno até 232 °C pela ficha e garantia de 6 meses.",
+          "Quem assa: a Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm da Baker's Secret, R$ 62,90, em aço carbono, para forno até 232 °C, com garantia de 6 meses.",
           "Quem já tem Le Creuset: o Ramekin Formato Coração Cerâmica 300 ml Vermelho, R$ 159,00. A ficha diz forno, micro-ondas, congelador e lava-louças, e a peça complementa a linha que a pessoa já usa."
         ],
         "images": [
@@ -101465,7 +101566,17 @@ export const reviewsData: unknown[] = [
         "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
         "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve pela faixa que cabe no bolso e pelo que a pessoa faz na cozinha.",
+        "Leve churrasco ou eletroportátil para quem já tem panela e utensílio básico."
+      ],
+      "skipIf": [
+        "Passe a pré-venda se o presente tem data.",
+        "Passe o eletroportátil sem conferir a voltagem da tomada."
+      ]
+    }
   },
   {
     "id": 517,
@@ -101502,17 +101613,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Look 1: trabalho neutro com blazer e camisa",
         "paragraphs": [
-          "Os três looks de trabalho deste guia são montados com peças da Cléa Store, com os preços de venda do site em 20/10/2026. A loja não vende o look pronto: cada peça é comprada separada, e cada look traz as peças lado a lado e o link de cada uma.",
+          "Os três looks de trabalho são montados com peças da Cléa Store, com os preços de venda do site em 20/10/2026. A loja não vende o look pronto: cada peça é comprada separada, com o link de cada uma.",
           "O blazer está com preço promocional; a camisa, sem promoção."
         ],
         "bullets": [
-          "[Blazer Alfaiataria Risca de Giz Cinza](https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282): R$ 538,30 (preço cheio R$ 769,00). Cinza claro, 95% poliéster, 3% elastano e 2% viscose, segundo a ficha.",
+          "[Blazer Alfaiataria Risca de Giz Cinza](https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282): R$ 538,30 (preço cheio R$ 769,00). Cinza claro; a Cléa lista 95% poliéster, 3% elastano e 2% viscose.",
           "[Camisa Clássica Feminina Tricoline Off White](https://www.cleastore.com.br/produto/camisa-classica-feminina-tricoline-off-white-4355): R$ 259,00. Off white, 97% algodão e 3% elastano, segundo a ficha."
         ],
         "postParagraphs": [
           "As duas peças somam R$ 797,30. Com o cupom de 10%, o total cai para R$ 717,57.",
           "A calça não entra no total: a loja não tinha calça de alfaiataria neutra com envio imediato, então o look pede uma calça de alfaiataria que você já tem.",
-          "Segundo a descrição da loja, o blazer tem modelagem oversized, e a própria loja avisa que a modelagem é ampla. A ficha da camisa diz \"modelagem oversized, caimento soltinho ao corpo\". Com as duas peças de caimento folgado, o look sai mais solto do que um conjunto ajustado."
+          "O blazer tem modelagem oversized, e a descrição da loja avisa que a modelagem é ampla. A página da camisa diz \"modelagem oversized, caimento soltinho ao corpo\". Com as duas peças de caimento folgado, o look sai mais solto do que um conjunto ajustado."
         ],
         "images": [
           {
@@ -101542,7 +101653,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "As duas peças somam R$ 659,50. Com o cupom de 10%, o total fica em R$ 593,55. Como no look 1, a calça fica por conta de uma calça de alfaiataria que você já tem.",
-          "Segundo a descrição da loja, o blazer tem \"modelagem oversized, caimento sofisticado\". O body é descrito como de \"modelagem justa com caimento ajustado\", com uma prega no ombro esquerdo, e a loja diz que ele combina com jeans, saia ou alfaiataria. Na prática, o look fica com um blazer folgado por fora e um body justo por dentro. O body tem 4,7 de 5 em 225 avaliações públicas, com 94% de recomendação, na avaliação da Trustvox mostrada na página.",
+          "O blazer é oversized; o body é justo, com prega no ombro esquerdo, e combina com jeans, saia ou alfaiataria. Na prática, o look fica com um blazer folgado por fora e um body justo por dentro. O body tem 4,7 de 5 em 225 avaliações públicas, com 94% de recomendação, na avaliação da Trustvox mostrada na página.",
           "Se a dúvida é qual body usar por baixo do blazer, o [guia de bodies da Cléa Store](/reviews/body-clea-store-second-skin-qual-escolher) compara os modelos."
         ],
         "images": [
@@ -101575,7 +101686,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "As três peças somam R$ 1.275,20. Com o cupom de 10%, o total fica em R$ 1.147,68.",
           "A Calça Vermelha tinha só o tamanho P disponível. Se o seu tamanho não for P, este look não fecha com ela, e não havia outra calça de alfaiataria vermelha com estoque no catálogo para trocar.",
-          "Segundo a descrição da loja, o colete tem modelagem trespassada e caimento reto. A calça tem \"modelagem sofisticada, cintura alta e caimento estruturado\". O body é descrito como de modelagem ajustada, estilo second skin, e a loja diz que ele combina com alfaiataria. O body tem 4,7 de 5 em 169 avaliações públicas, com 92% de recomendação, na avaliação da Trustvox mostrada na página."
+          "A descrição da loja dá ao colete modelagem trespassada e caimento reto. A calça tem \"modelagem sofisticada, cintura alta e caimento estruturado\". O body é descrito como de modelagem ajustada, estilo second skin, e a loja diz que ele combina com alfaiataria. O body tem 4,7 de 5 em 169 avaliações públicas, com 92% de recomendação, na avaliação da Trustvox mostrada na página."
         ],
         "images": [
           {
@@ -101604,7 +101715,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Casual de sexta: t-shirt oversized com blazer ou colete",
         "paragraphs": [
-          "Para a sexta mais leve, a t-shirt oversized de algodão troca a camisa. A [T-Shirt Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189) custa R$ 129,00, vem em 10 cores e nos tamanhos P, M e G. Segundo a ficha, o corpo é 100% algodão penteado premium, e a página do produto mostra nota 4,8 com 1.007 avaliações.",
+          "Para a sexta mais leve, a t-shirt oversized de algodão troca a camisa. A [T-Shirt Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189) custa R$ 129,00, vem em 10 cores e nos tamanhos P, M e G. O corpo é 100% algodão penteado premium, e a página do produto mostra nota 4,8 com 1.007 avaliações.",
           "Por cima, o Blazer Oversized Alfaiataria Mescla (R$ 524,30) dá o toque de alfaiataria sem pesar o visual. Se o blazer não servir no seu tamanho, o Colete Alfaiataria Trespasse Vermelho (R$ 799,00) entra no lugar dele.",
           "Quem quer mais de uma camiseta pode levar o kit de 3 t-shirts a R$ 258,00 (preço cheio R$ 387,00). Com o cupom, o kit sai por R$ 232,20, valor testado pela equipe."
         ],
@@ -101720,7 +101831,17 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-clea-store-como-usar",
         "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Monte o look neutro se o trabalho pede blazer com camisa.",
+        "Monte a t-shirt oversized com blazer se a sexta é mais leve."
+      ],
+      "skipIf": [
+        "Passe o look 3 se a calça vermelha não vem no seu tamanho.",
+        "Passe os looks 1 e 2 se falta a calça neutra: eles pedem uma de casa."
+      ]
+    }
   },
   {
     "id": 518,
@@ -101757,7 +101878,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os 6 modelos lado a lado",
         "paragraphs": [
-          "A Cléa Store tem seis bodies Second Skin, em P, M e G, e este guia escolhe por uso, tamanho e preço, com os valores de 20/10/2026. Os seis são de 90% poliamida e 10% elastano, segundo a ficha. No Ombro Único, essa composição aparece só no texto da descrição, sem bloco de composição. O preço cheio da loja está entre parênteses."
+          "Os seis bodies saem do mesmo tecido, então a escolha é de corte e uso, com os valores de 20/10/2026. Os seis são de 90% poliamida e 10% elastano, segundo a loja. No Ombro Único, essa composição aparece só no texto da descrição, sem bloco de composição. O preço cheio da loja está entre parênteses."
         ],
         "comparisonTable": {
           "headers": [
@@ -101881,7 +102002,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como lavar os bodies Second Skin",
         "paragraphs": [
-          "A ficha dos bodies Gola Alta, Duplo, Frente Única, Decote Reversível e Cavado traz o mesmo bloco de cuidados. Segundo a loja:"
+          "Os bodies Gola Alta, Duplo, Frente Única, Decote Reversível e Cavado trazem o mesmo bloco de cuidados na página. A loja informa:"
         ],
         "bullets": [
           "Lavar somente à mão, até 40 °C",
@@ -101893,20 +102014,20 @@ export const reviewsData: unknown[] = [
           "Não limpar a seco"
         ],
         "postParagraphs": [
-          "A ficha informa 90% poliamida e 10% elastano nos seis modelos com este texto, incluindo o Ombro Único. O Ombro Único, porém, não traz bloco de cuidados na página. Nesse caso, vale seguir a etiqueta da própria peça."
+          "A página informa 90% poliamida e 10% elastano nos seis modelos, incluindo o Ombro Único. O Ombro Único, porém, não traz bloco de cuidados na página. Nesse caso, vale seguir a etiqueta da própria peça."
         ]
       },
       {
         "heading": "Avaliações públicas dos bodies Second Skin",
         "paragraphs": [
           "Na página do Body Gola Alta Manga Longa Second Skin, a avaliação da loja, feita pela Trustvox, mostrava na leitura nota 4,7 de 5, com 225 avaliações e 94% de recomendação. No Body Regata Second Skin Duplo, a mesma fonte mostrava nota 4,7 de 5, com 169 avaliações e 92% de recomendação, em leitura do dia anterior.",
-          "Esses números são de clientes, publicados pela própria loja, e não conferimos avaliação por avaliação. Nos outros quatro modelos (Frente Única, Decote Reversível, Cavado e Ombro Único), a nota não apareceu na leitura, então este texto não traz número para eles."
+          "São números de clientes, publicados pela própria loja. Nos outros quatro modelos (Frente Única, Decote Reversível, Cavado e Ombro Único), a nota não apareceu na leitura, então este texto não traz número para eles."
         ]
       },
       {
         "heading": "Qual escolher para cada uso",
         "paragraphs": [
-          "Gola Alta, Frente Única e Regata Cavado estão nas etiquetas abaixo, com o uso de cada um. Os outros três:",
+          "A escolha é pelo uso: frio, dia a dia ou noite. Gola Alta, Frente Única e Regata Cavado estão nas etiquetas abaixo, com o uso de cada um. Os outros três:",
           "**Com alfaiataria.** O Duplo e o Decote Reversível são indicados com alfaiataria. Para montar um look de trabalho com blazer, o [artigo sobre look de trabalho com alfaiataria feminina](/reviews/look-trabalho-alfaiataria-feminina-clea-store) é o caminho.",
           "**Ocasião.** O Ombro Único tem decote assimétrico e abertura nas costas, e a loja fala em visual moderno e sofisticado para diferentes ocasiões.",
           "**Dia a dia.** O Decote Reversível muda de look pela troca do decote, na frente ou nas costas. O Duplo combina com jeans e shorts."
@@ -101968,7 +102089,9 @@ export const reviewsData: unknown[] = [
               ]
             }
           ]
-        }
+        },
+        "emphasis": "Se fosse para a minha casa, eu levaria o Regata Cavado, porque é o mais barato e resolve o dia a dia.",
+        "emphasisAfterParagraph": 4
       },
       {
         "heading": "Cupom CSEMCASACOMCECILIA no body: quanto fica",
@@ -102004,6 +102127,18 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve o Gola Alta se você quer um body de manga longa para o frio ou para usar com blazer.",
+        "Leve o Regata Cavado se você quer o mais barato para o dia a dia.",
+        "Leve a Frente Única ou o Ombro Único se você quer decote para a noite."
+      ],
+      "skipIf": [
+        "Passe nos bodies de decote se você não quer decote na frente ou nas costas: fique no Gola Alta ou no Duplo, de gola alta.",
+        "Passe se você veste fora do P, M e G: os seis modelos só vêm nesses tamanhos.",
+        "Passe se você quer o kit de três peças em outro modelo: só o Gola Alta e o Duplo têm."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -102095,7 +102230,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela das peças de cima",
         "paragraphs": [
-          "Medidas do corpo de quem veste, em centímetros, lidas na tabela da loja em 20/10/2026. Vale para a T-Shirt Oversized Algodão, o Body Regata Second Skin Duplo, os outros bodies e o Blazer Oversized Alfaiataria Bordô."
+          "Nas peças de cima, o P, o M e o G vestem o mesmo corpo em todas elas. Vale para a t-shirt, os bodies e o blazer oversized bordô; as medidas são do corpo, em centímetros."
         ],
         "comparisonTable": {
           "headers": [
@@ -102142,7 +102277,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela da calça",
         "paragraphs": [
-          "A calça usa numeração de 36 a 42, e a tabela traz cintura e quadril, sem busto. Os números são da página da Calça New Baggy Areia, lida na mesma leitura."
+          "A calça vai de 36 a 42 pela cintura e pelo quadril, sem busto. Os números são da página da Calça New Baggy Areia, lida na mesma leitura."
         ],
         "comparisonTable": {
           "headers": [
@@ -102174,14 +102309,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "De um número para o outro, a cintura sobe de 4 a 10 cm e o quadril sobe 8 cm. Se a cintura e o quadril caem em números diferentes, a tabela não diz qual medida pesa mais, e a loja também não diz."
+          "De um número para o outro, a cintura sobe de 4 a 10 cm e o quadril sobe 8 cm. Se a cintura e o quadril caem em números diferentes, compare com uma calça sua que serve: a tabela não diz qual medida pesa mais."
         ]
       },
       {
         "heading": "O que muda no oversized",
         "paragraphs": [
           "A tabela de medidas da Cléa Store não tem uma régua separada para o oversized. Na T-Shirt Oversized Algodão e no Blazer Oversized Alfaiataria Bordô, a tabela mostra busto e cintura com os mesmos números das peças justas, os da tabela acima. Essas são medidas do seu corpo, não da peça. A letra sai de onde o seu corpo cai na tabela, e não de quanto você quer de folga.",
-          "A diferença está no corte, e é isso que a loja anuncia. Na página da T-Shirt Oversized Algodão, segundo a loja, \"a modelagem oversized oferece caimento amplo e soltinho\". Na do Blazer Oversized Alfaiataria Bordô, a descrição fala em \"modelagem oversized, caimento sofisticado e acabamento premium\". Ou seja: a folga já vem no desenho da peça, e a tabela continua medindo o corpo."
+          "A diferença está no corte, e é isso que a loja anuncia. A página da T-Shirt Oversized Algodão diz que \"a modelagem oversized oferece caimento amplo e soltinho\". Na do Blazer Oversized Alfaiataria Bordô, a descrição fala em \"modelagem oversized, caimento sofisticado e acabamento premium\". Ou seja: a folga já vem no desenho da peça, e a tabela continua medindo o corpo."
         ],
         "images": [
           {
@@ -102197,7 +102332,7 @@ export const reviewsData: unknown[] = [
         "heading": "Entre dois tamanhos",
         "paragraphs": [
           "Quando a sua medida cai numa faixa de uma letra e também na seguinte, a tabela não decide sozinha. Um busto de 89 cm, por exemplo, cabe nas faixas de P (82 a 90 cm) e de M (88 a 96 cm). Entre M (até 96 cm) e G (a partir de 98 cm) sobra um vão de 2 cm, e nessa medida o provador da página é a próxima consulta, sem garantia de acerto.",
-          "O que pesa é a modelagem da peça. No body justo, a tabela traz também o quadril: no Body Regata Second Skin Duplo, o G vai de 106 a 114 cm, e a descrição da loja fala em \"modelagem ajustada\" e \"efeito segunda pele\". Nele, a medida vale quase sem folga. Na t-shirt e no blazer oversized, a folga já vem do corte, e a loja não diz qual letra escolher quando a medida fica entre duas faixas. Por isso, quem está no meio olha a modelagem: no justo, a medida manda; no oversized, a descrição já diz quanto a peça cai.",
+          "O que pesa é a modelagem da peça. No body justo, a tabela traz também o quadril: no Body Regata Second Skin Duplo, o G vai de 106 a 114 cm, e a descrição da loja fala em \"modelagem ajustada\" e \"efeito segunda pele\". Nele, a medida vale quase sem folga. No justo, a medida manda; no oversized, a folga já vem do corte.",
           "Se a compra for pelo site, o cupom CSEMCASACOMCECILIA dá 10% no site oficial, em todas as formas de pagamento; confira no carrinho, porque ele não vale no Mercado Livre ([cupom da Cléa Store](/cupons/clea-store))."
         ]
       },
@@ -102205,14 +102340,14 @@ export const reviewsData: unknown[] = [
         "heading": "Provador virtual: o que é e onde fica",
         "paragraphs": [
           "O provador virtual é uma ferramenta da Sizebay que aparece na página de cada peça, ao lado do botão da tabela de medidas.",
-          "A loja não diz que o provador acerta o tamanho, e não garante o caimento da peça. O texto também não afirma isso. Use a tabela como base, a descrição da peça para a modelagem e, se a dúvida continuar, a devolução (abaixo)."
+          "A loja não diz que o provador acerta o tamanho, e não garante o caimento da peça. Use a tabela como base e a descrição para a modelagem; se a dúvida continuar, a devolução é grátis (abaixo)."
         ]
       },
       {
         "heading": "Se o tamanho não servir",
         "paragraphs": [
           "A devolução é grátis, sem custo de postagem para quem devolve. Pela página de troca e devolução da loja, o prazo é de 30 dias corridos após o recebimento, com a peça na embalagem original, sem uso e com a nota fiscal.",
-          "O texto não afirma troca direta por outro tamanho: a regra de troca que a loja descreve fala em vale no valor da peça, não em outra letra. Também não afirma quanto volta quando a compra teve cupom. Antes de devolver, leia a página de troca da loja. O que a loja informa e o que ainda não está claro nas políticas está em [a página sobre se a Cléa Store é confiável](/reviews/clea-store-e-confiavel)."
+          "Troca direta por outro tamanho não está confirmada: a regra da loja fala em vale no valor da peça. Nem quanto volta quando a compra teve cupom. Antes de devolver, leia a página de troca da loja. O que a loja informa e o que ainda não está claro nas políticas está em [a página sobre se a Cléa Store é confiável](/reviews/clea-store-e-confiavel)."
         ]
       },
       {
@@ -102286,7 +102421,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os 7 anúncios do Mercado Livre e as 41 peças do site",
         "paragraphs": [
-          "Este guia compara o preço da Cléa Store no Mercado Livre e no site, onde vale o cupom CSEMCASACOMCECILIA, com os dados lidos nos dois lugares. A loja oficial no Mercado Livre tem só 7 anúncios, os kits de t-shirt e os bodies mais vendidos; nas categorias que lemos, o site tem 41 peças, com toda a alfaiataria. A conclusão está em Como escolher, no fim do texto.",
+          "O essencial sai mais barato no Mercado Livre; a variedade está só no site, com o cupom CSEMCASACOMCECILIA. A loja oficial no Mercado Livre tem só 7 anúncios, os kits de t-shirt e os bodies mais vendidos; nas categorias que lemos, o site tem 41 peças, com toda a alfaiataria. A conclusão está em Como escolher, no fim do texto.",
           "Na loja oficial da Cléa no Mercado Livre (vendedor Clea Oficial, reputação 4,9), estes eram os anúncios em 20/10/2026:"
         ],
         "bullets": [
@@ -102299,13 +102434,13 @@ export const reviewsData: unknown[] = [
           "Body Tule Gola Alta Second Skin"
         ],
         "postParagraphs": [
-          "São as peças de base da marca. O resto do catálogo fica só no site, e é lá que está a diversidade da loja: mais modelos de body, mais kits de t-shirt, mais cores do mesmo modelo e a alfaiataria inteira. A seção seguinte mostra o que muda."
+          "São as peças de base da marca. O resto fica só no site: mais bodies, mais kits, mais cores e a alfaiataria inteira."
         ]
       },
       {
         "heading": "O que só o site tem",
         "paragraphs": [
-          "Nas categorias do site que lemos, contamos 41 peças. Destas, só as 7 acima aparecem no Mercado Livre. O que está só no site:"
+          "O site tem 41 peças nas categorias lidas, e só 7 estão no Mercado Livre. O que está só no site:"
         ],
         "bullets": [
           "Alfaiataria: blazers, entre eles o [Risca de Giz Cinza](https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282) e os oversized [Bordô](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-bordo-4305) e [Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307), coletes, bermuda e calças de alfaiataria.",
@@ -102435,7 +102570,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "O cupom CSEMCASACOMCECILIA tira 10% no site e o cashback da loja soma com ele. O preço do Mercado Livre muda rápido: o que hoje sai mais barato lá pode ficar igual ou mais caro que o site com o cupom em poucos dias, então confira os dois antes de comprar."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o essencial no Mercado Livre e a alfaiataria no site, porque cada lado ganha no seu preço do dia."
       },
       {
         "heading": "Perguntas frequentes",
@@ -102448,6 +102584,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve no Mercado Livre se você quer t-shirt avulsa, Kit Intense, Kit Colorful, Body Duplo ou Gola Alta: compare o anúncio do dia.",
+        "Leve no site se você quer o Kit Classic, alfaiataria ou outro modelo de body."
+      ],
+      "skipIf": [
+        "Passe no Mercado Livre se você quer usar o cupom: ele só vale no site.",
+        "Passe no Mercado Livre se você quer a devolução grátis da Cléa: ela vale nas compras do site."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -102520,7 +102666,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que cada produto traz no rótulo",
         "paragraphs": [
-          "O quadro mostra uma porção de cada produto, como a loja a define. Na Doctor Bar e na Doctor Wafer, lemos só o sabor Avelã. Nas pastas, no alfajor e no whey, a faixa junta todos os sabores."
+          "A porção muda tudo: de 83 kcal na colher de pasta a 261 kcal na Doctor Bar, cada uma como a loja a define. Na Doctor Bar e na Doctor Wafer, só o sabor Avelã; nas pastas, no alfajor e no whey, a faixa junta todos os sabores."
         ],
         "image": {
           "src": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp",
@@ -102695,7 +102841,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Doctor Bar e Doctor Wafer",
         "paragraphs": [
-          "A Doctor Bar é a barra de proteína da marca, vendida em caixa com 8 barras de 62 g. No sabor Avelã, cada barra tem 261 kcal, 21 g de proteína, 21 g de carboidratos, 12 g de gorduras totais e 6,2 g de gordura saturada, que a tabela marca como 31% do valor diário. São 9,6 g de polióis e 80 mg de sódio.",
+          "A Doctor Bar é a mais calórica por porção: 261 kcal na barra de 62 g, no sabor Avelã. Ela tem 21 g de proteína, 21 g de carboidratos, 12 g de gorduras totais e 6,2 g de gordura saturada, que a tabela marca como 31% do valor diário. São 9,6 g de polióis e 80 mg de sódio.",
           "Na lista de ingredientes da Doctor Bar Avelã estão leite em pó, soro de leite e caseinato de cálcio. A página diz \"CONTÉM GLÚTEN\" e \"CONTÉM LACTOSE\", e os alérgicos são amendoim, leite e soja.",
           "A Doctor Wafer é vendida avulsa, em unidade de 25 g, ou em caixa com 12. No sabor Avelã, cada unidade tem 127 kcal, 5 g de proteína, 9 g de carboidratos, 1 g de açúcares totais, 0 g de açúcares adicionados e 4,8 g de gordura saturada (24% do valor diário). O wafer é de farinha de trigo, e a página diz \"CONTÉM GLÚTEN. CONTÉM LACTOSE.\""
         ],
@@ -102720,7 +102866,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dr. Peanut engorda? Dieta e emagrecimento",
         "paragraphs": [
           "A tabela mostra as calorias de cada porção: de 83 a 90 kcal na colher de pasta, de 158 a 183 kcal no alfajor, 127 kcal na Doctor Wafer, 261 kcal na Doctor Bar e de 159 a 166 kcal na porção de whey.",
-          "O rótulo não diz se um produto engorda ou emagrece. Isso depende do quanto você come e de tudo o que entra na sua dieta no dia. As páginas que lemos também não prometem emagrecimento. Para encaixar a pasta, a barra ou o whey num plano de dieta, a conversa é com nutricionista."
+          "O rótulo não diz se um produto engorda ou emagrece. Isso depende do quanto você come e de tudo o que entra na sua dieta no dia. As páginas da loja também não prometem emagrecimento: para encaixar a pasta, a barra ou o whey na dieta, fale com um nutricionista."
         ]
       },
       {
@@ -102742,7 +102888,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando procurar nutricionista ou médico",
         "paragraphs": [
-          "Procure um nutricionista ou um médico antes de usar a pasta, a barra ou o whey com frequência se você tem intolerância à lactose, doença celíaca, alergia alimentar, diabetes ou outra restrição. Vale também para quem quer emagrecer, ganhar peso ou montar uma dieta. Este texto mostra o que está no rótulo e não substitui essa conversa. Em resumo: o rótulo mostra açúcares, polióis, lactose e glúten de cada produto, mas dizer se serve para a sua dieta é decisão de nutricionista ou médico."
+          "Procure um nutricionista ou um médico antes de usar a pasta, a barra ou o whey com frequência se você tem intolerância à lactose, doença celíaca, alergia alimentar, diabetes ou outra restrição. Vale também para quem quer emagrecer, ganhar peso ou montar uma dieta. Este texto mostra o rótulo e não substitui essa conversa."
         ]
       },
       {
@@ -102868,7 +103014,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A diferença que a página sustenta é de uso. A Performance é a de esporte, com a parte de fora em poliamida. A Comfort é a de dia a dia, com modal e TENCEL. Quem sua atrás ou quer proteção extra deve olhar a versão Anti Suor de cada modelo, com tecido a mais na parte de trás.",
+          "A Performance é a de esporte, com a parte de fora em poliamida. A Comfort é a de dia a dia, com modal e TENCEL. Quem sua atrás ou quer proteção extra deve olhar a versão Anti Suor de cada modelo, com tecido a mais na parte de trás.",
           "A marca diz que a Performance absorve e evapora o suor rápido; leia como promessa da loja, não como resultado medido."
         ],
         "styling": {
@@ -102945,7 +103091,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por unidade: 1, 3 e 5 peças",
         "paragraphs": [
-          "Preços lidos em 20/10/2026. Conta nossa, na coluna \"com cupom\", com 15% sobre o preço de cada item: confira o valor no checkout antes de pagar."
+          "O kit de 5 deixa cada peça mais barata; a Seamless avulsa é a mais barata sem kit. Preços lidos em 20/10/2026; a coluna \"com cupom\" é conta nossa, com 15% sobre cada item: confira no checkout antes de pagar."
         ],
         "comparisonTable": {
           "headers": [
@@ -103008,7 +103154,9 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher",
         "paragraphs": [
           "Se a dúvida é a boxer, a resposta curta é: Performance para treino e esporte, Comfort para o dia a dia. Escolha pelo uso, confira o preço da variante na hora da compra, porque o preço muda por cor e tamanho, não por modelo, e acerte o tamanho antes, porque cueca não tem troca por tamanho. A Seamless Touch e a Slip são construções diferentes, não a versão premium da boxer. Se a comparação for com outras marcas, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a Comfort para o dia a dia, porque é a boxer de modal para uso diário.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Lavagem",
@@ -103043,6 +103191,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Comfort se você quer boxer de modal para o dia a dia.",
+        "Leve a Performance se você treina e quer a boxer de esporte."
+      ],
+      "skipIf": [
+        "Passe nas boxers se você quer construção sem costura: olhe a Seamless Touch.",
+        "Passe se você não sabe o tamanho: cueca só troca por defeito, não por tamanho."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -103104,7 +103262,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual nível escolher",
         "paragraphs": [
-          "A tabela resume o que a loja publica para cada peça. Os estoques são do dia da leitura."
+          "A escolha é pelo nível de transpiração: leve, moderado ou excessivo. A tabela resume o que a loja publica para cada peça, e os estoques são do dia da leitura."
         ],
         "comparisonTable": {
           "headers": [
@@ -103139,7 +103297,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na dúvida entre Leve e Moderado, a diferença que a página mostra é o nível indicado e a camada dupla nas axilas. A marca não diz em que ponto um nível passa para o outro, e este texto também não diz.",
+          "Na dúvida entre Leve e Moderado, o que a página mostra é o nível indicado e a camada dupla nas axilas; a marca não diz onde um nível vira o outro.",
           "Se a dúvida é a Insider em si, e não o nível, leia [Insider vale a pena?](/reviews/insider-vale-a-pena). O texto compara a Tech T-Shirt e as cuecas com outras marcas."
         ]
       },
@@ -103148,7 +103306,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pelo que a loja publica, a construção muda nas axilas. O Moderado tem camada dupla nessa região, \"para maior proteção\". O Block tem reforço impermeável nas axilas, segundo a marca. A Leve não declara nem uma coisa nem outra.",
           "A composição do Moderado e do Block é a mesma: 88% modal e 12% elastano. A Leve é 88% TENCEL Modal e 12% elastano. Segundo as páginas, as três usam o tecido SOFTOUCH.",
-          "A marca também descreve as três como anti odor, com a frase \"desfavorável à proliferação de bactérias\". A loja não diz que a peça elimina o cheiro, e este texto também não diz.",
+          "A marca descreve as três como anti odor, \"desfavorável à proliferação de bactérias\", mas não diz que a peça elimina o cheiro.",
           "A loja apresenta a peça para usar por baixo da camisa social."
         ],
         "images": [
@@ -103269,7 +103427,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Sem cupom, cada peça do kit sai por R$ 137,71 (R$ 413,12 divididos por três). A conta por peça é nossa, feita sobre o preço do próprio kit.",
-          "O cupom EMCASACOMCECILIA dá 15% na loja online. Ele vale uma vez por pedido e soma com o Pix e com as outras formas de pagamento. O Pix tem desconto próprio na loja, mas o percentual muda entre a barra do site e os banners, então não o citamos aqui.",
+          "O cupom EMCASACOMCECILIA dá 15% na loja online. Ele vale uma vez por pedido e soma com o Pix e com as outras formas de pagamento. O Pix tem desconto próprio, mas o percentual muda no site: confira no checkout.",
           "No teste no checkout, o desconto apareceu num kit de cuecas com preço promocional. Antes de pagar, confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout. Se o pedido junta undershirt e cueca boxer, cada item tem a sua linha.",
           "A página do Moderado também mostra desconto por quantidade no seletor. Os valores mudam; confira no produto.",
           "Regras e código do cupom estão em [cupom Insider: EMCASACOMCECILIA](/cupons/insider).",
@@ -103315,7 +103473,9 @@ export const reviewsData: unknown[] = [
           "Suor moderado: Moderado. Tem camada dupla na região das axilas e sai em bege, preta e branca, com gola V ou U.",
           "Suor excessivo: Block, com reforço impermeável nas axilas, segundo a marca. Na leitura, estava esgotado.",
           "Nos três casos, acerte o tamanho antes de comprar, porque a undershirt não é trocada por tamanho."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o Moderado, porque tem camada dupla nas axilas e sai em três cores.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Troca e cuidados",
@@ -103345,6 +103505,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Leve se o suor é leve e você aceita só bege, com gola V.",
+        "Leve o Moderado se o suor é moderado e você quer camada dupla nas axilas e três cores.",
+        "Leve o Block se o suor é excessivo e você quer o reforço impermeável nas axilas que a marca indica."
+      ],
+      "skipIf": [
+        "Passe se você espera que a peça trate ou elimine o suor: ela não trata, e o suor excessivo é caso de dermatologista.",
+        "Passe se o tamanho está em dúvida: a undershirt não troca por tamanho."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -103824,7 +103995,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom EMCASACOMCECILIA no presente",
         "paragraphs": [
           "O cupom EMCASACOMCECILIA dá 15% de desconto na loja online. Ele vale para um pedido por vez e não soma com outro cupom. Vale com todas as formas de pagamento, inclusive o Pix, e soma com as promoções, salvo quando a promoção disser o contrário. Na loja física, ele não vale. A [página do cupom](/cupons/insider) tem o código para copiar.",
-          "Quem presenteia costuma perguntar se o cupom entra no kit. Num teste de checkout, a linha do código apareceu em kit com preço promocional. Por isso, a regra é conferir a linha de cada item no checkout, não confiar na etiqueta do produto. O [passo a passo do cupom](/reviews/cupom-emcasacomcecilia-insider-store-como-usar) mostra onde ele aparece.",
+          "O cupom entra no kit? Num teste de checkout, a linha do código apareceu em kit com preço promocional. Por isso, a regra é conferir a linha de cada item no checkout, não confiar na etiqueta do produto. O [passo a passo do cupom](/reviews/cupom-emcasacomcecilia-insider-store-como-usar) mostra onde ele aparece.",
           "O cupom não entra em pedido pago com gift card, como visto acima.",
           "Não sabemos de cupom de Natal separado. Para o presente, o código que temos é o EMCASACOMCECILIA.",
           "Algumas promoções dão brinde em compras acima de um valor. A loja diz que a regra muda sem aviso e que a promoção pode acabar a qualquer momento. O brinde não é trocado separadamente, e o gift card fica fora dessa campanha."
@@ -103833,9 +104004,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual caminho escolher",
         "paragraphs": [
-          "O kit de presente serve a quem quer entregar algo pronto: são 24 kits \"Kit Presente\", de R$ 208,80 a R$ 583,62 no preço do dia, e dois deles têm cueca boxer. O gift card virtual, de R$ 50 a R$ 1.000, serve a quem não sabe o tamanho, porque cueca, calcinha e sutiã só trocam por defeito. Vale lembrar que o cupom EMCASACOMCECILIA não entra em pedido pago com gift card.",
+          "O kit de presente serve a quem quer entregar algo pronto: são 24 kits \"Kit Presente\", de R$ 208,80 a R$ 583,62 no preço do dia, e dois deles têm cueca boxer. O gift card virtual, de R$ 50 a R$ 1.000, serve a quem não sabe o tamanho, porque cueca, calcinha e sutiã só trocam por defeito, mas o cupom EMCASACOMCECILIA não entra em pedido pago com gift card.",
           "Para chegar antes do Natal, a data limite do pedido depende da cidade: a tabela da seção \"Até quando pedir\" traz o dia de cada capital."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o gift card quando não sei o tamanho, porque cueca e íntimo só trocam por defeito.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Perguntas frequentes",
@@ -103849,6 +104022,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve um kit pronto se você sabe o tamanho de quem vai receber.",
+        "Leve o gift card virtual se você não sabe o tamanho."
+      ],
+      "skipIf": [
+        "Passe no gift card se você quer usar o cupom com o saldo: pedido pago com gift card não aceita cupom.",
+        "Passe na cueca, calcinha ou sutiã de presente se não tem certeza do tamanho: só trocam por defeito."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -103912,7 +104095,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Este guia compara whey e creatina da Black Skull (parceira do site, com o CECILIA10) e da Dux (que não é parceira), pelos rótulos e pelos preços que as lojas publicam.",
           "A comparação de whey e creatina começou com a Growth. A partir desta, a base é a Dux, que não é parceira do site. O comparativo com a Growth está em [Black Skull ou Growth](/reviews/black-skull-ou-growth). A série contra a Dux tem outros dois textos: [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux).",
-          "Comparamos só o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficaram de fora: ninguém da equipe provou os produtos.",
+          "Comparamos só o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficam de fora: compare pelo rótulo e pelo preço.",
           "As contas são estas, arredondadas no centavo:"
         ],
         "image": {
@@ -103934,7 +104117,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Preços no cartão, sem o cupom. A Black Skull não dá desconto no Pix nas páginas que lemos."
+          "No whey, a Black Skull sai mais barata por 100 g de proteína em todos os pares. Preços no cartão, sem o cupom; a Black Skull não dá desconto no Pix nas páginas que lemos."
         ],
         "comparisonTable": {
           "headers": [
@@ -104009,8 +104192,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey 100% HD ou Whey Concentrado de 1,8 kg",
         "paragraphs": [
-          "Os dois potes têm 1,8 kg. O [Whey 100% HD de 1,8 kg da Black Skull](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p) sai a R$ 279,90, com 50 doses de 35 g e 21 g de proteína por dose: R$ 26,66 por 100 g de proteína, ou R$ 23,99 com o CECILIA10. A Dux Concentrado de 1,8 kg sai a R$ 647,90 no cartão e R$ 615,51 no Pix, com 60 doses de 30 g: R$ 53,99 e R$ 51,29 por 100 g de proteína. Entre os potes da Dux, o de 1,8 kg é o mais barato por grama de proteína.",
-          "A fórmula é diferente. O 100% HD mistura WPC, WPI e WPH, além de peptídeos hidrolisados e proteína concentrada de leite. No texto de venda, a Black Skull chama os peptídeos de colágeno hidrolisado; a lista de ingredientes diz só peptídeos hidrolisados. Ou seja: nem toda a proteína desse pote vem do soro do leite. O concentrado da Dux, segundo a própria página, não tem blend."
+          "Entre os potes de 1,8 kg, o 100% HD sai mais barato por 100 g de proteína, mas leva blend. Os dois potes têm 1,8 kg. O [Whey 100% HD de 1,8 kg da Black Skull](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p) sai a R$ 279,90, com 50 doses de 35 g e 21 g de proteína por dose: R$ 26,66 por 100 g de proteína, ou R$ 23,99 com o CECILIA10. A Dux Concentrado de 1,8 kg sai a R$ 647,90 no cartão e R$ 615,51 no Pix, com 60 doses de 30 g: R$ 53,99 e R$ 51,29 por 100 g de proteína. Entre os potes da Dux, o de 1,8 kg é o mais barato por grama de proteína.",
+          "A fórmula é diferente. O 100% HD mistura WPC, WPI e WPH, além de peptídeos hidrolisados e proteína concentrada de leite. No texto de venda, a Black Skull chama os peptídeos de colágeno hidrolisado; a lista de ingredientes diz só peptídeos hidrolisados. Ou seja: nem toda a proteína desse pote vem do soro do leite. A página da Dux diz que o concentrado não tem blend."
         ]
       },
       {
@@ -104024,7 +104207,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g nas duas lojas",
         "paragraphs": [
-          "Preços no cartão, sem o cupom. Todas as creatinas desta tabela têm dose de 5 g, exceto a Creapure da Dux, de 3 g. As creatinas comparadas são monohidratadas."
+          "Na creatina, o Creator refil de 500 g é a mais barata por grama, com ou sem promoção. Preços no cartão, sem o cupom; todas as creatinas desta tabela têm dose de 5 g, exceto a Creapure da Dux, de 3 g. As creatinas comparadas são monohidratadas."
         ],
         "images": [
           {
@@ -104078,7 +104261,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creapure: o que a Dux declara",
         "paragraphs": [
-          "A linha 100% Creapure da Dux declara que a creatina é Creapure, produzida pela AlzChem, na Alemanha. Esse selo é a declaração da Dux; não fizemos checagem independente dele. Nas páginas da Black Skull que lemos, nenhuma linha de creatina declara Creapure.",
+          "A linha 100% Creapure da Dux declara que a creatina é Creapure, produzida pela AlzChem, na Alemanha. Esse selo é a declaração da Dux. Nas páginas da Black Skull que lemos, nenhuma creatina declara Creapure.",
           "Pelo preço, o selo custa caro: R$ 91,63 por 100 g no cartão, contra R$ 21,63 da monohidratada de 300 g da Dux e R$ 7,98 do refil da Black Skull. Quem quer o selo declarado pela Dux paga por ele. Quem compara por grama de creatina, não.",
           "Esta comparação não trata de efeito no corpo. Para creatina, o rótulo responde quanto de creatina vem em cada dose e quanto custa."
         ]
@@ -104086,7 +104269,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ingredientes e alérgicos",
         "paragraphs": [
-          "O que muda na lista de cada produto, conforme as páginas das lojas:"
+          "O que muda na lista de cada produto, nas páginas das lojas:"
         ],
         "bullets": [
           "Black Skull Whey 100% HD: WPC, WPI e WPH, além de peptídeos hidrolisados e proteína concentrada de leite. A loja informa que contém lactose e não contém glúten.",
@@ -104151,6 +104334,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
+        "emphasis": "Pelos números da tabela, para quem compra pelo menor preço por grama a escolha é a Black Skull, porque ela sai mais barata no whey e na creatina; para quem quer isolado ou Creapure declarado, a escolha é a Dux.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços lidos:"
         ],
@@ -104182,6 +104367,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Black Skull se você escolhe pelo menor preço por grama no whey e na creatina.",
+        "Leve a Dux se você quer whey isolado ou creatina com o selo Creapure declarado."
+      ],
+      "skipIf": [
+        "Passe na Black Skull se você quer isolado: só a Dux tem aqui.",
+        "Passe no Whey 100% HD se você quer só proteína do soro: ele leva blend com outras proteínas."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -104268,7 +104463,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 20/10/2026 no cartão, sem o cupom. Os pares de 900 g são comparados por 100 g de proteína, e o pote de 1,8 kg da Dux entra como linha extra."
+          "No whey, a Max sai mais barata por 100 g de proteína nos três pares. Preços de 20/10/2026 no cartão, sem o cupom; o pote de 1,8 kg da Dux entra como linha extra."
         ],
         "comparisonTable": {
           "headers": [
@@ -104370,7 +104565,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sabores, ingredientes e alérgenos",
         "paragraphs": [
-          "Os ingredientes de cada linha, segundo as tabelas das páginas:"
+          "Os ingredientes de cada linha, nas tabelas das páginas:"
         ],
         "bullets": [
           "[Max 100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p): WPC, aromatizante, lecitina de soja e sucralose. A página lista quatro sabores: baunilha, chocolate, cookies & cream e morango.",
@@ -104387,7 +104582,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g e por dose",
         "paragraphs": [
-          "Preços no cartão, sem o cupom. Todas as creatinas da tabela são monohidratadas. A Max usa dose de 5 g nos potes desta comparação. A Dux usa 5 g na monohidratada e 3 g na linha Creapure."
+          "Na creatina, o pote de 500 g da Max é o mais barato por grama, com ou sem cupom. Preços no cartão, sem o cupom; todas as creatinas da tabela são monohidratadas. A Max usa dose de 5 g nos potes desta comparação. A Dux usa 5 g na monohidratada e 3 g na linha Creapure."
         ],
         "images": [
           {
@@ -104440,7 +104635,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creapure contra Creapure",
         "paragraphs": [
-          "As duas lojas declaram o selo Creapure. A [Creatina Creapure de 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) tem dose de 5 g e 50 doses. A Dux vende a linha 100% Creapure de 300 g, com dose de 3 g, meio dosador, e 100 doses. A página da Dux diz que a creatina é \"100% Creapure\" e tem matéria-prima alemã. Não fizemos checagem independente do selo.",
+          "As duas lojas declaram o selo Creapure. A [Creatina Creapure de 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) tem dose de 5 g e 50 doses. A Dux vende a linha 100% Creapure de 300 g, com dose de 3 g, meio dosador, e 100 doses. A página da Dux diz que a creatina é \"100% Creapure\" e tem matéria-prima alemã.",
           "Pelo Pix, a [Creapure da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) sai a R$ 54,28 por 100 g, e a da Dux, a R$ 87,05. A diferença por grama é de 38%. Com o cupom no teto, a da Max cai para R$ 48,85. Por dose, a da Dux fica R$ 0,10 abaixo: R$ 2,61 contra R$ 2,71 no Pix, porque a dose dela é menor. A conta por grama não depende da dose, e por isso ela é a comparação que vale.",
           "A tabela da Dux traz a linha \"contém glúten\" na creatina Creapure. Confira o rótulo."
         ]
@@ -104448,7 +104643,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Multivitamínico: preço por dia e valor diário",
         "paragraphs": [
-          "Os dois são de 90 cápsulas. A Max pede três cápsulas por dia, e a Dux, uma. Por isso a conta é por dia, e não por cápsula."
+          "No multivitamínico, a Dux sai mais barata por dia. Os dois são de 90 cápsulas: a Max pede três por dia, e a Dux, uma. Por isso a conta é por dia, e não por cápsula."
         ],
         "images": [
           {
@@ -104486,7 +104681,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Preços no cartão. No Pix, o [Multimax](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p) sai a R$ 1,85 por dia (R$ 1,66 com o cupom no teto), e o da Dux, a R$ 0,84.",
-          "Uma cápsula da Dux chega a 100% do valor diário de vitamina A, D e C, segundo a própria tabela. A Max pede três cápsulas para chegar aos percentuais da tabela dela. A tabela da Max traz mais minerais, como cálcio, magnésio e fósforo. A tabela da Dux traz cinco minerais: cobre, cromo, ferro, selênio e zinco."
+          "Uma cápsula da Dux chega a 100% do valor diário de vitamina A, D e C, pela tabela da página. A Max pede três cápsulas para chegar aos percentuais da tabela dela. A tabela da Max traz mais minerais, como cálcio, magnésio e fósforo. A tabela da Dux traz cinco minerais: cobre, cromo, ferro, selênio e zinco."
         ]
       },
       {
@@ -104596,6 +104791,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
+        "emphasis": "Pelos números da tabela, para whey, creatina e pré-treino pelo menor preço a escolha é a Max, porque ela sai mais barata por grama e por dose; para multivitamínico pelo menor custo por dia, a escolha é a Dux.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços:"
         ],
@@ -104625,6 +104822,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Max se você escolhe whey, creatina ou pré-treino pelo menor preço por grama ou por dose.",
+        "Leve a Dux se você quer multivitamínico pelo menor custo por dia ou pré-treino sem cafeína."
+      ],
+      "skipIf": [
+        "Passe na Max se você evita sucralose no whey: o FreshWhey da Dux usa stévia e taumatina.",
+        "Passe na Dux se o preço por grama decide: ela sai mais cara no whey, na creatina e no pré-treino."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -104688,7 +104895,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Este texto compara whey e creatina da Probiótica, parceira do site, com o cupom PRO10EMCASACOMCECILIA, e da Dux, que não é parceira, com os preços publicados.",
           "A comparação com a Growth está em [Probiótica ou Growth](/reviews/probiotica-ou-growth). Este texto é o da série contra a Dux, junto com [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Max Titanium ou Dux](/reviews/max-titanium-ou-dux).",
-          "Comparamos o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são sem o frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficam de fora: ninguém da equipe provou os produtos.",
+          "Comparamos o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são sem o frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficam de fora: compare pelo rótulo e pelo preço.",
           "As contas são estas, arredondadas no centavo:"
         ],
         "image": {
@@ -104710,7 +104917,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 20/10/2026 no cartão, sem o cupom.",
+          "No whey, a Probiótica sai mais barata por 100 g de proteína nos dois potes. Preços de 20/10/2026 no cartão, sem o cupom.",
           "A dose da Probiótica tem 20 g de proteína em 30 g, pela tabela nutricional do sabor Baunilha. A página do pote traz outra faixa, de 20 g a 24 g por dose, e a conta não usa essa faixa. A Dux declara 20 g de proteína em 30 g no Baunilha."
         ],
         "comparisonTable": {
@@ -104785,7 +104992,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g",
         "paragraphs": [
-          "Preços no cartão, sem o cupom. A conta usa a monohidratada de 300 g nas duas lojas, com 5 g por dose e 60 doses. A Dux de 600 g fica fora desta tabela."
+          "Na creatina de 300 g, a Probiótica é a mais barata por grama. Preços no cartão, sem o cupom; a conta usa a monohidratada de 300 g nas duas lojas, com 5 g por dose e 60 doses. A Dux de 600 g fica fora desta tabela."
         ],
         "images": [
           {
@@ -104825,7 +105032,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creapure: o que cada loja declara",
         "paragraphs": [
-          "A Dux declara Creapure na linha de 300 g. Segundo a página, a creatina é produzida pela AlzChem, na Alemanha. O selo é declaração da Dux; não checamos a origem. A dose dessa linha é de 3 g, meio dosador. A Probiótica usa o nome Creapure no pote de 150 g, com dose de 5 g e 30 doses.",
+          "A Dux declara Creapure na linha de 300 g. A página diz que a creatina é produzida pela AlzChem, na Alemanha. O selo é declaração da Dux. A dose dessa linha é de 3 g, meio dosador. A Probiótica usa o nome Creapure no pote de 150 g, com dose de 5 g e 30 doses.",
           "Por 100 g, a Creapure da Probiótica sai a R$ 64,59 no Pix (R$ 66,59 no cartão). A da Dux sai a R$ 87,05 no Pix (R$ 91,63 no cartão). Pelo preço por grama, a Probiótica fica cerca de 26% abaixo no Pix. Quem quer o selo declarado pela Dux paga por ele; quem compara por grama de creatina, não.",
           "Esta comparação não trata de efeito no corpo. Para creatina, o rótulo diz quanto de creatina vem em cada dose e quanto custa."
         ]
@@ -104892,6 +105099,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
+        "emphasis": "Pelos números da tabela, para o menor preço por grama no whey, na creatina e na Creapure a escolha é a Probiótica, porque ela sai mais barata nas três; para a lista de ingredientes mais enxuta, a escolha é a Dux.",
+        "emphasisAfterParagraph": 1,
         "bullets": [
           "Quer o menor preço por 100 g de proteína no whey: [100% Pure Whey, pote de 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p), a R$ 40,82 no Pix, ou R$ 36,74 com o cupom no teto.",
           "Quer o refil de 900 g: [100% Pure Whey Refil, 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p), a R$ 38,10 no Pix, ou R$ 34,29 com o cupom no teto.",
@@ -104917,6 +105126,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Probiótica se você escolhe pelo menor preço por grama no whey, na creatina e na Creapure.",
+        "Leve a Dux se você quer a creatina de um ingrediente só ou o whey Neutro, sem sabor."
+      ],
+      "skipIf": [
+        "Passe na Dux se o preço por grama decide: ela sai mais cara nas três linhas.",
+        "Passe na Probiótica se você quer a creatina de um ingrediente só: a de 300 g dela lista antiumectante."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -105004,7 +105223,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a Mais Mu vende",
         "paragraphs": [
           "A loja vende whey concentrado, proteína vegetal, creatina, o pré-treino Exquenta, barras, Chocowheyfer, bebidas proteicas e snacks salgados.",
-          "Este texto não avalia os produtos. Saber se um whey ou uma creatina é bom pediria laudo ou teste, e não temos nenhum dos dois. O que dá para conferir aqui é quem vende, se o site é o oficial e o que acontece se você precisar trocar.",
+          "Este texto não avalia os produtos. O que dá para conferir aqui é quem vende, se o site é o oficial e o que acontece se você precisar trocar.",
           "O site também indica lojas físicas que vendem a marca, em um mapa. A página não traz os nomes das lojas."
         ],
         "images": [
@@ -105020,7 +105239,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas e devolução",
         "paragraphs": [
-          "As regras de troca e devolução estão na FAQ da loja:"
+          "A troca começa por e-mail, com o produto fechado, e a loja paga o recolhimento:"
         ],
         "comparisonTable": {
           "headers": [
@@ -105054,7 +105273,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reembolso e estorno",
         "paragraphs": [
-          "O prazo do dinheiro de volta muda conforme a forma de pagamento:"
+          "O prazo do dinheiro de volta muda com a forma de pagamento:"
         ],
         "bullets": [
           "Pix e boleto: reembolso em até 7 dias úteis depois do envio dos dados bancários.",
@@ -105067,7 +105286,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e pagamento",
         "paragraphs": [
-          "O frete grátis depende da região. O site dava frete grátis a partir dos valores abaixo:"
+          "O frete grátis vale acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste:"
         ],
         "comparisonTable": {
           "headers": [
@@ -105141,7 +105360,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MMEMCASACOMCECILIA",
     "affiliate": "mais-mu",
-    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
+    "editorialNote": "Feito com fontes públicas, sem laudo nem teste dos produtos. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
     "relatedArticles": [
       {
         "slug": "mais-mu-reclame-aqui-nota-reputacao",
@@ -105194,13 +105413,13 @@ export const reviewsData: unknown[] = [
         "heading": "Por que olhar o Reclame Aqui antes de comprar",
         "paragraphs": [
           "Toda loja recebe reclamações. O que importa é a proporção: quantas são respondidas, quantas são resolvidas e quanta gente voltaria a comprar. Os números abaixo são do perfil público da Mais Mu e mudam todos os dias. Confira de novo no dia da compra.",
-          "O CNPJ da empresa, 21.526.148/0001-34, está ativo desde 05/12/2014, segundo a BrasilAPI. O tempo de empresa não diz tudo. Para quem compra agora, pesa mais a reputação recente."
+          "O CNPJ da empresa, 21.526.148/0001-34, está ativo desde 05/12/2014 na consulta pública. O tempo de empresa não diz tudo. Para quem compra agora, pesa mais a reputação recente."
         ]
       },
       {
         "heading": "Os números da Mais Mu no Reclame Aqui",
         "paragraphs": [
-          "O perfil aparece como Mais Mu, na categoria Suplementos Alimentares e Fórmulas. A reputação nas três abas do Reclame Aqui era esta, na leitura de 20/10/2026:"
+          "O perfil é o Mais Mu, em Suplementos Alimentares e Fórmulas. Na leitura de 20/10/2026, a aba de 6 meses é a mais fraca das três:"
         ],
         "images": [
           {
@@ -105290,7 +105509,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como a reputação mudou",
         "paragraphs": [
           "No gráfico de histórico dos últimos 6 meses, os dois primeiros pontos estão em Boa e os quatro seguintes em Regular. A reputação saiu de Boa para Regular no meio desse período.",
-          "A aba de 12 meses segue em Boa, com nota 7,2, porque inclui também os seis meses anteriores, do período anterior. O gráfico não mostra as causas da mudança. Ele mostra só quando a faixa mudou."
+          "A aba de 12 meses segue em Boa, com nota 7,2, porque inclui os seis meses anteriores a esses. O gráfico não mostra as causas da mudança. Ele mostra só quando a faixa mudou."
         ],
         "images": [
           {
@@ -105305,7 +105524,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais aparece nas reclamações",
         "paragraphs": [
-          "Na aba geral, o Reclame Aqui lista as categorias e os problemas das reclamações de até 3 anos. Os mais citados são:"
+          "Entrega e recebimento são a principal fonte de reclamação. Na aba geral, de até 3 anos, os mais citados são:"
         ],
         "images": [
           {
@@ -105342,7 +105561,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que fazer se o pedido der problema",
         "paragraphs": [
-          "A regra vem da própria loja, no FAQ e na página de contato. O canal de atendimento é o e-mail fala.ai@maismu.com.br."
+          "O canal de atendimento é o e-mail fala.ai@maismu.com.br, pelo FAQ e pela página de contato da loja."
         ],
         "bullets": [
           "Atraso, endereço errado, pedido avariado ou item faltando: acompanhe o rastreio no rastreae.com.br, com o código do e-mail ou o CPF, e escreva para fala.ai@maismu.com.br com o número do pedido.",
@@ -105535,7 +105754,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O desconto de 10% entrou também na creatina, que já estava em oferta. No teste, o cupom somou com a promoção. Foi um carrinho com dois itens, então ele não mostra todos os casos. Confira a linha do desconto no seu carrinho."
+          "No teste, os 10% entraram também na creatina, que já estava em oferta. Foi um carrinho com dois itens, então ele não mostra todos os casos. Confira a linha do desconto no seu carrinho."
         ],
         "image": {
           "src": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
@@ -105548,7 +105767,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis com o cupom",
         "paragraphs": [
-          "A Mais Mu dá frete grátis a partir de um valor que depende da região. Na faixa do topo do site, estavam estes valores:"
+          "O frete grátis depende da região, e o cupom pode tirar o pedido do mínimo. Estes eram os valores na faixa do topo do site:"
         ],
         "comparisonTable": {
           "headers": [
@@ -105672,7 +105891,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando começa a Black Friday da Mais Mu?",
         "paragraphs": [
-          "A loja não tem data de Black Friday. Até a última leitura, a home do site não traz campanha de novembro. Também não encontramos página de campanha nos endereços do sitemap que conferimos.",
+          "A loja não tem data de Black Friday. Até a última leitura, a home do site não traz campanha de novembro. Também não há página de campanha nos endereços do sitemap que conferimos.",
           "O calendário é outro assunto: a Black Friday de 2026 cai em 27/11/2026, e a Cyber Monday, em 30/11/2026. São as datas do calendário, não da loja.",
           "Se a Mais Mu anunciar uma campanha, a data, as regras e o que o cupom faz nela entram aqui, com a data da atualização."
         ]

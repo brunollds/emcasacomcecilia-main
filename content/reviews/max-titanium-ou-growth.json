@@ -33,7 +33,7 @@
     {
       "heading": "Como comparamos",
       "paragraphs": [
-        "Esta comparação cobre whey (concentrado e isolado), creatina e hipercalórico da Max Titanium, parceira do site, e da Growth, que não é parceira. Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No cartão, usamos o total que cada página mostra: o parcelamento não muda esse total.",
+        "A régua é o preço por 100 g de proteína, por grama de creatina e por 1.000 kcal. Esta comparação cobre whey (concentrado e isolado), creatina e hipercalórico da Max Titanium, parceira do site, e da Growth, que não é parceira. Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No cartão, usamos o total que cada página mostra: o parcelamento não muda esse total.",
         "Conta nossa, pelos preços do cartão e pelas tabelas das lojas, arredondada no centavo:"
       ],
       "image": {
@@ -58,7 +58,7 @@
     {
       "heading": "Whey: proteína por dose e preço por 100 g de proteína",
       "paragraphs": [
-        "Preços de 18/10/2026 no cartão, sem o cupom."
+        "No concentrado, a Growth sai mais barata por 100 g de proteína; o 3W é o mais caro da tabela. Preços de 18/10/2026 no cartão, sem o cupom."
       ],
       "comparisonTable": {
         "headers": [
@@ -110,7 +110,7 @@
     {
       "heading": "Whey concentrado: 100% Whey Refil da Max ou Whey Concentrado da Growth",
       "paragraphs": [
-        "Essa é a comparação direta: no 100% Whey Refil e no Whey Concentrado da Growth, a proteína é só a concentrada do soro do leite (WPC), e a dose é de 30 g. Sem cupom, a Growth sai R$ 3,90 mais barata por 100 g de proteína no Pix (R$ 26,34 contra R$ 30,24). Com o cupom no teto, a Max cai para R$ 27,21, ainda R$ 0,87 acima. No cartão, a diferença fica em R$ 29,26 da Growth contra R$ 31,17 da Max.",
+        "No par direto, os dois têm só WPC em dose de 30 g, e a Growth sai mais barata por 100 g. Sem cupom, a Growth sai R$ 3,90 mais barata por 100 g de proteína no Pix (R$ 26,34 contra R$ 30,24). Com o cupom no teto, a Max cai para R$ 27,21, ainda R$ 0,87 acima. No cartão, a diferença fica em R$ 29,26 da Growth contra R$ 31,17 da Max.",
         "Na Growth, o sabor Natural entrega 1 g a mais de proteína por dose pelo mesmo preço do pote: R$ 25,24 por 100 g no Pix, sem cupom. Quem compra pelo menor custo por grama prefere o Natural."
       ],
       "images": [
@@ -126,7 +126,7 @@
     {
       "heading": "Whey isolado: IsoWhey 900 g da Max contra o Whey Isolado da Growth",
       "paragraphs": [
-        "A Max tem um isolado, o IsoWhey 900 g, e a Growth tem o (TOP) Whey Protein Isolado 1 kg."
+        "No isolado, a Max ganha no cartão e com cupom; a Growth só passa no Pix sem cupom. A Max tem um isolado, o IsoWhey 900 g, e a Growth tem o (TOP) Whey Protein Isolado 1 kg."
       ],
       "comparisonTable": {
         "headers": [
@@ -359,6 +359,7 @@
     },
     {
       "heading": "Para quem cada um faz sentido",
+      "emphasis": "Pelos números da tabela, para quem compra concentrado e creatina a escolha é a Growth, porque ganha por 100 g sem cupom.",
       "bullets": [
         "**Quer o menor preço por 100 g de proteína no whey concentrado:** a Growth Whey Concentrado 1 kg, a R$ 26,34 no Pix, sem cupom. A Max chega perto com o cupom (R$ 27,21), mas não passa a Growth.",
         "**Quer o whey de soro do leite que é o par direto da Growth:** o 100% Whey Refil da Max, que com o cupom fica a R$ 27,21 por 100 g de proteína, contra R$ 26,34 da Growth sem cupom.",
@@ -383,6 +384,18 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Growth se você quer whey concentrado ou creatina refil pelo menor preço por grama.",
+      "Leve a Max se você quer hipercalórico pelo menor preço por caloria.",
+      "Leve o IsoWhey da Max se você compra isolado e vai usar o cupom."
+    ],
+    "skipIf": [
+      "Passe no Top Whey 3W se o preço por grama de proteína decide: ele é o mais caro da tabela.",
+      "Passe na Growth se você vai pagar no cartão: o cartão sai mais caro que o Pix.",
+      "Passe na Creapure da Max se o preço por grama decide: é a mais cara das creatinas."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
