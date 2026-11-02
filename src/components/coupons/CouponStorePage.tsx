@@ -20,6 +20,7 @@ import {
   couponFontVariables,
 } from './CouponBlocks';
 import { OtherCouponCard } from './CouponCards';
+import { StorePageBanners } from './StorePageBanners';
 import { COUPON_STORE_COPY, type CouponStoreCopy } from './couponStoreCopy';
 import {
   CompactCopyButton,
@@ -413,6 +414,8 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
             </section>
           )}
 
+          <StorePageBanners affiliate={coupon.slug} brand={coupon.brand} locale={locale} />
+
           <section aria-labelledby="regras">
             <SectionHeading id="regras">{copy.rulesTitle}</SectionHeading>
             <RuleList rules={rules} />
@@ -435,36 +438,6 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                 <p className="mt-2 text-xs font-semibold leading-4 text-marinho-suave">
                   {copy.referralVerified(formatShortDate(coupon.referral.verifiedAt))}
                 </p>
-              </div>
-            </section>
-          )}
-
-          {coupon.campaigns && coupon.campaigns.length > 0 && (
-            <section aria-labelledby="campanhas">
-              <SectionHeading id="campanhas">{copy.campaignsTitle(coupon.brand)}</SectionHeading>
-              <div className="mt-5 grid gap-3 md:grid-cols-2">
-                {coupon.campaigns.map((campaign) => (
-                  <article key={`${campaign.code}-${campaign.offerUrl}`} className="flex flex-col rounded-xl border-2 border-marinho p-4">
-                    <h3 className="text-lg font-extrabold leading-6">{campaign.title}</h3>
-                    <code className="mt-3 self-start rounded-lg border-2 border-dashed border-marinho bg-amarelo-cupom px-3 py-1.5 font-codigo text-sm font-extrabold tracking-[0.06em]">
-                      {campaign.code}
-                    </code>
-                    <p className="mt-3 text-sm font-medium leading-[21px] text-marinho-suave">{campaign.description}</p>
-                    <p className="mt-2 text-xs font-medium leading-[18px] text-marinho-suave">{campaign.eligibility}</p>
-                    <CouponStoreLink
-                      href={campaign.offerUrl}
-                      brand={coupon.brand}
-                      placement="coupon_page"
-                      className={`mt-4 ${PRIMARY_ACTION}`}
-                    >
-                      {copy.openCampaign(coupon.brand)}
-                      <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-                    </CouponStoreLink>
-                    <p className="mt-3 text-[11px] font-semibold leading-4 text-marinho-suave">
-                      {copy.campaignVerified(formatShortDate(campaign.verifiedAt))}
-                    </p>
-                  </article>
-                ))}
               </div>
             </section>
           )}

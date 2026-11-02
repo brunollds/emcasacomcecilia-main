@@ -2,6 +2,7 @@ import { CalendarDays, ExternalLink, Layers, ShoppingBag, Truck } from 'lucide-r
 import { CouponDock } from '@/components/coupons/CouponActions';
 import { AmountFigure, BODY_TEXT, CouponFaq, FOCUS_RING, SectionHeading, couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
+import { StorePageBanners } from '@/components/coupons/StorePageBanners';
 import {
   CompactCopyButton,
   CutoutCode,
@@ -168,6 +169,8 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
               </div>
             )}
           </section>
+
+          <StorePageBanners affiliate="yesstyle" brand="YesStyle" locale={resolved.locale} />
 
           <section aria-labelledby="como-funcionam">
             <SectionHeading id="como-funcionam">{resolved.policyTitle}</SectionHeading>
