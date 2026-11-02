@@ -34,7 +34,7 @@
     {
       "heading": "O que tem no Outlet masculino",
       "paragraphs": [
-        "O Outlet da Insider é a página em que a loja junta as peças em fim de linha: cores e modelos que saíram do catálogo, com “até 50% OFF”, segundo a loja, nas últimas unidades e sem reposição. Quando uma cor acaba num tamanho, aquela combinação some da página e não volta.",
+        "O Outlet da Insider é a página em que a loja junta as peças em fim de linha: cores e modelos que saíram do catálogo, com “até 50% OFF” nas últimas unidades e sem reposição, diz a página. Quando uma cor acaba num tamanho, aquela combinação some da página e não volta.",
         "No filtro masculino aparecem seis produtos, e um deles, a Camiseta Oversized Comfy InLounge, já está esgotado. Sobram cinco à venda, em dois grupos: três camisetas Tech T-Shirt (gola redonda, gola V e manga longa) e duas peças de treino, a Regata InTech e o Short Esportivo Endorphine. Todas estão com 40% ou 41% de desconto sobre o preço riscado, e o cupom EMCASACOMCECILIA tira mais 15% por cima.",
         "Os dois grupos vêm a seguir, cada um com o preço no Outlet, o preço com o cupom e as cores e os tamanhos que sobraram. Preços de 31/10/2026, no cartão."
       ],
@@ -52,7 +52,7 @@
     {
       "heading": "Camisetas Tech T-Shirt: gola redonda, gola V e manga longa",
       "paragraphs": [
-        "A Tech T-Shirt é a camiseta principal da Insider, e as três do Outlet são a mesma peça em três versões: gola redonda, gola V e manga longa. Segundo a loja, o tecido é 92% modal e 8% elastano (na cor Indigo, 62% modal, 30% viscose e 8% elastano), não desbota, desamassa no corpo e é antiodor, com garantia de 2 anos contra desbotamento.",
+        "A Tech T-Shirt é a camiseta principal da Insider, e aqui a escolha é de gola e manga: as três do Outlet são a mesma peça em gola redonda, gola V e manga longa. O tecido é 92% modal e 8% elastano (na cor Indigo, 62% modal, 30% viscose e 8% elastano), diz a página: não desbota, desamassa no corpo e é antiodor, com garantia de 2 anos contra desbotamento.",
         "A gola redonda é a que tem mais cores e tamanhos. A gola V custa o mesmo, mas ficou só com Flame Red e Beetroot. A manga longa, de inverno e meia-estação, é a mais cara do grupo e a de grade mais curta. As duas de manga curta são o menor preço por camiseta de todo o Outlet masculino."
       ],
       "comparisonTable": {
@@ -166,7 +166,7 @@
       "heading": "Para o treino: Regata InTech e Short Esportivo Endorphine",
       "paragraphs": [
         "A Regata InTech é a Tech T-Shirt sem mangas, no mesmo tecido de modal, e é a peça mais barata de todo o Outlet masculino, com a grade mais cheia da página: Preto e Nori Green vão do PP ao XXGG. O Short Esportivo Endorphine é a peça mais cara e a única com etiqueta de lançamento.",
-        "Segundo a loja, o Endorphine é um short leve de comprimento médio, com bolsos laterais e cordão interno na cintura, em poliamida com elastano, de toque gelado e secagem rápida. Regata e short juntos fazem um conjunto de treino inteiro saído do Outlet."
+        "O Endorphine é um short leve de comprimento médio, diz a página, com bolsos laterais e cordão interno na cintura, em poliamida com elastano, de toque gelado e secagem rápida. Regata e short juntos fazem um conjunto de treino inteiro saído do Outlet."
       ],
       "comparisonTable": {
         "headers": [
@@ -291,12 +291,13 @@
       ],
       "postParagraphs": [
         "Se nada disso está no seu tamanho, o kit de Tech T-Shirt resolve com escolha total de cor e tamanho, por um pouco mais por camiseta."
-      ]
+      ],
+      "emphasis": "No Outlet masculino, a escolha é a Tech T-Shirt de gola redonda, porque é a mais barata das camisetas e a de grade mais cheia."
     },
     {
       "heading": "Tamanhos e trocas",
       "paragraphs": [
-        "Segundo a política da Insider, a roupa troca por tamanho ou insatisfação em 21 dias corridos, com a peça nova, sem marcas de uso e com a etiqueta.",
+        "A política da Insider troca a roupa por tamanho ou insatisfação em 21 dias corridos, com a peça nova, sem marcas de uso e com a etiqueta.",
         "A grade é curta. Confira o seu tamanho na tabela e no [guia de medidas](/reviews/tabela-de-medidas-insider) antes de pagar: em várias cores sobra um tamanho só, e a troca depende de haver outro tamanho na loja.",
         "Para as peças femininas, veja [Outlet Insider feminino: o que vale a pena e quanto sai com o cupom](/reviews/outlet-insider-feminino-vale-a-pena)."
       ]
@@ -344,5 +345,16 @@
       "slug": "tabela-de-medidas-insider",
       "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Quem acha o seu tamanho na grade da cor que quer.",
+      "Quem quer Tech T-Shirt de manga curta pelo menor preço por camiseta."
+    ],
+    "skipIf": [
+      "Quem não acha o seu tamanho na cor que quer: o Outlet não repõe.",
+      "Quem veste M ou G e quer a manga longa: a grade dela é a mais curta, com PP, P e XGG na maioria das cores.",
+      "Quem quer escolher cor e tamanho livremente: o kit de Tech T-Shirt resolve."
+    ]
+  }
 }

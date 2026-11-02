@@ -59,7 +59,7 @@
     {
       "heading": "Os três lado a lado",
       "paragraphs": [
-        "A tabela junta o que cada página mostra em 30/10/2026: tamanhos, estoque, cores e o preço do cartão, sem cupom. O nome do modelo leva à página dele."
+        "Os três custam o mesmo e a diferença é a faixa de tamanho, com estoque, cores e preço na tabela. O nome do modelo leva à página dele."
       ],
       "comparisonTable": {
         "headers": [
@@ -97,7 +97,7 @@
     {
       "heading": "Comfort Up: a faixa maior",
       "paragraphs": [
-        "O Comfort Up é o que tem mais tamanhos: do PP (34-36) ao G3 (54-56), com G2 e G3, que os outros dois não têm. A página fala em “equilíbrio perfeito entre sustentação e bem-estar” e diz que o conforto vem “sem aros que machucam”.",
+        "O Comfort Up é o que tem mais tamanhos: do PP (34-36) ao G3 (54-56), com G2 e G3, que os outros dois não têm.",
         "A página diz que o ajuste de tamanho fica nas costas e que a peça não tem aros. A foto de costas mostra o fecho com ganchos e as alças com regulagem."
       ],
       "images": [
@@ -120,7 +120,7 @@
     {
       "heading": "Comfort Line: tomara que caia e alças",
       "paragraphs": [
-        "A loja chama o Line de “o mais versátil da nossa linha”: dá para usar como tomara que caia ou combinar as alças. Ele não tem PP. A tabela começa no P (38-40) e vai até o G1 (46-48).",
+        "O Line é o versátil: dá para usar como tomara que caia ou combinar as alças. Ele não tem PP. A tabela começa no P (38-40) e vai até o G1 (46-48).",
         "Uma das fotos da loja lista faixas de silicone antideslizantes, alças multiuso e fecho ajustável, e avisa que este modelo tem modelagem menor. Quem usa PP fica com o Comfort Up ou o Comfort Slim."
       ],
       "images": [
@@ -150,7 +150,7 @@
     {
       "heading": "Comfort Slim: o minimalista, do PP ao GG",
       "paragraphs": [
-        "A loja descreve o Slim com “leveza” e “design minimalista e atemporal”, e diz que o modelo serve tanto para esconder o sutiã quanto para aparecer em transparências. Vai do PP (34-36) ao GG (44-46).",
+        "O Slim é o minimalista: esconde sob a roupa ou aparece sob transparência. Vai do PP (34-36) ao GG (44-46).",
         "PP e M estavam com o estoque mais curto, 3 de 5 variantes cada. Se a sua faixa for uma delas, confira antes de decidir."
       ],
       "images": [
@@ -269,7 +269,7 @@
     {
       "heading": "Preço, cupom e frete",
       "paragraphs": [
-        "Os três custam R$ 189,90 no cartão, de R$ 199,90. O preço muda com as campanhas da loja, então confira no site antes de comprar.",
+        "Os três custam R$ 189,90 no cartão, de R$ 199,90.",
         "O cupom MAUAD dá 10% em todo o site da Toda Up, inclusive em produto que já está com desconto. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Para ver todos os cupons da loja, veja [o cupom da Toda Up](/cupons/toda-up).",
         "O frete é calculado pelo CEP, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento, segundo a política de envio. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas."
       ]
@@ -342,7 +342,8 @@
             ]
           }
         ]
-      }
+      },
+      "emphasis": "Se fosse para mim, eu levaria o Comfort Up, porque tem a maior faixa de tamanho, do PP ao G3."
     },
     {
       "heading": "Perguntas frequentes",
@@ -355,5 +356,16 @@
         "O Comfort Slim tem PP e M? Tem, mas com estoque mais curto: 3 de 5 variantes em cada um."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Leve o Comfort Up se usa G2 ou G3 ou quer a maior faixa de tamanho: ele vai do PP ao G3.",
+      "Leve o Comfort Line se quer tomara que caia ou alças combinadas e usa a partir do P.",
+      "Leve o Comfort Slim se quer o modelo minimalista, do PP ao GG."
+    ],
+    "skipIf": [
+      "Passe no Line se usa PP: a tabela dele começa no P.",
+      "Não escolha só pelo número se a sua medida fica entre duas faixas: compare o sob busto e o busto de cada modelo na tabela."
+    ]
+  }
 }

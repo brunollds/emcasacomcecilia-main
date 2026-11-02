@@ -32,16 +32,9 @@
       ]
     },
     {
-      "heading": "Como lemos os preços",
-      "paragraphs": [
-        "Os preços são os do cartão, lidos na API pública da loja em 30/10/2026. O preço de lista é o valor riscado na página do produto. A faixa segue o preço do cartão, e o carrinho é a referência final, porque preço e estoque mudam.",
-        "Ninguém do site usou estas peças. A lista mostra o que a loja vende e por quanto, e não qual peça é boa de uso. Quando a página do produto traz medida, o texto diz que a medida é da loja."
-      ]
-    },
-    {
       "heading": "Até R$ 100",
       "paragraphs": [
-        "Esta faixa tem carteira, nécessaire, bolsa de viagem e uma mochila para notebook. Todas as peças estavam disponíveis na API da loja."
+        "Esta faixa tem carteira, nécessaire, bolsa de viagem e uma mochila para notebook. Todas as peças estavam disponíveis na loja."
       ],
       "comparisonTable": {
         "headers": [
@@ -70,7 +63,8 @@
             "R$ 79,90",
             "R$ 119,90"
           ]
-        ]
+        ],
+        "caption": "Preço de cartão, lido na loja em 30/10/2026; a lista é o valor riscado na página do produto. O carrinho é a referência final, porque preço e estoque mudam."
       },
       "images": [
         {
@@ -83,12 +77,14 @@
       ],
       "postParagraphs": [
         "A Horizonte tem 45 × 39 × 11 cm. Para comparar as mochilas de notebook da loja por uso, veja [mochila de notebook Bagaggio: qual escolher](/reviews/mochila-notebook-bagaggio-qual-escolher)."
-      ]
+      ],
+      "emphasis": "Se o presente fosse meu, eu levaria a mochila Horizonte, porque resolve o presente por menos de cem reais.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "De R$ 100 a R$ 250",
       "paragraphs": [
-        "Aqui entram nécessaires, uma carteira de couro com fecho em botão e mochilas executivas para notebook. Os preços são do cartão."
+        "De cem a duzentos e cinquenta, o presente sobe para nécessaire, couro e mochila executiva. Os preços são do cartão."
       ],
       "comparisonTable": {
         "headers": [
@@ -208,7 +204,7 @@
     {
       "heading": "Mochilas de notebook e malas",
       "paragraphs": [
-        "As mochilas de notebook desta lista são a Slim Horizonte, de R$ 79,90 no cartão, a Antifurto Urban, de R$ 129,90, e a Joá Preto, de R$ 599,90. Para comparar as mochilas de notebook por uso e por preço, veja [mochila de notebook Bagaggio: qual escolher](/reviews/mochila-notebook-bagaggio-qual-escolher).",
+        "As três mochilas de notebook da lista, da mais barata à mais cara, estão comparadas por uso e preço em [mochila de notebook Bagaggio: qual escolher](/reviews/mochila-notebook-bagaggio-qual-escolher).",
         "Malas não entram nas tabelas. A comparação de mala de bordo, com preço e medida, está em [mala de bordo Bagaggio: qual compensa](/reviews/mala-de-bordo-bagaggio-qual-compensa)."
       ]
     },
@@ -223,7 +219,7 @@
       "heading": "Cupom e Pix",
       "paragraphs": [
         "O CECILIA10 dá 10% no site da Bagaggio, inclusive em produto com desconto. A regra completa está na [página do cupom Bagaggio](/cupons/bagaggio). A promoção de 50% na segunda peça é um cupom e não soma com o CECILIA10.",
-        "No Pix, a loja mostra 5% a mais. No nosso teste de carrinho, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Não testamos o cupom nesta lista de peças, então não damos valor final com cupom: confira o resumo do pedido antes de pagar."
+        "No Pix, a loja mostra 5% a mais. No nosso teste de carrinho, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Confira o resumo do pedido antes de pagar."
       ]
     },
     {
@@ -247,7 +243,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+  "editorialNote": "Feito com as fichas públicas da loja. O cupom não foi testado nas peças da lista. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
       "slug": "black-friday-bagaggio",
@@ -261,5 +257,15 @@
       "slug": "cupom-bagaggio-como-usar",
       "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "O presente é até cem reais: carteira, nécessaire, bolsa de viagem e a mochila Horizonte para notebook entram nessa faixa.",
+      "O presente é de cem a duzentos e cinquenta reais: a faixa traz carteira de couro e mochila executiva."
+    ],
+    "skipIf": [
+      "A ideia é ganhar desconto no kit Joá: ele custa a soma das peças, sem desconto próprio.",
+      "A ideia é somar a promoção da segunda peça com o CECILIA10: ela é outro cupom e não soma."
+    ]
+  }
 }

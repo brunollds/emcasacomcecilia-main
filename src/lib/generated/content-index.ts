@@ -160526,7 +160526,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o Body Splash Solar Muse",
         "paragraphs": [
-          "O [Body Splash Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é um spray corporal de 100 ml, segundo a ficha da Skelt. A loja o chama de \"o novo Body Splash da Skelt\" na ficha de um dos kits, e o slogan é \"Quente como você chega\". Ninguém do site usou o produto: tudo o que este guia diz sobre a fragrância é o que a Skelt publica.",
+          "Quem quer Solar Muse vai de avulso: [Body Splash Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), spray de 100 ml. A loja o chama de \"o novo Body Splash da Skelt\" na página de um kit, e o slogan é \"Quente como você chega\". Tudo o que este guia diz sobre a fragrância é o que a Skelt publica.",
           "O perfil olfativo da ficha é \"Solar, Cítrico e Adocicado (Floral Frutado Solar)\". A descrição fala em \"abertura luminosa e vibrante\", que \"evolui para um corpo floral quente e envolvente\" e termina num \"fundo magnético\". No campo Mood, a loja escreve que ele é \"para quem busca uma presença quente, confiante e sofisticada\" e o descreve como \"o verdadeiro cheiro da mulher brasileira\". Para comparar com as outras nove fragrâncias, veja o [guia de qual body splash Skelt escolher](/reviews/body-splash-skelt-qual-escolher).",
           "A ficha declara o produto dermatologicamente testado, vegano, cruelty free e livre de parabenos e óleo mineral. Na Skelt não existe perfume Solar Muse: a fragrância aparece só no body splash, avulso ou dentro dos conjuntos."
         ],
@@ -160543,7 +160543,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Notas do Solar Muse: topo, meio e fundo",
         "paragraphs": [
-          "A página do produto traz a pirâmide em três cartões, e as fichas de cinco conjuntos repetem as mesmas notas. Segundo a Skelt:"
+          "A página do produto traz a pirâmide em três cartões, e cinco conjuntos repetem as notas nas páginas. A Skelt publica:"
         ],
         "bullets": [
           "Topo: abacaxi rosa, água de coco e folhas de palmeira. A loja diz que \"trazem uma abertura luminosa, fresca e tropical\".",
@@ -160566,14 +160566,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar e quanto dura, segundo a ficha",
         "paragraphs": [
-          "O modo de uso da ficha manda borrifar sobre todo o corpo, concentrando em pescoço, pulsos, dobras dos cotovelos e atrás das orelhas. A ficha sugere aplicar depois de passar um Body Cream Skelt. A Skelt não vende hidratante Solar Muse; os hidratantes e as fragrâncias de cada um estão no [guia dos hidratantes corporais Skelt](/reviews/hidratante-corporal-skelt-qual-fragrancia).",
-          "Sobre duração, a ficha fala em \"alta concentração de fragrância\", \"alta projeção\" e \"fixação prolongada\", sem tempo em horas. A página do Solar Muse não fala em uso no rosto."
+          "O modo de uso da página manda borrifar no corpo todo, concentrando em pescoço, pulsos, dobras dos cotovelos e atrás das orelhas. A ficha sugere aplicar depois de passar um Body Cream Skelt. A Skelt não vende hidratante Solar Muse; os hidratantes e as fragrâncias de cada um estão no [guia dos hidratantes corporais Skelt](/reviews/hidratante-corporal-skelt-qual-fragrancia).",
+          "Sobre duração, a página traz \"alta concentração de fragrância\", \"alta projeção\" e \"fixação prolongada\", sem tempo em horas. A página do Solar Muse não fala em uso no rosto."
         ]
       },
       {
         "heading": "Preço do avulso e dos oito conjuntos",
         "paragraphs": [
-          "A tabela traz o preço de cada ficha, sem cupom e sem o desconto do Pix, e a soma dos mesmos produtos comprados avulsos. Os avulsos usados na conta: body splash de 100 ml a R$ 99,90, Body Cream de 200 g a R$ 99,90 e perfume para cabelos Amalfi Sunset de 140 ml a R$ 79,90."
+          "A tabela traz o preço de cada item, sem cupom e sem o desconto do Pix, e a soma dos mesmos avulsos. Os avulsos usados na conta: body splash de 100 ml a R$ 99,90, Body Cream de 200 g a R$ 99,90 e perfume para cabelos Amalfi Sunset de 140 ml a R$ 79,90."
         ],
         "comparisonTable": {
           "headers": [
@@ -160740,10 +160740,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o Body Splash Milos Breeze",
         "paragraphs": [
-          "Ninguém do site usou o Milos Breeze. Tudo o que vem abaixo é o que a Skelt publica na ficha do produto, e as contas são nossas, sobre o preço do dia.",
+          "Tudo o que vem abaixo é o que a Skelt publica na página do produto, e as contas são nossas, sobre o preço do dia.",
           "O [Body Splash Milos Breeze](https://www.skelt.com.br/body-splash-milos-breeze/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é um spray de 100 ml. A ficha resume a fragrância como \"Frescor com a energia do verão grego\" e diz que \"o mar azul da Grécia é a principal inspiração\", com \"notas aquosas e intensas\". As dez fragrâncias de body splash da Skelt, lado a lado, estão no [guia de qual body splash Skelt escolher](/reviews/body-splash-skelt-qual-escolher).",
-          "Segundo a ficha, a fragrância tem \"alta fixação e projeção duradoura\", sem tempo em horas, e é \"ideal para todos os momentos do dia\". O modo de uso da loja: \"Aplique a quantidade suficiente na área da sua escolha. Reaplique sempre que desejar.\"",
-          "A ficha declara o produto vegano, cruelty free, livre de parabenos e óleo mineral e dermatologicamente testado. A composição publicada começa por álcool etílico, seguido de água e perfume, e termina em citral."
+          "A página anuncia \"alta fixação e projeção duradoura\", sem tempo em horas, e chama a fragrância de \"ideal para todos os momentos do dia\". O modo de uso da loja: \"Aplique a quantidade suficiente na área da sua escolha. Reaplique sempre que desejar.\"",
+          "A página declara o produto vegano, cruelty free, sem parabenos e óleo mineral e dermatologicamente testado. A composição publicada começa por álcool etílico, seguido de água e perfume, e termina em citral."
         ],
         "images": [
           {
@@ -160758,7 +160758,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Notas do Milos Breeze e a diferença para o Grand Bahama",
         "paragraphs": [
-          "A pirâmide que a Skelt publica para o Milos Breeze: no topo, água de coco e acorde aquoso; no meio, frangipani, lírio do vale e mimosa; no fundo, musk, cedro e patchouli. No guia de body splash, ele fica no grupo cítrico e fresco, com o Grand Bahama.",
+          "No papel, o Milos abre em coco e mar e fecha em madeira: topo de água de coco e acorde aquoso, meio de frangipani, lírio do vale e mimosa, fundo de musk, cedro e patchouli. No guia de body splash, ele fica no grupo cítrico e fresco, com o Grand Bahama.",
           "O [Grand Bahama](https://www.skelt.com.br/body-splash-grand-bahama/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é o mais próximo no papel, porque os dois têm água de coco no topo e lírio do vale no meio. Pelas duas fichas, a diferença está nas pontas:"
         ],
         "bullets": [
@@ -160810,8 +160810,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na sacola, o cupom SKEMCASACOMCECILIA tirou 10% do Milos Breeze avulso (R$ 89,91), do trio (R$ 267,93) e do Kit Miniaturas Exotic Set (R$ 89,91), sem promoção da loja nos três. Segundo o teste de carrinho, o cupom soma com os 5% do Pix: pela conta, o avulso sai a R$ 85,41 e o trio, a R$ 254,53. A loja aceita um cupom por pedido, e as condições estão na [página do cupom Skelt](/cupons/skelt).",
-          "A lista do Exotic Set está na ficha do kit e na caixa: Grand Bahama, Pink Sands e Milos Breeze. A ficha do Combo não tem texto; a foto mostra as caixas Exotic Set, Sellers Set e Trends Set. As miniaturas custam mais que o dobro por ml do frasco grande: é o preço de provar antes."
+          "Na sacola, o cupom SKEMCASACOMCECILIA tirou 10% do Milos Breeze avulso (R$ 89,91), do trio (R$ 267,93) e do Kit Miniaturas Exotic Set (R$ 89,91), sem promoção da loja nos três. No teste de carrinho, o cupom somou com os 5% do Pix: pela conta, o avulso sai a R$ 85,41 e o trio, a R$ 254,53. A loja aceita um cupom por pedido, e as condições estão na [página do cupom Skelt](/cupons/skelt).",
+          "O Exotic Set traz Grand Bahama, Pink Sands e Milos Breeze, diz a página do kit e a caixa. A ficha do Combo não tem texto; a foto mostra as caixas Exotic Set, Sellers Set e Trends Set. As miniaturas custam mais que o dobro por ml do frasco grande: é o preço de provar antes."
         ],
         "images": [
           {
@@ -160945,7 +160945,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "30 peças: o conjunto completo, com o preço mudando pela cor",
         "paragraphs": [
-          "O faqueiro de 30 peças traz, segundo a ficha, 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa. São cinco talheres por pessoa para seis pessoas. Não vem colher de chá.",
+          "O faqueiro de 30 peças traz 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa, diz a página. São cinco talheres por pessoa para seis pessoas. Não vem colher de chá.",
           "A composição é a mesma em todas as cores, mas o preço muda com a cor do cabo. O [Branco](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custava R$ 946,32, o [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e o [Bordeaux](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-bordeaux-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custavam R$ 967,37 cada, e o [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custava R$ 1.099,00. O Marfim, o Preto, o Cinza e o Azul Marinho de 30 peças estavam esgotados nesse dia.",
           "Se a cor não importa, o Branco é o mais barato. Se o cabo vai combinar com a toalha ou com o sousplat, a diferença do Branco para o Verde é de R$ 152,68."
         ],
@@ -160962,7 +160962,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "18 peças: faca, garfo e colher",
         "paragraphs": [
-          "O de 18 peças tem 6 facas, 6 garfos e 6 colheres, segundo a ficha. Fica de fora o talher de sobremesa. Custava R$ 729,00 nas três cores com estoque: [Branco](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). O Marfim, o Preto, o Cinza e o Azul Marinho estavam esgotados.",
+          "O de 18 peças tem 6 facas, 6 garfos e 6 colheres, diz a página. Fica de fora o talher de sobremesa. Custava R$ 729,00 nas três cores com estoque: [Branco](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). O Marfim, o Preto, o Cinza e o Azul Marinho estavam esgotados.",
           "Do 18 peças para o 30 peças Branco, a diferença é de R$ 217,32, e o que entra a mais são as 12 peças de sobremesa."
         ],
         "images": [
@@ -160978,7 +160978,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "12 peças: só faca e garfo",
         "paragraphs": [
-          "O de 12 peças traz 6 facas e 6 garfos, segundo a ficha. Custava R$ 469,00 em quatro cores: [Branco](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e [Bordeaux](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-bordeaux-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). O Marfim, o Preto, o Cinza e o Azul Marinho estavam esgotados.",
+          "O de 12 peças traz 6 facas e 6 garfos, diz a página. Custava R$ 469,00 em quatro cores: [Branco](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e [Bordeaux](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-bordeaux-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). O Marfim, o Preto, o Cinza e o Azul Marinho estavam esgotados.",
           "É o tamanho para quem já tem colheres e talher de sobremesa em casa e quer só a faca e o garfo da linha."
         ],
         "images": [
@@ -160994,7 +160994,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a ficha diz e o que não diz",
         "paragraphs": [
-          "As fichas dos três tamanhos dizem o mesmo sobre o material: lâmina em aço inoxidável e cabo em ABS, um tipo de plástico. A loja diz que o design é de artesãos franceses. O resto fica sem resposta na ficha:"
+          "As páginas dos três tamanhos trazem o mesmo material: lâmina em aço inoxidável e cabo em ABS, um tipo de plástico. A loja diz que o design é de artesãos franceses. O resto fica sem resposta na ficha:"
         ],
         "bullets": [
           "País de fabricação: a ficha não diz onde o faqueiro é feito. \"Design de artesãos franceses\" fala do desenho, não da fábrica.",
@@ -161021,7 +161021,9 @@ export const reviewsData: unknown[] = [
           "Para a mesa de Natal de seis pessoas com sobremesa, o 30 peças cobre todos os talheres de cada lugar. O [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) mostra o que entra na mesa além do faqueiro e quanto custa cada faixa.",
           "Para presente de casamento, o 30 peças entrega o conjunto completo de uma vez, e o 12 ou o 18 cabem num orçamento menor. O [guia de presente de casamento por preço](/reviews/presente-de-casamento-ideias-por-preco) tem outras ideias em cada faixa.",
           "Para o dia a dia de seis pessoas, o 18 peças já traz faca, garfo e colher. O 12 serve quem só precisa de faca e garfo."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o 30 peças Branco, porque cobre os seis lugares com sobremesa pelo menor preço do conjunto completo.",
+        "emphasisAfterParagraph": 3
       },
       {
         "heading": "Cupom e Pix",
@@ -161046,6 +161048,18 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve o 30 peças se a mesa é de seis pessoas com sobremesa, de Natal ou presente de casamento: são cinco talheres por lugar.",
+        "Leve o 18 peças se o dia a dia de seis pede só faca, garfo e colher.",
+        "Leve o 12 peças se você já tem colheres e talher de sobremesa e quer só a faca e o garfo da linha."
+      ],
+      "skipIf": [
+        "Passe se a lava-louças decide: a ficha não diz se o faqueiro pode ir.",
+        "Passe se a garantia decide: a ficha não traz prazo nem termo.",
+        "Passe pela cor sem olhar o preço: no 30 peças, a cor do cabo muda o valor."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -161117,15 +161131,15 @@ export const reviewsData: unknown[] = [
           "1 prato raso."
         ],
         "postParagraphs": [
-          "A ordem da lista é a ordem de compra. O jogo americano vem em 1 unidade, segundo a ficha, e o guardanapo tem na página o preço de uma peça, então você compra o número exato de pessoas e usa com o que já tem. O faqueiro é vendido em jogo e custa mais de uma vez só. Os pratos ficam por último porque quase toda casa já tem algum prato raso para começar.",
+          "A ordem da lista é a ordem de compra. O jogo americano vem em 1 unidade, e o guardanapo tem na página o preço de uma peça, então você compra o número exato de pessoas e usa com o que já tem. O faqueiro é vendido em jogo e custa mais de uma vez só. Os pratos ficam por último porque quase toda casa já tem algum prato raso para começar.",
           "Os preços são do cartão, lidos na Let's Eat It em 29/10/2026, e todas as peças estavam disponíveis nesse dia."
         ]
       },
       {
         "heading": "1º: o guardanapo de tecido",
         "paragraphs": [
-          "Os dois guardanapos da conta são da Decortextil, de 100% algodão e 45 x 45 cm, segundo a ficha. O [Bordado Oliva](https://letseatit.com.br/products/guardanapo-100-algodao-bordado-oliva?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 36,00 e o [Poá Terracota](https://letseatit.com.br/products/guardanapo-100-algodao-poa-terracota?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 56,00.",
-          "O preço é o da página, e a ficha descreve o guardanapo como \"uma peça\". A conta por pessoa assume um guardanapo por página, o que é conta nossa.",
+          "Os dois guardanapos da conta são da Decortextil, de 100% algodão e 45 x 45 cm, diz a página. O [Bordado Oliva](https://letseatit.com.br/products/guardanapo-100-algodao-bordado-oliva?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 36,00 e o [Poá Terracota](https://letseatit.com.br/products/guardanapo-100-algodao-poa-terracota?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 56,00.",
+          "O preço é o da página, que descreve o guardanapo como \"uma peça\". A conta por pessoa assume um guardanapo por página, o que é conta nossa.",
           "Pela ficha, os dois pedem lavagem à mão até 40 °C, sem secadora e sem alvejante.",
           "Quantos guardanapos ter e qual tamanho escolher estão no [guia de guardanapo de tecido](/reviews/guardanapo-de-tecido-quantos-tamanho)."
         ],
@@ -161142,8 +161156,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "2º: o jogo americano",
         "paragraphs": [
-          "O [Gregas Bege, da Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 29,90. Pela ficha, mede 50 x 35 cm, é de 100% poliéster e vem 1 unidade. A ficha pede lavagem leve e passar do lado avesso.",
-          "O [Limone Color, da Tuut](https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 54,65. Pela ficha, mede 33 x 48 cm e vem 1 unidade. A ficha diz só que é feito em tecido, sem dizer qual.",
+          "O [Gregas Bege, da Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 29,90. A página diz que mede 50 x 35 cm, é de 100% poliéster e vem 1 unidade. Ela pede lavagem leve e passar do lado avesso.",
+          "O [Limone Color, da Tuut](https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 54,65. A página diz que mede 33 x 48 cm e vem 1 unidade. Ela diz só que é feito em tecido, sem dizer qual.",
           "Somando jogo americano e guardanapo, o tecido de cada lugar sai por R$ 65,90 com o Gregas e o Oliva, ou R$ 110,65 com o Limone e o Poá.",
           "Para escolher tamanho e cor, veja o [guia de jogo americano de tecido](/reviews/jogo-americano-tecido-tamanho-cor)."
         ],
@@ -161160,7 +161174,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3º: os talheres",
         "paragraphs": [
-          "O [Faqueiro 12 Peças Marfim, da La Maison](https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 199,00. Traz 4 facas, 4 garfos e 4 colheres, de aço inoxidável e policarbonato, e a ficha diz que serve até quatro pessoas.",
+          "O [Faqueiro 12 Peças Marfim, da La Maison](https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 199,00. Traz 4 facas, 4 garfos e 4 colheres, de aço inoxidável e policarbonato, para quatro pessoas, diz a página.",
           "É a maior compra de uma vez. Para 4 pessoas, os talheres saem a R$ 49,75 por lugar. Para 2 pessoas, você paga o jogo inteiro, e o custo por lugar dobra para R$ 99,50.",
           "Quem quer comparar com os faqueiros Laguiole da mesma marca encontra a conta em [qual faqueiro Laguiole La Maison escolher](/reviews/faqueiro-laguiole-la-maison-qual-escolher)."
         ],
@@ -161179,7 +161193,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O [prato raso de melamina Xadrez Azul, da EntreCasa](https://letseatit.com.br/products/prato-de-raso-melamina-xadrez-azul-27-8cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 42,00 e mede 27,8 cm, segundo a ficha. A ficha o indica para o dia a dia, áreas molhadas e casa de praia.",
           "O [prato raso de porcelana Carnaúba, da Tuut](https://letseatit.com.br/products/prato-raso-porcelana-carnauba-27cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 51,90 e mede 27 cm. Pela ficha, é branco e verde, com folhagens e acabamento decorativo na borda.",
-          "Nenhuma das duas fichas diz se o prato vai à lava-louças ou ao micro-ondas."
+          "Se lava-louças ou micro-ondas decidem, pergunte à loja: nenhuma ficha diz."
         ],
         "images": [
           {
@@ -161404,7 +161418,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quantos guardanapos de tecido por pessoa",
         "paragraphs": [
           "A conta deste guia é nossa, não de uma norma: um guardanapo por pessoa em cada refeição, mais um de reserva por mesa. A reserva cobre o guardanapo que cai no chão ou leva molho logo no começo, e a pessoa a mais que aparece sem aviso.",
-          "Na tabela, o preço é o do cartão, lido no site da Let's Eat It em 29/10/2026. Nenhuma das quatro fichas traz campo de quantidade, e três delas descrevem o guardanapo como \"uma peça\"; a conta assume um guardanapo por preço. Confira a quantidade no carrinho antes de fechar o pedido."
+          "Na tabela, o preço é o do cartão, lido no site da Let's Eat It em 29/10/2026. Nenhuma das quatro páginas traz campo de quantidade, e três descrevem o guardanapo como \"uma peça\"; a conta assume um guardanapo por preço. Confira a quantidade no carrinho antes de fechar o pedido."
         ],
         "comparisonTable": {
           "headers": [
@@ -161473,7 +161487,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual tamanho: 45 x 45 cm ou 40 x 40 cm",
         "paragraphs": [
-          "Nas fichas dos guardanapos de algodão lidos, há duas medidas: 45 x 45 cm e 40 x 40 cm. Nenhuma ficha chama uma delas de tamanho padrão, e este guia também não chama."
+          "Nas páginas dos guardanapos de algodão lidos, são duas medidas: 45 x 45 cm e 40 x 40 cm. Nenhuma chama uma delas de tamanho padrão, e este guia também não chama."
         ],
         "comparisonTable": {
           "headers": [
@@ -161495,7 +161509,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A sugestão por refeição também é conta nossa, porque a ficha não diz. O de 45 x 45 cm cobre mais o colo, então vai melhor no almoço e no jantar, com prato principal e molho. O de 40 x 40 cm serve no café da manhã, no lanche e na sobremesa, e também ocupa menos espaço dobrado sobre o prato.",
+          "A sugestão por refeição é conta nossa: a página não diz. O de 45 x 45 cm cobre mais o colo, então vai melhor no almoço e no jantar, com prato principal e molho. O de 40 x 40 cm serve no café da manhã, no lanche e na sobremesa, e também ocupa menos espaço dobrado sobre o prato.",
           "Se a casa vai usar o mesmo jogo em todas as refeições, o de 45 x 45 cm resolve as duas situações. A medida não define o preço: o Oliva de 45 cm custa R$ 0,90 a menos que o Abelha de 40 cm."
         ],
         "images": [
@@ -161511,7 +161525,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tecido e cuidado: o que a ficha manda",
         "paragraphs": [
-          "Os quatro guardanapos são 100% algodão, segundo a ficha. Os cuidados também se repetem nas quatro:"
+          "Os quatro guardanapos são 100% algodão, diz a página. Os cuidados também se repetem nas quatro:"
         ],
         "bullets": [
           "Lavar à mão, em até 40 °C.",
@@ -161534,7 +161548,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual guardanapo escolher",
         "paragraphs": [
-          "Pelo preço e pela ficha, a escolha fica assim:"
+          "Pelo preço, a escolha fica assim."
         ],
         "bullets": [
           "Para a mesa do dia a dia no almoço e no jantar: o Bordado Oliva, de 45 x 45 cm, é o mais barato dos quatro, a R$ 36,00. A ficha descreve um bordado oliva em contorno ondulado.",
@@ -161552,7 +161566,9 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.9815
           }
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o Bordado Oliva, porque é o mais barato e o 45 x 45 cm serve no almoço e no jantar.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Perguntas frequentes",
@@ -161564,6 +161580,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve o de 45 x 45 cm para o almoço e o jantar, com prato principal e molho: ele cobre mais o colo.",
+        "Leve o de 40 x 40 cm para o café, o lanche e a sobremesa: ocupa menos espaço dobrado sobre o prato.",
+        "Leve um por pessoa e um de reserva por mesa: cinco para quatro pessoas, sete para seis."
+      ],
+      "skipIf": [
+        "Passe o de 40 x 40 cm como jogo único se a casa serve almoço com molho: o de 45 cobre mais o colo.",
+        "Passe qualquer um dos quatro se a máquina decide: a página manda lavar à mão, sem secadora."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -161643,7 +161670,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Medidas, material e preço de cada jogo",
         "paragraphs": [
-          "Os preços são os do cartão, e seis das sete fichas dizem \"Contém: 1 Unidade\". Para uma mesa de quatro lugares, são quatro peças; a última coluna é essa conta, nossa."
+          "Os preços são os do cartão, e seis das sete fichas dizem \"Contém: 1 Unidade\": para quatro lugares, multiplique por quatro, como a última coluna (conta nossa) já faz."
         ],
         "comparisonTable": {
           "headers": [
@@ -161714,7 +161741,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A ficha do Linho Off White Borda Verde não diz quantas peças vêm, e a conta de quatro lugares dele supõe uma peça por compra. O Corrente Bege é o mais barato da tabela, e o Linho Off White Borda Verde, o mais caro. Estoque e preço mudam ao longo do dia; peças esgotadas na leitura ficaram fora da tabela."
+          "A página do Linho Off White Borda Verde não diz a quantidade, e a conta de quatro lugares dele supõe uma peça por compra. O Corrente Bege é o mais barato da tabela, e o Linho Off White Borda Verde, o mais caro. Estoque e preço mudam ao longo do dia; peças esgotadas na leitura ficaram fora da tabela."
         ]
       },
       {
@@ -161745,7 +161772,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cor: o que a ficha diz de cada uma",
         "paragraphs": [
-          "A cor de cada jogo está na ficha, e é por ela que dá para escolher: Verde Sálvia, Cinza, Caqui, Bege, Off White e Verde, e Limone. Nenhuma ficha diz com que louça ou com que mesa a peça combina, então essa parte fica com você. Uma saída simples é olhar o que já está na mesa: com prato estampado, jogo liso; com prato liso, o jogo pode ter estampa.",
+          "A cor está na página, e é por ela que dá para escolher: Verde Sálvia, Cinza, Caqui, Bege, Off White e Verde, e Limone. Nenhuma página diz com que louça ou com que mesa a peça combina, então essa parte é sua. Uma saída simples é olhar o que já está na mesa: com prato estampado, jogo liso; com prato liso, o jogo pode ter estampa.",
           "O [Jogo Americano Tecido Limone Color 33x48 cm, da Tuut](https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem, na ficha, \"Cor: Limone\" e estampa inspirada no tema. Na foto da ficha, limões e folhas bordados contornam a peça, e a ficha não diz o formato nem o tecido. Entre as peças que lemos, é a única com desenho de fruta; os outros jogos são de uma cor só, com borda bordada ou vazada."
         ],
         "images": [
@@ -161761,7 +161788,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Material e cuidado: linho, poliéster e a lavagem",
         "paragraphs": [
-          "Pelas fichas, o Redondo Verde Sálvia da Tuut é de linho, e os jogos da Ori Manufatura (Bouquet, Inca, Gregas e Corrente) são 100% poliéster. A ficha dos Ori pede para passar do lado avesso e usar lavagem leve.",
+          "Pelas páginas, o Redondo Verde Sálvia da Tuut é de linho, e os jogos da Ori (Bouquet, Inca, Gregas e Corrente) são 100% poliéster. A ficha dos Ori pede para passar do lado avesso e usar lavagem leve.",
           "O [Retangular Linho Off White Borda Verde 38x52, da Decortextil](https://letseatit.com.br/products/jogo-americano-retangular-linho-off-white-borda-verde-38x52?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) é de um tecido que a ficha chama de linho, 100% poliéster. A ficha dele é a mais detalhada no cuidado: lavar à mão em até 40 °C, sem alvejante, sem secadora e sem lavagem a seco, e passar com ferro morno, até 150 °C."
         ],
         "images": [
@@ -161788,6 +161815,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Qual levar: o Corrente Bege, retangular de 35 x 50 cm",
+        "paragraphs": [
+          "Com um prato raso de 28 cm, o retangular de 35 x 50 cm deixa 11 cm de cada lado para o garfo e a faca. O [Corrente Bege](https://letseatit.com.br/products/jogo-americano-retangular-corrente-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem essa medida."
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o Retangular Corrente Bege, porque tem a mesma medida do Gregas e é o mais barato da tabela.",
+        "emphasisAfterParagraph": 1
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual o tamanho de um jogo americano? Nas peças que lemos, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, os retangulares, 35 x 50 cm ou 38 x 52 cm, e o Limone, cujo formato a ficha não diz, 33 x 48 cm. Escolha pelo prato: com um prato raso de 28 cm, o redondo de 36,5 cm deixa 4,25 cm de borda, pela nossa conta.",
@@ -161798,6 +161833,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve o retangular se os talheres ficam no jogo: com prato de 28 cm, o de 35 x 50 deixa 11 cm de cada lado.",
+        "Leve o redondo se a ideia é emoldurar só o prato: talheres e copo ficam na mesa, fora do jogo."
+      ],
+      "skipIf": [
+        "Passe o retangular se a mesa é estreita ou tem muitos lugares lado a lado: o de 50 cm ocupa meio metro por lugar.",
+        "Passe o jogo estampado se o prato já é estampado: com prato estampado, jogo liso.",
+        "Passe pelo nome da cor sem medir o prato: o jogo precisa passar o diâmetro dele com folga."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -161885,10 +161931,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que vem em cada brinde",
         "paragraphs": [
-          "A Skelt informou duas faixas para essa promoção, e elas se somam. Acima de R$ 219, o brinde é o Trends Set. Acima de R$ 249, o pedido leva o Trends Set e também o Body Cream Unexpected Day. Os dois só valem com o cupom SKEMCASACOMCECILIA.",
-          "O Trends Set traz três fragrâncias de 15 ml: Mystic Bloom, Urban Beat e Unexpected Day. A Skelt chama o kit de edição limitada. A loja também vende o mesmo kit, com o nome [Kit Miniaturas Trends Set](https://www.skelt.com.br/kit-miniaturas-trends-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), por R$ 99,90. Na ficha, as três miniaturas são body splash.",
+          "As duas faixas se somam: acima de R$ 219, o Trends Set; acima de R$ 249, também o Body Cream Unexpected Day. Os dois só valem com o cupom SKEMCASACOMCECILIA.",
+          "O Trends Set traz três fragrâncias de 15 ml: Mystic Bloom, Urban Beat e Unexpected Day. A Skelt chama o kit de edição limitada. A loja também vende o mesmo kit, com o nome [Kit Miniaturas Trends Set](https://www.skelt.com.br/kit-miniaturas-trends-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), por R$ 99,90. Na página, as três são body splash.",
           "O [Body Cream Unexpected Day](https://www.skelt.com.br/hidratante-desodorante-corporal-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é o hidratante corporal de 200 g da fragrância. Avulso, custava R$ 99,90. É a referência do valor desse brinde.",
-          "A Skelt não informou quantos brindes há, e não dá para garantir que eles durem o dia todo. Ninguém do site usou os brindes. Para conhecer as fragrâncias, veja o [guia dos hidratantes corporais Skelt](/reviews/hidratante-corporal-skelt-qual-fragrancia) e o [guia dos body splash Skelt](/reviews/body-splash-skelt-qual-escolher)."
+          "A Skelt não informou quantos brindes há, e não dá para garantir que eles durem o dia todo. Para conhecer as fragrâncias, veja o [guia dos hidratantes corporais Skelt](/reviews/hidratante-corporal-skelt-qual-fragrancia) e o [guia dos body splash Skelt](/reviews/body-splash-skelt-qual-escolher)."
         ],
         "images": [
           {
@@ -162116,7 +162162,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os planos do Reach",
         "paragraphs": [
-          "A página brasileira do Reach tem três planos: Starter, Grow e Pro. No carrinho, o Grow aparece como \"Reach 500\", pelo limite de 500 destinatários. Os preços abaixo são da página, lidos em 30/10/2026, na campanha de Black Friday, sem impostos:"
+          "Três planos pagos, sem grátis: Starter, Grow e Pro. No carrinho, o Grow aparece como \"Reach 500\", pelo limite de 500 destinatários. Os preços abaixo são da página, lidos em 30/10/2026, na campanha de Black Friday, sem impostos:",
+          "A página dá 30 dias para pedir reembolso, e na Black Friday ela diz que adicionar um site dá 30% extra no Reach; não testamos essa oferta."
         ],
         "comparisonTable": {
           "headers": [
@@ -162158,7 +162205,7 @@ export const reviewsData: unknown[] = [
           "**Grow:** 500 destinatários, 3.500 e-mails por mês e 10 créditos de IA por mês. Tira a marca da Reach e traz personalização, agendamento e automações.",
           "**Pro:** 1.000 destinatários, 7.000 e-mails por mês e 20 créditos de IA por mês. Soma HTML, horário de envio otimizado, campanhas de WhatsApp, campos personalizados e colegas de equipe."
         ],
-        "emphasis": "A página dá 30 dias para pedir reembolso. Na Black Friday, ela também diz que adicionar um site dá 30% extra no Reach; não testamos essa oferta."
+        "emphasis": "Na dúvida entre os planos, o que decide é o tamanho da lista. Quem passa de 1.000 destinatários já fica fora do Reach."
       },
       {
         "heading": "Mailchimp e Brevo: plano grátis e preço publicado",
@@ -162231,7 +162278,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 e preço do Reach",
         "paragraphs": [
           "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. O Bruno testou no Reach: o carrinho mostrou o Reach 500 (o Grow) de 24 meses a R$ 8,99/mês, R$ 215,76 no total; com o SONAR20, ficou em R$ 172,61, ou R$ 7,19/mês, renovando a R$ 8,99/mês.",
-          "No mesmo dia, a página mostrava o Grow de 24 meses a R$ 6,29/mês, o preço de Black Friday. São leituras diferentes, de lugares diferentes: confira no carrinho qual preço vale para você e quanto o SONAR20 tira dele. Nos outros planos e períodos do Reach, não testamos; confira no carrinho. A regra completa do código está em [cupons da Hostinger](/cupons/hostinger)."
+          "No mesmo dia, a página mostrava o Grow de 24 meses a R$ 6,29/mês, o preço de Black Friday. Confira no carrinho qual preço vale para você e quanto o SONAR20 tira dele. Nos outros planos e períodos do Reach, não testamos; confira no carrinho. A regra completa do código está em [cupons da Hostinger](/cupons/hostinger)."
         ]
       },
       {
@@ -162239,7 +162286,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Vale a pena** para quem já tem site na Hostinger e uma lista de até 1.000 destinatários. Pelo preço publicado, o Grow e o Pro custam menos que os planos pagos do Mailchimp e do Brevo na mesma faixa, e a renovação do Reach (R$ 10,99/mês no Grow, R$ 19,99/mês no Pro) também fica abaixo deles. O Grow cobre lista de até 500 com automações; o Pro, lista de até 1.000 e WhatsApp.",
           "**Fique no plano grátis do Mailchimp ou do Brevo** se a lista está começando e você ainda não sabe se vai mandar e-mail com frequência. O Reach não tem plano grátis na página brasileira.",
-          "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se você manda para a lista toda mais de uma vez por semana: os planos do Reach param em 1.000 destinatários e 7.000 e-mails por mês."
+          "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se você manda para a lista toda mais de uma vez por semana: os planos do Reach param em 1.000 destinatários e 7.000 e-mails por mês.",
+          "Se fosse para o meu site, eu levaria o Reach Grow, porque cobre a lista de até 500 com automações e renova abaixo dos planos pagos do Mailchimp e do Brevo."
         ]
       },
       {
@@ -162257,7 +162305,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escreve",
         "paragraphs": [
-          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado lá desde 2024. Ninguém da equipe usou o Reach, o Mailchimp nem o Brevo para mandar campanha: este texto reúne o que as páginas de preço dos três diziam e o teste do SONAR20 no carrinho. Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
+          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado lá desde 2024. Este texto reúne o que as páginas de preço dos três diziam e o teste do SONAR20 no carrinho. Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
         ]
       }
     ],
@@ -164548,7 +164596,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços da Hostinger",
         "paragraphs": [
-          "Hospedagem de sites, página brasileira, plano de 48 meses pago de uma vez, com preços lidos em 30/10/2026. A Hostinger está em campanha de Black Friday, sem data de fim na página:"
+          "Na Hostinger, a promoção dura 48 meses e a renovação é de 3 a 5 vezes o promocional. Preços lidos em 30/10/2026, em campanha de Black Friday sem data de fim:"
         ],
         "comparisonTable": {
           "headers": [
@@ -164595,13 +164643,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Preços sem o SONAR20. A renovação da Hostinger é de 3 a 5 vezes o promocional. O Single tem backup semanal; o Unlimited, diário. Na Black Friday, a página dá créditos de IA em dobro para o criador de sites."
+          "Preços sem o SONAR20. O Single tem backup semanal; o Unlimited, diário. Na Black Friday, a página dá créditos de IA em dobro para o criador de sites."
         ]
       },
       {
         "heading": "Preços da HostGator",
         "paragraphs": [
-          "Hospedagem de sites, página brasileira, plano de 3 anos. A promocional é a dos cartões da página; a coluna da direita é a tabela de preço regular da HostGator, no plano trienal, que usamos como referência de renovação:"
+          "Na HostGator, a promoção dura 3 anos e o cartão não mostra a renovação: usamos a tabela de preço regular como referência. A promocional é a dos cartões da página, no plano trienal:"
         ],
         "comparisonTable": {
           "headers": [
@@ -164679,7 +164727,7 @@ export const reviewsData: unknown[] = [
           "**O plano mais alto:** o Cloud Startup é o plano de nuvem da Hostinger e custa cerca do dobro do Turbo nas duas fases. Só compensa se você precisa do que ele entrega a mais; para muitos sites comuns, o Turbo resolve por menos.",
           "**O Premium**, de 3 sites, não tem par na HostGator: fica entre o P e o M."
         ],
-        "emphasis": "A promoção da Hostinger dura 48 meses e a da HostGator, 36. Por isso o total do primeiro ciclo engana: compare o preço por mês."
+        "emphasis": "O total do primeiro ciclo engana: compare o preço por mês, com a renovação ao lado."
       },
       {
         "heading": "O que o preço não mostra",
@@ -164742,7 +164790,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Com o mesmo número de vCPU, o VPS da Hostinger traz o dobro de memória, e o da HostGator custa menos na promoção. A HostGator diz que o VPS roda na Oracle Cloud no Brasil, com cPanel disponível e 1 IP dedicado; ela tem ainda o VPS NVMe 8 (4 vCPU, 8 GB, 200 GB) a R$ 45,49/mês. A tabela de preço regular do VPS da HostGator não abriu na leitura, então não dá para comparar a renovação: pergunte antes de fechar 3 anos."
+          "Com o mesmo número de vCPU, o VPS da Hostinger traz o dobro de memória, e o da HostGator custa menos na promoção. A HostGator diz que o VPS roda na Oracle Cloud no Brasil, com cPanel disponível e 1 IP dedicado; ela tem ainda o VPS NVMe 8 (4 vCPU, 8 GB, 200 GB) a R$ 45,49/mês. A HostGator não mostra na página quanto o VPS renova: pergunte ao suporte antes de fechar 3 anos."
         ]
       },
       {
@@ -164757,7 +164805,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Escolha a Hostinger** para um site só, como blog, portfólio ou página de empresa: o Single custa menos na promoção e na renovação, e a promoção dura 48 meses. A Hostinger também é a escolha se você quer um VPS com mais memória pelo mesmo número de vCPU.",
           "**Escolha a HostGator** para vários sites, ou se espaço em disco, backup diário em todo plano e servidor no Brasil declarado pesam para você. No plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
-          "**Nos dois casos**, olhe a coluna da renovação antes de pagar e confira o valor no carrinho. As duas estão em campanha e os preços podem mudar."
+          "**Nos dois casos**, olhe a coluna da renovação antes de pagar e confira o valor no carrinho. As duas estão em campanha e os preços podem mudar.",
+          "Se fosse para o meu site, eu levaria a Hostinger para um site só, porque o Single custa menos na promoção e na renovação."
         ]
       },
       {
@@ -164774,7 +164823,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escreve",
         "paragraphs": [
-          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado na Hostinger desde 2024. Ninguém da equipe usou a HostGator: este texto reúne o que as páginas brasileiras das duas dizem."
+          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado na Hostinger desde 2024. Este texto reúne o que as páginas brasileiras das duas dizem."
         ]
       }
     ],
@@ -167002,7 +167051,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e renovação",
         "paragraphs": [
-          "Os preços abaixo são da página brasileira de hospedagem WordPress, lidos em 30/10/2026, no prazo de 48 meses e na campanha de Black Friday. O preço por mês é o total dividido por 48. A renovação é o preço por mês depois do primeiro período:"
+          "Na Hostinger, a promoção dura 48 meses e a renovação é de 3 a 5 vezes o promocional. Os preços abaixo são da página brasileira de hospedagem WordPress, lidos em 30/10/2026, na campanha de Black Friday. O preço por mês é o total dividido por 48. A renovação é o preço por mês depois do primeiro período:"
         ],
         "comparisonTable": {
           "headers": [
@@ -167051,20 +167100,20 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "A página não traz data de fim para a campanha, e os preços podem mudar. Na Black Friday, os créditos de IA dos planos vêm em dobro: no Single, 500 em vez de 250; no Cloud Startup, 2.000 em vez de 1.000."
         ],
-        "emphasis": "A renovação custa de 3 a 5 vezes o preço promocional. Escolha o plano pela coluna da renovação, não só pela do preço de entrada."
+        "emphasis": "Escolha o plano pela coluna da renovação, não pela do preço de entrada."
       },
       {
         "heading": "O que já vem nos planos",
         "paragraphs": [
-          "Pela página da Hostinger, sem teste nosso:"
+          "Pela página da Hostinger:"
         ],
         "bullets": [
           "**WordPress e Node.js em todos os planos.**",
-          "**Instalador de 1 clique e plugins internos**, citados no FAQ da página, sem dizer o que muda de um plano para outro.",
-          "**Servidores LiteSpeed e cache inteligente**, citados para a hospedagem WordPress em geral. A página não diz em quais planos.",
+          "**Instalador de 1 clique e plugins internos**, citados no FAQ da página.",
+          "**Servidores LiteSpeed e cache inteligente**, citados para a hospedagem WordPress em geral.",
           "**E-mail:** 1 conta grátis no Single; 2 contas por site, grátis por 1 ano, no Premium; contas ilimitadas por site, por 1 ano, no Unlimited e no Cloud Startup.",
           "**Domínio grátis** em todos os planos; do Premium para cima, por 1 ano. Confira no carrinho o prazo do seu plano.",
-          "**Assistente de IA para loja** listado no Premium, segundo a página."
+          "**Assistente de IA para loja** listado no Premium."
         ]
       },
       {
@@ -167084,7 +167133,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se você já anuncia no Google",
         "paragraphs": [
-          "Segundo os termos da promoção, quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito de anúncios, no Brasil. Quem define a elegibilidade é a Google, a promoção pode mudar, e a página não traz data de validade. Vale para quem já ia gastar esse valor; não é motivo para começar a anunciar."
+          "Os termos da promoção dizem: quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito de anúncios, no Brasil. Quem define a elegibilidade é a Google, a promoção pode mudar, e a página não traz data de validade. Vale para quem já ia gastar esse valor; não é motivo para começar a anunciar."
         ]
       },
       {
@@ -167105,7 +167154,8 @@ export const reviewsData: unknown[] = [
           "**Pegue o Single** se é um site só e você publica de vez em quando. É o mais barato na entrada e na renovação.",
           "**Pegue o Premium** se vai ter dois ou três sites. A diferença para o Single é o número de sites e o espaço, não o backup.",
           "**Pegue o Unlimited** se tem loja ou muitos sites. O backup diário é o motivo principal, e ele começa aqui.",
-          "**O Cloud Startup** só faz sentido se o Unlimited já não basta. É o mais caro, e a renovação de R$ 129,99/mês pesa."
+          "**O Cloud Startup** só faz sentido se o Unlimited já não basta. É o mais caro, e a renovação de R$ 129,99/mês pesa.",
+          "Se fosse para o meu site, eu levaria o Single para um site só, porque é o mais barato na entrada e na renovação."
         ]
       },
       {
@@ -167121,7 +167171,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escreve",
         "paragraphs": [
-          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. O site não usa WordPress, e ninguém da equipe usou WordPress na Hostinger: este texto reúne o que a página brasileira de hospedagem WordPress e os termos da promoção do Google Ads dizem."
+          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. O site não usa WordPress: este texto reúne o que a página brasileira de hospedagem WordPress e os termos da promoção do Google Ads dizem."
         ]
       }
     ],
@@ -169089,7 +169139,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela das malas de bordo",
         "paragraphs": [
-          "Preço é o do cartão, lido nas fichas da loja em 30/10/2026. Medida e peso vêm da loja. Os litros também vêm da loja. O preço por litro é conta nossa: preço do cartão dividido pelos litros."
+          "Preço do cartão, com medida, peso e litros da loja, lidos em 30/10/2026. O preço por litro é conta nossa: preço do cartão dividido pelos litros."
         ],
         "comparisonTable": {
           "headers": [
@@ -169218,7 +169268,8 @@ export const reviewsData: unknown[] = [
           "Quer pagar menos? A Detroit ABS Preta ou a II Prata custa R$ 249,90 no cartão e tem 44,2 litros.",
           "Quer a mala mais leve? A Route Preta ou a Vinho pesa 2,43 kg, contra 2,61 kg da Detroit.",
           "Quer mais espaço e aceita uma medida maior? A Cartagena tem 51,3 litros, mas passa da medida de 55 × 35 cm que as companhias citam para a mala de mão."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a Detroit ABS Preta, porque é a mais barata da marca Bagaggio e fica dentro da medida de 55 × 35 cm das companhias."
       },
       {
         "heading": "O que pode levar na mala de bordo",
@@ -169238,8 +169289,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, segundo a regra da [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
-          "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. A Detroit ABS Preta mostra R$ 237,40 no Pix, sem cupom. Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
+          "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, diz a [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
+          "A Detroit ABS Preta mostra R$ 237,40 no Pix, sem cupom. Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
         ]
       },
       {
@@ -169260,6 +169311,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Quer pagar menos na marca Bagaggio: a Detroit, a mais barata da lista.",
+        "Quer a mala mais leve: a Route, que pesa menos que a Detroit.",
+        "Quer mais espaço e aceita uma medida maior: a Cartagena, com 51,3 litros."
+      ],
+      "skipIf": [
+        "Conta com a garantia vitalícia: ela não vale para a Downtown, que é da Travelcross.",
+        "Quer confiar só no selo BORDO: ele é informação da loja e não garante o embarque, então compare a medida com a regra da sua companhia."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -169270,7 +169332,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA10",
     "affiliate": "bagaggio",
-    "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10.",
+    "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10. Não conferimos o CECILIA10 no carrinho.",
     "relatedArticles": [
       {
         "slug": "tamanho-mala-bagaggio-p-m-g",
@@ -169439,7 +169501,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como ler as faixas de 10, 23 e 32 kg",
         "paragraphs": [
           "A mala de 10 kg é a de bordo, em nome e em medida. As faixas de 23 kg e 32 kg são o nome que a loja dá às malas maiores, e a medida muda de linha para linha. A Detroit de 23 kg aparece em duas medidas: a Detroit II, com 66 × 41,5 × 26 cm, e a de 26 polegadas, com 70,5 × 44,5 × 29 cm. Mesma faixa, medidas diferentes.",
-          "Os litros acompanham a medida. Na faixa de 23 kg, as fichas lidas vão de 71 a 91 litros, e na de 32 kg, de 104 a 131. Litros são a capacidade que a loja declara. Não convertemos isso em número de peças de roupa, porque depende de cada peça."
+          "Os litros acompanham a medida. Nos 23 kg, as páginas lidas vão de 71 a 91 litros, e nos 32 kg, de 104 a 131. Litros são a capacidade que a loja declara, não um número de peças de roupa, porque isso depende de cada peça."
         ],
         "images": [
           {
@@ -169475,7 +169537,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "P, M e G no conjunto",
         "paragraphs": [
-          "Os conjuntos Detroit, Route e Cartagena trazem P, M e G no nome. Pela medida, a P é a de 10 kg, a M é a de 23 kg e a G é a de 32 kg. Essa ligação é conta nossa, feita pela medida das peças do conjunto. A loja não a publica.",
+          "Pela medida, a P é a de 10 kg, a M é a de 23 kg e a G é a de 32 kg. Os conjuntos Detroit, Route e Cartagena trazem as três no nome. Essa ligação é conta nossa, feita pela medida das peças do conjunto. A loja não a publica.",
           "A P do conjunto Route tem 56 × 36 × 22,5 cm na página do conjunto. A mala Route de 10 kg, vendida avulsa, tem 55 × 35 × 22,5 cm. Não conferimos se é a mesma peça. Se a medida pesa na sua escolha, confira as duas páginas.",
           "Na Detroit e na Cartagena, a P do conjunto tem a mesma medida da mala avulsa de 10 kg."
         ]
@@ -169497,13 +169559,14 @@ export const reviewsData: unknown[] = [
           "Quanto tempo você vai ficar? Para viagem curta, a de 10 kg tem 44 a 51 litros. Para mais dias, a de 23 kg tem 71 a 91 litros.",
           "Quantas peças você leva? Os litros são a capacidade declarada pela loja, não um número de peças. Compare com o que você costuma levar.",
           "Vai despachar ou levar na mão? Se for levar na mão, veja a medida da mala de 10 kg e as regras das companhias no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa)."
-        ]
+        ],
+        "emphasis": "Para levar na mão, só a de 10 kg serve; para uma semana despachando, a de 23 kg dá mais espaço."
       },
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, segundo a regra da [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
-          "Não conferimos o CECILIA10 no carrinho nesta rodada, então não informamos valor final com o cupom. Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
+          "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, diz a [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
+          "Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
         ]
       },
       {
@@ -169523,6 +169586,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "A viagem é curta e a mala vai na mão: a de 10 kg, com 44 a 51 litros.",
+        "A viagem é de uma semana e você despacha: a de 23 kg, com 71 a 91 litros.",
+        "Quer a maior capacidade: a de 32 kg, com 104 a 131 litros."
+      ],
+      "skipIf": [
+        "Quer levar a Cartagena P na mão: ela passa dos 55 × 35 cm que as companhias citam.",
+        "Vai comprar o conjunto Route pela P achando que é a mala avulsa de 10 kg: as medidas diferem, então confira as duas páginas."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -169533,7 +169607,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA10",
     "affiliate": "bagaggio",
-    "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10.",
+    "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10. Não conferimos o CECILIA10 no carrinho.",
     "relatedArticles": [
       {
         "slug": "mala-de-bordo-bagaggio-qual-compensa",
@@ -169589,7 +169663,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mochilas para notebook por faixa de preço",
         "paragraphs": [
-          "Dos resultados da busca 'notebook' da loja, reunimos 12 modelos, do mais barato ao mais caro. Os preços são do cartão, lidos nas páginas dos produtos em 30/10/2026. Nas de poliéster, a faixa vai de R$ 79,90 a R$ 299,90. As de couro custam de R$ 399,90 a R$ 699,90.",
+          "12 modelos do mais barato ao mais caro, no cartão em 30/10/2026. Nas de poliéster, a faixa vai de R$ 79,90 a R$ 299,90. As de couro custam de R$ 399,90 a R$ 699,90.",
           "Medida, material e etiqueta de tamanho vêm da página de cada produto."
         ],
         "comparisonTable": {
@@ -169709,8 +169783,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Dia a dia, com orçamento curto: BG Net Branco, Horizonte Slim e BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a única em que o cadastro traz a medida do notebook.",
           "Trabalho, modelo executivo: Texas, Nurack e City Safe, de poliéster e com etiqueta Grande, entre R$ 179,90 e R$ 199,90.",
-          "Feminina e executiva: a Donna, de R$ 299,90, é média, com poliéster e PVC, e tem 90 dias de garantia, segundo a Bagaggio.",
-          "Couro: Arpoador, a R$ 399,90, ou Joá Café, a R$ 699,90, ambas com etiqueta Pequena. O material está na tabela; nenhuma delas foi usada por nós, então não dizemos qual dura mais."
+          "Feminina e executiva: a Donna, de R$ 299,90, é média, com poliéster e PVC, e tem 90 dias de garantia, diz a página.",
+          "Couro: Arpoador, a R$ 399,90, ou Joá Café, a R$ 699,90, ambas com etiqueta Pequena. O material está na tabela; qual dura mais, a página não diz."
         ],
         "images": [
           {
@@ -169739,34 +169813,36 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Tech é da linha Travelcross",
         "paragraphs": [
-          "A Tech Preta sai por R$ 139,90, com 45 × 34 × 15 cm e etiqueta Grande. A loja a põe na marca Travelcross, e por isso ela não tem a garantia vitalícia que vale para as malas da Bagaggio. A página diz 3 meses."
+          "A Tech Preta é Travelcross, não Bagaggio: por isso ela não tem a garantia vitalícia das malas. A página diz 3 meses."
         ]
       },
       {
         "heading": "Garantia de mochila",
         "paragraphs": [
           "A garantia que vale é a que a loja indica para cada modelo, e ela muda de um para outro. São três anos na BG Net Branco e na Kronos Preta; 90 dias na Texas, na Donna e na Joá Café; e 3 meses nos outros sete da tabela.",
-          "A garantia vitalícia que o guia da garantia descreve é para as malas da marca Bagaggio. Pelo que lemos na página, nenhuma mochila entra nela. Veja o [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+          "A garantia vitalícia que o guia da garantia descreve é para as malas da marca Bagaggio. Nenhuma mochila da tabela entra nela. Veja o [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
         ]
       },
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto. Vale um cupom por pedido. A promoção de 50% na 2ª peça é outro cupom e não soma com o CECILIA10. No Pix, a loja tira mais 5% sobre o total com cupom: foi o que aconteceu no nosso teste, numa mala avulsa.",
-          "Não testamos o cupom no carrinho de uma mochila nesta rodada, então confira o desconto no resumo do pedido antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+          "Confira o desconto no resumo do pedido antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Se o seu notebook não está por perto para medir, a Horizonte Slim é a escolha mais simples: é a mais barata com a medida do notebook informada pela loja. Os outros modelos dependem do seu gosto e do seu notebook."
+          "Se o seu notebook não está por perto para medir, a Horizonte Slim é a escolha mais simples. Os outros modelos dependem do seu gosto e do seu notebook."
         ],
         "bullets": [
           "Até R$ 100: Horizonte Slim, BG Net Branco ou BG Quiz Marinho, todas a R$ 79,90. Se a garantia pesa, a BG Net tem três anos, diz a fonte oficial.",
           "R$ 179,90 a R$ 199,90, executiva: Texas, Nurack ou City Safe, todas de poliéster e com etiqueta Grande.",
           "Feminina: Donna, a R$ 299,90, média, com 90 dias de garantia.",
           "Couro: Arpoador, a R$ 399,90, com 3 meses de garantia, ou Joá Café, a R$ 699,90, com 90 dias."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a Horizonte Slim, porque é a mais barata com a medida do notebook informada pela loja.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Perguntas frequentes",
@@ -169789,7 +169865,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA10",
     "affiliate": "bagaggio",
-    "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+    "editorialNote": "Feito com as fichas públicas da loja. O cupom não foi testado no carrinho de uma mochila. Podemos receber comissão pelas compras com o CECILIA10.",
     "relatedArticles": [
       {
         "slug": "mochila-escolar-bagaggio",
@@ -169807,7 +169883,17 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-bagaggio-como-usar",
         "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer gastar pouco e o notebook tem até 15,6 polegadas, a medida que a descrição da Horizonte Slim informa.",
+        "Você carrega o notebook para o trabalho: Texas, Nurack e City Safe são de poliéster e têm etiqueta Grande."
+      ],
+      "skipIf": [
+        "A garantia decide a compra: ela muda por modelo, de 3 meses a 3 anos, então confira na página antes de comprar.",
+        "Você não mediu o notebook ou ele é maior: meça antes, porque só a Horizonte informa as polegadas."
+      ]
+    }
   },
   {
     "id": 750,
@@ -169843,16 +169929,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como lemos os preços",
-        "paragraphs": [
-          "Os preços são os do cartão, lidos na API pública da loja em 30/10/2026. O preço de lista é o valor riscado na página do produto. A faixa segue o preço do cartão, e o carrinho é a referência final, porque preço e estoque mudam.",
-          "Ninguém do site usou estas peças. A lista mostra o que a loja vende e por quanto, e não qual peça é boa de uso. Quando a página do produto traz medida, o texto diz que a medida é da loja."
-        ]
-      },
-      {
         "heading": "Até R$ 100",
         "paragraphs": [
-          "Esta faixa tem carteira, nécessaire, bolsa de viagem e uma mochila para notebook. Todas as peças estavam disponíveis na API da loja."
+          "Esta faixa tem carteira, nécessaire, bolsa de viagem e uma mochila para notebook. Todas as peças estavam disponíveis na loja."
         ],
         "comparisonTable": {
           "headers": [
@@ -169881,7 +169960,8 @@ export const reviewsData: unknown[] = [
               "R$ 79,90",
               "R$ 119,90"
             ]
-          ]
+          ],
+          "caption": "Preço de cartão, lido na loja em 30/10/2026; a lista é o valor riscado na página do produto. O carrinho é a referência final, porque preço e estoque mudam."
         },
         "images": [
           {
@@ -169894,12 +169974,14 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "A Horizonte tem 45 × 39 × 11 cm. Para comparar as mochilas de notebook da loja por uso, veja [mochila de notebook Bagaggio: qual escolher](/reviews/mochila-notebook-bagaggio-qual-escolher)."
-        ]
+        ],
+        "emphasis": "Se o presente fosse meu, eu levaria a mochila Horizonte, porque resolve o presente por menos de cem reais.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "De R$ 100 a R$ 250",
         "paragraphs": [
-          "Aqui entram nécessaires, uma carteira de couro com fecho em botão e mochilas executivas para notebook. Os preços são do cartão."
+          "De cem a duzentos e cinquenta, o presente sobe para nécessaire, couro e mochila executiva. Os preços são do cartão."
         ],
         "comparisonTable": {
           "headers": [
@@ -170019,7 +170101,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mochilas de notebook e malas",
         "paragraphs": [
-          "As mochilas de notebook desta lista são a Slim Horizonte, de R$ 79,90 no cartão, a Antifurto Urban, de R$ 129,90, e a Joá Preto, de R$ 599,90. Para comparar as mochilas de notebook por uso e por preço, veja [mochila de notebook Bagaggio: qual escolher](/reviews/mochila-notebook-bagaggio-qual-escolher).",
+          "As três mochilas de notebook da lista, da mais barata à mais cara, estão comparadas por uso e preço em [mochila de notebook Bagaggio: qual escolher](/reviews/mochila-notebook-bagaggio-qual-escolher).",
           "Malas não entram nas tabelas. A comparação de mala de bordo, com preço e medida, está em [mala de bordo Bagaggio: qual compensa](/reviews/mala-de-bordo-bagaggio-qual-compensa)."
         ]
       },
@@ -170034,7 +170116,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom e Pix",
         "paragraphs": [
           "O CECILIA10 dá 10% no site da Bagaggio, inclusive em produto com desconto. A regra completa está na [página do cupom Bagaggio](/cupons/bagaggio). A promoção de 50% na segunda peça é um cupom e não soma com o CECILIA10.",
-          "No Pix, a loja mostra 5% a mais. No nosso teste de carrinho, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Não testamos o cupom nesta lista de peças, então não damos valor final com cupom: confira o resumo do pedido antes de pagar."
+          "No Pix, a loja mostra 5% a mais. No nosso teste de carrinho, numa mala avulsa, esse desconto saiu sobre o total que já tinha o cupom. Confira o resumo do pedido antes de pagar."
         ]
       },
       {
@@ -170058,7 +170140,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA10",
     "affiliate": "bagaggio",
-    "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+    "editorialNote": "Feito com as fichas públicas da loja. O cupom não foi testado nas peças da lista. Podemos receber comissão pelas compras com o CECILIA10.",
     "relatedArticles": [
       {
         "slug": "black-friday-bagaggio",
@@ -170072,7 +170154,17 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-bagaggio-como-usar",
         "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "O presente é até cem reais: carteira, nécessaire, bolsa de viagem e a mochila Horizonte para notebook entram nessa faixa.",
+        "O presente é de cem a duzentos e cinquenta reais: a faixa traz carteira de couro e mochila executiva."
+      ],
+      "skipIf": [
+        "A ideia é ganhar desconto no kit Joá: ele custa a soma das peças, sem desconto próprio.",
+        "A ideia é somar a promoção da segunda peça com o CECILIA10: ela é outro cupom e não soma."
+      ]
+    }
   },
   {
     "id": 751,
@@ -170110,7 +170202,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço, medida e garantia de 10 modelos",
         "paragraphs": [
-          "Reunimos 10 mochilas escolares disponíveis na loja em 30/10/2026, da mais barata à mais cara. Os preços são do cartão. A medida e a garantia são as que a loja informa; onde ela não traz garantia, a tabela diz 'não informada'."
+          "10 modelos da mais barata à mais cara, no cartão em 30/10/2026. A medida e a garantia são as que a loja informa; onde ela não traz garantia, a tabela diz 'não informada'."
         ],
         "comparisonTable": {
           "headers": [
@@ -170186,7 +170278,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Linha Bagaggio: Star Candy e High Shape III",
         "paragraphs": [
-          "A Star Candy é juvenil e feminina. Tem 18,9 litros e 42 × 30 × 15 cm. Sai por R$ 249,90 e, nas palavras da Bagaggio, tem 90 dias de garantia.",
+          "A Star Candy é a juvenil feminina: 18,9 litros e 42 × 30 × 15 cm para a escola todo dia. Sai por R$ 249,90 e, nas palavras da Bagaggio, tem 90 dias de garantia.",
           "A High Shape III é masculina, e a loja a indica para notebook. Sai por R$ 399,90 e a página oficial traz 90 dias de garantia. A página não traz a medida do notebook que cabe, então confira o seu antes de comprar. Para mochila de notebook fora do formato escolar, veja [a mochila para notebook Bagaggio](/reviews/mochila-notebook-bagaggio-qual-escolher)."
         ],
         "images": [
@@ -170232,20 +170324,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Idade: sem indicação na loja",
         "paragraphs": [
-          "Faixa etária não aparece na página, e este texto não diz para qual idade serve cada linha. A loja separa os modelos por infantil, juvenil, feminina e masculina, e a tabela segue esses nomes. Se a dúvida é a idade, pergunte à loja antes de comprar."
+          "A página não traz faixa etária: a loja separa os modelos por infantil, juvenil, feminina e masculina, e a tabela segue esses nomes. Se a dúvida é a idade, pergunte à loja antes de comprar."
         ]
       },
       {
         "heading": "Garantia da linha escolar",
         "paragraphs": [
-          "A garantia é a que a Bagaggio anuncia: 90 dias na Star Candy, na Homem Aranha e na High Shape III. Nos outros modelos da tabela, a página não traz garantia, e o texto não atribui outra. Vale conferir na página do produto antes de comprar."
+          "A garantia é a que a Bagaggio anuncia: 90 dias na Star Candy, na Homem Aranha e na High Shape III. Nos outros modelos, a página não traz garantia: confira na página do produto antes de comprar."
         ]
       },
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto, com um cupom por pedido. A promoção de 50% na 2ª peça é outro cupom e não soma com o CECILIA10. No Pix, a loja tira mais 5%.",
-          "Não testamos o cupom no carrinho de uma mochila nesta rodada, então confira o desconto no resumo do pedido antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio)."
+          "Confira o desconto no resumo do pedido antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio)."
         ]
       },
       {
@@ -170256,9 +170348,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quer gastar menos: Listras, a R$ 49,90, ou Grid, a R$ 99,90, ambas 43 × 32 × 14 cm e sem garantia informada pela loja.",
           "Quer rodinha: Minnie ou Cinderela, ambas a R$ 199,90 e 30 × 15 × 41 cm. Com o Homem Aranha, a R$ 329,90, a empresa anuncia 90 dias.",
-          "Juvenil feminina: Star Candy, a R$ 249,90, com 90 dias de garantia, segundo a Bagaggio.",
+          "Juvenil feminina: Star Candy, a R$ 249,90, com 90 dias de garantia, diz a página.",
           "Notebook junto: High Shape III, a R$ 399,90, com 90 dias de garantia, na descrição da marca."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a Star Candy, porque tem medida e garantia informadas.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Perguntas frequentes",
@@ -170281,7 +170375,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA10",
     "affiliate": "bagaggio",
-    "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+    "editorialNote": "Feito com as fichas públicas da loja. O cupom não foi testado no carrinho de uma mochila. Podemos receber comissão pelas compras com o CECILIA10.",
     "relatedArticles": [
       {
         "slug": "mochila-notebook-bagaggio-qual-escolher",
@@ -170299,7 +170393,18 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-bagaggio-como-usar",
         "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "A garantia pesa na compra: Star Candy, Homem Aranha e High Shape III trazem 90 dias informados pela loja.",
+        "A criança quer personagem: as licenciadas Disney e Marvel da tabela.",
+        "O notebook vai junto: a loja indica a High Shape III para notebook."
+      ],
+      "skipIf": [
+        "Você escolhe pela idade: a loja não traz faixa etária, então a escolha é pela medida da tabela.",
+        "Você quer personagem e garantia ao mesmo tempo: entre as licenciadas, só o Homem Aranha informa 90 dias."
+      ]
+    }
   },
   {
     "id": 752,
@@ -170339,7 +170444,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A própria Skelt classifica o Bronzeado Instantâneo como maquiagem corporal, e não como autobronzeador. A descrição resumida traz a frase “maquiagem corporal para uma pele bronzeada em segundos”. Por isso ele não substitui o autobronzeador quando a ideia é uma cor que dure dias.",
           "A área indicada é corpo, e a Skelt não fala de rosto. Este texto segue essa indicação.",
-          "Ninguém do site usou o produto. Tudo aqui vem da página oficial, e o que a Skelt diz sobre resultado é atribuído a ela. Para escolher entre os autobronzeadores da linha, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
+          "Tudo aqui vem da página oficial, e o que a Skelt diz sobre resultado é atribuído a ela. Para escolher entre os autobronzeadores da linha, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
         ],
         "comparisonTable": {
           "headers": [
@@ -170379,10 +170484,11 @@ export const reviewsData: unknown[] = [
               "7 a 12 dias",
               "Corpo"
             ]
-          ]
+          ],
+          "caption": "Dados da ficha de cada item na Skelt; preço e estoque mudam, confira no site antes de comprar."
         },
         "postParagraphs": [
-          "Preço de cartão lido na loja. Pix e cupom: o SKEMCASACOMCECILIA, o [cupom Skelt](/cupons/skelt), dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só. Não calculamos o valor final com o cupom nesta leitura: confira no resumo do pedido."
+          "Preço de cartão lido na loja. Pix e cupom: o SKEMCASACOMCECILIA, o [cupom Skelt](/cupons/skelt), dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só."
         ],
         "image": {
           "src": "/images/reviews/skelt/bronzeado-instantaneo-skelt-ou-autobronzeador-frasco.webp",
@@ -170395,7 +170501,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar: o modo de uso da Skelt",
         "paragraphs": [
-          "Conforme a marca, o produto é aplicado assim:"
+          "A Skelt manda aplicar assim:"
         ],
         "bullets": [
           "Aplique uma quantidade generosa na mão ou na [Luva Aplicadora](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz).",
@@ -170403,7 +170509,7 @@ export const reviewsData: unknown[] = [
           "Espere o produto secar antes de se vestir."
         ],
         "postParagraphs": [
-          "O produto pode ser passado com as mãos ou com a luva, que a loja vende à parte por R$ 34,90. Entre os benefícios, a Skelt também cita uniformizar o tom da pele. É o que a marca escreve, não uma promessa deste texto."
+          "O produto pode ser passado com as mãos ou com a luva, que a loja vende à parte por R$ 34,90. Entre os benefícios, a Skelt também cita uniformizar o tom da pele."
         ],
         "image": {
           "src": "/images/reviews/skelt/bronzeado-instantaneo-skelt-ou-autobronzeador-cores.webp",
@@ -170426,7 +170532,9 @@ export const reviewsData: unknown[] = [
           "caption": "Foto oficial da Skelt, para comparar o formato com o frasco do Bronzeado Instantâneo.",
           "objectFit": "contain",
           "aspectRatio": 0.8698
-        }
+        },
+        "emphasis": "Pelos números da tabela, para quem quer a cor para hoje a escolha é o Bronzeado Instantâneo, porque a Skelt o indica como maquiagem corporal de 12 a 24 horas, contra 7 a 12 dias do mousse e da água.",
+        "emphasisAfterParagraph": 2
       },
       {
         "heading": "Perguntas frequentes",
@@ -170436,12 +170544,6 @@ export const reviewsData: unknown[] = [
           "Serve no rosto? A Skelt indica área corpo e não fala de rosto, então este texto não afirma o uso no rosto.",
           "Sai com o banho? A página do produto não traz essa informação, então este texto não afirma.",
           "Qual dura mais, o instantâneo ou o autobronzeador? O instantâneo dura de 12 a 24 horas, e o mousse e a água, de 7 a 12 dias, pela descrição da marca."
-        ]
-      },
-      {
-        "heading": "Como este guia foi feito",
-        "paragraphs": [
-          "Ninguém do site usou os produtos. Este texto reúne o que a Skelt publica na ficha de cada item: modo de uso, área, duração e preço. O que a marca anuncia sobre desempenho é dela, e não resultado que tenhamos visto. Preço e estoque mudam; confira no site da Skelt antes de comprar. Podemos receber comissão pelas compras feitas pelos links da Skelt ou com o cupom SKEMCASACOMCECILIA."
         ]
       }
     ],
@@ -170455,7 +170557,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "SKEMCASACOMCECILIA",
     "affiliate": "skelt",
-    "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
+    "editorialNote": "Não usamos os produtos. Não calculamos o valor final com o cupom. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
         "slug": "autobronzeador-skelt-qual-escolher",
@@ -170473,7 +170575,17 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-skelt-como-usar",
         "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "A cor é para hoje e o tempo é curto: o Bronzeado Instantâneo, que a marca descreve como maquiagem corporal.",
+        "A cor é para a semana: o mousse, com cor-guia, ou a água, incolor."
+      ],
+      "skipIf": [
+        "A ideia é o rosto: a marca indica área corpo e não fala de rosto.",
+        "O brilho vem por cima do bronze: o iluminador é outro produto."
+      ]
+    }
   },
   {
     "id": 753,
@@ -170511,7 +170623,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Passo a passo do removedor",
         "paragraphs": [
-          "O modo de uso do removedor vem da página do produto. A área indicada é corpo. Para escolher o autobronzeador antes de pensar em tirar, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
+          "Na pele seca e na área do corpo: esse é o modo da marca. Para escolher o autobronzeador antes de pensar em tirar, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
         ],
         "bullets": [
           "Agite o produto.",
@@ -170521,7 +170633,7 @@ export const reviewsData: unknown[] = [
           "Tire o excesso do produto com água."
         ],
         "postParagraphs": [
-          "O [Removedor de Autobronzeador](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é o item que a Skelt indica para isso. A página não traz dado de quanto ele tira de bronze, e ninguém do site testou o produto."
+          "O [Removedor de Autobronzeador](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é o item que a Skelt indica para isso. A página não traz dado de quanto ele tira de bronze."
         ],
         "image": {
           "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-frasco.webp",
@@ -170536,7 +170648,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Skelt pede pelo menos 3 dias depois da aplicação. Antes desse prazo, a página não indica o removedor. Se a ideia é um bronze para hoje, o [bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) é outro produto, com instruções próprias.",
           "O [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem outra regra. Pela descrição da marca, após o tempo de ação, o produto se retira no banho e apenas com água morna. É o procedimento da marca para esse produto, não um substituto do removedor.",
-          "Se você não tem o removedor e o autobronzeador não é o Bifásico, este texto não sugere outro método. A página de cada produto é que manda. Quem quer o brilho depois do bronze encontra o [iluminador corporal](/reviews/iluminador-corporal-skelt-como-usar) em outro artigo."
+          "Sem o removedor, siga a página do seu autobronzeador. Quem quer o brilho depois do bronze encontra o [iluminador corporal](/reviews/iluminador-corporal-skelt-como-usar) em outro artigo."
         ],
         "image": {
           "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-mao.webp",
@@ -170549,7 +170661,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e o que vem junto",
         "paragraphs": [
-          "Os preços são de cartão, lidos na loja. A luva não entra na conta de remoção: ela é a peça de aplicação."
+          "A conta é só do removedor: a luva é peça de aplicação, não de remoção."
         ],
         "comparisonTable": {
           "headers": [
@@ -170574,10 +170686,11 @@ export const reviewsData: unknown[] = [
               "-",
               "Aplicar o autobronzeador, não remover"
             ]
-          ]
+          ],
+          "caption": "Preço de cartão, da ficha do produto e da luva na Skelt; preço e estoque mudam, confira no site antes de comprar."
         },
         "postParagraphs": [
-          "Pix e cupom: o SKEMCASACOMCECILIA, o [cupom Skelt](/cupons/skelt), dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só. Não calculamos o valor final com o cupom nesta leitura, então confira no resumo do pedido."
+          "Pix e cupom: o SKEMCASACOMCECILIA, o [cupom Skelt](/cupons/skelt), dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só."
         ],
         "image": {
           "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-luva.webp",
@@ -170596,12 +170709,6 @@ export const reviewsData: unknown[] = [
           "Funciona? A página não traz dado de eficácia, e ninguém do site testou o produto.",
           "Posso usar no rosto? A Skelt indica área corpo, então este texto não recomenda o rosto."
         ]
-      },
-      {
-        "heading": "Como este guia foi feito",
-        "paragraphs": [
-          "Ninguém do site usou o removedor. Este texto reúne o que a Skelt publica na ficha do produto e da luva: modo de uso, área, prazo e preço. O que a marca anuncia sobre o produto é dela, e não resultado que tenhamos visto. Preço e estoque mudam; confira no site da Skelt antes de comprar. Podemos receber comissão pelas compras feitas pelos links da Skelt ou com o cupom SKEMCASACOMCECILIA."
-        ]
       }
     ],
     "pros": [],
@@ -170614,7 +170721,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "SKEMCASACOMCECILIA",
     "affiliate": "skelt",
-    "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
+    "editorialNote": "Não usamos os produtos. Não calculamos o valor final com o cupom. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
         "slug": "autobronzeador-skelt-qual-escolher",
@@ -170670,10 +170777,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar, segundo o modo de uso da Skelt",
         "paragraphs": [
-          "A página do produto manda aplicar uma quantidade generosa na mão ou na luva, espalhar em movimentos circulares até obter uma cor uniforme e esperar secar antes de se vestir."
+          "A página manda aplicar uma quantidade generosa na mão ou na luva e espalhar em movimentos circulares até uma cor uniforme. Depois é só esperar secar antes de se vestir."
         ],
         "postParagraphs": [
-          "O produto pode ser passado com as mãos ou com a [Luva Aplicadora](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), vendida à parte. A Skelt lista como benefícios pele dourada e iluminada e uniformizar o tom da pele. São o que a marca escreve, não promessas deste texto."
+          "O produto pode ser passado com as mãos ou com a [Luva Aplicadora](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), vendida à parte. A Skelt lista como benefícios pele dourada e iluminada e uniformizar o tom da pele."
         ],
         "image": {
           "src": "/images/reviews/skelt/iluminador-corporal-skelt-como-usar-frasco.webp",
@@ -170686,8 +170793,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Corpo e rosto: as áreas de uso",
         "paragraphs": [
-          "A página do Iluminador Corporal indica área corpo e rosto, com nível de iniciante a expert. Não há variação de tom: o iluminador aparece no site como um produto só, sem cor para escolher.",
-          "Ninguém do site usou o produto no rosto. Este texto repete o que a Skelt indica e não descreve resultado nenhum."
+          "A Skelt indica o iluminador para corpo e rosto, com nível de iniciante a expert, num tom só, sem cor para escolher.",
+          "No rosto, comece com pouco, numa área pequena, e espere secar antes de julgar o brilho."
         ],
         "image": {
           "src": "/images/reviews/skelt/iluminador-corporal-skelt-como-usar-pele.webp",
@@ -170719,7 +170826,8 @@ export const reviewsData: unknown[] = [
               "Mousse 140 ml, luva aplicadora e iluminador 120 ml",
               "R$ 191,78 (de R$ 225,62)"
             ]
-          ]
+          ],
+          "caption": "Dados da ficha de cada item na Skelt; preço e estoque mudam, confira no site antes de comprar."
         },
         "postParagraphs": [
           "Comprados separados, o [Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 119,90), a [Luva Aplicadora](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 34,90) e o iluminador (R$ 99,90) somam R$ 254,70. O kit sai por R$ 191,78, R$ 62,92 a menos. Se quer só o brilho, o iluminador avulso é a conta.",
@@ -170748,12 +170856,6 @@ export const reviewsData: unknown[] = [
           "Serve no rosto? A Skelt indica corpo e rosto. Este texto segue essa indicação e não diz qual é o resultado no rosto.",
           "Precisa de luva? Não. A Skelt diz que o produto pode ser passado com as mãos ou com a luva, vendida à parte por R$ 34,90.",
           "Compensa comprar no kit? Se você quer as três peças (mousse, luva e iluminador), o kit sai R$ 62,92 mais barato que comprar cada uma separada. Se só quer o mousse e a luva, avulsos eles somam R$ 154,80, menos que o kit."
-        ]
-      },
-      {
-        "heading": "Como este guia foi feito",
-        "paragraphs": [
-          "Ninguém do site usou os produtos. Este texto reúne o que a Skelt publica na ficha de cada item: modo de uso, área, duração e preço. O que a marca anuncia sobre desempenho é dela, e não resultado que tenhamos visto. Preço e estoque mudam; confira no site da Skelt antes de comprar. Podemos receber comissão pelas compras feitas pelos links da Skelt ou com o cupom SKEMCASACOMCECILIA."
         ]
       }
     ],
@@ -170816,7 +170918,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para o dia a dia, a Tech T-Shirt é o ponto de partida, de 92% modal e 8% elastano. Quer mais corpo? A Heavy, segundo a loja, é 20% mais encorpada que a Tech. A Core, de viscose e com textura leve, é a opção mais leve. Cada linha está na tabela abaixo."
+          "Para o dia a dia, a Tech T-Shirt é o ponto de partida, de 92% modal e 8% elastano. Quer mais corpo? A Heavy é 20% mais encorpada que a Tech, diz a página dela. A Core, de viscose e com textura leve, é a opção mais leve. Cada linha está na tabela abaixo."
         ]
       },
       {
@@ -170916,7 +171018,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech T-Shirt: a base do dia a dia",
         "paragraphs": [
-          "A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) é de 92% modal e 8% elastano e custa R$ 129. Pela descrição oficial, ela desamassa no corpo e não desbota com as lavagens, e a marca diz que a peça tem efeito antiodor.",
+          "A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) é a base do dia a dia: 92% modal e 8% elastano, por R$ 129, e a marca diz que desamassa no corpo e tem efeito antiodor.",
           "A garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, considerando uma lavagem por semana. As outras linhas não trazem essa garantia.",
           "Quem leva mais de uma pode olhar o kit: o de 5 Tech sai a R$ 108,88 por peça, e o cupom entra por cima. A conta está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
           "As versões femininas, com a Tech, a Gola V e a manga longa, estão em [Camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher)."
@@ -170991,8 +171093,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Heavy e Heavy Slim: corpo e caimento",
         "paragraphs": [
-          "Pela descrição da [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp), a peça é 20% mais encorpada que a Tech, não marca o corpo e tem caimento mais liso. A gramatura fica entre a Tech e a Oversized. O preço vai de R$ 155 a R$ 199, conforme a cor e o tamanho.",
-          "A [Heavy Slim](https://creators.insiderstore.com.br/DVarEMW), também de 92% modal, tem gola fina, mangas um pouco mais curtas e tronco ajustado, segundo a loja. Sai por R$ 179 (de R$ 199), e a própria página indica a Heavy para quem quer um modelo mais solto."
+          "A [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) é 20% mais encorpada que a Tech: não marca o corpo e tem caimento mais liso. A gramatura fica entre a Tech e a Oversized. O preço vai de R$ 155 a R$ 199, conforme a cor e o tamanho.",
+          "A [Heavy Slim](https://creators.insiderstore.com.br/DVarEMW), também de 92% modal, tem gola fina, mangas um pouco mais curtas e tronco ajustado, diz a página. Sai por R$ 179 (de R$ 199), e a própria página indica a Heavy para quem quer um modelo mais solto."
         ],
         "images": [
           {
@@ -171033,7 +171135,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Core e Daily: viscose, gramatura e encolhimento",
         "paragraphs": [
-          "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), por R$ 179 (de R$ 189), é a que a loja descreve com maior gramatura, modelagem regular e textura leve.",
+          "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), por R$ 179 (de R$ 189), é a de maior gramatura, modelagem regular e textura leve.",
           "A [Daily](https://creators.insiderstore.com.br/bRopqTz) custa R$ 99 (de R$ 139), o menor preço da tabela. A página avisa que ela pode encolher até 2 cm no comprimento depois da primeira lavagem e que já tem o desconto máximo, por isso não aceita cupom."
         ],
         "images": [
@@ -171221,6 +171323,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Para escolher uma só, a Tech T-Shirt",
+        "paragraphs": [
+          "A Tech é a única linha com garantia de 2 anos contra desbotamento; as outras não trazem essa garantia. Quem quer mais corpo olha a Heavy."
+        ],
+        "emphasis": "Para escolher uma só, a escolha é a Tech T-Shirt, porque é o ponto de partida do dia a dia, com garantia de 2 anos contra desbotamento."
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Tech T-Shirt desbota? A loja diz que não, e a garantia de 2 anos contra desbotamento vale com uma lavagem por semana.",
@@ -171234,6 +171343,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Tech se quer a camiseta do dia a dia, sozinha ou por baixo de camisa aberta, com garantia de 2 anos contra desbotamento.",
+        "Leve a Heavy se não quer a camiseta marcando o corpo ou vai usá-la por baixo do blazer.",
+        "Leve a Performance ou a Sportee se é para treino ao ar livre: as duas trazem proteção UV50+ na descrição."
+      ],
+      "skipIf": [
+        "Passe na Daily se não quer encolhimento ou conta com o cupom: ela pode encolher até 2 cm na primeira lavagem e não aceita cupom.",
+        "Passe na Heavy Slim se quer um modelo mais solto: a própria página indica a Heavy."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -171325,7 +171445,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os três lado a lado",
         "paragraphs": [
-          "A tabela junta o que cada página mostra em 30/10/2026: tamanhos, estoque, cores e o preço do cartão, sem cupom. O nome do modelo leva à página dele."
+          "Os três custam o mesmo e a diferença é a faixa de tamanho, com estoque, cores e preço na tabela. O nome do modelo leva à página dele."
         ],
         "comparisonTable": {
           "headers": [
@@ -171363,7 +171483,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comfort Up: a faixa maior",
         "paragraphs": [
-          "O Comfort Up é o que tem mais tamanhos: do PP (34-36) ao G3 (54-56), com G2 e G3, que os outros dois não têm. A página fala em “equilíbrio perfeito entre sustentação e bem-estar” e diz que o conforto vem “sem aros que machucam”.",
+          "O Comfort Up é o que tem mais tamanhos: do PP (34-36) ao G3 (54-56), com G2 e G3, que os outros dois não têm.",
           "A página diz que o ajuste de tamanho fica nas costas e que a peça não tem aros. A foto de costas mostra o fecho com ganchos e as alças com regulagem."
         ],
         "images": [
@@ -171386,7 +171506,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comfort Line: tomara que caia e alças",
         "paragraphs": [
-          "A loja chama o Line de “o mais versátil da nossa linha”: dá para usar como tomara que caia ou combinar as alças. Ele não tem PP. A tabela começa no P (38-40) e vai até o G1 (46-48).",
+          "O Line é o versátil: dá para usar como tomara que caia ou combinar as alças. Ele não tem PP. A tabela começa no P (38-40) e vai até o G1 (46-48).",
           "Uma das fotos da loja lista faixas de silicone antideslizantes, alças multiuso e fecho ajustável, e avisa que este modelo tem modelagem menor. Quem usa PP fica com o Comfort Up ou o Comfort Slim."
         ],
         "images": [
@@ -171416,7 +171536,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comfort Slim: o minimalista, do PP ao GG",
         "paragraphs": [
-          "A loja descreve o Slim com “leveza” e “design minimalista e atemporal”, e diz que o modelo serve tanto para esconder o sutiã quanto para aparecer em transparências. Vai do PP (34-36) ao GG (44-46).",
+          "O Slim é o minimalista: esconde sob a roupa ou aparece sob transparência. Vai do PP (34-36) ao GG (44-46).",
           "PP e M estavam com o estoque mais curto, 3 de 5 variantes cada. Se a sua faixa for uma delas, confira antes de decidir."
         ],
         "images": [
@@ -171535,7 +171655,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço, cupom e frete",
         "paragraphs": [
-          "Os três custam R$ 189,90 no cartão, de R$ 199,90. O preço muda com as campanhas da loja, então confira no site antes de comprar.",
+          "Os três custam R$ 189,90 no cartão, de R$ 199,90.",
           "O cupom MAUAD dá 10% em todo o site da Toda Up, inclusive em produto que já está com desconto. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Para ver todos os cupons da loja, veja [o cupom da Toda Up](/cupons/toda-up).",
           "O frete é calculado pelo CEP, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento, segundo a política de envio. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas."
         ]
@@ -171608,7 +171728,8 @@ export const reviewsData: unknown[] = [
               ]
             }
           ]
-        }
+        },
+        "emphasis": "Se fosse para mim, eu levaria o Comfort Up, porque tem a maior faixa de tamanho, do PP ao G3."
       },
       {
         "heading": "Perguntas frequentes",
@@ -171621,7 +171742,18 @@ export const reviewsData: unknown[] = [
           "O Comfort Slim tem PP e M? Tem, mas com estoque mais curto: 3 de 5 variantes em cada um."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve o Comfort Up se usa G2 ou G3 ou quer a maior faixa de tamanho: ele vai do PP ao G3.",
+        "Leve o Comfort Line se quer tomara que caia ou alças combinadas e usa a partir do P.",
+        "Leve o Comfort Slim se quer o modelo minimalista, do PP ao GG."
+      ],
+      "skipIf": [
+        "Passe no Line se usa PP: a tabela dele começa no P.",
+        "Não escolha só pelo número se a sua medida fica entre duas faixas: compare o sob busto e o busto de cada modelo na tabela."
+      ]
+    }
   },
   {
     "id": 757,
@@ -171676,7 +171808,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisetas: a tabela",
         "paragraphs": [
-          "Preços de 30/10/2026, no cartão e sem cupom. Cada linha compara o kit com as peças avulsas da mesma linha."
+          "Na tabela, cada linha compara o kit com as avulsas: o de 5 e o de 10 Tech compensam, e o de 3, pouco."
         ],
         "comparisonTable": {
           "headers": [
@@ -171783,7 +171915,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Heavy: a cor muda a conta",
         "paragraphs": [
-          "A [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) avulsa vai de R$ 155 a R$ 199, conforme a cor e o tamanho. Com a avulsa a R$ 169, o kit de 5 economiza 17%, e o de 3, 13%. Se a avulsa que você quer for a de R$ 155, as economias caem para 10% e 5%."
+          "A [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) avulsa vai de R$ 155 a R$ 199, pela cor e o tamanho. Com a avulsa a R$ 169, o kit de 5 economiza 17%, e o de 3, 13%. Se a avulsa que você quer for a de R$ 155, as economias caem para 10% e 5%."
         ],
         "images": [
           {
@@ -171936,7 +172068,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cueca Slip: o kit de 5 e o de 10",
         "paragraphs": [
-          "A Cueca Slip avulsa custa R$ 75. O kit de 5 sai a R$ 67,80 por peça, 10% a menos. O de 10 sai a R$ 63,90, 15% a menos."
+          "Na Slip, o kit de 5 sai a R$ 67,80 por peça, 10% abaixo da avulsa de R$ 75. O de 10 sai a R$ 63,90, 15% a menos."
         ],
         "images": [
           {
@@ -171975,9 +172107,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Compensa: Tech de 5 e de 10, Heavy de 3 e de 5, Slip de 10 e Cueca Comfort de 2.",
           "Compensa pouco: Tech de 3, Cueca Comfort ou Performance de 3 e de 5, Slip de 5 e undershirt de 3.",
-          "Não compensa: Daily de 3 (2%) e o kit de 3 Tech de R$ 456, que custa R$ 69 a mais que as avulsas.",
-          "Esgotados: os kits de 10 cuecas Comfort e Performance."
-        ]
+          "Não compensa: Daily de 3 (2%) e o kit de 3 Tech de R$ 456, que custa R$ 69 a mais que as avulsas."
+        ],
+        "emphasis": "Pelos números da tabela, para camisetas lisas a escolha é o kit de 5 Tech, porque sai a R$ 108,88 por peça, contra R$ 129 da avulsa."
       },
       {
         "heading": "Presente: outro texto",
@@ -171998,6 +172130,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve o kit de 5 ou de 10 Tech se quer várias camisetas lisas: é onde a economia por peça é maior.",
+        "Leve o kit de 2 Comfort se quer cueca: é a maior economia da tabela."
+      ],
+      "skipIf": [
+        "Passe no kit de 3 Daily, que quase não economiza.",
+        "Passe no kit de 3 Tech mais caro: ele custa mais que as três avulsas."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -172060,7 +172202,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "Usamos só o que as lojas publicam: rótulo, preço de venda e tamanho do pote. Comparamos os potes de glutamina das lojas oficiais, sem marketplace. Ninguém da equipe usou estes produtos.",
+          "Usamos só o que as lojas publicam: rótulo, preço de venda e tamanho do pote. Comparamos os potes de glutamina das lojas oficiais, sem marketplace.",
           "As contas são nossas, arredondadas no centavo:"
         ],
         "bullets": [
@@ -172164,7 +172306,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pote de 300 g ou menor",
         "paragraphs": [
-          "Os potes de 300 g da Max e da Probiótica empatam: 60 doses por R$ 69,90. Segundo a Max, a matéria-prima da L-G é de fonte vegetal.",
+          "Os potes de 300 g da Max e da Probiótica empatam: 60 doses por R$ 69,90. A matéria-prima da L-G é de fonte vegetal, diz a Max.",
           "Os potes menores saem mais caros por grama. O de 120 g da Probiótica tem 24 doses e o de 150 g da Max tem 30, ambos a R$ 32,8 por 100 g, cerca de 40% mais que o de 300 g da mesma marca."
         ],
         "image": {
@@ -172181,7 +172323,8 @@ export const reviewsData: unknown[] = [
           "**Menor preço por grama de glutamina pura:** Max Titanium ou Probiótica, pote de 300 g.",
           "**Marca da Black Skull:** o pote de 300 g, R$ 26,63 por 100 g.",
           "**Quer testar antes de comprar o pote grande:** o de 120 g da Probiótica ou o de 150 g da Max, com o preço por grama mais alto."
-        ]
+        ],
+        "emphasis": "Pelos números da tabela, para quem quer pagar menos por grama de glutamina pura a escolha é o pote de 300 g da Max ou da Probiótica, porque sai a R$ 23,30 por 100 g, abaixo dos R$ 26,63 da Black Skull."
       },
       {
         "heading": "Cupom de cada loja",
@@ -172199,6 +172342,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Para pagar menos por grama de glutamina pura: o pote de 300 g da Max ou da Probiótica.",
+        "Para testar antes de comprar o pote grande: o de 120 g da Probiótica ou o de 150 g da Max, com o preço por grama mais alto."
+      ],
+      "skipIf": [
+        "Para uma fórmula só de glutamina: a Turbo não serve, porque metade da porção é maltodextrina.",
+        "Para usar por muito tempo: os potes menores custam cerca de 40% mais por grama."
+      ]
+    },
     "gallery": [
       {
         "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
@@ -172344,13 +172497,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual cor",
         "paragraphs": [
-          "A linha tem quatro cores: âmbar, azul, verde e rosa. O âmbar é o mais fácil de combinar com madeira, linho e louça clara. Azul e verde dão contraste com o branco. O rosa é o que mais muda o clima da mesa."
+          "São quatro cores, âmbar, azul, verde e rosa, e o âmbar é o mais fácil de combinar: vai com madeira, linho e louça clara. Azul e verde dão contraste com o branco. O rosa é o que mais muda o clima da mesa."
         ]
       },
       {
         "heading": "Qual tamanho: 450 ml ou 250 ml",
         "paragraphs": [
-          "A taça de 450 ml mede 15 cm de altura e 8,5 cm de diâmetro, segundo a loja. É de vidro, transparente, com base colorida.",
+          "A taça de 450 ml mede 15 cm de altura e 8,5 cm de diâmetro, diz a página. É de vidro, transparente, com base colorida.",
           "A de 250 ml tem o nome de taça para champanhe. A descrição da loja não diz para qual bebida serve a de 450 ml."
         ]
       },
@@ -172521,6 +172674,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Para 4 pessoas, o kit 6 + 6",
+        "paragraphs": [
+          "A linha Sphere só sai em conjunto, então a conta é por taça, como na tabela: o kit 6 + 6 sai a R$ 46,42 por taça, contra R$ 49,67 do conjunto de 450 ml e R$ 48,17 do de 250 ml."
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o kit 6 + 6, porque cobre vinho e champanhe para 4 pessoas e a taça sai a menos que nos jogos de 6."
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
           "A taça Sphere é de vidro? Sim. A loja descreve vidro transparente com base colorida.",
@@ -172530,6 +172690,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve o kit 6 + 6 se a mesa de 4 serve vinho e champanhe: ele cobre os dois.",
+        "Leve um jogo de 6 se a mesa serve uma bebida só."
+      ],
+      "skipIf": [
+        "Passe na linha Sphere se quer peça avulsa: ela só sai em conjunto.",
+        "Passe se a dúvida é a lava-louças: a descrição da loja não diz."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -172660,7 +172830,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech T-Shirt feminina: a base do dia a dia",
         "paragraphs": [
-          "A [Tech T-Shirt feminina](https://creators.insiderstore.com.br/52ZMYx2) sai por R$ 129 (de R$ 169), em PP a XGG. A marca diz que ela desamassa no corpo e tem efeito antiodor. A garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, com uma lavagem por semana. A loja descreve o tecido como INTECH, sem a composição."
+          "A [Tech T-Shirt feminina](https://creators.insiderstore.com.br/52ZMYx2) é a base do dia a dia, em PP a XGG, por R$ 129. A marca diz que ela desamassa no corpo e tem efeito antiodor. A garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, com uma lavagem por semana. A loja descreve o tecido como INTECH, sem a composição."
         ],
         "images": [
           {
@@ -172710,7 +172880,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gola V: a mesma linha, com outra gola",
         "paragraphs": [
-          "A [Gola V](https://creators.insiderstore.com.br/hwvgusR) tem gola levemente alongada e sai pelo mesmo preço, R$ 129 (de R$ 169). Segundo a loja, é de 92% modal e 8% elastano e não desbota com o tempo."
+          "A [Gola V](https://creators.insiderstore.com.br/hwvgusR) é a mesma Tech com o decote em V, no mesmo preço, de 92% modal e 8% elastano. Para o trabalho com gola fechada, fique na Tech redonda."
         ],
         "images": [
           {
@@ -172755,7 +172925,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Manga longa: a Tech para o frio",
         "paragraphs": [
-          "A [Tech T-Shirt Manga Longa feminina](https://creators.insiderstore.com.br/TQxS7si) é de 92% TENCEL™ Modal e 8% elastano. A loja a indica para o inverno e a meia estação e fala em conforto térmico. Sai por R$ 199 (de R$ 239), em PP a XGG."
+          "Para o frio, a [Tech T-Shirt Manga Longa feminina](https://creators.insiderstore.com.br/TQxS7si) é a Tech de inverno e meia estação, de 92% TENCEL™ Modal e 8% elastano. A loja fala em conforto térmico. Sai por R$ 199 (de R$ 239), em PP a XGG."
         ],
         "images": [
           {
@@ -172793,7 +172963,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Daily e NEXTECH: viscose e premium",
         "paragraphs": [
-          "A Camiseta Básica Tech Daily feminina é a mais barata da lista: R$ 99 (de R$ 139), com 94% viscose e 6% elastano, segundo a loja. A página avisa que ela pode encolher até 2 cm no comprimento depois da primeira lavagem.",
+          "A Camiseta Básica Tech Daily feminina é a mais barata da lista: R$ 99 (de R$ 139), com 94% viscose e 6% elastano, diz a página. A página avisa que ela pode encolher até 2 cm no comprimento depois da primeira lavagem.",
           "A [Premium NEXTECH feminina](https://creators.insiderstore.com.br/PiVkjhd) é de 92% liocel e 8% elastano, e sai por R$ 129 (de R$ 215), em P a GG. A loja fala em caimento levemente encorpado, para não marcar o corpo, e traz um dado da marca: até 11 vezes menos bactérias do mau cheiro que o algodão."
         ],
         "images": [
@@ -172852,7 +173022,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "The Perfect Top T-Shirt: baby tee",
         "paragraphs": [
-          "A [The Perfect Top T-Shirt](https://creators.insiderstore.com.br/ZxySZ23) é de 87,5% poliamida biodegradável e 12,5% elastano. A loja fala em formato baby tee, sem bojo e com gola U, e em proteção UV+50, que é da marca. Sai por R$ 129 a R$ 149 (de R$ 149), conforme a cor e o tamanho. A loja marca estoque baixo."
+          "A [The Perfect Top T-Shirt](https://creators.insiderstore.com.br/ZxySZ23) é a baby tee da lista: sem bojo e com gola U, de 87,5% poliamida biodegradável e 12,5% elastano. A loja fala em proteção UV+50, que é da marca. Sai por R$ 129 a R$ 149 (de R$ 149), conforme a cor e o tamanho. A loja marca estoque baixo."
         ],
         "images": [
           {
@@ -172890,7 +173060,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Skin Cropped: cropped e manga longa",
         "paragraphs": [
-          "A [Blusa Segunda Pele Manga Longa Skin Cropped](https://creators.insiderstore.com.br/HEfoAPL) é de 88% modal e 12% elastano. A loja diz que é uma segunda pele de manga longa, com gola média e modelagem justa. Sai por R$ 145 a R$ 165 (de R$ 165).",
+          "A [Blusa Segunda Pele Manga Longa Skin Cropped](https://creators.insiderstore.com.br/HEfoAPL) é a segunda pele de manga longa, de 88% modal e 12% elastano, com gola média e modelagem justa. Sai por R$ 145 a R$ 165 (de R$ 165).",
           "A [Blusa Skin Cropped](https://creators.insiderstore.com.br/bgkXdGE), também de 88% modal e 12% elastano, sai por R$ 99 (de R$ 119). A loja a descreve como cropped para usar como segunda pele, no treino ou como peça principal, com toque ultra macio."
         ],
         "images": [
@@ -172967,6 +173137,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Para escolher uma só, a Tech feminina",
+        "paragraphs": [
+          "A Tech feminina vai do PP ao XGG, e a Gola V repete o mesmo preço com outro decote, do PP ao GG."
+        ],
+        "emphasis": "Se fosse para mim, eu levaria a Tech T-Shirt feminina, porque é o ponto de partida do dia a dia, do PP ao XGG."
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Tech T-Shirt feminina desbota? A marca diz que não, e a garantia de 2 anos contra desbotamento vale com uma lavagem por semana.",
@@ -172977,6 +173154,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Tech feminina se quer a base do dia a dia, em PP a XGG, sozinha ou por baixo de camisa aberta e blazer.",
+        "Leve a Gola V se quer a mesma Tech com o decote em V, no mesmo preço.",
+        "Leve a Tech de manga longa se precisa de uma opção para o frio e a meia estação."
+      ],
+      "skipIf": [
+        "Passe na Daily se não quer encolhimento: a página avisa até 2 cm depois da primeira lavagem.",
+        "Passe na NEXTECH e na The Perfect Top se usa PP ou XGG: as duas vão só do P ao GG."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -173057,7 +173245,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Preços e regras conferidos no dia da publicação na SHEIN Brasil. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y.",
+    "editorialNote": "Preços e regras conferidos no dia da publicação na SHEIN Brasil. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y. Ninguém da equipe usou as peças.",
     "relatedArticles": [
       {
         "slug": "shein-e-confiavel",
@@ -173168,7 +173356,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Três vestidos lidos na SHEIN Brasil",
         "paragraphs": [
-          "Preços de 30/10/2026, no cartão. A promoção muda o valor, então confira de novo antes de pagar. Ninguém da equipe usou essas peças. Tecido, comprimento e nota vêm das páginas dos produtos."
+          "Preços de 30/10/2026, no cartão. A promoção muda o valor, então confira de novo antes de pagar. Tecido, comprimento e nota vêm das páginas dos produtos."
         ],
         "comparisonTable": {
           "caption": "Três vestidos da SHEIN Brasil, com dados da página de cada produto.",
@@ -173293,7 +173481,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanho: use a medida da peça",
         "paragraphs": [
-          "A SHEIN publica o guia de tamanho de cada peça, em centímetros e em polegadas, com o jeito de medir. Não existe tabela única de PP a GG, então use a tabela do vestido que você escolheu.",
+          "Não existe tabela única de PP a GG: use a do vestido que você escolheu. A SHEIN publica o guia de cada peça, em centímetros e em polegadas, com o jeito de medir.",
           "Os três vão de PP a GG. A Firerie se descreve como slim fit, o que pede medida mais precisa no busto e na cintura."
         ],
         "postParagraphs": [
@@ -173338,7 +173526,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Imposto: o limite de US$ 50",
         "paragraphs": [
-          "Compra internacional de até US$ 50, somando produto e frete, não paga imposto de importação. Acima disso, a alíquota é de 60%, com desconto de US$ 30 no valor do imposto. O ICMS, de 17% a 20% conforme o estado, continua em toda compra internacional.",
+          "Compra internacional de até US$ 50, somando produto e frete, não paga imposto de importação. Acima disso, a alíquota é de 60%, com desconto de US$ 30 no valor do imposto. O ICMS, de 17% a 20% por estado, continua em toda compra internacional.",
           "A conta usa o que você paga pelo produto e pelo frete, já com desconto e cupom. A regra começou em maio e pode mudar de novo. Para o quadro completo de prazo, devolução e imposto, leia [SHEIN é confiável?](/reviews/shein-e-confiavel)."
         ]
       },
@@ -176532,8 +176720,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sutiãs: três com desconto e três Nakedfeel no preço cheio",
         "paragraphs": [
-          "Os três sutiãs com desconto custam o mesmo, R$ 99 no Outlet e R$ 84,15 com o cupom, e a grade deles é numérica, de 40 a 48. A diferença é o modelo: o Comfy é sem bojo e de sustentação leve, o Flex é o triângulo sem bojo com três jeitos de alça, e o Top Lounge tem bojo removível, sustentação média e, segundo a loja, não tem fecho atrás, o que o deixa com cara de top. O Comfy e o Flex têm a grade mais larga, em dez cores cada; o Lounge sobrou mais nos tamanhos 46 e 48.",
-          "Os três Nakedfeel (Decote V, Top e com alças removíveis) são lançamento e estão de R$ 189 a R$ 199, sem desconto do Outlet. Com o cupom saem por R$ 160,65 e R$ 169,15, e a grade é em letras, de M a XGG, em preto, Comfy Brown e Smooth Beige. Segundo a loja, os três têm bojo removível e sustentação intermediária; a diferença está no decote e na alça. Um lançamento pode ficar fora do cupom nos primeiros dias, mas no teste do carrinho o cupom entrou nos três."
+          "Os três sutiãs com desconto custam o mesmo, R$ 99 no Outlet e R$ 84,15 com o cupom, e a grade deles é numérica, de 40 a 48. A diferença é o modelo: o Comfy é sem bojo e de sustentação leve, o Flex é o triângulo sem bojo com três jeitos de alça, e o Top Lounge tem bojo removível e sustentação média, sem fecho atrás, com cara de top, diz a página. O Comfy e o Flex têm a grade mais larga, em dez cores cada; o Lounge sobrou mais nos tamanhos 46 e 48.",
+          "Os três Nakedfeel (Decote V, Top e com alças removíveis) são lançamento e estão de R$ 189 a R$ 199, sem desconto do Outlet. Com o cupom saem por R$ 160,65 e R$ 169,15, e a grade é em letras, de M a XGG, em preto, Comfy Brown e Smooth Beige. Os três têm bojo removível e sustentação intermediária, diz a página; a diferença está no decote e na alça. Um lançamento pode ficar fora do cupom nos primeiros dias, mas no teste do carrinho o cupom entrou nos três."
         ],
         "comparisonTable": {
           "headers": [
@@ -176658,7 +176846,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calcinhas, body e kits: a conta por peça",
         "paragraphs": [
-          "Nos kits de calcinha o preço bom é o por unidade. O Kit 5 Brief sai a R$ 190,19 no Outlet, R$ 38,04 a calcinha; com o cupom vai a R$ 161,66, R$ 32,33 cada. O Kit 3 Brief fica em R$ 39,40 por peça (R$ 33,49 com o cupom), o Kit 3 Tanga String em R$ 37 (R$ 31,45) e o Kit 3 Hot Pant Safe, o mais caro, em R$ 42,66 (R$ 36,26). Os kits são fechados: só o de 5 deixa escolher cor, até duas, segundo a loja.",
+          "Nos kits de calcinha o preço bom é o por unidade. O Kit 5 Brief sai a R$ 190,19 no Outlet, R$ 38,04 a calcinha; com o cupom vai a R$ 161,66, R$ 32,33 cada. O Kit 3 Brief fica em R$ 39,40 por peça (R$ 33,49 com o cupom), o Kit 3 Tanga String em R$ 37 (R$ 31,45) e o Kit 3 Hot Pant Safe, o mais caro, em R$ 42,66 (R$ 36,26). Os kits são fechados: só o de 5 deixa escolher cor, até duas, diz a página.",
           "A Calcinha Boxer avulsa, a R$ 51 (R$ 43,35 com o cupom), só sobrou em Emerald Green no PP. O Body Boxer Segunda Pele Insculpt é outra coisa: um body curto de comprimento boxer que a loja vende como segunda pele para usar por baixo da roupa. Custa R$ 179 no Outlet e R$ 152,15 com o cupom, e a grade está quase inteira em preto, de P a GG."
         ],
         "comparisonTable": {
@@ -176771,7 +176959,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Moda praia Timeless: maiô, top e calcinhas de biquíni",
         "paragraphs": [
-          "A linha Timeless é a de praia da Insider: segundo a loja, o tecido ZEAMADE é de poliamida feita de biomassa de milho, duplo e com forro, resistente ao cloro e com proteção UV 50+. O biquíni é vendido em partes, então a conta é top mais calcinha, e cada parte tem a própria grade. Tudo está com 40% de desconto.",
+          "A linha Timeless é a de praia da Insider: o tecido ZEAMADE é de poliamida feita de biomassa de milho, diz a página, duplo e com forro, resistente ao cloro e com proteção UV 50+. O biquíni é vendido em partes, então a conta é top mais calcinha, e cada parte tem a própria grade. Tudo está com 40% de desconto.",
           "O Top Wavy só sobrou em XGG, nas três cores. Para a parte de baixo, a String tem a grade mais larga (Bordeaux de PP a XGG, Toffee de P a XGG) e é a mais barata, R$ 93 no Outlet e R$ 79,05 com o cupom; a Brief é o mesmo corte da calcinha de dia a dia da loja, e a Rise é a asa-delta, mais cavada. A Hot Pant, de cintura alta, só tem PP e P. O Maiô Deep Cut, que a loja diz que serve também como body, está em Azul Marinho e Bordeaux, só em PP e XGG: R$ 225 no Outlet, R$ 191,25 com o cupom."
         ],
         "comparisonTable": {
@@ -176887,8 +177075,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisetas e regatas Tech: o tecido INTECH com desconto",
         "paragraphs": [
-          "As seis peças deste grupo são da família Tech T-Shirt, no tecido INTECH, que segundo a loja é de modal, não desbota e desamassa no corpo. É a linha mais procurada da Insider, e por isso a mais disputada no Outlet: a Tech T-Shirt feminina só sobrou em Nori Green, no PP e no XGG, e a Gola V ficou nos tamanhos PP e P. Para entender a diferença entre os cortes, veja [Camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher).",
-          "Quem usa M ou G acha mais coisa nas peças de inverno e nas regatas. A Tech T-Shirt Gola Alta Manga Longa está com quase toda a grade, em cinco cores de PP a XGG, por R$ 143 no Outlet e R$ 121,55 com o cupom. A Regata High Neck, de gola alta e ombros marcados, tem preto e off white de P a XGG, por R$ 113 (R$ 96,05 com o cupom). A Regata Intech, a esportiva cavada, é a peça mais barata do Outlet feminino: R$ 83, e R$ 70,55 com o cupom."
+          "As seis peças deste grupo são da família Tech T-Shirt, no tecido INTECH, de modal, que não desbota e desamassa no corpo, diz a página. É a linha mais procurada da Insider, e por isso a mais disputada no Outlet: a Tech T-Shirt feminina só sobrou em Nori Green, no PP e no XGG, e a Gola V ficou nos tamanhos PP e P. Para entender a diferença entre os cortes, veja [Camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher).",
+          "Quem usa M ou G acha mais coisa nas peças de inverno e nas regatas. A Tech T-Shirt Gola Alta Manga Longa está com quase toda a grade, em cinco cores de PP a XGG, por R$ 143 no Outlet e R$ 121,55 com o cupom. A Regata High Neck, de gola alta e ombros marcados, tem preto e off white de P a XGG, por R$ 113 (R$ 96,05 com o cupom). A Regata Intech, a esportiva cavada, sai por R$ 83, e R$ 70,55 com o cupom."
         ],
         "comparisonTable": {
           "headers": [
@@ -177008,7 +177196,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Blusas InLounge, Boxy e Perfect Body: as mais baratas em cima",
         "paragraphs": [
-          "A linha InLounge é a de casa da Insider: segundo a loja, um tecido mais leve e fluido, feito para conforto. A Regata Comfy InLounge é a blusa mais barata do Outlet, R$ 81 e R$ 68,85 com o cupom, com preto de PP a M e em XGG. A Camiseta Boxy InLounge tem o maior desconto da página, 50%, de R$ 199 para R$ 99 (R$ 84,15 com o cupom), mas sobrou quase só em PP. A Blusa Boxy Cropped, de tecido mais estruturado (ULTRABOLD, de liocel, segundo a loja), tem o menor desconto, 32%.",
+          "A linha InLounge é a de casa da Insider: um tecido mais leve e fluido, feito para conforto, diz a página. A Regata Comfy InLounge é a blusa mais barata do Outlet, R$ 81 e R$ 68,85 com o cupom, com preto de PP a M e em XGG. A Camiseta Boxy InLounge tem o maior desconto da página, 50%, de R$ 199 para R$ 99 (R$ 84,15 com o cupom), mas sobrou quase só em PP. A Blusa Boxy Cropped, de tecido mais estruturado (ULTRABOLD, de liocel, segundo a loja), tem o menor desconto, 32%.",
           "A Techsture Vest é uma blusa de gola alta, sem manga e com corpo estruturado, a R$ 179 (R$ 152,15 com o cupom), com preta e off-white de P a GG. O Perfect Body Manga Longa é um body-blusa de decote canoa com botões de pressão, lançamento, e sobrou só em Rust Brown no XGG: R$ 119 no Outlet, R$ 101,15 com o cupom, e o cupom entrou nele no teste."
         ],
         "comparisonTable": {
@@ -177112,7 +177300,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vestidos e saia: grade larga em preto",
         "paragraphs": [
-          "O Vestido Curto Rush é o mais barato dos dois, R$ 165 no Outlet e R$ 140,25 com o cupom, e o que mais sobrou: preto e Earth Brown de PP a XGG. Segundo a loja, ele tem top interno integrado e vai do uso casual ao esporte. O Tube Dress é o vestido tubinho da loja, de alças largas e forro duplo que, segundo ela, dispensa sutiã, sem zíper nem botão: R$ 209 no Outlet, R$ 177,65 com o cupom, preto de PP a XGG.",
+          "O Vestido Curto Rush é o mais barato dos dois, R$ 165 no Outlet e R$ 140,25 com o cupom, e o que mais sobrou: preto e Earth Brown de PP a XGG. Pela página, ele tem top interno integrado e vai do uso casual ao esporte. O Tube Dress é o vestido tubinho da loja, de alças largas e forro duplo que, segundo ela, dispensa sutiã, sem zíper nem botão: R$ 209 no Outlet, R$ 177,65 com o cupom, preto de PP a XGG.",
           "A Saia Mini Kyoto é a alfaiataria tech da Insider (tecido FutureForm, segundo a loja, que não precisa passar), de cintura alta, frente transpassada e dois bolsos. Está com a grade quase inteira, de PP a XGG, em preto, Urban Brown e Ocean Blue: R$ 195 no Outlet, R$ 165,75 com o cupom. É a única saia do Outlet feminino."
         ],
         "comparisonTable": {
@@ -177361,7 +177549,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Vale mais para quem veste PP ou XGG: são os tamanhos que mais sobraram nas peças mais disputadas (Tech T-Shirt, Camiseta Boxy, Maiô, Top Wavy). Quem veste M ou G encontra grade cheia nos shorts Motion e Serotonin, na Tech Gola Alta Manga Longa, nas regatas, nos vestidos e na Saia Kyoto.",
           "Pelo preço, as entradas mais baratas são a Regata Intech (R$ 70,55 com o cupom), a Regata Comfy InLounge (R$ 68,85) e as calcinhas em kit, a partir de R$ 31,45 por peça. O maior desconto é o da Camiseta Boxy InLounge, 50%, se o PP servir. Os sutiãs Nakedfeel só compensam para quem já os queria: o preço é o cheio, e o cupom é a mesma economia de fora do Outlet."
-        ]
+        ],
+        "emphasis": "Se fosse para mim, eu levaria a Regata Comfy InLounge, porque é a blusa mais barata do Outlet e o preto vai do PP ao M."
       },
       {
         "heading": "Perguntas frequentes",
@@ -177406,7 +177595,18 @@ export const reviewsData: unknown[] = [
         "slug": "tabela-de-medidas-insider",
         "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Quem quer a blusa mais barata do Outlet: a Regata Comfy InLounge, com preto do PP ao M.",
+        "Quem acha o seu tamanho na grade da cor que quer.",
+        "Quem veste PP ou XGG e procura as peças mais disputadas."
+      ],
+      "skipIf": [
+        "Quem não acha o seu tamanho na cor que quer: o Outlet não repõe.",
+        "Quem quer sutiã Nakedfeel pelo desconto do Outlet: neles, só o cupom baixa."
+      ]
+    }
   },
   {
     "id": 772,
@@ -177444,7 +177644,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que tem no Outlet masculino",
         "paragraphs": [
-          "O Outlet da Insider é a página em que a loja junta as peças em fim de linha: cores e modelos que saíram do catálogo, com “até 50% OFF”, segundo a loja, nas últimas unidades e sem reposição. Quando uma cor acaba num tamanho, aquela combinação some da página e não volta.",
+          "O Outlet da Insider é a página em que a loja junta as peças em fim de linha: cores e modelos que saíram do catálogo, com “até 50% OFF” nas últimas unidades e sem reposição, diz a página. Quando uma cor acaba num tamanho, aquela combinação some da página e não volta.",
           "No filtro masculino aparecem seis produtos, e um deles, a Camiseta Oversized Comfy InLounge, já está esgotado. Sobram cinco à venda, em dois grupos: três camisetas Tech T-Shirt (gola redonda, gola V e manga longa) e duas peças de treino, a Regata InTech e o Short Esportivo Endorphine. Todas estão com 40% ou 41% de desconto sobre o preço riscado, e o cupom EMCASACOMCECILIA tira mais 15% por cima.",
           "Os dois grupos vêm a seguir, cada um com o preço no Outlet, o preço com o cupom e as cores e os tamanhos que sobraram. Preços de 31/10/2026, no cartão."
         ],
@@ -177462,7 +177662,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisetas Tech T-Shirt: gola redonda, gola V e manga longa",
         "paragraphs": [
-          "A Tech T-Shirt é a camiseta principal da Insider, e as três do Outlet são a mesma peça em três versões: gola redonda, gola V e manga longa. Segundo a loja, o tecido é 92% modal e 8% elastano (na cor Indigo, 62% modal, 30% viscose e 8% elastano), não desbota, desamassa no corpo e é antiodor, com garantia de 2 anos contra desbotamento.",
+          "A Tech T-Shirt é a camiseta principal da Insider, e aqui a escolha é de gola e manga: as três do Outlet são a mesma peça em gola redonda, gola V e manga longa. O tecido é 92% modal e 8% elastano (na cor Indigo, 62% modal, 30% viscose e 8% elastano), diz a página: não desbota, desamassa no corpo e é antiodor, com garantia de 2 anos contra desbotamento.",
           "A gola redonda é a que tem mais cores e tamanhos. A gola V custa o mesmo, mas ficou só com Flame Red e Beetroot. A manga longa, de inverno e meia-estação, é a mais cara do grupo e a de grade mais curta. As duas de manga curta são o menor preço por camiseta de todo o Outlet masculino."
         ],
         "comparisonTable": {
@@ -177576,7 +177776,7 @@ export const reviewsData: unknown[] = [
         "heading": "Para o treino: Regata InTech e Short Esportivo Endorphine",
         "paragraphs": [
           "A Regata InTech é a Tech T-Shirt sem mangas, no mesmo tecido de modal, e é a peça mais barata de todo o Outlet masculino, com a grade mais cheia da página: Preto e Nori Green vão do PP ao XXGG. O Short Esportivo Endorphine é a peça mais cara e a única com etiqueta de lançamento.",
-          "Segundo a loja, o Endorphine é um short leve de comprimento médio, com bolsos laterais e cordão interno na cintura, em poliamida com elastano, de toque gelado e secagem rápida. Regata e short juntos fazem um conjunto de treino inteiro saído do Outlet."
+          "O Endorphine é um short leve de comprimento médio, diz a página, com bolsos laterais e cordão interno na cintura, em poliamida com elastano, de toque gelado e secagem rápida. Regata e short juntos fazem um conjunto de treino inteiro saído do Outlet."
         ],
         "comparisonTable": {
           "headers": [
@@ -177701,12 +177901,13 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Se nada disso está no seu tamanho, o kit de Tech T-Shirt resolve com escolha total de cor e tamanho, por um pouco mais por camiseta."
-        ]
+        ],
+        "emphasis": "No Outlet masculino, a escolha é a Tech T-Shirt de gola redonda, porque é a mais barata das camisetas e a de grade mais cheia."
       },
       {
         "heading": "Tamanhos e trocas",
         "paragraphs": [
-          "Segundo a política da Insider, a roupa troca por tamanho ou insatisfação em 21 dias corridos, com a peça nova, sem marcas de uso e com a etiqueta.",
+          "A política da Insider troca a roupa por tamanho ou insatisfação em 21 dias corridos, com a peça nova, sem marcas de uso e com a etiqueta.",
           "A grade é curta. Confira o seu tamanho na tabela e no [guia de medidas](/reviews/tabela-de-medidas-insider) antes de pagar: em várias cores sobra um tamanho só, e a troca depende de haver outro tamanho na loja.",
           "Para as peças femininas, veja [Outlet Insider feminino: o que vale a pena e quanto sai com o cupom](/reviews/outlet-insider-feminino-vale-a-pena)."
         ]
@@ -177754,7 +177955,18 @@ export const reviewsData: unknown[] = [
         "slug": "tabela-de-medidas-insider",
         "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Quem acha o seu tamanho na grade da cor que quer.",
+        "Quem quer Tech T-Shirt de manga curta pelo menor preço por camiseta."
+      ],
+      "skipIf": [
+        "Quem não acha o seu tamanho na cor que quer: o Outlet não repõe.",
+        "Quem veste M ou G e quer a manga longa: a grade dela é a mais curta, com PP, P e XGG na maioria das cores.",
+        "Quem quer escolher cor e tamanho livremente: o kit de Tech T-Shirt resolve."
+      ]
+    }
   },
   {
     "id": 775,
@@ -177792,7 +178004,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os modelos e o preço de cada um",
         "paragraphs": [
-          "A busca 'mochila viagem' da loja devolve cinco modelos, contando as cores: a Explore em quatro cores, a Voyage, a Vacuum Airtrack, a Donna Grande em preto e fendi e o kit Royale com nécessaire em preto e cinza. Os preços são do cartão, lidos nas páginas dos produtos em 31/10/2026. Medida, litros e expansão também vêm da loja.",
+          "Cinco modelos, contando as cores: só três cabem no item pessoal, e a expansão muda a conta. Os preços são do cartão, lidos nas páginas dos produtos em 31/10/2026. Medida, litros e expansão também vêm da loja.",
           "A Explore aparece com preço riscado de R$ 399,90, e a Voyage, de R$ 649,90. As duas colunas da direita cruzam a medida da loja com o item pessoal (45 × 35 × 20 cm) e a mala pequena (55 × 35 × 25 cm) que LATAM e Azul publicam; a regra inteira está no capítulo da bagagem de mão."
         ],
         "comparisonTable": {
@@ -177869,7 +178081,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para que viagem serve cada uma",
         "paragraphs": [
-          "O que separa uma da outra é o que a página de cada produto informa: litros, expansão, compartimento de notebook e o que vem junto."
+          "Para voar só com a mochila, o que separa uma da outra é a medida fechada; para levar mais, é a expansão."
         ],
         "bullets": [
           "Explore, R$ 299,90: a loja a descreve para trabalho, rotina e viagens curtas. Fechada, tem 33 litros e 10 cm de profundidade; a expansão leva a 42 litros e 25 cm. A descrição cita porta-notebook de até 17,3 polegadas, abertura em 180°, entrada USB lateral e bolso traseiro antifurto. Vem em preto, rose, azul-marinho e branco com caramelo, todas ao mesmo preço.",
@@ -177999,7 +178211,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.701,
             "href": "https://www.bagaggio.com.br/mochila-de-viagem-grande-expansivel-explore-branco-e-caramelo/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
           }
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a Explore, porque leva 33 litros no item pessoal por R$ 299,90."
       },
       {
         "heading": "Perguntas frequentes",
@@ -178040,7 +178253,18 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-bagaggio-como-usar",
         "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Quem quer voar só com a mochila, sem pagar bagagem: a Explore fechada ou a Vacuum Airtrack, na medida do item pessoal.",
+        "Quem faz viagem mais longa com a mala pequena incluída: a Voyage, que chega a 54 litros expandida.",
+        "Quem precisa de trabalho e viagem curta com notebook de até 15,6 polegadas: a Donna Grande."
+      ],
+      "skipIf": [
+        "Quem voa de tarifa Basic com a Voyage ou a Donna Grande: passam dos 45 cm e não entram como item pessoal.",
+        "Quem quer o vácuo da Airtrack: ele só funciona com a bomba, vendida à parte."
+      ]
+    }
   },
   {
     "id": 773,
@@ -178103,7 +178327,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é cada linha",
         "paragraphs": [
-          "A Toda Up vende as duas linhas no mesmo site, e nenhuma página compara uma com a outra. A SkinUp é a linha de segunda pele: a loja descreve as peças com corte a laser, acabamento ultrafino e sem costura, para a peça desaparecer na roupa. Hoje ela tem o Top Segunda Pele, o Sutiã Top Alça Fina, o Sutiã Clássico e quatro calcinhas: biquíni, cós alto, fio dental e fio dental cós alto. As cores são tons de pele (Creme ou Baunilha, Caramelo, Avelã e Rose) e preto.",
+          "SkinUp some na roupa; Cotton Up é algodão: as duas dividem o site, sem se comparar. A SkinUp é a linha de segunda pele: a loja descreve as peças com corte a laser, acabamento ultrafino e sem costura, para a peça desaparecer na roupa. Hoje ela tem o Top Segunda Pele, o Sutiã Top Alça Fina, o Sutiã Clássico e quatro calcinhas: biquíni, cós alto, fio dental e fio dental cós alto. As cores são tons de pele (Creme ou Baunilha, Caramelo, Avelã e Rose) e preto.",
           "A Cotton Up é a linha de algodão, com o Top Faixa, o Top Triangular e a Calcinha Biquíni, em preto, branco e cinza. As páginas falam em algodão premium, toque suave e sustentação leve. Não há corte a laser nem a proposta de sumir sob a roupa: é o básico de algodão para o dia a dia.",
           "Para o sutiã com copo da linha Comfort, veja [o guia dos sutiãs Comfort](/reviews/sutia-toda-up-qual-escolher); para a peça adesiva, [o sutiã de silicone](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ],
@@ -178224,9 +178448,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os tops SkinUp: Segunda Pele, Alça Fina e Clássico",
         "paragraphs": [
-          "Os três têm o mesmo tecido, segundo as páginas: 76,5% poliamida e 23,5% elastano, com corte a laser. O que muda é o formato, a alça e o apoio.",
+          "Os três têm o mesmo tecido, dizem as páginas: 76,5% poliamida e 23,5% elastano, com corte a laser. O que muda é o formato, a alça e o apoio.",
           "O [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é um top fixo, de alça larga e decote redondo, sem fecho e sem regulagem nas costas. A loja fala em sustentação leve e natural, bojo removível e acabamento ultrafino que desaparece na roupa. Vai do P (38-40) ao G1 (46-48), em cinco cores. É a peça para quem quer o mínimo de estrutura.",
-          "O [Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é a peça mais nova da linha e a única das duas linhas com PP (34-36); vai até o GG (44-46), em Baunilha, Rose e Preto. Segundo a página, tem alças finas e reguláveis, tecido duplo, bojo removível leve e fecho com quatro níveis, sem aro, com sustentação de leve a média. A loja o vende como top por fora e sutiã por dentro: a alça é mais fina que a alça da regata.",
+          "O [Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é a peça mais nova da linha e a única das duas linhas com PP (34-36); vai até o GG (44-46), em Baunilha, Rose e Preto. Tem alças finas e reguláveis, tecido duplo, bojo removível leve e fecho com quatro níveis, sem aro, com sustentação de leve a média, diz a página. A loja o vende como top por fora e sutiã por dentro: a alça é mais fina que a alça da regata.",
           "O [Sutiã Clássico](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é o modelo com bojo fixo leve e efeito push-up, sem aro, com alças reguláveis, fecho de quatro níveis e decote arredondado. Vai do P ao G1, só em Preto e Caramelo, e é o mais caro das duas linhas."
         ],
         "images": [
@@ -178526,7 +178750,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanho: a mesma letra não veste igual",
         "paragraphs": [
-          "Este é o ponto em que a comparação mais ajuda. Dentro da SkinUp, os três tops têm guias de medida diferentes para a mesma letra: o M do Top Segunda Pele é 79-87 cm de sob busto e 91-98 cm de busto; o M do Clássico, 75-81 e 84-91. Na Cotton Up, a página mostra só a numeração ao lado da letra (P 36-38, G1 50-52), sem a tabela em centímetros. A tabela abaixo junta as medidas de cada página, em centímetros."
+          "Dentro da SkinUp, os três tops têm guias de medida diferentes para a mesma letra: o M do Top Segunda Pele é 79-87 cm de sob busto e 91-98 cm de busto; o M do Clássico, 75-81 e 84-91. Na Cotton Up, a página mostra só a numeração ao lado da letra (P 36-38, G1 50-52), sem a tabela em centímetros. A tabela abaixo junta as medidas de cada página, em centímetros."
         ],
         "comparisonTable": {
           "headers": [
@@ -178644,7 +178868,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.6378,
             "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
           }
-        ]
+        ],
+        "emphasis": "Se fosse para mim, eu levaria o Sutiã Top Alça Fina, porque é o único com PP e tem a alça mais fina que a da regata."
       },
       {
         "heading": "Perguntas frequentes",
@@ -178656,7 +178881,18 @@ export const reviewsData: unknown[] = [
           "O cupom da Toda Up vale nas duas linhas? Vale, porque o cupom é do site inteiro e dá 10% no carrinho, inclusive em peça já com desconto. A campanha da loja pode entrar antes, então confira o total."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Quem usa roupa por cima justa, clara ou de alça fina e quer que a peça suma: a SkinUp, sem costura.",
+        "Quem veste PP e quer um top sem costura: só o Sutiã Top Alça Fina tem PP.",
+        "Quem quer algodão e preço menor para casa e roupa larga: a Cotton Up."
+      ],
+      "skipIf": [
+        "Quem não acha o seu tamanho na coluna da peça: a mesma letra muda de medida entre as linhas.",
+        "Quem quer sustentação alta no Cotton Up: a loja a classifica como leve."
+      ]
+    }
   },
   {
     "id": 774,
@@ -178813,8 +179049,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits de top e calcinha SkinUp",
         "paragraphs": [
-          "São dois kits, um com a Calcinha Cós Alto e outro com a Calcinha Biquíni, e a loja descreve os dois do mesmo jeito: “sustentação natural e leve”, com “corte a laser e acabamento ultrafino que desaparecem na roupa”. O top é o Top Segunda Pele SkinUp, que custa R$ 169,90 avulso, e cada calcinha SkinUp custa R$ 44,91: um conjunto comprado separado sai por R$ 214,81.",
-          "No kit de 1 conjunto, R$ 199,90, a diferença é de R$ 14,91. No de 3 conjuntos, R$ 499,90, cada conjunto sai por R$ 166,63, R$ 48,18 a menos do que avulso, e a economia total chega a R$ 144,53. A opção de 3 conjuntos vem em duas versões, mesma cor ou cores diferentes, pelo mesmo preço.",
+          "Só o kit SkinUp de 3 conjuntos compensa: o de 1 economiza R$ 14,91. Os dois trazem o Top Segunda Pele com calcinha sem costura, um com a Cós Alto e outro com a Biquíni, e a loja os descreve do mesmo jeito: “sustentação natural e leve”, com “corte a laser e acabamento ultrafino que desaparecem na roupa”. O top custa R$ 169,90 avulso, e cada calcinha SkinUp custa R$ 44,91: um conjunto comprado separado sai por R$ 214,81.",
+          "O kit de 1 conjunto custa R$ 199,90. No de 3 conjuntos, R$ 499,90, cada conjunto sai por R$ 166,63, R$ 48,18 a menos do que avulso, e a economia total chega a R$ 144,53. A opção de 3 conjuntos vem em duas versões, mesma cor ou cores diferentes, pelo mesmo preço.",
           "Cores: Baunilha, Caramelo e Avelã. Tamanhos: P, M, G, GG e G1, o mesmo número para o top e para a calcinha. Quem usa top e calcinha em tamanhos diferentes compra avulso. A página do top diz que ele foi feito “para os dias de lazer, para ficar em casa ou para usar com roupas casuais e esportivas”."
         ],
         "images": [
@@ -178856,8 +179092,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits Cotton Up: top faixa ou triangular com calcinha",
         "paragraphs": [
-          "O Kit Top Faixa e o Kit Top Triangular Cotton Up vêm com a Calcinha Biquíni Cotton Up, e a diferença entre eles é o decote do top: o Faixa é reto, de alça fina; o Triangular tem o bojo em triângulo. A loja descreve a linha como de “tecido em algodão”. Avulsos, o top custa R$ 132,90 e a calcinha R$ 39,90: R$ 172,80 o conjunto.",
-          "O kit de 1 conjunto custa R$ 155,52, R$ 17,28 a menos do que avulso. O de 3 conjuntos custa R$ 373,18: R$ 124,39 por conjunto, R$ 48,41 abaixo do avulso, e R$ 145,22 de economia no total, a maior porcentagem entre os kits de conjunto. Os preços são os mesmos para o Faixa e para o Triangular.",
+          "Só o kit Cotton Up de 3 conjuntos compensa: o de 1 economiza R$ 17,28. O Kit Top Faixa e o Kit Top Triangular vêm com a Calcinha Biquíni Cotton Up, e a diferença é o decote: o Faixa é reto, de alça fina; o Triangular tem o bojo em triângulo. A loja descreve a linha como de “tecido em algodão”. Avulsos, o top custa R$ 132,90 e a calcinha R$ 39,90: R$ 172,80 o conjunto.",
+          "O kit de 1 conjunto custa R$ 155,52. O de 3 conjuntos custa R$ 373,18: R$ 124,39 por conjunto, R$ 48,41 abaixo do avulso, e R$ 145,22 de economia no total, a maior porcentagem entre os kits de conjunto. Os preços são os mesmos para o Faixa e para o Triangular.",
           "Cores: Branco, Preto e Cinza, em mesma cor ou cores diferentes no kit de 3. Tamanhos: P, M, G, GG e G1, um número só para o top e a calcinha."
         ],
         "images": [
@@ -178905,8 +179141,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sutiã Comfort com protetor de silicone",
         "paragraphs": [
-          "Os dois kits juntam um sutiã Comfort preto com um par de Protetores de Silicone Ultrafino. O sutiã custa R$ 189,90 avulso e o protetor R$ 69,90: R$ 259,80 os dois. No Kit Sutiã Comfort Up + Protetor, R$ 190,90, o protetor sai por R$ 1,00 a mais do que o sutiã sozinho, R$ 68,90 de economia. No Kit Sutiã Comfort Slim + Protetor, R$ 202,35, o protetor sai por R$ 12,45, R$ 57,45 de economia.",
-          "O sutiã do kit só vem em preto. O Comfort Up vai do PP (34-36) ao G3 (53-56); o Comfort Slim, do PP (34-36) ao GG (44-46). O protetor vem em Creme, Caramelo e Avelã, nos tamanhos P (8 cm), M (10 cm) e G (12 cm). A loja descreve o Comfort Up com “sustentação firme e conforto o dia todo” e o Slim como “leve e minimalista”; o protetor, segundo a página dele, é para “roupas com tecidos finos, blusas brancas ou vestidos justos”.",
+          "Nos dois kits, o protetor sai quase de graça: R$ 1,00 no Comfort Up, R$ 12,45 no Slim. Cada kit junta um sutiã Comfort preto com um par de Protetores de Silicone Ultrafino; avulsos, o sutiã custa R$ 189,90 e o protetor R$ 69,90: R$ 259,80 os dois. No Kit Sutiã Comfort Up + Protetor, R$ 190,90, a economia é de R$ 68,90. No Kit Sutiã Comfort Slim + Protetor, R$ 202,35, é de R$ 57,45.",
+          "O sutiã do kit só vem em preto. O Comfort Up vai do PP (34-36) ao G3 (53-56); o Comfort Slim, do PP (34-36) ao GG (44-46). O protetor vem em Creme, Caramelo e Avelã, nos tamanhos P (8 cm), M (10 cm) e G (12 cm). A loja descreve o Comfort Up com “sustentação firme e conforto o dia todo” e o Slim como “leve e minimalista”; o protetor é para “roupas com tecidos finos, blusas brancas ou vestidos justos”, diz a página dele.",
           "Para decidir entre o Up e o Slim, o [guia dos sutiãs Comfort](/reviews/sutia-toda-up-qual-escolher) compara os dois com o Line, tabela de busto incluída; a medida do protetor está no [guia do protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar)."
         ],
         "images": [
@@ -178948,7 +179184,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit Invisible Up: três itens, com a case",
         "paragraphs": [
-          "O Kit Invisible Up tem três itens: o Sutiã de Silicone Invisível, um par de Protetores de Silicone Ultrafino e a Case Protetor de Silicone tamanho P (8 cm), que a página do kit diz que “acompanha” para guardar os acessórios. Avulsos, custam R$ 149,90, R$ 69,90 e R$ 49,90: R$ 269,70 no total. O kit custa R$ 195,79, R$ 73,91 a menos.",
+          "O Kit Invisible Up economiza R$ 73,91 sobre os três itens avulsos. Ele tem o Sutiã de Silicone Invisível, um par de Protetores de Silicone Ultrafino e a Case Protetor de Silicone tamanho P (8 cm), que a página do kit diz que “acompanha” para guardar os acessórios. Avulsos, custam R$ 149,90, R$ 69,90 e R$ 49,90: R$ 269,70 no total, contra R$ 195,79 do kit.",
           "Se a case não entra na sua conta, compare só com o sutiã e o protetor: R$ 219,80 avulsos, e o kit economiza R$ 24,01. Vale para quem já ia comprar o sutiã de silicone e o protetor; quem só quer o sutiã paga R$ 149,90 por ele avulso. Tamanhos do sutiã: P (38/42), M (42/44) e G (44/48); do protetor, P, M e G, em Creme, Caramelo e Avelã. Como colar e lavar o sutiã de silicone está no [guia do sutiã invisível](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ],
         "images": [
@@ -178965,7 +179201,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit Comfort Up: os três sutiãs da linha",
         "paragraphs": [
-          "O Kit Comfort Up junta os três sutiãs da linha, Comfort Up, Comfort Slim e Comfort Line; a página diz que o kit “reúne 3 sutiãs com sustentação, modelagem anatômica, bojo removível e tecido respirável”. Cada um custa R$ 189,90 avulso, R$ 569,70 os três. O kit custa R$ 398,79: R$ 132,93 por sutiã e R$ 170,91 de economia, a maior em reais entre todos os kits.",
+          "O Kit Comfort Up é a maior economia em reais: R$ 170,91 sobre os três sutiãs avulsos. Ele junta os três sutiãs da linha, Comfort Up, Comfort Slim e Comfort Line; a página diz que o kit “reúne 3 sutiãs com sustentação, modelagem anatômica, bojo removível e tecido respirável”. Cada um custa R$ 189,90 avulso, R$ 569,70 os três. O kit custa R$ 398,79: R$ 132,93 por sutiã.",
           "Vem em Preto ou Rose, os três na mesma cor. O tamanho do Up e do Slim é um só, do P (38-40) ao GG (44-46); o Line tem tabela própria, do P (36-38) ao G1 (44-46), e se escolhe à parte. Quem usa PP, ou acima do GG no Up, fica fora do kit e compra avulso. As diferenças entre os três estão no mesmo guia dos sutiãs Comfort citado acima."
         ],
         "images": [
@@ -178997,7 +179233,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Em todos, o cupom entra depois, no resumo do pedido, e o total do carrinho é a conta que vale."
-        ]
+        ],
+        "emphasis": "Se fosse para mim, eu levaria o Kit Cotton Up de 3 conjuntos, porque tem a maior porcentagem de economia entre os kits de conjunto."
       },
       {
         "heading": "Perguntas frequentes",
@@ -179009,6 +179246,17 @@ export const reviewsData: unknown[] = [
           "O cupom da Toda Up vale nos kits? O código é de todo o site, mas não testamos nos kits desta página: aplique no carrinho e confira a linha de desconto no resumo do pedido."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Quem vai usar três conjuntos de verdade, no mesmo tamanho de top e calcinha.",
+        "Quem quer sutiã e protetor juntos, nos kits de sutiã Comfort com protetor.",
+        "Quem quer os três sutiãs da linha Comfort de uma vez: o Kit Comfort Up, a maior economia em reais."
+      ],
+      "skipIf": [
+        "Quem quer um conjunto só para provar: o kit de 1 é o que menos economiza.",
+        "Quem usa top e calcinha em tamanhos diferentes: o kit prende os dois no mesmo número."
+      ]
+    }
   }
 ];
