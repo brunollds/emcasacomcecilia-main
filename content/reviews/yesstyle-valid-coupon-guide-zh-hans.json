@@ -4,8 +4,8 @@
   "title": "如何找到 YesStyle 优惠码并与 CECILIA010 叠加使用",
   "type": "指南与优惠码",
   "reviewKind": "guia",
-  "description": "查找 YesStyle 促销优惠码的实用指南，了解 Coupon Code 与 Reward Code 的区别，并使用 CECILIA010 叠加享高达 5% 额外折扣。",
-  "metaDescription": "学习如何找到正在进行的 YesStyle 促销优惠码，避免过期代码，并配合奖励码 CECILIA010 叠加享高达 5% 额外折扣。",
+  "description": "YesStyle 优惠码实用指南：分清 Coupon Code 与 Reward Code 的区别，再用 CECILIA010 额外叠加高达 5% 的折扣。",
+  "metaDescription": "去哪里找当前有效的 YesStyle 优惠码、如何避开过期代码，以及怎样叠加奖励码 CECILIA010，额外省下高达 5%。",
   "publishedAt": "24 Jul 2026",
   "publishedAtISO": "2026-07-24",
   "hideFromPortugueseListings": true,
@@ -25,21 +25,21 @@
     }
   ],
   "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
-  "imageAlt": "YesStyle 上热销的韩国美妆与护肤折扣商品列表。",
+  "imageAlt": "YesStyle 上正在促销的韩国美妆与护肤产品精选。",
   "imageFit": "cover",
   "pros": [
-    "清晰说明 Coupon Code 与 Reward Code 的区别，避免结账时出错",
-    "详细解释叠加（stacking）技巧，将当月促销码与 CECILIA010 同时使用",
-    "展示如何利用官方网红代码获得高达 5% 额外折扣",
-    "列出 YesStyle 官方优惠码来源，避免无效或过期代码",
-    "引导至 Em Casa com Cecília 定期核对更新的专属优惠码页面"
+    "讲清 Coupon Code 与 Reward Code 的区别，避免结账时填错",
+    "说明叠加（stacking）方式：当月优惠码可以和 CECILIA010 一起用",
+    "教你用官方网红代码额外省下高达 5%",
+    "列出 YesStyle 优惠码的官方来源，避开假码和过期码",
+    "指向 Em Casa com Cecília 的最新页面，那里有核对过的优惠码列表"
   ],
   "cons": [
-    "每月促销优惠码有效期较短（通常为 72 小时至 30 天）",
-    "CECILIA010 折扣为首购 5% 额外折扣，复购 2% 额外折扣",
-    "最终结账金额以美元（USD）计价"
+    "每月的促销优惠码有效期很短（通常 72 小时到 30 天）",
+    "CECILIA010 的折扣首次购买为 5%，之后的回购为 2%",
+    "最终价格以美元计价，会受汇率波动影响"
   ],
-  "pullQuote": "在 YesStyle 获得最大折扣的秘诀是叠加使用：在 Coupon Code 栏位输入促销码，在 Reward Code 栏位输入 CECILIA010。",
+  "pullQuote": "在 YesStyle 省得最多的关键是两个一起用：把促销优惠码填进 Coupon Code 栏，把 CECILIA010 填进 Reward Code 栏，就能再多省高达 5%。",
   "productSpec": [
     {
       "key": "商店",
@@ -52,11 +52,11 @@
     },
     {
       "key": "结账输入栏",
-      "value": "Reward Code"
+      "value": "Reward Code / 奖励码"
     },
     {
       "key": "可否叠加",
-      "value": "可与符合条件的促销优惠码叠加使用（结账时确认）"
+      "value": "可与符合条件的促销优惠码叠加使用，请在结账时确认。"
     }
   ],
   "cta": {
@@ -78,116 +78,115 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "[YesStyle 优惠码](/zh-hans/coupons/yesstyle)中的促销码填入 Coupon Code 栏位，很快会过期；本站页面的优惠码列表于{yesstyle:verifiedAt}核对。CECILIA010 是奖励代码，填入 Reward Code 栏位，可额外获得最高 5% 折扣：首单 5%，之后 2%。"
+        "促销用的 [YesStyle 优惠码](/zh-hans/coupons/yesstyle)填在 Coupon Code 栏，很快就会过期。CECILIA010 是奖励码，填在 Reward Code 栏，可额外享高达 5% 折扣；比例取决于是不是首次购买，详见 CECILIA010 一章。"
       ]
     },
     {
-      "heading": "为什么网络上大多数 YesStyle 优惠码都无法使用？",
+      "heading": "为什么网上大多数 YesStyle 优惠码都用不了？",
       "paragraphs": [
-        "如果您经常在 YesStyle 购买韩国美妆或护肤品，可能遇到过这种挫折：在 Google 搜索 \"YesStyle 优惠码\"，打开许多折价券网站并复制代码，但在结账时系统提示代码无效或已过期。",
-        "这主要有三个原因：YesStyle 经常推出 72 小时或 96 小时的短期快闪促销，自动收集网站长期保留过期代码，以及部分代码仅限特定地区使用。",
-        "要避免浪费时间并获得最高折扣，关键是了解 YesStyle 的折扣结构并使用官方来源。"
+        "如果你搜过“YesStyle 优惠码”，复制了一堆代码，结账时却被一个个拒绝，那不是运气不好：这些代码大多已经过期。",
+        "主要有三个原因：YesStyle 会推出短期的促销优惠码（比如 72 小时或 96 小时的促销，或月度活动）；自动聚合网站为了骗点击，会把过期代码挂上好几年；还有很多代码属于特定地区的专属活动。",
+        "想不浪费时间、也不在付款时放弃，关键是弄懂 YesStyle 的折扣结构，并查看品牌的官方渠道。"
       ],
       "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "YesStyle 上热销的韩国美妆与护肤折扣商品列表。",
-      "imageCaption": "2026年7月24日记录的官方促销优惠码范例，该活动已结束。促销代码会定期变更，请在购物前查看我们的专属页面。",
+      "imageAlt": "YesStyle 官方首页，展示一个促销优惠码的示例。",
+      "imageCaption": "一个已经结束的活动的官方促销优惠码示例。促销优惠码变动频繁，购买前请查看我们的专属页面。",
       "imageFit": "wide",
       "bullets": [
-        "每月促销优惠码：设有到期日，通常提供 10% 至 15% 折扣。",
-        "奖励码（Reward Code）：如 CECILIA010 等专属网红代码，可额外叠加高达 5% 折扣。",
-        "官方来源：关注官网顶部横幅、电子报或我们的专属优惠码页面。"
+        "月度促销优惠码：有有效期，通常享 10% 至 15% 折扣。",
+        "奖励码（Reward Code）：像 CECILIA010 这样的网红代码，可额外叠加高达 5% 折扣。",
+        "官方渠道：查看网站横幅、商店的电子报，或我们的专属优惠码页面。"
       ]
     },
     {
-      "heading": "理解结账页面的 2 个独立折扣栏位（Coupon Code vs Reward Code）",
+      "heading": "理解结账页面的 2 个折扣栏位（Coupon Code vs Reward Code）",
       "paragraphs": [
-        "YesStyle 结账页面拥有两个完全独立的折扣栏位，了解两者的区别是聪明消费的关键："
+        "YesStyle 的结账页面有两个独立的栏位，最常见的错误就是把两者填反：",
+        "由于栏位是分开的，只要活动允许，符合条件的折扣就可以叠加。请在订单摘要中确认两项折扣都已生效。"
       ],
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
-      "imageAlt": "YesStyle 上热销的韩国美妆与护肤折扣商品列表。",
-      "imageCaption": "结账页面的两个独立输入栏位：Coupon Code（促销码用）与 Reward Code（CECILIA010用）。",
+      "imageAlt": "YesStyle 结账页面，显示 Coupon Code 和 Reward Code 两个栏位。",
+      "imageCaption": "结账页面的两个独立栏位：Coupon Code（用于促销优惠码）和 Reward Code（用于 CECILIA010）。",
       "imageFit": "cover",
       "bullets": [
-        "1. \"Coupon Code\" 栏位：在此输入 YesStyle 官方促销代码（如 10% 至 15% 折扣码）。",
-        "2. \"Reward Code\" / \"Influencer Code\" 栏位：在此输入官方网红代码 CECILIA010，享受高达 5% 额外折扣。"
-      ],
-      "emphasis": "由于结账页面设有独立的 Coupon Code 与 Reward Code 栏位，符合条件时可同时组合使用这两种折扣。请在订单摘要中确认这两笔折扣。"
-    },
-    {
-      "heading": "CECILIA010 代码运作方式：高达 5% 额外折扣",
-      "paragraphs": [
-        "CECILIA010 是 Cecília 在 YesStyle 网红计划中的官方奖励码，是一个可长期使用的合作代码。",
-        "购物车折扣套用规则：",
-        "・新客户（首次购买）：购物车额外享 5% 折扣。",
-        "・老客户（再次购买）：购物车额外享 2% 折扣。",
-        "结账时系统会根据您的账户历史自动计算，因此我们透明标示“高达 5% 额外折扣”。"
-      ],
-      "bullets": [
-        "首购订单：额外 5% 折扣。",
-        "再次购买：额外 2% 折扣。",
-        "适用于符合条件的韩国美妆、护肤、彩妆及时尚商品。"
+        "1. “Coupon Code”栏位：填入 YesStyle 网站的促销优惠码（如清仓优惠码或 10% 至 15% 折扣的活动）。",
+        "2. “Reward Code” / “Influencer Code”栏位：填入官方网红代码 CECILIA010，额外享高达 5% 折扣。"
       ]
     },
     {
-      "heading": "步骤 1：通过官方链接前往商店",
+      "heading": "CECILIA010 代码的运作方式：高达 5% 额外折扣",
       "paragraphs": [
-        "使用 Cecília 的官方专属链接开启 YesStyle。这有助于在结账输入代码前正确记录推荐关系。"
+        "CECILIA010 是 Cecília 的奖励码，合作有效期间都能使用：首次购买 5%，之后的购买 2%。商店的限时促销优惠码会定期更换，而 CECILIA010 是合作约定的固定代码。"
+      ],
+      "bullets": [
+        "首次购买：额外 5% 折扣。",
+        "之后的购买：额外 2% 折扣。",
+        "适用于符合条件的韩国美妆、护肤、彩妆、时尚和生活用品。"
+      ],
+      "postParagraphs": [
+        "所以我们说“高达 5% 额外折扣”：YesStyle 会当场根据你的账户记录，对符合条件的商品计算比例。"
+      ]
+    },
+    {
+      "heading": "步骤 1：通过官方链接进入商店",
+      "paragraphs": [
+        "请通过 Cecília 的网红链接打开 YesStyle。这样在你到结账页填代码之前，推荐关系更容易被正确记录。"
       ],
       "links": [
         {
-          "label": "使用 Cecília 链接开启 YesStyle",
+          "label": "通过 Cecília 的链接打开 YesStyle",
           "href": "https://ystyle.co/rQYQv",
           "sponsored": true
         }
       ]
     },
     {
-      "heading": "步骤 2：将商品加入购物车",
+      "heading": "步骤 2：把商品加入购物车",
       "paragraphs": [
-        "选择您喜爱的韩国护肤品或彩妆，将其放入购物车。"
+        "挑选你喜欢的韩国化妆品、防晒、精华或时尚单品，加入购物袋。"
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
-      "imageAlt": "YesStyle 上热销的韩国美妆与护肤折扣商品列表。",
-      "imageCaption": "输入折扣代码前的 YesStyle 购物车摘要画面。",
+      "imageAlt": "YesStyle 购物车页面。",
+      "imageCaption": "使用折扣码之前，YesStyle 的购物车摘要页面。",
       "imageFit": "cover"
     },
     {
-      "heading": "步骤 3：在 Coupon Code 栏位输入促销代码",
+      "heading": "步骤 3：在 Coupon Code 栏填入促销优惠码",
       "paragraphs": [
-        "在结账页面找到 \"Coupon Code\" 区块，输入正在进行的促销代码，然后点击 \"Apply\"。"
+        "在结账页面找到“Coupon Code”栏位。如果 YesStyle 目前有可用的促销优惠码，输入代码并点击“Apply”。"
       ]
     },
     {
-      "heading": "步骤 4：在 Reward Code 栏位粘贴 CECILIA010 代码",
+      "heading": "步骤 4：在 Reward Code 栏填入 CECILIA010",
       "paragraphs": [
-        "在同一结账页面的 \"Reward Code / Influencer Code\" 区块中输入 CECILIA010，然后点击 \"Apply\"。"
+        "在同一个结账页面，找到另外的“Reward Code / Influencer Code”栏位。输入 CECILIA010，然后点击“Apply”。"
       ]
     },
     {
-      "heading": "步骤 5：确认叠加折扣并完成订单",
+      "heading": "步骤 5：确认叠加后的折扣并完成订单",
       "paragraphs": [
-        "检查最终订单摘要，确认两项折扣（促销码 ＋ CECILIA010）皆已成功显示后再付款。"
+        "付款之前，在订单摘要中确认两项折扣：优惠码和 CECILIA010。"
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
-      "imageAlt": "YesStyle 上热销的韩国美妆与护肤折扣商品列表。",
-      "imageCaption": "促销代码与 CECILIA010 奖励码成功叠加显示的最终结账画面。",
+      "imageAlt": "YesStyle 最终订单摘要，显示叠加后的折扣。",
+      "imageCaption": "结账摘要确认两个一起用已成功：促销优惠码加上奖励码 CECILIA010，都已生效。",
       "imageFit": "cover"
     },
     {
-      "heading": "寻找当前 YesStyle 优惠码的官方渠道",
+      "heading": "去哪里找当前有效的 YesStyle 优惠码",
       "paragraphs": [
-        "若要获取最新有效的促销优惠码，建议参考以下官方渠道：",
-        "1. 我们的专属优惠码页面：我们设有专页定期验证并更新 YesStyle 代码。",
-        "2. YesStyle 官网主横幅：首页顶部会标示当前热门促销活动。",
-        "3. 官方电子报：订阅后可收到 72 小时或 96 小时快闪优惠通知。"
+        "想追踪当月优惠码又不踩到过期代码，请使用以下官方渠道：",
+        "1. 我们的优惠码汇总页：我们有一个专属页面，核对并更新 YesStyle 的促销代码。",
+        "2. YesStyle 首页横幅：商店首页顶部通常会突出显示当前有效的促销优惠码。",
+        "3. 官方电子报：订阅网站电子报后，你会收到 72 小时或 96 小时限时特卖的通知。"
       ],
       "links": [
         {
-          "label": "前往我们更新的 YesStyle 优惠码页面",
+          "label": "查看最新的 YesStyle 优惠码页面",
           "href": "/zh-hans/coupons/yesstyle"
         },
         {
-          "label": "使用 Cecília 官方链接前往 YesStyle",
+          "label": "通过 Cecília 的官方链接前往 YesStyle",
           "href": "https://ystyle.co/rQYQv",
           "sponsored": true
         }
@@ -195,25 +194,29 @@
     },
     {
       "heading": "YesStyle 优惠码常见问题",
+      "paragraphs": [
+        "这里整理了读者最常问的、关于在 YesStyle 使用优惠码和奖励码的问题："
+      ],
       "bullets": [
-        "Coupon Code 与 Reward Code 有何不同？ Coupon Code 是 YesStyle 发行的临时促销代码。CECILIA010 是填入 Reward Code 栏位的网红代码，可额外享高达 5% 折扣（首购5%/复购2%）。活动允许时两者可叠加。",
-        "什么是 YesStyle 网红代码？ 它是奖励码（Reward Code），须填入结账页面专属的独立栏位，与 Coupon Code 栏位分开。我们的代码是 CECILIA010：首次订单享 5% 折扣，之后的订单享 2% 折扣。",
-        "YesStyle 优惠码有使用期限吗？ 有的，促销代码均有到期日。结账前请确认最低消费金额及适用商品。",
-        "在哪里可以查看 YesStyle 官方优惠码条款？ 可在 YesStyle 客服中心的 \"General Terms and Conditions for Coupons\" 以及 \"Promotions\" 页面查看。",
-        "一笔订单可以使用多个促销优惠码吗？ 不行，每笔订单仅限使用一个 Coupon Code。但 CECILIA010 属于 Reward Code，可与符合条件的 Coupon Code 叠加使用。"
+        "YesStyle 的 Coupon Code 和 Influencer/Rewards Code 有什么区别？ Coupon Code 是促销优惠码，填在“Coupon Code”栏位，有各自的有效期和规则：可能有最低消费、地区限制或不适用的商品。CECILIA010 是奖励码（Influencer/Rewards Code），填在另外的“Reward Code”栏位，首次购买 5%，之后 2%。促销规则允许时，订单摘要中可以同时出现两项折扣。",
+        "YesStyle 的网红代码是什么？ 就是奖励码（Reward Code），填在结账页面的专用栏位，和优惠码栏位分开。我们的代码是 CECILIA010，填在 Reward Code 栏位。",
+        "YesStyle 的优惠码有有效期吗？ 有。促销优惠码都有有效期，并且可能无预警过期。有些活动只持续几天（比如 72 小时或 96 小时的促销），也有些持续更久。完成购买之前，请在促销规则中确认有效期、最低消费、地区和适用商品，并确认结账时折扣已经生效。",
+        "在哪里可以找到 YesStyle 优惠码的官方规则？ 通用规则在 YesStyle 客服中心的“General Terms and Conditions for Coupons”页面。具体活动的条件，请进入客服中心并打开“Promotions”栏目，YesStyle 会在那里公布有效期、最低消费、参与地区和可能的例外。这些条件会变，所以付款前也请查看促销横幅和订单摘要。",
+        "同一订单可以用多个促销优惠码吗？ 不可以。按 YesStyle 的通用规则，每笔订单（或合并订单）只能使用一个 Coupon Code。不过 CECILIA010 不是 Coupon Code，要填在另外的“Reward Code”栏位。因此，只要活动符合条件、结账页面接受两者，促销优惠码和 CECILIA010 就可以一起用。"
       ],
       "links": [
         {
-          "label": "查看 YesStyle 优惠码通用条款",
+          "label": "查看 YesStyle 优惠码通用规则",
           "href": "https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888"
         },
         {
-          "label": "开启 YesStyle 客服中心",
+          "label": "打开 YesStyle 客服中心",
           "href": "https://www.yesstyle.com/en/help/main.html"
         }
       ]
     }
   ],
   "locale": "zh-hans",
-  "translationKey": "yesstyle-coupon-guide"
+  "translationKey": "yesstyle-coupon-guide",
+  "category": "cupons-como-usar"
 }

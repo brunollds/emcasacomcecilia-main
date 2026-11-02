@@ -11,8 +11,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle 企业背景分析：香港总部、400+ 韩国美妆品牌官方授权经销、全球发货及买家保障说明。",
-  "metaDescription": "YesStyle 安全可靠吗？上市公司背景、400+ K-Beauty 品牌官方授权、运送政策与优惠码指南。",
+  "description": "整理了 YesStyle 的公开信息：香港公司、亚洲美妆品牌、配送和国际客服。",
+  "metaDescription": "YesStyle 可靠吗？这里有公司公开资料、韩国品牌授权情况、配送政策、税费，以及下单前要核对的事项。",
   "publishedAt": "2026年8月2日",
   "publishedAtISO": "2026-08-02",
   "updatedAt": "2026-10-13",
@@ -20,83 +20,107 @@
   "locale": "zh-hans",
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
-  "imageAlt": "西西莉亚和三款 Abib 产品（PDRN 精华面霜、唇膜和水凝胶眼贴），以及 YesStyle 的标志",
+  "imageAlt": "Cecília 手持三款 Abib 产品（PDRN 提升面霜、唇膜和水凝胶眼贴）与 YesStyle 标志",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "contentSections": [
     {
-      "heading": "快速解答",
+      "heading": "快速回答",
       "paragraphs": [
-        "是的，YesStyle 是正规公司：2006 年创立于香港，隶属上市公司 YesAsia Holdings。不过商品是否为正品由平台自行声明，没有独立审核，收货后请检查批号、有效期和封条。检查方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。想优惠购买，请查看 [YesStyle 优惠码](/zh-hans/coupons/yesstyle)（于{yesstyle:verifiedAt}核对）。"
+        "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。需要注意的是，商品是否正品只是店家自己的说法，没有独立机构审核，所以收货时请核对批号、有效期和封条。核对方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。想优惠购买，可以看 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)，核对日期为 {yesstyle:verifiedAt}。"
       ]
     },
     {
-      "heading": "上市公司企业背景",
+      "heading": "公司公开资料",
       "paragraphs": [
-        "YesStyle Limited 成立于 2006 年，总部位于香港，是香港交易所上市公司 YesAsia Holdings Limited（股份代码：2209.HK）旗下的电商平台。作为上市公司子公司，其运营与财务均受严格监管及定期审计。",
-        "平台服务覆盖全球 150 多个国家及地区，支持多国语言及货币结算。"
+        "YesStyle 来自香港，自 2006 年起运营，隶属于在香港交易所上市的 YesAsia Holdings（2209.HK）。",
+        "YesStyle 服务 150 多个国家和地区的顾客，网站有葡萄牙语版，支持多种参考货币。在巴西下单以美元（USD）结算。公司设有客服渠道，可咨询商品、配送时间、进口税和退货政策。"
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
-      "imageAlt": "YesStyle 官方网站首页界面与促销横幅",
+      "imageAlt": "YesStyle 官方页面和促销横幅",
       "imageFit": "square"
     },
     {
-      "heading": "商品阵容与正品保障",
+      "heading": "商品种类与市场定位",
       "paragraphs": [
-        "YesStyle 于官方网站声明为 400 多个韩国美妆（K-Beauty）品牌的官方授权经销商，同时提供日本美妆及亚洲时尚商品。商品涵盖护肤品（精华液、化妆水、防晒乳）、彩妆及饰品。",
-        "公司于企业资料中表示，其为 COSRX、Etude House、肌研（Hada Labo）及 Rohto 等 400 多个韩国美妆品牌的授权经销商，直接向品牌制造商或官方合作代理商采购。身为香港上市企业 YesAsia Holdings 旗下子公司，运营具有公开透明度。"
+        "YesStyle 自称是 400 多个韩国美妆（K-beauty）品牌的授权经销商，同时销售亚洲化妆品和时尚商品。商品涵盖护肤（精华液、精华水、爽肤水、防晒）、彩妆、护发产品和配饰。",
+        "公司列出的品牌包括 COSRX、Etude House、Hada Labo 和 Rohto，并称货源直接来自品牌制造商或合作经销商。由上市公司（YesAsia Holdings）控股，是关于这家店由谁控制的公开信息。"
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
-      "imageAlt": "YesStyle 授权热门韩国及日本美妆品牌",
+      "imageAlt": "YesStyle 上的 K-Beauty 与 J-Beauty 授权品牌（COSRX、Anua、Beauty of Joseon）",
       "imageFit": "wide"
     },
     {
-      "heading": "全球运送与售后保障",
+      "heading": "购买政策与售后",
       "paragraphs": [
-        "提供国际配送，并附包裹追踪号码。新加坡与马来西亚的运送时间、运费与税费，请参阅我们的 [YesStyle 运送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。"
+        "付款方式有国际信用卡、PayPal，部分国家还可使用本地电子钱包。巴西和葡萄牙的配送时间、运费和税费，见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+        "符合条件且保持原包装的商品退货，可通过官方客服的退货授权表（RMA）申请。联系客服可使用官网的在线聊天和电子邮件。"
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
-      "imageAlt": "YesStyle 商品列表、折扣价格与用户评价",
+      "imageAlt": "YesStyle 的商品列表、美元价格和促销折扣",
       "imageFit": "square"
     },
     {
       "heading": "YesStyle 的商品是正品吗？YesStyle 是哪里的公司？",
       "paragraphs": [
-        "YesStyle 来自香港。公司于 2006 年在香港创立，隶属于 YesAsia Holdings Limited（香港交易所上市，股份代码：2209.HK）。该集团同时运营 YesAsia 商店，以及亚洲美妆批发平台 AsianBeautyWholesale。",
-        "关于商品是否为正品，YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销伙伴。我们没有找到能证实这一说法的独立审核，因此整理了几项买家自己就能做的检查（这是我们的建议，并非 YesStyle 的说明）："
+        "YesStyle 来自香港。公司 2006 年在香港创立，隶属于在香港交易所上市的 YesAsia Holdings Limited（代码 2209.HK）。该集团还运营 YesAsia 商店和亚洲美妆批发平台 AsianBeautyWholesale。",
+        "关于是否正品，YesStyle 表示自己是这些品牌的授权经销商，货源来自品牌制造商或其授权的经销商。我们没有找到能证实这一说法的独立审核，所以下面是买家自己就能做的核对（这是我们的建议，不是店家的）："
       ],
       "bullets": [
-        "在商品页面上，确认品牌与商品名称和品牌官方网站一致；",
-        "在包装盒上，找到印刷的批号与有效期，开封前先确认有效期；",
-        "收货时，检查商品与包装的封条是否完好；",
-        "如果商品与页面介绍不同，请先不要使用，并先联系 YesStyle 客服。"
+        "在商品页面，核对品牌和商品名称是否与品牌官网一致；",
+        "在包装盒上找到印刷的批号和有效期，拆封前先看有效期；",
+        "收货时检查商品和外包装的封条；",
+        "如果发现和宣传不一样，请不要使用，先联系 YesStyle 客服。"
       ]
     },
     {
-      "heading": "可以信任 YesStyle 吗？",
+      "heading": "下单前要核对什么",
       "paragraphs": [
-        "可以，但要照常检查。YesStyle 总部在香港，2006 年创立，隶属香港交易所上市的 YesAsia Holdings（2209.HK）。平台称自己是 400 多个韩国美妆品牌的授权经销商，但我们没有找到能证实这一说法的独立审核。",
-        "实际操作：只在 yesstyle.com 下单，结账前确认运送时间与运费，收货时检查批号、有效期和封条。"
+        "确认订单之前，请核对以下几点："
+      ],
+      "bullets": [
+        "输入付款信息前，确认网址是官方域名（yesstyle.com）。安全的结账页面网址以“https://”开头。",
+        "付款前在结账页面确认运费和配送时间。如果包裹到货时被征税，YesStyle 会对 1000 美元以下的订单退还进口税和清关费用；申请方法见[配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+        "仔细阅读商品说明，包括尺寸、材质和使用保养方式：亚洲美妆的标准可能与当地不同（例如包装规格、活性成分浓度）。",
+        "保留付款凭证、订单号和物流单号，出问题时用于查件和申诉。",
+        "如果收到时封条已破损，请不要签收。"
       ]
     },
     {
-      "heading": "奖励码额外折扣",
+      "heading": "YesStyle 值得信赖吗？",
       "paragraphs": [
-        "结账时于“奖励码 (Reward Code)”栏位输入 CECILIA010，首单可享最高 5% 额外折扣，续购可享 2% 折扣。可与优惠券代码（Coupon Code）叠加使用。CECILIA010 代码没有到期日，只要与 YesStyle 的合作持续就会保持有效；使用此代码不会为买家带来额外费用。"
+        "值得，但照常核对。YesStyle 来自香港，2006 年创立，由上市公司 YesAsia Holdings（2209.HK）控股。它自称是 400 多个韩国美妆品牌的授权经销商，但这一说法没有独立审核。如果包裹被征税，对 1000 美元以下的订单，店家会退还进口税和清关费用。",
+        "实际操作：通过 yesstyle.com 下单，在结账页面确认运费和配送时间，保留付款凭证，收货时核对批号、有效期和封条。"
+      ]
+    },
+    {
+      "heading": "合作与奖励码",
+      "paragraphs": [
+        "Em Casa com Cecília 与 YesStyle 有商业合作。通过这项合作，读者可以在结账时的专用栏位输入奖励码（Reward Code）CECILIA010，首次购买最高额外优惠 5%，回购额外优惠 2%。该奖励码可与网站上有效的适用促销优惠券同时使用，优惠可以叠加。",
+        "CECILIA010 没有有效期，只要与 YesStyle 的合作继续，就一直有效。使用该奖励码不会给读者增加费用：这项优惠由品牌提供，用来支持 Em Casa com Cecília 这个内容项目。"
       ],
       "bullets": []
     },
     {
       "heading": "常见问题",
       "bullets": [
-        "YesStyle 的商品是正品还是仿冒品？ YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或授权合作伙伴。我们没有找到针对这一说法的独立审核；收到订单后，请检查批号、有效期和封条。",
-        "YesStyle 是哪里的公司？ 来自香港：公司于 2006 年在香港创立，隶属于香港交易所上市的 YesAsia Holdings（2209.HK）。",
-        "如何使用 CECILIA010 代码？ 结账时在“奖励码”栏位输入 CECILIA010 即可。"
+        "YesStyle 可靠吗？还是假网站？ YesStyle 是正规公司。它 2006 年创立，总部在香港，是在香港交易所上市的 YesAsia Holdings Limited（2209.HK）的子公司，自称是所售品牌的授权经销商。",
+        "YesStyle 是哪里的公司？ 来自香港：公司 2006 年在香港创立，隶属于在香港交易所上市的 YesAsia Holdings（2209.HK）。",
+        "YesStyle 的商品是正品还是仿冒品？ YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销商。这一说法没有独立审核；收货时请核对批号、有效期和封条。",
+        "YesStyle 寄到巴西要多久？ 店家没有公布寄往巴西的时间，付款前可在结账页面看到。时间怎么计算，见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+        "YesStyle 寄往巴西会收进口税吗？ 包裹到货时可能被征收进口税。YesStyle 对 1000 美元以下的订单退还进口税和清关费用，以店铺积分的形式退还。",
+        "CECILIA010 会改变商品的最终价格吗？ 会。CECILIA010 作为合作福利提供最高 5% 的额外优惠（首次购买 5%，回购 2%），不会给读者增加费用。",
+        "YesStyle 怎么退货？ 退货需通过客服的退货授权表（RMA）申请。符合条件且未拆封的商品可以退货，按该商品当时适用的政策，以店铺积分或原路退款的方式退款。",
+        "YesStyle 支持哪些付款方式？ 国际信用卡、PayPal，部分国家还有本地电子钱包。所有订单都以美元（USD）处理。",
+        "在 YesStyle 输入银行卡信息安全吗？ 安全。网站使用安全的 HTTPS 连接，并通过经国际认证的支付网关处理付款。请不要在官方结账页面之外输入敏感信息。",
+        "YesStyle 的官方域名是什么？ 官方域名是 yesstyle.com（在网站上选择语言即可使用葡萄牙语）。请小心假网站和未经授权的转售商。",
+        "YesStyle 寄往巴西包邮吗？ 店家没有公布寄往巴西的免运费活动；运费在付款前的结账页面显示。",
+        "怎样在 YesStyle 使用 CECILIA010？ 结账时，在“奖励码”（Reward Code）栏位输入 CECILIA010。该栏位与优惠券栏位是分开的，两者可以同时使用。"
       ]
     }
   ],
@@ -107,12 +131,14 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "依据公开资料撰写。CECILIA010 代码来自联盟营销合作。",
+  "editorialNote": "基于公开信息撰写。CECILIA010 来自商业合作。",
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-zh-hans",
       "title": "YesStyle 奖励码 CECILIA010 使用指南"
     }
   ],
-  "translationKey": "yesstyle-trust"
+  "translationKey": "yesstyle-trust",
+  "category": "confianca-reputacao",
+  "isNew": false
 }

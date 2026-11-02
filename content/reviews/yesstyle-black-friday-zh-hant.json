@@ -15,143 +15,138 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle 黑色星期五何時開始？整理自官方頁面的 2024 與 2025 年日程，說明滿額分級優惠券全年不變的原因、無最低消費的 15% 日子，以及如何搭配獎勵碼 CECILIA010。",
-  "metaDescription": "YesStyle 黑色星期五 2026：2024 與 2025 年的日程、滿額分級優惠券、無最低消費的 15% 日子，以及 CECILIA010 獎勵碼的搭配方式，整理成一篇指南。",
+  "description": "YesStyle 的黑色星期五何時開始？本文整理了從官方頁面查到的 2024 年與 2025 年日程、階梯優惠券全年相同的原因、無最低消費的 15% 日子，以及如何疊加獎勵碼 CECILIA010。",
+  "metaDescription": "YesStyle 黑色星期五 2026：2024 年與 2025 年日程、優惠券的門檻、無最低消費的 15% 日子，以及如何疊加獎勵碼 CECILIA010。",
   "publishedAt": "2026年10月11日",
   "publishedAtISO": "2026-10-11",
   "draft": false,
-  "isNew": false,
+  "isNew": true,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-  "imageAlt": "西西莉亞手拿 YesStyle 寄來的 Abib 產品盒，笑著出現在韓國護膚影片的一幕中",
+  "imageAlt": "西西莉亞·茅阿德笑著拿著從 YesStyle 收到的 Abib 產品盒，來自韓式護膚流程影片的一幕",
   "imageFit": "cover",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
   "pros": [
-    "2024年與 2025年的官方日程，整理自各優惠券的規則頁面",
-    "獎勵碼可與 YesStyle 優惠券疊加，黑色星期五也適用",
-    "無最低消費 15% 的日子，任何購物車都能拿到優惠券的最高折扣",
-    "US$1,000 以下的訂單，YesStyle 會以 YesStyle Credit 退還關稅"
+    "2024 年與 2025 年的官方日程，取自各優惠券的規則頁面",
+    "獎勵碼可與 YesStyle 優惠券疊加，黑色星期五也一樣",
+    "在無最低消費的 15% 日子，任何購物車都能拿到優惠券的最高折扣",
+    "訂單低於 1,000 美元時，YesStyle 會以店鋪抵用金退還關稅等稅費"
   ],
   "cons": [
-    "2026年的日期尚未公布：目前的日程只是依過往情況的推估",
-    "黑色星期五的滿額分級優惠券與全年相同",
-    "優惠券只限會員，每筆訂單一張，且不折抵運費",
-    "國際購物的到貨時間，比本地商店的訂單更長"
+    "2026 年的日期尚未公布：目前的日程只是依往年紀錄的推測",
+    "黑色星期五的階梯優惠券和平常的一樣",
+    "優惠券僅限會員，每筆訂單限用一張，不折抵運費",
+    "這是跨境購物，送達時間比台灣的商店長"
   ],
   "contentSections": [
     {
-      "heading": "快速解答",
+      "heading": "先說結論",
       "paragraphs": [
-        "YesStyle 尚未公布 2026年黑色星期五，但 2024年與 2025年，同名優惠券在 11月初出現，一路延續到網購星期一。滿額分級優惠券全年相同，CECILIA010 也能疊加。要不要等，取決於無最低消費的 15% 日子，見「要等無最低消費的 15% 日子嗎？」。"
+        "YesStyle 還沒有公布 2026 年的黑色星期五，但在 2024 年與 2025 年，使用這個名稱的優惠券都在 11 月初開始，一直持續到網購星期一。階梯優惠券全年都一樣，CECILIA010 可與它疊加。真正影響決定的是無最低消費的 15% 日子，詳見下文。"
       ]
     },
     {
       "heading": "YesStyle 黑色星期五何時開始",
       "paragraphs": [
-        "YesStyle 會在幫助中心公布每張優惠券的規則，包括開始與結束的日期和時間。下表整理了 2024年與 2025年黑色星期五的頁面，2026年的頁面尚未公布。"
+        "YesStyle 會在網站的說明中心公布每張優惠券的規則，寫明開始與結束的日期與時間。下表是 2025 年的日期。2024 年各階段的順序相同，只是晚一兩天開始。2026 年的還沒有公布。"
       ],
       "comparisonTable": {
-        "caption": "全體會員皆可使用的優惠券，取自 YesStyle 幫助中心的頁面。日期以 GMT 計算，這是商店採用的時間。",
+        "caption": "2025 年開放給所有會員的優惠券，取自 YesStyle 說明頁面；每個階段持續到下一階段開始。日期與時間採用 GMT，這是商店的計時標準。",
         "headers": [
           "階段",
-          "2024年",
-          "2025年"
+          "2025 年"
         ],
         "rows": [
           [
-            "名稱為「Black Friday」的滿額分級優惠券",
-            "11月4日〜11月29日",
-            "11月3日〜11月27日"
+            "名稱為 Black Friday 的階梯優惠券",
+            "11 月 3 日起"
           ],
           [
-            "無最低消費 15%（黑色星期五）",
-            "11月29日〜12月2日",
-            "11月27日〜12月1日"
+            "無最低消費的 15%（黑色星期五）",
+            "11 月 27 日起"
           ],
           [
-            "無最低消費 15%（網購星期一）",
-            "12月2日〜12月4日",
-            "12月1日〜12月3日"
+            "無最低消費的 15%（網購星期一）",
+            "12 月 1 日起"
           ],
           [
-            "網購星期一的滿額分級優惠券",
-            "12月4日〜12月10日",
-            "12月3日〜12月8日"
+            "網購星期一的階梯優惠券",
+            "12 月 3 日至 8 日"
           ]
         ]
       },
       "postParagraphs": [
-        "2026年的黑色星期五是11月27日，網購星期一是11月30日。如果 YesStyle 沿用同樣的模式，「Black Friday」的名稱應會在 11月初出現在優惠券上，無最低消費 15% 的日子也會落在這兩天附近。這只是依據過往情況的推估，商店可能全部改變。等 2026年的頁面公布，本指南會再更新。",
-        "優惠券會在固定的 GMT 時間切換。2025年，滿額分級優惠券在 GMT 2點切換，無最低消費的 15% 則在 GMT 8點開始。請自行換算成你所在時區的時間。"
+        "2026 年的黑色星期五是 11 月 27 日，網購星期一是 11 月 30 日。如果 YesStyle 沿用往年的模式，名為 Black Friday 的優惠券會在 11 月初出現，無最低消費的 15% 日子則會落在這兩個日期前後。這只是依往年紀錄的推測：商店可能全部改變。2026 年的頁面出來後，本指南會隨之更新。",
+        "優惠券依 GMT 的固定時間切換。2025 年，階梯優惠券在 GMT 2 點切換，也就是巴西利亞時間前一天 23 點；無最低消費的 15% 則在 GMT 8 點開始，也就是巴西利亞時間早上 5 點。"
       ]
     },
     {
       "heading": "黑色星期五的優惠券全年都一樣",
       "paragraphs": [
-        "2025年10月的 Mid-Season Sale 優惠券，與 11月黑色星期五的滿額分級優惠券，門檻完全相同。這是 YesStyle 幾乎全年持續推出的折扣，只是每隔幾天就換一次名稱和代碼。"
+        "2025 年 10 月的階梯優惠券（Mid-Season Sale）與 11 月黑色星期五優惠券的門檻完全相同。這是 YesStyle 幾乎全年都在推出的折扣，每隔幾天就換一次名稱與代碼。目前有效的優惠券請見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。"
       ],
       "comparisonTable": {
-        "caption": "YesStyle 滿額分級優惠券在 2024年與 2025年的門檻，黑色星期五期間與之外相同。折扣以商品價格計算。",
+        "caption": "2024 年與 2025 年 YesStyle 階梯優惠券的門檻，黑色星期五期間與其他時間相同。折扣按商品價格計算。",
         "headers": [
           "訂單最低金額",
           "額外折扣"
         ],
         "rows": [
           [
-            "US$79",
+            "US$ 79",
             "8%"
           ],
           [
-            "US$149",
+            "US$ 149",
             "10%"
           ],
           [
-            "US$199",
+            "US$ 199",
             "15%"
           ]
         ]
       },
       "postParagraphs": [
-        "無最低消費的日子，上限同樣是 15%。這些日子的作用，是讓這個百分比適用於任何購物車。"
+        "無最低消費的日子，上限同樣是 15%。它的作用只是把這個比例開放給任何購物車。"
       ]
     },
     {
       "heading": "要等無最低消費的 15% 日子嗎？",
       "paragraphs": [
-        "要看購物車的金額："
+        "取決於購物車的大小："
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-        "alt": "YesStyle 依訂單金額的折扣階梯圖：US$ 79 以下為 0%，滿 US$ 79 為 8%，滿 US$ 149 為 10%，滿 US$ 199 為 15%，另有一條虛線從 US$ 0 起即為 15%",
-        "caption": "綠線是滿額分級優惠券：滿 US$ 79 享 8%，滿 US$ 149 享 10%，滿 US$ 199 享 15%。虛線是無最低消費、享 15% 的日子。插圖由 Em Casa com Cecília 製作。",
+        "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
+        "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
       "bullets": [
-        "**購物車 US$199 以上：** 滿額分級優惠券任何一天都是 15%，與無最低消費的日子相同。接近星期五時可能變動的是每件商品的促銷價，不是優惠券。",
-        "**購物車 US$79 到 US$199：** 滿額分級優惠券給 8% 或 10%。在無最低消費的日子，同一個購物車可拿到 15%。",
-        "**購物車低於 US$79：** 滿額分級優惠券完全沒有折扣。等無最低消費 15% 的日子，最划算。"
+        "**購物車滿 US$ 199：**階梯優惠券任何一天都給 15%，與無最低消費的日子比例相同。接近週五可能變動的是每件商品的促銷價，而不是優惠券。",
+        "**購物車介於 US$ 79 到 US$ 199 之間：**階梯優惠券給 8% 或 10%。在無最低消費的日子，同一個購物車能拿到 15%。",
+        "**購物車低於 US$ 79：**階梯優惠券一毛也不折。等無最低消費的 15% 日子，這類購物車受益最多。"
       ]
     },
     {
       "heading": "CECILIA010 如何與黑色星期五的優惠券一起使用",
       "paragraphs": [
-        "YesStyle 的結帳頁有兩個欄位。CECILIA010 填在 Reward Code，當天的優惠券填在 Coupon Code。2024年與 2025年黑色星期五優惠券的規則都寫明，它們可與促銷價、Reward Code 以及 YS Points（YesStyle 自己的點數）一起使用。"
+        "YesStyle 的結帳頁有兩個欄位。當天的優惠券填在 Coupon Code，CECILIA010 填在 Reward Code。2024 年與 2025 年所有黑色星期五優惠券的規則都寫明，它們可與促銷價、獎勵碼（Rewards Codes）以及 YS Points（YesStyle 自己的點數）一起使用。"
       ],
       "image": {
-        "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
-        "alt": "YesStyle 結帳的 Enter Code 視窗：Coupon Code 欄位裡是優惠券，Influencer / Rewards Code 欄位裡是 CECILIA010",
-        "caption": "結帳的兩個欄位：上面的 Coupon Code 填當天的優惠券，Influencer / Rewards Code 欄位填獎勵碼 CECILIA010。",
+        "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
+        "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
+        "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
         "objectFit": "contain",
-        "aspectRatio": 1.5643
+        "aspectRatio": 1.5962
       },
       "bullets": [
-        "先登入帳號，再組購物車：優惠券只提供給會員。",
-        "組好購物車後，確認金額已超過你要的門檻（US$79、US$149 或 US$199）。",
-        "把當天的優惠券填入 Coupon Code 欄位。",
-        "把 CECILIA010 填入 Reward Code 欄位：首購 5%，回購 2%。",
-        "付款前，在訂單摘要確認兩項折扣都已套用。"
+        "組購物車之前先登入帳號：優惠券僅限會員。",
+        "組好購物車後，確認金額已超過你想要的門檻（US$ 79、149 或 199）。",
+        "把當天的優惠券貼到 Coupon Code 欄位。",
+        "把 CECILIA010 貼到 Reward Code 欄位：首次購買 5%，之後的購買 2%。",
+        "付款前，在訂單摘要中確認兩項折扣都已生效。"
       ],
       "links": [
         {
@@ -159,72 +154,72 @@
           "href": "/zh-hant/coupons/yesstyle"
         },
         {
-          "label": "CECILIA010 使用步驟",
+          "label": "CECILIA010 的逐步使用方法",
           "href": "/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant"
         }
       ]
     },
     {
-      "heading": "黑色星期五最常踩到的規則",
+      "heading": "黑色星期五最容易踩到的規則",
       "bullets": [
-        "**只限會員：** 以訪客身分購買的人無法使用優惠券。請在促銷日之前建立帳號。",
-        "**每筆訂單一張優惠券：** 同一筆訂單無法疊加兩張 YesStyle 優惠券。獎勵碼不在這個計算內，因為它填在另一個欄位。",
-        "**只折商品價格：** 優惠券不折抵運費或其他費用。",
-        "**部分商品不適用：** 商品頁與結帳頁會提示優惠券不適用的商品。",
-        "**以商店時間為準：** 計算的是 YesStyle 系統記錄訂單的時間（GMT）。優惠券結束後才完成的訂單，無法享有折扣。",
-        "**可重複使用：** 促銷期間，同一張優惠券可用於你下的每一筆訂單。"
+        "**僅限會員：**以訪客身分購買無法使用優惠券。請在促銷日之前先註冊帳號。",
+        "**每筆訂單一張優惠券：**同一筆訂單不能疊加兩張 YesStyle 優惠券。獎勵碼不算在內，因為它填在另一個欄位。",
+        "**只折抵商品價格：**優惠券不折抵運費或其他費用。",
+        "**部分商品不適用：**商品頁面與結帳頁會提示該商品不能使用優惠券。",
+        "**以商店的時間為準：**以 YesStyle 系統記錄訂單的時間（GMT）為準。優惠券結束後才完成的訂單沒有折扣。",
+        "**可以重複使用：**促銷期間，同一張優惠券可用於你下的任意多筆訂單。"
       ]
     },
     {
       "heading": "並非人人都有的優惠",
       "paragraphs": [
-        "2025年，除了全體會員都能用的優惠券，YesStyle 還推出了兩項限定優惠。11月24日至30日，YesStyle 的忠誠計畫 Elite Club（Bronze、Silver、Gold 等級）會員，每天有一件商品以 US$1 供應，訂單需滿 US$50：每筆訂單限一件，售完為止，不可換貨或退貨。11月28日至12月1日，部分會員收到了無最低消費 18% 的優惠券（「We Miss You」）。頁面沒有說明這些會員是如何選出的。",
-        "如果你的帳號出現這類優惠券，規則相同：它可與獎勵碼及 YS Points 一起使用。"
+        "2025 年，除了開放給所有會員的優惠券，YesStyle 還推出了兩項限定優惠。黑色星期五那一週，商店會員計畫 Elite Club 的銅、銀、金級會員每天有一件商品只要 US$ 1，訂單需滿 US$ 50 起。每筆訂單限一件，售完為止，不可換貨或退貨。另外，在黑色星期五與網購星期一之間，一張無最低消費的 18% 優惠券發給了部分會員（“We Miss You”）。頁面沒有說明這些會員是如何選出的。",
+        "如果你的帳號裡出現這類優惠券，規則相同：可與獎勵碼和 YS Points 疊加。"
       ]
     },
     {
       "heading": "黑色星期五之後：聖誕節",
       "paragraphs": [
-        "2024年，年底最大的優惠券並不是黑色星期五的。12月22日至26日，YesStyle 全店商品都享無最低消費 18%。2025年，全體會員可用的優惠券在年底前一直維持 15%。",
-        "要買聖誕禮物，黑色星期五的購買最有保障。國際訂單比本地商店的訂單需要更久，預計到貨時間會在付款前的結帳頁面顯示。"
+        "2024 年，年底最大的優惠券並不是黑色星期五那張：聖誕節那一週，YesStyle 對所有商品給出了無最低消費的 18%。2025 年，開放給所有會員的優惠券到年底都維持在 15%。",
+        "如果是買聖誕禮物，黑色星期五下單最穩妥。跨境購物比在台灣的商店買要久，預計送達時間會在付款前顯示在結帳頁。"
       ]
     },
     {
-      "heading": "配送與關稅",
+      "heading": "寄往巴西與稅費",
       "paragraphs": [
-        "運費與預計送達時間會在結帳時顯示，優惠券不折抵運費。如果包裹到達時被課徵關稅和手續費，YesStyle 會對低於 US$1,000 的訂單，以 YesStyle Credit 退還這些費用。YesStyle 針對台灣、香港與澳門公布的內容，以及如何申請退款，都在 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)裡。"
+        "運費與送達時間會顯示在結帳頁，優惠券不折抵運費。如果包裹到貨時被課稅，YesStyle 會對 1,000 美元以下的訂單，以店鋪抵用金退還稅費與關稅。商店針對巴西與葡萄牙公布的內容，以及如何申請退款，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
       ],
       "image": {
-        "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
-        "alt": "YesStyle 購物袋旁的結帳面板，有配送方式、代碼欄位和訂單摘要",
-        "caption": "購物袋與結帳：付款前就會顯示配送方式、運費和預計送達日期。",
+        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
+        "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
+        "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
         "objectFit": "contain",
-        "aspectRatio": 2.0367
+        "aspectRatio": 3.5907
       }
     },
     {
       "heading": "購物車範例：Abib 的護膚流程",
       "paragraphs": [
-        "本文最後的影片為葡萄牙語。西西莉亞測試了她從 YesStyle 收到的三件韓國品牌 Abib 產品：眼部水凝膠貼片、含 PDRN 的精華乳霜，以及唇膜。這是適合剛開始接觸韓式護膚的人的簡短流程，也是組合黑色星期五購物車的好起點。"
+        "在本文最後的影片裡，西西莉亞試用了她從 YesStyle 收到的三款韓國品牌 Abib 的產品：眼部水凝膠貼片、PDRN 精華霜與唇膜。這是一套給剛接觸韓式護膚的人的簡短流程，也是搭配黑色星期五購物車的好起點。"
       ],
       "images": [
         {
           "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
-          "alt": "西西莉亞微笑著，手裡拿著 Abib 水凝膠眼貼的罐子和一片粉色眼貼",
-          "caption": "Abib 的水凝膠眼貼，出現在西西莉亞的影片中。",
+          "alt": "西西莉亞笑著拿著 Abib 眼部水凝膠貼片的罐子與一片粉色貼片",
+          "caption": "西西莉亞影片裡的 Abib 眼部水凝膠貼片。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         {
           "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
-          "alt": "西西莉亞靠近臉部，拿著 Abib PDRN 精華乳霜的白色軟管",
-          "caption": "Abib 的 PDRN 精華乳霜。",
+          "alt": "西西莉亞在臉旁拿著 Abib PDRN 精華霜的白色軟管",
+          "caption": "Abib 的 PDRN 精華霜。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         {
           "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
-          "alt": "西西莉亞嘟著嘴，拿著 Abib 唇膜的粉色罐子",
+          "alt": "西西莉亞嘟著嘴，拿著 Abib 粉色唇膜的罐子",
           "caption": "Abib 的唇膜。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
@@ -232,7 +227,7 @@
       ],
       "links": [
         {
-          "label": "逐一看 Abib 護膚流程的心得",
+          "label": "Abib 流程逐個產品看",
           "href": "/zh-hant/reviews/abib-skincare-routine-30-zh-hant"
         }
       ]
@@ -240,16 +235,16 @@
     {
       "heading": "常見問題",
       "bullets": [
-        "YesStyle 黑色星期五 2026年何時開始？YesStyle 尚未公布。2024年和 2025年，名稱為「Black Friday」的優惠券在 11月初開始，一路延續到網購星期一。",
-        "YesStyle 黑色星期五的優惠券是哪一張？每三到四天更換一次。本站的 YesStyle 頁面會顯示目前有效的優惠券，並附上查核日期。",
-        "YesStyle 黑色星期五的優惠券有最低消費嗎？滿額分級優惠券有：滿 US$79 享 8%、滿 US$149 享 10%、滿 US$199 享 15%。接近星期五和網購星期一的日子，YesStyle 通常會開放無最低消費的 15%。",
-        "黑色星期五和網購星期一，在 YesStyle 買哪一天比較划算？2024年和 2025年，兩天都是無最低消費 15%，所以優惠券的上限相同。每天不同的，是各商品的促銷價。",
-        "YesStyle 在黑色星期五以外也有促銷嗎？有。8%、10% 和 15% 的滿額分級優惠券幾乎全年都在，每三到四天更換一次名稱。",
-        "CECILIA010 在黑色星期五也能用嗎？可以。填入 Reward Code 欄位即可，黑色星期五優惠券的規則也寫明，它們可與 Reward Code 一起使用。",
-        "同一筆訂單能用兩張 YesStyle 優惠券嗎？不能，每筆訂單只能用一張。獎勵碼是另一回事，填在結帳頁的另一個欄位。",
-        "要用黑色星期五的優惠券，必須有 YesStyle 帳號嗎？必須。優惠券只提供給會員，以訪客身分購買就無法享有折扣。",
-        "YesStyle 會寄到我所在的國家嗎？會，YesStyle 提供國際配送。你所在國家的運費與預計送達時間，會在結帳時顯示。",
-        "在 YesStyle 購物需要付稅嗎？到貨時可能會被課徵關稅。US$1,000 以下的訂單，若在 30 天內寄出收據，這筆稅金會以 YesStyle Credit 退還。部分地區在結帳時收取的稅金，不在退款範圍內。"
+        "2026 年 YesStyle 的黑色星期五何時開始？YesStyle 還沒有公布。2024 年與 2025 年，名稱為 Black Friday 的優惠券在 11 月的頭幾天開始，一直持續到網購星期一。",
+        "YesStyle 黑色星期五的優惠券是什麼？它每三四天換一次。本站的 YesStyle 頁面會顯示目前有效的優惠券，並標明核對的日期。",
+        "YesStyle 黑色星期五的優惠券有最低消費嗎？階梯優惠券有：滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%。接近週五與網購星期一的幾天，YesStyle 通常會開放無最低消費的 15%。",
+        "在 YesStyle，黑色星期五和網購星期一哪個買比較划算？2024 年與 2025 年，兩者都是無最低消費的 15%，所以優惠券的上限相同。每天不同的是每件商品的促銷價。",
+        "YesStyle 在黑色星期五以外也有促銷嗎？有。8%、10% 與 15% 的階梯優惠券幾乎全年都在，每三四天換一次名稱。",
+        "CECILIA010 在黑色星期五能用嗎？能用。它填在 Reward Code 欄位，黑色星期五優惠券的規則也寫明可與獎勵碼一起使用。",
+        "同一筆訂單能用兩張 YesStyle 優惠券嗎？不能：每筆訂單一張優惠券。獎勵碼是另一回事，填在結帳頁的另一個欄位。",
+        "使用黑色星期五優惠券需要 YesStyle 帳號嗎？需要。優惠券僅限會員，以訪客身分購買拿不到折扣。",
+        "YesStyle 寄到巴西嗎？商店的運費表裡沒有巴西，但我們的一筆訂單在下單兩天後就寄出了。運費與送達時間會顯示在結帳頁。",
+        "在 YesStyle 購物要繳稅嗎？包裹到貨時可能會被課稅。1,000 美元以下的訂單，如果你在 30 天內寄出憑證，YesStyle 會以店鋪抵用金退還這些稅費。"
       ]
     }
   ],

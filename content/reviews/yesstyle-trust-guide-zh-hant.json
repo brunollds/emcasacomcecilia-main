@@ -11,8 +11,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle 企業背景分析：香港總部、400+ 韓國美妝品牌官方授權經銷、全球發貨及買家保障說明。",
-  "metaDescription": "YesStyle 安全可靠嗎？上市公司背景、400+ K-Beauty 品牌官方授權、運送政策與優惠碼指南。",
+  "description": "整理了 YesStyle 的公開資訊：香港公司、亞洲美妝品牌、配送與國際客服。",
+  "metaDescription": "YesStyle 可靠嗎？這裡有公司公開資料、韓國品牌授權情況、配送政策、稅費，以及下單前要確認的事項。",
   "publishedAt": "2026年8月2日",
   "publishedAtISO": "2026-08-02",
   "updatedAt": "2026-10-13",
@@ -20,83 +20,107 @@
   "locale": "zh-hant",
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
-  "imageAlt": "西西莉亞和三款 Abib 產品（PDRN 精華乳霜、唇膜和水凝膠眼貼），以及 YesStyle 的標誌",
+  "imageAlt": "Cecília 手持三款 Abib 產品（PDRN 提升面霜、護唇膜與水凝膠眼膜）與 YesStyle 標誌",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "contentSections": [
     {
-      "heading": "快速解答",
+      "heading": "快速回答",
       "paragraphs": [
-        "是的，YesStyle 是正規公司：2006 年創立於香港，隸屬上市公司 YesAsia Holdings。不過商品是否為正品由平台自行聲明，沒有獨立審核，收貨後請檢查批號、有效期限和封條。檢查方法見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。想優惠購買，請查看 [YesStyle 優惠碼](/zh-hant/coupons/yesstyle)（於{yesstyle:verifiedAt}核對）。"
+        "是的，YesStyle 是合法經營的公司：總部在香港，2006 年成立，由上市公司 YesAsia Holdings 控股。要留意的是，商品是否為正品只是店家自己的說法，並沒有獨立機構稽核，所以收到商品時請檢查批號、有效期限與封條。檢查方式見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。想用優惠購買，可以看 [YesStyle 優惠券](/zh-hant/coupons/yesstyle)，確認日期為 {yesstyle:verifiedAt}。"
       ]
     },
     {
-      "heading": "上市公司企業背景",
+      "heading": "公司公開資料",
       "paragraphs": [
-        "YesStyle Limited 成立於 2006 年，總部位於香港，是香港交易所上市公司 YesAsia Holdings Limited（股份代號：2209.HK）旗下的電商平台。作為上市公司子公司，其營運與財務均受嚴格監管及定期審計。",
-        "平台服務覆蓋全球 150 多個國家及地區，支援多國語言及貨幣結算。"
+        "YesStyle 來自香港，自 2006 年起營運，隸屬於在香港交易所上市的 YesAsia Holdings（2209.HK）。",
+        "YesStyle 服務 150 多個國家與地區的顧客，網站有葡萄牙文版，並提供多種參考幣別。在巴西下單以美元（USD）結算。公司設有客服管道，可詢問商品、配送時間、進口稅與退貨政策。"
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
-      "imageAlt": "YesStyle 官方網站首頁界面與促銷橫幅",
+      "imageAlt": "YesStyle 官方頁面與促銷橫幅",
       "imageFit": "square"
     },
     {
-      "heading": "商品陣容與正品保障",
+      "heading": "商品種類與市場定位",
       "paragraphs": [
-        "YesStyle 於官方網站聲明為 400 多個韓國美妝（K-Beauty）品牌的官方授權經銷商，同時提供日本美妝及亞洲時尚商品。商品涵蓋護膚品（精華液、化妝水、防曬乳）、彩妝及飾品。",
-        "公司於企業資料中表示，其為 COSRX、Etude House、肌研（Hada Labo）及 Rohto 等 400 多個韓國美妝品牌的授權經銷商，直接向品牌製造商或官方合作代理商採購。身為香港上市企業 YesAsia Holdings 旗下子公司，營運具有公開透明度。"
+        "YesStyle 自稱是 400 多個韓國美妝（K-beauty）品牌的授權經銷商，同時販售亞洲化妝品與時尚商品。商品涵蓋保養（精華液、精華水、化妝水、防曬）、彩妝、護髮產品與配件。",
+        "公司列出的品牌包括 COSRX、Etude House、Hada Labo 與 Rohto，並表示貨源直接來自品牌製造商或合作經銷商。由上市公司（YesAsia Holdings）控股，是關於這家店由誰掌控的公開資訊。"
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
-      "imageAlt": "YesStyle 授權熱門韓國及日本美妝品牌",
+      "imageAlt": "YesStyle 上的 K-Beauty 與 J-Beauty 授權品牌（COSRX、Anua、Beauty of Joseon）",
       "imageFit": "wide"
     },
     {
-      "heading": "全球運送與售後保障",
+      "heading": "購買政策與售後",
       "paragraphs": [
-        "提供國際配送，並附包裹追蹤號碼。台灣、香港與澳門的運送時間、運費與稅費，請參閱我們的 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
+        "付款方式有國際信用卡、PayPal，部分國家還能使用當地電子錢包。巴西與葡萄牙的配送時間、運費與稅費，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+        "符合條件且保持原包裝的商品要退貨，可透過官方客服的退貨授權表單（RMA）申請。聯絡客服可使用官網的線上聊天與電子郵件。"
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
-      "imageAlt": "YesStyle 商品列表、折扣價格與用戶評價",
+      "imageAlt": "YesStyle 的商品列表、美元價格與促銷折扣",
       "imageFit": "square"
     },
     {
       "heading": "YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？",
       "paragraphs": [
-        "YesStyle 來自香港。公司於 2006 年在香港創立，隸屬於 YesAsia Holdings Limited（香港交易所上市，股份代號：2209.HK）。該集團同時經營 YesAsia 商店，以及亞洲美妝批發平台 AsianBeautyWholesale。",
-        "關於商品是否為正品，YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷夥伴。我們沒有找到能證實這項說法的獨立審核，因此整理了幾項買家自己就能做的檢查（這是我們的建議，並非 YesStyle 的說明）："
+        "YesStyle 來自香港。公司 2006 年在香港成立，隸屬於在香港交易所上市的 YesAsia Holdings Limited（代碼 2209.HK）。該集團也經營 YesAsia 商店與亞洲美妝批發平台 AsianBeautyWholesale。",
+        "關於是否為正品，YesStyle 表示自己是這些品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷商。我們沒有找到能證實這項說法的獨立稽核，所以下面是買家自己就能做的檢查（這是我們的建議，不是店家的）："
       ],
       "bullets": [
-        "在商品頁面上，確認品牌與商品名稱和品牌官方網站相符；",
-        "在包裝盒上，找到印刷的批號與有效期限，開封前先確認有效期限；",
-        "收貨時，檢查商品與包裝的封條是否完好；",
-        "如果商品與頁面介紹不同，請先不要使用，並先聯絡 YesStyle 客服。"
+        "在商品頁面，確認品牌與商品名稱是否與品牌官網一致；",
+        "在包裝盒上找到印刷的批號與有效期限，拆封前先確認有效期限；",
+        "收到商品時檢查商品與外包裝的封條；",
+        "如果發現和宣傳不一樣，請先不要使用，並先聯絡 YesStyle 客服。"
       ]
     },
     {
-      "heading": "可以信任 YesStyle 嗎？",
+      "heading": "下單前要注意什麼",
       "paragraphs": [
-        "可以，但要照常檢查。YesStyle 總部在香港，2006 年創立，隸屬香港交易所上市的 YesAsia Holdings（2209.HK）。平台稱自己是 400 多個韓國美妝品牌的授權經銷商，但我們沒有找到能證實這一說法的獨立審核。",
-        "實際操作：只在 yesstyle.com 下單，結帳前確認運送時間與運費，收貨時檢查批號、有效期限和封條。"
+        "確認訂單之前，請檢查以下幾點："
+      ],
+      "bullets": [
+        "輸入付款資料前，確認網址是官方網域（yesstyle.com）。安全的結帳頁面網址會以「https://」開頭。",
+        "付款前先在結帳頁面確認運費與配送時間。如果包裹到貨時被課稅，YesStyle 會對 1,000 美元以下的訂單退還進口稅與清關費用；申請方式見[配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+        "仔細閱讀商品說明，包括尺寸、材質與使用保養方式：亞洲美妝的標準可能與當地不同（例如包裝規格、有效成分濃度）。",
+        "保留付款憑證、訂單編號與物流追蹤號碼，發生問題時可用來查件與申訴。",
+        "如果收到時封條已破損，請不要簽收。"
       ]
     },
     {
-      "heading": "獎勵碼額外折扣",
+      "heading": "YesStyle 值得信賴嗎？",
       "paragraphs": [
-        "結帳時於「獎勵碼 (Reward Code)」欄位輸入 CECILIA010，首單可享最高 5% 額外折扣，續購可享 2% 折扣。可與優惠券代碼（Coupon Code）疊加使用。CECILIA010 代碼沒有到期日，只要與 YesStyle 的合作持續就會保持有效；使用此代碼不會為買家帶來額外費用。"
+        "值得，但照常檢查。YesStyle 來自香港，2006 年成立，由上市公司 YesAsia Holdings（2209.HK）控股。它自稱是 400 多個韓國美妝品牌的授權經銷商，但這項說法沒有獨立稽核。如果包裹被課稅，對 1,000 美元以下的訂單，店家會退還進口稅與清關費用。",
+        "實際做法：從 yesstyle.com 下單，在結帳頁面確認運費與配送時間，保留付款憑證，收到商品時檢查批號、有效期限與封條。"
+      ]
+    },
+    {
+      "heading": "合作與獎勵碼",
+      "paragraphs": [
+        "Em Casa com Cecília 與 YesStyle 有商業合作。透過這項合作，讀者可以在結帳時的專用欄位輸入獎勵碼（Reward Code）CECILIA010，首次購買最多額外優惠 5%，回購額外優惠 2%。這組獎勵碼可與網站上有效的適用促銷優惠券同時使用，優惠可以疊加。",
+        "CECILIA010 沒有使用期限，只要與 YesStyle 的合作持續，就一直有效。使用獎勵碼不會增加讀者的花費：這項優惠由品牌提供，用來支持 Em Casa com Cecília 這個內容專案。"
       ],
       "bullets": []
     },
     {
       "heading": "常見問題",
       "bullets": [
-        "YesStyle 的商品是正品還是仿冒品？ YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或授權合作夥伴。我們沒有找到針對這項說法的獨立審核；收到訂單後，請檢查批號、有效期限與封條。",
-        "YesStyle 是哪裡的公司？ 來自香港：公司於 2006 年在香港創立，隸屬於香港交易所上市的 YesAsia Holdings（2209.HK）。",
-        "如何使用 CECILIA010 代碼？ 結帳時在「獎勵碼」欄位輸入 CECILIA010 即可。"
+        "YesStyle 可靠嗎？還是假網站？ YesStyle 是合法經營的公司。它 2006 年成立，總部在香港，是在香港交易所上市的 YesAsia Holdings Limited（2209.HK）的子公司，自稱是所售品牌的授權經銷商。",
+        "YesStyle 是哪裡的公司？ 來自香港：公司 2006 年在香港成立，隸屬於在香港交易所上市的 YesAsia Holdings（2209.HK）。",
+        "YesStyle 的商品是正品還是仿冒品？ YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷商。這項說法沒有獨立稽核；收到商品時請檢查批號、有效期限與封條。",
+        "YesStyle 寄到巴西要多久？ 店家沒有公布寄往巴西的時間，付款前可在結帳頁面看到。時間如何計算，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+        "YesStyle 寄往巴西會收進口稅嗎？ 包裹到貨時可能被課徵進口稅。YesStyle 對 1,000 美元以下的訂單退還進口稅與清關費用，以店鋪點數的形式退還。",
+        "CECILIA010 會改變商品的最終價格嗎？ 會。CECILIA010 作為合作福利提供最多 5% 的額外優惠（首次購買 5%，回購 2%），不會增加讀者的花費。",
+        "YesStyle 如何退貨？ 退貨需透過客服的退貨授權表單（RMA）申請。符合條件且未拆封的商品可以退貨，依該商品當時適用的政策，以店鋪點數或原路退款的方式退款。",
+        "YesStyle 支援哪些付款方式？ 國際信用卡、PayPal，部分國家還有當地電子錢包。所有訂單都以美元（USD）處理。",
+        "在 YesStyle 輸入信用卡資料安全嗎？ 安全。網站使用安全的 HTTPS 連線，並透過經國際認證的支付閘道處理付款。請不要在官方結帳頁面之外輸入敏感資料。",
+        "YesStyle 的官方網域是什麼？ 官方網域是 yesstyle.com（在網站上選擇語言即可使用葡萄牙文）。請小心假網站與未經授權的轉售商。",
+        "YesStyle 寄往巴西免運嗎？ 店家沒有公布寄往巴西的免運活動；運費在付款前的結帳頁面顯示。",
+        "如何在 YesStyle 使用 CECILIA010？ 結帳時，在「獎勵碼」（Reward Code）欄位輸入 CECILIA010。這個欄位與優惠券欄位是分開的，兩者可以同時使用。"
       ]
     }
   ],
@@ -107,12 +131,14 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "依據公開資料撰寫。CECILIA010 代碼來自聯盟行銷合作。",
+  "editorialNote": "依據公開資訊撰寫。CECILIA010 來自商業合作。",
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-zh-hant",
       "title": "YesStyle 獎勵碼 CECILIA010 使用指南"
     }
   ],
-  "translationKey": "yesstyle-trust"
+  "translationKey": "yesstyle-trust",
+  "category": "confianca-reputacao",
+  "isNew": false
 }

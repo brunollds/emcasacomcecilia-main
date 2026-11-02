@@ -11,8 +11,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Analyse des données publiques de YesStyle : siège à Hong Kong, revendeur agréé de 400+ marques de beauté coréenne, livraison internationale et garanties d'achat.",
-  "metaDescription": "YesStyle est-il fiable et sûr ? Données d'entreprise, partenariats officiels K-beauty, politiques de livraison, douanes et conseils d'achat.",
+  "description": "Analyse des données publiques de YesStyle : entreprise de Hong Kong, marques asiatiques de beauté, livraisons et service client international.",
+  "metaDescription": "YesStyle est-il fiable ? Consultez les données publiques de l'entreprise, l'autorisation des marques coréennes, la politique de livraison, les taxes et les points à vérifier avant d'acheter.",
   "publishedAt": "2 août 2026",
   "publishedAtISO": "2026-08-02",
   "updatedAt": "2026-10-13",
@@ -20,7 +20,7 @@
   "locale": "fr",
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
-  "imageAlt": "Cecília avec trois produits d'Abib (la crème booster au PDRN, le masque pour les lèvres et le patch hydrogel pour les yeux) et le logo de YesStyle",
+  "imageAlt": "Cecília avec trois produits Abib (la crème booster au PDRN, le masque pour les lèvres et le patch hydrogel pour les yeux) et le logo YesStyle",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -29,89 +29,98 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et filiale de YesAsia Holdings, cotée en bourse. Mais l'authenticité est déclarée par la boutique elle-même, sans audit indépendant : vérifiez lot, date de péremption et scellé à la réception. Voir le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? ». Pour économiser, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le {yesstyle:verifiedAt}."
+        "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et contrôlée par YesAsia Holdings, cotée en bourse. La réserve : l'authenticité des produits est déclarée par la boutique elle-même, sans audit indépendant ; vérifiez donc le lot, la date de péremption et le scellé à la réception. Ces vérifications figurent dans le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? ». Pour acheter avec une réduction, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le {yesstyle:verifiedAt}."
       ]
     },
     {
-      "heading": "Informations publiques sur l'entreprise",
+      "heading": "Données publiques de l'entreprise",
       "paragraphs": [
-        "YesStyle Limited est une plateforme de e-commerce basée à Hong Kong, fondée en 2006. Elle est une filiale de YesAsia Holdings Limited, société cotée à la Bourse de Hong Kong sous le code 2209.HK. Cela garantit une gestion transparente et des comptes audités.",
-        "Le site dessert plus de 150 pays et régions en proposant plusieurs devises d'affichage. Les commandes sont traitées selon les normes du commerce électronique international."
+        "YesStyle est basée à Hong Kong et existe depuis 2006. Elle appartient à YesAsia Holdings (2209.HK), cotée à la Bourse de Hong Kong.",
+        "YesStyle sert des clients dans plus de 150 pays et régions, avec une version du site traduite en portugais et plusieurs devises de référence. Au Brésil, les achats sont facturés en dollars américains (USD). L'entreprise dispose de canaux de service client pour répondre aux questions sur les produits, les délais de livraison, les taxes d'importation et la politique de retour."
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
-      "imageAlt": "Interface officielle et bannière promotionnelle du site YesStyle",
+      "imageAlt": "Interface officielle et bannière promotionnelle de la boutique YesStyle",
       "imageFit": "square"
     },
     {
-      "heading": "Catalogue et partenariats officiels",
+      "heading": "Catalogue et positionnement sur le marché",
       "paragraphs": [
-        "YesStyle déclare être revendeur agréé pour plus de 400 marques de beauté coréenne (K-beauty), tout en proposant des produits de beauté japonaise et de la mode asiatique. Le catalogue comprend des soins de la peau (sérums, essences, toniques, crèmes solaires), du maquillage et des accessoires.",
-        "L'entreprise indique dans ses informations officielles être revendeur agréé pour plus de 400 marques de beauté coréenne, travaillant avec des marques établies comme COSRX, Etude House, Hada Labo et Rohto, en s'approvisionnant auprès des fabricants ou partenaires distributeurs certifiés. Son appartenance au groupe coté YesAsia Holdings constitue un gage de transparence financière."
+        "YesStyle se déclare distributeur agréé de plus de 400 marques de beauté coréenne (K-beauty) et propose aussi des cosmétiques asiatiques et de la mode. Le catalogue comprend des soins de la peau (sérums, essences, lotions tonifiantes, protections solaires), du maquillage, des produits capillaires et des accessoires.",
+        "Parmi les marques citées par l'entreprise figurent COSRX, Etude House, Hada Labo et Rohto, et elle affirme acheter directement auprès des fabricants ou de distributeurs partenaires. Le fait d'être contrôlée par une société cotée en bourse (YesAsia Holdings) est une information publique sur qui se trouve derrière la boutique."
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
-      "imageAlt": "Marques de beauté coréenne partenaires officielles sur YesStyle",
+      "imageAlt": "Marques agréées de K-Beauty et de J-Beauty sur YesStyle (COSRX, Anua, Beauty of Joseon)",
       "imageFit": "wide"
     },
     {
-      "heading": "Livraison internationale et retours",
+      "heading": "Politiques d'achat et de service après-vente",
       "paragraphs": [
-        "Les délais, les frais de livraison et les taxes pour la France, la Belgique et le Canada figurent dans notre [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
-        "Les retours d'articles éligibles sous emballage d'origine se font via une demande d'Autorisation de Retour (RMA) auprès du service client."
+        "Pour payer, il y a la carte bancaire internationale, PayPal et, dans certains pays, des portefeuilles locaux. Le délai, les frais de port et les taxes au Brésil et au Portugal figurent dans le [guide de livraison YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+        "Pour retourner des articles éligibles dans leur emballage d'origine, la demande peut se faire par le formulaire d'autorisation de retour (RMA) auprès du service client officiel. Le support est joignable par chat et par e-mail sur le site officiel."
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
-      "imageAlt": "Grille de produits avec réductions et avis vérifiés sur YesStyle",
+      "imageAlt": "Grille de produits, prix en dollars et réductions promotionnelles sur YesStyle",
       "imageFit": "square"
     },
     {
       "heading": "Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ?",
       "paragraphs": [
-        "YesStyle est une enseigne de Hong Kong. Elle y a été fondée en 2006 et appartient à YesAsia Holdings Limited, société cotée à la Bourse de Hong Kong (code 2209.HK), qui exploite aussi la boutique YesAsia et AsianBeautyWholesale, une plateforme de vente en gros de produits de beauté asiatiques.",
-        "Concernant l'authenticité, YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne et s'approvisionner auprès des fabricants ou de distributeurs agréés par ces derniers. Nous n'avons trouvé aucun audit indépendant confirmant cette affirmation ; voici donc des vérifications que vous pouvez faire vous-même (suggestion de notre part, pas de la boutique) :"
+        "YesStyle vient de Hong Kong. Elle y a été fondée en 2006 et appartient à YesAsia Holdings Limited, cotée à la Bourse de Hong Kong (code 2209.HK), qui exploite aussi la boutique YesAsia et AsianBeautyWholesale, une plateforme de vente en gros de beauté asiatique.",
+        "Concernant l'authenticité, YesStyle affirme être revendeur agréé de ces marques et acheter auprès des fabricants ou de distributeurs autorisés par eux. Nous n'avons trouvé aucun audit indépendant confirmant cette affirmation ; voici donc des vérifications que l'acheteur peut faire lui-même (suggestion de notre part, pas de la boutique) :"
       ],
       "bullets": [
         "Sur la fiche produit, vérifiez que la marque et le nom de l'article correspondent au site officiel de la marque ;",
-        "Sur la boîte, repérez le numéro de lot et la date de péremption imprimés, et vérifiez la date avant d'ouvrir ;",
-        "À la livraison, contrôlez le scellé du produit et de l'emballage ;",
-        "Si quelque chose diffère de l'annonce, n'utilisez pas le produit et contactez d'abord le service client de YesStyle."
+        "Sur la boîte, repérez le lot et la date de péremption imprimés, et vérifiez la date avant d'ouvrir ;",
+        "À la livraison, vérifiez le scellé du produit et de l'emballage ;",
+        "Si quelque chose semble différent de ce qui était annoncé, n'utilisez pas le produit et contactez d'abord le service client de YesStyle."
       ]
     },
     {
-      "heading": "Conseils avant de commander",
+      "heading": "Ce qu'il faut vérifier avant d'acheter",
       "paragraphs": [
-        "Voici quelques conseils pratiques avant de valider votre panier :"
+        "Avant de valider la commande, vérifiez ces points :"
       ],
       "bullets": [
-        "Vérifiez que vous naviguez sur le domaine officiel (yesstyle.com) en HTTPS.",
-        "Renseignez-vous sur la réglementation douanière de votre pays concernant la TVA et les droits d'importation.",
-        "Lisez attentivement les fiches produits et guides de tailles."
+        "Vérifiez que vous êtes sur le domaine officiel (yesstyle.com) avant de saisir vos données de paiement. Le paiement sécurisé doit commencer par « https:// ».",
+        "Vérifiez les frais de port et le délai à la validation de la commande avant de payer. Si le colis est taxé à l'arrivée, YesStyle rembourse les taxes et les frais de douane sur les commandes inférieures à 1 000 US$ ; la marche à suivre est dans le [guide de livraison](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+        "Lisez attentivement les descriptions des produits, y compris les dimensions, les matières et les instructions d'entretien : les standards de beauté asiatiques peuvent différer des standards locaux (par exemple, la taille de l'emballage ou la concentration en principes actifs).",
+        "Conservez le justificatif de paiement, le numéro de commande et le code de suivi pour suivre la commande et, en cas de problème, faire une réclamation.",
+        "Si le scellé arrive brisé, n'acceptez pas le colis."
       ]
     },
     {
       "heading": "Peut-on faire confiance à YesStyle ?",
       "paragraphs": [
-        "Oui, avec les vérifications habituelles. YesStyle est basée à Hong Kong, existe depuis 2006 et est une filiale de YesAsia Holdings, cotée à la Bourse de Hong Kong (2209.HK). Elle se dit distributeur autorisé de plus de 400 marques de beauté coréenne, mais nous n'avons trouvé aucun audit indépendant de cette affirmation.",
-        "En pratique : commandez uniquement sur yesstyle.com, vérifiez les délais à la validation du panier et, à la livraison, contrôlez le lot, la date de péremption et le scellé."
+        "Oui, avec les vérifications habituelles. YesStyle est basée à Hong Kong, existe depuis 2006 et est contrôlée par YesAsia Holdings (2209.HK), cotée en bourse. Elle se déclare distributeur agréé de plus de 400 marques de beauté coréenne, mais il n'existe aucun audit indépendant de cette affirmation. Si le colis est taxé, la boutique rembourse les taxes et les frais de douane sur les commandes inférieures à 1 000 US$.",
+        "En pratique : achetez sur le domaine yesstyle.com, vérifiez les frais de port et le délai au moment de la commande, conservez le justificatif et, à la livraison, vérifiez le lot, la date de péremption et le scellé."
       ]
     },
     {
-      "heading": "Code récompense et réduction supplémentaire",
+      "heading": "Partenariat et code récompense",
       "paragraphs": [
-        "Em Casa com Cecília est partenaire de YesStyle. En saisissant le code de récompense CECILIA010 dans le champ dédié au moment du paiement, vous bénéficiez de 5 % de réduction supplémentaire sur votre première commande et de 2 % sur les suivantes. Cumulable avec les codes promo.",
-        "Le code CECILIA010 n'a pas de date d'expiration et reste actif tant que le partenariat avec YesStyle se poursuit. Son utilisation n'entraîne aucun frais pour l'acheteur."
+        "Em Casa com Cecília a un partenariat commercial avec YesStyle. Grâce à lui, les lecteurs peuvent saisir le code récompense (Reward Code) CECILIA010 dans le champ prévu à cet effet au moment du paiement pour obtenir jusqu'à 5 % de réduction supplémentaire sur le premier achat et 2 % sur les achats suivants. Ce code est compatible avec les coupons promotionnels éligibles actifs sur le site, ce qui permet de cumuler les réductions.",
+        "Le code CECILIA010 n'a pas de date d'expiration et reste actif tant que le partenariat avec YesStyle se poursuit. Utiliser le code n'entraîne aucun coût supplémentaire pour le lecteur : l'avantage est accordé par la marque en soutien au projet éditorial Em Casa com Cecília."
       ],
       "bullets": []
     },
     {
-      "heading": "Foire aux questions",
+      "heading": "Questions fréquentes",
       "bullets": [
-        "YesStyle est-il un site fiable ? Oui, YesStyle est une entreprise légitime fondée en 2006, filiale du groupe coté en bourse YesAsia Holdings (2209.HK).",
+        "YesStyle est-il fiable ou est-ce un faux site ? YesStyle est légitime. C'est une entreprise fondée en 2006 et basée à Hong Kong, filiale de YesAsia Holdings Limited, cotée à la Bourse de Hong Kong (2209.HK), et elle se présente comme distributeur agréé des marques qu'elle vend.",
         "D'où vient YesStyle ? De Hong Kong : la boutique y a été fondée en 2006 et appartient à YesAsia Holdings, cotée à la Bourse de Hong Kong (2209.HK).",
-        "Les produits YesStyle sont-ils authentiques ou contrefaits ? YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne, en s'approvisionnant auprès des fabricants ou de distributeurs agréés. Nous n'avons trouvé aucun audit indépendant de cette affirmation ; à la réception, vérifiez le numéro de lot, la date de péremption et le scellé.",
-        "Quel est le délai de livraison ? Cela dépend du pays et du mode d'expédition, et le délai s'affiche lors de la validation du panier. Les délais pour la France, la Belgique et le Canada figurent dans notre [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
-        "Comment utiliser le code CECILIA010 ? Saisissez CECILIA010 dans la case 'Code récompense' lors de la validation du panier."
+        "Les produits YesStyle sont-ils authentiques ou contrefaits ? YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne, en achetant auprès des fabricants ou de distributeurs autorisés. Il n'existe aucun audit indépendant de cette affirmation ; à la livraison, vérifiez le lot, la date de péremption et le scellé.",
+        "Quel est le délai de livraison de YesStyle vers le Brésil ? La boutique ne publie pas de délai pour le Brésil : il apparaît au moment de la commande, avant de payer. La façon dont le délai est compté est expliquée dans le [guide de livraison YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+        "YesStyle facture-t-il des taxes d'importation pour le Brésil ? La taxe peut être facturée à l'arrivée du colis. YesStyle rembourse les taxes et les frais de douane sur les commandes inférieures à 1 000 US$, sous forme de crédit en boutique.",
+        "Le code CECILIA010 change-t-il le prix final du produit ? Oui. Le code CECILIA010 offre jusqu'à 5 % de plus (5 % sur le premier achat, 2 % sur les suivants) comme avantage du partenariat, sans coût supplémentaire pour le lecteur.",
+        "Comment fonctionne le retour chez YesStyle ? La demande de retour se fait par le formulaire d'autorisation (RMA) auprès du service client. Les produits éligibles et non altérés peuvent être retournés contre un remboursement en crédit en boutique ou un remboursement sur le moyen de paiement, selon la politique en vigueur pour le produit.",
+        "Quels moyens de paiement YesStyle accepte-t-il ? Carte de crédit internationale, PayPal et, dans certains pays, portefeuilles locaux. Toutes les commandes sont traitées en USD.",
+        "Est-il sûr de saisir ses données de carte sur YesStyle ? Oui, le site utilise une connexion HTTPS sécurisée et traite les paiements via des passerelles certifiées au niveau international. Ne saisissez jamais de données sensibles en dehors du paiement officiel.",
+        "Quel est le domaine officiel de YesStyle ? Le domaine officiel est yesstyle.com (avec le portugais disponible en le sélectionnant sur le site). Méfiez-vous des faux sites et des revendeurs non autorisés.",
+        "YesStyle propose-t-il la livraison gratuite vers le Brésil ? La boutique ne publie pas de livraison gratuite vers le Brésil ; les frais de port apparaissent au moment de la commande, avant de payer.",
+        "Comment utiliser le code CECILIA010 sur YesStyle ? Saisissez CECILIA010 dans le champ « Reward Code » (code récompense) lors du paiement. Ce champ est distinct du champ des coupons, et les deux peuvent être utilisés en même temps."
       ]
     }
   ],
@@ -122,12 +131,14 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "Données publiques. Le code CECILIA010 vient d'un partenariat d'affiliation.",
+  "editorialNote": "Basé sur des données publiques. Le code CECILIA010 vient d'un partenariat commercial.",
   "relatedArticles": [
     {
       "slug": "code-recompense-yesstyle-cecilia010",
       "title": "Comment utiliser le code de récompense CECILIA010 sur YesStyle"
     }
   ],
-  "translationKey": "yesstyle-trust"
+  "translationKey": "yesstyle-trust",
+  "category": "confianca-reputacao",
+  "isNew": false
 }
