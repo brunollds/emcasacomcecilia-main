@@ -167154,8 +167154,7 @@ export const reviewsData: unknown[] = [
           "**Pegue o Single** se é um site só e você publica de vez em quando. É o mais barato na entrada e na renovação.",
           "**Pegue o Premium** se vai ter dois ou três sites. A diferença para o Single é o número de sites e o espaço, não o backup.",
           "**Pegue o Unlimited** se tem loja ou muitos sites. O backup diário é o motivo principal, e ele começa aqui.",
-          "**O Cloud Startup** só faz sentido se o Unlimited já não basta. É o mais caro, e a renovação de R$ 129,99/mês pesa.",
-          "Se fosse para o meu site, eu levaria o Single para um site só, porque é o mais barato na entrada e na renovação."
+          "**O Cloud Startup** só faz sentido se o Unlimited já não basta. É o mais caro, e a renovação de R$ 129,99/mês pesa."
         ]
       },
       {
