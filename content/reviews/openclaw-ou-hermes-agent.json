@@ -50,8 +50,8 @@
     {
       "heading": "O que é cada um",
       "paragraphs": [
-        "OpenClaw e Hermes Agent são assistentes de IA de código aberto, com licença MIT. Você instala para rodar sozinho e conversar pelo Telegram, WhatsApp ou outro aplicativo de mensagem. A licença não cobra nada; o que muda é a interface, a memória e quem mantém o projeto.",
-        "**OpenClaw** é mantido pela OpenClaw Foundation, uma organização sem fins lucrativos. Segundo o README oficial, o estado, a memória e as credenciais ficam no equipamento onde ele roda, e o projeto não tem plano pago, serviço hospedado nem token. Ele tem interface web (Control UI), linha de comando e aplicativos nativos para macOS, iOS, Android, Windows e Linux. Na Hostinger, pode ser contratado gerenciado ou em VPS, como mostra o [guia de gerenciado ou VPS do OpenClaw](/reviews/openclaw-hostinger-gerenciado-ou-vps).",
+        "Os dois são assistentes de IA de código aberto, com licença MIT, que você instala e conversa pelo Telegram, WhatsApp ou outro aplicativo de mensagem: o que separa um do outro é a interface, a memória e quem mantém o projeto. A licença não cobra nada; o que muda é a interface, a memória e quem mantém o projeto.",
+        "**OpenClaw** é mantido pela OpenClaw Foundation, uma organização sem fins lucrativos. O README oficial diz que o estado, a memória e as credenciais ficam no equipamento onde ele roda, sem plano pago, serviço hospedado ou token. Ele tem interface web (Control UI), linha de comando e aplicativos nativos para macOS, iOS, Android, Windows e Linux. Na Hostinger, pode ser contratado gerenciado ou em VPS, como mostra o [guia de gerenciado ou VPS do OpenClaw](/reviews/openclaw-hostinger-gerenciado-ou-vps).",
         "**Hermes Agent** é feito pela Nous Research, empresa que desenvolve modelos de IA. O diferencial dele é o ciclo de aprendizado: o agente organiza a própria memória entre as sessões, cria e melhora as próprias habilidades, busca nas conversas antigas e faz modelagem do usuário com o Honcho. Tem terminal completo e o Hermes Desktop, aplicativo de desktop com instalador para Windows e macOS. A página do projeto não informa preço do software. Ela menciona o Nous Portal, uma assinatura com ferramentas como busca na web, navegação e geração de imagens, sem valor informado. O Nous Portal é uma forma de pagar pelo modelo, não a única."
       ]
     },
@@ -147,7 +147,7 @@
         "**Quem cuida do servidor.** No gerenciado, a Hostinger atualiza e mantém a segurança. No VPS, a atualização é sua, pelo botão Update do Docker Manager, e a segurança do servidor também. Docker é o programa que roda cada aplicativo isolado num contêiner."
       ],
       "postParagraphs": [
-        "Se você for instalar o OpenClaw por conta própria, com npm, ele exige Node.js 24.16 ou mais novo, ou 26.1 ou mais novo. As versões 22, 23 e 25 não são suportadas, segundo a política de segurança do projeto."
+        "Se você for instalar o OpenClaw por conta própria, com npm, ele exige Node.js 24.16 ou mais novo, ou 26.1 ou mais novo. A política de segurança do projeto não suporta as versões 22, 23 e 25."
       ]
     },
     {
@@ -186,7 +186,7 @@
     {
       "heading": "Onde rodar na Hostinger",
       "paragraphs": [
-        "Preços de planos de 24 meses, lidos em 21/10/2026. Na tabela, o gerenciado vale para o OpenClaw e para o Hermes Agent pelo mesmo preço. A campanha de Black Friday muda os valores, então confira no carrinho."
+        "O gerenciado vale para os dois pelo mesmo preço: os valores abaixo são de planos de 24 meses, de 21/10/2026. A campanha de Black Friday muda os valores, então confira no carrinho."
       ],
       "comparisonTable": {
         "headers": [

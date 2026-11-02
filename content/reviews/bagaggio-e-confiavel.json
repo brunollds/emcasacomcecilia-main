@@ -51,7 +51,7 @@
     {
       "heading": "De qual país é a Bagaggio e o que dizem as três datas",
       "paragraphs": [
-        "A página Quem somos responde à pergunta de origem com três datas. Elas falam de coisas diferentes:"
+        "As três datas falam de coisas diferentes: marca, e-commerce e CNPJ:"
       ],
       "comparisonTable": {
         "headers": [
@@ -78,7 +78,7 @@
         ]
       },
       "postParagraphs": [
-        "As três datas não dizem que a empresa de 2007 é a mesma que começou a marca em 1942. A página Quem somos não explica essa ligação, e as fontes que lemos também não. O que dá para afirmar é que a marca se apresenta como brasileira, com origem no Rio de Janeiro, e que a empresa do site está registrada no Brasil, com CNPJ aberto em 2007.",
+        "A página Quem somos não explica a ligação entre a marca de 1942 e a empresa de 2007. O que dá para afirmar é que a marca se apresenta como brasileira, com origem no Rio de Janeiro, e que a empresa do site está registrada no Brasil, com CNPJ aberto em 2007.",
         "Sobre o país, então: a própria marca diz que é brasileira, e a empresa que opera o site tem sede em Duque de Caxias, no estado do Rio de Janeiro."
       ],
       "image": {
@@ -164,7 +164,7 @@
       },
       "postParagraphs": [
         "O frete só é reembolsado na devolução integral do pedido. Em pedido promocional com devolução parcial, você fica com os produtos de valor cheio e devolve os promocionais, ou devolve tudo.",
-        "A política não diz como o valor volta quando a compra foi paga no Pix, então este texto não dá prazo para isso."
+        "A política não diz como o valor volta quando a compra foi paga no Pix."
       ]
     },
     {
@@ -194,7 +194,7 @@
       "heading": "E a reputação no Reclame Aqui?",
       "paragraphs": [
         "Na leitura que fizemos, o perfil Bagaggio - Loja Virtual no Reclame Aqui tinha o selo \"Empresa Verificada\", mas a nota muda bastante conforme o período, e os números estão no [artigo sobre a reputação no Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao).",
-        "Frases de ranking que aparecem no site também não batem com a reputação pública da loja, então este texto não as repete."
+        "Frases de ranking que aparecem no site não batem com a reputação pública da loja."
       ]
     },
     {
@@ -218,7 +218,7 @@
         "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o CECILIA10. Veja a [página do cupom da Bagaggio](/cupons/bagaggio) para as condições vigentes.",
         "O CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet e em produtos já com desconto. Vale para clientes novos e antigos, em todas as formas de pagamento, e a loja aceita um cupom por pedido. Ele soma com o Pix de 5%, que entra sobre o total já com o cupom, enquanto a loja mantiver a oferta.",
         "Para aplicar, cole o código no campo \"Cupom de desconto\" do resumo do pedido. O campo \"Código de vendedor(a) ou influenciador(a)\" não é o lugar do CECILIA10.",
-        "Testamos no carrinho, sem finalizar a compra: uma mala do Outlet, de R$ 249,90 por R$ 179,90, ficou em R$ 161,91 com o cupom. No Pix, o teste pela API pública do checkout deu R$ 153,81. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
+        "Testamos no carrinho, sem finalizar a compra: uma mala do Outlet, de R$ 249,90 por R$ 179,90, ficou em R$ 161,91 com o cupom. No Pix, o total deu R$ 153,81. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
         "O cupom não vale no Mercado Livre, onde vale o preço do anúncio. O link da marca no Mercado Livre está nas perguntas frequentes, no fim do texto."
       ]
     },

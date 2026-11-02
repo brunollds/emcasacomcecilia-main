@@ -23,6 +23,16 @@
   "imageAlt": "Modelo com as camisetas oversized da Cléa Store em bordô, preto e off white, fotos oficiais da loja",
   "imageFit": "contain",
   "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "Leve o kit de três se você veste oversized e quer o menor preço por peça.",
+      "Leve a avulsa se você quer uma cor só ou completar um kit."
+    ],
+    "skipIf": [
+      "Passe nesta camiseta se você procura corte regular ou baby look: o catálogo só tem oversized.",
+      "Passe se você decide a compra por toque, caimento ou gramatura: a loja não informa a gramatura e não há opinião nossa sobre a peça."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
@@ -33,7 +43,7 @@
   },
   "coupon": "CSEMCASACOMCECILIA",
   "affiliate": "clea-store",
-  "editorialNote": "Preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+  "editorialNote": "Preços lidos no site da Cléa Store. Não compramos nem vestimos a peça. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
   "relatedArticles": [
     {
       "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
@@ -52,7 +62,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A ficha da loja descreve uma camiseta oversized de corpo 100% algodão penteado, vendida avulsa ou em kit de três. Ninguém do site comprou nem vestiu, então toque, caimento e durabilidade ficam sem opinião. O que pesa na escolha é a cor e a quantidade; veja o capítulo final."
+        "A camiseta da Cléa Store só existe em oversized, de corpo 100% algodão penteado, avulsa ou em kit de três. Toque, caimento e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica. O que pesa na escolha é a cor e a quantidade; veja o capítulo final."
       ]
     },
     {
@@ -61,7 +71,7 @@
         "A Cléa Store vende camiseta em um modelo só, o oversized. Os preços deste guia são de 23/10/2026, no site, sem cupom: R$ 129,00 a peça avulsa e R$ 258,00 o kit de três. Este guia usa a ficha da loja, a composição informada, o preço do dia e a tabela de medidas, e não opina sobre toque, caimento ou durabilidade.",
         "Na ficha da T-Shirts Oversized Algodão, o corpo da peça é 100% algodão penteado premium. A ribana da gola tem 97% algodão e 3% elastano. Ou seja, o elastano está só na ribana, não no corpo. Os cinco kits trazem a mesma composição.",
         "\"Algodão penteado premium\" é o nome que a loja dá ao tecido. Este guia usa o termo como a loja usa.",
-        "A loja descreve o tecido como leve, respirável e de toque natural e macio. É a descrição da loja, não uma avaliação nossa.",
+        "A loja descreve o tecido como leve, respirável e de toque natural e macio.",
         "A gramatura da malha, o peso do tecido, não está na ficha."
       ]
     },
@@ -102,7 +112,7 @@
     {
       "heading": "Os 6 modelos de camiseta lado a lado",
       "paragraphs": [
-        "São uma peça avulsa e cinco kits de três camisetas. Preços de venda do site, sem cupom. Nos kits, o preço cheio de R$ 387,00 aparece entre parênteses."
+        "Uma avulsa e cinco kits de três; o preço por peça cai de R$ 129,00 para R$ 86,00 no kit. Preços de venda do site, sem cupom. Nos kits, o preço cheio de R$ 387,00 aparece entre parênteses."
       ],
       "comparisonTable": {
         "headers": [
@@ -219,7 +229,7 @@
     {
       "heading": "Como lavar a camiseta",
       "paragraphs": [
-        "Segundo a ficha da loja, os cuidados são:"
+        "A página lista estes cuidados:"
       ],
       "bullets": [
         "Lavar até 30 °C, em processo suave",
@@ -233,12 +243,14 @@
     {
       "heading": "Devolução e frete",
       "paragraphs": [
-        "Segundo a política da loja, o prazo de devolução é de 30 dias corridos após o recebimento. Em caso de defeito, o prazo é de 90 dias corridos. A devolução é grátis, e o frete é grátis acima de R$ 599,00 em compras no site.",
+        "A política da loja dá 30 dias corridos após o recebimento para devolver. Em caso de defeito, o prazo é de 90 dias corridos. A devolução é grátis, e o frete é grátis acima de R$ 599,00 em compras no site.",
         "Este guia não confirma troca direta de tamanho nem reembolso de uma compra feita com cupom. A política diz que valores creditados como bônus, como cashback, cupons e frete grátis, não são reembolsados. Antes de comprar com o cupom, leia a regra completa no site. A comparação com o Mercado Livre está em [Mercado Livre ou site da Cléa Store](/reviews/clea-store-mercado-livre-ou-site)."
       ]
     },
     {
       "heading": "Vale a pena? Avulsa ou kit",
+      "emphasis": "Pelos números da tabela, para quem quer o menor preço por peça a escolha é o kit Essenciais, porque sai a R$ 86,00 por peça e deixa montar as três cores.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Pela ficha da loja, a camiseta tem corpo em algodão e um único corte, o oversized. Quem quer outro corte não encontra neste catálogo, e a loja não informa a gramatura. Como ninguém do site comprou nem vestiu as peças, a escolha entre avulsa e kit parte só do preço e da cor."
       ],

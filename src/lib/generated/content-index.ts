@@ -106085,13 +106085,13 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "O Pix da Growth fica cerca de 10% abaixo do cartão, e o da Mais Mu, 3%. O passo a passo do cupom está em [como usar o cupom da Mais Mu](/reviews/cupom-mais-mu-como-usar).",
-          "Ninguém da equipe provou os produtos. Sabor, dissolução e digestão ficam fora deste texto, que usa só rótulo, dose e preço. Dúvida sobre suplemento: fale antes com um médico ou um nutricionista."
+          "Este texto usa só rótulo, dose e preço: sabor, dissolução e digestão ficam fora. Dúvida sobre suplemento: fale antes com um médico ou um nutricionista."
         ]
       },
       {
         "heading": "Whey concentrado: Mais Mu ou Growth",
         "paragraphs": [
-          "A Growth declara 23 g de proteína em cada dose de 30 g do concentrado de 1 kg. A Mais Mu declara 20 g em cada dose de 36 g. Por isso a conta é por 100 g de proteína, e não pelo preço do pote."
+          "No concentrado de 1 kg, a Growth leva 23 g de proteína em 30 g de dose, contra 20 g em 36 g da Mais Mu. Por isso a conta é por 100 g de proteína, e não pelo preço do pote."
         ],
         "comparisonTable": {
           "headers": [
@@ -106149,7 +106149,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey isolado: Mais Mu ou Growth",
         "paragraphs": [
-          "O isolado da Growth declara 27 g de proteína em cada dose de 30 g, com 33 porções no pote de 1 kg. O refil de 900 g da Mais Mu declara 22 g em cada dose de 27 g, com 33 porções."
+          "No isolado, a Growth leva 27 g de proteína em 30 g de dose, contra 22 g em 27 g da Mais Mu, com 33 porções de cada lado."
         ],
         "comparisonTable": {
           "headers": [
@@ -106185,7 +106185,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, o refil de 900 g da Mais Mu sai a R$ 69,48 por 100 g de proteína, e a Growth, a R$ 39,27; com o cupom e o Pix somados, o refil cai para R$ 62,53.",
-          "O [Whey Isolado Mais Mu sem sabor pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/) tem 22 g de proteína por dose e, segundo a loja, rende cerca de 16 doses: sai a R$ 85,22 por 100 g de proteína no cartão, R$ 82,67 no Pix e R$ 74,40 com cupom e Pix."
+          "O [Whey Isolado Mais Mu sem sabor pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/) tem 22 g de proteína por dose e, pela página do produto, rende cerca de 16 doses: sai a R$ 85,22 por 100 g de proteína no cartão, R$ 82,67 no Pix e R$ 74,40 com cupom e Pix."
         ]
       },
       {
@@ -106250,7 +106250,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde a Growth ganha e onde a Mais Mu ganha",
         "paragraphs": [
-          "A comparação só fica justa com o lado de cada loja:"
+          "A Growth leva o whey em tudo, e a Mais Mu leva a creatina com cupom:"
         ],
         "bullets": [
           "**A Growth ganha no whey, em todas as formas de pagamento.** O concentrado de 1 kg sai a R$ 26,34 por 100 g no Pix, e o isolado, a R$ 39,27. A melhor conta da Mais Mu, com cupom e Pix, é de R$ 43,65 no concentrado de 1,8 kg e de R$ 62,53 no isolado de 900 g.",
@@ -106275,6 +106275,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
+        "emphasis": "Pelos números da tabela, para quem compra whey a escolha é a Growth, porque vence por 100 g de proteína em todas as formas de pagamento; para quem compra creatina com cupom, a escolha é o refil de 500 g da Mais Mu.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços:"
         ],
@@ -106303,6 +106305,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Growth se você compra whey, concentrado ou isolado, pelo menor preço por 100 g de proteína.",
+        "Leve o refil de 500 g da Mais Mu se você compra creatina e usa o cupom."
+      ],
+      "skipIf": [
+        "Passe na Mais Mu se você procura creatina com selo Creapure declarado: as páginas dela não trazem o selo nem laudo.",
+        "Passe na Growth se você paga a creatina no cartão, sem Pix e sem cupom: o refil da Mais Mu sai abaixo do pouch."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -106365,7 +106377,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como comparamos",
         "paragraphs": [
           "Este texto compara a Mais Mu e a Dux no whey concentrado, no whey isolado e na creatina: quem sai mais barata por proteína e por grama, e o que cada uma leva a mais.",
-          "Comparamos o que as duas lojas publicam: o rótulo nutricional de cada linha, o preço no site e as regras de pagamento e de frete. Os preços são de 21/10/2026, sem frete. As tabelas usam o preço no cartão, e o Pix e o cupom vêm numa frase logo abaixo de cada uma. Ninguém da equipe provou os produtos: sabor, dissolução e digestão ficam de fora. Dúvida sobre suplemento, alergia ou dieta: fale antes com um médico ou um nutricionista.",
+          "Comparamos o que as duas lojas publicam: o rótulo nutricional de cada linha, o preço no site e as regras de pagamento e de frete. Os preços são de 21/10/2026, sem frete. As tabelas usam o preço no cartão, e o Pix e o cupom vêm numa frase logo abaixo de cada uma. Sabor, dissolução e digestão ficam de fora. Dúvida sobre suplemento, alergia ou dieta: fale antes com um médico ou um nutricionista.",
           "A série contra a Dux tem outros três textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Mais Mu ou Growth](/reviews/mais-mu-ou-growth).",
           "As contas são estas, arredondadas no centavo:"
         ],
@@ -106398,7 +106410,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey concentrado: proteína por dose e preço por 100 g",
         "paragraphs": [
-          "Preços no cartão, sem cupom. As três linhas da Mais Mu têm a mesma dose, de 36 g de pó com 20 g de proteína. A Dux tem dose de 30 g, com 20 g de proteína."
+          "Por 100 g de proteína, no cartão e sem cupom: as três linhas da Mais Mu têm a mesma dose, 36 g com 20 g. A Dux tem dose de 30 g, com 20 g de proteína."
         ],
         "comparisonTable": {
           "headers": [
@@ -106450,13 +106462,13 @@ export const reviewsData: unknown[] = [
           "No Pix, a conta fica em R$ 54,32 no [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/) e R$ 48,50 no [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/) da Mais Mu, e em R$ 58,41 (900 g) e R$ 51,29 (1,8 kg) da Dux. Com cupom e Pix, a Mais Mu cai para R$ 48,89 no 900 g e R$ 43,65 no 1,8 kg.",
           "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. A página diz 30 doses, e a conta usa o peso.",
           "A linha de 1,8 kg da Mais Mu é a mais barata do concentrado por 100 g de proteína. Por dose, ela sai a R$ 10,00 no cartão, contra R$ 10,80 da Dux de 1,8 kg.",
-          "O sabor paçoquita da Mais Mu traz \"contém glúten\" na página. O baunilha, usado nesta tabela, diz \"não contém glúten\", segundo a página. A conta não muda por sabor."
+          "O sabor paçoquita da Mais Mu traz \"contém glúten\" na página; o baunilha, usado nesta tabela, traz \"não contém glúten\". A conta não muda por sabor."
         ]
       },
       {
         "heading": "Whey isolado: proteína por dose e preço por 100 g",
         "paragraphs": [
-          "Preços no cartão, sem cupom. A dose da Mais Mu é de 27 g com 22 g de proteína, exceto no sem sabor de 450 g, que tem 25 g de dose pelo rótulo. A Dux declara 24 g de proteína por dose, mas não o número de doses do isolado; a conta usa 30 g por dose, dose inferida."
+          "Por 100 g de proteína, no cartão e sem cupom: a dose da Mais Mu é de 27 g com 22 g, exceto no sem sabor de 450 g, de 25 g pelo rótulo. A Dux declara 24 g de proteína por dose, mas não o número de doses do isolado; a conta usa 30 g por dose, dose inferida."
         ],
         "comparisonTable": {
           "headers": [
@@ -106514,7 +106526,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g e por dose",
         "paragraphs": [
-          "Preços no cartão, sem cupom. A dose vem do rótulo de cada pote: 3 g na Mais Mu sem sabor, 3,5 g na limonada e na melancia, 5 g na monohidratada da Dux e 3 g na Creapure da Dux."
+          "Por 100 g, no cartão e sem cupom: a dose vem do rótulo, 3 g na sem sabor da Mais Mu, 3,5 g na limonada e na melancia, 5 g na monohidratada da Dux e 3 g na Creapure."
         ],
         "comparisonTable": {
           "headers": [
@@ -106619,7 +106631,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde cada uma ganha",
         "paragraphs": [
-          "A comparação só fica justa se cada lado tiver o que ganha:"
+          "A Dux leva proteína por dose, Creapure, Pix e frete; a Mais Mu leva preço por grama e cupom:"
         ],
         "bullets": [
           "**Dux:** 20 g de proteína em 30 g no concentrado, ou 67% da dose, contra 20 g em 36 g da Mais Mu (56%). No isolado, 24 g por dose contra 22 g.",
@@ -106631,11 +106643,13 @@ export const reviewsData: unknown[] = [
           "**Mais Mu:** preço por 100 g de proteína no isolado do refil de 900 g (R$ 71,63 contra R$ 77,90 no cartão).",
           "**Mais Mu:** preço por grama de creatina no refil de 500 g (R$ 15,98 contra R$ 21,63 da Dux de 300 g).",
           "**Mais Mu:** cupom de 10% em todo o site, inclusive em produto em oferta. A Dux não tem cupom.",
-          "**Mais Mu:** no isolado, a página diz \"não contém glúten\". A da Dux diz \"contém glúten\", atribuído à página."
+          "**Mais Mu:** no isolado, a página diz \"não contém glúten\"; a da Dux diz \"contém glúten\"."
         ]
       },
       {
         "heading": "Quem escolhe o quê",
+        "emphasis": "Pelos números da tabela, para quem compra pelo menor preço por 100 g a escolha é a Mais Mu, porque vence no concentrado e no isolado a partir do refil e na creatina do refil de 500 g; para quem quer mais proteína por dose ou o selo Creapure declarado, a escolha é a Dux.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços:"
         ],
@@ -106665,6 +106679,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Mais Mu se você quer o menor preço por 100 g de proteína no whey, a partir do refil de 900 g, ou por grama de creatina, no refil de 500 g.",
+        "Leve a Dux se você quer o selo Creapure declarado e aceita pagar bem mais por grama de creatina."
+      ],
+      "skipIf": [
+        "Passe na Dux se você depende de cupom: ela não tem.",
+        "Passe na Mais Mu se você pesa o Pix maior e o frete grátis mais baixo: a Dux leva nos dois."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -106843,7 +106867,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Programa de membros e pontos",
         "paragraphs": [
-          "A Olive Young Global tem o OY MEMBERS, que é grátis. O cadastro dá o nível BABY na hora. Os outros níveis são recalculados na primeira segunda-feira de janeiro e de julho, pela compra do semestre anterior, e sobem na hora se a compra do semestre atual passar do limite. Na página de membros, a faixa de cada nível é esta; o nível atual vale até o fim do ano."
+          "Na Olive Young, o OY MEMBERS é grátis e devolve de 0,5% a 2,5% da compra em pontos; o cadastro dá o nível BABY na hora. Os outros níveis são recalculados na primeira segunda-feira de janeiro e de julho, pela compra do semestre anterior, e sobem na hora se a compra do semestre atual passar do limite. Na página de membros, a faixa de cada nível é esta; o nível atual vale até o fim do ano."
         ],
         "comparisonTable": {
           "headers": [
@@ -106929,7 +106953,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Código de recompensa CECILIA010 na YesStyle",
         "paragraphs": [
-          "O CECILIA010 é código de recompensa, não cupom. No checkout da YesStyle, ele vai no campo Reward Code. Pela ficha do código aqui do site, ele dá até 5% na primeira compra e 2% nas compras seguintes, e soma com os cupons da própria loja. Os cupons da YesStyle mudam e vencem, então a lista do momento fica na página da loja: [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
+          "O CECILIA010 é código de recompensa, não cupom. No checkout da YesStyle, ele vai no campo Reward Code. Pela página do código aqui do site, ele dá até 5% na primeira compra e 2% nas seguintes, e soma com os cupons da loja. Os cupons da YesStyle mudam e vencem, então a lista do momento fica na página da loja: [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
           "A Olive Young não tem código nosso neste comparativo, nem cupom. O que ela dá a membro está no programa descrito acima, e pode mudar."
         ]
       },
@@ -109500,7 +109524,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gerenciado ou VPS: a tabela",
         "paragraphs": [
-          "O OpenClaw gerenciado é o plano \"Apps de automação com IA\", o mesmo do Hermes Agent e do Paperclip gerenciados, pelo mesmo preço. Os valores são de plano de 24 meses."
+          "O gerenciado é o plano \"Apps de automação com IA\", o mesmo do Hermes Agent e do Paperclip, pelo mesmo preço, e sai mais barato que o VPS no primeiro período. Os valores são de plano de 24 meses."
         ],
         "image": {
           "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
@@ -114660,7 +114684,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a documentação oficial diz (e não diz) sobre requisitos",
         "paragraphs": [
-          "O OpenClaw pode usar um modelo de IA que fica no provedor, pela sua chave de API ou pelos créditos de IA da Hostinger, ou um modelo local, que roda no próprio servidor. Chave de API é a senha que o OpenClaw usa para pedir respostas a um provedor, que cobra pelo uso. Com o modelo no provedor, o pedido vai para a empresa de IA e o servidor só roda o programa.",
+          "Onde o modelo de IA roda decide a RAM: no provedor, pela sua chave de API ou pelos créditos de IA da Hostinger, ou local, no próprio servidor. Chave de API é a senha que o OpenClaw usa para pedir respostas a um provedor, que cobra pelo uso. Com o modelo no provedor, o pedido vai para a empresa de IA e o servidor só roda o programa.",
           "As páginas oficiais de instalação e de modelos locais dizem o seguinte:"
         ],
         "bullets": [
@@ -114676,7 +114700,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto de RAM cada cenário pede",
         "paragraphs": [
-          "RAM é a memória de trabalho do servidor: é onde o programa e, no caso de um modelo local, o próprio modelo ficam enquanto rodam. A documentação dá número só para o modelo local."
+          "A documentação dá número de RAM só para o modelo local: RAM é a memória de trabalho, onde o programa e o modelo ficam enquanto rodam."
         ],
         "comparisonTable": {
           "headers": [
@@ -114704,13 +114728,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Dois detalhes do modelo local. O contexto é a quantidade de texto (tokens, pedaços de palavras) que o modelo lê de uma vez. Quando sobra menos de 20% da janela de contexto, o OpenClaw avisa, com piso de 8 mil tokens; abaixo de 10%, ele bloqueia a resposta, com piso de 4 mil tokens.",
-          "Nas páginas de plano KVM que li, nenhuma lista placa de vídeo (GPU). A documentação também não diz qual velocidade um modelo local teria sem ela."
+          "Nas páginas de plano KVM lidas, nenhuma lista placa de vídeo (GPU). A documentação também não diz qual velocidade um modelo local teria sem ela."
         ]
       },
       {
         "heading": "Qual plano KVM escolher",
         "paragraphs": [
-          "KVM é o nome dos planos de servidor virtual da Hostinger. A tabela traz os quatro, com preços de planos de 24 meses lidos em 21/10/2026, e o preço com o SONAR20 já tem os 20% do cupom. Leia cada plano diante da documentação; é a nossa leitura dela, não uma medição:"
+          "O plano certo segue onde o modelo roda. KVM é o nome dos servidores virtuais da Hostinger, e a tabela traz os quatro, com preços de 24 meses de 21/10/2026 e o SONAR20 já aplicado. Leia cada plano diante da documentação; é a nossa leitura dela, não uma medição:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
@@ -114823,7 +114847,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O VPS grátis: Oracle Always Free",
         "paragraphs": [
-          "A Oracle tem um plano gratuito, o Always Free. Ele não é da Hostinger e não substitui o VPS pago. Pela documentação da Oracle:"
+          "Dá para testar de graça na Oracle: o Always Free não é da Hostinger, não substitui o VPS pago e a instância ociosa pode ser recuperada. Pela documentação da Oracle:"
         ],
         "bullets": [
           "Até duas instâncias Micro (processador AMD), com 1/8 de OCPU e 1 GB de memória cada.",
@@ -116414,8 +116438,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é cada um",
         "paragraphs": [
-          "OpenClaw e Hermes Agent são assistentes de IA de código aberto, com licença MIT. Você instala para rodar sozinho e conversar pelo Telegram, WhatsApp ou outro aplicativo de mensagem. A licença não cobra nada; o que muda é a interface, a memória e quem mantém o projeto.",
-          "**OpenClaw** é mantido pela OpenClaw Foundation, uma organização sem fins lucrativos. Segundo o README oficial, o estado, a memória e as credenciais ficam no equipamento onde ele roda, e o projeto não tem plano pago, serviço hospedado nem token. Ele tem interface web (Control UI), linha de comando e aplicativos nativos para macOS, iOS, Android, Windows e Linux. Na Hostinger, pode ser contratado gerenciado ou em VPS, como mostra o [guia de gerenciado ou VPS do OpenClaw](/reviews/openclaw-hostinger-gerenciado-ou-vps).",
+          "Os dois são assistentes de IA de código aberto, com licença MIT, que você instala e conversa pelo Telegram, WhatsApp ou outro aplicativo de mensagem: o que separa um do outro é a interface, a memória e quem mantém o projeto. A licença não cobra nada; o que muda é a interface, a memória e quem mantém o projeto.",
+          "**OpenClaw** é mantido pela OpenClaw Foundation, uma organização sem fins lucrativos. O README oficial diz que o estado, a memória e as credenciais ficam no equipamento onde ele roda, sem plano pago, serviço hospedado ou token. Ele tem interface web (Control UI), linha de comando e aplicativos nativos para macOS, iOS, Android, Windows e Linux. Na Hostinger, pode ser contratado gerenciado ou em VPS, como mostra o [guia de gerenciado ou VPS do OpenClaw](/reviews/openclaw-hostinger-gerenciado-ou-vps).",
           "**Hermes Agent** é feito pela Nous Research, empresa que desenvolve modelos de IA. O diferencial dele é o ciclo de aprendizado: o agente organiza a própria memória entre as sessões, cria e melhora as próprias habilidades, busca nas conversas antigas e faz modelagem do usuário com o Honcho. Tem terminal completo e o Hermes Desktop, aplicativo de desktop com instalador para Windows e macOS. A página do projeto não informa preço do software. Ela menciona o Nous Portal, uma assinatura com ferramentas como busca na web, navegação e geração de imagens, sem valor informado. O Nous Portal é uma forma de pagar pelo modelo, não a única."
         ]
       },
@@ -116511,7 +116535,7 @@ export const reviewsData: unknown[] = [
           "**Quem cuida do servidor.** No gerenciado, a Hostinger atualiza e mantém a segurança. No VPS, a atualização é sua, pelo botão Update do Docker Manager, e a segurança do servidor também. Docker é o programa que roda cada aplicativo isolado num contêiner."
         ],
         "postParagraphs": [
-          "Se você for instalar o OpenClaw por conta própria, com npm, ele exige Node.js 24.16 ou mais novo, ou 26.1 ou mais novo. As versões 22, 23 e 25 não são suportadas, segundo a política de segurança do projeto."
+          "Se você for instalar o OpenClaw por conta própria, com npm, ele exige Node.js 24.16 ou mais novo, ou 26.1 ou mais novo. A política de segurança do projeto não suporta as versões 22, 23 e 25."
         ]
       },
       {
@@ -116550,7 +116574,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde rodar na Hostinger",
         "paragraphs": [
-          "Preços de planos de 24 meses, lidos em 21/10/2026. Na tabela, o gerenciado vale para o OpenClaw e para o Hermes Agent pelo mesmo preço. A campanha de Black Friday muda os valores, então confira no carrinho."
+          "O gerenciado vale para os dois pelo mesmo preço: os valores abaixo são de planos de 24 meses, de 21/10/2026. A campanha de Black Friday muda os valores, então confira no carrinho."
         ],
         "comparisonTable": {
           "headers": [
@@ -120379,7 +120403,7 @@ export const reviewsData: unknown[] = [
         "heading": "É confiável? O que dá para conferir",
         "paragraphs": [
           "“Confiável” é uma palavra grande. Dá para separar o que é verificável do que não é.",
-          "**Quem mantém.** Segundo o repositório oficial, github.com/paperclipai/paperclip, o projeto é mantido pela equipe Paperclip, e o aviso de copyright diz “MIT © 2026 Paperclip Labs, Inc.”. O site do projeto, paperclip.ing, aponta para o mesmo repositório. Não confunda com forks e cópias do código que aparecem na busca.",
+          "**Quem mantém.** O repositório oficial, github.com/paperclipai/paperclip, diz que o projeto é mantido pela equipe Paperclip, e o aviso de copyright diz “MIT © 2026 Paperclip Labs, Inc.”. O site do projeto, paperclip.ing, aponta para o mesmo repositório. Não confunda com forks e cópias do código que aparecem na busca.",
           "**Licença.** MIT. Quer dizer que o código é aberto: qualquer pessoa pode ler, auditar e usar. Também quer dizer que ninguém é obrigado a manter a versão que você instalou.",
           "**Onde roda.** Você escolhe. Pode rodar no seu computador, num servidor próprio ou no plano gerenciado da Hostinger. O site do projeto diz que a versão auto-hospedada não exige conta no Paperclip.",
           "**Onde ficam as chaves e os dados.** Depende do caminho. Na VPS, a própria Hostinger diz que dados sensíveis, memória dos agentes e credenciais de API ficam “inteiramente em sua infraestrutura”, ou seja, no servidor que você alugou. No gerenciado, a página diz que as chaves ficam na sua instância gerenciada. Isso é a descrição da Hostinger, não uma auditoria nossa.",
@@ -120406,7 +120430,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gerenciado ou VPS na Hostinger",
         "paragraphs": [
-          "A Hostinger oferece o Paperclip de dois jeitos. No **gerenciado**, você assina e a empresa cuida do servidor, do banco e das atualizações. No **VPS**, você aluga um servidor virtual, a Hostinger instala o Paperclip nele com Docker (um programa que roda cada aplicativo isolado num contêiner) e o resto fica com você."
+          "A escolha é quem cuida do servidor: no **gerenciado**, é a Hostinger, que também cuida do banco e das atualizações. No **VPS**, você aluga um servidor virtual, a Hostinger instala o Paperclip nele com Docker (um programa que roda cada aplicativo isolado num contêiner) e o resto fica com você."
         ],
         "comparisonTable": {
           "headers": [
@@ -120456,7 +120480,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa",
         "paragraphs": [
-          "Preços de planos de 24 meses, lidos em 21/10/2026. O gerenciado é o plano “Apps de automação com IA”, com o mesmo preço para o OpenClaw, o Hermes Agent e o Paperclip."
+          "O gerenciado é o plano “Apps de automação com IA”, com o mesmo preço para o OpenClaw, o Hermes Agent e o Paperclip: os valores abaixo são de planos de 24 meses, de 21/10/2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -120906,7 +120930,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Este texto não diz que a Beleze & Oliveira é quem vende pelo site, nem que a S/A não vende. As fontes que lemos não dizem isso. O que dá para afirmar é que são dois CNPJs ligados à mesma marca, e que o site não explica essa ligação.",
+          "São dois CNPJs ligados à mesma marca, e que o site não explica essa ligação.",
           "O CNAE principal da S/A é de holding, não de varejo de cosméticos, e as fontes que lemos não dizem qual empresa emite a nota fiscal das compras feitas no site. Se a nota importa para você, confira na nota fiscal da sua compra qual CNPJ aparece."
         ],
         "images": [
@@ -120956,14 +120980,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reembolso e arrependimento",
         "paragraphs": [
-          "O reembolso sai em até 7 dias úteis, contados do recebimento do produto e depois de conferido na central. A política não separa esse prazo por forma de pagamento, então o texto não dá prazo diferente para Pix ou cartão.",
+          "O reembolso sai em até 7 dias úteis, contados do recebimento do produto e depois de conferido na central. A política não separa esse prazo por forma de pagamento.",
           "Na compra pela internet, a lei dá 7 dias de arrependimento (Código de Defesa do Consumidor, art. 49). A política da loja não publica prazo próprio para isso, então a lei é a referência."
         ]
       },
       {
         "heading": "Frete e brindes",
         "paragraphs": [
-          "O frete grátis depende da cidade e do valor final do pedido. Segundo a política de frete lida no site, que a loja diz poder mudar sem aviso:"
+          "O frete grátis depende da cidade e do valor final do pedido. A política de frete do site divide o grátis por região e avisa que pode mudar sem aviso:"
         ],
         "comparisonTable": {
           "headers": [
@@ -120996,7 +121020,7 @@ export const reviewsData: unknown[] = [
           "A loja aceita Pix, cartões Visa, Mastercard, Elo, Hipercard, Diners e American Express, Apple Pay, Vale e Pagaleve Pix Mensal. O Pix tem 5% de desconto da própria loja. O número de parcelas sem juros muda de produto para produto, então confira no checkout."
         ],
         "postParagraphs": [
-          "Para falar com a loja, use o e-mail contato@skelt.com.br ou o WhatsApp (41) 3042-4721. O site diz que responde em até 48 horas úteis. A página de contato e a política de troca dão horários diferentes de atendimento, e o Reclame Aqui traz um terceiro horário informado pela empresa. Por isso, este texto não cita horário."
+          "Para falar com a loja, use o e-mail contato@skelt.com.br ou o WhatsApp (41) 3042-4721. O site diz que responde em até 48 horas úteis. A página de contato e a política de troca dão horários diferentes de atendimento, e o Reclame Aqui traz um terceiro. Confira o horário no canal que você usar."
         ]
       },
       {
@@ -121105,14 +121129,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual CNPJ aparece no perfil",
         "paragraphs": [
-          "O perfil Skelt Cosméticos é da Beleze & Oliveira - Comércio de Cosméticos Ltda., com nome fantasia Skelt Cosmetics e CNPJ 17.616.018/0001-15, aberta em 08/02/2013, segundo a BrasilAPI. A sócia dessa empresa é a SKELT BEAUTY BRANDS S/A.",
+          "A BrasilAPI mostra o perfil Skelt Cosméticos em nome da Beleze & Oliveira - Comércio de Cosméticos Ltda., nome fantasia Skelt Cosmetics, CNPJ 17.616.018/0001-15, aberta em 08/02/2013. A sócia dessa empresa é a SKELT BEAUTY BRANDS S/A.",
           "O rodapé do site usa outro CNPJ: o da SKELT BEAUTY BRANDS S/A, 38.290.785/0001-57, com sede em Curitiba (PR). Este texto só diz o que o perfil e o site mostram. Não conclui quem faz a venda de cada pedido. Para a empresa, o CNPJ e as trocas, veja [Skelt é confiável?](/reviews/skelt-e-confiavel)."
         ]
       },
       {
         "heading": "Os números da Skelt no Reclame Aqui",
         "paragraphs": [
-          "O quadro abaixo resume a aba de 6 meses e a faixa de cada mês, lidas em 21/10/2026. Os outros períodos estão na tabela, na mesma leitura."
+          "Leia pela aba de 6 meses, a mais recente: o quadro traz cada mês e as outras abas, lidos em 21/10/2026."
         ],
         "images": [
           {
@@ -121207,7 +121231,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como a reputação mudou",
         "paragraphs": [
           "O histórico dos últimos 6 meses mostra a Skelt na RA1000 em abril e na Ótima de maio a setembro. A troca de faixa aconteceu com a nota quase igual: 8,4 na aba de 12 meses (RA1000) e 8,3 na de 6 meses (Ótima).",
-          "A aba de 12 meses continua em RA1000 e cobre também outubro a março, período que esta leitura não detalha mês a mês. A leitura não traz o motivo da troca de faixa, e este texto não atribui causa."
+          "A aba de 12 meses continua em RA1000 e cobre também outubro a março, período que esta leitura não detalha mês a mês. A leitura não traz o motivo da troca de faixa."
         ],
         "image": {
           "src": "/images/reviews/skelt/skelt-reclame-aqui-capa.webp",
@@ -121220,7 +121244,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais aparece nas reclamações",
         "paragraphs": [
-          "Na aba geral, o Reclame Aqui lista os problemas e as categorias das reclamações. Os mais citados são:"
+          "Na aba geral, defeito, produto não recebido e atraso lideram as queixas:"
         ],
         "bullets": [
           "Problemas: produto com defeito (762, 27,05%), produto não recebido (708, 25,13%), atraso na entrega (444, 15,76%), qualidade do produto (151, 5,36%) e estorno do valor pago (78, 2,77%).",
@@ -121228,7 +121252,7 @@ export const reviewsData: unknown[] = [
           "Produtos e serviços citados: canais de atendimento (359, 12,74%) e equipe de atendimento (234, 8,31%)."
         ],
         "postParagraphs": [
-          "Os percentuais são os exibidos pelo Reclame Aqui, sem recálculo. Defeito, produto não recebido e atraso são os três primeiros da lista, e o texto não atribui causa a nenhum deles."
+          "Defeito, produto não recebido e atraso são os três primeiros da lista, nos percentuais que o Reclame Aqui exibe."
         ]
       },
       {
@@ -121352,7 +121376,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o cupom SKEMCASACOMCECILIA",
         "paragraphs": [
           "SKEMCASACOMCECILIA é o cupom da parceria do Em Casa com Cecília com a Skelt, marca brasileira de autobronzeador, body splash e hidratação corporal. O cupom vale só no site oficial, skelt.com.br.",
-          "O desconto é de 10% em todo o site. O cupom vale também em kits e combos, mas eles não entram nas contas deste artigo. Se for comprar um kit, confira o valor no resumo da sacola.",
+          "O desconto é de 10% em todo o site. O cupom vale também em kits e combos, Se for comprar um kit, confira o valor no resumo da sacola.",
           "A loja aceita um cupom por pedido. Um cupom de primeira compra da própria loja também não soma com o nosso."
         ]
       },
@@ -121454,7 +121478,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Sem o cupom, os descontos somavam R$ 17,39 e o total no Pix era R$ 102,51. Com o cupom, os descontos chegaram a R$ 27,64. O cupom entrou sobre o preço que já estava com a promoção, não sobre o preço de tabela.",
-          "Num segundo teste, pela API pública do carrinho no mesmo dia, um body splash e o mousse somavam R$ 219,80 de tabela. Com a promoção do site, foram para R$ 197,82; com o cupom, R$ 178,04; no Pix, R$ 169,13. Não houve dado pessoal nem finalização.",
+          "Num segundo teste no mesmo dia, um body splash e o mousse somavam R$ 219,80 de tabela. Com a promoção do site, foram para R$ 197,82; com o cupom, R$ 178,04; no Pix, R$ 169,13. Não houve dado pessoal nem finalização.",
           "São valores de um dia. A loja pode mudar a promoção e o Pix sem aviso, então confira a conta no seu resumo."
         ],
         "image": {
@@ -121468,7 +121492,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis e o cupom",
         "paragraphs": [
-          "A Skelt dá frete grátis conforme a região e o valor final do pedido. Segundo a política de frete da loja:"
+          "A Skelt dá frete grátis conforme a região e o valor final do pedido. A política de frete da loja divide assim:"
         ],
         "comparisonTable": {
           "headers": [
@@ -121497,7 +121521,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brinde e promoção",
         "paragraphs": [
-          "O valor mínimo dos brindes da Skelt conta o pedido depois dos descontos, segundo a política de brindes. Por isso, o cupom e o Pix podem tirar o brinde da sacola. O brinde muda com a campanha, e na sacola do teste com o mousse não apareceu nenhuma linha de brinde.",
+          "O valor mínimo dos brindes da Skelt conta o pedido depois dos descontos. Por isso, o cupom e o Pix podem tirar o brinde da sacola. O brinde muda com a campanha, e na sacola do teste com o mousse não apareceu nenhuma linha de brinde.",
           "O cupom soma com as promoções vigentes do site. Confira o carrinho antes de pagar."
         ]
       },
@@ -121585,12 +121609,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Skelt já mostrou sobre a Black Friday",
         "paragraphs": [
-          "A Black Friday de 2026 cai em 27/11/2026, e a Cyber Monday, em 30/11/2026. Nenhuma página do site dizia percentual de desconto para a Black Friday. O que encontramos:"
+          "Nenhuma página do site dizia percentual de desconto para a Black Friday. A data cai em 27/11/2026, e a Cyber Monday, em 30/11/2026. O que encontramos:"
         ],
         "bullets": [
           "A home tem coleções internas com os nomes \"Black Friday\", \"Pre Black Friday\" e \"BF - Live 05/11\". Só os nomes aparecem na home; não encontramos o desconto de cada uma.",
           "Pelo nome da coleção, a loja prepara uma live de aquecimento. É um indício, não um anúncio de desconto.",
-          "Na sacola, a loja mostrava a flash sale \"OUT/26\", com 10% em todo o site. Não lemos um prazo de fim para ela.",
+          "Na sacola, a loja mostrava a flash sale \"OUT/26\", com 10% em todo o site, sem prazo de fim à mostra.",
           "A página da flash sale traz 20% OFF no creme para mãos. Não encontramos data de fim nela.",
           "O endereço /black-friday redireciona para a home."
         ],
@@ -121604,13 +121628,13 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Sobre 2024 e 2025: não conseguimos ler os registros do arquivo público do site nesta rodada. Por isso, não afirmamos se a Skelt fez campanha de Black Friday antes."
+          "Sobre 2024 e 2025: sem registro à mostra, não dá para afirmar se a Skelt fez campanha de Black Friday antes."
         ]
       },
       {
         "heading": "Preços para comparar",
         "paragraphs": [
-          "Estes são os preços de venda do catálogo público da Skelt, antes do cupom. Quando o produto mostra preço cheio, a tabela traz os dois valores."
+          "Guarde os preços de venda, antes do cupom: são eles que valem na comparação. Quando o produto mostra preço cheio, a tabela traz os dois valores."
         ],
         "comparisonTable": {
           "headers": [
@@ -121652,7 +121676,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No Pix, o mousse sai por R$ 102,51, com os 5% de desconto sobre R$ 107,91. Os kits ficam fora desta tabela, porque o preço e a composição ainda estão em conferência.",
+          "No Pix, o mousse sai por R$ 102,51, com os 5% sobre R$ 107,91. Os kits ficam fora desta tabela.",
           "O preço do site muda sem aviso. Confira o produto no dia da compra."
         ],
         "images": [
@@ -121683,7 +121707,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brinde e frete",
         "paragraphs": [
-          "O brinde da Skelt conta o valor final do pedido, depois dos descontos. No teste de carrinho, o brinde da campanha era um Body Splash Mystic Bloom. Como o cupom e o Pix diminuem o total, o pedido pode ficar abaixo do mínimo e o brinde sai da sacola. O valor mínimo da campanha de brinde ainda não foi conferido por nós.",
+          "O brinde da Skelt conta o valor final do pedido, depois dos descontos. No teste de carrinho, o brinde da campanha era um Body Splash Mystic Bloom. Como o cupom e o Pix diminuem o total, o pedido pode ficar abaixo do mínimo e o brinde sai da sacola.",
           "O frete grátis também conta o valor final do pedido. A política de frete do site dizia:"
         ],
         "bullets": [
@@ -121821,7 +121845,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "De qual país é a Bagaggio e o que dizem as três datas",
         "paragraphs": [
-          "A página Quem somos responde à pergunta de origem com três datas. Elas falam de coisas diferentes:"
+          "As três datas falam de coisas diferentes: marca, e-commerce e CNPJ:"
         ],
         "comparisonTable": {
           "headers": [
@@ -121848,7 +121872,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As três datas não dizem que a empresa de 2007 é a mesma que começou a marca em 1942. A página Quem somos não explica essa ligação, e as fontes que lemos também não. O que dá para afirmar é que a marca se apresenta como brasileira, com origem no Rio de Janeiro, e que a empresa do site está registrada no Brasil, com CNPJ aberto em 2007.",
+          "A página Quem somos não explica a ligação entre a marca de 1942 e a empresa de 2007. O que dá para afirmar é que a marca se apresenta como brasileira, com origem no Rio de Janeiro, e que a empresa do site está registrada no Brasil, com CNPJ aberto em 2007.",
           "Sobre o país, então: a própria marca diz que é brasileira, e a empresa que opera o site tem sede em Duque de Caxias, no estado do Rio de Janeiro."
         ],
         "image": {
@@ -121934,7 +121958,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O frete só é reembolsado na devolução integral do pedido. Em pedido promocional com devolução parcial, você fica com os produtos de valor cheio e devolve os promocionais, ou devolve tudo.",
-          "A política não diz como o valor volta quando a compra foi paga no Pix, então este texto não dá prazo para isso."
+          "A política não diz como o valor volta quando a compra foi paga no Pix."
         ]
       },
       {
@@ -121964,7 +121988,7 @@ export const reviewsData: unknown[] = [
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
           "Na leitura que fizemos, o perfil Bagaggio - Loja Virtual no Reclame Aqui tinha o selo \"Empresa Verificada\", mas a nota muda bastante conforme o período, e os números estão no [artigo sobre a reputação no Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao).",
-          "Frases de ranking que aparecem no site também não batem com a reputação pública da loja, então este texto não as repete."
+          "Frases de ranking que aparecem no site não batem com a reputação pública da loja."
         ]
       },
       {
@@ -121988,7 +122012,7 @@ export const reviewsData: unknown[] = [
           "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o CECILIA10. Veja a [página do cupom da Bagaggio](/cupons/bagaggio) para as condições vigentes.",
           "O CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet e em produtos já com desconto. Vale para clientes novos e antigos, em todas as formas de pagamento, e a loja aceita um cupom por pedido. Ele soma com o Pix de 5%, que entra sobre o total já com o cupom, enquanto a loja mantiver a oferta.",
           "Para aplicar, cole o código no campo \"Cupom de desconto\" do resumo do pedido. O campo \"Código de vendedor(a) ou influenciador(a)\" não é o lugar do CECILIA10.",
-          "Testamos no carrinho, sem finalizar a compra: uma mala do Outlet, de R$ 249,90 por R$ 179,90, ficou em R$ 161,91 com o cupom. No Pix, o teste pela API pública do checkout deu R$ 153,81. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
+          "Testamos no carrinho, sem finalizar a compra: uma mala do Outlet, de R$ 249,90 por R$ 179,90, ficou em R$ 161,91 com o cupom. No Pix, o total deu R$ 153,81. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
           "O cupom não vale no Mercado Livre, onde vale o preço do anúncio. O link da marca no Mercado Livre está nas perguntas frequentes, no fim do texto."
         ]
       },
@@ -122075,14 +122099,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar",
         "paragraphs": [
-          "O site da Bagaggio atende só pelo chat, de segunda a sexta, das 9h às 18h. Quando o pedido dá problema, o que outras pessoas viveram com a loja ajuda a decidir antes de comprar. O Reclame Aqui mostra quantas reclamações a empresa recebeu, quantas respondeu e resolveu, e quanta gente voltaria a comprar.",
+          "Quando o pedido dá problema, o que outras pessoas viveram com a loja ajuda a decidir antes de comprar. O site atende só pelo chat, de segunda a sexta, das 9h às 18h. O Reclame Aqui mostra quantas reclamações a empresa recebeu, quantas respondeu e resolveu, e quanta gente voltaria a comprar.",
           "Os números mudam todos os dias. Confira de novo no dia da compra."
         ]
       },
       {
         "heading": "Qual perfil olhar",
         "paragraphs": [
-          "Há mais de um perfil com o nome Bagaggio no Reclame Aqui. O que mostra quem compra no site é o Bagaggio - Loja Virtual. Ele tem o CNPJ 08.956.394/0001-68, o mesmo do rodapé do site, e está no Reclame Aqui há 18 anos.",
+          "Para compras no site, o perfil que vale é o Bagaggio - Loja Virtual. Há mais de um perfil com o nome Bagaggio no Reclame Aqui. Ele tem o CNPJ 08.956.394/0001-68, o mesmo do rodapé do site, e está no Reclame Aqui há 18 anos.",
           "O perfil tem o selo Empresa Verificada. O selo indica que a empresa passou pela verificação mensal do Reclame Aqui, que confere se ela existe e é a dona do perfil; ele não mede a reputação. No ranking Melhor empresa, na categoria Bolsas, Malas e Mochilas, o perfil estava em 19º lugar na nossa leitura.",
           "O selo RA1000 dos últimos 6 meses, com nota 8,6, é do perfil Bagaggio - Loja Física, e não deste. Antes de ler os números, confira o nome e o CNPJ no topo do perfil. Para a confiança geral na loja, veja [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
         ]
@@ -122090,7 +122114,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Loja Virtual",
         "paragraphs": [
-          "Cada coluna da tabela é uma aba do perfil, com o período dela. Os dados são de 22/10/2026."
+          "Leia pela aba de 6 meses, a mais recente: cada coluna é uma aba do perfil, com dados de 22/10/2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -122196,14 +122220,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a conta de reclamações mostra",
         "paragraphs": [
-          "A aba de 12 meses soma 5.757 reclamações. A aba de 6 meses soma 1.137. A diferença, 4.620, corresponde aos seis meses de outubro a março: cerca de 770 por mês. De abril a setembro, a média caiu para cerca de 190 por mês. A conta é nossa, feita com as duas abas do Reclame Aqui.",
+          "A conta entre as abas mostra a queda: 5.757 reclamações em 12 meses contra 1.137 nos últimos 6. A diferença, 4.620, corresponde aos seis meses de outubro a março: cerca de 770 por mês. De abril a setembro, a média caiu para cerca de 190 por mês. A conta é nossa, feita com as duas abas do Reclame Aqui.",
           "O Reclame Aqui não explica por que esse período teve mais reclamações. Uma hipótese é a Black Friday de 2025 e o Natal, que caem nele. Não temos a contagem mês a mês para confirmar isso. Se a campanha pesa nessa conta, o [calendário da Black Friday da Bagaggio](/reviews/black-friday-bagaggio) está lá."
         ]
       },
       {
         "heading": "Os problemas mais citados",
         "paragraphs": [
-          "Na aba geral, de até 3 anos, o Reclame Aqui lista as categorias de problema das reclamações. Estas são as que ele registra, com a contagem e o percentual exibidos no perfil. São categorias do RA, e este texto não diz que cada uma é verdadeira:"
+          "Na aba geral, de até 3 anos, o Reclame Aqui lista as categorias de problema das reclamações. São as categorias do RA, com a contagem e o percentual do perfil:"
         ],
         "bullets": [
           "Atraso na entrega: 3.198 (29,95%)",
@@ -122224,7 +122248,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a loja diz sobre si",
         "paragraphs": [
-          "A FAQ da loja fala em certificações de excelência no Reclame Aqui. Para o perfil Loja Virtual, o Reclame Aqui mostra Ruim nos últimos 12 meses e Regular na aba de 3 anos. Este texto registra essa diferença e não explica de onde vem a frase da FAQ."
+          "A FAQ da loja fala em certificações de excelência no Reclame Aqui. Para o perfil Loja Virtual, o Reclame Aqui mostra Ruim nos últimos 12 meses e Regular na aba de 3 anos."
         ]
       },
       {
@@ -122380,7 +122404,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Cole o código no campo Cupom de desconto",
         "paragraphs": [
-          "No resumo do pedido, à direita, há dois campos: \"Código de vendedor(a) ou influenciador(a)\" e \"Cupom de desconto\". O CECILIA10 vai só no segundo. Cole o código e clique em Adicionar, o botão ao lado desse campo.",
+          "No resumo do pedido, o CECILIA10 vai só no campo \"Cupom de desconto\", não no de vendedor(a) ou influenciador(a). Cole o código e clique em Adicionar, o botão ao lado desse campo.",
           "Quando o cupom entra, o código aparece como etiqueta no campo e a linha de descontos aparece no resumo."
         ],
         "images": [
@@ -122586,14 +122610,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a página da Black Friday mostra hoje",
         "paragraphs": [
-          "A página bagaggio.com.br/black-friday ainda traz o título e o texto da campanha anterior, sem o ano, a data de início ou a de fim. A página também não diz se algum cupom soma com as ofertas.",
+          "Pela página, ainda não dá para planejar: ela traz o título e o texto da campanha anterior, sem ano, data de início ou de fim. A página também não diz se algum cupom soma com as ofertas.",
           "Pelos nomes das coleções do catálogo, a loja já teve campanhas de Black Friday em 2023, 2024 e 2025, além de uma campanha antecipada. Não encontramos o percentual de cada uma, e por isso ele não entra aqui."
         ]
       },
       {
         "heading": "Calendário de novembro",
         "paragraphs": [
-          "A Black Friday de 2026 cai na sexta, 27/11/2026. A Cyber Monday, na segunda, 30/11/2026, é outra data do calendário do varejo. A Bagaggio não anunciou nenhuma das duas.",
+          "A Black Friday de 2026 cai na sexta, 27/11/2026, e a Cyber Monday, na segunda, 30/11/2026. A Bagaggio não anunciou nenhuma das duas.",
           "Dá para se preparar sem esperar o anúncio: ter um preço de referência, reler a página no fim de outubro e, na semana da campanha, conferir o total com o cupom e o Pix antes de pagar."
         ],
         "image": {
@@ -122607,7 +122631,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços para comparar",
         "paragraphs": [
-          "Estes são os preços de venda do site da Bagaggio lidos em 22/10/2026, sem cupom. Quando o produto mostra preço cheio, a tabela traz os dois valores."
+          "Para comparar em novembro, estes são os preços de venda sem cupom, lidos em 22/10/2026. Quando o produto mostra preço cheio, a tabela traz os dois valores."
         ],
         "comparisonTable": {
           "headers": [
@@ -122659,7 +122683,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na leitura, a mala Route de 32 kg saiu por menos que a de 23 kg. É assim que o catálogo mostra, e a tabela traz os dois valores como foram lidos. Confira os dois antes de comparar.",
+          "Na leitura, a mala Route de 32 kg saiu por menos que a de 23 kg. Confira os dois antes de comparar.",
           "A Detroit de 32 kg apareceu em três cores (vermelha, prata e rosé), todas pelo mesmo preço. As malas do Outlet ficam fora desta tabela, porque o Outlet tem regra própria.",
           "O preço do site muda sem aviso. Confira o produto no dia da compra."
         ],
@@ -122685,7 +122709,7 @@ export const reviewsData: unknown[] = [
           "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio."
         ],
         "postParagraphs": [
-          "Se a campanha de novembro soma com o CECILIA10, ainda não sabemos. Vamos testar o cupom num item da campanha quando ela abrir e registrar a data do teste neste guia."
+          "Se a campanha de novembro soma com o CECILIA10, confira o total com o cupom antes de pagar."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-downtown-preta.webp",
@@ -122727,7 +122751,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "Na mesma leitura, o perfil \"Bagaggio - Loja Virtual\" no Reclame Aqui tinha nota Boa nos últimos 6 meses (7,7, com 1.137 reclamações) e nota Ruim nos últimos 12 meses (5,8, com 5.757 reclamações).",
+          "No Reclame Aqui, o sinal é misto: nota Boa em 6 meses (7,7, com 1.137 reclamações) e Ruim em 12 (5,8, com 5.757).",
           "Pela conta entre os dois períodos, são cerca de 4.620 reclamações entre outubro e março, período que inclui a Black Friday e o Natal de 2025. Os motivos mais citados na base do perfil são atraso na entrega (29,95%) e produto não recebido (18,87%).",
           "Ao procurar a loja no Reclame Aqui, confira se o perfil tem o CNPJ 08.956.394/0001-68, que é o do site."
         ],
@@ -122833,7 +122857,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mochila tem garantia vitalícia?",
         "paragraphs": [
-          "Pelo texto da loja, a resposta é não. A página oficial diz que a garantia vitalícia se aplica exclusivamente às malas da marca Bagaggio. As outras marcas que a página cita, como Travelcross e Swiss One, ficam de fora e seguem a garantia própria de cada fabricante.",
+          "A resposta é não. A página oficial diz que a garantia vitalícia se aplica exclusivamente às malas da marca Bagaggio. As outras marcas que a página cita, como Travelcross e Swiss One, ficam de fora e seguem a garantia própria de cada fabricante.",
           "Mochilas, bolsas e carteiras não entram na vitalícia, mesmo quando são da marca. Elas seguem a garantia da etiqueta ou, sem prazo na etiqueta, a garantia legal de 90 dias, contada a partir da compra ou da entrega."
         ],
         "image": {
@@ -122847,7 +122871,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem tem direito",
         "paragraphs": [
-          "A mala precisa cumprir estas condições para ter a garantia vitalícia, todas segundo a página e o Termo de garantia:"
+          "Só tem a vitalícia a mala da marca, comprada depois do início do programa, no Brasil e do comprador original:"
         ],
         "bullets": [
           "Ser da marca Bagaggio, e não de outra marca vendida pela loja.",
@@ -122920,7 +122944,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A lista de exclusões é a mesma na garantia vitalícia e na garantia comum, de A a L no Termo. A página diz que são exclusões comuns no mercado de bagagens.",
+          "A lista de exclusões é a mesma na garantia vitalícia e na garantia comum, de A a L no Termo.",
           "A análise não garante troca, reparo nem devolução do dinheiro. Ela confirma se o defeito é de fabricação, e só depois disso a loja decide o reparo ou a troca."
         ],
         "images": [
@@ -122978,7 +123002,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nas duas, confirmado o defeito de fabricação, a loja faz o reparo. Se o defeito não tiver conserto, o consumidor escolhe, conforme a lei: troca por outro da mesma espécie, devolução do valor pago ou abatimento proporcional do preço."
+          "Nas duas, confirmado o defeito de fabricação, a loja faz o reparo. Se o defeito não tiver conserto, o consumidor escolhe, pela lei: troca por outro da mesma espécie, devolução do valor pago ou abatimento proporcional do preço."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp",
@@ -123000,7 +123024,7 @@ export const reviewsData: unknown[] = [
           "Guarde o comprovante de despacho, o cartão de embarque e as fotos."
         ],
         "postParagraphs": [
-          "A página cita três normas: a Resolução ANAC 400/2016, cujo art. 32 trata da bagagem avariada; a Convenção de Montreal, que a página diz valer para voos internacionais; e o Código de Defesa do Consumidor. Os prazos dessas normas não estão neste texto. Confirme-os no site da [ANAC](https://www.gov.br/anac) antes de fazer qualquer reclamação.",
+          "A página cita três normas: a Resolução ANAC 400/2016, cujo art. 32 trata da bagagem avariada; a Convenção de Montreal, que a página diz valer para voos internacionais; e o Código de Defesa do Consumidor. Os prazos estão nas normas: confirme-os no site da [ANAC](https://www.gov.br/anac) antes de reclamar.",
           "Esta seção é informativa e não substitui orientação jurídica."
         ],
         "image": {
@@ -123021,10 +123045,10 @@ export const reviewsData: unknown[] = [
           "Compra em loja física: procure, de preferência, a loja onde a compra foi feita, ou escreva para atendimento@bagaggio.com.br."
         ],
         "postParagraphs": [
-          "Sobre a compra pelo site, os textos da loja não dizem a mesma coisa. A página de garantia diz que o cliente pode pedir a garantia em qualquer loja física própria da Bagaggio, e que o Troque Fácil vale quando não há loja na região. O Termo de garantia diz que, na compra online, o pedido deve ser feito pelo Troque Fácil. A página de trocas e devoluções fala em loja física. Este artigo cita os dois caminhos, e a loja deve confirmar qual vale no seu caso.",
+          "Sobre a compra pelo site, os textos da loja não dizem a mesma coisa. A página de garantia diz que o cliente pode pedir a garantia em qualquer loja física própria da Bagaggio, e que o Troque Fácil vale quando não há loja na região. O Termo de garantia diz que, na compra online, o pedido deve ser feito pelo Troque Fácil. A página de trocas e devoluções fala em loja física: confirme com a loja qual caminho vale no seu caso.",
           "Para a primeira análise, a loja pede fotos: a nota fiscal, o produto por completo (de frente, de costas e dos lados, com o local danificado visível), a descrição clara da avaria e a data em que o defeito foi constatado.",
           "Depois das fotos, a loja analisa se o defeito é coberto. Se aprovado, ela envia por e-mail o procedimento para mandar a mala para inspeção física e informa o prazo de reparo, de até 30 dias. Se recusado, manda um parecer técnico por e-mail. Nesse caso, reparo e frete para a assistência autorizada ficam com o cliente.",
-          "Se a mala não tiver conserto, a lei dá a escolha entre troca por outro da mesma espécie, devolução do valor pago e abatimento proporcional do preço. A página de ajuda diz que a troca é feita por voucher, considerando o valor da nota fiscal. O Termo fala em substituição do produto. Os dois textos estão na loja, e este artigo cita os dois.",
+          "Se a mala não tiver conserto, a lei dá a escolha entre troca por outro da mesma espécie, devolução do valor pago e abatimento proporcional do preço. A página de ajuda diz que a troca é feita por voucher, considerando o valor da nota fiscal. O Termo fala em substituição do produto: confirme com a loja como a troca sai no seu caso.",
           "Se a mala sair de linha e precisar ser trocada, o modelo novo também tem garantia vitalícia, nas mesmas condições."
         ],
         "image": {
@@ -123136,7 +123160,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de escolher: o que vale para todos os móveis",
         "paragraphs": [
-          "Este guia mostra o que olhar em cada um dos quatro móveis (sofá, poltrona reclinável, poltrona de cinema e área de piscina), a faixa de preço e onde a DAMIE entra. Os preços da DAMIE foram lidos no site da loja, e os das outras marcas, no varejo, na mesma semana.",
+          "O presente certo começa pelo espaço, pela porta e por quem vai usar, não pelo preço. Os preços da DAMIE foram lidos no site da loja, e os das outras marcas, no varejo, na mesma semana.",
           "Cinco conferências valem para qualquer móvel deste guia, da DAMIE ou de outra marca. Faça antes de olhar o preço."
         ],
         "bullets": [
@@ -123249,7 +123273,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Poltrona reclinável e poltrona do papai: o presente para os pais",
         "paragraphs": [
-          "\"Poltrona do papai\" é o nome popular da poltrona reclinável. A primeira escolha é o mecanismo. A manual reclina com o peso do corpo e não usa energia, mas pede esforço de pernas e braços, o que pesa para quem já tem dificuldade de levantar. A elétrica reclina por botão e precisa ficar perto de uma tomada. Há ainda a elétrica com giro e balanço, a com massagem e a com elevação, que inclina a base para a frente para ajudar a pessoa a sair da poltrona.",
+          "A poltrona do papai se escolhe pelo mecanismo: manual ou elétrica. A manual reclina com o peso do corpo e não usa energia, mas pede esforço de pernas e braços, o que pesa para quem já tem dificuldade de levantar. A elétrica reclina por botão e precisa ficar perto de uma tomada. Há ainda a elétrica com giro e balanço, a com massagem e a com elevação, que inclina a base para a frente para ajudar a pessoa a sair da poltrona.",
           "No varejo, a poltrona do papai vai de cerca de R$ 550, nas manuais, a mais de R$ 7.000, nas elétricas com massagem. É a faixa que observamos, e ela muda com o modelo, o revestimento e a forma de pagamento.",
           "Para presentear pais ou avós, três conferências valem mais que o visual. Primeiro, a altura do assento: a pessoa precisa sentar e levantar sem esforço. Segundo, o peso máximo informado na página do modelo. Terceiro, um controle simples de usar. Quem tem dificuldade de levantar deve olhar a elétrica com elevação. A DAMIE indica essa base para idosos, e dizemos só isso: não prometemos efeito na saúde de quem usa."
         ],
@@ -123342,7 +123366,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Na DAMIE, a [Poltrona Cinema 2.0](https://www.damie.com.br/products/poltrona-cinema-damie-2-0) é modular e vai de 2 a 9 lugares, com ou sem braço divisor. O assento e o encosto usam SoftSpring (sustentação por molas nosag, espuma e fibra siliconada), a estrutura é de aço carbono, a fabricação é no Brasil e a garantia é de 1 ano. Os revestimentos são suede, bouclé, linho, corino importado e couro bovino, e o preço muda com o tecido e com o número de lugares.",
           "O desconto por quantidade da página de ofertas também vale para a Poltrona Cinema durante a campanha: R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Confirme com a DAMIE como ele entra no pedido da fila.",
-          "Nós não usamos a Poltrona Cinema 2.0: o que está aqui é a ficha e o preço da loja. A experiência do site é com a reclinável da DAMIE, contada em [Poltrona DAMIE é boa?](/reviews/poltrona-damie-e-boa). A descrição da Cinema 2.0 não detalha o tipo de acionamento, então confira na configuração escolhida se há motor e tomada antes de fechar."
+          "Da Cinema 2.0, valem os dados e o preço da loja. A experiência do site é com a reclinável da DAMIE, contada em [Poltrona DAMIE é boa?](/reviews/poltrona-damie-e-boa). A descrição da Cinema 2.0 não detalha o tipo de acionamento, então confira na configuração escolhida se há motor e tomada antes de fechar."
         ],
         "image": {
           "src": "/images/reviews/damie/natal-poltrona-cinema-damie.webp",
@@ -123358,7 +123382,7 @@ export const reviewsData: unknown[] = [
           "Natal no Brasil é verão, e o canto da piscina entra na lista de presentes para a casa. Para escolher, o que decide é o material, porque sol, chuva e cloro estragam estofado comum.",
           "Os caminhos são três. O plástico (polipropileno ou polietileno) é o mais simples: a Tramontina tem espreguiçadeiras assim, como a Leblon Basic, por cerca de R$ 630 em varejo. O alumínio com corda náutica é mais durável e mais caro: a faixa observada em lojas foi de cerca de R$ 1.300 a R$ 2.200. E há o tecido impermeável com espuma, que é o puff e a espreguiçadeira macios: a Eco Flame Garden, linha vendida no varejo, tem puffs de área externa com trama náutica, proteção UV e tratamento anticloro, e o Duo Slim saía por cerca de R$ 2.322. A Tidelli é outra marca de móveis externos, com alumínio e trama sintética.",
           "Cuidado com o puff \"de piscina\" barato: os redondos de marketplace a partir de cerca de R$ 199 costumam ser de tecido comum, não impermeável. Antes de comprar, confira se o tecido é impermeável e tem proteção UV.",
-          "A DAMIE tem uma linha própria para a beira da piscina, a Garden. O catálogo tinha seis peças. A espreguiçadeira, os puffs e o apoio do puff usam o tecido que a DAMIE chama de Ultra Poliéster Impermeável Padrão Náutico. Segundo a DAMIE, ele não absorve água, não mancha, evita mofo e tem proteção UV, e as peças podem ficar perto da piscina e até submersas. O miolo é de microesferas de EPS e flocos de espuma. Segundo a DAMIE, há garantia antimofo de 1 ano e resistência ao cloro da piscina.",
+          "A DAMIE tem uma linha própria para a beira da piscina, a Garden. O catálogo tinha seis peças. A espreguiçadeira, os puffs e o apoio do puff usam o tecido que a DAMIE chama de Ultra Poliéster Impermeável Padrão Náutico. A página diz: não absorve água, não mancha, evita mofo e tem proteção UV, e as peças podem ficar perto da piscina e até submersas. O miolo é de microesferas de EPS e flocos de espuma. Segundo a DAMIE, há garantia antimofo de 1 ano e resistência ao cloro da piscina.",
           "A linha é produzida sob encomenda, segundo a DAMIE, com fabricação própria no Rio Grande do Sul, e a entrega é por transportadora de móveis. O prazo aparece na página do produto, ao escolher o estado, e no frete pelo CEP. O frete grátis da DAMIE vale para poltronas e sofás, não para a Garden. O tecido vem em 6 cores: verde militar, azul denim, preto, vermelho, areia e cinza claro. A página fala em 30 dias para experimentar."
         ],
         "comparisonTable": {
@@ -123402,7 +123426,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Segundo a página da espreguiçadeira, ela vem com mesa de apoio inclusa, sem custo adicional. A mesa champanheira da tabela é outra peça, vendida à parte. O apoio do puff é vendido separado e é feito para o puff Joy.",
-          "O vídeo da espreguiçadeira na água, no [guia da linha Garden](https://damie.emcasacomcecilia.com/guias/linha-garden-damie-moveis-de-area-externa), é vídeo da marca: nós não usamos a linha Garden, e o que está aqui vem das páginas de produto da DAMIE."
+          "O vídeo da espreguiçadeira na água, no [guia da linha Garden](https://damie.emcasacomcecilia.com/guias/linha-garden-damie-moveis-de-area-externa), é vídeo da marca: o que está aqui vem das páginas de produto da DAMIE."
         ],
         "images": [
           {
@@ -123424,7 +123448,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Black Friday ou Natal: quando comprar",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, e o Natal, em 25 de dezembro. Para móvel de presente, a Black Friday é a data de comprar: sobra quase um mês até o Natal, e a entrega de móvel grande, ou de peça feita sob encomenda como a linha Garden, leva tempo. Comprar em cima do Natal é arriscar.",
+          "Para móvel de presente, compre na Black Friday (27 de novembro): sobra quase um mês até o Natal (25 de dezembro) para a entrega do móvel grande ou sob encomenda. Comprar em cima do Natal é arriscar.",
           "O prazo de entrega aparece no cálculo do frete, pelo CEP, antes de pagar, e conta da confirmação do pagamento. Na página do produto, ele também aparece ao escolher o estado. O Pix libera o pedido mais rápido, e o boleto leva até 2 dias úteis para compensar. O logo bordado, opcional nas reclináveis, soma 7 dias. Por isso, não existe uma data de corte igual para todo mundo: ela depende do CEP, do produto e do dia em que o pagamento for confirmado. Por isso, este guia não dá data de chegada.",
           "Também não precisa esperar o dia 27: a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) já mostrava as condições da campanha, válidas até o dia da Black Friday. Entram brindes na compra de uma poltrona, R$ 1.000 de desconto já aplicado nas poltronas, desconto por quantidade nas reclináveis e na Poltrona Cinema, acessórios com preço de campanha e frete grátis no Sul e no Sudeste, aplicado no checkout. Confira no carrinho se o CECILIA12 soma com cada um. A tabela de preços para comparar na campanha está em [Black Friday DAMIE 2026](/reviews/black-friday-damie)."
         ],
@@ -123471,6 +123495,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual móvel escolher",
+        "emphasis": "Se fosse para a minha casa, eu levaria a elétrica com elevação, porque ela ajuda a levantar e a marca a indica para idosos.",
         "bullets": [
           "**Para os pais:** a poltrona reclinável, a chamada poltrona do papai. Quem tem dificuldade de levantar pode olhar a versão com elevação, que a marca indica para esse uso. Na DAMIE, a reclinável vai de R$ 2.969 a R$ 6.149, conforme a base e o revestimento.",
           "**Para a sala:** o sofá modular. Ele chega em caixas, passa por escada e elevador pequeno, e o 3 lugares da DAMIE custa de R$ 5.100 a R$ 8.100, com apoio de pé grátis.",
@@ -123491,6 +123516,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a reclinável com elevação se o presente é para pais ou avós com dificuldade de levantar.",
+        "Leve o sofá modular se a entrada tem escada ou elevador pequeno."
+      ],
+      "skipIf": [
+        "Passe a reclinável se a porta tem menos de 65 cm: ela passa a partir dessa medida.",
+        "Passe a linha Garden se você compra perto do Natal: ela é feita sob encomenda e leva tempo."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -123546,13 +123581,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual autobronzeador Skelt comprar",
         "paragraphs": [
-          "Não há um melhor para todos: a escolha depende de a pessoa já ter usado, da cor que quer e do formato. A Skelt vende sete autobronzeadores de corpo, e ninguém do site testou nenhum, então tudo vem da ficha oficial. O que pesa são cor-guia, intensidade e formato; veja a tabela e o capítulo final."
+          "Não há um melhor para todos: a escolha depende de a pessoa já ter usado, da cor que quer e do formato. A Skelt vende sete autobronzeadores de corpo, e ninguém do site testou nenhum, então tudo vem do site oficial. O que pesa são cor-guia, intensidade e formato; veja a tabela e o capítulo final."
         ]
       },
       {
         "heading": "Os 7 autobronzeadores Skelt lado a lado",
         "paragraphs": [
-          "A diferença entre eles está em quatro coisas: ter ou não cor-guia, a intensidade, o formato (mousse, água, gel ou bifásico) e o tempo que o produto fica na pele. A cor-guia é um tom terroso que sai no banho e mostra onde o produto já foi passado; não é o resultado final. Os sete são de corpo e, segundo a ficha de cada um, duram de 7 a 12 dias. Nenhum vem com a luva. O preço por ml é o preço de venda dividido pelo volume do frasco. Onde a página manda seguir o tempo da embalagem, a célula diz isso; onde a página não traz o dado, também."
+          "A diferença entre eles está em quatro coisas: ter ou não cor-guia, a intensidade, o formato (mousse, água, gel ou bifásico) e o tempo que o produto fica na pele. A cor-guia é um tom terroso que sai no banho e mostra onde o produto já foi passado; não é o resultado final. Os sete são de corpo; a duração que a Skelt declara é de 7 a 12 dias. Nenhum vem com a luva. O preço por ml é o preço de venda dividido pelo volume do frasco. Onde a página manda seguir o tempo da embalagem, a célula diz isso; onde a página não traz o dado, também."
         ],
         "comparisonTable": {
           "headers": [
@@ -123649,7 +123684,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A principal diferença é a cor-guia. O mousse tem: a ficha descreve a cor-guia explicada acima. A água é incolor e não tem cor-guia. Por isso a Skelt marca o mousse como nível iniciante e a água como nível expert: sem a cor visível, é mais fácil deixar uma região sem passar e criar mancha, e a loja indica a água \"para os mais experientes\".",
           "A água também traz a vantagem que a loja destaca: por ser incolor, diminui a chance de manchar a roupa. Nos mousses com cor-guia, a Skelt avisa (na página do Mousse Dark e no kit do Mousse) que, durante a secagem, suor e atrito podem transferir a cor-guia para o tecido. Em qualquer um dos dois, espere secar antes de se vestir.",
-          "O resto é parecido. A intensidade nos dois é de leve a média, a duração, de 7 a 12 dias, e o rendimento, de 5 a 8 aplicações. O preço de venda é o mesmo, R$ 119,90, com 140 ml no mousse e 150 ml na água (R$ 0,86 e R$ 0,80 por ml). A ficha do mousse traz ácido lático e aloe vera na fórmula, e a da água, ácido hialurônico e aloe vera. A luva aplicadora não vem em nenhum dos dois.",
+          "O resto é parecido. A intensidade nos dois é de leve a média, a duração, de 7 a 12 dias, e o rendimento, de 5 a 8 aplicações. O preço de venda é o mesmo, R$ 119,90, com 140 ml no mousse e 150 ml na água (R$ 0,86 e R$ 0,80 por ml). Na página do mousse, ácido lático e aloe vera na fórmula; na da água, ácido hialurônico e aloe vera. A luva aplicadora não vem em nenhum dos dois.",
           "Na dúvida, a regra da própria marca resolve: quem nunca usou autobronzeador fica com o mousse, e a água é para quem já sabe aplicar e quer um produto incolor. Os tempos de ação estão na tabela; na água, a página manda seguir o tempo indicado na embalagem."
         ],
         "images": [
@@ -123674,7 +123709,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Dark existe em duas versões, o Mousse Dark (140 ml, com cor-guia) e a Água Autobronzeadora Dark (150 ml, incolor). Nas duas, a Skelt marca a intensidade como \"intensa\" e um bronze 2x mais intenso que o da versão tradicional, e a ficha marca o nível como expert. O preço é R$ 10 maior: R$ 129,90 contra R$ 119,90.",
           "O Mousse Dark não é um mousse para iniciante. A marca o indica para quem quer um bronze mais intenso. O Kit Iniciante Dark tem \"iniciante\" no nome, mas o autobronzeador dele é o mesmo Mousse Dark, com a luva junto. Quem nunca usou autobronzeador começa melhor pelo mousse comum.",
-          "Antes de ir para o Dark, vale lembrar que o mousse comum também escurece com o tempo na pele: segundo a Skelt, 3 a 5 horas dão bronze médio e 6 a 8 horas, bronze forte. O Dark é para quem já usou e, mesmo assim, quer mais cor.",
+          "Antes de ir para o Dark, o mousse comum também escurece com o tempo na pele: a Skelt diz que 3 a 5 horas dão bronze médio e 6 a 8 horas, bronze forte. O Dark é para quem já usou e, mesmo assim, quer mais cor.",
           "Resumo: tradicional se for a primeira vez ou se o bronze de leve a médio bastar. Dark se você já usou e quer mais cor. Com cor-guia, o Mousse Dark. Sem cor-guia e para quem já sabe aplicar, a Água Dark. No Mousse Dark e na Água Dark, a página manda seguir o tempo indicado na embalagem."
         ],
         "images": [
@@ -123697,9 +123732,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gel e Bifásico: para quem são",
         "paragraphs": [
-          "São os dois autobronzeadores Skelt que fogem do mousse. O [Gel Autobronzeador Hidratante](https://www.skelt.com.br/gel-autobronzeador-hidratante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem textura de gel, 120 ml, e custava R$ 98,90, o menor preço entre os frascos grandes. O [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), 120 ml, custava R$ 119,90 e é o primeiro na ordem de mais vendidos do site da Skelt.",
-          "**Gel Hidratante, para quem já sabe aplicar e quer algo incolor.** Segundo a ficha, ele não tem cor-guia, e por isso a Skelt o indica aos mais experientes em autobronzeamento. A intensidade é média, a duração é de 7 a 12 dias e a marca diz que a secagem é ultrarrápida. O tempo no corpo comanda a cor: 4 horas para um bronzeado moderado e 8 horas para o intenso, de acordo com a página. Rende de 6 a 8 aplicações. A Skelt o descreve como hidratante, com ácido hialurônico, aloe vera e pantenol na fórmula. Por ser incolor, ele não deixa a marca terrosa de um mousse com cor-guia, mas também não mostra onde você já passou.",
-          "**Bifásico, para quem quer o bronze com perfume.** A Skelt o apresenta como o bronze que ela já vende, agora com fragrância de body splash: a Grand Bahama, com abacaxi, bergamota e água de coco no topo, e baunilha, musk e musgo de carvalho no fundo. A intensidade é média, a duração é de 7 a 12 dias e o tempo de ação é de 8 horas. Antes de usar, agite o frasco. A marca manda aplicar com luva, em movimentos circulares, e esperar alguns minutos antes de se vestir ou se deitar. No banho, retire só com água morna.",
+          "Gel incolor para os experientes; bifásico, com perfume. O [Gel Autobronzeador Hidratante](https://www.skelt.com.br/gel-autobronzeador-hidratante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem textura de gel, 120 ml, e custava R$ 98,90, o menor preço entre os frascos grandes. O [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), 120 ml, custava R$ 119,90 e é o primeiro na ordem de mais vendidos do site da Skelt.",
+          "**Gel Hidratante, para quem já sabe aplicar e quer algo incolor.** Ele não tem cor-guia, e por isso a Skelt o indica aos mais experientes. Diz a Skelt: intensidade média, duração de 7 a 12 dias e secagem ultrarrápida. O tempo no corpo comanda a cor: 4 horas para um bronzeado moderado e 8 horas para o intenso, de acordo com a página. Rende de 6 a 8 aplicações. A Skelt o descreve como hidratante, com ácido hialurônico, aloe vera e pantenol na fórmula. Por ser incolor, ele não deixa a marca terrosa de um mousse com cor-guia, mas também não mostra onde você já passou.",
+          "**Bifásico, para quem quer o bronze com perfume.** A Skelt o apresenta como o bronze que ela já vende, agora com fragrância de body splash: a Grand Bahama, com abacaxi, bergamota e água de coco no topo, e baunilha, musk e musgo de carvalho no fundo. Diz a Skelt: intensidade média, duração de 7 a 12 dias e 8 horas de ação. Antes de usar, agite o frasco. A marca manda aplicar com luva, em movimentos circulares, e esperar alguns minutos antes de se vestir ou se deitar. No banho, retire só com água morna.",
           "Uma lacuna importante: a página do Bifásico não informa se ele tem cor-guia, nem o rendimento em aplicações. Se isso pesa na sua decisão, o [Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é o que diz com todas as letras que tem cor-guia. Já a [Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), incolor como o Gel, a marca indica a quem tem experiência."
         ],
         "images": [
@@ -123783,7 +123818,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como aplicar sem manchar (o que a Skelt orienta)",
         "paragraphs": [
-          "O passo a passo abaixo é o da ficha do Mousse, repetido nas páginas do Gel e dos kits. Não é experiência nossa: é o que a marca orienta."
+          "O passo a passo abaixo é o que a Skelt orienta na página do Mousse, repetido nas do Gel e dos kits."
         ],
         "bullets": [
           "Esfoliar o corpo todo, para tirar o excesso de células mortas e uniformizar a pele. A página do Gel pede a esfoliação no máximo 2 dias antes.",
@@ -123816,6 +123851,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual autobronzeador Skelt escolher",
+        "emphasis": "Pelos números da tabela, para quem nunca usou a escolha é o Kit Iniciante, porque ele sai R$ 43,54 a menos que o mousse e a luva comprados separados.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "A escolha por perfil, com os preços do site oficial. A intensidade e a duração são as que a Skelt informa na ficha de cada produto."
         ],
@@ -123856,6 +123893,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve o Kit Iniciante se você nunca usou autobronzeador e quer ver onde passou, com a cor-guia.",
+        "Leve a água ou o gel se você já sabe aplicar e quer um produto incolor."
+      ],
+      "skipIf": [
+        "Passe o Dark se é a primeira vez: a Skelt o marca como nível expert.",
+        "Passe o autobronzeador avulso se você ainda não tem a luva aplicadora: ela não vem nele."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -123917,8 +123964,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comparamos: preço por 100 g de proteína",
         "paragraphs": [
-          "São cinco marcas e dezenas de potes com rótulos diferentes, então o guia usa uma régua comum.",
-          "O preço do pote engana porque dois potes de 900 g não têm a mesma quantidade de proteína dentro. Por isso a régua deste guia é o preço por 100 g de proteína: preço ÷ (porções × proteína por porção) × 100.",
+          "O preço do pote engana: dois potes de 900 g não têm a mesma proteína dentro. Por isso a régua deste guia é o preço por 100 g de proteína: preço ÷ (porções × proteína por porção) × 100.",
           "Exemplo com o 80% HD da Black Skull: o refil de 900 g tem 30 porções de 23 g de proteína, ou seja, 690 g de proteína. R$ 159,90 ÷ 690 × 100 = R$ 23,17 por 100 g de proteína."
         ],
         "bullets": [
@@ -123941,7 +123987,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Concentrado, isolado, 3W ou hidrolisado: a diferença",
         "paragraphs": [
-          "Whey é a proteína do soro do leite. O nome do tipo diz como ela foi processada, e a diferença aparece na tabela nutricional."
+          "O tipo diz como a proteína foi processada, e a diferença aparece na tabela nutricional."
         ],
         "bullets": [
           "Concentrado (WPC): o tipo mais comum. Tem mais carboidrato e gordura que o isolado e menos proteína por grama: 67% no 100% Pure Whey da Probiótica (20 g em 30 g) e 77% no 80% HD da Black Skull (23 g em 30 g).",
@@ -124135,7 +124181,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Probiótica: concentrado ou isolado",
         "paragraphs": [
-          "Preços de 30/10/2026, no cartão. A proteína por dose é a da tabela nutricional do sabor indicado em cada linha."
+          "Na Probiótica, compare os quatro potes pela proteína da tabela do sabor: os preços abaixo são de 30/10, no cartão."
         ],
         "comparisonTable": {
           "headers": [
@@ -124206,7 +124252,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quadro-mestre: todos os wheys das cinco lojas",
         "paragraphs": [
-          "Todos os wheys em pó das cinco lojas que tiveram a proteína por dose lida, na mesma régua. O quadro não ordena nem pontua: o número mais baixo não é, sozinho, a melhor compra, porque a dose, o tipo de proteína e a lactose mudam de produto para produto."
+          "Todos os wheys lidos, na mesma régua: o número mais baixo não é, sozinho, a melhor compra, porque dose, tipo de proteína e lactose mudam."
         ],
         "comparisonTable": {
           "caption": "Preços de venda dos sites oficiais, antes do cupom. Proteína por dose da tabela nutricional (na Mais Mu, do texto da página, porque a loja não publica tabela). R$ por 100 g de proteína: conta nossa, preço ÷ (doses × proteína por dose) × 100, com as doses da tabela ou, nos potes de 40 g da Max e no Dr. Peanut, 900 g ÷ 40 g.",
@@ -124427,6 +124473,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual whey escolher: o quadro por objetivo",
+        "emphasis": "Pelos números da tabela, para pagar menos pela proteína do soro a escolha é o 80% HD da Black Skull, porque sai a R$ 23,17 por 100 g de proteína.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Cada objetivo de compra leva um whey, com uma alternativa. O quadro reúne os sete perfis dos capítulos acima."
         ],
@@ -124562,12 +124610,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como este guia foi feito",
         "paragraphs": [
-          "Ninguém do site tomou os wheys. Este guia reúne o que cada loja publica: tabela nutricional, lista de ingredientes e preço de venda, lidos nos sites oficiais da Black Skull, da Max Titanium, da Probiótica, da Dr. Peanut e da Mais Mu, sem cupom. A proteína por dose vem da tabela, e não do texto da página; só a Mais Mu, que não publica tabela, tem a dose lida no texto. O \"mais vendido\" é a ordem de cada site na data, e não dado de vendas, e os sabores só aparecem como lista.",
-          "Ficaram de fora o 3W, o Monster e o sachê da Probiótica (tabela não lida), os sachês da Max, os hipercalóricos, os kits e combos, as barras e a proteína vegetal. Os refis de 900 g e de 1,8 kg da Mais Mu também: a loja não publica tabela, e o guia só fez a conta do pote de 450 g e do sachê. As contas de R$ por 100 g de proteína são nossas, com o preço do dia e a dose da tabela.",
+          "Este guia reúne o que cada loja publica: tabela nutricional, lista de ingredientes e preço de venda sem cupom, lidos nos sites oficiais das cinco marcas. A proteína por dose vem da tabela, e não do texto da página; só a Mais Mu, que não publica tabela, tem a dose lida no texto. O \"mais vendido\" é a ordem de cada site na data, e não dado de vendas, e os sabores só aparecem como lista.",
+          "Ficam de fora o 3W, o Monster e os sachês, os hipercalóricos, kits e combos, barras e proteína vegetal. Os refis de 900 g e de 1,8 kg da Mais Mu também: a loja não publica tabela, e o guia só fez a conta do pote de 450 g e do sachê. As contas de R$ por 100 g de proteína são nossas, com o preço do dia e a dose da tabela.",
           "Preço e estoque mudam toda semana, e a Black Friday está chegando: vale o que aparecer no site da loja na hora da compra. O Em Casa com Cecília é afiliado das cinco marcas e pode receber comissão pelas compras feitas pelos links e pelos cupons, sem custo extra para você."
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve o concentrado em pote de 900 g se você quer o menor preço por proteína.",
+        "Leve o isolado se você quer mais proteína na mesma dose e menos carboidrato.",
+        "Leve o pote de 450 g ou o sachê se você quer provar um sabor ou levar a dose na bolsa."
+      ],
+      "skipIf": [
+        "Passe os potes com soja na lista se você quer só proteína do soro.",
+        "Passe o nome do pote se você não lê a proteína por dose na tabela: vale a tabela.",
+        "Procure um nutricionista se você busca dose ou dieta: o guia compara rótulo, tabela e preço."
+      ]
+    },
     "pros": [],
     "cons": [],
     "editorialNote": "Somos afiliados das cinco marcas e ninguém da equipe tomou os wheys.",
@@ -124621,7 +124681,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual equivale a qual",
         "paragraphs": [
-          "Antes de comparar preço, é preciso saber qual produto de uma marca faz o papel de qual na outra. Os nomes das linhas não batem: o que a Best Bronze chama de Dark Express Pro a Skelt chama de Mousse Dark, e o Clear Vegan faz o papel da água ou do gel da Skelt. A tabela junta cada tipo de produto, com o preço no cartão em 23/10/2026."
+          "Os nomes não batem: o Dark Express Pro da Best Bronze equivale ao Mousse Dark da Skelt, e o Clear Vegan faz o papel da água ou do gel. A tabela junta cada tipo de produto, com o preço no cartão em 23/10/2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -124754,7 +124814,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cor-guia ou transparente: o que muda",
         "paragraphs": [
-          "A cor-guia é um tom terroso que mostra onde o produto já foi passado e sai no banho. Não é o resultado final. O mousse com cor-guia ajuda a não deixar falhas, e por isso a Skelt marca o Mousse Autobronzeador como nível iniciante. O produto transparente não mostra onde você passou: a Skelt marca a Água como nível expert e, no Gel, a ficha marca iniciante e expert, mas o texto o indica aos mais experientes.",
+          "A cor-guia mostra onde já passou e sai no banho; sem ela, o transparente pede mais experiência. O mousse com cor-guia ajuda a não deixar falhas, e por isso a Skelt marca o Mousse Autobronzeador como nível iniciante. O produto transparente não mostra onde você passou: a Skelt marca a Água como nível expert e, no Gel, a página marca iniciante e expert, mas o texto o indica aos mais experientes.",
           "O contrapeso é a roupa. Na página do Mousse Dark, a Skelt avisa que suor e atrito, durante a secagem, podem passar a cor-guia para o tecido; no Kit Bronze & Glow Mousse, fala em atrito e umidade. Na página da Água, a marca diz que a falta de cor-guia diminui a chance de manchar a roupa. Em qualquer um, espere secar antes de se vestir.",
           "Nas duas marcas, o mousse escuro tem cor-guia e o transparente não. O Mousse Dark da Skelt não é para iniciante: a marca o indica para quem quer mais cor, nível expert. A lista de ingredientes do Dark Express Pro traz corantes (CI 42090, 17200, 16035 e 19140), e a do Clear Vegan não tem corante."
         ],
@@ -124778,7 +124838,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Duração e tempo de ação: o que cada marca diz",
         "paragraphs": [
-          "Tudo na tabela abaixo é o que cada marca declara na página do produto. Não é resultado que tenhamos visto. Na Água e no Mousse Dark, a Skelt manda seguir o tempo indicado na embalagem."
+          "Tudo na tabela abaixo é o que cada marca declara na página do produto. Na Água e no Mousse Dark, a Skelt manda seguir o tempo indicado na embalagem."
         ],
         "comparisonTable": {
           "headers": [
@@ -124821,7 +124881,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Pelo que as páginas dizem, a Best Bronze promete até 3 dias a mais de duração e mais aplicações por frasco no mousse escuro. A Skelt declara 7 a 12 dias e 5 a 8 aplicações.",
+          "Nas páginas, a Best Bronze promete até 3 dias a mais de duração e mais aplicações por frasco no mousse escuro. A Skelt declara 7 a 12 dias e 5 a 8 aplicações.",
           "O ativo bronzeador nas duas é a combinação de DHA e eritrulose. Na Skelt, o Mousse, a Água e o Gel trazem os selos de vegano, cruelty free e dermatologicamente testado; a página do Mousse Dark não mostra selos. A Best Bronze se diz vegana no Dark Express Pro e no Clear Vegan, e a página do Clear Vegan diz que o produto é fabricado nos Estados Unidos.",
           "Sobre o perfume: a lista da Skelt traz fragrância (Parfum) em todos os mousses e águas. A Best Bronze vende o Dark Express Pro na fragrância Vanilla ou Sem Fragrância, e a página do Clear Vegan diz que ele não tem cheiro."
         ]
@@ -124829,12 +124889,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde a Best Bronze ganha e onde a Skelt ganha",
         "paragraphs": [
-          "O que cada uma faz melhor, pela ficha e pelo preço."
+          "O que cada uma faz melhor, na página e no preço."
         ],
         "bullets": [
           "**Best Bronze, preço no cartão no mousse escuro:** em promoção, o Dark Express Pro sai a R$ 81,55 por 100 ml, contra R$ 92,79 do Mousse Dark da Skelt.",
           "**Best Bronze, duração e rendimento declarados:** até 15 dias e cerca de 10 aplicações, contra 7 a 12 dias e 5 a 8 aplicações da Skelt. Dividindo o preço pelo rendimento que cada marca declara, o Dark Express Pro, no preço em promoção, sai a cerca de R$ 12,23 por aplicação (R$ 17,20 a R$ 172,00), e o Mousse Dark da Skelt, entre R$ 16,24 e R$ 25,98 (de R$ 13,88 a R$ 22,21 com cupom e Pix). É estimativa: o rendimento depende de quanto produto você usa.",
-          "**Best Bronze, formatos que a Skelt não tem em estoque:** spray (Spray Fácil), gotas para misturar ao hidratante (Magic Drop) e lenços para o rosto (Pocket Bronze). A lista do Spray Fácil traz álcool, propelente (butano e propano) e parabenos, segundo a página.",
+          "**Best Bronze, formatos que a Skelt não tem em estoque:** spray (Spray Fácil), gotas para misturar ao hidratante (Magic Drop) e lenços para o rosto (Pocket Bronze). A página do Spray Fácil lista álcool, propelente (butano e propano) e parabenos.",
           "**Skelt, transparente mais barato:** a Água sai a R$ 79,93 por 100 ml no cartão, contra R$ 83,33 do Clear Vegan, e o Gel, a R$ 82,42.",
           "**Skelt, kit com luva mais barato:** o Kit Iniciante custa R$ 111,26 e o Kit Iniciante Dark, R$ 137,62, contra R$ 158,00 do Clear + Luva e R$ 178,00 do Dark Express + Luva da Best Bronze.",
           "**Skelt, cupom e Pix:** o SKEMCASACOMCECILIA dá 10%, o Pix soma mais 5%, e o Mousse Dark cai para R$ 79,33 por 100 ml, abaixo dos R$ 81,55 da Best Bronze em promoção.",
@@ -124855,6 +124915,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
+        "emphasis": "Pelos números da tabela, para quem quer mousse com luva a escolha é o Kit Iniciante da Skelt, porque sai a R$ 111,26, contra R$ 158,00 do Clear com luva da Best Bronze.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "O veredito por perfil, com os preços."
         ],
@@ -124878,6 +124940,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Skelt se você quer o transparente ou o kit com luva, que saem mais baratos nela.",
+        "Leve a Best Bronze se você quer spray, gotas ou lenço para o rosto."
+      ],
+      "skipIf": [
+        "Passe o transparente se você nunca aplicou e quer ver onde passa.",
+        "Passe o Mousse Dark da Skelt se você nunca usou: a marca o indica a quem quer mais cor, nível expert."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -124939,7 +125011,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que cada rótulo diz",
         "paragraphs": [
-          "A loja organiza a creatina em três nomes. **Creator** e **Creatine** têm a mesma lista de ingredientes nas páginas: \"creatina monohidratada\", e só. [Creatine Turbo](https://www.blackskullusa.com.br/creatine-turbo--300g/p) lista \"creatina monohidratada e maltodextrina\" no pote sem sabor. A maltodextrina é um carboidrato, e a tabela nutricional do Turbo mostra 5 g de carboidratos e 20 kcal em cada porção de 10 g. Por isso o Turbo não é só creatina: pelo rótulo, a porção de 10 g tem 5 g de creatina e 5 g de carboidrato.",
+          "Dois nomes são só creatina; um leva carboidrato. **Creator** e **Creatine** têm a mesma lista de ingredientes nas páginas: \"creatina monohidratada\", e só. [Creatine Turbo](https://www.blackskullusa.com.br/creatine-turbo--300g/p) lista \"creatina monohidratada e maltodextrina\" no pote sem sabor. A maltodextrina é um carboidrato, e a tabela nutricional do Turbo mostra 5 g de carboidratos e 20 kcal em cada porção de 10 g. Por isso o Turbo não é só creatina: pelo rótulo, a porção de 10 g tem 5 g de creatina e 5 g de carboidrato.",
           "\"Pura\" também não é uma palavra que a lista de ingredientes prove. A lista e a tabela trazem só o nome da creatina e a quantidade por porção.",
           "A Black Skull tem ainda a [Creatine Caps](https://www.blackskullusa.com.br/creatine-caps-black-skull/p), em cápsulas, também só com creatina monohidratada na lista de ingredientes. Ela entra na tabela abaixo para você ver o custo por grama. As fichas indicam os produtos para adultos acima de 19 anos."
         ]
@@ -124947,7 +125019,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As creatinas da Black Skull lado a lado: preço por 100 g de creatina",
         "paragraphs": [
-          "A ordem é a de mais vendidos do site da Black Skull em 23/10/2026, na busca por \"creatina\", só as creatinas avulsas, sem kits nem os outros aminoácidos. O preço por 100 g de creatina é o preço de venda dividido pela creatina que o pote tem, e o preço por dose é o preço dividido pelas doses do rótulo. A conta é nossa; o dado de cada produto é da ficha."
+          "Na conta por 100 g de creatina, o Creator refil de 500 g é o mais barato e a Caps, a mais cara. A ordem é a de mais vendidos do site da Black Skull em 23/10/2026, na busca por \"creatina\", só as creatinas avulsas, sem kits nem os outros aminoácidos. O preço por 100 g de creatina é o preço de venda dividido pela creatina que o pote tem, e o preço por dose é o preço dividido pelas doses do rótulo. Conta nossa, sobre os dados da página de cada produto."
         ],
         "comparisonTable": {
           "headers": [
@@ -125043,7 +125115,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "As duas linhas aparecem com a mesma lista de ingredientes (\"creatina monohidratada\"), a mesma porção (1 dosador de 5 g) e o mesmo número de notificação nas páginas lidas. O preço não é o mesmo: o [refil de 500 g da Creatine](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-refil500g/p) custa R$ 78,90 e o do Creator, R$ 39,90, quase o dobro. A página da loja não explica o motivo, e não dá para dizer pelo rótulo que um produto é melhor que o outro.",
           "Pela conta do rótulo, o Creator refil de 500 g é a opção mais barata por grama de creatina da marca. O Creator de 300 g também sai na frente do [Creatine de 300 g](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p): R$ 9,97 contra R$ 13,97 por 100 g. Quem quer só creatina monohidratada e decide pelo preço fica com o Creator.",
-          "Modo de consumo, segundo a ficha: 1 dosador (5 g) em água, uma vez ao dia, ou conforme a orientação de um nutricionista ou de outro profissional da saúde. No refil de 500 g do Creator, a ficha avisa que o refil não acompanha o dosador. Na linha Creator, a página avisa que o produto pode conter amendoim e derivados de soja, leite, ovo e trigo, e que não contém lactose nem glúten."
+          "Modo de consumo: a página manda 1 dosador (5 g) em água, uma vez ao dia, ou o que um nutricionista ou outro profissional da saúde orientar. No refil de 500 g do Creator, a ficha avisa que o refil não acompanha o dosador. Na linha Creator, a página avisa que o produto pode conter amendoim e derivados de soja, leite, ovo e trigo, e que não contém lactose nem glúten."
         ],
         "images": [
           {
@@ -125060,7 +125132,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Turbo é a única linha com carboidrato na lista de ingredientes. Pela tabela nutricional dos potes de 300 g e do refil de 500 g, a porção é de 10 g (2 dosadores): 5 g de creatina, 5 g de carboidratos e 20 kcal. A ficha manda diluir os 2 dosadores em 300 ml de água, uma vez ao dia.",
           "Na conta, isso pesa. Você paga o pote inteiro, mas a creatina é metade de cada dose. O Turbo de 300 g sai a R$ 26,60 por 100 g de creatina e o refil de 500 g, a R$ 19,96. O Creator refil de 500 g sai a R$ 7,98: o Turbo de 500 g custa 2,5 vezes mais por grama de creatina, e o de 300 g, 3,3 vezes. Quem quer só creatina paga mais por grama no Turbo. Quem já escolheu o pó da linha Turbo fica mais bem servido, pelo preço, com o refil de 500 g.",
-          "**Turbo de 150 g: a ficha e a tabela não batem.** O [Turbo de 150 g](https://www.blackskullusa.com.br/creatine-turbo--150g/p) tem duas leituras. A ficha da página diz para diluir 2 dosadores (10 g), e a tabela acima usa essa ficha: 15 doses, 5 g de creatina por dose, 75 g de creatina no pote. A tabela nutricional que aparece como imagem na mesma página traz outra versão: porção de 6 g (1 dosador), 25 doses e 3 g de creatina. A própria página explica: segundo a loja, a recomendação de consumo diário passou de 3 g para 5 g de creatina, e por isso os rótulos foram atualizados com o novo número de doses. O preço por 100 g de creatina é o mesmo nas duas contas, R$ 23,92. Muda o número de doses e o preço por dose: R$ 1,20 pela ficha e R$ 0,72 pela tabela com 6 g.",
+          "**Turbo de 150 g: a ficha e a tabela não batem.** O [Turbo de 150 g](https://www.blackskullusa.com.br/creatine-turbo--150g/p) tem duas leituras. A ficha da página diz para diluir 2 dosadores (10 g), e a tabela acima usa essa ficha: 15 doses, 5 g de creatina por dose, 75 g de creatina no pote. A tabela nutricional que aparece como imagem na mesma página traz outra versão: porção de 6 g (1 dosador), 25 doses e 3 g de creatina. A própria página explica: a recomendação de consumo diário passou de 3 g para 5 g de creatina, e por isso os rótulos foram atualizados com o novo número de doses. O preço por 100 g de creatina é o mesmo nas duas contas, R$ 23,92. Muda o número de doses e o preço por dose: R$ 1,20 pela ficha e R$ 0,72 pela tabela com 6 g.",
           "**Ingredientes dos sabores, como a loja lista.** Turbo com sabor: creatina monohidratada, maltodextrina, acidulante ácido cítrico, aromatizante, corante (urucum no laranja, clorofila no limão, vermelho ponceau e azul indigotina no uva) e edulcorante sucralose. O refil de 500 g do Turbo pode conter leite, ovo, amendoim, soja, trigo e derivados. Creatine com sabor, no pote de 300 g: creatina monohidratada, acidulante ácido málico, antiumectante dióxido de silício, aromatizante, corante (urucum e norbixina no laranja, clorofila e sais de cobre no limão) e edulcorante sucralose. Os potes sem sabor listam só a creatina, ou a creatina e a maltodextrina no Turbo. A dose do Creatine com sabor é de 6 g, com os mesmos 5 g de creatina, e o pote rende 50 doses: R$ 16,76 por 100 g de creatina e R$ 0,84 por dose, contra R$ 13,97 e R$ 0,70 do sem sabor. As contas da tabela são do sem sabor."
         ],
         "images": [
@@ -125086,7 +125158,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creapure, laudo e pureza: o que a página declara",
         "paragraphs": [
-          "Creapure é um dos termos que mais aparecem no autocompletar junto com a Black Skull. Nenhuma página de creatina da loja lida declara o selo, e a busca por \"creapure\" no site da Black Skull não devolve nenhum produto. Isso não quer dizer que a creatina da marca seja ou não seja Creapure: quer dizer que a loja não informa.",
+          "Nenhuma página de creatina da loja declara o selo Creapure: a busca por \"creapure\" no site não devolve produto. Isso não quer dizer que a creatina da marca seja ou não seja Creapure: quer dizer que a loja não informa.",
           "Também não há laudo de pureza, análise de terceiros ou certificado de lote nas páginas. A lista de ingredientes do Creator diz \"creatina monohidratada\", e a tabela mostra 5.000 mg por porção de 5 g. É isso que o rótulo permite afirmar. Se você precisa de um selo específico, confirme com o SAC da Black Skull antes de comprar.",
           "Quem quer comparar com outras marcas já tem a conta feita nos nossos comparativos: [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium), [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Black Skull ou Dux](/reviews/black-skull-ou-dux). Neste guia, só entram produtos da Black Skull."
         ]
@@ -125099,6 +125171,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual creatina escolher",
+        "emphasis": "Pelos números da tabela, para quem quer só creatina pelo menor preço a escolha é o Creator refil de 500 g, porque sai a R$ 7,98 por 100 g de creatina, o menor número da linha.",
         "bullets": [
           "Só creatina, pelo menor preço: Creator refil de 500 g, R$ 7,98 por 100 g de creatina e R$ 0,40 por dose.",
           "Pote menor: Creator de 300 g, R$ 29,90, a R$ 9,97 por 100 g e R$ 0,50 por dose.",
@@ -125122,6 +125195,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve o Creator refil de 500 g se você quer só creatina pelo menor preço por grama.",
+        "Leve o Turbo refil de 500 g se você já escolheu uma dose com carboidrato junto."
+      ],
+      "skipIf": [
+        "Passe a Creatine se o preço por grama decide: a página não explica a diferença para o Creator.",
+        "Passe as cápsulas se o pó serve: saem bem mais caras por grama."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -125173,6 +125256,17 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Frascos dos body splash Solar Muse, Hidden Flowers e Velvet Milano da Skelt, com o logo da loja e o título Body splash Skelt: qual escolher?",
     "imageFit": "contain",
     "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Leve a fragrância da família de notas que você prefere, cítrica e fresca, floral ou doce e gourmand: as dez custam o mesmo.",
+        "Leve o Duo Hidden Flowers se você quer dar presente com hidratante da mesma fragrância: os Duos saem abaixo dos avulsos."
+      ],
+      "skipIf": [
+        "Passe no frasco grande se você quer conhecer a fragrância antes: os kits de miniaturas de 15 ml servem para provar.",
+        "Passe nos hidratantes avulsos de Pink Sands, Grand Bahama, Solar Muse e Milos Breeze: essas quatro não têm.",
+        "Passe nesta lista se você escolhe por ranking de cheiro ou por tempo de fixação em horas: a loja não publica nenhum dos dois."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -125202,13 +125296,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual body splash Skelt escolher",
         "paragraphs": [
-          "Como as dez fragrâncias da Skelt custam o mesmo, a escolha é pelo perfil: cítrico e fresco, floral ou doce e gourmand. Ninguém do site usou nenhuma, então o guia compara só o que a loja publica. O capítulo Qual escolher traz uma sugestão por perfil e por tipo de presente, com os kits."
+          "Como as dez fragrâncias da Skelt custam o mesmo, a escolha é pelo perfil: cítrico e fresco, floral ou doce e gourmand. O guia compara só o que a loja publica: notas, perfil e preço. O capítulo Qual escolher traz uma sugestão por perfil e por tipo de presente, com os kits."
         ]
       },
       {
         "heading": "As 10 fragrâncias lado a lado",
         "paragraphs": [
-          "A Skelt vende dez body splash de 100 ml, todos a R$ 99,90. Ninguém do site usou nenhum deles, e este guia não diz qual é o mais cheiroso: cheiro é gosto, e a loja também não classifica. A Skelt não agrupa as dez num só lugar e o rótulo muda de página para página; o agrupamento deste guia (cítrico e fresco, floral, doce e gourmand) parte das notas publicadas. A loja também não compara seus produtos com perfumes de outras marcas, então a comparação é só entre as dez fragrâncias dela.",
+          "A Skelt vende dez body splash de 100 ml a R$ 99,90, então a escolha é pelo perfil de notas. Ninguém do site usou nenhum deles, e este guia não diz qual é o mais cheiroso: cheiro é gosto, e a loja também não classifica. A Skelt não agrupa as dez num só lugar e o rótulo muda de página para página; o agrupamento deste guia (cítrico e fresco, floral, doce e gourmand) parte das notas publicadas. A loja também não compara seus produtos com perfumes de outras marcas, então a comparação é só entre as dez fragrâncias dela.",
           "A tabela traz as notas de topo que a Skelt publica em cada página e o perfil em que o guia encaixou a fragrância. Onde a página não tem a pirâmide de notas, a célula diz isso e traz o que a descrição da loja cita. A posição é a do produto na ordem de mais vendidos do site da Skelt, entre todos os produtos da loja, e não só entre body splash."
         ],
         "comparisonTable": {
@@ -125311,7 +125405,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cítrico e fresco: Amalfi Sunset, Unexpected Day, Grand Bahama e Milos Breeze",
         "paragraphs": [
-          "Este é o grupo em que as notas de topo são cítricas, de fruta clara ou de água. O agrupamento é deste guia, não da loja.",
+          "Quatro fragrâncias de topo cítrico, de fruta clara ou de água. O agrupamento é deste guia, não da loja.",
           "**Amalfi Sunset.** A Skelt diz \"Transporte-se para o verão europeu\" e descreve a fragrância como cítrica nos kits. As notas comuns às três pirâmides que a loja publica (kits e perfume para cabelos) são bergamota, jasmim e sândalo. Está em quinto na ordem de mais vendidos do site e é a única das dez que tem perfume para cabelos, hidratante e creme para mãos da mesma fragrância. A página do Amalfi pede para não aplicar no rosto.",
           "**Unexpected Day.** A loja a chama de \"uma surpresa refrescante\". A descrição cita pera e maçã verde, violeta e laranjeira, baunilha e chantilly: começa fresca e termina em \"conforto doce\", nas palavras da Skelt. Não há pirâmide na página.",
           "**Grand Bahama.** A Skelt a descreve como solar, exótica e vibrante. Topo de abacaxi, bergamota e água de coco; meio de lírio do vale, flores solares e limão; fundo de baunilha, musk e musgo de carvalho. É a fragrância do Bifásico, o autobronzeador com perfume de body splash: veja o [guia dos autobronzeadores Skelt](/reviews/autobronzeador-skelt-qual-escolher).",
@@ -125324,9 +125418,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Floral: Hidden Flowers, Mystic Bloom, Pink Sands e Urban Beat",
         "paragraphs": [
-          "Aqui estão as fragrâncias cujo meio é de flores ou que a loja descreve como florais. É o grupo com dois dos body splash mais bem colocados na ordem de mais vendidos do site: Mystic Bloom em terceiro e Hidden Flowers em quarto.",
+          "O grupo floral, de meio de flores ou descrito pela loja como floral, tem dois dos body splash mais vendidos do site: Mystic Bloom em terceiro e Hidden Flowers em quarto.",
           "**Hidden Flowers.** A página fala em fragrância floral envolvente e de alta fixação. Topo de bergamota da Itália, pera, pêssego e noz-moscada; meio de rosa damascena da Turquia, lírio-do-vale e olíbano; fundo de vetiver do Haiti, âmbar, musk e baunilha. A Skelt não informa quantas horas dura.",
-          "**Mystic Bloom.** \"Fragrância floral sofisticada e encantadora\", segundo a loja. Topo de groselha negra, morango e tangerina; meio de plumeria, flor de maçã e flor de violeta; fundo de musk, cashmeran, âmbar e marshmallow.",
+          "**Mystic Bloom.** \"Fragrância floral sofisticada e encantadora\", diz a Skelt. Topo de groselha negra, morango e tangerina; meio de plumeria, flor de maçã e flor de violeta; fundo de musk, cashmeran, âmbar e marshmallow.",
           "**Pink Sands.** A Skelt a chama de \"um toque de verão sofisticado\". Topo de pitaya, lichia, bergamota e laranja; meio de jasmim, peônia e rosa; fundo de âmbar, sândalo e baunilha.",
           "**Urban Beat.** Descrita como \"a combinação autêntica do frutado e floral\": frutas vermelhas encorpadas e um buquê floral, sem pirâmide na página. A lista com ameixa, cereja e blueberry que aparece na loja é do hidratante, não do body splash."
         ]
@@ -125442,7 +125536,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits para presente: a conta contra os avulsos",
         "paragraphs": [
-          "A conta abaixo compara o preço de cada kit com a soma dos produtos avulsos, também a preço de venda do dia. A última coluna mostra o kit com o cupom SKEMCASACOMCECILIA e o Pix de 5% somado. Segundo o teste de carrinho, o cupom vale em kit e soma com o Pix, e a loja aceita um cupom por pedido. As condições estão na [página do cupom Skelt](/cupons/skelt).",
+          "A conta abaixo compara o preço de cada kit com a soma dos produtos avulsos, também a preço de venda do dia. A última coluna mostra o kit com o cupom SKEMCASACOMCECILIA e o Pix de 5% somado. No teste de carrinho, o cupom valeu em kit e somou com o Pix, e a loja aceita um cupom por pedido. As condições estão na [página do cupom Skelt](/cupons/skelt).",
           "O cupom SKEMCASACOMCECILIA dá 10% em todo o site oficial da Skelt: um body splash avulso de R$ 99,90 sai a R$ 89,91 e, com mais 5% do Pix, a R$ 85,41."
         ],
         "comparisonTable": {
@@ -125565,6 +125659,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: uma sugestão por perfil",
+        "emphasis": "Pelos números da tabela, para presente com hidratante a escolha é o Duo Hidden Flowers, porque sai 10,9% mais barato que os avulsos.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Como as dez custam R$ 99,90, o preço não decide: o que decide é o perfil e se a compra é para presente. As sugestões partem das notas que a Skelt publica, e ninguém do site usou os produtos."
         ],
@@ -125621,6 +125717,16 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Modelo com as camisetas oversized da Cléa Store em bordô, preto e off white, fotos oficiais da loja",
     "imageFit": "contain",
     "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Leve o kit de três se você veste oversized e quer o menor preço por peça.",
+        "Leve a avulsa se você quer uma cor só ou completar um kit."
+      ],
+      "skipIf": [
+        "Passe nesta camiseta se você procura corte regular ou baby look: o catálogo só tem oversized.",
+        "Passe se você decide a compra por toque, caimento ou gramatura: a loja não informa a gramatura e não há opinião nossa sobre a peça."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -125631,7 +125737,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CSEMCASACOMCECILIA",
     "affiliate": "clea-store",
-    "editorialNote": "Preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "editorialNote": "Preços lidos no site da Cléa Store. Não compramos nem vestimos a peça. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
         "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
@@ -125650,7 +125756,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A ficha da loja descreve uma camiseta oversized de corpo 100% algodão penteado, vendida avulsa ou em kit de três. Ninguém do site comprou nem vestiu, então toque, caimento e durabilidade ficam sem opinião. O que pesa na escolha é a cor e a quantidade; veja o capítulo final."
+          "A camiseta da Cléa Store só existe em oversized, de corpo 100% algodão penteado, avulsa ou em kit de três. Toque, caimento e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica. O que pesa na escolha é a cor e a quantidade; veja o capítulo final."
         ]
       },
       {
@@ -125659,7 +125765,7 @@ export const reviewsData: unknown[] = [
           "A Cléa Store vende camiseta em um modelo só, o oversized. Os preços deste guia são de 23/10/2026, no site, sem cupom: R$ 129,00 a peça avulsa e R$ 258,00 o kit de três. Este guia usa a ficha da loja, a composição informada, o preço do dia e a tabela de medidas, e não opina sobre toque, caimento ou durabilidade.",
           "Na ficha da T-Shirts Oversized Algodão, o corpo da peça é 100% algodão penteado premium. A ribana da gola tem 97% algodão e 3% elastano. Ou seja, o elastano está só na ribana, não no corpo. Os cinco kits trazem a mesma composição.",
           "\"Algodão penteado premium\" é o nome que a loja dá ao tecido. Este guia usa o termo como a loja usa.",
-          "A loja descreve o tecido como leve, respirável e de toque natural e macio. É a descrição da loja, não uma avaliação nossa.",
+          "A loja descreve o tecido como leve, respirável e de toque natural e macio.",
           "A gramatura da malha, o peso do tecido, não está na ficha."
         ]
       },
@@ -125700,7 +125806,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os 6 modelos de camiseta lado a lado",
         "paragraphs": [
-          "São uma peça avulsa e cinco kits de três camisetas. Preços de venda do site, sem cupom. Nos kits, o preço cheio de R$ 387,00 aparece entre parênteses."
+          "Uma avulsa e cinco kits de três; o preço por peça cai de R$ 129,00 para R$ 86,00 no kit. Preços de venda do site, sem cupom. Nos kits, o preço cheio de R$ 387,00 aparece entre parênteses."
         ],
         "comparisonTable": {
           "headers": [
@@ -125817,7 +125923,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como lavar a camiseta",
         "paragraphs": [
-          "Segundo a ficha da loja, os cuidados são:"
+          "A página lista estes cuidados:"
         ],
         "bullets": [
           "Lavar até 30 °C, em processo suave",
@@ -125831,12 +125937,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Devolução e frete",
         "paragraphs": [
-          "Segundo a política da loja, o prazo de devolução é de 30 dias corridos após o recebimento. Em caso de defeito, o prazo é de 90 dias corridos. A devolução é grátis, e o frete é grátis acima de R$ 599,00 em compras no site.",
+          "A política da loja dá 30 dias corridos após o recebimento para devolver. Em caso de defeito, o prazo é de 90 dias corridos. A devolução é grátis, e o frete é grátis acima de R$ 599,00 em compras no site.",
           "Este guia não confirma troca direta de tamanho nem reembolso de uma compra feita com cupom. A política diz que valores creditados como bônus, como cashback, cupons e frete grátis, não são reembolsados. Antes de comprar com o cupom, leia a regra completa no site. A comparação com o Mercado Livre está em [Mercado Livre ou site da Cléa Store](/reviews/clea-store-mercado-livre-ou-site)."
         ]
       },
       {
         "heading": "Vale a pena? Avulsa ou kit",
+        "emphasis": "Pelos números da tabela, para quem quer o menor preço por peça a escolha é o kit Essenciais, porque sai a R$ 86,00 por peça e deixa montar as três cores.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pela ficha da loja, a camiseta tem corpo em algodão e um único corte, o oversized. Quem quer outro corte não encontra neste catálogo, e a loja não informa a gramatura. Como ninguém do site comprou nem vestiu as peças, a escolha entre avulsa e kit parte só do preço e da cor."
         ],
@@ -125933,7 +126041,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O BOPE de 300 g e o de 150 g têm a mesma tabela, e o Bone Crusher de 150 g tem a mesma tabela nos quatro sabores. No Bone Crusher 300 g, a página mostra a tabela nutricional só como imagem, e não conseguimos confirmar essa imagem com a marca. Por isso, o texto usa dele apenas o que a página traz escrito: dose de 7,5 g, 40 doses por pote e a lista de ingredientes, que inclui beta-alanina, creatina, arginina, taurina e cafeína anidra.",
+          "O BOPE de 300 g e o de 150 g têm a mesma tabela, e o Bone Crusher de 150 g tem a mesma tabela nos quatro sabores. No Bone Crusher 300 g, a página mostra a tabela nutricional só como imagem. Por isso, o texto usa dele apenas o que a página traz escrito: dose de 7,5 g, 40 doses por pote e a lista de ingredientes, que inclui beta-alanina, creatina, arginina, taurina e cafeína anidra.",
           "Sabores à venda: o BOPE, em frutas amarelas, limão e frutas vermelhas; o Bone Crusher 300 g, em frutas vermelhas, limão, frutas amarelas e laranja com pimenta; o Legacy, em tropical mango."
         ],
         "images": [
@@ -125956,7 +126064,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "BOPE ou Bone Crusher: o que muda no rótulo",
         "paragraphs": [
-          "Os números do Bone Crusher abaixo são do rótulo do 150 g; o 300 g só tem a tabela em imagem, ainda não confirmada.",
+          "No rótulo, três números separam os dois: beta-alanina, arginina e carboidrato. Os do Bone Crusher são do rótulo do 150 g; o 300 g só tem a tabela em imagem, ainda não confirmada.",
           "Dose e creatina: iguais. Os dois pedem uma dose de 7,5 g em 150 ml de água, uma vez ao dia, e declaram 3000 mg de creatina por dose.",
           "Cafeína: 135 mg no BOPE e 140 mg no Bone Crusher (rótulo do 150 g). A diferença é de 5 mg por dose.",
           "Beta-alanina: 750 mg no BOPE e 2 g no Bone Crusher, a maior diferença da tabela. Arginina: 150 mg no BOPE e 500 mg no Bone Crusher. Taurina: 350 mg e 370 mg.",
@@ -125977,7 +126085,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada dose",
         "paragraphs": [
-          "O preço por dose é o preço de venda do site em 23/10/2026 dividido pelas doses do pote. A última coluna aplica o cupom CECILIA10, de 10% em todo o site, sobre esse preço. O cálculo é nosso e está arredondado para o centavo."
+          "O BOPE custa menos por dose nos dois tamanhos; o kit de três BOPE de 150 g tem o menor preço por dose. O preço por dose é o preço de venda do site em 23/10/2026 dividido pelas doses do pote. A última coluna aplica o cupom CECILIA10, de 10% em todo o site, sobre esse preço. O cálculo é nosso e está arredondado para o centavo."
         ],
         "comparisonTable": {
           "headers": [
@@ -126070,6 +126178,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: BOPE ou Bone Crusher",
+        "emphasis": "Pelos números da tabela, para quem compra um pote só e quer o menor preço por dose a escolha é o BOPE 300 g, porque sai a R$ 1,62 por dose contra R$ 1,75 do Bone Crusher de 300 g.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "A escolha segue o que pesa para você no rótulo e no preço por dose."
         ],
@@ -126085,7 +126195,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "BOPE ou Bone Crusher: qual é melhor? Pelo rótulo do 150 g e pelo preço, o BOPE custa menos por dose e o Bone Crusher traz mais beta-alanina, mais arginina e menos carboidrato. Qual pesa mais é uma conta sua.",
-          "Bone Crusher é bom? Ninguém do site usou o produto. O rótulo do 150 g declara 140 mg de cafeína, 2 g de beta-alanina e 3000 mg de creatina por dose de 7,5 g, com açúcar zero.",
+          "Bone Crusher é bom? O rótulo do 150 g declara 140 mg de cafeína, 2 g de beta-alanina e 3000 mg de creatina por dose de 7,5 g, com açúcar zero.",
           "BOPE da Black Skull é bom? Ninguém do site usou o produto. O rótulo declara 135 mg de cafeína, 750 mg de beta-alanina e 3000 mg de creatina por dose de 7,5 g, a R$ 1,62 por dose no pote de 300 g.",
           "A Black Skull tem pré-treino sem cafeína? Não. Nenhum item da categoria Pré-treino era sem cafeína, e a busca do site por \"sem cafeina\" não achava produto.",
           "Qual pré-treino da Black Skull tem menos cafeína? Pelo rótulo, o BOPE, com 135 mg por dose de 7,5 g, contra 140 mg do Bone Crusher 150 g e 200 mg do Legacy, de 10 g.",
@@ -126094,6 +126204,15 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve o BOPE se você decide pelo menor preço por dose e aceita mais carboidrato no rótulo.",
+        "Leve o Bone Crusher se você decide por mais beta-alanina e arginina, com menos carboidrato."
+      ],
+      "skipIf": [
+        "Passe nos dois se você procura pré-treino sem cafeína: a Black Skull não vende nenhum."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -126145,6 +126264,17 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Potes do Whey 80% HD, do 100% HD e do 3W Core da Black Skull, com o logo da marca, o código CECILIA10 e o título Whey Black Skull: qual escolher?",
     "imageFit": "contain",
     "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Leve o 80% HD Refil 900 g se você quer pagar menos por proteína.",
+        "Leve o 100% HD, de preferência o de 1,8 kg, se você quer uma mistura de proteínas para o uso diário.",
+        "Leve o 3W Core se você quer uma dose com muita proteína: são 31 g por dose."
+      ],
+      "skipIf": [
+        "Passe na Black Skull se você procura whey isolado ou sem lactose: todos os wheys declaram \"Contém lactose\".",
+        "Passe no Gourmet e no Turbo se você escolhe pelo nome do pote: eles têm outra dose e outra conta."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -126182,7 +126312,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Black Skull vende 11 wheys e um kit de Turbo, e a diferença entre eles está em quatro coisas: quanto de proteína vem em cada dose, quanto custa a proteína (não o pote), o que a lista de ingredientes diz e o sabor, que só você escolhe.",
           "O preço do pote engana porque dois potes de 900 g não têm a mesma quantidade de proteína dentro. A régua deste artigo é o preço por 100 g de proteína: preço ÷ (porções × proteína por porção) × 100, com a tabela nutricional do rótulo e o preço de venda de 23/10/2026. Exemplo com o 80% HD: o refil de 900 g tem 30 porções de 23 g de proteína, ou seja, 690 g de proteína. R$ 159,90 ÷ 690 × 100 = R$ 23,17 por 100 g de proteína.",
-          "Todos os wheys da linha declaram \"Contém lactose\", e a Black Skull não tem whey isolado nem sem lactose no site: a busca por \"isolado\" voltou sem resultado."
+          "Todos os wheys da linha declaram \"Contém lactose\": a Black Skull não tem whey isolado nem sem lactose no site."
         ]
       },
       {
@@ -126276,7 +126406,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sabor: o que a loja mostra e o que não mostra",
         "paragraphs": [
-          "A Black Skull não publica venda por sabor. O que o site mostra é a lista de sabores de cada whey, quais têm estoque e uma ordem de produtos mais vendidos, que ordena produtos e não sabores. Por isso este artigo não escolhe sabor: escolha o que você gosta. Ninguém do site provou nenhum deles.",
+          "A Black Skull não publica venda por sabor. O que o site mostra é a lista de sabores de cada whey, quais têm estoque e uma ordem de produtos mais vendidos, que ordena produtos e não sabores. Por isso o sabor fica com você: escolha o que gosta, entre os que têm estoque na tabela.",
           "Na ordem de produtos do site, considerando só wheys e o kit de Turbo, o 80% HD Refil 900 g vinha em primeiro, o 100% HD Refil 900 g em segundo e o 100% HD pote de 900 g em terceiro."
         ],
         "comparisonTable": {
@@ -126349,7 +126479,7 @@ export const reviewsData: unknown[] = [
           "[Whey Turbo Refil 907 g](https://www.blackskullusa.com.br/whey-turbo-refil--907g/p): é um hipercalórico, não um whey como os outros. A dose é de 120 g (12 colheres) e traz 30 g de proteína, 75 g de carboidrato e 479 kcal, com 7 doses. O refil custava R$ 79,90, e o [kit com 2 refis](https://www.blackskullusa.com.br/kit-2-unidades-whey-protein-907g-whey-turbo/p), R$ 132,81 (preço de tabela R$ 139,80). A conta por 100 g de proteína dá R$ 38,05 no refil e R$ 31,62 no kit, mas é só de referência: junto com a proteína, o que você compra é carboidrato.",
           "\"100%\" no nome: não é 100% de proteína. O 100% HD tem 21 g em 35 g (60%) no pote e no refil de 900 g, e 21 g em 30 g (70%) no refil de 450 g.",
           "Colágeno no 100% HD: o texto de venda da loja diz que o \"Blend Duo Protein\" integra as proteínas do soro do leite aos \"peptídeos hidrolisados de colágeno\" (refil de 900 g) e \"Whey + Colágeno Hidrolisado\" (1,8 kg), e as páginas do Gourmet repetem a descrição do blend. A lista de ingredientes diz só \"peptídeos hidrolisados\", sem origem, e a Black Skull não publica a quantidade (lido no site). Por isso não fazemos conta de colágeno nem estimamos a parte dele na dose. O 80% HD e o 3W Core não têm peptídeos na lista.",
-          "Dose da ficha e dose do rótulo: a ficha do 100% HD Refil 900 g na loja diz \"Dose: 30\", e a tabela nutricional do rótulo diz 35 g. As contas deste artigo usam o rótulo."
+          "Dose da página e dose do rótulo: a página do 100% HD Refil 900 g diz \"Dose: 30\", e a tabela nutricional do rótulo diz 35 g. As contas deste artigo usam o rótulo."
         ],
         "postParagraphs": [
           "Em todos os casos vale a regra do artigo: a proteína por dose da tabela e o preço do dia. O nome do produto não diz a dose."
@@ -126358,7 +126488,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quadro da linha: os 11 wheys e o kit de Turbo do site",
         "paragraphs": [
-          "Os 11 wheys e o kit de Turbo do site na mesma régua, com o preço do site. Todos declaram \"Contém lactose\". O número mais baixo não decide a compra sozinho: a dose, o tipo de proteína e o sabor mudam de produto para produto."
+          "Na mesma régua, o 80% HD Refil é o menor preço por proteína e o Gourmet 450 g, o maior. Todos declaram \"Contém lactose\". O número mais baixo não decide a compra sozinho: a dose, o tipo de proteína e o sabor mudam de produto para produto."
         ],
         "image": {
           "src": "/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp",
@@ -126466,6 +126596,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual whey da Black Skull para cada objetivo",
+        "emphasis": "Pelos números da tabela, para pagar menos pela proteína a escolha é o 80% HD Refil 900 g, porque sai a R$ 23,17 por 100 g de proteína, o menor número da linha.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Cada objetivo de compra leva um whey diferente. O R$ por 100 g de proteína é a conta que usamos no artigo inteiro, e a última coluna mostra o mesmo número com o cupom CECILIA10."
         ],
@@ -126533,7 +126665,7 @@ export const reviewsData: unknown[] = [
           "Qual whey da Black Skull é o mais barato por proteína? O Whey 80% HD Refil 900 g: R$ 23,17 por 100 g de proteína, ou R$ 20,28 no sabor Banana. Entre os 100% HD, o de 1,8 kg, com R$ 26,66.",
           "A Black Skull tem whey isolado ou sem lactose? Não: todos os wheys da linha declaram \"Contém lactose\", e a busca por \"isolado\" no site voltou sem resultado.",
           "O 100% HD tem colágeno? O texto de venda da loja fala em \"peptídeos hidrolisados de colágeno\", e a lista de ingredientes diz só \"peptídeos hidrolisados\". A quantidade não é publicada.",
-          "Qual sabor da Black Skull é o melhor? A loja não publica venda por sabor e ninguém do site provou os wheys, então não escolhemos sabor. A lista dos sabores com estoque está no capítulo de sabor.",
+          "Qual sabor da Black Skull é o melhor? A loja não publica venda por sabor, então o guia não escolhe sabor. A lista dos sabores com estoque está no capítulo de sabor.",
           "Whey ajuda a emagrecer ou a ganhar massa? Este artigo compara rótulo, tabela e preço, e não trata desse objetivo. Quem tem objetivo de saúde ou de dieta deve falar com nutricionista."
         ]
       }
@@ -126572,23 +126704,16 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como comparamos",
-        "paragraphs": [
-          "Este guia compara whey e creatina da Black Skull, parceira do site, e da Dark Lab, que não é parceira, pelo que as duas lojas publicam: o rótulo, a ficha do produto e o preço do site, sem frete e sem desconto de Pix. Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
-          "A série compara a Black Skull com uma marca por vez: [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Black Skull ou Dux](/reviews/black-skull-ou-dux) seguem o mesmo método."
-        ]
-      },
-      {
         "heading": "De onde vem cada marca",
         "paragraphs": [
-          "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. Segundo o \"Sobre nós\" do site, o produto é desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O cadastro de CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, CNPJ 19.897.687/0001-38, ativa desde 18/03/2014 segundo a BrasilAPI. O \"USA\" aparece no endereço do site e no nome que a marca cita; a empresa do cadastro é brasileira.",
+          "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. O \"Sobre nós\" do site fala em produto desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O cadastro de CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, CNPJ 19.897.687/0001-38, ativa desde 18/03/2014 (BrasilAPI). O \"USA\" aparece no endereço do site e no nome que a marca cita; a empresa do cadastro é brasileira.",
           "O rodapé do site da Dark Lab cita a American Product LTDA, CNPJ 18.744.639/0001-47. A BrasilAPI registra a razão social AMERICAN PRODUCT LTDA, aberta em 2013. O endereço não entra aqui, porque o do rodapé e o do cadastro não coincidem."
         ]
       },
       {
         "heading": "Creatina: preço por 100 g de produto",
         "paragraphs": [
-          "A tabela compara o preço do pote por 100 g de produto. A dose de 5 g é a que cada loja indica: a Black Skull no rótulo da Creator e a Dark Lab na página do produto. Os preços são do site, lidos em 24/10/2026, sem desconto de Pix. As outras creatinas da Black Skull estão em [Creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher)."
+          "Na creatina, a Black Skull ganha em todos os tamanhos; a tabela compara o preço do pote por 100 g de produto. A dose de 5 g é a que cada loja indica: a Black Skull no rótulo da Creator e a Dark Lab na página do produto. Os preços são do site, lidos em 24/10/2026, sem desconto de Pix. As outras creatinas da Black Skull estão em [Creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher)."
         ],
         "images": [
           {
@@ -126607,6 +126732,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
+          "caption": "Preços do site oficial, sem frete, sem cupom e sem Pix; conta nossa por 100 g de produto.",
           "headers": [
             "Produto",
             "Tamanho",
@@ -126659,7 +126785,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: preço por 100 g de proteína",
         "paragraphs": [
-          "A conta é o preço dividido pela proteína total do pote, que é a proteína por dose vezes o número de doses. Na Black Skull 100% HD, o rótulo traz 25 porções de 35 g; a página diz 30, e a conta usa as 25 do rótulo. A Black Skull 80% HD tem sabores com preços diferentes: a conta usa R$ 159,90, o preço de Morango e Cookies; o sabor Banana saía por R$ 139,90 na ficha do produto. Os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher)."
+          "A conta é o preço dividido pela proteína total do pote, que é a proteína por dose vezes o número de doses. Na Black Skull 100% HD, o rótulo traz 25 porções de 35 g; a página diz 30, e a conta usa as 25 do rótulo. A Black Skull 80% HD tem sabores com preços diferentes: a conta usa R$ 159,90, o preço de Morango e Cookies; o sabor Banana saía por R$ 139,90 na página do produto. Os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher)."
         ],
         "images": [
           {
@@ -126671,6 +126797,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
+          "caption": "Preços do site oficial, sem frete, sem cupom e sem Pix; conta nossa por 100 g de proteína.",
           "headers": [
             "Produto",
             "Tamanho",
@@ -126718,7 +126845,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que o rótulo diz",
         "paragraphs": [
           "A Black Skull declara creatina monohidratada na lista de ingredientes da Creator. A Dark Lab não publica a tabela nutricional da creatina, então o texto não diz qual forma ela usa nem quanta creatina há em cada dose. Por isso a conta por 100 g compara o preço do pote, e não a creatina pura.",
-          "No whey, a Black Skull 80% HD declara só proteína concentrada do soro (WPC) e 23 g de proteína em cada 30 g. A 100% HD traz WPC, WPI, WPH e peptídeos hidrolisados, segundo a lista de ingredientes. A página da Dark Lab diz 21 g de proteína por dose de 30 g, e a embalagem traz o mesmo número.",
+          "No whey, a Black Skull 80% HD declara só proteína concentrada do soro (WPC) e 23 g de proteína em cada 30 g. Na 100% HD, a lista de ingredientes traz WPC, WPI, WPH e peptídeos hidrolisados. A página da Dark Lab diz 21 g de proteína por dose de 30 g, e a embalagem traz o mesmo número.",
           "Os dois wheys contêm lactose. Sobre glúten, a página da Dark Lab diz que o 100% Whey não contém, com exceção do sabor cookies. A tabela nutricional completa não está publicada no site da Dark Lab, então o texto não compara outros nutrientes."
         ]
       },
@@ -126730,6 +126857,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
+        "emphasis": "Pelos números da tabela, para quem decide pelo preço a escolha é a Black Skull nos dois produtos: creatina mais barata em todos os tamanhos e whey 80% HD com o menor preço por 100 g de proteína com o cupom.",
+        "emphasisAfterParagraph": 2,
         "paragraphs": [
           "**Creatina: a Black Skull.** O kit com dois refis de 500 g sai por R$ 7,58 por 100 g no site, ou R$ 6,82 com o cupom. A Creator refil de 500 g sai por R$ 7,98, ou R$ 7,18 com o cupom. A Dark Lab fica acima em todos os tamanhos da tabela. Este texto não traz cupom da Dark Lab.",
           "**Whey: depende do que você compara.**"
@@ -126740,7 +126869,7 @@ export const reviewsData: unknown[] = [
           "A Dark Lab 100% Whey refil custa menos por 100 g de proteína que a Black Skull 100% HD (R$ 23,79 contra R$ 30,46 no site), mas fica R$ 0,62 acima da 80% HD."
         ],
         "postParagraphs": [
-          "O texto não julga sabor nem qualidade geral: ninguém da equipe provou os produtos, e não coletamos avaliações de clientes."
+          "Sabor, dissolução, digestão e avaliações de clientes ficam fora: a comparação é só de rótulo, página do produto e preço. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista. A mesma comparação com outras marcas está em [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Black Skull ou Dux](/reviews/black-skull-ou-dux)."
         ]
       },
       {
@@ -126752,6 +126881,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Black Skull 80% HD se você quer mais proteína por dose na mesma porção de 30 g: 23 g contra 21 g.",
+        "Leve a Dark Lab 100% Whey refil se você compara com o 100% HD da Black Skull: ele custa menos por 100 g de proteína."
+      ],
+      "skipIf": [
+        "Passe na Dark Lab se você compara outros nutrientes do whey: a tabela nutricional completa não está publicada no site.",
+        "Passe na Dark Lab se você decide a creatina pela forma ou pela dose de creatina: a tabela da creatina não é publicada."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -126762,7 +126901,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA10",
     "affiliate": "black-skull",
-    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Dark Lab não é parceira.",
+    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Dark Lab não é parceira. Não provamos os produtos.",
     "relatedArticles": [
       {
         "slug": "black-skull-ou-growth",
@@ -126813,7 +126952,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os três snacks em uma tabela",
         "paragraphs": [
-          "Este texto compara os snacks da Dr. Peanut entre si: a Doctor Bar, o alfajor e a Doctor Wafer. Não compara com barras de outras marcas e não diz qual sabor é o melhor. As pastas de amendoim e o whey ficam de fora; a tabela deles está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor). Cada linha é um sabor, com os números da tabela publicada pela loja, lida em 24/10/2026."
+          "Este texto compara a Doctor Bar, o alfajor e a Doctor Wafer entre si: a barra tem mais proteína, o wafer tem menos calorias, e o alfajor fica no meio. Não compara com barras de outras marcas e não diz qual sabor é o melhor. As pastas de amendoim e o whey ficam de fora; a tabela deles está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor). Cada linha é um sabor, com os números da tabela publicada pela loja, lida em 24/10/2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -127058,6 +127197,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
+        "emphasis": "Pelos números da tabela, para quem quer mais proteína por unidade a escolha é a Doctor Bar, porque ela tem 21 g contra menos de 6 g dos outros dois.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Nenhum dos três ganha em tudo. A escolha depende do que pesa mais para você:"
         ],
@@ -127077,11 +127218,23 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Doctor Bar tem glúten? Tem. A página da Doctor Bar Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. O Speculoos não tem tabela publicada, e o aviso dele não foi conferido.",
           "Doctor Bar vende avulsa? Não. A loja vende só em display de 8 barras, por R$ 122,03, o que dá R$ 15,25 por barra na conta.",
-          "Alfajor Dr. Peanut tem quantas calorias? Tem de 158 a 183 kcal por unidade de 35 g, conforme o sabor, segundo a tabela publicada pela loja.",
+          "Alfajor Dr. Peanut tem quantas calorias? Tem de 158 a 183 kcal por unidade de 35 g, conforme o sabor, na tabela publicada pela loja.",
           "Qual snack tem mais proteína? Por unidade, a Doctor Bar, com 21 g. O alfajor tem de 4 a 4,7 g, e o wafer, de 5 a 6 g."
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve a Doctor Bar se você quer mais proteína por unidade: 21 g.",
+        "Leve a Doctor Wafer se você quer menos calorias por unidade, de 118 a 127 kcal, e o menor preço por unidade.",
+        "Leve o alfajor Avelã ou Cookies & Cream se você quer o menor açúcar total: 0,8 g por unidade."
+      ],
+      "skipIf": [
+        "Passe nos três se você escolhe pelo sabor: o guia compara só os números da tabela.",
+        "Passe no alfajor se você precisa evitar glúten ou lactose: a loja não publica o aviso de alérgicos dele.",
+        "Passe na escolha por tabela se você precisa encaixar o snack numa dieta: isso é com nutricionista ou médico."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -127337,6 +127490,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual tamanho compensa",
+        "emphasis": "Pelos números da tabela, para quem come pasta todo dia a escolha é o kit de 5 × 600 g com cupom, porque ele tem o menor preço por 100 g e frete grátis em todas as regiões.",
+        "emphasisAfterParagraph": 5,
         "paragraphs": [
           "Para quem come pasta todo dia e tem espaço para guardar, o kit de 5 × 600 g tem o menor preço por grama: R$ 8,41 sem cupom e R$ 7,57 com cupom, com frete grátis em todas as regiões.",
           "Para uma compra só, sem kit, o pote de 600 g: R$ 9,98 por 100 g, ou R$ 8,98 com cupom.",
@@ -127355,6 +127510,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Leve o kit de 5 × 600 g com cupom se você come pasta todo dia: tem o menor preço por 100 g e frete grátis em todas as regiões.",
+        "Leve a assinatura com cupom se você quer potes de 250 g todo mês: ela sai abaixo do kit de 250 g com cupom.",
+        "Leve o pote de 600 g se você vai fazer uma compra só, sem kit."
+      ],
+      "skipIf": [
+        "Passe no pote avulso de 250 g se você quer mais de um pote: é o mais caro por grama.",
+        "Passe na loja se você busca pote de 800 g ou de 1 kg: não há, e o equivalente é o kit de 4 × 250 g ou a assinatura."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -127418,13 +127584,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Cléa Store vende peças avulsas. No catálogo lido, não há conjunto de alfaiataria. O único \"conjunto\" da loja é de crochê, por R$ 1.490. Também não há pantalona de alfaiataria fora de duas calças, que aparecem mais abaixo.",
           "Para ter um conjunto de alfaiataria de verão, a saída é juntar um blazer ou colete com uma calça ou short da mesma cor e do mesmo tecido. O capítulo Montar um conjunto mostra três combinações desse tipo, com a conta e o cupom.",
-          "Não compramos nem testamos nenhuma destas peças. O que está aqui vem das fichas e das páginas da loja."
+          "Não compramos nem testamos nenhuma destas peças. O que está aqui vem das páginas da loja."
         ]
       },
       {
         "heading": "Tecido: o que a ficha diz",
         "paragraphs": [
-          "A loja não publica a gramatura do tecido, então este texto não compara peso. Forro aparece só nos blazers 4305 e 4307. Nas outras peças, a ficha não informa."
+          "A loja não publica a gramatura do tecido, então este texto não compara peso. Forro aparece só nos blazers 4305 e 4307. Nas outras peças, a página não diz."
         ],
         "comparisonTable": {
           "headers": [
@@ -127526,9 +127692,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Blazer: linho, mistura com elastano ou poliéster com forro",
         "paragraphs": [
-          "Três blazers estão à venda, cada um com um tecido diferente.",
+          "Nos blazers, o tecido decide: linho puro, mistura com elastano ou poliéster com forro.",
           "O de linho 100% (4404) custa R$ 899,00 e tem grade de M e G. A ficha não informa forro.",
-          "O curto cropped (4348) é de 95% poliéster e 5% elastano, segundo a ficha. Custa R$ 428,00, com P e M, e a ficha não informa forro.",
+          "A página do curto cropped (4348) diz 95% poliéster e 5% elastano. Custa R$ 428,00, com P e M, e a ficha não informa forro.",
           "O oversized de mescla (4307) é de 70% poliéster e 30% viscose, com forro de 97% poliéster e 3% elastano. Custa R$ 524,30, de R$ 749,00, mas só tem P.",
           "Os dois blazers esgotados, o risca de giz (4282) e o bordô (4305), não entram nas montagens: no dia da leitura, nenhum dos dois tinha tamanho disponível.",
           "Se a pergunta é qual tecido usar no calor, a ficha só diz a composição. Veja o capítulo Calor: o que a ficha permite dizer."
@@ -127586,7 +127752,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Colete: linho bege ou vermelho",
         "paragraphs": [
-          "Os dois coletes são de linho 100%, segundo a ficha.",
+          "A página traz os dois coletes em linho 100%.",
           "O bege (4221) está por R$ 299,40, de R$ 499,00, com PP e P. O vermelho (4393) custa R$ 799,00 e tem P e G. Nos dois, a grade está quebrada, então o tamanho decide antes do modelo."
         ],
         "images": [
@@ -127756,7 +127922,7 @@ export const reviewsData: unknown[] = [
         "heading": "Código e onde comprar",
         "paragraphs": [
           "O cupom é CSEMCASACOMCECILIA, com 10% em todo o site sobre o preço do dia, em todas as formas de pagamento. Ele soma com as promoções da loja. Use o código no checkout.",
-          "A devolução é grátis, segundo a loja. Troca direta de tamanho e reembolso de compra com cupom não estão confirmados, então este texto não conta com eles.",
+          "A página da loja diz que a devolução é grátis. Troca direta de tamanho e reembolso de compra com cupom não estão confirmados, então este texto não conta com eles.",
           "Regras do cupom na [página da Cléa Store](/cupons/clea-store). Compra no [site oficial da Cléa Store](https://www.cleastore.com.br/). A loja também vende no Mercado Livre, e a diferença está em [Mercado Livre ou site](/reviews/clea-store-mercado-livre-ou-site)."
         ]
       },
@@ -127765,7 +127931,9 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se a grade do seu tamanho está aberta, a montagem rosa é a mais simples: tudo em linho, numa cor só, com blazer e short no mesmo tom. Ela também é a mais cara, R$ 1.330,20 com o cupom. A bege é a mais barata, R$ 772,56 com o cupom, porque o colete está em promoção. Quem quer colete com calça de linho escolhe o bege se for PP ou P, e o vermelho se for P ou G. Para calça, a caqui (4416) e a vermelha (4414) estão em pré-venda, só em 36 e 38. Quem quer blazer com forro declarado só tem o mescla (4307), e só em P.",
           "Se a peça é para o trabalho no inverno, o [look de trabalho com alfaiataria](/reviews/look-trabalho-alfaiataria-feminina-clea-store) mostra outras combinações. Por baixo do blazer, o [guia de bodies da Cléa Store](/reviews/body-clea-store-second-skin-qual-escolher) compara os modelos."
-        ]
+        ],
+        "emphasis": "A montagem rosa é a mais simples, toda em linho e numa cor só; para PP ou P, a bege sai mais barata.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Perguntas frequentes",
@@ -127778,6 +127946,15 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Quem quer o conjunto mais simples: a montagem rosa, toda em linho e numa cor só.",
+        "Quem veste PP ou P e quer colete com calça pelo menor total: a montagem bege."
+      ],
+      "skipIf": [
+        "Quem procura conjunto pronto: a loja não vende, só peças avulsas para montar."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -127844,11 +128021,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de escolher: o que o rótulo mostra",
         "paragraphs": [
-          "Quem compara creatina costuma olhar o peso do pote e o preço. Só que o peso sozinho engana: um pote de 300 g com dose de 6 g rende menos doses que um de 300 g com dose de 5 g. Por isso a conta aqui é por 100 g de creatina, não de pote: o preço dividido pelos gramas de creatina que o pote traz, segundo a tabela nutricional.",
+          "O peso do pote sozinho engana: 300 g com dose de 6 g rendem menos doses que 300 g com dose de 5 g. Por isso a conta aqui é por 100 g de creatina, não de pote: o preço dividido pelos gramas de creatina declarados na tabela nutricional.",
           "Quatro itens do rótulo decidem a conta:"
         ],
         "bullets": [
-          "**Porção:** a quantidade de pó por dose (5 g, 6 g ou 10 g, conforme o produto).",
+          "**Porção:** a quantidade de pó por dose (5 g, 6 g ou 10 g, na tabela de cada um).",
           "**Creatina por porção:** o número que importa. A tabela mostra em miligramas, e 5.000 mg são 5 g.",
           "**Carboidrato e calorias:** a tabela mostra por porção; sobem quando a fórmula tem maltodextrina, e na versão com sabor podem aparecer em quantidade pequena.",
           "**Ingredientes:** aromatizante, edulcorante e corantes entram na lista quando o produto tem sabor."
@@ -127936,8 +128113,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tem o mesmo efeito? O que o rótulo diz",
         "paragraphs": [
-          "Pelo rótulo, a creatina por dose é a mesma com e sem sabor na mesma marca: 5.000 mg. O que muda é o peso da porção. Na Black Skull de 300 g, a versão com sabor tem porção de 6 g e a sem sabor, de 5 g. Na Max, a 7Belo com sabor tem porção de 6 g e a 300 g sem sabor, de 5 g. Nenhuma das duas fichas explica o grama a mais; a lista de ingredientes da versão com sabor traz aromatizante, ácido málico, sucralose e corantes, e a tabela da Black Skull com sabor traz 0,4 g de carboidrato por dose.",
-          "O que sobra de diferença, então, é a porção, o preço por grama de creatina e a lista de ingredientes. Nenhuma ficha lida diz que o sabor muda o que a creatina faz, e este texto também não diz."
+          "Pelo rótulo, a creatina por dose é a mesma com e sem sabor na mesma marca: 5.000 mg. O que muda é o peso da porção. Na Black Skull de 300 g, a versão com sabor tem porção de 6 g e a sem sabor, de 5 g. Na Max, a 7Belo com sabor tem porção de 6 g e a 300 g sem sabor, de 5 g. Nenhuma das duas páginas explica o grama a mais; a lista de ingredientes da versão com sabor traz aromatizante, ácido málico, sucralose e corantes; a tabela da Black Skull com sabor traz 0,4 g de carboidrato por dose.",
+          "O que sobra de diferença, então, é a porção, o preço por grama de creatina e a lista de ingredientes. Nenhuma página lida diz que o sabor muda o que a creatina faz; este texto também não diz."
         ]
       },
       {
@@ -127961,7 +128138,7 @@ export const reviewsData: unknown[] = [
         "heading": "Max Titanium: o sabor custa mais por grama",
         "paragraphs": [
           "A Max Creatina 7Belo de 300 g veio só em framboesa na página lida. A lista traz creatina monohidratada, aromatizante, ácido málico, sucralose e corantes (vermelho allura AC, amaranto e azul brilhante FCF). A tabela diz porção de 6 g (um dosador e meio), com 5.000 mg de creatina e carboidrato zero em quantidade significativa. São 50 porções, e o pote sai a R$ 26,47 por 100 g de creatina.",
-          "A página da 7Belo não traz modo de preparo nem marcação do dosador. A porção de 6 g vem só da tabela, e a ficha não explica o grama a mais em relação aos 5 g do pote sem sabor da mesma marca."
+          "A página da 7Belo não traz modo de preparo nem marcação do dosador. A porção de 6 g vem só da tabela, e a página não explica o grama a mais em relação aos 5 g do pote sem sabor da mesma marca."
         ]
       },
       {
@@ -127971,7 +128148,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Creatina Monohidratada Pura, 300 g:** R$ 59,90 (de R$ 75,10), 5 g por dose, 60 porções e 5.000 mg por porção. Sai a R$ 19,97 por 100 g de creatina.",
-          "**Mix Pro, 300 g:** R$ 40,94. A ficha traz creatina e maltodextrina, sem aromatizante. A tabela traz porção de 6 g com 3.000 mg de creatina e 11 kcal, o que dá 50 porções e R$ 27,29 por 100 g de creatina. A página traz 5 g por dose; a conta usa a tabela."
+          "**Mix Pro, 300 g:** R$ 40,94. A página traz creatina e maltodextrina, sem aromatizante. A tabela traz porção de 6 g com 3.000 mg de creatina e 11 kcal: 50 porções e R$ 27,29 por 100 g de creatina. A página traz 5 g por dose; a conta usa a tabela."
         ],
         "images": [
           {
@@ -127988,7 +128165,7 @@ export const reviewsData: unknown[] = [
           "**Mix Pro:** a página diz 5 g por dose; a tabela diz 6 g de porção com 3.000 mg de creatina. A conta usa a tabela, e a diferença fica registrada aqui.",
           "**Max Creatina 300 g:** a página manda encher o dosador até a marcação de 3 g; a tabela traz porção de 5 g com 5.000 mg. A conta usa a tabela. Confira a marcação na embalagem antes de preparar.",
           "**Max Creatina 7Belo:** a porção de 6 g vem só da tabela, e a página não traz modo de preparo nem marcação de dosador.",
-          "**Creatine Turbo de 150 g:** fica fora desta tabela. A ficha da página diz 2 dosadores (10 g) e a tabela traz 6 g de porção. Os sabores laranja, limão e uva estavam sem estoque, e só o sem sabor aparecia, a R$ 17,94."
+          "**Creatine Turbo de 150 g:** fica fora desta tabela. A página diz 2 dosadores (10 g) e a tabela traz 6 g de porção. Os sabores laranja, limão e uva estavam sem estoque, e só o sem sabor aparecia, a R$ 17,94."
         ]
       },
       {
@@ -128021,6 +128198,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Quem quer sabor com carboidrato zero declarado na tabela: a Max 7Belo, em framboesa.",
+        "Quem quer o carboidrato na dose: a Creatine Turbo da Black Skull."
+      ],
+      "skipIf": [
+        "Quem não quer carboidrato na dose: a Turbo não serve, nem a Mix Pro, que leva maltodextrina.",
+        "Quem aceita creatina sem sabor: o pote sem sabor da Black Skull rende mais doses pelo mesmo preço.",
+        "Quem procura creatina com sabor da Probiótica: o catálogo lido não traz nenhuma."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -128080,17 +128268,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como comparamos",
-        "paragraphs": [
-          "Este guia compara whey e creatina da Black Skull, parceira do site, com os da Integralmédica, que não é parceira. A base é o que as duas lojas publicam: o rótulo, a ficha do produto e o preço do site lido em 25/10/2026, sem frete e sem desconto de Pix. Entram os tamanhos que mais se parecem entre as duas: whey de 900 g e de 1,8 kg, creatina de 500 g e de 1 kg. Ficam de fora o pote de 900 g da Integralmédica, que tem o mesmo rótulo do pouch de 900 g em outra embalagem, o Whey Turbo da Black Skull, que é hipercalórico, e os outros produtos das duas marcas.",
-          "Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
-          "A série compara a Black Skull com uma marca por vez: [Black Skull ou Growth](/reviews/black-skull-ou-growth), [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Black Skull ou Dark Lab](/reviews/black-skull-ou-dark-lab) seguem o mesmo método."
-        ]
-      },
-      {
         "heading": "De onde vem cada marca",
         "paragraphs": [
-          "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. Segundo o \"Sobre nós\" do site, o produto é desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, ativa desde 2014 segundo a BrasilAPI.",
+          "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. O \"Sobre nós\" do site diz que o produto é desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, ativa desde 2014 segundo a BrasilAPI.",
           "O rodapé do site da Integralmédica diz que a loja é operada pela After Click, CNPJ 58.450.630/0001-48, de Extrema (MG). A BrasilAPI registra a razão social AFTERCLICK SERVICOS INTEGRADOS LTDA como ativa, aberta em 2024. O \"Sobre nós\" da Integralmédica diz que a marca tem mais de 40 anos de história e que o Grupo BRG reúne a Integralmédica e outras marcas. A Black Skull não está entre elas.",
           "Nas fontes oficiais, são empresas diferentes. A leitura não achou o cadastro do Grupo BRG, então o texto não vai além do que as fontes dizem. Sobre a confiança da loja, veja [Black Skull é confiável?](/reviews/black-skull-e-confiavel)."
         ]
@@ -128098,7 +128278,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g de produto",
         "paragraphs": [
-          "A tabela compara as creatinas por 100 g de produto, nos tamanhos de 500 g e de 1 kg. A dose é de 5 g nos dois rótulos, com creatina monohidratada. \"100% Pura\" é o nome do produto da Integralmédica, não um selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, lidos no site, sem desconto de Pix. A Creator de 300 g e as outras creatinas da Black Skull estão em [Creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher)."
+          "Na creatina, a Black Skull sai mais barata por 100 g nos dois tamanhos comparados. A dose é de 5 g nos dois rótulos, com creatina monohidratada. \"100% Pura\" é o nome do produto da Integralmédica, não um selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, lidos no site, sem desconto de Pix. A Creator de 300 g e as outras creatinas da Black Skull estão em [Creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher)."
         ],
         "images": [
           {
@@ -128110,6 +128290,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
+          "caption": "Preços do site em 25/10/2026, sem frete e sem desconto de Pix; conta nossa por 100 g de produto.",
           "headers": [
             "Produto",
             "Tamanho",
@@ -128150,7 +128331,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: preço por 100 g de proteína",
         "paragraphs": [
-          "A conta é o preço dividido pela proteína total da embalagem: a proteína de cada dose vezes o número de porções do rótulo. A Black Skull 80% HD tem sabores com preços diferentes: no site, baunilha, chocolate, morango e cookies custavam R$ 159,90, e banana, R$ 139,90. A conta usa R$ 159,90; no sabor banana, ela cai para R$ 20,28 por 100 g de proteína. A 100% HD de 1,8 kg custava R$ 279,90 em todos os sabores. O refil de 900 g da 100% HD e os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher)."
+          "No whey, a Black Skull 80% HD tem o menor preço por 100 g de proteína da tabela, dividindo o preço pela proteína total da embalagem. A Black Skull 80% HD tem sabores com preços diferentes: no site, baunilha, chocolate, morango e cookies custavam R$ 159,90, e banana, R$ 139,90. A conta usa R$ 159,90; no sabor banana, ela cai para R$ 20,28 por 100 g de proteína. A 100% HD de 1,8 kg custava R$ 279,90 em todos os sabores. O refil de 900 g da 100% HD e os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher). Ficam de fora o pote de 900 g da Integralmédica, que tem o mesmo rótulo do pouch de 900 g em outra embalagem, e o Whey Turbo da Black Skull, que é hipercalórico."
         ],
         "images": [
           {
@@ -128162,6 +128343,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
+          "caption": "Preços do site em 25/10/2026, sem frete e sem desconto de Pix; conta nossa por 100 g de proteína.",
           "headers": [
             "Produto",
             "Tamanho",
@@ -128207,8 +128389,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o rótulo diz",
         "paragraphs": [
-          "A creatina Creator da Black Skull declara creatina monohidratada e dose de 5 g. Na Integralmédica, a 100% Pura traz porção de 5 g (5.000 mg), creatina monohidratada e não contém glúten, segundo o site. A Hardcore traz a mesma porção de 5 g e pode conter leite, soja e ovo, segundo o rótulo.",
-          "No whey, a 80% HD da Black Skull traz 23 g de proteína em cada porção de 30 g, e a 100% HD de 1,8 kg traz 21 g em cada 35 g. Os pouches da Integralmédica trazem 21 g em cada porção de 30 g. A lista de ingredientes do pouch de 1,8 kg da Integralmédica cita proteína de soro do leite concentrada, aromatizante e edulcorante sucralose. A ficha da 80% HD da Black Skull também lista edulcorante sucralose, em todos os sabores. Nesse ponto as duas se igualam, e a conta de preço não muda por isso."
+          "A creatina Creator da Black Skull declara creatina monohidratada e dose de 5 g. Na Integralmédica, a 100% Pura traz porção de 5 g (5.000 mg), creatina monohidratada, e a página diz: não contém glúten. A Hardcore traz a mesma porção de 5 g e o rótulo diz que pode conter leite, soja e ovo.",
+          "No whey, a 80% HD da Black Skull traz 23 g de proteína em cada porção de 30 g, e a 100% HD de 1,8 kg traz 21 g em cada 35 g. Os pouches da Integralmédica trazem 21 g em cada porção de 30 g. A lista de ingredientes do pouch de 1,8 kg da Integralmédica cita proteína de soro do leite concentrada, aromatizante e edulcorante sucralose. A página da 80% HD também lista edulcorante sucralose, em todos os sabores. Nesse ponto as duas se igualam, e a conta de preço não muda por isso."
         ],
         "images": [
           {
@@ -128230,15 +128412,18 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher",
         "paragraphs": [
           "**Creatina: a Black Skull.** O kit com dois refis de 500 g sai por R$ 7,58 por 100 g no cartão, ou R$ 6,82 com o CECILIA10. A Integralmédica fica acima em todos os tamanhos da tabela; o menor preço dela é R$ 13,20 por 100 g, no Hardcore de 500 g.",
-          "**Whey: depende do que você compara.**"
+          "**Whey: depende do que você compara.**",
+          "A série compara a Black Skull com uma marca por vez: [Black Skull ou Growth](/reviews/black-skull-ou-growth), [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Black Skull ou Dark Lab](/reviews/black-skull-ou-dark-lab)."
         ],
+        "emphasis": "Pelos números da tabela, para quem quer o menor preço por proteína a escolha é a Black Skull 80% HD, porque sai a R$ 23,17 por 100 g no cartão.",
+        "emphasisAfterParagraph": 2,
         "bullets": [
           "Para o menor preço por grama de proteína, a Black Skull 80% HD: R$ 23,17 por 100 g no cartão, ou R$ 20,86 com o CECILIA10.",
           "Para o tamanho de 1,8 kg, a Black Skull 100% HD sai por R$ 26,66 por 100 g no cartão, ou R$ 23,99 com o cupom, contra R$ 32,06 do pouch de mesmo tamanho da Integralmédica.",
           "O pouch de 900 g da Integralmédica sai por R$ 36,03 por 100 g de proteína, o maior valor da tabela."
         ],
         "postParagraphs": [
-          "O texto não julga sabor nem qualidade geral: ninguém da equipe provou os produtos, e não coletamos avaliações de clientes."
+          "Sabor e qualidade geral ficam de fora: o texto compara rótulo e preço, sem prova dos produtos. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
         ]
       },
       {
@@ -128251,6 +128436,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Quem quer whey pelo menor preço por proteína: o 80% HD da Black Skull.",
+        "Quem quer creatina pelo menor preço por 100 g de produto: o kit com dois refis da Black Skull.",
+        "Quem compra whey de 1,8 kg: a Black Skull 100% HD sai abaixo do pouch da Integralmédica."
+      ],
+      "skipIf": [
+        "Quem decide por sabor ou qualidade geral: o guia compara rótulo e preço, sem prova dos produtos.",
+        "Quem pensa no pouch de 900 g da Integralmédica: é o maior preço por proteína da tabela."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -128314,14 +128510,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como comparamos, sem degustação",
-        "paragraphs": [
-          "Este guia compara a Dr. Peanut com a La Ganexa pelo que as duas lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de cupom. Ninguém da equipe provou as pastas, então sabor e textura ficam de fora.",
-          "Os preços são de 25/10/2026, sem frete e no preço \"por\" de cada site. A tabela da Dr. Peanut é a publicada pela loja; a da La Ganexa, a publicada pelo site dela. Os números por 100 g e os preços com cupom são contas nossas.",
-          "As duas lojas usam porções diferentes no rótulo: 15 g na Dr. Peanut e 20 g na La Ganexa. Por isso o texto compara sempre por 100 g, e não por pote nem por porção."
-        ]
-      },
-      {
         "heading": "O que muda entre as duas",
         "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-pote-buenissimo-600g.webp",
         "imageAlt": "Pote de 600 g de pasta de amendoim Dr. Peanut sabor Bueníssimo, em foto oficial da loja",
@@ -128374,6 +128562,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Proteína, açúcares e polióis por 100 g",
         "paragraphs": [
+          "As duas lojas usam porções diferentes no rótulo: 15 g na Dr. Peanut e 20 g na La Ganexa. Por isso o texto compara sempre por 100 g, e não por pote nem por porção.",
           "Na Dr. Peanut, os 10 sabores têm de 17 a 20 g de proteína por 100 g. Os açúcares totais vão de 4,6 a 10 g, e os polióis, de 6,4 a 20 g. Os sabores um a um estão em [Dr. Peanut: qual o melhor sabor?](/reviews/dr-peanut-melhor-sabor).",
           "Na La Ganexa, a tabela publicada pela loja traz, por 100 g, para os 12 sabores com tabela:"
         ],
@@ -128473,7 +128662,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As duas lojas declaram 0 g de açúcar adicionado nas tabelas. Por isso o texto diz \"sem adição de açúcar\" e põe os açúcares totais ao lado: de 4,6 a 10 g na Dr. Peanut e de 4,8 a 14 g na La Ganexa. Por 100 g, o sódio da Dr. Peanut vai de 127 a 193 mg (conta nossa, a partir da porção de 15 g); o da La Ganexa, de 5,9 a 324 mg, conforme o sabor."
+          "As duas lojas declaram 0 g de açúcar adicionado nas tabelas. Por isso o texto diz \"sem adição de açúcar\" e põe os açúcares totais ao lado: de 4,6 a 10 g na Dr. Peanut e de 4,8 a 14 g na La Ganexa. Por 100 g, o sódio da Dr. Peanut vai de 127 a 193 mg (conta nossa, a partir da porção de 15 g); o da La Ganexa, de 5,9 a 324 mg, de um sabor para outro."
         ]
       },
       {
@@ -128491,6 +128680,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain",
         "imageAspectRatio": 1.3333,
         "comparisonTable": {
+          "caption": "Preços do site em 25/10/2026, sem frete, no preço \"por\" de cada site; conta nossa por 100 g.",
           "headers": [
             "Pote",
             "Dr. Peanut",
@@ -128529,6 +128719,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pelos rótulos e pelos preços:"
         ],
+        "emphasis": "Pelos números da tabela, para quem compra o pote grande a escolha é a La Ganexa de 1 kg, porque sai mais barata por 100 g na maioria dos sabores, mesmo contra a Dr. Peanut com cupom.",
+        "emphasisAfterParagraph": 1,
         "bullets": [
           "Quer pasta só de amendoim, vegana ou sem lactose: La Ganexa, com a Natural, a Crocante e a Avelã Vegana. Nenhuma pasta da Dr. Peanut é sem lactose.",
           "Quer mais proteína por 100 g: a La Ganexa tem 24 g na Natural, na Crocante e na Avelã Vegana e de 22 a 23 g nas de chocolate e de doce de leite. Nos outros sabores de sobremesa, as duas ficam perto: de 17 a 20 g na Dr. Peanut e de 16 a 21 g na La Ganexa.",
@@ -128538,7 +128730,7 @@ export const reviewsData: unknown[] = [
           "Quer menos açúcares totais em sabor doce: há empate na faixa. A Dr. Peanut vai de 4,6 a 10 g; a La Ganexa, de 4,8 a 14 g, com Leitinho e Leitinho Black no topo."
         ],
         "postParagraphs": [
-          "Não há vencedora geral. Os números são de 25/10/2026, data em que as duas lojas estavam em promoção: refaça a conta com o preço do dia antes de comprar."
+          "Não há vencedora geral. Os números são de 25/10/2026, data em que as duas lojas estavam em promoção: refaça a conta com o preço do dia antes de comprar. Sabor e textura ficam de fora: o texto compara rótulo e preço, sem degustação."
         ]
       },
       {
@@ -128552,6 +128744,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Quem quer pasta só de amendoim, vegana ou sem lactose: a La Ganexa, única com essas opções.",
+        "Quem quer pote pequeno com sabor de sobremesa pelo menor preço: a Dr. Peanut de 250 g, com o cupom."
+      ],
+      "skipIf": [
+        "Quem quer o pote grande mais barato: a Dr. Peanut perde na maioria dos sabores de 1 kg da La Ganexa, mesmo com cupom.",
+        "Quem quer pote pequeno da La Ganexa com sabor: ela parte de um preço por 100 g acima da Dr. Peanut de 250 g com cupom."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -128607,7 +128809,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para quem já usa creatina ou whey, um kit é o caminho mais direto. Para quem não sabe o que a pessoa toma, coqueteleira ou camiseta é a aposta mais simples. O tamanho da camiseta e o estoque que a ficha mostra pesam na escolha: veja em Qual presente escolher."
+          "Para quem já usa creatina ou whey, um kit é o caminho mais direto. Para quem não sabe o que a pessoa toma, coqueteleira ou camiseta é a aposta mais simples. O tamanho da camiseta e o estoque anunciado pesam na escolha: veja em Qual presente escolher."
         ]
       },
       {
@@ -128617,7 +128819,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Os preços são de venda, lidos em 25/10/2026 (os da Dr. Peanut foram lidos um dia antes e conferidos nessa data). Preço muda com promoção e estoque, e o carrinho é a referência final.",
-          "\"Sem controle de estoque\" quer dizer que a loja não mostra a quantidade. Não prova que o item está disponível. Quando a ficha mostra unidades por tamanho ou cor, o texto diz quais.",
+          "\"Sem controle de estoque\" quer dizer que a loja não mostra a quantidade. Não prova que o item está disponível. Quando a loja mostra unidades por tamanho ou cor, o texto diz quais.",
           "Pré-treinos, termogênicos, colágeno e os kits com nome de atleta ficaram fora da lista.",
           "O cupom de cada loja vem depois da tabela, em Cupom de cada loja."
         ],
@@ -128643,7 +128845,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quem não sabe o que a pessoa usa",
         "paragraphs": [
           "Coqueteleira e camiseta servem para quem não sabe o que a pessoa toma. A coqueteleira de 600 ml da Black Skull, a mais barata desta lista, sai por R$ 19,90. A Probiótica tem a de 700 ml nas cores preta, rosa e incolor, por R$ 24,90, de R$ 29,90 na tabela.",
-          "A camiseta 100% Algodão da Black Skull custa R$ 78,90, e a ficha mostrava unidades de P a XGG. A Camiseta Branca da Probiótica sai por R$ 69,90; a ficha mostrava zero unidade em P e unidades de M a XG."
+          "A camiseta 100% Algodão da Black Skull custa R$ 78,90, e a loja mostrava unidades de P a XGG. A Camiseta Branca da Probiótica sai por R$ 69,90; a loja mostrava zero unidade em P e unidades de M a XG."
         ],
         "image": {
           "src": "/images/reviews/presentes/presente-natal-quem-treina-coqueteleira-probiotica.webp",
@@ -128656,7 +128858,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fitness feminino",
         "paragraphs": [
-          "Poucas peças femininas aparecem com tamanhos na ficha das lojas. A Max Titanium tem a Camiseta Feminina Oversized Redemption, por R$ 119,00, com P, M e G na ficha e o GG zerado. A mesma loja vende o Femini Whey 900 g, por R$ 130,00 (de R$ 147,25), e o kit dele com a creatina de 300 g, por R$ 189,90. A ficha dos dois não mostra quantidade, e o que o Femini Whey tem está na tabela nutricional da página dele."
+          "Poucas peças femininas trazem tamanhos na página das lojas. A Max Titanium tem a Camiseta Feminina Oversized Redemption, por R$ 119,00, com P, M e G na página e o GG zerado. A mesma loja vende o Femini Whey 900 g, por R$ 130,00 (de R$ 147,25), e o kit dele com a creatina de 300 g, por R$ 189,90. A página dos dois não traz quantidade, e o que o Femini Whey tem está na tabela nutricional da página dele."
         ],
         "image": {
           "src": "/images/reviews/presentes/presente-natal-quem-treina-camiseta-feminina-max.webp",
@@ -128669,8 +128871,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem gosta de doce e treina",
         "paragraphs": [
-          "Os snacks da Dr. Peanut são a opção de doce. O display de 8 Doctor Bar de 62 g sai por R$ 122,03, e o rótulo diz \"contém glúten\" e \"contém lactose\". Os kits de alfajor saem por R$ 64,95 (5 unidades) e R$ 129,90 (10 unidades); os de Doctor Wafer, por R$ 65,34 (6) e R$ 130,68 (12).",
-          "A loja não publica os ingredientes nem os alérgicos dos alfajores, só a tabela nutricional em imagem. Por isso o texto não diz o que tem neles. Quem tem restrição lê o rótulo e pergunta a um nutricionista ou médico. Para comparar sabores, veja o [guia de snacks da Dr. Peanut](/reviews/snacks-dr-peanut-qual-escolher)."
+          "Para quem gosta de doce, o acerto está nos snacks da Dr. Peanut: alfajor, wafer ou barra. O display de 8 Doctor Bar de 62 g sai por R$ 122,03, e o rótulo diz \"contém glúten\" e \"contém lactose\". Os kits de alfajor saem por R$ 64,95 (5 unidades) e R$ 129,90 (10 unidades); os de Doctor Wafer, por R$ 65,34 (6) e R$ 130,68 (12).",
+          "Do alfajor, a loja publica só a tabela nutricional em imagem, sem ingredientes nem alérgicos. Quem tem restrição lê o rótulo e pergunta a um nutricionista ou médico. Para comparar sabores, veja o [guia de snacks da Dr. Peanut](/reviews/snacks-dr-peanut-qual-escolher)."
         ],
         "image": {
           "src": "/images/reviews/presentes/presente-natal-quem-treina-display-dr-peanut.webp",
@@ -128974,7 +129176,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 132,81.",
           "Quem não sabe o que a pessoa usa: a coqueteleira da Black Skull, por R$ 19,90, ou a camiseta, por R$ 69,90 na Probiótica ou R$ 78,90 na Black Skull.",
-          "Fitness feminino: a Camiseta Feminina Oversized Redemption da Max Titanium, por R$ 119,00, é a peça com tamanhos na ficha; o Femini Whey, por R$ 130,00, é o suplemento da lista.",
+          "Fitness feminino: a Camiseta Feminina Oversized Redemption da Max Titanium, por R$ 119,00, é a peça com tamanhos; o Femini Whey, por R$ 130,00, é o suplemento da lista.",
           "Quem gosta de doce: o kit de 10 alfajores da Dr. Peanut, por R$ 129,90, ou o de 12 wafers, por R$ 130,68, com o rótulo de cada um.",
           "Lembrança de beleza: o Kit Miniaturas da Skelt, por R$ 99,90."
         ],
@@ -129029,6 +129231,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Quem já sabe o que a pessoa usa: um kit de creatina ou de whey.",
+        "Quem não sabe o que a pessoa toma: coqueteleira ou camiseta."
+      ],
+      "skipIf": [
+        "Quem precisa do presente em data marcada: nenhuma das cinco lojas publica prazo para o Natal, e o prazo sai no carrinho, pelo CEP.",
+        "Quem vai de camiseta sem conferir a tabela de medidas da loja."
+      ]
+    },
     "pros": [],
     "cons": [],
     "editorialNote": "Podemos receber comissão pelos links e cupons das lojas listadas.",
@@ -129082,7 +129294,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os potes e os sachês pelo rótulo",
         "paragraphs": [
-          "A loja vende 18 itens de Exquenta avulsos: quatro potes de 300 g, seis de 500 g, dois de 450 g e seis sachês. A tabela traz o que a loja publica por porção, cafeína e taurina, com as doses de cada embalagem e o preço de venda da página em 25/10/2026."
+          "São 18 itens avulsos, e todos com cafeína trazem 150 mg por dose. A tabela traz o que a loja publica por porção, cafeína e taurina, com as doses de cada embalagem e o preço de venda da página em 25/10/2026."
         ],
         "images": [
           {
@@ -129283,7 +129495,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taurina: 400 mg em uns, 500 mg em outros",
         "paragraphs": [
-          "A loja publica dois valores de taurina para a mesma porção de 20 g. Os potes de 500 g Azedinha Morango e Lilith Maçã Verde e o sachê Maçã Verde têm 400 mg por dose na tabela. O sachê Azedinha Morango traz 400 mg na arte da caixa. Os demais itens com cafeína declaram 500 mg. A loja não explica a diferença, e este guia também não."
+          "A loja publica dois valores de taurina para a mesma porção de 20 g. Os potes de 500 g Azedinha Morango e Lilith Maçã Verde e o sachê Maçã Verde têm 400 mg por dose na tabela. O sachê Azedinha Morango traz 400 mg na arte da caixa. Os demais itens com cafeína declaram 500 mg. A loja não explica a diferença entre os dois valores."
         ],
         "images": [
           {
@@ -129316,7 +129528,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sem cafeína: os dois 450 g",
         "paragraphs": [
-          "O Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g são os itens da linha que a loja chama de sem cafeína, no título e no texto da página. A tabela de cada um não traz linha de cafeína nem de taurina. O texto do Nitrato fala em nitrato natural da beterraba, mas a loja não publica quantos miligramas de nitrato há na dose, então este texto não fala em dose de nitrato."
+          "O Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g são os itens da linha que a loja chama de sem cafeína, no título e no texto da página. A tabela de cada um não traz linha de cafeína nem de taurina. O texto do Nitrato fala em nitrato natural da beterraba, mas a loja não publica quantos miligramas há na dose."
         ],
         "images": [
           {
@@ -129354,8 +129566,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Pelo rótulo e pelo preço, o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade é a conta mais barata por dose, a R$ 5,04. Por perfil:"
+          "Por perfil:"
         ],
+        "emphasis": "Pelos números da tabela, para quem quer a dose mais barata a escolha é o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade, porque sai a R$ 5,04 por dose.",
+        "emphasisAfterParagraph": 1,
         "bullets": [
           "**Quer a dose mais barata:** o pote de 500 g desses três sabores. Os outros três de 500 g, Tropical, Azedinha Morango e Lilith Maçã Verde, custam R$ 179,99 e saem a R$ 7,20 por dose.",
           "**Quer sem cafeína:** o Sem Cafeína Tropical 450 g, a R$ 7,00 por dose, ou o Nitrato 450 g, a R$ 8,82. Nenhum dos dois traz taurina na tabela, e o Nitrato não publica a quantidade de nitrato.",
@@ -129387,6 +129601,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Quem quer a dose mais barata: o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade.",
+        "Quem quer versão sem cafeína: o Sem Cafeína Tropical ou o Nitrato, ambos de 450 g.",
+        "Quem prefere a dose já medida para levar: o sachê, o mais caro por dose."
+      ],
+      "skipIf": [
+        "Quem decide pelo preço por dose: Tropical, Azedinha Morango e Lilith Maçã Verde de 500 g custam mais por dose que os outros três de 500 g.",
+        "Quem espera teste de efeito: a loja não publica, e o guia compara só rótulo e preço."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -129449,7 +129674,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como lemos a loja",
         "paragraphs": [
           "A Mais Mu vende o whey concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês, além do isolado e da proteína vegetal. A diferença entre eles está no preço por dose, nos sabores de cada formato e no que cabe na sua rotina.",
-          "Lemos as 48 páginas de whey e de proteína vegetal da Mais Mu no site oficial. Ninguém do site usou os produtos. Tudo o que segue sai da loja: preço, estoque, formato, sabor, ingredientes e a contagem de doses que ela publica.",
+          "Lemos as 48 páginas de whey e de proteína vegetal da Mais Mu no site oficial. Tudo o que segue sai da loja: preço, estoque, formato, sabor, ingredientes e a contagem de doses que ela publica.",
           "A loja escreve “cerca de N doses” em 30 das 48 páginas, sempre na legenda da galeria. Gramas por dose aparecem pouco: no texto de cada sabor de sachê e numa tabela nutricional, a do Baunilha de 450 g, com porção de 36 g e cerca de 13 porções. Por isso as contas usam a contagem da loja, com a margem do “cerca de”. Onde a loja não publica a contagem, este texto não faz conta.",
           "A proteína por dose também vem da loja: 20 g no concentrado e 22 g no isolado e no vegetal.",
           "As contas são estas, com os preços de 25/10/2026:"
@@ -129658,7 +129883,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Isolado e vegetal: o preço por dose",
         "paragraphs": [
-          "Isolado e vegetal têm 22 g de proteína por dose, segundo a loja. No isolado, o pote de 450 g tem o maior preço por proteína de todo o quadro: R$ 85,22 por 100 g no cartão."
+          "A loja dá 22 g de proteína por dose no isolado e no vegetal. No isolado, o pote de 450 g tem o maior preço por proteína de todo o quadro: R$ 85,22 por 100 g no cartão."
         ],
         "comparisonTable": {
           "caption": "Isolado",
@@ -129750,7 +129975,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Com o cupom e o Pix, o vegetal de 450 g sai por R$ 173,73 e o de 900 g por R$ 302,06.",
-          "A proteína vegetal, segundo a loja, é isolada de arroz e de ervilha. Ela não é whey e aparece aqui só para completar a linha."
+          "A proteína vegetal é isolada de arroz e de ervilha, diz a loja. Ela não é whey e aparece aqui só para completar a linha."
         ]
       },
       {
@@ -129773,13 +129998,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sabores de parceria",
         "paragraphs": [
-          "A loja apresenta quatro sabores como parceria, e é assim que eles entram aqui: parceria, segundo a Mais Mu."
+          "A loja apresenta quatro sabores como parceria, e é assim que eles entram aqui."
         ],
         "bullets": [
           "**Pistache Borelli, pote de 418 g:** parceria com a Borelli.",
           "**Banoffee Nanica, pote de 420 g:** parceria com a Nanica. A página diz que o sabor foi inspirado na torta da marca.",
-          "**Brownie do Luiz, pote de 420 g:** parceria, segundo a loja, com o nome que está no catálogo.",
-          "**Paçoquita:** parceria, segundo a loja, nos formatos de concentrado (pote de 450 g, sachê, refil de 900 g e 1,8 kg)."
+          "**Brownie do Luiz, pote de 420 g:** parceria, diz a loja, com o nome que está no catálogo.",
+          "**Paçoquita:** parceria, diz a loja, nos formatos de concentrado (pote de 450 g, sachê, refil de 900 g e 1,8 kg)."
         ],
         "postParagraphs": [
           "Os três potes de 418 e 420 g custam R$ 159,99 cada no cartão (R$ 155,19 no Pix; R$ 139,67 com o cupom e o Pix), o mesmo preço do pote de 450 g, e estavam disponíveis. A loja não publica a contagem de doses deles, então ficam fora da conta por dose e por proteína. Os textos dos três dizem “contém lactose” e “não contém glúten”."
@@ -129810,6 +130035,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Não há um formato melhor para todo mundo. O que pesa é quanto você quer pagar por proteína, se precisa levar o pó e se a lactose importa para você."
         ],
+        "emphasis": "Pelos números da tabela, para quem quer o menor preço por proteína a escolha é o refil de 900 g de Brownie ou Cookies'n Cream, porque sai a R$ 53,84 por 100 g no cartão.",
+        "emphasisAfterParagraph": 1,
         "bullets": [
           "**Quer conhecer o sabor antes de levar um formato maior:** o pote de 450 g, a R$ 159,99, com 12 ou 13 doses.",
           "**Quer o menor preço por proteína entre os formatos com contagem:** o refil de 900 g. Brownie ou Cookies'n Cream saem a R$ 53,84 por 100 g no cartão.",
@@ -129839,6 +130066,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Quem quer o menor preço por proteína: o refil de 900 g de Brownie ou Cookies'n Cream.",
+        "Quem quer conhecer o sabor antes de levar um formato maior: o pote de 450 g.",
+        "Quem precisa levar o pó: o sachê, que sai acima da dose do pote e do refil."
+      ],
+      "skipIf": [
+        "Quem quer o isolado pelo preço: o de 450 g tem o maior preço por dose e por proteína do quadro.",
+        "Quem precisa evitar lactose: nenhum concentrado se apresenta como sem lactose, e os textos dizem “contém lactose”; confira o rótulo antes."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {

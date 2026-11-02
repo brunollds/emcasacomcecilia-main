@@ -34,12 +34,12 @@
     {
       "heading": "O que a Skelt já mostrou sobre a Black Friday",
       "paragraphs": [
-        "A Black Friday de 2026 cai em 27/11/2026, e a Cyber Monday, em 30/11/2026. Nenhuma página do site dizia percentual de desconto para a Black Friday. O que encontramos:"
+        "Nenhuma página do site dizia percentual de desconto para a Black Friday. A data cai em 27/11/2026, e a Cyber Monday, em 30/11/2026. O que encontramos:"
       ],
       "bullets": [
         "A home tem coleções internas com os nomes \"Black Friday\", \"Pre Black Friday\" e \"BF - Live 05/11\". Só os nomes aparecem na home; não encontramos o desconto de cada uma.",
         "Pelo nome da coleção, a loja prepara uma live de aquecimento. É um indício, não um anúncio de desconto.",
-        "Na sacola, a loja mostrava a flash sale \"OUT/26\", com 10% em todo o site. Não lemos um prazo de fim para ela.",
+        "Na sacola, a loja mostrava a flash sale \"OUT/26\", com 10% em todo o site, sem prazo de fim à mostra.",
         "A página da flash sale traz 20% OFF no creme para mãos. Não encontramos data de fim nela.",
         "O endereço /black-friday redireciona para a home."
       ],
@@ -53,13 +53,13 @@
         }
       ],
       "postParagraphs": [
-        "Sobre 2024 e 2025: não conseguimos ler os registros do arquivo público do site nesta rodada. Por isso, não afirmamos se a Skelt fez campanha de Black Friday antes."
+        "Sobre 2024 e 2025: sem registro à mostra, não dá para afirmar se a Skelt fez campanha de Black Friday antes."
       ]
     },
     {
       "heading": "Preços para comparar",
       "paragraphs": [
-        "Estes são os preços de venda do catálogo público da Skelt, antes do cupom. Quando o produto mostra preço cheio, a tabela traz os dois valores."
+        "Guarde os preços de venda, antes do cupom: são eles que valem na comparação. Quando o produto mostra preço cheio, a tabela traz os dois valores."
       ],
       "comparisonTable": {
         "headers": [
@@ -101,7 +101,7 @@
         ]
       },
       "postParagraphs": [
-        "No Pix, o mousse sai por R$ 102,51, com os 5% de desconto sobre R$ 107,91. Os kits ficam fora desta tabela, porque o preço e a composição ainda estão em conferência.",
+        "No Pix, o mousse sai por R$ 102,51, com os 5% sobre R$ 107,91. Os kits ficam fora desta tabela.",
         "O preço do site muda sem aviso. Confira o produto no dia da compra."
       ],
       "images": [
@@ -132,7 +132,7 @@
     {
       "heading": "Brinde e frete",
       "paragraphs": [
-        "O brinde da Skelt conta o valor final do pedido, depois dos descontos. No teste de carrinho, o brinde da campanha era um Body Splash Mystic Bloom. Como o cupom e o Pix diminuem o total, o pedido pode ficar abaixo do mínimo e o brinde sai da sacola. O valor mínimo da campanha de brinde ainda não foi conferido por nós.",
+        "O brinde da Skelt conta o valor final do pedido, depois dos descontos. No teste de carrinho, o brinde da campanha era um Body Splash Mystic Bloom. Como o cupom e o Pix diminuem o total, o pedido pode ficar abaixo do mínimo e o brinde sai da sacola.",
         "O frete grátis também conta o valor final do pedido. A política de frete do site dizia:"
       ],
       "bullets": [

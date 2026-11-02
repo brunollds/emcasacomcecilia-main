@@ -53,13 +53,13 @@
       ],
       "postParagraphs": [
         "O Pix da Growth fica cerca de 10% abaixo do cartão, e o da Mais Mu, 3%. O passo a passo do cupom está em [como usar o cupom da Mais Mu](/reviews/cupom-mais-mu-como-usar).",
-        "Ninguém da equipe provou os produtos. Sabor, dissolução e digestão ficam fora deste texto, que usa só rótulo, dose e preço. Dúvida sobre suplemento: fale antes com um médico ou um nutricionista."
+        "Este texto usa só rótulo, dose e preço: sabor, dissolução e digestão ficam fora. Dúvida sobre suplemento: fale antes com um médico ou um nutricionista."
       ]
     },
     {
       "heading": "Whey concentrado: Mais Mu ou Growth",
       "paragraphs": [
-        "A Growth declara 23 g de proteína em cada dose de 30 g do concentrado de 1 kg. A Mais Mu declara 20 g em cada dose de 36 g. Por isso a conta é por 100 g de proteína, e não pelo preço do pote."
+        "No concentrado de 1 kg, a Growth leva 23 g de proteína em 30 g de dose, contra 20 g em 36 g da Mais Mu. Por isso a conta é por 100 g de proteína, e não pelo preço do pote."
       ],
       "comparisonTable": {
         "headers": [
@@ -117,7 +117,7 @@
     {
       "heading": "Whey isolado: Mais Mu ou Growth",
       "paragraphs": [
-        "O isolado da Growth declara 27 g de proteína em cada dose de 30 g, com 33 porções no pote de 1 kg. O refil de 900 g da Mais Mu declara 22 g em cada dose de 27 g, com 33 porções."
+        "No isolado, a Growth leva 27 g de proteína em 30 g de dose, contra 22 g em 27 g da Mais Mu, com 33 porções de cada lado."
       ],
       "comparisonTable": {
         "headers": [
@@ -153,7 +153,7 @@
       },
       "postParagraphs": [
         "No Pix, o refil de 900 g da Mais Mu sai a R$ 69,48 por 100 g de proteína, e a Growth, a R$ 39,27; com o cupom e o Pix somados, o refil cai para R$ 62,53.",
-        "O [Whey Isolado Mais Mu sem sabor pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/) tem 22 g de proteína por dose e, segundo a loja, rende cerca de 16 doses: sai a R$ 85,22 por 100 g de proteína no cartão, R$ 82,67 no Pix e R$ 74,40 com cupom e Pix."
+        "O [Whey Isolado Mais Mu sem sabor pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/) tem 22 g de proteína por dose e, pela página do produto, rende cerca de 16 doses: sai a R$ 85,22 por 100 g de proteína no cartão, R$ 82,67 no Pix e R$ 74,40 com cupom e Pix."
       ]
     },
     {
@@ -218,7 +218,7 @@
     {
       "heading": "Onde a Growth ganha e onde a Mais Mu ganha",
       "paragraphs": [
-        "A comparação só fica justa com o lado de cada loja:"
+        "A Growth leva o whey em tudo, e a Mais Mu leva a creatina com cupom:"
       ],
       "bullets": [
         "**A Growth ganha no whey, em todas as formas de pagamento.** O concentrado de 1 kg sai a R$ 26,34 por 100 g no Pix, e o isolado, a R$ 39,27. A melhor conta da Mais Mu, com cupom e Pix, é de R$ 43,65 no concentrado de 1,8 kg e de R$ 62,53 no isolado de 900 g.",
@@ -243,6 +243,8 @@
     },
     {
       "heading": "Quem escolhe o quê",
+      "emphasis": "Pelos números da tabela, para quem compra whey a escolha é a Growth, porque vence por 100 g de proteína em todas as formas de pagamento; para quem compra creatina com cupom, a escolha é o refil de 500 g da Mais Mu.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Pelos rótulos e pelos preços:"
       ],
@@ -271,6 +273,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Growth se você compra whey, concentrado ou isolado, pelo menor preço por 100 g de proteína.",
+      "Leve o refil de 500 g da Mais Mu se você compra creatina e usa o cupom."
+    ],
+    "skipIf": [
+      "Passe na Mais Mu se você procura creatina com selo Creapure declarado: as páginas dela não trazem o selo nem laudo.",
+      "Passe na Growth se você paga a creatina no cartão, sem Pix e sem cupom: o refil da Mais Mu sai abaixo do pouch."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

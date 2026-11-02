@@ -34,7 +34,7 @@
       "heading": "Como comparamos",
       "paragraphs": [
         "Este texto compara a Mais Mu e a Dux no whey concentrado, no whey isolado e na creatina: quem sai mais barata por proteína e por grama, e o que cada uma leva a mais.",
-        "Comparamos o que as duas lojas publicam: o rótulo nutricional de cada linha, o preço no site e as regras de pagamento e de frete. Os preços são de 21/10/2026, sem frete. As tabelas usam o preço no cartão, e o Pix e o cupom vêm numa frase logo abaixo de cada uma. Ninguém da equipe provou os produtos: sabor, dissolução e digestão ficam de fora. Dúvida sobre suplemento, alergia ou dieta: fale antes com um médico ou um nutricionista.",
+        "Comparamos o que as duas lojas publicam: o rótulo nutricional de cada linha, o preço no site e as regras de pagamento e de frete. Os preços são de 21/10/2026, sem frete. As tabelas usam o preço no cartão, e o Pix e o cupom vêm numa frase logo abaixo de cada uma. Sabor, dissolução e digestão ficam de fora. Dúvida sobre suplemento, alergia ou dieta: fale antes com um médico ou um nutricionista.",
         "A série contra a Dux tem outros três textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Mais Mu ou Growth](/reviews/mais-mu-ou-growth).",
         "As contas são estas, arredondadas no centavo:"
       ],
@@ -67,7 +67,7 @@
     {
       "heading": "Whey concentrado: proteína por dose e preço por 100 g",
       "paragraphs": [
-        "Preços no cartão, sem cupom. As três linhas da Mais Mu têm a mesma dose, de 36 g de pó com 20 g de proteína. A Dux tem dose de 30 g, com 20 g de proteína."
+        "Por 100 g de proteína, no cartão e sem cupom: as três linhas da Mais Mu têm a mesma dose, 36 g com 20 g. A Dux tem dose de 30 g, com 20 g de proteína."
       ],
       "comparisonTable": {
         "headers": [
@@ -119,13 +119,13 @@
         "No Pix, a conta fica em R$ 54,32 no [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/) e R$ 48,50 no [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/) da Mais Mu, e em R$ 58,41 (900 g) e R$ 51,29 (1,8 kg) da Dux. Com cupom e Pix, a Mais Mu cai para R$ 48,89 no 900 g e R$ 43,65 no 1,8 kg.",
         "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. A página diz 30 doses, e a conta usa o peso.",
         "A linha de 1,8 kg da Mais Mu é a mais barata do concentrado por 100 g de proteína. Por dose, ela sai a R$ 10,00 no cartão, contra R$ 10,80 da Dux de 1,8 kg.",
-        "O sabor paçoquita da Mais Mu traz \"contém glúten\" na página. O baunilha, usado nesta tabela, diz \"não contém glúten\", segundo a página. A conta não muda por sabor."
+        "O sabor paçoquita da Mais Mu traz \"contém glúten\" na página; o baunilha, usado nesta tabela, traz \"não contém glúten\". A conta não muda por sabor."
       ]
     },
     {
       "heading": "Whey isolado: proteína por dose e preço por 100 g",
       "paragraphs": [
-        "Preços no cartão, sem cupom. A dose da Mais Mu é de 27 g com 22 g de proteína, exceto no sem sabor de 450 g, que tem 25 g de dose pelo rótulo. A Dux declara 24 g de proteína por dose, mas não o número de doses do isolado; a conta usa 30 g por dose, dose inferida."
+        "Por 100 g de proteína, no cartão e sem cupom: a dose da Mais Mu é de 27 g com 22 g, exceto no sem sabor de 450 g, de 25 g pelo rótulo. A Dux declara 24 g de proteína por dose, mas não o número de doses do isolado; a conta usa 30 g por dose, dose inferida."
       ],
       "comparisonTable": {
         "headers": [
@@ -183,7 +183,7 @@
     {
       "heading": "Creatina: preço por 100 g e por dose",
       "paragraphs": [
-        "Preços no cartão, sem cupom. A dose vem do rótulo de cada pote: 3 g na Mais Mu sem sabor, 3,5 g na limonada e na melancia, 5 g na monohidratada da Dux e 3 g na Creapure da Dux."
+        "Por 100 g, no cartão e sem cupom: a dose vem do rótulo, 3 g na sem sabor da Mais Mu, 3,5 g na limonada e na melancia, 5 g na monohidratada da Dux e 3 g na Creapure."
       ],
       "comparisonTable": {
         "headers": [
@@ -288,7 +288,7 @@
     {
       "heading": "Onde cada uma ganha",
       "paragraphs": [
-        "A comparação só fica justa se cada lado tiver o que ganha:"
+        "A Dux leva proteína por dose, Creapure, Pix e frete; a Mais Mu leva preço por grama e cupom:"
       ],
       "bullets": [
         "**Dux:** 20 g de proteína em 30 g no concentrado, ou 67% da dose, contra 20 g em 36 g da Mais Mu (56%). No isolado, 24 g por dose contra 22 g.",
@@ -300,11 +300,13 @@
         "**Mais Mu:** preço por 100 g de proteína no isolado do refil de 900 g (R$ 71,63 contra R$ 77,90 no cartão).",
         "**Mais Mu:** preço por grama de creatina no refil de 500 g (R$ 15,98 contra R$ 21,63 da Dux de 300 g).",
         "**Mais Mu:** cupom de 10% em todo o site, inclusive em produto em oferta. A Dux não tem cupom.",
-        "**Mais Mu:** no isolado, a página diz \"não contém glúten\". A da Dux diz \"contém glúten\", atribuído à página."
+        "**Mais Mu:** no isolado, a página diz \"não contém glúten\"; a da Dux diz \"contém glúten\"."
       ]
     },
     {
       "heading": "Quem escolhe o quê",
+      "emphasis": "Pelos números da tabela, para quem compra pelo menor preço por 100 g a escolha é a Mais Mu, porque vence no concentrado e no isolado a partir do refil e na creatina do refil de 500 g; para quem quer mais proteína por dose ou o selo Creapure declarado, a escolha é a Dux.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Pelos rótulos e pelos preços:"
       ],
@@ -334,6 +336,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Mais Mu se você quer o menor preço por 100 g de proteína no whey, a partir do refil de 900 g, ou por grama de creatina, no refil de 500 g.",
+      "Leve a Dux se você quer o selo Creapure declarado e aceita pagar bem mais por grama de creatina."
+    ],
+    "skipIf": [
+      "Passe na Dux se você depende de cupom: ela não tem.",
+      "Passe na Mais Mu se você pesa o Pix maior e o frete grátis mais baixo: a Dux leva nos dois."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

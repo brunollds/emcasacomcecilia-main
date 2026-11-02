@@ -33,7 +33,7 @@
     {
       "heading": "Qual equivale a qual",
       "paragraphs": [
-        "Antes de comparar preço, é preciso saber qual produto de uma marca faz o papel de qual na outra. Os nomes das linhas não batem: o que a Best Bronze chama de Dark Express Pro a Skelt chama de Mousse Dark, e o Clear Vegan faz o papel da água ou do gel da Skelt. A tabela junta cada tipo de produto, com o preço no cartão em 23/10/2026."
+        "Os nomes não batem: o Dark Express Pro da Best Bronze equivale ao Mousse Dark da Skelt, e o Clear Vegan faz o papel da água ou do gel. A tabela junta cada tipo de produto, com o preço no cartão em 23/10/2026."
       ],
       "comparisonTable": {
         "headers": [
@@ -166,7 +166,7 @@
     {
       "heading": "Cor-guia ou transparente: o que muda",
       "paragraphs": [
-        "A cor-guia é um tom terroso que mostra onde o produto já foi passado e sai no banho. Não é o resultado final. O mousse com cor-guia ajuda a não deixar falhas, e por isso a Skelt marca o Mousse Autobronzeador como nível iniciante. O produto transparente não mostra onde você passou: a Skelt marca a Água como nível expert e, no Gel, a ficha marca iniciante e expert, mas o texto o indica aos mais experientes.",
+        "A cor-guia mostra onde já passou e sai no banho; sem ela, o transparente pede mais experiência. O mousse com cor-guia ajuda a não deixar falhas, e por isso a Skelt marca o Mousse Autobronzeador como nível iniciante. O produto transparente não mostra onde você passou: a Skelt marca a Água como nível expert e, no Gel, a página marca iniciante e expert, mas o texto o indica aos mais experientes.",
         "O contrapeso é a roupa. Na página do Mousse Dark, a Skelt avisa que suor e atrito, durante a secagem, podem passar a cor-guia para o tecido; no Kit Bronze & Glow Mousse, fala em atrito e umidade. Na página da Água, a marca diz que a falta de cor-guia diminui a chance de manchar a roupa. Em qualquer um, espere secar antes de se vestir.",
         "Nas duas marcas, o mousse escuro tem cor-guia e o transparente não. O Mousse Dark da Skelt não é para iniciante: a marca o indica para quem quer mais cor, nível expert. A lista de ingredientes do Dark Express Pro traz corantes (CI 42090, 17200, 16035 e 19140), e a do Clear Vegan não tem corante."
       ],
@@ -190,7 +190,7 @@
     {
       "heading": "Duração e tempo de ação: o que cada marca diz",
       "paragraphs": [
-        "Tudo na tabela abaixo é o que cada marca declara na página do produto. Não é resultado que tenhamos visto. Na Água e no Mousse Dark, a Skelt manda seguir o tempo indicado na embalagem."
+        "Tudo na tabela abaixo é o que cada marca declara na página do produto. Na Água e no Mousse Dark, a Skelt manda seguir o tempo indicado na embalagem."
       ],
       "comparisonTable": {
         "headers": [
@@ -233,7 +233,7 @@
         ]
       },
       "postParagraphs": [
-        "Pelo que as páginas dizem, a Best Bronze promete até 3 dias a mais de duração e mais aplicações por frasco no mousse escuro. A Skelt declara 7 a 12 dias e 5 a 8 aplicações.",
+        "Nas páginas, a Best Bronze promete até 3 dias a mais de duração e mais aplicações por frasco no mousse escuro. A Skelt declara 7 a 12 dias e 5 a 8 aplicações.",
         "O ativo bronzeador nas duas é a combinação de DHA e eritrulose. Na Skelt, o Mousse, a Água e o Gel trazem os selos de vegano, cruelty free e dermatologicamente testado; a página do Mousse Dark não mostra selos. A Best Bronze se diz vegana no Dark Express Pro e no Clear Vegan, e a página do Clear Vegan diz que o produto é fabricado nos Estados Unidos.",
         "Sobre o perfume: a lista da Skelt traz fragrância (Parfum) em todos os mousses e águas. A Best Bronze vende o Dark Express Pro na fragrância Vanilla ou Sem Fragrância, e a página do Clear Vegan diz que ele não tem cheiro."
       ]
@@ -241,12 +241,12 @@
     {
       "heading": "Onde a Best Bronze ganha e onde a Skelt ganha",
       "paragraphs": [
-        "O que cada uma faz melhor, pela ficha e pelo preço."
+        "O que cada uma faz melhor, na página e no preço."
       ],
       "bullets": [
         "**Best Bronze, preço no cartão no mousse escuro:** em promoção, o Dark Express Pro sai a R$ 81,55 por 100 ml, contra R$ 92,79 do Mousse Dark da Skelt.",
         "**Best Bronze, duração e rendimento declarados:** até 15 dias e cerca de 10 aplicações, contra 7 a 12 dias e 5 a 8 aplicações da Skelt. Dividindo o preço pelo rendimento que cada marca declara, o Dark Express Pro, no preço em promoção, sai a cerca de R$ 12,23 por aplicação (R$ 17,20 a R$ 172,00), e o Mousse Dark da Skelt, entre R$ 16,24 e R$ 25,98 (de R$ 13,88 a R$ 22,21 com cupom e Pix). É estimativa: o rendimento depende de quanto produto você usa.",
-        "**Best Bronze, formatos que a Skelt não tem em estoque:** spray (Spray Fácil), gotas para misturar ao hidratante (Magic Drop) e lenços para o rosto (Pocket Bronze). A lista do Spray Fácil traz álcool, propelente (butano e propano) e parabenos, segundo a página.",
+        "**Best Bronze, formatos que a Skelt não tem em estoque:** spray (Spray Fácil), gotas para misturar ao hidratante (Magic Drop) e lenços para o rosto (Pocket Bronze). A página do Spray Fácil lista álcool, propelente (butano e propano) e parabenos.",
         "**Skelt, transparente mais barato:** a Água sai a R$ 79,93 por 100 ml no cartão, contra R$ 83,33 do Clear Vegan, e o Gel, a R$ 82,42.",
         "**Skelt, kit com luva mais barato:** o Kit Iniciante custa R$ 111,26 e o Kit Iniciante Dark, R$ 137,62, contra R$ 158,00 do Clear + Luva e R$ 178,00 do Dark Express + Luva da Best Bronze.",
         "**Skelt, cupom e Pix:** o SKEMCASACOMCECILIA dá 10%, o Pix soma mais 5%, e o Mousse Dark cai para R$ 79,33 por 100 ml, abaixo dos R$ 81,55 da Best Bronze em promoção.",
@@ -267,6 +267,8 @@
     },
     {
       "heading": "Qual escolher",
+      "emphasis": "Pelos números da tabela, para quem quer mousse com luva a escolha é o Kit Iniciante da Skelt, porque sai a R$ 111,26, contra R$ 158,00 do Clear com luva da Best Bronze.",
+      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "O veredito por perfil, com os preços."
       ],
@@ -290,6 +292,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve a Skelt se você quer o transparente ou o kit com luva, que saem mais baratos nela.",
+      "Leve a Best Bronze se você quer spray, gotas ou lenço para o rosto."
+    ],
+    "skipIf": [
+      "Passe o transparente se você nunca aplicou e quer ver onde passa.",
+      "Passe o Mousse Dark da Skelt se você nunca usou: a marca o indica a quem quer mais cor, nível expert."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

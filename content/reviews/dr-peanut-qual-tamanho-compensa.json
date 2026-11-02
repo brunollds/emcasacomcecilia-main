@@ -144,6 +144,8 @@
     },
     {
       "heading": "Qual tamanho compensa",
+      "emphasis": "Pelos números da tabela, para quem come pasta todo dia a escolha é o kit de 5 × 600 g com cupom, porque ele tem o menor preço por 100 g e frete grátis em todas as regiões.",
+      "emphasisAfterParagraph": 5,
       "paragraphs": [
         "Para quem come pasta todo dia e tem espaço para guardar, o kit de 5 × 600 g tem o menor preço por grama: R$ 8,41 sem cupom e R$ 7,57 com cupom, com frete grátis em todas as regiões.",
         "Para uma compra só, sem kit, o pote de 600 g: R$ 9,98 por 100 g, ou R$ 8,98 com cupom.",
@@ -162,6 +164,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o kit de 5 × 600 g com cupom se você come pasta todo dia: tem o menor preço por 100 g e frete grátis em todas as regiões.",
+      "Leve a assinatura com cupom se você quer potes de 250 g todo mês: ela sai abaixo do kit de 250 g com cupom.",
+      "Leve o pote de 600 g se você vai fazer uma compra só, sem kit."
+    ],
+    "skipIf": [
+      "Passe no pote avulso de 250 g se você quer mais de um pote: é o mais caro por grama.",
+      "Passe na loja se você busca pote de 800 g ou de 1 kg: não há, e o equivalente é o kit de 4 × 250 g ou a assinatura."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

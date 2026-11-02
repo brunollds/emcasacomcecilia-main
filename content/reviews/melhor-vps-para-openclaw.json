@@ -50,7 +50,7 @@
     {
       "heading": "O que a documentação oficial diz (e não diz) sobre requisitos",
       "paragraphs": [
-        "O OpenClaw pode usar um modelo de IA que fica no provedor, pela sua chave de API ou pelos créditos de IA da Hostinger, ou um modelo local, que roda no próprio servidor. Chave de API é a senha que o OpenClaw usa para pedir respostas a um provedor, que cobra pelo uso. Com o modelo no provedor, o pedido vai para a empresa de IA e o servidor só roda o programa.",
+        "Onde o modelo de IA roda decide a RAM: no provedor, pela sua chave de API ou pelos créditos de IA da Hostinger, ou local, no próprio servidor. Chave de API é a senha que o OpenClaw usa para pedir respostas a um provedor, que cobra pelo uso. Com o modelo no provedor, o pedido vai para a empresa de IA e o servidor só roda o programa.",
         "As páginas oficiais de instalação e de modelos locais dizem o seguinte:"
       ],
       "bullets": [
@@ -66,7 +66,7 @@
     {
       "heading": "Quanto de RAM cada cenário pede",
       "paragraphs": [
-        "RAM é a memória de trabalho do servidor: é onde o programa e, no caso de um modelo local, o próprio modelo ficam enquanto rodam. A documentação dá número só para o modelo local."
+        "A documentação dá número de RAM só para o modelo local: RAM é a memória de trabalho, onde o programa e o modelo ficam enquanto rodam."
       ],
       "comparisonTable": {
         "headers": [
@@ -94,13 +94,13 @@
       },
       "postParagraphs": [
         "Dois detalhes do modelo local. O contexto é a quantidade de texto (tokens, pedaços de palavras) que o modelo lê de uma vez. Quando sobra menos de 20% da janela de contexto, o OpenClaw avisa, com piso de 8 mil tokens; abaixo de 10%, ele bloqueia a resposta, com piso de 4 mil tokens.",
-        "Nas páginas de plano KVM que li, nenhuma lista placa de vídeo (GPU). A documentação também não diz qual velocidade um modelo local teria sem ela."
+        "Nas páginas de plano KVM lidas, nenhuma lista placa de vídeo (GPU). A documentação também não diz qual velocidade um modelo local teria sem ela."
       ]
     },
     {
       "heading": "Qual plano KVM escolher",
       "paragraphs": [
-        "KVM é o nome dos planos de servidor virtual da Hostinger. A tabela traz os quatro, com preços de planos de 24 meses lidos em 21/10/2026, e o preço com o SONAR20 já tem os 20% do cupom. Leia cada plano diante da documentação; é a nossa leitura dela, não uma medição:"
+        "O plano certo segue onde o modelo roda. KVM é o nome dos servidores virtuais da Hostinger, e a tabela traz os quatro, com preços de 24 meses de 21/10/2026 e o SONAR20 já aplicado. Leia cada plano diante da documentação; é a nossa leitura dela, não uma medição:"
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
@@ -213,7 +213,7 @@
     {
       "heading": "O VPS grátis: Oracle Always Free",
       "paragraphs": [
-        "A Oracle tem um plano gratuito, o Always Free. Ele não é da Hostinger e não substitui o VPS pago. Pela documentação da Oracle:"
+        "Dá para testar de graça na Oracle: o Always Free não é da Hostinger, não substitui o VPS pago e a instância ociosa pode ser recuperada. Pela documentação da Oracle:"
       ],
       "bullets": [
         "Até duas instâncias Micro (processador AMD), com 1/8 de OCPU e 1 GB de memória cada.",

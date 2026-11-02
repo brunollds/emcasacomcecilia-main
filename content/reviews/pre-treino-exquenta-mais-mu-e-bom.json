@@ -33,7 +33,7 @@
     {
       "heading": "Os potes e os sachês pelo rótulo",
       "paragraphs": [
-        "A loja vende 18 itens de Exquenta avulsos: quatro potes de 300 g, seis de 500 g, dois de 450 g e seis sachês. A tabela traz o que a loja publica por porção, cafeína e taurina, com as doses de cada embalagem e o preço de venda da página em 25/10/2026."
+        "São 18 itens avulsos, e todos com cafeína trazem 150 mg por dose. A tabela traz o que a loja publica por porção, cafeína e taurina, com as doses de cada embalagem e o preço de venda da página em 25/10/2026."
       ],
       "images": [
         {
@@ -90,7 +90,7 @@
     {
       "heading": "Taurina: 400 mg em uns, 500 mg em outros",
       "paragraphs": [
-        "A loja publica dois valores de taurina para a mesma porção de 20 g. Os potes de 500 g Azedinha Morango e Lilith Maçã Verde e o sachê Maçã Verde têm 400 mg por dose na tabela. O sachê Azedinha Morango traz 400 mg na arte da caixa. Os demais itens com cafeína declaram 500 mg. A loja não explica a diferença, e este guia também não."
+        "A loja publica dois valores de taurina para a mesma porção de 20 g. Os potes de 500 g Azedinha Morango e Lilith Maçã Verde e o sachê Maçã Verde têm 400 mg por dose na tabela. O sachê Azedinha Morango traz 400 mg na arte da caixa. Os demais itens com cafeína declaram 500 mg. A loja não explica a diferença entre os dois valores."
       ],
       "images": [
         {
@@ -123,7 +123,7 @@
     {
       "heading": "Sem cafeína: os dois 450 g",
       "paragraphs": [
-        "O Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g são os itens da linha que a loja chama de sem cafeína, no título e no texto da página. A tabela de cada um não traz linha de cafeína nem de taurina. O texto do Nitrato fala em nitrato natural da beterraba, mas a loja não publica quantos miligramas de nitrato há na dose, então este texto não fala em dose de nitrato."
+        "O Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g são os itens da linha que a loja chama de sem cafeína, no título e no texto da página. A tabela de cada um não traz linha de cafeína nem de taurina. O texto do Nitrato fala em nitrato natural da beterraba, mas a loja não publica quantos miligramas há na dose."
       ],
       "images": [
         {
@@ -161,8 +161,10 @@
     {
       "heading": "Qual escolher",
       "paragraphs": [
-        "Pelo rótulo e pelo preço, o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade é a conta mais barata por dose, a R$ 5,04. Por perfil:"
+        "Por perfil:"
       ],
+      "emphasis": "Pelos números da tabela, para quem quer a dose mais barata a escolha é o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade, porque sai a R$ 5,04 por dose.",
+      "emphasisAfterParagraph": 1,
       "bullets": [
         "**Quer a dose mais barata:** o pote de 500 g desses três sabores. Os outros três de 500 g, Tropical, Azedinha Morango e Lilith Maçã Verde, custam R$ 179,99 e saem a R$ 7,20 por dose.",
         "**Quer sem cafeína:** o Sem Cafeína Tropical 450 g, a R$ 7,00 por dose, ou o Nitrato 450 g, a R$ 8,82. Nenhum dos dois traz taurina na tabela, e o Nitrato não publica a quantidade de nitrato.",
@@ -194,6 +196,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Quem quer a dose mais barata: o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade.",
+      "Quem quer versão sem cafeína: o Sem Cafeína Tropical ou o Nitrato, ambos de 450 g.",
+      "Quem prefere a dose já medida para levar: o sachê, o mais caro por dose."
+    ],
+    "skipIf": [
+      "Quem decide pelo preço por dose: Tropical, Azedinha Morango e Lilith Maçã Verde de 500 g custam mais por dose que os outros três de 500 g.",
+      "Quem espera teste de efeito: a loja não publica, e o guia compara só rótulo e preço."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
