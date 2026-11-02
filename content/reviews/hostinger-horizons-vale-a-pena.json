@@ -273,6 +273,18 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o Criador com IA se quer um site de poucas páginas, um portfólio, uma loja pequena ou um app web simples sem programar.",
+      "Leve se quer hospedagem, domínio e e-mail no mesmo plano e aceita que a IA monte a primeira versão.",
+      "Leve se vai montar uma vez e ajustar texto e foto no editor, que não gasta créditos."
+    ],
+    "skipIf": [
+      "Passe, e fique no WordPress, se o projeto depende de um plugin específico ou de um tema que você já tem.",
+      "Passe se outra pessoa ou uma agência vai manter o site: o WordPress é o padrão do mercado.",
+      "Passe se quer levar tudo para outra hospedagem sem retrabalho, ou se vai pedir mudanças à IA toda semana e cada pedido gasta créditos."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

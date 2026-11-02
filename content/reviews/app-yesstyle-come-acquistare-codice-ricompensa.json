@@ -20,10 +20,10 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "description": "Guida all'app di YesStyle: link ufficiali, valutazioni negli store, il campo \"Influencer / Rewards Code\" in cui va il CECILIA010, le differenze rispetto al sito e cosa verificare se l'app dà problemi.",
-  "metaDescription": "YesStyle ha un'app per Android e iPhone. Dove inserire il codice ricompensa CECILIA010 nel checkout dell'app, cosa cambia rispetto al sito e cosa controllare se l'app non funziona.",
+  "description": "Guida all'app di YesStyle: link ufficiali, valutazioni negli store di app, il campo \"Influencer / Rewards Code\" dove va il CECILIA010, cosa cambia rispetto al sito e cosa controllare se l'app non funziona.",
+  "metaDescription": "YesStyle ha un'app per Android e iPhone. Dove va il codice ricompensa CECILIA010 al checkout dell'app e cosa cambia rispetto al sito.",
   "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa.webp",
-  "imageAlt": "Due schermate dell'app YesStyle, la home con i prodotti di bellezza coreana e il checkout con il CECILIA010 applicato, con il logo di YesStyle e il titolo YesStyle App",
+  "imageAlt": "Due schermate dell'app di YesStyle, la home con prodotti di bellezza coreana e il checkout con il CECILIA010 applicato, con il logo di YesStyle e il titolo YesStyle App",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -55,33 +55,32 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Sì, YesStyle ha un'app per Android e iPhone, con lo stesso account del sito. Nell'app, il CECILIA010, codice ricompensa, va nel campo \"Influencer / Rewards Code\" del checkout, accanto al \"Coupon Code\". La consegna dipende dal paese dell'indirizzo."
+        "Sì, YesStyle ha un'app per Android e iPhone, con lo stesso account del sito. Nell'app, il CECILIA010, un codice ricompensa, va nel campo \"Influencer / Rewards Code\" del checkout, accanto a \"Coupon Code\"."
       ]
     },
     {
       "heading": "Dove scaricare l'app",
       "paragraphs": [
-        "YesStyle dice di scaricare l'app solo dai due link ufficiali. Non installarla da altre fonti.",
-        "Negli store, al 28/10/2026:"
+        "YesStyle dice che l'app va scaricata solo dai due link ufficiali. Non installarla da altre fonti.",
+        "Negli store di app, al 28/10/2026:"
       ],
       "bullets": [
-        "Google Play: voto 4,4, con 164.000 recensioni.",
-        "App Store: versione 4.7.23."
+        "Google Play: valutazione 4,4, con 164 mila recensioni."
       ],
       "postParagraphs": [
-        "L'app funziona su iOS e Android, secondo il centro assistenza del negozio. All'apertura mostra la vetrina di bellezza coreana, con le schede Home, Shop, Bag, Saved e Account in basso."
+        "Secondo il centro assistenza dello shop, l'app funziona su iOS e Android. Nella home, l'app si apre sulla vetrina di bellezza coreana, con le schede Home, Shop, Bag, Saved e Account in basso."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-app-home-2810.webp",
-        "alt": "Home dell'app YesStyle con la vetrina di bellezza coreana e le schede Home, Shop, Bag, Saved e Account",
-        "caption": "La home dell'app YesStyle su Android, il 28/10/2026.",
+        "alt": "Home dell'app di YesStyle con la vetrina di bellezza coreana e le schede Home, Shop, Bag, Saved e Account",
+        "caption": "La home dell'app di YesStyle su Android.",
         "objectFit": "contain",
         "aspectRatio": 0.4868
       },
       "links": [
         {
           "label": "App Store",
-          "href": "https://apps.apple.com/app/id868675907",
+          "href": "https://apps.apple.com/br/app/id868675907",
           "sponsored": true
         },
         {
@@ -92,42 +91,36 @@
       ]
     },
     {
-      "heading": "Consegna",
+      "heading": "Come acquistare dall'app",
       "paragraphs": [
-        "La consegna dipende dal paese dell'indirizzo. Tempi, costi e dogana per l'Italia sono in [Spedizione YesStyle in Italia: tempi, costi e dogana](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
-      ]
-    },
-    {
-      "heading": "Come comprare dall'app",
-      "paragraphs": [
-        "L'acquisto segue l'ordine del sito: accedi all'account, riempi la borsa, vai al checkout. Tre punti che il centro assistenza conferma:"
+        "L'acquisto segue l'ordine del sito: accedere all'account, riempire il carrello, andare al checkout. Tre punti confermati dal centro assistenza dello shop:"
       ],
       "bullets": [
         "L'account è lo stesso del sito. Non serve crearne un altro.",
-        "Accedi prima di mettere i prodotti nella borsa. Con l'accesso fatto su sito e app, la borsa è una sola.",
-        "Nel checkout, l'app mostra il paese di consegna, la spedizione e la riga \"Coupon or Influencer / Rewards Code\" prima del riepilogo dell'ordine."
+        "Accedi all'account prima di mettere gli articoli nel carrello. Se sei collegato sia sul sito sia nell'app, il carrello è uno solo.",
+        "Al checkout, l'app mostra il paese di consegna, la spedizione e la riga \"Coupon or Influencer / Rewards Code\" prima del riepilogo dell'ordine."
       ],
       "postParagraphs": [
-        "I passaggi sul sito, con il campo Reward Code nella versione web, sono in [Codice ricompensa YesStyle CECILIA010: come usarlo al checkout](/it/reviews/codice-ricompensa-yesstyle-cecilia010). Qui c'è solo quello che riguarda l'app."
+        "Il passo passo per il sito è in [Come usare il CECILIA010 su YesStyle](/it/reviews/codice-ricompensa-yesstyle-cecilia010)."
       ]
     },
     {
       "heading": "Dove va il CECILIA010 nell'app",
       "paragraphs": [
-        "Il CECILIA010 è un codice ricompensa, non un coupon: dà fino al 5% extra (5% sul primo ordine e 2% sui successivi) e si somma ai coupon di YesStyle. Nell'app ha un campo tutto suo. Test fatto nell'app Android il 28/10/2026, account in inglese, consegna negli Stati Uniti."
+        "Il CECILIA010 è un codice ricompensa, non un coupon: dà fino al 5% in più (5% sul primo acquisto e 2% sui successivi) e si somma ai coupon di YesStyle. Nell'app ha un campo proprio. Test fatto sull'app Android, con account in inglese e consegna negli Stati Uniti, senza completare l'acquisto."
       ],
       "bullets": [
-        "Nel checkout, tocca \"Enter Code\", nella riga \"Coupon or Influencer / Rewards Code\".",
-        "Si aprono due campi: \"Coupon Code\" in alto, per il coupon del negozio, e \"Influencer / Rewards Code\" in basso. Scrivi CECILIA010 in quello in basso e tocca \"APPLY\".",
-        "Tornato al checkout, il codice compare come etichetta sotto \"Coupon or Influencer / Rewards Code\", e nel riepilogo appare la riga \"Influencer Code Discount\". Controlla questa riga prima di pagare."
+        "Al checkout, tocca \"Enter Code\", sulla riga \"Coupon or Influencer / Rewards Code\".",
+        "Si aprono due campi: \"Coupon Code\" in alto, per il coupon dello shop, e \"Influencer / Rewards Code\" in basso. Digita CECILIA010 in quello in basso e tocca \"APPLY\".",
+        "Tornato al checkout, il codice compare come etichetta sotto \"Coupon or Influencer / Rewards Code\" e il riepilogo guadagna la riga \"Influencer Code Discount\". Controlla quella riga prima di pagare."
       ],
       "postParagraphs": [
-        "Il coupon del negozio, quando ce n'è uno attivo, va nel campo in alto, nella stessa schermata. I due si sommano."
+        "Il coupon dello shop, quando ce n'è uno attivo, va nel campo in alto, nella stessa schermata. I due si sommano."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
-        "alt": "Tre schermate dell'app YesStyle: il checkout con la riga Coupon or Influencer / Rewards Code, la schermata Enter Code con i campi Coupon Code e Influencer / Rewards Code, e il checkout con il CECILIA010 applicato",
-        "caption": "I tre passaggi nell'app Android, il 28/10/2026, con un account con consegna negli Stati Uniti.",
+        "alt": "Tre schermate dell'app di YesStyle: il checkout con la riga Coupon or Influencer / Rewards Code, la schermata Enter Code con i campi Coupon Code e Influencer / Rewards Code, e il checkout con il CECILIA010 applicato",
+        "caption": "I tre passaggi nell'app Android, su un account con consegna negli Stati Uniti.",
         "objectFit": "contain",
         "aspectRatio": 1.4382
       }
@@ -147,24 +140,24 @@
             "Lo stesso account"
           ],
           [
-            "Borsa",
-            "Borsa del sito",
-            "La stessa, se hai fatto l'accesso su entrambi"
+            "Carrello",
+            "Carrello del sito",
+            "Lo stesso, se sei collegato su entrambi"
           ],
           [
             "Campo del CECILIA010",
-            "\"Reward Code\", nel checkout",
+            "\"Reward Code\", al checkout",
             "\"Influencer / Rewards Code\", nella schermata \"Enter Code\" del checkout"
           ],
           [
-            "Coupon del negozio",
+            "Coupon dello shop",
             "\"Coupon Code\"",
             "\"Coupon Code\", nella stessa schermata del codice"
           ],
           [
             "Punti YS",
-            "Passaggio \"Payment Information\"",
-            "Lo stesso passaggio"
+            "Fase \"Payment Information\"",
+            "La stessa fase"
           ]
         ]
       }
@@ -172,38 +165,31 @@
     {
       "heading": "Punti YS e il coupon dell'app",
       "paragraphs": [
-        "Chi accede all'account dall'app riceve 50 punti YS, una volta sola. Reinstallare non li fa ottenere di nuovo. I punti non sono il codice ricompensa: si usano nel passaggio \"Payment Information\" del checkout, mentre il CECILIA010 va nella schermata \"Enter Code\". Uno non sostituisce l'altro.",
-        "Il negozio dice di pubblicare, una volta al mese e a un orario casuale, un coupon di 24 ore valido solo per gli ordini fatti dall'app; al controllo del 28/10/2026 non ce n'era uno attivo. I coupon attivi del negozio sono nella [pagina di YesStyle](/it/coupons/yesstyle)."
+        "Chi accede dall'app ottiene 50 punti YS, una sola volta. Reinstallare non restituisce i punti. I punti non sono il codice ricompensa: si applicano nella fase \"Payment Information\" del checkout, mentre il CECILIA010 va nella schermata \"Enter Code\". Uno non sostituisce l'altro.",
+        "Lo shop dice di lanciare, una volta al mese e a un orario casuale, un coupon di 24 ore valido solo per ordini fatti dall'app; al controllo non ce n'era uno attivo, e il coupon in evidenza nell'app era lo stesso del sito. I coupon attivi dello shop sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle)."
       ]
     },
     {
       "heading": "Se l'app non funziona",
       "paragraphs": [
-        "Quello che il centro assistenza di YesStyle conferma:"
+        "Controlla questi tre punti:"
       ],
       "bullets": [
         "Scarica solo dai link ufficiali dell'App Store e di Google Play.",
-        "Usa l'account del sito. Non creare un account nuovo per l'app.",
-        "Accedi prima di mettere i prodotti nella borsa. Senza accesso, la borsa dell'app non si unisce a quella del sito."
+        "Usa l'account del sito. Non creare un nuovo account per l'app.",
+        "Accedi all'account prima di mettere gli articoli nel carrello. Senza accesso, il carrello dell'app non si unisce a quello del sito."
       ],
       "postParagraphs": [
-        "Sulla sicurezza del negozio risponde [YesStyle è affidabile e sicuro?](/it/reviews/yesstyle-e-affidabile-e-sicuro)."
+        "Sulla sicurezza dello shop risponde [YesStyle è affidabile?](/it/reviews/yesstyle-e-affidabile-e-sicuro)."
       ]
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "YesStyle ha un'app? Sì, per Android e iPhone, ai link ufficiali di Google Play e dell'App Store. Il negozio dice di scaricarla solo da questi due.",
-        "Il CECILIA010 vale nell'app? Sì. Nel checkout, tocca \"Enter Code\" e scrivi il codice nel campo \"Influencer / Rewards Code\". È un codice ricompensa, fino al 5% extra, e si somma al coupon del negozio, che va nel campo \"Coupon Code\".",
-        "Ricevo punti per aver scaricato l'app? Sì, 50 punti YS al primo accesso dall'app, una volta sola. Reinstallare non li dà di nuovo, e i punti non sono il codice ricompensa.",
-        "L'app ha un coupon esclusivo? Il negozio dice di pubblicare un coupon di 24 ore, una volta al mese, solo per gli ordini dall'app. Il 28/10/2026 non ce n'era uno attivo."
-      ]
-    },
-    {
-      "heading": "Nota di trasparenza",
-      "paragraphs": [
-        "Il campo del codice è stato verificato nell'app Android il 28/10/2026, con un account in inglese e consegna negli Stati Uniti. Non abbiamo fatto un acquisto dall'app: il testo non parla di tempi, costi di spedizione né tasse. Il voto e il numero di recensioni sono quelli degli store alla stessa data e cambiano nel tempo.",
-        "Possiamo ricevere una commissione dal link di YesStyle e dal codice ricompensa CECILIA010. Il prezzo per te non cambia."
+        "YesStyle ha un'app? Sì, per Android e iPhone, nei link ufficiali di Google Play e dell'App Store. Lo shop dice di scaricarla solo da questi due.",
+        "Il CECILIA010 vale nell'app? Sì. Al checkout, tocca \"Enter Code\" e digita il codice nel campo \"Influencer / Rewards Code\". È un codice ricompensa, con fino al 5% in più, e si somma al coupon dello shop, che va nel campo \"Coupon Code\".",
+        "Si guadagnano punti scaricando l'app? Sì, 50 punti YS accedendo dall'app, una sola volta. Reinstallare non li restituisce, e i punti non sono il codice ricompensa.",
+        "L'app ha un coupon esclusivo? Lo shop dice di pubblicare un coupon di 24 ore, una volta al mese, solo per ordini fatti nell'app. Al controllo non ce n'era uno attivo."
       ]
     }
   ]

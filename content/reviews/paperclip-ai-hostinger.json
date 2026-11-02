@@ -233,6 +233,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o gerenciado se quer o Paperclip funcionando sem instalar nada e prefere que a Hostinger cuide do banco, das atualizações e dos backups.",
+      "Leve o gerenciado se não sabe o que é root nem Docker."
+    ],
+    "skipIf": [
+      "Passe do gerenciado e vá de VPS se quer rodar outros programas no mesmo servidor, como um site ou um n8n, e sabe mexer num servidor ou quer aprender.",
+      "Passe do Paperclip se quer só um assistente: ele organiza uma equipe de agentes, e para uso pessoal um agente único costuma bastar."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

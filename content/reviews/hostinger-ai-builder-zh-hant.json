@@ -30,14 +30,14 @@
       "initials": "BL"
     }
   ],
-  "description": "Hostinger 的 AI Builder（原 Horizons）適合不寫程式就做一個簡單網站或 Web 應用程式的人；要外掛和完全控制的，還是 WordPress。2026年10月28日的美元價格，含續訂。",
-  "metaDescription": "Hostinger Horizons 變成了 AI Builder。值得用，還是選 WordPress？按專案類型的一張表、與 Wix 和 Lovable 的比較、AI 額度，以及2026年10月28日的價格和續訂。",
+  "description": "Hostinger 的 AI Builder（原 Horizons）適合想不寫程式就做簡單網站或 Web 應用程式的人；需要外掛和細部控制的，比較適合用 WordPress。",
+  "metaDescription": "Hostinger Horizons 已變成 AI Builder。值得用，還是選 WordPress？依專案類型整理的對照表，與 Wix、Lovable 的比較，以及 AI 額度。",
   "publishedAt": "2026年10月28日",
   "publishedAtISO": "2026-10-28",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
-  "imageAlt": "Hostinger 標誌和 AI Builder（原 Horizons）與 WordPress 面對面",
+  "imageAlt": "Hostinger 的標誌，以及 AI Builder（原 Horizons）與 WordPress 正面對比的畫面",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -50,22 +50,22 @@
     {
       "heading": "什麼是 AI Builder（原 Horizons）",
       "paragraphs": [
-        "Horizons 原本是 Hostinger 的 AI 網站和應用程式產生器。2026 年它與傳統的網站產生器合併，成了 Hostinger AI Builder：舊網址會轉到新頁面。搜尋裡還在用 Horizons 這個名字，所以本文也一併寫出。",
-        "頁面說，它根據一段文字描述就能產生網站和 Web 應用程式，不需要技術知識，有兩種模式："
+        "Horizons 曾是 Hostinger 用 AI 做網站和應用程式的工具。2026 年它與原本的網站建置工具合併，成了 AI Builder（Hostinger AI Builder）：舊網址會轉址到新頁面。搜尋時大家還在用舊名字，所以本文仍保留 Horizons 這個名稱。",
+        "頁面說，只要用文字描述，不需要任何技術知識，就能做出網站和 Web 應用程式，有兩種模式："
       ],
       "bullets": [
-        "**不用 AI 編輯（Manual 模式）：** 從 AI 產生的網站或某個範本開始，用拖放方式編輯。不消耗 AI 額度。",
-        "**用 AI 編輯（Agentic 模式）：** 在聊天裡描述你想要的，AI 負責設計和寫程式。每次操作都消耗 AI 額度，可以加值。"
+        "**不用 AI 的編輯（Manual 模式）：**從 AI 產生的網站或某個範本開始，用拖曳方式編輯。不消耗 AI 額度。",
+        "**用 AI 的編輯（Agentic 模式）：**在聊天裡說出想要什麼，由 AI 設計並撰寫程式。每次操作都消耗 AI 額度，額度用完可以儲值。"
       ],
       "postParagraphs": [
-        "做出來的是網站或 Web 應用程式，不是上 App Store 或 Google Play 的 App：頁面自己就這麼說。主機、網域和電子郵件都在方案裡，原始碼可以匯出到別處託管。以上都是 2026年10月28日讀到的 Hostinger 說法，不是我們的測試。",
-        "別把它和 Hostinger 的自動化代理程式 OpenClaw、Hermes Agent 混在一起：那些是[跑在伺服器上的助手](/zh-hant/reviews/openclaw-vs-hermes-agent-zh-hant)，在 Telegram 或 WhatsApp 裡回話。AI Builder 是用來搭網站的。"
+        "做出來的是網站或 Web 應用程式，不是上架 App Store 或 Google Play 的 App：頁面自己就是這麼說的。主機、網域和電子郵件都包含在方案裡，原始碼也可以匯出，放到別處託管。以上都是 Hostinger 的說法。",
+        "別把它和 Hostinger 的自動化代理 OpenClaw、Hermes Agent 搞混：那些是[跑在伺服器上的助理](/zh-hant/reviews/openclaw-vs-hermes-agent-zh-hant)，在 Telegram 或 WhatsApp 裡回覆。AI Builder 做的是網站。"
       ]
     },
     {
       "heading": "適合哪種專案：一張表看懂",
       "paragraphs": [
-        "該問的不是「AI 好不好用」，而是「我要做什麼，之後誰來維護」。按 2026年10月28日讀到的 AI Builder 頁面和 WordPress 文件，這張表按專案類型整理了怎麼選："
+        "該問的不是「AI 好不好用」，而是「我要做什麼，之後誰來維護」。這張表依據 AI Builder 頁面和 WordPress 文件的說法，按專案類型整理了怎麼選："
       ],
       "comparisonTable": {
         "headers": [
@@ -107,9 +107,9 @@
         ]
       },
       "image": {
-        "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-zh-hant.webp",
-        "alt": "按專案類型選 AI Builder 還是 WordPress 的表：菜單或服務頁、作品集和 Web 應用程式歸 AI Builder；依賴外掛的部落格和由別人維護的專案歸 WordPress；小店兩者都行",
-        "caption": "表格小結：簡單網站、作品集和 Web 應用程式用 AI Builder；要外掛、要把網站交給別人的用 WordPress。Em Casa com Cecília 根據 2026年10月28日頁面上的說法製作。",
+        "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-pt.webp",
+        "alt": "依專案類型選 AI Builder 還是 WordPress 的表：菜單或服務頁、作品集和 Web 應用程式歸 AI Builder；依賴外掛的部落格和由別人維護的專案歸 WordPress；小店兩者都行",
+        "caption": "表格小結：簡單網站、作品集和 Web 應用程式用 AI Builder；要外掛、要把網站交給別人的用 WordPress。Em Casa com Cecília 根據各頁面上的說法製作。",
         "objectFit": "contain",
         "aspectRatio": 1.2346
       },
@@ -120,7 +120,7 @@
     {
       "heading": "AI Builder 還是 WordPress",
       "paragraphs": [
-        "價格不是決定因素：在 Hostinger，AI Builder 包含在網站主機方案裡，和跑 WordPress 的是同一批方案，價格也一樣。不同的是誰來做事，以及你能控制什麼。"
+        "價格不是決定因素：在 Hostinger，AI Builder 包含在和 WordPress 同樣的主機方案裡，價格也一樣。不同的是誰來做事，以及你能控制什麼。"
       ],
       "comparisonTable": {
         "headers": [
@@ -131,23 +131,23 @@
         "rows": [
           [
             "誰來搭網站",
-            "AI 根據你的描述，或你在視覺化編輯器裡",
-            "你用一個主題自己做，或請專業人員"
+            "AI 根據你的描述來搭，或你自己在視覺化編輯器裡搭",
+            "你自己用主題搭，或請專業人員"
           ],
           [
             "新功能",
             "在聊天裡提出；消耗 AI 額度",
-            "外掛，成千上萬，免費或付費"
+            "外掛，成千上萬個，免費或付費"
           ],
           [
             "主題和外觀",
-            "Hostinger 的範本，由 AI 或編輯器調整",
-            "任何主題，包括客製的"
+            "Hostinger 的範本，以及透過 AI 或編輯器調整",
+            "任何主題，包括量身訂做的"
           ],
           [
             "誰來修錯誤",
-            "你向 AI 提出，或 Hostinger 客服",
-            "你、外掛作者或開發者"
+            "你自己（請 AI 改）或 Hostinger 客服",
+            "你自己、外掛作者或開發者"
           ],
           [
             "搬到別處",
@@ -157,119 +157,70 @@
           [
             "網路商店",
             "Unlimited 和 Cloud Startup 方案內建",
-            "WooCommerce 免費，擴充功能付費"
+            "WooCommerce，免費，擴充功能要付費"
           ],
           [
             "維護",
             "平台由 Hostinger 負責",
-            "更新 WordPress、主題和外掛由你負責"
+            "更新 WordPress、主題和外掛由你自己負責"
           ]
         ]
       },
       "postParagraphs": [
-        "**WordPress 勝出**的情況：專案依賴某個特定外掛、你已有的主題，或者之後有人要維護網站。它是自由軟體：整個網站都是你的，搬到任何主機都不用重做。",
-        "**AI Builder 勝出**的情況：你不想安裝、更新任何東西，又想要一個有登入和資料的 Web 應用程式，這在 WordPress 裡會變成一堆外掛。會改變決定的一點：在 AI 模式下，每次改動都要花額度。按頁面的說法，一個簡單的公司網站消耗 5 到 10 個額度，更複雜的應用程式要 15 個以上。每週都要改網站的人得算一算；做一次之後只在編輯器裡改文字和照片、不用提示詞的人，不花額度。"
+        "**WordPress 比較占優勢**的情況：專案依賴某個特定外掛、要用你已有的主題，或之後有人來維護網站。它是開源軟體：整個網站都屬於你，不用重做就能搬到任何主機。",
+        "**AI Builder 比較占優勢**的情況：你不想安裝也不想更新任何東西，想要一個有登入和資料的 Web 應用程式，這在 WordPress 裡就是一堆外掛。會改變決定的一點是：在 AI 模式下，每次修改都消耗額度。依頁面所說，一個簡單的介紹頁消耗 5 到 10 個額度，較複雜的應用程式要 15 個以上。每週都要改網站的人得算一算；做一次、之後在編輯器裡改文字和照片、不用提示詞的人，不消耗額度。"
       ]
     },
     {
       "heading": "AI Builder 還是 Wix（以及 Lovable）",
       "paragraphs": [
-        "Wix 是傳統的拖放式產生器，自帶主機。它有免費方案，用 Wix 的網址；自有網域需要付費方案。如果你要的是純粹的視覺化編輯器，Wix 能滿足。如果你更在意之後能不能把專案帶走，就按各家頁面的保證來比：AI Builder 的頁面說程式碼可以匯出，WordPress 是自由軟體，可以搬到任何主機。",
-        "Lovable 是另一個 vibe coding 工具，和 AI Builder 的 AI 模式是同一個思路：你描述，AI 寫程式。差別在包裝方式。Lovable 按額度、按訊息收費，有免費方案但每天額度很少；它是用來做東西的工具，網域和電子郵件要另外解決。在 Hostinger，主機、網域和電子郵件在同一個方案裡，無 AI 模式不花額度。已經會寫程式、只想要 AI 的人，Lovable 可以一比；想一站搞定的人，選 Hostinger。"
+        "Wix 是傳統的拖曳式建站工具，有自己的主機。它有免費方案，用的是 Wix 的網址，綁定自己的網域需要付費方案。如果你只要純粹的視覺化編輯器，Wix 就夠了。如果你在意之後能不能把專案帶走，就依各頁面的保證來比：AI Builder 的頁面說程式碼可以匯出，WordPress 是開源軟體，可以搬到任何主機。",
+        "Lovable 是另一種「氛圍編程」（vibe coding）工具，想法和 AI Builder 的 AI 模式一樣：你描述，AI 來寫程式。差別在整體方案。Lovable 依額度、按訊息收費，有每天額度很少的免費方案；它只是做東西的工具，網域和電子郵件要另外解決。在 Hostinger，主機、網域和電子郵件在同一個方案裡，無 AI 模式不消耗額度。對已經會寫程式、只想要 AI 的人，Lovable 可以比較；想把所有東西放在一處的人，選 Hostinger。"
       ]
-    },
-    {
-      "heading": "2026年10月28日的價格與續訂",
-      "paragraphs": [
-        "AI Builder 沒有單獨的方案：它包含在 48 個月的網站主機方案裡，整期一次付清。下面的價格來自 Hostinger 國際站，以美元計，已套用 SONAR20 的 20%，在 2026年10月28日的黑色星期五活動期間讀取；依國家和貨幣可能有所不同。月價是預付總額除以 48："
-      ],
-      "comparisonTable": {
-        "headers": [
-          "方案",
-          "用 SONAR20（每月）",
-          "48 個月總價",
-          "續訂",
-          "AI 額度"
-        ],
-        "rows": [
-          [
-            "[Premium（最多 3 個網站）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
-            "US$ 1.99（原價 US$ 12.19）",
-            "US$ 95.52",
-            "US$ 10.99/月",
-            "250（黑色星期五 500）"
-          ],
-          [
-            "[Unlimited（網站不限，含網路商店）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
-            "US$ 2.79（原價 US$ 18.99）",
-            "US$ 133.92",
-            "US$ 16.99/月",
-            "500（黑色星期五 1,000）"
-          ],
-          [
-            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONAR20)",
-            "US$ 6.39",
-            "US$ 306.72",
-            "US$ 25.99/月",
-            "1,000（黑色星期五 2,000）"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "實際算下來："
-      ],
-      "bullets": [
-        "**Premium，用 SONAR20：** 48 × US$ 1.99 = **US$ 95.52**。**之後 48 個月的續訂：** 48 × US$ 10.99 = US$ 527.52。",
-        "**Unlimited，用 SONAR20：** 48 × US$ 2.79 = **US$ 133.92**。**續訂：** 48 × US$ 16.99 = US$ 815.52。",
-        "**AI 額度是一次性贈送**，不是每月發放。用完就要加值，而加值價格頁面上沒有：指望它之前，先到控制台確認。表裡的額度數是 2026年10月28日方案頁面顯示的數值，黑色星期五期間翻倍。"
-      ],
-      "emphasis": "續訂價是促銷價的 4 到 6 倍。選方案之前先看續訂那一欄。"
     },
     {
       "heading": "付款前要確認什麼",
       "bullets": [
-        "**額度。** AI 模式每次請求都消耗額度，方案裡的餘額不會每月重設。用 AI 把網站搭好，文字和照片的調整在不花額度的編輯器裡做。",
-        "**不續訂會怎樣。** 頁面有提醒：方案到期不續訂，專案會下線，資料會被刪除。到期前先把程式碼匯出。",
-        "**網域和電子郵件只有第一年免費。** 之後網域按 Hostinger 的定價續訂，2026年10月28日讀到的 .com 是每年 US$ 19.99。",
-        "**30 天退款**，前提是消耗的 AI 額度少於 30 個。",
-        "**網路商店**是 Unlimited 和 Cloud Startup 方案的項目；國際站頁面寫著在結帳時提供。費用在結帳時確認。",
-        "**沒有原生 App。** AI Builder 做的是響應式 Web 應用程式，在手機瀏覽器裡開啟。要上 App Store 和 Google Play，是另一條路。"
+        "**額度。**AI 模式每次請求都消耗額度，方案裡的餘額不會每月重置。用 AI 搭好網站，文字和照片的調整在不消耗額度的編輯器裡做。",
+        "**不續約會怎樣。**頁面有提醒：方案到期未續約，專案會下線，資料會被刪除。別等到期，先匯出程式碼。",
+        "**30 天內可退款**，前提是你使用的 AI 額度少於 30 個。",
+        "**網路商店**是 Unlimited 和 Cloud Startup 方案的功能；依頁面所說，Unlimited 前 3 個月免費。之後要花多少錢，請在結帳頁確認。",
+        "**沒有原生 App。**AI Builder 做出來的是在手機瀏覽器裡開啟的響應式 Web 應用程式。要上架 App Store 或 Google Play，得走別的路。"
       ],
       "postParagraphs": [
-        "Hostinger 怎麼收費、續訂和退款，見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+        "Hostinger 怎麼收費、續約和退款，見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
       ]
     },
     {
-      "heading": "SONAR20 優惠碼與價格",
+      "heading": "優惠碼 SONAR20",
       "paragraphs": [
-        "在購物車的優惠碼欄位輸入 **SONAR20**，或從本文連結進入：**首期享 20% 折扣**，月付或年付方案都可以，新客戶和舊客戶都適用。我們沒有測試續訂，請在購物車確認續訂價。2026年10月28日，上表「用 SONAR20」那一欄就是套用這 20% 後的價格。完整規則和其他產品見[Hostinger 優惠頁](/zh-hant/coupons/hostinger)。",
-        "Hostinger 正在黑色星期五活動中，頁面上沒有結束日期，價格和翻倍的額度都可能變。付款前在購物車裡核對金額。"
+        "在購物車的優惠碼欄位輸入 **SONAR20**，或從本文連結進入：**首期享 20% 折扣**，月付或年付方案都可以，新客戶和舊客戶都適用。我們沒有測試續約，請在購物車確認價格。完整規則和其他產品見[Hostinger 優惠頁](/zh-hant/coupons/hostinger)。",
+        "價格和條件可能會變，付款前請在購物車裡核對金額。"
       ]
     },
     {
       "heading": "值得用嗎？結論",
       "paragraphs": [
-        "**值得用**：適合想要幾頁的網站、作品集、小店或簡單 Web 應用程式，又不想寫程式、不想管外掛的人。第一版由描述產生，無 AI 模式可以不花額度地調整。先從免費試用開始；結果合用的話，簡單網站 Premium 方案就夠，網路商店用 Unlimited。",
-        "**留在 WordPress**：專案依賴外掛、你自己的主題、之後維護網站的人，或者你想不用重做就把一切搬到別的主機。Hostinger 的方案兩種情況都一樣，所以選的只是工具。",
-        "**拿不準就先試 AI Builder 再付款。** 5 個免費額度，不綁卡，足夠看出 AI 是否理解你的意思。不理解的話，WordPress 還在那裡。"
+        "**值得用**，適合想要幾頁的網站、作品集、小店或簡單 Web 應用程式，又不想寫程式、也不想管外掛的人。第一版由描述產生，無 AI 模式可以不耗額度地調整。先從免費試用開始；結果合用的話，Premium 方案夠做簡單網站，Unlimited 方案夠開網路商店。",
+        "**留在 WordPress**：如果專案依賴外掛、依賴你自己的主題，之後有人來維護網站，或者你想不重做就把一切搬到別的主機。兩種情況下 Hostinger 的方案是同一個，所以只是選工具的問題。",
+        "**拿不準，就付款前先試試 AI Builder。**5 個免費額度，不用綁卡，足夠看出 AI 能不能理解你想要什麼。如果它理解不了，WordPress 還在那裡。"
       ]
     },
     {
       "heading": "常見問題",
       "bullets": [
-        "Hostinger Horizons 還在嗎？換了名字還在。2026 年 Horizons 與 Hostinger 的網站產生器合併，成了 Hostinger AI Builder，有一個拖放模式和一個聊天產生模式。舊網址會轉到新頁面。",
-        "Hostinger 的 AI Builder 能自己把網站做出來嗎？按頁面的說法，它根據你的描述搭出第一版。內容、照片和業務上的決定仍然是你的，AI 模式下每次請求都消耗額度。",
-        "用 AI Builder 需要會寫程式嗎？不需要。頁面說兩種模式都不要求技術知識。會寫程式的人在 AI 模式裡有一個程式碼編輯器。",
-        "能從 AI Builder 搬到別的主機嗎？頁面說原始碼可以匯出，到別處託管。有資料庫和登入的內建後端留在 Hostinger，所以應用程式在外面需要重新設定。",
-        "AI Builder 適合開網路商店嗎？小店可以：網路商店是 Unlimited 和 Cloud Startup 方案的項目。有運費和付款規則的大店，WordPress 加 WooCommerce 控制更多。",
-        "2026 年 Hostinger Horizons 多少錢？AI Builder 包含在網站主機方案裡。2026年10月28日國際站上，Premium 用 SONAR20 是 48 個月方案每月 US$ 1.99，續訂 US$ 10.99/月；Unlimited 每月 US$ 2.79，續訂 US$ 16.99/月。",
-        "Hostinger 的 AI Builder 有優惠碼嗎？有：在購物車的優惠碼欄位輸入 SONAR20，首期享 20% 折扣，月付或年付方案都可以，新客戶和舊客戶都適用。我們沒有測試續訂，請在購物車確認續訂價。"
+        "Hostinger Horizons 還在嗎？還在，只是換了名字。2026 年 Horizons 與 Hostinger 的網站建置工具合併，成了 AI Builder（Hostinger AI Builder），有拖曳模式和聊天建立模式。舊網址會轉址到新頁面。",
+        "Hostinger 的 AI Builder 能自己把網站做出來嗎？依頁面所說，它會根據你的描述搭出第一版。內容、照片和業務決策仍然是你的，AI 模式下每次請求都消耗額度。",
+        "用 AI Builder 需要會寫程式嗎？不需要。頁面說兩種模式都不要求技術知識。會寫程式的人，在 AI 模式裡有程式碼編輯器。",
+        "能從 AI Builder 搬到別的主機嗎？頁面說原始碼可以匯出，放到別處託管。含資料庫和登入的內建後端留在 Hostinger，所以應用程式在別處需要重新設定。",
+        "AI Builder 適合開網路商店嗎？小店可以：網路商店是 Unlimited 和 Cloud Startup 方案的功能。對運費和付款規則複雜的大店，WordPress 加 WooCommerce 控制得更細。",
+        "Hostinger 的 AI Builder 有優惠碼嗎？有：在購物車的優惠碼欄位輸入 SONAR20，首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。"
       ]
     },
     {
       "heading": "誰在寫這篇文章",
       "paragraphs": [
-        "Em Casa com Cecília 運行在 Hostinger 的託管主機上，是一個 Node.js Web App，網域從 2024 年 11 月起就註冊在 Hostinger。團隊中沒有人用過 AI Builder 或 Horizons：本文彙整的是產品頁面、WordPress 文件以及 Wix 和 Lovable 公開頁面的說法，於 2026年10月28日讀取。"
+        "Em Casa com Cecília 運行在 Hostinger 的託管主機上，是一個 Node.js Web App，網域從 2024 年起就註冊在 Hostinger。團隊中沒有人用過 AI Builder 或 Horizons：本文彙整的是產品頁面、WordPress 文件以及 Wix 和 Lovable 公開頁面的說法。"
       ]
     }
   ],
@@ -283,7 +234,7 @@
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。團隊中沒有人用過 AI Builder。",
+  "editorialNote": "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來傭金，對你沒有額外費用。團隊中沒有人用過 AI Builder。",
   "relatedArticles": [
     {
       "slug": "hostinger-referral-code-zh-hant",
@@ -295,8 +246,20 @@
     },
     {
       "slug": "hostinger-black-friday-zh-hant",
-      "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢"
+      "title": "Hostinger 黑色星期五 2026：SONAR20 優惠碼在活動價上再減 20%"
     }
   ],
-  "hideFromPortugueseListings": true
+  "hideFromPortugueseListings": true,
+  "decision": {
+    "takeIf": [
+      "如果你想不寫程式就做幾頁的網站、作品集、小店或簡單 Web 應用程式，就選 AI Builder（原 Horizons）。",
+      "如果你想把主機、網域和電子郵件放在同一個方案裡，也接受由 AI 搭出第一版，就選它。",
+      "如果你打算做一次，之後在不消耗額度的編輯器裡改文字和照片，就選它。"
+    ],
+    "skipIf": [
+      "如果專案依賴某個特定外掛或你已有的主題，就別選，留在 WordPress。",
+      "如果之後由別人或外包團隊維護網站，就別選：WordPress 是市場標準。",
+      "如果你想不重做就把一切搬到別的主機，或打算每週都請 AI 改東西（每次請求都消耗額度），就別選。"
+    ]
+  }
 }

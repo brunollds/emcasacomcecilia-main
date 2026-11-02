@@ -273,6 +273,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o VPS se o site precisa de um sistema, programa ou banco que não está no painel.",
+      "Leve se precisa de CPU e memória reservadas ou de acesso root.",
+      "Leve se tem um painel, bot ou automação (n8n, Docker) rodando o dia todo e alguém para manter o servidor."
+    ],
+    "skipIf": [
+      "Passe se é blog, portfólio, site de empresa, loja pequena ou site em Node.js: a compartilhada atende e a Hostinger cuida do servidor.",
+      "Passe se nunca abriu um terminal: instalar, atualizar, proteger e fazer backup passam a ser com você."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
