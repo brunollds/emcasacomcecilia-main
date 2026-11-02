@@ -167,7 +167,7 @@ export function ReviewNotebookTemplate({
   // Cada lugar leva a fila das campanhas que não acabaram, cada uma no seu prazo: a que ainda não começou vai
   // escondida no HTML e aparece no navegador na hora do início.
   const now = new Date();
-  const banners = store ? getArticleStoreBanners(store.slug, review.slug, now) : {};
+  const banners = store ? getArticleStoreBanners(store.slug, review.slug, couponCopyLocale, now) : {};
   const faqIndex = bodySections.findIndex(({ heading }) => isFaqHeading(heading));
   const bannerPlaces = placeStoreBanners(bodySections.map(({ id }) => id), faqIndex);
   const bannerQueue = (queue: StoreBanner[]) =>

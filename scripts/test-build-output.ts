@@ -1714,7 +1714,7 @@ for (const url of articleUrls) {
   const bannerNow = new Date();
   // Da fila de cada lugar, só a campanha no ar sai no HTML; as outras ficam para o navegador mostrar no prazo delas.
   const banners = Object.fromEntries(
-    Object.entries(bannerStore ? getArticleStoreBanners(bannerStore.slug, review.slug, bannerNow) : {})
+    Object.entries(bannerStore ? getArticleStoreBanners(bannerStore.slug, review.slug, locale, bannerNow) : {})
       .map(([slot, queue]) => [slot, queue.find((banner) => isStoreBannerLive(banner, bannerNow))])
       .filter(([, banner]) => banner)
   ) as Partial<Record<StoreBannerSlot, StoreBanner>>;
@@ -1743,7 +1743,7 @@ for (const url of articleUrls) {
     if (isArticleBannerHref(banner.href)) assert.doesNotMatch(link, /\bsponsored\b/, `${pagePath}: banner ${slot} do artigo com sponsored`);
     else assert.match(link, /\srel="[^"]*\bsponsored\b/, `${pagePath}: banner ${slot} sem rel="sponsored"`);
     const text = textOf(aside);
-    const { headline, text: bannerText, action } = banner.copy[locale];
+    const { headline, text: bannerText, action } = banner.copy[locale]!;
     for (const part of [getArticleCopy(locale).adLabel, headline, bannerText, action]) {
       assert.ok(text.includes(part), `${pagePath}: banner ${slot} sem "${part}"`);
     }

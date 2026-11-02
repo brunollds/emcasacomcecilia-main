@@ -3,6 +3,7 @@ import { getArticleCopy } from '../src/components/review/articleCopy';
 import { getCouponBySlug } from '../src/lib/couponsData';
 import { LOCALE_KEYS } from '../src/lib/i18n/locales';
 import { readdirSync, readFileSync } from 'node:fs';
+import type { CouponCopyLocale } from '../src/components/review/couponCopyLocale';
 import { STORE_BANNERS, getArticleStoreBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, storeBannersOverlap, type StoreBanner } from '../src/lib/storeBanners';
 
 // O prazo de uma campanha com um "agora" fixo. As 23h do último dia em Brasília já são o dia seguinte em UTC:
@@ -34,14 +35,18 @@ const sampleBanners = [
   sample('e-black-friday', 'e', 'top', { startsAt: '2026-11-27T00:00:00-03:00', endsAt: '2026-11-30T23:59:59-03:00' }),
   sample('e-esquenta', 'e', 'top', { startsAt: '2026-11-05T00:00:00-03:00', endsAt: '2026-11-26T23:59:59-03:00' }),
 ];
-const queueIds = (affiliate: string, slug = 'x') =>
-  Object.fromEntries(Object.entries(getArticleStoreBanners(affiliate, slug, now, sampleBanners)).map(([slot, queue]) => [slot, queue.map(({ id }) => id)]));
+const queueIds = (affiliate: string, slug = 'x', locale: CouponCopyLocale = 'pt', banners = sampleBanners) =>
+  Object.fromEntries(Object.entries(getArticleStoreBanners(affiliate, slug, locale, now, banners)).map(([slot, queue]) => [slot, queue.map(({ id }) => id)]));
 assert.deepEqual(queueIds('a'), { top: ['a-top'] }, 'campanha vencida ou de outra loja');
 assert.deepEqual(queueIds('b'), { mid: ['b-mid'] });
 assert.deepEqual(queueIds('c'), {}, 'loja sem campanha');
 assert.deepEqual(queueIds('d'), { top: ['d-top-amanha'] }, 'campanha que ainda vai começar');
 assert.deepEqual(queueIds('d', 'artigo-d'), {}, 'banner no próprio artigo');
 assert.deepEqual(queueIds('e'), { top: ['e-esquenta', 'e-black-friday'] }, 'fila na ordem do início');
+// Campanha só com o português sai só nos artigos em PT.
+const ptOnly: StoreBanner = { ...sample('f-so-pt', 'f', 'top'), copy: { pt: STORE_BANNERS[0].copy.pt } };
+assert.deepEqual(queueIds('f', 'x', 'pt', [ptOnly]), { top: ['f-so-pt'] }, 'campanha só em PT no artigo em PT');
+assert.deepEqual(queueIds('f', 'x', 'en', [ptOnly]), {}, 'campanha só em PT fora do artigo em inglês');
 assert.ok(isArticleBannerHref('/reviews/artigo-d') && !isArticleBannerHref('https://loja.com/reviews/x'));
 
 // Sobreposição no mesmo lugar: uma começa antes de a outra acabar. Sem início, já começou; sem fim, não acaba.
@@ -58,8 +63,9 @@ assert.deepEqual(placeStoreBanners(['a', 'b', 'c'], -1), { top: 'a', mid: 'c' })
 assert.deepEqual(placeStoreBanners(['a', 'faq', 'c'], 1), { top: 'a' }, 'FAQ logo depois da 1ª seção');
 assert.deepEqual(placeStoreBanners(['a', 'b'], -1), { top: 'a' }, 'artigo de duas seções');
 
-// Os dados: loja cadastrada, campanhas do mesmo lugar sem sobreposição, link de afiliado que vale nos 10 idiomas, datas com
-// fuso e os textos dos 10 idiomas, sem o código da loja.
+// Os dados: loja cadastrada, campanhas do mesmo lugar sem sobreposição, datas com fuso e os textos sem o código da loja.
+// A campanha tem só o português (sai só nos artigos em PT e pode levar à loja brasileira) ou os 10 idiomas (sai em
+// todas as versões, com um link que vale em todas).
 // Uma campanha por arquivo, com o nome igual ao id, e o módulo gerado com todas elas.
 const campaignFiles = readdirSync('content/campanhas').filter((file) => file.endsWith('.json'));
 assert.deepEqual(
@@ -82,6 +88,12 @@ for (const banner of STORE_BANNERS) {
 
   const store = getCouponBySlug(banner.affiliate);
   assert.ok(store, `${banner.id}: loja ${banner.affiliate} fora de couponsData.ts`);
+  const languages = Object.keys(banner.copy) as CouponCopyLocale[];
+  const ptOnlyBanner = languages.length === 1;
+  assert.ok(
+    ptOnlyBanner ? languages[0] === 'pt' : [...languages].sort().join() === [...LOCALE_KEYS].sort().join(),
+    `${banner.id}: textos em ${languages.join(', ')}; a campanha leva só o pt ou os 10 idiomas`
+  );
   if (isArticleBannerHref(banner.href)) {
     // O link interno só para o nosso artigo da campanha, publicado e da mesma loja, e só em campanha com fim.
     const slug = banner.href.slice('/reviews/'.length);
@@ -92,7 +104,9 @@ for (const banner of STORE_BANNERS) {
   } else {
     const url = new URL(banner.href);
     assert.equal(url.protocol, 'https:', `${banner.id}: link sem https`);
-    assert.ok(!url.hostname.startsWith('br.') && !url.hostname.endsWith('.com.br'), `${banner.id}: link de um país só (${url.hostname})`);
+    if (!ptOnlyBanner) {
+      assert.ok(!url.hostname.startsWith('br.') && !url.hostname.endsWith('.com.br'), `${banner.id}: link de um país só (${url.hostname}) numa campanha dos 10 idiomas`);
+    }
   }
   for (const date of [banner.startsAt, banner.endsAt]) {
     if (!date) continue;
@@ -103,10 +117,10 @@ for (const banner of STORE_BANNERS) {
   const code = store.offerMode === 'discount-code' ? store.code : undefined;
   // A etiqueta com número leva o "até" em cada idioma: o número sozinho diria um desconto fixo.
   if (banner.art.kind === 'tag') {
-    for (const locale of LOCALE_KEYS) assert.ok(banner.copy[locale].tag?.trim(), `${banner.id} (${locale}): etiqueta sem o "até"`);
+    for (const locale of languages) assert.ok(banner.copy[locale]?.tag?.trim(), `${banner.id} (${locale}): etiqueta sem o "até"`);
   }
-  for (const locale of LOCALE_KEYS) {
-    const copy = banner.copy[locale];
+  for (const locale of languages) {
+    const copy = banner.copy[locale]!;
     for (const [field, value] of Object.entries(copy)) {
       assert.ok(value.trim(), `${banner.id} (${locale}): ${field} vazio`);
       if (code) assert.ok(!value.includes(code), `${banner.id} (${locale}): ${field} cita o código ${code}`);
