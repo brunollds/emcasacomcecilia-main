@@ -22,6 +22,15 @@ Decisão do Bruno (02/11/2026): as 9 traduções das 32 famílias são **traduzi
 - **Título:** se o `title` ou o `seoTitle` promete o Brasil ("Brazil", imposto/tax), muda nos 9 idiomas, e o PR diz qual. Foi o caso da Black Friday da SHEIN.
 - **Outros idiomas:** o alemão usa "Sie" (como 27 dos 31 artigos alemães do site), salvo fala da autora consigo mesma que venha do PT; o nome da Cecília fica em letras latinas ("Cecília") em todos os idiomas, inclusive japonês, coreano e chinês (decisão do Bruno, 02/11/2026); onde a tradução usa セシリア, 세실리아 ou 西西莉亚/西西莉亞, volta para "Cecília". O sobrenome não entra nos alts.
 
+## Famílias com o assunto no Brasil (lotes 02 e 03, 02/11/2026)
+Em quatro famílias o PT trata do Brasil, e as traduções já tratam de outra coisa. Traduzir o PT e tirar o Brasil esvaziaria o artigo. Nelas, a tradução segue o PT na estrutura, na voz e no veredito, mas mantém o assunto regional que já tem:
+- **9, `shein-e-confiavel`:** confiança na SHEIN sem o Reclame Aqui (quem opera a loja, devolução, pagamento).
+- **10, `shein-ou-shopee-temu`:** SHEIN contra Temu; a Shopee, que só existe no PT, sai.
+- **11, `yesstyle-entrega-no-brasil-e-portugal`:** o envio para os países do idioma (EUA/Reino Unido, Espanha/México, Japão...).
+- **14, `hostinger-reclame-aqui-nota-reputacao`:** a reputação pelo Trustpilot.
+
+Dado regional (país, nota, prazo, moeda) só fica se a versão atual já o traz com a fonte no próprio artigo e segue a regra de datas do PT. Nada de pesquisa nova. Capítulo do PT sem equivalente na região sai. O PR diz, por família, o que ficou regional. Na revisão, o Muse compara com o PT a estrutura, a voz e o veredito, e confere o dado regional contra a fonte citada; não pede de volta o capítulo do Brasil. Nas outras famílias, o Reclame Aqui sai com o resto do Brasil.
+
 ## Dados que só existem na tradução
 Preço em outra moeda, frete por país e imposto local (IOSS, por exemplo) **ficam só se o próprio artigo diz de onde vêm** (a página internacional da loja, como os preços em US$ da Hostinger) e seguem as mesmas regras de data do PT. Sem fonte no artigo, saem. Nada novo entra nesta rodada.
 
