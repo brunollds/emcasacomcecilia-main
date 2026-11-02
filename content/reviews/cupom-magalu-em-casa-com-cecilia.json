@@ -19,9 +19,10 @@
   "publishedAtISO": "2026-07-17",
   "updatedAt": "2026-10-01",
   "draft": false,
-  "image": "/images/reviews/magalu/magalu-hero.webp",
-  "imageAlt": "Página da loja Magazine Você da Cecília aberta no navegador, com produtos do Magalu e campo para aplicar cupom de desconto.",
-  "imageFit": "cover",
+  "image": "/images/reviews/magalu/cupom-magalu-em-casa-com-cecilia-capa-discover.webp",
+  "imageAlt": "Cecília abrindo a embalagem da lava e seca Samsung, e a faixa com os 10 cupons de R$ 10 a R$ 100 da loja Magazine Você da Cecília",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "coupon": "10EMCASACOMCECILIA",
   "affiliate": "magalu",
   "cta": {
