@@ -102,7 +102,7 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale): 
   const showArticles = locale === 'pt' && hasArticlesPage(articleCount);
 
   // "Ir para a loja" vai à loja: o cta que aponta para uma página do site (a de cupons da loja) cede ao link de
-  // afiliado; fora do PT, o da tradução da loja, que nunca é o da SHEIN Brasil.
+  // afiliado; fora do PT, o da tradução da loja.
   const ctaUrl = review.cta?.url;
   const storeHref = (ctaUrl && !isInternalLink(ctaUrl) ? ctaUrl : undefined) || source?.offerUrl || store.offerUrl;
   const storeSponsored = storeHref === ctaUrl ? review.cta?.sponsored ?? true : true;
