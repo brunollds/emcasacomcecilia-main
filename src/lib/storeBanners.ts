@@ -22,6 +22,9 @@ export type StoreBanner = {
   // A arte é desenhada no componente: a etiqueta com o número da campanha (com o `tag` do idioma em cima, o "até")
   // ou a sacola com a etiqueta de preço.
   art: { kind: 'tag'; value: string } | { kind: 'bag' };
+  // Código da própria loja para a campanha (o 37S3442 da SHEIN), pesquisado no aplicativo dela; nunca o nosso código
+  // da loja, que o test:store-banners barra. O banner mostra o código com a frase de pesquisar no app (articleCopy.ts).
+  code?: string;
   // Com o fuso de Brasília (-03:00). Sem `endsAt`, o banner fica até o arquivo dele sair de content/campanhas.
   startsAt?: string;
   endsAt?: string;
@@ -68,6 +71,20 @@ export function getArticleStoreBanners(
     .sort((a, b) => startOf(a) - startOf(b))
     .forEach((banner) => (queues[banner.slot] ??= []).push(banner));
   return queues;
+}
+
+// As campanhas da página da loja (/cupons/<loja> e as traduzidas), logo antes das regras: todas as da loja que ainda
+// não acabaram e têm o texto do idioma, na ordem do início, cada uma no seu prazo (a futura aparece no navegador).
+export function getStorePageBanners(
+  affiliate: string,
+  locale: CouponCopyLocale,
+  now: Date,
+  banners: StoreBanner[] = STORE_BANNERS
+): StoreBanner[] {
+  const startOf = (banner: StoreBanner) => (banner.startsAt ? Date.parse(banner.startsAt) : -Infinity);
+  return banners
+    .filter((banner) => banner.affiliate === affiliate && banner.copy[locale] && isStoreBannerLive({ endsAt: banner.endsAt }, now))
+    .sort((a, b) => startOf(a) - startOf(b));
 }
 
 // Duas campanhas do mesmo lugar se sobrepõem quando uma começa antes de a outra acabar. Sem `startsAt`, a campanha

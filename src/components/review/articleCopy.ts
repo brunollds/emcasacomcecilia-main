@@ -69,6 +69,8 @@ export type ArticleCopy = {
   listenStop: string;
   // Selo dos banners de campanha da loja entre as seções do artigo (storeBanners.ts).
   adLabel: string;
+  // O código da própria loja num banner de campanha (StoreBanner.code): pesquisa-se no aplicativo dela.
+  bannerCodeHint: (code: string, brand: string) => string;
   // Quadro de decisão dos guias (ArticleDecision): o nome do bloco para o leitor de tela e os títulos das duas listas.
   decisionLabel: string;
   decisionTakeIf: string;
@@ -126,6 +128,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'Continuar',
     listenStop: 'Parar',
     adLabel: 'Publicidade',
+    bannerCodeHint: (code, brand) => `Pesquise ${code} no aplicativo ${brand}.`,
     decisionLabel: 'Leve ou passe',
     decisionTakeIf: 'Leve se',
     decisionSkipIf: 'Passe se',
@@ -180,6 +183,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'Resume',
     listenStop: 'Stop',
     adLabel: 'Advertisement',
+    bannerCodeHint: (code, brand) => `Search ${code} in the ${brand} app.`,
     decisionLabel: 'Buy it or skip it',
     decisionTakeIf: 'Buy it if',
     decisionSkipIf: 'Skip it if',
@@ -234,6 +238,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'Reanudar',
     listenStop: 'Detener',
     adLabel: 'Publicidad',
+    bannerCodeHint: (code, brand) => `Busca ${code} en la app de ${brand}.`,
     decisionLabel: 'Comprar o pasar',
     decisionTakeIf: 'Cómpralo si',
     decisionSkipIf: 'Mejor pásalo si',
@@ -288,6 +293,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'Reprendre',
     listenStop: 'Arrêter',
     adLabel: 'Publicité',
+    bannerCodeHint: (code, brand) => `Recherchez ${code} dans l’appli ${brand}.`,
     decisionLabel: 'Le prendre ou pas',
     decisionTakeIf: 'À prendre si',
     decisionSkipIf: 'À éviter si',
@@ -342,6 +348,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'Fortsetzen',
     listenStop: 'Stopp',
     adLabel: 'Anzeige',
+    bannerCodeHint: (code, brand) => `Suche ${code} in der ${brand}-App.`,
     decisionLabel: 'Kaufen oder lassen',
     decisionTakeIf: 'Zugreifen, wenn',
     decisionSkipIf: 'Lieber lassen, wenn',
@@ -396,6 +403,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'Riprendi',
     listenStop: 'Interrompi',
     adLabel: 'Pubblicità',
+    bannerCodeHint: (code, brand) => `Cerca ${code} nell’app ${brand}.`,
     decisionLabel: 'Prenderlo o no',
     decisionTakeIf: 'Prendilo se',
     decisionSkipIf: 'Lascia perdere se',
@@ -450,6 +458,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: '계속 듣기',
     listenStop: '정지',
     adLabel: '광고',
+    bannerCodeHint: (code, brand) => `${brand} 앱에서 ${code}을(를) 검색하세요.`,
     decisionLabel: '살까 말까',
     decisionTakeIf: '이런 분께 추천',
     decisionSkipIf: '이런 분은 패스',
@@ -504,6 +513,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: '再開',
     listenStop: '停止',
     adLabel: '広告',
+    bannerCodeHint: (code, brand) => `${brand} アプリで ${code} を検索してください。`,
     decisionLabel: '買うか見送るか',
     decisionTakeIf: 'こんな人におすすめ',
     decisionSkipIf: 'こんな人は見送り',
@@ -558,6 +568,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: '繼續',
     listenStop: '停止',
     adLabel: '廣告',
+    bannerCodeHint: (code, brand) => `請在 ${brand} App 搜尋 ${code}。`,
     decisionLabel: '買或不買',
     decisionTakeIf: '這些情況適合買',
     decisionSkipIf: '這些情況可以略過',
@@ -612,6 +623,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: '继续',
     listenStop: '停止',
     adLabel: '广告',
+    bannerCodeHint: (code, brand) => `请在 ${brand} App 中搜索 ${code}。`,
     decisionLabel: '买或不买',
     decisionTakeIf: '这些情况适合买',
     decisionSkipIf: '这些情况可以跳过',
