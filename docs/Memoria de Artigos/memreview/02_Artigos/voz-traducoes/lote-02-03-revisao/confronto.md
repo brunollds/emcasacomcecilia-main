@@ -1,0 +1,458 @@
+# Confronto - Muse x minha passada (revisão das traduções novas, lotes 02 e 03)
+
+Muse: 214 FIX {'N': 56, 'V': 85, 'F': 63, 'TR': 10} | Minha: 191 FIX {'V': 93, 'N': 15, 'TR': 31, 'F': 52} | mesmo trecho: 46 | só Muse: 168 | só minha: 145
+
+## Por família (FIX Muse/minha | concordam | só C | só M)
+
+- codigo-de-indicacao-shein: 24/4 | concordam 3 | só C 21 | só M 1
+- shein-e-confiavel: 22/15 | concordam 2 | só C 20 | só M 13
+- shein-ou-shopee-temu: 14/24 | concordam 6 | só C 8 | só M 18
+- yesstyle-entrega-no-brasil-e-portugal: 10/22 | concordam 1 | só C 9 | só M 21
+- yesstyle-ou-stylevana: 7/0 | concordam 0 | só C 7 | só M 0
+- hostinger-e-confiavel: 8/16 | concordam 6 | só C 2 | só M 10
+- hostinger-reclame-aqui-nota-reputacao: 24/4 | concordam 0 | só C 24 | só M 4
+- cupom-hostinger-indicacao: 7/17 | concordam 1 | só C 6 | só M 16
+- black-friday-hostinger: 7/9 | concordam 0 | só C 7 | só M 9
+- yesstyle-ou-olive-young: 23/14 | concordam 5 | só C 18 | só M 9
+- openclaw-hostinger-gerenciado-ou-vps: 28/39 | concordam 11 | só C 17 | só M 28
+- melhor-vps-para-openclaw: 28/9 | concordam 7 | só C 21 | só M 2
+- openclaw-ou-hermes-agent: 12/18 | concordam 4 | só C 8 | só M 14
+
+## Concordam (mesmo trecho)
+
+- codigo-de-indicacao-shein | zh-hant | 搜尋後會出現什麼，你能得到什麼 :: C[V] 傭金不會增加你支付的金額。 || M[V] 傭金不會增加你支付的金額。
+- codigo-de-indicacao-shein | zh-hant | 常見問題 :: C[V] 如果你在 24 小時內完成購買，那個人會獲得傭金，你無須額外付費。 || M[V] 那個人會獲得傭金，你無須額外付費。
+- codigo-de-indicacao-shein | zh-hant | editorialNote :: C[V] 購物後我們可能獲得傭金。 || M[V] 購物後我們可能獲得傭金。
+- shein-e-confiavel | zh-hans | SHEIN 由谁运营，是哪个国家的公司 :: C[TR] SHEIN 在十个市场的首页，为本指南截取。每个市场都有自己的网站，各网站的隐私政策都会写明负责该网站的公司。 || M[TR] SHEIN 在十个市场的首页，为本指南截取。
+- shein-e-confiavel | zh-hant | SHEIN 由誰營運，是哪個國家的公司 :: C[TR] SHEIN 在十個市場的首頁，為本指南擷取。每個市場都有自己的網站，各網站的隱私權政策都會寫明負責該網站的公司。 || M[TR] SHEIN 在十個市場的首頁，為本指南擷取。
+- shein-ou-shopee-temu | it | SHEIN e Temu a confronto in Italia :: C[V] Fonti, consultate il 12 e il 13 ottobre 2026: || M[V] Fonti, consultate il 12 e il 13 ottobre 2026: informativa sulla privacy e pagine su spedizione e resi del sito SHEIN per l'Italia,
+- shein-ou-shopee-temu | de | SHEIN und Temu im Vergleich für Deutschland :: C[F] Standard: Ankunftsdatum wird in der Bestellung angezeigt || M[TR] Standard: 9 bis 14 Tage nach Bestellung, mit Ankunftsdatum an der Kasse
+- shein-ou-shopee-temu | ko | 제휴와 추천 코드 :: C[V] 쿠폰 입력란이 아니라 SHEIN 검색창에 검색합니다. || M[V] 쿠폰 입력란이 아니라 SHEIN 검색창에 입력합니다.
+- shein-ou-shopee-temu | ko | 자주 묻는 질문 :: C[V] 쿠폰 입력란이 아니라 SHEIN 검색창에 검색합니다. || M[V] 쿠폰 입력란이 아니라 SHEIN 검색창에 입력합니다.
+- shein-ou-shopee-temu | zh-hans | 新加坡：SHEIN 和 Temu 并排对比 :: C[F] 购买后 90 天内（依 Temu 退货政策） || M[F] 购买后 90 天内（按 Temu 的退货政策）；每个订单第一次退货免费，第二次起从退款中扣除退货运费（投递点每件约 S$2.55）
+- shein-ou-shopee-temu | zh-hant | 新加坡：SHEIN 和 Temu 並排比較 :: C[F] 購買後 90 天內（依 Temu 退貨政策） || M[F] 購買後 90 天內（按 Temu 的退貨政策）；每筆訂單第一次退貨免費，第二次起從退款中扣除退貨運費（投遞點每件約 S$2.55）
+- yesstyle-entrega-no-brasil-e-portugal | es | Impuestos: lo que ya está en el precio y lo que llega después :: C[V] (remover cláusula) || M[TR] **México, Chile, Perú, Argentina y Colombia:** YesStyle no tiene página de impuestos para estos países. Si la aduana cobra impuest
+- hostinger-e-confiavel | es | CTA :: C[V] 20 % en el primer período || M[V] o entra por el enlace: 20 % en el primer período.
+- hostinger-e-confiavel | fr | CTA :: C[N] dans le champ de code promo du panier || M[N] Entrez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien
+- hostinger-e-confiavel | de | CTA :: C[F] Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link: 20 % im ersten Zeitraum. || M[F] Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum.
+- hostinger-e-confiavel | ja | CTA :: C[F] リンクからプランをご覧ください。更新は検証していません。カートで価格を確認してください。 || M[F] カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、最初の契約期間が20%割引になります。更新は検証していません。カートで価格を確認してください。
+- hostinger-e-confiavel | ko | CTA :: C[N] 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 || M[F] 쿠폰 SONAR20을 장바구니에 넣거나 이 글의 링크로 들어가면 첫 결제 기간에 20% 할인이 적용됩니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.
+- hostinger-e-confiavel | zh-hant | CTA :: C[N] 在購物車的優惠碼欄輸入 SONAR20，首個計費週期享 20% 折扣。 || M[F] 在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。我們沒有測試過續訂；請在購物車確認價格。
+- cupom-hostinger-indicacao | it | Il sito gira su Hostinger :: C[F] Personalmente, non ha mai visto il servizio andare giù. || M[V] Personalmente, non ha mai visto un'interruzione del servizio.
+- yesstyle-ou-olive-young | ja | (title) :: C[F] YesStyleとOlive Youngを比較：お住まいの国への配送・送料・関税・返品 || M[F] YesStyleとOlive Youngを比較：お住まいの国への配送・送料・関税・返品
+- yesstyle-ou-olive-young | ko | (title) :: C[F] YesStyle vs Olive Young Global: 사는 나라 배송, 관세, 반품 비교 || M[F] YesStyle vs Olive Young Global: 사는 나라 배송, 관세, 반품 비교
+- yesstyle-ou-olive-young | ko | (cta) :: C[TR] 결제 화면에서 받을 주소의 배송비와 세금을 확인하고 Reward Code 칸에 CECILIA010을 입력하세요. || M[TR] 결제 화면에서 받는 주소의 배송비와 관세를 확인하고 Reward Code 칸에 CECILIA010을 입력하세요.
+- yesstyle-ou-olive-young | zh-hans | (title) :: C[F] YesStyle 还是 Olive Young？你所在国家的运送、运费、税费与退货比较 || M[F] YesStyle 还是 Olive Young？所在国家的运送、运费、税费与退货比较
+- yesstyle-ou-olive-young | zh-hant | (title) :: C[F] YesStyle 還是 Olive Young？你所在國家的運送、運費、稅金與退貨比較 || M[F] YesStyle 還是 Olive Young？所在國家的運送、運費、稅費與退貨比較
+- openclaw-hostinger-gerenciado-ou-vps | en | description (meta) :: C[V] OpenClaw on Hostinger: managed is cheaper in the first period, and the VPS gives you root and Docker, plus who each one suits. || M[V] OpenClaw on Hostinger: managed is cheaper in the first period, and the VPS gives you root and Docker. Find out who each one suits.
+- openclaw-hostinger-gerenciado-ou-vps | es | description (meta) :: C[V] OpenClaw en Hostinger: el gestionado sale más barato en el primer período, y el VPS da root y Docker, y para quién sirve cada uno. || M[V] OpenClaw en Hostinger: el gestionado sale más barato en el primer período, y el VPS ofrece acceso root y Docker. Descubre para qui
+- openclaw-hostinger-gerenciado-ou-vps | es | Preguntas frecuentes :: C[V] La página de Paperclip no incluye créditos de IA, así que lleva tu propia clave. || M[V] La página de Paperclip no incluye créditos de IA, así que lleva tu propia clave.
+- openclaw-hostinger-gerenciado-ou-vps | fr | description (meta) :: C[V] OpenClaw chez Hostinger : le géré coûte moins cher la première période, et le VPS donne root et Docker, et à qui convient chacun. || M[V] OpenClaw chez Hostinger : le géré coûte moins cher la première période, et le VPS offre l'accès root et Docker. Voyez à qui convie
+- openclaw-hostinger-gerenciado-ou-vps | fr | Géré ou VPS : le tableau :: C[V] Facultatifs : vous pouvez les acheter au moment de payer || M[V] Facultatifs : en supplément au moment de la commande
+- openclaw-hostinger-gerenciado-ou-vps | it | description (meta) :: C[V] OpenClaw su Hostinger: il gestito costa meno nel primo periodo, e il VPS dà root e Docker, e a chi serve ciascuno. || M[V] OpenClaw su Hostinger: il gestito costa meno nel primo periodo, e il VPS offre accesso root e Docker. Ecco a chi è adatto ciascuno
+- openclaw-hostinger-gerenciado-ou-vps | de | description (meta) :: C[V] OpenClaw bei Hostinger: Die verwaltete Option ist im ersten Zeitraum günstiger, der VPS bietet Root und Docker, und für wen welche || M[V] OpenClaw bei Hostinger: Die verwaltete Option ist im ersten Zeitraum günstiger, der VPS bietet Root und Docker — und hier steht, f
+- openclaw-hostinger-gerenciado-ou-vps | de | Häufige Fragen :: C[TR] Braucht man ein Konto bei OpenAI oder Anthropic? || M[TR] Braucht man ein Konto bei OpenAI oder Anthropic?
+- openclaw-hostinger-gerenciado-ou-vps | ja | cta (meta) :: C[F] カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。カートで価格を確認してください。 || M[F] 最初の期間が 20% 割引です。更新は検証していないので、カートで価格を確認してください。
+- openclaw-hostinger-gerenciado-ou-vps | zh-hans | cta (meta) :: C[V] 在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。 || M[V] 在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。
+- openclaw-hostinger-gerenciado-ou-vps | zh-hant | cta (meta) :: C[F] 在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20%。我們沒有測試續訂，請在購物車確認價格。 || M[F] 在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續訂，請在購物車確認價格。
+- melhor-vps-para-openclaw | fr | cta (meta) :: C[V] Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons p || M[V] Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période.
+- melhor-vps-para-openclaw | it | Quale piano KVM scegliere :: C[F] **KVM 2 (8 GB).** Con chiave API, c'è ampio margine. || M[V] **KVM 2 (8 GB).** Con chiave API, avanza margine.
+- melhor-vps-para-openclaw | de | Welchen KVM-Tarif wählen :: C[V] Mit lokalem Modell liegt er genau an der Untergrenze, ohne Reserve für das System. || M[V] **KVM 2 (8 GB).** Mit API-Schlüssel gibt es reichlich Spielraum. Mit lokalem Modell liegt er an der Untergrenze, ohne Reserve für 
+- melhor-vps-para-openclaw | ja | cta (meta) :: C[F] カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新は検証していません。カートで価格を確認してください。 || M[F] カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新は検証していないので、カートで価格を確かめてください。
+- melhor-vps-para-openclaw | ko | cta (meta) :: C[F] 쿠폰 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣거나 이 링크로 들어가세요. 첫 기간 20%입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. || M[F] 쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%. 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.
+- melhor-vps-para-openclaw | ko | 어떤 KVM 플랜을 고를까 :: C[V] [SONAR20 쿠폰 사용법 보기](/ko/reviews/hostinger-referral-code-ko). 결제 전에 장바구니에서 금액을 확인하세요. || M[V] [SONAR20 쿠폰 사용법 보기](/ko/reviews/hostinger-referral-code-ko). 결제 전에 장바구니에서 금액을 확인하세요.
+- melhor-vps-para-openclaw | zh-hant | cta (meta) :: C[F] 在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。我們沒有測試續約，請在購物車裡確認價格。 || M[F] 在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。我們沒有測試續約；請在購物車裡確認價格。
+- openclaw-ou-hermes-agent | es | Qué es cada uno :: C[V] Menciona Nous Portal, una suscripción con herramientas como búsqueda web, navegación y generación de imágenes, sin indicar el prec || M[V] Menciona Nous Portal, una suscripción con herramientas como búsqueda web, navegación y generación de imágenes, sin precio indicado
+- openclaw-ou-hermes-agent | es | Tabla comparativa :: C[V] Terminal (TUI) y Hermes Desktop, con instalador para Windows y macOS; interfaz web no indicada || M[V] Terminal (TUI) y Hermes Desktop, con instalador para Windows y macOS; interfaz web no indicada
+- openclaw-ou-hermes-agent | de | Wo Sie bei Hostinger betreiben :: C[V] Beim verwalteten Tarif enthält der Tarif ein KI-Startguthaben, und was darüber hinausgeht, wird nach Verbrauch berechnet. || M[V] Der verwaltete Tarif enthält ein Startguthaben an KI-Credits, und was darüber hinausgeht, wird nach Verbrauch berechnet.
+- openclaw-ou-hermes-agent | ja | インストール前に :: C[V] 利用料はプロバイダーから直接請求されます。 || M[V] 利用料はプロバイダーが直接請求します。
+
+## Só Muse
+
+- codigo-de-indicacao-shein | N | en | How to get your own referral code | To sign up, search for "afiliado" in the SHEIN app and verify an Instagram, YouTube o -> To sign up, search for the affiliate program in the SHEIN app and verify an Instagram, YouTube or TikTok accou
+- codigo-de-indicacao-shein | N | en | Frequently asked questions | After you sign up, using the search "afiliado" in the app, it appears on the affiliat -> After you sign up, using the search for the affiliate program in the app, it appears on the affiliate home pag
+- codigo-de-indicacao-shein | N | fr | Comment obtenir votre code de parrainage | Pour vous inscrire, recherchez « afiliado » dans l'application SHEIN et validez un co -> Pour vous inscrire, recherchez le programme d'affiliation dans l'application SHEIN et validez un compte Instag
+- codigo-de-indicacao-shein | N | fr | Questions fréquentes | Après l'inscription, faite par la recherche « afiliado » dans l'application, il appar -> Après l'inscription, faite par la recherche du programme d'affiliation dans l'application, il apparaît sur la 
+- codigo-de-indicacao-shein | N | it | Come ottenere il tuo codice invito | Per registrarti, cerca "afiliado" nell'app SHEIN e convalida un account Instagram, Yo -> Per registrarti, cerca il programma di affiliazione nell'app SHEIN e convalida un account Instagram, YouTube o
+- codigo-de-indicacao-shein | N | it | Domande frequenti | Dopo la registrazione, fatta con la ricerca "afiliado" nell'app, compare nella home d -> Dopo la registrazione, fatta cercando il programma di affiliazione nell'app, compare nella home dell'affiliato
+- codigo-de-indicacao-shein | V | it | Come ottenere il tuo codice invito | Il codice invito nasce dal programma di affiliazione di SHEIN. -> Il codice invito si ottiene tramite il programma di affiliazione di SHEIN.
+- codigo-de-indicacao-shein | V | it | Domande frequenti | Il codice invito nasce dal programma di affiliazione di SHEIN. -> Il codice invito si ottiene tramite il programma di affiliazione di SHEIN.
+- codigo-de-indicacao-shein | N | de | So bekommen Sie Ihren eigenen Empfehlungscode | Zur Anmeldung suchen Sie in der SHEIN-App nach "afiliado" und bestätigen ein Instagra -> Zur Anmeldung suchen Sie in der SHEIN-App nach dem Affiliate-Programm und bestätigen ein Instagram-, YouTube- 
+- codigo-de-indicacao-shein | N | de | Häufige Fragen | Nach der Anmeldung, die über die Suche "afiliado" in der App erfolgt, erscheint er au -> Nach der Anmeldung, die über die Suche nach dem Affiliate-Programm in der App erfolgt, erscheint er auf der St
+- codigo-de-indicacao-shein | V | de | Wo Sie den SHEIN-Empfehlungscode eingeben | Die Bildschirme unten stammen von der SHEIN-Website auf dem Smartphone, ohne Anmeldun -> Die Screenshots unten stammen von der SHEIN-Website auf dem Smartphone, ohne Anmeldung:
+- codigo-de-indicacao-shein | N | ja | 自分の紹介コードを手に入れる方法 | 登録するには、SHEINアプリで「afiliado」を検索し、フォロワー数の下限など、プログラムの条件を満たすInstagram、YouTube、TikTokのアカウント -> 登録するには、SHEINアプリでアフィリエイトプログラムを検索し、フォロワー数の下限など、プログラムの条件を満たすInstagram、YouTube、TikTokのアカウントを認証します。
+- codigo-de-indicacao-shein | N | ja | よくある質問 | アプリで「afiliado」を検索して登録すると、アフィリエイターのホームページに表示されます。 -> アプリでアフィリエイトプログラムを検索して登録すると、アフィリエイターのホームページに表示されます。
+- codigo-de-indicacao-shein | V | ja | CTA | Cecília のリンクから SHEIN を開くか、SHEIN アプリの検索バーで 4CW5Y を検索してください -> CecíliaのリンクからSHEINを開くか、SHEINアプリの検索バーで4CW5Yを検索してください
+- codigo-de-indicacao-shein | V | ja | よくある質問 | 4CW5Y は現在のCecíliaのコードです。 -> 4CW5Yは現在のCecíliaのコードです。
+- codigo-de-indicacao-shein | N | ko | 내 추천 코드를 받는 방법 | 가입하려면 SHEIN 앱에서 "afiliado"를 검색하고, 최소 팔로워 수 등 프로그램 요건을 충족하는 Instagram, YouTube 또는 TikT -> 가입하려면 SHEIN 앱에서 제휴 프로그램을 검색하고, 최소 팔로워 수 등 프로그램 요건을 충족하는 Instagram, YouTube 또는 TikTok 계정을 인증하세요.
+- codigo-de-indicacao-shein | N | ko | 자주 묻는 질문 | 앱에서 "afiliado"를 검색해 가입하면 제휴 파트너 홈 페이지에 나타납니다. -> 앱에서 제휴 프로그램을 검색해 가입하면 제휴 파트너 홈 페이지에 나타납니다.
+- codigo-de-indicacao-shein | N | zh-hans | 如何获得你自己的推荐码 | 要注册，请在 SHEIN 应用中搜索“afiliado”，并验证一个符合计划要求（例如粉丝数达到最低门槛）的 Instagram、YouTube 或 TikTok 账号。 -> 要注册，请在 SHEIN 应用中搜索联盟计划，并验证一个符合计划要求（例如粉丝数达到最低门槛）的 Instagram、YouTube 或 TikTok 账号。
+- codigo-de-indicacao-shein | N | zh-hans | 常见问题 | 在应用中搜索“afiliado”完成注册后，它会显示在联盟推广者的首页。 -> 在应用中搜索联盟计划完成注册后，它会显示在联盟推广者的首页。
+- codigo-de-indicacao-shein | N | zh-hant | 如何取得你自己的推薦碼 | 要註冊，請在 SHEIN App 中搜尋「afiliado」，並驗證一個符合計畫要求（例如粉絲數達到最低門檻）的 Instagram、YouTube 或 TikTok 帳 -> 要註冊，請在 SHEIN App 中搜尋聯盟計畫，並驗證一個符合計畫要求（例如粉絲數達到最低門檻）的 Instagram、YouTube 或 TikTok 帳號。
+- codigo-de-indicacao-shein | N | zh-hant | 常見問題 | 在 App 中搜尋「afiliado」完成註冊後，它會顯示在聯盟推廣者的首頁。 -> 在 App 中搜尋聯盟計畫完成註冊後，它會顯示在聯盟推廣者的首頁。
+- shein-e-confiavel | V | en | What SHEIN sells | Pet supplies and automotive. The US site also lists books and magazines, and food and -> Pet supplies and automotive accessories. The US site also lists books and magazines, and food and drinks.
+- shein-e-confiavel | N | fr | Partenariat et code de parrainage | Code de parrainage SHEIN : où le saisir et comment il fonctionne -> Code de parrainage SHEIN : où le mettre et comment l'utiliser
+- shein-e-confiavel | V | fr | Est-il sûr de payer, et que fait SHEIN de vos données ? | ou dans l'appli SHEIN téléchargée depuis la boutique d'applications officielle de vot -> ou dans l'application SHEIN téléchargée depuis la boutique d'applications officielle de votre téléphone.
+- shein-e-confiavel | V | fr | Questions fréquentes | ou dans l'appli SHEIN téléchargée depuis la boutique d'applications officielle de vot -> ou dans l'application SHEIN téléchargée depuis la boutique d'applications officielle de votre téléphone.
+- shein-e-confiavel | V | fr | Ce que vend SHEIN | Animaux de compagnie et automobile. -> Animaux de compagnie et accessoires automobiles.
+- shein-e-confiavel | V | fr | Ce que vend SHEIN | Téléphones portables et accessoires, électronique. -> Téléphones portables et accessoires, appareils électroniques.
+- shein-e-confiavel | V | it | Cosa vende SHEIN | Prodotti per animali e automobile. -> Prodotti per animali e accessori per auto.
+- shein-e-confiavel | V | de | Ist Bezahlen bei SHEIN sicher, und was gilt für Ihre Daten? | Wenn Sie das beschäftigt, lesen Sie ihn, bevor Sie ein Konto anlegen. -> Wenn Sie das beunruhigt, lesen Sie ihn, bevor Sie ein Konto anlegen.
+- shein-e-confiavel | F | ja | SHEIN の運営会社と、どこの国の会社か | どこの国の会社かは、報道ごとに分けて見ましょう。フィナンシャル・タイムズは、SHEIN は中国で生まれたと伝えています。 -> フィナンシャル・タイムズは、SHEIN は中国で生まれたと伝えています。
+- shein-e-confiavel | F | ja | まずは結論 | 判断のポイントは返品期限と関税です。詳しくは下の「返品と関税」をご覧ください。 -> 判断のポイントは返品期限と関税です。詳しくは下の各章をご覧ください。支払う前に確認することもまとめています。
+- shein-e-confiavel | F | ko | 답변 요약 | 판단에서 중요한 것은 반품 기한과 수입 세금입니다. 자세한 내용은 아래 '반품 기한과 세금 확인' 장에서 확인하세요. -> 판단에서 중요한 것은 반품 기한과 수입 세금입니다. 자세한 내용은 아래 각 장에서 확인하고, 결제 전에 확인할 것도 살펴보세요.
+- shein-e-confiavel | N | ko | 파트너십과 추천 코드 | Cecília는 SHEIN의 어필리에이트 파트너입니다. -> Cecília는 SHEIN의 제휴 파트너입니다.
+- shein-e-confiavel | F | zh-hans | SHEIN 由谁运营，是哪个国家的公司 | 关于 SHEIN 的来历，每个说法都要对应各自的报道。《金融时报》报道，SHEIN 诞生于中国。 -> 《金融时报》报道，SHEIN 诞生于中国。
+- shein-e-confiavel | F | zh-hans | 快速解答 | 判断的关键是退货期限和进口税。详情见下文“退货与进口税”。 -> 判断的关键是退货期限和进口税。下文各章会分别解释，付款前要确认的事项也一并列出。
+- shein-e-confiavel | N | zh-hans | 合作与推荐码 | Cecília 是 SHEIN 的联盟会员 -> Cecília 是 SHEIN 的联盟推广者
+- shein-e-confiavel | F | zh-hant | SHEIN 由誰營運，是哪個國家的公司 | 關於 SHEIN 的來歷，每個說法都要對應各自的報導。《金融時報》報導，SHEIN 誕生於中國。 -> 《金融時報》報導，SHEIN 誕生於中國。
+- shein-e-confiavel | F | zh-hant | 快速解答 | 判斷的關鍵是退貨期限與進口稅。詳情見下文「退貨與進口稅」。 -> 判斷的關鍵是退貨期限與進口稅。下文各章會分別解釋，付款前要確認的事項也一併列出。
+- shein-e-confiavel | V | zh-hant | 合作與推薦碼 | 可能產生佣金 -> 可能產生傭金
+- shein-e-confiavel | V | zh-hant | editorialNote | 我們可能從 SHEIN 的購買中獲得佣金，你不需要額外付費。 -> 我們可能從 SHEIN 的購買中獲得傭金，你不需要額外付費。
+- shein-e-confiavel | N | zh-hant | 合作與推薦碼 | Cecília 是 SHEIN 的聯盟會員 -> Cecília 是 SHEIN 的聯盟推廣者
+- shein-ou-shopee-temu | F | en | Returns are where the stores differ most | In the US, SHEIN's site (SHEIN US Services, LLC) publishes returns up to 30 days afte -> Remover frase US; bullet termina em ...only come back within the 14 days.
+- shein-ou-shopee-temu | N | es | SHEIN y Temu lado a lado en México | Estándar: 4 a 28 días hábiles. Punto de recogida: 4 a 16 -> Estándar: 4 a 28 días hábiles. Punto de recogida: 4 a 16 días hábiles
+- shein-ou-shopee-temu | N | fr | SHEIN et Temu côte à côte en France | Standard : 4 à 8 jours ouvrés. Point Relais : 5 à 9 -> Standard : 4 à 8 jours ouvrés. Point Relais : 5 à 9 jours ouvrés
+- shein-ou-shopee-temu | N | it | SHEIN e Temu a confronto in Italia | Standard: 6-12 giorni lavorativi. Express: 6-11 giorni -> Standard: 6-12 giorni lavorativi. Express: 6-11 giorni lavorativi
+- shein-ou-shopee-temu | V | de | Häufige Fragen | den Sie in der Suche des Shops eingeben. -> den Sie in der Suche des Shops suchen.
+- shein-ou-shopee-temu | F | ja | 日本向けの SHEIN と Temu を並べて比べる | お急ぎ便：確認した注文では、注文の6〜8日後がお届け予定 -> お急ぎ便：お届け予定は注文ページに表示
+- shein-ou-shopee-temu | F | zh-hans | 新加坡：SHEIN 和 Temu 并排对比 | 同一订单第二次退货起，每次扣 S$3 或 S$4 -> Especificar qual método custa S$3 vs S$4 pela página da loja
+- shein-ou-shopee-temu | F | zh-hant | 新加坡：SHEIN 和 Temu 並排比較 | 同一訂單第二次退貨起，每次扣 S$3 或 S$4 -> Especificar S$3 vs S$4 pela página
+- yesstyle-entrega-no-brasil-e-portugal | F | en | Delivery time and shipping cost in the US, UK, Canada, Australia, Ireland and New Zealand | US$ 12 or US$ 18, depending on the order value -> US$ 12/US$ 18 with order-value bands from table (add bands or remove vague cell)
+- yesstyle-entrega-no-brasil-e-portugal | V | en | Delivery time and shipping cost in the US, UK, Canada, Australia, Ireland and New Zealand | US$ 9 from US$ 80 to under US$ 200; US$ 20 below US$ 80 -> US$ 9 for orders of US$ 80 to under US$ 200; US$ 20 for orders under US$ 80
+- yesstyle-entrega-no-brasil-e-portugal | F | es | Plazo y costo de envío en España, México, Chile, Perú, Argentina y Colombia | El 11 de agosto de 2026, YesStyle avisó de atrasos en los envíos a Colombia a causa d -> Remover frase; manter só tabela 13/10 + impostos 12/10
+- yesstyle-entrega-no-brasil-e-portugal | N | es | Cómo devolver un producto | href: /es/reviews/es-yesstyle-de-fiar-y-seguro (label confiable y seguro) -> href ES real sem catalão de-fiar
+- yesstyle-entrega-no-brasil-e-portugal | V | it | Disponibile o in attesa di stock: cosa dice la pagina del prodotto | Stock disponibile tra: 3-5 giorni: / Stock disponibile tra: 7, 7-14, 21 o 30 giorni: -> In attesa di stock: 3-5 giorni: / In attesa di stock: 7, 7-14, 21 o 30 giorni:
+- yesstyle-entrega-no-brasil-e-portugal | F | de | Auf Lager oder mit Wartezeit: was die Produktseite zeigt | Auf Lager: 3–5 Tage: / Auf Lager: 7 Tage, 7–14 Tage, 21 Tage oder 30 Tage: -> Wartezeit: 3–5 Tage: / Wartezeit: 7 Tage... (post: Wartezeit: 7–14 Tage)
+- yesstyle-entrega-no-brasil-e-portugal | V | ja | 税金と関税 | 次の項目の返金を利用できます。 -> 次の項目で説明する返金を利用できます。
+- yesstyle-entrega-no-brasil-e-portugal | N | zh-hans | In-Stock 还是 Awaiting Stock：商品页显示的备货状态 | Awaiting Stock: 7 days、7-14 days、21 days 或 30 days（待补货...)： em 4 bolds -> Unificar em 1 bold Awaiting Stock: 7 days, 7-14 days, 21 days, 30 days...
+- yesstyle-entrega-no-brasil-e-portugal | N | zh-hant | In-Stock 還是 Awaiting Stock：商品頁顯示的備貨狀態 | Awaiting Stock: 7 days、7-14 days、21 days 或 30 days（待補貨...)： em 4 bolds -> Unificar em 1 bold
+- yesstyle-ou-stylevana | TR | ko | CTA | 결제 화면에서 내 주소의 배송비와 세금을 확인하고 Reward Code 칸에 CECILIA010을 붙여넣으세요。 -> 결제 화면에서 배송지 주소의 배송비와 세금을 확인하고 Reward Code 칸에 CECILIA010을 붙여넣으세요。
+- yesstyle-ou-stylevana | N | ko | 포르투갈로 배송하는 쇼핑몰 | €59 이상 무료, 미만은 €4.39 -> € 59 이상 무료, 미만은 € 4.39
+- yesstyle-ou-stylevana | V | ko | 반품과 개봉한 제품 | YesStyle 로고와 'YesStyle vs Stylevana' 제목이 들어 있음 -> YesStyle 로고와 ‘YesStyle vs Stylevana’ 제목이 들어 있음
+- yesstyle-ou-stylevana | N | es | CTA | pega CECILIA010 en el campo Código de Recompensa (Reward Code) -> pega CECILIA010 en el campo Reward Code
+- yesstyle-ou-stylevana | V | fr | CTA | dans le champ « Reward Code » -> dans le champ Reward Code
+- yesstyle-ou-stylevana | N | it | Chi spedisce in Portogallo | da € 59; € 4,39 sotto -> da 59 €; 4,39 € sotto
+- yesstyle-ou-stylevana | N | zh-hans | CTA | 并把 CECILIA010 填入 Reward Code 栏位。 -> 并把 CECILIA010 填入 Reward Code 栏。
+- hostinger-e-confiavel | F | ko | CTA | 이 글의 링크로 요금제를 확인하세요。 -> 이 글의 링크로 요금제를 확인하세요. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.
+- hostinger-e-confiavel | F | zh-hant | CTA | 透過本文連結查看方案。 -> 透過本文連結查看方案。我們沒有測試過續訂；請在購物車確認價格。
+- hostinger-reclame-aqui-nota-reputacao | F | en | What the score says and what it does not | '63,962 (87.1%)' (idem 4/3/2/1 estrela: '3,143 (4.3%)', '650 (0.9%)', '558 (0.8%)', ' -> 'about 63,900 (87.1%)' (idem: 'about 3,200 (4.3%)', 'about 660 (0.9%)', 'about 590 (0.8%)', 'about 5,100 (6.9%
+- hostinger-reclame-aqui-nota-reputacao | F | en | What the score says and what it does not | The page also shows the language of the reviews: 44,546 were in English, 8,744 in Spa -> The sample covered reviews in several languages, so the score is global, not the opinion of one market.
+- hostinger-reclame-aqui-nota-reputacao | F | es | Lo que dice la calificación y lo que no dice | '63.962 (87,1 %)' (idem: '3.143 (4,3 %)', '650 (0,9 %)', '558 (0,8 %)', '5.098 (6,9 % -> 'unas 63.900 (87,1 %)' (idem: 'unas 3.200 (4,3 %)', 'unas 660 (0,9 %)', 'unas 590 (0,8 %)', 'unas 5.100 (6,9 %
+- hostinger-reclame-aqui-nota-reputacao | F | es | Lo que dice la calificación y lo que no dice | La página también muestra el idioma de las opiniones: 44.546 estaban en inglés, 8.744 -> La muestra cubrió opiniones en varios idiomas, así que la calificación es global, no la opinión de un solo mer
+- hostinger-reclame-aqui-nota-reputacao | F | fr | Ce que dit la note et ce qu'elle ne dit pas | '63 962 (87,1 %)' (idem: '3 143 (4,3 %)', '650 (0,9 %)', '558 (0,8 %)', '5 098 (6,9 % -> 'environ 63 900 (87,1 %)' (idem: 'environ 3 200 (4,3 %)', 'environ 660 (0,9 %)', 'environ 590 (0,8 %)', 'envir
+- hostinger-reclame-aqui-nota-reputacao | F | fr | Ce que dit la note et ce qu'elle ne dit pas | La page montre aussi la langue des avis : 44 546 étaient en anglais, 8 744 en espagno -> L'échantillon couvrait des avis en plusieurs langues : la note est donc mondiale, et non l'opinion d'un seul m
+- hostinger-reclame-aqui-nota-reputacao | F | it | Cosa dice il punteggio e cosa non dice | '63.962 (87,1%)' (idem: '3.143 (4,3%)', '650 (0,9%)', '558 (0,8%)', '5.098 (6,9%)') -> 'circa 63.900 (87,1%)' (idem: 'circa 3.200 (4,3%)', 'circa 660 (0,9%)', 'circa 590 (0,8%)', 'circa 5.100 (6,9%
+- hostinger-reclame-aqui-nota-reputacao | F | it | Cosa dice il punteggio e cosa non dice | La pagina mostra anche la lingua delle recensioni: 44.546 erano in inglese, 8.744 in  -> Il campione copriva recensioni in più lingue: il punteggio è quindi globale, non l'opinione di un solo mercato
+- hostinger-reclame-aqui-nota-reputacao | F | de | Was die Bewertung sagt und was nicht | '63.962 (87,1 %)' (idem: '3.143 (4,3 %)', '650 (0,9 %)', '558 (0,8 %)', '558 (0,8 %)' -> 'etwa 63.900 (87,1 %)' (idem: 'etwa 3.200 (4,3 %)', 'etwa 660 (0,9 %)', 'etwa 590 (0,8 %)', 'etwa 5.100 (6,9 %
+- hostinger-reclame-aqui-nota-reputacao | F | de | Was die Bewertung sagt und was nicht | Die Seite zeigt auch die Sprache der Bewertungen: 44.546 waren auf Englisch, 8.744 au -> Die Stichprobe umfasste Bewertungen in mehreren Sprachen: Die Bewertung ist also global, nicht die Meinung ein
+- hostinger-reclame-aqui-nota-reputacao | V | de | Worüber sich die Leute beschweren | ein Produktions-VPS, das 27 Stunden stillstand -> ein Produktions-VPS, der 27 Stunden stillstand
+- hostinger-reclame-aqui-nota-reputacao | F | ja | 4.6 が示すことと示さないこと | '63,962（87.1%）' (idem: '3,143（4.3%）', '650（0.9%）', '558（0.8%）', '5,098（6.9%）') -> '約63,900（87.1%）' (idem: '約3,200（4.3%）', '約660（0.9%）', '約590（0.8%）', '約5,100（6.9%）')
+- hostinger-reclame-aqui-nota-reputacao | F | ja | 4.6 が示すことと示さないこと | postParagraph sem nota (prints/alt 73,316 × tabela 73,411) -> acrescentar antes: 'スクリーンショットは2026年10月19日のもので、当時は73,316件でした。10月24日までに73,411件に増え、評価は同じで、否定的なレビューへの返信率は98%から99%に
+- hostinger-reclame-aqui-nota-reputacao | F | ja | 4.6 が示すことと示さないこと | プロフィールの請求 -> プロフィールの認証
+- hostinger-reclame-aqui-nota-reputacao | N | ja | 結論 | heading '結論' -> heading 'クイックアンサー'
+- hostinger-reclame-aqui-nota-reputacao | F | ko | 4.6이 말하는 것과 말하지 않는 것 | '63,962 (87.1%)' (idem: '3,143 (4.3%)', '650 (0.9%)', '558 (0.8%)', '5,098 (6.9%)') -> '약 63,900 (87.1%)' (idem: '약 3,200 (4.3%)', '약 660 (0.9%)', '약 590 (0.8%)', '약 5,100 (6.9%)')
+- hostinger-reclame-aqui-nota-reputacao | F | ko | 4.6이 말하는 것과 말하지 않는 것 | postParagraph sem nota (73,316 × 73,411) -> acrescentar antes: '스크린샷은 2026년 10월 19일 기준으로 총 73,316건이었습니다. 10월 24일까지 73,411건으로 늘었고, 평점은 그대로였으며, 부정적 리뷰 답변율은 
+- hostinger-reclame-aqui-nota-reputacao | F | ko | 숫자가 바꾸는 세 가지 읽는 법 | heading '숫자가 바꾸는 세 가지 읽는 법' -> heading '계산을 바꾸는 세 가지 읽는 법'
+- hostinger-reclame-aqui-nota-reputacao | F | zh-hans | 4.6 说明了什么，没有说明什么 | '63,962（87.1%）' (idem: '3,143（4.3%）', '650（0.9%）', '558（0.8%）', '5,098（6.9%）') -> '约63,900（87.1%）' (idem: '约3,200（4.3%）', '约660（0.9%）', '约590（0.8%）', '约5,100（6.9%）')
+- hostinger-reclame-aqui-nota-reputacao | F | zh-hans | 4.6 说明了什么，没有说明什么 | postParagraph sem nota (73,316 × 73,411) -> acrescentar antes: '截图是2026年10月19日的，当时共73,316条。到10月24日涨到73,411条，分数不变，负面评价的回复率从98%升到99%。各星占比没有变化。'
+- hostinger-reclame-aqui-nota-reputacao | N | zh-hans | 快速结论 | heading '快速结论' -> heading '快速回答'
+- hostinger-reclame-aqui-nota-reputacao | F | zh-hant | 4.6 說明了什麼，沒有說明什麼 | '63,962（87.1%）' (idem: '3,143（4.3%）', '650（0.9%）', '558（0.8%）', '5,098（6.9%）') -> '約63,900（87.1%）' (idem: '約3,200（4.3%）', '約660（0.9%）', '約590（0.8%）', '約5,100（6.9%）')
+- hostinger-reclame-aqui-nota-reputacao | F | zh-hant | 4.6 說明了什麼，沒有說明什麼 | postParagraph sem nota (73,316 × 73,411) -> acrescentar antes: '截圖是2026年10月19日的，當時共73,316則。到10月24日漲到73,411則，分數不變，負面評價的回覆率從98%升到99%。各星占比沒有變化。'
+- hostinger-reclame-aqui-nota-reputacao | N | zh-hant | 快速結論 | heading '快速結論' -> heading '快速回答'
+- cupom-hostinger-indicacao | V | ja | このサイトはHostingerで動いています | Em Casa com Cecília はHostingerで動いており -> Em Casa com Cecília は Hostinger で動いており
+- cupom-hostinger-indicacao | N | ja | (metadados) | campo 'hideFromPortugueseListings' ausente -> acrescentar 'hideFromPortugueseListings': true
+- cupom-hostinger-indicacao | N | ko | (metadados) | campo 'hideFromPortugueseListings' ausente -> acrescentar 'hideFromPortugueseListings': true
+- cupom-hostinger-indicacao | V | zh-hans | SONAR20 适用范围 + 在哪里输入代码 + 常见问题 | 'Have a coupon code?' com aspas retas (3 ocorrências) -> 'Have a coupon code?' com aspas curvas
+- cupom-hostinger-indicacao | N | zh-hans | 要点速览 | heading '要点速览' -> heading '快速回答'
+- cupom-hostinger-indicacao | N | zh-hant | (metadados) | campo 'hideFromPortugueseListings' ausente -> acrescentar 'hideFromPortugueseListings': true
+- black-friday-hostinger | V | en | What you pay with the campaign and with SONAR20 | Where to paste the code and what happens to the discount at renewal is covered in [Ho -> Where to paste the code and what happens to the discount at renewal are covered in [mesmo link].
+- black-friday-hostinger | F | en | (cta) | Enter the code SONAR20 in the cart: 20% off the campaign price. Compare the first-per -> Use the code SONAR20 in the cart: 20% off the campaign price. Check the total and the renewal before you pay.
+- black-friday-hostinger | V | es | Respuesta rápida (+6 ocorrências) | el código SONAR20, en el campo de cupón del carrito, quita un 20 % más -> ...quita un 20% más
+- black-friday-hostinger | V | fr | Le Black Friday de Hostinger a-t-il déjà commencé ? | sur le Single en 48 mois, la réduction est de 80 % -> pour le Single sur 48 mois, la réduction est de 80 %
+- black-friday-hostinger | V | de | Was die Aktion und SONAR20 kosten (heading) | heading atual -> Was Sie mit der Aktion und mit SONAR20 zahlen
+- black-friday-hostinger | F | ko | (cta) | Jangbaguni... SONAR20-eul neotgeona i linkeuro deureogaseyo: kaempein gagyeogeseo 20% -> ...SONAR20-eul neoseuseyo: kaempein gagyeogeseo 20%.
+- black-friday-hostinger | F | zh-hant | (title) | Hostinger Heise Xingqiwu 2026: SONAR20 zai sheng 20%, shiji duoshao qian ('實際多少錢') -> Hostinger Heise Xingqiwu 2026: SONAR20 zai huodongjia shang zai jian 20%
+- yesstyle-ou-olive-young | TR | en | Frequently asked questions | Can I return an opened product? At Olive Young Global, no, unless... -> Can an opened product be returned? At Olive Young Global, no, unless...
+- yesstyle-ou-olive-young | N | es | (cta) | ...pega CECILIA010 en el campo Código de Recompensa (Reward Code) -> ...pega CECILIA010 en el campo Reward Code
+- yesstyle-ou-olive-young | V | de | Rueckgabe und geoeffnetes Produkt | Wo YesStyle gewinnt: Es akzeptiert Sinnesaenderung und Groessentausch, was Olive Youn -> Wo YesStyle gewinnt: Der Shop akzeptiert Sinnesaenderung und Groessentausch, was Olive Young nicht tut.
+- yesstyle-ou-olive-young | V | de | Reward Code CECILIA010 bei YesStyle | Was sie Mitgliedern gibt, steht im oben beschriebenen Programm und kann sich aendern. -> Was der Shop Mitgliedern gibt, steht im oben beschriebenen Programm und kann sich aendern.
+- yesstyle-ou-olive-young | F | ja | (seoTitle) | YesStyleとOlive Young比較：日本の配送・関税・返品 -> YesStyleとOlive Young比較：配送・関税・返品
+- yesstyle-ou-olive-young | V | ja | アメリカ:Olive Young GlobalかOLIVE YOUNG US | 食品とK-POPアルバムは返品不可（final sale）です。 -> 食品とK-POPアルバムは返品不可です。
+- yesstyle-ou-olive-young | F | ko | (seoTitle) | YesStyle vs Olive Young: 한국 배송, 세금, 반품 -> YesStyle vs Olive Young: 나라별 배송, 세금, 반품
+- yesstyle-ou-olive-young | TR | ko | 내가 사는 나라에는 어디가 배송할까 (heading) | heading atual -> 사는 나라에는 어디가 배송할까
+- yesstyle-ou-olive-young | V | ko | 무료배송과 배송 기간 | ...YesStyle의 배송비가 훨씬 쌉니다. -> ...훨씬 저렴합니다.
+- yesstyle-ou-olive-young | V | ko | 미국: Olive Young Global 또는 OLIVE YOUNG US | 식품과 K-POP 앨범은 반품 불가(final sale)입니다. -> 식품과 K-POP 앨범은 반품 불가입니다.
+- yesstyle-ou-olive-young | F | zh-hans | (seoTitle) | YesStyle 与 Olive Young 比较：新加坡、马来西亚运送与退货 -> YesStyle 与 Olive Young 比较：各国运送与退货
+- yesstyle-ou-olive-young | V | zh-hans | 税费由谁负担 | 在欧盟，自 2026年7月31日 起的订单，你填写地址后... -> 在欧盟，自2026年7月31日起的订单，你填写地址后...
+- yesstyle-ou-olive-young | V | zh-hans | 美国:Olive Young Global 还是 OLIVE YOUNG US | 食品和 K-POP 专辑为最终销售（final sale），不能退。 -> 食品和 K-POP 专辑为最终销售，不能退。
+- yesstyle-ou-olive-young | F | zh-hant | (seoTitle) | YesStyle 與 Olive Young 比較：台灣、香港運送與退貨 -> YesStyle 與 Olive Young 比較：各國運送與退貨
+- yesstyle-ou-olive-young | N | zh-hant | 你所在的國家，哪一家寄得到 | 每一列是一個國家，最後一列彙整其餘國家。 -> 每一行是一個國家，最後一行彙整其餘國家。
+- yesstyle-ou-olive-young | N | zh-hant | 你所在的國家，哪一家寄得到 (postParagraphs) | Olive Young 的表格另有一列「其他地區」（15 天，US$60） -> Olive Young 的表格另有一行「其他地區」（15 天，US$60）
+- yesstyle-ou-olive-young | N | zh-hant | (cta) | 到 YesStyle 的結帳頁查看寄到你地址的運費與稅費，並把 CECILIA010 貼到 Reward Code 欄位。 -> ...運費與稅金，並把...
+- yesstyle-ou-olive-young | V | zh-hant | 美國:Olive Young Global 還是 OLIVE YOUNG US | 食品與 K-POP 專輯為最終銷售（final sale），不能退。 -> 食品與 K-POP 專輯為最終銷售，不能退。
+- openclaw-hostinger-gerenciado-ou-vps | N | fr | Code SONAR20 (heading) | Code SONAR20 -> Code promo SONAR20
+- openclaw-hostinger-gerenciado-ou-vps | V | fr | cta (meta) | Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20  -> Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première pér
+- openclaw-hostinger-gerenciado-ou-vps | V | it | Gestito o VPS: la tabella | Facoltativi: si comprano al checkout -> Facoltativi: li puoi comprare al checkout
+- openclaw-hostinger-gerenciado-ou-vps | V | it | Domande frequenti | Vale la pena OpenClaw gestito di Hostinger? -> Vale la pena l'OpenClaw gestito di Hostinger?
+- openclaw-hostinger-gerenciado-ou-vps | N | de | SONAR20-Gutschein (heading) | SONAR20-Gutschein -> Gutschein SONAR20
+- openclaw-hostinger-gerenciado-ou-vps | V | de | decision.skipIf (quadro) | Verzichten Sie auf den VPS, wenn Sie nicht wissen, was Root oder Docker ist: Das Syst -> Lassen Sie den VPS aus, wenn Sie nicht wissen, was Root oder Docker ist: Das System zu aktualisieren und abzus
+- openclaw-hostinger-gerenciado-ou-vps | V | de | decision.skipIf (quadro) | Verzichten Sie auf die verwaltete Option, wenn Sie Root-Zugriff oder mehr Arbeitsspei -> Lassen Sie die verwaltete Option aus, wenn Sie Root-Zugriff oder mehr Arbeitsspeicher und Speicherplatz brauch
+- openclaw-hostinger-gerenciado-ou-vps | V | de | decision.skipIf (quadro) | Verzichten Sie auf beide, wenn derselbe Assistent mehrere Personen bedienen soll: Das -> Lassen Sie beide aus, wenn derselbe Assistent mehrere Personen bedienen soll: Das Projekt empfiehlt einen Serv
+- openclaw-hostinger-gerenciado-ou-vps | N | ja | SONAR20 クーポン (heading) | SONAR20 クーポン -> クーポン SONAR20
+- openclaw-hostinger-gerenciado-ou-vps | F | ko | cta (meta) | 쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았습니다. -> 쿠폰 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣거나 이 링크로 들어가세요. 첫 기간 20%입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.
+- openclaw-hostinger-gerenciado-ou-vps | N | ko | SONAR20 쿠폰 (heading) | SONAR20 쿠폰 -> 쿠폰 SONAR20
+- openclaw-hostinger-gerenciado-ou-vps | V | ko | 누가 무엇을 골라야 할까 | 서버를 설치하고 설정하지 않고 어시스턴트를 바로 쓰고 싶다면; -> 서버를 설치하고 설정하지 않고 어시스턴트를 바로 쓰고 싶다면
+- openclaw-hostinger-gerenciado-ou-vps | V | ko | 누가 무엇을 골라야 할까 | 업데이트, 백업, 보안을 호스팅어가 맡아 주길 원한다면; -> 업데이트, 백업, 보안을 호스팅어가 맡아 주길 원한다면
+- openclaw-hostinger-gerenciado-ou-vps | V | ko | 누가 무엇을 골라야 할까 | root나 Docker가 무엇인지 모른다면; -> root나 Docker가 무엇인지 모른다면
+- openclaw-hostinger-gerenciado-ou-vps | V | zh-hans | 套餐没有包含的部分 | 续充的价格没有出现在任何公开页面上，所以指望它之前，请先在后台确认。 -> 充值的价格没有出现在任何公开页面上，所以指望它之前，请先在后台确认。
+- openclaw-hostinger-gerenciado-ou-vps | N | zh-hans | SONAR20 优惠码 (heading) | SONAR20 优惠码 -> 优惠码 SONAR20
+- openclaw-hostinger-gerenciado-ou-vps | V | zh-hant | 方案沒有包含的部分 | 續儲的價格沒有出現在任何公開頁面上，所以指望它之前，請先在後台確認。 -> 儲值的價格沒有出現在任何公開頁面上，所以指望它之前，請先在後台確認。
+- melhor-vps-para-openclaw | TR | en | What the official documentation says (and does not say) about requirements | None of the KVM plan pages we read lists a graphics card (GPU). -> None of the KVM plan pages checked lists a graphics card (GPU).
+- melhor-vps-para-openclaw | V | en | What the official documentation says (and does not say) about requirements | If Node is not installed, the official installer brings the version (Node 26 on macOS -> If Node is not installed, the official installer includes the version (Node 26 on macOS and Node 24 LTS on Lin
+- melhor-vps-para-openclaw | V | es | Qué plan KVM elegir (tabela) | 'Plan', 'vCPU (procesador virtual)', 'RAM', 'Disco NVMe' (linha de headers) -> Plan', 'vCPU (procesador virtual)', 'RAM', 'Disco NVMe
+- melhor-vps-para-openclaw | TR | es | Qué dice la documentación oficial (y qué no dice) sobre los requisitos | En las páginas de planes KVM que leímos, ninguna lista tarjeta gráfica (GPU). -> En las páginas de planes KVM consultadas, ninguna lista tarjeta gráfica (GPU).
+- melhor-vps-para-openclaw | V | fr | Ce que dit la documentation officielle (et ce qu'elle ne dit pas) sur les besoins | Un détail de calcul : 8 GiB équivalent à environ 8,6 Go. -> Un détail de calcul : 8 GiB équivalent à environ 8,6 Go.
+- melhor-vps-para-openclaw | V | fr | decision.skipIf (quadro) | Évitez le KVM 1 si vous allez faire tourner un modèle local : 4 Go est sous le planch -> Passez votre tour sur le KVM 1 si vous allez faire tourner un modèle local : 4 Go est sous le plancher officie
+- melhor-vps-para-openclaw | V | fr | decision.skipIf (quadro) | Évitez le VPS si vous ne voulez pas gérer un serveur : regardez l'offre gérée, où Hos -> Passez votre tour sur le VPS si vous ne voulez pas gérer un serveur : regardez l'offre gérée, où Hostinger ins
+- melhor-vps-para-openclaw | V | fr | decision.skipIf (quadro) | Évitez le KVM 8 si vous n'allez pas utiliser un modèle local plus grand. -> Passez votre tour sur le KVM 8 si vous n'allez pas utiliser un modèle local plus grand.
+- melhor-vps-para-openclaw | TR | it | Cosa dice (e cosa non dice) la documentazione ufficiale sui requisiti | Nelle pagine dei piani KVM che abbiamo letto, nessuna elenca una scheda video (GPU). -> Nelle pagine dei piani KVM consultate, nessuna elenca una scheda video (GPU).
+- melhor-vps-para-openclaw | V | it | decision.skipIf (quadro) | Lascia stare il KVM 1 se farai girare un modello locale: 4 GB è sotto il minimo uffic -> Lascia perdere il KVM 1 se farai girare un modello locale: 4 GB è sotto il minimo ufficiale.
+- melhor-vps-para-openclaw | V | it | decision.skipIf (quadro) | Lascia stare il VPS se non vuoi occuparti di un server: guarda il gestito, in cui Hos -> Lascia perdere il VPS se non vuoi occuparti di un server: guarda il gestito, in cui Hostinger installa e aggio
+- melhor-vps-para-openclaw | V | it | decision.skipIf (quadro) | Lascia stare il KVM 8 se non userai un modello locale più grande. -> Lascia perdere il KVM 8 se non userai un modello locale più grande.
+- melhor-vps-para-openclaw | N | ja | 結論 (heading) | 結論 -> クイックアンサー
+- melhor-vps-para-openclaw | N | ja | 執筆者について (heading) | 執筆者について -> この記事を書いた人
+- melhor-vps-para-openclaw | N | ko | 빠른 답 (heading) | 빠른 답 -> 빠른 답변
+- melhor-vps-para-openclaw | N | ko | 글쓴이 (heading) | 글쓴이 -> 작성자 소개
+- melhor-vps-para-openclaw | F | zh-hans | 每种场景需要多少 RAM (tabela) | 没有官方的算法。请按你想运行的模型大小来选。 -> 没有官方的计算。请按你想运行的模型大小来选。
+- melhor-vps-para-openclaw | N | zh-hans | 作者 (heading) | 作者 -> 谁在写这篇文章
+- melhor-vps-para-openclaw | F | zh-hant | 各情境需要多少 RAM (tabela) | 沒有官方的算法。請依你想執行的模型大小來選。 -> 沒有官方的計算。請依你想執行的模型大小來選。
+- melhor-vps-para-openclaw | N | zh-hant | 優惠碼 SONAR20 (heading) | 優惠碼 SONAR20 -> SONAR20 優惠碼
+- melhor-vps-para-openclaw | N | zh-hant | 作者 (heading) | 作者 -> 誰在寫這篇文章
+- openclaw-ou-hermes-agent | V | en | What each one is | On Hostinger it can be bought managed or on a VPS, as the [OpenClaw managed or VPS gu -> On Hostinger it is available managed or on a VPS, as the [OpenClaw managed or VPS guide](/en/reviews/openclaw-
+- openclaw-ou-hermes-agent | V | es | Cuánto cuesta de verdad | En Nous Portal, el precio no se informa en la página del proyecto. -> En Nous Portal, el precio no se indica en la página del proyecto.
+- openclaw-ou-hermes-agent | V | es | Qué es cada uno | Tiene terminal completa y Hermes Desktop, una aplicación de escritorio con instalador -> Tiene un terminal completo y Hermes Desktop, una aplicación de escritorio con instalador para Windows y macOS.
+- openclaw-ou-hermes-agent | V | fr | Ce qu'est chacun | Ce qu'est chacun -> Ce que chacun est
+- openclaw-ou-hermes-agent | V | de | Wo Sie bei Hostinger betreiben | Wo Sie bei Hostinger betreiben -> Wo Sie beide bei Hostinger betreiben
+- openclaw-ou-hermes-agent | V | de | Was jedes ist | Es hat ein vollständiges Terminal und Hermes Desktop, eine Desktop-App mit Installer  -> Er hat ein vollständiges Terminal und Hermes Desktop, eine Desktop-App mit Installer für Windows und macOS.
+- openclaw-ou-hermes-agent | V | ja | (editorialNote) | Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。 -> Bruno に紹介手数料が入る場合があります。追加の費用はかかりません。
+- openclaw-ou-hermes-agent | F | zh-hant | 比較表 | 取自那份比較的列，會在來源欄標示這個名稱。 -> 取自那份比較的行，會在來源欄標示這個名稱。
+
+## Só minha
+
+- codigo-de-indicacao-shein | V | fr | [cta] | Ouvrez SHEIN via le lien de Cecília ou recherchez 4CW5Y dans la barre de recherche de -> Ouvrez SHEIN via le lien de Cecília ou recherchez 4CW5Y dans la barre de recherche de l'application SHEIN
+- shein-e-confiavel | V | en | Quick answer | What weighs on the decision is the return window and the import tax; the chapters bel -> What matters most is the return window and the import tax; the chapters below explain each one and what to che
+- shein-e-confiavel | V | en | Is it safe to pay, and what does SHEIN do with your data? | SHEIN says its systems and controls are aligned with the ISO, NIST and PCI DSS standa -> SHEIN says its systems and controls are aligned with ISO, NIST and PCI DSS standards, and says it does not sel
+- shein-e-confiavel | V | en | Frequently asked questions | Is it safe to pay on SHEIN with a card? SHEIN says its systems and controls are align -> Is it safe to pay on SHEIN with a card? SHEIN says its systems and controls are aligned with ISO, NIST and PCI
+- shein-e-confiavel | V | fr | Qui exploite SHEIN et d'où vient l'entreprise | En 2026, lors d'un événement du gouvernement du Guangdong, le fondateur, Xu Yangtian, -> En 2026, lors d'un événement du gouvernement du Guangdong, le fondateur, Xu Yangtian, a dit que les racines de
+- shein-e-confiavel | N | it | Reso e dogana | Per la dogana vale una regola UE in vigore dal 1° luglio 2026: l'UE applica un dazio  -> Per la dogana vale una regola UE in vigore dal 1° luglio 2026: l'UE applica un dazio doganale di 3 € per categ
+- shein-e-confiavel | N | it | Domande frequenti | Devo pagare la dogana su SHEIN? L'UE applica un dazio doganale di € 3 per categoria d -> Devo pagare la dogana su SHEIN? L'UE applica un dazio doganale di 3 € per categoria di prodotto sui pacchi di 
+- shein-e-confiavel | N | de | Rückgabe und Zoll | Beim Zoll gilt seit dem 1. Juli 2026 eine EU-Regel: Die EU erhebt € 3 Zoll pro Produk -> Beim Zoll gilt seit dem 1. Juli 2026 eine EU-Regel: Die EU erhebt 3 € Zoll pro Produktkategorie auf Sendungen 
+- shein-e-confiavel | N | de | Häufige Fragen | Muss ich bei SHEIN Zoll zahlen? Die EU erhebt € 3 Zoll pro Produktkategorie auf Sendu -> Muss ich bei SHEIN Zoll zahlen? Die EU erhebt 3 € Zoll pro Produktkategorie auf Sendungen im Wert von bis zu 1
+- shein-e-confiavel | TR | ko | SHEIN을 운영하는 곳과 어느 나라 회사인지 | 한국에서는 kr.shein.com의 개인정보 처리방침(2026년 10월 12일 확인)에 따르면 싱가포르 회사인 Wonderflow Support Pte. -> 한국에서는 kr.shein.com의 개인정보 처리방침에 따르면 싱가포르 회사인 Wonderflow Support Pte. Ltd.에서 사이트를 운영합니다.
+- shein-e-confiavel | TR | zh-hans | 退货与进口税 | 本文的运营公司取自 SHEIN 新加坡站（sg.shein.com）的隐私政策，我们于 2026 年 10 月 12 日查阅。新加坡站的退货政策我们没有查阅，所以这里不给 -> 本文的运营公司取自 SHEIN 新加坡站（sg.shein.com）的隐私政策（2026 年 10 月 12 日查阅）。新加坡站的退货政策本文未查阅，所以这里不给出退货天数。
+- shein-e-confiavel | TR | zh-hans | SHEIN 可以信任吗？ | 新加坡站的退货政策我们没有查阅，请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算。 -> 退货期限请在 sg.shein.com 上确认，以及它从哪一天开始计算。
+- shein-e-confiavel | TR | zh-hans | 常见问题 | 我们没有查阅新加坡站的退货政策，所以不给出天数。 -> 新加坡站的退货政策本文未查阅，所以不给出天数。
+- shein-e-confiavel | TR | zh-hant | 退貨與進口稅 | 本文的營運公司與退貨期限，取自 SHEIN 台灣站（shein.tw）的隱私權政策與退貨政策，我們於 2026 年 10 月 12 日查閱。 -> 本文的營運公司與退貨期限，取自 SHEIN 台灣站（shein.tw）的隱私權政策與退貨政策（2026 年 10 月 12 日查閱）。
+- shein-ou-shopee-temu | N | en | [imageAlt] | Illustration of a table with the SHEIN and Temu logos at the top of the columns and f -> Illustration of a table with the SHEIN, Temu and AliExpress logos at the top of the columns and five rows mark
+- shein-ou-shopee-temu | N | es | [imageAlt] | Ilustración de una tabla con los logos de SHEIN y Temu en lo alto de las columnas y c -> Ilustración de una tabla con los logos de SHEIN, Temu y AliExpress en lo alto de las columnas y cinco filas ma
+- shein-ou-shopee-temu | TR | fr | Questions fréquentes | SHEIN et Temu paient-ils la douane ? Depuis le 1er juillet 2026, l'UE applique 3 € pa -> SHEIN et Temu paient-ils la douane ? L'UE applique 3 € par catégorie de produit aux commandes jusqu'à 150 € ex
+- shein-ou-shopee-temu | N | fr | [imageAlt] | Illustration d'un tableau avec les logos de SHEIN et Temu en haut des colonnes et cin -> Illustration d'un tableau avec les logos de SHEIN, de Temu et d'AliExpress en haut des colonnes et cinq lignes
+- shein-ou-shopee-temu | TR | it | Domande frequenti | SHEIN e Temu pagano la dogana? Dal 1° luglio 2026 l'UE applica 3 euro per categoria d -> SHEIN e Temu pagano la dogana? L'UE applica 3 euro per categoria di prodotto sugli ordini fino a 150 euro sped
+- shein-ou-shopee-temu | V | it | [caption] | Spedizione, tempi di consegna e resi pubblicati da SHEIN e Temu per l'Italia, consult -> Spedizione, tempi di consegna e resi pubblicati da SHEIN e Temu per l'Italia, consultati il 12 e il 13 ottobre
+- shein-ou-shopee-temu | N | it | [imageAlt] | Illustrazione di una tabella con i loghi di SHEIN e Temu in cima alle colonne e cinqu -> Illustrazione di una tabella con i loghi di SHEIN, Temu e AliExpress in cima alle colonne e cinque righe segna
+- shein-ou-shopee-temu | TR | de | Häufige Fragen | SHEIN oder Temu: Was soll ich wählen? -> SHEIN oder Temu: Was passt besser?
+- shein-ou-shopee-temu | N | de | [imageAlt] | Illustration einer Tabelle mit den Logos von SHEIN und Temu oben in den Spalten und f -> Illustration einer Tabelle mit den Logos von SHEIN, Temu und AliExpress oben in den Spalten und fünf Zeilen mi
+- shein-ou-shopee-temu | N | ja | [imageAlt] | SHEIN と Temu のロゴが列の上に並び、送料・お届け日数・返品・税金・評判を表すアイコンの5行がある表のイラスト -> SHEIN と Temu、AliExpress のロゴが列の上に並び、送料・お届け日数・返品・税金・評判を表すアイコンの5行がある表のイラスト
+- shein-ou-shopee-temu | N | ko | [imageAlt] | 열 위쪽에 SHEIN과 테무 로고가 있고 배송비, 배송 기간, 반품, 세금, 평판을 나타내는 아이콘 다섯 줄이 있는 표 일러스트 -> 열 위쪽에 SHEIN과 테무, AliExpress 로고가 있고 배송비, 배송 기간, 반품, 세금, 평판을 나타내는 아이콘 다섯 줄이 있는 표 일러스트
+- shein-ou-shopee-temu | F | zh-hans | 新加坡：SHEIN 和 Temu 并排对比 | 把两家分开的是退货和配送时效：表格整理了各平台在新加坡和马来西亚公布的规则。 -> 把两家分开的是退货和配送时效：表格整理了各平台在新加坡公布的规则。
+- shein-ou-shopee-temu | N | zh-hans | [imageAlt] | 一张对比表插图，列的上方是 SHEIN 和 Temu 的标志，五行图标分别代表运费、时效、退货、税金与口碑 -> 一张对比表插图，列的上方是 SHEIN、Temu 和 AliExpress 的标志，五行图标分别代表运费、时效、退货、税金与口碑
+- shein-ou-shopee-temu | F | zh-hant | 新加坡：SHEIN 和 Temu 並排比較 | 把兩家區分開來的是退貨和配送時效：表格整理了兩家平台在新加坡和馬來西亞公布的規則。 -> 把兩家區分開來的是退貨和配送時效：表格整理了兩家平台在新加坡公布的規則。
+- shein-ou-shopee-temu | V | zh-hant | 合作與推薦碼 | 透過本文連結購買時，她可能獲得佣金，你不需要多付費。 -> 透過本文連結購買時，她可能獲得傭金，你不需要多付費。
+- shein-ou-shopee-temu | V | zh-hant | 合作與推薦碼 | 要在 SHEIN 的搜尋欄搜尋，不是輸入到優惠券欄位。 -> 要在 SHEIN 的搜尋欄搜尋，不是輸入到優惠券欄位。
+- shein-ou-shopee-temu | V | zh-hant | 常見問題 | 它是 SHEIN 的推薦碼，要在 SHEIN 的搜尋欄搜尋。 -> 它是 SHEIN 的推薦碼，要在 SHEIN 的搜尋欄搜尋。
+- shein-ou-shopee-temu | V | zh-hant | [editorialNote] | 本文為編輯內容。透過本文的 SHEIN 和 Temu 連結購買，我們可能獲得佣金。 -> 本文為編輯內容。透過本文的 SHEIN 和 Temu 連結購買，我們可能獲得傭金。
+- yesstyle-entrega-no-brasil-e-portugal | TR | en | Quick answer | Standard takes 5 to 18 business days depending on the country, and shipping is free f -> Delivery times and free-shipping minimums vary by country; all six are in the store's shipping table. What dif
+- yesstyle-entrega-no-brasil-e-portugal | TR | es | Respuesta rápida | YesStyle envía a España, México, Chile, Perú, Argentina y Colombia con envío Standard -> YesStyle envía a España, México, Chile, Perú, Argentina y Colombia con envío Standard de 10 a 27 días hábiles 
+- yesstyle-entrega-no-brasil-e-portugal | TR | es | Preguntas frecuentes | En España, el IVA del 21% ya está en el precio. En México, Chile, Perú, Argentina y C -> En España, el IVA del 21% ya está en el precio. En México, Chile, Perú, Argentina y Colombia, YesStyle no publ
+- yesstyle-entrega-no-brasil-e-portugal | F | es | Preguntas frecuentes | Con tarjeta Visa, Mastercard, American Express o JCB, con PayPal, Apple Pay o Google  -> Con tarjeta Visa, Mastercard, American Express o JCB, con PayPal, Apple Pay o Google Pay y, solo si la direcci
+- yesstyle-entrega-no-brasil-e-portugal | TR | fr | Réponse rapide | La livraison est gratuite dès US$ 45 (US$ 50 au Canada), et la TVA est déjà dans le p -> La livraison devient gratuite au-dessus d'un minimum qui varie selon le pays, et la TVA est déjà dans le prix 
+- yesstyle-entrega-no-brasil-e-portugal | V | fr | Taxes : ce qui est déjà dans le prix et ce qui arrive après | **France :** la TVA de 20 % est déjà comprise dans le prix des produits et s'ajoute a -> **France :** la TVA de 20 % est déjà comprise dans le prix des produits et s'ajoute aux frais de livraison. De
+- yesstyle-entrega-no-brasil-e-portugal | V | fr | Si le colis tarde, se perd ou revient à la boutique | Un colis perdu est réexpédié sans frais de manutention ni frais de livraison, au titr -> Un colis perdu est réexpédié sans frais de traitement ni frais de livraison, au titre de la garantie de la bou
+- yesstyle-entrega-no-brasil-e-portugal | V | fr | Si le colis tarde, se perd ou revient à la boutique | Un colis qui revient à la boutique pour une adresse erronée, une livraison échouée ou -> Un colis qui revient à la boutique pour une adresse erronée, une livraison échouée ou faute d'avoir été retiré
+- yesstyle-entrega-no-brasil-e-portugal | TR | it | In breve | YesStyle spedisce in Italia con spedizione Standard da 10 a 15 giorni lavorativi, gra -> YesStyle spedisce in Italia con spedizione Standard da 10 a 15 giorni lavorativi, gratuita sopra una soglia mi
+- yesstyle-entrega-no-brasil-e-portugal | V | it | Disponibile o in attesa di stock: cosa dice la pagina del prodotto | **Stock disponibile tra: 3-5 giorni:** l'articolo arriva da un magazzino regionale de -> **In attesa di stock: 3-5 giorni:** l'articolo arriva da un magazzino regionale del negozio ed esce in 3-5 gio
+- yesstyle-entrega-no-brasil-e-portugal | V | it | Disponibile o in attesa di stock: cosa dice la pagina del prodotto | **Stock disponibile tra: 7, 7-14, 21 o 30 giorni:** il negozio acquista l'articolo da -> **In attesa di stock: 7, 7-14, 21 o 30 giorni:** il negozio acquista l'articolo dal fornitore dopo l'ordine, e
+- yesstyle-entrega-no-brasil-e-portugal | V | it | Come restituire un prodotto | **Tempi:** chiedi il numero RMA entro 14 giorni dalla ricezione, dalla pagina RMA del -> **Scadenza:** chiedi il numero RMA entro 14 giorni dalla ricezione, dalla pagina RMA del tuo account (per ripe
+- yesstyle-entrega-no-brasil-e-portugal | TR | de | Kurz gesagt | Ab US$ 45 ist der Versand kostenlos, darunter kostet er US$ 5, und die Mehrwertsteuer -> Ab einem Mindestbestellwert ist der Versand kostenlos, und die Mehrwertsteuer steckt schon im Preis.
+- yesstyle-entrega-no-brasil-e-portugal | F | de | Auf Lager oder mit Wartezeit: was die Produktseite zeigt | **Auf Lager: 3–5 Tage:** Der Artikel kommt aus einem regionalen Lager des Shops und v -> **Mit Wartezeit: 3–5 Tage:** Der Artikel kommt aus einem regionalen Lager des Shops und verlässt es in 3 bis 5
+- yesstyle-entrega-no-brasil-e-portugal | F | de | Auf Lager oder mit Wartezeit: was die Produktseite zeigt | **Auf Lager: 7 Tage, 7–14 Tage, 21 Tage oder 30 Tage:** Der Shop kauft den Artikel na -> **Mit Wartezeit: 7 Tage, 7–14 Tage, 21 Tage oder 30 Tage:** Der Shop kauft den Artikel nach der Bestellung bei
+- yesstyle-entrega-no-brasil-e-portugal | F | de | Auf Lager oder mit Wartezeit: was die Produktseite zeigt | Eine Bestellung mit einem vorrätigen Artikel und einem, der noch auf Nachschub wartet -> Eine Bestellung mit einem vorrätigen Artikel und einem, der noch auf Nachschub wartet, wird in der Regel zusam
+- yesstyle-entrega-no-brasil-e-portugal | TR | ja | まずは結論 | Express便で4〜5営業日、US$50以上で送料無料です。 -> Express便で4〜5営業日、一定額以上で送料無料です。
+- yesstyle-entrega-no-brasil-e-portugal | TR | ko | 핵심 요약 | Express 배송은 영업일 3~5일이고, US$ 50 이상이면 배송비가 무료입니다. -> Express 배송은 영업일 3~5일이고, 일정 금액 이상이면 배송비가 무료입니다.
+- yesstyle-entrega-no-brasil-e-portugal | F | ko | 상품 반품 방법 | YesStyle 스토어에서 오늘의 할인과 리워드 코드 CECILIA010 보기 -> 이 사이트에서 오늘의 YesStyle 쿠폰과 리워드 코드 CECILIA010 보기
+- yesstyle-entrega-no-brasil-e-portugal | TR | zh-hans | 快速解答 | YesStyle 会寄到新加坡和马来西亚，并公布了运送时间与运费：新加坡 Express 3 至 5 个工作日，满 US$50 免运费；马来西亚 Standard 10  -> YesStyle 会寄到新加坡和马来西亚，并公布了运送时间与运费：新加坡走 Express，3 至 5 个工作日；马来西亚走 Standard，10 至 16 个工作日，两地都满一定金额免运费。
+- yesstyle-entrega-no-brasil-e-portugal | TR | zh-hant | 快速解答 | YesStyle 會寄到台灣、香港與澳門：台灣 Express 3 至 6 個工作天，香港順豐與澳門 Express 1 至 3 個工作天；台灣滿 US$50 免運，香港 -> YesStyle 會寄到台灣、香港與澳門：台灣 Express 3 至 6 個工作天，香港順豐與澳門 Express 1 至 3 個工作天；三地都滿一定金額免運。
+- hostinger-e-confiavel | V | en | Automatic renewal and the new price | If you turn it off and do not renew manually before the period ends, the service is c -> If you turn it off and do not renew manually before the period ends, the service ends.
+- hostinger-e-confiavel | F | es | Respuesta rápida | Lo que sorprende es la renovación, que viene activada por defecto y puede tener otro  -> El punto delicado es la renovación, que viene activada por defecto y puede tener otro precio.
+- hostinger-e-confiavel | V | es | Nuestra experiencia | Em Casa com Cecília funciona sobre Hostinger. -> Em Casa com Cecília funciona en Hostinger.
+- hostinger-e-confiavel | V | es | Renovación automática y precio nuevo | Si la desactivas y no renuevas a mano antes del fin del período, el servicio se cierr -> Si la desactivas y no renuevas a mano antes del fin del período, el servicio termina.
+- hostinger-e-confiavel | F | fr | Réponse rapide | Ce qui coince, c'est le renouvellement, activé par défaut et parfois à un autre prix. -> Ce qui coince, c'est le renouvellement, activé par défaut et qui peut être à un autre prix.
+- hostinger-e-confiavel | F | it | Risposta rapida | Il punto delicato è il rinnovo, attivo per impostazione predefinita e magari a un alt -> Il punto delicato è il rinnovo, attivo per impostazione predefinita e possibilmente a un altro prezzo.
+- hostinger-e-confiavel | V | de | Ausfälle und Verfügbarkeitsgarantie | Das ist, was Hostinger bewirbt; die Zusage zur Verfügbarkeit steht, wo es sie gibt, i -> Das ist das, was Hostinger bewirbt; die Zusage zur Verfügbarkeit steht, wo es sie gibt, im Dokument des jeweil
+- hostinger-e-confiavel | F | de | Häufige Fragen | Verlängert sich Hostinger automatisch? -> Ist die Verlängerung bei Hostinger automatisch?
+- hostinger-e-confiavel | N | ja | 返金：30日間、例外あり | ただし前回のVPS返金申請から180日以上経過している場合に限る -> ただし前回のVPS返金申請から180日を超えて経過している場合に限る
+- hostinger-e-confiavel | V | ko | 자동 갱신과 새 가격 | 가입하면 자동 갱신이 기본 설정이라 자동 갱신에 들어갑니다. -> 가입하면 기본 설정에 따라 자동 갱신에 들어갑니다.
+- hostinger-reclame-aqui-nota-reputacao | F | ja | 4.6 が示すことと示さないこと | 企業が管理するページで、顧客への呼びかけがあり、Trustpilot も一件ずつは確認していません。星 5 つが 87.1% でも、そのうち誰が招待されたのかは表からは分 -> 企業が管理するページで、顧客への呼びかけがあり、Trustpilot も一件ずつは確認していません。スクリーンショットは 2026年10月19日のもので、その時点では 73,316 件、否定的なレビューへの返信率は 98
+- hostinger-reclame-aqui-nota-reputacao | F | ko | 4.6이 말하는 것과 말하지 않는 것 | 페이지는 회사가 관리하고, 고객에게 리뷰를 권하며, Trustpilot도 리뷰를 하나하나 확인하지 않습니다. 별 다섯 개가 87.1%여도, 그중 누가 초 -> 페이지는 회사가 관리하고, 고객에게 리뷰를 권하며, Trustpilot도 리뷰를 하나하나 확인하지 않습니다. 스크린샷은 2026년 10월 19일의 것으로, 당시에는 73,316건, 부정적 리뷰 답변
+- hostinger-reclame-aqui-nota-reputacao | F | zh-hans | 4.6 说明了什么，没有说明什么 | 主页由公司管理，公司会邀请客户评价，Trustpilot 也不会逐条核实。五星占 87.1%，但表格看不出其中有多少是受邀的。 -> 主页由公司管理，公司会邀请客户评价，Trustpilot 也不会逐条核实。截图是 2026 年 10 月 19 日的，当时共 73,316 条评价，负面评价回复率为 98%。到 10 月 24 日变为 73,411 条、
+- hostinger-reclame-aqui-nota-reputacao | F | zh-hant | 4.6 說明了什麼，沒有說明什麼 | 檔案由公司管理，公司會邀請客戶評價，Trustpilot 也不會逐則核實。五星占 87.1%，但表格看不出其中有多少是受邀的。 -> 檔案由公司管理，公司會邀請客戶評價，Trustpilot 也不會逐則核實。截圖是 2026 年 10 月 19 日的，當時共 73,316 則評價，負面評價回覆率為 98%。到 10 月 24 日變為 73,411 則、
+- cupom-hostinger-indicacao | V | en | Quick answer | Paste the code in the coupon field of the cart, or come in through this article's lin -> Paste the code in the coupon field of the cart, or follow the link in this article.
+- cupom-hostinger-indicacao | V | en | [cta] | Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20%  -> Enter the code SONAR20 in the cart's coupon field, or follow this link: 20% off the first period.
+- cupom-hostinger-indicacao | V | en | Before you pay | If the cart value differs, the cart value is the one that counts. -> If the cart total differs from the prices on the page, the cart total is the one that counts.
+- cupom-hostinger-indicacao | V | es | Antes de pagar | Si el valor del carrito es distinto, vale el valor del carrito. -> Si el valor del carrito es distinto de los precios mostrados, vale el valor del carrito.
+- cupom-hostinger-indicacao | V | fr | Avant de payer | Si le montant du panier est différent, c'est le montant du panier qui compte. -> Si le montant du panier est différent des prix affichés, c'est le montant du panier qui compte.
+- cupom-hostinger-indicacao | V | it | Prima di pagare | Se il valore del carrello è diverso, vale il valore del carrello. -> Se il valore del carrello è diverso dai prezzi mostrati, vale il valore del carrello.
+- cupom-hostinger-indicacao | V | de | Bevor Sie zahlen | Weicht der Betrag im Warenkorb ab, gilt der Betrag im Warenkorb. -> Weicht der Betrag im Warenkorb von den angezeigten Preisen ab, gilt der Betrag im Warenkorb.
+- cupom-hostinger-indicacao | F | ja | [cta] | 最初の期間が20%割引です。更新は検証していません。 -> 最初の期間が20%割引です。更新は検証していないので、カートで料金を確認してください。
+- cupom-hostinger-indicacao | V | ja | 支払う前に | カートの金額が違う場合は、カートの金額が優先されます。 -> カートの金額がページの表示と違う場合は、カートの金額が優先されます。
+- cupom-hostinger-indicacao | F | ko | [cta] | 장바구니의 쿠폰 코드 입력란에 SONAR20을 넣거나 이 링크로 들어가세요: 월간 또는 연간 플랜의 첫 기간 20%, 신규와 기존 고객 모두. 갱신 가격 -> 장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.
+- cupom-hostinger-indicacao | V | ko | 결제 전에 | 장바구니 금액이 다르면 장바구니 금액이 기준입니다. -> 장바구니 금액이 페이지 표시와 다르면 장바구니 금액이 기준입니다.
+- cupom-hostinger-indicacao | V | zh-hans | 付款之前 | 如果购物车里的金额不同，以购物车为准。 -> 如果购物车金额和页面显示不同，以购物车为准。
+- cupom-hostinger-indicacao | V | zh-hant | [editorialNote] | Bruno 可能獲得佣金 -> Bruno 可能獲得傭金
+- cupom-hostinger-indicacao | F | zh-hant | [cta] | 在購物車輸入 SONAR20，或從本文連結進入：首期 20%，月付或年付都可以。續訂價請在購物車確認。 -> 在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續訂，續訂價請在購物車確認。
+- cupom-hostinger-indicacao | V | zh-hant | 快速回答 | 在購物車的優惠碼欄位輸入，或從本文連結進入。 -> 在購物車的優惠碼欄位輸入優惠碼，或從本文連結進入。
+- cupom-hostinger-indicacao | V | zh-hant | 付款之前 | 如果購物車的金額不同，以購物車為準。 -> 如果購物車金額和頁面顯示不同，以購物車為準。
+- black-friday-hostinger | V | es | [title] | Black Friday Hostinger 2026: el SONAR20 quita 20% más del precio de la campaña -> Black Friday Hostinger 2026: el cupón SONAR20 quita un 20 % más del precio de la campaña
+- black-friday-hostinger | V | es | [cta] | Usa el código SONAR20 en el carrito: 20% sobre el precio de la campaña. -> Usa el código SONAR20 en el carrito: 20 % sobre el precio de la campaña.
+- black-friday-hostinger | V | fr | Ce que l'on paie avec la campagne et avec SONAR20 | Où coller le code et ce qu'il advient de la réduction au renouvellement : voir [Code  -> Où coller le code et ce que devient la réduction au renouvellement : voir [Code promo Hostinger SONAR20](/fr/r
+- black-friday-hostinger | V | de | Was die Aktion und SONAR20 kosten | Was die Aktion und SONAR20 kosten -> Was Sie mit der Aktion und mit SONAR20 zahlen
+- black-friday-hostinger | V | ja | [title] | Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20% -> Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%引き
+- black-friday-hostinger | F | ko | [cta] | 장바구니의 쿠폰 코드 입력란에 SONAR20을 넣거나 이 링크로 들어가세요: 캠페인 가격에서 20%. -> 장바구니의 쿠폰 입력란에 SONAR20을 넣으세요: 캠페인 가격에서 20% 추가 할인.
+- black-friday-hostinger | F | zh-hant | [title] | Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢 -> Hostinger 黑色星期五 2026：SONAR20 優惠碼在活動價上再減 20%
+- black-friday-hostinger | V | zh-hant | [seoTitle] | Hostinger 黑色星期五 2026：活動價加 SONAR20 的 20% -> Hostinger 黑色星期五 2026：活動價 + SONAR20 優惠碼
+- black-friday-hostinger | V | zh-hant | [editorialNote] | Bruno 可能獲得佣金，你不需要多付任何費用。 -> Bruno 可能獲得傭金，你不需要多付任何費用。
+- yesstyle-ou-olive-young | V | en | Membership program and points | A cancelled or refunded order comes off the account. -> A cancelled or refunded order is left out of the total.
+- yesstyle-ou-olive-young | V | es | Código de recompensa CECILIA010 en YesStyle | Según la ficha del código en este sitio, da hasta un 5 % en la primera compra y un 2  -> Según la página del código en este sitio, da hasta un 5 % en la primera compra y un 2 % en las siguientes, y s
+- yesstyle-ou-olive-young | F | es | [cta] | Mira el envío y el impuesto de tu dirección en el checkout y pega CECILIA010 en el ca -> Mira el envío y el impuesto de tu dirección en el checkout y pega CECILIA010 en el campo Reward Code
+- yesstyle-ou-olive-young | V | fr | Code de récompense CECILIA010 chez YesStyle | D'après la fiche du code sur ce site, il donne jusqu'à 5 % sur le premier achat et 2  -> D'après la page du code sur ce site, il donne jusqu'à 5 % sur le premier achat et 2 % sur les suivants, et se 
+- yesstyle-ou-olive-young | V | fr | Livraison gratuite et délai | En Asie, YesStyle a un délai plus court à Hong Kong (1 à 3 jours, contre 3 à 5), au J -> En Asie, YesStyle a un délai plus court à Hong Kong (1 à 3 jours, contre 3 à 5), au Japon (4 à 5, contre 6 à 7
+- yesstyle-ou-olive-young | V | it | Codice ricompensa CECILIA010 su YesStyle | Secondo la scheda del codice su questo sito, dà fino al 5% sul primo acquisto e il 2% -> Secondo la pagina del codice su questo sito, dà fino al 5% sul primo acquisto e il 2% sui successivi, e si som
+- yesstyle-ou-olive-young | V | de | Reward Code CECILIA010 bei YesStyle | Laut dem Code-Eintrag auf dieser Website gibt er bis zu 5 % auf den ersten Einkauf un -> Laut der Seite zum Code auf dieser Website gibt er bis zu 5 % auf den ersten Einkauf und 2 % auf die folgenden
+- yesstyle-ou-olive-young | TR | ko | 내가 사는 나라에는 어디가 배송할까 | 내가 사는 나라에는 어디가 배송할까 -> 사는 나라에는 어디가 배송할까
+- yesstyle-ou-olive-young | V | zh-hant | [editorialNote] | 我們可能從 YesStyle 獲得佣金。 -> 我們可能從 YesStyle 獲得傭金。
+- openclaw-hostinger-gerenciado-ou-vps | V | es | [title] | OpenClaw en Hostinger: ¿gestionado o VPS? Qué exige cada uno y para quién sirve -> OpenClaw en Hostinger: ¿gestionado o VPS? Qué exige cada uno y para quién es
+- openclaw-hostinger-gerenciado-ou-vps | V | es | Preguntas frecuentes | Quien quiera acceso root y otros programas en el servidor se queda mejor con el VPS. -> Quien quiera acceso root y otros programas en el servidor estará mejor con el VPS.
+- openclaw-hostinger-gerenciado-ou-vps | V | fr | Ce qu'est OpenClaw | Ce qu'est OpenClaw -> Qu'est-ce qu'OpenClaw
+- openclaw-hostinger-gerenciado-ou-vps | V | fr | Sécurité : quand la décision change | Sur le VPS, c'est direct ; en géré, demandez à Hostinger combien d'instances un compt -> Sur le VPS, c'est simple ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.
+- openclaw-hostinger-gerenciado-ou-vps | V | fr | [skipIf] | Passez votre tour sur le VPS si vous ne savez pas ce que sont root et Docker : mettre -> Évitez le VPS si vous ne savez pas ce que sont root et Docker : mettre à jour et protéger le système vous inco
+- openclaw-hostinger-gerenciado-ou-vps | V | it | [title] | OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi serve -> OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi è adatto
+- openclaw-hostinger-gerenciado-ou-vps | V | it | Coupon SONAR20 | Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di que -> Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% 
+- openclaw-hostinger-gerenciado-ou-vps | V | it | Domande frequenti | Chi vuole root e altri programmi sul server sta meglio con il VPS. -> Chi vuole root e altri programmi sul server si trova meglio con il VPS.
+- openclaw-hostinger-gerenciado-ou-vps | V | it | Risposta rapida | Quello che pesa è la manutenzione che sei disposto ad accettare. -> Quel che conta è la manutenzione che sei disposto ad accettare.
+- openclaw-hostinger-gerenciado-ou-vps | V | de | [metaDescription] | Verwaltet oder VPS für OpenClaw bei Hostinger: KI-Guthaben, Telegram und WhatsApp und -> Verwaltet oder VPS für OpenClaw bei Hostinger: KI-Guthaben, Telegram und WhatsApp, und wer sich um den Server 
+- openclaw-hostinger-gerenciado-ou-vps | V | de | Verwaltet oder VPS: die Tabelle | Der Anbieter berechnet die Nutzung direkt Ihnen. -> Der Anbieter berechnet Ihnen die Nutzung direkt.
+- openclaw-hostinger-gerenciado-ou-vps | V | de | Was der Tarif nicht abdeckt | Die verwaltete Option hat 30 Tage, um eine Erstattung zu verlangen. -> Für die verwaltete Option gilt eine Frist von 30 Tagen, um eine Erstattung zu verlangen.
+- openclaw-hostinger-gerenciado-ou-vps | V | de | Verwaltet oder VPS: die Tabelle | Optional: im Checkout kaufbar -> Optional: Kauf im Checkout möglich
+- openclaw-hostinger-gerenciado-ou-vps | TR | ja | [caption] | それぞれの担当範囲。Hostinger のページと OpenClaw のドキュメントをもとにまとめました。 -> それぞれの担当範囲。出典：Hostinger のページと OpenClaw のドキュメント。
+- openclaw-hostinger-gerenciado-ou-vps | F | ja | [imageAlt] | OpenClaw の赤いマスコットが中央に立ち、Hostinger のロゴ、クラウドとサーバーのアイコンが並んでいる。マネージドと VPS の対決を表す画像 -> OpenClaw の赤いマスコットが中央に立ち、Hostinger のロゴと、クラウドとサーバーのアイコンが向かい合っている
+- openclaw-hostinger-gerenciado-ou-vps | TR | ja | Telegram と WhatsApp | まだ承認されていない相手にはペアリングコードが届くので、最初の接続は OpenClaw の管理画面で承認します。 -> まだ承認されていない相手にはペアリングコードが届くので、最初の接続は OpenClaw の管理画面で承認してください。
+- openclaw-hostinger-gerenciado-ou-vps | F | ja | [cta-label] | 割引プランを見る -> SONAR20 の割引プランを見る
+- openclaw-hostinger-gerenciado-ou-vps | TR | ko | [caption] | 각 방식에서 누가 무엇을 맡는지. 호스팅어 페이지와 OpenClaw 문서를 바탕으로 정리했습니다。 -> 각 방식에서 누가 무엇을 맡는지. 출처: 호스팅어 페이지와 OpenClaw 문서。
+- openclaw-hostinger-gerenciado-ou-vps | F | ko | [imageAlt] | OpenClaw의 빨간 마스코트가 가운데에 서 있고, 호스팅어 로고와 클라우드, 서버 아이콘이 마주 보고 있는 이미지. 관리형과 VPS의 대결을 나타냄 -> OpenClaw의 빨간 마스코트가 가운데에 서 있고, 호스팅어 로고와 클라우드, 서버 아이콘이 마주 보고 있음
+- openclaw-hostinger-gerenciado-ou-vps | TR | ko | 텔레그램과 왓츠앱 | 봇에 메시지를 보내세요. 아직 승인되지 않은 사람은 페어링 코드를 받고, 첫 연결은 OpenClaw 패널에서 승인합니다。 -> 봇에 메시지를 보내세요. 아직 승인되지 않은 사람은 페어링 코드를 받고, 첫 연결은 OpenClaw 패널에서 승인하세요.
+- openclaw-hostinger-gerenciado-ou-vps | F | ko | [cta] | 쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았습니다。 -> 장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.
+- openclaw-hostinger-gerenciado-ou-vps | F | ko | [cta-label] | 할인 플랜 보기 -> SONAR20 할인 플랜 보기
+- openclaw-hostinger-gerenciado-ou-vps | F | zh-hans | [imageAlt] | OpenClaw 的红色吉祥物居中，旁边是 Hostinger 标志以及云和服务器图标，象征托管与 VPS 的对决 -> OpenClaw 的红色吉祥物居中，旁边是 Hostinger 标志以及云和服务器图标，两者相对而立
+- openclaw-hostinger-gerenciado-ou-vps | F | zh-hans | [skipIf] | 如果同一个助理要服务多个人，就别选：项目建议每人一台服务器。 -> 如果同一个助理要服务多个人，两者都别选：项目建议每人一台服务器。
+- openclaw-hostinger-gerenciado-ou-vps | F | zh-hant | [imageAlt] | OpenClaw 的紅色吉祥物居中，旁邊是 Hostinger 標誌以及雲端與伺服器圖示，象徵託管與 VPS 的對決 -> OpenClaw 的紅色吉祥物居中，旁邊是 Hostinger 標誌以及雲端與伺服器圖示，兩者相對而立
+- openclaw-hostinger-gerenciado-ou-vps | F | zh-hant | [skipIf] | 如果同一個助理要服務多個人，就別選：專案建議一人一台伺服器。 -> 如果同一個助理要服務多個人，兩者都別選：專案建議一人一台伺服器。
+- openclaw-hostinger-gerenciado-ou-vps | V | zh-hant | Telegram 與 WhatsApp | 傳訊息給機器人。尚未獲准的對象會收到配對碼，你再到 OpenClaw 的後台批准第一次聯絡。 -> 傳訊息給機器人。尚未獲准的人會收到配對碼，你再到 OpenClaw 的後台批准第一次聯絡。
+- openclaw-hostinger-gerenciado-ou-vps | V | zh-hant | 安全：什麼情況會改變決定 | VPS 做起來很直接；託管方面，請向 Hostinger 確認一個帳戶能有幾個執行個體。 -> VPS 上很容易做到；託管方面，請向 Hostinger 確認一個帳戶能有幾個執行個體。
+- melhor-vps-para-openclaw | F | de | [cta] | Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Waren -> Wir haben die Verlängerung nicht getestet: Prüfen Sie den Preis im Warenkorb.
+- melhor-vps-para-openclaw | F | zh-hant | [imageAlt] | 三列的圖表：模型在伺服器之外（API 金鑰或額度）選 KVM 1 -> 三行的圖表：模型在伺服器之外（API 金鑰或額度）選 KVM 1
+- openclaw-ou-hermes-agent | V | es | [cta] | Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este -> Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el prim
+- openclaw-ou-hermes-agent | V | fr | [cta] | Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20  -> Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première pér
+- openclaw-ou-hermes-agent | N | it | Dove farlo girare su Hostinger | Gestito (app di automazione con IA) -> Gestito (App di automazione con IA)
+- openclaw-ou-hermes-agent | V | de | [seoTitle] | OpenClaw oder Hermes Agent: welcher passt 2026? -> OpenClaw oder Hermes Agent: welcher passt im Jahr 2026?
+- openclaw-ou-hermes-agent | V | de | [cta] | Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den L -> Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % auf den ersten 
+- openclaw-ou-hermes-agent | F | ja | [cta] | 最初の期間が20%割引です。更新は検証していません。 -> 最初の期間が20%割引です。更新は検証していないので、カートで価格を確認してください。
+- openclaw-ou-hermes-agent | F | ko | [cta] | 쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았습니다. -> 쿠폰 코드 SONAR20을 장바구니 쿠폰란에 넣거나 이 링크로 들어가세요: 첫 기간 20% 할인, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.
+- openclaw-ou-hermes-agent | V | ko | [seoTitle] | OpenClaw 또는 Hermes Agent: 어떤 것을 고를까? 2026 -> OpenClaw 또는 Hermes Agent: 2026년에는 어떤 것을 고를까?
+- openclaw-ou-hermes-agent | TR | ko | 실제 비용 | 항상 켜 둔 내 컴퓨터를 쓰거나, 가상 서버인 VPS를 빌릴 수 있습니다. -> 항상 켜 둔 자신의 컴퓨터를 쓰거나, 가상 서버인 VPS를 빌릴 수 있습니다.
+- openclaw-ou-hermes-agent | TR | ko | 비교표 | 상태, 메모리, 자격 증명이 내 기기에 저장됨。 -> 상태, 메모리, 자격 증명이 사용자 기기에 저장됨。
+- openclaw-ou-hermes-agent | F | zh-hans | 关于透明度 | 关于透明度 -> 谁在写
+- openclaw-ou-hermes-agent | V | zh-hans | [cta] | 通过 SONAR20 查看套餐 -> 通过 SONAR20 查看方案
+- openclaw-ou-hermes-agent | F | zh-hant | 透明度說明 | 透明度說明 -> 誰在寫
+- openclaw-ou-hermes-agent | F | zh-hant | [cta] | 在購物車輸入 SONAR20，或從本文連結進入：首期享 20%，月付或年付都可以。 -> 在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣，月付或年付都可以。我們沒有測試續約，請在購物車裡確認價格。
+
+## Trechos que não batem por literal exato
+
+Muse: 43/214 | Minha: 5/191. Localizar pelo capítulo/campo ou descartar.
+
+### Muse
+
+- yesstyle-entrega-no-brasil-e-portugal | N | es | Cómo devolver un producto | href: /es/reviews/es-yesstyle-de-fiar-y-seguro (label confiable y seguro)
+- yesstyle-entrega-no-brasil-e-portugal | V | it | Disponibile o in attesa di stock: cosa dice la pagina del prodotto | Stock disponibile tra: 3-5 giorni: / Stock disponibile tra: 7, 7-14, 21 o 30 giorni:
+- yesstyle-entrega-no-brasil-e-portugal | F | de | Auf Lager oder mit Wartezeit: was die Produktseite zeigt | Auf Lager: 3–5 Tage: / Auf Lager: 7 Tage, 7–14 Tage, 21 Tage oder 30 Tage:
+- yesstyle-entrega-no-brasil-e-portugal | N | zh-hans | In-Stock 还是 Awaiting Stock：商品页显示的备货状态 | Awaiting Stock: 7 days、7-14 days、21 days 或 30 days（待补货...)： em 4 bolds
+- yesstyle-entrega-no-brasil-e-portugal | N | zh-hant | In-Stock 還是 Awaiting Stock：商品頁顯示的備貨狀態 | Awaiting Stock: 7 days、7-14 days、21 days 或 30 days（待補貨...)： em 4 bolds
+- yesstyle-ou-stylevana | TR | ko | CTA | 결제 화면에서 내 주소의 배송비와 세금을 확인하고 Reward Code 칸에 CECILIA010을 붙여넣으세요。
+- hostinger-e-confiavel | F | ko | CTA | 이 글의 링크로 요금제를 확인하세요。
+- hostinger-reclame-aqui-nota-reputacao | F | en | What the score says and what it does not | '63,962 (87.1%)' (idem 4/3/2/1 estrela: '3,143 (4.3%)', '650 (0.9%)', '558 (0.8%)', '5,098 (6.9%)')
+- hostinger-reclame-aqui-nota-reputacao | F | es | Lo que dice la calificación y lo que no dice | '63.962 (87,1 %)' (idem: '3.143 (4,3 %)', '650 (0,9 %)', '558 (0,8 %)', '5.098 (6,9 %)')
+- hostinger-reclame-aqui-nota-reputacao | F | fr | Ce que dit la note et ce qu'elle ne dit pas | '63 962 (87,1 %)' (idem: '3 143 (4,3 %)', '650 (0,9 %)', '558 (0,8 %)', '5 098 (6,9 %)')
+- hostinger-reclame-aqui-nota-reputacao | F | fr | Ce que dit la note et ce qu'elle ne dit pas | La page montre aussi la langue des avis : 44 546 étaient en anglais, 8 744 en espagnol et 3 340 en français, e
+- hostinger-reclame-aqui-nota-reputacao | F | it | Cosa dice il punteggio e cosa non dice | '63.962 (87,1%)' (idem: '3.143 (4,3%)', '650 (0,9%)', '558 (0,8%)', '5.098 (6,9%)')
+- hostinger-reclame-aqui-nota-reputacao | F | it | Cosa dice il punteggio e cosa non dice | La pagina mostra anche la lingua delle recensioni: 44.546 erano in inglese, 8.744 in spagnolo e 3.340 in franc
+- hostinger-reclame-aqui-nota-reputacao | F | de | Was die Bewertung sagt und was nicht | '63.962 (87,1 %)' (idem: '3.143 (4,3 %)', '650 (0,9 %)', '558 (0,8 %)', '558 (0,8 %)', '5.098 (6,9 %)')
+- hostinger-reclame-aqui-nota-reputacao | F | ja | 4.6 が示すことと示さないこと | '63,962（87.1%）' (idem: '3,143（4.3%）', '650（0.9%）', '558（0.8%）', '5,098（6.9%）')
+- hostinger-reclame-aqui-nota-reputacao | F | ja | 4.6 が示すことと示さないこと | postParagraph sem nota (prints/alt 73,316 × tabela 73,411)
+- hostinger-reclame-aqui-nota-reputacao | N | ja | 結論 | heading '結論'
+- hostinger-reclame-aqui-nota-reputacao | F | ko | 4.6이 말하는 것과 말하지 않는 것 | '63,962 (87.1%)' (idem: '3,143 (4.3%)', '650 (0.9%)', '558 (0.8%)', '5,098 (6.9%)')
+- hostinger-reclame-aqui-nota-reputacao | F | ko | 4.6이 말하는 것과 말하지 않는 것 | postParagraph sem nota (73,316 × 73,411)
+- hostinger-reclame-aqui-nota-reputacao | F | ko | 숫자가 바꾸는 세 가지 읽는 법 | heading '숫자가 바꾸는 세 가지 읽는 법'
+- hostinger-reclame-aqui-nota-reputacao | F | zh-hans | 4.6 说明了什么，没有说明什么 | '63,962（87.1%）' (idem: '3,143（4.3%）', '650（0.9%）', '558（0.8%）', '5,098（6.9%）')
+- hostinger-reclame-aqui-nota-reputacao | F | zh-hans | 4.6 说明了什么，没有说明什么 | postParagraph sem nota (73,316 × 73,411)
+- hostinger-reclame-aqui-nota-reputacao | N | zh-hans | 快速结论 | heading '快速结论'
+- hostinger-reclame-aqui-nota-reputacao | F | zh-hant | 4.6 說明了什麼，沒有說明什麼 | '63,962（87.1%）' (idem: '3,143（4.3%）', '650（0.9%）', '558（0.8%）', '5,098（6.9%）')
+- hostinger-reclame-aqui-nota-reputacao | F | zh-hant | 4.6 說明了什麼，沒有說明什麼 | postParagraph sem nota (73,316 × 73,411)
+- hostinger-reclame-aqui-nota-reputacao | N | zh-hant | 快速結論 | heading '快速結論'
+- cupom-hostinger-indicacao | N | ja | (metadados) | campo 'hideFromPortugueseListings' ausente
+- cupom-hostinger-indicacao | N | ko | (metadados) | campo 'hideFromPortugueseListings' ausente
+- cupom-hostinger-indicacao | V | zh-hans | SONAR20 适用范围 + 在哪里输入代码 + 常见问题 | 'Have a coupon code?' com aspas retas (3 ocorrências)
+- cupom-hostinger-indicacao | N | zh-hans | 要点速览 | heading '要点速览'
+- cupom-hostinger-indicacao | N | zh-hant | (metadados) | campo 'hideFromPortugueseListings' ausente
+- black-friday-hostinger | V | de | Was die Aktion und SONAR20 kosten (heading) | heading atual
+- black-friday-hostinger | F | ko | (cta) | Jangbaguni... SONAR20-eul neotgeona i linkeuro deureogaseyo: kaempein gagyeogeseo 20%. ('...neste link alterna
+- black-friday-hostinger | F | zh-hant | (title) | Hostinger Heise Xingqiwu 2026: SONAR20 zai sheng 20%, shiji duoshao qian ('實際多少錢')
+- yesstyle-ou-olive-young | TR | en | Frequently asked questions | Can I return an opened product? At Olive Young Global, no, unless...
+- yesstyle-ou-olive-young | N | es | (cta) | ...pega CECILIA010 en el campo Código de Recompensa (Reward Code)
+- yesstyle-ou-olive-young | V | de | Rueckgabe und geoeffnetes Produkt | Wo YesStyle gewinnt: Es akzeptiert Sinnesaenderung und Groessentausch, was Olive Young nicht tut.
+- yesstyle-ou-olive-young | V | de | Reward Code CECILIA010 bei YesStyle | Was sie Mitgliedern gibt, steht im oben beschriebenen Programm und kann sich aendern.
+- yesstyle-ou-olive-young | F | ja | (title) | YesStyle to Olive Young wo hikaku: Nihon e no haisou...' (literal: 'YesStyleとOlive Youngを比較：日本への配送・送料・関税・返品')
+- yesstyle-ou-olive-young | TR | ko | 내가 사는 나라에는 어디가 배송할까 (heading) | heading atual
+- yesstyle-ou-olive-young | V | ko | 무료배송과 배송 기간 | ...YesStyle의 배송비가 훨씬 쌉니다.
+- yesstyle-ou-olive-young | V | zh-hans | 税费由谁负担 | 在欧盟，自 2026年7月31日 起的订单，你填写地址后...
+- melhor-vps-para-openclaw | V | es | Qué plan KVM elegir (tabela) | 'Plan', 'vCPU (procesador virtual)', 'RAM', 'Disco NVMe' (linha de headers)
+
+### Minha
+
+- black-friday-hostinger | V | fr | Ce que l'on paie avec la campagne et avec SONAR20 | Où coller le code et ce qu'il advient de la réduction au renouvellement : voir [Code promo Hostinger SONAR20](
+- openclaw-hostinger-gerenciado-ou-vps | TR | ko | [caption] | 각 방식에서 누가 무엇을 맡는지. 호스팅어 페이지와 OpenClaw 문서를 바탕으로 정리했습니다。
+- openclaw-hostinger-gerenciado-ou-vps | TR | ko | 텔레그램과 왓츠앱 | 봇에 메시지를 보내세요. 아직 승인되지 않은 사람은 페어링 코드를 받고, 첫 연결은 OpenClaw 패널에서 승인합니다。
+- openclaw-hostinger-gerenciado-ou-vps | F | ko | [cta] | 쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았습니다。
+- openclaw-ou-hermes-agent | TR | ko | 비교표 | 상태, 메모리, 자격 증명이 내 기기에 저장됨。
+
+## Notas da conferência (revisão das traduções novas, lotes 02 e 03)
+
+- Cobertura: 13/13 famílias nas duas passadas (notas nos 9 idiomas). Total: Muse 214 consertos na lista (V 85, F 63, N 56, TR 10); minha 191 (V 93, F 52, TR 31, N 15). Os lotes 02 e 03 vieram juntos, como o briefing mandava.
+- Literais: Muse 171/214; minha 186/191. Dos 43 que não batem no Muse, boa parte não é trecho: é nota estrutural formatada como conserto ("postParagraph sem nota", "heading '結論'", contagens com "(idem...)") ou instrução ((remover cláusula)). A lista completa está na seção anterior; localizar pelo capítulo/campo ou descartar. Os 5 meus são pontuação coreana ("。" x ".") e um link no francês.
+- O confronto pareia por trecho idêntico/contido: 46 no mesmo trecho, 168 só Muse, 145 só minha. Pareamento baixo não é desacordo total: as duas listas citam o mesmo capítulo em tamanhos diferentes (o Muse cita frase curta ou campo; a minha, até 2 frases). Onde as duas tratam do mesmo problema com recortes diferentes, o par não se forma e as duas linhas aparecem como "só".
+- Convergências que aparecem nas duas, mesmo sem par: CTA das famílias Hostinger/OpenClaw perde pedaço do PT (campo do cupom, "confira o preço no carrinho", aviso de renovação não testada) em ja/ko/zh-hant - o Muse lista como padrão nº 1 e a minha tem F nos mesmos CTAs; coreano com "-겠습니다"/"내" onde o PT é impessoal ou diz "seu"; zh-hant com simplificado vazado (佣, 算法); alemão "Brauche ich" em título de FAQ (as duas propõem "Braucht man"); primeira pessoa de leitura ("we read", "abbiamo letto", "leímos") onde o PT usa particípio; família 11 com preço na resposta rápida nos 9 (minha: 1 TR por idioma) e rótulo de estoque alemão trocado; família 14 com os dois números do Trustpilot (73.316 no alt x 73.411 na tabela) sem a frase-ponte nos asiáticos.
+- Primeira pessoa: os marcadores automáticos conferidos um a um. "Some": 我们/我們 editoriais removidos na família 09, "ich" de título-pergunta alemão, "US" (país). "Surge": nas duas passadas são os CTAs zh-hant repondo o aviso do PT "não testamos a renovação" - é a ressalva do PT voltando, não experiência inventada. Nenhum conserto apaga uso real do PT, e o uso real que o PT declara (testes de código, "Quem escreve" do Bruno) fica.
+- Travas SHEIN sem país: nenhuma proposta das duas passadas traz "SHEIN Brasil" em família SHEIN (varredura automática 0/0). CECILIA010 como cupom 0, link de concorrente 0. Família 12 (YesStyle ou Stylevana): a minha deu 0 conserto e notas 5/5 nos 9, sem listar Portugal, como a decisão nova manda; o Muse lista 7 consertos no resto da família (CTA coreano com CECILIA010 em campo errado entre eles) sem tocar em Portugal. O único registro estrutural comum: isNew segue true nas traduções, que o Job 4 manda false fora do PT (famílias 12, 17, 19 e 20 na minha; vai no PR de consertos, não é frase).
+- Registros fora da quota da minha passada: família 10 zh-hant, o conserto N do imageAlt (acrescentar AliExpress, imagem de 3 logos) vale igual ao dos outros 8; família 09, relatedArticles do zh-hant aponta título de Temu; família 16, o capítulo 2 perdeu a imagem inline do PT nos 9 idiomas; família 18, o italiano está sem hideFromPortugueseListings.
+- Registros do Muse fora da lista: ele declara não ter aberto os JSONs pessoalmente (os literais vêm dos agentes dele) e marca itens "QUEBRADO (crítica)" em que trecho atual e "como fica" saíram idênticos (família 19: 'Plan'→'Plano' no es e concordância no fr) - reabrir o JSON antes de aplicar esses dois. Fontes externas e descrição do PR #501 não foram conferidas por ele (sessão sem shell/web).
+- Tamanho: "como fica" maior em 106/214 (Muse) e 98/191 (minha). Os maiores saltos são inserção de frase que falta (família 14: +104/+108 caracteres nos asiáticos; CTA alemão da 13: +72/+77), não reescrita inchada.
+- Backups: backup-trad-lote-02 (70 JSONs + lista + SHA-BASE.txt) e backup-trad-lote-03 (60 JSONs + lista + SHA-BASE.txt), das traduções antigas, conferidos por contagem. Baseline validate:content no checkout com dependências antes de aplicar, como sempre.
