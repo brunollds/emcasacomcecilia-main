@@ -174,9 +174,9 @@ vídeo, primeiras impressões e uso noturno.
 - `npm run test:review-i18n`, que roda na build, exige as 10 versões de toda família, com o mesmo
   `affiliate` e o mesmo `coupon`, e o link da página da loja no idioma do artigo: `/cupons/<marca>`
   em português e `/<locale>/coupons/<marca>` nos outros.
-- Versão fora do PT não leva link da SHEIN Brasil (`br.shein.com` nem os links de oferta e
-  campanha do cupom em PT): o `test:review-i18n` barra, e no artigo da SHEIN o `cta.url` tem de ser
-  o link principal neutro da página da loja (`getLocalizedCoupon('shein', locale).offerUrl`).
+- SHEIN, YesStyle e Hostinger são lojas internacionais (`INTERNATIONAL_STORES`, em `storeBanners.ts`): o link e o
+  código levam o visitante à loja da região dele, então valem em todo idioma, `br.shein.com` inclusive. Nenhum texto
+  fora do PT diz que um código ou uma campanha da SHEIN é "da SHEIN Brasil": não existe programa da SHEIN por país.
 - A interface do artigo que não é conteúdo (selo do tipo, veredito e nota, ficha do produto, bloco de
   vídeo, galeria, barra de compartilhar, nome da trilha para o leitor de tela, rótulo e fechar da nota
   editorial) tem o texto nos 10 idiomas em `articleCopy.ts`, `galleryCopy.ts` (ambos em
@@ -300,7 +300,8 @@ vídeo, primeiras impressões e uso noturno.
   `src/lib/generated/store-banners.ts`, tipado pelo `StoreBanner`, e o `src/lib/storeBanners.ts` guarda só o tipo e
   as regras. Chaveadas pelo `affiliate`, entram sozinhas em todo artigo da loja. A campanha leva só o texto em
   português (sai só nos artigos em PT e pode levar à loja brasileira, `.com.br` inclusive) ou os 10 idiomas (sai em
-  todas as versões, com um link que vale em todas, nunca de um país só); o `test:store-banners` barra o meio-termo. O
+  todas as versões, com um link que vale em todas, nunca de um país só, salvo nas lojas internacionais); o
+  `test:store-banners` barra o meio-termo. O
   `top` vai logo depois da 1ª seção do corpo, o `mid` logo antes do FAQ (sem FAQ, da última) e o `end` logo depois
   da última seção (do FAQ, quando ele fecha o corpo; abaixo do quadro de decisão), só em artigo de 4 seções ou mais,
   pela prop `slots` do `ReviewContentSections`. O banner
@@ -443,12 +444,13 @@ vídeo, primeiras impressões e uso noturno.
   artigos, nos 10 idiomas, e o `offerTypeLabel` nos cards e na ItemList de `/cupons`.
   `npm run test:build-output` confere toda página que cita o código, inclusive o nome dos cards que
   o mostram e a home, que mostra o código no painel da YesStyle.
-- O 4CW5Y da SHEIN é código de indicação da SHEIN Brasil: pesquisa-se no aplicativo, não se cola no
+- O 4CW5Y da SHEIN é código de indicação: pesquisa-se no aplicativo, não se cola no
   checkout, e também não é cupom. `getStoreCodeKind` (`couponsData.ts`) dá o tipo do código de um
   artigo (`reward`, `referral` ou nenhum); o dock, a sidebar e os recortes do artigo o usam por
   `getCodeTitle` e `getCodeHints` (`sidebarCopy.ts`) e `copiedHint` (`articleCopy.ts`),
-  com o termo que a página da loja já usa em cada idioma e, fora do PT, o aviso de que o código é
-  da SHEIN Brasil. O `test:review-i18n` confere os rótulos nos 10 idiomas e o `test:build-output`,
+  com o termo que a página da loja já usa em cada idioma, sem país. O `test:review-i18n` confere os rótulos nos 10
+  idiomas (e barra "SHEIN Brasil" e as traduções fora do PT; o `test:coupon-translations`, na página traduzida da
+  loja) e o `test:build-output`,
   em toda página, o tipo no dock e na sidebar.
 
 ### Styling

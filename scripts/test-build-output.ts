@@ -952,7 +952,7 @@ const withoutRelatedCards = (body: string) => {
 
 // O recorte do topo do artigo (#cupom-artigo): o tipo do código (cupom, recompensa ou indicação) no idioma do
 // artigo, o código com o botão de copiar e a frase de depois de copiar; sem código, o nome da loja e o link.
-// Fora do PT, nenhum texto dele em português e nenhum link da SHEIN Brasil.
+// Fora do PT, nenhum texto dele em português.
 function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock): string[] {
   const texts = cutout.split(/<[^>]+>/).map((text) => decodeHtml(text).trim()).filter(Boolean);
   const uiOf = (lang: Locale) => [
@@ -968,7 +968,6 @@ function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock
     const ownTexts = [...own, ...storeLinks(locale)];
     const portuguese = [...uiOf('pt'), ...storeLinks('pt')].filter((text) => !ownTexts.includes(text));
     problems.push(...texts.filter((text) => portuguese.includes(text)).map((text) => `"${text}" em português`));
-    if (/br\.shein\.com/.test(cutout)) problems.push('link da SHEIN Brasil');
   }
   return problems;
 }
@@ -982,7 +981,6 @@ function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock
   assert.deepEqual(cutoutProblems(html('pt'), 'pt', block), []);
   assert.notDeepEqual(cutoutProblems(html('pt'), 'en', block), [], 'recorte em português passou numa página em inglês');
   assert.notDeepEqual(cutoutProblems(html('en').replace('<code>CECILIA010</code>', ''), 'en', block), [], 'recorte sem código passou');
-  assert.notDeepEqual(cutoutProblems(`${html('en')}<a href="https://br.shein.com/">x</a>`, 'en', block), [], 'SHEIN Brasil passou');
 }
 
 // O link da loja dos recortes (topo, fim e lateral) vai à loja, nunca à página de cupons do site, e todo link externo
