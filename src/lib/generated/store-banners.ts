@@ -256,11 +256,12 @@ export const storeBannersData: StoreBanner[] = [
     "id": "shein-novos-usuarios",
     "affiliate": "shein",
     "slot": "top",
-    "href": "https://onelink.shein.com/58/66iudaefvx27",
+    "href": "https://onelink.shein.com/59/66zoldc7gn5l",
     "art": {
       "kind": "tag",
       "value": "50%"
     },
+    "code": "K49L457",
     "copy": {
       "pt": {
         "headline": "Primeira compra na SHEIN? Até 50% para novos usuários",
@@ -323,8 +324,72 @@ export const storeBannersData: StoreBanner[] = [
         "tag": "最高"
       }
     },
-    "source": "Link de afiliado da campanha no painel da SHEIN (PR #349)",
-    "verifiedAt": "2026-10-29"
+    "source": "Link e código enviados pelo Bruno em 02/11 (antes no coupon.campaigns da SHEIN)",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "shein-produtos-selecionados",
+    "affiliate": "shein",
+    "slot": "end",
+    "href": "https://onelink.shein.com/47/5yl4fyr203o0",
+    "art": {
+      "kind": "bag"
+    },
+    "code": "37S3442",
+    "copy": {
+      "pt": {
+        "headline": "Produtos selecionados com desconto na SHEIN",
+        "text": "Descontos por tempo limitado em itens escolhidos pela SHEIN. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      },
+      "en": {
+        "headline": "Selected SHEIN products on sale",
+        "text": "Limited-time discounts on items picked by SHEIN. The terms are on the SHEIN website.",
+        "action": "See the offer"
+      },
+      "es": {
+        "headline": "Productos seleccionados con descuento en SHEIN",
+        "text": "Descuentos por tiempo limitado en artículos elegidos por SHEIN. Las condiciones están en el sitio de SHEIN.",
+        "action": "Ver la oferta"
+      },
+      "fr": {
+        "headline": "Sélection de produits SHEIN en promotion",
+        "text": "Des réductions limitées dans le temps sur des articles choisis par SHEIN. Les conditions sont sur le site de SHEIN.",
+        "action": "Voir l’offre"
+      },
+      "it": {
+        "headline": "Prodotti selezionati in sconto su SHEIN",
+        "text": "Sconti a tempo limitato su articoli scelti da SHEIN. Le condizioni sono sul sito di SHEIN.",
+        "action": "Vedi l’offerta"
+      },
+      "de": {
+        "headline": "Ausgewählte SHEIN-Produkte im Angebot",
+        "text": "Zeitlich begrenzte Rabatte auf von SHEIN ausgewählte Artikel. Die Bedingungen stehen auf der SHEIN-Website.",
+        "action": "Zum Angebot"
+      },
+      "ja": {
+        "headline": "SHEINの対象商品がセール中",
+        "text": "SHEINが選んだ商品の期間限定割引です。条件はSHEINのサイトでご確認ください。",
+        "action": "キャンペーンを見る"
+      },
+      "ko": {
+        "headline": "SHEIN 일부 상품 할인",
+        "text": "SHEIN이 고른 상품에 기간 한정 할인이 적용됩니다. 조건은 SHEIN 사이트에서 확인하세요.",
+        "action": "혜택 보기"
+      },
+      "zh-hans": {
+        "headline": "SHEIN 指定商品优惠",
+        "text": "SHEIN 精选商品限时折扣，具体条件以 SHEIN 网站为准。",
+        "action": "查看活动"
+      },
+      "zh-hant": {
+        "headline": "SHEIN 指定商品優惠",
+        "text": "SHEIN 精選商品限時折扣，具體條件以 SHEIN 網站為準。",
+        "action": "查看活動"
+      }
+    },
+    "source": "coupon.campaigns da SHEIN em couponsData.ts, migrado em 02/11 (verificado em 24/10)",
+    "verifiedAt": "2026-10-24"
   },
   {
     "id": "skelt-black-friday-2026",

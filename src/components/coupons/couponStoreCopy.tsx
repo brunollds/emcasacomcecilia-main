@@ -55,9 +55,6 @@ export type CouponStoreCopy = {
   rulesTitle: string;
   rules: { eligible: string; combinable: string; validity: string; reusable: string; shipping: string };
   referralVerified: (date: string) => string;
-  campaignsTitle: (brand: string) => string;
-  openCampaign: (brand: string) => string;
-  campaignVerified: (date: string) => string;
   howToTitle: { code: (offerType: string, code: string) => string; link: (brand: string) => string };
   instructions: {
     code: (offer: { code: string; brand: string; discount: string }) => string[];
@@ -143,9 +140,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       shipping: 'Frete',
     },
     referralVerified: (date) => `Verificado em ${date}.`,
-    campaignsTitle: (brand) => `Campanhas ativas da ${brand}`,
-    openCampaign: (brand) => `Abrir campanha na ${brand}`,
-    campaignVerified: (date) => `Verificada em ${date}.`,
     howToTitle: {
       code: (offerType, code) => `Como usar o ${offerType} ${code}`,
       link: (brand) => `Como acessar a oferta da ${brand}`,
@@ -250,9 +244,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       shipping: 'Shipping',
     },
     referralVerified: (date) => `Checked on ${date}.`,
-    campaignsTitle: (brand) => `Active ${brand} campaigns`,
-    openCampaign: (brand) => `Open the campaign on ${brand}`,
-    campaignVerified: (date) => `Checked on ${date}.`,
     howToTitle: {
       code: (offerType, code) => `How to use the ${offerType} ${code}`,
       link: (brand) => `How to get the ${brand} offer`,
@@ -355,9 +346,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       shipping: 'Envío',
     },
     referralVerified: (date) => `Comprobado el ${date}.`,
-    campaignsTitle: (brand) => `Campañas activas de ${brand}`,
-    openCampaign: (brand) => `Abrir la campaña en ${brand}`,
-    campaignVerified: (date) => `Comprobada el ${date}.`,
     howToTitle: {
       code: (offerType, code) => `Cómo usar el ${offerType} ${code}`,
       link: (brand) => `Cómo acceder a la oferta de ${brand}`,
@@ -459,9 +447,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       shipping: 'Livraison',
     },
     referralVerified: (date) => `Vérifié le ${date}.`,
-    campaignsTitle: (brand) => `Campagnes ${brand} en cours`,
-    openCampaign: (brand) => `Ouvrir la campagne sur ${brand}`,
-    campaignVerified: (date) => `Vérifiée le ${date}.`,
     howToTitle: {
       code: (offerType, code) => `Comment utiliser le ${offerType} ${code}`,
       link: (brand) => `Comment accéder à l'offre ${brand}`,
@@ -568,9 +553,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       shipping: 'Versand',
     },
     referralVerified: (date) => `Geprüft am ${date}.`,
-    campaignsTitle: (brand) => `Aktuelle ${brand}-Aktionen`,
-    openCampaign: (brand) => `Aktion bei ${brand} öffnen`,
-    campaignVerified: (date) => `Geprüft am ${date}.`,
     howToTitle: {
       code: (offerType, code) => `So nutzt du den ${offerType} ${code}`,
       link: (brand) => `So nutzt du das ${brand}-Angebot`,
@@ -674,9 +656,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       shipping: 'Spedizione',
     },
     referralVerified: (date) => `Verificato il ${date}.`,
-    campaignsTitle: (brand) => `Campagne ${brand} attive`,
-    openCampaign: (brand) => `Apri la campagna su ${brand}`,
-    campaignVerified: (date) => `Verificata il ${date}.`,
     howToTitle: {
       code: (offerType, code) => `Come usare il ${offerType} ${code}`,
       link: (brand) => `Come accedere all'offerta ${brand}`,
@@ -778,9 +757,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       shipping: '배송비',
     },
     referralVerified: (date) => `${date} 확인.`,
-    campaignsTitle: (brand) => `진행 중인 ${brand} 캠페인`,
-    openCampaign: (brand) => `${brand}에서 캠페인 열기`,
-    campaignVerified: (date) => `${date} 확인.`,
     howToTitle: {
       code: (offerType, code) => `${offerType} ${code} 사용 방법`,
       link: (brand) => `${brand} 혜택 이용 방법`,
@@ -882,9 +858,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       shipping: '送料',
     },
     referralVerified: (date) => `${date}に確認。`,
-    campaignsTitle: (brand) => `開催中の ${brand} キャンペーン`,
-    openCampaign: (brand) => `${brand} でキャンペーンを開く`,
-    campaignVerified: (date) => `${date}に確認。`,
     howToTitle: {
       code: (offerType, code) => `${offerType} ${code} の使い方`,
       link: (brand) => `${brand} のオファーの使い方`,
@@ -983,9 +956,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       shipping: '運費',
     },
     referralVerified: (date) => `已於 ${date} 核實。`,
-    campaignsTitle: (brand) => `${brand} 進行中的活動`,
-    openCampaign: (brand) => `在 ${brand} 開啟活動`,
-    campaignVerified: (date) => `已於 ${date} 核實。`,
     howToTitle: {
       code: (offerType, code) => `如何使用${offerType} ${code}`,
       link: (brand) => `如何取得 ${brand} 優惠`,
@@ -1086,9 +1056,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       shipping: '运费',
     },
     referralVerified: (date) => `已于 ${date} 核实。`,
-    campaignsTitle: (brand) => `${brand} 进行中的活动`,
-    openCampaign: (brand) => `在 ${brand} 打开活动`,
-    campaignVerified: (date) => `已于 ${date} 核实。`,
     howToTitle: {
       code: (offerType, code) => `如何使用${offerType} ${code}`,
       link: (brand) => `如何获取 ${brand} 优惠`,

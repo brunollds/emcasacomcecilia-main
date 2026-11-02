@@ -4,7 +4,7 @@ import { getCouponBySlug } from '../src/lib/couponsData';
 import { LOCALE_KEYS } from '../src/lib/i18n/locales';
 import { readdirSync, readFileSync } from 'node:fs';
 import type { CouponCopyLocale } from '../src/components/review/couponCopyLocale';
-import { INTERNATIONAL_STORES, STORE_BANNERS, getArticleStoreBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, storeBannersOverlap, type StoreBanner } from '../src/lib/storeBanners';
+import { INTERNATIONAL_STORES, STORE_BANNERS, getArticleStoreBanners, getStorePageBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, storeBannersOverlap, type StoreBanner } from '../src/lib/storeBanners';
 
 // O prazo de uma campanha com um "agora" fixo. As 23h do último dia em Brasília já são o dia seguinte em UTC:
 // o banner continua no ar.
@@ -26,6 +26,7 @@ const sample = (id: string, affiliate: string, slot: StoreBanner['slot'], dates:
   ...(href && { href }),
 });
 const now = new Date('2026-11-15T12:00:00-03:00');
+const day0 = (d: number) => `2026-11-${String(d).padStart(2, '0')}T00:00:00-03:00`;
 const sampleBanners = [
   sample('a-top', 'a', 'top'),
   sample('a-mid-vencida', 'a', 'mid', { endsAt: '2026-11-10T23:59:59-03:00' }),
@@ -48,6 +49,20 @@ const ptOnly: StoreBanner = { ...sample('f-so-pt', 'f', 'top'), copy: { pt: STOR
 assert.deepEqual(queueIds('f', 'x', 'pt', [ptOnly]), { top: ['f-so-pt'] }, 'campanha só em PT no artigo em PT');
 assert.deepEqual(queueIds('f', 'x', 'en', [ptOnly]), {}, 'campanha só em PT fora do artigo em inglês');
 assert.ok(isArticleBannerHref('/reviews/artigo-d') && !isArticleBannerHref('https://loja.com/reviews/x'));
+
+// A página da loja leva todas as campanhas da loja que não acabaram, de qualquer lugar, na ordem do início: a do
+// nosso artigo também (ela não está no artigo), e a só em PT só em /cupons/<loja>.
+const pageIds = (affiliate: string, locale: CouponCopyLocale = 'pt', banners = sampleBanners) =>
+  getStorePageBanners(affiliate, locale, now, banners).map(({ id }) => id);
+assert.deepEqual(pageIds('a'), ['a-top'], 'página da loja sem a vencida');
+assert.deepEqual(pageIds('d'), ['d-top-amanha'], 'página da loja com a que vai começar e a do artigo');
+assert.deepEqual(pageIds('e'), ['e-esquenta', 'e-black-friday'], 'página da loja na ordem do início');
+assert.deepEqual(
+  pageIds('g', 'pt', [sample('g-mid', 'g', 'mid', { startsAt: day0(20) }), sample('g-top', 'g', 'top')]),
+  ['g-top', 'g-mid'],
+  'lugares diferentes na mesma página'
+);
+assert.deepEqual(pageIds('f', 'en', [ptOnly]), [], 'campanha só em PT fora da página traduzida');
 
 // Sobreposição no mesmo lugar: uma começa antes de a outra acabar. Sem início, já começou; sem fim, não acaba.
 const day = (d: number, h = '00:00:00') => `2026-11-${String(d).padStart(2, '0')}T${h}-03:00`;
@@ -117,6 +132,11 @@ for (const banner of STORE_BANNERS) {
   }
 
   const code = store.offerMode === 'discount-code' ? store.code : undefined;
+  // O código da campanha é o da própria loja, de pesquisar no app: nunca o nosso (cupom, recompensa ou indicação).
+  if (banner.code !== undefined) {
+    assert.match(banner.code, /^[A-Z0-9]{4,20}$/, `${banner.id}: código da campanha fora do formato`);
+    assert.ok(![code, store.referral?.code].includes(banner.code), `${banner.id}: o código da campanha é o nosso código da loja`);
+  }
   // A etiqueta com número leva o "até" em cada idioma: o número sozinho diria um desconto fixo.
   if (banner.art.kind === 'tag') {
     for (const locale of languages) assert.ok(banner.copy[locale]?.tag?.trim(), `${banner.id} (${locale}): etiqueta sem o "até"`);

@@ -57,11 +57,6 @@ for (const slug of translatedSlugs) {
       pt.referral && { code: pt.referral.code, verifiedAt: pt.referral.verifiedAt },
       `${slug}/${locale}: código de indicação diferente do PT`
     );
-    assert.deepEqual(
-      localized.campaigns?.map(({ code, offerUrl, verifiedAt }) => ({ code, offerUrl, verifiedAt })),
-      pt.campaigns?.map(({ code, offerUrl, verifiedAt }) => ({ code, offerUrl, verifiedAt })),
-      `${slug}/${locale}: campanhas fora de ordem ou diferentes do PT`
-    );
     assert.equal(
       localized.faqs.length,
       pt.faqs.length,
@@ -126,7 +121,6 @@ for (const locale of TRANSLATED_LOCALES) {
   assert.equal(hostinger.code, 'SONAR20', `hostinger/${locale}: código diferente do PT`);
   assert.equal(hostinger.offerUrl, HOSTINGER_GLOBAL_LINK, `hostinger/${locale}: link principal não é o global`);
   assert.equal(hostinger.referral, undefined, `hostinger/${locale}: loja de código sem código de indicação na página`);
-  assert.equal(hostinger.campaigns, undefined, `hostinger/${locale}: sem campanhas`);
   assert.equal(hostinger.codeFieldLabel, 'Have a coupon code?', `hostinger/${locale}: o campo é o do carrinho global, em inglês`);
   assert.match(hostinger.testNote ?? '', /383[.,]52/, `hostinger/${locale}: testNote sem o teste do site global`);
   assert.match(hostinger.testNote ?? '', /306[.,]82/, `hostinger/${locale}: testNote sem o total com o cupom`);

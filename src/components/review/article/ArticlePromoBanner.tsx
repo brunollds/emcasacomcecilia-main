@@ -10,23 +10,26 @@ export type ArticlePromoBannerProps = {
   banner: StoreBanner;
   locale: CouponCopyLocale;
   storeBrand: string;
-  reviewSlug: string;
+  // O artigo em que o banner está; a página da loja não passa.
+  reviewSlug?: string;
+  // Entre as seções do artigo (o lugar do banner) ou na página da loja, logo antes das regras.
+  place?: 'article' | 'store-page';
   // A campanha ainda não tinha começado no build: o HTML vem sem o banner, e o navegador o mostra no início.
   hiddenInHtml?: boolean;
 };
 
-// Banner de campanha da loja entre as seções do artigo (storeBanners.ts). O cartão inteiro é o link de afiliado,
-// medido como coupon_store_click com o lugar do banner e sem o código da loja, que não é dele. A campanha que só
-// vale com o código leva ao nosso artigo sobre ela, link interno e sem sponsored.
-export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug, hiddenInHtml = false }: ArticlePromoBannerProps) {
-  const label = getArticleCopy(locale).adLabel;
+// Banner de campanha da loja (storeBanners.ts), entre as seções do artigo ou na página da loja. O cartão inteiro é o
+// link de afiliado, medido como coupon_store_click com o lugar do banner e sem o código da loja, que não é dele. A
+// campanha que só vale com o código leva ao nosso artigo sobre ela, link interno e sem sponsored.
+export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug, place = 'article', hiddenInHtml = false }: ArticlePromoBannerProps) {
+  const { adLabel: label, bannerCodeHint } = getArticleCopy(locale);
   // A fila do artigo só traz campanha com o texto do idioma (getArticleStoreBanners).
   const copy = banner.copy[locale];
   if (!copy) return null;
   const { headline, text, action, tag } = copy;
 
   const aside = (
-    <aside aria-label={label} data-promo-banner={banner.slot} className="text-marinho print:hidden">
+    <aside aria-label={label} data-promo-banner={place === 'article' ? banner.slot : 'pagina'} className="text-marinho print:hidden">
       <p className="mb-2 flex items-center gap-2 text-[11px] font-extrabold tracking-[0.14em] text-marinho-suave uppercase after:h-px after:flex-1 after:bg-marinho/15">
         {label}
       </p>
@@ -35,7 +38,7 @@ export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug, hid
         brand={storeBrand}
         contentSlug={reviewSlug}
         sponsored={!isArticleBannerHref(banner.href)}
-        placement={`review_banner_${banner.slot}`}
+        placement={place === 'article' ? `review_banner_${banner.slot}` : 'coupon_page_banner'}
         className={`grid grid-cols-[auto_minmax(0,1fr)] items-center gap-4 rounded-2xl border-2 border-marinho bg-creme p-4 shadow-[4px_4px_0_var(--color-marinho)] md:grid-cols-[auto_minmax(0,1fr)_auto] md:gap-6 md:px-6 md:py-5 motion-safe:transition-[translate,box-shadow] motion-safe:hover:-translate-px motion-safe:hover:shadow-[5px_5px_0_var(--color-marinho)] ${FOCUS_RING}`}
       >
         <BannerArt art={banner.art} tag={tag} />
@@ -45,6 +48,11 @@ export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug, hid
             {headline}
           </span>
           <span className="mt-1.5 block text-sm leading-5 font-semibold text-marinho-suave">{text}</span>
+          {banner.code && (
+            <span data-banner-code={banner.code} className="mt-2 block text-sm leading-5 font-extrabold">
+              {bannerCodeHint(banner.code, storeBrand)}
+            </span>
+          )}
         </span>
         <span className="col-span-2 flex min-h-[52px] items-center justify-center gap-2 rounded-[10px] border-2 border-marinho bg-laranja px-4 text-[15px] font-extrabold md:col-span-1 md:whitespace-nowrap">
           {action}

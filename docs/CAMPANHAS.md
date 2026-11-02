@@ -1,6 +1,6 @@
 # Campanhas das lojas parceiras (banners "Publicidade")
 
-Rotina para pôr no ar, e tirar do ar, os banners de campanha das lojas parceiras nos artigos.
+Rotina para pôr no ar, e tirar do ar, os banners de campanha das lojas parceiras nos artigos e nas páginas de loja.
 
 **Criado em:** 02/11/2026  
 **Escopo:** os arquivos de `content/campanhas/`. O código de desconto da loja, a página `/cupons/<loja>` e os cupons
@@ -16,6 +16,10 @@ Cada campanha é um arquivo `content/campanhas/<id>.json`. Ela entra sozinha em 
 - o lugar `mid` fica logo antes do FAQ (sem FAQ, antes da última seção);
 - o lugar `end` fica logo depois da última seção do corpo (depois do FAQ, quando ele fecha o artigo), e só em artigo
   de 4 seções ou mais.
+
+Na página da loja (`/cupons/<loja>`, as traduzidas e as da YesStyle), todas as campanhas da loja que não acabaram
+aparecem juntas, logo antes das regras, em qualquer lugar (`slot`). A campanha só em português aparece só em
+`/cupons/<loja>`.
 
 O banner leva o selo "Publicidade" e fala só da campanha da loja: Black Friday, esquenta, liquidação, brinde e afins.
 O código da loja continua no bloco da loja do artigo.
@@ -99,6 +103,8 @@ A lista sai das lojas ativas de `src/lib/couponsData.ts`; loja nova entra aqui n
   - `{ "kind": "tag", "value": "50%" }` é a etiqueta com o número. Cada idioma leva o `tag` com o "até", porque o
     número sozinho diria um desconto fixo.
   - `{ "kind": "bag" }` é a sacola, para a campanha sem número.
+- **`code`** (opcional): o código da própria loja para a campanha, de pesquisar no app dela (o 37S3442 da SHEIN).
+  Nunca o nosso código da loja, que o teste barra. O banner mostra "Pesquise <código> no aplicativo <loja>" no idioma.
 - **`source` e `verifiedAt`**: onde a campanha foi vista e quando (`AAAA-MM-DD`, nunca no futuro). Só avançam quando
   alguém confere a campanha de novo.
 - **Texto curto e direto**: o `headline` diz a campanha, o `text` diz de quem é ("Campanha da própria Skelt.") e onde

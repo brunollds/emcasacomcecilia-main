@@ -25,15 +25,6 @@ export interface CouponReferral {
   verifiedAt: string;
 }
 
-export interface CouponCampaign {
-  title: string;
-  code: string;
-  offerUrl: string;
-  description: string;
-  eligibility: string;
-  verifiedAt: string;
-}
-
 // Prateleiras do hub /cupons, na ordem em que aparecem na página.
 export const COUPON_HUB_CATEGORIES = [
   { id: 'moda', label: 'Moda' },
@@ -96,7 +87,6 @@ interface CouponBase {
   };
   affiliateAccountId?: string;
   referral?: CouponReferral;
-  campaigns?: CouponCampaign[];
 }
 
 export type CouponCodeOffer = CouponBase & {
@@ -1152,24 +1142,6 @@ export const COUPONS: Coupon[] = [
       instructions: 'Pesquise 4CW5Y no aplicativo SHEIN e confira as condições apresentadas para a sua conta.',
       verifiedAt: '2026-09-01',
     },
-    campaigns: [
-      {
-        title: 'Produtos selecionados',
-        code: '37S3442',
-        offerUrl: 'https://onelink.shein.com/47/5yl4fyr203o0',
-        description: 'Produtos selecionados com descontos por tempo limitado.',
-        eligibility: 'Consulte os itens e as condições exibidas pela SHEIN.',
-        verifiedAt: '2026-10-24',
-      },
-      {
-        title: '50% para novos usuários',
-        code: 'K49L457',
-        offerUrl: 'https://onelink.shein.com/58/6630nfyralty',
-        description: 'Campanha com cupom de 50% voltada apenas a novos usuários.',
-        eligibility: 'Somente novos usuários elegíveis, conforme validação da SHEIN.',
-        verifiedAt: '2026-10-24',
-      },
-    ],
     status: 'ativo',
     featured: false,
   },

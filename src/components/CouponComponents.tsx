@@ -99,6 +99,8 @@ type CouponStoreLinkProps = {
     | 'review_banner_top'
     | 'review_banner_mid'
     | 'review_banner_end'
+    // Os banners de campanha na página da loja, logo antes das regras.
+    | 'coupon_page_banner'
     // As peças da loja no card de estilo dos artigos de roupa (ArticleStyling).
     | 'review_styling'
     // A foto de produto com link (o `href` da imagem da seção, ReviewInlineImage).
