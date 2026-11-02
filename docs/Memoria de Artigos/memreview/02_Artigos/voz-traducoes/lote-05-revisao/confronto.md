@@ -1,0 +1,316 @@
+# Confronto - Muse x minha passada (revisão das traduções novas, lote 05)
+
+Muse: 124 FIX {'V': 32, 'F': 53, 'TR': 17, 'N': 22} | Minha: 135 FIX {'TR': 16, 'V': 58, 'F': 34, 'N': 27} | mesmo trecho: 40 | só Muse: 84 | só minha: 95
+
+## Por família (FIX Muse/minha | concordam | só C | só M)
+
+- yesstyle-trustpilot-nota-reclamacoes: 13/13 | concordam 2 | só C 11 | só M 11
+- shein-reclame-aqui-nota-reputacao: 15/14 | concordam 5 | só C 10 | só M 9
+- hostinger-reach-ou-mailchimp-brevo: 28/26 | concordam 7 | só C 21 | só M 19
+- hostinger-ou-hostgator: 14/36 | concordam 10 | só C 4 | só M 26
+- wordpress-na-hostinger: 29/20 | concordam 8 | só C 21 | só M 12
+- vestido-de-festa-shein: 25/26 | concordam 8 | só C 17 | só M 18
+
+## Concordam (mesmo trecho)
+
+- yesstyle-trustpilot-nota-reclamacoes | es | CTA :: C[V] Si vas a comprar, revisa el coste de envío y el plazo para tu país en el checkout antes de pagar y guarda el número de pedido. || M[V] Si vas a comprar, revisa el coste de envío y el plazo para tu país en el checkout antes de pagar y guarda el número de pedido.
+- yesstyle-trustpilot-nota-reclamacoes | zh-hans | 评分衡量的是什么 :: C[V] TrustScore 是该主页在 Trustpilot 上的评分。 || M[F] TrustScore 是商家主页在 Trustpilot 上的评分。
+- shein-reclame-aqui-nota-reputacao | it | CTA :: C[F] Se decidi di comprare, entra dal sito o dall'app ufficiale di SHEIN del tuo paese e conserva la ricevuta e il codice di tracciamen || M[F] conserva la ricevuta e il codice di tracciamento
+- shein-reclame-aqui-nota-reputacao | de | CTA :: C[F] Wenn Sie kaufen, gehen Sie über die offizielle Website oder App von SHEIN für Ihr Land und bewahren Sie Zahlungsbeleg und Sendungs || M[F] bewahren Sie Zahlungsbeleg und Sendungsnummer auf
+- shein-reclame-aqui-nota-reputacao | ja | CTA :: C[F] 買うなら、SHEIN の公式サイトか公式アプリから入り、支払いの控えと追跡番号を保存してください。 || M[F] 領収書と追跡番号を保存してください
+- shein-reclame-aqui-nota-reputacao | zh-hans | 我们的核查 :: C[TR] 2026年10月28日，在未登录的情况下读取了 SHEIN 在 Trustpilot 的公开主页，看了这些内容： || M[TR] 2026年10月28日，在未登录的情况下读取了 SHEIN 在 Trustpilot 的公开主页，看了这些内容：
+- shein-reclame-aqui-nota-reputacao | zh-hant | 我們的查核 :: C[TR] 2026年10月28日，在未登入的情況下讀取了 SHEIN 在 Trustpilot 的公開檔案，看了這些內容： || M[TR] 2026年10月28日，在未登入的情況下讀取了 SHEIN 在 Trustpilot 的公開檔案，看了這些內容：
+- hostinger-reach-ou-mailchimp-brevo | de | Welches Tool für wen: die Tabelle :: C[V] Der kostenlose Tarif von Brevo verschickt bis zu 300 E-Mails am Tag, ohne Karte. Mailchimp ist für weniger als 250 Kontakte kosten || M[V] Brevo gratis verschickt bis zu 300 E-Mails am Tag, ohne Karte. Mailchimp ist unter 250 Kontakten kostenlos. Die drei Reach-Tarife 
+- hostinger-reach-ou-mailchimp-brevo | de | Häufige Fragen :: C[V] …Alle drei Tarife sind kostenpflichtig. … || M[V] Hat Hostinger Reach einen kostenlosen Tarif? Nein: Alle drei Tarife sind kostenpflichtig. Mailchimp ist für weniger als 250 Kontak
+- hostinger-reach-ou-mailchimp-brevo | ja | Reach のプラン :: C[N] [Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20) || M[N] [Grow（Reach 500）](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)
+- hostinger-reach-ou-mailchimp-brevo | ko | CTA :: C[TR] 쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요: … || M[F] 쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요: 첫 기간 20% 할인.
+- hostinger-reach-ou-mailchimp-brevo | ko | Reach 플랜 :: C[N] [Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20) || M[N] [Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)
+- hostinger-reach-ou-mailchimp-brevo | zh-hans | Reach 套餐 :: C[N] [Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20) || M[N] [Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)
+- hostinger-reach-ou-mailchimp-brevo | zh-hant | Reach 方案 :: C[N] [Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20) || M[N] [Grow (Reach 500)](https://www.hostinger.com/reach?REFERRALCODE=SONAR20)
+- hostinger-ou-hostgator | ja | Hostingerの料金 (tabela) :: C[N] US$119.52 / US$167.52 / US$383.52 (sem /月) || M[N] US$119.52
+- hostinger-ou-hostgator | ko | 호스팅어 가격 (tabela) :: C[N] US$ 119.52 / US$ 167.52 / US$ 383.52 (sem /월) || M[N] US$ 119.52
+- hostinger-ou-hostgator | zh-hans | Hostinger 的价格 (tabela) :: C[N] US$ 119.52 / US$ 167.52 / US$ 383.52 (sem /月) || M[N] US$ 119.52
+- hostinger-ou-hostgator | zh-hant | Hostinger 的價格 (tabela) :: C[N] US$ 119.52 / US$ 167.52 / US$ 383.52 (sem /月) || M[N] US$ 119.52
+- hostinger-ou-hostgator | en | decision takeIf :: C[F] …or up to three: it costs less in the promotion and at renewal. || M[F] Take Premium if it is one site, such as a blog, a portfolio or a company page, or up to three: it costs less in the promotion and 
+- hostinger-ou-hostgator | es | decision takeIf :: C[F] …o hasta tres: cuesta menos en la promoción y en la renovación. || M[F] Lleva el Premium si es un solo sitio, como un blog, un portafolio o la página de una empresa, o hasta tres: cuesta menos en la pro
+- hostinger-ou-hostgator | fr | decision takeIf :: C[F] …ou de trois sites au plus : il coûte moins en promotion et au renouvellement. || M[F] Prenez Premium s'il s'agit d'un seul site, comme un blog, un portfolio ou la page d'une entreprise, ou de trois sites au plus : il
+- hostinger-ou-hostgator | it | decision takeIf :: C[F] …o fino a tre: costa meno in promozione e al rinnovo. || M[F] Prendi il Premium se è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre: costa meno in promozione 
+- hostinger-ou-hostgator | de | decision takeIf :: C[F] …oder um bis zu drei: Er kostet in der Aktion und bei der Verlängerung weniger. || M[F] Nehmen Sie den Premium, wenn es um eine einzelne Website geht, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder um bis z
+- hostinger-ou-hostgator | fr | Prix de Hostinger (tabela) :: C[N] 50 Go NVMe e 100 Go NVMe || M[N] 50 Go NVMe
+- wordpress-na-hostinger | it | Come iniziare: la checklist :: C[F] **5. Installa pochi plugin.** Parti da quello che serve al sito oggi: … || M[F] **5. Installa pochi plugin.** Parti da quello che serve al sito oggi: modulo di contatto, SEO e, in un negozio, WooCommerce. Ogni 
+- wordpress-na-hostinger | it | Domande frequenti :: C[N] Il Premium, a US$ 2,49 al mese per 48 mesi (US$ 119,52 in totale)… Si rinnova a US$ 10,99 al mese. || M[N] Qual è il piano WordPress più economico di Hostinger? Il Premium, a US$ 2,49 al mese per 48 mesi (US$ 119,52 in totale), per fino 
+- wordpress-na-hostinger | de | Häufige Fragen :: C[N] Der Premium: US$ 2,49 im Monat über 48 Monate (US$ 119,52 insgesamt)… Er verlängert sich auf US$ 10,99 im Monat. || M[N] Welcher WordPress-Tarif von Hostinger ist der günstigste? Der Premium: US$ 2,49 im Monat über 48 Monate (US$ 119,52 insgesamt), fü
+- wordpress-na-hostinger | ja | 始め方：チェックリスト :: C[F] **3. パネルから WordPress をインストールする。**ファイルを手でダウンロードする必要はありません。 || M[F] **3. パネルから WordPress をインストールする。**ファイルを手でダウンロードする必要はありません。
+- wordpress-na-hostinger | ko | 시작 체크리스트 :: C[F] **3. 패널에서 WordPress를 설치하세요.** 파일을 직접 내려받을 필요는 없습니다. || M[F] **3. 패널에서 WordPress를 설치하세요.** 파일을 직접 내려받을 필요는 없습니다.
+- wordpress-na-hostinger | ko | CTA :: C[TR] 쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요. … || M[F] 쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 적용됩니다. WordPress 플랜은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.
+- wordpress-na-hostinger | zh-hans | 开始使用：清单 :: C[F] **3. 在面板里安装 WordPress。**不需要手动下载文件。 || M[F] **3. 在面板里安装 WordPress。** 不需要手动下载文件。
+- wordpress-na-hostinger | zh-hant | 開始使用：檢查清單 :: C[F] **3. 在管理面板安裝 WordPress。**不需要手動下載檔案。 || M[F] **3. 在管理面板安裝 WordPress。** 不需要手動下載檔案。
+- vestido-de-festa-shein | es | CTA :: C[V] Busque el vestido por su nombre en SHEIN y revise el plazo en la página del pedido antes de pagar. || M[V] Busque el vestido por su nombre en SHEIN y revise el plazo en la página del pedido antes de pagar.
+- vestido-de-festa-shein | es | Impuestos: revisa el resumen del pedido (título) :: C[V] Impuestos: revise el resumen del pedido || M[V] Impuestos: revise el resumen del pedido
+- vestido-de-festa-shein | fr | Comment choisir selon l'occasion :: C[V] Fête de fin d'année : le délai prime. || M[V] Fête de fin d'année : le délai décide.
+- vestido-de-festa-shein | it | CTA :: C[V] Cercate l'abito per nome su SHEIN e controllate i tempi di consegna nella pagina dell'ordine prima di pagare. || M[V] Cercate l'abito per nome su SHEIN e controllate i tempi di consegna nella pagina dell'ordine prima di pagare.
+- vestido-de-festa-shein | it | Tasse: controlla il riepilogo dell'ordine (título) :: C[V] Tasse: controllate il riepilogo dell'ordine || M[V] Tasse: controllate il riepilogo dell'ordine
+- vestido-de-festa-shein | ja | SHEINで確認した3着 :: C[TR] 生地、丈、評価は各商品ページの情報で、2026年10月30日確認分です。… || M[TR] 生地、丈、評価は2026年10月30日時点の各商品ページの情報です。
+- vestido-de-festa-shein | ko | SHEIN에서 확인한 드레스 3벌 :: C[TR] 소재, 길이, 평점은 각 상품 페이지의 정보이며 2026년 10월 30일 확인분입니다. … || M[TR] 소재, 길이, 평점은 2026년 10월 30일 기준 각 상품 페이지의 정보입니다.
+- vestido-de-festa-shein | zh-hant | 在 SHEIN 查證過的三件洋裝 :: C[F] 西裝剪裁適合搭包鞋與挺括的包；… || M[V] 挺括的包包
+
+## Só Muse
+
+- yesstyle-trustpilot-nota-reclamacoes | V | de | Was im Lob auftaucht | App und Website sind einfach zu bedienen. -> Einfach zu bedienende App und Website.
+- yesstyle-trustpilot-nota-reclamacoes | F | ja | 当サイトの確認 | ショップのアプリで、購入はせずにチェックアウトを確認しました。リワードコードの入力欄があります。 -> ショップのアプリで、購入はせずにチェックアウトをテストして確認しました。リワードコードの入力欄があります。
+- yesstyle-trustpilot-nota-reclamacoes | TR | ja | ショップの返信 | 購入前に、プロフィールで星1つのレビューをいくつか開き、それぞれの下にあるショップの返信を読んでおきましょう。特に追跡と紛失に関するものです。 -> …読んでおいてください。特に…
+- yesstyle-trustpilot-nota-reclamacoes | TR | ja | 苦情に出てくること (legenda) | 苦情のテーマの1つ、追跡が止まった状態を描いた当サイトのイラストです。注文番号と追跡コードは保管しておきましょう。 -> …保管しておいてください。
+- yesstyle-trustpilot-nota-reclamacoes | F | ja | 評価が測っているもの | ページに書かれているとおり、このプロフィールは企業が管理しており、Trustpilotの有料プランに加入しています。 -> …このプロフィールは企業が所有権を主張したもので、Trustpilotの有料プランに加入しています。
+- yesstyle-trustpilot-nota-reclamacoes | F | ko | 저희의 확인 | 쇼핑몰 앱에서는 구매 없이 결제 화면을 확인했습니다. 결제 화면에는 리워드 코드를 넣는 칸이 있습니다. -> 쇼핑몰 앱에서는 구매 없이 결제 화면을 직접 테스트해 확인했습니다. 결제 화면에는 리워드 코드를 넣는 칸이 있습니다.
+- yesstyle-trustpilot-nota-reclamacoes | V | ko | CTA | 구매하기로 했다면, 결제 전에 결제 화면에서 여러분 나라의 배송비와 배송 기간을 확인하고 주문 번호를 보관하세요. -> 구매하기로 했다면, 결제 전에 결제 화면에서 회원님이 계신 나라의 배송비와 배송 기간을 확인하고 주문 번호를 보관하세요.
+- yesstyle-trustpilot-nota-reclamacoes | F | ko | 평점이 측정하는 것 | 페이지에 나와 있듯이 이 프로필은 기업이 직접 관리하고 있으며 Trustpilot 유료 구독 중입니다. -> 페이지에 나와 있듯이 이 프로필은 기업이 소유권을 주장한 것이며 Trustpilot 유료 구독 중입니다.
+- yesstyle-trustpilot-nota-reclamacoes | V | zh-hans | 付款之前 | 时效的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh- -> 送达时间的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。
+- yesstyle-trustpilot-nota-reclamacoes | TR | zh-hant | 評分衡量的是什麼 | 同一次讀取中的星級分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起來還多，投訴就出現在這裡。 -> 同一次讀取中的星級分佈：… (idem)
+- yesstyle-trustpilot-nota-reclamacoes | V | zh-hant | 付款之前 | 時效的計算方式和金額見 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-ha -> 送達時間的計算方式和金額見 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。
+- shein-reclame-aqui-nota-reputacao | V | it | Cosa misura il punteggio | Il 28 ottobre 2026 SHEIN aveva 3,8, con l'etichetta «Great», su 353.435 recensioni; 2 -> …con l'etichetta «Great» nella versione inglese del sito, su 353.435 recensioni; …
+- shein-reclame-aqui-nota-reputacao | V | it | Prima di pagare | Se il pacco non arriva o l'articolo è sbagliato, chiedi il rimborso dal canale del ne -> …chiedi il rimborso tramite il canale del negozio…
+- shein-reclame-aqui-nota-reputacao | N | de | Unsere Prüfung | Der Rahmen des Profils, das global ist, und die britische Regionalseite, die dasselbe -> …und die Regionalseite für das Vereinigte Königreich, die dasselbe zeigte.
+- shein-reclame-aqui-nota-reputacao | N | de | Häufige Fragen | …und die britische Regionalseite zeigte dasselbe Profil. … -> …und die Regionalseite für das Vereinigte Königreich zeigte dasselbe Profil. …
+- shein-reclame-aqui-nota-reputacao | F | ja | 支払う前に | 数字が示すのは、保管しておくものです。支払いの控えと注文の追跡番号を保存してください。いちばん多い苦情は荷物が届かないことで、この二つが、何を支払い、荷物がどこで止まった -> …苦情は届かない荷物と返金に集中していて、この二つが、何を支払い、荷物がどこで止まったかを示します。
+- shein-reclame-aqui-nota-reputacao | F | ko | 결제 전에 | 숫자는 무엇을 보관해야 하는지 알려 줍니다. 결제 내역과 주문의 운송장 번호를 저장하세요. 가장 많은 불만이 소포가 오지 않는 것이고, 이 둘이 무엇을  -> …불만은 받지 못한 소포와 환불에 집중되어 있고, 이 둘이 무엇을 결제했고 소포가 어디에서 멈췄는지 보여 줍니다.
+- shein-reclame-aqui-nota-reputacao | V | ko | Trustpilot로 SHEIN을 믿을 수 있을까요? (título) | Trustpilot로 SHEIN을 믿을 수 있을까요? -> Trustpilot으로 SHEIN을 믿을 수 있을까요?
+- shein-reclame-aqui-nota-reputacao | V | ko | Trustpilot로 SHEIN을 믿을 수 있을까요? (veredito) | Trustpilot로 보면 SHEIN은 평점이 좋은 편이고 답변도 합니다. -> Trustpilot으로 보면 SHEIN은 평점이 좋은 편이고 답변도 합니다.
+- shein-reclame-aqui-nota-reputacao | F | zh-hans | 付款之前 | 数字告诉你该留什么。保存付款凭证和订单的物流单号：最常见的投诉是包裹没到，这两样能证明你付了什么、包裹停在了哪里。 -> …：投诉集中在包裹未送达和退款上，这两样能证明你付了什么、包裹停在了哪里。
+- shein-reclame-aqui-nota-reputacao | F | zh-hant | 付款之前 | 數字告訴你該留什麼。保存付款憑證和訂單的物流單號：最常見的投訴是包裹沒到，這兩樣能證明你付了什麼、包裹停在了哪裡。 -> …：投訴集中在包裹未送達和退款上，這兩樣能證明你付了什麼、包裹停在了哪裡。
+- hostinger-reach-ou-mailchimp-brevo | F | en | The Reach plans | …They can vary by country and currency, and they can change: -> mesmo texto + The page gives 30 days to ask for a refund.
+- hostinger-reach-ou-mailchimp-brevo | V | en | Which one for whom: the chart | US$ 1.74 a month in the first 12 months (renews at US$ 2.49), 3,500 emails a month, n -> …, with no Reach branding and with automations.
+- hostinger-reach-ou-mailchimp-brevo | V | es | Qué elegir según el caso: el cuadro | Ya tiene sitio en Hostinger y una lista de hasta 500 -> Ya tienes sitio en Hostinger y una lista de hasta 500
+- hostinger-reach-ou-mailchimp-brevo | V | es | Qué elegir según el caso: el cuadro | Necesita WhatsApp -> Necesitas WhatsApp
+- hostinger-reach-ou-mailchimp-brevo | F | es | Los planes de Reach | …Pueden variar según el país y la moneda, y pueden cambiar: -> mesmo texto + La página da 30 días para pedir el reembolso.
+- hostinger-reach-ou-mailchimp-brevo | V | fr | Lequel choisir selon votre cas : le tableau | Mailchimp est gratuit sous 250 contacts. -> Mailchimp est gratuit pour moins de 250 contacts.
+- hostinger-reach-ou-mailchimp-brevo | F | fr | Les forfaits Reach | …Ils peuvent varier selon le pays et la devise, et changer : -> mesmo texto + La page donne 30 jours pour demander un remboursement.
+- hostinger-reach-ou-mailchimp-brevo | V | it | Quale scegliere per chi: il quadro | Brevo gratis invia fino a 300 email al giorno, senza carta. Mailchimp è gratis sotto  -> Il piano gratuito di Brevo invia fino a 300 email al giorno, senza carta. …
+- hostinger-reach-ou-mailchimp-brevo | V | it | I piani Reach | **Pro:** 1.000 destinatari, 7.000 email al mese e 20 crediti AI al mese. Aggiunge HTM -> …e membri del team.
+- hostinger-reach-ou-mailchimp-brevo | N | de | Welches Tool für wen: die Tabelle (alt) | Quadro Reach, Mailchimp oder Brevo nach Profil: … -> Tabelle Reach, … (só a 1ª palavra)
+- hostinger-reach-ou-mailchimp-brevo | F | ja | 誰にどれを選ぶか：早見表 | WhatsApp は Pro だけで、12か月で月 US$ 2.79（更新時は US$ 3.99）。1通ごとの料金はページに載っていません。 -> mesmo texto + Brevo では WhatsApp が Professional プランのチャネルに入っています。
+- hostinger-reach-ou-mailchimp-brevo | V | ja | decision takeIf | Hostinger のサイトがあり、リストが1,000件までなら、Reach を選びます。 -> …Reach を選んでください。 (idem demais itens ます→ください)
+- hostinger-reach-ou-mailchimp-brevo | F | ko | 어떤 사람에게 무엇이 맞나: 표 | WhatsApp은 Pro에만 있고, 12개월 동안 월 US$ 2.79(갱신 시 US$ 3.99)입니다. 메시지당 비용은 페이지에 나오지 않습니다. -> mesmo texto + Brevo에서는 WhatsApp이 Professional 플랜의 채널에 있습니다.
+- hostinger-reach-ou-mailchimp-brevo | F | ko | Reach 플랜 | …국가와 통화에 따라 달라질 수 있습니다. -> mesmo texto + 페이지에는 30일 이내에 환불을 요청할 수 있다고 쓰여 있습니다.
+- hostinger-reach-ou-mailchimp-brevo | N | ko | Mailchimp와 Brevo: 무료 플랜 (tabela) | 0 (coluna 가격, linhas Mailchimp/Brevo 무료) -> 무료
+- hostinger-reach-ou-mailchimp-brevo | F | zh-hans | 按情况选择：一张表 | WhatsApp 只在 Pro 中，首 12 个月每月 US$ 2.79（续费 US$ 3.99）。页面没有显示每条消息的费用。 -> mesmo texto + Brevo 把 WhatsApp 列在 Professional 的渠道中。
+- hostinger-reach-ou-mailchimp-brevo | F | zh-hans | Reach 套餐 | …下面是 2026 年 10 月 30 日在 Hostinger 国际站读到的美元价格，属于黑色星期五促销期间的价格，可能因国家和货币而异： -> mesmo texto + 页面写明，可在 30 天内申请退款。
+- hostinger-reach-ou-mailchimp-brevo | N | zh-hans | Mailchimp 与 Brevo：免费版 (tabela) | 0 (coluna 价格) -> 免费
+- hostinger-reach-ou-mailchimp-brevo | F | zh-hant | 依情況選擇：一張表 | WhatsApp 只在 Pro 裡，前 12 個月每月 US$ 2.79（續訂 US$ 3.99）。頁面沒有顯示每則訊息的費用。 -> mesmo texto + Brevo 把 WhatsApp 列在 Professional 的管道中。
+- hostinger-reach-ou-mailchimp-brevo | F | zh-hant | Reach 方案 | …下面是 2026 年 10 月 30 日在 Hostinger 國際站讀到的美元價格，屬於黑色星期五促銷期間的價格，可能因國家和幣別而異： -> mesmo texto + 頁面寫明，可在 30 天內申請退款。
+- hostinger-reach-ou-mailchimp-brevo | N | zh-hant | Mailchimp 與 Brevo：免費版 (tabela) | 0 (coluna 價格) -> 免費
+- hostinger-ou-hostgator | F | ja | クイックアンサー | どのページも割引を大きく見せるので、月額に直して更新料を横に並べた表を下に載せました。 -> 割引は48か月続くので、月額に直して更新料を横に並べた表を下に載せました。
+- hostinger-ou-hostgator | F | ko | 빠른 답변 | 페이지마다 할인을 크게 내세우므로, 월 단위 가격에 갱신가를 나란히 둔 표를 아래에 실었습니다. -> 프로모션은 48개월이므로, 월 단위 가격에 갱신가를 나란히 둔 표를 아래에 실었습니다.
+- hostinger-ou-hostgator | F | zh-hans | 快速回答 | 各页面都把折扣摆在最显眼的位置，所以下面的表格按月列出价格，并把续费价放在旁边。 -> 促销期为 48 个月，所以下面的表格按月列出价格，并把续费价放在旁边。
+- hostinger-ou-hostgator | F | zh-hant | 快速回答 | 各個頁面都把折扣放在最顯眼的位置，所以下面的表格按月列出價格，並把續訂價放在旁邊。 -> 促銷期為 48 個月，所以下面的表格按月列出價格，並把續訂價放在旁邊。
+- wordpress-na-hostinger | V | es | Precio y renovación | La página no trae fecha de fin para la campaña, y los precios pueden cambiar. -> La página no indica fecha de fin para la campaña, y los precios pueden cambiar.
+- wordpress-na-hostinger | V | fr | Prix et renouvellement | …Les prix peuvent varier selon le pays et la devise : vérifiez dans le panier : -> …selon le pays et la devise. Vérifiez dans le panier :
+- wordpress-na-hostinger | F | it | Risposta rapida | …mentre Unlimited o Cloud Startup servono per più siti o un negozio, con backup giorn -> …mentre Unlimited serve per più siti o un negozio, con backup giornalieri, e Cloud Startup per molto traffico.
+- wordpress-na-hostinger | N | it | Quale piano prendere: il verdetto | …e il rinnovo di 25,99 US$ al mese pesa. -> …e il rinnovo di US$ 25,99 al mese pesa.
+- wordpress-na-hostinger | N | it | Domande frequenti | …per il Premium, 10,99 US$ al mese. -> …per il Premium, US$ 10,99 al mese.
+- wordpress-na-hostinger | F | it | Come iniziare: la checklist | **2. Sistema il dominio.** Usa un dominio che hai già oppure registrane uno nuovo. An -> **2. Sistema il dominio.** Controlla se il tuo piano ne include uno, oppure punta un dominio che hai già. Anno
+- wordpress-na-hostinger | F | de | Kurze Antwort | …Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht und en -> …Unlimited ist für mehrere Websites oder einen Shop gedacht und enthält tägliche Backups; Cloud Startup ist fü
+- wordpress-na-hostinger | V | de | Welcher Tarif für welches Projekt (alt) | Quadro der WordPress-Tarife von Hostinger nach Projekt: … -> Übersicht der WordPress-Tarife von Hostinger nach Projekt: …
+- wordpress-na-hostinger | N | de | Welchen Tarif nehmen: das Fazit | …und die Verlängerung von 25,99 US$ im Monat fällt stark ins Gewicht. -> …und die Verlängerung von US$ 25,99 im Monat fällt stark ins Gewicht.
+- wordpress-na-hostinger | N | de | Häufige Fragen | …beim Premium 10,99 US$ im Monat. -> …beim Premium US$ 10,99 im Monat.
+- wordpress-na-hostinger | F | de | So fangen Sie an: die Checkliste | **2. Klären Sie die Domain.** Nutzen Sie eine Domain, die Sie schon haben, oder regis -> **2. Klären Sie die Domain.** Prüfen Sie, ob Ihr Tarif eine Domain enthält, oder nutzen Sie eine Domain, die S
+- wordpress-na-hostinger | F | ja | 始め方：チェックリスト | **2. ドメインを決める。** 持っているドメインを使うか、新しく取得します。更新日を控えておきましょう。 -> **2. ドメインを決める。**プランに無料ドメインが付くか確認し、持っているドメインを使うか、新しく取得します。更新日を控えておきましょう。
+- wordpress-na-hostinger | V | ja | WordPress を使わない場合 | インストールやテーマ、プラグインの更新をしたくない場合は、同じプランに Hostinger の AI ビルダーも含まれています。… -> テーマやプラグインのインストールや更新をしたくない場合は、…
+- wordpress-na-hostinger | F | ko | 시작 체크리스트 | **2. 도메인을 정하세요.** 이미 가진 도메인을 연결하거나 새로 등록하세요. 갱신일을 적어 두세요. -> **2. 도메인을 정하세요.** 플랜에 무료 도메인이 포함되는지 확인하거나, 이미 가진 도메인을 연결하세요. 갱신일을 적어 두세요.
+- wordpress-na-hostinger | F | ko | 프로젝트별 플랜 | 호스팅어의 WordPress 호스팅에서 질문은 "어느 플랜에 WordPress가 있나?"가 아니라 "사이트가 몇 개이고 백업이 얼마나 필요한가?"입니다. -> 호스팅어에는 WordPress 전용 플랜이 따로 없습니다. 호스팅어의 WordPress 호스팅에서 질문은 …
+- wordpress-na-hostinger | F | zh-hans | 按项目选套餐 (legenda) | 表格小结：网站数量和备份决定套餐。Em Casa com Cecília 根据 Hostinger 页面上的说法制作。 -> 表格小结：网站数量、空间和备份决定套餐。Em Casa com Cecília 根据 Hostinger 页面上的说法制作。
+- wordpress-na-hostinger | F | zh-hans | 开始使用：清单 | **2. 确定域名。** 用你已有的域名，或注册一个新的。记下它的续费日期。 -> **2. 确定域名。** 先确认套餐是否含免费域名，或用你已有的域名。记下它的续费日期。
+- wordpress-na-hostinger | F | zh-hans | 按项目选套餐 | 在 Hostinger 的 WordPress 主机上，问题不是“哪个套餐有 WordPress”，而是“我会有几个网站，需要多少备份”。 -> Hostinger 不单独卖 WordPress 套餐。在 Hostinger 的 WordPress 主机上，问题不是…
+- wordpress-na-hostinger | F | zh-hant | 依專案選方案 (legenda) | 表格重點：網站數量與備份決定方案。Em Casa com Cecília 依 Hostinger 頁面上的說明製作。 -> 表格重點：網站數量、空間與備份決定方案。Em Casa com Cecília 依 Hostinger 頁面上的說明製作。
+- wordpress-na-hostinger | F | zh-hant | 開始使用：檢查清單 | **2. 決定網域。** 使用你已有的網域，或註冊新的。記下它的續約日期。 -> **2. 決定網域。** 先確認方案是否含免費網域，或使用你已有的網域。記下它的續約日期。
+- wordpress-na-hostinger | F | zh-hant | 依專案選方案 | 在 Hostinger 的 WordPress 主機上，問題不是「哪個方案有 WordPress」，而是「我會有幾個網站、需要多少備份」。 -> Hostinger 不單獨販售 WordPress 方案。在 Hostinger 的 WordPress 主機上，問題不是…
+- vestido-de-festa-shein | TR | en | Frequently asked questions | How can I tell if the dress is long or midi? By the length the description states and -> How to tell if the dress is long or midi? By the length …
+- vestido-de-festa-shein | TR | en | Frequently asked questions | Can I use 4CW5Y to get a discount? No. It is a referral code: it gives no discount an -> Can you use 4CW5Y to get a discount? No. …
+- vestido-de-festa-shein | V | fr | cons | Le prix promo change -> Le prix en promotion change
+- vestido-de-festa-shein | V | it | Come scegliere in base all'occasione | Festa di fine anno: comandano i tempi. -> Festa di fine anno: contano i tempi.
+- vestido-de-festa-shein | V | de | Steuern: Bestellübersicht prüfen (título) | Steuern: Bestellübersicht prüfen -> Steuern: Prüfen Sie die Bestellübersicht
+- vestido-de-festa-shein | V | de | Umtausch und Rückgabe | Für einen Größenwechsel rechnen Sie mit Rückgabe und Erstattung und bestellen mit dem -> …und bestellen Sie mit dem richtigen Maß neu.
+- vestido-de-festa-shein | TR | ja | description | …お店で確認した3着を紹介します。 -> …お店で確認した3着つき。
+- vestido-de-festa-shein | TR | ja | 結論 | 以下に、生地、裏地、評価つきでお店の3着を紹介します。 -> 以下は、生地、裏地、評価つきのお店の3着です。
+- vestido-de-festa-shein | TR | ja | よくある質問 | …説明に書かれた丈と、その商品のサイズガイドにあるセンチ表記で判断します。 -> …で判断できます。
+- vestido-de-festa-shein | F | ko | 자주 묻는 질문 | …주문 날짜에 달렸습니다. … -> …주문 날짜에 따라 다릅니다. …
+- vestido-de-festa-shein | TR | ko | description | …쇼핑몰에서 확인한 드레스 3벌을 소개합니다. -> …쇼핑몰에서 확인한 드레스 3벌 포함.
+- vestido-de-festa-shein | TR | ko | 빠른 답 | 아래에 소재, 안감, 평점과 함께 쇼핑몰의 드레스 3벌을 소개합니다. -> 아래는 소재, 안감, 평점과 함께 정리한 쇼핑몰의 드레스 3벌입니다.
+- vestido-de-festa-shein | TR | ko | 자주 묻는 질문 | …해당 상품 사이즈 가이드의 센티미터 치수로 확인합니다. -> …치수로 확인하세요.
+- vestido-de-festa-shein | F | zh-hant | 在 SHEIN 查證過的三件洋裝 | …標題寫短版，說明寫及膝款。 -> …標題寫短版，說明寫中長款。
+- vestido-de-festa-shein | F | zh-hant | 常見問題 | 怎麼知道洋裝是長版還是及膝款？… -> 怎麼知道洋裝是長版還是中長款？…
+- vestido-de-festa-shein | F | zh-hant | 依場合挑選 | 聖誕晚餐選輕薄布料的及膝洋裝；… -> 聖誕晚餐選輕薄布料的中長洋裝；…
+- vestido-de-festa-shein | N | zh-hant | 在 SHEIN 查證過的三件洋裝 | [ADYCE 長洋裝，亮片，一字領，開衩（海軍藍）](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH -> [ADYCE 長洋裝，亮片，一字肩，開衩（海軍藍）](…)
+
+## Só minha
+
+- yesstyle-trustpilot-nota-reclamacoes | TR | en | Who reviews, and from where | The profile we read, the one for www.yesstyle.com, is global: it doesn't separate rev -> The profile for www.yesstyle.com is global: it doesn't separate reviews by country, and the page doesn't say h
+- yesstyle-trustpilot-nota-reclamacoes | TR | en | What we can't conclude | What we can't conclude -> What can't be concluded
+- yesstyle-trustpilot-nota-reclamacoes | V | es | Qué mide la nota | El perfil está reclamado por la empresa y tiene suscripción de pago de Trustpilot, co -> La empresa ha reclamado el perfil y tiene suscripción de pago de Trustpilot, como informa la propia página.
+- yesstyle-trustpilot-nota-reclamacoes | F | ko | 칭찬에서 보이는 것 | 예정보다 일찍 도착하는 배송。 -> 가끔 예정보다 일찍 도착하는 배송。
+- yesstyle-trustpilot-nota-reclamacoes | V | ko | 결제하기 전에 | 불만이 배송에 몰려 있으니 결제 전에 확인할 것은 결제 화면에 표시되는 자기 나라의 배송비와 배송 기간입니다。 -> 불만이 배송에 몰려 있으니 결제 전에 확인할 것은 결제 화면에 표시되는 회원님 나라의 배송비와 배송 기간입니다。
+- yesstyle-trustpilot-nota-reclamacoes | V | ko | [cta] | 구매하기로 했다면, 결제 전에 결제 화면에서 여러분 나라의 배송비와 배송 기간을 확인하고 주문 번호를 보관하세요。 -> 구매하기로 했다면, 결제 전에 결제 화면에서 회원님 나라의 배송비와 배송 기간을 확인하고 주문 번호를 보관하세요。
+- yesstyle-trustpilot-nota-reclamacoes | TR | zh-hans | 谁在评价，来自哪里 | 我们读取的主页（www.yesstyle.com）是全球通用的：它不按国家区分评价，页面也没有说各个国家分别有多少条。 -> 本次读取的主页（www.yesstyle.com）是全球通用的：它不按国家区分评价，页面也没有说各个国家分别有多少条。
+- yesstyle-trustpilot-nota-reclamacoes | V | zh-hans | [cta] | 如果要买，付款前请在结账页面确认你所在地区的运费和时效，并保存好订单号。 -> 如果要买，付款前请在结账页面确认你所在国家的运费和时效，并保存好订单号。
+- yesstyle-trustpilot-nota-reclamacoes | V | zh-hant | 無法得出的結論 | 評分回答的是一個問題，而不是所有問題。這次讀取無法支持的四點： -> 評分回答的是一個問題，而不是所有問題。這次讀取無法支援的四點：
+- yesstyle-trustpilot-nota-reclamacoes | TR | zh-hant | 誰在評價，來自哪裡 | 我們讀取的檔案（www.yesstyle.com）是全球通用的：它不按國家區分評價，頁面也沒有說各個國家分別有多少則。 -> 本次讀取的檔案（www.yesstyle.com）是全球通用的：它不按國家區分評價，頁面也沒有說各個國家分別有多少則。
+- yesstyle-trustpilot-nota-reclamacoes | V | zh-hant | [cta] | 如果要買，付款前請在結帳頁面確認你所在地區的運費和時效，並保存好訂單編號。 -> 如果要買，付款前請在結帳頁面確認你所在國家的運費和時效，並保存好訂單編號。
+- shein-reclame-aqui-nota-reputacao | V | es | Qué mide la calificación | tiene una suscripción paga de Trustpilot, como informa la propia página -> tiene una suscripción de pago, como informa la propia página
+- shein-reclame-aqui-nota-reputacao | V | it | Ci si può fidare di SHEIN guardando Trustpilot? | con il 98% delle negative con una risposta, di solito entro 24 ore -> con risposta al 98% delle negative, di solito entro 24 ore
+- shein-reclame-aqui-nota-reputacao | F | ja | この評価が測っているもの | 星 5 つと星 4 つで大半を占め、星 1 つは星 2 つと星 3 つを合わせた割合より大きくなっています。苦情はそこに集まっています。 -> 星 5 つと星 4 つで大半を占めています。
+- shein-reclame-aqui-nota-reputacao | V | ko | 숫자를 다르게 읽게 하는 세 가지 | 회원님이 계신 나라의 배송이 어떨지는 이 숫자로 알 수 없습니다。 -> 여러분이 계신 나라의 배송이 어떨지는 이 숫자로 알 수 없습니다。
+- shein-reclame-aqui-nota-reputacao | V | ko | Trustpilot: 누가, 어디에서 평가하나 | 리뷰를 나라별로 나누지 않고, 회원님이 계신 나라나 다른 나라에서 온 리뷰가 몇 건인지도 페이지에 나오지 않습니다。 -> 리뷰를 나라별로 나누지 않고, 여러분이 계신 나라나 다른 나라에서 온 리뷰가 몇 건인지도 페이지에 나오지 않습니다。
+- shein-reclame-aqui-nota-reputacao | V | ko | Trustpilot: 누가, 어디에서 평가하나 | 이 평점은 회사가 전체적으로 어떻게 움직이는지를 말해 줄 뿐, 회원님 주소로 오는 배송이 어떤지를 말해 주지는 않습니다。 -> 이 평점은 회사가 전체적으로 어떻게 움직이는지를 말해 줄 뿐, 여러분 주소로 오는 배송이 어떤지를 말해 주지는 않습니다。
+- shein-reclame-aqui-nota-reputacao | F | ko | 평점이 측정하는 것 | 다섯 개와 네 개가 대부분을 차지하고, 별 한 개는 두 개와 세 개를 합친 것보다 많습니다. 불만은 바로 여기에 모여 있습니다。 -> 다섯 개와 네 개가 대부분을 차지합니다。
+- shein-reclame-aqui-nota-reputacao | F | zh-hans | 分数衡量的是什么 | 五星和四星合起来占了大部分，一星比二星和三星加起来还多，投诉就集中在这里。 -> 五星和四星合起来占了大部分。
+- shein-reclame-aqui-nota-reputacao | F | zh-hant | 分數衡量的是什麼 | 五星和四星合起來佔了大部分，一星比二星和三星加起來還多，投訴就集中在這裡。 -> 五星和四星合起來佔了大部分。
+- hostinger-reach-ou-mailchimp-brevo | V | es | Qué elegir según el caso: el cuadro [caption] | Cuadro del Em Casa com Cecília, según lo que decían las páginas de precios. -> Cuadro de Em Casa com Cecília, según lo que decían las páginas de precios.
+- hostinger-reach-ou-mailchimp-brevo | V | es | Cupón SONAR20 y precio de Reach | Revisa el carrito para ver qué precio vale para ti y cuánto le quita el SONAR20. -> Revisa el carrito para ver qué precio te corresponde y cuánto le quita el SONAR20.
+- hostinger-reach-ou-mailchimp-brevo | V | es | Quién escribe | El Em Casa com Cecília funciona en el hosting gestionado de Hostinger, y el dominio e -> Em Casa com Cecília funciona en el hosting gestionado de Hostinger, y el dominio está registrado allí desde 20
+- hostinger-reach-ou-mailchimp-brevo | V | fr | [description] | Reach convient à qui a déjà un site chez Hostinger et une liste allant jusqu'à 1 000  -> Reach convient à ceux qui ont déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires ; le
+- hostinger-reach-ou-mailchimp-brevo | V | fr | Réponse rapide | Reach convient à qui a déjà un site chez Hostinger et une liste allant jusqu'à 1 000  -> Reach convient à ceux qui ont déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires.
+- hostinger-reach-ou-mailchimp-brevo | V | fr | Code SONAR20 et prix de Reach | vérifiez le panier pour savoir quel prix vaut pour vous et combien le SONAR20 en reti -> vérifiez le panier pour savoir quel prix s'applique à vous et combien le SONAR20 en retire.
+- hostinger-reach-ou-mailchimp-brevo | V | it | Quale scegliere per chi: il quadro [caption] | Quadro dell'Em Casa com Cecília, con quello che dicevano le pagine dei prezzi. -> Quadro di Em Casa com Cecília, con quello che dicevano le pagine dei prezzi.
+- hostinger-reach-ou-mailchimp-brevo | V | it | SONAR20 e il prezzo di Reach | controlla il carrello per vedere quale prezzo vale per te e quanto ne toglie il SONAR -> controlla il carrello per vedere quale prezzo si applica a te e quanto ne toglie il SONAR20.
+- hostinger-reach-ou-mailchimp-brevo | V | it | Chi scrive | L'Em Casa com Cecília gira sull'hosting gestito di Hostinger, e il dominio è registra -> Em Casa com Cecília gira sull'hosting gestito di Hostinger, e il dominio è registrato lì dal 2024.
+- hostinger-reach-ou-mailchimp-brevo | V | de | Welches Tool für wen: die Tabelle [alt] | Quadro Reach, Mailchimp oder Brevo nach Profil: kleine Liste ohne Budget nimmt den ko -> Tabelle Reach, Mailchimp oder Brevo nach Profil: kleine Liste ohne Budget nimmt den kostenlosen Tarif von Brev
+- hostinger-reach-ou-mailchimp-brevo | TR | ja | 誰にどれを選ぶか：早見表 | 下の表は、2026年10月30日時点の Hostinger、Mailchimp、Brevo の料金ページに書かれていた内容を、利用者別にまとめたものです。 -> 下の表は、Hostinger、Mailchimp、Brevo の料金ページに書かれていた内容を、利用者別にまとめたものです。
+- hostinger-reach-ou-mailchimp-brevo | V | ja | 誰にどれを選ぶか：早見表 | Brevo の無料プランは、カード登録なしで1日最大300通まで。Mailchimp は250件未満なら無料です。Reach は3つのプランすべて有料です。 -> Brevo の無料プランは、カード登録なしで1日300通まで。Mailchimp は250件未満なら無料です。Reach は3つのプランすべて有料です。
+- hostinger-reach-ou-mailchimp-brevo | V | ja | よくある質問 | Hostinger Reach に無料プランはある？ ありません。3つのプランとも有料です。Mailchimp は250件未満なら無料、Brevo は1日最大300通まで -> Hostinger Reach に無料プランはある？ ありません。3つのプランとも有料です。Mailchimp は250件未満なら無料、Brevo は1日300通まで無料です。
+- hostinger-reach-ou-mailchimp-brevo | TR | ko | 어떤 사람에게 무엇이 맞나: 표 | 표는 2026년 10월 30일 Hostinger, Mailchimp, Brevo 가격 페이지의 내용을 프로필별로 정리한 것입니다. -> 표는 Hostinger, Mailchimp, Brevo 가격 페이지의 내용을 프로필별로 정리한 것입니다.
+- hostinger-reach-ou-mailchimp-brevo | V | ko | Mailchimp와 Brevo: 무료 플랜 (2 ocorrências: linhas Mailchimp 무료 e Brevo 무료) | "0", -> "무료",
+- hostinger-reach-ou-mailchimp-brevo | TR | zh-hans | 按情况选择：一张表 | 下表依据 2026 年 10 月 30 日 Hostinger、Mailchimp 和 Brevo 价格页面上的内容，按情况整理： -> 下表依据 Hostinger、Mailchimp 和 Brevo 价格页面上的内容，按情况整理：
+- hostinger-reach-ou-mailchimp-brevo | V | zh-hans | Mailchimp 与 Brevo：免费版 (2 ocorrências: linhas Mailchimp 免费版 e Brevo 免费版) | "0", -> "免费",
+- hostinger-reach-ou-mailchimp-brevo | TR | zh-hant | 依情況選擇：一張表 | 下表依據 2026 年 10 月 30 日 Hostinger、Mailchimp 和 Brevo 價格頁面上的內容，依情況整理： -> 下表依據 Hostinger、Mailchimp 和 Brevo 價格頁面上的內容，依情況整理：
+- hostinger-reach-ou-mailchimp-brevo | V | zh-hant | Mailchimp 與 Brevo：免費版 (2 ocorrências: linhas Mailchimp 免費版 e Brevo 免費版) | "0", -> "免費",
+- hostinger-ou-hostgator | V | en | SONAR20 on Hostinger | Use the code **SONAR20** in the coupon field of the cart, or come in through this art -> Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first peri
+- hostinger-ou-hostgator | V | en | What if it's a VPS? | We did not test SONAR20 on the VPS, so check the price in the cart before you sign. -> We did not test SONAR20 on the VPS, so check the price in the cart before you buy.
+- hostinger-ou-hostgator | N | fr | Prix de Hostinger | 100 GB NVMe -> 100 Go NVMe
+- hostinger-ou-hostgator | N | fr | Et si c'est un VPS ? | 4 GB -> 4 Go
+- hostinger-ou-hostgator | N | fr | Et si c'est un VPS ? | 50 GB -> 50 Go
+- hostinger-ou-hostgator | N | fr | Et si c'est un VPS ? | 8 GB -> 8 Go
+- hostinger-ou-hostgator | V | it | I piani, mese per mese | I piani non si incontrano uno a uno -> I piani non combaciano uno a uno
+- hostinger-ou-hostgator | V | it | E se serve un VPS? | Non abbiamo testato il SONAR20 sul VPS: controlla il prezzo nel carrello prima di fir -> Non abbiamo testato il SONAR20 sul VPS: controlla il prezzo nel carrello prima di pagare.
+- hostinger-ou-hostgator | V | de | Kurze Antwort | Bei der Verlängerung ist der Premium der Hostinger der günstigste Tarif, und der Unli -> Bei der Verlängerung ist Hostingers Premium der günstigste Tarif, und der Unlimited ist der Tarif für viele We
+- hostinger-ou-hostgator | V | de | Wer schreibt | Der Text verbindet, was die internationalen Seiten der Hostinger sagen. -> Der Text bündelt, was die internationalen Seiten der Hostinger sagen.
+- hostinger-ou-hostgator | F | de | [cta] | Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Waren -> Wir haben die Verlängerung nicht getestet: Prüfen Sie den Preis im Warenkorb.
+- hostinger-ou-hostgator | N | ja | Hostingerの料金 | US$167.52/月 -> US$167.52
+- hostinger-ou-hostgator | N | ja | Hostingerの料金 | US$383.52/月 -> US$383.52
+- hostinger-ou-hostgator | N | ko | 호스팅어 가격 | US$ 167.52/월 -> US$ 167.52
+- hostinger-ou-hostgator | N | ko | 호스팅어 가격 | US$ 383.52/월 -> US$ 383.52
+- hostinger-ou-hostgator | F | ko | [title] | 호스팅어와 다른 호스팅 중 어느 쪽이 나을까? 웹사이트 가격과 기준 -> 호스팅어 플랜 중 어느 쪽이 나을까? 웹사이트 가격과 기준
+- hostinger-ou-hostgator | F | ko | [seoTitle] | 호스팅어와 다른 호스팅 비교: 가격과 갱신 기준 -> 호스팅어 플랜 비교: 가격과 갱신 기준
+- hostinger-ou-hostgator | F | ko | [cta.label] | 할인 플랜 보기 -> SONAR20으로 플랜 보기
+- hostinger-ou-hostgator | N | zh-hans | Hostinger 的价格 | US$ 167.52/月 -> US$ 167.52
+- hostinger-ou-hostgator | N | zh-hans | Hostinger 的价格 | US$ 383.52/月 -> US$ 383.52
+- hostinger-ou-hostgator | F | zh-hans | [title] | Hostinger 与其他主机，哪个更适合你的网站？价格与选择标准 -> Hostinger 套餐，哪个更适合你的网站？价格与选择标准
+- hostinger-ou-hostgator | F | zh-hans | [seoTitle] | Hostinger 与其他主机对比：价格与续费标准 -> Hostinger 套餐对比：价格与续费标准
+- hostinger-ou-hostgator | N | zh-hant | Hostinger 的價格 | US$ 167.52/月 -> US$ 167.52
+- hostinger-ou-hostgator | N | zh-hant | Hostinger 的價格 | US$ 383.52/月 -> US$ 383.52
+- hostinger-ou-hostgator | F | zh-hant | [title] | Hostinger 與其他主機，哪個更適合你的網站？價格與選擇標準 -> Hostinger 方案，哪個更適合你的網站？價格與選擇標準
+- hostinger-ou-hostgator | F | zh-hant | [seoTitle] | Hostinger 與其他主機比較：價格與續訂標準 -> Hostinger 方案比較：價格與續訂標準
+- wordpress-na-hostinger | V | fr | Réponse rapide | Si vous avez déjà décidé d'utiliser WordPress chez Hostinger, le forfait Premium couv -> Si vous avez déjà décidé d'utiliser WordPress chez Hostinger, le forfait Premium couvre jusqu'à trois sites. U
+- wordpress-na-hostinger | V | fr | Quel forfait pour quel projet | **Plusieurs sites ou une boutique WooCommerce : Unlimited.** Sites illimités, 50 Go N -> **Plusieurs sites ou une boutique WooCommerce : Unlimited.** Sites illimités, 50 Go NVMe et sauvegardes quotid
+- wordpress-na-hostinger | V | fr | Ce qui est inclus dans les forfaits | **Sauvegardes.** Premium a des sauvegardes hebdomadaires, et Unlimited des sauvegarde -> **Sauvegardes.** Premium a des sauvegardes hebdomadaires, et Unlimited des sauvegardes quotidiennes. La page n
+- wordpress-na-hostinger | F | it | Risposta rapida | Per chi ha già deciso di usare WordPress su Hostinger, il piano Premium copre fino a  -> Per chi ha già deciso di usare WordPress su Hostinger, il piano Premium copre fino a tre siti, mentre Unlimite
+- wordpress-na-hostinger | N | it | Quale piano prendere: il verdetto | **Il Cloud Startup** ha senso solo se l'Unlimited non basta. È il più caro, e il rinn -> **Il Cloud Startup** ha senso solo se l'Unlimited non basta. È il più caro, e il rinnovo di US$ 25,99 al mese 
+- wordpress-na-hostinger | N | it | Domande frequenti | Il prezzo di rinnovo è uguale a quello promozionale? No. Dopo il primo periodo di 48  -> Il prezzo di rinnovo è uguale a quello promozionale? No. Dopo il primo periodo di 48 mesi vale il prezzo di ri
+- wordpress-na-hostinger | F | de | Kurze Antwort | Wer bei Hostinger schon WordPress nutzen will, nimmt den Premium für bis zu drei Webs -> Wer bei Hostinger schon WordPress nutzen will, nimmt Premium für bis zu drei Websites. Unlimited und Cloud Sta
+- wordpress-na-hostinger | V | de | [alt do quadro] | Quadro der WordPress-Tarife von Hostinger nach Projekt: bis zu 3 Websites im Premium; -> Übersicht der WordPress-Tarife von Hostinger nach Projekt: bis zu 3 Websites im Premium; mehrere Websites oder
+- wordpress-na-hostinger | F | de | [metaDescription] | WordPress bei Hostinger: Premium, Unlimited oder Cloud Startup? Tarif pro Projekt, Pr -> WordPress bei Hostinger: Premium, Unlimited oder Cloud Startup? Tarif pro Projekt, Preis und Verlängerung am 3
+- wordpress-na-hostinger | N | de | Welchen Tarif nehmen: das Fazit | **Der Cloud Startup** lohnt sich nur, wenn der Unlimited nicht reicht. Er ist der teu -> **Der Cloud Startup** lohnt sich nur, wenn der Unlimited nicht reicht. Er ist der teuerste, und die Verlängeru
+- wordpress-na-hostinger | N | de | Häufige Fragen | Ist der Verlängerungspreis derselbe wie der Aktionspreis? Nein. Nach dem ersten Zeitr -> Ist der Verlängerungspreis derselbe wie der Aktionspreis? Nein. Nach dem ersten Zeitraum von 48 Monaten gilt d
+- wordpress-na-hostinger | V | zh-hans | 按项目选套餐 | 在 Hostinger 的 WordPress 主机上，问题不是"哪个套餐有 WordPress"，而是"我会有几个网站，需要多少备份"。 -> 在 Hostinger 的 WordPress 主机上，问题不是“哪个套餐有 WordPress”，而是“我会有几个网站，需要多少备份”。
+- vestido-de-festa-shein | V | en | How to choose by occasion | If the party falls in Christmas or New Year's Eve week, place the order only after yo -> If the party falls during Christmas or New Year's week, place the order only after you see the delivery estima
+- vestido-de-festa-shein | V | es | Preguntas frecuentes | ¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del p -> ¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido. Sume los días de p
+- vestido-de-festa-shein | V | fr | [imageAlt] | Robes de soirée SHEIN bleu marine et bleu poudré, pour Noël, le réveillon du Nouvel A -> Robes de soirée SHEIN bleu marine et bleu poudré, pour Noël, le réveillon et la remise de diplôme
+- vestido-de-festa-shein | V | de | So wählen Sie nach Anlass | Schauen Sie auf Einladung und Uhrzeit. -> Schauen Sie auf die Einladung und die Uhrzeit.
+- vestido-de-festa-shein | V | de | So wählen Sie nach Anlass | Schauen Sie vor der Farbwahl auf Einladung und Uhrzeit der Zeremonie. -> Schauen Sie vor der Farbwahl auf die Einladung und die Uhrzeit der Zeremonie.
+- vestido-de-festa-shein | TR | ja | [editorialNote] | データは掲載日にSHEINで確認しました。 -> データは掲載日にSHEINで確認済みです。
+- vestido-de-festa-shein | TR | ja | [metaDescription] | お店の3着は各商品ページで確認しました。 -> お店の3着は各商品ページで確認済みです。
+- vestido-de-festa-shein | F | ja | 商品説明の読み方 | 組成、裏地、透け感、丈、ファスナー、洗濯方法が書かれています。 -> 組成、裏地、透け感、丈、留め具、洗濯方法が書かれています。
+- vestido-de-festa-shein | TR | ko | [editorialNote] | 데이터는 게재일에 SHEIN에서 확인했습니다. -> 데이터는 게재일에 SHEIN에서 확인한 내용입니다.
+- vestido-de-festa-shein | TR | ko | [metaDescription] | 쇼핑몰의 드레스 3벌은 각 상품 페이지에서 확인했습니다. -> 쇼핑몰의 드레스 3벌은 각 상품 페이지에서 확인한 내용입니다.
+- vestido-de-festa-shein | V | ko | 행사에 맞춰 고르는 법 [alt] | 네이비 스팽글 롱 드레스에 옆트임이 있는 드레스를 입고 야외에 선 모델 -> 옆트임이 있는 네이비 스팽글 롱 드레스를 입고 야외에 선 모델
+- vestido-de-festa-shein | V | ko | SHEIN에서 확인한 드레스 3벌 [alt] | 네이비 스팽글 롱 드레스에 슬릿이 있는 드레스를 입고 대리석 바닥에 선 모델 -> 슬릿이 있는 네이비 스팽글 롱 드레스를 입고 대리석 바닥에 선 모델
+- vestido-de-festa-shein | F | zh-hans | 在 SHEIN 核对过的三条裙子 [tabela] | 95% 聚酯纤维，5% 氨纶。有里衬，不透明，及地长度。 -> 95% 聚酯纤维，5% 氨纶。有里衬，不透明，及踝长度。
+- vestido-de-festa-shein | V | zh-hans | 在 SHEIN 核对过的三条裙子 [tabela] | 短裙，剪裁式，方领 -> 短裙，西装式，方领
+- vestido-de-festa-shein | V | zh-hans | 在 SHEIN 核对过的三条裙子 [styling] | 剪裁式设计适合配包头鞋和挺括的包 -> 西装式设计适合配包头鞋和挺括的包
+- vestido-de-festa-shein | V | zh-hans | 付款之前 | 店内活动在 [SHEIN 页面](/zh-hans/coupons/shein)。 -> 店内活动在[SHEIN 页面](/zh-hans/coupons/shein)。
+- vestido-de-festa-shein | V | zh-hant | 付款之前 | 店內活動在 [SHEIN 頁面](/zh-hant/coupons/shein)。 -> 店內活動在[SHEIN 頁面](/zh-hant/coupons/shein)。
+- vestido-de-festa-shein | V | zh-hant | 在 SHEIN 查證過的三件洋裝 [styling] | 有型的包包 -> 挺括的包包
+
+## Trechos que não batem por literal exato
+
+Muse: 41/124 | Minha: 12/135. Localizar pelo capítulo/campo ou descartar.
+
+### Muse
+
+- shein-reclame-aqui-nota-reputacao | F | it | CTA | Se decidi di comprare, entra dal sito o dall'app ufficiale di SHEIN e conserva la conferma dell'ordine e il co
+- shein-reclame-aqui-nota-reputacao | V | it | Cosa misura il punteggio | Il 28 ottobre 2026 SHEIN aveva 3,8, con l'etichetta «Great», su 353.435 recensioni; 22.625 di queste erano sta
+- shein-reclame-aqui-nota-reputacao | V | it | Prima di pagare | Se il pacco non arriva o l'articolo è sbagliato, chiedi il rimborso dal canale del negozio, sul sito o nell'ap
+- shein-reclame-aqui-nota-reputacao | N | de | Häufige Fragen | …und die britische Regionalseite zeigte dasselbe Profil. …
+- hostinger-reach-ou-mailchimp-brevo | F | en | The Reach plans | …They can vary by country and currency, and they can change:
+- hostinger-reach-ou-mailchimp-brevo | F | es | Los planes de Reach | …Pueden variar según el país y la moneda, y pueden cambiar:
+- hostinger-reach-ou-mailchimp-brevo | F | fr | Les forfaits Reach | …Ils peuvent varier selon le pays et la devise, et changer :
+- hostinger-reach-ou-mailchimp-brevo | V | de | Häufige Fragen | Hat Hostinger Reach einen kostenlosen Tarif? Nein: Alle drei Tarife sind bezahlt. …
+- hostinger-reach-ou-mailchimp-brevo | N | de | Welches Tool für wen: die Tabelle (alt) | Quadro Reach, Mailchimp oder Brevo nach Profil: …
+- hostinger-reach-ou-mailchimp-brevo | F | ko | Reach 플랜 | …국가와 통화에 따라 달라질 수 있습니다.
+- hostinger-reach-ou-mailchimp-brevo | N | ko | Mailchimp와 Brevo: 무료 플랜 (tabela) | 0 (coluna 가격, linhas Mailchimp/Brevo 무료)
+- hostinger-reach-ou-mailchimp-brevo | F | zh-hans | Reach 套餐 | …下面是 2026 年 10 月 30 日在 Hostinger 国际站读到的美元价格，属于黑色星期五促销期间的价格，可能因国家和货币而异：
+- hostinger-reach-ou-mailchimp-brevo | N | zh-hans | Mailchimp 与 Brevo：免费版 (tabela) | 0 (coluna 价格)
+- hostinger-reach-ou-mailchimp-brevo | F | zh-hant | Reach 方案 | …下面是 2026 年 10 月 30 日在 Hostinger 國際站讀到的美元價格，屬於黑色星期五促銷期間的價格，可能因國家和幣別而異：
+- hostinger-reach-ou-mailchimp-brevo | N | zh-hant | Mailchimp 與 Brevo：免費版 (tabela) | 0 (coluna 價格)
+- hostinger-ou-hostgator | N | ja | Hostingerの料金 (tabela) | US$119.52/月 / US$167.52/月 / US$383.52/月 na coluna 48か月の総額
+- hostinger-ou-hostgator | N | ko | 호스팅어 가격 (tabela) | US$ 119.52/월 / US$ 167.52/월 / US$ 383.52/월 na coluna 48개월 총액
+- hostinger-ou-hostgator | N | zh-hans | Hostinger 的价格 (tabela) | US$ 119.52/月 / US$ 167.52/月 / US$ 383.52/月 na coluna 48个月总价
+- hostinger-ou-hostgator | N | zh-hant | Hostinger 的價格 (tabela) | US$ 119.52/月 / US$ 167.52/月 / US$ 383.52/月 na coluna 48個月總價
+- hostinger-ou-hostgator | N | fr | Prix de Hostinger (tabela) | linha Premium 20 Go SSD contra 50 GB NVMe e 100 GB NVMe
+- wordpress-na-hostinger | V | fr | Prix et renouvellement | …Les prix peuvent varier selon le pays et la devise : vérifiez dans le panier :
+- wordpress-na-hostinger | F | it | Risposta rapida | …mentre Unlimited o Cloud Startup servono per più siti o un negozio, con backup giornalieri. …
+- wordpress-na-hostinger | F | it | Come iniziare: la checklist | **5. Installa pochi plugin.** Parti da quello che il sito serve oggi: …
+- wordpress-na-hostinger | N | it | Quale piano prendere: il verdetto | …e il rinnovo di 25,99 US$ al mese pesa.
+- wordpress-na-hostinger | N | it | Domande frequenti | …per il Premium, 10,99 US$ al mese.
+- wordpress-na-hostinger | F | de | Kurze Antwort | …Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht und enthalten tägliche Backups.
+- wordpress-na-hostinger | V | de | Welcher Tarif für welches Projekt (alt) | Quadro der WordPress-Tarife von Hostinger nach Projekt: …
+- wordpress-na-hostinger | N | de | Welchen Tarif nehmen: das Fazit | …und die Verlängerung von 25,99 US$ im Monat fällt stark ins Gewicht.
+- wordpress-na-hostinger | N | de | Häufige Fragen | …beim Premium 10,99 US$ im Monat.
+- wordpress-na-hostinger | V | ja | WordPress を使わない場合 | インストールやテーマ、プラグインの更新をしたくない場合は、同じプランに Hostinger の AI ビルダーも含まれています。…
+- vestido-de-festa-shein | TR | ja | description | …お店で確認した3着を紹介します。
+- vestido-de-festa-shein | TR | ja | SHEINで確認した3着 | 生地、丈、評価は各商品ページの情報で、2026年10月30日に確認しました。…
+- vestido-de-festa-shein | TR | ja | よくある質問 | …説明に書かれた丈と、その商品のサイズガイドにあるセンチ表記で判断します。
+- vestido-de-festa-shein | F | ko | 자주 묻는 질문 | …주문 날짜에 달렸습니다. …
+- vestido-de-festa-shein | TR | ko | description | …쇼핑몰에서 확인한 드레스 3벌을 소개합니다.
+- vestido-de-festa-shein | TR | ko | SHEIN에서 확인한 드레스 3벌 | 소재, 길이, 평점은 각 상품 페이지의 정보이며 2026년 10월 30일에 확인했습니다. …
+- vestido-de-festa-shein | TR | ko | 자주 묻는 질문 | …해당 상품 사이즈 가이드의 센티미터 치수로 확인합니다.
+- vestido-de-festa-shein | F | zh-hant | 在 SHEIN 查證過的三件洋裝 | …標題寫短版，說明寫及膝款。
+- vestido-de-festa-shein | F | zh-hant | 常見問題 | 怎麼知道洋裝是長版還是及膝款？…
+- vestido-de-festa-shein | F | zh-hant | 依場合挑選 | 聖誕晚餐選輕薄布料的及膝洋裝；…
+- vestido-de-festa-shein | F | zh-hant | 在 SHEIN 查證過的三件洋裝 | 西裝剪裁適合搭包鞋與有型的包包；…
+
+### Minha
+
+- yesstyle-trustpilot-nota-reclamacoes | F | ko | 칭찬에서 보이는 것 | 예정보다 일찍 도착하는 배송。
+- yesstyle-trustpilot-nota-reclamacoes | V | ko | 결제하기 전에 | 불만이 배송에 몰려 있으니 결제 전에 확인할 것은 결제 화면에 표시되는 자기 나라의 배송비와 배송 기간입니다。
+- yesstyle-trustpilot-nota-reclamacoes | V | ko | [cta] | 구매하기로 했다면, 결제 전에 결제 화면에서 여러분 나라의 배송비와 배송 기간을 확인하고 주문 번호를 보관하세요。
+- shein-reclame-aqui-nota-reputacao | F | it | [cta] | conserva la conferma dell'ordine e il codice di tracciamento
+- shein-reclame-aqui-nota-reputacao | V | ko | 숫자를 다르게 읽게 하는 세 가지 | 회원님이 계신 나라의 배송이 어떨지는 이 숫자로 알 수 없습니다。
+- shein-reclame-aqui-nota-reputacao | V | ko | Trustpilot: 누가, 어디에서 평가하나 | 리뷰를 나라별로 나누지 않고, 회원님이 계신 나라나 다른 나라에서 온 리뷰가 몇 건인지도 페이지에 나오지 않습니다。
+- shein-reclame-aqui-nota-reputacao | V | ko | Trustpilot: 누가, 어디에서 평가하나 | 이 평점은 회사가 전체적으로 어떻게 움직이는지를 말해 줄 뿐, 회원님 주소로 오는 배송이 어떤지를 말해 주지는 않습니다。
+- shein-reclame-aqui-nota-reputacao | F | ko | 평점이 측정하는 것 | 다섯 개와 네 개가 대부분을 차지하고, 별 한 개는 두 개와 세 개를 합친 것보다 많습니다. 불만은 바로 여기에 모여 있습니다。
+- hostinger-reach-ou-mailchimp-brevo | V | ko | Mailchimp와 Brevo: 무료 플랜 (2 ocorrências: linhas Mailchimp 무료 e Brevo 무료) | "0",
+- hostinger-reach-ou-mailchimp-brevo | V | zh-hans | Mailchimp 与 Brevo：免费版 (2 ocorrências: linhas Mailchimp 免费版 e Brevo 免费版) | "0",
+- hostinger-reach-ou-mailchimp-brevo | V | zh-hant | Mailchimp 與 Brevo：免費版 (2 ocorrências: linhas Mailchimp 免費版 e Brevo 免費版) | "0",
+- wordpress-na-hostinger | V | zh-hans | 按项目选套餐 | 在 Hostinger 的 WordPress 主机上，问题不是"哪个套餐有 WordPress"，而是"我会有几个网站，需要多少备份"。
+
+## Notas da conferência
+
+- Contagens: Muse 124 FIX (F53 V32 N22 TR17); minha 135 (F34 V58 N27 TR16). Notas 6/6 nas duas — atenção: as notas da minha passada saíram em escala de 10 (9, 10, 8,5), não de 5 como o pedido; tratar como "alta/baixa" relativo, não comparar número com o Muse.
+- Mesmo trecho (40) subestima a concordância: recortes de tamanhos diferentes caem em "só" dos dois lados. Onde as duas concordam, aplicar direto; onde divergem, escolher entre versões prontas.
+- Literais: Muse 83/124 — os 41 que não batem são, na maioria, citação parcial com `…`, descrição de célula de tabela (`0 (coluna 가격)`, `US$119.52/月 … na coluna`), ou trecho com `(idem)`/`mesmo texto +`: localizar pelo capítulo/campo, não descartar sem procurar. Minha 123/135 — os 12 são coreano com `。`, as 3 citações da célula `"0"` e aspas curvas do zh: localizáveis.
+- Travas: "1ª pessoa some" = 6 nas DUAS passadas, e são os mesmos casos: remoção de 1ª pessoa que o PT não tem (en `we read`→particípio, zh 我们/我們→本次, FAQ en da 32 impessoal). Nenhum apaga uso real — o "eu levaria"/"lemos" que o PT tem foi mantido nas duas. Surge: 0. CECILIA010 como cupom: 0. Link de concorrente: 0. SHEIN com país: 0.
+- Mais longos que o original: 44 (Muse) e 36 (minha); quase todos repõem frase do PT (reembolso de 30 dias, Brevo Professional, domínio grátis, ressalva do download). Aparar ou aceitar na aplicação.
+- Divergência maior: família 30 — Muse 14, minha 36. A minha detalha o padrão do total de 48 meses com `/月`/`/월` em ja/ko/zh (12 células) e o decision "plano de entrada" sem o "custa menos" do PT em 5 idiomas; o Muse lista os dois padrões resumidos. Conferir os dois conjuntos juntos.
+- Respostas aos pontos do PR #508 — as duas passadas concordam: (a) "eu levaria" do Reach (29) e da HostGator (30) existe no PT e está espelhado/adaptado (Premium 1–3 sites), manter; (b) 1ª pessoa es/fr/it da 27 segue o "lemos" do PT, não mexer; (c) "Três leituras" da 28 refeito fiel nas 9, números com fonte no próprio artigo — e as duas pegam o mesmo erro grave fora dele: ja/ko/zh afirmam "a maior reclamação é pacote que não chega" sem contagem no artigo (dado sem fonte = F); (d) capítulo genérico de imposto da 32: a minha registra que ele não alega dado algum ("depende do país, confira o resumo") e é o resto correto do capítulo do PT que era 100% Brasil — manter ou cortar, sem acrescentar dados.
+- Famílias regionais tratadas pela estrutura/voz/veredito, não frase a frase; dado regional conferido contra a fonte citada no próprio artigo.
+- Legenda e alt revisados como corpo nas duas (alt "Quadro" em português no de das famílias 29/31, alt da 32, legendas da 27/31).
+- Backup: `backup-trad-lote-05` com as 60 traduções antigas + lista + SHA-BASE (main `3a861b97` na cópia, baseline declarado pelo Claude), conferido. Baseline `validate:content` não roda no worktree `artigos-voz`: rodar no checkout com dependências antes de aplicar.
