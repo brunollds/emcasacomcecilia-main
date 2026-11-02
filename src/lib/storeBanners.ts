@@ -3,9 +3,9 @@ import { storeBannersData } from '@/lib/generated/store-banners';
 
 // Banners de campanha das lojas parceiras nos artigos, com o selo "Publicidade" (o selo fica em articleCopy.ts).
 // Entram sozinhos em todo artigo com o `affiliate` da loja, nos 10 idiomas: o lugar `top` depois da 1ª seção do
-// corpo e o `mid` antes do FAQ (sem FAQ, antes da última seção). O banner fala só da campanha: o código da loja
-// continua no bloco da loja, e nenhum texto daqui cita o código nem diz que soma com ele.
-export type StoreBannerSlot = 'top' | 'mid';
+// corpo, o `mid` antes do FAQ (sem FAQ, antes da última seção) e o `end` depois da última seção. O banner fala só da
+// campanha: o código da loja continua no bloco da loja, e nenhum texto daqui cita o código nem diz que soma com ele.
+export type StoreBannerSlot = 'top' | 'mid' | 'end';
 
 export type StoreBannerCopy = { headline: string; text: string; action: string; tag?: string };
 
@@ -74,9 +74,14 @@ export function storeBannersOverlap(a: Pick<StoreBanner, 'startsAt' | 'endsAt'>,
 }
 
 // A seção em que cada lugar cai, pelos ids das seções do corpo na ordem da página: o `top` vai depois da primeira;
-// o `mid` vai antes do FAQ ou, sem FAQ, antes da última. Entre os dois banners fica pelo menos uma seção inteira.
+// o `mid` vai antes do FAQ ou, sem FAQ, antes da última; o `end` vai depois da última (do FAQ, quando ele fecha o
+// corpo), e só em artigo de 4 seções ou mais. Entre dois banners fica sempre pelo menos uma seção inteira.
 export function placeStoreBanners(sectionIds: string[], faqIndex: number): Partial<Record<StoreBannerSlot, string>> {
   if (sectionIds.length === 0) return {};
   const midIndex = faqIndex >= 0 ? faqIndex : sectionIds.length - 1;
-  return { top: sectionIds[0], ...(midIndex >= 2 && { mid: sectionIds[midIndex] }) };
+  return {
+    top: sectionIds[0],
+    ...(midIndex >= 2 && { mid: sectionIds[midIndex] }),
+    ...(sectionIds.length >= 4 && { end: sectionIds[sectionIds.length - 1] }),
+  };
 }

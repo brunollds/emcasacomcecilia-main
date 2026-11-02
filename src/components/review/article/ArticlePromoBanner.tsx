@@ -35,7 +35,7 @@ export function ArticlePromoBanner({ banner, locale, storeBrand, reviewSlug, hid
         brand={storeBrand}
         contentSlug={reviewSlug}
         sponsored={!isArticleBannerHref(banner.href)}
-        placement={banner.slot === 'top' ? 'review_banner_top' : 'review_banner_mid'}
+        placement={`review_banner_${banner.slot}`}
         className={`grid grid-cols-[auto_minmax(0,1fr)] items-center gap-4 rounded-2xl border-2 border-marinho bg-creme p-4 shadow-[4px_4px_0_var(--color-marinho)] md:grid-cols-[auto_minmax(0,1fr)_auto] md:gap-6 md:px-6 md:py-5 motion-safe:transition-[translate,box-shadow] motion-safe:hover:-translate-px motion-safe:hover:shadow-[5px_5px_0_var(--color-marinho)] ${FOCUS_RING}`}
       >
         <BannerArt art={banner.art} tag={tag} />

@@ -58,8 +58,10 @@ assert.equal(storeBannersOverlap({ endsAt: day(10) }, { startsAt: day(11) }), fa
 
 // O lugar 1 depois da 1ª seção; o 2 antes do FAQ ou, sem FAQ, antes da última, com uma seção inteira entre os dois.
 assert.deepEqual(placeStoreBanners([], -1), {});
-assert.deepEqual(placeStoreBanners(['a', 'b', 'c', 'faq'], 3), { top: 'a', mid: 'faq' });
-assert.deepEqual(placeStoreBanners(['a', 'b', 'c'], -1), { top: 'a', mid: 'c' });
+assert.deepEqual(placeStoreBanners(['a', 'b', 'c', 'faq'], 3), { top: 'a', mid: 'faq', end: 'faq' }, 'end depois do FAQ');
+assert.deepEqual(placeStoreBanners(['a', 'b', 'c', 'd', 'faq', 'f'], 4), { top: 'a', mid: 'faq', end: 'f' }, 'FAQ no meio do corpo');
+assert.deepEqual(placeStoreBanners(['a', 'b', 'c', 'd'], -1), { top: 'a', mid: 'd', end: 'd' }, 'sem FAQ: antes e depois da última');
+assert.deepEqual(placeStoreBanners(['a', 'b', 'c'], -1), { top: 'a', mid: 'c' }, 'artigo de três seções, sem o end');
 assert.deepEqual(placeStoreBanners(['a', 'faq', 'c'], 1), { top: 'a' }, 'FAQ logo depois da 1ª seção');
 assert.deepEqual(placeStoreBanners(['a', 'b'], -1), { top: 'a' }, 'artigo de duas seções');
 

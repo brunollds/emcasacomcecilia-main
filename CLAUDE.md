@@ -266,7 +266,7 @@ vídeo, primeiras impressões e uso noturno.
   por dentro para o recorte continuar à vista.
 - `placement` dos eventos `coupon_copy` e `coupon_store_click` dos artigos: `review_top`, `review_inline`,
   `review_sidebar`, `review_mobile_dock`, `review_mobile_drawer` e `review_end`, mais `review_banner_top`,
-  `review_banner_mid` e `review_styling` (só `coupon_store_click`, sem `coupon_code`). `review_final_cta` e
+  `review_banner_mid`, `review_banner_end` e `review_styling` (só `coupon_store_click`, sem `coupon_code`). `review_final_cta` e
   `review_verdict` saíram; componente novo do artigo passa sempre um desses.
 - Card de estilo dos artigos de roupa ("Como usar / Ocasião / Combina com"): o campo `styling` da seção
   (`{ layout?: 'tabs' | 'tags', items: [...] }`, tipos em `src/lib/content/types.ts`), desenhado por
@@ -301,8 +301,9 @@ vídeo, primeiras impressões e uso noturno.
   as regras. Chaveadas pelo `affiliate`, entram sozinhas em todo artigo da loja. A campanha leva só o texto em
   português (sai só nos artigos em PT e pode levar à loja brasileira, `.com.br` inclusive) ou os 10 idiomas (sai em
   todas as versões, com um link que vale em todas, nunca de um país só); o `test:store-banners` barra o meio-termo. O
-  `top` vai logo depois da 1ª seção do corpo
-  e o `mid` logo antes do FAQ (sem FAQ, da última), pela prop `slots` do `ReviewContentSections`. O banner
+  `top` vai logo depois da 1ª seção do corpo, o `mid` logo antes do FAQ (sem FAQ, da última) e o `end` logo depois
+  da última seção (do FAQ, quando ele fecha o corpo; abaixo do quadro de decisão), só em artigo de 4 seções ou mais,
+  pela prop `slots` do `ReviewContentSections`. O banner
   (`ArticlePromoBanner`, de `src/components/review/article/`) fala só da campanha: nunca cita o código da loja nem diz
   que soma com ele. O selo vem de `adLabel` (`articleCopy.ts`). Datas com `-03:00`; o artigo é gerado no build, então
   a campanha que começa ou vence entre dois deploys aparece ou some no navegador (`CampaignWindow`): a que ainda não

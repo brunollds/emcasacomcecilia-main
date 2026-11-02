@@ -13,7 +13,9 @@ da YesStyle seguem a `docs/MANUTENCAO-MENSAL.md`. Deploy, só pelo `docs/DEPLOY-
 Cada campanha é um arquivo `content/campanhas/<id>.json`. Ela entra sozinha em todo artigo com o `affiliate` da loja:
 
 - o lugar `top` fica logo depois da 1ª seção do corpo;
-- o lugar `mid` fica logo antes do FAQ (sem FAQ, antes da última seção).
+- o lugar `mid` fica logo antes do FAQ (sem FAQ, antes da última seção);
+- o lugar `end` fica logo depois da última seção do corpo (depois do FAQ, quando ele fecha o artigo), e só em artigo
+  de 4 seções ou mais.
 
 O banner leva o selo "Publicidade" e fala só da campanha da loja: Black Friday, esquenta, liquidação, brinde e afins.
 O código da loja continua no bloco da loja do artigo.
@@ -91,7 +93,7 @@ A lista sai das lojas ativas de `src/lib/couponsData.ts`; loja nova entra aqui n
 - **Datas com hora e fuso de Brasília**: `2026-11-27T00:00:00-03:00` no início e `2026-11-30T23:59:59-03:00` no fim.
   Sem `startsAt`, a campanha já começou; sem `endsAt`, fica até o arquivo sair.
 - **Mesmo lugar, sem sobreposição**: duas campanhas da mesma loja no mesmo lugar não podem estar no ar ao mesmo tempo.
-  Para as duas aparecerem juntas, use os dois lugares (`top` e `mid`).
+  Para as duas aparecerem juntas, use lugares diferentes (`top`, `mid` e `end`).
 - **A arte**:
   - `{ "kind": "tag", "value": "50%" }` é a etiqueta com o número. Cada idioma leva o `tag` com o "até", porque o
     número sozinho diria um desconto fixo.
